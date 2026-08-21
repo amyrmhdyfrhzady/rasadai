@@ -1420,8 +1420,7 @@ STRICT OUTPUT JSON:
                     )
 
                     proxy_items.append(
-                        f"🛡 <a href=\"{esc(clean_tg)}\">"
-                        f"{esc(name)}</a> "
+                        f"🛡{esc(name)}"
                         f"(<code>{esc(latency)}ms</code>)"
                     )
 
