@@ -1255,15 +1255,15 @@ STRICT OUTPUT JSON:
             logger.error(f"Bale standard fallback error: {e}")
             return False
 
-    def send_digest_to_telegram(self, items):
-    """Format and send digest to Bale with clean RTL HTML."""
-    token = CONFIG['TELEGRAM']['BOT_TOKEN']
-    chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
+        def send_digest_to_telegram(self, items):
+        """Format and send digest to Bale with clean RTL HTML."""
+        token = CONFIG['TELEGRAM']['BOT_TOKEN']
+        chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
 
-    if not token or not chat_id or not items:
-        return False
+           if not token or not chat_id or not items:
+              return False 
 
-    items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
+              items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
 
     def to_farsi_num(num):
         return str(num).translate(
