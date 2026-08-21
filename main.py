@@ -259,7 +259,6 @@ class IranNewsRadar:
         return (
             f"🌤 <b>تهران:</b> {temperature}°C — {condition}\n"
             f"💧 رطوبت: {humidity}٪ | 💨 باد: {wind} km/h\n"
-            f"🌐 <i>داده هواشناسی: Open-Meteo / ECMWF</i>\n\n"
         )
 
     def _is_schedule_already_sent(self, slot_key):
@@ -477,7 +476,12 @@ class IranNewsRadar:
             return []
 
     def fetch_market_rates(self):
-        data = {"usd": "نامشخص", "oil": "نامشخص", "updated": "--:--"}
+        data = {
+         "usd": "نامشخص",
+         "oil": "نامشخص",
+         "gold18": "نامشخص",
+         "updated": "--:--"
+                }
         try:
             resp = self.scraper.get("https://alanchand.com/en/currencies-price/usd", timeout=10)
             if resp.status_code == 200:
@@ -497,7 +501,25 @@ class IranNewsRadar:
                 data["oil"] = oil.get_text().strip()
         except Exception:
             pass
-        data["updated"] = time.strftime("%H:%M")
+                    # ── Gold 18K / gram ──
+        try:
+            resp = self.scraper.get(
+                "https://persiantoolbox.ir/api/market",
+                timeout=10
+            )
+
+            if resp.status_code == 200:
+                market = resp.json()
+                gold = market.get("gold", {})
+
+                price = gold.get("pricePerGram")
+
+                if price is not None:
+                    data["gold18"] = f"{int(float(price)):,} تومان"
+
+        except Exception as e:
+            logger.warning(f"Gold price fetch failed: {e}")
+        data["updated"] = self._get_tehran_time().strftime("%H:%M")
         return data
 
     # ───────────────────────── news search ─────────────────────────
@@ -1383,6 +1405,7 @@ STRICT OUTPUT JSON:
             market_html = (
                 f"💵 <b>دلار:</b> {esc(mkt.get('usd', '---'))}\n"
                 f"🛢 <b>نفت:</b> {esc(mkt.get('oil', '---'))}\n"
+                f"🪙 <b>طلای ۱۸ عیار:</b> {esc(mkt.get('gold18', '---'))}\n"
                 f"⏱ <b>آخرین بروزرسانی بازار:</b> {esc(mkt.get('updated', '--:--'))}\n"
             )
         except Exception:
