@@ -1276,7 +1276,6 @@ STRICT OUTPUT JSON:
         ir_time_str = to_farsi_num(now_ir.strftime("%H:%M"))
         ir_date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
 
-        base_site = "https://itsyebekhe.github.io/rasadai/"
 
         # ── Market ──
         market_html = ""
@@ -1454,27 +1453,39 @@ STRICT OUTPUT JSON:
             f"{chr(10).join(details)}"
             f"{tags_html}"
             f"{proxy_html}\n\n"
-            f"📊 <a href=\"{base_site}\">"
-            f"داشبورد زنده رصد</a>"
-            f" | 🆔 @RasadAIOfficial"
+            f"🆔 @FREEDOMPROJECT"
         )
 
         # Bale message limit
         if len(message) > 4000:
             message = message[:3950] + "\n\n…"
+            
+        proxy_buttons = []
 
+            for name, p in zip(names_pool, proxies):
+
+             raw_tg = p.get('tg_url', '#')
+
+             clean_tg = html.unescape(raw_tg).replace('&amp;', '&')
+
+             proxy_buttons.append({
+
+               "text": f"🛡 {name}",
+
+               "url": clean_tg
+
+                })
         inline_keyboard = {
-            "inline_keyboard": [[
-                {
-                    "text": "📊 داشبورد و رادار زنده",
-                    "url": base_site
-                },
-                {
-                    "text": "🛡 پروکسی‌های فعال",
-                    "url": "https://itsyebekhe.github.io/MTProtoNexus/"
-                }
-            ]]
-        }
+
+           "inline_keyboard": [
+
+           proxy_buttons[i:i + 2]
+
+           for i in range(0, len(proxy_buttons), 2)
+
+    ]
+
+}
 
         bale_api = (
             f"https://tapi.bale.ai/bot{token}/sendMessage"
