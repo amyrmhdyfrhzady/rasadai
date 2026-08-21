@@ -1,5 +1,24 @@
 [
     {
+        "id": "00d1b70f93",
+        "title_fa": "هشدار پدرخوانده هوش مصنوعی درباره خطر نابودی بشر با خروج کنترل فناوری",
+        "title_en": "Better call akbar 📱",
+        "summary": [
+            "جفری هینتون، معمار اصلی هوش مصنوعی مدرن، صریحاً هشدار داده که با عبور توانایی الگوریتم‌ها از هوش انسانی، کنترلی بر این فناوری نخواهیم داشت.",
+            "پیشرفت جهشی و بی‌سابقه مدل‌های هوش مصنوعی، خطرات این فناوری را از سناریوهای علمی-تخیلی به یک چالش واقعی و فوری امنیتی تبدیل کرده است.",
+            "تاکید هینتون در نشست سیاست‌گذاران نشان می‌دهد که تهدیدات هوش مصنوعی اکنون مستقیماً با امنیت ملی و آینده ساختارهای حکمرانی در جهان گره خورده است."
+        ],
+        "impact": "افزایش فشارهای جهانی روی شرکت‌های بزرگ فناوری برای پذیرش مقررات سخت‌گیرانه و کنترل توسعه هوش مصنوعی.",
+        "tag": "تکنولوژی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Telegram",
+        "url": "https://t.me/s/akbar1378ese",
+        "clean_url": "https://t.me/s/akbar1378ese",
+        "image": "https://cdn4.telesco.pe/file/NjETdya1Xsu-I5deyRbGkGcT_qRG4Zt7FI26FT610aJz56exeNooPFxRzzI-vvqR2PyRppzRQakKcA2hq3NWhSaovf-AE4H_zioLZD6KrEgRrfAkwZ3xdLYjBiY3VvbSTUzjF1OX3wZAfyQ5StHGa7PpIR8JafUpvjuRPFnQz3OQgbgw1hovxI2tJPMVzOjTfGL-wGzOG5FZCoQzS1qyOiJEVMgV3YUSxBzSRMbK3HLgEXodf7Q_JmxsAj0aP-PZEGoeJB4HjUDj7oVSwhy9U8Gnz5Wv7BWKVv2fb6pUQfGvmMhVNCD3v2kJXOZ0loqpI2kE-7QTLPg4fkRzghUryw.jpg",
+        "timestamp": 1787318407.659795
+    },
+    {
         "id": "59c009b395",
         "title_fa": "ادعای عجیب پزشکیان درباره پایان جنگ از موضع قدرت",
         "title_en": "Iran president says time to end war while in position of strength",
@@ -5585,24 +5604,5 @@
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785171600.0,
         "id": "073a3897d3"
-    },
-    {
-        "title_fa": "تغییر شیوه گزارش تلفات پنتاگون در جنگ علیه ایران: ابزار مدیریت ادراک، نه شفافیت",
-        "title_en": "Pentagon Changes How It Reports Casualties in Iran War",
-        "summary": [
-            "طبق گزارش نیویورک‌تایمز، پنتاگون «نحوه گزارش» تلفات در جنگ علیه ایران را تغییر داده است؛ یعنی داده‌های تلفات که رسانه‌ها و افکار عمومی بر پایه آن قضاوت می‌کنند، از این پس با قالب/روش متفاوتی ارائه خواهد شد.",
-            "این تغییر می‌تواند به کاهش یا مهار پیامدهای سیاسیِ تلفات (در افکار عمومی داخل آمریکا و میان متحدان) کمک کند، چون چارچوب ارائه آمار اثر مستقیم بر برداشت «شدت واقعی» جنگ دارد—حتی اگر عدد نهایی الزاماً تغییر نکرده باشد.",
-            "نبود شفافیت پایدار درباره تلفات، احتمال سوءبرداشت و بی‌اعتمادی را بالا می‌برد و می‌تواند به بی‌ثباتی در سطح روایت‌ها دامن بزند؛ در چنین شرایطی، رژیم‌ها و نهادهای جنگی معمولاً از «کنترل روایت» برای حفظ مشروعیت تصمیمات خود استفاده می‌کنند."
-        ],
-        "impact": "تغییر روش گزارش تلفات، عملاً میدان نبرد اطلاعاتی را به نفع مدیریت ادراک جابه‌جا می‌کند و اثر سیاسی-رسانه‌ای تلفات را بازطراحی می‌نماید.",
-        "tag": "اطلاعات",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
-        "clean_url": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785171600.0,
-        "id": "0f0054df4a"
     }
 ]
