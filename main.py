@@ -65,8 +65,11 @@ CONFIG = {
     'MIN_TEXT_LEN': 100,
     'MIN_AI_URGENCY_HINT': 5,
     'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
-    'GEMINI_MODEL': 'gemini-3.6-flash',
-    'AI_RETRIES': 3,
+    # Gemini models are discovered dynamically from the API at runtime.
+    # GEMINI_MODEL can optionally pin a model, but is NOT required.
+    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL'),
+    'AI_RETRIES': 1,
+    'GEMINI_MODEL_CACHE_SECONDS': 1800,
     'MIN_TELEGRAM_URGENCY': 7,
     'MAX_NEWS_AGE_HOURS': 18,
     'HISTORY_SIZE': 300,
@@ -189,7 +192,7 @@ class IranNewsRadar:
         """
         lat = 35.6892
         lon = 51.3890
-        url = "https://api.open-meteo.com/v1/ecmwf"
+        url = "https://api.open-meteo.com/v1/forecast"
         params = {
             "latitude": lat,
             "longitude": lon,
@@ -795,39 +798,172 @@ class IranNewsRadar:
 
     # ───────────────────────── AI analysis ─────────────────────────
 
+    def _gemini_model_sort_key(self, model):
+        """Sort Gemini models newest-first, preferring current text-generation models."""
+        name = (model.get("name") or "").split("/")[-1].lower()
+        display = (model.get("displayName") or "").lower()
+
+        # Extract version numbers such as 3.7, 3.6, 3.5, 2.5, etc.
+        nums = re.search(r"gemini[-_ ]?(\d+)(?:[._-](\d+))?", name)
+        major = int(nums.group(1)) if nums else 0
+        minor = int(nums.group(2) or 0) if nums and nums.group(2) else 0
+
+        # Preview/experimental builds of the same generation should come after
+        # the stable release unless their version is newer.
+        preview_penalty = 1 if any(x in name for x in ("preview", "experimental", "exp")) else 0
+        lite_penalty = 1 if "lite" in name else 0
+        flash_bonus = 1 if "flash" in name else 0
+        pro_bonus = 2 if "pro" in name else 0
+
+        # Newer version dominates; model family is only a tie-breaker.
+        return (major, minor, -preview_penalty, pro_bonus + flash_bonus, -lite_penalty, name)
+
+    def _discover_gemini_models(self, force=False):
+        """Discover every currently available Gemini generateContent model.
+
+        The API itself is the source of truth, so newly released models are
+        picked up automatically without changing the code or environment.
+        """
+        key = CONFIG.get('GEMINI_KEY')
+        if not key:
+            return []
+
+        now = time.time()
+        cached = getattr(self, '_gemini_models_cache', None)
+        cache_time = getattr(self, '_gemini_models_cache_time', 0)
+        if cached and not force and now - cache_time < CONFIG.get('GEMINI_MODEL_CACHE_SECONDS', 1800):
+            return cached
+
+        url = "https://generativelanguage.googleapis.com/v1beta/models"
+        models = []
+        page_token = None
+
+        try:
+            while True:
+                params = {'key': key, 'pageSize': 1000}
+                if page_token:
+                    params['pageToken'] = page_token
+                resp = self.scraper.get(url, params=params, timeout=15)
+                resp.raise_for_status()
+                data = resp.json()
+                models.extend(data.get('models') or [])
+                page_token = data.get('nextPageToken')
+                if not page_token:
+                    break
+
+            valid = []
+            pinned = CONFIG.get('GEMINI_MODEL')
+            for model in models:
+                name = (model.get('name') or '').split('/')[-1]
+                methods = model.get('supportedGenerationMethods') or []
+                if not name or 'generateContent' not in methods:
+                    continue
+                # Exclude obvious non-chat/specialized models when exposed by
+                # the API. We still allow Flash, Flash-Lite, Pro and previews.
+                lower = name.lower()
+                if any(x in lower for x in ('embedding', 'aqa', 'robotics')):
+                    continue
+                valid.append(model)
+
+            valid.sort(key=self._gemini_model_sort_key, reverse=True)
+
+            # If the user explicitly pins GEMINI_MODEL, put it first, but keep
+            # every other compatible model as automatic fallback.
+            if pinned:
+                valid.sort(key=lambda m: 0 if m.get('name', '').split('/')[-1] == pinned else 1)
+
+            self._gemini_models_cache = valid
+            self._gemini_models_cache_time = now
+            logger.info(f"Gemini model discovery: {len(valid)} generateContent models available.")
+            if valid:
+                logger.info("Gemini priority: " + " -> ".join(m['name'].split('/')[-1] for m in valid))
+            return valid
+        except Exception as e:
+            logger.error(f"Gemini model discovery failed: {e}")
+            return cached or []
+
     def _call_gemini(self, system_prompt, user_prompt, temperature=0.2):
-        if not CONFIG.get('GEMINI_KEY'):
+        key = CONFIG.get('GEMINI_KEY')
+        if not key:
             logger.error("GEMINI_API_KEY is not set.")
             return None
 
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{CONFIG['GEMINI_MODEL']}:generateContent?key={CONFIG['GEMINI_KEY']}"
+        models = self._discover_gemini_models()
+        if not models:
+            logger.error("No Gemini generateContent models are available for this API key.")
+            return None
+
         payload = {
-            "system_instruction": {
-                "parts": [{"text": system_prompt}]
-            },
-            "contents": [{
-                "parts": [{"text": user_prompt}]
-            }],
+            "system_instruction": {"parts": [{"text": system_prompt}]},
+            "contents": [{"parts": [{"text": user_prompt}]}],
             "generationConfig": {
                 "response_mime_type": "application/json",
                 "temperature": temperature
             }
         }
-        
-        for attempt in range(CONFIG['AI_RETRIES']):
+
+        for position, model_info in enumerate(models, 1):
+            model = model_info['name'].split('/')[-1]
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
+            logger.info(f"Gemini [{position}/{len(models)}] trying {model}...")
             try:
                 resp = self.scraper.post(url, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45))
+
                 if resp.status_code == 200:
                     result = resp.json()
-                    raw_text = result['candidates'][0]['content']['parts'][0]['text']
+                    parts = result.get('candidates', [{}])[0].get('content', {}).get('parts', [])
+                    raw_text = next((part.get('text') for part in parts if part.get('text')), None)
+                    if not raw_text:
+                        logger.warning(f"Gemini {model} returned no text; trying next model.")
+                        continue
                     clean = re.sub(r'```json\s*|```', '', raw_text).strip()
-                    return json.loads(clean)
-                else:
-                    logger.error(f"Gemini API error {resp.status_code}: {resp.text[:200]}")
-                time.sleep(1)
+                    try:
+                        parsed = json.loads(clean)
+                        logger.info(f"Gemini success with {model}.")
+                        return parsed
+                    except json.JSONDecodeError as e:
+                        logger.warning(f"Gemini {model} returned invalid JSON: {e}; trying next model.")
+                        continue
+
+                if resp.status_code == 429:
+                    logger.warning(f"Gemini {model} quota/rate limited (429); switching immediately to next model.")
+                    continue
+
+                if resp.status_code in (400, 404):
+                    logger.warning(f"Gemini {model} unavailable ({resp.status_code}); switching to next model.")
+                    continue
+
+                if resp.status_code >= 500:
+                    logger.warning(f"Gemini {model} server error ({resp.status_code}); switching to next model.")
+                    continue
+
+                logger.warning(f"Gemini {model} API error {resp.status_code}: {resp.text[:180]}; trying next model.")
             except Exception as e:
-                logger.error(f"Gemini Attempt {attempt + 1} failed: {e}")
-                time.sleep(2)
+                logger.warning(f"Gemini {model} request failed: {e}; trying next model.")
+
+        # A model can become available again during a run. Refresh the model
+        # list once before giving up, then make one final pass only if it changed.
+        refreshed = self._discover_gemini_models(force=True)
+        old_names = [m['name'] for m in models]
+        new_names = [m['name'] for m in refreshed]
+        if new_names != old_names and refreshed:
+            logger.info("Gemini model list changed; retrying with refreshed model list.")
+            for model_info in refreshed:
+                model = model_info['name'].split('/')[-1]
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
+                try:
+                    resp = self.scraper.post(url, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45))
+                    if resp.status_code == 200:
+                        result = resp.json()
+                        parts = result.get('candidates', [{}])[0].get('content', {}).get('parts', [])
+                        raw_text = next((part.get('text') for part in parts if part.get('text')), None)
+                        if raw_text:
+                            clean = re.sub(r'```json\s*|```', '', raw_text).strip()
+                            return json.loads(clean)
+                except Exception:
+                    continue
+
+        logger.error("All discovered Gemini models failed; caller will use its existing fallback behavior.")
         return None
 
     def batch_analyze_with_gemini(self, candidates_data):
