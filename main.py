@@ -1430,7 +1430,7 @@ STRICT OUTPUT JSON:
         if len(full_html) > 30000:
             full_html = full_html[:30000]
 
-                inline_keyboard = {
+        inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 داشبورد و رادار زنده", "url": base_site},
                 {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
