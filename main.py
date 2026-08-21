@@ -941,7 +941,7 @@ STRICT OUTPUT JSON:
             f"</footer>\n"
         )
 
-                inline_keyboard = {
+        inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 مطالعه پرونده در داشبورد", "url": base_site},
                 {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
@@ -1073,7 +1073,7 @@ STRICT OUTPUT JSON:
             f"</footer>\n"
         )
 
-                inline_keyboard = {
+        inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 بولتن و داشبورد زنده", "url": base_site},
                 {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
@@ -1186,7 +1186,7 @@ STRICT OUTPUT JSON:
             f"</footer>\n"
         )
 
-                inline_keyboard = {
+        inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 مطالعه بولتن در داشبورد", "url": base_site},
                 {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
