@@ -97,7 +97,6 @@ PROXY_NAMES = [
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger()
 
-
 class IranNewsRadar:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper(
@@ -1255,7 +1254,7 @@ STRICT OUTPUT JSON:
             logger.error(f"Bale standard fallback error: {e}")
             return False
 
-         def send_digest_to_telegram(self, items):
+    def send_digest_to_telegram(self, items):
     """Format and send digest to Bale with clean RTL HTML."""
     token = CONFIG['TELEGRAM']['BOT_TOKEN']
     chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
