@@ -479,51 +479,68 @@ class IranNewsRadar:
             return []
 
     def fetch_market_rates(self):
-        data = {
-         "usd": "نامشخص",
-         "oil": "نامشخص",
-         "gold18": "نامشخص",
-         "updated": "--:--"
-                }
-        try:
-            resp = self.scraper.get("https://alanchand.com/en/currencies-price/usd", timeout=10)
-            if resp.status_code == 200:
-                soup = BeautifulSoup(resp.text, 'lxml')
-                usd = soup.find('input', attrs={'data-curr': 'tmn'})
-                if usd:
-                    val = usd.get('data-price') or usd.get('value')
-                    if val:
-                        data["usd"] = f"{int(int(val.replace(',', '')) / 10):,}"
-        except Exception:
-            pass
-        try:
-            resp = self.scraper.get("https://oilprice.com/oil-price-charts/46", timeout=10)
+    data = {
+        "usd": "نامشخص",
+        "oil": "نامشخص",
+        "gold18": "نامشخص",
+        "updated": "--:--"
+    }
+
+    usd_price = None
+
+    try:
+        resp = self.scraper.get(
+            "https://alanchand.com/en/currencies-price/usd",
+            timeout=10
+        )
+        if resp.status_code == 200:
             soup = BeautifulSoup(resp.text, 'lxml')
-            oil = soup.select_one(".last_price")
-            if oil:
-                data["oil"] = oil.get_text().strip()
-        except Exception:
-            pass
-                    # ── Gold 18K / gram ──
-        try:
-            resp = self.scraper.get(
-                "https://persiantoolbox.ir/api/market",
-                timeout=10
-            )
+            usd = soup.find('input', attrs={'data-curr': 'tmn'})
+            if usd:
+                val = usd.get('data-price') or usd.get('value')
+                if val:
+                    usd_price = int(int(val.replace(',', '')) / 10)
+                    data["usd"] = f"{usd_price:,}"
+    except Exception:
+        pass
 
-            if resp.status_code == 200:
-                market = resp.json()
-                gold = market.get("gold", {})
+    try:
+        resp = self.scraper.get(
+            "https://oilprice.com/oil-price-charts/46",
+            timeout=10
+        )
+        soup = BeautifulSoup(resp.text, 'lxml')
+        oil = soup.select_one(".last_price")
+        if oil:
+            data["oil"] = oil.get_text().strip()
+    except Exception:
+        pass
 
-                price = gold.get("pricePerGram")
+    # ── Gold 18K / gram ──
+    try:
+        resp = self.scraper.get(
+            "https://xaus.com/api/v1/spot",
+            timeout=10
+        )
 
-                if price is not None:
-                    data["gold18"] = f"{int(float(price)):,} تومان"
+        if resp.status_code == 200 and usd_price is not None:
+            market = resp.json()
+            gold_per_gram_usd = market.get("per_gram_usd")
 
-        except Exception as e:
-            logger.warning(f"Gold price fetch failed: {e}")
-        data["updated"] = self._get_tehran_time().strftime("%H:%M")
-        return data
+            if gold_per_gram_usd is not None:
+                gold18_price = (
+                    float(gold_per_gram_usd)
+                    * usd_price
+                    * 0.75
+                )
+
+                data["gold18"] = f"{int(round(gold18_price)):,} تومان"
+
+    except Exception as e:
+        logger.warning(f"Gold price fetch failed: {e}")
+
+    data["updated"] = self._get_tehran_time().strftime("%H:%M")
+    return data
 
     # ───────────────────────── news search ─────────────────────────
 
