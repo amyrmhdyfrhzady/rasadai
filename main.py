@@ -1256,252 +1256,261 @@ STRICT OUTPUT JSON:
             return False
 
     def send_digest_to_telegram(self, items):
-        """Send digest via Telegram Rich Messages with real photo blocks."""
-        token = CONFIG['TELEGRAM']['BOT_TOKEN']
-        chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-        if not token or not chat_id or not items:
-            return
+    """Format and send digest to Bale with clean RTL HTML."""
+    token = CONFIG['TELEGRAM']['BOT_TOKEN']
+    chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
 
-        items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
+    if not token or not chat_id or not items:
+        return False
 
-        def to_farsi_num(num):
-            return str(num).translate(str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹'))
+    items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
 
-        def esc(s):
-            return html.escape(str(s or ''), quote=False)
-
-        now_ir = self._get_tehran_time()
-        ir_time_str = to_farsi_num(now_ir.strftime("%H:%M"))
-        ir_date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
-
-        base_site = "https://itsyebekhe.github.io/rasadai/"
-
-        # ── Collect valid images ──
-        photo_urls = []
-        for item in items:
-            img = item.get('image')
-            if self._is_valid_image_url(img) and img not in photo_urls:
-                photo_urls.append(img)
-            if len(photo_urls) >= 8:
-                break
-        if not photo_urls:
-            photo_urls = [self._get_fallback_image(items[0].get('title_en', 'news'))]
-
-        # ── Market table ──
-        market_html = ""
-        try:
-            with open(CONFIG['FILES']['MARKET'], 'r', encoding='utf-8') as f:
-                mkt = json.load(f)
-            market_html = (
-                "<table bordered striped>\n"
-                "<tr><th>💵 دلار</th><th>🛢 نفت</th><th>⏱ زمان</th></tr>\n"
-                f"<tr>"
-                f"<td align='center'>{esc(mkt.get('usd', '---'))}</td>"
-                f"<td align='center'>{esc(mkt.get('oil', '---'))}</td>"
-                f"<td align='center'>{esc(mkt.get('updated', '--:--'))}</td>"
-                f"</tr>\n"
-                "</table>\n"
-            )
-        except Exception:
-            market_html = ""
-
-        # ── Media block(s) ──
-        media_html = ""
-        if len(photo_urls) == 1:
-            media_html = (
-                f"<figure>"
-                f"<img src=\"{esc(photo_urls[0])}\"/>"
-                f"<figcaption>رادار رصد — {ir_time_str}</figcaption>"
-                f"</figure>\n"
-            )
-        elif len(photo_urls) <= 4:
-            imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
-            media_html = (
-                f"<tg-collage>{imgs}"
-                f"<figcaption>تصاویر مرتبط با اخبار مهم</figcaption>"
-                f"</tg-collage>\n"
-            )
-        else:
-            imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
-            media_html = (
-                f"<tg-slideshow>{imgs}"
-                f"<figcaption>گالری اخبار رصد</figcaption>"
-                f"</tg-slideshow>\n"
-            )
-
-        # ── Headlines list ──
-        headlines_li = []
-        for item in items[:10]:
-            title = esc(item.get('title_fa') or item.get('title_en'))
-            source = esc(item.get('source', ''))
-            urgency = item.get('urgency', 3)
-            icon = "🔥" if urgency >= 9 else ("🚨" if urgency >= 7 else "🔹")
-            news_id = item.get('id', '')
-            deep = f"{base_site}?id={news_id}" if news_id else (item.get('url') or '#')
-            headlines_li.append(
-                f"<li>{icon} <a href=\"{esc(deep)}\">{title}</a> <i>({source})</i></li>"
-            )
-        headlines_html = "<ul>\n" + "\n".join(headlines_li) + "\n</ul>\n"
-
-        # ── Per-item analysis ──
-        details_parts = []
-        all_tags = set()
-        for i, item in enumerate(items[:6], 1):
-            title = esc(item.get('title_fa') or item.get('title_en'))
-            source = esc(item.get('source', 'Unknown'))
-            impact = esc(item.get('impact', ''))
-            news_id = item.get('id', '')
-            deep = f"{base_site}?id={news_id}" if news_id else (item.get('url') or '#')
-            src_url = item.get('url') or '#'
-
-            summary_raw = item.get('summary', [])
-            if isinstance(summary_raw, str):
-                summary_raw = [summary_raw]
-            safe_summary = "".join(f"<li>{esc(s)}</li>" for s in summary_raw if s)
-
-            tag = str(item.get('tag', 'General')).replace(' ', '_')
-            all_tags.add(f"#{esc(tag)}")
-
-            item_img = item.get('image')
-            item_media = ""
-            if self._is_valid_image_url(item_img) and item_img not in photo_urls[:1]:
-                item_media = f"<img src=\"{esc(item_img)}\"/>\n"
-
-            open_attr = " open" if i == 1 else ""
-            details_parts.append(
-                f"<details{open_attr}>\n"
-                f"<summary><b>{to_farsi_num(i)}. {title}</b></summary>\n"
-                f"{item_media}"
-                f"<p>📝 <b>تحلیل خبر:</b></p>\n"
-                f"<ul>{safe_summary}</ul>\n"
-                f"<p>🎯 <b>اثرگذاری:</b> {impact}</p>\n"
-                f"<p>🔗 <a href=\"{esc(deep)}\">گزارش در داشبورد</a> | "
-                f"<a href=\"{esc(src_url)}\">منبع اصلی ({source})</a></p>\n"
-                f"</details>\n"
-                f"<hr/>\n"
-            )
-        details_html = "".join(details_parts)
-
-        # ── Proxies ──
-        proxy_html = ""
-        try:
-            proxies = self.fetch_best_proxies()[:4]
-            if proxies:
-                proxy_items = []
-                names_pool = random.sample(PROXY_NAMES, min(len(proxies), len(PROXY_NAMES)))
-                for i, p in enumerate(proxies):
-                    name = names_pool[i]
-                    latency = p.get('latency', '?')
-                    raw_tg = p.get('tg_url', '#')
-                    clean_tg = html.unescape(raw_tg).replace('&amp;', '&')
-                    proxy_items.append(
-                        f"<li>🛡 <a href=\"{esc(clean_tg)}\">{esc(name)}</a> "
-                        f"(<code>{esc(latency)}ms</code>)</li>"
-                    )
-                proxy_html = (
-                    "<details>\n"
-                    "<summary>🌐 <b>پروکسی‌های فعال تلگرام (کلیک کنید)</b></summary>\n"
-                    "<ul>" + "".join(proxy_items) + "</ul>\n"
-                    "</details>\n"
-                )
-        except Exception:
-            pass
-
-        tags_html = f"<p>{' '.join(sorted(all_tags))}</p>\n" if all_tags else ""
-
-        full_html = (
-            f"<h1>🚨 رصد اخبار مهم ایران</h1>\n"
-            f"<p>⏱ <b>زمان بروزرسانی:</b> {ir_time_str} — {ir_date_str} (تهران)</p>\n"
-            f"{market_html}"
-            f"<hr/>\n"
-            f"{media_html}"
-            f"<h2>📌 سرخط مهم‌ترین اخبار</h2>\n"
-            f"{headlines_html}"
-            f"<hr/>\n"
-            f"<h2>📋 تحلیل و جزئیات</h2>\n"
-            f"{details_html}"
-            f"{tags_html}"
-            f"<footer>\n"
-            f"{proxy_html}"
-            f"<p>📊 <a href=\"{base_site}\">داشبورد زنده رصد</a> | 🆔 @RasadAIOfficial</p>\n"
-            f"</footer>\n"
+    def to_farsi_num(num):
+        return str(num).translate(
+            str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹')
         )
 
-        if len(full_html) > 30000:
-            full_html = full_html[:30000]
+    def esc(s):
+        return html.escape(str(s or ''), quote=False)
 
-        inline_keyboard = {
-            "inline_keyboard": [[
-                {"text": "📊 داشبورد و رادار زنده", "url": base_site},
-                {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
-            ]]
-        }
+    now_ir = self._get_tehran_time()
+    ir_time_str = to_farsi_num(now_ir.strftime("%H:%M"))
+    ir_date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
 
-        # ── Bale Bot API ──
-        api_url = f"https://tapi.bale.ai/bot{token}/sendMessage"
+    base_site = "https://itsyebekhe.github.io/rasadai/"
 
-        payload = {
-            "chat_id": chat_id,
-            "text": full_html,
-            "parse_mode": "HTML",
-            "reply_markup": inline_keyboard,
-        }
+    # ── Market ──
+    market_html = ""
+    try:
+        with open(
+            CONFIG['FILES']['MARKET'],
+            'r',
+            encoding='utf-8'
+        ) as f:
+            mkt = json.load(f)
 
-        try:
-            resp = self.scraper.post(api_url, json=payload, timeout=30)
+        market_html = (
+            f"💵 <b>دلار:</b> {esc(mkt.get('usd', '---'))}\n"
+            f"🛢 <b>نفت:</b> {esc(mkt.get('oil', '---'))}\n"
+            f"⏱ <b>آخرین بروزرسانی بازار:</b> "
+            f"{esc(mkt.get('updated', '--:--'))}\n"
+        )
+    except Exception:
+        market_html = ""
 
-            if resp.status_code == 200:
-                logger.info(">>> Digest sent to Bale successfully.")
-                return
+    # ── Headlines ──
+    headlines = []
 
-            logger.error(
-                f"Bale sendMessage failed: {resp.status_code} | "
-                f"{resp.text[:500]}"
-            )
+    for item in items[:10]:
+        title = esc(
+            item.get('title_fa') or item.get('title_en')
+        )
+        source = esc(item.get('source', ''))
 
-            # ── Fallback: send first photo with short caption ──
-            photo_api = f"https://tapi.bale.ai/bot{token}/sendPhoto"
+        urgency = item.get('urgency', 3)
 
-            caption_lines = [
-                "🚨 <b>رادار اخبار مهم ایران</b>",
-                f"⏱ {ir_time_str} (تهران)",
-                "",
-            ]
+        icon = (
+            "🔥" if urgency >= 9
+            else ("🚨" if urgency >= 7 else "🔹")
+        )
 
-            for item in items[:5]:
-                t = esc(item.get('title_fa') or item.get('title_en'))
-                u = item.get('urgency', 3)
-                icon = "🔥" if u >= 9 else ("🚨" if u >= 7 else "🔹")
-                caption_lines.append(f"{icon} {t}")
+        news_id = item.get('id', '')
 
-            caption_lines.append(
-                f'\n<a href="{base_site}">📊 داشبورد</a>'
-            )
+        deep = (
+            f"{base_site}?id={news_id}"
+            if news_id
+            else (item.get('url') or '#')
+        )
 
-            caption = "\n".join(caption_lines)[:1024]
+        headlines.append(
+            f"{icon} <a href=\"{esc(deep)}\">{title}</a> "
+            f"<i>({source})</i>"
+        )
 
-            resp2 = self.scraper.post(
-                photo_api,
-                json={
-                    "chat_id": chat_id,
-                    "photo": photo_urls[0],
-                    "caption": caption,
-                    "parse_mode": "HTML",
-                    "reply_markup": inline_keyboard,
-                },
-                timeout=20
-            )
+    # ── Details ──
+    details = []
+    all_tags = set()
 
-            if resp2.status_code == 200:
-                logger.info(">>> Bale fallback sendPhoto succeeded.")
-            else:
-                logger.error(
-                    f"Bale sendPhoto fallback failed: "
-                    f"{resp2.status_code} | {resp2.text[:300]}"
+    for i, item in enumerate(items[:6], 1):
+        title = esc(
+            item.get('title_fa') or item.get('title_en')
+        )
+
+        source = esc(
+            item.get('source', 'Unknown')
+        )
+
+        impact = esc(
+            item.get('impact', '')
+        )
+
+        news_id = item.get('id', '')
+
+        deep = (
+            f"{base_site}?id={news_id}"
+            if news_id
+            else (item.get('url') or '#')
+        )
+
+        src_url = item.get('url') or '#'
+
+        summary_raw = item.get('summary', [])
+
+        if isinstance(summary_raw, str):
+            summary_raw = [summary_raw]
+
+        summary_lines = []
+
+        for s in summary_raw:
+            if s:
+                summary_lines.append(
+                    f"• {esc(s)}"
                 )
 
-        except Exception as e:
-            logger.error(f"Bale send error: {e}")
+        tag = str(
+            item.get('tag', 'General')
+        ).replace(' ', '_')
+
+        all_tags.add(
+            f"#{esc(tag)}"
+        )
+
+        details.append(
+            f"<b>{to_farsi_num(i)}. {title}</b>\n"
+            f"📝 <b>تحلیل خبر:</b>\n"
+            f"{chr(10).join(summary_lines)}\n\n"
+            f"🎯 <b>اثرگذاری:</b> {impact}\n"
+            f"🔗 <a href=\"{esc(deep)}\">گزارش در داشبورد</a> | "
+            f"<a href=\"{esc(src_url)}\">منبع اصلی ({source})</a>"
+        )
+
+    # ── Proxies ──
+    proxy_html = ""
+
+    try:
+        proxies = self.fetch_best_proxies()[:4]
+
+        if proxies:
+            proxy_items = []
+
+            names_pool = random.sample(
+                PROXY_NAMES,
+                min(
+                    len(proxies),
+                    len(PROXY_NAMES)
+                )
+            )
+
+            for i, p in enumerate(proxies):
+                name = names_pool[i]
+
+                latency = p.get(
+                    'latency',
+                    '?'
+                )
+
+                raw_tg = p.get(
+                    'tg_url',
+                    '#'
+                )
+
+                clean_tg = (
+                    html.unescape(raw_tg)
+                    .replace('&amp;', '&')
+                )
+
+                proxy_items.append(
+                    f"🛡 <a href=\"{esc(clean_tg)}\">"
+                    f"{esc(name)}</a> "
+                    f"(<code>{esc(latency)}ms</code>)"
+                )
+
+            proxy_html = (
+                "\n\n🌐 <b>پروکسی‌های فعال تلگرام</b>\n"
+                + "\n".join(proxy_items)
+            )
+
+    except Exception:
+        pass
+
+    tags_html = ""
+
+    if all_tags:
+        tags_html = (
+            "\n\n"
+            + " ".join(sorted(all_tags))
+        )
+
+    # ── Final Bale message ──
+    message = (
+        f"🚨 <b>رصد اخبار مهم ایران</b>\n\n"
+        f"⏱ <b>زمان بروزرسانی:</b> "
+        f"{ir_time_str} — {ir_date_str} (تهران)\n\n"
+        f"{market_html}\n"
+        f"━━━━━━━━━━━━━━━━━━\n\n"
+        f"📌 <b>سرخط مهم‌ترین اخبار</b>\n\n"
+        f"{chr(10).join(headlines)}\n\n"
+        f"━━━━━━━━━━━━━━━━━━\n\n"
+        f"📋 <b>تحلیل و جزئیات</b>\n\n"
+        f"{chr(10).join(details)}"
+        f"{tags_html}"
+        f"{proxy_html}\n\n"
+        f"📊 <a href=\"{base_site}\">"
+        f"داشبورد زنده رصد</a>"
+        f" | 🆔 @RasadAIOfficial"
+    )
+
+    # Bale message limit
+    if len(message) > 4000:
+        message = message[:3950] + "\n\n…"
+
+    inline_keyboard = {
+        "inline_keyboard": [[
+            {
+                "text": "📊 داشبورد و رادار زنده",
+                "url": base_site
+            },
+            {
+                "text": "🛡 پروکسی‌های فعال",
+                "url": "https://itsyebekhe.github.io/MTProtoNexus/"
+            }
+        ]]
+    }
+
+    bale_api = (
+        f"https://tapi.bale.ai/bot{token}/sendMessage"
+    )
+
+    try:
+        resp = self.scraper.post(
+            bale_api,
+            json={
+                "chat_id": chat_id,
+                "text": message,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True,
+                "reply_markup": inline_keyboard
+            },
+            timeout=30
+        )
+
+        if resp.status_code == 200:
+            logger.info(
+                ">>> Digest sent to Bale successfully."
+            )
+            return True
+
+        logger.error(
+            f"Bale sendMessage failed: "
+            f"{resp.status_code} | {resp.text[:500]}"
+        )
+
+    except Exception as e:
+        logger.error(
+            f"Bale digest send error: {e}"
+        )
+
+    return False
 
     # ───────────────────────── save ─────────────────────────
 
