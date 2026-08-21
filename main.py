@@ -112,6 +112,8 @@ class IranNewsRadar:
         self.seen_titles = set()
         self.recent_title_hashes = set()
         self.failed_hosts = set()
+        # Weather data is fetched once per run and reused by all channel messages.
+        self.weather_data = None
 
         for item in self.existing_news:
             if item.get('url'):
@@ -134,6 +136,131 @@ class IranNewsRadar:
             return datetime.now(ZoneInfo("Asia/Tehran"))
         except ImportError:
             return datetime.now(timezone(timedelta(hours=3, minutes=30)))
+
+    # ───────────────────────── weather ─────────────────────────
+
+    def _weather_code_to_farsi(self, code):
+        """Convert WMO weather codes to a compact Persian description + emoji."""
+        try:
+            code = int(code)
+        except (TypeError, ValueError):
+            return "نامشخص"
+
+        mapping = {
+            0: "☀️ صاف",
+            1: "🌤 عمدتاً صاف",
+            2: "⛅ نیمه‌ابری",
+            3: "☁️ ابری",
+            45: "🌫 مه",
+            48: "🌫 مه یخ‌زن",
+            51: "🌦 نم‌نم باران",
+            53: "🌦 باران ملایم",
+            55: "🌧 باران",
+            56: "🌧 نم‌نم باران یخ‌زن",
+            57: "🌧 باران یخ‌زن",
+            61: "🌦 باران ملایم",
+            63: "🌧 بارانی",
+            65: "🌧 باران شدید",
+            66: "🌧 باران یخ‌زن",
+            67: "🌧 باران یخ‌زن شدید",
+            71: "🌨 برف ملایم",
+            73: "❄️ برفی",
+            75: "❄️ برف شدید",
+            77: "🌨 دانه‌های برف",
+            80: "🌦 رگبار ملایم",
+            81: "🌧 رگبار",
+            82: "⛈ رگبار شدید",
+            85: "🌨 رگبار برف",
+            86: "❄️ رگبار برف شدید",
+            95: "⛈ رعدوبرق",
+            96: "⛈ رعدوبرق و تگرگ",
+            99: "⛈ رعدوبرق و تگرگ شدید",
+        }
+        return mapping.get(code, "🌤 وضعیت نامشخص")
+
+    def _to_farsi_digits(self, value):
+        return str(value).translate(str.maketrans('0123456789.-', '۰۱۲۳۴۵۶۷۸۹٫−'))
+
+    def fetch_weather(self):
+        """Fetch Tehran current weather from Open-Meteo's ECMWF endpoint.
+
+        No API key is required. Failures are deliberately swallowed so weather
+        can never prevent the news pipeline from running or sending messages.
+        """
+        lat = 35.6892
+        lon = 51.3890
+        url = "https://api.open-meteo.com/v1/ecmwf"
+        params = {
+            "latitude": lat,
+            "longitude": lon,
+            "current": (
+                "temperature_2m,apparent_temperature,relative_humidity_2m,"
+                "weather_code,wind_speed_10m,wind_direction_10m"
+            ),
+            "temperature_unit": "celsius",
+            "wind_speed_unit": "kmh",
+            "timezone": "Asia/Tehran",
+            "forecast_days": 1,
+        }
+
+        try:
+            response = self.scraper.get(url, params=params, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            current = data.get("current") or {}
+            if current.get("temperature_2m") is None:
+                raise ValueError("Open-Meteo response has no current temperature")
+
+            weather = {
+                "temperature": current.get("temperature_2m"),
+                "apparent_temperature": current.get("apparent_temperature"),
+                "humidity": current.get("relative_humidity_2m"),
+                "weather_code": current.get("weather_code"),
+                "condition": self._weather_code_to_farsi(current.get("weather_code")),
+                "wind_speed": current.get("wind_speed_10m"),
+                "wind_direction": current.get("wind_direction_10m"),
+                "time": current.get("time"),
+            }
+            logger.info(
+                "Weather fetched: Tehran %.1f°C | %s | humidity=%s%% | wind=%s km/h",
+                float(weather["temperature"]),
+                weather["condition"],
+                weather.get("humidity", "-"),
+                weather.get("wind_speed", "-"),
+            )
+            return weather
+        except Exception as e:
+            logger.warning(f"Weather fetch failed; continuing without weather: {e}")
+            return None
+
+    def _weather_header(self):
+        """Return the shared weather block used above every channel message."""
+        weather = self.weather_data
+        if not weather:
+            return ""
+
+        def fmt_num(value, decimals=0):
+            if value is None:
+                return "—"
+            try:
+                if decimals == 0:
+                    text = str(int(round(float(value))))
+                else:
+                    text = f"{float(value):.{decimals}f}"
+                return self._to_farsi_digits(text)
+            except (TypeError, ValueError):
+                return html.escape(str(value), quote=False)
+
+        temperature = fmt_num(weather.get("temperature"))
+        humidity = fmt_num(weather.get("humidity"))
+        wind = fmt_num(weather.get("wind_speed"))
+        condition = html.escape(str(weather.get("condition", "")), quote=False)
+
+        return (
+            f"🌤 <b>تهران:</b> {temperature}°C — {condition}\n"
+            f"💧 رطوبت: {humidity}٪ | 💨 باد: {wind} km/h\n"
+            f"🌐 <i>داده هواشناسی: Open-Meteo / ECMWF</i>\n\n"
+        )
 
     def _is_schedule_already_sent(self, slot_key):
         path = CONFIG['FILES']['SCHEDULE_STATE']
@@ -1024,8 +1151,9 @@ STRICT OUTPUT JSON:
 
     def _channel_header(self, title, time_str, date_str):
         return (
-            f"{title}\n\n"
-            f"⏱ <b>زمان بروزرسانی:</b> {time_str} — {date_str} (تهران)\n\n"
+            self._weather_header()
+            + f"{title}\n\n"
+            + f"⏱ <b>زمان بروزرسانی:</b> {time_str} — {date_str} (تهران)\n\n"
         )
 
     def _channel_footer(self, proxy_html="", tags_html=""):
@@ -1472,6 +1600,9 @@ STRICT OUTPUT JSON:
 
     def run(self):
         logger.info(">>> Radar Started (optimized search + extract + photos)...")
+
+        # Fetch weather once per execution and reuse it in every channel message.
+        self.weather_data = self.fetch_weather()
 
         with open(CONFIG['FILES']['MARKET'], 'w', encoding='utf-8') as f:
             json.dump(self.fetch_market_rates(), f, ensure_ascii=False)
