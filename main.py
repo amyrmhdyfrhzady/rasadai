@@ -899,372 +899,341 @@ STRICT OUTPUT JSON:
 
     # ───────────────────────── telegram senders ─────────────────────────
 
+    def _get_channel_proxies(self, limit=4):
+        """Fetch proxies once and prepare both visible text and inline buttons."""
+        try:
+            proxies = self.fetch_best_proxies()[:limit]
+        except Exception as e:
+            logger.warning(f"Proxy fetch failed for channel message: {e}")
+            return "", []
+
+        if not proxies:
+            return "", []
+
+        names_pool = random.sample(
+            PROXY_NAMES,
+            min(len(proxies), len(PROXY_NAMES))
+        )
+
+        proxy_lines = []
+        proxy_buttons = []
+
+        for name, proxy in zip(names_pool, proxies):
+            latency = proxy.get("latency", "?")
+            raw_tg = proxy.get("tg_url", "#")
+            clean_tg = html.unescape(str(raw_tg)).replace("&amp;", "&")
+
+            proxy_lines.append(
+                f"🛡 {html.escape(str(name), quote=False)} "
+                f"(<code>{html.escape(str(latency), quote=False)}ms</code>)"
+            )
+
+            if clean_tg and clean_tg != "#":
+                proxy_buttons.append({
+                    "text": f"🛡 {name}",
+                    "url": clean_tg,
+                })
+
+        proxy_html = (
+            "\n\n🌐 <b>پروکسی‌های فعال تلگرام</b>\n"
+            + "\n".join(proxy_lines)
+        )
+
+        keyboard = [
+            proxy_buttons[i:i + 2]
+            for i in range(0, len(proxy_buttons), 2)
+        ]
+        return proxy_html, keyboard
+
+    def _build_channel_keyboard(self, proxy_keyboard):
+        """Build the shared inline keyboard used by every channel report."""
+        if not proxy_keyboard:
+            return None
+        return {"inline_keyboard": proxy_keyboard}
+
+    def _send_bale_photo(self, token, chat_id, photo_url, caption):
+        """Send a Bale cover photo. The detailed report is sent separately."""
+        if not photo_url:
+            return False
+
+        photo_api = f"https://tapi.bale.ai/bot{token}/sendPhoto"
+        payload = {
+            "chat_id": chat_id,
+            "photo": photo_url,
+            "caption": caption[:1024],
+            "parse_mode": "HTML",
+        }
+
+        try:
+            resp = self.scraper.post(photo_api, json=payload, timeout=30)
+            if resp.status_code == 200:
+                return True
+            logger.warning(
+                f"Bale sendPhoto failed ({resp.status_code}): {resp.text[:300]}"
+            )
+        except Exception as e:
+            logger.warning(f"Bale sendPhoto exception: {e}")
+
+        return False
+
+    def _send_bale_text(self, token, chat_id, message, reply_markup=None):
+        """Send the full channel message with the shared inline keyboard."""
+        bale_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
+        payload = {
+            "chat_id": chat_id,
+            "text": message,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        }
+        if reply_markup:
+            payload["reply_markup"] = reply_markup
+
+        try:
+            resp = self.scraper.post(bale_api, json=payload, timeout=30)
+            if resp.status_code == 200:
+                return True
+            logger.error(
+                f"Bale sendMessage failed: {resp.status_code} | {resp.text[:500]}"
+            )
+        except Exception as e:
+            logger.error(f"Bale sendMessage exception: {e}")
+
+        return False
+
+    def _send_channel_report(self, message, photo_url=None, photo_caption=None, reply_markup=None):
+        """Common delivery path: optional cover photo + full formatted message."""
+        token = CONFIG['TELEGRAM']['BOT_TOKEN']
+        chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
+        if not token or not chat_id or not message:
+            return False
+
+        if photo_url:
+            self._send_bale_photo(
+                token,
+                chat_id,
+                photo_url,
+                photo_caption or "📰 <b>گزارش خبری</b>",
+            )
+
+        return self._send_bale_text(
+            token,
+            chat_id,
+            message,
+            reply_markup=reply_markup,
+        )
+
+    def _channel_header(self, title, time_str, date_str):
+        return (
+            f"{title}\n\n"
+            f"⏱ <b>زمان بروزرسانی:</b> {time_str} — {date_str} (تهران)\n\n"
+        )
+
+    def _channel_footer(self, proxy_html="", tags_html=""):
+        return (
+            f"{tags_html}"
+            f"{proxy_html}\n\n"
+            f"🆔 @FREEDOMPROJECT"
+        )
+
     def send_special_report_to_telegram(self, report):
-        """Format and send Special Topic Report to Telegram nightly."""
+        """Format and send Special Topic Report using the shared channel template."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id or not report:
-            logger.warning("TG credentials or report missing. Skipping TG dispatch.")
+            logger.warning("TG credentials or report missing. Skipping Special Report.")
             return False
 
         def esc(s):
             return html.escape(str(s or ''), quote=False)
 
-        tehran_now = self._get_tehran_time()
-        time_str = tehran_now.strftime("%H:%M")
-        date_str = tehran_now.strftime("%Y/%m/%d")
-
+        now_ir = self._get_tehran_time()
+        time_str = now_ir.strftime("%H:%M")
+        date_str = now_ir.strftime("%Y/%m/%d")
         base_site = "https://itsyebekhe.github.io/rasadai/"
-        tag = esc(report.get('topic_tag', 'پرونده ویژه')).replace(' ', '_')
+
         headline = esc(report.get('headline', 'گزارش ویژه'))
+        tag = esc(report.get('topic_tag', 'پرونده ویژه')).replace(' ', '_')
         lead = esc(report.get('lead_paragraph', ''))
-        
-        findings_li = "".join([f"<li>🔹 {esc(f)}</li>\n" for f in report.get('key_findings', [])])
+        findings = report.get('key_findings', []) or []
         regime_vs_reality = esc(report.get('regime_vs_reality', ''))
         strategic_outlook = esc(report.get('strategic_outlook', ''))
 
-        rich_html = (
-            f"<h1>📂 پرونده ویژه شبانگاهی: {headline}</h1>\n"
-            f"<p>⏱ <b>زمان صدور:</b> {time_str} — {date_str} (تهران) | 🏷 #{tag}</p>\n"
-            f"<hr/>\n"
-            f"<p>📌 <b>اصل ماجرا:</b> {lead}</p>\n"
-            f"<h2>🔍 یافته‌های کلیدی و زوایای پنهان</h2>\n"
-            f"<ul>\n{findings_li}</ul>\n"
-            f"<hr/>\n"
-            f"<h2>⚔️ ادعای حکومت در برابر واقعیت میدانی</h2>\n"
-            f"<p>{regime_vs_reality}</p>\n"
-            f"<h2>🔮 چشم‌انداز استراتژیک</h2>\n"
-            f"<p>{strategic_outlook}</p>\n"
-            f"<footer>\n"
-            f"<p>📊 <a href=\"{base_site}\">مشاهده کامل اخبار در داشبورد زنده</a> | 🆔 @RasadAIOfficial</p>\n"
-            f"</footer>\n"
+        findings_text = "\n".join(
+            f"• {esc(item)}" for item in findings if item
         )
 
-        inline_keyboard = {
-            "inline_keyboard": [[
-                {"text": "📊 مطالعه پرونده در داشبورد", "url": base_site},
-                {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
-            ]]
-        }
-
-        # 1. Send to Bale
-        bale_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
-        payload = {
-            "chat_id": chat_id,
-            "text": rich_html,
-            "parse_mode": "HTML",
-            "reply_markup": inline_keyboard,
-        }
-
-        try:
-            resp = self.scraper.post(
-                bale_api,
-                json=payload,
-                timeout=30
+        message = (
+            self._channel_header(
+                f"📂 <b>پرونده ویژه: {headline}</b>",
+                time_str,
+                date_str,
             )
-
-            if resp.status_code == 200:
-                logger.info(
-                    ">>> Special Topic Report successfully sent to Bale."
-                )
-                return True
-
-            logger.warning(
-                f"Bale sendMessage for Special Report failed "
-                f"({resp.status_code}), falling back."
-            )
-
-        except Exception as e:
-            logger.warning(
-                f"Special Report Bale sendMessage exception: {e}, falling back."
-            )
-
-        # 2. Fallback sendMessage
-        findings_text = "".join(
-            [f"🔹 {esc(f)}\n" for f in report.get('key_findings', [])]
+            + "━━━━━━━━━━━━━━━━━━\n\n"
+            + f"📌 <b>اصل ماجرا</b>\n{lead}\n\n"
+            + "━━━━━━━━━━━━━━━━━━\n\n"
+            + f"🔍 <b>یافته‌های کلیدی و زوایای پنهان</b>\n{findings_text}\n\n"
+            + f"⚔️ <b>واقعیت میدانی</b>\n{regime_vs_reality}\n\n"
+            + f"🔮 <b>چشم‌انداز استراتژیک</b>\n{strategic_outlook}"
         )
 
-        fallback_text = (
-            f"📂 <b>پرونده ویژه شبانگاهی: {headline}</b>\n"
-            f"⏱ <b>زمان:</b> {time_str} — {date_str} | 🏷 #{tag}\n\n"
-            f"📌 <b>اصل ماجرا:</b>\n{lead}\n\n"
-            f"🔍 <b>یافته‌های کلیدی:</b>\n{findings_text}\n"
-            f"⚔️ <b>واقعیت میدانی:</b>\n{regime_vs_reality}\n\n"
-            f"🔮 <b>چشم‌انداز:</b>\n{strategic_outlook}\n\n"
-            f"📊 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | "
-            f"🆔 @RasadAIOfficial"
+        tags_html = f"\n\n#{tag}" if tag else ""
+        proxy_html, proxy_keyboard = self._get_channel_proxies()
+        message += self._channel_footer(proxy_html, tags_html)
+
+        if len(message) > 4000:
+            message = message[:3950] + "\n\n…"
+
+        keyboard = self._build_channel_keyboard(proxy_keyboard)
+        photo_url = self._pick_image(None, fallback_text=report.get('headline', 'گزارش ویژه'))
+        photo_caption = (
+            f"📂 <b>پرونده ویژه: {headline}</b>\n"
+            f"⏱ {time_str} — {date_str} (تهران)"
         )
 
-        standard_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
-
-        try:
-            resp = self.scraper.post(
-                standard_api,
-                json={
-                    "chat_id": chat_id,
-                    "text": fallback_text,
-                    "parse_mode": "HTML",
-                    "disable_web_page_preview": True,
-                    "reply_markup": inline_keyboard
-                },
-                timeout=30
-            )
-
-            return resp.status_code == 200
-
-        except Exception as e:
-            logger.error(
-                f"Special Report Bale standard fallback error: {e}"
-            )
-            return False
+        ok = self._send_channel_report(
+            message,
+            photo_url=photo_url,
+            photo_caption=photo_caption,
+            reply_markup=keyboard,
+        )
+        if ok:
+            logger.info(">>> Special Topic Report successfully sent to Bale.")
+        return ok
 
     def send_daily_summary_to_telegram(self, summary):
-        """Format and send Daily Summary using Telegram Rich Messages with RTL support."""
+        """Format and send Daily Summary using the shared channel template."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id or not summary:
-            logger.warning("TG credentials or summary missing. Skipping TG dispatch.")
+            logger.warning("TG credentials or summary missing. Skipping Daily Summary.")
             return False
 
         def esc(s):
             return html.escape(str(s or ''), quote=False)
 
-        tehran_now = self._get_tehran_time()
-        time_str = tehran_now.strftime("%H:%M")
-        date_str = tehran_now.strftime("%Y/%m/%d")
+        now_ir = self._get_tehran_time()
+        time_str = now_ir.strftime("%H:%M")
+        date_str = now_ir.strftime("%Y/%m/%d")
 
-        base_site = "https://itsyebekhe.github.io/rasadai/"
-        themes_li = "".join([f"<li>🔹 {esc(t)}</li>\n" for t in summary.get('themes', [])])
-        
-        forecast = summary.get('forecast', {})
+        forecast = summary.get('forecast', {}) or {}
+        vulns = summary.get('regime_vulnerabilities', {}) or {}
+        themes = summary.get('themes', []) or []
         most_likely = esc(forecast.get('most_likely_scenario', ''))
         flashpoint = esc(forecast.get('flashpoint_indicator', ''))
+        vuln_text = esc(
+            vulns.get('regime_internal_friction')
+            or vulns.get('infrastructure_vulnerability')
+            or ''
+        )
+        themes_text = "\n".join(f"• {esc(t)}" for t in themes if t)
 
-        vulns = summary.get('regime_vulnerabilities', {})
-        vuln_text = esc(vulns.get('regime_internal_friction') or vulns.get('infrastructure_vulnerability') or '')
-
-        rich_html = (
-            f"<h1>📊 ارزیابی استراتژیک و جمع‌بندی روزانه</h1>\n"
-            f"<p>⏱ <b>زمان صدور:</b> {time_str} — {date_str} (تهران)</p>\n"
-            f"<hr/>\n"
-            f"<details open>\n"
-            f"<summary>📌 <b>چکیده مدیریتی</b></summary>\n"
-            f"<p>{esc(summary.get('executive_tldr'))}</p>\n"
-            f"</details>\n"
-            f"<h2>🎯 محورهای کلیدی ارزیابی</h2>\n"
-            f"<ul>\n{themes_li}</ul>\n"
-            f"<hr/>\n"
-            f"<h2>🧠 تحلیل استراتژیک و موازنه قدرت</h2>\n"
-            f"<p>{esc(summary.get('strategic_assessment'))}</p>\n"
-            f"<h2>🔮 پیش‌بینی سناریوی محتمل (۳ تا ۷ روز آینده)</h2>\n"
-            f"<p>{most_likely}</p>\n"
-            f"<h2>⚠️ شاخص ماشه‌چکان (Flashpoint)</h2>\n"
-            f"<p>{flashpoint}</p>\n"
-            f"<hr/>\n"
-            f"<h2>📈 ارزیابی ریسک و اقتصاد</h2>\n"
-            f"<ul>\n"
-            f"<li>🚨 <b>سطح ریسک:</b> {summary.get('risk_level', '?')}/10 ({esc(summary.get('change_from_previous', ''))})</li>\n"
-            f"<li>💵 <b>چشم‌انداز بازار و ارز:</b> {esc(summary.get('currency_outlook', ''))}</li>\n"
-            f"<li>💥 <b>آسیب‌پذیری حاکمیتی:</b> {vuln_text}</li>\n"
-            f"</ul>\n"
-            f"<footer>\n"
-            f"<p>📊 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده رصد</a> | 🆔 @RasadAIOfficial</p>\n"
-            f"</footer>\n"
+        message = (
+            self._channel_header(
+                "📊 <b>ارزیابی استراتژیک و جمع‌بندی روزانه</b>",
+                time_str,
+                date_str,
+            )
+            + "━━━━━━━━━━━━━━━━━━\n\n"
+            + f"📌 <b>چکیده مدیریتی</b>\n{esc(summary.get('executive_tldr'))}\n\n"
+            + f"🎯 <b>محورهای کلیدی ارزیابی</b>\n{themes_text}\n\n"
+            + f"🧠 <b>تحلیل استراتژیک و موازنه قدرت</b>\n{esc(summary.get('strategic_assessment'))}\n\n"
+            + f"🔮 <b>پیش‌بینی سناریوی محتمل</b>\n{most_likely}\n\n"
+            + f"⚠️ <b>شاخص ماشه‌چکان</b>\n{flashpoint}\n\n"
+            + f"📈 <b>ارزیابی ریسک و اقتصاد</b>\n"
+            + f"• 🚨 <b>سطح ریسک:</b> {esc(summary.get('risk_level', '?'))}/10 ({esc(summary.get('change_from_previous', ''))})\n"
+            + f"• 💵 <b>چشم‌انداز بازار و ارز:</b> {esc(summary.get('currency_outlook', ''))}\n"
+            + f"• 💥 <b>آسیب‌پذیری حاکمیتی:</b> {vuln_text}"
         )
 
-        inline_keyboard = {
-            "inline_keyboard": [[
-                {"text": "📊 بولتن و داشبورد زنده", "url": base_site},
-                {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
-            ]]
-        }
+        proxy_html, proxy_keyboard = self._get_channel_proxies()
+        message += self._channel_footer(proxy_html)
 
-        # 1. Send to Bale
-        bale_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
-        payload = {
-            "chat_id": chat_id,
-            "text": rich_html,
-            "parse_mode": "HTML",
-            "reply_markup": inline_keyboard,
-        }
+        if len(message) > 4000:
+            message = message[:3950] + "\n\n…"
 
-        try:
-            resp = self.scraper.post(
-                bale_api,
-                json=payload,
-                timeout=30
-            )
-
-            if resp.status_code == 200:
-                logger.info(
-                    ">>> Daily Summary successfully sent to Bale."
-                )
-                return True
-
-            logger.warning(
-                f"Bale sendMessage for Daily Summary failed "
-                f"({resp.status_code}), falling back."
-            )
-
-        except Exception as e:
-            logger.warning(
-                f"Daily Summary Bale sendMessage exception: {e}, falling back."
-            )
-
-        # 2. Fallback: Standard Bale HTML sendMessage
-        fallback_text = (
-            f"📊 <b>ارزیابی استراتژیک و جمع‌بندی روزانه</b>\n"
-            f"⏱ <b>زمان:</b> {time_str} — {date_str} (تهران)\n\n"
-            f"📌 <b>چکیده مدیریتی:</b>\n"
-            f"{esc(summary.get('executive_tldr'))}\n\n"
-            f"🧠 <b>تحلیل استراتژیک:</b>\n"
-            f"{esc(summary.get('strategic_assessment'))}\n\n"
-            f"🔮 <b>پیش‌بینی سناریو:</b>\n"
-            f"{most_likely}\n\n"
-            f"📈 <b>سطح ریسک:</b> "
-            f"<b>{summary.get('risk_level', '?')}/10</b>\n\n"
-            f"🔗 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | "
-            f"🆔 @RasadAIOfficial"
+        keyboard = self._build_channel_keyboard(proxy_keyboard)
+        photo_url = self._pick_image(None, fallback_text='جمع‌بندی روزانه')
+        photo_caption = (
+            "📊 <b>ارزیابی استراتژیک و جمع‌بندی روزانه</b>\n"
+            f"⏱ {time_str} — {date_str} (تهران)"
         )
 
-        standard_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
-
-        try:
-            resp = self.scraper.post(
-                standard_api,
-                json={
-                    "chat_id": chat_id,
-                    "text": fallback_text,
-                    "parse_mode": "HTML",
-                    "disable_web_page_preview": True,
-                    "reply_markup": inline_keyboard
-                },
-                timeout=30
-            )
-
-            return resp.status_code == 200
-
-        except Exception as e:
-            logger.error(
-                f"Daily Summary Bale standard fallback error: {e}"
-            )
-            return False
+        ok = self._send_channel_report(
+            message,
+            photo_url=photo_url,
+            photo_caption=photo_caption,
+            reply_markup=keyboard,
+        )
+        if ok:
+            logger.info(">>> Daily Summary successfully sent to Bale.")
+        return ok
 
     def send_bulletin_to_telegram(self, bulletin):
-        """Format and send Scheduled Bulletin using Telegram Rich Messages with RTL support."""
+        """Format and send Scheduled Bulletin using the shared channel template."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id or not bulletin:
-            logger.warning("TG credentials or bulletin missing. Skipping TG dispatch.")
+            logger.warning("TG credentials or bulletin missing. Skipping Bulletin.")
             return False
 
         def esc(s):
             return html.escape(str(s or ''), quote=False)
 
         title = esc(bulletin.get('title', 'بولتن خبری'))
-        date_str = esc(bulletin.get('date', ''))
-        time_str = esc(bulletin.get('time', '23:00'))
-        base_site = "https://itsyebekhe.github.io/rasadai/"
-
-        bullets_li = "".join([f"<li>🔹 {esc(b)}</li>\n" for b in bulletin.get('bullets', [])])
+        date_str = esc(bulletin.get('date') or self._get_tehran_time().strftime('%Y/%m/%d'))
+        time_str = esc(bulletin.get('time') or self._get_tehran_time().strftime('%H:%M'))
+        bullets = bulletin.get('bullets', []) or []
         bottom_line = esc(bulletin.get('bottom_line', ''))
 
-        rich_html = (
-            f"<h1>🗞 {title}</h1>\n"
-            f"<p>⏱ <b>زمان صدور:</b> {time_str} — {date_str} (تهران)</p>\n"
-            f"<hr/>\n"
-            f"<h2>📌 سرخط مهم‌ترین نکات بولتن</h2>\n"
-            f"<ul>\n{bullets_li}</ul>\n"
-            f"<hr/>\n"
-            f"<details open>\n"
-            f"<summary>💡 <b>جمع‌بندی نهایی و ارزیابی</b></summary>\n"
-            f"<p>{bottom_line}</p>\n"
-            f"</details>\n"
-            f"<footer>\n"
-            f"<p>📊 <a href=\"{base_site}\">مشاهده جزییات کامل در داشبورد زنده</a> | 🆔 @RasadAIOfficial</p>\n"
-            f"</footer>\n"
+        bullets_text = "\n".join(f"• {esc(b)}" for b in bullets if b)
+
+        message = (
+            self._channel_header(
+                f"📰 <b>{title}</b>",
+                time_str,
+                date_str,
+            )
+            + "━━━━━━━━━━━━━━━━━━\n\n"
+            + f"📌 <b>سرخط مهم‌ترین نکات بولتن</b>\n{bullets_text}\n\n"
+            + "━━━━━━━━━━━━━━━━━━\n\n"
+            + f"💡 <b>جمع‌بندی نهایی و ارزیابی</b>\n{bottom_line}"
         )
 
-        inline_keyboard = {
-            "inline_keyboard": [[
-                {"text": "📊 مطالعه بولتن در داشبورد", "url": base_site},
-                {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
-            ]]
-        }
+        proxy_html, proxy_keyboard = self._get_channel_proxies()
+        message += self._channel_footer(proxy_html)
 
-        # 1. Send to Bale
-        bale_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
-        payload = {
-            "chat_id": chat_id,
-            "text": rich_html,
-            "parse_mode": "HTML",
-            "reply_markup": inline_keyboard,
-        }
+        if len(message) > 4000:
+            message = message[:3950] + "\n\n…"
 
-        try:
-            resp = self.scraper.post(bale_api, json=payload, timeout=30)
-
-            if resp.status_code == 200:
-                logger.info(">>> Scheduled Bulletin successfully sent to Bale.")
-                return True
-
-            logger.warning(
-                f"Bale sendMessage failed ({resp.status_code}), "
-                f"falling back to standard message."
-            )
-
-        except Exception as e:
-            logger.warning(
-                f"Bale sendMessage exception: {e}, falling back."
-            )
-
-        # 2. Fallback: Standard Bale HTML sendMessage
-        bullets_text = "".join(
-            [f"🔹 {esc(b)}\n\n" for b in bulletin.get('bullets', [])]
+        keyboard = self._build_channel_keyboard(proxy_keyboard)
+        photo_url = self._pick_image(None, fallback_text=bulletin.get('title', 'بولتن خبری'))
+        photo_caption = (
+            f"📰 <b>{title}</b>\n"
+            f"⏱ {time_str} — {date_str} (تهران)"
         )
 
-        fallback_text = (
-            f"🗞 <b>{title}</b>\n"
-            f"⏱ <b>زمان:</b> {time_str} — {date_str} (تهران)\n"
-            f"───────────────────\n\n"
-            f"{bullets_text}"
-            f"💡 <b>جمع‌بندی نهایی:</b>\n{bottom_line}\n\n"
-            f"📊 <a href=\"{base_site}\">مشاهده جزییات بیشتر در داشبورد</a> | "
-            f"🆔 @RasadAIOfficial"
+        ok = self._send_channel_report(
+            message,
+            photo_url=photo_url,
+            photo_caption=photo_caption,
+            reply_markup=keyboard,
         )
-
-        standard_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
-
-        try:
-            resp = self.scraper.post(
-                standard_api,
-                json={
-                    "chat_id": chat_id,
-                    "text": fallback_text,
-                    "parse_mode": "HTML",
-                    "disable_web_page_preview": True,
-                    "reply_markup": inline_keyboard
-                },
-                timeout=30
-            )
-
-            return resp.status_code == 200
-
-        except Exception as e:
-            logger.error(f"Bale standard fallback error: {e}")
-            return False
+        if ok:
+            logger.info(">>> Scheduled Bulletin successfully sent to Bale.")
+        return ok
 
     def send_digest_to_telegram(self, items):
-        """Format and send digest to Bale with clean RTL HTML."""
+        """Format and send the main news digest using the shared channel template."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-
-        base_site ="https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT"
-
         if not token or not chat_id or not items:
             return False
 
-        items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
+        items = sorted(
+            items,
+            key=lambda x: x.get('urgency', 3),
+            reverse=True,
+        )
 
         def to_farsi_num(num):
             return str(num).translate(
@@ -1277,242 +1246,105 @@ STRICT OUTPUT JSON:
         now_ir = self._get_tehran_time()
         ir_time_str = to_farsi_num(now_ir.strftime("%H:%M"))
         ir_date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
+        base_site = "https://itsyebekhe.github.io/rasadai/"
 
-
-        # ── Market ──
         market_html = ""
         try:
-            with open(
-                CONFIG['FILES']['MARKET'],
-                'r',
-                encoding='utf-8'
-            ) as f:
+            with open(CONFIG['FILES']['MARKET'], 'r', encoding='utf-8') as f:
                 mkt = json.load(f)
-
             market_html = (
                 f"💵 <b>دلار:</b> {esc(mkt.get('usd', '---'))}\n"
                 f"🛢 <b>نفت:</b> {esc(mkt.get('oil', '---'))}\n"
-                f"⏱ <b>آخرین بروزرسانی بازار:</b> "
-                f"{esc(mkt.get('updated', '--:--'))}\n"
+                f"⏱ <b>آخرین بروزرسانی بازار:</b> {esc(mkt.get('updated', '--:--'))}\n"
             )
-        except Exception:
-            market_html = ""
-
-        # ── Headlines ──
-        headlines = []
-
-        for item in items[:10]:
-            title = esc(
-                item.get('title_fa') or item.get('title_en')
-            )
-            source = esc(item.get('source', ''))
-
-            urgency = item.get('urgency', 3)
-
-            icon = (
-                "🔥" if urgency >= 9
-                else ("🚨" if urgency >= 7 else "🔹")
-            )
-
-            news_id = item.get('id', '')
-
-            deep = (
-                f"{base_site}?id={news_id}"
-                if news_id
-                else (item.get('url') or '#')
-            )
-
-            headlines.append(
-                f"{icon} <a href=\"{esc(deep)}\">{title}</a> "
-                f"<i>({source})</i>"
-            )
-
-        # ── Details ──
-        details = []
-        all_tags = set()
-
-        for i, item in enumerate(items[:6], 1):
-            title = esc(
-                item.get('title_fa') or item.get('title_en')
-            )
-
-            source = esc(
-                item.get('source', 'Unknown')
-            )
-
-            impact = esc(
-                item.get('impact', '')
-            )
-
-            news_id = item.get('id', '')
-
-            deep = (
-                f"{base_site}?id={news_id}"
-                if news_id
-                else (item.get('url') or '#')
-            )
-
-            src_url = item.get('url') or '#'
-
-            summary_raw = item.get('summary', [])
-
-            if isinstance(summary_raw, str):
-                summary_raw = [summary_raw]
-
-            summary_lines = []
-
-            for s in summary_raw:
-                if s:
-                    summary_lines.append(
-                        f"• {esc(s)}"
-                    )
-
-            tag = str(
-                item.get('tag', 'General')
-            ).replace(' ', '_')
-
-            all_tags.add(
-                f"#{esc(tag)}"
-            )
-
-            details.append(
-                f"<b>{to_farsi_num(i)}. {title}</b>\n"
-                f"📝 <b>تحلیل خبر:</b>\n"
-                f"{chr(10).join(summary_lines)}\n\n"
-                f"🎯 <b>اثرگذاری:</b> {impact}\n"
-            )
-
-        # ── Proxies ──
-        proxy_html = ""
-
-        try:
-            proxies = self.fetch_best_proxies()[:4]
-
-            if proxies:
-                proxy_items = []
-
-                names_pool = random.sample(
-                    PROXY_NAMES,
-                    min(
-                        len(proxies),
-                        len(PROXY_NAMES)
-                    )
-                )
-
-                for i, p in enumerate(proxies):
-                    name = names_pool[i]
-
-                    latency = p.get(
-                        'latency',
-                        '?'
-                    )
-
-                    raw_tg = p.get(
-                        'tg_url',
-                        '#'
-                    )
-
-                    clean_tg = (
-                        html.unescape(raw_tg)
-                        .replace('&amp;', '&')
-                    )
-
-                    proxy_items.append(
-                        f"🛡{esc(name)}"
-                        f"(<code>{esc(latency)}ms</code>)"
-                    )
-
-                proxy_html = (
-                    "\n\n🌐 <b>پروکسی‌های فعال تلگرام</b>\n"
-                    + "\n".join(proxy_items)
-                )
-
         except Exception:
             pass
 
-        tags_html = ""
+        headlines = []
+        all_tags = set()
 
-        if all_tags:
-            tags_html = (
-                "\n\n"
-                + " ".join(sorted(all_tags))
+        for item in items[:10]:
+            title = esc(item.get('title_fa') or item.get('title_en'))
+            source = esc(item.get('source', ''))
+            urgency = item.get('urgency', 3)
+            icon = "🔥" if urgency >= 9 else ("🚨" if urgency >= 7 else "🔹")
+            news_id = item.get('id', '')
+            deep = f"{base_site}?id={news_id}" if news_id else (item.get('url') or '#')
+            headlines.append(
+                f"{icon} <a href=\"{esc(deep)}\">{title}</a> <i>({source})</i>"
             )
 
-        # ── Final Bale message ──
+        details = []
+        for i, item in enumerate(items[:6], 1):
+            title = esc(item.get('title_fa') or item.get('title_en'))
+            source = esc(item.get('source', 'Unknown'))
+            impact = esc(item.get('impact', ''))
+            news_id = item.get('id', '')
+            deep = f"{base_site}?id={news_id}" if news_id else (item.get('url') or '#')
+            src_url = item.get('url') or '#'
+
+            summary_raw = item.get('summary', [])
+            if isinstance(summary_raw, str):
+                summary_raw = [summary_raw]
+            summary_lines = [f"• {esc(s)}" for s in summary_raw if s]
+
+            tag = str(item.get('tag', 'General')).replace(' ', '_')
+            all_tags.add(f"#{esc(tag)}")
+
+            details.append(
+                f"<b>{to_farsi_num(i)}. {title}</b>\n"
+                f"📝 <b>تحلیل خبر:</b>\n{chr(10).join(summary_lines)}\n\n"
+                f"🎯 <b>اثرگذاری:</b> {impact}\n"
+                f"🔗 <a href=\"{esc(deep)}\">گزارش در داشبورد</a> | "
+                f"<a href=\"{esc(src_url)}\">منبع اصلی ({source})</a>"
+            )
+
+        proxy_html, proxy_keyboard = self._get_channel_proxies()
+        tags_html = "\n\n" + " ".join(sorted(all_tags)) if all_tags else ""
+
         message = (
-            f"🚨 <b>رصد اخبار مهم ایران</b>\n\n"
-            f"⏱ <b>زمان بروزرسانی:</b> "
-            f"{ir_time_str} — {ir_date_str} (تهران)\n\n"
-            f"{market_html}\n"
-            f"━━━━━━━━━━━━━━━━━━\n\n"
-            f"📌 <b>سرخط مهم‌ترین اخبار</b>\n\n"
-            f"{chr(10).join(headlines)}\n\n"
-            f"━━━━━━━━━━━━━━━━━━\n\n"
-            f"📋 <b>تحلیل و جزئیات</b>\n\n"
-            f"{chr(10).join(details)}"
-            f"{tags_html}"
-            f"{proxy_html}\n\n"
-            f"🆔 @FREEDOMPROJECT"
+            self._channel_header(
+                "🚨 <b>رصد اخبار مهم ایران</b>",
+                ir_time_str,
+                ir_date_str,
+            )
+            + market_html
+            + "━━━━━━━━━━━━━━━━━━\n\n"
+            + "📌 <b>سرخط مهم‌ترین اخبار</b>\n\n"
+            + chr(10).join(headlines)
+            + "\n\n━━━━━━━━━━━━━━━━━━\n\n"
+            + "📋 <b>تحلیل و جزئیات</b>\n\n"
+            + chr(10).join(details)
+            + self._channel_footer(proxy_html, tags_html)
         )
 
-        # Bale message limit
         if len(message) > 4000:
             message = message[:3950] + "\n\n…"
-            
-        proxy_buttons = []
 
-        for name, p in zip(names_pool, proxies):
-            raw_tg = p.get("tg_url", "#")
-            clean_tg = html.unescape(raw_tg).replace("&amp;", "&")
+        keyboard = self._build_channel_keyboard(proxy_keyboard)
+        photo_url = None
+        for item in items:
+            candidate = item.get('image')
+            if self._is_valid_image_url(candidate):
+                photo_url = candidate
+                break
+        if not photo_url:
+            photo_url = self._pick_image(None, fallback_text='رصد اخبار مهم ایران')
 
-            proxy_buttons.append(
-                {
-                    "text": f"🛡 {name}",
-                    "url": clean_tg,
-                }
-            )
-
-        inline_keyboard = {
-            "inline_keyboard": [
-                proxy_buttons[i : i + 2]
-                for i in range(0, len(proxy_buttons), 2)
-            ]
-        }
-
-        bale_api = (
-            f"https://tapi.bale.ai/bot{token}/sendMessage"
+        photo_caption = (
+            "🚨 <b>رصد اخبار مهم ایران</b>\n"
+            f"⏱ {ir_time_str} — {ir_date_str} (تهران)"
         )
 
-        try:
-            resp = self.scraper.post(
-                bale_api,
-                json={
-                    "chat_id": chat_id,
-                    "text": message,
-                    "parse_mode": "HTML",
-                    "disable_web_page_preview": True,
-                    "reply_markup": inline_keyboard
-                },
-                timeout=30
-            )
-
-            if resp.status_code == 200:
-                logger.info(
-                    ">>> Digest sent to Bale successfully."
-                )
-                return True
-
-            logger.error(
-                f"Bale sendMessage failed: "
-                f"{resp.status_code} | {resp.text[:500]}"
-            )
-
-        except Exception as e:
-            logger.error(
-                f"Bale digest send error: {e}"
-            )
-
-        return False
+        ok = self._send_channel_report(
+            message,
+            photo_url=photo_url,
+            photo_caption=photo_caption,
+            reply_markup=keyboard,
+        )
+        if ok:
+            logger.info(">>> Digest sent to Bale successfully.")
+        return ok
 
     # ───────────────────────── save ─────────────────────────
 
