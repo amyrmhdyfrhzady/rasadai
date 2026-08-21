@@ -941,35 +941,50 @@ STRICT OUTPUT JSON:
             f"</footer>\n"
         )
 
-        inline_keyboard = {
+                inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 مطالعه پرونده در داشبورد", "url": base_site},
                 {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
             ]]
         }
 
-        # 1. Send Rich Message
-        rich_api = f"https://api.telegram.org/bot{token}/sendRichMessage"
+        # 1. Send to Bale
+        bale_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
         payload = {
             "chat_id": chat_id,
-            "rich_message": {
-                "html": rich_html,
-                "is_rtl": True,
-            },
+            "text": rich_html,
+            "parse_mode": "HTML",
             "reply_markup": inline_keyboard,
         }
 
         try:
-            resp = self.scraper.post(rich_api, json=payload, timeout=30)
+            resp = self.scraper.post(
+                bale_api,
+                json=payload,
+                timeout=30
+            )
+
             if resp.status_code == 200:
-                logger.info(">>> Special Topic Report successfully sent as Rich Message.")
+                logger.info(
+                    ">>> Special Topic Report successfully sent to Bale."
+                )
                 return True
-            logger.warning(f"sendRichMessage for Special Report failed ({resp.status_code}), falling back.")
+
+            logger.warning(
+                f"Bale sendMessage for Special Report failed "
+                f"({resp.status_code}), falling back."
+            )
+
         except Exception as e:
-            logger.warning(f"Special Report Rich Message exception: {e}, falling back.")
+            logger.warning(
+                f"Special Report Bale sendMessage exception: {e}, falling back."
+            )
 
         # 2. Fallback sendMessage
-        findings_text = "".join([f"🔹 {esc(f)}\n" for f in report.get('key_findings', [])])
+        findings_text = "".join(
+            [f"🔹 {esc(f)}\n" for f in report.get('key_findings', [])]
+        )
+
         fallback_text = (
             f"📂 <b>پرونده ویژه شبانگاهی: {headline}</b>\n"
             f"⏱ <b>زمان:</b> {time_str} — {date_str} | 🏷 #{tag}\n\n"
@@ -977,21 +992,31 @@ STRICT OUTPUT JSON:
             f"🔍 <b>یافته‌های کلیدی:</b>\n{findings_text}\n"
             f"⚔️ <b>واقعیت میدانی:</b>\n{regime_vs_reality}\n\n"
             f"🔮 <b>چشم‌انداز:</b>\n{strategic_outlook}\n\n"
-            f"📊 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | 🆔 @RasadAIOfficial"
+            f"📊 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | "
+            f"🆔 @RasadAIOfficial"
         )
 
-        standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
+        standard_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
+
         try:
-            resp = self.scraper.post(standard_api, json={
-                "chat_id": chat_id,
-                "text": fallback_text,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": True,
-                "reply_markup": inline_keyboard
-            }, timeout=30)
+            resp = self.scraper.post(
+                standard_api,
+                json={
+                    "chat_id": chat_id,
+                    "text": fallback_text,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": True,
+                    "reply_markup": inline_keyboard
+                },
+                timeout=30
+            )
+
             return resp.status_code == 200
+
         except Exception as e:
-            logger.error(f"Special Report standard fallback error: {e}")
+            logger.error(
+                f"Special Report Bale standard fallback error: {e}"
+            )
             return False
 
     def send_daily_summary_to_telegram(self, summary):
@@ -1048,56 +1073,82 @@ STRICT OUTPUT JSON:
             f"</footer>\n"
         )
 
-        inline_keyboard = {
+                inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 بولتن و داشبورد زنده", "url": base_site},
                 {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
             ]]
         }
 
-        # 1. Primary Attempt: Send Rich Message
-        rich_api = f"https://api.telegram.org/bot{token}/sendRichMessage"
+        # 1. Send to Bale
+        bale_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
         payload = {
             "chat_id": chat_id,
-            "rich_message": {
-                "html": rich_html,
-                "is_rtl": True,
-            },
+            "text": rich_html,
+            "parse_mode": "HTML",
             "reply_markup": inline_keyboard,
         }
 
         try:
-            resp = self.scraper.post(rich_api, json=payload, timeout=30)
-            if resp.status_code == 200:
-                logger.info(">>> Daily Summary successfully sent as Rich Message.")
-                return True
-            logger.warning(f"sendRichMessage for Daily Summary failed ({resp.status_code}), falling back to sendMessage.")
-        except Exception as e:
-            logger.warning(f"Daily Summary Rich Message exception: {e}, falling back.")
+            resp = self.scraper.post(
+                bale_api,
+                json=payload,
+                timeout=30
+            )
 
-        # 2. Fallback: Standard Telegram HTML sendMessage
+            if resp.status_code == 200:
+                logger.info(
+                    ">>> Daily Summary successfully sent to Bale."
+                )
+                return True
+
+            logger.warning(
+                f"Bale sendMessage for Daily Summary failed "
+                f"({resp.status_code}), falling back."
+            )
+
+        except Exception as e:
+            logger.warning(
+                f"Daily Summary Bale sendMessage exception: {e}, falling back."
+            )
+
+        # 2. Fallback: Standard Bale HTML sendMessage
         fallback_text = (
             f"📊 <b>ارزیابی استراتژیک و جمع‌بندی روزانه</b>\n"
             f"⏱ <b>زمان:</b> {time_str} — {date_str} (تهران)\n\n"
-            f"📌 <b>چکیده مدیریتی:</b>\n{esc(summary.get('executive_tldr'))}\n\n"
-            f"🧠 <b>تحلیل استراتژیک:</b>\n{esc(summary.get('strategic_assessment'))}\n\n"
-            f"🔮 <b>پیش‌بینی سناریو:</b>\n{most_likely}\n\n"
-            f"📈 <b>سطح ریسک:</b> <b>{summary.get('risk_level', '?')}/10</b>\n\n"
-            f"🔗 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | 🆔 @RasadAIOfficial"
+            f"📌 <b>چکیده مدیریتی:</b>\n"
+            f"{esc(summary.get('executive_tldr'))}\n\n"
+            f"🧠 <b>تحلیل استراتژیک:</b>\n"
+            f"{esc(summary.get('strategic_assessment'))}\n\n"
+            f"🔮 <b>پیش‌بینی سناریو:</b>\n"
+            f"{most_likely}\n\n"
+            f"📈 <b>سطح ریسک:</b> "
+            f"<b>{summary.get('risk_level', '?')}/10</b>\n\n"
+            f"🔗 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | "
+            f"🆔 @RasadAIOfficial"
         )
 
-        standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
+        standard_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
+
         try:
-            resp = self.scraper.post(standard_api, json={
-                "chat_id": chat_id,
-                "text": fallback_text,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": True,
-                "reply_markup": inline_keyboard
-            }, timeout=30)
+            resp = self.scraper.post(
+                standard_api,
+                json={
+                    "chat_id": chat_id,
+                    "text": fallback_text,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": True,
+                    "reply_markup": inline_keyboard
+                },
+                timeout=30
+            )
+
             return resp.status_code == 200
+
         except Exception as e:
-            logger.error(f"Daily Summary standard fallback error: {e}")
+            logger.error(
+                f"Daily Summary Bale standard fallback error: {e}"
+            )
             return False
 
     def send_bulletin_to_telegram(self, bulletin):
@@ -1135,56 +1186,73 @@ STRICT OUTPUT JSON:
             f"</footer>\n"
         )
 
-        inline_keyboard = {
+                inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 مطالعه بولتن در داشبورد", "url": base_site},
                 {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
             ]]
         }
 
-        # 1. Primary Attempt: Send Rich Message
-        rich_api = f"https://api.telegram.org/bot{token}/sendRichMessage"
+        # 1. Send to Bale
+        bale_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
         payload = {
             "chat_id": chat_id,
-            "rich_message": {
-                "html": rich_html,
-                "is_rtl": True,
-            },
+            "text": rich_html,
+            "parse_mode": "HTML",
             "reply_markup": inline_keyboard,
         }
 
         try:
-            resp = self.scraper.post(rich_api, json=payload, timeout=30)
-            if resp.status_code == 200:
-                logger.info(">>> Scheduled Bulletin successfully sent as Rich Message.")
-                return True
-            logger.warning(f"sendRichMessage for Bulletin failed ({resp.status_code}), falling back to sendMessage.")
-        except Exception as e:
-            logger.warning(f"Bulletin Rich Message exception: {e}, falling back.")
+            resp = self.scraper.post(bale_api, json=payload, timeout=30)
 
-        # 2. Fallback: Standard Telegram HTML sendMessage
-        bullets_text = "".join([f"🔹 {esc(b)}\n\n" for b in bulletin.get('bullets', [])])
+            if resp.status_code == 200:
+                logger.info(">>> Scheduled Bulletin successfully sent to Bale.")
+                return True
+
+            logger.warning(
+                f"Bale sendMessage failed ({resp.status_code}), "
+                f"falling back to standard message."
+            )
+
+        except Exception as e:
+            logger.warning(
+                f"Bale sendMessage exception: {e}, falling back."
+            )
+
+        # 2. Fallback: Standard Bale HTML sendMessage
+        bullets_text = "".join(
+            [f"🔹 {esc(b)}\n\n" for b in bulletin.get('bullets', [])]
+        )
+
         fallback_text = (
             f"🗞 <b>{title}</b>\n"
             f"⏱ <b>زمان:</b> {time_str} — {date_str} (تهران)\n"
             f"───────────────────\n\n"
             f"{bullets_text}"
             f"💡 <b>جمع‌بندی نهایی:</b>\n{bottom_line}\n\n"
-            f"📊 <a href=\"{base_site}\">مشاهده جزییات بیشتر در داشبورد</a> | 🆔 @RasadAIOfficial"
+            f"📊 <a href=\"{base_site}\">مشاهده جزییات بیشتر در داشبورد</a> | "
+            f"🆔 @RasadAIOfficial"
         )
 
-        standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
+        standard_api = f"https://tapi.bale.ai/bot{token}/sendMessage"
+
         try:
-            resp = self.scraper.post(standard_api, json={
-                "chat_id": chat_id,
-                "text": fallback_text,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": True,
-                "reply_markup": inline_keyboard
-            }, timeout=30)
+            resp = self.scraper.post(
+                standard_api,
+                json={
+                    "chat_id": chat_id,
+                    "text": fallback_text,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": True,
+                    "reply_markup": inline_keyboard
+                },
+                timeout=30
+            )
+
             return resp.status_code == 200
+
         except Exception as e:
-            logger.error(f"Bulletin standard fallback error: {e}")
+            logger.error(f"Bale standard fallback error: {e}")
             return False
 
     def send_digest_to_telegram(self, items):
@@ -1362,58 +1430,78 @@ STRICT OUTPUT JSON:
         if len(full_html) > 30000:
             full_html = full_html[:30000]
 
-        inline_keyboard = {
+                inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 داشبورد و رادار زنده", "url": base_site},
                 {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
             ]]
         }
 
-        api_url = f"https://api.telegram.org/bot{token}/sendRichMessage"
+        # ── Bale Bot API ──
+        api_url = f"https://tapi.bale.ai/bot{token}/sendMessage"
+
         payload = {
             "chat_id": chat_id,
-            "rich_message": {
-                "html": full_html,
-                "is_rtl": True,
-            },
+            "text": full_html,
+            "parse_mode": "HTML",
             "reply_markup": inline_keyboard,
         }
 
         try:
             resp = self.scraper.post(api_url, json=payload, timeout=30)
+
             if resp.status_code == 200:
-                logger.info(">>> Rich Message with media blocks sent to Telegram.")
+                logger.info(">>> Digest sent to Bale successfully.")
                 return
 
-            logger.error(f"sendRichMessage failed: {resp.status_code} | {resp.text[:500]}")
+            logger.error(
+                f"Bale sendMessage failed: {resp.status_code} | "
+                f"{resp.text[:500]}"
+            )
 
-            photo_api = f"https://api.telegram.org/bot{token}/sendPhoto"
+            # ── Fallback: send first photo with short caption ──
+            photo_api = f"https://tapi.bale.ai/bot{token}/sendPhoto"
+
             caption_lines = [
                 "🚨 <b>رادار اخبار مهم ایران</b>",
                 f"⏱ {ir_time_str} (تهران)",
                 "",
             ]
+
             for item in items[:5]:
                 t = esc(item.get('title_fa') or item.get('title_en'))
                 u = item.get('urgency', 3)
                 icon = "🔥" if u >= 9 else ("🚨" if u >= 7 else "🔹")
                 caption_lines.append(f"{icon} {t}")
-            caption_lines.append(f"\n<a href=\"{base_site}\">📊 داشبورد</a>")
+
+            caption_lines.append(
+                f'\n<a href="{base_site}">📊 داشبورد</a>'
+            )
+
             caption = "\n".join(caption_lines)[:1024]
 
-            resp2 = self.scraper.post(photo_api, json={
-                "chat_id": chat_id,
-                "photo": photo_urls[0],
-                "caption": caption,
-                "parse_mode": "HTML",
-                "reply_markup": inline_keyboard,
-            }, timeout=20)
+            resp2 = self.scraper.post(
+                photo_api,
+                json={
+                    "chat_id": chat_id,
+                    "photo": photo_urls[0],
+                    "caption": caption,
+                    "parse_mode": "HTML",
+                    "reply_markup": inline_keyboard,
+                },
+                timeout=20
+            )
+
             if resp2.status_code == 200:
-                logger.info(">>> Fallback sendPhoto succeeded.")
+                logger.info(">>> Bale fallback sendPhoto succeeded.")
             else:
-                logger.error(f"sendPhoto fallback failed: {resp2.status_code} | {resp2.text[:300]}")
+                logger.error(
+                    f"Bale sendPhoto fallback failed: "
+                    f"{resp2.status_code} | {resp2.text[:300]}"
+                )
+
         except Exception as e:
-            logger.error(f"TG Rich Message send error: {e}")
+            logger.error(f"Bale send error: {e}")
 
     # ───────────────────────── save ─────────────────────────
 
