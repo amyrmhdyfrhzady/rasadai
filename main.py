@@ -1259,6 +1259,8 @@ STRICT OUTPUT JSON:
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
 
+        base_site ="https://github.com/amyrmhdyfrhzady/FREEDOMPROJECT"
+
         if not token or not chat_id or not items:
             return False
 
