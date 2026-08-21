@@ -1462,30 +1462,23 @@ STRICT OUTPUT JSON:
             
         proxy_buttons = []
 
-            for name, p in zip(names_pool, proxies):
+        for name, p in zip(names_pool, proxies):
+            raw_tg = p.get("tg_url", "#")
+            clean_tg = html.unescape(raw_tg).replace("&amp;", "&")
 
-             raw_tg = p.get('tg_url', '#')
+            proxy_buttons.append(
+                {
+                    "text": f"🛡 {name}",
+                    "url": clean_tg,
+                }
+            )
 
-             clean_tg = html.unescape(raw_tg).replace('&amp;', '&')
-
-             proxy_buttons.append({
-
-               "text": f"🛡 {name}",
-
-               "url": clean_tg
-
-                })
         inline_keyboard = {
-
-           "inline_keyboard": [
-
-           proxy_buttons[i:i + 2]
-
-           for i in range(0, len(proxy_buttons), 2)
-
-    ]
-
-}
+            "inline_keyboard": [
+                proxy_buttons[i : i + 2]
+                for i in range(0, len(proxy_buttons), 2)
+            ]
+        }
 
         bale_api = (
             f"https://tapi.bale.ai/bot{token}/sendMessage"
