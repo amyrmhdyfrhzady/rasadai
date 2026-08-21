@@ -1380,8 +1380,6 @@ STRICT OUTPUT JSON:
                 f"📝 <b>تحلیل خبر:</b>\n"
                 f"{chr(10).join(summary_lines)}\n\n"
                 f"🎯 <b>اثرگذاری:</b> {impact}\n"
-                f"🔗 <a href=\"{esc(deep)}\">گزارش در داشبورد</a> | "
-                f"<a href=\"{esc(src_url)}\">منبع اصلی ({source})</a>"
             )
 
         # ── Proxies ──
