@@ -56,6 +56,24 @@
         "timestamp": 1787408280.0
     },
     {
+        "id": "208691d4a8",
+        "title_fa": "رصد روزانه و سراسری تغییرات قیمت سوخت در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "پایش مداوم و نقشه‌محور نرخ بنزین در ایالت‌ها و شهرستان‌های آمریکا به عنوان شاخصی مستقیم از رفاه خانوار.",
+            "نوسانات بازار خرده‌فروشی سوخت تأثیر مستقیمی بر رضایت عمومی و تصمیمات اقتصادی در درون آمریکا دارد."
+        ],
+        "impact": "تثبیت یا جهش قیمت سوخت بر افکار عمومی و نرخ تورم داخلی ایالات متحده اثرگذار خواهد بود.",
+        "tag": "انرژی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787405160.0
+    },
+    {
         "id": "0fde820450",
         "title_fa": "بازگشت پرسنل روس‌آتوم به نیروگاه هسته‌ای بوشهر",
         "title_en": "Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant",
@@ -130,6 +148,25 @@
         "clean_url": "https://www.msn.com/en-gb/news/world/irans-execution-machine-kills-21-year-old-protester-as-regime-faces-crisis-on-every-front/ar-AA2aI00p",
         "image": "http://www.bing.com/th?id=ONUT.SjUmFktSvYhg_fQ6WH8dNQ&pid=News",
         "timestamp": 1787379720.0
+    },
+    {
+        "id": "374fc1f670",
+        "title_fa": "چراغ سبز پاستور و بهارستان برای خروج از جنگ و آغاز مذاکره",
+        "title_en": "Iran’s top politicians urge an end to the war",
+        "summary": [
+            "مسعود پزشکیان و محمدباقر قالیباف خواهان خروج سریع‌تر از درگیری نظامی و ترغیب به مذاکره برای مهار بحران خفه‌کننده اقتصادی شده‌اند.",
+            "تأکید مقامات ارشد بر ضرورت مذاکره تا زمان باقی‌ماندن اهرم‌های فشار، از هراس شدید نسبت به فروپاشی اقتصادی و خالی شدن دست تهران حکایت دارد.",
+            "این تغییر لحن صریح، یک عقب‌نشینی تاکتیکی برای کاهش بار تحریم‌ها و حفظ توان باقی‌مانده کشور است."
+        ],
+        "impact": "افزایش احتمال فعال‌سازی کانال‌های پنهان دیپلماتیک برای کاهش تنش نظامی و کنترل بحران ارزی.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-top-politicians-urge-an-end-to-the-war/ar-AA2aHHFp",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-top-politicians-urge-an-end-to-the-war/ar-AA2aHHFp",
+        "image": "http://www.bing.com/th?id=ONUT._Tmz6nyOYIiYGT-ucGkq-w&pid=News",
+        "timestamp": 1787364900.0
     },
     {
         "id": "5f600e63c4",
