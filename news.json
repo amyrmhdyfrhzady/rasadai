@@ -262,6 +262,25 @@
         "timestamp": 1787384400.0
     },
     {
+        "id": "32560f27e6",
+        "title_fa": "تغییر تاکتیک ترامپ؛ از تهدید توخالی تا جنگ واقعی",
+        "title_en": "From broken promises to open war: The contradictions of Trump's Iran policy",
+        "summary": [
+            "رویکرد ترامپ در دوره جدید ریاست‌جمهوری برخلاف گذشته از لفاظی به عملیات نظامی مستقیم تبدیل شده است.",
+            "مهلت‌های دیپلماتیک جای خود را به حملات هدفمند به خاک ایران و درخواست تسلیم بی‌قید و شرط داده‌اند.",
+            "الگوی قدیمی هشدار و عقب‌نشینی واشنگتن در برابر تهران دیگر تکرار نمی‌شود."
+        ],
+        "impact": "سایه جنگ مستقیم و تنش نظامی بالاترین ریسک را برای ثبات منطقه ایجاد کرده است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/529306/From-broken-promises-to-open-war-The-contradictions-of-Trump-s",
+        "clean_url": "https://www.tehrantimes.com/news/529306/From-broken-promises-to-open-war-The-contradictions-of-Trump-s",
+        "image": "https://media.tehrantimes.com/d/t/2026/08/22/4/6142579.jpg?ts=1787408322261",
+        "timestamp": 1787382540.0
+    },
+    {
         "id": "d593e62117",
         "title_fa": "اعدام معترض ۲۱ ساله هم‌زمان با تعمیق بحران‌های رژیم",
         "title_en": "Iran's execution machine kills 21-year-old protester as regime faces crisis on every front",
@@ -279,6 +298,44 @@
         "clean_url": "https://www.msn.com/en-gb/news/world/irans-execution-machine-kills-21-year-old-protester-as-regime-faces-crisis-on-every-front/ar-AA2aI00p",
         "image": "http://www.bing.com/th?id=ONUT.SjUmFktSvYhg_fQ6WH8dNQ&pid=News",
         "timestamp": 1787379720.0
+    },
+    {
+        "id": "140ae1a564",
+        "title_fa": "چراغ سبز تهران به بغداد برای تردد نفتکش‌ها از هرمز",
+        "title_en": "Irán autoriza el paso de barcos petroleros iraquíes por el estrecho de Ormuz",
+        "summary": [
+            "جـمـهـورى اسـلامـى به برخی نفتکش‌های عراقی اجازه تردد از تنگه هرمز را داده است.",
+            "این تصمیم پس از درخواست‌های مکرر دولت عراق برای نجات اقتصاد وابسته به نفت این کشور گرفته شد.",
+            "تهران از زمان شروع جنگ با آمریکا و اسرائیل، کنترل شدیدی بر این آبراه حیاتی اعمال کرده است."
+        ],
+        "impact": "عراق توانست با وجود ناامنی در خلیج فارس، بخشی از نفت خود را صادر کند.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "EMOL",
+        "url": "https://www.emol.com/noticias/Internacional/2026/08/22/1209258/iran-paso-petroleros-irak-ormuz.html",
+        "clean_url": "https://www.emol.com/noticias/Internacional/2026/08/22/1209258/iran-paso-petroleros-irak-ormuz.html",
+        "image": "http://www.bing.com/th?id=ONUT.3ZRlIuwKwnYYo3donTuRnA&pid=News",
+        "timestamp": 1787367780.0
+    },
+    {
+        "id": "61bb2d6f35",
+        "title_fa": "آمادگی تهران برای مقابله با روز بزرگ اقتصادی واشنگتن",
+        "title_en": "Irán asegura que hará frente al \"DÍA D económico\" de EEUU a pesar de la mala situación",
+        "summary": [
+            "دولت ترامپ از برنامه‌ریزی برای شدیدترین فشار مالی تاریخ علیه ایران خبر داده است.",
+            "مقامات جـمـهـورى اسـلامـى ادعا کرده‌اند با وجود تورم سنگین و بحران بیکاری، در برابر این فشارها تسلیم نخواهند شد.",
+            "بسته شدن تنگه هرمز و بحران فروش نفت، اقتصاد کشور را در وضعیت فوق‌العاده قرار داده است."
+        ],
+        "impact": "فشار سنگین مالی واشنگتن معیشت مردم و ارزش ریال را بیش از پیش نابود می‌کند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Infobae",
+        "url": "https://www.infobae.com/america/agencias/2026/08/22/iran-asegura-que-hara-frente-al-dia-d-economico-de-eeuu-a-pesar-de-la-mala-situacion/",
+        "clean_url": "https://www.infobae.com/america/agencias/2026/08/22/iran-asegura-que-hara-frente-al-dia-d-economico-de-eeuu-a-pesar-de-la-mala-situacion",
+        "image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "timestamp": 1787364960.0
     },
     {
         "id": "374fc1f670",
