@@ -389,6 +389,24 @@
         "timestamp": 1787454404.0
     },
     {
+        "id": "c3063b0c6e",
+        "title_fa": "زلزله ۵.۹ ریشتری توکیو را لرزاند",
+        "title_en": "More than 20 people injured in earthquake near Tokyo",
+        "summary": [
+            "بیش از ۲۰ نفر در جریان زمین‌لرزه شدید در حومه توکیو مصدوم شدند.",
+            "تاسیسات هسته‌ای آسیب ندیدند و شبکه ریلی پس از وقفه کوتاه به روال عادی برگشت."
+        ],
+        "impact": "آسفالت خیابان‌ها بر اثر ترکیدگی لوله‌های آب دچار آبگرفتگی شد.",
+        "tag": "حوادث",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/emergencies/2176587",
+        "clean_url": "https://tass.com/emergencies/2176587",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260823/1484387.jpg",
+        "timestamp": 1787454300.0
+    },
+    {
         "id": "a40d8dcf34",
         "title_fa": "احتمال ضعیف تغییرات در کی‌یف با اعتصابات هدایت‌شده",
         "title_en": "Protests in Ukraine unlikely to change regime, expert believes",
@@ -441,6 +459,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1peUdwV1h1Vno2SUg3ZjU5Vmc0bVhrUjd2UEVnMXYzNDlXRzd6RWtnODBLOWVSQXNZT0UyR29UMVFONHJvbi15Tl9WaHphRzl5a1praU9VODZzUQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787453321.0
+    },
+    {
+        "id": "3c7e179f28",
+        "title_fa": "انفجار مهیب و آتش‌سوزی در تایوان ده‌ها خانه را تخریب کرد",
+        "title_en": "Nearly 70 houses damaged, 15 people injured in fire and explosion in Taiwan — newspaper",
+        "summary": [
+            "آتش‌سوزی در یک انبار ضایعات در جنوب غربی تایوان به انفجار انجامید.",
+            "دست‌کم ۱۵ نفر از جمله سه آتش‌نشان مصدوم شدند و نزدیک به ۷۰ خانه خسارت دیدند."
+        ],
+        "impact": "تیم‌های امدادی پس از ساعت‌ها تلاش آتش را مهار کردند و دادستانی پرونده تحقیق را گشود.",
+        "tag": "حوادث",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/emergencies/2176581",
+        "clean_url": "https://tass.com/emergencies/2176581",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1787452260.0
     },
     {
         "id": "f2ef984f4f",
