@@ -76,6 +76,42 @@
         "timestamp": 1787465760.0
     },
     {
+        "id": "ef2cf166e1",
+        "title_fa": "ادعای مسکو: عبور از شوک حملات پهپادی اوکراین در دونباس",
+        "title_en": "Shock from massive drone attacks on Donbass and Novorossiya mostly over — envoy",
+        "summary": [
+            "مسکو مدعی است شوک حملات پهپادی اوکراین به دونباس تخلیه شده، اما واقعیت میدانی از آسیب‌پذیری مداوم پدافند روسیه حکایت دارد.",
+            "تلاش مقامات کرملین برای عادی نشان دادن اوضاع، بیشتر یک جنگ روانی برای بازسازی روحیه تضعیف‌شده ساکنان مناطق اشغالی است."
+        ],
+        "impact": "تداوم فرسایش پدافند هوایی روسیه در برابر پهپادهای ارزان‌قیمت اما موثر اوکراین.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2176599",
+        "clean_url": "https://tass.com/politics/2176599",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1787460000.0
+    },
+    {
+        "id": "4a0be46b6e",
+        "title_fa": "موج حملات هماهنگ شبه‌نظامیان در جنوب تایلند",
+        "title_en": "Militants carried out more than 10 attacks injuring two people in southern Thailand",
+        "summary": [
+            "شبه‌نظامیان با انجام ۱۰ حمله همزمان به زیرساخت‌ها و دکل‌های مخابراتی، بار دیگر گسل‌های امنیتی جنوب تایلند را فعال کردند.",
+            "آماده‌باش کامل ارتش و پلیس تایلند، ترس شدید دولت از سرایت ناامنی به مناطق توریستی و اقتصادی را آشکار می‌کند."
+        ],
+        "impact": "افزایش هزینه‌های امنیتی دولت تایلند و احتمال آسیب به صنعت گردشگری در مناطق جنوبی.",
+        "tag": "امنیتی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/emergencies/2176591",
+        "clean_url": "https://tass.com/emergencies/2176591",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1787456280.0
+    },
+    {
         "id": "0fc2127f9d",
         "title_fa": "خط‌ونشان امنیتی تهران برای همسایگان درباره همراهی با آمریکا",
         "title_en": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
@@ -221,6 +257,24 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-news-trump-calls-strait-of-hormuz-american-territory-as-centcom-reports-nearly-1300-vessels-assisted/ar-AA2aJwbC",
         "image": "http://www.bing.com/th?id=ONUT.T7A1TqyQO3SHTQ6LonQdrA&pid=News",
         "timestamp": 1787448000.0
+    },
+    {
+        "id": "5a2624b5a6",
+        "title_fa": "تقابل آتالانتا و ساسولو در آغاز فصل جدید سری آ",
+        "title_en": "Serie A, today Atalanta-Sassuolo: time, probable lineups and where to watch it",
+        "summary": [
+            "آتالانتا با هدایت مائوریتسیو ساری در اولین بازی فصل جدید لیگ ایتالیا در خانه به مصاف ساسولو می‌رود.",
+            "این مسابقه اولین محک جدی برای ارزیابی ترکیب جدید و تاکتیک‌های هر دو تیم در شروع ماراتن سری آ است."
+        ],
+        "impact": "آغاز رقابت‌های داغ فوتبالی در ایتالیا و مشخص شدن عیار اولیه مدعیان.",
+        "tag": "ورزشی",
+        "urgency": 1,
+        "sentiment": 0.2,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260823KRONOS-202608121184012150_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1787443260.0
     },
     {
         "id": "61abd269a7",
