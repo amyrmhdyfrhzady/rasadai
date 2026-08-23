@@ -480,6 +480,24 @@
         "timestamp": 1787449500.0
     },
     {
+        "id": "2bb043aeba",
+        "title_fa": "بحران انرژی در اوکراین در آستانه فصل سرما",
+        "title_en": "Ukraine has only 72% of minimum gas volume required for winter by end of summer",
+        "summary": [
+            "اوکراین تا پایان تابستان تنها ۷۲ درصد از حجم گاز حداقل مورد نیاز برای زمستان را ذخیره کرده است.",
+            "توقف واردات گاز از اروپا و اتکا صرف به تولید داخلی، ذخایر انرژی اوکراین را به شدت تهدید می‌کند."
+        ],
+        "impact": "کمبود شدید گاز و بروز بحران انرژی برای اوکراین در ماه‌های سرد پیش رو.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2176573",
+        "clean_url": "https://tass.com/economy/2176573",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1787449140.0
+    },
+    {
         "id": "600d53de75",
         "title_fa": "خط و نشان جدید ترامپ برای ج.ا. درباره امنیت تنگه هرمز",
         "title_en": "US Israel Iran war latest news: Trump calls Strait of Hormuz 'American territory' as CENTCOM reports nearly 1,300 vessels assisted",
@@ -572,6 +590,24 @@
         "clean_url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-president-donald-trump-iran-conflict-economic-pressure-us-allies-tehran-strait-of-hormuz-sanctions-scott-bessent-peace-talks-deal-liveblog-19975035.htm",
         "image": "http://www.bing.com/th?id=ONUT.Tp6ffhT0mAgUNyPYTgeoUw&pid=News",
         "timestamp": 1787437740.0
+    },
+    {
+        "id": "55107218f6",
+        "title_fa": "تنش در تنگه هرمز و خروج دیپلمات‌های بریتانیایی از تهران",
+        "title_en": "US-Iran War Highlights: Tanker on fire near Hormuz; Iran says vessels must 'coordinate' to go through Strait",
+        "summary": [
+            "بریتانیا به دلیل بحرانی شدن شرایط امنیتی، کارکنان دیپلماتیک خود را به طور موقت از ایران خارج کرد.",
+            "دونالد ترامپ با اشاره به حملات هوایی اخیر، اعلام کرد جمهوری اسلامی زیر ضربات سنگین قرار دارد اما هنوز برای توافق واقعی آماده نیست."
+        ],
+        "impact": "بالارفتن نرخ نفت در بازار جهانی و افزایش خطر درگیری نظامی در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-iran-strikes-us-soldiers-attack-strait-of-hormuz-deal-gulf-states-oil-prices-latest-updates/liveblog/132527332.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-iran-strikes-us-soldiers-attack-strait-of-hormuz-deal-gulf-states-oil-prices-latest-updates/liveblog/132527332.cms",
+        "image": "https://static.toiimg.com/thumb/msid-132527332,width-1280,height-720,imgsize-529970,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1787434740.0
     },
     {
         "id": "1192dc5cbb",
