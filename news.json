@@ -1,5 +1,24 @@
 [
     {
+        "id": "5922c0d054",
+        "title_fa": "ادعای ترامپ درباره سقوط قیمت نفت پس از پایان درگیری با ج.ه.ا",
+        "title_en": "US Air Force colonel shot down over Iran recounts 'modern-day miracle'",
+        "summary": [
+            "دونالد ترامپ تورم آمریکا را نتیجه سیاست‌های دولت جو بایدن دانست.",
+            "ترامپ از آمادگی برای مذاکره خبر داد اما مقامات ارشد تـهـران شرط گذاشتند.",
+            "مقامات تـهـران اعلام کردند تا زمانی که خواسته‌هایشان برآورده نشود پای میز مذاکره نمی‌روند."
+        ],
+        "impact": "بازار نفت منتظر سرنوشت تنش‌ها و موضع‌گیری‌های واشنگتن و تـهـران است.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-air-force-colonel-shot-down-over-iran-recounts-modern-day-miracle",
+        "clean_url": "https://www.foxnews.com/live-news/us-air-force-colonel-shot-down-over-iran-recounts-modern-day-miracle",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/8bbea49dd354b3a9d1227235f0f74b74.jpg",
+        "timestamp": 1789423140.0
+    },
+    {
         "id": "0b6fac338f",
         "title_fa": "جهش قیمت بنزین در آمریکا همزمان با تنش‌های خاورمیانه",
         "title_en": "SC gas prices climb amid Iran conflict",
@@ -34,6 +53,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDJMMGxRblFITlJtQllWa2Njd1NvWnZXejVlVmRXQjd1bmstSWU4Ykd5cjl6RzRvaEUyYTZUdXF5VWMxN09GaHdWSmw1OVgxZ3JEdlJHWU5WeTF0eXVHbkNQQTVGTVNId1BtY0pJcFlJY0JjNU1MRFhfQ25SMkZqVWVHTHVTNmVzdEdkR1YxNkp6SldBUXA3NnNqdWZRMGJWaHE0eE55TGxFcll1R0dGVllGR09xZURn",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789417686.0
+    },
+    {
+        "id": "6bca2e1c72",
+        "title_fa": "انفجار نفتکش در تنگه هرمز و اعتراضات سراسری به گرانی سوخت در سوریه",
+        "title_en": "Mideast live: Trump says 'open' to holding talks with Iran",
+        "summary": [
+            "ترامپ اعلام کرد مایل است با ج.ه.ا وارد گفت‌وگو شود.",
+            "سپاه پاسداران از برخورد یک نفتکش با مین در تنگه هرمز و انفجار آن خبر داد.",
+            "جهش قیمت سوخت در سوریه موجی از اعتراضات ضدحکومتی را به راه انداخت."
+        ],
+        "impact": "انفجار در تنگه هرمز زنگ خطر را برای امنیت انرژی در خلیج فارس به صدا درآورد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+        "clean_url": "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces",
+        "image": "https://s.france24.com/media/display/f1ecde08-b055-11f1-87e3-005056a97e36/w:1280/p:16x9/000-C88E6WH.jpg",
+        "timestamp": 1789415340.0
     },
     {
         "id": "81d13e263d",
