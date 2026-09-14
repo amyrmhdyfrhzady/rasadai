@@ -37,6 +37,24 @@
         "timestamp": 1789405440.0
     },
     {
+        "id": "a4bb39a3d5",
+        "title_fa": "دسترسی نیروهای آمریکایی در خاورمیانه به تسلیحات پیشرفته",
+        "title_en": "Trump says US making more 'elite weapons' than ever, sending them to troops in Mideast",
+        "summary": [
+            "دونالد ترامپ از تولید انبوه تسلیحات پیشرفته و مدرن در ایالات متحده خبر داد.",
+            "این تجهیزات مرگبار و مدرن مستقیماً به دست نیروهای آمریکایی مستقر در منطقه خاورمیانه می‌رسد تا بازدارندگی نظامی در برابر تـهـدیـدات جـمهـوری اسـلامی و نـیـابـتی‌هـایـش تقویت شود."
+        ],
+        "impact": "افزایش حضور و آمادگی نظامی آمریکا در منطقه برای پاسخ به هرگونه سناریوی جنگی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-us-making-more-elite-weapons-than-ever-sending-them-to-troops-in-mideast/ar-AA2cctOW",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-us-making-more-elite-weapons-than-ever-sending-them-to-troops-in-mideast/ar-AA2cctOW",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26252677129777.jpg",
+        "timestamp": 1789404725.0
+    },
+    {
         "id": "9154e2aabb",
         "title_fa": "تهدید سخت نتانیاهو؛ ضربات سنگین تری در راه است",
         "title_en": "Israel fires at people in Shaqra, no casualties reported; over 500 killed in Yemen fighting, says WHO | LIVE",
@@ -309,6 +327,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789386455.0
+    },
+    {
+        "id": "4648c6ff73",
+        "title_fa": "تشدید بحران در منطقه؛ از حملات یمن تا سقوط تردد نفتکش‌ها",
+        "title_en": "US-Iran war LIVE: Houthis say 'Saudi criminal air force' targeted Yemen with 54 strikes in 24 hours",
+        "summary": [
+            "حوثی‌ها از انجام حملات گسترده هوایی به یمن خبر دادند که نشانگر تداوم تنش‌های شدید در مرزهای جنوبی شبه‌جزیره عربستان است.",
+            "آمار عبور کشتی‌های تجاری از تنگه هرمز به شدت افت کرده و به کمتر از ۱۰ فروند در روز رسیده که زنگ خطری جدی برای بازار انرژی است.",
+            "پکن گزارش‌ها درباره کمک‌های ماهواره‌ای به تـقـلیـب نظامیان جـمهـوری اسـلامی علیه پایگاه آمریکایی در اردن را رد کرد و دونالد ترامپ نیز این ادعا را بی‌اساس دانست."
+        ],
+        "impact": "پرش بیش از سه درصدی قیمت نفت و مختل شدن شریان‌های حیاتی انرژی در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-saudi-houthis-strait-of-hormuz-bab-al-mandab-strait-crude-oil-prices-11789346363638.html",
+        "clean_url": "https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-saudi-houthis-strait-of-hormuz-bab-al-mandab-strait-crude-oil-prices-11789346363638.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/US-iran_war-trump-xi-jinping-khamenei_1789375288992_0a378424-83e8-43ed-a55a-a73dba3fffe1_1789375289175_f9f37837-5260-4822-9e77-4f3503138d9b_86cd20dd-2180-4306-988f-3e76b3aa6460_69199eab-b1a0-4901-be4b-316b637d7b17.jpg",
+        "timestamp": 1789384440.0
     },
     {
         "id": "af1a534578",
