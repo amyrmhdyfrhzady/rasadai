@@ -238,6 +238,25 @@
         "timestamp": 1789448674.0
     },
     {
+        "id": "613b64e6aa",
+        "title_fa": "تهدید ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی به قطع کابل‌های اینترنت خلیج فارس",
+        "title_en": "Iran’s threat to cut undersea cables in Strait of Hormuz poses a serious threat to Gulf states",
+        "summary": [
+            "تهدید زیرساخت‌های حیاتی اینترنت در خلیج فارس، ابزار جدید فشار برای مقابله با محاصره دریایی است.",
+            "آسیب به این کابل‌ها می‌تواند ۹۵ درصد ترافیک داده‌های منطقه را مختل کرده و اقتصاد جهانی را به چالش بکشد.",
+            "این اقدام نشان‌دهنده استیصال در برابر فشارهای دریایی آمریکا و تلاش برای ایجاد ناامنی گسترده است."
+        ],
+        "impact": "اختلال در شبکه جهانی اینترنت و افزایش تنش‌های نظامی در آب‌های خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Conversation",
+        "url": "https://theconversation.com/irans-threat-to-cut-undersea-cables-in-strait-of-hormuz-poses-a-serious-threat-to-gulf-states-291618",
+        "clean_url": "https://theconversation.com/irans-threat-to-cut-undersea-cables-in-strait-of-hormuz-poses-a-serious-threat-to-gulf-states-291618",
+        "image": "https://images.theconversation.com/files/759685/original/file-20260914-50-q5e0c4.jpg?ixlib=rb-4.1.1&rect=0%2C417%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
+        "timestamp": 1789446360.0
+    },
+    {
         "id": "8bceab904c",
         "title_fa": "شرط‌گذاری محسن رضایی برای مذاکره با وجود پیشنهاد ترامپ",
         "title_en": "After Trump floats talks, Iran security chief rejects negotiations until ‘conditions’ met",
@@ -382,6 +401,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYk9vblpwM3o3cXFZUjZNNVFRV0ZDbzFyX29LREg0Z3ZSUi1jR25VcWozOWhKamxYSF9vbU9LZmotSXdRZFhkNDYxbTNxS2NkMWFSWkFlLWJnT1M1X1RvQlFreXU2SG1DVnp1cThJc0NLSDhlQXB4dG83aVItSTVHZFFZaGlOY0NKN2ZR",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789441962.0
+    },
+    {
+        "id": "03d58c0a84",
+        "title_fa": "توافق ترامپ با روسیه و اوکراین برای توقف حملات انرژی",
+        "title_en": "World News in Brief: September 15",
+        "summary": [
+            "ترامپ با میانجی‌گری غیررسمی، طرفین جنگ اوکراین را به توقف حملات به زیرساخت‌های انرژی متقاعد کرده است.",
+            "کرملین از این موضع ترامپ استقبال کرده که نشان‌دهنده نفوذ بالای او در معادلات جنگ حتی پیش از قدرت‌گیری رسمی است."
+        ],
+        "impact": "کاهش تنش‌های انرژی در بازار جهانی و تغییر موازنه قدرت در جنگ اوکراین.",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "en.nhandan",
+        "url": "https://en.nhandan.vn/world-news-in-brief-september-15-post166654.html",
+        "clean_url": "https://en.nhandan.vn/world-news-in-brief-september-15-post166654.html",
+        "image": "https://en-cdn.nhandan.vn/images/PGsdfWzXfw3FSVNqQeLLm4wUu6Y2nbImzUGHniu2LVjIiQ4ytweEAINwQQlgfGO4/eu.jpg.webp",
+        "timestamp": 1789440300.0
     },
     {
         "id": "450456dfaa",
