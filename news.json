@@ -363,6 +363,24 @@
         "timestamp": 1789548194.0
     },
     {
+        "id": "ebe85e90a5",
+        "title_fa": "همکاری اطلاعاتی مسکو و تهران علیه مواضع ارتش آمریکا",
+        "title_en": "Russian satellites flew over US base in Saudi Arabia days before Iranian attack — CNN",
+        "summary": [
+            "ماهواره‌های جاسوسی روسی روزهای قبل از حمله پهپادی به پایگاه آمریکایی در عربستان، از فراز این منطقه عبور کرده‌اند.",
+            "این رخداد نشان‌دهنده تبادل اطلاعاتی میان مسکو و تهران برای هدف‌گیری دقیق‌تر مواضع آمریکا در منطقه است."
+        ],
+        "impact": "افزایش ریسک امنیتی برای نیروهای آمریکایی در منطقه و گستردگی ابعاد اطلاعاتی درگیری‌ها.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/russian-satellites-flew-over-us-base-in-saudi-arabia-days-before-iranian-attack-cnn/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/russian-satellites-flew-over-us-base-in-saudi-arabia-days-before-iranian-attack-cnn",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260329__A64D2EF__v2__HighRes__TopshotSaudiIranUsIsraelWar-640x400.jpg",
+        "timestamp": 1789545780.0
+    },
+    {
         "id": "be60334268",
         "title_fa": "ادعای سازمان انرژی اتمی: خرابکاری صنعت هسته‌ای را متوقف نمی‌کند",
         "title_en": "Iran’s Nuclear Industry Won’t Be Destroyed by Sabotage: Spokesman",
@@ -5503,24 +5521,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmlHVnlKQlJEd3UtZ3V1Y0hvNUdkMlhQTzNzb1luRkpDR3NHZTBhRkt1Yl83VHE3N3YyZS0xUFBjN3JnZnlLbkh3RFJEWEYzYXl4UHl1eEZGYndGZHpBQzVvN2FGbmpiMmxLdG04a3ZCNE9EcUlxSkN0NXRmV0dWOW52UnJOZHluRDFCTmQyOE9IeEdvemtaSnJ2SU1QN28ybkp0eGJMc0JnMVk1ZHBZanViaDR3Zw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787404526.0
-    },
-    {
-        "id": "574264728c",
-        "title_fa": "پاسخ تلافی‌جویانه کانادا به تعرفه‌های ۵۰ درصدی آمریکا",
-        "title_en": "Canada vows to match new U.S. tariffs 'dollar for dollar' as trade talks fail",
-        "summary": [
-            "شکست مذاکرات تجاری میان واشنگتن و اتاوا، آتش جنگ اقتصادی جدیدی را روشن کرد.",
-            "کانادا متعهد شد در واکنش به تعرفه ۵۰ درصدی روی ۲۰ میلیارد دلار از صادراتش، به همان میزان بر کالاهای آمریکایی مالیات وضع کند.",
-            "این اقدام مستقیم گمرکی، زیان سنگینی به مبادلات تجاری دو طرف وارد می‌سازد."
-        ],
-        "impact": "موج جدید گرانی کالاها و اختلال شدید در زنجیره تامین میان آمریکا و کانادا.",
-        "tag": "تجارت",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/news/4636037-canada-vows-match-new-us-tariffs-dollar-dollar",
-        "clean_url": "https://seekingalpha.com/news/4636037-canada-vows-match-new-us-tariffs-dollar-dollar",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/136886154/image_136886154.jpg?io=getty-c-w630",
-        "timestamp": 1787399700.0
     }
 ]
