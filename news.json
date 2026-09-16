@@ -275,6 +275,25 @@
         "timestamp": 1789540214.0
     },
     {
+        "id": "7677583cca",
+        "title_fa": "چراغ سبز پکن به تهران در آستانه دیدار با ترامپ",
+        "title_en": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
+        "summary": [
+            "وزیر خارجه چین در دیدار همکار ایرانی خود بر حفظ منافع و حقوق تهران تاکید کرد.",
+            "این موضع‌گیری در آستانه سفر شی جین‌پینگ به آمریکا و دیدار با دونالد ترامپ انجام شده است.",
+            "پکن خواستار بازگشایی فوری تنگه هرمز و خویشتن‌داری طرفین شده است."
+        ],
+        "impact": "تلاش دیپلماتیک چین برای موازنه‌گری میان ایران و ایالات متحده در بحران‌های منطقه‌ای.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaa7e7bce-1789558395.jpg?resize=1920%2C1440",
+        "timestamp": 1789538880.0
+    },
+    {
         "id": "1aa26d5909",
         "title_fa": "تشدید درگیری‌های منطقه‌ای از یمن تا مرزهای شمالی",
         "title_en": "Live Updates: IDF troops destroy Hezbollah rocket launchers as Saudi Arabia turns to Western allies for help",
@@ -5514,23 +5533,5 @@
         "clean_url": "https://www.newsweek.com/donald-trumps-economic-war-pushes-iran-toward-a-dangerous-limit-12350672",
         "image": "http://www.bing.com/th?id=ONUT.RtnXVbuCirww4PKrQOTtaA&pid=News",
         "timestamp": 1787318880.0
-    },
-    {
-        "id": "9e739984b4",
-        "title_fa": "جهش دوباره قیمت جهانی نفت در پی فشار حداکثری آمریکا بر ایران",
-        "title_en": "Oil set for second weekly gain as US ramps up pressure on Iran",
-        "summary": [
-            "بازار جهانی انرژی با پیش‌بینی خروج مقادیر بیشتری از نفت ایران، برای دومین هفته متوالی شاهد صعود قیمت‌ها بود.",
-            "نگرانی معامله‌گران از تشدید تنش در خلیج فارس و اختلال در عرضه، بر بازار سایه افکنده است."
-        ],
-        "impact": "افزایش هزینه‌های انرژی در غرب هم‌زمان با فشار بیشتر بر درآمد نفتی ایران.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787318381.0
     }
 ]
