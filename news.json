@@ -791,6 +791,25 @@
         "timestamp": 1789503120.0
     },
     {
+        "id": "41023a11f4",
+        "title_fa": "شوک ترامپ از مقاومت ای-ران؛ خطای محاسباتی کاخ سفید",
+        "title_en": "Trump was ‘shocked’ that Iran fought back. He shouldn’t have been.",
+        "summary": [
+            "تیم ترامپ تصور می‌کرد حکومت ای-ران مثل ونزوئلا به راحتی فرو می‌پاشد اما با دیواری محکم روبه‌رو شد.",
+            "نادیده گرفتن هشدارهای نهادهای اطلاعاتی باعث شد کاخ سفید تصور کند ای-ران یک هدف آسان است.",
+            "تاریخ چند هزار ساله و فرهنگ سیاسی ای-ران عامل اصلی مقاومت در برابر فشارهای خارجی است."
+        ],
+        "impact": "شکست محاسبات اولیه واشنگتن، هزینه‌های راهبردی درگیری را به شدت بالا برده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/09/16/opinion/trump-iran-history-pressure-resistance/",
+        "clean_url": "https://www.bostonglobe.com/2026/09/16/opinion/trump-iran-history-pressure-resistance",
+        "image": "http://www.bing.com/th?id=ONUT.amam3-0S3i-lcagMcgiL9A&pid=News",
+        "timestamp": 1789502460.0
+    },
+    {
         "id": "46edd8ad9b",
         "title_fa": "وضعیت مبهم مذاکرات پنهان بین واشنگتن و تـهـران",
         "title_en": "What Is the Status of the U.S.-Iran Peace Talks? Here's What Both Sides Are Saying",
@@ -5516,22 +5535,5 @@
         "clean_url": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
         "image": "http://www.bing.com/th?id=ONUT.8zYuRXGkzNh53rsT3M4REA&pid=News",
         "timestamp": 1787302080.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "پوشش اخبار ورزشی و حاشیه‌ای رسانه‌های غربی",
-        "title_en": "US latest news",
-        "summary": [
-            "این آیتم شامل اخبار ورزشی و رویدادهای داخلی آمریکاست و ارتباطی با تحولات ژئوپلیتیک ندارد."
-        ],
-        "impact": "فاقد هرگونه تأثیر بر معادلات سیاسی، نظامی یا اقتصادی منطقه.",
-        "tag": "عمومی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1787301120.0
     }
 ]
