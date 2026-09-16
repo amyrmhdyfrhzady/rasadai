@@ -54,6 +54,24 @@
         "timestamp": 1789571584.0
     },
     {
+        "id": "bedf3d111e",
+        "title_fa": "چالش اتمی جدید ایران و آمریکا در آژانس",
+        "title_en": "Iran's Rare Win Over US Sets Up Clash at UN Nuclear Agency",
+        "summary": [
+            "موانع فنی سایت بلومبرگ نشان‌دهنده ابعاد امنیتی و حساسیت بالای اخبار مربوط به پرونده اتمی است.",
+            "رویارویی دیپلماتیک تهران و غرب در آژانس انرژی اتمی وارد فاز تازه‌ای از تنش شده است."
+        ],
+        "impact": "افزایش ریسک سیاسی و تشدید فشارهای بین‌المللی بر پرونده هسته‌ای.",
+        "tag": "اتمی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/iran-s-rare-win-over-us-sets-up-clash-at-un-nuclear-agency",
+        "clean_url": "https://www.bloomberg.com/news/articles/2026-09-16/iran-s-rare-win-over-us-sets-up-clash-at-un-nuclear-agency",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivgC6mRFRQL0/v1/1200x839.jpg",
+        "timestamp": 1789568580.0
+    },
+    {
         "id": "6cd13e548b",
         "title_fa": "جهش قدرت حوثی‌ها در دریای سرخ و تسلط بر باب‌المندب",
         "title_en": "Houthi Red Sea offensive elevates enigmatic Yemeni commander's standing",
@@ -5507,24 +5525,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-live-tehran-allows-iraqi-tankers-through-hormuz/ar-AA2aGZNh",
         "image": "http://www.bing.com/th?id=ONUT.Aj8Kua5bLGkbdHZmCKawHQ&pid=News",
         "timestamp": 1787385011.0
-    },
-    {
-        "id": "764ae28a90",
-        "title_fa": "ادعای قالیباف درباره پیام‌های امنیتی همسایگان به تهران",
-        "title_en": "Iran claims neighbours seek new security order, says 'US put allies at risk for Israel'",
-        "summary": [
-            "محمدباقر قالیباف مدعی شد کشورهای منطقه پس از تنش با آمریکا، خواستار ساختار امنیتی و اقتصادی جدیدی با ایران شده‌اند.",
-            "رئیس مجلس بدون ارائه هرگونه سند یا نام بردن از کشوری، دست به مانور تبلیغاتی برای پنهان کردن انزوای منطقه‌ای زده است.",
-            "هم‌زمان با این ادعاها، واشنگتن در حال آماده‌سازی بسته‌های تحریمی جدیدی است که هرگونه تعامل با تهران را پرهیزکننده می‌سازد."
-        ],
-        "impact": "تلاش کلامی حکومت برای بازسازی وزنه منطقه‌ای و دست‌پیش گرفتن در برابر فشارهای واشنگتن.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-claims-neighbours-seek-new-security-order-says-us-put-allies-at-risk-for-israel-article-14013012.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-claims-neighbours-seek-new-security-order-says-us-put-allies-at-risk-for-israel-article-14013012.html",
-        "image": "http://www.bing.com/th?id=ONUT.MX1EscNd-cKHFSJv-O7IvQ&pid=News",
-        "timestamp": 1787384400.0
     }
 ]
