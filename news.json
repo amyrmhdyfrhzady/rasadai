@@ -490,6 +490,24 @@
         "timestamp": 1789545780.0
     },
     {
+        "id": "5dadfbc5da",
+        "title_fa": "کاهش ترس جهانی از جنگ اتمی و خطرات پیش‌رو",
+        "title_en": "World leaders are losing their terror of nuclear war",
+        "summary": [
+            "ترس مشترک رهبران آمریکا و شوروی در دوران جنگ سرد بارها مانع از فاجعه اتمی شد.",
+            "عادی‌سازی خطرات هسته‌ای و از بین رفتن بازدارندگی روانی میان قدرت‌ها، امنیت جهان را به خطر می‌اندازد."
+        ],
+        "impact": "افزایش ریسک درگیری‌های اتمی به دلیل بی‌تفاوت شدن رهبران جهان نسبت به پیامدهای ویرانگر آن.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "NRC",
+        "url": "https://www.nrc.nl/nieuws/2026/09/16/world-leaders-are-losing-their-terror-of-nuclear-war-a4936397",
+        "clean_url": "https://www.nrc.nl/nieuws/2026/09/16/world-leaders-are-losing-their-terror-of-nuclear-war-a4936397",
+        "image": "https://images.nrc.nl/UreVfJ_PiF6FMkUlQyUxoGFalnY=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/11115226/170926OPI_2036616527_WEB_ILLU_Economist_World-leaders_Chloe-Cushman.jpg",
+        "timestamp": 1789545600.0
+    },
+    {
         "id": "be60334268",
         "title_fa": "ادعای سازمان انرژی اتمی: خرابکاری صنعت هسته‌ای را متوقف نمی‌کند",
         "title_en": "Iran’s Nuclear Industry Won’t Be Destroyed by Sabotage: Spokesman",
@@ -5499,23 +5517,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-warns-neighbours-over-us-pressure-as-hormuz-tensions-spread/ar-AA2aJsbW",
         "image": "http://www.bing.com/th?id=ONUT.YAJIZPNNem0jm-kiDsFvfA&pid=News",
         "timestamp": 1787408802.0
-    },
-    {
-        "id": "d02450eb93",
-        "title_fa": "ادعای پیروزی بر آمریکا؛ مانور کلامی تهران در اوج بحران",
-        "title_en": "Iran says ‘world approved our victory’ over the US",
-        "summary": [
-            "دستگاه تبلیغاتی تهران با طرح ادعای «تایید پیروزی ایران بر آمریکا توسط جهان»، در صدد ساخت روایت کاذب است.",
-            "این‌گونه اظهارات صرفاً مصرف داخلی داشته و برای سرپوش گذاشتن بر خسارات سنگین اخیر بیان می‌شود."
-        ],
-        "impact": "تلاش برای روحیه دادن به نیروهای بدنه سرکوب بدون داشتن هیچ ماکای واقعی در عرصه بین‌الملل.",
-        "tag": "جنگ‌روانی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYXVTcW1JYm9CY3A1QzRfM1l3b0J4VGRGbW1vdnpIU0JvVDcxVEtzRWR0LWlTZko0a3M0akx6bTFranBrTk1tUU5LLXpWSnVlbEh1Vm1qUTdlUGFWX0lOU1gxc3VISXBSSzZEWTVXZUVWSjZKNmk2c010NHRZb0lxdnRDWkhyVDZ5RFNEY0IyMWNZWGVVVXlyZUp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYXVTcW1JYm9CY3A1QzRfM1l3b0J4VGRGbW1vdnpIU0JvVDcxVEtzRWR0LWlTZko0a3M0akx6bTFranBrTk1tUU5LLXpWSnVlbEh1Vm1qUTdlUGFWX0lOU1gxc3VISXBSSzZEWTVXZUVWSjZKNmk2c010NHRZb0lxdnRDWkhyVDZ5RFNEY0IyMWNZWGVVVXlyZUp3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787408700.0
     }
 ]
