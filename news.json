@@ -253,6 +253,24 @@
         "timestamp": 1789555709.0
     },
     {
+        "id": "02005251d5",
+        "title_fa": "شکاف در حزب جمهوری‌خواه درباره مهار اقدام نظامی علیه ای-ران",
+        "title_en": "List of Republicans Who Flipped To Block Trump’s Military Action in Iran",
+        "summary": [
+            "رأی‌گیری مجلس نمایندگان آمریکا نشان داد که هفت جمهوری‌خواه با دموکرات‌ها برای محدود کردن اختیارات جنگی ترامپ همصدا شدند.",
+            "نگرانی از هزینه‌ها و تبعات سیاسی جنگ در آستانه انتخابات میان‌دوره‌ای، شکاف کوچکی اما معنادار در اردوگاه جمهوری‌خواهان ایجاد کرده است."
+        ],
+        "impact": "فشار سیاسی بر کاخ سفید افزایش یافته اما این مصوبه تغییری فوری در وضعیت نیروهای نظامی ایجاد نمی‌کند.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/list-republicans-flipped-block-trump-military-action-iran-12448042",
+        "clean_url": "https://www.newsweek.com/list-republicans-flipped-block-trump-military-action-iran-12448042",
+        "image": "http://www.bing.com/th?id=ONUT.nZY_ZHp-TBGgcHJwdIvY7w&pid=News",
+        "timestamp": 1789554960.0
+    },
+    {
         "id": "ca5c7a3678",
         "title_fa": "هزینه ده‌ها میلیارد دلاری آمریکا در مناقشه با جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
         "title_en": "US spends tens of billions of dollars on Iran conflict",
@@ -5501,23 +5519,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmw3RlB5cEJfYUJINWlNa09CazRXVW1wZExGVFJhMWlyMVJuMGNIMnBBZDJISC1HelQ4QUE2VW9adV9GREVqRGZSYUJNX1NGUUNfSms1d19OT080TkJVRllfYUNWMVJQbkFkdF90Y2pOQ1k4M00xaExCQXlIZVVEUGlfalBmc25y",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787408280.0
-    },
-    {
-        "id": "93b307d4eb",
-        "title_fa": "تهدید جدی تـر‌امـپ درباره تنگه هرمز",
-        "title_en": "Iran live updates: Trump threatens to bomb Oman over Strait of Hormuz",
-        "summary": [
-            "تـر‌امـپ در موضعی تند به بحران تنگه هرمز ورود کرده و به نوعی به طرف مقابل هشدار داده است.",
-            "مذاکرات میان واشنگتن و تهران بر سر امنیت این آبراه حیاتی همچنان به بن‌بست خورده است."
-        ],
-        "impact": "افزایش تنش‌های نظامی در آب‌های خلیج فارس و ریسک بالا برای بازار انرژی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "abc News",
-        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-says-us-control-of-strait-of-hormuz-a-great-idea/ar-AA2agTBg",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-says-us-control-of-strait-of-hormuz-a-great-idea/ar-AA2agTBg",
-        "image": "https://i.abcnewsfe.com/a/f3ac78eb-ca1f-4cf6-950f-0fc9e806b279/Trump-DB-260817_1786968320439_hpMain_16x9.jpg?w=1600",
-        "timestamp": 1787407800.0
     }
 ]
