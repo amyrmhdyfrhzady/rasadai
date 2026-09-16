@@ -601,6 +601,24 @@
         "timestamp": 1789539120.0
     },
     {
+        "id": "ed7f06d8cb",
+        "title_fa": "سرنگونی جنگنده سعودی به دست انصارالله یمن",
+        "title_en": "Yemen's Houthis say they shot down a Saudi fighter jet",
+        "summary": [
+            "حوثی‌های یمن مدعی شدند یک فروند جنگنده سعودی را با تسلیحات ساخت داخل هدف قرار داده‌اند.",
+            "این ادعا در شرایطی مطرح می‌شود که تنش‌های نظامی در مرزهای یمن همچنان شکننده است."
+        ],
+        "impact": "افزایش ریسک درگیری‌های نظامی در مرزهای جنوبی عربستان و پیامدهای امنیتی آن.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-shot-down-a-saudi-fighter-jet/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-shot-down-a-saudi-fighter-jet",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789538940.0
+    },
+    {
         "id": "7677583cca",
         "title_fa": "چراغ سبز پکن به تهران در آستانه دیدار با ترامپ",
         "title_en": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
@@ -5501,24 +5519,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-says-us-control-of-strait-of-hormuz-a-great-idea/ar-AA2agTBg",
         "image": "https://i.abcnewsfe.com/a/f3ac78eb-ca1f-4cf6-950f-0fc9e806b279/Trump-DB-260817_1786968320439_hpMain_16x9.jpg?w=1600",
         "timestamp": 1787407800.0
-    },
-    {
-        "id": "a161037bc7",
-        "title_fa": "چالش بیل مار با هانتر بایدن درباره سیاست ایران",
-        "title_en": "Bill Maher checks Hunter Biden during heated Iran war rant",
-        "summary": [
-            "بیل مار در یک بحث داغ، هانتر بایدن را بابت انتقاد از سیاست‌های تقابلی با تهران به چالش کشید.",
-            "یادآوری مواضع پیشین جو بایدن مبنی بر جلوگیری از دستیابی ج.ا به سلاح هسته‌ای، هانتر را در موضع ضعف قرار داد.",
-            "این تقابل نشان‌دهنده شکاف در بدنه حامیان دموکرات درباره نحوه برخورد با تهدیدات اتمی تهران است."
-        ],
-        "impact": "افزایش فشار رسانه‌ای بر کاخ سفید برای شفاف‌سازی استراتژی واقعی در قبال برنامه هسته‌ای تهران.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-us/news/other/bill-maher-checks-hunter-biden-during-heated-iran-war-rant/ar-AA2aIQNB",
-        "clean_url": "https://www.msn.com/en-us/news/other/bill-maher-checks-hunter-biden-during-heated-iran-war-rant/ar-AA2aIQNB",
-        "image": "http://www.bing.com/th?id=ONUT.-1Hs9YMI8rLXfi8NWsA7cA&pid=News",
-        "timestamp": 1787405340.0
     }
 ]
