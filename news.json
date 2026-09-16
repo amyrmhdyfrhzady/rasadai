@@ -1,5 +1,24 @@
 [
     {
+        "id": "724fc387d4",
+        "title_fa": "شکست حملات هوایی در مهار حوثی‌ها",
+        "title_en": "Houthis grow stronger despite years of US, Saudi airstrikes",
+        "summary": [
+            "سال‌ها بمباران هوایی توسط آمریکا، عربستان و هم‌پیمانانشان نتوانسته مانع قدرت‌گیری حوثی‌ها شود.",
+            "جغرافیا‌ی سخت‌گذر یمن و پشتیبانی تسلیحاتی ج.ه.ا. این گروه را به قدرتمندترین بازوی منطقه‌ای تبدیل کرده است.",
+            "تسلط بر آبراه‌های حیاتی و تهدید تاسیسات نفتی، ابزار فشار اصلی این گروه در منطقه است."
+        ],
+        "impact": "ناکامی ائتلاف‌های نظامی در تضعیف حوثی‌ها، امنیت کشتیرانی جهانی را همچنان در معرض تهدید جدی قرار داده است.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Siasat Daily",
+        "url": "https://www.siasat.com/houthis-grow-stronger-despite-years-of-us-saudi-airstrikes-3543193/",
+        "clean_url": "https://www.siasat.com/houthis-grow-stronger-despite-years-of-us-saudi-airstrikes-3543193",
+        "image": "https://cdn.siasat.com/wp-content/uploads/2026/08/Houthis.webp",
+        "timestamp": 1789556340.0
+    },
+    {
         "id": "ca5c7a3678",
         "title_fa": "هزینه ده‌ها میلیارد دلاری آمریکا در مناقشه با جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
         "title_en": "US spends tens of billions of dollars on Iran conflict",
@@ -5514,24 +5533,5 @@
         "clean_url": "https://www.theguardian.com/us-news",
         "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
         "timestamp": 1787301120.0
-    },
-    {
-        "id": "70c0028721",
-        "title_fa": "خط و نشان ترامپ برای حامیان مالی و تجاری ایران",
-        "title_en": "Trump Threatens ‘Tremendous’ Economic Consequences For Iran Allies",
-        "summary": [
-            "دونالد ترامپ هشدار داده هر کشوری که امکانات بانکی، تجاری یا فرودگاهی در اختیار ایران قرار دهد با عواقب اقتصادی بی‌سابقه‌ای روبرو می‌شود.",
-            "واشنگتن با این اولتیماتوم قصد دارد شریان‌های تنفسی و کانال‌های دور زدن تحریم توسط تهران را کاملاً کور کند.",
-            "عباس عراقچی این تهدیدها را انحراف افکار عمومی از بحران‌های داخلی آمریکا خوانده و آن را بی‌اثر دانست."
-        ],
-        "impact": "افزایش شدید ریسک همکاری اقتصادی کشورهای همسایه با ایران و احتمال خروج سرمایه‌گذاران منطقه‌ای.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tremendous-economic-consequences-125000910.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tremendous-economic-consequences-125000910.html",
-        "image": "http://www.bing.com/th?id=ONUT.R9zeVuGxD242G_I67VVuPA&pid=News",
-        "timestamp": 1787291400.0
     }
 ]
