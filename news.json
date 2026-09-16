@@ -771,6 +771,25 @@
         "timestamp": 1789502295.0
     },
     {
+        "id": "76d713a8a1",
+        "title_fa": "جهش قیمت نفت؛ شریان حیاتی عربستان هدف پهپادهای نیابتی رژیم قرار گرفت",
+        "title_en": "Crude Oil rallies again as Saudi Arabia's route around Hormuz shuts",
+        "summary": [
+            "حمله پهپادی شبه‌نظامیان وابسته به رژیم تهران در عراق به خط لوله شرق به غرب عربستان، ریاض را مجبور به قطع موقت این مسیر استراتژیک کرد.",
+            "این خط لوله با ظرفیت انتقال روزانه ۷ میلیون بشکه، اصلی‌ترین راه عربستان برای دور زدن تنگه هرمز بود که حالا عملاً فلج شده است.",
+            "بسته شدن این مسیر، قیمت نفت برنت را به مرز ۱۰۸ دلار رسانده و بازارهای جهانی را در آستانه یک شوک بزرگ انرژی قرار داده است."
+        ],
+        "impact": "تشدید فشار اقتصادی بر بازارهای جهانی و افزایش احتمال پاسخ نظامی سنگین به مواضع شبه‌نظامیان در عراق.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/crude-oil-rallies-again-as-saudi-arabias-route-around-hormuz-shuts-202609151958",
+        "clean_url": "https://www.fxstreet.com/news/crude-oil-rallies-again-as-saudi-arabias-route-around-hormuz-shuts-202609151958",
+        "image": "https://editorial.fxsstatic.com/images/i/Commodities_Oil-2_Medium.jpg",
+        "timestamp": 1789502280.0
+    },
+    {
         "id": "2b237b9edb",
         "title_fa": "هدف‌گیری فرمانده تیپ رفح حماس توسط ارتش اسرائیل",
         "title_en": "Netanyahu, Katz confirm that IDF strike targeted commander of Hamas's Rafah Brigade",
@@ -5514,24 +5533,5 @@
         "clean_url": "https://www.cnn.com/2026/08/21/world/live-news/iran-war-trump",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277568767.jpg?c=16x9&q=w_800,c_fill",
         "timestamp": 1787291280.0
-    },
-    {
-        "id": "5489c7cc85",
-        "title_fa": "پاتک اقتصادی تهران به طرح محاصره مالی آمریکا",
-        "title_en": "Iran touts its trade ties as U.S. turns from bombs to economic warfare",
-        "summary": [
-            "ایران هم‌زمان با تهدیدهای ترامپ، توافق تجارت ترجیحی با عمان را نهایی کرد تا مسیرهای جایگزین تجاری بسازد.",
-            "محمدباقر قالینباف در بغداد از تجار ایرانی و عراقی خواست نقش فرماندهان جنگ اقتصادی را در برابر تحریم‌ها ایفا کنند.",
-            "معاون ترامپ تاکید کرده فشار خفه‌کننده اقتصادی، اصلی‌ترین ابزار واشنگتن برای به زانو درآوردن تهران است."
-        ],
-        "impact": "تلاش سراسیمه تهران برای فعال‌سازی شبکه صرافی‌ها و تجارت منطقه‌ای جهت جبران کسری ارزی.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-touts-trade-ties-u-103447256.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-touts-trade-ties-u-103447256.html",
-        "image": "http://www.bing.com/th?id=ONUT.bxFa88XQBdXup-rq_iUoLw&pid=News",
-        "timestamp": 1787291040.0
     }
 ]
