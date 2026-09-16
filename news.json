@@ -109,6 +109,25 @@
         "timestamp": 1789574951.0
     },
     {
+        "id": "97b49c09eb",
+        "title_fa": "سقوط قیمت نفت؛ ناکامی تهران در گروگان‌گیری تنگه هرمز",
+        "title_en": "Crude Oil Prices Retreat as Supply Fears Ease",
+        "summary": [
+            "ریزش نزدیک به ۴ درصدی قیمت نفت نشان داد هیاهوی تبلیغاتی درباره انسداد تنگه هرمز دیگر خریدار ندارد؛ عبور بی‌دردسر ۱۸ میلیون بشکه نفت در یک روز، توهم قطع شریان‌های انرژی را باطل کرد.",
+            "آمارهای جدید ذخایر نفت آمریکا فشار را بر بازارهای جهانی کاهش داده و تلاش‌های ج*ا برای سوار شدن بر موج بحران‌های منطقه‌ای جهت بالا بردن قیمت نفت را بی‌اثر کرده است.",
+            "کاهش قیمت نفت خام مستقیماً جیب ر*یم تهران را برای تامین مالی گروه‌های نیابتی‌اش خالی‌تر می‌کند؛ آن هم در شرایطی که هزینه‌های بقای اقتصادی ر*یم به شدت بالا رفته است."
+        ],
+        "impact": "کاهش درآمدهای ارزی ج*ا و بی‌اثر شدن اهرم فشار نفتی تهران در معادلات منطقه‌ای.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/9e9a4609211d2a5ea34e169b72b63b2d.jpg",
+        "timestamp": 1789574753.0
+    },
+    {
         "id": "19fda7aebc",
         "title_fa": "اخراج کارمند سفارت ای-ران از سوئد به دلیل مسائل امنیتی",
         "title_en": "Sweden expels Iran embassy employee, citing security concerns",
@@ -5498,24 +5517,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0J1aXFzVjdMZGhIeFU3UmltV2FaWkYzQkVKYU92ZGV1Z1BQV2tqQ056alZ1bUktYjdLY3lCNm5oWHZOQzh3XzFGbmRLV1RPWUZ3R29DeHZiR1cxZHFhcTNEMUlyb01TVDQxekFRSkY0TUZuZjB3eV80ZDJqOTVsY2ZWbzRISkhObGNsVlZ1WQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787413898.0
-    },
-    {
-        "id": "ff3e144574",
-        "title_fa": "تهدید صریح همسایگان توسط تهران؛ هشدار درباره همراهی با تحریم‌ها",
-        "title_en": "Irán considerará \"enemigo\" a cualquier país que se sume a la \"guerra económica\" de EU",
-        "summary": [
-            "محسن رضایی کشورهای منطقه را تهدید کرد که هرگونه همراهی با تحریم‌های آمریکا، آن کشورها را در زمره «دشمن» قرار خواهد داد.",
-            "تهران اعلام کرده در صورت فشار بیشتر، منافع و شرکت‌های نفتی آمریکا در منطقه را هدف قرار می‌دهد.",
-            "این خط خط‌ونشان روانی نشان‌دهنده هراس شدید از انسداد کامل شریان‌های مالی و تحریم‌های خفه ساختن اقتصادی است."
-        ],
-        "impact": "افزایش فشار بر کشورهای همسایه برای عدم رعایت تحریم‌ها و بالا رفتن مخاطرات ترانزیت انرژی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Excélsior",
-        "url": "https://www.excelsior.com.mx/internacional/iran-considerara-enemigo-pais-que-sume-guerra-economica-eu",
-        "clean_url": "https://www.excelsior.com.mx/internacional/iran-considerara-enemigo-pais-que-sume-guerra-economica-eu",
-        "image": "http://www.bing.com/th?id=ONUT.WWaWQ9AgizQ6mo7w0mtPyg&pid=News",
-        "timestamp": 1787410980.0
     }
 ]
