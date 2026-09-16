@@ -54,6 +54,24 @@
         "timestamp": 1789551960.0
     },
     {
+        "id": "c27e1c180e",
+        "title_fa": "هدف‌گیری مکه؛ ائتلاف سعودی خط قرمز تعیین کرد",
+        "title_en": "Houthi drone destroyed near Makkah as Saudi-led coalition warns threats to holy sites are 'red line'",
+        "summary": [
+            "رهگیری و انهدام یک فروند پهپاد مهاجم در نزدیکی مکه توسط پدافند",
+            "هشدار صریح ائتلاف سعودی درباره عبور از خط قرمز امنیت اماکن مقدس"
+        ],
+        "impact": "افزایش تنش‌های امنیتی در منطقه و بالا رفتن سطح آماده‌باش پدافندی",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Express Tribune",
+        "url": "https://tribune.com.pk/story/2629597/oic-condemns-heinous-attacks-on-makkah-madinah-region",
+        "clean_url": "https://tribune.com.pk/story/2629597/oic-condemns-heinous-attacks-on-makkah-madinah-region",
+        "image": "https://i.tribune.com.pk/media/images/destruction-caused-by-israel-in-gaza-11789536564-0/destruction-caused-by-israel-in-gaza-11789536564-0-640x480.webp",
+        "timestamp": 1789548960.0
+    },
+    {
         "id": "be60334268",
         "title_fa": "ادعای سازمان انرژی اتمی: خرابکاری صنعت هسته‌ای را متوقف نمی‌کند",
         "title_en": "Iran’s Nuclear Industry Won’t Be Destroyed by Sabotage: Spokesman",
@@ -5515,24 +5533,5 @@
         "clean_url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
         "image": "http://www.bing.com/th?id=ONUT.llSdi2B-aQdX9wboWhE6pA&pid=News",
         "timestamp": 1787290680.0
-    },
-    {
-        "id": "bed682bcff",
-        "title_fa": "ادعای پیروزی پزشکیان و چراغ سبز برای پایان درگیری",
-        "title_en": "Iran war: Tehran President says it is time to end war",
-        "summary": [
-            "مسعود پزشکیان ادعا کرد جهان پیروزی ایران را پذیرفته و اکنون وقت آن است که جنگ از موضع قدرت تمام شود.",
-            "این موضع‌گیری درست پس از تهدید ترامپ به اجرای «روز D اقتصادی» علیه زیرساخت‌های مالی تهران مطرح می‌شود.",
-            "چرخش لحن تهران نشان‌دهنده تمایل به خروج آبرومندانه از تنش نظامی پیش از عملیاتی شدن تحریم‌های جدید است."
-        ],
-        "impact": "ارسال سیگنال تمایل به عقب‌نشینی تاکتیکی و کاهش تنش از سوی تهران به طرف‌های غربی.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-war-tehran-president-says-it-is-time-to-end-war/ar-AA2aBXOp",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-war-tehran-president-says-it-is-time-to-end-war/ar-AA2aBXOp",
-        "image": "http://www.bing.com/th?id=ONUT.9PDO0hSfW-SyYoUi6AQI1g&pid=News",
-        "timestamp": 1787290383.0
     }
 ]
