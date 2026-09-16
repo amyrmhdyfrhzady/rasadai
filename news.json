@@ -1,5 +1,24 @@
 [
     {
+        "id": "645d6f1832",
+        "title_fa": "دور زدن تحریم‌ها؛ مروری بر پرونده‌های بانکی ایران و ترکیه",
+        "title_en": "From Halkbank to Golden Global: Iran sanctions and Turkey’s banking ties",
+        "summary": [
+            "پرونده‌های کلان مالی از هالک‌بنک تا گلوبال گلدن، ابعاد پنهان تبادلات غیرقانونی پول برای دور زدن تحریم‌های تهران را نمایان می‌کند.",
+            "سیستم بانکی ترکیه بارها به عنوان مجرای اصلی تنفس مالی ج.ه.‌ در دوران فشار حداکثری استفاده شده است.",
+            "فشار نهادهای ناظر بین‌المللی بر آنکارا برای قطع این شریان‌های مالی روزبه‌روز بیشتر می‌شود."
+        ],
+        "impact": "بسته‌شدن مسیرهای تنفس مالی ج.ه.‌ در ترکیه، فشار بر منابع ارزی داخل کشور را شدت می‌بخشد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "iranintl.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfdC1pYTI4SGtZa0plQXQwX3Nqd0VjUjJxb0ZWb1QxeDQ3eVk0amNMMHpPMFZjQVNCZDhjOVdRZnpDRlBuYTgtdXdqaDlyd2VKV3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfdC1pYTI4SGtZa0plQXQwX3Nqd0VjUjJxb0ZWb1QxeDQ3eVk0amNMMHpPMFZjQVNCZDhjOVdRZnpDRlBuYTgtdXdqaDlyd2VKV3c",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789585778.0
+    },
+    {
         "id": "a3fa564893",
         "title_fa": "فشار واشنگتن بر بانک‌های جهان برای اجرای سخت‌تر تحریم‌های ایران",
         "title_en": "US Treasury gathers global financial institutions to advance Iran sanctions",
@@ -5500,24 +5519,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02SlhlR0wtMDI2Qjd3LTNmZG9GYnN6SFhHb1RPMjlERzB1TEFPM2R1ajc5cnFrS1h3SHNqeDBQV2J5VmlBcVktajR5WlJfRzBSVkE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787408474.0
-    },
-    {
-        "id": "5c6e82a0f4",
-        "title_fa": "توسعه حضور ایران در بریکس و ارزیابی‌های امنیتی اسرائیل",
-        "title_en": "Iran Gets More Room in BRICS. Should Israel Worry?",
-        "summary": [
-            "اعطای فضای بیشتر به ایران در گروه بریکس موجی از ارزیابی‌های امنیتی را در تل‌آویو برانگیخته است.",
-            "تهران می‌کوشد از چتر بریکس برای دور زدن انزوای بین‌المللی و فشارهای اقتصادی استفاده کند.",
-            "نهادهای امنیتی اسرائیل چگونگی تاثیر این همکاری‌ها بر راه‌کارهای مالی و نظامی ایران را زیر نظر دارند."
-        ],
-        "impact": "تلاش حکومت برای ایجاد تنفس‌گاه‌های مالی جدید در برابر تحریم‌های همه‌جانبه غرب.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmw3RlB5cEJfYUJINWlNa09CazRXVW1wZExGVFJhMWlyMVJuMGNIMnBBZDJISC1HelQ4QUE2VW9adV9GREVqRGZSYUJNX1NGUUNfSms1d19OT080TkJVRllfYUNWMVJQbkFkdF90Y2pOQ1k4M00xaExCQXlIZVVEUGlfalBmc25y?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmw3RlB5cEJfYUJINWlNa09CazRXVW1wZExGVFJhMWlyMVJuMGNIMnBBZDJISC1HelQ4QUE2VW9adV9GREVqRGZSYUJNX1NGUUNfSms1d19OT080TkJVRllfYUNWMVJQbkFkdF90Y2pOQ1k4M00xaExCQXlIZVVEUGlfalBmc25y",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787408280.0
     }
 ]
