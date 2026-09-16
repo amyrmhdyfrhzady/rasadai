@@ -235,6 +235,25 @@
         "timestamp": 1789551960.0
     },
     {
+        "id": "42c959c504",
+        "title_fa": "بحران سربازان اجباری سـ.ـپاه در پرونده‌های مهاجرتی کانادا",
+        "title_en": "نامه سرگشاده متخصصان ایرانی به پارلمان کانادا؛ قربانیان سربازی در سپاه در برزخ گرفتارند",
+        "summary": [
+            "دولت کانادا با قرار دادن نام سـ.ـپاه در لیست تروریستی، روند سخت‌گیرانه‌ای برای مهاجرت افراد وابسته به راه انداخته است.",
+            "متخصصان ایرانی در نامه‌ای به پارلمان کانادا هشدار دادند که سربازی در ایران اجباری بوده و نباید با عضویت داوطلبانه یکی دانسته شود.",
+            "صدها تن از شهروندان و خانواده‌هایشان در کانادا با خطر رد پرونده و اخراج روبه‌رو هستند."
+        ],
+        "impact": "بلاتکلیفی و خطر اخراج برای صدها متخصص ایرانی به دلیل قوانین مهاجرتی سخت‌گیرانه جدید.",
+        "tag": "مهاجرت",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609162699",
+        "clean_url": "https://www.iranintl.com/202609162699",
+        "image": "http://www.bing.com/th?id=ONUT.D1WkamYzkbn6oP3RkvUdjw&pid=News",
+        "timestamp": 1789550040.0
+    },
+    {
         "id": "ba7ff3ee95",
         "title_fa": "هاکبی: جنگ آمریکا با ج.ا برای امنیت خودش است",
         "title_en": "Huckabee: U.S. fights Iran for itself, not Israel",
@@ -5506,24 +5525,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/us-iran-keep-up-hostile-rhetoric-ahead-new-sanctions-2026-08-22",
         "image": "http://www.bing.com/th?id=ONUT.XN56wxx2oiwLmSf2JdCUXA&pid=News",
         "timestamp": 1787388840.0
-    },
-    {
-        "id": "8aa35d55ca",
-        "title_fa": "عقب‌نشینی در هرمز؛ مجوز عبور نفتکش‌ها پس از خط‌ونشان ترامپ",
-        "title_en": "Iran-US war live: Tehran allows Iraqi tankers through Hormuz",
-        "summary": [
-            "پس از آنکه ترامپ تنگه هرمز را قلمرو آمریکا خواند، تهران اجازه عبور نفتکش‌های عراقی را صادر کرد.",
-            "این عقب‌نشینی آشکار نمایانگر ترس عمیق از رویارویی مستقیم با نیروی دریایی آمریکا در خلیج فارس است.",
-            "ترامپ تاکید کرده که تهران هنوز برای امضای یک توافق واقعی و پذیرش شروط واشنگتن آماده نیست."
-        ],
-        "impact": "کاهش خطرات ترانزیت انرژی برای همسایگان و آشکار شدن خط قرمز واقعی آمریکا برای نیروی دریایی سپاه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-us-war-live-tehran-allows-iraqi-tankers-through-hormuz/ar-AA2aGZNh",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-live-tehran-allows-iraqi-tankers-through-hormuz/ar-AA2aGZNh",
-        "image": "http://www.bing.com/th?id=ONUT.Aj8Kua5bLGkbdHZmCKawHQ&pid=News",
-        "timestamp": 1787385011.0
     }
 ]
