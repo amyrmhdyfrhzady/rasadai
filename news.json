@@ -166,6 +166,25 @@
         "timestamp": 1789667729.0
     },
     {
+        "id": "ea944b3e24",
+        "title_fa": "آسیب دیدن سه نفتکش در خلیج فارس",
+        "title_en": "Three Tankers Damaged in Gulf as US-Iran Conflict Escalates",
+        "summary": [
+            "تشدید تنش‌ها میان آمریکا و جـ.ـهـ.ـو ر ی ا سـ.ـلا مـ.ـی به درگیری در آب‌های خلیج فارس کشیده شد.",
+            "سه فروند نفتکش در این منطقه هدف قرار گرفته و آسیب دیده‌اند.",
+            "این واقعه نشان‌دهنده بالاتر رفتن ریسک امنیت کشتیرانی در خطوط حیاتی انرژی است."
+        ],
+        "impact": "بالارفتن فوری ریسک بیمه و حمل‌ونقل دریایی در منطقه خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789666875.0
+    },
+    {
         "id": "66c47b1dc8",
         "title_fa": "چوب لرخ چرخ دموکرات‌ها در توافق اتمی عربستان",
         "title_en": "US Democrats move to block Trump's Saudi nuclear deal",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-another-blow-to-peace-as-crucial-oman-talks-postponed/ar-AA2ca7bZ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789375289.0
-    },
-    {
-        "id": "e85c049728",
-        "title_fa": "حمله موشکی به اردوگاه‌های مقاومت کـرد در اقلیم کـردسـتان",
-        "title_en": "Iranian Kurdish opposition camps targeted with missiles in Iraq's Kurdistan, sources say",
-        "summary": [
-            "سپـاه پـاسـداران بار دیگر مواضع گروه‌های اپوزیسیون کـرد ایرانی را در خاک عراق هدف حملات موشکی قرار داد.",
-            "این حملات در منطقه سلیمانیه انجام شد و خوشبختانه گزارش دقیقی از تلفات جانی منتشر نشده است."
-        ],
-        "impact": "تلاش مذبوحانه جمهوری اسلامی برای سرکوب مخالفان برون‌مرزی از ترس خیزش دوباره.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/iranian-kurdish-opposition-camps-targeted-with-missiles-in-iraqs-kurdistan-sources-say/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iranian-kurdish-opposition-camps-targeted-with-missiles-in-iraqs-kurdistan-sources-say",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789374360.0
     }
 ]
