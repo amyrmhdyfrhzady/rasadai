@@ -1,5 +1,24 @@
 [
     {
+        "id": "04a2c81155",
+        "title_fa": "پاتک حقوقی نتانیاهو در آستانه انتخابات پارلمانی اسرائیل",
+        "title_en": "Netanyahu's lawyers ask for ex-AG Mandelblit, who filed the charges, to testify in PM's trial days before election",
+        "summary": [
+            "وکلای نتانیاهو با احضار دادستان سابق به دادگاه، یک بازی سیاسی-حقوقی پیچیده را درست در آستانه انتخابات کلید زده‌اند.",
+            "هدف اصلی این اقدام، تبدیل زمین بازی دادگاه به تریبونی برای افشای انگیزه‌های سیاسی پشت پرونده‌های فساد اوست.",
+            "این مانور هوشمندانه می‌تواند افکار عمومی اسرائیل را در حساس‌ترین زمان ممکن به نفع حزب لیکود بسیج کند."
+        ],
+        "impact": "این اقدام تنش‌های سیاسی داخلی اسرائیل را پیش از انتخابات به اوج می‌رساند و شانس نتانیاهو را برای پیروزی افزایش می‌دهد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahus-lawyers-ask-for-ex-ag-mandelblit-who-filed-the-charges-to-testify-in-pms-trial-days-before-election/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahus-lawyers-ask-for-ex-ag-mandelblit-who-filed-the-charges-to-testify-in-pms-trial-days-before-election",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/montage-2up-20260917-1e2308.jpg",
+        "timestamp": 1789634580.0
+    },
+    {
         "id": "6461c489ef",
         "title_fa": "تصویب طرح مجلس نمایندگان آمریکا برای کاهش تنش نظامی با ایران",
         "title_en": "House approves measure to bring Iran war to close",
@@ -5491,23 +5510,5 @@
         "clean_url": "https://tass.com/emergencies/2176587",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260823/1484387.jpg",
         "timestamp": 1787454300.0
-    },
-    {
-        "id": "a40d8dcf34",
-        "title_fa": "احتمال ضعیف تغییرات در کی‌یف با اعتصابات هدایت‌شده",
-        "title_en": "Protests in Ukraine unlikely to change regime, expert believes",
-        "summary": [
-            "اعتصابات اخیر در اوکراین با تحریک عوامل سیاسی و به بهانه تغییرات در وزارت دفاع شکل گرفته است.",
-            "کارشناسان روس معتقدند این اعتراضات ساختگی تنها در صورت دستور مستقیم غرب می‌تواند به ابزاری برای جابجایی مهره‌های کلیدی تبدیل شود."
-        ],
-        "impact": "این تحکات داخلی تاثیری بر تغییر ساختار قدرت نخواهد داشت مگر با اراده مستقیم بازیگران غربی.",
-        "tag": "نیابتی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2176585",
-        "clean_url": "https://tass.com/politics/2176585",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1787454000.0
     }
 ]
