@@ -1,5 +1,23 @@
 [
     {
+        "id": "63af2109bf",
+        "title_fa": "تبدیل شدن حوثی‌ها از شبه‌نظامی کوهستانی به قدرت دریایی",
+        "title_en": "From mountain fighters to Red Sea power: How the Houthis rose to control Bab el-Mandeb",
+        "summary": [
+            "گروه حوثی یمن با پشتیبانی همه‌جانبه مالی و تسلیحاتی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی کنترل تنگه استراتژیک باب‌المندب را به دست گرفته است.",
+            "این گروه به ابزاری برای مختل کردن کشتی‌رانی بین‌المللی و حمله به زیرساخت‌های نفتی منطقه تبدیل شده است."
+        ],
+        "impact": "امنیت انرژی و ترانزیت دریایی جهان به شدت تحت تأثیر تهدیدات مداوم نیابتی‌ها در دریای سرخ قرار گرفته است.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Economic Times",
+        "url": "https://www.msn.com/en-in/news/other/from-mountain-fighters-to-red-sea-power-how-the-houthis-rose-to-control-bab-el-mandeb/ar-AA2cq6Xg",
+        "clean_url": "https://www.msn.com/en-in/news/other/from-mountain-fighters-to-red-sea-power-how-the-houthis-rose-to-control-bab-el-mandeb/ar-AA2cq6Xg",
+        "image": "https://img.etimg.com/thumb/msid-134307242,width-1200,height-630,imgsize-1063336,overlay-economictimes/articleshow.jpg",
+        "timestamp": 1789637910.0
+    },
+    {
         "id": "a53def4b89",
         "title_fa": "احتمال گسترش جنگ ایـ.ران به خاورمیانه با حملات حوثی‌ها",
         "title_en": "Houthi offensive in Yemen adds to fear that Iran war could escalate into a wider global conflict",
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUmVST2pjV1B3UTFDNUZhZWsta3JMdXVJYWFReHdSSGllcmhjbWVaU0s2NGpPS2hIeUdERnk3SGx4U25BcTdPZ3ptb3UzU2pxOFZFQ3dUcnlrMWhPUEo1ZmdQT29kOHVMRmxoZFlXY2tJdF9HclM0LTFjc3pCcE5fR2xPNUJpcUpnbUpfV1Y1SDV1dDN6ckwzb0NxeUd0WUM5YzZPVlhPX2FEdi1rQkRNSFF5OGhwUXYtZFBvTXZMcjRiRHpRNEIxMVJuRQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789637373.0
+    },
+    {
+        "id": "29d637eec2",
+        "title_fa": "هلاکت دو فرمانده ارشد حماس در حملات ارتش اسرائیل",
+        "title_en": "IDF says strikes this week killed 2 elite Hamas fighters, including one who invaded on Oct. 7",
+        "summary": [
+            "ارتش اسرائیل از کشته شدن دو نیروی نخبه حماس در حملات هوایی روزهای گذشته خبر داد.",
+            "یکی از کشته‌شدگان از طراحان و مهاجمان اصلی عملیات هفتم اکتبر بوده است."
+        ],
+        "impact": "ادامه ترور هدفمند فرماندهان ارشد میدانی توسط اسرائیل ضربه سنگینی به ساختار نظامی حماس وارد می‌کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/news/idf-says-strikes-this-week-killed-2-elite-hamas-fighters-including-one-who-invaded-on-oct-7/ar-AA2cpEXx",
+        "clean_url": "https://www.msn.com/en-us/news/news/idf-says-strikes-this-week-killed-2-elite-hamas-fighters-including-one-who-invaded-on-oct-7/ar-AA2cpEXx",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789636876.0
     },
     {
         "id": "d43169e25d",
@@ -5472,41 +5508,5 @@
         "clean_url": "https://tass.com/politics/2176599",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1787460000.0
-    },
-    {
-        "id": "4523f68e33",
-        "title_fa": "تهدید همسایگان توسط مقام امنیتی ارشد ایران",
-        "title_en": "US Israel Iran war latest news: Iran warns countries supporting US economic pressure, threatens to target their interests",
-        "summary": [
-            "مقام ارشد امنیتی جمهوری اسلامی به کشورهای همسایه درباره همراهی با فشار اقتصادی واشنگتن هشدار جدی داد.",
-            "تهران تهدید کرده منافع کشورهایی که از فشارهای آمریکا علیه اقتصاد ایران حمایت کنند را هدف قرار می‌دهد."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک و امنیتی میان ایران و کشورهای منطقه به دلیل فشارهای اقتصادی واشنگتن.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-news-iran-warns-countries-supporting-us-economic-pressure-threatens-to-target-their-interests/ar-AA2aKdHz",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-news-iran-warns-countries-supporting-us-economic-pressure-threatens-to-target-their-interests/ar-AA2aKdHz",
-        "image": "http://www.bing.com/th?id=ONUT.vcf1aEA9xPldJNpRSCZoTg&pid=News",
-        "timestamp": 1787458980.0
-    },
-    {
-        "id": "7b1ce53ad2",
-        "title_fa": "تغییر توازن قوا در منطقه به سود ج.ا",
-        "title_en": "Iran Unleashed",
-        "summary": [
-            "سال‌ها موازنه قوا در خاورمیانه علیه حکومت ایران بود اما اکنون شرایط کاملاً عوض شده است.",
-            "با وجود ضربات سنگین آمریکا و اسرائیل، حکومت ایران توانسته ساختار قدرت در منطقه را به نفع خود تغییر دهد."
-        ],
-        "impact": "کشورهای منطقه ناچارند خود را با واقعیت جدید قدرت‌گرفتن ج.ا تطبیق دهند.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
-        "clean_url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374",
-        "image": "http://www.bing.com/th?id=ONUT.wU-rS7h5usTREFtF737v2w&pid=News",
-        "timestamp": 1787457600.0
     }
 ]
