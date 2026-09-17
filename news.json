@@ -401,6 +401,25 @@
         "timestamp": 1789648416.0
     },
     {
+        "id": "cbcd2f648e",
+        "title_fa": "انهدام مراکز داده آمازون در بحرین و امارات با پهپادهای منتسب به ج.ا",
+        "title_en": "Iran drone strikes destroy AWS data centers, causing permanent data loss",
+        "summary": [
+            "حملات پهپادی به مراکز داده آمازون در منطقه خلیج فارس منجر به از دست رفتن دائمی اطلاعات کاربران شد.",
+            "این رخداد نشان‌دهنده ورود زیرساخت‌های غیرنظامی و دیجیتال به دایره درگیری‌های مستقیم منطقه‌ای است.",
+            "شرکت آمازون به کاربران خود هشدار داده که برای جلوگیری از آسیب‌های بیشتر، اطلاعات خود را نسخه پشتیبان تهیه کنند."
+        ],
+        "impact": "آسيب جدی به زیرساخت‌های ابری و ناامن شدن فضای ابری در منطقه خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-drone-strikes-destroy-aws-data-centers-causing-permanent-data-loss/",
+        "clean_url": "https://cryptobriefing.com/iran-drone-strikes-destroy-aws-data-centers-causing-permanent-data-loss",
+        "image": "http://www.bing.com/th?id=ONUT.Vp-FBsgecPp7qkAM8AUamw&pid=News",
+        "timestamp": 1789647720.0
+    },
+    {
         "id": "908ad78c7b",
         "title_fa": "تمدید تحریم‌های آمریکا علیه جمهوری اسلامی در کنگره",
         "title_en": "U.S. Congress Reauthorizes Iran Sanctions Act",
@@ -5476,24 +5495,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-s-proxies-using-yemen-to-compound-war-s-impact-on-oil-prices/ar-AA2cbU88",
         "image": "http://www.bing.com/th?id=ONUT.LzaZa18iesgL0FdsBbJzgA&pid=News",
         "timestamp": 1789373520.0
-    },
-    {
-        "id": "6a95db9ffa",
-        "title_fa": "ممانعت از سخنرانی مقام هسته‌ای ایران در آژانس",
-        "title_en": "Iran Nuclear chief blocked from Vienna meeting",
-        "summary": [
-            "با فشارهای سنگین واشنگتن، مقام ارشد هسته‌ای ایران از سخنرانی در نشست آژانس در وین محروم شد.",
-            "این اقدام بخشی از کارزار جدید آمریکا برای محدودسازی تریبون‌های بین‌المللی تهران است.",
-            "انزوای دیپلماتیک ایران در پرونده هسته‌ای با این تحرکات شدت بیشتری پیدا کرده است."
-        ],
-        "impact": "افزایش احتمال صادر شدن قطعنامه‌های تندتر علیه پرونده هسته‌ای ایران.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Arab News",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXV1dTIxS2hMUTB1NVZOQ1BVb1RjN20xNDRpRzMwTV9xWjl4aDJxMGVSeGNHWlBKRWZsQmtONVJZZGtvV2JjZXVXanozVlZZVkZLNjctTy1YQmNteXp5VXM5WkE5S2FGWmZaVFJjTnFwZ3JNSkxKSEdlX0M4TkhhMS1UZlpINEFocFFObVNBSWR4ZF9pN2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXV1dTIxS2hMUTB1NVZOQ1BVb1RjN20xNDRpRzMwTV9xWjl4aDJxMGVSeGNHWlBKRWZsQmtONVJZZGtvV2JjZXVXanozVlZZVkZLNjctTy1YQmNteXp5VXM5WkE5S2FGWmZaVFJjTnFwZ3JNSkxKSEdlX0M4TkhhMS1UZlpINEFocFFObVNBSWR4ZF9pN2c",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789373257.0
     }
 ]
