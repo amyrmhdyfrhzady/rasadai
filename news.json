@@ -147,6 +147,25 @@
         "timestamp": 1789585778.0
     },
     {
+        "id": "321527f02f",
+        "title_fa": "بن‌بست ترانزیتی تهران؛ شکست طرح‌های دور زدن تنگه هرمز",
+        "title_en": "Iran’s attempts to get around the Hormuz blockade are hitting a wall",
+        "summary": [
+            "در حالی که رقبای منطقه‌ای مثل عربستان به راحتی از مسیرهای زمینی برای انتقال کالا استفاده می‌کنند، صدها کامیون در مرزهای ایران معطل مانده‌اند و شریان تجاری کشور قفل شده است.",
+            "تلاش‌های تهران برای بی‌اثر کردن خطرات تنگه هرمز و یافتن مسیرهای جایگزین، به دلیل زیرساخت‌های فرسوده و گمرک ناکارآمد به بن‌بست خورده است.",
+            "این بحران مرزی، در شرایط تحریم و نیاز مبرم به ارز، ضربه سنگین دیگری به بدنه نیمه‌جان اقتصاد کشور وارد می‌کند."
+        ],
+        "impact": "قفل شدن مرزهای زمینی، کورسوی امید تهران برای تنفس اقتصادی خارج از مسیرهای دریایی پرریسک را نابود می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall/ar-AA2coHSx",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall/ar-AA2coHSx",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789585200.0
+    },
+    {
         "id": "208691d4a8",
         "title_fa": "رصد روزانه قیمت بنزین و سوخت در ایالات متحده",
         "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
@@ -5492,23 +5511,5 @@
         "clean_url": "https://tass.com/defense/2176569",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1787447820.0
-    },
-    {
-        "id": "8c7e24a597",
-        "title_fa": "دفاع هوایی مسکو ۶ پهپاد مهاجم را سرنگون کرد",
-        "title_en": "Air defense system repels attack by six drones flying towards Moscow — mayor",
-        "summary": [
-            "سامانه پدافندی مسکو موفق شد شش پهپاد مهاجم را در آسمان اطراف پایتخت روسیه رهگیری و منهدم کند.",
-            "شهردار مسکو تأیید کرد که تیم‌های امدادی و اضطراری در محل سقوط بقایای پهپادها مستقر شده‌اند."
-        ],
-        "impact": "تداوم حملات پهپادی به پایتخت روسیه، آسیب‌پذیری لایه‌های دفاعی مسکو را تشدید می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/emergencies/2176567",
-        "clean_url": "https://tass.com/emergencies/2176567",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260823/1484379.jpg",
-        "timestamp": 1787447400.0
     }
 ]
