@@ -1,5 +1,23 @@
 [
     {
+        "id": "66c47b1dc8",
+        "title_fa": "چوب لرخ چرخ دموکرات‌ها در توافق اتمی عربستان",
+        "title_en": "US Democrats move to block Trump's Saudi nuclear deal",
+        "summary": [
+            "نمایندگان دموکرات مجلس نمایندگان آمریکا قطعنامه‌ای برای توقف توافق هسته‌ای ترامپ با عربستان ارائه دادند.",
+            "نگرانی از غنی‌سازی اورانیوم و عدم رعایت پادمان‌های آژانس بهانه‌های اصلی این بلوکه کردن است."
+        ],
+        "impact": "ایجاد مانع جدی سیاسی در برابر پروژه‌های منطقه‌ای دولت ترامپ.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/us-democrats-move-to-block-trump-s-saudi-nuclear-deal-article-14032464.html",
+        "clean_url": "https://www.moneycontrol.com/world/us-democrats-move-to-block-trump-s-saudi-nuclear-deal-article-14032464.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260724123916_Saudi-Trump.jpg",
+        "timestamp": 1789665480.0
+    },
+    {
         "id": "e45666dd83",
         "title_fa": "بازسازی سریع سایت اتمی مرتبط با تسلیحات در ای-ران",
         "title_en": "Iran rapidly rebuilding site tied to past nuclear weapons research - report",
@@ -17,6 +35,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYVFl2d2NDQWU1S04zZ1RHN0s4ZTVzN0pHYUtaV0pySUxYVmJ5dHRmZ0h2c2lDQ0pydXVWNjEwSG1wbGw4ZWZUTHdXQ2FBWEFOQXc",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789665240.0
+    },
+    {
+        "id": "2acbc42ad0",
+        "title_fa": "دوراهی بزرگ ترامپ در پرونده جنگ با ج.ا",
+        "title_en": "Trump tells Axios he's approaching major crossroads in Iran war",
+        "summary": [
+            "دونالد ترامپ در گفت‌وگو با آکسیوس از رسیدن به نقطه عطف و سرنوشت‌ساز در مواجهه با ج.ا خبر داد.",
+            "فشارها بر روی میز کاخ سفید به اوج رسیده و تصمیمات آتی می‌تواند معادلات نظامی را کاملاً تغییر دهد."
+        ],
+        "impact": "آماده‌سازی افکار عمومی برای تصمیمات سخت و راهبردی واشنگتن علیه تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ORmRyZmxVUFJPT1pwVFBYbk9mMnJKdmRGYlV4aEpJcXRUTFZWN1BITEd0WlZFZ3FZV0NqMnVBQnEzSmJ3OGxLQ2I3M19valJXbnBxNFRoMFZpRG5TRmJPN2ZUc3lrQlcxWmNyNDVTbEg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ORmRyZmxVUFJPT1pwVFBYbk9mMnJKdmRGYlV4aEpJcXRUTFZWN1BITEd0WlZFZ3FZV0NqMnVBQnEzSmJ3OGxLQ2I3M19valJXbnBxNFRoMFZpRG5TRmJPN2ZUc3lrQlcxWmNyNDVTbEg",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789664167.0
     },
     {
         "id": "fc6040f91f",
@@ -5463,41 +5499,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/how-trump-s-iran-operation-turned-into-a-forever-war/ar-AA2caeGm",
         "image": "http://www.bing.com/th?id=ONUT.ehrZRtGOskLQeiHgDPg0_A&pid=News",
         "timestamp": 1789352280.0
-    },
-    {
-        "id": "3b041a5bb1",
-        "title_fa": "ممانعت آمریکا از حضور مقام هسته‌ای ایران در نشست آژانس",
-        "title_en": "Iran says 1 killed on commercial ship in Strait of Hormuz; Houthis target Saudi Arabia",
-        "summary": [
-            "واشنگتن با اعمال فشار دیپلماتیک مانع از سخنرانی مقام هسته‌ای تهران در اجلاس آژانس بین‌المللی انرژی اتمی در وین شد.",
-            "ترامپ در واکنش به گزارش‌های همکاری اطلاعاتی پکن با تهران، رد و بدل شدن تصاویر ماهواره‌ای را بخشی از رقابت اطلاعاتی معمول عنوان کرد."
-        ],
-        "impact": "افزایش انزوای دیپلماتیک برنامه هسته‌ای تهران و تنگ‌تر شدن حلقه نظارت‌های بین‌المللی.",
-        "tag": "اتمی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/iran-war-news-updates-trump-hormuz-september-13",
-        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-updates-trump-hormuz-september-13",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/494aa35b739e3458e217571acf17b1ac.jpg",
-        "timestamp": 1789351200.0
-    },
-    {
-        "id": "2ee3a3ec54",
-        "title_fa": "هشدار درباره فروپاشی پترودلار و شوک بزرگ بانکی در جهان",
-        "title_en": "Jiang Xueqin: The Next 9/11 Will Target Your Bank Account, Not a Skyscraper",
-        "summary": [
-            "نظم مالی مبتنی بر پترودلار و تضمین‌های کاغذی به پایان مسیر خود نزدیک شده و اقتصاد جهانی را در آستانه تزلزل قرار داده است.",
-            "قطع وابستگی نفت به دلار و افول جایگاه ذخیره ارزی آمریکا، تجارت بین‌الملل و زنجیره تامین جهانی را با خطر جدی فروپاشی مواجه می‌کند."
-        ],
-        "impact": "آسیب‌پذیری شدید دارایی‌های بانکی و کاهش هژمونی دلار در تسویه‌های مالی بین‌المللی.",
-        "tag": "اقتصاد جهانی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "finance.biggo",
-        "url": "https://finance.biggo.com/news/ed78d98c29106120",
-        "clean_url": "https://finance.biggo.com/news/ed78d98c29106120",
-        "image": "https://img.biggo.com/DJruyHIqVJK-MmK3FyyEa034rFPUyzEwYu6cJiDAbfQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2VkNzhkOThjMjkxMDYxMjBfMTc4OTM3NTE4M19jb3Zlci5qcGc.jpg",
-        "timestamp": 1789348140.0
     }
 ]
