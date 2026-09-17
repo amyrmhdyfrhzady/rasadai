@@ -1,5 +1,23 @@
 [
     {
+        "id": "fc6040f91f",
+        "title_fa": "دیپلماسی پنهان و مذاکرات پشت پرده در خاورمیانه",
+        "title_en": "Secret Regional Diplomacy and Backdoor Negotiations",
+        "summary": [
+            "روند تماس‌های محرمانه منطقه‌ای برای مدیریت تنش‌ها سرعت گرفته است.",
+            "بازیگران پشت پرده به دنبال توافق‌های نانوشته برای جلوگیری از بحران‌های بزرگ‌تر هستند."
+        ],
+        "impact": "این تحرکات پنهانی می‌تواند معادلات امنیتی منطقه را در سکوت تغییر دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "TV7 Israel News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBraDVSVmZZVmt3NVhhMW0ycDcwT19EWjlNUGRUVEdxd0lYQmRxclhXN25ldm45Ry1MYlNUbUpETThGQzVCdDVMSEFiYllKZldOVmU0RUlYNTBwTS1VaHlhR3AyVExjV1VWZFRNWklpTHpCQ1ZWbkE1cDc4Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBraDVSVmZZVmt3NVhhMW0ycDcwT19EWjlNUGRUVEdxd0lYQmRxclhXN25ldm45Ry1MYlNUbUpETThGQzVCdDVMSEFiYllKZldOVmU0RUlYNTBwTS1VaHlhR3AyVExjV1VWZFRNWklpTHpCQ1ZWbkE1cDc4Yw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789662953.0
+    },
+    {
         "id": "284ddd686c",
         "title_fa": "پایان نظارت سازمان ملل بر تحریم‌های جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی با وتوی پکن و مسکو",
         "title_en": "China, Russia veto renewal of UN Iran sanctions panel",
@@ -5480,24 +5498,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/could-iran-s-regime-collapse-inside-the-israeli-assessment-of-tehran-s-future/ar-AA2c93uw",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c8pK2.img?w=4206&h=2804&m=4&q=74",
         "timestamp": 1789336517.0
-    },
-    {
-        "id": "9267289af2",
-        "title_fa": "تعویق نشست عمان و پیام موضعی پهزشکیان",
-        "title_en": "Live Updates: IDF says Lebanon not sufficiently tackling Hezbollah, Kushner calls Israel's Doha strike 'terrible'",
-        "summary": [
-            "نشست دیپلماتیک منطقه در عمان به درخواست کشورهای عربی و برای اجماع بیشتر عقب افتاد.",
-            "رئیس‌جمهور ایران بر موضع عدم تسلیم تاکید کرده که نشان‌دهنده تداوم خط مقاومت در برابر فشارهاست.",
-            "تنش‌ها در مرز لبنان و تحرکات منطقه‌ای باعث احتیاط بیشتر کشورهای عربی در تعامل با تهران شده است."
-        ],
-        "impact": "انسداد موقت در کانال‌های میانجی‌گری منطقه‌ای و تداوم فضای بحرانی.",
-        "tag": "منطقه‌ای",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-13/live-updates-908436",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-13/live-updates-908436",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737550",
-        "timestamp": 1789333320.0
     }
 ]
