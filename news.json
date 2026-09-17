@@ -109,6 +109,24 @@
         "timestamp": 1789580100.0
     },
     {
+        "id": "99425b2ac6",
+        "title_fa": "هشدار سفر آمریکا به عربستان همزمان با تشدید جنگ یمن",
+        "title_en": "Iran live updates: US says Americans should 'reconsider travel' to Saudi Arabia",
+        "summary": [
+            "تشدید درگیری‌ها در یمن زنگ خطر را برای امنیت شهروندان خارجی در منطقه به صدا درآورده است.",
+            "وزارت خارجه آمریکا از اتباع خود خواست درباره سفر به عربستان جدی‌تر فکر کنند."
+        ],
+        "impact": "بال رفتن سطح ریسک امنیتی پیرامون مرزهای یمن و عربستان.",
+        "tag": "منطقه",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-says-americans-should-reconsider-travel-to-saudi-arabia/ar-AA2caaSM",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-says-americans-should-reconsider-travel-to-saudi-arabia/ar-AA2caaSM",
+        "image": "http://www.bing.com/th?id=ONUT.rt-8I2-9EakYxoNmNp85gQ&pid=News",
+        "timestamp": 1789578173.0
+    },
+    {
         "id": "2a4fe11dba",
         "title_fa": "شکست سناریوی ترور دانشمند هسته‌ای اسرائیل توسط ج.ا",
         "title_en": "Iranian plot to assassinate Israeli nuclear scientist results in four convictions",
@@ -5498,24 +5516,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787421132.0
-    },
-    {
-        "id": "5d222e487d",
-        "title_fa": "تهدید آمریکا به حمله اقتصادی توسط ج.ا",
-        "title_en": "Iran threatens to strike US companies after Trump declares economic war",
-        "summary": [
-            "محسن رضایی از شورای امنیت ملی تهدید کرد که اگر ترامپ تحریم‌های شدید مالی اعمال کند، منافع و شرکت‌های آمریکایی هدف حمله قرار می‌گیرند.",
-            "او با اعتراف ضمنی به ناتوانی‌های قبلی مدعی شد که تا کنون فقط پایگاه‌های نظامی زده شده‌اند و اهداف اقتصادی آمریکا در تیررس هستند.",
-            "کشورهای همپیمان آمریکا هم تهدید شدند که در صورت همراهی با واشنگتن، منافعشان آسیب می‌بیند."
-        ],
-        "impact": "افزایش تنش‌های اقتصادی و نظامی با چراغ سبز نشان دادن به درگیری مستقیم مالی و تجاری",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-threatens-strike-us-companies-030336823.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-threatens-strike-us-companies-030336823.html",
-        "image": "http://www.bing.com/th?id=ONUT.Fwwe74PxVMztGMgk_XVNqg&pid=News",
-        "timestamp": 1787418060.0
     }
 ]
