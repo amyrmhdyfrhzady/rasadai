@@ -1,5 +1,23 @@
 [
     {
+        "id": "75231e1b40",
+        "title_fa": "نقش‌آفرینی رومانی در معادلات خاورمیانه و امنیت دریای سیاه",
+        "title_en": "Mapping the International Relations of Romania with Middle Eastern Countries: A Policy Analysis",
+        "summary": [
+            "رومانی به دلیل موقعیت استراتژیک در مرز شرقی ناتو و اتحادیه اروپا، رویکردی چندلایه به تحولات خاورمیانه دارد.",
+            "سیاست خارجی بخارست در منطقه بیشتر تحت تأثیر الزامات امنیتی، امنیت انرژی و منافع اقتصادی شکل گرفته است تا یک راهبرد کلان واحد."
+        ],
+        "impact": "تلاش رومانی برای تنظیم روابط با بازیگران کلیدی خاورمیانه جهت تنوع‌بخشی به منابع انرژی و امنیت مرزهای خود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "mepei",
+        "url": "https://mepei.com/mapping-the-international-relations-of-romania-with-middle-eastern-countries-a-policy-analysis/",
+        "clean_url": "https://mepei.com/mapping-the-international-relations-of-romania-with-middle-eastern-countries-a-policy-analysis",
+        "image": "https://mepei.com/wp-content/uploads/2026/09/Picture1.jpg",
+        "timestamp": 1789632300.0
+    },
+    {
         "id": "049b18f62f",
         "title_fa": "چالش‌های پنهان و تله‌های استراتژیک در نبرد با ج‌مهوری اس‌لامی",
         "title_en": "The great struggle against Iran has a dangerous catch",
@@ -5490,23 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoWmgyT0l1R0RTN2xyTlNYNjBGZzVaMEdYNG5TcVZCa3puOV9XS0tZUTZOb1Z4MjZoc2NjOGhRMExkSDY1S1lDUjZGOEdUb3RMSHZoV0RKMVNSX3Q1bEE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787453325.0
-    },
-    {
-        "id": "4229628777",
-        "title_fa": "حمله سایبری به زیرساخت برق؛ زنگ خطر برای امنیت ملی",
-        "title_en": "Cyber attack shut down small power plant",
-        "summary": [
-            "نفوذ موفق به سیستم‌های کنترل نیروگاه کوچک، نشان‌دهنده ضعف جدی در لایه‌های حفاظتی زیرساخت‌های حیاتی است.",
-            "این اقدام می‌تواند پیش‌درآمدی برای حملات گسترده‌تر به شبکه برق سراسری باشد که امنیت عمومی را هدف قرار می‌دهد."
-        ],
-        "impact": "افزایش ریسک ناپایداری در شبکه توزیع انرژی و ضرورت بازنگری فوری در پروتکل‌های دفاع سایبری.",
-        "tag": "سایبری",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1peUdwV1h1Vno2SUg3ZjU5Vmc0bVhrUjd2UEVnMXYzNDlXRzd6RWtnODBLOWVSQXNZT0UyR29UMVFONHJvbi15Tl9WaHphRzl5a1praU9VODZzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1peUdwV1h1Vno2SUg3ZjU5Vmc0bVhrUjd2UEVnMXYzNDlXRzd6RWtnODBLOWVSQXNZT0UyR29UMVFONHJvbi15Tl9WaHphRzl5a1praU9VODZzUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787453321.0
     }
 ]
