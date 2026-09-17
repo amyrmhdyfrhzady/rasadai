@@ -330,6 +330,25 @@
         "timestamp": 1789660283.0
     },
     {
+        "id": "1850bd7635",
+        "title_fa": "ادعای سازمان ملل درباره جنایت جنگی آمریکا و اصرار ترامپ بر توافق با ج.ا",
+        "title_en": "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal",
+        "summary": [
+            "کمیته حقوق بشر سازمان ملل اعلام کرد شواهد معقولی وجود دارد که حملات آمریکا به دو نقطه در ایران که به کشته شدن غیرنظامیان منجر شد، جنایت جنگی محسوب می‌شود.",
+            "دونالد ترامپ بار دیگر مدعی شد تهران خواهان توافق است و ابراز امیدواری کرد که این درگیری‌ها به پایان خود نزدیک شود.",
+            "با اعلام وزیر انرژی آمریکا درباره تعمیر زودهنگام خط لوله آسیب‌دیده عربستان، قیمت نفت برای دومین روز متوالی کاهش یافت."
+        ],
+        "impact": "فشار حقوقی سازمان ملل بر واشنگتن همزمان با تلاش ترامپ برای مدیریت هزینه‌های اقتصادی جنگ و بازار نفت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal",
+        "image": "http://www.bing.com/th?id=ONUT.bGdvfTOY3UtSkcW_5-DHbA&pid=News",
+        "timestamp": 1789659300.0
+    },
+    {
         "id": "0069815e30",
         "title_fa": "بررسی جامع تحریم‌های بین‌المللی علیه ج.ا",
         "title_en": "What are all the sanctions Iran is under?",
@@ -5476,24 +5495,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-live-updates-trump-says-us-open-to-concept-of-negotiating-deal-with-iran/ar-AA2caaSM",
         "image": "http://www.bing.com/th?id=ONUT.PogCPCu1pGvDiFRMPLpDvA&pid=News",
         "timestamp": 1789377789.0
-    },
-    {
-        "id": "12a6769175",
-        "title_fa": "تکذیب ردگیری ماهواره‌ای چین در حمله به پایگاه آمریکا",
-        "title_en": "China denies reports it gave Iran intel before deadly strike on US base in Jordan",
-        "summary": [
-            "پکن گزارش‌ها درباره ارائه تصاویر ماهواره‌ای به ایران برای حمله به پایگاه آمریکا در اردن را کاملاً رد کرد.",
-            "واشنگتن همکاری اطلاعاتی چین با تهران را زیر نظر دارد اما پکن تلاش می‌کند خود را از درگیری مستقیم دور نگه دارد.",
-            "تکذیب رسمی چین نشان‌دهنده عدم تمایل پکن برای پرداخت هزینه دیپلماتیک به نفع خط کلامی تهران است."
-        ],
-        "impact": "کاهش ریسک ورود مستقیم چین به منازعه نظامی ایران و آمریکا.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/china-denies-reports-it-gave-iran-intel-before-deadly-strike-on-us-base-in-jordan/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/china-denies-reports-it-gave-iran-intel-before-deadly-strike-on-us-base-in-jordan",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789377540.0
     }
 ]
