@@ -1,5 +1,24 @@
 [
     {
+        "id": "0a2824727f",
+        "title_fa": "نشست پاریس برای تقویت ارتش ل ب ن ان",
+        "title_en": "Middle East live: Paris talks aim to bolster Lebanese army as end of UN mission looms",
+        "summary": [
+            "مقام‌های نظامی اروپایی و عربی در پاریس برای تقویت ارتش ل ب ن ان در آستانه پایان ماموریت صلح‌بانان سازمان ملل دور هم جمع شدند.",
+            "دیدار محرمانه مقام‌های آمریکایی با نمایندگان حوثی‌ها در عمان نشان‌دهنده تغییرات جدید در معادلات منطقه‌ای است.",
+            "دونالد ترامپ درخواست عربستان سعودی برای مداخله نظامی مستقیم علیه حوثی‌ها را رد کرده است."
+        ],
+        "impact": "تغییر رویکرد واشنگتن در قبال جنگ یمن و تلاش اروپا برای پر کردن خلاء امنیتی در ل ب ن ان.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20260917-middle-east-live-paris-talks-lebanese-army-unifil-israel-iran-yemen",
+        "clean_url": "https://www.france24.com/en/middle-east/20260917-middle-east-live-paris-talks-lebanese-army-unifil-israel-iran-yemen",
+        "image": "https://s.france24.com/media/display/8a23ffec-b25b-11f1-b763-3df65e1cd14d/w:1280/p:16x9/AP26203371982815.jpg",
+        "timestamp": 1789670580.0
+    },
+    {
         "id": "49eadf4bea",
         "title_fa": "ممانعت از سفر رییس اتمی ایران به وین",
         "title_en": "Iran condemns travel ban on nuclear chief",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://www.infobae.com/america/mundo/2026/09/14/estados-unidos-bloqueo-la-participacion-del-jefe-nuclear-de-iran-en-la-conferencia-del-oiea-en-viena",
         "image": "http://www.bing.com/th?id=ONUT.X1ynw0v_KbmioWFYyyMAVA&pid=News",
         "timestamp": 1789363440.0
-    },
-    {
-        "id": "fa4867c8ec",
-        "title_fa": "فشار حداکثری ترامپ و تشدید خطر جنگ فراگیر در خاورمیانه",
-        "title_en": "Trump's 'little war' with Iran just got a lot bigger",
-        "summary": [
-            "استراتژی خفه‌سازی اقتصادی ترامپ علیه تهران، به جای مهار تنش، خطر درگیری نظامی گسترده در منطقه را بالا برده است.",
-            "تهدیدات هم‌زمان در تنگه هرمز و باب‌المندب توسط تهران و حوثی‌ها، امنیت خطوط ترانزیت بین‌المللی را مستقیماً نشانه رفته است."
-        ],
-        "impact": "ناامنی شدید در شریان‌های ترانزیت نفت و جهش احتمالی قیمت جهانی انرژی.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Economic Times",
-        "url": "https://www.msn.com/en-in/news/other/trump-s-little-war-with-iran-just-got-a-lot-bigger/ar-AA2carxN",
-        "clean_url": "https://www.msn.com/en-in/news/other/trump-s-little-war-with-iran-just-got-a-lot-bigger/ar-AA2carxN",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cacqB.img?w=1200&h=900&m=4&q=65",
-        "timestamp": 1789363409.0
     }
 ]
