@@ -1,5 +1,23 @@
 [
     {
+        "id": "908ad78c7b",
+        "title_fa": "تمدید تحریم‌های آمریکا علیه جمهوری اسلامی در کنگره",
+        "title_en": "U.S. Congress Reauthorizes Iran Sanctions Act",
+        "summary": [
+            "کنگره ایالات متحده قانون تحریم‌های ایران را رسماً تمدید کرد.",
+            "این اقدام مسیر اعمال فشارهای اقتصادی و مسدودسازی منابع مالی حکومت را هموارتر می‌کند."
+        ],
+        "impact": "حلقه محاصره اقتصادی و مالی بر ارکان حکومت تنگ‌تر می‌شود.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "IranWire",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXhTUVVaaTZ4VHMyQ29pNzVLYkFxeEIwSjdiZmpzQWpmelo1aXdhUGlMUndqZGxLeTVDaHBqR1p5UG5WUm52bF9ibnBMMWttcFczaXEtNHdzYzloTVFjSmlXN3pIcmRJeldPb0hIYm5sYUNEZmRBY0ktd2l5OXN5SmJmTUdsWmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXhTUVVaaTZ4VHMyQ29pNzVLYkFxeEIwSjdiZmpzQWpmelo1aXdhUGlMUndqZGxLeTVDaHBqR1p5UG5WUm52bF9ibnBMMWttcFczaXEtNHdzYzloTVFjSmlXN3pIcmRJeldPb0hIYm5sYUNEZmRBY0ktd2l5OXN5SmJmTUdsWmM",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789646400.0
+    },
+    {
         "id": "8f801d4b89",
         "title_fa": "متهم شدن نیروهای آمریکایی به جنایت جنگی",
         "title_en": "UN says US may have committed war crime in Iran school attack: Live",
@@ -452,6 +470,25 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/un-mission-finds-grounds-to-believe-us-committed-war-crimes-in-iran-and-tehran-crimes-against-humanity/ar-AA2cqbwW",
         "image": "http://www.bing.com/th?id=ONUT.3R-zkBHdAUe2_ZrM-esawQ&pid=News",
         "timestamp": 1789607146.0
+    },
+    {
+        "id": "c1348e779a",
+        "title_fa": "آمادگی ترامپ برای مذاکره با رهبران خلیج فارس درباره ایران",
+        "title_en": "Live Updates: IDF says sirens that sounded in Israel's north were due to false identification",
+        "summary": [
+            "ارتش اسرائیل اعلام کرد آژیرهای خطر در شمال سرزمین‌های اشغالی ناشی از خطای انسانی و تشخیص اشتباه بوده است.",
+            "دیدار هفته آینده ترامپ با رهبران عرب حاشیه خلیج فارس با محوریت پرونده تهران برگزار می‌شود.",
+            "حزب‌الله لبنان برای فرار از فشارهای داخلی و اتهام بازگرداندن جنگ به کشور، از رای اعتماد به دولت عقب‌نشینی کرد."
+        ],
+        "impact": "فشار دیپلماتیک و منطقه‌ای بر جمهوری اسلامی به شدت در حال افزایش است.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-17/live-updates-908844",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-17/live-updates-908844",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738103",
+        "timestamp": 1789606800.0
     },
     {
         "id": "332360ae42",
@@ -5470,42 +5507,5 @@
         "clean_url": "https://www.iranintl.com/202608235733",
         "image": "http://www.bing.com/th?id=ONUT.9OoFH_ONWJvxFcbob_B2-g&pid=News",
         "timestamp": 1787471340.0
-    },
-    {
-        "id": "d2b544841a",
-        "title_fa": "شدت‌گرفتن حملات اسرائیل به تاسیسات هسته‌ای و صنعتی ایران",
-        "title_en": "Israel intensifies strikes on Iran’s nuclear, industrial sites; tensions escalate",
-        "summary": [
-            "حملات اسرائیل وارد فاز تخریب مستقیم زیرساخت‌های هسته‌ای و مراکز حیاتی صنعتی شده است.",
-            "هدف اصلی این ضربات، از کار انداختن شریان‌های اقتصادی و توان پشتیبانی نظامی ج.ا.ا در حملات متقابل است.",
-            "با صدمه دیدن مراکز کلیدی، ابزارهای بازدارندگی و مانور دیپلماتیک به حداقل ممکن رسیده است."
-        ],
-        "impact": "خطر فلج‌شدن زیرساخت‌های صنعتی و جهش آنی نرخ ارز و طلا در بازار داخلی.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "News On AIR",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHFIWHZVd29KTC01TG1LVVdXNUhReWV4UHZpYTZ5Q1R6eEx6LXVWanU0LXF3U1ZrWEtSeWNQZW4wczVOaW9ENFNXX3diUm1QSUtTNW5ORWNwV0FiTDRrOS1VUm95NUdPeGlSSlFpdmIwdUlHS3FwclF1bloxNjRZbkVIU09pYVlWYTAzb1M5TUMwODhZTXl1NldhdFdvWEl5c25lQnJJMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHFIWHZVd29KTC01TG1LVVdXNUhReWV4UHZpYTZ5Q1R6eEx6LXVWanU0LXF3U1ZrWEtSeWNQZW4wczVOaW9ENFNXX3diUm1QSUtTNW5ORWNwV0FiTDRrOS1VUm95NUdPeGlSSlFpdmIwdUlHS3FwclF1bloxNjRZbkVIU09pYVlWYTAzb1M5TUMwODhZTXl1NldhdFdvWEl5c25lQnJJMA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787469186.0
-    },
-    {
-        "id": "9de9c960fe",
-        "title_fa": "تاکید قاهره بر دیپلماسی در گفتگوی تلفنی با وزیر خارجه ایران",
-        "title_en": "Egypt Stresses Need For Diplomacy In Call With Iranian Foreign Minister",
-        "summary": [
-            "وزیر خارجه مصر در تماس با همتای ایرانی خود بر ضرورت کاهش تنش‌ها و جلوگیری از گسترش جنگ در منطقه تاکید کرد.",
-            "قاهره نگران تبعات ناامنی در خاورمیانه بر امنیت دریانوردی کانال سوئز و اقتصاد آسیب‌دیده خود است."
-        ],
-        "impact": "تلاش مصر برای واسطه‌گری و فعال نگه‌داشتن کانال‌های سیاسی جهت مهار تنش‌های منطقه‌ای.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787468700.0
     }
 ]
