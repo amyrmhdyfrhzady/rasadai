@@ -437,6 +437,24 @@
         "timestamp": 1789632782.0
     },
     {
+        "id": "38dfbb9e29",
+        "title_fa": "تصادف مرگبار خودروی مسروقه در تل‌آویو",
+        "title_en": "Palestinian in Israel without permit allegedly steals car and gets into crash, killing cyclist",
+        "summary": [
+            "یک فرد فاقد مجوز اقامت، خودرویی را در اراضی اشغالی به سرقت برد.",
+            "تعقیب و گریز و تصادف این خودرو با یک دوچرخه‌سوار منجر به مرگ او شد."
+        ],
+        "impact": "این حادثه بار دیگر پرونده امنیتی تردد افراد غیرمجاز را به تیتر رسانه‌ها کشاند.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/palestinian-in-israel-without-permit-allegedly-steals-car-and-gets-into-crash-killing-cyclist/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-in-israel-without-permit-allegedly-steals-car-and-gets-into-crash-killing-cyclist",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789632420.0
+    },
+    {
         "id": "75231e1b40",
         "title_fa": "نقش‌آفرینی رومانی در معادلات خاورمیانه و امنیت دریای سیاه",
         "title_en": "Mapping the International Relations of Romania with Middle Eastern Countries: A Policy Analysis",
@@ -5483,23 +5501,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/centcom-chief-says-not-concerned-at-all-about-a-shortage-of-us-missile-interceptors",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26139598708092-e1788697671360.jpg",
         "timestamp": 1789323240.0
-    },
-    {
-        "id": "97078b2ae1",
-        "title_fa": "سقوط آزاد ریال؛ نرخ دلار به ۲۰۰ هزار تومان رسید",
-        "title_en": "Iran’s Rial In Freefall As US Dollar Hits 2 Million",
-        "summary": [
-            "ارزش پول ملی بار دیگر رکورد تاریخی جدیدی از سقوط را ثبت کرد.",
-            "فشار تحریم‌ها و بحران‌های ساختاری اقتصاد کشور را به لبه پرتگاه کشانده است."
-        ],
-        "impact": "این فاجعه ارزی به معنای نابودی کامل قدرت خرید مردم و فلج شدن بازار است.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmRkUXprNGtvZUVUU3BzZFhBTHVZb3FBV0RkRFRiZndOT0FSaDBZTG80Q09FTXJzZlhBMlBHYUVuTFl4a0tmZXhxNlkxN3VXRFQtUnIydGkwMHZoY0Jhelo1cHpqdklMNkFTSXVsb25QeFlkZU1CbGFmNWVFX3VKVmE1akV1bFk5Y3Fvb2NxVGN5SXoyWE9wd2hvSzI4TGV0UzExNVByX0pZLTF4eFMzazIwS0J1YWpNeGdxX2t4ZnI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmRkUXprNGtvZUVUU3BzZFhBTHVZb3FBV0RkRFRiZndOT0FSaDBZTG80Q09FTXJzZlhBMlBHYUVuTFl4a0tmZXhxNlkxN3VXRFQtUnIydGkwMHZoY0Jhelo1cHpqdklMNkFTSXVsb25QeFlkZU1CbGFmNWVFX3VKVmE1akV1bFk5Y3Fvb2NxVGN5SXoyWE9wd2hvSzI4TGV0UzExNVByX0pZLTF4eFMzazIwS0J1YWpNeGdxX2t4ZnI",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787497045.0
     }
 ]
