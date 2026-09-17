@@ -276,6 +276,24 @@
         "timestamp": 1789662953.0
     },
     {
+        "id": "8c67afd103",
+        "title_fa": "افت قیمت نفت با مهار تنش‌های عرضه در خاورمیانه",
+        "title_en": "Crude Prices Fall as Saudi Arabia Seeks to Restore East-West Pipeline",
+        "summary": [
+            "عربستان سعودی برای بازگرداندن نیمی از ظرفیت خط لوله شرق به غرب طی روزهای آینده آماده می‌شود.",
+            "گزارش وزارت انرژی آمریکا از عبور میلیون‌ها بشکه نفت از تنگه هرمز، نگرانی‌های بازار جهانی را کم کرد."
+        ],
+        "impact": "بازار نفت با فروکش کردن تنش‌های ژئوپلیتیک و بازگشت خطوط انتقال، روند نزولی به خود گرفت.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-fall-saudi-arabia-153112109.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-fall-saudi-arabia-153112109.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/c9968fa130e18fb93709344bbbb38e79.jpg",
+        "timestamp": 1789660868.0
+    },
+    {
         "id": "284ddd686c",
         "title_fa": "پایان نظارت سازمان ملل بر تحریم‌های جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی با وتوی پکن و مسکو",
         "title_en": "China, Russia veto renewal of UN Iran sanctions panel",
@@ -5478,24 +5496,5 @@
         "clean_url": "https://www.chathamhouse.org/publications/the-world-today/2026-09/how-will-iran-war-reshape-persian-gulf",
         "image": "https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2024-10/2024-10-03-past-events-bronwen-blinken.jpg?h=199d8c1f&itok=DroxWQ1H",
         "timestamp": 1789377240.0
-    },
-    {
-        "id": "58d97499a4",
-        "title_fa": "ادعای ترامپ درباره مذاکرات صلح همزمان با جهش نفت",
-        "title_en": "Iran war live: Trump makes fresh claim on peace talks",
-        "summary": [
-            "ترامپ از پذیرش مسئولیت گرانی بازار نفت شانه خالی کرد و ادعاهای تازه‌ای درباره مذاکرات صلح مطرح نمود.",
-            "قیمت نفت با ۳ درصد افزایش از مرز ۱۰۸ دلار گذشت.",
-            "حملات پهپادی و موشکی حوثی‌ها به عربستان و تحرکات نظامی ایران عامل اصلی این شوک قیمتی در بازار انرژی است."
-        ],
-        "impact": "جهش قیمت نفت فشار اقتصادی بر بازارهای جهانی را افزایش داده است.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-war-live-trump-makes-fresh-claim-on-peace-talks/ar-AA2ca7bZ",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-war-live-trump-makes-fresh-claim-on-peace-talks/ar-AA2ca7bZ",
-        "image": "http://www.bing.com/th?id=ONUT.4P_gmS7BJmQ0yDRmWaH_MQ&pid=News",
-        "timestamp": 1789376871.0
     }
 ]
