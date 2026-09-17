@@ -1,5 +1,23 @@
 [
     {
+        "id": "6bd2c25857",
+        "title_fa": "دیدار ترامپ و شی؛ آتش‌بس شکننده در جنگ تعرفه‌ها",
+        "title_en": "Where the US-China tariff row stands ahead of White House summit",
+        "summary": [
+            "کاخ سفید میزبان مذاکرات حیاتی دونالد ترامپ و رئیس‌جمهور چین است؛ توافقی جامع هنوز دور از دسترس مانده و تعرفه‌ها همچنان مانع اصلی روابط دو اقتصاد بزرگ دنیاست.",
+            "پس از اوج‌گیری سنگین تعرفه‌ها، دو طرف موقتاً عوارض را تعدیل کرده‌اند، اما ترامپ همچنان اهرم فشار تعرفه‌ای را برای باج‌گیری تجاری از پکن حفظ کرده است."
+        ],
+        "impact": "سرنوشت این نشست بر نوسانات قیمت نفت و بازارهای مالی جهان اثر مستقیم خواهد داشت.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Agence France-Presse",
+        "url": "https://www.afp.com/en/where-us-china-tariff-row-stands-ahead-white-house-summit",
+        "clean_url": "https://www.afp.com/en/where-us-china-tariff-row-stands-ahead-white-house-summit",
+        "image": "https://www.bing.com/th?id=ONUT.AagNUZV_YldvHxMC30GWFw",
+        "timestamp": 1789618272.6478992
+    },
+    {
         "id": "d30a811cb0",
         "title_fa": "برنامه دیدار ترامپ با رهبران خلیج فارس درباره ایران",
         "title_en": "Report: Trump to meet Gulf leaders at UN to discuss Iran war",
@@ -5492,24 +5510,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-news-trump-calls-strait-of-hormuz-american-territory-as-centcom-reports-nearly-1300-vessels-assisted/ar-AA2aJwbC",
         "image": "http://www.bing.com/th?id=ONUT.T7A1TqyQO3SHTQ6LonQdrA&pid=News",
         "timestamp": 1787448000.0
-    },
-    {
-        "id": "910b32974f",
-        "title_fa": "پیشروی ارتش روسیه در خارکیف پس از تصرف کودیفکا",
-        "title_en": "Gaining control of Kudiyevka, Russia advances on two settlements at once — expert",
-        "summary": [
-            "نیروهای روسیه با تصرف روستای کودیفکا در استان خارکیف، فشار بر خطوط دفاعی اوکراین را در این جبهه افزایش داده‌اند.",
-            "هدف بعدی مسکو، تسلط بر مناطق مرزی بوگایفکا و گوپتوفکا برای ایجاد یک منطقه حائل امنیتی است.",
-            "این تحرکات با هدف فرسوده کردن ارتش اوکراین در جبهه‌های شمالی و پرت کردن حواس فرماندهی نظامی کی‌یف از دونباس انجام می‌شود."
-        ],
-        "impact": "افزایش فشار نظامی بر خارکیف و احتمال قطع مسیرهای تدارکاتی نیروهای اوکراینی در مرزهای شمالی.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/defense/2176569",
-        "clean_url": "https://tass.com/defense/2176569",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1787447820.0
     }
 ]
