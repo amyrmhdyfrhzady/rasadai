@@ -364,6 +364,25 @@
         "timestamp": 1789623678.0
     },
     {
+        "id": "6cf76311c7",
+        "title_fa": "چرخش هند در بریکس؛ امتیاز دهی به جبهه شرق علیه واشنگتن",
+        "title_en": "BRICS Declaration: India’s Great U-turn on Iran",
+        "summary": [
+            "دهلی‌نو در بیانیه بریکس با وجود عدم نام بردن مستقیم از ایالات متحده، به شدت تحریم‌های یکجانبه اقتصادی را محکوم کرد.",
+            "مسعود پزشکیان در سایه تنش‌های هند با دولت دونالد ترامپ توانست مواضع ضدآمریکایی جمهوری اسلامی را در بیانیه نهایی برجسته کند.",
+            "این رویکرد نشان‌دهنده عقب‌نشینی مودی از سیاست خارجی مستقل سنتی هند در برابر فشارهای بلوک شرق است."
+        ],
+        "impact": "همگرایی بیشتر قدرت‌های نوظهور علیه ابزار تحریم اقتصادی ایالات متحده.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/brics-declaration-indias-great-u-turn-on-iran/",
+        "clean_url": "https://thediplomat.com/2026/09/brics-declaration-indias-great-u-turn-on-iran",
+        "image": "http://www.bing.com/th?id=ONUT.9JBbzVlqpvXrrpi8w1wpeA&pid=News",
+        "timestamp": 1789623060.0
+    },
+    {
         "id": "51f7860069",
         "title_fa": "فرار مهاجران افغان از بحران اقتصادی ای-ران",
         "title_en": "Afghans flee collapsing Iranian economy amid US conflict, returning to strict Taliban rule",
@@ -5489,23 +5508,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/irans-toman-plunges-to-record-low-food-prices-soar-128-amid-us-sanctions-article-155972952",
         "image": "http://www.bing.com/th?id=ONUT.hb7MjStLoiE2JAvdDQtmnQ&pid=News",
         "timestamp": 1787471940.0
-    },
-    {
-        "id": "5e4245b85d",
-        "title_fa": "ژست قدرت عراقچی قبل از موج تازه تحریم‌ها و سفر هیات پاکستانی",
-        "title_en": "ادامه جدال لفظی تهران و واشینگتن در آستانه سفر فرمانده ارتش پاکستان به ایران",
-        "summary": [
-            "مواضع تند عراقچی و حمله به تحریم‌های جدید آمریکا، واکنشی ناشی از هراس نسبت به دور بی‌سابقه فشارهای خزانه‌داری ایالات متحده است.",
-            "تهران با برجسته‌سازی سفر فرمانده ارتش پاکستان تلاش می‌کند جلوی انزوای دیپلماتیک خود را بگیرد و کانالی برای کاهش فشارهای مرزی و منطقه‌ای دست‌وپا کند."
-        ],
-        "impact": "آغاز تحریم‌های سنگین جدید و ناتوانی دستگاه دیپلماسی در مهار فشار اقتصادی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.65,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608235733",
-        "clean_url": "https://www.iranintl.com/202608235733",
-        "image": "http://www.bing.com/th?id=ONUT.9OoFH_ONWJvxFcbob_B2-g&pid=News",
-        "timestamp": 1787471340.0
     }
 ]
