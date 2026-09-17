@@ -531,6 +531,24 @@
         "timestamp": 1789645493.0
     },
     {
+        "id": "99e8db724f",
+        "title_fa": "آژیر خطر پهپادی در شمال مرزهای صهیونیستی",
+        "title_en": "Drone sirens sound in northern towns; IDF probing cause",
+        "summary": [
+            "به صدا درآمدن آژیرهای هشدار نفوذ پهپاد در شهرهای مرزی منارا و مارگالیوت.",
+            "شلیک موشک رهگیر در آسمان منطقه بر اساس گزارش شاهدان عینی."
+        ],
+        "impact": "بالارفتن سطح آماده‌باش نظامی در مرزهای شمالی پس از تهدیدهای مکرر.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/drone-sirens-sound-in-northern-towns-idf-probing-cause/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/drone-sirens-sound-in-northern-towns-idf-probing-cause",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789645140.0
+    },
+    {
         "id": "27d0c0c4da",
         "title_fa": "مسدود شدن راه ارتباطی روستای فلسطینی در دره اردن",
         "title_en": "Palestinian community in Jordan Valley blocked to vehicles for 2 days due to construction of security barrier",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-war-live-trump-makes-fresh-claim-on-peace-talks/ar-AA2ca7bZ",
         "image": "http://www.bing.com/th?id=ONUT.4P_gmS7BJmQ0yDRmWaH_MQ&pid=News",
         "timestamp": 1789376871.0
-    },
-    {
-        "id": "a42c0a6e33",
-        "title_fa": "تعویق مذاکرات عمان و جهش قیمت نفت به بالای ۱۰۷ دلار",
-        "title_en": "Iran war live: Another blow to peace as crucial Oman talks postponed",
-        "summary": [
-            "مذاکرات حیاتی عمان پس از ادعاهای ترامپ درباره نفت هرمز به تعویق افتاد و ضربه سختی به تلاش‌های صلح وارد شد.",
-            "حملات جدید حوثی‌ها به عربستان هم‌زمان با تنش‌های آمریکا و جـ.ـمـ.ـهـ.ـوری اسـ.ـلا‌مـ.ـی، بازار انرژی را به شدت ملتهب کرد."
-        ],
-        "impact": "جهش قیمت نفت به بالای ۱۰۷ دلار و افزایش شدید ریسک درگیری نظامی در منطقه",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-another-blow-to-peace-as-crucial-oman-talks-postponed/ar-AA2ca7bZ",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-another-blow-to-peace-as-crucial-oman-talks-postponed/ar-AA2ca7bZ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789375289.0
     }
 ]
