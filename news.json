@@ -256,6 +256,24 @@
         "timestamp": 1789632184.0
     },
     {
+        "id": "15cd3c4568",
+        "title_fa": "ادعای رئیس مجلس آمریکا درباره پرونده هسته‌ای ای-ران",
+        "title_en": "House speaker declares Iran nuclear issue \"taken care of\"",
+        "summary": [
+            "رئیس مجلس نمایندگان آمریکا مدعی شد که پرونده اتمی ای-ران جمع شده و تحت کنترل است.",
+            "این اظهارات در حالی مطرح می‌شود که نگرانی‌ها از فعالیت‌های پنهانی اتمی حکومت همچنان بالاست."
+        ],
+        "impact": "این موضع‌گیری می‌تواند فشار سیاسی موقت در واشنگتن را کاهش دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789631520.0
+    },
+    {
         "id": "049b18f62f",
         "title_fa": "چالش‌های پنهان و تله‌های استراتژیک در نبرد با ج‌مهوری اس‌لامی",
         "title_en": "The great struggle against Iran has a dangerous catch",
@@ -5489,23 +5507,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787468700.0
-    },
-    {
-        "id": "ef06ef0b32",
-        "title_fa": "تهدید شورای امنیت ملی ج.ا به بستن شیرهای نفت منطقه",
-        "title_en": "Iran Security Chief Warns Gulf States to Avoid Joining Trump’s Economic War",
-        "summary": [
-            "دبیر جدید شورای امنیت ملی ج.ا به کشورهای ححوزه خلیج فارس درباره همراهی با سیاست‌های فشار حداکثری هشدار داد.",
-            "این مقام امنیتی مدعی شد اجازه خروج حتی یک قطره نفت از منطقه را در صورت تداوم جنگ اقتصادی نخواهد داد."
-        ],
-        "impact": "افزایش ریسک امنیتی در آبراهه‌های حیاتی انرژی و احتمال جهش قیمت نفت در بازارهای جهانی.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-        "clean_url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-        "image": "http://www.bing.com/th?id=ONUT.g14Jemn7pJ8Vkz2WKVHZxg&pid=News",
-        "timestamp": 1787467620.0
     }
 ]
