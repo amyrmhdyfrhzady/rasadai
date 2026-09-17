@@ -55,6 +55,24 @@
         "timestamp": 1789664167.0
     },
     {
+        "id": "b6dae9e858",
+        "title_fa": "اتهام جنایت جنگی به آمریـکا درباره شهروندان ایرانی",
+        "title_en": "US likely committed war crimes against Iranian civilians: Independent experts",
+        "summary": [
+            "کارشناسان مستقل سازمان ملل از احتمال ارتکاب جنایت جنگی توسط آمریـکا علیه غیرنظامیان ایرانی خبر دادند.",
+            "این گزارش ابعاد تازه‌ای از فشارهای بین‌المللی و حقوقی بر روی سیاست‌های واشنگتن را عیان می‌کند."
+        ],
+        "impact": "افزایش فشارهای حقوقی و سیاسی بر واشنگتن در مجامع بین‌المللی.",
+        "tag": "حقوقی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "UN News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53ZllFLUg4SGlpZjFvZU5DYXZyQ3M1OUl0a0RnNzJDS2VIV1V3cV80QW1XTHBydFpISTE1eUdnQk5LRUF0Rnc4Uno0SjR1ZFl0QVo0eUt2MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53ZllFLUg4SGlpZjFvZU5DYXZyQ3M1OUl0a0RnNzJDS2VIV1V3cV80QW1XTHBydFpISTE1eUdnQk5LRUF0Rnc4Uno0SjR1ZFl0QVo0eUt2MA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789664160.0
+    },
+    {
         "id": "fc6040f91f",
         "title_fa": "دیپلماسی پنهان و مذاکرات پشت پرده در خاورمیانه",
         "title_en": "Secret Regional Diplomacy and Backdoor Negotiations",
@@ -5480,24 +5498,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-houthis-red-sea-mayun-island-yemen-bab-al-mandab-strait-middle-east-latest-news/liveblog/134222174.cms",
         "image": "http://www.bing.com/th?id=ONUT.qk0Fu4Eu2hksfkoG-g1phg&pid=News",
         "timestamp": 1789355760.0
-    },
-    {
-        "id": "82999d8c4a",
-        "title_fa": "میراث ترامپ در خاورمیانه؛ ورود واشنگتن به جنگ فرسایشی با ج.ا.ایران",
-        "title_en": "How Trump's Iran operation turned into a forever war",
-        "summary": [
-            "سیاست فشار حداکثری دونالد ترامپ، واشنگتن را در یک چرخه فرسایشی و بی‌پایان از تنش‌های منطقه‌ای گرفتار کرده است.",
-            "بسته‌شدن مسیرهای دیپلماتیک واقعی، امید به تحقق صلح پایدار در خاورمیانه را در کوتاه‌مدت از بین برده است.",
-            "کاخ سفید میان درگیری مستقیم نظامی یا تحمل هزینه‌های جنگ نیابتی متمادی، با بن‌بست گزینه‌ها مواجه است."
-        ],
-        "impact": "تداوم بی‌ثباتی حاد در منطقه‌ای و افزایش ریسک جرقه‌خوردن درگیری‌های ناگهانی.",
-        "tag": "سیاست خارجی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Responsible Statecraft on MSN",
-        "url": "https://www.msn.com/en-us/news/other/how-trump-s-iran-operation-turned-into-a-forever-war/ar-AA2caeGm",
-        "clean_url": "https://www.msn.com/en-us/news/other/how-trump-s-iran-operation-turned-into-a-forever-war/ar-AA2caeGm",
-        "image": "http://www.bing.com/th?id=ONUT.ehrZRtGOskLQeiHgDPg0_A&pid=News",
-        "timestamp": 1789352280.0
     }
 ]
