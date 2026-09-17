@@ -454,6 +454,25 @@
         "timestamp": 1789639896.0
     },
     {
+        "id": "b8a00a0482",
+        "title_fa": "درس‌های پیونگ‌یانگ به تهران در مهار جنگ",
+        "title_en": "Iran, North Korea and the new logic of deterrence",
+        "summary": [
+            "برتری نظامی آمریکا و اسرائیل نتوانسته به فروپاشی حکومت ج.ه بینجامد و تنازع به یک بن‌بست فرسایشی تبدیل شده است.",
+            "تهران از الگوهای کره شمالی برای حفظ اهرم‌های بازدارندگی و بقا در برابر ضربات سنگین بهره می‌برد.",
+            "توان تخریبی تسلیحات پیشرفته لزوماً به تغییرات سیاسی مطلوب واشنگتن و تل‌آویو منجر نشده است."
+        ],
+        "impact": "تداوم بن‌بست راهبردی با وجود هزینه‌های سنگین نظامی برای حکومت.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Financial Express",
+        "url": "https://today.thefinancialexpress.com.bd/views-opinion/iran-north-korea-and-the-new-logic-of-deterrence-1789657770",
+        "clean_url": "https://today.thefinancialexpress.com.bd/views-opinion/iran-north-korea-and-the-new-logic-of-deterrence-1789657770",
+        "image": "https://today.thefinancialexpress.com.bd/uploads/1789657770.jpg",
+        "timestamp": 1789639200.0
+    },
+    {
         "id": "8c01a0d3e7",
         "title_fa": "آیا جنگ با جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی طومار حضور نظامی آمریکا را در منطقه درهم می‌پیچد؟",
         "title_en": "Iran war puts future US military presence in Middle East in question",
@@ -5476,23 +5495,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/what-escalating-saudi-houthi-war-means-for-trump-in-iran/ar-AA2bOG1Y",
         "image": "http://www.bing.com/th?id=ONUT.kPtQCkacPlwQYQ51EK-Amw&pid=News",
         "timestamp": 1789365798.0
-    },
-    {
-        "id": "e021326b83",
-        "title_fa": "آمریکا مانع حضور رئیس اتمی ای-ران در وین شد",
-        "title_en": "Estados Unidos bloqueó la participación del jefe nuclear de Irán en la conferencia del OIEA en Viena",
-        "summary": [
-            "واشنگتن با درخواست معافیت تحریمی برای معاون رئیس‌جمهور و رئیس سازمان اتمی ای-ران مخالفت کرد.",
-            "این نشست آژانس بین‌المللی انرژی اتمی در وین بدون حضور مقام ارشد اتمی ای-ران برگزار شد."
-        ],
-        "impact": "افزایش انزوای دیپلماتیک و بستن مسیرهای رایزنی اتمی برای مسکو و تهران در مجامع بین‌المللی.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Infobae",
-        "url": "https://www.infobae.com/america/mundo/2026/09/14/estados-unidos-bloqueo-la-participacion-del-jefe-nuclear-de-iran-en-la-conferencia-del-oiea-en-viena/",
-        "clean_url": "https://www.infobae.com/america/mundo/2026/09/14/estados-unidos-bloqueo-la-participacion-del-jefe-nuclear-de-iran-en-la-conferencia-del-oiea-en-viena",
-        "image": "http://www.bing.com/th?id=ONUT.X1ynw0v_KbmioWFYyyMAVA&pid=News",
-        "timestamp": 1789363440.0
     }
 ]
