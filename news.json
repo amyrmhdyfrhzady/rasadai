@@ -1,5 +1,23 @@
 [
     {
+        "id": "49eadf4bea",
+        "title_fa": "ممانعت از سفر رییس اتمی ایران به وین",
+        "title_en": "Iran condemns travel ban on nuclear chief",
+        "summary": [
+            "کمیته تحریم‌ها با درخواست معافیت از ممنوعیت سفر محمد اسلامی برای حضور در نشست آژانس مخالفت کرد.",
+            "غیبت مقام ارشد اتمی جـ.ـهـ.ـوری اسـ.ـلامـ.ـی نشانه عمیق‌تر شدن شکاف میان تهران و کشورهای غربی است."
+        ],
+        "impact": "تنش‌های دیپلماتیک پرونده هسته‌ای وارد فاز تازه‌ای از انزوای بین‌المللی شد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Malaysia Sun",
+        "url": "https://www.malaysiasun.com/news/279308625/iran-nuclear-chief-barred-from-iaea-meeting-in-vienna",
+        "clean_url": "https://www.malaysiasun.com/news/279308625/iran-nuclear-chief-barred-from-iaea-meeting-in-vienna",
+        "image": "https://chitra-api.kreatio.com/api/v1/wps/2d3b6c0/0cb4ed87-4042-4bc5-b7d0-b2c67484bee2/1/6-Iran-s-Atomic-Energy-Organization-chief-Mohammad-Eslami-600x315.jpg",
+        "timestamp": 1789670400.0
+    },
+    {
         "id": "b63f4c61ff",
         "title_fa": "تعمیق محور آنکارا و تهران در سایه تغییرات دیپلماتیک",
         "title_en": "Israel, Morocco upgrade diplomatic ties; Turkey highlights close ties with Iran TV7 Israel 17 Sept.",
@@ -5475,24 +5493,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/ex-pentagon-chief-iran-war-120502056.html",
         "image": "https://s.yimg.com/lo/mysterio/api/8bafb831366fa3dbf9079d848215e013d71f554ad8bc61be1aa9c536379dbad1/lightyear_networkapi/resizefill_w600_h400%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgzero_551%2Fac8fed6289ca4b0db9b0e0dbe48dd040.jpg",
         "timestamp": 1789362300.0
-    },
-    {
-        "id": "77fe2a0fcc",
-        "title_fa": "عقب‌نشینی ریاض؛ لغو نشست مشترک هرمز با تهران",
-        "title_en": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
-        "summary": [
-            "عربستان با درخواست تعویق نشست هرمز، دست رد به سینه طرح‌های امنیتی یک‌جانبه تهران در منطقه زد.",
-            "ریاض در شرایط فعلی تمایلی به بازی در زمین ج‌هوری اس‌لامی ندارد و امنیت تنگه هرمز را فراتر از توافقات دوجانبه با تهران می‌داند.",
-            "تلاش تهران برای تصویب یک لایحه منطقه‌ای، بیشتر جنبه تبلیغاتی دارد تا واقعیت عملیاتی روی زمین."
-        ],
-        "impact": "شکست دیپلماتیک تهران در جلب همکاری کشورهای عرب حاشیه خلیج فارس برای کنترل تنگه هرمز.",
-        "tag": "منطقه‌ای",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/world/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through/ar-AA2cbbF5",
-        "clean_url": "https://www.msn.com/en-us/news/world/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through/ar-AA2cbbF5",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789361444.0
     }
 ]
