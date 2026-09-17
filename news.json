@@ -435,6 +435,25 @@
         "timestamp": 1789636876.0
     },
     {
+        "id": "fea0ad1650",
+        "title_fa": "گزارش پنتاگون از خسارت سنگین به ناوگان هوایی آمریکا",
+        "title_en": "Pentagon exposes mass US aircraft losses and base damage from Iran war | Latest news today",
+        "summary": [
+            "پنتاگون در گزارشی رسمی تایید کرد که ۵۹ فروند هواپیمای نظامی در جریان درگیری‌ها با ج.ا آسیب دیده یا نابود شده‌اند.",
+            "حملات به پایگاه‌های آمریکا در منطقه، ذخایر موشکی استراتژیک این کشور را با چالش جدی مواجه کرده است.",
+            "این آمار نشان‌دهنده تغییر موازنه قدرت در درگیری‌های مستقیم و آسیب‌پذیری تجهیزات گران‌قیمت در برابر حملات پهپادی و موشکی است."
+        ],
+        "impact": "افزایش فشار بر کنگره برای بازنگری در استراتژی دفاعی و پدافندی در خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Telegraph on MSN",
+        "url": "https://www.msn.com/en-us/news/other/pentagon-exposes-mass-us-aircraft-losses-and-base-damage-from-iran-war-latest-news-today/vi-AA2crWDC",
+        "clean_url": "https://www.msn.com/en-us/news/other/pentagon-exposes-mass-us-aircraft-losses-and-base-damage-from-iran-war-latest-news-today/vi-AA2crWDC",
+        "image": "http://www.bing.com/th?id=ONUT.1uiJlpKbmBwZiJiZa2LIkw&pid=News",
+        "timestamp": 1789636723.0
+    },
+    {
         "id": "d43169e25d",
         "title_fa": "گزارش جنجالی سازمان ملل درباره بمب‌گذاری در ایران",
         "title_en": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
@@ -5479,24 +5498,5 @@
         "clean_url": "https://www.iranintl.com/202609149458",
         "image": "http://www.bing.com/th?id=ONUT.C-BuIKJOBg_XoE2OJgLviQ&pid=News",
         "timestamp": 1789357500.0
-    },
-    {
-        "id": "a22edbbffc",
-        "title_fa": "واکنش صریح دونالد ترامپ به جاسوسی ماهواره‌ای چین برای تهران",
-        "title_en": "US-Iran War Live Updates: Iran president Pezeshkian signals willingness to engage Gulf states",
-        "summary": [
-            "ترامپ گزارش‌ها درباره ارسال اطلاعات ماهواره‌ای چین به ایران قبل از حمله به نیروهای آمریکایی را کم‌اهمیت جلوه داد.",
-            "رئیس‌جمهور آمریکا با عادی جلوه دادن جاسوسی متقابل واشنگتن و پکن، اولویت خود را بر نشست آتی با شی جین‌پینگ قرار داده است.",
-            "سیگنال‌های مسعود پزشکیان برای کاهش تنش با کشورهای همسایه عملاً تحت‌شعاع میدان‌داری نظامی قرار گرفته است."
-        ],
-        "impact": "آشکار شدن اولویت‌های معامله‌گرانه واشنگتن و پیچیده‌تر شدن رقابت قدرت‌های بزرگ در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-houthis-red-sea-mayun-island-yemen-bab-al-mandab-strait-middle-east-latest-news/liveblog/134222174.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-houthis-red-sea-mayun-island-yemen-bab-al-mandab-strait-middle-east-latest-news/liveblog/134222174.cms",
-        "image": "http://www.bing.com/th?id=ONUT.qk0Fu4Eu2hksfkoG-g1phg&pid=News",
-        "timestamp": 1789355760.0
     }
 ]
