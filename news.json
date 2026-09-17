@@ -399,6 +399,24 @@
         "timestamp": 1789612127.0
     },
     {
+        "id": "485ee4d0e2",
+        "title_fa": "گزارش سازمان ملل درباره جنایات ایالات متحده و ج.ا",
+        "title_en": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity",
+        "summary": [
+            "هیئت حقیقت‌یاب سازمان ملل مستنداتی درباره حملات نظامی منتسب به ایالات متحده به یک مدرسه ارائه داد.",
+            "این گزارش همچنین به بررسی اتهامات مربوط به جنایات علیه بشریت توسط حاکمیت تـهران پرداخته است."
+        ],
+        "impact": "افزایش فشارهای حقوق بشری و دیپلماتیک بر بازیگران اصلی درگیر در تنش‌های منطقه‌ای.",
+        "tag": "حقوق بشر",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/un-mission-finds-grounds-to-believe-us-committed-war-crimes-in-iran-and-tehran-crimes-against-humanity/ar-AA2cqbwW",
+        "clean_url": "https://www.msn.com/en-us/politics/government/un-mission-finds-grounds-to-believe-us-committed-war-crimes-in-iran-and-tehran-crimes-against-humanity/ar-AA2cqbwW",
+        "image": "http://www.bing.com/th?id=ONUT.3R-zkBHdAUe2_ZrM-esawQ&pid=News",
+        "timestamp": 1789607146.0
+    },
+    {
         "id": "9dbe92b2e0",
         "title_fa": "درس‌آموخته‌های تفنگداران دریایی آمریکا از درگیری‌ها با ای-ران",
         "title_en": "Pacific-based Marines were thrust into the Iran conflict. Here's what they learned",
@@ -5490,24 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXdhaG9MenhjMzFBUC1rVE9iOV9PTW1NTHFEU1NkYVo1TF95N3BCZzFUd1NncjR0TWFTS3Y4TURCdkRlREdkbEpkZTNqRnU1MEExVHpsVTdQNjNOWjd1dlNMTjVPcXB3cV80VGoyU0oxa1RhVTBYUW1uYThCT0d2OWltekxiR3FNZ3ozckw3UlBFSnliMlJVU2lGZmVQZFB2WnJMUWNoeWFNczVuT1BIYlhJMnBFUQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787465760.0
-    },
-    {
-        "id": "d937ac7677",
-        "title_fa": "حمله پهپادی اوکراین به عمق خاک روسیه و مرکز لوجستیک اورنبورگ",
-        "title_en": "Ukraine attacks Ozon warehouse in Orenburg with drones — official",
-        "summary": [
-            "نفوذ پهپادهای اوکراینی به منطقه اقتصادی اورنبورگ در نزدیکی مرز قزاقستان، توسعه توان نفوذ کی‌یف به عمق جبهه پشتیبانی روسیه را نشان می‌دهد.",
-            "هدف گرفتن زیرساخت‌های لوجستیکی مانند انبار «اوزون»، بخشی از استراتژی جدید اوکراین برای فلج کردن شریان‌های اقتصادی داخل خاک روسیه است.",
-            "گسترش جغرافیایی این حملات، پدافند هوایی روسیه را مجبور به پوشش مناطق بسیار دور از خطوط مقدم جنگ کرده است."
-        ],
-        "impact": "افزایش فشار بر پدافند هوایی روسیه و ناامن شدن شریان‌های پشتیبانی در عمق خاک این کشور.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/emergencies/2176603",
-        "clean_url": "https://tass.com/emergencies/2176603",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260823/1484391.jpg",
-        "timestamp": 1787464260.0
     }
 ]
