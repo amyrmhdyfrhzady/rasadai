@@ -654,6 +654,25 @@
         "timestamp": 1789626360.0
     },
     {
+        "id": "9491580020",
+        "title_fa": "گزارش جنجالی سازمان ملل علیه ج*هوری اس*لامی و آمریکا",
+        "title_en": "Expertos respaldados por la ONU citan posibles crímenes de guerra de EEUU en ataques a Irán",
+        "summary": [
+            "کمیته حقیقت‌یاب سازمان ملل در گزارشی بی‌سابقه، حکومت ایران را به ارتکاب جنایت علیه بشریت علیه مردم خود و آمریکا را به جنایت جنگی در حملات هوایی متهم کرد.",
+            "بررسی‌ها نشان می‌دهد یکی از حملات آمریکا به مدرسه‌ای در میناب، در مجاورت یک مقر نیروی دریایی س*پاه رخ داده است.",
+            "این سند غیرالزام‌آور، فشار حقوقی بین‌المللی را بر تهران بابت سرکوب‌های داخلی به شدت افزایش می‌دهد."
+        ],
+        "impact": "سنگین‌تر شدن پرونده نقض حقوق بشر حکومت ایران در عرصه‌های بین‌المللی و سخت‌تر شدن مانورهای دیپلماتیک تهران.",
+        "tag": "حقوق_بشر",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Univision",
+        "url": "https://www.univision.com/noticias/estados-unidos/expertos-respaldados-por-la-onu-citan-posibles-crimenes-de-guerra-de-eeuu-en-ataques-a-iran",
+        "clean_url": "https://www.univision.com/noticias/estados-unidos/expertos-respaldados-por-la-onu-citan-posibles-crimenes-de-guerra-de-eeuu-en-ataques-a-iran",
+        "image": "http://www.bing.com/th?id=ONUT.bjdCfwOCskpxs-f9yy2enQ&pid=News",
+        "timestamp": 1789624080.0
+    },
+    {
         "id": "02abdc10ff",
         "title_fa": "گسترش جنگ به یمن و سیگنال‌دهی ترامپ برای پایان درگیری‌ها",
         "title_en": "Iran War Spreads to Yemen as Trump Signals Hope for End to Conflict",
@@ -5480,23 +5499,5 @@
         "clean_url": "https://finance.biggo.com/news/ed78d98c29106120",
         "image": "https://img.biggo.com/DJruyHIqVJK-MmK3FyyEa034rFPUyzEwYu6cJiDAbfQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2VkNzhkOThjMjkxMDYxMjBfMTc4OTM3NTE4M19jb3Zlci5qcGc.jpg",
         "timestamp": 1789348140.0
-    },
-    {
-        "id": "a0aab580b5",
-        "title_fa": "انکار دخالت در یمن همزمان با حملات موشکی نیابتی‌ها",
-        "title_en": "Irán, aliado de los hutíes, niega estar implicado en la guerra en Yemen",
-        "summary": [
-            "تهران هرگونه نقش‌آفرینی در جنگ داخلی یمن را انکار کرد در حالی که گروه‌های وابسته به آن سواحل کلیدی باب‌المندب را کنترل می‌کنند.",
-            "حملات موشکی و پهپادی به پادشاهی نفت‌خیز همسایه باعث انفجارهای شدید و ناامنی در منطقه شد."
-        ],
-        "impact": "تداوم بحران در آبراه‌های حیاتی و افزایش ریسک امنیتی برای صادرات انرژی در منطقه.",
-        "tag": "نیابتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "El Comercio",
-        "url": "https://elcomercio.pe/mundo/oriente-medio/iran-aliado-de-los-huties-niega-estar-implicado-en-la-guerra-en-yemen-arabia-saudita-ultimas-noticia/",
-        "clean_url": "https://elcomercio.pe/mundo/oriente-medio/iran-aliado-de-los-huties-niega-estar-implicado-en-la-guerra-en-yemen-arabia-saudita-ultimas-noticia",
-        "image": "https://elcomercio.pe/resizer/v2/O24XCWCZCJAOZDQN7O3E74XDAA.jpg?auth=efa18ea8538b1438dc21e64a948cd283b07c310989281b8c3475513908634b81&width=980&height=528&quality=75&smart=true",
-        "timestamp": 1789347840.0
     }
 ]
