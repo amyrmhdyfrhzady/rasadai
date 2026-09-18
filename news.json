@@ -238,6 +238,24 @@
         "timestamp": 1789683120.0
     },
     {
+        "id": "bb967419fa",
+        "title_fa": "ترامپ و روبه‌رو شدن با رهبران تردیدگرای جهان در سازمان ملل",
+        "title_en": "As Iran war grinds on, Trump to face skeptical world leaders at UN",
+        "summary": [
+            "دونالد ترامپ در نشست سازمان ملل با رهبرانی روبه‌رو می‌شود که نسبت به رویکردهای او تردید جدی دارند.",
+            "نخست‌وزیر کانادا هم‌زمان به دنبال کاهش وابستگی به ایالات متحده، امتیاز سمبولیک مهمی از اتحادیه اروپا گرفت."
+        ],
+        "impact": "این تنش‌های دیپلماتیک وزن و تاثیرگذاری واشنگتن را در معادلات جهانی و منطقه‌ای کاهش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18",
+        "image": "http://www.bing.com/th?id=ONUT.fozraXScjxjG-a_Fc_1VVQ&pid=News",
+        "timestamp": 1789682640.0
+    },
+    {
         "id": "dc96e97eff",
         "title_fa": "موافقت واشنگتن با حضور هیئت تهران در نشست سازمان ملل",
         "title_en": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
@@ -5477,24 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWpUUnFmeXZvOWF6QldPTXhDUUNNWUQ4czB3elNLTFQ4RGJ5QWZqQkc2d1hiYmE2b2xhNmFVc0xMV3RzQzBvTUNRZE1LR2I3TFl4U0RTbEdVQWx5a2ZfblhsOU9vdVRFWkx4d2xLbUtHaDlmd3huV01hbHBnRXZ3ZDZtZjVHOFlOUzJNNUFkUWdqLW9id192U1RuX0VwWkM4bWxWZDl2TF9GcHR2a0hhZ2RkdE4zc0hEcXZfTER6dVFyYlBKUzhtclNHT0FfRjl4NS1SRTR3",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789394160.0
-    },
-    {
-        "id": "9c61fec819",
-        "title_fa": "شکست سناریوی تغییر نظم منطقه توسط آمریکا و اسرائیل",
-        "title_en": "Iran and the Emerging Security Order in the Middle East",
-        "summary": [
-            "حملات سال ۲۰۲۶ آمریکا و اسرائیل برخلاف محاسبات اولیه، نه تنها جمهوری اسلامی را ساقط نکرد، بلکه قدرت منطقه‌ای آن را تقویت کرده است.",
-            "طراحان این عملیات به دنبال تضعیف تواتمندی‌های هسته‌ای و نظامی و عادی‌سازی روابط تل‌آویو با ریاض بودند.",
-            "نفوذ ایالات متحده در خاورمیانه در حال عقب‌نشینی است و تهران ابتکار عمل را در نظم جدید امنیتی حفظ کرده است."
-        ],
-        "impact": "تغییر معادلات به نفع تهران و ناکامی ائتلاف غربی-عبری در باز طراحی خاورمیانه.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Center for Strategic and International Studies",
-        "url": "https://www.csis.org/analysis/iran-and-emerging-security-order-middle-east",
-        "clean_url": "https://www.csis.org/analysis/iran-and-emerging-security-order-middle-east",
-        "image": "http://www.bing.com/th?id=ONUT.fBRsMBB8lxPCUA5H-ZGA_g&pid=News",
-        "timestamp": 1789393140.0
     }
 ]
