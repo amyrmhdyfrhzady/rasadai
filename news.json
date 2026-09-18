@@ -1,5 +1,23 @@
 [
     {
+        "id": "dc84598fda",
+        "title_fa": "سردرگمی جی‌پی مورگان در پیش‌بینی نفت به دلیل تنش با آمریکا",
+        "title_en": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war",
+        "summary": [
+            "بزرگترین بانک‌های سرمایه‌گذاری دنیا دیگر توان محاسباتی برای پیش‌بینی بازار انرژی را ندارند.",
+            "ریسک جنگ مستقیم، بازار نفت را کاملاً غیرقابل پیش‌بینی کرده است."
+        ],
+        "impact": "آشفتگی در بازارهای جهانی و جهش احتمالی قیمت انرژی به دلیل سایه جنگ.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tZlBZZ1NnUnFqdmhqR0JDZkVwQlJ6ZTlZQ25LdFdjX2JYa3VOTlFWZXZQUWtseE5XMDlpRVJIczJxMzlQVkx6VWFVaEpJLXljNWJlc3V0aDdWUTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tZlBZZ1NnUnFqdmhqR0JDZkVwQlJ6ZTlZQ25LdFdjX2JYa3VOTlFWZXZQUWtseE5XMDlpRVJIczJxMzlQVkx6VWFVaEpJLXljNWJlc3V0aDdWUTA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789754250.0
+    },
+    {
         "id": "bb7dc440f5",
         "title_fa": "فشار تحریم‌ها روی ماهان‌ایر؛ ترکیه و عمان پروازها را بستند",
         "title_en": "US says Iran sanctions working, as Turkey, Oman suspend Mahan Air flights",
@@ -5479,24 +5497,5 @@
         "clean_url": "https://johnmenadue.com/post/2026/09/brics-builds-alternatives-as-washington-turns-up-the-pressure",
         "image": "https://publish.pearlsandirritations.com/wp-content/uploads/2026/09/brics-new-delhi-2026.jpg",
         "timestamp": 1789435890.1428351
-    },
-    {
-        "id": "9c3ee0507b",
-        "title_fa": "پاسخ رد تهران به مذاکراتی با تروپ و پرواز پهپادهای اسرائیل در بیروت",
-        "title_en": "Latest war news. Iran responds to Trump: 'No negotiations with the US'. Israel deploys drones over Beirut",
-        "summary": [
-            "تهران هرگونه مذاکره مستقیم با دونالد تروپ را قاطعانه رد کرد.",
-            "ارتش اسرائیل پهپادهای خود را بر فراز آسمان بیروت به پرواز درآورد.",
-            "ستاد فرماندهی مرکزی آمریکا (سنتکام) ادعای مقامات ایرانی درباره انفجار نفت‌کش در تنگه هرمز را تکذیب کرد."
-        ],
-        "impact": "بالارفتن احتمال درگیری‌های نظامی منطقه‌ای و بسته شدن پنجره دیپلماسی میان دو کشور",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "en.ilsole24ore",
-        "url": "https://en.ilsole24ore.com/art/war-latest-news-centcom-denies-iran-struck-their-oil-tanker-which-exploded-AJWPEYDB",
-        "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-centcom-denies-iran-struck-their-oil-tanker-which-exploded-AJWPEYDB",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/16/Immagini/Ritagli/aereo-U36707275183yQe-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
-        "timestamp": 1789434060.0
     }
 ]
