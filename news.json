@@ -627,6 +627,25 @@
         "timestamp": 1789673520.0
     },
     {
+        "id": "ea7dbcfadd",
+        "title_fa": "عقب‌نشینی قیمت نفت با فروکش کردن تنش‌های خاورمیانه",
+        "title_en": "Crude Prices Slip as Supply Fears Ease",
+        "summary": [
+            "بهای نفت خام پس از نشانه‌هایی از کاهش تنش‌ها و تلاش عربستان برای بازگرداندن ظرفیت خط لوله شرق به غرب افت کرد.",
+            "گزارش‌ها حاکی از عبور روان محموله‌های نفتی از تنگه هرمز است که نگرانی بازار از کمبود عرضه را تا حد زیادی کم کرده است.",
+            "در همین حال، تغییر مسیر پالایشگاه‌ها به سمت تولید گازوئیل باعث رشد قیمت بنزین شده است."
+        ],
+        "impact": "کاهش موقت فشارهای ژئوپلیتیک بر بازار انرژی و افت قیمت نفت خام",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-slip-supply-fears-191408143.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-slip-supply-fears-191408143.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/268aaebfc7374268d36f00d2946a3bb0.jpg",
+        "timestamp": 1789672868.0
+    },
+    {
         "id": "0a2824727f",
         "title_fa": "نشست پاریس برای تقویت ارتش ل ب ن ان",
         "title_en": "Middle East live: Paris talks aim to bolster Lebanese army as end of UN mission looms",
@@ -5480,25 +5499,6 @@
         "url": "https://asiatimes.com/2026/09/trump-has-no-path-to-victory-against-iran/",
         "clean_url": "https://asiatimes.com/2026/09/trump-has-no-path-to-victory-against-iran",
         "image": "http://www.bing.com/th?id=ONUT.LUx3VQ8dDC14aZY_3wVJfw&pid=News",
-        "timestamp": 1789405140.0
-    },
-    {
-        "id": "8363d45d18",
-        "title_fa": "خط و نشان شورای عالی امنیت به ترامپ درباره تنگه هرمز",
-        "title_en": "Iran Security Chief Warns Trump: ‘The Straits Have Changed’ — ‘Damage Control Won’t Stop What’s Coming’",
-        "summary": [
-            "محسن رضایی با هشدار مستقیم به ترامپ، هرگونه مذاکره را مشروط به پذیرش شروط تهران دانسته و مدعی تغییر معادلات در تنگه هرمز شده است.",
-            "این مواضع تهاجمی بیشتر از آنکه نشان‌دهنده دست برتر باشد، بخشی از رویکرد جنگ روانی برای بالا بردن هزینه فشار حداکثری واشنگتن است.",
-            "تثبیت جایگاه رضایی در شورای عالی امنیت ملی، نشان‌دهنده یکدست‌تر شدن هسته سخت تصمیم‌گیری‌های امنیتی در تهران است."
-        ],
-        "impact": "تنش‌های لفظی جدید، ریسک ناوبری در خلیج فارس و نااطمینانی در بازار انرژی را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Breitbart News Network",
-        "url": "https://www.breitbart.com/politics/2026/09/14/iran-security-chief-warns-trump-straits-changed/",
-        "clean_url": "https://www.breitbart.com/politics/2026/09/14/iran-security-chief-warns-trump-straits-changed",
-        "image": "https://media.breitbart.com/media/2026/09/Iran-Abbas-Araghchi-Mohsen-Rezaie-July2026-getty-640x335.jpg",
         "timestamp": 1789405140.0
     }
 ]
