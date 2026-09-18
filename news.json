@@ -146,6 +146,25 @@
         "timestamp": 1789740300.0
     },
     {
+        "id": "76070f0752",
+        "title_fa": "فشار دموکرات‌ها به ترامپ بر سر هزینه‌های جنگ با جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی",
+        "title_en": "Democrats seize on Iran war costs to hit Trump ahead of midterms",
+        "summary": [
+            "حزب دموکرات آمریکا جنگ شش‌ماهه با تهران را به بحران گرانی بنزین و تورم در داخل آمریکا گره زده است.",
+            "نمایندگان کنگره دولت را به نداشتن استراتژی مشخص برای خروج از مخمصه نظامی متهم می‌کنند.",
+            "اختلال در صادرات نفت و ناامنی تنگه هرمز، به پاشنه آشیل دولت ترامپ در آستانه انتخابات میان‌دوره‌ای تبدیل شده است."
+        ],
+        "impact": "تشدید فشارهای سیاسی بر کاخ سفید به دلیل تأثیر مستقیم جنگ بر معیشت شهروندان آمریکایی.",
+        "tag": "انتخابات آمریکا",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609181464",
+        "clean_url": "https://www.iranintl.com/en/202609181464",
+        "image": "http://www.bing.com/th?id=ONUT.zWUFTMF0zishUJ8fPr_w8Q&pid=News",
+        "timestamp": 1789738740.0
+    },
+    {
         "id": "1ffcf2247c",
         "title_fa": "اعتراف واشینگتن‌پست به شکست آمریکا در برابر ایران",
         "title_en": "By nearly every metric, the U.S. is losing the Iran war",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://en.nhandan.vn/world-news-in-brief-september-15-post166654.html",
         "image": "https://en-cdn.nhandan.vn/images/PGsdfWzXfw3FSVNqQeLLm4wUu6Y2nbImzUGHniu2LVjIiQ4ytweEAINwQQlgfGO4/eu.jpg.webp",
         "timestamp": 1789440300.0
-    },
-    {
-        "id": "450456dfaa",
-        "title_fa": "آسیب رسیدن به هواپیماهای آمریکایی در حمله به پایگاه اردن",
-        "title_en": "Iran attack on base in Jordan damaged American military aircraft, US official says",
-        "summary": [
-            "مقام نظامی آمریکا تایید کرد که حمله پهپادی مرتبط با ایران به پایگاه نظامی در اردن خسارت جدی به جنگنده‌ها و تجهیزات آمریکایی وارد کرده است.",
-            "این واقعه نشان‌دهنده آسیب‌پذیری پایگاه‌های منطقه‌ای در برابر حملات نیابتی است و ارتش آمریکا را ناچار به بازنگری در سیستم‌های پدافندی خود می‌کند."
-        ],
-        "impact": "افزایش فشارها بر واشنگتن برای پاسخ سخت‌تر به نیابتی‌های جمهوری اسلامی پس از تلفات و خسارت‌های مالی و نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlM4d1Juci1kYmlaMlhYM1VzT2NEVFQyOGFXemxKbVNLanZvYXFVRElhM1doRjN6eW9GUU56Q1VwNFgtN0FPMlo0NGEzeEE0ZWR0R2VnXzlrRkpFdmoza210U2xZTGVqTnJEUnBJQW4xZUZIV2oxd0gtVXVfLWFDOFVZZ3BaMjVZSXZFVENjN3UyUmVMYjlTUUN6RzlRMkhsQ1JGY0FyLThMcWc1M0czeWFBYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlM4d1Juci1kYmlaMlhYM1VzT2NEVFQyOGFXemxKbVNLanZvYXFVRElhM1doRjN6eW9GUU56Q1VwNFgtN0FPMlo0NGEzeEE0ZWR0R2VnXzlrRkpFdmoza210U2xZTGVqTnJEUnBJQW4xZUZIV2oxd0gtVXVfLWFDOFVZZ3BaMjVZSXZFVENjN3UyUmVMYjlTUUN6RzlRMkhsQ1JGY0FyLThMcWc1M0czeWFBYw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789440274.0
     }
 ]
