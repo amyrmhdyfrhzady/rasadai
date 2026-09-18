@@ -1,5 +1,24 @@
 [
     {
+        "id": "4dd2232911",
+        "title_fa": "افت موقعیت نتانیاهو در نظرسنجی‌ها و استمداد از هواداران لیکود",
+        "title_en": "'Not a King, Need Your Votes': Netanyahu 'CRIES' Before Israelis As Rival Leads In Opinion Polls",
+        "summary": [
+            "عقب‌ماندن در نظرسنجی‌های انتخاباتی بنیامین نتانیاهو را وادار کرد صراحتاً بگوید پادشاه نیست و برای ماندن در قدرت محتاج تک‌تک آراست.",
+            "او برای بازسازی پایگاه رأی خود، بار دیگر روی شکاف چپ و راست و مخالفت قطعی با تشکیل کشور فلسطین دست گذاشت.",
+            "تأکید مکرر بر دستاوردهای جنگی پس از هفتم اکتبر، تلاشی مستقیم برای انحراف افکار عمومی از ناکامی‌های امنیتی و جنجال‌های قضایی است."
+        ],
+        "impact": "تزلزل جایگاه سیاسی نتانیاهو در تل‌آویو ریسک رفتارهای تهاجمی‌تر او در سطح منطقه را بالا می‌برد.",
+        "tag": "اسرائیل",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/international/not-a-king-need-your-votes-netanyahu-cries-before-israelis-as-rival-leads-in-opinion-polls/videoshow/134324180.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/international/not-a-king-need-your-votes-netanyahu-cries-before-israelis-as-rival-leads-in-opinion-polls/videoshow/134324180.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134324180,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1789718460.0
+    },
+    {
         "id": "d5b0cdd23f",
         "title_fa": "خاورمیانه در آستانه انفجار؛ بالا گرفتن احتمال درگیری مستقیم با ایران",
         "title_en": "Middle East on the Brink: Iran War Fuels Wider Regional Crisis",
@@ -5477,23 +5496,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-saudi-arabia-153150265.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/5a60c1cd3665d5734fce8e957bb258e6.jpg",
         "timestamp": 1789399862.0
-    },
-    {
-        "id": "3ce49e0199",
-        "title_fa": "حملات مشترک آمریکا و اسرائیل علیه تاسیسات انرژی",
-        "title_en": "U.S., Israel Launch Attacks on Iran – Israel Shuts Down Gas Fields",
-        "summary": [
-            "آمریکا و اسرائیل عملیات نظامی جدیدی علیه ایران کلید زدند.",
-            "اسرائیل به دلیل شرایط امنیتی، بهره‌برداری از میادین گازی خود را متوقف کرد."
-        ],
-        "impact": "بال رفتن ریسک بحران نظامی و شوک به بازارهای انرژی.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFBOVUNWU1RUSmlEMVZZempwdHMzOGt5dlJpUjJXOC12azJ4T0c3Yl9jZlJ0ZXdQUnFaQy1nSlNZNG02WEpNYnV5bEo3TndDR01HVVFCcjNVMk5xbjNHUVJrcE05cy1qblJQUERXTV8zemxlY182MnVwU1k5WDV6WEhWblFxc1BKa01YN0piUGVrVVNxMFUwVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFBOVUNWU1RUSmlEMVZZempwdHMzOGt5dlJpUjJXOC12azJ4T0c3Yl9jZlJ0ZXdQUnFaQy1nSlNZNG02WEpNYnV5bEo3TndDR01HVVFCcjNVMk5xbjNHUVJrcE05cy1qblJQUERXTV8zemxlY182MnVwU1k5WDV6WEhWblFxc1BKa01YN0piUGVrVVNxMFUwVQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789399584.0
     }
 ]
