@@ -293,6 +293,24 @@
         "timestamp": 1789722358.0
     },
     {
+        "id": "f5f96dd4b2",
+        "title_fa": "واکنش مبهم ترامپ درباره نابودی ج.ا",
+        "title_en": "Trump tells NewsNation 'we'll see' on whether to 'annihilate' Iran",
+        "summary": [
+            "دونالد ترامپ در مصاحبه با نیوزنیشن از پاسخ صریح به احتمال اقدام نظامی خودداری کرد.",
+            "او از تمایل تهران برای رسیدن به توافق خبر داد."
+        ],
+        "impact": "افزایش فشار روانی بر حاکمیت تهران در آستانه تحولات جدید سیاسی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "NewsNation on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-weighs-annihilating-iran-as-war-drags-into-seventh-month/ar-AA2cvnPZ",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-weighs-annihilating-iran-as-war-drags-into-seventh-month/ar-AA2cvnPZ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789721031.0
+    },
+    {
         "id": "dcdfd38a93",
         "title_fa": "نمایش قدرت حکومتی در تهران همزمان با تهدیدات ترامپ",
         "title_en": "Iran war live: Tehran holds huge pro-regime march in defiance of Trump",
@@ -810,6 +828,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-defies-trump-s-48-hour-ultimatum-as-he-weighs-annihilate-threat/ar-AA2ctu1m",
         "image": "http://www.bing.com/th?id=ONUT.nJb_UJ2sHNSHogC2mb_SvA&pid=News",
         "timestamp": 1789688237.0
+    },
+    {
+        "id": "1831b8d3ff",
+        "title_fa": "تسلط حوثی‌های یمن بر تنگه استراتژیک باب‌المندب",
+        "title_en": "Explainer",
+        "summary": [
+            "پیشروی سریع نیروهای یمنی تسلط بر این آبراه حیاتی را کامل کرد.",
+            "گروه حوثی از یک شبه‌نظامی محلی به بازیگر تاثیرگذار جهانی تبدیل شده است."
+        ],
+        "impact": "تغییر موازنه قدرت دریایی و تهدید مستقیم امنیت ترانزیت انرژی در دریای سرخ.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-gb/news/world/explainer-how-yemens-houthis-went-from-a-small-mountain-militia-to-a-big-regional-threat/ar-AA2csvqe",
+        "clean_url": "https://www.msn.com/en-gb/news/world/explainer-how-yemens-houthis-went-from-a-small-mountain-militia-to-a-big-regional-threat/ar-AA2csvqe",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2crf1a.img?w=800&h=434&m=4&q=79",
+        "timestamp": 1789687362.0
     },
     {
         "id": "90b41284d9",
@@ -5462,41 +5498,5 @@
         "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-centcom-denies-iran-struck-their-oil-tanker-which-exploded-AJWPEYDB",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/16/Immagini/Ritagli/aereo-U36707275183yQe-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
         "timestamp": 1789434060.0
-    },
-    {
-        "id": "63ebad8426",
-        "title_fa": "استراتژی ترامپ در قبال ایران؛ بازی ابهام و کنترل تنش",
-        "title_en": "President Trump's new strategy on the Iran war: Pretending there isn't one",
-        "summary": [
-            "دونالد ترامپ با انکار درگیری نظامی مستقیم، فضای ابهام مانور واشنگتن را افزایش داده تا بدون پرداخت هزینه سیاسی یک جنگ همه‌جانبه، فشار را حفظ کند.",
-            "این تاکتیک کلامی به معنای کاهش تهدید نیست، بلکه ابزاری برای تنظیم دقیق میزان ضربات نظامی و اقتصادی هدفمند بدون ورود به تله جنگ کلاسیک است."
-        ],
-        "impact": "سردرگمی محاسباتی در تهران و حفظ دست برتر واشنگتن برای تحمیل فشار بدون هزینه جنگ رسمی.",
-        "tag": "سیاست خارجی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Korea Times",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmRLY0JXa0ZJZ2VkbzRWbFFhVjVLaTY0SmlIR3NsRDFLUU5LRVZ2dS1QNTEyQUVlZjVMajNtZFU4QlhKT28yMmhHbHN4OVVNWURGOHZxLTM4OGtPUzBwUzVwWWpSOWVOTlZPbC1MLTRLTmFhWWhHZTlCcWdjSXh3UFM1RnBqUTd1VXFiSFR6aGpOdG9RUHBtWjU5VXZBb0h5U00taE1Yd08zc0Z6OWppZG8yLUo2LTNSNGYxR1BR0gG-AUFVX3lxTE1uZEtjQldrRklnZWRvNFZsUWFWNUtpNjRKaUhHc2xEMUtRTktFVnZ1LVA1MTJBRWVmNUxqM21kVThCWEpPbzIyaEdsc3g5VU1ZREY4dnEtMzg4a09TMHBTNXBZalI5ZU5OVk9sLUwtNEtOYWFZaEdlOUJxZ2NJeHdQUzVGcGpRN3VVcWJIVHpoak50b1FQcG1aNTlVdkFvSHlTTS1oTVh3TzNzRno5amlkbzItSjYtM1I0ZjFHUFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmRLY0JXa0ZJZ2VkbzRWbFFhVjVLaTY0SmlIR3NsRDFLUU5LRVZ2dS1QNTEyQUVlZjVMajNtZFU4QlhKT28yMmhHbHN4OVVNWURGOHZxLTM4OGtPUzBwUzVwWWpSOWVOTlZPbC1MLTRLTmFhWWhHZTlCcWdjSXh3UFM1RnBqUTd1VXFiSFR6aGpOdG9RUHBtWjU5VXZBb0h5U00taE1Yd08zc0Z6OWppZG8yLUo2LTNSNGYxR1BR0gG-AUFVX3lxTE1uZEtjQldrRklnZWRvNFZsUWFWNUtpNjRKaUhHc2xEMUtRTktFVnZ1LVA1MTJBRWVmNUxqM21kVThCWEpPbzIyaEdsc3g5VU1ZREY4dnEtMzg4a09TMHBTNXBZalI5ZU5OVk9sLUwtNEtOYWFZaEdlOUJxZ2NJeHdQUzVGcGpRN3VVcWJIVHpoak50b1FQcG1aNTlVdkFvSHlTTS1oTVh3TzNzRno5amlkbzItSjYtM1I0ZjFHUFE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789432151.0
-    },
-    {
-        "id": "c4257fea18",
-        "title_fa": "دکترین ترامپ؛ امپریالیسم عریان یا فشار حداکثری؟",
-        "title_en": "Donald Trump's Imperialism of Decline Is a Global Menace",
-        "summary": [
-            "سیاست خارجی ترامپ ادامه سنت دیرینه مداخله‌گرایی آمریکا با روشی بی‌پرده‌تر است.",
-            "فشار بر ایران بخشی از رویکرد تاریخی واشنگتن برای حفظ منافع اقتصادی و ژئوپلیتیک خود از طریق ابزارهای نظامی و اقتصادی است."
-        ],
-        "impact": "افزایش ریسک درگیری‌های نظامی و تشدید فشارهای اقتصادی بر ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Jacobin",
-        "url": "https://jacobin.com/2026/09/trump-empire-decline-iran-venezuela",
-        "clean_url": "https://jacobin.com/2026/09/trump-empire-decline-iran-venezuela",
-        "image": "https://media.jacobin.com/images/2026/9/052256579066.jpg",
-        "timestamp": 1789430340.0
     }
 ]
