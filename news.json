@@ -811,6 +811,25 @@
         "timestamp": 1789665240.0
     },
     {
+        "id": "2ef4e558e6",
+        "title_fa": "دور زدن تحریم‌ها؛ استفاده از رمزارز برای عوارض تنگه هرمز",
+        "title_en": "Iran uses bitcoin exchange for Strait of Hormuz tolls, US claims",
+        "summary": [
+            "مقام‌های آمریکایی از راه‌اندازی سیستم دریافت عوارض کشتی‌ها در تنگه هرمز با بیت‌کوین خبر دادند.",
+            "این اقدام تلاشی آشکار برای دور کردن تراکنش‌ها از سیستم بانکی سنتی و خنثی‌سازی تحریم‌های مالی است.",
+            "تنش‌های اقتصادی میان واشنگتن و تهران وارد فاز تازه‌ای از بهره‌گیری از دارایی‌های دیجیتال شده است."
+        ],
+        "impact": "تلاش حاکمیت برای ایجاد کانال مالی موازی و غیرقابل رصد جهت دور زدن تحریم‌های بین‌المللی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-uses-bitcoin-exchange-for-strait-of-hormuz-tolls-us-claims/",
+        "clean_url": "https://cryptobriefing.com/iran-uses-bitcoin-exchange-for-strait-of-hormuz-tolls-us-claims",
+        "image": "http://www.bing.com/th?id=ONUT.nBl392xDzJ-efcBLxi39lg&pid=News",
+        "timestamp": 1789664400.0
+    },
+    {
         "id": "d265bb144c",
         "title_fa": "اخراج دیپلمات سوئدی از تهران؛ پاسخ تلافی‌جویانه به استکهلم",
         "title_en": "Iran expels Swedish diplomat in retaliatory move",
@@ -5481,23 +5500,5 @@
         "clean_url": "https://www.breitbart.com/politics/2026/09/14/iran-security-chief-warns-trump-straits-changed",
         "image": "https://media.breitbart.com/media/2026/09/Iran-Abbas-Araghchi-Mohsen-Rezaie-July2026-getty-640x335.jpg",
         "timestamp": 1789405140.0
-    },
-    {
-        "id": "a4bb39a3d5",
-        "title_fa": "دسترسی نیروهای آمریکایی در خاورمیانه به تسلیحات پیشرفته",
-        "title_en": "Trump says US making more 'elite weapons' than ever, sending them to troops in Mideast",
-        "summary": [
-            "دونالد ترامپ از تولید انبوه تسلیحات پیشرفته و مدرن در ایالات متحده خبر داد.",
-            "این تجهیزات مرگبار و مدرن مستقیماً به دست نیروهای آمریکایی مستقر در منطقه خاورمیانه می‌رسد تا بازدارندگی نظامی در برابر تـهـدیـدات جـمهـوری اسـلامی و نـیـابـتی‌هـایـش تقویت شود."
-        ],
-        "impact": "افزایش حضور و آمادگی نظامی آمریکا در منطقه برای پاسخ به هرگونه سناریوی جنگی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-us-making-more-elite-weapons-than-ever-sending-them-to-troops-in-mideast/ar-AA2cctOW",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-us-making-more-elite-weapons-than-ever-sending-them-to-troops-in-mideast/ar-AA2cctOW",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26252677129777.jpg",
-        "timestamp": 1789404725.0
     }
 ]
