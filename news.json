@@ -314,6 +314,24 @@
         "timestamp": 1789697400.0
     },
     {
+        "id": "daf6280311",
+        "title_fa": "حضور مسعود پزشکیان در رژه نیروهای نظامی تهران",
+        "title_en": "Iran: Pezeshkian joins 'Sacrifice for Iran' parade in Tehran",
+        "summary": [
+            "مسعود پزشکیان در مراسم رژه ای با نام فدای ایران شرکت کرد و بر لزوم اتحاد داخلی تأکید داشت.",
+            "این نمایش قدرت در شرایطی انجام شد که فشارهای خارجی و تحولات منطقه ای وضعیت شکننده ای را ایجاد کرده است."
+        ],
+        "impact": "تلاش برای نمایش ثبات سیاسی و همبستگی داخلی در برابر فشارهای فزاینده بین‌المللی.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Asianet Newsable on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-pezeshkian-joins-sacrifice-for-iran-parade-in-tehran/ar-AA2cuocj",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-pezeshkian-joins-sacrifice-for-iran-parade-in-tehran/ar-AA2cuocj",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789696834.0
+    },
+    {
         "id": "ffa4a53292",
         "title_fa": "جهش قیمت سوخت در پی تنش با تهران؛ امیدها به آچارکشی ترامپ",
         "title_en": "Gas, diesel costs peak from Iran conflict; Capito hopeful Trump can ‘wrap it up’ soon",
@@ -5481,23 +5499,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-says-us-making-more-elite-weapons-than-ever-sending-them-to-troops-in-mideast/ar-AA2cctOW",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26252677129777.jpg",
         "timestamp": 1789404725.0
-    },
-    {
-        "id": "9154e2aabb",
-        "title_fa": "تهدید سخت نتانیاهو؛ ضربات سنگین تری در راه است",
-        "title_en": "Israel fires at people in Shaqra, no casualties reported; over 500 killed in Yemen fighting, says WHO | LIVE",
-        "summary": [
-            "بنیامین نتانیاهو با ادعای نابودی زیرساخت های زیرزمینی حزب الله در جنوب لبنان، به دشمنان هشدار داد.",
-            "اسرائیل خط مشی خود را ادامه انهدام تاسیسات نظامی و حذف هرگونه تهدید امنیتی اعلام کرد."
-        ],
-        "impact": "افزایش احتمال درگیری های نظامی و بسته شدن پنجره دیپلماسی در مرزهای شمالی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "L'Orient Today",
-        "url": "https://today.lorientlejour.com/article/1547447/meeting-scheduled-in-oman-on-strait-of-hormuz-postponed-houthis-report-around-fifty-saudi-airstrikes-live.html",
-        "clean_url": "https://today.lorientlejour.com/article/1547447/meeting-scheduled-in-oman-on-strait-of-hormuz-postponed-houthis-report-around-fifty-saudi-airstrikes-live.html",
-        "image": "https://s.lorientlejour.com/storage/attachments/1548/WhatsAppImage2026-09-14at93938AM_635545.jpeg/r/800/WhatsAppImage2026-09-14at93938AM_635545.jpeg",
-        "timestamp": 1789404360.0
     }
 ]
