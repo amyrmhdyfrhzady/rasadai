@@ -201,6 +201,25 @@
         "timestamp": 1789729207.0
     },
     {
+        "id": "0151861c90",
+        "title_fa": "بازسازی شتاب‌زده تاسیسات اتمی پچین توسط جـ.ا",
+        "title_en": "Satellite images show Iran rapidly rebuilding nuclear facility",
+        "summary": [
+            "تصاویر ماهواره‌ای نشان می‌دهد تاسیسات نظامی طالقان ۲ در مجتمع پارچین پس از حملات اسرائیل به سرعت در حال بازسازی است.",
+            "استفاده از پوشش‌های بزرگ و تجهیزات سنگین ساختمانی نشان‌دهنده تلاش برای پنهان کردن فعالیت‌های زیرزمینی از دید هوایی است.",
+            "دیوید آلبرایت، بازرس سابق سازمان ملل، تایید کرده که این مکان سابقه ارتباط با برنامه‌های تسلیحاتی اتمی دارد."
+        ],
+        "impact": "تشدید تنش‌های امنیتی و فراهم شدن بهانه برای دور جدید حملات علیه زیرساخت‌های اتمی.",
+        "tag": "اتمی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/satellite-images-show-iran-rapidly-175706388.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/satellite-images-show-iran-rapidly-175706388.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/3b08583a5e2da2b3b00defc4a890de293ac5c76a3a9cf4d765f28412119beaeb/lightyear_networkapi/resizefill_w801_h502%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9245ab1f05b1a1b7e2bf6aaaa37cf454.jpg",
+        "timestamp": 1789729020.0
+    },
+    {
         "id": "97aff6846a",
         "title_fa": "عملیات واحدهای مقاومت در ۲۱ شهر ای-ران",
         "title_en": "Resistance Units Conduct 40 Operations Across 21 Iranian Cities to Honor 2022 Uprising Martyrs - National Council of Resistance of Iran",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNYNjNVZ09OclZpU2NSWTVqRjU1NFo1Sk54eEFaQlpvRlFqZXlxRWxERTN6Y1BCN2xYaWY1bGxmbmp4blpRd0xicGQxeDNmeUR4OVJVaG9nYTdzeHgxN3E0SlhYQkI5V0pZRmJXVlRaUlNGcmxoRzhUNjRlNkFaTVgzZ3lGSVJ5U0dQRFhqckhMeTd0MXAwU3k2aUppdw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789438731.0
-    },
-    {
-        "id": "87b39f2207",
-        "title_fa": "تسلط بر باب‌المندب؛ اهرم فشار جدید تهران روی شاهرگ تجارت جهانی",
-        "title_en": "Iran gains leverage with Bab al-Mandab strait under Houthi control",
-        "summary": [
-            "تهران با استفاده از شبه‌نظامیان حوثی، عملاً کنترل یکی از حیاتی‌ترین آبراه‌های جهان را به دست گرفته تا در معادلات بین‌المللی باج‌گیری کند.",
-            "تسلط غیرمستقیم بر باب‌المندب، به رژ*م ایران این امکان را می‌دهد که جریان انتقال نفت و کالاهای اساسی به اروپا را هر زمان که بخواهد مختل کند.",
-            "این وضعیت، ناکارآمدی ائتلاف‌های دریایی غرب در تامین امنیت کشتیرانی آزاد را به تصویر می‌کشد."
-        ],
-        "impact": "افزایش هزینه حمل‌ونقل دریایی و تقویت موضع تهاجمی رژ*م در مذاکرات منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-gains-leverage-with-bab-al-mandab-strait-under-houthi-control/ar-AA2cf2Jj",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-gains-leverage-with-bab-al-mandab-strait-under-houthi-control/ar-AA2cf2Jj",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789437432.0
     }
 ]
