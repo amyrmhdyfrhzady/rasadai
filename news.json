@@ -1,5 +1,24 @@
 [
     {
+        "id": "1e4cc78ea2",
+        "title_fa": "تهدید اتمی و نظامی ترامپ علیه حکوم ت ای ران",
+        "title_en": "Iran War Updates: 2 ships attacked in Strait of Hormuz as Trump says next move could be to \"annihilate\" regime",
+        "summary": [
+            "حمله به دو کشتی تجاری در تنگه هرمز و پذیرش مسئولیت آن توسط عوامل حکومتی، بحران آبراه حیاتی را وارد فاز جدیدی کرده است.",
+            "دونالد ترامپ در آستانه دیدار با رهبران حوزه خلیج فارس از احتمال تصمیم بزرگ برای نابودی حاکمیت ای ران خبر داد.",
+            "وزارت خارجه ایالات متحده برای ضربه زدن به شبکه مالی سپاه پاداش ۱۵ میلیون دلاری تعیین کرد."
+        ],
+        "impact": "افزایش شدید ریسک امنیت دریانوردی در خلیج فارس و صعودی شدن نرخ ارز در بازار.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-oil-houthis/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-oil-houthis",
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/d4b85ea5-1195-4655-944a-56cb6c2d7267/thumbnail/1200x630/a923a7948776243b67276ae326f9c82c/gettyimages-2295261441.jpg",
+        "timestamp": 1789740300.0
+    },
+    {
         "id": "1ffcf2247c",
         "title_fa": "اعتراف واشینگتن‌پست به شکست آمریکا در برابر ایران",
         "title_en": "By nearly every metric, the U.S. is losing the Iran war",
@@ -5480,23 +5499,5 @@
         "clean_url": "https://www.scmp.com/topics/israel-iran-conflict",
         "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.f7171a35.png",
         "timestamp": 1789425240.0
-    },
-    {
-        "id": "3bd54b4052",
-        "title_fa": "خط و نشان تهران برای واشنگتن همزمان با بن‌بست در مذاکرات",
-        "title_en": "Middle East latest: Iran warns US 'won't stop what's coming' in peace talks ultimatum",
-        "summary": [
-            "تهران با هشدار صریح به ایالات متحده اعلام کرده که روند پیش رو متوقف نخواهد شد.",
-            "این موضع‌گیری تند نشان‌دهنده شکست تلاش‌های دیپلماتیک و تشدید تنش‌ها در کانال‌های ارتباطی است."
-        ],
-        "impact": "بسته‌تر شدن روزنه‌های دیپلماسی و افزایش احتمال درگیری‌های مستقیم در منطقه.",
-        "tag": "دیپلماتیک",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-war-latest-live-trump-us-houthis-strait-hormuz-13509565",
-        "clean_url": "https://news.sky.com/story/iran-war-latest-live-trump-us-houthis-strait-hormuz-13509565",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789424880.0
     }
 ]
