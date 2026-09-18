@@ -18,6 +18,25 @@
         "timestamp": 1789745432.0
     },
     {
+        "id": "4607786d88",
+        "title_fa": "حمله پهپادی به تاسیسات نفتی عربستان و اوج‌گیری تنش‌ها",
+        "title_en": "There’s only one way to defeat the Houthis",
+        "summary": [
+            "مبدأ پهپادهای مهاجم به خط لوله نفت عربستان خاک عراق گزارش شده که ردپای عوامل وابسته به تـهـران را برجسته می‌کند.",
+            "همزمان با این حمله، پیشروی نیروهای حـوثـی در سواحل یمن و تنگه باب‌المندب نشان‌دهنده یک سناریوی هماهنگ برای بحران‌آفرینی است.",
+            "بهای نفت پس از این حملات دوباره از مرز صد دلار عبور کرد تا فشار اقتصادی جنگ بر بازار جهانی بیشتر شود."
+        ],
+        "impact": "جهش قیمت نفت و افزایش ضرب‌پذیری زیرساخت‌های انرژی در خاورمیانه.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Telegraph",
+        "url": "https://www.yahoo.com/news/politics/articles/only-one-way-defeat-houthis-150559975.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/only-one-way-defeat-houthis-150559975.html",
+        "image": "https://media.zenfs.com/en/the_telegraph_258/5b2ed89857baac0b7aff8f507c3763f9.jpg",
+        "timestamp": 1789744862.0
+    },
+    {
         "id": "1f527cebf1",
         "title_fa": "ثبت ۴۲۱۹ کشته در اعتراضات اخیر ایران توسط نهادهای حقوق بشری",
         "title_en": "Rights group names 4,219 killed in Iran protests, a tenth of figures cited before US-Israeli war",
@@ -5478,24 +5497,6 @@
         "url": "https://www.msn.com/en-us/politics/international-relations/iran-war-live-us-forces-reject-claim-that-mines-blew-up-tanker/ar-AA2ceLKA",
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-war-live-us-forces-reject-claim-that-mines-blew-up-tanker/ar-AA2ceLKA",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789430340.0
-    },
-    {
-        "id": "d20e68ef3d",
-        "title_fa": "هشدار جدی ریاض به حوثی‌های وابسته به ت--هران",
-        "title_en": "Saudi Arabia warns it will react 'firmly' to Houthi attacks",
-        "summary": [
-            "حملات موشکی و پهپادی گروه‌های نیابتی به جنوب خاک عربستان زخمی شدن غیرنظامیان را به دنبال داشت.",
-            "ریاض در واکنش به این تجاوزات، وعده پاسخ قاطع و سخت داده است."
-        ],
-        "impact": "افزایش ریسک تنش نظامی در مرزهای جنوبی و بی‌ثباتی امنیتی در منطقه.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-warns-it-will-react-firmly-to-houthi-attacks/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-warns-it-will-react-firmly-to-houthi-attacks",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789430340.0
     }
 ]
