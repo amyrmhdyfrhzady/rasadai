@@ -221,6 +221,25 @@
         "timestamp": 1789718384.0
     },
     {
+        "id": "925f528808",
+        "title_fa": "ترک خوردن دیوار تنش‌زدایی میان تهران و ریاض",
+        "title_en": "The cost of Iran’s regional leverage",
+        "summary": [
+            "توافق پکن تنها فرصتی برای مدیریت رقابت‌ها بود و نتوانست رقیب‌تراشی‌های منطقه‌ای را متوقف کند.",
+            "حملات پهپادی و موشکی به خاک عربستان و تعویق مذاکرات عمان، سازوکار شکننده دیپلماتیک را در آستانه فروپاشی قرار داده است.",
+            "تهران در یک بن‌بست راهبردی گیر افتاده است؛ حفظ نفوذ منطقه‌ای از طریق نیروهای نیابتی دیگر با دیپلماسی همسایگی همخوانی ندارد."
+        ],
+        "impact": "بازگشت سایه تهدیدهای امنیتی به روابط خلیج فارس و ناامیدی از تداوم تنش‌زدایی.",
+        "tag": "منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
+        "clean_url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260916__C8H86MQ__v1__MidRes__YemenIranUsIsraelWar-1789581728.jpg?resize=1200%2C630",
+        "timestamp": 1789714320.0
+    },
+    {
         "id": "e8ac122e91",
         "title_fa": "ادعای سازمان ملل درباره حمله هوایی آمریکا به مدرسه در ايران",
         "title_en": "UN mission: US strike that hit Iran school was ‘indiscriminate,’ likely a war crime",
@@ -5479,24 +5498,5 @@
         "clean_url": "https://news.sky.com/story/iran-war-latest-live-trump-us-houthis-strait-hormuz-13509565",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789424880.0
-    },
-    {
-        "id": "5922c0d054",
-        "title_fa": "ادعای ترامپ درباره سقوط قیمت نفت پس از پایان درگیری با ج.ه.ا",
-        "title_en": "US Air Force colonel shot down over Iran recounts 'modern-day miracle'",
-        "summary": [
-            "دونالد ترامپ تورم آمریکا را نتیجه سیاست‌های دولت جو بایدن دانست.",
-            "ترامپ از آمادگی برای مذاکره خبر داد اما مقامات ارشد تـهـران شرط گذاشتند.",
-            "مقامات تـهـران اعلام کردند تا زمانی که خواسته‌هایشان برآورده نشود پای میز مذاکره نمی‌روند."
-        ],
-        "impact": "بازار نفت منتظر سرنوشت تنش‌ها و موضع‌گیری‌های واشنگتن و تـهـران است.",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-air-force-colonel-shot-down-over-iran-recounts-modern-day-miracle",
-        "clean_url": "https://www.foxnews.com/live-news/us-air-force-colonel-shot-down-over-iran-recounts-modern-day-miracle",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/8bbea49dd354b3a9d1227235f0f74b74.jpg",
-        "timestamp": 1789423140.0
     }
 ]
