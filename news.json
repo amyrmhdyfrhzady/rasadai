@@ -34,6 +34,24 @@
         "timestamp": 1789832309.0
     },
     {
+        "id": "1e03c6310f",
+        "title_fa": "گیر افتادن واشنگتن در باتلاق مناقشه با تهران",
+        "title_en": "Expert Says the US Is Struggling to Exit the Iran War as Costs Mount",
+        "summary": [
+            "یک تحلیلگر ترک معتقد است آمریکا به دلیل هزینه‌های بالای نظامی و اقتصادی، راه خروجی از درگیری با ایران پیدا نمی‌کند.",
+            "فشارهای لابی اسرائیل و تصمیمات راهبردی غلط، واشنگتن را در یک مخمصه طولانی‌مدت گرفتار کرده است."
+        ],
+        "impact": "افزایش هزینه‌های راهبردی ایالات متحده در خاورمیانه بدون دستاورد مشخص",
+        "tag": "تحلیلی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Mezha",
+        "url": "https://mezha.net/eng/news/17d974d5_expert_says_the/",
+        "clean_url": "https://mezha.net/eng/news/17d974d5_expert_says_the",
+        "image": "https://mezha.net/eng/kd_image_generate/17d974d5_expert_says_the/3724320.jpg?ver=2.0.15",
+        "timestamp": 1789830060.0
+    },
+    {
         "id": "942931ff6c",
         "title_fa": "مخالفت کره جنوبی با درخواست ترامپ برای اعزام نیرو",
         "title_en": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call",
@@ -384,6 +402,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUYxWXU0ZTFwaWtCOWZCVzJyNHJoU0ZnMzBkZm5NU283TE45ZzM0bVpKUEpubExlM0hQeV9sZjZ0M3BabGFDaUI0d1c2QS1SN183cGlPaXo3cE5ld0NBRXotajY3UkhaTm51M3R3eXJNYnlObGFDYzhWaXc2N1Y2aWxFUC1HT1d2Ml9nNUZvYXExVzJJdzR1ekR5RG9mcThpVmw0NlQtX1c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789772316.0
+    },
+    {
+        "id": "6340456837",
+        "title_fa": "اعدام یک متهم به جاسوسی برای موساد در اصفهان",
+        "title_en": "US-Israel-Iran war latest live news: Iran executes Hossein Pedram after Mossad spying conviction over classified military sites in Isfahan",
+        "summary": [
+            "حکومت حسین پدرام را به اتهام انتقال اطلاعات محرمانه مراکز نظامی اصفهان به موساد اعدام کرد.",
+            "این اقدام همزمان با تشدید درگیری‌های اطلاعاتی و امنیتی میان تهران و تل‌آویو رسانه‌ای شد."
+        ],
+        "impact": "افزایش فضای امنیتی و پاکسازی‌های داخلی با شدت گرفتن سایه جنگ",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/general/general/us-israel-iran-war-latest-live-news-iran-executes-hossein-pedram-after-mossad-spying-conviction-over-classified-military-sites-in-isfahan/ar-AA2czivA",
+        "clean_url": "https://www.msn.com/en-in/general/general/us-israel-iran-war-latest-live-news-iran-executes-hossein-pedram-after-mossad-spying-conviction-over-classified-military-sites-in-isfahan/ar-AA2czivA",
+        "image": "http://www.bing.com/th?id=ONUT.fExEyesPpHsLbEKkGUFcTw&pid=News",
+        "timestamp": 1789772040.0
     },
     {
         "id": "4c91f79779",
@@ -5460,42 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789477196.0
-    },
-    {
-        "id": "47a654c851",
-        "title_fa": "افت شاخص‌های بورس مسکو همزمان با عقب‌نشینی سرمایه‌گذاران",
-        "title_en": "Russian indices decline as trading closes on Moscow Exchange",
-        "summary": [
-            "بازار سهام روسیه روز معاملاتی را با نزول به پایان رساند و شاخص اصلی بورس مسکو بیش از یک درصد افت کرد.",
-            "کارشناسان بازار مالی معتقدند این افت ناشی از شناسایی سود توسط سرمایه‌گذاران پس از یک رشد هیجانی بوده است."
-        ],
-        "impact": "نوسان منفی در بازارهای مالی روسیه و افت ارزش سهام بخش مسکن",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2188043",
-        "clean_url": "https://tass.com/economy/2188043",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789477020.0
-    },
-    {
-        "id": "b75ee830d6",
-        "title_fa": "خالی شدن تنگه هرمز و تکاپوی تهران برای باج‌دهی به چین",
-        "title_en": "Hormuz traffic plunges as Iran prepares China talks",
-        "summary": [
-            "افت چشمگیر تردد نفتکش‌ها در تنگه هرمز، از ترس شدید شرکت‌های حمل‌ونقل دریایی و بیمه‌ها از بازگشت تحریم‌های سخت‌گیرانه حکایت دارد.",
-            "رژ*یم تهران که منبع اصلی درآمد خود را در خطر می‌بیند، سراسیمه به دنبال باج دادن به چین برای تضمین خرید نفت است.",
-            "این کاهش ترافیک، شریان مالی ج.ا را مستقیماً فلج کرده و موضع آن‌ها را در مذاکرات با پکن به شدت ضعیف می‌کند."
-        ],
-        "impact": "کاهش شدید درآمدهای نفتی ج.ا و جهش دوباره قیمت دلار در بازار تهران.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZkdzb3RPQ2FtanhOUEZ1eTBzbUNrai1weFNVVzFtU0dGY0Rtb2ZFN01feW9LZV9VbUlGbjVkT2I4VGprRGpibTZjYThWamRNN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZkdzb3RPQ2FtanhOUEZ1eTBzbUNrai1weFNVVzFtU0dGY0Rtb2ZFN01feW9LZV9VbUlGbjVkT2I4VGprRGpibTZjYThWamRNN3c",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789476871.0
     }
 ]
