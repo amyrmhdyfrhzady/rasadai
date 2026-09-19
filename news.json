@@ -18,6 +18,25 @@
         "timestamp": 1789777665.0
     },
     {
+        "id": "b63fd1bc5d",
+        "title_fa": "پکن به دنبال میانجیگری بین تــهـران و واشنگتن",
+        "title_en": "Tehran sees Beijing as potential bridge to Washington",
+        "summary": [
+            "وزیر خارجه چین در دیدار با وزیر خارجه جـمـهـورۍ اسـلا‌مـۍ آمادگی پکن را برای نقش‌آفرینی در حل تنش‌های بین‌المللی اعلام کرد.",
+            "مقام‌های تــهـران حساب ویژه‌ای روی پکن باز کرده‌اند و توافقات با چین را تعیین‌کننده توازن استراتژیک منطقه می‌دانند.",
+            "این دیدار در آستانه نشست شی جین‌پینگ و ترامپ در واشنگتن صورت گرفته که پرونده ایران یکی از محورهای آن است."
+        ],
+        "impact": "تلاش دیپلماتیک تـهـران برای استفاده از کارت چین جهت کاهش فشارها و گشایش در بن‌بست مذاکرات با آمریکا.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609184967",
+        "clean_url": "https://www.iranintl.com/en/202609184967",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/dda014cfd84cdab7e2797308c93613ad4d1ce412-600x585.jpg?rect=15,160,558,293&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789772400.0
+    },
+    {
         "id": "b3187a2e36",
         "title_fa": "پرواز ده درصدی قیمت نفت؛ هجوم بازار به سوی نفت صد دلاری",
         "title_en": "Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say",
@@ -5479,23 +5498,5 @@
         "clean_url": "https://theconversation.com/irans-threat-to-cut-undersea-cables-in-strait-of-hormuz-poses-a-serious-threat-to-gulf-states-291618",
         "image": "https://images.theconversation.com/files/759685/original/file-20260914-50-q5e0c4.jpg?ixlib=rb-4.1.1&rect=0%2C417%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
         "timestamp": 1789446360.0
-    },
-    {
-        "id": "8bceab904c",
-        "title_fa": "شرط‌گذاری محسن رضایی برای مذاکره با وجود پیشنهاد ترامپ",
-        "title_en": "After Trump floats talks, Iran security chief rejects negotiations until ‘conditions’ met",
-        "summary": [
-            "دبیر شورای عالی امنیت ملی اعلام کرد تهران تنها در صورت برآورده شدن تمامی شرایط خود پای میز مذاکره می‌آید.",
-            "او با اشاره به تغییر معادلات پیرامون نفت و تنگه‌ها، به نوعی بر حفظ اهرم‌های فشار منطقه‌ای تاکید کرد."
-        ],
-        "impact": "مقاومت مقامات ارشد جمهوری اسلامی در برابر فشارهای واشنگتن، بن‌بست دیپلماتیک را تشدید می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/after-trump-floats-talks-iran-security-chief-rejects-negotiations-until-conditions-met/",
-        "clean_url": "https://www.timesofisrael.com/after-trump-floats-talks-iran-security-chief-rejects-negotiations-until-conditions-met",
-        "image": "http://www.bing.com/th?id=ONUT.lQ0Z2gTE11r4nbQaen8-tA&pid=News",
-        "timestamp": 1789446060.0
     }
 ]
