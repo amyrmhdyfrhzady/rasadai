@@ -293,6 +293,25 @@
         "timestamp": 1789750800.0
     },
     {
+        "id": "ceaed211cb",
+        "title_fa": "فشار ترامپ به سئول و بازسازی سایت اتمی طالقان",
+        "title_en": "Live Updates: Yemen conflict displaces 112,000 as EU raises alert over Houthi attacks on ships",
+        "summary": [
+            "دونالد ترامپ کره جنوبی را به دلیل ناکافی بودن حمایت از فشارهای واشنگتن علیه ایران زیر ذره‌بین برده است.",
+            "گزارش‌ها نشان می‌دهد جمهوری اسلامی در حال بازسازی سایت اتمی طالقان است.",
+            "اتحادیه اروپا نسبت به حملات دریایی حوثی‌ها هشدار داد و ترکیه نیز مجوز فعالیت بانک ملت ایران را باطل کرد."
+        ],
+        "impact": "تشدید فشارهای بین‌المللی و اقتصادی علیه شبکه مالی و فعالیت‌های اتمی تهران.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-19/live-updates-909093",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-19/live-updates-909093",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738446",
+        "timestamp": 1789748220.0
+    },
+    {
         "id": "bb7dc440f5",
         "title_fa": "فشار تحریم‌ها روی ماهان‌ایر؛ ترکیه و عمان پروازها را بستند",
         "title_en": "US says Iran sanctions working, as Turkey, Oman suspend Mahan Air flights",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkhYY0VfN1MwYXY1d0x5V0Z2cDcwRXBDUFBZeGYzNEJtUm1NM2poZDhHLTNRem1lVGlfZGs2VEhvTnlPcWR1WGhwWFpFNHJMU2w5cnh3WXlyY2h1bTJJbnRmSmFRMThNTldVVWhlbnRVRFVEaGNxS25zWF83Zlc3SE91eTREcXBzOEcwNTVGNGljNy13UVh3STlNQmFpcTNiRHZ1NWJYMmNqMXM",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789463280.0
-    },
-    {
-        "id": "517c9ba9cb",
-        "title_fa": "فلج نسبی تنگه هرمز و اختلال در پروازهای منطقه",
-        "title_en": "US-Iran conflict: What UAE residents need to know today (Sept. 15)",
-        "summary": [
-            "ترافیک نفتکش‌ها و کشتی‌ها در تنگه هرمز با وجود نشانه‌های ضعیف بازگشایی، همچنان بسیار پایین‌تر از حد نرمال است.",
-            "شرکت‌های هواپیمایی بزرگ منطقه مانند ایرعربیا، امارات و فلای‌دبی ناچار به لغو یا تاخیر در پروازهای خود شده‌اند.",
-            "بازارهای انرژی و مسیرهای حیاتی هوانوردی خلیج فارس همچنان زیر سایه سنگین تنش‌های میان ایـالـات مـتـحـده و جـمـهـورۍ اسـلامـی قرار دارند."
-        ],
-        "impact": "افزایش ریسک در شریان‌های حیاتی انرژی و حمل‌ونقل خلیج فارس و بالا رفتن هزینه‌های بیمه دریایی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Gulf News",
-        "url": "https://gulfnews.com/uae/us-iran-conflict-what-uae-residents-need-to-know-today-sept-15-1.500674807",
-        "clean_url": "https://gulfnews.com/uae/us-iran-conflict-what-uae-residents-need-to-know-today-sept-15-1.500674807",
-        "image": "https://media.assettype.com/gulfnews/2026-08-28/rrr4k1qn/Screenshot-2026-08-28-at-10.22.00-AM.png?w=320&auto=format,compress&fit=max",
-        "timestamp": 1789459200.0
     }
 ]
