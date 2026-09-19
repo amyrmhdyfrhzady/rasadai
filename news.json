@@ -386,6 +386,25 @@
         "timestamp": 1789736073.0
     },
     {
+        "id": "1c985bfd6d",
+        "title_fa": "تهدیدهای تکراری امام جمعه قم درباره انتقام",
+        "title_en": "Qom cleric praises revenge calls at nightly pro-government rallies",
+        "summary": [
+            "محمد سعیدی در خطبه‌های نماز جمعه قم از تجمع‌های شبانه حکومتی و شعارهای انتقام‌جویانه حمایت کرد.",
+            "او مدعی شد هواداران حکومتی بیش از ۲۰۰ شب است که در خیابان‌ها حضور دارند.",
+            "مقام‌های جـ.ـمهوری اسـ.ـلامی همچنان با اتکا به نیروهای سایبری و اقماری خود به دنبال حفظ روحیه بدنه رو به ریزش هستند."
+        ],
+        "impact": "تلاش برای نمایش پایداری حکومت در بحران‌های داخلی و منطقه‌ای با چاشنی تهدید نظامی.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609189917",
+        "clean_url": "https://www.iranintl.com/en/202609189917",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1789735740.0
+    },
+    {
         "id": "4b537d3765",
         "title_fa": "تهدید ترامپ به تشدید حملات در واکنش به انسداد نفتی",
         "title_en": "Iran Says Oil Blockade Will Continue Until Attacks End, Trump Threatens to Escalate Strikes",
@@ -5481,23 +5500,5 @@
         "clean_url": "https://www.israelnationalnews.com/news/433171",
         "image": "https://2.a7.org/files/pictures/000/1060635.jpg",
         "timestamp": 1789452900.0
-    },
-    {
-        "id": "4a1db15946",
-        "title_fa": "بررسی دیپلماسی روسای جمهور آمریکا در تاریخ",
-        "title_en": "Presidential diplomacy: 25 historical examples shaping us po",
-        "summary": [
-            "نگاهی به نقش روسای جمهور گذشته در شکل‌دهی به سیاست خارجی آمریکا",
-            "تحلیل تصمیمات کلیدی رهبران تاریخی در عرصه بین‌الملل"
-        ],
-        "impact": "آشنایی با روند تصمیم‌گیری‌های کلان در ساختار قدرت ایالات متحده.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "list25",
-        "url": "https://www.msn.com/en-us/news/other/presidential-diplomacy-25-historical-examples-shaping-us-po/ar-AA2cftXH",
-        "clean_url": "https://www.msn.com/en-us/news/other/presidential-diplomacy-25-historical-examples-shaping-us-po/ar-AA2cftXH",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789452326.0
     }
 ]
