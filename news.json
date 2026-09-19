@@ -71,6 +71,24 @@
         "timestamp": 1789833214.0
     },
     {
+        "id": "b4665b381b",
+        "title_fa": "تبدیل حوثی‌ها از شبه‌نظامیان کوهستان به اهرم فشار منطقه‌ای",
+        "title_en": "How Yemen's Houthis evolved from mountain militia into regional threat",
+        "summary": [
+            "شبه‌نظامیان حوثی یمن با دریافت تجهیزات پیشرفته از یک نیروی چریکی محلی به ارتشی مجهز به موشک‌های دوربرد و پهپاد تبدیل شدند.",
+            "تمرکز عملیاتی این جریان اکنون بر فلج کردن شریان‌های حیاتی دریانوردی در دریای سرخ و باج‌گیری راهبردی از غرب و بازیگران منطقه‌ای است."
+        ],
+        "impact": "تثبیت ناامنی در گذرگاه‌های دریایی بین‌المللی و جهش هزینه‌های بیمه و ترانزیت کالا.",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Daily Sun",
+        "url": "https://www.daily-sun.com/world/898677",
+        "clean_url": "https://www.daily-sun.com/world/898677",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789833120.0
+    },
+    {
         "id": "f5b284b7fb",
         "title_fa": "اجرای حکم اعدام به اتهام جاسوسی موشکی",
         "title_en": "Iran executes man accused of providing missile info to Israel: judiciary",
@@ -342,6 +360,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-smoke-seen-near-riyadh-airport-after-houthis-vowed-revenge/ar-AA2ct6HW",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789803722.0
+    },
+    {
+        "id": "f4417d0b93",
+        "title_fa": "به صدا درآمدن آژیر خطر و وقوع انفجار در ریاض",
+        "title_en": "Saudi Arabia issues first alert in the capital since escalation, and other...",
+        "summary": [
+            "سامانه‌های هشدار پدافندی عربستان در پی ورود اهداف متخاصم به آسمان ریاض فعال شدند و شاهدان از برخاستن دود در نزدیکی فرودگاه پایتخت خبر دادند.",
+            "هم‌زمان با آتش‌باری‌های منطقه‌ای، تهران شروط مدنظر خود برای آتش‌بس را از کانال قطر به واشینگتن فرستاده است.",
+            "هم‌زمانی سیگنال‌های دیپلماتیک با حملات هوایی نشان‌دهنده تلاش برای تحمیل شروط با ابزار فشار نظامی است."
+        ],
+        "impact": "کشیده شدن مجدد عمق پایتخت سعودی به دایره اصابت‌های پهپادی و افزایش تنش در مذاکرات پشت‌پرده.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Associated Press",
+        "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
+        "image": "https://media.zenfs.com/en/ap.org/cee94b7f9c694f90dda2330a0eedaafc.jpg",
+        "timestamp": 1789800657.0
     },
     {
         "id": "52ce05ba09",
@@ -5459,42 +5496,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-soar-global-oil-152716646.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/b38318330c92ac93a081252350c20f53.jpg",
         "timestamp": 1789487748.0
-    },
-    {
-        "id": "60b188e8f7",
-        "title_fa": "طرح استیضاح وزیر دفاع آمریکا به دلیل جنگ با تهران",
-        "title_en": "Massie introduces impeachment articles against Hegseth over Iran war",
-        "summary": [
-            "توماس مسی، نماینده مخالف مداخله نظامی، طرح استیضاح پیت هگست وزیر دفاع ترامپ را به اتهام دور زدن کنگره در جریان جنگ با حکومت تهران کلید زد.",
-            "این اقدام پرده از شکاف عمیق در واشنگتن بر سر حدود اختیارات جنگی رئیس‌جمهور و ترس از شعله‌ور شدن یک درگیری نظامی بی‌رویه در خاورمیانه برمی‌دارد.",
-            "هگست متهم است که با نقض قانون اختیارات جنگی ۱۹۷۳، بدون هماهنگی و کسب مجوز از پارلمان، نیروهای نظامی را وارد فاز عملیاتی کرده است."
-        ],
-        "impact": "ایجاد مانع قانونی جدی در مسیر باز گذاشتن دست پنتاگون برای حملات نظامی ضربتی علیه تهران",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/massie-introduces-impeachment-articles-against-214211487.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/massie-introduces-impeachment-articles-against-214211487.html",
-        "image": "http://www.bing.com/th?id=ONUT.3v8GStkOsS2UgKOtct8w8g&pid=News",
-        "timestamp": 1789485540.0
-    },
-    {
-        "id": "1560a4dc79",
-        "title_fa": "نقش کلیدی پکن، دهلی و مسکو در مهار جنگ",
-        "title_en": "Only China, India, and Russia Can End the Iran War",
-        "summary": [
-            "موازنه قدرت جهانی نشان می‌دهد که بازیگران کلیدی خارج از غرب ابزارهای اصلی را در دست دارند.",
-            "وابستگی انرژی این کشورها به منطقه، آن‌ها را ناچار به دخالت دیپلماتیک می‌کند."
-        ],
-        "impact": "ابتکار عمل برای پایان درگیری‌ها به جای غرب، به دست قدرت‌های شرقی افتاده است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Quincy Institute for Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa24yZ0x6MWFjY0FkWFFGVkYzZlJvVFFfSV90dnhyS3k5eE1IbG0zQ3hnZ2lvWTVNeV85dFFBTHFHck00Unh2MXFGUTBGYVMzZ1BnNHlBaHRYWFpuTmFQWW5PQTUtLWxuSUtHU2E5Yl9GbTFETVlvZDRGeHQwMmNYX3lBRDRSWE13LUJZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa24yZ0x6MWFjY0FkWFFGVkYzZlJvVFFfSV90dnhyS3k5eE1IbG0zQ3hnZ2lvWTVNeV85dFFBTHFHck00Unh2MXFGUTBGYVMzZ1BnNHlBaHRYWFpuTmFQWW5PQTUtLWxuSUtHU2E5Yl9GbTFETVlvZDRGeHQwMmNYX3lBRDRSWE13LUJZ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789483976.0
     }
 ]
