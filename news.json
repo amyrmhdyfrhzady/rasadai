@@ -234,6 +234,25 @@
         "timestamp": 1789832309.0
     },
     {
+        "id": "e259af0769",
+        "title_fa": "خطر نابودی چاه‌های نفت ایران به دلیل تحریم و توقف تولید",
+        "title_en": "Will shutdowns forced by US blockade damage Iran’s oil wells?",
+        "summary": [
+            "کاهش شدید بارگیری نفت، جـ....هـ....وری اسـ....لامی را به سمت کاهش اجباری تولید کشانده است.",
+            "برخلاف ادعای وزیر نفت، بستن چاه‌ها آسیب جبران‌ناپذیری به مخازن فرسوده و فشار آن‌ها وارد می‌کند.",
+            "توقف استخراج تنها به معنای از دست رفتن فروش نیست، بلکه هزینه سنگینی برای راهکارهای فنی مجدد دارد."
+        ],
+        "impact": "آسیب ساختاری به مخازن نفت، ظرفیت صادراتی کشور را پس از رفع تحریم‌ها نیز به شدت محدود می‌کند.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609190748",
+        "clean_url": "https://www.iranintl.com/en/202609190748",
+        "image": "http://www.bing.com/th?id=ONUT.Ekig_ZPiSraKZYZZ1s0wwQ&pid=News",
+        "timestamp": 1789830900.0
+    },
+    {
         "id": "1e03c6310f",
         "title_fa": "گیر افتادن واشنگتن در باتلاق مناقشه با تهران",
         "title_en": "Expert Says the US Is Struggling to Exit the Iran War as Costs Mount",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BaGNBVmgzX1NBVTBQU0JablF4M0t4VjFoYVgwa2s5WU9YUkZSeENTVG1rVEhxaHEzWkstdXRIS1hlZnpVanFyVWlpSmpTS1RtWmhLY1JHVFhZamdadG94bEN0RFo3TElCTzl1X1k2aE5tREl1SV9WNWxBNA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789495241.0
-    },
-    {
-        "id": "9c4e3b5617",
-        "title_fa": "کمین سپاه برای شکار پهپادها و شناورهای جاسوسی آمریکا در تنگه هرمز",
-        "title_en": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
-        "summary": [
-            "شناسی و تصرف شناورهای بدون سرنشین آمریکا در خلیج فارس با هدف دست‌یابی به فناوری‌های حساس و دستکاری سامانه‌های هدایت هدایت می‌شود.",
-            "تمرکز بر مهندسی معکوس تجهیزات جاسوسی دریاپایه، بخشی از استراتژی سپاه برای کور کردن اشراف اطلاعاتی سنتکام در منطقه است.",
-            "این عملیات‌های هماهنگ خطر برخورد مستقیم نظامی در تنگه هرمز را به شدت افزایش می‌دهد."
-        ],
-        "impact": "بالا رفتن ریسک امنیت دریانوردی در خلیج فارس و احتمال واکنش تلافی‌جویانه نیروی دریایی آمریکا.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/technology/general/iran-s-drone-hunt-escalates-as-tehran-targets-us-spy-tech-to-expose-battlefield-secrets/ar-AA2cjlzi",
-        "clean_url": "https://www.msn.com/en-us/technology/general/iran-s-drone-hunt-escalates-as-tehran-targets-us-spy-tech-to-expose-battlefield-secrets/ar-AA2cjlzi",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789494970.0
     }
 ]
