@@ -34,6 +34,24 @@
         "timestamp": 1789832309.0
     },
     {
+        "id": "942931ff6c",
+        "title_fa": "مخالفت کره جنوبی با درخواست ترامپ برای اعزام نیرو",
+        "title_en": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call",
+        "summary": [
+            "رئیس‌جمهور کره جنوبی درخواست ترامپ برای اعزام نیروی نظامی به منطقه در تقابل با ایران را به طور رسمی رد کرد.",
+            "سئول نمی‌خواهد تمرکز دفاعی خود را از تهدیدهای مستقیم کره شمالی منحرف کند یا هزینه‌های درگیری در خاورمیانه را بپذیرد."
+        ],
+        "impact": "کاهش همراهی متحدان آسیایی واشنگتن در ائتلاف‌سازی‌های جدید علیه ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3Nzd1dtRmJZSnYxQUdkU0FlcUpkZG9Oc0dKMFJVLXhsV05obWZmTFBIT0J2WlRKWUhVTXNCa3dfUzNhb2VXNHgwbW5vcVAxeFd0VmNCbEtwWkQ3aUNfcTVsbWhkSUN6cWxKanFGSk1LbHdRLURQbGg3VWtIbnVHclA5cWsxZy1TVm5ETXR3LVdqbXFUaHJkQ29mMWlGdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3Nzd1dtRmJZSnYxQUdkU0FlcUpkZG9Oc0dKMFJVLXhsV05obWZmTFBIT0J2WlRKWUhVTXNCa3dfUzNhb2VXNHgwbW5vcVAxeFd0VmNCbEtwWkQ3aUNfcTVsbWhkSUN6cWxKanFGSk1LbHdRLURQbGg3VWtIbnVHclA5cWsxZy1TVm5ETXR3LVdqbXFUaHJkQ29mMWlGdw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789829650.0
+    },
+    {
         "id": "455d08d620",
         "title_fa": "طومار اعتراضی نام کودکان قربانی غزه مقابل سازمان ملل",
         "title_en": "Interfaith group unveil 100-meter shroud with names of 20,000 children killed in Gaza war at UN",
@@ -68,6 +86,25 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-media-reports-two-killed-several-hurt-in-israeli-strike-in-gaza-city",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789825380.0
+    },
+    {
+        "id": "06ecb17655",
+        "title_fa": "حضور کارشناسان س‌پاه در باب‌المندب و تجهیز موشکی-راداری حوثی‌ها",
+        "title_en": "IRGC experts visit Bab el-Mandeb, Iranian equipment reaches Houthis",
+        "summary": [
+            "کارشناسان س‌پاه با حضور در بندر مخا و فرودگاه آن، هدایت مستقیم پروژه‌های راداری حوثی‌ها در باب‌المندب را بر عهده گرفته‌اند.",
+            "تجهیزات جدید تسلیحاتی ایران از طریق سواحل سومالی و به‌صورت کاملاً مخفیانه وارد مناطق تحت کنترل حوثی‌ها شده است.",
+            "نصب رادارهای جدید روی ارتفاعات مشرف به دریای سرخ، هدف‌گیری کشتی‌های تجاری را برای نیروهای نیابتی ساده‌تر می‌کند."
+        ],
+        "impact": "افزایش ریسک دریانوردی تجاری در باب‌المندب و احتمال بالای پاسخ نظامی مستقیم سنتکام به مقرهای راداری.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609192570",
+        "clean_url": "https://www.iranintl.com/en/202609192570",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1789817400.0
     },
     {
         "id": "c86a76f268",
@@ -5459,41 +5496,5 @@
         "clean_url": "https://www.bankingnews.gr/diethni/articles/899398/how-we-lost-the-war-with-iran-shock-findings-on-us-military-collapse-houthis-close-tehran-s-trap+title=",
         "image": "https://www.bankingnews.gr/image/12_309.jpg",
         "timestamp": 1789472220.0
-    },
-    {
-        "id": "c0d9e48eff",
-        "title_fa": "هزینه نجومی درگیری با ایران روی دوش مالیات‌دهندگان آمریکایی",
-        "title_en": "Iran war could cost $2 billion per month, Congressional Budget Office estimates",
-        "summary": [
-            "دفتر بودجه کنگره آمریکا اعلام کرد جنگ با ایران ماهانه دو میلیارد دلار خرج روی دست واشنگتن می‌گذارد.",
-            "مجموع هزینه‌های مستقیم این درگیری در بازه زمانی چند ماهه به رقم سرسام‌آور ۳۸ میلیارد دلار رسیده است."
-        ],
-        "impact": "فشار مالی سنگین درگیری‌ها بر اقتصاد آمریکا و افزایش هزینه‌های نظامی واشنگتن",
-        "tag": "اقتصادی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-war-could-cost-2-billion-per-month-congressional-budget-office-estimates/ar-AA2chI7t",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-war-could-cost-2-billion-per-month-congressional-budget-office-estimates/ar-AA2chI7t",
-        "image": "http://www.bing.com/th?id=ONUT.rienERuXX4piRKrVLnTO6w&pid=News",
-        "timestamp": 1789471900.0
-    },
-    {
-        "id": "7585864c3d",
-        "title_fa": "افشای خسارت‌های سنگین نظامی ایالات متحده در منطقه",
-        "title_en": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد حملات منسوب به جبهه مقابل به تاسیسات و تجهیزات آمریکایی آسیب جدی زده است.",
-            "ده‌ها فروند هواپیما و صدها ساختمان هدف قرار گرفته‌اند که نشان‌دهنده شکست سامانه‌های دفاعی در دفع برخی حملات است."
-        ],
-        "impact": "این ارزیابی‌ها فشار سیاسی بر دولت آمریکا برای پاسخگویی درباره امنیت نیروهایش در منطقه را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0xBM2hYamtNRV83VktFTTV3UXBqdFNHNmN5dHZ5NEdHSE1oZ0JaMHlQaUMzcnBUc0hPM0ozOFJ3MlBUZ1NQY0NBRUxVX1NqazNrUDN1LWRKQkJKWkxsSkhNYk1yc2FCMk5rcVprMDFEb3NCdG4zb1BSVlVodkVTczBDMU5fOEU3VWhzeTMzc1lfV1A3VUs5NUIyRnd5Zy1HN3hYQ2JWWVJtSEROdVY3TVYycktqeXZvSVHSAb8BQVVfeXFMTXZzNzQwLWcxNUd2QWdKbHhjQ2UxaHlTRVFVREpBUWFMVFdRM2NlOVVKVHN2YXhFWi0wTHlZLWpHQmh6aTBWSE5MaEFPeWlRMlpHN3luTmgtSkFVR1dQTk04ZkpIMGItWVpGNjBqbS1CQ192Qi1GcXlqeWczUnd6YUpkejJndUloRlRSVnctbGtTbFVnYnM2WUhlM3ZVbnByOWdnUGhmR0Ffd2RKVVFVSmV2ekxkY2RWc3RJb0U1Nms?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0xBM2hYamtNRV83VktFTTV3UXBqdFNHNmN5dHZ5NEdHSE1oZ0JaMHlQaUMzcnBUc0hPM0ozOFJ3MlBUZ1NQY0NBRUxVX1NqazNrUDN1LWRKQkJKWkxsSkhNYk1yc2FCMk5rcVprMDFEb3NCdG4zb1BSVlVodkVTczBDMU5fOEU3VWhzeTMzc1lfV1A3VUs5NUIyRnd5Zy1HN3hYQ2JWWVJtSEROdVY3TVYycktqeXZvSVHSAb8BQVVfeXFMTXZzNzQwLWcxNUd2QWdKbHhjQ2UxaHlTRVFVREpBUWFMVFdRM2NlOVVKVHN2YXhFWi0wTHlZLWpHQmh6aTBWSE5MaEFPeWlRMlpHN3luTmgtSkFVR1dQTk04ZkpIMGItWVpGNjBqbS1CQ192Qi1GcXlqeWczUnd6YUpkejJndUloRlRSVnctbGtTbFVnYnM2WUhlM3ZVbnByOWdnUGhmR0Ffd2RKVVFVSmV2ekxkY2RWc3RJb0U1Nms",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789471186.0
     }
 ]
