@@ -1,5 +1,24 @@
 [
     {
+        "id": "8ee2ff6aec",
+        "title_fa": "حملات موشکی به آرامکو و پیش‌شرط‌های تهران برای ترامپ",
+        "title_en": "US-Iran War Live Updates: Houthis claim missile, drone strikes on 'sensitive' Riyadh sites",
+        "summary": [
+            "حوثی‌های یمن مدعی هدف قرار دادن تاسیسات نفتی آرامکو در ینبع و مقرهای حساس ریاض با موشک‌های بالستیک و پهپاد شدند.",
+            "محسن رضایی با تعیین پیش‌شرط‌هایی شامل رفع توقیف دارایی‌ها و پایان محاصره دریایی، از ارسال پیام به دونالد ترامپ از کانال قطر و پاکستان خبر داد.",
+            "هم‌زمانی سیگنال‌های مذاکره با عملیات‌های موشکی، تلاشی آشکار برای امتیازگیری میدانی پیش از آغاز هرگونه گفت‌وگوی احتمالی است."
+        ],
+        "impact": "تهدید زیرساخت‌های نفتی سعودی بهای نفت را تحریک کرده و پاسخ نظامی بازدارنده واشنگتن و متحدان منطقه‌ای را جلو می‌اندازد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.65,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-us-israel-iran-war-latest-news-strait-of-hormuz-oil-tanker-iran-us-talks-latest-news/liveblog/134343132.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-us-israel-iran-war-latest-news-strait-of-hormuz-oil-tanker-iran-us-talks-latest-news/liveblog/134343132.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134343132,width-1280,height-720,imgsize-1178245,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1789839960.0
+    },
+    {
         "id": "9ce2c58f69",
         "title_fa": "سیگنال هسته‌ای تهران: رفتار واشنگتن مسیر آینده را تعیین می‌کند",
         "title_en": "Shafaq News..Iran: US conduct could shape nuclear future",
@@ -5478,24 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzZVZGtBRi1nRFVZY1Y5WEhWQnFKLWdYYmc4akRHQ1RoRWlmaDRkc0NSLTdxY1BIVl9lSUl6VkNkeUQ5S3Z4ZWRSYTRjV1B0YUp1NEZuNWZYRDRJalQ2MmVMbGVoSmNhMFBBdkRWZmtlbzNIbnVkajRTMmFLblhkdkVHOUVJU0xMODlfRlRMZl9mWkVIb1hlS2ZmRFRoUTg",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789489420.0
-    },
-    {
-        "id": "6282ff0adf",
-        "title_fa": "پیشروی حوثی‌ها در دریای سرخ و آوارگی هزاران یمنی",
-        "title_en": "Alarmed Yemenis Flee South as Houthis Keep Up Attacks",
-        "summary": [
-            "شبه‌نظامیان حوثی با تصرف مناطق ساحلی دریای سرخ و تنگه راهبردی باب‌المندب، کنترل خود را بر یکی از حیاتی‌ترین شاهراه‌های تجاری جهان تنگ‌تر کرده‌اند.",
-            "حملات پهپادی و موشکی این گروه نیابتی، موج جدیدی از آوارگی را رقم زده و بیش از ۱۰۰ هزار یمنی را به سمت جنوب و کشور جیبوتی فراری داده است.",
-            "توسعه‌طلبی نظامی حوثی‌ها در ساحل غربی یمن، ابزار فشار جدیدی به دست تهران برای باج‌گیری در معادلات منطقه‌ای می‌دهد."
-        ],
-        "impact": "افزایش ناامنی در تنگه باب‌المندب که مستقیماً هزینه‌های حمل‌ونقل دریایی و بیمه کشتی‌های تجاری را بالا می‌برد.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/arab-world/5318680-alarmed-yemenis-flee-south-houthis-keep-attacks",
-        "clean_url": "https://english.aawsat.com/arab-world/5318680-alarmed-yemenis-flee-south-houthis-keep-attacks",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1777312.jpeg.webp?VersionId=qRQa24OhwzwcnlTO.lIftZkKzIYo9p0J",
-        "timestamp": 1789488060.0
     }
 ]
