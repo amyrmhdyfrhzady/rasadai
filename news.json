@@ -312,6 +312,24 @@
         "timestamp": 1789732924.0
     },
     {
+        "id": "43b6938ee3",
+        "title_fa": "هشدار مسکو درباره تهدید اتمی پیمان آکوس",
+        "title_en": "Russia sees AUKUS as unprecedented challenge to nuclear non-proliferation — MFA",
+        "summary": [
+            "انتقال مواد هسته‌ای غنی‌شده به استرالیا توسط آمریکا و انگلیس، ساختار منع اشاعه اتمی را زیر سوال برده است.",
+            "مسکو این توافق سه‌جانبه را خطری جدی برای سیستم نظارتی آژانس بین‌المللی انرژی اتمی می‌داند."
+        ],
+        "impact": "افزایش تنش‌های ژئوپلیتیک میان قدرت‌های هسته‌ای و تضعیف بیشتر معاهدات بین‌المللی عدم اشاعه تسلیحات اتمی.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2189641",
+        "clean_url": "https://tass.com/politics/2189641",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1789732080.0
+    },
+    {
         "id": "46b8296104",
         "title_fa": "پنهان‌کاری پنتاگون از تلفات نظامی در درگیری‌ها با ج***ه ا***امی",
         "title_en": "More US troops have died amid Iran war than Pentagon has disclosed publicly",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLW9lODZVak5rVXBKV3lkT2dZb094Q045OE9SXzRsZTBjZGt5ZUNURkpwY3FXclJXN0lpZVRub3IyTHF0cHh0Yk1tVnBfVV8wQnNibWdhTEtMc1JKOXVtcVcwQWgzeDhxaUlvQ1A3Y3R0bkNldFN2NXV3eTZicnV1VFdEbU5uTkpRM0ExTGFCbkVlOVJLUVZCbWJDaWZ0a1dCQm53MnJEeUQ2eVBrdFV5Y2NYUEFWZ0lkOV9FZXZLelU",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789445991.0
-    },
-    {
-        "id": "513dc7d226",
-        "title_fa": "تنگه باب‌المندب؛ کارت بازی جدید ت-ه-ر-ا-ن در آب‌های آزاد",
-        "title_en": "Yemen’s Gate of Tears: How another critical waterway became Iran’s wild card",
-        "summary": [
-            "تنگه راهبردی باب‌المندب نقش کلیدی در ترانزیت جهانی کالا و انرژی دارد و سهم بزرگی از تجارت بین آسیا و اروپا از این مسیر می‌گذرد.",
-            "حکومت ای-را-ن با استفاده از گروه‌های نیابتی در یمن، این آبراه حیاتی را به اهزامی برای اعمال فشار بر غرب و اختلال در زنجیره تامین جهانی تبدیل کرده است."
-        ],
-        "impact": "ناامنی در این آبراه مهم به معنای جهش هزینه‌های حمل‌ونقل و افزایش تورم جهانی است.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.yahoo.com/news/world/articles/yemen-gate-tears-another-critical-040129943.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/yemen-gate-tears-another-critical-040129943.html",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/a35799dacc75546a1007423bc5503ea9.jpg",
-        "timestamp": 1789444866.0
     }
 ]
