@@ -1,5 +1,23 @@
 [
     {
+        "id": "f547d83ad6",
+        "title_fa": "بنزین ۱۷ سنتی در ایران همزمان با جهش قیمت سوخت در آمریکا",
+        "title_en": "As U.S. Fuel Prices Surge, Iran’s Gas Costs 17 Cents A Gallon. The Reasons Why May Surprise You.",
+        "summary": [
+            "قیمت پایین بنزین در ایران در مقایسه با رشد هزینه‌های سوخت در آمریکا توجه رسانه‌های مالی را جلب کرده است.",
+            "این نرخ پایین ناشی از یارانه‌های سنگین دولتی و ارزش پایین پول ملی است."
+        ],
+        "impact": "بررسی نابرابری‌های اقتصادی و چالش‌های ساختاری مصرف انرژی در اقتصاد کشور.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU05Hcmc3QTl4NlhrOHdhVmJMNml4SDFiZWw3ckppYjRUZ2dxS05nWW16X3oxUjJZTkh0U2Y3SGNzNEpZVzZzWTBlNTkydnlmdlRTenZKUFZMMFhzeGt2LWR6ekdHUmRZWkRhdm5QYXhJS2lSdzdwNEJKX0MwMUdpN1RFSkJTS2c3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU05Hcmc3QTl4NlhrOHdhVmJMNml4SDFiZWw3ckppYjRUZ2dxS05nWW16X3oxUjJZTkh0U2Y3SGNzNEpZVzZzWTBlNTkydnlmdlRTenZKUFZMMFhzeGt2LWR6ekdHUmRZWkRhdm5QYXhJS2lSdzdwNEJKX0MwMUdpN1RFSkJTS2c3",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789835095.0
+    },
+    {
         "id": "e96b6d2625",
         "title_fa": "تحریم صرافی ارز دیجیتال بیت‌بانک",
         "title_en": "Treasury Sanctions Iranian Crypto Exchange BitBank Over Bitcoin Transfers to IRGC",
@@ -196,6 +214,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/socialist-streamer-hasan-piker-says-110013803.html",
         "image": "https://s.yimg.com/lo/mysterio/api/5d1d9c54ac77065ce2cf24e34aaa23f3a34ce66fd6a81fdbdecf8e0f1d9c6591/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/dallas_express_media_articles_743/4211f5b6a6ec685a131950731024aa6b.jpg",
         "timestamp": 1789815600.0
+    },
+    {
+        "id": "ef9e640557",
+        "title_fa": "ادامه حملات ارتش اسرائیل به شمال و مرکز غزه",
+        "title_en": "Three people, including girl, said killed by IDF in north, central Gaza; no comment from military",
+        "summary": [
+            "منابع فلسطینی از کشته شدن سه نفر از جمله یک کودک در حملات روز جاری خبر دادند.",
+            "ارتش اسرائیل هنوز واکنشی به این گزارش‌ها نشان نداده است."
+        ],
+        "impact": "تداوم تلفات غیرنظامیان در غزه و استمرار تنش‌های نظامی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/three-people-including-girl-said-killed-by-idf-in-north-central-gaza-no-comment-from-military/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/three-people-including-girl-said-killed-by-idf-in-north-central-gaza-no-comment-from-military",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789815060.0
     },
     {
         "id": "099f45cc47",
@@ -5461,41 +5497,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-us-open-to-iran-deal-tanker-hit-in-strait-of-hormuz/ar-AA2caaSM",
         "image": "http://www.bing.com/th?id=ONUT.PogCPCu1pGvDiFRMPLpDvA&pid=News",
         "timestamp": 1789478915.0
-    },
-    {
-        "id": "7f69ea41cb",
-        "title_fa": "تغییر قریب‌الوقوع موازنه امنیتی دریای سرخ از نگاه تیم ترامپ",
-        "title_en": "Iran war latest: US expects a change in the Red Sea security situation 'soon', says Trump adviser",
-        "summary": [
-            "دولت ترامپ آماده اقدام جدی برای پایان دادن به ناامنی‌های دریای سرخ می‌شود",
-            "مسیرهای دریایی و نفت‌کش‌ها در آستانه ورود به فاز جدیدی از حفاظت نظامی قرار دارند"
-        ],
-        "impact": "امن شدن دریای سرخ به معنای قطع شریان مالی و تسلیحاتی نایب‌های منطقه‌ای ج.ا است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "thenationalnews.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmNCMkFYVC11Qlo1UGFLSHVlTkhfYW9DRUo5RlQ2cHRrNFNWXzNnVE1HLVRwTzQtbW5WX3VLc1NHOWJqS0FJdm1ZcjB2WWF6eHkzSXlNWWpzN21SdG5wVi1ZVUtZdnA3RXpjdkhtZE1vWnlMX0E3dDJXS3M4RFJsOHpZcTBhREJzMW1sTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmNCMkFYVC11Qlo1UGFLSHVlTkhfYW9DRUo5RlQ2cHRrNFNWXzNnVE1HLVRwTzQtbW5WX3VLc1NHOWJqS0FJdm1ZcjB2WWF6eHkzSXlNWWpzN21SdG5wVi1ZVUtZdnA3RXpjdkhtZE1vWnlMX0E3dDJXS3M4RFJsOHpZcTBhREJzMW1sTA",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789478453.0
-    },
-    {
-        "id": "41a7d2bfa4",
-        "title_fa": "آسیب گسترده به پایگاه‌های آمریکایی در حملات ج-م-ه-و-ر-ی ا-س-ل-ا-می",
-        "title_en": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says",
-        "summary": [
-            "گزارش یک نهاد نظارتی فاش کرد که حملات م-و-ش-ک-ی و پ-ه-پ-ا-دی نیروهای و-ب-س-ت-ه به پایگاه‌های آمریکایی خسارت‌های سنگینی به صدها سازه وارد کرده است.",
-            "این آمار رسمی ابعاد واقعی آسیب‌های وارده به زیرساخت‌های نظامی آمریکا در منطقه را عیان می‌کند."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی و ضرورت تقویت سیستم‌های دفاع هوایی آمریکا در منطقه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789478389.0
     }
 ]
