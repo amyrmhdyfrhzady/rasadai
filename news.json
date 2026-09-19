@@ -143,6 +143,25 @@
         "timestamp": 1789804140.0
     },
     {
+        "id": "8628970035",
+        "title_fa": "حمله پهپادی یا موشکی حوثی‌ها به نزدیکی فرودگاه ریاض",
+        "title_en": "Iran war: Smoke seen near Riyadh airport after Houthis vowed revenge",
+        "summary": [
+            "شبه‌نظامیان حوثی یمن پس از خط و نشان کشیدن برای عربستان، مناطقی در نزدیکی فرودگاه بین‌المللی ریاض را هدف قرار دادند که با برخاستن دود سیاه همراه شد.",
+            "دولت عربستان با صدور هشدارهای زرد و قرمز امنیتی در پایتخت، پدافند هوایی خود را به حالت آماده‌باش کامل درآورد.",
+            "این هشدارها و حملات نشان می‌دهد تنش‌ها میان نیروهای نیابتی و کشورهای منطقه وارد مرحله واکنش‌های متقابل نظامی شده است."
+        ],
+        "impact": "تهدید مستقیم امنیت هوانوردی تجاری در خلیج فارس و احتمال پاسخ کوبنده ائتلاف به مواضع حوثی‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-war-smoke-seen-near-riyadh-airport-after-houthis-vowed-revenge/ar-AA2ct6HW",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-smoke-seen-near-riyadh-airport-after-houthis-vowed-revenge/ar-AA2ct6HW",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789803722.0
+    },
+    {
         "id": "52ce05ba09",
         "title_fa": "بحران معیشتی و بازار خودرو در ایران",
         "title_en": "An unaffordable car market highlights Iran’s cost-of-living crisis",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://www.couriermail.com.au/news/world/middle-east/iranian-president-says-country-wont-surrender-as-he-accuses-us-of-targeting-civilians/news-story/753c639561fa83c06ced5e8a9809e825",
         "image": "https://content.api.news/v3/images/bin/adffe19e1aba22bca6b03a66229638a4",
         "timestamp": 1789473480.0
-    },
-    {
-        "id": "8de68b7e19",
-        "title_fa": "پنتاگون در باتلاق جنگ؛ هزینه‌های سنگین و ناکامی در برابر ایران",
-        "title_en": "\"How we lost the war with Iran\": Shock findings on US military collapse",
-        "summary": [
-            "ارزیابی‌های اولیه پنتاگون از درگیری با ایران نشان‌دهنده خسارات گسترده به پایگاه‌های آمریکایی و کاهش شدید انبارهای تسلیحاتی است.",
-            "عملیات نظامی دویست روزه نتوانسته هیچ‌کدام از اهداف تعیین شده از سوی دولت را محقق کند.",
-            "پیشروی نیابتی‌های یمنی و کنترل تنگه باب‌المندب ضربه نهایی به حضور نظامی آمریکا در منطقه تلقی می‌شود."
-        ],
-        "impact": "آشکار شدن شکست‌های راهبردی آمریکا، اعتبار حضور نظامی واشنگتن در منطقه را به‌شدت زیر سوال برده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "bankingnews.gr",
-        "url": "https://www.bankingnews.gr/diethni/articles/899398/how-we-lost-the-war-with-iran-shock-findings-on-us-military-collapse-houthis-close-tehran-s-trap+title=",
-        "clean_url": "https://www.bankingnews.gr/diethni/articles/899398/how-we-lost-the-war-with-iran-shock-findings-on-us-military-collapse-houthis-close-tehran-s-trap+title=",
-        "image": "https://www.bankingnews.gr/image/12_309.jpg",
-        "timestamp": 1789472220.0
     }
 ]
