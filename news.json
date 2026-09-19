@@ -125,6 +125,25 @@
         "timestamp": 1789815600.0
     },
     {
+        "id": "099f45cc47",
+        "title_fa": "پیام پنهانی تهران به ترامپ؛ ارسال شروط پایان جنگ از کانال قطر",
+        "title_en": "Iran says war-end terms sent to Trump",
+        "summary": [
+            "محسن رضایی از ارسال شروط تهران برای پایان درگیری‌ها به دونالد ترامپ از طریق میانجی‌گری قطر خبر داد.",
+            "ارسال این شروط در اوج فشارهای نظامی و اقتصادی، تلاش برای عقب‌نشینی تاکتیکی و جلوگیری از فروپاشی کامل خطوط دفاعی است.",
+            "دستگاه دیپلماسی حاکمیت با ارسال پیام‌های چراغ‌خاموش در پی خرید زمان و کاهش احتمال ضربات مستقیم و مرگبار آمریکا است."
+        ],
+        "impact": "آغاز احتمالی چانه‌زنی‌های پنهان منطقه‌ای و احتمال افزایش فشار حداکثری واشنگتن برای گرفتن امتیازات بیشتر.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "MSN",
+        "url": "https://www.msn.com/en-us/politics/government/iran-says-war-end-terms-sent-to-trump/ar-AA2czdpQ",
+        "clean_url": "https://www.msn.com/en-us/politics/government/iran-says-war-end-terms-sent-to-trump/ar-AA2czdpQ",
+        "image": "http://www.bing.com/th?id=ONUT.1OZohuX8BamrHQYb7XIRsQ&pid=News",
+        "timestamp": 1789807500.0
+    },
+    {
         "id": "581792e55f",
         "title_fa": "ترامپ: درگیری با ایران به زودی تمام می‌شود",
         "title_en": "Trump: Iran war to end soon, gas prices to drop to pre-war levels",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzMEQ0MVVLWTkwTVdkZ2t3RDAtbmxnSGx1UkxhQlZJNU9sazVIcUZiSHpfNHo1cTV1WjBLWE00M0hMSGI0b1hJV2Q0MjBRbU1heUJnblJsd3pOeHVEVEdwRkE1Mmg2eGZhSEE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789473871.0
-    },
-    {
-        "id": "4c0489ca29",
-        "title_fa": "چراغ سبز واشنگتن به بسته دفاعی اسرائیل و رجزخوانی مقامات رژیم",
-        "title_en": "Washington to greenlight $3.9bn defence package for Israel; Pete Hegseth faces impeachment call",
-        "summary": [
-            "آمریکا بسته تسلیحاتی سه میلیارد و نهصد میلیون دلاری برای اسرائیل را تأیید کرد.",
-            "مسعود پزشکیان در واکنش به تحولات اخیر لحنی تهاجمی گرفت و بر مقاومت در برابر فشارها تأکید کرد."
-        ],
-        "impact": "تزریق تسلیحات سنگین به ائتلاف عبری-غربی همزمان با تشدید تنش در آبراهه‌های حیاتی منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Courier Mail",
-        "url": "https://www.couriermail.com.au/news/world/middle-east/iranian-president-says-country-wont-surrender-as-he-accuses-us-of-targeting-civilians/news-story/753c639561fa83c06ced5e8a9809e825",
-        "clean_url": "https://www.couriermail.com.au/news/world/middle-east/iranian-president-says-country-wont-surrender-as-he-accuses-us-of-targeting-civilians/news-story/753c639561fa83c06ced5e8a9809e825",
-        "image": "https://content.api.news/v3/images/bin/adffe19e1aba22bca6b03a66229638a4",
-        "timestamp": 1789473480.0
     }
 ]
