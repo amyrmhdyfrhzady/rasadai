@@ -124,6 +124,25 @@
         "timestamp": 1789823318.0
     },
     {
+        "id": "cdd1f15bfb",
+        "title_fa": "واکنش تند پکن به قانون جدید تحریم‌های آمریکا علیه ایران",
+        "title_en": "China Slams US Law Tightening Sanctions on Russia and Iran",
+        "summary": [
+            "دولت چین رسماً قانون تازه تصویب‌شده در کنگره آمریکا برای تشدید فشار مالی بر تهران و مسکو را رد کرد و آن را اقدام غیرقانونی خواند.",
+            "این مصوبه دست وزارت خزانه‌داری آمریکا را برای هدف قرار دادن پالایشگاه‌ها، بنادر و شبکه حمل‌ونقل نفت ایران در چین بازتر می‌کند.",
+            "پکن تلاش می‌کند ضمن حفظ شریان خرید نفت ارزان از تهران، شرکت‌های بزرگ خود را از گزند جرایم بانکی واشنگتن دور نگه دارد."
+        ],
+        "impact": "بالا رفتن هزینه دور زدن تحریم‌ها و تخفیف‌های سنگین‌تر نفتی برای تداوم خرید از سوی چین.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzBLUDV6NHM2Q3NkaUpNWno0ZXZlZjA5WEFOX0ZpYU9qbVZfdVEySm9scjZwSzN2RnlBZURRcHRvWGhQNXpJS1NFcEVsV1ZtWjZpczZNN2lkMHZCa1ItbWtydklKRnRKNTRHT1hnWkpRUUxkSkllYWFqVHIwbWppMU93NHZVNDdMV3F4SVZGTWtRZ2szNkU0WFVLOVltT1dOamQwdzhBZDBrR0FtWVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzBLUDV6NHM2Q3NkaUpNWno0ZXZlZjA5WEFOX0ZpYU9qbVZfdVEySm9scjZwSzN2RnlBZURRcHRvWGhQNXpJS1NFcEVsV1ZtWjZpczZNN2lkMHZCa1ItbWtydklKRnRKNTRHT1hnWkpRUUxkSkllYWFqVHIwbWppMU93NHZVNDdMV3F4SVZGTWtRZ2szNkU0WFVLOVltT1dOamQwdzhBZDBrR0FtWVE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789822009.0
+    },
+    {
         "id": "06ecb17655",
         "title_fa": "حضور کارشناسان س‌پاه در باب‌المندب و تجهیز موشکی-راداری حوثی‌ها",
         "title_en": "IRGC experts visit Bab el-Mandeb, Iranian equipment reaches Houthis",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://www.presstv.co.uk/Detail/2026/09/15/776340/iran-nuclear-industry-will-survive-war-strikes-because-knowledge-cannot-obliterated-force",
         "image": "https://cdn.presstv.co.uk/Photo/2026/9/15/85158412-0b44-47b2-a889-ecb685c0645a.jpg",
         "timestamp": 1789478100.0
-    },
-    {
-        "id": "a43f959ec9",
-        "title_fa": "درگیری نظامی آمریکا با قایق‌های سپاه در خلیج فارس",
-        "title_en": "Scoop: U.S. attacked Iranian boats trying to seize Navy drone",
-        "summary": [
-            "نیروهای آمریکایی به قایق‌های نظامی ج.ا که قصد مصادره یک پهپاد دریایی را داشتند، حمله کردند.",
-            "این درگیری نشان‌دهنده تداوم تنش‌های نظامی مستقیم در آب‌های منطقه است."
-        ],
-        "impact": "افزایش احتمال درگیری‌های نظامی در آب‌های خلیج فارس و تشدید واکنش آمریکا.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789477196.0
     }
 ]
