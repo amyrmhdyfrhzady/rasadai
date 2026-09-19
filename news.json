@@ -233,6 +233,25 @@
         "timestamp": 1789818360.0
     },
     {
+        "id": "96a24d83d8",
+        "title_fa": "شرط‌گذاری مراجع امنیتی تهرانی برای پایان جنگ با آمریکا",
+        "title_en": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+        "summary": [
+            "دبیر شورای عالی امنیت ملی ج.ا از ارسال شرایط تهران به واشنگتن از طریق میانجی‌های قطری خبر داد.",
+            "توقف کامل درگیری‌ها، آزاد شدن پول‌های مسدود شده و لغو محاصره دریایی از خواسته‌های اصلی عنوان شده است.",
+            "تهران در انتظار واکنش دونالد ترامپ به این پکیج شرط‌گذاری نشسته است."
+        ],
+        "impact": "فشار شدید اقتصادی و نظامی، حاکمیت را وادار به ارسال پیام‌های دیپلماتیک از مسیرهای پنهان کرده است.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+        "image": "http://www.bing.com/th?id=ONUT.dktwg6trbbwpHlun1HygrA&pid=News",
+        "timestamp": 1789817520.0
+    },
+    {
         "id": "06ecb17655",
         "title_fa": "حضور کارشناسان س‌پاه در باب‌المندب و تجهیز موشکی-راداری حوثی‌ها",
         "title_en": "IRGC experts visit Bab el-Mandeb, Iranian equipment reaches Houthis",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://english.aawsat.com/arab-world/5318680-alarmed-yemenis-flee-south-houthis-keep-attacks",
         "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1777312.jpeg.webp?VersionId=qRQa24OhwzwcnlTO.lIftZkKzIYo9p0J",
         "timestamp": 1789488060.0
-    },
-    {
-        "id": "794f64ba5d",
-        "title_fa": "هزینه سرسام‌آور جنگ با جـمـهـورى اسـلامـى و تناقض در مواضع واشنگتن",
-        "title_en": "Iran war has cost well over $33.4 billion, Pentagon report says",
-        "summary": [
-            "پنتاگون در گزارشی رسمی اعلام کرد که درگیری‌ها تاکنون بیش از ۳۳ میلیارد دلار هزینه روی دست مالیات‌دهندگان آمریکایی گذاشته است.",
-            "مقام ارشد ایـران با رد سیگنال‌های دوگانه تـرامـپ برای مذاکره، تاکید کرد که شرایط بازی عوض شده و تهران شرط‌ های خودش را دارد."
-        ],
-        "impact": "فشار مالی سنگین بر واشنگتن و بن‌بست کامل در دیپلماسی مستقیم میان دو کشور",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/oil-prices-near-4-month-080708071.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/oil-prices-near-4-month-080708071.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/d98fb43cbf7ec3d54ca9b4ea5fb791ff74afea9f8eb5381aee3aee6515dd1324/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/e51262746212019d60f908dcb6535417.jpg",
-        "timestamp": 1789487940.0
     }
 ]
