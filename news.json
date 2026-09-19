@@ -165,6 +165,25 @@
         "timestamp": 1789759800.0
     },
     {
+        "id": "c8879b7532",
+        "title_fa": "فشار پکن بر تهران برای مهار حوثی‌ها؛ نفت ارزان شد",
+        "title_en": "Crude Prices Retreat on Hopes Middle East Energy Exports to Recover",
+        "summary": [
+            "چین در گفتگوهای محرمانه از تهران خواسته حملات پهپادی حوثی‌های یمن به تاسیسات نفتی عربستان و مسیرهای کشتیرانی دریای سرخ را متوقف کند.",
+            "عربستان سعودی از بازگشت نیمی از ظرفیت خط لوله نفت شرق-غرب خبر داد که هفته گذشته بر اثر حملات پهپادی از مدار خارج شده بود.",
+            "سیگنال‌های دیپلماتیک برای کاهش تنش در خاورمیانه، قیمت نفت خام آمریکا را بیش از ۱.۵ درصد کاهش داد."
+        ],
+        "impact": "فشار چین بر منابع انرژی ارزان و بازگشت شریان‌های نفتی سعودی، مانع از جهش پایدار قیمت نفت در بازارهای جهانی شد.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-retreat-hopes-middle-191455317.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-retreat-hopes-middle-191455317.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/09451fa03336c1633f2a4f36d6866025.jpg",
+        "timestamp": 1789759554.0
+    },
+    {
         "id": "dc84598fda",
         "title_fa": "سردرگمی جی‌پی مورگان در پیش‌بینی نفت به دلیل تنش با آمریکا",
         "title_en": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war",
@@ -5479,23 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVUEyd2lRTV9aemE5dXQtQmFPMUtHbjQyelJKQjBiUVV1VVpxTzJmY1lIMnZCMjVzUG5SSWFScnFJSER3ZVZEMEU0T1JSN2NzbVk3YXFTeGt2UGxxb19WY0lLdHRQN1NockpFLUdWZVRMdi0wS2t4M1NFUS00R3ZvMi1GTHQ1cFM3YUg2RjEtQmo2dnBqX0pfUTFZXzBXcVJKanBhNndzNkRRdXdFS2VxWTJxYnY5TlBYTU9SUmcxOUVIcHdnU3VZRzRMWVFicEdWWEZ5bl9lQU9MeHp0SWprNUtDcDUzQm9HamlxZA",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789449180.0
-    },
-    {
-        "id": "a084c15e9d",
-        "title_fa": "اصابت پهپاد به زیرساخت انرژی کیف پابرجا ماند",
-        "title_en": "Russia Hits Petrol Station, Warehouse Facilities in Kyiv, Mayor Says",
-        "summary": [
-            "حمله پهپادی تازه به یک پمپ بنزین در کیف پایتخت اوکراین ثبت شد.",
-            "این اتفاق یک روز پس از ادعای دونالد ترامپ مبنی بر توافق مسکو و کیف برای عدم حمله به تأسیسات انرژی رخ داد."
-        ],
-        "impact": "بی‌اعتباری توافق‌های پشت پرده و تداوم جنگ انرژی میان روسیه و اوکراین.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Asharq Alawsat (English)",
-        "url": "https://www.msn.com/en-ae/news/other/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says/ar-AA2cev2b",
-        "clean_url": "https://www.msn.com/en-ae/news/other/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says/ar-AA2cev2b",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789448674.0
     }
 ]
