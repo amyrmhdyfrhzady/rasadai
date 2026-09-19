@@ -143,6 +143,24 @@
         "timestamp": 1789822009.0
     },
     {
+        "id": "b44154921b",
+        "title_fa": "چالش‌های کوین وارش در هدایت سیاست‌های پولی فدرال رزرو",
+        "title_en": "Weekly Commentary: Walked The Walk",
+        "summary": [
+            "عملکرد قاطع کوین وارش در عرصه سیاست‌های پولی توجه تحلیل‌گران وال‌استریت را جلب کرده است.",
+            "پرسش کلیدی بازارهای مالی این است که آیا او در صورت بروز نخستین نشانه‌های شوک اقتصادی، بر مواضع سخت‌گیرانه خود باقی می‌ماند یا عقب‌نشینی خواهد کرد."
+        ],
+        "impact": "ابهام در تداوم سیاست‌های انقباضی فدرال رزرو می‌تواند موجب نوسان در بازارهای جهانی و نرخ دلار شود.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": -0.1,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4948061-weekly-commentary-walked-the-walk",
+        "clean_url": "https://seekingalpha.com/article/4948061-weekly-commentary-walked-the-walk",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193765243/image_2193765243.jpg?io=getty-c-w1536",
+        "timestamp": 1789818360.0
+    },
+    {
         "id": "06ecb17655",
         "title_fa": "حضور کارشناسان س‌پاه در باب‌المندب و تجهیز موشکی-راداری حوثی‌ها",
         "title_en": "IRGC experts visit Bab el-Mandeb, Iranian equipment reaches Houthis",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789478389.0
-    },
-    {
-        "id": "074fb7cff0",
-        "title_fa": "ادعای بقای اتمی ج.ا با وجود حملات و فشارهای نظامی",
-        "title_en": "Iran's nuclear industry will survive war and strikes because knowledge cannot be obliterated by force",
-        "summary": [
-            "مقام‌های رسانه‌ای حکومت مدعی هستند بمباران تاسیسات نمی‌تواند دانش هسته‌ای را نابود کند.",
-            "تلاش دستگاه تبلیغاتی حکومت بر این است که آسیب‌های وارده به زیرساخت‌های اتمی را کم‌اهمیت جلوه دهد."
-        ],
-        "impact": "تلاش برای حفظ روحیه نیروهای داخلی در برابر حملات هدفمند به زیرساخت‌ها.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/15/776340/iran-nuclear-industry-will-survive-war-strikes-because-knowledge-cannot-obliterated-force",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/15/776340/iran-nuclear-industry-will-survive-war-strikes-because-knowledge-cannot-obliterated-force",
-        "image": "https://cdn.presstv.co.uk/Photo/2026/9/15/85158412-0b44-47b2-a889-ecb685c0645a.jpg",
-        "timestamp": 1789478100.0
     }
 ]
