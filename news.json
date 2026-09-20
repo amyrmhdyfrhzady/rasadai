@@ -308,6 +308,25 @@
         "timestamp": 1789912200.0
     },
     {
+        "id": "b396843011",
+        "title_fa": "خط‌ونشان مستقیم ترامپ در پاسخ به تهدیدهای نظامی تهران",
+        "title_en": "Iran warns US, allies against new attack, threatens retaliation",
+        "summary": [
+            "تهران با ادعای دسترسی به اطلاعات جاسوسی، آمریکا و متحدانش را به حمله تلافی‌جویانه تهدید کرده تا جلوی ضربه احتمالی را بگیرد.",
+            "دونالد ترامپ بلافاصله وارد میدان شد و با هشداری سخت، عواقب هرگونه ماجراجویی را متوجه سران رژ*یم دانست.",
+            "پشت این لفاظی‌های تهران، ترس شدید از تغییر استراتژی واشنگتن و ضربه به نقاط حساس نظامی پنهان شده است."
+        ],
+        "impact": "بالا رفتن بی‌سابقه احتمال برخورد نظامی مستقیم در صورت خطای محاسباتی تهران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-warns-us-allies-against-new-attack-threatens-retaliation/ar-AA2cDjkU?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-warns-us-allies-against-new-attack-threatens-retaliation/ar-AA2cDjkU",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789911720.0
+    },
+    {
         "id": "478c22d353",
         "title_fa": "دیدار دوباره شهردار نیویورک و ترامپ پیش از اجلاس سازمان ملل",
         "title_en": "NYC Mayor Zohran Mamdani & Trump to Meet Again This Week",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUmVST2pjV1B3UTFDNUZhZWsta3JMdXVJYWFReHdSSGllcmhjbWVaU0s2NGpPS2hIeUdERnk3SGx4U25BcTdPZ3ptb3UzU2pxOFZFQ3dUcnlrMWhPUEo1ZmdQT29kOHVMRmxoZFlXY2tJdF9HclM0LTFjc3pCcE5fR2xPNUJpcUpnbUpfV1Y1SDV1dDN6ckwzb0NxeUd0WUM5YzZPVlhPX2FEdi1rQkRNSFF5OGhwUXYtZFBvTXZMcjRiRHpRNEIxMVJuRQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789637373.0
-    },
-    {
-        "id": "29d637eec2",
-        "title_fa": "هلاکت دو فرمانده ارشد حماس در حملات ارتش اسرائیل",
-        "title_en": "IDF says strikes this week killed 2 elite Hamas fighters, including one who invaded on Oct. 7",
-        "summary": [
-            "ارتش اسرائیل از کشته شدن دو نیروی نخبه حماس در حملات هوایی روزهای گذشته خبر داد.",
-            "یکی از کشته‌شدگان از طراحان و مهاجمان اصلی عملیات هفتم اکتبر بوده است."
-        ],
-        "impact": "ادامه ترور هدفمند فرماندهان ارشد میدانی توسط اسرائیل ضربه سنگینی به ساختار نظامی حماس وارد می‌کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/news/idf-says-strikes-this-week-killed-2-elite-hamas-fighters-including-one-who-invaded-on-oct-7/ar-AA2cpEXx",
-        "clean_url": "https://www.msn.com/en-us/news/news/idf-says-strikes-this-week-killed-2-elite-hamas-fighters-including-one-who-invaded-on-oct-7/ar-AA2cpEXx",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789636876.0
     }
 ]
