@@ -221,6 +221,60 @@
         "timestamp": 1789884998.0
     },
     {
+        "id": "4d70bc084d",
+        "title_fa": "تشدید رفتارهای جنجالی ترامپ در آستانه انتخابات میدورم",
+        "title_en": "Trump is only amping up his antics ahead of the midterm election",
+        "summary": [
+            "رفتار سیاسی و شخصیتی دونالد ترامپ در روزهای منتهی به انتخابات میان‌دوره‌ای شکل تندتری به خود گرفته است.",
+            "این رویکرد جنجالی می‌تواند پویایی آرای عمومی و معادلات حزبی را تحت تأثیر جدی قرار دهد."
+        ],
+        "impact": "افزایش دوقطبی سیاسی و تحریک پایگاه رأی ترامپ در آستانه کارزار انتخاباتی.",
+        "tag": "انتخابات",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-is-only-amping-up-his-antics-ahead-of-the-midterm-election/ar-AA2cAwBc",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-is-only-amping-up-his-antics-ahead-of-the-midterm-election/ar-AA2cAwBc",
+        "image": "http://www.bing.com/th?id=ONUT.rk8y1IqZXbiwQF7UdYo_tA&pid=News",
+        "timestamp": 1789884191.0
+    },
+    {
+        "id": "eecad14c07",
+        "title_fa": "حواشی تور اد شی‌ران و هشدار بهداشتی در فیلادلفیا",
+        "title_en": "Ed Sheeran addresses tour controversy at Philly show; measles warning issued at PHL",
+        "summary": [
+            "کنسرت اد شی‌ران در فیلادلفیا با حاشیه‌های سیاسی و اعتراضات حامیان فلسطین و تغییرات لیست هنرمندان همراه شد.",
+            "مقام‌های بهداشتی همزمان درباره خطر شیوع سرخک در فرودگاه بین‌المللی فیلادلفیا هشدار دادند."
+        ],
+        "impact": "تداخل حاشیه‌های فرهنگی-سیاسی کنسرت با مسائل بحرانی بهداشت عمومی در فیلادلفیا.",
+        "tag": "اجتماعی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "FOX 29 News Philadelphia",
+        "url": "https://www.fox29.com/video/fmc-rtye5p4lz0v4f781",
+        "clean_url": "https://www.fox29.com/video/fmc-rtye5p4lz0v4f781",
+        "image": "http://www.bing.com/th?id=ONUT.9vxWPk_Sx-saVoehFieVzg&pid=News",
+        "timestamp": 1789882620.0
+    },
+    {
+        "id": "e4ce96d7ff",
+        "title_fa": "قیمت بالای سوخت و توجیه ترامپ درباره جنگ ایران",
+        "title_en": "Rising gas prices frustrate voters. Trump says it's an 'inexpensive price to pay' for the Iran war",
+        "summary": [
+            "فشار گرانی سوخت بر دوش شهروندان آمریکایی و گلایه رای‌دهندگان از هزینه‌های زندگی افزایش یافته است.",
+            "ترامپ هزینه‌های بالای انرژی را بهای ناچیزی برای رویکرد نظامی و فشار بر حکومت ایران می‌داند."
+        ],
+        "impact": "نارضایتی مصرف‌کنندگان آمریکایی از تورم انرژی ناشی از تنش‌های ژئوپلیتیک.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/money/general/rising-gas-prices-frustrate-voters-trump-says-it-s-an-inexpensive-price-to-pay-for-the-iran-war/ar-AA2cB7Om",
+        "clean_url": "https://www.msn.com/en-us/money/general/rising-gas-prices-frustrate-voters-trump-says-it-s-an-inexpensive-price-to-pay-for-the-iran-war/ar-AA2cB7Om",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789878310.0
+    },
+    {
         "id": "9eef3f0dbf",
         "title_fa": "شرط‌گذاری محسن رضایی برای پایان جنگ با آمریکا",
         "title_en": "What are Iran’s latest conditions to end its war with the US?",
@@ -277,6 +331,42 @@
         "timestamp": 1789876920.0
     },
     {
+        "id": "e6652ce122",
+        "title_fa": "دستور دادگاه برای افشای اسناد رسوایی‌های فاکس‌نیوز",
+        "title_en": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+        "summary": [
+            "دادگاهی در دلور روپرت مرداک و مدیران فاکس‌نیوز را به تحویل صدها سند محرمانه ملزم کرد.",
+            "این پرونده به خاطر پیامدهای پرهزینه دروغ‌پراکنی‌های انتخاباتی و رسوایی‌های مدیریتی شبکه جریان دارد."
+        ],
+        "impact": "فشار حقوقی سنگین بر مدیران ارشد رسانه فاکس به دلیل پنهان‌کاری در پرونده‌های جنجالی.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+        "clean_url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3164x1780+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2F76%2F4338365f49f08c67e670cfe93986%2Fap25234734046444.jpg",
+        "timestamp": 1789876860.0
+    },
+    {
+        "id": "736da8e827",
+        "title_fa": "پهلوی: ریزش نیروهای رژیم و ورود اپوزیسیون به فاز جدید",
+        "title_en": "Pahlavi: Iran regime continues to erode from within as defections grow",
+        "summary": [
+            "چهره‌های حکومتی و نظامی به صورت پنهانی در حال فاصله گرفتن از بدنه حاکمیت هستند.",
+            "مخالفان جمهوری اسلامی وارد مرحله تازه‌ای از فشار و سازماندهی برای گذر از حکومت شده‌اند."
+        ],
+        "impact": "افزایش شکاف در ساختار قدرت و تقویت روند ریزش نیروهای وابسته به حاکمیت.",
+        "tag": "اپوزیسیون",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/pahlavi-iran-regime-continues-to-erode-from-within-as-defections-grow/ar-AA2cAWlQ",
+        "clean_url": "https://www.msn.com/en-us/politics/government/pahlavi-iran-regime-continues-to-erode-from-within-as-defections-grow/ar-AA2cAWlQ",
+        "image": "http://www.bing.com/th?id=ONUT.ezX_j9a6SnCcRyY1KTwvBQ&pid=News",
+        "timestamp": 1789874899.0
+    },
+    {
         "id": "02f21757b0",
         "title_fa": "حمله موشکی حوثی‌ها به ریاض و تصعید جبهه جدید منطقه‌ای",
         "title_en": "Houthi rebels tried to attack Saudi Arabia with a ballistic missile",
@@ -293,6 +383,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/houthi-rebels-tried-to-attack-saudi-arabia-with-a-ballistic-missile/ar-AA2czQAv",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2czOao.img?w=1876&h=1208&m=4&q=100",
         "timestamp": 1789874580.0
+    },
+    {
+        "id": "6a3d6f123b",
+        "title_fa": "سیاست‌های اقتصادی ترامپ و سایه سنگین ریسک بر بازار سهام",
+        "title_en": "Will President Trump Crash the Stock Market? History Says This Could Come Next.",
+        "summary": [
+            "استفاده دولت ترامپ از اقتصاد آمریکا به عنوان ابزار فشار ژئوپلیتیک، سطح ریسک را برای سرمایه‌گذاران بالا برده است.",
+            "بازار سهام تاکنون با اتکا به موج هوش مصنوعی توانسته مقاومت کند اما ابهامات سیاست‌گذاری همچنان پابرجا ست."
+        ],
+        "impact": "افزایش نوسانات و تردید در بازارهای مالی به دلیل تصمیمات پیش‌بینی‌نشده اقتصادی.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/president-trump-crash-stock-market-102000000.html",
+        "clean_url": "https://www.aol.com/articles/president-trump-crash-stock-market-102000000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/09/20/8c6b7a26-2bc6-3fd3-bf5d-8e3f1398ee1f/7950b364-4a2e-4f82-8246-8968b80c3725.jpg",
+        "timestamp": 1789874460.0
     },
     {
         "id": "635d61a8ef",
@@ -330,6 +438,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92M3ZqMHgxdExBdzlLeVkxUl8tbWtHZ2dwRlZQakhtN3NjVkMycUY3aWQ0TnF5TWMtNzFvcWJHWW5sTngyZGZISlVaSHE0ZHRDaV82YWdkeks",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789873936.0
+    },
+    {
+        "id": "73df9097a8",
+        "title_fa": "فاصله گرفتن نامزدهای جمهوری‌خواه از ترامپ در رقابت‌های میدورم",
+        "title_en": "California Republicans walk a tightrope as Trump jumps into midterms campaigning",
+        "summary": [
+            "نامزدهای جمهوری‌خواه در حوزه‌های انتخابیه رقابتی ترجیح می‌دهند روی مسائل محلی تمرکز کنند تا سیاست‌های حزبی و جنجالی.",
+            "برخی چهره‌های حزب در کالیفرنیا به دلیل شرایط خاص انتخاباتی خود، ارجاعات به ترامپ را از کمپین‌های خود حذف کرده‌اند."
+        ],
+        "impact": "تلاش نامزدهای محلی برای کاهش هزینه‌های سیاسی وابستگی به ترامپ در انتخابات پیش‌رو.",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Los Angeles Times",
+        "url": "https://www.latimes.com/politics/story/2026-09-20/california-republicans-walk-tightrope-as-trump-jumps-into-campaigning",
+        "clean_url": "https://www.latimes.com/politics/story/2026-09-20/california-republicans-walk-tightrope-as-trump-jumps-into-campaigning",
+        "image": "http://www.bing.com/th?id=ONUT.kxIO5LRNxvdbxnTkD9DBoQ&pid=News",
+        "timestamp": 1789873200.0
     },
     {
         "id": "e3ca3773e4",
@@ -5366,133 +5492,5 @@
         "clean_url": "https://www.newsweek.com/list-republicans-flipped-block-trump-military-action-iran-12448042",
         "image": "http://www.bing.com/th?id=ONUT.nZY_ZHp-TBGgcHJwdIvY7w&pid=News",
         "timestamp": 1789554960.0
-    },
-    {
-        "id": "aa13df1457",
-        "title_fa": "معامله نفتی محرمانه یار غار ترامپ با ونزوئلا",
-        "title_en": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
-        "summary": [
-            "هارولد هم، از حامیان مالی بزرگ ترامپ، چراغ خاموش با شرکت ملی نفت ونزوئلا توافق امضا کرد.",
-            "این معامله نشان می‌دهد منافع نفتی و تجاری، شعارهای تند سیاسی علیه دولت‌های چپ‌گرا را وتو می‌کند."
-        ],
-        "impact": "دور زدن غیررسمی تحریم‌های نفتی ونزوئلا توسط مهره‌های نزدیک به ترامپ برای کسب سود کلان.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
-        "clean_url": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
-        "image": "http://www.bing.com/th?id=ONUT.Q-QOkREMU3bfCkwdXutwGA&pid=News",
-        "timestamp": 1789554900.0
-    },
-    {
-        "id": "ca5c7a3678",
-        "title_fa": "هزینه ده‌ها میلیارد دلاری آمریکا در مناقشه با جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
-        "title_en": "US spends tens of billions of dollars on Iran conflict",
-        "summary": [
-            "واشنگتن ارقام سنگینی را صرف مقابله با تحرکات منطقه‌ای نیابتی‌های ایران کرده است.",
-            "این هزینه‌های کلان فشار مالی روی بودجه دفاعی آمریکا را به شدت افزایش داده است."
-        ],
-        "impact": "تداوم تنش‌ها هزینه سنگینی بر دوش مالیات‌دهندگان آمریکایی می‌گذارد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "VOV World",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDJPRjc2NWVoTkV0SXdKcHJTdjdfV21YQl91eXdpdXZtejBkVWNtYWRqV0xVV1pzU25MSU9GNzlWdnFaa29EN3ZKV0JqNUl3N2tyNXdSSW9LVE1KM3lpUm44X245YWpQRi02a0p5dDl4NWttcHpsa2J1OV9WYy1CbFJjQlRWS3Z5ejRCYWNpZkxCVFZsc1JF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDJPRjc2NWVoTkV0SXdKcHJTdjdfV21YQl91eXdpdXZtejBkVWNtYWRqV0xVV1pzU25MSU9GNzlWdnFaa29EN3ZKV0JqNUl3N2tyNXdSSW9LVE1KM3lpUm44X245YWpQRi02a0p5dDl4NWttcHpsa2J1OV9WYy1CbFJjQlRWS3Z5ejRCYWNpZkxCVFZsc1JF",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789553100.0
-    },
-    {
-        "id": "2f024f2579",
-        "title_fa": "چرخش بازار به سمت تنش طولانی میان آمریکا و ج.ا",
-        "title_en": "Market Expectations Shift Towards Prolonged USA-Iran Conflict",
-        "summary": [
-            "فعالان بازار نفت خود را برای یک مناقشه فرسایشی و بلندمدت آماده می‌کنند.",
-            "ریسک‌های ژئوپلیتیک پایدار بر تصمیم‌گیری سرمایه‌گذاران سایه انداخته است."
-        ],
-        "impact": "افزایش بی‌ثباتی در بازارهای انرژی و ثبت ریسک پریمیوم بالا روی قیمت نفت.",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Rigzone",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0dNY3NVN1k5cGFWYV9WZDRYTFYxQ2ppTG1LLVVBekFZcDBxRVh0aWV4UXd0LXpEUnB4YmEzUWlKM2RkTkpvYWMxeTI3aG1UYzJzeFVaWlRjQWtZejFiOUxnOHphRnk3OHZuREEwQVJYR2R5cm8wWUFjUXNGSXZDWVNoc2VKSnBWWndsaDFFa2NXV0ZhM3p5SXc2LW1qTk9kTnctaFBIeGJkWmwta01mMUJOdm9XMkto?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0dNY3NVN1k5cGFWYV9WZDRYTFYxQ2ppTG1LLVVBekFZcDBxRVh0aWV4UXd0LXpEUnB4YmEzUWlKM2RkTkpvYWMxeTI3aG1UYzJzeFVaWlRjQWtZejFiOUxnOHphRnk3OHZuREEwQVJYR2R5cm8wWUFjUXNGSXZDWVNoc2VKSnBWWndsaDFFa2NXV0ZhM3p5SXc2LW1qTk9kTnctaFBIeGJkWmwta01mMUJOdm9XMkto",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789552968.0
-    },
-    {
-        "id": "b6b8bc0f5b",
-        "title_fa": "گزارش جدید: تنش با ایران چگونه آتش تورم را شعله‌ورتر می‌کند؟",
-        "title_en": "New report details how the conflict with Iran is increasing inflation",
-        "summary": [
-            "تنش‌های نظامی و ناامنی در خطوط انتقال انرژی، مستقیماً زنجیره تأمین و بازارهای جهانی را هدف قرار داده است.",
-            "افزایش چشمگیر هزینه‌های بیمه دریایی و ریسک حمل‌ونقل نفت، موج جدیدی از تورم را به اقتصاد خاورمیانه و غرب تحمیل می‌کند."
-        ],
-        "impact": "جهش مجدد قیمت سوخت و تورم جهانی، دست جـ.ـمهوری اسلامی را برای باج‌گیری اقتصادی بازتر می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "firstcoastnews.com",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOczJEQU9QQ2FpYkpJU3NhM21pSng2RzRWVk9GWjY5ai1BX3g1UGdlTElwMnpCdDdMeHh2RnhVR0hHUjE4RlJQZU13WkszOExZTjl4UFJZUkVobEt5eUhfcW1uMklxZkltakNWbktaTHJKRmo2OFdMckRBdXhVVnFVcWFWQVBiaG1QRkthcWZPY1E3ZVpYNUtnZzd5VlpXaWVlYUx2d2Z6VUVSY2IxTWp4YnpYNW9KNFhhbFpZX2trLWhMTkZHLTVLY0tsVllHODhnMmxIbmxLQ0NtaHpiYXBpMDE1RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOczJEQU9QQ2FpYkpJU3NhM21pSng2RzRWVk9GWjY5ai1BX3g1UGdlTElwMnpCdDdMeHh2RnhVR0hHUjE4RlJQZU13WkszOExZTjl4UFJZUkVobEt5eUhfcW1uMklxZkltakNWbktaTHJKRmo2OFdMckRBdXhVVnFVcWFWQVBiaG1QRkthcWZPY1E3ZVpYNUtnZzd5VlpXaWVlYUx2d2Z6VUVSY2IxTWp4YnpYNW9KNFhhbFpZX2trLWhMTkZHLTVLY0tsVllHODhnMmxIbmxLQ0NtaHpiYXBpMDE1RQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789551960.0
-    },
-    {
-        "id": "42c959c504",
-        "title_fa": "بحران سربازان اجباری سـ.ـپاه در پرونده‌های مهاجرتی کانادا",
-        "title_en": "نامه سرگشاده متخصصان ایرانی به پارلمان کانادا؛ قربانیان سربازی در سپاه در برزخ گرفتارند",
-        "summary": [
-            "دولت کانادا با قرار دادن نام سـ.ـپاه در لیست تروریستی، روند سخت‌گیرانه‌ای برای مهاجرت افراد وابسته به راه انداخته است.",
-            "متخصصان ایرانی در نامه‌ای به پارلمان کانادا هشدار دادند که سربازی در ایران اجباری بوده و نباید با عضویت داوطلبانه یکی دانسته شود.",
-            "صدها تن از شهروندان و خانواده‌هایشان در کانادا با خطر رد پرونده و اخراج روبه‌رو هستند."
-        ],
-        "impact": "بلاتکلیفی و خطر اخراج برای صدها متخصص ایرانی به دلیل قوانین مهاجرتی سخت‌گیرانه جدید.",
-        "tag": "مهاجرت",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609162699",
-        "clean_url": "https://www.iranintl.com/202609162699",
-        "image": "http://www.bing.com/th?id=ONUT.D1WkamYzkbn6oP3RkvUdjw&pid=News",
-        "timestamp": 1789550040.0
-    },
-    {
-        "id": "ba7ff3ee95",
-        "title_fa": "هاکبی: جنگ آمریکا با ج.ا برای امنیت خودش است",
-        "title_en": "Huckabee: U.S. fights Iran for itself, not Israel",
-        "summary": [
-            "مایک هاکبی سفیر جدید آمریکا در اسرائیل تاکید کرده که مهار حکومت ایران اولویت امنیت ملی خود آمریکا است و واشنگتن این کار را صرفاً برای خوشامد تل‌آویو انجام نمی‌دهد.",
-            "این موضع‌گیری یعنی دولت دوم ترامپ برخورد با تهدیدهای تهران را یک ضرورت مستقیم برای امنیت داخلی ایالات متحده می‌داند.",
-            "تغییر این رویکرد یعنی واشنگتن در دوره جدید برای ضربه زدن به بازوهای منطقه‌ای و هسته‌ای تهران منتظر چراغ سبز یا هماهنگی کامل با متحدانش نخواهد ماند."
-        ],
-        "impact": "افزایش احتمال برخوردهای مستقیم و یک‌جانبه آمریکا با منافع ج.ا در منطقه.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWVMUU5uemNaNzloNWhTWWJ3aHpBWFJaSzBqNlQ1QUlTZE9IRnlYUDZhY1NwRVlMUWo4cXZIYlVsZ0FTSW9YbExWQVhJV2tBTVVvbnN3ZlFIMHVGS0ZfSHozelRlVEZtTVpQaXkxdjkyVmhxTWVJR3BzVXBPOFFqaEN1WDdLM3AtdUMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWVMUU5uemNaNzloNWhTWWJ3aHpBWFJaSzBqNlQ1QUlTZE9IRnlYUDZhY1NwRVlMUWo4cXZIYlVsZ0FTSW9YbExWQVhJV2tBTVVvbnN3ZlFIMHVGS0ZfSHozelRlVEZtTVpQaXkxdjkyVmhxTWVJR3BzVXBPOFFqaEN1WDdLM3AtdUMw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789549950.0
-    },
-    {
-        "id": "c27e1c180e",
-        "title_fa": "هدف‌گیری مکه؛ ائتلاف سعودی خط قرمز تعیین کرد",
-        "title_en": "Houthi drone destroyed near Makkah as Saudi-led coalition warns threats to holy sites are 'red line'",
-        "summary": [
-            "رهگیری و انهدام یک فروند پهپاد مهاجم در نزدیکی مکه توسط پدافند",
-            "هشدار صریح ائتلاف سعودی درباره عبور از خط قرمز امنیت اماکن مقدس"
-        ],
-        "impact": "افزایش تنش‌های امنیتی در منطقه و بالا رفتن سطح آماده‌باش پدافندی",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Express Tribune",
-        "url": "https://tribune.com.pk/story/2629597/oic-condemns-heinous-attacks-on-makkah-madinah-region",
-        "clean_url": "https://tribune.com.pk/story/2629597/oic-condemns-heinous-attacks-on-makkah-madinah-region",
-        "image": "https://i.tribune.com.pk/media/images/destruction-caused-by-israel-in-gaza-11789536564-0/destruction-caused-by-israel-in-gaza-11789536564-0-640x480.webp",
-        "timestamp": 1789548960.0
     }
 ]
