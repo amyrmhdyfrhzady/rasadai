@@ -163,6 +163,24 @@
         "timestamp": 1789901533.0
     },
     {
+        "id": "1f65e5fd7f",
+        "title_fa": "تهدید ج.ا به پاسخ متقابل به آمریکا و متحدان",
+        "title_en": "Iran warns US and allies of sustained retaliation as strikes on Saudi Arabia raise stakes",
+        "summary": [
+            "تهدید به حملات فرسایشی علیه پایگاه‌های آمریکا و کشورهای منطقه به بهانه احتمال حمله جدید.",
+            "تلاش برای فرافکنی و بالا بردن هزینه تنش‌ها پس از ضربات به منافع منطقه‌ای."
+        ],
+        "impact": "افزایش ریسک امنیتی برای حضور نظامی آمریکا و شرکای منطقه‌ای.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Arkansas Public Advocate on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-warns-us-and-allies-of-sustained-retaliation-as-strikes-on-saudi-arabia-raise-stakes/ar-AA2cCaOb",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-us-and-allies-of-sustained-retaliation-as-strikes-on-saudi-arabia-raise-stakes/ar-AA2cCaOb",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789900486.0
+    },
+    {
         "id": "93a630c4de",
         "title_fa": "افشای سند محرمانه همکاری‌های جامع مسکو و تهران",
         "title_en": "EXCLUSIVE: Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall/ar-AA2coHSx",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789585200.0
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "رصد روزانه قیمت بنزین و سوخت در ایالات متحده",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "پایش مستمر قیمت سوخت در آمریکا وضعیت نوسانات تورمی و هزینه‌های حمل‌ونقل را در سطح ایالتی شفاف می‌کند.",
-            "نرخ بنزین شاخصی کلیدی برای ارزیابی فشار اقتصادی بر خانوارها و نبض بازار انرژی است."
-        ],
-        "impact": "نوسان قیمت سوخت مستقیماً بر هزینه‌های حمل‌ونقل و تورم مصرف‌کننده در آمریکا اثر می‌گذارد.",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789583415.0
     }
 ]
