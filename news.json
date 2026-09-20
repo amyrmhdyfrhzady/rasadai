@@ -72,6 +72,25 @@
         "timestamp": 1789902886.0
     },
     {
+        "id": "ea982ea80a",
+        "title_fa": "جنگ روانی تهران؛ ادعای به زانو درآوردن ارتش آمریکا",
+        "title_en": "How Iran turned US military and economic aggression into strategic leverage to dictate terms",
+        "summary": [
+            "بوق‌های تبلیغاتی ج.ا با تصویرسازی خیالی از شکست واشنگتن، به دنبال پنهان کردن بحران‌های عمیق داخلی و اقتصادی هستند.",
+            "خط و نشان کشیدن‌های قرارگاه خاتم‌الانبیا، بیشتر از آنکه قدرت نظامی واقعی باشد، تلاش برای بازدارندگی روانی در برابر تهدیدهای جدی است.",
+            "واقعیت میدان با ادعای رسانه‌های دولتی همخوانی ندارد؛ تهران زیر فشار شدید تحریم‌ها و انزوای منطقه‌ای دست‌وپا می‌زند."
+        ],
+        "impact": "تلاش ج.ا برای حفظ روحیه نیروهای نیابتی و فرار از واقعیت بحران‌های اقتصادی داخلی با ابزار پروپاگاندا.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/09/20/776668/how-iran-turned-us-military-economic-aggression-strategic-leverage-dictate-terms",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/20/776668/how-iran-turned-us-military-economic-aggression-strategic-leverage-dictate-terms",
+        "image": "https://cdn.presstv.co.uk/Photo/2026/9/20/bd8bb66f-0cb4-4424-b106-697f8a1d6a96.jpg",
+        "timestamp": 1789902240.0
+    },
+    {
         "id": "7d51c2757b",
         "title_fa": "پایان آتش‌بس میان آمریکا و جـ.ـهـ.ـوری اسـ.ـلامـ.ـی پس از درگیری مستقیم",
         "title_en": "Waltz says ceasefire ‘broken down’ after US and Iran trade fire - ABC News",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHIya0pqUnR0WUJBVFVOYkh6cm5WQzZZSmlCQUFRcDIxNEFZb3IwQXAwU0V5ZlNXV0RpUHEyX2EtRXE2eEFfaUdkX0tGQmNMWkpZd0pSVS1UandHZ08zOVZZSDk1TkJMSXBMLUF0TU1tdVd4WmVSaFFpbEJlSV82QndEc2pLcnBVR3k5a2U3aHM3YU5ZczZKWmVDVVFzWjFpVkF30gGoAUFVX3lxTE81a0I3b0M2SFFjd2NBbVh1RmNKaDRreC1YR3FDMXNsVWVRZF9HLXBVcHhVUmw2RW93Y21XRWszeFJuaEJyLXYzQXpGTUtlVmJhQzRIcWNVQVZUeGJqRW51N1ZUVW53TW1KcVZxMWw3Y0UtZFFxUjVXeGUxeHdfMmctM3ctYnJMX2cxSmhxSmExUGhCa25YUmxDOThzWWhmMWxzMHk1QXlyYQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789574063.0
-    },
-    {
-        "id": "d8145c7f14",
-        "title_fa": "تصاحب بی‌سروصدای زمین گلف تاریخی واشنگتن توسط ترامپ",
-        "title_en": "Park Service quietly awards contracts to work on Trump’s takeover of East Potomac golf course",
-        "summary": [
-            "دولت ترامپ بدون اطلاع کنگره، قراردادهای بازسازی یک زمین گلف عمومی و تاریخی را به بخش خصوصی واگذار کرد.",
-            "دموکرات‌ها این اقدام را تلاش برای تبدیل یک فضای عمومی به باشگاهی لوکس و اختصاصی برای ثروتمندان می‌دانند."
-        ],
-        "impact": "افزایش انتقادها از سوءاستفاده ترامپ از قدرت برای منافع تجاری شخصی و طبقاتی.",
-        "tag": "سیاست_آمریکا",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/09/16/trump-golf-course/",
-        "clean_url": "https://www.bostonherald.com/2026/09/16/trump-golf-course",
-        "image": "http://www.bing.com/th?id=ONUT.qrPShceFjc1C_oS_WOi8jA&pid=News",
-        "timestamp": 1789572480.0
     }
 ]
