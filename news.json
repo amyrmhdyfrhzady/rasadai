@@ -199,6 +199,42 @@
         "timestamp": 1789916509.0
     },
     {
+        "id": "4a92a5a3f8",
+        "title_fa": "درگیری مسلحانه مامور مهاجرت در تگزاس",
+        "title_en": "Police report ICE-involved shooting in Austin, Texas",
+        "summary": [
+            "یک مامور فدرال مهاجرت در آستین تگزاس به سوی یک فرد تیراندازی کرد.",
+            "جزئیات دقیقی از انگیزه این درگیری و وضعیت فرد زخمی هنوز منتشر نشده است."
+        ],
+        "impact": "افزایش تنش‌ها پیرامون عملکرد نیروهای امنیتی و مهاجرتی در ایالات متحده.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/public-safety-and-emergencies/general/police-report-ice-involved-shooting-in-austin-texas/ar-AA2cCy6P",
+        "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/general/police-report-ice-involved-shooting-in-austin-texas/ar-AA2cCy6P",
+        "image": "http://www.bing.com/th?id=ONUT.7i6S_xoovEqR2RWK85D3Dg&pid=News",
+        "timestamp": 1789915064.0
+    },
+    {
+        "id": "8caae3c475",
+        "title_fa": "پیروزی دراماتیک پکرز برابر جتز در وقت اضافه",
+        "title_en": "Instant analysis of Packers' comeback overtime win over Jets in Week 2",
+        "summary": [
+            "تیم فوتبال آمریکایی گرین‌بی پکرز موفق شد در هفته دوم رقابت‌ها، شکست را با پیروزی در وقت اضافه عوض کند.",
+            "این کامبک دیدنی نشان از بازگشت روحیه جنگندگی به ترکیب تیم در لحظات سرنوشت‌ساز دارد."
+        ],
+        "impact": "ثبت یک پیروزی روحیه‌بخش و مهم در ابتدای فصل مسابقات.",
+        "tag": "ورزشی",
+        "urgency": 2,
+        "sentiment": 0.8,
+        "source": "Packers Wire on MSN",
+        "url": "https://www.msn.com/en-us/sports/football/instant-analysis-of-packers-comeback-overtime-win-over-jets-in-week-2/ar-AA2cD1MI",
+        "clean_url": "https://www.msn.com/en-us/sports/football/instant-analysis-of-packers-comeback-overtime-win-over-jets-in-week-2/ar-AA2cD1MI",
+        "image": "http://www.bing.com/th?id=ONUT.oX5IDLSmyNnYeujLHgk00w&pid=News",
+        "timestamp": 1789913544.0
+    },
+    {
         "id": "478c22d353",
         "title_fa": "دیدار دوباره شهردار نیویورک و ترامپ پیش از اجلاس سازمان ملل",
         "title_en": "NYC Mayor Zohran Mamdani & Trump to Meet Again This Week",
@@ -1003,6 +1039,24 @@
         "clean_url": "https://www.iranintl.com/en/202609208544",
         "image": "http://www.bing.com/th?id=ONUT.qMCZrZQmXTpwlYAZOYkGiw&pid=News",
         "timestamp": 1789885800.0
+    },
+    {
+        "id": "d496ed20f6",
+        "title_fa": "راهکار جدید برای تامین فیبر روزانه",
+        "title_en": "Fat Bear Week Unleashes Its Chonkiest Contest Yet",
+        "summary": [
+            "بسیاری از افراد به دلیل چالش‌های رژیم غذایی، مقدار فیبر کافی دریافت نمی‌کنند.",
+            "استفاده از مکمل‌های جایگزین مانند پاستیل‌های فیبر بدون قند می‌تواند جایگزین مناسبی برای پودرهای سنتی باشد."
+        ],
+        "impact": "بهبود سلامت گوارش با روشی ساده‌تر و خوش‌طعم‌تر.",
+        "tag": "سلامت",
+        "urgency": 1,
+        "sentiment": 0.4,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/fat-bear-week-unleashes-its-chonkiest-contest-yet/",
+        "clean_url": "https://www.thedailybeast.com/fat-bear-week-unleashes-its-chonkiest-contest-yet",
+        "image": "https://www.thedailybeast.com/resizer/v2/55MH4KOONRFUTBXTNJGGIH3DEM.JPG?smart=true&auth=f627d514a880170d1fc44903682d7b8649234289d556b9b582f42401c6dd252a&width=1200&height=630",
+        "timestamp": 1789885200.0
     },
     {
         "id": "e63a504349",
@@ -5436,61 +5490,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahus-lawyers-ask-for-ex-ag-mandelblit-who-filed-the-charges-to-testify-in-pms-trial-days-before-election",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/montage-2up-20260917-1e2308.jpg",
         "timestamp": 1789634580.0
-    },
-    {
-        "id": "6461c489ef",
-        "title_fa": "تصویب طرح مجلس نمایندگان آمریکا برای کاهش تنش نظامی با ایران",
-        "title_en": "House approves measure to bring Iran war to close",
-        "summary": [
-            "مجلس نمایندگان آمریکا طرحی را برای محدود کردن اختیارات درگیری نظامی با ایران و جلوگیری از کشیده شدن به یک جنگ جدید به تصویب رساند.",
-            "این اقدام کنگره، پیام واضحی از تردید واشنگتن در ورود به درگیری‌های پرهزینه مستقیم در خاورمیانه به همراه دارد.",
-            "تمرکز اصلی واشنگتن فرار از جنگ مستقیم و در عین حال تداوم فشار بر شریان‌های مالی و گروه‌های نیابتی است."
-        ],
-        "impact": "کاهش ریسک درگیری مستقیم و گسترده نظامی در کوتاه‌مدت و تمرکز بیشتر بر فشارهای دیپلماتیک و اقتصادی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "nwaonline.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnRZbzhBazA2NnJ1UzRDZWRFZWhybTBuVFVObjZxUFlIZGRzRjJqeUZOM1ZnUzExNmZWTEg4c1F3RV9qRWMta0UxOTJya2dhTEQ4Wmo5Tnk3c1RZMEVkZ0V4SnhPUVhvMDZhRnJtYy16OG9IVU9MZTkxOGZiaWZ5QjJXeFU3TlZSeldRLXF2Z0xJOXF0dDNhZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnRZbzhBazA2NnJ1UzRDZWRFZWhybTBuVFVObjZxUFlIZGRzRjJqeUZOM1ZnUzExNmZWTEg4c1F3RV9qRWMta0UxOTJya2dhTEQ4Wmo5Tnk3c1RZMEVkZ0V4SnhPUVhvMDZhRnJtYy16OG9IVU9MZTkxOGZiaWZ5QjJXeFU3TlZSeldRLXF2Z0xJOXF0dDNhZA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789634220.0
-    },
-    {
-        "id": "53b79cfcc6",
-        "title_fa": "چالش هگست در واشنگتن؛ تنش سیاسی بر سر جنگ ایران و پاکسازی پنتاگون",
-        "title_en": "Hegseth battles with Democrats -- and some Republicans -- over the Iran war and top officials' firings - ABC News",
-        "summary": [
-            "دفاع پیت هگست از برکناری مسئولان ارشد دفاعی و مواضعش در قبال جنگ با ایران، با تقابل شدید دموکرات‌ها و حتی برخی جمهوری‌خواهان مواجه شد.",
-            "تغییرات ساختاری و پاکسازی‌های اخیر در پنتاگون، اختلالات جدّی در ثبات مدیریتی و تصمیم‌گیری‌های نظامی آمریکا به وجود آورده است.",
-            "تنش‌های مجلس نمایندگان نشان می‌دهد واشنگتن برای وارد شدن به درگیری جدید در خاورمیانه دچار شکاف عمیق داخلی است."
-        ],
-        "impact": "اختلافات شدید در کنگره، اتخاذ تصمیمات واحد و ضربتی علیه ایران را در پنتاگون پیچیده می‌کند.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1Nud1VNWVRKdGdVLUJ2MDdqZVVZb01lbUI1dXFRMmJkRnJjRlZXVV85VGlEUldnODdpbU9wb2dtUnd0YkRPdW40M1h3aFJ0ZkZfUmp3akx2NkY0ZUZad2pOeVJ1eWlUTko3VjFmTXVyUWJrNHo5TWdaZU9DRWtESjN1NVU4S3IwRFJrX0tySUhjWnRka1o40gGcAUFVX3lxTE1CUHlwVHJxV3BrVmRaMVhKcVBXUGpYcmJKaFZGdS1kb1hzN25hTGhvWVdnQVljMkx6RXBWR0xQTDlSVm9Sa3NHRW1YWmphMFZHeVhwYXMyUFdZTDRtVkZCX3luRE9HMHdULUdUT3BpUnVnUzlOQWZWaGt6QUljMlFBUDNIMldqdy1pdlAtbGJHVFFNZHVxMHdpUDloVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1Nud1VNWVRKdGdVLUJ2MDdqZVVZb01lbUI1dXFRMmJkRnJjRlZXVV85VGlEUldnODdpbU9wb2dtUnd0YkRPdW40M1h3aFJ0ZkZfUmp3akx2NkY0ZUZad2pOeVJ1eWlUTko3VjFmTXVyUWJrNHo5TWdaZU9DRWtESjN1NVU4S3IwRFJrX0tySUhjWnRka1o40gGcAUFVX3lxTE1CUHlwVHJxV3BrVmRaMVhKcVBXUGpYcmJKaFZGdS1kb1hzN25hTGhvWVdnQVljMkx6RXBWR0xQTDlSVm9Sa3NHRW1YWmphMFZHeVhwYXMyUFdZTDRtVkZCX3luRE9HMHdULUdUT3BpUnVnUzlOQWZWaGt6QUljMlFBUDNIMldqdy1pdlAtbGJHVFFNZHVxMHdpUDloVQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789633536.0
-    },
-    {
-        "id": "6dd7f6717f",
-        "title_fa": "هزینه سنگین ۳۸ میلیارد دلاری درگیری با ج-ه-م-و-ر-ی ا-س-لا-م-ی برای آمریکا",
-        "title_en": "Iran War Costs U.S. $38 Billion as Congress Warns of Rising Economic and Military Strain",
-        "summary": [
-            "کنگره آمریکا نسبت به افزایش فشارهای اقتصادی و نظامی ناشی از تنش‌ها با ت-ه-ر-ا-ن هشدار داد.",
-            "این هزینه‌های کلان، سیاست‌گذاران آمریکایی را برای بازنگری در راهبردهای منطقه‌ای تحت فشار گذاشته است."
-        ],
-        "impact": "افزایش فشار مالی بر واشنگتن ممکن است محاسبات نظامی در قبال ت-ه-ر-ا-ن را تغییر دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "politicstoday.org",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEhKTldWenBfWGJ5LVl0eWJWaTIzYlJpc2k0TEJ1X3I5TDlEcUVjZW4tdzdDdnloZ2RvNGVnNUFJR1Joc0FiUkcyaWNrbld2cTN3bWJUMjlSak9Hb25nOVRaYm5VTDFVQWlCZnI5aWh2czhrVjV0STdULThvOXV4eVlnZG41WUxkTTZNVU9leXVuaGhDZnhqRlh0RTd5OVRVSVR0ZXdFektaUDlSTW9IM2U4NA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEhKTldWenBfWGJ5LVl0eWJWaTIzYlJpc2k0TEJ1X3I5TDlEcUVjZW4tdzdDdnloZ2RvNGVnNUFJR1Joc0FiUkcyaWNrbld2cTN3bWJUMjlSak9Hb25nOVRaYm5VTDFVQWlCZnI5aWh2czhrVjV0STdULThvOXV4eVlnZG41WUxkTTZNVU9leXVuaGhDZnhqRlh0RTd5OVRVSVR0ZXdFektaUDlSTW9IM2U4NA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789632782.0
     }
 ]
