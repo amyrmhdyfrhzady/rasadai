@@ -239,6 +239,41 @@
         "timestamp": 1789866584.0
     },
     {
+        "id": "1302349b73",
+        "title_fa": "حمله صریح ترامپ به نظرسنجی‌های فاکس‌نیوز درباره جنگ ایران",
+        "title_en": "Donald Trump turns on his once-beloved Fox News as he calls their polls the 'worst'",
+        "summary": [
+            "دونالد ترامپ با انتقاد شدید از شبکه فاکس‌نیوز، نظرسنجی‌های آن را «بدترین» نظرسنجی‌های موجود خواند.",
+            "این خشم ترامپ پس از انتشار نظرسنجی جدیدی صورت گرفت که نشان می‌داد اکثریت رأی‌دهندگان معتقدند او استراتژی مشخصی برای پایان دادن به درگیری‌ها با ایران ندارد."
+        ],
+        "impact": "تشدید فشارهای رسانه‌ای و جنگ روانی بر روی سیاست خارجی و پرونده ایران در آستانه تصمیم‌گیری‌های کلیدی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/donald-trump-turns-once-beloved-080000000.html",
+        "clean_url": "https://www.aol.com/articles/donald-trump-turns-once-beloved-080000000.html",
+        "image": "http://www.bing.com/th?id=ONUT.4unAAM8OOCASDooD8jJ8-Q&pid=News",
+        "timestamp": 1789866060.0
+    },
+    {
+        "id": "e4470ebdd2",
+        "title_fa": "تغییرات در ترکیب تیم پیتسبرگ استیلرز در لیگ فوتبال آمریکایی",
+        "title_en": "Steelers make multiple roster moves for Week 2 matchup vs. Patriots",
+        "summary": [
+            "تیم پیتسبرگ استیلرز پیش از تقابل هفته دوم مقابل نیوانگلند پتریوتس چند جابه‌جایی در ترکیب نفرات خود اعلام کرد."
+        ],
+        "impact": "تغییرات درون‌تیمی ورزشی بدون تاثیر ژئوپلیتیک.",
+        "tag": "ورزش",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Steelers Wire on MSN",
+        "url": "https://www.msn.com/en-us/sports/football/steelers-make-multiple-roster-moves-for-week-2-matchup-vs-patriots/ar-AA2cATJl",
+        "clean_url": "https://www.msn.com/en-us/sports/football/steelers-make-multiple-roster-moves-for-week-2-matchup-vs-patriots/ar-AA2cATJl",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789863329.0
+    },
+    {
         "id": "ab36b7679d",
         "title_fa": "هشدار امنیتی سفارت آمریکا در اسرائیل هم‌زمان با درگیری حوثی‌ها",
         "title_en": "US embassy in Israel issues security alert over Houthi-Saudi Arabia fighting",
@@ -552,6 +587,24 @@
         "timestamp": 1789845418.0
     },
     {
+        "id": "3d2c95c3ff",
+        "title_fa": "ریزش هواداران سنتی جمهوری‌خواهان در پایگاه‌های اصلی",
+        "title_en": "Even in reliably red Kansas, Republican enthusiasm is fading",
+        "summary": [
+            "هو شدن سناتور راجر مارشال در مناظره ایالتی کانزاس از کاهش ملموس انگیزه و نارضایتی بدنه محافظه‌کار خبر می‌دهد.",
+            "حتی در ایالت‌های کاملاً قاطع و قرمز، افت محبوبیت چهره‌های حزبی بر روند رقابت‌ها سایه انداخته است."
+        ],
+        "impact": "هشدار جدی به ساختار حزبی درباره افت بدنه اجتماعی در مناطق پایدار.",
+        "tag": "سیاست‌داخلی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/even-in-reliably-red-kansas-republican-enthusiasm-is-fading/ar-AA2czUdp",
+        "clean_url": "https://www.msn.com/en-us/news/other/even-in-reliably-red-kansas-republican-enthusiasm-is-fading/ar-AA2czUdp",
+        "image": "http://www.bing.com/th?id=ONUT.xONqyOOKiKPpWktWZwjpBQ&pid=News",
+        "timestamp": 1789844400.0
+    },
+    {
         "id": "29b227a923",
         "title_fa": "بحران معیشتی و صف‌های سوخت در سایه نگاه امنیتی حکومت",
         "title_en": "Food Prices Surge, Fuel Lines Persist as Tehran Treats Economic Strain as a Security Threat - National Council of Resistance of Iran",
@@ -586,6 +639,24 @@
         "clean_url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-news-iran-says-it-does-not-expect-pakistan-minister-to-deliver-us-message-no-signs-of-any-message-or-proposal/ar-AA2cAFi3",
         "image": "http://www.bing.com/th?id=ONUT.3Lu0wWka9MMfvlYA1H-3Kg&pid=News",
         "timestamp": 1789841760.0
+    },
+    {
+        "id": "60eca70a83",
+        "title_fa": "موضع جنجالی ترامپ در برابر هشدارهای هوش مصنوعی",
+        "title_en": "Editorial: Big Tech is warning against AI. Will our government listen?",
+        "summary": [
+            "در حالی که غول‌های فناوری خواستار چارچوب‌های امنیتی برای هوش مصنوعی شده‌اند، ترامپ وجود یک «رئیس‌جمهور قوی و باهوش» را تنها ضابطه لازم دانست.",
+            "رویکرد غیررسمی ترامپ به حوزه مقررات‌گذاری فناوری، نگرانی‌ها از نبود نظارت بر ابزارهای نوظهور را افزایش داده است."
+        ],
+        "impact": "بلاتکلیفی در سیاست‌گذاری‌های کلان فناوری و مقررات هوش مصنوعی.",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Sacramento Bee",
+        "url": "https://www.sacbee.com/opinion/us-viewpoints/article317311941.html",
+        "clean_url": "https://www.sacbee.com/opinion/us-viewpoints/article317311941.html",
+        "image": "http://www.bing.com/th?id=ONUT.mpqdNSCOVc7UUMhx4aQejg&pid=News",
+        "timestamp": 1789841640.0
     },
     {
         "id": "8ee2ff6aec",
@@ -659,6 +730,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789837329.0
+    },
+    {
+        "id": "afdfc1bdac",
+        "title_fa": "چالش سنگین جمهوری‌خواهان در ایالت کلیدی میشیگان",
+        "title_en": "Some Michigan Republicans see a 'huge struggle' ahead in fall election",
+        "summary": [
+            "تحلیل‌گران حزب جمهوری‌خواه در میشیگان از رقابت بسیار سخت و احتمال ریزش آرا در انتخابات پاییز ابراز نگرانی می‌کنند.",
+            "شکاف‌های درونی و کاهش تحرک بدنه رأی‌دهندگان، موقعیت این حزب را در ایالت‌های خاکستری به خطر انداخته است."
+        ],
+        "impact": "احتمال تغییر موازنه قدرت در ایالت‌های سرنوشت‌ساز آمریکا.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/09/20/michigan-republicans-donald-trump-gas-prices-affordability/91815638007/",
+        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/09/20/michigan-republicans-donald-trump-gas-prices-affordability/91815638007",
+        "image": "http://www.bing.com/th?id=ONUT.7F3j53FaI4bRdLaFrjjjAA&pid=News",
+        "timestamp": 1789837200.0
     },
     {
         "id": "9623db51ca",
@@ -5403,98 +5492,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/iran-activists-sound-alarm-as-regime-seizes-baha-i-assets/ar-AA2clCK5",
         "image": "http://www.bing.com/th?id=ONUT.D_GNpC8LAIPR81WQ7YllYg&pid=News",
         "timestamp": 1789540080.0
-    },
-    {
-        "id": "467092ff23",
-        "title_fa": "چراغ سبز ترامپ برای ارسال بمب‌های سنگین به اسرائیل",
-        "title_en": "Iran-US war BIG update: Trump approves 40000 1-tonne bombs to Israel; US and Israel preparing major attack on Iran after polls?",
-        "summary": [
-            "دونالد ترامپ با بسته تسلیحاتی سنگین ۲.۸ میلیارد دلاری شامل ۴۰ هزار بمب یک تنی برای اسرائیل موافقت کرد.",
-            "این محموله شامل بمب‌های نفوذکننده و ضد پناهگاه است که توانایی تخریب تاسیسات زیرزمینی را دارند.",
-            "تجهیز ارتش اسرائیل به این تسلیحات، احتمال یک اقدام نظامی بزرگ علیه مواضع حـ...ـکـ...ـومـ...ـت ایـ...ـران را به شدت بالا برده است."
-        ],
-        "impact": "آمادگی عملیاتی اسرائیل و آمریکا برای ضربه سنگین به زیرساخت‌های استراتژیک.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "News24",
-        "url": "https://news24online.com/world/iran-us-war-big-update-trump-approves-40000-1-tonne-bombs-to-israel-us-and-israel-preparing-major-attack-on-iran-after-polls/926234/",
-        "clean_url": "https://news24online.com/world/iran-us-war-big-update-trump-approves-40000-1-tonne-bombs-to-israel-us-and-israel-preparing-major-attack-on-iran-after-polls/926234",
-        "image": "http://www.bing.com/th?id=ONUT.JuXttx5UzX0jka_hNR4-rA&pid=News",
-        "timestamp": 1789539120.0
-    },
-    {
-        "id": "ed7f06d8cb",
-        "title_fa": "سرنگونی جنگنده سعودی به دست انصارالله یمن",
-        "title_en": "Yemen's Houthis say they shot down a Saudi fighter jet",
-        "summary": [
-            "حوثی‌های یمن مدعی شدند یک فروند جنگنده سعودی را با تسلیحات ساخت داخل هدف قرار داده‌اند.",
-            "این ادعا در شرایطی مطرح می‌شود که تنش‌های نظامی در مرزهای یمن همچنان شکننده است."
-        ],
-        "impact": "افزایش ریسک درگیری‌های نظامی در مرزهای جنوبی عربستان و پیامدهای امنیتی آن.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-shot-down-a-saudi-fighter-jet/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-shot-down-a-saudi-fighter-jet",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789538940.0
-    },
-    {
-        "id": "7677583cca",
-        "title_fa": "چراغ سبز پکن به تهران در آستانه دیدار با ترامپ",
-        "title_en": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
-        "summary": [
-            "وزیر خارجه چین در دیدار همکار ایرانی خود بر حفظ منافع و حقوق تهران تاکید کرد.",
-            "این موضع‌گیری در آستانه سفر شی جین‌پینگ به آمریکا و دیدار با دونالد ترامپ انجام شده است.",
-            "پکن خواستار بازگشایی فوری تنگه هرمز و خویشتن‌داری طرفین شده است."
-        ],
-        "impact": "تلاش دیپلماتیک چین برای موازنه‌گری میان ایران و ایالات متحده در بحران‌های منطقه‌ای.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says",
-        "clean_url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaa7e7bce-1789558395.jpg?resize=1920%2C1440",
-        "timestamp": 1789538880.0
-    },
-    {
-        "id": "a701e30e82",
-        "title_fa": "خط و نشان تهران برای ترامپ؛ اولتیماتوم بر سر میز مذاکره",
-        "title_en": "Middle East latest: Iran gives Trump talks ultimatum",
-        "summary": [
-            "مقامات جـمهوری اسـلامی با ارسال پیام‌های تازه، شرایط خاصی را برای هرگونه گفت‌وگو با رئیس‌جمهور منتخب آمریکا مطرح کرده‌اند.",
-            "این موضع‌گیری در حالی انجام می‌شود که تیم ترامپ بر رویکرد فشار حداکثری و توقف برنامه‌های منطقه‌ای و اتمی پافشاری می‌کند."
-        ],
-        "impact": "افزایش شکاف میان تهران و واشنگتن و بالا رفتن احتمال بازگشت به سناریوی تنش شدید.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Sky News",
-        "url": "https://news.sky.com/story/middle-east-latest-us-claims-it-has-destroyed-iranian-ships-part-of-multibillion-dollar-shadow-network-13509565",
-        "clean_url": "https://news.sky.com/story/middle-east-latest-us-claims-it-has-destroyed-iranian-ships-part-of-multibillion-dollar-shadow-network-13509565",
-        "image": "https://e3.365dm.com/26/09/1600x900/skynews-iran-ship_7345987.jpg?20260909120507",
-        "timestamp": 1789538340.0
-    },
-    {
-        "id": "1aa26d5909",
-        "title_fa": "تشدید درگیری‌های منطقه‌ای از یمن تا مرزهای شمالی",
-        "title_en": "Live Updates: IDF troops destroy Hezbollah rocket launchers as Saudi Arabia turns to Western allies for help",
-        "summary": [
-            "ارتش اسرائیل لانچرهای موشکی حزب‌الله را نابود کرد و عربستان سعودی برای مهار تهدیدها به متحدان غربی رو آورد.",
-            "حملات پهپادی وابسته به تهران علیه مواضع مخالفان کرد در عراق و اهداف سعودی ادامه دارد.",
-            "معامله تسلیحاتی ۲.۸ میلیارد دلاری آمریکا با اسرائیل در دستور کار قرار گرفت."
-        ],
-        "impact": "میدان نبرد از لبنان و یمن تا عراق همزمان فعال شده و هزینه تنش‌ها به اوج رسیده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-16/live-updates-908732",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-16/live-updates-908732",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737957",
-        "timestamp": 1789538160.0
     }
 ]
