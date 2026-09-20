@@ -1,5 +1,23 @@
 [
     {
+        "id": "5f74c50451",
+        "title_fa": "بازگشایی مدارس و ادعای بازسازی پس از جنگ",
+        "title_en": "US-Iran Conflict: Iran's Interior Ministry announces reopening of schools and new measures for post-war reconstruction",
+        "summary": [
+            "وزارت کشور جمهوری اسلامی ایران از بازگشایی مدارس و اجرای برنامه‌های بازسازی پس از درگیری‌ها خبر داده است.",
+            "این تصمیم تلاش حاکمیت برای بازگرداندن شرایط به حالت عادی پس از تنش‌های نظامی اخیر را نشان می‌دهد."
+        ],
+        "impact": "تلاش برای عادی‌سازی فضای عمومی جامعه پس از فشارهای سنگین نظامی و امنیتی.",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "news.cgtn.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zbWEzXzhMZ0FIWFJwdEtlajI0RF92QXVaQlVaN2YybnpCS3FPOEdkbWtfbFI4UUdQaXJma0QxU3NOZXFya2RPYTdmRjdfRUNiNkwzdmp3QUE1Z2ppZFZfMUctUjU4UkJFMXlEX0dfczhHR05OUUNIYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zbWEzXzhMZ0FIWFJwdEtlajI0RF92QXVaQlVaN2YybnpCS3FPOEdkbWtfbFI4UUdQaXJma0QxU3NOZXFya2RPYTdmRjdfRUNiNkwzdmp3QUE1Z2ppZFZfMUctUjU4UkJFMXlEX0dfczhHR05OUUNIYw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789877250.0
+    },
+    {
         "id": "02f21757b0",
         "title_fa": "حمله موشکی حوثی‌ها به ریاض و تصعید جبهه جدید منطقه‌ای",
         "title_en": "Houthi rebels tried to attack Saudi Arabia with a ballistic missile",
@@ -5475,23 +5493,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkxVbTZwTHBPc3ZaTFhWcTduWVZ0U2hjQ3hHek8yQkVhazl5dXdCS1p6WGJnb0JnclJlU0d0MkJ4OHJIc3dOWVZIR3dTZWRma2taSGlsVDYzT0xqaElvZ29EMzlYcC15SEYwMXlFMF84TkRMVE84MW16c3JnWVM3WlpHVHZVXzJtVlVUZ1M2enpOQ0NvdXd6RHVWUzdITE1Sc2xQVlF4cWNINFZMMTNYQURnT0rSAboBQVVfeXFMUDBUU2RHREliYVljZjNCU3FVcW1md212MF9hV0xOVGdhYXU5blB3OUlJUFNKSVpQVFBTS0p4am4tUkhvamVERjctZzZfdlJzZFJ5TkZ0LW16SkFKX2NzQURfd3RpUDBEbUptbHpIYUJiNVo1MGRkX1hyTm5VRW1vOEQ3OFc1UDFmdnM3M09EYWdwWFdkWkVhSk1GX2hwMGMzc0dvM3pjd3ZJRzZSREJhZUdmeFRORTFZWXp3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789520242.0
-    },
-    {
-        "id": "755673610c",
-        "title_fa": "رهگیری پهپاد حوثی‌ها به سمت مکه و سفر عراقچی به چین",
-        "title_en": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
-        "summary": [
-            "ائتلاف تحت رهبری عربستان اعلام کرد یک پهپاد مهاجم به سمت مکه را ساقط کرده است که این اقدام تنش‌ها را به شدت بالا می‌برد.",
-            "عباس عراقچی برای دیدار با وزیر خارجه چین راهی پکن شد تا درباره جنگ و میانجیگری گفتگو کند."
-        ],
-        "impact": "افزایش ریسک امنیتی در منطقه و تلاش دیپلماتیک جمهوری اسلامی برای جلب حمایت پکن.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa9c572-1789511026.jpg?resize=1920%2C1440",
-        "timestamp": 1789520100.0
     }
 ]
