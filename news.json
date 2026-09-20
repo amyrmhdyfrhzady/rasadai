@@ -692,6 +692,25 @@
         "timestamp": 1789892100.0
     },
     {
+        "id": "e84d2d78be",
+        "title_fa": "سقوط ده درصدی اقتصاد جمهوری اسلامی زیر ضربات جنگ",
+        "title_en": "Iran’s economy contracts by more than 10% during US war, official data shows",
+        "summary": [
+            "آمارهای رسمی مرکز آمار از افت شدید ۱۰.۱ درصدی تولید ناخالص داخلی در فصل بهار خبر می‌دهند.",
+            "بحران اقتصادی ناشی از درگیری‌های نظامی، تورم سرسام‌آور و سقوط ارزش پول ملی را عمیق‌تر کرده است.",
+            "مسدودسازی تنگه هرمز و جهش قیمت نفت، واکنش تلافی‌جویانه تهران به حملات ائتلاف بود."
+        ],
+        "impact": "فلج شدن بیشتر شریان‌های اقتصادی و تشدید فروپاشی مالی حاکمیت.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/irans-economy-contracts-by-more-than-10-during-us-war-official-data-shows",
+        "clean_url": "https://www.straitstimes.com/world/middle-east/irans-economy-contracts-by-more-than-10-during-us-war-official-data-shows",
+        "image": "http://www.bing.com/th?id=ONUT.y5JCb8a9bT18Gry5g0f7fA&pid=News",
+        "timestamp": 1789890420.0
+    },
+    {
         "id": "270bd8dae6",
         "title_fa": "بحران دارو و درمان در ایران زیر تیغ تحریم‌ها و تورم",
         "title_en": "Trump’s sanctions, inflation and a collapsing economy leaves Iran’s sick exposed",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0d4NWVPX2g0TkJSV0VLczdXMkhEdTRDamNHNDBqR0hzM09NeW5TbTREYzhZYmdKMHN3bGZJVGJRTWtmTmVFX01NV2JnMS1RQWdWZjV6aHBsbVlQYTJzbGMxMXBsZTZCWG94b0hYRml2UW9YNnNFYTFoYkFnaHlDekxNeVc3TVZZaGtvQnV2Z3JJTEt1UGJSUg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789629827.0
-    },
-    {
-        "id": "df7dce4594",
-        "title_fa": "استفاده قالیباف از فرمول اقتصادی برای تهدید آمریکا",
-        "title_en": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-        "summary": [
-            "رئیس مجلس جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با انتشار یک فرمول ریاضی تلاش کرد نرخ بهره آمریکا را به چالش بکشد.",
-            "تهران با این ادعا که بستن تنگه هرمز با ابزارهای مالی آمریکا حل نمی‌شود، به دنبال جنگ روانی جدید است."
-        ],
-        "impact": "تلاش برای بزرگنمایی توان اقتصادی و نظامی در برابر فشارهای واشنگتن",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/ghalibaf-maths-missile-trump-decoded-141041547.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/ghalibaf-maths-missile-trump-decoded-141041547.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/4035e8264125ad2e536a9205220ff037afcd81082acfd08cd010c7cb659b78c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F911c6e7836027aa8eaecad8df9a9b1fc.jpg",
-        "timestamp": 1789629000.0
     }
 ]
