@@ -239,6 +239,25 @@
         "timestamp": 1789877250.0
     },
     {
+        "id": "0065f0c198",
+        "title_fa": "تهدیدات تکراری سپاه علیه ترامپ و نتانیاهو",
+        "title_en": "مشاور فرمانده سپاه: سرنوشت صدام در انتظار ترامپ، نتانیاهو و حامیان آنها خواهد بود",
+        "summary": [
+            "مشاور فرمانده سپاه در اظهاراتی مصرف‌داخل، مدعی شد سرنوشت صدام در انتظار مقامات آمریکایی و اسرائیلی است.",
+            "مقام‌های نظامی ایران با وجود بحران‌های عمیق داخلی، همچنان بر لفاظی‌های ضدغربی تکیه می‌کنند.",
+            "بحران‌های داخلی مانند کمبود واکسن آنفلوآنزا در سایه هزینه‌کرد برای نیابتی‌ها نادیده گرفته می‌شود."
+        ],
+        "impact": "ادامه جنگ روانی فرماندهان نظامی در حالی که کشور با بحران‌های شدید بهداشتی و اقتصادی دست‌وپنجه نرم می‌کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/202609208941",
+        "clean_url": "https://www.iranintl.com/202609208941",
+        "image": "http://www.bing.com/th?id=ONUT.qrHD90jmrefAmQvk8WfNuA&pid=News",
+        "timestamp": 1789876920.0
+    },
+    {
         "id": "02f21757b0",
         "title_fa": "حمله موشکی حوثی‌ها به ریاض و تصعید جبهه جدید منطقه‌ای",
         "title_en": "Houthi rebels tried to attack Saudi Arabia with a ballistic missile",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://www.lbcgroup.tv/news/middleeastnews/958029/saudi-arabia-condemns-cowardly-terrorist-attack-by-houthis-on-mecca/en",
         "image": "https://www.lbcgroup.tv/uploadImages/DocumentImages/Doc-T-958029-639251597060940903.jpg",
         "timestamp": 1789548420.0
-    },
-    {
-        "id": "1113466b0f",
-        "title_fa": "فریاد عفو بین‌الملل برای محاکمه آمران جنایت علیه بشریت در ایـران",
-        "title_en": "Iran: Architects of crimes against humanity to suppress protests must face international justice to deter further massacres",
-        "summary": [
-            "سازمان عفو بین‌الملل خواستار محاکمه فوری عاملان و طراحان سرکوب خونین اعتراضات مردمی در دادگاه‌های بین‌المللی شد.",
-            "تکرار سرکوب‌ها نشان می‌دهد که بدون بازخواست بین‌المللی، ماشین کشتار جـمهوری اسـلامی متوقف نخواهد شد."
-        ],
-        "impact": "افزایش فشارهای حقوق بشری بر مقامات ارشد حاکمیت و مسدود کردن مسیرهای تنفس سیاسی آن‌ها.",
-        "tag": "حقوق بشر",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Amnesty International",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVF83LUNhd0FJZmM1Nld6Q0pqbXlLOFBBRVh1UFRXS24xV1NudmZYZWRuVnBaSjVIczN3d3N1ZUIzMllMNHBhbFZqZVVHd2kxYzRuWnI3MERWNHVyZE05LUFIOVlNbGE3RE5adk4tWkw2NEpaOC1jLWtaakU0YXZyUG45bVBFaG1SdjNSQmNiUHBZSHdybVlUNEdsbjB4TW5BU09TNDZrMVdJZW1uYUZReGc4cmZhMmc5bTJvNmVxTXVvemZPMGxnVw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVF83LUNhd0FJZmM1Nld6Q0pqbXlLOFBBRVh1UFRXS24xV1NudmZYZWRuVnBaSjVIczN3d3N1ZUIzMllMNHBhbFZqZVVHd2kxYzRuWnI3MERWNHVyZE05LUFIOVlNbGE3RE5adk4tWkw2NEpaOC1jLWtaakU0YXZyUG45bVBFaG1SdjNSQmNiUHBZSHdybVlUNEdsbjB4TW5BU09TNDZrMVdJZW1uYUZReGc4cmZhMmc5bTJvNmVxTXVvemZPMGxnVw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789548194.0
     }
 ]
