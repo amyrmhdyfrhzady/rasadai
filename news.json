@@ -642,6 +642,42 @@
         "timestamp": 1789837329.0
     },
     {
+        "id": "9623db51ca",
+        "title_fa": "خشم حوزه علمیه از ماراتن تهران و خط‌ونشان قضایی برای زنان",
+        "title_en": "مدیریت حوزه علمیه تهران: اجازه نمی‌دهیم هنجارشکنی در جامعه عادی‌سازی شود",
+        "summary": [
+            "درخواست برخورد شدید با برگزارکنندگان ماراتن بوستان ولایت، نشان‌دهنده وحشت هسته سخت قدرت از عادی‌سازی پوشش اختیاری است.",
+            "فشار نهادهای مذهبی بر دستگاه قضایی، تلاش برای مهار فرسایش کنترل اجتماعی از طریق خط رعب و تهدید را آشکار می‌سازد."
+        ],
+        "impact": "تشدید برخوردهای امنیتی و صدور احکام قضایی بازدارنده علیه فعالان ورزشی و مدنی.",
+        "tag": "اجتماعی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609200364",
+        "clean_url": "https://www.iranintl.com/202609200364",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1789837200.0
+    },
+    {
+        "id": "dc97437c2e",
+        "title_fa": "بازگشت ناگهانی ترامپ به کاخ سفید و شلیک موشک حوثی‌ها به ریاض",
+        "title_en": "ترامپ زودتر به کاخ سفید بازگشت؛ عربستان از رهگیری موشک حوثی‌ها خبر داد",
+        "summary": [
+            "انفجار موشک حوثی‌ها در نزدیکی فرودگاه ریاض، ابعاد جدیدی از فعال‌سازی جبهه‌های نیابتی توسط تهران را برملا کرد.",
+            "لغو برنامه کمپ دیوید توسط ترامپ همزمان با انتقال پیام‌های تهران از طریق قطر، از ورود واشنگتن به فاز تصمیم‌گیری فوری خبر می‌دهد."
+        ],
+        "impact": "احتمال بالای تشدید اقدامات تلافی‌جویانه نظامی و امنیتی میان آمریکا، عربستان و جریان‌های نیابتی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609208707",
+        "clean_url": "https://www.iranintl.com/202609208707",
+        "image": "http://www.bing.com/th?id=ONUT._0rhcmYt6KC-ZIdxPRIqOQ&pid=News",
+        "timestamp": 1789837200.0
+    },
+    {
         "id": "b57b40597a",
         "title_fa": "هشدار محققان درباره خطر نابودی بشر توسط هوش مصنوعی",
         "title_en": "Mitch Albom: The real problem lies with human nature, not AI",
@@ -783,6 +819,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1NzeUNiTy1qdFdDME1wcWN1MWtVdzBkUlExNnUxeWxKNWJKSE1ZMm1tdm9RMzlwNmpvdHdMX2owTjVFTVVQemJvVzZCcGVCVzVRakRsZXNWRFRkSHVROEZzeDd3Y19OYWZ3TDg4U0xScFVvUjBIMUdnelNhNTBEd1hHUXAyR0NFeHNNQjR2U29RYVRwUWZNaDZ5NHpZaUJhSERWQzJ3THFYMkxWbUoxemZ3YUlxcHJCQnc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789832309.0
+    },
+    {
+        "id": "434e342cc4",
+        "title_fa": "تأکید شاهزاده رضا پهلوی بر فرسودگی ر.ژ.ی.م و نزدیکی آزادی",
+        "title_en": "شاهزاده رضا پهلوی: صبح آزادی ایران نزدیک است",
+        "summary": [
+            "شاهزاده رضا پهلوی در همایش تورنتو با اشاره به ایستادگی مردم آبدانان، بر ناکامی حاکمیت در خرید اراده ملت با معیشت تاکید کرد.",
+            "این سخنرانی با محوریت فرسودگی درونی ساختار حاکم، بر لزوم سازمان‌دهی سراسری برای سـ.ر.نـ.گـ.و.نـ.ی و گذار تمرکز دارد."
+        ],
+        "impact": "افزایش همبستگی در بدنه مبارزاتی و تقویت انسجام میان جریان‌های مختلف اپوزیسیون.",
+        "tag": "اپوزیسیون",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609191641",
+        "clean_url": "https://www.iranintl.com/202609191641",
+        "image": "http://www.bing.com/th?id=ONUT.oS-X4SKFICXkyxVL8zkolQ&pid=News",
+        "timestamp": 1789831380.0
     },
     {
         "id": "e259af0769",
@@ -5442,59 +5496,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/why-yemen-houthis-only-grown-050624881.html",
         "image": "https://media.zenfs.com/en/ap.org/23f19ee6c87e176744e4a37cb9862ad2.jpg",
         "timestamp": 1789535213.0
-    },
-    {
-        "id": "159655c777",
-        "title_fa": "پنهان‌کاری واشنگتن از خسارت‌های سنگین حملات پهپادی به پایگاه‌ها",
-        "title_en": "Iran's attacks on US bases caused 'major damage that hasn't been communicated to American public' - report",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد حملات علیه مواضع ایالات متحده خسارت‌های بسیار سنگینی به جا گذاشته که رسانه‌ای نشده است.",
-            "دولت آمریکا برای جلوگیری از افتضاح امنیتی و تنش بیشتر، ابعاد واقعی این ضربات را پنهان نگه داشته است."
-        ],
-        "impact": "آشکار شدن این پنهان‌کاری می‌تواند دوقطببی شدیدی در داخل آمریکا علیه دولت ایجاد کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSU5TaGU2dDhMa2FidmRwQ05qYWVCQVhRNFlZRzUxRE5qSnF2cE9YOFBWRV9tcUJCMDU2eHVXT1NFbnFxSF8xdFpjM0YtLXg2YjVYdmFKZ0kxM1lJYjVJSnk1S0tHWVNSSXpXeURMWk9UY00tM3pwNFRUc3piZnBfNkFBUnNIRU5tbWdtMW5PXzRpLU5wd2RrTEVNVzlsZXhzQ0VqRWNlUXRnY2ZRem1YLUZmMGxqeFV1bkVhNUVpbWpjUjV2WlBaelN6Q2p2dmV5cDlEbnlVdk5tdDNhOFBXTXhocThINm9Ic3Fpaml0TTU5aWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSU5TaGU2dDhMa2FidmRwQ05qYWVCQVhRNFlZRzUxRE5qSnF2cE9YOFBWRV9tcUJCMDU2eHVXT1NFbnFxSF8xdFpjM0YtLXg2YjVYdmFKZ0kxM1lJYjVJSnk1S0tHWVNSSXpXeURMWk9UY00tM3pwNFRUc3piZnBfNkFBUnNIRU5tbWdtMW5PXzRpLU5wd2RrTEVNVzlsZXhzQ0VqRWNlUXRnY2ZRem1YLUZmMGxqeFV1bkVhNUVpbWpjUjV2WlBaelN6Q2p2dmV5cDlEbnlVdk5tdDNhOFBXTXhocThINm9Ic3Fpaml0TTU5aWs",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789533000.0
-    },
-    {
-        "id": "0948959bbf",
-        "title_fa": "تلاش‌های تـ.ـقـ.ـویـ.ـت احساسات ضـ.ـد اسـ.ـراییـ.ـلی در تایلند",
-        "title_en": "Iran fuels anti-Israel sentiment in Thailand",
-        "summary": [
-            "تهران شبکه نفوذ و پروپاگاندای خود را برای هدایت افکار عمومی در تایلند فعال کرده است.",
-            "هدف اصلی این اقدامات، ایجاد بستر مناسب برای عملیات‌های پنهانی و فشار بر منافع اسـ.ـراییـ.ـل در شرق آسیا است."
-        ],
-        "impact": "افزایش ریسک امنیتی برای گردشگران و دیپلمات‌های اسـ.ـراییـ.ـلی در تایلند.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDRjZmVKTjBnLUltSVZqb1B0aG5pelpOUFpuSFc2dFlYcjJQWlVOREtpU3AzcURnb0pNZWhQeWxvbHlIVXMtWGlYZ19WWERaZ0kzdVpENWxUVWY0MzNfeEkyZGxjQUhZTVplRXhQUTJFcXpubmFvaktRYjBpdmx5elA1RnVhSW5BRDRTcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDRjZmVKTjBnLUltSVZqb1B0aG5pelpOUFpuSFc2dFlYcjJQWlVOREtpU3AzcURnb0pNZWhQeWxvbHlIVXMtWGlYZ19WWERaZ0kzdVpENWxUVWY0MzNfeEkyZGxjQUhZTVplRXhQUTJFcXpubmFvaktRYjBpdmx5elA1RnVhSW5BRDRTcQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789532109.0
-    },
-    {
-        "id": "78dddcd306",
-        "title_fa": "تصویب قطعنامه اختیارات جنگی علیه ایـ.ـران در مجلس نمایندگان آمریکا",
-        "title_en": "US House passes Iran war powers resolution",
-        "summary": [
-            "مجلـ.ـس نمایندگان آمریکا با تصویب این قطعنامه تلاش می‌کند دست‌اندازی‌های نظامی دولت این کشور بدون مجوز کنگره را محدود کند.",
-            "این تصمیم نشان‌دهنده اختلاف نظر میان قوای مقننه و مجریه آمریکا بر سر نحوه مواجهه با تنش‌های خاورمیانه است."
-        ],
-        "impact": "افزایش مهار سیاسی بر تصمیمات نظامی دولت آمریکا در قبال تهران",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmdsdVotcEFlTTJCQlhfOUtPeTNabDdCV2xEVjJMeUVIRmR4dUR2aEJBZW5Fa2JtZm5ad3BGTjc3NXRvemFUSW9pNXJRNXd6NjFMVEtmSmFaWlFTUnZaalJtRXB4OF9uc0xwVFpJZENickIwYUo5bG5kZ2N4eTgwaWpOa1JNTVhEME92YVUyejVTbWZkLW5DMjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmdsdVotcEFlTTJCQlhfOUtPeTNabDdCV2xEVjJMeUVIRmR4dUR2aEJBZW5Fa2JtZm5ad3BGTjc3NXRvemFUSW9pNXJRNXd6NjFMVEtmSmFaWlFTUnZaalJtRXB4OF9uc0xwVFpJZENickIwYUo5bG5kZ2N4eTgwaWpOa1JNTVhEME92YVUyejVTbWZkLW5DMjd3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789530826.0
     }
 ]
