@@ -477,6 +477,25 @@
         "timestamp": 1789848283.0
     },
     {
+        "id": "1643dfe5e5",
+        "title_fa": "هشدار امنیتی فوری آمریکا: احتمال درگیری ناگهانی با جـ.ـمهوری اسـ.ـلامی",
+        "title_en": "EU emite alerta de seguridad en Medio Oriente ante tensión con Irán; advierte de ataques y cierres aéreos",
+        "summary": [
+            "واشنگتن با صدور هشدار قرمز به شهروندانش در خاورمیانه، عملاً خود را برای یک رویارویی نظامی احتمالی و ناگهانی با تـ.ـهران آماده می‌کند.",
+            "این هشدار فراتر از بیانیه‌های عادی است؛ تمرکز روی احتمال بسته شدن حریم هوایی و لغو پروازها نشان می‌دهد اطلاعات امنیتی از تحرکات قریب‌الوقوع نظامی حکایت دارند.",
+            "هدف قرار گرفتن مقرهای دیپلماتیک آمریکا حتی خارج از خاورمیانه، نشان‌دهنده هراس واشنگتن از فعال شدن شبکه‌های تروریستی نیابتی تـ.ـهران در نقاط دیگر جهان است."
+        ],
+        "impact": "آماده‌باش کامل خطوط هوایی بین‌المللی برای تغییر مسیر پروازها و سقوط احتمالی ارزش ریال به دلیل سایه سنگین جنگ بر منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "El Financiero",
+        "url": "https://www.elfinanciero.com.mx/mundo/2026/09/19/eu-emite-alerta-de-seguridad-por-conflicto-con-iran-advierte-de-ataques-y-cierres-aereos/",
+        "clean_url": "https://www.elfinanciero.com.mx/mundo/2026/09/19/eu-emite-alerta-de-seguridad-por-conflicto-con-iran-advierte-de-ataques-y-cierres-aereos",
+        "image": "http://www.bing.com/th?id=ONUT.km5g8Fmwmyvlz1XHb6xb-w&pid=News",
+        "timestamp": 1789846920.0
+    },
+    {
         "id": "f1e6bc7fc9",
         "title_fa": "استقرار رادارهای نظامی جـ.ـمـ.ـهـ.ـوری اِسـ.ـلامـ.ـی برای شبه‌نظامیان یمن",
         "title_en": "Iran reportedly installs radar systems for use by Yemen's Houthis",
@@ -5476,23 +5495,5 @@
         "clean_url": "https://www.msn.com/en-us/news/news/iran-war-live-saudi-arabia-says-it-shot-down-drone-near-mecca/ar-AA2ceLKA",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cfoEN.img?w=1200&h=800&m=4&q=81",
         "timestamp": 1789529717.0
-    },
-    {
-        "id": "a2aa0c640c",
-        "title_fa": "هشدار امنیتی درباره نفوذ ق-ا-چ-ا-ق و حضور ای-ران در آفریقا",
-        "title_en": "Iran is moving West. Israel should be watching Africa",
-        "summary": [
-            "تحلیل های جدید امنیتی نشان می دهد که رویکرد نفوذ به غرب و قاره آفریقا باید به عنوان یک تهدید جدی رصد شود.",
-            "اسرائیل و متحدانش باید علاوه بر مرزهای مستقیم، تحرکات این حکومت را در حیاط خلوت های جدید یعنی آفریقا زیر نظر بگیرند."
-        ],
-        "impact": "گسترش رقابت های امنیتی و اطلاعاتی به جغرافیای آفریقا.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ucVpNT0Z5LUJsTmRGeTdoemJSMHNERktBR2c1dFVGTG5HWWRxOURzVjh5V3BHejFUWXRxTVdQa0JVYTBvcWlRSjhfQWFDb2NuLVhmMFJkdXdLNEZBY1FWMWVMVzhRbC1XclA0Mmx3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ucVpNT0Z5LUJsTmRGeTdoemJSMHNERktBR2c1dFVGTG5HWWRxOURzVjh5V3BHejFUWXRxTVdQa0JVYTBvcWlRSjhfQWFDb2NuLVhmMFJkdXdLNEZBY1FWMWVMVzhRbC1XclA0Mmx3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789529244.0
     }
 ]
