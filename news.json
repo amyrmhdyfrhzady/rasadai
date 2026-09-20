@@ -601,6 +601,25 @@
         "timestamp": 1789885860.0
     },
     {
+        "id": "ef0ed85fde",
+        "title_fa": "نقشه راه محرمانه مسکو و تهران برای دور زدن تحریم‌ها",
+        "title_en": "Russian document maps deeper cooperation with Iran – Fox News",
+        "summary": [
+            "مسکو و تهران سند همکاری‌های راهبردی ۴۴ صفحه‌ای برای گسترش روابط در حوزه‌های مالی، هسته‌ای، هوایی و انرژی تا سال ۲۰۲۶ تدوین کرده‌اند.",
+            "این برنامه شامل استفاده از ارزهای ملی برای مراودات مالی، مشارکت روسیه در نیروگاه بوشهر و ساخت قطعات هواپیماست.",
+            "همزمان برخی چهره‌های حکومتی بحث خروج از ان‌پی‌تی و تغییر دکترین هسته‌ای را مطرح کرده‌اند که فشارها را بیشتر می‌کند."
+        ],
+        "impact": "تلاش دوجانبه برای خنثی‌سازی تحریم‌های مالی و ساختاری با تکیه بر محور مسکو.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609208544",
+        "clean_url": "https://www.iranintl.com/en/202609208544",
+        "image": "http://www.bing.com/th?id=ONUT.qMCZrZQmXTpwlYAZOYkGiw&pid=News",
+        "timestamp": 1789885800.0
+    },
+    {
         "id": "e63a504349",
         "title_fa": "سر به فلک کشیدن هزینه‌های جنگ با ج.ا",
         "title_en": "Iran war costs surge to $45.1 billion, Pentagon tells Congress: Reports",
@@ -5469,24 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMV9faGZkdklkNUxsX3I0RzEzcjU0UUxnVE53elp5bGpKaGJSbk9TU3RNZjhFcmEyVzEzUG5pUHJKWmRYWU5sbWM3Y3ROdnlBMlE4d1NyTnlTbVM5QldfOXNrbzZRbFJacFg5OUxXWlpjSWVkUzI4azNrY2hudnM4Rjc3eUFNYlBUSFN3bllxR2RTM3hQS3dBbUtLZ3lWQ21fQy02VVc0NXQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789600264.0
-    },
-    {
-        "id": "55b56b149d",
-        "title_fa": "بن‌بست ترامپ؛ فشار حداکثری و قمار خطرناک تهران",
-        "title_en": "Trump has lost control as his 'little war' gets a lot bigger",
-        "summary": [
-            "سیاست خفگی اقتصادی ترامپ کارساز بوده اما حکومت تهران را به سمت رفتارهای انتحاری و پذیرش ریسک‌های بزرگتر هل داده است.",
-            "ترامپ تصور می‌کند تهران بعد از انتخابات آمریکا تسلیم می‌شود، اما مشاوران ارشدش هشدار می‌دهند این بحران بسیار طولانی‌تر خواهد بود.",
-            "تحریم‌ها رمق اقتصاد ایران را گرفته‌اند، اما همزمان احتمال برخورد نظامی ناخواسته را به شدت بالا برده‌اند."
-        ],
-        "impact": "افزایش احتمال درگیری‌های نظامی در منطقه به دلیل تنگ‌تر شدن حلقه محاصره اقتصادی ج.ا.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Sydney Morning Herald",
-        "url": "https://www.smh.com.au/business/the-economy/trump-has-lost-control-as-his-little-war-gets-a-lot-bigger-20260915-p60xbx.html",
-        "clean_url": "https://www.smh.com.au/business/the-economy/trump-has-lost-control-as-his-little-war-gets-a-lot-bigger-20260915-p60xbx.html",
-        "image": "https://static.ffx.io/images/$zoom_0.1634%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_30%2C$y_113/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/e1252933e9581eb26b14d4bad77db9e3a0d9fb08",
-        "timestamp": 1789595100.0
     }
 ]
