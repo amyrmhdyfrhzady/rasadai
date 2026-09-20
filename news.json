@@ -108,6 +108,25 @@
         "timestamp": 1789927860.0
     },
     {
+        "id": "fa4feadb5f",
+        "title_fa": "اعتراضات بازنشستگان و سقوط ارزش ریال در بحران اقتصادی",
+        "title_en": "Rial Slides to 232,000 as Retirees March and Parliament Widens Iran's Security Controls",
+        "summary": [
+            "بازنشستگان صنعت فولاد و تامین اجتماعی در شهرهای مختلف با اعتراض به گرانی و تورم به خیابان‌ها آمدند.",
+            "مجلسی‌ها طرح‌های جدیدی برای سخت‌تر کردن کنترل‌های امنیتی و آموزشی با بهانه جلوگیری از نفوذ دشمن تصویب کردند.",
+            "محمدباقر قالیباف تایید کرد که نظام از طریق واسطه‌ها در حال ارسال شرایط برای مذاکره است."
+        ],
+        "impact": "فشار همزمان خیابان و بحران ارز، حاکمیت را به تقلا برای باز کردن مسیر مذاکره واداشته است.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "NCRI",
+        "url": "https://www.ncr-iran.org/en/news/economy/rial-slides-to-232000-as-retirees-march-and-parliament-widens-irans-security-controls/",
+        "clean_url": "https://www.ncr-iran.org/en/news/economy/rial-slides-to-232000-as-retirees-march-and-parliament-widens-irans-security-controls",
+        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2023/09/iran-money-exchange-economy.jpg",
+        "timestamp": 1789926540.0
+    },
+    {
         "id": "050f7281f3",
         "title_fa": "بالگرفتن تنش میان تـهـران و واشنگتن پس از حملات یمن",
         "title_en": "Iran and US trade threats after Houthi attacks escalate regional conflict",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-in-israel-without-permit-allegedly-steals-car-and-gets-into-crash-killing-cyclist",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789632420.0
-    },
-    {
-        "id": "75231e1b40",
-        "title_fa": "نقش‌آفرینی رومانی در معادلات خاورمیانه و امنیت دریای سیاه",
-        "title_en": "Mapping the International Relations of Romania with Middle Eastern Countries: A Policy Analysis",
-        "summary": [
-            "رومانی به دلیل موقعیت استراتژیک در مرز شرقی ناتو و اتحادیه اروپا، رویکردی چندلایه به تحولات خاورمیانه دارد.",
-            "سیاست خارجی بخارست در منطقه بیشتر تحت تأثیر الزامات امنیتی، امنیت انرژی و منافع اقتصادی شکل گرفته است تا یک راهبرد کلان واحد."
-        ],
-        "impact": "تلاش رومانی برای تنظیم روابط با بازیگران کلیدی خاورمیانه جهت تنوع‌بخشی به منابع انرژی و امنیت مرزهای خود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "mepei",
-        "url": "https://mepei.com/mapping-the-international-relations-of-romania-with-middle-eastern-countries-a-policy-analysis/",
-        "clean_url": "https://mepei.com/mapping-the-international-relations-of-romania-with-middle-eastern-countries-a-policy-analysis",
-        "image": "https://mepei.com/wp-content/uploads/2026/09/Picture1.jpg",
-        "timestamp": 1789632300.0
     }
 ]
