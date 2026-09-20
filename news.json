@@ -678,6 +678,24 @@
         "timestamp": 1789848283.0
     },
     {
+        "id": "892e754030",
+        "title_fa": "یورش حکومتی برای جذب کودکان به خط مقدم نیابتی",
+        "title_en": "Iran mobilisation drive extends to children under 15",
+        "summary": [
+            "حکومت با راه‌اندازی پویش‌های جدید، کودکان زیر ۱۵ سال را هدف شستشوی مغزی و آموزش‌های نظامی قرار داده است.",
+            "مقام‌های نظامی تلاش می‌کنند با سوءاستفاده از مفاهیم ملی‌گرایی، نسل جدید را برای اهداف بقای رژیم آماده کنند."
+        ],
+        "impact": "نهادینه کردن خشونت و ایدئولوژی جنگ‌طلبانه در ذهن کودکان برای روزهای بحرانی.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609206316",
+        "clean_url": "https://www.iranintl.com/en/202609206316",
+        "image": "http://www.bing.com/th?id=ONUT.oq6TU1ZQkaZxSI5OtH6bRg&pid=News",
+        "timestamp": 1789847760.0
+    },
+    {
         "id": "1643dfe5e5",
         "title_fa": "هشدار امنیتی فوری آمریکا: احتمال درگیری ناگهانی با جـ.ـمهوری اسـ.ـلامی",
         "title_en": "EU emite alerta de seguridad en Medio Oriente ante tensión con Irán; advierte de ataques y cierres aéreos",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/russian-satellites-flew-over-us-base-in-saudi-arabia-days-before-iranian-attack-cnn",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260329__A64D2EF__v2__HighRes__TopshotSaudiIranUsIsraelWar-640x400.jpg",
         "timestamp": 1789545780.0
-    },
-    {
-        "id": "5dadfbc5da",
-        "title_fa": "کاهش ترس جهانی از جنگ اتمی و خطرات پیش‌رو",
-        "title_en": "World leaders are losing their terror of nuclear war",
-        "summary": [
-            "ترس مشترک رهبران آمریکا و شوروی در دوران جنگ سرد بارها مانع از فاجعه اتمی شد.",
-            "عادی‌سازی خطرات هسته‌ای و از بین رفتن بازدارندگی روانی میان قدرت‌ها، امنیت جهان را به خطر می‌اندازد."
-        ],
-        "impact": "افزایش ریسک درگیری‌های اتمی به دلیل بی‌تفاوت شدن رهبران جهان نسبت به پیامدهای ویرانگر آن.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "NRC",
-        "url": "https://www.nrc.nl/nieuws/2026/09/16/world-leaders-are-losing-their-terror-of-nuclear-war-a4936397",
-        "clean_url": "https://www.nrc.nl/nieuws/2026/09/16/world-leaders-are-losing-their-terror-of-nuclear-war-a4936397",
-        "image": "https://images.nrc.nl/UreVfJ_PiF6FMkUlQyUxoGFalnY=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/11115226/170926OPI_2036616527_WEB_ILLU_Economist_World-leaders_Chloe-Cushman.jpg",
-        "timestamp": 1789545600.0
     }
 ]
