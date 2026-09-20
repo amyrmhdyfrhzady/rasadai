@@ -530,6 +530,24 @@
         "timestamp": 1789839285.0
     },
     {
+        "id": "a3b68e4acc",
+        "title_fa": "هشدار درباره خطر ابتلای مسافران به سرخک در فرودگاه فیلادلفیا",
+        "title_en": "There was a possible measles exposure at Philadelphia International Airport",
+        "summary": [
+            "مقام‌های بهداشتی از احتمال مواجهه مسافران با بیماری سرخک در ترمینال‌های مختلف فرودگاه خبر داده‌اند.",
+            "این رویداد ارتباطی با موارد قبلی گزارش شده در بیمارستان کودکان ندارد."
+        ],
+        "impact": "آماده‌باش بخش بهداشت عمومی و پیگیری مسافران حاضر در محل برای جلوگیری از شیوع.",
+        "tag": "سلامت",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/news/philadelphia/phl-measles-possible-exposure-philadelphia-international-airport-20260919.html",
+        "clean_url": "https://www.inquirer.com/news/philadelphia/phl-measles-possible-exposure-philadelphia-international-airport-20260919.html",
+        "image": "http://www.bing.com/th?id=ONUT.fIjmaz3b5len2EhMuxAQkg&pid=News",
+        "timestamp": 1789838520.0
+    },
+    {
         "id": "dedee311d3",
         "title_fa": "ادعای پایان جنگ یمن همزمان با حمله به ریاض",
         "title_en": "Live - Iran says it wants Saudi-Yemen war to end as airstrike hits Riyadh airport",
@@ -546,6 +564,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789837329.0
+    },
+    {
+        "id": "b57b40597a",
+        "title_fa": "هشدار محققان درباره خطر نابودی بشر توسط هوش مصنوعی",
+        "title_en": "Mitch Albom: The real problem lies with human nature, not AI",
+        "summary": [
+            "برخی متخصصان ارشد شرکت‌های پیشرو هشدار داده‌اند که توسعه کنترل‌نشده فناوری می‌تواند به انقراض بشر منجر شود.",
+            "استعفای برخی چهره‌های کلیدی به دلیل بی‌توجهی شرکت‌ها به مسائل ایمنی، زنگ خطری جدی به صدا درآورده است."
+        ],
+        "impact": "تشدید نگرانی‌ها درباره ضرورت قانون‌گذاری سریع و سخت‌گیرانه بر شرکت‌های سازنده فناوری‌های نوین.",
+        "tag": "فناوری",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Detroit Free Press",
+        "url": "https://www.freep.com/story/sports/columnists/mitch-albom/2026/09/20/mitch-albom-the-real-problem-lies-with-human-nature-not-ai/91798506007/",
+        "clean_url": "https://www.freep.com/story/sports/columnists/mitch-albom/2026/09/20/mitch-albom-the-real-problem-lies-with-human-nature-not-ai/91798506007",
+        "image": "http://www.bing.com/th?id=ONUT.7SicnZ5bENSJxQSmM5FeJA&pid=News",
+        "timestamp": 1789837200.0
+    },
+    {
+        "id": "729378cdd8",
+        "title_fa": "وابستگی انرژی سبز بریتانیا به زنجیره تامین چین",
+        "title_en": "Britain’s rush to net zero fuelled China’s energy dominance",
+        "summary": [
+            "پروژه‌های بزرگ انرژی خورشیدی در بریتانیا به شدت به پنل‌ها و تجهیزات ساخت چین وابسته‌اند.",
+            "سیاست‌گذاری‌های شتاب‌زده برای دستیابی به انرژی پاک، عملاً بازار را در اختیار پکن قرار داده است."
+        ],
+        "impact": "تقویت جایگاه ژئوپلیتیک چین در بازار انرژی‌های تجدیدپذیر اروپا و افزایش آسیب‌پذیری زیرساخت‌ها.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/britain-rush-net-zero-fuelled-050000000.html",
+        "clean_url": "https://www.aol.com/articles/britain-rush-net-zero-fuelled-050000000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/09/20/6547efb0-ca2f-369d-bb64-87b95ec44d5c/068d99ab-1957-40a7-bcc7-483af394769b.jpeg",
+        "timestamp": 1789837200.0
     },
     {
         "id": "8e5bbcac3b",
@@ -583,6 +637,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU05Hcmc3QTl4NlhrOHdhVmJMNml4SDFiZWw3ckppYjRUZ2dxS05nWW16X3oxUjJZTkh0U2Y3SGNzNEpZVzZzWTBlNTkydnlmdlRTenZKUFZMMFhzeGt2LWR6ekdHUmRZWkRhdm5QYXhJS2lSdzdwNEJKX0MwMUdpN1RFSkJTS2c3",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789835095.0
+    },
+    {
+        "id": "b609fa2402",
+        "title_fa": "دستور ترامپ برای تشکیل نیروی ویژه هوش مصنوعی",
+        "title_en": "Trump says he will create 'AI Force,' appoint czar to oversee industry",
+        "summary": [
+            "دونالد ترامپ قصد دارد یک نیروی ویژه برای کنترل صنعت هوش مصنوعی ایجاد کند.",
+            "تعیین یک مسئول تام‌الاختیار برای نظارت بر این فناوری در دستور کار قرار گرفته است."
+        ],
+        "impact": "افزایش نظارت دولتی و تغییرات ساختاری در صنعت فناوری آمریکا.",
+        "tag": "فناوری",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "UPI",
+        "url": "https://www.upi.com/Top_News/US/2026/09/19/trump-ai-force-czar/8561789857828/",
+        "clean_url": "https://www.upi.com/Top_News/US/2026/09/19/trump-ai-force-czar/8561789857828",
+        "image": "http://www.bing.com/th?id=ONUT.08bWsxgFbs5u11xSfbM8zQ&pid=News",
+        "timestamp": 1789833240.0
     },
     {
         "id": "e96b6d2625",
@@ -5421,78 +5493,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnlkd1Y1cDB2MGdmcngydWZDR1JnXzY4aTliNFJCdzU5dHFWSzJSVzdtemF6STMwZGJSczRnUHBFOW5BU21jQk5GdzctbExET044UXg4dkZEcDQ3TkpZVTUyc2o1R0ZJY050MC1Ec0VrVE9QSWpKOVdjNWRtR2dqWmZKQ3lKX2NEd0dKb1o2RQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789526400.0
-    },
-    {
-        "id": "a62a37c3f5",
-        "title_fa": "کنگره آمریکا به دنبال مهار اقدامات نظامی علیه ای-ران",
-        "title_en": "House Directs Trump to Halt War With Iran or Secure Congress’s Approval",
-        "summary": [
-            "مجلس نمایندگان آمریکا با تصویب قطعنامه‌ای به دونالد ترامپ دستور داد هرگونه اقدام جنگی علیه ای-ران را متوقف کند.",
-            "این تصمیم نشان‌دهنده تلاش قانون‌گذاران برای جلوگیری از تنش‌های نظامی بدون مجوز رسمی کنگره است."
-        ],
-        "impact": "افزایش فشارهای داخلی بر دولت آمریکا برای محدود کردن گزینه‌های نظامی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUNsQjB4X2ozU0twYnpabTd0Uld2V09XT3h2OUE2X1ZmWEsyM3pLb1RGNXFBZUlPVWNNT0xJZGI0cFYtdnBldXVBNTNrSXAxdEhtWERteDJFU1NjRXA0dVFpX0RoWU5VNDJnLVdHS1BQT3RqMUV2eDJVYzZ6WG9KZ011V3ItTHdzWF95VGJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUNsQjB4X2ozU0twYnpabTd0Uld2V09XT3h2OUE2X1ZmWEsyM3pLb1RGNXFBZUlPVWNNT0xJZGI0cFYtdnBldXVBNTNrSXAxdEhtWERteDJFU1NjRXA0dVFpX0RoWU5VNDJnLVdHS1BQT3RqMUV2eDJVYzZ6WG9KZ011V3ItTHdzWF95VGJ3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789526336.0
-    },
-    {
-        "id": "1b29955d3a",
-        "title_fa": "کنگره آمریکا دوباره به سیاست د..ل..ر ترامپ در قبال ای...ران تاخت",
-        "title_en": "US House Rebukes Trump Again on Iran Conflict as Price Tag Grows",
-        "summary": [
-            "نمایندگان مجلس نمایندگان آمریکا بار دیگر به رویکرد ترامپ در مناقشه با ای...ران انتقاد کردند.",
-            "هزینه‌های سرسام‌آور این تنش‌ها به موضوع چالش‌برانگیزی در واشنگتن تبدیل شده است."
-        ],
-        "impact": "افزایش فشارهای سیاسی داخلی در آمریکا علیه رویکردهای سخت‌گیرانه در قبال ای...ران.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Bloomberg Government News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZEpJSmNLX1JQa3d1UkhCbVdwNzVpZ0R2Q0ZhdkVkWkR4ZkhGd19EMUtOVnJGblFleW9HaEhuTjh2ekNOaG9pNzZlMHZWTFYzQ0xqU1NzdVhHaWwxQXRvU3o4NjNPYUx1d2tGWkt1WHZKX2gzczh2N1d5YW9EWnZOeTdqbVN2WW8xemkzLTdpZFNCY3VORmd5MlVnTkw3NHpVTWI4U0paYk1tZF9mZGk3S3BR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZEpJSmNLX1JQa3d1UkhCbVdwNzVpZ0R2Q0ZhdkVkWkR4ZkhGd19EMUtOVnJGblFleW9HaEhuTjh2ekNOaG9pNzZlMHZWTFYzQ0xqU1NzdVhHaWwxQXRvU3o4NjNPYUx1d2tGWkt1WHZKX2gzczh2N1d5YW9EWnZOeTdqbVN2WW8xemkzLTdpZFNCY3VORmd5MlVnTkw3NHpVTWI4U0paYk1tZF9mZGk3S3BR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789526100.0
-    },
-    {
-        "id": "78de9cc19a",
-        "title_fa": "افت قیمت نفت همزمان با فروکش کردن تنشهای ای-ران و اس-رائیل",
-        "title_en": "Oil Falls as Investors Await Clarity After Iran-Israel Halt Attacks",
-        "summary": [
-            "بازار انرژی با کاهش قیمت نفت به آرامش نسبی موقت پس از درگیریهای اخیر واکنش نشان داد.",
-            "سرمایه‌گذاران همچنان منتظر شفافیت بیشتر درباره پایداری وضعیت موجود در منطقه هستند."
-        ],
-        "impact": "کاهش موقت فشارهای صعودی بر قیمت جهانی نفت و بازگشت نسبی ثقل بازار به سمت عرضه عادی.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "EnergyNow",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQV9OVUtGR1JBdlZPTm5MeFhweEtSQlZpcWdRRnc5R0xIZk9WaUlodEJ3WlZqUk1OTEJITmViOVhkVmRMR0JZazRpQVEtRlZoTVkwS3VHWXBlempKQ0ZENGVTb1l5Q1ZSTERVWDg1cVM0TE81cVZVQlRsRXZMajk1T0JMVndfcWR2cUh1VXFUOWNmZXlMakFYVDlVelhMQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQV9OVUtGR1JBdlZPTm5MeFhweEtSQlZpcWdRRnc5R0xIZk9WaUlodEJ3WlZqUk1OTEJITmViOVhkVmRMR0JZazRpQVEtRlZoTVkwS3VHWXBlempKQ0ZENGVTb1l5Q1ZSTERVWDg1cVM0TE81cVZVQlRsRXZMajk1T0JMVndfcWR2cUh1VXFUOWNmZXlMakFYVDlVelhMQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789525907.0
-    },
-    {
-        "id": "702d29d70b",
-        "title_fa": "شکست فشار نظامی واشنگتن در برابر مقاومت مدنی ملت",
-        "title_en": "Trump went to war with Iran. One woman's death shook the regime more.",
-        "summary": [
-            "فشار نظامی مستقیم و ائتلاف ایالات متحده و اسرائیل نتواند ساختار حکومت ج.ا را فرو بپاشد.",
-            "مرگ مهسا امینی در بازداشت گشت ارشاد بیش از حملات نظامی بنیان‌های حاکمیت را به چالش کشید.",
-            "مبارزات مدنی و اجتماعی درون‌زا بسیار بیشتر از فشارهای خارجی حاکمیت را ترسانده است."
-        ],
-        "impact": "تغییر پارادایم از دخالت نظامی خارجی به سمت تقویت جنبش‌های اعتراضی درون‌مرزی.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/trump-went-war-iran-one-090000168.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/trump-went-war-iran-one-090000168.html",
-        "image": "http://www.bing.com/th?id=ONUT._vzvtAAE-PI4XJnw260WfA&pid=News",
-        "timestamp": 1789523940.0
     }
 ]
