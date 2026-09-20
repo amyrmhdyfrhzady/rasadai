@@ -1,5 +1,24 @@
 [
     {
+        "id": "270bd8dae6",
+        "title_fa": "بحران دارو و درمان در ایران زیر تیغ تحریم‌ها و تورم",
+        "title_en": "Trump’s sanctions, inflation and a collapsing economy leaves Iran’s sick exposed",
+        "summary": [
+            "تشدید تحریم‌های اقتصادی همراه با تورم فزاینده، تهیه داروهای حیاتی و درمان بیماران خاص را به بن‌بست کشانده است.",
+            "سقوط ارزش ریال و سوءمدیریت در تخصیص ارز، واردات تجهیزات پزشکی پایه را با کمبود جدی مواجه کرده است.",
+            "فشار حداکثری و بحران عمیق اقتصادی، سیستم بهداشت و درمان کشور را در آستانه فرسایش شدید قرار داده است."
+        ],
+        "impact": "جهش سنگین قیمت دارو و گسترش ناتوانی بخش درمانی در پوشش نیازهای حیاتی جامعه.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.75,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmdlQkk4eTRJVHUzRTRKeTVFS1VjUFU0ZkNHcm0zWWVqNnZKVENkY3pVVTVPdzdhbDdjQkF5YkhoVkNfSFgtaE5UNWFGZjEwRDZZcVNQQVd0dEpvZGZ6d2xqSTZNdGNWRmlrX0V1TUhKTU5hUDBYbUxtMkZ1Q0l1T18xWnZUT3Rzb2QtY1cxOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmdlQkk4eTRJVHUzRTRKeTVFS1VjUFU0ZkNHcm0zWWVqNnZKVENkY3pVVTVPdzdhbDdjQkF5YkhoVkNfSFgtaE5UNWFGZjEwRDZZcVNQQVd0dEpvZGZ6d2xqSTZNdGNWRmlrX0V1TUhKTU5hUDBYbUxtMkZ1Q0l1T18xWnZUT3Rzb2QtY1cxOA",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789889954.0
+    },
+    {
         "id": "e3eeaf2d6c",
         "title_fa": "نمایش تبلیغاتی حکومت با عنوان «جانفدا» علیه آمریکا و اسرائیل",
         "title_en": "Thousands of Iranians rally against US, Israel in 'Janfada Iran' initiative",
@@ -5477,23 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmdsdVotcEFlTTJCQlhfOUtPeTNabDdCV2xEVjJMeUVIRmR4dUR2aEJBZW5Fa2JtZm5ad3BGTjc3NXRvemFUSW9pNXJRNXd6NjFMVEtmSmFaWlFTUnZaalJtRXB4OF9uc0xwVFpJZENickIwYUo5bG5kZ2N4eTgwaWpOa1JNTVhEME92YVUyejVTbWZkLW5DMjd3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789530826.0
-    },
-    {
-        "id": "ae5e91c594",
-        "title_fa": "رهگیری پهپاد در آسمان مکه و آمادگی ترامپ برای توافق",
-        "title_en": "Iran war live: Saudi Arabia says it shot down drone near Mecca",
-        "summary": [
-            "پدافند عربستان سعودی یک فروند پهپاد را در نزدیکی مکه سرنگون کرد.",
-            "دونالد ترامپ از آمادگی خود برای مذاکره به منظور پایان دادن به تنش‌ها خبر داد."
-        ],
-        "impact": "گسترش دامنه تهدیدات پهپادی به اماکن حساس و همزمان تلاش کنگره و ترامپ برای مدیریت بحران.",
-        "tag": "امنیتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/news/iran-war-live-saudi-arabia-says-it-shot-down-drone-near-mecca/ar-AA2ceLKA",
-        "clean_url": "https://www.msn.com/en-us/news/news/iran-war-live-saudi-arabia-says-it-shot-down-drone-near-mecca/ar-AA2ceLKA",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cfoEN.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1789529717.0
     }
 ]
