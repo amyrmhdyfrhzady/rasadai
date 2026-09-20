@@ -18,6 +18,24 @@
         "timestamp": 1789933103.0
     },
     {
+        "id": "719cb23aa6",
+        "title_fa": "میانجی‌گری قطر برای احیای گفتگوهای تهران و واشنگتن",
+        "title_en": "Qatar says it is working to revive Iran-US talks",
+        "summary": [
+            "دوحه تلاش‌های دیپلماتیک جدیدی را برای باز کردن کلاف کور مذاکرات میان جـ.ـهـ.ـوری اسـ.ـلامـ.ـی و آمریکا کلید زده است.",
+            "این میانجی‌گری در حالی انجام می‌شود که فشارهای بین‌المللی بر سر پرونده اتمی به بالاترین حد رسیده است."
+        ],
+        "impact": "تلاش‌های دیپلماتیک برای کاهش تنش فعلاً در سطح رایزنی باقی مانده است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3QwV2NKY1pPYUYzdW1kTjhvRlZNR0R6UElRSWtKSTRKeWswZHZtalVsZUVCcFFOMW1KLUFZUXJnaVgwMi1NZTQwR3JTRWFTaU1FbkY2bG9tOXEwNEpFczYzaV83Y0hnR2IyV0t4dXVzRUg1cXlCWFNQaVA1ZXpRRmFmX2U3NzJaZkQ4RFE5UFoxUVFzbHQzNXZaWkhNdDRw0gGmAUFVX3lxTE42bXFpVWh6Y1lHWlpCZWxGZ1Vvd1NXNThaMWM3YUFWTTMzVnFKQjhTNnlSMkpsUDBxNTFVMl9OY05nNjFKS1BucmdBdlJMazFjME9wN3EwQnR6ZGF0eU05endqcl9yZS1hbkNKTkc5UWdoUDBPektWZEc5VnNydjkwWjFMc0IxdWc2Q0xRSFJKeEpXWG1VVWFYVFlnRFo4b1g3Tl9vR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3QwV2NKY1pPYUYzdW1kTjhvRlZNR0R6UElRSWtKSTRKeWswZHZtalVsZUVCcFFOMW1KLUFZUXJnaVgwMi1NZTQwR3JTRWFTaU1FbkY2bG9tOXEwNEpFczYzaV83Y0hnR2IyV0t4dXVzRUg1cXlCWFNQaVA1ZXpRRmFmX2U3NzJaZkQ4RFE5UFoxUVFzbHQzNXZaWkhNdDRw0gGmAUFVX3lxTE42bXFpVWh6Y1lHWlpCZWxGZ1Vvd1NXNThaMWM3YUFWTTMzVnFKQjhTNnlSMkpsUDBxNTFVMl9OY05nNjFKS1BucmdBdlJMazFjME9wN3EwQnR6ZGF0eU05endqcl9yZS1hbkNKTkc5UWdoUDBPektWZEc5VnNydjkwWjFMc0IxdWc2Q0xRSFJKeEpXWG1VVWFYVFlnRFo4b1g3Tl9vR3c",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789932989.0
+    },
+    {
         "id": "1c9f828594",
         "title_fa": "آماده‌باش منطقه از ترس حملات جدید هوایی",
         "title_en": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-17/live-updates-908844",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738103",
         "timestamp": 1789606800.0
-    },
-    {
-        "id": "332360ae42",
-        "title_fa": "ترامپ: به پایان جنگ با ایران نزدیک می‌شویم",
-        "title_en": "Iran war live: Yemeni soldiers battling Houthi advances on several fronts",
-        "summary": [
-            "دونالد ترامپ از مذاکرات مستقیم با طرف ایرانی خبر داد.",
-            "نیروهای یمنی در چند جبهه از جمله باب‌المندب با حمایت هوایی عربستان در حال مقابله با حوثی‌ها هستند."
-        ],
-        "impact": "این اظهارات می‌تواند سیگنالی مثبت برای کاهش تنش‌های نظامی و ارزی در منطقه باشد.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295602609-1-1789642509.jpg?resize=1200%2C630",
-        "timestamp": 1789606740.0
     }
 ]
