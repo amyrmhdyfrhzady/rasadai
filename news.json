@@ -603,6 +603,25 @@
         "timestamp": 1789866060.0
     },
     {
+        "id": "78602936d8",
+        "title_fa": "شرط‌گذاری حاکمیت برای بازگشایی تنگه هرمز",
+        "title_en": "Irán dice haber comunicado a Estados Unidos sus condiciones para reabrir Ormuz",
+        "summary": [
+            "مقام ارشد پارلمانی ج.ا اعلام کرد باز شدن تنگه راهبردی هرمز منوط به عقب‌نشینی واشنگتن از مواضعش است.",
+            "تهران در بحبوحه جنگ اقتصادی و نظامی، ابزار فشار خود روی انرژی جهان را حفظ کرده است.",
+            "بلوکه بودن بنادر داخلی و مسدود شدن شریان‌های مالی، پاسخی متقابل به اقدام آمریکا بوده است."
+        ],
+        "impact": "تداوم بحران در خلیج فارس و حفظ ریسک بالا برای بازار جهانی انرژی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Teletrece",
+        "url": "https://www.t13.cl/noticia/mundo/iran-dice-haber-comunicado-estados-unidos-sus-condiciones-para-reabrir-ormuz-20-9-2026",
+        "clean_url": "https://www.t13.cl/noticia/mundo/iran-dice-haber-comunicado-estados-unidos-sus-condiciones-para-reabrir-ormuz-20-9-2026",
+        "image": "https://s.t13.cl/sites/default/files/styles/manualcrop_850x475/public/t13/field-imagen/2026-09/1789901835.jpg.jpeg?itok=z42yQdpU",
+        "timestamp": 1789866000.0
+    },
+    {
         "id": "e4470ebdd2",
         "title_fa": "تغییرات در ترکیب تیم پیتسبرگ استیلرز در لیگ فوتبال آمریکایی",
         "title_en": "Steelers make multiple roster moves for Week 2 matchup vs. Patriots",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.dailynews.com/2026/09/16/immigration-human-trafficking-claims",
         "image": "http://www.bing.com/th?id=ONUT.HZvFgoJJ0hKKXaSoVd_bjQ&pid=News",
         "timestamp": 1789559580.0
-    },
-    {
-        "id": "18cae2f232",
-        "title_fa": "پمپاژ ۱۳۰ میلیون دلاری ترامپ برای تسخیر کنگره",
-        "title_en": "Trump-aligned groups are pouring money into the midterm races",
-        "summary": [
-            "گروه‌های حامی ترامپ در آستانه انتخابات، بودجه‌های نجومی را روانه تبلیغات تلویزیونی کرده‌اند.",
-            "این حجم از پول‌پاشی، تلاش مستقیم ترامپ برای خریدن وفاداری نامزدهای جمهوری‌خواه و کنترل آینده حزب است."
-        ],
-        "impact": "افزایش شدید هزینه‌های تبلیغاتی و تلاش برای یکدست‌سازی کنگره به نفع جریان ترامپ.",
-        "tag": "انتخابات",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Press Democrat",
-        "url": "https://www.pressdemocrat.com/2026/09/16/trump-money-2026-elections/",
-        "clean_url": "https://www.pressdemocrat.com/2026/09/16/trump-money-2026-elections",
-        "image": "http://www.bing.com/th?id=ONUT.avf48eT5cqzzQmPXGFB-zg&pid=News",
-        "timestamp": 1789559040.0
     }
 ]
