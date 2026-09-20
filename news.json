@@ -181,6 +181,25 @@
         "timestamp": 1789897922.0
     },
     {
+        "id": "c227c1357d",
+        "title_fa": "هشدار فوری آمریکا به شهروندانش: ذخیره آذوقه یا خروج سریع از ایران",
+        "title_en": "Americans in Iran told to stockpile food and water as State Department issues countrywide alert",
+        "summary": [
+            "وزارت خارجه آمریکا با صدور یک هشدار امنیتی سراسری، از معدود شهروندان خود در ایران خواست فوراً کشور را ترک کنند یا آماده پناه گرفتن در محل باشند.",
+            "توصیه به ذخیره آب و غذا معمولاً پیش‌درآمد آغاز درگیری‌های حاد نظامی یا شرایط فوق‌العاده امنیتی است.",
+            "این هشدار نشان‌دهنده شکست راه‌های دیپلماتیک و ورود تنش‌ها به فاز عملیاتی و غیرقابل پیش‌بینی است."
+        ],
+        "impact": "افزایش ناگهانی احتمال درگیری مستقیم نظامی و تحریک تقاضای شدید در بازار ارز و طلا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Idaho Public Press on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/americans-in-iran-told-to-stockpile-food-and-water-as-state-department-issues-countrywide-alert/ar-AA2cCsgr",
+        "clean_url": "https://www.msn.com/en-us/politics/government/americans-in-iran-told-to-stockpile-food-and-water-as-state-department-issues-countrywide-alert/ar-AA2cCsgr",
+        "image": "http://www.bing.com/th?id=ONUT.se0KdIMs3T8Hipihn6cEjg&pid=News",
+        "timestamp": 1789896801.0
+    },
+    {
         "id": "06062e6d73",
         "title_fa": "تناقض در سخنان ترامپ درباره ایران و سکوت درباره تغییر ر‌ژ‌ی‌م",
         "title_en": "Trump contradicts US intelligence on Iran, doesn't address regime change as before - ABC News",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-us-war-trump-says-us-is-hopefully-toward-end-of-iran-war-us-contracted-vessel-hit-by-iranian-missiles-near-hormuz-10-key-updates/ar-AA2cp7PP",
         "image": "http://www.bing.com/th?id=ONUT.MfoBxEF5LbNDjHol4HjfNg&pid=News",
         "timestamp": 1789579093.0
-    },
-    {
-        "id": "99425b2ac6",
-        "title_fa": "هشدار سفر آمریکا به عربستان همزمان با تشدید جنگ یمن",
-        "title_en": "Iran live updates: US says Americans should 'reconsider travel' to Saudi Arabia",
-        "summary": [
-            "تشدید درگیری‌ها در یمن زنگ خطر را برای امنیت شهروندان خارجی در منطقه به صدا درآورده است.",
-            "وزارت خارجه آمریکا از اتباع خود خواست درباره سفر به عربستان جدی‌تر فکر کنند."
-        ],
-        "impact": "بال رفتن سطح ریسک امنیتی پیرامون مرزهای یمن و عربستان.",
-        "tag": "منطقه",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-says-americans-should-reconsider-travel-to-saudi-arabia/ar-AA2caaSM",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-says-americans-should-reconsider-travel-to-saudi-arabia/ar-AA2caaSM",
-        "image": "http://www.bing.com/th?id=ONUT.rt-8I2-9EakYxoNmNp85gQ&pid=News",
-        "timestamp": 1789578173.0
     }
 ]
