@@ -216,6 +216,43 @@
         "timestamp": 1789910061.0
     },
     {
+        "id": "b45a8c115a",
+        "title_fa": "فشار حداکثری دریایی؛ واشنگتن زمان‌بندی برای پایان درگیری تعیین نکرد",
+        "title_en": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
+        "summary": [
+            "مایک والتز اعلام کرد محاصره دریایی آمریکا اقتصاد جـ.م.ا را به شدت تحت فشار گذاشته است.",
+            "تهران همچنان بر عدم عقب‌نشینی از مواضع خود پافشاری می‌کند."
+        ],
+        "impact": "استمرار تنگنای اقتصادی و فرسایشی شدن بحران بدون افق دیپلماتیک مشخص.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/20/iran-war-end-has-no-timeline-trump-ambassador-un-says/",
+        "clean_url": "https://www.washingtonpost.com/world/2026/09/20/iran-war-end-has-no-timeline-trump-ambassador-un-says",
+        "image": "http://www.bing.com/th?id=ONUT.BYYR70wmaYwWEhR39aD64Q&pid=News",
+        "timestamp": 1789908420.0
+    },
+    {
+        "id": "47e22d4d65",
+        "title_fa": "زلزله سیاسی در آلمان با پیشتازی جریان‌های افراطی",
+        "title_en": "راست و چپ افراطی در انتخابات ۲ ایالت آلمان پیشتازند",
+        "summary": [
+            "احزاب راست و چپ افراطی در دو ایالت آلمان گوی سبقت را از میانه‌روها ربودند.",
+            "حزب راست افراطی آاِفد در مکلنبورگ-فورپومرن با اختلاف بالا در صدر ایستاد.",
+            "دموکرات مسیحیان بدترین شکست تاریخ انتخاباتی خود را از سال ۱۹۴۹ ثبت کردند."
+        ],
+        "impact": "تغییر موازنه قدرت به نفع افراط‌گرایان و چالش جدی برای ثبات سیاسی دولت مرکزی آلمان.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609209930",
+        "clean_url": "https://www.iranintl.com/202609209930",
+        "image": "http://www.bing.com/th?id=ONUT.Wa3m84JXSIS22l5qB7fG1Q&pid=News",
+        "timestamp": 1789907040.0
+    },
+    {
         "id": "95535bd7f2",
         "title_fa": "سفر عراقچی به نیویورک همزمان با سقوط شاخص‌های صنعتی",
         "title_en": "Iran FM heads to New York for UN General Assembly",
@@ -5451,41 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzlsMXlnUk9KV0RtSzl4dEE2Ym1yUVk2amJfX0t1dVdUaU1DcWg5dER5bWotWk0xWFJ1NHZTcEpOdGh3Slp4bUhvV0RXcVpfMXFPVWZNWDcyWkNOY295dkczc3dsUkNHMXF2bU84ZUZEREs0V29ZckJjOUVUQTdnVUNlLTJEdWcydEtac3FhUEZoZXlFcTZhdXhDU0o",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789620774.0
-    },
-    {
-        "id": "6bd2c25857",
-        "title_fa": "دیدار ترامپ و شی؛ آتش‌بس شکننده در جنگ تعرفه‌ها",
-        "title_en": "Where the US-China tariff row stands ahead of White House summit",
-        "summary": [
-            "کاخ سفید میزبان مذاکرات حیاتی دونالد ترامپ و رئیس‌جمهور چین است؛ توافقی جامع هنوز دور از دسترس مانده و تعرفه‌ها همچنان مانع اصلی روابط دو اقتصاد بزرگ دنیاست.",
-            "پس از اوج‌گیری سنگین تعرفه‌ها، دو طرف موقتاً عوارض را تعدیل کرده‌اند، اما ترامپ همچنان اهرم فشار تعرفه‌ای را برای باج‌گیری تجاری از پکن حفظ کرده است."
-        ],
-        "impact": "سرنوشت این نشست بر نوسانات قیمت نفت و بازارهای مالی جهان اثر مستقیم خواهد داشت.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Agence France-Presse",
-        "url": "https://www.afp.com/en/where-us-china-tariff-row-stands-ahead-white-house-summit",
-        "clean_url": "https://www.afp.com/en/where-us-china-tariff-row-stands-ahead-white-house-summit",
-        "image": "https://www.bing.com/th?id=ONUT.AagNUZV_YldvHxMC30GWFw",
-        "timestamp": 1789618272.6478992
-    },
-    {
-        "id": "d30a811cb0",
-        "title_fa": "برنامه دیدار ترامپ با رهبران خلیج فارس درباره ایران",
-        "title_en": "Report: Trump to meet Gulf leaders at UN to discuss Iran war",
-        "summary": [
-            "دیدار مهم دونالد ترامپ با رهبران کشورهای حوزه خلیج فارس در سازمان ملل با محوریت تهدیدهای جمهوری اسلامی تنظیم شده است.",
-            "این نشست پشت درهای بسته برگزار می‌شود تا استراتژی‌های مهار تهران و جلوگیری از جنگ تمام‌عیار در منطقه بررسی شود."
-        ],
-        "impact": "همگرایی بیشتر کشورهای عربی با سیاست‌های فشار حداکثری علیه ایران.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Israel National News",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRU8xUDZjODhwWVpLTUNXMS1LREJZRG9TRk1uVmtRN3pJTjlZWUx2emRzRmc0eXFadEE0QTlPNWI4anBuR294OW1WNG1hS2hmcmdlUFdmemtCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRU8xUDZjODhwWVpLTUNXMS1LREJZRG9TRk1uVmtRN3pJTjlZWUx2emRzRmc0eXFadEE0QTlPNWI4anBuR294OW1WNG1hS2hmcmdlUFdmemtCQQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789613305.0
     }
 ]
