@@ -256,6 +256,25 @@
         "timestamp": 1789856113.0
     },
     {
+        "id": "2a9aedbf26",
+        "title_fa": "بازگشت اضطراری ترامپ به واشنگتن در پی انفجار در فرودگاه ریاض",
+        "title_en": "Iran-US war latest: Trump abruptly cuts short Camp David visit",
+        "summary": [
+            "قطع ناگهانی مرخصی ترامپ و بازگشت شتاب‌زده به واشنگتن، ورود تنش‌های نظامی به مرحله حاد و غیرقابل پیش‌بینی را تایید می‌کند.",
+            "مشاهده آتش و دود در فرودگاه ریاض همزمان با طرح شروط مربوط به رفع محاصره تنگه هرمز، نشان‌دهنده هدف قرار گرفتن زیرساخت‌های کلیدی انرژی و حمل‌ونقل منطقه‌ای است.",
+            "واشنگتن اکنون در برابر یک تصمیم سخت برای تقابل مستقیم یا عقب‌نشینی از فشار حداکثری بر ج*هوری اس*لامی قرار گرفته است."
+        ],
+        "impact": "جهش آنی قیمت نفت و هشدار قرمز برای ناوگان دریایی و پایگاه‌های آمریکا در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/news/iran-us-war-latest-trump-abruptly-cuts-short-camp-david-visit/ar-AA2ct6HW",
+        "clean_url": "https://www.msn.com/en-us/news/news/iran-us-war-latest-trump-abruptly-cuts-short-camp-david-visit/ar-AA2ct6HW",
+        "image": "http://www.bing.com/th?id=ONUT.pUdAzxfGT_EF0H2mrjU9aw&pid=News",
+        "timestamp": 1789854463.0
+    },
+    {
         "id": "008d7702d6",
         "title_fa": "نارضایتی ترامپ از مذاکرات؛ گزینه‌های سخت‌گیرانه علیه تهران روی میز",
         "title_en": "Trump says he hasn't made a final decision on Iran, 'not happy' with current negotiations - ABC News",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnZYdnduaHNlSWxfeURRZ3AtcUJCM2Vld0h2RmNZMXJHbE5EbWVpNTlMME95VzUwLVB6cjNMYTJIVzVYOExUMmpGc2JOaVFjeS1UVFEzaHlwTDNGMkk4dzFKUE4zSlNDcUpEOHozVGpaNjgtRWVtTkdlOEVhakNRQnVKbE1rMjlZQnc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789523221.0
-    },
-    {
-        "id": "d7fa4435fa",
-        "title_fa": "پایان جنگ با ای-ران پس از انتخابات آمریکا",
-        "title_en": "US VP Vance says Iran war 'will end immediately after the election' - report",
-        "summary": [
-            "معاون ترامپ از پایان درگیری‌ها با ا-یر-ان بلافاصله پس از برگزاری انتخابات خبر داد.",
-            "این موضع نشان‌دهنده رویکرد دولت آینده آمریکا برای کاهش تنش‌های پرهزینه نظامی است."
-        ],
-        "impact": "تغییر احتمالی محاسبات استراتژیک واشنگتن در قبال تنش‌های خاورمیانه پس از انتخابات.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WNWtVZktuelp2c2NNeFFGMUdmY3BzdGJaV19Dd3pNaFhYVDFxZG8ySTB1QVd3bFZfOWNZYzl5Z2hldXVENVFLU0FMUldOQnNMUGM2TFpFYlFLb0V2VHZUamlnOFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WNWtVZktuelp2c2NNeFFGMUdmY3BzdGJaV19Dd3pNaFhYVDFxZG8ySTB1QVd3bFZfOWNZYzl5Z2hldXVENVFLU0FMUldOQnNMUGM2TFpFYlFLb0V2VHZUamlnOFE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789520782.0
     }
 ]
