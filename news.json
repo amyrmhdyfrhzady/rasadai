@@ -714,6 +714,24 @@
         "timestamp": 1789839960.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "اخبار عمومی و ورزشی گاردین بدون رویکرد سیاسی",
+        "title_en": "US latest news",
+        "summary": [
+            "این مطلب شامل سرخط خبرهای ورزشی و حاشیه‌های روز رسانه گاردین است.",
+            "هیچ‌گونه اطلاعات سیاسی یا امنیتی مرتبط با تحولات منطقه در این متن دیده نمی‌شود."
+        ],
+        "impact": "فاقد هرگونه تأثیر سیاسی یا اقتصادی بر تحولات جاری.",
+        "tag": "عمومی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1789839780.0
+    },
+    {
         "id": "9ce2c58f69",
         "title_fa": "سیگنال هسته‌ای تهران: رفتار واشنگتن مسیر آینده را تعیین می‌کند",
         "title_en": "Shafaq News..Iran: US conduct could shape nuclear future",
@@ -5476,23 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa1ZjQWItZTdVQnk2aktxOEhza0FUbUc1NUxZUmpkVTBGQkVGSHZsZ2llQVk3N3dFXzRZYXN2QWZCSWNoT1dZaG40NEQteWthU2x4Tk0wWk1kbFpycy1LcktxdC1Vd2NCcVoyT1k3VWNaTndzZDFRZFM2dU1fY2lfTjJnLUdIbTMzTDJITGtOWTh3aVo0WlVncGE2eTA5Ukp4Tk84b2xOQ25nd25tVjhlSVBacEUtZ1E3YVhQWi05azJibUZ5Nm9wNG5acFlCTF93UkZnR2RYREYzUnIyVnZ1OFJCd3BDSnR4MXI5VExvcGrSAfYBQVVfeXFMUHJtY2MxYVV1dzZsOVF1d09nSFk3ZUZBTDhBZzJCODBwaGdyeXMta21NRHRhSjNueUxkaURVUDliaVdIUVJ6VmkwalhHbnZzZTVZZk1ZQTRHYUhnQmpEczdvOVljZkVYbFRwOUwxUTJNWG9PRjk0RW92TmY4d3NmcDdBR2t2TlRjYklyTmZTT1pYWDUweDMxSXdXYlI4NS1EaWVvZDNldVVMS2g4X3poNWVnTUt2U0xLQXNFeGlycVpxZFhxUnNORFZaUG5XWjlaMXhMdG5keDJZNHRNVHY3UmpHSUt1MmQ2RnNMeHNzUm9WRm1oMTZn",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789542840.0
-    },
-    {
-        "id": "ef7e3a5f85",
-        "title_fa": "حمله ناوهای جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی به کشتی مرتبط با آمریکا در تنگه هرمز",
-        "title_en": "Iran strikes US-contracted ship in Strait of Hormuz with personnel injured, sources say",
-        "summary": [
-            "منابع خبری از اصابت موشک یا پهپاد به یک کشتی تجاری با قرارداد نظامی آمریکا در تنگه هرمز خبر می‌دهند.",
-            "این رخداد با تلفات انسانی در میان خدمه همراه بوده و تنش‌ها در آبراه حیاتی خلیج فارس را به شدت بالا برده است."
-        ],
-        "impact": "افزایش ریسک امنیتی برای تردد کشتی‌ها در تنگه هرمز و جهش احتمالی قیمت نفت",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Daily Express US on MSN",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military/iran-strikes-us-contracted-ship-in-strait-of-hormuz-with-personnel-injured-sources-say/ar-AA2clZe5",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/iran-strikes-us-contracted-ship-in-strait-of-hormuz-with-personnel-injured-sources-say/ar-AA2clZe5",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789541396.0
     }
 ]
