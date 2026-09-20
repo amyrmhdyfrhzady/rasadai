@@ -162,6 +162,25 @@
         "timestamp": 1789910061.0
     },
     {
+        "id": "95535bd7f2",
+        "title_fa": "سفر عراقچی به نیویورک همزمان با سقوط شاخص‌های صنعتی",
+        "title_en": "Iran FM heads to New York for UN General Assembly",
+        "summary": [
+            "عباس عراقچی راهی نیویورک شد تا در مجمع عمومی سازمان ملل شرکت کند، سفری که با بحران‌های عمیق داخلی همزمان شده است.",
+            "اتاق بازرگانی درباره سقوط شدید شاخص تولید و مواد اولیه هشدار داده و این وضعیت را بزرگترین مانع تولید نامیده است.",
+            "فشار تحریم‌ها و جنگ‌زدگی، زنجیره تامین مواد اولیه پتروشیمی و فولاد را به شدت فلج کرده است."
+        ],
+        "impact": "رکود سنگین صنعتی و بحران تامین مواد اولیه، اقتصاد ایران را بیش از پیش به سمت فروپاشی هدایت می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609200747",
+        "clean_url": "https://www.iranintl.com/en/202609200747",
+        "image": "http://www.bing.com/th?id=ONUT.254JR3fv2mFSNtzdlbmWiQ&pid=News",
+        "timestamp": 1789906380.0
+    },
+    {
         "id": "53a44757f6",
         "title_fa": "بحران کمبود مواد اولیه؛ تولید صنعتی در سراشیبی سقوط",
         "title_en": "Iran factories face deepening raw material shortages",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295602609-1-1789642509.jpg?resize=1200%2C630",
         "timestamp": 1789606740.0
-    },
-    {
-        "id": "9dbe92b2e0",
-        "title_fa": "درس‌آموخته‌های تفنگداران دریایی آمریکا از درگیری‌ها با ای-ران",
-        "title_en": "Pacific-based Marines were thrust into the Iran conflict. Here's what they learned",
-        "summary": [
-            "نیروهای ارتش آمریکا در منطقه اقیانوس آرام تجربیات ارزشمندی از مواجهه با تنش‌ها کسب کرده‌اند.",
-            "این گزارش به بررسی تاکتیک‌های نظامی جدید و آمادگی رزمی در برابر تهدیدات پهپادی و موشکی می‌پردازد."
-        ],
-        "impact": "افزایش آمادگی رزمی نیروهای آمریکایی برای پاسخ به تحرکات نظامی در منطقه",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Scripps News",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkR4NHd1UmI2elhGS1BZMFNFdi1ybWl1dm10ZUQtUEFCUTd4U183UC1KMHY4WVc2SV8zQkVVUWIwMG1lc1NCNGs4SnZhZjZlTnlseTlOQ2FOZlByazdiYjMwOXZRRVdocF9nU2ZkeFAxR0NNSlhzNXliZHlncHhXeXI3TGJsTHVfN243bVptUWZLUzg4T3ZTR2xZNXB1NmhMYkNnT2R3Zy1HWm5hclVleVhScmRfcFFhYWNQQU5HWWNuZTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkR4NHd1UmI2elhGS1BZMFNFdi1ybWl1dm10ZUQtUEFCUTd4U183UC1KMHY4WVc2SV8zQkVVUWIwMG1lc1NCNGs4SnZhZjZlTnlseTlOQ2FOZlByazdiYjMwOXZRRVdocF9nU2ZkeFAxR0NNSlhzNXliZHlncHhXeXI3TGJsTHVfN243bVptUWZLUzg4T3ZTR2xZNXB1NmhMYkNnT2R3Zy1HWm5hclVleVhScmRfcFFhYWNQQU5HWWNuZTQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789606283.0
     }
 ]
