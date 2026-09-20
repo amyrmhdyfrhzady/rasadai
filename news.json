@@ -293,6 +293,25 @@
         "timestamp": 1789837329.0
     },
     {
+        "id": "8e5bbcac3b",
+        "title_fa": "الگوبرداری کاخ سفید از مدل سایبری اسرائیل برای ساخت انکوباتور",
+        "title_en": "White House drafts bold cybersecurity plan for tech's next wave",
+        "summary": [
+            "واشنگتن در حال تدوین طرحی برای ساخت انکوباتورهای سایبری با بودجه دولتی و سرمایه‌گذاری بخش خصوصی است.",
+            "این پروژه مستقیماً از مدل موفق ارتش اسرائیل برای تبدیل نیروهای نظامی به متخصصان و کارآفرینان فناوری الهام گرفته شده است.",
+            "هدف اصلی، پرورش سریع استارتاپ‌های امنیتی جهت تامین نیازهای دفاعی و مقابله با حملات پیچیده است."
+        ],
+        "impact": "تقویت زیرساخت‌های پدافند سایبری آمریکا و تسریع در تجاری‌سازی فناوری‌های امنیتی.",
+        "tag": "سایبر",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/white-house-drafts-bold-cybersecurity-003700568.html",
+        "clean_url": "https://finance.yahoo.com/technology/ai/articles/white-house-drafts-bold-cybersecurity-003700568.html",
+        "image": "http://www.bing.com/th?id=ONUT.ojMC5u2o-_YL4H1Zldn2YA&pid=News",
+        "timestamp": 1789837200.0
+    },
+    {
         "id": "f547d83ad6",
         "title_fa": "بنزین ۱۷ سنتی در ایران همزمان با جهش قیمت سوخت در آمریکا",
         "title_en": "As U.S. Fuel Prices Surge, Iran’s Gas Costs 17 Cents A Gallon. The Reasons Why May Surprise You.",
@@ -400,6 +419,25 @@
         "timestamp": 1789830060.0
     },
     {
+        "id": "ff891ceb53",
+        "title_fa": "درز اطلاعات محرمانه کاخ سفید و افشای اختلافات سران آمریکا",
+        "title_en": "Why Trump’s Ultra-Loyalists Are Finally Turning on Him",
+        "summary": [
+            "افشای جزئیات جلسات محرمانه نشان می‌دهد مشاوران ارشد ترامپ از بی‌توجهی او به هشدارهای کارشناسی به شدت ناراضی هستند.",
+            "سقوط محبوبیت سیاسی ناشی از جنگ با ایران، ترامپ را در جلسات خصوصی مجبور به پذیرش پیامدهای سخت تصمیماتش کرده است.",
+            "شکاف‌های درونی کاخ سفید و نشت اخبار، نشانه چالش‌های عمیق در مدیریت بحران‌های بین‌المللی است."
+        ],
+        "impact": "افزایش فشارهای سیاسی داخلی بر ترامپ و احتمال تغییر در تاکتیک‌های نظامی واشنگتن.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/why-donald-trumps-ultra-loyalists-are-finally-turning-on-him/",
+        "clean_url": "https://www.thedailybeast.com/why-donald-trumps-ultra-loyalists-are-finally-turning-on-him",
+        "image": "http://www.bing.com/th?id=ONUT.lB2sKEuGO_oKIOJ_q4zmxA&pid=News",
+        "timestamp": 1789829880.0
+    },
+    {
         "id": "942931ff6c",
         "title_fa": "مخالفت کره جنوبی با درخواست ترامپ برای اعزام نیرو",
         "title_en": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call",
@@ -416,6 +454,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3Nzd1dtRmJZSnYxQUdkU0FlcUpkZG9Oc0dKMFJVLXhsV05obWZmTFBIT0J2WlRKWUhVTXNCa3dfUzNhb2VXNHgwbW5vcVAxeFd0VmNCbEtwWkQ3aUNfcTVsbWhkSUN6cWxKanFGSk1LbHdRLURQbGg3VWtIbnVHclA5cWsxZy1TVm5ETXR3LVdqbXFUaHJkQ29mMWlGdw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789829650.0
+    },
+    {
+        "id": "17d0f3c752",
+        "title_fa": "جریمه سنگین ستاره لیگ فوتبال آمریکایی به دلیل رفتار غیرورزشی",
+        "title_en": "NFL punishes Commanders WR Stefon Diggs for touchdown celebration",
+        "summary": [
+            "مسئولان لیگ ملی فوتبال آمریکا استفون دیگز را به دلیل خوشحالی جنجالی پس از ثبت گل جریمه نقدی کردند.",
+            "سخت‌گیری‌های انضباطی لیگ برای کنترل رفتارهای خارج از عرف بازیکنان در فصل جدید افزایش یافته است."
+        ],
+        "impact": "جریمه مالی فردی و هشدار جدی به سایر بازیکنان لیگ.",
+        "tag": "ورزش",
+        "urgency": 1,
+        "sentiment": -0.3,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/sports/football/nfl-punishes-commanders-wr-stefon-diggs-for-touchdown-celebration/ar-AA2cA89L",
+        "clean_url": "https://www.msn.com/en-us/sports/football/nfl-punishes-commanders-wr-stefon-diggs-for-touchdown-celebration/ar-AA2cA89L",
+        "image": "http://www.bing.com/th?id=ONUT.RBgfwzXBHjI0l54ydICPwg&pid=News",
+        "timestamp": 1789828342.0
     },
     {
         "id": "455d08d620",
@@ -436,6 +492,25 @@
         "timestamp": 1789826760.0
     },
     {
+        "id": "b2cd0a3209",
+        "title_fa": "پالایشگاه‌ها؛ گلوگاه تازه در بحران جهانی انرژی",
+        "title_en": "Refineries are now the main chokepoint for global energy supplies",
+        "summary": [
+            "جنگ در اوکراین و خاورمیانه وابسته بودن بازار جهانی سوخت به پالایشگاه‌های کلیدی را برملا کرده است.",
+            "کمبود ظرفیت پالایشی و تهدیدات امنیتی، تامین گازوئیل و سوخت‌های صنعتی را در سطح بین‌المللی به بحران کشانده است.",
+            "آسیب‌پذیری این گلوگاه‌ها بازار انرژی را در برابر نوسانات ناگهانی قیمت مستعد ساخته است."
+        ],
+        "impact": "افزایش ریسک تورم سوخت و احتمال شوک‌های جدید در بازار جهانی انرژی.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/money/general/refineries-are-now-the-main-chokepoint-for-global-energy-supplies/ar-AA2cA7YX",
+        "clean_url": "https://www.msn.com/en-us/money/general/refineries-are-now-the-main-chokepoint-for-global-energy-supplies/ar-AA2cA7YX",
+        "image": "http://www.bing.com/th?id=ONUT.GkevXZFIPlLbS_YvJcLMWg&pid=News",
+        "timestamp": 1789825980.0
+    },
+    {
         "id": "fe531de61b",
         "title_fa": "حمله هدفمند اسرائیل به یک خودرو در شهر غزه",
         "title_en": "Palestinian media reports two killed, several hurt in Israeli strike in Gaza City",
@@ -452,6 +527,24 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-media-reports-two-killed-several-hurt-in-israeli-strike-in-gaza-city",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789825380.0
+    },
+    {
+        "id": "003dad8c4b",
+        "title_fa": "برنامه‌ریزی جناح چپ آمریکا برای انتخابات ۲۰۲۸ و تعمیق شکاف‌ها",
+        "title_en": "Hasan Piker says he’d ‘absolutely’ campaign for AOC in 2028 as El-Sayed distances himself",
+        "summary": [
+            "استریمر جنجالی چپ‌گرا از آمادگی کامل خود برای حمایت از کاندیداتوری الکساندریا اوکاسیو کورتز خبر داد.",
+            "فاصله گرفتن برخی دموکرات‌های میانه‌رو از چهره‌های رادیکال، از شکاف عمیق در استراتژی انتخابی این حزب پرده برمی‌دارد."
+        ],
+        "impact": "تشتت آرا و چالش‌های درون‌حزبی دموکرات‌ها در آستانه دوره‌های بعدی انتخابات.",
+        "tag": "انتخابات",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/hasan-piker-says-hed-absolutely-campaign-aoc-2028-el-sayed-distances-himself",
+        "clean_url": "https://www.foxnews.com/media/hasan-piker-says-hed-absolutely-campaign-aoc-2028-el-sayed-distances-himself",
+        "image": "http://www.bing.com/th?id=ONUT.mH3DoTG-lfe-38LZ5EQk_g&pid=News",
+        "timestamp": 1789824240.0
     },
     {
         "id": "e3ab284993",
@@ -545,6 +638,24 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
         "image": "http://www.bing.com/th?id=ONUT.dktwg6trbbwpHlun1HygrA&pid=News",
         "timestamp": 1789817520.0
+    },
+    {
+        "id": "6f8d999db6",
+        "title_fa": "رونمایی مدیاتک از تراشه ۲ نانومتری؛ خط و نشان برای کوالکام",
+        "title_en": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+        "summary": [
+            "مدیاتک با معرفی تراشه پرچمدار ۲ نانومتری ساخت TSMC، بازار گوشی‌های هوشمند گران‌قیمت را هدف گرفت.",
+            "جهش پردازشی و بهبود مصرف انرژی در تراشه جدید، سهم کوالکام را در بازار پرچمداران اندروییدی به چالش می‌کشد."
+        ],
+        "impact": "تشدید رقابت در بازار تراشه‌ها و احتمال افت قیمت یا تسریع در نوآوری‌های بعدی کوالکام.",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
+        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
+        "image": "http://www.bing.com/th?id=ONUT.aiUJutTED2kwINfVtseu_w&pid=News",
+        "timestamp": 1789817400.0
     },
     {
         "id": "06ecb17655",
@@ -654,6 +765,25 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/three-people-including-girl-said-killed-by-idf-in-north-central-gaza-no-comment-from-military",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789815060.0
+    },
+    {
+        "id": "caa795a69d",
+        "title_fa": "توافق راهبردی در گرینلند؛ سد محکم آمریکا مقابل چین و روسیه",
+        "title_en": "Security expert hails Trump's Greenland pact as a 'big deal' on par with Alaska purchase",
+        "summary": [
+            "پیمان جدید آمریکا با دانمارک و گرینلند، راه‌های نفوذ نظامی و اقتصادی پکن و موسکو را در قطب شمال مسدود می‌کند.",
+            "کارشناسان امنیتی این اقدام ترامپ را از نظر اهمیت جغرافیای دفاعی، هم‌تراز با خرید تاریخی آلاسکا می‌دانند.",
+            "تسلط بر این نقطه کلیدی، امنیت بخش شمالی قاره آمریکا را در برابر تهدیدات نوظهور تضمین خواهد کرد."
+        ],
+        "impact": "محدودیت شدید برای مانورهای استراتژیک و توسعه‌طلبی نظامی روسیه و چین در مدار قطبی.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/security-expert-hails-trumps-greenland-pact-big-deal-par-alaska-purchase",
+        "clean_url": "https://www.foxnews.com/media/security-expert-hails-trumps-greenland-pact-big-deal-par-alaska-purchase",
+        "image": "http://www.bing.com/th?id=ONUT.vE61ymG49wsq5LHJ6nQ9kw&pid=News",
+        "timestamp": 1789813920.0
     },
     {
         "id": "67c22211d8",
@@ -5367,135 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3ZFUk1PaVIxUXpiWVR4dnFzdm5JaDNlZmVkSFQxUlVYck4tOUNnQnJadzVyMFoteE1rOEJOdkRUWVpLRlgwci10MmVUZDg1UUdpcGVkNDhZVTBaMzJGX056UVFsYjdDdGo4ZFdkNTVDQnhEd1JXNnl3ajQtT0swM3owdHpVOUxKb2E0d3M2Mmg1WC15LV80",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789511439.0
-    },
-    {
-        "id": "2a7bb3e45e",
-        "title_fa": "هزینه نجومی ۳۸ میلیارد دلاری آمریکا در تقابل با ج*م*ه*و*ر*ی ا*س*ل*ا*م*ی",
-        "title_en": "Iran war cost US $38bn and significantly depleted missile stockpile, report finds",
-        "summary": [
-            "درگیری‌های نظامی با بازوهای منطقه‌ای ج*م*ه*و*ر*ی ا*س*ل*ا*م*ی، بودجه سنگین ۳۸ میلیارد دلاری روی دست مالیات‌دهندگان آمریکایی گذاشته است.",
-            "مصرف بی‌سابقه موشک‌های پدافندی در دریای سرخ، ذخایر استراتژیک پنتاگون را به شدت خالی کرده و توان واکنش سریع آمریکا را کاهش داده است.",
-            "این فرسایش تسلیحاتی، دست واشنگتن را در مدیریت همزمان بحران‌های تایوان و اوکراین بسته‌تر از قبل می‌کند."
-        ],
-        "impact": "فشار سنگین بر پنتاگون برای تغییر آرایش نظامی در خاورمیانه و احتمال کاهش چتر حمایتی از برخی متحدان.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "theguardian.com",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPbkJDX3hRSWxCaGZHWHZFODhxTmllWmZ6UVI4R1pPWGZkMnA5YTJyaTd1WGo5NjlHOWduRTNxdlRSX3JpcHc0WDVwem9sdEdGeXh4T0NIRGpfNTBYcmt2Z1lFdzl2UzhGNjVRTUpvLTN4czBKQWtLTlVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPbkJDX3hRSWxCaGZHWHZFODhxTmllWmZ6UVI4R1pPWGZkMnA5YTJyaTd1WGo5NjlHOWduRTNxdlRSX3JpcHc0WDVwem9sdEdGeXh4T0NIRGpfNTBYcmt2Z1lFdzl2UzhGNjVRTUpvLTN4czBKQWtLTlVR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789508880.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "اخبار عمومی و حاشیه‌ای رسانه‌های غربی",
-        "title_en": "US latest news",
-        "summary": [
-            "مجموعه‌ای از اخبار ورزشی و حاشیه‌های مرتبط با بسکتبال زنان و لیگ فوتبال آمریکا.",
-            "تبلیغات مربوط به خبرنامه‌های سیاسی و سیاست‌های دولت دونالد ترامپ."
-        ],
-        "impact": "این خبر فاقد ارزش ژئوپلیتیک یا تاثیرگذاری اقتصادی است.",
-        "tag": "متفرقه",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1789507920.0
-    },
-    {
-        "id": "4825f7e485",
-        "title_fa": "کنگره آمریکا به دنبال مهار تحرکات نظامی ترامپ",
-        "title_en": "Trump brutally rebuked over dragged-out Iran war as Republican defectors vote to handcuff his power",
-        "summary": [
-            "نمایندگان مجلس نمایندگان آمریکا با تصویب قطعنامه ای قصد دارند دست دونالد ترامپ را برای ادامه درگیری ها بدون مصوبه کنگره ببندند.",
-            "تعداد زیادی از جمهوری خواهان در کنار دموکرات ها به این قطعنامه رای دادند تا فشارها بر دولت برای توقف جنگ افزایش یابد.",
-            "با وجود این مصوبه، احتمال وتوی آن توسط رئیس جمهور بسیار بالاست و چالش میان قوه مقننهاز و مجریه ادامه دارد."
-        ],
-        "impact": "تشدید اختلاف سیاسی در واشنگتن درباره ادامه یا توقف درگیری های نظامی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Daily Mail",
-        "url": "https://www.dailymail.com/news/article-16133433/Trump-brutally-rebuked-Iran-war-Republican.html",
-        "clean_url": "https://www.dailymail.com/news/article-16133433/Trump-brutally-rebuked-Iran-war-Republican.html",
-        "image": "http://www.bing.com/th?id=ONUT.Mnz5ToBZ-REhER2TK0mIYg&pid=News",
-        "timestamp": 1789507320.0
-    },
-    {
-        "id": "290c8ab7b6",
-        "title_fa": "آیا حوثی‌ها واقعاً مهره بی‌چون‌وچای تهران هستند؟",
-        "title_en": "Why the Houthis Are Not an Iranian Proxy",
-        "summary": [
-            "بررسی‌های راهبردی نشان می‌دهد حل بحران دریای سرخ لزوماً از مسیر تهران نمی‌گذرد.",
-            "گروه‌های نیابتی در منطقه منافع مستقل خود را دنبال می‌کنند و صرفاً تابع دستور نیستند."
-        ],
-        "impact": "تغییر محاسبات غرب در برخورد با بحران یمن و تفکیک آن از پرونده اتمی ایران.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "The National Interest",
-        "url": "https://www.msn.com/en-us/news/other/why-the-houthis-are-not-an-iranian-proxy/ar-AA2cihSe",
-        "clean_url": "https://www.msn.com/en-us/news/other/why-the-houthis-are-not-an-iranian-proxy/ar-AA2cihSe",
-        "image": "https://nationalinterest.org/wp-content/uploads/2026/09/Houthis-09152026-SS-scaled-e1789505373118.jpg",
-        "timestamp": 1789505438.0
-    },
-    {
-        "id": "eab8a0f746",
-        "title_fa": "تنش پهپادی حوثی‌ها با عربستان و رایزنی‌های امنیتی قاهره",
-        "title_en": "Middle East live: Houthi rebels deny Saudi claim of drone attack on Mecca",
-        "summary": [
-            "شلیک پهپادها به سمت عربستان و تکذیب حمله به مکه توسط حوثی‌ها، عمق تنش‌های نیابتی تهران در شبه‌جزیره را آشکار می‌کند.",
-            "رایزنی فوری محمد بن سلمان و عبدالفتاح السیسی در قاهره، تمرکز مستقیم روی امنیت تنگه باب‌المندب و مقابله با تهدیدات دریایی دارد.",
-            "اعتراف پنتاگون به کمبود ذخایر مهمات به دلیل هزینه‌های سنگین نظامی، سیگنال ضعف به بازوهای مسلح منطقه مخابره می‌کند."
-        ],
-        "impact": "افزایش احتمال درگیری‌های هوایی جدید در یمن و تشدید تدابیر امنیتی در دریای سرخ.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "France 24",
-        "url": "https://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-        "clean_url": "https://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-        "image": "https://s.france24.com/media/display/daeb6ab0-1492-11ee-bbdb-005056bfb2b6/w:1280/p:16x9/550df3824b1debd7d9044d15bf8809f535de6ffa.jpg",
-        "timestamp": 1789504680.0
-    },
-    {
-        "id": "4e6c81aeb3",
-        "title_fa": "بن‌بست گزینه نظامی برای پایان دادن به اتمی شدن",
-        "title_en": "Iran's Nuclear Threat and Israel's Nuclear Option: Thinking the Unthinkable",
-        "summary": [
-            "تجربه تاریخی نشان می‌دهد حملات نظامی موقت نمی‌تواند برنامه هسته‌ای یک کشور مصمم را برای همیشه نابود کند.",
-            "توقف کامل مسیر اتمی تـ-ـر-ک-ـه‌-م-ـق-ـد-س صرفاً با اشغال نظامی و تغییر ر-ج-ی-م ممکن است که خود سناریویی پرخطر و پیچیده است."
-        ],
-        "impact": "هزینه‌های بالای مهار اتمی، تصمیم‌گیرندگان واشنگتن و تل‌آویو را در برابر گزینه‌های بسیار دشواری قرار داده است.",
-        "tag": "هسته ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Manara Magazine",
-        "url": "https://manaramagazine.org/2026/09/irans-nuclear-threat-and-israels-option/",
-        "clean_url": "https://manaramagazine.org/2026/09/irans-nuclear-threat-and-israels-option",
-        "image": "https://manaramagazine.org/wp-content/uploads/2026/09/shutterstock_2533443207_opt.jpg",
-        "timestamp": 1789503120.0
-    },
-    {
-        "id": "41023a11f4",
-        "title_fa": "شوک ترامپ از مقاومت ای-ران؛ خطای محاسباتی کاخ سفید",
-        "title_en": "Trump was ‘shocked’ that Iran fought back. He shouldn’t have been.",
-        "summary": [
-            "تیم ترامپ تصور می‌کرد حکومت ای-ران مثل ونزوئلا به راحتی فرو می‌پاشد اما با دیواری محکم روبه‌رو شد.",
-            "نادیده گرفتن هشدارهای نهادهای اطلاعاتی باعث شد کاخ سفید تصور کند ای-ران یک هدف آسان است.",
-            "تاریخ چند هزار ساله و فرهنگ سیاسی ای-ران عامل اصلی مقاومت در برابر فشارهای خارجی است."
-        ],
-        "impact": "شکست محاسبات اولیه واشنگتن، هزینه‌های راهبردی درگیری را به شدت بالا برده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Boston Globe",
-        "url": "https://www.bostonglobe.com/2026/09/16/opinion/trump-iran-history-pressure-resistance/",
-        "clean_url": "https://www.bostonglobe.com/2026/09/16/opinion/trump-iran-history-pressure-resistance",
-        "image": "http://www.bing.com/th?id=ONUT.amam3-0S3i-lcagMcgiL9A&pid=News",
-        "timestamp": 1789502460.0
     }
 ]
