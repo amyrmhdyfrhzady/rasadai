@@ -564,6 +564,24 @@
         "timestamp": 1789889460.0
     },
     {
+        "id": "576162b37f",
+        "title_fa": "تهدید آمریکا به حملات ویرانگر از سوی ستاد کل ستاد فرماندهی ج.ا",
+        "title_en": "Irán amenaza a Estados Unidos con \"devastadores bombardeos\" si reanuda ataques",
+        "summary": [
+            "ستاد کل نیروهای مسلح ج.ا مدعی شد اطلاعاتی درباره حمله دوباره آمریکا با چراغ سبز کشورهای منطقه دارد.",
+            "مقام‌های نظامی تهران در لحنی تهاجمی از پاسخ ویرانگر به هرگونه اقدام نظامی خبر دادند."
+        ],
+        "impact": "افزایش تنش‌های نظامی در منطقه و بالا رفتن ریسک درگیری مستقیم.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "La Prensa Gráfica",
+        "url": "https://www.laprensagrafica.com/internacional/iran-amenaza-a-estados-unidos-con-devastadores-bombardeos-si-reanuda-ataques-20260920-0010.html",
+        "clean_url": "https://www.laprensagrafica.com/internacional/iran-amenaza-a-estados-unidos-con-devastadores-bombardeos-si-reanuda-ataques-20260920-0010.html",
+        "image": "http://www.bing.com/th?id=ONUT.xVs9o1nhRMZ6IS2Di9vcmw&pid=News",
+        "timestamp": 1789889400.0
+    },
+    {
         "id": "142de1376d",
         "title_fa": "مصادره جنبش «زن، زندگی، آزادی» توسط جریان‌های سیاسی",
         "title_en": "«زن، زندگی، آزادی»؛ جنبشی فراگیر که همه خواهان مالکیت آن هستند",
@@ -1108,6 +1126,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVZwZkZ3Q3dUaUZZV1UzWnoycEFrVGhmSTNyT1U1OHNEelNEZkQxQUYzYVA4Y3RPQU1CV25qVG5xTmxJdjlEWXI2VGlDcVlaLXQyd0ZXbVBKdXI0anBLTXN0ZGlIQzgyZ0FTZjRVNDNqSW14RlJwZldaZ3BSS3dHRXJJYmdNVlNzZ1BWclJ3djZqbEk1Si1NQkFqZGptNDFUMkx3TUVJOHlBQnd4",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789871979.0
+    },
+    {
+        "id": "b20378b223",
+        "title_fa": "شرط‌گذاری تهران برای مذاکره و بازگشایی تنگه هرمز",
+        "title_en": "Irán exige concesiones antes de nuevas negociaciones",
+        "summary": [
+            "حکومت ایران اعلام کرد تا زمانی که آمریکا تحریم‌های دریایی را لغو نکند و پول‌های بلوکه‌شده را آزاد نسازد، پای میز مذاکره نمی‌رود.",
+            "بستن تنگه هرمز به عنوان اهرم فشار اقتصادی و امنیتی دوباره مطرح شد."
+        ],
+        "impact": "بن‌بست دیپلماتیک و افزایش تهدید امنیت انرژی در خلیج فارس.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "DW on MSN",
+        "url": "https://www.msn.com/es-mx/noticias/other/ir%C3%A1n-exige-concesiones-antes-de-nuevas-negociaciones/ar-AA2cBk2v",
+        "clean_url": "https://www.msn.com/es-mx/noticias/other/ir%C3%A1n-exige-concesiones-antes-de-nuevas-negociaciones/ar-AA2cBk2v",
+        "image": "http://www.bing.com/th?id=ONUT.5ma0GTcXy4QInVRtdNuRIA&pid=News",
+        "timestamp": 1789870260.0
     },
     {
         "id": "45feab81ee",
@@ -5451,42 +5487,5 @@
         "clean_url": "https://www.telegraphindia.com/world/a-formidable-fighting-force-how-the-houthis-gain-global-clout-with-iranian-support/cid/2180360",
         "image": "https://assets.telegraphindia.com/telegraph/2026/Sep/1789637605_yemen-houthis.jpg",
         "timestamp": 1789607700.0
-    },
-    {
-        "id": "485ee4d0e2",
-        "title_fa": "گزارش سازمان ملل درباره جنایات ایالات متحده و ج.ا",
-        "title_en": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity",
-        "summary": [
-            "هیئت حقیقت‌یاب سازمان ملل مستنداتی درباره حملات نظامی منتسب به ایالات متحده به یک مدرسه ارائه داد.",
-            "این گزارش همچنین به بررسی اتهامات مربوط به جنایات علیه بشریت توسط حاکمیت تـهران پرداخته است."
-        ],
-        "impact": "افزایش فشارهای حقوق بشری و دیپلماتیک بر بازیگران اصلی درگیر در تنش‌های منطقه‌ای.",
-        "tag": "حقوق بشر",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/un-mission-finds-grounds-to-believe-us-committed-war-crimes-in-iran-and-tehran-crimes-against-humanity/ar-AA2cqbwW",
-        "clean_url": "https://www.msn.com/en-us/politics/government/un-mission-finds-grounds-to-believe-us-committed-war-crimes-in-iran-and-tehran-crimes-against-humanity/ar-AA2cqbwW",
-        "image": "http://www.bing.com/th?id=ONUT.3R-zkBHdAUe2_ZrM-esawQ&pid=News",
-        "timestamp": 1789607146.0
-    },
-    {
-        "id": "c1348e779a",
-        "title_fa": "آمادگی ترامپ برای مذاکره با رهبران خلیج فارس درباره ایران",
-        "title_en": "Live Updates: IDF says sirens that sounded in Israel's north were due to false identification",
-        "summary": [
-            "ارتش اسرائیل اعلام کرد آژیرهای خطر در شمال سرزمین‌های اشغالی ناشی از خطای انسانی و تشخیص اشتباه بوده است.",
-            "دیدار هفته آینده ترامپ با رهبران عرب حاشیه خلیج فارس با محوریت پرونده تهران برگزار می‌شود.",
-            "حزب‌الله لبنان برای فرار از فشارهای داخلی و اتهام بازگرداندن جنگ به کشور، از رای اعتماد به دولت عقب‌نشینی کرد."
-        ],
-        "impact": "فشار دیپلماتیک و منطقه‌ای بر جمهوری اسلامی به شدت در حال افزایش است.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-17/live-updates-908844",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-17/live-updates-908844",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738103",
-        "timestamp": 1789606800.0
     }
 ]
