@@ -402,6 +402,24 @@
         "timestamp": 1789906380.0
     },
     {
+        "id": "38ac9bf427",
+        "title_fa": "تهدید هرمز توسط رئیس مجلس ج.ا با اهرم نفت",
+        "title_en": "Iran parliament speaker says Iran’s hand ‘on the lever’ in Hormuz",
+        "summary": [
+            "محمدباقر قالیباف در واکنش به گزارش جی‌پنگ درباره غیرقابل پیش‌بینی بودن پایان درگیری‌ها، مدعی شد دست تهران روی اهرم تنگه هرمز است.",
+            "انتشار تصویری تحت عنوان امپراتوری شرودینگر نشان‌دهنده تلاش مقامات برای بزرگ‌نمایی توان بازدارندگی در بحران‌های اقتصادی و نظامی است."
+        ],
+        "impact": "افزایش ریسک بازار انرژی و تشدید التهاب در ترانزیت نفت خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609204254",
+        "clean_url": "https://www.iranintl.com/en/202609204254",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1789905360.0
+    },
+    {
         "id": "53a44757f6",
         "title_fa": "بحران کمبود مواد اولیه؛ تولید صنعتی در سراشیبی سقوط",
         "title_en": "Iran factories face deepening raw material shortages",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEhKTldWenBfWGJ5LVl0eWJWaTIzYlJpc2k0TEJ1X3I5TDlEcUVjZW4tdzdDdnloZ2RvNGVnNUFJR1Joc0FiUkcyaWNrbld2cTN3bWJUMjlSak9Hb25nOVRaYm5VTDFVQWlCZnI5aWh2czhrVjV0STdULThvOXV4eVlnZG41WUxkTTZNVU9leXVuaGhDZnhqRlh0RTd5OVRVSVR0ZXdFektaUDlSTW9IM2U4NA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789632782.0
-    },
-    {
-        "id": "38dfbb9e29",
-        "title_fa": "تصادف مرگبار خودروی مسروقه در تل‌آویو",
-        "title_en": "Palestinian in Israel without permit allegedly steals car and gets into crash, killing cyclist",
-        "summary": [
-            "یک فرد فاقد مجوز اقامت، خودرویی را در اراضی اشغالی به سرقت برد.",
-            "تعقیب و گریز و تصادف این خودرو با یک دوچرخه‌سوار منجر به مرگ او شد."
-        ],
-        "impact": "این حادثه بار دیگر پرونده امنیتی تردد افراد غیرمجاز را به تیتر رسانه‌ها کشاند.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/palestinian-in-israel-without-permit-allegedly-steals-car-and-gets-into-crash-killing-cyclist/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-in-israel-without-permit-allegedly-steals-car-and-gets-into-crash-killing-cyclist",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789632420.0
     }
 ]
