@@ -180,6 +180,24 @@
         "timestamp": 1789916509.0
     },
     {
+        "id": "478c22d353",
+        "title_fa": "دیدار دوباره شهردار نیویورک و ترامپ پیش از اجلاس سازمان ملل",
+        "title_en": "NYC Mayor Zohran Mamdani & Trump to Meet Again This Week",
+        "summary": [
+            "زوران ممدانی و دونالد ترامپ برای سومین بار در اقامتگاه شهردار دیدار می‌کنند.",
+            "محور اصلی این نشست تمرکز بر چالش‌های شهری نیویورک اعلام شده است."
+        ],
+        "impact": "این دیدار حاشیه‌ای تأثیر مستقیمی بر معادلات کلان سیاسی ندارد.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "TMZ",
+        "url": "https://www.tmz.com/2026/09/20/zohran-mamdani-and-donald-trump-meeting-at-gracie-mansion/",
+        "clean_url": "https://www.tmz.com/2026/09/20/zohran-mamdani-and-donald-trump-meeting-at-gracie-mansion",
+        "image": "http://www.bing.com/th?id=ONUT.yfqMs0vBbCMejdYLs4aA5Q&pid=News",
+        "timestamp": 1789911720.0
+    },
+    {
         "id": "c2ca815fb4",
         "title_fa": "تهدید پایگاه‌های آمریکا توسط تهران در پی ادعای حمله",
         "title_en": "Iran claims US preparing to resume attacks, threatens bases, supporting regional countries",
@@ -196,6 +214,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBaUlNNHExT0F4eVR4OVRya3drdHBiOGZDVnVHT1FZazYtSHhwcVgwclltaDF0WWZxbTEyMjdxeHktbDBEbVNURDZrVlhaTFJKUVV3c25uREE1ek11QTlXMVJ2MjVvRGh0ZGc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789911602.0
+    },
+    {
+        "id": "c5fb9e0b5d",
+        "title_fa": "رویارویی ترامپ و پزشکیان در نیویورک با محدودیت‌های سنگین آمریکا",
+        "title_en": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
+        "summary": [
+            "حضور همزمان دونالد ترامپ و مسعود پزشکیان در مجمع عمومی سازمان ملل تنش‌های دیپلماتیک را به اوج رسانده است.",
+            "هیئت اعزامی تهران در نیویورک تحت کنترل و محدودیت‌های شدید امنیتی و رسانه‌ای واشنگتن قرار دارد.",
+            "ترامپ روز سه‌شنبه و پزشکیان روز چهارشنبه در این مجمع سخنرانی خواهند کرد."
+        ],
+        "impact": "محدودیت‌های اعمال شده دست تهران را در جنگ روانی و رسانه‌ای در خاک آمریکا بسته است.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
+        "clean_url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
+        "image": "http://www.bing.com/th?id=ONUT.2YZs4r6RfL3Jx9KV7gN1Qg&pid=News",
+        "timestamp": 1789911000.0
     },
     {
         "id": "0d1c347390",
@@ -253,6 +290,25 @@
         "timestamp": 1789908420.0
     },
     {
+        "id": "7a15f9ebda",
+        "title_fa": "بحران هزینه‌های زندگی پایگاه رای ترامپ را متزلزل کرد",
+        "title_en": "I Know Exactly Why Trump’s Base is Finally Turning: Journalist",
+        "summary": [
+            "رای‌دهندگان در ایالات مرکزی آمریکا به دلیل تورم و گرانی از سیاست‌های اقتصادی فاصله می‌گیرند.",
+            "افزایش قیمت سوخت و بحران‌های منطقه‌ای فشار مضاعفی بر کشاورزان و مردم وارد کرده است.",
+            "این نارضایتی عمومی زنگ خطری جدی برای حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای محسوب می‌شود."
+        ],
+        "impact": "مشکلات معیشتی می‌تواند پاشنه آشیل جمهوری‌خواهان در رقابت‌های پیش رو باشد.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/i-know-exactly-why-trumps-base-is-finally-turning-terry-moran/",
+        "clean_url": "https://www.thedailybeast.com/i-know-exactly-why-trumps-base-is-finally-turning-terry-moran",
+        "image": "http://www.bing.com/th?id=ONUT.SkZ8yYW2ZfATAU2yL9Swpw&pid=News",
+        "timestamp": 1789908360.0
+    },
+    {
         "id": "47e22d4d65",
         "title_fa": "زلزله سیاسی در آلمان با پیشتازی جریان‌های افراطی",
         "title_en": "راست و چپ افراطی در انتخابات ۲ ایالت آلمان پیشتازند",
@@ -307,6 +363,24 @@
         "clean_url": "https://www.iranintl.com/en/202609205123",
         "image": "http://www.bing.com/th?id=ONUT.wTUIDk_ao31cYG1B2pGaLQ&pid=News",
         "timestamp": 1789904040.0
+    },
+    {
+        "id": "44a2c1b8bf",
+        "title_fa": "سوژه شدن کاخ سفید به خاطر ادعای عجیب درباره بسته‌بندی فست‌فود",
+        "title_en": "White House Gets Cooked By Critics Over This 'Unspeakably Pathetic' Trump Praise",
+        "summary": [
+            "کاخ سفید در اقدامی عجیب بازگشت بسته‌بندی‌های قدیمی فست‌فود وندیز را به دستاوردهای ترامپ نسبت داد.",
+            "این ادعا با واکنش منفی کاربران و برچسب‌های اصلاحی در شبکه‌های اجتماعی مواجه شد."
+        ],
+        "impact": "این حاشیه‌سازی‌ها دست‌مایه تمسخر تیم رسانه‌ای دولت آمریکا شده است.",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-white-house-wendys-yellow-packaging_n_6aafb7a3e4b000f12fc764e2",
+        "clean_url": "https://www.huffpost.com/entry/trump-white-house-wendys-yellow-packaging_n_6aafb7a3e4b000f12fc764e2",
+        "image": "http://www.bing.com/th?id=ONUT.Q0k8j1a-iSlizERAR0To9Q&pid=News",
+        "timestamp": 1789903740.0
     },
     {
         "id": "7a5e42f30d",
@@ -418,6 +492,24 @@
         "timestamp": 1789899360.0
     },
     {
+        "id": "52103ee54c",
+        "title_fa": "شکاف در اردوگاه حامیان ترامپ بر سر هوش مصنوعی",
+        "title_en": "MAGA Donors Turn on Trump Over Key Issue",
+        "summary": [
+            "دست رد زدن ترامپ به نگرانی‌های امنیتی درباره هوش مصنوعی صدای حامیان مالی‌اش را درآورده است.",
+            "چهره‌های فناوری و حامیان مالی هشدار داده‌اند که بی‌توجهی به این موضوع به پایگاه سیاسی جمهوری‌خواهان ضربه می‌زند."
+        ],
+        "impact": "اختلاف نظر با حامیان مالی ثروتمند می‌تواند منابع مالی کمپین‌های انتخاباتی را به خطر بیندازد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/maga-donors-turn-on-trump-over-key-issue/",
+        "clean_url": "https://www.thedailybeast.com/maga-donors-turn-on-trump-over-key-issue",
+        "image": "https://www.thedailybeast.com/resizer/v2/TFZ5OOXC3JACPPYUJVSY2XQ3KU.JPG?smart=true&auth=9f0395aee9c54534f7bd52c03c87669479abbf8b2b048beda2910437fd9b9e65&width=1200&height=630",
+        "timestamp": 1789898880.0
+    },
+    {
         "id": "0adb4faf64",
         "title_fa": "اعتراض تند مورینیو به داوری پس از شکست",
         "title_en": "حملات مورینیو به داوری پس از شکست رئال مادرید: اگر اجازه بدهند در شرایط برابر رقابت کنیم",
@@ -508,6 +600,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHhhMjFLbWxjZG1TOFh3d2d5SWE2azZqOG5MT2o5blgwOHJmNExXN242V0M4bzdCSEpPcE9DZnNyYXZVRkF2S3ZsUkt0S1lfZ19WaDRKU1NZSjQtbTZLWW5VMDJrQ2ZtTXFYQjlscHRBelBDZlFFWTVyT3ZSQU5Sd1ZhcnpLaGJzeldZc0ctVzhMQURrX0JfZ25SNC1tbmhSLWhuNUxMcThXbGlo0gGyAUFVX3lxTE9wQVFOc01tMjRpYndlY0RrSVFmQjhkNmJkUllnckh6T1Y2aXpwLUxoMkZhTUJ0Mnp0M0JwLW9kNXRtdmpRcWJqYkxoOHJCaktRbDVGYllGenFCZDJyazFXaUl6Vk9aM0VGQWtYOFdWVUNJUEFQMHFvMUNSb1FrODBpdkRETEZvdDlSTGlkMlIyOWhEUy05REQzck1zQUxYUnN6RTlNeDRVZ0pYYk1sdWtWMlE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789896333.0
+    },
+    {
+        "id": "b8132021a2",
+        "title_fa": "حمله همه‌جانبه ترامپ به دیوان کیفری بین‌المللی برای حمایت از نتانیاهو",
+        "title_en": "Trump Targets International Criminal Court With ‘Sweeping Sanctions’ After Vow to Defend Netanyahu",
+        "summary": [
+            "کاخ سفید بسته تحریم‌های فراگیری را علیه دادگاه لاهه تدارک دیده است.",
+            "این اقدام در راستای حمایت صریح ترامپ از بنیامین نتانیاهو صورت می‌گیرد."
+        ],
+        "impact": "واشنگتن با این تحریم‌ها به دنبال خنثی کردن هرگونه اقدام حقوقی بین‌المللی علیه اسرائیل است.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/politics/trump-targets-international-criminal-court-with-sweeping-sanctions-after-vow-to-defend-netanyahu/",
+        "clean_url": "https://www.mediaite.com/politics/trump-targets-international-criminal-court-with-sweeping-sanctions-after-vow-to-defend-netanyahu",
+        "image": "http://www.bing.com/th?id=ONUT.Zj72H1I59EVaA7mmbMY2fA&pid=News",
+        "timestamp": 1789895580.0
     },
     {
         "id": "ff433aa3c3",
@@ -5379,115 +5489,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/ghalibaf-maths-missile-trump-decoded-141041547.html",
         "image": "https://s.yimg.com/lo/mysterio/api/4035e8264125ad2e536a9205220ff037afcd81082acfd08cd010c7cb659b78c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F911c6e7836027aa8eaecad8df9a9b1fc.jpg",
         "timestamp": 1789629000.0
-    },
-    {
-        "id": "35de8df332",
-        "title_fa": "ارجاع پرونده هسته‌ای تـ.ـکـ.ـو،زی به شورای امنیت پس از ۲۰ سال",
-        "title_en": "UN nuclear watchdog board reports Iran to the UN Security Council for the first time in 20 years - ABC News",
-        "summary": [
-            "آژانس اتمی پس از دو دهه، پرونده عدم پایبندی تـ.ـکـ.ـو،زی را رسماً به شورای امنیت سازمان ملل فرستاد.",
-            "این اقدام مسیر را برای بازگشت قطعنامه‌های بین‌المللی و فشارهای سنگین‌تر جهانی هموار می‌کند."
-        ],
-        "impact": "افزایش شدید فشار دیپلماتیک و ایجاد بستر مناسب برای بازگشت تحریم‌های بین‌المللی علیه تـ.ـکـ.ـو،زی.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjFSOFA2cUtZX0xLSlZ2RHVheHhIejd3R3Fxd3VWUXVLd19nS0Nvb0lJUE1EeEpsNlpydm5aYkdkM0JObUZhdGZoVVFmeFRJazlUV1luUDRBMEVHMGVVNV9mOWF0VGFhWjU0MUZpZUNXeWNmTVVWTlp5U3FQaWZJY3dqSXNtN0dtX2pXd2Z0cTVjalZ6TzBqTHdRRXNNeTlPall1N0c1UTNKc0NMdlp0RdIBtgFBVV95cUxQeUpyWHY5Zjl5aElsbDBxNzZRYjUtUndQVzRpajVpZDlmZko3cEp6dkZSUllfd0FQeU1NSXEwbmJ5TVZpZ09QXzJKNlhpVHZfd3Y1cm80bVBERUNyZ1ZHNE1DVWFuX1R6R0ctckhmYzBPa1dYWUVCakFneU9EX0dFWTU2TFZnZ0hvaVptbDJQdC1ZNmI3NlBPX0tOVXhMXzNUZHRKeGRGVzZjOVRWd2EtUGgzV21UUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjFSOFA2cUtZX0xLSlZ2RHVheHhIejd3R3Fxd3VWUXVLd19nS0Nvb0lJUE1EeEpsNlpydm5aYkdkM0JObUZhdGZoVVFmeFRJazlUV1luUDRBMEVHMGVVNV9mOWF0VGFhWjU0MUZpZUNXeWNmTVVWTlp5U3FQaWZJY3dqSXNtN0dtX2pXd2Z0cTVjalZ6TzBqTHdRRXNNeTlPall1N0c1UTNKc0NMdlp0RdIBtgFBVV95cUxQeUpyWHY5Zjl5aElsbDBxNzZRYjUtUndQVzRpajVpZDlmZko3cEp6dkZSUllfd0FQeU1NSXEwbmJ5TVZpZ09QXzJKNlhpVHZfd3Y1cm80bVBERUNyZ1ZHNE1DVWFuX1R6R0ctckhmYzBPa1dYWUVCakFneU9EX0dFWTU2TFZnZ0hvaVptbDJQdC1ZNmI3NlBPX0tOVXhMXzNUZHRKeGRGVzZjOVRWd2EtUGgzV21UUQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789628945.0
-    },
-    {
-        "id": "aa92b56f6b",
-        "title_fa": "ادعای ترامپ درباره پایان درگیری‌ها با جـمـهـورى اسـلامـى",
-        "title_en": "Trump says Iran conflict ‘hopefully’ nearing end and claims to be in direct talks with Tehran",
-        "summary": [
-            "دونالد ترامپ مدعی شده درگیری‌ها با تـهـران رو به پایان است.",
-            "او از وجود تماس‌ها و مذاکرات مستقیم میان واشنگتن و مـقـامـات جـمـهـورى اسـلامـى خبر داده است."
-        ],
-        "impact": "این ادعا می‌تواند نشان‌دهنده تغییرات احتمالی در رویکرد دیپلماتیک یا فشارهای پشت پرده باشد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZE5faXlnVTQ0Y3ptUklLelhxY0EzR1Uzc1dwRTR3X25uMkszY1lldnl5TjF6OG8yLUNTZjg4eFVRR25TczQ4TFRZYUFEQVJmX3g5ek9hOFpCYmRISFlSSDFUX1B0eUh1WklWR3plZE82ZS1Tb01oYlBWTy1jd3FwMzdUTlZCa25JRVdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZE5faXlnVTQ0Y3ptUklLelhxY0EzR1Uzc1dwRTR3X25uMkszY1lldnl5TjF6OG8yLUNTZjg4eFVRR25TczQ4TFRZYUFEQVJmX3g5ek9hOFpCYmRISFlSSDFUX1B0eUh1WklWR3plZE82ZS1Tb01oYlBWTy1jd3FwMzdUTlZCa25JRVdn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789626360.0
-    },
-    {
-        "id": "9491580020",
-        "title_fa": "گزارش جنجالی سازمان ملل علیه ج*هوری اس*لامی و آمریکا",
-        "title_en": "Expertos respaldados por la ONU citan posibles crímenes de guerra de EEUU en ataques a Irán",
-        "summary": [
-            "کمیته حقیقت‌یاب سازمان ملل در گزارشی بی‌سابقه، حکومت ایران را به ارتکاب جنایت علیه بشریت علیه مردم خود و آمریکا را به جنایت جنگی در حملات هوایی متهم کرد.",
-            "بررسی‌ها نشان می‌دهد یکی از حملات آمریکا به مدرسه‌ای در میناب، در مجاورت یک مقر نیروی دریایی س*پاه رخ داده است.",
-            "این سند غیرالزام‌آور، فشار حقوقی بین‌المللی را بر تهران بابت سرکوب‌های داخلی به شدت افزایش می‌دهد."
-        ],
-        "impact": "سنگین‌تر شدن پرونده نقض حقوق بشر حکومت ایران در عرصه‌های بین‌المللی و سخت‌تر شدن مانورهای دیپلماتیک تهران.",
-        "tag": "حقوق_بشر",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Univision",
-        "url": "https://www.univision.com/noticias/estados-unidos/expertos-respaldados-por-la-onu-citan-posibles-crimenes-de-guerra-de-eeuu-en-ataques-a-iran",
-        "clean_url": "https://www.univision.com/noticias/estados-unidos/expertos-respaldados-por-la-onu-citan-posibles-crimenes-de-guerra-de-eeuu-en-ataques-a-iran",
-        "image": "http://www.bing.com/th?id=ONUT.bjdCfwOCskpxs-f9yy2enQ&pid=News",
-        "timestamp": 1789624080.0
-    },
-    {
-        "id": "02abdc10ff",
-        "title_fa": "گسترش جنگ به یمن و سیگنال‌دهی ترامپ برای پایان درگیری‌ها",
-        "title_en": "Iran War Spreads to Yemen as Trump Signals Hope for End to Conflict",
-        "summary": [
-            "موج درگیری‌های منطقه‌ای به یمن رسیده و وضعیت جبهه نیابتی جدی‌تر شده است.",
-            "ترامپ ابراز امیدواری کرده که این تنش‌ها به سمت پایان حرکت کند، هرچند سناریوی فشار همچنان روی میز است."
-        ],
-        "impact": "تغییر موازنه در جبهه یمن می‌تواند سرعت تحولات سیاسی را دستخوش دگرگونی کند.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF9jWlhqNUs1Sk5RTm1DUm5qT2Z5RkNZZHF0a01WNldXMTJTWlBaTzBBUGprVlZHbHhOeWdpTkpEcVU3dlF5WUpFQUgybnlKbWl1enBjMFpodmRqcjZlNldacjVZWDdoWjFrSGZOWEF4SHh4U000M0YtMHJlUXRlWFR5TnA2NXFRd3BuVUVVOVFEMDVVdXg3T3p1X0Q3S3F2VFBhTE9KazJOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF9jWlhqNUs1Sk5RTm1DUm5qT2Z5RkNZZHF0a01WNldXMTJTWlBaTzBBUGprVlZHbHhOeWdpTkpEcVU3dlF5WUpFQUgybnlKbWl1enBjMFpodmRqcjZlNldacjVZWDdoWjFrSGZOWEF4SHh4U000M0YtMHJlUXRlWFR5TnA2NXFRd3BuVUVVOVFEMDVVdXg3T3p1X0Q3S3F2VFBhTE9KazJOZw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789623678.0
-    },
-    {
-        "id": "6cf76311c7",
-        "title_fa": "چرخش هند در بریکس؛ امتیاز دهی به جبهه شرق علیه واشنگتن",
-        "title_en": "BRICS Declaration: India’s Great U-turn on Iran",
-        "summary": [
-            "دهلی‌نو در بیانیه بریکس با وجود عدم نام بردن مستقیم از ایالات متحده، به شدت تحریم‌های یکجانبه اقتصادی را محکوم کرد.",
-            "مسعود پزشکیان در سایه تنش‌های هند با دولت دونالد ترامپ توانست مواضع ضدآمریکایی جمهوری اسلامی را در بیانیه نهایی برجسته کند.",
-            "این رویکرد نشان‌دهنده عقب‌نشینی مودی از سیاست خارجی مستقل سنتی هند در برابر فشارهای بلوک شرق است."
-        ],
-        "impact": "همگرایی بیشتر قدرت‌های نوظهور علیه ابزار تحریم اقتصادی ایالات متحده.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/brics-declaration-indias-great-u-turn-on-iran/",
-        "clean_url": "https://thediplomat.com/2026/09/brics-declaration-indias-great-u-turn-on-iran",
-        "image": "http://www.bing.com/th?id=ONUT.9JBbzVlqpvXrrpi8w1wpeA&pid=News",
-        "timestamp": 1789623060.0
-    },
-    {
-        "id": "51f7860069",
-        "title_fa": "فرار مهاجران افغان از بحران اقتصادی ای-ران",
-        "title_en": "Afghans flee collapsing Iranian economy amid US conflict, returning to strict Taliban rule",
-        "summary": [
-            "فروپاشی ارزش پول ملی و بحران شدید اقتصادی در ای-ران، موج جدیدی از بازگشت مهاجران افغان را رقم زده است.",
-            "فشار تحریم‌ها و تنش‌های واشنگتن با ح-کوم-ت، شرایط زندگی را برای کارگران افغان غیرقابل تحمل کرده است."
-        ],
-        "impact": "تخلیه نیروی کار ارزان از بازار کار ای-ران به دلیل عمق بحران اقتصادی.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qdUM5TkVTajU1bW9Tbjh5T2FNLUNVRWNNMDcwZ0t2V2Z0NTZub0dxZzFfUkJfdUJOUDJicEo0RV9BMDNEa05lZGxTS0NuTzhQSWtnazE4Z1NPMmljU1lmX0stVHRrczYxaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qdUM5TkVTajU1bW9Tbjh5T2FNLUNVRWNNMDcwZ0t2V2Z0NTZub0dxZzFfUkJfdUJOUDJicEo0RV9BMDNEa05lZGxTS0NuTzhQSWtnazE4Z1NPMmljU1lmX0stVHRrczYxaWc",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789621977.0
     }
 ]
