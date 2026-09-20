@@ -801,6 +801,24 @@
         "timestamp": 1789893059.0
     },
     {
+        "id": "929ddd93d0",
+        "title_fa": "آماده‌باش نیویورک برای مجمع عمومی سازمان ملل و سفر ترامپ",
+        "title_en": "UN General Assembly week in NYC: What to know about street closures, security",
+        "summary": [
+            "امنیت منهتن به دلیل حضور رهبران جهان برای اجلاس مجمع عمومی به شدت تشدید شده و محدودیت‌های ترافیکی گسترده‌ای اعمال شده است.",
+            "ترامپ در جریان این سفر علاوه بر حضور در سازمان ملل، دیدارهای مهمی با شهردار نیویورک و ولودیمیر زلنسکی خواهد داشت."
+        ],
+        "impact": "تدابیر شدید امنیتی و ترافیکی در نیویورک همزمان با دیدارهای سیاسی کلان رهبران جهان.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "ABC7 New York",
+        "url": "https://abc7ny.com/post/general-assembly-week-nyc-what-know-street-closures-security/19853064/",
+        "clean_url": "https://abc7ny.com/post/general-assembly-week-nyc-what-know-street-closures-security/19853064",
+        "image": "https://cdn.abcotvs.com/dip/images/19844883_091726-wabc-un-security-img.jpg?w=1600",
+        "timestamp": 1789892640.0
+    },
+    {
         "id": "54d45d9863",
         "title_fa": "اعتراف مقام ارشد سنای آمریکا به فشار تورم بر معیشت مردم",
         "title_en": "Top Senate Republican says 'we need to do more' on economy, affordability",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzJvZW84dU1NMjA2OVZSZVlYS2lJWmhhbjN2M2RZbjlGUGV0WjRNWUNmbXpkREllLUNlWGVEel9TWnFDYmNBM29GbWsya0lIQU5yOUtLWVNjQjBHUTdwNjl4LS1LTGVIVXFmYTNWTTJfbzR6R2xfWkoyQkhpLXhIa2VOMjI3UkdzZ1NHMmx1ZUg1YUUyY3FBdFhmY05CQVJtWXNfVA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789635960.0
-    },
-    {
-        "id": "b6617cf6eb",
-        "title_fa": "نشست پاریس برای جایگزینی ماموریت سازمان ملل در لبنان",
-        "title_en": "Security talks focused on replacing UN mission in Lebanon begin in Paris",
-        "summary": [
-            "رهبران فرانسه، لبنان و اردن در پاریس برای بررسی حمایت مالی از ارتش لبنان دور هم جمع شدند.",
-            "بحث اصلی این نشست، ایجاد یک نیروی جدید جایگزین برای ماموریت قدیمی سازمان ملل در جنوب لبنان است."
-        ],
-        "impact": "تغییر موازنه نظامی و امنیتی در مرزهای شمالی ای-س-ر-ا-ئ-ی-ل و تضعیف نفوذ ح-ز-ب-ا-ل-ل-ه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/security-talks-focused-on-replacing-un-mission-in-lebanon-begin-in-paris/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/security-talks-focused-on-replacing-un-mission-in-lebanon-begin-in-paris",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260917__C8JT2B4__v4__HighRes__FranceLebanonDiplomacy-640x400.jpg",
-        "timestamp": 1789635720.0
     }
 ]
