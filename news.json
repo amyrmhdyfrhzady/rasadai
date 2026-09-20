@@ -145,6 +145,24 @@
         "timestamp": 1789896333.0
     },
     {
+        "id": "ff433aa3c3",
+        "title_fa": "چرا قیمت گازوئیل با وجود افت نفت همچنان رکورد می‌زند؟",
+        "title_en": "Why Record Diesel Prices Don’t Equal Price Gouging",
+        "summary": [
+            "چالش‌های پالایشگاهی و کمبود شدید موجودی انبارها مانع از کاهش قیمت سوخت با وجود افت قیمت نفت خام شده است.",
+            "اختلالات زنجیره تأمین جهانی هزینه‌های انرژی را در بازارها همچنان بالا نگه داشته است."
+        ],
+        "impact": "فشار تورمی جدید بر هزینه‌های حمل‌ونقل و کالاهای مصرفی",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/rrapier/2026/09/20/why-record-diesel-prices-dont-equal-price-gouging/",
+        "clean_url": "https://www.forbes.com/sites/rrapier/2026/09/20/why-record-diesel-prices-dont-equal-price-gouging",
+        "image": "http://www.bing.com/th?id=ONUT.lxk1vBtMJ4NoDfCEk1MWxg&pid=News",
+        "timestamp": 1789893780.0
+    },
+    {
         "id": "38e0597436",
         "title_fa": "هشدار فوری واشنگتن درباره خطر شعله‌ور شدن جنگ در منطقه",
         "title_en": "‘Conflict has potential to escalate rapidly’: US issues Mideast warnings as Trump leaves Camp David early",
@@ -161,6 +179,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAydUxLNkhxT0NhTHExYVhLUFZ4dlBJN3B0a25TSk8yNGh2UGJjbE1WdlctTkRfdXlVSXVYSjB5UTdoemFQLTRBcUJCU1loQkpETHZydUtR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789893059.0
+    },
+    {
+        "id": "54d45d9863",
+        "title_fa": "اعتراف مقام ارشد سنای آمریکا به فشار تورم بر معیشت مردم",
+        "title_en": "Top Senate Republican says 'we need to do more' on economy, affordability",
+        "summary": [
+            "جان باراسو، سناتور ارشد جمهوری‌خواه، اذعان کرد که فشارهای اقتصادی و گرانی سوخت زندگی مردم را مختل کرده است.",
+            "حزب جمهوری‌خواه با چالش جدی نارضایتی عمومی از وضعیت اقتصادی در آستانه انتخابات میان‌دوره‌ای مواجه است."
+        ],
+        "impact": "تغییر موازنه‌های انتخاباتی به ضرر حزب حاکم به دلیل مشکلات اقتصادی",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/09/20/john-barrasso-meet-the-press-kristen-welker-trump-economy/91859716007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/09/20/john-barrasso-meet-the-press-kristen-welker-trump-economy/91859716007",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/20/USAT/91860077007-20260909-t-220806-z-1156385252-rc-2-yfnaau-53-t-rtrmadp-3-usaelectionrepublicans.JPG?crop=4091,2301,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+        "timestamp": 1789892220.0
+    },
+    {
+        "id": "b39949f97d",
+        "title_fa": "دیدار مقام‌های ارشد اقتصادی آمریکا و چین پیش از نشست سران",
+        "title_en": "Top US, Chinese Economic Officials Meet Ahead of Trump-Xi Summit",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا و معاون نخست‌وزیر چین مذاکرات فشرده‌ای را برای دستیابی به توافقات تجاری و فناوری آغاز کردند.",
+            "این دیدارها بستر لازم برای حل اختلافات کلیدی پیش از نشست رو در روی روسای جمهور دو کشور را فراهم می‌کند."
+        ],
+        "impact": "کاهش تنش‌های تجاری و تاثیرگذاری بر بازارهای مالی جهانی",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Newsmax",
+        "url": "https://www.newsmax.com/world/globaltalk/bessent-china/2026/09/20/id/1270031/",
+        "clean_url": "https://www.newsmax.com/world/globaltalk/bessent-china/2026/09/20/id/1270031",
+        "image": "http://www.bing.com/th?id=ONUT.PP4lvN-R86yAVzlWXX0dQg&pid=News",
+        "timestamp": 1789892100.0
     },
     {
         "id": "270bd8dae6",
@@ -254,6 +308,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83dGp5NV9RY0FKTEk3Q3BKczZMdTRFMDlSbVVKUUlSaU1Qd3hmc05oV2RlYjFCcXlBNHY3a1hZZlFMem9IaGdEZmtWZFB3RUdIMWo1a2N0SG4zWFk4dHR1d1VvTEpueEp6YlE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789887942.0
+    },
+    {
+        "id": "6fc5ea364a",
+        "title_fa": "پایان دوران پول ارزان؛ تورم چسبنده نرخ بهره را بالا نگه می‌دارد",
+        "title_en": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
+        "summary": [
+            "رشد مداوم اقتصادی و هزینه‌های سرسام‌آور شرکت‌های بزرگ فناوری برای ساخت مراکز داده، نرخ بهره را بالا نگه داشته است.",
+            "عصر وام‌های ارزان‌قیمت دهه گذشته به پایان رسیده و اقتصاد جهانی وارد فاز جدیدی از بهره‌های بالا شده است."
+        ],
+        "impact": "سنگین‌تر شدن هزینه‌های استقراض برای دولت‌ها و بخش خصوصی",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/09/20/federal-reserve-rate-hike/",
+        "clean_url": "https://www.chicagotribune.com/2026/09/20/federal-reserve-rate-hike",
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/09/Federal_Reserve_Warsh_7557__5411d7-1.jpg?w=7796&h=5197",
+        "timestamp": 1789887600.0
     },
     {
         "id": "2ead95dc3e",
@@ -363,6 +435,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-is-only-amping-up-his-antics-ahead-of-the-midterm-election/ar-AA2cAwBc",
         "image": "http://www.bing.com/th?id=ONUT.rk8y1IqZXbiwQF7UdYo_tA&pid=News",
         "timestamp": 1789884191.0
+    },
+    {
+        "id": "f3cedf096e",
+        "title_fa": "افت محبوبیت ترامپ همزمان با بحران گرانی در آستانه انتخابات",
+        "title_en": "Poll: Most voters say Trump has hurt the economy as competitive midterm election looms",
+        "summary": [
+            "نتایج نظرسنجی جدید نشان می‌دهد بیشتر رای‌دهندگان آمریکایی سیاست‌های اقتصادی را عامل اصلی گرانی و مشکلات می‌دانند.",
+            "افت جایگاه سیاسی ترامپ، بخت نامزدهای جمهوری‌خواه را در انتخابات میان‌دوره‌ای به خطر انداخته است."
+        ],
+        "impact": "تضعیف موقعیت سیاسی حزب جمهوری‌خواه در کنگره",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "NBC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/poll-most-voters-say-trump-has-hurt-the-economy-as-competitive-midterm-election-looms/ar-AA2cBnrV",
+        "clean_url": "https://www.msn.com/en-us/news/other/poll-most-voters-say-trump-has-hurt-the-economy-as-competitive-midterm-election-looms/ar-AA2cBnrV",
+        "image": "http://www.bing.com/th?id=ONUT.P_jia3N1wMcpb_1tL85aGA&pid=News",
+        "timestamp": 1789884042.0
     },
     {
         "id": "d16888fbc4",
@@ -947,6 +1037,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX3RvSkROQ1dUcVdOb0hGTHNHM092RlZncjZweFNZTFZ2Wm5vM0xSUE1CQVYwZl95ZnZrTUVWbHFaR2Utc1hTMW5WMFNNUlRYOTJQTzR2OUNGMjhjdzRZZ0FZekRDWGlyQkhuNXYxVGtmVzRSaUV2NHU2YllOMUNFQmgwakd2dUJxSGxVbVMwOWZNUdIBlwFBVV95cUxPbGdERVM5X3ktZTVvSDNXNmxvb2FEQllES1NLRVFfOWFvNllwNUdWbi1pZE96Tml2a2U0TEFuREJ4bnAwOVktS1o0TXNuZTRlTlZVV3pnSExrenpianBHZDFqSXo0YTZ3aHVYT0VjVFJpWlAta1BEbHhSZW1UeHhYUU1DQ29aS0Y0aWFiUm9lMGtRbENwbDRz",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789856113.0
+    },
+    {
+        "id": "375c4e5c31",
+        "title_fa": "هشدار مستقیم ترامپ به جـمـهـورـی اسـلاـمی: منتظر اتفاقات بزرگ باشید",
+        "title_en": "Trump in ‘deciding mode’ on Iran, says ‘very big things’ are coming",
+        "summary": [
+            "ترامپ در حال بررسی نهایی سناریوهای مختلف درباره تـهـرـان است و صراحتاً هشدار داده که مسئولان ایرانی باید رفتار خود را تغییر دهند.",
+            "رئیس‌جمهور آمریکا از احتمال دیدار با رئیس‌جمهور ایران سخن گفته اما همزمان تهدید کرده که اگر خط قرمزها رعایت نشود، ضربات سنگینی در راه است."
+        ],
+        "impact": "افزایش شدید ریسک امنیتی و تنش‌های نظامی در منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6405330005112",
+        "clean_url": "https://www.foxnews.com/video/6405330005112",
+        "image": "http://www.bing.com/th?id=ONUT.QBAIws5dP8GVhuh6AaCqrQ&pid=News",
+        "timestamp": 1789855440.0
     },
     {
         "id": "e87f302542",
@@ -5383,113 +5491,5 @@
         "clean_url": "https://www.bostonherald.com/2026/09/16/trump-golf-course",
         "image": "http://www.bing.com/th?id=ONUT.qrPShceFjc1C_oS_WOi8jA&pid=News",
         "timestamp": 1789572480.0
-    },
-    {
-        "id": "4f4e1d1daf",
-        "title_fa": "تهدید ترامپ و وعده پاتک تیمی ج.ا تا آخرین قطره خون",
-        "title_en": "Iran war live: Tehran vows to fight on 'until the last drop of blood'",
-        "summary": [
-            "مقام‌های تهرانی ادعای ترامپ درباره تمایل حاکمیت برای توافق سریع را رد کردند.",
-            "ماشین تبلیغاتی حکومت دوباره روی لفاظی‌های جنگی و مقاومت تا پای جان تمرکز کرده است."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی و بستվել شدن روزنه‌های دیپلماسی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-tehran-vows-to-fight-on-until-the-last-drop-of-blood/ar-AA2cjFL4",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-tehran-vows-to-fight-on-until-the-last-drop-of-blood/ar-AA2cjFL4",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cfZrP.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1789572269.0
-    },
-    {
-        "id": "fea75ab2cd",
-        "title_fa": "رکوردشکنی قیمت سوخت در سایه تنش‌های نظامی",
-        "title_en": "Fuel Oil and Diesel Prices Are at Record Highs as Iran Conflict Continues",
-        "summary": [
-            "بحران درگیری‌ها قیمت نفت کوره و گازوئیل را به بالاترین سطح رسانده است.",
-            "تداوم تنش‌ها بازارهای انرژی جهان را به شدت تحت فشار گذاشته است."
-        ],
-        "impact": "افزایش سرسام‌آور هزینه‌های حمل‌ونقل و انرژی برای مصرف‌کنندگان نهایی.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The Institute for Energy Research",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNGWjZKWXFPVVFpWUhvYUVTV3M5WVJXVVdRd1B6dWpDTkJpQ3d6eDZLTFVucHZBQWgwQURpLUFzX2JFbVF0TnZQWFBfaVIzdzdubzZHd0h0dnNDTU9xN1Y0SC1GLUlmSXNpV3J1SUx3bzdNM1pPbGsyRUE1MHNyZDNwSW1PeDNUM21rMnpONC11M0x6RE40MEV4ZC0xUUJLaFJjYU9mZ0lzR2JiLUR6dWhwLTA4aTN4ZHV0MkF3YlZzV2VnM3pGejAyZTZkeldLMzlNRXk1VGdOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHNGWjZKWXFPVVFpWUhvYUVTV3M5WVJXVVdRd1B6dWpDTkJpQ3d6eDZLTFVucHZBQWgwQURpLUFzX2JFbVF0TnZQWFBfaVIzdzdubzZHd0h0dnNDTU9xN1Y0SC1GLUlmSXNpV3J1SUx3bzdNM1pPbGsyRUE1MHNyZDNwSW1PeDNUM21rMnpONC11M0x6RE40MEV4ZC0xUUJLaFJjYU9mZ0lzR2JiLUR6dWhwLTA4aTN4ZHV0MkF3YlZzV2VnM3pGejAyZTZkeldLMzlNRXk1VGdOZw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789571584.0
-    },
-    {
-        "id": "0997ad9de6",
-        "title_fa": "اثر جنگ احتمالی با ایـــران بر تورم و بازار بیمه",
-        "title_en": "Iran Conflict And Inflation: The Corporate Winners And Losers",
-        "summary": [
-            "بخش بیمه با اعمال استثناعات سخت‌گیرانه در بیمه‌نامه‌ها، تلاش می‌کند خود را از خسارت‌های مستقیم درگیری‌های نظامی مصون نگه دارد.",
-            "تنش‌های نظامی منطقه‌ای مستقیماً موتور تورم را روشن کرده و هزینه‌های اجرایی شرکت‌ها را به شدت بالا می‌برد."
-        ],
-        "impact": "افزایش ریسک‌های ژئوپلیتیک هزینه‌های بیمه و تورم عمومی را به صورت مستقیم بالا می‌برد.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/09/16/iran-conflict-and-inflation-the-corporate-winners-and-losers/",
-        "clean_url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/09/16/iran-conflict-and-inflation-the-corporate-winners-and-losers",
-        "image": "http://www.bing.com/th?id=ONUT.h2mZgiCnd8uOGi7m-2MWfA&pid=News",
-        "timestamp": 1789571580.0
-    },
-    {
-        "id": "d4fe53559d",
-        "title_fa": "تعطیلی زودهنگام کنگره برای فرار از استیضاح وزیر دفاع",
-        "title_en": "Speaker Johnson recesses the House early as Kentucky Republican pushes Hegseth impeachment",
-        "summary": [
-            "رئیس مجلس نمایندگان برای جلوگیری از رای‌گیری درباره استیضاح وزیر دفاع به خاطر جنگ ایران، پارلمان را تعطیل کرد.",
-            "توماس مسی، نماینده شورشی، این اقدام را فرار از پاسخگویی درباره جنگ و پرونده جنجالی جفری اپستین خواند."
-        ],
-        "impact": "افزایش تنش‌های داخلی در حزب جمهوری‌خواه و تلاش برای لاپوشانی پرونده‌های حساس نظامی و اخلاقی.",
-        "tag": "سیاست_آمریکا",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Boston Globe",
-        "url": "https://www.bostonglobe.com/2026/09/16/nation/house-recess-hegseth-impeachment/",
-        "clean_url": "https://www.bostonglobe.com/2026/09/16/nation/house-recess-hegseth-impeachment",
-        "image": "http://www.bing.com/th?id=ONUT.QXyg-aYmklXYoxoF_lpUQw&pid=News",
-        "timestamp": 1789569660.0
-    },
-    {
-        "id": "bedf3d111e",
-        "title_fa": "چالش اتمی جدید ایران و آمریکا در آژانس",
-        "title_en": "Iran's Rare Win Over US Sets Up Clash at UN Nuclear Agency",
-        "summary": [
-            "موانع فنی سایت بلومبرگ نشان‌دهنده ابعاد امنیتی و حساسیت بالای اخبار مربوط به پرونده اتمی است.",
-            "رویارویی دیپلماتیک تهران و غرب در آژانس انرژی اتمی وارد فاز تازه‌ای از تنش شده است."
-        ],
-        "impact": "افزایش ریسک سیاسی و تشدید فشارهای بین‌المللی بر پرونده هسته‌ای.",
-        "tag": "اتمی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-16/iran-s-rare-win-over-us-sets-up-clash-at-un-nuclear-agency",
-        "clean_url": "https://www.bloomberg.com/news/articles/2026-09-16/iran-s-rare-win-over-us-sets-up-clash-at-un-nuclear-agency",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivgC6mRFRQL0/v1/1200x839.jpg",
-        "timestamp": 1789568580.0
-    },
-    {
-        "id": "6f294cf20c",
-        "title_fa": "ممنوعیت ورود رئیس سازمان اتمی ایران به اتریش",
-        "title_en": "Austria bars entry of Iran's nuclear chief for IAEA meeting in Vienna",
-        "summary": [
-            "دولت اتریش با ورود رئیس برنامه اتمی ایران به خاک این کشور برای شرکت در نشست سالانه آژانس اانرژی اتمی مخالفت کرد.",
-            "این تصمیم جنجالی بلافاصله به یک مناقشه دیپلماتیک سنگین در افتتاحیه نشست وین تبدیل شد."
-        ],
-        "impact": "انزوای بیشتر دیپلماتیک جمهوری اسلامی و تشدید تنش‌ها با نهادهای بین‌المللی اتمی.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Ghana News Agency",
-        "url": "https://www.msn.com/en-xl/africa/ghana/austria-bars-entry-of-iran-s-nuclear-chief-for-iaea-meeting-in-vienna/ar-AA2cmpnl",
-        "clean_url": "https://www.msn.com/en-xl/africa/ghana/austria-bars-entry-of-iran-s-nuclear-chief-for-iaea-meeting-in-vienna/ar-AA2cmpnl",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789568489.0
     }
 ]
