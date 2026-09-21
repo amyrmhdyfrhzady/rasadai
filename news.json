@@ -418,6 +418,42 @@
         "timestamp": 1789925255.0
     },
     {
+        "id": "24d49a30b1",
+        "title_fa": "خط و نشان سپاه برای آمریکا؛ جنگ ادامه دارد",
+        "title_en": "سخنگوی سپاه پاسداران: سپاه هیچ ارتباط رسمی یا غیررسمی با آمریکا ندارد",
+        "summary": [
+            "سخنگوی سپاه در گفتگویی تلاش کرد با ادعای ناکارآمدی پایگاه‌های آمریکا، شکست‌های نظامی را پنهان کند.",
+            "تهدید به تغییر جغرافیای جنگ، تلاشی برای بازگرداندن بازدارندگی از دست رفته است."
+        ],
+        "impact": "افزایش تنش‌های نظامی و روانی در منطقه خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609210000",
+        "clean_url": "https://www.iranintl.com/202609210000",
+        "image": "http://www.bing.com/th?id=ONUT.78RcxrA-PHktQDrJYFFgQw&pid=News",
+        "timestamp": 1789923600.0
+    },
+    {
+        "id": "2d071ea3c6",
+        "title_fa": "توافق موقت ترامپ و پکن پس از طوفان تعرفه‌ها",
+        "title_en": "ترامپ و شی چگونه از جنگ تعرفه‌ای به توافق موقت تجاری رسیدند؟",
+        "summary": [
+            "مناقشه تجاری میان آمریکا و چین پس از ماه‌ها اعمال تعرفه‌های سنگین وارد فاز توافق موقت شد.",
+            "اقدامات متقابل دو قدرت اقتصادی در حوزه انرژی و فناوری سرانجام به عقب‌نشینی تاکتیکی انجامید."
+        ],
+        "impact": "تغییر در زنجیره تامین جهانی و نوسان در بازار انرژی و کالا.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/2026092196520",
+        "clean_url": "https://www.iranintl.com/2026092196520",
+        "image": "http://www.bing.com/th?id=ONUT.ElGpwbsiZydBypHqvNOfwg&pid=News",
+        "timestamp": 1789923600.0
+    },
+    {
         "id": "0d75657a77",
         "title_fa": "سازمان ملل؛ آخرین فرصت دیپلماسی برای حاکمیت",
         "title_en": "امیر گیتی: مجمع عمومی سازمان ملل می‌تواند «آخرین آوردگاه دیپلماسی» جمهوری اسلامی باشد",
@@ -5454,42 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cruBo.img?w=900&h=510&m=4&q=84",
         "timestamp": 1789660283.0
-    },
-    {
-        "id": "1850bd7635",
-        "title_fa": "ادعای سازمان ملل درباره جنایت جنگی آمریکا و اصرار ترامپ بر توافق با ج.ا",
-        "title_en": "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal",
-        "summary": [
-            "کمیته حقوق بشر سازمان ملل اعلام کرد شواهد معقولی وجود دارد که حملات آمریکا به دو نقطه در ایران که به کشته شدن غیرنظامیان منجر شد، جنایت جنگی محسوب می‌شود.",
-            "دونالد ترامپ بار دیگر مدعی شد تهران خواهان توافق است و ابراز امیدواری کرد که این درگیری‌ها به پایان خود نزدیک شود.",
-            "با اعلام وزیر انرژی آمریکا درباره تعمیر زودهنگام خط لوله آسیب‌دیده عربستان، قیمت نفت برای دومین روز متوالی کاهش یافت."
-        ],
-        "impact": "فشار حقوقی سازمان ملل بر واشنگتن همزمان با تلاش ترامپ برای مدیریت هزینه‌های اقتصادی جنگ و بازار نفت.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal",
-        "image": "http://www.bing.com/th?id=ONUT.bGdvfTOY3UtSkcW_5-DHbA&pid=News",
-        "timestamp": 1789659300.0
-    },
-    {
-        "id": "0069815e30",
-        "title_fa": "بررسی جامع تحریم‌های بین‌المللی علیه ج.ا",
-        "title_en": "What are all the sanctions Iran is under?",
-        "summary": [
-            "فشار تحریم‌ها به نقطه اوج خود رسیده و اقتصاد کشور را زمین‌گیر کرده است.",
-            "محدودیت‌های بانکی و نفتی تمام ارکان درآمدی حکومت را بلوکه کرده است."
-        ],
-        "impact": "فلج شدن کامل ساختار مالی و ناتوانی در تامین بودجه جاری",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDNSdWU2Z3NCQWhfNU03dG5CcTc1bmxlZnZmaUdCbmRPRTRER19GTGQwWHIxUnppa0lVZkRhY2RqWDkwcnc5d1puMzc5Z2JYTzJNYUFfREp1VUdTd1VoN0Z4M3oyankwYzR4Y1hXV01BZ3ExdVY4VXNqS3J1ZDd2VHhic1A0dTNX0gGOAUFVX3lxTE80ZjJiVEE5MzRaWldZYmFjNU5iNkNmbFc5M1J2bUhySUQ3ME1MNDF1UGhqUS05aUMzNW9DZE5FdTlpNDdGLUNjdGZLbEIxUzdaQWFGSHA1SEFjeTdqTzJkZHliRUZxMEpwRkdISmFJZ3VOeEdqYmFRN2YyaEhoZ04tSW1vVVByamJ6VGhyR2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDNSdWU2Z3NCQWhfNU03dG5CcTc1bmxlZnZmaUdCbmRPRTRER19GTGQwWHIxUnppa0lVZkRhY2RqWDkwcnc5d1puMzc5Z2JYTzJNYUFfREp1VUdTd1VoN0Z4M3oyankwYzR4Y1hXV01BZ3ExdVY4VXNqS3J1ZDd2VHhic1A0dTNX0gGOAUFVX3lxTE80ZjJiVEE5MzRaWldZYmFjNU5iNkNmbFc5M1J2bUhySUQ3ME1MNDF1UGhqUS05aUMzNW9DZE5FdTlpNDdGLUNjdGZLbEIxUzdaQWFGSHA1SEFjeTdqTzJkZHliRUZxMEpwRkdISmFJZ3VOeEdqYmFRN2YyaEhoZ04tSW1vVVByamJ6VGhyR2c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789657306.0
     }
 ]
