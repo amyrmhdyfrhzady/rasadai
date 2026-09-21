@@ -1,5 +1,23 @@
 [
     {
+        "id": "ae21749482",
+        "title_fa": "بازگشت بحران به دریای سرخ و یمن",
+        "title_en": "A simple guide to the Yemen conflict",
+        "summary": [
+            "پیشروی‌های نظامی گروه حوثی در یمن، تسلط این گروه بر سواحل دریای سرخ را بیشتر کرده است.",
+            "روند صلح متوقف شده و یمن دوباره به کانون تنش‌های منطقه‌ای بازگشته است."
+        ],
+        "impact": "اختلال بیشتر در امنیت کشتیرانی بین‌المللی و افزایش تنش‌های منطقه‌ای.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/world/articles/simple-guide-yemen-conflict-100130590.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/simple-guide-yemen-conflict-100130590.html",
+        "image": "https://media.zenfs.com/en/al_jazeera_289/1c830b9becf6f898289e3f0547527c29.jpg",
+        "timestamp": 1789984919.0
+    },
+    {
         "id": "9ce4c957f7",
         "title_fa": "پایان نامعلوم جنگ؛ فرسایشی شدن تنش‌ها در منطقه",
         "title_en": "Don’t Ask How This War Ends",
@@ -312,6 +330,43 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNlY2ME1qc0lQZEVsV0FjaGI5b0VjRDhNX212MWNOQjRGSmJhSXZVYVlJc1hLSVV2c2pmNEhCV2VIU3VQS2lUZzR6bWEyNU5ZRHdFcTZmckZaczVFRHd6YWRQTnNsY1FSSFlNdUk3T2RVSTh1Vnd4eUxTcnFwNlktRFUzcnhWUkhOTVpQU3hxMDZFLXFwa3pKWXh0NHIyR1A1VHVGTDFTZzV3MVRXWGFGaTdQYnFIczJyQWNHTkV4N3BkSERvYlhMV3NMOUtuMElBUXRCTzVpWHI4V0hJczUwbjdQb3FHQlJpMjhVWUFUQUY2MnJZU01mNzQ1dzNGOWM3NmVCRTRHOUhJSFJNeU9Fb0NoNnpYQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789960649.0
+    },
+    {
+        "id": "0d617b648a",
+        "title_fa": "رجزخوانی نظامی و افزایش حساسیت منطقه‌ای",
+        "title_en": "مرتضی کاظمیان: تهدیدهای سپاه درباره تغییر جغرافیای جنگ فراتر از «رجزخوانی» است",
+        "summary": [
+            "تهدیدات فرماندهان نظامی درباره تغییر جغرافیای جنگ، بازتاب‌دهنده دکترین امنیتی حکومت است.",
+            "این مواضع به جای بازدارندگی، حساسیت کشورهای منطقه و فشارها را بیشتر می‌کند."
+        ],
+        "impact": "افزایش ریسک امنیتی و تحریک بازیگران منطقه‌ای علیه تهران.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609215987",
+        "clean_url": "https://www.iranintl.com/202609215987",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1789957020.0
+    },
+    {
+        "id": "efd3fe8cac",
+        "title_fa": "عراق؛ تنها راه تنفس دلاری حکومت",
+        "title_en": "یک نماینده مجلس عراق: بغداد تنها مسیر باقی‌مانده برای دسترسی ایران به دلار است",
+        "summary": [
+            "بغداد به مسیر اصلی تامین دلار برای تهران تبدیل شده است.",
+            "واشینگتن انتقال دلار به عراق را به دلیل ادامه قاچاق متوقف کرده است.",
+            "فشار آمریکا بر بغداد برای خلع سلاح گروههای مسلح نیابتی افزایش یافته است."
+        ],
+        "impact": "بسته شدن این مسیر مالی، فشار ارزی بر جمهوری اسلامی را به شدت تشدید می‌کند.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609214413",
+        "clean_url": "https://www.iranintl.com/202609214413",
+        "image": "http://www.bing.com/th?id=ONUT.UjAUN_dphtJX3gBY1g8pzA&pid=News",
+        "timestamp": 1789956600.0
     },
     {
         "id": "d063198fa1",
@@ -5436,60 +5491,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18",
         "image": "http://www.bing.com/th?id=ONUT.fozraXScjxjG-a_Fc_1VVQ&pid=News",
         "timestamp": 1789682640.0
-    },
-    {
-        "id": "dc96e97eff",
-        "title_fa": "موافقت واشنگتن با حضور هیئت تهران در نشست سازمان ملل",
-        "title_en": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-        "summary": [
-            "دولت آمریکا علیرغم تنش‌های شدید منطقه‌ای و فشار تحریم‌ها، بر اساس توافق مقر سازمان ملل برای سفر نمایندگان تهران ویزا صادر می‌کند.",
-            "این سفر فرصتی برای مقامات جمهوری اسلامی جهت استفاده از تریبون نیویورک و تلاش برای کاهش فشارهای سیاسی همزمان با ورود جنگ منطقه به ماه هفتم است."
-        ],
-        "impact": "امکان باز شدن روزنه‌هایی برای تبادل پیام‌های غیرمستقیم دیپلماتیک در حاشیه نشست‌های بین‌المللی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "bbc.com",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByQ2VrSExSX1FlSDJibFU5bHlydXkwWFd6Ul94Vk9zUUpsaVJZSmFJZDBXZkQ3aWxlN0JSczFKc3FySHg0bHlzVWxGcTRZT2p6VnltTHAtUWE2TlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByQ2VrSExSX1FlSDJibFU5bHlydXkwWFd6Ul94Vk9zUUpsaVJZSmFJZDBXZkQ3aWxlN0JSczFKc3FySHg0bHlzVWxGcTRZT2p6VnltTHAtUWE2TlU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789681279.0
-    },
-    {
-        "id": "717c8f0b37",
-        "title_fa": "ترامپ: گزینه‌های بسیار سختی روی میز ایران داریم",
-        "title_en": "Trump weighs ‘very strong options’ on Iran — and won’t say which one he’ll pick",
-        "summary": [
-            "دونالد ترامپ از تصمیم‌گیری بزرگ و قریب‌الوقوع درباره جـمـهـورى اسـلامـى خبر داد.",
-            "مشاوران روی سناریوهای مختلف کار می‌کنند و هنوز گزینه نهایی اعلام نشده است.",
-            "سطح ریسک در این پرونده فراتر از مرزهای ایـران است."
-        ],
-        "impact": "افزایش شدید ریسک سیاسی و سایه سنگین اقدام سخت نظامی بر سر مقامات تـهـران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Idaho Public Press on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-weighs-very-strong-options-on-iran-and-won-t-say-which-one-he-ll-pick/ar-AA2ctK8K",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-weighs-very-strong-options-on-iran-and-won-t-say-which-one-he-ll-pick/ar-AA2ctK8K",
-        "image": "http://www.bing.com/th?id=ONUT._E7VxvFIgoqVaoAOThUwiA&pid=News",
-        "timestamp": 1789679234.0
-    },
-    {
-        "id": "53db7cf1a1",
-        "title_fa": "بازی سیاسی نتانیاهو با خطر نابودی",
-        "title_en": "Netanyahu ignores war’s toll, but what did intelligence say: Was Israel facing annihilation?",
-        "summary": [
-            "نخست‌وزیر اسرائیل هزینه واقعی جنگ را نادیده می‌گیرد تا قدرت مانور خود را حفظ کند.",
-            "گزارش‌های نهادهای امنیتی تصویر متفاوتی از میزان واقعی تهدیدهای بقا ارائه می‌دهند."
-        ],
-        "impact": "تنش‌های درون‌حکومتی در تل‌آویو بر سر مدیریت جنگ افزایش می‌یابد.",
-        "tag": "منطقه‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzb1dxYkJGb3BXQjh1UkJtZWdQR3c3NXNwTFY3VWc1eXBiMHBIUkNfTDhoVFJReXN4LXhPWUQ1VlRSRGVZVjVzaDBPQUoyM3IyMm9UdF9R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzb1dxYkJGb3BXQjh1UkJtZWdQR3c3NXNwTFY3VWc1eXBiMHBIUkNfTDhoVFJReXN4LXhPWUQ1VlRSRGVZVjVzaDBPQUoyM3IyMm9UdF9R",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789678662.0
     }
 ]
