@@ -1,5 +1,24 @@
 [
     {
+        "id": "5d3b41e0fa",
+        "title_fa": "افزایش نرخ بهره بانک مرکزی ژاپن و سقوط ارزش ین",
+        "title_en": "September 18-21 Edition | BOJ Rate Hike → 158 Yen → Rate Check. Reviewing the Weekend's Energy Issues",
+        "summary": [
+            "بانک مرکزی ژاپن نرخ بهره را به ۱.۲۵ درصد رساند اما بازار با فروش ین به این تصمیم واکنش نشان داد.",
+            "مداخله دولت و بانک مرکزی برای مهار دلار به ۱۶۸ ین پس از نشست پولی شکل گرفت.",
+            "بحران‌های انرژی در خاورمیانه و روسیه بر بازارهای ارزی و مالی فشار سنگینی وارد کرد."
+        ],
+        "impact": "نوسانات شدید در بازار ارز جهانی و بی‌ثباتی ارزش ین در برابر دلار.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "note",
+        "url": "https://note.com/fxsamurai7/n/nd47299341848?hl=en",
+        "clean_url": "https://note.com/fxsamurai7/n/nd47299341848",
+        "image": "https://www.bing.com/th?id=ONUT.p9ZJoj0pn73CmCoLED6Xww",
+        "timestamp": 1789969563.8729615
+    },
+    {
         "id": "95e8725a69",
         "title_fa": "محکومیت اسرائیل توسط ت.ه.ر.ا.ن در آستانه مجمع عمومی سازمان ملل",
         "title_en": "Iran condemns Israel over Gaza, West Bank actions ahead of UN General Assembly",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHVyaFJaeElfNXdpUWNtX0FPTW1iZ3hfeHpKU25oalFDZ2dUTW0zcGx6UHU1R1FWTmZENEVUcU81Um03VzRRbXlVVmpycGtZWDdKcHc2M284V2s3bVh2ejBBVnE0eEJoQThlNjJlN1NLMFAxaGdGOTJNRTdVUEkwdXhtQjVNRW9FVkNCYlNtZjMwbTJBeHlpRXNsWDc5ZXJ2b1E3SGdwMHVqbG9iQWhMUkNNcGRWZjU1S3g0QmFiMW15bkU",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789653600.0
-    },
-    {
-        "id": "743677d365",
-        "title_fa": "جهش سفارش نفت‌کش‌ها زیر سایه تنش‌های ام‌ریکا و جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
-        "title_en": "US-Iran conflict helps drive wave of supertanker orders",
-        "summary": [
-            "افزایش تنش‌های نظامی و سیاسی بازار حمل‌ونقل دریایی انرژی را وارد فاز تازه‌ای از نااطمینانی کرده است.",
-            "مالکان کشتی‌ها با پیش‌بینی ریسک‌های جدید در آب‌های منطقه، به دنبال نوسازی ناوگان خود هستند."
-        ],
-        "impact": "بالارفتن هزینه‌های بیمه و جابجایی نفت به دلیل ریسک بالای امنیتی در مسیرهای کلیدی",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "reuters.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHQ5ZjFKUlRNeTl4YXFuSUNzZ0FpZHRoUGRjMUJ0WjJhbVZOY2tQazZuVUdtMURzNzNnTlVadTZoT3gxUmYyYWdxS2o2bEdtSWRUcGExWjFOQXNsdmwzMm9EOFljblVTdk1OTXY2UUtuZ3pyOXhjSmhQTy0yQkFXUDFHN2tqR2p4VWhDcW1FbE9PY2lwLVJDcWhmWnFSMFZpSVBoUUJiOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHQ5ZjFKUlRNeTl4YXFuSUNzZ0FpZHRoUGRjMUJ0WjJhbVZOY2tQazZuVUdtMURzNzNnTlVadTZoT3gxUmYyYWdxS2o2bEdtSWRUcGExWjFOQXNsdmwzMm9EOFljblVTdk1OTXY2UUtuZ3pyOXhjSmhQTy0yQkFXUDFHN2tqR2p4VWhDcW1FbE9PY2lwLVJDcWhmWnFSMFZpSVBoUUJiOA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789650827.0
     }
 ]
