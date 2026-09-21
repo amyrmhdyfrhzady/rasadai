@@ -273,6 +273,24 @@
         "timestamp": 1789997100.0
     },
     {
+        "id": "93894fd7cd",
+        "title_fa": "دستکم گرفتن درگیری با ایـران توسط ترامپ و جی‌دی ونس",
+        "title_en": "Did Trump call Iran war 'small potatoes'?",
+        "summary": [
+            "دونالد ترامپ ابعاد درگیری با ایـران را کوچک شمرد و آن را کم‌اهمیت جلو داد.",
+            "جی‌دی ونس نیز پیش‌تر گفته بود که تنش‌های اخیر را در حد یک جنگ تمام‌عیار نمی‌داند."
+        ],
+        "impact": "تغییر محاسبات واشنگتن درباره سطح درگیری‌ها و رویکرد آن در قبال تهران.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Snopes on MSN",
+        "url": "https://www.msn.com/en-us/news/other/did-trump-call-iran-war-small-potatoes/ar-AA2cGPtC",
+        "clean_url": "https://www.msn.com/en-us/news/other/did-trump-call-iran-war-small-potatoes/ar-AA2cGPtC",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789995900.0
+    },
+    {
         "id": "d138c98916",
         "title_fa": "تلاش کشورهای خلیج فارس برای کاهش تنش با ج.ا",
         "title_en": "Gulf states urge reset with Iran as conflict drags on",
@@ -618,6 +636,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-in-deciding-mode-on-iran-conflict-as-middle-east-tensions-linger/vi-AA2cH8X7",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789986660.0
+    },
+    {
+        "id": "2e0679a9c7",
+        "title_fa": "قطع پروازهای ترکیش ایرلاینز به ایران تا سال ۲۰۲۷",
+        "title_en": "Turkish Airlines suspends flights to Iran until at least March 2027",
+        "summary": [
+            "ترکیش ایرلاینز تمام پروازهای خود به پنج مقصد در ایـران را به دلیل فشارهای تحریمی و ناامنی منطقه متوقف کرد.",
+            "این تصمیم عملاً یکی از آخرین مسیرهای هوایی مهم بین‌المللی ایـران را قطع می‌کند و انزوای هوایی را بیشتر خواهد کرد."
+        ],
+        "impact": "ایزوله شدن بیشتر هوایی ایـران و ضربه سنگین به تردد مسافران و ارتباطات تجاری خارجی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/turkish-airlines-suspends-iran-flights-2027/",
+        "clean_url": "https://cryptobriefing.com/turkish-airlines-suspends-iran-flights-2027",
+        "image": "http://www.bing.com/th?id=ONUT.LniflMU7IFBsRQqaqldnsw&pid=News",
+        "timestamp": 1789986540.0
     },
     {
         "id": "ae21749482",
@@ -5446,41 +5482,5 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-19/live-updates-909093",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738446",
         "timestamp": 1789748220.0
-    },
-    {
-        "id": "bb7dc440f5",
-        "title_fa": "فشار تحریم‌ها روی ماهان‌ایر؛ ترکیه و عمان پروازها را بستند",
-        "title_en": "US says Iran sanctions working, as Turkey, Oman suspend Mahan Air flights",
-        "summary": [
-            "آمریکا تاکید کرد که تحریم‌های اعمال شده علیه تـحـریـم‌شـدگان ایرانی اثرگذار بوده است.",
-            "ترکیه و عمان در راستای این فشارها، مجوز پروازهای شرکت هواپیمایی ماهان را تعلیق کردند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه انزوای هوایی و لجستیکی نهادهای وابسته به سـپـاه در منطقه.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDBHUnVMX0g4cWdnT3duYnM4c1pEc1JoWllnN3BteWJHVUFwMmxKbFBXXzdVR2lfR2xsVWVXdWkwSS1TZ3Z3QzNLLU4wNmNqdjh0cU5ndDBSU3h1M243OGwxSG8tdE16Sk1ZRm80UW5MUHZ3bXUyWlQ0akdvQnB0UGFQc0FETWU3WHNvV0NvX2JNNW9hQWZENDV5dlRyRUpEblhlNElSelg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDBHUnVMX0g4cWdnT3duYnM4c1pEc1JoWllnN3BteWJHVUFwMmxKbFBXXzdVR2lfR2xsVWVXdWkwSS1TZ3Z3QzNLLU4wNmNqdjh0cU5ndDBSU3h1M243OGwxSG8tdE16Sk1ZRm80UW5MUHZ3bXUyWlQ0akdvQnB0UGFQc0FETWU3WHNvV0NvX2JNNW9hQWZENDV5dlRyRUpEblhlNElSelg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789746756.0
-    },
-    {
-        "id": "159933fb35",
-        "title_fa": "چراغ سبز وزارت دادگستری آمریکا به خرید سلاح برای جوانان",
-        "title_en": "Ban on selling handguns to young adults under 21 is unconstitutional, Justice Department says",
-        "summary": [
-            "وزارت دادگستری آمریکا در نظریه‌ای حقوقی، ممنوعیت فروش سلاح کمری به افراد زیر ۲۱ سال را مغایر با قانون اساسی اعلام کرد.",
-            "این تصمیم که همسو با سیاست‌های تسلیحاتی ترامپ است، پیگرد قضایی فروشندگان سلاح به این گروه سنی را متوقف می‌کند."
-        ],
-        "impact": "تسهیل خرید اسلحه برای جوانان ۱۸ تا ۲۰ ساله و احتمال افزایش خشونت‌های مسلحانه در شهرهای آمریکا.",
-        "tag": "سیاست_داخلی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Pioneer Press",
-        "url": "https://www.twincities.com/2026/09/18/justice-department-guns-young-adults/",
-        "clean_url": "https://www.twincities.com/2026/09/18/justice-department-guns-young-adults",
-        "image": "http://www.bing.com/th?id=ONUT.CQa4AC8eWf-pWg6TvcnPGA&pid=News",
-        "timestamp": 1789745760.0
     }
 ]
