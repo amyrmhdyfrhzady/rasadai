@@ -278,6 +278,24 @@
         "timestamp": 1789960649.0
     },
     {
+        "id": "d063198fa1",
+        "title_fa": "از خاویار تا انزوا؛ نگاهی به پرستیژ رفته سفارت ایران در واشنگتن",
+        "title_en": "Champagne, Caviar and Sinatra: Iran Once Hosted the Best Parties in Washington",
+        "summary": [
+            "یادآوری دوران پیش از انقلاب ۵۷ که دیپلماسی ایران در آمریکا بر پایه نفوذ نرم، اعتبار بین‌المللی و تعامل با برترین چهره‌های جهان استوار بود.",
+            "مقایسه جایگاه گذشته ایران با وضعیت کنونی که تقابل‌گرایی ایدیولوژیک، جایگاه دیپلماتیک کشور را به انزوای کامل کشانده است."
+        ],
+        "impact": "نمایش بازنده بودن ج.ا.ا در عرصه قدرت نرم و پرستیژ بین‌المللی طی چهار دهه گذشته.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/21/us/politics/iran-embassy-parties.html",
+        "clean_url": "https://www.nytimes.com/2026/09/21/us/politics/iran-embassy-parties.html",
+        "image": "http://www.bing.com/th?id=ONUT.p4hQzzcYCNxAsOEeBAPg1w&pid=News",
+        "timestamp": 1789956000.0
+    },
+    {
         "id": "69ce577e2b",
         "title_fa": "تیغ دوedged ترامپ؛ از گزینه انفجار تا میز مذاکره",
         "title_en": "Iran oil revenue exceeded $16 billion in six months – IRGC media",
@@ -531,6 +549,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789935219.0
+    },
+    {
+        "id": "60a1a512f3",
+        "title_fa": "انفجار در نزدیکی پایگاه آمریکا در اربیل؛ مانور نظامی یا هجوم پهپادی؟",
+        "title_en": "BREAKING: Iran Bombs US-led Coalition Base? Drone Intercepted Near Erbil Airport | Details",
+        "summary": [
+            "گزارش‌های اولیه از سرنگونی پهپاد در اطراف فرودگاه اربیل، بار دیگر حساسیت بالای مقر نیروهای آمریکایی در برابر تحرکات نیابتی را برجسته کرد.",
+            "اعلام سریع مقامات اقلیم مبنی بر «تمرین نظامی بودن انفجارها»، تلاشی برای مهار فوری تنش و جلوگیری از پاسخ تلافی‌جویانه واشنگتن است."
+        ],
+        "impact": "تداوم هشدار باش کامل در پایگاه‌های آمریکا و ریسک بالای درگیری ناگهانی در اقلیم کردستان.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/international/breaking-iran-bombs-us-led-coalition-base-drone-intercepted-near-erbil-airport-details/videoshow/134379764.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/international/breaking-iran-bombs-us-led-coalition-base-drone-intercepted-near-erbil-airport-details/videoshow/134379764.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134379764,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1789934040.0
     },
     {
         "id": "230acde868",
@@ -5457,42 +5493,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-slip-supply-fears-191408143.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/268aaebfc7374268d36f00d2946a3bb0.jpg",
         "timestamp": 1789672868.0
-    },
-    {
-        "id": "0a2824727f",
-        "title_fa": "نشست پاریس برای تقویت ارتش ل ب ن ان",
-        "title_en": "Middle East live: Paris talks aim to bolster Lebanese army as end of UN mission looms",
-        "summary": [
-            "مقام‌های نظامی اروپایی و عربی در پاریس برای تقویت ارتش ل ب ن ان در آستانه پایان ماموریت صلح‌بانان سازمان ملل دور هم جمع شدند.",
-            "دیدار محرمانه مقام‌های آمریکایی با نمایندگان حوثی‌ها در عمان نشان‌دهنده تغییرات جدید در معادلات منطقه‌ای است.",
-            "دونالد ترامپ درخواست عربستان سعودی برای مداخله نظامی مستقیم علیه حوثی‌ها را رد کرده است."
-        ],
-        "impact": "تغییر رویکرد واشنگتن در قبال جنگ یمن و تلاش اروپا برای پر کردن خلاء امنیتی در ل ب ن ان.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "France 24",
-        "url": "https://www.france24.com/en/middle-east/20260917-middle-east-live-paris-talks-lebanese-army-unifil-israel-iran-yemen",
-        "clean_url": "https://www.france24.com/en/middle-east/20260917-middle-east-live-paris-talks-lebanese-army-unifil-israel-iran-yemen",
-        "image": "https://s.france24.com/media/display/8a23ffec-b25b-11f1-b763-3df65e1cd14d/w:1280/p:16x9/AP26203371982815.jpg",
-        "timestamp": 1789670580.0
-    },
-    {
-        "id": "c2a25fe993",
-        "title_fa": "گمانه‌زنی‌ها درباره توافق احتمالی آمریـکا و جمهوری اسلامی",
-        "title_en": "What to know about potential US-Iran agreement - ABC News",
-        "summary": [
-            "رسانه‌های غربی دوباره بحث توافق پشت پرده بین واشنگتن و تـهـران را پیش کشیده‌اند.",
-            "فشار اقتصادی شدید روی حـکـومـت، آن‌ها را پای میز مذاکره احتمالی کشانده است."
-        ],
-        "impact": "احتمال تغییر در معادلات تحریمی و بازار ارز در صورت تایید رسمی توافق.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjlPSVBBV3hkRG1lTXZmQzhhUjFQck1renpxSlJFdEswWWRXdmEzTmtLTXU1UlNIMTRIN3hqdGliZGFTT1VFNGt4cEZnY2hJYVRmbmNuNDBvUkNORWtUbklDbjdkODIwcjMyU1pQWjJBT1dfcEZaVXVpazFaZS1natIBhgFBVV95cUxObDRTVkZQOWpySU5DNmhuWVJSUlJLcDR6NGZXZkwyZ1MteDJEV0dzcmRQeFlPaXowUDBzTE9WMzRFNnNzQ05mTTYtV0tOaWVFQ1NoTVNlbl9aODRpR0xiU19vZnV1WFdyUW9pejRBZXh3ZmtrMDc5cExaRGVYLTNWODE0dUp4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjlPSVBBV3hkRG1lTXZmQzhhUjFQck1renpxSlJFdEswWWRXdmEzTmtLTXU1UlNIMTRIN3hqdGliZGFTT1VFNGt4cEZnY2hJYVRmbmNuNDBvUkNORWtUbklDbjdkODIwcjMyU1pQWjJBT1dfcEZaVXVpazFaZS1natIBhgFBVV95cUxObDRTVkZQOWpySU5DNmhuWVJSUlJLcDR6NGZXZkwyZ1MteDJEV0dzcmRQeFlPaXowUDBzTE9WMzRFNnNzQ05mTTYtV0tOaWVFQ1NoTVNlbl9aODRpR0xiU19vZnV1WFdyUW9pejRBZXh3ZmtrMDc5cExaRGVYLTNWODE0dUp4UQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789670471.0
     }
 ]
