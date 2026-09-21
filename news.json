@@ -1,5 +1,23 @@
 [
     {
+        "id": "cba2619842",
+        "title_fa": "ادعای ترامپ درباره عقب‌نشینی حوثی‌ها و تعیین تکلیف جنگ با ایران",
+        "title_en": "Houthis' escalating attacks on Saudi Arabia give Iran leverage in the Middle...",
+        "summary": [
+            "دونالد ترامپ اعلام کرد حوثی‌های یمن در تماس با واشنگتن متعهد شده‌اند با نیروهای آمریکایی وارد درگیری نشوند.",
+            "رئیس‌جمهور آمریکا تأکید کرد که در حال بررسی و تصمیم‌گیری نهایی برای نحوه مواجهه با حکومت ایران در سطح منطقه است."
+        ],
+        "impact": "تضعیف اهرم فشار نیابتی تهران در بحران سرخ و افزایش احتمال اقدام مستقیم واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ABC News",
+        "url": "https://www.yahoo.com/news/world/articles/houthis-escalating-attacks-saudi-arabia-223949197.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/houthis-escalating-attacks-saudi-arabia-223949197.html",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/cc968d0acf41e76a3d86d56982283ac9.jpg",
+        "timestamp": 1790030395.0
+    },
+    {
         "id": "50bc171563",
         "title_fa": "انزوای هوایی ایران با فشار حداکثری آمریکا",
         "title_en": "Flying to or from Iran? What to know as US pressure squeezes air links",
@@ -470,6 +488,24 @@
         "clean_url": "https://www.iranintl.com/en/202609210904",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/06de5c459695e48d97a46564e8aec01990c4277c-1160x774.jpg?rect=251,94,680,680&w=200&h=200&q=58&fit=crop&auto=format",
         "timestamp": 1789997100.0
+    },
+    {
+        "id": "7f1da57479",
+        "title_fa": "تهدید بی‌سابقه ترامپ: انهدام کامل یا خفقان کامل اقتصادی ایران",
+        "title_en": "Iran-US war latest: Trump threatens to 'blow the entire nation up'",
+        "summary": [
+            "در پاسخ به خط‌ونشان‌های تهران، ترامپ صراحتاً از گزینه‌هایی چون نابودی کامل یا رها کردن ایران تا فروپاشی کامل اقتصادی سخن گفت.",
+            "این موضع‌گیری بسیار تند، سطح رویارویی کلامی را به آستانه درگیری مستقیم کشانده است."
+        ],
+        "impact": "جهش آنی ریسک درگیری نظامی و فشار روانی شدید بر بازار ارز و اقتصاد ایران.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/news/iran-us-war-latest-trump-threatens-to-blow-the-entire-nation-up/ar-AA2cDAv5",
+        "clean_url": "https://www.msn.com/en-us/news/news/iran-us-war-latest-trump-threatens-to-blow-the-entire-nation-up/ar-AA2cDAv5",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789995901.0
     },
     {
         "id": "93894fd7cd",
@@ -5444,42 +5480,5 @@
         "clean_url": "https://www.iranintl.com/en/202609184967",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/dda014cfd84cdab7e2797308c93613ad4d1ce412-600x585.jpg?rect=15,160,558,293&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1789772400.0
-    },
-    {
-        "id": "b3187a2e36",
-        "title_fa": "پرواز ده درصدی قیمت نفت؛ هجوم بازار به سوی نفت صد دلاری",
-        "title_en": "Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say",
-        "summary": [
-            "بحران نظامی با ای-ران قیمت نفت را تکان داد و بازار جهانی را در وضعیت قرمز قرار داد.",
-            "کارشناسان انرژی هشدار می‌دهند تداوم تنش‌ها به راحتی بهای هر بشکه نفت را به صد دلار می‌رساند.",
-            "درآمد نفتی ج-مهوری ا-سلا-می در مرکز این نوسانات شدید قیمتی قرار دارد."
-        ],
-        "impact": "فشار سنگین بر اقتصاد جهانی و جهش هزینه‌های انرژی در پی تنش‌های نظامی.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUYxWXU0ZTFwaWtCOWZCVzJyNHJoU0ZnMzBkZm5NU283TE45ZzM0bVpKUEpubExlM0hQeV9sZjZ0M3BabGFDaUI0d1c2QS1SN183cGlPaXo3cE5ld0NBRXotajY3UkhaTm51M3R3eXJNYnlObGFDYzhWaXc2N1Y2aWxFUC1HT1d2Ml9nNUZvYXExVzJJdzR1ekR5RG9mcThpVmw0NlQtX1c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUYxWXU0ZTFwaWtCOWZCVzJyNHJoU0ZnMzBkZm5NU283TE45ZzM0bVpKUEpubExlM0hQeV9sZjZ0M3BabGFDaUI0d1c2QS1SN183cGlPaXo3cE5ld0NBRXotajY3UkhaTm51M3R3eXJNYnlObGFDYzhWaXc2N1Y2aWxFUC1HT1d2Ml9nNUZvYXExVzJJdzR1ekR5RG9mcThpVmw0NlQtX1c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789772316.0
-    },
-    {
-        "id": "6340456837",
-        "title_fa": "اعدام یک متهم به جاسوسی برای موساد در اصفهان",
-        "title_en": "US-Israel-Iran war latest live news: Iran executes Hossein Pedram after Mossad spying conviction over classified military sites in Isfahan",
-        "summary": [
-            "حکومت حسین پدرام را به اتهام انتقال اطلاعات محرمانه مراکز نظامی اصفهان به موساد اعدام کرد.",
-            "این اقدام همزمان با تشدید درگیری‌های اطلاعاتی و امنیتی میان تهران و تل‌آویو رسانه‌ای شد."
-        ],
-        "impact": "افزایش فضای امنیتی و پاکسازی‌های داخلی با شدت گرفتن سایه جنگ",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/general/general/us-israel-iran-war-latest-live-news-iran-executes-hossein-pedram-after-mossad-spying-conviction-over-classified-military-sites-in-isfahan/ar-AA2czivA",
-        "clean_url": "https://www.msn.com/en-in/general/general/us-israel-iran-war-latest-live-news-iran-executes-hossein-pedram-after-mossad-spying-conviction-over-classified-military-sites-in-isfahan/ar-AA2czivA",
-        "image": "http://www.bing.com/th?id=ONUT.fExEyesPpHsLbEKkGUFcTw&pid=News",
-        "timestamp": 1789772040.0
     }
 ]
