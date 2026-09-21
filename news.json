@@ -1,5 +1,24 @@
 [
     {
+        "id": "3f6622dd94",
+        "title_fa": "خط‌ونشان کشیدن سپاه برای آمریکا و اسراییل",
+        "title_en": "IRGC says forces 'finger on trigger,' vows devastating response to US, Israel",
+        "summary": [
+            "سپاه پاسداران در بیانیه‌ای مدعی شد که نیروهای نظامی دست‌به‌ماشه و آماده پاسخ کوبنده به تهدیدات هستند.",
+            "فرماندهان نظامی جمهوری اسلامی مدعی توانایی خنثی‌سازی تهدیدات در مبدأ شدند.",
+            "ادعای کنترل تنگه هرمز بار دیگر به عنوان ابزار قدرت‌نمایی مطرح شد."
+        ],
+        "impact": "این لفاظی‌ها با هدف مصرف داخلی و جنگ روانی در بحبوحه تنش‌های منطقه‌ای منتشر شده است.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609214000",
+        "clean_url": "https://www.iranintl.com/en/202609214000",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790019300.0
+    },
+    {
         "id": "ed94148a73",
         "title_fa": "بحران سیاسی و امنیتی در رومانی از تحولات داخلی تا کشف پهپاد",
         "title_en": "Articole despre \"ene-cornel-galati-senat-alegeri\"",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.iranintl.com/en/202609189917",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1789735740.0
-    },
-    {
-        "id": "2514d57d0f",
-        "title_fa": "غربالگری اجباری هورمونی در ارتش آمریکا کلید خورد",
-        "title_en": "The Pentagon is moving forward with mandatory testosterone testing for most male troops",
-        "summary": [
-            "پنتاگون دستورالعمل تست اجباری هورمون تستوسترون را برای سربازان مرد بالای ۳۰ سال صادر کرد تا آمادگی رزمی نیروها را بسنجد.",
-            "پیت هگست، وزیر دفاع آمریکا، این طرح را برای ارتقای توان بدنی ارتش ضروری می‌داند، هرچند جامعه پزشکی درباره اثربخشی علمی آن تردید دارد."
-        ],
-        "impact": "تغییر در استانداردهای پزشکی و بهداشتی ارتش آمریکا و احتمال ورود گسترده مکمل‌های هورمونی به ساختار نظامی.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Los Angeles Daily News",
-        "url": "https://www.dailynews.com/2026/09/18/pentagon-hegseth-mandatory-testosterone-testing/",
-        "clean_url": "https://www.dailynews.com/2026/09/18/pentagon-hegseth-mandatory-testosterone-testing",
-        "image": "https://www.dailynews.com/wp-content/uploads/2026/09/Pentagon_POW_MIA_47886.jpg?w=2000&h=1333",
-        "timestamp": 1789734420.0
     }
 ]
