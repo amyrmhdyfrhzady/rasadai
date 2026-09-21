@@ -327,6 +327,42 @@
         "timestamp": 1790003901.0
     },
     {
+        "id": "9c1b8053f5",
+        "title_fa": "افشای جزئیات تازه از تصفیه خونین نیروهای چپ در دهه ۶۰",
+        "title_en": "جاسوسی با مشکل جنسی؛ روایتی از تصفیه خونین جمهوری اسلامی با نیروهای چپ",
+        "summary": [
+            "کتاب جدید بن مکینتایر بر اساس اسناد تازه، نفوذ و تقابل سازمان‌های جاسوسی غرب و شرق در تهران سال ۱۳۶۰ را به تصویر می‌کشد.",
+            "این اسناد نحوه استفاده دستگاه امنیتی ج.ا از داده‌های اطلاعاتی برای سرکوب و تصفیه شدید مخالفان سیاسی را روشن می‌کند."
+        ],
+        "impact": "تعمیق آگاهی تاریخی از روش‌های سرکوب و ساختار امنیتی ج.ا در اوایل انقلاب.",
+        "tag": "تاریخی",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609212974",
+        "clean_url": "https://www.iranintl.com/202609212974",
+        "image": "http://www.bing.com/th?id=ONUT.HAqFCeEtYLlGubP1meFIpg&pid=News",
+        "timestamp": 1790001480.0
+    },
+    {
+        "id": "b20aad7fe5",
+        "title_fa": "استقبال شاهزاده رضا پهلوی از قاطعیت کانادا علیه ج.ا و سـپاه",
+        "title_en": "شاهزاده رضا پهلوی: کانادا در کنار مردم ایران ایستاده است، نه سرکوبگران آن‌ها",
+        "summary": [
+            "شاهزاده رضا پهلوی با قدردانی از موضع رهبر محافظه‌کاران کانادا، تاکید کرد عزم او پیام روشنی در حمایت از مردم ایران است.",
+            "پافشاری بر اخراج عوامل تروریستی سـپاه و پاسخگو کردن ج.ا محور اصلی این مواضع بین‌المللی را تشکیل می‌دهد."
+        ],
+        "impact": "افزایش فشار دیپلماتیک بر دولت‌های غربی برای برخورد سخت‌تر با سـپاه و حمایت از مردم.",
+        "tag": "اپوزیسیون",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609211787",
+        "clean_url": "https://www.iranintl.com/202609211787",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790000400.0
+    },
+    {
         "id": "57837dbe30",
         "title_fa": "پیش‌نویس توافق با آمریکا روی میز؛ معامله نفت و پول در ازای هسته‌ای",
         "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
@@ -506,6 +542,24 @@
         "clean_url": "https://www.iranintl.com/202609219544",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1789993680.0
+    },
+    {
+        "id": "af66c37e9d",
+        "title_fa": "تهدید ترامپ به گسترش جنگ؛ ترفند تکراری تهران در آستانه تصمیمات جدید",
+        "title_en": "Iran threatens wider war as Trump considers next steps",
+        "summary": [
+            "جمهوری اسلامی در پاسخ به بررسی گزینه‌های سخت‌گیرانه ترامپ، مجدداً تهدید به گسترش دامنه جنگ در منطقه کرده است.",
+            "این خط کلامی عمدتاً کارکرد جنگ روانی برای بازدارندگی دارد و نشان‌دهنده هراس از بازگشت سیاست فشار حداکثری است."
+        ],
+        "impact": "افزایش ریسک تنش نظامی و تشدید انزوای بین‌المللی تهران در ماه‌های پیش‌رو.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Newsmax on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-threatens-wider-war-as-trump-considers-next-steps/ar-AA2cHbOl",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-threatens-wider-war-as-trump-considers-next-steps/ar-AA2cHbOl",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789993507.0
     },
     {
         "id": "b937e9338f",
@@ -5427,60 +5481,5 @@
         "clean_url": "https://www.msn.com/en-in/general/general/us-israel-iran-war-latest-live-news-iran-executes-hossein-pedram-after-mossad-spying-conviction-over-classified-military-sites-in-isfahan/ar-AA2czivA",
         "image": "http://www.bing.com/th?id=ONUT.fExEyesPpHsLbEKkGUFcTw&pid=News",
         "timestamp": 1789772040.0
-    },
-    {
-        "id": "4c91f79779",
-        "title_fa": "افشای پنهان‌کاری پنتاگون؛ آمار واقعی تلفات نظامیان آمریکا بیشتر است",
-        "title_en": "US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports",
-        "summary": [
-            "واشینگتن‌پست فاش کرد تلفات نیروهای آمریکایی دست‌کم چهار نفر بیشتر از ارقام رسمی اعلام‌شده توسط وزارت دفاع است.",
-            "عدم شفافیت پنتاگون در ثبت کشته‌ها، روایت رسمی واشینگتن از مدیریت درگیری‌ها را زیر ضربه برده است.",
-            "این تناقض آماری خوراک تبلیغاتی مناسبی برای جریان‌های مخالف در منطقه می‌سازد تا اعتبار گزارش‌های نظامی آمریکا را بی‌اعتبار کنند."
-        ],
-        "impact": "فشار سنگین رسانه‌ای و بازخواست احتمالی مقامات پنتاگون در کنگره آمریکا برای شفاف‌سازی تلفات میدانی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWTJWTFE3dlFIRDVOVDZiY01XQXNxNDI0Z1RiWlFybTFpaEFEQUtpcVRnaEVNUUxPSkl3eFpLc1JzakdRWHNFQWZSUHhQMmQ0T0MtOHBrUjFYTGIzM0dMUmFwNGZPdWhkZUdUSmR1Q29mTHZXNDJuY2d6MllvMXNTM3pGM1BHQmVvQkstdEd2SDE2ZjJ4dXpxdmVSa25KcWJxaUV5eUFrNGFLSUJoT21wNDRieGxuQjFzTXNxU1dFZFlCT3R3aEJESmRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWTJWTFE3dlFIRDVOVDZiY01XQXNxNDI0Z1RiWlFybTFpaEFEQUtpcVRnaEVNUUxPSkl3eFpLc1JzakdRWHNFQWZSUHhQMmQ0T0MtOHBrUjFYTGIzM0dMUmFwNGZPdWhkZUdUSmR1Q29mTHZXNDJuY2d6MllvMXNTM3pGM1BHQmVvQkstdEd2SDE2ZjJ4dXpxdmVSa25KcWJxaUV5eUFrNGFLSUJoT21wNDRieGxuQjFzTXNxU1dFZFlCT3R3aEJESmRR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789769329.0
-    },
-    {
-        "id": "58f0ba09e3",
-        "title_fa": "سرەوبان هزینەی درگیری با ای...ران به ۴۳.۶ میلیارد دلار رسید",
-        "title_en": "The cost of the Iran war has risen to $43.6B, Pentagon tells Congress",
-        "summary": [
-            "پنتاگون در گزارشی رسمی به کنگره آمریکا اعلام کرد که هزینه‌های مالی درگیری‌های مرتبط با ای...ران به طور چشمگیری افزایش یافته است.",
-            "این رقم نجومی فشار مالی سنگینی را بر بودجه نظامی ایالات متحده تحمیل کرده و توجه قانون‌گذاران را جلب کرده است."
-        ],
-        "impact": "افزایش هزینه‌های نظامی، بحث‌های جدی را در کنگره درباره تداوم این رویکرد ایجاد می‌کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGxVQ3IxY0pTN2ZNX1VVWE9CWklvWGdkb2J4TDl6WWZvYzY0VHhseE9CVnZHWEEzUGQ3VGJnQk9pcjdsMEhtZTU4UmpXanF3NHdzMm51VzdyNmNUYWJSb0xOa25ZNXM4MGJ5YVNGdG40Ukp6NDZSMmRGX3BiZWFrbmNNVVhxUURiXzVDeHprMmpoOG5MbENBR0xBUzdXbGxC?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGxVQ3IxY0pTN2ZNX1VVWE9CWklvWGdkb2J4TDl6WWZvYzY0VHhseE9CVnZHWEEzUGQ3VGJnQk9pcjdsMEhtZTU4UmpXanF3NHdzMm51VzdyNmNUYWJSb0xOa25ZNXM4MGJ5YVNGdG40Ukp6NDZSMmRGX3BiZWFrbmNNVVhxUURiXzVDeHprMmpoOG5MbENBR0xBUzdXbGxC",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789765740.0
-    },
-    {
-        "id": "ebdbf436ca",
-        "title_fa": "سر به فلک کشیدن هزینه نظامی آمریکا در جنگ با ج.ا",
-        "title_en": "Iran war’s cost grows to $43.6 billion in new US military estimate",
-        "summary": [
-            "برآوردهای جدید نظامی آمریکا نشان می‌دهد هزینه درگیری‌ها و مهار تحرکات ج.ا در منطقه به رقم سرسام‌آور ۴۳.۶ میلیارد دلار رسیده است.",
-            "این آمار بالا بیانگر افزایش چشمگیر هزینه‌های لجستیکی و عملیاتی ارتش ایالات متحده برای مقابله با تهدیدات نیابتی است."
-        ],
-        "impact": "فشار مالی سنگین بر دایرکتوری دفاعی آمریکا و لزوم توجیه هزینه‌ها برای کنگره.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "WUSA9",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNnVmWWVxbHJZbXZ1ekdIMXpLVk1mM0wxZnZTa1FFMVc4LWxicDg4WXdyM2d2ZGRLMlVIOU9JSzBnNG9EYjN0blpDMnRyTkR6VkRNSngxVjhBcXVpZHJFeXpRTlZnMl9xSDFVVUZVTWE0VC1DY1VxX1Bxb2Nyd3phTkN4eFFibjhDUXl2X09zUTZJRkoweUhsTGNXSXhmZVRCOFMzYmlDbVNEakt3TThMLWJLR3NtTW03dGtES0pjd3FfeWU4NVVvSERhOHEzSGRiRXpvcVNMeUN0ZEdCQnFGeVlrdmhSNG13YXh3WTFSSEN6aVBX?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNnVmWWVxbHJZbXZ1ekdIMXpLVk1mM0wxZnZTa1FFMVc4LWxicDg4WXdyM2d2ZGRLMlVIOU9JSzBnNG9EYjN0blpDMnRyTkR6VkRNSngxVjhBcXVpZHJFeXpRTlZnMl9xSDFVVUZVTWE0VC1DY1VxX1Bxb2Nyd3phTkN4eFFibjhDUXl2X09zUTZJRkoweUhsTGNXSXhmZVRCOFMzYmlDbVNEakt3TThMLWJLR3NtTW03dGtES0pjd3FfeWU4NVVvSERhOHEzSGRiRXpvcVNMeUN0ZEdCQnFGeVlrdmhSNG13YXh3WTFSSEN6aVBX",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789764240.0
     }
 ]
