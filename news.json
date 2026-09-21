@@ -237,6 +237,25 @@
         "timestamp": 1789989300.0
     },
     {
+        "id": "078fd18df0",
+        "title_fa": "فشار اعراب خلیج فارس برای بازگشایی تنگه هرمز",
+        "title_en": "دبیرکل شورای همکاری خلیج فارس: خواستار بازگشت تردد در تنگه هرمز به شرایط پیش از جنگ هستیم",
+        "summary": [
+            "دبیرکل شورای همکاری خلیج فارس خواستار پایان موانع یکجانبه در تردد دریایی تنگه هرمز و باب‌المندب شد.",
+            "این شورا مستقیماً حملات ج.ا را عامل ناامنی تأسیسات حیاتی و اماکن دیپلماتیک منطقه معرفی کرد.",
+            "همزمان با این بیانیه، گروه‌های نیابتی یمنی با پیشروی در ساحل دریای سرخ به دنبال تثبیت موقعیت خود در اطراف باب‌المندب هستند."
+        ],
+        "impact": "افزایش فشارهای منطقه‌ای بر تهران برای توقف اخلال در آبراه‌های حیاتی انرژی.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609216708",
+        "clean_url": "https://www.iranintl.com/202609216708",
+        "image": "http://www.bing.com/th?id=ONUT.UjAUN_dphtJX3gBY1g8pzA&pid=News",
+        "timestamp": 1789988340.0
+    },
+    {
         "id": "e84c33df0e",
         "title_fa": "تهدید جمهوری ا... به رونمایی از سلاحی تازه در پاسخ به ترامپ",
         "title_en": "Iran makes chilling threat after Trump mulls wiping them out",
@@ -271,6 +290,25 @@
         "clean_url": "https://www.msn.com/en-in/news/other/will-strike-back-houthis-warn-nations-against-joining-saudi-war-on-yemen/vi-AA2cEwMN",
         "image": "https://static.toiimg.com/thumb/msid-134380787,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789988188.0
+    },
+    {
+        "id": "e65ad2903e",
+        "title_fa": "بن‌بست در روابط تهران و واشینگتن در سازمان ملل",
+        "title_en": "فرشته پزشک: مجمع عمومی سازمان ملل بعید است نقطه عطفی در روابط تهران و واشینگتن باشد",
+        "summary": [
+            "کارشناسان معتقدند نشست مجمع عمومی سازمان ملل گرهی از کلاف سردرگم روابط تهران و واشینگتن باز نخواهد کرد.",
+            "پرونده اتمی ایران اکنون گروگان رقابت‌های کلان میان آمریکا، چین و روسیه است.",
+            "پکن بر اساس منافع راهبردی خود با واشینگتن بازی می‌کند و دغدغه‌ای برای منافع ملی ایران ندارد."
+        ],
+        "impact": "تداوم فضای بی‌اعتمادی و نبود چشم‌انداز برای دیپلماسی اثربخش میان ایران و غرب.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609213212",
+        "clean_url": "https://www.iranintl.com/202609213212",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1789988160.0
     },
     {
         "id": "3fc253cff8",
@@ -5447,42 +5485,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/satellite-images-show-iran-rapidly-175706388.html",
         "image": "https://s.yimg.com/lo/mysterio/api/3b08583a5e2da2b3b00defc4a890de293ac5c76a3a9cf4d765f28412119beaeb/lightyear_networkapi/resizefill_w801_h502%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9245ab1f05b1a1b7e2bf6aaaa37cf454.jpg",
         "timestamp": 1789729020.0
-    },
-    {
-        "id": "97aff6846a",
-        "title_fa": "عملیات واحدهای مقاومت در ۲۱ شهر ای-ران",
-        "title_en": "Resistance Units Conduct 40 Operations Across 21 Iranian Cities to Honor 2022 Uprising Martyrs - National Council of Resistance of Iran",
-        "summary": [
-            "انجام ۴۰ عملیات همزمان توسط جوانان مخالف حکومت در شهرهای مختلف.",
-            "گرامیداشت یاد جان‌باختگان اعتراضات سراسری ۱۴۰۱ با اقدامات میدانی."
-        ],
-        "impact": "افزایش ضریب ناامنی روانی برای نهادهای سرکوبگر داخلی.",
-        "tag": "مقاومت",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWElMdVZ2UGZfbXc5Yzk1OE5lWW1SRTBxZ1Zjb0VsZFVPSmo2ZTJqVlZlSkRnV1J5QWh1QmNWZGp4c19mYVJSTTFHX3RZTzBLRlhUWGF2U0RRbi1KNFFKM2s1QXNKRm91bmFrUjZRcGZ3SEdfNWgwTkY3d0U1czg5anBVMVdoa3kxb3lKZngwZm9BRFVzODhEU0dVdmV2dVhiby13UjJ5XzlTX0tGSzBzUThQQzhrYkR4cklrSVRSalNCYnZtMTNJa3oxdnh6NkV6WlNncDZXOTN0dXBUeGhzdW9KblJDaks4R2poUHBzNnY3a3JhTFdocg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWElMdVZ2UGZfbXc5Yzk1OE5lWW1SRTBxZ1Zjb0VsZFVPSmo2ZTJqVlZlSkRnV1J5QWh1QmNWZGp4c19mYVJSTTFHX3RZTzBLRlhUWGF2U0RRbi1KNFFKM2s1QXNKRm91bmFrUjZRcGZ3SEdfNWgwTkY3d0U1czg5anBVMVdoa3kxb3lKZngwZm9BRFVzODhEU0dVdmV2dVhiby13UjJ5XzlTX0tGSzBzUThQQzhrYkR4cklrSVRSalNCYnZtMTNJa3oxdnh6NkV6WlNncDZXOTN0dXBUeGhzdW9KblJDaks4R2poUHBzNnY3a3JhTFdocg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789728861.0
-    },
-    {
-        "id": "4e3088fa99",
-        "title_fa": "نوسان شدید در وال‌استریت با جهش نرخ بهره اوراق قرضه",
-        "title_en": "Wall Street drifts lower as bond yields rise and oil prices swing",
-        "summary": [
-            "افزایش نرخ بهره اوراق قرضه ۱۰ ساله خزانه داری آمریکا به مرز ۵ درصد، بازارهای سهام وال‌استریت را تحت فشار قرار داده و شاخص‌ها را پایین کشید.",
-            "بالا رفتن هزینه استقراض، سرعت رشد اقتصادی را کند کرده و خرید مسکن و سرمایه‌گذاری در حوزه‌هایی مثل هوش مصنوعی را گران‌تر می‌کند.",
-            "نوسان قیمت نفت نیز به بلاتکلیفی معامله‌گران در بازارهای مالی دامن زده است."
-        ],
-        "impact": "رکود نسبی در بازارهای مالی جهانی و افزایش هزینه وام‌گیری برای دولت‌ها و شرکت‌های بزرگ.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/09/18/us-stocks-bonds-oil/",
-        "clean_url": "https://www.baltimoresun.com/2026/09/18/us-stocks-bonds-oil",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street__2426.jpg?w=2000&h=1333",
-        "timestamp": 1789728120.0
     }
 ]
