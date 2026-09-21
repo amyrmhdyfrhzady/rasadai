@@ -330,6 +330,25 @@
         "timestamp": 1789965906.0
     },
     {
+        "id": "874ff1d8b2",
+        "title_fa": "تهدید تروریست‌های س پ ا ه به سلاح‌های جدید همزمان با چراغ سبز ترامپ برای دیدار",
+        "title_en": "Iran warns of ‘new weapons’ as Trump weighs meeting with Iranian president",
+        "summary": [
+            "مقام‌های نظامی ج م ه و ر ی ا سلا می همزمان با بالا گرفتن تنش‌ها، از تغییر جغرافیا و ابزار جنگ در صورت اقدام نظامی تازه خبر دادند.",
+            "دونالد ترامپ از احتمال دیدار با رئیس‌جمهور رژیم در جریان مجمع عمومی سازمان ملل خبر داده است.",
+            "بحران ۷ ماه گذشته، مسدود شدن تنگه هرمز و حملات نیابتی به خطوط لوله نفت را به دنبال داشته است."
+        ],
+        "impact": "تهدیدهای توخالی نظامی همزمان با سیگنال‌های دیپلماتیک برای کاهش تنش در تنگه هرمز.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/middle-east/trump-wiping-out-iran-warns-new-weapons-rcna598954",
+        "clean_url": "https://www.nbcnews.com/world/middle-east/trump-wiping-out-iran-warns-new-weapons-rcna598954",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260921-iran-military-mb-1059-ce5bce.jpg",
+        "timestamp": 1789965480.0
+    },
+    {
         "id": "e34f7f24f3",
         "title_fa": "شروط تهران برای مذاکره همزمان با حضور ترامپ در سازمان ملل",
         "title_en": "Trump heads to UN as Iran offers conditions for talks, end to war",
@@ -5470,24 +5489,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-pezeshkian-joins-sacrifice-for-iran-parade-in-tehran/ar-AA2cuocj",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789696834.0
-    },
-    {
-        "id": "ffa4a53292",
-        "title_fa": "جهش قیمت سوخت در پی تنش با تهران؛ امیدها به آچارکشی ترامپ",
-        "title_en": "Gas, diesel costs peak from Iran conflict; Capito hopeful Trump can ‘wrap it up’ soon",
-        "summary": [
-            "بحران‌آفرینی ج*م*ه*و*ر*ی ا*س*ل*ا*م*ی در منطقه مستقیماً معیشت مردم دنیا و قیمت سوخت را هدف گرفته است.",
-            "سناتورهای آمریکایی امیدوارند با بازگشت ترامپ و احیای سیاست فشار حداکثری، بساط باج‌خواهی نفتی تهران سریع‌تر جمع شود.",
-            "افزایش قیمت بنزین، انگیزه واشنگتن برای خشک کردن منابع مالی تهران از طریق تحریم‌های سخت‌تر نفتی را دوچندان می‌کند."
-        ],
-        "impact": "تشدید تحریم‌های نفتی ایران و انسداد کامل مبادی فروش نفت برای مهار تورم جهانی سوخت.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "wowktv.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFZ1dDJmcGxvR1JGYVd6Q0RlVm9lWEJEZ0ctTFp1aE9pNVFSLWpmaDhYVHdwcmVuNWVTY1c4MV91dFhXRVhkQUY5NXB0cWlRanh6a2RWVk5ZNV9CN1VyWHZ5THpTTjZQMmpvdVM4bktmbmJUN3NCeklpbW5WOC1GSE0xMy1fZmZhcUFMb1FnNzl0RmtIX1NPYy1QMWpqdXFseklhU1Z2ZjFpbmlwd3NpN3VSNl9KZGlP0gG-AUFVX3lxTE0wUzdacGpDa1hiRXlSc0hfNlBUaVFTWGJVb1Fkd1hScEdjSkhUb3JDQlRDd3BmRGdkWDJLLWdtRE0xNnRxdXJPMmFoSS1jVW5tRURrdDljU1pMUTJJcERwem9XWFFHbGtLR29Ca0pFMzVGSGlBZ09ESDU5RjdyLTh6VjRQbDB2ZHBHNHBVMGo4Ri1BdnQzMHhTbFRRdGFRNW9kNnZWS1BfMDFWWS05aEdaWWVuUEswbVQ5bXdNN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFZ1dDJmcGxvR1JGYVd6Q0RlVm9lWEJEZ0ctTFp1aE9pNVFSLWpmaDhYVHdwcmVuNWVTY1c4MV91dFhXRVhkQUY5NXB0cWlRanh6a2RWVk5ZNV9CN1VyWHZ5THpTTjZQMmpvdVM4bktmbmJUN3NCeklpbW5WOC1GSE0xMy1fZmZhcUFMb1FnNzl0RmtIX1NPYy1QMWpqdXFseklhU1Z2ZjFpbmlwd3NpN3VSNl9KZGlP0gG-AUFVX3lxTE0wUzdacGpDa1hiRXlSc0hfNlBUaVFTWGJVb1Fkd1hScEdjSkhUb3JDQlRDd3BmRGdkWDJLLWdtRE0xNnRxdXJPMmFoSS1jVW5tRURrdDljU1pMUTJJcERwem9XWFFHbGtLR29Ca0pFMzVGSGlBZ09ESDU5RjdyLTh6VjRQbDB2ZHBHNHBVMGo4Ri1BdnQzMHhTbFRRdGFRNW9kNnZWS1BfMDFWWS05aEdaWWVuUEswbVQ5bXdNN1E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789694215.0
     }
 ]
