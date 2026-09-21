@@ -444,6 +444,24 @@
         "timestamp": 1789949160.0
     },
     {
+        "id": "490d0fe267",
+        "title_fa": "تهدید تهران به رونمایی از تسلیحات جدید و خروج از ان‌پی‌تی",
+        "title_en": "Iran war live: Tehran says world will be 'astonished' by its new weapons",
+        "summary": [
+            "مقامات ایرانی از رو نمایی قریب‌الوقوع تسلیحات پیشرفته در صورت بروز درگیری نظامی خبر دادند.",
+            "نمایندگان مجلس طرح خروج از معاهده عدم اشاعه هسته‌ای را کلید زدند."
+        ],
+        "impact": "افزایش تنش‌های اتمی و تشدید ریسک درگیری مستقیم نظامی در منطقه.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260918__C8N983E__v1__HighRes__IranIsraelUsWarRally-1789982215.jpg?resize=1920%2C1440",
+        "timestamp": 1789948800.0
+    },
+    {
         "id": "bd3d75d9df",
         "title_fa": "فشار تهران به گروهک‌های نیابتی عراق برای حفظ سلاح",
         "title_en": "Iran presses Iraqi factions not to disarm - Al Arabiya",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzb1dxYkJGb3BXQjh1UkJtZWdQR3c3NXNwTFY3VWc1eXBiMHBIUkNfTDhoVFJReXN4LXhPWUQ1VlRSRGVZVjVzaDBPQUoyM3IyMm9UdF9R",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789678662.0
-    },
-    {
-        "id": "433d5635a0",
-        "title_fa": "محدودیت سفر و خرید برای هیأت اعزامی ج.ا به نیویورک",
-        "title_en": "'NO LUXURY SHOPPING!': Trump's BIZARRE Ban As Iran's Pezeshkian, Araghchi Head To UNGA Showdown",
-        "summary": [
-            "دولت ترامپ با ورود مسعود پزشکیان و عباس عراقچی به نیویورک برای شرکت در مجمع عمومی سازمان ملل موافقت کرده است.",
-            "واشنگتن تحریم‌ها و محدودیت‌های سنگینی روی تردد و خریدهای لوکس این هیأت در خاک آمریکا اعمال کرده است."
-        ],
-        "impact": "نمایش اقتدار واشنگتن در تحمیل محدودیت‌های تردد به مقامات ارشد دیپلماتیک ج.ا در خاک آمریکا",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/no-luxury-shopping-trumps-bizarre-ban-as-irans-pezeshkian-araghchi-head-to-unga-showdown/videoshow/134326757.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/no-luxury-shopping-trumps-bizarre-ban-as-irans-pezeshkian-araghchi-head-to-unga-showdown/videoshow/134326757.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134326757,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789678320.0
     }
 ]
