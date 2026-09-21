@@ -546,6 +546,24 @@
         "timestamp": 1789909860.0
     },
     {
+        "id": "aea5ad3d77",
+        "title_fa": "سفر ع-راقچی به نیویورک برای شرکت در مجمع عمومی",
+        "title_en": "رسانه وابسته به سپاه: عباس عراقچی برای حضور در سازمان ملل راهی نیویورک شد",
+        "summary": [
+            "وزیر خارجه دولت ج-مهوری ا-سلامی در رأس یک هیأت دیپلماتیک و با توقفی کوتاه در قطر، تهران را به مقصد نیویورک ترک کرد.",
+            "این سفر همزمان با تحولات دیپلماتیک فشرده و در حاشیه نشست مجمع عمومی سازمان ملل انجام می‌شود."
+        ],
+        "impact": "تلاش دستگاه دیپلماسی حکومت برای کاهش فشارهای بین‌المللی در حاشیه نشست نیویورک.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609203126",
+        "clean_url": "https://www.iranintl.com/202609203126",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ebdf237527e15156a05cf66eac24146bb949aa95-800x557.jpg?rect=0,174,563,296&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789909020.0
+    },
+    {
         "id": "b45a8c115a",
         "title_fa": "فشار حداکثری دریایی؛ واشنگتن زمان‌بندی برای پایان درگیری تعیین نکرد",
         "title_en": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
@@ -5471,24 +5489,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/un-says-us-may-have-committed-war-crime-in-iran-school-attack-live/ar-AA2cohI4",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789639896.0
-    },
-    {
-        "id": "b8a00a0482",
-        "title_fa": "درس‌های پیونگ‌یانگ به تهران در مهار جنگ",
-        "title_en": "Iran, North Korea and the new logic of deterrence",
-        "summary": [
-            "برتری نظامی آمریکا و اسرائیل نتوانسته به فروپاشی حکومت ج.ه بینجامد و تنازع به یک بن‌بست فرسایشی تبدیل شده است.",
-            "تهران از الگوهای کره شمالی برای حفظ اهرم‌های بازدارندگی و بقا در برابر ضربات سنگین بهره می‌برد.",
-            "توان تخریبی تسلیحات پیشرفته لزوماً به تغییرات سیاسی مطلوب واشنگتن و تل‌آویو منجر نشده است."
-        ],
-        "impact": "تداوم بن‌بست راهبردی با وجود هزینه‌های سنگین نظامی برای حکومت.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Financial Express",
-        "url": "https://today.thefinancialexpress.com.bd/views-opinion/iran-north-korea-and-the-new-logic-of-deterrence-1789657770",
-        "clean_url": "https://today.thefinancialexpress.com.bd/views-opinion/iran-north-korea-and-the-new-logic-of-deterrence-1789657770",
-        "image": "https://today.thefinancialexpress.com.bd/uploads/1789657770.jpg",
-        "timestamp": 1789639200.0
     }
 ]
