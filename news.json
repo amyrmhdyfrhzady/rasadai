@@ -1,5 +1,23 @@
 [
     {
+        "id": "85fe9c87e9",
+        "title_fa": "صعود سهام فناوری در آسیا همزمان با افت قیمت نفت",
+        "title_en": "Tech leads shares higher in Asia, oil eases",
+        "summary": [
+            "تقاضای بالا برای هوش مصنوعی و تراشه‌ها، موتور محرک بازارهای مالی آسیا شد.",
+            "احتمال افزایش تولید نفت توسط عربستان، اثر منفی حمله حوثی‌ها به ریاض را خنثی کرد."
+        ],
+        "impact": "کاهش قیمت نفت به دلیل سیگنال‌های افزایش عرضه و تثبیت بازارهای سهام آسیایی.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-eases-6398351",
+        "clean_url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-eases-6398351",
+        "image": "https://www.bing.com/th?id=ONUT.NX3C7GhsGkszoTRRkg-voA",
+        "timestamp": 1789955764.3839612
+    },
+    {
         "id": "8ec0144944",
         "title_fa": "آمادگی برای مذاکره با ت-ه-ر-ا-ن و گسترش توافق ابراهیم",
         "title_en": "Waltz: ‘Door open’ to Iran talks, more countries eye Abraham Accords",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/general/general/palestinian-community-in-jordan-valley-blocked-to-vehicles-for-2-days-due-to-construction-of-security-barrier/ar-AA2cr0Z4",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/Untitled-1-640x400.jpg",
         "timestamp": 1789644041.0
-    },
-    {
-        "id": "d55b0bbcbd",
-        "title_fa": "تــــرمپ: تصمیم بزرگی درباره جنــــگ ایـران در راه است",
-        "title_en": "Iran live updates: Trump says he has 'big decision' coming on war",
-        "summary": [
-            "دونالد ترامپ در مصاحبه جدید خود با اکسیوس از تصمیمات سرنوشت‌سازی درباره وضعیت جنگ و تقابل با تـهـران خبر داده است.",
-            "این موضع‌گیری نشان‌دهنده احتمال تغییر رویکرد واشنگتن و ورود پرونده ایـران به فاز جدیدی از تنش‌های امنیتی است."
-        ],
-        "impact": "افزایش فوری ریسک‌های امنیتی و نوسان در بازارهای مالی به دلیل ابهام درباره واکنش احتمالی آمریکا.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-live-updates-trump-says-he-has-big-decision-coming-on-war/ar-AA2caaSM",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-live-updates-trump-says-he-has-big-decision-coming-on-war/ar-AA2caaSM",
-        "image": "http://www.bing.com/th?id=ONUT.3tpkkBxmR33CokTB4yC63w&pid=News",
-        "timestamp": 1789643723.0
     }
 ]
