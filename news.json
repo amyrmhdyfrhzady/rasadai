@@ -181,6 +181,25 @@
         "timestamp": 1790020274.0
     },
     {
+        "id": "255fa51557",
+        "title_fa": "خط و نشان سنگین ترامپ هم‌زمان با سفر رئیس‌جمهور به نیویورک",
+        "title_en": "Iran-US war latest: Iranian president to fly to New York for UN summit",
+        "summary": [
+            "دونالد ترامپ با هشداری مستقیم اعلام کرد گزینه‌های واشنگتن میان نابودی کامل نظامی یا کشاندن اقتصاد ایران به نقطه فروپاشی مطلق قرار دارد.",
+            "سفر هیئت ایرانی به نیویورک زیر سایه سنگین‌ترین تهدیدهای امنیتی انجام می‌شود و امیدها به گشایش دیپلماتیک را تقریباً به صفر رسانده است.",
+            "فشار حداکثری کاخ سفید وارد فاز ضربتی شده و راهبردی جز تسلیم یا فروپاشی اقتصادی باقی نگذاشته است."
+        ],
+        "impact": "تشدید التهاب امنیتی و احتمال پرش ناگهانی قیمت دلار در پی پررنگ‌تر شدن گزینه درگیری نظامی.",
+        "tag": "تنش نظامی",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-iranian-president-to-fly-to-new-york-for-un-summit/ar-AA2cDAv5",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-iranian-president-to-fly-to-new-york-for-un-summit/ar-AA2cDAv5",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790019510.0
+    },
+    {
         "id": "3f6622dd94",
         "title_fa": "خط‌ونشان کشیدن سپاه برای آمریکا و اسراییل",
         "title_en": "IRGC says forces 'finger on trigger,' vows devastating response to US, Israel",
@@ -5457,23 +5476,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
         "image": "https://media.zenfs.com/en/ap.org/cee94b7f9c694f90dda2330a0eedaafc.jpg",
         "timestamp": 1789800657.0
-    },
-    {
-        "id": "52ce05ba09",
-        "title_fa": "بحران معیشتی و بازار خودرو در ایران",
-        "title_en": "An unaffordable car market highlights Iran’s cost-of-living crisis",
-        "summary": [
-            "حقوق ۹۰۰ میلیون ریالی کارمندان هم پاسخگوی خرید خودروهای داخلی یا وارداتی نیست.",
-            "جنگ اخیر و تحریم‌های فلج‌کننده، اقتصاد کشور را به سمت فروپاشی هدایت کرده است."
-        ],
-        "impact": "امید به زندگی اقتصادی و بهبود وضعیت معیشتی میان شهروندان به شدت کاهش یافته است.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/unaffordable-car-market-highlights-iran-132152195.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/unaffordable-car-market-highlights-iran-132152195.html",
-        "image": "http://www.bing.com/th?id=ONUT.oclD9aj0CEoS7cTTVnen3A&pid=News",
-        "timestamp": 1789798860.0
     }
 ]
