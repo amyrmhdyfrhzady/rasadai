@@ -237,6 +237,24 @@
         "timestamp": 1789991328.0
     },
     {
+        "id": "18b767fadc",
+        "title_fa": "بایکوت کاخ سفید توسط غول‌های رسانه‌ای آمریکا در حمایت از سی‌ان‌ان",
+        "title_en": "۵ شبکه خبری آمریکا در حمایت از سی‌ان‌ان، پوشش مشترک رویدادهای ترامپ را متوقف کردند",
+        "summary": [
+            "پنج شبکه بزرگ خبری آمریکا در اقدامی کم‌سابقه، پوشش مشترک رویدادهای ترامپ را به دلیل محدودسازی رسانه‌ها متوقف کردند.",
+            "این تصمیم در واکنش مستقیم به ممانعت دولت ترامپ از ورود خبرنگاران منتقد به محوطه کاخ سفید گرفته شده است."
+        ],
+        "impact": "تشدید تنش میان دولت آمریکا و رسانه‌های جریان اصلی بر سر آزادی اطلاع‌رسانی.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609215005",
+        "clean_url": "https://www.iranintl.com/202609215005",
+        "image": "http://www.bing.com/th?id=ONUT.UjAUN_dphtJX3gBY1g8pzA&pid=News",
+        "timestamp": 1789990680.0
+    },
+    {
         "id": "266cd821d8",
         "title_fa": "کلیدواژه خروج از ان‌پی‌تی در مجلس ج.ا",
         "title_en": "Iran considers exiting Non-Proliferation Treaty",
@@ -290,6 +308,24 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
         "image": "https://static.toiimg.com/thumb/msid-134374650,width-1280,height-720,imgsize-95851,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789989300.0
+    },
+    {
+        "id": "a17dbb235a",
+        "title_fa": "خط و نشان تکراری سپـاه برای خروج آمریکا و اسرائیل از منطقه",
+        "title_en": "روابط عمومی سپاه پاسداران: نیروهای مسلح آماده پاسخ قاطع و ویرانگر به هر تجاوزی هستند",
+        "summary": [
+            "سپـاه پـاسداران در بیانیه‌ای فرمایشی مدعی آمادگی برای پاسخ ویرانگر به هرگونه تجاوز شد.",
+            "این ادعاها در حالی مطرح می‌شود که ساختار نظامی جمهوری اسلامی زیر فشار شدید تحریم‌ها و بحران‌های داخلی قرار دارد."
+        ],
+        "impact": "این اظهارات مصرف داخلی داشته و تغییری در موازنه‌های میدانی ایجاد نمی‌کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609211758",
+        "clean_url": "https://www.iranintl.com/202609211758",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1789988400.0
     },
     {
         "id": "078fd18df0",
@@ -5448,42 +5484,5 @@
         "clean_url": "https://www.dailynews.com/2026/09/18/pentagon-hegseth-mandatory-testosterone-testing",
         "image": "https://www.dailynews.com/wp-content/uploads/2026/09/Pentagon_POW_MIA_47886.jpg?w=2000&h=1333",
         "timestamp": 1789734420.0
-    },
-    {
-        "id": "4b537d3765",
-        "title_fa": "تهدید ترامپ به تشدید حملات در واکنش به انسداد نفتی",
-        "title_en": "Iran Says Oil Blockade Will Continue Until Attacks End, Trump Threatens to Escalate Strikes",
-        "summary": [
-            "ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی با گروگان‌گیری جریان انرژی، سعی در باج‌گیری برای توقف حملات دارد.",
-            "ترامپ با تغییر استراتژی، تهدید کرده که در صورت تداوم این وضعیت، ضربات سنگین‌تری به زیرساخت‌های نظامی وارد می‌کند.",
-            "این تقابل مستقیم، ریسک درگیری نظامی در خلیج فارس را به بالاترین سطح رسانده است."
-        ],
-        "impact": "افزایش شدید قیمت جهانی نفت و احتمال درگیری نظامی مستقیم در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUNESk9yNUxfZXlVOUYwXy1kRWR0R2owNjhMNFBWMWJyN0ZrYXJ2a1JCQjRyWkdSUV92M1RvR0VmLXRITXY2OTZwM1dCT2U2Y2hSSlduNEhYVF9wODZzWnBaN2JLOVhoc212LXhnTmlDZ3hwLUlIRERRdnFoaVF6aVhoMGNmNHF4ZEV3aXdjTnZyT3VERnIyOENQdS0tQ2JrU3NtYXQyc3NOVXppTFEzLXpYYXlZMS1pMkVVZXln?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUNESk9yNUxfZXlVOUYwXy1kRWR0R2owNjhMNFBWMWJyN0ZrYXJ2a1JCQjRyWkdSUV92M1RvR0VmLXRITXY2OTZwM1dCT2U2Y2hSSlduNEhYVF9wODZzWnBaN2JLOVhoc212LXhnTmlDZ3hwLUlIRERRdnFoaVF6aVhoMGNmNHF4ZEV3aXdjTnZyT3VERnIyOENQdS0tQ2JrU3NtYXQyc3NOVXppTFEzLXpYYXlZMS1pMkVVZXln",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789732924.0
-    },
-    {
-        "id": "43b6938ee3",
-        "title_fa": "هشدار مسکو درباره تهدید اتمی پیمان آکوس",
-        "title_en": "Russia sees AUKUS as unprecedented challenge to nuclear non-proliferation — MFA",
-        "summary": [
-            "انتقال مواد هسته‌ای غنی‌شده به استرالیا توسط آمریکا و انگلیس، ساختار منع اشاعه اتمی را زیر سوال برده است.",
-            "مسکو این توافق سه‌جانبه را خطری جدی برای سیستم نظارتی آژانس بین‌المللی انرژی اتمی می‌داند."
-        ],
-        "impact": "افزایش تنش‌های ژئوپلیتیک میان قدرت‌های هسته‌ای و تضعیف بیشتر معاهدات بین‌المللی عدم اشاعه تسلیحات اتمی.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2189641",
-        "clean_url": "https://tass.com/politics/2189641",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789732080.0
     }
 ]
