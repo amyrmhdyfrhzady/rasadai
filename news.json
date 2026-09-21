@@ -126,6 +126,25 @@
         "timestamp": 1789930680.0
     },
     {
+        "id": "fb7b2958ad",
+        "title_fa": "هشدار خروج فوری اتباع آمریکا از ایران و احتمال درگیری مستقیم",
+        "title_en": "US-Iran war LIVE Updates: US issues Iran travel warning, Tehran warns of 'continuous, painful' attacks on US bases if...",
+        "summary": [
+            "وزارت خارجه آمریکا با صدور هشدار قرمز امنیتی، از تمام شهروندان خود خواست سریعاً خاک ایران را ترک کنند.",
+            "واشنگتن احتمال بسته شدن ناگهانی مرزهای زمینی و هوایی را ناشی از اوج‌گیری ریسک درگیری مستقیم نظامی می‌داند.",
+            "تهدیدهای متقابل مبنی بر هدف قرار دادن پایگاه‌های آمریکایی، فضای منطقه را به سمت یک مواجهه نظامی غیرقابل کنترل سوق داده است."
+        ],
+        "impact": "این هشدار سطح بالا معمولاً آخرین گام دیپلماتیک پیش از آغاز عملیات نظامی یا پاسخ سنگین منطقه‌ای است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html",
+        "clean_url": "https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html",
+        "image": "http://www.bing.com/th?id=ONUT.Ian4ATFPgnlAR5Ci7cCP6A&pid=News",
+        "timestamp": 1789928940.0
+    },
+    {
         "id": "846e4e17cb",
         "title_fa": "پیشنهاد محسن رضایی برای نظم منطقه‌ای بدون دخالت غرب",
         "title_en": "Iran's Rezaei: Gulf States and Iran Must Build Their Own Order",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-live-updates-trump-says-he-has-big-decision-coming-on-war/ar-AA2caaSM",
         "image": "http://www.bing.com/th?id=ONUT.3tpkkBxmR33CokTB4yC63w&pid=News",
         "timestamp": 1789643723.0
-    },
-    {
-        "id": "8f801d4b89",
-        "title_fa": "متهم شدن نیروهای آمریکایی به جنایت جنگی",
-        "title_en": "UN says US may have committed war crime in Iran school attack: Live",
-        "summary": [
-            "سازمان ملل اعلام کرد حمله نیروهای تحت امر ترامپ به یک مدرسه در ایران ممکن است جنایت جنگی محسوب شود.",
-            "همزمان، نهادهای حقوق بشری وابسته به سازمان ملل، جمهوری اسلامی را به ارتکاب جنایت علیه بشریت در جریان سرکوب اعتراضات مردمی متهم کردند."
-        ],
-        "impact": "افزایش فشارهای حقوقی و سیاسی بین‌المللی بر واشنگتن و تهران همزمان با تنش‌های نظامی",
-        "tag": "بین‌المللی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-gb/news/other/un-says-us-may-have-committed-war-crime-in-iran-school-attack-live/ar-AA2cohI4",
-        "clean_url": "https://www.msn.com/en-gb/news/other/un-says-us-may-have-committed-war-crime-in-iran-school-attack-live/ar-AA2cohI4",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789639896.0
     }
 ]
