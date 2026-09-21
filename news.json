@@ -352,6 +352,25 @@
         "timestamp": 1789954500.0
     },
     {
+        "id": "4613cbea66",
+        "title_fa": "افت شدید تردد تجاری در تنگه هرمز و دور زدن تحریم‌ها",
+        "title_en": "رویترز: تردد کشتی‌های قابل ردیابی در تنگه هرمز به‌شدت کاهش یافته است",
+        "summary": [
+            "آمار عبور کشتی‌های تجاری از تنگه هرمز به دلیل سایه جنگ و بن‌بست میان واشینگتن و تهران به شدت سقوط کرده است.",
+            "کشورهای منطقه برای دور زدن رصدها، نفتکش‌های خود را با فرستنده‌های خاموش راهی آب‌های آزاد می‌کنند.",
+            "فشار ریاض بر ترامپ برای برخورد با عوامل نیابتی تهران در یمن، معادله امنیتی خلیج فارس را پیچیده‌تر کرده است."
+        ],
+        "impact": "فلج نسبی ترانزیت دریایی و تداوم صادرات نفت پنهان از شریان حیاتی انرژی جهان.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609219922",
+        "clean_url": "https://www.iranintl.com/202609219922",
+        "image": "http://www.bing.com/th?id=ONUT.l27JmTPWZARpBsOaWZXG8Q&pid=News",
+        "timestamp": 1789954200.0
+    },
+    {
         "id": "4e8108b76f",
         "title_fa": "ادعای جبهه حاکم درباره شکست آمریکا و تسلیحات جدید",
         "title_en": "US-Iran War Live Updates: Iran Says US 'Lacks Courage' To Admit Defeat",
@@ -5474,24 +5493,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789673520.0
-    },
-    {
-        "id": "ea7dbcfadd",
-        "title_fa": "عقب‌نشینی قیمت نفت با فروکش کردن تنش‌های خاورمیانه",
-        "title_en": "Crude Prices Slip as Supply Fears Ease",
-        "summary": [
-            "بهای نفت خام پس از نشانه‌هایی از کاهش تنش‌ها و تلاش عربستان برای بازگرداندن ظرفیت خط لوله شرق به غرب افت کرد.",
-            "گزارش‌ها حاکی از عبور روان محموله‌های نفتی از تنگه هرمز است که نگرانی بازار از کمبود عرضه را تا حد زیادی کم کرده است.",
-            "در همین حال، تغییر مسیر پالایشگاه‌ها به سمت تولید گازوئیل باعث رشد قیمت بنزین شده است."
-        ],
-        "impact": "کاهش موقت فشارهای ژئوپلیتیک بر بازار انرژی و افت قیمت نفت خام",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Barchart",
-        "url": "https://finance.yahoo.com/energy/articles/crude-prices-slip-supply-fears-191408143.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-slip-supply-fears-191408143.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/268aaebfc7374268d36f00d2946a3bb0.jpg",
-        "timestamp": 1789672868.0
     }
 ]
