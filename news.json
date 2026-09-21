@@ -294,6 +294,24 @@
         "timestamp": 1789946325.0
     },
     {
+        "id": "1def08c777",
+        "title_fa": "تغییر ساختار سوپرلیگ هند؛ تأکید بر سقف بودجه و آکادمی‌ها",
+        "title_en": "ISL: Bengaluru FC's Darren Caldeira on club-led model, salary cap and growth",
+        "summary": [
+            "مدیر فوتبال بنگالورو مدل نوین باشگاه‌محور را گامی برای خروج از زیان‌دهی و پایداری مالی فوتبال هند دانست.",
+            "تمرکز بر پرورش استعدادهای بومی از طریق آکادمی به جای خریدهای گران‌قیمت، نقشه راه جدید باشگاه‌ها در فصل آینده خواهد بود."
+        ],
+        "impact": "حرکت فوتبال هند به سمت انضباط مالی سخت‌گیرانه و سرمایه‌گذاری روی رده‌های پایه.",
+        "tag": "ورزش",
+        "urgency": 1,
+        "sentiment": 0.3,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/sports/football/isl-bengaluru-fcs-darren-caldeira-on-club-led-model-salary-cap-and-growth/videoshow/134383215.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/sports/football/isl-bengaluru-fcs-darren-caldeira-on-club-led-model-salary-cap-and-growth/videoshow/134383215.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134383215,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1789944480.0
+    },
+    {
         "id": "07ea00fd45",
         "title_fa": "فشار حداکثری ترامپ روی میز؛ سه گزینه‌ی پیش‌روی ج.م.ا",
         "title_en": "Iran Tensions: Trump Issues Fresh Warning Amid Rising Military Activity",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789666875.0
-    },
-    {
-        "id": "66c47b1dc8",
-        "title_fa": "چوب لرخ چرخ دموکرات‌ها در توافق اتمی عربستان",
-        "title_en": "US Democrats move to block Trump's Saudi nuclear deal",
-        "summary": [
-            "نمایندگان دموکرات مجلس نمایندگان آمریکا قطعنامه‌ای برای توقف توافق هسته‌ای ترامپ با عربستان ارائه دادند.",
-            "نگرانی از غنی‌سازی اورانیوم و عدم رعایت پادمان‌های آژانس بهانه‌های اصلی این بلوکه کردن است."
-        ],
-        "impact": "ایجاد مانع جدی سیاسی در برابر پروژه‌های منطقه‌ای دولت ترامپ.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/us-democrats-move-to-block-trump-s-saudi-nuclear-deal-article-14032464.html",
-        "clean_url": "https://www.moneycontrol.com/world/us-democrats-move-to-block-trump-s-saudi-nuclear-deal-article-14032464.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260724123916_Saudi-Trump.jpg",
-        "timestamp": 1789665480.0
     }
 ]
