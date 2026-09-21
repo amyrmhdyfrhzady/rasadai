@@ -164,6 +164,24 @@
         "timestamp": 1789946325.0
     },
     {
+        "id": "07ea00fd45",
+        "title_fa": "فشار حداکثری ترامپ روی میز؛ سه گزینه‌ی پیش‌روی ج.م.ا",
+        "title_en": "Iran Tensions: Trump Issues Fresh Warning Amid Rising Military Activity",
+        "summary": [
+            "دونالد ترامپ با هشدار جدی به مقامات طراز اول تـــــــــهـــــــــران، سه سناریوی مشخص یعنی نابودی نظامی، تداوم فشارهای فلج‌کننده اقتصادی یا توافق را بررسی می‌کند.",
+            "تحرکات نظامی ایالات متحده در منطقه شدت گرفته و ناوهای جنگی در حال بارگیری تسلیحات پیشرفته هستند."
+        ],
+        "impact": "افزایش فوری ریسک امنیتی و خروج سرمایه از بازارهای مالی داخلی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ABP - Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-tensions-trump-issues-fresh-warning-amid-rising-military-activity/ar-AA2cE7KZ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-tensions-trump-issues-fresh-warning-amid-rising-military-activity/ar-AA2cE7KZ",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789941180.0
+    },
+    {
         "id": "074dacde5f",
         "title_fa": "بازخوانی تصمیم ترامپ برای خروج از برجام",
         "title_en": "A remorseful update on Trump's war in Iran",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-fall-saudi-arabia-153112109.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/c9968fa130e18fb93709344bbbb38e79.jpg",
         "timestamp": 1789660868.0
-    },
-    {
-        "id": "284ddd686c",
-        "title_fa": "پایان نظارت سازمان ملل بر تحریم‌های جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی با وتوی پکن و مسکو",
-        "title_en": "China, Russia veto renewal of UN Iran sanctions panel",
-        "summary": [
-            "چین و روسیه قطعنامه شورای امنیت برای تمدید ماموریت کارشناسان ناظر بر تحریم‌های تهران را وتو کردند.",
-            "این اقدام مسیر دور زدن تحریم‌ها و همکاری‌های غیرقانونی تسلیحاتی و اتمی را هموارتر می‌کند."
-        ],
-        "impact": "فشار بین‌المللی بر تهران کاهش یافته و حفره‌های تنفس مالی و تجاری حکومت بیشتر می‌شود.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "bne IntelliNews",
-        "url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
-        "clean_url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cruBo.img?w=900&h=510&m=4&q=84",
-        "timestamp": 1789660283.0
     }
 ]
