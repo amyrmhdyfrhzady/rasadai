@@ -36,6 +36,24 @@
         "timestamp": 1789954500.0
     },
     {
+        "id": "bd3d75d9df",
+        "title_fa": "فشار تهران به گروهک‌های نیابتی عراق برای حفظ سلاح",
+        "title_en": "Iran presses Iraqi factions not to disarm - Al Arabiya",
+        "summary": [
+            "جمهوری اسلامی به جریان‌های مسلح وابسته خود در عراق فشار می‌آورد تا از خلع سلاح خودداری کنند.",
+            "این اقدام نشان‌دهنده تلاش تهران برای حفظ بازوهای نظامی منطقه‌ای خود علیرغم فشارهای سیاسی داخلی عراق است."
+        ],
+        "impact": "تداوم بی‌ثباتی در عراق و حفظ تهدیدات نیابتی علیه منافع منطقه‌ای",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR1NYc0JLMkhJYTNydFRuMXA5VHRUT1ZWRl80N1AyVF9PanhBNVpLNktJS09JWFVVeUZxcjBBN2ZRYWxjZmpHN18xVTFheEhLUFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR1NYc0JLMkhJYTNydFRuMXA5VHRUT1ZWRl80N1AyVF9PanhBNVpLNktJS09JWFVVeUZxcjBBN2ZRYWxjZmpHN18xVTFheEhLUFE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789946325.0
+    },
+    {
         "id": "074dacde5f",
         "title_fa": "بازخوانی تصمیم ترامپ برای خروج از برجام",
         "title_en": "A remorseful update on Trump's war in Iran",
@@ -288,6 +306,24 @@
         "clean_url": "https://www.iranintl.com/202609206485",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1789922580.0
+    },
+    {
+        "id": "e33cfbd2d2",
+        "title_fa": "تهدید سخت ت****م علیه جمهوری اسلامی در خلیج فارس",
+        "title_en": "Trump Threatens to Blow Iran ‘Off the Face of the Earth’ as Ceasefire Hangs by a Thread",
+        "summary": [
+            "ت****م به تهران هشدار داد در صورت هرگونه حمله به شناورهای آمریکایی، این کشور با پاسخ ویرانگری روبه‌رو خواهد شد.",
+            "این موضع‌گیری در حالی مطرح می‌شود که توافق آتش‌بس و وضعیت تردد در تنگه هرمز به شدت شکننده است."
+        ],
+        "impact": "افزایش شدید ریسک نظامی در آب‌های جنوبی و تشدید تنش‌ها میان واشنگتن و تهران",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Idaho Public Press on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/trump-threatens-to-blow-iran-off-the-face-of-the-earth-as-ceasefire-hangs-by-a-thread/ar-AA2cDhMD?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-threatens-to-blow-iran-off-the-face-of-the-earth-as-ceasefire-hangs-by-a-thread/ar-AA2cDhMD",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789921980.0
     },
     {
         "id": "bb6b43b2a8",
@@ -5453,42 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXhTUVVaaTZ4VHMyQ29pNzVLYkFxeEIwSjdiZmpzQWpmelo1aXdhUGlMUndqZGxLeTVDaHBqR1p5UG5WUm52bF9ibnBMMWttcFczaXEtNHdzYzloTVFjSmlXN3pIcmRJeldPb0hIYm5sYUNEZmRBY0ktd2l5OXN5SmJmTUdsWmM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789646400.0
-    },
-    {
-        "id": "74e1c0187a",
-        "title_fa": "افتتاح کارخانه مونتاژ پهپادهای اسرائیلی در صربستان",
-        "title_en": "Serbia's president inaugurates assembly factory for drones made by Israel's Elbit",
-        "summary": [
-            "رئیس‌جمهور صربستان از افتتاح کارخانه مونتاژ پهپادهای ساخت شرکت اسرائیلی البیت خبر داد.",
-            "این اقدام با هدف تقویت بنیه نظامی صربستان در منطقه بالکان انجام شده است."
-        ],
-        "impact": "گسترش همکاری‌های نظامی صربستان و اسرائیل و توسعه بازار صادرات تسلیحاتی تل‌آویو",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/serbias-president-inaugurates-assembly-factory-for-drones-made-by-israels-elbit/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/serbias-president-inaugurates-assembly-factory-for-drones-made-by-israels-elbit",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789646280.0
-    },
-    {
-        "id": "5e527b2636",
-        "title_fa": "جهش بی‌سابقه قیمت گازوئیل در آمریکا به دلیل بحران ایران",
-        "title_en": "Iran war pushes diesel – the economy’s lifeblood – to record high prices, with no relief on the horizon",
-        "summary": [
-            "بسته شدن تنگه هرمز و جنگ با ایران، قیمت سوخت دیزل در آمریکا را به رکورد تاریخی ۶.۲۸ دلار در هر گالون رسانده است.",
-            "گازوئیل موتور محرک حمل‌ونقل کالا، کشاورزی و ساختمان‌سازی است و گرانی آن تورم سنگینی را به اقتصاد آمریکا تحمیل می‌کند.",
-            "ترکیب قوانین سخت‌گیرانه پالایشگاهی، جنگ اوکراین و بحران خاورمیانه، بازار انرژی جهانی را در وضعیت قرمز قرار داده است."
-        ],
-        "impact": "افزایش بهای سوخت دیزل هزینه‌های لجستیک را بالا برده و موج جدیدی از تورم را در بازار آمریکا ایجاد کرده است.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Conversation",
-        "url": "https://theconversation.com/iran-war-pushes-diesel-the-economys-lifeblood-to-record-high-prices-with-no-relief-on-the-horizon-292049",
-        "clean_url": "https://theconversation.com/iran-war-pushes-diesel-the-economys-lifeblood-to-record-high-prices-with-no-relief-on-the-horizon-292049",
-        "image": "http://www.bing.com/th?id=ONUT.Eq1WmDuys5YR6r8q80MKRw&pid=News",
-        "timestamp": 1789645500.0
     }
 ]
