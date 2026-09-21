@@ -36,6 +36,24 @@
         "timestamp": 1789954500.0
     },
     {
+        "id": "074dacde5f",
+        "title_fa": "بازخوانی تصمیم ترامپ برای خروج از برجام",
+        "title_en": "A remorseful update on Trump's war in Iran",
+        "summary": [
+            "خروج از توافق هسته‌ای توسط ترامپ زمینه را برای تنش‌های فعلی فراهم کرد.",
+            "آژانس انرژی اتمی پیش‌تر پایبندی ایران به توافق و نظارت‌ها را تایید کرده بود."
+        ],
+        "impact": "شکست توافقات دیپلماتیک مسیر تقابل را هموارتر کرد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Freepress.org",
+        "url": "https://freepress.org/article/remorseful-update-trump-s-war-iran",
+        "clean_url": "https://freepress.org/article/remorseful-update-trump-s-war-iran",
+        "image": "https://freepress.org/sites/default/files/2026-09/images_0.jpg",
+        "timestamp": 1789939740.0
+    },
+    {
         "id": "8ec0144944",
         "title_fa": "آمادگی برای مذاکره با ت-ه-ر-ا-ن و گسترش توافق ابراهیم",
         "title_en": "Waltz: ‘Door open’ to Iran talks, more countries eye Abraham Accords",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/ireland-says-it-will-continue-its-boycott-of-eurovision-next-year-over-israel-s-participation/ar-AA2cqTAc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789645493.0
-    },
-    {
-        "id": "99e8db724f",
-        "title_fa": "آژیر خطر پهپادی در شمال مرزهای صهیونیستی",
-        "title_en": "Drone sirens sound in northern towns; IDF probing cause",
-        "summary": [
-            "به صدا درآمدن آژیرهای هشدار نفوذ پهپاد در شهرهای مرزی منارا و مارگالیوت.",
-            "شلیک موشک رهگیر در آسمان منطقه بر اساس گزارش شاهدان عینی."
-        ],
-        "impact": "بالارفتن سطح آماده‌باش نظامی در مرزهای شمالی پس از تهدیدهای مکرر.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/drone-sirens-sound-in-northern-towns-idf-probing-cause/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/drone-sirens-sound-in-northern-towns-idf-probing-cause",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789645140.0
     }
 ]
