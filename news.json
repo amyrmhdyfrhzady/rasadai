@@ -327,6 +327,25 @@
         "timestamp": 1789925255.0
     },
     {
+        "id": "b81b30b472",
+        "title_fa": "عقب‌نشینی موقت ترامپ از حمله به حوثی‌ها",
+        "title_en": "نیویورک‌تایمز: ترامپ حمله هوایی به حوثی‌ها را فعلا متوقف کرد",
+        "summary": [
+            "دونالد ترامپ پس از دستور آماده‌باش به پنتاگون برای بمباران مواضع حوثی‌ها، اجرای این عملیات را متوقف کرد.",
+            "درخواست مستقیم ولیعهد عربستان سعودی محرک اصلی این دستور بوده است.",
+            "مخالفت حلقه نزدیکان ترامپ با گشودن جبهه نظامی جدید دلیل اصلی تعویق این حملات ارزیابی می‌شود."
+        ],
+        "impact": "تنش در دریای سرخ موقتاً در وضعیت تعلیق باقی می‌ماند.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609214100",
+        "clean_url": "https://www.iranintl.com/202609214100",
+        "image": "http://www.bing.com/th?id=ONUT.kLO4PINajyhCOXTJ9J9q2w&pid=News",
+        "timestamp": 1789923600.0
+    },
+    {
         "id": "d4cb61e16e",
         "title_fa": "سه سناریوی میز کار ترامپ برای مقابله با ج.ا",
         "title_en": "واشینگتن تایمز: ترامپ سه گزینه را برای ادامه جنگ با جمهوری اسلامی بررسی می‌کند",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/sirens-in-lebanon-border-communities-likely-a-false-alarm-idf-says",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789648440.0
-    },
-    {
-        "id": "bab0af7366",
-        "title_fa": "گزارش کارشناسان سازمان ملل درباره احتمال جنایات جنگی آمریکا در ایران",
-        "title_en": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-        "summary": [
-            "گزارشی تحت حمایت سازمان ملل، برخی اقدامات نظامی آمریکا از جمله حمله به یک مدرسه را مصداق احتمالی جنایت جنگی دانسته است.",
-            "طرح این اتهامات، پرونده حقوقی و ادعاهای حقوق بشری واشنگتن را در افکار عمومی جهانی با چالش جدی روبرو می‌کند."
-        ],
-        "impact": "افزایش فشارهای سیاسی و تبلیغاتی بین‌المللی بر واشنگتن برای پاسخگویی درباره عملیات‌هایش.",
-        "tag": "حقوق_بشر",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHYwQTFCd1dDUzloYnp5c0NMMXNrVWFUVWQza0d0c1F2YnRwU1BqdS1JUy1JRFNTdjZOcmJ3TnZ5UlhVOGhndzlNdXJSQ3FEaGdGRXZfbVdSQkpJZmpNUDUtTUF1UHZLZzVKcElHZnhkbl8xZWhMNFJmVGpWT29UVEwtYVVCbGU0LS1kc2lR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHYwQTFCd1dDUzloYnp5c0NMMXNrVWFUVWQza0d0c1F2YnRwU1BqdS1JUy1JRFNTdjZOcmJ3TnZ5UlhVOGhndzlNdXJSQ3FEaGdGRXZfbVdSQkpJZmpNUDUtTUF1UHZLZzVKcElHZnhkbl8xZWhMNFJmVGpWT29UVEwtYVVCbGU0LS1kc2lR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789648416.0
     }
 ]
