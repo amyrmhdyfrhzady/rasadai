@@ -385,6 +385,25 @@
         "timestamp": 1789972197.0
     },
     {
+        "id": "170e4e4fcf",
+        "title_fa": "توهمات نمایندگان مجلس؛ دعوت از ترامپ برای تسلیم!",
+        "title_en": "سلمان ذاکر، نماینده مجلس: ترامپ باید پرچم سفید تسلیم را بالا ببرد",
+        "summary": [
+            "سلمان ذاکر، نماینده ارومیه، در اظهاراتی عجیب مدعی شد دونالد ترامپ باید پرچم سفید تسلیم در برابر ج.ا بالا ببرد.",
+            "این مقام حکومتی مدعی شد آمریکا و اروپا در آستانه شورش‌های زیرساختی ناشی از گرانی و بحران سوخت هستند.",
+            "بخش‌هایی از متن به شکلی نامربوط به شرح حال دانش‌آموزان کشته‌شده و دادخواهی خانواده‌ها پرداخته که نشان از تناقض فاحش در رسانه‌های داخلی دارد."
+        ],
+        "impact": "تلاش مقامات برای وارونه‌نمایی واقعیت بحران‌های داخلی با فرافکنی مشکلات به سمت غرب.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609218497",
+        "clean_url": "https://www.iranintl.com/202609218497",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/35d9297bf01e17b1735838c4508dde18b8c030fc-640x427.jpg?rect=0,46,640,336&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789971720.0
+    },
+    {
         "id": "e60e91a84e",
         "title_fa": "آزمون سخت پیمان دفاعی عربستان در آتش جنگ منطقه‌ای",
         "title_en": "As war in the Middle East widens, Saudi Arabia’s new defence pact could face a major test",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260916__C8H86MQ__v1__MidRes__YemenIranUsIsraelWar-1789581728.jpg?resize=1200%2C630",
         "timestamp": 1789714320.0
-    },
-    {
-        "id": "e8ac122e91",
-        "title_fa": "ادعای سازمان ملل درباره حمله هوایی آمریکا به مدرسه در ايران",
-        "title_en": "UN mission: US strike that hit Iran school was ‘indiscriminate,’ likely a war crime",
-        "summary": [
-            "هیئت حقیقت‌یاب سازمان ملل حمله هوایی منتسب به ایالات متحده به یک مدرسه در خاک ج.ا را کور و بدون تفکیک هدف خواند.",
-            "این گزارش اقدام مذکور را مصداق احتمالی جنایت جنگی ارزیابی کرد که می‌تواند فشارهای حقوقی بر واشنگتن را افزایش دهد."
-        ],
-        "impact": "بالارفتن هزینه‌های سیاسی و حقوقی حملات نظامی و تشدید جنگ روانی در مجامع بین‌المللی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVVtZ1pya3hOM1dyY1EybjRfV1RjSWxkeWlndFlUN0tKbmcyNHhNd0JwM1loM1QyNm1UbFlkUGVwRTVyWHRFenlmZU9Bb3RBZ3JrenBEVFNWZnB0SlBNcFRReHdwSjJEa283U2drcjdCVEtYWkpiN2RVU0RRa1ZGN2F3clRKYV9WMm5SWjA0QnRSTWc5ejFyYU5sbVBVVG1CNTUxdjlCV2s4amxYLUtF0gG0AUFVX3lxTE9KakJFbnZaVDhKSEtLeUhSYk82ejBuS3ozMGdsc2M0TlNucVZSUl91aS0wQ2M2MjRuTDB5Q213ZXNVbnRxRGpiVnVnYTBvUExkV21wS0Rtbk5HZzZkUjAxZjVVc1JCNjYzdDdoSHpWUDlMTnNSdUZsSm10ZTJDOXJWWWNqbWVGSmswUXFaQnZBNWFXNnlTWk9SZXhCWFVrT3ZaNjJYSVdjbmZaR0ZwYmxxZTUybA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVVtZ1pya3hOM1dyY1EybjRfV1RjSWxkeWlndFlUN0tKbmcyNHhNd0JwM1loM1QyNm1UbFlkUGVwRTVyWHRFenlmZU9Bb3RBZ3JrenBEVFNWZnB0SlBNcFRReHdwSjJEa283U2drcjdCVEtYWkpiN2RVU0RRa1ZGN2F3clRKYV9WMm5SWjA0QnRSTWc5ejFyYU5sbVBVVG1CNTUxdjlCV2s4amxYLUtF0gG0AUFVX3lxTE9KakJFbnZaVDhKSEtLeUhSYk82ejBuS3ozMGdsc2M0TlNucVZSUl91aS0wQ2M2MjRuTDB5Q213ZXNVbnRxRGpiVnVnYTBvUExkV21wS0Rtbk5HZzZkUjAxZjVVc1JCNjYzdDdoSHpWUDlMTnNSdUZsSm10ZTJDOXJWWWNqbWVGSmswUXFaQnZBNWFXNnlTWk9SZXhCWFVrT3ZaNjJYSVdjbmZaR0ZwYmxxZTUybA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789713935.0
     }
 ]
