@@ -1,5 +1,41 @@
 [
     {
+        "id": "50bc171563",
+        "title_fa": "انزوای هوایی ایران با فشار حداکثری آمریکا",
+        "title_en": "Flying to or from Iran? What to know as US pressure squeezes air links",
+        "summary": [
+            "محدودیت‌های تازه‌ای پروازهای بین‌المللی به مقصد و مبدأ ایران را هدف قرار داده است",
+            "شرکت‌های هواپیمایی خارجی تحت فشار واشنگتن ناچار به بازنگری در مسیرهای پروازی خود هستند"
+        ],
+        "impact": "افزایش انزوای بین‌المللی و اختلال جدی در خطوط ارتباطی هوایی کشور",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40SEJYRGZkR1FCaW9TZnFyYTcyU3VqdndHaWozRDBRTU1vYzNXa1RRbVJuOTV2aU5ub0FEUGpPaXBic2RzUTJZS1dobVdtVk9fWEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40SEJYRGZkR1FCaW9TZnFyYTcyU3VqdndHaWozRDBRTU1vYzNXa1RRbVJuOTV2aU5ub0FEUGpPaXBic2RzUTJZS1dobVdtVk9fWEE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790025840.0
+    },
+    {
+        "id": "18e10758d9",
+        "title_fa": "سایه سنگین ایران و تحریم‌ها بر روابط پکن و واشنگتن",
+        "title_en": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+        "summary": [
+            "ترامپ و شی جین‌پینگ به دنبال ثبات تجاری هستند اما پرونده ایران و تعرفه‌ها مانع جدی است",
+            "فشار ایالات متحده بر خریداران نفت ایران به موضوعی کلیدی در دیپلماسی اقتصادی تبدیل شده است"
+        ],
+        "impact": "تشدید فشارهای آمریکا روی شرکای تجاری ایران برای محدودسازی معاملات نفتی",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790025681.0
+    },
+    {
         "id": "41e7fcbc97",
         "title_fa": "پاسخ اسرائیل به دشمنان؛ درس مقاومت و بازدارندگی",
         "title_en": "Israel's enemies are learning what resilience really means",
@@ -5447,41 +5483,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-retreat-hopes-middle-191455317.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/09451fa03336c1633f2a4f36d6866025.jpg",
         "timestamp": 1789759554.0
-    },
-    {
-        "id": "3cbbec3146",
-        "title_fa": "تصمیم بزرگ ترامپ درباره ج.ا",
-        "title_en": "Trump’s ‘big decision’ on Iran looms as peace deal with Tehran stays unsigned",
-        "summary": [
-            "ترامپ از نزدیک بودن یک تصمیم سرنوشت‌ساز درباره تهران خبر داده است.",
-            "توافق احتمالی بر سر جنگ و تنگه هرمز هنوز نهایی نشده و معلق مانده است."
-        ],
-        "impact": "فشار مستقیم واشنگتن بر حکومت ایران به آستانه تصمیم‌گیری نهایی رسیده است.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Idaho Learning News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-big-decision-on-iran-looms-as-peace-deal-with-tehran-stays-unsigned/ar-AA2cwSRa",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-big-decision-on-iran-looms-as-peace-deal-with-tehran-stays-unsigned/ar-AA2cwSRa",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789758334.0
-    },
-    {
-        "id": "996a82c5e5",
-        "title_fa": "تجمع هزاران معترض مقابل مرکز هنری کندی علیه برنامه‌های ترامپ",
-        "title_en": "Thousands join protest outside Kennedy Center, expressing concern that Trump might tear it down",
-        "summary": [
-            "هزاران شهروند آمریکایی با تجمع در برابر مرکز هنری کندی، مخالفت شدید خود را با طرح‌های ترامپ برای تغییر یا تخریب این بنای فرهنگی اعلام کردند.",
-            "این اعتراضات عمق شکاف فرهنگی و نمادین میان دولت جدید ترامپ و جامعه هنری و لیبرال آمریکاست."
-        ],
-        "impact": "افزایش تنش‌های اجتماعی و دوقطبی شدن فضای داخلی آمریکا بر سر میراث فرهنگی و ملی.",
-        "tag": "سیاست_داخلی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/entertainment/general/thousands-join-protest-outside-kennedy-center-expressing-concern-that-trump-might-tear-it-down/ar-AA2cwXH3",
-        "clean_url": "https://www.msn.com/en-us/entertainment/general/thousands-join-protest-outside-kennedy-center-expressing-concern-that-trump-might-tear-it-down/ar-AA2cwXH3",
-        "image": "http://www.bing.com/th?id=ONUT.6WjT8jSCucvyoEFncRPpoQ&pid=News",
-        "timestamp": 1789757291.0
     }
 ]
