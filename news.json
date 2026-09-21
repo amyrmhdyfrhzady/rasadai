@@ -37,6 +37,25 @@
         "timestamp": 1789991328.0
     },
     {
+        "id": "266cd821d8",
+        "title_fa": "کلیدواژه خروج از ان‌پی‌تی در مجلس ج.ا",
+        "title_en": "Iran considers exiting Non-Proliferation Treaty",
+        "summary": [
+            "نمایندگان مجلس طرحی را برای خروج از پیمان منع گسترش تسلیحات اتمی به جریان انداخته‌اند.",
+            "طراحان این طرح مدعیند ماندن در این معاهده هیچ سودی برای تهران ندارد.",
+            "این اقدام همزمان با اوج‌گیری فشارهای خارجی و تنش‌های منطقه‌ای کلید خورده است."
+        ],
+        "impact": "بستن مسیرهای دیپلماتیک و سرعت گرفتن روند بحران هسته‌ای.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/foreign/world-foreign/911246-iran-considers-exiting-non-proliferation-treaty.html",
+        "clean_url": "https://www.premiumtimesng.com/foreign/world-foreign/911246-iran-considers-exiting-non-proliferation-treaty.html",
+        "image": "https://media.premiumtimesng.com/wp-content/files/2017/07/Iranian-parliament-passes-bill-aimed-at-countering-‘American-terrorism’.jpg",
+        "timestamp": 1789989840.0
+    },
+    {
         "id": "dbc80ea964",
         "title_fa": "درگیری‌های شدید در تعز و چالش‌های آمریکا در قبال یمن",
         "title_en": "US-Iran War Live Updates: 760 vessels damaged, 12 killed in Bandar Abbas attacks, Iran says",
@@ -677,6 +696,24 @@
         "clean_url": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
         "image": "http://www.bing.com/th?id=ONUT.YYozDUQyoHjKdyJlAV6-Aw&pid=News",
         "timestamp": 1789959600.0
+    },
+    {
+        "id": "ffa2aa85f0",
+        "title_fa": "بررسی گزینه حمله نظامی به ایران روی میز ترامپ",
+        "title_en": "Trump Says He’s Deciding Whether to Strike Iran as Experts Warn of War-Crime Risk",
+        "summary": [
+            "اظهارات دونالد ترامپ درباره اقدام احتمالی علیه ایران، زنگ خطر تنش نظامی را به صدا درآورده است.",
+            "کارشناسان حقوقی درباره پیامدها و خطرات احتمالی چنین تصمیماتی هشدار می‌دهند."
+        ],
+        "impact": "افزایش ریسک امنیتی و بازگشت سایه جنگ به معادلات منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Idaho Public Press on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-he-s-deciding-whether-to-strike-iran-as-experts-warn-of-war-crime-risk/ar-AA2cFg9t?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-he-s-deciding-whether-to-strike-iran-as-experts-warn-of-war-crime-risk/ar-AA2cFg9t",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789959180.0
     },
     {
         "id": "0d617b648a",
@@ -5452,43 +5489,5 @@
         "clean_url": "https://thehill.com/opinion/international/6096259-iran-water-crisis-leadership",
         "image": "http://www.bing.com/th?id=ONUT.kpQExIt8MqUCTBGRoDpv8g&pid=News",
         "timestamp": 1789709400.0
-    },
-    {
-        "id": "d41ce40a42",
-        "title_fa": "بحران در دریای سرخ و جهش قیمت نفت",
-        "title_en": "Houthis, Saudis, Iran",
-        "summary": [
-            "حوثی‌ها با تصرف بخش‌های کلیدی از ساحل دریای سرخ، مسیرهای حیاتی کشتیرانی را کاملاً تحت کنترل خود درآورده و تهدید جدی برای نفت‌کش‌ها ایجاد کرده‌اند.",
-            "این پیشروی نظامی باعث جهش قیمت نفت به بالای صد دلار در هر بشکه شده و سناریوی جنگ منطقه‌ای را وارد فاز تازه‌ای کرده است.",
-            "عربستان سعودی در این میان در موقعیت بسیار دشواری قرار گرفته و عملاً با احیای تهدیدات مرزی و دریایی روبروست."
-        ],
-        "impact": "افزایش قیمت انرژی و تشدید ناامنی در آب‌های راهبردی جهان",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-saudis-iran-and-the-future-of-middle-eastern-oil/articleshow/134323726.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-saudis-iran-and-the-future-of-middle-eastern-oil/articleshow/134323726.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134323763,imgsize-149938,width-400,height-225,resizemode-4/houthi-fighters-stand.jpg",
-        "timestamp": 1789707660.0
-    },
-    {
-        "id": "d32a792b8d",
-        "title_fa": "فلج شدن یک‌سوم ظرفیت گاز ای-ران در زمستان",
-        "title_en": "Iran faces postwar winter with a third of gas capacity lost",
-        "summary": [
-            "از دست رفتن حدود ۲۳۰ میلیون متر مکعب از ظرفیت تولید روزانه گاز در اثر حملات.",
-            "هزینه ۱۹ میلیارد دلاری برای تعمیرات زیرساخت‌ها بدون احتساب زیان اقتصادی ناشی از توقف صادرات و تعطیلی صنایع.",
-            "کمبود تجهیزات فنی و نیروی متخصص مانع اصلی بازسازی سریع تاسیسات انرژی."
-        ],
-        "impact": "بحران فراگیر انرژی و فلج شدن بخش صنعت در فصل سرما.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609175281",
-        "clean_url": "https://www.iranintl.com/en/202609175281",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/745c7acd5548095c31087a31934dfc91fe3b4073-1160x773.jpg?rect=34,154,985,517&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1789706940.0
     }
 ]
