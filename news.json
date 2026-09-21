@@ -55,6 +55,24 @@
         "timestamp": 1790013879.0
     },
     {
+        "id": "9b93ff228a",
+        "title_fa": "فلج‌شدن کامل ناوگان هوانوردی جـ.ا از اواخر شهریور",
+        "title_en": "All Iranian Airline Operations Worldwide to Stop From September 23: U.S. Treasury Secretary",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا تاریخ ۲۳ سپتامبر را پایان کار پروازهای بین‌المللی ایرلاین‌های ایرانی اعلام کرد.",
+            "این تصمیم ضربه سنگینی به شریان‌های ارتباطی حکومت با خارج از کشور وارد می‌کند."
+        ],
+        "impact": "توقف کامل پروازهای خارجی شرکت‌های هواپیمایی ایرانی و انزوای بیشتر سیستم حمل‌ونقل هوایی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "IranWire",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2dka21QclZZQ1JId2JGVWlPZ0I0dmI4bmY0V3haemVWc1FuNEQ1T1hiWW9uMWVpS1A1aE5vU2tEYlhNV21BcmRrS1c2Q0ZpeFYxQkU3a0ItSlhuY3pqVnRMLWVCTFFQT3RLemt5bXBQVVNEeF9uV1VENDFXcWtJc2VIVVFXV2ZicmdWUTg1UXZsQkFBV0FsZmpuRzdVamk5UnFuSEVFSnM3OVl6ekg5b0J2UmxvSHJSVWhqRnIwTGRXV0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2dka21QclZZQ1JId2JGVWlPZ0I0dmI4bmY0V3haemVWc1FuNEQ1T1hiWW9uMWVpS1A1aE5vU2tEYlhNV21BcmRrS1c2Q0ZpeFYxQkU3a0ItSlhuY3pqVnRMLWVCTFFQT3RLemt5bXBQVVNEeF9uV1VENDFXcWtJc2VIVVFXV2ZicmdWUTg1UXZsQkFBV0FsZmpuRzdVamk5UnFuSEVFSnM3OVl6ekg5b0J2UmxvSHJSVWhqRnIwTGRXV0k",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790010524.0
+    },
+    {
         "id": "5b52d41f4f",
         "title_fa": "آمادگی آمریکا و اسرائیل برای ضربه نظامی سنگین به ای-ران",
         "title_en": "U.S., Israel May Be Preparing for Another Major Attack on Iran: Report",
@@ -5466,24 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSXhwQjdlUkFndEsxV19pVGtfbEZrbDV6V2QyRDZuaU5HX1c1dWllN2tQVDVvU1NVYjZzRDR1TGswdHh2NFE3c25vdGtxQ2F4RkZqdTI1Z3ZVNXo4TFhFNndIajZCcVNPaWV1S2g0cjczc2EwQnVnTVBfeDJfM0xLRHRDM0RNT24wbUdEMExJMV9sY3JfY2pwR0tHRUpCM2p6bDZTNDA2MjIwVUU",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789736073.0
-    },
-    {
-        "id": "1c985bfd6d",
-        "title_fa": "تهدیدهای تکراری امام جمعه قم درباره انتقام",
-        "title_en": "Qom cleric praises revenge calls at nightly pro-government rallies",
-        "summary": [
-            "محمد سعیدی در خطبه‌های نماز جمعه قم از تجمع‌های شبانه حکومتی و شعارهای انتقام‌جویانه حمایت کرد.",
-            "او مدعی شد هواداران حکومتی بیش از ۲۰۰ شب است که در خیابان‌ها حضور دارند.",
-            "مقام‌های جـ.ـمهوری اسـ.ـلامی همچنان با اتکا به نیروهای سایبری و اقماری خود به دنبال حفظ روحیه بدنه رو به ریزش هستند."
-        ],
-        "impact": "تلاش برای نمایش پایداری حکومت در بحران‌های داخلی و منطقه‌ای با چاشنی تهدید نظامی.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609189917",
-        "clean_url": "https://www.iranintl.com/en/202609189917",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1789735740.0
     }
 ]
