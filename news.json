@@ -423,6 +423,24 @@
         "timestamp": 1789964626.0
     },
     {
+        "id": "a47767b465",
+        "title_fa": "شکایت رسانه‌های آمریکایی از دولت ترامپ به دلیل ممنوعیت ورود",
+        "title_en": "CNN, MS NOW, Politico say they’ve notified Trump they’re suing over denied White House access",
+        "summary": [
+            "شبکه‌های CNN و پلیتیکو به دلیل ممانعت از ورود خبرنگارانشان به کاخ سفید از دولت ترامپ شکایت کردند.",
+            "ترامپ این رسانه‌ها را به انتشار اخبار جعلی متهم کرده و کارت‌های خبرنگاری آن‌ها را باطل کرده است."
+        ],
+        "impact": "تشدید تنش میان دولت آمریکا و رسانه‌های جریان اصلی بر سر آزادی بیان و دسترسی خبری.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Mercury News",
+        "url": "https://www.mercurynews.com/2026/09/21/cnn-ms-now-politico-lawsuit-denied-white-house-access/",
+        "clean_url": "https://www.mercurynews.com/2026/09/21/cnn-ms-now-politico-lawsuit-denied-white-house-access",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/Trump_News_Media_73728_9ce278.jpg?w=2000&h=1333",
+        "timestamp": 1789964160.0
+    },
+    {
         "id": "60c2ddd7e3",
         "title_fa": "شایعه فعال‌سازی کد ۱۰۰ در ایـران و اوج‌گیری تنش‌ها",
         "title_en": "Has Iran activated ‘Code 100’ as tensions reach a tipping point? What could this mean?",
@@ -477,6 +495,24 @@
         "timestamp": 1789961460.0
     },
     {
+        "id": "f7a74bfda4",
+        "title_fa": "اذعان ترامپ به تداوم گرانی سوخت و فشار بر تورم",
+        "title_en": "Trump Admitted Gas Prices Could Get Worse",
+        "summary": [
+            "تنش‌های میان ایالات متحده و ایران بازارهای نفت را تحت فشار گذاشته و قیمت بنزین در آمریکا را به طور بی‌سابقه ای بالا برده است.",
+            "تداوم قیمت بالای انرژی به صورت مستقیم فرمول تورم را تحت تاثیر قرار داده و هزینه‌های زندگی شهروندان را افزایش می‌دهد."
+        ],
+        "impact": "فشار تورمی شدید بر اقتصاد خانوارها و تاثیر مستقیم بر مستمری‌بگیران و بازنشستگان آمریکایی.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-admitted-gas-prices-could-103000000.html",
+        "clean_url": "https://www.aol.com/articles/trump-admitted-gas-prices-could-103000000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/09/21/8db5e7f0-40c1-304b-b16c-e27808d3a868/a9b066bc-5b8e-4076-b754-59abfa671957.jpg",
+        "timestamp": 1789961400.0
+    },
+    {
         "id": "c2bdee9fc7",
         "title_fa": "رکوردشکنی حملات ترامپ به بایدن در رقابت‌های سیاسی",
         "title_en": "Trump's favorite 2026 campaign target is Biden: nearly 900 mentions and counting",
@@ -512,6 +548,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNlY2ME1qc0lQZEVsV0FjaGI5b0VjRDhNX212MWNOQjRGSmJhSXZVYVlJc1hLSVV2c2pmNEhCV2VIU3VQS2lUZzR6bWEyNU5ZRHdFcTZmckZaczVFRHd6YWRQTnNsY1FSSFlNdUk3T2RVSTh1Vnd4eUxTcnFwNlktRFUzcnhWUkhOTVpQU3hxMDZFLXFwa3pKWXh0NHIyR1A1VHVGTDFTZzV3MVRXWGFGaTdQYnFIczJyQWNHTkV4N3BkSERvYlhMV3NMOUtuMElBUXRCTzVpWHI4V0hJczUwbjdQb3FHQlJpMjhVWUFUQUY2MnJZU01mNzQ1dzNGOWM3NmVCRTRHOUhJSFJNeU9Fb0NoNnpYQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789960649.0
+    },
+    {
+        "id": "07e69f12ed",
+        "title_fa": "آغاز نشست مجمع عمومی سازمان ملل با چالش‌های جهانی",
+        "title_en": "What to know as world leaders converge at the United Nations this week",
+        "summary": [
+            "رهبران جهان در حالی در نیویورک گرد هم آمده‌اند که دبیرکل سازمان ملل نسبت به وضعیت بحرانی هشدار داده است.",
+            "محورهای اصلی سخنرانی‌ها شامل کاهش تنش در خاورمیانه، امنیت آبراه‌های حیاتی و جنگ اوکراین است."
+        ],
+        "impact": "آغاز دور جدیدی از دیپلماسی فشرده جهانی برای مهار بحران‌های بین‌المللی بدون چشم‌انداز توافق قطعی.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+        "clean_url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4853x2728+0+206/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fa2%2Fb8513b0c4408b983f61eee13d8e9%2Fgettyimages-2293714469.jpg",
+        "timestamp": 1789959600.0
     },
     {
         "id": "4798a5eb72",
@@ -5433,60 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNDhBaTBpblhreXdlMUVlc0M4NllQSEVtYmdrZ0xjRXozU3NDbnE4ak5oVG9za1Noa0IzM1M5MkNULVFRUmVPTHdkcF9oZkdxNU9CTG9Xbw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789699613.0
-    },
-    {
-        "id": "2b4745f0b9",
-        "title_fa": "جنگ داخلی باندهای قدرت در تجمعات خیابانی رژ*یم",
-        "title_en": "Iran’s nightly pro-state rallies become factional battleground",
-        "summary": [
-            "تجمعات شبانه طرفداران ج*هوری اس*لامی که برای ارعاب مردم سازماندهی شده بود، اکنون به میدان تسویه‌حساب باندهای درونی تبدیل شده است.",
-            "اشغال ۲۰۰ روزه خیابان‌ها توسط تندروها، عمق هراس حکومت از شکل‌گیری مجدد اعتراضات مردمی را فاش می‌کند.",
-            "حمله این گروه‌ها به رقبای خودی در بدنه حاکمیت، نشان‌دهنده تشدید بحران جانشینی و تزلزل در ساختار قدرت است."
-        ],
-        "impact": "عمیق‌تر شدن شکاف‌های درونی حاکمیت و افزایش نارضایتی عمومی از مزاحمت‌های خیابانی تندروها.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609170359",
-        "clean_url": "https://www.iranintl.com/en/202609170359",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/684416aa083225ff61f632193b45ede78ae1e0ac-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1789699500.0
-    },
-    {
-        "id": "48a03934a6",
-        "title_fa": "شکست شورای امنیت در تمدید کمیته تحریم‌های ایـران",
-        "title_en": "Security Council Fails to Renew Iran Sanctions Panel Mandate",
-        "summary": [
-            "روسیه و چین با وتوی قطعنامه تمدید ماموریت کارشناسان ناظر بر تحریم‌ها، مانع ادامه کار این نهاد شدند.",
-            "این اتفاق شکاف عمیق میان اعضای دائم شورای امنیت بر سر پرونده اتمی را عیان کرد."
-        ],
-        "impact": "نظارت بر اجرای تحریم‌های بین‌المللی علیه تـهـران عملاً فلج می‌شود.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "La Voce di New York",
-        "url": "https://lavocedinewyork.com/en/un/2026/09/17/security-council-fails-to-renew-iran-sanctions-panel-mandate/",
-        "clean_url": "https://lavocedinewyork.com/en/un/2026/09/17/security-council-fails-to-renew-iran-sanctions-panel-mandate",
-        "image": "https://lavocedinewyork.com/wp-content/uploads/2026/09/ARGUE.webp",
-        "timestamp": 1789698480.0
-    },
-    {
-        "id": "225e3af23f",
-        "title_fa": "پایان نظم آمریکایی در منطقه به روایت رسانه‌های حکومتی",
-        "title_en": "Iran ends the American Middle East: analysis",
-        "summary": [
-            "رسانه‌های حاکمیتی با بازنشر مقالات سفارشی تلاش می‌کنند شکست‌های منطقه‌ای جـ.م. را به نام پایان هژمونی آمریکا جا بزنند.",
-            "پروپاگاندای تهران به شدت روی تضعیف جایگاه واشنگتن در خاورمیانه مانور می‌دهد تا ضعف‌های درونی سیستم را بپوشاند."
-        ],
-        "impact": "تلاش برای مصرف داخلی و تنفس مصنوعی به بدنه رو به زوال جبهه پایداری و حامیان حکومت.",
-        "tag": "پروپاگاندا",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/530141/Iran-ends-the-American-Middle-East-analysis",
-        "clean_url": "https://www.tehrantimes.com/news/530141/Iran-ends-the-American-Middle-East-analysis",
-        "image": "https://media.tehrantimes.com/d/t/2026/09/18/4/6178354.jpg?ts=1789735126398",
-        "timestamp": 1789697400.0
     }
 ]
