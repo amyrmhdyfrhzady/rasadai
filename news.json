@@ -1,5 +1,23 @@
 [
     {
+        "id": "ed94148a73",
+        "title_fa": "بحران سیاسی و امنیتی در رومانی از تحولات داخلی تا کشف پهپاد",
+        "title_en": "Articole despre \"ene-cornel-galati-senat-alegeri\"",
+        "summary": [
+            "صدراعظم آلمان از شوک سیاسی ناشی از تحولات اخیر رومانی ابراز نگرانی کرد.",
+            "رسیدگی به چالش‌های امنیتی و نفوذ پهپاد در مرزهای رومانی در دستور کار نهادهای دفاعی قرار گرفت."
+        ],
+        "impact": "افزایش نااطمینانی امنیتی در مرزهای شرقی اروپا.",
+        "tag": "بین‌الملل",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/ene-cornel-galati-senat-alegeri-pag14",
+        "clean_url": "https://ziare.com/cautare/ene-cornel-galati-senat-alegeri-pag14",
+        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
+        "timestamp": 1790016369.5693572
+    },
+    {
         "id": "1b69afc398",
         "title_fa": "بررسی پیامدهای حملات ایالات متحده علیه اهداف جـ.ـمـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی",
         "title_en": "Fallout From U.S. Strikes In Iran Under Scrutiny",
@@ -217,6 +235,24 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
         "image": "https://static.toiimg.com/thumb/msid-134374650,width-1280,height-720,imgsize-95851,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789989300.0
+    },
+    {
+        "id": "e84c33df0e",
+        "title_fa": "تهدید جمهوری ا... به رونمایی از سلاحی تازه در پاسخ به ترامپ",
+        "title_en": "Iran makes chilling threat after Trump mulls wiping them out",
+        "summary": [
+            "مقام‌های نظامی تهران در واکنش به هشدار اخیر دونالد ترامپ برای نابودی زیرساخت‌ها، از احتمال تغییر موازنه در میدان نبرد گفتند.",
+            "این لفاظی‌ها نشان‌دهنده تلاش برای بازدارندگی روانی در برابر سیاست فشار حداکثری است."
+        ],
+        "impact": "بال رفتن سطح تنش‌های نظامی و تشدید جنگ روانی میان تهران و واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New Republic on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-makes-chilling-threat-after-trump-mulls-wiping-them-out/ar-AA2cGOIm",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-makes-chilling-threat-after-trump-mulls-wiping-them-out/ar-AA2cGOIm",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789988338.0
     },
     {
         "id": "f2002d0e76",
@@ -5448,42 +5484,5 @@
         "clean_url": "https://www.baltimoresun.com/2026/09/18/us-stocks-bonds-oil",
         "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street__2426.jpg?w=2000&h=1333",
         "timestamp": 1789728120.0
-    },
-    {
-        "id": "020f6db902",
-        "title_fa": "افشاگری وزیر سابق فلسطینی درباره هشدار پیش از ۷ اکتبر به اسرائیل",
-        "title_en": "Former Palestinian Authority minister claims he was source who relayed pre-Oct. 7 warning from Hamas to Israel",
-        "summary": [
-            "سفیان ابوزایده، وزیر سابق تشکیلات خودگردان، مدعی شد که شخصاً هشدارهای مربوط به حمله حماس را پیش از وقوع به مقامات اسرائیلی منتقل کرده بود.",
-            "این افشاگری عمق شکاف و رقابت‌های اطلاعاتی میان فتح و حماس را در پشت صحنه نشان می‌دهد.",
-            "تایید این ادعا، فشار داخلی بر نهادهای امنیتی اسرائیل را به دلیل نادیده گرفتن هشدارهای پیش‌دستانه دوچندان می‌کند."
-        ],
-        "impact": "افزایش فشار سیاسی بر دولت نتانیاهو و رسوایی جدید برای دستگاه‌های اطلاعاتی اسرائیل.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/former-palestinian-authority-minister-claims-he-was-source-who-relayed-pre-oct-7-warning-from-hamas-to-israel/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/former-palestinian-authority-minister-claims-he-was-source-who-relayed-pre-oct-7-warning-from-hamas-to-israel",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2014/02/Web_F2005FF0009.jpg",
-        "timestamp": 1789725360.0
-    },
-    {
-        "id": "b41d978912",
-        "title_fa": "گمانه‌زنی درباره استفاده احتمالی ترامپ از بمب اتمی علیه ایران",
-        "title_en": "The Peril of Trump’s Final Act: Would He Use a Tactical Nuclear Weapon in Iran?",
-        "summary": [
-            "رسانه‌های غربی به بررسی سناریوهای تندروانه احتمالی از سوی دونالد ترامپ در قبال ج.ه.ا پرداخته‌اند.",
-            "این تحلیل‌ها نشان‌دهنده نگرانی از احتمال اقدامات بسیار شدید نظامی در صورت بازگشت سیاست فشار حداکثری است."
-        ],
-        "impact": "افزایش جنگ روانی و ترس در بدنه حاکمیت از ضربات نظامی غیرمتعارف.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Nation",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Lb0lLaUh3YkpsSVVjb2V1ODE2TzNXbEVTRGZicGlpd0F2SUJNVkctMjFXQXRRWnZPSE9feW8yOEJiX2xFdTRLYlpuUkQ5NlhwbTBkdlpDMWxRVjBNY1ZweExpUdIBjgFBVV95cUxPS3JON3RIM08yVXNMdVd3UlNSeGZNN3VrTnZldUFQbWJKUkowV2xVWFQwLXRxX3k4eUY3NTNZTC02ZlNXTVBlRERXdEgzbGdwQWF1RWN4dHMxUFRPd3pjY2Nac2ZMdTRGek9tTDFETG1SSXVWMGNHdEJTcmFiYm1DTWFuVktmUEFRN05oY0dn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Lb0lLaUh3YkpsSVVjb2V1ODE2TzNXbEVTRGZicGlpd0F2SUJNVkctMjFXQXRRWnZPSE9feW8yOEJiX2xFdTRLYlpuUkQ5NlhwbTBkdlpDMWxRVjBNY1ZweExpUdIBjgFBVV95cUxPS3JON3RIM08yVXNMdVd3UlNSeGZNN3VrTnZldUFQbWJKUkowV2xVWFQwLXRxX3k4eUY3NTNZTC02ZlNXTVBlRERXdEgzbGdwQWF1RWN4dHMxUFRPd3pjY2Nac2ZMdTRGek9tTDFETG1SSXVWMGNHdEJTcmFiYm1DTWFuVktmUEFRN05oY0dn",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789725138.0
     }
 ]
