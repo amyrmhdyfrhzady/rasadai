@@ -422,6 +422,24 @@
         "timestamp": 1789967730.0
     },
     {
+        "id": "8fbbc98cfb",
+        "title_fa": "سقوط ده درصدی اقتصاد ای---ران زیر ضربات تنش‌ها",
+        "title_en": "Iran's Economy Shrinks By 10.1% Amid US War: 'Strait' Talk Amid Hormuz Blockade, Oil & Gas Losses",
+        "summary": [
+            "آمارهای رسمی مرکز آمار از افت شدید ۱۰.۱ درصدی تولید ناخالص داخلی حکایت دارد.",
+            "فلج شدن بخش نفت و گاز به عنوان منبع اصلی درآمد ارزی، اقتصاد حکومت را به لبه پرتگاه رسانده است."
+        ],
+        "impact": "تشدید بحران ارزی و کمبود منابع مالی برای اداره پروژه‌های نظامی و نیابتی.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "News18",
+        "url": "https://www.news18.com/explainers/irans-economy-shrinks-10-1-yoy-amid-us-war-how-oil-gas-losses-hormuz-blockade-impacted-gdp-ws-klt-10344292.html",
+        "clean_url": "https://www.news18.com/explainers/irans-economy-shrinks-10-1-yoy-amid-us-war-how-oil-gas-losses-hormuz-blockade-impacted-gdp-ws-klt-10344292.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/09/pezeshkian-mojtaba-2026-09-8f7b3b6edea1c199f63de51e87d85392-1200x675.jpg",
+        "timestamp": 1789967100.0
+    },
+    {
         "id": "707757a8a8",
         "title_fa": "آیا پکن واسطه پایان جنگ می‌شود؟",
         "title_en": "Will China play a role in ending Iran war?",
@@ -5470,24 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd21jUktGbU5udUZNVXpKdXIxRUtvM0JnZ0M2VDIwZ1ZSMWQ3WE1TZS1yTUFQU0FtYS02UjVCRzEydVVJdlhfVjd3aHNfc2FTQTd3RWctSUxTeDVMSmNQUHlrSHMtWE92cEhfaDBzZmFIR1NWUTZHR0xabW5VcjFkVXRZT2NUbTd2T1lRb2FvcHlkRmdkUnhNWnB4R2x4Qk1BYTUtRw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789711020.0
-    },
-    {
-        "id": "5f6ebe72a7",
-        "title_fa": "بحران آب در ایران؛ تهدیدی فراتر از تغییرات سیاسی",
-        "title_en": "Iran’s water crisis requires more than just regime change",
-        "summary": [
-            "نابودی منابع آبی و فروپاشی زیست‌محیطی، خطری بزرگ‌تر و فوری‌تر از چالش‌های سیاسی برای آینده ایران است.",
-            "سوءمدیریت شدید در دهه‌های گذشته، زیرساخت‌های طبیعی کشور را به مرز نابودی کامل کشانده است.",
-            "حتی با ت‌غ‌ی‌ی‌ر ح‌ک‌وم‌ت نیز حل این بحران زیست‌محیطی سال‌ها زمان و سرمایه‌گذاری کلان نیاز دارد."
-        ],
-        "impact": "تشدید مهاجرت‌های داخلی، خالی شدن روستاها و افزایش تنش‌های اجتماعی بر سر منابع حیاتی.",
-        "tag": "اجتماعی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "The Hill",
-        "url": "https://thehill.com/opinion/international/6096259-iran-water-crisis-leadership/",
-        "clean_url": "https://thehill.com/opinion/international/6096259-iran-water-crisis-leadership",
-        "image": "http://www.bing.com/th?id=ONUT.kpQExIt8MqUCTBGRoDpv8g&pid=News",
-        "timestamp": 1789709400.0
     }
 ]
