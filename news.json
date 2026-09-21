@@ -349,6 +349,24 @@
         "timestamp": 1789975080.0
     },
     {
+        "id": "721de680a0",
+        "title_fa": "فشار ریاض به واشنگتن برای اقدام نظامی علیه حوثی‌ها",
+        "title_en": "اکسیوس: عربستان سعودی اواخر هفته گذشته بار دیگر از ترامپ خواست در یمن اقدام نظامی کند",
+        "summary": [
+            "عربستان بار دیگر از دونالد ترامپ خواسته است تا به مواضع حوثی‌ها در یمن حمله نظامی کند.",
+            "فرمانده سنتکام گزینه‌های حملات هوایی را آماده کرده اما ترامپ فعلاً دستور توقف صادر کرده است."
+        ],
+        "impact": "سایه سنگین درگیری‌های منطقه‌ای بر امنیت انرژی و آبراه‌های حیاتی خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609214246",
+        "clean_url": "https://www.iranintl.com/202609214246",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1789974420.0
+    },
+    {
         "id": "ffb92eb9ac",
         "title_fa": "تماس تلفنی ترامپ با رئیس شورای ریاستی یمن",
         "title_en": "رویترز: ترامپ و رییس شورای ریاستی یمن درباره حوثی‌ها تلفنی گفت‌وگو کردند",
@@ -5469,24 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUNQaW1RcmVFWUtlRGR5a1o3aTM2dkxJdV9qOFZiTnh6NE1tOVFJQVhRN0pRcWNkSy1NNm5YcExMMnZBWjlYdVJmenJjNF8tREs0TUd4VFZqaGpOWHlHTFc0WHRtVnNTY08tclc3dzlPNlNRU0dQTTkxR3JhcUhPWVNDNXdWeTNQYTJPYmd1WnVMZG5xcGZJanhWdWQtbHlYSjdOU2N2SkVKWnlZZ1FQZg",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789718384.0
-    },
-    {
-        "id": "925f528808",
-        "title_fa": "ترک خوردن دیوار تنش‌زدایی میان تهران و ریاض",
-        "title_en": "The cost of Iran’s regional leverage",
-        "summary": [
-            "توافق پکن تنها فرصتی برای مدیریت رقابت‌ها بود و نتوانست رقیب‌تراشی‌های منطقه‌ای را متوقف کند.",
-            "حملات پهپادی و موشکی به خاک عربستان و تعویق مذاکرات عمان، سازوکار شکننده دیپلماتیک را در آستانه فروپاشی قرار داده است.",
-            "تهران در یک بن‌بست راهبردی گیر افتاده است؛ حفظ نفوذ منطقه‌ای از طریق نیروهای نیابتی دیگر با دیپلماسی همسایگی همخوانی ندارد."
-        ],
-        "impact": "بازگشت سایه تهدیدهای امنیتی به روابط خلیج فارس و ناامیدی از تداوم تنش‌زدایی.",
-        "tag": "منطقه‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
-        "clean_url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260916__C8H86MQ__v1__MidRes__YemenIranUsIsraelWar-1789581728.jpg?resize=1200%2C630",
-        "timestamp": 1789714320.0
     }
 ]
