@@ -857,6 +857,25 @@
         "timestamp": 1789978243.0
     },
     {
+        "id": "7aa646a85d",
+        "title_fa": "دیدار پولیبر با رضا پهلوی برای اخراج عوامل ج.ا",
+        "title_en": "Poilievre says he and Pahlavi discussed expelling IRGC 'terror agents' from Canada",
+        "summary": [
+            "پیر پولیبر، رهبر حزب محافظه‌کار کانادا، با رضا پهلوی دیدار کرد.",
+            "محور گفتگوها اخراج وابستگان سپاه پاسداران از کانادا و اعمال تحریم‌های تازه علیه تهران بود.",
+            "پولیبر حکومت فعلی ایران را نامشروع و تروریستی خوانdi که شهروندان کانادایی را به قتل رسانده است."
+        ],
+        "impact": "افزایش فشار سیاسی بر دولت کانادا برای قرار دادن کل سپاه در فهرست تروریستی و اخراج عوامل وابسته به حکومت.",
+        "tag": "اپوزیسیون",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609216622",
+        "clean_url": "https://www.iranintl.com/en/202609216622",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/99b6d247f63d554a155003f36caf5e9611a0da61-2048x1338.jpg?rect=0,132,2048,1075&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789977660.0
+    },
+    {
         "id": "aa0b75b44b",
         "title_fa": "خط و نشان جدید س*پاه برای آمریکا در صورت حمله",
         "title_en": "Iran’s IRGC threatens to hit new targets if US attacks",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202609189278",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1789753740.0
-    },
-    {
-        "id": "5d54f54b93",
-        "title_fa": "بحث داغ رسانه‌ای درباره استخدام «مادر اجاره‌ای» برای دانشجویان",
-        "title_en": "'Gutfeld!': Are moms for hire destined to backfire?",
-        "summary": [
-            "طرح جدید برخی شرکت‌ها برای ارائه خدمات مادری به دانشجویان کالج، بحث‌های جدی را درباره لوس بار آمدن نسل جدید در رسانه‌های آمریکا کلید زده است.",
-            "موافقان این طرح را کمکی به کاهش استرس دانشجویان دور از خانه می‌دانند، در حالی که منتقدان آن را نشانه‌ای از ضعف مهارتی نسل جوان ارزیابی می‌کنند."
-        ],
-        "impact": "تغییر در سبک زندگی دانشجویی و تجاری‌سازی وظایف خانوادگی در جامعه مدرن غربی.",
-        "tag": "اجتماعی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/video/6405282547112",
-        "clean_url": "https://www.foxnews.com/video/6405282547112",
-        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7d3ecc6-9103-434a-a388-43510c907a85/e775efb1-05c3-4fb4-abe0-547577362f75/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-        "timestamp": 1789750800.0
     }
 ]
