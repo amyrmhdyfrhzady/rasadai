@@ -1,5 +1,24 @@
 [
     {
+        "id": "e6db0698f3",
+        "title_fa": "فلج کامل صنعت هوانوردی ا... با تحریم‌های ثانویه آمریکا",
+        "title_en": "Iranian airlines face global shutdown from Sept. 23, Bessent says",
+        "summary": [
+            "اسکات بسنت، وزیر خزانه‌داری آمریکا اعلام کرد از ۲۳ سپتامبر تمام پروازهای بین‌المللی ایرلاین‌های ح... کاملاً متوقف می‌شود.",
+            "شرکت‌های خدماتی فرودگاهی و تأمین سوخت در سراسر جهان در صورت ارائه خدمات به هواپیماهای ای... از سیستم دلاری آمریکا محرک می‌شوند.",
+            "مقام‌های چین در مذاکرات با واشنگتن همکاری نزدیکی برای اعمال فشارهای اقتصادی شدیدتر بر ت... نشان داده‌اند."
+        ],
+        "impact": "انزوای کامل هوایی ج... ا... و قطع دسترسی ناوگان هوایی به فرودگاه‌های جهان.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609210904",
+        "clean_url": "https://www.iranintl.com/en/202609210904",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/06de5c459695e48d97a46564e8aec01990c4277c-1160x774.jpg?rect=251,94,680,680&w=200&h=200&q=58&fit=crop&auto=format",
+        "timestamp": 1789997100.0
+    },
+    {
         "id": "49661f8dd6",
         "title_fa": "تهدید نظامی تهران علیه آمریکا و اسرائیل",
         "title_en": "Iranian Military Threatens U.S. and Israel with “Further Defeats”",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202609175281",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/745c7acd5548095c31087a31934dfc91fe3b4073-1160x773.jpg?rect=34,154,985,517&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1789706940.0
-    },
-    {
-        "id": "ba7a3543d6",
-        "title_fa": "جهش قیمت بنزین در آمریکا همزمان با بحران ایران",
-        "title_en": "Ohio drivers feel pain at the pump as gas prices climb above national average amid Iran conflict",
-        "summary": [
-            "بحران و تنش‌های مرتبط با ایران مستقیماً بازار انرژی و بهای سوخت برای شهروندان آمریکایی را تحت تأثیر قرار داده است.",
-            "قیمت بنزین در ایالت اوهایو از میانگین کشوری عبور کرده و فشار اقتصادی بر رانندگان را بیشتر کرده است."
-        ],
-        "impact": "افزایش هزینه سوخت و تشدید نارضایتی اقتصادی در آمریکا به دلیل تنش‌های منطقه‌ای",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "WKYC",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaWpSTFZPNmhuVzFIaUtuVWZrbjJZenFqU3dHdUQ4c0NSV1JhRmt6dEx6TVFOYXRqcC0tTnNsQUV0SEJBU1kzR2FJaFY2T2ZlNDB6UWlucnY5anlpTVdwaTRpMy1QcTdoZU1iN3BnTl9JSVZLNGpDcUlsbVBqM0xHbXIxVDRpTDVmREREOFYtSGpha0QwNDlUSnhxejdfMWpWekhhYUp2S0pvSnN3X0F6eXFqZnczWVJfMjNHRkJXRlo4d2N6RzlUbjYwVXpOMnNEcG9jM0NRTVM5Sm1adjlmTjBsVmc3TFhlMU9odnN5MnFFNFBFNlVsWlVB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaWpSTFZPNmhuVzFIaUtuVWZrbjJZenFqU3dHdUQ4c0NSV1JhRmt6dEx6TVFOYXRqcC0tTnNsQUV0SEJBU1kzR2FJaFY2T2ZlNDB6UWlucnY5anlpTVdwaTRpMy1QcTdoZU1iN3BnTl9JSVZLNGpDcUlsbVBqM0xHbXIxVDRpTDVmREREOFYtSGpha0QwNDlUSnhxejdfMWpWekhhYUp2S0pvSnN3X0F6eXFqZnczWVJfMjNHRkJXRlo4d2N6RzlUbjYwVXpOMnNEcG9jM0NRTVM5Sm1adjlmTjBsVmc3TFhlMU9odnN5MnFFNFBFNlVsWlVB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789704480.0
     }
 ]
