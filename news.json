@@ -272,6 +272,24 @@
         "timestamp": 1789997940.0
     },
     {
+        "id": "f04b6a566b",
+        "title_fa": "افت کم‌سابقه محبوبیت ترامپ در بحبوحه تنش با ایران",
+        "title_en": "نظرسنجی جدید رویترز/ایپسوس: میزان رضایت از عملکرد ترامپ به ۳۲ درصد کاهش یافته است",
+        "summary": [
+            "محبوبیت دونالد ترامپ به کف تاریخی ۳۲ درصد رسیده و پایگاه رای جمهوری‌خواهان نیز به دلیل فشار هزینه‌های زندگی ریزش داشته است.",
+            "شکست در مدیریت اقتصادی و چالش‌های سیاست خارجی، شانس جمهوری‌خواهان را در انتخابات میاندوره‌ای پیش رو به شدت تهدید می‌کند."
+        ],
+        "impact": "فشار سیاسی داخلی بر کاخ سفید برای بازنگری در هزینه‌های درگیری‌های خارجی از جمله ماجراجویی‌های خاورمیانه.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609217856",
+        "clean_url": "https://www.iranintl.com/202609217856",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1789997580.0
+    },
+    {
         "id": "e6db0698f3",
         "title_fa": "فلج کامل صنعت هوانوردی ا... با تحریم‌های ثانویه آمریکا",
         "title_en": "Iranian airlines face global shutdown from Sept. 23, Bessent says",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-will-be-at-the-airport-to-greet-xi-when-china-s-leader-arrives-for-his-us-state-visit/ar-AA2cwL0I",
         "image": "http://www.bing.com/th?id=ONUT.FtK1uWS-O1JLr-AzWqWVfg&pid=News",
         "timestamp": 1789754133.0
-    },
-    {
-        "id": "9c0dacf5fa",
-        "title_fa": "ادعای توخالی سپاه درباره نابودی پایگاه‌های آمریکا",
-        "title_en": "Senior IRGC commander claims all US bases in region 'inoperable'",
-        "summary": [
-            "عزیز غزنفری، معاون سیاسی س پ ا ه، در ادعایی عجیب مدعی شد تمامی پایگاه‌های آمریکا در منطقه به تلی از خاکستر تبدیل شده‌اند.",
-            "این لفاظی‌ها مصرف داخلی داشته و تلاشی برای سرپوش گذاشتن بر آسیب‌پذیری‌های نظامی و روانی ساختار در برابر پاسخ‌های احتمالی است."
-        ],
-        "impact": "این اظهارات تغییری در موازنه‌های میدانی ایجاد نمی‌کند و صرفاً جنگ روانی رسانه‌ای است.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609189278",
-        "clean_url": "https://www.iranintl.com/en/202609189278",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1789753740.0
     }
 ]
