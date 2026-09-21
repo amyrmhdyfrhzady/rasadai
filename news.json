@@ -1,5 +1,24 @@
 [
     {
+        "id": "3a5bfe486e",
+        "title_fa": "فشار فرانسه بر حوثی‌ها برای توقف تنش‌های دریایی",
+        "title_en": "Houthis must stop escalation and commit to peace, France's UN envoy tells Arab News",
+        "summary": [
+            "نماینده فرانسه در سازمان ملل، اقدامات نظامی حوثی‌ها در باب‌المندب و علیه عربستان را غیرقابل قبول خواند.",
+            "پاریس با تاکید بر شکست گزینه نظامی، حوثی‌ها را به بازگشت به میز مذاکرات صلح و پذیرش دولت قانونی یمن فراخواند.",
+            "فرانسه همچنان بر حفظ کانال‌های دیپلماتیک با ج.ا.ا برای مدیریت تنش‌ها در تنگه هرمز اصرار دارد."
+        ],
+        "impact": "افزایش فشار دیپلماتیک غرب برای مهار حملات نیابتی در آب‌های استراتژیک منطقه.",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/houthis-must-stop-escalation-and-commit-to-peace-frances-un-envoy-tells-arab-news-3002603",
+        "clean_url": "https://www.arabnews.com/middle-east/houthis-must-stop-escalation-and-commit-to-peace-frances-un-envoy-tells-arab-news-3002603",
+        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1790032336021-80865f5faff77aab.jpg",
+        "timestamp": 1790032440.0
+    },
+    {
         "id": "a1d6972060",
         "title_fa": "هزینه ۳۸ میلیارد دلاری جنگ با ایـرآن برای آمریکا",
         "title_en": "International Day Of Peace 2026: Tracking Active Global Conflicts",
@@ -5456,23 +5475,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/unaffordable-car-market-highlights-iran-132152195.html",
         "image": "http://www.bing.com/th?id=ONUT.oclD9aj0CEoS7cTTVnen3A&pid=News",
         "timestamp": 1789798860.0
-    },
-    {
-        "id": "5ca7a04f1c",
-        "title_fa": "اعدام متهم جاسوسی و تنگنای مالی جدید جـ.ـهـ.ـوری اسـ.ـلامی",
-        "title_en": "Iran executes man accused of giving missile-site intelligence to Mossad",
-        "summary": [
-            "مقام‌های امنیتی یک فرد متهم به انتقال اطلاعات مراکز مـ.ـوشـ.ـکـ.ـی به موساد را اعدام کردند.",
-            "ترکیه با لغو مجوز فعالیت یک بانـ.ـک ایرانی، فشار مالی بر سیستم پولی تهران را بیشتر کرد."
-        ],
-        "impact": "افزایش هم‌زمان فشارهای امنیتی داخلی و انزوای مالی خارجی برای حاکمیت.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/crime/general/iran-executes-man-accused-of-giving-missile-site-intelligence-to-mossad/ar-AA2cyFV1",
-        "clean_url": "https://www.msn.com/en-us/crime/general/iran-executes-man-accused-of-giving-missile-site-intelligence-to-mossad/ar-AA2cyFV1",
-        "image": "http://www.bing.com/th?id=ONUT.ekdWhDbr6CYFBmymP5hc8Q&pid=News",
-        "timestamp": 1789792068.0
     }
 ]
