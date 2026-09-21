@@ -145,6 +145,24 @@
         "timestamp": 1790008318.0
     },
     {
+        "id": "3a4161b4d5",
+        "title_fa": "گسترش اعتراضات معترضان و آماده‌باش امنیتی در شهرها",
+        "title_en": "Protests Spread in Iran as State Media Warns of Economic Choke Points and Security Mobilization Expands",
+        "summary": [
+            "اعتراضات معیشتی بازنشستگان در چندین شهر بزرگ ایران با شعارهای تند علیه وضعیت نابسامان اقتصادی شدت گرفت.",
+            "همزمان با سقوط ارزش ریال، حاکمیت بسیج سراسری و آماده‌باش امنیتی را در استان‌ها گسترش داده است."
+        ],
+        "impact": "تلاقی مطالبات اقتصادی با شعارهای سیاسی، فشار بر ارکان امنیتی حکومت را دوچندان کرده است.",
+        "tag": "اعتراضات",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "National Council of Resistance of Iran",
+        "url": "https://www.ncr-iran.org/en/news/economy/protests-spread-in-iran-as-state-media-warns-of-economic-choke-points-and-security-mobilization-expands/",
+        "clean_url": "https://www.ncr-iran.org/en/news/economy/protests-spread-in-iran-as-state-media-warns-of-economic-choke-points-and-security-mobilization-expands",
+        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2026/08/iran-shush-retirees-protests-02082026.jpg",
+        "timestamp": 1790006100.0
+    },
+    {
         "id": "b22373d65c",
         "title_fa": "گسترش درگیری‌ها؛ حملات حوثی‌ها جبهه جدیدی باز کرد",
         "title_en": "A potential new front in the Iran war.",
@@ -5463,24 +5481,5 @@
         "clean_url": "https://www.foxnews.com/video/6405282547112",
         "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7d3ecc6-9103-434a-a388-43510c907a85/e775efb1-05c3-4fb4-abe0-547577362f75/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
         "timestamp": 1789750800.0
-    },
-    {
-        "id": "ceaed211cb",
-        "title_fa": "فشار ترامپ به سئول و بازسازی سایت اتمی طالقان",
-        "title_en": "Live Updates: Yemen conflict displaces 112,000 as EU raises alert over Houthi attacks on ships",
-        "summary": [
-            "دونالد ترامپ کره جنوبی را به دلیل ناکافی بودن حمایت از فشارهای واشنگتن علیه ایران زیر ذره‌بین برده است.",
-            "گزارش‌ها نشان می‌دهد جمهوری اسلامی در حال بازسازی سایت اتمی طالقان است.",
-            "اتحادیه اروپا نسبت به حملات دریایی حوثی‌ها هشدار داد و ترکیه نیز مجوز فعالیت بانک ملت ایران را باطل کرد."
-        ],
-        "impact": "تشدید فشارهای بین‌المللی و اقتصادی علیه شبکه مالی و فعالیت‌های اتمی تهران.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-19/live-updates-909093",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-19/live-updates-909093",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738446",
-        "timestamp": 1789748220.0
     }
 ]
