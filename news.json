@@ -256,6 +256,24 @@
         "timestamp": 1789989840.0
     },
     {
+        "id": "4016b9b1dc",
+        "title_fa": "اعزام هیئت کوچک ای-ران به نیویورک همزمان با هشدارهای ترامپ",
+        "title_en": "Iran to attend UN assembly in New York — even as peace with US remains elusive",
+        "summary": [
+            "هیئت دیپلماتیک جمهوری اسلامی با ترکیبی کوچک‌تر عازم نیویورک شد تا در مجمع عمومی سازمان ملل حاضر شود.",
+            "دونالد ترامپ با اشاره به تحولات پیش‌رو، از احتمال رخ دادن اتفاقات بزرگ در پرونده تنش‌ها خبر داده است."
+        ],
+        "impact": "این سفر در سایه سنگین هشدارهای واشنگتن و بن‌بست کامل دیپلماتیک انجام می‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-to-attend-un-assembly-in-new-york-even-as-peace-with-us-remains-elusive/ar-AA2cGUfG",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-to-attend-un-assembly-in-new-york-even-as-peace-with-us-remains-elusive/ar-AA2cGUfG",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789989822.0
+    },
+    {
         "id": "dbc80ea964",
         "title_fa": "درگیری‌های شدید در تعز و چالش‌های آمریکا در قبال یمن",
         "title_en": "US-Iran War Live Updates: 760 vessels damaged, 12 killed in Bandar Abbas attacks, Iran says",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://tass.com/politics/2189641",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1789732080.0
-    },
-    {
-        "id": "46b8296104",
-        "title_fa": "پنهان‌کاری پنتاگون از تلفات نظامی در درگیری‌ها با ج***ه ا***امی",
-        "title_en": "More US troops have died amid Iran war than Pentagon has disclosed publicly",
-        "summary": [
-            "مقام‌های نظامی آمریکا از عدم ثبت آمار واقعی تلفات نیروهای آمریکایی در منطقه خاورمیانه در پایگاه داده پنتاگون به شدت ابراز نارضایتی کرده‌اند.",
-            "این گزارش پرده از پنهان‌کاری سیستماتیک فرماندهی نظامی آمریکا درباره تلفات انسانی ناشی از تنش‌ها با نیروهای نیابتی برمی‌دارد."
-        ],
-        "impact": "افزایش فشارهای سیاسی بر دولت آمریکا برای شفاف‌سازی درباره تلفات انسانی درگیری‌های منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/ar-AA2cwmIj",
-        "clean_url": "https://www.msn.com/en-us/news/other/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/ar-AA2cwmIj",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789730636.0
     }
 ]
