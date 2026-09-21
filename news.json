@@ -587,6 +587,25 @@
         "timestamp": 1789960649.0
     },
     {
+        "id": "8d293f9adf",
+        "title_fa": "بسته شدن آخرین مجرای دلاری ج.ا در عراق",
+        "title_en": "Iraq is Iran’s last route for smuggled dollars, Iraqi MP says",
+        "summary": [
+            "عراق به تنها مسیر تنفس ارزی برای دور زدن تحریم‌های آمریکا تبدیل شده است.",
+            "واشنگتن با قطع انتقال دلار به بغداد، فشار بر سیستم مالی عراق را برای مهار نفوذ ج.ا به حداکثر رسانده است.",
+            "خطر تحریم‌های نفتی آمریکا علیه عراق در صورت عدم خلع سلاح گروه‌های نیابتی جدی است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره ارزی و کاهش شدید توان مالی ج.ا برای تامین گروه‌های نیابتی.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609217821",
+        "clean_url": "https://www.iranintl.com/en/202609217821",
+        "image": "http://www.bing.com/th?id=ONUT.BCmg0y_vuWDxF5aH8cCLiA&pid=News",
+        "timestamp": 1789959600.0
+    },
+    {
         "id": "07e69f12ed",
         "title_fa": "آغاز نشست مجمع عمومی سازمان ملل با چالش‌های جهانی",
         "title_en": "What to know as world leaders converge at the United Nations this week",
@@ -914,6 +933,25 @@
         "clean_url": "https://freepress.org/article/remorseful-update-trump-s-war-iran",
         "image": "https://freepress.org/sites/default/files/2026-09/images_0.jpg",
         "timestamp": 1789939740.0
+    },
+    {
+        "id": "45bc69230e",
+        "title_fa": "تهدید صریح ترامپ: رفتار نکنید، نابود می‌شوید",
+        "title_en": "US-Iran War News Live: Iran Says 'Armed Forces Will Not Hesitate To Defend Independence, Security' If US Resumes Attacks",
+        "summary": [
+            "ترامپ با ادبیاتی بی‌سابقه از احتمال نابودی کامل زیرساخت‌های ج.ا در صورت تداوم رفتارهای تنش‌زا سخن گفت.",
+            "ج.ا در موضعی انفعالی از طریق قطر به دنبال مذاکره برای پایان درگیری‌هاست.",
+            "تهدیدهای نظامی ج.ا در برابر هشدار مستقیم ترامپ، بیشتر مصرف داخلی و جنگ روانی دارد."
+        ],
+        "impact": "افزایش بی‌سابقه ریسک درگیری نظامی مستقیم و تزلزل در محاسبات استراتژیک تهران.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "News18",
+        "url": "https://www.news18.com/world/us-iran-war-news-live-updates-saudi-houthi-conflict-trump-iran-talks-strait-of-hormuz-reopening-crude-oil-prices-latest-news-liveblog-ws-l-10343097.html",
+        "clean_url": "https://www.news18.com/world/us-iran-war-news-live-updates-saudi-houthi-conflict-trump-iran-talks-strait-of-hormuz-reopening-crude-oil-prices-latest-news-liveblog-ws-l-10343097.html",
+        "image": "http://www.bing.com/th?id=ONUT.Nqlf5WY8ot_8kvymimDNwg&pid=News",
+        "timestamp": 1789939500.0
     },
     {
         "id": "8ec0144944",
@@ -5452,41 +5490,5 @@
         "clean_url": "https://thebulletin.org/2026/09/the-next-iran-strike-how-legal-economic-and-diplomatic-pressures-are-priming-the-region-for-war",
         "image": "http://www.bing.com/th?id=ONUT.7D2loziBal_pKWL2xgTyrQ&pid=News",
         "timestamp": 1789703400.0
-    },
-    {
-        "id": "26122bedc7",
-        "title_fa": "تحریم صرافی رمزارز ایرانی مرتبط با عوارض تنگه هرمز",
-        "title_en": "U.S. sanctions Iranian cryptocurrency exchange processing Hormuz fees",
-        "summary": [
-            "آمریکا یک صرافی رمزارز ایرانی را به دلیل دست داشتن در تسویه مالی عوارض تنگه هرمز هدف تحریم قرار داد.",
-            "این اقدام نشان‌دهنده بستن منافذ دور زدن تحریم‌ها از طریق ارزهای دیجیتال است."
-        ],
-        "impact": "فلج کردن کانال‌های مالی جایگزین و سخت‌تر شدن تبادلات ارزی برای دور زدن تحریم‌ها.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "upi.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1o4X2M0dnk1b1M3Z1dBTWlkdm1oRVNyNWlVbERONmVSRXcxUmZRbmlseEptck5IOWs3Y2liNG9mTW5kQnBwZ0ZvU3RyajBUT0xSZDlGdDdNS29Cb0RpR2o2LVoxU0pfLUQ5LW0tTkYwenF6d1J1bThVb2Y3LW1OSjFqNTZEYXlXZlNKatIBkgFBVV95cUxPSmllSEVkMnJSaVd1Z0w0VWcxX1VLV0hwMUNfa1dJVU9EdW53RmJsbWNGX1ZiLWFlX1hyZUhndHdraHFxS1huak9rYjdISzRJaTl4YVBUZ091TVVSRmNFSVkwSEw3ZEJ0LVZzel9MQnpMelNWeVBLbmNzNWJJS3hEaW1tdVNVNDMwQTVFaXpIdXJzZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1o4X2M0dnk1b1M3Z1dBTWlkdm1oRVNyNWlVbERONmVSRXcxUmZRbmlseEptck5IOWs3Y2liNG9mTW5kQnBwZ0ZvU3RyajBUT0xSZDlGdDdNS29Cb0RpR2o2LVoxU0pfLUQ5LW0tTkYwenF6d1J1bThVb2Y3LW1OSjFqNTZEYXlXZlNKatIBkgFBVV95cUxPSmllSEVkMnJSaVd1Z0w0VWcxX1VLV0hwMUNfa1dJVU9EdW53RmJsbWNGX1ZiLWFlX1hyZUhndHdraHFxS1huak9rYjdISzRJaTl4YVBUZ091TVVSRmNFSVkwSEw3ZEJ0LVZzel9MQnpMelNWeVBLbmNzNWJJS3hEaW1tdVNVNDMwQTVFaXpIdXJzZw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789703259.0
-    },
-    {
-        "id": "215b42be81",
-        "title_fa": "نمایش قدرت حکومتی با مانور خیابانی در تهران",
-        "title_en": "Watch: Mega rally sees volunteers vow to defend Iran; military might on display",
-        "summary": [
-            "حکومت با راه‌اندازی این تجمع تلاش می‌کند تا تصویر متفاوتی از پایگاه اجتماعی خود به نمایش بگذارد.",
-            "اعزام داوطلبان به دوره‌های نظامی بخشی از پروژه‌های امنیتی برای آماده‌سازی فضای داخلی است."
-        ],
-        "impact": "این تجمعات تغییری در بحران‌های ساختاری ایجاد نمی‌کند و صرفاً مانوری برای مصرف داخلی است.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/politics/government/watch-mega-rally-sees-volunteers-vow-to-defend-iran-military-might-on-display/ar-AA2cvdxU",
-        "clean_url": "https://www.msn.com/en-in/politics/government/watch-mega-rally-sees-volunteers-vow-to-defend-iran-military-might-on-display/ar-AA2cvdxU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789702740.0
     }
 ]
