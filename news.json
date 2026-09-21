@@ -108,6 +108,24 @@
         "timestamp": 1789935219.0
     },
     {
+        "id": "230acde868",
+        "title_fa": "خط قرمز طهران برای تنگه هرمز و مذاکره با آمریکا",
+        "title_en": "'Until Conditions Are Met...': Iran's BIG Message To Trump, Draws Red Line On Hormuz Ahead Of UNGA",
+        "summary": [
+            "محمدباقر قالیباف اعلام کرد طهران تا زمان پذیرش شرایط از سوی واشنگتن، تنگه هرمز را باز نمی‌کند.",
+            "پیام‌های مشروط طهران از طریق واسطه‌ها به آمریکا منتقل شده و بازگشت به میز مذاکره منتفی است."
+        ],
+        "impact": "افزایش ریسک امنیتی در آبراه حیاتی خلیج فارس و احتمال جهش قیمت نفت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/until-conditions-are-met-irans-big-message-to-us-president-trump-draws-red-line-on-hormuz-ahead-of-unga-article-156194343",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/until-conditions-are-met-irans-big-message-to-us-president-trump-draws-red-line-on-hormuz-ahead-of-unga-article-156194343",
+        "image": "http://www.bing.com/th?id=ONUT.BiUu1PIoS4xPF63J-QqMxg&pid=News",
+        "timestamp": 1789933740.0
+    },
+    {
         "id": "e5d688c22a",
         "title_fa": "سفر پرمخاطره رئیس‌جمهور ایران به نیویورک",
         "title_en": "Iranian President’s High-Risk Trip to New York",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://theconversation.com/iran-war-pushes-diesel-the-economys-lifeblood-to-record-high-prices-with-no-relief-on-the-horizon-292049",
         "image": "http://www.bing.com/th?id=ONUT.Eq1WmDuys5YR6r8q80MKRw&pid=News",
         "timestamp": 1789645500.0
-    },
-    {
-        "id": "c1d5e93539",
-        "title_fa": "ادامه بایکوت یوروویژن از سوی ایرلند به دلیل حضور اسـرائیل",
-        "title_en": "Ireland says it will continue its boycott of Eurovision next year over Israel's participation",
-        "summary": [
-            "دولت ایرلند اعلام کرد مسابقات موسیقی یوروویژن را سال آینده نیز تحریم می‌کند.",
-            "این تصمیم در اعتراض به حضور اسـرائیل در این رویداد بین‌المللی اتخاذ شده است."
-        ],
-        "impact": "افزایش فشارهای سیاسی و فرهنگی بر رویدادهای بین‌المللی مرتبط با اسـرائیل.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/other/ireland-says-it-will-continue-its-boycott-of-eurovision-next-year-over-israel-s-participation/ar-AA2cqTAc",
-        "clean_url": "https://www.msn.com/en-us/news/other/ireland-says-it-will-continue-its-boycott-of-eurovision-next-year-over-israel-s-participation/ar-AA2cqTAc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789645493.0
     }
 ]
