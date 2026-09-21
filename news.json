@@ -1,5 +1,23 @@
 [
     {
+        "id": "ea792dafb0",
+        "title_fa": "افت ۲۶ درصدی نفت و گاز؛ ضربه مهلک جنگ به اقتصاد ایران",
+        "title_en": "How oil, gas losses have shrunk Iran's GDP by 10 percent during war",
+        "summary": [
+            "آمارهای رسمی نشان می‌دهد بخش نفت و گاز کشور به دلیل هزینه‌های جنگ با ایالات متحده و اسرائیل با افت شدید ۲۶ درصدی مواجه شده است.",
+            "تخریب زیرساخت‌های انرژی و تحریم‌های فلج‌کننده موجب شده تا تولید ناخالص داخلی کشور حدود ۱۰ درصد کوچکتر شود."
+        ],
+        "impact": "سقوط درآمدهای نفتی، دست دولت را در تامین هزینه‌های جاری و نظامی خالی‌تر کرده است.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/how-oil-gas-losses-have-shrunk-iran-s-gdp-by-10-percent-during-war/ar-AA2cF1uf",
+        "clean_url": "https://www.msn.com/en-us/news/world/how-oil-gas-losses-have-shrunk-iran-s-gdp-by-10-percent-during-war/ar-AA2cF1uf",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789987121.0
+    },
+    {
         "id": "ae21749482",
         "title_fa": "بازگشت بحران به دریای سرخ و یمن",
         "title_en": "A simple guide to the Yemen conflict",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/analysis-as-iran-war-grinds-on-trump-to-face-skeptical-world-leaders-at-un/ar-AA2cu2pv",
         "image": "http://www.bing.com/th?id=ONUT.3xpOs3czHibSu58ipkr05g&pid=News",
         "timestamp": 1789683078.0
-    },
-    {
-        "id": "bb967419fa",
-        "title_fa": "ترامپ و روبه‌رو شدن با رهبران تردیدگرای جهان در سازمان ملل",
-        "title_en": "As Iran war grinds on, Trump to face skeptical world leaders at UN",
-        "summary": [
-            "دونالد ترامپ در نشست سازمان ملل با رهبرانی روبه‌رو می‌شود که نسبت به رویکردهای او تردید جدی دارند.",
-            "نخست‌وزیر کانادا هم‌زمان به دنبال کاهش وابستگی به ایالات متحده، امتیاز سمبولیک مهمی از اتحادیه اروپا گرفت."
-        ],
-        "impact": "این تنش‌های دیپلماتیک وزن و تاثیرگذاری واشنگتن را در معادلات جهانی و منطقه‌ای کاهش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18/",
-        "clean_url": "https://www.reuters.com/world/middle-east/iran-war-grinds-trump-face-skeptical-world-leaders-un-2026-09-18",
-        "image": "http://www.bing.com/th?id=ONUT.fozraXScjxjG-a_Fc_1VVQ&pid=News",
-        "timestamp": 1789682640.0
     }
 ]
