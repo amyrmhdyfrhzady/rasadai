@@ -310,6 +310,24 @@
         "timestamp": 1789979359.0
     },
     {
+        "id": "6521902666",
+        "title_fa": "تهدید خاکی و هوایی سـپـاه علیه ایالات متحده",
+        "title_en": "Iran's Revolutionary Guard warns US over escalation, and other Mideast developments",
+        "summary": [
+            "فرماندهان سـپـاه در یک لاف سیاسی مدعی شدند که اگر ایالات متحده تنش‌ها را بیشتر کند، جغرافیای جنگ را تغییر می‌دهند.",
+            "همزمان ارتش بریتانیا از شلیک یک پرتابه ناشناس در آب‌های منطقه خبر داد که نشان‌دهنده افزایش ناامنی دریایی است."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی و التهاب بیشتر در مسیرهای حیاتی انرژی منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-revolutionary-guard-warns-us-over-escalation-and-other-mideast-developments/ar-AA2cFApe",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-revolutionary-guard-warns-us-over-escalation-and-other-mideast-developments/ar-AA2cFApe",
+        "image": "http://www.bing.com/th?id=ONUT.a0FCS4CBxDjGrROBONIFow&pid=News",
+        "timestamp": 1789978243.0
+    },
+    {
         "id": "aa0b75b44b",
         "title_fa": "خط و نشان جدید س*پاه برای آمریکا در صورت حمله",
         "title_en": "Iran’s IRGC threatens to hit new targets if US attacks",
@@ -5467,24 +5485,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9teE9LS2NGYm1OYnFhV2RzOE03R0tPNlVHVW5wS1U3MnBuYjBzbFdqbU00Y2E4NFlWUF9LR3ZFeDVxRmg2NkdiWGtWdEZlVVZEei03UEwycVZIb2gzQ3pJ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789719843.0
-    },
-    {
-        "id": "4dd2232911",
-        "title_fa": "افت موقعیت نتانیاهو در نظرسنجی‌ها و استمداد از هواداران لیکود",
-        "title_en": "'Not a King, Need Your Votes': Netanyahu 'CRIES' Before Israelis As Rival Leads In Opinion Polls",
-        "summary": [
-            "عقب‌ماندن در نظرسنجی‌های انتخاباتی بنیامین نتانیاهو را وادار کرد صراحتاً بگوید پادشاه نیست و برای ماندن در قدرت محتاج تک‌تک آراست.",
-            "او برای بازسازی پایگاه رأی خود، بار دیگر روی شکاف چپ و راست و مخالفت قطعی با تشکیل کشور فلسطین دست گذاشت.",
-            "تأکید مکرر بر دستاوردهای جنگی پس از هفتم اکتبر، تلاشی مستقیم برای انحراف افکار عمومی از ناکامی‌های امنیتی و جنجال‌های قضایی است."
-        ],
-        "impact": "تزلزل جایگاه سیاسی نتانیاهو در تل‌آویو ریسک رفتارهای تهاجمی‌تر او در سطح منطقه را بالا می‌برد.",
-        "tag": "اسرائیل",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/not-a-king-need-your-votes-netanyahu-cries-before-israelis-as-rival-leads-in-opinion-polls/videoshow/134324180.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/not-a-king-need-your-votes-netanyahu-cries-before-israelis-as-rival-leads-in-opinion-polls/videoshow/134324180.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134324180,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789718460.0
     }
 ]
