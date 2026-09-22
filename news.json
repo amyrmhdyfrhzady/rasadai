@@ -1313,6 +1313,24 @@
         "timestamp": 1790050440.0
     },
     {
+        "id": "b872347f3e",
+        "title_fa": "طرح جدید مجلس برای توقیف محموله کشتی‌ها در تنگه هرمز",
+        "title_en": "Iran lawmakers advance bill imposing 20% cargo penalty for Hormuz violations",
+        "summary": [
+            "کمیسیون امنیت ملی مجلس تصویب کرد که شناورهای متخلف در تنگه هرمز با جریمه بیست درصدی ارزش بار مواجه شوند.",
+            "این اقدام تنش‌ها را در یکی از حساس‌ترین آبراه های انرژی جهان افزایش می‌دهد."
+        ],
+        "impact": "افزایش ریسک کشتیرانی تجاری و تشدید چالش‌های امنیتی در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609228308",
+        "clean_url": "https://www.iranintl.com/en/202609228308",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790049900.0
+    },
+    {
         "id": "4dcc82632e",
         "title_fa": "خط و نشان تازه ترامپ برای بساط اتمی ج.ه.",
         "title_en": "Trump holds meetings on Iran: They’re not gonna have a nuclear weapon",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.iranintl.com/202609202952",
         "image": "http://www.bing.com/th?id=ONUT.-Rl7Y3r_6LgTZrmjv6KzgQ&pid=News",
         "timestamp": 1789899360.0
-    },
-    {
-        "id": "52103ee54c",
-        "title_fa": "شکاف در اردوگاه حامیان ترامپ بر سر هوش مصنوعی",
-        "title_en": "MAGA Donors Turn on Trump Over Key Issue",
-        "summary": [
-            "دست رد زدن ترامپ به نگرانی‌های امنیتی درباره هوش مصنوعی صدای حامیان مالی‌اش را درآورده است.",
-            "چهره‌های فناوری و حامیان مالی هشدار داده‌اند که بی‌توجهی به این موضوع به پایگاه سیاسی جمهوری‌خواهان ضربه می‌زند."
-        ],
-        "impact": "اختلاف نظر با حامیان مالی ثروتمند می‌تواند منابع مالی کمپین‌های انتخاباتی را به خطر بیندازد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/maga-donors-turn-on-trump-over-key-issue/",
-        "clean_url": "https://www.thedailybeast.com/maga-donors-turn-on-trump-over-key-issue",
-        "image": "https://www.thedailybeast.com/resizer/v2/TFZ5OOXC3JACPPYUJVSY2XQ3KU.JPG?smart=true&auth=9f0395aee9c54534f7bd52c03c87669479abbf8b2b048beda2910437fd9b9e65&width=1200&height=630",
-        "timestamp": 1789898880.0
     }
 ]
