@@ -453,6 +453,25 @@
         "timestamp": 1790059610.0
     },
     {
+        "id": "5d9eb0aeae",
+        "title_fa": "عزم پ-ز-ش-ک-ی-ا-ن برای سفر به نیویورک و سازمان ملل",
+        "title_en": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+        "summary": [
+            "رئیس‌جمهور ایران برای شرکت در مجمع عمومی سازمان ملل راهی نیویورک شد تا پیام مقاومت و دیپلماسی را به گوش جهانیان برساند.",
+            "عباس عراقچی و سایر مقام‌ها او را در این سفر همراهی می‌کنند تا از منافع تهران در دیدارهای حاشیه‌ای دفاع کنند.",
+            "تهران مدعی است که از ابزار دیپلماسی برای کاهش فشارها استفاده می‌کند اما هم‌زمان نسبت به هرگونه اقدام نظامی هشدار داد."
+        ],
+        "impact": "تلاش دیپلماتیک جمهوری اسلامی در نیویورک برای تغییر روایت فشارهای بین‌المللی",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-delegation-present-narrative-resilience-132953093.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-delegation-present-narrative-resilience-132953093.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/d41952ec414cfc3f47c12343473bb129fdea7895928950883b131263c8caa10a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F472f8282c192f006f0fbfbb42d08985e.jpg",
+        "timestamp": 1790058540.0
+    },
+    {
         "id": "39c20ef6a1",
         "title_fa": "انتقاد شدید روبیو از رویکرد ناتو در قبال مناقشه ایران",
         "title_en": "Rubio questions 'point' of NATO after US blocked from bases",
@@ -5458,23 +5477,5 @@
         "clean_url": "https://www.iranintl.com/202609200666",
         "image": "http://www.bing.com/th?id=ONUT.1iqJ5FuRw3UxwxnyVXqnyw&pid=News",
         "timestamp": 1789883820.0
-    },
-    {
-        "id": "eecad14c07",
-        "title_fa": "حواشی تور اد شی‌ران و هشدار بهداشتی در فیلادلفیا",
-        "title_en": "Ed Sheeran addresses tour controversy at Philly show; measles warning issued at PHL",
-        "summary": [
-            "کنسرت اد شی‌ران در فیلادلفیا با حاشیه‌های سیاسی و اعتراضات حامیان فلسطین و تغییرات لیست هنرمندان همراه شد.",
-            "مقام‌های بهداشتی همزمان درباره خطر شیوع سرخک در فرودگاه بین‌المللی فیلادلفیا هشدار دادند."
-        ],
-        "impact": "تداخل حاشیه‌های فرهنگی-سیاسی کنسرت با مسائل بحرانی بهداشت عمومی در فیلادلفیا.",
-        "tag": "اجتماعی",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "FOX 29 News Philadelphia",
-        "url": "https://www.fox29.com/video/fmc-rtye5p4lz0v4f781",
-        "clean_url": "https://www.fox29.com/video/fmc-rtye5p4lz0v4f781",
-        "image": "http://www.bing.com/th?id=ONUT.9vxWPk_Sx-saVoehFieVzg&pid=News",
-        "timestamp": 1789882620.0
     }
 ]
