@@ -401,6 +401,25 @@
         "timestamp": 1790088969.0
     },
     {
+        "id": "b210180251",
+        "title_fa": "مخالفت پاریس با مداخله نظامی و ادعاهای متناقض درباره تنگه هرمز",
+        "title_en": "مکرون: تغییر حکومت از طریق بمباران یک کشور عملی نیست",
+        "summary": [
+            "امانوئل مکرون تغییر حکومت در ایران از طریق حملات هوایی و بمباران را اقدامی غیرعملی و راهکاری باخته قلمداد کرد.",
+            "هم‌زمان با مانور ترامپ روی توافقات منطقه‌ای، تبلیغات حکومتی تلاش می‌کنند نشست با نماینده آمریکا را ابلاغ شروط تهران برای بازگشایی تنگه هرمز جا بزنند.",
+            "دستگاه تبلیغاتی تهران با برجسته‌سازی قاطعیت فرضی، قصد دارد فشارهای سنگین بین‌المللی را پشت مانورهای کلامی پنهان کند."
+        ],
+        "impact": "تداوم بلاتکلیفی در امنیت کشتیرانی خلیج فارس و نوسان در قیمت جهانی انرژی.",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609228199",
+        "clean_url": "https://www.iranintl.com/202609228199",
+        "image": "http://www.bing.com/th?id=ONUT.UkCYMfJrS1xVH37zVk7EHw&pid=News",
+        "timestamp": 1790088840.0
+    },
+    {
         "id": "7960fcb765",
         "title_fa": "فراخوان رضا پهلوی برای گذار از ج.ا.ا",
         "title_en": "02 Mai 2025",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/videos/international/breaking-iran-bombs-us-led-coalition-base-drone-intercepted-near-erbil-airport-details/videoshow/134379764.cms",
         "image": "https://static.toiimg.com/thumb/msid-134379764,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789934040.0
-    },
-    {
-        "id": "230acde868",
-        "title_fa": "خط قرمز طهران برای تنگه هرمز و مذاکره با آمریکا",
-        "title_en": "'Until Conditions Are Met...': Iran's BIG Message To Trump, Draws Red Line On Hormuz Ahead Of UNGA",
-        "summary": [
-            "محمدباقر قالیباف اعلام کرد طهران تا زمان پذیرش شرایط از سوی واشنگتن، تنگه هرمز را باز نمی‌کند.",
-            "پیام‌های مشروط طهران از طریق واسطه‌ها به آمریکا منتقل شده و بازگشت به میز مذاکره منتفی است."
-        ],
-        "impact": "افزایش ریسک امنیتی در آبراه حیاتی خلیج فارس و احتمال جهش قیمت نفت.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/until-conditions-are-met-irans-big-message-to-us-president-trump-draws-red-line-on-hormuz-ahead-of-unga-article-156194343",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/until-conditions-are-met-irans-big-message-to-us-president-trump-draws-red-line-on-hormuz-ahead-of-unga-article-156194343",
-        "image": "http://www.bing.com/th?id=ONUT.BiUu1PIoS4xPF63J-QqMxg&pid=News",
-        "timestamp": 1789933740.0
     }
 ]
