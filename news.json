@@ -1,5 +1,23 @@
 [
     {
+        "id": "65080e08a1",
+        "title_fa": "ادعای ترامپ درباره مذاکرات پنهانی تهران و واشنگتن",
+        "title_en": "Iran and US hold talks on sidelines of UN summit, says Trump",
+        "summary": [
+            "ترامپ مدعی شده نمایندگان ایران و آمریکا در حاشیه اجلاس سازمان ملل با یکدیگر گفتگو کرده‌اند.",
+            "این ادعا در حالی مطرح می‌شود که فشار حداکثری و تحریم‌ها همچنان به عنوان ابزار اصلی واشنگتن علیه جـمـهـوری اسـلـامـی دنبال می‌شود."
+        ],
+        "impact": "این اظهارات می‌تواند معادلات دیپلماتیک و جنگ روانی پیرامون پرونده هسته‌ای را تحت تأثیر قرار دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "theguardian.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGFfZEE0Rng3UkZzZDh2b0E4X3RWbGRDUEo3VWg0Z1BPaXFTMmYzcGhOOVlROFpiM0x4dTJBVWR6bzBxMTlhNVNidXprT09iZ2NSVzdXaTF5UF84aThrQ2I0Zk8tMVU0NHB0LV9CWm5RR2dfTjMxcVF3VEJremo0ajlaZWVGV3RaWjlPVDhnU3B3YW1sWlFzVlAxcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGFfZEE0Rng3UkZzZDh2b0E4X3RWbGRDUEo3VWg0Z1BPaXFTMmYzcGhOOVlROFpiM0x4dTJBVWR6bzBxMTlhNVNidXprT09iZ2NSVzdXaTF5UF84aThrQ2I0Zk8tMVU0NHB0LV9CWm5RR2dfTjMxcVF3VEJremo0ajlaZWVGV3RaWjlPVDhnU3B3YW1sWlFzVlAxcw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790112060.0
+    },
+    {
         "id": "0f635e1cac",
         "title_fa": "عقب‌نشینی لفظی مشاور نظامی خامنه‌ای از تنش منطقه‌ای",
         "title_en": "Tehran not seeking regime change in Arab states, military adviser says",
@@ -5460,24 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0t5OWJYOHViSkxSV3RoR09ZWWNMR3N0LTEzMWxnY0FxVlA2WFNGa1NGRlRreHZGem1zRHhxb1kzV0JHTlNQUzBFR3hrUGViUmZuSmRYRFdhNDNBWGpkRS1GdGlwUnpZbnhYZmgtQnZtM3NTWjdET3huZXhWaWQwc0VfR1IxcTd6RXZKZVNIcUZ3NUVGVUlQV3Q1SzRTRFgtdUJGNjFDZ3NGZTR4LVRYNmdYVFhiby01U3JDTVpwWnA4N2Flc0c3T2c4a1M3eGpxMUFTTQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789930680.0
-    },
-    {
-        "id": "fb7b2958ad",
-        "title_fa": "هشدار خروج فوری اتباع آمریکا از ایران و احتمال درگیری مستقیم",
-        "title_en": "US-Iran war LIVE Updates: US issues Iran travel warning, Tehran warns of 'continuous, painful' attacks on US bases if...",
-        "summary": [
-            "وزارت خارجه آمریکا با صدور هشدار قرمز امنیتی، از تمام شهروندان خود خواست سریعاً خاک ایران را ترک کنند.",
-            "واشنگتن احتمال بسته شدن ناگهانی مرزهای زمینی و هوایی را ناشی از اوج‌گیری ریسک درگیری مستقیم نظامی می‌داند.",
-            "تهدیدهای متقابل مبنی بر هدف قرار دادن پایگاه‌های آمریکایی، فضای منطقه را به سمت یک مواجهه نظامی غیرقابل کنترل سوق داده است."
-        ],
-        "impact": "این هشدار سطح بالا معمولاً آخرین گام دیپلماتیک پیش از آغاز عملیات نظامی یا پاسخ سنگین منطقه‌ای است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html",
-        "clean_url": "https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html",
-        "image": "http://www.bing.com/th?id=ONUT.Ian4ATFPgnlAR5Ci7cCP6A&pid=News",
-        "timestamp": 1789928940.0
     }
 ]
