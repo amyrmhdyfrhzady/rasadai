@@ -18,6 +18,24 @@
         "timestamp": 1790094788.0
     },
     {
+        "id": "1295f6acb8",
+        "title_fa": "میانجی‌گری کشورهای عربی برای دیدار مقامات واشنگتن و تهران در سازمان ملل",
+        "title_en": "Arab mediators push for high-level US-Iran meeting at UN",
+        "summary": [
+            "کشورهای عربی منطقه در حال رایزنی فشرده با ایالات متحده و ایران برای برپایی نشستی عالی‌رتبه در حاشیه مجمع عمومی سازمان ملل هستند.",
+            "دونالد ترامپ قرار است با نمایندگان ۹ کشور عربی پیرامون پرونده ایران و کاهش تنش‌ها گفتگو کند."
+        ],
+        "impact": "تلاش‌های دیپلماتیک منطقه‌ای برای باز کردن مسیر مذاکره مستقیم بین طرفین شدت گرفته است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609225121",
+        "clean_url": "https://www.iranintl.com/en/202609225121",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790093880.0
+    },
+    {
         "id": "039ac993fe",
         "title_fa": "تهدید صریح ترامپ: ایران را به جهنم می‌فرستیم",
         "title_en": "Trump threatens to send Iran ‘into hell’ if war carries on",
@@ -562,6 +580,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/end-the-open-ended-war-gop-candidates-push-trump-on-iran/ar-AA2cKyTo",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790066398.0
+    },
+    {
+        "id": "8742c04930",
+        "title_fa": "افشاگری ترامپ در سازمان ملل: جـ.ـهـ.ـمـ.ـوری اِسـ.ـلـ.ـامـ.ـی بارها توافق اتمی را رد کرد",
+        "title_en": "Trump claims Iran repeatedly rejected US nuclear deal",
+        "summary": [
+            "دونالد ترامپ در مجمع عمومی اعلام کرد که از زمان آغاز به کار، پیشنهاد همکاری کامل اقتصادی در ازای توقف برنامه اتمی و حمایت از نیابتی‌ها را روی میز گذاشته بود.",
+            "رئیس‌جمهور آمریکا تاکید کرد که تهران بارها دست رد به سینه پیشنهادهای توافق واشنگتن زده است."
+        ],
+        "impact": "موضع سخت‌تر واشنگتن در قبال امتناع تهران از پذیرش توافق‌های پیشنهادی برجسته‌تر شد.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2191249",
+        "clean_url": "https://tass.com/world/2191249",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790066280.0
     },
     {
         "id": "672d3380cc",
@@ -5445,42 +5481,5 @@
         "clean_url": "https://www.usatoday.com/story/news/politics/2026/09/20/john-barrasso-meet-the-press-kristen-welker-trump-economy/91859716007",
         "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/20/USAT/91860077007-20260909-t-220806-z-1156385252-rc-2-yfnaau-53-t-rtrmadp-3-usaelectionrepublicans.JPG?crop=4091,2301,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
         "timestamp": 1789892220.0
-    },
-    {
-        "id": "b39949f97d",
-        "title_fa": "دیدار مقام‌های ارشد اقتصادی آمریکا و چین پیش از نشست سران",
-        "title_en": "Top US, Chinese Economic Officials Meet Ahead of Trump-Xi Summit",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا و معاون نخست‌وزیر چین مذاکرات فشرده‌ای را برای دستیابی به توافقات تجاری و فناوری آغاز کردند.",
-            "این دیدارها بستر لازم برای حل اختلافات کلیدی پیش از نشست رو در روی روسای جمهور دو کشور را فراهم می‌کند."
-        ],
-        "impact": "کاهش تنش‌های تجاری و تاثیرگذاری بر بازارهای مالی جهانی",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Newsmax",
-        "url": "https://www.newsmax.com/world/globaltalk/bessent-china/2026/09/20/id/1270031/",
-        "clean_url": "https://www.newsmax.com/world/globaltalk/bessent-china/2026/09/20/id/1270031",
-        "image": "http://www.bing.com/th?id=ONUT.PP4lvN-R86yAVzlWXX0dQg&pid=News",
-        "timestamp": 1789892100.0
-    },
-    {
-        "id": "e84d2d78be",
-        "title_fa": "سقوط ده درصدی اقتصاد جمهوری اسلامی زیر ضربات جنگ",
-        "title_en": "Iran’s economy contracts by more than 10% during US war, official data shows",
-        "summary": [
-            "آمارهای رسمی مرکز آمار از افت شدید ۱۰.۱ درصدی تولید ناخالص داخلی در فصل بهار خبر می‌دهند.",
-            "بحران اقتصادی ناشی از درگیری‌های نظامی، تورم سرسام‌آور و سقوط ارزش پول ملی را عمیق‌تر کرده است.",
-            "مسدودسازی تنگه هرمز و جهش قیمت نفت، واکنش تلافی‌جویانه تهران به حملات ائتلاف بود."
-        ],
-        "impact": "فلج شدن بیشتر شریان‌های اقتصادی و تشدید فروپاشی مالی حاکمیت.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/middle-east/irans-economy-contracts-by-more-than-10-during-us-war-official-data-shows",
-        "clean_url": "https://www.straitstimes.com/world/middle-east/irans-economy-contracts-by-more-than-10-during-us-war-official-data-shows",
-        "image": "http://www.bing.com/th?id=ONUT.y5JCb8a9bT18Gry5g0f7fA&pid=News",
-        "timestamp": 1789890420.0
     }
 ]
