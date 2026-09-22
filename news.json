@@ -417,6 +417,24 @@
         "timestamp": 1790044753.0
     },
     {
+        "id": "d2ef144c7e",
+        "title_fa": "پروازهای بین ایران و عراق فعلاً بدون تغییر برقرار است",
+        "title_en": "وزارت حمل‌ونقل عراق: هنوز دستوری برای تعلیق پروازهای ایران صادر نشده است",
+        "summary": [
+            "وزارت حمل‌ونقل عراق اعلام کرد هیچ دستورالعملی برای لغو یا تعلیق پروازهای خطوط هوایی ایران دریافت نکرده است.",
+            "گزارش‌ها حاکی از آن است که دولت عراق نامه‌ای درباره اعمال محدودیت روی شرکت‌های هوانوردی ای-ر-ان بررسی می‌کند اما هنوز تصمیمی نگرفته است."
+        ],
+        "impact": "حفظ موقت ارتباطات هوایی میان دو کشور علی‌رغم گمانه‌زنی‌ها درباره اعمال محدودیت‌های جدید.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609229841",
+        "clean_url": "https://www.iranintl.com/202609229841",
+        "image": "http://www.bing.com/th?id=ONUT.97d47D2V4KW-wq7CKOHVlw&pid=News",
+        "timestamp": 1790044740.0
+    },
+    {
         "id": "54c2cfa0bf",
         "title_fa": "چالش‌های اصلی واشنگتن و تهران برای توافق؛ پرونده‌های گره‌خورده",
         "title_en": "What Issues Do The US And Iran Need to Resolve for Any Peace Deal?",
@@ -470,6 +488,25 @@
         "clean_url": "https://www.iranintl.com/202609224538",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/225fc70a9c4a4d7dd1bd0638b6ece23757b20bf7-5500x3679.png?rect=0,396,5500,2888&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790042820.0
+    },
+    {
+        "id": "f78d523c42",
+        "title_fa": "تهدید صریح اسرائیل: غزه در صورت گروگان‌گیری تخلیه می‌شود",
+        "title_en": "کاتز: در صورت ربوده شدن یک اسرائیلی، شهر غزه تخلیه خواهد شد",
+        "summary": [
+            "وزیر دفاع اسرائیل هشدار داد با هرگونه اقدام برای ربایش شهروندان یا نظامیان این کشور، تمام شهر غزه خالی از سکنه خواهد شد.",
+            "این پیام هشدارآمیز مستقیماً حامیان حماس از جمله تهران و رجب طیب اردوغان را هدف گرفته است.",
+            "ارتش اسرائیل بر ادامه عملیات تا انهدام کامل ساختار نظامی و تونل‌های زیرزمینی غزه پافشاری می‌کند."
+        ],
+        "impact": "بالارفتن شدید هزینه‌های امنیتی برای حامیان منطقه‌ای حماس و افزایش احتمال تنش‌های تمام‌عیار.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609227788",
+        "clean_url": "https://www.iranintl.com/202609227788",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790041920.0
     },
     {
         "id": "45121ede27",
@@ -5442,41 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX3RvSkROQ1dUcVdOb0hGTHNHM092RlZncjZweFNZTFZ2Wm5vM0xSUE1CQVYwZl95ZnZrTUVWbHFaR2Utc1hTMW5WMFNNUlRYOTJQTzR2OUNGMjhjdzRZZ0FZekRDWGlyQkhuNXYxVGtmVzRSaUV2NHU2YllOMUNFQmgwakd2dUJxSGxVbVMwOWZNUdIBlwFBVV95cUxPbGdERVM5X3ktZTVvSDNXNmxvb2FEQllES1NLRVFfOWFvNllwNUdWbi1pZE96Tml2a2U0TEFuREJ4bnAwOVktS1o0TXNuZTRlTlZVV3pnSExrenpianBHZDFqSXo0YTZ3aHVYT0VjVFJpWlAta1BEbHhSZW1UeHhYUU1DQ29aS0Y0aWFiUm9lMGtRbENwbDRz",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789856113.0
-    },
-    {
-        "id": "375c4e5c31",
-        "title_fa": "هشدار مستقیم ترامپ به جـمـهـورـی اسـلاـمی: منتظر اتفاقات بزرگ باشید",
-        "title_en": "Trump in ‘deciding mode’ on Iran, says ‘very big things’ are coming",
-        "summary": [
-            "ترامپ در حال بررسی نهایی سناریوهای مختلف درباره تـهـرـان است و صراحتاً هشدار داده که مسئولان ایرانی باید رفتار خود را تغییر دهند.",
-            "رئیس‌جمهور آمریکا از احتمال دیدار با رئیس‌جمهور ایران سخن گفته اما همزمان تهدید کرده که اگر خط قرمزها رعایت نشود، ضربات سنگینی در راه است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و تنش‌های نظامی در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/video/6405330005112",
-        "clean_url": "https://www.foxnews.com/video/6405330005112",
-        "image": "http://www.bing.com/th?id=ONUT.QBAIws5dP8GVhuh6AaCqrQ&pid=News",
-        "timestamp": 1789855440.0
-    },
-    {
-        "id": "e87f302542",
-        "title_fa": "نگاه کاریکاتوریست‌ها به وعده‌ها و خطرات فناوری",
-        "title_en": "Editorial cartoons for Sept. 20, 2026: Fears of an AI apocalypse, Trump’s $5,000 promise",
-        "summary": [
-            "کاریکاتورهای جدید بر ترس‌های رو به رشد از کنترل هوش مصنوعی و وعده‌های مالی ترامپ تمرکز دارند.",
-            "نگرانی عمومی درباره پیامدهای پیشرفت کنترل‌نشده فناوری در رسانه‌های غربی برجسته شده است."
-        ],
-        "impact": "شکل‌گیری موج جدیدی از تردیدهای اجتماعی نسبت به ادعاهای اقتصادی و تکنولوژیک سیاستمداران.",
-        "tag": "رسانه",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "OregonLive.com",
-        "url": "https://www.oregonlive.com/opinion/2026/09/editorial-cartoons-for-sept-20-2026-fears-of-an-ai-apocalypse-trumps-5000-promise.html",
-        "clean_url": "https://www.oregonlive.com/opinion/2026/09/editorial-cartoons-for-sept-20-2026-fears-of-an-ai-apocalypse-trumps-5000-promise.html",
-        "image": "http://www.bing.com/th?id=ONUT.LJHBgAlAjSRwliwzrm6hdw&pid=News",
-        "timestamp": 1789855140.0
     }
 ]
