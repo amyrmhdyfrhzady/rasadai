@@ -19,6 +19,24 @@
         "timestamp": 1790040583.0
     },
     {
+        "id": "4d272a1217",
+        "title_fa": "ادعای تسلیحاتی ج.ا و هک تابلوهای جاده‌ای در لس‌آنجلس",
+        "title_en": "Iran claims world will be 'astonished' by new weapons, Trump in 'deciding mode'",
+        "summary": [
+            "مقامات تهرانی مدعی شدند جهان به زودی از تسلیحات جدید مبهوت خواهد شد، در حالی که دونالد ترامپ در حال بررسی رویکرد نهایی خود در قبال این حکومت است.",
+            "هک یک تابلوی دیجیتال در بزرگراهی در لس‌آنجلس و انتشار اطلاعات مخالفان روی سایتی وابسته به س.پ.ا.پ، ابعاد تازه‌ای از جنگ سایبری و امنیتی را نمایان کرد."
+        ],
+        "impact": "تشدید حساسیت‌های امنیتی غرب نسبت به فعالیت‌های برون‌مرزی سایبری و پروپاگاندهای تسلیحاتی تهران.",
+        "tag": "امنیت سایبری",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-donald-trump-strait-of-hormuz-09-21",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-donald-trump-strait-of-hormuz-09-21",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/a0569299b52b74a6818a8c7fcc84ff0d.jpg",
+        "timestamp": 1790038860.0
+    },
+    {
         "id": "5886c92048",
         "title_fa": "تحقیقات قضایی آمریکا از بایننس به اتهام دور زدن تحریم‌های ایران",
         "title_en": "DOJ Probing Binance Over Potential Iran Sanctions Violations",
@@ -5457,25 +5475,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
         "clean_url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
         "image": "http://www.bing.com/th?id=ONUT.aiUJutTED2kwINfVtseu_w&pid=News",
-        "timestamp": 1789817400.0
-    },
-    {
-        "id": "06ecb17655",
-        "title_fa": "حضور کارشناسان س‌پاه در باب‌المندب و تجهیز موشکی-راداری حوثی‌ها",
-        "title_en": "IRGC experts visit Bab el-Mandeb, Iranian equipment reaches Houthis",
-        "summary": [
-            "کارشناسان س‌پاه با حضور در بندر مخا و فرودگاه آن، هدایت مستقیم پروژه‌های راداری حوثی‌ها در باب‌المندب را بر عهده گرفته‌اند.",
-            "تجهیزات جدید تسلیحاتی ایران از طریق سواحل سومالی و به‌صورت کاملاً مخفیانه وارد مناطق تحت کنترل حوثی‌ها شده است.",
-            "نصب رادارهای جدید روی ارتفاعات مشرف به دریای سرخ، هدف‌گیری کشتی‌های تجاری را برای نیروهای نیابتی ساده‌تر می‌کند."
-        ],
-        "impact": "افزایش ریسک دریانوردی تجاری در باب‌المندب و احتمال بالای پاسخ نظامی مستقیم سنتکام به مقرهای راداری.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609192570",
-        "clean_url": "https://www.iranintl.com/en/202609192570",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1789817400.0
     }
 ]
