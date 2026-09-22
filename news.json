@@ -1,5 +1,23 @@
 [
     {
+        "id": "5886c92048",
+        "title_fa": "تحقیقات قضایی آمریکا از بایننس به اتهام دور زدن تحریم‌های ایران",
+        "title_en": "DOJ Probing Binance Over Potential Iran Sanctions Violations",
+        "summary": [
+            "وزارت دادگستری آمریکا پرونده ویژه‌ای برای بایننس باز کرده تا جریان انتقال پول و دور زدن تحریم‌ها از بستر این صرافی را رهگیری کند.",
+            "واشنگتن تمرکز خود را روی مسدود کردن منافذ فرار مالی از طریق بازار رمزارزها گذاشته و ریسک کار با پلتفرم‌های بین‌المللی را به اوج رسانده است."
+        ],
+        "impact": "تنگ‌تر شدن راه‌های فرار ارزی و ایجاد محدودیت شدید برای حساب‌های وابسته به شبکه‌های مالی ایران در بازار کریپتو.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejlJQXVoOVhlNVM5WkVaYVVZcUM0T2s4eE40NFlJcndVcWJ5QjFyY0xtdXVLS0NVVEJzSEFDQTVKSGs5OWxJQWxIYzROMUtvN2RIU2pkV0tUZ3YzaEowdW9DWU1tNTBsUXpSdGFUbkVPZDA2VWpzcGNVU256VXlGZ1htOVdsODF1dEdYOWtmR0VCOUpjY2dkNjZwY202dGhxaEJGdmJBRlcxVk04VTM2cA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejlJQXVoOVhlNVM5WkVaYVVZcUM0T2s4eE40NFlJcndVcWJ5QjFyY0xtdXVLS0NVVEJzSEFDQTVKSGs5OWxJQWxIYzROMUtvN2RIU2pkV0tUZ3YzaEowdW9DWU1tNTBsUXpSdGFUbkVPZDA2VWpzcGNVU256VXlGZ1htOVdsODF1dEdYOWtmR0VCOUpjY2dkNjZwY202dGhxaEJGdmJBRlcxVk04VTM2cA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790037480.0
+    },
+    {
         "id": "0f6561c4c0",
         "title_fa": "گزارش سازمان ملل درباره جنایات جـ.ـمهوری اسـ.ـلامی و آمـ.ـریکا",
         "title_en": "UN says Iran committed crimes against humanity, US committed war crimes",
@@ -5457,23 +5475,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-war-cost-us-more-than-40b-officials-said-to-lawmakers/ar-AA2caaSM",
         "image": "http://www.bing.com/th?id=ONUT.xQWIO-IxiYONN3Or_IPAmA&pid=News",
         "timestamp": 1789816270.0
-    },
-    {
-        "id": "ece71d8a49",
-        "title_fa": "توافق ایران و عمان برای ایجاد مسیر امن کشتیرانی در تنگه هرمز",
-        "title_en": "Iran, Oman agree on safe shipping lane in Strait of Hormuz amid US-Iran conflict",
-        "summary": [
-            "تهران و مسقط برای کاهش تنش‌های دریایی و تامین امنیت عبور نفت‌کش‌ها در تنگه هرمز به توافق اولیه رسیدند.",
-            "سپاه با همراهی عمان تلاش می‌کند مانع از مداخله مستقیم‌تر نیروهای فرامنطقه‌ای در خطوط ترانزیت انرژی شود."
-        ],
-        "impact": "کاهش موقت ریسک ترانزیت دریایی و تلاش برای جلوگیرى از درگیری مستقیم نظامی در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "ET Now on MSN",
-        "url": "https://www.msn.com/en-in/general/general/iran-oman-agree-on-safe-shipping-lane-in-strait-of-hormuz-amid-us-iran-conflict/ar-AA2czwtd",
-        "clean_url": "https://www.msn.com/en-in/general/general/iran-oman-agree-on-safe-shipping-lane-in-strait-of-hormuz-amid-us-iran-conflict/ar-AA2czwtd",
-        "image": "http://www.bing.com/th?id=ONUT.K5yDtqenhSviTTO56lzMqQ&pid=News",
-        "timestamp": 1789816123.0
     }
 ]
