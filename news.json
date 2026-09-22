@@ -1,5 +1,41 @@
 [
     {
+        "id": "676099a429",
+        "title_fa": "تکذیب مذاکرات پنهان از سوی سفیر تهران در مسکو",
+        "title_en": "Iran envoy denies US talks, calls Trump claim 'media games'",
+        "summary": [
+            "کاظم جلالی ادعای ترامپ درباره گفتگوهای سازنده را بازی رسانه‌ای خواند.",
+            "تهران واشنگتن را به بی‌صداقتی متهم کرد و گفت آمریکا بارها میز مذاکره را ترک کرده است."
+        ],
+        "impact": "شکاف آشکار میان مواضع رسمی دیپلماتیک و واقعیت‌های پشت پرده",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609224399",
+        "clean_url": "https://www.iranintl.com/en/202609224399",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/6753c71b8ad4d751d53890ab7ac6932ea38c11b8-1199x1039.jpg?rect=0,206,1199,629&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790105580.0
+    },
+    {
+        "id": "ff3c619b86",
+        "title_fa": "دیدار محرمانه نمایندگان ترامپ با مقام‌های جمهوری اسلامی",
+        "title_en": "Iran-US war latest: Kushner and Witkoff met with Iranian officials",
+        "summary": [
+            "جرد کوشنر و استیو ویتکاف با هیئت ایرانی پشت درهای بسته دیدار کردند.",
+            "این نشست پس از تهدیدهای تند ترامپ به نابودی، با ارزیابی مثبت کاخ سفید همراه شد."
+        ],
+        "impact": "شکل‌گیری کانال‌های پشت پرده برای کاهش تنش‌های نظامی",
+        "tag": "دیپلماسی پنهان",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-kushner-and-witkoff-met-with-iranian-officials/ar-AA2cIztL",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-kushner-and-witkoff-met-with-iranian-officials/ar-AA2cIztL",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cLutL.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1790104828.0
+    },
+    {
         "id": "41d6cbae5e",
         "title_fa": "بررسی سوابق سازمان ملل درباره تنش‌های ایران و اسرائیل",
         "title_en": "Fact Check Team: What does the UN record show about Israel, Palestine & Iran?",
@@ -16,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX0hVS0h3SG1VRmFxZW9mcVVMXzR1V1E3TEVIOGxKZWpPZThWcUJlUXBOMlI1d2tmaGd4RV9BSGtsOWwzOGMyR3VDcmh2N0ZBQWU1QUVLX3ZWYllDOUZMLW1nWkhNeTVwcFRLeDFyblZ3dHJFaUhRVUcyMkRNV2ZudFlMSXJGejJHTnBGTTVlaEdidlVOdUFZTHQwWmJvVkFrOUU1N2dSMHlJZDdaUTUxM0tZcno0Wm1aam9UQUp2bm02VDl1ZHdhMk9IQ25wVnpKaFl6M0p0Q00",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790104539.0
+    },
+    {
+        "id": "4dd7d50071",
+        "title_fa": "لغو پروازهای ایران در آستانه تحریم‌های جدید آمریکا",
+        "title_en": "First Iran flights canceled as US sanctions set to come into force",
+        "summary": [
+            "فرودگاه‌های بغداد و مسقط پذیرای پروازهای ایرانی نخواهند بود.",
+            "این تصمیم همزمان با ساعات پایانی مانده به اجرای تحریم‌های گسترده واشنگتن اتخاذ شده است."
+        ],
+        "impact": "انزوای بیشتر هوایی و مختل شدن خطوط ارتباطی منطقه ای",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/first-iran-flights-canceled-as-us-sanctions-set-to-come-into-force/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/first-iran-flights-canceled-as-us-sanctions-set-to-come-into-force",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790104440.0
     },
     {
         "id": "d9fedc1dee",
@@ -5422,60 +5476,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-warns-us-allies-against-new-attack-threatens-retaliation/ar-AA2cDjkU",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789911720.0
-    },
-    {
-        "id": "478c22d353",
-        "title_fa": "دیدار دوباره شهردار نیویورک و ترامپ پیش از اجلاس سازمان ملل",
-        "title_en": "NYC Mayor Zohran Mamdani & Trump to Meet Again This Week",
-        "summary": [
-            "زوران ممدانی و دونالد ترامپ برای سومین بار در اقامتگاه شهردار دیدار می‌کنند.",
-            "محور اصلی این نشست تمرکز بر چالش‌های شهری نیویورک اعلام شده است."
-        ],
-        "impact": "این دیدار حاشیه‌ای تأثیر مستقیمی بر معادلات کلان سیاسی ندارد.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "TMZ",
-        "url": "https://www.tmz.com/2026/09/20/zohran-mamdani-and-donald-trump-meeting-at-gracie-mansion/",
-        "clean_url": "https://www.tmz.com/2026/09/20/zohran-mamdani-and-donald-trump-meeting-at-gracie-mansion",
-        "image": "http://www.bing.com/th?id=ONUT.yfqMs0vBbCMejdYLs4aA5Q&pid=News",
-        "timestamp": 1789911720.0
-    },
-    {
-        "id": "c2ca815fb4",
-        "title_fa": "تهدید پایگاه‌های آمریکا توسط تهران در پی ادعای حمله",
-        "title_en": "Iran claims US preparing to resume attacks, threatens bases, supporting regional countries",
-        "summary": [
-            "تهران مدعی شده که ایالات متحده در حال آماده‌سازی برای از سرگیری حملات است.",
-            "مقام‌های نظامی ج.م.ا با تهدید پایگاه‌های آمریکایی و کشورهای حامی منطقه، به دنبال بازدارندگی روانی هستند."
-        ],
-        "impact": "افزایش تنش‌های نظامی و احتمال بالا رفتن سطح آماده‌باش نیروهای آمریکایی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBaUlNNHExT0F4eVR4OVRya3drdHBiOGZDVnVHT1FZazYtSHhwcVgwclltaDF0WWZxbTEyMjdxeHktbDBEbVNURDZrVlhaTFJKUVV3c25uREE1ek11QTlXMVJ2MjVvRGh0ZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBaUlNNHExT0F4eVR4OVRya3drdHBiOGZDVnVHT1FZazYtSHhwcVgwclltaDF0WWZxbTEyMjdxeHktbDBEbVNURDZrVlhaTFJKUVV3c25uREE1ek11QTlXMVJ2MjVvRGh0ZGc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789911602.0
-    },
-    {
-        "id": "c5fb9e0b5d",
-        "title_fa": "رویارویی ترامپ و پزشکیان در نیویورک با محدودیت‌های سنگین آمریکا",
-        "title_en": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
-        "summary": [
-            "حضور همزمان دونالد ترامپ و مسعود پزشکیان در مجمع عمومی سازمان ملل تنش‌های دیپلماتیک را به اوج رسانده است.",
-            "هیئت اعزامی تهران در نیویورک تحت کنترل و محدودیت‌های شدید امنیتی و رسانه‌ای واشنگتن قرار دارد.",
-            "ترامپ روز سه‌شنبه و پزشکیان روز چهارشنبه در این مجمع سخنرانی خواهند کرد."
-        ],
-        "impact": "محدودیت‌های اعمال شده دست تهران را در جنگ روانی و رسانه‌ای در خاک آمریکا بسته است.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
-        "clean_url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
-        "image": "http://www.bing.com/th?id=ONUT.2YZs4r6RfL3Jx9KV7gN1Qg&pid=News",
-        "timestamp": 1789911000.0
     }
 ]
