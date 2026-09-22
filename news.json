@@ -327,6 +327,25 @@
         "timestamp": 1790087224.074272
     },
     {
+        "id": "4982719daf",
+        "title_fa": "واکنش ارتش ج.ا به اظهارات ترامپ در سازمان ملل",
+        "title_en": "Iran military command dismisses Trump UN remarks as domestic propaganda",
+        "summary": [
+            "ستاد کل نیروهای مسلح و قرارگاه خاتم‌الانبیاء سخنان ترامپ را مصرف داخلی خواندند",
+            "فرماندهان نظامی مدعی شدند قدرت آمریکا در جهان کاهش یافته است",
+            "تهدید به پاسخ کوبنده در صورت هرگونه اقدام نظامی علیه مواضع نیابتی"
+        ],
+        "impact": "تنش لفظی میان واشنگتن و تهران بدون تغییر معنادار در موازنه‌های میدانی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609225108",
+        "clean_url": "https://www.iranintl.com/en/202609225108",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790086200.0
+    },
+    {
         "id": "e75eae6958",
         "title_fa": "تحریم یک بانک روسی توسط آمریکا با هدف مسدودسازی مسیرهای مالی جـمـهـورۍ اسـلاوۍ",
         "title_en": "The Morning Risk Report: U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
@@ -5459,23 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU1SbEQxZjVKX2I4ZVhDdmxxOWZxMnhaRmFySGVOdGxKTWZUMmpyNVBnSjg0QlZFMGU3TFUxRl9USXZsTmZfdmtBc3M3OEg2RllVMk9EMk84clp0TWdaQ2ZON3RCbXZCdWVLZkxKcC1IR1ZOaFBPTEF3dmpxT3l5S3ppenpFQVE0eG0wd0hFOA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789918761.0
-    },
-    {
-        "id": "0f92ef105d",
-        "title_fa": "جنجال در سنا بر سر اخراج کارشناسان پرونده ایران",
-        "title_en": "'Trump's Biggest Iran Blunder': Kash Patel Fired 12 Experts Before War; Mazie Hirono Goes Nuclear",
-        "summary": [
-            "مدیر اف‌بی‌آی به دلیل اخراج دوازده مامور واحد ضدجاسوسی ایران پیش از عملیات نظامی زیر فشار شدید قرار گرفت.",
-            "سناتور مزی هرونو در جلسه استماع سنا خواستار توضیح درباره این تصمیم جنجالی در آستانه درگیری شد."
-        ],
-        "impact": "این اقدام می‌تواند توان اطلاعاتی ایالات متحده در حوزه پرونده‌های مربوط به جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی را تضعیف کرده باشد.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/trumps-biggest-iran-blunder-kash-patel-fired-12-experts-before-war-mazie-hirono-goes-nuclear/videoshow/134377212.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/trumps-biggest-iran-blunder-kash-patel-fired-12-experts-before-war-mazie-hirono-goes-nuclear/videoshow/134377212.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134377212,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789917360.0
     }
 ]
