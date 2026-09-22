@@ -453,6 +453,24 @@
         "timestamp": 1790059610.0
     },
     {
+        "id": "39c20ef6a1",
+        "title_fa": "انتقاد شدید روبیو از رویکرد ناتو در قبال مناقشه ایران",
+        "title_en": "Rubio questions 'point' of NATO after US blocked from bases",
+        "summary": [
+            "وزیر خارجه آمریکا کارایی ناتو را پس از خودداری برخی اعضا از دادن اجازه استفاده از پایگاه‌ها زیر سوال برد.",
+            "این اختلاف‌نظر نشان‌دهنده شکاف در اتحادهای سنتی واشنگتن بر سر بحران خاورمیانه است."
+        ],
+        "impact": "تنش در روابط دیپلماتیک آمریکا با شرکای غربی در بستر درگیری‌های نظامی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6405411797112",
+        "clean_url": "https://www.foxnews.com/video/6405411797112",
+        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd169754-ed40-4787-8d33-a516e080aa7e/2028ab38-6eda-4866-b736-43bb39974b29/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "timestamp": 1790058240.0
+    },
+    {
         "id": "e1060b3b8b",
         "title_fa": "تمرکز ویژه ترامپ بر پرونده ایران در مجمع عمومی سازمان ملل",
         "title_en": "Trump set to address the UN General Assembly, with Iran in focus",
@@ -488,6 +506,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNE1lTm9YTWdUOEFabU4zTTRkLVdjOWZTa2dYZ3JGaWExQXZod3puN1dPMXNPY3VvMWR4ZlJwQnJFdFFaNVBvOHAtaERjUG5qV0tDQjlKbUhQdkRka0VubEs1OXZVaTJWZzZJU3dFQVNCU2dvRWN6NHdKNHJ5RXVfMEwxVHlZZWo5Z2tmb0RMSE9tZDBjQ2JNRXFyM2NZOWVKQXRHMlBERkRCenVyaU1IQnB30gGyAUFVX3lxTE00TWVOb1hNZ1Q4QVptTjNNNGQtV2M5ZlNrZ1hnckZpYTFBdmh3em43V08xc09jdW8xZHhmUnBCckV0UVo1UG84cC1oRGNQbmpXS0NCOUptSFB2RGRrRW5sSzU5dlVpMlZnNklTd0VBU0JTZ29FY3o0d0o0cnlFdV8wTDFUeVllajlna2ZvRExIT21kMGNDYk1FcXIzY1k5ZUpBdEcyUERGREJ6dXJpTUhCcHc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790056257.0
+    },
+    {
+        "id": "6aebe11761",
+        "title_fa": "افت قیمت نفت و بهبود تدریجی بازارهای مالی",
+        "title_en": "Wall Street inches higher as oil prices, bond yields retreat for fifth consecutive day",
+        "summary": [
+            "بهای نفت برای پنجمین روز متوالی کاهش یافت که به آرامش نسبی بازار سهام کمک کرد.",
+            "کاهش فشارهای بازار اوراق قرضه باعث سبز شدن نسبی شاخص‌های وال‌استریت شد."
+        ],
+        "impact": "کاهش موقت فشارهای تورمی و نوسانات بازار انرژی.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/wall-street-inches-higher-as-oil-prices-bond-yields-retreat-for-fifth-consecutive-day/ar-AA2cIaC9",
+        "clean_url": "https://www.msn.com/en-us/money/economy/wall-street-inches-higher-as-oil-prices-bond-yields-retreat-for-fifth-consecutive-day/ar-AA2cIaC9",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790054418.0
+    },
+    {
+        "id": "51ad1d2476",
+        "title_fa": "اقدام جدید چین در کنترل صادرات مواد اولیه دارویی",
+        "title_en": "China expands export control on drug precursors ahead of Trump-Xi meeting",
+        "summary": [
+            "پکن قوانین صادراتی خود برای دو ماده شیمیایی کلیدی را سخت‌تر کرد.",
+            "این اقدام در آستانه دیدار سران آمریکا و چین انجام شده است."
+        ],
+        "impact": "تنظیم اهرم‌های فشار تجاری از سوی چین پیش از مذاکرات سطح بالا.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/china-expands-export-control-on-drug-precursors-ahead-of-trump-xi-meeting/ar-AA2cK3NZ",
+        "clean_url": "https://www.msn.com/en-us/news/other/china-expands-export-control-on-drug-precursors-ahead-of-trump-xi-meeting/ar-AA2cK3NZ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790054028.0
+    },
+    {
+        "id": "341135fbbb",
+        "title_fa": "افت شدید محبوبیت ترامپ در مدیریت بحران ایران",
+        "title_en": "Trump Hit With Devastating Reality Check Before Facing World Leaders",
+        "summary": [
+            "نتایج نظرسنجی جدید نشان می‌دهد تنها ۲۶ درصد از آمریکایی‌ها از مدیریت ترامپ در مناقشه با ایران حمایت می‌کنند.",
+            "پایگاه رأی جمهوری‌خواهان و رأی‌دهندگان زیر ۴۵ سال نیز دچار ریزش معناداری شده است."
+        ],
+        "impact": "افزایش فشار سیاسی بر دولت آمریکا در آستانه نشست مجمع عمومی سازمان ملل.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/trump-hit-with-devastating-reality-check-before-facing-world-leaders/",
+        "clean_url": "https://www.thedailybeast.com/trump-hit-with-devastating-reality-check-before-facing-world-leaders",
+        "image": "http://www.bing.com/th?id=ONUT.SQ2UG3cwZLQrCn6NzlvZ4g&pid=News",
+        "timestamp": 1790053860.0
     },
     {
         "id": "6d4fa76468",
@@ -693,6 +765,42 @@
         "timestamp": 1790048460.0
     },
     {
+        "id": "4063398e5d",
+        "title_fa": "انتصاب جنجالی مقام سابق آلمان و DHS به سمت مبارزه با فساد",
+        "title_en": "Disgraced ICE Barbie Goon Handed Top Fraud Job",
+        "summary": [
+            "یک مقام پیشین که به دلیل حذف تعمدی اسناد و پیام‌های رسمی محکوم شده بود، پست جدیدی گرفت.",
+            "این تصمیم با انتقادهای زیادی پیرامون عدم شفافیت در نهادهای دولتی مواجه شده است."
+        ],
+        "impact": "تشدید حواشی پیرامون مدیریت داخلی و انتصابات جنجالی در دولت.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/disgraced-kristi-noem-official-karen-evans-handed-top-dhs-fraud-job/",
+        "clean_url": "https://www.thedailybeast.com/disgraced-kristi-noem-official-karen-evans-handed-top-dhs-fraud-job",
+        "image": "http://www.bing.com/th?id=ONUT.K6PWzQKizDIs94Zr8r7Wsg&pid=News",
+        "timestamp": 1790048280.0
+    },
+    {
+        "id": "772173192e",
+        "title_fa": "لغو یک گردهمایی حامیان ترامپ به دلیل فروش ضعیف بلیت",
+        "title_en": "MAGA Festival Featuring Kid Rock Canceled Over Poor VIP Ticket Sales",
+        "summary": [
+            "برگزارکنندگان فستیوال آزادی در کنتاکی از لغو کامل این رویداد سیاسی به دلیل استقبال ضعیف از بلیت‌های وی‌آی‌پی خبر دادند.",
+            "این گردهمایی پیش‌تر میزبان چهر‌های سرشناس جناح حامی ترامپ بود."
+        ],
+        "impact": "کاهش شور و شوق مالی و میدانی در برخی بدنه‌های حامی جریان MAGA.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/maga-festival-freedom-fest-featuring-kid-rock-canceled-over-poor-vip-ticket-sales-12470885",
+        "clean_url": "https://www.newsweek.com/maga-festival-freedom-fest-featuring-kid-rock-canceled-over-poor-vip-ticket-sales-12470885",
+        "image": "http://www.bing.com/th?id=ONUT.VzcE3ZUi-q7tKPjSKtHofw&pid=News",
+        "timestamp": 1790047020.0
+    },
+    {
         "id": "1c3750183b",
         "title_fa": "خط‌ونشان سپاه برای ترامپ؛ جغرافیا جنگ را تغییر می‌دهیم",
         "title_en": "‘We’ll change geography of war’: Iran’s IRGC warns Trump against escalation in West Asia",
@@ -711,6 +819,24 @@
         "timestamp": 1790046960.0
     },
     {
+        "id": "3b6c2cfa47",
+        "title_fa": "فشار افکار عمومی و چرخش مواضا درباره درگیری با ایران",
+        "title_en": "Mike Rogers breaks with Trump, calls for Iran war to 'end quickly'",
+        "summary": [
+            "مایک روجرز، نامزد سنا در میشیگان، خواستار پایان سریع درگیری با ایران برای کاهش هزینه‌های زندگی شد.",
+            "رقبای انتخاباتی او را به تغییر موضع مصلحتی برای جذب آرای عمومی متهم کرده‌اند."
+        ],
+        "impact": "تلاش نامزدهای انتخاباتی برای فاصله گرفتن از هزینه جنگ به دلیل فشار اقتصادی.",
+        "tag": "انتخابات",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/09/22/mike-rogers-calls-for-end-iran-war-breaking-with-trump/91881894007/",
+        "clean_url": "https://www.freep.com/story/news/politics/elections/2026/09/22/mike-rogers-calls-for-end-iran-war-breaking-with-trump/91881894007",
+        "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/07/27/PDTF/91070213007-72726-trump-milford-jfb-129.jpg?crop=2127,1197,x0,y0&width=2127&height=1197&format=pjpg&auto=webp",
+        "timestamp": 1790046360.0
+    },
+    {
         "id": "ce92d1a35c",
         "title_fa": "رایزنی وزیر خارجه ج.ا با دبیرکل سازمان ملل در نیویورک",
         "title_en": "Araghchi speaks by phone with UN chief after arriving in New York",
@@ -727,6 +853,24 @@
         "clean_url": "https://www.iranintl.com/en/202609225891",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790046360.0
+    },
+    {
+        "id": "ab2a487435",
+        "title_fa": "سرمایه‌گذاری گوگل برای ارتقای راکتورهای هسته‌ای در جورجیا",
+        "title_en": "Georgia Power nuclear reactors to get huge face-lift, paid partly by Google",
+        "summary": [
+            "شرکت گوگل برای تامین برق پاک مورد نیاز مراکز داده خود قرارداد تازه‌ای امضا کرد.",
+            "این طرح بخشی از هزینه‌های ارتقای راکتورهای هسته‌ای را برای سایر مصرف‌کنندگان کاهش می‌دهد."
+        ],
+        "impact": "تامین انرژی پاک برای صنایع فناوری بزرگ با مشارکت بخش خصوصی.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "The Atlanta Journal-Constitution",
+        "url": "https://www.ajc.com/business/2026/09/georgia-power-is-upgrading-its-nuclear-reactors-and-google-is-buying-the-electricity/",
+        "clean_url": "https://www.ajc.com/business/2026/09/georgia-power-is-upgrading-its-nuclear-reactors-and-google-is-buying-the-electricity",
+        "image": "http://www.bing.com/th?id=ONUT.h99jmuT-ehy5o2WCMQnm2Q&pid=News",
+        "timestamp": 1790045940.0
     },
     {
         "id": "d1d2fbb775",
@@ -1169,6 +1313,24 @@
         "timestamp": 1790032320.0
     },
     {
+        "id": "935d70fafa",
+        "title_fa": "پیشتاز بودن دموکرات‌ها در نظرسنجی پیش از انتخابات میان‌دوره‌ای",
+        "title_en": "New poll reveals which political party has a 5-point advantage ahead of November elections",
+        "summary": [
+            "یافته‌های یک نظرسنجی جدید حاکی از برتری حزب دموکرات بر جمهوری‌خواهان است.",
+            "این رقابت در آستانه ماه‌های پایانی تا انتخابات اهمیت ویژه‌ای پیدا کرده است."
+        ],
+        "impact": "تغییر موازنه احتمالی در کنگره آمریکا به نفع دموکرات‌ها.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/09/new-poll-reveals-which-political-party-has-a-5-point-advantage-ahead-of-november-elections.html",
+        "clean_url": "https://www.mlive.com/politics/2026/09/new-poll-reveals-which-political-party-has-a-5-point-advantage-ahead-of-november-elections.html",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790031600.0
+    },
+    {
         "id": "a1d6972060",
         "title_fa": "هزینه ۳۸ میلیارد دلاری جنگ با ایـرآن برای آمریکا",
         "title_en": "International Day Of Peace 2026: Tracking Active Global Conflicts",
@@ -1350,6 +1512,24 @@
         "timestamp": 1790024880.0
     },
     {
+        "id": "beebcefa42",
+        "title_fa": "دیدار شهردار نیویورک و ترامپ پیرامون مسکن و مهاجرت",
+        "title_en": "Mayor Zohran Mamdani, President Trump meet, agree to continue discussion on making NYC more affordable",
+        "summary": [
+            "شهردار نیویورک و رئیس‌جمهور آمریکا برای سومین بار دیدار و گفتگو کردند.",
+            "محور اصلی این نشست همکاری برای توسعه مسکن ارزان‌قیمت و موضوعات مهاجرتی بود."
+        ],
+        "impact": "همکاری مقطعی میان دولت فدرال و مدیریت شهری برای حل بحران‌های داخلی.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-president-trump-meeting-gracie-mansion-nyc/",
+        "clean_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-president-trump-meeting-gracie-mansion-nyc",
+        "image": "http://www.bing.com/th?id=ONUT.1-v4YkRp2ZySk4cJwf8ylg&pid=News",
+        "timestamp": 1790023200.0
+    },
+    {
         "id": "41e7fcbc97",
         "title_fa": "پاسخ اسرائیل به دشمنان؛ درس مقاومت و بازدارندگی",
         "title_en": "Israel's enemies are learning what resilience really means",
@@ -1366,6 +1546,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZRODc3dW5aVEhHUml0ZjM5cUU1QzFvNGVBX2VMeDVDTkVvdXJXb2JuRE1pN1RHODYtUWxXbEp6NlRodmFhbjY1TTIyOUQyS1dIYUdISkdoVlBrYXdfYXRPUVZReEJuLVNJVjNDRHJ4bEJvamwtUHU4UHNMTktucDY4Q18teDl1RVZ3NGdGeVJuTHRYeDJvc19LT1E1QQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790022939.0
+    },
+    {
+        "id": "82177f3f86",
+        "title_fa": "روبیو: تنش خطرناک با رژیم ایران در دستور کار سازمان ملل",
+        "title_en": "Sec Rubio details the 'dangerous' conflict in the Middle East",
+        "summary": [
+            "وزیر خارجه آمریکا به تشریح مواضع واشنگتن در قبال تنش‌های خاورمیانه پیش از سخنرانی ترامپ پرداخت.",
+            "او بار دیگر مواضع تندی علیه ساختار حاکم بر ایران اتخاذ کرد."
+        ],
+        "impact": "آماده‌سازی فضای دیپلماتیک بین‌المللی برای دور جدیدی از فشارها علیه ایران.",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6405410091112",
+        "clean_url": "https://www.foxnews.com/video/6405410091112",
+        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/904ced89-dfb9-4ed8-8753-037374aa5c45/0ec0bbdb-0981-4745-a044-746b81f37cfe/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "timestamp": 1790022660.0
     },
     {
         "id": "aa2b162ffc",
@@ -5278,207 +5476,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/alaska-s-independent-streak-rears-its-head-at-the-wrong-moment-for-gop/ar-AA2cBYl9",
         "image": "http://www.bing.com/th?id=ONUT.F8msDJ0pGDl9zZxGfSO0IQ&pid=News",
         "timestamp": 1789880417.0
-    },
-    {
-        "id": "e4ce96d7ff",
-        "title_fa": "قیمت بالای سوخت و توجیه ترامپ درباره جنگ ایران",
-        "title_en": "Rising gas prices frustrate voters. Trump says it's an 'inexpensive price to pay' for the Iran war",
-        "summary": [
-            "فشار گرانی سوخت بر دوش شهروندان آمریکایی و گلایه رای‌دهندگان از هزینه‌های زندگی افزایش یافته است.",
-            "ترامپ هزینه‌های بالای انرژی را بهای ناچیزی برای رویکرد نظامی و فشار بر حکومت ایران می‌داند."
-        ],
-        "impact": "نارضایتی مصرف‌کنندگان آمریکایی از تورم انرژی ناشی از تنش‌های ژئوپلیتیک.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/money/general/rising-gas-prices-frustrate-voters-trump-says-it-s-an-inexpensive-price-to-pay-for-the-iran-war/ar-AA2cB7Om",
-        "clean_url": "https://www.msn.com/en-us/money/general/rising-gas-prices-frustrate-voters-trump-says-it-s-an-inexpensive-price-to-pay-for-the-iran-war/ar-AA2cB7Om",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789878310.0
-    },
-    {
-        "id": "9eef3f0dbf",
-        "title_fa": "شرط‌گذاری محسن رضایی برای پایان جنگ با آمریکا",
-        "title_en": "What are Iran’s latest conditions to end its war with the US?",
-        "summary": [
-            "دبیر شورای عالی م-ح-ا-ف-ظ-ت م-ل-ی از ارسال شرایط تهران برای پایان جنگ به واسطه قطر خبر داد.",
-            "تهران مدعی است آمادگی بیشتری برای ضربه زدن به منافع آمریکا در منطقه دارد.",
-            "با وجود توقف درگیری‌های تمام‌عیار، فاصله زیادی تا توافق صلح وجود دارد."
-        ],
-        "impact": "تلاش ناکام جمهوری ا-س-لا-م-ی برای دیکته کردن شرایط خود به واشنگتن از طریق واسطه‌های منطقه‌ای.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us",
-        "clean_url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-12.04.05-PM-1-1789895182.jpg?resize=1200%2C630",
-        "timestamp": 1789878120.0
-    },
-    {
-        "id": "5f74c50451",
-        "title_fa": "بازگشایی مدارس و ادعای بازسازی پس از جنگ",
-        "title_en": "US-Iran Conflict: Iran's Interior Ministry announces reopening of schools and new measures for post-war reconstruction",
-        "summary": [
-            "وزارت کشور جمهوری اسلامی ایران از بازگشایی مدارس و اجرای برنامه‌های بازسازی پس از درگیری‌ها خبر داده است.",
-            "این تصمیم تلاش حاکمیت برای بازگرداندن شرایط به حالت عادی پس از تنش‌های نظامی اخیر را نشان می‌دهد."
-        ],
-        "impact": "تلاش برای عادی‌سازی فضای عمومی جامعه پس از فشارهای سنگین نظامی و امنیتی.",
-        "tag": "امنیتی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "news.cgtn.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zbWEzXzhMZ0FIWFJwdEtlajI0RF92QXVaQlVaN2YybnpCS3FPOEdkbWtfbFI4UUdQaXJma0QxU3NOZXFya2RPYTdmRjdfRUNiNkwzdmp3QUE1Z2ppZFZfMUctUjU4UkJFMXlEX0dfczhHR05OUUNIYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zbWEzXzhMZ0FIWFJwdEtlajI0RF92QXVaQlVaN2YybnpCS3FPOEdkbWtfbFI4UUdQaXJma0QxU3NOZXFya2RPYTdmRjdfRUNiNkwzdmp3QUE1Z2ppZFZfMUctUjU4UkJFMXlEX0dfczhHR05OUUNIYw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789877250.0
-    },
-    {
-        "id": "a7461ee7ae",
-        "title_fa": "دیپلماسی شاهزاده رضا پهلوی و چالش‌های نفت ج.ا.ر",
-        "title_en": "محسن بنایی: پیام اصلی سخنرانی شاهزاده رضا پهلوی «امیدبخشی» و نمایش اقتدار مردمی بود",
-        "summary": [
-            "محسن بنایی تاکید کرد سخنرانی شاهزاده رضا پهلوی پیام امید و اقتدار مردمی به همراه داشت.",
-            "دیپلماسی بین‌المللی اپوزیسیون با به رسمیت شناخته شدن توسط برخی کشورها در حال گسترش است.",
-            "ادعای وزیر نفت درباره استمرار بدون توقف صادرات نفت با تردیدهای جدی درباره ظرفیت ذخیره‌سازی روبرو است."
-        ],
-        "impact": "گسترش مشروعیت بین‌المللی جریان گذار همزمان با بحران در پایداری صادرات نفت حکومت.",
-        "tag": "اپوزیسیون",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609200050",
-        "clean_url": "https://www.iranintl.com/202609200050",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1789877220.0
-    },
-    {
-        "id": "0065f0c198",
-        "title_fa": "تهدیدات تکراری سپاه علیه ترامپ و نتانیاهو",
-        "title_en": "مشاور فرمانده سپاه: سرنوشت صدام در انتظار ترامپ، نتانیاهو و حامیان آنها خواهد بود",
-        "summary": [
-            "مشاور فرمانده سپاه در اظهاراتی مصرف‌داخل، مدعی شد سرنوشت صدام در انتظار مقامات آمریکایی و اسرائیلی است.",
-            "مقام‌های نظامی ایران با وجود بحران‌های عمیق داخلی، همچنان بر لفاظی‌های ضدغربی تکیه می‌کنند.",
-            "بحران‌های داخلی مانند کمبود واکسن آنفلوآنزا در سایه هزینه‌کرد برای نیابتی‌ها نادیده گرفته می‌شود."
-        ],
-        "impact": "ادامه جنگ روانی فرماندهان نظامی در حالی که کشور با بحران‌های شدید بهداشتی و اقتصادی دست‌وپنجه نرم می‌کند.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "iranintl",
-        "url": "https://www.iranintl.com/202609208941",
-        "clean_url": "https://www.iranintl.com/202609208941",
-        "image": "http://www.bing.com/th?id=ONUT.qrHD90jmrefAmQvk8WfNuA&pid=News",
-        "timestamp": 1789876920.0
-    },
-    {
-        "id": "e6652ce122",
-        "title_fa": "دستور دادگاه برای افشای اسناد رسوایی‌های فاکس‌نیوز",
-        "title_en": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
-        "summary": [
-            "دادگاهی در دلور روپرت مرداک و مدیران فاکس‌نیوز را به تحویل صدها سند محرمانه ملزم کرد.",
-            "این پرونده به خاطر پیامدهای پرهزینه دروغ‌پراکنی‌های انتخاباتی و رسوایی‌های مدیریتی شبکه جریان دارد."
-        ],
-        "impact": "فشار حقوقی سنگین بر مدیران ارشد رسانه فاکس به دلیل پنهان‌کاری در پرونده‌های جنجالی.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
-        "clean_url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3164x1780+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2F76%2F4338365f49f08c67e670cfe93986%2Fap25234734046444.jpg",
-        "timestamp": 1789876860.0
-    },
-    {
-        "id": "99b4dfa5d0",
-        "title_fa": "نگاهی به پازل نفت و سیاست‌های آتی دـوـنـالـد تـرـاـمـپ",
-        "title_en": "What the market keeps missing about Iran, oil, and Trump's next move",
-        "summary": [
-            "بازارهای جهانی هنوز ابعاد واقعی فشار حداکثری و برنامه‌های اقتصادی دـوـنـالـد تـرـاـمـپ علیه تهران را هضم نکرده‌اند.",
-            "سیاست انرژی دولت آینده آمریکا می‌تواند معادلات صادرات نفت را به کلی دگرگون کند."
-        ],
-        "impact": "تغییرات پیش‌رو در بازار انرژی صدمات جدی به درآمدهای نفتی جـمـهـوـرـی اـسـلاـمـی وارد می‌کند.",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "David Woo Unbound on MSN",
-        "url": "https://www.msn.com/en-us/video/other/what-the-market-keeps-missing-about-iran-oil-and-trumps-next-move/vi-AA2cBQOy?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/video/other/what-the-market-keeps-missing-about-iran-oil-and-trumps-next-move/vi-AA2cBQOy",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789876800.0
-    },
-    {
-        "id": "736da8e827",
-        "title_fa": "پهلوی: ریزش نیروهای رژیم و ورود اپوزیسیون به فاز جدید",
-        "title_en": "Pahlavi: Iran regime continues to erode from within as defections grow",
-        "summary": [
-            "چهره‌های حکومتی و نظامی به صورت پنهانی در حال فاصله گرفتن از بدنه حاکمیت هستند.",
-            "مخالفان جمهوری اسلامی وارد مرحله تازه‌ای از فشار و سازماندهی برای گذر از حکومت شده‌اند."
-        ],
-        "impact": "افزایش شکاف در ساختار قدرت و تقویت روند ریزش نیروهای وابسته به حاکمیت.",
-        "tag": "اپوزیسیون",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/pahlavi-iran-regime-continues-to-erode-from-within-as-defections-grow/ar-AA2cAWlQ",
-        "clean_url": "https://www.msn.com/en-us/politics/government/pahlavi-iran-regime-continues-to-erode-from-within-as-defections-grow/ar-AA2cAWlQ",
-        "image": "http://www.bing.com/th?id=ONUT.ezX_j9a6SnCcRyY1KTwvBQ&pid=News",
-        "timestamp": 1789874899.0
-    },
-    {
-        "id": "02f21757b0",
-        "title_fa": "حمله موشکی حوثی‌ها به ریاض و تصعید جبهه جدید منطقه‌ای",
-        "title_en": "Houthi rebels tried to attack Saudi Arabia with a ballistic missile",
-        "summary": [
-            "شلیک موشک بالستیک توسط حوثی‌های تحت حمایت تهران به سمت پادشاهی سعودی، عبور صریح از خطوط قرمز امنیتی منطقه است.",
-            "این اقدام حمله مستقیم به پایتخت عربستان محسوب می‌شود و تنش‌ها را وارد مرحله حاد نظامی کرده است."
-        ],
-        "impact": "افزایش ناگهانی ریسک‌های امنیتی در خلیج فارس و احتمال پاسخ تلافی‌جویانه سنگین سعودی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "WISN 12 News",
-        "url": "https://www.msn.com/en-us/news/other/houthi-rebels-tried-to-attack-saudi-arabia-with-a-ballistic-missile/ar-AA2czQAv",
-        "clean_url": "https://www.msn.com/en-us/news/other/houthi-rebels-tried-to-attack-saudi-arabia-with-a-ballistic-missile/ar-AA2czQAv",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2czOao.img?w=1876&h=1208&m=4&q=100",
-        "timestamp": 1789874580.0
-    },
-    {
-        "id": "6a3d6f123b",
-        "title_fa": "سیاست‌های اقتصادی ترامپ و سایه سنگین ریسک بر بازار سهام",
-        "title_en": "Will President Trump Crash the Stock Market? History Says This Could Come Next.",
-        "summary": [
-            "استفاده دولت ترامپ از اقتصاد آمریکا به عنوان ابزار فشار ژئوپلیتیک، سطح ریسک را برای سرمایه‌گذاران بالا برده است.",
-            "بازار سهام تاکنون با اتکا به موج هوش مصنوعی توانسته مقاومت کند اما ابهامات سیاست‌گذاری همچنان پابرجا ست."
-        ],
-        "impact": "افزایش نوسانات و تردید در بازارهای مالی به دلیل تصمیمات پیش‌بینی‌نشده اقتصادی.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/president-trump-crash-stock-market-102000000.html",
-        "clean_url": "https://www.aol.com/articles/president-trump-crash-stock-market-102000000.html",
-        "image": "https://hermes.media.static.aol.com/media/2026/09/20/8c6b7a26-2bc6-3fd3-bf5d-8e3f1398ee1f/7950b364-4a2e-4f82-8246-8968b80c3725.jpg",
-        "timestamp": 1789874460.0
-    },
-    {
-        "id": "635d61a8ef",
-        "title_fa": "اخراج مدارس ایران از کویت؛ تشدید انزوای منطقه‌ای تهران",
-        "title_en": "مقام وزارت آموزش پرورش: مجوز مدارس ایرانی فعال در کویت لغو شده است",
-        "summary": [
-            "کویت در اقدامی هماهنگ با سیاست‌های منطقه‌ای، مجوز تمامی مدارس ایرانی را باطل و فعالیت آن‌ها را متوقف کرد.",
-            "پیش از این امارات نیز اقدام مشابهی انجام داده بود که نشان‌دهنده بی‌اعتمادی عمیق کشورهای عربی به فعالیت‌های فرهنگی و آموزشی حکومت ایران است.",
-            "مقامات تهران با فرار به جلو و متهم کردن آمریکا و اسرائیل، تلاش می‌کنند شکست دیپلماتیک خود در خلیج فارس را توجیه کنند."
-        ],
-        "impact": "انسداد کانال‌های نفوذ نرم حکومت ایران در کشورهای عربی همسایه و افزایش فشارهای دیپلماتیک بر تهران.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609204309",
-        "clean_url": "https://www.iranintl.com/202609204309",
-        "image": "http://www.bing.com/th?id=ONUT._zCnc_IOe3hLxmkzHVfeRA&pid=News",
-        "timestamp": 1789874460.0
     }
 ]
