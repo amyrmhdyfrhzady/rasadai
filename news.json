@@ -400,6 +400,25 @@
         "timestamp": 1790010060.0
     },
     {
+        "id": "1d6d0f6c80",
+        "title_fa": "توافق بریتانیا با درخواست سوخت‌رسانی دفاعی عربستان",
+        "title_en": "بریتانیا با درخواست عربستان برای سوخت‌رسانی هوایی دفاعی موافقت کرد",
+        "summary": [
+            "لندن با درخواست ریاض برای ارائه خدمات سوخت‌رسانی هوایی دفاعی موافقت کرد.",
+            "این تصمیم پس از افزایش حملات پهپادی و موشکی حوثی‌های یمن به خاک عربستان گرفته شد.",
+            "نخست‌وزیر بریتانیا هدف از این اقدام را کمک به تثبیت شرایط امنیتی منطقه عنوان کرد."
+        ],
+        "impact": "تقویت پدافند هوایی عربستان و هشدار جدی به گروه‌های نیابتی برای کاهش حملات.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609228703",
+        "clean_url": "https://www.iranintl.com/202609228703",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/aa9e92389534b0e2e247772b63a202138715dc4e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790010000.0
+    },
+    {
         "id": "c6594a8cb6",
         "title_fa": "حضور مسعود پزشکیان در سازمان ملل برای کاستن از فشارها",
         "title_en": "Iran’s president gets rare opportunity to make his case to the world",
@@ -5458,23 +5477,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
         "image": "http://www.bing.com/th?id=ONUT.dktwg6trbbwpHlun1HygrA&pid=News",
         "timestamp": 1789817520.0
-    },
-    {
-        "id": "6f8d999db6",
-        "title_fa": "رونمایی مدیاتک از تراشه ۲ نانومتری؛ خط و نشان برای کوالکام",
-        "title_en": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-        "summary": [
-            "مدیاتک با معرفی تراشه پرچمدار ۲ نانومتری ساخت TSMC، بازار گوشی‌های هوشمند گران‌قیمت را هدف گرفت.",
-            "جهش پردازشی و بهبود مصرف انرژی در تراشه جدید، سهم کوالکام را در بازار پرچمداران اندروییدی به چالش می‌کشد."
-        ],
-        "impact": "تشدید رقابت در بازار تراشه‌ها و احتمال افت قیمت یا تسریع در نوآوری‌های بعدی کوالکام.",
-        "tag": "فناوری",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
-        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
-        "image": "http://www.bing.com/th?id=ONUT.aiUJutTED2kwINfVtseu_w&pid=News",
-        "timestamp": 1789817400.0
     }
 ]
