@@ -399,6 +399,24 @@
         "timestamp": 1790073155.0
     },
     {
+        "id": "7db7d026d0",
+        "title_fa": "شکاف میان نامزدهای جمهوری‌خواه و ترامپ بر سر پرونده ایـران",
+        "title_en": "Republican candidates are breaking with Trump on Iran as midterms loom",
+        "summary": [
+            "نظرسنجی‌های جدید نشان می‌دهد تنها یک نفر از هر چهار آمریکایی از درگیری نظامی حمایت می‌کند.",
+            "نامزدهای جمهوری‌خواه در ایالت‌های کلیدی خواستار پایان سریع درگیری‌ها برخلاف رویکرد تند ترامپ شده‌اند."
+        ],
+        "impact": "فشار افکار عمومی آمریکا بر سیاستمداران برای دوری از تنش‌های نظامی پرهزینه.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/republican-candidates-are-breaking-with-trump-on-iran-as-midterms-loom/ar-AA2cLSo6",
+        "clean_url": "https://www.msn.com/en-us/news/other/republican-candidates-are-breaking-with-trump-on-iran-as-midterms-loom/ar-AA2cLSo6",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790072806.0
+    },
+    {
         "id": "6f731d7128",
         "title_fa": "تاریخچه تلاش ج*هوری اس*امی برای دستیابی به بمب اتمی",
         "title_en": "A History of Iran and the Bomb",
@@ -415,6 +433,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qOGpRNXc4ZWV1WFBFZW5VVy1JLWJjajZ0cDc4OVpSdEN4Vm15Nmg0T09vNjZMdUZwYWdtOS0xN3hqVEJHM1FYUzdLVDNmODlpak1nbk9pZktmWVV2SUQya2hERld1cjI5OFdJNEhmWVRBUjh1Z08w",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790072569.0
+    },
+    {
+        "id": "6e2c9da078",
+        "title_fa": "طرح جدید مجلس برای توقیف شناورها در تنگه هرمز",
+        "title_en": "کمیسیون امنیت ملی مجلس: شناورهای متخلف توقیف و ۲۰ درصد محموله آنها اخذ می‌شود",
+        "summary": [
+            "کمیسیون امنیت ملی مجلس طرحی را تصویب کرده که به موجب آن شناورهای متخلف در تنگه هرمز توقیف شده و ۲۰ درصد ارزش محموله آن‌ها ضبط می‌شود.",
+            "این اقدام تنش‌زا در حالی دنبال می‌شود که حاکمیت به دنبال افزایش فشار بر مسیرهای حیاتی کشتیرانی است.",
+            "قوه قضاییه شعب ویژه‌ای برای اجرای این احکام تشکیل می‌دهد و متخلفان داخلی نیز با مجازات سنگین روبه‌رو خواهند شد."
+        ],
+        "impact": "افزایش ریسک کشتیرانی تجاری در خلیج فارس و تشدید تنش‌های بین‌المللی بر سر تردد دریایی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609229630",
+        "clean_url": "https://www.iranintl.com/202609229630",
+        "image": "http://www.bing.com/th?id=ONUT.YOdathwc_eLoHh36y9G2PA&pid=News",
+        "timestamp": 1790072400.0
     },
     {
         "id": "92816e4c11",
@@ -5443,41 +5480,5 @@
         "clean_url": "https://www.iranintl.com/en/202609200747",
         "image": "http://www.bing.com/th?id=ONUT.254JR3fv2mFSNtzdlbmWiQ&pid=News",
         "timestamp": 1789906380.0
-    },
-    {
-        "id": "38ac9bf427",
-        "title_fa": "تهدید هرمز توسط رئیس مجلس ج.ا با اهرم نفت",
-        "title_en": "Iran parliament speaker says Iran’s hand ‘on the lever’ in Hormuz",
-        "summary": [
-            "محمدباقر قالیباف در واکنش به گزارش جی‌پنگ درباره غیرقابل پیش‌بینی بودن پایان درگیری‌ها، مدعی شد دست تهران روی اهرم تنگه هرمز است.",
-            "انتشار تصویری تحت عنوان امپراتوری شرودینگر نشان‌دهنده تلاش مقامات برای بزرگ‌نمایی توان بازدارندگی در بحران‌های اقتصادی و نظامی است."
-        ],
-        "impact": "افزایش ریسک بازار انرژی و تشدید التهاب در ترانزیت نفت خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609204254",
-        "clean_url": "https://www.iranintl.com/en/202609204254",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1789905360.0
-    },
-    {
-        "id": "53a44757f6",
-        "title_fa": "بحران کمبود مواد اولیه؛ تولید صنعتی در سراشیبی سقوط",
-        "title_en": "Iran factories face deepening raw material shortages",
-        "summary": [
-            "شاخص موجودی مواد اولیه کارخانه‌ها به شدت افت کرده و بخش تولید با رکود عمیقی دست‌وپنجه نرم می‌کند.",
-            "اختلال در زنجیره تأمین و آسیب‌های ناشی از جنگ، چرخ صنایع داخلی را تقریباً متوقف کرده است."
-        ],
-        "impact": "فلج شدن کامل بخش تولید و افزایش بی‌سابقه نرخ بیکاری در ماه‌های آینده.",
-        "tag": "تولید",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609205123",
-        "clean_url": "https://www.iranintl.com/en/202609205123",
-        "image": "http://www.bing.com/th?id=ONUT.wTUIDk_ao31cYG1B2pGaLQ&pid=News",
-        "timestamp": 1789904040.0
     }
 ]
