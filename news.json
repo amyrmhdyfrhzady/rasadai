@@ -345,6 +345,24 @@
         "timestamp": 1790075277.0
     },
     {
+        "id": "127dd5beb8",
+        "title_fa": "تناقض در سخنان ترامپ؛ ادعای صلح و تهدید به نابودی",
+        "title_en": "Trump talks peace, threatens annihilation of Iran in UNGA speech",
+        "summary": [
+            "ترامپ در مجمع عمومی سازمان ملل با چرخشی آشکار هم‌زمان از صلح دم زد و هم تهدید به اقدام نظامی کرد.",
+            "این رویکرد دوگانه نشان می‌دهد فشارها بر حکومت ج·ا·ی ادامه خواهد داشت."
+        ],
+        "impact": "افزایش نااطمینانی در بازارهای مالی و بالا رفتن ریسک تنش نظامی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/09/22/trump-iran-annihilation-unga-speech-01087902",
+        "clean_url": "https://www.politico.com/news/2026/09/22/trump-iran-annihilation-unga-speech-01087902",
+        "image": "http://www.bing.com/th?id=ONUT.ke3W0rsrN0DwjpB5EGv91A&pid=News",
+        "timestamp": 1790075160.0
+    },
+    {
         "id": "8bf78081cd",
         "title_fa": "میانجی‌گری توکیو برای مذاکره واشنگتن و تهران",
         "title_en": "Japan seeks US-Iran talks to end Mideast conflict",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.iranintl.com/en/202609205123",
         "image": "http://www.bing.com/th?id=ONUT.wTUIDk_ao31cYG1B2pGaLQ&pid=News",
         "timestamp": 1789904040.0
-    },
-    {
-        "id": "44a2c1b8bf",
-        "title_fa": "سوژه شدن کاخ سفید به خاطر ادعای عجیب درباره بسته‌بندی فست‌فود",
-        "title_en": "White House Gets Cooked By Critics Over This 'Unspeakably Pathetic' Trump Praise",
-        "summary": [
-            "کاخ سفید در اقدامی عجیب بازگشت بسته‌بندی‌های قدیمی فست‌فود وندیز را به دستاوردهای ترامپ نسبت داد.",
-            "این ادعا با واکنش منفی کاربران و برچسب‌های اصلاحی در شبکه‌های اجتماعی مواجه شد."
-        ],
-        "impact": "این حاشیه‌سازی‌ها دست‌مایه تمسخر تیم رسانه‌ای دولت آمریکا شده است.",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": -0.5,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-white-house-wendys-yellow-packaging_n_6aafb7a3e4b000f12fc764e2",
-        "clean_url": "https://www.huffpost.com/entry/trump-white-house-wendys-yellow-packaging_n_6aafb7a3e4b000f12fc764e2",
-        "image": "http://www.bing.com/th?id=ONUT.Q0k8j1a-iSlizERAR0To9Q&pid=News",
-        "timestamp": 1789903740.0
     }
 ]
