@@ -36,6 +36,24 @@
         "timestamp": 1790046960.0
     },
     {
+        "id": "ce92d1a35c",
+        "title_fa": "رایزنی وزیر خارجه ج.ا با دبیرکل سازمان ملل در نیویورک",
+        "title_en": "Araghchi speaks by phone with UN chief after arriving in New York",
+        "summary": [
+            "عباس عراقچی بلافاصله پس از ورود به نیویورک با آنتونیو گوترش تلفنی گفتگو کرد.",
+            "محور این تماس، دستورکار مجمع عمومی سازمان ملل و تحولات صلح و امنیت بین‌المللی اعلام شد."
+        ],
+        "impact": "تلاش دیپلماتیک دستگاه خارجه ج.ا برای کاهش فشارهای بین‌المللی در حاشیه سازمان ملل.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609225891",
+        "clean_url": "https://www.iranintl.com/en/202609225891",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790046360.0
+    },
+    {
         "id": "b3187a2e36",
         "title_fa": "جهش ۱۰ درصدی قیمت نفت با بوی باروت در منطقه",
         "title_en": "Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/refineries-are-now-the-main-chokepoint-for-global-energy-supplies/ar-AA2cA7YX",
         "image": "http://www.bing.com/th?id=ONUT.GkevXZFIPlLbS_YvJcLMWg&pid=News",
         "timestamp": 1789825980.0
-    },
-    {
-        "id": "fe531de61b",
-        "title_fa": "حمله هدفمند اسرائیل به یک خودرو در شهر غزه",
-        "title_en": "Palestinian media reports two killed, several hurt in Israeli strike in Gaza City",
-        "summary": [
-            "جنگنده‌های اسرائیلی یک دستگاه خودرو را در محله شیخ رضوان هدف قرار دادند که دست‌کم دو کشته برجای گذاشت.",
-            "عملیات نشان می‌دهد ارتش اسرائیل همچنان راهبرد ترور هدفمند سرپُل‌های میدانی در شمال باریکه را ادامه می‌دهد."
-        ],
-        "impact": "تداوم حملات نقطه‌ای و تشدید عملیات هوایی در عمق مناطق شهری غزه.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/palestinian-media-reports-two-killed-several-hurt-in-israeli-strike-in-gaza-city/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-media-reports-two-killed-several-hurt-in-israeli-strike-in-gaza-city",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789825380.0
     }
 ]
