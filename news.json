@@ -1363,6 +1363,25 @@
         "timestamp": 1790059610.0
     },
     {
+        "id": "2ac8e753c2",
+        "title_fa": "لغو پروازهای بغداد و مسقط همزمان با فشار واشنگتن",
+        "title_en": "Iran cancels Baghdad, Muscat flights as regional restrictions tighten",
+        "summary": [
+            "سازمان هواپیمایی ج.م از توقف پروازهای تهران به مقصد بغداد و مسقط خبر داد.",
+            "این تصمیم تحت فشار شدید ایالات متحده برای قطع ارتباط خطوط هوایی ای-ران با فرودگاه‌های منطقه اجرایی شده است.",
+            "مقام‌های هوانوردی تلاش دارند مسافران بغداد را به فرودگاه نجف منتقل کنند."
+        ],
+        "impact": "انزوای بیشتر شبکه حمل‌ونقل هوایی کشور و افزایش مشکلات جابجایی مسافران خارجی",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609228176",
+        "clean_url": "https://www.iranintl.com/en/202609228176",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/dc64521e838b528c3a8b7f556b24805cad30320e-4128x2322.jpg?rect=699,569,2586,1358&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790059200.0
+    },
+    {
         "id": "63b041e8db",
         "title_fa": "پناه بردن ع*راقچی به تیم حفاظتی آمریکا در نیویورک",
         "title_en": "درخواست عراقچی برای حفاظت از سوی دولت آمریکا تایید شد",
@@ -5457,23 +5476,5 @@
         "clean_url": "https://www.iranintl.com/202609201486",
         "image": "http://www.bing.com/th?id=ONUT.-GfUBFJalOykTmVGO9BXgg&pid=News",
         "timestamp": 1789916160.0
-    },
-    {
-        "id": "4a92a5a3f8",
-        "title_fa": "درگیری مسلحانه مامور مهاجرت در تگزاس",
-        "title_en": "Police report ICE-involved shooting in Austin, Texas",
-        "summary": [
-            "یک مامور فدرال مهاجرت در آستین تگزاس به سوی یک فرد تیراندازی کرد.",
-            "جزئیات دقیقی از انگیزه این درگیری و وضعیت فرد زخمی هنوز منتشر نشده است."
-        ],
-        "impact": "افزایش تنش‌ها پیرامون عملکرد نیروهای امنیتی و مهاجرتی در ایالات متحده.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/public-safety-and-emergencies/general/police-report-ice-involved-shooting-in-austin-texas/ar-AA2cCy6P",
-        "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/general/police-report-ice-involved-shooting-in-austin-texas/ar-AA2cCy6P",
-        "image": "http://www.bing.com/th?id=ONUT.7i6S_xoovEqR2RWK85D3Dg&pid=News",
-        "timestamp": 1789915064.0
     }
 ]
