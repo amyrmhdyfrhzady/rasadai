@@ -327,6 +327,25 @@
         "timestamp": 1790091034.0
     },
     {
+        "id": "43a1e906ca",
+        "title_fa": "فشار جمهوری‌خواهان برای ممنوعیت صادرات گازوئیل در پی بحران انرژی",
+        "title_en": "نیویورک‌تایمز: برخی جمهوری‌خواهان در کنگره آمریکا خواستار ممنوعیت صادرات گازوئیل شده‌اند",
+        "summary": [
+            "قیمت گازوئیل در آمریکا به دلیل تنش‌های نظامی و کمبود عرضه جهانی رکوردشکنی کرد.",
+            "جمهوری‌خواهان کنگره خواستار توقف صادرات گازوئیل برای کنترل بازار داخلی شدند.",
+            "دونالد ترامپ تأیید کرد که دولت در حال بررسی این ممنوعیت برای حمایت از کشاورزان و رانندگان است."
+        ],
+        "impact": "افزایش بهای سوخت به بحرانی سیاسی و اقتصادی برای دولت آمریکا تبدیل شده است.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609227548",
+        "clean_url": "https://www.iranintl.com/202609227548",
+        "image": "http://www.bing.com/th?id=ONUT.E8ztq_z8auBkHT2k_zFOpw&pid=News",
+        "timestamp": 1790090400.0
+    },
+    {
         "id": "9fdbb6583e",
         "title_fa": "فشار ترامپ برای توقف صادرات گازوئیل در آستانه انتخابات",
         "title_en": "حمایت ترامپ از ممنوعیت صادرات گازوئیل؛ مقام‌های انرژی درباره پیامدهای احتمالی هشدار دادند",
@@ -5461,23 +5480,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789935219.0
-    },
-    {
-        "id": "60a1a512f3",
-        "title_fa": "انفجار در نزدیکی پایگاه آمریکا در اربیل؛ مانور نظامی یا هجوم پهپادی؟",
-        "title_en": "BREAKING: Iran Bombs US-led Coalition Base? Drone Intercepted Near Erbil Airport | Details",
-        "summary": [
-            "گزارش‌های اولیه از سرنگونی پهپاد در اطراف فرودگاه اربیل، بار دیگر حساسیت بالای مقر نیروهای آمریکایی در برابر تحرکات نیابتی را برجسته کرد.",
-            "اعلام سریع مقامات اقلیم مبنی بر «تمرین نظامی بودن انفجارها»، تلاشی برای مهار فوری تنش و جلوگیری از پاسخ تلافی‌جویانه واشنگتن است."
-        ],
-        "impact": "تداوم هشدار باش کامل در پایگاه‌های آمریکا و ریسک بالای درگیری ناگهانی در اقلیم کردستان.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/breaking-iran-bombs-us-led-coalition-base-drone-intercepted-near-erbil-airport-details/videoshow/134379764.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/breaking-iran-bombs-us-led-coalition-base-drone-intercepted-near-erbil-airport-details/videoshow/134379764.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134379764,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789934040.0
     }
 ]
