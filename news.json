@@ -345,6 +345,25 @@
         "timestamp": 1790076120.0
     },
     {
+        "id": "784183d19e",
+        "title_fa": "ترک‌خوردن حمایت جمهوری‌خواهان از رویکرد ترامپ در مناقشه",
+        "title_en": "Republican support for Trump’s handling of war in Iran shows cracks in new CNN poll",
+        "summary": [
+            "نظرسنجی جدید سی‌ان‌ان نشان می‌دهد مخالفت شهروندان آمریکایی با درگیری‌ها افزایش یافته است.",
+            "نزدیک به دو سوم پرسش‌شوندگان معتقدند ایالات متحده در این مناقشه دست بالا را ندارد.",
+            "بخش بزرگی از حامیان ترامپ بر این باورند که او اقدامات کافی برای پایان دادن به وضعیت موجود انجام نداده است."
+        ],
+        "impact": "افزایش نارضایتی عمومی می‌تواند فشار سیاسی بر دولت آمریکا برای تغییر استراتژی را تشدید کند.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/republican-support-for-trump-s-handling-of-war-in-iran-shows-cracks-in-new-cnn-poll/ar-AA2cJnGd?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/republican-support-for-trump-s-handling-of-war-in-iran-shows-cracks-in-new-cnn-poll/ar-AA2cJnGd",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790075460.0
+    },
+    {
         "id": "05b032d9c5",
         "title_fa": "هشدار جی‌دی ونس درباره ضربات نظامی به اتمی ج.ا",
         "title_en": "JD Vance Says US Strikes Will Keep Iran From Rebuilding Its Nuclear Program",
@@ -5459,23 +5478,5 @@
         "clean_url": "https://www.iranintl.com/en/202609207151",
         "image": "http://www.bing.com/th?id=ONUT.R3l9HzT4JTdTCBjtsts6lw&pid=News",
         "timestamp": 1789909860.0
-    },
-    {
-        "id": "aea5ad3d77",
-        "title_fa": "سفر ع-راقچی به نیویورک برای شرکت در مجمع عمومی",
-        "title_en": "رسانه وابسته به سپاه: عباس عراقچی برای حضور در سازمان ملل راهی نیویورک شد",
-        "summary": [
-            "وزیر خارجه دولت ج-مهوری ا-سلامی در رأس یک هیأت دیپلماتیک و با توقفی کوتاه در قطر، تهران را به مقصد نیویورک ترک کرد.",
-            "این سفر همزمان با تحولات دیپلماتیک فشرده و در حاشیه نشست مجمع عمومی سازمان ملل انجام می‌شود."
-        ],
-        "impact": "تلاش دستگاه دیپلماسی حکومت برای کاهش فشارهای بین‌المللی در حاشیه نشست نیویورک.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609203126",
-        "clean_url": "https://www.iranintl.com/202609203126",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/ebdf237527e15156a05cf66eac24146bb949aa95-800x557.jpg?rect=0,174,563,296&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1789909020.0
     }
 ]
