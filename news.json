@@ -291,6 +291,25 @@
         "timestamp": 1790091034.0
     },
     {
+        "id": "307d6213f0",
+        "title_fa": "پشت‌پرده تماس‌های نیویورک؛ ترامپ از توافق با تـهـران می‌گوید",
+        "title_en": "Trump sees ‘momentum’ for Iran deal after New York meetings",
+        "summary": [
+            "دونالد ترامپ از شکل‌گیری جوی تازه برای توافق با جـمـهـوری اسـلامـی خبر داد و مذاکرات نمایندگانش با وزیر خارجه تـهـران را مثبت ارزیابی کرد.",
+            "تنگه هرمز و پایان جنگ، محور اصلی این رایزنی‌ها بوده که با میانجگری کشورهای منطقه در نیویورک پیگیری شده است.",
+            "تـهـران شروط خود را از طریق این کانال ارتباطی به تیم ترامپ منتقل کرده و فشارها وارد فاز جدیدی شده است."
+        ],
+        "impact": "باز شدن کانال‌های جدی دیپلماتیک زیر سایه تهدیدهای نظامی و فشارهای اقتصادی.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609225547",
+        "clean_url": "https://www.iranintl.com/en/202609225547",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/9e000e8bcb87d7aeae2e5e234cb2c5724896fe75-4045x2667.jpg?rect=0,272,4045,2124&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790089860.0
+    },
+    {
         "id": "9fd9ef22ff",
         "title_fa": "خط و نشان ترامپ: نابودی یا معامله پس از انتخابات",
         "title_en": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections",
@@ -5462,23 +5481,5 @@
         "clean_url": "https://www.iranintl.com/202609214100",
         "image": "http://www.bing.com/th?id=ONUT.kLO4PINajyhCOXTJ9J9q2w&pid=News",
         "timestamp": 1789923600.0
-    },
-    {
-        "id": "d4cb61e16e",
-        "title_fa": "سه سناریوی میز کار ترامپ برای مقابله با ج.ا",
-        "title_en": "واشینگتن تایمز: ترامپ سه گزینه را برای ادامه جنگ با جمهوری اسلامی بررسی می‌کند",
-        "summary": [
-            "کاخ سفید سه گزینه شامل حمله نظامی گسترده، فشار اقتصادی فرسایشی و یا توافق سیاسی را روی میز دارد.",
-            "بحران در دریای سرخ و اختلال در مسیرهای انتقال انرژی، فشارهای بین‌المللی بر واشینگتن را تشدید کرده است."
-        ],
-        "impact": "انتخاب نهایی ترامپ میان حمله یا توافق، سرنوشت اقتصادی و امنیتی منطقه را به شدت تغییر می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609206485",
-        "clean_url": "https://www.iranintl.com/202609206485",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1789922580.0
     }
 ]
