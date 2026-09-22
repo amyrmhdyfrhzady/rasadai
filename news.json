@@ -1,5 +1,23 @@
 [
     {
+        "id": "0f6561c4c0",
+        "title_fa": "گزارش سازمان ملل درباره جنایات جـ.ـمهوری اسـ.ـلامی و آمـ.ـریکا",
+        "title_en": "UN says Iran committed crimes against humanity, US committed war crimes",
+        "summary": [
+            "سازمان ملل متحد رسماً اعلام کرد که حـ.ـاکمیت ایـ.ـران مرتکب جنایت علیه بشریت شده است.",
+            "این نهاد بین‌المللی همچنین ایالات متحده را به ارتکاب جنایات جنگی متهم کرد."
+        ],
+        "impact": "افزایش فشارهای حقوق بشری و سیاسی بر تهران در مجامع بین‌المللی.",
+        "tag": "حقوق بشر",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vOHFIV2ZjYkFHX1Rxc0ZKX21RLTBTN2daTnhkRzRSalBuWlMtdk5MTWh2VlM3bk1KbHVucUVGZkRpdU96NldEUzBfdWpHYTF3SGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vOHFIV2ZjYkFHX1Rxc0ZKX21RLTBTN2daTnhkRzRSalBuWlMtdk5MTWh2VlM3bk1KbHVucUVGZkRpdU96NldEUzBfdWpHYTF3SGc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790034060.0
+    },
+    {
         "id": "3a5bfe486e",
         "title_fa": "فشار فرانسه بر حوثی‌ها برای توقف تنش‌های دریایی",
         "title_en": "Houthis must stop escalation and commit to peace, France's UN envoy tells Arab News",
@@ -5457,24 +5475,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-smoke-seen-near-riyadh-airport-after-houthis-vowed-revenge/ar-AA2ct6HW",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789803722.0
-    },
-    {
-        "id": "f4417d0b93",
-        "title_fa": "به صدا درآمدن آژیر خطر و وقوع انفجار در ریاض",
-        "title_en": "Saudi Arabia issues first alert in the capital since escalation, and other...",
-        "summary": [
-            "سامانه‌های هشدار پدافندی عربستان در پی ورود اهداف متخاصم به آسمان ریاض فعال شدند و شاهدان از برخاستن دود در نزدیکی فرودگاه پایتخت خبر دادند.",
-            "هم‌زمان با آتش‌باری‌های منطقه‌ای، تهران شروط مدنظر خود برای آتش‌بس را از کانال قطر به واشینگتن فرستاده است.",
-            "هم‌زمانی سیگنال‌های دیپلماتیک با حملات هوایی نشان‌دهنده تلاش برای تحمیل شروط با ابزار فشار نظامی است."
-        ],
-        "impact": "کشیده شدن مجدد عمق پایتخت سعودی به دایره اصابت‌های پهپادی و افزایش تنش در مذاکرات پشت‌پرده.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Associated Press",
-        "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
-        "image": "https://media.zenfs.com/en/ap.org/cee94b7f9c694f90dda2330a0eedaafc.jpg",
-        "timestamp": 1789800657.0
     }
 ]
