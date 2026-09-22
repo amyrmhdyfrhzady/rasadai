@@ -636,6 +636,24 @@
         "timestamp": 1790010060.0
     },
     {
+        "id": "3e8c116dcb",
+        "title_fa": "ادعای شبیه‌سازی حمله به ناو آمریکایی توسط س‌پاه",
+        "title_en": "سخنگوی سپاه پاسداران: دائما سلاح‌های جدید تولید و آزمایش می‌کنیم",
+        "summary": [
+            "ادعای آزمایش سلاح جدید روی ناو آمریکایی، بیش از آنکه توان عملیاتی واقعی باشد، مانور تبلیغاتی برای مصرف داخلی و ترمیم روحیه نیروهاست.",
+            "س‌پاه با تکرار تهدیدات موشکی و دریایی، تلاش می‌کند در برابر فشارهای روزافزون بین‌المللی خط بازدارندگی روانی ایجاد کند."
+        ],
+        "impact": "تشدید تنش کلامی در خلیج فارس و افزایش حساسیت ناوگان دریایی آمریکا در منطقه.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609222307",
+        "clean_url": "https://www.iranintl.com/202609222307",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790010000.0
+    },
+    {
         "id": "6f2075c840",
         "title_fa": "خط و نشان مجلس برای مذاکره با ترامپ",
         "title_en": "یک نماینده مجلس: هر مذاکره مستقیم پزشکیان با ترامپ به عنوان «قاتل رهبر شهیدمان» مردود است",
@@ -5458,22 +5476,5 @@
         "clean_url": "https://www.daily-sun.com/world/898677",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789833120.0
-    },
-    {
-        "id": "f5b284b7fb",
-        "title_fa": "اجرای حکم اعدام به اتهام جاسوسی موشکی",
-        "title_en": "Iran executes man accused of providing missile info to Israel: judiciary",
-        "summary": [
-            "دستگاه قضایی جـمهوری اسـلامی فردی را به اتهام انتقال اطلاعات موشکی به اسرائیل اعدام کرد."
-        ],
-        "impact": "افزایش فشار امنیتی و برخورد با پرونده‌های نفوذ در لایه‌های حساس نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -1.0,
-        "source": "アラブニュース",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1NzeUNiTy1qdFdDME1wcWN1MWtVdzBkUlExNnUxeWxKNWJKSE1ZMm1tdm9RMzlwNmpvdHdMX2owTjVFTVVQemJvVzZCcGVCVzVRakRsZXNWRFRkSHVROEZzeDd3Y19OYWZ3TDg4U0xScFVvUjBIMUdnelNhNTBEd1hHUXAyR0NFeHNNQjR2U29RYVRwUWZNaDZ5NHpZaUJhSERWQzJ3THFYMkxWbUoxemZ3YUlxcHJCQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1NzeUNiTy1qdFdDME1wcWN1MWtVdzBkUlExNnUxeWxKNWJKSE1ZMm1tdm9RMzlwNmpvdHdMX2owTjVFTVVQemJvVzZCcGVCVzVRakRsZXNWRFRkSHVROEZzeDd3Y19OYWZ3TDg4U0xScFVvUjBIMUdnelNhNTBEd1hHUXAyR0NFeHNNQjR2U29RYVRwUWZNaDZ5NHpZaUJhSERWQzJ3THFYMkxWbUoxemZ3YUlxcHJCQnc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789832309.0
     }
 ]
