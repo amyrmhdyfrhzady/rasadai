@@ -1,5 +1,23 @@
 [
     {
+        "id": "49379f0078",
+        "title_fa": "مصاحبه اختصاصی فرح پهلوی با نشریه فرانسوی",
+        "title_en": "Point de vue n° 4075",
+        "summary": [
+            "فرح پهلوی در گفتگویی اختصاصی با نشریه فرانسوی پوان دو ویو بر پیوند عمیق خود با ایران تاکید کرد.",
+            "این مصاحبه بازتاب گسترده‌ای در رسانه‌های اروپایی داشته و تمرکز ویژه‌ای بر وضعیت ایران دارد."
+        ],
+        "impact": "بازتاب صدای مردم ایران در رسانه‌های معتبر بین‌المللی و زنده نگه داشتن نام ایران در جهان.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Point de Vue",
+        "url": "https://www.pointdevue.fr/boutique/produit/point-de-vue-n-4075",
+        "clean_url": "https://www.pointdevue.fr/boutique/produit/point-de-vue-n-4075",
+        "image": "https://www.pointdevue.fr/img/logo.svg",
+        "timestamp": 1790066826.612567
+    },
+    {
         "id": "93aa5027f5",
         "title_fa": "عراقچی: به اسرائیل آزادی عمل زیادی داده شده است",
         "title_en": "Israel given too much freedom, Iran's Araghchi claims on arrival to NY for UNGA",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.theguardian.com/us-news",
         "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
         "timestamp": 1789839780.0
-    },
-    {
-        "id": "9ce2c58f69",
-        "title_fa": "سیگنال هسته‌ای تهران: رفتار واشنگتن مسیر آینده را تعیین می‌کند",
-        "title_en": "Shafaq News..Iran: US conduct could shape nuclear future",
-        "summary": [
-            "مقامات تهران آینده برنامه هسته‌ای را صراحتاً به رویکرد تیم ترامپ و نحوه مواجهه آمریکا با تحریم‌ها مشروط کردند.",
-            "این موضع‌گیری در واقع تلاشی دیپلماتیک برای ایجاد بازدارندگی پیش از فعال شدن مجدد راهبرد فشار حداکثری است."
-        ],
-        "impact": "تداوم رکود و بلاتکلیفی شدید در بازارهای ارز و طلا تا زمان روشن شدن استراتژی عملیاتی کاخ سفید.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "شفق نيوز",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTF0dUlQVERNOVZ0NVYxMExHbmJTek9PV3hDc2pWclQ2a3B5Y0FWX1BscFlTR2dCcjFYMnNsRDRnamU2UExvbDhZdTluWUhEVnZfZVpPMWhFcDRKbXd2aUpsYllnWWdwRnFZc0ZhdURaT1FHam0tS25BcXR5VjVOdEJR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTF0dUlQVERNOVZ0NVYxMExHbmJTek9PV3hDc2pWclQ2a3B5Y0FWX1BscFlTR2dCcjFYMnNsRDRnamU2UExvbDhZdTluWUhEVnZfZVpPMWhFcDRKbXd2aUpsYllnWWdwRnFZc0ZhdURaT1FHam0tS25BcXR5VjVOdEJR",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789839285.0
     }
 ]
