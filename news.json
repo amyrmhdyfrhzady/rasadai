@@ -1,5 +1,23 @@
 [
     {
+        "id": "6d4fa76468",
+        "title_fa": "محورهای کلیدی ترامپ، نتانیاهو و پرونده ایران در سازمان ملل",
+        "title_en": "Trump, Netanyahu, and Iran Take Center Stage at UN",
+        "summary": [
+            "پرونده جمهوری اسلامی و تحرکات منطقه‌ای آن به یکی از موضوعات اصلی و کانونی در سازمان ملل تبدیل شده است.",
+            "مواضع مشترک ترامپ و نتانیاهو فشارها بر تهران را وارد فاز تازه‌ای می‌کند."
+        ],
+        "impact": "تشدید فشارهای دیپلماتیک و امنیتی بر حاکمیت در مجامع بین‌المللی.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "israelhayom.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWlOOGhTZi1UM3ZRSWZ6Y2trZ3I4dGk5bUFxakhDR1Vha2dJeEdlSUVYdnpwb3M2Q1l1WUE2SmlrWGgwQjN5dUdjYUhQZmF2MDlieW9aQzU3VlBzZGt6SC1LTWF4TVJPRDQ1WHNWWS03X1BwdzJVa29Sc0JjV0pPclFsYVBGWGVPd05rRVNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWlOOGhTZi1UM3ZRSWZ6Y2trZ3I4dGk5bUFxakhDR1Vha2dJeEdlSUVYdnpwb3M2Q1l1WUE2SmlrWGgwQjN5dUdjYUhQZmF2MDlieW9aQzU3VlBzZGt6SC1LTWF4TVJPRDQ1WHNWWS03X1BwdzJVa29Sc0JjV0pPclFsYVBGWGVPd05rRVNn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790053688.0
+    },
+    {
         "id": "bcb74ab176",
         "title_fa": "موضع قاطع معاون رئیس‌جمهور آمریکا درباره اتمی نشدن ج-مهوری اس-لامی",
         "title_en": "US Vice President: Iran Cannot Build a Nuclear Weapon...",
@@ -325,6 +343,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVItdUQtUWlJODZfM1lrOHFGQ3BkTEdodGNkRV9RQkViTTdMQTNHUHhmeXZxZlNydkJXbTE4amE1QVhvNDZ5ckNXek9Gckc0ZFc3dllMUWFfZC0xME5fdWZTYmtGSnN2Wk0wOWJ0OWxTeTRpLTdZbnB1MkpzUjdoenJ1Vk85NGRZSGw2TUtTejVvb2VyMi1JY09ScTVvNWVqcTdEVEhmVm0",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790030160.0
+    },
+    {
+        "id": "815551c6a2",
+        "title_fa": "فشار ترامپ به زلنسکی برای توقف حملات به پالایشگاه‌های روسیه",
+        "title_en": "Trump Blasts Zelensky Over Russian Refinery Attacks As Diesel Panic Takes Over America?",
+        "summary": [
+            "دونالد ترامپ در تماس با ولودیمیر زلنسکی خواستار توقف حملات پهپادی اوکراین به تأسیسات نفتی روسیه شد.",
+            "دلیل اصلی این هشدار، ترس از کمبود گازوئیل و افزایش قیمت سوخت در داخل آمریکا عنوان شده است.",
+            "کی‌یف همچنان بر ادامه این حملات به عنوان ابزاری برای فشار بر مسکو اصرار دارد."
+        ],
+        "impact": "افزایش تنش پشت پرده میان واشنگتن و کی‌یف بر سر استراتژی‌های جنگی انرژی.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/international/trump-blasts-zelensky-over-russian-refinery-attacks-as-diesel-panic-takes-over-america/videoshow/134394113.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/international/trump-blasts-zelensky-over-russian-refinery-attacks-as-diesel-panic-takes-over-america/videoshow/134394113.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134394113,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1790029080.0
     },
     {
         "id": "50bc171563",
@@ -5437,42 +5474,5 @@
         "clean_url": "https://www.iranintl.com/202609191641",
         "image": "http://www.bing.com/th?id=ONUT.oS-X4SKFICXkyxVL8zkolQ&pid=News",
         "timestamp": 1789831380.0
-    },
-    {
-        "id": "e259af0769",
-        "title_fa": "خطر نابودی چاه‌های نفت ایران به دلیل تحریم و توقف تولید",
-        "title_en": "Will shutdowns forced by US blockade damage Iran’s oil wells?",
-        "summary": [
-            "کاهش شدید بارگیری نفت، جـ....هـ....وری اسـ....لامی را به سمت کاهش اجباری تولید کشانده است.",
-            "برخلاف ادعای وزیر نفت، بستن چاه‌ها آسیب جبران‌ناپذیری به مخازن فرسوده و فشار آن‌ها وارد می‌کند.",
-            "توقف استخراج تنها به معنای از دست رفتن فروش نیست، بلکه هزینه سنگینی برای راهکارهای فنی مجدد دارد."
-        ],
-        "impact": "آسیب ساختاری به مخازن نفت، ظرفیت صادراتی کشور را پس از رفع تحریم‌ها نیز به شدت محدود می‌کند.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609190748",
-        "clean_url": "https://www.iranintl.com/en/202609190748",
-        "image": "http://www.bing.com/th?id=ONUT.Ekig_ZPiSraKZYZZ1s0wwQ&pid=News",
-        "timestamp": 1789830900.0
-    },
-    {
-        "id": "1e03c6310f",
-        "title_fa": "گیر افتادن واشنگتن در باتلاق مناقشه با تهران",
-        "title_en": "Expert Says the US Is Struggling to Exit the Iran War as Costs Mount",
-        "summary": [
-            "یک تحلیلگر ترک معتقد است آمریکا به دلیل هزینه‌های بالای نظامی و اقتصادی، راه خروجی از درگیری با ایران پیدا نمی‌کند.",
-            "فشارهای لابی اسرائیل و تصمیمات راهبردی غلط، واشنگتن را در یک مخمصه طولانی‌مدت گرفتار کرده است."
-        ],
-        "impact": "افزایش هزینه‌های راهبردی ایالات متحده در خاورمیانه بدون دستاورد مشخص",
-        "tag": "تحلیلی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Mezha",
-        "url": "https://mezha.net/eng/news/17d974d5_expert_says_the/",
-        "clean_url": "https://mezha.net/eng/news/17d974d5_expert_says_the",
-        "image": "https://mezha.net/eng/kd_image_generate/17d974d5_expert_says_the/3724320.jpg?ver=2.0.15",
-        "timestamp": 1789830060.0
     }
 ]
