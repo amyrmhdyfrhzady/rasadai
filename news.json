@@ -417,6 +417,24 @@
         "timestamp": 1790071030.0
     },
     {
+        "id": "61ddd57805",
+        "title_fa": "مخالفت شدید شهروندان آمریکایی با سیاست‌های جنگی ترامپ",
+        "title_en": "Devastating news for Trump as poll shows how Americans really feel about Iran war",
+        "summary": [
+            "نظرسنجی‌های تازه نشان می‌دهد که سه چهارم مردم آمریکا مخالف رویکرد دولت این کشور در قبال مناقشه با تهران هستند.",
+            "افت شدید محبوبیت سیاست خارجی ترامپ می‌تواند موقعیت جمهوری‌خواهان را در انتخابات میادترم به خطر بیندازد."
+        ],
+        "impact": "ایجاد چالش سیاسی داخلی برای کاخ سفید همزمان با تنش‌های خارجی",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/devastating-news-trump-poll-shows-155844048.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/devastating-news-trump-poll-shows-155844048.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/f0cd471c2bc5b72b59406508869b83f9f0f34b0eaef1ed9dae67389b29d73f92/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fc4893dbce920372e55bc538c0f9b8d41.jpg",
+        "timestamp": 1790070480.0
+    },
+    {
         "id": "b3bd5c9316",
         "title_fa": "پیامدهای جنگ با ایـران و چالش اتمی برای هند",
         "title_en": "Iran War, Nuclear Proliferation And Implications For India",
@@ -487,6 +505,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-un-he-might-annihilate-iran-as-war-overshadows-diplomacy/ar-AA2cKXUM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790069154.0
+    },
+    {
+        "id": "2f0927b645",
+        "title_fa": "رایزنی اوپک و هند برای ثبات بازار جهانی انرژی",
+        "title_en": "OPEC, India discuss global oil market stability",
+        "summary": [
+            "دبیرکل اوپک و وزیر نفت هند در نشستی در دهلی نو بر لزوم سرمایه‌گذاری به موقع در صنعت نفت تاکید کردند.",
+            "طرفین روی ضرورت حفظ ثبات بازار و امنیت عرضه انرژی با توجه به نقش کلیدی هند در رشد اقتصادی جهان گفتگو کردند."
+        ],
+        "impact": "تنظیم توازن عرضه و تقاضا در بازارهای جهانی نفت",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2191271",
+        "clean_url": "https://tass.com/economy/2191271",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790068980.0
     },
     {
         "id": "50c4e4cfe1",
@@ -797,6 +833,24 @@
         "clean_url": "https://www.iranintl.com/202609221650",
         "image": "http://www.bing.com/th?id=ONUT.ffOXfezt00LRnUH9eyQOGw&pid=News",
         "timestamp": 1790063400.0
+    },
+    {
+        "id": "b8f872e5d9",
+        "title_fa": "هشدار صریح ترامپ در سازمان ملل درباره خطر اتمی ج.ا",
+        "title_en": "دونالد ترامپ: تصور کنید حکومت پلید ایران پشت سپر هسته‌ای حملات تروریستی انجام دهد",
+        "summary": [
+            "ترامپ در مجمع عمومی سازمان ملل تاکید کرد که جهان هرگز نباید اجازه دهد یک حکومت تروریستی به سلاح اتمی دست پیدا کند.",
+            "او رویکرد خود در قبال تهران را فراتر از حرف و در حوزه اقدام عملی و قاطع معرفی کرد."
+        ],
+        "impact": "افزایش فشار دیپلماتیک و انزوای بیشتر حاکمیت در عرصه بین‌المللی",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609223802",
+        "clean_url": "https://www.iranintl.com/202609223802",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/9d61a786397a2ed39708399531092274e885ec53-3978x2652.jpg?rect=784,0,2410,1265&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790061960.0
     },
     {
         "id": "ba21519eff",
@@ -5425,59 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEREVjBnRFJWaERsOE9IbmM2ZVlBa2Y3ZnIyVk1uRXBuUnBOQzJZdzFxQ3c1OHFBSVdNZGJkZHE1Ty1COXlpck0wRjU0QTVzbUhmUkREVWdyVlhpTC1ROFBFZXZVN09uRUgtbHVlcUVnLUE5eG9MYjhhLXBwaFlPa2JBSlB4R3ptY2kwQUVkQWpuUk5kb2FFZXRWY9IBoAFBVV95cUxPbnJMY1Z0X0ZnME9OVHJDZHQ3RDV0Y29iTDNpS05kZVZvRTlCQzRjOXVvck9lNDlabmJwQ1Z0NGJtUy1BRFVlTWczcnViQmh3bDl4WV9zdFlycmtMSWZGLWphYWZuMExPNFZtbTdRdDVBM29TNjk2aGZSc1RMTTVQbDBrQjBQd1F3Z1RDNGtXU1lNN0t4QS1ucU5zbGZkWlJn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789901533.0
-    },
-    {
-        "id": "1f65e5fd7f",
-        "title_fa": "تهدید ج.ا به پاسخ متقابل به آمریکا و متحدان",
-        "title_en": "Iran warns US and allies of sustained retaliation as strikes on Saudi Arabia raise stakes",
-        "summary": [
-            "تهدید به حملات فرسایشی علیه پایگاه‌های آمریکا و کشورهای منطقه به بهانه احتمال حمله جدید.",
-            "تلاش برای فرافکنی و بالا بردن هزینه تنش‌ها پس از ضربات به منافع منطقه‌ای."
-        ],
-        "impact": "افزایش ریسک امنیتی برای حضور نظامی آمریکا و شرکای منطقه‌ای.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Arkansas Public Advocate on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-warns-us-and-allies-of-sustained-retaliation-as-strikes-on-saudi-arabia-raise-stakes/ar-AA2cCaOb",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-us-and-allies-of-sustained-retaliation-as-strikes-on-saudi-arabia-raise-stakes/ar-AA2cCaOb",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789900486.0
-    },
-    {
-        "id": "93a630c4de",
-        "title_fa": "افشای سند محرمانه همکاری‌های جامع مسکو و تهران",
-        "title_en": "EXCLUSIVE: Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation",
-        "summary": [
-            "فاکس نیوز از کشف یک سند روسی خبر داده که ابعاد گسترده‌ای از همکاری دو کشور در حوزه‌های هسته‌ای، مالی و هوانوردی را پوشش می‌دهد.",
-            "این توافق پنهانی نشان می‌دهد جمهوری اسلامی برای دور زدن فشارها بیش از پیش به سمت ائتلاف راهبردی با مسکو متمایل شده است."
-        ],
-        "impact": "تقویت زیرساخت‌های نظامی و اتمی تهران با پشتگرمی مسکو و پیچیده‌تر شدن اعمال تحریم‌ها",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTQ2dTR3QXVZM0RjSmU0ZW5sVUtWVTJVZnVSYTE2Ty16NGs1bDcwelU4ZUYtdk5kcUVGZXNJTW9nTWZxNHhwVkMtZHhZSl9CS1FKM2VLYnNDQW5PbWVKT203cDdwN0JnOEhWRDh3R01kY05YR2lSUzJGY29EYzRvRFhNZkkwU0pPMC1COVJGdmtVM0VvTkJuZ3JaUFRzS29nbG9teWg0aUR3M0hYOWZqNTE1eGpHSS1N0gG-AUFVX3lxTE0zZDZiWmF5ckZ5eEJ6c2dvNV9IQ0J5aUJEOHQtNzlCRHNnNGxBOXpOckQ1dEh4RUZWZkJvMkJ5TzEtREJDM0x6WHNCbnFTZ3hkVjJ6MzM4OTN4NVhLTFdqLWZBVjljbV83ZVV4aXhXVFZnVEdhRC04RkFJVWtSWlFPd1o5bXRrSWxGY0otNkh4d0tUSU4xbDZreU4zajFFdVVCbUU4ejFxaWtLS29qSjhqN3lqdW80THd6UjAyU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTQ2dTR3QXVZM0RjSmU0ZW5sVUtWVTJVZnVSYTE2Ty16NGs1bDcwelU4ZUYtdk5kcUVGZXNJTW9nTWZxNHhwVkMtZHhZSl9CS1FKM2VLYnNDQW5PbWVKT203cDdwN0JnOEhWRDh3R01kY05YR2lSUzJGY29EYzRvRFhNZkkwU0pPMC1COVJGdmtVM0VvTkJuZ3JaUFRzS29nbG9teWg0aUR3M0hYOWZqNTE1eGpHSS1N0gG-AUFVX3lxTE0zZDZiWmF5ckZ5eEJ6c2dvNV9IQ0J5aUJEOHQtNzlCRHNnNGxBOXpOckQ1dEh4RUZWZkJvMkJ5TzEtREJDM0x6WHNCbnFTZ3hkVjJ6MzM4OTN4NVhLTFdqLWZBVjljbV83ZVV4aXhXVFZnVEdhRC04RkFJVWtSWlFPd1o5bXRrSWxGY0otNkh4d0tUSU4xbDZreU4zajFFdVVCbUU4ejFxaWtLS29qSjhqN3lqdW80THd6UjAyU0E",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789900251.0
-    },
-    {
-        "id": "7456d244bc",
-        "title_fa": "تساوی دراماتیک منچستریونایتد برابر فولام با گل دقایق پایانی",
-        "title_en": "فولام ۱-۱ منچستریونایتد؛ شیاطین سرخ با گل دقیقه ۹۰ کونیا، از شکست گریختند",
-        "summary": [
-            "شیاطین سرخ در هفته پنجم لیگ برتر انگلیس از شکست مقابل فولام گریختند.",
-            "گل به خودی مارتینز یونایتد را در آستانه باخت قرار داد اما کونیا در دقیقه ۸۹ کار را به تساوی کشاند."
-        ],
-        "impact": "این توقف بار دیگر ضعف خط دفاعی و ناپایداری نتایج منچستریونایتد را عیان کرد.",
-        "tag": "ورزشی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609202952",
-        "clean_url": "https://www.iranintl.com/202609202952",
-        "image": "http://www.bing.com/th?id=ONUT.-Rl7Y3r_6LgTZrmjv6KzgQ&pid=News",
-        "timestamp": 1789899360.0
     }
 ]
