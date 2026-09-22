@@ -310,6 +310,24 @@
         "timestamp": 1790040583.0
     },
     {
+        "id": "91f0afba1f",
+        "title_fa": "ادعای فرمانده پلیس درباره پیروزی نزدیک",
+        "title_en": "رادان: صبح پیروزی نزدیک است",
+        "summary": [
+            "احمدرضا رادان در مواجهه با فشارهای خارجی تلاش کرد با وعده پیروزی، روحیه نیروهای حکومتی را حفظ کند.",
+            "این سخنان مصرف داخلی دارد و با واقعیت بحران‌های عمیق اقتصادی و اجتماعی همخوانی ندارد."
+        ],
+        "impact": "تلاش مقامات نظامی برای پمپاژ امید مصنوعی در بدنه نیروهای سرکوبگر.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609223294",
+        "clean_url": "https://www.iranintl.com/202609223294",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/d0cbc126d6010e7eae508c6031dd3e3ca2c61620-929x509.png?rect=0,11,929,488&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790039640.0
+    },
+    {
         "id": "ed32bd52dd",
         "title_fa": "تهدید تند جـ.ـهـ.ـور ی ا سـ.ـلا م ی علیه آمریکا و اسرائیل",
         "title_en": "Iran Warns US, Israel of ‘Destructive Response’ as Ansarallah Rejects Saudi War",
@@ -418,6 +436,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejlJQXVoOVhlNVM5WkVaYVVZcUM0T2s4eE40NFlJcndVcWJ5QjFyY0xtdXVLS0NVVEJzSEFDQTVKSGs5OWxJQWxIYzROMUtvN2RIU2pkV0tUZ3YzaEowdW9DWU1tNTBsUXpSdGFUbkVPZDA2VWpzcGNVU256VXlGZ1htOVdsODF1dEdYOWtmR0VCOUpjY2dkNjZwY202dGhxaEJGdmJBRlcxVk04VTM2cA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790037480.0
+    },
+    {
+        "id": "398e8a6fbc",
+        "title_fa": "فشار جهانی بر تهران به دلیل حمایت از حوثی‌ها",
+        "title_en": "روح‌الله رحیم‌پور: بیانیه گروه هفت، حوثی‌ها را به امنیت بین‌المللی پیوند می‌زند",
+        "summary": [
+            "بیانیه گروه هفت پرونده حوثی‌ها را از یک درگیری منطقه‌ای به تهدیدی برای امنیت تجارت جهانی تبدیل کرده است.",
+            "غرب به صورت صریح از حکومت ج. ا خواسته تا ماشین جنگی نیابتی خود در یمن را متوقف کند."
+        ],
+        "impact": "افزایش انزوای سیاسی و احتمال تحریم‌های جدید علیه حامیان مالی و تسلیحاتی شبه‌نظامیان.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609228802",
+        "clean_url": "https://www.iranintl.com/202609228802",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790036400.0
     },
     {
         "id": "4348656996",
@@ -5442,41 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlJyZTZsUmVta1pyUGFaS0hYQUVIQzVWS2dtNHNua0E4cVhGSTlaYW96Zkx4R3JGeEF0T21aM09VaVUyU2dYWThQcHhIS2wzYkttQVJYVUw5UmhqY2M5UjB6S09SbWp5SWgycmhJLWkxOWljME5ZYUdsTmcyMTM5T3A5VzNrUnBvSG5rYXBjZWlwNlZjUUlfV1kxbHY4YlBlNkduNi1ybTJPbHNXd2xId2pXU3UtNFZWa0Y2LWZ0UUpnWUhmX2ZpRWFGV3Y",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789843294.0
-    },
-    {
-        "id": "bf73891756",
-        "title_fa": "رد وساطت اسلام‌آباد؛ تهران منتظر پیام آمریکا نیست",
-        "title_en": "US-Israel-Iran war latest news: Iran says it does not expect Pakistan minister to deliver US message 'No signs of any message or proposal'",
-        "summary": [
-            "سفر وزیر کشور پاکستان به تهران بدون هیچ پیام یا پیشنهاد مشخصی از سوی واشنگتن انجام شده و خط دیپلماسی پنهان در این مسیر فعلاً مسدود است.",
-            "ج.ا تلاش می‌کند این‌گونه سفرها را عادی جلوه دهد تا از ایجاد انتظارات کاذب در بازار و افکار عمومی درباره کاهش تنش با آمریکا جلوگیری کند."
-        ],
-        "impact": "بن‌بست در کانال‌های میانجی‌گری، احتمال کاهش تنش دیپلماتیک میان تهران و واشنگتن را در کوتاه‌مدت منتفی می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-news-iran-says-it-does-not-expect-pakistan-minister-to-deliver-us-message-no-signs-of-any-message-or-proposal/ar-AA2cAFi3",
-        "clean_url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-news-iran-says-it-does-not-expect-pakistan-minister-to-deliver-us-message-no-signs-of-any-message-or-proposal/ar-AA2cAFi3",
-        "image": "http://www.bing.com/th?id=ONUT.3Lu0wWka9MMfvlYA1H-3Kg&pid=News",
-        "timestamp": 1789841760.0
-    },
-    {
-        "id": "60eca70a83",
-        "title_fa": "موضع جنجالی ترامپ در برابر هشدارهای هوش مصنوعی",
-        "title_en": "Editorial: Big Tech is warning against AI. Will our government listen?",
-        "summary": [
-            "در حالی که غول‌های فناوری خواستار چارچوب‌های امنیتی برای هوش مصنوعی شده‌اند، ترامپ وجود یک «رئیس‌جمهور قوی و باهوش» را تنها ضابطه لازم دانست.",
-            "رویکرد غیررسمی ترامپ به حوزه مقررات‌گذاری فناوری، نگرانی‌ها از نبود نظارت بر ابزارهای نوظهور را افزایش داده است."
-        ],
-        "impact": "بلاتکلیفی در سیاست‌گذاری‌های کلان فناوری و مقررات هوش مصنوعی.",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "The Sacramento Bee",
-        "url": "https://www.sacbee.com/opinion/us-viewpoints/article317311941.html",
-        "clean_url": "https://www.sacbee.com/opinion/us-viewpoints/article317311941.html",
-        "image": "http://www.bing.com/th?id=ONUT.mpqdNSCOVc7UUMhx4aQejg&pid=News",
-        "timestamp": 1789841640.0
     }
 ]
