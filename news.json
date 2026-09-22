@@ -365,6 +365,25 @@
         "timestamp": 1790038800.0
     },
     {
+        "id": "d7fe914a7d",
+        "title_fa": "تهدیدهای موشکی سـپـاه با چاشنی جنگ روانی",
+        "title_en": "سخنگوی سپاه پاسداران: بسترهای تکنولوژیک [ساخت] موشک‌هایی با برد خیلی بیشتر را داریم",
+        "summary": [
+            "مقام‌های نظامی جـمـهـوری اسـلامـی ادعا کردند تکنولوژی ساخت موشک با بردهای بسیار بالا را در اختیار دارند و تصمیم نهایی به اراده سیاسی بستگی دارد.",
+            "استراتژی جنگ طولانی و استفاده از ابزار مذاکره به عنوان ابزاری دیگر برای ادامه نبرد، خط فکری جدید فرماندهان ارشد را نشان می‌دهد.",
+            "تنگه هرمز بار دیگر به عنوان اهرم فشار نظامی برای مهار غرب و تحمیل اراده منطقه‌ای معرفی شد."
+        ],
+        "impact": "افزایش تنش‌های لفظی در خلیج فارس و سیگنال‌دهی برای افزایش ریسک امنیتی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609222326",
+        "clean_url": "https://www.iranintl.com/202609222326",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790038500.0
+    },
+    {
         "id": "f90d962a65",
         "title_fa": "طرح جنجالی ترامپ برای خرید کود از بلاروس و هشدار کانادا",
         "title_en": "Trump wants potash from Belarus. A Canadian premier warns it would have to go through Russia.",
@@ -5459,24 +5478,5 @@
         "clean_url": "https://www.sacbee.com/opinion/us-viewpoints/article317311941.html",
         "image": "http://www.bing.com/th?id=ONUT.mpqdNSCOVc7UUMhx4aQejg&pid=News",
         "timestamp": 1789841640.0
-    },
-    {
-        "id": "8ee2ff6aec",
-        "title_fa": "حملات موشکی به آرامکو و پیش‌شرط‌های تهران برای ترامپ",
-        "title_en": "US-Iran War Live Updates: Houthis claim missile, drone strikes on 'sensitive' Riyadh sites",
-        "summary": [
-            "حوثی‌های یمن مدعی هدف قرار دادن تاسیسات نفتی آرامکو در ینبع و مقرهای حساس ریاض با موشک‌های بالستیک و پهپاد شدند.",
-            "محسن رضایی با تعیین پیش‌شرط‌هایی شامل رفع توقیف دارایی‌ها و پایان محاصره دریایی، از ارسال پیام به دونالد ترامپ از کانال قطر و پاکستان خبر داد.",
-            "هم‌زمانی سیگنال‌های مذاکره با عملیات‌های موشکی، تلاشی آشکار برای امتیازگیری میدانی پیش از آغاز هرگونه گفت‌وگوی احتمالی است."
-        ],
-        "impact": "تهدید زیرساخت‌های نفتی سعودی بهای نفت را تحریک کرده و پاسخ نظامی بازدارنده واشنگتن و متحدان منطقه‌ای را جلو می‌اندازد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.65,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-us-israel-iran-war-latest-news-strait-of-hormuz-oil-tanker-iran-us-talks-latest-news/liveblog/134343132.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-us-israel-iran-war-latest-news-strait-of-hormuz-oil-tanker-iran-us-talks-latest-news/liveblog/134343132.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134343132,width-1280,height-720,imgsize-1178245,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789839960.0
     }
 ]
