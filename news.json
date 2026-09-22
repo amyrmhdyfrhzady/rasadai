@@ -1,5 +1,23 @@
 [
     {
+        "id": "a8e21e3e3e",
+        "title_fa": "خرید مداوم یوان توسط بانک مرکزی روسیه",
+        "title_en": "Bank of Russia buys 2 bln rubles' worth of yuan for settlement on September 21",
+        "summary": [
+            "بانک مرکزی روسیه در ادامه سیاست‌های ارزی خود معادل ۲ میلیارد روبل یوان در بازار داخلی خریداری کرد.",
+            "این حجم از خرید ارز چینی در روزهای متوالی تکرار شده و نشانگر تداوم وابستگی سیستم مالی مسکو به ارز پکن است."
+        ],
+        "impact": "تلاش مسکو برای1 تثبیت مراودات مالی و جایگزینی ارزهای ملی با دلار در معاملات خارجی.",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2191099",
+        "clean_url": "https://tass.com/economy/2191099",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790076120.0
+    },
+    {
         "id": "05b032d9c5",
         "title_fa": "هشدار جی‌دی ونس درباره ضربات نظامی به اتمی ج.ا",
         "title_en": "JD Vance Says US Strikes Will Keep Iran From Rebuilding Its Nuclear Program",
@@ -380,6 +398,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzd5aWdDSWVLbTktUnJQcTh1c2NOM3d3eEttTGRwa1BveEhzcHNWTUhlUThuYnpiMWQydWltSEJWWnhCcnZCbTJUS3hCNmc0WXZSQXdObXRLaFBlQ0QxaEoxODdQXzZuZlNkeEtIWkdNM2dKbnVFaE5EVGQxY2Z0TlVQcExmOVowb09jN2h4RGNrSDVJcTZOSnU2eXpjeDg5YXc",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790053297.0
+    },
+    {
+        "id": "5b2516c125",
+        "title_fa": "لهستان در پی تبدیل شدن به هاب گاز آمریکا در اروپا",
+        "title_en": "Poland aims to become gas hub for Europe, minister says",
+        "summary": [
+            "لهستان قصد دارد با تکیه بر واردات گاز مایع از آمریکا، به مرکز اصلی تامین انرژی در اروپای مرکزی و شرقی تبدیل شود.",
+            "مذاکرات فشرده‌ای میان ورشو و یونان برای کنترل و هدایت مسیرهای تامین گاز از جنوب اروپا در جریان است.",
+            "مقامات ارشد لهستانی از کشورهای مجاور مانند چک، مجارستان و اسلواکی خواسته‌اند نیاز گازی خود را از طریق بنادر لهستان تامین کنند."
+        ],
+        "impact": "تغییر مسیر امنیت انرژی اروپا و کاهش وابستگی به منابع سنتی از طریق تقویت زیرساخت‌های واردات گاز آمریکا.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2191111",
+        "clean_url": "https://tass.com/economy/2191111",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790052180.0
     },
     {
         "id": "8b3ef688ce",
@@ -5443,41 +5480,5 @@
         "clean_url": "https://www.aol.com/articles/donald-trump-turns-once-beloved-080000000.html",
         "image": "http://www.bing.com/th?id=ONUT.4unAAM8OOCASDooD8jJ8-Q&pid=News",
         "timestamp": 1789866060.0
-    },
-    {
-        "id": "78602936d8",
-        "title_fa": "شرط‌گذاری حاکمیت برای بازگشایی تنگه هرمز",
-        "title_en": "Irán dice haber comunicado a Estados Unidos sus condiciones para reabrir Ormuz",
-        "summary": [
-            "مقام ارشد پارلمانی ج.ا اعلام کرد باز شدن تنگه راهبردی هرمز منوط به عقب‌نشینی واشنگتن از مواضعش است.",
-            "تهران در بحبوحه جنگ اقتصادی و نظامی، ابزار فشار خود روی انرژی جهان را حفظ کرده است.",
-            "بلوکه بودن بنادر داخلی و مسدود شدن شریان‌های مالی، پاسخی متقابل به اقدام آمریکا بوده است."
-        ],
-        "impact": "تداوم بحران در خلیج فارس و حفظ ریسک بالا برای بازار جهانی انرژی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Teletrece",
-        "url": "https://www.t13.cl/noticia/mundo/iran-dice-haber-comunicado-estados-unidos-sus-condiciones-para-reabrir-ormuz-20-9-2026",
-        "clean_url": "https://www.t13.cl/noticia/mundo/iran-dice-haber-comunicado-estados-unidos-sus-condiciones-para-reabrir-ormuz-20-9-2026",
-        "image": "https://s.t13.cl/sites/default/files/styles/manualcrop_850x475/public/t13/field-imagen/2026-09/1789901835.jpg.jpeg?itok=z42yQdpU",
-        "timestamp": 1789866000.0
-    },
-    {
-        "id": "e4470ebdd2",
-        "title_fa": "تغییرات در ترکیب تیم پیتسبرگ استیلرز در لیگ فوتبال آمریکایی",
-        "title_en": "Steelers make multiple roster moves for Week 2 matchup vs. Patriots",
-        "summary": [
-            "تیم پیتسبرگ استیلرز پیش از تقابل هفته دوم مقابل نیوانگلند پتریوتس چند جابه‌جایی در ترکیب نفرات خود اعلام کرد."
-        ],
-        "impact": "تغییرات درون‌تیمی ورزشی بدون تاثیر ژئوپلیتیک.",
-        "tag": "ورزش",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Steelers Wire on MSN",
-        "url": "https://www.msn.com/en-us/sports/football/steelers-make-multiple-roster-moves-for-week-2-matchup-vs-patriots/ar-AA2cATJl",
-        "clean_url": "https://www.msn.com/en-us/sports/football/steelers-make-multiple-roster-moves-for-week-2-matchup-vs-patriots/ar-AA2cATJl",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789863329.0
     }
 ]
