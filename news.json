@@ -473,6 +473,25 @@
         "timestamp": 1790066826.612567
     },
     {
+        "id": "c59306580c",
+        "title_fa": "فشار جمهوری‌خواهان به ترامپ برای پایان دادن به درگیری با ایران",
+        "title_en": "'End the open-ended war.' GOP candidates push Trump on Iran",
+        "summary": [
+            "بدنه اصلی حزب جمهوری‌خواه از تداوم درگیری‌های بی‌پایان با ج.ا خسته شده است.",
+            "نگرانی از کاهش محبوبیت سیاسی باعث شده نامزدهای کنگره ترامپ را برای تغییر استراتژی تحت فشار بگذارند.",
+            "این فشارها نشان‌دهنده شکاف در رویکرد سنتی تندروهای حزب نسبت به خاورمیانه است."
+        ],
+        "impact": "تغییر احتمالی در اولویت‌های سیاست خارجی ترامپ به سمت کاهش تنش‌های نظامی مستقیم.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/end-the-open-ended-war-gop-candidates-push-trump-on-iran/ar-AA2cKyTo",
+        "clean_url": "https://www.msn.com/en-us/news/other/end-the-open-ended-war-gop-candidates-push-trump-on-iran/ar-AA2cKyTo",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790066398.0
+    },
+    {
         "id": "672d3380cc",
         "title_fa": "خط و نشان ترامپ: پایان جمهوری اسلامی یا توافق نهایی",
         "title_en": "ترامپ در سازمان ملل متحد: یا با ایران به توافق می‌رسیم یا جمهوری اسلامی محو می‌شود",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.msn.com/en-in/money/general/us-israel-iran-war-latest-live-news-iran-war-energy-shock-spreads-across-global-economy-fuel-prices-inflation-rise-check-latest-updates/ar-AA2cBGn1",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789889460.0
-    },
-    {
-        "id": "576162b37f",
-        "title_fa": "تهدید آمریکا به حملات ویرانگر از سوی ستاد کل ستاد فرماندهی ج.ا",
-        "title_en": "Irán amenaza a Estados Unidos con \"devastadores bombardeos\" si reanuda ataques",
-        "summary": [
-            "ستاد کل نیروهای مسلح ج.ا مدعی شد اطلاعاتی درباره حمله دوباره آمریکا با چراغ سبز کشورهای منطقه دارد.",
-            "مقام‌های نظامی تهران در لحنی تهاجمی از پاسخ ویرانگر به هرگونه اقدام نظامی خبر دادند."
-        ],
-        "impact": "افزایش تنش‌های نظامی در منطقه و بالا رفتن ریسک درگیری مستقیم.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "La Prensa Gráfica",
-        "url": "https://www.laprensagrafica.com/internacional/iran-amenaza-a-estados-unidos-con-devastadores-bombardeos-si-reanuda-ataques-20260920-0010.html",
-        "clean_url": "https://www.laprensagrafica.com/internacional/iran-amenaza-a-estados-unidos-con-devastadores-bombardeos-si-reanuda-ataques-20260920-0010.html",
-        "image": "http://www.bing.com/th?id=ONUT.xVs9o1nhRMZ6IS2Di9vcmw&pid=News",
-        "timestamp": 1789889400.0
     }
 ]
