@@ -1,5 +1,23 @@
 [
     {
+        "id": "8ad89414e6",
+        "title_fa": "فشار تازه واشنگتن به بایننس بر سر دورزدن تحریم‌ها",
+        "title_en": "Binance Faces Fresh U.S. Iran Sanctions Probe as Prosecutors Scrutinize Crypto Trades",
+        "summary": [
+            "دادستان‌های آمریکایی تحقیقات جدیدی را درباره تراکنش‌های رمزارزی مرتبط با ایران آغاز کرده‌اند.",
+            "بزرگ‌ترین صرافی کریپتو جهان زیر ذره‌بین شدید نهادهای نظارتی ایالات متحده قرار گرفته است."
+        ],
+        "impact": "محدودیت‌های بیشتر بر تبادلات رمزارزی و مسدودسازی حساب‌های مرتبط با نهادهای تحریم‌شده.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Bitcoin Foundation",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkI2RjRJY1lkdkJzVVNPWmdoU29vOFR5dFphLUYzX1RmQVd6X1VnTWtEcUxjYWM3Q2dxTk1wLVF4Nk5RbEtaOW5VSEVIam5PT1FZb3VlMXRYLVllTG9ENzA1T3hKNGJ2eEptS0Jkbk53T2drOVQyVDN1RHNqTVZZZ2M3QUNzVVVxcXhjVVloN0lzVWxleVJmRTFsak9US2k5LXlEUGVuNkM4UWFOMDQ4NlFDYWtDak1WTnBrd2c0NGgwWksyRV9EaFFvcmhmNk1DYlMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkI2RjRJY1lkdkJzVVNPWmdoU29vOFR5dFphLUYzX1RmQVd6X1VnTWtEcUxjYWM3Q2dxTk1wLVF4Nk5RbEtaOW5VSEVIam5PT1FZb3VlMXRYLVllTG9ENzA1T3hKNGJ2eEptS0Jkbk53T2drOVQyVDN1RHNqTVZZZ2M3QUNzVVVxcXhjVVloN0lzVWxleVJmRTFsak9US2k5LXlEUGVuNkM4UWFOMDQ4NlFDYWtDak1WTnBrd2c0NGgwWksyRV9EaFFvcmhmNk1DYlMw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790059610.0
+    },
+    {
         "id": "8e21173291",
         "title_fa": "ترامپ آماده دفاع از سیاست فشار بر ایـران در سازمان ملل",
         "title_en": "Trump expected to defend Iran war, tout Gaza peace efforts during speech to UN",
@@ -5459,22 +5477,5 @@
         "clean_url": "https://www.upi.com/Top_News/US/2026/09/19/trump-ai-force-czar/8561789857828",
         "image": "http://www.bing.com/th?id=ONUT.08bWsxgFbs5u11xSfbM8zQ&pid=News",
         "timestamp": 1789833240.0
-    },
-    {
-        "id": "e96b6d2625",
-        "title_fa": "تحریم صرافی ارز دیجیتال بیت‌بانک",
-        "title_en": "Treasury Sanctions Iranian Crypto Exchange BitBank Over Bitcoin Transfers to IRGC",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا صرافی ایرانی بیت‌بانک را به دلیل انتقال بیت‌کوین به سـپاه تحریم کرد."
-        ],
-        "impact": "بسته شدن کانال‌های مالی رمزارز برای دور زدن تحریم‌های نهادهای نظامی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Bitcoin Magazine",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSlhvWFNBVV9EYmNCcXBjVTBJSW5zM29EYmpBVl9QcF91R0hlTnZlQTRQOXBaS3dJSFF4d1VBTVpiX3NubEN2VGNtcnBTXzZBN19zQ0RvSTBraVVvSC03bzJ1TEhScVFVNmttSkZsRV9Rd25vNWFIaWNMU1dQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSlhvWFNBVV9EYmNCcXBjVTBJSW5zM29EYmpBVl9QcF91R0hlTnZlQTRQOXBaS3dJSFF4d1VBTVpiX3NubEN2VGNtcnBTXzZBN19zQ0RvSTBraVVvSC03bzJ1TEhScVFVNmttSkZsRV9Rd25vNWFIaWNMU1dQUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789833214.0
     }
 ]
