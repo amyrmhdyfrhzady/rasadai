@@ -362,6 +362,24 @@
         "timestamp": 1790068672.0
     },
     {
+        "id": "fc79b33ecc",
+        "title_fa": "نوسان مثبت بورس مسکو؛ تلاش کرملین برای نمایش ثبات اقتصادی",
+        "title_en": "Russian stock market climbs at open",
+        "summary": [
+            "رشد نیم درصدی شاخص‌های بورس مسکو بیشتر یک تنفس کوتاه در میانه فشارهای سنگین بین‌المللی است تا یک بهبود واقعی.",
+            "کاهش جزئی ارزش یوآن در برابر روبل نشان‌دهنده تلاش بانک مرکزی روسیه برای کنترل نرخ ارز در بازارهای محدود است."
+        ],
+        "impact": "این نوسانات تأثیر پایداری بر اقتصاد جنگ‌زده روسیه ندارد و صرفاً بازی با اعداد در بازار داخلی است.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2190927",
+        "clean_url": "https://tass.com/economy/2190927",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790067600.0
+    },
+    {
         "id": "79d84cae22",
         "title_fa": "محکومیت حملات آمریکا و اسرائیل توسط تهران همزمان با اوج‌گیری تنش‌ها",
         "title_en": "Live: Iran denounces US-Israel attacks as regional tensions rise",
@@ -5462,24 +5480,5 @@
         "clean_url": "https://www.iranintl.com/202609203165",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1789885860.0
-    },
-    {
-        "id": "ef0ed85fde",
-        "title_fa": "نقشه راه محرمانه مسکو و تهران برای دور زدن تحریم‌ها",
-        "title_en": "Russian document maps deeper cooperation with Iran – Fox News",
-        "summary": [
-            "مسکو و تهران سند همکاری‌های راهبردی ۴۴ صفحه‌ای برای گسترش روابط در حوزه‌های مالی، هسته‌ای، هوایی و انرژی تا سال ۲۰۲۶ تدوین کرده‌اند.",
-            "این برنامه شامل استفاده از ارزهای ملی برای مراودات مالی، مشارکت روسیه در نیروگاه بوشهر و ساخت قطعات هواپیماست.",
-            "همزمان برخی چهره‌های حکومتی بحث خروج از ان‌پی‌تی و تغییر دکترین هسته‌ای را مطرح کرده‌اند که فشارها را بیشتر می‌کند."
-        ],
-        "impact": "تلاش دوجانبه برای خنثی‌سازی تحریم‌های مالی و ساختاری با تکیه بر محور مسکو.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609208544",
-        "clean_url": "https://www.iranintl.com/en/202609208544",
-        "image": "http://www.bing.com/th?id=ONUT.qMCZrZQmXTpwlYAZOYkGiw&pid=News",
-        "timestamp": 1789885800.0
     }
 ]
