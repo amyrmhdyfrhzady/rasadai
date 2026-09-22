@@ -217,6 +217,25 @@
         "timestamp": 1790093880.0
     },
     {
+        "id": "d7d391aa3d",
+        "title_fa": "تأکید جی‌دی ونس بر اولویت منافع آمریکا در برابر تصمیمات اسرائیل",
+        "title_en": "America has never been subservient to Israel",
+        "summary": [
+            "جی‌دی ونس صریحاً اعلام کرده که سیاست خاورمیانه‌ای واشنگتن نباید تابع و فرمان‌بردار تل‌آویو باشد.",
+            "تیم ترامپ با رویکرد 'اول آمریکا' نشان داده که در صورت تعارض منافع، تعارفی با بنیامین نتانیاهو ندارد.",
+            "این مواضع خط بطلانی بر چک سفید امضای واشنگتن به متحدان منطقه‌ای و تأکیدی بر محوریت منافع ملی آمریکاست."
+        ],
+        "impact": "احتمال افزایش تنش‌های تاکتیکی میان واشنگتن و تل‌آویو در نحوه مدیریت بحران خاورمیانه.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Cleveland Jewish News",
+        "url": "https://www.clevelandjewishnews.com/columnists/ben_cohen/america-has-never-been-subservient-to-israel/article_0a77fdbd-f432-4188-a935-0463266b5894.html",
+        "clean_url": "https://www.clevelandjewishnews.com/columnists/ben_cohen/america-has-never-been-subservient-to-israel/article_0a77fdbd-f432-4188-a935-0463266b5894.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/assets/v3/editorial/1/66/166d8322-a293-11e5-bc70-8355222e095e/57991a1a38b96.image.png?crop=600,315,0,142",
+        "timestamp": 1790092200.0
+    },
+    {
         "id": "5b7291be75",
         "title_fa": "احتمال بالای درگیری نظامی مستقیم با بازگشت ترامپ",
         "title_en": "Trump return to combat operations in Iran ‘inevitable’: Keane",
@@ -5458,24 +5477,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/videos/international/trumps-biggest-iran-blunder-kash-patel-fired-12-experts-before-war-mazie-hirono-goes-nuclear/videoshow/134377212.cms",
         "image": "https://static.toiimg.com/thumb/msid-134377212,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789917360.0
-    },
-    {
-        "id": "12e9aa420c",
-        "title_fa": "توافق پنهان ترامپ با حوثی‌ها و تنهایی ریاض زیر آتش",
-        "title_en": "Trump 'SECRETLY DEALS' With Houthis, 'DUMPS' MBS As Iran Ally HAMMERS Saudi Arabia",
-        "summary": [
-            "دونالد ترامپ فاش کرد واشنگتن ارتباط مداومی با حوثی‌های یمن دارد و این گروه پذیرفته که به نیروها و شناورهای آمریکایی حمله نکند.",
-            "این تفاهم انحصاری فقط برای حفاظت از منافع آمریکا بسته شده و هیچ پوشش دفاعی برای عربستان در برابر حملات پهپادی و موشکی ایجاد نمی‌کند.",
-            "محمد بن‌سلمان خواهان مداخله نظامی مستقیم آمریکا شده بود، اما واشنگتن با رد این درخواست، صرفاً به اشتراک‌گذاری داده‌های اطلاعاتی اکتفا کرده است."
-        ],
-        "impact": "تغییر ریل امنیتی واشنگتن به رویکرد کاملاً معامله‌گرایانه، عربستان را در برابر حملات نیروهای نیابتی منزوی‌تر می‌کند.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/trump-secretly-deals-with-houthis-dumps-mbs-as-iran-ally-hammers-saudi-arabia/videoshow/134377209.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/trump-secretly-deals-with-houthis-dumps-mbs-as-iran-ally-hammers-saudi-arabia/videoshow/134377209.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134377209,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789917180.0
     }
 ]
