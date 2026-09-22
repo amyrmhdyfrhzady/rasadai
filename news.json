@@ -236,6 +236,25 @@
         "timestamp": 1790061483.0
     },
     {
+        "id": "5c0327d9e2",
+        "title_fa": "چرا ارتش پر زرق‌وبرق عربستان حریف حوثی‌ها نشد؟",
+        "title_en": "Despite wealth and advanced weapons, Saudis fumbling in fight against Houthis",
+        "summary": [
+            "تکیه ریاض بر نیروهای نیابتی ضعیف در یمن، عملاً میلیاردها دلار خرید تسلیحاتی از غرب را بی‌اثر کرده است.",
+            "جغرافیای کوهستانی و سخت یمن به برگ برنده شبه‌نظامیان حوثی برای حفظ کنترل سواحل دریای سرخ تبدیل شده است.",
+            "حملات موفق به تاسیسات نفتی عربستان ثابت کرد پدافندهای پیشرفته غربی توانایی تامین امنیت کامل شریان‌های انرژی را ندارند."
+        ],
+        "impact": "تداوم تهدید حوثی‌ها امنیت کشتیرانی در دریای سرخ و صادرات نفت منطقه را در وضعیت بحرانی نگه می‌دارد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/despite-wealth-and-advanced-weapons-saudis-fumbling-in-fight-against-houthis/",
+        "clean_url": "https://www.timesofisrael.com/despite-wealth-and-advanced-weapons-saudis-fumbling-in-fight-against-houthis",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26257367254211-e1789654800772-640x400.jpg",
+        "timestamp": 1790060160.0
+    },
+    {
         "id": "43fb97b663",
         "title_fa": "عقب‌نشینی لحظه‌آخری ترامپ از حمله به حوثی‌ها",
         "title_en": "Pentagon divide caused aborted US strike on Houthis — report",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://www.msn.com/en-us/sports/football/steelers-make-multiple-roster-moves-for-week-2-matchup-vs-patriots/ar-AA2cATJl",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789863329.0
-    },
-    {
-        "id": "ab36b7679d",
-        "title_fa": "هشدار امنیتی سفارت آمریکا در اسرائیل هم‌زمان با درگیری حوثی‌ها",
-        "title_en": "US embassy in Israel issues security alert over Houthi-Saudi Arabia fighting",
-        "summary": [
-            "سفارت ایالات متحده در تل‌آویو هشدارهای امنیتی را در پی دور تازه تبادل آتش میان حوثی‌های یمن و ائتلاف منطقه‌ای بالا برد.",
-            "واشنگتن تحرکات موشکی و پهپادی حوثی‌ها را تهدیدی فراتر از مرزهای خلیج فارس و دارای پتانسیل کشیده شدن به سمت حریم اسرائیل ارزیابی می‌کند."
-        ],
-        "impact": "افزایش سطح آماده‌باش پدافندی در منطقه و بالا رفتن احتمال پاسخ مستقیم نظامی به مقرهای حوثی‌ها.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2JHXzgzVXVqcFRHNmlpTUZBa2hVWm9tbzhpYlRjMk1GZGhhX3dBR3ZWUGtLWDNia2ZITE11b2hLekxYbVJPcEw0RGttbUM3NWVrTS1FaEtWSmVkdEkzQXlMZ0lha1M0WkNwTGZnWExzUjVteWJzVEppMU9UeHdiTzlieTBrdm5Va0FDMzVyNE1xZng0V0MxdDVwSWxGM2cwMi1jS21aQjFlSEHSAbABQVVfeXFMTVFvT0R3M1dncTdfVmVrOVVJTjhPMk5NcjlvWTczYVZjb3UySEJzcHNtcTF3dUNieWpfMDRmb2UwZDJLX0VRWkhtUWRYMGU1LTZHSUNHM19UNloyUTBtUnBPZ3p5azFPUS0xeE1aSWZhQUhzZ21ONEtjQVp2UXJNZnk4ZE9sQjVMMVZaOHoxVUpvMW5NRzJlTmNrYWg3X01DZlZJX0hqZFhpTXFtTXlyQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2JHXzgzVXVqcFRHNmlpTUZBa2hVWm9tbzhpYlRjMk1GZGhhX3dBR3ZWUGtLWDNia2ZITE11b2hLekxYbVJPcEw0RGttbUM3NWVrTS1FaEtWSmVkdEkzQXlMZ0lha1M0WkNwTGZnWExzUjVteWJzVEppMU9UeHdiTzlieTBrdm5Va0FDMzVyNE1xZng0V0MxdDVwSWxGM2cwMi1jS21aQjFlSEHSAbABQVVfeXFMTVFvT0R3M1dncTdfVmVrOVVJTjhPMk5NcjlvWTczYVZjb3UySEJzcHNtcTF3dUNieWpfMDRmb2UwZDJLX0VRWkhtUWRYMGU1LTZHSUNHM19UNloyUTBtUnBPZ3p5azFPUS0xeE1aSWZhQUhzZ21ONEtjQVp2UXJNZnk4ZE9sQjVMMVZaOHoxVUpvMW5NRzJlTmNrYWg3X01DZlZJX0hqZFhpTXFtTXlyQUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789863257.0
     }
 ]
