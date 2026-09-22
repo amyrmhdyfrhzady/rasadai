@@ -671,6 +671,24 @@
         "timestamp": 1790074160.0
     },
     {
+        "id": "307681da64",
+        "title_fa": "محدودیت‌های جدید هوایی علیه شرکت‌های هواپیمایی جـمـهـوری اسـلـامـی",
+        "title_en": "Squeezed at sea, Iran faces new restrictions on its flights",
+        "summary": [
+            "تهدیدهای آمریکا به اعمال تحریم‌های ثانویه، فرودگاه‌های خارجی را به بستن مسیرهای پروازی شرکت‌های ایرانی وادار کرد.",
+            "انزوای بین‌المللی ناوگان هوایی حاکمیت با اعمال این محدودیت‌های جدید وارد فاز تازه‌ای شد."
+        ],
+        "impact": "فلج شدن بیشتر خطوط ارتباطی هوایی و افزایش انزوای بین‌المللی رژیم.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/squeezed-at-sea-iran-faces-new-restrictions-on-its-flights/ar-AA2cLreX",
+        "clean_url": "https://www.msn.com/en-us/news/other/squeezed-at-sea-iran-faces-new-restrictions-on-its-flights/ar-AA2cLreX",
+        "image": "http://www.bing.com/th?id=ONUT.Nu7OmR1-ZKK9BC7MZr2e4Q&pid=News",
+        "timestamp": 1790074080.0
+    },
+    {
         "id": "1402d35615",
         "title_fa": "بازگشت ترامپ به سازمان ملل و بررسی مواضع گذشته",
         "title_en": "Trump Returns to the U.N. Today. His Past Speeches Tell a Story of Constant Revision",
@@ -1398,6 +1416,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkI2RjRJY1lkdkJzVVNPWmdoU29vOFR5dFphLUYzX1RmQVd6X1VnTWtEcUxjYWM3Q2dxTk1wLVF4Nk5RbEtaOW5VSEVIam5PT1FZb3VlMXRYLVllTG9ENzA1T3hKNGJ2eEptS0Jkbk53T2drOVQyVDN1RHNqTVZZZ2M3QUNzVVVxcXhjVVloN0lzVWxleVJmRTFsak9US2k5LXlEUGVuNkM4UWFOMDQ4NlFDYWtDak1WTnBrd2c0NGgwWksyRV9EaFFvcmhmNk1DYlMw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790059610.0
+    },
+    {
+        "id": "30ad9b1138",
+        "title_fa": "فشار حداکثری واشنگتن و فروپاشی اقتصادی در جیب مردم",
+        "title_en": "Iran’s Economy Is Collapsing. Why Hasn’t It Triggered Another Mass Uprising?",
+        "summary": [
+            "سیاست تحریم‌های جدید ترامپ و مسدودسازی صادرات نفت، درآمدهای ارزی تـهـران را به شدت کاهش داده است.",
+            "سقوط ارزش ریال و گرانی بنزین، سفره‌های مردم را کوچک‌تر کرده و نگرانی از تکرار اعتراضات سراسری را افزایش داده است.",
+            "شهروندان از ناتوانی در تأمین مایحتاج اولیه و دارو به دلیل تورم سرسام‌آور خبر می‌دهند."
+        ],
+        "impact": "تنگنای اقتصادی شدید، حکومت را در لبه پرتگاه اعتراضات مردمی قرار داده است.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Algemeiner",
+        "url": "https://www.algemeiner.com/2026/09/22/irans-economy-collapsing-why-hasnt-triggered-another-mass-uprising/",
+        "clean_url": "https://www.algemeiner.com/2026/09/22/irans-economy-collapsing-why-hasnt-triggered-another-mass-uprising",
+        "image": "https://www.algemeiner.com/wp-content/uploads/2026/01/2026-01-19T145828Z_1_LYNXMPEM0I0VR_RTROPTP_4_IRAN-ECONOMY-PROTESTS-1.jpg",
+        "timestamp": 1790059380.0
     },
     {
         "id": "2ac8e753c2",
@@ -5440,42 +5477,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/videos/international/trump-secretly-deals-with-houthis-dumps-mbs-as-iran-ally-hammers-saudi-arabia/videoshow/134377209.cms",
         "image": "https://static.toiimg.com/thumb/msid-134377209,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789917180.0
-    },
-    {
-        "id": "fe1aa02c59",
-        "title_fa": "مایکل والتز: زمان پایان درگیری با ایران نامشخص است",
-        "title_en": "Waltz Won’t Give Iran War End Date as New Poll Shows Voter Skepticism",
-        "summary": [
-            "نماینده آمریکا در سازمان ملل از تعیین هرگونه جدول زمانی برای پایان درگیری‌ها با جـمـهـوری اسـلامـی خودداری کرد.",
-            "نظرسنجی جدید ان‌بی‌سی نشان می‌دهد ۶۲ درصد رای‌دهندگان معتقدند این درگیری ارزش هزینه‌هایش را نداشته است.",
-            "نگرانی‌ها در میان جمهوری‌خواهان درباره هزینه‌های سیاسی این جنگ در آستانه انتخابات میان‌دوره‌ای افزایش یافته است."
-        ],
-        "impact": "افزایش فشارهای سیاسی داخلی بر دولت آمریکا همزمان با تداوم فرسایشی درگیری‌ها.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/mike-waltz-iran-war-end-date-voter-skepticism-poll-12465764",
-        "clean_url": "https://www.newsweek.com/mike-waltz-iran-war-end-date-voter-skepticism-poll-12465764",
-        "image": "http://www.bing.com/th?id=ONUT.vd5yLhEEiLe3MKz1V0oMXw&pid=News",
-        "timestamp": 1789917000.0
-    },
-    {
-        "id": "6eda21269d",
-        "title_fa": "چالش حقوقی دیوان عالی آمریکا پیرامون رای‌گیری پستی",
-        "title_en": "Column: The Supreme Court’s conservatives have a clear logic on voting",
-        "summary": [
-            "اکثریت محافظه‌کار دیوان عالی مانع اجرای طرح رای‌گیری پستی منتسب به تیم ترامپ شد.",
-            "قضات ارشد همچنان بر سر دخالت فدرال در انتخابات ایالتی اختلاف نظر جدی دارند."
-        ],
-        "impact": "این تصمیم جلوی محدود شدن رای‌گیری پستی را در آستانه انتخابات گرفت.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Daily Press",
-        "url": "https://www.dailypress.com/2026/09/20/column-the-supreme-courts-conservatives-have-a-clear-logic-on-voting/",
-        "clean_url": "https://www.dailypress.com/2026/09/20/column-the-supreme-courts-conservatives-have-a-clear-logic-on-voting",
-        "image": "https://www.dailypress.com/wp-content/uploads/2026/09/TVP-Z-OP-FELDMAN-COLUMN-SCOTUS-VOTING.jpg?w=2000&h=1268",
-        "timestamp": 1789916700.0
     }
 ]
