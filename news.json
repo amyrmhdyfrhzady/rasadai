@@ -54,6 +54,24 @@
         "timestamp": 1790046360.0
     },
     {
+        "id": "221b99b056",
+        "title_fa": "افت قیمت نفت با توافق آتش‌بس در لبنان",
+        "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
+        "summary": [
+            "توافق آتش‌بس میان اسرائیل و لبنان فشار روانی روی بازار انرژی را کم کرد.",
+            "ریزش قیمت نفت نشان داد معامله‌گران چقدر روی تنش‌های خاورمیانه حساس هستند."
+        ],
+        "impact": "کاهش موقت هزینه‌های انرژی و آرامش نسبی در بازارهای جهانی.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790045627.0
+    },
+    {
         "id": "b3187a2e36",
         "title_fa": "جهش ۱۰ درصدی قیمت نفت با بوی باروت در منطقه",
         "title_en": "Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say",
@@ -5455,23 +5473,5 @@
         "clean_url": "https://www.msn.com/en-us/sports/football/nfl-punishes-commanders-wr-stefon-diggs-for-touchdown-celebration/ar-AA2cA89L",
         "image": "http://www.bing.com/th?id=ONUT.RBgfwzXBHjI0l54ydICPwg&pid=News",
         "timestamp": 1789828342.0
-    },
-    {
-        "id": "455d08d620",
-        "title_fa": "طومار اعتراضی نام کودکان قربانی غزه مقابل سازمان ملل",
-        "title_en": "Interfaith group unveil 100-meter shroud with names of 20,000 children killed in Gaza war at UN",
-        "summary": [
-            "گروه‌های مدنی و بین‌الادیانی پارچه‌ای ۱۰۰ متری حامل اسامی ۲۰ هزار کودک قربانی جنگ را در نیویورک رونمایی کردند.",
-            "این اقدام نمادین برای تشدید فشار افکار عمومی غربی بر نهادهای بین‌المللی و دولت‌ها طراحی شده است."
-        ],
-        "impact": "افزایش انزوای رسانه‌ای و حقوق‌بشری عملیات نظامی اسرائیل در مجامع غربی.",
-        "tag": "حقوق‌بشر",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/interfaith-group-unveil-100-meter-shroud-with-names-of-20000-children-killed-in-gaza-war-at-un/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/interfaith-group-unveil-100-meter-shroud-with-names-of-20000-children-killed-in-gaza-war-at-un",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/814768775_1501135232045439_8182221094199574809_n-e1789826628313.jpg",
-        "timestamp": 1789826760.0
     }
 ]
