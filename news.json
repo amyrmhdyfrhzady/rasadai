@@ -400,6 +400,24 @@
         "timestamp": 1790029080.0
     },
     {
+        "id": "a29efb21ab",
+        "title_fa": "دیپلماسی نیویورک برای مهار بحران هرمز و میانجی‌گری قطر بین ایران و آمریکا",
+        "title_en": "Iran diplomacy intensifies at UN as Hormuz crisis keeps pressure on region",
+        "summary": [
+            "قطر در حاشیه سازمان ملل تلاش می‌کند توافقی کوتاه‌مدت میان واشنگتن و تهران برای بازگشایی مسیر کشتیرانی هرمز و مهار حملات حوثی‌ها ایجاد کند.",
+            "عراقچی در نیویورک به‌دنبال گفتگو است، اما غرب شرط هرگونه مذاکره جدی را رفع کامل تهدیدات ترانزیت انرژی و توقف تنش‌زایی‌های منطقه‌ای می‌داند."
+        ],
+        "impact": "باز شدن احتمالی گره کشتیرانی در هرمز می‌تواند فشارهای اقتصادی و خطر درگیری مستقیم را موقتاً کاهش دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609222506",
+        "clean_url": "https://www.iranintl.com/en/202609222506",
+        "image": "http://www.bing.com/th?id=ONUT.4KwTPPwjKIbVESVG3MsNMQ&pid=News",
+        "timestamp": 1790026560.0
+    },
+    {
         "id": "50bc171563",
         "title_fa": "انزوای هوایی ایران با فشار حداکثری آمریکا",
         "title_en": "Flying to or from Iran? What to know as US pressure squeezes air links",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU05Hcmc3QTl4NlhrOHdhVmJMNml4SDFiZWw3ckppYjRUZ2dxS05nWW16X3oxUjJZTkh0U2Y3SGNzNEpZVzZzWTBlNTkydnlmdlRTenZKUFZMMFhzeGt2LWR6ekdHUmRZWkRhdm5QYXhJS2lSdzdwNEJKX0MwMUdpN1RFSkJTS2c3",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789835095.0
-    },
-    {
-        "id": "b609fa2402",
-        "title_fa": "دستور ترامپ برای تشکیل نیروی ویژه هوش مصنوعی",
-        "title_en": "Trump says he will create 'AI Force,' appoint czar to oversee industry",
-        "summary": [
-            "دونالد ترامپ قصد دارد یک نیروی ویژه برای کنترل صنعت هوش مصنوعی ایجاد کند.",
-            "تعیین یک مسئول تام‌الاختیار برای نظارت بر این فناوری در دستور کار قرار گرفته است."
-        ],
-        "impact": "افزایش نظارت دولتی و تغییرات ساختاری در صنعت فناوری آمریکا.",
-        "tag": "فناوری",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "UPI",
-        "url": "https://www.upi.com/Top_News/US/2026/09/19/trump-ai-force-czar/8561789857828/",
-        "clean_url": "https://www.upi.com/Top_News/US/2026/09/19/trump-ai-force-czar/8561789857828",
-        "image": "http://www.bing.com/th?id=ONUT.08bWsxgFbs5u11xSfbM8zQ&pid=News",
-        "timestamp": 1789833240.0
     }
 ]
