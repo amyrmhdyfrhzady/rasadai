@@ -1,5 +1,23 @@
 [
     {
+        "id": "ccc1874837",
+        "title_fa": "شرط‌گذاری تهران برای بازگشایی تنگه هرمز در نیویورک",
+        "title_en": "Iran's FM gave Witkoff Tehran's conditions to reopen Strait of Hormuz",
+        "summary": [
+            "عباس عراقچی در حاشیه سازمان ملل با استیو ویتکاف، فرستاده ویژه آمریکا دیدار کرده است.",
+            "تهران شرط‌های خود برای باز کردن تنگه راهبردی هرمز را به طرف آمریکایی منتقل کرده است."
+        ],
+        "impact": "تنگه هرمز به ابزار اصلی چانه‌زنی و فشار تهران در معادلات دیپلماتیک تبدیل شده است.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-gave-witkoff-tehrans-conditions-to-reopen-strait-of-hormuz-state-media/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-gave-witkoff-tehrans-conditions-to-reopen-strait-of-hormuz-state-media",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26265476842295.jpg",
+        "timestamp": 1790106960.0
+    },
+    {
         "id": "676099a429",
         "title_fa": "تکذیب مذاکرات پنهان از سوی سفیر تهران در مسکو",
         "title_en": "Iran envoy denies US talks, calls Trump claim 'media games'",
@@ -381,6 +399,24 @@
         "timestamp": 1790079056.0
     },
     {
+        "id": "fb8123f741",
+        "title_fa": "خط‌ونشان سپاه برای جنگ جدید و انتقال تسلیحات به زیر زمین",
+        "title_en": "منبع ارشد امنیتی به رسانه وابسته به سپاه: در صورت آغاز جنگ جدید برای «توسعه جنگ» آماده‌ایم",
+        "summary": [
+            "منابع وابسته به سپاه مدعی شدند جـ.ـهوری اسـ.ـلامی هیچ خط قرمزی در منطقه باقی نگذاشته است.",
+            "مراکز تحقیق و توسعه تسلیحاتی و موشکی کشور به طور کامل به زیر زمین منتقل شده‌اند."
+        ],
+        "impact": "افزایش تنش‌های نظامی و لفاظی‌های جنگ‌طلبانه فرماندهان برای بازدارندگی در برابر واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609224934",
+        "clean_url": "https://www.iranintl.com/202609224934",
+        "image": "http://www.bing.com/th?id=ONUT.NhCotABNBxNuPET2dIhT2A&pid=News",
+        "timestamp": 1790078100.0
+    },
+    {
         "id": "7e1d254cd4",
         "title_fa": "واکنش بازارهای انرژی به حملات به اهدافی در ای-ران",
         "title_en": "Market Analysts React to US-Israel Strikes on Iran",
@@ -397,6 +433,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTVKYWE3TllUQVZvYzNLQ09lMGtzaHNaTTNrUWgyM2ZNemZrUGhwZ195T2NxcVFBOTI0eWRuNFZWaVpNeUtjaGpMV0RoY1Z0QlpoU1VNOXozbzlva3ltczFhZU9jaGVLY2ZOMHo5SldYOGxYSXBUNUpCemxEbENqZ2ZucnhNUlU",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790078073.0
+    },
+    {
+        "id": "f8e6bfe693",
+        "title_fa": "هشدار صریح ترامپ به جـ.ـهوری اسـ.ـلامی از تکرار نابودی یا عظمت",
+        "title_en": "Iran live updates: Trump says team met with Iran delegation at UN",
+        "summary": [
+            "دونالد ترامپ از دیدار تیم خود با هیئت ایرانی در سازمان ملل خبر داد.",
+            "واشنگتن مسیر آینده تهران را بین گزینه فروپاشی کامل یا عظمت احتمالی ترسیم کرده است."
+        ],
+        "impact": "فشار حداکثری دولت ترامپ وارد فاز جدیدی از اولتیماتوم‌های مستقیم شده است.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-team-met-with-iran-delegation-at-un/ar-AA2cEt54",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-team-met-with-iran-delegation-at-un/ar-AA2cEt54",
+        "image": "http://www.bing.com/th?id=ONUT.FM3z-Ekh3cVn0SBCZtgsLA&pid=News",
+        "timestamp": 1790077524.0
     },
     {
         "id": "758b5bb592",
@@ -5421,60 +5475,5 @@
         "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/general/police-report-ice-involved-shooting-in-austin-texas/ar-AA2cCy6P",
         "image": "http://www.bing.com/th?id=ONUT.7i6S_xoovEqR2RWK85D3Dg&pid=News",
         "timestamp": 1789915064.0
-    },
-    {
-        "id": "8caae3c475",
-        "title_fa": "پیروزی دراماتیک پکرز برابر جتز در وقت اضافه",
-        "title_en": "Instant analysis of Packers' comeback overtime win over Jets in Week 2",
-        "summary": [
-            "تیم فوتبال آمریکایی گرین‌بی پکرز موفق شد در هفته دوم رقابت‌ها، شکست را با پیروزی در وقت اضافه عوض کند.",
-            "این کامبک دیدنی نشان از بازگشت روحیه جنگندگی به ترکیب تیم در لحظات سرنوشت‌ساز دارد."
-        ],
-        "impact": "ثبت یک پیروزی روحیه‌بخش و مهم در ابتدای فصل مسابقات.",
-        "tag": "ورزشی",
-        "urgency": 2,
-        "sentiment": 0.8,
-        "source": "Packers Wire on MSN",
-        "url": "https://www.msn.com/en-us/sports/football/instant-analysis-of-packers-comeback-overtime-win-over-jets-in-week-2/ar-AA2cD1MI",
-        "clean_url": "https://www.msn.com/en-us/sports/football/instant-analysis-of-packers-comeback-overtime-win-over-jets-in-week-2/ar-AA2cD1MI",
-        "image": "http://www.bing.com/th?id=ONUT.oX5IDLSmyNnYeujLHgk00w&pid=News",
-        "timestamp": 1789913544.0
-    },
-    {
-        "id": "3c44f03e54",
-        "title_fa": "دیدار ترامپ با شهردار نیویورک در عمارت گریسی",
-        "title_en": "Trump, Mamdani to meet in New York City at mayor's mansion",
-        "summary": [
-            "دونالد ترامپ روز دوشنبه برای دیداری رسمی راهی عمارت گریسی در نیویورک می‌شود.",
-            "محورهای این نشست میان رئیس‌جمهور آمریکا و شهردار هنوز رسماً اعلام نشده است."
-        ],
-        "impact": "این دیدار می‌تواند سرریز سیاسی بر روابط دولت مرکزی و مدیریت شهری نیویورک داشته باشد.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "UPI",
-        "url": "https://www.upi.com/Top_News/US/2026/09/20/new-york-trump-mamdani/6521789936812/",
-        "clean_url": "https://www.upi.com/Top_News/US/2026/09/20/new-york-trump-mamdani/6521789936812",
-        "image": "http://www.bing.com/th?id=ONUT.i3XmXaAaPnE2H4Po1OzrDQ&pid=News",
-        "timestamp": 1789912200.0
-    },
-    {
-        "id": "b396843011",
-        "title_fa": "خط‌ونشان مستقیم ترامپ در پاسخ به تهدیدهای نظامی تهران",
-        "title_en": "Iran warns US, allies against new attack, threatens retaliation",
-        "summary": [
-            "تهران با ادعای دسترسی به اطلاعات جاسوسی، آمریکا و متحدانش را به حمله تلافی‌جویانه تهدید کرده تا جلوی ضربه احتمالی را بگیرد.",
-            "دونالد ترامپ بلافاصله وارد میدان شد و با هشداری سخت، عواقب هرگونه ماجراجویی را متوجه سران رژ*یم دانست.",
-            "پشت این لفاظی‌های تهران، ترس شدید از تغییر استراتژی واشنگتن و ضربه به نقاط حساس نظامی پنهان شده است."
-        ],
-        "impact": "بالا رفتن بی‌سابقه احتمال برخورد نظامی مستقیم در صورت خطای محاسباتی تهران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-warns-us-allies-against-new-attack-threatens-retaliation/ar-AA2cDjkU?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-warns-us-allies-against-new-attack-threatens-retaliation/ar-AA2cDjkU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789911720.0
     }
 ]
