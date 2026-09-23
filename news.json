@@ -311,6 +311,25 @@
         "timestamp": 1790168220.0
     },
     {
+        "id": "29080bd176",
+        "title_fa": "فشار جمهوری‌خواهان بر ترامپ برای پایان جنگ با ایران",
+        "title_en": "These GOP candidates in tight races are calling for a quick end to Iran war",
+        "summary": [
+            "نامزدهای حزب جمهوری‌خواه در رقابت‌های انتخاباتی فشرده، خواستار پایان سریع درگیری‌ها با ایران شده‌اند.",
+            "افزایش هزینه‌های انرژی و نارضایتی عمومی، خطرات انتخاباتی جدی برای حامیان دولت ایجاد کرده است.",
+            "دونالد ترامپ همچنان بر استراتژی خود پافشاری می‌کند و حتی احتمال تشدید تنش‌ها را رد نکرده است."
+        ],
+        "impact": "نگرانی از هزینه‌های اقتصادی جنگ، شکافی درون‌حزبی میان جمهوری‌خواهان ایجاد کرده است.",
+        "tag": "انتخابات",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/gop-candidates-tight-races-calling-150032403.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/gop-candidates-tight-races-calling-150032403.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/7ab591b3a0a0bcff769a21174d6a0ff0564863f18ba1abe9f90cb959a0b209ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fde234de08caec0c47acce1450ea5f8be.jpg",
+        "timestamp": 1790167620.0
+    },
+    {
         "id": "1be2c98788",
         "title_fa": "بررسی گزینه نظامی علیه برنامه‌های جـ.ـهـ.ـورى اسـ.ـلـ.ـامـ.ـی در میز مشترک ترامپ و نتانیاهو",
         "title_en": "Trump and Netanyahu Explored all Iran Options Including Attack, Israeli Official Says",
@@ -5453,23 +5472,5 @@
         "clean_url": "https://www.iranintl.com/en/202609229544",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/06de5c459695e48d97a46564e8aec01990c4277c-1160x774.jpg?rect=251,94,680,680&w=200&h=200&q=58&fit=crop&auto=format",
         "timestamp": 1790028660.0
-    },
-    {
-        "id": "a29efb21ab",
-        "title_fa": "دیپلماسی نیویورک برای مهار بحران هرمز و میانجی‌گری قطر بین ایران و آمریکا",
-        "title_en": "Iran diplomacy intensifies at UN as Hormuz crisis keeps pressure on region",
-        "summary": [
-            "قطر در حاشیه سازمان ملل تلاش می‌کند توافقی کوتاه‌مدت میان واشنگتن و تهران برای بازگشایی مسیر کشتیرانی هرمز و مهار حملات حوثی‌ها ایجاد کند.",
-            "عراقچی در نیویورک به‌دنبال گفتگو است، اما غرب شرط هرگونه مذاکره جدی را رفع کامل تهدیدات ترانزیت انرژی و توقف تنش‌زایی‌های منطقه‌ای می‌داند."
-        ],
-        "impact": "باز شدن احتمالی گره کشتیرانی در هرمز می‌تواند فشارهای اقتصادی و خطر درگیری مستقیم را موقتاً کاهش دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609222506",
-        "clean_url": "https://www.iranintl.com/en/202609222506",
-        "image": "http://www.bing.com/th?id=ONUT.4KwTPPwjKIbVESVG3MsNMQ&pid=News",
-        "timestamp": 1790026560.0
     }
 ]
