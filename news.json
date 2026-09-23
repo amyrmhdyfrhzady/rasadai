@@ -474,6 +474,25 @@
         "timestamp": 1790162760.0
     },
     {
+        "id": "b582a41c67",
+        "title_fa": "تناقض در سخنان پزشکیان؛ رجزخوانی علنی و نیاز پنهان به مذاکره",
+        "title_en": "Iran’s Tough Talk at the UN Gives Away Its Secret",
+        "summary": [
+            "مسعود پزشکیان در سازمان ملل از یک‌سو ادعای مقاومت در برابر فشارها را مطرح کرد و از سوی دیگر چراغ سبز نشان داد.",
+            "تهران به شدت نیازمند یک مسیر خروج از بحران است، اما می‌خواهد آن را بدون باخت و تسلیم جلوه دهد.",
+            "تضاد میان رجزخوانی‌های ظاهری و التماس برای دیپلماسی، بن‌بست واقعی حاکمیت را نمایان می‌کند."
+        ],
+        "impact": "افزایش فشار روانی بر ج.ا برای تن دادن به توافق زیر بار فشارهای حداکثری.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-pezeshkian-un-speech-war-diplomacy-12479915",
+        "clean_url": "https://www.newsweek.com/iran-pezeshkian-un-speech-war-diplomacy-12479915",
+        "image": "http://www.bing.com/th?id=ONUT.6I8phWQgDCi7JIEWhZEe-w&pid=News",
+        "timestamp": 1790162640.0
+    },
+    {
         "id": "92ea2b36e0",
         "title_fa": "بازی بزرگ پکن و واشنگتن روی میز ترامپ",
         "title_en": "از ایران تا عناصر کمیاب، شی با چه اهرم‌هایی به دیدار ترامپ می‌رود؟",
@@ -5452,23 +5471,5 @@
         "clean_url": "https://www.iranintl.com/en/202609222506",
         "image": "http://www.bing.com/th?id=ONUT.4KwTPPwjKIbVESVG3MsNMQ&pid=News",
         "timestamp": 1790026560.0
-    },
-    {
-        "id": "50bc171563",
-        "title_fa": "انزوای هوایی ایران با فشار حداکثری آمریکا",
-        "title_en": "Flying to or from Iran? What to know as US pressure squeezes air links",
-        "summary": [
-            "محدودیت‌های تازه‌ای پروازهای بین‌المللی به مقصد و مبدأ ایران را هدف قرار داده است",
-            "شرکت‌های هواپیمایی خارجی تحت فشار واشنگتن ناچار به بازنگری در مسیرهای پروازی خود هستند"
-        ],
-        "impact": "افزایش انزوای بین‌المللی و اختلال جدی در خطوط ارتباطی هوایی کشور",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40SEJYRGZkR1FCaW9TZnFyYTcyU3VqdndHaWozRDBRTU1vYzNXa1RRbVJuOTV2aU5ub0FEUGpPaXBic2RzUTJZS1dobVdtVk9fWEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40SEJYRGZkR1FCaW9TZnFyYTcyU3VqdndHaWozRDBRTU1vYzNXa1RRbVJuOTV2aU5ub0FEUGpPaXBic2RzUTJZS1dobVdtVk9fWEE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790025840.0
     }
 ]
