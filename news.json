@@ -1,5 +1,23 @@
 [
     {
+        "id": "2df373d852",
+        "title_fa": "حضور مستشاران سپـ.ـاه در یمن برای هدایت جنگ دریایی",
+        "title_en": "Yemen's Houthi rebels shook up the Mideast with a sudden blitz. Iran helped,...",
+        "summary": [
+            "نیروهای حوثی با کمک مستقیم مستشاران نظامی سپـ.ـاه توانستند سواحل دریای سرخ را در زمان کوتاهی تصرف کنند.",
+            "این عملیات نشان داد که تهران جنگ نیابتی را به سطح مداخله مستقیم و ابزاری برای بستن شیرهای نفت و فشار بر غرب تبدیل کرده است."
+        ],
+        "impact": "بال رفتن قیمت جهانی سوخت و افزایش اهرم فشار تهران در معادلات منطقه‌ای",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Associated Press",
+        "url": "https://www.yahoo.com/news/world/articles/yemens-houthi-rebels-shook-mideast-081737132.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/yemens-houthi-rebels-shook-mideast-081737132.html",
+        "image": "https://media.zenfs.com/en/ap.org/dc9253e68c339ececdf2321839666887.jpg",
+        "timestamp": 1790151445.0
+    },
+    {
         "id": "b1ced7b8dc",
         "title_fa": "شرط‌گذاری تهران برای پایان جنگ خلیج فارس",
         "title_en": "Seven demands and no concessions: an analysis and deconstruction of Iran's terms of reference for ending the Gulf War",
@@ -911,6 +929,24 @@
         "clean_url": "https://www.wionews.com/world/us-launches-retaliatory-strike-on-houthi-targets-in-yemen-after-attack-on-israels-tel-aviv-785886",
         "image": "https://cdn.wionews.com/sites/default/files/2024/12/22/472484-new-wion-2024-12-22t062122532.jpg?imwidth=1200&imheight=900",
         "timestamp": 1790093700.0
+    },
+    {
+        "id": "75a979969f",
+        "title_fa": "تهدید اتمی ترامپ علیه جـ.ـهـ.ـوری اسـ.ـلامی در سازمان ملل",
+        "title_en": "Trump threatens Iran, predicts Cuba's fall. Key UN takeaways",
+        "summary": [
+            "دونالد ترامپ در مجمع عمومی سازمان ملل با ادبیاتی بی‌سابقه از احتمال نابودی کامل جـ.ـهـ.ـوری اسـ.ـلامی سخن گفت.",
+            "تمرکز اصلی سخنرانی ترامپ بر روی دشمنان اصلی آمریکا بود و خط‌ونشان کشیدن برای تهران، پالس محکمی به متحدان منطقه‌ای فرستاد."
+        ],
+        "impact": "افزایش فوری ریسک امنیتی و روانی در بازارهای مالی داخل کشور",
+        "tag": "آمریکا",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/news/world/2026/09/22/trump-un-iran-cuba-ukraine-takeaways/91895275007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/09/22/trump-un-iran-cuba-ukraine-takeaways/91895275007",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/22/USAT/91895348007-20260922-t-144943-z-757970783-rc-2-eonamsnb-2-rtrmadp-3-unassemblytrump.JPG?crop=1908,1073,x1714,y1276&width=1908&height=1073&format=pjpg&auto=webp",
+        "timestamp": 1790093280.0
     },
     {
         "id": "707316be37",
@@ -5442,41 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVFqM3dsWUM4THJYRElNaW1LOXdfTlpmTG1GOVNPazZlS1JhSFFmNEtlY3hXMlhIaS1TYkRMQmM4NFdiZGxQUTVjMmNHdUNDQnI2QzVlcThBY2szUkZvUXcxeHBta2hORmtISkRLNjJZWmVtOEdOYnNOWE5yY19kWFFLRVl5dnpIc09FaExnT0syRzd3VzVJUjM0TXJvX0lRX29GdWFLcnVvcVBVTURya2hHdno",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789975080.0
-    },
-    {
-        "id": "721de680a0",
-        "title_fa": "فشار ریاض به واشنگتن برای اقدام نظامی علیه حوثی‌ها",
-        "title_en": "اکسیوس: عربستان سعودی اواخر هفته گذشته بار دیگر از ترامپ خواست در یمن اقدام نظامی کند",
-        "summary": [
-            "عربستان بار دیگر از دونالد ترامپ خواسته است تا به مواضع حوثی‌ها در یمن حمله نظامی کند.",
-            "فرمانده سنتکام گزینه‌های حملات هوایی را آماده کرده اما ترامپ فعلاً دستور توقف صادر کرده است."
-        ],
-        "impact": "سایه سنگین درگیری‌های منطقه‌ای بر امنیت انرژی و آبراه‌های حیاتی خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609214246",
-        "clean_url": "https://www.iranintl.com/202609214246",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1789974420.0
-    },
-    {
-        "id": "ffb92eb9ac",
-        "title_fa": "تماس تلفنی ترامپ با رئیس شورای ریاستی یمن",
-        "title_en": "رویترز: ترامپ و رییس شورای ریاستی یمن درباره حوثی‌ها تلفنی گفت‌وگو کردند",
-        "summary": [
-            "دونالد ترامپ در تماس تلفنی با رشاد العلیمی وضعیت پیشروی حوثی‌های وابسته به ته‌ران را بررسی کرد.",
-            "رئیس شورای ریاستی یمن درخواست حمایت نظامی کرد اما واشنگتن هیچ تعهد مشخصی نداد."
-        ],
-        "impact": "آمریکا عجله‌ای برای ورود مستقیم نظامی به درگیری‌های یمن ندارد.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609215229",
-        "clean_url": "https://www.iranintl.com/202609215229",
-        "image": "http://www.bing.com/th?id=ONUT.stvsO0C7Qo4hCjuPMp8cHQ&pid=News",
-        "timestamp": 1789972560.0
     }
 ]
