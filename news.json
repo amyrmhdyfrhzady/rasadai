@@ -383,6 +383,25 @@
         "timestamp": 1790156587.0
     },
     {
+        "id": "42395b9cda",
+        "title_fa": "تقابل لفظی و ترک سالن در سازمان ملل",
+        "title_en": "Trump Delegate Walks Out as Iran’s President Accuses US of ‘Terrorism’",
+        "summary": [
+            "مسعود پزشکیان در مجمع عمومی سازمان ملل متحد، جمهوری اسلامی را قربانی تروریسم خواند و از اقدامات دفاعی سخن گفت.",
+            "نماینده ایالات متحده همزمان با سخنرانی مقام ارشد ایران سالن را ترک کرد تا شکاف دیپلماتیک عمیق‌تر شود.",
+            "این تنش پس از تهدیدهای صریح دونالد ترامپ مبنی بر احتمال نابودی تاسیسات و توان نظامی ایران رخ داد."
+        ],
+        "impact": "افزایش تنش‌های سیاسی و بسته شدن بیشتر درهای دیپلماسی میان واشنگتن و تهران.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-president-war-united-nations-terrorism-speech-trump-12478050",
+        "clean_url": "https://www.newsweek.com/iran-president-war-united-nations-terrorism-speech-trump-12478050",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/AP26266513918592.jpg?w=1200&crop=1",
+        "timestamp": 1790156340.0
+    },
+    {
         "id": "589ebd986b",
         "title_fa": "تهدید ایران به فلج کردن فرودگاه‌های کشورهای همسایه",
         "title_en": "Iran warns it would disrupt regional airports if its flights are barred",
@@ -5458,23 +5477,5 @@
         "clean_url": "https://www.iranintl.com/202609210035",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790008260.0
-    },
-    {
-        "id": "af469274ea",
-        "title_fa": "سقوط محبوبیت ترامپ به رکورد ۳۲ درصد تحت فشار گرانی",
-        "title_en": "Exclusive-Trump approval falls to record low of 32% as high costs bite, Reuters/Ipsos poll finds",
-        "summary": [
-            "افزایش هزینه‌های زندگی و تورم، نارضایتی حامیان حزب جمهوری‌خواه را برانگیخته و میزان محبوبیت ترامپ را به پایین‌ترین حد رسانده است.",
-            "فشار اقتصادی و قیمت‌ها اکنون به اصلی‌ترین پاشنه آشیل دولت ترامپ در افکار عمومی تبدیل شده است."
-        ],
-        "impact": "تضعیف موقعیت سیاسی ترامپ و افزایش ریسک شکست حزب جمهوری‌خواه در رویدادهای انتخابی پیش‌رو.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/other/exclusive-trump-approval-falls-to-record-low-of-32-as-high-costs-bite-reuters-ipsos-poll-finds/ar-AA2cHR7i",
-        "clean_url": "https://www.msn.com/en-us/news/other/exclusive-trump-approval-falls-to-record-low-of-32-as-high-costs-bite-reuters-ipsos-poll-finds/ar-AA2cHR7i",
-        "image": "http://www.bing.com/th?id=ONUT.D_S3WtPbBkPXfRAmq5ZKgQ&pid=News",
-        "timestamp": 1790007909.0
     }
 ]
