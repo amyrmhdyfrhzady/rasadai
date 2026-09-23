@@ -220,6 +220,24 @@
         "timestamp": 1790172300.0
     },
     {
+        "id": "c435b782bd",
+        "title_fa": "آغاز سال تحصیلی جدید در سایه سنگین سرکوب و جنگ",
+        "title_en": "Iran’s new school year begins in the shadow of protest and war",
+        "summary": [
+            "سال تحصیلی جدید در مدارس ایران با فضای کاملاً امنیتی و غم‌بار آغاز شد.",
+            "یاد دانش‌آموزان کشته‌شده در اعتراضات دی‌ماه و حملات جنگی همچنان بر کلاس‌های درس سنگینی می‌کند."
+        ],
+        "impact": "فضای مدارس کشور تحت تأثیر بحران‌های امنیتی و تلفات انسانی اخیر کاملاً متشنج است.",
+        "tag": "اجتماعی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609235143",
+        "clean_url": "https://www.iranintl.com/en/202609235143",
+        "image": "http://www.bing.com/th?id=ONUT.Ia9tZAYxeYlvRRTU2I-XwA&pid=News",
+        "timestamp": 1790169060.0
+    },
+    {
         "id": "183273ef89",
         "title_fa": "کشف تونل ۶۰۰ متری در غزه توسط ارتش اسرائیل",
         "title_en": "IDF discovers 600-meter tunnel in Gaza",
@@ -5452,23 +5470,5 @@
         "clean_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-president-trump-meeting-gracie-mansion-nyc",
         "image": "http://www.bing.com/th?id=ONUT.1-v4YkRp2ZySk4cJwf8ylg&pid=News",
         "timestamp": 1790023200.0
-    },
-    {
-        "id": "41e7fcbc97",
-        "title_fa": "پاسخ اسرائیل به دشمنان؛ درس مقاومت و بازدارندگی",
-        "title_en": "Israel's enemies are learning what resilience really means",
-        "summary": [
-            "مقامات اسرائیل روی قدرت بازدارندگی و پایداری در برابر تهدیدهای منطقه‌ای تاکید دارند.",
-            "این موضع‌گیری پیامی آشکار به تهران و گروه‌های نیابتی درباره عدم تغییر در استراتژی دفاعی تل‌آویو است."
-        ],
-        "impact": "تقویت روحیه داخلی اسرائیل و ارسال سیگنال آمادگی نظامی به جبهه مقابل.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZRODc3dW5aVEhHUml0ZjM5cUU1QzFvNGVBX2VMeDVDTkVvdXJXb2JuRE1pN1RHODYtUWxXbEp6NlRodmFhbjY1TTIyOUQyS1dIYUdISkdoVlBrYXdfYXRPUVZReEJuLVNJVjNDRHJ4bEJvamwtUHU4UHNMTktucDY4Q18teDl1RVZ3NGdGeVJuTHRYeDJvc19LT1E1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZRODc3dW5aVEhHUml0ZjM5cUU1QzFvNGVBX2VMeDVDTkVvdXJXb2JuRE1pN1RHODYtUWxXbEp6NlRodmFhbjY1TTIyOUQyS1dIYUdISkdoVlBrYXdfYXRPUVZReEJuLVNJVjNDRHJ4bEJvamwtUHU4UHNMTktucDY4Q18teDl1RVZ3NGdGeVJuTHRYeDJvc19LT1E1QQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790022939.0
     }
 ]
