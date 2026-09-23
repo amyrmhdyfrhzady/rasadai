@@ -182,6 +182,24 @@
         "timestamp": 1790113680.0
     },
     {
+        "id": "7b0946e9bc",
+        "title_fa": "مذاکرات غیرمستقیم تهران و واشنگتن در نیویورک با میانجیگری قطر",
+        "title_en": "Iran sets out terms as US-Iran talks intensify in New York",
+        "summary": [
+            "مقام وزارت خارجه ج.ا اعلام کرد شرایط تهران شامل پایان جنگ، توقف تحریم‌ها و آزادی پول‌های بلوکه‌شده از طریق میانجی قطری به آمریکا منتقل شده است.",
+            "استیو ویتکف، فرستاده ویژه آمریکا، تأیید کرد که دور جدیدی از گفتگوهای غیرمستقیم انجام شده و طرفین به دنبال پیشبرد روند دیپلماسی هستند."
+        ],
+        "impact": "باز شدن کانال‌های دیپلماتیک پنهان میان تهران و واشنگتن برای کاهش تنش‌های منطقه‌ای و اقتصادی",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609236560",
+        "clean_url": "https://www.iranintl.com/en/202609236560",
+        "image": "http://www.bing.com/th?id=ONUT.s-JrxY_iogIYeMeNUzleUw&pid=News",
+        "timestamp": 1790112900.0
+    },
+    {
         "id": "65080e08a1",
         "title_fa": "ادعای ترامپ درباره مذاکرات پنهانی تهران و واشنگتن",
         "title_en": "Iran and US hold talks on sidelines of UN summit, says Trump",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://www.aol.com/articles/trump-admitted-gas-prices-could-103000000.html",
         "image": "https://hermes.media.static.aol.com/media/2026/09/21/8db5e7f0-40c1-304b-b16c-e27808d3a868/a9b066bc-5b8e-4076-b754-59abfa671957.jpg",
         "timestamp": 1789961400.0
-    },
-    {
-        "id": "c2bdee9fc7",
-        "title_fa": "رکوردشکنی حملات ترامپ به بایدن در رقابت‌های سیاسی",
-        "title_en": "Trump's favorite 2026 campaign target is Biden: nearly 900 mentions and counting",
-        "summary": [
-            "دونالد ترامپ از ابتدای سال جاری میلادی تاکنون نزدیک به ۹۰۰ بار نام جو بایدن را در سخنرانی‌هایش تکرار کرده است.",
-            "این استراتژی نشان می‌دهد که ترامپ همچنان رقیب دموکرات خود را محور اصلی حملات انتخاباتی و تبلیغاتی نگه داشته است."
-        ],
-        "impact": "حفظ فشار روانی بر حزب رقیب از طریق تداوم حملات لفظی علیه رهبران دموکرات.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-favorite-2026-campaign-target-is-biden-nearly-900-mentions-and-counting/ar-AA2cF3X2",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-favorite-2026-campaign-target-is-biden-nearly-900-mentions-and-counting/ar-AA2cF3X2",
-        "image": "http://www.bing.com/th?id=ONUT.JX9vzcR71h0QrK8CC8qx7w&pid=News",
-        "timestamp": 1789961254.0
     }
 ]
