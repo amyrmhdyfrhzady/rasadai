@@ -381,6 +381,25 @@
         "timestamp": 1790098140.0
     },
     {
+        "id": "44f469b1ca",
+        "title_fa": "دیدار پشت درهای بسته ترامپ و رودریگز",
+        "title_en": "ترامپ و دلسی رودریگز برای نخستین بار پس از بازداشت مادورو دیدار کردند",
+        "summary": [
+            "دونالد ترامپ و دلسی رودریگز در حاشیه نشست سازمان ملل برای نخستین بار دیدار کردند.",
+            "تیم اقتصادی ونزوئلا با تمرکز بر جذب سرمایه گذاری نفتی و ارائه چهره ای تازه راهی آمریکا شد.",
+            "منتقدان واشینگتن را متهم می کنند که مطالبات دموکراسی خواهانه مردم ونزوئلا را فدای قراردادهای نفتی کرده است."
+        ],
+        "impact": "تغییر تمرکز آمریکا از گذار سیاسی در ونزوئلا به سمت معاملات و قراردادهای نفتی.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609234757",
+        "clean_url": "https://www.iranintl.com/202609234757",
+        "image": "http://www.bing.com/th?id=ONUT.q2zbgjbjG5LXyglItsvcoQ&pid=News",
+        "timestamp": 1790096400.0
+    },
+    {
         "id": "ecc790214b",
         "title_fa": "هشدار صریح اسرائیل: محل پنهان شدن مقامات رژیم را می‌دانیم",
         "title_en": "سفیر اسرائیل در سازمان ملل: اسرائیل می‌داند رهبران جمهوری اسلامی کجا پنهان شده‌اند",
@@ -5459,24 +5478,6 @@
         "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
         "clean_url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4853x2728+0+206/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fa2%2Fb8513b0c4408b983f61eee13d8e9%2Fgettyimages-2293714469.jpg",
-        "timestamp": 1789959600.0
-    },
-    {
-        "id": "4798a5eb72",
-        "title_fa": "شکاف در پایگاه رای جمهوری‌خواهان بر سر انتخابات ۲۰۲۰",
-        "title_en": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
-        "summary": [
-            "برخی نامزدهای جمهوری‌خواه همچنان ادعاهای ترامپ درباره تقلب در انتخابات ۲۰۲۰ را تکرار می‌کنند.",
-            "بخش بزرگی از رای‌دهندگان خواستار عبور از این موضوع و تمرکز بر مسائل روز هستند."
-        ],
-        "impact": "ایجاد چالش در همبستگی حزب جمهوری‌خواه در آستانه رقابت‌های انتخاباتی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
-        "clean_url": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
-        "image": "http://www.bing.com/th?id=ONUT.YYozDUQyoHjKdyJlAV6-Aw&pid=News",
         "timestamp": 1789959600.0
     }
 ]
