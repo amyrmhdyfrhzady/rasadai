@@ -1036,6 +1036,24 @@
         "timestamp": 1790121600.0
     },
     {
+        "id": "bdb323d4c9",
+        "title_fa": "دفاع ترامپ از سیاست فشار علیه ای-ران و ونزوئلا در سازمان ملل",
+        "title_en": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies",
+        "summary": [
+            "ترامپ در مجمع عمومی سازمان ملل روی رویکرد سخت‌گیرانه خود در قبال ای-ران و ونزوئلا پافشاری کرد.",
+            "این سخنرانی در شرایطی انجام شد که تنش‌های دیپلماتیک با متحدان غربی بر سر نوع مواجهه با پرونده‌های امنیتی بالا گرفته است."
+        ],
+        "impact": "تقویت رویکرد فشار حداکثری و افزایش شکاف میان واشنگتن و متحدان اروپایی‌اش.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "rakyatpos",
+        "url": "https://www.rakyatpos.id/2026/09/trump-defends-actions-in-iran-and-venezuela-in-un-general-assembly-address-amid-rising-tensions-with-allies-live-donald-trump.html",
+        "clean_url": "https://www.rakyatpos.id/2026/09/trump-defends-actions-in-iran-and-venezuela-in-un-general-assembly-address-amid-rising-tensions-with-allies-live-donald-trump.html",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790119080.0
+    },
+    {
         "id": "0d9e6d797a",
         "title_fa": "اولین گفتگوی آمریکا و تهران پس از تهدیدهای ترامپ",
         "title_en": "US and Iran hold first talks since June after Trump's annihilation threat",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://www.iranintl.com/202609217856",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1789997580.0
-    },
-    {
-        "id": "ff19397013",
-        "title_fa": "جهش بی‌سابقه سهام فناوری در بازار مالی آمریکا",
-        "title_en": "Tech stocks power market surge as bond yields and oil prices tumble",
-        "summary": [
-            "شاخص‌های بورسی روزی کم‌نظیر را ثبت کردند و شرکت‌های بزرگ تراشه‌سازی و هوش مصنوعی رشد چشمگیری داشتند.",
-            "خوش‌بینی سرمایه‌گذاران به آینده صنعت تکنولوژی موتور محرک این صعود سنگین بوده است."
-        ],
-        "impact": "تزریق نقدینگی تازه به بازار سرمایه و اوج‌گیری ارزش غول‌های فناوری.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": 0.9,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/markets/tech-stocks-bond-yields-oil-tumbles-rcna599082",
-        "clean_url": "https://www.nbcnews.com/business/markets/tech-stocks-bond-yields-oil-tumbles-rcna599082",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260921-NYSE-aa-348-37b093.jpg",
-        "timestamp": 1789997160.0
     }
 ]
