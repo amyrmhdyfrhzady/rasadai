@@ -1,5 +1,24 @@
 [
     {
+        "id": "ff91ace438",
+        "title_fa": "حمله لفظی پزشکیان به ترامپ در اوج تنش‌های نظامی",
+        "title_en": "Iran-US war live: Iranian president hits out at 'bully' Trump",
+        "summary": [
+            "مسعود پزشکیان با متهم کردن واشنگتن به نقض قوانین بین‌المللی، دونالد ترامپ را «زورگو» خواند تا خط تبلیغاتی حاکمیت را پیش ببرد.",
+            "این مواضع تند کلامی، تلاشی برای مظلوم‌نمایی دیپلماتیک در برابر استراتژی فشار حداکثری و تهدیدات نظامی ترامپ محسوب می‌شود.",
+            "دست‌پایینی تهران در برابر تهدیدات مستقیم کاخ سفید، مسئولان را به سمت تبلیغات رسانه‌ای و جنگ روانی سوق داده است."
+        ],
+        "impact": "بسته‌شدن کامل منافذ دیپلماسی و افزایش احتمال مواجهه مستقیم یا تشدید تحریم‌های خفه‌کننده.",
+        "tag": "آمریکا",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-us-war-live-iranian-president-hits-out-at-bully-trump/ar-AA2cNtI4",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-live-iranian-president-hits-out-at-bully-trump/ar-AA2cNtI4",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790202026.0
+    },
+    {
         "id": "e32ea86697",
         "title_fa": "دور زدن تحریم‌های نفتی ایران در کانون مذاکرات واشینگتن و پکن",
         "title_en": "Xi Jinping's White House visit: Shifting Chinese views & skirting Iran oil sanctions",
@@ -198,6 +217,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOXc4ODdJcmxaUkVjb3ltbWhHUkJrMnNjZ29IYlJJM3VVWU13dkdXWHJ5YzltUmRHaHBpSmhwV0xFczlWOW5Gb0l2enJyam0zVW5xNGZYNWdyckJMNnB0TExRS2Z2THhCcldlNmJfUHF4VkpoVmJJWXJ5czhVV3lYNTBNRXJscmQ4a3FfOGtsUW9iVTE1RnMtZ2FMdVc2Zi1YVnp0OXFUUzZLTm5CMXp4bQ",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790174642.0
+    },
+    {
+        "id": "68083d9c67",
+        "title_fa": "حملات هوایی به حوثی‌ها در تعز و فشار حقوق بشری بر تهران",
+        "title_en": "نیروهای مسلح یمن مواضع حوثی‌ها در تعز را هدف حملات هوایی قرار دادند",
+        "summary": [
+            "ارتش یمن مواضع شبه‌نظامیان حوثی وابسته به ج‌م‌هوری ا‌س‌لامی در استان تعز را زیر آتش حملات هوایی قرار داد تا تحرکات میدانی بازوهای نیابتی را مهار کند.",
+            "هم‌زمان، ۴ گزارشگر ویژه سازمان ملل در بیانیه‌ای شلیک به کولبران و سوخت‌بران محروم در مناطق مرزی ایران را محکوم کرده و خواستار توقف کشتار مرزنشینان شدند.",
+            "همزمانی ضربات میدانی به نیابتی‌ها در یمن و افشاگری‌های بین‌المللی علیه سرکوب‌های داخلی، انزوای همه‌جانبه تهران را تشدید کرده است."
+        ],
+        "impact": "افزایش ریسک عملیاتی برای شبه‌نظامیان حوثی در یمن و تشدید فشارهای بین‌المللی بر پرونده حقوق بشر ایران.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609235692",
+        "clean_url": "https://www.iranintl.com/202609235692",
+        "image": "http://www.bing.com/th?id=ONUT.y8q3TBLvpMJROZgtP3ef3w&pid=News",
+        "timestamp": 1790174520.0
     },
     {
         "id": "8215801f0c",
@@ -5435,42 +5473,5 @@
         "clean_url": "https://www.huffpost.com/entry/donald-trump-obsession-2026-midterms_n_6ab21c2be4b043d6b5685626",
         "image": "http://www.bing.com/th?id=ONUT.ZIBWyNjJubA0Cr57IyhSUQ&pid=News",
         "timestamp": 1790032980.0
-    },
-    {
-        "id": "3a5bfe486e",
-        "title_fa": "فشار فرانسه بر حوثی‌ها برای توقف تنش‌های دریایی",
-        "title_en": "Houthis must stop escalation and commit to peace, France's UN envoy tells Arab News",
-        "summary": [
-            "نماینده فرانسه در سازمان ملل، اقدامات نظامی حوثی‌ها در باب‌المندب و علیه عربستان را غیرقابل قبول خواند.",
-            "پاریس با تاکید بر شکست گزینه نظامی، حوثی‌ها را به بازگشت به میز مذاکرات صلح و پذیرش دولت قانونی یمن فراخواند.",
-            "فرانسه همچنان بر حفظ کانال‌های دیپلماتیک با ج.ا.ا برای مدیریت تنش‌ها در تنگه هرمز اصرار دارد."
-        ],
-        "impact": "افزایش فشار دیپلماتیک غرب برای مهار حملات نیابتی در آب‌های استراتژیک منطقه.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Arab News",
-        "url": "https://www.arabnews.com/middle-east/houthis-must-stop-escalation-and-commit-to-peace-frances-un-envoy-tells-arab-news-3002603",
-        "clean_url": "https://www.arabnews.com/middle-east/houthis-must-stop-escalation-and-commit-to-peace-frances-un-envoy-tells-arab-news-3002603",
-        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1790032336021-80865f5faff77aab.jpg",
-        "timestamp": 1790032440.0
-    },
-    {
-        "id": "0df13115ff",
-        "title_fa": "جهش بدهی عمومی بریتانیا و فشار شدید بر بودجه دولت",
-        "title_en": "UK government borrowing jumps over forecast to £18.3bn in August, in ‘dismal picture’ ahead of the budget – business live",
-        "summary": [
-            "استقراض دولت بریتانیا در ماه اوت به ۱۸.۳ میلیارد پوند رسید که بسیار فراتر از پیش‌بینی‌های کارشناسان مالی است.",
-            "رشد هزینه‌ها نسبت به درآمدهای مالیاتی، دولت را در آستانه تنظیم بودجه جدید در موقعیتی سخت قرار داده است."
-        ],
-        "impact": "افزایش احتمال کسری بودجه، افت ارزش پوند و ریسک اعمال سیاست‌های سخت‌گیرانه مالیاتی.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-        "clean_url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-        "image": "https://i.guim.co.uk/img/media/4b583dc819f5ec7ab9617c413172a05c53fab2bb/317_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=72dba0833214db1e34581e9b1f13225a",
-        "timestamp": 1790032320.0
     }
 ]
