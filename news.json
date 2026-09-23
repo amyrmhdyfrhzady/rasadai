@@ -1313,6 +1313,24 @@
         "timestamp": 1790118776.0
     },
     {
+        "id": "c6e1536124",
+        "title_fa": "بازی دوگانه ترامپ: مذاکراتی که با تهدید نظامی گره خورده است",
+        "title_en": "ویتکاف: یک دور از گفت‌وگوها با ایران پایان گرفت؛ استقبال ترامپ و تهدید همزمان درباره کلنگ‌گزلا",
+        "summary": [
+            "دونالد ترامپ از شکل‌گیری تحرک جدی برای دستیابی به توافق با ایران خبر داده و از دیدار سازنده فرستاده ویژه‌اش با میانجی‌ها سخن گفته است.",
+            "رئیس‌جمهور آمریکا همزمان با مسیر دیپلماسی، بار دیگر تهدید کرد که فعالیت در تأسیسات زیرزمینی کلنگ‌گزلا با واکنش فوری نظامی مواجه خواهد شد."
+        ],
+        "impact": "تلفیق سیگنال‌های توافق و تهدید نظامی، نشانگر فشار حداکثری همزمان با باز نگه داشتن درگاه مذاکره است.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.2,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/trump-iran-deal-witkoff-mediated-talks-gulf/33862610.html",
+        "clean_url": "https://www.radiofarda.com/a/trump-iran-deal-witkoff-mediated-talks-gulf/33862610.html",
+        "image": "https://gdb.rferl.org/d08d09c0-019d-4740-8de3-bfcd2ac7ed09_cx0_cy1_cw0_w1200_h630.jpg",
+        "timestamp": 1790117820.0
+    },
+    {
         "id": "f11e5e006d",
         "title_fa": "دهن‌کجی نخست‌وزیر اسپانیا به نشست ترامپ",
         "title_en": "World Leader Boycotts Trump to Meet the President’s Nemesis",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://townhall.com/news/jeff-charles/2026/09/21/scott-bessents-threatens-to-shut-down-iranian-airlines-n2683318",
         "image": "https://media.townhall.com/cdn/hodl/2026/237/112c8d25-b85d-4d9d-9770-cd7e377b2d5d-1200x630.jpeg",
         "timestamp": 1790007300.0
-    },
-    {
-        "id": "3a4161b4d5",
-        "title_fa": "گسترش اعتراضات معترضان و آماده‌باش امنیتی در شهرها",
-        "title_en": "Protests Spread in Iran as State Media Warns of Economic Choke Points and Security Mobilization Expands",
-        "summary": [
-            "اعتراضات معیشتی بازنشستگان در چندین شهر بزرگ ایران با شعارهای تند علیه وضعیت نابسامان اقتصادی شدت گرفت.",
-            "همزمان با سقوط ارزش ریال، حاکمیت بسیج سراسری و آماده‌باش امنیتی را در استان‌ها گسترش داده است."
-        ],
-        "impact": "تلاقی مطالبات اقتصادی با شعارهای سیاسی، فشار بر ارکان امنیتی حکومت را دوچندان کرده است.",
-        "tag": "اعتراضات",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "National Council of Resistance of Iran",
-        "url": "https://www.ncr-iran.org/en/news/economy/protests-spread-in-iran-as-state-media-warns-of-economic-choke-points-and-security-mobilization-expands/",
-        "clean_url": "https://www.ncr-iran.org/en/news/economy/protests-spread-in-iran-as-state-media-warns-of-economic-choke-points-and-security-mobilization-expands",
-        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2026/08/iran-shush-retirees-protests-02082026.jpg",
-        "timestamp": 1790006100.0
     }
 ]
