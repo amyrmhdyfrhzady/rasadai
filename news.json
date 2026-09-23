@@ -1,5 +1,23 @@
 [
     {
+        "id": "02ee5b805a",
+        "title_fa": "مسدودسازی پروازهای ایــران توسط برخی کشورها به دلیل تحریم‌های آمریکا",
+        "title_en": "Which countries are banning Iranian flights over US sanctions?",
+        "summary": [
+            "فشار تحریم‌های هوایی علیه جــمهوری اســلامی وارد فاز جدیدی شده است.",
+            "کشورهای مختلف به دلیل ترس از جریمه‌های واشنگتن، آسمان خود را به روی پروازهای ایــرانی می‌بندند."
+        ],
+        "impact": "انزوای بیشتر ناوگان هوایی و مختل شدن مراودات خارجی حکومت.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The New Arab",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObzRiSF9qem1pV3JjMERaSU9wX2RBMFhOenRFQktwMkREY1k3OUs0eXY2NFlYS3JONFFfbDAzSlVGTHlyaGhTV0l4ZDNvUmwzdVdOekhfWlJmdVJVYUNhTEJuc0VZVDh3MjNXWXpYa0tIS1V5c1hFdkdsT3hVUndJMWRNcy10ZkVWMEU5dkN4TkxPSm5VaHdmcHV30gGfAUFVX3lxTE44NTdBVndBdmxsSFdFY0U5cUFieHZNWVJfd3E3YlFiRXhCVV9iRXBYMFFvMXc5WndyaU9jSnZhNTc2bzMzUXctUjJKemg3Q1NYYkpiOVJlenc2Q1B0TmdMT0U1V3dSaGh0S04xc2Z6QUZ0bTAtQ3piWWNNNkFVZE9MR3RtVmtaYWFlbzZjQjh0azUzX3dkdU16bHZzdFlDVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObzRiSF9qem1pV3JjMERaSU9wX2RBMFhOenRFQktwMkREY1k3OUs0eXY2NFlYS3JONFFfbDAzSlVGTHlyaGhTV0l4ZDNvUmwzdVdOekhfWlJmdVJVYUNhTEJuc0VZVDh3MjNXWXpYa0tIS1V5c1hFdkdsT3hVUndJMWRNcy10ZkVWMEU5dkN4TkxPSm5VaHdmcHV30gGfAUFVX3lxTE44NTdBVndBdmxsSFdFY0U5cUFieHZNWVJfd3E3YlFiRXhCVV9iRXBYMFFvMXc5WndyaU9jSnZhNTc2bzMzUXctUjJKemg3Q1NYYkpiOVJlenc2Q1B0TmdMT0U1V3dSaGh0S04xc2Z6QUZ0bTAtQ3piWWNNNkFVZE9MR3RtVmtaYWFlbzZjQjh0azUzX3dkdU16bHZzdFlDVQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790152502.0
+    },
+    {
         "id": "df16ca6d19",
         "title_fa": "مذاکرات محرمانه تهران و واشنگتن در نیویورک",
         "title_en": "Live updates: US and Iran hold lengthy meeting in New York as both sides seek to break deadlock",
@@ -5456,24 +5474,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-revolutionary-guard-warns-us-over-escalation-and-other-mideast-developments/ar-AA2cFApe",
         "image": "http://www.bing.com/th?id=ONUT.a0FCS4CBxDjGrROBONIFow&pid=News",
         "timestamp": 1789978243.0
-    },
-    {
-        "id": "7aa646a85d",
-        "title_fa": "دیدار پولیبر با رضا پهلوی برای اخراج عوامل ج.ا",
-        "title_en": "Poilievre says he and Pahlavi discussed expelling IRGC 'terror agents' from Canada",
-        "summary": [
-            "پیر پولیبر، رهبر حزب محافظه‌کار کانادا، با رضا پهلوی دیدار کرد.",
-            "محور گفتگوها اخراج وابستگان سپاه پاسداران از کانادا و اعمال تحریم‌های تازه علیه تهران بود.",
-            "پولیبر حکومت فعلی ایران را نامشروع و تروریستی خوانdi که شهروندان کانادایی را به قتل رسانده است."
-        ],
-        "impact": "افزایش فشار سیاسی بر دولت کانادا برای قرار دادن کل سپاه در فهرست تروریستی و اخراج عوامل وابسته به حکومت.",
-        "tag": "اپوزیسیون",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609216622",
-        "clean_url": "https://www.iranintl.com/en/202609216622",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/99b6d247f63d554a155003f36caf5e9611a0da61-2048x1338.jpg?rect=0,132,2048,1075&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1789977660.0
     }
 ]
