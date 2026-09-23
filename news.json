@@ -585,6 +585,24 @@
         "timestamp": 1790156010.0
     },
     {
+        "id": "733a1057df",
+        "title_fa": "خط و نشان پزشکیان برای تـر‌امـپ در سازمان ملل",
+        "title_en": "In defiant speech, Pezeshkian calls out Trump and says Iran will fight 'until our last breath'",
+        "summary": [
+            "مسعود پزشکیان در سخنرانی خود در سازمان ملل، ایالات متحده را به تروریسم دولتی متهم کرد.",
+            "او با لحنی تند اعلام کرد که ایران تا آخرین نفس در برابر فشارهای واشنگتن مقاومت خواهد کرد."
+        ],
+        "impact": "این اظهارات تنش‌های لفظی میان تهران و واشنگتن را وارد فاز تازه‌ای می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/irans-president-delivers-wartime-address-at-un-we-have-been-victims-of-terrorism/ar-AA2cPs29",
+        "clean_url": "https://www.msn.com/en-us/news/other/irans-president-delivers-wartime-address-at-un-we-have-been-victims-of-terrorism/ar-AA2cPs29",
+        "image": "http://www.bing.com/th?id=ONUT.AxBLaUMXK704ZwtQRfMt-A&pid=News",
+        "timestamp": 1790155877.0
+    },
+    {
         "id": "589ebd986b",
         "title_fa": "تهدید ایران به فلج کردن فرودگاه‌های کشورهای همسایه",
         "title_en": "Iran warns it would disrupt regional airports if its flights are barred",
@@ -5453,24 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMFlQNVJMYmM5Szk5VnFQV1c4YTNESi0zMmd2eC1uWDk1alpab1R5UGlRZjhKd0JsR2pqVjM4NUl0SFI5X1hyOG8yeVJzUnItZmpuT3FKSWxYOXVBYkpqMnhBc1FuLXhLclJDQk5mSlRfTVZzRi0wQmx5V1phazR5aVJXVEdfS1FadE5tY09RSk9fR0JMNGxKZUpaeGhYcVhKQmVLMGJOMm9IcTFhMGFGSXc5VmJXQWctM3lmYXRfaWoyVzJuZ3VieGl0eklZQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790020274.0
-    },
-    {
-        "id": "255fa51557",
-        "title_fa": "خط و نشان سنگین ترامپ هم‌زمان با سفر رئیس‌جمهور به نیویورک",
-        "title_en": "Iran-US war latest: Iranian president to fly to New York for UN summit",
-        "summary": [
-            "دونالد ترامپ با هشداری مستقیم اعلام کرد گزینه‌های واشنگتن میان نابودی کامل نظامی یا کشاندن اقتصاد ایران به نقطه فروپاشی مطلق قرار دارد.",
-            "سفر هیئت ایرانی به نیویورک زیر سایه سنگین‌ترین تهدیدهای امنیتی انجام می‌شود و امیدها به گشایش دیپلماتیک را تقریباً به صفر رسانده است.",
-            "فشار حداکثری کاخ سفید وارد فاز ضربتی شده و راهبردی جز تسلیم یا فروپاشی اقتصادی باقی نگذاشته است."
-        ],
-        "impact": "تشدید التهاب امنیتی و احتمال پرش ناگهانی قیمت دلار در پی پررنگ‌تر شدن گزینه درگیری نظامی.",
-        "tag": "تنش نظامی",
-        "urgency": 8,
-        "sentiment": -0.75,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-iranian-president-to-fly-to-new-york-for-un-summit/ar-AA2cDAv5",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-iranian-president-to-fly-to-new-york-for-un-summit/ar-AA2cDAv5",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790019510.0
     }
 ]
