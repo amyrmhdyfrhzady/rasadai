@@ -619,6 +619,25 @@
         "timestamp": 1790093880.0
     },
     {
+        "id": "5518b62a2f",
+        "title_fa": "پاتک سنگین آمریکا به مواضع حوثی‌ها در یمن",
+        "title_en": "US launches retaliatory strike on Houthi targets in Yemen after attack on Israel's Tel Aviv",
+        "summary": [
+            "ارتش آمریکا در پاسخ به موشکباران تل‌آویو توسط حوثی‌ها، مواضع این گروه در صنعا را بمباران کرد.",
+            "انبار تسلیحات و مرکز فرماندهی حوثی‌ها هدف حملات هوایی دقیق جنگنده‌های آمریکایی قرار گرفت.",
+            "پدافند اسرائیل در رهگیری موشک حوثی‌ها ناکام ماند و شانزده نفر در تل‌آویو زخمی شدند."
+        ],
+        "impact": "تشدید درگیری‌ها در دریای سرخ و افزایش هزینه‌های نظامی نیابتی‌های رژیم در منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "WION",
+        "url": "https://www.wionews.com/world/us-launches-retaliatory-strike-on-houthi-targets-in-yemen-after-attack-on-israels-tel-aviv-785886",
+        "clean_url": "https://www.wionews.com/world/us-launches-retaliatory-strike-on-houthi-targets-in-yemen-after-attack-on-israels-tel-aviv-785886",
+        "image": "https://cdn.wionews.com/sites/default/files/2024/12/22/472484-new-wion-2024-12-22t062122532.jpg?imwidth=1200&imheight=900",
+        "timestamp": 1790093700.0
+    },
+    {
         "id": "707316be37",
         "title_fa": "فلج شدن پروازهای خارجی با تحریم‌های جدید هوانوردی",
         "title_en": "توقف پروازهای ایرانی به بغداد، مسقط و جمهوری آذربایجان؛ حلقه محدودیت‌های هوایی تنگ‌تر شد",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://www.iranintl.com/202609213831",
         "image": "http://www.bing.com/th?id=ONUT.Jk4Q2mOxmaNbKnVCyh2GAg&pid=News",
         "timestamp": 1789961580.0
-    },
-    {
-        "id": "56aa83477a",
-        "title_fa": "حملات شبانه ترامپ و ادعاهای اقتصادی جنجالی",
-        "title_en": "Trump, 80, Unravels in 1AM Posting Frenzy",
-        "summary": [
-            "ترامپ در پست‌های شبانه خود مدعی شد قیمت سوخت و کالاها در دوران ریاست جمهوری بایدن بسیار بالاتر بوده است.",
-            "بررسی آماری نشان می‌دهد این مقایسه با فیلترهای سیاسی انجام شده و تورم همچنان بر زندگی شهروندان فشار می‌آورد."
-        ],
-        "impact": "تشدید جنگ روایت‌ها پیرامون وضعیت اقتصادی و تورم در آمریکا.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/trump-80-unravels-in-1-am-posting-frenzy/",
-        "clean_url": "https://www.thedailybeast.com/trump-80-unravels-in-1-am-posting-frenzy",
-        "image": "http://www.bing.com/th?id=ONUT.gMVT2rHvMgfIOe4m-Hhbsw&pid=News",
-        "timestamp": 1789961460.0
     }
 ]
