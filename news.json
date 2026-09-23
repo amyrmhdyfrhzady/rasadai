@@ -455,6 +455,25 @@
         "timestamp": 1790151445.0
     },
     {
+        "id": "a4e3cbcb66",
+        "title_fa": "پزشکیان در سازمان ملل: ما قربانی تروریسم هستیم",
+        "title_en": "Pezeshkian hits back at Trump, says Iran is 'victim of terrorism'",
+        "summary": [
+            "مسعود پزشکیان در واکنش به حملات لفظی دونالد ترامپ، اتهامات واشنگتن علیه تهران را رد کرد.",
+            "او با اشاره به حملات آمریکا و اسرائیل، مدعی شد که مردم ایران در برابر این فشارها ایستادگی کرده‌اند.",
+            "ترامپ پیش‌تر تهدید کرده بود اگر تهران به توافق تن ندهد، جمهوری اسلامی با خطر نابودی روبه‌رو خواهد شد."
+        ],
+        "impact": "افزایش تنش‌های لفظی میان مقامات ارشد تهران و واشنگتن در مجمع عمومی سازمان ملل.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/pezeshkian-hits-back-trump-says-150339810.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/pezeshkian-hits-back-trump-says-150339810.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/1f81b2b53640029471263201a2d25dfa6c74cd75cd0a35d88439759c84421d9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb1733db3bc5d2d47cf0bf97c4802fc4a.jpg",
+        "timestamp": 1790150580.0
+    },
+    {
         "id": "c2c68aef60",
         "title_fa": "هشدار نهادهای امنیتی اسرائیل درباره احتمال تصاعد بحران در خاورمیانه",
         "title_en": "Israel security officials warn of potential escalation across Middle East",
@@ -5458,23 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790003901.0
-    },
-    {
-        "id": "72c223663f",
-        "title_fa": "رونمایی ترامپ از پد هلیکوپتر کاخ سفید و تحریم رسانه‌ها",
-        "title_en": "Trump inaugurates new White House helipad, but networks skip coverage during First Amendment fight",
-        "summary": [
-            "در پی ممانعت از حضور خبرنگار سی‌ان‌ان، شبکه‌های خبری اصلی آمریکا از پوشش کامل مراسم رونمایی پد هلیکوپتر خودداری کردند.",
-            "ترامپ تلاش کرد افتتاح این طرح را عادی جلوه دهد، اما تنش شدید با رسانه‌ها رویداد را تحت‌الشعاع قرار داد."
-        ],
-        "impact": "تعمیق شکاف حقوقی و خبری میان دولت آمریکا و رسانه‌های فراملی.",
-        "tag": "رسانه",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "The Press Democrat",
-        "url": "https://www.pressdemocrat.com/2026/09/21/trump-helipad-first-amendment-fight/",
-        "clean_url": "https://www.pressdemocrat.com/2026/09/21/trump-helipad-first-amendment-fight",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/Trump_54_7.jpg?w=2000&h=1333",
-        "timestamp": 1790003460.0
     }
 ]
