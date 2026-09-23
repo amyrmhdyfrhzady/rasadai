@@ -182,6 +182,24 @@
         "timestamp": 1790122077.0
     },
     {
+        "id": "1115114798",
+        "title_fa": "مذاکرات پنهانی تهران و واشنگتن با میانجی‌گری قطر در نیویورک",
+        "title_en": "Iran says Qatar mediated talks with US, demands end to war on all fronts",
+        "summary": [
+            "دستگاه دیپلماسی ج.ا از انجام گفت‌وگوهای غیرمستقیم با ایالات متحده از طریق میانجی‌گر قطری خبر داد.",
+            "تهران خواستار توقف جنگ در تمامی جبهه‌ها و پایان آنچه اقدامات تهاجمی آمریکا خوانده، شده است."
+        ],
+        "impact": "تلاش پشت‌پرده برای کاهش تنش‌های منطقه‌ای و ارسال پالس‌های دیپلماتیک از سوی حاکمیت.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-qatar-mediated-talks-with-us-demands-end-to-war-on-all-fronts/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iran-says-qatar-mediated-talks-with-us-demands-end-to-war-on-all-fronts",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790121600.0
+    },
+    {
         "id": "a2a0912d91",
         "title_fa": "تاکید سناتور هاستد بر پایان سریع هرگونه درگیری با ایران",
         "title_en": "Sen. Jon Husted: Iran war ‘needs to come to an end as quickly as possible’",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.firstpost.com/explainers/has-iran-activated-code-100-tensions-reach-tipping-point-what-this-means-14047319.html",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789963800.0
-    },
-    {
-        "id": "1ef6db5c44",
-        "title_fa": "بازگشت سردار آزمون به ترکیب تیم فوتبال ایران",
-        "title_en": "واکنش سردار آزمون به بازگشت به تیم ملی: «هیچ‌وقت از دوست داشتن این پیراهن خسته نشدم»",
-        "summary": [
-            "این بازیکن با انتشار پیامی از اشتیاق خود برای همراهی دوباره با تیم ملی خبر داد.",
-            "او با اشاره به فراز و نشیب‌های دوران حضورش در تیم ملی، تاکید کرد که همچنان با انگیزه برای موفقیت تیم می‌جنگد."
-        ],
-        "impact": "تقویت خط حمله تیم ملی در آستانه مسابقات پیش‌رو.",
-        "tag": "ورزشی",
-        "urgency": 3,
-        "sentiment": 0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609213831",
-        "clean_url": "https://www.iranintl.com/202609213831",
-        "image": "http://www.bing.com/th?id=ONUT.Jk4Q2mOxmaNbKnVCyh2GAg&pid=News",
-        "timestamp": 1789961580.0
     }
 ]
