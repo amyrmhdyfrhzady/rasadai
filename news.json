@@ -238,6 +238,24 @@
         "timestamp": 1790169060.0
     },
     {
+        "id": "59da534082",
+        "title_fa": "لوافت: تسلیم تـ…ـرمپ نمی‌شویم",
+        "title_en": "Iran’s president laid out Tehran’s demands to the world, from a podium in New York",
+        "summary": [
+            "رئیس‌جمهور جـ…ـهوری اسـ…ـلامی در نیویورک اعلام کرد که تهران برابر فشارهای واشنگتن کوتاه نمی‌آید.",
+            "این موضع‌گیری در حالی مطرح شد که تنش‌ها میان دو کشور به اوج رسیده است."
+        ],
+        "impact": "تداوم بن‌بست دیپلماتیک و پافشاری تهران بر مواضع خود در برابر فشار حداکثری.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-president-laid-out-tehran-s-demands-to-the-world-from-a-podium-in-new-york/ar-AA2cQMDh",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-president-laid-out-tehran-s-demands-to-the-world-from-a-podium-in-new-york/ar-AA2cQMDh",
+        "image": "http://www.bing.com/th?id=ONUT.S2y9f5H05RuDNF2_yY-ZzQ&pid=News",
+        "timestamp": 1790168785.0
+    },
+    {
         "id": "183273ef89",
         "title_fa": "کشف تونل ۶۰۰ متری در غزه توسط ارتش اسرائیل",
         "title_en": "IDF discovers 600-meter tunnel in Gaza",
@@ -5452,23 +5470,5 @@
         "clean_url": "https://apnews.com/article/united-nations-general-assembly-unga-trump-war-83dfe88eaf541fdcef3a4758010bef6e",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790024880.0
-    },
-    {
-        "id": "beebcefa42",
-        "title_fa": "دیدار شهردار نیویورک و ترامپ پیرامون مسکن و مهاجرت",
-        "title_en": "Mayor Zohran Mamdani, President Trump meet, agree to continue discussion on making NYC more affordable",
-        "summary": [
-            "شهردار نیویورک و رئیس‌جمهور آمریکا برای سومین بار دیدار و گفتگو کردند.",
-            "محور اصلی این نشست همکاری برای توسعه مسکن ارزان‌قیمت و موضوعات مهاجرتی بود."
-        ],
-        "impact": "همکاری مقطعی میان دولت فدرال و مدیریت شهری برای حل بحران‌های داخلی.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-president-trump-meeting-gracie-mansion-nyc/",
-        "clean_url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-president-trump-meeting-gracie-mansion-nyc",
-        "image": "http://www.bing.com/th?id=ONUT.1-v4YkRp2ZySk4cJwf8ylg&pid=News",
-        "timestamp": 1790023200.0
     }
 ]
