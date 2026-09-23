@@ -581,6 +581,25 @@
         "timestamp": 1790100359.0
     },
     {
+        "id": "920919469e",
+        "title_fa": "فلج شدن حمل‌ونقل هوایی ایران با فشارهای تازه آمریکا",
+        "title_en": "The price of US pressure moves up Iran's social ladder",
+        "summary": [
+            "تهدیدهای جدید واشنگتن علیه فرودگاه‌ها و شرکت‌های خریدار خدمات، پرواز ایرلاین‌های ایرانی به گرجستان، ترکیه و عمان را متوقف کرده است.",
+            "تنگ‌تر شدن حلقه انزوای بین‌المللی، علاوه بر سفرها، زنجیره تامین دارو و کالاهای اساسی را با خطر جدی روبه‌رو می‌کند.",
+            "افزایش انزوا نشان می‌دهد فشار تحریم‌ها اکسیژن اقتصادی ج.ا را گرفته و حتی پروازهای طبقه مرفه را هم قفل کرده است."
+        ],
+        "impact": "قطع خطوط پروازی موجب انزوای کامل‌تر، افزایش جهشی هزینه‌های مسافرت و نایاب شدن برخی کالاهای حیاتی خواهد شد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609221203",
+        "clean_url": "https://www.iranintl.com/en/202609221203",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/8c788aafadf8c549ce7a78e2505e8b8df75965f7-1280x853.jpg?rect=170,155,1036,544&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790099940.0
+    },
+    {
         "id": "9aa7e9fdfc",
         "title_fa": "بازگشت ترامپ به سازمان ملل و چالش‌های پیش‌رو",
         "title_en": "5 things to know about Trump’s speech to the United Nations",
@@ -5459,23 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11UGZaclZRazcxeDd0Z3FORlZiaHpBbXhFRHNlaDMtY2xmMV9qMTZJdUw4bjlrT1I1SF85bHo2RUpmQ2pOX3FSeUtZVV9Rdk14WEVjcEMzWkF1NTRiek1ENjVFU3FhcGRocUNFRXFsR3NTb0plVWFLZ3ZENA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789967730.0
-    },
-    {
-        "id": "8fbbc98cfb",
-        "title_fa": "سقوط ده درصدی اقتصاد ای---ران زیر ضربات تنش‌ها",
-        "title_en": "Iran's Economy Shrinks By 10.1% Amid US War: 'Strait' Talk Amid Hormuz Blockade, Oil & Gas Losses",
-        "summary": [
-            "آمارهای رسمی مرکز آمار از افت شدید ۱۰.۱ درصدی تولید ناخالص داخلی حکایت دارد.",
-            "فلج شدن بخش نفت و گاز به عنوان منبع اصلی درآمد ارزی، اقتصاد حکومت را به لبه پرتگاه رسانده است."
-        ],
-        "impact": "تشدید بحران ارزی و کمبود منابع مالی برای اداره پروژه‌های نظامی و نیابتی.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "News18",
-        "url": "https://www.news18.com/explainers/irans-economy-shrinks-10-1-yoy-amid-us-war-how-oil-gas-losses-hormuz-blockade-impacted-gdp-ws-klt-10344292.html",
-        "clean_url": "https://www.news18.com/explainers/irans-economy-shrinks-10-1-yoy-amid-us-war-how-oil-gas-losses-hormuz-blockade-impacted-gdp-ws-klt-10344292.html",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/09/pezeshkian-mojtaba-2026-09-8f7b3b6edea1c199f63de51e87d85392-1200x675.jpg",
-        "timestamp": 1789967100.0
     }
 ]
