@@ -348,6 +348,25 @@
         "timestamp": 1790172899.0
     },
     {
+        "id": "1899268751",
+        "title_fa": "تحریم‌های جدید آمریکا؛ قفل شدن آسمان ایران و انزوای مسافران",
+        "title_en": "US aviation sanctions disrupt Iran flights, push travellers overland",
+        "summary": [
+            "واشنگتن با تحریم ۲۷ شرکت هواپیمایی باقی‌مانده، آخرین روزنه‌های ارتباط هوایی تهران با جهان را مسدود کرد تا انزوای ترانزیتی کشور کامل شود.",
+            "تهدید فرودگاه‌های خارجی به جریمه و قطع دسترسی مالی، حتی کشورهای همسایه و شرکای سنتی مثل چین و ترکیه را از ارائه سوخت و خدمات به هواپیماهای ایرانی ترسانده است.",
+            "این فشار همه‌جانبه، شهروندان عادی را به سمت سفرهای زمینی طولانی و پرخطر سوق داده و هزینه تجارت و جابه‌جایی را به شدت بالا برده است."
+        ],
+        "impact": "فلج شدن کامل ناوگان هوایی غیرنظامی و جهش بی‌سابقه هزینه‌های سفر و حمل‌ونقل بین‌المللی برای ایرانیان.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/us-aviation-sanctions-disrupt-iran-210536371.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/us-aviation-sanctions-disrupt-iran-210536371.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/43c61b257e60afdbd7c0cd20ac5b8ea6a49b1c07d5b7b721dfe1fbd94e9119a4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8367437e7602cadb1c6b575e724714d8.jpg",
+        "timestamp": 1790172300.0
+    },
+    {
         "id": "a8d6fb9bc7",
         "title_fa": "فرار هیئت آمریکایی از سالن سخنرانی رئیس‌جمهور ج.ا",
         "title_en": "US Delegation Has Perfect Response to Iranian President's UN Speech, Then Rubio Finishes Him",
@@ -5456,23 +5475,5 @@
         "clean_url": "https://highlandpost.com/the-art-of-making-the-deal-an-inexpugnable-alternative-solution-at-ending-the-us-iran-war",
         "image": "https://highlandpost.com/wp-content/uploads/2023/02/write.jpg",
         "timestamp": 1790035200.0
-    },
-    {
-        "id": "0f6561c4c0",
-        "title_fa": "گزارش سازمان ملل درباره جنایات جـ.ـمهوری اسـ.ـلامی و آمـ.ـریکا",
-        "title_en": "UN says Iran committed crimes against humanity, US committed war crimes",
-        "summary": [
-            "سازمان ملل متحد رسماً اعلام کرد که حـ.ـاکمیت ایـ.ـران مرتکب جنایت علیه بشریت شده است.",
-            "این نهاد بین‌المللی همچنین ایالات متحده را به ارتکاب جنایات جنگی متهم کرد."
-        ],
-        "impact": "افزایش فشارهای حقوق بشری و سیاسی بر تهران در مجامع بین‌المللی.",
-        "tag": "حقوق بشر",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vOHFIV2ZjYkFHX1Rxc0ZKX21RLTBTN2daTnhkRzRSalBuWlMtdk5MTWh2VlM3bk1KbHVucUVGZkRpdU96NldEUzBfdWpHYTF3SGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vOHFIV2ZjYkFHX1Rxc0ZKX21RLTBTN2daTnhkRzRSalBuWlMtdk5MTWh2VlM3bk1KbHVucUVGZkRpdU96NldEUzBfdWpHYTF3SGc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790034060.0
     }
 ]
