@@ -1,5 +1,24 @@
 [
     {
+        "id": "183273ef89",
+        "title_fa": "کشف تونل ۶۰۰ متری در غزه توسط ارتش اسرائیل",
+        "title_en": "IDF discovers 600-meter tunnel in Gaza",
+        "summary": [
+            "ارتش اسرائیل از کشف یک گذرگاه زیرزمینی ۶۰۰ متری در نوار غزه خبر داد.",
+            "این تونل از منطقه تحت کنترل اسرائیل به سمت بخش‌های تحت کنترل حماس امتداد دارد.",
+            "این عملیات در راستای پاکسازی کامل زیرساخت‌های نظامی حماس در مناطق تحت کنترل ارتش انجام شده است."
+        ],
+        "impact": "تخریب زیرساخت‌های زیرزمینی و تداوم عملیات‌های پاکسازی در غزه.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/idf-discovers-600-meter-tunnel-in-gaza/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-discovers-600-meter-tunnel-in-gaza",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790168220.0
+    },
+    {
         "id": "0bd5bb464d",
         "title_fa": "طرح ترور وزیر اسرائیلی و ربایش نظامیان خنثی شد",
         "title_en": "Palestinian pair accused of plotting Ben Gvir assassination, soldier abduction",
@@ -5452,24 +5471,5 @@
         "clean_url": "https://www.iranintl.com/202609218433",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1789993500.0
-    },
-    {
-        "id": "6c7dfb72e1",
-        "title_fa": "تهدید صریح ترامپ؛ گزینه نابودی کامل ج.ا روی میز است",
-        "title_en": "Trump Threatens to ‘Wipe Iran Out’ Unless They ‘Behave’: Report",
-        "summary": [
-            "دونالد ترامپ در گفتگو با فاکس‌نیوز اعلام کرد در حال بررسی گزینه محو کردن ج.ا از نقشه است.",
-            "گزینه‌های روی میز رئیس‌جمهور آمریکا شامل نابودی نظامی، فروپاشی اقتصادی کامل یا توافق جدید است.",
-            "این مواضع نشان‌دهنده ورود تنش‌ها به فاز سرنوشت‌ساز و تصمیم‌گیری برای ضربات سنگین است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و سقوط انتظارات اقتصادی در داخل کشور.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-wipe-iran-unless-185129027.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-threatens-wipe-iran-unless-185129027.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/ac2a3952ccede2098a1ebc7d8e7154489c3c52394d17e49e1282259b98bbbd7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb0741e4d7fbec62cf14205244e3170c4.jpg",
-        "timestamp": 1789991460.0
     }
 ]
