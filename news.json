@@ -365,6 +365,24 @@
         "timestamp": 1790164800.0
     },
     {
+        "id": "8397b80005",
+        "title_fa": "هشدار مستقیم واشنگتن به دهلی‌نو درباره همکاری اقتصادی با تهران",
+        "title_en": "روبیو و همتای هندی او درباره تحریم‌های احتمالی مرتبط با جمهوری اسلامی گفت‌وگو کردند",
+        "summary": [
+            "آمریکا فشار بر شرکای تجاری منطقه را کلید زده و هند را در دوراهی منافع اقتصادی و تحریم‌های جدید واشنگتن قرار داده است.",
+            "تمرکز اصلی مارکو روبیو بر مسدود کردن روزنه‌های دور زدن تحریم‌ها از طریق شریان‌های تجاری هند با ایران و مسکو قرار دارد."
+        ],
+        "impact": "تنگ‌تر شدن حلقه مبادلات تجاری هند با ایران و افزایش شدید ریسک همکاری برای شرکت‌های هندی.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/202609234904",
+        "clean_url": "https://www.iranintl.com/202609234904",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790164680.0
+    },
+    {
         "id": "990f7bbde9",
         "title_fa": "هشدار صریح ترامپ به ج.ا: آماده شلیک هستیم",
         "title_en": "Trump warns Iran it is 'locked and loaded' as 130 leaders gather at the UN",
@@ -5452,23 +5470,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-houthis-move-to-seize-highlands-as-trump-calls-off-strikes/ar-AA2cDAv5",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790025045.0
-    },
-    {
-        "id": "e642b55a0d",
-        "title_fa": "بن‌بست دیپلماتیک؛ نشست سازمان ملل در سایه بحران‌های جهانی",
-        "title_en": "Messy, troubled, unpredictable: Diplomats describe a world in turmoil as UN opens annual meeting",
-        "summary": [
-            "مجمع عمومی سازمان ملل متحد در شرایطی آغاز به کار می‌کند که دیپلمات‌ها بیش از هر زمان دیگری دچار واگرایی و بی‌اعتمادی شده‌اند.",
-            "شکاف عمیق میان قدرت‌های بزرگ، رسیدن به هرگونه توافق عملی بر سر بحران‌های جاری بین‌المللی را تقریباً غیرممکن کرده است."
-        ],
-        "impact": "فلج شدن ابزارهای دیپلماتیک برای مهار تنش‌ها و افزایش مخاطرات امنیتی در جهان.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/united-nations-general-assembly-unga-trump-war-83dfe88eaf541fdcef3a4758010bef6e",
-        "clean_url": "https://apnews.com/article/united-nations-general-assembly-unga-trump-war-83dfe88eaf541fdcef3a4758010bef6e",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790024880.0
     }
 ]
