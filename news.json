@@ -55,6 +55,24 @@
         "timestamp": 1790157480.0
     },
     {
+        "id": "3d645fa3b7",
+        "title_fa": "انتشار تصاویر جدید در رسانه فرماندهی مرکزی آمریکا",
+        "title_en": "U.S. Central Command Video Gallery",
+        "summary": [
+            "سنتکام ویدیوهای جدیدی را روی وب‌سایت خود بارگذاری کرد.",
+            "این بخش معمولاً شامل پوشش عملیات‌ها و تحرکات نظامی در منطقه است."
+        ],
+        "impact": "بازتاب رسانه‌ای فعالیت‌های نظامی آمریکا در خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "centcom.mil",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdUZpaEJ4VVFlR0lXZEx4Sk83c2RnN2hWVnl2WTZfaHo5MWNURElXQUVHd1VTS1lDMGtIOGhPZ2dPS2h5ZXlSWElqRndEV1RuWjJMNXZxaTdyUUJEVGdtQlIxV212UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdUZpaEJ4VVFlR0lXZEx4Sk83c2RnN2hWVnl2WTZfaHo5MWNURElXQUVHd1VTS1lDMGtIOGhPZ2dPS2h5ZXlSWElqRndEV1RuWjJMNXZxaTdyUUJEVGdtQlIxV212UQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790156845.0
+    },
+    {
         "id": "4f19189b93",
         "title_fa": "طرح کلان میلیاردی برای بازسازی غزه",
         "title_en": "Board of Peace to roll out $2.75 billion Gaza recovery plan — report",
@@ -5454,23 +5472,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-to-attend-un-assembly-in-new-york-even-as-peace-with-us-remains-elusive/ar-AA2cGUfG",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789989822.0
-    },
-    {
-        "id": "dbc80ea964",
-        "title_fa": "درگیری‌های شدید در تعز و چالش‌های آمریکا در قبال یمن",
-        "title_en": "US-Iran War Live Updates: 760 vessels damaged, 12 killed in Bandar Abbas attacks, Iran says",
-        "summary": [
-            "نیروهای دولت یمن توانستند در غرب و جنوب تعز مواضع مهمی را از شبه‌نظامیان حوثی پس بگیرند.",
-            "فشار عربستان به واشنگتن برای اقدام نظامی علیه حوثی‌ها ادامه دارد، اما دولت آمریکا نگران گشودن جبهه جدیدی در منطقه است."
-        ],
-        "impact": "تغییر موازنات میدانی در یمن و تردید واشنگتن در ورود به درگیری مستقیم با نیابتی‌های ایران.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134374650,width-1280,height-720,imgsize-95851,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789989300.0
     }
 ]
