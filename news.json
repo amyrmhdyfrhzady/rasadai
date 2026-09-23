@@ -730,6 +730,24 @@
         "timestamp": 1790158924.0
     },
     {
+        "id": "c4469f378f",
+        "title_fa": "مقایسه توان نظامی و نیابتی ج.ا و عربستان",
+        "title_en": "Who Is More Powerful: Saudi Arabia Or Iran?",
+        "summary": [
+            "ج.ا با وجود بحران اقتصادی و تحریم‌های سنگین، ساختار نظامی مبتنی بر جنگ نیابتی و موشکی ساخته است که هزینه بالایی برای منطقه دارد.",
+            "عربستان سعودی ثروت مالی فراوانی دارد اما دکترین نظامی‌اش بیشتر بر پایه تسلیحات وارداتی و دفاعی است تا بازدارندگی تهاجمی."
+        ],
+        "impact": "تفاوت در ساختار قدرت باعث شده ج.ا با وجود کمبود منابع، تاثیرگذاری منطقه‌ای بالاتری از طریق نیروهای نیابتی داشته باشد.",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/24092026-who-is-more-powerful-saudi-arabia-or-iran-oped/",
+        "clean_url": "https://www.eurasiareview.com/24092026-who-is-more-powerful-saudi-arabia-or-iran-oped",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2015/09/is-e1687393708589-800x445.jpg",
+        "timestamp": 1790157600.0
+    },
+    {
         "id": "6c551e740c",
         "title_fa": "کم‌اهمیت جلوه‌دادن مذاکرات غیرمستقیم با آمریکا",
         "title_en": "Iran downplays indirect talks with U.S., and other Mideast developments",
@@ -5454,23 +5472,5 @@
         "clean_url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
         "image": "https://i.guim.co.uk/img/media/4b583dc819f5ec7ab9617c413172a05c53fab2bb/317_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=72dba0833214db1e34581e9b1f13225a",
         "timestamp": 1790032320.0
-    },
-    {
-        "id": "935d70fafa",
-        "title_fa": "پیشتاز بودن دموکرات‌ها در نظرسنجی پیش از انتخابات میان‌دوره‌ای",
-        "title_en": "New poll reveals which political party has a 5-point advantage ahead of November elections",
-        "summary": [
-            "یافته‌های یک نظرسنجی جدید حاکی از برتری حزب دموکرات بر جمهوری‌خواهان است.",
-            "این رقابت در آستانه ماه‌های پایانی تا انتخابات اهمیت ویژه‌ای پیدا کرده است."
-        ],
-        "impact": "تغییر موازنه احتمالی در کنگره آمریکا به نفع دموکرات‌ها.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/09/new-poll-reveals-which-political-party-has-a-5-point-advantage-ahead-of-november-elections.html",
-        "clean_url": "https://www.mlive.com/politics/2026/09/new-poll-reveals-which-political-party-has-a-5-point-advantage-ahead-of-november-elections.html",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790031600.0
     }
 ]
