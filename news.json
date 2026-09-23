@@ -398,6 +398,25 @@
         "timestamp": 1790150421.0
     },
     {
+        "id": "e03f08efdd",
+        "title_fa": "ادعای مظلومیت پزشکیان در سازمان ملل پس از خط و نشان ترامپ",
+        "title_en": "Iran’s president in wartime address at UN: We have been ‘victims of terrorism’",
+        "summary": [
+            "مسعود پزشکیان در مجمع عمومی سازمان ملل ایالات متحده و اسرائیل را عامل اصلی حملات و جنگ اخیر معرفی کرد.",
+            "او با بالا بردن تصاویر علی خامنه‌ای و کودکان کشته‌شده تلاش کرد روایت رسمی حکومت از قربانی بودن را بازنشر دهد.",
+            "این سخنرانی در پاسخ مستقیم به تهدیدات دونالد ترامپ مبنی بر نابودی جـمهوری اسلامی ایراد شد."
+        ],
+        "impact": "افزایش تنش‌های لفظی در سطح بین‌المللی و تثبیت مواضع تهاجمی تهران در برابر فشارهای واشنگتن.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/09/23/iran-president-un-address/",
+        "clean_url": "https://www.bostonherald.com/2026/09/23/iran-president-un-address",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2026/09/UN_General_Assembly_Iran_18423.jpg?w=2000&h=1333",
+        "timestamp": 1790148660.0
+    },
+    {
         "id": "b1ced7b8dc",
         "title_fa": "شرط‌گذاری تهران برای پایان جنگ خلیج فارس",
         "title_en": "Seven demands and no concessions: an analysis and deconstruction of Iran's terms of reference for ending the Gulf War",
@@ -5452,24 +5471,6 @@
         "url": "https://www.palmbeachpost.com/story/news/local/westpb/2026/09/21/gasoline-prices-surge-in-palm-beach-county-far-past-4-per-gallon/91877379007/",
         "clean_url": "https://www.palmbeachpost.com/story/news/local/westpb/2026/09/21/gasoline-prices-surge-in-palm-beach-county-far-past-4-per-gallon/91877379007",
         "image": "http://www.bing.com/th?id=ONUT.5ruc0KCdwZDS-wcFKW7SLw&pid=News",
-        "timestamp": 1789997580.0
-    },
-    {
-        "id": "f04b6a566b",
-        "title_fa": "افت کم‌سابقه محبوبیت ترامپ در بحبوحه تنش با ایران",
-        "title_en": "نظرسنجی جدید رویترز/ایپسوس: میزان رضایت از عملکرد ترامپ به ۳۲ درصد کاهش یافته است",
-        "summary": [
-            "محبوبیت دونالد ترامپ به کف تاریخی ۳۲ درصد رسیده و پایگاه رای جمهوری‌خواهان نیز به دلیل فشار هزینه‌های زندگی ریزش داشته است.",
-            "شکست در مدیریت اقتصادی و چالش‌های سیاست خارجی، شانس جمهوری‌خواهان را در انتخابات میاندوره‌ای پیش رو به شدت تهدید می‌کند."
-        ],
-        "impact": "فشار سیاسی داخلی بر کاخ سفید برای بازنگری در هزینه‌های درگیری‌های خارجی از جمله ماجراجویی‌های خاورمیانه.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609217856",
-        "clean_url": "https://www.iranintl.com/202609217856",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1789997580.0
     }
 ]
