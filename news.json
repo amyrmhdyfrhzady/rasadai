@@ -238,6 +238,25 @@
         "timestamp": 1790174520.0
     },
     {
+        "id": "9190154fec",
+        "title_fa": "تشدید محدودیت‌های بانکی بریتانیا علیه حاکمیت ایران",
+        "title_en": "بریتانیا محدودیت‌ها علیه پنج بانک ایرانی را تشدید کرد",
+        "summary": [
+            "دولت بریتانیا درخواست مجوز فعالیت پنج بانک اصلی جی‌اش‌امی را رد کرد.",
+            "این تصمیم شامل بانک‌های سپه، ملی، صادرات، تجارت و پرشیا اینترنشنال می‌شود.",
+            "واشنگتن و لندن حلقه محاصره مالی بر روی شبکه بانکی ج‌ه را تنگ‌تر کرده‌اند."
+        ],
+        "impact": "فلج شدن بیشتر کانال‌های مالی و قطع دسترسی به خطوط اعتباری بین‌المللی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609235297",
+        "clean_url": "https://www.iranintl.com/202609235297",
+        "image": "http://www.bing.com/th?id=ONUT.sO4aPek1eN3DylYQK3ULsg&pid=News",
+        "timestamp": 1790174460.0
+    },
+    {
         "id": "8215801f0c",
         "title_fa": "پزشکیان در سازمان ملل: تهدیدها ملت را متحد می‌کند",
         "title_en": "US-Iran War Live Updates: 'We will never bow our head'",
@@ -5455,23 +5474,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vOHFIV2ZjYkFHX1Rxc0ZKX21RLTBTN2daTnhkRzRSalBuWlMtdk5MTWh2VlM3bk1KbHVucUVGZkRpdU96NldEUzBfdWpHYTF3SGc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790034060.0
-    },
-    {
-        "id": "0c5257d705",
-        "title_fa": "حملات بی‌وقفه ترامپ به بایدن در آستانه انتخابات میان‌دوره‌ای",
-        "title_en": "Donald Trump Has Attacked Joe Biden A Staggering Number Of Times This Year",
-        "summary": [
-            "ترامپ با اشاره‌های مکرر به عملکرد جو بایدن، تمام بحران‌های تورمی و مهاجرتی را مستقیماً به دموکرات‌ها منتسب می‌کند.",
-            "تمرکز بر ناکارآمدی دولت قبلی، تاکتیک کلیدی جمهوری‌خواهان برای حفظ اکثریت شکننده خود در کنگره است."
-        ],
-        "impact": "تشدید تشدید قطب‌بندی در فضای داخلی آمریکا و تأثیر بر تصمیم‌گیری‌های سیاسی واشنگتن.",
-        "tag": "آمریکا",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/donald-trump-obsession-2026-midterms_n_6ab21c2be4b043d6b5685626",
-        "clean_url": "https://www.huffpost.com/entry/donald-trump-obsession-2026-midterms_n_6ab21c2be4b043d6b5685626",
-        "image": "http://www.bing.com/th?id=ONUT.ZIBWyNjJubA0Cr57IyhSUQ&pid=News",
-        "timestamp": 1790032980.0
     }
 ]
