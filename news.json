@@ -456,6 +456,25 @@
         "timestamp": 1790116440.0
     },
     {
+        "id": "3293c173c4",
+        "title_fa": "سیگنال دیپلماتیک ترامپ به تهران با بازنشر گزارش احتمال توافق",
+        "title_en": "Trump shares report saying Iran deal remains possible",
+        "summary": [
+            "دونالد ترامپ مصاحبه مشاور رئیس‌جمهور آذربایجان درباره ممکن بودن توافق با ایران را بدون هیچ توضیحی در شبکه اجتماعی خود بازنشر کرد.",
+            "این حرکت نشان‌دهنده تمایل او به استفاده از باکو به‌عنوان میانجی منطقه‌ای و باز نگه داشتن درهای دیپلماسی در کنار استراتژی فشار است.",
+            "پیام این اقدام برای تهران واضح است؛ واشنگتن گزینه معامله و حل مناقشات از مسیر چانه‌زنی را همچنان روی میز دارد."
+        ],
+        "impact": "افزایش پتانسیل میانجی‌گری باکو و ایجاد فضای جدید برای گمانه‌زنی‌های دیپلماتیک.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609236549",
+        "clean_url": "https://www.iranintl.com/en/202609236549",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790115060.0
+    },
+    {
         "id": "eb3feb1eb0",
         "title_fa": "تخیر ترامپ به جـمـهـورـی اسـلـامـی: توافق صلح یا نـابـودی کامل",
         "title_en": "Trump says Iran must choose between peace deal and annihilation",
@@ -5456,23 +5475,5 @@
         "clean_url": "https://www.baltimoresun.com/2026/09/21/china-us-ai-dominance-safety-concerns",
         "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/AI_Safety_US_China_What_to_Know_69918-1.jpg?w=2000&h=1333",
         "timestamp": 1789978680.0
-    },
-    {
-        "id": "6521902666",
-        "title_fa": "تهدید خاکی و هوایی سـپـاه علیه ایالات متحده",
-        "title_en": "Iran's Revolutionary Guard warns US over escalation, and other Mideast developments",
-        "summary": [
-            "فرماندهان سـپـاه در یک لاف سیاسی مدعی شدند که اگر ایالات متحده تنش‌ها را بیشتر کند، جغرافیای جنگ را تغییر می‌دهند.",
-            "همزمان ارتش بریتانیا از شلیک یک پرتابه ناشناس در آب‌های منطقه خبر داد که نشان‌دهنده افزایش ناامنی دریایی است."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی و التهاب بیشتر در مسیرهای حیاتی انرژی منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-revolutionary-guard-warns-us-over-escalation-and-other-mideast-developments/ar-AA2cFApe",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-revolutionary-guard-warns-us-over-escalation-and-other-mideast-developments/ar-AA2cFApe",
-        "image": "http://www.bing.com/th?id=ONUT.a0FCS4CBxDjGrROBONIFow&pid=News",
-        "timestamp": 1789978243.0
     }
 ]
