@@ -293,6 +293,24 @@
         "timestamp": 1790163333.0
     },
     {
+        "id": "92ea2b36e0",
+        "title_fa": "بازی بزرگ پکن و واشنگتن روی میز ترامپ",
+        "title_en": "از ایران تا عناصر کمیاب، شی با چه اهرم‌هایی به دیدار ترامپ می‌رود؟",
+        "summary": [
+            "شی جین‌پینگ در حالی راهی واشنگتن می‌شود که بحران‌های منطقه‌ای و پرونده نفت تهران به یکی از چالش‌های اصلی میز مذاکره تبدیل شده است.",
+            "چین به عنوان بزرگترین خریدار نفت حـ.کـ.و.مـ.ت، کارت‌های بازی مهمی در برابر سیاست‌های فشار حداکثری آمریکا دارد."
+        ],
+        "impact": "این دیدار می‌تواند توازن اقتصادی و رویکرد تحریمی علیه تهران را به شدت تحت تأثیر قرار دهد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609237936",
+        "clean_url": "https://www.iranintl.com/202609237936",
+        "image": "http://www.bing.com/th?id=ONUT.ocPl25kfxQFRBnaTC5EwVA&pid=News",
+        "timestamp": 1790161920.0
+    },
+    {
         "id": "984ba51651",
         "title_fa": "جهش بازده اوراق قرضه و ترس وال‌استریت از افزایش نرخ بهره",
         "title_en": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
@@ -5454,23 +5472,5 @@
         "clean_url": "https://ziare.com/cautare/ene-cornel-galati-senat-alegeri-pag14",
         "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
         "timestamp": 1790016369.5693572
-    },
-    {
-        "id": "bd962a5d01",
-        "title_fa": "تحریم‌های ثانویه خزانه‌داری آمریکا علیه ایرلاین‌های ایران",
-        "title_en": "US Treasury to impose secondary sanctions on companies assisting Iran's airlines",
-        "summary": [
-            "خزانه‌داری ایالات متحده شرکت‌های همکار با خطوط هوایی ایران را هدف تحریم‌های ثانویه قرار داد.",
-            "این اقدام در راستای افزایش فشار بر شبکه حمل‌ونقل هوایی وابسته به حاکمیت صورت گرفته است."
-        ],
-        "impact": "محدودیت شدیدتر در مراودات بین‌المللی و زنجیره تامین شرکت‌های هواپیمایی داخل.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hb2VoOVp5dk5Cd1BSM094Si1CR0U5eWlncUJnMzBWanVkbmlHQk5ZN0xOQVlCNHA4VG0zUHpZYUhsNTJPcTcxT051UTZRQUhCdFdkN0tkUXVPYW5ZbE0tNnpXTmpwS0tnbkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hb2VoOVp5dk5Cd1BSM094Si1CR0U5eWlncUJnMzBWanVkbmlHQk5ZN0xOQVlCNHA4VG0zUHpZYUhsNTJPcTcxT051UTZRQUhCdFdkN0tkUXVPYW5ZbE0tNnpXTmpwS0tnbkE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790016229.0
     }
 ]
