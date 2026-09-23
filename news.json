@@ -383,6 +383,25 @@
         "timestamp": 1790156587.0
     },
     {
+        "id": "589ebd986b",
+        "title_fa": "تهدید ایران به فلج کردن فرودگاه‌های کشورهای همسایه",
+        "title_en": "Iran warns it would disrupt regional airports if its flights are barred",
+        "summary": [
+            "محسن رضایی با تهدید مستقیم کشورهای همسایه، سعی دارد فشار آمریکا بر خطوط هوایی ایران را با ایجاد تنش منطقه‌ای پاسخ دهد.",
+            "این ادعا که فرودگاه‌های همسایه را از کار می‌اندازد، بیشتر یک جنگ روانی برای بازدارندگی از همکاری با آمریکا است تا یک توان عملیاتی واقعی.",
+            "تلاش برای کشاندن کشورهای منطقه به درگیری نظامی یا تنش هوایی، نشان‌دهنده استیصال تهران در برابر تحریم‌های خفه‌کننده حوزه هوانوردی است."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و خطر محدود شدن مسیرهای پروازی در منطقه.",
+        "tag": "تنش منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609233581",
+        "clean_url": "https://www.iranintl.com/en/202609233581",
+        "image": "http://www.bing.com/th?id=ONUT.h6DpkPiUxIpmSknKXiApOQ&pid=News",
+        "timestamp": 1790155800.0
+    },
+    {
         "id": "6598332a80",
         "title_fa": "دور زدن تحریم‌های آمریکا توسط هواپیمایی‌های ایرانی",
         "title_en": "Iranian airlines continue foreign flights after US sanctions deadline - Bloomberg",
@@ -5457,24 +5476,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/two-republican-senate-candidates-call-232424233.html",
         "image": "http://www.bing.com/th?id=ONUT.D2v4SN1DiwQLckBAUSkN9g&pid=News",
         "timestamp": 1790007780.0
-    },
-    {
-        "id": "bd84be7fb1",
-        "title_fa": "فلج کردن هوانوردی جـمـهـورۍ اسـلا‌مـی با تحریم‌های جدید آمریکا",
-        "title_en": "Iran's Regime Is Going to Feel the Pain After This Announcement",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا از اعمال فشار سنگین اقتصادی و مسدودسازی تمامی پروازهای شرکت‌های هواپیمایی ایرانی در سطح جهان خبر داد.",
-            "هر فرودگاه یا شرکتی که به هواپیماهای ایرانی سوخت یا خدمات بدهد، از دسترسی به سیستم دلاری محروم خواهد شد.",
-            "سه بانک حامی مالی تهران، از جمله دومین بانک بزرگ مصر به دلیل انتقال میلیاردها دلار به جـمـهـورۍ اسـلا‌مـی تحریم شدند."
-        ],
-        "impact": "انزوای کامل هوایی جـمـهـورۍ اسـلا‌مـی و قطع شریان‌های مالی منطقه‌ای و بین‌المللی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Townhall",
-        "url": "https://townhall.com/news/jeff-charles/2026/09/21/scott-bessents-threatens-to-shut-down-iranian-airlines-n2683318",
-        "clean_url": "https://townhall.com/news/jeff-charles/2026/09/21/scott-bessents-threatens-to-shut-down-iranian-airlines-n2683318",
-        "image": "https://media.townhall.com/cdn/hodl/2026/237/112c8d25-b85d-4d9d-9770-cd7e377b2d5d-1200x630.jpeg",
-        "timestamp": 1790007300.0
     }
 ]
