@@ -1,5 +1,23 @@
 [
     {
+        "id": "0bd5bb464d",
+        "title_fa": "طرح ترور وزیر اسرائیلی و ربایش نظامیان خنثی شد",
+        "title_en": "Palestinian pair accused of plotting Ben Gvir assassination, soldier abduction",
+        "summary": [
+            "مقام‌های امنیتی اسرائیل از بازداشت دو فلسطینی اهل نابلس به اتهام برنامه‌ریزی برای عملیات‌های ضد امنیتی خبر دادند.",
+            "این پرونده شامل طرح ترور اییتامار بن گویر وزیر امنیت ملی و ربایش سربازان ارتش بوده است."
+        ],
+        "impact": "افزایش سطح تدابیر حفاظتی از مقام‌های ارشد اسرائیل و تشدید کنترل امنیتی در کرانه باختری.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/palestinian-pair-accused-of-plotting-ben-gvir-assassination-soldier-abduction/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-pair-accused-of-plotting-ben-gvir-assassination-soldier-abduction",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790165640.0
+    },
+    {
         "id": "fa395c3601",
         "title_fa": "هدف قرار گرفتن کشتی تجاری در تنگه هرمز",
         "title_en": "Two hurt, cargo ship ablaze in Strait of Hormuz attack, watchdog says",
@@ -16,6 +34,24 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/two-hurt-cargo-ship-ablaze-in-strait-of-hormuz-attack-watchdog-says",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260921HIB24-640x400.jpg",
         "timestamp": 1790164860.0
+    },
+    {
+        "id": "5596ff9d4a",
+        "title_fa": "بررسی اثرات احتمالی جنگ با ج.ا بر اقتصاد آمریکا",
+        "title_en": "The U.S. economy before and after the Iran war, in five charts",
+        "summary": [
+            "شبکه ان‌بی‌سی نیوز در گزارشی به سراغ سناریوهای اقتصادی احتمالی در صورت وقوع درگیری نظامی با ایران رفته است.",
+            "این بررسی نشان‌دهنده نگرانی بازارهای جهانی از تغییرات شاخص‌های کلیدی اقتصادی و انرژی در صورت بروز تنش نظامی است."
+        ],
+        "impact": "بالارفتن حساسیت بازارهای مالی نسبت به تحرکات نظامی در خاورمیانه.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0dDM1A3eDlVM1Y3VGl3UWpERk1hYzllZUlSMnlpd0dYVFpXZmNvanFENm1MLUFWU05KNXhtQzNxWkxrSG9yRkxveExxdUMzYlNMMkJLaTJPSWJUbHE1VGpfUk9hRG1rckNjMDFJSHQ4TGJLMndkdURIa1RFSTVWQmdGWExoQWVJX1hF?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0dDM1A3eDlVM1Y3VGl3UWpERk1hYzllZUlSMnlpd0dYVFpXZmNvanFENm1MLUFWU05KNXhtQzNxWkxrSG9yRkxveExxdUMzYlNMMkJLaTJPSWJUbHE1VGpfUk9hRG1rckNjMDFJSHQ4TGJLMndkdURIa1RFSTVWQmdGWExoQWVJX1hF",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790164800.0
     },
     {
         "id": "990f7bbde9",
@@ -5435,41 +5471,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-threatens-wipe-iran-unless-185129027.html",
         "image": "https://s.yimg.com/lo/mysterio/api/ac2a3952ccede2098a1ebc7d8e7154489c3c52394d17e49e1282259b98bbbd7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb0741e4d7fbec62cf14205244e3170c4.jpg",
         "timestamp": 1789991460.0
-    },
-    {
-        "id": "49661f8dd6",
-        "title_fa": "تهدید نظامی تهران علیه آمریکا و اسرائیل",
-        "title_en": "Iranian Military Threatens U.S. and Israel with “Further Defeats”",
-        "summary": [
-            "مقام‌های نظامی ج.ا بار دیگر با استفاده از ادبیات تهاجمی، آمریکا و اسرائیل را به شکست‌های بیشتر تهدید کردند.",
-            "این لفاظی‌ها بیشتر مصرف داخلی دارد و تلاشی برای سرپوش گذاشتن بر ضربات سنگین امنیتی و نظامی اخیر است."
-        ],
-        "impact": "افزایش تنش‌های لفظی در منطقه بدون تغییر موازنه‌های میدانی.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "IranWire",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMk5OQmYtYW00b0NnSlhzZjVxcHBEeldpX2FJN01FWkswY1p5Sl9XQ2U1cWRGdW9pSlYxbHJaZmJxMW1Sd3FkSTY0TG1WUmY4U1VrOXAxS2NVbGZGMjd5YUxJalhYb1NEVXFjNVNqRk9yYmZmX1A2dlo0Tng0LVpaR1VjU0puaDhKZFYzOXRRN0ZpM0d4Szh3VC1yRVpkSTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMk5OQmYtYW00b0NnSlhzZjVxcHBEeldpX2FJN01FWkswY1p5Sl9XQ2U1cWRGdW9pSlYxbHJaZmJxMW1Sd3FkSTY0TG1WUmY4U1VrOXAxS2NVbGZGMjd5YUxJalhYb1NEVXFjNVNqRk9yYmZmX1A2dlo0Tng0LVpaR1VjU0puaDhKZFYzOXRRN0ZpM0d4Szh3VC1yRVpkSTA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1789991328.0
-    },
-    {
-        "id": "18b767fadc",
-        "title_fa": "بایکوت کاخ سفید توسط غول‌های رسانه‌ای آمریکا در حمایت از سی‌ان‌ان",
-        "title_en": "۵ شبکه خبری آمریکا در حمایت از سی‌ان‌ان، پوشش مشترک رویدادهای ترامپ را متوقف کردند",
-        "summary": [
-            "پنج شبکه بزرگ خبری آمریکا در اقدامی کم‌سابقه، پوشش مشترک رویدادهای ترامپ را به دلیل محدودسازی رسانه‌ها متوقف کردند.",
-            "این تصمیم در واکنش مستقیم به ممانعت دولت ترامپ از ورود خبرنگاران منتقد به محوطه کاخ سفید گرفته شده است."
-        ],
-        "impact": "تشدید تنش میان دولت آمریکا و رسانه‌های جریان اصلی بر سر آزادی اطلاع‌رسانی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609215005",
-        "clean_url": "https://www.iranintl.com/202609215005",
-        "image": "http://www.bing.com/th?id=ONUT.UjAUN_dphtJX3gBY1g8pzA&pid=News",
-        "timestamp": 1789990680.0
     }
 ]
