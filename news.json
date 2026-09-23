@@ -1,5 +1,24 @@
 [
     {
+        "id": "990f7bbde9",
+        "title_fa": "هشدار صریح ترامپ به ج.ا: آماده شلیک هستیم",
+        "title_en": "Trump warns Iran it is 'locked and loaded' as 130 leaders gather at the UN",
+        "summary": [
+            "ترامپ با ادبیات نظامی «قفل و مسلح» به تهران هشدار داد که صبر واشنگتن در برابر رفتارهای منطقه‌ای به پایان رسیده است.",
+            "همزمانی این تهدید با نشست سران در سازمان ملل، پیامی برای انزوای بیشتر دیپلماتیک و افزایش فشار حداکثری است.",
+            "این موضع‌گیری نشان می‌دهد که در صورت کوچکترین خطای محاسباتی، گزینه نظامی روی میز ترامپ کاملاً فعال است."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی و تشدید فشار روانی بر بازارهای داخلی ایران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Idaho Learning News",
+        "url": "https://www.msn.com/en-us/news/other/trump-warns-iran-it-is-locked-and-loaded-as-130-leaders-gather-at-the-un/ar-AA2cPema",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-iran-it-is-locked-and-loaded-as-130-leaders-gather-at-the-un/ar-AA2cPema",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790163333.0
+    },
+    {
         "id": "564d03bbde",
         "title_fa": "مذاکرات سه ساعته در نیویورک بدون کوتاه آمدن از مواضع",
         "title_en": "Iran denies dropping preconditions amid ‘very productive’ three-hour UN talks in New York",
@@ -5453,23 +5472,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
         "image": "https://static.toiimg.com/thumb/msid-134374650,width-1280,height-720,imgsize-95851,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789989300.0
-    },
-    {
-        "id": "a17dbb235a",
-        "title_fa": "خط و نشان تکراری سپـاه برای خروج آمریکا و اسرائیل از منطقه",
-        "title_en": "روابط عمومی سپاه پاسداران: نیروهای مسلح آماده پاسخ قاطع و ویرانگر به هر تجاوزی هستند",
-        "summary": [
-            "سپـاه پـاسداران در بیانیه‌ای فرمایشی مدعی آمادگی برای پاسخ ویرانگر به هرگونه تجاوز شد.",
-            "این ادعاها در حالی مطرح می‌شود که ساختار نظامی جمهوری اسلامی زیر فشار شدید تحریم‌ها و بحران‌های داخلی قرار دارد."
-        ],
-        "impact": "این اظهارات مصرف داخلی داشته و تغییری در موازنه‌های میدانی ایجاد نمی‌کند.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609211758",
-        "clean_url": "https://www.iranintl.com/202609211758",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1789988400.0
     }
 ]
