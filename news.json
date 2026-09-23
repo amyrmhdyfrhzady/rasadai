@@ -54,6 +54,24 @@
         "timestamp": 1790151445.0
     },
     {
+        "id": "c2c68aef60",
+        "title_fa": "هشدار نهادهای امنیتی اسرائیل درباره احتمال تصاعد بحران در خاورمیانه",
+        "title_en": "Israel security officials warn of potential escalation across Middle East",
+        "summary": [
+            "مقامات ارشد امنیتی اسرائیل نسبت به پتانسیل بالای اشتعال هم‌زمان چند جبهه در سراسر منطقه هشدار داده‌اند.",
+            "این هشدارها مستقیم معطوف به آماده‌باش نیروها برای پاسخ به تحرکات تلافی‌جویانه یا پیش‌دستانه در محورهای مختلف است."
+        ],
+        "impact": "افزایش احتمال درگیری نظامی چندجبهه‌ای و جهش ریسک سیستماتیک در بازارهای انرژی و مالی منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY2JCUHR2NGZsV0xpVTZTWGFBdm1yb21LTWdRcEttdnNpekcwQWMyVGRWUGRVZkI0WmRFOFp5am9BNVkzMlJhWWUwczVfV3dOdWpPYVBwWEl4OVVOY1daWDZNaEt4WjREMGh4cDln?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY2JCUHR2NGZsV0xpVTZTWGFBdm1yb21LTWdRcEttdnNpekcwQWMyVGRWUGRVZkI0WmRFOFp5am9BNVkzMlJhWWUwczVfV3dOdWpPYVBwWEl4OVVOY1daWDZNaEt4WjREMGh4cDln",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790150421.0
+    },
+    {
         "id": "b1ced7b8dc",
         "title_fa": "شرط‌گذاری تهران برای پایان جنگ خلیج فارس",
         "title_en": "Seven demands and no concessions: an analysis and deconstruction of Iran's terms of reference for ending the Gulf War",
@@ -5457,23 +5475,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-threatens-to-expand-geography-of-war-following-latest-us-attack/ar-AA2cGu3U",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789979220.0
-    },
-    {
-        "id": "da75dd72fb",
-        "title_fa": "پیشنهاد مکانیزم هشدار هوش مصنوعی میان آمریکا و چین",
-        "title_en": "China and the US are competing for AI dominance but have shared concerns over safety",
-        "summary": [
-            "واشنگتن و پکن در آستانه دیدار سران، طرح ایجاد یک سیستم شفافیت و هشدار سریع برای حوادث هوش مصنوعی را بررسی کردند.",
-            "رقابت شدید فناوری بین دو کشور مهار نشده، اما نیاز به مدیریت خطرات امنیتی مشترک احساس می‌شود."
-        ],
-        "impact": "کاهش ریسک‌های امنیتی ناخواسته ناشی از پیشرفت تسلیحات و سیستم‌های خودکار.",
-        "tag": "تکنولوژی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/09/21/china-us-ai-dominance-safety-concerns/",
-        "clean_url": "https://www.baltimoresun.com/2026/09/21/china-us-ai-dominance-safety-concerns",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/AI_Safety_US_China_What_to_Know_69918-1.jpg?w=2000&h=1333",
-        "timestamp": 1789978680.0
     }
 ]
