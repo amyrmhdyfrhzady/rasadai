@@ -291,6 +291,24 @@
         "timestamp": 1790098140.0
     },
     {
+        "id": "ecc790214b",
+        "title_fa": "هشدار صریح اسرائیل: محل پنهان شدن مقامات رژیم را می‌دانیم",
+        "title_en": "سفیر اسرائیل در سازمان ملل: اسرائیل می‌داند رهبران جمهوری اسلامی کجا پنهان شده‌اند",
+        "summary": [
+            "سفیر اسرائیل در سازمان ملل از اشراف اطلاعاتی کامل روی مخفیگاه‌های رهبران جمهوری اسلامی خبر داد.",
+            "تل‌آویو هشدار داد در صورت هرگونه حمله، واکنش اسرائیل علیه ارکان ارشد رژیم بسیار سریع خواهد بود."
+        ],
+        "impact": "افزایش شدید هراس امنیتی در بدنه فرماندهی ارشد و تغییر محاسبات نظامی حاکمیت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609238794",
+        "clean_url": "https://www.iranintl.com/202609238794",
+        "image": "http://www.bing.com/th?id=ONUT.F66Ad4HfT3JrU5OAwjvx7Q&pid=News",
+        "timestamp": 1790096400.0
+    },
+    {
         "id": "b32ce7e928",
         "title_fa": "تمرکز سخنرانی نتانیاهو در سازمان ملل بر پرونده ج.ا",
         "title_en": "وای‌نت: سخنرانی نتانیاهو در مجمع عمومی تا حد زیادی بر جمهوری اسلامی متمرکز خواهد بود",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://www.iranintl.com/en/202609218450",
         "image": "http://www.bing.com/th?id=ONUT.hF2PNM9LjoTCAx_nL5gMZA&pid=News",
         "timestamp": 1789955880.0
-    },
-    {
-        "id": "85fe9c87e9",
-        "title_fa": "صعود سهام فناوری در آسیا همزمان با افت قیمت نفت",
-        "title_en": "Tech leads shares higher in Asia, oil eases",
-        "summary": [
-            "تقاضای بالا برای هوش مصنوعی و تراشه‌ها، موتور محرک بازارهای مالی آسیا شد.",
-            "احتمال افزایش تولید نفت توسط عربستان، اثر منفی حمله حوثی‌ها به ریاض را خنثی کرد."
-        ],
-        "impact": "کاهش قیمت نفت به دلیل سیگنال‌های افزایش عرضه و تثبیت بازارهای سهام آسیایی.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-eases-6398351",
-        "clean_url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-eases-6398351",
-        "image": "https://www.bing.com/th?id=ONUT.NX3C7GhsGkszoTRRkg-voA",
-        "timestamp": 1789955764.3839612
     }
 ]
