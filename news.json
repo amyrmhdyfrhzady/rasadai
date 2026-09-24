@@ -219,6 +219,24 @@
         "timestamp": 1790220226.0
     },
     {
+        "id": "e3f8641f70",
+        "title_fa": "رونمایی از نامه منتسب به رهبر ج****ری اسلامی پس از ماه‌ها سکوت",
+        "title_en": "Iran live: Tehran shares letter from Supreme Leader not seen in months",
+        "summary": [
+            "تهران نامه‌ای از علی خامنه‌ای منتشر کرده که ماه‌ها در انظار عمومی دیده نشده بود.",
+            "این اقدام همزمان با حملات شدید رئیس‌جمهور ایران به مواضع د****الد ترامپ صورت گرفته است."
+        ],
+        "impact": "تلاش بیت رهبری برای نمایش ثبات و قدرت داخلی در سایه فشارهای سنگین خارجی",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-us-war-live-iranian-president-hits-out-at-bully-trump/ar-AA2cRQ2J",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-live-iranian-president-hits-out-at-bully-trump/ar-AA2cRQ2J",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790214381.0
+    },
+    {
         "id": "9cd976194d",
         "title_fa": "هشدار زلنسکی درباره افزایش هزینه‌های جهانی جنگ اوکراین",
         "title_en": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-open-meeting-iran-un-125906769.html",
         "image": "https://s.yimg.com/lo/mysterio/api/acb7ebcff3cb4968e2e2e9770b46ba57b483baa960a531df9c086f3ae65c7deb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_uk_articles_973%2Fc17e8264158c2a073bba9ccedee93ea2.jpg",
         "timestamp": 1790056740.0
-    },
-    {
-        "id": "8e21173291",
-        "title_fa": "ترامپ آماده دفاع از سیاست فشار بر ایـران در سازمان ملل",
-        "title_en": "Trump expected to defend Iran war, tout Gaza peace efforts during speech to UN",
-        "summary": [
-            "دونالد ترامپ در سخنرانی پیش روی خود در سازمان ملل قصد دارد از رویکرد سخت‌گیرانه در برابر مقـابله با جـمهوری اسـلامی دفاع کند.",
-            "اشاره به تلاش‌های ادعایی برای برقراری صلح در غزه بخش دیگری از محورهای سخنرانی او خواهد بود."
-        ],
-        "impact": "این سخنرانی نشان‌دهنده بازگشت احتمالی سیاست‌های تهاجمی واشنگتن علیه تهران است.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNE1lTm9YTWdUOEFabU4zTTRkLVdjOWZTa2dYZ3JGaWExQXZod3puN1dPMXNPY3VvMWR4ZlJwQnJFdFFaNVBvOHAtaERjUG5qV0tDQjlKbUhQdkRka0VubEs1OXZVaTJWZzZJU3dFQVNCU2dvRWN6NHdKNHJ5RXVfMEwxVHlZZWo5Z2tmb0RMSE9tZDBjQ2JNRXFyM2NZOWVKQXRHMlBERkRCenVyaU1IQnB30gGyAUFVX3lxTE00TWVOb1hNZ1Q4QVptTjNNNGQtV2M5ZlNrZ1hnckZpYTFBdmh3em43V08xc09jdW8xZHhmUnBCckV0UVo1UG84cC1oRGNQbmpXS0NCOUptSFB2RGRrRW5sSzU5dlVpMlZnNklTd0VBU0JTZ29FY3o0d0o0cnlFdV8wTDFUeVllajlna2ZvRExIT21kMGNDYk1FcXIzY1k5ZUpBdEcyUERGREJ6dXJpTUhCcHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNE1lTm9YTWdUOEFabU4zTTRkLVdjOWZTa2dYZ3JGaWExQXZod3puN1dPMXNPY3VvMWR4ZlJwQnJFdFFaNVBvOHAtaERjUG5qV0tDQjlKbUhQdkRka0VubEs1OXZVaTJWZzZJU3dFQVNCU2dvRWN6NHdKNHJ5RXVfMEwxVHlZZWo5Z2tmb0RMSE9tZDBjQ2JNRXFyM2NZOWVKQXRHMlBERkRCenVyaU1IQnB30gGyAUFVX3lxTE00TWVOb1hNZ1Q4QVptTjNNNGQtV2M5ZlNrZ1hnckZpYTFBdmh3em43V08xc09jdW8xZHhmUnBCckV0UVo1UG84cC1oRGNQbmpXS0NCOUptSFB2RGRrRW5sSzU5dlVpMlZnNklTd0VBU0JTZ29FY3o0d0o0cnlFdV8wTDFUeVllajlna2ZvRExIT21kMGNDYk1FcXIzY1k5ZUpBdEcyUERGREJ6dXJpTUhCcHc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790056257.0
     }
 ]
