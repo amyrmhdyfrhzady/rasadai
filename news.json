@@ -198,6 +198,25 @@
         "timestamp": 1790245388.0
     },
     {
+        "id": "4be2812c2b",
+        "title_fa": "شکاف در جبهه جمهوری‌خواهان بر سر جنگ با ایـران",
+        "title_en": "GOP breaks ranks on Iran as voters fume over war’s costs",
+        "summary": [
+            "رای‌دهندگان آمریکایی به شدت از هزینه‌های مالی و جانی درگیری‌های جدید عصبانی هستند.",
+            "نمایندگان حزب جمهوری‌خواه در کنگره درباره رویکرد تهاجمی در قبال تـهـران دچار اختلاف نظر شدید شده‌اند.",
+            "فشار افکار عمومی آمریکا مانع از اجماع کامل حزبی برای اقدامات نظامی گسترده شده است."
+        ],
+        "impact": "کاهش احتمال حمایت یکپارچه کنگره از ماجراجویی‌های نظامی پرهزینه.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "thehill.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56dVo2RFhuZ2g3WWpjb0xMenMwSEVTOWxTRmhRV0F3TkI3dXozM3NraDhodzV4OWh0b0ZkNDhieFVCTkllVFhyWFFMZVI1YlhDUmJ3WERfazVZeklzWGlEUkxpLUF6dzN0RWtVaEV3dWlDV2llN0JsUUZXVdIBgAFBVV95cUxQaDJQZ05VT3I1RFNMMFBWc1BYOUZLY0lTbGFhNXVVU1k5eUFzSGNQRlU4TUJFaW5ua0VBQzhpdEU1SWxTR0dCX3FLMFg0TTFZdGVVQkk0WmJUcmpLeW1OVTIteFlHQjd1eXVTQ2pnZi1fR0lSQ2lpVDBjSVgyS184Vw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56dVo2RFhuZ2g3WWpjb0xMenMwSEVTOWxTRmhRV0F3TkI3dXozM3NraDhodzV4OWh0b0ZkNDhieFVCTkllVFhyWFFMZVI1YlhDUmJ3WERfazVZeklzWGlEUkxpLUF6dzN0RWtVaEV3dWlDV2llN0JsUUZXVdIBgAFBVV95cUxQaDJQZ05VT3I1RFNMMFBWc1BYOUZLY0lTbGFhNXVVU1k5eUFzSGNQRlU4TUJFaW5ua0VBQzhpdEU1SWxTR0dCX3FLMFg0TTFZdGVVQkk0WmJUcmpLeW1OVTIteFlHQjd1eXVTQ2pnZi1fR0lSQ2lpVDBjSVgyS184Vw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790244000.0
+    },
+    {
         "id": "53b4666e45",
         "title_fa": "پایان رویای آمریکایی برای تغییر خاورمیانه",
         "title_en": "America is stepping back from a region it never managed to remake",
@@ -5451,23 +5470,5 @@
         "clean_url": "https://tass.com/world/2191249",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1790066280.0
-    },
-    {
-        "id": "b697034cff",
-        "title_fa": "سقوط آزاد محبوبیت سیاست خارجی دولت ترامپ در نظرسنجی‌ها",
-        "title_en": "CNN Data Guru Exposes Trump’s Record-Setting Disaster",
-        "summary": [
-            "تحلیلگران داده شبکه سی‌ان‌ان از امتیاز منفی بی‌سابقه در حوزه سیاست خارجی خبر دادند.",
-            "مقایسه شرایط کنونی با دوران جنگ عراق نشان‌دهنده خطرات جدی برای حزب حاکم در انتخابات پیش روست."
-        ],
-        "impact": "افزایش فشار سیاسی بر دولت به دلیل پیامدهای منفی تنش‌های منطقه‌ای.",
-        "tag": "سیاست",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/cnn-data-guru-exposes-trumps-record-setting-disaster/",
-        "clean_url": "https://www.thedailybeast.com/cnn-data-guru-exposes-trumps-record-setting-disaster",
-        "image": "http://www.bing.com/th?id=ONUT.CAl4vvbX88TaiWP7SZSL6w&pid=News",
-        "timestamp": 1790065860.0
     }
 ]
