@@ -1,5 +1,23 @@
 [
     {
+        "id": "90dd601794",
+        "title_fa": "رهگیری ۶ موشک بالستیک حوثی‌ها توسط ائتلاف سعودی",
+        "title_en": "Saudi coalition says it shot down six ballistic missiles fired by Houthis at Taif and Yanbu",
+        "summary": [
+            "موشک‌های شلیک شده از سوی گروه نیابتی وابسته به تهران، شهرهای طائف و ینبع عربستان را هدف گرفته بودند.",
+            "سامانه‌های دفاعی ائتلاف موفق به انهدام این پرتابه‌ها شدند تا بحران امنیتی در شبه‌جزیره وارد فاز تازه‌ای شود."
+        ],
+        "impact": "افزایش سطح آماده‌باش نظامی در مرزهای جنوبی عربستان برای مقابله با تحرکات نیابتی.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-shot-down-six-ballistic-missiles-fired-by-houthis-at-taif-and-yanbu/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-shot-down-six-ballistic-missiles-fired-by-houthis-at-taif-and-yanbu",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790250780.0
+    },
+    {
         "id": "eb9ed791dd",
         "title_fa": "طوفان شدید در راه خاورمیانه همزمان با تنش‌های نظامی",
         "title_en": "Significant storm heading toward Middle East amid Iran war, forecasts show - ABC News",
@@ -417,6 +435,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGdKOWwzYzA1SFRpbEtPVTlFMjlpMWJsaW1QUmhrYTBnQkxnRjRkeTF2MVpDdTM4ZVhmVU9NOEs5WmFIU0k4SFVaSHl2TjVza3plS0xJV0JSVmdSMWtkZklfSURuaXBWWTY3ZTJoakxpc0I1Z2JpLVdZTWFIcHVFZE9tRi1mVVl6Q0dZ0gGQAUFVX3lxTFBTTTNJT0lIOC00ekFNbnVWcnk2MzFmWHdGZzZUWENrT1FzcWN0cTBtMzhzUEhDb2hVOTUwQWRfU2lNUmphUzNINGZESUVBUUFZSW4wNkJuaEsxaEMyZnlhcUNBWWdoejc5YVcxTjgwem5lbmR0S2QzOTF4MVAtTGtWTV9vVTc1Q0cxZGFqR2tGRw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790228863.0
+    },
+    {
+        "id": "f8f589dcd3",
+        "title_fa": "هشدار واتیکان درباره خطر اخرالزمانی هوش مصنوعی",
+        "title_en": "چرا واتیکان درباره «آخرالزمان» هوش مصنوعی هشدار می‌دهد؟",
+        "summary": [
+            "رهبر کاتولیک‌های جهان خواستار تدوین قوانین سخت‌گیرانه بین‌المللی برای مهار فناوری‌های نوین نظامی شد.",
+            "نگرانی از تسلیحاتی شدن هوش مصنوعی به یکی از محورهای اصلی دیپلماسی واتیکان تبدیل شده است."
+        ],
+        "impact": "افزایش فشارهای جهانی بر قدرت‌های فناوری برای کنترل توسعه سیستم‌های تسلیحاتی خودکار.",
+        "tag": "تکنولوژی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609249243",
+        "clean_url": "https://www.iranintl.com/202609249243",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/a2cfaf3b4bfb9b0db7a9241f9de540e0fa96e2e5-5500x3667.jpg?rect=0,390,5500,2888&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790226780.0
     },
     {
         "id": "ee9f0f69d7",
@@ -5433,42 +5469,5 @@
         "clean_url": "https://www.mlive.com/politics/2026/09/michigan-republican-john-james-joins-calls-for-end-to-iran-war.html",
         "image": "http://www.bing.com/th?id=ONUT.F-xEwUQaEQnZ0no3CA8erQ&pid=News",
         "timestamp": 1790064360.0
-    },
-    {
-        "id": "4b8fed5377",
-        "title_fa": "فشار حداکثری ترامپ برای انزوای اقتصادی کـشـور",
-        "title_en": "دونالد ترامپ: اگر متحد بمانیم، به‌زودی جهان از تهدید تروریسم حکومت ایران رها می‌شود",
-        "summary": [
-            "ترامپ در سازمان ملل خواستار انزوای کامل اقتصادی حکومـت ایـران شد.",
-            "واشنگتن تاکید کرد تا توقف برنامه‌های هسته‌ای و حمایت از تروریسم، فشارها ادامه می‌یابد."
-        ],
-        "impact": "تشدید سقوط ارزش پول ملی و تنگ‌تر شدن حلقه تحریم‌های تجاری",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609223319",
-        "clean_url": "https://www.iranintl.com/202609223319",
-        "image": "http://www.bing.com/th?id=ONUT.ffOXfezt00LRnUH9eyQOGw&pid=News",
-        "timestamp": 1790064180.0
-    },
-    {
-        "id": "672d3380cc",
-        "title_fa": "خط و نشان ترامپ: پایان جمهوری اسلامی یا توافق نهایی",
-        "title_en": "ترامپ در سازمان ملل متحد: یا با ایران به توافق می‌رسیم یا جمهوری اسلامی محو می‌شود",
-        "summary": [
-            "ترامپ با ادبیاتی صریح، حاکمیت ج.ا را عامل اصلی بی‌ثباتی و خونریزی ۵۱ ساله در خاورمیانه معرفی کرد.",
-            "تأکید دوباره بر سیاست «فشار حداکثری»؛ واشنگتن تحت هیچ شرایطی اجازه دستیابی تهران به سلاح هسته‌ای را نمی‌دهد.",
-            "ترامپ با مانور روی قدرت نظامی و اقتصادی آمریکا، پیام داد که دوران مماشات با تهران به پایان رسیده است."
-        ],
-        "impact": "افزایش شدید ریسک‌های امنیتی و فشار روانی بر بازار ارز و سرمایه در ایران.",
-        "tag": "سیاست خارجی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/donald-trump-speech-at-un-general-assembly/33861172.html",
-        "clean_url": "https://www.radiofarda.com/a/donald-trump-speech-at-un-general-assembly/33861172.html",
-        "image": "https://gdb.rferl.org/6e4a90a4-d952-488f-9862-817ba12c4312_w1200_h630.jpg",
-        "timestamp": 1790064180.0
     }
 ]
