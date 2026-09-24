@@ -910,6 +910,25 @@
         "timestamp": 1790214381.0
     },
     {
+        "id": "09aa3e33be",
+        "title_fa": "تلاش دموکرات‌ها برای محدود کردن اختیارات جنگی علیه ج.ا",
+        "title_en": "Senate Republicans have 1 more chance to oppose the Iran war before the midterms",
+        "summary": [
+            "دموکرات‌ها در سنا تنها به یک رای جمهوری‌خواه نیاز دارند تا پیش از انتخابات، قطعنامه محدودکننده اختیارات جنگی را تصویب کنند.",
+            "این اقدام تلاشی برای مهار هرگونه ماجراجویی نظامی احتمالی پیش از تغییر ترکیب کنگره است.",
+            "شکاف در صفوف جمهوری‌خواهان می‌تواند مانع از تداوم سیاست‌های تهاجمی در قبال تهران شود."
+        ],
+        "impact": "تصویب این قطعنامه دست دولت را برای هرگونه اقدام نظامی مستقیم علیه ج.ا می‌بندد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Politico on MSN",
+        "url": "https://www.msn.com/en-us/news/other/senate-republicans-have-1-more-chance-to-oppose-the-iran-war-before-the-midterms/ar-AA2cS1K3",
+        "clean_url": "https://www.msn.com/en-us/news/other/senate-republicans-have-1-more-chance-to-oppose-the-iran-war-before-the-midterms/ar-AA2cS1K3",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790214300.0
+    },
+    {
         "id": "cfd2f5ce20",
         "title_fa": "حمله پهپادی س·پ·ا·ه به مواضع کُردها در اربیل",
         "title_en": "شبکه رووداو: سپاه پاسداران با سه پهپاد به مواضع حزب دموکرات کردستان ایران حمله کرد",
@@ -5453,23 +5472,5 @@
         "clean_url": "https://www.cleveland.com/politics/2026/09/shock-cnn-poll-reveals-republicans-abandoning-trump-on-1-major-issue.html",
         "image": "http://www.bing.com/th?id=ONUT.TeTOuPMaIHtH4roraYX70A&pid=News",
         "timestamp": 1790069400.0
-    },
-    {
-        "id": "c5afc6ae37",
-        "title_fa": "هشدار صریح ترامپ به سازمان ملل درباره گزینه نابودی",
-        "title_en": "Trump warns UN he might 'annihilate' Iran as war overshadows diplomacy",
-        "summary": [
-            "رئیس‌جمهور آمریکا بر عدم تأثیرپذیری سیاست‌های خود در قبال ایران از فشارهای داخلی تأکید کرد.",
-            "امضای توافق درباره گرینلند در حاشیه سخنرانی‌های سازمان ملل صورت گرفت."
-        ],
-        "impact": "افزایش ریسک‌های امنیتی و تنش‌های دیپلماتیک در سطح بین‌المللی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-warns-un-he-might-annihilate-iran-as-war-overshadows-diplomacy/ar-AA2cKXUM",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-un-he-might-annihilate-iran-as-war-overshadows-diplomacy/ar-AA2cKXUM",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790069154.0
     }
 ]
