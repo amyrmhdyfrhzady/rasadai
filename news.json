@@ -18,6 +18,24 @@
         "timestamp": 1790263373.0
     },
     {
+        "id": "dc9d5925c3",
+        "title_fa": "نمایش دیپلماتیک پکن و واشنگتن؛ دستاوردها و حاشیه‌های مجمع عمومی",
+        "title_en": "Gustavo de Arístegui: Geopolitical analysis of 24 September",
+        "summary": [
+            "شی جین پینگ با تشریفات کم‌نظیری در واشنگتن مورد استقبال دونالد ترامپ قرار گرفت.",
+            "تحلیلگران معتقدند این دیدارها بیشتر جنبه تشریفاتی داشته و خروجی استراتژیک خاصی به همراه نداشته است."
+        ],
+        "impact": "تغییرات ظاهری در دیپلماسی قدرت‌های بزرگ بدون توافقات ملموس پشت پرده.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Atalayar",
+        "url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-24-september/20260924170000229507.html",
+        "clean_url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-24-september/20260924170000229507.html",
+        "image": "https://www.atalayar.com/media/atalayar/images/2025/03/20/2025032014121991579.jpg",
+        "timestamp": 1790262060.0
+    },
+    {
         "id": "a5d27348ad",
         "title_fa": "فلج‌شدن پروازهای ای-ران با اجرای تحریم‌های جدید و درگیری در ریاض",
         "title_en": "Iranian flights cancelled as new US 'D-Day' sanctions take effect, Saudis say they shoot down Houthi missiles",
@@ -379,6 +397,24 @@
         "timestamp": 1790243783.0
     },
     {
+        "id": "0e660eda8e",
+        "title_fa": "سخنرانی پزشکیان در سازمان ملل؛ پافشاری بر مقاومت در سایه جنگ",
+        "title_en": "Analysis | Pezeshkian's UN speech: Firm resistance and conditional diplomacy",
+        "summary": [
+            "مسعود پزشکیان در سازمان ملل از استمرار ایستادگی در برابر نظم ناعادلانه جهانی گفت.",
+            "دونالد ترامپ روز قبل از آن با لحنی تهدیدآمیز از تصمیم بزرگ خود درباره توافق یا فشار بر تهران سخن گفته بود."
+        ],
+        "impact": "بسته‌تر شدن روزنه‌های دیپلماسی و تثبیت وضعیت تقابل میان تهران و واشنگتن.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "parstoday",
+        "url": "https://parstoday.ir/en/news/iran-i246330-analysis_pezeshkian’s_un_speech_firm_resistance_and_conditional_diplomacy",
+        "clean_url": "https://parstoday.ir/en/news/iran-i246330-analysis_pezeshkian’s_un_speech_firm_resistance_and_conditional_diplomacy",
+        "image": "https://media.parstoday.ir/image/4cc179e250d9792qms4_800C450.jpg",
+        "timestamp": 1790242380.0
+    },
+    {
         "id": "e1060b3b8b",
         "title_fa": "ترامپ در سازمان ملل؛ تمرکز ویژه بر پرونده ج.ا",
         "title_en": "Trump set to address the UN General Assembly, with Iran in focus",
@@ -709,6 +745,24 @@
         "clean_url": "https://www.iranintl.com/202609249243",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/a2cfaf3b4bfb9b0db7a9241f9de540e0fa96e2e5-5500x3667.jpg?rect=0,390,5500,2888&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790226780.0
+    },
+    {
+        "id": "fd27937390",
+        "title_fa": "تهدید اقیانوس هند؛ واکنش نظامی ج ۳هوری اس ۳لامی به ترامپ",
+        "title_en": "Iran-US war news: War could expand to Indian Ocean if US attacks again, Iran issues big warning to Trump; what it means for India?",
+        "summary": [
+            "یحیی رحیم صفوی تهدید کرد که در صورت حمله دوباره آمریکا، دایره درگیری‌ها به اقیانوس هند کشیده خواهد شد.",
+            "مسعود پزشکیان در سازمان ملل از تسلیم نشدنی گفت و پاسخ تندی به سخنرانی دونالد ترامپ داد."
+        ],
+        "impact": "گسترش احتمالی بحران به آب‌های آزاد و افزایش ریسک امنیت کشتیرانی تجاری.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "News24",
+        "url": "https://news24online.com/world/iran-us-war-news-war-could-expand-to-indian-ocean-if-us-attacks-again-iran-issues-big-warning-to-donald-trump-what-it-means-for-india-mojtaba-khamenei/933385/",
+        "clean_url": "https://news24online.com/world/iran-us-war-news-war-could-expand-to-indian-ocean-if-us-attacks-again-iran-issues-big-warning-to-donald-trump-what-it-means-for-india-mojtaba-khamenei/933385",
+        "image": "https://news24online.com/wp-content/uploads/2026/09/TRUMP.jpg-10.jpeg",
+        "timestamp": 1790226240.0
     },
     {
         "id": "ee9f0f69d7",
@@ -5418,59 +5472,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnJIMlpZN3FxQS15NzZ3YW9ZdVBpNUh5dnp3ejBjVVpYQXdmZ3JlaWNQNjFnVlJmUkw4ZnoxeWNPZUNuUGpWNDVSYjhHNk1ZOTNiVkpUVGxFd1FfdWZvUHk1UGFJMEFGdjd2Z0tmSFFIbThEWFczaEQtby05LUlxenFQME11c3ZsU2pHNQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790069970.0
-    },
-    {
-        "id": "5a52b0d90c",
-        "title_fa": "اولتیماتوم ترامپ در سازمان ملل: توافق یا نابودی جمهوری اسلامی",
-        "title_en": "Trump urges nations to unite against Iran in UN address",
-        "summary": [
-            "دونالد ترامپ در مجمع عمومی سازمان ملل بر ادامه فشار اقتصادی و نظامی بر تهران تأکید کرد.",
-            "وی بین گزینه توافق پس از انتخابات و نابودی سریع رژیم ایران حق انتخاب گذاشت."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی و تشدید فشار تحریم‌ها بر اقتصاد ایران",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Jewish Telegraphic Agency",
-        "url": "https://www.jta.org/2026/09/22/global/trump-urges-nations-to-unite-against-iran-in-un-address",
-        "clean_url": "https://www.jta.org/2026/09/22/global/trump-urges-nations-to-unite-against-iran-in-un-address",
-        "image": "https://www.jta.org/wp-content/uploads/2026/09/Trump-UN-260922.jpeg",
-        "timestamp": 1790069520.0
-    },
-    {
-        "id": "78f200c794",
-        "title_fa": "فشار تورم و گرانی سوخت؛ درخواست فوری برای پایان درگیری‌ها",
-        "title_en": "Trump-backed Senate candidate says 'Groceries cost too much,' calls for Iran war to 'end quickly'",
-        "summary": [
-            "نامزد سنای آمریکا با اشاره به فشار مالی شدید بر خانواده‌ها، خواستار پایان فوری تنش‌ها شد.",
-            "پیشنهاد تعلیق مالیات سوخت برای کاهش هزینه‌های زندگی مطرح شد."
-        ],
-        "impact": "تلاش نامزدهای انتخاباتی برای مهار بحران هزینه‌های زندگی و انرژی.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/trump-backed-senate-candidate-groceries-cost-too-much-calls-iran-war-end-quickly",
-        "clean_url": "https://www.foxnews.com/politics/trump-backed-senate-candidate-groceries-cost-too-much-calls-iran-war-end-quickly",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/656cc269-mike-rogers-september-2026.jpg",
-        "timestamp": 1790069460.0
-    },
-    {
-        "id": "ef7aa47b9d",
-        "title_fa": "مخالفت گسترده آمریکایی‌ها با رویکرد ترامپ در قبال ایران",
-        "title_en": "Shock CNN poll reveals Republicans abandoning Trump on 1 major issue",
-        "summary": [
-            "نظرین‌سنجی جدید سی‌ان‌ان نشان می‌دهد ۷۳ درصد شهروندان با نحوه مدیریت پرونده ایران توسط ترامپ مخالفند.",
-            "این نارضایتی عمومی چالش‌های سیاسی تازه‌ای برای کاخ سفید ایجاد کرده است."
-        ],
-        "impact": "افزایش فشار سیاسی داخلی بر دولت آمریکا برای تغییر استراتژی",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "cleveland.com",
-        "url": "https://www.cleveland.com/politics/2026/09/shock-cnn-poll-reveals-republicans-abandoning-trump-on-1-major-issue.html",
-        "clean_url": "https://www.cleveland.com/politics/2026/09/shock-cnn-poll-reveals-republicans-abandoning-trump-on-1-major-issue.html",
-        "image": "http://www.bing.com/th?id=ONUT.TeTOuPMaIHtH4roraYX70A&pid=News",
-        "timestamp": 1790069400.0
     }
 ]
