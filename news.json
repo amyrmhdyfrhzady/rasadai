@@ -18,6 +18,24 @@
         "timestamp": 1790274765.0
     },
     {
+        "id": "ede1ccf604",
+        "title_fa": "پاسخ مسعود پزشکیان به تهدیدهای ائتلاف تروما در سازمان ملل",
+        "title_en": "Trump threatened to 'annihilate' Iran. Its president laid out Tehran's demands at the UN",
+        "summary": [
+            "مسعود پزشکیان در سازمان ملل برنامه هسته‌ای و موشکی تهران را کاملاً دفاعی خوانեց و هشدارهای دونالد ترامپ را رد کرد.",
+            "تهران مواضع خود را درباره تنگه هرمز و توان نظامی حفظ کرده است تا بگوید زیر بار فشار حداکثری نمی‌رود."
+        ],
+        "impact": "تشدید جنگ لفظی میان تهران و واشنگتن در آستانه بازگشت احتمالی سیاست فشار حداکثری.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Arkansas Public Advocate",
+        "url": "https://www.msn.com/en-us/news/other/trump-threatened-to-annihilate-iran-its-president-laid-out-tehran-s-demands-at-the-un/ar-AA2cUxnK",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-threatened-to-annihilate-iran-its-president-laid-out-tehran-s-demands-at-the-un/ar-AA2cUxnK",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790273428.0
+    },
+    {
         "id": "0df97a6555",
         "title_fa": "رای‌گیری سنا درباره جنگ با ايران در سایه فشار تورمی",
         "title_en": "Senate to vote on ending Iran war as Americans face higher fuel costs from conflict",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/republican-support-for-trump-s-handling-of-war-in-iran-shows-cracks-in-new-cnn-poll/ar-AA2cJnGd",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790075460.0
-    },
-    {
-        "id": "05b032d9c5",
-        "title_fa": "هشدار جی‌دی ونس درباره ضربات نظامی به اتمی ج.ا",
-        "title_en": "JD Vance Says US Strikes Will Keep Iran From Rebuilding Its Nuclear Program",
-        "summary": [
-            "معاون ترامپ تاکید کرده که حملات نظامی آمریکا مانع از بازسازی و توسعه برنامه اتمی تهران خواهد شد.",
-            "این موضع نشان‌دهنده عزم تیم جدید واشنگتن برای استفاده از گزینه قهرآمیز جهت مهار پروژه اتمی حکومت است."
-        ],
-        "impact": "افزایش فشار نظامی و روانی بر تهران برای عقب‌نشینی از پرونده هسته‌ای",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Межа. Новини України.",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NTldaTG44ZHQydEZvcE5WZFh5Vkd5RE1WU0RZSTdJaTBaUExidFp5YUdzcXpTbTczaWk0OVhaMVBpU19nX2dEQVV0ODdrVnJ3QWMxckdZSHhRUW5idUNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NTldaTG44ZHQydEZvcE5WZFh5Vkd5RE1WU0RZSTdJaTBaUExidFp5YUdzcXpTbTczaWk0OVhaMVBpU19nX2dEQVV0ODdrVnJ3QWMxckdZSHhRUW5idUNB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790075437.0
     }
 ]
