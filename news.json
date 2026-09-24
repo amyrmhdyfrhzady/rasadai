@@ -766,6 +766,24 @@
         "timestamp": 1790223600.0
     },
     {
+        "id": "a2ea361997",
+        "title_fa": "تهدید همسایگان توسط مـسـئـولـان حکومتی به خاطر تحریم هوایی",
+        "title_en": "Why is Iran threatening regional airports, and what could be the impact?",
+        "summary": [
+            "محسن رضایی کشورهای همسایه را به خاطر اجرای تحریم‌های جدید هوایی آمریکا تهدید کرده است.",
+            "شرکت‌های هواپیمایی داخل کشور پروازهای خارجی خود را به دلیل ترس از تحریم‌های ثانویه آمریکا لغو کرده‌اند."
+        ],
+        "impact": "افزایش انزوای هوایی حکومت و بالا گرفتن تنش میان تهران و کشورهای منطقه",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-1228028875-1790076008.jpg?resize=1920%2C1440",
+        "timestamp": 1790223000.0
+    },
+    {
         "id": "5070626b43",
         "title_fa": "آماده‌باش امنیتی در عربستان همزمان با حملات نیابتی",
         "title_en": "Iran live updates: Saudi Arabia issues safety alerts covering Jeddah, Mecca",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://tass.com/economy/2191271",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1790068980.0
-    },
-    {
-        "id": "50c4e4cfe1",
-        "title_fa": "تیغ تحریم‌های هوایی بر گلوگاه شرکت‌های هواپیمایی ج.ا",
-        "title_en": "Iranian Airlines Sanctions: Can the U.S. Ground Flights Abroad?",
-        "summary": [
-            "فشارهای جدید آمریکا برای زمین‌گیر کردن ناوگان هوایی ج.ا در مسیرهای بین‌المللی جدی‌تر شده است.",
-            "این تحریم‌ها حلقه محاصره اقتصادی را تنگ‌تر کرده و جابجایی هوایی را با چالش‌های اساسی روبه‌رو می‌کند."
-        ],
-        "impact": "فلج شدن بیشتر خطوط پروازی خارجی و افزایش انزوای هوایی حکومت.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Diplomacy and Law",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zZkppMmN6SGdrRnV3ZTdwMmRaU084d1huS2M3czhnaGUtbTFId05LWnU2MndOQTFDUlZTWXd5bmxRNXdEQXlidGs2T3NoaElyWjFRdFFSNERqSEFMNWk4WDc2b2JSTTZibUxGenFWX3E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zZkppMmN6SGdrRnV3ZTdwMmRaU084d1huS2M3czhnaGUtbTFId05LWnU2MndOQTFDUlZTWXd5bmxRNXdEQXlidGs2T3NoaElyWjFRdFFSNERqSEFMNWk4WDc2b2JSTTZibUxGenFWX3E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790068808.0
     }
 ]
