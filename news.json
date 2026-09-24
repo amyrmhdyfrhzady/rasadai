@@ -1,5 +1,23 @@
 [
     {
+        "id": "05511e78b1",
+        "title_fa": "تعلیق پروازهای هواپیمایی ایران توسط امارات",
+        "title_en": "UAE says it suspended Iranian airline flights over US sanctions",
+        "summary": [
+            "تصمیم امارات برای توقف پروازهای ایرلاین‌های ایرانی، واکنش مستقیم به فشارها و تحریم‌های آمریکا است.",
+            "این اقدام نشان‌دهنده انزوای بیشتر فضای هوایی ایران و محدود شدن تردد دیپلماتیک و تجاری از طریق خلیج فارس است."
+        ],
+        "impact": "افزایش هزینه‌های حمل‌ونقل هوایی و محدودیت در تردد مسافران و کالاهای حساس.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ROUdUY2YzeVRSYktNTTRhOGR0SGl4Q1g4ZUczbmFFdlEwT21NLXRnN2lPUjU2VnFBMGJRQ29ldG1ZY3Rlc1ZDWDQxblRVQjB6aGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ROUdUY2YzeVRSYktNTTRhOGR0SGl4Q1g4ZUczbmFFdlEwT21NLXRnN2lPUjU2VnFBMGJRQ29ldG1ZY3Rlc1ZDWDQxblRVQjB6aGc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790263373.0
+    },
+    {
         "id": "a5d27348ad",
         "title_fa": "فلج‌شدن پروازهای ای-ران با اجرای تحریم‌های جدید و درگیری در ریاض",
         "title_en": "Iranian flights cancelled as new US 'D-Day' sanctions take effect, Saudis say they shoot down Houthi missiles",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zZkppMmN6SGdrRnV3ZTdwMmRaU084d1huS2M3czhnaGUtbTFId05LWnU2MndOQTFDUlZTWXd5bmxRNXdEQXlidGs2T3NoaElyWjFRdFFSNERqSEFMNWk4WDc2b2JSTTZibUxGenFWX3E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790068808.0
-    },
-    {
-        "id": "ee7f1eb390",
-        "title_fa": "واکنش خبرگان به سخنان رفراندوم و صلح شرافتمندانه",
-        "title_en": "مجلس خبرگان رهبری: سخن درباره «رفراندوم و صلح شرافتمندانه» جرمی نابخشودنی است",
-        "summary": [
-            "مجلس خبرگان رهبری طرح موضوع رفراندوم و صلح را جرمی نابخشودنی و مصداق تسلیم خواند.",
-            "این نهاد خواستار برخورد قاطع قوه قضاییه با منتقدان و تداوم حمایت از نیابتی‌های منطقه شد."
-        ],
-        "impact": "بستن مسیر هرگونه انعطاف سیاسی داخلی و تشدید فضای امنیتی",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609223403",
-        "clean_url": "https://www.iranintl.com/202609223403",
-        "image": "http://www.bing.com/th?id=ONUT.sgI1YO0c0RjSZ7pcJw48hg&pid=News",
-        "timestamp": 1790068680.0
     }
 ]
