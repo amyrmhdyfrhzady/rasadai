@@ -55,6 +55,24 @@
         "timestamp": 1790274765.0
     },
     {
+        "id": "42218d56a6",
+        "title_fa": "سخنرانی نتانیاهو در سازمان ملل درباره جنگ",
+        "title_en": "Netanyahu lauds Israel's military record since Oct. 7 in speech to UN",
+        "summary": [
+            "بنیامین نتانیاهو واقعه هفتم اکتبر را تاریک‌ترین روز تاریخ اسرائیل توصیف کرد.",
+            "او در مجمع عمومی سازمان ملل از دستاوردهای نظامی کشورش دفاع کرد."
+        ],
+        "impact": "تثبیت دکترین نظامی تل‌آویو در مجامع بین‌المللی با وجود فشارهای جهانی.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-lauds-israels-military-record-since-oct-7-in-speech-to-un/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-lauds-israels-military-record-since-oct-7-in-speech-to-un",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/446-640x400.jpeg",
+        "timestamp": 1790274660.0
+    },
+    {
         "id": "ede1ccf604",
         "title_fa": "پاسخ مسعود پزشکیان به تهدیدهای ائتلاف تروما در سازمان ملل",
         "title_en": "Trump threatened to 'annihilate' Iran. Its president laid out Tehran's demands at the UN",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://www.iranintl.com/202609224934",
         "image": "http://www.bing.com/th?id=ONUT.NhCotABNBxNuPET2dIhT2A&pid=News",
         "timestamp": 1790078100.0
-    },
-    {
-        "id": "7e1d254cd4",
-        "title_fa": "واکنش بازارهای انرژی به حملات به اهدافی در ای-ران",
-        "title_en": "Market Analysts React to US-Israel Strikes on Iran",
-        "summary": [
-            "کارشناسان بازار انرژی تحولات اخیر و حملات مشترک به اهدافی در داخل خاک ای-ران را زیر ذره‌بین بردند.",
-            "نوسانات شدید در بازارهای نفت و گاز پس از انتشار این اخبار آغاز شد."
-        ],
-        "impact": "افزایش آنی قیمت نفت و تلاطم در بازارهای مالی جهانی",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "EnergyNow",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTVKYWE3TllUQVZvYzNLQ09lMGtzaHNaTTNrUWgyM2ZNemZrUGhwZ195T2NxcVFBOTI0eWRuNFZWaVpNeUtjaGpMV0RoY1Z0QlpoU1VNOXozbzlva3ltczFhZU9jaGVLY2ZOMHo5SldYOGxYSXBUNUpCemxEbENqZ2ZucnhNUlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTVKYWE3TllUQVZvYzNLQ09lMGtzaHNaTTNrUWgyM2ZNemZrUGhwZ195T2NxcVFBOTI0eWRuNFZWaVpNeUtjaGpMV0RoY1Z0QlpoU1VNOXozbzlva3ltczFhZU9jaGVLY2ZOMHo5SldYOGxYSXBUNUpCemxEbENqZ2ZucnhNUlU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790078073.0
     }
 ]
