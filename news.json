@@ -36,6 +36,24 @@
         "timestamp": 1790279520.0
     },
     {
+        "id": "4b6294b0e3",
+        "title_fa": "وتوی طرح پایان جنگ با ایـران در سنای آمریکا",
+        "title_en": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+        "summary": [
+            "حزب جمهوری‌خواه در سنا مانع از تصویب طرح محدودسازی اختیارات نظامی علیه ایـران شد.",
+            "این تصمیم نشان‌دهنده حفظ دست‌باز واشنگتن برای اقدامات نظامی در آستانه انتخابات است."
+        ],
+        "impact": "بسته شدن مسیرهای دیپلماتیک کنگره و حفظ گزینه تنش نظامی روی میز.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qeTg2M3VMNWI5NXdCcjlOQkdLU0JQWTVDcWp0YklXYUdMN2hrNmk2MW45QXpBQ3pyR2VTVzRiSGZuNDN1YjhidVdKX2xOelQxZy1lbTAyTUotdVJxcW9GZTlFM1Q2VkZmbHpJZnhndERXYmxXTG9XVjNwd3o?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qeTg2M3VMNWI5NXdCcjlOQkdLU0JQWTVDcWp0YklXYUdMN2hrNmk2MW45QXpBQ3pyR2VTVzRiSGZuNDN1YjhidVdKX2xOelQxZy1lbTAyTUotdVJxcW9GZTlFM1Q2VkZmbHpJZnhndERXYmxXTG9XVjNwd3o",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790279213.0
+    },
+    {
         "id": "9c1d478f17",
         "title_fa": "چراغ سبز سنا به ترامپ برای اقدام نظامی علیه ج.ا",
         "title_en": "Senate Defeats Bid to Direct Trump to End Iran War or Seek Approval",
@@ -5448,23 +5466,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/you-should-not-be-here-trump-tells-cnn-at-un-as-standoff-with-media-outlets-persists/ar-AA2cM45W",
         "image": "http://www.bing.com/th?id=ONUT.SFYHTv-sTqyKhMvm-TtXeg&pid=News",
         "timestamp": 1790088347.0
-    },
-    {
-        "id": "74e8605463",
-        "title_fa": "فراخوان کامالا هریس برای انتخابات میشیگان",
-        "title_en": "Kamala Harris promotes Abdul El-Sayed, wants vote 'too big to rig'",
-        "summary": [
-            "معاون سابق رئیس‌جمهور آمریکا از نامزد دموکرات سنا در دیترویت حمایت کرد.",
-            "هریس بر مشارکت حداکثری مردم برای جلوگیری از تقلب در رای‌گیری تأکید کرد."
-        ],
-        "impact": "تغییرات جزئی در معادلات انتخاباتی میان دموکرات‌ها و جمهوری‌خواهان",
-        "tag": "انتخابات",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/politics/2026/09/22/el-sayed-stopgap-trump-abuses-kamala-harris/91880473007/",
-        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/09/22/el-sayed-stopgap-trump-abuses-kamala-harris/91880473007",
-        "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/09/23/PDTN/91897143007-0922-kk-kamala-harris-naacp-03.JPG?crop=7884,4436,x0,y410&width=3200&height=1801&format=pjpg&auto=webp",
-        "timestamp": 1790088240.0
     }
 ]
