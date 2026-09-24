@@ -1,5 +1,23 @@
 [
     {
+        "id": "abe359eb76",
+        "title_fa": "پیش‌بینی سقوط پنج درصدی اقتصادهای خلیج فارس به دلیل جنگ",
+        "title_en": "Gulf economies to shrink 5% this year as Iran war drags on, Capital Economics says",
+        "summary": [
+            "موسسه تحلیل اقتصادی پیش‌بینی کرد اقتصاد کشورهای حاشیه خلیج فارس امسال به اندازه دوران پاندمی کوچک شود.",
+            "صادرات انرژی و بخش گردشگری منطقه به دلیل تداوم درگیری‌ها آسیب جدی دیده‌اند."
+        ],
+        "impact": "خسارت سنگین به اقتصاد کشورهای منطقه و تاخیر در بازگشت صادرات انرژی به شرایط عادی.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "bne IntelliNews",
+        "url": "https://www.intellinews.com/gulf-economies-to-shrink-5-this-year-as-iran-war-drags-on-capital-economics-says-470575/",
+        "clean_url": "https://www.intellinews.com/gulf-economies-to-shrink-5-this-year-as-iran-war-drags-on-capital-economics-says-470575",
+        "image": "https://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneGeneric_Iran_Israel_Palestine_red_sea_Gulf_-_Satellite_NASA_-__Southern_Levant_.jpg",
+        "timestamp": 1790229240.0
+    },
+    {
         "id": "c1c9537f08",
         "title_fa": "محدودیت‌های جدید سفرهای هوایی در منطقه خاورمیانه",
         "title_en": "Middle East - The Latest News on Mobility and Travel Considerations",
@@ -106,6 +124,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790211269.0
+    },
+    {
+        "id": "3e0db87635",
+        "title_fa": "ادامه تنش‌های دریایی و تهدید حوثی‌ها به مسدودسازی باب‌المندب",
+        "title_en": "Guerra de Irán, en directo | Los hutíes amenazan con bloquear Bab el-Mandeb",
+        "summary": [
+            "با وجود برقراری آتش‌بس شکننده، درگیری‌های دریایی و ناآبادی بازار نفت همچنان ادامه دارد.",
+            "گروه‌های نیابتی با تهدید مسیرهای حیاتی به دنبالستیزه‌جویی جدید هستند."
+        ],
+        "impact": "بازارهای جهانی انرژی همچنان در معرض شوک‌های قیمتی و نااطمینانی شدید قرار دارند.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "El Periódico",
+        "url": "https://www.elperiodico.com/es/internacional/20260924/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+        "clean_url": "https://www.elperiodico.com/es/internacional/20260924/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+        "image": "http://www.bing.com/th?id=ONUT.NiGREyExKm1OxD4p7JXskA&pid=News",
+        "timestamp": 1790203260.0
     },
     {
         "id": "ff91ace438",
@@ -329,6 +365,42 @@
         "timestamp": 1790188108.0
     },
     {
+        "id": "71ea72a520",
+        "title_fa": "پکن و مناقشه ایران؛ بازی مستقل چین در برابر طرح‌های ترامپ",
+        "title_en": "China busca poner fin a la guerra con Irán, pero no como Trump quiere",
+        "summary": [
+            "دیدار وزیر خارجه ایران با مقامات چین پیش از سفر شی جین پینگ به آمریکا، نشان‌دهنده تلاش پکن برای حفظ نفوذ خود در تهران است.",
+            "مسأله جنگ با ایران و بازگشایی تنگه هرمز از محورهای اصلی گفتگوهای سران چین و آمریکا خواهد بود."
+        ],
+        "impact": "چین به دنبال مهار بحران انرژی و نفت به شیوه خود است، بدون اینکه کاملاً با خواسته‌های آمریکا همراه شود.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "BBC",
+        "url": "https://www.bbc.com/mundo/articles/cme8xkx8k60po",
+        "clean_url": "https://www.bbc.com/mundo/articles/cme8xkx8k60po",
+        "image": "http://www.bing.com/th?id=ONUT.qjSSPKkXVzSSur8Wa97hfg&pid=News",
+        "timestamp": 1790182800.0
+    },
+    {
+        "id": "15801a9f8a",
+        "title_fa": "واکنش وزارت خارجه به کانادا: همراهی با قدرت‌ها امنیت نمی‌آورد",
+        "title_en": "بقائی خطاب به نخست‌وزیر کانادا: همراهی با قدرت‌های بزرگ امنیت نمی‌آورد",
+        "summary": [
+            "اسماعیل بقایی از موضع نخست‌وزیر کانادا در قبال تهدیدات علیه تهران انتقاد کرد.",
+            "او هشدار داد کشورهایی که تسلیم فشارهای آمریکا می‌شوند در نهایت آسیب‌پذیر خواهند شد."
+        ],
+        "impact": "نشان‌دهنده انزوای دیپلماتیک حکومت و تلاش برای پاسخ به مواضع کشورهای غربی.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609241901",
+        "clean_url": "https://www.iranintl.com/202609241901",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790182800.0
+    },
+    {
         "id": "2d525479f4",
         "title_fa": "وعده مبهم انتخابات در ونزوئلا؛ تلاش کاراکاس برای خرید زمان",
         "title_en": "رودریگز وعده انتخابات در ونزوئلا داد، اما زمانی برای آن تعیین نکرد",
@@ -492,6 +564,24 @@
         "clean_url": "https://cryptobriefing.com/us-sanctions-shut-down-80-90-of-irans-external-flights",
         "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/23192915/library-us-sanctions-shut-down-80-90-of-iran-s-external-flights-scaled-1-689x457.png",
         "timestamp": 1790180940.0
+    },
+    {
+        "id": "ff86c76fc9",
+        "title_fa": "پزشکیان در سازمان ملل: تسلیم فشار و تحریم نمی‌شویم",
+        "title_en": "El presidente de Irán le dice a Trump que su país nunca se \"arrodillará\"",
+        "summary": [
+            "مسعود پزشکیان در مجمع عمومی سازمان ملل اعلام کرد که حکومت در برابر تهدیدات و تحریم‌های واشینگتن زانو نخواهد زد.",
+            "او خواستار پایان دادن به محاصره دریایی و رفع موانع کشتیرانی ایران در خلیج فارس شد."
+        ],
+        "impact": "تنش‌های دیپلماتیک و جنگ لفظی میان تهران و واشینگتن در نیویورک بالا گرفت.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "BBC",
+        "url": "https://www.bbc.com/mundo/articles/c9vgyv56exp3o",
+        "clean_url": "https://www.bbc.com/mundo/articles/c9vgyv56exp3o",
+        "image": "http://www.bing.com/th?id=ONUT.OfRy1LI3U107I_FlrLA3Ug&pid=News",
+        "timestamp": 1790180160.0
     },
     {
         "id": "1bc2694842",
@@ -5385,98 +5475,5 @@
         "clean_url": "https://www.iranintl.com/202609222398",
         "image": "http://www.bing.com/th?id=ONUT.gNEc3ttsUCMmYCJijSlAtw&pid=News",
         "timestamp": 1790050440.0
-    },
-    {
-        "id": "b872347f3e",
-        "title_fa": "طرح جدید مجلس برای توقیف محموله کشتی‌ها در تنگه هرمز",
-        "title_en": "Iran lawmakers advance bill imposing 20% cargo penalty for Hormuz violations",
-        "summary": [
-            "کمیسیون امنیت ملی مجلس تصویب کرد که شناورهای متخلف در تنگه هرمز با جریمه بیست درصدی ارزش بار مواجه شوند.",
-            "این اقدام تنش‌ها را در یکی از حساس‌ترین آبراه های انرژی جهان افزایش می‌دهد."
-        ],
-        "impact": "افزایش ریسک کشتیرانی تجاری و تشدید چالش‌های امنیتی در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609228308",
-        "clean_url": "https://www.iranintl.com/en/202609228308",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790049900.0
-    },
-    {
-        "id": "4dcc82632e",
-        "title_fa": "خط و نشان تازه ترامپ برای بساط اتمی ج.ه.",
-        "title_en": "Trump holds meetings on Iran: They’re not gonna have a nuclear weapon",
-        "summary": [
-            "ترامپ در جلسات فشرده روی پرونده تهران متمرکز شده و روی ممانعت از دستیابی به بمب اتم تاکید دارد.",
-            "فشار حداکثری دولت جدید آمریکا با هدف بستن کامل مسیرهای اتمی در دستور کار قرار گرفته است."
-        ],
-        "impact": "افزایش فشارهای سیاسی و اقتصادی واشنگتن بر تهران به بالاترین سطح",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Israel National News",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBSV9BVnJOeXRJSm9zTm1yM0VZRUxDbWNQT2tNcW9ZSVY2bVBKOFZXa1ltR3c0VFlSOFRMMVh2UEdtS2MyWC1NUmVtMHdOajE3NWVoSm5xSkpNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBSV9BVnJOeXRJSm9zTm1yM0VZRUxDbWNQT2tNcW9ZSVY2bVBKOFZXa1ltR3c0VFlSOFRMMVh2UEdtS2MyWC1NUmVtMHdOajE3NWVoSm5xSkpNQQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790049430.0
-    },
-    {
-        "id": "8613db25c7",
-        "title_fa": "رجزخوانی سپاه برای آمریکا؛ تکرار تهدیدهای توخالی",
-        "title_en": "سخنگوی سپاه پاسداران: اگر آمریکا به کوه کلنگ یا هر مکانی حمله کند، مقابل آن می‌ایستیم",
-        "summary": [
-            "حسین محبی با ادبیات تکراری سعی در بازسازی چهره مقتدر از ج.ا دارد.",
-            "این تهدیدها بیشتر مصرف داخلی دارد تا بازدارندگی واقعی در برابر واشنگتن.",
-            "سپاه با این لفاظی‌ها تلاش می‌کند شکست‌های قبلی در برابر ضربات آمریکا را لاپوشانی کند."
-        ],
-        "impact": "افزایش تنش لفظی در فضای رسانه‌ای بدون تغییر در موازنه قدرت میدانی.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609220871",
-        "clean_url": "https://www.iranintl.com/202609220871",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790049360.0
-    },
-    {
-        "id": "a49ee5062f",
-        "title_fa": "انتقام تسنیم از صیادمنش به خاطر انتقاد از قلعه‌نویی",
-        "title_en": "پرونده‌سازی خبرگزاری وابسته به سپاه پاسداران برای صیادمنش پس از انتقاد از قلعه‌‌نویی",
-        "summary": [
-            "رسانه‌های وابسته به س.پ.ا.ه از ابزارهای امنیتی برای سرکوب منتقدان ورزشی استفاده می‌کنند.",
-            "خالکوبی و عقاید شخصی بهانه‌ای برای پرونده‌سازی علیه ورزشکاران مستقل است.",
-            "این اقدام نشان‌دهنده هراس نهادهای امنیتی از هرگونه صدای مخالف در جامعه است."
-        ],
-        "impact": "تشدید فشار بر چهره‌های ورزشی برای خودسانسوری و وفاداری به خطوط قرمز حاکمیت.",
-        "tag": "اجتماعی",
-        "urgency": 4,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609221134",
-        "clean_url": "https://www.iranintl.com/202609221134",
-        "image": "http://www.bing.com/th?id=ONUT.MwHk-StkmhQ2MHX189rTug&pid=News",
-        "timestamp": 1790048760.0
-    },
-    {
-        "id": "67bebe0fc4",
-        "title_fa": "رجزخوانی جدید سپاه برای هدف‌گیری ناوهای منطقه با موشک بالستیک",
-        "title_en": "جانشین فرمانده کل سپاه: توانایی هدف قرار دادن شناورهای دشمن با موشک‌های بالستیک را داریم",
-        "summary": [
-            "مصطفی ایزدی با مانور روی توان موشکی، سعی در بازسازی چهره مقتدر ج.ا پس از شکست‌های اخیر دارد.",
-            "تهدید به هدف‌گیری شناورها، تلاشی برای ایجاد بازدارندگی کاذب در خلیج فارس و دریای عمان است.",
-            "اشاره به ۱۲ کشور، اعتراف غیرمستقیم به انزوای امنیتی و هراس از ائتلاف‌های منطقه‌ای علیه تهران است."
-        ],
-        "impact": "افزایش تنش‌های دریایی و احتمال واکنش سخت‌تر نیروهای ائتلاف در منطقه.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609223165",
-        "clean_url": "https://www.iranintl.com/202609223165",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790048460.0
     }
 ]
