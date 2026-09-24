@@ -909,6 +909,25 @@
         "timestamp": 1790208420.0
     },
     {
+        "id": "a5baac46f6",
+        "title_fa": "تهدید ایران به اختلال در آسمان کشورهای همسایه",
+        "title_en": "From Sanctions To Standoff: How Iran's Airport Threat Could Rattle Gulf Aviation",
+        "summary": [
+            "محسن رضایی با تهدید کشورهای منطقه، از احتمال از کار افتادن فرودگاه‌های همسایه در صورت همکاری با آمریکا خبر داد.",
+            "تحریم‌های جدید واشینگتن علیه ۳۶ نهاد هواپیمایی ایران، باعث تعلیق پروازهای ماهان ایر در ترکیه و عمان شده است.",
+            "این تهدیدات بیشتر جنبه جنگ روانی دارد تا توان عملیاتی، اما نشان‌دهنده فشار شدید تحریم‌ها بر بخش ترانزیت هوایی ایران است."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و ایجاد چالش در امنیت پروازهای منطقه‌ای خلیج فارس.",
+        "tag": "هواپیمایی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Outlook India",
+        "url": "https://www.outlookindia.com/international/from-sanctions-to-standoff-how-irans-airport-threat-could-rattle-gulf-aviation",
+        "clean_url": "https://www.outlookindia.com/international/from-sanctions-to-standoff-how-irans-airport-threat-could-rattle-gulf-aviation",
+        "image": "https://cf-images.assettype.com/outlookindia/2026-09-24/3ezest9r/1c424c0e18f44328900f34df13d55e87.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "timestamp": 1790205180.0
+    },
+    {
         "id": "a3b8bc3b7c",
         "title_fa": "واکنش وزارت خارجه ج.ا به مواضع کانادا درباره آمریکا",
         "title_en": "Iran accuses Canada’s Carney of downplaying US threat to ‘annihilate’ Iran",
@@ -5450,23 +5469,5 @@
         "clean_url": "https://www.dailynews.com/2026/09/22/usaid-foreign-aid-cut-deaths-explained",
         "image": "https://www.dailynews.com/wp-content/uploads/2026/09/Foreign_Aid_What_to_Know__964_-1.jpg?w=2000&h=1333",
         "timestamp": 1790068260.0
-    },
-    {
-        "id": "fc79b33ecc",
-        "title_fa": "نوسان مثبت بورس مسکو؛ تلاش کرملین برای نمایش ثبات اقتصادی",
-        "title_en": "Russian stock market climbs at open",
-        "summary": [
-            "رشد نیم درصدی شاخص‌های بورس مسکو بیشتر یک تنفس کوتاه در میانه فشارهای سنگین بین‌المللی است تا یک بهبود واقعی.",
-            "کاهش جزئی ارزش یوآن در برابر روبل نشان‌دهنده تلاش بانک مرکزی روسیه برای کنترل نرخ ارز در بازارهای محدود است."
-        ],
-        "impact": "این نوسانات تأثیر پایداری بر اقتصاد جنگ‌زده روسیه ندارد و صرفاً بازی با اعداد در بازار داخلی است.",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2190927",
-        "clean_url": "https://tass.com/economy/2190927",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790067600.0
     }
 ]
