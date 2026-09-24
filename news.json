@@ -163,6 +163,24 @@
         "timestamp": 1790240760.0
     },
     {
+        "id": "04c55ca682",
+        "title_fa": "جدال تاکر کارلسون با جریان سیاسی ساخته خودش",
+        "title_en": "Tucker Carlson has a new enemy: The politics he helped build",
+        "summary": [
+            "تاکر کارلسون، مجری جنجالی، اکنون با همان ساختار و تفکر سیاسی سرشاخ شده که خودش در شکل‌گیری آن نقش کلیدی داشت.",
+            "این شکاف در بدنه رسانه‌ای راست‌گرایان آمریکا، تمرکز تندروها را در آستانه تحولات بزرگ بین‌المللی به هم می‌ریزد."
+        ],
+        "impact": "تضعیف انسجام رسانه‌ای محافظه‌کاران تندرو در آمریکا و کاهش تمرکز بر پرونده‌های خارجی",
+        "tag": "سیاست خارجی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2JZM0NleFJUbXhCVTF6V2J3VkIxMXZaMkFQM1BvcG90M0NQRndBT0VROEJBb0Y2U1MyUldmN0V2emx0TTAtNkdHY0huZEhqQVZDaFRiakRiOFYwLVNBZGlnZEx2aG9JS0dLMHMyZW84ZDVHRXU5YjFRRUtIZV9tOXpramg0ODRKTnRpaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2JZM0NleFJUbXhCVTF6V2J3VkIxMXZaMkFQM1BvcG90M0NQRndBT0VROEJBb0Y2U1MyUldmN0V2emx0TTAtNkdHY0huZEhqQVZDaFRiakRiOFYwLVNBZGlnZEx2aG9JS0dLMHMyZW84ZDVHRXU5YjFRRUtIZV9tOXpramg0ODRKTnRpaw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790240400.0
+    },
+    {
         "id": "996d8d44db",
         "title_fa": "تحریم صرافی رمزارز مرتبط با دور زدن تحریم‌ها در تنگه هرمز",
         "title_en": "US sanctions Iranian financier's crypto exchange, says it processes Hormuz payments",
@@ -5451,24 +5469,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sTE82M1cycWV3Qi1qVUY0T1V1akNIa1NTa3dnU3BOQWpKbEtYMnF0RnlvQmFIeDV3N2NDdTJHSDRZZTIwOFo1dnBQeXhZUnIyWS1KQTljX3o0RmhIOXpZVkJTUFJxTUwzd2c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790061483.0
-    },
-    {
-        "id": "5d6a764f51",
-        "title_fa": "پیشنهاد تهران برای بازگشایی تنگه هرمز در ازای کاهش فشار نظامی",
-        "title_en": "Iran offers to reopen Hormuz within seven days",
-        "summary": [
-            "مقام‌های ارشد ج--مهوری اس--لامی با ارسال پیامی از طریق میانجی‌گران قطری، آمادگی خود را برای باز کردن تنگه هرمز ظرف هفت روز اعلام کردند.",
-            "این پیشنهاد مشروط به کاهش فشار نظامی ایالات متحده و رفع محاصره دریایی بنادر ایران مطرح شده است.",
-            "هیأت اعزامی به نیویورک مدعی است که برنامه‌ای برای دیدار مستقیم با مقامات آمریکایی ندارد و مذاکرات را به صورت غیرمستقیم پیش می‌برد."
-        ],
-        "impact": "این اقدام نشان‌دهنده آسیب‌پذیری شدید اقتصادی و نظامی حاکمیت در برابر بسته‌شدن شریان‌های حیاتی نفت است.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-offers-reopen-hormuz-within-141429496.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-offers-reopen-hormuz-within-141429496.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/5184b8833da1023f8647b1587bd004dbdbc8ace4cf2586ba8a27a7e4938d17ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fafd2b23fbe77ac05ea25ebc63ea1ba6f.jpg",
-        "timestamp": 1790061300.0
     }
 ]
