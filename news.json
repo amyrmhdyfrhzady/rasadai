@@ -680,6 +680,25 @@
         "timestamp": 1790173260.0
     },
     {
+        "id": "f8722e1c1d",
+        "title_fa": "ترافیک سنگین مرز ترکیه و ایران زیر فشار تحریم",
+        "title_en": "Hundreds of trucks jam Turkey-Iran border crossing as US blockade pushes trade overland",
+        "summary": [
+            "بلاک دریایی بندرهای جـ.ـمهوری اسـ.ـلامی توسط آمـ.ـریکا، مسیر تجارت را به خشکی کشانده است.",
+            "صف‌های طویل کامیون‌ها در مرز ترکیه نشان‌دهنده فشار شدید اقتصادی و تغییر مسیر تامین کالاست.",
+            "اقتصاد کشور زیر بار تحریم‌ها بیش از پیش به مرزهای زمینی وابسته شده است."
+        ],
+        "impact": "فلج شدن مبادلات دریایی و افزایش چشمگیر هزینه‌های واردات از طریق مرزهای زمینی.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Seattle Times",
+        "url": "https://www.seattletimes.com/business/hundreds-of-trucks-jam-turkey-iran-border-crossing-as-us-blockade-pushes-trade-overland/",
+        "clean_url": "https://www.seattletimes.com/business/hundreds-of-trucks-jam-turkey-iran-border-crossing-as-us-blockade-pushes-trade-overland",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790173140.0
+    },
+    {
         "id": "e2255daa66",
         "title_fa": "حضور پزشکیان در مجمع عمومی سازمان ملل",
         "title_en": "WATCH: Iran’s Pezeshkian addresses UN General Assembly",
@@ -5457,24 +5476,6 @@
         "url": "https://www.freep.com/story/news/politics/elections/2026/09/22/mike-rogers-calls-for-end-iran-war-breaking-with-trump/91881894007/",
         "clean_url": "https://www.freep.com/story/news/politics/elections/2026/09/22/mike-rogers-calls-for-end-iran-war-breaking-with-trump/91881894007",
         "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/07/27/PDTF/91070213007-72726-trump-milford-jfb-129.jpg?crop=2127,1197,x0,y0&width=2127&height=1197&format=pjpg&auto=webp",
-        "timestamp": 1790046360.0
-    },
-    {
-        "id": "ce92d1a35c",
-        "title_fa": "رایزنی وزیر خارجه ج.ا با دبیرکل سازمان ملل در نیویورک",
-        "title_en": "Araghchi speaks by phone with UN chief after arriving in New York",
-        "summary": [
-            "عباس عراقچی بلافاصله پس از ورود به نیویورک با آنتونیو گوترش تلفنی گفتگو کرد.",
-            "محور این تماس، دستورکار مجمع عمومی سازمان ملل و تحولات صلح و امنیت بین‌المللی اعلام شد."
-        ],
-        "impact": "تلاش دیپلماتیک دستگاه خارجه ج.ا برای کاهش فشارهای بین‌المللی در حاشیه سازمان ملل.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609225891",
-        "clean_url": "https://www.iranintl.com/en/202609225891",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790046360.0
     }
 ]
