@@ -129,6 +129,25 @@
         "timestamp": 1790199062.0
     },
     {
+        "id": "72a7552476",
+        "title_fa": "بحران انرژی و سقوط آزاد اقتصاد ج.ا در آستانه زمستان",
+        "title_en": "War deepens Iran’s energy crunch ahead of winter",
+        "summary": [
+            "افت شدید ۲۶ درصدی در بخش نفت و گاز، اقتصاد بـیمار جـهوری اسـلامی را زمین‌گیر کرده است.",
+            "با رسیدن فصل سرما، تـهران میان تامین گاز داخلی و صادرات آن دچار بن‌بست جدی شده است.",
+            "کوچک شدن ۱۰ درصدی تولید ناخالص داخلی نشان‌دهنده فروپاشی ساختارهای اقتصادی زیر سایه تنش‌های نظامی است."
+        ],
+        "impact": "تشدید بحران سوخت و انرژی در زمستان پیش‌رو، فشار بی‌سابقه‌ای بر معیشت مردم و نقدینگی حکومت وارد می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609235230",
+        "clean_url": "https://www.iranintl.com/en/202609235230",
+        "image": "http://www.bing.com/th?id=ONUT.tGh2gREdpdwmwCO1pOhIeA&pid=News",
+        "timestamp": 1790198940.0
+    },
+    {
         "id": "01d1d80871",
         "title_fa": "تلاش کاخ سفید برای تطبیق افکار عمومی با تنش‌ها",
         "title_en": "Vice President JD Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
@@ -5457,23 +5476,5 @@
         "clean_url": "https://www.iranintl.com/en/202609225891",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790046360.0
-    },
-    {
-        "id": "ab2a487435",
-        "title_fa": "سرمایه‌گذاری گوگل برای ارتقای راکتورهای هسته‌ای در جورجیا",
-        "title_en": "Georgia Power nuclear reactors to get huge face-lift, paid partly by Google",
-        "summary": [
-            "شرکت گوگل برای تامین برق پاک مورد نیاز مراکز داده خود قرارداد تازه‌ای امضا کرد.",
-            "این طرح بخشی از هزینه‌های ارتقای راکتورهای هسته‌ای را برای سایر مصرف‌کنندگان کاهش می‌دهد."
-        ],
-        "impact": "تامین انرژی پاک برای صنایع فناوری بزرگ با مشارکت بخش خصوصی.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "The Atlanta Journal-Constitution",
-        "url": "https://www.ajc.com/business/2026/09/georgia-power-is-upgrading-its-nuclear-reactors-and-google-is-buying-the-electricity/",
-        "clean_url": "https://www.ajc.com/business/2026/09/georgia-power-is-upgrading-its-nuclear-reactors-and-google-is-buying-the-electricity",
-        "image": "http://www.bing.com/th?id=ONUT.h99jmuT-ehy5o2WCMQnm2Q&pid=News",
-        "timestamp": 1790045940.0
     }
 ]
