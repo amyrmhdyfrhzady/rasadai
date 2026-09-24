@@ -1,5 +1,23 @@
 [
     {
+        "id": "01fd57907c",
+        "title_fa": "بسته شدن مسیرهای هوایی امارات همزمان با تحریم‌های آمریکا",
+        "title_en": "Iran flights continue, UAE route closes on day 2 of US sanctions",
+        "summary": [
+            "پروازهای ایران همچنان برقرار است اما مسیرهای هوایی امارات مسدود شده است",
+            "اعمال تحریم‌های جدید واشینگتن فشار بر مراودات مالی و هوایی را تشدید کرده است"
+        ],
+        "impact": "اختلال جدی در ترانزیت مسافری و باری میان ایران و کشورهای منطقه.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzZCR2xNNFVjMFJ6bk5TRnlMT2daTEQ2cEl3OTZKQjgwc2VhUjZaR3ZnNWp2UmI0cGRnUEJXM3c3QWpQcFd3U2NvUmJKTWdySVV3ZmdjQmx6RkxGTjRIREZVTG1jai0xY0h6ZktKT3pyY3p4eTdNcFk3MUl4WDRMSkpfVUJEZjF5d0V0cHZWTkdvNVI4S1Y3V1JfZDI5WlRZdGRFWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzZCR2xNNFVjMFJ6bk5TRnlMT2daTEQ2cEl3OTZKQjgwc2VhUjZaR3ZnNWp2UmI0cGRnUEJXM3c3QWpQcFd3U2NvUmJKTWdySVV3ZmdjQmx6RkxGTjRIREZVTG1jai0xY0h6ZktKT3pyY3p4eTdNcFk3MUl4WDRMSkpfVUJEZjF5d0V0cHZWTkdvNVI4S1Y3V1JfZDI5WlRZdGRFWg",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790269227.0
+    },
+    {
         "id": "4b2ab20075",
         "title_fa": "توافق پنهان آمریکا و ج.ا برای بازگشایی تنگه هرمز",
         "title_en": "Insight: US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say",
@@ -505,6 +523,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdCTDFGd2ZuNDZrUmtkVXYwdlRROENIOGZWYjJSY3IyblcyMGp0UFJSTFNPN1lXakp3alVtUE1WUlI4QWYtWnJlMk9sMGhNSE9ESGN3Z1BacjJCcUh3aHE1T2JyWFFka3BiN3BxNEVmMnl0aWk1LVhnX285akZRbllaa1NQS19GNXVrQ2pYRUFLcmZkdEFxLXFQSjgxWHI2OEZZNUN0ZGRfMXpxc0JIdnRFWEN4UQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790241564.0
+    },
+    {
+        "id": "1b31a7ec91",
+        "title_fa": "دیدار ترامپ و شی؛ تمرکز بر تجارت بدون نام بردن از پرونده تهران",
+        "title_en": "دیدار ترامپ و شی: تاکید بر تجارت و هوش مصنوعی، سکوت درباره جنگ ایران",
+        "summary": [
+            "شی جینپینگ پس از بیش از یک دهه به واشینگتن سفر کرد تا با ترامپ دیدار کند",
+            "دو طرف روی فناوری، تجارت و هوش مصنوعی تمرکز کردند و صحنی از جنگ ایران به میان نیامد",
+            "پکن آمادگی خود را برای همکاری نظامی و مقابله با مواد مخدر اعلام کرد"
+        ],
+        "impact": "حاشیه رفتن پرونده‌های امنیتی خاورمیانه در مواجهه مستقیم قدرت‌های بزرگ.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609242529",
+        "clean_url": "https://www.iranintl.com/202609242529",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/7692cbc3abc0358a3dbb40f80bf642dbaf1a79fb-5500x3628.jpg?rect=0,370,5500,2888&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790241060.0
     },
     {
         "id": "cf79851b45",
@@ -5436,42 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlNIeHYyZ2VJcU1yQ0c3cHlxZUg5UFJVd09qR0lMbFFTZ0FVbkhCYkRQS0dKRzN1T21LZnI5YXJZUkt3Zy1FcERJX0F3UXV3ZmgtQ3JuY0FhcmVXbEltZ3AtZHIwc2J3Q0RtaHZVR1JwU1hDRWhFN21GZXJoVkhHUGNacW1ZMUZnU3RpNkhn",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790071213.0
-    },
-    {
-        "id": "7de1ec88aa",
-        "title_fa": "فشار تل‌آویو و ریاض بر واشنگتن برای اقدام سخت علیه ت-ه-ر-ا-ن",
-        "title_en": "Has Trump's Failure To Bomb Iran Into Capitulation Backfired, Prompting Netanyahu And MBS To Pull Washington In The Opposite Direction?",
-        "summary": [
-            "شکست سیاست فشار حداکثری د-و-ن-ا-ل-د ت-ر-ا-م-پ در وادار کردن ح-ک-و-م-ت به تسلیم، محاسبات منطقه را به هم ریخته است.",
-            "ب-ن-ی-ا-م-ی-ن ن-ت-ا-ن-ی-ا-ه-ו و بن‌سلمان تلاش می‌کنند آمریکا را وارد یک مسیر تهاجمی‌تر کنند."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی مستقیم با تحریک متحدان منطقه‌ای آمریکا.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/23092026-has-trumps-failure-to-bomb-iran-into-capitulation-backfired-prompting-netanyahu-and-mbs-to-pull-washington-in-the-opposite-direction-oped/",
-        "clean_url": "https://www.eurasiareview.com/23092026-has-trumps-failure-to-bomb-iran-into-capitulation-backfired-prompting-netanyahu-and-mbs-to-pull-washington-in-the-opposite-direction-oped",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/02/a-201.jpeg",
-        "timestamp": 1790071140.0
-    },
-    {
-        "id": "8196f79ba3",
-        "title_fa": "خط‌ونشان ترامپ برای پروژه هسته‌ای ج.ا و بازوهای نیابتی س*پاه",
-        "title_en": "Trump to zero-in on Iran nuclear threat, Gaza plan and UN overhaul in world stage speech",
-        "summary": [
-            "دونالد ترامپ در یک سخنرانی کلیدی، مهار کامل تهدید هسته‌ای ج.ا و قطع شریان‌های مالی گروه‌های نیابتی را هدف قرار داده است.",
-            "این مواضع صریح، از بازگشت حتمی سیاست فشار حداکثری و تنگ‌تر شدن حلقه محاصره اقتصادی تهران خبر می‌دهد.",
-            "طرح او برای غزه و اصلاح سازمان ملل، فضای مانور دیپلماتیک ر*ژیم را در سطح بین‌المللی به شدت محدود خواهد کرد."
-        ],
-        "impact": "هراس شدید در بازارهای مالی تهران و سیگنال مستقیم به ر*ژیم برای عقب‌نشینی اتمی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "930 WFMD Free Talk",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3luaXk3LWFwbUgxNGtNc1hmMWNIOGlLeXNuV1dyLUpReVVKQXR2VUhhMngtX2VLcHEwOHdwdkxJQXhKVVl6SEoxNjRWZkh3eERzLURkazhQRTY0c3JGREF2amJINUNCenl3TGpjU0ZodU5JamdJMHZFRG1jQ0xuUTdrSEZrTVRqUlFubkhNSjZaZXV1RWRudHdtWl9IR2QtdFB2akVRYmNGaElDZkhBdnBuRW8yV0tpNUZ0LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3luaXk3LWFwbUgxNGtNc1hmMWNIOGlLeXNuV1dyLUpReVVKQXR2VUhhMngtX2VLcHEwOHdwdkxJQXhKVVl6SEoxNjRWZkh3eERzLURkazhQRTY0c3JGREF2amJINUNCenl3TGpjU0ZodU5JamdJMHZFRG1jQ0xuUTdrSEZrTVRqUlFubkhNSjZaZXV1RWRudHdtWl9IR2QtdFB2akVRYmNGaElDZkhBdnBuRW8yV0tpNUZ0LQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790071030.0
     }
 ]
