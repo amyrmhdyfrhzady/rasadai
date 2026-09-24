@@ -54,6 +54,24 @@
         "timestamp": 1790245388.0
     },
     {
+        "id": "53b4666e45",
+        "title_fa": "پایان رویای آمریکایی برای تغییر خاورمیانه",
+        "title_en": "America is stepping back from a region it never managed to remake",
+        "summary": [
+            "آمریکا پس از سه دهه بحران و دخالت‌های نظامی پرهزینه، عملاً از مدیریت مستقیم خاورمیانه عقب‌نشینی می‌کند.",
+            "تنش‌های فرساینده با ج...هوری اس...لامی هزینه‌های سنگینی به متحدان منطقه‌ای واشنگتن و اقتصاد جهانی تحمیل کرده است."
+        ],
+        "impact": "تغییر دکترین نظامی و امنیتی آمریکا در منطقه و خالی شدن میدان برای بازیگران دیگر.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/america-is-stepping-back-from-a-region-it-never-managed-to-remake-101790240778601.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/america-is-stepping-back-from-a-region-it-never-managed-to-remake-101790240778601.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/24/1600x900/logo/photo-1580128660010-fd027e1e587a_1790240935856_2SBx_1790240951483_s4A9_c6039b45-01a7-4733-8234-9d435cdd86df_QGQ1.jpg",
+        "timestamp": 1790244000.0
+    },
+    {
         "id": "a279363d6b",
         "title_fa": "هشدار سناتور آمریکایی درباره خطای محاسباتی ایران در قبال واشنگتن",
         "title_en": "Iran misreading US political system by waiting for midterms: Rubio",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QalhTNjg3QWhpa29TS3ZXa1ZXSC0zZzRYNEh6aWpUbmJPRkVsSVBqRG9SNnc3XzM3OWVVMjR1UFdlSE5HS1hQTVNrRjVqaV9oQWc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790059662.0
-    },
-    {
-        "id": "8ad89414e6",
-        "title_fa": "فشار تازه واشنگتن به بایننس بر سر دورزدن تحریم‌ها",
-        "title_en": "Binance Faces Fresh U.S. Iran Sanctions Probe as Prosecutors Scrutinize Crypto Trades",
-        "summary": [
-            "دادستان‌های آمریکایی تحقیقات جدیدی را درباره تراکنش‌های رمزارزی مرتبط با ایران آغاز کرده‌اند.",
-            "بزرگ‌ترین صرافی کریپتو جهان زیر ذره‌بین شدید نهادهای نظارتی ایالات متحده قرار گرفته است."
-        ],
-        "impact": "محدودیت‌های بیشتر بر تبادلات رمزارزی و مسدودسازی حساب‌های مرتبط با نهادهای تحریم‌شده.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Bitcoin Foundation",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkI2RjRJY1lkdkJzVVNPWmdoU29vOFR5dFphLUYzX1RmQVd6X1VnTWtEcUxjYWM3Q2dxTk1wLVF4Nk5RbEtaOW5VSEVIam5PT1FZb3VlMXRYLVllTG9ENzA1T3hKNGJ2eEptS0Jkbk53T2drOVQyVDN1RHNqTVZZZ2M3QUNzVVVxcXhjVVloN0lzVWxleVJmRTFsak9US2k5LXlEUGVuNkM4UWFOMDQ4NlFDYWtDak1WTnBrd2c0NGgwWksyRV9EaFFvcmhmNk1DYlMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkI2RjRJY1lkdkJzVVNPWmdoU29vOFR5dFphLUYzX1RmQVd6X1VnTWtEcUxjYWM3Q2dxTk1wLVF4Nk5RbEtaOW5VSEVIam5PT1FZb3VlMXRYLVllTG9ENzA1T3hKNGJ2eEptS0Jkbk53T2drOVQyVDN1RHNqTVZZZ2M3QUNzVVVxcXhjVVloN0lzVWxleVJmRTFsak9US2k5LXlEUGVuNkM4UWFOMDQ4NlFDYWtDak1WTnBrd2c0NGgwWksyRV9EaFFvcmhmNk1DYlMw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790059610.0
     }
 ]
