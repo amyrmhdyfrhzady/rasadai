@@ -54,6 +54,24 @@
         "timestamp": 1790245388.0
     },
     {
+        "id": "a279363d6b",
+        "title_fa": "هشدار سناتور آمریکایی درباره خطای محاسباتی ایران در قبال واشنگتن",
+        "title_en": "Iran misreading US political system by waiting for midterms: Rubio",
+        "summary": [
+            "مارکو روبیو تاکید کرد که نظام ج--مهوری اس--لامی با معطل نگه داشتن سیاست خارجی خود به امید نتایج انتخابات کنگره، دچار اشتباه محاسباتی بزرگی شده است.",
+            "واشنگتن حتی با تغییر اکثریت در کنگره نیز مسیر فشار بر تهران را تغییر نخواهد داد و محاسبات حکومت ایران با واقعیت‌های میدانی فاصله دارد."
+        ],
+        "impact": "تغییر نکردن فشارها بر تهران فارغ از تحولات جناحی در سیاست داخلی آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjgzSndoMmxqbUZyX19RTjRMbXRnR0pFOFNqRFVFR2hpSGxvMm9PVVlUdUU1S0Y3Vjg4blhVZWplb0M3Y1BrVWRYUXFmYW0xc3VUNG9UUzF6YjlNUm1mUUlfdmNjSHFyUUx1ZXVnLW1JRXJNUVRiTGRzSmx5Vkt4enVrSVMyLUhxWDIyZnBQRDhaTmJHTVV6Y0FTelhFLVNwQzdhbUh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjgzSndoMmxqbUZyX19RTjRMbXRnR0pFOFNqRFVFR2hpSGxvMm9PVVlUdUU1S0Y3Vjg4blhVZWplb0M3Y1BrVWRYUXFmYW0xc3VUNG9UUzF6YjlNUm1mUUlfdmNjSHFyUUx1ZXVnLW1JRXJNUVRiTGRzSmx5Vkt4enVrSVMyLUhxWDIyZnBQRDhaTmJHTVV6Y0FTelhFLVNwQzdhbUh3",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790243783.0
+    },
+    {
         "id": "cf79851b45",
         "title_fa": "پشت‌پرده پنهان‌کاری کاخ سفید درباره تحرکات حکومت ایران",
         "title_en": "Why does White House keep lying about Iran 'excursion'? Kerr",
@@ -5454,24 +5472,5 @@
         "clean_url": "https://www.algemeiner.com/2026/09/22/irans-economy-collapsing-why-hasnt-triggered-another-mass-uprising",
         "image": "https://www.algemeiner.com/wp-content/uploads/2026/01/2026-01-19T145828Z_1_LYNXMPEM0I0VR_RTROPTP_4_IRAN-ECONOMY-PROTESTS-1.jpg",
         "timestamp": 1790059380.0
-    },
-    {
-        "id": "2ac8e753c2",
-        "title_fa": "لغو پروازهای بغداد و مسقط همزمان با فشار واشنگتن",
-        "title_en": "Iran cancels Baghdad, Muscat flights as regional restrictions tighten",
-        "summary": [
-            "سازمان هواپیمایی ج.م از توقف پروازهای تهران به مقصد بغداد و مسقط خبر داد.",
-            "این تصمیم تحت فشار شدید ایالات متحده برای قطع ارتباط خطوط هوایی ای-ران با فرودگاه‌های منطقه اجرایی شده است.",
-            "مقام‌های هوانوردی تلاش دارند مسافران بغداد را به فرودگاه نجف منتقل کنند."
-        ],
-        "impact": "انزوای بیشتر شبکه حمل‌ونقل هوایی کشور و افزایش مشکلات جابجایی مسافران خارجی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609228176",
-        "clean_url": "https://www.iranintl.com/en/202609228176",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/dc64521e838b528c3a8b7f556b24805cad30320e-4128x2322.jpg?rect=699,569,2586,1358&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790059200.0
     }
 ]
