@@ -1,5 +1,23 @@
 [
     {
+        "id": "ff8558c3f0",
+        "title_fa": "درگیری لفظی نتانیاهو با شهردار نیویورک در سازمان ملل",
+        "title_en": "Netanyahu blasts Mamdani at UN: 'You can't silence me. You can't silence the truth'",
+        "summary": [
+            "نخست‌وزیر اسرائیل در سازمان ملل از شهردار نیویورک به دلیل مواضعش شدیداً انتقاد کرد.",
+            "نتانیاهو یهودیان نیویورک را ناامن خواند و شهردار این شهر را به حمایت از حماس متهم کرد."
+        ],
+        "impact": "تشدید تنش‌های سیاسی میان مقامات اسرائیل و شهرداری نیویورک و افزایش شکاف‌های دیپلماتیک.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/netanyahu-iran-war-news-us-oil-prices-strait-of-hormuz-9-24-26",
+        "clean_url": "https://www.foxnews.com/live-news/netanyahu-iran-war-news-us-oil-prices-strait-of-hormuz-9-24-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/693d46b4051a2f34ee0ea8d387357513.jpg",
+        "timestamp": 1790279520.0
+    },
+    {
         "id": "5920455b1a",
         "title_fa": "شرط سنگین بیروت برای تهران: دست از دخالت بردارید",
         "title_en": "Netanyahu renews regime change rhetoric as US-Iran talks continue at UN",
@@ -5449,23 +5467,5 @@
         "clean_url": "https://www.iranintl.com/en/202609225108",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790086200.0
-    },
-    {
-        "id": "e75eae6958",
-        "title_fa": "تحریم یک بانک روسی توسط آمریکا با هدف مسدودسازی مسیرهای مالی جـمـهـورۍ اسـلاوۍ",
-        "title_en": "The Morning Risk Report: U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
-        "summary": [
-            "آمریکا در ادامه سیاست فشار حداکثری، یک بانک روسی را به دلیل ارتباطات مالی با تـهـران تحریم کرد.",
-            "این اقدام نشان‌دهنده تلاش واشنگتن برای مسدود کردن راه‌های دور زدن تحریم‌های نفتی و بانکی است."
-        ],
-        "impact": "بسته‌شدن یکی دیگر از کانال‌های حیاتی نقل‌وانتقالات مالی خارجی برای حاکمیت.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "wsj.com",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV0FjVkg3RHQyX2VYS18wMzZpMDd3ZUwxZmxSLTJUS21ndlpjYmN3T3dFc05CUkVPNEZtaUVpamU5Q0NjQXhOX3IwUnhMa2RaTDVDWWhQSkpsc3VJa0E5UENMSzIxTXBlbkhDVkVnSGNCX0xGMHlmQVZtSlA1M1N3X3J2cVI3WGN0aE5oNXlDejNlZGV1VnlnLWNDVXRiOE00RWpGaEdSbFp5MnJFc1M3YjRwbkUwX3QzQVhHRHIwUEFXZ2ktOWhISEdQakdDNFhtc2Jtd3psVTNKNml4aS1z?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV0FjVkg3RHQyX2VYS18wMzZpMDd3ZUwxZmxSLTJUS21ndlpjYmN3T3dFc05CUkVPNEZtaUVpamU5Q0NjQXhOX3IwUnhMa2RaTDVDWWhQSkpsc3VJa0E5UENMSzIxTXBlbkhDVkVnSGNCX0xGMHlmQVZtSlA1M1N3X3J2cVI3WGN0aE5oNXlDejNlZGV1VnlnLWNDVXRiOE00RWpGaEdSbFp5MnJFc1M3YjRwbkUwX3QzQVhHRHIwUEFXZ2ktOWhISEdQakdDNFhtc2Jtd3psVTNKNml4aS1z",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790086151.0
     }
 ]
