@@ -72,6 +72,24 @@
         "timestamp": 1790246160.0
     },
     {
+        "id": "b680822f77",
+        "title_fa": "هشدار صریح ترامپ به ج-م-ه-و-ر-ی ا-س-لا-م-ی: توافق یا نابودی",
+        "title_en": "Trump tells the UN Iran faces 'annihilation' — then predicts a deal after the midterms",
+        "summary": [
+            "دونالد ترامپ در سازمان ملل تأکید کرد که تهران چاره‌ای جز پذیرش توافق جدید ندارد و در غیر این صورت با انهدام کامل روبرو خواهد شد.",
+            "او با اشاره به تحولات سیاسی پیش‌رو، از احتمال توافق پس از انتخابات میان‌دوره‌ای خبر داد."
+        ],
+        "impact": "تشدید فشار حداکثری و ایجاد دو راهی مرگ‌بار برای حاکمیت در سطح بین‌المللی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Idaho Learning News",
+        "url": "https://www.msn.com/en-us/news/other/trump-tells-the-un-iran-faces-annihilation-then-predicts-a-deal-after-the-midterms/ar-AA2cSk8b",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-tells-the-un-iran-faces-annihilation-then-predicts-a-deal-after-the-midterms/ar-AA2cSk8b",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790246133.0
+    },
+    {
         "id": "7b004ba190",
         "title_fa": "زمین‌گیر شدن هواپیمایی‌های ج.ا با تشدید تحریم‌های هوانوردی آمریکا",
         "title_en": "Iran Airlines halt services as US intensifies aviation sanctions",
@@ -5452,24 +5470,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-offers-reopen-hormuz-within-141429496.html",
         "image": "https://s.yimg.com/lo/mysterio/api/5184b8833da1023f8647b1587bd004dbdbc8ace4cf2586ba8a27a7e4938d17ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fafd2b23fbe77ac05ea25ebc63ea1ba6f.jpg",
         "timestamp": 1790061300.0
-    },
-    {
-        "id": "5c0327d9e2",
-        "title_fa": "چرا ارتش پر زرق‌وبرق عربستان حریف حوثی‌ها نشد؟",
-        "title_en": "Despite wealth and advanced weapons, Saudis fumbling in fight against Houthis",
-        "summary": [
-            "تکیه ریاض بر نیروهای نیابتی ضعیف در یمن، عملاً میلیاردها دلار خرید تسلیحاتی از غرب را بی‌اثر کرده است.",
-            "جغرافیای کوهستانی و سخت یمن به برگ برنده شبه‌نظامیان حوثی برای حفظ کنترل سواحل دریای سرخ تبدیل شده است.",
-            "حملات موفق به تاسیسات نفتی عربستان ثابت کرد پدافندهای پیشرفته غربی توانایی تامین امنیت کامل شریان‌های انرژی را ندارند."
-        ],
-        "impact": "تداوم تهدید حوثی‌ها امنیت کشتیرانی در دریای سرخ و صادرات نفت منطقه را در وضعیت بحرانی نگه می‌دارد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/despite-wealth-and-advanced-weapons-saudis-fumbling-in-fight-against-houthis/",
-        "clean_url": "https://www.timesofisrael.com/despite-wealth-and-advanced-weapons-saudis-fumbling-in-fight-against-houthis",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26257367254211-e1789654800772-640x400.jpg",
-        "timestamp": 1790060160.0
     }
 ]
