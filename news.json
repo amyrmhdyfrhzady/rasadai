@@ -235,6 +235,25 @@
         "timestamp": 1790211269.0
     },
     {
+        "id": "fc3c278923",
+        "title_fa": "چین؛ تنها تنفس‌گاه مالی تهران در برابر فشارهای آمریکا",
+        "title_en": "نیکولاس گیلانی: چین مسیر اصلی جمهوری اسلامی برای دور زدن فشارهای مالی است",
+        "summary": [
+            "واشنگتن شریان‌های مالی ج‌هوری اس‌لامی در امارات، عمان و ترکیه را تنگ‌تر کرده، اما در کنترل کانال‌های بانکی پکن ناتوان است.",
+            "منابع ارزی ایران در بانک‌های چینی، آخرین سپر دفاعی حکومت برای تامین واردات و پرداخت‌های بین‌المللی محسوب می‌شود.",
+            "عدم تبدیل جنبش‌های اعتراضی به ساختار و تشکیلات سیاسی انسجام‌یافته، فرصت فشار هم‌زمان از داخل را سوزانده است."
+        ],
+        "impact": "انسداد مسیرهای مبادلاتی در خلیج فارس، وابستگی کامل ارزی تهران به پکن را رقم زده است.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609243262",
+        "clean_url": "https://www.iranintl.com/202609243262",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790208420.0
+    },
+    {
         "id": "a3b8bc3b7c",
         "title_fa": "واکنش وزارت خارجه ج.ا به مواضع کانادا درباره آمریکا",
         "title_en": "Iran accuses Canada’s Carney of downplaying US threat to ‘annihilate’ Iran",
@@ -5456,23 +5475,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/china-expands-export-control-on-drug-precursors-ahead-of-trump-xi-meeting/ar-AA2cK3NZ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790054028.0
-    },
-    {
-        "id": "341135fbbb",
-        "title_fa": "افت شدید محبوبیت ترامپ در مدیریت بحران ایران",
-        "title_en": "Trump Hit With Devastating Reality Check Before Facing World Leaders",
-        "summary": [
-            "نتایج نظرسنجی جدید نشان می‌دهد تنها ۲۶ درصد از آمریکایی‌ها از مدیریت ترامپ در مناقشه با ایران حمایت می‌کنند.",
-            "پایگاه رأی جمهوری‌خواهان و رأی‌دهندگان زیر ۴۵ سال نیز دچار ریزش معناداری شده است."
-        ],
-        "impact": "افزایش فشار سیاسی بر دولت آمریکا در آستانه نشست مجمع عمومی سازمان ملل.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/trump-hit-with-devastating-reality-check-before-facing-world-leaders/",
-        "clean_url": "https://www.thedailybeast.com/trump-hit-with-devastating-reality-check-before-facing-world-leaders",
-        "image": "http://www.bing.com/th?id=ONUT.SQ2UG3cwZLQrCn6NzlvZ4g&pid=News",
-        "timestamp": 1790053860.0
     }
 ]
