@@ -594,6 +594,24 @@
         "timestamp": 1790250420.0
     },
     {
+        "id": "b7e49fd1c0",
+        "title_fa": "هشدار صریح نتانیاهو به حکومت و انتقاد از سکوت جهانی",
+        "title_en": "بنیامین نتانیاهو: مستبدان تهران بیش از همه از مردم ایران می‌ترسند",
+        "summary": [
+            "نخست‌وزیر اسرائیل در سازمان ملل تأکید کرد که حاکمان تهران بیش از هر چیز از خیزش ملت ایران وحشت دارند.",
+            "او نهادهای بین‌المللی و مدعیان حقوق بشر را به دلیل بی‌توجهی به کشتار شهروندان به دست حکومت به شدت زیر سوال برد."
+        ],
+        "impact": "افزایش فشارهای دیپلماتیک و رسانه‌ای علیه مشروعیت بین‌المللی نظام.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609247626",
+        "clean_url": "https://www.iranintl.com/202609247626",
+        "image": "http://www.bing.com/th?id=ONUT.wXeSfPpcjuDF9W9x9HV3mA&pid=News",
+        "timestamp": 1790250180.0
+    },
+    {
         "id": "53ea8a2593",
         "title_fa": "خط و نشان نتانیاهو برای اردوغان در مجمع عمومی",
         "title_en": "نتانیاهو خطاب به اردوغان: حاکم اورشلیم نخواهی شد",
@@ -682,6 +700,24 @@
         "clean_url": "https://apnews.com/live/trump-xi-china-summit-media-ban-news-updates-09-24-2026",
         "image": "http://www.bing.com/th?id=ONUT.GAogfTzhXtvzSLD1foZvxA&pid=News",
         "timestamp": 1790249220.0
+    },
+    {
+        "id": "44acc1f6d1",
+        "title_fa": "نتانیاهو: در هفت جبهه جنگیدیم و پیروز می‌شویم",
+        "title_en": "نتانیاهو: ما پیروز خواهیم شد، زیرا انتخاب دیگری نداریم",
+        "summary": [
+            "اسرائیل طی سه سال گذشته در هفت جبهه مختلف در برابر شبکه نیابتی حکومت و خود تهران ایستادگی کرده است.",
+            "مقایسه تلفات هفتم اکتبر با فجایع بزرگ جهانی برای توجیه استراتژی تهاجمی تل‌آویو مطرح شد."
+        ],
+        "impact": "تثبیت دکترین نظامی اسرائیل برای تداوم ضربات سنگین به ارکان نیابتی منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609247048",
+        "clean_url": "https://www.iranintl.com/202609247048",
+        "image": "http://www.bing.com/th?id=ONUT.21IGDrAde3_y_Plx69nDJA&pid=News",
+        "timestamp": 1790249040.0
     },
     {
         "id": "bb579081c2",
@@ -5430,42 +5466,5 @@
         "clean_url": "https://www.iranintl.com/202609225885",
         "image": "http://www.bing.com/th?id=ONUT.Lpsj4UG3DuOrHpgQ7xfV-A&pid=News",
         "timestamp": 1790086440.0
-    },
-    {
-        "id": "cd7ba34130",
-        "title_fa": "بررسی ممنوعیت صادرات گازوئیل توسط ترامپ برای کاهش قیمت‌ها",
-        "title_en": "Trump Says He Supports Banning Diesel Exports to Bring Down Prices",
-        "summary": [
-            "افزایش قیمت گازوئیل رکوردشکنی کرده و تنش با ای-ران عامل اصلی این بحران شناخته می‌شود.",
-            "صنعت نفت آمریکا نسبت به اثرات منفی ممنوعیت صادرات بر بازار انرژی هشدار داده است."
-        ],
-        "impact": "تصمیم فوری دولت آمریکا می‌تواند بازارهای جهانی انرژی و قیمت سوخت را به شدت تحت تاثیر قرار دهد.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/22/business/energy-environment/trump-diesel-exports-iran-war.html",
-        "clean_url": "https://www.nytimes.com/2026/09/22/business/energy-environment/trump-diesel-exports-iran-war.html",
-        "image": "http://www.bing.com/th?id=ONUT.H5XpZxBMDUyuSYm1LanLrg&pid=News",
-        "timestamp": 1790086320.0
-    },
-    {
-        "id": "4982719daf",
-        "title_fa": "واکنش ارتش ج.ا به اظهارات ترامپ در سازمان ملل",
-        "title_en": "Iran military command dismisses Trump UN remarks as domestic propaganda",
-        "summary": [
-            "ستاد کل نیروهای مسلح و قرارگاه خاتم‌الانبیاء سخنان ترامپ را مصرف داخلی خواندند",
-            "فرماندهان نظامی مدعی شدند قدرت آمریکا در جهان کاهش یافته است",
-            "تهدید به پاسخ کوبنده در صورت هرگونه اقدام نظامی علیه مواضع نیابتی"
-        ],
-        "impact": "تنش لفظی میان واشنگتن و تهران بدون تغییر معنادار در موازنه‌های میدانی",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609225108",
-        "clean_url": "https://www.iranintl.com/en/202609225108",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790086200.0
     }
 ]
