@@ -365,6 +365,24 @@
         "timestamp": 1790188108.0
     },
     {
+        "id": "763b3799b5",
+        "title_fa": "پیش‌بینی نتانیاهو از سقوط ن.ظ.ا.م ج.م.ا تا سال ۲۰۲۷",
+        "title_en": "Countdown in Tehran: Inside Netanyahu's high-stakes UN gamble",
+        "summary": [
+            "نخست‌وزیر اسرائیل در سازمان ملل روی مقابله با یهودستیزی تمرکز می‌کند.",
+            "تعیین تاریخ دقیق برای فروپاشی ساختار حاکم در تهران، فشار روانی بر ارکان قدرت را به اوج می‌رساند."
+        ],
+        "impact": "افزایش جنگ روانی و انزوای دیپلماتیک ج.م.ا در مجامع بین‌المللی",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Israel Hayom",
+        "url": "https://www.israelhayom.com/2026/09/23/netanyahu-un-speech-iran-regime-fall-timeline/",
+        "clean_url": "https://www.israelhayom.com/2026/09/23/netanyahu-un-speech-iran-regime-fall-timeline",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790186940.0
+    },
+    {
         "id": "71ea72a520",
         "title_fa": "پکن و مناقشه ایران؛ بازی مستقل چین در برابر طرح‌های ترامپ",
         "title_en": "China busca poner fin a la guerra con Irán, pero no como Trump quiere",
@@ -674,6 +692,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-pezeshkian-at-un-we-re-open-to-talk-with-us-without-bullying-gaza-resistance-to-go-on/ar-AA2cPUbb",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790177193.0
+    },
+    {
+        "id": "d97d1ce66d",
+        "title_fa": "پاسخ پزشکیان به تهدید نابودی توسط ترامپ در سازمان ملل",
+        "title_en": "Iran's president says country won't surrender after Trump threat to 'annihilate' Islamic Republic",
+        "summary": [
+            "رئیس‌جمهور ج.م.ا در واکنشی صریح به تهدیدهای دونالد ترامپ، بر عدم تسلیم کشور تأکید کرد.",
+            "این سخنرانی در شرایط جنگی و پرتنش هفت ماه گذشته ایراد شده است."
+        ],
+        "impact": "تشدید تنش‌های لفظی میان واشنگتن و تهران در بالاترین سطح ممکن",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CBC.ca",
+        "url": "https://www.msn.com/en-ca/news/other/irans-president-says-country-wont-surrender-after-trump-threat-to-annihilate-islamic-republic/ar-AA2cP0Nq",
+        "clean_url": "https://www.msn.com/en-ca/news/other/irans-president-says-country-wont-surrender-after-trump-threat-to-annihilate-islamic-republic/ar-AA2cP0Nq",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790175495.0
     },
     {
         "id": "31fc07ca67",
@@ -5439,41 +5475,5 @@
         "clean_url": "https://www.iranintl.com/202609227917",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/59b7614fde3a43407fdb1e6abcf3b6a26de7a14c-6970x4752.jpg?rect=0,167,6970,3659&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790051340.0
-    },
-    {
-        "id": "8b3ef688ce",
-        "title_fa": "تلاش واشنگتن و تهران برای مهار بحران منطقه",
-        "title_en": "Iran war spreads through region as Trump seeks way out",
-        "summary": [
-            "آمریکا، حکومت ایران و کشورهای حوزه خلیج فارس اهداف متفاوتی را دنبال می‌کنند.",
-            "فشارها برای پیدا کردن راه خروج از مخمصه جنگ و تنش ادامه دارد."
-        ],
-        "impact": "آینده ثبات منطقه به نتایج این تلاش‌های دیپلماتیک و فشارهای امنیتی گره خورده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "DW on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/iran-war-spreads-through-region-as-trump-seeks-way-out/ar-AA2cJQLl",
-        "clean_url": "https://www.msn.com/en-ca/news/other/iran-war-spreads-through-region-as-trump-seeks-way-out/ar-AA2cJQLl",
-        "image": "http://www.bing.com/th?id=ONUT.P6htevEgNh5nRWiCWiFIlg&pid=News",
-        "timestamp": 1790051340.0
-    },
-    {
-        "id": "752230d003",
-        "title_fa": "اعتراف سپاه به حمله موشکی از خاک اردن",
-        "title_en": "سخنگوی سپاه پاسداران: حمله آمریکا از اردن را قریب‌الوقوع ارزیابی کرده بودیم",
-        "summary": [
-            "حسین محبی از فرماندهان س.پ.ا.پ تایید کرد که حمله به پایگاه‌های مرتبط با آمریکا در اردن از پیش طراحی شده بوده است.",
-            "تهران با وجود ادعای احترام به همسایگان، بار دیگر دخالت و حملات نیابتی خود را توجیه کرد."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک میان ایران و کشورهای عربی منطقه از جمله اردن.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "iranintl",
-        "url": "https://www.iranintl.com/202609222398",
-        "clean_url": "https://www.iranintl.com/202609222398",
-        "image": "http://www.bing.com/th?id=ONUT.gNEc3ttsUCMmYCJijSlAtw&pid=News",
-        "timestamp": 1790050440.0
     }
 ]
