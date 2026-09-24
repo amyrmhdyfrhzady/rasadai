@@ -1,5 +1,23 @@
 [
     {
+        "id": "a6a923cd39",
+        "title_fa": "انتقاد شدید تاکر کارلسون از ترامپ بر سر تهدید ایران",
+        "title_en": "Tucker Carlson says Trump should have been ousted over Iran threat",
+        "summary": [
+            "تاکر کارلسون صریحاً اعلام کرد ترامپ به خاطر مواضعش در قبال تهدیدات ایران باید کنار گذاشته می‌شد.",
+            "این موضع‌گیری شکاف میان چهره‌های رسانه‌ای حامی و منتقد سیاست خارجی ترامپ را عیان کرد."
+        ],
+        "impact": "تشدید دودستگی در جریان سیاسی حامی ترامپ پیرامون رویکرد جنگ‌طلبانه.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa09ydktTNTMwWnNiTHhyWXdzbldCSzF5UTF4RTZFYlBFb3RTQXBzb0NMbWN2c0dFVkt5OGlJX2tmRnF5LWdrcE1RNXZiVVZGUHlUa0JjNWFTTWJGYjVEODhDRERlQnVkZ3p5bFFOcElTQ2FlRjRIQWtBVkxFakdaOXFSbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa09ydktTNTMwWnNiTHhyWXdzbldCSzF5UTF4RTZFYlBFb3RTQXBzb0NMbWN2c0dFVkt5OGlJX2tmRnF5LWdrcE1RNXZiVVZGUHlUa0JjNWFTTWJGYjVEODhDRERlQnVkZ3p5bFFOcElTQ2FlRjRIQWtBVkxFakdaOXFSbw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790283631.0
+    },
+    {
         "id": "e3ac49c7e1",
         "title_fa": "پاسخ تند نتانیاهو به منتقدان در سازمان ملل",
         "title_en": "Netanyahu Rebukes Critics in UN Speech, Defends Wars Against Iran, Hamas and Hezbollah",
@@ -36,6 +54,24 @@
         "timestamp": 1790283401.0
     },
     {
+        "id": "2693260f9e",
+        "title_fa": "حمله لفظی نتایج‌هو به مخالفان و شهردار نیویورک",
+        "title_en": "Amid Protests, Netanyahu Castigates Foes and Mayor of New York City",
+        "summary": [
+            "بنیامین نتانیاهو در میان موج اعتراضی، به شدت به مخالفان داخلی و خارجی تاخت.",
+            "تمرکز لحن تند نخست‌وزیر اسرائیل به طور ویژه روی شهردار نیویورک بود."
+        ],
+        "impact": "افزایش تنش‌های سیاسی میان دولت اسرائیل و مقامات شهری در ایالات متحده.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
+        "clean_url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
+        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-live-netanyahu-address1-lqkc/24unga-live-netanyahu-address1-lqkc-facebookJumbo.jpg",
+        "timestamp": 1790282700.0
+    },
+    {
         "id": "d7362bcf5d",
         "title_fa": "شکست طرح دموکرات‌ها برای مهار اختیارات جنگی ترامپ در سنا",
         "title_en": "US Senate rejects Democratic-led resolution to curb Trump's Iran war powers",
@@ -70,6 +106,24 @@
         "clean_url": "https://www.foxnews.com/live-news/netanyahu-iran-war-news-us-oil-prices-strait-of-hormuz-9-24-26",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/693d46b4051a2f34ee0ea8d387357513.jpg",
         "timestamp": 1790279520.0
+    },
+    {
+        "id": "a285fefd67",
+        "title_fa": "شکست طرح محدود کردن جنگ با ایران در سنای آمریکا",
+        "title_en": "Iran live updates: Netanyahu touts Israel's war efforts, praises Trump at UN speech",
+        "summary": [
+            "سنای آمریکا با اختلاف نزدیک یک رای، قطعنامه قدرت‌های جنگی علیه ایران را رد کرد.",
+            "نتانیاهو در سازمان ملل از دستاوردهای جنگی اسرائیل تمجید کرد و از ترامپ نام برد."
+        ],
+        "impact": "دست باز واشنگتن برای تداوم سیاست‌های جاری در قبال تنش‌های خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503",
+        "clean_url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks",
+        "image": "https://i.abcnewsfe.com/a/29c6d081-3a28-4195-ab46-d9ea3fbe8076/Tehran-DB-260921_1789976622887_hpMain_16x9.jpg?w=1600",
+        "timestamp": 1790279340.0
     },
     {
         "id": "4b6294b0e3",
@@ -5408,61 +5462,5 @@
         "clean_url": "https://www.iranintl.com/202609222201",
         "image": "http://www.bing.com/th?id=ONUT.f-dcieeERbKX3k8nuFdPmQ&pid=News",
         "timestamp": 1790090220.0
-    },
-    {
-        "id": "be1ab26a44",
-        "title_fa": "مذاکرات طولانی و غیرمستقیم تهران و واشنگتن در سازمان ملل",
-        "title_en": "Witkoff says US, Iran held lengthy talks through mediators at UN",
-        "summary": [
-            "استیو ویتکوف، فرستاده ویژه آمریکا، از گفت‌وگوهای فشرده و غیرمستقیم میان هیئت‌های ایرانی و آمریکایی در حاشیه مجمع عمومی پرده برداشت.",
-            "این مذاکرات با واسطه‌گری دیپلمات‌ها انجام شده و دو طرف تلاش دارند کانال‌های ارتباطی را برای کاهش تنش‌ها باز نگه دارند.",
-            "رژ*م تهران در شرایط بحران شدید اقتصادی، به دنبال راه فراری برای کاهش فشارهای بین‌المللی است."
-        ],
-        "impact": "این تحرکات دیپلماتیک، تلاش پشت‌پرده برای جلوگیری از برخورد مستقیم نظامی و یافتن فرمولی برای توافق موقت را آشکار می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609226325",
-        "clean_url": "https://www.iranintl.com/en/202609226325",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790089860.0
-    },
-    {
-        "id": "307d6213f0",
-        "title_fa": "پشت‌پرده تماس‌های نیویورک؛ ترامپ از توافق با تـهـران می‌گوید",
-        "title_en": "Trump sees ‘momentum’ for Iran deal after New York meetings",
-        "summary": [
-            "دونالد ترامپ از شکل‌گیری جوی تازه برای توافق با جـمـهـوری اسـلامـی خبر داد و مذاکرات نمایندگانش با وزیر خارجه تـهـران را مثبت ارزیابی کرد.",
-            "تنگه هرمز و پایان جنگ، محور اصلی این رایزنی‌ها بوده که با میانجگری کشورهای منطقه در نیویورک پیگیری شده است.",
-            "تـهـران شروط خود را از طریق این کانال ارتباطی به تیم ترامپ منتقل کرده و فشارها وارد فاز جدیدی شده است."
-        ],
-        "impact": "باز شدن کانال‌های جدی دیپلماتیک زیر سایه تهدیدهای نظامی و فشارهای اقتصادی.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": 0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609225547",
-        "clean_url": "https://www.iranintl.com/en/202609225547",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/9e000e8bcb87d7aeae2e5e234cb2c5724896fe75-4045x2667.jpg?rect=0,272,4045,2124&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790089860.0
-    },
-    {
-        "id": "ea0318ce01",
-        "title_fa": "خیز بلند چین برای توسعه فناوری‌های سبز در هاینان",
-        "title_en": "China's Hainan to develop zero carbon technologies based on Boao Forum for Asia experience",
-        "summary": [
-            "پکن با تمرکز بر استان هاینان، به دنبال تبدیل این منطقه آزاد تجاری به ویترین فناوری‌های بدون کربن خود است.",
-            "این برنامه‌ریزی‌ها جدیت چین را در بازسازی زیرساخت‌های شهری برای دوره پنج‌ساله بعدی نشان می‌دهد."
-        ],
-        "impact": "تقویت جایگاه چین در بازار جهانی فناوری‌های زیست‌محیطی و کاهش تدریجی تقاضا برای سوخت‌های فسیلی.",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2191229",
-        "clean_url": "https://tass.com/economy/2191229",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790089560.0
     }
 ]
