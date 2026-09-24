@@ -565,6 +565,24 @@
         "timestamp": 1790235540.0
     },
     {
+        "id": "14c9c4cc5d",
+        "title_fa": "۵ سال زندان برای معترض کرمانی؛ تلاش برای خفه کردن صدای اعتراض",
+        "title_en": "ساسان زمانی، بازداشتی اعتراض‌های دی‌ماه ۱۴۰۴، به پنج سال و نیم حبس محکوم شد",
+        "summary": [
+            "صدور حکم سنگین برای ساسان زمانی نشان‌دهنده وحشت دستگاه امنیتی از پتانسیل اعتراضی در شهرهایی مثل کرمان است.",
+            "استفاده از برچسب‌های تکراری مثل «توهین به رهبری» و «تبلیغ علیه نظام»، تنها راهکار ج*هوری اس*لامی برای سرکوب مخالفان است."
+        ],
+        "impact": "افزایش هزینه فعالیت‌های میدانی و تلاش برای ایجاد فضای رعب و وحشت در شهرستان‌ها.",
+        "tag": "سرکوب",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609246647",
+        "clean_url": "https://www.iranintl.com/202609246647",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790234760.0
+    },
+    {
         "id": "61d59658a0",
         "title_fa": "شک و تردید در مورد پیشرفت موشکی ایران",
         "title_en": "Is Iran Building A More Sophisticated Missile Arsenal Under Fire?",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-un-he-might-annihilate-iran-as-war-overshadows-diplomacy/ar-AA2cKXUM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790069154.0
-    },
-    {
-        "id": "2f0927b645",
-        "title_fa": "رایزنی اوپک و هند برای ثبات بازار جهانی انرژی",
-        "title_en": "OPEC, India discuss global oil market stability",
-        "summary": [
-            "دبیرکل اوپک و وزیر نفت هند در نشستی در دهلی نو بر لزوم سرمایه‌گذاری به موقع در صنعت نفت تاکید کردند.",
-            "طرفین روی ضرورت حفظ ثبات بازار و امنیت عرضه انرژی با توجه به نقش کلیدی هند در رشد اقتصادی جهان گفتگو کردند."
-        ],
-        "impact": "تنظیم توازن عرضه و تقاضا در بازارهای جهانی نفت",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2191271",
-        "clean_url": "https://tass.com/economy/2191271",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790068980.0
     }
 ]
