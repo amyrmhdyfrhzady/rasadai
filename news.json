@@ -54,6 +54,24 @@
         "timestamp": 1790246880.0
     },
     {
+        "id": "208691d4a8",
+        "title_fa": "نوسانات روزانه قیمت سوخت در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "گزارش‌های روزانه ان‌بی‌سی نیوز تغییرات قیمت بنزین را در ایالت‌ها و شهرستان‌های مختلف آمریکا رصد می‌کند.",
+            "این آمار به تحلیل روند تورم انرژی و تأثیر آن بر هزینه‌های خانوارها کمک می‌کند."
+        ],
+        "impact": "تغییرات قیمت سوخت مستقیماً بر شاخص تورم عمومی و هزینه زندگی شهروندان آمریکایی تأثیر می‌گذارد.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790246160.0
+    },
+    {
         "id": "7b004ba190",
         "title_fa": "زمین‌گیر شدن هواپیمایی‌های ج.ا با تشدید تحریم‌های هوانوردی آمریکا",
         "title_en": "Iran Airlines halt services as US intensifies aviation sanctions",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://www.timesofisrael.com/despite-wealth-and-advanced-weapons-saudis-fumbling-in-fight-against-houthis",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26257367254211-e1789654800772-640x400.jpg",
         "timestamp": 1790060160.0
-    },
-    {
-        "id": "5569e0ef2c",
-        "title_fa": "اعتراف به جنگ شبانه‌روزی و تلفات سنگین س*پاه در هرمز",
-        "title_en": "معاون بازرسی سپاه: نیروهای ما هر روز و هر شب در تنگه هرمز در حال جنگ هستند",
-        "summary": [
-            "ش*اهچراغی رسماً تایید کرد که نیروهای س*پاه در درگیری‌های پنهان دریایی تلفات سنگینی می‌دهند و پیکر بسیاری از آن‌ها نابود شده است.",
-            "ادعای قدرت در بستن تنگه هرمز، صرفاً یک فرار رو به جلو برای پوشاندن ناتوانی در برابر ضربات اطلاعاتی و نظامی دشمن است."
-        ],
-        "impact": "افشای ابعاد جنگ پنهان در خلیج فارس و تضعیف روحیه نیروهای داخلی س*پاه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609227528",
-        "clean_url": "https://www.iranintl.com/202609227528",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790059980.0
     }
 ]
