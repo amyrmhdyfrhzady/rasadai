@@ -1,5 +1,41 @@
 [
     {
+        "id": "212a79703b",
+        "title_fa": "هشدارها نسبت به احتمال وقوع بحران اقتصادی جهانی",
+        "title_en": "Articole despre \"urgenţă\"",
+        "summary": [
+            "نگرانی‌ها از شکل‌گیری یک بحران اقتصادی فراگیر هم‌زمان با تشدید تنش‌ها با ایــران و تحولات منطقه‌ای به شدت رو به افزایش است.",
+            "کارشناسان هشدار می‌دهند این وضعیت ممکن است تبعاتی فراتر از بحران‌های سال‌های گذشته به همراه داشته باشد."
+        ],
+        "impact": "افزایش بی‌ثباتی در بازارهای مالی بین‌المللی تحت تأثیر ریسک‌های ژئوپلیتیک.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/urgenţă-pag99",
+        "clean_url": "https://ziare.com/cautare/urgenţă-pag99",
+        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
+        "timestamp": 1790235688.711353
+    },
+    {
+        "id": "bdb2cb3eec",
+        "title_fa": "حمله لفظی نتانیاهو به شهردار نیویورک در سازمان ملل",
+        "title_en": "Netanyahu expected to berate New York's Mamdani in 'campaign speech' of UN address",
+        "summary": [
+            "نخست‌وزیر اسرائیل در سخنرانی پیش روی خود در مجمع عمومی سازمان ملل قصد دارد پاسخ تندی به شهردار نیویورک بدهد.",
+            "این تنش دیپلماتیک بازتابی از انزوای سیاسی رو به رشد نتانیاهو در آستانه انتخابات داخلی است."
+        ],
+        "impact": "تشدید تنش‌های دیپلماتیک میان مقام‌های اسرائیلی و مدیریت شهری نیویورک در آستانه کارزار انتخاباتی.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "L'Orient Today",
+        "url": "https://today.lorientlejour.com/article/1548492/netanyahu-expected-to-berate-new-yorks-mamdani-in-campaign-speech-of-un-address.html",
+        "clean_url": "https://today.lorientlejour.com/article/1548492/netanyahu-expected-to-berate-new-yorks-mamdani-in-campaign-speech-of-un-address.html",
+        "image": "https://s.lorientlejour.com/storage/attachments/1549/medias_697443.jpeg/r/800/medias_697443.jpeg",
+        "timestamp": 1790235688.7112021
+    },
+    {
         "id": "84a1946b11",
         "title_fa": "شریان تسلیحاتی ت*هران؛ دور زدن تحریم‌ها با قطعات چینی",
         "title_en": "Chinese Shipments Fueling Iran's Weapons Programs Despite US Sanctions - Report",
@@ -5438,42 +5474,5 @@
         "clean_url": "https://www.news18.com/explainers/us-plans-op-economic-outcast-to-ban-iranian-airlines-across-the-world-what-does-it-mean-and-will-it-impact-india-ws-klrt-10346497.html",
         "image": "https://images.news18.com/ibnlive/uploads/2026/03/FotoJet-2026-03-10T062748.582-2026-03-3be372b98075f5bca67ebdfda25811fa-1200x675.jpg",
         "timestamp": 1790052240.0
-    },
-    {
-        "id": "5b2516c125",
-        "title_fa": "لهستان در پی تبدیل شدن به هاب گاز آمریکا در اروپا",
-        "title_en": "Poland aims to become gas hub for Europe, minister says",
-        "summary": [
-            "لهستان قصد دارد با تکیه بر واردات گاز مایع از آمریکا، به مرکز اصلی تامین انرژی در اروپای مرکزی و شرقی تبدیل شود.",
-            "مذاکرات فشرده‌ای میان ورشو و یونان برای کنترل و هدایت مسیرهای تامین گاز از جنوب اروپا در جریان است.",
-            "مقامات ارشد لهستانی از کشورهای مجاور مانند چک، مجارستان و اسلواکی خواسته‌اند نیاز گازی خود را از طریق بنادر لهستان تامین کنند."
-        ],
-        "impact": "تغییر مسیر امنیت انرژی اروپا و کاهش وابستگی به منابع سنتی از طریق تقویت زیرساخت‌های واردات گاز آمریکا.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2191111",
-        "clean_url": "https://tass.com/economy/2191111",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790052180.0
-    },
-    {
-        "id": "9b3bd9a76f",
-        "title_fa": "ترامپ: ذخایر مهمات آمریکا به بالاترین سطح تاریخ می‌رسد",
-        "title_en": "ترامپ: در حال افزایش ذخایر مهمات خود به سطحی هستیم که هرگز شاهد آن نبوده‌ایم",
-        "summary": [
-            "دونالد ترامپ با رد ادعای کمبود تسلیحات، از رکوردشکنی در انباشت مهمات نظامی خبر داد.",
-            "دیدار پیش روی روسای جمهور آمریکا و چین با محوریت مسئله تایوان و توقف فروش تسلیحات در جریان است."
-        ],
-        "impact": "تقویت بازدارندگی نظامی ایالات متحده در برابر تهدیدات چین و خاورمیانه.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609225029",
-        "clean_url": "https://www.iranintl.com/202609225029",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/c6127341b26d538f03f18afba08776c45a555e7f-3000x2000.png?rect=0,213,3000,1575&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790052000.0
     }
 ]
