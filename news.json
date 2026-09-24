@@ -491,6 +491,24 @@
         "timestamp": 1790235688.7112021
     },
     {
+        "id": "61d59658a0",
+        "title_fa": "شک و تردید در مورد پیشرفت موشکی ایران",
+        "title_en": "Is Iran Building A More Sophisticated Missile Arsenal Under Fire?",
+        "summary": [
+            "تحلیل‌ها نشان می‌دهد توان موشکی ایران با وجود تداوم، لزوماً در مسیر رسیدن به تکنولوژی‌های بسیار پیشرفته و مرگبار نیست.",
+            "برخلاف ادعاهای تبلیغاتی، کارشناسان در مورد جهش ناگهانی در کیفیت زرادخانه موشکی ایران تردید جدی دارند."
+        ],
+        "impact": "کاهش احتمال مواجهه با تهدیدات موشکی بسیار پیشرفته در کوتاه‌مدت",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/pauliddon/2026/09/24/is-iran-building-a-more-sophisticated-missile-arsenal-under-fire/",
+        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/09/24/is-iran-building-a-more-sophisticated-missile-arsenal-under-fire",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790234340.0
+    },
+    {
         "id": "57ff11482e",
         "title_fa": "تلاش خانواده‌های قربانیان آمریکایی برای فشار مالی بر رژیم",
         "title_en": "Iran victims turn to the swamp for help lobbying Trump",
@@ -5451,23 +5469,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNvTzZ4TkdPVHc4bkh4emxSZzBhMXBKM04zNlFFeFoySUpBelZBQlJmVF83WVdXNDQ5VEFXei13SjlVQ0xDSHBpWU9GZElNQk9naS1ESFRMcXRMX3FHV3ptOU9nRFJLRWFBVVI4ejhHNGVSUWJNZVNHZmVBTDNMRXZvc0lfODAyTXJCM0VmQ0FJdGtjbkdWZjIyTGJMSUNOSWdOYlVjcFlCdw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790067068.0
-    },
-    {
-        "id": "34398c358b",
-        "title_fa": "دیدار سران آمریکا و چین با وجود پیشرفت‌های کند تجاری",
-        "title_en": "Fulfilling earlier US-China agreements is a work in progress as Trump and Xi meet again",
-        "summary": [
-            "پیمان‌های تجاری گذشته میان دو کشور با چالش‌ها و کندی در اجرا مواجه شده است.",
-            "دیدار جدید در واشنگتن بیشتر بر حفظ ثبات و نشانه‌های صوری تمرکز دارد تا توافقات بزرگ."
-        ],
-        "impact": "حفظ کانال‌های ارتباطی پکن و واشنگتن بدون دستیابی به دستاوردهای تجاری چشمگیر.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Los Angeles Daily News",
-        "url": "https://www.dailynews.com/2026/09/22/us-china-agreements-trump-xi-meeting/",
-        "clean_url": "https://www.dailynews.com/2026/09/22/us-china-agreements-trump-xi-meeting",
-        "image": "https://www.dailynews.com/wp-content/uploads/2026/09/Trump_Xi_Beijing_Agreements_13663-1.jpg?w=2000&h=1409",
-        "timestamp": 1790067060.0
     }
 ]
