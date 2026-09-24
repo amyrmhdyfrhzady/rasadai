@@ -1,5 +1,41 @@
 [
     {
+        "id": "9cd976194d",
+        "title_fa": "هشدار زلنسکی درباره افزایش هزینه‌های جهانی جنگ اوکراین",
+        "title_en": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+        "summary": [
+            "رئیس‌جمهور اوکراین در سازمان ملل بر سنگین‌تر شدن بار مالی و امنیتی جنگ برای کشورهای جهان تأکید کرد.",
+            "ادامه تجاوز روسیه بحران‌های اقتصادی و ژئوپلیتیک بیشتری را به کشورهای غربی تحمیل می‌کند."
+        ],
+        "impact": "افزایش فشارهای بین‌المللی برای تامین مالی و تسلیحاتی کی‌یف",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbS1qWVY4d1FmTU5xeWMzcHZfcHhjR0Z3eEIzOFVIYXRpNllfb0p1OXJaQWhkdUQxVXBzU3BBSTdDWUlGckpnY2FDMFpZcjNlSl81V3diSm9TbkdDOEZHSFZBYkprV3VOV1NUNVE5UHliSHU2Y0xKdTktbXNGS09LRzF4TGY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbS1qWVY4d1FmTU5xeWMzcHZfcHhjR0Z3eEIzOFVIYXRpNllfb0p1OXJaQWhkdUQxVXBzU3BBSTdDWUlGckpnY2FDMFpZcjNlSl81V3diSm9TbkdDOEZHSFZBYkprV3VOV1NUNVE5UHliSHU2Y0xKdTktbXNGS09LRzF4TGY",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790213102.0
+    },
+    {
+        "id": "315d1495d8",
+        "title_fa": "چین؛ سوپاپ اطمینان مالی جـ.ـهـ.ـو،ر،ی ا,س,لا,م,ی در برابر واشنگتن",
+        "title_en": "Iran Has a Secret Weapon in Its War With America: Help From China",
+        "summary": [
+            "پکن با خرید مستمر نفت و حمایت‌های پنهان اقتصادی، فشار تحریم‌های آمریکا بر تهران را خنثی می‌کند.",
+            "این اتحاد استراتژیک به حاکمیت اجازه می‌دهد بدون نگرانی از فروپاشی اقتصادی، به سیاست‌های منطقه‌ای خود ادامه دهد."
+        ],
+        "impact": "تداوم درآمدهای نفتی تهران با وجود تحریم‌های سخت‌گیرانه واشنگتن",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yY3dWUm5TbW5ueVBKeTdlTHE0eGJtZmxISXdHdEtuTWYyTkhYQXdLTXdCakNnZkxpcndnY0dsYmx4NXJ1Q2tueXBPUHgyeVhGRjA1emNQTW8wcFFOUWdGX2pRNmNBMktfUWlGWWhUYzd0SUM1cWtV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yY3dWUm5TbW5ueVBKeTdlTHE0eGJtZmxISXdHdEtuTWYyTkhYQXdLTXdCakNnZkxpcndnY0dsYmx4NXJ1Q2tueXBPUHgyeVhGRjA1emNQTW8wcFFOUWdGX2pRNmNBMktfUWlGWWhUYzd0SUM1cWtV",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790211600.0
+    },
+    {
         "id": "8e0af17c67",
         "title_fa": "سایه جنگ بر خلیج فارس؛ رکود سنگین و خالی شدن دبی از گردشگر",
         "title_en": "Iran war turns Dubai into a ghost city",
@@ -5438,41 +5474,5 @@
         "clean_url": "https://www.iranintl.com/202609222660",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790045760.0
-    },
-    {
-        "id": "221b99b056",
-        "title_fa": "افت قیمت نفت با توافق آتش‌بس در لبنان",
-        "title_en": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
-        "summary": [
-            "توافق آتش‌بس میان اسرائیل و لبنان فشار روانی روی بازار انرژی را کم کرد.",
-            "ریزش قیمت نفت نشان داد معامله‌گران چقدر روی تنش‌های خاورمیانه حساس هستند."
-        ],
-        "impact": "کاهش موقت هزینه‌های انرژی و آرامش نسبی در بازارهای جهانی.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790045627.0
-    },
-    {
-        "id": "b3187a2e36",
-        "title_fa": "جهش ۱۰ درصدی قیمت نفت با بوی باروت در منطقه",
-        "title_en": "Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say",
-        "summary": [
-            "تشدید تنش‌ها با ج.ه. بازار انرژی را شوکه کرده و قیمت نفت را به شدت بالا کشیده است.",
-            "کارشناسان بازار هشدار می‌دهند در صورت تداوم درگیری‌ها، بهای هر بشکفه نفت تا مرز ۱۰۰ دلار پیش خواهد رفت."
-        ],
-        "impact": "رشد سریع هزینه‌های انرژی و فشار سنگین بر اقتصاد جهانی",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUYxWXU0ZTFwaWtCOWZCVzJyNHJoU0ZnMzBkZm5NU283TE45ZzM0bVpKUEpubExlM0hQeV9sZjZ0M3BabGFDaUI0d1c2QS1SN183cGlPaXo3cE5ld0NBRXotajY3UkhaTm51M3R3eXJNYnlObGFDYzhWaXc2N1Y2aWxFUC1HT1d2Ml9nNUZvYXExVzJJdzR1ekR5RG9mcThpVmw0NlQtX1c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUYxWXU0ZTFwaWtCOWZCVzJyNHJoU0ZnMzBkZm5NU283TE45ZzM0bVpKUEpubExlM0hQeV9sZjZ0M3BabGFDaUI0d1c2QS1SN183cGlPaXo3cE5ld0NBRXotajY3UkhaTm51M3R3eXJNYnlObGFDYzhWaXc2N1Y2aWxFUC1HT1d2Ml9nNUZvYXExVzJJdzR1ekR5RG9mcThpVmw0NlQtX1c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790044753.0
     }
 ]
