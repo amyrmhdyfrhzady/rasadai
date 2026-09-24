@@ -397,6 +397,24 @@
         "timestamp": 1790250780.0
     },
     {
+        "id": "d76696abac",
+        "title_fa": "شکست تلاش جمهوری‌خواهان سنا برای پایان دادن به مناقشه با ای-ران",
+        "title_en": "Senate Republicans defeat latest push to end Iran war",
+        "summary": [
+            "جمهوری‌خواهان سنا با رد آخرین تلاش‌ها برای پایان دادن به درگیری، پیام روشنی به ترامپ فرستادند.",
+            "این رای‌گیری نشان‌دهنده اختلاف نظر درون‌حزبی در آستانه کمپین‌های انتخاباتی است."
+        ],
+        "impact": "تداوم رویکرد سخت‌گیرانه کنگره در قبال مناقشات خاورمیانه.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/senate-republicans-defeat-latest-push-to-end-iran-war/ar-AA2cUpRF",
+        "clean_url": "https://www.msn.com/en-us/news/other/senate-republicans-defeat-latest-push-to-end-iran-war/ar-AA2cUpRF",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790250420.0
+    },
+    {
         "id": "eb9ed791dd",
         "title_fa": "طوفان شدید در راه خاورمیانه همزمان با تنش‌های نظامی",
         "title_en": "Significant storm heading toward Middle East amid Iran war, forecasts show - ABC News",
@@ -1144,6 +1162,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGdKOWwzYzA1SFRpbEtPVTlFMjlpMWJsaW1QUmhrYTBnQkxnRjRkeTF2MVpDdTM4ZVhmVU9NOEs5WmFIU0k4SFVaSHl2TjVza3plS0xJV0JSVmdSMWtkZklfSURuaXBWWTY3ZTJoakxpc0I1Z2JpLVdZTWFIcHVFZE9tRi1mVVl6Q0dZ0gGQAUFVX3lxTFBTTTNJT0lIOC00ekFNbnVWcnk2MzFmWHdGZzZUWENrT1FzcWN0cTBtMzhzUEhDb2hVOTUwQWRfU2lNUmphUzNINGZESUVBUUFZSW4wNkJuaEsxaEMyZnlhcUNBWWdoejc5YVcxTjgwem5lbmR0S2QzOTF4MVAtTGtWTV9vVTc1Q0cxZGFqR2tGRw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790228863.0
+    },
+    {
+        "id": "9cd8d2225f",
+        "title_fa": "آمادگی اسرائیل برای حمله مجدد به تاسیسات اتمی ای-ران",
+        "title_en": "Live Updates: IDF stops civilians attempting to cross Gaza border, UAE suspends Iranian airlines flights",
+        "summary": [
+            "مقام‌های نظامی اسرائیل تاکید کردند که از سرگیری درگیری‌ها با حکومت تهران تنها یک مسئله زمان است.",
+            "تل‌آویو هشدار داد در صورت عبور از خطوط قرمز، با مشارکت یا بدون مشارکت آمریکا به تاسیسات هسته‌ای ضربه می‌زند."
+        ],
+        "impact": "افزایش شدید ریسک نظامی در منطقه و آماده‌باش کامل ارتش اسرائیل.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-24/live-updates-909511",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-24/live-updates-909511",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738992",
+        "timestamp": 1790227560.0
     },
     {
         "id": "f8f589dcd3",
@@ -5435,41 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTVKYWE3TllUQVZvYzNLQ09lMGtzaHNaTTNrUWgyM2ZNemZrUGhwZ195T2NxcVFBOTI0eWRuNFZWaVpNeUtjaGpMV0RoY1Z0QlpoU1VNOXozbzlva3ltczFhZU9jaGVLY2ZOMHo5SldYOGxYSXBUNUpCemxEbENqZ2ZucnhNUlU",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790078073.0
-    },
-    {
-        "id": "f8e6bfe693",
-        "title_fa": "هشدار صریح ترامپ به جـ.ـهوری اسـ.ـلامی از تکرار نابودی یا عظمت",
-        "title_en": "Iran live updates: Trump says team met with Iran delegation at UN",
-        "summary": [
-            "دونالد ترامپ از دیدار تیم خود با هیئت ایرانی در سازمان ملل خبر داد.",
-            "واشنگتن مسیر آینده تهران را بین گزینه فروپاشی کامل یا عظمت احتمالی ترسیم کرده است."
-        ],
-        "impact": "فشار حداکثری دولت ترامپ وارد فاز جدیدی از اولتیماتوم‌های مستقیم شده است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-team-met-with-iran-delegation-at-un/ar-AA2cEt54",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-team-met-with-iran-delegation-at-un/ar-AA2cEt54",
-        "image": "http://www.bing.com/th?id=ONUT.FM3z-Ekh3cVn0SBCZtgsLA&pid=News",
-        "timestamp": 1790077524.0
-    },
-    {
-        "id": "758b5bb592",
-        "title_fa": "چالش بزرگ ترامپ با گسترش جنگ منطقه‌ای ج*هوری اس*امی",
-        "title_en": "The Iran war is spreading in the Middle East and Trump has yet to find a way out",
-        "summary": [
-            "ترامپ با وجود وعده پایان دادن به جنگ‌ها، حالا درگیر بحران بزرگی شده که بازوهای منطقه‌ای تهران آن را شعله‌ورتر می‌کنند.",
-            "سیاست فشار حداکثری ترامپ بدون یک استراتژی نظامی مشخص، ممکن است آمریکا را ناخواسته به یک رویارویی مستقیم بکشاند."
-        ],
-        "impact": "افزایش احتمال درگیری مستقیم نظامی آمریکا و ج*هوری اس*امی در صورت شکست دیپلماسی ترامپ",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTjNTU1hWVl9EakRkUnhFUkdVRHN2N0JqSGlxdWJwSlEwSml3Und2S3NDcDBvNE1ENG9WbGlGU1VWUk12NzZMSGpvX0huMnJhZjl3UklRZEJpaEVhVDdTd1Zod0JpX1M1bnZFa3dMYl90SndSNlFrdFpfS0hRRVlmQzIyUUp4dEJkY0pnTGNuYnbSAZABQVVfeXFMTUE3SHl3WkNPeWZxWnNZaU40eGJZaUtRcXM5QTlFNWlGMEVsekFZUThZcHpZZ2RoaXZWSHNyQk50V0tTUmdVMmt2OTlMSTZ1RWFMLURBODllT1hUNUxwTGF5NldoX01hbVNPcU9YSXBnR2FQUjJPeUNhT0tiXzdEamM0ZFRXT2szT2dibGJkOW5y?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTjNTU1hWVl9EakRkUnhFUkdVRHN2N0JqSGlxdWJwSlEwSml3Und2S3NDcDBvNE1ENG9WbGlGU1VWUk12NzZMSGpvX0huMnJhZjl3UklRZEJpaEVhVDdTd1Zod0JpX1M1bnZFa3dMYl90SndSNlFrdFpfS0hRRVlmQzIyUUp4dEJkY0pnTGNuYnbSAZABQVVfeXFMTUE3SHl3WkNPeWZxWnNZaU40eGJZaUtRcXM5QTlFNWlGMEVsekFZUThZcHpZZ2RoaXZWSHNyQk50V0tTUmdVMmt2OTlMSTZ1RWFMLURBODllT1hUNUxwTGF5NldoX01hbVNPcU9YSXBnR2FQUjJPeUNhT0tiXzdEamM0ZFRXT2szT2dibGJkOW5y",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790076805.0
     }
 ]
