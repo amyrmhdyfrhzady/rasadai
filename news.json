@@ -1,5 +1,24 @@
 [
     {
+        "id": "c253b905c0",
+        "title_fa": "تناقض در ادعای توافق پزشکیان با فاکس‌نیوز",
+        "title_en": "پزشکیان از آمادگی برای توافق گفت؛ مجری فاکسنیوز پرسید چه کسی حکومت ایران را اداره میکند",
+        "summary": [
+            "پزشکیان در مصاحبه با فاکس‌نیوز از آمادگی برای کاهش غلظت اورانیوم گفت اما پاسخ روشنی درباره کنترل سپاه بر برنامه هسته‌ای نداد.",
+            "مجری شبکه با اشاره به سرکوب معترضان و حملات نظامی، مستقیماً قدرت واقعی در تــروریـسـت کـشـور را زیر سوال برد.",
+            "رئیس دولت جـمـهـورۍ اسـلامـۍ مدعی شد جنگ به آن‌ها تحمیل شده و آمریکا و اسرائیل را مسئول تنش‌های منطقه دانست."
+        ],
+        "impact": "این مصاحبه نشان داد ناتوانی دولت در پاسخگویی به سوالات کلیدی، بحران مشروعیت و مدیریت درونی را عیان‌تر می‌کند.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609245316",
+        "clean_url": "https://www.iranintl.com/202609245316",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b437c847101a8c68f529ac8a9c9309436d8199c1-1254x706.webp?rect=0,24,1254,658&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790291820.0
+    },
+    {
         "id": "dd0e4c076a",
         "title_fa": "پيشنهاد تهران برای مذاکره به دولت تـرامپ",
         "title_en": "Iran says it has given Trump administration new proposal for peace talks",
@@ -5446,23 +5465,5 @@
         "clean_url": "https://www.wionews.com/world/us-launches-retaliatory-strike-on-houthi-targets-in-yemen-after-attack-on-israels-tel-aviv-785886",
         "image": "https://cdn.wionews.com/sites/default/files/2024/12/22/472484-new-wion-2024-12-22t062122532.jpg?imwidth=1200&imheight=900",
         "timestamp": 1790093700.0
-    },
-    {
-        "id": "75a979969f",
-        "title_fa": "تهدید اتمی ترامپ علیه جـ.ـهـ.ـوری اسـ.ـلامی در سازمان ملل",
-        "title_en": "Trump threatens Iran, predicts Cuba's fall. Key UN takeaways",
-        "summary": [
-            "دونالد ترامپ در مجمع عمومی سازمان ملل با ادبیاتی بی‌سابقه از احتمال نابودی کامل جـ.ـهـ.ـوری اسـ.ـلامی سخن گفت.",
-            "تمرکز اصلی سخنرانی ترامپ بر روی دشمنان اصلی آمریکا بود و خط‌ونشان کشیدن برای تهران، پالس محکمی به متحدان منطقه‌ای فرستاد."
-        ],
-        "impact": "افزایش فوری ریسک امنیتی و روانی در بازارهای مالی داخل کشور",
-        "tag": "آمریکا",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/news/world/2026/09/22/trump-un-iran-cuba-ukraine-takeaways/91895275007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/09/22/trump-un-iran-cuba-ukraine-takeaways/91895275007",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/22/USAT/91895348007-20260922-t-144943-z-757970783-rc-2-eonamsnb-2-rtrmadp-3-unassemblytrump.JPG?crop=1908,1073,x1714,y1276&width=1908&height=1073&format=pjpg&auto=webp",
-        "timestamp": 1790093280.0
     }
 ]
