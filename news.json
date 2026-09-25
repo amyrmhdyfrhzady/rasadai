@@ -54,6 +54,24 @@
         "timestamp": 1790335560.0
     },
     {
+        "id": "f03f887c67",
+        "title_fa": "تهدید پروازهای منطقه‌ای همزمان با تحریم هوایی ایران",
+        "title_en": "Iran threatens regional air travel as US sanctions cut its flight links",
+        "summary": [
+            "فشارهای تحریمی آمریکا دسترسی شرکت‌های هواپیمایی جـ.هـ.ا.ر.ی اسلامی به مسیرهای بین‌المللی را به شدت محدود کرده است.",
+            "مقامات حکومتی با تهدید امنیت پروازهای منطقه‌ای تلاش می‌کنند واکنش تلافی‌جویانه نشان دهند."
+        ],
+        "impact": "اختلال جدی در ناوگان هوایی و انزوای بیشتر خطوط پروازی حکومت.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdGQ2clJxRk40VjdxRUMtcE5GVWROMjJqamllR1BkWlh6UXBLcHo5a2haaG5yV2lnalJmVlpSZlJVRnNib3h2Y0lxLU1Zd2ZlZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdGQ2clJxRk40VjdxRUMtcE5GVWROMjJqamllR1BkWlh6UXBLcHo5a2haaG5yV2lnalJmVlpSZlJVRnNib3h2Y0lxLU1Zd2ZlZnc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790335511.0
+    },
+    {
         "id": "6095bb9064",
         "title_fa": "تأثیر تنش با ای-ران بر بازار کار آمریکا",
         "title_en": "US-Iran conflict: American employees searching for roles to avoid gas prices",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.mlive.com/politics/2026/09/trump-unleashes-barrage-of-brutal-insults-in-midnight-attack-on-top-cnn-anchor.html",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790131320.0
-    },
-    {
-        "id": "59f8fb7b6e",
-        "title_fa": "هشدار ترامپ به ا.ی.ر.ا.ن در سازمان ملل و شکاف جهانی",
-        "title_en": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
-        "summary": [
-            "دونالد ترامپ با لحنی تند و بی‌محابا، هشدارهای جدی متوجه ح.ک.و.م.ت ا.ی.ر.ا.ن کرد.",
-            "سایر رهبران جهان در مجمع عمومی نسبت به عمیق‌تر شدن شکاف‌های بین‌المللی ابراز نگرانی کردند."
-        ],
-        "impact": "افزایش فوری فشار سیاسی بر تهران و بالا رفتن ریسک تنش‌های دیپلماتیک",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0JnT0ZsMjRaazBVaURrQUFFOE1sLTZhc09waWo4QmFMMmJjUk5TemFmaHgwMFRwbzV2cHprSzRRZU8yemZZeUxIUW9oYWYzOUJwR0pqb0lDSmEzX1oxZ0hTVU05ODRhOC1ZcWU0MWJCNElJc0FCRmhnUmgtM0h1blFIU2c4SGNSUWpV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0JnT0ZsMjRaazBVaURrQUFFOE1sLTZhc09waWo4QmFMMmJjUk5TemFmaHgwMFRwbzV2cHprSzRRZU8yemZZeUxIUW9oYWYzOUJwR0pqb0lDSmEzX1oxZ0hTVU05ODRhOC1ZcWU0MWJCNElJc0FCRmhnUmgtM0h1blFIU2c4SGNSUWpV",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790131182.0
     }
 ]
