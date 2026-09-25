@@ -1,5 +1,23 @@
 [
     {
+        "id": "13ee9291f1",
+        "title_fa": "جهش قیمت سوخت همزمان با تداوم تنش با ایـران",
+        "title_en": "Fuel prices spike as Iran conflict continues",
+        "summary": [
+            "افزایش بهای سوخت در بازارهای جهانی بازتاب مستقیم ناامنی‌های منطقه است.",
+            "تداوم درگیری‌ها بازار انرژی را دچار التهاب کرده و فشار اقتصادی بر شهروندان را بیشتر می‌کند."
+        ],
+        "impact": "بالارفتن هزینه‌های انرژی و تشدید تورم در بازارهای غربی",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JT3pOUE1kb0dqMWp4cEJROGt3bXdsOUJKT1NwNTlDVXVmTW5mZ3UtUUtWb1doY0E2NzhSNGdfVEFUVG51YmhIMU04ekFwUnhCWFZ0NV9sZk5sZ1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JT3pOUE1kb0dqMWp4cEJROGt3bXdsOUJKT1NwNTlDVXVmTW5mZ3UtUUtWb1doY0E2NzhSNGdfVEFUVG51YmhIMU04ekFwUnhCWFZ0NV9sZk5sZ1E",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790341196.0
+    },
+    {
         "id": "e2dcd68ddf",
         "title_fa": "پزشکیان در نیویورک؛ سیگنال مذاکره زیر سایه بن‌بست جنگ",
         "title_en": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVNmdlVNbHl0UDFJQll5ckV0NHkzNXZVTmhvdlVPNk1Bci1RSXJRV2RRc3FVRm4zTlNONm15dlNZOFhNTzlOYVFnVWJQUUJmWnMzZnJCdzV6RV9OblJldlBZMExybTBaVDk2X0VVbXVYNHVTNy1wcWF4TzdiVXZNbXBSYnpYZjhsVzNjZTJhWF8zR183OXBCX0lWMm1TamR5WjRJSjhrMWZ2UQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790131560.0
-    },
-    {
-        "id": "8bcfb0440a",
-        "title_fa": "حمله شبانه و تند ترامپ به خبرنگار ارشد سی‌ان‌ان",
-        "title_en": "Trump unleashes barrage of brutal insults in midnight attack on top CNN anchor",
-        "summary": [
-            "ترامپ در پیامی نیمه‌شبانه از خجالت خبرنگار ارشد سی‌ان‌ان در آورد و حملات لفظی شدیدی را متوجه او کرد.",
-            "این درگیری پس از آن رخ داد که ترامپ در جریان نشست سازمان ملل به این خبرنگار گفته بود حق پوشش خبری رویدادها را ندارد."
-        ],
-        "impact": "تشدید تنش میان تیم رسانه‌ای کاخ سفید و خبرنگاران مستقل.",
-        "tag": "رسانه",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/09/trump-unleashes-barrage-of-brutal-insults-in-midnight-attack-on-top-cnn-anchor.html",
-        "clean_url": "https://www.mlive.com/politics/2026/09/trump-unleashes-barrage-of-brutal-insults-in-midnight-attack-on-top-cnn-anchor.html",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790131320.0
     }
 ]
