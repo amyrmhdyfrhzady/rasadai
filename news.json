@@ -1,5 +1,23 @@
 [
     {
+        "id": "6095bb9064",
+        "title_fa": "تأثیر تنش با ای-ران بر بازار کار آمریکا",
+        "title_en": "US-Iran conflict: American employees searching for roles to avoid gas prices",
+        "summary": [
+            "افزایش بهای سوخت در آمریکا به دلیل تنش‌های نظامی با ای-ران",
+            "تغییر الگوی شغلی کارمندان آمریکایی برای فرار از هزینه‌های بالای بنزین"
+        ],
+        "impact": "فشار تورمی ناشی از درگیری‌های خارجی بر معیشت شهروندان آمریکایی",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kTEhsQllINU14ZXgtblhsVlktbTQ2YjNrM2kyV2ZmZW5fejUtRDgyZ201U2ExN2daOUR0TUJFT2xDY0NCM1Q2bUVLMkdzZVVVeHVJRl9tc1lzQzJ2MW5NNjdnbW5JUjhHSHZSTUxqRHJqTjM2RTk0THZVcGpyMEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kTEhsQllINU14ZXgtblhsVlktbTQ2YjNrM2kyV2ZmZW5fejUtRDgyZ201U2ExN2daOUR0TUJFT2xDY0NCM1Q2bUVLMkdzZVVVeHVJRl9tc1lzQzJ2MW5NNjdnbW5JUjhHSHZSTUxqRHJqTjM2RTk0THZVcGpyMEE",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790334000.0
+    },
+    {
         "id": "288449bf54",
         "title_fa": "تهدید ج‌امهور‌ی ا‌سلامی به استفاده از سلاح‌های جدید",
         "title_en": "Iran warns it would use 'different weapons' if US, Israel attack again",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://www.iranintl.com/202609232586",
         "image": "http://www.bing.com/th?id=ONUT.iLVLsZEt4kkaQgewLh_mzg&pid=News",
         "timestamp": 1790130480.0
-    },
-    {
-        "id": "e8f868a981",
-        "title_fa": "ترامپ دست بالا را در مناقشه با جـ.ـهـ.ـوـرـی اـسـ.ـلاـمـ.ـی دارد",
-        "title_en": "Trump holds 'all the cards' in Iran conflict, US says",
-        "summary": [
-            "مقام‌های آمریکایی تاکید کردند واشنگتن کنترل کامل کارت‌های بازی را در رویارویی با تهران در دست دارد.",
-            "این موضع‌گیری نشان‌دهنده آمادگی برای اعمال دور جدیدی از فشارهای حداکثری بر روی حاکمیت است."
-        ],
-        "impact": "تشدید فشار سیاسی و اقتصادی بر نظام در راستای مهار منطقه‌ای.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "thenationalnews.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWxBTTluT0FaS1I1c0t1Q2dacDV5STgtSTB5LTlhRnZtSEFSdEJIN0ZGZnFEUmF6d1RTN1VYWUJXT3JwN3NUWHotUmdhUUxaYXdFaGNyd3UtRUJFci1lWXo4OHpwZVRTTHZsT0c3S2FaYUtibFJUeWhub0doM2N3Y2I0cFZWb3lyZllDUm9TMDZPRlR2aVAyUWI5VzFpM1dWOVJYVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWxBTTluT0FaS1I1c0t1Q2dacDV5STgtSTB5LTlhRnZtSEFSdEJIN0ZGZnFEUmF6d1RTN1VYWUJXT3JwN3NUWHotUmdhUUxaYXdFaGNyd3UtRUJFci1lWXo4OHpwZVRTTHZsT0c3S2FaYUtibFJUeWhub0doM2N3Y2I0cFZWb3lyZllDUm9TMDZPRlR2aVAyUWI5VzFpM1dWOVJYVg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790130375.0
     }
 ]
