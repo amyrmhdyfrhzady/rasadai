@@ -253,6 +253,26 @@
         "timestamp": 1790334000.0
     },
     {
+        "id": "c29f95b7fb",
+        "title_fa": "پیشنهاد ج-مهوری اس-لامی برای بازگشایی هرمز در ازای لغو تحریم‌ها",
+        "title_en": "Irán dio detalles de su propuesta para reabrir el estrecho de Ormuz y el precio del petróleo cae en Europa y Estados Unidos",
+        "summary": [
+            "عباس عراقچی در نیویورک پیشنهاد بازگشایی تنگه هرمز و مذاکرات هسته‌ای را در ازای لغو محاصره دریایی و تحریم‌های نفتی مطرح کرده است.",
+            "این پیشنهاد شامل آتش‌بس در لبنان و سایر جبهه‌هاست که با هدف کاهش تنش و تاثیر بر بازارهای جهانی نفت ارائه شده است.",
+            "منابع نزدیک به حاکمیت تاکید دارند که این پیشنهاد به معنای عقب‌نشینی از برنامه‌های هسته‌ای نیست و تنگه هرمز تا تحقق کامل شروط باز نخواهد شد.",
+            "این اقدام نوعی مانور دیپلماتیک برای خرید زمان و کاهش فشار اقتصادی در شرایط بحرانی فعلی است."
+        ],
+        "impact": "کاهش موقت قیمت جهانی نفت به دلیل سیگنال‌های کاهش تنش در خلیج فارس.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "Infobae",
+        "url": "https://www.infobae.com/america/mundo/2026/09/25/iran-dio-detalles-de-su-propuesta-para-reabrir-el-estrecho-de-ormuz-y-el-precio-del-petroleo-cae-en-europa-y-estados-unidos/",
+        "clean_url": "https://www.infobae.com/america/mundo/2026/09/25/iran-dio-detalles-de-su-propuesta-para-reabrir-el-estrecho-de-ormuz-y-el-precio-del-petroleo-cae-en-europa-y-estados-unidos",
+        "image": "https://www.infobae.com/resizer/v2/SDCWCA7HSBF6DBEIM37USJG76Y.JPG?auth=cf59c6ce882e5505dee87fb95b5514ded417eee386d1891e8a42a46e39f2c005&smart=true&width=1200&height=630&quality=85",
+        "timestamp": 1790332980.0
+    },
+    {
         "id": "288449bf54",
         "title_fa": "تهدید ج‌امهور‌ی ا‌سلامی به استفاده از سلاح‌های جدید",
         "title_en": "Iran warns it would use 'different weapons' if US, Israel attack again",
@@ -5457,23 +5477,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/pezeshkian-hits-back-trump-says-150339810.html",
         "image": "https://s.yimg.com/lo/mysterio/api/1f81b2b53640029471263201a2d25dfa6c74cd75cd0a35d88439759c84421d9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb1733db3bc5d2d47cf0bf97c4802fc4a.jpg",
         "timestamp": 1790150580.0
-    },
-    {
-        "id": "c2c68aef60",
-        "title_fa": "هشدار نهادهای امنیتی اسرائیل درباره احتمال تصاعد بحران در خاورمیانه",
-        "title_en": "Israel security officials warn of potential escalation across Middle East",
-        "summary": [
-            "مقامات ارشد امنیتی اسرائیل نسبت به پتانسیل بالای اشتعال هم‌زمان چند جبهه در سراسر منطقه هشدار داده‌اند.",
-            "این هشدارها مستقیم معطوف به آماده‌باش نیروها برای پاسخ به تحرکات تلافی‌جویانه یا پیش‌دستانه در محورهای مختلف است."
-        ],
-        "impact": "افزایش احتمال درگیری نظامی چندجبهه‌ای و جهش ریسک سیستماتیک در بازارهای انرژی و مالی منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY2JCUHR2NGZsV0xpVTZTWGFBdm1yb21LTWdRcEttdnNpekcwQWMyVGRWUGRVZkI0WmRFOFp5am9BNVkzMlJhWWUwczVfV3dOdWpPYVBwWEl4OVVOY1daWDZNaEt4WjREMGh4cDln?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY2JCUHR2NGZsV0xpVTZTWGFBdm1yb21LTWdRcEttdnNpekcwQWMyVGRWUGRVZkI0WmRFOFp5am9BNVkzMlJhWWUwczVfV3dOdWpPYVBwWEl4OVVOY1daWDZNaEt4WjREMGh4cDln",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790150421.0
     }
 ]
