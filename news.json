@@ -234,6 +234,25 @@
         "timestamp": 1790331148.0
     },
     {
+        "id": "73ab30691a",
+        "title_fa": "دیپلماسی لرزان ج-ه در نیویورک وسط تهدیدها",
+        "title_en": "From hiding in bomb shelters to visiting New York, Iran’s leaders seize the opportunity",
+        "summary": [
+            "مقام ارشد دستگاه خارجه ج-ه با محافظت سرویس امنیتی آمریکا در منهتن دیده شد.",
+            "عباس عراقچی دیداری نادر با نماینده ویژه آمریکا داشت و مدعی ارائه طرح جدید شد.",
+            "مسعود پزشکیان در سازمان ملل از عبارت‌های تند برای مصرف داخلی استفاده کرد."
+        ],
+        "impact": "تلاش مذبوحانه مهره‌های سیستم برای خرید زمان و کاهش فشار سنگین بین‌المللی",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/25/middleeast/from-hiding-in-bomb-shelters-to-visiting-new-york-irans-leaders-seize-the-opportunity",
+        "clean_url": "https://www.cnn.com/2026/09/25/middleeast/from-hiding-in-bomb-shelters-to-visiting-new-york-irans-leaders-seize-the-opportunity",
+        "image": "http://www.bing.com/th?id=ONUT.hBgNHh4Ci1rFO0ieqi6xWw&pid=News",
+        "timestamp": 1790328900.0
+    },
+    {
         "id": "94ea318faf",
         "title_fa": "قطعی سراسری اینترنت و سرکوب شدید صدای اعتراضات",
         "title_en": "10 Ianuarie 2026",
@@ -5457,23 +5476,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yTGpTT1FTcTJ6SE1NZVBHV1VLZjhHSG9xWFRqZTFYQmlRbmhtRldDQ0NZclV4V2hmWG1UZGlMWWhTQTRKS0pxTGwwQmtEaVE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790144433.0
-    },
-    {
-        "id": "8615ab81e9",
-        "title_fa": "دیدار مقام‌های ارشد آمریکا و ایران در سازمان ملل زیر سایه تهدید ترامپ",
-        "title_en": "Top US and Iran officials meet at the UN after Trump threatens to 'annihilate' Iran",
-        "summary": [
-            "دیدار دیپلماتیک ارشد میان نمایندگان آمریکا و جـمـهـورۍ اسـلامـی در مقر سازمان ملل برگزار شد.",
-            "این دیدار در حالی انجام گرفت که دونالد ترامپ تهدید کرده بود این کشور را با خاک یکسان می‌کند."
-        ],
-        "impact": "تنش‌های لفظی شدید رهبران آمریکا با تماس‌های پشت پرده دیپلماتیک در نیویورک همزمان شده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "bbc.com",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNzdwTjBOUmNtS1hEZ0dnQWdKc29TM1NGZC1FdnFUR25keVBJdmdGb3NtR3l5ZFhGWGtWRFBaWUFXZlN2ZzFJUHNIRUtOaHRMT1lheUtZWUgzSDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNzdwTjBOUmNtS1hEZ0dnQWdKc29TM1NGZC1FdnFUR25keVBJdmdGb3NtR3l5ZFhGWGtWRFBaWUFXZlN2ZzFJUHNIRUtOaHRMT1lheUtZWUgzSDA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790143976.0
     }
 ]
