@@ -91,6 +91,25 @@
         "timestamp": 1790350238.0
     },
     {
+        "id": "befb437882",
+        "title_fa": "ادعای نخست‌وزیر لبنان درباره بازپس‌گیری اراضی از اسرائیل",
+        "title_en": "At UN, Lebanon's PM says recovering territory from Israeli occupation is existential challenge",
+        "summary": [
+            "نجیب میقاتی در سازمان ملل با ادبیاتی تند، حضور اسرائیل در مناطق مرزی را چالش وجودی خواند.",
+            "این موضع‌گیری در حالی مطرح می‌شود که حزب‌الله به عنوان بازوی نیابتی ج.ا.ا در لبنان، عملاً کنترل تصمیمات جنگی را در دست دارد.",
+            "تلاش دولت لبنان برای مشروعیت‌بخشی به تقابل با اسرائیل، عمق نفوذ گروه‌های شبه‌نظامی در ساختار سیاسی این کشور را نشان می‌دهد."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و احتمال تشدید درگیری‌های مرزی در جبهه شمال اسرائیل.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/at-un-lebanon-s-pm-says-recovering-territory-from-israeli-occupation-is-existential-challenge/ar-AA2cYFgM",
+        "clean_url": "https://www.msn.com/en-us/news/other/at-un-lebanon-s-pm-says-recovering-territory-from-israeli-occupation-is-existential-challenge/ar-AA2cYFgM",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26268513607318-e1790347909595.jpg",
+        "timestamp": 1790348340.0
+    },
+    {
         "id": "437aa37347",
         "title_fa": "پیشنهاد معامله اتمی و باز شدن تنگه هرمز در ازای لغو محاصره",
         "title_en": "Iran proposes reopening Strait, resuming nuclear talks if US lifts blockade",
@@ -5458,24 +5477,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/yemens-houthi-rebels-shook-mideast-081737132.html",
         "image": "https://media.zenfs.com/en/ap.org/dc9253e68c339ececdf2321839666887.jpg",
         "timestamp": 1790151445.0
-    },
-    {
-        "id": "a4e3cbcb66",
-        "title_fa": "پزشکیان در سازمان ملل: ما قربانی تروریسم هستیم",
-        "title_en": "Pezeshkian hits back at Trump, says Iran is 'victim of terrorism'",
-        "summary": [
-            "مسعود پزشکیان در واکنش به حملات لفظی دونالد ترامپ، اتهامات واشنگتن علیه تهران را رد کرد.",
-            "او با اشاره به حملات آمریکا و اسرائیل، مدعی شد که مردم ایران در برابر این فشارها ایستادگی کرده‌اند.",
-            "ترامپ پیش‌تر تهدید کرده بود اگر تهران به توافق تن ندهد، جمهوری اسلامی با خطر نابودی روبه‌رو خواهد شد."
-        ],
-        "impact": "افزایش تنش‌های لفظی میان مقامات ارشد تهران و واشنگتن در مجمع عمومی سازمان ملل.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/pezeshkian-hits-back-trump-says-150339810.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/pezeshkian-hits-back-trump-says-150339810.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/1f81b2b53640029471263201a2d25dfa6c74cd75cd0a35d88439759c84421d9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb1733db3bc5d2d47cf0bf97c4802fc4a.jpg",
-        "timestamp": 1790150580.0
     }
 ]
