@@ -186,6 +186,24 @@
         "timestamp": 1790290398.0
     },
     {
+        "id": "a46523c2eb",
+        "title_fa": "رد درخواست وثیقه یوتیوبر هندی توسط دادگاه",
+        "title_en": "Ajeet Bharti Faces Arrest Heat As Delhi HC Rejects Bail In Chandrashekhar Azad Case",
+        "summary": [
+            "دادگاه عالی دهلی با درخواست وثیقه اجیت بهارتی، فعال رسانه‌ای، مخالفت کرد.",
+            "این پرونده به دنبال اظهارات جنجالی او علیه یک نماینده پارلمان و اتهامات مربوط به قوانین تبعیض نژادی تشکیل شده است."
+        ],
+        "impact": "افزایش فشار قضایی بر فعالان رسانه‌ای و شبکه‌های اجتماعی در هند.",
+        "tag": "حقوقی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/news/ajeet-bharti-faces-arrest-heat-as-delhi-hc-rejects-bail-in-chandrashekhar-azad-case/videoshow/134466916.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/news/ajeet-bharti-faces-arrest-heat-as-delhi-hc-rejects-bail-in-chandrashekhar-azad-case/videoshow/134466916.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134466916,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1790287980.0
+    },
+    {
         "id": "a6a923cd39",
         "title_fa": "انتقاد شدید تاکر کارلسون از ترامپ بر سر تهدید ایران",
         "title_en": "Tucker Carlson says Trump should have been ousted over Iran threat",
@@ -5452,23 +5470,5 @@
         "clean_url": "https://www.iranintl.com/en/202609222520",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/e2c402071abf2ea897db02c55a8fe71d7731241a-1280x853.jpg?rect=0,113,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790109960.0
-    },
-    {
-        "id": "4fcf50c819",
-        "title_fa": "افشای دروغ‌گویی ترامپ درباره رسانه‌ها",
-        "title_en": "Kaitlan Collins Embarrasses Trump by Exposing Brutal Truth",
-        "summary": [
-            "کایتلان کالینز، خبرنگار سی‌ان‌ان، ادعای ترامپ مبنی بر عدم پوشش خبری او را رسماً تکذیب کرد.",
-            "تلاش دولت برای کنترل پوشش رسانه‌ای و اعمال محدودیت همچنان با مقاومت خبرنگارها روبروست."
-        ],
-        "impact": "تشدید تنش میان دولت آمریکا و رسانه‌های جریان اصلی",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/kaitlan-collins-embarrasses-trump-by-exposing-brutal-truth/",
-        "clean_url": "https://www.thedailybeast.com/kaitlan-collins-embarrasses-trump-by-exposing-brutal-truth",
-        "image": "http://www.bing.com/th?id=ONUT.QcKBH3Uo77pQhTTbeJdlJA&pid=News",
-        "timestamp": 1790107920.0
     }
 ]
