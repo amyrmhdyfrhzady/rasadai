@@ -542,6 +542,25 @@
         "timestamp": 1790263373.0
     },
     {
+        "id": "9099a9312b",
+        "title_fa": "قطع رابطه کلمبیا با ح ک و م ت تهران به دلیل تروریسم",
+        "title_en": "Colombia Severs Diplomatic Relations with Iran Over Terrorism Links",
+        "summary": [
+            "دولت کلمبیا به طور رسمی روابط دیپلماتیک خود را با تهران قطع کرد.",
+            "این تصمیم به دلیل اتهامات مربوط به ارتباط با گروه‌های تروریستی و اخلال در بازرسی‌های اتمی گرفته شد.",
+            "وزارت خارجه کلمبیا این اقدام را در راستای حفاظت از امنیت ملی و مرزهای خود اعلام کرد."
+        ],
+        "impact": "انزوای بیشتر دستگاه دیپلماتیک ج م ه و ر ی ا س ل ا م ی در آمریکای لاتین و کاهش شرکای تجاری.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Rio Times",
+        "url": "https://www.riotimesonline.com/colombia-severs-diplomatic-relations-iran-terrorist-links-2026/",
+        "clean_url": "https://www.riotimesonline.com/colombia-severs-diplomatic-relations-iran-terrorist-links-2026",
+        "image": "https://www.riotimesonline.com/wp-content/uploads/2026/09/capitolio-bogota-jep-budget-2026.jpg",
+        "timestamp": 1790262480.0
+    },
+    {
         "id": "dc9d5925c3",
         "title_fa": "نمایش دیپلماتیک پکن و واشنگتن؛ دستاوردها و حاشیه‌های مجمع عمومی",
         "title_en": "Gustavo de Arístegui: Geopolitical analysis of 24 September",
@@ -5446,24 +5465,5 @@
         "clean_url": "https://www.iranintl.com/en/202609225121",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790093880.0
-    },
-    {
-        "id": "5518b62a2f",
-        "title_fa": "پاتک سنگین آمریکا به مواضع حوثی‌ها در یمن",
-        "title_en": "US launches retaliatory strike on Houthi targets in Yemen after attack on Israel's Tel Aviv",
-        "summary": [
-            "ارتش آمریکا در پاسخ به موشکباران تل‌آویو توسط حوثی‌ها، مواضع این گروه در صنعا را بمباران کرد.",
-            "انبار تسلیحات و مرکز فرماندهی حوثی‌ها هدف حملات هوایی دقیق جنگنده‌های آمریکایی قرار گرفت.",
-            "پدافند اسرائیل در رهگیری موشک حوثی‌ها ناکام ماند و شانزده نفر در تل‌آویو زخمی شدند."
-        ],
-        "impact": "تشدید درگیری‌ها در دریای سرخ و افزایش هزینه‌های نظامی نیابتی‌های رژیم در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "WION",
-        "url": "https://www.wionews.com/world/us-launches-retaliatory-strike-on-houthi-targets-in-yemen-after-attack-on-israels-tel-aviv-785886",
-        "clean_url": "https://www.wionews.com/world/us-launches-retaliatory-strike-on-houthi-targets-in-yemen-after-attack-on-israels-tel-aviv-785886",
-        "image": "https://cdn.wionews.com/sites/default/files/2024/12/22/472484-new-wion-2024-12-22t062122532.jpg?imwidth=1200&imheight=900",
-        "timestamp": 1790093700.0
     }
 ]
