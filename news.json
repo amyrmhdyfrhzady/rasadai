@@ -260,6 +260,25 @@
         "timestamp": 1790293440.0
     },
     {
+        "id": "cecd52d64c",
+        "title_fa": "دیدار پنهان‌کارانه پز*شکیان با لابی‌گران و رابرت مالی در نیویورک",
+        "title_en": "نشست پزشکیان در نیویورک با حضور رابرت مالی، تریتا پارسی و تعدادی از چهره‌های رسانه‌ای",
+        "summary": [
+            "تلاش دستپاچه ج.ا برای بازسازی کانال‌های ارتباطی فرسوده با حضور چهره‌های بدنامی مثل تریتا پارسی و رابرت مالی معلق‌شده.",
+            "ترس شدید کارشناسان غربی از دیده شدن با مقامات تهران عمق انزوای دیپلماتیک و هراس از عواقب حقوقی تحریم‌ها را برملا می‌کند.",
+            "پز*شکیان با این دیدارهای حاشیه‌ای سعی دارد چهره‌ای صلح‌طلب از رژ*یم نشان دهد، در حالی که سرکوب داخلی و تنش‌آفرینی منطقه‌ای همچنان ادامه دارد."
+        ],
+        "impact": "تلاش بی‌حاصل برای احیای برجام و کاهش فشار تحریم‌ها از طریق مهره‌های سوخته لابی‌گری در آمریکا.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609258417",
+        "clean_url": "https://www.iranintl.com/202609258417",
+        "image": "http://www.bing.com/th?id=ONUT.Iaw37wH2u90lHlju80evAw&pid=News",
+        "timestamp": 1790292420.0
+    },
+    {
         "id": "c253b905c0",
         "title_fa": "تناقض در ادعای توافق پزشکیان با فاکس‌نیوز",
         "title_en": "پزشکیان از آمادگی برای توافق گفت؛ مجری فاکسنیوز پرسید چه کسی حکومت ایران را اداره میکند",
@@ -5458,23 +5477,5 @@
         "clean_url": "https://www.iranintl.com/202609238372",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790122740.0
-    },
-    {
-        "id": "d9c5131bf0",
-        "title_fa": "دیدار مقام‌های آمریکایی و ایرانی در نیویورک",
-        "title_en": "U.S. and Iran officials meet in New York to discuss ending the war",
-        "summary": [
-            "دیپلمات‌های ارشد دو کشور در نیویورک دور میز نشستند تا راهی برای پایان دادن به درگیری‌ها پیدا کنند.",
-            "این دیدار پشت درهای بسته و با تمرکز بر تنش‌زدایی انجام شده است."
-        ],
-        "impact": "تغییر احتمالی در مسیر تنش‌های نظامی و حرکت به سمت دیپلماسی پنهان.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fSDdtMjE4M3BicXVNZ1R3UUNETkI5S0xUTWtBVzdfdi1ieFBIbUxGbHNwcTdBMUxtdDgtZmp6SVRmanlCWnZzZmpDQmp4V0RFYUM3eXU2Ulg3b202Sk5Qa0p1b1d4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fSDdtMjE4M3BicXVNZ1R3UUNETkI5S0xUTWtBVzdfdi1ieFBIbUxGbHNwcTdBMUxtdDgtZmp6SVRmanlCWnZzZmpDQmp4V0RFYUM3eXU2Ulg3b202Sk5Qa0p1b1d4Zw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790122077.0
     }
 ]
