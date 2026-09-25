@@ -803,6 +803,24 @@
         "timestamp": 1790268525.0
     },
     {
+        "id": "de7422e52b",
+        "title_fa": "دیدار پشت درهای بسته لاوروف و دبیرکل سازمان ملل",
+        "title_en": "Lavrov meets with UN secretary-general on General Assembly sidelines",
+        "summary": [
+            "سرگئی لاوروف و آنتونیو گوترش در حاشیه مجمع عمومی سازمان ملل بدون حضور رسانه‌ها دیدار کردند.",
+            "رئیس دستگاه دیپلماسی روسیه در نیویورک رایزنی‌های فشرده‌ای با مقامات مختلف از جمله مدیرکل آژانس اتمی داشت."
+        ],
+        "impact": "این دیدارها بخشی از تلاش مسکو برای یارگیری دیپلماتیک در معادلات بین‌المللی است.",
+        "tag": "دیپلماسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2192487",
+        "clean_url": "https://tass.com/politics/2192487",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790268480.0
+    },
+    {
         "id": "450c1afe9d",
         "title_fa": "حمله تند جناح تندرو به سیگنال‌های مذاکراتی پزشکیان",
         "title_en": "رجانیوز به اظهارات پزشکیان درباره بازگشت آمریکا به توافق اعتراض کرد",
@@ -5452,23 +5470,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGFfZEE0Rng3UkZzZDh2b0E4X3RWbGRDUEo3VWg0Z1BPaXFTMmYzcGhOOVlROFpiM0x4dTJBVWR6bzBxMTlhNVNidXprT09iZ2NSVzdXaTF5UF84aThrQ2I0Zk8tMVU0NHB0LV9CWm5RR2dfTjMxcVF3VEJremo0ajlaZWVGV3RaWjlPVDhnU3B3YW1sWlFzVlAxcw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790112060.0
-    },
-    {
-        "id": "ca3d118305",
-        "title_fa": "مقایسه خطرات هوش مصنوعی با جنگ سرد",
-        "title_en": "Cold War Lessons for A.I.",
-        "summary": [
-            "آمریکا و شوروی سابق توانستند از فاجعه اتمی جلوگیری کنند و حالا همین الگو برای کنترل فناوری هوش مصنوعی بین واشنگتن و پکن پیشنهاد می‌شود.",
-            "رقابت تسلیحاتی جدید روی زمینه‌ نوظهور هوش مصنوعی متمرکز شده است."
-        ],
-        "impact": "شکل‌گیری قوانین بین‌المللی جدید برای مهار رقابت فناوری میان قدرت‌های جهانی.",
-        "tag": "فناوری",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/22/world/ai-cold-war-iran-un.html",
-        "clean_url": "https://www.nytimes.com/2026/09/22/world/ai-cold-war-iran-un.html",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790110740.0
     }
 ]
