@@ -289,6 +289,24 @@
         "timestamp": 1790331148.0
     },
     {
+        "id": "75243798c9",
+        "title_fa": "هشدار صریح ترامپ به پکن درباره ممانعت از کمک به ایران",
+        "title_en": "ترامپ در جریان مذاکرات با شی کمک چین به ایران را غیرقابل قبول دانست",
+        "summary": [
+            "دونالد ترامپ در دیدار با شی جینپینگ، حمایت‌های پکن از تهران را کاملاً غیرقابل قبول خواند.",
+            "سفیر آمریکا در چین تأکید کرد که هرگونه کمک نظامی یا اطلاعاتی به ایران خط قرمز واشینگتن است."
+        ],
+        "impact": "افزایش فشار اقتصادی و دیپلماتیک بر چین برای قطع شریان‌های حیاتی مالی و لجستیکی جمهوری اسلامی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says/33864473.html",
+        "clean_url": "https://www.radiofarda.com/a/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says/33864473.html",
+        "image": "http://www.bing.com/th?id=ONUT.xWpcHkqJLaHGrO1PrKQIBA&pid=News",
+        "timestamp": 1790329260.0
+    },
+    {
         "id": "73ab30691a",
         "title_fa": "دیپلماسی لرزان ج-ه در نیویورک وسط تهدیدها",
         "title_en": "From hiding in bomb shelters to visiting New York, Iran’s leaders seize the opportunity",
@@ -5457,23 +5475,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY2JCUHR2NGZsV0xpVTZTWGFBdm1yb21LTWdRcEttdnNpekcwQWMyVGRWUGRVZkI0WmRFOFp5am9BNVkzMlJhWWUwczVfV3dOdWpPYVBwWEl4OVVOY1daWDZNaEt4WjREMGh4cDln",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790150421.0
-    },
-    {
-        "id": "e97b43526a",
-        "title_fa": "فرافکنی پزشکیان در سازمان ملل علیه اعتراضات مردمی",
-        "title_en": "نظرتان درباره سخنان پزشکیان پیرامون انقلاب ملی در سخنرانی سازمان ملل چیست؟",
-        "summary": [
-            "مسعود پزشکیان در مجمع عمومی سازمان ملل خیزش ملی مردم را به دولت‌های خارجی نسبت داد.",
-            "او با این اظهارات تلاش کرد سرکوب خیابانی معترضان را توجیه کند و از نیروهای وفادار به حکومت حمایت کرد."
-        ],
-        "impact": "این مواضع بار دیگر شکاف عمیق میان حاکمیت و بدنه جامعه را در مجامع بین‌المللی عیان کرد.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609236269",
-        "clean_url": "https://www.iranintl.com/202609236269",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790149500.0
     }
 ]
