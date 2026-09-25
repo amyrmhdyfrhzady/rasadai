@@ -417,6 +417,24 @@
         "timestamp": 1790324700.0
     },
     {
+        "id": "34bbc3c378",
+        "title_fa": "عقب‌نشینی نایب یمنی ج.ا از حمله به کشتی‌های اروپایی",
+        "title_en": "فایننشال تایمز: حوثی‌ها به اتحادیه اروپا گفتند کشتی‌های اروپایی را هدف نمی‌گیرند",
+        "summary": [
+            "حوثی‌ها در نامه‌ای به اتحادیه اروپا تضمین دادند که شناورهای اروپایی در دریای سرخ هدف حملات آن‌ها قرار نمی‌گیرند.",
+            "این گروه تلاش کرده تا با تفکیک عملیات‌های خود، خسارت‌های منطقه‌ای را کاهش دهد و تمرکز خود را حفظ کند."
+        ],
+        "impact": "تغییر تاکتیک نیابتی‌ها در دریای سرخ برای کاهش فشار نظامی غرب.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609253872",
+        "clean_url": "https://www.iranintl.com/202609253872",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790323800.0
+    },
+    {
         "id": "ae8c6b250f",
         "title_fa": "درخواست پنهانی ریاض و ابوظبی از ترامپ برای حفظ فشار حداکثری بر ایران",
         "title_en": "Saudi Arabia, UAE urge Trump to maintain pressure on Iran - WSJ",
@@ -5457,24 +5475,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/irans-president-says-tehran-will-not-surrender-war-with-us-but-believes-2026-09-23",
         "image": "http://www.bing.com/th?id=ONUT.BL5DMdvmJMnoWNsroVJYTw&pid=News",
         "timestamp": 1790149080.0
-    },
-    {
-        "id": "e03f08efdd",
-        "title_fa": "ادعای مظلومیت پزشکیان در سازمان ملل پس از خط و نشان ترامپ",
-        "title_en": "Iran’s president in wartime address at UN: We have been ‘victims of terrorism’",
-        "summary": [
-            "مسعود پزشکیان در مجمع عمومی سازمان ملل ایالات متحده و اسرائیل را عامل اصلی حملات و جنگ اخیر معرفی کرد.",
-            "او با بالا بردن تصاویر علی خامنه‌ای و کودکان کشته‌شده تلاش کرد روایت رسمی حکومت از قربانی بودن را بازنشر دهد.",
-            "این سخنرانی در پاسخ مستقیم به تهدیدات دونالد ترامپ مبنی بر نابودی جـمهوری اسلامی ایراد شد."
-        ],
-        "impact": "افزایش تنش‌های لفظی در سطح بین‌المللی و تثبیت مواضع تهاجمی تهران در برابر فشارهای واشنگتن.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/09/23/iran-president-un-address/",
-        "clean_url": "https://www.bostonherald.com/2026/09/23/iran-president-un-address",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2026/09/UN_General_Assembly_Iran_18423.jpg?w=2000&h=1333",
-        "timestamp": 1790148660.0
     }
 ]
