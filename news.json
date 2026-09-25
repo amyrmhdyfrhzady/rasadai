@@ -420,6 +420,24 @@
         "timestamp": 1790275620.0
     },
     {
+        "id": "4ae59bea3a",
+        "title_fa": "طوفان سهمگین سواحل شرقی آمریکا را درنوردید",
+        "title_en": "East Coast eyes strengthening nor’easter already battering Mid-Atlantic shores",
+        "summary": [
+            "سامانه بارشی قدرتمند و کم‌سابقه، مناطق ساحلی از مید-آتلانتیک تا شمال شرق آمریکا را تهدید می‌کند.",
+            "مقام‌های محلی درباره آب‌گرفتگی شدید، وزش بادهای مخرب و خسارت به زیرساخت‌های ساحلی هشدار دادند."
+        ],
+        "impact": "اختلال گسترده در حمل‌ونقل و فعالیت‌های روزمره در شهرهای ساحلی شرق آمریکا.",
+        "tag": "حوادث",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/east-coast-eyes-strengthening-nor-easter-already-battering-mid-atlantic-shores/ar-AA2cSITQ",
+        "clean_url": "https://www.msn.com/en-us/news/other/east-coast-eyes-strengthening-nor-easter-already-battering-mid-atlantic-shores/ar-AA2cSITQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790275316.0
+    },
+    {
         "id": "c9d66c86b5",
         "title_fa": "تلاش تهران برای توافق پیش از انتخابات میادترم آمریکا",
         "title_en": "Iran’s president says Tehran wants a deal with U.S. before midterm elections",
@@ -507,6 +525,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-threatened-to-annihilate-iran-its-president-laid-out-tehran-s-demands-at-the-un/ar-AA2cUxnK",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790273428.0
+    },
+    {
+        "id": "cde39cdbe8",
+        "title_fa": "بازی دیپلماسی و تجلیل ترامپ از روابط با چین",
+        "title_en": "Trump praises US-China friendship, talks up White House ballroom during state dinner for China's Xi",
+        "summary": [
+            "دونالد ترامپ در جریان شام رسمی با شی جین‌پینگ، روی ابعاد نرم دیپلماسی و دوستی اقتصادی تمرکز کرد.",
+            "فهرست مهمانان متمایل به فناوری و جزئیات تشریفاتی این دیدار، نشان‌دهنده تلاش دو طرف برای مدیریت تنش‌هاست."
+        ],
+        "impact": "این دیدار لحن روابط اقتصادی واشنگتن و پکن را موقتاً به سمت تنش‌زدایی می‌برد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-praises-us-china-friendship-talks-up-white-house-ballroom-during-state-dinner-for-china-s-xi/ar-AA2cVhds",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-praises-us-china-friendship-talks-up-white-house-ballroom-during-state-dinner-for-china-s-xi/ar-AA2cVhds",
+        "image": "http://www.bing.com/th?id=ONUT.PPukuzazlWRBaRIQgKBkPw&pid=News",
+        "timestamp": 1790272444.0
     },
     {
         "id": "df0b9315df",
@@ -5430,41 +5466,5 @@
         "clean_url": "https://www.iranintl.com/en/202609224399",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/6753c71b8ad4d751d53890ab7ac6932ea38c11b8-1199x1039.jpg?rect=0,206,1199,629&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790105580.0
-    },
-    {
-        "id": "ff3c619b86",
-        "title_fa": "دیدار محرمانه نمایندگان ترامپ با مقام‌های جمهوری اسلامی",
-        "title_en": "Iran-US war latest: Kushner and Witkoff met with Iranian officials",
-        "summary": [
-            "جرد کوشنر و استیو ویتکاف با هیئت ایرانی پشت درهای بسته دیدار کردند.",
-            "این نشست پس از تهدیدهای تند ترامپ به نابودی، با ارزیابی مثبت کاخ سفید همراه شد."
-        ],
-        "impact": "شکل‌گیری کانال‌های پشت پرده برای کاهش تنش‌های نظامی",
-        "tag": "دیپلماسی پنهان",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-kushner-and-witkoff-met-with-iranian-officials/ar-AA2cIztL",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-kushner-and-witkoff-met-with-iranian-officials/ar-AA2cIztL",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cLutL.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1790104828.0
-    },
-    {
-        "id": "41d6cbae5e",
-        "title_fa": "بررسی سوابق سازمان ملل درباره تنش‌های ایران و اسرائیل",
-        "title_en": "Fact Check Team: What does the UN record show about Israel, Palestine & Iran?",
-        "summary": [
-            "مستندات سازمان ملل ابعاد تازه‌ای از نقش رژیم در بحران‌های منطقه را نمایان می‌کند.",
-            "این گزارش‌ها به بررسی ریشه‌های درگیری میان جبهه مقاومت و اسرائیل می‌پردازد."
-        ],
-        "impact": "افزایش شفافیت بین‌المللی پیرامون پرونده هسته‌ای و نیابتی ج.ا",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "KATU",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX0hVS0h3SG1VRmFxZW9mcVVMXzR1V1E3TEVIOGxKZWpPZThWcUJlUXBOMlI1d2tmaGd4RV9BSGtsOWwzOGMyR3VDcmh2N0ZBQWU1QUVLX3ZWYllDOUZMLW1nWkhNeTVwcFRLeDFyblZ3dHJFaUhRVUcyMkRNV2ZudFlMSXJGejJHTnBGTTVlaEdidlVOdUFZTHQwWmJvVkFrOUU1N2dSMHlJZDdaUTUxM0tZcno0Wm1aam9UQUp2bm02VDl1ZHdhMk9IQ25wVnpKaFl6M0p0Q00?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX0hVS0h3SG1VRmFxZW9mcVVMXzR1V1E3TEVIOGxKZWpPZThWcUJlUXBOMlI1d2tmaGd4RV9BSGtsOWwzOGMyR3VDcmh2N0ZBQWU1QUVLX3ZWYllDOUZMLW1nWkhNeTVwcFRLeDFyblZ3dHJFaUhRVUcyMkRNV2ZudFlMSXJGejJHTnBGTTVlaEdidlVOdUFZTHQwWmJvVkFrOUU1N2dSMHlJZDdaUTUxM0tZcno0Wm1aam9UQUp2bm02VDl1ZHdhMk9IQ25wVnpKaFl6M0p0Q00",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790104539.0
     }
 ]
