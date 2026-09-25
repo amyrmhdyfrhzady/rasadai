@@ -729,6 +729,25 @@
         "timestamp": 1790269227.0
     },
     {
+        "id": "6895a0be29",
+        "title_fa": "ائتلاف مسکو و تهران در بن‌بست دیپلماتیک نیویورک",
+        "title_en": "روسیه و جمهوری اسلامی بر حل‌وفصل دیپلماتیک جنگ تاکید کردند",
+        "summary": [
+            "عراقچی و لاوروف با تکرار شعارهای ضدغربی، تلاش می‌کنند انزوای بین‌المللی خود را با نمایش دیپلماتیک بپوشانند.",
+            "تأکید بر راهکار دیپلماتیک در حالی است که توافق راهبردی دو کشور، عملاً فاقد ضمانت دفاعی برای ج.ا در برابر حملات احتمالی است.",
+            "روسیه با این موضع‌گیری، صرفاً از کارت ایران برای چانه‌زنی در برابر غرب استفاده می‌کند و تعهد عملی برای حمایت نظامی ندارد."
+        ],
+        "impact": "این دیدار نشان‌دهنده دست خالی تهران در جلب حمایت نظامی واقعی از سوی مسکو در شرایط بحرانی است.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609254101",
+        "clean_url": "https://www.iranintl.com/202609254101",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790269200.0
+    },
+    {
         "id": "603bb7f877",
         "title_fa": "فشار پشت پرده به ترامپ برای جنگ با ای-ران",
         "title_en": "Tucker Carlson Still Can't Believe What Trump Said About The Iran War",
@@ -5451,24 +5470,5 @@
         "clean_url": "https://www.nytimes.com/2026/09/22/world/ai-cold-war-iran-un.html",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790110740.0
-    },
-    {
-        "id": "0f635e1cac",
-        "title_fa": "عقب‌نشینی لفظی مشاور نظامی خامنه‌ای از تنش منطقه‌ای",
-        "title_en": "Tehran not seeking regime change in Arab states, military adviser says",
-        "summary": [
-            "یحیی رحیم صفوی مدعی شد تهرانی‌ها هیچ برنامه‌ای برای تغییر حکومت در کشورهای عربی ندارند.",
-            "این مقام نظامی تاکید کرد که امنیت منطقه باید بدون حضور ایالات متحده شکل بگیرد.",
-            "این اظهارات در پی افزایش فشارهای سنگین منطقه‌ای و تنگنای امنیتی رژیم مطرح شده است."
-        ],
-        "impact": "ت تلاش برای کاهش هراس کشورهای عربی هم‌زمان با تشدید انزوای منطقه‌ای.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609222520",
-        "clean_url": "https://www.iranintl.com/en/202609222520",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/e2c402071abf2ea897db02c55a8fe71d7731241a-1280x853.jpg?rect=0,113,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790109960.0
     }
 ]
