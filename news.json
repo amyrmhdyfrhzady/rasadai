@@ -1,5 +1,24 @@
 [
     {
+        "id": "0a393a2c2e",
+        "title_fa": "کمبود شدید دارو در ایران تحت فشار تحریم‌های آمریکا",
+        "title_en": "Medicines run short in Iran under US sanctions",
+        "summary": [
+            "مسدود ماندن کانال‌های مالی و ترجیح بانک‌های بین‌المللی برای عدم معامله با ایران، تامین داروهای حیاتی را با مشکل جدی مواجه کرده است.",
+            "روی کاغذ داروها از تحریم معاف هستند، اما در عمل به دلیل محدودیت‌های شدید بانکی، زنجیره تامین داروی بیماران خاص قطع شده است.",
+            "سوءمدیریت داخلی در تخصیص ارز و فساد در شبکه توزیع، بحران ناشی از تحریم‌ها را برای مردم عمیق‌تر کرده است."
+        ],
+        "impact": "جهش قیمت دارو در بازار آزاد و فشار سنگین بر سلامت و معیشت خانوارهای ایرانی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVFNTFBJUHdURzJvRWtWdUtlNFR4Ym43VzZTOFJIM3V5Y0oyYm1OSC1TWGYyN01BR3hWdnhDbkxMMWNlVlU5V2xBV0VrMVVnNUwxQ2o1bjRybEVfQXhKM19OdVJaeUZmTm1HWWhOOGtwUmxXcTB4UWtXQTNKdkp0WVJ4V1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVFNTFBJUHdURzJvRWtWdUtlNFR4Ym43VzZTOFJIM3V5Y0oyYm1OSC1TWGYyN01BR3hWdnhDbkxMMWNlVlU5V2xBV0VrMVVnNUwxQ2o1bjRybEVfQXhKM19OdVJaeUZmTm1HWWhOOGtwUmxXcTB4UWtXQTNKdkp0WVJ4V1k",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790408435.0
+    },
+    {
         "id": "453d4fddc3",
         "title_fa": "خط‌ونشان جدید سـ‌پاه برای آمریکا؛ تبلیغات داخلی یا تهدید واقعی؟",
         "title_en": "Punishing US Won’t Stop Until Iran’s Conditions Are Met: IRGC",
@@ -5464,24 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFlnejZFWnF0NFlYYkdjR3JsRVpJajB0UHQ4Q3g5SkZHY0Jnb0xxU0RQc3lLeFJPSEhKR3Fqb0JMY0pONGc2YzQ5NmNqOWlHSm1VblluNjgwWnpiSUt4cHFPYU9vMzRuQ0JuZ1BDYWZTOFA5MHhKRDF2WC1ydWRBM25pUE8yR1NEbVBtVExabmxRb280TXhwdTFUcHVQNGM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790172899.0
-    },
-    {
-        "id": "1899268751",
-        "title_fa": "تحریم‌های جدید آمریکا؛ قفل شدن آسمان ایران و انزوای مسافران",
-        "title_en": "US aviation sanctions disrupt Iran flights, push travellers overland",
-        "summary": [
-            "واشنگتن با تحریم ۲۷ شرکت هواپیمایی باقی‌مانده، آخرین روزنه‌های ارتباط هوایی تهران با جهان را مسدود کرد تا انزوای ترانزیتی کشور کامل شود.",
-            "تهدید فرودگاه‌های خارجی به جریمه و قطع دسترسی مالی، حتی کشورهای همسایه و شرکای سنتی مثل چین و ترکیه را از ارائه سوخت و خدمات به هواپیماهای ایرانی ترسانده است.",
-            "این فشار همه‌جانبه، شهروندان عادی را به سمت سفرهای زمینی طولانی و پرخطر سوق داده و هزینه تجارت و جابه‌جایی را به شدت بالا برده است."
-        ],
-        "impact": "فلج شدن کامل ناوگان هوایی غیرنظامی و جهش بی‌سابقه هزینه‌های سفر و حمل‌ونقل بین‌المللی برای ایرانیان.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/us-aviation-sanctions-disrupt-iran-210536371.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/us-aviation-sanctions-disrupt-iran-210536371.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/43c61b257e60afdbd7c0cd20ac5b8ea6a49b1c07d5b7b721dfe1fbd94e9119a4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8367437e7602cadb1c6b575e724714d8.jpg",
-        "timestamp": 1790172300.0
     }
 ]
