@@ -446,6 +446,25 @@
         "timestamp": 1790400120.0
     },
     {
+        "id": "38de74c194",
+        "title_fa": "دست رد ترامپ به پیشنهاد آتش‌بس جـ.ـمـ.ـهـ.ـوری ا‌سـ.ـلا‌مـ.ـی",
+        "title_en": "Live Updates: Trump rejects Iranian ceasefire proposal as Pezeshkian says Tehran does not trust US push for talks",
+        "summary": [
+            "دونالد ترامپ پیشنهاد آتش‌بس ارسال شده از سوی تهران را قاطعانه رد کرد.",
+            "مسعود پزشکیان اعتراف کرد که حاکمیت هیچ اعتمادی به فشارهای آمریکا برای مذاکره ندارد.",
+            "ارتش ا‌سـ.ـرا‌ئیـ.ـل انبارهای تسلیحاتی حـ.ـز‌ب‌ا‌لـ.ـل در جنوب لبنان را زیر آتش گرفت."
+        ],
+        "impact": "بسته شدن مسیر دیپلماسی و افزایش احتمال درگیری‌های نظامی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-26/live-updates-909755",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-26/live-updates-909755",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739373",
+        "timestamp": 1790398440.0
+    },
+    {
         "id": "79046a9364",
         "title_fa": "عقب‌نشینی تهران و طرح بازگشایی تنگه هرمز",
         "title_en": "Iran president says supreme leader backs new plan to reopen Hormuz",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/words-long-used-in-the-caribbean-and-bermuda-are-now-part-of-the-oxford-english-dictionary/ar-AA2cPUcG",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790188108.0
-    },
-    {
-        "id": "763b3799b5",
-        "title_fa": "پیش‌بینی نتانیاهو از سقوط ن.ظ.ا.م ج.م.ا تا سال ۲۰۲۷",
-        "title_en": "Countdown in Tehran: Inside Netanyahu's high-stakes UN gamble",
-        "summary": [
-            "نخست‌وزیر اسرائیل در سازمان ملل روی مقابله با یهودستیزی تمرکز می‌کند.",
-            "تعیین تاریخ دقیق برای فروپاشی ساختار حاکم در تهران، فشار روانی بر ارکان قدرت را به اوج می‌رساند."
-        ],
-        "impact": "افزایش جنگ روانی و انزوای دیپلماتیک ج.م.ا در مجامع بین‌المللی",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Israel Hayom",
-        "url": "https://www.israelhayom.com/2026/09/23/netanyahu-un-speech-iran-regime-fall-timeline/",
-        "clean_url": "https://www.israelhayom.com/2026/09/23/netanyahu-un-speech-iran-regime-fall-timeline",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790186940.0
     }
 ]
