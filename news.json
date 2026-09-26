@@ -520,6 +520,24 @@
         "timestamp": 1790381425.0
     },
     {
+        "id": "05927f96a8",
+        "title_fa": "حمله سنگین موشکی روسیه به صنایع نظامی اوکراین",
+        "title_en": "middle east News",
+        "summary": [
+            "موشک‌های روسی مواضع صنایع نظامی وابسته به غرب را در خاک اوکراین به شدت در هم کوبیدند.",
+            "این حملات گسترده خسارات سنگینی به زیرساخت‌های نظامی اوکراین وارد کرده است."
+        ],
+        "impact": "تضعیف بیشتر توان نظامی اوکراین و افزایش فشار بر حامیان غربی این کشور.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Indiatimes",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east",
+        "image": "https://static.toiimg.com/photo/47529300.cms",
+        "timestamp": 1790380860.0
+    },
+    {
         "id": "de8cfacd47",
         "title_fa": "اولتیماتوم مستقیم ترامپ: توافق تازه یا نابودی کامل ج.ا",
         "title_en": "Trump at the UN: Things can only get worse",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/why-growing-number-republicans-breaking-233605541.html",
         "image": "https://s.yimg.com/lo/mysterio/api/06aa3b94eb7224036a1611a4215e794cbfdb32a9b18fc9af67ff96c7b65903da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Ff4a3fef4b33d99ca81ad5648ab6aa278.jpg",
         "timestamp": 1790181360.0
-    },
-    {
-        "id": "9dbe92b2e0",
-        "title_fa": "درس‌های تفنگداران دریایی آمریکا از درگیری‌های اخیر با ایران",
-        "title_en": "Pacific-based Marines were thrust into the Iran conflict. Here's what they learned",
-        "summary": [
-            "نیروهای ویژه تفنگدار دریایی مستقر در اقیانوس آرام تجربیات جدیدی از مواجهه با تنش‌های مرتبط با ایران کسب کرده‌اند.",
-            "این ارزیابی‌ها نشان‌دهنده آمادگی بالاتر نظامیان آمریکایی برای سناریوهای درگیری در منطقه است."
-        ],
-        "impact": "بازنگری و ارتقای دکترین رزمی آمریکا در مواجهه با تهدیدات منطقه‌ای.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Scripps News",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkR4NHd1UmI2elhGS1BZMFNFdi1ybWl1dm10ZUQtUEFCUTd4U183UC1KMHY4WVc2SV8zQkVVUWIwMG1lc1NCNGs4SnZhZjZlTnlseTlOQ2FOZlByazdiYjMwOXZRRVdocF9nU2ZkeFAxR0NNSlhzNXliZHlncHhXeXI3TGJsTHVfN243bVptUWZLUzg4T3ZTR2xZNXB1NmhMYkNnT2R3Zy1HWm5hclVleVhScmRfcFFhYWNQQU5HWWNuZTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkR4NHd1UmI2elhGS1BZMFNFdi1ybWl1dm10ZUQtUEFCUTd4U183UC1KMHY4WVc2SV8zQkVVUWIwMG1lc1NCNGs4SnZhZjZlTnlseTlOQ2FOZlByazdiYjMwOXZRRVdocF9nU2ZkeFAxR0NNSlhzNXliZHlncHhXeXI3TGJsTHVfN243bVptUWZLUzg4T3ZTR2xZNXB1NmhMYkNnT2R3Zy1HWm5hclVleVhScmRfcFFhYWNQQU5HWWNuZTQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790181012.0
     }
 ]
