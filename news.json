@@ -183,6 +183,24 @@
         "timestamp": 1790363837.0
     },
     {
+        "id": "e9f02c334e",
+        "title_fa": "فشار پنهان آمریکا برای انزوای مالی و هوایی ج.مهوری ا.سلامی",
+        "title_en": "A US arm-twisting campaign is cutting Iran off from the rest of the world",
+        "summary": [
+            "یک مقام ارشد وزارت خزانه‌داری آمریکا در سفر محرمانه به کشورهای مختلف، به آن‌ها درباره همکاری مالی و پروازی با تهران هشدار داده است.",
+            "این اقدام بخشی از کمپین جدید واشنگتن برای قطع کامل دسترسی سیستم بانکی و خطوط هوایی ای.ران به بازارهای جهانی است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره مالی و انزوای کامل ترابری هوایی حکومت در سطح بین‌المللی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/a-us-arm-twisting-campaign-is-cutting-iran-off-from-the-rest-of-the-world/ar-AA2cYS9J",
+        "clean_url": "https://www.msn.com/en-us/news/other/a-us-arm-twisting-campaign-is-cutting-iran-off-from-the-rest-of-the-world/ar-AA2cYS9J",
+        "image": "http://www.bing.com/th?id=ONUT.q_KxkQ0ymyUoMzUvrOT8Nw&pid=News",
+        "timestamp": 1790362800.0
+    },
+    {
         "id": "5994e8f6fd",
         "title_fa": "هشدار مستقیم ترامپ به پکن درباره نفت و حمایت از ج.ا",
         "title_en": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says",
@@ -5466,24 +5484,5 @@
         "clean_url": "https://www.iranintl.com/202609234904",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790164680.0
-    },
-    {
-        "id": "990f7bbde9",
-        "title_fa": "هشدار صریح ترامپ به ج.ا: آماده شلیک هستیم",
-        "title_en": "Trump warns Iran it is 'locked and loaded' as 130 leaders gather at the UN",
-        "summary": [
-            "ترامپ با ادبیات نظامی «قفل و مسلح» به تهران هشدار داد که صبر واشنگتن در برابر رفتارهای منطقه‌ای به پایان رسیده است.",
-            "همزمانی این تهدید با نشست سران در سازمان ملل، پیامی برای انزوای بیشتر دیپلماتیک و افزایش فشار حداکثری است.",
-            "این موضع‌گیری نشان می‌دهد که در صورت کوچکترین خطای محاسباتی، گزینه نظامی روی میز ترامپ کاملاً فعال است."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی و تشدید فشار روانی بر بازارهای داخلی ایران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Idaho Learning News",
-        "url": "https://www.msn.com/en-us/news/other/trump-warns-iran-it-is-locked-and-loaded-as-130-leaders-gather-at-the-un/ar-AA2cPema",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-iran-it-is-locked-and-loaded-as-130-leaders-gather-at-the-un/ar-AA2cPema",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790163333.0
     }
 ]
