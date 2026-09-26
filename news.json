@@ -19,6 +19,25 @@
         "timestamp": 1790385655.0
     },
     {
+        "id": "88867c5dec",
+        "title_fa": "پیشنهاد بازگشایی تنگه هرمز و بازرسی اتمی از سوی پزشکیان",
+        "title_en": "Iranian President Masoud Pezeshkian talks about proposal to reopen Strait of Hormuz, says Iran would allow nuclear inspectors",
+        "summary": [
+            "مسعود پزشکیان در مصاحبه با سی‌بی‌اس نیوز از وجود فضای بی‌اعتمادی عمیق نسبت به واشنگتن خبر داد و سابقه توافقات گذشته را یادآور شد.",
+            "تهران پیشنهاد داده است در ازای پذیرش شرایط، تنگه هرمز را بازگشایی کند و بازرسان اتمی را بپذیرد.",
+            "دولت ج...هوری اس...لامی خواستار مشخص شدن اهداف دقیق پیش از هرگونه دیدار با دونالد ترامپ شده است."
+        ],
+        "impact": "این پیشنهاد دیپلماتیک می‌تواند تنش‌های دریایی را کاهش دهد اما همچنان نیازمند پاسخ صریح واشنگتن است.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/iran-president-masoud-pezeshkian-proposal-trump-strait-of-hormuz-war/",
+        "clean_url": "https://www.cbsnews.com/news/iran-president-masoud-pezeshkian-proposal-trump-strait-of-hormuz-war",
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/25/c66750ce-6d89-4631-b035-c4d4b2a23bfd/thumbnail/1200x630g2/78d8e36396f720eb2db411b73280e5c5/21-00-20260925-085500-ftn-masoud-pezeshkian-interview-guest-iso-liveu-2-2-mxf.png",
+        "timestamp": 1790385000.0
+    },
+    {
         "id": "e41aebad4d",
         "title_fa": "رد آتش‌بس با ج*هوری اس*لامی توسط ترامپ و احتمال بمباران مجدد",
         "title_en": "Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.iranintl.com/202609231880",
         "image": "http://www.bing.com/th?id=ONUT.SSTMOSd6fY6wN0IOGbbRmA&pid=News",
         "timestamp": 1790162760.0
-    },
-    {
-        "id": "4e276b95ad",
-        "title_fa": "نبرد حقوقی ترامپ با رسانه‌های بزرگ در دادگاه",
-        "title_en": "Trump administration will defend its ban of three prominent news outlets in court hearing",
-        "summary": [
-            "دولت ترامپ برای دفاع از تصمیم خود در محروم کردن سی‌ان‌ان و پولیتیکو از کاخ سفید، وارد چالش حقوقی سختی شده است.",
-            "رسانه‌ها این اقدام را نقض صریح متمم اول قانون اساسی و سرکوب آزادی بیان توصیف کرده‌اند."
-        ],
-        "impact": "افزایش تنش میان قوه مجریه و رسانه‌های جریان اصلی در آمریکا.",
-        "tag": "رسانه",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Los Angeles Daily News",
-        "url": "https://www.dailynews.com/2026/09/23/trump-media-ban-court-defense/",
-        "clean_url": "https://www.dailynews.com/2026/09/23/trump-media-ban-court-defense",
-        "image": "https://www.dailynews.com/wp-content/uploads/2026/09/Trump_37438_82bc56-1.jpg?w=2000&h=1333",
-        "timestamp": 1790162640.0
     }
 ]
