@@ -278,6 +278,26 @@
         "timestamp": 1790404936.0
     },
     {
+        "id": "c331c4f9f1",
+        "title_fa": "تکذیب سفر هیات مذاکره‌کننده به نیویورک و بحران تحریم‌ها",
+        "title_en": "رسانه وابسته به سپاه: هیچ هیات فنی برای مذاکره با آمریکا به نیویورک نرفته است",
+        "summary": [
+            "خبرگزاری تسنیم وابسته به سپاه، خبر اعزام هرگونه هیات فنی برای مذاکره با آمریکا به نیویورک را رد کرد.",
+            "عباس عراقچی و همراهان طبق برنامه قبلی سه‌شنبه به کشور برمی‌گردند.",
+            "تحریم‌های جدید هواپیمایی، شریان حیاتی زنجیره اقتصادی با ۱.۷ میلیون شغل را هدف گرفته است.",
+            "لغو پروازهای خارجی، آژانس‌های مسافرتی را با چالش‌های سنگین مالی و حقوقی برای استرداد پول مسافران روبرو کرده است."
+        ],
+        "impact": "فلج شدن صنعت هواپیمایی و تشدید بحران اقتصادی ناشی از تحریم‌های جدید",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609262625",
+        "clean_url": "https://www.iranintl.com/202609262625",
+        "image": "http://www.bing.com/th?id=ONUT.IwS6JyH9a7uIkb0tHjdfvg&pid=News",
+        "timestamp": 1790402940.0
+    },
+    {
         "id": "66b355fffa",
         "title_fa": "نمایش تنش‌آفرین ترامپ با انتشار نقشه تنگه ترامپ",
         "title_en": "Trump posts map showing 'Trump Strait' off Iran, and other Mideast developments",
@@ -5468,24 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmdFZk9VQjV1SFV2eDM3S2JJQ3MtcTl5SWQ1Z2hVUzQtaXdYMm1tOXdCcnF0Z3FKeVBJZzFDSnNPemctUU5BcEU3VU9HakJBVVBTUFdlOUZLN3hYbnhOZFBqUDBQU2RDdmVHZ01KZnhaRU84c05lMUpfNVM4YXVjaklGNGY1SGhjVlZsRDhhNmlGVFJqN2xROEthU041emEwVWdONDBzelVvZFFkRGM4eVpwYS14MVBQb2pj",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790182109.0
-    },
-    {
-        "id": "19042ae984",
-        "title_fa": "شکاف در پایگاه ترامپ بر سر جنگ با ا...",
-        "title_en": "Why a Growing Number of Republicans Are Breaking With Trump on Iran",
-        "summary": [
-            "نمایندگی‌های جمهوری‌خواه در کنگره با حمایت از قطعنامه اختیارات جنگی، فاصله خود را با سیاست‌های ترامپ بیشتر کرده‌اند.",
-            "فشار اقتصادی جنگ و طولانی شدن آن، محبوبیت ترامپ را حتی در میان رای‌دهندگان سنتی حزب جمهوری‌خواه به شدت کاهش داده است.",
-            "تهدیدهای اتمی و لحن تهاجمی ترامپ درباره نابودی ایران در حالی مطرح می‌شود که مذاکرات صلح در بن‌بست کامل قرار دارد."
-        ],
-        "impact": "افزایش مخالفت‌های داخلی در آمریکا می‌تواند دست ترامپ را برایادامه تنش نظامی محدود کند.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/why-growing-number-republicans-breaking-233605541.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/why-growing-number-republicans-breaking-233605541.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/06aa3b94eb7224036a1611a4215e794cbfdb32a9b18fc9af67ff96c7b65903da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Ff4a3fef4b33d99ca81ad5648ab6aa278.jpg",
-        "timestamp": 1790181360.0
     }
 ]
