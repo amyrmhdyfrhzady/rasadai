@@ -241,6 +241,25 @@
         "timestamp": 1790381425.0
     },
     {
+        "id": "de8cfacd47",
+        "title_fa": "اولتیماتوم مستقیم ترامپ: توافق تازه یا نابودی کامل ج.ا",
+        "title_en": "Trump at the UN: Things can only get worse",
+        "summary": [
+            "دونالد ترامپ در سازمان ملل تقابل با تهران را به نقطه صفر و یک رساند و گزینه روی میز را میان توافق اقتصادی یا نابودی نظامی ارزیابی کرد.",
+            "این لحن تند و بی‌سابقه، از تغییر بازی واشنگتن به سمت ضربه سخت نظامی در صورت تداوم تنش حکایت دارد.",
+            "هم‌زمانی این هشدارها با ناامنی خطوط کشتیرانی و انرژی در خلیج فارس، احتمال آغاز عملیات بازدارنده ضربتی را دوچندان کرده است."
+        ],
+        "impact": "افزایش آنی سایه جنگ بر سر بازار تهران و آماده‌باش سامانه‌های پدافندی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Counterfire",
+        "url": "https://www.counterfire.org/article/trump-at-the-un-things-can-only-get-worse/",
+        "clean_url": "https://www.counterfire.org/article/trump-at-the-un-things-can-only-get-worse",
+        "image": "https://uploads.counterfire.org/uploads/2026/09/trump3-Ig.jpg",
+        "timestamp": 1790380860.0
+    },
+    {
         "id": "dbfa1216cc",
         "title_fa": "حمایت سناتورهای اوهایو از رویکرد ترامپ در قبال ایـران",
         "title_en": "Ohio's U.S. senators stand behind Trump on Iran war as high gas prices continue",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU1BITTg2X284SVBlRmFFUUFzeDN1YlBOWEcteDN1S0tmZmx5R0F2WjQwS1ExcUVwRmVQc3dVd09rcExFbUZGTlZvbG5rSDl0R0hyaGQtMldodEdWTTNZZVFDd2NEMVpMV3IwLVdOcExBNVZSbTRoUdIBfkFVX3lxTE80bGdjQXNYNldKemZVSUlCOGVucVBvZjdSb3VLZlk0SWM0SHU4ZWFSdEU4d0FTUVpVOEtUN3YydGY2WTZXSjhkSzl5QXdfTWRyWUtqRzhGZVhUM3F5YU9PekxnckZHUG1VcXd3QlBiLWQ3RVJZaHBmZXVnOWtJUQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790173713.0
-    },
-    {
-        "id": "e371020a0c",
-        "title_fa": "تکرار ادعای رد سلاح اتمی از سوی رئیس‌جمهور ایران",
-        "title_en": "Iran's president rejects nuclear weapons amid ongoing scrutiny",
-        "summary": [
-            "موضع‌گیری جدید درباره رد ساخت سلاح اتمی بدون هیچ‌گونه تعهد تازه یا عقب‌نشینی واقعی از برنامه‌ها صورت گرفته است.",
-            "نهادهای اطلاعاتی آمریکا همچنان بر پیشرفت‌های فنی ایران و توانایی ساخت سریع تسلیحات در صورت تصمیم نهایی تأکید دارند."
-        ],
-        "impact": "تلاش برای کاهش فشارهای آژانس اتمی بدون ایجاد تغییر در رفتارهای هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/irans-president-rejects-nuclear-weapons-amid-ongoing-scrutiny/",
-        "clean_url": "https://cryptobriefing.com/irans-president-rejects-nuclear-weapons-amid-ongoing-scrutiny",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/23102202/commons-picker-govcommonsdd8bc220c8bf6094-16-800x450.jpg",
-        "timestamp": 1790173320.0
     }
 ]
