@@ -403,6 +403,25 @@
         "timestamp": 1790345820.0
     },
     {
+        "id": "87841bfc10",
+        "title_fa": "بن‌بست در تنگه هرمز؛ شرط تندروها برای واشنگتن",
+        "title_en": "Trump’s Iran ‘Breakthrough’ Slams Into Tehran’s Strait Demands Again",
+        "summary": [
+            "محسن رضایی اعلام کرده است که تنگه هرمز تنها در صورت پذیرش کامل تمام خواسته‌های تهران بازگشایی خواهد شد و هیچ طرح مرحله‌ای قابل قبول نیست.",
+            "ادعای دولت ترامپ درباره توافق اولیه با حاکمیت جـمـهـوریاسـلامـی با دیوار بلند مطالبات سخت‌سرانه تهران برخورد کرده است.",
+            "تهران اصرار دارد که ایالات متحده باید نخستین قدم را بردارد و پیش‌شرط‌های کامل را اجرا کند."
+        ],
+        "impact": "تشدید ریسک امنیتی در آبراه حیاتی نفت و شکست تلاش‌های دیپلماتیک کاخ سفید برای حل بحران.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-iran-breakthrough-slams-tehran-211346277.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-iran-breakthrough-slams-tehran-211346277.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/05df3879ef1b29e50065a79c07470262472da37550ec9413c2ddade85efbaecc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmeidastouch_articles_379%2F5fff50c20f7e52f02b5476cda76d30f2.jpg",
+        "timestamp": 1790345580.0
+    },
+    {
         "id": "437aa37347",
         "title_fa": "پیشنهاد معامله اتمی و باز شدن تنگه هرمز در ازای لغو محاصره",
         "title_en": "Iran proposes reopening Strait, resuming nuclear talks if US lifts blockade",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202609236056",
         "image": "http://www.bing.com/th?id=ONUT.wCSCrlKeJIdFmWP_S6UKrA&pid=News",
         "timestamp": 1790160420.0
-    },
-    {
-        "id": "b1bbc3f257",
-        "title_fa": "ضربات مرگبار در سراوان و قطع کامل دسترسی‌های بانکی دبی",
-        "title_en": "رسانه وابسته به سپاه: فرمانده قرارگاه سجاد سراوان در درگیری با افراد مسلح کشته شد",
-        "summary": [
-            "فرمانده قرارگاه سجاد سراوان در درگیری با افراد مسلح کشته شد و تلفات سنگینی به نیروهای نظامی وارد شد.",
-            "بانک مرکزی امارات تمامی تراکنش‌های شعب بانک ملی ایران را به دلیل اتهامات پولشویی و تامین مالی تروریسم ممنوع کرد."
-        ],
-        "impact": "تخلیه کامل شریان‌های مالی حاکمیت در امارات و تشدید ناامنی‌های مرزی.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609233277",
-        "clean_url": "https://www.iranintl.com/202609233277",
-        "image": "http://www.bing.com/th?id=ONUT.7x7cD02CVeRGo9l1YRol5Q&pid=News",
-        "timestamp": 1790160000.0
     }
 ]
