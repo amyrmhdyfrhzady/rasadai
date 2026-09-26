@@ -1,5 +1,24 @@
 [
     {
+        "id": "c5b4b1e931",
+        "title_fa": "هشدار مقام سابق آمریکایی درباره خطای محاسباتی ج.ا در برابر ترامپ",
+        "title_en": "Iran wrong to expect midterms to restrain Trump, former US official says",
+        "summary": [
+            "مورگان اورتگاس تاکید کرد محاسبات تهــران مبنی بر اینکه انتخابات میان‌دوره‌ای آمریکا دست دونالد ترامپ را می‌بندد، کاملاً اشتباه است.",
+            "تجربه دوره اول ریاست جمهوری ترامپ نشان داد که تغییرات کنگره مانع اجرای سیاست فشار حداکثری یا حذف قاسم سلیمانی نشد.",
+            "مقامات حاکمیت همچنان در درک ساختار تصمیم‌گیری رئیس‌جمهور آمریکا دچار خطای استراتژیک هستند."
+        ],
+        "impact": "ته‌ران نباید روی تحولات داخلی آمریکا برای کاهش فشارهای خارجی حساب باز کند.",
+        "tag": "آمریکا",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609258777",
+        "clean_url": "https://www.iranintl.com/en/202609258777",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b8d1d582295237e170606dd00470572dfaadb690-4032x2268.jpg?rect=39,0,3402,2268&w=576&h=384&q=58&fit=max&auto=format",
+        "timestamp": 1790450400.0
+    },
+    {
         "id": "7f78d1b02d",
         "title_fa": "رد پیشنهاد کنترل تنگه هرمز از سوی ترامپ",
         "title_en": "US-Iran war news updates: Donald Trump rejects Iran's proposal to reopen the Strait of Hormuz",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://www.iranintl.com/en/202609247510",
         "image": "http://www.bing.com/th?id=ONUT.yjmcoDmwxHOSmrMh3b5A8w&pid=News",
         "timestamp": 1790201400.0
-    },
-    {
-        "id": "dd7dbcd893",
-        "title_fa": "حضور هیئت تهران در سازمان ملل؛ مانور دیپلماتیک در اوج انزوا",
-        "title_en": "Iran’s UNGA Moment",
-        "summary": [
-            "تلاش مجدد تهران برای استفاده از تریبون نیویورک جهت کاهش فشارهای بین‌المللی و نمایش چهره‌ای انعطاف‌پذیر.",
-            "تأکید بر چانه‌زنی هسته‌ای و رفع تحریم‌ها، بدون ارائه هیچ سیگنال واقعی برای تغییر رفتارهای منطقه‌ای.",
-            "شکاف عمیق میان شعارهای صلح‌طلبانه در نیویورک و واقعیت‌های میدانی، مانع هرگونه گشایش ملموس دیپلماتیک است."
-        ],
-        "impact": "این نمایش‌های دیپلماتیک بدون تغییر سیاست‌های اصلی، تأثیری بر لغو تحریم‌ها یا خروج بازار از رکود نخواهد داشت.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "foreignpolicy.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3VqQmwzSnNDNDBOUXJXNVlfaDNwWnhGaURTZGJLVUlSeXhMcmEzWG13OWlKRGVQQXc2eVktel9UX0lUV1o3bFpvYTFIQlpqSjk1Z0lPd19XcktXSHRpX0JqUXNzOVA2ZEprOE9ydEppb01JNS13X0R1TnJ1dy1odVYxYzdFTGlQZ1VTU1ZQbEluX1hkek1BWWFtbFY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3VqQmwzSnNDNDBOUXJXNVlfaDNwWnhGaURTZGJLVUlSeXhMcmEzWG13OWlKRGVQQXc2eVktel9UX0lUV1o3bFpvYTFIQlpqSjk1Z0lPd19XcktXSHRpX0JqUXNzOVA2ZEprOE9ydEppb01JNS13X0R1TnJ1dy1odVYxYzdFTGlQZ1VTU1ZQbEluX1hkek1BWWFtbFY",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790201250.0
     }
 ]
