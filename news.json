@@ -1,5 +1,24 @@
 [
     {
+        "id": "6ecf46d2ec",
+        "title_fa": "سایه جنگ ایران بر اقتصاد فلج عراق",
+        "title_en": "Iran war squeezes Iraq's economy as oil revenues fall and prices rise",
+        "summary": [
+            "کاهش درآمد نفتی و جهش قیمت‌ها در عراق به دلیل تنش‌های منطقه‌ای",
+            "وابستگی شدید بغداد به نفت و کالاهای وارداتی اقتصاد این کشور را شکننده کرده است",
+            "افت ارزش دینار در برابر دلار فشار معیشتی بر مردم عراق را چند برابر کرده است"
+        ],
+        "impact": "تنش‌های نظامی زنجیره تأمین در عراق را مختل کرده و این کشور را به سمت بحران ارزی می‌راند.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-war-squeezes-iraq-s-economy-as-oil-revenues-fall-and-prices-rise/ar-AA2d0hML",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-squeezes-iraq-s-economy-as-oil-revenues-fall-and-prices-rise/ar-AA2d0hML",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab6b31044-1790358288.jpg?resize=1920,1440",
+        "timestamp": 1790410386.0
+    },
+    {
         "id": "0a393a2c2e",
         "title_fa": "کمبود شدید دارو در ایران تحت فشار تحریم‌های آمریکا",
         "title_en": "Medicines run short in Iran under US sanctions",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-abbas-araghchi-steve-witkoff-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134425552.cms",
         "image": "https://static.toiimg.com/thumb/msid-134425552,width-1280,height-720,imgsize-96479,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1790174340.0
-    },
-    {
-        "id": "fe45f0bab0",
-        "title_fa": "فرافکنی مسعود پزشکیان در سازمان ملل علیه آمریکا و اسرائیل",
-        "title_en": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
-        "summary": [
-            "رئیس‌جمهور ج.ا در سازمان ملل تلاش کرد با متهم کردن آمریکا و اسرائیل، بحران‌های بین‌المللی را به گردن غرب بیندازد.",
-            "این سخنرانی تداوم همان خط تکرشتی و جنگ روانی شکست‌خورده برای پنهان کردن نقش مداخلات منطقه‌ای در بی‌ثباتی‌هاست."
-        ],
-        "impact": "تلاشی ناکام برای مشروعیت‌زدایی از مواضع غرب در تریبون بین‌المللی",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU1BITTg2X284SVBlRmFFUUFzeDN1YlBOWEcteDN1S0tmZmx5R0F2WjQwS1ExcUVwRmVQc3dVd09rcExFbUZGTlZvbG5rSDl0R0hyaGQtMldodEdWTTNZZVFDd2NEMVpMV3IwLVdOcExBNVZSbTRoUdIBfkFVX3lxTE80bGdjQXNYNldKemZVSUlCOGVucVBvZjdSb3VLZlk0SWM0SHU4ZWFSdEU4d0FTUVpVOEtUN3YydGY2WTZXSjhkSzl5QXdfTWRyWUtqRzhGZVhUM3F5YU9PekxnckZHUG1VcXd3QlBiLWQ3RVJZaHBmZXVnOWtJUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU1BITTg2X284SVBlRmFFUUFzeDN1YlBOWEcteDN1S0tmZmx5R0F2WjQwS1ExcUVwRmVQc3dVd09rcExFbUZGTlZvbG5rSDl0R0hyaGQtMldodEdWTTNZZVFDd2NEMVpMV3IwLVdOcExBNVZSbTRoUdIBfkFVX3lxTE80bGdjQXNYNldKemZVSUlCOGVucVBvZjdSb3VLZlk0SWM0SHU4ZWFSdEU4d0FTUVpVOEtUN3YydGY2WTZXSjhkSzl5QXdfTWRyWUtqRzhGZVhUM3F5YU9PekxnckZHUG1VcXd3QlBiLWQ3RVJZaHBmZXVnOWtJUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790173713.0
     }
 ]
