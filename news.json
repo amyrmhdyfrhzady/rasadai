@@ -239,6 +239,25 @@
         "timestamp": 1790418076.0
     },
     {
+        "id": "9e8cd2e4d8",
+        "title_fa": "فشار حداکثری واشنگتن؛ ترامپ: تهران برای توافق له شده است",
+        "title_en": "Trump says Iran wants to make a deal over the Strait of Hormuz 'because they're dying'",
+        "summary": [
+            "دونالد ترامپ تاکید کرد که حکومت ج.ا به دلیل فروپاشی اقتصادی ناچار به توافق بر سر تنگه هرمز است.",
+            "وزارت خزانه‌داری آمریکا با اجرای عملیات طرد اقتصادی، تمام خطوط هوایی وابسته به حاکمیت تهران را از چهارشنبه زمین‌گیر می‌کند.",
+            "نخست‌وزیر عراق برای معافیت فرودگاه‌های این کشور از تحریم‌های جدید پروازهای ایرانی، به دنبال توافق با تیم مالی آمریکاست."
+        ],
+        "impact": "فلج شدن کامل خطوط هوایی حاکمیت و تنگ‌تر شدن حلقه محاصره مالی با فشار مستقیم کاخ سفید.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-oil-gas-prices-midterms-09-26-26",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-oil-gas-prices-midterms-09-26-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/304ccf69319e1d4e260f916ec5c51e8a.jpg?tl=1&ve=1",
+        "timestamp": 1790417940.0
+    },
+    {
         "id": "86c4ec66e8",
         "title_fa": "اولتیماتوم ۴۸ ساعته ترامپ؛ توافق یا تخریب کامل",
         "title_en": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours - ABC News",
@@ -5476,23 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTZOSE1lOVFNSFZYRm1oUjNhbDU0YU9oMDRCNFo2dzNLRl9FLV9XSjZwODl2WTA5TXVuUDNFcGxkbmpZcmJjRmFhRG5aWVZNMWp1ODI1d3dISWxISjczdDJkVUlSSXc1Z29wT2R5NWpWZVdEV1R3LUl2TnMtUEZBZi1OWTFVQlFrVkRNRTRuSWV3UWd6Z1JfNDZ1Vl9WeUEzUkFHNVY2OXkzNTF0",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790200636.0
-    },
-    {
-        "id": "e32ea86697",
-        "title_fa": "دور زدن تحریم‌های نفتی ایران در کانون مذاکرات واشینگتن و پکن",
-        "title_en": "Xi Jinping's White House visit: Shifting Chinese views & skirting Iran oil sanctions",
-        "summary": [
-            "سفر شی جین‌پینگ به کاخ سفید با تمرکز بر خرید نفت ارزان ج.ا توسط چین و دور زدن تحریم‌ها همراه شده است.",
-            "آمریکا تلاش می‌کند پکن را برای کاهش خریدهای نفتی از تهران تحت فشار بگذارد تا شریان مالی رژ*یم قطع شود."
-        ],
-        "impact": "احتمال تشدید نظارت‌ها بر نفتکش‌های شبح و کاهش درآمدهای ارزی تهران.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmwzQzZtSmQxa3ViaE91Vkt2Z2lLTEY5Q20tU0pLRGFjTjdIU2xLc1dfYWZRR3NZeDJMTy10SXlxWnBWamhhX0lhckRLdTVkeHlYdFo3bmVmSEpsQ3Fua296SU5qSUhWYUdMQVNZU3NaM1l1LXVwSy1zamtoN3VmX01ISUJmN1NVS2ZvTjh0UFRHQXBiLWFYQnoybnFVMVNaMVdIN1V1NjhUdlRsQVNLbHRzcW9qUXJCUG5UdTV3STZGRlk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmwzQzZtSmQxa3ViaE91Vkt2Z2lLTEY5Q20tU0pLRGFjTjdIU2xLc1dfYWZRR3NZeDJMTy10SXlxWnBWamhhX0lhckRLdTVkeHlYdFo3bmVmSEpsQ3Fua296SU5qSUhWYUdMQVNZU3NaM1l1LXVwSy1zamtoN3VmX01ISUJmN1NVS2ZvTjh0UFRHQXBiLWFYQnoybnFVMVNaMVdIN1V1NjhUdlRsQVNLbHRzcW9qUXJCUG5UdTV3STZGRlk",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790199062.0
     }
 ]
