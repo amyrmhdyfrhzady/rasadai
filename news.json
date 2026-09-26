@@ -185,6 +185,25 @@
         "timestamp": 1790388240.0
     },
     {
+        "id": "e8084658ff",
+        "title_fa": "تحرک دیپلماتیک جـ.ـهـ.ـوری اسلامی در نیویورک و بن‌بست پیشنهاد جدید",
+        "title_en": "A good week for Iran at the UN – but latest offer to the US appears a non-starter",
+        "summary": [
+            "عباس عراقچی و مسعود پزشکیان در حاشیه مجمع عمومی سازمان ملل با مقامات ارشد غربی و منطقه‌ای دیدار کردند.",
+            "پیشنهاد جدید تهران به فرستاده آمریکا با بدبینی روبه‌رو شده و عملاً راه به جایی نبرده است.",
+            "پزشکیان با شعارهای ضدآمریکایی تلاش کرد پایگاه تندروهای داخلی را حفظ کند."
+        ],
+        "impact": "تلاش‌های دیپلماتیک تهران برای کاهش فشارها در نیویورک تاکنون خروجی ملموسی نداشته است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/good-week-iran-un-latest-090338940.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/good-week-iran-un-latest-090338940.html",
+        "image": "http://www.bing.com/th?id=ONUT.srIN2zHWTLerDh5zjuZpkQ&pid=News",
+        "timestamp": 1790388180.0
+    },
+    {
         "id": "a7aed68ce7",
         "title_fa": "نقشه ترامپ برای ضربات نظامی به رژ*یم پس از انتخابات",
         "title_en": "Trump doubts Iran deal, plans renewed strikes after midterms: WSJ",
@@ -5468,24 +5487,5 @@
         "clean_url": "https://www.iranintl.com/202609235297",
         "image": "http://www.bing.com/th?id=ONUT.sO4aPek1eN3DylYQK3ULsg&pid=News",
         "timestamp": 1790174460.0
-    },
-    {
-        "id": "8215801f0c",
-        "title_fa": "پزشکیان در سازمان ملل: تهدیدها ملت را متحد می‌کند",
-        "title_en": "US-Iran War Live Updates: 'We will never bow our head'",
-        "summary": [
-            "مسعود پزشکیان در مجمع عمومی مدعی شد تهران به دنبال بمب اتم نیست اما از فناوری صلح‌آمیز عقب‌نشینی نمی‌کند.",
-            "او با انتقاد از فشارها، مدعی شد اسرائیل دست به کشتار می‌زند اما ایران تحریم می‌شود.",
-            "پزشکیان خطاب به دونالد ترامپ تأکید کرد که فشارها نتیجه عکس می‌دهد و باعث همبستگی بیشتر می‌شود."
-        ],
-        "impact": "تکرار مواضع سنتی جمهوری اسلامی در مجامع بین‌المللی بدون تغییر در رویکرد هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-abbas-araghchi-steve-witkoff-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134425552.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-abbas-araghchi-steve-witkoff-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134425552.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134425552,width-1280,height-720,imgsize-96479,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1790174340.0
     }
 ]
