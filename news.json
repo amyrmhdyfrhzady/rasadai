@@ -165,6 +165,43 @@
         "timestamp": 1790427360.0
     },
     {
+        "id": "c66864fb07",
+        "title_fa": "معطلی دو ساعته هواپیمای پزشکیان در الجزایر برای سوخت‌گیری",
+        "title_en": "پزشکیان: حدود دو ساعت در الجزایر برای سوخت‌گیری معطل شدیم",
+        "summary": [
+            "محدودیت‌های فنی و تحریم ناوگان هوایی باعث شد پرواز هیئت دولتی برای رسیدن به آمریکا نیازمند توقف سوخت‌گیری در الجزایر شود.",
+            "تلاش پزشکیان برای پررنگ کردن دیدار تشریفاتی با وزیر کشور الجزایر، پوششی بر ضعف لجستیکی پروازهای رسمی بود."
+        ],
+        "impact": "آشکار شدن ابعاد عملیاتی انزوای ناوگان هوایی حتی در سفرهای رسمی دیپلماتیک.",
+        "tag": "انزوای دیپلماتیک",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609266006",
+        "clean_url": "https://www.iranintl.com/202609266006",
+        "image": "http://www.bing.com/th?id=ONUT.ffHCEkuW6J6WX8O5InTU8Q&pid=News",
+        "timestamp": 1790425920.0
+    },
+    {
+        "id": "c5ab811d00",
+        "title_fa": "سکوت عراقچی و تخت‌روانچی در برابر سوالات درباره جنگ و توافق",
+        "title_en": "سکوت عراقچی و تخت‌روانچی در برابر پرسش‌های ایران‌اینترنشنال",
+        "summary": [
+            "عباس عراقچی و مجید تخت‌روانچی در مقابل سوالات صریح رسانه‌ای درباره احتمال درگیری نظامی و تماس با چهره‌های آمریکایی کاملاً دست‌پاچه سکوت کردند.",
+            "گریز مذاکره‌کنندگان ارشد از پاسخگویی، بن‌بست عمیق در کانال‌های ارتباطی و نبود پاسخ مشخص برای سناریوهای بحران را نشان می‌دهد.",
+            "تیم دیپلماسی در برابر افکار عمومی هیچ چشم‌انداز یا دستاورد ملموسی برای تنش‌زدایی در چنته ندارد."
+        ],
+        "impact": "افزایش بلاتکلیفی سیاسی در بازارها و تداوم سایه درگیری نظامی به دلیل بی‌نتیجه ماندن رایزنی‌های نیویورک.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609260549",
+        "clean_url": "https://www.iranintl.com/202609260549",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790425740.0
+    },
+    {
         "id": "82f043fdfb",
         "title_fa": "تأکید مجدد ترامپ بر خط قرمز هسته‌ای تهران",
         "title_en": "Trump says Iran cannot have nuclear weapon",
@@ -182,6 +219,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzTkRfbDliOUxHbHpDVTdGNkEzNnd6c2JMb0tVVU12ZDdnTlc0cHdfU0tmY09kLXNhZmwyaU5nb05KTGFqdjEtZDFkY1Y",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790425541.0
+    },
+    {
+        "id": "e1168df5b3",
+        "title_fa": "تغییر سخنرانی پزشکیان در سازمان ملل پس از مواضع ترامپ",
+        "title_en": "پزشکیان: سخنرانی خود در سازمان ملل را پس از اظهارات ترامپ تغییر دادم",
+        "summary": [
+            "پزشکیان مستقیماً اعتراف کرد که سخنان قاطع دونالد ترامپ متن آماده‌شده هیئت ایرانی را سوزاند و آنها را مجبور به بازنویسی دفاعی کرد.",
+            "مواضع سخت‌گیرانه ترامپ پروژه نمایش تنش‌زدایی و ژست اعتدال دولت را در بدو ورود به نیویورک خنثی کرد.",
+            "دستپاچگی در تغییر برنامه نشان داد تهران تا چه حد نسبت به خطوط قرمز و لحن تهاجمی واشنگتن منفعل است."
+        ],
+        "impact": "به هم ریختن بازی دیپلماتیک تهران در مجمع عمومی و ناکام ماندن سیگنال‌های مثبت به غرب.",
+        "tag": "ترامپ",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609260570",
+        "clean_url": "https://www.iranintl.com/202609260570",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790425440.0
     },
     {
         "id": "0eae1a22a0",
@@ -5438,60 +5494,5 @@
         "clean_url": "https://www.outlookindia.com/international/from-sanctions-to-standoff-how-irans-airport-threat-could-rattle-gulf-aviation",
         "image": "https://cf-images.assettype.com/outlookindia/2026-09-24/3ezest9r/1c424c0e18f44328900f34df13d55e87.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
         "timestamp": 1790205180.0
-    },
-    {
-        "id": "a3b8bc3b7c",
-        "title_fa": "واکنش وزارت خارجه ج.ا به مواضع کانادا درباره آمریکا",
-        "title_en": "Iran accuses Canada’s Carney of downplaying US threat to ‘annihilate’ Iran",
-        "summary": [
-            "اسماعیل بقایی، سخنگوی وزارت خارجه ج.ا، مارک کارنی را به مماشات با سیاست‌های واشنگتن متهم کرد.",
-            "تهران مدعی شد کشورهای حامی سیاست‌های آمریکا در نهایت تسلیم فشارهای این کشور خواهند شد."
-        ],
-        "impact": "تلاش دست‌نشاندگان دستگاه دیپلماتیک برای فرافکنی بحران‌های ناشی از تهدیدات خارجی به سوی کشورهای دیگر.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609240969",
-        "clean_url": "https://www.iranintl.com/en/202609240969",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790203740.0
-    },
-    {
-        "id": "3e0db87635",
-        "title_fa": "ادامه تنش‌های دریایی و تهدید حوثی‌ها به مسدودسازی باب‌المندب",
-        "title_en": "Guerra de Irán, en directo | Los hutíes amenazan con bloquear Bab el-Mandeb",
-        "summary": [
-            "با وجود برقراری آتش‌بس شکننده، درگیری‌های دریایی و ناآبادی بازار نفت همچنان ادامه دارد.",
-            "گروه‌های نیابتی با تهدید مسیرهای حیاتی به دنبالستیزه‌جویی جدید هستند."
-        ],
-        "impact": "بازارهای جهانی انرژی همچنان در معرض شوک‌های قیمتی و نااطمینانی شدید قرار دارند.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "El Periódico",
-        "url": "https://www.elperiodico.com/es/internacional/20260924/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
-        "clean_url": "https://www.elperiodico.com/es/internacional/20260924/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
-        "image": "http://www.bing.com/th?id=ONUT.NiGREyExKm1OxD4p7JXskA&pid=News",
-        "timestamp": 1790203260.0
-    },
-    {
-        "id": "ff91ace438",
-        "title_fa": "حمله لفظی پزشکیان به ترامپ در اوج تنش‌های نظامی",
-        "title_en": "Iran-US war live: Iranian president hits out at 'bully' Trump",
-        "summary": [
-            "مسعود پزشکیان با متهم کردن واشنگتن به نقض قوانین بین‌المللی، دونالد ترامپ را «زورگو» خواند تا خط تبلیغاتی حاکمیت را پیش ببرد.",
-            "این مواضع تند کلامی، تلاشی برای مظلوم‌نمایی دیپلماتیک در برابر استراتژی فشار حداکثری و تهدیدات نظامی ترامپ محسوب می‌شود.",
-            "دست‌پایینی تهران در برابر تهدیدات مستقیم کاخ سفید، مسئولان را به سمت تبلیغات رسانه‌ای و جنگ روانی سوق داده است."
-        ],
-        "impact": "بسته‌شدن کامل منافذ دیپلماسی و افزایش احتمال مواجهه مستقیم یا تشدید تحریم‌های خفه‌کننده.",
-        "tag": "آمریکا",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-us-war-live-iranian-president-hits-out-at-bully-trump/ar-AA2cNtI4",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-live-iranian-president-hits-out-at-bully-trump/ar-AA2cNtI4",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790202026.0
     }
 ]
