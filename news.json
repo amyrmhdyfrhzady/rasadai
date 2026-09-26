@@ -186,6 +186,25 @@
         "timestamp": 1790402640.0
     },
     {
+        "id": "79046a9364",
+        "title_fa": "عقب‌نشینی تهران و طرح بازگشایی تنگه هرمز",
+        "title_en": "Iran president says supreme leader backs new plan to reopen Hormuz",
+        "summary": [
+            "مسعود پزشکیان اعلام کرد طرح بازگشایی تنگه هرمز با هماهنگی کامل مقامات ارشد نظام تهیه شده است.",
+            "تهران تلاش می‌کند از طریق میانجی‌گران، پیشنهادی را برای توافق با واشنگتن و پایان تنش‌ها به آمریکا منتقل کند.",
+            "تیم مذاکره‌کننده ایرانی آمادگی دارد در صورت پذیرش شرایط از سوی طرف مقابل، ظرف هفت روز تنگه هرمز را بازگشایی کند."
+        ],
+        "impact": "این پالس مثبت می‌تواند فشارهای نظامی و تنش‌های پیرامون آبراه حیاتی هرمز را به طور موقت کاهش دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/iran-president-says-supreme-leader-backs-new-plan-to-reopen-hormuz-article-14038902.html",
+        "clean_url": "https://www.moneycontrol.com/world/iran-president-says-supreme-leader-backs-new-plan-to-reopen-hormuz-article-14038902.html",
+        "image": "http://www.bing.com/th?id=ONUT.K6_-KdHe9dlqLR3cwLnv_Q&pid=News",
+        "timestamp": 1790395860.0
+    },
+    {
         "id": "a0b23c7252",
         "title_fa": "ادعای صلح‌طلبی پزشکیان همزمان با تاکید بر بی‌اعتمادی به آمریکا",
         "title_en": "Pezeshkian says Iran wants peace, 'distrust' of US remains",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-pezeshkian-at-un-we-re-open-to-talk-with-us-without-bullying-gaza-resistance-to-go-on/ar-AA2cPUbb",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790177193.0
-    },
-    {
-        "id": "d97d1ce66d",
-        "title_fa": "پاسخ پزشکیان به تهدید نابودی توسط ترامپ در سازمان ملل",
-        "title_en": "Iran's president says country won't surrender after Trump threat to 'annihilate' Islamic Republic",
-        "summary": [
-            "رئیس‌جمهور ج.م.ا در واکنشی صریح به تهدیدهای دونالد ترامپ، بر عدم تسلیم کشور تأکید کرد.",
-            "این سخنرانی در شرایط جنگی و پرتنش هفت ماه گذشته ایراد شده است."
-        ],
-        "impact": "تشدید تنش‌های لفظی میان واشنگتن و تهران در بالاترین سطح ممکن",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CBC.ca",
-        "url": "https://www.msn.com/en-ca/news/other/irans-president-says-country-wont-surrender-after-trump-threat-to-annihilate-islamic-republic/ar-AA2cP0Nq",
-        "clean_url": "https://www.msn.com/en-ca/news/other/irans-president-says-country-wont-surrender-after-trump-threat-to-annihilate-islamic-republic/ar-AA2cP0Nq",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790175495.0
     }
 ]
