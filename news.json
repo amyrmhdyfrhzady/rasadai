@@ -184,6 +184,25 @@
         "timestamp": 1790420187.0
     },
     {
+        "id": "fadc5ed6b0",
+        "title_fa": "تنگ‌تر شدن حلقه تحریم‌های مالی و هوایی علیه ط-ر-ف",
+        "title_en": "US Pressure Campaign Tightens Economic Noose on Iran",
+        "summary": [
+            "امارات متحده عربی و ترکیه فعالیت دو بانک بزرگ خصوصی مرتبط را متوقف کردند.",
+            "مقام ارشد خزانه‌داری آمریکا با سفر به منطقه، شرکای تجاری را درباره قطع دسترسی به سیستم مالی آمریکا تهدید کرد.",
+            "عملیات طرد اقتصادی با هدف قطع کامل شریان‌های مالی حکومت ج-مه-و-ر-ی ا-س-لا-م-ی در حال اجراست."
+        ],
+        "impact": "فلج شدن بیشتر مراودات مالی و پروازی با خارج از کشور و سقوط آزاد ارزش پول ملی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/us-pressure-campaign-tightens-economic-172426272.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/us-pressure-campaign-tightens-economic-172426272.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/e989bf4e81f3f1b5653b4ddac8e57d7befec493313fc8eaaaff542740fcad16a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2Fe1268bb1ecf19a9e14524a811a8725cb.jpg",
+        "timestamp": 1790418240.0
+    },
+    {
         "id": "32ed04fe02",
         "title_fa": "فشار حداکثری ترامپ بر کوبا بدون گزینه نظامی",
         "title_en": "ترامپ: آمریکا و کوبا به توافق خواهند رسید، فکر نمی‌کنم نیازی به اقدام نظامی باشد",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmwzQzZtSmQxa3ViaE91Vkt2Z2lLTEY5Q20tU0pLRGFjTjdIU2xLc1dfYWZRR3NZeDJMTy10SXlxWnBWamhhX0lhckRLdTVkeHlYdFo3bmVmSEpsQ3Fua296SU5qSUhWYUdMQVNZU3NaM1l1LXVwSy1zamtoN3VmX01ISUJmN1NVS2ZvTjh0UFRHQXBiLWFYQnoybnFVMVNaMVdIN1V1NjhUdlRsQVNLbHRzcW9qUXJCUG5UdTV3STZGRlk",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790199062.0
-    },
-    {
-        "id": "72a7552476",
-        "title_fa": "بحران انرژی و سقوط آزاد اقتصاد ج.ا در آستانه زمستان",
-        "title_en": "War deepens Iran’s energy crunch ahead of winter",
-        "summary": [
-            "افت شدید ۲۶ درصدی در بخش نفت و گاز، اقتصاد بـیمار جـهوری اسـلامی را زمین‌گیر کرده است.",
-            "با رسیدن فصل سرما، تـهران میان تامین گاز داخلی و صادرات آن دچار بن‌بست جدی شده است.",
-            "کوچک شدن ۱۰ درصدی تولید ناخالص داخلی نشان‌دهنده فروپاشی ساختارهای اقتصادی زیر سایه تنش‌های نظامی است."
-        ],
-        "impact": "تشدید بحران سوخت و انرژی در زمستان پیش‌رو، فشار بی‌سابقه‌ای بر معیشت مردم و نقدینگی حکومت وارد می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609235230",
-        "clean_url": "https://www.iranintl.com/en/202609235230",
-        "image": "http://www.bing.com/th?id=ONUT.tGh2gREdpdwmwCO1pOhIeA&pid=News",
-        "timestamp": 1790198940.0
     }
 ]
