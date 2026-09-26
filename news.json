@@ -331,6 +331,24 @@
         "timestamp": 1790356117.0
     },
     {
+        "id": "f4de2963bd",
+        "title_fa": "فرار پزشکیان از پاسخ به احتمال دیدار با ترامپ",
+        "title_en": "پزشکیان در مقابل پرسش‌های سی‌بی‌اس؛ از دیدار با ترامپ تا سرکوب معترضان",
+        "summary": [
+            "مسعود پزشکیان در مصاحبه با سی‌بی‌اس از پاسخ صریح به پیشنهاد مذاکره مستقیم با دونالد ترامپ شانه خالی کرد.",
+            "او شرط هرگونه گفت‌وگو را بازسازی اعتماد از دست‌رفته میان تهران و واشینگتن عنوان کرد."
+        ],
+        "impact": "بن‌بست دیپلماتیک میان تهران و دولت آینده آمریکا همچنان پابرجا مانده است.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609260762",
+        "clean_url": "https://www.iranintl.com/202609260762",
+        "image": "http://www.bing.com/th?id=ONUT.xrXdYxHJL2uY5PW6zgmd7A&pid=News",
+        "timestamp": 1790355660.0
+    },
+    {
         "id": "27ef7362b8",
         "title_fa": "هشدار اطلاعاتی آمریکا درباره احتمال دستیابی عربستان به سلاح هسته‌ای",
         "title_en": "واشینگتن‌پست: عربستان گزینه توسعه برنامه تسلیحات هسته‌ای را کنار نگذاشته است",
@@ -642,6 +660,24 @@
         "clean_url": "https://www.washingtonpost.com/national-security/2026/09/25/pentagon-quietly-adds-dozens-tally-troops-wounded-amid-iran-war",
         "image": "http://www.bing.com/th?id=ONUT.D818sN7BvpZnQG7N3ZbhvQ&pid=News",
         "timestamp": 1790340600.0
+    },
+    {
+        "id": "8437643f1e",
+        "title_fa": "آمادگی ساختاری برای خیزش پنجم در جـمهوری اسـلامی",
+        "title_en": "Video: Iran's next uprising is 'when, not if', says former US adviser",
+        "summary": [
+            "فشار حداکثری و بلوکه شدن درآمدهای نفتی، توان مالی کـوخـوردهای حکومتی را به شدت فلج کرده است.",
+            "مقامات امنیتی سابق آمریکا تاکید می‌کنند فروپاشی اقتصادی، پرداخت حقوق نیروهای سرکوب را با بحران جدی روبه‌رو کرده است."
+        ],
+        "impact": "تشدید بحران مالی به زودی بهانه‌ای برای بازگشت اعتراضات خیابانی خواهد شد.",
+        "tag": "اعتراضات",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609265864",
+        "clean_url": "https://www.iranintl.com/en/202609265864",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790338860.0
     },
     {
         "id": "b5fddec3eb",
@@ -5449,41 +5485,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-iran-it-is-locked-and-loaded-as-130-leaders-gather-at-the-un/ar-AA2cPema",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790163333.0
-    },
-    {
-        "id": "90b84cc42d",
-        "title_fa": "محاصره دریایی ایران؛ سنتکام مسیر ۱۱۵ کشتی را تغییر داد",
-        "title_en": "سنتکام: مسیر ۱۱۵ کشتی را برای جلوگیری از ورود به بنادر ایران یا خروج از آنها تغییر دادیم",
-        "summary": [
-            "نیروهای سنتکام با اجرای طرح محاصره دیوار فولادی، مسیر بیش از صد کشتی تجاری را از بنادر ایران منحرف کردند.",
-            "این تحولات همزمان با سفر رئیس‌جمهور چین به واشینگتن و فشار همه‌جانبه بر شریان‌های تجاری ایران پیگیری می‌شود."
-        ],
-        "impact": "فلج شدن بیشتر صادرات و واردات دریایی و تنگ‌تر شدن حلقه محاصره اقتصادی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609236871",
-        "clean_url": "https://www.iranintl.com/202609236871",
-        "image": "http://www.bing.com/th?id=ONUT.kHXRlG1cH6W0Biu7FQ7lqQ&pid=News",
-        "timestamp": 1790163000.0
-    },
-    {
-        "id": "43b051311a",
-        "title_fa": "امنیت نتانیاهو در نیویورک به چالش کشیده شد",
-        "title_en": "نیویورک‌پست: سه مرد در نزدیکی هتل محل اقامت احتمالی نتانیاهو از دریچه فاضلاب بیرون آمدند",
-        "summary": [
-            "خروج سه فرد ناشناس از دریچه فاضلاب نزدیک محل اقامت نتانیاهو در نیویورک زنگ خطرهای امنیتی را به صدا درآورد.",
-            "پلیس نیویورک به سرعت وارد عمل شده و در حال بررسی ابعاد این نفوذ مشکوک است."
-        ],
-        "impact": "افزایش شدید تدابیر حفاظتی و امنیتی پیرامون مقام‌های ارشد اسرائیل در خاک آمریکا.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609231880",
-        "clean_url": "https://www.iranintl.com/202609231880",
-        "image": "http://www.bing.com/th?id=ONUT.SSTMOSd6fY6wN0IOGbbRmA&pid=News",
-        "timestamp": 1790162760.0
     }
 ]
