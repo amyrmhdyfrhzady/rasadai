@@ -1,5 +1,24 @@
 [
     {
+        "id": "b846636ccf",
+        "title_fa": "هراس پزشکیان از رویارویی مستقیم با ترامپ",
+        "title_en": "Alasan Presiden Iran Pezeshkian Masih Ogah Temui Trump",
+        "summary": [
+            "ترس از تندروهای داخلی و بازوهای نظامی، دست و پای پزشکیان را برای هرگونه مذاکره مستقیم با ترامپ بسته است.",
+            "تجربه دور قبلی ریاست‌جمهوری ترامپ و سیاست فشار حداکثری، تهران را دچار وحشت تصمیم‌گیری کرده است.",
+            "ترامپ به دنبال تسلیم کامل حکومت ایران است، در حالی که رئیس‌جمهور منصوب بدون اجازه رهبر جمهوری اسلامی حتی حق یک گفتگوی ساده را ندارد."
+        ],
+        "impact": "تداوم بلاتکلیفی دیپلماتیک که بازار ارز تهران را در وضعیت آماده‌باش و نوسان مداوم نگه می‌دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "CNN Indonesia",
+        "url": "https://www.cnnindonesia.com/internasional/20260927104453-120-1408674/alasan-presiden-iran-pezeshkian-masih-ogah-temui-trump",
+        "clean_url": "https://www.cnnindonesia.com/internasional/20260927104453-120-1408674/alasan-presiden-iran-pezeshkian-masih-ogah-temui-trump",
+        "image": "https://www.bing.com/th?id=ONUT.6KhrAvubOYSuTVBovkDLhw",
+        "timestamp": 1790499679.6653159
+    },
+    {
         "id": "0aca53e47f",
         "title_fa": "رد طرح هرمز از سوی آمریکا و تهدید متقابل تهران",
         "title_en": "Iran vows not to back down after US rejects its Hormuz proposal",
@@ -5478,24 +5497,6 @@
         "url": "https://www.baltimoresun.com/2026/09/24/autonomous-ai-hacks-legal-accountability/",
         "clean_url": "https://www.baltimoresun.com/2026/09/24/autonomous-ai-hacks-legal-accountability",
         "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/AI_Hacks_Legal_Accountability_38983_8a33f6-1.jpg?w=2000&h=1334",
-        "timestamp": 1790242740.0
-    },
-    {
-        "id": "bde745c96d",
-        "title_fa": "رونمایی از طرح امنیت سایبری انتخابات آمریکا",
-        "title_en": "US cybersecurity agency releases election infrastructure plan 40 days before midterms",
-        "summary": [
-            "آژانس امنیت سایبری ایالات متحده طرح حفاظتی جدیدی را ۴۰ روز پیش از انتخابات میترم منتشر کرد.",
-            "این اقدام پس از انتقاد شدید مقام‌های محلی از حذف برنامه‌های قبلی امنیت انتخاباتی صورت گرفت."
-        ],
-        "impact": "تلاش دولت برای ترمیم اعتماد عمومی به زیرساخت‌های رای‌گیری.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Mercury News",
-        "url": "https://www.mercurynews.com/2026/09/24/us-cybersecurity-agency-midterm-election-infrastructure-plan/",
-        "clean_url": "https://www.mercurynews.com/2026/09/24/us-cybersecurity-agency-midterm-election-infrastructure-plan",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/Election_2_26_Minnesota_Voting__8574-1.jpg?w=2000&h=1333",
         "timestamp": 1790242740.0
     }
 ]
