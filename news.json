@@ -147,6 +147,24 @@
         "timestamp": 1790476417.0
     },
     {
+        "id": "339a20ed4b",
+        "title_fa": "تحقیقات ضدتروریسم پیرامون پایگاه هوایی ارتش آمریکا",
+        "title_en": "Counter-terror police lead investigation into major incident near RAF base, officials say",
+        "summary": [
+            "حضور بمب‌افکن‌های ب-یک آمریکا در پایگاه نظامی فارفورد پس از حملات اخیر به ایران، توجه رسانه‌ها و نیروهای امنیتی را جلب کرده است.",
+            "ضعف در حصارهای امنیتی پیرامون پایگاه، دسترسی عمومی و تجمع مردم را به راحتی فراهم کرده بود که اکنون زنگ خطر را به صدا درآورده است."
+        ],
+        "impact": "تشدید استانداردهای حفاظتی و امنیتی پیرامون تاسیسات استراتژیک نظامی آمریکا در خاک اروپا.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/live/c65y7nl29k0et",
+        "clean_url": "https://www.bbc.com/news/live/c65y7nl29k0et",
+        "image": "http://www.bing.com/th?id=ONUT.7q17bSGzpKqK790TdRdWAg&pid=News",
+        "timestamp": 1790473860.0
+    },
+    {
         "id": "c8ad36b378",
         "title_fa": "تلاش ته‌رآن برای دور زدن تحریم‌ها از مسیر خزر",
         "title_en": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
@@ -5483,23 +5501,5 @@
         "clean_url": "https://www.tbsnews.net/features/big-picture/david-goliath-how-israels-outsized-shadow-sparks-global-instability-isolation",
         "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/25/netanyahu_big_picture.jpg",
         "timestamp": 1790247120.0
-    },
-    {
-        "id": "ba9846e376",
-        "title_fa": "تهدید جـ.ـهـ.ـوری اسـ.ـلامـ.ـی به گسترش جنگ تا اقیانوس هند",
-        "title_en": "From Hormuz to Indian Ocean: Iran threatens to redraw the map of the war",
-        "summary": [
-            "مقام‌های نظامی جـ.ـهـ.ـوری اسـ.ـلامـ.ـی به دنبال تغییر جغرافیای درگیری و گسترش آن فراتر از مرزهای فعلی هستند.",
-            "اتصال تنگه هرمز و باب‌المندب به عنوان تاکتیک جدید برای تحت فشار قرار دادن پایگاه‌های آمریکا و انگلیس مطرح شده است."
-        ],
-        "impact": "افزایش ریسک امنیتی در آب‌های آزاد و تهدید مستقیم خطوط کشتیرانی بین‌المللی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609243363",
-        "clean_url": "https://www.iranintl.com/en/202609243363",
-        "image": "http://www.bing.com/th?id=ONUT.MQ2vD6f4hZAh7P2XnZWlQw&pid=News",
-        "timestamp": 1790246880.0
     }
 ]
