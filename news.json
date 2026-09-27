@@ -128,6 +128,24 @@
         "timestamp": 1790462133.0
     },
     {
+        "id": "ca56805efb",
+        "title_fa": "افزایش نگرانی احزاب راست افراطی اروپا از افراط‌گری حزب AfD آلمان",
+        "title_en": "Germany’s AfD is so extreme it’s putting off other far-right parties",
+        "summary": [
+            "رشد و قدرت‌گیری حزب جایگزینی برای آلمان موجی از نگرانی را در میان جریان‌های مشابه در اروپا ایجاد کرده است.",
+            "مواضع افراطی این حزب حتی شرکای سنتی آن در دیگر کشورهای اروپایی را هم پس زده است."
+        ],
+        "impact": "ایجاد شکاف و انزوای سیاسی بیشتر برای جریان‌های تندرو در سپهر سیاسی اروپا.",
+        "tag": "بین‌الملل",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/germany-s-afd-is-so-extreme-it-s-putting-off-other-far-right-parties/ar-AA2d32aZ",
+        "clean_url": "https://www.msn.com/en-us/news/other/germany-s-afd-is-so-extreme-it-s-putting-off-other-far-right-parties/ar-AA2d32aZ",
+        "image": "http://www.bing.com/th?id=ONUT.HVsgXduJ1tshRALoxURgNg&pid=News",
+        "timestamp": 1790461121.0
+    },
+    {
         "id": "67b5aa1a30",
         "title_fa": "سیگنال حمله نظامی آمریکا؛ اعتراف نماینده مجلس به بن‌بست کامل دیپلماتیک",
         "title_en": "Rejection of Iran's proposal signals possible US attack, MP says",
@@ -329,6 +347,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUtKVnZ0X3FLekNrc1N3cDBVdVJ5NmJGVWFrTlNZZGxKVHFta0xDWGgtS2I5SkRMMmQzZkRGdG16ci1BVjF3TGdJM0hGcXlrRjFoSzFFaTJCa0FyZkxNQTkyYURTaldRWDB5SDM0MjI5QUlzM1ZELUI1c0w2emFsSXpfbnZOS1J2SHFYYW5PU2RNc1Jhd3hxclppZkt6YWxVOWY2YTFTdzNZY3NHSlFpU2RBb0NIQQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790445174.0
+    },
+    {
+        "id": "67b98ecc8a",
+        "title_fa": "فشار اشلی هینسون به مجلس نمایندگان برای رای‌گیری درباره هزینه‌ها",
+        "title_en": "Hinson Lobbying Speaker To Bring House Back To Vote On Affordability Measures",
+        "summary": [
+            "اشلی هینسون، نامزد سنای آمریکا، دولت واشنگتن را مسئول گرانی‌ها و فشارهای مالی بر مردم دانسته است.",
+            "او طرح‌ها و ایده‌هایی را برای کاهش هزینه‌های زندگی شهروندان ارائه کرده است."
+        ],
+        "impact": "تشدید رقابت‌های سیاسی در آستانه انتخابات و تمرکز بر نارضایتی‌های اقتصادی شهروندان.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "KIWA Radio",
+        "url": "https://kiwaradio.com/news/hinson-lobbying-speaker-to-bring-house-back-to-vote-on-affordability-measures/",
+        "clean_url": "https://kiwaradio.com/news/hinson-lobbying-speaker-to-bring-house-back-to-vote-on-affordability-measures",
+        "image": "http://www.bing.com/th?id=ONUT.4HYzaxtu6K-uh2TltWofrA&pid=News",
+        "timestamp": 1790442000.0
     },
     {
         "id": "8b32883f48",
@@ -604,6 +640,42 @@
         "clean_url": "https://www.iranintl.com/202609261024",
         "image": "http://www.bing.com/th?id=ONUT.pDnAbSDKUh-goVCRB9zs-g&pid=News",
         "timestamp": 1790432880.0
+    },
+    {
+        "id": "cdf321bd39",
+        "title_fa": "درخواست روی کوپر برای پایان دادن به درگیری با ایران",
+        "title_en": "Cooper urges scrutiny of tax amendments and calls for tariffs rollback, end to Iran war",
+        "summary": [
+            "روی کوپر، نامزد سنای آمریکا، خواستار بازنگری در اصلاحات مالیاتی و کاهش تعرفه‌ها شده است.",
+            "او صراحتاً بر لزوم پایان دادن به جنگ و درگیری با ای... تأکید کرده است."
+        ],
+        "impact": "تغییر رویکرد برخی چهره‌های سیاسی آمریکا به سمت کاهش تنش‌های خارجی و تمرکز بر مشکلات اقتصادی داخل.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/election/article317396156.html",
+        "clean_url": "https://www.newsobserver.com/news/politics-government/election/article317396156.html",
+        "image": "http://www.bing.com/th?id=ONUT.E3fjk1LACYtDaakgubdoeA&pid=News",
+        "timestamp": 1790431320.0
+    },
+    {
+        "id": "964458a1aa",
+        "title_fa": "سیل و آب‌گرفتگی معابر نیویورک پس از بارش‌های بی‌سابقه تابستانی",
+        "title_en": "New Yorkers take action as the city experiences flooding amid a record amount of summer rain",
+        "summary": [
+            "بارش‌های رکوردشکن تابستانی خیابان‌ها و مناطق مختلف نیویورک را به زیر آب برده است.",
+            "مقامات شهری در حال تلاش برای اصلاح و ارتقای زیرساخت‌های تخلیه آب و مقابله با سیلاب هستند."
+        ],
+        "impact": "اختلال در زندگی روزمره شهروندان نیویورک و ضرورت بازنگری فوری در سیستم‌های مهندسی شهری.",
+        "tag": "محیط زیست",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/26/us/video/nyc-increased-flooding-streets-subways-pazmino-digvid",
+        "clean_url": "https://www.cnn.com/2026/09/26/us/video/nyc-increased-flooding-streets-subways-pazmino-digvid",
+        "image": "http://www.bing.com/th?id=ONUT.mmwZj-2QV23j975r-AhFgQ&pid=News",
+        "timestamp": 1790429400.0
     },
     {
         "id": "cb6d52e008",
@@ -5424,79 +5496,5 @@
         "clean_url": "https://www.foxnews.com/politics/susan-collins-defies-blue-state-headwinds-crucial-senate-battle-new-poll-reveals-striking-split",
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/jackson-collins-split.jpg",
         "timestamp": 1790238660.0
-    },
-    {
-        "id": "fbc3e9ec5f",
-        "title_fa": "تهدید مشاور خامنه‌ای به کشاندن جنگ به اقیانوس هند",
-        "title_en": "Khamenei adviser says Iran may take war to Indian Ocean if Israel or US strikes again",
-        "summary": [
-            "مشاور علی خامنه‌ای هشدار داد که در صورت حمله دوباره آمریکا یا اسر/ائیل، ایران دامنه درگیری‌ها را فراتر از خلیج فارس و تا اقیانوس هند گسترش خواهد داد.",
-            "تهران تلاش می‌کند با کارت ناامن‌سازی خطوط کشتیرانی بین‌المللی در آب‌های آزاد، هزینه هر اقدام نظامی علیه خود را بالا ببرد.",
-            "این موضع‌گیری بیش از آنکه نشانه توان عملیاتی مستمر در آب‌های دوردست باشد، یک بلوف نظامی برای ایجاد بازدارندگی و جنگ روانی است."
-        ],
-        "impact": "بالا رفتن ریسک ترانزیت دریایی و تقویت حضور ناوگان آمریکا و متحدانش در آب‌های فرامنطقه‌ای.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0hxS2ZmbnY3S0xzempVcFNiaXM4c1lkbVI2Y2pyWmk5VEdCRVFnanYxdkJubENRTnk5c2xMa01yWE9YLXl0VS1CUG5kOFJXNnl5Q2I4MkxUNXlYWUlFa2E5bXpmZUtTRUVGa0xPMjBpTmhzZnlRczRyRkNmanVuXzZVVHluMC1XM2lMUU4tNlZHUGkwWEZKU1Jnb1VXdUk1QlQ5THZfSXB2S010VDhZUFl0bi1mRGdGdEtJa2xKTG9VMEwxS1h6OW03Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0hxS2ZmbnY3S0xzempVcFNiaXM4c1lkbVI2Y2pyWmk5VEdCRVFnanYxdkJubENRTnk5c2xMa01yWE9YLXl0VS1CUG5kOFJXNnl5Q2I4MkxUNXlYWUlFa2E5bXpmZUtTRUVGa0xPMjBpTmhzZnlRczRyRkNmanVuXzZVVHluMC1XM2lMUU4tNlZHUGkwWEZKU1Jnb1VXdUk1QlQ5THZfSXB2S010VDhZUFl0bi1mRGdGdEtJa2xKTG9VMEwxS1h6OW03Zw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790238373.0
-    },
-    {
-        "id": "93bdad5bb3",
-        "title_fa": "ارسال ۱۳۰۰ محموله قطعات پهپاد و موشک از چین به تهران",
-        "title_en": "China sent Iran 1,300 shipments of drone, missile components this year – report",
-        "summary": [
-            "پکن در سال جاری میلادی سیزده‌صد محموله حیاتی برای ساخت موشک و پهپاد به ج.ا فرستاده است.",
-            "این محموله‌ها توان نظامی و ساخت تسلیحات پهپادی را مستقیم تقویت می‌کند.",
-            "روابط نظامی پکن و تهران علیرغم فشارهای بین‌المللی وارد فاز تازه‌ای شده است."
-        ],
-        "impact": "تداوم جریان قطعات نظامی پیشرفته به تجهیز خطوط تولید تسلیحات ج.ا کمک می‌کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaURRUWtOa0dxcEwzMHNfZE04TllXa0NhOGMtNng4d0NXNUFLd25PYUxPbFJMaDZOOFVjUnV5WjJOVGxjNmtrRjhvbUVCd1h1T3F4NERPS0NKR3AwRDhPVUMzTHhRU3V3S0JIZVRtOVhQS3BTNlp5SkpLbzJaajNwbml1X2o4bS1FeVFtaS1DU1ltT1k5TnJLUDB6c2VkcUFwQjBXUGx1Y04xd9IBrwFBVV95cUxOQ3dyb091akU1UjNZWVVxYlpBMHJ6SWVmMW51VXZWbVQ5Rk9EaDJGQ1FuYWcxTGp3OHlrRFU0Y3V5QTVVdklKSERmbEE2ZmRxMDlQbkRSWklrUVQ2ZkVRQnNjNzY0SmlKZEFCRkVFSFJGVEk1alF5QTBDY245ZGF4SDVaVkhpbGJ5Skdwb0QxVTdLMG1xOW1DNXBoVVJ0TlZTM2dpNkJFdnZOdFJOSWJN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaURRUWtOa0dxcEwzMHNfZE04TllXa0NhOGMtNng4d0NXNUFLd25PYUxPbFJMaDZOOFVjUnV5WjJOVGxjNmtrRjhvbUVCd1h1T3F4NERPS0NKR3AwRDhPVUMzTHhRU3V3S0JIZVRtOVhQS3BTNlp5SkpLbzJaajNwbml1X2o4bS1FeVFtaS1DU1ltT1k5TnJLUDB6c2VkcUFwQjBXUGx1Y04xd9IBrwFBVV95cUxOQ3dyb091akU1UjNZWVVxYlpBMHJ6SWVmMW51VXZWbVQ5Rk9EaDJGQ1FuYWcxTGp3OHlrRFU0Y3V5QTVVdklKSERmbEE2ZmRxMDlQbkRSWklrUVQ2ZkVRQnNjNzY0SmlKZEFCRkVFSFJGVEk1alF5QTBDY245ZGF4SDVaVkhpbGJ5Skdwb0QxVTdLMG1xOW1DNXBoVVJ0TlZTM2dpNkJFdnZOdFJOSWJN",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790237567.0
-    },
-    {
-        "id": "90f557e28f",
-        "title_fa": "نقش‌آفرینی پنهان قطر میان واشنگتن و تــهـر‌ا‌ن",
-        "title_en": "Three Agendas at One Podium: The Amir Indicts Israel, Implicitly Charges Iran, and Doha Becomes the Named Channel Between Washington and Tehran",
-        "summary": [
-            "دوحه رسماً به عنوان کانال ارتباطی اصلی میان آمریکا و حـکـومـت ایـر‌ا‌ن تثبیت شده است.",
-            "سخنرانی اخیر در دوحه بار دیگر اتهامات تند علیه اسـر‌ائیـل را همزمان با گلایه‌های پنهان از مـقـا‌مـا‌ت ا‌یر‌ا‌نی روی میز آورد."
-        ],
-        "impact": "تغییر کانال‌های دیپلماتیک به سمت میانجی‌گری مستقیم دوحه برای مدیریت تنش‌های فزاینده.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Jerusalem Center for Security and Foreign Affairs",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVjJnX3hXV1JpQk1XVmlRMW5YeDc4cEhHbENZbmdQWVZiQ0p3SWNNVV9mcDVuTlJWcEp6ZEhZeUcyaWZWVnFLUThuTFRPcTRHWE9HeDFIU2VYc2xNOHQwTU9QSVpILVJ6c29ncGp4UEMtRThGTnhOZjduc1V6ZnNuY0h0Mk5WeDZ5blNKcE5TT2FpTDNLMERVRDJEdmF3ay01UE9zQWV1NGdpSDluRE5WVmNER2ZMR2EwbExHUlBrSG9kSEFMWlBJNnVxQTFMWDc3M2JzOWpqeHZYS25NeV9kN3ZaU3prekFoX19aZE5xYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVjJnX3hXV1JpQk1XVmlRMW5YeDc4cEhHbENZbmdQWVZiQ0p3SWNNVV9mcDVuTlJWcEp6ZEhZeUcyaWZWVnFLUThuTFRPcTRHWE9HeDFIU2VYc2xNOHQwTU9QSVpILVJ6c29ncGp4UEMtRThGTnhOZjduc1V6ZnNuY0h0Mk5WeDZ5blNKcE5TT2FpTDNLMERVRDJEdmF3ay01UE9zQWV1NGdpSDluRE5WVmNER2ZMR2EwbExHUlBrSG9kSEFMWlBJNnVxQTFMWDc3M2JzOWpqeHZYS25NeV9kN3ZaU3prekFoX19aZE5xYw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790236989.0
-    },
-    {
-        "id": "212a79703b",
-        "title_fa": "هشدارها نسبت به احتمال وقوع بحران اقتصادی جهانی",
-        "title_en": "Articole despre \"urgenţă\"",
-        "summary": [
-            "نگرانی‌ها از شکل‌گیری یک بحران اقتصادی فراگیر هم‌زمان با تشدید تنش‌ها با ایــران و تحولات منطقه‌ای به شدت رو به افزایش است.",
-            "کارشناسان هشدار می‌دهند این وضعیت ممکن است تبعاتی فراتر از بحران‌های سال‌های گذشته به همراه داشته باشد."
-        ],
-        "impact": "افزایش بی‌ثباتی در بازارهای مالی بین‌المللی تحت تأثیر ریسک‌های ژئوپلیتیک.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/urgenţă-pag99",
-        "clean_url": "https://ziare.com/cautare/urgenţă-pag99",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1790235688.711353
     }
 ]
