@@ -312,6 +312,25 @@
         "timestamp": 1790518898.0
     },
     {
+        "id": "44d529b157",
+        "title_fa": "ترامپ: مذاکرات جدید با ایران برگزار می شود",
+        "title_en": "Trump says he expects new Iran talks despite rejecting Hormuz deal offer",
+        "summary": [
+            "رئیس جمهور آمریکا اعلام کرد تهران با ارائه شرط های جدید برای آتش بس، دست بالا را از دست داد.",
+            "مقام های تهران همچنان بر خواسته های خود پافشاری کرده و اعلام کردند عقب نشینی نمی کنند.",
+            "پیشنهاد توافق درباره تنگه هرمز از سوی واشنگتن رد شده است."
+        ],
+        "impact": "افزایش تنش‌های لفظی و بن‌بست در مسیر دیپلماسی میان تهران و واشنگتن",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-he-expects-new-iran-talks-despite-rejecting-hormuz-deal-offer/ar-AA2d4JHh",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-he-expects-new-iran-talks-despite-rejecting-hormuz-deal-offer/ar-AA2d4JHh",
+        "image": "http://www.bing.com/th?id=ONUT.T_epJX5jbZ7OngBweUjx8A&pid=News",
+        "timestamp": 1790518538.0
+    },
+    {
         "id": "9cd1ea3a5a",
         "title_fa": "پوشش زنده تحولات خاورمیانه و درگیری‌های منطقه‌ای",
         "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
@@ -437,6 +456,25 @@
         "clean_url": "https://www.iranintl.com/202609275516",
         "image": "http://www.bing.com/th?id=ONUT.xY6vqAWpl6v-O5eKQ4DAXw&pid=News",
         "timestamp": 1790511360.0
+    },
+    {
+        "id": "4a5cc71a2e",
+        "title_fa": "خشم ترامپ از دیوان عالی آمریکا بر سر نقشه انتخاباتی",
+        "title_en": "Trump Rages at Supreme Court for Ruining His Latest ‘Victory’",
+        "summary": [
+            "دادگاه عالی درخواست جمهوری‌خواهان برای تغییر نقشه انتخاباتی میسوری را برای سومین بار رد کرد.",
+            "ترامپ از قضات انتصابی خودش به شدت انتقاد کرد.",
+            "این تصمیم مانع از پیروزی احتمالی حزب حاکم در آن ایالت می‌شود."
+        ],
+        "impact": "شکست حقوقی برای حامیان تغییر مهندسی انتخابات در آمریکا",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/trump-rages-at-supreme-court-for-ruining-his-latest-victory/",
+        "clean_url": "https://www.thedailybeast.com/trump-rages-at-supreme-court-for-ruining-his-latest-victory",
+        "image": "http://www.bing.com/th?id=ONUT.MnTFTqR6hhQCVGSGBaY1dA&pid=News",
+        "timestamp": 1790508420.0
     },
     {
         "id": "239887779d",
@@ -693,6 +731,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/in-knoxville-cheers-for-trump-and-some-quiet-doubts/ar-AA2d4vs9",
         "image": "http://www.bing.com/th?id=ONUT.bkxfMAD1rjbSEtHKFQKwhw&pid=News",
         "timestamp": 1790500733.0
+    },
+    {
+        "id": "70d36ae652",
+        "title_fa": "افزایش صادرات نفت از تنگه هرمز علی رغم تهدیدات",
+        "title_en": "Hormuz oil flows rise despite Iran threats against shipping",
+        "summary": [
+            "وزیر انرژی آمریکا از عبور میانگین سیزده میلیون بشکه نفت در روز خبر داد.",
+            "تهران شرکت‌های کشتیرانی را از تردد غیرمجاز برحذر داشته و به نیروهای آمریکایی هشدار داده است.",
+            "ظرفیت پایین پالایشگاه‌ها عامل اصلی فشار بر قیمت انرژی اعلام شده است."
+        ],
+        "impact": "خنثی شدن تدریجی تهدیدات نظامی بر روی جریان صادرات نفت منطقه",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609279147",
+        "clean_url": "https://www.iranintl.com/en/202609279147",
+        "image": "http://www.bing.com/th?id=ONUT.BnwnFwxFVz72NULyWwK9Lg&pid=News",
+        "timestamp": 1790500560.0
     },
     {
         "id": "b86b908782",
@@ -5458,58 +5515,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/east-coast-eyes-strengthening-nor-easter-already-battering-mid-atlantic-shores/ar-AA2cSITQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790275316.0
-    },
-    {
-        "id": "c9d66c86b5",
-        "title_fa": "تلاش تهران برای توافق پیش از انتخابات میادترم آمریکا",
-        "title_en": "Iran’s president says Tehran wants a deal with U.S. before midterm elections",
-        "summary": [
-            "رئیس‌جمهور ایران از تمایل کشور برای دستیابی به یک توافق با ایالات متحده پیش از برگزاری انتخابات میادترم خبر داد."
-        ],
-        "impact": "سیگنال‌های مبهم دیپلماتیک برای تغییر فضای تحریم و تنش",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWV0b2EtMXNLTVcyQmdqX2ZIUnRZVUloazJCWWNLcUJZa3Bkd3JrcXlxdTR0WmV4WEN3Q2hhY01ZYVFPM1JLaWxFUFFCdjR1Y21jWVFDcmU1WXNlYS1FcFhlOHhMNXhRbllUcmFSc0ZMdTQtVGNuQmNUc2prU0NwTVNFTUw1LWdZWEdYSTVhbnJBeEJnWGFWaWtwT0RrVkpSeEFDSGgycm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWV0b2EtMXNLTVcyQmdqX2ZIUnRZVUloazJCWWNLcUJZa3Bkd3JrcXlxdTR0WmV4WEN3Q2hhY01ZYVFPM1JLaWxFUFFCdjR1Y21jWVFDcmU1WXNlYS1FcFhlOHhMNXhRbllUcmFSc0ZMdTQtVGNuQmNUc2prU0NwTVNFTUw1LWdZWEdYSTVhbnJBeEJnWGFWaWtwT0RrVkpSeEFDSGgycm8",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790275094.0
-    },
-    {
-        "id": "eeecb94a2c",
-        "title_fa": "دفاع نتانیاهو از جنگ با جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی در سازمان ملل",
-        "title_en": "Netanyahu defends Iran war, Gaza offensive in high-stakes UN address",
-        "summary": [
-            "نخست‌وزیر اسـ.ـراییل در مجمع عمومی سازمان ملل متحد صراحتاً از استراتژی نظامی کشورش علیه تهـ.ـدیـ.ـدات جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی و نبردهای غزه دفاع کرد.",
-            "این سخنرانی نشان‌دهنده عزم تل‌آویو برای تداوم فشار حداکثری و عملیاتی بر روی نیابتی‌ها و زیرساخت‌های نظامی اهداف منطقه‌ای است."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک و تشدید سایه جنگ تمام‌عیار در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "NBC Montana",
-        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPRDVlZU53WWc5cWJza21jZWIwZ3JnZEcweEVYMlZXaEZEemN1ZjBvOUdMZ0c0WlhsTEtNZG1Sdkc4MGkyUzRlSzZiaC1WY0tVaUdEd0hoMkdxbnYwTVB4S1FJWEZRcEY4Z1A0OXJpZnROdnFIdC1JcG9zT2FoNGduby13NzB5Wk5GMzNrZWQ3SUFMS3p3X1I2VVA0d0lhT1VuWW12QjRQXzROd1dXM1hfWmFUOGstaUQxbERTREd2M2FaVlFGazNocWRUTDlDVzE2Q1U1QlFyNl9Ha1lPSFQyY0NQbW9CeDJuSXp6Uzl6NWVTbzFleVhiQk9aV1hreWN4LW16VEdSS0ozdU1UQ1VDcVpOcFBNci1hOXdOSXVzeXNQeVd1N3hKME9QMjl2V3JBQjZZeDJKWmtqbGNiaXNvMHBrWjc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPRDVlZU53WWc5cWJza21jZWIwZ3JnZEcweEVYMlZXaEZEemN1ZjBvOUdMZ0c0WlhsTEtNZG1Sdkc4MGkyUzRlSzZiaC1WY0tVaUdEd0hoMkdxbnYwTVB4S1FJWEZRcEY4Z1A0OXJpZnROdnFIdC1JcG9zT2FoNGduby13NzB5Wk5GMzNrZWQ3SUFMS3p3X1I2VVA0d0lhT1VuWW12QjRQXzROd1dXM1hfWmFUOGstaUQxbERTREd2M2FaVlFGazNocWRUTDlDVzE2Q1U1QlFyNl9Ha1lPSFQyY0NQbW9CeDJuSXp6Uzl6NWVTbzFleVhiQk9aV1hreWN4LW16VEdSS0ozdU1UQ1VDcVpOcFBNci1hOXdOSXVzeXNQeVd1N3hKME9QMjl2V3JBQjZZeDJKWmtqbGNiaXNvMHBrWjc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790274765.0
-    },
-    {
-        "id": "42218d56a6",
-        "title_fa": "سخنرانی نتانیاهو در سازمان ملل درباره جنگ",
-        "title_en": "Netanyahu lauds Israel's military record since Oct. 7 in speech to UN",
-        "summary": [
-            "بنیامین نتانیاهو واقعه هفتم اکتبر را تاریک‌ترین روز تاریخ اسرائیل توصیف کرد.",
-            "او در مجمع عمومی سازمان ملل از دستاوردهای نظامی کشورش دفاع کرد."
-        ],
-        "impact": "تثبیت دکترین نظامی تل‌آویو در مجامع بین‌المللی با وجود فشارهای جهانی.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-lauds-israels-military-record-since-oct-7-in-speech-to-un/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-lauds-israels-military-record-since-oct-7-in-speech-to-un",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/446-640x400.jpeg",
-        "timestamp": 1790274660.0
     }
 ]
