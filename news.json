@@ -586,6 +586,24 @@
         "timestamp": 1790484780.0
     },
     {
+        "id": "10225bef8a",
+        "title_fa": "اصرار تهران بر دیپلماسی پس از رد طرح صلح توسط ترامپ",
+        "title_en": "Iran insists on diplomatic solution after Trump rejects peace plan",
+        "summary": [
+            "مقام های جـ.ـمهوری اسـ.ـلامی پس از بسته شدن درهای مذاکره از سوی ترامپ، سراسیمه به دنبال راه حل دیپلماتیک می‌گردند.",
+            "فشار حداکثری واشنگتن تهران را در تنگنای شدید قرار داده و تلاش برای گفتگو، نشانه ضعف در برابر مواضع صریح ترامپ است."
+        ],
+        "impact": "شکست تلاش‌های پشت پرده برای توافق و افزایش احتمال تشقاق در بدنه تصمیم‌گیر حاکمیت.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan/ar-AA2d3ZIL",
+        "clean_url": "https://www.msn.com/en-ca/news/other/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan/ar-AA2d3ZIL",
+        "image": "http://www.bing.com/th?id=ONUT.wTMyzzLAoaJp89GMRZ5bjA&pid=News",
+        "timestamp": 1790484455.0
+    },
+    {
         "id": "34ad457d85",
         "title_fa": "حمله سپاه به ۱۹ کشتی تجاری در تنگه هرمز",
         "title_en": "خبرگزاری فارس: نیروهای مسلح جمعه و شنبه ۱۹ کشتی «متخلف» را در تنگه هرمز هدف قرار دادند",
@@ -5493,24 +5511,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXFRdU50SU1neUhFbzk2V2JmSXRiRDFJbm5BR1VFaWp6NXhaZ2hRcExwUjJNeHRwVlFNd0xKY2tBWnI4N0c3Tk0zWTFyUHNCSnZJRUw3Znp3bU1UREd5OHo5anJLY21GdkVTa2V1TnQ2ZTVxOGRXSHRfUmIxN0dCRzFSaXJFVWRJOHQzVWE4dTdjcXRZNk5nSVg0eFBEYWd4akJGNWVzbE5rNEhwSVowcUp5SXhHZzV3OVBsUkp3UkQ1RTZvWHNwWTdn",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790260775.0
-    },
-    {
-        "id": "2e1f25a187",
-        "title_fa": "تمدید آتش‌بس تجاری واشینگتن و پکن تا دی‌ماه ۱۴۰۵",
-        "title_en": "ترامپ و شی آتش‌بس تجاری را تمدید کردند؛ اختلاف‌ها بر سر تایوان و تجارت باقی ماند",
-        "summary": [
-            "دونالد ترامپ و شی جینپینگ در دیدار کاخ سفید، آتش‌بس تجاری بین دو قدرت بزرگ را دو ماه دیگر تمدید کردند.",
-            "اختلافات بنیادین بر سر تایوان، محدودیت‌های تکنولوژیک و تعهدات خرید کالا همچنان حل‌نشده باقی مانده است.",
-            "وزیر خزانه‌داری آمریکا تأکید کرد که مهلت جدید برای ادامه چانه‌زنی‌های اقتصادی تعیین شده است."
-        ],
-        "impact": "بازارهای جهانی مودبانه از تنش‌های فوری فاصله گرفتند اما رقابت راهبردی آمریکا و چین پابرجاست.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609247107",
-        "clean_url": "https://www.iranintl.com/202609247107",
-        "image": "http://www.bing.com/th?id=ONUT.wXeSfPpcjuDF9W9x9HV3mA&pid=News",
-        "timestamp": 1790260320.0
     }
 ]
