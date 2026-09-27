@@ -605,6 +605,25 @@
         "timestamp": 1790480760.0
     },
     {
+        "id": "daf7380db3",
+        "title_fa": "بازی مرموز تهران و واشنگتن بر سر تنگه هرمز",
+        "title_en": "Iran Says Hormuz Deal Depends on Terms After Trump Says He Rejected Proposal",
+        "summary": [
+            "دونالد ترامپ پیشنهاد فوری جمهوری اسلامی برای بازگشایی تنگه هرمز و توقف درگیری‌ها را رد کرد.",
+            "عباس عراقچی مدعی شد شرایط تهران برای توافق پابرجاست و منتظر پاسخ میانجی‌گران قطری هستند.",
+            "دیپلماسی پشت پرده میان تهران و واشنگتن از طریق کانال‌های منطقه‌ای همچنان ادامه دارد."
+        ],
+        "impact": "رد این پیشنهاد از سوی آمریکا نشان می‌دهد فشار حداکثری پابرجا مانده و بحران تنگه هرمز بدون امتیازدهی اساسی حل نخواهد شد.",
+        "tag": "تنگه هرمز",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "Mezha",
+        "url": "https://mezha.net/eng/news/4773722e_iran_says_hormuz/",
+        "clean_url": "https://mezha.net/eng/news/4773722e_iran_says_hormuz",
+        "image": "https://mezha.net/eng/kd_image_generate/4773722e_iran_says_hormuz/3726372.jpg?ver=2.0.15",
+        "timestamp": 1790478180.0
+    },
+    {
         "id": "559aade01a",
         "title_fa": "سیگنال مذاکراتی سپاه؛ مانور تهران روی طرح گام‌به‌گام",
         "title_en": "رسانه سپاه به نقل از تیم مذاکره‌کننده: جمهوری اسلامی منافع خود را تحت فشار واگذار نمی‌کند",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.iranintl.com/202609240641",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790259300.0
-    },
-    {
-        "id": "0e1f14a8bb",
-        "title_fa": "رقابت قدرت در خلیج فارس؛ عربستان یا ایران؟",
-        "title_en": "Which is more powerful: Saudi Arabia or Iran?",
-        "summary": [
-            "بحث در مورد موازنه قدرت نظامی و اقتصادی میان ریاض و تهران در منطقه",
-            "تحلیل ظرفیت‌های منطقه‌ای دو کشور برای اعمال نفوذ در خلیج فارس"
-        ],
-        "impact": "تأثیر مستقیم بر ثبات امنیتی و مسیر دیپلماسی در منطقه خلیج فارس",
-        "tag": "ژئوپلیتیک",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/views/2026/09/24/which-is-more-powerful-saudi-arabia-or-iran-",
-        "clean_url": "https://english.alarabiya.net/views/2026/09/24/which-is-more-powerful-saudi-arabia-or-iran-",
-        "image": "https://vid.alarabiya.net/images/2023/03/10/05c16976-a34c-48a4-bb97-57c0b01410b4/05c16976-a34c-48a4-bb97-57c0b01410b4_16x9_1200x676.jpg?width=555",
-        "timestamp": 1790259060.0
     }
 ]
