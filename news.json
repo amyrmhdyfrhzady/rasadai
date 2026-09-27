@@ -129,6 +129,25 @@
         "timestamp": 1790487300.0
     },
     {
+        "id": "559aade01a",
+        "title_fa": "سیگنال مذاکراتی سپاه؛ مانور تهران روی طرح گام‌به‌گام",
+        "title_en": "رسانه سپاه به نقل از تیم مذاکره‌کننده: جمهوری اسلامی منافع خود را تحت فشار واگذار نمی‌کند",
+        "summary": [
+            "تیم مذاکره‌کننده ج.ا از طریق رسانه سـ.پاه اعلام کرده که تسلیم فشار نخواهد شد و به دنبال توافق مرحله‌بندی‌شده است.",
+            "تهران با برجسته‌کردن هزینه‌های جنگ در افکار عمومی آمریکا، تلاش می‌کند در مذاکرات احتمالی موضع ضعف خود را پنهان کند.",
+            "هم‌زمان، تأکید مقامات آمریکایی بر عبور بی‌سابقه نفت از تنگه هرمز نشان می‌دهد اهرم تهدید تنگه‌ها برای تهران تا حد زیادی خنثی شده است."
+        ],
+        "impact": "تلاش تهران برای خرید زمان دیپلماتیک جهت جلوگیری از جهش جدید نرخ ارز و آغاز زودرس فشار حداکثری.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609275419",
+        "clean_url": "https://www.iranintl.com/202609275419",
+        "image": "http://www.bing.com/th?id=ONUT.Se8kLX27MNvmlx8kvuZo6w&pid=News",
+        "timestamp": 1790477160.0
+    },
+    {
         "id": "b6edf6b5d0",
         "title_fa": "انتظار تهران برای پاسخ قطعی واشنگتن درباره تنگه هرمز",
         "title_en": "Iran says it is awaiting 'definitive' US response despite Trump rejecting latest proposal",
@@ -5484,22 +5503,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/california-supreme-court-orders-riverside-county-sheriff-to-return-650-000-seized-ballots/ar-AA2cUi10",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790247411.0
-    },
-    {
-        "id": "58adbc0203",
-        "title_fa": "بازتاب سنگین سایه نظامی‌گری اسرائیل بر معادلات جهانی",
-        "title_en": "From David to Goliath: How Israel's outsized shadow sparks global instability, isolation",
-        "summary": [
-            "بودجه نظامی هنگفت و وابستگی به صنایع دفاعی، اسرائیل را به بازیگری با تاثیرات گسترده و بی‌ثبات‌کننده در سیاست بین‌الملل تبدیل کرده است."
-        ],
-        "impact": "افزایش انزوای دیپلماتیک و فشارهای بین‌المللی بر رویه های نظامی تل‌آویو",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The Business Standard",
-        "url": "https://www.tbsnews.net/features/big-picture/david-goliath-how-israels-outsized-shadow-sparks-global-instability-isolation",
-        "clean_url": "https://www.tbsnews.net/features/big-picture/david-goliath-how-israels-outsized-shadow-sparks-global-instability-isolation",
-        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/25/netanyahu_big_picture.jpg",
-        "timestamp": 1790247120.0
     }
 ]
