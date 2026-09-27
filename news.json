@@ -1,5 +1,23 @@
 [
     {
+        "id": "3068a3b6f9",
+        "title_fa": "اعتراض نمادین دانشگاهی و بحران کارآمدی مدرک تحصیلی",
+        "title_en": "Articole despre \"diplomă\"",
+        "summary": [
+            "اقدام تکان‌دهنده یک چهره دانشگاهی در پاره کردن مدرک دکترا در برنامه زنده تلویزیونی موجی از بحث ایجاد کرد.",
+            "کارشناسان نسبت به افت ارزش مدرک‌های تحصیلی سنتی در عصر هوش مصنوعی هشدار می‌دهند."
+        ],
+        "impact": "افزایش بی‌اعتمادی عمومی به سیستم‌های آموزشی و مدرک‌گرایی.",
+        "tag": "آموزش",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/diplomă-pag3",
+        "clean_url": "https://ziare.com/cautare/diplomă-pag3",
+        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
+        "timestamp": 1790507467.477216
+    },
+    {
         "id": "e2069852d8",
         "title_fa": "هشدار تل‌آویو به ط-هران درباره تلاش‌های اتمی",
         "title_en": "West Asia Conflict: Israel warns Iran on nuclear push, signals fresh strikes as US-Iran talks stall & tensions escalate",
@@ -147,6 +165,24 @@
         "timestamp": 1790487300.0
     },
     {
+        "id": "e30864307b",
+        "title_fa": "سیل شدید در بانکوک و مناطق مرزی تایلند",
+        "title_en": "Heavy rain causes floods and disruption in Bangkok and border province of Thailand",
+        "summary": [
+            "بارش‌های مداوم روزهای اخیر باعث آبگرفتگی گسترده در بخش‌هایی از پایتخت تایلند شد.",
+            "اختلال در رفت‌وآمد و زندگی روزمره ساکنان استان‌های مرزی نزدیک به کامبوج ادامه دارد."
+        ],
+        "impact": "فلج شدن تردد شهری و خسارت به زیرساخت‌های مناطق سیل‌زده.",
+        "tag": "حوادث",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/video/heavy-rain-causes-floods-and-disruption-in-bangkok-and-border-province-of-thailand-682ef13179a04486999afb691ea7f525",
+        "clean_url": "https://apnews.com/video/heavy-rain-causes-floods-and-disruption-in-bangkok-and-border-province-of-thailand-682ef13179a04486999afb691ea7f525",
+        "image": "http://www.bing.com/th?id=ONUT.KbcBSXK7RIXmPr3EaMhi3Q&pid=News",
+        "timestamp": 1790480760.0
+    },
+    {
         "id": "559aade01a",
         "title_fa": "سیگنال مذاکراتی سپاه؛ مانور تهران روی طرح گام‌به‌گام",
         "title_en": "رسانه سپاه به نقل از تیم مذاکره‌کننده: جمهوری اسلامی منافع خود را تحت فشار واگذار نمی‌کند",
@@ -182,6 +218,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-rejects-proposal-to-reopen-the-strait-of-hormuz-iran-says-it-is-awaiting-definitive-us-position/ar-AA2d0S5D",
         "image": "http://www.bing.com/th?id=ONUT.TluDmmHzHdKfubkbnbbqgQ&pid=News",
         "timestamp": 1790476417.0
+    },
+    {
+        "id": "cce7662185",
+        "title_fa": "رفتارهای غیرعادی اقیانوس‌ها و به هم خوردن نظم طوفان‌ها",
+        "title_en": "Hurricane season is broken. Two oceans are historically out of whack",
+        "summary": [
+            "پدیده‌های جوی نامتعارف باعث شکل‌گیری یک فصل طوفانی عجیب و غیرقابل پیش‌بینی شده است.",
+            "اقیانوس اطلس به شکل عجیبی آرام است، در حالی که اقیانوس آرام با رگباری از طوفان‌های قدرتمند روبه‌روست."
+        ],
+        "impact": "افزایش چالش‌های پیش‌بینی هواشناسی و خطرات زیست‌محیطی.",
+        "tag": "محیط زیست",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/weather/general/hurricane-season-is-broken-two-oceans-are-historically-out-of-whack/ar-AA2d33sD",
+        "clean_url": "https://www.msn.com/en-us/weather/general/hurricane-season-is-broken-two-oceans-are-historically-out-of-whack/ar-AA2d33sD",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790474714.0
     },
     {
         "id": "339a20ed4b",
@@ -480,6 +534,24 @@
         "timestamp": 1790463354.0
     },
     {
+        "id": "fe5203a829",
+        "title_fa": "بن‌بست در مذاکرات مالی و قانون‌گذاری در ماساچوست",
+        "title_en": "Big bills, no breakthroughs: Beacon Hill talks drag into the fall",
+        "summary": [
+            "چالش‌های بودجه‌ای و اختلاف نظرها روند تصویب لوایح مهم در این ایالت را طولانی کرده است.",
+            "برخی توافق‌ها شاید پیش از انتخابات و بقیه تا پایان دوره قانون‌گذاری به نتیجه برسند."
+        ],
+        "impact": "به تاخیر افتادن تصمیم‌گیری‌های کلیدی مالی و اداری.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/09/big-bills-no-breakthroughs-beacon-hill-talks-drag-into-the-fall.html",
+        "clean_url": "https://www.masslive.com/politics/2026/09/big-bills-no-breakthroughs-beacon-hill-talks-drag-into-the-fall.html",
+        "image": "http://www.bing.com/th?id=ONUT.3LXFcK7jQ_SoSIDzBNoKyA&pid=News",
+        "timestamp": 1790463000.0
+    },
+    {
         "id": "ab2fd2759f",
         "title_fa": "بازی جدید تهران با اورانیوم؛ عقب‌نشینی یا وقت‌خریدن؟",
         "title_en": "Iran's president offers uranium dilution while rejecting a nuclear retreat",
@@ -735,6 +807,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUtKVnZ0X3FLekNrc1N3cDBVdVJ5NmJGVWFrTlNZZGxKVHFta0xDWGgtS2I5SkRMMmQzZkRGdG16ci1BVjF3TGdJM0hGcXlrRjFoSzFFaTJCa0FyZkxNQTkyYURTaldRWDB5SDM0MjI5QUlzM1ZELUI1c0w2emFsSXpfbnZOS1J2SHFYYW5PU2RNc1Jhd3hxclppZkt6YWxVOWY2YTFTdzNZY3NHSlFpU2RBb0NIQQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790445174.0
+    },
+    {
+        "id": "85fd402f86",
+        "title_fa": "هشدار درباره طوفان حسی و خطرات آن در هاوایی",
+        "title_en": "Hurricane Nolo skirts Hawaii but could still unleash powerful winds, flash flooding",
+        "summary": [
+            "طوفان سهمگین در حال نزدیک شدن به جزایر هاوایی است و مقام‌ها وضعیت هشدار اعلام کردند.",
+            "خطر سیل ناگهانی، وزش بادهای خطرناک و امواج سهمناک مناطق در حال بازسازی را تهدید می‌کند."
+        ],
+        "impact": "اختلال در فعالیت‌های روزمره و احتمال بروز خسارت‌های مالی.",
+        "tag": "حوادث",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/hurricane-nolo-expected-to-unleash-powerful-winds-flash-flooding-on-hawaii/ar-AA2d1K3t",
+        "clean_url": "https://www.msn.com/en-us/news/other/hurricane-nolo-expected-to-unleash-powerful-winds-flash-flooding-on-hawaii/ar-AA2d1K3t",
+        "image": "http://www.bing.com/th?id=ONUT.jR3-0MvgOhXZACz8m4kaPg&pid=News",
+        "timestamp": 1790444355.0
     },
     {
         "id": "2c127f9df6",
@@ -5413,95 +5503,5 @@
         "clean_url": "https://www.cleveland.com/news/2026/09/husted-moreno-vote-against-iran-war-powers-resolution-again-amid-rising-gas-prices.html",
         "image": "http://www.bing.com/th?id=ONUT.L3VECb0BWX8xCpzC_4oCMw&pid=News",
         "timestamp": 1790248800.0
-    },
-    {
-        "id": "16f170be59",
-        "title_fa": "فریاد نتانیاهو در سازمان ملل علیه تروئیکای ج.ا",
-        "title_en": "نظرتان درباره سخنان نتانیاهو در سازمان ملل چیست؟",
-        "summary": [
-            "نخست‌وزیر اسرائیل در مجمع عمومی سازمان ملل رویارویی با ج.ا را محور اصلی سخنرانی خود قرار داد.",
-            "اشاره مستقیم به حذف رهبر ج.ا پیام محکمی برای بدنه نظامی و امنیتی ارسال کرد."
-        ],
-        "impact": "افزایش جنگ روانی و فشارهای دیپلماتیک علیه ساختار قدرت در تهران.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609247022",
-        "clean_url": "https://www.iranintl.com/202609247022",
-        "image": "http://www.bing.com/th?id=ONUT.jtTEL9Ic-IL93rMCe4yzRw&pid=News",
-        "timestamp": 1790248800.0
-    },
-    {
-        "id": "774c0cd72b",
-        "title_fa": "رانت نجومی خواص جـ.هـ.ـوری اِسـ.ـلامـ.ـی از تحریم‌های نفتی",
-        "title_en": "Iranian press review: Iranian elite profit billions from oil sanctions",
-        "summary": [
-            "رسانه‌های داخلی خود جـ.هـ.ـوری اِسـ.ـلامـ.ـی هم دیگر نمی‌توانند پنهان کنند که تحریم‌ها فقط فشار روی مردم است اما برای لایه‌های بالای حاکمیت سود میلیاردی دارد.",
-            "مافیای نفت و دلالان وابسته به نهادهای قدرت، با دور زدن تحریم‌ها جیب خود را پر می‌کنند و هیچ شفافیتی در کار نیست."
-        ],
-        "impact": "تداوم تحریم‌ها به نفع طبقه حاکم و به زیان مطلق اقتصاد ملی و معیشت مردم تمام شده است.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzN4UnZoNG5DcGdndmp5OUlXTFR1ZHBESkxTRmcyX3o5N0hMV0lGZkpDU1FMbXg4VXRiNUJuSFVaa3B0NG5Sb3k0Vjk1bHZZRVNtYTc5dVRFTm9PRmlveFk0QXczUmpUTFZ5bU1MbHhBdWNiSWotQ1Y1d0RJanBlcTdQak0xTDNfanZOYndCRHk5a3gxOXVheHk3Ym9oN0ZC?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzN4UnZoNG5DcGdndmp5OUlXTFR1ZHBESkxTRmcyX3o5N0hMV0lGZkpDU1FMbXg4VXRiNUJuSFVaa3B0NG5Sb3k0Vjk1bHZZRVNtYTc5dVRFTm9PRmlveFk0QXczUmpUTFZ5bU1MbHhBdWNiSWotQ1Y1d0RJanBlcTdQak0xTDNfanZOYndCRHk5a3gxOXVheHk3Ym9oN0ZC",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790248261.0
-    },
-    {
-        "id": "8aa63b119f",
-        "title_fa": "دارایی میلیونی وزیر دفاع در گزارش مالی جدید",
-        "title_en": "Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin",
-        "summary": [
-            "پیت هگست، وزیر دفاع، ثروتی بیش از ۳.۱ میلیون دلار شامل وجه نقد و بیت‌کوین گزارش کرد.",
-            "او هم‌زمان با فشار هم‌حزبی‌هایش برای استیضاح به دلیل نحوه مدیریت پرونده ایران مواجه است."
-        ],
-        "impact": "زیر ذره‌بین رفتن وضعیت مالی مقام ارشد نظامی کابینه.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
-        "clean_url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108302204-1777985324860-gettyimages-2274636434-_s010823_1g5wyfwa.jpeg?v=1777986590&w=1920&h=1080",
-        "timestamp": 1790247900.0
-    },
-    {
-        "id": "06dd940269",
-        "title_fa": "پزشکیان در سازمان ملل به ترامپ تاخت",
-        "title_en": "Pezeshkian lashes out at Trump at UN, but expert says Trump 'holds the cards'",
-        "summary": [
-            "مقام ایرانی در سازمان ملل حملات تندی علیه ترامپ مطرح کرد.",
-            "کارشناسان سیاست خارجی معتقدند ترامپ همچنان کارت‌های برنده را در دست دارد."
-        ],
-        "impact": "افزایش جنگ لفظی میان تهران و واشنگتن در سطح بین‌المللی.",
-        "tag": "خارجی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/video/6405555267112",
-        "clean_url": "https://www.foxnews.com/video/6405555267112",
-        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26d34e97-69fa-4315-b72e-8c72763d011b/d20b39e5-2352-4330-bafb-347df323a52b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-        "timestamp": 1790247840.0
-    },
-    {
-        "id": "c4489a1a7a",
-        "title_fa": "احتمال واگذاری پرونده ایران به جانشین توسط ترامپ",
-        "title_en": "Trump Could Leave the Iran Mess to His Successor",
-        "summary": [
-            "دونالد ترامپ ممکن است از درگیری مستقیم با پرونده پرهزینه ایران خودداری کند و حل بحران را به دوره بعدی بسپارد.",
-            "سیاست فشار حداکثری همچنان روی میز است، اما محاسبات واشنگتن برای اقدام بزرگ تغییر کرده است."
-        ],
-        "impact": "کاهش احتمال اقدام نظامی فوری ایالات متحده در کوتاه مدت",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Atlantic",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlItS3o3eXNNVm40LXhLOEt2V0U4XzZMVVpEZmVYT1RJSWdkcXNTM2Juc0FGWHVvcmNrNEhCM3kyMHFQWEVidUJIMFdKSHplY0xTTkVqOTc1RHFEQmw3VW9HQndEd2pLemtnOExNaW5STXhxT0Fmd1doUzd5aFlkX2tTQ1BvTFZLSmxfaA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlItS3o3eXNNVm40LXhLOEt2V0U4XzZMVVpEZmVYT1RJSWdkcXNTM2Juc0FGWHVvcmNrNEhCM3kyMHFQWEVidUJIMFdKSHplY0xTTkVqOTc1RHFEQmw3VW9HQndEd2pLemtnOExNaW5STXhxT0Fmd1doUzd5aFlkX2tTQ1BvTFZLSmxfaA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790247600.0
     }
 ]
