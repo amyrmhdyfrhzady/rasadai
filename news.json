@@ -74,6 +74,25 @@
         "timestamp": 1790471220.0
     },
     {
+        "id": "e012ec739b",
+        "title_fa": "پرونده‌سازی قضایی برای ماراتن تهران؛ هراس حکومت از پوشش اختیاری",
+        "title_en": "خبرگزاری وابسته به سپاه خبر داد؛ یک نفر در پرونده ماراتن تهران تفهیم اتهام شد",
+        "summary": [
+            "دستگاه قضایی ج.ا. در واکنش به حضور بدون حجاب اجباری شهروندان در ماراتن تهران، مسئولان ورزشی و حتی امنیتی پایتخت را به دادسرا احضار کرد.",
+            "این برخوردها عمق ناتوانی حکومت در تحمیل سبک زندگی مدنظر خود به جامعه و وحشت از هرگونه تجمع غیردولتی را عیان می‌کند.",
+            "کشیده شدن پای مسئولان امنیتی استانداری به این پرونده، نشان‌دهنده سردرگمی شدید در لایه‌های مدیریتی برای کنترل فضاهای عمومی است."
+        ],
+        "impact": "تشدید لجاجت حکومت با مطالبات اجتماعی و افزایش فاصله میان مردم و حاکمیت در فضاهای عمومی.",
+        "tag": "اجتماعی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609278375",
+        "clean_url": "https://www.iranintl.com/202609278375",
+        "image": "http://www.bing.com/th?id=ONUT.2d3ODG8-m3gYxArkGLWmOQ&pid=News",
+        "timestamp": 1790470740.0
+    },
+    {
         "id": "16f618ab27",
         "title_fa": "فشار اقتصادی واشنگتن بر ج.م.ا با ابزار تحریم",
         "title_en": "US treasury secretary claims successes in sanctions campaign to isolate Iran",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://www.mercurynews.com/2026/09/24/us-cybersecurity-agency-midterm-election-infrastructure-plan",
         "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/Election_2_26_Minnesota_Voting__8574-1.jpg?w=2000&h=1333",
         "timestamp": 1790242740.0
-    },
-    {
-        "id": "0e660eda8e",
-        "title_fa": "سخنرانی پزشکیان در سازمان ملل؛ پافشاری بر مقاومت در سایه جنگ",
-        "title_en": "Analysis | Pezeshkian's UN speech: Firm resistance and conditional diplomacy",
-        "summary": [
-            "مسعود پزشکیان در سازمان ملل از استمرار ایستادگی در برابر نظم ناعادلانه جهانی گفت.",
-            "دونالد ترامپ روز قبل از آن با لحنی تهدیدآمیز از تصمیم بزرگ خود درباره توافق یا فشار بر تهران سخن گفته بود."
-        ],
-        "impact": "بسته‌تر شدن روزنه‌های دیپلماسی و تثبیت وضعیت تقابل میان تهران و واشنگتن.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "parstoday",
-        "url": "https://parstoday.ir/en/news/iran-i246330-analysis_pezeshkian’s_un_speech_firm_resistance_and_conditional_diplomacy",
-        "clean_url": "https://parstoday.ir/en/news/iran-i246330-analysis_pezeshkian’s_un_speech_firm_resistance_and_conditional_diplomacy",
-        "image": "https://media.parstoday.ir/image/4cc179e250d9792qms4_800C450.jpg",
-        "timestamp": 1790242380.0
     }
 ]
