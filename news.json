@@ -18,6 +18,25 @@
         "timestamp": 1790513226.0
     },
     {
+        "id": "239887779d",
+        "title_fa": "رد پیشنهاد تهران توسط ترامپ؛ بی‌اثری اهرم فشار در تنگه هرمز",
+        "title_en": "فروغ کنعانی: جمهوری اسلامی با «دست باخته» وارد پیشنهاد تازه با آمریکا شده است",
+        "summary": [
+            "دونالد ترامپ پیشنهاد توقف هفت‌روزه درگیری و بازگشایی تنگه هرمز از سوی تهران را قاطعانه رد کرد.",
+            "اسکورت نفت‌کش‌ها توسط آمریکا و تداوم تحریم‌های سنگین، آخرین کارت بازی ج.ا.ا را از کار انداخته است.",
+            "تغییر موازنه قدرت باعث شده واشینگتن هیچ عجله‌ای برای توافق شتاب‌زده با شرایط ایران نداشته باشد."
+        ],
+        "impact": "با بی‌اثر شدن تهدید بستن تنگه هرمز، دست تهران در مذاکرات خالی‌تر شده و فشار اقتصادی شدت خواهد یافت.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.75,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609270086",
+        "clean_url": "https://www.iranintl.com/202609270086",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790507760.0
+    },
+    {
         "id": "3068a3b6f9",
         "title_fa": "اعتراض نمادین دانشگاهی و بحران کارآمدی مدرک تحصیلی",
         "title_en": "Articole despre \"diplomă\"",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://www.iranintl.com/202609244992",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/cf90a5071528b9325b2bea6a6100212a712b9384-5110x3183.jpg?rect=1416,550,2333,1225&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790251140.0
-    },
-    {
-        "id": "90dd601794",
-        "title_fa": "رهگیری ۶ موشک بالستیک حوثی‌ها توسط ائتلاف سعودی",
-        "title_en": "Saudi coalition says it shot down six ballistic missiles fired by Houthis at Taif and Yanbu",
-        "summary": [
-            "موشک‌های شلیک شده از سوی گروه نیابتی وابسته به تهران، شهرهای طائف و ینبع عربستان را هدف گرفته بودند.",
-            "سامانه‌های دفاعی ائتلاف موفق به انهدام این پرتابه‌ها شدند تا بحران امنیتی در شبه‌جزیره وارد فاز تازه‌ای شود."
-        ],
-        "impact": "افزایش سطح آماده‌باش نظامی در مرزهای جنوبی عربستان برای مقابله با تحرکات نیابتی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-shot-down-six-ballistic-missiles-fired-by-houthis-at-taif-and-yanbu/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-shot-down-six-ballistic-missiles-fired-by-houthis-at-taif-and-yanbu",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790250780.0
     }
 ]
