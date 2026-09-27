@@ -367,6 +367,25 @@
         "timestamp": 1790484900.0
     },
     {
+        "id": "7d6a730df5",
+        "title_fa": "طرح جنجالی وزیر اسرائیلی برای الحاق کرانه باختری و جنوب لبنان",
+        "title_en": "Smotrich: Israel must 'go to war' in West Bank as 'we did in Gaza,' annex most of Strip, south Lebanon",
+        "summary": [
+            "بزالل اسموتریچ خواستار جنگ تمام‌عیار در کرانه باختری مشابه عملیات غزه شد.",
+            "این مقام افراطی کابینه اسرائیل پیشنهاد داده بخش‌هایی از غزه و جنوب لبنان ضمیمه خاک اسرائیل شود.",
+            "هدف از این طرح تحمیل هزینه سنگین به محور مقاومت به خاطر رویدادهای هفتم اکتبر عنوان شده است."
+        ],
+        "impact": "افزایش تنش‌های منطقه‌ای و دامن زدن به بحران‌های مرزی در لبنان و اراضی فلسطینی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/smotrich-calls-on-israel-to-annex-southern-lebanon-most-of-gaza/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/smotrich-calls-on-israel-to-annex-southern-lebanon-most-of-gaza",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260616CG29-640x400.jpg",
+        "timestamp": 1790484780.0
+    },
+    {
         "id": "34ad457d85",
         "title_fa": "حمله سپاه به ۱۹ کشتی تجاری در تنگه هرمز",
         "title_en": "خبرگزاری فارس: نیروهای مسلح جمعه و شنبه ۱۹ کشتی «متخلف» را در تنگه هرمز هدف قرار دادند",
@@ -5491,23 +5510,5 @@
         "clean_url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/24/susan-sarandon-hannah-einbinder-arrested-at-protest-against-netanyahu/91923003007",
         "image": "http://www.bing.com/th?id=ONUT.Y6-HrnSLc8a5e9L0pbk_cw&pid=News",
         "timestamp": 1790254500.0
-    },
-    {
-        "id": "26b4f3f7a5",
-        "title_fa": "چالش‌های سنگین بوئینگ در مسیر احیای سهام",
-        "title_en": "What must happen for Boeing stock to get unstuck. The company needs, at least, to do its part",
-        "summary": [
-            "سهام شرکت بوئینگ تحت فشار ریسک‌های بازار چین و سایه سنگین جنگ احتمالی با ایران قرار دارد.",
-            "برنامه‌های مدیریتی مدیرعامل جدید هنوز نتوانسته افت نسبی ارزش سهام را جبران کند."
-        ],
-        "impact": "تداوم فضای رکودی و عدم قطعیت در سهام کلیدی صنایع هوافضای آمریکا",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/24/what-must-happen-for-boeing-stock-to-get-unstuck-the-company-needs-to-do-its-part.html",
-        "clean_url": "https://www.cnbc.com/2026/09/24/what-must-happen-for-boeing-stock-to-get-unstuck-the-company-needs-to-do-its-part.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108250212-1767906027935-gettyimages-2249102881-BOEING_737_MAX.jpeg?v=1776179424&w=1920&h=1080",
-        "timestamp": 1790252520.0
     }
 ]
