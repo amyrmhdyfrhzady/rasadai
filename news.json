@@ -75,6 +75,25 @@
         "timestamp": 1790487300.0
     },
     {
+        "id": "c8ad36b378",
+        "title_fa": "تلاش ته‌رآن برای دور زدن تحریم‌ها از مسیر خزر",
+        "title_en": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
+        "summary": [
+            "بسته شدن آبراه حیاتی جنوب توسط نیروی دریایی آمریکا، حکومت را ناچار به فعال‌سازی کریدورهای شمالی کرده است.",
+            "موضع سخت دونالد ترامپ و رد پیشنهاد باز کردن تنگه هرمز، بن‌بست دیپلماتیک را کامل کرده است.",
+            "مشکلات لجستیکی و افت سطح آب دریای خزر، کارایی این مسیر جایگزین را به شدت محدود می‌کند."
+        ],
+        "impact": "ناتوانی در صادرات نفت از جنوب، اقتصاد نیمه‌جان حکومت را بیش از پیش به سمت فروپاشی هل می‌دهد.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-shift-trade-north-caspian-084932427.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-shift-trade-north-caspian-084932427.html",
+        "image": "http://www.bing.com/th?id=ONUT.UQHMmgYR6Oh-fiQshPOgjw&pid=News",
+        "timestamp": 1790473800.0
+    },
+    {
         "id": "1b378eb933",
         "title_fa": "تنگ‌تر شدن حلقه تحریم‌ها با همراهی عمان، امارات و ترکیه",
         "title_en": "US thanks Turkey, Oman, UAE for supporting sanctions against Iran",
@@ -5482,23 +5501,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/america-is-stepping-back-from-a-region-it-never-managed-to-remake-101790240778601.html",
         "image": "https://www.hindustantimes.com/ht-img/img/2026/09/24/1600x900/logo/photo-1580128660010-fd027e1e587a_1790240935856_2SBx_1790240951483_s4A9_c6039b45-01a7-4733-8234-9d435cdd86df_QGQ1.jpg",
         "timestamp": 1790244000.0
-    },
-    {
-        "id": "7e266f959a",
-        "title_fa": "چالش خبرنگار سی‌ان‌ان با ترامپ درباره جنگ ایران",
-        "title_en": "Amid Trump's attempted media ban, Kaitlan Collins is having a moment − again",
-        "summary": [
-            "کیتلین کالینز در مجمع عمومی سازمان ملل متحد با وجود تلاش ترامپ برای اعمال ممنوعیت رسانه‌ای، سوال سختی درباره زمان پایان جنگ با ایران پرسید.",
-            "رسانه‌های ممنوعه با پیگیری حقوقی موفق شدند موقتاً مجوز پوشش خبری خود را پس بگیرند."
-        ],
-        "impact": "افزایش درگیری میان دولت ترامپ و رسانه‌های منتقد بر سر بحران جنگ.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/life/health-wellness/2026/09/24/trump-media-ban-kaitlan-collins-moment/91919143007/",
-        "clean_url": "https://www.usatoday.com/story/life/health-wellness/2026/09/24/trump-media-ban-kaitlan-collins-moment/91919143007",
-        "image": "http://www.bing.com/th?id=ONUT.8uoL55E7yK8p8xdFuOPZ0w&pid=News",
-        "timestamp": 1790243820.0
     }
 ]
