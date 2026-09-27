@@ -240,6 +240,44 @@
         "timestamp": 1790466600.0
     },
     {
+        "id": "a126255299",
+        "title_fa": "جنگ لفظی احزاب بریتانیا بر سر افزایش مالیات خدمات درمانی",
+        "title_en": "PM Andy Burnham proposes national care service in England to tackle 'threadbare' social care system",
+        "summary": [
+            "حزب کارگر طرحی برای راه‌اندازی شبکه ملی خدمات مراقبتی جهت نجات سیستم فرسوده کنونی ارائه کرده است.",
+            "حزب محافظه‌کار هرگونه افزایش مالیات را خط قرمز خوانده و آن را عامل نابودی مشاغل و ورشکستگی کسب‌وکارها می‌داند.",
+            "محافظه‌کاران پیشنهاد داده‌اند کسری بودجه به جای مالیات، از محل کاهش بودجه رفاهی تأمین شود."
+        ],
+        "impact": "افزایش تنش‌های پارلمانی پیرامون لایحه بودجه بریتانیا و بلاتکلیفی بخش رفاه عمومی.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/live/cj4zwkp2p1kt",
+        "clean_url": "https://www.bbc.com/news/live/cj4zwkp2p1kt",
+        "image": "http://www.bing.com/th?id=ONUT.V6TldjYkF6FZEXg25CP-Lg&pid=News",
+        "timestamp": 1790465220.0
+    },
+    {
+        "id": "7333fb3ef6",
+        "title_fa": "موج مخالفت عمومی با ساخت مراکز داده هوش مصنوعی",
+        "title_en": "The march of the data centres",
+        "summary": [
+            "شرکت‌های بزرگ فناوری در حال سرمایه‌گذاری چند تریلیون دلاری برای توسعه زیرساخت‌های پردازشی هوش مصنوعی تا سال ۲۰۳۰ هستند.",
+            "نظرسنجی‌های تازه نشان می‌دهد ۷۰ درصد شهروندان آمریکایی به دلیل مصرف سنگین برق و زمین، با استقرار این مراکز در نزدیکی محل سکونت خود مخالفند.",
+            "موج مخالفت‌های محلی در بریتانیا و آمریکا فراتر از حساسیت‌ها نسبت به نیروگاه‌های هسته‌ای رفته است."
+        ],
+        "impact": "احتمال ایجاد موانع قانونی و نظارتی جدی بر سر راه توسعه سریع زیرساخت‌های هوش مصنوعی.",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/march-data-centres-061500507.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/march-data-centres-061500507.html",
+        "image": "http://www.bing.com/th?id=ONUT.fIDoaL8QHY1Tr3zALhH8jg&pid=News",
+        "timestamp": 1790464500.0
+    },
+    {
         "id": "3917932707",
         "title_fa": "انتظار تهران برای پاسخ رسمی واشینگتن پس از رد مواضعش توسط ترامپ",
         "title_en": "Live - Iran says awaiting formal US answer after Trump rejection",
@@ -514,6 +552,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUtKVnZ0X3FLekNrc1N3cDBVdVJ5NmJGVWFrTlNZZGxKVHFta0xDWGgtS2I5SkRMMmQzZkRGdG16ci1BVjF3TGdJM0hGcXlrRjFoSzFFaTJCa0FyZkxNQTkyYURTaldRWDB5SDM0MjI5QUlzM1ZELUI1c0w2emFsSXpfbnZOS1J2SHFYYW5PU2RNc1Jhd3hxclppZkt6YWxVOWY2YTFTdzNZY3NHSlFpU2RBb0NIQQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790445174.0
+    },
+    {
+        "id": "2c127f9df6",
+        "title_fa": "پیامدهای منفی طرح ترامپ برای ممنوعیت صادرات گازوئیل",
+        "title_en": "Opinion: Why the proposed diesel ban could backfire on American drivers",
+        "summary": [
+            "دولت ترامپ قصد دارد با ممنوعیت صادرات گازوئیل، قیمت سوخت را در داخل آمریکا کاهش دهد.",
+            "کارشناسان انرژی هشدار می‌دهند سرکوب دستوری قیمت، پالایشگاه‌ها را وادار به کاهش تولید و تعدیل نیرو می‌کند.",
+            "برهم خوردن سازوکار بازار آزاد در میان‌مدت به کمبود سوخت و جهش شدیدتر قیمت‌ها منجر خواهد شد."
+        ],
+        "impact": "شوک قیمتی در بازار جهانی فرآورده‌های نفتی و کاهش حاشیه سود پالایشگاه‌ها.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Deseret News",
+        "url": "https://www.deseret.com/opinion/2026/09/27/diesel-ban-could-backfire/",
+        "clean_url": "https://www.deseret.com/opinion/2026/09/27/diesel-ban-could-backfire",
+        "image": "http://www.bing.com/th?id=ONUT.ViE3yByXdXUBSPy5jUeIMw&pid=News",
+        "timestamp": 1790442000.0
     },
     {
         "id": "67b98ecc8a",
@@ -5443,60 +5500,5 @@
         "clean_url": "https://www.usatoday.com/story/life/health-wellness/2026/09/24/trump-media-ban-kaitlan-collins-moment/91919143007",
         "image": "http://www.bing.com/th?id=ONUT.8uoL55E7yK8p8xdFuOPZ0w&pid=News",
         "timestamp": 1790243820.0
-    },
-    {
-        "id": "a279363d6b",
-        "title_fa": "هشدار سناتور آمریکایی درباره خطای محاسباتی ایران در قبال واشنگتن",
-        "title_en": "Iran misreading US political system by waiting for midterms: Rubio",
-        "summary": [
-            "مارکو روبیو تاکید کرد که نظام ج--مهوری اس--لامی با معطل نگه داشتن سیاست خارجی خود به امید نتایج انتخابات کنگره، دچار اشتباه محاسباتی بزرگی شده است.",
-            "واشنگتن حتی با تغییر اکثریت در کنگره نیز مسیر فشار بر تهران را تغییر نخواهد داد و محاسبات حکومت ایران با واقعیت‌های میدانی فاصله دارد."
-        ],
-        "impact": "تغییر نکردن فشارها بر تهران فارغ از تحولات جناحی در سیاست داخلی آمریکا.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjgzSndoMmxqbUZyX19RTjRMbXRnR0pFOFNqRFVFR2hpSGxvMm9PVVlUdUU1S0Y3Vjg4blhVZWplb0M3Y1BrVWRYUXFmYW0xc3VUNG9UUzF6YjlNUm1mUUlfdmNjSHFyUUx1ZXVnLW1JRXJNUVRiTGRzSmx5Vkt4enVrSVMyLUhxWDIyZnBQRDhaTmJHTVV6Y0FTelhFLVNwQzdhbUh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjgzSndoMmxqbUZyX19RTjRMbXRnR0pFOFNqRFVFR2hpSGxvMm9PVVlUdUU1S0Y3Vjg4blhVZWplb0M3Y1BrVWRYUXFmYW0xc3VUNG9UUzF6YjlNUm1mUUlfdmNjSHFyUUx1ZXVnLW1JRXJNUVRiTGRzSmx5Vkt4enVrSVMyLUhxWDIyZnBQRDhaTmJHTVV6Y0FTelhFLVNwQzdhbUh3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790243783.0
-    },
-    {
-        "id": "387fd8989c",
-        "title_fa": "ناکامی موشکی حوثی‌ها؛ پدافند عربستان ۶ بالستیک را در هوا پودر کرد",
-        "title_en": "Iran live updates: Saudi Arabia intercepts 6 Houthi ballistic missiles, military says",
-        "summary": [
-            "شلیک همزمان ۶ موشک بالستیک نشان‌دهنده دستور مستقیم تهران برای داغ کردن جبهه یمن است، اما آمادگی ریاض کل نقشه را نقش بر آب کرد.",
-            "شکست این حمله سنگین، ضعف تکنولوژیک تسلیحات ارسالی س*پاه به یمن در برابر سامانه‌های غربی را بار دیگر ثابت کرد.",
-            "رژ*یم با تحریک حوثی‌ها به دنبال باج‌گیری منطقه‌ای است، اما تقویت پدافند عربستان عملاً این اهرم فشار را بی‌اثر کرده است."
-        ],
-        "impact": "بی‌اثر شدن اهرم فشار موشکی حوثی‌ها و احتمال تشدید حملات هوایی ائتلاف به مواضع آن‌ها.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-saudi-arabia-intercepts-6-houthi-ballistic-missiles-military-says/ar-AA2cEt54",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-saudi-arabia-intercepts-6-houthi-ballistic-missiles-military-says/ar-AA2cEt54",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790243335.0
-    },
-    {
-        "id": "84b8006125",
-        "title_fa": "چالش‌های حقوقی هوش مصنوعی خودکار و حملات سایبری",
-        "title_en": "Autonomous AI hacks raise thorny questions of legal accountability",
-        "summary": [
-            "وزارت دادگستری آمریکا با پرونده‌های پیچیده ناشی از هک‌های خودکار توسط هوش مصنوعی روبرو شده است.",
-            "سیلیکون‌ولی و واشنگتن خواستار بازنگری در قوانین مربوط به جرایم سایبری هستند."
-        ],
-        "impact": "ایجاد خلأ قانونی جدی در حوزه امنیت سایبری و مسئولیت شرکت‌های فناوری.",
-        "tag": "فناوری",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/09/24/autonomous-ai-hacks-legal-accountability/",
-        "clean_url": "https://www.baltimoresun.com/2026/09/24/autonomous-ai-hacks-legal-accountability",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/AI_Hacks_Legal_Accountability_38983_8a33f6-1.jpg?w=2000&h=1334",
-        "timestamp": 1790242740.0
     }
 ]
