@@ -165,6 +165,25 @@
         "timestamp": 1790487300.0
     },
     {
+        "id": "c6be913cb0",
+        "title_fa": "خطای محاسباتی تهران؛ هشدار تیم ترامپ درباره توهم انتخابات آمریکا",
+        "title_en": "Iran ‘miscalculating’ by betting on midterms after 3-hour talks, Trump officials warn",
+        "summary": [
+            "دونالد ترامپ و مارکو روبیو هشدار دادند که ج.ا به اشتباه دل به انتخابات میان‌دوره‌ای آمریکا خوش کرده تا معامله بهتری بگیرد.",
+            "مقام‌های ارشد آمریکایی تاکید دارند اختیارات رئیس‌جمهور ایالات متحده برای اعمال فشار حداکثری و تحریم‌ها، وابسته به ترکیب کنگره نیست.",
+            "تیم ترامپ با افشای تاکتیک ج.ا نشان داد که راهبرد تلف کردن زمان توسط تهران، صرفاً باعث سنگین‌تر شدن هزینه فشار اقتصادی خواهد شد."
+        ],
+        "impact": "بطلان استراتژی زمان‌خریدن تهران و احتمال آغاز موج جدیدی از فشارهای اقتصادی پیش از هرگونه تغییر سیاسی در واشنگتن.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/money/general/iran-miscalculating-by-betting-on-midterms-after-3-hour-talks-trump-officials-warn/ar-AA2d3lFg",
+        "clean_url": "https://www.msn.com/en-us/money/general/iran-miscalculating-by-betting-on-midterms-after-3-hour-talks-trump-officials-warn/ar-AA2d3lFg",
+        "image": "http://www.bing.com/th?id=ONUT.P2Z6q4XMHmpeFZa1BNJRjA&pid=News",
+        "timestamp": 1790481603.0
+    },
+    {
         "id": "e30864307b",
         "title_fa": "سیل شدید در بانکوک و مناطق مرزی تایلند",
         "title_en": "Heavy rain causes floods and disruption in Bangkok and border province of Thailand",
@@ -5485,23 +5504,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGRCZnlueENXR3dmVk84bm04T1psVmVnZjk2TFdHWG5Vd1dSRm9JUERtTUIxTUdzXy1UbnpQNmJ2b3doVEJzTDNONVJvMGZhYjlMS2RQdVZVXzQ0VHZiY1VhYmQ0Tk9mX0R3WVlsY1JkTjlQSlFSM2FocTYwYmxNbnN4alB5c3B5R2U0SmtVLThRd1gzeERGc29oUk1MRTVUdVVoRnI1eWVLOXVac1ZzeE5fSVBoYk44cThaVVZn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790248914.0
-    },
-    {
-        "id": "d5e1ebb534",
-        "title_fa": "شکست قطعنامه اختیارات جنگ با ایران در سنا",
-        "title_en": "Husted, Moreno vote against Iran War Powers resolution again amid rising gas prices",
-        "summary": [
-            "قطعنامه محدودسازی اختیارات جنگی ترامپ در سنا با اختلاف یک رای (۴۹ به ۵۰) شکست خورد.",
-            "این رای‌گیری هم‌زمان با افزایش قیمت سوخت و نگرانی‌های اقتصادی در آمریکا انجام شد."
-        ],
-        "impact": "دست باز ترامپ برای ادامه تنش‌های نظامی بدون مهار کنگره.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "cleveland.com",
-        "url": "https://www.cleveland.com/news/2026/09/husted-moreno-vote-against-iran-war-powers-resolution-again-amid-rising-gas-prices.html",
-        "clean_url": "https://www.cleveland.com/news/2026/09/husted-moreno-vote-against-iran-war-powers-resolution-again-amid-rising-gas-prices.html",
-        "image": "http://www.bing.com/th?id=ONUT.L3VECb0BWX8xCpzC_4oCMw&pid=News",
-        "timestamp": 1790248800.0
     }
 ]
