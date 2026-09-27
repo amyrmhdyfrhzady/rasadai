@@ -274,6 +274,24 @@
         "timestamp": 1790484000.0
     },
     {
+        "id": "a13f5b3b2c",
+        "title_fa": "تهدید آمریـکا توسط جـمهوری اسـلامی به حملـه به پایگاه‌ها",
+        "title_en": "US-Israel-Iran war latest live news: Tehran warns of attacks on US bases if conflict escalates; what happens to Iran's 7-day Hormuz plan?",
+        "summary": [
+            "تهران رسماً هشدار داده اگر واشنگتن وارد درگیری شود، منافع و پایگاه‌های نظامی آمـریـکا در منطقه هدف قرار می‌گیرند.",
+            "بررسی سناریوی موسوم به طرح ۷ روزه هرمز توسط نهادهای نظامی برای بستن آبراه حیاتی نفت."
+        ],
+        "impact": "افزایش ریسک نظامی در خلیج فارس و احتمال اخلال در بازار انرژی جهانی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-tehran-warns-of-attacks-on-us-bases-if-conflict-escalates-what-happens-to-iran-s-7-day-hormuz-plan/ar-AA2d37S8",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-tehran-warns-of-attacks-on-us-bases-if-conflict-escalates-what-happens-to-iran-s-7-day-hormuz-plan/ar-AA2d37S8",
+        "image": "http://www.bing.com/th?id=ONUT.VWIbHC-aOZC8yn9-a_VbMQ&pid=News",
+        "timestamp": 1790481960.0
+    },
+    {
         "id": "c6be913cb0",
         "title_fa": "خطای محاسباتی تهران؛ هشدار تیم ترامپ درباره توهم انتخابات آمریکا",
         "title_en": "Iran ‘miscalculating’ by betting on midterms after 3-hour talks, Trump officials warn",
@@ -5487,23 +5505,5 @@
         "clean_url": "https://www.iranintl.com/202609244352",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790250120.0
-    },
-    {
-        "id": "9f0befad67",
-        "title_fa": "هشدار آلمان درباره بن‌بست اتمی و تهدیدهای دریایی حکومت",
-        "title_en": "Iran’s nuclear threat helped trigger war, German FM tells Al Arabiya",
-        "summary": [
-            "وزیر خارجه آلمان اعلام کرد برنامه‌های اتمی تهران محرک اصلی جنگ‌های اخیر بوده و تضمینی برای امنیت حاکمان این کشور وجود ندارد.",
-            "برلین هرگونه اخذ عوارض غیرقانونی از کشتی‌ها در تنگه هرمز را محکوم کرده و خواستار آزادی کامل کشتیرانی بین‌المللی شد."
-        ],
-        "impact": "افزایش فشارهای دیپلماتیک اروپا بر تهران همزمان با بحران‌های منطقه‌ای",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609242047",
-        "clean_url": "https://www.iranintl.com/en/202609242047",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/d1910b1276ff0892e6e57f4968442b5f0a80995e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790249940.0
     }
 ]
