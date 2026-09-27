@@ -18,6 +18,24 @@
         "timestamp": 1790542380.0
     },
     {
+        "id": "0b85934f15",
+        "title_fa": "بازی دو سر باخت تکرار شد؛ باج‌خواهی یا آتش‌بس؟",
+        "title_en": "'A pretty cynical attempt': Trump's UN envoy links Iran's ceasefire offer to sanctions relief",
+        "summary": [
+            "تیم ترامپ پیشنهاد آتش‌بس ج.ا را به شدت زیر سوال برد و آن را تلاشی برای فرار از تحریم‌ها دانست.",
+            "دستگاه دیپلماسی ج.ا از رد این پیشنهاد شاکی است اما واشنگتن روی فشار حداکثری پای می‌فشارد."
+        ],
+        "impact": "آمریکا راه هرگونه امتیازدهی آسان را بسته و فشار تحریمی را تنها مسیر می‌داند.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "MEAWW News",
+        "url": "https://www.msn.com/en-us/news/other/a-pretty-cynical-attempt-trump-s-un-envoy-links-iran-s-ceasefire-offer-to-sanctions-relief/ar-AA2d4c4X",
+        "clean_url": "https://www.msn.com/en-us/news/other/a-pretty-cynical-attempt-trump-s-un-envoy-links-iran-s-ceasefire-offer-to-sanctions-relief/ar-AA2d4c4X",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2d4c4R.img?w=1200&h=630&m=4&q=80",
+        "timestamp": 1790541015.0
+    },
+    {
         "id": "2f9b12fdbf",
         "title_fa": "بازی خطرناک با تنگه هرمز و بن‌بست توافق با واشینگتن",
         "title_en": "لیلا مروتی: طرح مجلس درباره تنگه هرمز خطر رویارویی با آمریکا را افزایش میدهد",
@@ -5493,23 +5511,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/blockade-bites-hard-at-iran-s-borders-trump-can-t-cave-now/ar-AA2cVFfw",
         "image": "http://www.bing.com/th?id=ONUT.s83H2al7mR4MM-TC19b5Nw&pid=News",
         "timestamp": 1790274009.0
-    },
-    {
-        "id": "79f784ee15",
-        "title_fa": "نتانیاهو: سوگند خوردم مانع اتمی شدن ج.ا شوم",
-        "title_en": "بنیامین نتانیاهو: سوگند خوردم مانع از دستیابی دیکتاتوری آدمکش ایران به بمب اتم شوم",
-        "summary": [
-            "نخست‌وزیر اسرائیل در سازمان ملل تأکید کرد که انهدام تاسیسات هسته‌ای ایران یکی از آسان‌ترین تصمیم‌های دوران کاری‌اش بوده است.",
-            "او اشاره کرد که برخی کشورها در پشت پرده از این اقدامات قدردانی می‌کنند، هرچند در ظاهر رویکرد متفاوتی دارند."
-        ],
-        "impact": "تأکید تل‌آویو بر تداوم سیاست مقابله قاطع با برنامه‌های هسته‌ای تهران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609249978",
-        "clean_url": "https://www.iranintl.com/202609249978",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/e847fa2eba60e0d374acbf74d9d7d0a068510d43-800x533.jpg?w=300&h=200&q=58&fit=crop&auto=format",
-        "timestamp": 1790273580.0
     }
 ]
