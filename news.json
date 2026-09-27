@@ -19,6 +19,24 @@
         "timestamp": 1790538540.0
     },
     {
+        "id": "5155b0e5a6",
+        "title_fa": "ثبت نرخ ارز دلار و ریال در بازارهای جهانی",
+        "title_en": "US Dollar to Iranian Rial USD/IRR",
+        "summary": [
+            "سامانه Economies.com آخرین تغییرات و نوسانات نرخ برابری دلار آمریکا در برابر ریال ایران را منتشر کرد.",
+            "این آمار شامل قیمت‌های بازگشایی، بیشترین، کمترین و نرخ نهایی معاملات است."
+        ],
+        "impact": "نمایش مداوم آشفتگی و نوسانات نرخ ارز در بازار.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Economies.com",
+        "url": "https://www.economies.com/forex/usd-irr",
+        "clean_url": "https://www.economies.com/forex/usd-irr",
+        "image": "https://dixdeynibyck7.cloudfront.net/images/logos/EconomiesOG.png",
+        "timestamp": 1790537400.0
+    },
+    {
         "id": "b56afc23f9",
         "title_fa": "رد پیشنهاد آتش‌بس ۷ روزه ایران توسط ترامپ",
         "title_en": "Blockade stays: Why the White House just walked away from the Iran proposal",
@@ -129,6 +147,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2NSalJ6YXVPUEZrbXpoQ05LYXRGNlM0ekVIY29qdUxmREJHMGhQZmdxQW04eGNEMFkycFNTUmQtMGhiM2V0QVo2U2lmSC04T0dSaGNzaWtHMWNhVktOc1I3SzI2cjBiNTNpSktWeWJsMmVFOE5DSFVnaE5WLWdGdXVCVUxEZlFz0gGOAUFVX3lxTFBsRnZRcFU1UHZHQ2RmWHFyQThnZHBHYXB0SDJGQldDMllFSjNxWW5XbnVLajljWF9EV2tRU0hPdFd4WUx5dnhBanNqbkNURWs3UkJYZkFGM2gxdDNLSWdMMnlyVURoOHVnNHA1LVAySVZvRFpRM1Y4RGxtbml1c1UtSWstV00zN2Jfd0FfT2c",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790526360.0
+    },
+    {
+        "id": "d2154b179e",
+        "title_fa": "دو راهی سخت ترامپ برای ایران: توافق یا نابودی",
+        "title_en": "Meet the Press",
+        "summary": [
+            "فشارها بر واشنگتن برای پایان دادن به درگیری‌ها با نزدیک شدن به انتخابات میاندوره‌ای شدت گرفته است.",
+            "عباس عراقچی و مایک والتز مهمان برنامه این هفته برای بررسی زوایای پنهان پرونده ایران بودند."
+        ],
+        "impact": "افزایش فشارهای سیاسی داخلی در آمریکا همزمان با بحران قیمت سوخت و پرونده ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-september-27-2026-rcna600077",
+        "clean_url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-september-27-2026-rcna600077",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/MTP-Sunday-Transcript-Photo-high-res-942b2f.jpg",
+        "timestamp": 1790524740.0
     },
     {
         "id": "60b8d101dd",
@@ -401,6 +437,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXE2NWU4bXpTMjM3dWVDR01TaDFXUlhuRmlxQy1nOThWcWNpSGFfUTNZWnY5ekl4T3pER1lFSWNBcERxT1QwTzgyMnhmS1VrUFd1UjdxN1NHTjNmVGtRa2hCT3ZxQTFKQ1pvbTNkdFVfSTJFVm8xU3pRc0pTNnBoc3JndVZCSzZqaEl6eWNzaFBMQktwS1NIdEZYeVF5QQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790506149.0
+    },
+    {
+        "id": "bf429dc3c0",
+        "title_fa": "عقب‌نشینی آمریکا از خاورمیانه پس از سه دهه تلاش ناکام",
+        "title_en": "America is stepping back from a region it never managed to remake",
+        "summary": [
+            "رویای هژمونی بدون رقیب آمریکا در خاورمیانه که از سال ۱۹۹۱ آغاز شده بود، اکنون به پایان خود نزدیک می‌شود.",
+            "تلاش‌های واشنگتن برای بازتولید نظم نوین در منطقه با شکست مواجه شده است."
+        ],
+        "impact": "تغییر راهبرد کلان ایالات متحده و کاهش دخالت مستقیم در معادلات خاورمیانه.",
+        "tag": "تحلیل کلان",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "derStandard.de",
+        "url": "https://www.derstandard.de/story/3000000341249/america-is-stepping-back-from-a-region-it-never-managed-to-remake",
+        "clean_url": "https://www.derstandard.de/story/3000000341249/america-is-stepping-back-from-a-region-it-never-managed-to-remake",
+        "image": "https://i.ds.at/CwRV7g/rs:fill:1200:600/plain/lido-images/2026/09/25/02404974-7796-45a3-9210-1ae06c1297b1.jpg",
+        "timestamp": 1790505300.0
     },
     {
         "id": "208691d4a8",
@@ -5457,58 +5511,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-praises-us-china-friendship-talks-up-white-house-ballroom-during-state-dinner-for-china-s-xi/ar-AA2cVhds",
         "image": "http://www.bing.com/th?id=ONUT.PPukuzazlWRBaRIQgKBkPw&pid=News",
         "timestamp": 1790272444.0
-    },
-    {
-        "id": "df0b9315df",
-        "title_fa": "شکایت گروه ایرانی-آمریکایی از ترامپ بر سر جنگ",
-        "title_en": "Iranian-American group sues Trump over war",
-        "summary": [
-            "یک تشکل از شهروندان ایرانی-آمریکایی علیه سیاست‌های جنگ‌طلبانه ترامپ اقامه دعوا کردند."
-        ],
-        "impact": "آغاز چالش‌های حقوقی جدید در خصوص تصمیمات نظامی مرتبط با ایران",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFB5SjdrcXd0VEYtY0doMlIzaTlpM0tRQTFzZHlDSmtZZkkzYk1CSHRPeE1JcXRVUWlZSmVkREdOaHhGaHFDa1JtOTl4Y1Bpc2FNTC0zdWdMNDY1dTdGU1MwUGthTXFhaU9aWDEzMzUwSXB5dVNZSVpwcDBCekNNTXZ6QVpqamlUZHhv0gGQAUFVX3lxTE9vOWdueXRkRmFYaTFtWUUwS0UwSkxhT2tJMmdraEtQZXo4NExMaW9ERGtPOGdzZGJIaXVyNmpvR3JBbng3Z196MjdKanN2QmhrbmVUVUxJWGg0LWNqbDBKYnZLUHJtY3hHeldELWxhZWNpdXc0UUk1VzRqR3dUaTk2bUpBOVFLMGJCMjlQSjQwSg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFB5SjdrcXd0VEYtY0doMlIzaTlpM0tRQTFzZHlDSmtZZkkzYk1CSHRPeE1JcXRVUWlZSmVkREdOaHhGaHFDa1JtOTl4Y1Bpc2FNTC0zdWdMNDY1dTdGU1MwUGthTXFhaU9aWDEzMzUwSXB5dVNZSVpwcDBCekNNTXZ6QVpqamlUZHhv0gGQAUFVX3lxTE9vOWdueXRkRmFYaTFtWUUwS0UwSkxhT2tJMmdraEtQZXo4NExMaW9ERGtPOGdzZGJIaXVyNmpvR3JBbng3Z196MjdKanN2QmhrbmVUVUxJWGg0LWNqbDBKYnZLUHJtY3hHeldELWxhZWNpdXc0UUk1VzRqR3dUaTk2bUpBOVFLMGJCMjlQSjQwSg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790272161.0
-    },
-    {
-        "id": "0df97a6555",
-        "title_fa": "رای‌گیری سنا درباره جنگ با ايران در سایه فشار تورمی",
-        "title_en": "Senate to vote on ending Iran war as Americans face higher fuel costs from conflict",
-        "summary": [
-            "سنای آمریکا دست به کار شده تا به درگیری‌های نظامی با ای-ران پایان دهد.",
-            "افزایش هزینه‌های سوخت برای شهروندان آمریکایی، قانون‌گذاران را زیر فشار گذاشته است."
-        ],
-        "impact": "فشار داخلی در آمریکا برای توقف درگیری‌ها می‌تواند معادلات نظامی منطقه را به سرعت تغییر دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcEFuR2ltdy1LY0IzMk11WU1zaC1QZFVnZnQ0cnNZenBmVVZDX3c0NUNFNjhrQXhMdW9fSGZwRVJRcDZualZ5dDZMOUNHMjU1REdqbmNfb3RpZXF1NEV3V0FTU1lzUFJXNHBNNUNReERwZ0o5a3pINNIBfkFVX3lxTFAtLWJtQURVTkdxT3VyQ0FxVGZldldwcml6ZXVFU0ZuX2pCUlQzUEtQNi04U3ltWUMtQUp0Tzg2SmszUUF0R2M2QnNuRTJ1TkdyQkk4YWhRVzlqdk9DTnZsdlp1ZDhQeTh1aVFaRV9uLUdIdDFpRGRlUTVrakZ5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcEFuR2ltdy1LY0IzMk11WU1zaC1QZFVnZnQ0cnNZenBmVVZDX3c0NUNFNjhrQXhMdW9fSGZwRVJRcDZualZ5dDZMOUNHMjU1REdqbmNfb3RpZXF1NEV3V0FTU1lzUFJXNHBNNUNReERwZ0o5a3pINNIBfkFVX3lxTFAtLWJtQURVTkdxT3VyQ0FxVGZldldwcml6ZXVFU0ZuX2pCUlQzUEtQNi04U3ltWUMtQUp0Tzg2SmszUUF0R2M2QnNuRTJ1TkdyQkk4YWhRVzlqdk9DTnZsdlp1ZDhQeTh1aVFaRV9uLUdIdDFpRGRlUTVrakZ5Zw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790271735.0
-    },
-    {
-        "id": "ebe7c54bfc",
-        "title_fa": "اعتراف صریح به اهداف اتمی دفاعی",
-        "title_en": "Iran admits nuclear defense aspiration goals",
-        "summary": [
-            "مقام‌های ج.ا بار دیگر به تلاش برای توسعه برنامه‌های هسته‌ای اعتراف کردند.",
-            "این اعترافات فشار بین‌المللی برای مهار برنامه‌های اتمی را تشدید می‌کند."
-        ],
-        "impact": "افزایش احتمال فعال‌سازی مکانیزم ماشه و تحریم‌های جدید علیه تهران",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Vnl1eERJYVJCWmNmSko2R2M0N1cxcHh5Ynp3bFptZ004TGNoUTJUb0EwT3gyM1A1U21OMm9YNXl3WWF5bk42SDcwT2pWUE90RVpyQkxDU2ZIZThfYVVLZ1ZMVW5kMGZhZU81X3F4S3FhSXgwWGI2T1ZvRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Vnl1eERJYVJCWmNmSko2R2M0N1cxcHh5Ynp3bFptZ004TGNoUTJUb0EwT3gyM1A1U21OMm9YNXl3WWF5bk42SDcwT2pWUE90RVpyQkxDU2ZIZThfYVVLZ1ZMVW5kMGZhZU81X3F4S3FhSXgwWGI2T1ZvRQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790271614.0
     }
 ]
