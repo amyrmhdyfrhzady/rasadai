@@ -112,6 +112,24 @@
         "timestamp": 1790526360.0
     },
     {
+        "id": "60b8d101dd",
+        "title_fa": "بازداشت چند نفر به اتهام بمب‌گذاری در پایگاه هوایی بریتانیا",
+        "title_en": "Several arrested over suspected explosives threat at US Fairford air base in UK",
+        "summary": [
+            "پلیس بریتانیا چند مرد را به جرم قانون مواد منفجره در پایگاه فارفرد دستگیر کرد.",
+            "سطح امنیت در این پایگاه هوایی مهم پس از تهدیدهای اخیر بالا رفته بود."
+        ],
+        "impact": "بالاررفتن ضریب امنیتی در تاسیسات حساس نظامی بریتانیا.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-ca/news/other/gloucestershire-police-warn-of-possible-explosive-threat-as-us-fairford-air-base-increases-security/ar-AA2d3sfJ",
+        "clean_url": "https://www.msn.com/en-ca/news/other/gloucestershire-police-warn-of-possible-explosive-threat-as-us-fairford-air-base-increases-security/ar-AA2d3sfJ",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260312__A2ZD97N__v1__HighRes__BritainIranUsIsraelWar.jpg",
+        "timestamp": 1790523347.0
+    },
+    {
         "id": "f2937990e3",
         "title_fa": "بن‌بست کامل در توافق تهران و واشنگتن در تنگه هرمز",
         "title_en": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
@@ -5492,23 +5510,5 @@
         "clean_url": "https://www.msn.com/en-xl/asia/pakistan/islamabad-mou-still-fully-acceptable-to-iran-pezeshkian-tells-pm-shehbazpublished-on-september-25-2026-454-am/ar-AA2cVncW",
         "image": "http://www.bing.com/th?id=ONUT.TIdM8LaDHQVSz8dOSEmPmA&pid=News",
         "timestamp": 1790270040.0
-    },
-    {
-        "id": "aa13316820",
-        "title_fa": "تهدید ترامپ به نابودی کامل جمهوری اسلامی در سازمان ملل",
-        "title_en": "This Is Trump’s Twisted New Fixation: Wolff",
-        "summary": [
-            "ترامپ در مجمع عمومی سازمان ملل از گزینه نابودی سریع و فرستادن حکومت ایران به جهنم سخن گفت.",
-            "تیم رسانه‌ای کاخ سفید به دنبال یافتن واژه‌ای جایگزین برای تهدیدهای نظامی ترامپ است."
-        ],
-        "impact": "افزایش شدید تنش‌های لفظی و نظامی میان واشنگتن و تهران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/this-is-donald-trumps-twisted-new-fixation-wolff/",
-        "clean_url": "https://www.thedailybeast.com/this-is-donald-trumps-twisted-new-fixation-wolff",
-        "image": "http://www.bing.com/th?id=ONUT.PNdSS6x67OGCOVJaiVMj7A&pid=News",
-        "timestamp": 1790269260.0
     }
 ]
