@@ -277,6 +277,25 @@
         "timestamp": 1790524740.0
     },
     {
+        "id": "84cef619cc",
+        "title_fa": "دست رد ترامپ به پیشنهاد تهران؛ عراقچی از آمادگی برای جنگ تا روز رستاخیز گفت",
+        "title_en": "Trump rejects deal, Iran diplomat calls for ‘negotiated solution’",
+        "summary": [
+            "دونالد ترامپ پیشنهاد آتش‌بس و بازگشایی تنگه هرمز از سوی تهران را رد کرد تا سیاست فشار حداکثری پابرجا بماند.",
+            "عباس عراقچی از آمادگی کامل برای جنگی شدید خبر داد اما همزمان مدعی شد دیپلماسی همچنان روی میز است.",
+            "طرح جدید ایران تفاوت چندانی با توافق‌های قبلی ندارد و تنها ترتیب اجرای تعهدات در آن جابجا شده است."
+        ],
+        "impact": "بسته شدن مسیر توافق سریع و افزایش ریسک درگیری‌های نظامی در منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Asia Times",
+        "url": "https://asiatimes.com/2026/09/trump-rejects-deal-iran-diplomat-calls-for-negotiated-solution/",
+        "clean_url": "https://asiatimes.com/2026/09/trump-rejects-deal-iran-diplomat-calls-for-negotiated-solution",
+        "image": "https://asiatimes.com/wp-content/uploads/2026/09/AA-20251130-39852458-39852446-HAKAN_FIDAN_ABBAS_ARAGHCHI_MEETING_IN_TEHRAN-copy.jpg",
+        "timestamp": 1790524500.0
+    },
+    {
         "id": "60b8d101dd",
         "title_fa": "بازداشت چند نفر به اتهام بمب‌گذاری در پایگاه هوایی بریتانیا",
         "title_en": "Several arrested over suspected explosives threat at US Fairford air base in UK",
@@ -5496,23 +5515,5 @@
         "clean_url": "https://www.foxnews.com/live-news/netanyahu-iran-war-news-us-oil-prices-strait-of-hormuz-9-24-26",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/693d46b4051a2f34ee0ea8d387357513.jpg",
         "timestamp": 1790279520.0
-    },
-    {
-        "id": "a285fefd67",
-        "title_fa": "شکست طرح محدود کردن جنگ با ایران در سنای آمریکا",
-        "title_en": "Iran live updates: Netanyahu touts Israel's war efforts, praises Trump at UN speech",
-        "summary": [
-            "سنای آمریکا با اختلاف نزدیک یک رای، قطعنامه قدرت‌های جنگی علیه ایران را رد کرد.",
-            "نتانیاهو در سازمان ملل از دستاوردهای جنگی اسرائیل تمجید کرد و از ترامپ نام برد."
-        ],
-        "impact": "دست باز واشنگتن برای تداوم سیاست‌های جاری در قبال تنش‌های خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "ABC News",
-        "url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503",
-        "clean_url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks",
-        "image": "https://i.abcnewsfe.com/a/29c6d081-3a28-4195-ab46-d9ea3fbe8076/Tehran-DB-260921_1789976622887_hpMain_16x9.jpg?w=1600",
-        "timestamp": 1790279340.0
     }
 ]
