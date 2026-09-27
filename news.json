@@ -167,6 +167,24 @@
         "timestamp": 1790526360.0
     },
     {
+        "id": "a5b210f078",
+        "title_fa": "توقف مذاکرات تنگه هرمز و شرط‌گذاری واشنگتن و تهران",
+        "title_en": "US, Iran trade blame as Strait of Hormuz ceasefire talks stall",
+        "summary": [
+            "دونالد ترامپ پیش‌بینی کرد با پایان درگیری‌ها و تسلیم شدن جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی، قیمت نفت به شدت سقوط کند.",
+            "واشنگتن توافق را مشروط به راستی‌آزمایی برنامه هسته‌ای کرده، در حالی که تهران خواستار لغو تحریم‌ها پیش از بازگشایی تنگه هرمز است."
+        ],
+        "impact": "تنش در تنگه هرمز قیمت نفت را در بالاترین سطح نگه داشته و بازار جهانی را در ابهام فرو برده است.",
+        "tag": "تنگه هرمز",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Straight Arrow News",
+        "url": "https://san.com/cc/us-iran-trade-blame-as-strait-of-hormuz-ceasefire-talks-stall/",
+        "clean_url": "https://san.com/cc/us-iran-trade-blame-as-strait-of-hormuz-ceasefire-talks-stall",
+        "image": "https://san.com/wp-content/uploads/2026/09/AP26270468261640_AP_Images_clean.jpg",
+        "timestamp": 1790524800.0
+    },
+    {
         "id": "d2154b179e",
         "title_fa": "دو راهی سخت ترامپ برای ایران: توافق یا نابودی",
         "title_en": "Meet the Press",
@@ -5493,23 +5511,5 @@
         "clean_url": "https://www.iranintl.com/202609249978",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/e847fa2eba60e0d374acbf74d9d7d0a068510d43-800x533.jpg?w=300&h=200&q=58&fit=crop&auto=format",
         "timestamp": 1790273580.0
-    },
-    {
-        "id": "ede1ccf604",
-        "title_fa": "پاسخ مسعود پزشکیان به تهدیدهای ائتلاف تروما در سازمان ملل",
-        "title_en": "Trump threatened to 'annihilate' Iran. Its president laid out Tehran's demands at the UN",
-        "summary": [
-            "مسعود پزشکیان در سازمان ملل برنامه هسته‌ای و موشکی تهران را کاملاً دفاعی خوانեց و هشدارهای دونالد ترامپ را رد کرد.",
-            "تهران مواضع خود را درباره تنگه هرمز و توان نظامی حفظ کرده است تا بگوید زیر بار فشار حداکثری نمی‌رود."
-        ],
-        "impact": "تشدید جنگ لفظی میان تهران و واشنگتن در آستانه بازگشت احتمالی سیاست فشار حداکثری.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Arkansas Public Advocate",
-        "url": "https://www.msn.com/en-us/news/other/trump-threatened-to-annihilate-iran-its-president-laid-out-tehran-s-demands-at-the-un/ar-AA2cUxnK",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-threatened-to-annihilate-iran-its-president-laid-out-tehran-s-demands-at-the-un/ar-AA2cUxnK",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790273428.0
     }
 ]
