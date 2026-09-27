@@ -607,6 +607,25 @@
         "timestamp": 1790508420.0
     },
     {
+        "id": "e8098f0dc1",
+        "title_fa": "ترامپ احتمال حملات تازه به ایران را رد نکرد",
+        "title_en": "Trump won't rule out more Iran strikes as Pezeshkian touts path back to nuclear talks",
+        "summary": [
+            "دونالد ترامپ از پیروزی زودهنگام در درگیری با جـمهوری اسـلامی خبر داد.",
+            "جلوگیری از دسترسی حـکومت به سلاح هسته‌ای خط قرمز اصلی واشنگتن است.",
+            "فشار حداکثری اقتصادی و نظامی همزمان اقتصاد ايران را زمین‌گیر کرده است."
+        ],
+        "impact": "بازار نفت و نرخ ارز تحت تأثیر احتمال دور جدید حملات نظامی قرار می‌گیرد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-strait-of-hormuz-donald-trump-09-27-26",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-strait-of-hormuz-donald-trump-09-27-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/19f886f494cd00198b64159371102497.jpg?ve=1&tl=1",
+        "timestamp": 1790507820.0
+    },
+    {
         "id": "239887779d",
         "title_fa": "رد پیشنهاد تهران توسط ترامپ؛ بی‌اثری اهرم فشار در تنگه هرمز",
         "title_en": "فروغ کنعانی: جمهوری اسلامی با «دست باخته» وارد پیشنهاد تازه با آمریکا شده است",
@@ -5497,23 +5516,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790281308.0
-    },
-    {
-        "id": "ff8558c3f0",
-        "title_fa": "درگیری لفظی نتانیاهو با شهردار نیویورک در سازمان ملل",
-        "title_en": "Netanyahu blasts Mamdani at UN: 'You can't silence me. You can't silence the truth'",
-        "summary": [
-            "نخست‌وزیر اسرائیل در سازمان ملل از شهردار نیویورک به دلیل مواضعش شدیداً انتقاد کرد.",
-            "نتانیاهو یهودیان نیویورک را ناامن خواند و شهردار این شهر را به حمایت از حماس متهم کرد."
-        ],
-        "impact": "تشدید تنش‌های سیاسی میان مقامات اسرائیل و شهرداری نیویورک و افزایش شکاف‌های دیپلماتیک.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/netanyahu-iran-war-news-us-oil-prices-strait-of-hormuz-9-24-26",
-        "clean_url": "https://www.foxnews.com/live-news/netanyahu-iran-war-news-us-oil-prices-strait-of-hormuz-9-24-26",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/693d46b4051a2f34ee0ea8d387357513.jpg",
-        "timestamp": 1790279520.0
     }
 ]
