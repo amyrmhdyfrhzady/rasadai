@@ -147,6 +147,25 @@
         "timestamp": 1790445174.0
     },
     {
+        "id": "02040a7887",
+        "title_fa": "فلج ساختاری صنعت ن... نفت ای...ران",
+        "title_en": "Iran’s oil industry has too many masters",
+        "summary": [
+            "بحران اصلی نفت ا...یران تنها تحریم نیست، بلکه فروپاشی زنجیره مدیریت، تصمیم‌گیری و شفافیت مالی است.",
+            "واگذاری پروژه‌ها به نهادهای ن...ظامی و صندوق‌های بازنشستگی در دو دهه گذشته، این صنعت را به شدت تکه‌تکه کرده است.",
+            "هیچ نهاد مشخصی در برابر هزینه‌ها، قراردادها و درآمدهای نفتی پاسخگو نیست."
+        ],
+        "impact": "انهدام ساختاری و تاراج درآمدهای نفتی توسط نهادهای غیرپاسخگو.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609260718",
+        "clean_url": "https://www.iranintl.com/en/202609260718",
+        "image": "http://www.bing.com/th?id=ONUT.hmQY2iPEOLdXAoHdDq_SXA&pid=News",
+        "timestamp": 1790440620.0
+    },
+    {
         "id": "7f78d1b02d",
         "title_fa": "رد پیشنهاد کنترل تنگه هرمز از سوی ترامپ",
         "title_en": "US-Iran war news updates: Donald Trump rejects Iran's proposal to reopen the Strait of Hormuz",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-1228028875-1790076008.jpg?resize=1920%2C1440",
         "timestamp": 1790223000.0
-    },
-    {
-        "id": "5070626b43",
-        "title_fa": "آماده‌باش امنیتی در عربستان همزمان با حملات نیابتی",
-        "title_en": "Iran live updates: Saudi Arabia issues safety alerts covering Jeddah, Mecca",
-        "summary": [
-            "عربستان سعودی هشدارهای امنیتی فوری برای شهرهای مهم خود صادر کرد.",
-            "شبه‌نظامیان حوثی وابسته به تهران به طور مداوم خاک عربستان را هدف حملات پهپادی و موشکی قرار می‌دهند."
-        ],
-        "impact": "افزایش تنش‌های امنیتی در منطقه و بالا رفتن احتمال واکنش نظامی ائتلاف.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-saudi-arabia-issues-safety-alerts-covering-jeddah-mecca/ar-AA2cEt54",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-saudi-arabia-issues-safety-alerts-covering-jeddah-mecca/ar-AA2cEt54",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790222157.0
     }
 ]
