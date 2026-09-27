@@ -291,6 +291,24 @@
         "timestamp": 1790499663.0
     },
     {
+        "id": "abf2e50b13",
+        "title_fa": "فلج شدن واردات موبایل با قطع پروازهای عمان",
+        "title_en": "Oman flight suspension disrupts Iran’s mobile phone imports",
+        "summary": [
+            "بیش از نود درصد گوشی‌های موبایل کشور از طریق حمل‌ونقل هوایی و با واسطه عمان وارد می‌شدند.",
+            "توقف پروازهای عمان زنجیره تأمین موبایل را مختل کرده و واردکنندگان را در بن‌بست جدی قرار داده است."
+        ],
+        "impact": "کاهش شدید عرضه موبایل و جهش دوباره قیمت‌ها در بازار داخلی.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609275321",
+        "clean_url": "https://www.iranintl.com/en/202609275321",
+        "image": "http://www.bing.com/th?id=ONUT.5TTYxTS1IQagIfJ3B-HI6w&pid=News",
+        "timestamp": 1790498880.0
+    },
+    {
         "id": "e7aef672d4",
         "title_fa": "بن‌بست در هرمز؛ ترامپ پیشنهاد آتش‌بس تهران را رد کرد",
         "title_en": "علی شیرازی: فشار ناشی از ناامنسازی هرمز اکنون متوجه خود جمهوری اسلامی است",
@@ -5493,23 +5511,5 @@
         "clean_url": "https://english.alarabiya.net/views/2026/09/24/which-is-more-powerful-saudi-arabia-or-iran-",
         "image": "https://vid.alarabiya.net/images/2023/03/10/05c16976-a34c-48a4-bb97-57c0b01410b4/05c16976-a34c-48a4-bb97-57c0b01410b4_16x9_1200x676.jpg?width=555",
         "timestamp": 1790259060.0
-    },
-    {
-        "id": "57837dbe30",
-        "title_fa": "پیش‌نویس توافق با امریکا: معافیت نفتی در ازای محدودیت هسته‌ای",
-        "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
-        "summary": [
-            "تهران از وجود پیش‌نویسی در مذاکرات با ایالات متحده خبر داده که شامل لغو تحریم‌های نفتی و آزادسازی دارایی‌های بلوکه شده است.",
-            "این توافق احتمالی در ازای عقب‌نشینی از برنامه‌های هسته‌ای پیش‌بینی شده است."
-        ],
-        "impact": "آزادسازی منابع مالی و فروش نفت می‌تواند به طور موقت فشار بر بازار ارز را کاهش دهد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790258701.0
     }
 ]
