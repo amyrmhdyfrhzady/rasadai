@@ -422,6 +422,24 @@
         "timestamp": 1790513895.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "مرور اخبار ورزشی و حواشی سیاسی آمریکا در گاردین",
+        "title_en": "US latest news",
+        "summary": [
+            "مسابقات موتورسواری و نتایج لیگ بسکتبال زنان آمریکا تیترهای ورزشی را به خود اختصاص داد.",
+            "نشست‌های خبری و خبرنامه هفتگی دولت ترامپ همچنان زیر ذره‌بین رسانه‌هاست."
+        ],
+        "impact": "بازتاب رویدادهای ورزشی و جریان‌شناسی سیاسی ایالات متحده در رسانه‌های بین‌المللی.",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1790513640.0
+    },
+    {
         "id": "f3b54c46bd",
         "title_fa": "موضع‌گیری بریکس و سازمان همکاری شانگهای درباره ایران",
         "title_en": "SCO and BRICS adopt statements on Iran and sanctions — South China Morning Post",
@@ -5497,23 +5515,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXZFYzV6RWNxQ1c4SFYwTzVpZ2NqeTlYajlKSkpBbjZJYnNqUUVHTWtERzRVOFFqOERhZ0FDd0tMeHlCWkJzdkJlWVBBeWNWcFVHU1FMcmNoQjg5cG1pemt6RW9WcDJnZmNNS28wR3dVOUhhaG80SERDaEZaNk4zYkZKSjFGS3AzVFU5bjkxcmh0UkVyZnl1WHYxekdYUTlyc1NFVUVITE9idDI4Y0JhRWlVaW5EQTVPNXFBdg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790275620.0
-    },
-    {
-        "id": "4ae59bea3a",
-        "title_fa": "طوفان سهمگین سواحل شرقی آمریکا را درنوردید",
-        "title_en": "East Coast eyes strengthening nor’easter already battering Mid-Atlantic shores",
-        "summary": [
-            "سامانه بارشی قدرتمند و کم‌سابقه، مناطق ساحلی از مید-آتلانتیک تا شمال شرق آمریکا را تهدید می‌کند.",
-            "مقام‌های محلی درباره آب‌گرفتگی شدید، وزش بادهای مخرب و خسارت به زیرساخت‌های ساحلی هشدار دادند."
-        ],
-        "impact": "اختلال گسترده در حمل‌ونقل و فعالیت‌های روزمره در شهرهای ساحلی شرق آمریکا.",
-        "tag": "حوادث",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/east-coast-eyes-strengthening-nor-easter-already-battering-mid-atlantic-shores/ar-AA2cSITQ",
-        "clean_url": "https://www.msn.com/en-us/news/other/east-coast-eyes-strengthening-nor-easter-already-battering-mid-atlantic-shores/ar-AA2cSITQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790275316.0
     }
 ]
