@@ -165,6 +165,25 @@
         "timestamp": 1790445174.0
     },
     {
+        "id": "dc7a98c2fe",
+        "title_fa": "تو دهنی ترامپ به طرح پیشنهادی تهران برای تنگه هرمز",
+        "title_en": "جمهوری اسلامی در انتظار پاسخ رسمی آمریکا ماند؛ ترامپ می‌گوید طرح پیشنهادی را رد کرده است",
+        "summary": [
+            "دونالد ترامپ با رد صریح پیشنهاد بازگشایی تنگه هرمز، آب پاکی را روی دست دیپلمات‌های تهران ریخت و موضع سرسختانه خود را دیکته کرد.",
+            "عباس عراقچی با وجود مخالفت علنی ترامپ، همچنان به کانال‌های واسطه‌ای مثل قطر دلخوش کرده و برای فرار از بن‌بست فعلی دست‌وپا می‌زند.",
+            "طرح پیشنهادی تهران شامل مهلت هفت‌روزه برای توقف موقت درگیری‌ها بود؛ فرمولی که واشینگتن آن را تلاشی برای خرید زمان ارزیابی کرده است."
+        ],
+        "impact": "شکست این ابتکار دیپلماتیک، احتمال تشدید تنش‌های دریایی در خلیج فارس و افزایش فشار اقتصادی بر تهران را به شدت بالا می‌برد.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609271202",
+        "clean_url": "https://www.iranintl.com/202609271202",
+        "image": "http://www.bing.com/th?id=ONUT.AQ0WL1wI3Yq4taVoQXprjA&pid=News",
+        "timestamp": 1790442000.0
+    },
+    {
         "id": "02040a7887",
         "title_fa": "فلج ساختاری صنعت ن... نفت ای...ران",
         "title_en": "Iran’s oil industry has too many masters",
@@ -5479,23 +5498,5 @@
         "clean_url": "https://www.iranintl.com/202609249106",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790223600.0
-    },
-    {
-        "id": "500456a145",
-        "title_fa": "دستور دادگاه برای بازگشت رسانه‌های منتقد به کاخ سفید",
-        "title_en": "Judge orders White House to restore access to CNN, MS NOW and Politico",
-        "summary": [
-            "دادگاه فدرال حکم داد که دولت باید دسترسی خبرنگاران سی‌ان‌ان، پولیتیکو و ام‌اس‌ناو را به کاخ سفید بازگرداند.",
-            "سرویس مخفی آمریکا موقتاً مانع ورود خبرنگاران شده بود که با واکنش سریع دادگاه مواجه شد."
-        ],
-        "impact": "شکست حقوقی دولت در محدود کردن رسانه‌های مخالف.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Press Democrat",
-        "url": "https://www.pressdemocrat.com/2026/09/24/judge-white-house-access-cnn-ms-now-politico/",
-        "clean_url": "https://www.pressdemocrat.com/2026/09/24/judge-white-house-access-cnn-ms-now-politico",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/AP26267603315180.jpg?w=1999&h=1333",
-        "timestamp": 1790223060.0
     }
 ]
