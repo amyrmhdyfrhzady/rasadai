@@ -421,6 +421,25 @@
         "timestamp": 1790585220.0
     },
     {
+        "id": "2c33c88484",
+        "title_fa": "شکست طرح ترور در پایگاه هوایی آمریکا در بریتانیا",
+        "title_en": "Irán niega vínculos con frustrado atentado a base aérea de Fairford usada por EE. UU.: esto es lo que sabemos",
+        "summary": [
+            "پلیس ضدتروریسم انگلیس ۵ مرد بریتانیایی را در رابطه با توطئه انفجار در پایگاه ایرفورد بازداشت کرد.",
+            "با وجود انکار رسمی تهران، تحقیقات پلیس بریتانیا همچنان روی احتمال دخالت عوامل مرتبط با ایران متمرکز است.",
+            "این پایگاه نقش حیاتی در عملیات‌های هوایی آمریکا علیه ایران ایفا می‌کند و هدف قرار گرفتن آن بسیار حساس است."
+        ],
+        "impact": "افزایش تنش‌های امنیتی میان لندن و تهران و احتمال واکنش تند آمریکا به تهدیدهای علیه تاسیسات خود.",
+        "tag": "امنیت بین‌الملل",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "France 24",
+        "url": "https://www.france24.com/es/europa/20260928-ir%C3%A1n-niega-v%C3%ADnculos-con-frustrado-atentado-a-base-a%C3%A9rea-de-fairford-usada-por-ee-uu-esto-es-lo-que-sabemos",
+        "clean_url": "https://www.france24.com/es/europa/20260928-ir%C3%A1n-niega-v%C3%ADnculos-con-frustrado-atentado-a-base-a%C3%A9rea-de-fairford-usada-por-ee-uu-esto-es-lo-que-sabemos",
+        "image": "http://www.bing.com/th?id=ONUT.FpxllAHUGmElow7I3X4xVQ&pid=News",
+        "timestamp": 1790584440.0
+    },
+    {
         "id": "cb89996e9f",
         "title_fa": "ادامه بمباران منافع ج.م در خلیج فارس توسط ارتش آمریکا",
         "title_en": "US Bombs Iran for Ninth Day as Standoff Over Hormuz Deepens",
@@ -512,6 +531,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQkI5SW5tbE5FTHZEcUo3M1ZDcEJpVzNjclpicjJTTHRxdUNkc0pZcmptX0R6U28taG4wSEs1QklWUlNwV21GY3ppZXJ0ajRZeDJwX3pEbm9iVHh4cEpRRHpDNkk3YXJOVUhheHRhcw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790582140.0
+    },
+    {
+        "id": "603ccff9f0",
+        "title_fa": "بن‌بست دیپلماتیک؛ ایران مذاکره با ترامپ را رد کرد",
+        "title_en": "Irán descarta negociar con EE. UU. tras rechazo de Trump a sus condiciones",
+        "summary": [
+            "تهران پس از رد شدن شرایط خود توسط ترامپ، هرگونه مذاکره با واشینگتن در نشست سازمان ملل را کنار گذاشت.",
+            "این تصمیم نشان‌دهنده پایان دوران دیپلماسی با دولت جدید آمریکا و ورود به مرحله تقابل مستقیم است."
+        ],
+        "impact": "قطع کامل مسیر گفتگو و احتمال افزایش فشارها یا درگیری‌های غیرمستقیم در آینده نزدیک.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "UnoTV on MSN",
+        "url": "https://www.msn.com/es-mx/noticias/other/ir%C3%A1n-descarta-negociar-con-ee-uu-tras-rechazo-de-trump-a-sus-condiciones/ar-AA2d8zlE",
+        "clean_url": "https://www.msn.com/es-mx/noticias/other/ir%C3%A1n-descarta-negociar-con-ee-uu-tras-rechazo-de-trump-a-sus-condiciones/ar-AA2d8zlE",
+        "image": "http://www.bing.com/th?id=ONUT.XN8jgPYlOKPxV3gp2FP0WA&pid=News",
+        "timestamp": 1790580950.0
     },
     {
         "id": "461018d681",
@@ -5491,41 +5528,5 @@
         "clean_url": "https://www.algemeiner.com/2026/09/25/el-sayed-refuses-stand-iranian-protesters-condemn-regimes-brutal-crackdown",
         "image": "https://www.algemeiner.com/wp-content/uploads/2026/09/2026-09-22T151955Z_1747379369_RC2DONA8KKFX_RTRMADP_3_USA-ELECTION-MICHIGAN-1.jpg",
         "timestamp": 1790355000.0
-    },
-    {
-        "id": "4c99397a50",
-        "title_fa": "واشینگتن پست: مسیرهای ممکن برای سقوط رژیم ایران",
-        "title_en": "Opinion | What it will take to topple Iran’s regime",
-        "summary": [
-            "این مقاله تحلیلی به بررسی سناریوها و راهکارهای لازم برای سرنگونی حکومت فعلی ایران می‌پردازد.",
-            "فشار همه‌جانبه بین‌المللی و حمایت از جنبش‌های مردمی درون کشور به عنوان ارکان اصلی تغییر رژیم معرفی شده‌اند."
-        ],
-        "impact": "افزایش تمرکز رسانه‌های غربی بر استراتژی‌های گذار سیاسی در ایران.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPejdRZmg0NnIwVk1vdVYyVVBkOGkyQnp6LVNXN2R1LTlJR0o3SnVqWEZNbktsNDNvQXMyT1ptV1RkMUt6NEZUbm1YbTJPVE5lM3VUTml6SHJ0ZERyeUFrX21ETzY5VGFld0JoUndSV1c2b0s0a21tWDdHZER5MnVqbkJtN2F4cWcwM0F0VktqSjZ1WjRGNjBtMXRsR3pYTDRBWkFSZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPejdRZmg0NnIwVk1vdVYyVVBkOGkyQnp6LVNXN2R1LTlJR0o3SnVqWEZNbktsNDNvQXMyT1ptV1RkMUt6NEZUbm1YbTJPVE5lM3VUTml6SHJ0ZERyeUFrX21ETzY5VGFld0JoUndSV1c2b0s0a21tWDdHZER5MnVqbkJtN2F4cWcwM0F0VktqSjZ1WjRGNjBtMXRsR3pYTDRBWkFSZA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790353201.0
-    },
-    {
-        "id": "9ca936257b",
-        "title_fa": "معامله پنهان جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با ترامپ برای بازگشایی تنگه هرمز",
-        "title_en": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
-        "summary": [
-            "تراس اعلام کرد که دونالد ترامپ با چالش سختی روبه‌روست چرا که جـ.ـهـ.ـوری اسـ.ـلامـ.ـی تلاش دارد پیش از انتخابات میان‌دوره‌ای آمریکا، توافقی پیرامون بازگشایی تنگه هرمز روی میز بگذارد.",
-            "این سناریو نشان می‌دهد که حاکمیت برای خرید زمان و کاهش فشار حداکثری، مجدداً به اهرم فشار ژئوپلیتیک خود روی آورده است."
-        ],
-        "impact": "تغییر احتمالی در معادلات امنیتی خلیج فارس و آغاز چانه‌زنی‌های پشت پرده بین واشنگتن و تهران.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3NJQVM3VmI5SWxfNVNUYkluVUsxcEdxSVhsdUhuQk9qWURjR3pxLVYwdmJwaXEwVXBlQnhxbENRaDhWUnR3clRqd1BTUTM3RXNMWTFqUEI0eDRFQUpLS0hDaWxLWDZBeExIYnAyNktXNXp6NlBTY05iLU92RUJIMDBid0ZLRkVuWEVYeFVYZ3FjTUIzbnd0R0x1SGZtb3lxWG1pS2MzQ0RVYzFnZUlmdndrQ2JHUUNLVmg0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3NJQVM3VmI5SWxfNVNUYkluVUsxcEdxSVhsdUhuQk9qWURjR3pxLVYwdmJwaXEwVXBlQnhxbENRaDhWUnR3clRqd1BTUTM3RXNMWTFqUEI0eDRFQUpLS0hDaWxLWDZBeExIYnAyNktXNXp6NlBTY05iLU92RUJIMDBid0ZLRkVuWEVYeFVYZ3FjTUIzbnd0R0x1SGZtb3lxWG1pS2MzQ0RVYzFnZUlmdndrQ2JHUUNLVmg0",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790351160.0
     }
 ]
