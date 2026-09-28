@@ -311,6 +311,25 @@
         "timestamp": 1790556785.0
     },
     {
+        "id": "7d02e2b95a",
+        "title_fa": "آمادگی ارتش ج.ا برای دفاع و تداوم تهدیدات منطقه‌ای",
+        "title_en": "Iran’s army says forces are ready to defend country",
+        "summary": [
+            "معاون هماهنگ‌کننده ارتش از آمادگی کامل نیروهای نظامی و مردمی برای مقابله با دشمنان خبر داد.",
+            "مقام‌های نظامی بار دیگر بر کنترل خود بر آب‌های شمالی دریای عمان و تنگه هرمز تأکید کردند.",
+            "آمار وزیر انرژی آمریکا نشان می‌دهد جریان صادرات نفت از تنگه هرمز با وجود تنش‌ها همچنان بالاست."
+        ],
+        "impact": "تنش در آب‌های جنوبی ایران همچنان بالاست اما صادرات نفت جریان دارد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609288473",
+        "clean_url": "https://www.iranintl.com/en/202609288473",
+        "image": "http://www.bing.com/th?id=ONUT.HSYbJKR91aWxj0rEUWpJ3w&pid=News",
+        "timestamp": 1790554860.0
+    },
+    {
         "id": "04eea7a64f",
         "title_fa": "بازی زمان توسط حاکمیت با پیشنهادهای تازه",
         "title_en": "شایان سمیعی: جمهوری اسلامی با پیشنهادهای تازه در پی خریدن زمان است",
@@ -5498,23 +5517,5 @@
         "clean_url": "https://www.iranintl.com/202609252588",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/be8a7f9ec445cead8a84bbf896ad2b12894ce531-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790313600.0
-    },
-    {
-        "id": "15aaffd237",
-        "title_fa": "کمک‌های ماهواره‌ای چین به ج.ا برای رصد ناوهای آمریکایی",
-        "title_en": "LEAKED: China's Satellite Intel HELPS Iran Hunt U.S. Warships As Trump 'GLAZES' Xi Jinping In DC",
-        "summary": [
-            "ارزیابی‌های اطلاعاتی آمریکا نشان می‌دهد داده‌های زمین‌فضایی و تصاویر ماهواره‌ای چین، توانایی رصد نیروهای آمریکایی در منطقه را به ج.ا داده است.",
-            "این همکاری اطلاعاتی پکن و تهران در حالی رسانه‌ای شده که فشارها بر روابط تجاری دو کشور در حال افزایش است."
-        ],
-        "impact": "افزایش خطر درگیری دریایی و پیچیدتر شدن مهار نظامی نیابتی‌ها در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://www.msn.com/en-in/news/other/leaked-china-s-satellite-intel-helps-iran-hunt-us-warships-as-trump-glazes-xi-jinping-in-dc/vi-AA2cXTBL",
-        "clean_url": "https://www.msn.com/en-in/news/other/leaked-china-s-satellite-intel-helps-iran-hunt-us-warships-as-trump-glazes-xi-jinping-in-dc/vi-AA2cXTBL",
-        "image": "https://static.toiimg.com/thumb/msid-134486965,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1790313000.0
     }
 ]
