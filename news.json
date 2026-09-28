@@ -369,6 +369,25 @@
         "timestamp": 1790529360.0
     },
     {
+        "id": "f139662a4f",
+        "title_fa": "بازی خطرناک تنگه هرمز؛ فرسایش یا انفجار؟",
+        "title_en": "هاآرتص: نبرد فرسایشی ایران و آمریکا بر سر هرمز می‌تواند به تشدید درگیری بینجامد",
+        "summary": [
+            "واشینگتن و تهران هرکدام وقت را به نفع خود می‌دانند و همین توهم خطر درگیری را بالا برده است.",
+            "هزینه‌های سنگین بیمه و حمل‌ونقل نفت، تجارت منطقه را فلج کرده و ادعای باز بودن آبراهه‌ها با واقعیت فاصله دارد.",
+            "فشار تحریم‌ها فروش نفت جی.امی. را زمین‌گیر کرده و شرکای منطقه‌ای مانند عراق را هم دچار چالش کرده است."
+        ],
+        "impact": "تداوم بحران در هرمز شریان‌های حیاتی انرژی را تحت فشار گذاشته و هزینه‌های اقتصادی را تصاعدی بالا می‌برد.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609288908",
+        "clean_url": "https://www.iranintl.com/202609288908",
+        "image": "http://www.bing.com/th?id=ONUT.t2obd-A9idjbg6gxPSNeSQ&pid=News",
+        "timestamp": 1790528400.0
+    },
+    {
         "id": "028bf0b55f",
         "title_fa": "کیهان: ترامپ فقط با زبان موشک مهار می‌شود",
         "title_en": "روزنامه کیهان: ترامپ را فقط بالا بردن هزینه جنگ و زبان موشک مهار می‌کند",
@@ -5501,23 +5520,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/u-iran-hold-first-talks-110354044.html",
         "image": "https://s.yimg.com/lo/mysterio/api/e10695f6cdc73cb7de1189bef928a831d8434306ccbf04d230b8be6128022f40/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/6b3bb7781ce6d1954b616853709d62eb.jpg",
         "timestamp": 1790294400.0
-    },
-    {
-        "id": "632a53b3e6",
-        "title_fa": "اعتراف پزشکیان به تبعیت کامل از علی خامنه‌ای",
-        "title_en": "Pezeshkian says he met with Khamenei face to face, supreme leader healthy, giving direction",
-        "summary": [
-            "مسعود پزشکیان در یک نشست علنی اعتراف کرد که تصمیم‌گیرنده اصلی در کشور شخص علی خامنه‌ای است و دولت تنها مجری فرامین اوست.",
-            "این اظهارات بار دیگر ساختار فرمایشی قوه مجریه را زیر مدیریت مستقیم رهبر جمهوری اسلامی عیان کرد."
-        ],
-        "impact": "تثبیت حاکمیت مطلق ولی فقیه و بی‌اثری کامل ساختار ریاست جمهوری در سیاست‌های کلان",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-us/news/other/pezeshkian-says-he-met-with-khamenei-face-to-face-supreme-leader-healthy-giving-direction/ar-AA2cVkVq",
-        "clean_url": "https://www.msn.com/en-us/news/other/pezeshkian-says-he-met-with-khamenei-face-to-face-supreme-leader-healthy-giving-direction/ar-AA2cVkVq",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2behLP.img?w=822&h=537&m=4&q=75",
-        "timestamp": 1790293440.0
     }
 ]
