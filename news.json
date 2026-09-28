@@ -369,6 +369,25 @@
         "timestamp": 1790529360.0
     },
     {
+        "id": "3110cfc891",
+        "title_fa": "افشای حمله موشکی به تفنگداران آمریکایی در تنگه هرمز",
+        "title_en": "ان‌بی‌سی نیوز: هشت تفنگدار دریایی آمریکا در حمله ایران به یک کشتی مجروح شدند",
+        "summary": [
+            "شبکه ان‌بی‌سی فاش کرد در حمله موشک کروز به یک شناور در ۲۳ شهریور، ۸ تفنگدار دریایی آمریکا در تنگه هرمز زخمی شدند.",
+            "مقام‌های نظامی پنتاگون وقوع آسیب مغزی و عوارض ناشی از موج انفجار را در میان این نیروها تأیید کرده‌اند.",
+            "پنهان‌کاری چندماهه واشینگتن درباره این رویارویی مستقیم، پرده از شکنندگی شدید اوضاع در خطوط کشتیرانی منطقه برمی‌دارد."
+        ],
+        "impact": "بالا رفتن خطر تقابل مستقیم نظامی و افزایش احتمال پاسخ متقابل ارتش آمریکا در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609287767",
+        "clean_url": "https://www.iranintl.com/202609287767",
+        "image": "http://www.bing.com/th?id=ONUT.TEGQ2y8pRFEp2Z8bgXm6rQ&pid=News",
+        "timestamp": 1790528400.0
+    },
+    {
         "id": "43d77525e0",
         "title_fa": "هشدار منطقه‌ای به تهران؛ تقابل بر سر آسمان خاورمیانه",
         "title_en": "Iran Should Know Its Limits – OpEd",
@@ -5502,23 +5521,5 @@
         "clean_url": "https://www.iranintl.com/202609245316",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/b437c847101a8c68f529ac8a9c9309436d8199c1-1254x706.webp?rect=0,24,1254,658&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790291820.0
-    },
-    {
-        "id": "11c4346574",
-        "title_fa": "توطئه‌سنجی نتانیاهو در سازمان ملل علیه دوستان و دشمنان",
-        "title_en": "Israel's Netanyahu Denounces Enemies, Allies in Fiery UN Speech",
-        "summary": [
-            "بنیامین نتانیاهو در سخنرانی جنجالی خود در سازمان ملل، همزمان به دوستان و دشمنان اسرائیل تاخت و سالن را به هم ریخت.",
-            "این سخنرانی تند در شرایطی انجام شد که او در داخل با چالش‌های انتخاباتی سختی دست‌وپنجه نرم می‌کند."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک اسرائیل با شرکای غربی و تشدید جنگ روانی در سطح بین‌المللی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Asharq Al-Awsat",
-        "url": "https://www.msn.com/en-ae/news/other/israel-s-netanyahu-denounces-enemies-allies-in-fiery-un-speech/ar-AA2cViLH",
-        "clean_url": "https://www.msn.com/en-ae/news/other/israel-s-netanyahu-denounces-enemies-allies-in-fiery-un-speech/ar-AA2cViLH",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790290952.0
     }
 ]
