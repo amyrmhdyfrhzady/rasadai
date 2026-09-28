@@ -368,6 +368,24 @@
         "timestamp": 1790600760.0
     },
     {
+        "id": "c56d693a01",
+        "title_fa": "دور زدن تحریم‌ها؛ تتر ابزار اصلی جابجایی پول توسط ک-ح-ر-م-ه",
+        "title_en": "Senate probe finds Iran relied heavily on Tether to dodge sanctions",
+        "summary": [
+            "تحقیقات سنای آمریکا نشان داد ۸۴ درصد از رمزارزهای مرتبط با افراد تحریم‌شده ایرانی روی بستر تتر فعال بوده‌اند.",
+            "حکومت از ارزهای دیجیتال پایدار برای دور زدن سیستم بانکی سنتی و انتقال سرمایه خارج از نظارت جهانی استفاده می‌کند."
+        ],
+        "impact": "فشار ایالات متحده برای مسدودسازی کانال‌های مالی رمزارز و بستن روزنه‌های تنفس ارزی حکومت بیشتر می‌شود.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Benzinga on MSN",
+        "url": "https://www.msn.com/en-us/news/other/senate-probe-finds-iran-relied-heavily-on-tether-to-dodge-sanctions/ar-AA2d8gPt",
+        "clean_url": "https://www.msn.com/en-us/news/other/senate-probe-finds-iran-relied-heavily-on-tether-to-dodge-sanctions/ar-AA2d8gPt",
+        "image": "http://www.bing.com/th?id=ONUT.CqlQGBSfbNVzDsOtflsqtA&pid=News",
+        "timestamp": 1790600122.0
+    },
+    {
         "id": "29de35ed1c",
         "title_fa": "آمادگی همزمان تهران و واشنگتن برای مذاکره یا درگیری نظامی",
         "title_en": "US, Iran signal they are ready for negotiations or potential military conflict",
@@ -5508,23 +5526,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOOXhtNDJsaEFzQXVyN2ZBckhCbWl1RDJIR1dfdmc5cy1iYU9KdkxlcjBkaGVXUkVVYk9udHMtN3Q0SERpMXBYREtSbEpSQ2h0YjU3NWNIUnRBRnVDbXNrMWVoUXZUYVdVenhyQll0dXM4TGVwa2hsUEI0bGxTb0xTemQ1MGdsMWFVdGF4MzhFQ2EyMnVNSHJuUkVaemR5dFowWHNaTW05ZTN0ajV6Zlp4SUdxLUkycURsRXdfRmlIcHJPZGJ3aXQzMUc2VUV3M3YweU9WdlRYOUF0WFBtU2xwR3dMOEpMQXhHWXlsVzFzaElkaThDaU5DajJUdDBhQ3ltemdpeUE1X01tQXNyMDNEczZQbkJhck9IY19KQzFjd1FidFVadGN3bFJoZUEwdTJxaHJ1MjRaNmUxT1FicXI0X3h0eVhxbDZjYjY2Mm9oVFVTdV9sY1VCbTktSHhHcUJIQlNBRnkwaTFnLTB2bXNYSDZiUG92bDRZRndaTzd3",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790381425.0
-    },
-    {
-        "id": "05927f96a8",
-        "title_fa": "حمله سنگین موشکی روسیه به صنایع نظامی اوکراین",
-        "title_en": "middle east News",
-        "summary": [
-            "موشک‌های روسی مواضع صنایع نظامی وابسته به غرب را در خاک اوکراین به شدت در هم کوبیدند.",
-            "این حملات گسترده خسارات سنگینی به زیرساخت‌های نظامی اوکراین وارد کرده است."
-        ],
-        "impact": "تضعیف بیشتر توان نظامی اوکراین و افزایش فشار بر حامیان غربی این کشور.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Indiatimes",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east",
-        "image": "https://static.toiimg.com/photo/47529300.cms",
-        "timestamp": 1790380860.0
     }
 ]
