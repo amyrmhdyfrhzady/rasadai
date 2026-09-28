@@ -510,6 +510,25 @@
         "timestamp": 1790569310.0
     },
     {
+        "id": "f846188b0a",
+        "title_fa": "بازداشت ۵ نفر در نزدیکی پایگاه بمب‌افکن‌های آمریکا در انگلیس",
+        "title_en": "UK probes possible Iran link to suspected terror plot at base hosting US forces",
+        "summary": [
+            "پلیس انگلیس ۵ جوان را در نزدیکی پایگاه فیرفورد که محل استقرار بمب‌افکن‌های بی-۱ آمریکاست دستگیر کرد.",
+            "احتمال ارتباط این افراد با ج.ا.ا به عنوان بخشی از عملیات‌های خرابکارانه در خاک اروپا بررسی می‌شود.",
+            "این رویداد نشان‌دهنده افزایش حساسیت‌های امنیتی نسبت به فعالیت‌های برون‌مرزی عوامل وابسته به تهران است."
+        ],
+        "impact": "افزایش سطح تدابیر امنیتی در پایگاه‌های استراتژیک ناتو و احتمال تشدید فشارهای دیپلماتیک بر تهران.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/uk-probes-possible-iran-link-to-suspected-terror-plot-at-base-hosting-us-forces/ar-AA2d7rjx",
+        "clean_url": "https://www.msn.com/en-us/news/other/uk-probes-possible-iran-link-to-suspected-terror-plot-at-base-hosting-us-forces/ar-AA2d7rjx",
+        "image": "http://www.bing.com/th?id=ONUT.Ya-uwUbuKF35YxcC3DSoPg&pid=News",
+        "timestamp": 1790567580.0
+    },
+    {
         "id": "ecfec77cd0",
         "title_fa": "اصابت موشک به نیروهای آمریکایی در تنگه هرمز و زخمی شدن ۸ تفنگدار",
         "title_en": "8 US Marines injured in Iranian missile attack in Strait of Hormuz: Report",
@@ -5503,23 +5522,5 @@
         "clean_url": "https://www.washingtonpost.com/national-security/2026/09/25/pentagon-quietly-adds-dozens-tally-troops-wounded-amid-iran-war",
         "image": "http://www.bing.com/th?id=ONUT.D818sN7BvpZnQG7N3ZbhvQ&pid=News",
         "timestamp": 1790340600.0
-    },
-    {
-        "id": "8437643f1e",
-        "title_fa": "آمادگی ساختاری برای خیزش پنجم در جـمهوری اسـلامی",
-        "title_en": "Video: Iran's next uprising is 'when, not if', says former US adviser",
-        "summary": [
-            "فشار حداکثری و بلوکه شدن درآمدهای نفتی، توان مالی کـوخـوردهای حکومتی را به شدت فلج کرده است.",
-            "مقامات امنیتی سابق آمریکا تاکید می‌کنند فروپاشی اقتصادی، پرداخت حقوق نیروهای سرکوب را با بحران جدی روبه‌رو کرده است."
-        ],
-        "impact": "تشدید بحران مالی به زودی بهانه‌ای برای بازگشت اعتراضات خیابانی خواهد شد.",
-        "tag": "اعتراضات",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609265864",
-        "clean_url": "https://www.iranintl.com/en/202609265864",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790338860.0
     }
 ]
