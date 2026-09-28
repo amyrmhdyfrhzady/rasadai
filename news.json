@@ -37,6 +37,24 @@
         "timestamp": 1790570040.0
     },
     {
+        "id": "7a65f2e8cc",
+        "title_fa": "هدف‌گیری تاسیسات انرژی خلیج فارس توسط ج.ا",
+        "title_en": "Iran Targets Energy Facilities Across Gulf After Israel Struck its Key Gas Installations",
+        "summary": [
+            "حملات اخیر اسرائیل به تاسیسات گازی ک.ی.ا.ر.ت.ی.س را به واکنش و تهدید زیرساخت‌های انرژی منطقه وادار کرده است.",
+            "تنش‌ها وارد فاز خطرناکی شده و امنیت جریان انرژی در خلیج فارس به شدت به مخاطره افتاده است."
+        ],
+        "impact": "افزایش آنی قیمت نفت و شوک جدید به بازارهای جهانی انرژی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdYZVVpVG9TX0tHR0JhMnQ4V0dqTHdRVDJkLWd3bklDYWVsLU9EWWowUlQ3Rm5nUWlnNDc2cVpWRjlDa0tuX3ZyT2hKS1dOZlZfNGlCZFBaRnlpOGJ4dVFJWHhGeHBQc1Z4aF96VFFSR2VEMERLUHhHOEljekg0d21KQkRuX05uSEZYdmtTc1dZZU5lVXBZNnhjVVNneTJ1dWExMVlvZE4ySy1uQ0Rfc25PNFB1VnVHQ3Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdYZVVpVG9TX0tHR0JhMnQ4V0dqTHdRVDJkLWd3bklDYWVsLU9EWWowUlQ3Rm5nUWlnNDc2cVpWRjlDa0tuX3ZyT2hKS1dOZlZfNGlCZFBaRnlpOGJ4dVFJWHhGeHBQc1Z4aF96VFFSR2VEMERLUHhHOEljekg0d21KQkRuX05uSEZYdmtTc1dZZU5lVXBZNnhjVVNneTJ1dWExMVlvZE4ySy1uQ0Rfc25PNFB1VnVHQ3Mw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790569510.0
+    },
+    {
         "id": "a345dfc678",
         "title_fa": "مسعود پزشکیان: چالش با آمریکا به این سادگی‌ها حل نمی‌شود",
         "title_en": "Iran president: US conflict can't 'be resolved that simply'",
@@ -5500,23 +5518,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejlReXp5U3VIZmRZLVN4dV91cUl1QzltejQxOWdtaHlyQlNyNUhLdW1EOTBja0EwbEZEcTNQSjJIWTNUdDZuVjNyUi1WOEh6Y3hPOVJ6aV81R1JzUmJGbDkxeFpLX2kxVlJHWnRVYXk3cjIxR1ZqU0FlMERiMUNOdFR0c2hZQVdOTVE0MEtRUWhfM01JSVVxTTZQZmpEZWRackcwRktMYTlkR3VhSDBkLW8zYnI1UQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790303580.0
-    },
-    {
-        "id": "a3c2158668",
-        "title_fa": "واکنش قطر به اتهامات نتانیاهو و تحولات یمن",
-        "title_en": "Iran war live: Yemeni government claims advances as allies head to Riyadh",
-        "summary": [
-            "دولت قطر ادعاهای نخست‌وزیر اسرائیل در سازمان ملل درباره تلاش دوحه علیه تل‌آویو را قاطعانه رد کرد.",
-            "همزمان با سفر متحدان به ریاض، دولت یمن از پیشروی‌های میدانی خبر داده است."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک در حوزه خلیج فارس و تغییر توازن در جبهه نیابتی یمن.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab683ab4f1d-1790346155.jpg?resize=1920%2C1440",
-        "timestamp": 1790302740.0
     }
 ]
