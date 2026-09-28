@@ -330,6 +330,25 @@
         "timestamp": 1790596140.0
     },
     {
+        "id": "e572377974",
+        "title_fa": "ابهام در دست داشتن ج.ا.ا در طرح بمب‌گذاری بریتانیا",
+        "title_en": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot",
+        "summary": [
+            "آزادی به قید وثيقة پنج مظنون بازداشت شده در نزدیکی پایگاه نظامی فیرفورد نشان داد خطر فوری امنیتی وجود نداشته است.",
+            "شهروندان بریتانیایی بودن این افراد ادعاهای سیاستمدارانی مانند نایجل فاراژ را درباره ارتباط این رویداد با مهاجران و ج.ا.ا تضعیف کرد.",
+            "پرونده همچنان ابعاد بازی دارد اما واکنش اولیه پلیس و آزادی متهمان شدت تهدید را پایین آورد."
+        ],
+        "impact": "کاهش موقت تنش پیرامون پرونده امنیتی فیرفورد با آزادی متهمان.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
+        "clean_url": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
+        "image": "https://i.guim.co.uk/img/media/3876d46c2ef3a10833811d68ce60f559ea3c3a55/564_118_3072_2459/master/3072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5026e9d7dde53a695c38a92e54f6bf12",
+        "timestamp": 1790593860.0
+    },
+    {
         "id": "f4faa3c6f2",
         "title_fa": "خط و نشان کشیدن خامنه‌ای برای حضور نظامی آمریکا",
         "title_en": "In message, Iran's Khamenei says 'enemy forces' will soon be driven out of Arabian Sea",
@@ -5505,24 +5524,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-rules-out-nuclear-concessions-in-us-talks-report/ar-AA2cYmQw",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cYQvt.img?w=1280&h=720&m=4&q=79",
         "timestamp": 1790360388.0
-    },
-    {
-        "id": "032640da29",
-        "title_fa": "آماده‌باش نظامی آنکارا در نزدیکی مرز یونان",
-        "title_en": "Tensions between Türkiye and Greece escalate amid deepening imperialist war",
-        "summary": [
-            "ترکیه یک تیپ کماندویی را به منطقه سوکه در نزدیکی جزیره ساموس یونان منتقل کرده است.",
-            "این جابجایی نظامی واکنش آنکارا به سفر نخست‌وزیر یونان به جزایر مرزی و تغییر موازنات منطقه‌ای است.",
-            "ائتلاف‌سازی‌های جدید در مدیترانه شرقی، تنش‌ها میان دو عضو ناتو را وارد فاز جدیدی کرده است."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی محلی در مدیترانه شرقی و تشدید شکاف میان اعضای ناتو.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "World Socialist Web Site",
-        "url": "https://www.wsws.org/en/articles/2026/09/25/vmsd-s25.html",
-        "clean_url": "https://www.wsws.org/en/articles/2026/09/25/vmsd-s25.html",
-        "image": "https://www.wsws.org/asset/6152a102-447b-490c-9ddb-dc89bcfa6cb3?rendition=image1280",
-        "timestamp": 1790359860.0
     }
 ]
