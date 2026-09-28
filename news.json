@@ -204,6 +204,25 @@
         "timestamp": 1790529360.0
     },
     {
+        "id": "f344ca348e",
+        "title_fa": "خط و نشان ترامپ: احتمال حملات نظامی جدید به رژیم ایران",
+        "title_en": "US-Iran War Live News Updates: Trump says more Iran strikes before midterms ‘possible’",
+        "summary": [
+            "دونالد ترامپ صراحتاً از احتمال حملات نظامی جدید علیه مواضع رژیم ایران پیش از انتخابات میان‌دوره‌ای آمریکا پرده برداشت.",
+            "پنتاگون ادعای تهران مبنی بر تصاحب پهپاد آمریکایی در تنگه هرمز را تکذیب کرد و آن را یک نمایش ناشی از درماندگی خواند.",
+            "تنش‌های نظامی در خلیج فارس وارد فاز خطرناکی شده و واشنگتن آماده پاسخ‌های ضربتی است."
+        ],
+        "impact": "افزایش سایه جنگ بر سر اقتصاد ایران و تحریک فوری بازار ارز و طلا در تهران.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/world/us-iran-war-live-news-updates-trump-tehran-strike-drone-seized-in-hormuz-shipping-india-oil-prices-10896679/",
+        "clean_url": "https://indianexpress.com/article/world/us-iran-war-live-news-updates-trump-tehran-strike-drone-seized-in-hormuz-shipping-india-oil-prices-10896679",
+        "image": "http://www.bing.com/th?id=ONUT.fkVSj1isOaLXURbIBZftMw&pid=News",
+        "timestamp": 1790527380.0
+    },
+    {
         "id": "87e497b2b3",
         "title_fa": "افشاگری والتز: فریب‌کاری ج.ا. در مذاکرات صلح منطقه",
         "title_en": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
@@ -5500,23 +5519,5 @@
         "clean_url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html",
         "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24int-unga-ledeall/24int-unga-ledeall-facebookJumbo.jpg",
         "timestamp": 1790282880.0
-    },
-    {
-        "id": "2693260f9e",
-        "title_fa": "حمله لفظی نتایج‌هو به مخالفان و شهردار نیویورک",
-        "title_en": "Amid Protests, Netanyahu Castigates Foes and Mayor of New York City",
-        "summary": [
-            "بنیامین نتانیاهو در میان موج اعتراضی، به شدت به مخالفان داخلی و خارجی تاخت.",
-            "تمرکز لحن تند نخست‌وزیر اسرائیل به طور ویژه روی شهردار نیویورک بود."
-        ],
-        "impact": "افزایش تنش‌های سیاسی میان دولت اسرائیل و مقامات شهری در ایالات متحده.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
-        "clean_url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
-        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-live-netanyahu-address1-lqkc/24unga-live-netanyahu-address1-lqkc-facebookJumbo.jpg",
-        "timestamp": 1790282700.0
     }
 ]
