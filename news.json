@@ -462,6 +462,24 @@
         "timestamp": 1790529360.0
     },
     {
+        "id": "8d03a3d544",
+        "title_fa": "حذف تک‌تیرانداز ارشد حماس در غزه توسط ارتش اسرائیل",
+        "title_en": "ارتش اسرائیل: یک تک‌تیرانداز حماس در غزه را کشتیم",
+        "summary": [
+            "ارتش اسرائیل با هدف قرار دادن عدی عبدالعاصر، اعلام کرد مانع از بازسازی هسته‌های عملیاتی حماس در خطوط تماس شده است.",
+            "تل‌آویو با این ضربه پیام داد که در صورت نقض آتش‌بس، سیاست ترورهای هدفمند نیروهای میدانی را بدون وقفه ادامه می‌دهد."
+        ],
+        "impact": "کاهش تحرکات میدانی تک‌تیراندازان حماس و تثبیت دست برتر اطلاعاتی اسرائیل در کنترل خطوط آتش‌بس.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609280402",
+        "clean_url": "https://www.iranintl.com/202609280402",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790528400.0
+    },
+    {
         "id": "2bb0c018c8",
         "title_fa": "اعتراف نماینده قم به تقابل با آمریکا و ترس از اعتراضات",
         "title_en": "روانبخش، نماینده قم: نقاط ضعف کشور نباید طوری بیان شود که دشمن احساس امید و انگیزه کند",
@@ -5500,23 +5518,5 @@
         "clean_url": "https://www.iranintl.com/202609251173",
         "image": "http://www.bing.com/th?id=ONUT.wXeSfPpcjuDF9W9x9HV3mA&pid=News",
         "timestamp": 1790299500.0
-    },
-    {
-        "id": "056fb5da58",
-        "title_fa": "ریزش قیمت نفت همزمان با امیدواری به توافق دیپلماتیک",
-        "title_en": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict",
-        "summary": [
-            "بازار نفت با احتمال کاهش تنش‌ها و باز شدن مسیر دیپلماسی واکنش منفی نشان داد.",
-            "هرچند خبرهای دیپلماتیک موقتاً قیمت‌ها را پایین آورده، اما شکنندگی بازار پابرجا است."
-        ],
-        "impact": "افت موقت قیمت نفت در بازارهای جهانی زیر سایه سیگنال‌های مثبت دیپلماتیک.",
-        "tag": "نفت",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWg0NGc2SjdwRnlqUG1pTU9kcnh0TmFINnBMd3ZiQ0hFcWZ2YkVONmpBS200djlScGE1cXhzUEJxTDBrV25QZ0hpNkFlbWNpbUtBTkhjOFBvWWZRd1NKMl9uODRYN0t5QWpFNl9zS1dvTEhTRjVNdzV2aS1xbkRZWmZYTURad1VQNFFjMGJKMXpXN01keVdyd2FremNrb3g4WTJSUGtR0gGrAUFVX3lxTE1kSlMwMkNPZ2F6TWdPM1F6bi02TXAzRzNkeTVUMG5oOWxlRTVONXNBdGstbklQLVhRcVdLMjdfMFFPM0lyOTBUU3hwdnVvc1kzN0xFYjJ1MWMtRG5YQWJ4MTBqekhfTFlxS3lOc1hHVktCV0h5UXI4NTh0d1FmaDJ5all3ZVdNVUd0cnplWUdlQjlnZDRxZmRWbXlNZ2xnUGRaSGtwTzBsWndJSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWg0NGc2SjdwRnlqUG1pTU9kcnh0TmFINnBMd3ZiQ0hFcWZ2YkVONmpBS200djlScGE1cXhzUEJxTDBrV25QZ0hpNkFlbWNpbUtBTkhjOFBvWWZRd1NKMl9uODRYN0t5QWpFNl9zS1dvTEhTRjVNdzV2aS1xbkRZWmZYTURad1VQNFFjMGJKMXpXN01keVdyd2FremNrb3g4WTJSUGtR0gGrAUFVX3lxTE1kSlMwMkNPZ2F6TWdPM1F6bi02TXAzRzNkeTVUMG5oOWxlRTVONXNBdGstbklQLVhRcVdLMjdfMFFPM0lyOTBUU3hwdnVvc1kzN0xFYjJ1MWMtRG5YQWJ4MTBqekhfTFlxS3lOc1hHVktCV0h5UXI4NTh0d1FmaDJ5all3ZVdNVUd0cnplWUdlQjlnZDRxZmRWbXlNZ2xnUGRaSGtwTzBsWndJSQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790299380.0
     }
 ]
