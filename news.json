@@ -1,5 +1,41 @@
 [
     {
+        "id": "5c5acea733",
+        "title_fa": "شلیک موشک رهگیر اسرائیل به هدف هوایی در جنوب لبنان",
+        "title_en": "IDF says interceptor missile launched at 'suspicious aerial target' over troops in southern Lebanon",
+        "summary": [
+            "ارتش اسرائیل یک هدف مشکوک هوایی را در آسمان جنوب لبنان هدف قرار داد.",
+            "این رخداد نشان‌دهنده حساسیت بالای پدافند اسرائیل نسبت به نفوذ پهپادی در مناطق عملیاتی است."
+        ],
+        "impact": "بالا رفتن سطح آماده‌باش پدافندی در مرزهای شمالی و احتمال درگیری‌های محدود پهپادی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-interceptor-missile-launched-at-suspicious-aerial-target-over-troops-in-southern-lebanon/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-says-interceptor-missile-launched-at-suspicious-aerial-target-over-troops-in-southern-lebanon",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790617380.0
+    },
+    {
+        "id": "aa526f3b87",
+        "title_fa": "استقرار دو اسکادران جنگنده آمریکایی در پایگاه هوایی عوودا",
+        "title_en": "US reportedly deploys two squadrons of fighter jets at southern Israel airbase",
+        "summary": [
+            "آمریکا با اعزام دو اسکادران جنگنده به جنوب اسرائیل، آرایش نظامی خود را در منطقه تقویت کرد.",
+            "این جابجایی نیرو در بحبوحه تنش‌های منطقه‌ای، پیامی مستقیم برای بازدارندگی در برابر ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی است."
+        ],
+        "impact": "افزایش توان عملیاتی نیروی هوایی آمریکا برای واکنش سریع در صورت گسترش درگیری‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/us-reportedly-deploys-two-squadrons-of-fighter-jets-at-southern-israel-airbase/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/us-reportedly-deploys-two-squadrons-of-fighter-jets-at-southern-israel-airbase",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26271322814763-640x400.jpg",
+        "timestamp": 1790617380.0
+    },
+    {
         "id": "96aa5c0654",
         "title_fa": "پیشنهاد ترامپ: لغو تحریم‌ها در ازای عقب‌نشینی واقعی اتمی",
         "title_en": "Trump offers Iran economic relief for concrete nuclear concessions",
@@ -5488,42 +5524,5 @@
         "clean_url": "https://www.wsws.org/en/articles/2026/09/25/vmsd-s25.html",
         "image": "https://www.wsws.org/asset/6152a102-447b-490c-9ddb-dc89bcfa6cb3?rendition=image1280",
         "timestamp": 1790359860.0
-    },
-    {
-        "id": "9c376c0f83",
-        "title_fa": "باج‌خواهی ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی با گروگان‌گیری تنگه هرمز",
-        "title_en": "Iran says no nuclear concessions even if US accepts Strait of Hormuz deal",
-        "summary": [
-            "عراقچی با مطرح کردن بازگشایی تنگه هرمز در ازای رفع تحریم‌ها، عملاً اعتراف کرد که این آبراهه را به عنوان اهرم فشار برای بقای اقتصادی خود گروگان گرفته است.",
-            "اصرار بر عدم عقب‌نشینی از برنامه هسته‌ای نشان می‌دهد که تهران قصد دارد با استفاده از تهدید نظامی در خلیج فارس، غرب را به امتیازدهی در پرونده اتمی وادار کند.",
-            "این استراتژی نشان‌دهنده استیصال نظام از فشار تحریم‌های نفتی و تلاش برای خروج از بن‌بست با استفاده از ابزارهای نظامی است."
-        ],
-        "impact": "افزایش تنش‌های نظامی در خلیج فارس و احتمال واکنش سخت آمریکا به تهدید امنیت انرژی جهانی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/iran-nuclear-concessions-strait-of-hormuz-us-deal-19998988.htm",
-        "clean_url": "https://www.cnbctv18.com/world/iran-nuclear-concessions-strait-of-hormuz-us-deal-19998988.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/08/1787680010_iMSio646AQ-us-iran-24augjpg-PrN3nDUqbX.jpg?im=FitAndFill,width=1200,height=675",
-        "timestamp": 1790359380.0
-    },
-    {
-        "id": "c6e5e79453",
-        "title_fa": "قدردانی رضا پهلوی از تصمیم کلمبیا علیه ج.ا",
-        "title_en": "شاهزاده رضا پهلوی از کلمبیا برای قطع روابط دیپلماتیک با جمهوری اسلامی قدردانی کرد",
-        "summary": [
-            "رضا پهلوی اقدام دولت کلمبیا در قطع رابطه با تهران را حرکتی اصولی و علیه تروریسم دولتی دانست.",
-            "این پیام تاکید می‌کند که جامعه ایران حمایت‌های بین‌المللی از روند گذار از ج.ا را فراموش نخواهد کرد."
-        ],
-        "impact": "افزایش انزوای دیپلماتیک حکومت در سطح بین‌المللی و تقویت روحیه مخالفان",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609255894",
-        "clean_url": "https://www.iranintl.com/202609255894",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/092e2365e3a30efcbcd5d2eb9f247dd032110987-800x533.jpg?rect=0,74,614,322&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790358180.0
     }
 ]
