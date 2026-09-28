@@ -934,6 +934,25 @@
         "timestamp": 1790585820.0
     },
     {
+        "id": "3dbff6d631",
+        "title_fa": "تتر؛ شریان حیاتی بانکداری پنهان ج.ا",
+        "title_en": "Senate Democratic report says Tether props up Iran's shadow banking system",
+        "summary": [
+            "تحقیقات سنای آمریکا نشان می‌دهد رمزارز تتر به ابزار اصلی دور زدن تحریم‌ها توسط شبکه مالی پنهان ج.ا تبدیل شده است.",
+            "بررسی تراکنش‌های بلاک‌چین حاکی از آن است که ۸۴ درصد کیف پول‌های مرتبط با نیابتی‌های منطقه، منحصراً از تتر استفاده کرده‌اند.",
+            "این شبکه مالی برای خرید و فروش تسلیحات نظامی و پهپاد و حمایت از ارزش پول ملی استفاده شده است."
+        ],
+        "impact": "فشار فزاینده ایالات متحده بر صرافی‌های رمزارز برای مسدودسازی کامل کانال‌های مالی ج.ا",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609284923",
+        "clean_url": "https://www.iranintl.com/en/202609284923",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b542b29fe5b688f3357ecb5234b84417386efe97-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790585700.0
+    },
+    {
         "id": "57ae22cb28",
         "title_fa": "حضور زودهنگام چهره‌های دموکرات در کارزار کارولینای جنوبی برای انتخابات ۲۰۲۸",
         "title_en": "Democrats keep coming to South Carolina to stump for midterm candidates. It’s all about 2028",
@@ -5503,24 +5522,5 @@
         "clean_url": "https://www.samaa.tv/2087357444-pezeshkian-says-trump-meeting-possible-iran-offers-7-day-plan",
         "image": "https://images.samaa.tv/images/cbs-iran-pezeshkian-interview.jpg",
         "timestamp": 1790389920.0
-    },
-    {
-        "id": "4ad6dcffc3",
-        "title_fa": "عقب‌نشینی تاکتیکی از حوثی‌ها و باج‌خواهی مشروط در تنگه هرمز",
-        "title_en": "مسعود پزشکیان: تحولات یمن ارتباطی با جمهوری اسلامی ندارد",
-        "summary": [
-            "سلب مسئولیت پزشکیان از اقدامات حوثی‌ها، تلاشی آشکار برای مهار خشم عربستان و واشینگتن و کاستن از هزینه‌های مستقیم رفتارهای نیروهای نیابتی است.",
-            "مشروط کردن امنیت تردد در تنگه هرمز به دستیابی به توافق، سیگنال هم‌زمان فشار اقتصادی و ابزارسازی از خطوط انرژی جهان است.",
-            "تأیید میانجی‌گری قطر و پاکستان ثابت می‌کند علی‌رغم لفاظی‌های رسمی علیه واشینگتن، کانال‌های انتقال پیام با آمریکا فعال مانده‌اند."
-        ],
-        "impact": "تلاش تهران برای کاهش خطر درگیری منطقه‌ای هم‌زمان با نگه داشتن اهرم تهدید در آبراه‌های تجاری.",
-        "tag": "منطقه‌ای",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609268471",
-        "clean_url": "https://www.iranintl.com/202609268471",
-        "image": "http://www.bing.com/th?id=ONUT.ajYTq0nS1cfkb_f87DbIgg&pid=News",
-        "timestamp": 1790389260.0
     }
 ]
