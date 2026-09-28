@@ -18,6 +18,24 @@
         "timestamp": 1790586072.0
     },
     {
+        "id": "c3a2883f45",
+        "title_fa": "کاهش چشمگیر کمک‌های چین به جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی به روایت آمریکا",
+        "title_en": "Live: China 'substantially reduced' assistance to Iran, US says",
+        "summary": [
+            "پکن زیر فشارهای واشینگتن حمایت‌های خود از حکومت را به شدت محدود کرده است.",
+            "این پدیده تنگنای مالی تهران را در تامین منابع ارزی و دور زدن تحریم‌ها دوچندان می‌کند."
+        ],
+        "impact": "قطع یا کاهش شریان‌های حیاتی تنفس اقتصادی حکومت در حوزه فروش انرژی.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/live/iran-war-live-tehran-denounces-us-israel-attacks-regional-tensions-rise",
+        "clean_url": "https://www.middleeasteye.net/live/iran-war-live-tehran-denounces-us-israel-attacks-regional-tensions-rise",
+        "image": "https://www.middleeasteye.net/sites/default/files/2026-09/Iranians%20commute%20past%20a%20billboard%20depicting%20slain%20Lebanese%20Hezbollah%20leader%20Hassan%20Nasrallah%20AFP.jpg",
+        "timestamp": 1790585820.0
+    },
+    {
         "id": "63a3a6f0ab",
         "title_fa": "پوشش زنده اخبار جنگ احتمالی با جـ.ـهـ.ـو،ر،ی ا،س,لا,می",
         "title_en": "Iran War: Latest News, Live Coverage and Video",
@@ -363,6 +381,43 @@
         "clean_url": "https://www.iranintl.com/en/202609283835",
         "image": "http://www.bing.com/th?id=ONUT.v87RRqMD9oNGbe9Nny3DDQ&pid=News",
         "timestamp": 1790560080.0
+    },
+    {
+        "id": "3416f47b28",
+        "title_fa": "محور اصلی سفر نتانیاهو به امارات؛ مهار نفوذ جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی",
+        "title_en": "آی۲۴‌نیوز: مذاکرات نتانیاهو در امارات متحده عربی عمدتا متمرکز بر ایران بوده است",
+        "summary": [
+            "نخست‌وزیر اسرائیل در سفر کوتاه خود به ابوظبی، پرونده مقابله با تهدیدات تهران را روی میز گذاشته است.",
+            "همکاری‌های اطلاعاتی و امنیتی منطقه‌ای علیه فعالیت‌های نیابتی حکومت وارد فاز تازه‌ای شده است."
+        ],
+        "impact": "تخریب بیشتر بازدارندگی منطقه‌ای حکومت از طریق ائتلاف‌سازی‌های جدید.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609286167",
+        "clean_url": "https://www.iranintl.com/202609286167",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790559960.0
+    },
+    {
+        "id": "b89d1a35a1",
+        "title_fa": "دست رد ترامپ به پیشنهاد توقف جنگ در تنگه هرمز",
+        "title_en": "بن سبطی: سفر نتانیاهو به امارات می‌تواند با هدف هماهنگی بیشتر علیه جمهوری اسلامی باشد",
+        "summary": [
+            "واشینگتن دسترسی و تسلط بر جریان انرژی را با اسکورت نفتکش‌ها تضمین کرده و دیگر نیازی به توافق با جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی ندارد.",
+            "رد پیشنهاد آتش‌بس هفت‌روزه از سوی ترامپ، پرده از بی‌اعتمادی کامل آمریکا به تعهدات تهران برمی‌دارد.",
+            "فشار حداکثری و محاصره نفتی با قوت ادامه دارد تا مهم‌ترین اهرم فشار حکومت از کار بیفتد."
+        ],
+        "impact": "بسته شدن پنجره دیپلماسی موقت و تداوم فشار سنگین اقتصادی بر صادرات نفت.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609282779",
+        "clean_url": "https://www.iranintl.com/202609282779",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790559840.0
     },
     {
         "id": "1f9fe5ba0a",
@@ -5464,60 +5519,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlVXcGt6aVFpNVRpek5lRFdoN2Q4Z3ZZTWpfVWZXYmRUejFGLU1veHNZeHhJNmhJVVVWRnNvbGhJRUR3ZmZaWnBlamZ5ZXJqMzdNV2NPVWNkX1g4TEZ0QWxnNjRsRGs2NVl5b1BtdGxXa1FtR1ZRakxsLU56NU93a1RPaFVZQXUtQVhrTjJvU0gyT3ZnUjVjbk5kN29ua3dhUmfSAacBQVVfeXFMTkY5VnFvTmJtNHQ3M1F4M0xnY3F5VGIzdG1zbTZPejdkaUtpTFpZdndzOTYwdGdoZzlELUxGbFMtdVlKWVJUOHF3dmJicDhKWDdUNTBkZ2ZhX2hDS0d0M1A1NmdjX1VMUGZwLVZFTTBMRGN4Q1o4cGhNamx4dHQ1WmZCSTdmSDcxMUdLaVA1VkxJODg2eV9ZM1ctUkVOUG1BNkpQQkJoYlE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790326359.0
-    },
-    {
-        "id": "65d26ac66c",
-        "title_fa": "دیدار عراقچی و وزیر خارجه هند در حاشیه سازمان ملل",
-        "title_en": "عباس عراقچی و وزیر خارجه هند در نیویورک دیدار کردند",
-        "summary": [
-            "رایزنی‌های دیپلماتیک دستگاه خارجه ج... ا... در نیویورک برای کاهش فشارهای بین‌المللی.",
-            "چالش‌های بقای حکومت پس از ضربات سنگین نظامی و اعتراضات گسترده داخلی."
-        ],
-        "impact": "تلاش مذبوحانه دستگاه دیپلماسی برای یارگیری سیاسی در مجامع بین‌المللی",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609251157",
-        "clean_url": "https://www.iranintl.com/202609251157",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790326320.0
-    },
-    {
-        "id": "7f5be3add8",
-        "title_fa": "نسق حکومت با پیام خالی عوض نمی‌شود",
-        "title_en": "سفیر پیشین بریتانیا: برای سرنگونی حکومت ایران پنج عامل لازم است؛ پیام‌های ترامپ کافی نیست",
-        "summary": [
-            "دیپلمات ارشد بریتانیایی تاکید کرد فشار خارجی و توئیت‌های ترامپ برای سقوط ج.ا کافی نیست.",
-            "تغییر بنیادین نیازمند همزمانی اعتراضات داخلی، فروپاشی نهادهای سرکوب و حمایت واقعی است.",
-            "بدنه امنیتی نظام با وجود ضربات سنگین همچنان توانسته کنترل بحران را حفظ کند."
-        ],
-        "impact": "آشکار شدن limites فشارهای بیرونی و ضرورت سازماندهی درون‌سرزمینی برای گذار.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609254494",
-        "clean_url": "https://www.iranintl.com/202609254494",
-        "image": "http://www.bing.com/th?id=ONUT.F7v5cf0cj_t8oLAV6bSb-A&pid=News",
-        "timestamp": 1790324820.0
-    },
-    {
-        "id": "4587df06ad",
-        "title_fa": "فرح پهلوی: نسل جوان ای... راه آزادی را برگزیده است",
-        "title_en": "شهبانو فرح پهلوی: نسل جوان ایران با وجود سرکوب، آزادی و دموکراسی را برگزیده است",
-        "summary": [
-            "نسل جوان ای... با وجود سال‌ها فشار و سرکوب، خواستار آزادی و دمکراسی است.",
-            "مخالفت صریح با هرگونه تجاوز نظامی خارجی و تاکید بر حق تعیین سرنوشت توسط ملت."
-        ],
-        "impact": "بازتابصدای مقاومت مدنی نسل جوان در رسانه‌های بین‌المللی",
-        "tag": "اپوزیسیون",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609257394",
-        "clean_url": "https://www.iranintl.com/202609257394",
-        "image": "http://www.bing.com/th?id=ONUT.NC1jSlppNQCJqpqNMQm02A&pid=News",
-        "timestamp": 1790324700.0
     }
 ]
