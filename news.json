@@ -202,6 +202,24 @@
         "timestamp": 1790556785.0
     },
     {
+        "id": "1e1f4d087d",
+        "title_fa": "بازی دو سر برد یا لبه جنگ؟",
+        "title_en": "Iran war live: Tehran open to 'real diplomacy', ready for 'apocalyptic war'",
+        "summary": [
+            "عباس عراقچی وزیر خارجه از آمادگی برای دیپلماسی واقعی و هم‌زمان جنگ آخرالزمانی سخن گفت.",
+            "دونالد ترامپ ادعا کرد ایالات متحده به زودی پیروز جنگ خواهد بود و مذاکرات جدیدی در راه است."
+        ],
+        "impact": "افزایش شدید تنش‌های لفظی و آماده‌باش روانی در بازارهای مالی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T171103Z_777393107_RC2ORNADPDDR_RTRMADP_3_IRAN-CRISIS-1790552079.jpg?resize=1920%2C1440",
+        "timestamp": 1790553600.0
+    },
+    {
         "id": "9674d7f833",
         "title_fa": "توافق هسته‌ای آمریکا و عربستان؛ راه هموار برای بمب",
         "title_en": "US nuclear pact puts Saudi Arabia on path to the bomb",
@@ -5500,23 +5518,5 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab683ab4f1d-1790346155.jpg?resize=1920%2C1440",
         "timestamp": 1790302740.0
-    },
-    {
-        "id": "1025df5b65",
-        "title_fa": "ممنوعیت برقع و نقاب در مدارس ایتالیا",
-        "title_en": "دولت ایتالیا استفاده از برقع و نقاب در مدارس را ممنوع کرد",
-        "summary": [
-            "دولت ایتالیا استفاده از برقع و نقاب را در مدارس ممنوع کرد و متخلفان تا هزار یورو جریمه می‌شوند.",
-            "این مصوبه همچنین سقف ۳۰ درصدی برای حضور دانش‌آموزان خارجی در هر کلاس تعیین کرده است."
-        ],
-        "impact": "تشدید قوانین مهاجرتی و پوششی در سیستم آموزشی ایتالیا برای کنترل بیشتر بر مدارس.",
-        "tag": "بین‌الملل",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609251173",
-        "clean_url": "https://www.iranintl.com/202609251173",
-        "image": "http://www.bing.com/th?id=ONUT.wXeSfPpcjuDF9W9x9HV3mA&pid=News",
-        "timestamp": 1790299500.0
     }
 ]
