@@ -382,6 +382,25 @@
         "timestamp": 1790575200.0
     },
     {
+        "id": "2022e27e3f",
+        "title_fa": "سقوط آزاد ریال؛ دلار به ۲۴۴ هزار تومان رسید",
+        "title_en": "Iran’s rial hits another record low under economic and military pressure",
+        "summary": [
+            "ثبت رکورد تاریخی جدید برای دلار در سایه فشارهای سنگین اقتصادی و نظامی، نشان‌دهنده شکست سیاست‌های ارزی بانک مرکزی است.",
+            "تلاش‌های دیپلماتیک عباس عراقچی در نیویورک برای مذاکرات غیرمستقیم، تنها یک مسکن موقت برای جلوگیری از فروپاشی کامل بازار ارز است.",
+            "شکاف عمیق در بدنه حاکمیت بر سر پرونده هسته‌ای و سیاست خارجی، قدرت مانور جمهوری اسلامی را در برابر فشارهای بین‌المللی به حداقل رسانده است."
+        ],
+        "impact": "تداوم سقوط ارزش پول ملی، قدرت خرید مردم را به شدت کاهش داده و فضای اقتصادی را به سمت ناپایداری مطلق برده است.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609280172",
+        "clean_url": "https://www.iranintl.com/en/202609280172",
+        "image": "http://www.bing.com/th?id=ONUT.ZDtzcqjZBG6q781mK54uFQ&pid=News",
+        "timestamp": 1790574480.0
+    },
+    {
         "id": "47110a0d4f",
         "title_fa": "بن‌بست در تنگه هرمز و رد پیشنهاد جـ.ـهـ.ـو‌ر‌ی ا‌سـ.ـلا‌مـ.ـی توسط واشنگتن",
         "title_en": "Envoy reveals why US rejected Iran's Hormuz offer",
@@ -5504,23 +5523,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JT3pOUE1kb0dqMWp4cEJROGt3bXdsOUJKT1NwNTlDVXVmTW5mZ3UtUUtWb1doY0E2NzhSNGdfVEFUVG51YmhIMU04ekFwUnhCWFZ0NV9sZk5sZ1E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790341196.0
-    },
-    {
-        "id": "cd891bf938",
-        "title_fa": "افزایش پنهانی آمار نظامیان زخمی آمریکایی",
-        "title_en": "Pentagon quietly adds dozens to tally of troops wounded amid Iran war",
-        "summary": [
-            "پنتاگون بدون سر و صدا ۲۹ ملوان و ۸ تفنگدار دریایی دیگر را به فهرست تلفات اضافه کرد.",
-            "مجموع نظامیان آسیب‌دیده آمریکایی از ابتدای درگیری‌ها با عوامل ج. ا به ۸۶۱ نفر رسید."
-        ],
-        "impact": "این آمار قطره‌چکانی نشان می‌دهد هزینه انسانی درگیری‌ها برای واشنگتن فراتر از گزارش‌های اولیه است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/09/25/pentagon-quietly-adds-dozens-tally-troops-wounded-amid-iran-war/",
-        "clean_url": "https://www.washingtonpost.com/national-security/2026/09/25/pentagon-quietly-adds-dozens-tally-troops-wounded-amid-iran-war",
-        "image": "http://www.bing.com/th?id=ONUT.D818sN7BvpZnQG7N3ZbhvQ&pid=News",
-        "timestamp": 1790340600.0
     }
 ]
