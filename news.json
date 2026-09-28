@@ -18,6 +18,25 @@
         "timestamp": 1790626886.0
     },
     {
+        "id": "ca91af82c7",
+        "title_fa": "ترامپ: جمهوری اسلامی به نداشتن سلاح هسته‌ای تن می‌دهد",
+        "title_en": "Iran ready to say it will never develop nuclear weapons, Trump trumpets",
+        "summary": [
+            "ترامپ با اعتماد به نفس از توافق احتمالی برای مهار برنامه هسته‌ای ج.ا خبر می‌دهد.",
+            "ادعای ج.ا مبنی بر فتوای ممنوعیت سلاح هسته‌ای، در برابر فشار حداکثری ترامپ به یک ابزار چانه‌زنی تبدیل شده است.",
+            "زمان‌بندی ترامپ برای توافق، نشان‌دهنده استفاده ابزاری او از پرونده هسته‌ای برای پیروزی در انتخابات کنگره است."
+        ],
+        "impact": "افزایش فشار روانی بر تهران برای پذیرش توافقی محدودکننده و نظارت‌پذیر.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2194217",
+        "clean_url": "https://tass.com/world/2194217",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790626440.0
+    },
+    {
         "id": "61ad1ee60f",
         "title_fa": "خط و نشان ترامپ برای جـ.ـمهوری اسـ.ـلامی",
         "title_en": "Iran-US war latest: Trump says US will win conflict 'very soon'",
@@ -5508,23 +5527,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWTNmbkJ1S2dETTlnYTdzSC12RlJZTjZPYm1sUWhoX282amotSG9pUGlSa2pmSXRnTzFyZ04wNEtleDBvT1ZsWGV5ZlJQTFpaTkJNdzFHWDRoTEIwN3dIY0xZRDFGSTFBMFZWeUVTWTM2cnF0Y0kzOEl4ZzhHanNtcnpHU21Fa1g5Qmp3TS1GQTNUM01kYkttU21KdXFiMVVMTzhZTW82eEU3aWxmbTZhclBvVWI0di1MWVU0VXpYU295Q0tVRnJKd3NITnRFdDQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790379000.0
-    },
-    {
-        "id": "64eac34939",
-        "title_fa": "واکنش تند جریان تندرو به اظهارات هسته‌ای پـ...ـزشکیان",
-        "title_en": "Pezeshkian’s Fox News nuclear overture draws hardline backlash",
-        "summary": [
-            "موضع‌گیری جدید پـ...ـزشکیان درباره پرونده هسته‌ای در شبکه فاکس‌نیوز، خشم باندهای تندرو داخلی را برانگیخت.",
-            "شکاف میان دولت و جناح افراطی حاکم بر سر نحوه تعامل با غرب روزبه‌روز عمیق‌تر می‌شود."
-        ],
-        "impact": "افزایش تنش‌های درون‌حاکمیتی و بلوکه شدن احتمالی هرگونه مسیر دیپلماسی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GaDRURjhMdnBESFdjQlZmQUo1Q3lWZ2x0MEVJSDVoY1ZsMnJ2RzZyQ0JId0U0M1FXQVRST3RVU3hmYnVwbVlXb2o0S3RXTy02aUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GaDRURjhMdnBESFdjQlZmQUo1Q3lWZ2x0MEVJSDVoY1ZsMnJ2RzZyQ0JId0U0M1FXQVRST3RVU3hmYnVwbVlXb2o0S3RXTy02aUE",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790378100.0
     }
 ]
