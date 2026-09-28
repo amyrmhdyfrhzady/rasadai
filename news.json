@@ -275,6 +275,25 @@
         "timestamp": 1790599205.0
     },
     {
+        "id": "e7bb4fcfcb",
+        "title_fa": "سقوط آزاد ریال؛ ترامپ حلقه محاصره اقتصادی را تنگ‌تر کرد",
+        "title_en": "Iran's rial crashes to record low as Trump tightens squeeze, Bessent sets two-week deadline",
+        "summary": [
+            "خزانه داری آمریکا با هدف قرار دادن بانک‌ها، هوانوردی و دارایی‌های دیجیتال، دامنه تحریم‌ها را فراتر از نفت گسترش داده است.",
+            "اسکات بسنت با تعیین ضرب‌الاجل دو هفته‌ای، فشار بر شبکه‌های دور زدن تحریم‌های ج.ا را به اوج رسانده است.",
+            "بازار ارز تهران در واکنش به این استراتژی جدید، رکورد تاریخی سقوط ارزش پول ملی را شکست."
+        ],
+        "impact": "فلج شدن کانال‌های مالی و ناتوانی در تامین ارز مورد نیاز برای واردات کالاهای اساسی.",
+        "tag": "ارز",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "MEAWW News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/irans-rial-crashes-to-record-low-as-trump-tightens-squeeze-bessent-sets-two-week-deadline/ar-AA2d8BGT",
+        "clean_url": "https://www.msn.com/en-us/news/other/irans-rial-crashes-to-record-low-as-trump-tightens-squeeze-bessent-sets-two-week-deadline/ar-AA2d8BGT",
+        "image": "http://www.bing.com/th?id=ONUT.cMIhfBybXuaS_qHm0JoJwQ&pid=News",
+        "timestamp": 1790599204.0
+    },
+    {
         "id": "d4c4ff90f7",
         "title_fa": "جدال سیاسی بر سر تعلیق مالیات بنزین در تگزاس",
         "title_en": "Paxton, Talarico spar over gas tax suspension amid rising prices",
@@ -5506,23 +5525,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/josh-shapiro-and-gretchen-whitmer-potential-2028-rivals-meet-at-philly-diner-to-boost-democrats-ahead-of-midterms/ar-AA2cZxzi",
         "image": "http://www.bing.com/th?id=ONUT.8WcRDaSsv_zP5tnAfah7rg&pid=News",
         "timestamp": 1790365680.0
-    },
-    {
-        "id": "03b7c1b8a4",
-        "title_fa": "عقب‌نشینی تدریجی ج·ا از حوثی‌ها همزمان با ائتلاف جدید ریاض",
-        "title_en": "Iran distances itself from Houthis as Saudi Arabia builds new alliance",
-        "summary": [
-            "تهران برای کاهش هزینه‌های منطقه‌ای، فاصله خود را با شبه‌نظامیان حوثی بیشتر می‌کند.",
-            "عربستان سعودی با ایجاد اتحادهای تازه، موازنه‌ قدرت در یمن را به نفع خود تغییر می‌دهد."
-        ],
-        "impact": "تضعیف بازوهای نیابتی ج·ا در مرزهای جنوبی عربستان و کاهش عمق استراتژیک جمهوری اسلامی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "NewsNation",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUc0VzNaTHRLQ05LbnNOdC1oYWpGVzNaSTRsRF9JMGJPcjNTc3QydTNKazh2SHRQWm1FU0lkSTFBLV9fTG1CeEtjc0hjN2pEMTVlX2JIYXBRdzJ1eFZSZWo2OHB4akhYR2FldHJ4NXdpdGduN2o5VERFWmpuMkFYemZoSlRpZjg1ZTRLcXRhZWNtZ2PSAZgBQVVfeXFMTlNKVDdmd2NrZk1pQWpMeVhET2FGWnpRbWluLXk0RmZEeF9nQmFOZWh6UkRVQUJTNGc5Rk9XQjlKZTNySXVkWDRvN0w2dHpfODRqdTQ1NURpUml2MDdmVzdqbzdNb0RmSk54blkzdTVhUTh0WjI4LUUydktLTkgyX25nUE5Pbms0bEZEWmVLZm5ETHVQb3l6bkw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUc0VzNaTHRLQ05LbnNOdC1oYWpGVzNaSTRsRF9JMGJPcjNTc3QydTNKazh2SHRQWm1FU0lkSTFBLV9fTG1CeEtjc0hjN2pEMTVlX2JIYXBRdzJ1eFZSZWo2OHB4akhYR2FldHJ4NXdpdGduN2o5VERFWmpuMkFYemZoSlRpZjg1ZTRLcXRhZWNtZ2PSAZgBQVVfeXFMTlNKVDdmd2NrZk1pQWpMeVhET2FGWnpRbWluLXk0RmZEeF9nQmFOZWh6UkRVQUJTNGc5Rk9XQjlKZTNySXVkWDRvN0w2dHpfODRqdTQ1NURpUml2MDdmVzdqbzdNb0RmSk54blkzdTVhUTh0WjI4LUUydktLTkgyX25nUE5Pbms0bEZEWmVLZm5ETHVQb3l6bkw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790365585.0
     }
 ]
