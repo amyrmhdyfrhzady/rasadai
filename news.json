@@ -183,6 +183,25 @@
         "timestamp": 1790556785.0
     },
     {
+        "id": "9674d7f833",
+        "title_fa": "توافق هسته‌ای آمریکا و عربستان؛ راه هموار برای بمب",
+        "title_en": "US nuclear pact puts Saudi Arabia on path to the bomb",
+        "summary": [
+            "توافق هسته‌ای غیرنظامی میان واشنگتن و ریاض زنگ خطر را برای گسترش تسلیحات اتمی در منطقه به صدا درآورده است.",
+            "گزارش‌های محرمانه نشان می‌دهد عربستان ساخت بمب اتمی را رد نکرده و این توافق دسترسی این کشور را به غنی‌سازی اورانیوم تسهیل می‌کند.",
+            "دولت ترامپ این قرارداد چند میلیارد دلاری را برای مهار نفوذ چین و روسیه امضا کرده اما منتقدان نگران از دست رفتن کنترل بر تسلیحات هستند."
+        ],
+        "impact": "این توافق موازنه قوا در خاورمیانه را به شدت تغییر داده و مسیر دستیابی ریاض به تسلیحات اتمی را باز می‌کند.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Asia Times",
+        "url": "https://asiatimes.com/2026/09/us-nuclear-pact-puts-saudi-arabia-on-path-to-the-bomb/",
+        "clean_url": "https://asiatimes.com/2026/09/us-nuclear-pact-puts-saudi-arabia-on-path-to-the-bomb",
+        "image": "https://asiatimes.com/wp-content/uploads/2026/09/Saudi-Arabia-Nuclear-Bomb-.jpg",
+        "timestamp": 1790553600.0
+    },
+    {
         "id": "38cc26a0b0",
         "title_fa": "بن‌بست خطرناک در پرونده اتمی با رد دیپلماسی از سوی ترامپ",
         "title_en": "Trump rejection leaves Iran diplomacy at dangerous impasse",
@@ -5499,24 +5518,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZNjJzT2M3cmx3aVBfd2c3ZmptNmhmVW5PeE94UEVqS0RkZ3pWN3pjQ2oweFUyMkxVN1A1NU5iOUxNUEpuTzZ5TFNIR0UzUE9Nd1pIUDdDanZnclRxUGUyMzJCejNrcl9fRWpnNlg3cEh5bXh5OGIzNm1R",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790297243.0
-    },
-    {
-        "id": "911595abb9",
-        "title_fa": "بازی تکراری پززشکیان؛ ادعای صلح‌طلبی در سایه بحران",
-        "title_en": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
-        "summary": [
-            "مسعود پزشکیان در مصاحبه با فاکس نیوز مدعی شد تهران به دنبال سلاح هسته‌ای نیست و آمادگی رقیق‌سازی اورانیوم را دارد.",
-            "رئیس‌جمهور جـ.ـمهوری اسـ.ـلامی، آمریکا و متحدانش را عامل اصلی آتش‌افروزی و تنش در منطقه معرفی کرد.",
-            "این اظهارات در حالی مطرح می‌شود که آژانس بارها بر عدم همکاری کامل تهران با بازرسان تاکید کرده است."
-        ],
-        "impact": "تلاش دیپلماتیک برای خرید زمان و کاهش فشار تحریم‌ها بدون عقب‌نشینی واقعی از برنامه‌های هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.msn.com/en-us/news/other/iranian-president-blames-us-for-middle-east-conflict-while-denying-nuclear-ambitions-offers-to-dilute-uranium/ar-AA2cVCA6",
-        "clean_url": "https://www.msn.com/en-us/news/other/iranian-president-blames-us-for-middle-east-conflict-while-denying-nuclear-ambitions-offers-to-dilute-uranium/ar-AA2cVCA6",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cRmZn.img?w=1280&h=720&m=4&q=81",
-        "timestamp": 1790295936.0
     }
 ]
