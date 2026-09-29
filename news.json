@@ -240,6 +240,25 @@
         "timestamp": 1790629200.0
     },
     {
+        "id": "79ec1d3c90",
+        "title_fa": "پشت پرده رایزنی‌های غیرمستقیم تهران و واشنگتن با میانجیگری قطر",
+        "title_en": "US-Iran contacts continue as terms of possible deal remain disputed",
+        "summary": [
+            "مقام‌های ارشد آمریکایی و تیم جـمـهـورۍ اسـلا‌مـی از طریق میانجی‌های قطری در حال بررسی طرحی هفت روزه برای کاهش تنش هستند.",
+            "عباس عراقچی از دریافت و ارسال پیام‌های متقابل خبر داده، اما اختلاف‌نظرها روی شرایط توافق همچنان پابرجاست.",
+            "دونالد ترامپ نیز انجام این تماس‌ها را تایید کرده ولی جزئیاتی از مطالبات طرفین رسانه‌ای نکرده است."
+        ],
+        "impact": "ادامه تماس‌های غیرمستقیم نشان‌دهنده تلاش دو طرف برای مدیریت بحران و جلوگیری از درگیری نظامی است.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609296984",
+        "clean_url": "https://www.iranintl.com/en/202609296984",
+        "image": "http://www.bing.com/th?id=ONUT.KiCM49LZemvWZnfzIQ0Yfw&pid=News",
+        "timestamp": 1790629020.0
+    },
+    {
         "id": "54cceab836",
         "title_fa": "افزایش شکاف‌های راهبردی و افت بازدارندگی اسرائیل",
         "title_en": "Israel: Strategic Divergence and Weakened Deterrence",
@@ -5498,23 +5517,5 @@
         "clean_url": "https://www.iranintl.com/202609260570",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790425440.0
-    },
-    {
-        "id": "0eae1a22a0",
-        "title_fa": "پیشنهاد شرطی تهران برای بازگشایی تنگه هرمز",
-        "title_en": "Iran proposes a deal to reopen the Strait of Hormuz in 7 days if the US meets its conditions",
-        "summary": [
-            "مقام‌های جـ.ـهـ.ـوری اسـ.ـلامـ.ـی مدعی شدند در ازای پذیرش شرایط‌شان، تنگه هرمز را ظرف هفت روز باز می‌کنند.",
-            "این ادعا در حالی مطرح شده که فشار نظامی و اقتصادی بر روی تهران به شدت افزایش یافته است."
-        ],
-        "impact": "تلاش برای خرید زمان و کاهش فشارهای بین‌المللی با ابزار تهدید کشتیرانی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Chattanooga Times Free Press",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVVwYzhwN05yeGNCcHlxUlVwUWtoaDBEa19rR3g2QzNETE9VdW9rblNnMHZ6cm1XeEU5aHJtX2lMR3Y5Y3E3bmI5WmR0QTNyZXZmdHg1czZiZG1rR3FxR28xd0FEYnNlYW1KTEZMUXFTYklmZm9IbGppODJubUVka2hkeGRBSGFSMm1SSXNpQTlsYkdkRHplS1piZG4weDFlN2x1MlNpME51V2hpT1M3RmZyMEJQdG95LUtJbG9fZmlnRGlVRUlvcUdCaFVJLWlIbVpiY212VkY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVVwYzhwN05yeGNCcHlxUlVwUWtoaDBEa19rR3g2QzNETE9VdW9rblNnMHZ6cm1XeEU5aHJtX2lMR3Y5Y3E3bmI5WmR0QTNyZXZmdHg1czZiZG1rR3FxR28xd0FEYnNlYW1KTEZMUXFTYklmZm9IbGppODJubUVka2hkeGRBSGFSMm1SSXNpQTlsYkdkRHplS1piZG4weDFlN2x1MlNpME51V2hpT1M3RmZyMEJQdG95LUtJbG9fZmlnRGlVRUlvcUdCaFVJLWlIbVpiY212VkY",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790424000.0
     }
 ]
