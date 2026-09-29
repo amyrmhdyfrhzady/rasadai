@@ -491,6 +491,25 @@
         "timestamp": 1790684520.0
     },
     {
+        "id": "51f095363c",
+        "title_fa": "ضربه‌ جدید آمریکا به شبکه‌های دور زدن تحریم",
+        "title_en": "United States Disrupts Iran’s Proliferation-Sensitive Efforts in Support of UN Restrictions",
+        "summary": [
+            "وزارت خارجه ایالات متحده همزمان با سالگرد بازگشت تحریم‌های سازمان ملل، دور جدید تحریم‌ها را کلید زد.",
+            "یک نهاد مستقر در ایران و دو شرکت روسی هدف این فهرست سیاه قرار گرفتند.",
+            "هدف از این اقدام، مسدود کردن مسیرهای مالی و لجستیکی حامی برنامه‌های اتمی و موشکی تهران است."
+        ],
+        "impact": "افزایش فشار اقتصادی و تنگ‌تر شدن حلقه محاصره مالی بر روی نهادهای همکار با جمهوری اسلامی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "U.S. Department of State",
+        "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-disrupts-irans-proliferation-sensitive-efforts-in-support-of-un-restrictions-fact-sheet/",
+        "clean_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-disrupts-irans-proliferation-sensitive-efforts-in-support-of-un-restrictions-fact-sheet",
+        "image": "http://www.bing.com/th?id=ONUT.UOwRH8TwYvMmZ7rOgADHDQ&pid=News",
+        "timestamp": 1790683740.0
+    },
+    {
         "id": "a66b3f979e",
         "title_fa": "سقوط آزاد ریال؛ عبور دلار از مرز ۲.۵ میلیون ریال",
         "title_en": "Iran’s Rial Just Got Handed Another Record Low: It Now Takes Two and a Half Million of Them to Buy a Single Dollar",
@@ -5493,24 +5512,5 @@
         "clean_url": "https://www.iranintl.com/202609274671",
         "image": "http://www.bing.com/th?id=ONUT.OwVRGJW6FTtjIgkZylcctQ&pid=News",
         "timestamp": 1790500440.0
-    },
-    {
-        "id": "b846636ccf",
-        "title_fa": "هراس پزشکیان از رویارویی مستقیم با ترامپ",
-        "title_en": "Alasan Presiden Iran Pezeshkian Masih Ogah Temui Trump",
-        "summary": [
-            "ترس از تندروهای داخلی و بازوهای نظامی، دست و پای پزشکیان را برای هرگونه مذاکره مستقیم با ترامپ بسته است.",
-            "تجربه دور قبلی ریاست‌جمهوری ترامپ و سیاست فشار حداکثری، تهران را دچار وحشت تصمیم‌گیری کرده است.",
-            "ترامپ به دنبال تسلیم کامل حکومت ایران است، در حالی که رئیس‌جمهور منصوب بدون اجازه رهبر جمهوری اسلامی حتی حق یک گفتگوی ساده را ندارد."
-        ],
-        "impact": "تداوم بلاتکلیفی دیپلماتیک که بازار ارز تهران را در وضعیت آماده‌باش و نوسان مداوم نگه می‌دارد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "CNN Indonesia",
-        "url": "https://www.cnnindonesia.com/internasional/20260927104453-120-1408674/alasan-presiden-iran-pezeshkian-masih-ogah-temui-trump",
-        "clean_url": "https://www.cnnindonesia.com/internasional/20260927104453-120-1408674/alasan-presiden-iran-pezeshkian-masih-ogah-temui-trump",
-        "image": "https://www.bing.com/th?id=ONUT.6KhrAvubOYSuTVBovkDLhw",
-        "timestamp": 1790499679.6653159
     }
 ]
