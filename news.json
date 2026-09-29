@@ -254,6 +254,24 @@
         "timestamp": 1790668353.0
     },
     {
+        "id": "7b27d8219e",
+        "title_fa": "پیام دخالت‌جویانه س پ ا ه به مردم آمریکا",
+        "title_en": "Iran tells the US public that Trump’s war has failed, and other Mideast developments",
+        "summary": [
+            "مقام های ارشد نظامی ج م ه و ر ی ا س ل ا م ی در یک اقدام تبلیغاتی از مردم آمریکا خواستند علیه دونالد ترامپ به خیابان بیایند.",
+            "تهران مدعی شد که واشنگتن در خاورمیانه شکست خورده و باید منطقه را ترک کند."
+        ],
+        "impact": "تلاش مذبوحانه تهران برای اثرگذاری بر افکار عمومی آمریکا با شکست روبه‌رو شد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/09/29/iran-trump-war-mideast-news/",
+        "clean_url": "https://www.sun-sentinel.com/2026/09/29/iran-trump-war-mideast-news",
+        "image": "http://www.bing.com/th?id=ONUT.aaFiCViDFuvYsGMouqkLfQ&pid=News",
+        "timestamp": 1790667600.0
+    },
+    {
         "id": "5c0d9fa173",
         "title_fa": "بدبینی مقام‌های جـ.ـهـ.ـوری اسـ.ـلامـ.ـی به توافق با آمریکا پیش از انتخابات کنگره",
         "title_en": "Iran Officials Pessimistic About US Deal Before Midterms",
@@ -5494,23 +5512,5 @@
         "clean_url": "https://ew.com/snl-recap-season-52-jalen-brunson-12142831",
         "image": "http://www.bing.com/th?id=ONUT.yik2uPxHxn6V-y781CqO-g&pid=News",
         "timestamp": 1790466840.0
-    },
-    {
-        "id": "b741af5578",
-        "title_fa": "چالش حقوقی اعزام گارد ملی به ایران",
-        "title_en": "Trump doesn't have the right to send National Guard to Iran | Opinion",
-        "summary": [
-            "بررسی حدود اختیارات رئیس‌جمهور آمریکا در اعزام نیروهای نظامی",
-            "مخالفت کارشناسان حقوقی با دخالت نظامی مستقیم در ج-مه-ورِی اس-لا-می"
-        ],
-        "impact": "این یادداشت نشان‌دهنده موانع حقوقی داخلی بر سر راه مداخلات نظامی مستقیم است.",
-        "tag": "نظامی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1hseDhZSkREWEZzRlJsWkwyT3RKd3BGRGp0QjJDalI0V2U3cS0wNmZNSFZKNndBY1BCSVpRX01KSF95RHBUeThtRzFPcFhpalRlUGgyVHkzM3hSdUtLVEppUTNuVVFpNDB1YlBpcktNZXN3WGNKbXU4WnhBanVBbi1laDJ2ZDE5TWZxcTVaQW5zY294bHNzQUpFbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1hseDhZSkREWEZzRlJsWkwyT3RKd3BGRGp0QjJDalI0V2U3cS0wNmZNSFZKNndBY1BCSVpRX01KSF95RHBUeThtRzFPcFhpalRlUGgyVHkzM3hSdUtLVEppUTNuVVFpNDB1YlBpcktNZXN3WGNKbXU4WnhBanVBbi1laDJ2ZDE5TWZxcTVaQW5zY294bHNzQUpFbw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790466780.0
     }
 ]
