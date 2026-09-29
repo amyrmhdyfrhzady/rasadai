@@ -306,6 +306,25 @@
         "timestamp": 1790672820.0
     },
     {
+        "id": "7cd4fe17d2",
+        "title_fa": "درگیری سنگین و اعزام تانک به ایرانشهر",
+        "title_en": "حال‌وش از درگیری مسلحانه شدید میان نیروهای جمهوری اسلامی و افراد مسلح در ایرانشهر خبر داد",
+        "summary": [
+            "منطقه غریب‌آباد ایرانشهر صحنه درگیری مسلحانه میان افراد مسلح و نیروهای حکومتی شد.",
+            "نیروهای نظامی برای سرکوب این افراد از تانک، سلاح نیمه‌سنگین و پهپاد استفاده کردند.",
+            "تمام مسیرهای منتهی به محل درگیری مسدود شده و جو امنیتی شدیدی حاکم است."
+        ],
+        "impact": "افزایش تنش‌های امنیتی و گسترش درگیری‌های مسلحانه در مناطق مرزی و پیرامونی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609299661",
+        "clean_url": "https://www.iranintl.com/202609299661",
+        "image": "http://www.bing.com/th?id=ONUT.6irMtnNNkE_18L4iXqOL9Q&pid=News",
+        "timestamp": 1790671980.0
+    },
+    {
         "id": "16a4662037",
         "title_fa": "دور زدن تحریم‌ها توسط جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با تتر",
         "title_en": "Senate report claims Iran is using Tether's stablecoin to evade sanctions",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.iranintl.com/202609275419",
         "image": "http://www.bing.com/th?id=ONUT.Se8kLX27MNvmlx8kvuZo6w&pid=News",
         "timestamp": 1790477160.0
-    },
-    {
-        "id": "b6edf6b5d0",
-        "title_fa": "انتظار تهران برای پاسخ قطعی واشنگتن درباره تنگه هرمز",
-        "title_en": "Iran says it is awaiting 'definitive' US response despite Trump rejecting latest proposal",
-        "summary": [
-            "تهران چشم‌انتظار دریافت پاسخ نهایی درباره پیشنهاد اخیر خود برای بازگشایی تنگه هرمز است.",
-            "دونالد ترامپ پیشنهاد اخیر جمهوری اسلامی را علناً رد کرده است."
-        ],
-        "impact": "مقاومت ترامپ در برابر پیشنهادهای ایران، بن‌بست دیپلماتیک را تشدید کرده است.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-rejects-proposal-to-reopen-the-strait-of-hormuz-iran-says-it-is-awaiting-definitive-us-position/ar-AA2d0S5D",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-rejects-proposal-to-reopen-the-strait-of-hormuz-iran-says-it-is-awaiting-definitive-us-position/ar-AA2d0S5D",
-        "image": "http://www.bing.com/th?id=ONUT.TluDmmHzHdKfubkbnbbqgQ&pid=News",
-        "timestamp": 1790476417.0
     }
 ]
