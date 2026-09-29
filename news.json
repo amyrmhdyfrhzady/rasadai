@@ -164,6 +164,25 @@
         "timestamp": 1790697906.0
     },
     {
+        "id": "e7a2e49424",
+        "title_fa": "نامه سرگشاده سپاه به مردم آمریکا با چاشنی تهدید ترامپ",
+        "title_en": "5 takeaways from Iran letter to Americans and what it means for Trump's war",
+        "summary": [
+            "سپاه پاسداران در نامه‌ای به افکار عمومی آمریکا، واشنگتن را به شکست در برابر جمهوری اسلامی متهم کرد.",
+            "این متن ۲۵ صفحه‌ای با بهره‌برداری از نارضایتی‌های داخلی آمریکا، شهروندان این کشور را به اقدام علیه دولت ترامپ دعوت کرده است.",
+            "انتشار این پیام در آستانه تحولات انتخاباتی آمریکا، تلاشی آشکار برای اثرگذاری مستقیم بر فضای سیاسی واشنگتن ارزیابی می‌شود."
+        ],
+        "impact": "تشدید جنگ روانی و رسانه‌ای میان تهران و دولت ترامپ در بالاترین سطح.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/5-takeaways-iran-letter-americans-222124422.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/5-takeaways-iran-letter-americans-222124422.html",
+        "image": "http://www.bing.com/th?id=ONUT.U9RVYezIaYtXClmniygE1A&pid=News",
+        "timestamp": 1790695260.0
+    },
+    {
         "id": "236c9f66ca",
         "title_fa": "فشار لابی AIPAC بر سیاست دفاعی آمریکا در قبال تهران و اسرائیل",
         "title_en": "AIPAC Reported Lobbying on Iran and Israel Defense Policy",
@@ -5492,23 +5511,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zcER4Z2JmcHhYbVpFallRMEQzZkExZmFVTzFieVllOFFGdG1FZEE3RmFnTV80V2ZPakE2d2Y0Q2k0WVRBTlhNcHNDNi13R0RETDJYWlpxbXZIWUxt",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790499663.0
-    },
-    {
-        "id": "abf2e50b13",
-        "title_fa": "فلج شدن واردات موبایل با قطع پروازهای عمان",
-        "title_en": "Oman flight suspension disrupts Iran’s mobile phone imports",
-        "summary": [
-            "بیش از نود درصد گوشی‌های موبایل کشور از طریق حمل‌ونقل هوایی و با واسطه عمان وارد می‌شدند.",
-            "توقف پروازهای عمان زنجیره تأمین موبایل را مختل کرده و واردکنندگان را در بن‌بست جدی قرار داده است."
-        ],
-        "impact": "کاهش شدید عرضه موبایل و جهش دوباره قیمت‌ها در بازار داخلی.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609275321",
-        "clean_url": "https://www.iranintl.com/en/202609275321",
-        "image": "http://www.bing.com/th?id=ONUT.5TTYxTS1IQagIfJ3B-HI6w&pid=News",
-        "timestamp": 1790498880.0
     }
 ]
