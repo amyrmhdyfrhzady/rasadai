@@ -167,6 +167,24 @@
         "timestamp": 1790640480.0
     },
     {
+        "id": "54467f30fc",
+        "title_fa": "فشار روانی سپــاه به مردم آمریکا درباره جنگ",
+        "title_en": "Iran war live: IRGC tells American people that US must stop 'war crimes'",
+        "summary": [
+            "مـقامـات نظامی جمهوری اسلامی با خطاب قرار دادن مستقیم شهروندان آمریکایی تلاش می‌کنند فشار افکار عمومی را روی واشنگتن زیاد کنند.",
+            "وزیر خارجه حکومت در سفر به سازمان ملل تلاش کرد مواضع تهران در تنگه هرمز و بحران‌های منطقه را توجیه کند."
+        ],
+        "impact": "تلاش رسانه‌ای و جنگ روانی حکومت برای تاثیرگذاری بر محاسبات سیاسی واشنگتن.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26271697949481-1790659992.jpg?resize=1920%2C1440",
+        "timestamp": 1790639940.0
+    },
+    {
         "id": "c9cd88a3e3",
         "title_fa": "انفجار مهیب ارتش اسرائیل در جنوب لبنان",
         "title_en": "Lebanon Says Israeli Army Set off Large Explosion in South",
@@ -5501,24 +5519,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGpBSTIzQnBuNWFCSmMzY1JJek50ZWN6dlN5S0pnQ0ZpeHNkRm9qOEx1WFZlZWVFeS11LUNTd3hHU0hoN0FMclRLZ1ZaQ1AwWG05MFpYeEJGMVJ2QmhCTXhBUGNlcXdTSXU0MGRVU0xoOWo4MlhHUEJJQld4X1dfUzdlalVQMWdrcFJMOGZVRURuNGRBYUtUc1llVG5qRDg1aDZ5Zm4xbDljeHVEN0RGaW5kZllJVERUaUFqNVkwWkJXZG1KTVV0RlhIeW9PUTNoX0hmYWlQQzc5WWl6NFl4LUJvbkw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790435147.0
-    },
-    {
-        "id": "daee4f5ee3",
-        "title_fa": "کارت سوخته تنگه هرمز و سپر پدافندی فرانسه در منطقه",
-        "title_en": "شایان سمیعی: گره اصلی طرح بازگشایی تنگه هرمز، اعتبار تعهدات جمهوری اسلامی است",
-        "summary": [
-            "طرح ج*م*ه*و*ر*ی ا*س*ل*ا*م*ی برای معامله روی تنگه هرمز به دلیل بی‌اعتمادی مطلق بین‌المللی به تعهداتش شکست خورده است.",
-            "در پاسخ به تهدیدات موشکی و پهپادی، فرانسه اعزام سامانه‌های دفاعی و نیروهای نظامی به عربستان را کلید زد.",
-            "اروپایی‌ها برای جلوگیری از شوک قیمتی نفت، مستقیم وارد فاز تامین امنیت تاسیسات نفتی منطقه شده‌اند."
-        ],
-        "impact": "بی‌اثر شدن ابزار باج‌گیری نفتی تهران و متراکم‌تر شدن آرایش نظامی غرب در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609268470",
-        "clean_url": "https://www.iranintl.com/202609268470",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790434680.0
     }
 ]
