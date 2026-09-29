@@ -146,6 +146,25 @@
         "timestamp": 1790626157.0
     },
     {
+        "id": "dd1bf30ae1",
+        "title_fa": "هشدار صریح ترامپ درباره خطر بمب اتم ج - م - ه - و - ر - ی ا - س - ل - ا - م - ی",
+        "title_en": "Trump warns Iran could hit US if it gets nuclear weapon",
+        "summary": [
+            "دونالد ترامپ تاکید کرد که ت - ه - ر - ا - ن هرگز اجازه دستیابی به تسلیحات اتمی را پیدا نخواهد کرد.",
+            "گزارش‌ها حاکی از آمادگی واشنگتن برای ارائه معافیت‌های تحریمی در ازای عقب‌نشینی اتمی است.",
+            "دیپلمات‌های ارشد ج - م - ه - و - ر - ی ا - س - ل - ا - م - ی در نیویورک با میانجی‌گران قطری دیدار می‌کنند."
+        ],
+        "impact": "فشار همزمان نظامی و دیپلماتیک آمریکا برای مهار برنامه‌های هسته‌ای و تغییر محاسبات ت - ه - ر - ا - ن",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/liveblog/202609269384",
+        "clean_url": "https://www.iranintl.com/en/liveblog/202609269384",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/0111c3c1e01b7324dc03eebabecaad93f234085d-4096x2730.jpg?rect=0,295,4096,2140&w=1200&h=627&q=66&fit=max&auto=format",
+        "timestamp": 1790623980.0
+    },
+    {
         "id": "8dc72441ce",
         "title_fa": "فروپاشی ریال؛ اسکات بسنت از عملیات طرد اقتصادی رونمایی کرد",
         "title_en": "Bessent credits 'Economic Outcast' with rial's record fall",
@@ -5504,24 +5523,5 @@
         "clean_url": "https://www.iranintl.com/202609269886",
         "image": "http://www.bing.com/th?id=ONUT.fPhrlQIr-VKq3NsGIsu88A&pid=News",
         "timestamp": 1790400120.0
-    },
-    {
-        "id": "38de74c194",
-        "title_fa": "دست رد ترامپ به پیشنهاد آتش‌بس جـ.ـمـ.ـهـ.ـوری ا‌سـ.ـلا‌مـ.ـی",
-        "title_en": "Live Updates: Trump rejects Iranian ceasefire proposal as Pezeshkian says Tehran does not trust US push for talks",
-        "summary": [
-            "دونالد ترامپ پیشنهاد آتش‌بس ارسال شده از سوی تهران را قاطعانه رد کرد.",
-            "مسعود پزشکیان اعتراف کرد که حاکمیت هیچ اعتمادی به فشارهای آمریکا برای مذاکره ندارد.",
-            "ارتش ا‌سـ.ـرا‌ئیـ.ـل انبارهای تسلیحاتی حـ.ـز‌ب‌ا‌لـ.ـل در جنوب لبنان را زیر آتش گرفت."
-        ],
-        "impact": "بسته شدن مسیر دیپلماسی و افزایش احتمال درگیری‌های نظامی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-26/live-updates-909755",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-26/live-updates-909755",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739373",
-        "timestamp": 1790398440.0
     }
 ]
