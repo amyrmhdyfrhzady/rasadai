@@ -404,6 +404,24 @@
         "timestamp": 1790610840.0
     },
     {
+        "id": "403b800a41",
+        "title_fa": "خط و نشان ترامپ برای ج.ا: کار را زود تمام می‌کنیم",
+        "title_en": "Trump vows victory in Iran war 'very soon,' officials in talks with Iranian mediators",
+        "summary": [
+            "ترامپ با ادبیاتی صریح از پایان سریع تقابل با تهران خبر داده و نشان داده که صبر استراتژیک در دولت احتمالی او جایی ندارد.",
+            "حضور واسطه‌ها در مذاکرات پشت‌پرده، نشان‌دهنده تلاش برای مدیریت بحران پیش از وقوع یک درگیری تمام‌عیار است."
+        ],
+        "impact": "افزایش شدید ریسک‌های سیاسی و احتمال بازگشت سیاست فشار حداکثری به اوج خود.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-my/news/other/trump-vows-victory-in-iran-war-very-soon-officials-in-talks-with-iranian-mediators/ar-AA2d9eUK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-my/news/other/trump-vows-victory-in-iran-war-very-soon-officials-in-talks-with-iranian-mediators/ar-AA2d9eUK",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790610240.0
+    },
+    {
         "id": "24342e1e22",
         "title_fa": "تلاش میانجی‌ها برای توافق؛ ترامپ پیشنهاد تهران را رد کرد",
         "title_en": "Mediators working to broker US-Iran deal even after Trump rejected latest Tehran proposal",
@@ -5501,23 +5519,5 @@
         "clean_url": "https://www.ynetnews.com/article/rjp6drbcfl",
         "image": "http://www.bing.com/th?id=ONUT.24NwjCYCUaL6Hrob63QSPA&pid=News",
         "timestamp": 1790405580.0
-    },
-    {
-        "id": "453d4fddc3",
-        "title_fa": "خط‌ونشان جدید سـ‌پاه برای آمریکا؛ تبلیغات داخلی یا تهدید واقعی؟",
-        "title_en": "Punishing US Won’t Stop Until Iran’s Conditions Are Met: IRGC",
-        "summary": [
-            "فرماندهان سـ‌پاه مجدداً ادعای ادامه «تنبیه آمریکا» تا زمان پذیرش شروط تهران را مطرح کرده‌اند تا در فضای داخلی روحیه مقاومت تزریق کنند.",
-            "این موضع‌گیری‌های تکراری بیشتر کارکرد جنگ روانی و مصرف داخلی دارد و نشان‌دهنده توان واقعی برای تغییر معادلات میدانی نیست."
-        ],
-        "impact": "تثبیت فضای روانی تنش در بازار و بالاماندن ریسک‌های سیاسی در اقتصاد.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "تسنیم",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVRjSkVqM3J1clhwQk0wTXpiWEREazloTHU2bk1nVVEwb3U0ZVlrM05jM1U2akpoWGFlUDZuQ2JxdkNLanpnR1hvWEpETS02OWY4RnNMRGNRUHBJeWg1T1RXMFVkenp0ZzBqY0tSRXdLeXl5djBLOV9UVzVPY0pBRXVIdFRudXhraUNzZEtqQXNJaHE0bC1CNENLMERrTTNLQVlWVXV6OExsNTNDYjg4Sm41d9IBuAFBVV95cUxQNE9qNzZkRjdiZDl0cXFId0V5dTVlX1NaaHFEYTRqUFV2dGtVdlF2MmxsRUhILVUtaHA1b3dQbk5ma0ZKTGFTbGFmai15bm9JdWZJaWtzRmJVeXNqTl9lOUFXVS0xUVlEbWdsdzR1SW1KTmxOZERrYi0teFNKWFJBejlnUWk4U3pwUDFrWV9tRHRxTHJmZ1JvRndlTENScGNSZEY0UnBRZGt0OVNMa3VDMkdBU0c0X3Vo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVRjSkVqM3J1clhwQk0wTXpiWEREazloTHU2bk1nVVEwb3U0ZVlrM05jM1U2akpoWGFlUDZuQ2JxdkNLanpnR1hvWEpETS02OWY4RnNMRGNRUHBJeWg1T1RXMFVkenp0ZzBqY0tSRXdLeXl5djBLOV9UVzVPY0pBRXVIdFRudXhraUNzZEtqQXNJaHE0bC1CNENLMERrTTNLQVlWVXV6OExsNTNDYjg4Sm41d9IBuAFBVV95cUxQNE9qNzZkRjdiZDl0cXFId0V5dTVlX1NaaHFEYTRqUFV2dGtVdlF2MmxsRUhILVUtaHA1b3dQbk5ma0ZKTGFTbGFmai15bm9JdWZJaWtzRmJVeXNqTl9lOUFXVS0xUVlEbWdsdzR1SW1KTmxOZERrYi0teFNKWFJBejlnUWk4U3pwUDFrWV9tRHRxTHJmZ1JvRndlTENScGNSZEY0UnBRZGt0OVNMa3VDMkdBU0c0X3Vo",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790405279.0
     }
 ]
