@@ -235,6 +235,24 @@
         "timestamp": 1790688060.0
     },
     {
+        "id": "f6e7c17842",
+        "title_fa": "فشار حداکثری ترامپ و مسدود شدن مسیرهای تتر در صرافی‌های داخلی",
+        "title_en": "ترامپ درباره ایران: هنوز نمی‌دانم قرار است تسلیم شوند یا نه",
+        "summary": [
+            "ترامپ تاکید کرد جـمهوری اسـلامی در وضعیت بسیار خرابی است و هرگز به تسلیحات اتمی دست پیدا نخواهد کرد.",
+            "همزمان با گزارش سنای آمریکا درباره استفاده نـظام از تتر برای دور زدن تحریم‌ها، صرافی والکس واریز تتر را بست."
+        ],
+        "impact": "تنگنای شدید ارزی و مسدود شدن راه‌های تنفس مالی حکومت با قطع دسترسی به رمزارزها.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609299169",
+        "clean_url": "https://www.iranintl.com/202609299169",
+        "image": "http://www.bing.com/th?id=ONUT.-uezhs2NXHX4qrCYazSCjg&pid=News",
+        "timestamp": 1790686920.0
+    },
+    {
         "id": "b37d7122db",
         "title_fa": "هجوم مردم به فروشگاه‌ها؛ سایه سنگین جنگ روی سفره‌ها",
         "title_en": "Iranians stock up on food and medicine as fears of new US fighting grow",
@@ -269,6 +287,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3kyQVh0R2pNWkIyZVVNZUxZWHJTVVhrWkhYbmtSWTR2Mk9xT0UzcGYwRGkxMjRpSFBOaWhWaUN6SE9uTkhha2tJbUcwejRlZHpCZk1Icy1jX1h4VUNqVlRyWnFrRy1GbFdiU2U4emhaZWVFaHdwVzlxNDNTVVVoM2tlVlBQMFJWVjlpZlBCSThIalVGVDduaV9LU1lSeDdNX0E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790685811.0
+    },
+    {
+        "id": "5bf67ce8c1",
+        "title_fa": "ادعای قدرت جهانی و احتمال حملات پیش‌دستانه سپاه",
+        "title_en": "شکست شروط هفت‌گانه مجتبی خامنه‌ای با ادعای ابرقدرتی جهان؛ احتمال حمله پیش‌دستانه سپاه",
+        "summary": [
+            "در حالی که مـجتبی خـامنه‌ای ادعای تبدیل شدن به قدرت اول جهان را مطرح کرده، وال استریت ژورنال از کنترل تنگه هرمز توسط آمریکا خبر داد.",
+            "سپاه پاسداران برای جبران از دست دادن این کارت بازی مهم، به دنبال طراحی حملات پیش‌دستانه است."
+        ],
+        "impact": "افزایش احتمال درگیری نظامی در خلیج فارس به دلیل تلاش سپاه برای حفظ کنترل بر تنگه هرمز.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609294908",
+        "clean_url": "https://www.iranintl.com/202609294908",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790684640.0
     },
     {
         "id": "b8076e9c09",
@@ -5473,42 +5509,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-tells-trump-negotiations-are-only-way-to-break-war-deadlock-live/ar-AA2cVKOw",
         "image": "http://www.bing.com/th?id=ONUT.t9o_LrlBuFhxrdYO0V8Syg&pid=News",
         "timestamp": 1790492155.0
-    },
-    {
-        "id": "a40f2b8f5a",
-        "title_fa": "دست رد ترامپ به پیشنهاد سازش ج.ا",
-        "title_en": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-        "summary": [
-            "دونالد ترامپ پیشنهاد اخیر تهران برای پایان درگیری‌ها و بازگشایی تنگه هرمز را رد کرد.",
-            "ترامپ تاکید کرد توافق کنونی به نفع واشنگتن نیست و ج.ا به دلیل شکست‌های سنگین به دنبال توافق است.",
-            "قطر در تلاش برای میانجی‌گری میان طرفین است اما ترامپ امتیازات درخواستی تهران از جمله لغو تحریم‌های نفتی را نپذیرفته است."
-        ],
-        "impact": "فشار حداکثری آمریکا ادامه دارد و راه برای توافق زودهنگام بسته است.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/better-deal-behind-trump-rejection-131753248.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/better-deal-behind-trump-rejection-131753248.html",
-        "image": "http://www.bing.com/th?id=ONUT.Nl8WXmvN-TL9FGvVY-NS5w&pid=News",
-        "timestamp": 1790489820.0
-    },
-    {
-        "id": "2196806c29",
-        "title_fa": "کانادا: جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی تهدید اصلی صلح جهانی است",
-        "title_en": "Canada calls Iran 'principal threat to peace,' says it must never acquire nuclear weapons",
-        "summary": [
-            "دولت کانادا با صدور بیانیه‌ای تند، جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی را منشا اصلی بحران و ناامنی در منطقه و جهان معرفی کرد.",
-            "مقامات اتاوا بار دیگر تاکید کردند که دستیابی این حکومت به تسلیحات اتمی به هیچ وجه قابل پذیرش نیست."
-        ],
-        "impact": "افزایش فشارهای دیپلماتیک و انزوای بیشتر حکومت در سطح بین‌المللی",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Firstpost",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVhwNm5tcVVJNFVTLUZtc01lY0FERWVtNUlTZ1I4cnFWQU9qaUZDWjQ4bi1NQ1hrVnNIb3BmaGpzcFJIcTAzNTR5bV92YkEzaXFoTTZaSjNtRFM1MXU4Xy1qTnV0cHhBSlc2NXZRUE1RSi16dVlMUGZhVFdUSkY0RjluenJXTmRtdi1CSXJ3SGNyZ2tyYU5Ib0Y3YnZLd2llWF9VNHBfNU1falM0bkVGcDZPdFBmSnR3dEctWHR1QWFtdExmaFRFQnpmSUrSAdIBQVVfeXFMT3pUSXJUR1MwMGw5UHlwazcybTNNaEtlSDF0UlRHcVFWU2NsTEtRajZ2UEVMQnpKV2dtUFZfXzNnVmJ0N1N2QTdMVnlfcldZTFpNV0lBRlNQcHU0bXhUSW9SWDd3MzNpUUZLN29OUF9ncnVWU2J4Z3hOZmlNZzdGczEwVDNpOFE4UU1MNHFsa0hNZG9fdE9qUzRyMG91S3dnZ3lNbENxdFlJMk5pcVRJdUkweXB2UktZbmpxZE5uWnBKNG1YYVFZckJHOTVZM3JCWURB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVhwNm5tcVVJNFVTLUZtc01lY0FERWVtNUlTZ1I4cnFWQU9qaUZDWjQ4bi1NQ1hrVnNIb3BmaGpzcFJIcTAzNTR5bV92YkEzaXFoTTZaSjNtRFM1MXU4Xy1qTnV0cHhBSlc2NXZRUE1RSi16dVlMUGZhVFdUSkY0RjluenJXTmRtdi1CSXJ3SGNyZ2tyYU5Ib0Y3YnZLd2llWF9VNHBfNU1falM0bkVGcDZPdFBmSnR3dEctWHR1QWFtdExmaFRFQnpmSUrSAdIBQVVfeXFMT3pUSXJUR1MwMGw5UHlwazcybTNNaEtlSDF0UlRHcVFWU2NsTEtRajZ2UEVMQnpKV2dtUFZfXzNnVmJ0N1N2QTdMVnlfcldZTFpNV0lBRlNQcHU0bXhUSW9SWDd3MzNpUUZLN29OUF9ncnVWU2J4Z3hOZmlNZzdGczEwVDNpOFE4UU1MNHFsa0hNZG9fdE9qUzRyMG91S3dnZ3lNbENxdFlJMk5pcVRJdUkweXB2UktZbmpxZE5uWnBKNG1YYVFZckJHOTVZM3JCWURB",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790488978.0
     }
 ]
