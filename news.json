@@ -1,5 +1,24 @@
 [
     {
+        "id": "1e06c506a6",
+        "title_fa": "سردرگمی واشنگتن در تقابل با جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
+        "title_en": "Opinion | The Three American Strategies Toward Iran",
+        "summary": [
+            "مواجهه آمریکا و ایران وارد ماه هفتم شده بدون اینکه دستاورد ملموسی برای اهداف اولیه جنگ داشته باشد.",
+            "تنگه هرمز به یک چالش بزرگ تبدیل شده که امنیت انرژی جهان را به خطر اندخته است.",
+            "دونالد ترامپ در ابتدا این عملیات را یک درگیری کوتاه چند هفته‌ای برای نابودی تاسیسات نظامی و اتمی توصیف کرده بود."
+        ],
+        "impact": "گیجی محاسباتی کاخ سفید بحران انرژی و تنش‌های منطقه‌ای را وارد فاز خطرناکی کرده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Daily News Egypt",
+        "url": "https://www.dailynewsegypt.com/2026/09/29/opinion-the-three-american-strategies-toward-iran/",
+        "clean_url": "https://www.dailynewsegypt.com/2026/09/29/opinion-the-three-american-strategies-toward-iran",
+        "image": "https://images.dailynewsegypt.com/2026/09/1778217194_kurdistan24.jpg",
+        "timestamp": 1790709120.0
+    },
+    {
         "id": "8847e0560f",
         "title_fa": "تحریم‌های جدید آمریکا علیه زنجیره تسلیحاتی جـ.ـهـ.ـورئ ا‌سـ.ـلا‌مـ.ـی",
         "title_en": "After indirect talks, new US sanctions target Iran's weapons supply",
@@ -5491,23 +5510,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmxxZEl4WWFicV81NGxoTE9DT0pRUHRjUzB1anU5S0tIQkk0Uk1ReXg0Z2J4TEhEQVlkZ2otODVrOVY0RFhLdGlFWml4eFFfemdLd0RCdVFBaUFfci1WaThVZWw5LXNxcDllZHNzRzZFMGsxVW1Rd2dOM0lJdUdNMmE0cVZuNzVjdnBVLTc0NWpuS09rZUhGdUNmWjZ4NlXSAZ8BQVVfeXFMUE5scWRJeFlhYnFfNTRsaExPQ09KUVB0Y1MwdWp1OUtLSEJJNFJNUXl4NGdieExIREFZZGdqLTg1azlWNERYS3RpRVppeHhRX3pnS3dEQnVRQWlBX3ItVmk4VWVsOS1zcXA5ZWRzc0c2RTBrMVVtUXdnTjNJSXVHTTJhNHFWbjc1Y3ZwVS03NDVqbktPa2VIRnVDZlo2eDZV",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790493842.0
-    },
-    {
-        "id": "4b9282e78f",
-        "title_fa": "رد قاطع طرح ۷ روزه تهران درباره تنگه هرمز توسط ترامپ",
-        "title_en": "Iran says it still awaits formal US response to Hormuz proposal: Live",
-        "summary": [
-            "ادعای مقامات تهران برای دریافت پاسخ رسمی واشنگتن در حالی مطرح می‌شود که ترامپ علناً طرح پیشنهادی ۷ روزه ایران را رد کرده است.",
-            "تلاش‌های دیپلماتیک ج.م.ه.و.ر.ی ا.س.ل.ا.م.ی برای کاهش فشار در تنگه هرمز با بی‌اعتنایی کاخ سفید و تاکید بر عدم عقب‌نشینی روبرو شده است."
-        ],
-        "impact": "تداوم بن‌بست کامل دیپلماتیک و تشدید ریسک‌های امنیتی در خطوط انتقال انرژی خلیج فارس.",
-        "tag": "تنگه هرمز",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-gb/news/other/iran-says-it-still-awaits-formal-us-response-to-hormuz-proposal-live/ar-AA2cWpq9",
-        "clean_url": "https://www.msn.com/en-gb/news/other/iran-says-it-still-awaits-formal-us-response-to-hormuz-proposal-live/ar-AA2cWpq9",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2d0cKz.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1790492465.0
     }
 ]
