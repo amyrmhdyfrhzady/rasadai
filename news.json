@@ -1,5 +1,23 @@
 [
     {
+        "id": "710bd18404",
+        "title_fa": "روایت پشت پرده مهار حمله موشکی ج--وری اس--لامی به اسرائیل",
+        "title_en": "How Joe Biden averted a wider war with Iran: Explained in 10 points",
+        "summary": [
+            "مقام سابق آمریکایی فاش کرد دولت بایدن با کمک متحدان منطقه‌ای موفق شد حمله موشکی فروردین ۱۴۰۳ را دفع کند.",
+            "اقدام هماهنگ واشنگتن با تل‌آویو مانع از تبدیل شدن تنش‌ها به یک جنگ تمام‌عیار منطقه‌ای شد."
+        ],
+        "impact": "ثبیت بازدارندگی موقت و جلوگیری از جنگ مستقیم گسترده در خاورمیانه طی بحران سال گذشته.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/how-biden-averted-a-wider-war-with-iran-explained-in-10-points/articleshow/134570522.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/us/how-biden-averted-a-wider-war-with-iran-explained-in-10-points/articleshow/134570522.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134570940,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1790700960.0
+    },
+    {
         "id": "ef9487728b",
         "title_fa": "انتظار تهران برای پاسخ واشنگتن به طرح اتمی ۷ ماده‌ای",
         "title_en": "Iran awaits US response to 7-point nuclear proposal, says Araghchi",
@@ -5493,24 +5511,5 @@
         "clean_url": "https://apnews.com/video/heavy-rain-causes-floods-and-disruption-in-bangkok-and-border-province-of-thailand-682ef13179a04486999afb691ea7f525",
         "image": "http://www.bing.com/th?id=ONUT.KbcBSXK7RIXmPr3EaMhi3Q&pid=News",
         "timestamp": 1790480760.0
-    },
-    {
-        "id": "daf7380db3",
-        "title_fa": "بازی مرموز تهران و واشنگتن بر سر تنگه هرمز",
-        "title_en": "Iran Says Hormuz Deal Depends on Terms After Trump Says He Rejected Proposal",
-        "summary": [
-            "دونالد ترامپ پیشنهاد فوری جمهوری اسلامی برای بازگشایی تنگه هرمز و توقف درگیری‌ها را رد کرد.",
-            "عباس عراقچی مدعی شد شرایط تهران برای توافق پابرجاست و منتظر پاسخ میانجی‌گران قطری هستند.",
-            "دیپلماسی پشت پرده میان تهران و واشنگتن از طریق کانال‌های منطقه‌ای همچنان ادامه دارد."
-        ],
-        "impact": "رد این پیشنهاد از سوی آمریکا نشان می‌دهد فشار حداکثری پابرجا مانده و بحران تنگه هرمز بدون امتیازدهی اساسی حل نخواهد شد.",
-        "tag": "تنگه هرمز",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "Mezha",
-        "url": "https://mezha.net/eng/news/4773722e_iran_says_hormuz/",
-        "clean_url": "https://mezha.net/eng/news/4773722e_iran_says_hormuz",
-        "image": "https://mezha.net/eng/kd_image_generate/4773722e_iran_says_hormuz/3726372.jpg?ver=2.0.15",
-        "timestamp": 1790478180.0
     }
 ]
