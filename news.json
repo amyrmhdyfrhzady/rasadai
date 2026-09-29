@@ -312,6 +312,24 @@
         "timestamp": 1790614843.0
     },
     {
+        "id": "8b1066881d",
+        "title_fa": "برگزاری رویداد ملی طراحی داخلی در هندوستان",
+        "title_en": "Home & Decor Awards 2026: Celebrating Excellence in Home & Interior Design",
+        "summary": [
+            "تجلیل از برترین برندها و طراحان صنعت دکوراسیون منزل در هندوستان",
+            "معرفی راهکارهای نوین زندگی مدرن با حضور کارشناسان ارشد این حوزه"
+        ],
+        "impact": "تقویت بازار رقابتی و توسعه نوآوری در صنعت دکوراسیون داخلی هند",
+        "tag": "اقتصادی",
+        "urgency": 2,
+        "sentiment": 0.5,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/spotlight/home-decor-awards-2026-celebrating-excellence-in-home-interior-design/videoshow/134539327.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/spotlight/home-decor-awards-2026-celebrating-excellence-in-home-interior-design/videoshow/134539327.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134539327,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1790611080.0
+    },
+    {
         "id": "84b9231f55",
         "title_fa": "اتهام رسانه‌های سپاه به اصلاح‌طلبان برای همکاری با ترامپ",
         "title_en": "IRGC outlet accuses reformists of feeding Trump's pressure campaign",
@@ -5503,23 +5521,5 @@
         "clean_url": "https://www.iranintl.com/202609262625",
         "image": "http://www.bing.com/th?id=ONUT.IwS6JyH9a7uIkb0tHjdfvg&pid=News",
         "timestamp": 1790402940.0
-    },
-    {
-        "id": "66b355fffa",
-        "title_fa": "نمایش تنش‌آفرین ترامپ با انتشار نقشه تنگه ترامپ",
-        "title_en": "Trump posts map showing 'Trump Strait' off Iran, and other Mideast developments",
-        "summary": [
-            "دونالد ترامپ با انتشار نقشه‌ای تحت عنوان 'تنگه ترامپ' در نزدیکی آب‌های ایـران، موج جدیدی از جنگ روانی ایجاد کرد.",
-            "این اقدام در راستای رویکرد فشار حداکثری و تحریک اتمسفر سیاسی منطقه ارزیابی می‌شود."
-        ],
-        "impact": "بالارفتن سطح تنش‌های ژئوپلیتیک و جنگ روانی علیه جـمـهـوری اسـلامـی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Audacy",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUNnM1FNVmR5UzdjY1ZTbkhLM20wTktkQ08yRXlHdG5aNG5YZ0Q0cEZhYWYwcnllMnYtOVA1dTBaLXp0RkRwUnJFTVRwakR0OGNCbkp3WF92WmFxRjdVNDU5ZTh4V1I5YUdoeDlKVVNabXh6bXAxbXN6NWs0WU5peUwwaVNMVkRaYnNuNzQtNzVuOWJMMkROYjNQMlJLejJyZXE3cUM3Z3NVSFRzSjhRZXRCV0JwQTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUNnM1FNVmR5UzdjY1ZTbkhLM20wTktkQ08yRXlHdG5aNG5YZ0Q0cEZhYWYwcnllMnYtOVA1dTBaLXp0RkRwUnJFTVRwakR0OGNCbkp3WF92WmFxRjdVNDU5ZTh4V1I5YUdoeDlKVVNabXh6bXAxbXN6NWs0WU5peUwwaVNMVkRaYnNuNzQtNzVuOWJMMkROYjNQMlJLejJyZXE3cUM3Z3NVSFRzSjhRZXRCV0JwQTg",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790402640.0
     }
 ]
