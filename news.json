@@ -199,6 +199,24 @@
         "timestamp": 1790661600.0
     },
     {
+        "id": "a6f5f8ef7f",
+        "title_fa": "ترامپ: پایان بازی با جـ.ـمهوری اسـ.ـلامی نزدیک است",
+        "title_en": "Trump says the Iran endgame is here. It isn’t — without regime change",
+        "summary": [
+            "موضوع تغییر رژیم دوباره وارد بحث‌های راهبردی درباره ایران شده است.",
+            "ثبات پایدار منطقه بدون تغییر این حکومت ممکن نیست."
+        ],
+        "impact": "افزایش فشار سیاسی بر جـ.ـمهوری اسـ.ـلامی با بازگشت بحث براندازی به میز تصمیم‌سازان غربی",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-the-iran-endgame-is-here-it-isn-t-without-regime-change/ar-AA2dbcsU",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-the-iran-endgame-is-here-it-isn-t-without-regime-change/ar-AA2dbcsU",
+        "image": "http://www.bing.com/th?id=ONUT.oQ5U2J5IdZ7gibop4HR2GA&pid=News",
+        "timestamp": 1790654400.0
+    },
+    {
         "id": "24b0ca30f1",
         "title_fa": "اسرار جدید عملیات انفجار پیجرهای حزب‌الله فاش شد",
         "title_en": "Israel Reveals New Secrets Of Mossad's Explosive Hezbollah Pager Operation (Worthy News Investigation)",
@@ -216,6 +234,24 @@
         "clean_url": "https://www.worthynews.com/117829-israel-reveals-new-secrets-of-mossads-explosive-hezbollah-pager-operation-worthy-news-investigation",
         "image": "https://worthynews-1fe3e.kxcdn.com/wordpressimages/2021/08/mossad-israel-intelligence-agency-worthy-ministries-320x180.jpg",
         "timestamp": 1790654160.0
+    },
+    {
+        "id": "07deac9c54",
+        "title_fa": "هذیان‌گویی سپاه درباره مجتبی خامنه‌ای همزمان با سقوط ریال",
+        "title_en": "سپاه پاسداران به مردم آمریکا: شکست شما به این دلیل است که رهبری مجتبی خامنه‌ای را ندارید",
+        "summary": [
+            "سپاه در نامه‌ای به مردم آمریکا، مدعی پیروزی بر واشنگتن به واسطه رهبری مجتبی خامنه‌ای شد.",
+            "دلار در بازار آزاد از مرز ۲۴۱ هزار تومان عبور کرد و سکه امامی به ۲۴۹ میلیون تومان رسید."
+        ],
+        "impact": "شکسته‌شدن رکوردهای تورمی و سقوط آزاد ارزش ریال زیر سایه بحران‌های خودساخته",
+        "tag": "ارز",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609299830",
+        "clean_url": "https://www.iranintl.com/202609299830",
+        "image": "http://www.bing.com/th?id=ONUT.8a0G_cV0DVH9B6SYeUpwaw&pid=News",
+        "timestamp": 1790651700.0
     },
     {
         "id": "392943938e",
@@ -841,6 +877,24 @@
         "clean_url": "https://www.msn.com/en-us/news/news/iran-us-war-latest-trump-says-us-will-win-conflict-very-soon/ar-AA2d5k7I",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2d5uli.img?w=1200&h=800&m=4&q=81",
         "timestamp": 1790626157.0
+    },
+    {
+        "id": "cb9c06a721",
+        "title_fa": "پوتین از ریاست مجدد ولودین بر دوما حمایت کرد",
+        "title_en": "Putin supports Volodin's nomination for next Duma's speaker",
+        "summary": [
+            "ولادیمیر پوتین نامزدی ویچسلاو ولودین را برای ریاست دوره بعدی مجلس روسیه تایید کرد.",
+            "پوتین عملکرد دوره گذشته دوما را سازنده و منظم ارزیابی کرد."
+        ],
+        "impact": "تثبیت وفاداران کرملین در ساختار قدرت مسکو",
+        "tag": "بین‌الملل",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2194215",
+        "clean_url": "https://tass.com/politics/2194215",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260928/1488173.jpg",
+        "timestamp": 1790625960.0
     },
     {
         "id": "dd1bf30ae1",
@@ -5459,60 +5513,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeERXT2lUdlNjVkx4OHlMaU10bU9tOUpYbmJlMmtUcnNBbzZqSEl0RUVYZkFMaDZDQ2l3M2VGR294dXhzWWtiNkJGYWRxZUFaUFVfdGpfbGJrdHllMm9oWXRDMHdLWGtmc0ZDWlhaaHE4U2ozcTNESnZWQ3pMeGNRREZOX2o0N21ndlhLODAwRU5MR2JsNlJoaUpKNkNHUzdD0gGmAUFVX3lxTFBrcnFDVTNGRjg3X1NDUzRqMjZiV1NacXR4alFCdlVldU5EVktiQVhtSm0tMTlOQV8tQ0lSYjFiaFFfbnRlam1FOE9vcExLeVppbF84N0ZZdkJFVk00NWpKSERIeGJCMldNQVoxckVzRVJueG9ybE9zWjJ0N2RyaGs3YWU1QjhYcG5QZ3lJRVdESmk5U3AwZC1IOHc0ZnFGQ1o1WS1vTVE",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790453365.0
-    },
-    {
-        "id": "958c11025a",
-        "title_fa": "خط و نشان ترامپ برای تنگه هرمز",
-        "title_en": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-        "summary": [
-            "ترامپ برنامه حکومت برای بازگشایی تنگه هرمز را رد کرد و آن را غیرقابل قبول خواند.",
-            "واشنگتن هرگونه تلاش برای ایجاد اختلال در آبراه حیاتی انرژی را با پاسخ محکم مواجه خواهد کرد."
-        ],
-        "impact": "افزایش ریسک امنیتی در خلیج فارس و جهش احتمالی قیمت نفت در بازارهای جهانی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFFIUk9GUUctYjB3UzR4VmZGTTU0S2VKSm5paEYtbHNZSFAtSXl6TlgwRWxfREkyOXpkbTNTd0lyeTdfTW5kMlhnQmVhWUo0YnZydlRCVGFrVlZVellxTFlidFFTS2FiS3piUW8yVFlmVjVuN2FuWWR4bjB2ZDltWVpJTmFuVURhNXdaXzZHMDY2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFFIUk9GUUctYjB3UzR4VmZGTTU0S2VKSm5paEYtbHNZSFAtSXl6TlgwRWxfREkyOXpkbTNTd0lyeTdfTW5kMlhnQmVhWUo0YnZydlRCVGFrVlZVellxTFlidFFTS2FiS3piUW8yVFlmVjVuN2FuWWR4bjB2ZDltWVpJTmFuVURhNXdaXzZHMDY2QQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790453308.0
-    },
-    {
-        "id": "c8ada7789e",
-        "title_fa": "فشار تورمی تنش با ایران بر رقابت‌های انتخاباتی آمریکا",
-        "title_en": "Senate Republicans target rising costs as Iran war weighs on midterms",
-        "summary": [
-            "سناتورهای جمهوری‌خواه برای مهار خشم رای‌دهندگان از جهش هزینه‌های انرژی، تعطیلات خود را لغو کرده و به واشنگتن بازگشتند.",
-            "تبعات اقتصادی رویارویی با ایران و افزایش بهای برق و انرژی، موقعیت نامزدهای هم‌پیمان ترامپ را در ایالت‌های کلیدی به خطر انداخته است.",
-            "دموکرات‌ها موج گرانی‌های ناشی از تنش منطقه‌ای را به اهرم اصلی حمله علیه جمهوری‌خواهان در آستانه انتخابات تبدیل کرده‌اند."
-        ],
-        "impact": "افزایش فشارهای سیاسی داخلی در واشنگتن برای مهار سریع‌تر بحران‌های منطقه‌ای و کنترل تورم انرژی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609272228",
-        "clean_url": "https://www.iranintl.com/en/202609272228",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790452380.0
-    },
-    {
-        "id": "43bfcc6e2d",
-        "title_fa": "هو شدن دونالد ترامپ در مسابقه فوتبال دانشگاهی",
-        "title_en": "Trump, 80, gets loudly booed at college football game",
-        "summary": [
-            "رئیس‌جمهور پیشین آمریکا در ایالت تنسی با واکنش منفی و هو کردن تماشاگران مواجه شد.",
-            "این رویداد نشان‌دهنده چالش‌های جدی محبوبیت عمومی چهره‌های سیاسی سنتی در میان جوانان است."
-        ],
-        "impact": "تضعیف روحیه کمپین انتخاباتی و نمایان شدن نارضایتی‌های عمومی در پایگاه‌های سنتی رای.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Daily Beast on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-80-gets-loudly-booed-at-college-football-game/ar-AA2d2FCr",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-80-gets-loudly-booed-at-college-football-game/ar-AA2d2FCr",
-        "image": "http://www.bing.com/th?id=ONUT.cW8LeuxjT3iv-GJ-c1D-9A&pid=News",
-        "timestamp": 1790452221.0
     }
 ]
