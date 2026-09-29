@@ -307,6 +307,25 @@
         "timestamp": 1790670600.0
     },
     {
+        "id": "d440ddf767",
+        "title_fa": "جلسه اضطراری نتانیاهو همزمان با انزوای علی خامنه‌ای",
+        "title_en": "آی‌۲۴نیوز: نتانیاهو شامگاه سه‌شنبه جلسه ارزیابی وضعیت امنیتی برگزار می‌کند",
+        "summary": [
+            "نخست‌وزیر اسرائیل نشست فوری امنیتی برای بررسی تهدیدات احتمالی برگزار کرد.",
+            "غیبت طولانی و مرموز رهبر جـمهوری اسـلامی از انظار عمومی وارد فاز جدیدی شده است.",
+            "ادعاهای توخالی درباره قدرت جهانی در حالی مطرح می شود که مقامات توان پنهان کردن بحران داخلی را ندارند."
+        ],
+        "impact": "بالارفتن سطح آماده‌باش نظامی در مرزهای اسرائیل و تشدید بحران مشروعیت در تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609294998",
+        "clean_url": "https://www.iranintl.com/202609294998",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790669820.0
+    },
+    {
         "id": "a55b39033a",
         "title_fa": "مذاکرات غیرمستقیم تهران و واشنگتن با میانجی‌گری قطر در نیویورک",
         "title_en": "US-Iran talks in New York: What’s the latest?",
@@ -342,6 +361,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jTGhiRkNHZHBqcXNqVzVTQ1k2NS1Cd05VM2xLTG5PN0g0cjJLaG9OSUtOY3lwT3VmbUQ5SHhQektYZ2MyZGJZSHN0dzBFWkk0RGpSZDRZV2czZHJZ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790668353.0
+    },
+    {
+        "id": "b3a665455a",
+        "title_fa": "خط و نشان ترامپ برای تهران و سقوط قیمت نفت",
+        "title_en": "ترامپ درباره ایران: این وضعیت خیلی خیلی زود پایان می‌یابد",
+        "summary": [
+            "ترامپ بار دیگر تاکید کرد که جـمهوری اسـلامی هرگز به سلاح اتمی دست پیدا نخواهد کرد.",
+            "فشار حداکثری واشینگتن با هدف فروپاشی اقتصادی و کاهش شدید قیمت نفت دنبال می شود.",
+            "رئیس‌جمهور آمریکا وضعیت کنونی تهران را یک شکست تمام‌عیار و روبه‌پایان توصیف کرد."
+        ],
+        "impact": "تشدید فشار اقتصادی و ارزی بر جـمهوری اسـلامی با محوریت مهار فروش نفت.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609290864",
+        "clean_url": "https://www.iranintl.com/202609290864",
+        "image": "http://www.bing.com/th?id=ONUT.t85qS33Cu7ieWCYvCZRQNw&pid=News",
+        "timestamp": 1790668320.0
     },
     {
         "id": "7b27d8219e",
@@ -5472,42 +5510,5 @@
         "clean_url": "https://www.nj.com/politics/2026/09/christie-booker-sherrill-kim-in-28-its-possible-mikies-world.html",
         "image": "http://www.bing.com/th?id=ONUT.Bbmu0NPNlrmJUFbWQUa6Ug&pid=News",
         "timestamp": 1790474460.0
-    },
-    {
-        "id": "339a20ed4b",
-        "title_fa": "تحقیقات ضدتروریسم پیرامون پایگاه هوایی ارتش آمریکا",
-        "title_en": "Counter-terror police lead investigation into major incident near RAF base, officials say",
-        "summary": [
-            "حضور بمب‌افکن‌های ب-یک آمریکا در پایگاه نظامی فارفورد پس از حملات اخیر به ایران، توجه رسانه‌ها و نیروهای امنیتی را جلب کرده است.",
-            "ضعف در حصارهای امنیتی پیرامون پایگاه، دسترسی عمومی و تجمع مردم را به راحتی فراهم کرده بود که اکنون زنگ خطر را به صدا درآورده است."
-        ],
-        "impact": "تشدید استانداردهای حفاظتی و امنیتی پیرامون تاسیسات استراتژیک نظامی آمریکا در خاک اروپا.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/c65y7nl29k0et",
-        "clean_url": "https://www.bbc.com/news/live/c65y7nl29k0et",
-        "image": "http://www.bing.com/th?id=ONUT.7q17bSGzpKqK790TdRdWAg&pid=News",
-        "timestamp": 1790473860.0
-    },
-    {
-        "id": "c8ad36b378",
-        "title_fa": "تلاش ته‌رآن برای دور زدن تحریم‌ها از مسیر خزر",
-        "title_en": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
-        "summary": [
-            "بسته شدن آبراه حیاتی جنوب توسط نیروی دریایی آمریکا، حکومت را ناچار به فعال‌سازی کریدورهای شمالی کرده است.",
-            "موضع سخت دونالد ترامپ و رد پیشنهاد باز کردن تنگه هرمز، بن‌بست دیپلماتیک را کامل کرده است.",
-            "مشکلات لجستیکی و افت سطح آب دریای خزر، کارایی این مسیر جایگزین را به شدت محدود می‌کند."
-        ],
-        "impact": "ناتوانی در صادرات نفت از جنوب، اقتصاد نیمه‌جان حکومت را بیش از پیش به سمت فروپاشی هل می‌دهد.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-shift-trade-north-caspian-084932427.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-shift-trade-north-caspian-084932427.html",
-        "image": "http://www.bing.com/th?id=ONUT.UQHMmgYR6Oh-fiQshPOgjw&pid=News",
-        "timestamp": 1790473800.0
     }
 ]
