@@ -622,6 +622,24 @@
         "timestamp": 1790667600.0
     },
     {
+        "id": "4a8143a56b",
+        "title_fa": "اصلاحات جنجالی نظام رفاهی در دستور کار دولت انگلیس",
+        "title_en": "European Union",
+        "summary": [
+            "وزیر کار و امور pensions دولت کارگری انگلیس صراحتاً اعلام کرد که وضعیت موجود سیستم مزایای اجتماعی قابل دفاع نیست.",
+            "هدف این طرح، خارج کردن افراد از چرخه وابستگی به کمک‌های دولتی و ورود آن‌ها به بازار کار است."
+        ],
+        "impact": "تغییر سیاست‌های حمایتی دولت انگلیس می‌تواند میلیون‌ها دریافت‌کننده مزایا را وادار به جستجوی کار کند.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/eu",
+        "clean_url": "https://www.theguardian.com/world/eu",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=world",
+        "timestamp": 1790665620.0
+    },
+    {
         "id": "0d103e18bf",
         "title_fa": "پاسخ رد واشنگتن به پیشنهاد توافق تـهران",
         "title_en": "Trump dumps Iran peace offer because 'they overplayed their hand'",
@@ -5493,23 +5511,5 @@
         "clean_url": "https://www.iranintl.com/202609279320",
         "image": "http://www.bing.com/th?id=ONUT.bYVI63SrufH9SdVlwjrZBw&pid=News",
         "timestamp": 1790488740.0
-    },
-    {
-        "id": "5db795fb17",
-        "title_fa": "اهمیت استراتژیک گرینلند برای مهره‌چینی نظامی ایالات متحده",
-        "title_en": "Trump's Greenland obsession isn’t random. Here’s what’s at stake",
-        "summary": [
-            "جزیره گرینلند به دلیل ذخایر معدنی کمیاب و موقعیت ژئوپلیتیک حیاتی، کانون توجه ایالات متحده شده است.",
-            "توافق امنیتی جدید واشنگتن با دانمارک، حضور نظامی آمریکا در شمالگان را به شدت گسترش می‌دهد."
-        ],
-        "impact": "تقویت حضور نظامی آمریکا در مسیرهای حیاتی کشتیرانی و انرژی جهان",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake",
-        "clean_url": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake",
-        "image": "http://www.bing.com/th?id=ONUT.H-njEcwqDapQTsJncfEAtA&pid=News",
-        "timestamp": 1790488500.0
     }
 ]
