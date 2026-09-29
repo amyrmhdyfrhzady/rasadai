@@ -1,5 +1,23 @@
 [
     {
+        "id": "2eb84a9eb7",
+        "title_fa": "پیمان ابراهیم علیه ت ج ر ی د ی ا ت ر ژ ی م",
+        "title_en": "One meeting, many messages: The significance of Netanyahu's visit to UAE, and what it means for India",
+        "summary": [
+            "بنیامین نتانیاهو و رئیس امارات در دیداری علنی، بر ائتلاف راهبردی دو طرف در برابر فشارهای منطقه‌ای جمهوری اسلامی و گروه‌های نیابتی تاکید کردند.",
+            "گسترش این همکاری‌ها نشان‌دهنده تغییر موازنه قدرت در خاورمیانه و شکل‌گیری بلوک جدید امنیتی است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره امنیتی و دیپلماتیک جمهوری اسلامی در منطقه با تحکیم ائتلاف تل‌آویو و ابوظبی.",
+        "tag": "منطقه‌ای",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/one-meeting-many-messages-the-significance-of-netanyahu-visit-to-uae-and-what-it-means-for-india-ht-point-blank-101790687524035.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/one-meeting-many-messages-the-significance-of-netanyahu-visit-to-uae-and-what-it-means-for-india-ht-point-blank-101790687524035.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/netanyahu_uae_visit_1790688134329_w3Rx_1790688146151_lu8P_04f917e9-1ef2-4598-b457-c29b626d0383_YjCK.jpg",
+        "timestamp": 1790688060.0
+    },
+    {
         "id": "13ecda2e9c",
         "title_fa": "نامه سرگشاده سپاه به رأی‌دهندگان آمریکایی",
         "title_en": "Iran's Revolutionary Guards woo US voters with open letter",
@@ -5495,24 +5513,5 @@
         "clean_url": "https://www.yahoo.com/news/us/articles/march-data-centres-061500507.html",
         "image": "http://www.bing.com/th?id=ONUT.fIDoaL8QHY1Tr3zALhH8jg&pid=News",
         "timestamp": 1790464500.0
-    },
-    {
-        "id": "3917932707",
-        "title_fa": "انتظار تهران برای پاسخ رسمی واشینگتن پس از رد مواضعش توسط ترامپ",
-        "title_en": "Live - Iran says awaiting formal US answer after Trump rejection",
-        "summary": [
-            "رد سریع پیام‌های غیررسمی تهران توسط دونالد ترامپ، دستگاه دیپلماسی ج.ا را در موقعیت انفعالی قرار داده است.",
-            "تأکید بر منتظر ماندن برای پاسخ رسمی، تلاشی است از سوی تهران برای خرید زمان و مهار شوک اولیه به بازارها.",
-            "موضع قاطع کاخ سفید نشان می‌دهد واشینگتن قصد بازگشت به میز مذاکره با فرمول‌های قبلی را ندارد و مسیر فشار حداکثری را دنبال می‌کند."
-        ],
-        "impact": "تداوم بلاتکلیفی سیاسی و تشدید انتظارات منفی در بازارهای مالی و ارزی کشور.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00SFhOZE1Ianp1LU5DX1dHamFfQ3k3dFptZGNNdHFSSkRvT29nQ0IzMm4zYllYWW5yUm5ES05KM2otN19XMERhZ0l0d1FyR3VyM2QxWE01WDhYWEdEX2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00SFhOZE1Ianp1LU5DX1dHamFfQ3k3dFptZGNNdHFSSkRvT29nQ0IzMm4zYllYWW5yUm5ES05KM2otN19XMERhZ0l0d1FyR3VyM2QxWE01WDhYWEdEX2c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790463354.0
     }
 ]
