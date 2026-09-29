@@ -18,6 +18,42 @@
         "timestamp": 1790676000.0
     },
     {
+        "id": "f68d8bc735",
+        "title_fa": "بن‌بست راهبردی تهران میان بازی دیپلماتیک و تهدید نظامی",
+        "title_en": "حسین آقایی: جمهوری اسلامی در تنگنای راهبردی شدید قرار دارد",
+        "summary": [
+            "حاکمیت تحت فشار سنگین اقتصادی و محاصره دریایی برای بقا دست‌وپا می‌زند.",
+            "دیپلماسی در نیویورک صرفاً ابزاری برای خرید زمان در برابر فشارهای فزاینده است."
+        ],
+        "impact": "افزایش ریسک درگیری در آب‌های منطقه‌ای به دلیل تقابل ناشی از استیصال.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609293177",
+        "clean_url": "https://www.iranintl.com/202609293177",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790673120.0
+    },
+    {
+        "id": "73ec6f08ae",
+        "title_fa": "سقوط آزاد اقتصاد ج.ا؛ شُک ارزی پایدار شد",
+        "title_en": "بورگان نظامی: اقتصاد ایران وارد دوران سقوط شده است",
+        "summary": [
+            "جهش ۱۸ درصدی نرخ ارز در سه ماه گذشته بحران ارزی را وارد مرحله جدیدی کرده است.",
+            "محدود شدن کانال‌های درآمدی، اقتصاد را در آستانه فروپاشی ساختاری قرار داده است."
+        ],
+        "impact": "تشدید بحران ارزی و نابودی کامل قدرت خرید عمومی در بازار.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609291665",
+        "clean_url": "https://www.iranintl.com/202609291665",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790672820.0
+    },
+    {
         "id": "be50436946",
         "title_fa": "واکنش سپاه به ترامپ: شکست آمریکا را بپذیرید",
         "title_en": "IRGC: Donald Trump is 'big liar,' US must admit failure in war against Iran",
@@ -5479,42 +5515,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/hurricane-nolo-expected-to-unleash-powerful-winds-flash-flooding-on-hawaii/ar-AA2d1K3t",
         "image": "http://www.bing.com/th?id=ONUT.jR3-0MvgOhXZACz8m4kaPg&pid=News",
         "timestamp": 1790444355.0
-    },
-    {
-        "id": "2c127f9df6",
-        "title_fa": "پیامدهای منفی طرح ترامپ برای ممنوعیت صادرات گازوئیل",
-        "title_en": "Opinion: Why the proposed diesel ban could backfire on American drivers",
-        "summary": [
-            "دولت ترامپ قصد دارد با ممنوعیت صادرات گازوئیل، قیمت سوخت را در داخل آمریکا کاهش دهد.",
-            "کارشناسان انرژی هشدار می‌دهند سرکوب دستوری قیمت، پالایشگاه‌ها را وادار به کاهش تولید و تعدیل نیرو می‌کند.",
-            "برهم خوردن سازوکار بازار آزاد در میان‌مدت به کمبود سوخت و جهش شدیدتر قیمت‌ها منجر خواهد شد."
-        ],
-        "impact": "شوک قیمتی در بازار جهانی فرآورده‌های نفتی و کاهش حاشیه سود پالایشگاه‌ها.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Deseret News",
-        "url": "https://www.deseret.com/opinion/2026/09/27/diesel-ban-could-backfire/",
-        "clean_url": "https://www.deseret.com/opinion/2026/09/27/diesel-ban-could-backfire",
-        "image": "http://www.bing.com/th?id=ONUT.ViE3yByXdXUBSPy5jUeIMw&pid=News",
-        "timestamp": 1790442000.0
-    },
-    {
-        "id": "67b98ecc8a",
-        "title_fa": "فشار اشلی هینسون به مجلس نمایندگان برای رای‌گیری درباره هزینه‌ها",
-        "title_en": "Hinson Lobbying Speaker To Bring House Back To Vote On Affordability Measures",
-        "summary": [
-            "اشلی هینسون، نامزد سنای آمریکا، دولت واشنگتن را مسئول گرانی‌ها و فشارهای مالی بر مردم دانسته است.",
-            "او طرح‌ها و ایده‌هایی را برای کاهش هزینه‌های زندگی شهروندان ارائه کرده است."
-        ],
-        "impact": "تشدید رقابت‌های سیاسی در آستانه انتخابات و تمرکز بر نارضایتی‌های اقتصادی شهروندان.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "KIWA Radio",
-        "url": "https://kiwaradio.com/news/hinson-lobbying-speaker-to-bring-house-back-to-vote-on-affordability-measures/",
-        "clean_url": "https://kiwaradio.com/news/hinson-lobbying-speaker-to-bring-house-back-to-vote-on-affordability-measures",
-        "image": "http://www.bing.com/th?id=ONUT.4HYzaxtu6K-uh2TltWofrA&pid=News",
-        "timestamp": 1790442000.0
     }
 ]
