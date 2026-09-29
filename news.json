@@ -402,6 +402,24 @@
         "timestamp": 1790646120.0
     },
     {
+        "id": "e691489605",
+        "title_fa": "هشدار نتانیاهو درباره احتمال حمله به اسرائیل",
+        "title_en": "Live Updates: Netanyahu warns of possible attack during election, IDF kills Hamas official in Gaza strike",
+        "summary": [
+            "نخست‌وزیر اسرائیل در پایگاه هوایی تل نوف هشدار داد که دشمنان این کشور ممکن است در آستانه انتخابات دست به تحرک نظامی بزنند.",
+            "تل‌آویو با ارسال پیامی صریح اعلام کرد بازوی نظارتی و نظامی اسرائیل در هر زمان و مکانی به تهدیدات پاسخ خواهد داد."
+        ],
+        "impact": "آماده‌باش حداکثری ارتش اسرائیل در برابر تحرکات احتمالی محور مقاومت همزمان با شرایط انتخاباتی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-29/live-updates-910030",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-29/live-updates-910030",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/739748",
+        "timestamp": 1790644860.0
+    },
+    {
         "id": "8311f95c7d",
         "title_fa": "آغاز موج جدید حملات مستقیم و مشترک به اهداف نظامی",
         "title_en": "Live Updates: War returns to Iran with Israel, US strikes",
@@ -5495,23 +5513,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-president-offers-uranium-dilution-while-rejecting-a-nuclear-retreat/ar-AA2d2wXw",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2d2cAa.img?w=1731&h=909&m=4&q=91",
         "timestamp": 1790462133.0
-    },
-    {
-        "id": "ca56805efb",
-        "title_fa": "افزایش نگرانی احزاب راست افراطی اروپا از افراط‌گری حزب AfD آلمان",
-        "title_en": "Germany’s AfD is so extreme it’s putting off other far-right parties",
-        "summary": [
-            "رشد و قدرت‌گیری حزب جایگزینی برای آلمان موجی از نگرانی را در میان جریان‌های مشابه در اروپا ایجاد کرده است.",
-            "مواضع افراطی این حزب حتی شرکای سنتی آن در دیگر کشورهای اروپایی را هم پس زده است."
-        ],
-        "impact": "ایجاد شکاف و انزوای سیاسی بیشتر برای جریان‌های تندرو در سپهر سیاسی اروپا.",
-        "tag": "بین‌الملل",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/germany-s-afd-is-so-extreme-it-s-putting-off-other-far-right-parties/ar-AA2d32aZ",
-        "clean_url": "https://www.msn.com/en-us/news/other/germany-s-afd-is-so-extreme-it-s-putting-off-other-far-right-parties/ar-AA2d32aZ",
-        "image": "http://www.bing.com/th?id=ONUT.HVsgXduJ1tshRALoxURgNg&pid=News",
-        "timestamp": 1790461121.0
     }
 ]
