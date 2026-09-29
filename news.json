@@ -1,5 +1,23 @@
 [
     {
+        "id": "ad5bc64fba",
+        "title_fa": "دور زدن تحریم‌ها از طریق مسیرهای تجاری جدید",
+        "title_en": "New trade routes help Iran evade sanctions",
+        "summary": [
+            "مسیرهای تجاری تازه به ج.هـ.ا کمک کرده تا تحریم‌های مالی را بی‌اثر کند.",
+            "شبکه نهادهای موازی در حال باز کردن راه‌های تنفسی جدید برای اقتصاد نفتی هستند."
+        ],
+        "impact": "کاهش کارایی فشارهای اقتصادی و تداوم فروش نفت.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "GIS Reports",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5maEo5VHhkSUZ0OEk0TzZzMTRuSnhlX0psLTQyMUxrRmpkVzZCd1pkWWVSTHE2WTRfNWJYTmVoTzRDb0VjUFEyTG80Zk9VSGhrLTBmRUwzM255NEstMU1YTUJZUHNwcmZ1US1GOW5tTkM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5maEo5VHhkSUZ0OEk0TzZzMTRuSnhlX0psLTQyMUxrRmpkVzZCd1pkWWVSTHE2WTRfNWJYTmVoTzRDb0VjUFEyTG80Zk9VSGhrLTBmRUwzM255NEstMU1YTUJZUHNwcmZ1US1GOW5tTkM",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790661600.0
+    },
+    {
         "id": "392943938e",
         "title_fa": "فلج شدن ناوگان هوایی؛ تحریم ایرلاین‌ها و انزوای بیشتر ایران",
         "title_en": "Iranians increasingly isolated after US sanctions on the country’s airlines",
@@ -5499,24 +5517,6 @@
         "url": "https://www.upi.com/Top_News/US/2026/09/26/noreaster-floods-outages/2311790452148/",
         "clean_url": "https://www.upi.com/Top_News/US/2026/09/26/noreaster-floods-outages/2311790452148",
         "image": "http://www.bing.com/th?id=ONUT.9uTvJNXuk9NPF7q9NGV8RA&pid=News",
-        "timestamp": 1790427360.0
-    },
-    {
-        "id": "53abf5b655",
-        "title_fa": "تهدید کشورهای منطقه توسط مقام ارشد مجلس",
-        "title_en": "Iran MP warns US allies they could become military targets",
-        "summary": [
-            "حمیدرضا حاجی‌بابایی، نایب رئیس مجلس، به کشورهای منطقه هشدار داد که همکاری با ایالات متحده به معنای تبدیل شدن به هدف نظامی است.",
-            "او با اشاره به اقدامات دونالد ترامپ، خواستار استفاده از تمامی ابزارها برای دور زدن فشارهای دریایی شد."
-        ],
-        "impact": "افزایش تنش‌های منطقه‌ای و تلاش حکومت برای بازداشتن همسایگان از همراهی با فشارهای واشنگتن.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609260899",
-        "clean_url": "https://www.iranintl.com/en/202609260899",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790427360.0
     }
 ]
