@@ -1,5 +1,23 @@
 [
     {
+        "id": "471212b7c1",
+        "title_fa": "سقوط آزاد ریال و فرافکنی سپاه درباره اتم",
+        "title_en": "Iran rial hits record low, IRGC's Mohebbi accuses US of targeting nuclear programme",
+        "summary": [
+            "نرخ دلار در بازار آزاد ایران از مرز ۲.۵ میلیون ریال گذشت تا بحران معیشتی رکورد جدیدی ثبت کند.",
+            "حسین محبی از فرماندهان سـپـاه بدون اشاره به سوءمدیریت داخلی، ایالات متحده را به استفاده ابزاری از پرونده هسته‌ای متهم کرد."
+        ],
+        "impact": "فروپاشی بیشتر قدرت خرید مردم و تشدید فشار اقتصادی روی دوش جامعه.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "India TV News",
+        "url": "https://www.indiatvnews.com/news/world/iran-rial-hits-record-low-irgc-s-mohebbi-accuses-us-of-targeting-nuclear-programme-2026-09-29-1055644",
+        "clean_url": "https://www.indiatvnews.com/news/world/iran-rial-hits-record-low-irgc-s-mohebbi-accuses-us-of-targeting-nuclear-programme-2026-09-29-1055644",
+        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/iran-rial-hits-record-low-irgc-s-mohebbi-accuses-us-of-targeting-nuclear-programme-1790688309.jpg",
+        "timestamp": 1790688480.0
+    },
+    {
         "id": "2eb84a9eb7",
         "title_fa": "پیمان ابراهیم علیه ت ج ر ی د ی ا ت ر ژ ی م",
         "title_en": "One meeting, many messages: The significance of Netanyahu's visit to UAE, and what it means for India",
@@ -5494,24 +5512,5 @@
         "clean_url": "https://www.bbc.com/news/live/cj4zwkp2p1kt",
         "image": "http://www.bing.com/th?id=ONUT.V6TldjYkF6FZEXg25CP-Lg&pid=News",
         "timestamp": 1790465220.0
-    },
-    {
-        "id": "7333fb3ef6",
-        "title_fa": "موج مخالفت عمومی با ساخت مراکز داده هوش مصنوعی",
-        "title_en": "The march of the data centres",
-        "summary": [
-            "شرکت‌های بزرگ فناوری در حال سرمایه‌گذاری چند تریلیون دلاری برای توسعه زیرساخت‌های پردازشی هوش مصنوعی تا سال ۲۰۳۰ هستند.",
-            "نظرسنجی‌های تازه نشان می‌دهد ۷۰ درصد شهروندان آمریکایی به دلیل مصرف سنگین برق و زمین، با استقرار این مراکز در نزدیکی محل سکونت خود مخالفند.",
-            "موج مخالفت‌های محلی در بریتانیا و آمریکا فراتر از حساسیت‌ها نسبت به نیروگاه‌های هسته‌ای رفته است."
-        ],
-        "impact": "احتمال ایجاد موانع قانونی و نظارتی جدی بر سر راه توسعه سریع زیرساخت‌های هوش مصنوعی.",
-        "tag": "فناوری",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/march-data-centres-061500507.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/march-data-centres-061500507.html",
-        "image": "http://www.bing.com/th?id=ONUT.fIDoaL8QHY1Tr3zALhH8jg&pid=News",
-        "timestamp": 1790464500.0
     }
 ]
