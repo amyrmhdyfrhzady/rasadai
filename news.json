@@ -386,6 +386,25 @@
         "timestamp": 1790614843.0
     },
     {
+        "id": "e92da78ce1",
+        "title_fa": "هشدار روبیو درباره خطر هسته‌ای شدن جـ.ـهـ.ـوری ا‌سـ.ـلا‌مـ.ـی و کنترل تنگه‌ها",
+        "title_en": "روبیو: اگر ایران سلاح هسته‌ای در اختیار داشت نمی‌شد کاری در مورد تنگه‌ها انجام داد",
+        "summary": [
+            "وزیر خارجه آمریکا تاکید کرد اگر ایران بمب اتم داشت، کنترل کامل تنگه‌های راهبردی جهان را در دست می‌گرفت.",
+            "هدف تهران ایجاد سپر اتمی برای باج‌گیری از منطقه و غرب بود.",
+            "ترامپ اجازه نداد حکومت ایران از خط قرمز عبور کند و به کره شمالی خاورمیانه تبدیل شود."
+        ],
+        "impact": "تضمین عزم آمریکا برای مهار کامل برنامه‌های اتمی و بستن دست‌اندازی‌های منطقه‌ای حکومت.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609290276",
+        "clean_url": "https://www.iranintl.com/202609290276",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790614740.0
+    },
+    {
         "id": "5e480a4537",
         "title_fa": "افشای تقابل امنیتی در تل‌آویو؛ شکایت رئیس پیشین شین‌بت از نتانیاهو",
         "title_en": "رییس پیشین شین‌بت اسرائیل از نتانیاهو شکایت می‌کند",
@@ -5499,24 +5518,5 @@
         "clean_url": "https://www.newyorker.com/news/the-lede/irans-bitterness-and-bewilderment-over-how-to-make-peace-with-trump",
         "image": "http://www.bing.com/th?id=ONUT.Q_GOw2DZgx034RCpFxoJnw&pid=News",
         "timestamp": 1790408760.0
-    },
-    {
-        "id": "0a393a2c2e",
-        "title_fa": "کمبود شدید دارو در ایران تحت فشار تحریم‌های آمریکا",
-        "title_en": "Medicines run short in Iran under US sanctions",
-        "summary": [
-            "مسدود ماندن کانال‌های مالی و ترجیح بانک‌های بین‌المللی برای عدم معامله با ایران، تامین داروهای حیاتی را با مشکل جدی مواجه کرده است.",
-            "روی کاغذ داروها از تحریم معاف هستند، اما در عمل به دلیل محدودیت‌های شدید بانکی، زنجیره تامین داروی بیماران خاص قطع شده است.",
-            "سوءمدیریت داخلی در تخصیص ارز و فساد در شبکه توزیع، بحران ناشی از تحریم‌ها را برای مردم عمیق‌تر کرده است."
-        ],
-        "impact": "جهش قیمت دارو در بازار آزاد و فشار سنگین بر سلامت و معیشت خانوارهای ایرانی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVFNTFBJUHdURzJvRWtWdUtlNFR4Ym43VzZTOFJIM3V5Y0oyYm1OSC1TWGYyN01BR3hWdnhDbkxMMWNlVlU5V2xBV0VrMVVnNUwxQ2o1bjRybEVfQXhKM19OdVJaeUZmTm1HWWhOOGtwUmxXcTB4UWtXQTNKdkp0WVJ4V1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVFNTFBJUHdURzJvRWtWdUtlNFR4Ym43VzZTOFJIM3V5Y0oyYm1OSC1TWGYyN01BR3hWdnhDbkxMMWNlVlU5V2xBV0VrMVVnNUwxQ2o1bjRybEVfQXhKM19OdVJaeUZmTm1HWWhOOGtwUmxXcTB4UWtXQTNKdkp0WVJ4V1k",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790408435.0
     }
 ]
