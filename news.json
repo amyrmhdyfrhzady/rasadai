@@ -75,6 +75,25 @@
         "timestamp": 1790643698.0
     },
     {
+        "id": "c9cd88a3e3",
+        "title_fa": "انفجار مهیب ارتش اسرائیل در جنوب لبنان",
+        "title_en": "Lebanon Says Israeli Army Set off Large Explosion in South",
+        "summary": [
+            "ارتش اسرائیل از پایان عملیات خود در روستای المنصوری در جنوب لبنان و تخریب زیرساخت‌های منسوب به گروه های مسلح خبر داد.",
+            "رسانه‌های دولتی لبنان از شنیده شدن صدای مهیب انفجار در شهر صور و روستاهای اطراف خبر دادند.",
+            "مقام‌های لبنانی، اسرائیل را به تخریب سیستماتیک روستاها، منازل مسکونی و تاسیسات زیربنایی در مناطق جنوبی متهم می‌کنند."
+        ],
+        "impact": "تداوم تنش‌های نظامی و تخریب گسترده زیرساخت‌ها در مناطق مرزی جنوب لبنان",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5323707-lebanon-says-israeli-army-set-large-explosion-south",
+        "clean_url": "https://english.aawsat.com/arab-world/5323707-lebanon-says-israeli-army-set-large-explosion-south",
+        "image": "https://static.srpcdigital.com/styles/1037xauto/public/2026-09/1800204.jpeg.webp?VersionId=W0waLFnwIU2pwsBTqc63c3lR5hVUtB02",
+        "timestamp": 1790639940.0
+    },
+    {
         "id": "e4b3981236",
         "title_fa": "ت تلفات سنگین نیابتی‌های یمن در درگیری‌های اخیر",
         "title_en": "2,300 Houthis Killed and Wounded Across Eight Fronts in Three Days",
@@ -5499,23 +5518,5 @@
         "clean_url": "https://www.iranintl.com/en/202609260899",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790427360.0
-    },
-    {
-        "id": "754ff89079",
-        "title_fa": "اسکورت علنی نفتکش‌ها توسط ارتش آمریکا در تنگه هرمز",
-        "title_en": "Trump stonewalls Iran as US helps double oil volume exiting the Persian Gulf, with the military now guiding ships through Hormuz in broad daylight",
-        "summary": [
-            "ارتش آمریکا با اسکورت روزانه ۱۳ میلیون بشکه نفت در تنگه هرمز، عملاً کنترل امنیت شریان انرژی خلیج فارس را به دست گرفته است.",
-            "این اقدام مستقیم، خط بطلانی بر تهدیدهای همیشگی فرماندهان سپاه مبنی بر بستن تنگه هرمز کشید و خروج نفت منطقه را دو برابر کرد."
-        ],
-        "impact": "بی‌اثر شدن تهدیدات موشکی-پپادی سپاه در هرمز و تنگ‌تر شدن حلقه محاصره نفتی ج.ا.ا.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Fortune on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-stonewalls-iran-as-us-helps-double-oil-volume-exiting-the-persian-gulf-with-the-military-now-guiding-ships-through-hormuz-in-broad-daylight/ar-AA2d1DTX",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-stonewalls-iran-as-us-helps-double-oil-volume-exiting-the-persian-gulf-with-the-military-now-guiding-ships-through-hormuz-in-broad-daylight/ar-AA2d1DTX",
-        "image": "http://www.bing.com/th?id=ONUT.ulj5JETF1TdTxYBkg9QRRQ&pid=News",
-        "timestamp": 1790426453.0
     }
 ]
