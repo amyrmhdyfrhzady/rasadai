@@ -288,6 +288,25 @@
         "timestamp": 1790672820.0
     },
     {
+        "id": "16a4662037",
+        "title_fa": "دور زدن تحریم‌ها توسط جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با تتر",
+        "title_en": "Senate report claims Iran is using Tether's stablecoin to evade sanctions",
+        "summary": [
+            "گزارش سنای آمریکا نشان می‌دهد شبکه بانکی پنهان حـ.ـکـ.ـو م به شدت به ارز دیجیتال تتر وابسته شده است.",
+            "بیش از هشتاد درصد کیف پول‌های تحریم‌شده مرتبط با ایـ.ـران و نیابتی‌هایش از تتر برای نقل‌وانتقال مالی استفاده کرده‌اند.",
+            "شرکت صادرکننده تتر امسال توانسته نیم میلیارد دلار از دارایی‌های دیجیتال مرتبط با این شبکه را مسدود کند."
+        ],
+        "impact": "تتر به اصلی‌ترین کانال تنفسی مالی برای دور زدن تحریم‌های بانکی تبدیل شده است.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Engadget",
+        "url": "https://www.engadget.com/2272053/senate-report-claims-iran-is-using-tethers-stablecoin-to-evade-sanctions/",
+        "clean_url": "https://www.engadget.com/2272053/senate-report-claims-iran-is-using-tethers-stablecoin-to-evade-sanctions",
+        "image": "http://www.bing.com/th?id=ONUT.iJCAiFNTwTtsyZdUS5PPoQ&pid=News",
+        "timestamp": 1790670600.0
+    },
+    {
         "id": "a55b39033a",
         "title_fa": "مذاکرات غیرمستقیم تهران و واشنگتن با میانجی‌گری قطر در نیویورک",
         "title_en": "US-Iran talks in New York: What’s the latest?",
@@ -359,6 +378,25 @@
         "clean_url": "https://www.iranintl.com/202609296949",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790663880.0
+    },
+    {
+        "id": "f3488d6295",
+        "title_fa": "نقش سپاه در پیشروی‌های انصارالله یمن",
+        "title_en": "Iran downplays possible role in Houthis’ recent Yemen victories",
+        "summary": [
+            "پیروزی‌های نظامی اخیر حوثی‌ها در یمن و تسلط بر تنگه باب‌المندب بار دیگر رد پای سپاه را برجسته کرده است.",
+            "منابع آمریکایی از هدایت عملیات غرب یمن توسط سپاه پاسداران برای اعمال فشار بر واشنگتن خبر می‌دهند.",
+            "حاکمیت تهران تلاش می‌کند با انکار این دخالت‌ها، هزینه‌های ژئوپلیتیک تنش‌ها را پنهان کند."
+        ],
+        "impact": "گسترش نفوذ نیابتی در آبراه باب‌المندب ابزار فشار جدیدی برای تهران فراهم کرده است.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news-analysis/2026/9/29/iran-downplays-their-possible-role-in-houthis-recent-yemen-victories",
+        "clean_url": "https://www.aljazeera.com/news-analysis/2026/9/29/iran-downplays-their-possible-role-in-houthis-recent-yemen-victories",
+        "image": "http://www.bing.com/th?id=ONUT.eVNJ2UZIzeWMVsYRHxYxcA&pid=News",
+        "timestamp": 1790662800.0
     },
     {
         "id": "5c0d9fa173",
@@ -5473,41 +5511,5 @@
         "clean_url": "https://www.iranintl.com/202609278375",
         "image": "http://www.bing.com/th?id=ONUT.2d3ODG8-m3gYxArkGLWmOQ&pid=News",
         "timestamp": 1790470740.0
-    },
-    {
-        "id": "16f618ab27",
-        "title_fa": "فشار اقتصادی واشنگتن بر ج.م.ا با ابزار تحریم",
-        "title_en": "US treasury secretary claims successes in sanctions campaign to isolate Iran",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا از کارایی و موفقیت سیاست‌های تحریمی برای انزوای مالی تـهـران خبر داد.",
-            "هدف اصلی این اقدامات، قطع دسترسی حاکمیت به منابع ارزی و مهار فعالیت‌های منطقه‌ای است."
-        ],
-        "impact": "تداوم این سیاست‌ها فشار سنگینی بر بدنه مالی نظام وارد کرده و ارزش ریال را بیشتر سقوط می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU1oxeWxVV2tBNEZ5c2M0YW5hTndrVk5iQXNpSlVkbF9SQ3Q5QmZxTF9uY2VoZW5JbGJORXItcGNja3I3N0g1TFlLUjY1VFJFOUZSVkJ1Qmh6RjhtVVFlcWlJUm16TWczOUZKd2lham4yMUtYdEJKMlVIRFhKTmp5M2lScElvNEduZGphMkd3RGNRNVd4Nk5JbzRJaUdYT1ZaVjBUU1k2OGlvZDItSkc1SEhJRlBiMkk3RHRxUEdfWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU1oxeWxVV2tBNEZ5c2M0YW5hTndrVk5iQXNpSlVkbF9SQ3Q5QmZxTF9uY2VoZW5JbGJORXItcGNja3I3N0g1TFlLUjY1VFJFOUZSVkJ1Qmh6RjhtVVFlcWlJUm16TWczOUZKd2lham4yMUtYdEJKMlVIRFhKTmp5M2lScElvNEduZGphMkd3RGNRNVd4Nk5JbzRJaUdYT1ZaVjBUU1k2OGlvZDItSkc1SEhJRlBiMkk3RHRxUEdfWQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790469720.0
-    },
-    {
-        "id": "a6e6db3a8e",
-        "title_fa": "رقابت تنگاتنگ نامزدهای انتخاباتی در حوزه هفتم میشیگان",
-        "title_en": "Michigan’s 7th District race is rated a toss-up. Here’s where the candidates stand.",
-        "summary": [
-            "رقابت میان نامزد دموکرات و نماینده جمهوری‌خواه در حوزه انتخابیه هفتم میشیگان بسیار نزدیک ارزیابی شده است.",
-            "مسائل مربوط به تغییرات اقلیمی و هزینه‌های مسکن از محورهای اصلی این کارزار انتخاباتی است."
-        ],
-        "impact": "تغییر موازنات قدرت در کنگره آمریکا با تعیین تکلیف این کرسی کلیدی",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/09/michigans-7th-district-race-is-rated-a-toss-up-heres-where-the-candidates-stand.html",
-        "clean_url": "https://www.mlive.com/politics/2026/09/michigans-7th-district-race-is-rated-a-toss-up-heres-where-the-candidates-stand.html",
-        "image": "http://www.bing.com/th?id=ONUT.hnWN0eQclJX3xWGlCArJhg&pid=News",
-        "timestamp": 1790469300.0
     }
 ]
