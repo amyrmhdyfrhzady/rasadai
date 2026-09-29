@@ -199,6 +199,25 @@
         "timestamp": 1790661600.0
     },
     {
+        "id": "784fbf4e29",
+        "title_fa": "بحران انرژی در اروپا؛ هزینه ۱۱۳ میلیارد دلاری پس از جنگ",
+        "title_en": "EU nations seek energy alternatives after spending over $113 billion extra since Iran war began",
+        "summary": [
+            "بسته شدن تنگه هرمز قیمت سوخت در اروپا را تا ۵۰ درصد افزایش داده است.",
+            "کشورهای عضو اتحادیه اروپا با وجود پرداخت هزینه‌های گزاف، حتی یک مولکول گاز یا نفت اضافه دریافت نکرده‌اند.",
+            "مقامات اروپایی به دنبال سرعت بخشیدن به روند گذار از سوخت فسیلی به برق هستند."
+        ],
+        "impact": "فشار سنگین اقتصادی بر مصرف‌کنندگان اروپایی و شتاب گرفتن برنامه‌های جایگزینی انرژی.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Bastille Post",
+        "url": "https://www.bastillepost.com/global/article/6203567-eu-nations-seek-energy-alternatives-after-spending-over-113-billion-extra-since-iran-war-began",
+        "clean_url": "https://www.bastillepost.com/global/article/6203567-eu-nations-seek-energy-alternatives-after-spending-over-113-billion-extra-since-iran-war-began",
+        "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/09/2bba50d8a9f53a341f85629ba0960988_EnergyCrisisApproaches_41519_FB.jpg",
+        "timestamp": 1790656860.0
+    },
+    {
         "id": "a6f5f8ef7f",
         "title_fa": "ترامپ: پایان بازی با جـ.ـمهوری اسـ.ـلامی نزدیک است",
         "title_en": "Trump says the Iran endgame is here. It isn’t — without regime change",
@@ -5494,24 +5513,5 @@
         "clean_url": "https://www.tehrantimes.com/news/530444/US-intelligence-says-Saudi-Arabia-has-not-abandoned-its-nuclear",
         "image": "https://media.tehrantimes.com/d/t/2026/09/26/4/6191955.jpg?ts=1790440076672",
         "timestamp": 1790455440.0
-    },
-    {
-        "id": "b7072eb44e",
-        "title_fa": "پایان رویکرد محتاطانه ترامپ در خلیج فارس",
-        "title_en": "Trump appears to have dropped his tit-for-tat approach to Iran attacks in the Strait of Hormuz - ABC News",
-        "summary": [
-            "دونالد ترامپ دیگر رویکرد تلافی‌جویانه محدود و ضربتی را در برابر تحرکات دریایی جـ.ـمـ.ـهـ.ـو‌ر‌ی ا‌سـ.ـلا‌مـ.ـی در تنگه هرمز دنبال نمی‌کند.",
-            "تغییر موضع واشنگتن نشان‌دهنده آمادگی برای پاسخ‌های سنگین‌تر و بدون مدارا به هرگونه تهدید نظامی است.",
-            "امنیت انرژی و آزادی کشتیرانی خط قرمز عملیاتی ایالات متحده در این منطقه راهبردی است."
-        ],
-        "impact": "افزایش ریسک نظامی برای نیروهای مـ.ـسـ.ـلـ.ـح در آب‌های جنوب",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeERXT2lUdlNjVkx4OHlMaU10bU9tOUpYbmJlMmtUcnNBbzZqSEl0RUVYZkFMaDZDQ2l3M2VGR294dXhzWWtiNkJGYWRxZUFaUFVfdGpfbGJrdHllMm9oWXRDMHdLWGtmc0ZDWlhaaHE4U2ozcTNESnZWQ3pMeGNRREZOX2o0N21ndlhLODAwRU5MR2JsNlJoaUpKNkNHUzdD0gGmAUFVX3lxTFBrcnFDVTNGRjg3X1NDUzRqMjZiV1NacXR4alFCdlVldU5EVktiQVhtSm0tMTlOQV8tQ0lSYjFiaFFfbnRlam1FOE9vcExLeVppbF84N0ZZdkJFVk00NWpKSERIeGJCMldNQVoxckVzRVJueG9ybE9zWjJ0N2RyaGs3YWU1QjhYcG5QZ3lJRVdESmk5U3AwZC1IOHc0ZnFGQ1o1WS1vTVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeERXT2lUdlNjVkx4OHlMaU10bU9tOUpYbmJlMmtUcnNBbzZqSEl0RUVYZkFMaDZDQ2l3M2VGR294dXhzWWtiNkJGYWRxZUFaUFVfdGpfbGJrdHllMm9oWXRDMHdLWGtmc0ZDWlhaaHE4U2ozcTNESnZWQ3pMeGNRREZOX2o0N21ndlhLODAwRU5MR2JsNlJoaUpKNkNHUzdD0gGmAUFVX3lxTFBrcnFDVTNGRjg3X1NDUzRqMjZiV1NacXR4alFCdlVldU5EVktiQVhtSm0tMTlOQV8tQ0lSYjFiaFFfbnRlam1FOE9vcExLeVppbF84N0ZZdkJFVk00NWpKSERIeGJCMldNQVoxckVzRVJueG9ybE9zWjJ0N2RyaGs3YWU1QjhYcG5QZ3lJRVdESmk5U3AwZC1IOHc0ZnFGQ1o1WS1vTVE",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790453365.0
     }
 ]
