@@ -36,6 +36,24 @@
         "timestamp": 1790760420.0
     },
     {
+        "id": "057f3538fa",
+        "title_fa": "سقوط آزاد ریال در سایه فشار حداکثری و بحران اقتصادی",
+        "title_en": "IRGC accuses US of using nuclear pretext to plunder national wealth",
+        "summary": [
+            "ارزش پول ملی به کف تاریخی خود رسیده و اقتصاد کشور زیر فشار تحریم‌ها و تنش‌های منطقه‌ای کاملاً زمین‌گیر شده است.",
+            "مقام‌های سپـاه برای سرپوش گذاشتن بر ناکارآمدی اقتصادی، ایالات متحده را به استفاده از بهانه هسته‌ای متهم می‌کنند."
+        ],
+        "impact": "فروپاشی بیشتر قدرت خرید مردم و فلج شدن واردات کالاهای اساسی.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Newspoint",
+        "url": "https://www.msn.com/en-in/news/other/irgc-accuses-us-of-using-nuclear-pretext-to-plunder-national-wealth/ar-AA2dg6Fk",
+        "clean_url": "https://www.msn.com/en-in/news/other/irgc-accuses-us-of-using-nuclear-pretext-to-plunder-national-wealth/ar-AA2dg6Fk",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dgjpC.img?w=640&h=480&m=4&q=50",
+        "timestamp": 1790760300.0
+    },
+    {
         "id": "cdcf86c0a5",
         "title_fa": "رد قاطع پیشنهاد جدید تهران توسط دونالد ترامپ",
         "title_en": "Negotiator of 2015 Iran nuclear deal discusses Trump rejecting Iran's latest proposal",
@@ -5487,23 +5505,5 @@
         "clean_url": "https://www.iranintl.com/202609276039",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790538540.0
-    },
-    {
-        "id": "5155b0e5a6",
-        "title_fa": "ثبت نرخ ارز دلار و ریال در بازارهای جهانی",
-        "title_en": "US Dollar to Iranian Rial USD/IRR",
-        "summary": [
-            "سامانه Economies.com آخرین تغییرات و نوسانات نرخ برابری دلار آمریکا در برابر ریال ایران را منتشر کرد.",
-            "این آمار شامل قیمت‌های بازگشایی، بیشترین، کمترین و نرخ نهایی معاملات است."
-        ],
-        "impact": "نمایش مداوم آشفتگی و نوسانات نرخ ارز در بازار.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Economies.com",
-        "url": "https://www.economies.com/forex/usd-irr",
-        "clean_url": "https://www.economies.com/forex/usd-irr",
-        "image": "https://dixdeynibyck7.cloudfront.net/images/logos/EconomiesOG.png",
-        "timestamp": 1790537400.0
     }
 ]
