@@ -271,6 +271,24 @@
         "timestamp": 1790778850.0
     },
     {
+        "id": "4b5f720460",
+        "title_fa": "مبهم بودن پرونده امنیتی پایگاه بریتانیایی",
+        "title_en": "ترامپ: علت آزادی مظنونان پرونده پایگاه بریتانیا تا پایان روز روشن‌تر می‌شود",
+        "summary": [
+            "دونالد ترامپ وعده داده جزییات آزادی مظنونان توطئه علیه پایگاه هوایی را روشن کند.",
+            "این پرونده با استفاده احتمالی از پایگاه‌های نظامی برای تحرکات ضدایرانی گره خورده است."
+        ],
+        "impact": "رو شدن ابعاد جدید این پرونده می‌تواند فشار امنیتی بر بازیگران منطقه‌ای را تشدید کند.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609301309",
+        "clean_url": "https://www.iranintl.com/202609301309",
+        "image": "http://www.bing.com/th?id=ONUT.H0YOzTNZSamPuvUMIiEeTA&pid=News",
+        "timestamp": 1790778300.0
+    },
+    {
         "id": "dec64ca36d",
         "title_fa": "فرود اضطراری پرواز دبی به تل‌آویو در عربستان",
         "title_en": "After hours of silence, flydubai says motive behind incident on Israel-bound plane still being probed",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.iranintl.com/en/202609284923",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/b542b29fe5b688f3357ecb5234b84417386efe97-3840x2160.jpg?rect=0,72,3840,2016&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790585700.0
-    },
-    {
-        "id": "57ae22cb28",
-        "title_fa": "حضور زودهنگام چهره‌های دموکرات در کارزار کارولینای جنوبی برای انتخابات ۲۰۲۸",
-        "title_en": "Democrats keep coming to South Carolina to stump for midterm candidates. It’s all about 2028",
-        "summary": [
-            "نامزدهای احتمالی حزب دموکرات برای ریاست‌جمهوری ۲۰۲۸ سفرهای تبلیغاتی خود را به کارولینای جنوبی آغاز کرده‌اند.",
-            "این ایالت به عنوان نخستین مرحله در روند نامزدی دموکرات‌ها اهمیت ویژه‌ای دارد."
-        ],
-        "impact": "شکل‌گیری زودهنگام رقابت‌های درون‌حزبی برای انتخابات آینده ریاست‌جمهوری",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Los Angeles Daily News",
-        "url": "https://www.dailynews.com/2026/09/28/democrats-south-carolina-midterms-2028-election/",
-        "clean_url": "https://www.dailynews.com/2026/09/28/democrats-south-carolina-midterms-2028-election",
-        "image": "http://www.bing.com/th?id=ONUT.afwE9pbUFfUZqA_-_6gqAQ&pid=News",
-        "timestamp": 1790585220.0
     }
 ]
