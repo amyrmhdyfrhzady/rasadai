@@ -1,5 +1,41 @@
 [
     {
+        "id": "b3b36b2857",
+        "title_fa": "جهش قیمت نفت همزمان با بن‌بست مذاکرات با آمریکا",
+        "title_en": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets",
+        "summary": [
+            "توقف مذاکرات میان ایالات متحده و ایران بازار انرژی را تحت تأثیر قرار داد.",
+            "تنگی عرضه سوخت در بازار جهانی به افزایش حدود یک دلاری بهای هر بشکه نفت منجر شد."
+        ],
+        "impact": "افزایش درآمد محدود نفتی یا تشدید بحران‌های ارزی به دلیل مسدود ماندن مسیرهای دیپلماتیک",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790795811.0
+    },
+    {
+        "id": "ca9a08d819",
+        "title_fa": "انفجارها در زاهدان همزمان با بحران تورم و سقوط ریال",
+        "title_en": "Three Explosions Rock Zahedan on Bloody Friday Anniversary as Inflation Nears 90% and Rial Slides Further",
+        "summary": [
+            "وقوع سه انفجار در زاهدان در سالگرد جمعه خونین جو امنیتی شهر را متشنج کرد.",
+            "تورم نزدیک به ۹۰ درصد و سقوط آزاد ارزش ریال فشار معیشتی بر شهروندان را به اوج رسانده است."
+        ],
+        "impact": "تشدید جو امنیتی در استان‌های مرزی و بالا رفتن نارضایتی‌های عمومی",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "National Council of Resistance of Iran",
+        "url": "https://www.ncr-iran.org/en/news/iran-protests/three-explosions-rock-zahedan-on-bloody-friday-anniversary-as-inflation-nears-90-and-rial-slides-further/",
+        "clean_url": "https://www.ncr-iran.org/en/news/iran-protests/three-explosions-rock-zahedan-on-bloody-friday-anniversary-as-inflation-nears-90-and-rial-slides-further",
+        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2025/07/iran-irgc-basij-patrols.jpg",
+        "timestamp": 1790794680.0
+    },
+    {
         "id": "3a64bcfe6f",
         "title_fa": "خنثی‌سازی هواپیماربایی در پرواز دبی و تهدیدات مــقـامـات جـمـهـوری اسـلامـی",
         "title_en": "Israelis foil hijacking on Dubai flight; Iran warns US and regional allies TV7 Israel News 30 Sept.",
@@ -217,6 +253,24 @@
         "timestamp": 1790775660.0
     },
     {
+        "id": "789543e51a",
+        "title_fa": "ردپای ناامنی مرتبط با ج·م·هوری اس·لا‌می نزدیک پایگاه نظامی انگلیس",
+        "title_en": "UK points to Iran role in suspected plot near RAF Fairford",
+        "summary": [
+            "مقام‌های ارشد بریتانیا از وجود نشانه‌های جدی دخالت تهران در یک طرح مشکوک امنیتی خبر دادند.",
+            "پنج شهروند بریتانیایی در ارتباط با این پرونده و کشف مواد محترقه نزدیک پایگاه هوایی بازداشت و سپس با وثیقه آزاد شدند."
+        ],
+        "impact": "افزایش فشارهای امنیتی و دیپلماتیک اروپا علیه شبکه نیابتی و عوامل تهران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609308223",
+        "clean_url": "https://www.iranintl.com/en/202609308223",
+        "image": "http://www.bing.com/th?id=ONUT.VGxc2mEVW-mT0k-f2YXqWA&pid=News",
+        "timestamp": 1790775120.0
+    },
+    {
         "id": "c4c9682ccd",
         "title_fa": "دخالت انتخاباتی تهران و تلاش برای تحریک مردم آمریکا",
         "title_en": "Iran urges Americans to rally against Trump ahead of midterms",
@@ -254,6 +308,24 @@
         "timestamp": 1790773040.0
     },
     {
+        "id": "d638bd1265",
+        "title_fa": "ادعاهای عجیب مقام سپاه درباره ارتش آمریکا و دلار",
+        "title_en": "محمدرضا نقدی: مردم آمریکا باید بدانند مدل حکومتشان درست نیست",
+        "summary": [
+            "محمدرضا نقدی مدعی شد ناوشکن‌های آمریکایی ماه‌هاست سرگردانند و توان پهلو گرفتن ندارند.",
+            "او با انتقاد از سیستم حکومتی آمریکا، تلاش کرد مشکلات اقتصادی داخلی را با فرافکنی کم‌اهمیت جلوه دهد."
+        ],
+        "impact": "تلاش برای جنگ روانی و مصرف داخلی در بحبوحه بحران‌های شدید اقتصادی",
+        "tag": "سپاه",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609305466",
+        "clean_url": "https://www.iranintl.com/202609305466",
+        "image": "http://www.bing.com/th?id=ONUT.lgktDGY5fr26ey5bmaup9w&pid=News",
+        "timestamp": 1790771640.0
+    },
+    {
         "id": "0a4cae27c9",
         "title_fa": "ادعای اسرائیل درباره احتمال «حمله تروریستی» در پرواز فلای‌دبی",
         "title_en": "Israeli officials say diverted flydubai incident may be attempted 'terror attack'",
@@ -270,6 +342,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790771241.0
+    },
+    {
+        "id": "a71fd24644",
+        "title_fa": "واکنش نتانیاهو به خنک‌سازی فاجعه هوایی توسط خلبان هندی",
+        "title_en": "نتانیاهو خلبان هندی پرواز فلای‌دبی را «قهرمان واقعی» خواند",
+        "summary": [
+            "نخست‌وزیر اسرائیل خلبان هندی پرواز فلای‌دبی را که با وجود جراحت مهاجم را متوقف کرد، قهرمان نامید.",
+            "این اقدام شجاعانه مانع از یک فاجعه مرگبار هوایی و نجات جان ۱۷۴ مسافر شد."
+        ],
+        "impact": "بازتاب گسترده بین‌المللی در خصوص مهار یک حمله تروریستی بالقوه در آسمان",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609308879",
+        "clean_url": "https://www.iranintl.com/202609308879",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790770380.0
     },
     {
         "id": "cda1c8d5a3",
@@ -5403,95 +5493,5 @@
         "clean_url": "https://www.iranintl.com/202609280324",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790583000.0
-    },
-    {
-        "id": "686986455e",
-        "title_fa": "طراحی مشترک آمریکا و اسرائیل برای دامن زدن به ناآرامی‌ها",
-        "title_en": "U.S.-Israel Plan to Fuel Unrest Inside Iran",
-        "summary": [
-            "واشنگتن و تل‌آویو سناریوهای جدیدی را برای فعال‌سازی اعتراضات داخلی در دستور کار دارند.",
-            "فشار همه‌جانبه علیه ساختار حاکم وارد فاز تازه‌ای از جنگ روانی و امنیتی شده است."
-        ],
-        "impact": "افزایش ضریب ناپایداری داخلی و تشدید درگیری‌های امنیتی در سطح کشور.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQkI5SW5tbE5FTHZEcUo3M1ZDcEJpVzNjclpicjJTTHRxdUNkc0pZcmptX0R6U28taG4wSEs1QklWUlNwV21GY3ppZXJ0ajRZeDJwX3pEbm9iVHh4cEpRRHpDNkk3YXJOVUhheHRhcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQkI5SW5tbE5FTHZEcUo3M1ZDcEJpVzNjclpicjJTTHRxdUNkc0pZcmptX0R6U28taG4wSEs1QklWUlNwV21GY3ppZXJ0ajRZeDJwX3pEbm9iVHh4cEpRRHpDNkk3YXJOVUhheHRhcw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790582140.0
-    },
-    {
-        "id": "b68d27a16e",
-        "title_fa": "کاهش استانداردهای مصرف سوخت برای خودروها در دولت ترامپ",
-        "title_en": "The latest: Trump administration lowers fuel economy standards",
-        "summary": [
-            "دولت ترامپ مقررات سخت‌گیرانه زیست‌محیطی برای خودروهای بنزینی و کامیون‌ها را کاهش داد.",
-            "این اقدام با هدف تسهیل فعالیت خودروسازان و کاهش هزینه‌های تولید انجام شده است."
-        ],
-        "impact": "تغییر مسیر در سیاست‌های انرژی و حمایت از صنایع داخلی خودرو",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/the-latest-trump-administration-set-to-roll-out-lower-fuel-economy-standards/ar-AA2d7Kcm",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-latest-trump-administration-set-to-roll-out-lower-fuel-economy-standards/ar-AA2d7Kcm",
-        "image": "http://www.bing.com/th?id=ONUT.XiJTMzkP1H6E6v4RVQHytQ&pid=News",
-        "timestamp": 1790581392.0
-    },
-    {
-        "id": "603ccff9f0",
-        "title_fa": "بن‌بست دیپلماتیک؛ ایران مذاکره با ترامپ را رد کرد",
-        "title_en": "Irán descarta negociar con EE. UU. tras rechazo de Trump a sus condiciones",
-        "summary": [
-            "تهران پس از رد شدن شرایط خود توسط ترامپ، هرگونه مذاکره با واشینگتن در نشست سازمان ملل را کنار گذاشت.",
-            "این تصمیم نشان‌دهنده پایان دوران دیپلماسی با دولت جدید آمریکا و ورود به مرحله تقابل مستقیم است."
-        ],
-        "impact": "قطع کامل مسیر گفتگو و احتمال افزایش فشارها یا درگیری‌های غیرمستقیم در آینده نزدیک.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "UnoTV on MSN",
-        "url": "https://www.msn.com/es-mx/noticias/other/ir%C3%A1n-descarta-negociar-con-ee-uu-tras-rechazo-de-trump-a-sus-condiciones/ar-AA2d8zlE",
-        "clean_url": "https://www.msn.com/es-mx/noticias/other/ir%C3%A1n-descarta-negociar-con-ee-uu-tras-rechazo-de-trump-a-sus-condiciones/ar-AA2d8zlE",
-        "image": "http://www.bing.com/th?id=ONUT.XN8jgPYlOKPxV3gp2FP0WA&pid=News",
-        "timestamp": 1790580950.0
-    },
-    {
-        "id": "461018d681",
-        "title_fa": "والز: ترامپ همه گزینه‌ها را برای مهار هسته‌ای ج.ا روی میز نگه می‌دارد",
-        "title_en": "Waltz: Trump to keep ‘all options on the table’ to prevent nuclear-armed Iran",
-        "summary": [
-            "دولت آینده آمریکا قصد ندارد دست‌بردار برنامه اتمی تهران باشد و روی مهار کامل تمرکز دارد.",
-            "تیم ترامپ با رویکرد فشار سخت و حفظ تهدید نظامی، مسیر دیپلماسی را به شدت محدود می‌کند."
-        ],
-        "impact": "افزایش ریسک امنیتی و سنگین‌تر شدن سایه تهدید نظامی بر سر تاسیسات هسته‌ای.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnBEWmlfSU8tOG04Q3VsM01abDAxS25WWWtROGlWRTExMTNQVnNjWmNrTnZkZDhQZE94NjU1M3Vhdno3eUR6YmJkV3BmT0pKbkVTTW1kcWs0NTJIQ3hRekVnd29GYUxvU21JTWhQX0hPNzFlWUwtZXZTWGF0RURBQ25uLTE0Z0pLRnY5a2NiM2gtTl95amJGOXBFRllkR3JoNHVQVGpRYm0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnBEWmlfSU8tOG04Q3VsM01abDAxS25WWWtROGlWRTExMTNQVnNjWmNrTnZkZDhQZE94NjU1M3Vhdno3eUR6YmJkV3BmT0pKbkVTTW1kcWs0NTJIQ3hRekVnd29GYUxvU21JTWhQX0hPNzFlWUwtZXZTWGF0RURBQ25uLTE0Z0pLRnY5a2NiM2gtTl95amJGOXBFRllkR3JoNHVQVGpRYm0",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790580840.0
-    },
-    {
-        "id": "46d717f9b7",
-        "title_fa": "تثبیت شرایط جدید جنگی در منطقه و بازیگری هوشمندانه ترکیه",
-        "title_en": "The new normal in Iran war, and Turks who thrive on order",
-        "summary": [
-            "ترکیه با بهره‌برداری از وضعیت جدید درگیری‌ها در منطقه، در حال تثبیت موقعیت خود به عنوان لنگرگاه نظم و ثبات است.",
-            "آنکارا موازنه قوا را طوری مدیریت می‌کند که ضمن استفاده از تضعیف نفوذ منطقه‌ای ایران، از بی‌ثباتی در مرزهای خود جلوگیری کند."
-        ],
-        "impact": "افزایش قدرت چانه‌زنی دیپلماتیک و اقتصادی ترکیه در معادله جدید خاورمیانه به زیان نفوذ منطقه‌ای تهران.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Türkiye Today",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGlkRE05aUl5ZFNCa2doUTZoTHd6RmpBT1AxcG5qc1U4UVg0STBTeHNRTTdwd0pwQWlPM2VRZDFLaHRicnhmcTNROENmMVJKWlJiT1pnbDhMaWd6WHVoZ2d3WkFuOW9ZTW1hMnlaaEE1WjVMR01kRDFWOXFLWWQ4V2t0X2N3Nlhwam9KXzZPNldzMFVxVjF5Q1ZrRGlVbWpFY3Fj?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGlkRE05aUl5ZFNCa2doUTZoTHd6RmpBT1AxcG5qc1U4UVg0STBTeHNRTTdwd0pwQWlPM2VRZDFLaHRicnhmcTNROENmMVJKWlJiT1pnbDhMaWd6WHVoZ2d3WkFuOW9ZTW1hMnlaaEE1WjVMR01kRDFWOXFLWWQ4V2t0X2N3Nlhwam9KXzZPNldzMFVxVjF5Q1ZrRGlVbWpFY3Fj",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790579117.0
     }
 ]
