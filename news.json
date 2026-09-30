@@ -1,5 +1,24 @@
 [
     {
+        "id": "52d072f97a",
+        "title_fa": "جزئیات تازه از تلاش خلبان برای سقوط هواپیمای فلای‌دبی",
+        "title_en": "Netanyahu: Saudis interrogating flydubai suspect, we believe he was trying to crash plane",
+        "summary": [
+            "یکی از خلبانان هواپیمای فلای‌دبی با چاقو به خلبان دیگر حمله کرده و قصد داشته هواپیما را در نزدیکی آسمان اسرائیل چرخ‌بال کند و بکوبد.",
+            "ورود به‌موقع یک مسافر اسرائیلی و خدمه پرواز به کابین خلبان، مانع از حادثه‌ای خونین و یک فاجعه هوایی شد.",
+            "عربستان سعودی بازجویی از خلبان مظنون را آغاز کرده و بازرسی‌های امنیتی پروازهای خاورمیانه به شدت سنگین‌تر می‌شود."
+        ],
+        "impact": "افزایش آنی سطح هشدار پدافند هوایی اسرائیل و بازنگری کامل پروتکل‌های امنیتی پروازهای منطقه‌ای.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-saudis-interrogating-flydubai-suspect-we-believe-he-was-trying-to-crash-plane/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-saudis-interrogating-flydubai-suspect-we-believe-he-was-trying-to-crash-plane",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/Screenshot-2026-09-30-at-8.38.24-AM.jpg",
+        "timestamp": 1790775780.0
+    },
+    {
         "id": "c4c9682ccd",
         "title_fa": "دخالت انتخاباتی تهران و تلاش برای تحریک مردم آمریکا",
         "title_en": "Iran urges Americans to rally against Trump ahead of midterms",
@@ -527,6 +546,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hTZHg3aFBHZnJsWE56aHhkcXdubk5JOFFvRmhzb3lWQjFrd3NVbmJDOVk4SjBTSE4tSm1pbXJVUVFGSWxKdUMwV1JhcE83TVVhWC12ZkNBZThNaGRrLXNSZE9jUWEtbWxPV3hnRDlHcFBmaldvdjNHYUxyM3NiYS1iX3BjZVZYN0hfbWdMN0Y5SDJkVHhPOHh3",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790736480.0
+    },
+    {
+        "id": "f47f9c31ff",
+        "title_fa": "حمله سوریه به حزب‌الله و هشدار درباره واکنش تلافی‌جویانه ایران",
+        "title_en": "Live Updates: Syria takes out Hezbollah terror cell, US Senate blocks measure for report on West Bank violence",
+        "summary": [
+            "نیروهای امنیتی سوریه یک تیم تروریستی حزب‌الله را منهدم کردند که از تعمیق شکاف میان دمشق و نیروهای نیابتی تهران خبر می‌دهد.",
+            "رئیس سابق شورای امنیت ملی اسرائیل هشدار داد که فشارهای همه‌جانبه بر تهران، احتمال اقدام تهاجمی مستقیم سپاه علیه اسرائیل را بالا برده است.",
+            "اسرائیل هم‌زمان با عملیات موشکی علیه فرماندهان حماس، آماده مواجهه با سناریوهای حاد در جبهه شمالی می‌شود."
+        ],
+        "impact": "بالا رفتن احتمال درگیری مستقیم نظامی در منطقه و تغییر آرایش نیروهای نیابتی در خاک سوریه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-30/live-updates-910145",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-30/live-updates-910145",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738864",
+        "timestamp": 1790736180.0
     },
     {
         "id": "4eb2ab08e2",
@@ -5466,43 +5504,5 @@
         "clean_url": "https://www.msn.com/en-ae/news/other/iran-holds-firm-on-seven-day-hormuz-terms/ar-AA2d6DWI",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790553060.0
-    },
-    {
-        "id": "d9dc8e821d",
-        "title_fa": "خط و نشان ارتش برای غرب و تنگه هرمز",
-        "title_en": "معاون هماهنگ‌کننده ارتش: مردم خونخواه رهبر هستند و به راحتی از آن عبور نمی‌کنند",
-        "summary": [
-            "مقام ارشد ارتش ادعا کرد که مردم به دنبال انتقام رهبر جـ.ـهـ.ـوری اسـ.ـلامـ.ـی هستند.",
-            "تهدیدهای دونالد ترامپ درباره تنگه هرمز از سوی این مقام نظامی لفاظی خوانده شد.",
-            "کنترل آب‌های منطقه میان ارتش و سپاه تقسیم شد."
-        ],
-        "impact": "افزایش تنش‌های لفظی میان مقامات نظامی و ایالات متحده در آب‌های خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609288710",
-        "clean_url": "https://www.iranintl.com/202609288710",
-        "image": "http://www.bing.com/th?id=ONUT.sITl61HHpIn6rt274pcR9w&pid=News",
-        "timestamp": 1790551800.0
-    },
-    {
-        "id": "98d25870f9",
-        "title_fa": "همگرایی نظامی اسرائیل و امارات در برابر تهدیدات منطقه",
-        "title_en": "شهرام خلدی: همکاری اسرائیل و امارات متحده عربی می‌تواند به همگرایی نظامی گسترده‌ منجر شود",
-        "summary": [
-            "تقویت روابط دفاعی امارات و اسرائیل پاسخی به تهدیدهای جـ.ـهـ.ـوری اسـ.ـلامـ.ـی است.",
-            "واشنگتن با تکیه بر اسکورت نفتکش‌ها، نیازی به توافق فوری درباره تنگه هرمز نمی‌بیند.",
-            "پیشنهاد توقف هفت روزه جنگ از سوی تهران با پاسخ منفی ترامپ روبه‌رو شد."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و امنیتی پیرامون جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با اتحاد منطقه‌ای.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609287532",
-        "clean_url": "https://www.iranintl.com/202609287532",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790551800.0
     }
 ]
