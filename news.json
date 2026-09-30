@@ -421,6 +421,24 @@
         "timestamp": 1790714160.0
     },
     {
+        "id": "6c9a1e058c",
+        "title_fa": "تداوم حملات هوایی اسرائیل به غزه با وجود آتش‌بس",
+        "title_en": "Israeli strikes kill Gaza woman, injure 5 despite ceasefire",
+        "summary": [
+            "حملات بالگردها و توپخانه ارتش اسرائیل به شهر غزه و محله شجاعیه منجر به کشته شدن یک زن و زخمی شدن ۵ تن دیگر شد.",
+            "شلیک مستقیم موشک به واحدهای مسکونی عملاً توافق آتش‌بس را بی‌اثر و ناپایدار کرده است."
+        ],
+        "impact": "افزایش احتمال از سرگیری تبادل آتش گسترده و نقض کامل توافق‌های آتش‌بس در منطقه.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "en.yenisafak",
+        "url": "https://en.yenisafak.com/world/israeli-strikes-kill-gaza-woman-injure-5-despite-ceasefire-3723901",
+        "clean_url": "https://en.yenisafak.com/world/israeli-strikes-kill-gaza-woman-injure-5-despite-ceasefire-3723901",
+        "image": "https://img.piri.net/piri/upload/3/2026/9/30/60c24371-israeli-strikes-kill-gaza-woman-injure-5-despite-ceasefire.webp",
+        "timestamp": 1790710800.0
+    },
+    {
         "id": "1e06c506a6",
         "title_fa": "سردرگمی واشنگتن در تقابل با جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
         "title_en": "Opinion | The Three American Strategies Toward Iran",
@@ -5495,24 +5513,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0x6amVtdW1pZ0V3VjZYZXd1NElzX2xTMUZjSXZpX0s3VHdPa0xHSmVyMWNBRmwxYk53Q3IyRjhYNnhNQ2FQY3JvbUZOM3B4dFlGN1lXRXdMdzdUX1hXMzhPRG5vZ0hUdTFyTDJ1NGpTWWtWbnp6eVU0aXljU3JCcngxWTcxMXFtT19QdXRIaWo1TkU",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790519580.0
-    },
-    {
-        "id": "dd6b81e4e2",
-        "title_fa": "نمایش قدرت ترامپ با انتشار نقشه «تنگه ترامپ»",
-        "title_en": "ترامپ پس از رد پیشنهاد تهران، بار دیگر تصویری با عنوان «تنگه ترامپ» منتشر کرد",
-        "summary": [
-            "ترامپ با رد پیشنهاد تهران برای توافق، بار دیگر نقشه تنگه هرمز را با نام جعلی «تنگه ترامپ» در شبکه اجتماعی خود منتشر کرد.",
-            "این اقدام همزمان با اعتراف عراقچی به بی‌پاسخ ماندن پیشنهادهای تهران از سوی واسطه‌ها صورت گرفته است.",
-            "واشنگتن کنترل این آبراه حیاتی را در دست دارد و زیر بار امتیازدهی به ج.هـ. نمی‌رود."
-        ],
-        "impact": "افزایش فشار روانی بر حاکمیت و بی‌ارزش کردن پالس‌های مذاکراتی تهران در بازار ارز.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609274603",
-        "clean_url": "https://www.iranintl.com/202609274603",
-        "image": "http://www.bing.com/th?id=ONUT.EmamrKtqtYMbSzvaHqyz6w&pid=News",
-        "timestamp": 1790519340.0
     }
 ]
