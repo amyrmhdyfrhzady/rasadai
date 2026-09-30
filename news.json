@@ -147,6 +147,24 @@
         "timestamp": 1790705289.0
     },
     {
+        "id": "4d4eb3028b",
+        "title_fa": "ترامپ عملیات علیه ج.ا را پیک نیک کوتاه خواند",
+        "title_en": "President Donald Trump calls Iran operation 'short picnic', predicts oil drop",
+        "summary": [
+            "دونالد ترامپ در سخنرانی اخیر خود در واشنگتن، عملیات نظامی هفت ماهه علیه ا.ی.ر.ا.ن را بسیار کوتاه و کم‌هزینه توصیف کرد.",
+            "او وعده داد که با مهار شرایط، قیمت نفت به شدت سقوط خواهد کرد و بازار جهانی آرام می‌شود."
+        ],
+        "impact": "این اظهارات فشار روانی سنگینی بر بدنه حاکمیت وارد کرده و انتظارات برای تغییرات اساسی در بازار انرژی را افزایش داده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/trump-labels-iran-conflict-little-excursion-amid-sanctions/ar-AA2ddKBp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/trump-labels-iran-conflict-little-excursion-amid-sanctions/ar-AA2ddKBp",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790703612.0
+    },
+    {
         "id": "9270a6a0fe",
         "title_fa": "بن‌بست در تنگه هرمز؛ رد پیشنهاد تـهران توسط واشنگتن",
         "title_en": "Negotiations continue after US rejects Iran's latest proposal to open the Strait of Hormuz",
@@ -5493,23 +5511,5 @@
         "clean_url": "https://www.motherjones.com/politics/2026/09/irish-soccer-fans-call-for-boycotting-matches-with-israel",
         "image": "http://www.bing.com/th?id=ONUT.GMposAKqZGR6jTzMDKB3OA&pid=News",
         "timestamp": 1790502420.0
-    },
-    {
-        "id": "7ca00c69a0",
-        "title_fa": "تلاش عراق برای معافیت از تحریم‌های آمریکا علیه پروازهای ایران",
-        "title_en": "Iraq seeks exemptions from US sanctions to resume flights with Iran",
-        "summary": [
-            "بغداد برای برقراری مجدد پروازها به سمت ایران به دنبال گرفتن مجوز از واشنگتن است.",
-            "سایه سنگین تحریم‌های آمریکا حتی روی ساده‌ترین مراودات حمل‌ونقل هوایی با تهران سایه انداخته است."
-        ],
-        "impact": "محدودیت‌های مالی و تحریمی واشنگتن، روابط منطقه‌ای و هوایی بین ایران و همسایگان را به شدت فلج کرده است.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "chinadailyasia.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RUMzZzczeTFtMzdpeF9SV1hxX2dvV2NJSU5rdlhjYkJfMkZfUU1JRERqbmlMdTluQ1FVTENjRGRBU01aNWtCeUVINnlDNy1JUGU5aTZwTGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RUMzZzczeTFtMzdpeF9SV1hxX2dvV2NJSU5rdlhjYkJfMkZfUU1JRERqbmlMdTluQ1FVTENjRGRBU01aNWtCeUVINnlDNy1JUGU5aTZwTGM",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790502018.0
     }
 ]
