@@ -257,6 +257,24 @@
         "timestamp": 1790720354.0
     },
     {
+        "id": "1fa3bba24b",
+        "title_fa": "اعدام شتابزده دو معترض دیگر در مشهد",
+        "title_en": "Iran hangs two protesters who took part in January demonstrations",
+        "summary": [
+            "دستگاه قضایی ج. ا. دو معترض بازداشت‌شده در اعتراضات دی‌ماه را با اتهامات ساختگی اعدام کرد.",
+            "گزارش‌ها حاکی از شکنجه شدید و اخذ اعترافات اجباری از این افراد در زندان وکیل‌آباد مشهد است."
+        ],
+        "impact": "تشدید ارعاب عمومی برای سرکوب اعتراضات مردمی و ایجاد جو خوف در جامعه.",
+        "tag": "سرکوب",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609300853",
+        "clean_url": "https://www.iranintl.com/en/202609300853",
+        "image": "http://www.bing.com/th?id=ONUT.RrNXsSa6VGK9CCPfJwG8CQ&pid=News",
+        "timestamp": 1790719920.0
+    },
+    {
         "id": "4e30bbd4fe",
         "title_fa": "هشدار نخست‌وزیر اسراییل درباره احتمال حملات در آستانه انتخابات",
         "title_en": "Israel PM says 'indications' enemies will try to attack ahead of elections",
@@ -5496,23 +5514,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTNkWFhBZVRsSGxVeFR4WUItOXVlY0Nxckt3elYwRThWT1phZ2VpU2VFVnlJNmhjYlBjWExpMjBDRThxdWVzYWxPYlpUSlFBeUVJajRrRjBUYmh3MHhQZnBYZ1hKUm5MMU5TQzkwSFBzd3YxMEpyaHBVa1RDR0V5R2NiRTFucm8xVVFVLWJ0ejN6V1B2c3hkOQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790518117.0
-    },
-    {
-        "id": "57a081c37d",
-        "title_fa": "شرط ترامپ برای کاهش قیمت نفت: تسلیم جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی",
-        "title_en": "Trump vows lower oil prices once Iran ‘gives up’",
-        "summary": [
-            "دونالد ترامپ هرگونه توافق با تـ.ـهـ.ـران برای باز کردن تنگه هرمز را قاطعانه رد کرد.",
-            "فشار حداکثری اقتصادی و فلج کردن شریان‌های درآمدی حـ.ـکـ.ـومـ.ـت محور اصلی سیاست دولت جدید آمریکا خواهد بود."
-        ],
-        "impact": "بسته شدن مسیرهای تنفس مالی جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی و تشدید بحران ارزی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/video/6405708390112",
-        "clean_url": "https://www.foxnews.com/video/6405708390112",
-        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff90fdf2-b31b-438b-b045-9e9fabb24cc4/72523d9a-0ed9-4e32-a085-8095c74179f8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-        "timestamp": 1790517420.0
     }
 ]
