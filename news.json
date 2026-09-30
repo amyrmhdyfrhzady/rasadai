@@ -1093,6 +1093,25 @@
         "timestamp": 1790726820.0
     },
     {
+        "id": "906daf1fa9",
+        "title_fa": "تنبیه نفتکش‌ها در تنگه هرمز و واکنش تهران به واشنگتن",
+        "title_en": "Iran war live: UK says 'strong' signs of Iranian role in airbase incident",
+        "summary": [
+            "سپاه پاسداران از تداوم درگیری‌های نظامی روزانه در آب‌های تنگه هرمز خبر داد.",
+            "تهران بسته پیشنهادی ایالات متحده درباره بازگشایی مسیر حیاتی انرژی را روی میز بررسی دارد.",
+            "دست‌کم سه فروند کشتی تجاری هدف اصابت پرتابه‌ها در منطقه قرار گرفته‌اند."
+        ],
+        "impact": "فلج شدن تردد دریایی در یکی از حساس‌ترین شاهراه‌های انرژی جهان.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260930__C9U739G__v1__HighRes__IsraelUsMilitaryAviation-1790787187.jpg?resize=1920%2C1440",
+        "timestamp": 1790726400.0
+    },
+    {
         "id": "7e88c7d75b",
         "title_fa": "توافق ترامپ با غول‌های فناوری برای تدوین ضوابط هوش مصنوعی",
         "title_en": "ترامپ از توافق شرکت‌های بزرگ فناوری بر سر تدوین استانداردهای هوش مصنوعی خبر داد",
@@ -5479,24 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnV3N3NCRjFTNUdJSktYbnNrdUZqVEMwTS1KZU5MVTRUakpwajVZU21IdHd4ei1UdmZ5UG8yS210dVFQdWVIeFAtSlNQMGN1emhSMDM3SDdFalQ4NUpWaXNlVERWbUE0TXBRMHZHRlJLaEJDeVBET2UyclVScjJBYWl1NjNxVlBMX3piN0pVUERHUkFTd3JsUDZnR01kYlZibnJEM0pQeVk4Q0pvMWRzZjd30gG6AUFVX3lxTE1DRGhIVlRHUlFpbldXdXVlcWVwMTlvWk5uX2F4VkRoMndHT3k3dlY3TVQtVjlycGNMWExyNnFPaHBMR3E4dG9DOC1Rc3RKSlZmTHNScUk3WjduUW5DLUJvTThWanNyakJzZXZ5bktidUtna0c5dGNzUWlqTjVWcVBQamZvaFJ1VHc3TzB0TFRWV285RkRuNlk2RHc5WXVFUHNoQWxvdGtQSXByOU1TZnczdWdHdW8tNVJ3dw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790561663.0
-    },
-    {
-        "id": "43435fd946",
-        "title_fa": "آمادگی برای جنگ آخرالزمانی در سایه ضربات احتمالی ترامپ",
-        "title_en": "US Iran War Live Updates: Araghchi says Iran prepared for 'doomsday war' as Trump hints at fresh strikes",
-        "summary": [
-            "اصابت موشک کروز ضدکشتی به یک شناور آمریکایی در تنگه هرمز، ۸ تفنگدار دریایی را راهی درمان کرد.",
-            "عباس عراقچی از آمادگی کامل برای یک جنگ تمام‌عیار خبر داد همزمان با اینکه دونالد ترامپ از حملات تازه سخن می‌گوید.",
-            "بنیامین نتانیاهو در یک سفر اعلام‌نشده به امارات رفت تا با محمد بن زاید دیدار و رایزنی کند."
-        ],
-        "impact": "افزایش شدید تنش نظامی در خلیج فارس و آماده‌باش نیروهای دو طرف.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-update-donald-trump-rejects-iranian-proposal-reopen-strait-of-hormuz-uk-air-base-attack-us-strike-iran-latest-news/liveblog/134529701.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-update-donald-trump-rejects-iranian-proposal-reopen-strait-of-hormuz-uk-air-base-attack-us-strike-iran-latest-news/liveblog/134529701.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134529701,width-1280,height-720,imgsize-9588,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1790560980.0
     }
 ]
