@@ -1,5 +1,24 @@
 [
     {
+        "id": "b61faa9a12",
+        "title_fa": "خروج نیروهای آمریکایی از عراق و افزایش نفوذ منطقه‌ای تهران",
+        "title_en": "U.S. withdraws forces in Iraq as balance of power shifts to Iran",
+        "summary": [
+            "واشنگتن روند خروج تدریجی و انتقال نیروهای خود از پایگاه‌های عراق را شتاب داده است.",
+            "تخلیه پایگاه‌های ائتلاف دست گروه‌های شبه‌نظامی نیابتی را برای کنترل شریان‌های امنیتی عراق بازتر می‌کند.",
+            "دولت بغداد زیر فشار سنگین تهران برای پایان کامل حضور نظامی غرب در منطقه قرار گرفته است."
+        ],
+        "impact": "افزایش تسلط امنیتی گروه‌های وابسته به تهران بر مرزها و کریدورهای لجستیکی عراق و سوریه.",
+        "tag": "منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3pxVVVPOVd2UmNNZ3NhcVhvMFJTVzFkdE5KbGhVSjRicUtCTGZ2T2d5MHFBcFR0SVUtMnNfUEs3aGJURGxSSWwxOWlGdEVCbUhoQ2lwSDZ1Y3hSZmQ5eWlrVkhsdWM5SU9OTUxHdWlnRzJSSGVkWU1wNUxZVF8xUVVSYUwtME9pSkVkSEp2SnZiM1VTcnRSaTAyQWE5WDk5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3pxVVVPOVd2UmNNZ3NhcVhvMFJTVzFkdE5KbGhVSjRicUtCTGZ2T2d5MHFBcFR0SVUtMnNfUEs3aGJURGxSSWwxOWlGdEVCbUhoQ2lwSDZ1Y3hSZmQ5eWlrVkhsdWM5SU9OTUxHdWlnRzJSSGVkWU1wNUxZVF8xUVVSYUwtME9pSkVkSEp2SnZiM1VTcnRSaTAyQWE5WDk5",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790737440.0
+    },
+    {
         "id": "2c0b17819a",
         "title_fa": "واکنش تند ط·هران به حضور اِس‌رائیل در منطقه",
         "title_en": "Iran warns of fallout from Israel’s presence in region after Netanyahu’s UAE visit",
@@ -5496,23 +5515,5 @@
         "clean_url": "https://www.iranintl.com/202609270086",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790507760.0
-    },
-    {
-        "id": "f10333a0ea",
-        "title_fa": "فشار سناتور آمریکایی به ترامپ برای شفاف‌سازی درباره ایران",
-        "title_en": "Sen. Kennedy Urges Trump to Address Nation on Iran War",
-        "summary": [
-            "جان کندی از ترامپ خواست درباره اهداف و پایان درگیری با ج م ه و ر ی ا س ل ا م ی با مردم آمریکا سخن بگوید.",
-            "این سناتور آمریکایی با مخالفت با اعزام نیروی زمینی، بر تداوم تحریم‌ها و باز نگه داشتن تنگه هرمز تأکید کرد."
-        ],
-        "impact": "بحث‌ها پیرامون نوع مواجهه واشنگتن با تنش‌ها وارد فاز جدیدی شده است.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/sen-kennedy-urges-trump-address-181525026.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/sen-kennedy-urges-trump-address-181525026.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/201334d280533c38506f2ab3fa2c4004bfbd9d5f62f6eb1717d04b2606f12863/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F716d2f99d9f2c8bbe8abe43d8e4844d5.jpg",
-        "timestamp": 1790507700.0
     }
 ]
