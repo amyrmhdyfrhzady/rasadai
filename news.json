@@ -308,6 +308,25 @@
         "timestamp": 1790759394.0
     },
     {
+        "id": "404b84c839",
+        "title_fa": "خروج کامل نیروهای آمریکایی از عراق و خطر نفوذ ج.ا",
+        "title_en": "US closes final base in Iraq as Iran eyes chance to fill vacuum",
+        "summary": [
+            "نیروهای ائتلاف غربی پایگاه اربیل را تخلیه کردند تا حضور نظامی دو دهه گذشته پایان یابد.",
+            "رسانه‌های حکومتی ج.ا این خروج را پیروزی بزرگی برای خود پوشش دادند.",
+            "خلاء قدرت ایجاد شده نگرانی‌ها از تسلط بیشتر نیابتی‌های تهران بر ساختار سیاسی و امنیتی عراق را افزایش داده است."
+        ],
+        "impact": "تغییر توازن قوا در عراق و افزایش دسترسی تروریست‌های حکومتی به مرزهای غربی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/us-closes-final-iraq-iran-160243966.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/us-closes-final-iraq-iran-160243966.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/b1216858b1619a8333279e2e836f88501340ae600018b5c0145adddf845b7185/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0351f2d62ac9992a0d58a095b3be8ba0.jpg",
+        "timestamp": 1790758920.0
+    },
+    {
         "id": "cdcf86c0a5",
         "title_fa": "رد قاطع پیشنهاد جدید تهران توسط دونالد ترامپ",
         "title_en": "Negotiator of 2015 Iran nuclear deal discusses Trump rejecting Iran's latest proposal",
@@ -5479,24 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWFOMnBqZnJrNG91R203Z1N5NjFFMGNlX1g3djJBOEk2Z0dISnZ2dDlSemZac1BreVp1ekU0V05mU3dMcUZPTEFRZmhTTlduYzVCUjU4RFRoZGNUSEI0Y3B1V2pteUtXZ3RtR0Z0bjRwdklLUXBfUUtWdk5FYnNSV01yOGttWlpqdXVzZjJVYVJPTkx0NGp2VFlTajcyQXprMmlfcE84cURIcUd1bVE",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790565848.0
-    },
-    {
-        "id": "dc9d6adb1b",
-        "title_fa": "احتمال لغو کامل پروازهای ایران به ترکیه",
-        "title_en": "ترکیه تودی: انتظار می‌رود همه پروازهای ایران به ترکیه از اوایل ماه آینده میلادی لغو شوند",
-        "summary": [
-            "منابع هوانوردی از توقف قریب‌الوقوع پروازهای ایران به ترکیه خبر دادند.",
-            "این تصمیم در ادامه قطع پروازهای ایرلاین‌های ایرانی به کشورهای حوزه خلیج فارس و همسایگان صورت می‌گیرد.",
-            "انزوای هوایی حکومت با سرعت بیشتری در حال تکمیل است."
-        ],
-        "impact": "قطع ارتباطات هوایی باقیمانده، فشار اقتصادی و انزوای بین‌المللی ج.ا را به شدت افزایش می‌دهد.",
-        "tag": "هوانوردی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609287367",
-        "clean_url": "https://www.iranintl.com/202609287367",
-        "image": "http://www.bing.com/th?id=ONUT.bKWVdwY5pECucUbbl0x0nw&pid=News",
-        "timestamp": 1790565720.0
     }
 ]
