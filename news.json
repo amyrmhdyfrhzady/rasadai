@@ -91,6 +91,24 @@
         "timestamp": 1790793240.0
     },
     {
+        "id": "65604529dc",
+        "title_fa": "جنگ رسانه‌ای بر سر حادثه پرواز فلای‌دبی",
+        "title_en": "From Hijacking Alert to False-Flag Claims: How Arab and Iranian Outlets Framed the Flydubai Incident",
+        "summary": [
+            "رسانه‌های عربی و ایرانی روایت‌های کاملاً متفاوتی از تهدید هواپیمای فلای‌دبی منتشر کردند.",
+            "این تنش خبری نشان‌دهنده عمق بی‌اعتمادی و جنگ روانی در آسمان منطقه است."
+        ],
+        "impact": "تشدید جنگ روانی و افزایش ناامنی روبی در خطوط پروازی منطقه.",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Media Line",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd3phSFRNcS1MRUNpbmdJc2ZoZ1E2TWFVSDU5NE9LdmR3TVowU2x2NC03RUdIZDlrNlV2LU5ybDMtYlpBVzc1WDg5T0V3Z0liN252TXZtbGgtcHAzWUtSYzJKQTV1Zi1RV1dwc0N6VkRpRklzTHVteDBGdjYzc1BYUUhHLTJvRzBwQjlpWWs0aG1KaEtqWWFEZklrYTNsNjJiUEU0cWhkVmFybUZ3NVh1UjQ1RTAtOWpSWjFaWFVfQi11LXd2SVlKTEJFVElVLUZPTVRF?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd3phSFRNcS1MRUNpbmdJc2ZoZ1E2TWFVSDU5NE9LdmR3TVowU2x2NC03RUdIZDlrNlV2LU5ybDMtYlpBVzc1WDg5T0V3Z0liN252TXZtbGgtcHAzWUtSYzJKQTV1Zi1RV1dwc0N6VkRpRklzTHVteDBGdjYzc1BYUUhHLTJvRzBwQjlpWWs0aG1KaEtqWWFEZklrYTNsNjJiUEU0cWhkVmFybUZ3NVh1UjQ1RTAtOWpSWjFaWFVfQi11LXd2SVlKTEJFVElVLUZPTVRF",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790793020.0
+    },
+    {
         "id": "b79840557a",
         "title_fa": "جهش قیمت نفت از ترس درگیری آمریکا و جـ.ـهـ.ـوری ا.سـ.ـلا.مـ.ـی",
         "title_en": "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict",
@@ -5473,24 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790583437.0
-    },
-    {
-        "id": "6cea1bf90d",
-        "title_fa": "شکایت ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی از تحریم‌های هوایی آمریکا در ایکائو",
-        "title_en": "Iran files ‘formal protest’ with UN aviation watchdog over US sanctions",
-        "summary": [
-            "تلاش سازمان هواپیمایی برای دور زدن تحریم‌ها با استفاده از اهرم‌های حقوقی بین‌المللی",
-            "اعتراف غیرمستقیم به فلج شدن ناوگان هوایی و قطع مسیرهای پروازی به دلیل فشارهای تحریمی",
-            "این اقدام بیشتر یک نمایش تبلیغاتی برای مصرف داخلی است تا راهکاری برای حل بحران فرسودگی ناوگان"
-        ],
-        "impact": "این شکایت هیچ تاثیر عملی بر لغو تحریم‌های آمریکا نخواهد داشت و تنها هزینه‌های حقوقی بیهوده برای کشور می‌تراشد.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-files-formal-protest-with-un-aviation-watchdog-over-us-sanctions-article-14040316.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-files-formal-protest-with-un-aviation-watchdog-over-us-sanctions-article-14040316.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260806152012_Houthis-6.jpg",
-        "timestamp": 1790583420.0
     }
 ]
