@@ -256,6 +256,25 @@
         "timestamp": 1790701200.0
     },
     {
+        "id": "65a8ad34ca",
+        "title_fa": "دخالت آشکار سپاه در انتخابات آمریکا علیه ترامپ",
+        "title_en": "Iran's Revolutionary Guard Urges US Voters to 'Take Back Control' From Trump",
+        "summary": [
+            "سپاه پاسداران در نامه ای سرگشاده از شهروندان آمریکایی خواست کنترل کشورشان را از ترامپ پس بگیرند.",
+            "این اقدام بی سابقه نشان دهنده استیصال حاکمیت در برابر فشار حداکثری واشنگتن است.",
+            "تهران با این پیام تلاش می کند در آستانه انتخابات میان دوره ای روی افکار عمومی آمریکا تاثیر بگذارد."
+        ],
+        "impact": "تلاش مذ مذابانه نهادهای نظامی برای دخالت در سیاست داخلی آمریکا و فرار از تنگنای تحریم ها.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/irans-revolutionary-guard-urges-us-235723066.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/irans-revolutionary-guard-urges-us-235723066.html",
+        "image": "http://www.bing.com/th?id=ONUT.atFIJ1h_SDG-r2mnVolq8Q&pid=News",
+        "timestamp": 1790701020.0
+    },
+    {
         "id": "710bd18404",
         "title_fa": "روایت پشت پرده مهار حمله موشکی ج--وری اس--لامی به اسرائیل",
         "title_en": "How Joe Biden averted a wider war with Iran: Explained in 10 points",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.derstandard.de/story/3000000341249/america-is-stepping-back-from-a-region-it-never-managed-to-remake",
         "image": "https://i.ds.at/CwRV7g/rs:fill:1200:600/plain/lido-images/2026/09/25/02404974-7796-45a3-9210-1ae06c1297b1.jpg",
         "timestamp": 1790505300.0
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "نوسانات روزانه قیمت سوخت در ایالات متحده",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "داده‌های جدید نقشه و نمودارهای تغییرات قیمت بنزین در ایالت‌ها و شهرستان‌های آمریکا را به صورت روزانه به‌روزرسانی می‌کند.",
-            "این گزارش روی روند تغییرات بهای سوخت برای مصرف‌کنندگان آمریکایی تمرکز دارد."
-        ],
-        "impact": "تغییرات قیمت سوخت مستقیماً بر هزینه‌های جاری شهروندان آمریکایی تأثیر می‌گذارد.",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790504580.0
     }
 ]
