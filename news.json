@@ -253,6 +253,24 @@
         "timestamp": 1790760300.0
     },
     {
+        "id": "f2b4275130",
+        "title_fa": "طرح دخالت جـــــمهوری اســـــلامی در انتخابات آمریکا",
+        "title_en": "Trump targeted by Iran as brazen midterm meddling plot is revealed",
+        "summary": [
+            "نیروهای نخبه مـــقــامـات امنیتی ایـــران، متحدان ترامپ را به خشونت و فریب‌کاری متهم کردند.",
+            "تهران تلاش می‌کند با مداخله در انتخابات میان‌دوره‌ای، معادلات سیاسی واشنگتن را به نفع خود تغییر دهد."
+        ],
+        "impact": "افزایش تنش‌های امنیتی میان واشنگتن و تهران با چاشنی دخالت در انتخابات.",
+        "tag": "انتخابات آمریکا",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Daily Mail on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/trump-targeted-by-iran-as-brazen-midterm-meddling-plot-is-revealed/ar-AA2dhR4f",
+        "clean_url": "https://www.msn.com/en-xl/news/other/trump-targeted-by-iran-as-brazen-midterm-meddling-plot-is-revealed/ar-AA2dhR4f",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790759394.0
+    },
+    {
         "id": "cdcf86c0a5",
         "title_fa": "رد قاطع پیشنهاد جدید تهران توسط دونالد ترامپ",
         "title_en": "Negotiator of 2015 Iran nuclear deal discusses Trump rejecting Iran's latest proposal",
@@ -5479,24 +5497,5 @@
         "clean_url": "https://www.thenation.com/article/world/behrooz-ghamari-tabrizi-interview-iran-war-trump",
         "image": "http://www.bing.com/th?id=ONUT.OexUv6RlGwd84H32QBeTDQ&pid=News",
         "timestamp": 1790562600.0
-    },
-    {
-        "id": "f56b1f7840",
-        "title_fa": "رد طرح آتش‌بس جدید تهران توسط ترامپ به دلیل بی‌اعتمادی مطلق",
-        "title_en": "'No Confidence': US Diplomat Tells Why Trump Rejected Iran's New Truce Plan",
-        "summary": [
-            "دیپلمات آمریکایی افشا کرد که دونالد ترامپ پیشنهاد جدید حکومت ایران برای آتش‌بس را به دلیل نبود اعتماد به تعهدات تهران به طور کامل رد کرده است.",
-            "واشنگتن پیشنهادهای اخیر تهران را ترفندی برای زمان‌خریدن، بازسازی نیروهای نیابتی و کاهش فشار خفه‌کننده اقتصادی می‌داند.",
-            "تیم ترامپ همچنان بر سیاست فشار حداکثری تأکید دارد و تنها توافقی جامع با تضمین‌های عملی را می‌پذیرد."
-        ],
-        "impact": "بن‌بست کامل در دیپلماسی پنهان و افزایش احتمال تشدید ضربات اقتصادی و نظامی علیه تهران.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "NDTV",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnV3N3NCRjFTNUdJSktYbnNrdUZqVEMwTS1KZU5MVTRUakpwajVZU21IdHd4ei1UdmZ5UG8yS210dVFQdWVIeFAtSlNQMGN1emhSMDM3SDdFalQ4NUpWaXNlVERWbUE0TXBRMHZHRlJLaEJDeVBET2UyclVScjJBYWl1NjNxVlBMX3piN0pVUERHUkFTd3JsUDZnR01kYlZibnJEM0pQeVk4Q0pvMWRzZjd30gG6AUFVX3lxTE1DRGhIVlRHUlFpbldXdXVlcWVwMTlvWk5uX2F4VkRoMndHT3k3dlY3TVQtVjlycGNMWExyNnFPaHBMR3E4dG9DOC1Rc3RKSlZmTHNScUk3WjduUW5DLUJvTThWanNyakJzZXZ5bktidUtna0c5dGNzUWlqTjVWcVBQamZvaFJ1VHc3TzB0TFRWV285RkRuNlk2RHc5WXVFUHNoQWxvdGtQSXByOU1TZnczdWdHdW8tNVJ3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnV3N3NCRjFTNUdJSktYbnNrdUZqVEMwTS1KZU5MVTRUakpwajVZU21IdHd4ei1UdmZ5UG8yS210dVFQdWVIeFAtSlNQMGN1emhSMDM3SDdFalQ4NUpWaXNlVERWbUE0TXBRMHZHRlJLaEJDeVBET2UyclVScjJBYWl1NjNxVlBMX3piN0pVUERHUkFTd3JsUDZnR01kYlZibnJEM0pQeVk4Q0pvMWRzZjd30gG6AUFVX3lxTE1DRGhIVlRHUlFpbldXdXVlcWVwMTlvWk5uX2F4VkRoMndHT3k3dlY3TVQtVjlycGNMWExyNnFPaHBMR3E4dG9DOC1Rc3RKSlZmTHNScUk3WjduUW5DLUJvTThWanNyakJzZXZ5bktidUtna0c5dGNzUWlqTjVWcVBQamZvaFJ1VHc3TzB0TFRWV285RkRuNlk2RHc5WXVFUHNoQWxvdGtQSXByOU1TZnczdWdHdW8tNVJ3dw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790561663.0
     }
 ]
