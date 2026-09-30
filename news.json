@@ -1,5 +1,23 @@
 [
     {
+        "id": "0306849a8e",
+        "title_fa": "دست باز دولت آمریکا برای اخراج مهاجران به کشورهای ثالث",
+        "title_en": "US Supreme Court lifts limits on third-country deportations",
+        "summary": [
+            "دیوان عالی آمریکا محدودیت‌های اخراج مهاجران به کشورهای ثالث را برداشت.",
+            "این تصمیم روند اخراج پناهجویان را سرعت می‌بخشد و دست دولت را در اجرای سیاست‌های مهاجرتی بازتر می‌کند."
+        ],
+        "impact": "افزایش فشار بر پناهجویان و تغییر جدی در قوانین مهاجرتی ایالات متحده.",
+        "tag": "مهاجرت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Khaleej Times",
+        "url": "https://www.msn.com/en-ae/news/world/us-supreme-court-lifts-limits-on-third-country-deportations/ar-AA2df8l7",
+        "clean_url": "https://www.msn.com/en-ae/news/world/us-supreme-court-lifts-limits-on-third-country-deportations/ar-AA2df8l7",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790754720.0
+    },
+    {
         "id": "37c87dd212",
         "title_fa": "خروج ایالات متحده از کمیسیون مبارزه با فساد اروپا",
         "title_en": "US Withdraws from European Anti-Corruption Panel",
@@ -5493,23 +5511,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2NSalJ6YXVPUEZrbXpoQ05LYXRGNlM0ekVIY29qdUxmREJHMGhQZmdxQW04eGNEMFkycFNTUmQtMGhiM2V0QVo2U2lmSC04T0dSaGNzaWtHMWNhVktOc1I3SzI2cjBiNTNpSktWeWJsMmVFOE5DSFVnaE5WLWdGdXVCVUxEZlFz0gGOAUFVX3lxTFBsRnZRcFU1UHZHQ2RmWHFyQThnZHBHYXB0SDJGQldDMllFSjNxWW5XbnVLajljWF9EV2tRU0hPdFd4WUx5dnhBanNqbkNURWs3UkJYZkFGM2gxdDNLSWdMMnlyVURoOHVnNHA1LVAySVZvRFpRM1Y4RGxtbml1c1UtSWstV00zN2Jfd0FfT2c",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790526360.0
-    },
-    {
-        "id": "a5b210f078",
-        "title_fa": "توقف مذاکرات تنگه هرمز و شرط‌گذاری واشنگتن و تهران",
-        "title_en": "US, Iran trade blame as Strait of Hormuz ceasefire talks stall",
-        "summary": [
-            "دونالد ترامپ پیش‌بینی کرد با پایان درگیری‌ها و تسلیم شدن جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی، قیمت نفت به شدت سقوط کند.",
-            "واشنگتن توافق را مشروط به راستی‌آزمایی برنامه هسته‌ای کرده، در حالی که تهران خواستار لغو تحریم‌ها پیش از بازگشایی تنگه هرمز است."
-        ],
-        "impact": "تنش در تنگه هرمز قیمت نفت را در بالاترین سطح نگه داشته و بازار جهانی را در ابهام فرو برده است.",
-        "tag": "تنگه هرمز",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Straight Arrow News",
-        "url": "https://san.com/cc/us-iran-trade-blame-as-strait-of-hormuz-ceasefire-talks-stall/",
-        "clean_url": "https://san.com/cc/us-iran-trade-blame-as-strait-of-hormuz-ceasefire-talks-stall",
-        "image": "https://san.com/wp-content/uploads/2026/09/AP26270468261640_AP_Images_clean.jpg",
-        "timestamp": 1790524800.0
     }
 ]
