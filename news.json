@@ -291,6 +291,24 @@
         "timestamp": 1790765700.0
     },
     {
+        "id": "8db4305b38",
+        "title_fa": "خروج کامل ارتش آمریکا از عراق به دستور ترامپ",
+        "title_en": "ترامپ: آخرین نیروهای آمریکایی در حال ترک عراق هستند",
+        "summary": [
+            "دونالد ترامپ تایید کرد که آخرین نظامیان آمریکایی در حال ترک خاک عراق هستند و این حضور نظامی دو دهه‌ای را «باتلاق» خواند.",
+            "پایان این ماموریت با اشاره به نابودی کامل خلافت داعش توجیه شد تا واشنگتن پرونده حضور مستقیم خود را در این کشور ببندد."
+        ],
+        "impact": "تغییری بزرگ در توازن قوا در منطقه و کاهش توان بازدارندگی آمریکا در برابر نفوذ ج.ا در عراق.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609309389",
+        "clean_url": "https://www.iranintl.com/202609309389",
+        "image": "http://www.bing.com/th?id=ONUT.GwSjNT420UQFDoIxvWxvRA&pid=News",
+        "timestamp": 1790764740.0
+    },
+    {
         "id": "885f5c2ca6",
         "title_fa": "نقص فنی و آسیب دیدگی دم هواپیمای فلای‌دبی",
         "title_en": "Photos of flydubai plane after landing show tail has broken rudder",
@@ -5477,24 +5495,5 @@
         "clean_url": "https://www.iranintl.com/en/202609280172",
         "image": "http://www.bing.com/th?id=ONUT.ZDtzcqjZBG6q781mK54uFQ&pid=News",
         "timestamp": 1790574480.0
-    },
-    {
-        "id": "47110a0d4f",
-        "title_fa": "بن‌بست در تنگه هرمز و رد پیشنهاد جـ.ـهـ.ـو‌ر‌ی ا‌سـ.ـلا‌مـ.ـی توسط واشنگتن",
-        "title_en": "Envoy reveals why US rejected Iran's Hormuz offer",
-        "summary": [
-            "آمریکا پیش‌شرط‌های تهران برای باز کردن تنگه هرمز از جمله رفع تحریم‌ها و آزادسازی پول‌های بلوکه‌شده را رد کرد.",
-            "مایک والتز پیشنهاد تهران را تلاشی برای امتیازگیری بدون دادن امتیاز در پرونده اتمی خواند.",
-            "دونالد ترامپ بار دیگر تاکید کرد مانع دسترسی تهران به بمب اتم می‌شود و گزینه نظامی روی میز است."
-        ],
-        "impact": "افزایش ریسک در آب‌های خلیج فارس و بالا رفتن احتمال درگیری نظامی در صورت تداوم تنش‌ها.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Rediff.com",
-        "url": "https://www.rediff.com/news/report/envoy-reveals-why-us-rejected-irans-hormuz-offer/20260928.htm",
-        "clean_url": "https://www.rediff.com/news/report/envoy-reveals-why-us-rejected-irans-hormuz-offer/20260928.htm",
-        "image": "https://im.rediff.com/1200-630/news/2026/apr/19hormuz.jpg",
-        "timestamp": 1790572740.0
     }
 ]
