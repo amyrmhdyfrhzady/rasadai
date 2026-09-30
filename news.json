@@ -54,6 +54,24 @@
         "timestamp": 1790794680.0
     },
     {
+        "id": "cd07418d46",
+        "title_fa": "روایت مسافر اسرائیلی از خنثی کردن حمله",
+        "title_en": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+        "summary": [
+            "یکی از مسافران پرواز با مداخله به موقع مانع از اقدام مهاجم شد.",
+            "نخست‌وزیر اسرائیل جزئیات این رویداد امنیتی را شخصاً شنید."
+        ],
+        "impact": "افزایش توجه به پروتکل‌های امنیتی پروازهای تجاری.",
+        "tag": "امنیتی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaklITHVSYlpXU3JnUk5YTEFkdDlfZERJTzBPX2pJak1RenlFUW9wbkQzRWdyTUNSZ1pzM3dHVF9HTjhGcFA3VmF1WDVwMmZuazI5OWxLTkY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaklITHVSYlpXU3JnUk5YTEFkdDlfZERJTzBPX2pJak1RenlFUW9wbkQzRWdyTUNSZ1pzM3dHVF9HTjhGcFA3VmF1WDVwMmZuazI5OWxLTkY",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790793636.0
+    },
+    {
         "id": "3a64bcfe6f",
         "title_fa": "خنثی‌سازی هواپیماربایی در پرواز دبی و تهدیدات مــقـامـات جـمـهـوری اسـلامـی",
         "title_en": "Israelis foil hijacking on Dubai flight; Iran warns US and regional allies TV7 Israel News 30 Sept.",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790584338.0
-    },
-    {
-        "id": "63a3a6f0ab",
-        "title_fa": "پوشش زنده اخبار جنگ احتمالی با جـ.ـهـ.ـو،ر،ی ا،س,لا,می",
-        "title_en": "Iran War: Latest News, Live Coverage and Video",
-        "summary": [
-            "شبکه ان‌بی‌سی نیوز بخش ویژه‌ای را برای رصد لحظه‌به‌لحظه تنش‌های نظامی با ا,ی,ر,ا,ن فعال کرده است.",
-            "تمرکز رسانه‌های بین‌المللی روی احتمال درگیری مستقیم نظامی به شدت افزایش یافته است."
-        ],
-        "impact": "بازتاب جهانی بحران نظامی، فشار روانی روی بازارهای مالی را بیشتر می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790583437.0
     }
 ]
