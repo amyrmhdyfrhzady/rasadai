@@ -819,6 +819,25 @@
         "timestamp": 1790734080.0
     },
     {
+        "id": "a9c942960c",
+        "title_fa": "پایان حضور ۲۰ ساله آمریکا در عراق و جشن شبه‌نظامیان نیابتی",
+        "title_en": "US troops complete Iraq exit, as Iran and its allies celebrate",
+        "summary": [
+            "پنتاگون خروج کامل آخرین نیروهای خود از پایگاه اربیل را اعلام کرد تا پرونده مداخله مستقیم نظامی آمریکا پس از دو دهه بسته شود.",
+            "گروه‌های نیابتی وابسته به ج.ا با مانور تبلیغاتی، این خروج را شکست تحقیرآمیز واشنگتن و حاصل فشارهای خود معرفی می‌کنند.",
+            "عقب‌نشینی نیروهای آمریکایی میدان را برای تسلط بیشتر شبه‌نظامیان بر موازنه قدرت در بغداد هموارتر می‌کند."
+        ],
+        "impact": "افزایش ریسک‌های امنیتی برای اقلیم کردستان و تثبیت نفوذ اهرم‌های نظامی وابسته به تهران در عراق.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/30/middleeast/us-military-withdrawal-iraq-intl",
+        "clean_url": "https://www.cnn.com/2026/09/30/middleeast/us-military-withdrawal-iraq-intl",
+        "image": "http://www.bing.com/th?id=ONUT.7Te_tf-NqWMmE4kXMQNb3Q&pid=News",
+        "timestamp": 1790734020.0
+    },
+    {
         "id": "dfb72982bf",
         "title_fa": "چالش اصلی ترامپ در مهار جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی؛ مانعی به نام چین",
         "title_en": "Trump’s Iran Strategy Has a China Problem | Opinion",
@@ -5479,23 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkg4dVZaRUxKcGtHVXhtbTZXQW9kekkzaUZkRDBSYVc3UjNOY2FwMDBYb3g2clY5WHY5aXhEdDcxUWoySlhZeV9hVWZIcmRZQXN1SjhESndPWkhScG1kemoxNDNyZ19ldU42Uzl3Nl9tcEk4QmdSckk4NmhtWnRCek1mNFM3cVl3UldDZkp2UkRfZVZNOG9DM1pwRl8",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790559120.0
-    },
-    {
-        "id": "9a398d571e",
-        "title_fa": "سقوط امیدهای دیپلماتیک؛ لرزه نفت بر اقتصاد هند",
-        "title_en": "Indian rupee, bonds vulnerable to oil pangs on waning Iran diplomacy hopes",
-        "summary": [
-            "بسته شدن مسیرهای دیپلماتیک با ایران، بازار مالی هند را تحت فشار شدید گذاشته است.",
-            "ارزش روپیه و اوراق قرضه هند در برابر شوک‌های احتمالی بازار نفت بسیار آسیب‌پذیر شده‌اند."
-        ],
-        "impact": "افزایش قیمت نفت به دلیل بن‌بست دیپلماتیک، تورم و فشار سنگینی بر اقتصاد هند وارد می‌کند.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWtCazQtV0cybUx3VUktREJ0Y202T2loTzhCNEUxMnZqZ24tWGdYZHVsamNJN0wtMEdXcllFazZhaTNkbThPelVQdVZLTkItT2NyR19vbnVIYUgydHJCeWZjM2w4UGxPQWNISHdVWUlUMzhJTkQ3WktSWlhpV1g3YTRYM3lkMG9sQ3dqbGpZaURtNURrRkNrRWVyLUlOV056cFpTOFd6N2RVc2puVjNZUlp6UmxSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWtCazQtV0cybUx3VUktREJ0Y202T2loTzhCNEUxMnZqZ24tWGdYZHVsamNJN0wtMEdXcllFazZhaTNkbThPelVQdVZLTkItT2NyR19vbnVIYUgydHJCeWZjM2w4UGxPQWNISHdVWUlUMzhJTkQ3WktSWlhpV1g3YTRYM3lkMG9sQ3dqbGpZaURtNURrRkNrRWVyLUlOV056cFpTOFd6N2RVc2puVjNZUlp6UmxSUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790559060.0
     }
 ]
