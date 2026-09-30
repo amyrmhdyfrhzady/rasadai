@@ -1,5 +1,23 @@
 [
     {
+        "id": "519df41bbd",
+        "title_fa": "سناریوی سیاه انرژی در خلیج فارس",
+        "title_en": "Gulf’s ‘Worst-Case Scenario’?",
+        "summary": [
+            "بازار انرژی منطقه خود را برای بدترین سناریوی ممکن آماده می‌کند.",
+            "ریسک‌های امنیتی می‌توانند شریان‌های حیاتی نفت و گاز را به‌شدت تحت تأثیر قرار دهند."
+        ],
+        "impact": "افزایش آنی قیمت نفت و تلاطم در بازارهای جهانی انرژی",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLdnoxNmdGeXFDNTBLeWFjQU9SODZUdGtUVE5wWmpJenU2dW8tTDAxVzVGRUVZRDk0cC0wOU5HVkpVRWpWS0wtczhQRUJ5WnBYZ291V181d0dOakNmeXQzUXY4SHczZW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLdnoxNmdGeXFDNTBLeWFjQU9SODZUdGtUVE5wWmpJenU2dW8tTDAxVzVGRUVZRDk0cC0wOU5HVkpVRWpWS0wtczhQRUJ5WnBYZ291V181d0dOakNmeXQzUXY4SHczZW8",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790721518.0
+    },
+    {
         "id": "2a89637968",
         "title_fa": "شکست مذاکرات ایران و آمریکا؛ زنگ خطر درگیری نظامی",
         "title_en": "U.S.-Iran talks yield little, raising odds of renewed combat",
@@ -5493,23 +5511,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RUMzZzczeTFtMzdpeF9SV1hxX2dvV2NJSU5rdlhjYkJfMkZfUU1JRERqbmlMdTluQ1FVTENjRGRBU01aNWtCeUVINnlDNy1JUGU5aTZwTGM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790502018.0
-    },
-    {
-        "id": "367af9d628",
-        "title_fa": "تهدید ناوهای آمریکایی توسط سپاه",
-        "title_en": "Iran live updates: IRGC will target US ships if fighting resumes, official says",
-        "summary": [
-            "مقام ارشد سپاه در اظهاراتی تازه تهدید کرد که اگر درگیری‌ها دوباره شروع شود، ناوهای آمریکایی هدف قرار می‌گیرند.",
-            "این لفاظی‌های نظامی بخشی از جنگ روانی مــتـو لیــان تــهـر ا ن برای مهار فشارهای واشنگتن است."
-        ],
-        "impact": "بال رفتن ریسک نظامی در آب‌های منطقه و واکنش احتمالی ارتش آمریکا",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-rejects-iran-offer-to-reopen-strait-of-hormuz/ar-AA2cEt54",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-rejects-iran-offer-to-reopen-strait-of-hormuz/ar-AA2cEt54",
-        "image": "http://www.bing.com/th?id=ONUT.6SIiMZeJns_fbYtIYex6wg&pid=News",
-        "timestamp": 1790502015.0
     }
 ]
