@@ -580,6 +580,25 @@
         "timestamp": 1790765700.0
     },
     {
+        "id": "7df73191d2",
+        "title_fa": "جهش قیمت نفت و بحران انرژی پس از حملات",
+        "title_en": "Fact Check: Congressional District 21 candidates on Iran war, gas prices",
+        "summary": [
+            "حملات نظامی آمریکا و اسرائیل به اهداف نظامی و مرگ رهبر ج.ا.ا و مقامات ارشد، جنگ را وارد فاز جدیدی کرد.",
+            "قیمت نفت به دلیل اختلال شدید در جریان انرژی و حملات به نفت‌کش‌ها از مرز ۱۰۰ دلار گذشت.",
+            "اعتراضات جهانی به گرانی سوخت شکل گرفته و فشارهای اقتصادی بر شهروندان افزایش یافته است."
+        ],
+        "impact": "افزایش قیمت بنزین و انرژی فشار سنگینی بر اقتصاد جهانی و معیشت مردم وارد کرده است.",
+        "tag": "انرژی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/fact-check-congressional-district-21-175428725.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/fact-check-congressional-district-21-175428725.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/87ae24a523e3bc0cce47b7aa787c4cb458316c717cc6a6d248cd29ab841f5d91/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffresno_bee_mcclatchy_articles_660%2Fdb0ef3f97e08fa4367f11169bdd45834.jpg",
+        "timestamp": 1790765640.0
+    },
+    {
         "id": "8db4305b38",
         "title_fa": "خروج کامل ارتش آمریکا از عراق به دستور ترامپ",
         "title_en": "ترامپ: آخرین نیروهای آمریکایی در حال ترک عراق هستند",
@@ -5471,24 +5490,6 @@
         "url": "https://www.dailynews.com/2026/09/28/democrats-south-carolina-midterms-2028-election/",
         "clean_url": "https://www.dailynews.com/2026/09/28/democrats-south-carolina-midterms-2028-election",
         "image": "http://www.bing.com/th?id=ONUT.afwE9pbUFfUZqA_-_6gqAQ&pid=News",
-        "timestamp": 1790585220.0
-    },
-    {
-        "id": "f54e3fbd45",
-        "title_fa": "جهش بازده اوراق قرضه آمریکا همزمان با بن‌بست با ایـران",
-        "title_en": "Treasury Yields Rise Amid U.S.-Iran Stalemate; German 10-Year Bund Yield Hits Highest Since 2009",
-        "summary": [
-            "افزایش تنش‌های میان واشنگتن و تهران بازارهای مالی جهانی را تحت تاثیر قرار داده است.",
-            "همزمان بازده اوراق قرضه آلمان نیز به بالاترین سطح از سال ۲۰۰۹ صعود کرده است."
-        ],
-        "impact": "افزایش نااطمینانی‌های سیاسی به رشد هزینه‌های استقراض در بازارهای جهانی دامن زده است.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGxQVnl5Mmpzd19HVGRkb21NSkFUMHlha3pSdms1SVdkbk1DZVN3T2FYN1gxNjZYbzYtYnB1eUp4bHM5RGVDM0JCZGlkejhvWjdkekZjSVFUQmVmVHN4bEhhMVFydTlGOFNMX1kydUkzY2VZMkdoS1BLUE1kWllfXzE4OG1UckpGZV84VUdESDJVdGVvTE4w?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGxQVnl5Mmpzd19HVGRkb21NSkFUMHlha3pSdms1SVdkbk1DZVN3T2FYN1gxNjZYbzYtYnB1eUp4bHM5RGVDM0JCZGlkejhvWjdkekZjSVFUQmVmVHN4bEhhMVFydTlGOFNMX1kydUkzY2VZMkdoS1BLUE1kWllfXzE4OG1UckpGZV84VUdESDJVdGVvTE4w",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790585220.0
     }
 ]
