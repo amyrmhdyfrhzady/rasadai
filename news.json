@@ -290,6 +290,24 @@
         "timestamp": 1790767898.0
     },
     {
+        "id": "62662ae836",
+        "title_fa": "ادعای ترامپ درباره فروپاشی نظامی ج.ا و تحولات زودهنگام",
+        "title_en": "ترامپ درباره ایران: خیلی زود اتفاقاتی می‌افتد",
+        "summary": [
+            "ترامپ از جنگ شش ماهه پنهان و آشکار با حکومت خبر داد و مدعي نابودی ساختار نظامی آن شد.",
+            "رئیس‌جمهور آمریکا تلفات طرف مقابل را سنگین توصیف کرد و از وقوع رخدادهای بزرگ در آینده نزدیک خبر داد."
+        ],
+        "impact": "افزایش شدید تنش‌های نظامی و روانی در معادلات منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609305028",
+        "clean_url": "https://www.iranintl.com/202609305028",
+        "image": "http://www.bing.com/th?id=ONUT.FuTRpss7vBJTdnOZFW_c7w&pid=News",
+        "timestamp": 1790767680.0
+    },
+    {
         "id": "c2d229f5b0",
         "title_fa": "فشار بن‌گویر برای تشدید حملات منطقه‌ای پس از حادثه فلای‌دبی",
         "title_en": "Ben Gvir says alleged flydubai attack shows Israel must intensify regional campaigns",
@@ -5476,23 +5494,5 @@
         "clean_url": "https://www.chinatechnews.com/2026/09/28/130024-trump-rejects-iran-deal-but-expects-talks-to-resume-this-week-crude-yields-and-dollar-rise-newsquawk-eu-market-open",
         "image": "https://newsquawk.com/uploads/ckeditor_wave/ck_images/1999e2ad-10e0-41d9-a12e-ea83bbc4190c.jpg",
         "timestamp": 1790575740.0
-    },
-    {
-        "id": "459de19bd8",
-        "title_fa": "بازگشایی پارکینگ‌های فرودگاه بن‌گوریون پس از مهار ازدحام",
-        "title_en": "Parking reopens at Ben Gurion Airport after congestion eases",
-        "summary": [
-            "ازدحام سنگین در پایانه مسافربری تل‌آویو فروکش کرد و پذیرش خودروها از سر گرفته شد.",
-            "محدودیت موقت اعمال‌شده ناشی از موج پروازها برطرف شده و دسترسی مسافران به فرودگاه عادی است."
-        ],
-        "impact": "تسهیل رفت‌وآمد مسافران و پایان گره‌های ترافیکی ورودی فرودگاه اصلی اسرائیل.",
-        "tag": "لجستیک",
-        "urgency": 1,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/other/parking-reopens-at-ben-gurion-airport-after-congestion-eases/ar-AA2d5N4K",
-        "clean_url": "https://www.msn.com/en-us/news/other/parking-reopens-at-ben-gurion-airport-after-congestion-eases/ar-AA2d5N4K",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790575451.0
     }
 ]
