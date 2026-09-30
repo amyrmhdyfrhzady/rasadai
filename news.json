@@ -220,6 +220,25 @@
         "timestamp": 1790718180.0
     },
     {
+        "id": "a66a66e3f8",
+        "title_fa": "نامه سرگشاده سپاه پاسداران به مردم آمریکا با چاشنی جنگ روانی",
+        "title_en": "'Men Enthroned At The White House Oppress Both Iranians And Americans': What Iran's IRGC Told US Public In Open Letter",
+        "summary": [
+            "سپاه پاسداران در یک نامه طولانی از مردم آمریکا خواسته سیاست‌های واشنگتن در قبال تهران و خاورمیانه را بازنگری کنند.",
+            "سخنگوی سپاه اذعان کرده این نامه تأثیری روی دولت آمریکا ندارد اما هدف آن اثرگذاری بر رای‌دهندگان آمریکایی است.",
+            "این اقدام در راستای تلاش‌های پروپاگاندای حکومتی برای یارگیری در داخل خاک ایالات متحده صورت گرفته است."
+        ],
+        "impact": "تلاش مذبوحانه دستگاه امنیتی برای تأثیرگذاری بر افکار عمومی غرب در آستانه تحولات سیاسی.",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/world/men-enthroned-at-the-white-house-oppress-both-iranians-and-americans-what-irans-irgc-told-us-public-in-open-letter",
+        "clean_url": "https://www.freepressjournal.in/world/men-enthroned-at-the-white-house-oppress-both-iranians-and-americans-what-irans-irgc-told-us-public-in-open-letter",
+        "image": "http://www.bing.com/th?id=ONUT.5iywJjHuSPzN9QJDniwahQ&pid=News",
+        "timestamp": 1790716860.0
+    },
+    {
         "id": "f255cf359a",
         "title_fa": "دور جدید تحریم‌های واشنگتن علیه جـ.ـهـ.ـو‌ری ا‌سـ.ـلا‌مـ.ـی",
         "title_en": "U.S. Fires Off New Iran ‘Outcast’ Sanctions",
@@ -5496,23 +5515,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWlFUWUlFZVlBbGNWQkNvWlRkMGNsRlRBQzdIbEN1cWJxSDZVWUI2cVcxdTlGUFFyUW1IeHVWN3RCZFRVdWlld3A5Mkk0bERKYjBUb0xCWGRmcUgyMUVCbFhQUEQ2SW9YNzdBc0FmUVU2eFRLWVZMWmJmSS10NnR5UEZUQnZBY3BPNFBpRldkUHJxaE8zeVFyZkNPZVjSAaIBQVVfeXFMTnVrbFFDcnEzbmxyQ280Qk9STF94YVFzdFBlWWJOWUo2UHB1SGtxZ2ZXX2JndklWZ3dMZ21fVGNUaVZXWkcxYTZMX1JaMVVFMEdXYnd2TlFRamxWQlhvS21pUUN0VF9EN0F6RjlyX0FkU1BkN1ZhQ0o5bUZBbUg5MUxhYW1xNTVhUzVYYjBPMlEtaUJ1R0JqcklRMjFXaHFac1Bn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790513895.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "مرور اخبار ورزشی و حواشی سیاسی آمریکا در گاردین",
-        "title_en": "US latest news",
-        "summary": [
-            "مسابقات موتورسواری و نتایج لیگ بسکتبال زنان آمریکا تیترهای ورزشی را به خود اختصاص داد.",
-            "نشست‌های خبری و خبرنامه هفتگی دولت ترامپ همچنان زیر ذره‌بین رسانه‌هاست."
-        ],
-        "impact": "بازتاب رویدادهای ورزشی و جریان‌شناسی سیاسی ایالات متحده در رسانه‌های بین‌المللی.",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1790513640.0
     }
 ]
