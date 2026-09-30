@@ -217,6 +217,25 @@
         "timestamp": 1790766480.0
     },
     {
+        "id": "87472e5f7e",
+        "title_fa": "سایه تهدیدهای ج.ا بر پایگاه هوایی انگلیس",
+        "title_en": "UK PM says ‘strong indications’ Iran tied to airbase 'bomb plot'",
+        "summary": [
+            "نخست‌وزیر بریتانیا از وجود سرنخ‌های جدی درباره نقش تهران در طراحی یک عملیات خرابکارانه در نزدیکی پایگاه نظامی فارفورد خبر داد.",
+            "پایگاه مذکور پیش‌تر برای عملیات جنگنده‌های آمریکایی علیه مواضع جمهوری اسلامی استفاده شده بود.",
+            "نهادهای امنیتی بریتانیا پنج شهروند این کشور را در ارتباط با این پرونده بازداشت و سپس آزاد کردند."
+        ],
+        "impact": "افزایش سطح هوشیاری امنیتی و نظامی پایگاه‌های ائتلاف در اروپا در برابر اقدامات خرابکارانه.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609303851",
+        "clean_url": "https://www.iranintl.com/en/202609303851",
+        "image": "http://www.bing.com/th?id=ONUT.zus-xxNehA-jwvnXP8OKNg&pid=News",
+        "timestamp": 1790765700.0
+    },
+    {
         "id": "885f5c2ca6",
         "title_fa": "نقص فنی و آسیب دیدگی دم هواپیمای فلای‌دبی",
         "title_en": "Photos of flydubai plane after landing show tail has broken rudder",
@@ -362,6 +381,24 @@
         "timestamp": 1790759394.0
     },
     {
+        "id": "d9643c1db0",
+        "title_fa": "پشتیبانی تسلیحاتی چین از برنامه موشکی تهران",
+        "title_en": "Chinese companies have supplied Iran with missile chemical ingredients and satellite images used in its strikes, the Journal reports",
+        "summary": [
+            "شرکت‌های چینی مواد شیمیایی پیش‌نساخت موشک و تصاویر ماهواره‌ای را به نظام تحویل داده‌اند.",
+            "این محموله‌ها همزمان با توافق‌های پشت پرده آتش‌بس به تهران منتقل شده است."
+        ],
+        "impact": "خنثی شدن اثر تحریم‌های تسلیحاتی و ادامه جریان تامین تجهیزات نظامی از پکن.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/chinese-companies-have-supplied-iran-with-missile-chemical-ingredients-and-satellite-images-used-in-its-strikes-the-journal-reports/ar-AA2dhJqQ",
+        "clean_url": "https://www.msn.com/en-us/news/other/chinese-companies-have-supplied-iran-with-missile-chemical-ingredients-and-satellite-images-used-in-its-strikes-the-journal-reports/ar-AA2dhJqQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790759247.0
+    },
+    {
         "id": "404b84c839",
         "title_fa": "خروج کامل نیروهای آمریکایی از عراق و خطر نفوذ ج.ا",
         "title_en": "US closes final base in Iraq as Iran eyes chance to fill vacuum",
@@ -379,6 +416,24 @@
         "clean_url": "https://www.yahoo.com/news/us/articles/us-closes-final-iraq-iran-160243966.html",
         "image": "https://s.yimg.com/lo/mysterio/api/b1216858b1619a8333279e2e836f88501340ae600018b5c0145adddf845b7185/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0351f2d62ac9992a0d58a095b3be8ba0.jpg",
         "timestamp": 1790758920.0
+    },
+    {
+        "id": "40794f6665",
+        "title_fa": "بسته ماندن تنگه هرمز در سایه ناکامی ناوگان آمریکا",
+        "title_en": "Vietnam taught America the limits of its power. Hormuz is teaching it again",
+        "summary": [
+            "تنگه هرمز عملاً به دلیل خطرات شدید امنیتی و نبود بیمه تجاری برای کشتی‌ها به حالت نیمه‌تعطیل درآمده است.",
+            "ناوگان جنگی ایالات متحده با وجود تسلط هوایی، نتوانسته امنیت عبور و مرور نفت‌کش‌ها را تضمین کند."
+        ],
+        "impact": "فلج شدن شریان‌های حیاتی صادرات انرژی در منطقه و بحران در بازار جهانی نفت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/opinion/vietnam-taught-america-limits-its-power-hormuz-teaching-it-again",
+        "clean_url": "https://www.middleeasteye.net/opinion/vietnam-taught-america-limits-its-power-hormuz-teaching-it-again",
+        "image": "https://www.middleeasteye.net/sites/default/files/images-story/2026-09-28T112819Z_711172295_RC26SNAHFL5K_RTRMADP_3_IRAN-CRISIS-HORMUZ(1).jpg",
+        "timestamp": 1790758740.0
     },
     {
         "id": "cdcf86c0a5",
@@ -707,6 +762,24 @@
         "clean_url": "https://www.iranintl.com/202609303749",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790747460.0
+    },
+    {
+        "id": "e6576a5b49",
+        "title_fa": "تلفات سنگین شبه‌نظامیان حوثی در جبهه‌های یمن",
+        "title_en": "Yemen: Houthi Losses Near 3,000 in Four Days",
+        "summary": [
+            "نیروهای مسلح یمن از کشته و زخمی شدن نزدیک به ۳ هزار نیروی وابسته به سپاه طی چهار روز درگیری خبر دادند.",
+            "حملات گسترده هوایی و زمینی مراکز فرماندهی و انبارهای تسلیحاتی حوثی‌ها را هدف قرار داده است."
+        ],
+        "impact": "تضعیف شدید بازوی نیابی منطقه‌ای جمهوری اسلامی در پی حملات سنگین ائتلاف.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5324172-yemen-houthi-losses-near-3000-four-days",
+        "clean_url": "https://english.aawsat.com/arab-world/5324172-yemen-houthi-losses-near-3000-four-days",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1802092_0.jpeg.webp?VersionId=._aiWM66VXjTKfHHhVBN0dWX0Bwlq3HC",
+        "timestamp": 1790746260.0
     },
     {
         "id": "b0eb204c76",
@@ -1109,6 +1182,24 @@
         "clean_url": "https://www.iranintl.com/202609309456",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790733180.0
+    },
+    {
+        "id": "838e324881",
+        "title_fa": "دستپاچگی سپاه پاسداران در آستانه انتخابات آمریکا",
+        "title_en": "Iranian Revolutionary Guard Corps lashes out at 'liar' Trump",
+        "summary": [
+            "سپاه پاسداران در یک نامه سرگشاده تلاش کرد با فرافکنی، رای‌دهندگان آمریکایی را علیه ترامپ تحریک کند.",
+            "تهران با این نامه اعتراف ضمنی به سقوط آزاد ارزش ریال و فروپاشی اقتصادی داخلی داشته است."
+        ],
+        "impact": "تشدید جنگ روانی نهادهای نظامی حکومت علیه ساختار سیاسی ایالات متحده.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/trump-iran-war-news-peace-talks-hormuz-09-29-26",
+        "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-news-peace-talks-hormuz-09-29-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/fc99427a21cff25e50b2a97a18eccce8.jpg?ve=1&tl=1",
+        "timestamp": 1790732700.0
     },
     {
         "id": "2c0b17819a",
@@ -5405,96 +5496,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-says-trump-choose-between-092115082.html",
         "image": "http://www.bing.com/th?id=ONUT.J28yku3gjM0Mh14hEuYfJQ&pid=News",
         "timestamp": 1790569920.0
-    },
-    {
-        "id": "957d66c4e3",
-        "title_fa": "ساخت بزرگ‌ترین کارخانه فولاد آمریکا و تغییرات کلیدی در اف‌بی‌آی",
-        "title_en": "Live updates: Trump to announce plans for a new steel plant in Iowa",
-        "summary": [
-            "دونالد ترامپ طرح ساخت یک کارخانه بزرگ فولاد ۱۵ میلیارد دلاری در آیووا را کلید می‌زند.",
-            "اندرو بیلی، معاون مدیر اف‌بی‌آی، از سمت خود کناره‌گیری کرد."
-        ],
-        "impact": "تقویت زنجیره تامین صنعتی آمریکا و تغییرات در ساختار امنیتی داخلی",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-midterm-elections-ai-iran-war-live-updates-rcna600167",
-        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-midterm-elections-ai-iran-war-live-updates-rcna600167",
-        "image": "http://www.bing.com/th?id=ONUT.i6m9LS4SIEeVaeDuQWXi8g&pid=News",
-        "timestamp": 1790569860.0
-    },
-    {
-        "id": "57837dbe30",
-        "title_fa": "پیش‌نویس توافق با آمریکا؛ از معافیت نفتی تا آزادی پول‌ها",
-        "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
-        "summary": [
-            "تهران از وجود پیش‌نویسی خبر داده که شامل معافیت از تحریم‌های نفتی و آزادی بلوکه‌شده‌هاست.",
-            "محدودیت‌های هسته‌ای در ازای امتیازات اقتصادی روی میز مذاکره قرار گرفته است."
-        ],
-        "impact": "احتمال تغییر روند بازار ارز در صورت تایید رسمی جزئیات توافق.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790569527.0
-    },
-    {
-        "id": "7a65f2e8cc",
-        "title_fa": "هدف‌گیری تاسیسات انرژی خلیج فارس توسط ج.ا",
-        "title_en": "Iran Targets Energy Facilities Across Gulf After Israel Struck its Key Gas Installations",
-        "summary": [
-            "حملات اخیر اسرائیل به تاسیسات گازی ک.ی.ا.ر.ت.ی.س را به واکنش و تهدید زیرساخت‌های انرژی منطقه وادار کرده است.",
-            "تنش‌ها وارد فاز خطرناکی شده و امنیت جریان انرژی در خلیج فارس به شدت به مخاطره افتاده است."
-        ],
-        "impact": "افزایش آنی قیمت نفت و شوک جدید به بازارهای جهانی انرژی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdYZVVpVG9TX0tHR0JhMnQ4V0dqTHdRVDJkLWd3bklDYWVsLU9EWWowUlQ3Rm5nUWlnNDc2cVpWRjlDa0tuX3ZyT2hKS1dOZlZfNGlCZFBaRnlpOGJ4dVFJWHhGeHBQc1Z4aF96VFFSR2VEMERLUHhHOEljekg0d21KQkRuX05uSEZYdmtTc1dZZU5lVXBZNnhjVVNneTJ1dWExMVlvZE4ySy1uQ0Rfc25PNFB1VnVHQ3Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdYZVVpVG9TX0tHR0JhMnQ4V0dqTHdRVDJkLWd3bklDYWVsLU9EWWowUlQ3Rm5nUWlnNDc2cVpWRjlDa0tuX3ZyT2hKS1dOZlZfNGlCZFBaRnlpOGJ4dVFJWHhGeHBQc1Z4aF96VFFSR2VEMERLUHhHOEljekg0d21KQkRuX05uSEZYdmtTc1dZZU5lVXBZNnhjVVNneTJ1dWExMVlvZE4ySy1uQ0Rfc25PNFB1VnVHQ3Mw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790569510.0
-    },
-    {
-        "id": "a345dfc678",
-        "title_fa": "مسعود پزشکیان: چالش با آمریکا به این سادگی‌ها حل نمی‌شود",
-        "title_en": "Iran president: US conflict can't 'be resolved that simply'",
-        "summary": [
-            "رئیس‌جمهور ایران اذعان کرد که تنش‌های عمیق میان تهران و واشنگتن با روندهای ساده دیپلماتیک حل‌شدنی نیست.",
-            "این موضع‌گیری نشان‌دهنده بن‌بست پابرجا در روابط دو کشور و تداوم نگاه مقابله‌ای در ساختار قدرت است."
-        ],
-        "impact": "تثبیت فضای تخاصم و ناامیدی از گشایش‌های سریع دیپلماتیک.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "news.sky.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGwxOHc3aXp1dy0tZGwtMlhSTmg0NEkyalV3cXktWld1YVhoMWJOY1dEUDNxdXZWMHd4T1VmZmUyY1BZd19kM01Oa3cxRDdOSUJIWklJdnZSV0NEamlZSU82MmJoMXZadzI5MWp1VzVWOFdxdXhpd3c0QWdpSU9WYXBNMUlZT3FERGtWYW41QWpzZW9FOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGwxOHc3aXp1dy0tZGwtMlhSTmg0NEkyalV3cXktWld1YVhoMWJOY1dEUDNxdXZWMHd4T1VmZmUyY1BZd19kM01Oa3cxRDdOSUJIWklJdnZSV0NEamlZSU82MmJoMXZadzI5MWp1VzVWOFdxdXhpd3c0QWdpSU9WYXBNMUlZT3FERGtWYW41QWpzZW9FOUE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790569310.0
-    },
-    {
-        "id": "f846188b0a",
-        "title_fa": "بازداشت ۵ نفر در نزدیکی پایگاه بمب‌افکن‌های آمریکا در انگلیس",
-        "title_en": "UK probes possible Iran link to suspected terror plot at base hosting US forces",
-        "summary": [
-            "پلیس انگلیس ۵ جوان را در نزدیکی پایگاه فیرفورد که محل استقرار بمب‌افکن‌های بی-۱ آمریکاست دستگیر کرد.",
-            "احتمال ارتباط این افراد با ج.ا.ا به عنوان بخشی از عملیات‌های خرابکارانه در خاک اروپا بررسی می‌شود.",
-            "این رویداد نشان‌دهنده افزایش حساسیت‌های امنیتی نسبت به فعالیت‌های برون‌مرزی عوامل وابسته به تهران است."
-        ],
-        "impact": "افزایش سطح تدابیر امنیتی در پایگاه‌های استراتژیک ناتو و احتمال تشدید فشارهای دیپلماتیک بر تهران.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/uk-probes-possible-iran-link-to-suspected-terror-plot-at-base-hosting-us-forces/ar-AA2d7rjx",
-        "clean_url": "https://www.msn.com/en-us/news/other/uk-probes-possible-iran-link-to-suspected-terror-plot-at-base-hosting-us-forces/ar-AA2d7rjx",
-        "image": "http://www.bing.com/th?id=ONUT.Ya-uwUbuKF35YxcC3DSoPg&pid=News",
-        "timestamp": 1790567580.0
     }
 ]
