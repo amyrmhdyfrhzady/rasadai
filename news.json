@@ -254,6 +254,24 @@
         "timestamp": 1790753358.0
     },
     {
+        "id": "76bdb3644d",
+        "title_fa": "هشدار نتانیاهو به امارات درباره حملات جدید تهران",
+        "title_en": "سی‌ان‌ان: نتانیاهو به رییس امارات گفت تهران به‌زودی دست به حملات جدیدی در منطقه می‌‌زند",
+        "summary": [
+            "نخست‌وزیر اسرائیل اطلاعات تازه‌ای درباره ازسرگیری برنامه هسته‌ای و فعالیت‌های سایت کوه کلنگ به رییس امارات ارائه کرد.",
+            "محسن رضایی و وزارت خارجه جمهوری اسلامی به شدت به این سفر واکنش نشان داده و تهدیدات لفظی مطرح کردند."
+        ],
+        "impact": "تنش شدید دیپلماتیک و امنیتی میان تهران و ابوظبی بر سر همکاری با اسرائیل.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609305574",
+        "clean_url": "https://www.iranintl.com/202609305574",
+        "image": "http://www.bing.com/th?id=ONUT.rgxEjDe4JvxGWDCCifbOOQ&pid=News",
+        "timestamp": 1790752920.0
+    },
+    {
         "id": "dba9be384e",
         "title_fa": "رد قاطع تخفیف تحریمی به ایران توسط ترامپ",
         "title_en": "Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
@@ -565,6 +583,24 @@
         "timestamp": 1790739876.0
     },
     {
+        "id": "a3534420ce",
+        "title_fa": "نامه سرگشاده سپاه به مردم آمریکا و ادعای شکست ترامپ",
+        "title_en": "Iran Tells US Public Trump's War Has Failed",
+        "summary": [
+            "سپاه در اقدامی کم‌سابقه مستقیماً از شهروندان آمریکایی خواست سیاست‌های واشنگتن را به چالش بکشند.",
+            "مقامات نظامی ایران مدعی شدند فشار حداکثری و اهداف نظامی ایالات متحده در منطقه با شکست مواجه شده است."
+        ],
+        "impact": "تلاش برای جنگ روانی و تأثیرگذاری بر افکار عمومی آمریکا همزمان با فشارهای سیاسی.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Kashmir Observer",
+        "url": "https://kashmirobserver.net/2026/09/30/iran-tells-us-public-trumps-war-has-failed/",
+        "clean_url": "https://kashmirobserver.net/2026/09/30/iran-tells-us-public-trumps-war-has-failed",
+        "image": "https://media.kashmirobserver.net/wp-content/uploads/2026/09/30105141/WANA-IRGC-Spokesman-press-conference-6.jpg",
+        "timestamp": 1790739180.0
+    },
+    {
         "id": "3c9dbc1550",
         "title_fa": "نقش کلیدی لبنان در میز مذاکرات تهران و واشنگتن",
         "title_en": "Letters | Why Lebanon is crucial to Iran’s negotiations with the US",
@@ -746,6 +782,24 @@
         "clean_url": "https://www.newsweek.com/trumps-iran-strategy-has-a-china-problem-opinion-12500388",
         "image": "http://www.bing.com/th?id=ONUT.wsiQEVOxtTw-9xjssUAXcQ&pid=News",
         "timestamp": 1790733660.0
+    },
+    {
+        "id": "46f15a1a41",
+        "title_fa": "تهدید و فشار بر دانشجوی منتقد سپاه در آمریکا",
+        "title_en": "'I never asked about regime change': Student speaks out after El-Sayed exchange",
+        "summary": [
+            "یک دانشجوی ایرانی-آمریکایی پس از پرسش سخت از یک نامزد سنا درباره سپاه، هدف تهدید و آزار قرار گرفت.",
+            "این دانشجو از سرکوب‌های خانوادگی خود توسط رژیم پرده برداشته بود."
+        ],
+        "impact": "افزایش ترس و ارعاب حامیان جمهوری اسلامی علیه منتقدان در خاک آمریکا.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609306000",
+        "clean_url": "https://www.iranintl.com/en/202609306000",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/cf3f83380e964c9229dd02522e23b88557c16530-1152x552.png?rect=248,82,798,419&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790733300.0
     },
     {
         "id": "01f0692989",
@@ -5445,60 +5499,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4VjdFYlJuN01SNXRQUDJtdG9scVJmLXZEM2lxeTVucEVjQ2tyUWgzYkxCb2RmLXJMVVZfV2RmblhUb3lUUGRYaGNNLU5mUW5PY3BTLUFOQXdsbUlOaFdXeUM0R3VOb1BqWHNhZnFEX1R5SDVMcXgtdDFB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790556785.0
-    },
-    {
-        "id": "7d02e2b95a",
-        "title_fa": "آمادگی ارتش ج.ا برای دفاع و تداوم تهدیدات منطقه‌ای",
-        "title_en": "Iran’s army says forces are ready to defend country",
-        "summary": [
-            "معاون هماهنگ‌کننده ارتش از آمادگی کامل نیروهای نظامی و مردمی برای مقابله با دشمنان خبر داد.",
-            "مقام‌های نظامی بار دیگر بر کنترل خود بر آب‌های شمالی دریای عمان و تنگه هرمز تأکید کردند.",
-            "آمار وزیر انرژی آمریکا نشان می‌دهد جریان صادرات نفت از تنگه هرمز با وجود تنش‌ها همچنان بالاست."
-        ],
-        "impact": "تنش در آب‌های جنوبی ایران همچنان بالاست اما صادرات نفت جریان دارد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609288473",
-        "clean_url": "https://www.iranintl.com/en/202609288473",
-        "image": "http://www.bing.com/th?id=ONUT.HSYbJKR91aWxj0rEUWpJ3w&pid=News",
-        "timestamp": 1790554860.0
-    },
-    {
-        "id": "7b15d868d0",
-        "title_fa": "چرا قیمت بلیت هواپیما پایین نمی‌آید؟",
-        "title_en": "High airfares could stick around even if jet fuel prices fall",
-        "summary": [
-            "ایرلاین‌های بزرگ آمریکایی تأکید می‌کنند که حتی با کاهش قیمت سوخت، هزینه‌های پرواز بالا باقی خواهد ماند.",
-            "نوسانات شدید بازار انرژی برنامه‌ریزی بلندمدت شرکت‌های هواپیمایی را مختل کرده است."
-        ],
-        "impact": "ادامه فشار مالی بر مسافران و ثبات نسبی هزینه‌های سفر",
-        "tag": "ارز",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/airlines-airfares-jet-fuel-prices-iran-war-0d5d453efa28cf7098e57f7f783574dc",
-        "clean_url": "https://apnews.com/article/airlines-airfares-jet-fuel-prices-iran-war-0d5d453efa28cf7098e57f7f783574dc",
-        "image": "http://www.bing.com/th?id=ONUT.b0GQQgH9gnC1cda2CO0hEQ&pid=News",
-        "timestamp": 1790553780.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "بازسازی صحنه مرگ دیوید روسی در رم",
-        "title_en": "David Rossi, today the simulation of the defenestration: \"Attacked by at least two people\". Vinci: \"Towards a solution to the case\"",
-        "summary": [
-            "کارشناسان در حال بازسازی دقیق صحنه سقوط دیوید روسی برای کشف حقیقت ماجرا هستند.",
-            "فرضیه حمله دو نفر به وی، مسیر تحقیقات کمیسیون پارلمانی را تغییر داده است."
-        ],
-        "impact": "احتمال بازگشایی پرونده قتل پس از سال‌ها بررسی.",
-        "tag": "بین‌الملل",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260928KRONOS-202609121419216183_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1790553600.0
     }
 ]
