@@ -1,5 +1,24 @@
 [
     {
+        "id": "5ca68433da",
+        "title_fa": "کوری اطلاعاتی آژانس درباره برنامه هسته‌ای ایران",
+        "title_en": "Iran's Nuclear Compliance Can No Longer Be Independently Verified",
+        "summary": [
+            "بازرسان بین‌المللی دیگر توانایی راستی‌آزمایی مستقل فعالیت‌های اتمی ایران را ندارند.",
+            "توقف نظارت‌ها، امکان ارزیابی دقیق از میزان غنی‌سازی و ذخایر حساس را از بین برده است.",
+            "این بی‌خبری بازدارندگی را تضعیف کرده و احتمال اقدامات ضربتی اسرائیل یا آمریکا را بالا می‌برد."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی و نزدیک‌تر شدن پرونده به مکانیسم ماشه.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Legis1",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nQzVkbW9zZTBNcS1KdTRDY1ZBcXJLWjgxYXo2SjAzOWs4cTZkWkdKZVFIaHJsWkN3bDQwRWE3SGhEMlh2R0FqWEVBMXpMMWpzcjczNTZGYTJSRFM1aVo4S1hmck83S3ZxQ3F2LTl0c3pIZzl5SFlvdXd1aVFBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nQzVkbW9zZTBNcS1KdTRDY1ZBcXJLWjgxYXo2SjAzOWs4cTZkWkdKZVFIaHJsWkN3bDQwRWE3SGhEMlh2R0FqWEVBMXpMMWpzcjczNTZGYTJSRFM1aVo4S1hmck83S3ZxQ3F2LTl0c3pIZzl5SFlvdXd1aVFBQQ",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790773040.0
+    },
+    {
         "id": "0a4cae27c9",
         "title_fa": "ادعای اسرائیل درباره احتمال «حمله تروریستی» در پرواز فلای‌دبی",
         "title_en": "Israeli officials say diverted flydubai incident may be attempted 'terror attack'",
@@ -5486,23 +5505,5 @@
         "clean_url": "https://www.iranintl.com/202609274029",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790547360.0
-    },
-    {
-        "id": "d399e8ffd1",
-        "title_fa": "احتمال حمله نظامی تـرامپ به جـمهوری اسـلامی پیش از انتخابات",
-        "title_en": "Donald Trump refuses to rule out striking Iran before the midterms as tensions deepen",
-        "summary": [
-            "دۆنالد تـرامپ هرگونه اقدام نظامی علیه ایران را پیش از انتخابات میان‌دوره‌ای نوامبر رد نکرد.",
-            "افزایش تنش‌ها احتمال فعال شدن گزینه نظامی را روی میز کاخ سفید پررنگ‌تر کرده است."
-        ],
-        "impact": "سایه جنگ و اقدام نظامی علیه مواضع حاکمیت سنگین‌تر می‌شود.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "News24 on MSN",
-        "url": "https://www.msn.com/en-au/news/other/donald-trump-refuses-to-rule-out-striking-iran-before-the-midterms-as-tensions-deepen/ar-AA2d5UcU?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/donald-trump-refuses-to-rule-out-striking-iran-before-the-midterms-as-tensions-deepen/ar-AA2d5UcU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790547060.0
     }
 ]
