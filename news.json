@@ -1,5 +1,24 @@
 [
     {
+        "id": "a477acc467",
+        "title_fa": "بحران دارو و قیمت‌های نجومی زیر سایه تحریم‌ها",
+        "title_en": "Iranians face soaring prices for medicine as the US blockade and sanctions hit hard",
+        "summary": [
+            "فشار تحریم‌ها و بسته شدن مسیرهای مالی، بازار داروی ایران را فلج کرده است.",
+            "بیماران ایرانی به دلیل گرانی سرسام‌آور داروهای حیاتی، با خطر جدی جانی روبرو هستند.",
+            "سیاست فشار حداکثری دسترسی به اقلام پزشکی را به شدت محدود کرده است."
+        ],
+        "impact": "فروپاشی توان خرید بیماران برای تهیه داروهای خاص و کمیاب",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGNlaXp3N09OOHdLNzB6ZzRLbEhIMnAyT203S0JnQ0JQVDBCU3lCcVdSUTlNREFkRzRZQWJtT05fTnhkRWM3N3BSME1rTEM0NlE5eTlYNm9RdkxXbU5qQWFrYnNvOG5wMkFIdzlSeHF6d2dyUXdhbGg4WUkyc212NzMtZnJxanpYTkRTWmFBcDdCRjc4NHlIaUtJTWxyRURoVzNya1VkaXp1cFB6Mm1qSEdjbGNkVG1EQXgw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGNlaXp3N09OOHdLNzB6ZzRLbEhIMnAyT203S0JnQ0JQVDBCU3lCcVdSUTlNREFkRzRZQWJtT05fTnhkRWM3N3BSME1rTEM0NlE5eTlYNm9RdkxXbU5qQWFrYnNvOG5wMkFIdzlSeHF6d2dyUXdhbGg4WUkyc212NzMtZnJxanpYTkRTWmFBcDdCRjc4NHlIaUtJTWxyRURoVzNya1VkaXp1cFB6Mm1qSEdjbGNkVG1EQXgw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790741915.0
+    },
+    {
         "id": "3c9dbc1550",
         "title_fa": "نقش کلیدی لبنان در میز مذاکرات تهران و واشنگتن",
         "title_en": "Letters | Why Lebanon is crucial to Iran’s negotiations with the US",
@@ -5495,23 +5514,5 @@
         "clean_url": "https://www.theguardian.com/us-news",
         "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
         "timestamp": 1790513640.0
-    },
-    {
-        "id": "f3b54c46bd",
-        "title_fa": "موضع‌گیری بریکس و سازمان همکاری شانگهای درباره ایران",
-        "title_en": "SCO and BRICS adopt statements on Iran and sanctions — South China Morning Post",
-        "summary": [
-            "حمایت کلامی این بلوک‌ها از ج.ا در برابر تحریم‌ها، بیشتر جنبه نمادین دارد تا عملیاتی.",
-            "این کشورها با وجود نزدیکی به تهران، تمایلی به پرداخت هزینه اقتصادی برای دور زدن تحریم‌های آمریکا ندارند."
-        ],
-        "impact": "تلاش ج.ا برای خروج از انزوای دیپلماتیک با تکیه بر بلوک‌های غیرغربی که کارایی چندانی در برابر تحریم‌های بانکی ندارد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "UA.NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHRVTlhLcUNKTUhPeU13NW5ZdWYzai1PZHhJS1RmVktodmM4SlRPTTRqSjdGUFlJeU96WUxfV2taeWxya29EQ3M5emlOWkt3NHVTaFlfY0tqQ2t3Y3U0MW5xSkowYWMwM0RNa2VUVV9OT0VjSV9vanNJT3dtWHJQenA0NDB3OHhaQ0hxTnFqd2hqOVQtbkhRNWRiMERVT1B2eVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHRVTlhLcUNKTUhPeU13NW5ZdWYzai1PZHhJS1RmVktodmM4SlRPTTRqSjdGUFlJeU96WUxfV2taeWxya29EQ3M5emlOWkt3NHVTaFlfY0tqQ2t3Y3U0MW5xSkowYWMwM0RNa2VUVV9OT0VjSV9vanNJT3dtWHJQenA0NDB3OHhaQ0hxTnFqd2hqOVQtbkhRNWRiMERVT1B2eVE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790513226.0
     }
 ]
