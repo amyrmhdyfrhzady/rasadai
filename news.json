@@ -18,6 +18,25 @@
         "timestamp": 1790881676.0
     },
     {
+        "id": "cbc0448341",
+        "title_fa": "تحریم‌های جدید آمریکا علیه خودرو و راه‌آهن ایـران",
+        "title_en": "US expands Iran sanctions to auto, rail sectors, Russia-linked A7 network also under scanner",
+        "summary": [
+            "آمریکا شرکت‌های خودروسازی سایپا و ایران‌خودرو را که سهم بزرگی از بازار داخلی دارند، به دلیل ارتباط با بخش‌های نظامی تحریم کرد.",
+            "وزارت خزانه‌داری آمریکا اعلام کرد که صنایع خودرو و راه‌آهن به عنوان ابزارهای درآمدی و لجستیکی برای دور زدن تحریم‌ها استفاده می‌شوند.",
+            "شبکه مالی مرتبط با روسیه که به دور زدن تحریم‌ها کمک می‌کرد نیز هدف این دور از اقدامات تنبیهی قرار گرفت."
+        ],
+        "impact": "فلج شدن بیشتر شریان‌های مالی و لجستیکی حاکمیت و کاهش توان صادراتی و تولیدی خودرو.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/us-expands-iran-sanctions-to-auto-rail-sectors-russia-linked-a7-network-also-under-scanner-article-14043197.html",
+        "clean_url": "https://www.moneycontrol.com/world/us-expands-iran-sanctions-to-auto-rail-sectors-russia-linked-a7-network-also-under-scanner-article-14043197.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260928174637_US-Iran-Flags.jpg",
+        "timestamp": 1790881140.0
+    },
+    {
         "id": "eb1f625520",
         "title_fa": "پیشنهاد بازرسان هسته ای در ازای برداشتن تحریم ها",
         "title_en": "Iran Offers to Allow Nuclear Inspectors If Sanctions Are Eased",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-supreme-leader-says-us-won-t-dare-to-advance-beyond-arabian-sea-while-trump-confirms-talks-with-mediators/ar-AA2daX4W",
         "image": "http://www.bing.com/th?id=ONUT.npBtlbBiGnJDQKoyvn6Npw&pid=News",
         "timestamp": 1790643280.0
-    },
-    {
-        "id": "7909b17e88",
-        "title_fa": "تهدید دوباره تنگه هرمز و بن‌بست دیپلماتیک",
-        "title_en": "Irán amenaza con más ataques mientras espera la respuesta de EU sobre Ormuz",
-        "summary": [
-            "مقامات جـ.هـ.اوری اسلامی هم‌زمان با تهدید زیرساخت‌های منطقه، منتظر پاسخ واشنگتن به طرح خود هستند.",
-            "کاخ سفید روی ادامه فشار حداکثری اقتصادی تمرکز کرده و طرح‌های تـ.هـ.رآن را جدی نمی‌گیرد."
-        ],
-        "impact": "افزایش ریسک امنیتی در آب‌های جنوب و تشدید تنش‌های منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "El Economista",
-        "url": "https://www.eleconomista.com.mx/internacionales/iran-amenaza-ataques-espera-respuesta-eu-sobre-ormuz-20260929-835843.html",
-        "clean_url": "https://www.eleconomista.com.mx/internacionales/iran-amenaza-ataques-espera-respuesta-eu-sobre-ormuz-20260929-835843.html",
-        "image": "http://www.bing.com/th?id=ONUT.X5epj6RFJTH5dt_Edurm_Q&pid=News",
-        "timestamp": 1790640960.0
     }
 ]
