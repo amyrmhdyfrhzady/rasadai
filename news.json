@@ -296,6 +296,24 @@
         "timestamp": 1790812913.0
     },
     {
+        "id": "f97e778f5a",
+        "title_fa": "درگیری خونین در اطراف پایتخت و ادعای خنثی‌سازی عملیات",
+        "title_en": "Iran war live: IRGC says 6 'terrorists' killed after planning bomb attack",
+        "summary": [
+            "نیروهای امنیتی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی در منطقه‌ای نزدیک تهران مدعی هلاکت شش نفر شدند.",
+            "حاکمیت این افراد را به تلاش برای بمب‌گذاری متهم کرده است، اما جزئیات مستقل این درگیری نامشخص است."
+        ],
+        "impact": "افزایش فضای امنیتی و سرکوب شدید در شهرهای اطراف تهران.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26261331274287-1789928452.jpg?resize=1920%2C1440",
+        "timestamp": 1790812800.0
+    },
+    {
         "id": "5a2624b5a6",
         "title_fa": "روایت افشاگرانه از افغانستان و حواشی امنیتی پرواز دبی-تل‌آویو",
         "title_en": "Vittorio Sgarbi hospitalized at Gemelli Polyclinic",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUm1uNXJfSFBYbkZYWFRITHBPTXhGVmg5ZXVkYjZ4NVJFZWRKNzBZM1RrMXBnLWZteTc2U2M2SnZiT1RYUUUzUW4weVlZUFFwelg5TnpjQ0xXTUR4bkFremRQUHVKMFFCTHZ0S2V6OFFxZXFXTWtn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790608117.0
-    },
-    {
-        "id": "8e63bbd040",
-        "title_fa": "پایان سفر نیویورک بدون دستاورد مشخص؛ دیدار با میانجی قطری",
-        "title_en": "اسماعیل بقائی می‌گوید جمهوری اسلامی ملاحظات خود را به میانجی قطری منعکس کرده است",
-        "summary": [
-            "سخنگوی وزارت خارجه ج م ه و ر ی ا س ل ا م ی از دیدار با میانجی قطری و انتقال مواضع خبر داد.",
-            "تهران مدعی شد هیچ گفت‌وگوی جدی درباره جزئیات توافق انجام نشده و گزارش‌های رسانه‌ای گمانه‌زنی است."
-        ],
-        "impact": "بن‌بست دیپلماتیک در روابط با غرب همچنان پابرجا مانده است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609283502",
-        "clean_url": "https://www.iranintl.com/202609283502",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790606460.0
     }
 ]
