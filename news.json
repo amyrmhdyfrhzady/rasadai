@@ -236,6 +236,25 @@
         "timestamp": 1790789987.0
     },
     {
+        "id": "9b71d2b54b",
+        "title_fa": "انهدام ماشین جنگی ج.ا توسط ارتش آمریکا",
+        "title_en": "وزیر جنگ آمریکا: بخش‌های عمده‌ای از توان نظامی حکومت ایران را نابود کرده‌ایم",
+        "summary": [
+            "پنتاگون مدعی نابودی بخش بزرگی از توان نظامی و پدافندی ج.ا شد.",
+            "برنامه اتمی حاکمیت زیر ضربات سنگین نظامی دچار فلج کامل شد.",
+            "واشنگتن هرگونه دستیابی تهران به تسلیحات اتمی را خط قرمز قطعی خود دانست."
+        ],
+        "impact": "تخریب زیرساخت‌های نظامی و اتمی، دست برتر واشنگتن در معادله امنیتی منطقه را تثبیت کرد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/202610013272",
+        "clean_url": "https://www.iranintl.com/202610013272",
+        "image": "http://www.bing.com/th?id=ONUT.dBZhvqUGp9TyfI2LIRCM8g&pid=News",
+        "timestamp": 1790788980.0
+    },
+    {
         "id": "5a363744e5",
         "title_fa": "بحران نفت ایران و تقابل چین با کمبود انرژی",
         "title_en": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/cornell-rape-allegations-prompt-prosecutor-to-reopen-criminal-investigation/ar-AA2d73pK",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790592251.0
-    },
-    {
-        "id": "233043a42a",
-        "title_fa": "ادعای تهران درباره خروج ناوهای آمریکایی از تنگه هرمز",
-        "title_en": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-        "summary": [
-            "حکومت ادعا می‌کند حملات موشکی و پهپادی در آب‌های جنوبی، آمریکا را وادار به عقب‌نشینی ناوهایش کرده است.",
-            "رسانه‌های آمریکایی از آسیب دیدن تعدادی از نظامیان این کشور بر اثر اصابت موشک کروز ضدکشتی در ماه گذشته خبر داده‌اند."
-        ],
-        "impact": "افزایش تنش‌های نظامی و درگیری‌های پنهان در آبراه حیاتی خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions",
-        "clean_url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab9331d-1790522141.jpg?resize=1920%2C1440",
-        "timestamp": 1790592180.0
     }
 ]
