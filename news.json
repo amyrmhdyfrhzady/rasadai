@@ -165,6 +165,25 @@
         "timestamp": 1790820000.0
     },
     {
+        "id": "92ccc1348b",
+        "title_fa": "درگیری سنگین و صدای انفجار در زاهدان",
+        "title_en": "درگیری شدید در زاهدان؛ سپاه پاسداران از کشته شدن ۶ فرد مسلح خبر داد",
+        "summary": [
+            "صدای شلیک ممتد و آرپی‌جی از نخستین ساعات بامداد در منطقه منزل‌آب زاهدان شنیده شد.",
+            "س\\پ\\ا\\ه از کشته شدن ۶ نفر خبر داده، اما منابع محلی از تداوم درگیری‌های مسلحانه خبر می‌دهند.",
+            "استان سیستان و بلوچستان در هفته‌های اخیر صحنه درگیری‌های مکرر مسلحانه بوده است."
+        ],
+        "impact": "افزایش فضای امنیتی و تنش نظامی در جنوب شرق کشور.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610018381",
+        "clean_url": "https://www.iranintl.com/202610018381",
+        "image": "http://www.bing.com/th?id=ONUT.m22qwhOkJCmAiN4DOs16Lg&pid=News",
+        "timestamp": 1790817120.0
+    },
+    {
         "id": "c2ee269c9b",
         "title_fa": "رژه پهپادهای شاهد در تهران؛ نمایش قدرت توخالی سپاه",
         "title_en": "Iran parades Shahed drones through capital",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://www.iranintl.com/202609281137",
         "image": "http://www.bing.com/th?id=ONUT.54wMPI7Pr75-eBBPeny7BA&pid=News",
         "timestamp": 1790608980.0
-    },
-    {
-        "id": "04ad699d7f",
-        "title_fa": "چرخش ناگهانی نامزدهای متمایل به ترامپ در آستانه انتخابات",
-        "title_en": "Must-Win MAGA Candidate Executes Screeching Trump Reverse",
-        "summary": [
-            "برخی نامزدهای تندرو متمایل به ترامپ برای جلب آرای خاکستری، مواضع افراطی خود را تغییر داده و به سمت میانه‌روی چرخش کرده‌اند.",
-            "این تاکتیک‌های فرصت‌طلبانه نشان می‌دهد که وفاداری به ترامپ تا جایی خریدار دارد که صندلی قدرت آن‌ها در واشنگتن را تهدید نکند."
-        ],
-        "impact": "سردرگمی بدنه رای‌دهندگان تندرو و احتمال کاهش مشارکت در برخی حوزه‌های کلیدی.",
-        "tag": "سیاست_آمریکا",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/must-win-maga-candidate-executes-screeching-trump-reverse/",
-        "clean_url": "https://www.thedailybeast.com/must-win-maga-candidate-executes-screeching-trump-reverse",
-        "image": "http://www.bing.com/th?id=ONUT.r1-TpLfNOwTLH7qZpDV1fQ&pid=News",
-        "timestamp": 1790608860.0
     }
 ]
