@@ -1,5 +1,23 @@
 [
     {
+        "id": "d1eec9bb70",
+        "title_fa": "شکست در شورای امنیت بر سر تمدید تحریم‌های اتمی جـ.ـمـ.ـهـ.ـوری اسـ.ـلا‌مـ.ـی",
+        "title_en": "UNSC Veto Splits Assembly Over Iran Sanctions Panel Renewal",
+        "summary": [
+            "وتوی چین و روسیه مانع از تمدید ماموریت گروه کارشناسی نظارت بر تحریم‌های بـ.ـنـ.ـیـ.ـاد‌یـ.ـن علیه تهران شد.",
+            "اختلاف جدی میان اعضای دائم شورای امنیت درباره فعال شدن مکانیزم ماشه، عملاً شورای امنیت را فلج کرده است."
+        ],
+        "impact": "تضعیف مکانیسم‌های نظارتی بین‌المللی بر فعالیت‌های اتمی تهران",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Mirage News",
+        "url": "https://www.miragenews.com/unsc-veto-splits-assembly-over-iran-sanctions-1753924/",
+        "clean_url": "https://www.miragenews.com/unsc-veto-splits-assembly-over-iran-sanctions-1753924",
+        "image": "https://press.un.org/themes/custom/un3_press/assets/images/og-default.jpg",
+        "timestamp": 1790890260.0
+    },
+    {
         "id": "ca0d8f5f35",
         "title_fa": "افشای طرح حـ.ـکـ.ـومـ.ـت برای حمله به مواضع آمریکا در بریتانیا",
         "title_en": "Mullin says US 'knew' Iran would try to attack American assets in UK - ABC News",
@@ -5474,24 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202609290526",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/6ce97b1627d04ea8a3463bc1aa7993ca4adc8b8b-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790647500.0
-    },
-    {
-        "id": "9799960149",
-        "title_fa": "هشدار صریح ترامپ درباره احتمال حمله نظامی مجدد به ایران",
-        "title_en": "Iran-US War LIVE Updates: No Talks, Seven Conditions: Iran Rules Out US Negotiations Over Strait of Hormuz",
-        "summary": [
-            "واشنگتن طرح هفت‌روزه تهران برای بازگشایی تنگه هرمز و استارت مذاکرات را به دلیل شرط آزادسازی پیش‌شرطی دارایی‌ها قاطعانه رد کرد.",
-            "دونالد ترامپ احتمال اجرای حملات نظامی جدید علیه ایران پیش از انتخابات میان‌دوره‌ای را رد نکرده و دست خود را باز گذاشته است.",
-            "اصرار تهران بر رفع یکباره تحریم‌ها، هرگونه توافق موقت و میانجی‌گری در خلیج فارس را به بن‌بست کامل کشاند."
-        ],
-        "impact": "بالا رفتن شدید ریسک درگیری مستقیم نظامی در خلیج فارس و احتمال جهش ناگهانی قیمت نفت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-war-live-today-tehran-warns-of-doomsday-war-as-trump-rejects-iran-peace-roadmap-hormuz-crisis-deepens-and-oil-prices-rise-middle-east-news-liveblog-156238991",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-war-live-today-tehran-warns-of-doomsday-war-as-trump-rejects-iran-peace-roadmap-hormuz-crisis-deepens-and-oil-prices-rise-middle-east-news-liveblog-156238991",
-        "image": "https://images.timesnownews.com/thumb/msid-156238991,thumbsize-339608,width-1280,height-720,resizemode-75/156238991.jpg",
-        "timestamp": 1790646120.0
     }
 ]
