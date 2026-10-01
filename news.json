@@ -1,5 +1,23 @@
 [
     {
+        "id": "5f4b06be15",
+        "title_fa": "جنگ قدرت در بالاترین سطوح حاکمیت در تهران",
+        "title_en": "The Political Power Battle in Tehran",
+        "summary": [
+            "شکاف و درگیری‌های پنهان میان باندهای قدرت در تهران به مرحله حساسی رسیده است.",
+            "بحران‌های انباشت‌شده داخلی، جنگ جناح‌ها را برای کنترل منابع و نهادها تشدید کرده است."
+        ],
+        "impact": "تشدید جنگ قدرت درون‌حکومتی، ثبات سیاسی سیستم را بیش از پیش شکننده می‌کند.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Global Security Review",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jNWtUTVpURWhJSnZaS0NTSzZtbmZOcFFDZ2RreU8tZ1NWaUc4ZXVxNnljY1VheFJrR3RtNEZuX3dlSHhvWTJ3TWRmTEVsYnNKcXhQV3FXTk9tSHpsTTY4SU9uZVNQZDhpVFhCNWxZdTRZVF9MSFQyUUpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jNWtUTVpURWhJSnZaS0NTSzZtbmZOcFFDZ2RreU8tZ1NWaUc4ZXVxNnljY1VheFJrR3RtNEZuX3dlSHhvWTJ3TWRmTEVsYnNKcXhQV3FXTk9tSHpsTTY4SU9uZVNQZDhpVFhCNWxZdTRZVF9MSFQyUUpR",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790852772.0
+    },
+    {
         "id": "f4bc46e8cf",
         "title_fa": "تماس مظنون ترور وابسته به جـ.ا در بریتانیا با پلیس",
         "title_en": "Report: Suspect in Iran-linked UK plot called police before arrest",
@@ -5477,23 +5495,5 @@
         "clean_url": "https://www.newsweek.com/trump-canada-carney-trade-war-worst-countries-insult-12498721",
         "image": "http://www.bing.com/th?id=ONUT.fjjrkxXHv_E_rknuZNOFgQ&pid=News",
         "timestamp": 1790611860.0
-    },
-    {
-        "id": "8b1066881d",
-        "title_fa": "برگزاری رویداد ملی طراحی داخلی در هندوستان",
-        "title_en": "Home & Decor Awards 2026: Celebrating Excellence in Home & Interior Design",
-        "summary": [
-            "تجلیل از برترین برندها و طراحان صنعت دکوراسیون منزل در هندوستان",
-            "معرفی راهکارهای نوین زندگی مدرن با حضور کارشناسان ارشد این حوزه"
-        ],
-        "impact": "تقویت بازار رقابتی و توسعه نوآوری در صنعت دکوراسیون داخلی هند",
-        "tag": "اقتصادی",
-        "urgency": 2,
-        "sentiment": 0.5,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/spotlight/home-decor-awards-2026-celebrating-excellence-in-home-interior-design/videoshow/134539327.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/spotlight/home-decor-awards-2026-celebrating-excellence-in-home-interior-design/videoshow/134539327.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134539327,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1790611080.0
     }
 ]
