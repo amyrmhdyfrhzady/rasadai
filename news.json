@@ -1,5 +1,23 @@
 [
     {
+        "id": "95244be4f9",
+        "title_fa": "افزایش حقوق جنگی پنتاگون در سایه درگیری با ای*ران",
+        "title_en": "Pentagon announces higher combat pay amid war with Iran",
+        "summary": [
+            "پنتاگون پرداخت حقوق بالاتر به نظامیان را در شرایط درگیری با ای*ران رسماً کلید زد.",
+            "این تصمیم نشان‌دهنده آمادگی عملیاتی ارتش آمریکا برای تنش‌های طولانی‌مدت در منطقه است."
+        ],
+        "impact": "بالارفتن هزینه‌های نظامی آمریکا و آمادگی عملیاتی نیروهای مستقر در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX09DTVhCdzZ1WEZ2dEU4alg3b0ROeEV0RGZKUjc5QjdzbmtLOExpM2pXWDVGT3Vhd2p5N2k3ZzJ2TW1weHRzQjJzV1ZhSHJoVTdQa0htVUhsTVQ3QUo1UWhGLU9nSjMwWDYwX0VlQnlDczg2S0lVbTJlN3FXbmdoQUNLNUZKLVBzSmpRQzREeHJ3NERIZVVMT1ViZm1YT3VLbFR4SV9zTk5lcDJwVFpWekNpVm1lMkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX09DTVhCdzZ1WEZ2dEU4alg3b0ROeEV0RGZKUjc5QjdzbmtLOExpM2pXWDVGT3Vhd2p5N2k3ZzJ2TW1weHRzQjJzV1ZhSHJoVTdQa0htVUhsTVQ3QUo1UWhGLU9nSjMwWDYwX0VlQnlDczg2S0lVbTJlN3FXbmdoQUNLNUZKLVBzSmpRQzREeHJ3NERIZVVMT1ViZm1YT3VLbFR4SV9zTk5lcDJwVFpWekNpVm1lMkU",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790892326.0
+    },
+    {
         "id": "d1eec9bb70",
         "title_fa": "شکست در شورای امنیت بر سر تمدید تحریم‌های اتمی جـ.ـمـ.ـهـ.ـوری اسـ.ـلا‌مـ.ـی",
         "title_en": "UNSC Veto Splits Assembly Over Iran Sanctions Panel Renewal",
@@ -5475,23 +5493,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/iran-threatens-attacks-energy-infrastructure-093324536.html",
         "image": "https://s.yimg.com/lo/mysterio/api/b44c2ca40645e572aa48e8792a68b55b7314b9abe17428a0db7cc3a177232d44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F402004f92257f212163622bbed6cf646.jpg",
         "timestamp": 1790649180.0
-    },
-    {
-        "id": "4b1b058dac",
-        "title_fa": "سپاه پاسداران ترامپ را دروغگوی بزرگ خواند",
-        "title_en": "Iran's Revolutionary Guards call Trump a 'big liar'",
-        "summary": [
-            "سخنگوی سپاه مدعی شد ایالات متحده به دنبال تخریب وسعت و قدرت ج-م-ه-و-ر-ی ا-س-لا-م-ی است و پرونده اتمی تنها یک بهانه است.",
-            "مقام‌های نظامی تهران ادعای واشنگتن درباره شکستن حصار تنگه هرمز و تامین امنیت نفتکش‌ها را رد کردند."
-        ],
-        "impact": "بالرفتن تنش‌های لفظی میان نظامیان ارشد و کاخ سفید در آستانه تحولات جدید.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/irans-revolutionary-guards-call-trump-092958816.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/irans-revolutionary-guards-call-trump-092958816.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/6db4bc15c288e18f733e6d9a68fb813036c00dbdc2b307d008e516503011e437/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcd9f54a91e6c1ed876787ad6bfc380a4.jpg",
-        "timestamp": 1790648940.0
     }
 ]
