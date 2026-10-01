@@ -713,6 +713,24 @@
         "timestamp": 1790838060.0
     },
     {
+        "id": "83dbd43319",
+        "title_fa": "هشدار صریح ترامپ به طهران درباره عواقب سنگین",
+        "title_en": "Trump warns Iran of 'very hard' response if Flydubai link confirmed",
+        "summary": [
+            "دونالد ترامپ در واکنش به احتمال دخالت ت…ران در حادثه هواپیمایی، از پاسخ بسیار کوبنده واشنگتن خبر داد.",
+            "رئیس‌جمهور آمریکا با اشاره به آگاهی مقامات حکومت از ماجرا، رویارویی جدی را گوشزد کرد."
+        ],
+        "impact": "افزایش فوری ریسک امنیتی و احتمال واکنش نظامی ایالات متحده علیه ت…ران",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610017489",
+        "clean_url": "https://www.iranintl.com/en/202610017489",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790837880.0
+    },
+    {
         "id": "1632f78a92",
         "title_fa": "رد پای ج.ا در حادثه فلای‌دبی پیدا نشد",
         "title_en": "رویترز: اسرائیل تاکنون نشانه‌ای از دخالت جمهوری اسلامی در حادثه فلای‌دبی نیافته است",
@@ -5476,23 +5494,5 @@
         "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---trump-bans-media-this-is-why-hes-angry/article_82c63f62-7373-456d-b2b2-c4b27759f36e.html",
         "image": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/b/ab/babf1996-3921-11ed-9a87-dbb3771b4700/632a20d2695aa.image.jpg",
         "timestamp": 1790643600.0
-    },
-    {
-        "id": "d11882a78d",
-        "title_fa": "تهدید سپاه پاسداران به رونمایی از سلاح‌های جدید",
-        "title_en": "سخنگوی سپاه پاسداران: اگر درگیری‌ها شکل دیگری پیدا کند، سلاح‌های جدیدی به میدان می‌آوریم",
-        "summary": [
-            "مقام‌های نظامی ج.ا تهدید کردند در صورت تغییر شرایط جنگی، تسلیحات پنهان و جدید وارد میدان خواهند کرد.",
-            "اعتراف تلویحی به تلاش برای به‌روزرسانی تسلیحات نظامی در سایه فشارهای فزاینده بین‌المللی."
-        ],
-        "impact": "تشدید جنگ روانی نظامیان و تلاش برای بازدارندگی در برابر تهدیدات خارجی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609298565",
-        "clean_url": "https://www.iranintl.com/202609298565",
-        "image": "http://www.bing.com/th?id=ONUT.sRpHkmOa1lG0CQNQtU4uHQ&pid=News",
-        "timestamp": 1790643300.0
     }
 ]
