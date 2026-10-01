@@ -1,5 +1,23 @@
 [
     {
+        "id": "c717619511",
+        "title_fa": "مرور آخرین اخبار و تحولات ای-ران",
+        "title_en": "Iran News in Brief – October 1, 2026 - National Council of Resistance of Iran",
+        "summary": [
+            "گزارش کوتاه از رویدادهای جاری و وضعیت امنیتی داخل کشور.",
+            "بررسی آخرین تحولات مرتبط با فشارهای سیاسی و حکومتی."
+        ],
+        "impact": "آگاهی از روند تحولات روزانه و اعتراضات.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "National Council of Resistance of Iran - NCRI",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zNVhqVDBzMVBWMm12aEEzYTlVRmRMcVRQRzRhQ2tkNnhpQVVNUldpOUFhel9FTi1ESXBkbERlX0IxeFhhMUppdUQ2UVNUbFE1TUQwWE1pVlpIdXRQZi1nMzluajE2UEJqMjlzdTRYU3VsX25tZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zNVhqVDBzMVBWMm12aEEzYTlVRmRMcVRQRzRhQ2tkNnhpQVVNUldpOUFhel9FTi1ESXBkbERlX0IxeFhhMUppdUQ2UVNUbFE1TUQwWE1pVlpIdXRQZi1nMzluajE2UEJqMjlzdTRYU3VsX25tZGc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790832505.0
+    },
+    {
         "id": "c2987b0d14",
         "title_fa": "دلایل پشت پرده تشدید تنش‌های ج.ا",
         "title_en": "Why Iran Escalates",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.iranintl.com/202609284624",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790602680.0
-    },
-    {
-        "id": "c237780f85",
-        "title_fa": "سقوط بورس آمریکا در پی جهش سود اوراق قرضه",
-        "title_en": "Bond yields crank higher and pull US stocks further from their record",
-        "summary": [
-            "افزایش سود اوراق ۱۰ ساله به بالاترین سطح از سال ۲۰۰۷، بازار سهام را به شدت تحت فشار قرار داده است.",
-            "نگرانی از تورم و بدهی‌های کلان دولت آمریکا، سرمایه‌گذاران را نسبت به آینده بازار سهام بدبین کرده است."
-        ],
-        "impact": "افزایش هزینه‌های استقراض، رشد اقتصادی را کند و فشار بر بازارهای مالی را دوچندان می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Los Angeles Daily News",
-        "url": "https://www.dailynews.com/2026/09/28/oil-prices-us-markets-iran-proposal/",
-        "clean_url": "https://www.dailynews.com/2026/09/28/oil-prices-us-markets-iran-proposal",
-        "image": "http://www.bing.com/th?id=ONUT.9Buy9w72Gnh6NEWOwFLJig&pid=News",
-        "timestamp": 1790602380.0
     }
 ]
