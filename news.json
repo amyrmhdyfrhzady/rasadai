@@ -236,6 +236,24 @@
         "timestamp": 1790789987.0
     },
     {
+        "id": "5a363744e5",
+        "title_fa": "بحران نفت ایران و تقابل چین با کمبود انرژی",
+        "title_en": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
+        "summary": [
+            "با قطع شدن مسیرهای صادراتی، نفت ایران از بازار جهانی محو شده و پالایشگاه‌های مستقل چین را به دردسر انداخته است.",
+            "تنگه هرمز روزانه ۱۳ میلیون بشکه نفت حمل می‌کند و تهران انگیزه بالایی برای ایجاد اختلال در این آبراه حیاتی دارد."
+        ],
+        "impact": "کاهش عرضه نفت ایران قیمت انرژی در بازار جهانی را بالا برده و فشار سنگینی روی خریداران آسیایی گذاشته است.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
+        "clean_url": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
+        "image": "http://www.bing.com/th?id=ONUT.mVETESTe7jwfOOVDjCuyfw&pid=News",
+        "timestamp": 1790787600.0
+    },
+    {
         "id": "5ac86cbda2",
         "title_fa": "پنتاگون: توان نظامی و اتمی ایـران نابود شده است",
         "title_en": "Hegseth says US forces have ‘destroyed’ much of Iran’s military",
@@ -5471,24 +5489,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab9331d-1790522141.jpg?resize=1920%2C1440",
         "timestamp": 1790592180.0
-    },
-    {
-        "id": "c838daf285",
-        "title_fa": "شرط ترامپ برای کاهش تحریم‌ها و توافق هسته‌ای جدید",
-        "title_en": "مقام کاخ سفید: ترامپ در ازای پیشرفت ملموس در موضوع هسته‌ای آماده کاهش تحریم‌های ایران است",
-        "summary": [
-            "دونالد ترامپ در ازای گام‌های عملی و ملموس تهران در پرونده هسته‌ای، آماده امتیازدهی اقتصادی و آزادی پول‌های بلوکه‌شده است.",
-            "مذاکرات پشت‌پرده با میانجی‌ها در جریان است اما تا حل‌وفصل کامل اختلافات، هیچ توافق نهایی روی میز نیست.",
-            "پیشنهاد اخیر تهران درباره تنگه هرمز پیش‌تر توسط کاخ سفید رد شده بود."
-        ],
-        "impact": "باز شدن باریکه‌ای از دیپلماسی مشروط در کنار تداوم سیاست فشار اقتصادی.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609281414",
-        "clean_url": "https://www.iranintl.com/202609281414",
-        "image": "http://www.bing.com/th?id=ONUT.McaLL4zYhSOVMOqAJ-X7vA&pid=News",
-        "timestamp": 1790589120.0
     }
 ]
