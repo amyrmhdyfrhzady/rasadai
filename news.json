@@ -291,6 +291,25 @@
         "timestamp": 1790867213.0
     },
     {
+        "id": "61f41ef3cb",
+        "title_fa": "هدف‌گیری آخرین شریان‌های درآمدی ج.ا با تحریم‌های جدید آمریکا",
+        "title_en": "US aims to drain Iran’s remaining revenue, Bessent says after new sanctions",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا از اجرای عملیات اقتصادی برای قطع کامل منابع مالی بخش‌های صنعتی و نظامی حاکمیت خبر داد.",
+            "صنایع کلیدی مانند حمل‌ونقل ریلی و خودروسازی که تحت کنترل مستقیم نهادهای نظامی هستند، هدف اصلی این دور از تحریم‌ها قرار گرفته‌اند.",
+            "واشنگتن مصمم است با مسدود کردن درآمدهای باقی‌مانده، توان مالی ماشین جنگی و فعالیت‌های منطقه‌ای حکومت را به صفر برساند."
+        ],
+        "impact": "فلج‌شدن بیشتر شریان‌های مالی و تشدید بحران ارزی و بودجه‌ای برای ساختار حاکم",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610015492",
+        "clean_url": "https://www.iranintl.com/en/202610015492",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790865600.0
+    },
+    {
         "id": "82a2f6f246",
         "title_fa": "درگیری خونین سپاه و کشته شدن شش نفر در جنوب شرق",
         "title_en": "IRGC kills six 'terrorists' discovered with explosive packages in southeastern Iran - report",
@@ -5473,24 +5492,5 @@
         "clean_url": "https://www.iranintl.com/202609296548",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790648220.0
-    },
-    {
-        "id": "ea331f069a",
-        "title_fa": "تنگه هرمز روی میز؛ دلار از ۲.۵ میلیون ریال گذشت",
-        "title_en": "Iran awaits US response on Hormuz, rial slides past 2.5 million",
-        "summary": [
-            "عباس عراقچی از انتظار برای پاسخ ایالات متحده از طریق میانجی‌های قتری درباره بازگشایی تنگه هرمز خبر داد.",
-            "تهران بدون عقب‌نشینی از مواضع خود، باز کردن مسیر صادرات نفت را به پذیرش خواسته‌هایش مشروط کرده است.",
-            "فشار اقتصادی داخل کشور همزمان با این تنش‌ها ادامه دارد و نرخ دلار در بازار آزاد از مرز ۲.۵ میلیون ریال فراتر رفت."
-        ],
-        "impact": "بحران تنگه هرمز و بن‌بست دیپلماتیک باعث سقوط آزاد ارزش پول ملی و تشدید فشار معیشتی شده است.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609290526",
-        "clean_url": "https://www.iranintl.com/en/202609290526",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/6ce97b1627d04ea8a3463bc1aa7993ca4adc8b8b-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790647500.0
     }
 ]
