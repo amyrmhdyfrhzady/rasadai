@@ -56,6 +56,24 @@
         "timestamp": 1790807957.0
     },
     {
+        "id": "c27fac3909",
+        "title_fa": "فرود اضطراری پرواز تل‌آویو در پی چاقوکشی دو خلبان در کابین",
+        "title_en": "Pilot-on-Pilot Stabbing Forces Emergency Landing of Israel-Bound Plane",
+        "summary": [
+            "یک فروند هواپیمای مسافربری به مقصد تل‌آویو پس از درگیری خونین و چاقوکشی میان دو خلبان در حین پرواز، ناچار به فرود اضطراری شد.",
+            "این رخداد کم‌سابقه خلاءهای جدی در غربالگری سلامت روان و بازرسی‌های امنیتی کادر پرواز را آشکار کرد و موجب مداخله فوری پلیس شد."
+        ],
+        "impact": "افزایش شدید سخت‌گیری‌های امنیتی و ارزیابی روانی خدمه پرواز در خطوط هوایی منتهی به منطقه.",
+        "tag": "امنیت پرواز",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUE03QmpOQjdEaVZkY1FucnlLVzhHckJBaHBEN3BTQ1RQeFBySnNjVjJoamoyb2dMdk1CeXpqWXozczMtZ1BlVWNVanFfZmppQk9fbXFsekgxVV95aEZBQS12X0lrMU5DYTlGWGg5VWExSzY2bmxYZHk3SDBGd3NWa1VyMUlqblZ1cHVQdXdaN2JQT01SSUJzeHpvc25zckh6eE9oSTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUE03QmpOQjdEaVZkY1FucnlLVzhHckJBaHBEN3BTQ1RQeFBySnNjVjJoamoyb2dMdk1CeXpqWXozczMtZ1BlVWNVanFfZmppQk9fbXFsekgxVV95aEZBQS12X0lrMU5DYTlGWGg5VWExSzY2bmxYZHk3SDBGd3NWa1VyMUlqblZ1cHVQdXdaN2JQT01SSUJzeHpvc25zckh6eE9oSTNn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790805720.0
+    },
+    {
         "id": "1a42208dee",
         "title_fa": "دوراهی سرنوشت‌ساز ترامپ؛ توافق یا انهدام کامل ج.ا",
         "title_en": "Iran loses grip on Strait of Hormuz as oil exports hit highest level since war began",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-is-waging-a-secret-war-on-british-soil-this-is-how-we-can-fight-it/ar-AA2d7KE8",
         "image": "http://www.bing.com/th?id=ONUT.w0yJwWEnqZO8S1JQ_6nmxw&pid=News",
         "timestamp": 1790594067.0
-    },
-    {
-        "id": "e572377974",
-        "title_fa": "ابهام در دست داشتن ج.ا.ا در طرح بمب‌گذاری بریتانیا",
-        "title_en": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot",
-        "summary": [
-            "آزادی به قید وثيقة پنج مظنون بازداشت شده در نزدیکی پایگاه نظامی فیرفورد نشان داد خطر فوری امنیتی وجود نداشته است.",
-            "شهروندان بریتانیایی بودن این افراد ادعاهای سیاستمدارانی مانند نایجل فاراژ را درباره ارتباط این رویداد با مهاجران و ج.ا.ا تضعیف کرد.",
-            "پرونده همچنان ابعاد بازی دارد اما واکنش اولیه پلیس و آزادی متهمان شدت تهدید را پایین آورد."
-        ],
-        "impact": "کاهش موقت تنش پیرامون پرونده امنیتی فیرفورد با آزادی متهمان.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
-        "clean_url": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
-        "image": "https://i.guim.co.uk/img/media/3876d46c2ef3a10833811d68ce60f559ea3c3a55/564_118_3072_2459/master/3072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5026e9d7dde53a695c38a92e54f6bf12",
-        "timestamp": 1790593860.0
     }
 ]
