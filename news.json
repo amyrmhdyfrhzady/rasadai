@@ -495,6 +495,25 @@
         "timestamp": 1790848987.0
     },
     {
+        "id": "36e725cdb1",
+        "title_fa": "تحریم‌های جدید آمریکا شریان‌های صنعتی ج-م-ه-و-ر-ی ا-س-لا-م-ی را نشانه گرفت",
+        "title_en": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا در قالب عملیات جدیدی، صنایع کلیدی خودرو، راه‌آهن و فولاد وابسته به س-پ-ا-ه را تحریم کرد.",
+            "واشنگتن با این اقدام به دنبال قطع کامل درآمدهای باقی‌مانده‌ای است که حکومت برای تامین مالی نیابتی‌های خود از آن‌ها استفاده می‌کند.",
+            "فشار حداکثری اقتصادی هم‌زمان با مسدود شدن درآمدهای نفتی، اقتصاد حکومت را به آستانه فروپاشی رسانده است."
+        ],
+        "impact": "فلج شدن کامل بخش‌های صنعتی و تولیدی وابسته به حاکمیت و تشدید بحران ارزی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "U.S. Department of the Treasury",
+        "url": "https://home.treasury.gov/news/press-releases/sb0643/",
+        "clean_url": "https://home.treasury.gov/news/press-releases/sb0643",
+        "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+        "timestamp": 1790848800.0
+    },
+    {
         "id": "5bed51084d",
         "title_fa": "حکم شلاق برای خواننده زن به جرم آوازخوانی",
         "title_en": "Amnesty urges Iran to halt flogging of female singer Parastoo Ahmadi",
@@ -5474,24 +5493,5 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-29/live-updates-910030",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/739748",
         "timestamp": 1790644860.0
-    },
-    {
-        "id": "8311f95c7d",
-        "title_fa": "آغاز موج جدید حملات مستقیم و مشترک به اهداف نظامی",
-        "title_en": "Live Updates: War returns to Iran with Israel, US strikes",
-        "summary": [
-            "گزارش‌های میدانی از شنیده شدن صدای انفجارهای متعدد و فعال شدن سامانه‌های پدافند هوایی حکایت دارد.",
-            "تمرکز اصلی این دور از ضربات بر از کار انداختن سامانه‌های راداری و آشیانه‌های موشکی سـ‌پـ‌اه است.",
-            "ورود مشترک به عملیات مستقیم، پیام پایان مماشات با تهدیدات منطقه‌ای و تلاش برای تغییر موازنه قواست."
-        ],
-        "impact": "شوک شدید به بازار ارز و طلا، بسته‌شدن حریم هوایی و بالا رفتن احتمال پاسخ متقابل.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.85,
-        "source": "Dawn",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790643698.0
     }
 ]
