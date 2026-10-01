@@ -276,6 +276,24 @@
         "timestamp": 1790810603.0
     },
     {
+        "id": "af18dac4df",
+        "title_fa": "دستور مجتبی خامنه‌ای برای ترویج نماز در شرایط جنگی",
+        "title_en": "Iran’s supreme leader invokes ‘jihad and victory’ in call to promote prayer",
+        "summary": [
+            "مجتبی خامنه‌ای در پیامی به کنفرانس سراسری نماز، این فریضه را ابزاری برای امیدآفرینی در دوران جنگ و پیروزی خواند.",
+            "او از خانواده‌ها، مدارس و نهادهای دولتی خواست تا نسل جوان را به سمت مسایل مذهبی سوق دهند."
+        ],
+        "impact": "تلاش حکومت برای استفاده حداکثری از ابزارهای مذهبی جهت کنترل افکار عمومی در بحران‌ها",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610014158",
+        "clean_url": "https://www.iranintl.com/en/202610014158",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790809560.0
+    },
+    {
         "id": "ec50560289",
         "title_fa": "ناکامی خلبان در سقوط پرواز اسرائیل",
         "title_en": "Passengers describe stopping pilot's alleged attempt to crash Israel-bound flight",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://www.iranintl.com/202609283597",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790604060.0
-    },
-    {
-        "id": "7faa274cd1",
-        "title_fa": "مذاکرات غیرمستقیم آمریکا و ج.ا در آستانه شروع",
-        "title_en": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says",
-        "summary": [
-            "واشنگتن و تهران بار دیگر از طریق واسطه‌ها برای مدیریت تنش‌ها پشت میز می‌روند.",
-            "این گفتگوها در شرایطی انجام می‌شود که فشارها بر ج.ا به دلیل فعالیت‌های منطقه‌ای و هسته‌ای به اوج رسیده است.",
-            "هدف اصلی طرفین در این مقطع، جلوگیری از یک درگیری ناخواسته و کنترل بحران است."
-        ],
-        "impact": "تلاش برای خرید زمان و جلوگیری از تنش نظامی مستقیم در کوتاه‌مدت.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790603385.0
     }
 ]
