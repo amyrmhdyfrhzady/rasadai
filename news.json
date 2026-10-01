@@ -292,6 +292,24 @@
         "timestamp": 1790846580.0
     },
     {
+        "id": "61c9ce6c9d",
+        "title_fa": "تهدید صریح ترامپ: ایران باید نابود شود",
+        "title_en": "Trump declares Iran must be 'annihilated' to achieve world peace",
+        "summary": [
+            "دونالد ترامپ تاکید کرد که برای رسیدن به صلح جهانی، جمهوری اسلامی ممکن است نابود شود.",
+            "او از طولانی شدن زمان جنگ دفاع کرده و از احتمال حملات جدید خبر داده است."
+        ],
+        "impact": "افزایش شدید تنش‌های نظامی و سیگنال روشن به بازارهای مالی از رویکرد سخت‌گیرانه واشنگتن",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Daily Express US on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-declares-iran-must-be-annihilated-to-achieve-world-peace/ar-AA2dmAMu",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-declares-iran-must-be-annihilated-to-achieve-world-peace/ar-AA2dmAMu",
+        "image": "http://www.bing.com/th?id=ONUT.pY30on2w-HsyAEdbYG1gDg&pid=News",
+        "timestamp": 1790845620.0
+    },
+    {
         "id": "6c9816a252",
         "title_fa": "دست رد ترامپ به توافق صلح ج*مهوری اس*لامی",
         "title_en": "Trump rejected Iran's latest peace deal. What will happen next?",
@@ -308,6 +326,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnJ0aVR0dnJhcGZjUEJ6Z2NxdndudkpLTUR6ckgwY0M4VUp0X3EwMGhHRjN2YmsyTzVmM3NpT09jbkRrMnVaMnBob0RmeTMyZ0Zwa1ItMWJYRlpxUTZ1NHl5bEJic2gybVBrMzRrSGZZLWlYQlhzaEdLeWM2Znk3NWtvVk81WVFHS25SVDBwR3Y5SFRCVlRsUlFEOTVTVUNiZ3JBUVpnUVdTNjZ6al9GdmtjaGg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790845320.0
+    },
+    {
+        "id": "a6ffbfa6e2",
+        "title_fa": "تشکیل هیات اختصاصی آمریکا برای نظارت بر تحریم‌ها",
+        "title_en": "مایک والتز: هیاتی برای نظارت بر اجرای تحریم‌های جمهوری اسلامی تشکیل خواهیم داد",
+        "summary": [
+            "مایک والتز اعلام کرد ایالات متحده بدون توجه به وتوی چین و روسیه، هیات نظارت بر تحریم‌های جمهوری اسلامی را می‌سازد.",
+            "واشنگتن از همه کشورها خواسته برای جلوگیری از دستیابی حکومت از اتم به این ائتلاف بپیوندند."
+        ],
+        "impact": "بستن مسیرهای دور زدن تحریم‌ها و افزایش فشار اقتصادی بر ارکان نظام",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610013255",
+        "clean_url": "https://www.iranintl.com/202610013255",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790844900.0
     },
     {
         "id": "4e4c61f36c",
@@ -5455,41 +5491,5 @@
         "clean_url": "https://www.iranintl.com/202609295028",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790632860.0
-    },
-    {
-        "id": "51e303b544",
-        "title_fa": "سایه جنگ با ایران روی جیب مردم آمریکا",
-        "title_en": "Iran War Is Driving Up the Cost of Your Next Oil Change",
-        "summary": [
-            "تنش‌های نظامی با تهران هزینه‌های روزمره و قیمت سوخت در بازارهای جهانی را بالا کشیده است.",
-            "بحران‌های منطقه‌ای به طور مستقیم روی تورم و قیمت خدمات برای شهروندان غربی تاثیر می‌گذارد."
-        ],
-        "impact": "افزایش قیمت نفت و خدمات وابسته به انرژی به دلیل تنش‌های نظامی",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVqVXdzRlYzejRHMkdvR3p4b1NHSmhmblRkUkRQZVQyRW5Cd1E5WUU4eGh0Yi0xY3JyNGktcGt6bzg0RXJDeXFuRFZWVTV1ell1WWlXMC05Rk50SE9nbkp4enFjYXMta1h3T0x3aXU0ZTZreWJBUFM1UnozMmo1TTNiM0dmR1NENVlRdWpYbGhZYXp1Y041ZTg3QVByYVJGemc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVqVXdzRlYzejRHMkdvR3p4b1NHSmhmblRkUkRQZVQyRW5Cd1E5WUU4eGh0Yi0xY3JyNGktcGt6bzg0RXJDeXFuRFZWVTV1ell1WWlXMC05Rk50SE9nbkp4enFjYXMta1h3T0x3aXU0ZTZreWJBUFM1UnozMmo1TTNiM0dmR1NENVlRdWpYbGhZYXp1Y041ZTg3QVByYVJGemc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790631664.0
-    },
-    {
-        "id": "fca37b5075",
-        "title_fa": "پناهجوی مسیحی ایرانی اقامت اسرائیل گرفت",
-        "title_en": "Iranian Christian Given Israeli Residency Vows to Continue Advocating for Israel",
-        "summary": [
-            "یک نوکیش مسیحی ایرانی پس از دریافت اقامت دائم اسرائیل، حمایت قاطع خود را از این کشور اعلام کرد.",
-            "این فرد متعهد شد به فعالیت‌های تبلیغی و حمایتی از مواضع اسرائیل ادامه دهد."
-        ],
-        "impact": "بازتاب رسانه‌ای این رویداد در راستای برجسته‌سازی وضعیت اقلیت‌های مذهبی و مخالفان حاکمیت است.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "Billy Graham Evangelistic Association",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelpQcndYUTExYjBweG40TURjSS1obGtHUnRTN0FSaHRtaThCX2lSVWQ0QjZ2UldVV1piaFc1c1BVUzI5bUQyOC1DT3BQTWdvcG9XOS12QjJrS1c2RDBKNG82YzE1Q2VBYU9TT09uZnJUeEVLQVdjSVJra185UnhxeDdGZUZ4cktZajNfaUFYYXZOM05tQmRvZEdHZ0IyTG5raHlfTlU2T2ZpMTNqZ3VKMjB6Z1lPenl1ck9oRURVMjRESEtrbFdxdUZEcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelpQcndYUTExYjBweG40TURjSS1obGtHUnRTN0FSaHRtaThCX2lSVWQ0QjZ2UldVV1piaFc1c1BVUzI5bUQyOC1DT3BQTWdvcG9XOS12QjJrS1c2RDBKNG82YzE1Q2VBYU9TT09uZnJUeEVLQVdjSVJra185UnhxeDdGZUZ4cktZajNfaUFYYXZOM05tQmRvZEdHZ0IyTG5raHlfTlU2T2ZpMTNqZ3VKMjB6Z1lPenl1ck9oRURVMjRESEtrbFdxdUZEcw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790630977.0
     }
 ]
