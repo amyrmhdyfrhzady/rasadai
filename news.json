@@ -218,6 +218,25 @@
         "timestamp": 1790793020.0
     },
     {
+        "id": "8d21d9256b",
+        "title_fa": "هشدار مستقیم ترامپ به تهران: توافق فوری یا نابودی کامل",
+        "title_en": "US-Iran war news LIVE Updates: US to ‘blow up’ Iran? Trump hints at fresh strikes, says US faces a choice",
+        "summary": [
+            "دونالد ترامپ با صراحت اعلام کرد آمریکا سر یک دوراهی است: یا توافق با جمهوری‌اسلامی یا موشک‌باران و نابودی زیرساخت‌های آن.",
+            "وزیر دفاع آمریکا اعلام کرد نیروهای مسلح این کشور پدافند، نیروی هوایی، نیروی دریایی و بخش عمده‌ای از توان هسته‌ای و نظامی ایران را زمین‌گیر کرده‌اند.",
+            "دستور مارکو روبیو برای اخراج فوری عباس عراقچی و هیئت همراهش از نیویورک، تیر خلاص به فرآیند دیپلماسی کم‌رمق اخیر بود."
+        ],
+        "impact": "بسته‌شدن کانال‌های دیپلماتیک مستقیم و بالا رفتن بی‌سابقه خطر حملات گسترده نظامی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/usiran-war-news-live-updates-trump-blow-up-tehran-deal-fresh-strikes-strait-of-hormuz-oil-saudi-arabia-israel-uae-irgc-11790816465596.html",
+        "clean_url": "https://www.livemint.com/news/us-news/usiran-war-news-live-updates-trump-blow-up-tehran-deal-fresh-strikes-strait-of-hormuz-oil-saudi-arabia-israel-uae-irgc-11790816465596.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Iran_1790816750651_8lFf_1790816750824_yhjN_1575d74f-d09e-420f-9c4d-6ea3f336d07c_hvrs.jpg",
+        "timestamp": 1790791980.0
+    },
+    {
         "id": "b79840557a",
         "title_fa": "جهش قیمت نفت از ترس درگیری آمریکا و جـ.ـهـ.ـوری ا.سـ.ـلا.مـ.ـی",
         "title_en": "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict",
@@ -5472,23 +5491,5 @@
         "clean_url": "https://www.iranintl.com/en/202609283778",
         "image": "http://www.bing.com/th?id=ONUT.DtZNisFFRqxwwJF0rdMlhQ&pid=News",
         "timestamp": 1790592600.0
-    },
-    {
-        "id": "c06f381e43",
-        "title_fa": "از سرگیری تحقیقات جنایی درباره اتهامات تجاوز در دانشگاه کرنل",
-        "title_en": "Cornell rape allegations prompt prosecutor to reopen criminal investigation",
-        "summary": [
-            "دادستان‌ها پس از ثبت شکایت یک زن، پرونده اتهام تجاوز گروهی در یکی از fraternities را دوباره گشودند.",
-            "دانشگاه کرنل حمایت خود را از تصمیم بازگشایی این پرونده اعلام کرد."
-        ],
-        "impact": "افزایش فشار حقوقی بر نهادهای آموزشی و انجمن‌های دانشجویی",
-        "tag": "اجتماعی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/cornell-rape-allegations-prompt-prosecutor-to-reopen-criminal-investigation/ar-AA2d73pK",
-        "clean_url": "https://www.msn.com/en-us/news/other/cornell-rape-allegations-prompt-prosecutor-to-reopen-criminal-investigation/ar-AA2d73pK",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790592251.0
     }
 ]
