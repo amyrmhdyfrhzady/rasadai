@@ -1,5 +1,23 @@
 [
     {
+        "id": "5a2624b5a6",
+        "title_fa": "روایت افشاگرانه از افغانستان و حواشی امنیتی پرواز دبی-تل‌آویو",
+        "title_en": "Vittorio Sgarbi hospitalized at Gemelli Polyclinic",
+        "summary": [
+            "زهرا جویا، فعال مدنی افغان، شرایط زنان تحت حاکمیت طالبان را یک «زندان روباز» خواند و خواستار مقاومت سراسری زنان شد.",
+            "دونالد ترامپ با اشاره به حادثه پرواز دبی به تل‌آویو و نجات مسافران توسط یک لوله‌کش، بر شکنندگی امنیت خطوط هوایی منطقه دست گذاشت."
+        ],
+        "impact": "افزایش فشارهای حقوق بشری بر طالبان و برجسته‌تر شدن حساسیت‌های امنیتی در پروازهای خاورمیانه.",
+        "tag": "خاورمیانه",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261001KRONOS-202610121434250864_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1790812800.0
+    },
+    {
         "id": "1a42208dee",
         "title_fa": "دوراهی سرنوشت‌ساز ترامپ؛ توافق یا انهدام کامل ج.ا",
         "title_en": "Iran loses grip on Strait of Hormuz as oil exports hit highest level since war began",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDJwQmE0LURRRU5mLTFHdnFBSDJDaDE1bGtCMXNlZ3NrY05Xem5zSzFmZ2IzYW1JV2dzSkZkMFlGcm84ZzQxMUxZNERUbXVhazVVWEIzLUd6S1FFNWVBV282T2pfb0U3RUtoaVNLa0h0dzJKQUxzZ0ZoUmxBQUwzV3o4Rm05SjIyTTBiVXRub3pjZjJBSmc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790588580.0
-    },
-    {
-        "id": "d268cd6e93",
-        "title_fa": "رد طرح هرمز از سوی تـرامپ و تداوم دیپلماسی",
-        "title_en": "Trump Rejects Iran Hormuz Plan, Suggests Talks Will Continue; Israel Welcomes Christians to Sukkot Celebration",
-        "summary": [
-            "تـرامپ پیشنهاد ایران درباره منطقه هرمز را رد کرد و از ادامه مسیر گفتگوها خبر داد.",
-            "فشار حداکثری اقتصادی همراه با حفظ کانال‌های دیپلماتیک همچنان راهبرد اصلی واشنگتن است."
-        ],
-        "impact": "بسته‌شدن راهکارهای فرعی جـمهوری اسـلامی در خلیج فارس.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "cbn.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9QVi04dkJzajNmWnBxU1NUTHUwZlBhcnRlTDE1M2pabERPYmY3TVQ4aTRBTVYtRXQyS1FEbEpBbThqX0Q0ZU56b3E1VktEQzhhLWpPVjJGUW1vTnJON2ZCakNYNTVEV3BqZ0pDZ1phRW5yUUFzQWxmM2NLWVpzajFLNXJWeXY5V014WWllNXBXb0V3M3NoZmpsVXpvaS1peF9Xa09oU2tqUlpTTzgxTWlzUno?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm9QVi04dkJzajNmWnBxU1NUTHUwZlBhcnRlTDE1M2pabERPYmY3TVQ4aTRBTVYtRXQyS1FEbEpBbThqX0Q0ZU56b3E1VktEQzhhLWpPVjJGUW1vTnJON2ZCakNYNTVEV3BqZ0pDZ1phRW5yUUFzQWxmM2NLWVpzajFLNXJWeXY5V014WWllNXBXb0V3M3NoZmpsVXpvaS1peF9Xa09oU2tqUlpTTzgxTWlzUno",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790587728.0
     }
 ]
