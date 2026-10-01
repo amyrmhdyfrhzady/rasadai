@@ -218,6 +218,24 @@
         "timestamp": 1790823353.0
     },
     {
+        "id": "a0daf4dfab",
+        "title_fa": "ادعاهای پیروزی ترامپ در جنگ با ای-ران",
+        "title_en": "9 times Trump claimed victory in Iran war",
+        "summary": [
+            "دونالد ترامپ بارها ادعا کرده که در درگیری‌ها با ای-ران پیروز شده است.",
+            "واقعیت میدانی نشان می‌دهد که تنش‌ها و چالش‌های این پرونده همچنان ادامه دارد."
+        ],
+        "impact": "این ادعاها بخشی از جنگ روانی و فشارهای سیاسی جریان حامی ترامپ است.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Indy100 on MSN",
+        "url": "https://www.msn.com/en-us/news/other/9-times-trump-claimed-victory-in-iran-war-which-is-actually-still-ongoing/ar-AA2dkV4m",
+        "clean_url": "https://www.msn.com/en-us/news/other/9-times-trump-claimed-victory-in-iran-war-which-is-actually-still-ongoing/ar-AA2dkV4m",
+        "image": "http://www.bing.com/th?id=ONUT.JOd-GDLBeRGU6Od-wBrdNw&pid=News",
+        "timestamp": 1790823320.0
+    },
+    {
         "id": "e3ada91b59",
         "title_fa": "اخراج زودهنگام هیأت دیپلماتیک جـ.ا از نیویورک با دستور روبیو",
         "title_en": "Rubio orders visiting Iranian UN delegation to leave NYC ahead of schedule - ABC News",
@@ -421,6 +439,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX09XQVdqYXN0MXFCR1d5aVVqWHkxdmxfdjVKUDdaS1AtVmlKSjJ0MTMtdHU0aXVHVVMxQ29CR0R4U0dTb0piRDdkNFpKdlBRdmJUZVN4X3dkc3NzNkNiNHp6U1ZzWUxVWFl1azNpM2IzS29QcTBraGJYOW1WWGpXV3NPTUFOa1RsRU9VNGc4S1U4UzNKeFVmNjBHc3lhdFVjZHlfQThGS0NlOWNrdlZ5TWV6eEbSAboBQVVfeXFMTS1xSlkwb3lQU0hEQWgweTZ3dll0NlVYSEpQeUpoN3BVR05FWTMxN0ZwSUdTaTFVMVNWcDl1bU54alhDa0JUSHViRDNfSDVSQUdCaU1IQ1FCdTl0aGRLMF8yTGZpbjhPOUNhMjhIWUlTczRJNHpKU19ZSnBoeVlNWFIwZGI2YTRxZHZSbXB3WUlFN1Q3X2Z0QTJPdzd6QVhwajVJR2RmNzFGd1VSbFJyeml6Y3ZqSnloLTBB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790812913.0
+    },
+    {
+        "id": "652b3579de",
+        "title_fa": "جهش ۲۶ درصدی رمزارز SOON در صرافی ایندوداکس",
+        "title_en": "Indodax showcases SOON among top market movers with 26.42% growth in one day",
+        "summary": [
+            "ارز دیجیتال SOON رشد سریعی را در بازه ۲۴ ساعته ثبت کرد.",
+            "این نوسانات شدید نشان‌دهنده پویایی و عدم قطعیت در بازارهای مالی دیجیتال است."
+        ],
+        "impact": "تغییرات سریع قیمت‌ها در صرافی‌های رمزارز توجه معامله‌گران را به خود جلب کرده است.",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "tradersunion",
+        "url": "https://tradersunion.com/news/brokers-news/show/3597504-indodax-spotlights-soon-s-market-surge/",
+        "clean_url": "https://tradersunion.com/news/brokers-news/show/3597504-indodax-spotlights-soon-s-market-surge",
+        "image": "https://files.tradersunion.com/images/brokers-twitter-news/indodax/indodax_02.jpg",
+        "timestamp": 1790812800.0
     },
     {
         "id": "f97e778f5a",
@@ -5458,41 +5494,5 @@
         "clean_url": "https://www.thedailybeast.com/this-moment-shows-trumps-bubble-is-about-to-burst-political-guru",
         "image": "http://www.bing.com/th?id=ONUT.68BNPSA1biPNMiAxTFQ1eA&pid=News",
         "timestamp": 1790614680.0
-    },
-    {
-        "id": "0c28a3eab3",
-        "title_fa": "اثربخشی فشار حداکثری ترامپ بر جبهه نفتی ایران",
-        "title_en": "Trump’s Iran strategy is working — the ayatollah suffers as oil flows again",
-        "summary": [
-            "فروش نفت تئران تحت تاثیر رویکرد سخت‌گیرانه واشنگتن با چالش‌های جدی مواجه شده است.",
-            "ماشین تبلیغاتی حکومت تلاش کرده بود قیمت بالای نفت را نشانه شکست سیاست تحریم‌ها جا بزند."
-        ],
-        "impact": "تنگنای مالی شدید برای ماشین جنگی ج.ه. و کاهش درآمدهای ارزی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-iran-strategy-is-working-the-ayatollah-suffers-as-oil-flows-again/ar-AA2d9vmZ",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-iran-strategy-is-working-the-ayatollah-suffers-as-oil-flows-again/ar-AA2d9vmZ",
-        "image": "http://www.bing.com/th?id=ONUT.5M87qjl28jsVOn38yQvVUQ&pid=News",
-        "timestamp": 1790613392.0
-    },
-    {
-        "id": "017758b75a",
-        "title_fa": "قهر حامیان مالی دموکرات‌ها پس از شکست سنگین ۲۰۲۴",
-        "title_en": "Former Obama aides claim Democratic donors are still holding back after being burned by 2024 loss",
-        "summary": [
-            "مشاوران سابق اوباما فاش کردند که اسپانسرهای مالی بزرگ دموکرات‌ها به دلیل سرخوردگی از شکست قبلی، دست به جیب نمی‌شوند.",
-            "این بی‌میلی مالی، شانس دموکرات‌ها را برای استفاده از فرصت طلایی انتخابات میان‌دوره‌ای به شدت کاهش می‌دهد."
-        ],
-        "impact": "بحران بودجه در کمپین‌های انتخاباتی دموکرات‌ها و تسهیل مسیر پیروزی برای جمهوری‌خواهان.",
-        "tag": "سیاست_آمریکا",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/former-obama-aides-claim-democratic-donors-are-still-holding-back-after-being-burned-by-2024-loss/ar-AA2d8Mbj",
-        "clean_url": "https://www.msn.com/en-us/news/other/former-obama-aides-claim-democratic-donors-are-still-holding-back-after-being-burned-by-2024-loss/ar-AA2d8Mbj",
-        "image": "http://www.bing.com/th?id=ONUT.9Wl6WIXIdHyfZhtg3w02oQ&pid=News",
-        "timestamp": 1790612759.0
     }
 ]
