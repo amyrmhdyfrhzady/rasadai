@@ -901,6 +901,26 @@
         "timestamp": 1790791980.0
     },
     {
+        "id": "ecba1fbc19",
+        "title_fa": "التزام ترامپ به تعیین تکلیف نهایی تهران؛ توافق یا نابودی",
+        "title_en": "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump",
+        "summary": [
+            "مقام‌های ارشد ج.ا تایید کردند که پیشنهاد متقابل ایالات متحده درباره آتش‌بس و بازگشایی تنگه هرمز را دریافت کرده و در حال بررسی آن هستند.",
+            "دونالد ترامپ با صراحت اعلام کرد زمان تصمیم‌گیری رسیده و کار با تهران یا از طریق توافق یا با گزینه نظامی به زودی تمام خواهد شد.",
+            "سپاه پاسداران همچنان بر خروج کامل نیروهای آمریکایی از منطقه به عنوان تنها راه پایان درگیری‌ها پافشاری می‌کند.",
+            "نخست‌وزیر عراق به گروه‌های مسلح وابسته به تهران تا پایان خرداد ماه مهلت داد تا سلاح‌های خود را تحویل دولت دهند."
+        ],
+        "impact": "فشار همزمان نظامی و دیپلماتیک بر تهران، حاکمیت را در تنگنای تاریخی انتخاب میان توافق باج‌خواهانه یا جنگ تمام‌عیار قرار داده است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/30/e8e07fe4-bdd6-40c9-994b-b14eab888c59/thumbnail/1200x630/88dff68d88710dac78858213b6cf30a1/gettyimages-2297156327.jpg",
+        "timestamp": 1790790960.0
+    },
+    {
         "id": "b79840557a",
         "title_fa": "جهش قیمت نفت از ترس درگیری آمریکا و جـ.ـهـ.ـوری ا.سـ.ـلا.مـ.ـی",
         "title_en": "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict",
@@ -5475,23 +5495,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/dem-senate-nominee-breaks-silence-after-susan-collins-office-was-vandalized-with-vulgar-message/ar-AA2d93Wm",
         "image": "http://www.bing.com/th?id=ONUT.sHR7RqOBdWtmiGfQv656rA&pid=News",
         "timestamp": 1790609707.0
-    },
-    {
-        "id": "24bfd5cf95",
-        "title_fa": "تکذیب صریح شایعه توافق؛ ترامپ بسته پیشنهادی به ت خ ی ر ا ت را رد کرد",
-        "title_en": "ترامپ گزارش اکسیوس درباره پیشنهاد کاهش تحریم‌های جمهوری اسلامی را تکذیب کرد",
-        "summary": [
-            "دونالد ترامپ گزارش رسانه اکسیوس درباره کاهش تحریم‌ها و آزادسازی پول‌های مسدودشده را کاملاً دروغ خواند.",
-            "رئیس‌جمهور آمریکا با حمله به رسانه‌ها، هرگونه امتیازدهی به ح ک و م ت را تکذیب کرد و خواستار پس گرفتن این خبر شد."
-        ],
-        "impact": "خط بطلان بر امیدهای کاذب برای توافق سریع و بازگشت منابع مالی به کشور کشید.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609281137",
-        "clean_url": "https://www.iranintl.com/202609281137",
-        "image": "http://www.bing.com/th?id=ONUT.54wMPI7Pr75-eBBPeny7BA&pid=News",
-        "timestamp": 1790608980.0
     }
 ]
