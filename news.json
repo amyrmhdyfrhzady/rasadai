@@ -257,6 +257,25 @@
         "timestamp": 1790831100.0
     },
     {
+        "id": "e96a0e9160",
+        "title_fa": "استفاده از زنان و کودکان در پست‌های بازرسی س - پ - ا - ه",
+        "title_en": "In Iran, Women, Children Increasingly Monitor Checkpoints",
+        "summary": [
+            "نیروهای نظامی ج - م - ه - و - ر - ی ا - س - ل - ا - م - ی از ترس درگیری‌های بزرگ‌تر، آموزش نظامی را به زنان و کودکان کشانده‌اند.",
+            "تصاویر به دست آمده نشان می‌دهد کودکان و زنان در کنار شبه‌نظامیان در پست‌های بازرسی مستقر شده‌اند.",
+            "این اقدام نشان‌دهنده امنیتی‌تر شدن جامعه و حضور عریان نهادهای نظامی در زندگی روزمره مردم است."
+        ],
+        "impact": "تلاش حکومت برای سپر انسانی ساختن از اقشار ضعیف جامعه در بحران‌های پیش‌رو.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Alhurra",
+        "url": "https://alhurra.com/en/43703",
+        "clean_url": "https://alhurra.com/en/43703",
+        "image": "https://i0.wp.com/alhurra.com/wp-content/uploads/2026/09/1000235337.jpg?fit=624%2C416&ssl=1",
+        "timestamp": 1790831040.0
+    },
+    {
         "id": "bc6d8d8306",
         "title_fa": "هشدار تند تهران به ابوظبی درباره میزبان اِسرائیل",
         "title_en": "Iran warns UAE over hosting NetanyahuPublished on: October 1, 2026 11:23 AM",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/lebanese-pm-after-meeting-rubio-we-talked-about-restoring-lebanese-sovereignty-timeline-for-idf-withdrawal/ar-AA2d8r3j",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26271522742614.jpg",
         "timestamp": 1790618564.0
-    },
-    {
-        "id": "310dc6fc7b",
-        "title_fa": "پوتین: روسیه رکوردار ساخت نیروگاه‌های هسته‌ای در جهان است",
-        "title_en": "Russia on top in building nuclear power units overseas — Putin",
-        "summary": [
-            "ولادیمیر پوتین در دیدار با رئیس روس‌اتوم بر برتری مسکو در ساخت نیروگاه‌های هسته‌ای خارجی تاکید کرد.",
-            "روسیه از فناوری‌های پیشرفته برای توسعه فعالیت‌های هسته‌ای در سطح بین‌المللی استفاده می‌کند."
-        ],
-        "impact": "توسعه نفوذ تکنولوژیک و ژئوپلیتیک روسیه در حوزه انرژی هسته‌ای جهانی.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2194121",
-        "clean_url": "https://tass.com/economy/2194121",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790618040.0
     }
 ]
