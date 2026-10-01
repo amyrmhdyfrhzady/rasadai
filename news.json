@@ -1,5 +1,23 @@
 [
     {
+        "id": "9608fb4d2f",
+        "title_fa": "تلاش آمریکا برای ایجاد مکانیسم تازه نظارت بر تـحـر یـم‌ های تـهـر ا ن",
+        "title_en": "US pushes for new UN multilateral body to monitor Iran sanctions",
+        "summary": [
+            "واشنگتن به دنبال تشکیل یک ساختار چندجانبه جدید در سازمان ملل برای کنترل دقیق‌تر تحریم‌هاست.",
+            "این اقدام پس از اختلاف‌نظر شدید بر سر قانونی بودن یا انقضای قطعنامه‌های قبلی علیه حـکـومـت شکل گرفته است."
+        ],
+        "impact": "بسته شدن راه‌های فرار از تحریم‌ها و افزایش فشارهای اقتصادی بر دستگاه حاکمه.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The National",
+        "url": "https://www.msn.com/en-ae/news/world/us-pushes-for-new-un-multilateral-body-to-monitor-iran-sanctions/ar-AA2dmufa",
+        "clean_url": "https://www.msn.com/en-ae/news/world/us-pushes-for-new-un-multilateral-body-to-monitor-iran-sanctions/ar-AA2dmufa",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dmGAn.img?w=4206&h=2804&m=4&q=80",
+        "timestamp": 1790877755.0
+    },
+    {
         "id": "2f1ed81993",
         "title_fa": "تحریم‌های جدید آمریکا علیه بخش خودرو و ریلی ایـرـاـن",
         "title_en": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.iranintl.com/202609299604",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790638740.0
-    },
-    {
-        "id": "43288b7e62",
-        "title_fa": "انتظار تهران برای پاسخ واشنگتن درباره تنگه هرمز",
-        "title_en": "Iran war LIVE: Iran says it expects US to answer today on plan to open Hormuz",
-        "summary": [
-            "عباس عراقچی از انجام مذاکرات غیرمسقیم با واسطه‌گری قطر با آمریکا خبر داد.",
-            "دونالد ترامپ گزارش‌ها درباره لغو تحریم‌ها و آزادسازی پول‌های مسدودشده را رد کرد."
-        ],
-        "impact": "سرنوشت امنیت تنگه هرمز و تنش‌های منطقه‌ای به پاسخ رسمی ایالات متحده گره خورده است.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/us-news/iran-war-live-news-latest-updates-donald-trump-abbas-araghchi-ceasefire-peace-talks-strait-of-hormuz-oil-prices-11790645895271.html",
-        "clean_url": "https://www.livemint.com/news/us-news/iran-war-live-news-latest-updates-donald-trump-abbas-araghchi-ceasefire-peace-talks-strait-of-hormuz-oil-prices-11790645895271.html",
-        "image": "http://www.bing.com/th?id=ONUT.2VQ7EgHUnw0f6MmFO0P44Q&pid=News",
-        "timestamp": 1790636760.0
     }
 ]
