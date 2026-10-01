@@ -239,6 +239,25 @@
         "timestamp": 1790812800.0
     },
     {
+        "id": "2d68e26399",
+        "title_fa": "اعتراف وزیر اقتصاد به ناتوانی در مهار بحران ارز و اینترنت",
+        "title_en": "Iran economy minister rejects predictions of imminent collapse",
+        "summary": [
+            "وزیر اقتصاد ادعای فروپاشی زودهنگام کشور را رد کرد، اما اعتراف نمود که هراس عمومی بازار ارز را به هم می‌ریزد.",
+            "یک مقام رسمی اذعان کرد که اینترنت استارلینک کنترل حکومت بر فضای مجازی را کاملاً از کار اندخته است.",
+            "مسئولان اعتراف کردند که سال‌ها هشدار درباره از دست رفتن کنترل ارتباطات بی‌نتیجه بوده و وزارت ارتباطات عملاً کارایی خود را از دست داده است."
+        ],
+        "impact": "فروپاشی کنترل امنیتی بر اینترنت و هجوم نقدینگی به بازار آزاد ارز",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610010316",
+        "clean_url": "https://www.iranintl.com/en/202610010316",
+        "image": "http://www.bing.com/th?id=ONUT.HYU0LVrTp9cGA5vzw_wPdg&pid=News",
+        "timestamp": 1790810700.0
+    },
+    {
         "id": "c52bd44f28",
         "title_fa": "گزارش تحولات میدانی و امنیتی ایران",
         "title_en": "Iran Update, September 30, 2026",
@@ -5472,24 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790603385.0
-    },
-    {
-        "id": "582f319f61",
-        "title_fa": "انزوای هوایی ج.ا و فشار سنگین بر مسافران و ایرلاین‌ها",
-        "title_en": "Iran’s shrinking air links raise costs, strain regional ties",
-        "summary": [
-            "تحریم‌های هوانوردی آمریکا باعث شده پروازهای بین‌المللی ج.ا در یک هفته به نصف کاهش یابد.",
-            "شرکت‌های خارجی به دلیل ترس از جریمه‌های سنگین آمریکا، همکاری با ج.ا را متوقف کرده‌اند.",
-            "فشار تهران بر کشورهای همسایه برای رفع محدودیت‌های پروازی، تنش‌های دیپلماتیک جدیدی ایجاد کرده است."
-        ],
-        "impact": "افزایش شدید هزینه‌های سفر و قطع دسترسی‌های لجستیکی در پی انزوای کامل صنعت هوانوردی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609286267",
-        "clean_url": "https://www.iranintl.com/en/202609286267",
-        "image": "http://www.bing.com/th?id=ONUT.YVPD_IggxieawL2U_WHFOQ&pid=News",
-        "timestamp": 1790602800.0
     }
 ]
