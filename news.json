@@ -661,6 +661,25 @@
         "timestamp": 1790797740.0
     },
     {
+        "id": "e57ea33242",
+        "title_fa": "حمله کیهان به دولت پزشکیان همزمان با سقوط تاریخی ریال",
+        "title_en": "Iran's hardline daily attacks talks with US as rial weakens",
+        "summary": [
+            "روزنامه کیهان زیر نظر رهبر ج.ا، دیپلماسی و مذاکره با آمریکا را عامل اصلی فروپاشی ارزش پول ملی دانست و خواستار اعلام وضعیت تمام‌عیار جنگی شد.",
+            "جناح تندرو با ابزار قرار دادن رکوردشکنی قیمت دلار، در حال بستن کامل روزنه‌های دیپلماسی و احیای توافق با غرب است.",
+            "پیام صریح شریعتمداری به پزشکیان روشن است: توهم تنش‌زدایی را کنار بگذارید و اقتصاد کشور را وارد فاز سخت‌گیرانه جنگی کنید."
+        ],
+        "impact": "تشدید شکاف ساختاری در راس حکومت و موج جدید ناامیدی در بازار ارز که سقوط بیشتر ریال را تسریع می‌کند.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610011563",
+        "clean_url": "https://www.iranintl.com/en/202610011563",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790797440.0
+    },
+    {
         "id": "680b678262",
         "title_fa": "افشای طرح حمله نیابتی و انتقاد نتانیاهو از لندن",
         "title_en": "نتانیاهو: ما اطلاعات حمله‌ای که مورد حمایت جمهوری اسلامی بود را به بریتانیا دادیم",
@@ -5473,24 +5492,5 @@
         "clean_url": "https://www.thedailybeast.com/must-win-maga-candidate-executes-screeching-trump-reverse",
         "image": "http://www.bing.com/th?id=ONUT.r1-TpLfNOwTLH7qZpDV1fQ&pid=News",
         "timestamp": 1790608860.0
-    },
-    {
-        "id": "d723f86653",
-        "title_fa": "ترامپ و دوراهی ایران پس از انتخابات میان‌دوره‌ای",
-        "title_en": "Trump’s Iran Decision After the Midterms: Deal or Escalation?",
-        "summary": [
-            "تیم ترامپ در حال بازنگری در استراتژی فشار حداکثری برای مهار نفوذ منطقه‌ای ج.ا است.",
-            "گزینه‌های روی میز از بازگشت تحریم‌های فلج‌کننده تا تهدید به اقدامات نظامی مستقیم متغیر است.",
-            "تغییر در سیاست کاخ سفید می‌تواند توازن قوا در خاورمیانه را به نفع اسرائیل تغییر دهد."
-        ],
-        "impact": "افزایش نااطمینانی در بازار ارز و احتمال تشدید تنش‌های نظامی در منطقه.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUm1uNXJfSFBYbkZYWFRITHBPTXhGVmg5ZXVkYjZ4NVJFZWRKNzBZM1RrMXBnLWZteTc2U2M2SnZiT1RYUUUzUW4weVlZUFFwelg5TnpjQ0xXTUR4bkFremRQUHVKMFFCTHZ0S2V6OFFxZXFXTWtn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUm1uNXJfSFBYbkZYWFRITHBPTXhGVmg5ZXVkYjZ4NVJFZWRKNzBZM1RrMXBnLWZteTc2U2M2SnZiT1RYUUUzUW4weVlZUFFwelg5TnpjQ0xXTUR4bkFremRQUHVKMFFCTHZ0S2V6OFFxZXFXTWtn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790608117.0
     }
 ]
