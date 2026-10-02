@@ -1,5 +1,24 @@
 [
     {
+        "id": "5e906f2838",
+        "title_fa": "فلج شدن مراکز تعمیرات کامیون در اصفهان زیر بار تورم",
+        "title_en": "Iran's truck repair hub feels the squeeze as work dries up",
+        "summary": [
+            "رکود حمل‌ونقل و تورم شدید، تعمیرگاه‌ها و بازار قطعات سنگین در اصفهان را به تعطیلی کشانده است.",
+            "رانندگان کامیون با اقساط سنگین وام خودرو و هزینه‌های سرسام‌آور زندگی دست‌وپنجه نرم می‌کنند.",
+            "تورم نقطه به نقطه نزدیک به نود درصد، توان اقتصادی خانواده‌های شاغل در بخش حمل‌ونقل را نابود کرده است."
+        ],
+        "impact": "فلج شدن زنجیره لجستیک و توقف چرخه حمل‌ونقل سنگین به دلیل بحران اقتصادی.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610022659",
+        "clean_url": "https://www.iranintl.com/en/202610022659",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/47f43ac8d7f981ced6bc8cbf04762feff5021388-1027x676.png?rect=7,0,1014,676&w=576&h=384&q=58&fit=max&auto=format",
+        "timestamp": 1790940420.0
+    },
+    {
         "id": "7b8068a84c",
         "title_fa": "ادعای تسلط کامل نیروهای نظامی بر تنگه هرمز",
         "title_en": "Iran lawmaker says armed forces have full control over Strait of Hormuz",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.iranintl.com/202609290065",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790692260.0
-    },
-    {
-        "id": "401131fd4c",
-        "title_fa": "نامه‌نگاری سـپاه برای آمریکا؛ تیر خلاص به توهمات داخلی",
-        "title_en": "جمشید برزگر: نامه سپاه پاسداران خطاب به مردم آمریکا بیشتر کاربرد داخلی دارد",
-        "summary": [
-            "نامه سـپاه به مردم آمریکا مصرف داخلی دارد و از واقعیت جامعه آمریکا کاملاً دور است.",
-            "ساختار قدرت در جـمهوری اسـلامی دچار آشفتگی و بحران شدید رهبری است."
-        ],
-        "impact": "نمایان شدن شکاف عمیق میان حاکمیت و درک تحولات بین‌المللی",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609290650",
-        "clean_url": "https://www.iranintl.com/202609290650",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790692080.0
     }
 ]
