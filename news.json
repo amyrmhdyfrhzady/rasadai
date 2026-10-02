@@ -254,6 +254,25 @@
         "timestamp": 1790892326.0
     },
     {
+        "id": "1f0ea91c84",
+        "title_fa": "حملات هفتگی پهپادی به کشتی‌ها در تنگه هرمز",
+        "title_en": "Oil Flows Are Up, but Iran Is Still Menacing the Strait of Hormuz",
+        "summary": [
+            "تداوم شلیک‌های هفتگی پهپاد و موشک به سمت نفتکش‌ها نشان می‌دهد ناامنسازی شریان انرژی همچنان ابزار اصلی برای باج‌گیری منطقه‌ای است.",
+            "تمرکز بر تنگه هرمز با هدف بالا بردن هزینه حمل‌ونقل و فشار بر بازار جهانی نفت انجام می‌شود.",
+            "عدم اصابت دقیق اکثر پرتابه‌ها، خنثی‌سازی عملیاتی توسط پدافند ناورهای فرامنطقه‌ای را تایید می‌کند."
+        ],
+        "impact": "جهش احتمالی نرخ بیمه کشتی‌رانی و افزایش ریسک ترانزیت انرژی در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html",
+        "clean_url": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790892060.0
+    },
+    {
         "id": "d1eec9bb70",
         "title_fa": "شکست در شورای امنیت بر سر تمدید تحریم‌های اتمی جـ.ـمـ.ـهـ.ـوری اسـ.ـلا‌مـ.ـی",
         "title_en": "UNSC Veto Splits Assembly Over Iran Sanctions Panel Renewal",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://www.iranintl.com/202609293177",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790673120.0
-    },
-    {
-        "id": "73ec6f08ae",
-        "title_fa": "سقوط آزاد اقتصاد ج.ا؛ شُک ارزی پایدار شد",
-        "title_en": "بورگان نظامی: اقتصاد ایران وارد دوران سقوط شده است",
-        "summary": [
-            "جهش ۱۸ درصدی نرخ ارز در سه ماه گذشته بحران ارزی را وارد مرحله جدیدی کرده است.",
-            "محدود شدن کانال‌های درآمدی، اقتصاد را در آستانه فروپاشی ساختاری قرار داده است."
-        ],
-        "impact": "تشدید بحران ارزی و نابودی کامل قدرت خرید عمومی در بازار.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609291665",
-        "clean_url": "https://www.iranintl.com/202609291665",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790672820.0
     }
 ]
