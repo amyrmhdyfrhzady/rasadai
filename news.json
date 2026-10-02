@@ -637,6 +637,24 @@
         "timestamp": 1790869500.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "حواشی ورزشی آمریکا و پوشش رسانه‌ای حواشی ترامپ",
+        "title_en": "US latest news",
+        "summary": [
+            "اخبار روز ورزش آمریکا شامل رقابت‌های لیگ فوتبال آمریکایی و بیسبال بدون اهمیت ژئوپلیتیک.",
+            "تمرکز نشریات بر تبلیغ بولتن‌های خبری سیاسی پیرامون حواشی و سیاست‌های دولت ترامپ."
+        ],
+        "impact": "بدون هیچ‌گونه تأثیر عملیاتی، اقتصادی یا ژئوپلیتیکی بر خاورمیانه.",
+        "tag": "رسانه",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1790868840.0
+    },
+    {
         "id": "acf3a14e5b",
         "title_fa": "صفر شدن بارگیری نفت خام جـ.-هـ. در ماه سپتامبر",
         "title_en": "اسکات بسنت، وزیر خزانه‌داری آمریکا: بارگیری نفت خام ایران در ماه سپتامبر به صفر رسید",
@@ -5470,24 +5488,5 @@
         "clean_url": "https://www.iranintl.com/202609291665",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790672820.0
-    },
-    {
-        "id": "d82cc55d2c",
-        "title_fa": "عبور دلار از مرز ۲.۵ میلیون ریال",
-        "title_en": "US dollar rises above 2.5 million rials in Iran as inflation pressures deepen",
-        "summary": [
-            "نرخ دلار آزاد در بازار ایران با ثبت رکوردی تازه از مرز ۲۵۰ هزار تومان عبور کرد.",
-            "این سقوط ارزش پول ملی، قدرت خرید خانواده‌ها را به شدت کاهش داده است.",
-            "گرانی ارز واردات مواد اولیه و دارو را گران‌تر کرده و سفره مردم را کوچک‌تر می‌کند."
-        ],
-        "impact": "سقوط آزاد ریال فشار معیشتی بر حقوق‌بگیران و بازنشستگان را به نقطه بحرانی رسانده است.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609297229",
-        "clean_url": "https://www.iranintl.com/en/202609297229",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790672040.0
     }
 ]
