@@ -37,6 +37,24 @@
         "timestamp": 1790939700.0
     },
     {
+        "id": "208691d4a8",
+        "title_fa": "نوسان قیمت سوخت در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "پایش روزانه قیمت بنزین در ایالات مختلف آمریکا نشان‌دهنده تغییرات مداوم در هزینه‌های انرژی است.",
+            "این آمارها به تحلیلگران کمک می‌کند تا تاثیر سیاست‌های اقتصادی دولت بر بازار انرژی را ارزیابی کنند."
+        ],
+        "impact": "تغییرات قیمت سوخت مستقیماً بر هزینه‌های حمل‌ونقل و تورم عمومی در آمریکا تاثیر می‌گذارد.",
+        "tag": "انرژی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790939580.0
+    },
+    {
         "id": "d73c0c466a",
         "title_fa": "افشای نقشه ج.ا برای استفاده از القاعده به عنوان بازوی مخفی",
         "title_en": "Al-Qaeda is Iran's quiet backup if the war turns, expert says",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://www.iranintl.com/202609290439",
         "image": "http://www.bing.com/th?id=ONUT.YlHyJf0_FFWNxIM9YwuC7g&pid=News",
         "timestamp": 1790692740.0
-    },
-    {
-        "id": "68fb620637",
-        "title_fa": "شکایت نتانیاهو از هاآرتص بر سر هشدار امارات پیش از هفت اکتبر",
-        "title_en": "نتانیاهو از روزنامه هاآرتص، چند رسانه وروزنامه‌نگار شکایت کرد",
-        "summary": [
-            "نخست‌وزیر اسرائیل از روزنامه هاآرتص به دلیل انتشار گزارش هشدار امارات شکایت کرد.",
-            "این گزارش مدعی است نتانیاهو هشدار ابوظبی درباره حمله حماس را نادیده گرفته است."
-        ],
-        "impact": "تشدید جنگ رسانه‌ای و سیاسی پیرامون پرونده امنیتی هفت اکتبر در اسرائیل",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609290065",
-        "clean_url": "https://www.iranintl.com/202609290065",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790692260.0
     }
 ]
