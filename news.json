@@ -18,6 +18,24 @@
         "timestamp": 1790947046.0
     },
     {
+        "id": "46bcfd67ca",
+        "title_fa": "کشته شدن پنج نفر در درگیری‌های جنوب شرق",
+        "title_en": "Five killed in roadside attack as violence spreads in southeast Iran",
+        "summary": [
+            "حمله مسلحانه در جاده‌های جنوب شرق کشور به کشته شدن پنج نفر منجر شد.",
+            "ناامنی و خشونت در این منطقه مرزی روند صعودی به خود گرفته است."
+        ],
+        "impact": "افزایش ناآرامی‌ها و درگیری‌های مسلحانه در مناطق مرزی جنوب شرق.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbE5HYnhtdW9rcW5OYVBSQmQ2S2Fmb083b3Y0ZkRxT180bnkycXRaUEsyX0RqbGR6Q1QxQzZhQUljWTAxMjFDc1VlMGFmVWRoVWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbE5HYnhtdW9rcW5OYVBSQmQ2S2Fmb083b3Y0ZkRxT180bnkycXRaUEsyX0RqbGR6Q1QxQzZhQUljWTAxMjFDc1VlMGFmVWRoVWc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790944678.0
+    },
+    {
         "id": "ba6b44c5fc",
         "title_fa": "تهدید اروپا توسط تهران در صورت استفاده از پایگاه‌های منطقه",
         "title_en": "Attacks from Arab states would put Europe at risk, Iranian cleric says",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://en.yenisafak.com/world/hormuz-crisis-pushes-gulf-states-toward-new-oil-export-routes-3723871",
         "image": "https://img.piri.net/piri/upload/3/2026/9/29/8e75f2f3-israeli-opposition-blames-netanyahu-for-west-bank-violence.webp",
         "timestamp": 1790697360.0
-    },
-    {
-        "id": "02518e001f",
-        "title_fa": "ترامپ: ج.ا در باتلاق گیر افتاده و چاره‌ای جز تسلیم ندارد",
-        "title_en": "اورتگاس: انتظار تهران برای محدود شدن قدرت ترامپ محاسبه‌ای اشتباه است",
-        "summary": [
-            "مورگان اورتگاس هشدار داد که انتظار تهران برای کاهش قدرت ترامپ در کنگره، یک خطای محاسباتی مرگبار است.",
-            "ترامپ با اشاره به وضعیت فاجعه‌بار اقتصادی ج.ا تأکید کرد که ممانعت از دستیابی این حکومت به بمب اتم خط قرمز قطعی واشنگتن است.",
-            "عبور ایمن نفتکش‌ها از تنگه هرمز و شکست سناریوی بستن آبراهه‌ها، شکست دیگری را بر توهمات نظامی تهران تحمیل کرده است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و بی‌اثر شدن تهدیدات دریایی ج.ا در خلیج فارس.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609298916",
-        "clean_url": "https://www.iranintl.com/202609298916",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/fbd840d81962cae92687028e523508e582320d04-1167x611.jpg?rect=119,0,930,488&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790696160.0
     }
 ]
