@@ -345,6 +345,25 @@
         "timestamp": 1790886180.0
     },
     {
+        "id": "ab6c40bbc0",
+        "title_fa": "اخراج متقابل دیپلمات‌ها؛ بالا گرفتن جنگ دیپلماتیک مصر و اتیوپی",
+        "title_en": "Egypt expels Ethiopian envoy in tit-for-tat move",
+        "summary": [
+            "مصر در اقدامی تلافی‌جویانه، دیپلمات ارشد اتیوپی را عنصر نامطلوب خواند و ۴۸ ساعت برای خروج از قاهره به او مهلت داد.",
+            "این تصمیم مستقیم در پاسخ به اخراج پیشین دیپلمات مصری از آدیس‌آبابا رخ داد و نشان‌دهنده تعمیق شکاف سیاسی میان دو کشور است.",
+            "تنش‌ها سر منابع آبی رود نیل و سد النهضه وارد مرحله خطیر صف‌آرایی دیپلماتیک شده است."
+        ],
+        "impact": "بن‌بست کامل در مذاکرات تقسیم آب نیل و افزایش احتمال تحرکات نیابتی در شاخ آفریقا.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "en.yenisafak",
+        "url": "https://en.yenisafak.com/world/egypt-expels-ethiopian-diplomat-in-retaliation-3724010",
+        "clean_url": "https://en.yenisafak.com/world/egypt-expels-ethiopian-diplomat-in-retaliation-3724010",
+        "image": "https://img.piri.net/piri/upload/3/2026/10/2/0c02d666-egypt-expels-ethiopian-envoy-in-tit-for-tat-move.webp",
+        "timestamp": 1790885640.0
+    },
+    {
         "id": "5494aba6f2",
         "title_fa": "ادعای ترامپ درباره ارتباط خلبان فلای‌دبی با ایران",
         "title_en": "Trump suggests FlyDubai co-pilot is linked to Iran, \"based on what I'm hearing\"",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.iranintl.com/202609294660",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790675040.0
-    },
-    {
-        "id": "f68d8bc735",
-        "title_fa": "بن‌بست راهبردی تهران میان بازی دیپلماتیک و تهدید نظامی",
-        "title_en": "حسین آقایی: جمهوری اسلامی در تنگنای راهبردی شدید قرار دارد",
-        "summary": [
-            "حاکمیت تحت فشار سنگین اقتصادی و محاصره دریایی برای بقا دست‌وپا می‌زند.",
-            "دیپلماسی در نیویورک صرفاً ابزاری برای خرید زمان در برابر فشارهای فزاینده است."
-        ],
-        "impact": "افزایش ریسک درگیری در آب‌های منطقه‌ای به دلیل تقابل ناشی از استیصال.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609293177",
-        "clean_url": "https://www.iranintl.com/202609293177",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790673120.0
     }
 ]
