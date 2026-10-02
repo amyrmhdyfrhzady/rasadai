@@ -72,6 +72,25 @@
         "timestamp": 1790950500.0
     },
     {
+        "id": "08d9ab4b50",
+        "title_fa": "هشدار نتانیاهو درباره طرح سرنگونی هواپیمای فلای‌دبی",
+        "title_en": "Netanyahu says flydubai attacker intended to crash plane with passengers",
+        "summary": [
+            "نخست‌وزیر اسرائیل از رادیکال شدن مهاجم پرواز فلای‌دبی با ایدئولوژی اسلامی خبر داد.",
+            "هدف مهاجم، سقوط عمدی هواپیما همراه با مسافران آن بوده است.",
+            "مقام‌های امنیتی در حال بررسی احتمال هدایت این حمله از سوی عوامل پشت‌پرده هستند."
+        ],
+        "impact": "افزایش شدید هشدارهای امنیتی پروازهای منطقه‌ای و فشار بر شبکه نیابتی جـمهوری اسـلامی.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610027811",
+        "clean_url": "https://www.iranintl.com/en/202610027811",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790949840.0
+    },
+    {
         "id": "2996c46673",
         "title_fa": "ادعای ترامپ درباره ابعاد پنهان برنامه هسته ای ج.ا",
         "title_en": "Trump Claims Nuclear Weapons Weren’t the Only Things Iran Was Making",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://www.msn.com/es-us/noticias/other/ir%C3%A1n-le-dice-a-estadounidenses-que-guerra-de-trump-ha-fracasado-y-otras-noticias-de-oriente-medio/ar-AA2dclnJ",
         "image": "http://www.bing.com/th?id=ONUT.8D8wXCgHt6gLWcsSpMwHyw&pid=News",
         "timestamp": 1790712608.0
-    },
-    {
-        "id": "6c9a1e058c",
-        "title_fa": "تداوم حملات هوایی اسرائیل به غزه با وجود آتش‌بس",
-        "title_en": "Israeli strikes kill Gaza woman, injure 5 despite ceasefire",
-        "summary": [
-            "حملات بالگردها و توپخانه ارتش اسرائیل به شهر غزه و محله شجاعیه منجر به کشته شدن یک زن و زخمی شدن ۵ تن دیگر شد.",
-            "شلیک مستقیم موشک به واحدهای مسکونی عملاً توافق آتش‌بس را بی‌اثر و ناپایدار کرده است."
-        ],
-        "impact": "افزایش احتمال از سرگیری تبادل آتش گسترده و نقض کامل توافق‌های آتش‌بس در منطقه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "en.yenisafak",
-        "url": "https://en.yenisafak.com/world/israeli-strikes-kill-gaza-woman-injure-5-despite-ceasefire-3723901",
-        "clean_url": "https://en.yenisafak.com/world/israeli-strikes-kill-gaza-woman-injure-5-despite-ceasefire-3723901",
-        "image": "https://img.piri.net/piri/upload/3/2026/9/30/60c24371-israeli-strikes-kill-gaza-woman-injure-5-despite-ceasefire.webp",
-        "timestamp": 1790710800.0
     }
 ]
