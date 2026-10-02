@@ -621,6 +621,24 @@
         "timestamp": 1790923901.0
     },
     {
+        "id": "9ddcd64b4b",
+        "title_fa": "خط‌ونشان مجلس برای ترامپ؛ واکنش پرهزینه در راه است",
+        "title_en": "نماینده مجلس: هر اقدام جدید آمریکا با واکنشی قاطع و پرهزینه روبه‌رو خواهد شد",
+        "summary": [
+            "سخنگوی کمیسیون امور داخلی مجلس ادعا کرد که هر اقدام تازه از سوی واشینگتن با پاسخ سنگین مواجه خواهد شد.",
+            "این مقام حکومتی مدعی شد که ترامپ قدرت نظامی ج.ا را تجربه کرده و اکنون در برابر تحولات منطقه به بن‌بست رسیده است."
+        ],
+        "impact": "تنش‌زایی لفظی مقامات حکومتی در برابر سیاست‌های فشار حداکثری آمریکا.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610026050",
+        "clean_url": "https://www.iranintl.com/202610026050",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790923380.0
+    },
+    {
         "id": "8784ac53dc",
         "title_fa": "افشای سرپیچی از دستورات در نیویورک",
         "title_en": "Officials who negotiated in New York defied Khamenei's orders, Iran cleric says",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://english.alarabiya.net/News/middle-east/2026/09/29/israel-pm-says-indications-enemies-will-try-to-attack-ahead-of-elections",
         "image": "https://vid.alarabiya.net/images/2026/06/15/41774c90-7356-458e-8fb8-4b78f6ccb096/41774c90-7356-458e-8fb8-4b78f6ccb096_16x9_600x338.JPG",
         "timestamp": 1790718180.0
-    },
-    {
-        "id": "85df20c947",
-        "title_fa": "دهن‌کجی دیپلماتیک ایران به سازمان ملل با انتشار یک میم",
-        "title_en": "Iran mocks UN with 'Dr Strange-Thakur' meme over 'inability' to resolve global conflicts",
-        "summary": [
-            "سفارت ایران در هند با انتشار یک تصویر طنز، ناکارآمدی سازمان ملل را در توقف جنگ‌های جهانی به سخره گرفت.",
-            "عباس عراقچی پیش‌تر به شدت از انفعال نهادهای بین‌المللی در برابر بحران‌ها انتقاد کرده بود."
-        ],
-        "impact": "افزایش تنش‌های لفظی میان دستگاه دیپلماتیک ج.ا و سازمان‌های بین‌المللی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-mocks-un-with-dr-strange-thakur-meme-over-inability-to-resolve-global-conflicts/ar-AA2derjP",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-mocks-un-with-dr-strange-thakur-meme-over-inability-to-resolve-global-conflicts/ar-AA2derjP",
-        "image": "http://www.bing.com/th?id=ONUT._TjXWnh0SlmlzAIkrLOlCA&pid=News",
-        "timestamp": 1790717220.0
     }
 ]
