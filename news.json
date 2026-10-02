@@ -398,6 +398,24 @@
         "timestamp": 1790944678.0
     },
     {
+        "id": "9e88f3ec75",
+        "title_fa": "انکار ریزش معلمان از سوی وزارت آموزش و پرورش",
+        "title_en": "Iran denies teachers are quitting despite viral resignation videos",
+        "summary": [
+            "وزارت آموزش و پرورش استعفای گسترده معلمان به دلیل شرایط بد کاری و فشارهای امنیتی را تکذیب کرد و آن را شایعه خواند.",
+            "شورای هماهنگی تشکل‌های صنفی فرهنگیان پیش‌تر درباره موج مهاجرت و ترک کار معلمان هشدار داده بود."
+        ],
+        "impact": "بحران نیروی انسانی در آموزش و پرورش و تلاش حکومت برای پنهان کردن واقعیت‌های معیشتی.",
+        "tag": "اجتماعی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610027763",
+        "clean_url": "https://www.iranintl.com/en/202610027763",
+        "image": "http://www.bing.com/th?id=ONUT.V6CLsjm1KbXAkpfymkCn0w&pid=News",
+        "timestamp": 1790944620.0
+    },
+    {
         "id": "ba6b44c5fc",
         "title_fa": "تهدید اروپا توسط تهران در صورت استفاده از پایگاه‌های منطقه",
         "title_en": "Attacks from Arab states would put Europe at risk, Iranian cleric says",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.cnn.com/2026/09/30/middleeast/us-military-withdrawal-iraq-intl",
         "image": "http://www.bing.com/th?id=ONUT.7Te_tf-NqWMmE4kXMQNb3Q&pid=News",
         "timestamp": 1790734020.0
-    },
-    {
-        "id": "dfb72982bf",
-        "title_fa": "چالش اصلی ترامپ در مهار جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی؛ مانعی به نام چین",
-        "title_en": "Trump’s Iran Strategy Has a China Problem | Opinion",
-        "summary": [
-            "دیدار اخیر شی جین‌پینگ از واشنگتن نشان داد ترامپ به دنبال تنش‌زدایی و مهار رقابت راهبردی با پکن است.",
-            "روابط گرم ترامپ و رئیس‌جمهور چین این پرسش را ایجاد می‌کند که آیا پکن خرید نفت از جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی را کاهش خواهد داد یا خیر."
-        ],
-        "impact": "موفقیت سیاست فشار حداکثری به میزان همراهی پکن با واشنگتن در تحریم‌های نفتی گره خورده است.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/trumps-iran-strategy-has-a-china-problem-opinion-12500388",
-        "clean_url": "https://www.newsweek.com/trumps-iran-strategy-has-a-china-problem-opinion-12500388",
-        "image": "http://www.bing.com/th?id=ONUT.wsiQEVOxtTw-9xjssUAXcQ&pid=News",
-        "timestamp": 1790733660.0
     }
 ]
