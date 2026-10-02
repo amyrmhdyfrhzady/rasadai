@@ -475,6 +475,24 @@
         "timestamp": 1790921662.0
     },
     {
+        "id": "1780cb5962",
+        "title_fa": "تهدید گستاخانه نماینده مجلس برای تصرف امارات",
+        "title_en": "حاجی‌دلیگانی، نماینده شاهین‌شهر: باید امارات را تصرف کنیم",
+        "summary": [
+            "حسینعلی حاجی‌دلیگانی، نماینده مجلس، خواستار لشکرکشی و تصرف امارات متحده عربی شد.",
+            "این مقام حکومتی مدعی شد برای قطع ریشه فتنه باید نیروهای نظامی در خاک کشورهای همسایه مستقر شوند."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک میان جـمـهـوری اسـلامـی و کشورهای عربی حوزه خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610026644",
+        "clean_url": "https://www.iranintl.com/202610026644",
+        "image": "http://www.bing.com/th?id=ONUT.6IYK3SN8H9I5-R9rE_lhDA&pid=News",
+        "timestamp": 1790920980.0
+    },
+    {
         "id": "eda81f2731",
         "title_fa": "فشار حداکثری ترامپ؛ تنگه هرمز دیگر نجات‌بخش جـ...ـمهوری اسلامی نیست",
         "title_en": "Trump just delivered a masterclass to Iran as a painful lesson: The Strait of Hormuz can't win the war for Tehran",
@@ -527,6 +545,24 @@
         "clean_url": "https://www.iranintl.com/202610020732",
         "image": "http://www.bing.com/th?id=ONUT.HlbbjtjfaLUROiQekGmBMw&pid=News",
         "timestamp": 1790919840.0
+    },
+    {
+        "id": "491b175ef1",
+        "title_fa": "موضع تند پاکستان درباره عوارض تنگه هرمز",
+        "title_en": "وزیر خارجه پاکستان: عبور از تنگه هرمز باید بدون پرداخت عوارض باشد",
+        "summary": [
+            "وزیر خارجه پاکستان تأکید کرد عبور از تنگه هرمز باید کاملاً رایگان و بدون عوارض باشد.",
+            "نشست ریاض قرار است به جای اقدام نظامی، روی تعامل سیاسی با حوثی‌ها متمرکز شود."
+        ],
+        "impact": "مخالفت اسلام‌آباد با سیاست‌های کنترل تردد در آبراه حیاتی خلیج فارس.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610026468",
+        "clean_url": "https://www.iranintl.com/202610026468",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790919480.0
     },
     {
         "id": "77a92de35a",
@@ -5452,42 +5488,5 @@
         "clean_url": "https://www.iranintl.com/202609302291",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790701200.0
-    },
-    {
-        "id": "65a8ad34ca",
-        "title_fa": "دخالت آشکار سپاه در انتخابات آمریکا علیه ترامپ",
-        "title_en": "Iran's Revolutionary Guard Urges US Voters to 'Take Back Control' From Trump",
-        "summary": [
-            "سپاه پاسداران در نامه ای سرگشاده از شهروندان آمریکایی خواست کنترل کشورشان را از ترامپ پس بگیرند.",
-            "این اقدام بی سابقه نشان دهنده استیصال حاکمیت در برابر فشار حداکثری واشنگتن است.",
-            "تهران با این پیام تلاش می کند در آستانه انتخابات میان دوره ای روی افکار عمومی آمریکا تاثیر بگذارد."
-        ],
-        "impact": "تلاش مذ مذابانه نهادهای نظامی برای دخالت در سیاست داخلی آمریکا و فرار از تنگنای تحریم ها.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/irans-revolutionary-guard-urges-us-235723066.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/irans-revolutionary-guard-urges-us-235723066.html",
-        "image": "http://www.bing.com/th?id=ONUT.atFIJ1h_SDG-r2mnVolq8Q&pid=News",
-        "timestamp": 1790701020.0
-    },
-    {
-        "id": "710bd18404",
-        "title_fa": "روایت پشت پرده مهار حمله موشکی ج--وری اس--لامی به اسرائیل",
-        "title_en": "How Joe Biden averted a wider war with Iran: Explained in 10 points",
-        "summary": [
-            "مقام سابق آمریکایی فاش کرد دولت بایدن با کمک متحدان منطقه‌ای موفق شد حمله موشکی فروردین ۱۴۰۳ را دفع کند.",
-            "اقدام هماهنگ واشنگتن با تل‌آویو مانع از تبدیل شدن تنش‌ها به یک جنگ تمام‌عیار منطقه‌ای شد."
-        ],
-        "impact": "ثبیت بازدارندگی موقت و جلوگیری از جنگ مستقیم گسترده در خاورمیانه طی بحران سال گذشته.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/how-biden-averted-a-wider-war-with-iran-explained-in-10-points/articleshow/134570522.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/us/how-biden-averted-a-wider-war-with-iran-explained-in-10-points/articleshow/134570522.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134570940,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1790700960.0
     }
 ]
