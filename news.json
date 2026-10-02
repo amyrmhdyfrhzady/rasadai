@@ -529,6 +529,24 @@
         "timestamp": 1790926906.0
     },
     {
+        "id": "f5d27a5d16",
+        "title_fa": "پاتک لفظی محسن رضایی به هشدارهای ترامپ درباره ایران",
+        "title_en": "محسن رضایی: واقعیت را موشک‌های جمهوری اسلامی رقم می‌زند",
+        "summary": [
+            "دبیر شورای عالی امنیت ملی تلاش کرد با بزرگنمایی توان موشکی، شکست‌های منطقه‌ای حکومت را پنهان کند.",
+            "حملات لفظی مقامات ارشد نظامی به رییس‌جمهور آمریکا نشان‌دهنده هراس از بازگشت سیاست فشار حداکثری است."
+        ],
+        "impact": "تشدید جنگ لفظی میان تهران و واشینگتن در آستانه تصمیمات سخت اقتصادی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610029489",
+        "clean_url": "https://www.iranintl.com/202610029489",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790925360.0
+    },
+    {
         "id": "a89a8b8755",
         "title_fa": "فرار رو به جلو حوثی‌ها با متهم کردن عربستان",
         "title_en": "عضو دفتر سیاسی حوثی‌ها: عربستان سعودی مانع گفت‌وگو میان طرف‌های یمنی است",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.freepressjournal.in/world/men-enthroned-at-the-white-house-oppress-both-iranians-and-americans-what-irans-irgc-told-us-public-in-open-letter",
         "image": "http://www.bing.com/th?id=ONUT.5iywJjHuSPzN9QJDniwahQ&pid=News",
         "timestamp": 1790716860.0
-    },
-    {
-        "id": "f255cf359a",
-        "title_fa": "دور جدید تحریم‌های واشنگتن علیه جـ.ـهـ.ـو‌ری ا‌سـ.ـلا‌مـ.ـی",
-        "title_en": "U.S. Fires Off New Iran ‘Outcast’ Sanctions",
-        "summary": [
-            "آمریکا بسته جدید تحریمی با هدف انزوای بیشتر سیستم حاکم را کلید زد.",
-            "این اقدامات فشار اقتصادی بر بدنه حاکمیت را وارد فاز تازه‌ای می‌کند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره مالی و افت بیشتر ارزش ریال در بازار.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnNVQ3pseHhTTE9VRnVMdmFrZ1pJbUhCYzNBWTRlZkd2X254bzZaaDZ5a25mSlA0ZVJjREk0Q2k5cWtJVklYLXRjSWktbUFra2twZVFuT2RXc2pfUGVKdTZZYjhLNUgwaXJlR2I0cFNOUnljZUdMdWVBbnpuX2J0LTZ3TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnNVQ3pseHhTTE9VRnVMdmFrZ1pJbUhCYzNBWTRlZkd2X254bzZaaDZ5a25mSlA0ZVJjREk0Q2k5cWtJVklYLXRjSWktbUFra2twZVFuT2RXc2pfUGVKdTZZYjhLNUgwaXJlR2I0cFNOUnljZUdMdWVBbnpuX2J0LTZ3TQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790716620.0
     }
 ]
