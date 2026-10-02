@@ -367,6 +367,24 @@
         "timestamp": 1790911757.0
     },
     {
+        "id": "1a22cb5fac",
+        "title_fa": "هشدار درباره پایداری حکومت و آماده‌سازی تحریم‌های جدید",
+        "title_en": "علی‌حسین قاضی‌زاده: بقای جمهوری اسلامی می‌تواند هزینه بیشتری برای جهان داشته باشد",
+        "summary": [
+            "واشنگتن با زیر نظر داشتن تلاش‌های جـ.ـمهوری اسـ.ـلامی برای حذف دلار، شبکه مالی سایه وابسته به مسکو را هدف تحریم قرار داد.",
+            "فشارهای اقتصادی و بانکی آمریکا نشان‌دهنده تنگ‌تر شدن حلقه محاصره مالی حکومت است."
+        ],
+        "impact": "مسدود شدن مسیرهای دور زدن تحریم و افزایش فشار بر سیستم بانکی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610026345",
+        "clean_url": "https://www.iranintl.com/202610026345",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790909880.0
+    },
+    {
         "id": "94aa1aae13",
         "title_fa": "پرتاب نخستین ماهواره نظامی آلمان برای رصد تهدیدهای هوایی",
         "title_en": "شرکت صنایع دفاعی آلمان نخستین ماهواره خود را برای شناسایی تهدیدهای هوایی به مدار فرستاد",
@@ -401,6 +419,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU12eXQ5aUJqT0J6NVNvYzhIOU10QVo1TzRkeThUeW52a3FnMU1uM0M4S1hmczJqUmNFa0tKTkdxalN0eHhvUnFVV0N1Q3NBVGpGS21Qb29tbFljbG9ReFhIS3JGQWU2SDd3TnFsRTdrSmdHcktOblZVLVJSYzFlMzBxSzVwTkdCXzNtbUZqM3RvUFpseFg3YkNZYTlOVWZLemJGY281d9IBrAFBVV95cUxQYWlmZkRpU2ViVExUZDdObUJhQUNFZWdJRXkyWUdzNTJaY0Q5anVjclhEbVRrN3hFN244XzFjUHFQOVctNWVpakk2UFFFR2NpaXFuY1BvNGRYV2V0TV96V3ZfOGN2cHFFQmk2emJmZFpMbFd3cElMRWJneUVkN1BnUTNIY2Y2Skh6VU55Rl8ydzFQZy1CcUMzdVlDOGR4YzU5N0JuVl9icWE3UFkz",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790908626.0
+    },
+    {
+        "id": "5c0ad2a6c5",
+        "title_fa": "رکوردشکنی صادرات ال‌ان‌جی از تنگه هرمز",
+        "title_en": "عبور محموله‌های ال‌ان‌جی از تنگه هرمز به بالاترین سطح از آغاز جنگ رسید",
+        "summary": [
+            "آمارها نشان می‌دهد حجم صادرات گاز مایع از تنگه هرمز در ماه سپتامبر به بالاترین حد پس از شروع جنگ رسید.",
+            "قطر و امارات سهم اصلی این محموله‌ها را تشکیل می‌دهند و روند عبور کشتی‌ها شتاب گرفته است."
+        ],
+        "impact": "افزایش جریان انرژی از معبر حیاتی خلیج فارس به سمت بازارهای جهانی.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610022979",
+        "clean_url": "https://www.iranintl.com/202610022979",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790908080.0
     },
     {
         "id": "10e11b1caf",
@@ -5456,41 +5492,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-latest-tehran-says-us-will-inevitably-leave-this-region/ar-AA2da6ux",
         "image": "http://www.bing.com/th?id=ONUT.NGhDWdDEPHOybmaVilFotQ&pid=News",
         "timestamp": 1790688655.0
-    },
-    {
-        "id": "471212b7c1",
-        "title_fa": "سقوط آزاد ریال و فرافکنی سپاه درباره اتم",
-        "title_en": "Iran rial hits record low, IRGC's Mohebbi accuses US of targeting nuclear programme",
-        "summary": [
-            "نرخ دلار در بازار آزاد ایران از مرز ۲.۵ میلیون ریال گذشت تا بحران معیشتی رکورد جدیدی ثبت کند.",
-            "حسین محبی از فرماندهان سـپـاه بدون اشاره به سوءمدیریت داخلی، ایالات متحده را به استفاده ابزاری از پرونده هسته‌ای متهم کرد."
-        ],
-        "impact": "فروپاشی بیشتر قدرت خرید مردم و تشدید فشار اقتصادی روی دوش جامعه.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "India TV News",
-        "url": "https://www.indiatvnews.com/news/world/iran-rial-hits-record-low-irgc-s-mohebbi-accuses-us-of-targeting-nuclear-programme-2026-09-29-1055644",
-        "clean_url": "https://www.indiatvnews.com/news/world/iran-rial-hits-record-low-irgc-s-mohebbi-accuses-us-of-targeting-nuclear-programme-2026-09-29-1055644",
-        "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/iran-rial-hits-record-low-irgc-s-mohebbi-accuses-us-of-targeting-nuclear-programme-1790688309.jpg",
-        "timestamp": 1790688480.0
-    },
-    {
-        "id": "2eb84a9eb7",
-        "title_fa": "پیمان ابراهیم علیه ت ج ر ی د ی ا ت ر ژ ی م",
-        "title_en": "One meeting, many messages: The significance of Netanyahu's visit to UAE, and what it means for India",
-        "summary": [
-            "بنیامین نتانیاهو و رئیس امارات در دیداری علنی، بر ائتلاف راهبردی دو طرف در برابر فشارهای منطقه‌ای جمهوری اسلامی و گروه‌های نیابتی تاکید کردند.",
-            "گسترش این همکاری‌ها نشان‌دهنده تغییر موازنه قدرت در خاورمیانه و شکل‌گیری بلوک جدید امنیتی است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره امنیتی و دیپلماتیک جمهوری اسلامی در منطقه با تحکیم ائتلاف تل‌آویو و ابوظبی.",
-        "tag": "منطقه‌ای",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/one-meeting-many-messages-the-significance-of-netanyahu-visit-to-uae-and-what-it-means-for-india-ht-point-blank-101790687524035.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/one-meeting-many-messages-the-significance-of-netanyahu-visit-to-uae-and-what-it-means-for-india-ht-point-blank-101790687524035.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/netanyahu_uae_visit_1790688134329_w3Rx_1790688146151_lu8P_04f917e9-1ef2-4598-b457-c29b626d0383_YjCK.jpg",
-        "timestamp": 1790688060.0
     }
 ]
