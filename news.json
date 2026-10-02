@@ -18,6 +18,24 @@
         "timestamp": 1790947046.0
     },
     {
+        "id": "7b085381fa",
+        "title_fa": "خط و نشان امام جمعه اهواز برای آمریکا در تنگه هرمز",
+        "title_en": "Iranian cleric says US cannot change Tehran's control of Hormuz",
+        "summary": [
+            "امام جمعه اهواز ادعا کرد آمریکا در بن‌بست نظامی گرفتار شده و توان مقابله با نفوذ جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی در آبراه‌های حیاتی را ندارد.",
+            "این اظهارات تکرار ادعاهای همیشگی مقامات حاکمیتی است که با وجود فشارهای اقتصادی، تلاش می‌کنند شکست‌های منطقه‌ای خود را پنهان کنند."
+        ],
+        "impact": "تنش لفظی در آبراه‌های استراتژیک خلیج فارس و دریای سرخ همچنان ادامه دارد.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610024345",
+        "clean_url": "https://www.iranintl.com/en/202610024345",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790944740.0
+    },
+    {
         "id": "46bcfd67ca",
         "title_fa": "کشته شدن پنج نفر در درگیری‌های جنوب شرق",
         "title_en": "Five killed in roadside attack as violence spreads in southeast Iran",
@@ -5471,24 +5489,5 @@
         "clean_url": "https://wtop.com/news/2026/09/asian-benchmarks-mostly-rise-despite-ongoing-worries-about-the-iran-war",
         "image": "http://www.bing.com/th?id=ONUT.FfLQ4uks9yWOMg1jTZq6Pw&pid=News",
         "timestamp": 1790697840.0
-    },
-    {
-        "id": "e8cabda21c",
-        "title_fa": "بحران هرمز؛ کشورهای خلیج فارس به دنبال مسیرهای جایگزین صادرات نفت",
-        "title_en": "Hormuz crisis pushes Gulf states toward new oil export routes",
-        "summary": [
-            "بحران امنیتی تنگه هرمز و افت شدید صادرات نفت، آسیب‌پذیری زیرساخت‌های انرژی کشورهای حوزه خلیج فارس را آشکار کرد.",
-            "کویت، قطر و بحرین بیشترین ضربه را از این تنش‌ها خورده و درآمد نفتی آن‌ها با افت ۱۵.۲ میلیارد دلاری روبه‌رو شده است.",
-            "حملات نظامی و بسته شدن این آبراه حیاتی، کشورهای منطقه را ناچار کرده به سرعت به فکر خطوط لوله و بنادر جایگزین باشند."
-        ],
-        "impact": "تنش در تنگه هرمز شریان‌های سنتی صادرات انرژی را فلج کرده و هزینه‌های اقتصادی سنگینی به بار آورده است.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "en.yenisafak",
-        "url": "https://en.yenisafak.com/world/hormuz-crisis-pushes-gulf-states-toward-new-oil-export-routes-3723871",
-        "clean_url": "https://en.yenisafak.com/world/hormuz-crisis-pushes-gulf-states-toward-new-oil-export-routes-3723871",
-        "image": "https://img.piri.net/piri/upload/3/2026/9/29/8e75f2f3-israeli-opposition-blames-netanyahu-for-west-bank-violence.webp",
-        "timestamp": 1790697360.0
     }
 ]
