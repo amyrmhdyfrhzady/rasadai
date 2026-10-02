@@ -216,6 +216,25 @@
         "timestamp": 1790885078.0
     },
     {
+        "id": "886d7d7cb9",
+        "title_fa": "رکورد قیمت سوخت و فشار بر واشینگتن برای پایان جنگ",
+        "title_en": "Soaring diesel prices fuel Republican calls to end Iran war — Washington Post",
+        "summary": [
+            "رکوردشکنی قیمت گازوئیل در آمریکا، نامزدهای جمهوری‌خواه در ایالت‌های صنعتی و کشاورزی را مجبور به موضع‌گیری صریح علیه تداوم تنش با ایران کرده است.",
+            "افزایش هزینه‌های معیشتی، شکاف عمیقی میان محافظه‌کاران بر سر هزینه‌های سنگین اقتصادی درگیری با ج.ا.ا ایجاد کرده است.",
+            "برخی نمایندگان برای کنترل تورم داخلی، طرح‌هایی مانند ممنوعیت صادرات گازوئیل آمریکا را روی میز گذاشته‌اند."
+        ],
+        "impact": "بحران قیمت انرژی در داخل آمریکا، توان مانور واشینگتن برای تقابل طولانی‌مدت نظامی و تحریمی را به شدت کاهش می‌دهد.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610021767",
+        "clean_url": "https://www.iranintl.com/en/202610021767",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790883480.0
+    },
+    {
         "id": "7366761f0c",
         "title_fa": "بن‌بست در شورای امنیت درباره پرونده ایران",
         "title_en": "UN Member States weigh latest Security Council veto, this time on Iran",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://www.iranintl.com/202609290864",
         "image": "http://www.bing.com/th?id=ONUT.t85qS33Cu7ieWCYvCZRQNw&pid=News",
         "timestamp": 1790668320.0
-    },
-    {
-        "id": "7b27d8219e",
-        "title_fa": "پیام دخالت‌جویانه س پ ا ه به مردم آمریکا",
-        "title_en": "Iran tells the US public that Trump’s war has failed, and other Mideast developments",
-        "summary": [
-            "مقام های ارشد نظامی ج م ه و ر ی ا س ل ا م ی در یک اقدام تبلیغاتی از مردم آمریکا خواستند علیه دونالد ترامپ به خیابان بیایند.",
-            "تهران مدعی شد که واشنگتن در خاورمیانه شکست خورده و باید منطقه را ترک کند."
-        ],
-        "impact": "تلاش مذبوحانه تهران برای اثرگذاری بر افکار عمومی آمریکا با شکست روبه‌رو شد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Sun Sentinel",
-        "url": "https://www.sun-sentinel.com/2026/09/29/iran-trump-war-mideast-news/",
-        "clean_url": "https://www.sun-sentinel.com/2026/09/29/iran-trump-war-mideast-news",
-        "image": "http://www.bing.com/th?id=ONUT.aaFiCViDFuvYsGMouqkLfQ&pid=News",
-        "timestamp": 1790667600.0
     }
 ]
