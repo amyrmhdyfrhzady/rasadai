@@ -309,6 +309,25 @@
         "timestamp": 1790938728.0
     },
     {
+        "id": "c3a2883f45",
+        "title_fa": "تهدید تند ترامپ علیه جـمـهـورری اسـلـامی و آزادسازی نفت",
+        "title_en": "Live: Trump threatens Iran 'won't be around very long' if no deal reached",
+        "summary": [
+            "دونالد ترامپ هشدار داد در صورت عدم توافق، تـکـلیـف جـمـهـورری اسـلـامی یکسره خواهد شد و دوام نخواهد آورد.",
+            "کشورهای عضو گروه هفت برای مهار بحران انرژی و تنظیم بازار، قصد دارند میلیون‌ها بشکه نفت و گازوئیل آزاد کنند.",
+            "تلاش‌های بین‌المللی برای باز نگه داشتن تنگه هرمز و تسهیل خروج نفتکش‌ها شدت گرفته است."
+        ],
+        "impact": "آزادسازی ذخایر استراتژیک نفت و فشار همه‌جانبه، قیمت انرژی را کنترل کرده و راه تنفس اقتصادی حاکمیت را تنگ‌تر می‌کند.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/live/iran-war-live-tehran-denounces-us-israel-attacks-regional-tensions-rise",
+        "clean_url": "https://www.middleeasteye.net/live/iran-war-live-tehran-denounces-us-israel-attacks-regional-tensions-rise",
+        "image": "https://www.middleeasteye.net/sites/default/files/2026-10/000_C9JJ9XK.jpg",
+        "timestamp": 1790938200.0
+    },
+    {
         "id": "d73c0c466a",
         "title_fa": "افشای نقشه ج.ا برای استفاده از القاعده به عنوان بازوی مخفی",
         "title_en": "Al-Qaeda is Iran's quiet backup if the war turns, expert says",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnNVQ3pseHhTTE9VRnVMdmFrZ1pJbUhCYzNBWTRlZkd2X254bzZaaDZ5a25mSlA0ZVJjREk0Q2k5cWtJVklYLXRjSWktbUFra2twZVFuT2RXc2pfUGVKdTZZYjhLNUgwaXJlR2I0cFNOUnljZUdMdWVBbnpuX2J0LTZ3TQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790716620.0
-    },
-    {
-        "id": "886a20f830",
-        "title_fa": "دور جدید تحریم‌های واشنگتن علیه حامیان شبکه نظامی تهران",
-        "title_en": "US sanctions 10 entities for allegedly supporting Iran's military",
-        "summary": [
-            "آمریکا ۱۰ شخص حقیقی و حقوقی در کشورهای مختلف از جمله چین، پاکستان و ترکیه را به دلیل کمک به زنجیره تامین نظامی جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـا‌مـ.ـی تحریم کرد.",
-            "این اقدام در راستای تداوم سیاست فشار حداکثری برای قطع دسترسی ارکان نظامی ایران به بازارهای مالی و تجهیزاتی خارجی صورت گرفته است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره مالی و افزایش هزینه دور زدن تحریم‌ها برای شبکه نیابتی و تسلیحاتی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/other/us-sanctions-10-entities-for-allegedly-supporting-iran-s-military/ar-AA2ddZfc",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-sanctions-10-entities-for-allegedly-supporting-iran-s-military/ar-AA2ddZfc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790714914.0
     }
 ]
