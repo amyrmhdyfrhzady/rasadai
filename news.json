@@ -1,5 +1,24 @@
 [
     {
+        "id": "3d578c3e29",
+        "title_fa": "نتانیاهو: رژیم ج·م·ه·و·ر·ی ا·س·ل·ا·م·ی سقوط خواهد کرد",
+        "title_en": "Iran rial hits record low as US weighs next steps in war",
+        "summary": [
+            "نخست‌وزیر اسرائیل در مصاحبه‌ای تأکید کرد که حکومت تهران به دلیل فشارها و تحریم‌ها سرنگون خواهد شد.",
+            "او از شهروندان ایرانی خواست امید خود را از دست ندهند و به زودی روز آزادی را خواهند دید.",
+            "فشار حداکثری دولت ترامپ و انسداد مالی، سپاه پ·اس·د·ا·ر·ا·ن را به شدت ضعیف کرده است."
+        ],
+        "impact": "سقوط ارزش ریال و تشدید ناامیدی درون بدنه حاکمیت از دوام در برابر تحریم‌ها.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/liveblog/202610033293",
+        "clean_url": "https://www.iranintl.com/en/liveblog/202610033293",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/54cccf6b15a2c494dd24eff9a60fb4f657bbbb41-2145x1430.jpg?rect=0,155,2145,1121&w=1200&h=627&q=66&fit=max&auto=format",
+        "timestamp": 1791027240.0
+    },
+    {
         "id": "cb368817ec",
         "title_fa": "سیاست فشار حداکثری و قدرت‌گیری تندروهای جـ.ـهـ.ـمـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلاـ.ـمـ.ـی",
         "title_en": "Opinion | Trump’s ‘March of Folly’ Empowers Iranian Extremists",
@@ -5480,23 +5499,5 @@
         "clean_url": "https://www.iranintl.com/en/202609300837",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790784180.0
-    },
-    {
-        "id": "b827a133f4",
-        "title_fa": "ترامپ: جنگ با ایران خیلی زود تمام می‌شود",
-        "title_en": "Trump says Iran war will end ‘very soon’",
-        "summary": [
-            "دونالد ترامپ اعلام کرد توان نظامی حکومت به شدت آسیب دیده و درگیری‌ها بزودی پایان می‌یابد.",
-            "پایان این تنش‌ها باعث سقوط شدید قیمت نفت و بنزین در بازارهای جهانی خواهد شد."
-        ],
-        "impact": "افت شدید قیمت نفت و کاهش فشارهای اقتصادی با پایان درگیری‌ها",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609309867",
-        "clean_url": "https://www.iranintl.com/en/202609309867",
-        "image": "http://www.bing.com/th?id=ONUT.RjgBFE9wZs0-Oofw8Y2VLw&pid=News",
-        "timestamp": 1790782440.0
     }
 ]
