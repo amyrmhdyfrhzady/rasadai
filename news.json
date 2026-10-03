@@ -1,5 +1,23 @@
 [
     {
+        "id": "09aac7b16f",
+        "title_fa": "فرسایشی شدن جنگ در هفت جبهه مختلف",
+        "title_en": "Three years, seven fronts and no end in sight: Israel's war grinds on",
+        "summary": [
+            "تداوم درگیری‌های نظامی در هفت جبهه مختلف برای سومین سال متوالی",
+            "نبود چشم‌انداز روشن برای پایان بحران و آتش‌بس در منطقه"
+        ],
+        "impact": "افزایش فشار فرسایشی بر توان نظامی و اقتصادی تل‌آویو.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ynetnews.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56WkJobFRiYW91dEI4MTBNTjVQbUFYV3hpRU96WlBqT2k0bTVpQ28xMHNEVmtwLWtXLVA5Z0JNX0dXRll6c3B0NjJvVWNkalhaMkRIa0FsMElyX3VJRnlLTjNJcUVBRFVhYmwxa1BB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56WkJobFRiYW91dEI4MTBNTjVQbUFYV3hpRU96WlBqT2k0bTVpQ28xMHNEVmtwLWtXLVA5Z0JNX0dXRll6c3B0NjJvVWNkalhaMkRIa0FsMElyX3VJRnlLTjNJcUVBRFVhYmwxa1BB",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791003234.0
+    },
+    {
         "id": "a89bf9757b",
         "title_fa": "هزینه سنگین شهروندان آمریکایی برای انحصار اتمی اس******ئیل",
         "title_en": "Are Americans paying the Price to preserve Israel’s Nuclear Hegemony?",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/chinese-companies-have-supplied-iran-with-missile-chemical-ingredients-and-satellite-images-used-in-its-strikes-the-journal-reports/ar-AA2dhJqQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790759247.0
-    },
-    {
-        "id": "404b84c839",
-        "title_fa": "خروج کامل نیروهای آمریکایی از عراق و خطر نفوذ ج.ا",
-        "title_en": "US closes final base in Iraq as Iran eyes chance to fill vacuum",
-        "summary": [
-            "نیروهای ائتلاف غربی پایگاه اربیل را تخلیه کردند تا حضور نظامی دو دهه گذشته پایان یابد.",
-            "رسانه‌های حکومتی ج.ا این خروج را پیروزی بزرگی برای خود پوشش دادند.",
-            "خلاء قدرت ایجاد شده نگرانی‌ها از تسلط بیشتر نیابتی‌های تهران بر ساختار سیاسی و امنیتی عراق را افزایش داده است."
-        ],
-        "impact": "تغییر توازن قوا در عراق و افزایش دسترسی تروریست‌های حکومتی به مرزهای غربی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/us-closes-final-iraq-iran-160243966.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/us-closes-final-iraq-iran-160243966.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/b1216858b1619a8333279e2e836f88501340ae600018b5c0145adddf845b7185/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0351f2d62ac9992a0d58a095b3be8ba0.jpg",
-        "timestamp": 1790758920.0
     }
 ]
