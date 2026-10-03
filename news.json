@@ -397,6 +397,24 @@
         "timestamp": 1791028107.0
     },
     {
+        "id": "c1f55fab7e",
+        "title_fa": "ادعای مقام مجلس درباره برنامه آمریکا برای حمله",
+        "title_en": "نایب‌رییس کمیسیون بهداشت مجلس: آمریکا می‌خواهد زمینه را برای حمله به ایران فراهم کند",
+        "summary": [
+            "یکی از اعضای کمیسیون بهداشت مجلس مدعی شد ایالات متحده به دنبال آماده‌سازی افکار عمومی جهانی برای تهاجم نظامی است.",
+            "این مقام حکومتی تلاش‌های دیپلماتیک و رسانه‌ای اخیر را پروژه‌ای برای مقصر جلودادن تـکـراری حـکـومـت ایران در حوادث هوایی منطقه ارزیابی کرد."
+        ],
+        "impact": "افزایش جنگ روانی و ترس مهره‌های داخلی از پاسخ نظامی احتمالی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610030166",
+        "clean_url": "https://www.iranintl.com/202610030166",
+        "image": "http://www.bing.com/th?id=ONUT.VIArgsxP8aSxNiEE7PSHtg&pid=News",
+        "timestamp": 1791027420.0
+    },
+    {
         "id": "3d578c3e29",
         "title_fa": "نتانیاهو: رژیم ج·م·ه·و·ر·ی ا·س·ل·ا·م·ی سقوط خواهد کرد",
         "title_en": "Iran rial hits record low as US weighs next steps in war",
@@ -5468,24 +5486,5 @@
         "clean_url": "https://www.iranintl.com/202610015055",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/6c4ce106dc4682494371348e0c7074a6e819783a-1080x1350.png?rect=0,244,1080,567&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790815920.0
-    },
-    {
-        "id": "401e2c32e4",
-        "title_fa": "دور زدن تحریم‌ها با رمزارز؛ تلاش ج.ا برای فروش نفت",
-        "title_en": "Iran likely to step up use of stablecoins as US sanctions tighten, analyst says",
-        "summary": [
-            "تشدید فشارهای اقتصادی آمریکا باعث شده تا حکومت ایران بیشتر به سمت استفاده از استیبل‌کوین‌ها و رمزارزها برود.",
-            "تیم دونالد ترامپ با اجرای سخت‌گیرانه تحریم‌ها، مسیر نقل‌وانتقالات مالی و فروش نفت را تنگ‌تر کرده است.",
-            "حکومت از رمزارزها برای تامین نقدینگی و خرید کالاهای دو منظوره از چین استفاده می‌کند."
-        ],
-        "impact": "رمزارزها به سوپاپ اطمینان موقت حکومت برای دور زدن سیستم بانکی تبدیل شده‌اند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610018191",
-        "clean_url": "https://www.iranintl.com/en/202610018191",
-        "image": "http://www.bing.com/th?id=ONUT.J4mEPTSmxoHakCF2iASB1A&pid=News",
-        "timestamp": 1790815500.0
     }
 ]
