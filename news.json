@@ -348,6 +348,25 @@
         "timestamp": 1790973702.0
     },
     {
+        "id": "67db668887",
+        "title_fa": "نشست محرمانه مقام‌های ارشد آمریکا درباره گام‌های بعدی جنگ",
+        "title_en": "اکسیوس: مقام‌های ارشد امنیت ملی آمریکا محرمانه درباره ایران در کمپ دیوید جلسه برگزار کردند",
+        "summary": [
+            "نشست اضطرابی و اعلام‌نشده تیم امنیت ملی ایالات متحده در کمپ دیوید با محوریت بحران خاورمیانه و درگیری‌های منطقه‌ای.",
+            "بررسی گزینه ازسرگیری عملیات نظامی گسترده علیه جـمـهـوری اسـلامـی همزمان با بن‌بست در مسیر مذاکرات.",
+            "درخواست عربستان از واشنگتن برای مشارکت در حملات هوایی علیه یمن و ارزیابی تغییر موضع احتمالی کاخ سفید."
+        ],
+        "impact": "افزایش سایه جنگ و آماده‌سازی تیم نظامی ترامپ برای تصمیم‌گیری‌های سخت در قبال تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610033151",
+        "clean_url": "https://www.iranintl.com/202610033151",
+        "image": "http://www.bing.com/th?id=ONUT.1lwuZW6Xa2jtuEwMLpFSBA&pid=News",
+        "timestamp": 1790973000.0
+    },
+    {
         "id": "646d0723f5",
         "title_fa": "خط و نشان ترامپ برای سپاه؛ زمین گذاشتن سلاح یا مرگ حتمی",
         "title_en": "US-Iran news today: President Donald Trump threatens 'certain death' to Iranian guard who don't 'lay down' weapons",
@@ -5472,23 +5491,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-tehran-sanction-relief-irgc-talks-strait-of-hormuz-oil-prices-ceasefire-proposal-latest-news/liveblog/134577206.cms",
         "image": "https://static.toiimg.com/thumb/msid-134577206,width-1280,height-720,imgsize-131754,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1790758260.0
-    },
-    {
-        "id": "cdcf86c0a5",
-        "title_fa": "رد قاطع پیشنهاد جدید تهران توسط دونالد ترامپ",
-        "title_en": "Negotiator of 2015 Iran nuclear deal discusses Trump rejecting Iran's latest proposal",
-        "summary": [
-            "دونالد ترامپ بدون معطلی آخرین طرح پیشنهادی تهران برای توافق را رد کرد تا نشان دهد سیاست فشار حداکثری در دور جدید با شدت بیشتری دنبال می‌شود.",
-            "مذاکره‌کنندگان قدیمی برجام اعتراف می‌کنند که حاشیه مانور تهران در برابر کاخ سفید به حداقل رسیده و فرمول‌های قدیمی دیگر کارساز نیستند."
-        ],
-        "impact": "افزایش ناامیدی در بازارهای مالی تهران و بی‌اثر شدن تلاش‌های دیپلماتیک برای کاهش تحریم‌ها.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRll5YjNzc1ZwaEh2enM4SEZLOEVEemdIcnYtR1NOUWdsbzUtblVPRjVrWjRjd2NxTVQzTFlCZEl1dzlXd0g2WXI5bHJ0eHlfbm9iYkJmUWlSV0pjam5RRU1UeGwwRG5zVEU5ZVpKV195M245cjF5Z095emhnSjNHRC1rUnNOZ2hNUGZDckwwNW5uYmplbWNKd2ExNW5uM3lydWRtVk5MUjhCUDV4dS1oTzlhdkI4ZzV5dlIwb01sNkl4NmpnbnBBcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRll5YjNzc1ZwaEh2enM4SEZLOEVEemdIcnYtR1NOUWdsbzUtblVPRjVrWjRjd2NxTVQzTFlCZEl1dzlXd0g2WXI5bHJ0eHlfbm9iYkJmUWlSV0pjam5RRU1UeGwwRG5zVEU5ZVpKV195M245cjF5Z095emhnSjNHRC1rUnNOZ2hNUGZDckwwNW5uYmplbWNKd2ExNW5uM3lydWRtVk5MUjhCUDV4dS1oTzlhdkI4ZzV5dlIwb01sNkl4NmpnbnBBcw",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790757819.0
     }
 ]
