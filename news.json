@@ -621,6 +621,25 @@
         "timestamp": 1790954820.0
     },
     {
+        "id": "e68ce3a8be",
+        "title_fa": "تشدید درگیری‌ها در منطقه و استقرار ناو هواپیمابر سوم آمریکا",
+        "title_en": "Live Updates: One injured in Saudi Arabia from missile shrapnel as US reportedly builds up forces in region",
+        "summary": [
+            "اصابت ترکش موشک به یک نفر در عربستان سعودی همزمان با بالا گرفتن تنش‌ها با حوثی‌ها",
+            "استقرار سومین ناو هواپیمابر آمریکا در خاورمیانه برای مهار تهدیدات دریایی",
+            "گزارش‌ها از آمادگی عربستان برای یک عملیات نظامی گسترده جهت باز کردن مسیرهای کشتیرانی در دریای سرخ"
+        ],
+        "impact": "افزایش ریسک امنیت انرژی و حمل‌ونقل دریایی در آب‌های منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-03/live-updates-910441",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-03/live-updates-910441",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738481",
+        "timestamp": 1790954640.0
+    },
+    {
         "id": "d2f65e6592",
         "title_fa": "خط و نشان حوثی‌ها برای پاکستان پس از محکومیت حملات",
         "title_en": "یک مقام حوثی به پاکستان: حق پاسخ به محکومیت حملات را محفوظ میدانیم",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.iranintl.com/202609305574",
         "image": "http://www.bing.com/th?id=ONUT.rgxEjDe4JvxGWDCCifbOOQ&pid=News",
         "timestamp": 1790752920.0
-    },
-    {
-        "id": "dba9be384e",
-        "title_fa": "رد قاطع تخفیف تحریمی به ایران توسط ترامپ",
-        "title_en": "Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
-        "summary": [
-            "دونالد ترامپ هرگونه پیشنهاد لغو یا کاهش تحریم‌های ایران را تکذیب کرد تا خط فشار حداکثری دست‌نخورده بماند.",
-            "تلاش‌های قطر برای میانجی‌گری و صلح در برابر دیوار سخت موضع واشنگتن بی‌نتیجه مانده است."
-        ],
-        "impact": "تداوم خفگی اقتصادی و بی‌اثری تحرکات دیپلماتیک منطقه برای امتیازگیری ارزی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiZGlpZjdwYjY3b19oa2o4LUhaSDNIM3NZS2ZOTHFTNlVnd2FYSlJRWUc2c1doTEpRR1lRMi1LRGtOZ011aGxrYjhuVHdtM3hnMXl5cVMtSFRhNUpLUVBPbzg2S2hJdFdEQlRsWVNn0gFzQVVfeXFMUHVrUmctM0g2MmVKM1VYZzduZ3JLMEl2ZFR6TUpDeFl1MFpFNXpCNFhBVmFLMGNyN1BnQThEdXBwaTBhMnVFRFROZWxjM2VNcjh5MzNHeTZ4OVFuQXNJMVV3bHRVMFd5a0JLNm5VVkhGQmw3NA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiZGlpZjdwYjY3b19oa2o4LUhaSDNIM3NZS2ZOTHFTNlVnd2FYSlJRWUc2c1doTEpRR1lRMi1LRGtOZ011aGxrYjhuVHdtM3hnMXl5cVMtSFRhNUpLUVBPbzg2S2hJdFdEQlRsWVNn0gFzQVVfeXFMUHVrUmctM0g2MmVKM1VYZzduZ3JLMEl2ZFR6TUpDeFl1MFpFNXpCNFhBVmFLMGNyN1BnQThEdXBwaTBhMnVFRFROZWxjM2VNcjh5MzNHeTZ4OVFuQXNJMVV3bHRVMFd5a0JLNm5VVkhGQmw3NA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790752371.0
     }
 ]
