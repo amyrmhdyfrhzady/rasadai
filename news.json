@@ -367,6 +367,24 @@
         "timestamp": 1790973000.0
     },
     {
+        "id": "aec0b3479b",
+        "title_fa": "نشست محرمانه تیم ارشد ترامپ درباره ایران در کمپ‌دیوید",
+        "title_en": "اکسیوس: مقام‌های ارشد دولت ترامپ مخفیانه درباره گام‌های بعدی جنگ ایران رایزنی کردند",
+        "summary": [
+            "مقام‌های ارشد امنیت ملی و سیاست خارجی دولت ترامپ در نشستی اعلام‌نشده سناریوهای پیش‌رو درباره ج. ا و نیابتی‌های یمن را بررسی کردند.",
+            "این جلسه محرمانه چندساعته به ریاست جی‌دی ونس و با حضور وزرای خارجه و جنگ، رئیس سیا و فرمانده ستاد مشترک ارتش آمریکا برگزار شد."
+        ],
+        "impact": "واشنگتن در حال تدوین گام‌های بعدی و تصمیم‌گیری‌های جدی برای مهار تهران و گروه‌های نیابتی در منطقه است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610039499",
+        "clean_url": "https://www.iranintl.com/202610039499",
+        "image": "http://www.bing.com/th?id=ONUT.rLF3iWDo3sPu0JDJYa9Jxg&pid=News",
+        "timestamp": 1790972760.0
+    },
+    {
         "id": "646d0723f5",
         "title_fa": "خط و نشان ترامپ برای سپاه؛ زمین گذاشتن سلاح یا مرگ حتمی",
         "title_en": "US-Iran news today: President Donald Trump threatens 'certain death' to Iranian guard who don't 'lay down' weapons",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.middleeasteye.net/opinion/vietnam-taught-america-limits-its-power-hormuz-teaching-it-again",
         "image": "https://www.middleeasteye.net/sites/default/files/images-story/2026-09-28T112819Z_711172295_RC26SNAHFL5K_RTRMADP_3_IRAN-CRISIS-HORMUZ(1).jpg",
         "timestamp": 1790758740.0
-    },
-    {
-        "id": "3c5db79b7e",
-        "title_fa": "واکنش صنعا و آنکارا به تهدیدات دریایی حوثی‌ها",
-        "title_en": "US Iran War Live Updates: Iran receives US 'feedback' on 7-day proposal to reopen Strait of Hormuz",
-        "summary": [
-            "مقام ارشد یمنی در دیدار با دیپلمات ترکیه، حملات موشکی حوثی‌ها به کشتی‌های تجاری را تهدیدی مرگبار برای تجارت جهانی خواند.",
-            "آنکارا حمایت کامل خود را از دولت قانونی یمن و حفظ تمامیت ارضی این کشور اعلام کرد."
-        ],
-        "impact": "افزایش فشارهای دیپلماتیک منطقه‌ای علیه فعالیت‌های نیابتی در آب‌های راهبردی",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-tehran-sanction-relief-irgc-talks-strait-of-hormuz-oil-prices-ceasefire-proposal-latest-news/liveblog/134577206.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-tehran-sanction-relief-irgc-talks-strait-of-hormuz-oil-prices-ceasefire-proposal-latest-news/liveblog/134577206.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134577206,width-1280,height-720,imgsize-131754,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1790758260.0
     }
 ]
