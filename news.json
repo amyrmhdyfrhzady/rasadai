@@ -1,5 +1,23 @@
 [
     {
+        "id": "fae3d7b374",
+        "title_fa": "افشاگری ترامپ از تلفات نظامی و فروپاشی مهره‌های ارشد نظام",
+        "title_en": "Trump says US has lost 18 'incredible' service members during war with Iran",
+        "summary": [
+            "ترامپ از کشته شدن ۱۸ نظامی آمریکایی در درگیری‌ها خبر داد.",
+            "مقامات ارشد جـمـهـوری اسـلامـی با فحاشی به ترامپ تلاش می‌کنند شکست‌های پی در پی رهبری را پنهان کنند."
+        ],
+        "impact": "تشدید جنگ لفظی و نظامی میان واشنگتن و تهران همزمان با ضربات سنگین به بدنه حاکمیت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-trump-talks-strait-hormuz-oil-prices-10-03-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-trump-talks-strait-hormuz-oil-prices-10-03-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/7a1a2aeb4511a281d6b8eaf7f0c6be9f.jpg",
+        "timestamp": 1791040620.0
+    },
+    {
         "id": "c07bb700ce",
         "title_fa": "استقرار نیروی نظامی جدید آمریکا در منطقه",
         "title_en": "US military plans to deploy more forces to Middle East",
@@ -345,6 +363,42 @@
         "timestamp": 1791012900.0
     },
     {
+        "id": "628e6a26f1",
+        "title_fa": "سیل مرگبار در اسپانیا قربانی گرفت",
+        "title_en": "One dead and scores rescued in floods in Spain",
+        "summary": [
+            "بارندگی شدید در جنوب شرقی اسپانیا باعث مرگ یک زن سالخورده و عملیات امداد وسیع شد.",
+            "این رویداد پس از تابستانی رکوردشکن در زمینه گرما رخ داده است."
+        ],
+        "impact": "خسارات سنگین زیرساختی و انسانی در مناطق سیل‌زده.",
+        "tag": "محیط زیست",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/03/europe/spain-deadly-floods-rainfall-intl",
+        "clean_url": "https://www.cnn.com/2026/10/03/europe/spain-deadly-floods-rainfall-intl",
+        "image": "http://www.bing.com/th?id=ONUT.YCJhZO_KGPSxJCrIdep9YQ&pid=News",
+        "timestamp": 1791009780.0
+    },
+    {
+        "id": "41a1d82873",
+        "title_fa": "پیمان جهانی ۱۶ کشور برای توسعه هوش مصنوعی در علم",
+        "title_en": "Global tech policymakers agree to embrace AI in science",
+        "summary": [
+            "آمریکا و ۱۵ کشور دیگر بیانیه مشترکی برای ورود هوش مصنوعی به تحقیقات علمی صادر کردند.",
+            "این فناوری بر اساس دستور اجرایی جدید، در سطح جهانی به رسمیت شناخته شد."
+        ],
+        "impact": "شکل‌گیری استانداردهای نوین تکنولوژیک در جهان پیشرفته.",
+        "tag": "فناوری",
+        "urgency": 5,
+        "sentiment": 0.7,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/tech/tech-news/global-tech-policymakers-embrace-ai-science-rcna600974",
+        "clean_url": "https://www.nbcnews.com/tech/tech-news/global-tech-policymakers-embrace-ai-science-rcna600974",
+        "image": "http://www.bing.com/th?id=ONUT.x5rHd_c7u_8J1leXG4AIXA&pid=News",
+        "timestamp": 1791007200.0
+    },
+    {
         "id": "8825774d79",
         "title_fa": "اعتراف ارتش ج.ا به ناکامی دشمن در براندازی",
         "title_en": "سخنگوی ارتش جمهوری اسلامی: برای هر وضعیتی آماده‌ایم و توان خود را افزایش می‌دهیم",
@@ -616,6 +670,60 @@
         "timestamp": 1790997278.0
     },
     {
+        "id": "9259fbe199",
+        "title_fa": "جنگ با ایران، پاشنه آشیل انتخاباتی ۲۰۲۶ آمریکا",
+        "title_en": "Nate Silver reveals the ‘biggest electoral story of 2026’ — and it’s bad news for Trump.",
+        "summary": [
+            "تحلیلگران انتخاباتی معتقدند پرونده نظامی ایران به بزرگترین چالش سیاسی آینده تبدیل می‌شود.",
+            "این مناقشه می‌تواند معادلات سیاسی کنگره را به زیان حزب حاکم تغییر دهد."
+        ],
+        "impact": "تأثیرگذاری مستقیم سیاست خارجی بر نزاع‌های انتخاباتی داخلی آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/10/nate-silver-reveals-the-biggest-electoral-story-of-2026-and-its-bad-news-for-trump.html",
+        "clean_url": "https://www.masslive.com/politics/2026/10/nate-silver-reveals-the-biggest-electoral-story-of-2026-and-its-bad-news-for-trump.html",
+        "image": "http://www.bing.com/th?id=ONUT.NM14K7sPu_0QeDMU0S5kfA&pid=News",
+        "timestamp": 1790996400.0
+    },
+    {
+        "id": "3ebf8613d2",
+        "title_fa": "حمله تند تهیه‌کننده هالیوودی به ترامپ و واکنش تند کاخ سفید",
+        "title_en": "White House urges sitcom producer Chuck Lorre to seek 'psychiatric help' after targeting Trump, first lady",
+        "summary": [
+            "یک چهره سرشناس هالیوود در مراسمی به شدت به خانواده ترامپ تاخت.",
+            "کاخ سفید با ادبیاتی تند خواستار درمان روانی این فرد شد."
+        ],
+        "impact": "بالا گرفتن تنش‌های سیاسی و فرهنگی میان چهره‌های رسانه‌ای و دولت آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/white-house-urges-sitcom-producer-chuck-lorre-seek-psychiatric-help-after-targeting-trump-first-lady",
+        "clean_url": "https://www.foxnews.com/media/white-house-urges-sitcom-producer-chuck-lorre-seek-psychiatric-help-after-targeting-trump-first-lady",
+        "image": "http://www.bing.com/th?id=ONUT.fNDLGqCHNnvnxZHmVgsXXQ&pid=News",
+        "timestamp": 1790996400.0
+    },
+    {
+        "id": "e5b740bd88",
+        "title_fa": "بحران بدهی کارت اعتباری برای یک زوج آمریکایی",
+        "title_en": "One couple wants to stop living paycheck to paycheck. A big obstacle: Nearly $40,000 in credit card debt",
+        "summary": [
+            "بدهی سنگین بانکی و از دست رفتن شغل، زندگی یک زوج را به مرز بحران کشاند.",
+            "مشاوران مالی برای خروج از چرخه زندگی دستمزد به دستمزد وارد عمل شدند."
+        ],
+        "impact": "فشار فزاینده تورم بر طبقه متوسط و کارگر در اقتصاد آمریکا.",
+        "tag": "اقتصادی",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/03/business/savings-challenge-participant-first-update-mariza-and-geffrey-gordon",
+        "clean_url": "https://www.cnn.com/2026/10/03/business/savings-challenge-participant-first-update-mariza-and-geffrey-gordon",
+        "image": "http://www.bing.com/th?id=ONUT.OfB_-UkyrrgeY1JAG3qwBQ&pid=News",
+        "timestamp": 1790996400.0
+    },
+    {
         "id": "0e48e15c54",
         "title_fa": "انتقاد شدید نتانیاهو از سکوت غرب در برابر تهران",
         "title_en": "نتانیاهو خطاب به بریتانیا: چرا خشم شما متوجه جمهوری اسلامی نمی‌شود؟",
@@ -671,6 +779,24 @@
         "timestamp": 1790996220.0
     },
     {
+        "id": "4c7ccd2715",
+        "title_fa": "توقف لایحه ممنوعیت خودروهای چینی در سنای آمریکا",
+        "title_en": "Chinese vehicle ban stalls amid Detroit concerns over rising EV competition",
+        "summary": [
+            "طرح جلوگیری از ورود صنعت خودروی چین به دلیل نگرانی از رقابت برقی متوقف شد.",
+            "رقابت شدید در بازار خودروی الکتریکی مانع از توافق فوری قانون‌گذاران شد."
+        ],
+        "impact": "حفظ موقت منافع خودروسازان در برابر سیل واردات رقیب.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/10/chinese-vehicle-ban-stalls-amid-detroit-concerns-over-rising-ev-competition.html",
+        "clean_url": "https://www.mlive.com/politics/2026/10/chinese-vehicle-ban-stalls-amid-detroit-concerns-over-rising-ev-competition.html",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790995860.0
+    },
+    {
         "id": "187dc118ef",
         "title_fa": "پاسخ تند محسن رضایی به ادعای تسلیم تهران از سوی ترامپ",
         "title_en": "‘You can win in imagination’: Iran security official hits back at Trump's ‘ready to fold up’ claim",
@@ -706,6 +832,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlk4MTVFTlQxU3VMOWhyT3NQNDE3QnVwaGJqN2RJTEF1NkppajBYU3ZvVDNIUzlIS3NBLWp3UFlzOGJ4UW9IczBEWW4zMUdRQTFabHpnR2hYOU1Mb2dVdlhMMFhoaGt3Q3k0U3A5QVNuMW1CZC0zaG83NUZNbzFKemM4X2NvQ0doRko5Rzh0QlJPenQxRVVvWDFGdU5vSHRLYVliOFF0eUswalNvbmd1WVYzbGpxWEdwWFF1cVFrWmxKR3FwaXg4NGNrYlo",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790992891.0
+    },
+    {
+        "id": "267e7aa750",
+        "title_fa": "مسدودسازی حساب‌های صرافی‌های رمزارز به دلیل دستکاری تتر",
+        "title_en": "Iran to block accounts of crypto exchanges over 'Tether manipulation'",
+        "summary": [
+            "بانک مرکزی ایران برای مهار سقوط آزاد ریال دست به مسدودسازی حساب‌ها زد.",
+            "این اقدام صرافی‌ها را به دستکاری در بازار ارز دیجیتال و نرخ دلار متهم می‌کند."
+        ],
+        "impact": "فلج شدن بیشتر مبادلات مالی خرد و آشفتگی در بازار ارز.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610039559",
+        "clean_url": "https://www.iranintl.com/en/202610039559",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790991000.0
     },
     {
         "id": "9eacd9c12c",
@@ -893,6 +1037,24 @@
         "clean_url": "https://www.freep.com/story/news/politics/elections/2026/10/03/trump-rallies-republican-states-avoids-democrats/92026505007",
         "image": "http://www.bing.com/th?id=ONUT.wsGtn204EWlsKeG3GbiYlQ&pid=News",
         "timestamp": 1790983620.0
+    },
+    {
+        "id": "2278f1030c",
+        "title_fa": "مجوز احداث راکتورهای هسته‌ای کوچک در تنسی",
+        "title_en": "A new type of small nuclear reactor gets the green light in Tennessee",
+        "summary": [
+            "راکتورهای ماژولار جدید با هدف کاهش هزینه‌ها و موانع ساخت تایید شدند.",
+            "این طرح می‌تواند بحران تأخیر در پروژه‌های اتمی آمریکا را حل کند."
+        ],
+        "impact": "گامی نو در جهت تولید انرژی ارزان و پایدار در صنعت هسته‌ای.",
+        "tag": "انرژی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "The Seattle Times",
+        "url": "https://www.seattletimes.com/nation-world/a-new-type-of-small-nuclear-reactor-gets-the-green-light-in-tennessee/",
+        "clean_url": "https://www.seattletimes.com/nation-world/a-new-type-of-small-nuclear-reactor-gets-the-green-light-in-tennessee",
+        "image": "http://www.bing.com/th?id=ONUT.lJ9XH0ZMR9Frulr8eYqwpQ&pid=News",
+        "timestamp": 1790982900.0
     },
     {
         "id": "67cc7a5560",
@@ -5329,171 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTVyY0JVTnVhY094WnFSRzktWm1kaS1DeEgzb2ZYQ2E3N1o0MjgzRUZWTXE4Ym00WS12YjlaT1NHSmczRzVXSjlqN0U1dC1zN0UwbzNDWGRFNEY4b2lvZU9KeXVMMjBtMnZCQVhiNXRpZXd4UnFqcXNOeVBiWC1XWXhLaDE4SUNtb2VhM1Jmbw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790802867.0
-    },
-    {
-        "id": "91e7e29b3f",
-        "title_fa": "بررسی پیشنهاد آتش‌بس آمریکا توسط حکومت",
-        "title_en": "Iran reviews US ceasefire counterproposal as Strait of Hormuz terms remain unclear",
-        "summary": [
-            "تهران در حال بررسی پیشنهاد متقابل آمریکا برای آتش‌بس است.",
-            "وضعیت تردد در تنگه هرمز و شرایط آن همچنان در هاله‌ای از ابهام قرار دارد."
-        ],
-        "impact": "این مذاکرات می‌تواند مسیر تنش‌های دریایی را موقتاً تغییر دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "WLUK",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaThNc0taaUlGdVctOE1ROTl5bjZaeUhiNHotaW5LdnFqVW1pdTcxcW5ZcUVfQzBwY2NJOThHQTZ4XzhhU0ZLM05yajVEem9odi1OM29fSlc5RHZKM2JCZlNaUEJ6aVN0REt5OTNSMjl4R1YtWklDMHRWNTFpZHhYX3RmZTFYNEpsSndjTkVsaWZBSG4yREw2Ym85YnRhdEhGOXNXMGpHNDl2MzhuQkNTQVpXMmZSZEFuOHhmZ1E2T1plZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaThNc0taaUlGdVctOE1ROTl5bjZaeUhiNHotaW5LdnFqVW1pdTcxcW5ZcUVfQzBwY2NJOThHQTZ4XzhhU0ZLM05yajVEem9odi1OM29fSlc5RHZKM2JCZlNaUEJ6aVN0REt5OTNSMjl4R1YtWklDMHRWNTFpZHhYX3RmZTFYNEpsSndjTkVsaWZBSG4yREw2Ym85YnRhdEhGOXNXMGpHNDl2MzhuQkNTQVpXMmZSZEFuOHhmZ1E2T1plZw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790799753.0
-    },
-    {
-        "id": "ddfbacb67f",
-        "title_fa": "فشار خردکننده واشینگتن بر اقتصاد ج.ا",
-        "title_en": "ترامپ هشدار اسکات بسنت،وزیر خزانه‌داری آمریکا، درباره چشم‌انداز اقتصاد ایران را بازنشر کرد",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا هشدار داد اقتصاد ایران در آستانه فروپاشی کامل و خالی شدن از منابع ارزی است.",
-            "با تخلیه آخرین محموله‌های نفتی ارسالی به چین، دست تهران در معاملات انرژی کاملاً بسته می‌شود.",
-            "اخراج فوری هیئت دیپلماتیک ج.ا از خاک آمریکا نشانگر پایان بازی دیپلماسی و ورود به فاز فشار حداکثری است."
-        ],
-        "impact": "فلج شدن کامل شریان‌های صادرات نفت و فروپاشی توان مالی حکومت در تامین هزینه‌های داخلی و خارجی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610015442",
-        "clean_url": "https://www.iranintl.com/202610015442",
-        "image": "http://www.bing.com/th?id=ONUT.XZP2SU-CJQY5BPgyA7xAJw&pid=News",
-        "timestamp": 1790797740.0
-    },
-    {
-        "id": "e57ea33242",
-        "title_fa": "حمله کیهان به دولت پزشکیان همزمان با سقوط تاریخی ریال",
-        "title_en": "Iran's hardline daily attacks talks with US as rial weakens",
-        "summary": [
-            "روزنامه کیهان زیر نظر رهبر ج.ا، دیپلماسی و مذاکره با آمریکا را عامل اصلی فروپاشی ارزش پول ملی دانست و خواستار اعلام وضعیت تمام‌عیار جنگی شد.",
-            "جناح تندرو با ابزار قرار دادن رکوردشکنی قیمت دلار، در حال بستن کامل روزنه‌های دیپلماسی و احیای توافق با غرب است.",
-            "پیام صریح شریعتمداری به پزشکیان روشن است: توهم تنش‌زدایی را کنار بگذارید و اقتصاد کشور را وارد فاز سخت‌گیرانه جنگی کنید."
-        ],
-        "impact": "تشدید شکاف ساختاری در راس حکومت و موج جدید ناامیدی در بازار ارز که سقوط بیشتر ریال را تسریع می‌کند.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610011563",
-        "clean_url": "https://www.iranintl.com/en/202610011563",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790797440.0
-    },
-    {
-        "id": "680b678262",
-        "title_fa": "افشای طرح حمله نیابتی و انتقاد نتانیاهو از لندن",
-        "title_en": "نتانیاهو: ما اطلاعات حمله‌ای که مورد حمایت جمهوری اسلامی بود را به بریتانیا دادیم",
-        "summary": [
-            "نخست‌وزیر اسرائیل از ارائه اطلاعات دقیق به بریتانیا درباره توطئه تروریستی تحت حمایت ج.ا خبر داد.",
-            "اقدام دولت بریتانیا در تحریم اسرائیل بلافاصله پس از دریافت اطلاعات امنیتی با انتقاد شدید نتانیاهو مواجه شد.",
-            "هدف نهایی استراتژی منطقه‌ای حکومت، ضربه به منافع آمریکا به عنوان هدف اصلی تعریف شده است."
-        ],
-        "impact": "افزایش انزوای دیپلماتیک حامیان منطقه‌ای ج.ا و همگرایی بیشتر غرب در اعمال محاصره اقتصادی علیه تهران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610017608",
-        "clean_url": "https://www.iranintl.com/202610017608",
-        "image": "http://www.bing.com/th?id=ONUT.-LvHCDZ8MRwQMZfEFVjfwA&pid=News",
-        "timestamp": 1790795940.0
-    },
-    {
-        "id": "b3b36b2857",
-        "title_fa": "جهش قیمت نفت همزمان با بن‌بست مذاکرات با آمریکا",
-        "title_en": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets",
-        "summary": [
-            "توقف مذاکرات میان ایالات متحده و ایران بازار انرژی را تحت تأثیر قرار داد.",
-            "تنگی عرضه سوخت در بازار جهانی به افزایش حدود یک دلاری بهای هر بشکه نفت منجر شد."
-        ],
-        "impact": "افزایش درآمد محدود نفتی یا تشدید بحران‌های ارزی به دلیل مسدود ماندن مسیرهای دیپلماتیک",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790795811.0
-    },
-    {
-        "id": "d998caab35",
-        "title_fa": "تد کروز: حذف نیروهای سـپاه و نیابتی‌ها، آمریکا را امن‌تر می‌کند",
-        "title_en": "تد کروز: کشته شدن اعضای حماس، حزب‌الله و سپاه پاسداران آمریکا را امن‌تر می‌کند",
-        "summary": [
-            "سناتور جمهوری‌خواه تاکید کرد هر عضو حماس، حـزب‌اللـه و سـپاه که توسط اسرائیل کشته شود، مستقیماً به امنیت ملی آمریکا کمک می‌کند.",
-            "او با اشاره به شعارهای سیستم حاکم، هشدار داد که تهدیدهای علیه جان نظامیان و شهروندان آمریکایی جدی و واقعی است.",
-            "کروز از انفعال کشورهای اروپایی در برابر خطرات امنیتی ناشی از اقدامات جـمهوری اسـلامی انتقاد کرد."
-        ],
-        "impact": "تقویت رویکرد تهاجمی واشنگتن و تل‌آویو علیه شبکه نیابتی و نهادهای نظامی حاکمیت.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610011841",
-        "clean_url": "https://www.iranintl.com/202610011841",
-        "image": "http://www.bing.com/th?id=ONUT.wVspkLC6s-I6cMkTznplEQ&pid=News",
-        "timestamp": 1790795700.0
-    },
-    {
-        "id": "ca9a08d819",
-        "title_fa": "انفجارها در زاهدان همزمان با بحران تورم و سقوط ریال",
-        "title_en": "Three Explosions Rock Zahedan on Bloody Friday Anniversary as Inflation Nears 90% and Rial Slides Further",
-        "summary": [
-            "وقوع سه انفجار در زاهدان در سالگرد جمعه خونین جو امنیتی شهر را متشنج کرد.",
-            "تورم نزدیک به ۹۰ درصد و سقوط آزاد ارزش ریال فشار معیشتی بر شهروندان را به اوج رسانده است."
-        ],
-        "impact": "تشدید جو امنیتی در استان‌های مرزی و بالا رفتن نارضایتی‌های عمومی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "National Council of Resistance of Iran",
-        "url": "https://www.ncr-iran.org/en/news/iran-protests/three-explosions-rock-zahedan-on-bloody-friday-anniversary-as-inflation-nears-90-and-rial-slides-further/",
-        "clean_url": "https://www.ncr-iran.org/en/news/iran-protests/three-explosions-rock-zahedan-on-bloody-friday-anniversary-as-inflation-nears-90-and-rial-slides-further",
-        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2025/07/iran-irgc-basij-patrols.jpg",
-        "timestamp": 1790794680.0
-    },
-    {
-        "id": "5b15b6d8dd",
-        "title_fa": "ابهام نتانیاهو درباره تلاش برای سقوط پرواز دبی-تل‌آویو",
-        "title_en": "نتانیاهو: هنوز نقش جمهوری اسلامی را در حادثه فلای‌دبی نمی‌دانیم؛ در حال تحقیق هستیم",
-        "summary": [
-            "نخست‌وزیر اسرائیل اعلام کرد هنوز مدرکی قطعی درباره نقش ج.ا در حادثه پرواز فلای‌دبی وجود ندارد.",
-            "تحقیقات مشترک منطقه‌ای برای روشن شدن ابعاد این توطئه خنثی‌شده در جریان است."
-        ],
-        "impact": "افزایش سطح هوشیاری امنیتی پروازهای منطقه‌ای و بررسی ابعاد امنیتی پرونده.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610011562",
-        "clean_url": "https://www.iranintl.com/202610011562",
-        "image": "http://www.bing.com/th?id=ONUT.4VSWJXuvcjcU9ZUb_VvATg&pid=News",
-        "timestamp": 1790793720.0
-    },
-    {
-        "id": "cd07418d46",
-        "title_fa": "روایت مسافر اسرائیلی از خنثی کردن حمله",
-        "title_en": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
-        "summary": [
-            "یکی از مسافران پرواز با مداخله به موقع مانع از اقدام مهاجم شد.",
-            "نخست‌وزیر اسرائیل جزئیات این رویداد امنیتی را شخصاً شنید."
-        ],
-        "impact": "افزایش توجه به پروتکل‌های امنیتی پروازهای تجاری.",
-        "tag": "امنیتی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaklITHVSYlpXU3JnUk5YTEFkdDlfZERJTzBPX2pJak1RenlFUW9wbkQzRWdyTUNSZ1pzM3dHVF9HTjhGcFA3VmF1WDVwMmZuazI5OWxLTkY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaklITHVSYlpXU3JnUk5YTEFkdDlfZERJTzBPX2pJak1RenlFUW9wbkQzRWdyTUNSZ1pzM3dHVF9HTjhGcFA3VmF1WDVwMmZuazI5OWxLTkY",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790793636.0
     }
 ]
