@@ -384,6 +384,25 @@
         "timestamp": 1790964000.0
     },
     {
+        "id": "a386d44986",
+        "title_fa": "خط‌ونشان ترامپ برای تهران: پایان کار رژ*یم با توافق یا جنگ",
+        "title_en": "ترامپ در آلاباما: نمی‌دانم برای توافق باید با چه کسی در ایران مذاکره کنم",
+        "summary": [
+            "دونالد ترامپ با تمسخر ساختار قدرت در تهران، از فقدان یک تصمیم‌گیرنده واحد برای مذاکره سخن گفت و آشفتگی درونی رژ*یم را به رخ کشید.",
+            "او با اشاره به استراتژی «دیوار فولادی» یا همان محاصره دریایی، بر خفگی کامل شریان‌های اقتصادی ج.ا تاکید کرد.",
+            "تاکید ترامپ بر پایان زودهنگام این تقابل از طریق توافق یا گزینه نظامی، نشان‌دهنده عزم او برای یکسره کردن کار پرونده ایران است."
+        ],
+        "impact": "افزایش شدید فشار روانی بر بازار ارز تهران و سیگنال صریح به خریداران نفت ایران برای عقب‌نشینی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610034789",
+        "clean_url": "https://www.iranintl.com/202610034789",
+        "image": "http://www.bing.com/th?id=ONUT.4Movub8zgajJZ8WN5d4wCQ&pid=News",
+        "timestamp": 1790962860.0
+    },
+    {
         "id": "a4f44cc2a3",
         "title_fa": "تشدید ناامنی در منطقه با چاقو خوردن یک خلبان",
         "title_en": "Pilot stabbing further unsettles region shaken by U.S.-Iran war",
@@ -5470,24 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0kzWlhUUEZRN3kwZEp1OFA5RWJzQ193UGl3NUNhX3p6c3dYalNlRmoxVV9uQnUtem8zdEN0dDExdHJMUFNKNk83am1ZNVFMVGNyeENobDB0eUJKWmFES1J0VVh3Z0Z6bVRtM1JYQ1BSeTV1ckNkNlF4T2VFa0RFR1VEaHluYXRBcnNRWjF4QU1uU2NkXzFIdUUtYmFrbUVYR3dqbUhCZkN1RTRhY1c5Sm5PSUp5b1R3WWVHZVJhbi1yYVdObjEwVmlSU200MlM4X0RCaXRxVFBVdlFUZm0zVmlpXy1GaGVtS1cyMnI5Yw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790748960.0
-    },
-    {
-        "id": "41cf2f6b21",
-        "title_fa": "هشدار صریح مسکو به تهران درباره خروج از NPT",
-        "title_en": "Russia Opposes Iran Leaving Nuclear Non-Proliferation Treaty",
-        "summary": [
-            "کرملین به طور علنی با طرح مجلس برای خروج از پیمان منع گسترش تسلیحات هسته‌ای مخالفت کرد؛ موضعی که نشان می‌دهد حتی روسیه نیز مایل به پذیرش یک همسایه مجهز به بمب اتمی نیست.",
-            "مانور علی نیکزاد روی طرح سه‌فوریتی خروج از پیمان، بیشتر یک بلوف سیاسی برای عقب راندن آژانس است تا یک تصمیم عملیاتی و قابل اجرا.",
-            "بی‌اعتمادی عمیق تهران به رافائل گروسی، بن‌بست نظارتی را به مرحله خطرناکی رسانده و پرونده را به سمت شورای امنیت سوق می‌دهد."
-        ],
-        "impact": "ترک برداشتن ائتلاف تهران-مسکو در پرونده هسته‌ای و افزایش احتمال فعال شدن مکانیسم ماشه.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/world/5324180-russia-opposes-iran-leaving-nuclear-non-proliferation-treaty",
-        "clean_url": "https://english.aawsat.com/world/5324180-russia-opposes-iran-leaving-nuclear-non-proliferation-treaty",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1802112_0.jpeg.webp?VersionId=uX0xSmrZmZtSu83XNvXdYyAYpOURlg5E",
-        "timestamp": 1790748660.0
     }
 ]
