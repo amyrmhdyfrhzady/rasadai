@@ -468,6 +468,24 @@
         "timestamp": 1791038400.0
     },
     {
+        "id": "75c34d043b",
+        "title_fa": "ادعای ترامپ درباره عقب‌نشینی ج.ا از برنامه اتمی",
+        "title_en": "ترامپ: جمهوری اسلامی عملا در حال کنار گذاشتن برنامه ساخت سلاح هسته‌ای است",
+        "summary": [
+            "دونالد ترامپ در اظهاراتی تازه مدعی شد که حکومت ایران در حال کنار گذاشتن برنامه‌های ساخت تسلیحات اتمی است.",
+            "این موضع‌گیری در حالی مطرح می‌شود که فشار حداکثری اقتصادی و هشدارهای نظامی آمریکا ادامه دارد."
+        ],
+        "impact": "تغییر احتمالی در محاسبات واشنگتن درباره پرونده هسته‌ای تهران.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610035454",
+        "clean_url": "https://www.iranintl.com/202610035454",
+        "image": "http://www.bing.com/th?id=ONUT.7XJm4T79EkBnHl_IL0rPuw&pid=News",
+        "timestamp": 1791036540.0
+    },
+    {
         "id": "c07bb700ce",
         "title_fa": "استقرار نیروی نظامی جدید آمریکا در منطقه",
         "title_en": "US military plans to deploy more forces to Middle East",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://alhurra.com/en/43703",
         "image": "https://i0.wp.com/alhurra.com/wp-content/uploads/2026/09/1000235337.jpg?fit=624%2C416&ssl=1",
         "timestamp": 1790831040.0
-    },
-    {
-        "id": "9cc0999e31",
-        "title_fa": "صفر شدن صادرات نفت جـ.ا. و اوج‌گیری رقبای منطقه‌ای",
-        "title_en": "Iran oil exports vanish as regional flows surpass prewar levels",
-        "summary": [
-            "آمارهای جدید شرکت‌های رهگیری نفت نشان می‌دهد صادرات نفت جـ.ا. عملاً متوقف شده است.",
-            "کشورهای عربی منطقه توانسته‌اند میزان صادرات نفت خود را به بالاتر از سطح پیش از جنگ برسانند.",
-            "هیچ محموله نفتی از جـ.ا. نتوانسته از خط قرمز و تحریم‌های آمریکا عبور کند."
-        ],
-        "impact": "تشدید بحران مالی و خالی شدن بیشتر صندوق ارزی حکومت",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610014929",
-        "clean_url": "https://www.iranintl.com/en/202610014929",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/da24a0a24a1fc73c4accdc2e8ec7832ff6f19b7a-5742x3828.jpg?rect=957,0,3828,3828&w=200&h=200&q=58&fit=crop&auto=format",
-        "timestamp": 1790830440.0
     }
 ]
