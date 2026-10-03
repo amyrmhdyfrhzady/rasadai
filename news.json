@@ -309,6 +309,24 @@
         "timestamp": 1791013319.0
     },
     {
+        "id": "7ec33933b9",
+        "title_fa": "ادعای تداوم تولید موشک؛ جنگ روانی سپاه در بحران تسلیحاتی",
+        "title_en": "مشاور فرمانده نیروی هوافضای سپاه پاسداران: بدون توقف در حال تامین تسلیحات و موشک هستیم",
+        "summary": [
+            "علی بلالی مدعی شد زنجیره تولید موشک و پهپاد بدون وقفه در داخل کشور فعال است.",
+            "این ادعاها همزمان با افزایش فشارهای خارجی، مصرف داخلی و حفظ روحیه نیروهای نیابتی دارد."
+        ],
+        "impact": "تلاش برای پنهان کردن آسیب‌های تحریم و ضربات نظامی با تکیه بر پروپاگاندا.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610039981",
+        "clean_url": "https://www.iranintl.com/202610039981",
+        "image": "http://www.bing.com/th?id=ONUT.M__OvNarSnJuwZ_B0YKHgQ&pid=News",
+        "timestamp": 1791006960.0
+    },
+    {
         "id": "3407331644",
         "title_fa": "آمار تلفات جنگ تحمیلی از زبان رسانه‌های چین",
         "title_en": "Official: 7,200 rescued from rubble in Iran during US-Israel-imposed war",
@@ -1078,6 +1096,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790973702.0
+    },
+    {
+        "id": "f1241a5766",
+        "title_fa": "فشار حداکثری؛ ترامپ از اقداماتی تازه علیه حکومت خبر داد",
+        "title_en": "US-Israel-Iran war latest live news: Trump says Iran 'not doing well', hints at upcoming US action as he keeps details of next move secret",
+        "summary": [
+            "ترامپ وضعیت فعلی حکومت را وخیم توصیف کرد و از طرح‌های تازه واشنگتن پرده برداشت.",
+            "جزئیات برنامه بعدی ایالات متحده مخفی نگه داشته شده تا عنصر غافلگیری حفظ شود."
+        ],
+        "impact": "افزایش شدید ریسک امنیتی و روانی برای بازارهای مالی و تصمیم‌گیرندگان ارشد حاکمیت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-trump-says-iran-not-doing-well-hints-at-upcoming-us-action-as-he-keeps-details-of-next-move-secret/ar-AA2du9uT",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-trump-says-iran-not-doing-well-hints-at-upcoming-us-action-as-he-keeps-details-of-next-move-secret/ar-AA2du9uT",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790973300.0
     },
     {
         "id": "67db668887",
@@ -5460,42 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd3phSFRNcS1MRUNpbmdJc2ZoZ1E2TWFVSDU5NE9LdmR3TVowU2x2NC03RUdIZDlrNlV2LU5ybDMtYlpBVzc1WDg5T0V3Z0liN252TXZtbGgtcHAzWUtSYzJKQTV1Zi1RV1dwc0N6VkRpRklzTHVteDBGdjYzc1BYUUhHLTJvRzBwQjlpWWs0aG1KaEtqWWFEZklrYTNsNjJiUEU0cWhkVmFybUZ3NVh1UjQ1RTAtOWpSWjFaWFVfQi11LXd2SVlKTEJFVElVLUZPTVRF",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790793020.0
-    },
-    {
-        "id": "330aae3770",
-        "title_fa": "پاسخ رسمی ایالات متحده به پیشنهاد تهران برای پایان جنگ",
-        "title_en": "Iran gets US response as mediators push seven-month war deal",
-        "summary": [
-            "تهران رسماً پاسخ واشنگتن را به آخرین پیشنهاد خود برای پایان درگیری‌ها دریافت کرد.",
-            "فشار تحریم‌ها، بحران اقتصادی شدید و ناآرامی‌های داخلی، مقامات جمهوری اسلامی را پای میز توافق کشانده است."
-        ],
-        "impact": "تشدید فشارها تهران را مجبور به واکنش دیپلماتیک کرده است.",
-        "tag": "دیپلماتیک",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "India Today on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-gets-us-response-as-mediators-push-seven-month-war-deal/ar-AA2djwgB",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-gets-us-response-as-mediators-push-seven-month-war-deal/ar-AA2djwgB",
-        "image": "http://www.bing.com/th?id=ONUT.7DPIr23dJms_vr3MUB71yg&pid=News",
-        "timestamp": 1790792098.0
-    },
-    {
-        "id": "8d21d9256b",
-        "title_fa": "هشدار مستقیم ترامپ به تهران: توافق فوری یا نابودی کامل",
-        "title_en": "US-Iran war news LIVE Updates: US to ‘blow up’ Iran? Trump hints at fresh strikes, says US faces a choice",
-        "summary": [
-            "دونالد ترامپ با صراحت اعلام کرد آمریکا سر یک دوراهی است: یا توافق با جمهوری‌اسلامی یا موشک‌باران و نابودی زیرساخت‌های آن.",
-            "وزیر دفاع آمریکا اعلام کرد نیروهای مسلح این کشور پدافند، نیروی هوایی، نیروی دریایی و بخش عمده‌ای از توان هسته‌ای و نظامی ایران را زمین‌گیر کرده‌اند.",
-            "دستور مارکو روبیو برای اخراج فوری عباس عراقچی و هیئت همراهش از نیویورک، تیر خلاص به فرآیند دیپلماسی کم‌رمق اخیر بود."
-        ],
-        "impact": "بسته‌شدن کانال‌های دیپلماتیک مستقیم و بالا رفتن بی‌سابقه خطر حملات گسترده نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/us-news/usiran-war-news-live-updates-trump-blow-up-tehran-deal-fresh-strikes-strait-of-hormuz-oil-saudi-arabia-israel-uae-irgc-11790816465596.html",
-        "clean_url": "https://www.livemint.com/news/us-news/usiran-war-news-live-updates-trump-blow-up-tehran-deal-fresh-strikes-strait-of-hormuz-oil-saudi-arabia-israel-uae-irgc-11790816465596.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Iran_1790816750651_8lFf_1790816750824_yhjN_1575d74f-d09e-420f-9c4d-6ea3f336d07c_hvrs.jpg",
-        "timestamp": 1790791980.0
     }
 ]
