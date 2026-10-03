@@ -706,6 +706,25 @@
         "timestamp": 1791016162.0
     },
     {
+        "id": "ee9ffb1074",
+        "title_fa": "آماده‌باش ناوهای آمریکایی در خلیج فارس؛ بازی دو سر سوخت",
+        "title_en": "Three U.S. carriers, a chokepoint standoff, and Iran",
+        "summary": [
+            "استقرار سه ناوگروه آمریکایی و ده هزار نیروی تازه نفس در خلیج فارس، نمایش قدرت واشنگتن را وارد فاز جدیدی کرده است.",
+            "کاخ سفید پیشنهاد جـ.ـمهوری اسـ.ـلامی برای بازگشایی تنگه هرمز در ازای لغو تحریم‌ها را رد کرده تا سیاست فشار حداکثری دست‌نخورده بماند.",
+            "واشنگتن و تهران هر دو منتظر عبور از تقویم انتخاباتی آمریکا هستند و فعلاً تمایلی به درگیری نظامی تمام‌عیار ندارند."
+        ],
+        "impact": "فشار اقتصادی به دلیل مسدود ماندن تنگه هرمز و حضور نظامی سنگین ادامه دارد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Israel National News",
+        "url": "https://www.israelnationalnews.com/news/434034",
+        "clean_url": "https://www.israelnationalnews.com/news/434034",
+        "image": "https://2.a7.org/files/pictures/000/1212901.jpg",
+        "timestamp": 1791015480.0
+    },
+    {
         "id": "304bf98088",
         "title_fa": "انفجار مشکوک در تنگه هرمز همزمان با اعتراف به سرکوب‌ها",
         "title_en": "خبرگزاری فارس، وابسته به سپاه: یک کشتی تجاری در تنگه هرمز هدف قرار گرفت",
@@ -5466,24 +5485,5 @@
         "clean_url": "https://www.iranintl.com/202610018381",
         "image": "http://www.bing.com/th?id=ONUT.m22qwhOkJCmAiN4DOs16Lg&pid=News",
         "timestamp": 1790817120.0
-    },
-    {
-        "id": "c2ee269c9b",
-        "title_fa": "رژه پهپادهای شاهد در تهران؛ نمایش قدرت توخالی سپاه",
-        "title_en": "Iran parades Shahed drones through capital",
-        "summary": [
-            "نمایش پهپادهای انتحاری شاهد در خیابان‌های پایتخت، تلاش آشکار برای بازسازی روحیه تضعیف‌شده نیروهای وابسته به ج.ا است.",
-            "این مانورهای تبلیغاتی در حالی رخ می‌دهد که پدافند هوایی کشور در مواجهه با حملات اخیر اسرائیل عملاً ناکارآمد بود.",
-            "سپاه با این جنگ روانی می‌خواهد ضعف‌های ساختاری و نظامی خود را پشت هیاهوی تسلیحاتی پنهان کند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه تحریم‌های بین‌المللی روی شبکه تامین قطعات پهپادی سپاه.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNlcWl1Zkp6MXRLdWpRc1ZRYjFEdjh6Y0xkVXZaNWN5MFNfSWQyZkI2eU1ab3p2VUhUNUw3Q05aeDhQMWcwQlZYVC1wSkdvYURfNk1VRDRtdXJYZ1gwSXUxZTMxb0hiQ2FmOHR2aXEybUlHWVpxbk5OMmU3eE5HQzZCZVpFLUFiNGZIZ19UM2N6ZW5ET1J2etIBngFBVV95cUxPbDQ4V3llOURlQzNsZjhXZk5KY1VvTlBjaU9OUzEtZ3JUNGpYNVpzWC1VOTV3dVZfa1dxYVM2NE13T3Q5WjZJa2ltZURWM0hManB3Vmd5N1VuOEVnb2Ftdmh3N1J4bFJUNjdLSUZ1YldWVUxRa2Z4T2JBUXlHWFZxSFJPRlphNW9RZUo2Rno1SC1uWWlIdEdpM203U05iUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNlcWl1Zkp6MXRLdWpRc1ZRYjFEdjh6Y0xkVXZaNWN5MFNfSWQyZkI2eU1ab3p2VUhUNUw3Q05aeDhQMWcwQlZYVC1wSkdvYURfNk1VRDRtdXJYZ1gwSXUxZTMxb0hiQ2FmOHR2aXEybUlHWVpxbk5OMmU3eE5HQzZCZVpFLUFiNGZIZ19UM2N6ZW5ET1J2etIBngFBVV95cUxPbDQ4V3llOURlQzNsZjhXZk5KY1VvTlBjaU9OUzEtZ3JUNGpYNVpzWC1VOTV3dVZfa1dxYVM2NE13T3Q5WjZJa2ltZURWM0hManB3Vmd5N1VuOEVnb2Ftdmh3N1J4bFJUNjdLSUZ1YldWVUxRa2Z4T2JBUXlHWFZxSFJPRlphNW9RZUo2Rno1SC1uWWlIdEdpM203U05iUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790816094.0
     }
 ]
