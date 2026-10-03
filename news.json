@@ -380,6 +380,25 @@
         "timestamp": 1791021600.0
     },
     {
+        "id": "b298ae6dad",
+        "title_fa": "جزئیات طرح «ایران صفر» ترامپ از زبان وزیر خزانه‌داری",
+        "title_en": "'Iran zero': Scott Bessent gives new details on Trump's Iran campaign",
+        "summary": [
+            "اسکات بسنت، وزیر خزانه‌داری آمریکا، از فاز جدید کارزار فشار حداکثری دولت دونالد ترامپ علیه شریان‌های مالی تهران پرده برداشت.",
+            "هدف اصلی واشنگتن، مسدودسازی کامل درآمدهای نفتی و به صفر رساندن منابع ارزی در دسترس حکومت است.",
+            "این برنامه علاوه بر فروش نفت، شبکه‌های صرافی غیررسمی و خریداران عمده در آسیا را مستقیماً هدف تحریم‌های تنبیهی قرار می‌دهد."
+        ],
+        "impact": "تشدید انسداد منابع ارزی به جهش دوباره نرخ دلار و تشدید بحران کسری بودجه در ماه‌های آینده منجر می‌شود.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "MEAWW News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-zero-scott-bessent-gives-new-details-on-trump-s-iran-campaign/ar-AA2duR1s",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-zero-scott-bessent-gives-new-details-on-trump-s-iran-campaign/ar-AA2duR1s",
+        "image": "http://www.bing.com/th?id=ONUT.Umq6TYyn80eaIBYji66YTQ&pid=News",
+        "timestamp": 1791021010.0
+    },
+    {
         "id": "e2548628a2",
         "title_fa": "آیا پرونده حمله جدید به ج.ا در حال شکل‌گیری است؟",
         "title_en": "Is a New Case Being Built for Another Attack on Iran?",
@@ -5472,23 +5491,5 @@
         "clean_url": "https://www.iranintl.com/en/202610014158",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790809560.0
-    },
-    {
-        "id": "ec50560289",
-        "title_fa": "ناکامی خلبان در سقوط پرواز اسرائیل",
-        "title_en": "Passengers describe stopping pilot's alleged attempt to crash Israel-bound flight",
-        "summary": [
-            "مسافران پرواز به مقصد اراضی اشغالی موفق شدند اقدام مشکوک خلبان برای سقوط هواپیما را خنثی کنند.",
-            "جزئیات امنیتی این حادثه و انگیزه خلبان هنوز توسط مقامات هواپیمایی در دست بررسی است."
-        ],
-        "impact": "جلوگیری از یک فاجعه هوایی بزرگ با هوشیاری مسافران پرواز.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORldrUjRqbWZrOG1GN0hBLWZ1UmRuaFJNX1g4ZDVDUWZtcTc2d3NwVi1ZcFd0emRFeWI2NjZiT3VoRnBhR3YzdFRBLVRXLTRLOFAwUDFRYzhvNElMeXVUT0Rsd3VzaEZHSlVJc2RPRTBaeFUyeUQtbkFqYVBMNnNxRWxOSXMxOXZXV09zSm5DUXZFaGwzbkptRXVablJoQlNSaTVrUTItOTJ3YkNnTzNPdUVINA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORldrUjRqbWZrOG1GN0hBLWZ1UmRuaFJNX1g4ZDVDUWZtcTc2d3NwVi1ZcFd0emRFeWI2NjZiT3VoRnBhR3YzdFRBLVRXLTRLOFAwUDFRYzhvNElMeXVUT0Rsd3VzaEZHSlVJc2RPRTBaeFUyeUQtbkFqYVBMNnNxRWxOSXMxOXZXV09zSm5DUXZFaGwzbkptRXVablJoQlNSaTVrUTItOTJ3YkNnTzNPdUVINA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790808932.0
     }
 ]
