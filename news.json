@@ -814,6 +814,24 @@
         "timestamp": 1791021934.0
     },
     {
+        "id": "5a2624b5a6",
+        "title_fa": "نتایج قرعه‌کشی سوپرانالوتو ایتالیا",
+        "title_en": "Superenalotto, winning combination numbers today October 3",
+        "summary": [
+            "هیچ برنده‌ای برای جایزه بزرگ شش و پنج به علاوه یک در قرعه‌کشی ثبت نشد.",
+            "مبلغ جایزه بزرگ برای قرعه‌کشی بعدی به ۳۶ میلیون یورو افزایش یافت."
+        ],
+        "impact": "تغییر خاصی در بازارهای مالی ایجاد نمی‌کند و صرفاً یک رویداد سرگرمی است.",
+        "tag": "سرگرمی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261004KRONOS-202610121450322703_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1791021600.0
+    },
+    {
         "id": "5924aac714",
         "title_fa": "استراتژی جدید واشنگتن در قبال ایران روی میز",
         "title_en": "Secretary Rubio Discusses President’s Strategy in Iran",
@@ -5465,24 +5483,5 @@
         "clean_url": "https://www.msn.com/en-xl/asia/pakistan/iran-warns-uae-over-hosting-netanyahupublished-on-october-1-2026-1123-am/ar-AA2dkHmj",
         "image": "http://www.bing.com/th?id=ONUT.CBnPNrCpeDSYZnDiLlIPgg&pid=News",
         "timestamp": 1790830380.0
-    },
-    {
-        "id": "fc0af352b1",
-        "title_fa": "تهدید دوباره تـر‌امپ به حمله هوایی به ایـران",
-        "title_en": "ترامپ: ممکن است پس از انتخابات، حملات هوایی به ایران را از سر بگیریم",
-        "summary": [
-            "رئیس‌جمهور آمریکا احتمال حملات هوایی جدید پس از انتخابات را رد نکرد.",
-            "واشنگتن به دنبال توافق واقعی است و برنامه‌ای برای عقب‌نشینی از فشارها ندارد.",
-            "تأسیسات هسته‌ای هدف اصلی حملات پیشین بوده تا مانع بازگشت برنامه‌های اتمی شود."
-        ],
-        "impact": "سایه سنگین تهدیدات نظامی آمریکا بر بازار ارز و سرمایه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610012744",
-        "clean_url": "https://www.iranintl.com/202610012744",
-        "image": "http://www.bing.com/th?id=ONUT.ET5qIGWdrYVsa5dtOSiFHw&pid=News",
-        "timestamp": 1790829420.0
     }
 ]
