@@ -435,6 +435,25 @@
         "timestamp": 1790954880.0
     },
     {
+        "id": "81fd3b968e",
+        "title_fa": "آمریکا بهبالای سازوکار جدید برای کنترل تحریمهای ج.م.ا",
+        "title_en": "US pushes new mechanism to monitor sanctions against Iran — The National",
+        "summary": [
+            "آمریکا در سازمان ملل قصد دارد یک ساختار چندجانبه مستقل برای رصد اجرای تحریمها علیه ج.م.ا ایجاد کند.",
+            "این اقدام پس از وتوی قطعنامه تمدید مأموریت کارشناسان قبلی توسط روسیه و چین در شورای امنیت کلید خورده است.",
+            "واشنگتن تأکید کرده که کارشکنی مسکو و پکن مانع از راستی‌آزمایی نقض تحریم‌ها نخواهد شد."
+        ],
+        "impact": "بسته شدن راه دور زدن تحریم‌ها با ایجاد نظارت‌های موازی خارج از وتوی شورای امنیت.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "UA.NEWS",
+        "url": "https://ua.news/en/world/ssha-prosuvaiut-novii-mekhanizm-kontroliu-sanktsii-proti-iranu-the-national",
+        "clean_url": "https://ua.news/en/world/ssha-prosuvaiut-novii-mekhanizm-kontroliu-sanktsii-proti-iranu-the-national",
+        "image": "https://cdn-cabinet.ua.news/uploads/images/us_new_mechanism_monitor_iran_sanctions_1790944072773.webp",
+        "timestamp": 1790954820.0
+    },
+    {
         "id": "d2f65e6592",
         "title_fa": "خط و نشان حوثی‌ها برای پاکستان پس از محکومیت حملات",
         "title_en": "یک مقام حوثی به پاکستان: حق پاسخ به محکومیت حملات را محفوظ میدانیم",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://www.iranintl.com/202609303749",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790747460.0
-    },
-    {
-        "id": "e6576a5b49",
-        "title_fa": "تلفات سنگین شبه‌نظامیان حوثی در جبهه‌های یمن",
-        "title_en": "Yemen: Houthi Losses Near 3,000 in Four Days",
-        "summary": [
-            "نیروهای مسلح یمن از کشته و زخمی شدن نزدیک به ۳ هزار نیروی وابسته به سپاه طی چهار روز درگیری خبر دادند.",
-            "حملات گسترده هوایی و زمینی مراکز فرماندهی و انبارهای تسلیحاتی حوثی‌ها را هدف قرار داده است."
-        ],
-        "impact": "تضعیف شدید بازوی نیابی منطقه‌ای جمهوری اسلامی در پی حملات سنگین ائتلاف.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/arab-world/5324172-yemen-houthi-losses-near-3000-four-days",
-        "clean_url": "https://english.aawsat.com/arab-world/5324172-yemen-houthi-losses-near-3000-four-days",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1802092_0.jpeg.webp?VersionId=._aiWM66VXjTKfHHhVBN0dWX0Bwlq3HC",
-        "timestamp": 1790746260.0
     }
 ]
