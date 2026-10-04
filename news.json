@@ -128,6 +128,25 @@
         "timestamp": 1791074463.0
     },
     {
+        "id": "df09562755",
+        "title_fa": "آرایش تهاجمی سنگین آمریکا در منطقه و پاسخ معنادار ترامپ",
+        "title_en": "کامبیز توانا: فشار اقتصادی، دیپلماتیک و نظامی آمریکا بر جمهوری اسلامی در حال افزایش است",
+        "summary": [
+            "اعزام هم‌زمان ناو هواپیمابر روزولت، شناور مِیکِن آیلند و هزاران نظامی تازه‌نفس، از تغییر فاز واشینگتن به یک آرایش فعال تهاجمی حکایت دارد.",
+            "جمله معنادار دونالد ترامپ با عبارت «خواهید دید» در کنار گزارش‌ها پیرامون طرح‌های عملیات گسترده، احتمال آغاز سناریوی نظامی غیرمنتظره علیه ج.ا را به اوج رسانده است.",
+            "رویکرد تیم ترامپ تلفیق هم‌زمان فشار حداکثری اقتصادی با تهدید عینی تسلیحاتی است تا ابتکار عمل در میدان را کاملاً حفظ کند."
+        ],
+        "impact": "افزایش جدی ریسک درگیری مستقیم نظامی و جهش شدید انتظارات تورمی در بازارهای مالی و ارزی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610046608",
+        "clean_url": "https://www.iranintl.com/202610046608",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791069240.0
+    },
+    {
         "id": "bbc1a1b073",
         "title_fa": "جنجال مصرف بودجه دولتی برای تبلیغات شخصی ترامپ",
         "title_en": "Natalie Harp’s Role in Trump’s Propaganda Blitz Exposed",
@@ -5460,25 +5479,6 @@
         "source": "U.S. Department of the Treasury",
         "url": "https://home.treasury.gov/news/press-releases/sb0644/",
         "clean_url": "https://home.treasury.gov/news/press-releases/sb0644",
-        "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
-        "timestamp": 1790848800.0
-    },
-    {
-        "id": "36e725cdb1",
-        "title_fa": "تحریم‌های جدید آمریکا شریان‌های صنعتی ج-م-ه-و-ر-ی ا-س-لا-م-ی را نشانه گرفت",
-        "title_en": "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا در قالب عملیات جدیدی، صنایع کلیدی خودرو، راه‌آهن و فولاد وابسته به س-پ-ا-ه را تحریم کرد.",
-            "واشنگتن با این اقدام به دنبال قطع کامل درآمدهای باقی‌مانده‌ای است که حکومت برای تامین مالی نیابتی‌های خود از آن‌ها استفاده می‌کند.",
-            "فشار حداکثری اقتصادی هم‌زمان با مسدود شدن درآمدهای نفتی، اقتصاد حکومت را به آستانه فروپاشی رسانده است."
-        ],
-        "impact": "فلج شدن کامل بخش‌های صنعتی و تولیدی وابسته به حاکمیت و تشدید بحران ارزی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "U.S. Department of the Treasury",
-        "url": "https://home.treasury.gov/news/press-releases/sb0643/",
-        "clean_url": "https://home.treasury.gov/news/press-releases/sb0643",
         "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
         "timestamp": 1790848800.0
     }
