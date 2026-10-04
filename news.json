@@ -182,6 +182,24 @@
         "timestamp": 1791098734.0
     },
     {
+        "id": "a9b7553509",
+        "title_fa": "هشدار نتانیاهو درباره تبدیل تنگه هرمز به میدان جنگ",
+        "title_en": "نتانیاهو: فضای دریایی به میدان نبرد بین‌المللی تبدیل شده، این را در تنگه هرمز می‌بینیم",
+        "summary": [
+            "نخست‌وزیر اسرائیل تنگه هرمز و باب‌المندب را کانون درگیری‌های بین‌المللی دریایی خوانд.",
+            "تل‌آویو با ورود ششمین زیردریایی خود به دنبال تقویت توان رزمی در دریاست."
+        ],
+        "impact": "گسترش سایه جنگ به مسیرهای حیاتی انرژی و تجارت دریایی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/202610044674",
+        "clean_url": "https://www.iranintl.com/202610044674",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791098520.0
+    },
+    {
         "id": "efedd95e58",
         "title_fa": "پروازهای دبی؛ جبهه تازه تقابل اطلاعاتی تل‌آویو با تهران",
         "title_en": "How the Dubai flight became a front in the struggle against Iran",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.theguardian.com/us-news",
         "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
         "timestamp": 1790868840.0
-    },
-    {
-        "id": "acf3a14e5b",
-        "title_fa": "صفر شدن بارگیری نفت خام جـ.-هـ. در ماه سپتامبر",
-        "title_en": "اسکات بسنت، وزیر خزانه‌داری آمریکا: بارگیری نفت خام ایران در ماه سپتامبر به صفر رسید",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا اعلام کرد کارزار فشار حداکثری دولت دونالد ترامپ توانسته صادرات نفت ایران را به صفر برساند.",
-            "واشینگتن با اجرای عملیات طرد اقتصادی به دنبال خشکاندن منابع مالی حامی گروه‌های نیابتی منطقه است."
-        ],
-        "impact": "وارد آمدن ضربه مهلک مالی به ساختار اقتصادی حکومت و فلج شدن شریان اصلی درآمدی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610014947",
-        "clean_url": "https://www.iranintl.com/202610014947",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790868720.0
     }
 ]
