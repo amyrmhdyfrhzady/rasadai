@@ -728,6 +728,25 @@
         "timestamp": 1791092100.0
     },
     {
+        "id": "7bf73d6462",
+        "title_fa": "آموزش نظامی در خیابان‌های تهران؛ واهمه حاکمیت از جنگ",
+        "title_en": "Irán convierte plazas de Teherán en campos de entrenamiento militar para voluntarios",
+        "summary": [
+            "مقام‌های حكومت، میدانی از پایتخت را به پایگاه تمرین رزم برای نیروهای داوطلب تبدیل کرده‌اند.",
+            "برنامه‌ای موسوم به جانفدا برای آماده‌سازی جنگی با استفاده از تسلیحات سنگین اجرا می‌شود.",
+            "حكومت با این نمایش‌ها تلاش می‌کند جامعه را برای شرایط بحرانی آماده کند."
+        ],
+        "impact": "تنش‌آفرینی خیابانی و تلاش حكومت برای نمایش قدرت نظامی در داخل.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "El Comercio",
+        "url": "https://elcomercio.pe/mundo/oriente-medio/iran-convierte-plazas-de-teheran-en-campos-de-entrenamiento-militar-para-voluntarios-donald-trump-estados-unidos-ultimas-noticia/",
+        "clean_url": "https://elcomercio.pe/mundo/oriente-medio/iran-convierte-plazas-de-teheran-en-campos-de-entrenamiento-militar-para-voluntarios-donald-trump-estados-unidos-ultimas-noticia",
+        "image": "http://www.bing.com/th?id=ONUT.nC7Ku7pxavqLxo-ms6IqGg&pid=News",
+        "timestamp": 1791090540.0
+    },
+    {
         "id": "6caf6ae474",
         "title_fa": "اعتراف مجلس به ضعف و دودستگی در سفر نیویورک",
         "title_en": "Pezeshkian and Araghchi’s New York trip made Iran look weak and divided, MP says",
@@ -5456,23 +5475,5 @@
         "clean_url": "https://www.iranintl.com/en/202610016440",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790897580.0
-    },
-    {
-        "id": "6e49120dcc",
-        "title_fa": "بازداشت کارمند وزارت انرژی آمریکا به اتهام همکاری با انصارالله",
-        "title_en": "US Energy Department employee arrested over alleged support for Iran-backed Houthis",
-        "summary": [
-            "یک کارمند بخش انرژی آمریکا به جرم تلاش برای انتقال تجهیزات مخابراتی و پهپادی به گروه حوثی در یمن دستگیر شد.",
-            "این فرد با سوءاستفاده از گذرنامه دولتی خود از طریق عمان وارد مناطق تحت کنترل حوثی‌ها شده بود."
-        ],
-        "impact": "افزایش حساسیت‌های امنیتی در ایالات متحده پیرامون نفوذ عوامل وابسته به جمهوری اسلامی در نهادهای حساس.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610014094",
-        "clean_url": "https://www.iranintl.com/en/202610014094",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790895060.0
     }
 ]
