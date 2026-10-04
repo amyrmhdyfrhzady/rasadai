@@ -1,5 +1,23 @@
 [
     {
+        "id": "708c67c148",
+        "title_fa": "اعتراف مقام ارشد امنیتی به بحران اقتصادی در ایـران",
+        "title_en": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+        "summary": [
+            "مقام ارشد امنیتی جـمهوری اسـلامی نسبت به وضعیت وخیم اقتصادی هشدار داد.",
+            "شکست سیاست‌های اقتصادی و فشار تحریم‌ها سیستم داخلی را به نقطه بحرانی رسانده است."
+        ],
+        "impact": "فروپاشی بیشتر ارزش پول ملی و افزایش ناآرامی‌های معیشتی.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791122217.0
+    },
+    {
         "id": "3181cad14a",
         "title_fa": "پاسخ رد مجلس به پیشنهادهای واشنگتن",
         "title_en": "Iran rejects US proposals as ‘unilateral demands’: Ghalibaf",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://www.iranintl.com/en/202610011134",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790868480.0
-    },
-    {
-        "id": "fca11cd195",
-        "title_fa": "وتوی تحریم‌های ایران توسط مسکو و پکن در سازمان ملل",
-        "title_en": "Remarks at a UN General Assembly Meeting on Russia's and China's Use of Veto of a UN Security Council Resolution on Iran Sanctions",
-        "summary": [
-            "آمریکا اقدام روسیه و چین در وتوی قطعنامه تمدید ماموریت کارشناسان تحریم ایران را شدیداً محکوم کرد.",
-            "واشنگتن این اقدام را دهن‌کجی آشکار به منشور سازمان ملل و قطعنامه‌های شورای امنیت خواند."
-        ],
-        "impact": "تضعیف مکانیسم‌های نظارتی بین‌المللی بر برنامه‌های تحریمی جمهوری اسلامی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "United States Mission to the United Nations",
-        "url": "https://usun.usmission.gov/remarks-at-a-un-general-assembly-meeting-on-russias-and-chinas-use-of-veto-of-a-un-security-council-resolution-on-iran-sanctions/",
-        "clean_url": "https://usun.usmission.gov/remarks-at-a-un-general-assembly-meeting-on-russias-and-chinas-use-of-veto-of-a-un-security-council-resolution-on-iran-sanctions",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790868360.0
     }
 ]
