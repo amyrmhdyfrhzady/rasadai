@@ -217,6 +217,25 @@
         "timestamp": 1791115371.0
     },
     {
+        "id": "40bdb651ba",
+        "title_fa": "بازی دوگانه تهران و واشنگتن؛ از لغو تحریم تا جنگ نفت‌کش‌ها",
+        "title_en": "US Iran War Live Updates: Iran reshuffles oil ministry as US talks, Hormuz tensions continue",
+        "summary": [
+            "دونالد ترامپ آمادگی خود را برای بررسی لغو تحریم‌ها و آزادسازی پول‌های مسدود شده ایران در ازای پیشرفت ملموس در پرونده اتمی اعلام کرده است.",
+            "همزمان با این رایزنی‌های غیرمستقیم، اصابت یک شیء ناشناس به نفت‌کش تجاری در تنگه هرمز، ریسک امنیتی مسیرهای صادرات انرژی را دوباره بالا برد.",
+            "تهران در حال بررسی پاسخ مکتوب ایالات متحده است که از طریق واسطه‌های دیپلماتیک منتقل شده است."
+        ],
+        "impact": "تنش در تنگه هرمز و سیگنال‌های مثبت دیپلماتیک، بازار ارز و نفت را در حالت انتظار نگه داشته است.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "Indiatimes",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-strait-of-hormuz-trump-latest-news/liveblog/134679592.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-strait-of-hormuz-trump-latest-news/liveblog/134679592.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134679592,width-1280,height-720,imgsize-29560,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1791114180.0
+    },
+    {
         "id": "3519469be7",
         "title_fa": "بازتاب سایه جنگ هسته‌ای در تئاتر اسرائیل",
         "title_en": "A nuclear bomb is launched from Iran: Israeli musical faces the apocalypse",
@@ -5458,23 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclN5TVFKWVhqRjNsSlB6SkJ5NWRaRXBZREVMVzZheWtjSWxUVHc5d2RzakVrSnZsakRNczE5SWdxYkdFZnV1ek0zTkJmSzAxVGJ3bHFqdDh0LUdubTdldkkwT21ZRExtSkZYX3JfdmFtaDFRaFZCMmJCYXUybGZlZUZvLXowaFdVdC1xQ2pXb2ZYcjZYNEFEQlZwSEE4ejNVREMtRUh6emo4NnVORWk2RlU4dw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790878985.0
-    },
-    {
-        "id": "9b8393699f",
-        "title_fa": "تحریم‌های جدید آمریکا علیه راه‌آهن و صنعت خودروی ج-م-ه-و-ر-ی ا-س-لا-م-ی",
-        "title_en": "US sanctions Iranian railway, automotive sectors",
-        "summary": [
-            "ایالات متحده بخش‌های کلیدی حمل‌ونقل ریلی و خودروسازی ت-ه-ر-ا-ن را هدف تحریم‌های جدید قرار داد.",
-            "این اقدام در راستای مسدود کردن مسیرهای درآمدی و فشار اقتصادی حداکثری بر ساختار حاکم اجرا شده است."
-        ],
-        "impact": "فلج‌تر شدن بخش لجستیک و تشدید بحران در صنایع وابسته به درآمد دولتی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnbUdVQmxoR3V0ZTl6WTVqTFg1d2xKcEZSdG9wWFVFd08weTBrRGNKWDZZb0Q0V2FCLTZiaWNNdWZ6SW8tNWZBaGFsVGwxZkplaTVqalpwT0RXR3BCYUFDU2ZFMnBnYXpnbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnbUdVQmxoR3V0ZTl6WTVqTFg1d2xKcEZSdG9wWFVFd08weTBrRGNKWDZZb0Q0V2FCLTZiaWNNdWZ6SW8tNWZBaGFsVGwxZkplaTVqalpwT0RXR3BCYUFDU2ZFMnBnYXpnbHc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790877938.0
     }
 ]
