@@ -146,6 +146,25 @@
         "timestamp": 1791079208.0
     },
     {
+        "id": "032408d271",
+        "title_fa": "شلیک به شاهرگ انرژی؛ حمله به نفتکش در تنگه هرمز",
+        "title_en": "مرکز عملیات تجارت دریایی بریتانیا از حمله به یک کشتی در تنگه هرمز خبر داد",
+        "summary": [
+            "اصابت پرتابه‌های ناشناس به موتورخانه یک نفتکش در تنگه هرمز، امنیت دریانوردی بین‌المللی را وارد فاز بحرانی جدیدی کرد.",
+            "این عملیات خرابکارانه درست در اوج تنش‌های نظامی منطقه، انگشت اتهام را به سمت بازوهای نیابتی ج.ا. نشانه می‌رود.",
+            "هدف قرار دادن مستقیم بخش پیشران کشتی، تاکتیکی برای زمین‌گیر کردن کامل شناور و تحمیل هزینه‌های سنگین بیمه‌ای به ناوگان غربی است."
+        ],
+        "impact": "جهش ناگهانی قیمت نفت و افزایش بی‌سابقه هزینه بیمه کشتی‌های تجاری در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610040354",
+        "clean_url": "https://www.iranintl.com/202610040354",
+        "image": "http://www.bing.com/th?id=ONUT.Em-4L-VEuMzQWvn2FKkm3g&pid=News",
+        "timestamp": 1791075000.0
+    },
+    {
         "id": "f2dc33c13f",
         "title_fa": "رهگیری و برخورد سـ.ـپاه با ۷ نفتکش در تنگه هرمز",
         "title_en": "Iran's IRGC hits 7 'violating' tankers in Strait of Hormuz in 5 days",
@@ -5462,24 +5481,5 @@
         "clean_url": "https://www.iranintl.com/202610016656",
         "image": "http://www.bing.com/th?id=ONUT.RbUM1j6YzDhHu6DwoWxhUg&pid=News",
         "timestamp": 1790852460.0
-    },
-    {
-        "id": "3ac08bce10",
-        "title_fa": "تحریم سایپا، ایران‌خودرو و شبکه بانکی توسط آمریکا همزمان با ادعای قاآنی",
-        "title_en": "US-Iran War LIVE Updates: US Sanctions Iran’s Iran Khodro, SAIPA And Russia Linked A7 Shadow Bank Network",
-        "summary": [
-            "واشنگتن با تحریم ایران‌خودرو، سایپا و شبکه بانکی سایه A7 مرتبط با روسیه، شریان‌های باقی‌مانده ارزآوری صنعت و دور زدن تحریم‌ها را هدف گرفت.",
-            "در شرایطی که پنتاگون از آسیب سنگین به توان نظامی ج‌ا می‌گوید، اسماعیل قاآنی فرمانده نیروی قدس با ادعای «وضعیت تحقیرآمیز آمریکا» دست به مانور تبلیغاتی زده است.",
-            "همزمان با تبادل پیام‌ها درباره تنگه هرمز، دونالد ترامپ دو گزینه پیش روی واشنگتن را توافق یا ضربه نظامی عنوان کرده است."
-        ],
-        "impact": "انسداد مجاری دور زدن تحریم‌ها و فلج شدن خودروسازی، فشار مالی بر ج‌ا را وارد فاز حادتر می‌کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-war-live-updates-trump-hints-us-could-strike-iran-israel-iran-today-latest-conflict-strait-of-hormuz-tensions-and-middle-east-news-liveblog-156257889",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-war-live-updates-trump-hints-us-could-strike-iran-israel-iran-today-latest-conflict-strait-of-hormuz-tensions-and-middle-east-news-liveblog-156257889",
-        "image": "https://images.timesnownews.com/thumb/msid-156257889,thumbsize-855993,width-1280,height-720,resizemode-75/156257889.jpg",
-        "timestamp": 1790852220.0
     }
 ]
