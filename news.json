@@ -1,5 +1,24 @@
 [
     {
+        "id": "61989a53fa",
+        "title_fa": "بحران بی‌ثباتی در خاورمیانه و فروپاشی نظم امنیتی سنتی",
+        "title_en": "How Can the Mashriq Overcome Its Escalating Security Disorder?",
+        "summary": [
+            "منطقه مشرق با عمیق‌ترین گسست امنیتی و ضعف حاکمیت مرکزی در چند دهه اخیر روبه‌رو شده است.",
+            "تداوم نفوذ گروه‌های نیابتی و مداخله قدرت‌های خارجی، مانع اصلی شکل‌گیری هرگونه توافق امنیتی بومی است.",
+            "بدون بازسازی ساختار اقتصادی و سیاسی دولت‌ها، مهار بحران‌های زنجیره‌ای منطقه‌ای ناممکن خواهد بود."
+        ],
+        "impact": "تداوم بی‌ثباتی ساختاری و افزایش ریسک درگیری‌های منطقه‌ای غیرقابل کنترل.",
+        "tag": "امنیت منطقه",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Al Jazeera Centre for Studies",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5oSzlSdE9aLXcyUHNrT245Y2ZUOU1uOGdQUFl0eks1UERheko2MlYtWk5YeVphZVNidEt1d1N6cmRUNElFTC1JMmxlazBHazNxNnFCb3pfVWNNUi1zeHRWV0NUQ3FUR2tBa0lrOXBfSy1kZzNzVE0yQzVsWFRJeHpaM05vYURUSGFlNUUzeXZtTFJEXzdPeVp4d19kbmItYjh3TDFrcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5oSzlSdE9aLXcyUHNrT245Y2ZUOU1uOGdQUFl0eks1UERheko2MlYtWk5YeVphZVNidEt1d1N6cmRUNElFTC1JMmxlazBHazNxNnFCb3pfVWNNUi1zeHRWV0NUQ3FUR2tBa0lrOXBfSy1kZzNzVE0yQzVsWFRJeHpaM05vYURUSGFlNUUzeXZtTFJEXzdPeVp4d19kbmItYjh3TDFrcw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791098734.0
+    },
+    {
         "id": "efedd95e58",
         "title_fa": "پروازهای دبی؛ جبهه تازه تقابل اطلاعاتی تل‌آویو با تهران",
         "title_en": "How the Dubai flight became a front in the struggle against Iran",
@@ -5462,24 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEp0ZG5CRHdCNEZoUlFCM1VYeXFvbkh1cWptbVBHd3BjU1NJb0VuWWpSNVRKYUNoWEp1VS1xaXhWVnJBdEdBOW5DT0xObFZ3NGlpUWREV01pVGFlY3kwUWk5bTJaenNzRFUtMDRHM2h3cURXQ29YTUdtNDRSOTd4Z3hWUDVCV2Y0UkRrWnY2N2FILWRfRlFwSEFfQ3M",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790848987.0
-    },
-    {
-        "id": "a3fe11844c",
-        "title_fa": "ضربه سنگین آمریکا به شبکه مالی پنهان ای…ران و روس…یه",
-        "title_en": "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا شبکه بانکی پهای A7 را به دلیل دور زدن تحریم‌ها هدف تحریم‌های بی‌سابقه قرار داد.",
-            "این شبکه به عنوان پل ارتباطی مالی میان مسکو و تهران عمل می‌کرد و سرمایه‌های غیرقانونی را جابه‌جا می‌ساخت.",
-            "اقدامات جدید FinCEN و OFAC به دنبال مسدود کردن کامل دسترسی این عوامل به سیستم مالی جهانی است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره مالی و قطع مسیرهای تنفس ارزی ح…کوم…ت",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "U.S. Department of the Treasury",
-        "url": "https://home.treasury.gov/news/press-releases/sb0644/",
-        "clean_url": "https://home.treasury.gov/news/press-releases/sb0644",
-        "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
-        "timestamp": 1790848800.0
     }
 ]
