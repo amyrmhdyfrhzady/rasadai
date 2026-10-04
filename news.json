@@ -491,6 +491,24 @@
         "timestamp": 1791095625.0
     },
     {
+        "id": "7786f35da6",
+        "title_fa": "تهدید نمایندگان مجلس به بستن شاهراه‌های نفتی منطقه",
+        "title_en": "Iran MP threatens regional oil exports if Tehran's shipments stop",
+        "summary": [
+            "یکی از اعضای کمیسیون انرژی مجلس تهدید کرد اگر فروش نفت ایران صفر شود، اجازه صادرات انرژی به دیگر کشورهای منطقه را نخواهند داد.",
+            "تهران رویای رساندن قیمت نفت به بالای ۱۱۰ دلار را با ایجاد بحران در مسیرهای انتقال انرژی دنبال می‌کند."
+        ],
+        "impact": "آزمون خطای جدی برای امنیت کشتیرانی خلیج فارس و جهش فوری قیمت انرژی در بازارهای جهانی.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610042842",
+        "clean_url": "https://www.iranintl.com/en/202610042842",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791094920.0
+    },
+    {
         "id": "7b86d1c448",
         "title_fa": "افزایش برد موشکی و شرط‌گذاری تهران برای تنگه هرمز",
         "title_en": "Iran is increasing its missile range as conflict with US, Israel drags on",
@@ -5457,23 +5475,5 @@
         "clean_url": "https://en.yenisafak.com/world/egypt-expels-ethiopian-diplomat-in-retaliation-3724010",
         "image": "https://img.piri.net/piri/upload/3/2026/10/2/0c02d666-egypt-expels-ethiopian-envoy-in-tit-for-tat-move.webp",
         "timestamp": 1790885640.0
-    },
-    {
-        "id": "5494aba6f2",
-        "title_fa": "ادعای ترامپ درباره ارتباط خلبان فلای‌دبی با ایران",
-        "title_en": "Trump suggests FlyDubai co-pilot is linked to Iran, \"based on what I'm hearing\"",
-        "summary": [
-            "ترامپ در اظهاراتی تازه مدعی شد اطلاعاتی درباره وابستگی یکی از کادر پروازی شرکت فلای‌دبی به ایـران دریافت کرده است.",
-            "این ادعا می‌تواند ابعاد امنیتی تازه‌ای به پرونده‌های نظارتی پروازهای منطقه اضافه کند."
-        ],
-        "impact": "افزایش فشارهای اطلاعاتی و امنیتی بر خطوط هوایی مرتبط با منطقه.",
-        "tag": "امنیتی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWNJMGVvX0w0VW1VZ3F6cUptUThlRk8yaHc1dWd4UGp5VXlhSXI0d056UWhielkyeXJaa2plTnZ5UnRfY1FpQUMtZEtpXzJreWFpRnR0VllqV0wyYXl6ZWlRLXR1Ql8wMkNxSHEzWjQ4U3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWNJMGVvX0w0VW1VZ3F6cUptUThlRk8yaHc1dWd4UGp5VXlhSXI0d056UWhielkyeXJaa2plTnZ5UnRfY1FpQUMtZEtpXzJreWFpRnR0VllqV0wyYXl6ZWlRLXR1Ql8wMkNxSHEzWjQ4U3M",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790885078.0
     }
 ]
