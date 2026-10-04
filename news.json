@@ -454,6 +454,24 @@
         "timestamp": 1791107360.0
     },
     {
+        "id": "bd2eb449e7",
+        "title_fa": "خط و نشان وزیر خارجه ج.ا برای اقدام نظامی",
+        "title_en": "Araghchi warns Iran's response to renewed military action would be stronger",
+        "summary": [
+            "عباس عراقچی در دیدار با سفرا مدعی شد پاسخ تهرآن به هرگونه اقدام نظامی بسیار قوی‌تر خواهد بود.",
+            "دستگاه دیپلماسی ج.ا همزمان با تهدید نظامی، ادعای آمادگی برای دیپلماسی و طرح امنیت تنگه هرمز را مطرح کرد."
+        ],
+        "impact": "تلاش برای بازدارندگی لفظی در سایه هراس از تقابل نظامی مستقیم",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610040840",
+        "clean_url": "https://www.iranintl.com/en/202610040840",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/618da73aeb249096c7fef924b26b2da52cb46cc8-1150x767.jpg?rect=264,32,722,722&w=200&h=200&q=58&fit=crop&auto=format",
+        "timestamp": 1791104760.0
+    },
+    {
         "id": "62ec2737ff",
         "title_fa": "واکنش وزارت خارجه به پیشنهادهای هسته‌ای آمریكا",
         "title_en": "Baghaei: US Proposals are in Line with Previous Positions on Nuclear Issue",
@@ -5455,24 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGhqVWNmSzVPQ1dFdmJBckZ3M2JyeHBKaktDVnVZbFRfVldyV2JhQkdFSTVWWFJkZG53WEYyUGtyNUtVV3dtM1JSeVR0R2NVd0t4N29Oa0pwZzh1YklZTXZZWGplM0hXTThvNmQtRm9SVFF4YWNTRG84LWpDbGxOaVJTWkRQeW5wM2dwanB3",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790894162.0
-    },
-    {
-        "id": "86234864d3",
-        "title_fa": "آماده‌باش نظامی در منطقه؛ اعزام نا هواپیمابر سوم آمریکا",
-        "title_en": "Live Updates: Yemen claims 20 strikes carried out on Houthis, as Saudi-led coalition says it intercepted missile",
-        "summary": [
-            "ارتش آمریکا سومین ناو هواپیمابر خود را راهی خاورمیانه کرد تا پیام محکمی به ت‌ج‌ر‌م‌ک‌ن‌ان بدهد.",
-            "منابع امنیتی از اصابت یک شیء ناشناس به نفتکش در تنگه هرمز خبر دادند.",
-            "مقام‌های نظامی اسرائیل هشدار دادند که فضای مانور حکومت ایران زیر فشار تحریم‌ها بسیار محدود شده است."
-        ],
-        "impact": "افزایش شدید ریسک امنیت دریایی در خلیج فارس و تنگه هرمز",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-02/live-updates-910393",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-02/live-updates-910393",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740203",
-        "timestamp": 1790893920.0
     }
 ]
