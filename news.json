@@ -1,5 +1,23 @@
 [
     {
+        "id": "e024543009",
+        "title_fa": "ادعای توهمی مقام ارشد س-پ-ا-ه درباره فرار ناوهواپیمابر آمریکا",
+        "title_en": "IRGC commander claims US warships have withdrawn from region",
+        "summary": [
+            "علی فدوی مدعی شده که هیچ شناور نظامی آمریکایی در خلیج فارس و دریای عمان حضور ندارد.",
+            "این اظهارات مصرف داخلی داشته و تلاشی برای سرپوش گذاشتن بر آسیب‌پذیری‌های نظامی است."
+        ],
+        "impact": "تلاش برای مانور تبلیغاتی و جنگ روانی به پشتوانه تریبون‌های حکومتی.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610043985",
+        "clean_url": "https://www.iranintl.com/en/202610043985",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791146580.0
+    },
+    {
         "id": "a2ef5b10f3",
         "title_fa": "آغاز عملیات ارتش یمن برای پس‌گیری مناطق تحت کنترل حوثی‌ها",
         "title_en": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
@@ -5456,24 +5474,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1JEUjNsbnRKZ2tUX1RIcDczNFdTQWp6aENMM2JaLTk2WXMtbkllazZFZHg1RjhCUmJiRk9pbllEOFBJa21tYVk0cEpBY0RGM0ZieGRlcUxoaG85cmN2V2NQaDl4bnRsb19EWGY5MkZERTBpcE5aVzNmMVdyX3JyS3RLMWNCREI3UnFOOGlva3pFZXdjNTIzUlJVWnZyMENBNGpFXzBDX2p3NEkwN2c4",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790886180.0
-    },
-    {
-        "id": "ab6c40bbc0",
-        "title_fa": "اخراج متقابل دیپلمات‌ها؛ بالا گرفتن جنگ دیپلماتیک مصر و اتیوپی",
-        "title_en": "Egypt expels Ethiopian envoy in tit-for-tat move",
-        "summary": [
-            "مصر در اقدامی تلافی‌جویانه، دیپلمات ارشد اتیوپی را عنصر نامطلوب خواند و ۴۸ ساعت برای خروج از قاهره به او مهلت داد.",
-            "این تصمیم مستقیم در پاسخ به اخراج پیشین دیپلمات مصری از آدیس‌آبابا رخ داد و نشان‌دهنده تعمیق شکاف سیاسی میان دو کشور است.",
-            "تنش‌ها سر منابع آبی رود نیل و سد النهضه وارد مرحله خطیر صف‌آرایی دیپلماتیک شده است."
-        ],
-        "impact": "بن‌بست کامل در مذاکرات تقسیم آب نیل و افزایش احتمال تحرکات نیابتی در شاخ آفریقا.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "en.yenisafak",
-        "url": "https://en.yenisafak.com/world/egypt-expels-ethiopian-diplomat-in-retaliation-3724010",
-        "clean_url": "https://en.yenisafak.com/world/egypt-expels-ethiopian-diplomat-in-retaliation-3724010",
-        "image": "https://img.piri.net/piri/upload/3/2026/10/2/0c02d666-egypt-expels-ethiopian-envoy-in-tit-for-tat-move.webp",
-        "timestamp": 1790885640.0
     }
 ]
