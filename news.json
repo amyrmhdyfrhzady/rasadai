@@ -235,6 +235,24 @@
         "timestamp": 1791113280.0
     },
     {
+        "id": "54003548c5",
+        "title_fa": "عزل یا استعفا؛ وزارت نفت بدون وزیر ماند",
+        "title_en": "پزشکیان استعفای پاک‌نژاد را پذیرفت، حمید بورد سرپرست وزارت نفت شد",
+        "summary": [
+            "مسعود پزشکیان استعفای محسن پاکنژاد را پذیرفت و حمید بورد را به عنوان سرپرست وزارت نفت منصوب کرد.",
+            "با این تغییر، تعداد وزارتخانه‌هایی که در دولت با سرپرست اداره می‌شوند به سه وزارتخانه رسید."
+        ],
+        "impact": "این جابجایی مدیریتی نشان‌دهنده ناپایداری تیم اقتصادی دولت و ناتوانی در مهار بحران‌های انرژی است.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610040502",
+        "clean_url": "https://www.iranintl.com/202610040502",
+        "image": "http://www.bing.com/th?id=ONUT.aq5Ao675Ka3JoTvfzVZPsQ&pid=News",
+        "timestamp": 1791112980.0
+    },
+    {
         "id": "8162310374",
         "title_fa": "واکنش تهران به پیشنهاد جدید واشنگتن",
         "title_en": "US proposal similar to past ones, Iran spokesperson says",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnbUdVQmxoR3V0ZTl6WTVqTFg1d2xKcEZSdG9wWFVFd08weTBrRGNKWDZZb0Q0V2FCLTZiaWNNdWZ6SW8tNWZBaGFsVGwxZkplaTVqalpwT0RXR3BCYUFDU2ZFMnBnYXpnbHc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790877938.0
-    },
-    {
-        "id": "9608fb4d2f",
-        "title_fa": "تلاش آمریکا برای ایجاد مکانیسم تازه نظارت بر تـحـر یـم‌ های تـهـر ا ن",
-        "title_en": "US pushes for new UN multilateral body to monitor Iran sanctions",
-        "summary": [
-            "واشنگتن به دنبال تشکیل یک ساختار چندجانبه جدید در سازمان ملل برای کنترل دقیق‌تر تحریم‌هاست.",
-            "این اقدام پس از اختلاف‌نظر شدید بر سر قانونی بودن یا انقضای قطعنامه‌های قبلی علیه حـکـومـت شکل گرفته است."
-        ],
-        "impact": "بسته شدن راه‌های فرار از تحریم‌ها و افزایش فشارهای اقتصادی بر دستگاه حاکمه.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The National",
-        "url": "https://www.msn.com/en-ae/news/world/us-pushes-for-new-un-multilateral-body-to-monitor-iran-sanctions/ar-AA2dmufa",
-        "clean_url": "https://www.msn.com/en-ae/news/world/us-pushes-for-new-un-multilateral-body-to-monitor-iran-sanctions/ar-AA2dmufa",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dmGAn.img?w=4206&h=2804&m=4&q=80",
-        "timestamp": 1790877755.0
     }
 ]
