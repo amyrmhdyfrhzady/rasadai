@@ -1,5 +1,23 @@
 [
     {
+        "id": "7ca08911ab",
+        "title_fa": "ارتباط توافق ابراهیم و رویدادهای هفت اکتبر",
+        "title_en": "Transcript: Brett McGurk on \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
+        "summary": [
+            "برت مک‌گورک، مشاور ارشد خاورمیانه‌ای سابق، در مصاحبه‌ای به پشت صحنه توافق عادی‌سازی روابط عربستان و اسرائیل پرداخته است.",
+            "او معتقد است زمان‌بندی حمله هفت اکتبر بی‌ارتباط با روند شکل‌گیری توافق صلح و امتیازات هسته‌ای غیرنظامی به ریاض نبوده است."
+        ],
+        "impact": "آشکار شدن ابعاد جدیدی از پازل امنیتی خاورمیانه در آستانه تغییرات کلان منطقه‌ای.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026/",
+        "clean_url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026",
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/04/ada6c8f6-a62e-4920-b3b7-bc5d70835fbd/thumbnail/1200x630/8c6eab35ec35e2f4af418df3bb448419/1791126788543.png",
+        "timestamp": 1791126960.0
+    },
+    {
         "id": "708c67c148",
         "title_fa": "اعتراف مقام ارشد امنیتی به بحران اقتصادی در ایـران",
         "title_en": "Iran’s Top Security Official Warns of Dire Economic Crisis",
@@ -5458,24 +5476,5 @@
         "clean_url": "https://www.iranintl.com/en/202610011828",
         "image": "http://www.bing.com/th?id=ONUT.-ASadEyD9wcPTjjMNdiR-A&pid=News",
         "timestamp": 1790869860.0
-    },
-    {
-        "id": "d5462ce1d5",
-        "title_fa": "خروج نظامی آمریکا از عراق و خطر جنگ نیابتی",
-        "title_en": "America Exits Iraq, The Third Time",
-        "summary": [
-            "واشنگتن ماموریت ۱۲ ساله خود در عراق را پایان داد و نیروهای آمریکایی رسماً خارج شدند.",
-            "گروه‌های مجهز وابسته به طهران پس از این خروج، فضای عمل بیشتری برای تحرکات نظامی پیدا کرده‌اند.",
-            "خلاء قدرت در عراق می‌تواند این کشور را به کانون درگیری مستقیم میان آمریکا، اسـراییل و جـمـهوری اسـلـامی تبدیل کند."
-        ],
-        "impact": "افزایش ریسک امنیتی و تقویت شبه‌نظامیان نیابتی در مرزهای غربی ایران.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Free Press Journal",
-        "url": "https://www.freepressjournal.in/analysis/america-exits-iraq-the-third-time",
-        "clean_url": "https://www.freepressjournal.in/analysis/america-exits-iraq-the-third-time",
-        "image": "https://media.assettype.com/freepressjournal/2026-10-01/m858dye6/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-10-01T211401.143.jpg",
-        "timestamp": 1790869500.0
     }
 ]
