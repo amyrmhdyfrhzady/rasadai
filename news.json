@@ -1,5 +1,24 @@
 [
     {
+        "id": "bbc165d07e",
+        "title_fa": "تثبیت سقف تولید اوپک‌پلاس همزمان با نفت بالای ۱۰۰ دلار",
+        "title_en": "OPEC+ keeps November oil output targets steady amid Iran war",
+        "summary": [
+            "هفت کشور اصلی اوپک‌پلاس تصمیم گرفتند سقف تولید نوامبر را دست‌نخورده نگه دارند؛ انتخابی که نفت بالای ۱۰۰ دلار را در بازار تثبیت می‌کند.",
+            "صادرات نفت در خلیج‌فارس به دلیل تنش‌های نظامی بین ۶۰ تا ۸۰ درصد سطح معمول افت کرده و این کشورها توان پر کردن سریع خلاء بازار را ندارند.",
+            "آزادسازی ۱۰۰ میلیون بشکه از ذخایر استراتژیک توسط گروه هفت تنها یک مُسکن موقت در برابر شوک عمیق اختلال صادرات منطقه‌ای است."
+        ],
+        "impact": "تداوم بحران ترانزیت نفت و عدم افزایش عرضه اوپک‌پلاس، نرخ بالای انرژی و بنزین را در بازارهای جهانی قفل خواهد کرد.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610045821",
+        "clean_url": "https://www.iranintl.com/en/202610045821",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791155340.0
+    },
+    {
         "id": "2f344358d0",
         "title_fa": "Live Updates: Yemen launches counteroffensive against Houthis, flydubai hijacker's motives under investigation",
         "title_en": "Live Updates: Yemen launches counteroffensive against Houthis, flydubai hijacker's motives under investigation",
@@ -5457,23 +5476,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORWVSSzczcnZrM3lIOU9JZXdadGhmdmhlVEVkR0k4cjVuX2I3TEtPMUlodkZxcGZ5N2NFS0ZPQkpfWU9Rb1N5NnFvNDhfbTFzSUg2LWZydXFGNEJLaTh5RHdvQWFpU2hOMVpQaDlNb1FFVnRlNjNvcmJMMHNYMzRwNmJ1eXBmSDJHQk11aFVsS3AxQXRTTkF6UU04dHhfcmNPbFAyMjR2V0NnbTVfU3BDRHFUcFVjMXhZejNWbG9CT2RraFQ0VGpaNEVR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790898406.0
-    },
-    {
-        "id": "a37bcac252",
-        "title_fa": "هدف قرار گرفتن سه نفتکش مرتبط با امارات در تنگه هرمز",
-        "title_en": "Iran authority says three UAE-linked tankers hit in Hormuz were on blacklist",
-        "summary": [
-            "مقام‌های دریایی از حمله به سه فروند نفتکش مرتبط با امارات متحده عربی در آب‌های تنگه هرمز خبر دادند.",
-            "این شناورها پیش‌تر در لیست سیاه نظارتی ایران قرار گرفته بودند و رسانه‌های رسمی این رویداد را تأیید کردند."
-        ],
-        "impact": "بالارفتن ریسک تردد دریایی و ناامنی شدید در یکی از حیاتی‌ترین شاهراه‌های انرژی جهان.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610016440",
-        "clean_url": "https://www.iranintl.com/en/202610016440",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790897580.0
     }
 ]
