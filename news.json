@@ -1,5 +1,23 @@
 [
     {
+        "id": "e32a121a11",
+        "title_fa": "چشم‌انداز مثبت اقتصاد رومانی در آغاز سال جدید",
+        "title_en": "01 Ianuarie 2026",
+        "summary": [
+            "وزیر دارایی رومانی از بهبود شرایط مالی و اقتصادی کشور در سال ۲۰۲۶ خبر داد.",
+            "این پیام خوش‌بینانه با هدف آرامش‌بخشی به بازارهای مالی و سرمایه‌گذاران منتشر شده است."
+        ],
+        "impact": "تقویت ثبات اقتصادی و افزایش اعتماد سرمایه‌گذاران در بازار رومانی.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.8,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/multi-stulti-cotidie-cadere-videntur-pag247",
+        "clean_url": "https://ziare.com/cautare/multi-stulti-cotidie-cadere-videntur-pag247",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791220275.9463637
+    },
+    {
         "id": "fd5562be56",
         "title_fa": "بازی دوگانه تشدید تنش و دیپلماسی میان واشنگتن و تهران",
         "title_en": "Escalation And Diplomacy In The U.S.-Iran War",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790951940.0
-    },
-    {
-        "id": "4b70ee8cc6",
-        "title_fa": "اقتصاد ایران در آستانه فروپاشی کامل",
-        "title_en": "Iran’s Economy at Breaking Point: Inflation, Falling Incomes and a Crisis That Reaches into Every Home - National Council of Resistance of Iran",
-        "summary": [
-            "تورم سرسام‌آور و سقوط آزاد درآمدها، معیشت خانواده‌های ایرانی را به نقطه بحرانی رسانده است.",
-            "بحران اقتصادی کنونی تمام لایه‌های جامعه را درگیر کرده و سفره‌ها را کوچک‌تر کرده است."
-        ],
-        "impact": "گسترش نارضایتی‌های عمومی و تشدید شرایط انفجاری در جامعه به دلیل ناکارآمدی ساختاری.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFZ4S2hpM2VZaFF3NzFpa1BHTTJTSVFKZDJFN3dtOUFFTUxDeVFmeXg3Vm93aXdGbnZpSU1hc05qNUh5Um9Seml1YVlpMFFzMW5xMElNdGFrSHFVRUMyQnowOTF3NEVFM3ZwN0xiSVBIWnV2ajlCWXBwUnhuZjZHRDBvZzhWMk1wNWF6UzdsX0lwU2Z3dzg2WXQ4LVM0SEpfdWdjTFdFZGcxSEllTWNzT0ZSc0dMNlRuVG1pMzA2UGJDX2JNQ0ZBSnhkV0Z6Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFZ4S2hpM2VZaFF3NzFpa1BHTTJTSVFKZDJFN3dtOUFFTUxDeVFmeXg3Vm93aXdGbnZpSU1hc05qNUh5Um9Seml1YVlpMFFzMW5xMElNdGFrSHFVRUMyQnowOTF3NEVFM3ZwN0xiSVBIWnV2ajlCWXBwUnhuZjZHRDBvZzhWMk1wNWF6UzdsX0lwU2Z3dzg2WXQ4LVM0SEpfdWdjTFdFZGcxSEllTWNzT0ZSc0dMNlRuVG1pMzA2UGJDX2JNQ0ZBSnhkV0Z6Zw",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790951547.0
     }
 ]
