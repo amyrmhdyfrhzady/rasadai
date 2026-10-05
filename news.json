@@ -1,5 +1,24 @@
 [
     {
+        "id": "5f13927a3e",
+        "title_fa": "تهدید آمریکا به تحریم ناگهانی بانک‌های خارجی همکار با تهران",
+        "title_en": "US says foreign financial institutions doing business with Iran may be sanctioned without notice",
+        "summary": [
+            "آمریکا به تمام موسسات مالی خارجی درباره همکاری تجاری با تـروریسم دولتی ایران هشدار جدی داد.",
+            "هرگونه تراکنش مالی با ایران می‌تواند بدون اخطار قبلی مشمول شدیدترین تحریم‌های مالی شود.",
+            "این اقدام حلقه محاصره اقتصادی علیه نظام را تنگ‌تر و مسیرهای تنفس ارزی را مسدود می‌کند."
+        ],
+        "impact": "بسته‌شدن کامل دسترسی بانک‌های خارجی به بازار دلار و فلج‌شدن مراودات مالی باقی‌مانده.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Hilton Head Island Packet",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZWRXSHRWU1NYcms5ZTBuczVYMVUtQ3ZsZEZwZ1hQVkdCQjZVQWJ5X0MtNnd3WXNDQzFFRE1wVlJ2aG1SRjBMdDFVZXNGT3U3S0FqR3R1a3RFa0I1OFdvQmkzT2hLWW9yYWtKVkY3SXk3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZWRXSHRWU1NYcms5ZTBuczVYMVUtQ3ZsZEZwZ1hQVkdCQjZVQWJ5X0MtNnd3WXNDQzFFRE1wVlJ2aG1SRjBMdDFVZXNGT3U3S0FqR3R1a3RFa0I1OFdvQmkzT2hLWW9yYWtKVkY3SXk3Zw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791233407.0
+    },
+    {
         "id": "b4534e824e",
         "title_fa": "سرکوب پلیس امنیت اقتصادی؛ تلاش نافرجام برای کنترل قیمت ارز",
         "title_en": "Economic Police Crack Down on Currency Rate Reporting in Iran",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/judge-bars-building-of-texas-mexico-border-barrier-in-big-bend-national-park/ar-AA2dsfKY",
         "image": "http://www.bing.com/th?id=ONUT._RerDyLgH9wHI_En9dgxgg&pid=News",
         "timestamp": 1790964318.0
-    },
-    {
-        "id": "e0cd2c48b7",
-        "title_fa": "ادعای جنجالی ترامپ درباره تاسیسات اتمی ای.ران",
-        "title_en": "Trump labels bombed Iran nuclear sites 'drug factories' without offering evidence",
-        "summary": [
-            "دونالد ترامپ در یک تجمع عمومی، تاسیسات هسته‌ای هدف قرار گرفته در عملیات اخیر را کارگاه‌های تولید مواد مخدر خواند.",
-            "پنتاگون پیش‌تر این مراکز یعنی فردو، نطنز و اصفهان را به عنوان تاسیسات اتمی معرفی کرده بود اما ترامپ مدرکی برای ادعای جدید خود ارائه نکرد."
-        ],
-        "impact": "این اظهارات فاز جنگ روانی علیه ح.ک.و.م.ت را وارد مرحله تازه‌ای از بی‌اعتبارسازی کرده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-labels-bombed-iran-nuclear-sites-drug-factories-without-offering-evidence/ar-AA2drkVY",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-labels-bombed-iran-nuclear-sites-drug-factories-without-offering-evidence/ar-AA2drkVY",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2drxkm.img?w=883&h=500&m=4&q=100",
-        "timestamp": 1790964000.0
     }
 ]
