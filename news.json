@@ -640,6 +640,25 @@
         "timestamp": 1791178512.0
     },
     {
+        "id": "9a927afab5",
+        "title_fa": "اعدام دو معترض دیگر در اصفهان؛ ماشین سرکوب همچنان می‌تازد",
+        "title_en": "Two more January protesters executed in Iran",
+        "summary": [
+            "حکومت دو بازداشتی دیگر اعتراضات دی‌ماه را در زندان دستگرد اصفهان دار زد تا تعداد اعدام‌های پرونده میدان علیخانی به هفت نفر برسد.",
+            "علیرضا سپاهی و علیرضا رئیسی از میان ۱۲ متهم محکوم به اعدام این پرونده بودند که احکام آن‌ها سحرگاه اجرا شد.",
+            "دستگاه قضا اعدام این افراد را تایید کرد، این در حالی است که فشارهای امنیتی بر خانواده‌های بازداشت‌شدگان به شدت افزایش یافته است."
+        ],
+        "impact": "تشدید فضای ارعاب در جامعه همزمان با ادامه اعدام‌های سیاسی برای مهار اعتراضات مردمی",
+        "tag": "سرکوب",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610057647",
+        "clean_url": "https://www.iranintl.com/en/202610057647",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/1ee99eb11094fedf238113bc97a3e6e872983078-768x432.jpg?rect=0,15,768,403&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791178260.0
+    },
+    {
         "id": "a8b023bbf4",
         "title_fa": "پرده‌برداری نتانیاهو از طرح سه مرحله‌ای جـ.ـهـ.ـوری ا‌سـ.ـلا‌مـ.ـی برای نابودی اسرائیل",
         "title_en": "بنیامین نتانیاهو: حمله هفتم اکتبر بخشی از طرح محور جمهوری اسلامی برای نابودی اسرائیل بود",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/oil-jumps-2-as-trump-says-he-offered-iran-nothing/ar-AA2drw83",
         "image": "http://www.bing.com/th?id=ONUT.bzIOBXuvT-KG6jvW6VmBYA&pid=News",
         "timestamp": 1790953484.0
-    },
-    {
-        "id": "5975fd32e7",
-        "title_fa": "اعزام سومین ناو هواپیمابر آمریکا به منطقه",
-        "title_en": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-        "summary": [
-            "پنتاگون با اعزام سومین ناو هواپیمابر به خاورمیانه، پیام محکمی به ت-ه-ر-ا-ن مخابره کرد.",
-            "این اقدام نظامی نشان‌دهنده آمادگی کامل ایالات متحده برای پاسخ به هرگونه سناریوی احتمالی است."
-        ],
-        "impact": "افزایش شدید فشار نظامی و مهار تحرکات منطقه ای ج-م-ه-و-ر-ی ا-س-لا-م-ی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790951940.0
     }
 ]
