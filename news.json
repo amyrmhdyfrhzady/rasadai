@@ -1,5 +1,23 @@
 [
     {
+        "id": "541a296e4a",
+        "title_fa": "بازگشت جغرافیا و ژئوپلیتیک به معادلات جنگ",
+        "title_en": "War Is Forcing the World to Reckon With Geography's Power",
+        "summary": [
+            "مسدود شدن مسیرهای تجاری در خلیج فارس، آسیب‌پذیری اقتصاد جهانی را در برابر بحران‌های منطقه‌ای عیان کرد.",
+            "فناوری و جهانی‌سازی نتوانسته‌اند قدرت سنتی جغرافیا و تنگه‌های استراتژیک را بی‌اثر کنند."
+        ],
+        "impact": "افزایش هزینه لجستیک و انرژی به دلیل اهمیت دوباره مسیرهای ترابری دریایی.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+        "clean_url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+        "image": "https://static01.nyt.com/images/2026/10/02/business/00geographys-revenge/00geographys-revenge-facebookJumbo.jpg",
+        "timestamp": 1791224940.0
+    },
+    {
         "id": "5771a243c4",
         "title_fa": "پیمان ترامپ برای پایان جنگ با ج.ا",
         "title_en": "Israel remembers October 7 victims; Trump vows to end Iran war - TV7 Israel News - 5 Oct.",
@@ -5463,24 +5481,5 @@
         "clean_url": "https://www.tbsnews.net/analysis/crude-rice-long-tail-us-sanctions-1560956",
         "image": "http://www.bing.com/th?id=ONUT.8ottI52LEcn6Da-an4V9rQ&pid=News",
         "timestamp": 1790956800.0
-    },
-    {
-        "id": "2c7c6dafc3",
-        "title_fa": "حمله به نفتکش در تنگه هرمز و آماده‌باش بازار انرژی",
-        "title_en": "مرکز عملیات تجارت دریایی بریتانیا: یک نفتکش هنگام خروج از تنگه هرمز هدف قرار گرفت",
-        "summary": [
-            "شلیک به نفتکش در دهانه تنگه هرمز، امنیت دریانوردی در این آبراه حیاتی را وارد فاز بحرانی جدیدی کرد.",
-            "این حمله با قطع برق و آتش‌سوزی در کشتی همراه بود، اما با مهار سریع بحران، نفتکش به مسیر خود ادامه داد.",
-            "هم‌زمان، چراغ سبز اروپا برای آزادسازی ذخایر سوخت، پاتک پیشگیرانه غرب برای مهار جهش احتمالی قیمت نفت است."
-        ],
-        "impact": "افزایش فوری هزینه بیمه دریایی و تشدید آماده‌باش نظامی در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610021556",
-        "clean_url": "https://www.iranintl.com/202610021556",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/f72f27543fffa32f09e9dea634cb84c4857c6b67-5500x3095.jpg?rect=533,853,4270,2242&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790956500.0
     }
 ]
