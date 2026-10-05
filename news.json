@@ -36,6 +36,24 @@
         "timestamp": 1791212540.0
     },
     {
+        "id": "718748d2c4",
+        "title_fa": "پایان نیابتی‌ها؛ حاکمیت تهران در بن‌بست راهبردی",
+        "title_en": "Out of proxies, out of time: Tehran must fight its own war",
+        "summary": [
+            "حلقه آتش منطقه‌ای فروپاشیده و گروه‌های نیابتی دیگر توان جنگیدن برای منافع تهران را ندارند.",
+            "سیستم حکمرانی در ایران با خطر تنهایی در میدان مواجه شده و باید بین سقوط یا جنگ مستقیم یکی را انتخاب کند."
+        ],
+        "impact": "فروپاشی بازوهای منطقه‌ای، دژ دفاعی تهران را به شدت آسیب‌پذیر کرده است.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "SOFREP",
+        "url": "https://www.msn.com/en-us/news/other/out-of-proxies-out-of-time-tehran-must-fight-its-own-war/ar-AA2dC0wC",
+        "clean_url": "https://www.msn.com/en-us/news/other/out-of-proxies-out-of-time-tehran-must-fight-its-own-war/ar-AA2dC0wC",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dCaf5.img?w=1386&h=893&m=4&q=81",
+        "timestamp": 1791212410.0
+    },
+    {
         "id": "208691d4a8",
         "title_fa": "رصد روزانه قیمت بنزین در ایالات متحده",
         "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://www.iranintl.com/202610025119",
         "image": "http://www.bing.com/th?id=ONUT.boPhmabFu3MnlVyWEyRedQ&pid=News",
         "timestamp": 1790948280.0
-    },
-    {
-        "id": "2996c46673",
-        "title_fa": "ادعای ترامپ درباره ابعاد پنهان برنامه هسته ای ج.ا",
-        "title_en": "Trump Claims Nuclear Weapons Weren’t the Only Things Iran Was Making",
-        "summary": [
-            "دونالد ترامپ از وجود پروژه های موازی در ساختار تسلیحاتی ج.ا خبر داده است.",
-            "این اظهارات فشارها بر تهران را برای ارائه توضیحات درباره فعالیت های مشکوک افزایش می دهد."
-        ],
-        "impact": "تشدید فشارهای سیاسی و اطلاعاتی غرب روی پرونده اتمی ج.ا",
-        "tag": "هسته ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The New Republic",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGNXcTU5T3Fqb3ZUd2E0NGlvamRjVy1HOVNqY1RsSVl6M0RrY0dJVFhacTFmNTBFUUF6MlFYQndqSHE4NUtZMDh1UUhzd0IzWkNlaHdQT21nQ2pESmwwTHRSS3ZhZ3pIN256ZUl4cGx3M0NVSTJpQ2JpS2F0MHVIbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGNXcTU5T3Fqb3ZUd2E0NGlvamRjVy1HOVNqY1RsSVl6M0RrY0dJVFhacTFmNTBFUUF6MlFYQndqSHE4NUtZMDh1UUhzd0IzWkNlaHdQT21nQ2pESmwwTHRSS3ZhZ3pIN256ZUl4cGx3M0NVSTJpQ2JpS2F0MHVIbw",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790947046.0
     }
 ]
