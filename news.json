@@ -1,5 +1,24 @@
 [
     {
+        "id": "e7ecb713be",
+        "title_fa": "تهدید فرمانده ارشد جـ.ـهـ.ـوری اِسـ.ـلامـ.ـی به گسترش آتش جنگ در منطقه",
+        "title_en": "Iran military chief warns new war's 'fire will engulf everyone'",
+        "summary": [
+            "علی عبداللهی مدعی شد که هرگونه درگیری جدید دامنه گسترده‌ای خواهد داشت و منافع آمریکا را هدف قرار می‌دهد.",
+            "او بدون توجه به تحولات سیاسی آمریکا، از پاسخ قاطع و بدون محدودیت سخن گفت.",
+            "این اظهارات تلاشی برای ارعاب کشورهای میزبان پایگاه‌های آمریکایی و سازمان‌های بین‌المللی ارزیابی می‌شود."
+        ],
+        "impact": "افزایش تنش‌های لفظی و بالا رفتن ریسک امنیتی برای حضور نظامی آمریکا در منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610056767",
+        "clean_url": "https://www.iranintl.com/en/202610056767",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791195420.0
+    },
+    {
         "id": "0e2933ac36",
         "title_fa": "حمله مرگبار در جنوب شرق و تلفات نظامیان",
         "title_en": "Iran state media names two officers killed in attack in southeastern Iran",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-just-got-handed-a-warning-from-a-former-green-beret-iran-may-be-broke-but-broke-is-not-the-same-thing-as-beaten/ar-AA2dr7pf",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790930541.0
-    },
-    {
-        "id": "eafebbbeba",
-        "title_fa": "فرار پلتفرم مالی روسی از سایه تحریم‌های آمریکا",
-        "title_en": "Russia's A7 payment platform denies links to Iran after US sanctions",
-        "summary": [
-            "سامانه پرداخت A7 روسیه به سرعت ارتباط خود با ایران را تکذیب کرد.",
-            "فشار تحریم‌های ایالات متحده باعث شده تا شرکای تجاری جمهوری اسلامی از ترس جریمه‌های سنگین، همکاری‌های مالی خود را پنهان یا قطع کنند."
-        ],
-        "impact": "بسته شدن مسیرهای مالی پنهانی و افزایش انزوای بانکی جمهوری اسلامی در عرصه بین‌المللی.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkM5TERwVXJuSnNvbjkxdHRyeV93TnVWekJRby1OU3ZSRHAzSVVwajZGT2gyNl9MenVlZzB2bTNHNlFGQUdvc1Q1QkUtUTNZT1QxS0FiTi1VOV9VWUhYLXY3eFNzbmZsbnE1NkZQS1BhNl91X2VCMGd2NzlGeDlqQ1pRRC1ISE1WbEl6RmdfZk0xWHA1UWdaWWxxaG43R0Y2VXdhSEhudmlaQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkM5TERwVXJuSnNvbjkxdHRyeV93TnVWekJRby1OU3ZSRHAzSVVwajZGT2gyNl9MenVlZzB2bTNHNlFGQUdvc1Q1QkUtUTNZT1QxS0FiTi1VOV9VWUhYLXY3eFNzbmZsbnE1NkZQS1BhNl91X2VCMGd2NzlGeDlqQ1pRRC1ISE1WbEl6RmdfZk0xWHA1UWdaWWxxaG43R0Y2VXdhSEhudmlaQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790929423.0
     }
 ]
