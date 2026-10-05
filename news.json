@@ -36,6 +36,24 @@
         "timestamp": 1791220275.9463637
     },
     {
+        "id": "310c87ebb7",
+        "title_fa": "مذاکرات هند با مسکو و کی‌یف درباره کریدور غلات",
+        "title_en": "New Delhi in talks with Russia, Ukraine for Black Sea shipments, Indian minister says",
+        "summary": [
+            "هند برای تامین امنیت حمل‌ونقل دریایی غلات وارد گفتگوهای فشرده با روسیه و اوکراین شده است.",
+            "تلاش دهلی‌نو برای حفظ ثبات بازار مواد غذایی با وجود ادامه تنش‌های نظامی در دریای سیاه."
+        ],
+        "impact": "تضمین جریان صادرات مواد غذایی و کاهش ریسک‌های تجاری در مسیرهای بحرانی دریایی.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/world/2026/10/05/new-delhi-in-talks-with-russia-ukraine-for-black-sea-shipments-indian-minister-says-",
+        "clean_url": "https://english.alarabiya.net/News/world/2026/10/05/new-delhi-in-talks-with-russia-ukraine-for-black-sea-shipments-indian-minister-says-",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791220200.0
+    },
+    {
         "id": "fd5562be56",
         "title_fa": "بازی دوگانه تشدید تنش و دیپلماسی میان واشنگتن و تهران",
         "title_en": "Escalation And Diplomacy In The U.S.-Iran War",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/202610021556",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/f72f27543fffa32f09e9dea634cb84c4857c6b67-5500x3095.jpg?rect=533,853,4270,2242&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790956500.0
-    },
-    {
-        "id": "0da33370ce",
-        "title_fa": "سپر دفاعی روسیه برای برنامه هسته‌ای تهران در برابر واشنگتن",
-        "title_en": "نماینده روسیه در آژانس انرژی اتمی: ایران موظف به کنار گذاشتن برنامه هستهای خود نیست",
-        "summary": [
-            "میخائیل اولیانوف با رد اظهارات سفیر آمریکا، غنی‌سازی و برنامه هسته‌ای تهران را حق غیرقابل سلب دانست.",
-            "مسکو با این موضع‌گیری صریح، عملاً هرگونه اجماع بین‌المللی جدید علیه فعالیت‌های اتمی تهران را وتو کرد."
-        ],
-        "impact": "سخت‌تر شدن مسیر دیپلماسی و افزایش احتمال برخورد یک‌جانبه آمریکا با پرونده هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610026264",
-        "clean_url": "https://www.iranintl.com/202610026264",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790956200.0
     }
 ]
