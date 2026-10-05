@@ -36,6 +36,24 @@
         "timestamp": 1791212540.0
     },
     {
+        "id": "208691d4a8",
+        "title_fa": "رصد روزانه قیمت بنزین در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "این گزارش تنها به روند تغییرات قیمت سوخت در ایالات مختلف آمریکا می‌پردازد.",
+            "هیچ محتوای سیاسی یا امنیتی در این خبر وجود ندارد."
+        ],
+        "impact": "تغییر خاصی در معادلات کلان ایجاد نمی‌کند.",
+        "tag": "انرژی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791209220.0
+    },
+    {
         "id": "c388d78dbf",
         "title_fa": "تهدید دوباره مـقـامـات ادرار به جنگ جدید",
         "title_en": "Shafaq News..Iran warns US, Israel against new war",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGNXcTU5T3Fqb3ZUd2E0NGlvamRjVy1HOVNqY1RsSVl6M0RrY0dJVFhacTFmNTBFUUF6MlFYQndqSHE4NUtZMDh1UUhzd0IzWkNlaHdQT21nQ2pESmwwTHRSS3ZhZ3pIN256ZUl4cGx3M0NVSTJpQ2JpS2F0MHVIbw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790947046.0
-    },
-    {
-        "id": "7b085381fa",
-        "title_fa": "خط و نشان امام جمعه اهواز برای آمریکا در تنگه هرمز",
-        "title_en": "Iranian cleric says US cannot change Tehran's control of Hormuz",
-        "summary": [
-            "امام جمعه اهواز ادعا کرد آمریکا در بن‌بست نظامی گرفتار شده و توان مقابله با نفوذ جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی در آبراه‌های حیاتی را ندارد.",
-            "این اظهارات تکرار ادعاهای همیشگی مقامات حاکمیتی است که با وجود فشارهای اقتصادی، تلاش می‌کنند شکست‌های منطقه‌ای خود را پنهان کنند."
-        ],
-        "impact": "تنش لفظی در آبراه‌های استراتژیک خلیج فارس و دریای سرخ همچنان ادامه دارد.",
-        "tag": "نظامی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610024345",
-        "clean_url": "https://www.iranintl.com/en/202610024345",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790944740.0
     }
 ]
