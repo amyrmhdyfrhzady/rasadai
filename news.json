@@ -441,6 +441,25 @@
         "timestamp": 1791143832.0
     },
     {
+        "id": "9cfafc83a6",
+        "title_fa": "فشار معیشتی بر کارگران با حقوق‌های معوقه و قسطی",
+        "title_en": "Iran workers face delayed wages, lost benefits and job fears",
+        "summary": [
+            "بخش‌های صنعتی و خدماتی کشور با بحران پرداخت حقوق روبه‌رو هستند و دستمزدها با ماه‌ها تاخیر و به صورت قسطی پرداخت می‌شود.",
+            "تورم شدید و هزینه‌های سرسام‌آور زندگی کارگران را ناچار به داشتن شغل‌های دوم کرده است.",
+            "مدیران شرکت‌ها کارگران معترض را به اخراج و استعفا تهدید می‌کنند تا مانع اعتراضات صنفی شوند."
+        ],
+        "impact": "گسترش اعتصابات کارگری و بحران‌های اجتماعی ناشی از فروپاشی معیشت طبقه کارگر.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610052180",
+        "clean_url": "https://www.iranintl.com/en/202610052180",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/656177c3677eb5cad3becf370297cc5eccd391dd-1200x800.webp?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791143640.0
+    },
+    {
         "id": "f191cd9a98",
         "title_fa": "تغییر در راس وزارت نفت؛ بن‌بست صادرات با مهره‌های جدید باز می‌شود؟",
         "title_en": "What can Iran’s new oil chief change under the US blockade?",
@@ -5464,23 +5483,5 @@
         "clean_url": "https://www.iranintl.com/202610029284",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790925180.0
-    },
-    {
-        "id": "bc3d8ee364",
-        "title_fa": "خط و نشان تازه تهران برای امارات پس از دیدار با نتانیاهو",
-        "title_en": "Iran's rhetoric against UAE hardens after Netanyahu visit",
-        "summary": [
-            "تشدید هجمه‌های کلامی ج.ا علیه ابوظبی، هراس شدید تهران از نزدیک‌تر شدن پرونده‌های امنیتی و نظامی امارات و اسرائیل را برملا کرد.",
-            "دستگاه تبلیغاتی ج.ا می‌کوشد با ابزار تهدید، هزینه همکاری‌های منطقه‌ای علیه خود را بالا ببرد؛ تلاشی که بیشتر کارکرد مصرف داخلی و جنگ روانی دارد."
-        ],
-        "impact": "بالا رفتن سطح ریسک ژئوپلیتیک در خلیج فارس و تعمیق فاصله دیپلماتیک میان تهران و همسایگان جنوبی.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwc1pIazlHTEpZU0N6WG5YWTJaSEIxSTNwLVdwOXMybERxb0wxRE5MZ2VIbzBQc0FySWlMTlZTVzFMZlpkOG1zcUFMeDhXZE5Rb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwc1pIazlHTEpZU0N6WG5YWTJaSEIxSTNwLVdwOXMybERxb0wxRE5MZ2VIbzBQc0FySWlMTlZTVzFMZlpkOG1zcUFMeDhXZE5Rb0E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790924400.0
     }
 ]
