@@ -169,6 +169,25 @@
         "timestamp": 1791153660.0
     },
     {
+        "id": "c4f8a08f30",
+        "title_fa": "دور زدن تحریم‌ها با بوئینگ‌های فرسوده در آسمان آسیا",
+        "title_en": "How One Boeing 777 Exemplifies Iran’s Riskiness and Resilience",
+        "summary": [
+            "دولت ترامپ اعلام کرده تمام خطوط هوایی جـمـهوری اسـلـامی باید زمین‌گیر شوند.",
+            "پرواز این غول‌پیکر هوایی از تهران به سمت آسیای شرقی نشان می‌دهد شبکه‌های قاچاق قطعات همچنان فعال هستند.",
+            "حاکمیت برای حفظ شریان‌های هوایی خود به روش‌های پرخطر و پنهان رو آورده است."
+        ],
+        "impact": "شکست نسبی تحریم‌های هوایی و ادامه حیات تنفس مصنوعی به ناوگان فرسوده جـمـهوری اسـلـامی",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
+        "clean_url": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791151260.0
+    },
+    {
         "id": "3e3a698902",
         "title_fa": "مرگ خاورمیانه سنتی و تولد نظمی خطرناک",
         "title_en": "Essay | The Death of the Old Middle East—and the Dangerous New World Replacing It",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-just-delivered-a-masterclass-to-iran-as-a-painful-lesson-the-strait-of-hormuz-cant-win-the-war-for-tehran/ar-AA2dpVuj",
         "image": "http://www.bing.com/th?id=ONUT.hTiheoNUdQ6agqvTfaS5Bg&pid=News",
         "timestamp": 1790920476.0
-    },
-    {
-        "id": "3c7254e2b7",
-        "title_fa": "احتمال حمله نتانیاهو به ایران برای پیروزی در انتخابات",
-        "title_en": "دیپلمات پیشین جمهوری اسلامی: نتانیاهو ممکن است برای اهداف انتخاباتی به ایران حمله کند",
-        "summary": [
-            "دیپلمات ارشد پیشین وزارت خارجه هشدار داد نتانیاهو ممکن است برای نجات جایگاه سیاسی خود دست به اقدام نظامی علیه ایران بزند.",
-            "واشینگتن فعلا با هرگونه حمله پیش‌دستانه اسرائیل مخالفت کرده و ترجیح می‌دهد فشار اقتصادی حداکثری روی ج.ه. ادامه پیدا کند."
-        ],
-        "impact": "سایه سنگین تحولات سیاسی اسرائیل و آمریکا بر احتمال درگیری نظامی مستقیم",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610028271",
-        "clean_url": "https://www.iranintl.com/202610028271",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790920140.0
     }
 ]
