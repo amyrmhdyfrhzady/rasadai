@@ -236,6 +236,25 @@
         "timestamp": 1791187200.0
     },
     {
+        "id": "8ff945a297",
+        "title_fa": "تنش در باب‌المندب و صعود نفت به مرز ۱۰۰ دلار",
+        "title_en": "Battle with Iran-backed Houthis in Yemen tempers news on oil flow",
+        "summary": [
+            "درگیری بر سر تنگه راهبردی باب‌المندب قیمت نفت برنت را روی کانال صد دلاری نگه داشته است.",
+            "مسیرهای جایگزین در دریای سرخ صادرات نفت منطقه را حفظ کرده اما با تهدیدات جدید نیابتی‌های ایران مواجه است.",
+            "تراس پ... رد کردن شرط‌های تهران برای باز کردن تنگه هرمز، بحران را وارد فاز تازه‌ای کرده است."
+        ],
+        "impact": "افزایش ریسک در آبراه‌های کلیدی انرژی، هزینه حمل‌ونقل و قیمت جهانی نفت را بالاتر می‌برد.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/battle-iran-backed-houthis-yemen-113945907.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/battle-iran-backed-houthis-yemen-113945907.html",
+        "image": "http://www.bing.com/th?id=ONUT.rtmiu3R67sb-Z9XJtgBFBg&pid=News",
+        "timestamp": 1791186360.0
+    },
+    {
         "id": "010eef99a2",
         "title_fa": "کمین مرگبار علیه خودروهای نظامی در جنوب شرق",
         "title_en": "Three killed in attack on military vehicles in southeastern Iran, rights group says",
@@ -5464,23 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbE5HYnhtdW9rcW5OYVBSQmQ2S2Fmb083b3Y0ZkRxT180bnkycXRaUEsyX0RqbGR6Q1QxQzZhQUljWTAxMjFDc1VlMGFmVWRoVWc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790944678.0
-    },
-    {
-        "id": "9e88f3ec75",
-        "title_fa": "انکار ریزش معلمان از سوی وزارت آموزش و پرورش",
-        "title_en": "Iran denies teachers are quitting despite viral resignation videos",
-        "summary": [
-            "وزارت آموزش و پرورش استعفای گسترده معلمان به دلیل شرایط بد کاری و فشارهای امنیتی را تکذیب کرد و آن را شایعه خواند.",
-            "شورای هماهنگی تشکل‌های صنفی فرهنگیان پیش‌تر درباره موج مهاجرت و ترک کار معلمان هشدار داده بود."
-        ],
-        "impact": "بحران نیروی انسانی در آموزش و پرورش و تلاش حکومت برای پنهان کردن واقعیت‌های معیشتی.",
-        "tag": "اجتماعی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610027763",
-        "clean_url": "https://www.iranintl.com/en/202610027763",
-        "image": "http://www.bing.com/th?id=ONUT.V6CLsjm1KbXAkpfymkCn0w&pid=News",
-        "timestamp": 1790944620.0
     }
 ]
