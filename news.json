@@ -332,6 +332,24 @@
         "timestamp": 1791153660.0
     },
     {
+        "id": "fb3a65e112",
+        "title_fa": "استمرار درگیری‌ها و رکود فروش نفت جـ.ا",
+        "title_en": "More Oil, Same War: Why Increased Exports Aren’t a Sign of Iran’s Collapse",
+        "summary": [
+            "صادرات نفت کشورهای همپیمان آمریکا در منطقه با وجود تداوم درگیری‌ها به حدود ۷۰ درصد سطح پیش از جنگ رسیده است.",
+            "تلاش‌های جـ.ا برای خروج نفت از تنگه هرمز با شکست مواجه شده و رژیم راهی جز خاموش کردن ردیاب نفتکش‌ها ندارد."
+        ],
+        "impact": "فلج شدن صادرات نفت جـ.ا و فشار سنگین بر اقتصاد جنگ‌زده حاکمیت.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/more-oil-same-war-why-increased-exports-arent-a-sign-of-irans-collapse",
+        "clean_url": "https://www.cfr.org/articles/more-oil-same-war-why-increased-exports-arent-a-sign-of-irans-collapse",
+        "image": "http://www.bing.com/th?id=ONUT.yMAXqAoD7iNIh2UK_JbUaQ&pid=News",
+        "timestamp": 1791153000.0
+    },
+    {
         "id": "c4f8a08f30",
         "title_fa": "دور زدن تحریم‌ها با بوئینگ‌های فرسوده در آسمان آسیا",
         "title_en": "How One Boeing 777 Exemplifies Iran’s Riskiness and Resilience",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://www.iranintl.com/202610029489",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790925360.0
-    },
-    {
-        "id": "a89a8b8755",
-        "title_fa": "فرار رو به جلو حوثی‌ها با متهم کردن عربستان",
-        "title_en": "عضو دفتر سیاسی حوثی‌ها: عربستان سعودی مانع گفت‌وگو میان طرف‌های یمنی است",
-        "summary": [
-            "محمد البخیتی با متهم کردن ریاض، به دنبال فرار از مسئولیت بن‌بست معیشتی و سیاسی در مناطق تحت کنترل خود است.",
-            "تلاش برای جلب نظر امارات و برجسته کردن نقش عمان، تاکتیک حوثی‌ها برای تفرقه‌افکنی در ائتلاف عربی است.",
-            "تکذیب حمله به اماکن مقدسه، ناشی از ترس حوثی‌ها از ریزش شدید پایگاه اجتماعی مذهبی خود در جهان اسلام است."
-        ],
-        "impact": "تداوم بن‌بست سیاسی در یمن و افزایش احتمال از سرگیری درگیری‌های مرزی با عربستان.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610029284",
-        "clean_url": "https://www.iranintl.com/202610029284",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790925180.0
     }
 ]
