@@ -254,6 +254,42 @@
         "timestamp": 1791194160.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "حاشیه‌های سفر ترامپ به نبراسکا و چالش‌های سیاسی داخلی",
+        "title_en": "US latest news",
+        "summary": [
+            "ترامپ در حالی عازم نبراسکا می‌شود که طرح دولت او برای افزایش واردات گوشت خارجی با نارضایتی شدید کشاورزان این ایالت مواجه شده است.",
+            "همزمان دیوان عالی آمریکا نخستین جلسات استدلال شفاهی خود را درباره پرونده‌های مربوط به بحران اقلیمی آغاز کرد."
+        ],
+        "impact": "نارضایتی کشاورزان در ایالت‌های کلیدی می‌تواند پایگاه رأی جمهوری‌خواهان را با چالش جدی روبه‌رو کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1791191280.0
+    },
+    {
+        "id": "6ec9a6a034",
+        "title_fa": "دستور اجرایی ترامپ برای معافیت مالیاتی سوخت دیزل",
+        "title_en": "Donald Trump",
+        "summary": [
+            "دونالد ترامپ قصد دارد با صدور یک فرمان اجرایی جدید، دسترسی به سوخت دیزل معاف از مالیات را گسترش دهد.",
+            "این تصمیم بخشی از برنامه‌های اقتصادی دولت آمریکا برای حمایت از بخش‌های صنعتی و حمل‌ونقل است."
+        ],
+        "impact": "این اقدام می‌تواند هزینه‌های سوخت و لجستیک را در بازار داخلی آمریکا کاهش دهد.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/donald-trump/",
+        "clean_url": "https://www.reuters.com/world/us/donald-trump",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791188700.0
+    },
+    {
         "id": "0e2933ac36",
         "title_fa": "حمله مرگبار در جنوب شرق و تلفات نظامیان",
         "title_en": "Iran state media names two officers killed in attack in southeastern Iran",
@@ -5447,41 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG03aGg0dVIyOGJUcEN6cHBpOWoydXdES3M3S3hrVHpCY2NGSXc1alkwZE9SOVkwYTBDbEctZVNyUl9BLS15a1EwN0xqVTFVQVR4NVFGU0NFVHNMS0ZodXRJbVZmRlVVNFU5eWtmcmgzZDg2OUw4bHE3ckZsajFGWEhVSGVscXZGZDdkMk1udFF5dV9UQTFGS3NvQTRjZV9ma1VnVFp4d2x3WmxVMWZCRUY2UHdicXdy",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790951491.0
-    },
-    {
-        "id": "72c09fe211",
-        "title_fa": "فشار تهران به عراق برای لغو محدودیت‌های پروازی تحریمی",
-        "title_en": "Iran Demands End to Flight Restrictions Linked to US Sanctions with Iraq",
-        "summary": [
-            "تهران تلاش می‌کند با رایزنی‌های دیپلماتیک محدودیت‌های پروازی مرتبط با تحریم‌های آمریکا علیه پروازهای عراق را دور بزند.",
-            "فشارها بر بغداد برای کاهش اثرگذاری تحریم‌های هوایی واشنگتن روی خطوط پروازی مرتبط با ایران افزایش یافته است."
-        ],
-        "impact": "تلاش برای کاهش شکاف‌های ناشی از تحریم‌های مالی و هوایی در روابط منطقه‌ای",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "IranWire",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS1N4YmgtSWFBZkVpSjBRTnlCbmNvSFhrajRfM21mTUpTbzlidjljWU5yRWttWVEwamFmalp3SzA0VWpidFhEZTZjOFZOZGFFSFFCdWZHdnB1S0JMbkpVMDJLcEpXSzhYRjNFYTlXenNWSUZOMWpzZkxhbXFxUTNLUWxjTkxiX3J1cHRkaFhISkJEU1dSQ0F4UVlzUjRScnZEdDV1WU40Y3lVNkMtRmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS1N4YmgtSWFBZkVpSjBRTnlCbmNvSFhrajRfM21mTUpTbzlidjljWU5yRWttWVEwamFmalp3SzA0VWpidFhEZTZjOFZOZGFFSFFCdWZHdnB1S0JMbkpVMDJLcEpXSzhYRjNFYTlXenNWSUZOMWpzZkxhbXFxUTNLUWxjTkxiX3J1cHRkaFhISkJEU1dSQ0F4UVlzUjRScnZEdDV1WU40Y3lVNkMtRmc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790950500.0
-    },
-    {
-        "id": "d125fbd31c",
-        "title_fa": "ردپای جمهوری اسلامی در حملات تروریستی جدید",
-        "title_en": "'Islamist Indoctrination': Iran Suspected of Ties to FlyDubai Attack, Terror Threat at UK Air Base",
-        "summary": [
-            "حکومت ایران به دست داشتن در حمله به شرکت هواپیمایی فلای‌دبی متهم شد.",
-            "تهدیدهای امنیتی جدیدی علیه پایگاه هوایی بریتانیا با پشتیبانی تهران شناسایی شده است."
-        ],
-        "impact": "افزایش فشارهای امنیتی و دیپلماتیک علیه شبکه های نیابتی حکومت در خارج از مرزها",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "cbn.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzIwc2wtMXdKbGtBTTd1d0xDbEMzSmQtLXduVGtwLVRjT3hpYlFiYktlUmZjcm1CWDh2X1A0TDFYMjFCNFlQM0M3VmNlLWtBcDg2MmxLNllaRHp5S19oVVhpLWNJazJLZXpwX01WN0RVcVdPeERNVm5pWWREQU5fYjB1UmlXUWRUTWs0OW04dEdwdTlBLTlrdDV1NGdRa2FQQ2IwcXgzbXBhTWtSTmJxSy0wRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzIwc2wtMXdKbGtBTTd1d0xDbEMzSmQtLXduVGtwLVRjT3hpYlFiYktlUmZjcm1CWDh2X1A0TDFYMjFCNFlQM0M3VmNlLWtBcDg2MmxLNllaRHp5S19oVVhpLWNJazJLZXpwX01WN0RVcVdPeERNVm5pWWREQU5fYjB1UmlXUWRUTWs0OW04dEdwdTlBLTlrdDV1NGdRa2FQQ2IwcXgzbXBhTWtSTmJxSy0wRQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790950166.0
     }
 ]
