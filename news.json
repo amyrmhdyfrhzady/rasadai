@@ -74,6 +74,25 @@
         "timestamp": 1791164040.0
     },
     {
+        "id": "027dfbbefb",
+        "title_fa": "سه سال بحران؛ بن‌بست راهبردی در جنگ مستقیم آمریکا و ایران",
+        "title_en": "The Region Still in Crisis Three Years after the October 7 Attack",
+        "summary": [
+            "حمله هفتم اکتبر حماس، مهره‌ای در پازل تهران برای برهم زدن ائتلاف منطقه‌ای ایالات متحده و کشورهای عربی بود.",
+            "واکنش نظامی شدید اسرائیل و ویرانی غزه، خاورمیانه را به سوی جنگ مستقیم میان واشنگتن و حکومت ایران سوق داد.",
+            "تیم ترامپ اکنون در این پرونده امنیتی با یک بن‌بست راهبردی روبه‌روست."
+        ],
+        "impact": "تداوم بحران و جنگ فرسایشی هزینه‌های سنگینی بر اقتصاد داخلی و ثبات منطقه تحمیل کرده است.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Soufan Center",
+        "url": "https://thesoufancenter.org/intelbrief-2026-october-5/",
+        "clean_url": "https://thesoufancenter.org/intelbrief-2026-october-5",
+        "image": "https://thesoufancenter.org/wp-content/uploads/2026/10/AP26276612583209-768x384.jpg",
+        "timestamp": 1791158400.0
+    },
+    {
         "id": "cb59081f8e",
         "title_fa": "فشار حداکثری ترامپ بدون شلیک گلوله",
         "title_en": "Trump's bet is patience: Let the blockade drain Iran's economy instead of launching new strikes before the midterm elections",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.iranintl.com/202610028271",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790920140.0
-    },
-    {
-        "id": "1bd01e5bdb",
-        "title_fa": "تهدید دوباره نظامیان آمریکایی توسط مقام ارشد سـپـاه",
-        "title_en": "نقدی، مشاور فرمانده سپاه: تفکر «جان‌فدایان» حتی به داخل کاخ شاهان منطقه نیز نفوذ کرده است",
-        "summary": [
-            "محمدرضا نقدی ادعا کرده تفکر نیروهای نیابتی به کاخ‌های منطقه نفوذ کرده است.",
-            "فرماندهان رژیم همچنان با تکیه بر شعارهای توخالی، به دنبال سرپوش گذاشتن بر شکست‌های منطقه‌ای هستند."
-        ],
-        "impact": "افزایش تنش‌های لفظی و جنگ روانی علیه حضور نظامی آمریکا در خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610020732",
-        "clean_url": "https://www.iranintl.com/202610020732",
-        "image": "http://www.bing.com/th?id=ONUT.HlbbjtjfaLUROiQekGmBMw&pid=News",
-        "timestamp": 1790919840.0
     }
 ]
