@@ -75,6 +75,24 @@
         "timestamp": 1791228661.0
     },
     {
+        "id": "4a0bc6fa90",
+        "title_fa": "رکوردشکنی سود اوراق قرضه آمریکا پس از دو دهه",
+        "title_en": "Morning Wrap: ASX 200 to rise, megacap tech lifts Nasdaq to record, Treasury yields climb to 24-year highs",
+        "summary": [
+            "سود اوراق قرضه خزانه‌داری آمریکا به بالاترین سطح خود از سال ۲۰۰۲ رسید.",
+            "رشد همزمان شاخص‌های تکنولوژی در بازار سهام و افزایش هزینه‌های استقراض دولتی."
+        ],
+        "impact": "افزایش هزینه‌های تامین مالی دولت آمریکا و فشار بر بازارهای مالی جهانی.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Market Index",
+        "url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-megacap-tech-lifts-nasdaq-to-record-treasury",
+        "clean_url": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-rise-megacap-tech-lifts-nasdaq-to-record-treasury",
+        "image": "https://assets.marketindex.com.au/webclip/mi/images/content/18/012413afba9b1394cf95ca74e542be0c/Tuesday+Morning+Wrap.jpg",
+        "timestamp": 1791225240.0
+    },
+    {
         "id": "541a296e4a",
         "title_fa": "بازگشت جغرافیا و ژئوپلیتیک به معادلات جنگ",
         "title_en": "War Is Forcing the World to Reckon With Geography's Power",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202610034743",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/43f7ecc9fbd009231baa4ca7148b03f170c3fc98-800x557.jpg?rect=67,122,733,385&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790965320.0
-    },
-    {
-        "id": "7f61903a5f",
-        "title_fa": "پاسخ موشکی کره شمالی به تنش‌های مرزی با سئول",
-        "title_en": "کره شمالی در پی تنش بر سر انفجار مین‌های مرزی، موشک بالستیک شلیک کرد",
-        "summary": [
-            "پیونگ‌یانگ پس از رد درخواست عذرخواهی بابت انفجار مین‌های مرزی، با شلیک یک موشک بالستیک با برد ۷۰۰ کیلومتر خط‌ونشان جدیدی برای سئول کشید.",
-            "شورای امنیت ملی کره جنوبی فوراً جلسه اضطراری تشکیل داد و ارتش‌های منطقه سطح هوشیاری خود را بالا بردند.",
-            "این پرتاب نشان از بن‌بست کامل دیپلماسی و ورود شبه‌جزیره کره به دور جدیدی از نبرد روانی و نظامی دارد."
-        ],
-        "impact": "افزایش آنی ریسک امنیتی در شرق آسیا و آماده‌باش پدافند موشکی ژاپن و کره جنوبی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "iranintl",
-        "url": "https://www.iranintl.com/202610037565",
-        "clean_url": "https://www.iranintl.com/202610037565",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/678c8de9218a8aab32530bbd88a3763cfd8ce0b6-6912x4608.jpg?rect=0,490,6912,3629&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790965020.0
     }
 ]
