@@ -498,6 +498,24 @@
         "timestamp": 1791132300.0
     },
     {
+        "id": "2c212046d8",
+        "title_fa": "ادعای نماینده مجلس درباره خروج نیروهای آمریکایی از منطقه",
+        "title_en": "Iranian lawmaker calls for end to US military presence in region",
+        "summary": [
+            "یک نماینده مجلس خواستار جمع شدن بساط نظامی ایالات متحده از خاورمیانه شد.",
+            "تغییرات مدیریتی در وزارت نفت و چالش‌های سنگین پیش روی وزیر جدید، صنعت نفت را با ابهام مواجه کرده است."
+        ],
+        "impact": "این اظهارات مصرف داخلی داشته و تغییری در حضور نظامی آمریکا ایجاد نمی‌کند.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610050307",
+        "clean_url": "https://www.iranintl.com/en/202610050307",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791132240.0
+    },
+    {
         "id": "cbbf050fc4",
         "title_fa": "انتخابات برزیل به دور دوم کشیده شد",
         "title_en": "بولسونارو پیش افتاد؛ انتخابات ریاست‌جمهوری برزیل به سوی دور دوم می‌رود",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://www.iranintl.com/en/202610014899",
         "image": "http://www.bing.com/th?id=ONUT.1HicTb_xZE6VDdkhuHkE_g&pid=News",
         "timestamp": 1790921160.0
-    },
-    {
-        "id": "1780cb5962",
-        "title_fa": "تهدید گستاخانه نماینده مجلس برای تصرف امارات",
-        "title_en": "حاجی‌دلیگانی، نماینده شاهین‌شهر: باید امارات را تصرف کنیم",
-        "summary": [
-            "حسینعلی حاجی‌دلیگانی، نماینده مجلس، خواستار لشکرکشی و تصرف امارات متحده عربی شد.",
-            "این مقام حکومتی مدعی شد برای قطع ریشه فتنه باید نیروهای نظامی در خاک کشورهای همسایه مستقر شوند."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک میان جـمـهـوری اسـلامـی و کشورهای عربی حوزه خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610026644",
-        "clean_url": "https://www.iranintl.com/202610026644",
-        "image": "http://www.bing.com/th?id=ONUT.6IYK3SN8H9I5-R9rE_lhDA&pid=News",
-        "timestamp": 1790920980.0
     }
 ]
