@@ -1,5 +1,23 @@
 [
     {
+        "id": "5771a243c4",
+        "title_fa": "پیمان ترامپ برای پایان جنگ با ج.ا",
+        "title_en": "Israel remembers October 7 victims; Trump vows to end Iran war - TV7 Israel News - 5 Oct.",
+        "summary": [
+            "دونالد ترامپ در سالگرد رویداد ۷ اکتبر بار دیگر بر تعهد خود برای پایان دادن به درگیری‌ها با تـروریست‌های حاکم بر ایران تأکید کرد.",
+            "این موضع نشان‌دهنده عزم تیم جدید واشنگتن برای مهار ماشین جنگی نیابتی مـلـایـان در منطقه است."
+        ],
+        "impact": "افزایش فشار سیاسی بر تهران و تغییر احتمالی معادلات امنیتی منطقه پس از روی کار آمدن ترامپ.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "TV7 Israel News",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtVzJ6OUlrQTdHQ1JCN1NtSVJETVRKdllldEVrZ0pHU1RjMkF3RjV2TFJreElHNDljX3BQMGJsczRfbFZXYldXMkNPbW1sWXFYOWhqQVMzV1pMYlVnVFFTVlY3elhRVmszUFV2Qm5JcWdVa2FCOTdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtVzJ6OUlrQTdHQ1JCN1NtSVJETVRKdllldEVrZ0pHU1RjMkF3RjV2TFJreElHNDljX3BQMGJsczRfbFZXYldXMkNPbW1sWXFYOWhqQVMzV1pMYlVnVFFTVlY3elhRVmszUFV2Qm5JcWdVa2FCOTdB",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791223784.0
+    },
+    {
         "id": "e32a121a11",
         "title_fa": "چشم‌انداز مثبت اقتصاد رومانی در آغاز سال جدید",
         "title_en": "01 Ianuarie 2026",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://ua.news/en/world/ssha-prosuvaiut-novii-mekhanizm-kontroliu-sanktsii-proti-iranu-the-national",
         "image": "https://cdn-cabinet.ua.news/uploads/images/us_new_mechanism_monitor_iran_sanctions_1790944072773.webp",
         "timestamp": 1790954820.0
-    },
-    {
-        "id": "e68ce3a8be",
-        "title_fa": "تشدید درگیری‌ها در منطقه و استقرار ناو هواپیمابر سوم آمریکا",
-        "title_en": "Live Updates: One injured in Saudi Arabia from missile shrapnel as US reportedly builds up forces in region",
-        "summary": [
-            "اصابت ترکش موشک به یک نفر در عربستان سعودی همزمان با بالا گرفتن تنش‌ها با حوثی‌ها",
-            "استقرار سومین ناو هواپیمابر آمریکا در خاورمیانه برای مهار تهدیدات دریایی",
-            "گزارش‌ها از آمادگی عربستان برای یک عملیات نظامی گسترده جهت باز کردن مسیرهای کشتیرانی در دریای سرخ"
-        ],
-        "impact": "افزایش ریسک امنیت انرژی و حمل‌ونقل دریایی در آب‌های منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-03/live-updates-910441",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-03/live-updates-910441",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738481",
-        "timestamp": 1790954640.0
     }
 ]
