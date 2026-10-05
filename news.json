@@ -1,5 +1,24 @@
 [
     {
+        "id": "794496d828",
+        "title_fa": "تهدید نفتی تهران؛ خط و نشان مجلس برای نفت ۱۱۰ دلاری",
+        "title_en": "Iranian lawmaker says Tehran seeking to push oil above $110",
+        "summary": [
+            "عبدالحسین همتی نماینده مجلس تهدید کرد که اگر صادرات نفت ایران متوقف شود، اجازه صادرات به سایر کشورهای منطقه هم داده نمی‌شود.",
+            "تهران با تهدید امنیت تنگه هرمز و استفاده از نیابتی‌های یمن، قصد دارد بازار جهانی را ملتهب کند و قیمت را به بالای ۱۱۰ دلار بکشاند.",
+            "این مواضع تهاجمی، تلاش ناامیدانه‌ای برای ایجاد فشار بر غرب و جبران انزوای اقتصادی است."
+        ],
+        "impact": "افزایش ریسک دریانوردی در تنگه هرمز و بالا رفتن هزینه بیمه نفتکش‌ها.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610050152",
+        "clean_url": "https://www.iranintl.com/en/202610050152",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791164040.0
+    },
+    {
         "id": "cb59081f8e",
         "title_fa": "فشار حداکثری ترامپ بدون شلیک گلوله",
         "title_en": "Trump's bet is patience: Let the blockade drain Iran's economy instead of launching new strikes before the midterm elections",
@@ -455,6 +474,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WaXEzYlFiRW4yUjRPcE52eGljMmpJVXlmSVgzbHNDSnFzZk1OQVc2d3pRcmlvTHE5dnBtbVZjLXdPVGtPemJWRjRCMA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791117471.0
+    },
+    {
+        "id": "24938fc528",
+        "title_fa": "استعفای وزیر نفت همزمان با تخلیه آخرین محموله‌ها",
+        "title_en": "Iran's Oil Minister Quits Days Before Its Last Cargoes Run Out",
+        "summary": [
+            "وزیر نفت همزمان با رو به پایان بودن آخرین محموله‌های صادراتی کشور در اواسط اکتبر، از سمت خود کنار رفت.",
+            "توقف فروش نفت و بن‌بست کامل در دور زدن تحریم‌ها، بحران را در بدنه مدیریتی انرژی کشور علنی کرده است.",
+            "بی‌تفاوتی بازار جهانی و عدم جهش قیمت نفت، اثرگذاری ایران در بازار انرژی را کاملاً زیر سوال برده است."
+        ],
+        "impact": "تشدید کسری بودجه ح‌ک‌و‌م‌ت و فلج شدن ساختار فروش انرژی.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "BeInCrypto",
+        "url": "https://beincrypto.com/iran-oil-minister-quits-cargoes-cutoff/",
+        "clean_url": "https://beincrypto.com/iran-oil-minister-quits-cargoes-cutoff",
+        "image": "http://www.bing.com/th?id=ONUT.yu-ydHwtWCpX9WO0lmzqUQ&pid=News",
+        "timestamp": 1791115740.0
     },
     {
         "id": "007e7676b6",
@@ -5442,41 +5480,5 @@
         "clean_url": "https://www.iranintl.com/202610027970",
         "image": "http://www.bing.com/th?id=ONUT.PljsxW9YN5_ezhCGmaejUA&pid=News",
         "timestamp": 1790910780.0
-    },
-    {
-        "id": "1a22cb5fac",
-        "title_fa": "هشدار درباره پایداری حکومت و آماده‌سازی تحریم‌های جدید",
-        "title_en": "علی‌حسین قاضی‌زاده: بقای جمهوری اسلامی می‌تواند هزینه بیشتری برای جهان داشته باشد",
-        "summary": [
-            "واشنگتن با زیر نظر داشتن تلاش‌های جـ.ـمهوری اسـ.ـلامی برای حذف دلار، شبکه مالی سایه وابسته به مسکو را هدف تحریم قرار داد.",
-            "فشارهای اقتصادی و بانکی آمریکا نشان‌دهنده تنگ‌تر شدن حلقه محاصره مالی حکومت است."
-        ],
-        "impact": "مسدود شدن مسیرهای دور زدن تحریم و افزایش فشار بر سیستم بانکی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610026345",
-        "clean_url": "https://www.iranintl.com/202610026345",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790909880.0
-    },
-    {
-        "id": "94aa1aae13",
-        "title_fa": "پرتاب نخستین ماهواره نظامی آلمان برای رصد تهدیدهای هوایی",
-        "title_en": "شرکت صنایع دفاعی آلمان نخستین ماهواره خود را برای شناسایی تهدیدهای هوایی به مدار فرستاد",
-        "summary": [
-            "شرکت دفاعی راینمتال آلمان با همکاری ایتالیا اولین ماهواره شناسایی خود را به مدار فرستاد.",
-            "این پروژه با هدف تقویت سامانه‌های پدافند هوایی و رصد دقیق تهدیدها عملیاتی شده است."
-        ],
-        "impact": "افزایش قابلیت‌های تجسسی و دفاعی اروپا در برابر خطرات هوایی و موشکی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610020548",
-        "clean_url": "https://www.iranintl.com/202610020548",
-        "image": "http://www.bing.com/th?id=ONUT.bAkuLyguCe8I64FF9M2csA&pid=News",
-        "timestamp": 1790908860.0
     }
 ]
