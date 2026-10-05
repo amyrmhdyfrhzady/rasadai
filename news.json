@@ -276,6 +276,25 @@
         "timestamp": 1791134052.0
     },
     {
+        "id": "35d749d6ea",
+        "title_fa": "رکوردشکنی صادرات نفت خاورمیانه رغم ناامنی تنگه هرمز",
+        "title_en": "صادرات نفت خاورمیانه با وجود حملات در تنگه هرمز از سطح پیش از جنگ فراتر رفت",
+        "summary": [
+            "داده‌های شرکت کپلر نشان می‌دهد صادرات نفت خاورمیانه در روزهای پایانی سپتامبر از سطح پیش از جنگ هم عبور کرده است.",
+            "میانگین صادرات نفت منطقه که روزانه حدود ۱۸ میلیون بشکه بود، به اعداد بالاتری تا بیش از ۲۲ میلیون بشکه رسید.",
+            "همزمان با ادامه حملات به نفتکش‌ها در تنگه هرمز، صادرات گاز طبیعی مایع نیز به بالاترین سطح ماهانه از فوریه صعود کرد."
+        ],
+        "impact": "بازار انرژی بی‌توجه به تنش‌های نظامی، مسیر خود را برای حفظ روند صادرات پیدا کرده است.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610056258",
+        "clean_url": "https://www.iranintl.com/202610056258",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791133200.0
+    },
+    {
         "id": "0ca6b3427d",
         "title_fa": "هشدار فوری شاهزاده رضا پهلوی درباره خطر اعدام دو معترض",
         "title_en": "دفتر شاهزاده پهلوی درباره خطر اعدام علیرضا سپاهی و علیرضا رئیسی هشدار داد",
@@ -5464,23 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGkxNDhsdlNIY1p5YURsdlUyR1B6Tk90MGhVYmtTQTRuc19Qbzh0VXZ4Q2tINGtUTXBwS19xYXRNLTBIa1dzcHAyemNXQWVOSWJDQkx3R1B2X0Vpa0VvM1FSeXhmSWRYWW9uenEwT0ljQUVBN29vZVNld3p2ZFg3UHRoTHZoQXItT210Y2VB0gGTAUFVX3lxTFB2TUlZaHAtdTV2MEVrTnlSNUZBNGZPeEZMT2xyV1RwekFyM0hDdkx2dzFNMG03ckh6NXN0dUUzNnNLZEhiLXJLR3hjTE5LZzRELWx0RVZ0RERTUjFYREZkZ3QyYUhvQnBwdHUyR0ktWWdjUUxDYmJDMW9UTW1YYk9mRno2N2ZLTE1LR1VvcHQ1alhoOA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790915406.0
-    },
-    {
-        "id": "9a6bbc1f2f",
-        "title_fa": "تهدید جدید ترامپ؛ کارخانه‌های مواد مخدر ای-ران هدف بمباران",
-        "title_en": "Trump cites Iran's 'drug factories' as another target for bombing",
-        "summary": [
-            "دونالد ترامپ در اظهاراتی تازه، کارخانه‌های مرتبط با تولید مواد مخدر تحت کنترل حکومت ای-ران را به عنوان یک هدف احتمالی جدید برای حملات هوایی مطرح کرد.",
-            "این موضع‌گیری نشان‌دهنده گسترش دایره اهداف احتمالی در سیاست فشار حداک فر است و فراتر از تاسیسات هسته‌ای و نظامی می‌رود."
-        ],
-        "impact": "افزایش ریسک نظامی و گستردگی احتمالی اهداف در صورت درگیری",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "HuffPost on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-cites-irans-drug-factories-as-another-target-for-bombing/ar-AA2dpA6t",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-cites-irans-drug-factories-as-another-target-for-bombing/ar-AA2dpA6t",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790913469.0
     }
 ]
