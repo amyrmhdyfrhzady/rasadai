@@ -495,6 +495,24 @@
         "timestamp": 1791180840.0
     },
     {
+        "id": "c61750fbc4",
+        "title_fa": "خطای امنیتی در بارگذاری خبر بندر مخا",
+        "title_en": "Yemeni government forces retake strategic Red Sea port of Mokha",
+        "summary": [
+            "منبع خبری العربیه با چالش کپچا و تاییدیه انسانی مواجه شده است.",
+            "محتوای اصلی خبر مربوط به تحولات میدانی در بندر استراتژیک مخا قابل دسترس نیست."
+        ],
+        "impact": "عدم امکان راستی‌آزمایی دقیق تحولات میدانی یمن در لحظه فعلی.",
+        "tag": "نیابتی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/10/05/yemeni-government-forces-retake-strategic-red-sea-port-of-mokha",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/10/05/yemeni-government-forces-retake-strategic-red-sea-port-of-mokha",
+        "image": "https://vid.alarabiya.net/images/2026/01/10/76422c13-9b68-4a39-80a8-c010c1f2c2c6/76422c13-9b68-4a39-80a8-c010c1f2c2c6_16x9_600x338.JPG",
+        "timestamp": 1791179820.0
+    },
+    {
         "id": "7e96aaaab1",
         "title_fa": "سقوط آزاد پول ملی؛ چنگ‌اندازی تحریم‌ها و محاصره دریایی بر اقتصاد ای-ران",
         "title_en": "Iran Currency Collapse: U.S. Sanctions, Naval Blockade, and International Law",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzIwc2wtMXdKbGtBTTd1d0xDbEMzSmQtLXduVGtwLVRjT3hpYlFiYktlUmZjcm1CWDh2X1A0TDFYMjFCNFlQM0M3VmNlLWtBcDg2MmxLNllaRHp5S19oVVhpLWNJazJLZXpwX01WN0RVcVdPeERNVm5pWWREQU5fYjB1UmlXUWRUTWs0OW04dEdwdTlBLTlrdDV1NGdRa2FQQ2IwcXgzbXBhTWtSTmJxSy0wRQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790950166.0
-    },
-    {
-        "id": "d0f7465f70",
-        "title_fa": "دستور ترامپ برای تزریق گازوئیل به بازار انرژی",
-        "title_en": "ترامپ: اروپا آزادسازی حجم عظیمی از ذخایر گازوئیل خود را آغاز میکند",
-        "summary": [
-            "ترامپ از موافقت اروپا با آزادسازی حجم عظیمی از ذخایر گازوئیل خبر داد.",
-            "جهش قیمت گازوئیل در آمریکا از ۳.۶۹ دلار به رکورد ۶.۲۷ دلار فشار سنگینی بر دولت وارد کرده است."
-        ],
-        "impact": "تلاش واشنگتن برای مهار تورم سوخت با دست‌اندازی به ذخایر استراتژیک.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610020033",
-        "clean_url": "https://www.iranintl.com/202610020033",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790950020.0
     }
 ]
