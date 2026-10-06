@@ -238,6 +238,25 @@
         "timestamp": 1791276900.0
     },
     {
+        "id": "7f1a66f2ab",
+        "title_fa": "دستگیری عوامل ترور و جاسوسی سایبری ضد انقلاب در لندن",
+        "title_en": "Three Iranians spied on Iran International journalists in UK, prosecutors say",
+        "summary": [
+            "دادگاهی در لندن از محاکمه سه تبعه ایرانی به اتهام جاسوسی از روزنامه‌نگاران شبکه ایران اینترنشنال خبر داد.",
+            "هدف این تیم، جمع‌آوری اطلاعات و آماده‌سازی بستر برای اقدامات خشونت‌آمیز علیه خبرنگاران منتقد ج...ه...و...ر...ی ا...س...لا...م...ی بوده است.",
+            "این پرونده بار دیگر ابعاد عملیات‌های برون‌مرزی دستگاه‌های امنیتی حاکمیت برای ایجاد ارعاب در خارج از کشور را نمایان کرد."
+        ],
+        "impact": "افزایش سطح هشدارهای امنیتی برای فعالان رسانه‌ای مخالف در اروپا و فشار دیپلماتیک بر نهادهای اطلاعاتی حاکمیت.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610064415",
+        "clean_url": "https://www.iranintl.com/en/202610064415",
+        "image": "http://www.bing.com/th?id=ONUT.37Kiw7b2H1uguWjL9COVpw&pid=News",
+        "timestamp": 1791276000.0
+    },
+    {
         "id": "702e7dfbae",
         "title_fa": "تداوم پرواز تابوت‌های پرنده ایران به شرق آسیا با وجود تحریم‌ها",
         "title_en": "The Trump administration says all Iranian airlines are being “shut down.” Still, planes described as “disasters waiting to happen” are flying from Tehran to Southeast Asia.",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://www.iranintl.com/en/202610039569",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791014700.0
-    },
-    {
-        "id": "b499f333f2",
-        "title_fa": "استفاده متهم به جاسوسی برای ایـ.ـران در اسرائیل از هوش مصنوعی",
-        "title_en": "Israeli man used ChatGPT in alleged Iran espionage case, prosecutor reveals",
-        "summary": [
-            "دادستان‌های اسرائیلی از به کارگیری ابزار هوش مصنوعی چت‌جی‌پتی توسط یک شهروند متهم به جاسوسی برای ایـ.ـران پرده برداشتند.",
-            "این پرونده ابعاد تازه‌ای از شیوه ارتباط‌گیری و فعالیت‌های نفوذی در سرزمین‌های اشغالی را نمایان می‌کند."
-        ],
-        "impact": "افزایش حساسیت نهادهای امنیتی اسرائیل نسبت به روش‌های نوین جاسوسی و جنگ سایبری.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "jpost.com",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50SUg1S0hCU1JONVlNNFUtYTc5WndkU3ZxMnlVcGVVR25vMndqZnZYYjctTUlwdERuTnpjMVVBRi0yMHVDOW95bnNzWVhmb2xuSVN2NGRGVXZxYWR0RER0dG96dU9QaXJnc2t4ZkZYcDkyQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50SUg1S0hCU1JONVlNNFUtYTc5WndkU3ZxMnlVcGVVR25vMndqZnZYYjctTUlwdERuTnpjMVVBRi0yMHVDOW95bnNzWVhmb2xuSVN2NGRGVXZxYWR0RER0dG96dU9QaXJnc2t4ZkZYcDkyQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791013571.0
     }
 ]
