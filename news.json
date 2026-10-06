@@ -1,5 +1,23 @@
 [
     {
+        "id": "5d359b84cd",
+        "title_fa": "شبکه جدید فروش نفت با محوریت سپاه پاسداران",
+        "title_en": "IRGC commander, son helped build new oil-sales network",
+        "summary": [
+            "یک فرمانده ارشد سپاه و فرزندش ساختار جدیدی برای دور زدن تحریم‌ها و فروش نفت ایجاد کرده‌اند.",
+            "این شبکه پنهان، مسیرهای مالی جدیدی برای تأمین منابع مالی نهادهای نظامی فراهم کرده است."
+        ],
+        "impact": "دور زدن تحریم‌های نفتی با شبکه جدید خویشاوندسالارانه",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWDdYbmhIRi1IeldQcEpTQ1Rrei1LVFZGUF9WODFvR3RoMWI5dFFvbGFaSnVCbGpDTzM2aWZCQ0kxVE1LVUJ2Rkd4aUhJc1dkaUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWDdYbmhIRi1IeldQcEpTQ1Rrei1LVFZGUF9WODFvR3RoMWI5dFFvbGFaSnVCbGpDTzM2aWZCQ0kxVE1LVUJ2Rkd4aUhJc1dkaUE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791258080.0
+    },
+    {
         "id": "81e1a4faa4",
         "title_fa": "ازسرگیری پروازهای عراق به ایران با معافیت یک‌ماهه آمریکا",
         "title_en": "Iraq to resume direct flights to Iran on Thursday",
@@ -5462,23 +5480,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTZtYmp4WHJGel9rZ0FpQW5lNWlJbE9pUGwzWTM4RTN4T3VZNnZ5QUlvbHJWSW1KZlhpRkowaVkwUURXUGYwLWVnMl9PeGJwWEZiV0g3LUQ1c2pOV0VUSlVJNWFyNlVzOHNCbFNvS2hXcjl0cUdDc1RRTl9qY2JNTEVPXzVuWFdIXzZ4Y0FiSUlWS1ZfU0R4amN5c3pBSGx3ekxIQXBIcmhMbHMtVFhIZVhtaWtQRUw3YmtTVC1NU3d4dw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790979720.0
-    },
-    {
-        "id": "a88947a941",
-        "title_fa": "وعده انتخاباتی ۹۰ دلاری ترامپ به بازنشستگان آمریکایی",
-        "title_en": "Trump says US to send one-time $90 payment to 20 million seniors enrolled in Medicare",
-        "summary": [
-            "دونالد ترامپ در یک اقدام تبلیغاتی از پرداخت یک‌باره ۹۰ دلار به ۲۰ میلیون شهروند تحت پوشش بیمه درمانی مدیکر خبر داد.",
-            "این اقدام با هدف جلب رضایت طبقه مسن و بازنشسته در آستانه رقابت‌های انتخاباتی انجام می‌شود."
-        ],
-        "impact": "تلاش برای تقویت پایگاه رای ترامپ در میان قشر سالمند آمریکا.",
-        "tag": "آمریکا",
-        "urgency": 2,
-        "sentiment": 0.4,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-us-to-send-one-time-90-payment-to-20-million-seniors-enrolled-in-medicare/ar-AA2dtlGf",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-us-to-send-one-time-90-payment-to-20-million-seniors-enrolled-in-medicare/ar-AA2dtlGf",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790977876.0
     }
 ]
