@@ -311,6 +311,24 @@
         "timestamp": 1791276900.0
     },
     {
+        "id": "10f76798d6",
+        "title_fa": "حضور تیم زمینی سـ پـ ا ه در بلاروس برای مانور مشترک",
+        "title_en": "Iranian IRGC Ground Force team arrives in Belarus for anti-terror drill",
+        "summary": [
+            "تیمی از نیروی زمینی سـ پـ ا ه برای شرکت در تمرین ضدتروریسم سازمان همکاری شانگهای راهی مینسک شد.",
+            "تهران این رزمایش را تلاشی برای مقابله با سیاست منزوی‌سازی غرب و تقویت روابط با متحدان منطقه‌ای و جهانی خود می‌داند."
+        ],
+        "impact": "تلاش حکومت برای نمایش همکاری‌های نظامی با بلوک شرق در سایه فشارهای فزاینده غرب",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610069293",
+        "clean_url": "https://www.iranintl.com/en/202610069293",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791276600.0
+    },
+    {
         "id": "a59adc8d79",
         "title_fa": "پیام کتبی مـجـتبـی خامنه‌ای؛ غیبت ادامه دارد",
         "title_en": "Iran releases new written message from supreme leader",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UREgzUUg5ZVJTcUVZNXVzaFk2N2ZIZDNiR21sNWMxN01fQk85Vi1kUnhTY0xUV1lWMjR0VFQwZEdtRUxkN3JnNHh4aVNkZGlsSGxVVTA2dFRGTEVid0QxcU9Ndkg0N2lSNXNxYWZRNmVxalNXQW9ISEV3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791021934.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "نتایج قرعه‌کشی سوپرانالوتو ایتالیا",
-        "title_en": "Superenalotto, winning combination numbers today October 3",
-        "summary": [
-            "هیچ برنده‌ای برای جایزه بزرگ شش و پنج به علاوه یک در قرعه‌کشی ثبت نشد.",
-            "مبلغ جایزه بزرگ برای قرعه‌کشی بعدی به ۳۶ میلیون یورو افزایش یافت."
-        ],
-        "impact": "تغییر خاصی در بازارهای مالی ایجاد نمی‌کند و صرفاً یک رویداد سرگرمی است.",
-        "tag": "سرگرمی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261004KRONOS-202610121450322703_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1791021600.0
     }
 ]
