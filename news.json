@@ -166,6 +166,25 @@
         "timestamp": 1791253117.0
     },
     {
+        "id": "1dbc4c415e",
+        "title_fa": "صدور حکم اعدام برای یکی از بازداشت‌شدگان اعتراضات",
+        "title_en": "Iran sentences 38-year-old to death as January protest executions mount",
+        "summary": [
+            "دستگاه قضایی ج.ا حکم اعدام عباسین را در زندان شیروان ابلاغ کرد.",
+            "این متهم سیاسی از حق داشتن وکیل انتخابی و ملاقات با خانواده محروم بوده است.",
+            "گزارش‌ها حاکی از اعمال شکنجه شدید در دوران بازداشت این شهروند است."
+        ],
+        "impact": "تشدید روند سرکوب و احکام اعدام برای ایجاد فضای ارعبار در جامعه",
+        "tag": "حقوق‌بشر",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610064931",
+        "clean_url": "https://www.iranintl.com/en/202610064931",
+        "image": "http://www.bing.com/th?id=ONUT.VyW6rshBpYbhtUOgr3UxEQ&pid=News",
+        "timestamp": 1791250560.0
+    },
+    {
         "id": "80d499e418",
         "title_fa": "جنگ رسانه‌ای در آمریکا و تلاش برای مهار دوباره ترامپ",
         "title_en": "Larry Elder",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202610038850",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/db8c678b875e518c77848a2c76890620ee8c973b-800x524.jpg?rect=129,64,620,326&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790996460.0
-    },
-    {
-        "id": "9259fbe199",
-        "title_fa": "جنگ با ایران، پاشنه آشیل انتخاباتی ۲۰۲۶ آمریکا",
-        "title_en": "Nate Silver reveals the ‘biggest electoral story of 2026’ — and it’s bad news for Trump.",
-        "summary": [
-            "تحلیلگران انتخاباتی معتقدند پرونده نظامی ایران به بزرگترین چالش سیاسی آینده تبدیل می‌شود.",
-            "این مناقشه می‌تواند معادلات سیاسی کنگره را به زیان حزب حاکم تغییر دهد."
-        ],
-        "impact": "تأثیرگذاری مستقیم سیاست خارجی بر نزاع‌های انتخاباتی داخلی آمریکا.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "MassLive",
-        "url": "https://www.masslive.com/politics/2026/10/nate-silver-reveals-the-biggest-electoral-story-of-2026-and-its-bad-news-for-trump.html",
-        "clean_url": "https://www.masslive.com/politics/2026/10/nate-silver-reveals-the-biggest-electoral-story-of-2026-and-its-bad-news-for-trump.html",
-        "image": "http://www.bing.com/th?id=ONUT.NM14K7sPu_0QeDMU0S5kfA&pid=News",
-        "timestamp": 1790996400.0
     }
 ]
