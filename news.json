@@ -238,6 +238,24 @@
         "timestamp": 1791276900.0
     },
     {
+        "id": "a59adc8d79",
+        "title_fa": "پیام کتبی مـجـتبـی خامنه‌ای؛ غیبت ادامه دارد",
+        "title_en": "Iran releases new written message from supreme leader",
+        "summary": [
+            "رسانه‌های حکومتی پیامی از مـجـتبـی خامنه‌ای به مناسبت مرگ یکی از چهره‌های سیاسی منتشر کردند.",
+            "از زمان آغاز رهبری مـجـتبـی خامنه‌ای پس از مرگ پدرش، هیچ تصویر تایید شده یا حضور عمومی از او ثبت نشده است."
+        ],
+        "impact": "تلاش سیستم برای حفظ ظاهر کنترل امور در سایه غیبت مستمر رهبر جدید.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610069326",
+        "clean_url": "https://www.iranintl.com/en/202610069326",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791276420.0
+    },
+    {
         "id": "7f1a66f2ab",
         "title_fa": "دستگیری عوامل ترور و جاسوسی سایبری ضد انقلاب در لندن",
         "title_en": "Three Iranians spied on Iran International journalists in UK, prosecutors say",
@@ -329,6 +347,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXNRSlg4RFU5UjlUTF9FZU1kNG9icjM4M1I0WWlScFNNRFZVa241bEl4aG01R3NLWUZ4dzdNcWNxbkdnSTd2eFl3ZTQ4Nk9DR2RKTmpWaE9laWhqcW1wLWpENjVhRDMwdk5Tc2xFRUtFZ01VUVZyRUlqN1JNdTViUElNYTh2czctREJqbjdOejlLZw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791270060.0
+    },
+    {
+        "id": "b74a52d387",
+        "title_fa": "پیامدهای منطقه‌ای تنش نظامی و بحران انرژی",
+        "title_en": "Iran's moment of opportunity",
+        "summary": [
+            "حملات نظامی اخیر آمریکا و اسرائیل به ایران و کشته شدن علی خامنه‌ای، منطقه را به مرز انفجار رساند.",
+            "بسته‌شدن تنگه هرمز و حملات متقابل به پایگاه‌های آمریکا، هزینه‌های سنگینی به اقتصاد جهانی و امنیت کشورهای عربی تحمیل کرد."
+        ],
+        "impact": "جهش قیمت انرژی و ناامنی پایدار در شریان‌های حیاتی نفت جهان.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1197353/opinion/international/irans-moment-of-opportunity",
+        "clean_url": "https://www.omanobserver.om/article/1197353/opinion/international/irans-moment-of-opportunity",
+        "image": "https://www.omanobserver.om/theme_omandailyobserver/images/social-image.jpg",
+        "timestamp": 1791265500.0
     },
     {
         "id": "afa7a91a37",
@@ -5449,42 +5485,5 @@
         "clean_url": "https://www.israelnationalnews.com/news/434034",
         "image": "https://2.a7.org/files/pictures/000/1212901.jpg",
         "timestamp": 1791015480.0
-    },
-    {
-        "id": "304bf98088",
-        "title_fa": "انفجار مشکوک در تنگه هرمز همزمان با اعتراف به سرکوب‌ها",
-        "title_en": "خبرگزاری فارس، وابسته به سپاه: یک کشتی تجاری در تنگه هرمز هدف قرار گرفت",
-        "summary": [
-            "رسانه وابسته به سپاه از وقوع انفجار و هدف قرار گرفتن یک کشتی تجاری در آب‌های عمان خبر داد.",
-            "گزارش‌های تکمیلی از ابعاد تازه سرکوب خونین خیزش سراسری مردم توسط نهادهای امنیتی پرده برداشت."
-        ],
-        "impact": "ناامنی در مسیرهای حیاتی انرژی و بالا رفتن ریسک حمل و نقل دریایی در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610031564",
-        "clean_url": "https://www.iranintl.com/202610031564",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791015120.0
-    },
-    {
-        "id": "fbdc6dc60b",
-        "title_fa": "نشست اضطراری تیم امنیت ملی ترامپ درباره مواضع ج.ا",
-        "title_en": "Security meeting, military buildup: US weighs next move on Iran?",
-        "summary": [
-            "تیم ارشد امنیت ملی دونالد ترامپ در کمپ دیوید نشستی فوری و بدون اعلام قبلی برگزار کرد.",
-            "هم‌زمان با این نشست، ناوهواپیمابر جدید و هزاران نظامی آمریکایی عازم خاورمیانه شدند.",
-            "بن‌بست در دیپلماسی و افزایش ظرفیت‌های نظامی، گمانه‌زنی‌ها درباره اقدام قاطع آمریکا را بالا برده است."
-        ],
-        "impact": "آرایش نظامی جدید آمریکا، گزینه اقدام نظامی علیه ج.ا را روی میز جدی‌تر قرار داده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610039569",
-        "clean_url": "https://www.iranintl.com/en/202610039569",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791014700.0
     }
 ]
