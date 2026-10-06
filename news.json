@@ -36,6 +36,25 @@
         "timestamp": 1791270779.0
     },
     {
+        "id": "84d425d323",
+        "title_fa": "هشدار ترامپ درباره تهدید اتمی ایران علیه شهرهای آمریکا",
+        "title_en": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+        "summary": [
+            "ترامپ با طرح سناریوی حمله ایران به شهرهای کالیفرنیا، فشار روانی بر تهران را به حداکثر رسانده است.",
+            "این اظهارات نشان‌دهنده تغییر ادبیات ترامپ به سمت تهدیدهای وجودی و امنیتی علیه ج.ا است.",
+            "استفاده از نام شهرهای بزرگ آمریکا در سخنرانی ترامپ، هشداری به افکار عمومی درباره خطر برنامه هسته‌ای ایران است."
+        ],
+        "impact": "افزایش تنش‌های لفظی و احتمال بازگشت سیاست فشار حداکثری در صورت پیروزی ترامپ.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON29pRkdEczdWT2Y4ZW42aV9QQS1sNnl0UmRDMVNIczJ0Ynh3ZlNEOVVpUkd5ZFpSZjQ2MWY2VXNoR1JDRlhHdDdmY2h5UngzUC05VjZkaldUdUZpUjhCWFNudkIyOGJvbEt6UUJYdmpJU1p5VVUzRWM2dV85cnpDRWo5RHlCcUJ1VVFN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON29pRkdEczdWT2Y4ZW42aV9QQS1sNnl0UmRDMVNIczJ0Ynh3ZlNEOVVpUkd5ZFpSZjQ2MWY2VXNoR1JDRlhHdDdmY2h5UngzUC05VjZkaldUdUZpUjhCWFNudkIyOGJvbEt6UUJYdmpJU1p5VVUzRWM2dV85cnpDRWo5RHlCcUJ1VVFN",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791270716.0
+    },
+    {
         "id": "2182a5f22d",
         "title_fa": "خروج فوری بمب‌افکن‌های استراتژیک آمریکا از بریتانیا در پی تهدیدات امنیتی",
         "title_en": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
@@ -656,6 +675,25 @@
         "clean_url": "https://english.alarabiya.net/News/world/2026/10/05/new-delhi-in-talks-with-russia-ukraine-for-black-sea-shipments-indian-minister-says-",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791220200.0
+    },
+    {
+        "id": "8c7aac5baa",
+        "title_fa": "خیزش دانشجویان؛ کابوس جدید برای ج.ا در دانشگاه‌ها",
+        "title_en": "Iran's Generation That Refuses to Be Silenced",
+        "summary": [
+            "اعتراضات دانشگاه علامه نشان داد که نسل جوان ایران دیگر مرعوب فضای امنیتی نمی‌شود.",
+            "شعار «نه پادگان، نه بنگاه» بیانگر مطالبه دانشجویان برای استقلال دانشگاه از نهادهای سرکوبگر است.",
+            "شکاف عمیق بین سبک زندگی نسل جدید و ایدئولوژی حاکم، دانشگاه را به کانون اصلی تقابل تبدیل کرده است."
+        ],
+        "impact": "تداوم اعتراضات دانشجویی، مشروعیت سیاسی حاکمیت را در مراکز علمی به شدت تضعیف می‌کند.",
+        "tag": "اجتماعی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Townhall",
+        "url": "https://townhall.com/columnists/struanstevenson/2026/10/06/irans-generation-that-refuses-to-be-silenced-n2684163",
+        "clean_url": "https://townhall.com/columnists/struanstevenson/2026/10/06/irans-generation-that-refuses-to-be-silenced-n2684163",
+        "image": "https://media.townhall.com/cdn/hodl/2026/278/41edf2a9-245f-4be8-85c4-73d2fc0d89a7-1200x630.jpg",
+        "timestamp": 1791219600.0
     },
     {
         "id": "62409b89c8",
@@ -5441,41 +5479,5 @@
         "clean_url": "https://www.cnn.com/2026/10/03/business/savings-challenge-participant-first-update-mariza-and-geffrey-gordon",
         "image": "http://www.bing.com/th?id=ONUT.OfB_-UkyrrgeY1JAG3qwBQ&pid=News",
         "timestamp": 1790996400.0
-    },
-    {
-        "id": "0e48e15c54",
-        "title_fa": "انتقاد شدید نتانیاهو از سکوت غرب در برابر تهران",
-        "title_en": "نتانیاهو خطاب به بریتانیا: چرا خشم شما متوجه جمهوری اسلامی نمی‌شود؟",
-        "summary": [
-            "نخست‌وزیر اسرائیل از دولت بریتانیا و معترضان غربی پرسید چرا تمرکز اعتراضات به جای جمهوری اسلامی روی اسرائیل است.",
-            "او حاکمیت ایران را متهم کرد که علاوه بر سرکوب شهروندان خود، اقتصاد و انرژی جهان را گروگان گرفته است."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک میان تل‌آویو و دولت‌های غربی بر سر رویکرد در قبال ایران",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610039069",
-        "clean_url": "https://www.iranintl.com/202610039069",
-        "image": "http://www.bing.com/th?id=ONUT.0oirwZu9hxEmXXDTbja3SQ&pid=News",
-        "timestamp": 1790996340.0
-    },
-    {
-        "id": "0be4a80e96",
-        "title_fa": "جلسه محرمانه تیم امنیت ملی ترامپ درباره ایران و یمن",
-        "title_en": "Scoop: Trump's top national security aides meet secretly at Camp David on Iran, Yemen",
-        "summary": [
-            "مشاوران ارشد امنیت ملی دونالد ترامپ در کمپ دیوید نشستی محرمانه برگزار کردند.",
-            "محور اصلی این نشست فوق‌العاده، بررسی پرونده ایران و تحولات یمن بوده است."
-        ],
-        "impact": "آماده‌سازی تیم ترامپ برای اتخاذ تصمیمات سخت‌گیرانه جدید علیه تهران و نیابتی‌هایش در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ04yLVlmSXJITnRJSzBjNlRlZExWTnJNN0piSlNCaGQ4b053VjBCa2xTd0lVYVYwT29PRVNIckplVTFWWjVYMXNJdmpJWEozRmkzVlNKTk1vbVVmX1Zvd29KNzNOaFZfQU5zOUxuYmdGZkhBN0JmQmJ4ZndLdHZTQTIzMkFpdWsy?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ04yLVlmSXJITnRJSzBjNlRlZExWTnJNN0piSlNCaGQ4b053VjBCa2xTd0lVYVYwT29PRVNIckplVTFWWjVYMXNJdmpJWEozRmkzVlNKTk1vbVVmX1Zvd29KNzNOaFZfQU5zOUxuYmdGZkhBN0JmQmJ4ZndLdHZTQTIzMkFpdWsy",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790996285.0
     }
 ]
