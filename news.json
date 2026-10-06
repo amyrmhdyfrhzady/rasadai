@@ -328,6 +328,24 @@
         "timestamp": 1791220200.0
     },
     {
+        "id": "ce1199f400",
+        "title_fa": "فشار ترامپ بر بازار نفت با افزایش عرضه از خلیج فارس",
+        "title_en": "امید شکری: افزایش عرضه نفت از خلیج فارس به کاهش قیمت‌ها کمک کرده است",
+        "summary": [
+            "ترامپ از شکستن رکورد عرضه نفت در تنگه هرمز و کاهش قریب‌الوقوع قیمت‌ها خبر داد.",
+            "کارشناسان انرژی معتقدند این روند نزولی مشروط به کاهش تنش‌های ژئوپلیتیک و ثبات عرضه در ماه‌های آینده است."
+        ],
+        "impact": "افزایش عرضه نفت منطقه، درآمدهای نفتی حکومت را تحت فشار شدیدتر قرار می‌دهد.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610067067",
+        "clean_url": "https://www.iranintl.com/202610067067",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791219600.0
+    },
+    {
         "id": "795db1bb97",
         "title_fa": "چراغ سبز ترامپ به اعدام صحرایی عامل کشتار فورت‌هود",
         "title_en": "ترامپ پیشنهاد تیرباران یک نظامی را که در ۲۰۰۹ سربازان آمریکایی را کشته بود، تایید کرد",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-war-set-to-end-very-quickly-donald-trump/ar-AA2dt8G2",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790976600.0
-    },
-    {
-        "id": "412853325c",
-        "title_fa": "موضع پکن در جنگ احتمالی ایران، آمریکا و اسرائیل",
-        "title_en": "Where does China stand in Iran-US-Israel war?",
-        "summary": [
-            "چین به دنبال حفظ منافع اقتصادی و انرژی خود در خاورمیانه است بدون اینکه هزینه درگیری مستقیم را بپردازد.",
-            "پکن تلاش می‌کند توازن ظاهری را میان تهران و واشنگتن حفظ کند."
-        ],
-        "impact": "سیاست خارجی چین در بحران خاورمیانه بیشتر بر دیپلماسی پنهان و خرید نفت ارزان متمرکز است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Daily Sabah",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmI3RUphWmtOTk5ycnRSSVFaSTBVNTdQV3A5djBYaFFydW1jZWVwWHhYRURJb01VY2F5dko5R2h6MUV6QVpfTTI0T2FhakMyUWVjQjNXSi1NYVc0OHA4WE1ZblZ2WHYxNTFiRTRXbDVYT0MwODdaVWJOajFwSHdKNlBidWo5RjhXSEc0UklHclpfZDZwVnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmI3RUphWmtOTk5ycnRSSVFaSTBVNTdQV3A5djBYaFFydW1jZWVwWHhYRURJb01VY2F5dko5R2h6MUV6QVpfTTI0T2FhakMyUWVjQjNXSi1NYVc0OHA4WE1ZblZ2WHYxNTFiRTRXbDVYT0MwODdaVWJOajFwSHdKNlBidWo5RjhXSEc0UklHclpfZDZwVnc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790975100.0
     }
 ]
