@@ -1,5 +1,23 @@
 [
     {
+        "id": "80d499e418",
+        "title_fa": "جنگ رسانه‌ای در آمریکا و تلاش برای مهار دوباره ترامپ",
+        "title_en": "Larry Elder",
+        "summary": [
+            "افشاگری‌ها درباره گزارش‌های جهت‌دار رسانه‌های چپ علیه ترامپ، عمق شکاف سیاسی در واشنگتن را نشان می‌دهد.",
+            "این درگیری‌های داخلی، تمرکز سیاست خارجی آمریکا را در کوتاه‌مدت تحت تاثیر قرار می‌دهد اما فشار بر رقبای خارجی واشنگتن را کم نخواهد کرد."
+        ],
+        "impact": "تشدید دوقطبی سیاسی در آستانه تصمیم‌گیری‌های کلیدی سیاست خارجی آمریکا.",
+        "tag": "بین‌الملل",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Crescent-News",
+        "url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---cnn-biased-against-trump-surely-you-jest/article_6a6a1402-5b14-4e81-a7df-fa7cef1f7458.html",
+        "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---cnn-biased-against-trump-surely-you-jest/article_6a6a1402-5b14-4e81-a7df-fa7cef1f7458.html",
+        "image": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/b/ab/babf1996-3921-11ed-9a87-dbb3771b4700/632a20d2695aa.image.jpg",
+        "timestamp": 1791248400.0
+    },
+    {
         "id": "b86ecc1791",
         "title_fa": "انگشت اتهام ترامپ به سوی جـ.ـهـ.ـوری اسـ.ـلامـ.ـی در حملات پهپادی",
         "title_en": "Houthis target Riyadh airport, Aramco refinery as Saudi-led coalition strikes Yemen",
@@ -16,6 +34,25 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-war-trump-oil-strait-hormuz-terrorism-october-5",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/d192d649a8f08b2a0ee938666bdc81b0.jpg",
         "timestamp": 1791244680.0
+    },
+    {
+        "id": "77a92de35a",
+        "title_fa": "خط‌ونشان‌های زمانی ترامپ برای برخورد با حکومت ایران",
+        "title_en": "‘About Two Weeks’: New project takes aim at Trump’s shifting Iran war timeline",
+        "summary": [
+            "پروژه جدید رسانه‌ای در آمریکا روی تغییر مداوم ضرب‌الاجل‌های ترامپ برای برخورد با تهران دست گذاشته است.",
+            "این نوسان در گفتار نشان می‌دهد ترامپ فراتر از لفاظی، به دنبال یک استراتژی فشار همه‌جانبه و غیرقابل‌پیش‌بینی است تا تهران را در بلاتکلیفی محض نگه دارد.",
+            "برخی تحلیل‌گران این رفتار را بخشی از دکترین «مرد دیوانه» برای امتیازگیری بدون درگیری مستقیم نظامی می‌دانند."
+        ],
+        "impact": "افزایش بلاتکلیفی در بازار ارز تهران و آماده‌باش پنهان در ساختار نظامی منطقه.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ09KY2Y5YjJZLU5Pa1JidlFBYU9wWldjZTNCSUdobldZV1ZFNGgzZGJJektNTlBaa3VxN1FEbGhuT3cyb2o1WnBkMTU0ejNPeGNveUYzVDhKLVVocmYtU0xSSmpNM1A4M2NqdTUzaGJONTc1MEhvM29zSGQ0Nmh5VmdsdUd6cU1FcVNfcWU2blExY1cwNFBlYzN2dXNPMXJSa1gxdklLUFRwVUVwZDlhZXFGMWlVZmJJbzNr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ09KY2Y5YjJZLU5Pa1JidlFBYU9wWldjZTNCSUdobldZV1ZFNGgzZGJJektNTlBaa3VxN1FEbGhuT3cyb2o1WnBkMTU0ejNPeGNveUYzVDhKLVVocmYtU0xSSmpNM1A4M2NqdTUzaGJONTc1MEhvM29zSGQ0Nmh5VmdsdUd6cU1FcVNfcWU2blExY1cwNFBlYzN2dXNPMXJSa1gxdklLUFRwVUVwZDlhZXFGMWlVZmJJbzNr",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791244017.0
     },
     {
         "id": "53bce5414a",
@@ -5445,41 +5482,5 @@
         "clean_url": "https://www.iranintl.com/202610029371",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/d44044cafd22d295f21b1f1a6cc5287991eae9bf-2174x1410.jpg?rect=0,135,2174,1141&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790974260.0
-    },
-    {
-        "id": "12b838ed8d",
-        "title_fa": "تهدید کشورهای میزبان حملات احتمالی آمریکا و اسرائیل توسط نماینده مجلس",
-        "title_en": "Iran MP threatens punishment for countries aiding US, Israeli attacks",
-        "summary": [
-            "عباس گودرزی سخنگوی هیئت رئیسه مجلس مدعی شد هر کشوری به آمریکا یا اسرائیل اجازه استفاده از خاک خود برای حمله بدهد با مجازاتی متفاوت روبرو می‌شود.",
-            "این مقام حکومتی بار دیگر بر توان موشکی و ادعای داشتن تسلیحات پنهان برای مقابله با دشمنان تأکید کرد."
-        ],
-        "impact": "تشدید جنگ روانی مقامات حکومت در پاسخ به هشدارهای نظامی آمریکا و اسرائیل.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610021497",
-        "clean_url": "https://www.iranintl.com/en/202610021497",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790974140.0
-    },
-    {
-        "id": "cb89996e9f",
-        "title_fa": "ادامه بمباران اهداف وابسته به ج.ا برای نهمین روز متوالی",
-        "title_en": "US Bombs Iran for Ninth Day as Standoff Over Hormuz Deepens",
-        "summary": [
-            "تنش نظامی میان ایالات متحده و نیروهای وابسته به ج.ا در تنگه هرمز وارد فاز بسیار خطرناکی شده است.",
-            "استمرار حملات هوایی نشان می‌دهد اراده واشنگتن برای باز نگه داشتن شریان‌های حیاتی انرژی جدی است."
-        ],
-        "impact": "تشدید بحران در تنگه هرمز قیمت جهانی انرژی را به شدت تحت تاثیر قرار می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1790973702.0
     }
 ]
