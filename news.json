@@ -294,6 +294,24 @@
         "timestamp": 1791233407.0
     },
     {
+        "id": "3f0e8137d2",
+        "title_fa": "هشدار ترامپ درباره نقش ج.ا در پرونده فلای‌دبی",
+        "title_en": "امیر حمیدی: طرح نقش تهران در پرونده فلای‌دبی می‌تواند پیامدهای امنیتی گسترده داشته باشد",
+        "summary": [
+            "دونالد ترامپ شخصاً ج.ا را در حادثه پرواز فلای‌دبی مقصر می‌داند و این موضوع را از یک حرف سیاسی به پرونده امنیتی هوانوردی تبدیل کرده است.",
+            "اگر ردپای س پ ا ه در این ماجرا ثابت شود، آمریکا با تمام ابزارهای دیپلماتیک، اقتصادی و ضدتروریسم فشارها را روی تهران چند برابر می‌کند."
+        ],
+        "impact": "اثبات این اتهام می‌تواند موجی از تحریم‌های سنگین جدید و اقدامات امنیتی علیه مناصب نظامی ج.ا به همراه داشته باشد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610069716",
+        "clean_url": "https://www.iranintl.com/202610069716",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791232680.0
+    },
+    {
         "id": "13b3d7003f",
         "title_fa": "تهدید ج.ا به پاسخ دردناک در صورت حملات مجدد آمریکا",
         "title_en": "Iran Threatens Painful Response if US Renews Attacks",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlk4MTVFTlQxU3VMOWhyT3NQNDE3QnVwaGJqN2RJTEF1NkppajBYU3ZvVDNIUzlIS3NBLWp3UFlzOGJ4UW9IczBEWW4zMUdRQTFabHpnR2hYOU1Mb2dVdlhMMFhoaGt3Q3k0U3A5QVNuMW1CZC0zaG83NUZNbzFKemM4X2NvQ0doRko5Rzh0QlJPenQxRVVvWDFGdU5vSHRLYVliOFF0eUswalNvbmd1WVYzbGpxWEdwWFF1cVFrWmxKR3FwaXg4NGNrYlo",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790992891.0
-    },
-    {
-        "id": "267e7aa750",
-        "title_fa": "مسدودسازی حساب‌های صرافی‌های رمزارز به دلیل دستکاری تتر",
-        "title_en": "Iran to block accounts of crypto exchanges over 'Tether manipulation'",
-        "summary": [
-            "بانک مرکزی ایران برای مهار سقوط آزاد ریال دست به مسدودسازی حساب‌ها زد.",
-            "این اقدام صرافی‌ها را به دستکاری در بازار ارز دیجیتال و نرخ دلار متهم می‌کند."
-        ],
-        "impact": "فلج شدن بیشتر مبادلات مالی خرد و آشفتگی در بازار ارز.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610039559",
-        "clean_url": "https://www.iranintl.com/en/202610039559",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790991000.0
     }
 ]
