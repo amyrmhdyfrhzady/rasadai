@@ -38,6 +38,24 @@
         "timestamp": 1791283170.0
     },
     {
+        "id": "728312a820",
+        "title_fa": "ترامپ: ایران پشت تلاش برای ربایش هواپیمای اسرائیلی است",
+        "title_en": "Trump blames Iran for attempted hijack of Israel plane",
+        "summary": [
+            "دونالد ترامپ مستقیماً حکومت ایران را طراح اصلی عملیات ناکام ربایش هواپیمای متعلق به اسرائیل معرفی کرد.",
+            "این موضع‌گیری تند می‌تواند فشارها بر تهران را به شدت افزایش دهد."
+        ],
+        "impact": "افزایش تنش‌های امنیتی و سیاسی میان ایالات متحده، اسرائیل و ایران",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo News New Zealand",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU1CeHRILUs3MVVhQzJFTWo2dXFaOEN2R3I2ZnI4NGJ6UEtVRTNGOVA0LVhJS25vSzkzV2UzRFBmRTlINWZialNMcThIRng5ampGSTJWWXNVcVNiSUxSZG9DZU9mTWpUZ1RDQ3dBTFVyaVpwNm52NUF6Sy1KbFdGSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZU1CeHRILUs3MVVhQzJFTWo2dXFaOEN2R3I2ZnI4NGJ6UEtVRTNGOVA0LVhJS25vSzkzV2UzRFBmRTlINWZialNMcThIRng5ampGSTJWWXNVcVNiSUxSZG9DZU9mTWpUZ1RDQ3dBTFVyaVpwNm52NUF6Sy1KbFdGSA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791283031.0
+    },
+    {
         "id": "c79d83af2c",
         "title_fa": "محاصره دریایی ایران؛ سنتکام ۱۳ شناور را نابود کرد",
         "title_en": "CENTCOM Destroys 13 Vessels and Reroutes 130 Ships Enforcing Maritime Blockade on Iran",
@@ -55,6 +73,24 @@
         "clean_url": "https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran",
         "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/1536x864_cmsv2_9a6119df-c6c4-5076-9d54-cddc11fc7f67-9794294_lTen__v1024x512__box_0,29,1536,836.jpeg",
         "timestamp": 1791280320.0
+    },
+    {
+        "id": "c8dcbf9ebe",
+        "title_fa": "ع عقب‌نشینی نفت از اوج‌های اولیه",
+        "title_en": "Crude Oil Pares Early Gains",
+        "summary": [
+            "بهای نفت خام پس از ثبت رشد در ساعات اولیه معاملات، بخشی از سود خود را از دست داد.",
+            "بازار انرژی همچنان زیر سایه سنگین تحولات خاورمیانه و نوسانات تقاضا نوسان می‌کند."
+        ],
+        "impact": "تثبیت نسبی قیمت‌ها در بازارهای جهانی انرژی باوجود تنش‌ها",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzdaLXFnaVViR0hva1RuVHJkVzFRakpFUlRUZmsyUHZHM3h4OG9vYXdhejV5RGlmY2VURnFUQmNoYTk4MW5Jb0Y5ZnpGSkNTR1RwbHRMSkpia2pkVnNIX0dtUlRNR1VoV2FsbnVaSEx1T3gtc01FcEY5VzRjMmtRZ1JuY2djS0pOQ0JVQXNvaWFCeTRSVlRoWXBpWGVwb01SOUNrU3VuM2E4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzdaLXFnaVViR0hva1RuVHJkVzFRakpFUlRUZmsyUHZHM3h4OG9vYXdhejV5RGlmY2VURnFUQmNoYTk4MW5Jb0Y5ZnpGSkNTR1RwbHRMSkpia2pkVnNIX0dtUlRNR1VoV2FsbnVaSEx1T3gtc01FcEY5VzRjMmtRZ1JuY2djS0pOQ0JVQXNvaWFCeTRSVlRoWXBpWGVwb01SOUNrU3VuM2E4Zw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791280040.0
     },
     {
         "id": "f55ff5170c",
@@ -5448,41 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56WkJobFRiYW91dEI4MTBNTjVQbUFYV3hpRU96WlBqT2k0bTVpQ28xMHNEVmtwLWtXLVA5Z0JNX0dXRll6c3B0NjJvVWNkalhaMkRIa0FsMElyX3VJRnlLTjNJcUVBRFVhYmwxa1BB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791003234.0
-    },
-    {
-        "id": "2403ee67d5",
-        "title_fa": "امارات پرواز فلای‌دبی را حمله تروریستی دانست",
-        "title_en": "امارات: کمک‌خلبان فلای‌دبی با تبر به خلبان یورش برد و قصد «حمله تروریستی» داشت",
-        "summary": [
-            "دادستان کل امارات حمله کمک‌خلبان با تبر به کاپیتان را تلاش برای اقدام تروریستی توصیف کرد.",
-            "مقامات اماراتی تاکید کردند هیچ مدارایی با افراط‌گرایی و تروریسم نخواهند داشت."
-        ],
-        "impact": "افزایش چالش‌های امنیتی برای خطوط هوایی منطقه و بررسی‌های دقیق‌تر روی پروازها",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/2026100392340",
-        "clean_url": "https://www.iranintl.com/2026100392340",
-        "image": "http://www.bing.com/th?id=ONUT.8iDw_6annSzwXV_Y0iOo9w&pid=News",
-        "timestamp": 1791001200.0
-    },
-    {
-        "id": "a89bf9757b",
-        "title_fa": "هزینه سنگین شهروندان آمریکایی برای انحصار اتمی اس******ئیل",
-        "title_en": "Are Americans paying the Price to preserve Israel’s Nuclear Hegemony?",
-        "summary": [
-            "سیاست‌های حمایتی واشنگتن از تسلیحات اتمی تل‌آویو بار مالی و امنیتی سنگینی برای مردم آمریکا به همراه داشته است.",
-            "تداوم این روند فشار مضاعفی بر مالیات‌دهندگان آمریکایی وارد می‌کند تا امنیت خارجی یک بازیگر خاص را تامین کنند."
-        ],
-        "impact": "افزایش نارضایتی عمومی در آمریکا از هزینه‌های هنگفت سیاست خارجی در خاورمیانه.",
-        "tag": "سیاست خارجی",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Informed Comment",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mNXhkYlZ0WXFuOWpzM0VlNUxtUHlqbFpmUi00OEFKdkFQaWpBOE9UMGQxZHdFS2lOU1JPdmh6MFBGb19OUDJBaE13Uk5oSDNMeUFNSzFzeDBFM3FGNW1mSjUzb25SeURjSk5zWHgwUzU4UnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mNXhkYlZ0WXFuOWpzM0VlNUxtUHlqbFpmUi00OEFKdkFQaWpBOE9UMGQxZHdFS2lOU1JPdmh6MFBGb19OUDJBaE13Uk5oSDNMeUFNSzFzeDBFM3FGNW1mSjUzb25SeURjSk5zWHgwUzU4UnM",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791000360.0
     }
 ]
