@@ -217,6 +217,25 @@
         "timestamp": 1791291180.0
     },
     {
+        "id": "4b5e752333",
+        "title_fa": "ترامپ: اقتصاد ج.ا نابود شده و وزیر نفت استعفا داد",
+        "title_en": "دونالد ترامپ: وزیر نفت ایران استعفا داده و اقتصادشان از بین رفته است",
+        "summary": [
+            "ترامپ وضعیت اقتصادی ایران را بحرانی توصیف کرد و از تورم سه درصدی سخن گفت",
+            "عبور میلیون‌ها بشکه نفت از تنگه هرمز با وجود تنش‌ها ادامه دارد",
+            "آمریکا در حال توسعه زیرساخت‌های نظامی و ساخت کارخانه‌های مهمات‌سازی جدید است"
+        ],
+        "impact": "افزایش فشار روانی بر بازار ارز و تشدید انزوای اقتصادی حاکمیت",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610060171",
+        "clean_url": "https://www.iranintl.com/202610060171",
+        "image": "http://www.bing.com/th?id=ONUT.EZI_0GPDusc3ChnvP5x9zw&pid=News",
+        "timestamp": 1791290760.0
+    },
+    {
         "id": "abd2a892a2",
         "title_fa": "تهدید تلافی‌جویانه ط-ر-ا-ح-ا-ن ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی علیه اسرائیل",
         "title_en": "Iran warns Israel of retaliation as diplomacy struggles to prevent renewed fighting",
@@ -5469,24 +5488,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/firebrand-gop-rep-democrats-side-with-iran-simply-because-they-hate-trump/ar-AA2dv9cy",
         "image": "http://www.bing.com/th?id=ONUT.qZS1qhmTpa_qVyT7BIy28g&pid=News",
         "timestamp": 1791027274.0
-    },
-    {
-        "id": "3d578c3e29",
-        "title_fa": "نتانیاهو: رژیم ج·م·ه·و·ر·ی ا·س·ل·ا·م·ی سقوط خواهد کرد",
-        "title_en": "Iran rial hits record low as US weighs next steps in war",
-        "summary": [
-            "نخست‌وزیر اسرائیل در مصاحبه‌ای تأکید کرد که حکومت تهران به دلیل فشارها و تحریم‌ها سرنگون خواهد شد.",
-            "او از شهروندان ایرانی خواست امید خود را از دست ندهند و به زودی روز آزادی را خواهند دید.",
-            "فشار حداکثری دولت ترامپ و انسداد مالی، سپاه پ·اس·د·ا·ر·ا·ن را به شدت ضعیف کرده است."
-        ],
-        "impact": "سقوط ارزش ریال و تشدید ناامیدی درون بدنه حاکمیت از دوام در برابر تحریم‌ها.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/liveblog/202610033293",
-        "clean_url": "https://www.iranintl.com/en/liveblog/202610033293",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/54cccf6b15a2c494dd24eff9a60fb4f657bbbb41-2145x1430.jpg?rect=0,155,2145,1121&w=1200&h=627&q=66&fit=max&auto=format",
-        "timestamp": 1791027240.0
     }
 ]
