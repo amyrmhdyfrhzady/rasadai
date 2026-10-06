@@ -330,6 +330,25 @@
         "timestamp": 1791228661.0
     },
     {
+        "id": "71b1d94a26",
+        "title_fa": "هشدار صریح ترامپ و تداوم فشار نظامی آمریکا",
+        "title_en": "US-Iran war news: Trump warns Tehran of 'severe consequences', Iran reviews 7-day ceasefire plan",
+        "summary": [
+            "دونالد ترامپ با لحنی تند به حکومت ایران درباره پیامدهای سنگین اقداماتش هشدار داد.",
+            "فرماندهی مرکزی آمریکا از اجرای موثر محاصره دریایی و تغییر مسیر ده‌ها کشتی تجاری خبر داد.",
+            "تهران در حال بررسی یک طرح آتش‌بس هفت روزه است تا شاید راهی برای کاهش فشارهای موجود پیدا کند."
+        ],
+        "impact": "فشار حداکثری دریایی و تهدیدات نظامی، نظام را در تنگنای شدید امنیتی قرار داده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ET Now on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-warns-tehran-of-severe-consequences-iran-reviews-7-day-ceasefire-plan-6-key-updates/ar-AA2dEbrU",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-warns-tehran-of-severe-consequences-iran-reviews-7-day-ceasefire-plan-6-key-updates/ar-AA2dEbrU",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791226712.0
+    },
+    {
         "id": "4a0bc6fa90",
         "title_fa": "رکوردشکنی سود اوراق قرضه آمریکا پس از دو دهه",
         "title_en": "Morning Wrap: ASX 200 to rise, megacap tech lifts Nasdaq to record, Treasury yields climb to 24-year highs",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmhhaXlIcFhPS1pBVURqdWdlZ29iVDlSSTRGdlZWNkJSZFkxVEhEdDlTWE9MSjlpR3NGZGJOTkV5d3V2U2p2SnoxdWItZkRzeEFQcHZBY3UzZ3k4Y0VEZmVsWjBMY2lvcGJGTi1TdW9wdFNHV1dEdzJUcUEtNHFMaURiakFqRVhqOG1LWjhSbl9qTnVFdkxDQm1OcnAxMkdO",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1790984735.0
-    },
-    {
-        "id": "459f852559",
-        "title_fa": "سفر فشرده ترامپ به ایالت‌های سرخ در بحبوحه چالش‌های انتخاباتی",
-        "title_en": "'Double-edged sword': Trump blitzes red states amid plunging popularity",
-        "summary": [
-            "ترامپ سفرهای تبلیغاتی خود را در ایالت‌های سنتاً جمهوری‌خواه متمرکز کرده تا پایگاه رای خود را در برابر نوسانات نظرسنجی‌ها حفظ کند.",
-            "این استراتژی دو لبه، همزمان با تلاش برای بسیج حامیان وفادار، چالش‌های کمپین او را در ایالت‌های خاکستری نشان می‌دهد."
-        ],
-        "impact": "تمرکز کمپین ترامپ بر حفظ ایالت‌های کلیدی برای تضمین آرای الکترال.",
-        "tag": "آمریکا",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/news/politics/elections/2026/10/03/trump-rallies-republican-states-avoids-democrats/92026505007/",
-        "clean_url": "https://www.freep.com/story/news/politics/elections/2026/10/03/trump-rallies-republican-states-avoids-democrats/92026505007",
-        "image": "http://www.bing.com/th?id=ONUT.wsGtn204EWlsKeG3GbiYlQ&pid=News",
-        "timestamp": 1790983620.0
     }
 ]
