@@ -1,5 +1,23 @@
 [
     {
+        "id": "737ee759c7",
+        "title_fa": "درخواست گوترش برای پایان تنش‌های ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی و آمریکا",
+        "title_en": "In Islamabad, Guterres calls for end to US-Iran conflict",
+        "summary": [
+            "دبیرکل سازمان ملل در اسلام‌آباد خواستار توقف فوری درگیری‌های مستقیم و نیابتی بین تهران و واشنگتن شد.",
+            "این درخواست نشان‌دهنده نگرانی نهادهای بین‌المللی از گسترش بی‌ثباتی در منطقه است که می‌تواند به یک درگیری تمام‌عیار تبدیل شود."
+        ],
+        "impact": "تلاش دیپلماتیک برای کاهش فشار نظامی در شرایطی که تنش‌ها به نقطه جوش رسیده است.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "UN News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LYVBUSm1sdE5oRFZaY3BUS3Vhbk8ySkFRakwzM2JiMHNEcmJ6czcyeWp4VDJnNjNCUVd5cUZVZzc4VVlxNHNOTGpSWF9JU2NvSHUyaTNsOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LYVBUSm1sdE5oRFZaY3BUS3Vhbk8ySkFRakwzM2JiMHNEcmJ6czcyeWp4VDJnNjNCUVd5cUZVZzc4VVlxNHNOTGpSWF9JU2NvSHUyaTNsOA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791295069.0
+    },
+    {
         "id": "095c6e4784",
         "title_fa": "واکنش‌ها به اظهارات ترامپ درباره حملات احتمالی به خاک آمریکا",
         "title_en": "Trump sparks criticism with comments on potential Iranian attacks on US cities",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-iran-security-chief-rejects-trump-s-surrender-claim-says-us-president-s-statements-don-t-match-reality/ar-AA2dtTcT",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791012900.0
-    },
-    {
-        "id": "628e6a26f1",
-        "title_fa": "سیل مرگبار در اسپانیا قربانی گرفت",
-        "title_en": "One dead and scores rescued in floods in Spain",
-        "summary": [
-            "بارندگی شدید در جنوب شرقی اسپانیا باعث مرگ یک زن سالخورده و عملیات امداد وسیع شد.",
-            "این رویداد پس از تابستانی رکوردشکن در زمینه گرما رخ داده است."
-        ],
-        "impact": "خسارات سنگین زیرساختی و انسانی در مناطق سیل‌زده.",
-        "tag": "محیط زیست",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/10/03/europe/spain-deadly-floods-rainfall-intl",
-        "clean_url": "https://www.cnn.com/2026/10/03/europe/spain-deadly-floods-rainfall-intl",
-        "image": "http://www.bing.com/th?id=ONUT.YCJhZO_KGPSxJCrIdep9YQ&pid=News",
-        "timestamp": 1791009780.0
     }
 ]
