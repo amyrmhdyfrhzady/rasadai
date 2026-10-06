@@ -438,6 +438,24 @@
         "timestamp": 1791220200.0
     },
     {
+        "id": "0bb9123bda",
+        "title_fa": "دست بالا و فشار حداکثری ت*****پ بر سیستم ای***ران",
+        "title_en": "Trump is gaining the upper hand over Iran. It may not matter",
+        "summary": [
+            "فشار تحریم‌ها و بحران‌های داخلی، اقتصاد حکومت را به شدت زمین‌گیر کرده است.",
+            "مذاکرات غیرمستقیم با میانجی‌گری در جریان است اما واشنگتن همزمان روی گزینه‌های سخت هم حساب می‌کند."
+        ],
+        "impact": "تداوم فضای ابهام و فشار همزمان دیپلماتیک و اقتصادی بر سیستم حاکم.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-gaining-upper-hand-over-040000277.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-gaining-upper-hand-over-040000277.html",
+        "image": "http://www.bing.com/th?id=ONUT.iMLOHQQASNvOB7nZbHMkEg&pid=News",
+        "timestamp": 1791219600.0
+    },
+    {
         "id": "7559b148e8",
         "title_fa": "احیای نسبی صادرات نفت خام از تنگه هرمز",
         "title_en": "وال‌استریت ژورنال: انتقال نفت خام از تنگه هرمز به سه‌چهارم سطح پیش از جنگ بازگشت",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://www.freep.com/story/news/politics/elections/2026/10/03/trump-rallies-republican-states-avoids-democrats/92026505007",
         "image": "http://www.bing.com/th?id=ONUT.wsGtn204EWlsKeG3GbiYlQ&pid=News",
         "timestamp": 1790983620.0
-    },
-    {
-        "id": "2278f1030c",
-        "title_fa": "مجوز احداث راکتورهای هسته‌ای کوچک در تنسی",
-        "title_en": "A new type of small nuclear reactor gets the green light in Tennessee",
-        "summary": [
-            "راکتورهای ماژولار جدید با هدف کاهش هزینه‌ها و موانع ساخت تایید شدند.",
-            "این طرح می‌تواند بحران تأخیر در پروژه‌های اتمی آمریکا را حل کند."
-        ],
-        "impact": "گامی نو در جهت تولید انرژی ارزان و پایدار در صنعت هسته‌ای.",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "The Seattle Times",
-        "url": "https://www.seattletimes.com/nation-world/a-new-type-of-small-nuclear-reactor-gets-the-green-light-in-tennessee/",
-        "clean_url": "https://www.seattletimes.com/nation-world/a-new-type-of-small-nuclear-reactor-gets-the-green-light-in-tennessee",
-        "image": "http://www.bing.com/th?id=ONUT.lJ9XH0ZMR9Frulr8eYqwpQ&pid=News",
-        "timestamp": 1790982900.0
     }
 ]
