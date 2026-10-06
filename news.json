@@ -259,6 +259,24 @@
         "timestamp": 1791255660.0
     },
     {
+        "id": "05800d10b4",
+        "title_fa": "جاسوس‌پروری جمهوری ا... با پلتفرم تلگرامی",
+        "title_en": "Iran turns citizens into informants as chilling crackdown spreads beyond its borders",
+        "summary": [
+            "حکومت با راه‌اندازی سامانه‌ای به نام «الاج»، شهروندان را به خبرچینی علیه یکدیگر و مخالفان خارج از کشور تشویق می‌کند.",
+            "گسترش این شبکه نظارتی نشان می‌دهد که دستگاه امنیتی نگران فعالیت‌های اپوزیسیون در خارج مرزهاست."
+        ],
+        "impact": "افزایش فضای رعب و وحشت و امنیتی‌تر شدن ارتباطات شهروندان با خارج از کشور.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-turns-citizens-into-informants-as-chilling-crackdown-spreads-beyond-its-borders/ar-AA2dFjws",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-turns-citizens-into-informants-as-chilling-crackdown-spreads-beyond-its-borders/ar-AA2dFjws",
+        "image": "http://www.bing.com/th?id=ONUT._nw0F_jLASRBR2MSuEA20Q&pid=News",
+        "timestamp": 1791255637.0
+    },
+    {
         "id": "25465d5a4c",
         "title_fa": "استعفای وزیر نفت در اوج فشارهای تحریم و پیشنهادهای آمریکا",
         "title_en": "Iran’s oil minister resigns as US sends new proposals through mediators",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjN1YldMNk94OHFRWmJ0cUlPM0JfMFRlOEszZFo3amhIUjMxLVFOYk9CcTc0MEUzOU14MzJTSWtQcHlRdGs3SXYyS2lKV0pvRnY3VXgySWpnWDFsMUd5M2hiaEF3UmVyQlU2Z0FocnRaZnVPNzMxd1lsSEFKYTUwb2NYa2ZJWDRRdkJCUy1UNEN1OS1JcHdHUVBPdko1eldIRTQ2UmRVSVk3ZGRRQkV2RlpnSS0zT0dz",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791004582.0
-    },
-    {
-        "id": "09aac7b16f",
-        "title_fa": "فرسایشی شدن جنگ در هفت جبهه مختلف",
-        "title_en": "Three years, seven fronts and no end in sight: Israel's war grinds on",
-        "summary": [
-            "تداوم درگیری‌های نظامی در هفت جبهه مختلف برای سومین سال متوالی",
-            "نبود چشم‌انداز روشن برای پایان بحران و آتش‌بس در منطقه"
-        ],
-        "impact": "افزایش فشار فرسایشی بر توان نظامی و اقتصادی تل‌آویو.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "ynetnews.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56WkJobFRiYW91dEI4MTBNTjVQbUFYV3hpRU96WlBqT2k0bTVpQ28xMHNEVmtwLWtXLVA5Z0JNX0dXRll6c3B0NjJvVWNkalhaMkRIa0FsMElyX3VJRnlLTjNJcUVBRFVhYmwxa1BB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56WkJobFRiYW91dEI4MTBNTjVQbUFYV3hpRU96WlBqT2k0bTVpQ28xMHNEVmtwLWtXLVA5Z0JNX0dXRll6c3B0NjJvVWNkalhaMkRIa0FsMElyX3VJRnlLTjNJcUVBRFVhYmwxa1BB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791003234.0
     }
 ]
