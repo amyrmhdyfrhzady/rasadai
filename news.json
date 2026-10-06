@@ -259,6 +259,24 @@
         "timestamp": 1791263400.0
     },
     {
+        "id": "2462ba93fc",
+        "title_fa": "تجمع هزار نفری دانشجویان کرنل در اعتراض به رسوایی اخلاقی",
+        "title_en": "'No Justice, No Peace': Cornell Students Turn Up The Heat Over Jane Doe Case",
+        "summary": [
+            "بیش از هزار دانشجو و استاد دانشگاه کرنل خواستار برکناری رئیس دانشگاه شدند.",
+            "معترضان خواهان تحقیقات مستقل درباره پرونده تعرض جمعی اعضای یک انجمن به یک دانشجو هستند."
+        ],
+        "impact": "فشار سنگین بر مدیریت دانشگاه برای پاسخگویی و اعمال قوانین سخت‌گیرانه‌تر",
+        "tag": "اجتماعی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/international/no-justice-no-peace-cornell-students-turn-up-the-heat-over-jane-doe-case/videoshow/134737966.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/international/no-justice-no-peace-cornell-students-turn-up-the-heat-over-jane-doe-case/videoshow/134737966.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134737966,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1791261000.0
+    },
+    {
         "id": "598289f9ad",
         "title_fa": "هشدار درباره پاتک تروریستی ج·ا در اوج استیصال",
         "title_en": "Opinion: Iran is losing — that’s why we should expect and prepare for more terrorist attacks",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://www.iranintl.com/202610031028",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791007200.0
-    },
-    {
-        "id": "7ec33933b9",
-        "title_fa": "ادعای تداوم تولید موشک؛ جنگ روانی سپاه در بحران تسلیحاتی",
-        "title_en": "مشاور فرمانده نیروی هوافضای سپاه پاسداران: بدون توقف در حال تامین تسلیحات و موشک هستیم",
-        "summary": [
-            "علی بلالی مدعی شد زنجیره تولید موشک و پهپاد بدون وقفه در داخل کشور فعال است.",
-            "این ادعاها همزمان با افزایش فشارهای خارجی، مصرف داخلی و حفظ روحیه نیروهای نیابتی دارد."
-        ],
-        "impact": "تلاش برای پنهان کردن آسیب‌های تحریم و ضربات نظامی با تکیه بر پروپاگاندا.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610039981",
-        "clean_url": "https://www.iranintl.com/202610039981",
-        "image": "http://www.bing.com/th?id=ONUT.M__OvNarSnJuwZ_B0YKHgQ&pid=News",
-        "timestamp": 1791006960.0
     }
 ]
