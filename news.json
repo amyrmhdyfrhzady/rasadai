@@ -1,5 +1,24 @@
 [
     {
+        "id": "4ce76f6cf9",
+        "title_fa": "شروط تازه واشنگتن برای توافق با تهران",
+        "title_en": "US sets new demands for Iran deal: What are they?",
+        "summary": [
+            "جی دی ونس خواهان کاهش معنادار ظرفیت غنی‌سازی اورانیوم شده است.",
+            "ترامپ هشدار داده است که پایان جنگ هم می‌تواند از راه مسالمت‌آمیز و هم با روش‌های دیگر رقم بخورد.",
+            "مقام‌های ارشد آمریکایی همچنان بر مهار کامل برنامه‌های اتمی پافشاری می‌کنند."
+        ],
+        "impact": "افزایش فشار دیپلماتیک همراه با تهدید نظامی مستقیم بر سر پرونده اتمی",
+        "tag": "اتمی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+        "clean_url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6abbbece3e71c-1790688974.jpg?resize=1920,1440",
+        "timestamp": 1791370680.0
+    },
+    {
         "id": "8c6dfc5c99",
         "title_fa": "بازی دوگانه اروپا؛ تحریم روی کاغذ، دست دادن پشت پرده",
         "title_en": "Sanctions in February, handshakes in September: EU’s flip-flop Iran policy is putting lives at risk",
@@ -343,6 +362,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSTFxZkh3dWdtYjVnMGZLc2FCNzJTbV9wXzZvcjh5VC1JZ2t1d1BNei12ZFN1WlJmeEFpWGxtYkJlV0Z3anBvd20tSDQtUmozcndBa3k5SWdTeU5ENzl3MnNES0M0WEdtRU9ZRzJTd0xTZEV1N3ZmMjhNRWFrZ3RoejhZRFRDem5DSkRoZVRLQ2tDWS1HUUpPb0xB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791344516.0
+    },
+    {
+        "id": "bcb771b896",
+        "title_fa": "شاهزاده رضا پهلوی: صلح پایدار در گرو سقوط ج.ا است",
+        "title_en": "شاهزاده رضا پهلوی: جمهوری اسلامی هم حامی حماس است و هم مردم ایران را در بند نگه داشته است",
+        "summary": [
+            "حکومت ایران به عنوان تامین‌کننده تسلیحات حماس و عامل اصلی بحران منطقه معرفی شد.",
+            "پیوند تاریخی ملت ایران و اسرائیل فراتر از سیاست‌های فعلی حاکمیت توصیف شد.",
+            "تضمین محاکمه عوامل سرکوب و جنایت در ایران آزاد مورد تاکید قرار گرفت."
+        ],
+        "impact": "تقویت گفتمان اپوزیسون برای اتحاد استراتژیک با غرب و تغییر بنیادین ساختار سیاسی",
+        "tag": "اپوزیسیون",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610074070",
+        "clean_url": "https://www.iranintl.com/202610074070",
+        "image": "http://www.bing.com/th?id=ONUT.gv76Op3YzdwSHd4S-Z623A&pid=News",
+        "timestamp": 1791342660.0
     },
     {
         "id": "d4f35b2775",
@@ -5457,42 +5495,5 @@
         "clean_url": "https://www.iranintl.com/202610046608",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791069240.0
-    },
-    {
-        "id": "3162a804ce",
-        "title_fa": "ادعای قالیباف درباره پیام‌های پنهانی آمریکا و خط‌ونشان برای تنگه هرمز",
-        "title_en": "قالیباف: آمریکا اخیرا از طریق میانجی پیشنهادهایی را مطرح کرده است",
-        "summary": [
-            "رئیس مجلس مدعی دریافت پیام‌های پنهانی از واشینگتن شده، اما تداوم امنیت در تنگه هرمز را به عقب‌نشینی آمریکا و پذیرش شروط تهران مشروط کرده است.",
-            "تلفیق تهدید شاهراه ترانزیت انرژی با ادعای آمادگی برای نبرد، مانوری برای ساختن اهرم فشار در برابر سیاست فشار حداکثری است.",
-            "توصیف رفتار آمریکا تحت عنوان «جنگ شناختی» نشان‌دهنده سردرگمی تصمیم‌گیران تهران در مواجهه با استراتژی چماق و هویج واشینگتن است."
-        ],
-        "impact": "تهدید امنیت کشتیرانی در خلیج فارس ریسک بیمه شناورها و تنش در بازار انرژی را بالا می‌برد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610049610",
-        "clean_url": "https://www.iranintl.com/202610049610",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/d1c4656c2138e05129168d51e694640a76d649a3-1280x853.jpg?rect=208,199,1072,563&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791068700.0
-    },
-    {
-        "id": "bbc1a1b073",
-        "title_fa": "جنجال مصرف بودجه دولتی برای تبلیغات شخصی ترامپ",
-        "title_en": "Natalie Harp’s Role in Trump’s Propaganda Blitz Exposed",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد ترامپ از میلیون‌ها دلار بودجه وزارت امنیت داخلی برای ساخت تیزرهای تبلیغاتی شخصی استفاده کرده است.",
-            "نرم‌افزارها و عوامل نزدیک به ترامپ در کاخ سفید نقش مستقیمی در هدایت این پروپاگاندا داشته‌اند."
-        ],
-        "impact": "تشدید اتهامات سوءاستفاده از منابع مالی دولتی برای اهداف سیاسی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/natalie-harps-role-in-trumps-propaganda-blitz-exposed/",
-        "clean_url": "https://www.thedailybeast.com/natalie-harps-role-in-trumps-propaganda-blitz-exposed",
-        "image": "http://www.bing.com/th?id=ONUT.pTYiYCZHVJQeqZcZADbqJg&pid=News",
-        "timestamp": 1791067860.0
     }
 ]
