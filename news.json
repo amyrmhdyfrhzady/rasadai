@@ -330,6 +330,25 @@
         "timestamp": 1791358200.0
     },
     {
+        "id": "102e40aa2e",
+        "title_fa": "تهدید حمله پیش‌دستانه توسط ارتش ج.ا در سایه تردید واشنگتن درباره قدرت در تهران",
+        "title_en": "Iran threatens pre-emptive strikes as US questions who runs Tehran",
+        "summary": [
+            "سخنگوی ارتش از آمادگی برای انجام حمله پیش‌دستانه در صورت نیاز خبر داده است.",
+            "مقامات سپـاه مدعی کنترل شدیدتر بر آبراه استراتژیک تنگه هرمز شده‌اند.",
+            "واشنگتن علناً این سوال را مطرح کرده که چه کسی واقعاً قدرت را در تهران در دست دارد."
+        ],
+        "impact": "افزایش تنش‌های نظامی در خلیج فارس و بالاتر رفتن ریسک امنیتی برای نفت‌کش‌ها",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran/ar-AA2dKCbM",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran/ar-AA2dKCbM",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791356659.0
+    },
+    {
         "id": "95da4a64ec",
         "title_fa": "تهدید آمریکا به اعمال تحریم‌های فلج‌کننده علیه نفت ای-ران",
         "title_en": "US Vows ‘Economic D-Day’ as Iran Threatens to Halt All Oil Exports",
@@ -5473,24 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202610041181",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/2a8f19160fa8844499820e950ba5ebdbb066f0ed-1280x856.jpg?rect=0,92,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791092100.0
-    },
-    {
-        "id": "7bf73d6462",
-        "title_fa": "آموزش نظامی در خیابان‌های تهران؛ واهمه حاکمیت از جنگ",
-        "title_en": "Irán convierte plazas de Teherán en campos de entrenamiento militar para voluntarios",
-        "summary": [
-            "مقام‌های حكومت، میدانی از پایتخت را به پایگاه تمرین رزم برای نیروهای داوطلب تبدیل کرده‌اند.",
-            "برنامه‌ای موسوم به جانفدا برای آماده‌سازی جنگی با استفاده از تسلیحات سنگین اجرا می‌شود.",
-            "حكومت با این نمایش‌ها تلاش می‌کند جامعه را برای شرایط بحرانی آماده کند."
-        ],
-        "impact": "تنش‌آفرینی خیابانی و تلاش حكومت برای نمایش قدرت نظامی در داخل.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "El Comercio",
-        "url": "https://elcomercio.pe/mundo/oriente-medio/iran-convierte-plazas-de-teheran-en-campos-de-entrenamiento-militar-para-voluntarios-donald-trump-estados-unidos-ultimas-noticia/",
-        "clean_url": "https://elcomercio.pe/mundo/oriente-medio/iran-convierte-plazas-de-teheran-en-campos-de-entrenamiento-militar-para-voluntarios-donald-trump-estados-unidos-ultimas-noticia",
-        "image": "http://www.bing.com/th?id=ONUT.nC7Ku7pxavqLxo-ms6IqGg&pid=News",
-        "timestamp": 1791090540.0
     }
 ]
