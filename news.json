@@ -1,5 +1,24 @@
 [
     {
+        "id": "6066dc89af",
+        "title_fa": "فشار ونس بر ج.ا برای کاهش معنادار توان هسته‌ای",
+        "title_en": "Vance presses Iran for 'meaningful' reduction in nuclear capability to end war",
+        "summary": [
+            "جی دی ونس با پیوند زدن جنگ غزه به برنامه اتمی، خواستار عقب‌نشینی واقعی تهران از فعالیت‌های هسته‌ای شد.",
+            "این موضع نشان‌دهنده رویکرد سخت‌گیرانه تیم احتمالی ترامپ برای مهار نفوذ منطقه‌ای و هسته‌ای ج.ا است.",
+            "اظهارات مامدانی در نیویورک نشان می‌دهد که شکاف در افکار عمومی غرب درباره جنگ غزه همچنان به نفع فشار بر متحدان اسرائیل نیست."
+        ],
+        "impact": "افزایش احتمال بازگشت سیاست فشار حداکثری و تحریم‌های سنگین‌تر در صورت پیروزی جمهوری‌خواهان.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-vance-talks-tehran-nuclear-program-10-07-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-vance-talks-tehran-nuclear-program-10-07-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/7c125e5223ef298c4428dbae4068a113.jpg",
+        "timestamp": 1791386460.0
+    },
+    {
         "id": "d3d66c3f2e",
         "title_fa": "سرازیر شدن دلارهای نفتی به جیب نیابتی‌ها برای بازسازی",
         "title_en": "EXCLUSIVE: Lebanon's Hezbollah gets $200 million from Iran to help displaced, sources say",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://www.msn.com/en-ae/news/middleeast/iran-says-strait-of-hormuz-will-not-reopen-until-seven-conditions-are-met/ar-AA2dvYfl",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dwK51.img?w=4579&h=2576&m=4&q=80",
         "timestamp": 1791102127.0
-    },
-    {
-        "id": "b2626ccf2e",
-        "title_fa": "عقب‌نشینی لفاظی‌ها؛ تهران: راه حل نظامی با آمریکا وجود ندارد",
-        "title_en": "Iran FM: There is no military solution to conflict with US",
-        "summary": [
-            "وزیر خارجه ایران اعتراف کرد که تنش با ایالات متحده راه حل نظامی ندارد و باید از مسیر دیگری دنبال شود.",
-            "این موضع‌گیری آشکارا تفاوت لحن دستگاه دیپلماسی را در برابر فشارهای فزاینده نشان می‌دهد."
-        ],
-        "impact": "تلاش برای کاهش تنش‌های نظامی و خرید زمان در برابر فشارهای واشنگتن.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnQxcldLUkhSeDdjRjBneUFaZjlwbkxvYWNnT3docVloRmVSMnlLMTA3Vy1TZUI1Y0VkM0E3TnlEYmtKWExkRl9SeWViNlU5WTI0WVl6RloydEdfVVJOcmZQWlNMOE9sT28tTHBQOFNXVmFoREhkMTdadmNKd1NJeTJpSWVtcjNTZ3Uwcl9ocXpadEtqQ2NnV1lEN2VxMlZkcmlBeHJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnQxcldLUkhSeDdjRjBneUFaZjlwbkxvYWNnT3docVloRmVSMnlLMTA3Vy1TZUI1Y0VkM0E3TnlEYmtKWExkRl9SeWViNlU5WTI0WVl6RloydEdfVVJOcmZQWlNMOE9sT28tTHBQOFNXVmFoREhkMTdadmNKd1NJeTJpSWVtcjNTZ3Uwcl9ocXpadEtqQ2NnV1lEN2VxMlZkcmlBeHJ3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791101266.0
     }
 ]
