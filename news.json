@@ -898,6 +898,24 @@
         "timestamp": 1791331800.0
     },
     {
+        "id": "63234a4caf",
+        "title_fa": "شکست استراتژیک در ادعای بازسازی خاورمیانه توسط نتانیاهو",
+        "title_en": "No to Israeli leadership",
+        "summary": [
+            "ادعاهای نتانیاهو درباره پیروزی در هفت جبهه، بیشتر یک جنگ روانی برای پوشش شکست‌های میدانی است.",
+            "تلاش برای بازسازی نظم منطقه با استفاده از جنگ، با مقاومت جبهه‌های متحد در لبنان و یمن با بن‌بست روبرو شده است."
+        ],
+        "impact": "تضعیف اعتبار سیاسی نتانیاهو در داخل اسرائیل و شکست طرح‌های تغییر نقشه منطقه.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Ahram Online",
+        "url": "https://english.ahram.org.eg/NewsContentMulti/548567/Multimedia.aspx",
+        "clean_url": "https://english.ahram.org.eg/NewsContentMulti/548567/Multimedia.aspx",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791331200.0
+    },
+    {
         "id": "b1a548cf5e",
         "title_fa": "شبکه پولشویی و تـروریـسـم جـمـهـوری اسـلامـی در آمریکای لاتین",
         "title_en": "امیر حمیدی: حضور جمهوری اسلامی در آمریکای لاتین به شبکههای پولشویی و تروریسم گره خورده",
@@ -5476,23 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmQwZjhsX2N2WEdYVC11QkdTODJJOTF3ekdlOXJIcUJMa2dsZWtQeUZwMnlXMkxtcjFTcVpaWF9jSzJwU2hzTV9XQV96MHdQcFNVSlM5clkzYlYzS1E1RENueWtUaEdXZG92OVZRY1RrWEpNWm96ZEFLc1hjMVNNRl9XNW9qMTNxMjZTd3g4V1hXaXJZZk5KaURwNEt5aVRfR0ZmNw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791095625.0
-    },
-    {
-        "id": "bec4f8d0d7",
-        "title_fa": "اعتراف ارتش به نیاز موشکی برای پوشش فاصله هزار کیلومتری",
-        "title_en": "Iran's army says it needs longer-range, faster missiles",
-        "summary": [
-            "ارتش اعلام کرد برای مقابله با نیروهای متخاصم در شعاع هزار کیلومتری، به موشک‌های سریع‌تر و دوربردتر نیاز دارد.",
-            "این اعتراف نشان می‌دهد دکترین نظامی حکومت همچنان بر توسعه تسلیحات دوربرد متمرکز است."
-        ],
-        "impact": "تشدید فشار غرب و متحدان منطقه‌ای برای مهار برنامه‌های موشکی جمهوری اسلامی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/irans-army-says-needs-longer-133331980.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/irans-army-says-needs-longer-133331980.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/3046db9b075f0f35b82d810c94e35984f46a63e8b40b633d7bac94bc0c453972/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fce88607179b3bf7ce0171ac8c154cced.jpg",
-        "timestamp": 1791095580.0
     }
 ]
