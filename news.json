@@ -1,5 +1,24 @@
 [
     {
+        "id": "418cad558a",
+        "title_fa": "واکنش تهران به گزارش‌های آژانس و بحران در تنگه هرمز",
+        "title_en": "US-Iran War Live Updates: Trump says 'nobody knows' who is running Iran",
+        "summary": [
+            "یک نماینده مجلس در تهران، رافائل گروسی را به ارائه گزارش‌های نادرست و ایجاد بهانه برای حمله به تاسیسات ایران متهم کرد.",
+            "مقام‌های سابق تایید کردند که تنگه هرمز عملاً با اختلالات جدی روبه‌روست و امنیت کشتیرانی در خطر است.",
+            "دونالد ترامپ با تردید نسبت به وضعیت ساختار قدرت در تهران، اعلام کرد که مشخص نیست چه کسی واقعاً کشور را اداره می‌کند."
+        ],
+        "impact": "افزایش تنش‌های اتمی و تهدید امنیت انرژی در آب‌های استراتژیک منطقه",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-saudi-yemen-houthis-strait-of-hormuz-trump-latest-news/liveblog/134748685.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-saudi-yemen-houthis-strait-of-hormuz-trump-latest-news/liveblog/134748685.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134748685,width-1280,height-720,imgsize-17860,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1791358200.0
+    },
+    {
         "id": "3402e4f02d",
         "title_fa": "فعالیت دوباره در تاسیسات هسته‌ای هدف‌گرفته‌شده توسط اسرائیل",
         "title_en": "Satellite Images Show Renewed Activity at Iran Nuclear Weapons Site Struck by Israel",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaExWM21CTXlQUDlieElzSktxc0xtbEZvWjdTOXlSS2ZYQUd0VXdGc2lWTWxjRGdyWFVQY3A5UzZpVE1vaXptTl81eDg5YUZLX1Y5dUg4OUJqN05Jbi1kZ1NwYzhBSFg5R1gzT3kzUURzZlFKZk1oMWh1N21vWjlGdzRBWXU4VlNWbzF3Q0E5T3JNQWhaUWk4US1oTEFDWS1KVVJEaw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791047025.0
-    },
-    {
-        "id": "eefbdad8e7",
-        "title_fa": "اشتراک‌گذاری اطلاعات محرمانه هسته‌ای ج.ا توسط نتانیاهو با رهبر امارات",
-        "title_en": "Netanyahu shared new intelligence on Iran’s nuclear ambitions with UAE leader, source says",
-        "summary": [
-            "نخست‌وزیر اسرائیل اطلاعات جدیدی درباره برنامه‌های اتمی تهران به مقام ارشد امارات منتقل کرده است.",
-            "این اقدام در راستای هماهنگی منطقه‌ای برای مقابله با تهدیدات اتمی جمهوری اسلامی انجام شده است."
-        ],
-        "impact": "افزایش همگرایی امنیتی میان اسرائیل و کشورهای عربی حوزه خلیج فارس علیه تهران.",
-        "tag": "دیپلماتیک",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "egyptindependent.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGFOUmZiaVFSWThaUnJTY3hXakJ2YlFldFFyeG53ZlRnS1h5cDV5bmd6U1RyTU9JZzlUU0ZxUmtQVFRTbGJrU0M5b0tTSFl1ZkxMNDZvSFVOQkc4d1lfZVIwaWozWXNOMnBsM21YYk5uVHFCYllCLUJ2OHBkVkl3aXFkT3FsQlV0SDBHdVRrVk96V3dNc3FCNGlCd2V2UG1CeDFvX25DenpveFB0UmswbklFWHN0RUd5bEpkWk96NA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGFOUmZiaVFSWThaUnJTY3hXakJ2YlFldFFyeG53ZlRnS1h5cDV5bmd6U1RyTU9JZzlUU0ZxUmtQVFRTbGJrU0M5b0tTSFl1ZkxMNDZvSFVOQkc4d1lfZVIwaWozWXNOMnBsM21YYk5uVHFCYllCLUJ2OHBkVkl3aXFkT3FsQlV0SDBHdVRrVk96V3dNc3FCNGlCd2V2UG1CeDFvX25DenpveFB0UmswbklFWHN0RUd5bEpkWk96NA",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791046929.0
     }
 ]
