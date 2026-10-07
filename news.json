@@ -220,6 +220,24 @@
         "timestamp": 1791388396.0
     },
     {
+        "id": "672d12fb73",
+        "title_fa": "فشار کاخ سفید بر سنتکام برای تهیه طرح حمله به ایـران پیش از انتخابات",
+        "title_en": "آتلانتیک: کاخ سفید خواستار تهیه گزینه‌های حمله به ایران پیش از انتخابات میان‌دوره‌ای شد",
+        "summary": [
+            "دونالد ترامپ با هدف کاهش قیمت بنزین و کسب امتیاز سیاسی پیش از انتخابات میان‌دوره‌ای، به دنبال گزینه‌های نظامی علیه حـکـومـت ایـران است.",
+            "مقام‌های آمریکایی اذعان دارند که حملات محدود تأثیری بر تغییر رفتار تـهـران یا کاهش واقعی قیمت سوخت نخواهد داشت."
+        ],
+        "impact": "افزایش شدید تنش‌های نظامی و خطر درگیری در آستانه انتخابات آمریکا.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610070734",
+        "clean_url": "https://www.iranintl.com/202610070734",
+        "image": "http://www.bing.com/th?id=ONUT.EwujYSkBdRmVmY97k3wzBw&pid=News",
+        "timestamp": 1791386940.0
+    },
+    {
         "id": "6066dc89af",
         "title_fa": "فشار ونس بر ج.ا برای کاهش معنادار توان هسته‌ای",
         "title_en": "Vance presses Iran for 'meaningful' reduction in nuclear capability to end war",
@@ -605,6 +623,24 @@
         "timestamp": 1791372360.0
     },
     {
+        "id": "0f1830fd96",
+        "title_fa": "بحران قیمت گازوئیل و ورشکستگی شرکت‌های حمل‌ونقل در آمریکا",
+        "title_en": "Nationwide Trucking Company Files for Bankruptcy Amid Diesel Price Shock",
+        "summary": [
+            "قیمت بالای سوخت فشار سنگینی بر صنعت لجستیک آمریکا وارد کرده و موجی از ورشکستگی‌ها را رقم زده است.",
+            "میانگین قیمت گازوئیل نسبت به سال گذشته رشد چشمگیری داشته و شرکت‌های باربری را زمین‌گیر کرده است."
+        ],
+        "impact": "اختلال در زنجیره تأمین و افزایش تورم بخش لجستیک.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/nationwide-trucking-company-files-for-bankruptcy-amid-diesel-price-shock-12536548",
+        "clean_url": "https://www.newsweek.com/nationwide-trucking-company-files-for-bankruptcy-amid-diesel-price-shock-12536548",
+        "image": "http://www.bing.com/th?id=ONUT.--wy1ortZ0lyzN2jlBV7pg&pid=News",
+        "timestamp": 1791370860.0
+    },
+    {
         "id": "39208fc225",
         "title_fa": "شکستن انحصار نفت ای-ران توسط عراق در بازار چین",
         "title_en": "China's turn to Iraqi crude shows growing impact of Iran oil blockade",
@@ -915,6 +951,42 @@
         "clean_url": "https://www.iranintl.com/202610076683",
         "image": "http://www.bing.com/th?id=ONUT.wjaNyUv-NaoKb30y5JHHIg&pid=News",
         "timestamp": 1791359940.0
+    },
+    {
+        "id": "99871a386a",
+        "title_fa": "هشدار اتحادیه مهمانداران درباره طرح جنجالی ترامپ در فرودگاه واشنگتن",
+        "title_en": "Flight attendants’ union flags safety concerns over Trump’s Washington arch",
+        "summary": [
+            "اتحادیه مهمانداران هواپیما نسبت به خطرات امنیتی طاق پیروزی پیشنهادی ترامپ در مسیر فرودگاه هشدار دادند.",
+            "این طرح نظامی‌سازی فضای پروازی را مانعی خطرناک برای پروازهای تجاری می‌دانند."
+        ],
+        "impact": "افزایش چالش‌های حقوقی و ایمنی برای پروژه‌های جنجالی دولت.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/10/07/trump-triumphal-arch-union-safety-concerns/",
+        "clean_url": "https://www.bostonherald.com/2026/10/07/trump-triumphal-arch-union-safety-concerns",
+        "image": "http://www.bing.com/th?id=ONUT.R6cb_jwWfUFL590PYbPOww&pid=News",
+        "timestamp": 1791359520.0
+    },
+    {
+        "id": "205680e89f",
+        "title_fa": "جهش بازده اوراق قرضه آمریکا به بالاترین سطح از سال ۲۰۰۲",
+        "title_en": "AI boom and soaring debt push U.S. Treasury yields to highest levels since 2002",
+        "summary": [
+            "رشد بدهی‌های ملی و رونق هوش مصنوعی بازده اوراق خزانه‌داری آمریکا را به رکوردهای دو دهه گذشته رساند.",
+            "با وجود فروش گسترده اوراق، تقاضای قوی در حراج اخیر کمی بازار را آرام کرد."
+        ],
+        "impact": "افزایش هزینه‌های استقراض و فشار بر بازارهای مالی جهانی.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/markets/treasury-yields-hit-24-year-highs-global-sell-accelerates-rcna602045",
+        "clean_url": "https://www.nbcnews.com/business/markets/treasury-yields-hit-24-year-highs-global-sell-accelerates-rcna602045",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-Treasury-Department-Building-ch-0952-13faef.jpg",
+        "timestamp": 1791359220.0
     },
     {
         "id": "298071420e",
@@ -5422,78 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791136842.0
-    },
-    {
-        "id": "5c993709db",
-        "title_fa": "تکذیب اتهامات هسته‌ای و مواد مخدر توسط مراجع حکومتی",
-        "title_en": "Iran refutes ‘Big Lies’ on nuclear program, drug production",
-        "summary": [
-            "مقام‌های تهران ادعاهای مطرح شده درباره برنامه‌های اتمی و قاچاق مواد مخدر را دروغ بزرگ خواندند.",
-            "این موضع‌گیری در واکنش به فشارهای بین‌المللی و برای خنثی‌سازی جنگ روانی غرب اتخاذ شده است."
-        ],
-        "impact": "تلاش ناکام دستگاه تبلیغاتی حکومت برای کاهش فشار سنگین پرونده‌های اتمی.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Tehran Times",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWFnZFQxczdkTm5zdXJKbTB5WG5KYVQzMEZickJkai1RWjgwVy1sbGRVbU9YZmRVYVZQYktHTXdHWElpWHNfWjB6OEFOSmVRbkFENFlJUXdWRlJPbk54b3Zrd0UwRUVVMzJ6aXk2cUNvaGp0emp6Ync3RXlFQkp0OE52anpKbkJXQnhjUXlBNEZqdTEwT2FDcnpzR0s?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWFnZFQxczdkTm5zdXJKbTB5WG5KYVQzMEZickJkai1RWjgwVy1sbGRVbU9YZmRVYVZQYktHTXdHWElpWHNfWjB6OEFOSmVRbkFENFlJUXdWRlJPbk54b3Zrd0UwRUVVMzJ6aXk2cUNvaGp0emp6Ync3RXlFQkp0OE52anpKbkJXQnhjUXlBNEZqdTEwT2FDcnpzR0s",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791136125.0
-    },
-    {
-        "id": "285f65be4d",
-        "title_fa": "تشدید فشار واشنگتن بر خریداران نفت جـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی",
-        "title_en": "US Treasury to Broaden Scope of Secondary Sanctions on Iran, Source Says",
-        "summary": [
-            "خزانه داری آمریکا به دنبال بستن مسیرهای دور زدن تحریم‌های نفتی است.",
-            "هدف اصلی این اقدام، قطع کامل درآمدهای ارزی و فلج کردن ماشین مالی حکومت است."
-        ],
-        "impact": "این تصمیم فروش نفت را برای جـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی به شدت سخت‌تر و پرهزینه‌تر می‌کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZTTXM1eEI1WWI3c2UwSUo0Y3VzOWFaMG5hWk1CQ2RWc1RSYUdHNkxJeFZMVHQ4VWJic2pHeHJkNWMtcF9BaXVQY2JzYnZpTlZDQ1I0OXRXR19ZU2hNNG9vTnRJc2Vjc2dJSENPYTFwZGE5aURkdWRua2FMWGhIbTFQUnN1eks2LTVhazdUTjcxWEpyMUVuT1JqQUdlMlRFcTh2dg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZTTXM1eEI1WWI3c2UwSUo0Y3VzOWFaMG5hWk1CQ2RWc1RSYUdHNkxJeFZMVHQ4VWJic2pHeHJkNWMtcF9BaXVQY2JzYnZpTlZDQ1I0OXRXR19ZU2hNNG9vTnRJc2Vjc2dJSENPYTFwZGE5aURkdWRua2FMWGhIbTFQUnN1eks2LTVhazdUTjcxWEpyMUVuT1JqQUdlMlRFcTh2dg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791134055.0
-    },
-    {
-        "id": "490c96fc31",
-        "title_fa": "مهار انرژی جهان؛ تسلط تـ.ـهـ.ـران بر تنگه باب‌المندب",
-        "title_en": "How a Houthi Blockade in the Red Sea Tightens Iran’s Grip on Global Energy Supplies",
-        "summary": [
-            "بسته شدن دریای سرخ توسط حوثی‌ها به ابزاری برای قدرت‌نمایی تـ.ـهـ.ـران تبدیل شده است.",
-            "اختلال در مسیرهای کلیدی انرژی، بازار جهانی را تحت فشار شدید قرار داده است."
-        ],
-        "impact": "افزایش ریسک و هزینه انتقال انرژی در مسیرهای بحرانی دریای سرخ",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJndXMtbHRQb1Q1YnhKMk1vdGtSUG5GWGdDZHRMOUFwbVVDM3V0OHVCTzVhemt2clNmZFFTUjRKa05kdFNLYUNrTU9fQ1dHQnpCLWJ5YzFqazJESlhBOGtCU1F0MlVaVHBzbG5Bcmx3b1ZNS0E3X2pkNTF5TXVIUC1KMVJqNUNHZThmNF83T05jUHN5QzFlMmU1SzBpMkJQVWdUSFJlbGNXUVgxdGJ3cFN1dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJndXMtbHRQb1Q1YnhKMk1vdGtSUG5GWGdDZHRMOUFwbVVDM3V0OHVCTzVhemt2clNmZFFTUjRKa05kdFNLYUNrTU9fQ1dHQnpCLWJ5YzFqazJESlhBOGtCU1F0MlVaVHBzbG5Bcmx3b1ZNS0E3X2pkNTF5TXVIUC1KMVJqNUNHZThmNF83T05jUHN5QzFlMmU1SzBpMkJQVWdUSFJlbGNXUVgxdGJ3cFN1dw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791134052.0
-    },
-    {
-        "id": "4005faa1be",
-        "title_fa": "آماده‌سازی نظامی آمریکا برای دور جدید تقابل در منطقه",
-        "title_en": "امیر گیتی: آمریکا توان سپاه برای ایجاد اختلال موثر در تنگه هرمز را کاهش داده است",
-        "summary": [
-            "ارتش آمریکا توان عملیاتی جـ.ـبـ.ـهـ.ـوری اسـ.ـلامـ.ـی برای ایجاد اختلال در تنگه هرمز را به شدت محدود کرده است.",
-            "استقرار ناوهای جدید و اعزام هزاران نیروی تازه نفس نشان می‌دهد واشینگتن گزینه نظامی را روی میز نگه داشته است.",
-            "دونالد ترامپ با عبارت «خواهید دید» پالس آغاز مرحله جدیدی از تنش‌ها را مخابره کرده است."
-        ],
-        "impact": "بازار ارز و سرمایه خود را برای شوک ناشی از احتمال درگیری نظامی آماده می‌کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610053104",
-        "clean_url": "https://www.iranintl.com/202610053104",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791133200.0
     }
 ]
