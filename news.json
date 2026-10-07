@@ -55,6 +55,25 @@
         "timestamp": 1791394860.0
     },
     {
+        "id": "cdec49ac33",
+        "title_fa": "دخالت آشکار سپاه در انتخابات آمریکا با نامه سرگشاده",
+        "title_en": "Iranian Revolutionary Guard Corps Endorses Dems in Midterms",
+        "summary": [
+            "سپاه پاسداران در اقدامی کم‌سابقه با انتشار نامه ای طولانی از رای‌دهندگان آمریکایی خواست سیاست های ترامپ را رد کنند",
+            "مقامات تهران مدعی شدند این پیام برای ارتباط مستقیم با مردم آمریکا و نه تاثیرگذاری بر معادلات سیاسی صادر شده است",
+            "در این بیانیه بر توقف حمایت آمریکا از اسرائیل و جنگ های خارجی تاکید شده است"
+        ],
+        "impact": "تلاش مذبوحانه برای یارگیری در داخل آمریکا همزمان با تشدید فشار حداکثری",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "conservativebrief",
+        "url": "https://conservativebrief.com/endorse-dem-104939/",
+        "clean_url": "https://conservativebrief.com/endorse-dem-104939",
+        "image": "https://conservativebrief.com/wp-content/uploads/2026/10/Kayleigh-McEnany.jpg",
+        "timestamp": 1791393180.0
+    },
+    {
         "id": "8df6991f08",
         "title_fa": "ادعای ترامپ درباره تن دادن تهران به بازرسی‌های اتمی",
         "title_en": "Trump Insists Iran Has Agreed to Nuclear Inspections",
@@ -5476,23 +5495,5 @@
         "clean_url": "https://www.iranintl.com/202610040831",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791122280.0
-    },
-    {
-        "id": "708c67c148",
-        "title_fa": "اعتراف مقام ارشد امنیتی به بحران اقتصادی در ایـران",
-        "title_en": "Iran’s Top Security Official Warns of Dire Economic Crisis",
-        "summary": [
-            "مقام ارشد امنیتی جـمهوری اسـلامی نسبت به وضعیت وخیم اقتصادی هشدار داد.",
-            "شکست سیاست‌های اقتصادی و فشار تحریم‌ها سیستم داخلی را به نقطه بحرانی رسانده است."
-        ],
-        "impact": "فروپاشی بیشتر ارزش پول ملی و افزایش ناآرامی‌های معیشتی.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791122217.0
     }
 ]
