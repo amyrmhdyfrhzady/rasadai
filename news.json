@@ -55,6 +55,24 @@
         "timestamp": 1791414000.0
     },
     {
+        "id": "5253cddcaa",
+        "title_fa": "چرخش از دیپلماسی رسمی تا حمایت از گروه‌های مسلح",
+        "title_en": "از احترام سادات به شاه تا نامگذاری خیابانی به نام قاتلش؛ سیاست ایران چگونه تغییر کرد؟",
+        "summary": [
+            "مقایسه دو تصویر تاریخی از حضور انور سادات در مراسم خاکسپاری شاه سابق و نامگذاری خیابانی در تهران به نام قاتل او",
+            "تغییر بنیادین رویکرد منطقه‌ای از تعامل با دولت‌های عربی به تکیه بر شبکه گروه‌های نیابتی و مسلح پس از انقلاب ۵۷"
+        ],
+        "impact": "تثبیت انزوای منطقه‌ای حکومت از طریق ترجیح دادن گروه‌های مسلح به دیپلماسی دولتی",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610072614",
+        "clean_url": "https://www.iranintl.com/202610072614",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/48e819cc503af3d183d14922ec537101374a344f-1280x720.jpg?w=576&h=324&q=58&fit=max&auto=format",
+        "timestamp": 1791411360.0
+    },
+    {
         "id": "a37910bc9e",
         "title_fa": "اتهام به نتانیاهو؛ کشیدن آمریکا به جنگ با ایران",
         "title_en": "El-Sayed says Netanyahu pushed US into Iran war",
@@ -5473,24 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMXVGbVZBVUlENlUtNVRvM3paN24tQl9IUkxfVnFnekUtSkJXbnN5M3hwa2s4cTBYc0VtSGM1bDA1dWxQb3FZRGIwTnhmSlFrWHE2V0JoekRqNmx1VzNYb1FORXNVbmlad3NWOWoxbzVJaWtKcnJKU3FhM1BIZHPSAYQBQVVfeXFMUEV4TUt3V0pDVXFSb0U5ZkFKbE1TY3RhUnNvTXV1UnBMVFo0YWp2bG5sLTBLMTZDUmd0U2lVT0JjMVo5Q2pOeEtlWlNQRWJibURPdURmSkxTN2kzdVVoVkxLazU2NWtfMmxzV2JHbTlDckFGNk9GWVV5NXJ1RFAzdzlGYm5t",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791155335.0
-    },
-    {
-        "id": "2f344358d0",
-        "title_fa": "Live Updates: Yemen launches counteroffensive against Houthis, flydubai hijacker's motives under investigation",
-        "title_en": "Live Updates: Yemen launches counteroffensive against Houthis, flydubai hijacker's motives under investigation",
-        "summary": [
-            "مقام‌های ارشد آمریکایی بر عزم جدی این کشور برای ممانعت از دستیابی ج.ا به سلاح اتمی تاکید کردند.",
-            "ج.ا به دلیل ناتوانی در ناامن کردن کرانه باختری، پرداخت کمک‌های مالی به حماس را به تعویق انداخت.",
-            "ایالات متحده برای مقابله با درگیری‌های احتمالی، نیروهای نظامی بیشتری به اسرائیل اعزام می‌کند."
-        ],
-        "impact": "افزایش حضور نظامی آمریکا نشانگر آمادگی کامل برای پاسخ به هرگونه سناریوی جنگی در منطقه است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-04/live-updates-910489",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-04/live-updates-910489",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/739353",
-        "timestamp": 1791153660.0
     }
 ]
