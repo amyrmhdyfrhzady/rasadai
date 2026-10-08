@@ -235,6 +235,24 @@
         "timestamp": 1791452025.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "اخبار حاشیه‌ای ورزش و سیاست آمریکا",
+        "title_en": "US latest news",
+        "summary": [
+            "این گزارش ترکیبی از اخبار ورزشی و حواشی سیاسی پیرامون ترامپ است.",
+            "محتوای ارائه شده فاقد ارزش راهبردی یا ژئوپلیتیک برای تحلیل وضعیت ایران است."
+        ],
+        "impact": "این خبر تأثیر عملیاتی بر معادلات سیاسی یا اقتصادی ایران ندارد.",
+        "tag": "متفرقه",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1791448500.0
+    },
+    {
         "id": "44e016fdb3",
         "title_fa": "طرح گام‌به‌گام واشنگتن و تل‌آویو برای مهار نیروهای نیابتی ایران",
         "title_en": "Hezbollah, Hamas & Houthis Cannot Be Disarmed With a Single Deal: U.S. & Israel Need New Mechanism: OPED",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.ap7am.com/en/137060/iran-war-may-outlast-trump-as-us-weighs-options",
         "image": "https://imgc.ap7am.com/bimg/cr-20261005enb59077894e1bbe03.jpg?format=webp",
         "timestamp": 1791194160.0
-    },
-    {
-        "id": "276bab1b1f",
-        "title_fa": "فشار حداکثری ترامپ؛ تهران به دنبال توافق جدید",
-        "title_en": "Trump says Iran will never have a nuclear weapon. One analyst argues that if that’s true, the war’s main goal has been met",
-        "summary": [
-            "اقتصاد کشور به شدت فلج شده و کنترل بر تنگه هرمز عملاً از دست رفته است.",
-            "مقامات حاکمیتی به شدت به دنبال امضای یک توافق اضطراری برای نجات از سقوط هستند."
-        ],
-        "impact": "تنگنای شدید اقتصادی، ماشین جنگی حکومت را زمین‌گیر کرده است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-iran-will-never-have-a-nuclear-weapon-one-analyst-argues-that-if-that-s-true-the-war-s-main-goal-has-been-met/ar-AA2dCv24",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-will-never-have-a-nuclear-weapon-one-analyst-argues-that-if-that-s-true-the-war-s-main-goal-has-been-met/ar-AA2dCv24",
-        "image": "http://www.bing.com/th?id=ONUT.TjDFa-GXaK9E5M6i8fXaVw&pid=News",
-        "timestamp": 1791193510.0
     }
 ]
