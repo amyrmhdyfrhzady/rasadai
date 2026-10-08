@@ -201,6 +201,25 @@
         "timestamp": 1791396383.0
     },
     {
+        "id": "4f783f3329",
+        "title_fa": "جنجال سخنرانی ترامپ درباره ایران و دعوای دموکرات‌ها",
+        "title_en": "Trump’s Iran rally remarks spark fight over what he actually said",
+        "summary": [
+            "اظهارات دونالد ترامپ در گردهمایی نبرسکا درباره حکومت ایران، بار دیگر تنش‌های سیاسی داخلی آمریکا بر سر نحوه برخورد با تهران را به اوج رساند.",
+            "دموکرات‌ها بلافاصله به مواضع ترامپ حمله کردند، اما رسانه‌ها می‌گویند برخی نقل‌قول‌های وایرال شده از او تحریف‌ شده و غیردقیق بوده است.",
+            "این جنجال تایید می‌کند پرونده ایران و نحوه مهار آن، به یکی از اصلی‌ترین کارت‌های بازی در رقابت‌های انتخاباتی آمریکا تبدیل شده است."
+        ],
+        "impact": "افزایش حساسیت بازارهای مالی و سیاسی تهران به هرگونه موضع‌گیری ترامپ در آستانه انتخابات آمریکا",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/news/trump-s-iran-rally-remarks-spark-fight-over-what-he-actually-said/ar-AA2dMH7D",
+        "clean_url": "https://www.msn.com/en-us/news/news/trump-s-iran-rally-remarks-spark-fight-over-what-he-actually-said/ar-AA2dMH7D",
+        "image": "http://www.bing.com/th?id=ONUT.dix3WSSIjcWu7dhWSSl37g&pid=News",
+        "timestamp": 1791395689.0
+    },
+    {
         "id": "3b59239345",
         "title_fa": "تشدید حملات حوثی‌ها و درگیرتر شدن ریاض با جبهه ایران",
         "title_en": "Attacks by Yemen’s Houthis on Saudi Arabia draw kingdom deeper into Iran conflict",
@@ -5472,24 +5491,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-s-bet-is-patience-let-the-blockade-drain-iran-s-economy-instead-of-launching-new-strikes-before-the-midterm-elections/ar-AA2dztua",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1FWjsM.img?w=768&h=432&m=6",
         "timestamp": 1791157868.0
-    },
-    {
-        "id": "bbc165d07e",
-        "title_fa": "تثبیت سقف تولید اوپک‌پلاس همزمان با نفت بالای ۱۰۰ دلار",
-        "title_en": "OPEC+ keeps November oil output targets steady amid Iran war",
-        "summary": [
-            "هفت کشور اصلی اوپک‌پلاس تصمیم گرفتند سقف تولید نوامبر را دست‌نخورده نگه دارند؛ انتخابی که نفت بالای ۱۰۰ دلار را در بازار تثبیت می‌کند.",
-            "صادرات نفت در خلیج‌فارس به دلیل تنش‌های نظامی بین ۶۰ تا ۸۰ درصد سطح معمول افت کرده و این کشورها توان پر کردن سریع خلاء بازار را ندارند.",
-            "آزادسازی ۱۰۰ میلیون بشکه از ذخایر استراتژیک توسط گروه هفت تنها یک مُسکن موقت در برابر شوک عمیق اختلال صادرات منطقه‌ای است."
-        ],
-        "impact": "تداوم بحران ترانزیت نفت و عدم افزایش عرضه اوپک‌پلاس، نرخ بالای انرژی و بنزین را در بازارهای جهانی قفل خواهد کرد.",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610045821",
-        "clean_url": "https://www.iranintl.com/en/202610045821",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791155340.0
     }
 ]
