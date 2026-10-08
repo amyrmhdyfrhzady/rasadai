@@ -660,6 +660,24 @@
         "timestamp": 1791445620.0
     },
     {
+        "id": "93d17076ed",
+        "title_fa": "توضیح ترامپ درباره اظهارات جنجالی درباره ایــران",
+        "title_en": "Trump reframes his comments that Iran could ‘take out’ LA, San Diego",
+        "summary": [
+            "دونالد ترامپ سخنان قبلی خود درباره توانایی ایــران برای ضربه زدن به شهرهای لس‌آنجلس و سن‌دیگو را بازتعریف کرد.",
+            "این موضع‌گیری در راستای تشدید جنگ روانی واشنگتن علیه سیاست‌های منطقه‌ای و نظامی تـهـران مطرح شده است."
+        ],
+        "impact": "افزایش فشار رسانه‌ای و سیاسی بر مقامات جـمـهـوری اسـلامـی در عرصه بین‌المللی.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/videos/news/state/california/2026/10/08/trump-clarifies-comments-that-iran-could-take-out-la-san-diego/92151708007/",
+        "clean_url": "https://www.usatoday.com/videos/news/state/california/2026/10/08/trump-clarifies-comments-that-iran-could-take-out-la-san-diego/92151708007",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791445500.0
+    },
+    {
         "id": "36b1555792",
         "title_fa": "سرسام‌آور شدن هزینه‌های جنگ با ا... و خسارت میلیاردی",
         "title_en": "The Full Costs of the Iran War Are Clearer By the Day",
@@ -5476,23 +5494,5 @@
         "clean_url": "https://www.iranintl.com/202610051298",
         "image": "http://www.bing.com/th?id=ONUT.PsuRK5HBbOx4a_wx_nyiag&pid=News",
         "timestamp": 1791216180.0
-    },
-    {
-        "id": "e0892e2a37",
-        "title_fa": "هزینه‌های سرسام‌آور تنش با ای-ران بر دوش شهروندان آمریکایی",
-        "title_en": "How much is the Iran war costing Utahns? Here’s an estimate.",
-        "summary": [
-            "گزارش‌های تازه هزینه‌های مالی درگیری‌ها و تنش‌های نظامی با ح-کوم-ت را برآورد می‌کنند.",
-            "فشار اقتصادی تنش‌های خاورمیانه مستقیماً بر معیشت مردم ایالات متحده تاثیر گذاشته است."
-        ],
-        "impact": "افزایش هزینه‌های مالی جنگ و فشارهای تورمی روی دوش مالیات‌دهندگان آمریکایی.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "sltrib.com",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pR3U3bV9NMW41bi1KTk84TDM4d0Rnelk0azdaTzlWZERoNXdpWV9rV3E0Z0hUQU5rWUxHNF95U1ZsdnB4RHloMkV1dmVXTXptZDd6WG9FRENJajd2bVZ6dVYxYmF5eUE2UHlWakNXOE4yMElHMlgw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pR3U3bV9NMW41bi1KTk84TDM4d0Rnelk0azdaTzlWZERoNXdpWV9rV3E0Z0hUQU5rWUxHNF95U1ZsdnB4RHloMkV1dmVXTXptZDd6WG9FRENJajd2bVZ6dVYxYmF5eUE2UHlWakNXOE4yMElHMlgw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791215375.0
     }
 ]
