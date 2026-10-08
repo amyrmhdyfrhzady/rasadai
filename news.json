@@ -310,6 +310,25 @@
         "timestamp": 1791443870.0
     },
     {
+        "id": "5c4e09ed77",
+        "title_fa": "نگاهی به مسیر ۹۴ ساله نیروی هوایی هند و چالش‌های آن",
+        "title_en": "94 Years Of The IAF: The Road Ahead For India's Air Arm",
+        "summary": [
+            "نیروی هوایی هند از تاسیس در سال ۱۹۳۲ اکنون به چهارمین نیروی هوایی بزرگ جهان تبدیل شده است.",
+            "تمرکز اصلی این نیرو در حال حاضر گذار به سمت سامانه‌های شبکه محور و ارتقای پهپادی است.",
+            "کمبود اسکادران‌های جنگنده فعال مهم‌ترین چالش پیش روی ارتش هند به شمار می‌رود."
+        ],
+        "impact": "تلاش هند برای جبران کسری جنگنده‌ها با خرید رافال و تولید جنگنده بومی تسریع شده است.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/explainers/94-years-of-the-iaf-the-road-ahead-for-indias-air-arm/videoshow/134794528.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/explainers/94-years-of-the-iaf-the-road-ahead-for-indias-air-arm/videoshow/134794528.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134794528,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1791442860.0
+    },
+    {
         "id": "2d6ac5d632",
         "title_fa": "افزایش احتمال برخورد نظامی با تهران در پی بن‌بست مذاکرات",
         "title_en": "Potential military escalation against Iran amid stalled negotiations",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://www.theguardian.com/us-news",
         "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
         "timestamp": 1791191280.0
-    },
-    {
-        "id": "6ec9a6a034",
-        "title_fa": "دستور اجرایی ترامپ برای معافیت مالیاتی سوخت دیزل",
-        "title_en": "Donald Trump",
-        "summary": [
-            "دونالد ترامپ قصد دارد با صدور یک فرمان اجرایی جدید، دسترسی به سوخت دیزل معاف از مالیات را گسترش دهد.",
-            "این تصمیم بخشی از برنامه‌های اقتصادی دولت آمریکا برای حمایت از بخش‌های صنعتی و حمل‌ونقل است."
-        ],
-        "impact": "این اقدام می‌تواند هزینه‌های سوخت و لجستیک را در بازار داخلی آمریکا کاهش دهد.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/us/donald-trump/",
-        "clean_url": "https://www.reuters.com/world/us/donald-trump",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791188700.0
     }
 ]
