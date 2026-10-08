@@ -291,6 +291,25 @@
         "timestamp": 1791464511.0
     },
     {
+        "id": "b509ccc25e",
+        "title_fa": "عقب‌ماندگی ایران از عربستان در میدان نفتی مشترک مرجان",
+        "title_en": "Iran trails Saudi Arabia at shared oil field as Aramco hires US firm",
+        "summary": [
+            "شرکت آرامکو عربستان با یک پیمانکار آمریکایی برای توسعه و به‌روزرسانی میدان نفتی مرجان قرارداد بست.",
+            "بخش ایرانی این میدان به نام فروزان به دلیل ناتوانی مالی و فناوری، فرسنگ‌ها از رقیب عربستانی عقب مانده است.",
+            "عربستان با این پروژه ظرفیت تولید خود را در این میدان به طور چشمگیری افزایش داده است."
+        ],
+        "impact": "از دست رفتن سرمایه ملی و تسلیم کامل منابع انرژی مشترک به رقیب منطقه‌ای به دلیل ناکارآمدی ساختاری.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610082345",
+        "clean_url": "https://www.iranintl.com/en/202610082345",
+        "image": "http://www.bing.com/th?id=ONUT.zIFFhNRr7MPahuU5pFRw1A&pid=News",
+        "timestamp": 1791464400.0
+    },
+    {
         "id": "5094d32f96",
         "title_fa": "هشدار مقام سابق آمریکایی درباره فرسایشی شدن درگیری با ایران",
         "title_en": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://time.com/article/2026/10/05/nobel-prize-2026-winners",
         "image": "http://www.bing.com/th?id=ONUT.VNpcKoiEW0knysbJ_enWeA&pid=News",
         "timestamp": 1791205740.0
-    },
-    {
-        "id": "c388d78dbf",
-        "title_fa": "تهدید دوباره مـقـامـات ادرار به جنگ جدید",
-        "title_en": "Shafaq News..Iran warns US, Israel against new war",
-        "summary": [
-            "مـقـامـات جـمـهـوری اسـلامـی در لاف‌های تازه خود، به آمریکا و اسرائیل درباره پیامدهای هرگونه اقدام نظامی هشدار دادند.",
-            "این خط خبری تکراری مصرف داخلی داشته و با هدف ترساندن مخالفان و هواداران منطقه ای مطرح می‌شود."
-        ],
-        "impact": "این تهدیدهای تکراری تأثیر خاصی روی بازارهای مالی یا معادلات میدانی نگذاشته است.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "شفق نيوز",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WSUFfVjhQWWZDWmRPM1Rkcjl3NDh5LVFIUGtPTVpNU3BOTTJYMDZyMGc2ZFc1V0lCVURZRmtjM1p0dENEZmh0UlExX3ctNVBRVVdiR0hUZzFmX0ZEWXRIbzFWOER3YjV1dGJRdHUwSzZhbGhtQUhteE93?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WSUFfVjhQWWZDWmRPM1Rkcjl3NDh5LVFIUGtPTVpNU3BOTTJYMDZyMGc2ZFc1V0lCVURZRmtjM1p0dENEZmh0UlExX3ctNVBRVVdiR0hUZzFmX0ZEWXRIbzFWOER3YjV1dGJRdHUwSzZhbGhtQUhteE93",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791205693.0
     }
 ]
