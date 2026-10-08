@@ -37,6 +37,26 @@
         "timestamp": 1791424661.0
     },
     {
+        "id": "b53d532b32",
+        "title_fa": "حمله مرگبار به ایـران و چالش‌های منطقه‌ای پس از آن",
+        "title_en": "Moment of Opportunity",
+        "summary": [
+            "اقدام نظامی مشترک علیه ایـران و کشته شدن رهبر جـمهوری اسـلامی، معادلات خاورمیانه را به شدت متشنج کرد.",
+            "بمباران یک مدرسه ابتدایی و جان باختن کودکان، موجی از تلفات غیرنظامی و خسارات انسانی به همراه داشت.",
+            "تلافی موشکی ایـران علیه پایگاه‌های آمریکایی و بستن تنگه هرمز، قیمت انرژی در جهان را به شدت بالا برد.",
+            "گزارش نیویورک تایمز فاش کرد که بنیامین نتانیاهو توانسته دونالد ترامپ را برای این تهاجم متقاعد کند."
+        ],
+        "impact": "بسته شدن تنگه هرمز و جهش قیمت انرژی، اقتصاد جهانی و امنیت کشورهای حوزه خلیج فارس را فلج کرد.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "OrissaPOST",
+        "url": "https://www.orissapost.com/moment-of-opportunity/",
+        "clean_url": "https://www.orissapost.com/moment-of-opportunity",
+        "image": "https://www.orissapost.com/wp-content/uploads/2026/10/Abdullah-Gul.png",
+        "timestamp": 1791424020.0
+    },
+    {
         "id": "882cb335bd",
         "title_fa": "آمادگی ارتش آمریــکا برای گزینه‌های نظامی علیه ایـران",
         "title_en": "U.S. military prepares new Iran war options ahead of midterm elections",
@@ -5472,23 +5492,5 @@
         "clean_url": "https://www.iranintl.com/202610052283",
         "image": "http://www.bing.com/th?id=ONUT.0HiK8SXlporTrrNV2hVKOw&pid=News",
         "timestamp": 1791166140.0
-    },
-    {
-        "id": "0358154d8f",
-        "title_fa": "خط و نشان ستاد کل ارتش برای آمریکا و اسرائیل",
-        "title_en": "رییس ستادکل نیروهای مسلح: اگر جنگ جدید آغاز شود، آتش آن دامن همه را خواهد گرفت",
-        "summary": [
-            "علی عبداللهی تهدید کرد که پاسخ ایران به هر حمله احتمالی، بدون محدودیت و کوبنده خواهد بود.",
-            "تهران هشدار داد که حضور نظامی آمریکا عامل اصلی ناامنی و بحران‌های اقتصادی منطقه است."
-        ],
-        "impact": "بالارفتن سطح تنش‌های نظامی و هشدارهای متقابل در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610058514",
-        "clean_url": "https://www.iranintl.com/202610058514",
-        "image": "http://www.bing.com/th?id=ONUT.oRdsPhA78LuXOmd83NLSPw&pid=News",
-        "timestamp": 1791164820.0
     }
 ]
