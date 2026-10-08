@@ -421,6 +421,24 @@
         "timestamp": 1791435540.0
     },
     {
+        "id": "d5be189715",
+        "title_fa": "آزمایش موشک اتمی فرانسه و دوگانگی استاندارد غرب",
+        "title_en": "Nuclear Secret Macron Unwittingly Revealed",
+        "summary": [
+            "فرانسه با آزمایش یک موشک جدید توانمند برای حمل کلاهک اتمی، بار دیگر استانداردهای دوگانه غرب در حوزه فناوری هسته‌ای را به نمایش گذاشت.",
+            "امانوئل مکرون پس از این آزمایش اعلام کرد که داشتن بازدارندگی اتمی برای حفظ امنیت و قدرت کشور یک ضرورت غیرقابل انکار است."
+        ],
+        "impact": "این اقدام نشان می‌دهد که غرب رویکرد انحصارطلبانه‌ای نسبت به فناوری‌های پیشرفته دارد و قدرت نظامی را برای بقای خود الزامی می‌داند.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Nournews",
+        "url": "https://nournews.ir/en/news/350876/nuclear-secret-macron-unwittingly-revealed",
+        "clean_url": "https://nournews.ir/en/news/350876/nuclear-secret-macron-unwittingly-revealed",
+        "image": "https://static2.nournews.ir/thumbnail/M2M1ZjIGZrVP/b3aIG_X7SZB5siOHJYypBHBYuzfaIv17IheV4VxebrsaKJqqiA2-Qt8qqyogULCYQoBUB2Uh43bN0yTr0PIFNWuyO2GHmOYg227bUN6xEqAvGYVRnxPUWYCJs_gxpESyTjt1v0A0NGNQoBVjW7-x2Ym0h7zahQcuPjQZX0_Thl9vzhsWrbCDJWJNRpPKDk0E/M2M1ZjIGZrVP.jpg",
+        "timestamp": 1791434700.0
+    },
+    {
         "id": "d8047d4cd2",
         "title_fa": "دستور پنتاگون برای آماده‌باش کامل در برابر ایران",
         "title_en": "Report: Pentagon orders preparations for renewed war with Iran",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.iranintl.com/en/202610055029",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791193500.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "حاشیه‌های سفر ترامپ به نبراسکا و چالش‌های سیاسی داخلی",
-        "title_en": "US latest news",
-        "summary": [
-            "ترامپ در حالی عازم نبراسکا می‌شود که طرح دولت او برای افزایش واردات گوشت خارجی با نارضایتی شدید کشاورزان این ایالت مواجه شده است.",
-            "همزمان دیوان عالی آمریکا نخستین جلسات استدلال شفاهی خود را درباره پرونده‌های مربوط به بحران اقلیمی آغاز کرد."
-        ],
-        "impact": "نارضایتی کشاورزان در ایالت‌های کلیدی می‌تواند پایگاه رأی جمهوری‌خواهان را با چالش جدی روبه‌رو کند.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1791191280.0
     }
 ]
