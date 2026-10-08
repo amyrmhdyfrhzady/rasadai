@@ -1,5 +1,24 @@
 [
     {
+        "id": "d1cc40a7fa",
+        "title_fa": "فشار حداکثری ترامپ و بن‌بست جـهـمـوری اسـلامـی",
+        "title_en": "Series",
+        "summary": [
+            "دولت ترامپ با ترکیب تحریم‌های فلج‌کننده اقتصادی و حملات هدفمند سنتکام، تهران را در تنگنای بی‌سابقه‌ای قرار داده است.",
+            "بحران دریای سرخ و فعالیت نیابتی حوثی‌ها، هزینه‌های راهبردی حکومت را به شدت افزایش داده است.",
+            "مقامات نظامی پیشین آمریکا بر این باورند که برنامه‌های اتمی تهران زیر ذره‌بین شدید اطلاعاتی و نظامی واشنگتن قرار دارد."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و نظامی دور حکومت و افزایش آسیب‌پذیری در برابر فشارهای خارجی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "europesays",
+        "url": "https://www.europesays.com/3298583/",
+        "clean_url": "https://www.europesays.com/3298583",
+        "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791480782_maxresdefault.jpg",
+        "timestamp": 1791480720.0
+    },
+    {
         "id": "a6c1ec54e0",
         "title_fa": "توقف موقت سناریوی نظامی ترامپ علیه جـ.ـهـ.ـوری اِسـ.ـلامی تا آبان",
         "title_en": "Trump says US will not attack Iran before midterm elections in November",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202610067736",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/28cdb0dac8067fdb69cf48922ca86d55ea01fa33-632x421.jpg?w=576&h=384&q=58&fit=max&auto=format",
         "timestamp": 1791202080.0
-    },
-    {
-        "id": "c45876c65a",
-        "title_fa": "فریاد مدیر سابق خبرگزاری فارس برای دستیابی به بمب اتم",
-        "title_en": "Iran YouTube Stories: Former Fars News Chief Calls for Iranian Atomic Capability",
-        "summary": [
-            "رئیس پیشین خبرگزاری وابسته به سپاه علنا خواستار تغییر دکترین هسته‌ای و رفتن به سمت ساخت بمب اتم شد.",
-            "این اظهارات نشان می‌دهد جریان تندرو درون ساختار قدرت اصرار دارد هزینه بحران‌های منطقه‌ای را از جیب مردم و با تشدید تهدیدهای جهانی بپردازد."
-        ],
-        "impact": "افزایش ریسک امنیتی ایران و فراهم شدن بهانه تازه برای اتحاد جهانی علیه برنامه هسته‌ای",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "iranwire.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaW1PMEpsSFoySlBYQmlNM0t2MF9sYjVLMVNYZkpnM0JfcXhXcjB1aWNjWjZGcW1iOVR0MTFzWnZWazZ2b3FVdm56ZjB1bzA4aTNfUW1NZlljaWxSSXBsNDNFZU9pZnZENmJ5a1FudUVacmVidjBFSjFiSkE1aXRJX0g3RUZaazc3alBZLUJyWFk0azhmaTd1OHlTQlItQmxJazFZSVpQd1dSRXBkdF95MWt1QzFuUVFQOGx4RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaW1PMEpsSFoySlBYQmlNM0t2MF9sYjVLMVNYZkpnM0JfcXhXcjB1aWNjWjZGcW1iOVR0MTFzWnZWazZ2b3FVdm56ZjB1bzA4aTNfUW1NZlljaWxSSXBsNDNFZU9pZnZENmJ5a1FudUVacmVidjBFSjFiSkE1aXRJX0g3RUZaazc3alBZLUJyWFk0azhmaTd1OHlTQlItQmxJazFZSVpQd1dSRXBkdF95MWt1QzFuUVFQOGx4RQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791201125.0
     }
 ]
