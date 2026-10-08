@@ -1,5 +1,23 @@
 [
     {
+        "id": "9631247cd7",
+        "title_fa": "بحران ارزش دینار و فشار بر معیشت عراقی‌ها",
+        "title_en": "Why has Iraq devalued its currency, and why are some MPs against it?",
+        "summary": [
+            "کاهش ارزش پول ملی در عراق موجی از گرانی و فشار روی طبقات ضعیف ایجاد کرده است",
+            "مخالفت نمایندگان پارلمان با این تصمیم حاکی از شکاف جدی در دولت عراق است"
+        ],
+        "impact": "تزلزل اقتصادی عراق و نارضایتی عمومی از سیاست‌های مالی دولت",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it/ar-AA2dOXX8",
+        "clean_url": "https://www.msn.com/en-us/news/world/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it/ar-AA2dOXX8",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-07T114237Z_1876806973_RC2AYNAPYGGH_RTRMADP_3_IRAQ-ECONOMY-1791452169.jpg?resize=1920,1440",
+        "timestamp": 1791460761.0
+    },
+    {
         "id": "5235d51808",
         "title_fa": "طرح شوم جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی برای پایگاه‌های آمریکایی در آلمان",
         "title_en": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report",
@@ -221,6 +239,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12MG9aUEpyYWo4dGYwdVJRR2hTakV4M2l2OVFvWXRJTjMwcjNWR2NLR2h5RlBPYU5vTXQ4M19SZU03OWRybFhwMEZPeUxWc3NvTnNXU2hxQmVOT0ZaZTJUUnZWYjBaMlpJaE9GcGpn0gFzQVVfeXFMTnJBV005ZExqRC1tcXd2VGxUTjRvQ1BMcWl1VjRlems3d1djYlh4Rk9NWHdZa0NnV01NemQ0SmRLRmRoUS1fdUdTT3dEMTEtWU5aZl96OG5mXzViMmE4VExhdFp2WnR6OHc5bWw4Wmh1WVVYMA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791429480.0
+    },
+    {
+        "id": "cfdd18fd58",
+        "title_fa": "هزینه سنگین جنگ روی دوش مردم آمریکا",
+        "title_en": "Trump's warning about Obama starting a war with Iran resurfaces as the Pentagon pegs his own war at $43.6B — $1,760 per household",
+        "summary": [
+            "هزینه میلیاردی درگیری‌ها با فشار مستقیم بر اقتصاد خانواده‌ها جبران می‌شود",
+            "گرانی انرژی و افزایش نرخ بهره، سهم هر خانه آمریکایی از تنش‌ها را بالا برده است"
+        ],
+        "impact": "فشار اقتصادی روی شهروندان آمریکایی هزینه سیاست‌های مداخله‌جویانه را عیان کرده است",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Moneywise on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trumps-warning-about-obama-starting-a-war-with-iran-resurfaces-as-the-pentagon-pegs-his-own-war-at-436b-1760-per-household/ar-AA2dOOV1",
+        "clean_url": "https://www.msn.com/en-us/news/other/trumps-warning-about-obama-starting-a-war-with-iran-resurfaces-as-the-pentagon-pegs-his-own-war-at-436b-1760-per-household/ar-AA2dOOV1",
+        "image": "http://www.bing.com/th?id=ONUT.4M_RaF92a238A_gXMKaCeA&pid=News",
+        "timestamp": 1791428400.0
     },
     {
         "id": "710965db2f",
@@ -5459,41 +5495,5 @@
         "clean_url": "https://english.alarabiya.net/News/middle-east/2026/10/05/yemeni-government-forces-retake-strategic-red-sea-port-of-mokha",
         "image": "https://vid.alarabiya.net/images/2026/01/10/76422c13-9b68-4a39-80a8-c010c1f2c2c6/76422c13-9b68-4a39-80a8-c010c1f2c2c6_16x9_600x338.JPG",
         "timestamp": 1791179820.0
-    },
-    {
-        "id": "7e96aaaab1",
-        "title_fa": "سقوط آزاد پول ملی؛ چنگ‌اندازی تحریم‌ها و محاصره دریایی بر اقتصاد ای-ران",
-        "title_en": "Iran Currency Collapse: U.S. Sanctions, Naval Blockade, and International Law",
-        "summary": [
-            "ارزش پول ملی زیر ضربات سنگین تحریم‌های ایالات متحده و فشارهای بین‌المللی کاملاً فروپاشیده است.",
-            "ترکیب تحریم‌های فلج‌کننده و محدودیت‌های بندری، اقتصاد کشور را در تنگنای بی‌سابقه‌ای قرار داده است."
-        ],
-        "impact": "تشدید بحران ارزی و تورم سرسام‌آور، قدرت خرید جامعه را به شدت هدف قرار خواهد داد.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Diplomacy and Law",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oREk3dmRVWGpOajVSa2xvcjRDS2owTFowRm5PRmpza3BSdkk4RVpJUDFadTAyUG5NcXJyRHdTaGlPemkzVk9hZUpKVWZXU1RFOEdUREdCbmVoVkZsbkl3cTc5d2l1QTZRTW1V?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oREk3dmRVWGpOajVSa2xvcjRDS2owTFowRm5PRmpza3BSdkk4RVpJUDFadTAyUG5NcXJyRHdTaGlPemkzVk9hZUpKVWZXU1RFOEdUREdCbmVoVkZsbkl3cTc5d2l1QTZRTW1V",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791179802.0
-    },
-    {
-        "id": "00a2a61c8f",
-        "title_fa": "بازی جدید ج.ا با کارت مذاکرات در بن‌بست هسته‌ای",
-        "title_en": "Iran says to deliver additional points on US counter-proposal",
-        "summary": [
-            "ارسال پیشنهادهای تکمیلی به آمریکا، تلاشی برای خرید زمان در میانه فشارهای فزاینده بین‌المللی است.",
-            "این اقدام صرفاً یک مانور دیپلماتیک برای جلوگیری از اجماع جهانی علیه برنامه هسته‌ای است و تغییر ماهوی در سیاست‌های تهران ایجاد نمی‌کند."
-        ],
-        "impact": "تداوم بلاتکلیفی در پرونده هسته‌ای و افزایش بی‌اعتمادی طرف‌های غربی به وعده‌های تهران.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Tehran Times",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjBfWjZfeTJnVFZpT000LXN5OGE0NTRFbk5iX0FSLXAzbzA5a3pwUS1NZF93Nkg3Rlp3MGR1dFdWVEFQRVl5Tkh2S0hfem9jMGh3dUNhdEtURWxOUk1pRGx4N25tVTNyN3VHMjRYNDE1UEpDYzhUeFNhUXdxYlNBVjBZRVVRXzZaak13SGVSYmZTYWVDd19OdGFEenIxcWpEYXBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjBfWjZfeTJnVFZpT000LXN5OGE0NTRFbk5iX0FSLXAzbzA5a3pwUS1NZF93Nkg3Rlp3MGR1dFdWVEFQRVl5Tkh2S0hfem9jMGh3dUNhdEtURWxOUk1pRGx4N25tVTNyN3VHMjRYNDE1UEpDYzhUeFNhUXdxYlNBVjBZRVVRXzZaak13SGVSYmZTYWVDd19OdGFEenIxcWpEYXBR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791179325.0
     }
 ]
