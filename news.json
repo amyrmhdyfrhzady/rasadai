@@ -1,5 +1,23 @@
 [
     {
+        "id": "a5a7bb474f",
+        "title_fa": "خسارت سنگین میلیاردی به ناوگان هوایی ایالات متحده",
+        "title_en": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
+        "summary": [
+            "آمارها از آسیب یا انهدام دست‌کم ۸۱ فروند هواپیمای آمریکایی به ارزش ۳.۳ میلیارد دلار حکایت دارد.",
+            "این ضربه مالی و تجهیزاتی بزرگ، تلفات قابل توجهی را در درگیری‌های مرتبط با جبهه ایـران نشان می‌دهد."
+        ],
+        "impact": "افزایش هزینه‌های نظامی آمریکا و وارد شدن خسارت سنگین به زیرساخت‌های هوایی این کشور در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJkWmJFODJFOWZtaHlLUUt5TXgwQ21XRkVrWEVrcHVwYlgtbG5JNHRxWVVGbmZGekpHdTlrWjhyZ1ZXbmdQcjRmb2lUbEx2cXlmcnZkdkExX2I4OWpzTS1reGlkc2g0RjNUN3FvZHpWX2tBa2NybjJZRW1ZM3A1UjgyV3RkbVZKcDVLQ1lKUm1Kc3VmQ0h1QnliOXE3MVYzcDliNzZYV2xBazczZHdJ0gG0AUFVX3lxTE1QLUsxVk1lZmY2cTFCVUFIVUtHdzVqTXE5aTJmTGdDWWtDX0xzb0l2VS1iLVI2OVYwd0k0R2I4M2NkejQ1NmZaV0VKZmUwZWlKWDJMOTJ0X0NPdllJZHRHUWlBZUc1NGI0ejJqYVJIR1dycVo4UHNtY0VJYlhpdWNmUUttZDJXR2R6NkE1Q1U4bHZmNlltNk1rN1lHVS16WkFzX2Rkc3lIUG5lSzJvQ1hOeWM2cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJkWmJFODJFOWZtaHlLUUt5TXgwQ21XRkVrWEVrcHVwYlgtbG5JNHRxWVVGbmZGekpHdTlrWjhyZ1ZXbmdQcjRmb2lUbEx2cXlmcnZkdkExX2I4OWpzTS1reGlkc2g0RjNUN3FvZHpWX2tBa2NybjJZRW1ZM3A1UjgyV3RkbVZKcDVLQ1lKUm1Kc3VmQ0h1QnliOXE3MVYzcDliNzZYV2xBazczZHdJ0gG0AUFVX3lxTE1QLUsxVk1lZmY2cTFCVUFIVUtHdzVqTXE5aTJmTGdDWWtDX0xzb0l2VS1iLVI2OVYwd0k0R2I4M2NkejQ1NmZaV0VKZmUwZWlKWDJMOTJ0X0NPdllJZHRHUWlBZUc1NGI0ejJqYVJIR1dycVo4UHNtY0VJYlhpdWNmUUttZDJXR2R6NkE1Q1U4bHZmNlltNk1rN1lHVS16WkFzX2Rkc3lIUG5lSzJvQ1hOeWM2cQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791488870.0
+    },
+    {
         "id": "83d54a2f8e",
         "title_fa": "نارضایتی افکار عمومی آمریکا از تداوم تنش با ج.ا",
         "title_en": "Iran Conflict Remains Deeply Unpopular as Many Americans Expect It To Go On for Months",
@@ -5475,23 +5493,5 @@
         "clean_url": "https://www.iranintl.com/202610051077",
         "image": "http://www.bing.com/th?id=ONUT.NnsC4PHwdMCfJ9rQHv6cMg&pid=News",
         "timestamp": 1791207240.0
-    },
-    {
-        "id": "051ca3d5d3",
-        "title_fa": "اعلام برندگان جوایز نوبل سال ۲۰۲۶",
-        "title_en": "Meet the 2026 Nobel Prize Winners",
-        "summary": [
-            "کمیته نوبل جایزه پزشکی و فیزیولوژی را به سه دانشمند به پاس تحولات در حوزه علوم اعصاب اهدا کرد.",
-            "روند اعلام جوایز علمی و ادبی در بخش‌های مختلف تا روزهای آینده ادامه خواهد داشت."
-        ],
-        "impact": "بازتاب گسترده در مجامع علمی جهان بدون تاثیر مستقیم ژئوپلیتیک",
-        "tag": "علمی",
-        "urgency": 2,
-        "sentiment": 0.5,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/10/05/nobel-prize-2026-winners/",
-        "clean_url": "https://time.com/article/2026/10/05/nobel-prize-2026-winners",
-        "image": "http://www.bing.com/th?id=ONUT.VNpcKoiEW0knysbJ_enWeA&pid=News",
-        "timestamp": 1791205740.0
     }
 ]
