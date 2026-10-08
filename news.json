@@ -423,6 +423,24 @@
         "timestamp": 1791396383.0
     },
     {
+        "id": "a3cd659c10",
+        "title_fa": "تحقیقات هوایی عربستان درباره حمله کابین پرواز",
+        "title_en": "Houthis hit Yemen's Aden airport, Qatar says mediation efforts progress for Iran and US",
+        "summary": [
+            "ع عربستان تحقیقات ایمنی درباره حادثه حمله به خلبان پرواز فلای‌دبی را کلید زد.",
+            "این بررسی بین‌المللی بدون تعیین مقصر، استانداردهای امنیت پرواز را زیر ذره‌بین می‌برد."
+        ],
+        "impact": "آزمون جدی همکاری‌های بین‌المللی هوانوردی در پی یک اقدام عمدی در آسمان منطقه.",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/houthis-hit-aden-airport-qatar-says-us-iran-talks-progressing",
+        "clean_url": "https://www.newarab.com/news/houthis-hit-aden-airport-qatar-says-us-iran-talks-progressing",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2298401381.jpeg?itok=alQ9RN5a",
+        "timestamp": 1791395760.0
+    },
+    {
         "id": "4f783f3329",
         "title_fa": "جنجال سخنرانی ترامپ درباره ایران و دعوای دموکرات‌ها",
         "title_en": "Trump’s Iran rally remarks spark fight over what he actually said",
@@ -5473,24 +5491,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/is-iran-getting-closer-to-its-first-nuke-tehran-mulls-npt-exit-vows-to-keep-enriching-uranium/ar-AA2dzmHC",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dA3Er.img?w=700&h=400&m=4&q=72",
         "timestamp": 1791170968.0
-    },
-    {
-        "id": "b27b580179",
-        "title_fa": "نامه سرگشاده سپاه به مردم آمریکا؛ تلاش برای تاثیرگذاری بر انتخابات میان‌دوره‌ای",
-        "title_en": "What did the IRGC say in its letter to Americans — and Why now?",
-        "summary": [
-            "سپاه پاسداران در نامه‌ای ۲۵ صفحه‌ای خطاب به شهروندان آمریکایی، از آن‌ها خواست سیاست‌های دولت ترامپ را به چالش بکشند.",
-            "سخنگوی سپاه اذعان کرد که این نامه تغییری در رویکرد کاخ سفید ایجاد نمی‌کند و هدف آن صرفاً افکار عمومی آمریکا در آستانه انتخابات است.",
-            "وزارت خارجه آمریکا بلافاصله این اقدام را یک پرده‌پوشی و نشانه استیصال حاکمیت ایران توصیف کرد."
-        ],
-        "impact": "این نامه مصرف داخلی و پروپاگاندای برون‌مرزی دارد و تأثیری بر معادلات واشینگتن نخواهد گذاشت.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/530777/What-did-the-IRGC-say-in-its-letter-to-Americans-and-Why-now",
-        "clean_url": "https://www.tehrantimes.com/news/530777/What-did-the-IRGC-say-in-its-letter-to-Americans-and-Why-now",
-        "image": "https://media.tehrantimes.com/d/t/2026/10/05/4/6204958.jpg?ts=1791208603642",
-        "timestamp": 1791170880.0
     }
 ]
