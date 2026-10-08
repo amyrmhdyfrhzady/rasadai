@@ -276,6 +276,24 @@
         "timestamp": 1791438546.0
     },
     {
+        "id": "8cf7d43199",
+        "title_fa": "تشدید سرکوب م خالفان ج م ه و ر ی ا س ل ا م ی در داخل و خارج",
+        "title_en": "Iran expands crackdown on protesters at home and abroad",
+        "summary": [
+            "ماشین سرکوب حکومت در سایه تنش‌های نظامی، اعدام‌ها و بازداشت‌های جمعی را به شدت افزایش داده است.",
+            "نهادهای امنیتی با تهدید خانواده‌ها و محدود کردن ایرانیان در کشورهای همسایه، فضای ارعبار را گسترش داده‌اند."
+        ],
+        "impact": "حکومت برای بقای خود روی ایجاد ترس حداکثری و سرکوب همه‌جانبه حساب باز کرده است.",
+        "tag": "سرکوب",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610080184",
+        "clean_url": "https://www.iranintl.com/en/202610080184",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791435540.0
+    },
+    {
         "id": "d8047d4cd2",
         "title_fa": "دستور پنتاگون برای آماده‌باش کامل در برابر ایران",
         "title_en": "Report: Pentagon orders preparations for renewed war with Iran",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-pulls-bombers-from-uk-base-is-iran-manoeuvring-trump-s-war-plans/ar-AA2dC7cJ",
         "image": "http://www.bing.com/th?id=ONUT.gs-gkSYMQ7TpnmJ0HZphRA&pid=News",
         "timestamp": 1791184784.0
-    },
-    {
-        "id": "010eef99a2",
-        "title_fa": "کمین مرگبار علیه خودروهای نظامی در جنوب شرق",
-        "title_en": "Three killed in attack on military vehicles in southeastern Iran, rights group says",
-        "summary": [
-            "حمله مسلحانه به دو خودروی نظامی در منطقه بمپور سیستان و بلوچستان تلفات برجای گذاشت.",
-            "روایت رسانه‌های حکومتی و گروه‌های حقوق بشری درباره آمار تلفات این درگیری تفاوت دارد."
-        ],
-        "impact": "افزایش ناامنی‌های مسلحانه و آسیب‌پذیری تحرکات نظامی در مناطق مرزی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610058855",
-        "clean_url": "https://www.iranintl.com/en/202610058855",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791184140.0
     }
 ]
