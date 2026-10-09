@@ -290,6 +290,24 @@
         "timestamp": 1791536400.0
     },
     {
+        "id": "22662bb088",
+        "title_fa": "فشار حداکثری واشنگتن و بحران تاریخی اقتصاد ای.ران",
+        "title_en": "A shadow of its former self: Iran is facing a historic economic crisis and that means the regime could collapse",
+        "summary": [
+            "صادرات نفت جی.‌جمهوری اسلامی به دلیل تحریم‌های دریایی آمریکا به یک هشتم میزان قبلی رسیده است.",
+            "اقتصاد کشور زیر فشار بی‌سابقه قرار دارد و این وضعیت شکننده احتمال فروپاشی ساختار حاکم را افزایش داده است."
+        ],
+        "impact": "تشدید بحران اقتصادی، سقوط ارزش پول ملی و افزایش احتمال ناآرامی‌های سراسری.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/a-shadow-of-its-former-self-iran-is-facing-a-historic-economic-crisis-and-that-means-the-regime-could-collapse/ar-AA2dU0gg",
+        "clean_url": "https://www.msn.com/en-us/news/other/a-shadow-of-its-former-self-iran-is-facing-a-historic-economic-crisis-and-that-means-the-regime-could-collapse/ar-AA2dU0gg",
+        "image": "http://www.bing.com/th?id=ONUT.D_3j7me-R58pwbLolhfdZw&pid=News",
+        "timestamp": 1791531808.0
+    },
+    {
         "id": "1358b9785b",
         "title_fa": "افشاگری سناتور آمریکایی درباره پنهان‌کاری جنگ با ایـران",
         "title_en": "Sen. Murphy accuses admin of 'active cover-up' of Iran war, vows to leverage funding to end war",
@@ -5469,24 +5487,5 @@
         "clean_url": "https://gcaptain.com/irans-offshore-oil-stockpile-nears-exhaustion-as-blockade-chokes-new-supply",
         "image": "https://gcaptain.com/wp-content/uploads/2020/06/2020-06-12T110135Z_1121479389_RC2N7H9P05ZH_RTRMADP_3_VENEZUELA-OIL-DEALS.jpg",
         "timestamp": 1791291180.0
-    },
-    {
-        "id": "4b5e752333",
-        "title_fa": "ترامپ: اقتصاد ج.ا نابود شده و وزیر نفت استعفا داد",
-        "title_en": "دونالد ترامپ: وزیر نفت ایران استعفا داده و اقتصادشان از بین رفته است",
-        "summary": [
-            "ترامپ وضعیت اقتصادی ایران را بحرانی توصیف کرد و از تورم سه درصدی سخن گفت",
-            "عبور میلیون‌ها بشکه نفت از تنگه هرمز با وجود تنش‌ها ادامه دارد",
-            "آمریکا در حال توسعه زیرساخت‌های نظامی و ساخت کارخانه‌های مهمات‌سازی جدید است"
-        ],
-        "impact": "افزایش فشار روانی بر بازار ارز و تشدید انزوای اقتصادی حاکمیت",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610060171",
-        "clean_url": "https://www.iranintl.com/202610060171",
-        "image": "http://www.bing.com/th?id=ONUT.EZI_0GPDusc3ChnvP5x9zw&pid=News",
-        "timestamp": 1791290760.0
     }
 ]
