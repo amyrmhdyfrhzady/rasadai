@@ -289,6 +289,25 @@
         "timestamp": 1791551160.0
     },
     {
+        "id": "9e2446f1d5",
+        "title_fa": "رکوردشکنی اعدام‌ها در جـ.م.ا با رشد ۲۹ درصدی",
+        "title_en": "Iran executed over 2,000 people in past year, rights group says",
+        "summary": [
+            "ثبت بیش از دو هزار فقره اعدام طی یک سال گذشته توسط نهادهای حقوق بشری",
+            "استفاده حکومت از طناب دار برای سرکوب اعتراضات و ایجاد ارعبار عمومی",
+            "پنهان‌کاری حاکمیت به طوری که ۹۵ درصد این اعدام‌ها رسماً اعلام نشده‌اند"
+        ],
+        "impact": "تشدید جو خفقان و ترس در جامعه برای مقابله با موج نارضایتی‌های عمومی",
+        "tag": "حقوق_بشر",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610091479",
+        "clean_url": "https://www.iranintl.com/en/202610091479",
+        "image": "http://www.bing.com/th?id=ONUT.xfA7iacs684KhejzefeLKQ&pid=News",
+        "timestamp": 1791551040.0
+    },
+    {
         "id": "17648f6cb0",
         "title_fa": "فشار نهایی واشینگتن؛ ترامپ از پایان کار ج.ه. گفت",
         "title_en": "ترامپ از پایان زودهنگام جنگ ایران گفت؛ واشینگتن در پی محاصره زمینی است",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://www.iranintl.com/en/202610072904",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/f0a22fcf0ff333b525aba17d741e61feea83a7c1-3072x4096.jpg?rect=572,1493,1649,1649&w=200&h=200&q=58&fit=crop&auto=format",
         "timestamp": 1791317700.0
-    },
-    {
-        "id": "700f2bcd21",
-        "title_fa": "کنایه طعنه‌آمیز قالیباف به وزیر خزانه‌داری آمریکا با عبور نفت از ۱۰۰ دلار",
-        "title_en": "Iran's parliament speaker spooks Scott Bessent with Halloween-themed jab as Brent tops $100: 'Boo! Are you ready?'",
-        "summary": [
-            "رئیس مجلس ج.ا با استفاده از تم هالووین و عبارت 'ترسیدی؟ آماده‌ای؟' به اظهارات اسکات بسنت درباره اثرگذاری تحریم‌ها واکنش نشان داد.",
-            "همزمان با این جنگ روانی، بهای نفت برنت از کانال ۱۰۰ دلار عبور کرد که فشار مضاعفی بر اقتصاد آمریکا وارد می‌کند."
-        ],
-        "impact": "تشدید جنگ لفظی میان تهران و واشنگتن همزمان با بحران قیمت انرژی.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Benzinga on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-s-parliament-speaker-spooks-scott-bessent-with-halloween-themed-jab-as-brent-tops-100-boo-are-you-ready/ar-AA2dIMLV",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-s-parliament-speaker-spooks-scott-bessent-with-halloween-themed-jab-as-brent-tops-100-boo-are-you-ready/ar-AA2dIMLV",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791316960.0
     }
 ]
