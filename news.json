@@ -1,5 +1,23 @@
 [
     {
+        "id": "80e8f70348",
+        "title_fa": "شکاف در دیوار تحریم؛ چرا سیاست‌های مالی ترامپ دور زده می‌شود؟",
+        "title_en": "How Deregulation Undermines the Trump Administration's 'Economic D-Day' Against Iran",
+        "summary": [
+            "مقررات‌زدایی مالی در داخل آمریکا ناخواسته راه‌های فراری برای دور زدن تحریم‌های ایران ایجاد کرده است.",
+            "تلاش دولت ترامپ برای انزوای مالی جمهوری اسلامی با سیاست‌های اقتصادی داخلی خودش تناقض دارد."
+        ],
+        "impact": "آزمون جدی برای کارآمدی فشار حداکثری اقتصادی علیه حکومت",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Center for American Progress",
+        "url": "https://www.americanprogress.org/article/how-deregulation-undermines-the-trump-administrations-economic-d-day-against-iran/",
+        "clean_url": "https://www.americanprogress.org/article/how-deregulation-undermines-the-trump-administrations-economic-d-day-against-iran",
+        "image": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/10/GettyImages-2293189053-cropped.jpg",
+        "timestamp": 1791551160.0
+    },
+    {
         "id": "c0561e1a6c",
         "title_fa": "بسته شدن درهای نظارت اتمی به روی بازرسان آژانس",
         "title_en": "Iran Doesn't Need to Leave the Treaty. It Has Already Left the Inspectors.",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran",
         "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/1536x864_cmsv2_9a6119df-c6c4-5076-9d54-cddc11fc7f67-9794294_lTen__v1024x512__box_0,29,1536,836.jpeg",
         "timestamp": 1791280320.0
-    },
-    {
-        "id": "c8dcbf9ebe",
-        "title_fa": "ع عقب‌نشینی نفت از اوج‌های اولیه",
-        "title_en": "Crude Oil Pares Early Gains",
-        "summary": [
-            "بهای نفت خام پس از ثبت رشد در ساعات اولیه معاملات، بخشی از سود خود را از دست داد.",
-            "بازار انرژی همچنان زیر سایه سنگین تحولات خاورمیانه و نوسانات تقاضا نوسان می‌کند."
-        ],
-        "impact": "تثبیت نسبی قیمت‌ها در بازارهای جهانی انرژی باوجود تنش‌ها",
-        "tag": "ارز",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzdaLXFnaVViR0hva1RuVHJkVzFRakpFUlRUZmsyUHZHM3h4OG9vYXdhejV5RGlmY2VURnFUQmNoYTk4MW5Jb0Y5ZnpGSkNTR1RwbHRMSkpia2pkVnNIX0dtUlRNR1VoV2FsbnVaSEx1T3gtc01FcEY5VzRjMmtRZ1JuY2djS0pOQ0JVQXNvaWFCeTRSVlRoWXBpWGVwb01SOUNrU3VuM2E4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzdaLXFnaVViR0hva1RuVHJkVzFRakpFUlRUZmsyUHZHM3h4OG9vYXdhejV5RGlmY2VURnFUQmNoYTk4MW5Jb0Y5ZnpGSkNTR1RwbHRMSkpia2pkVnNIX0dtUlRNR1VoV2FsbnVaSEx1T3gtc01FcEY5VzRjMmtRZ1JuY2djS0pOQ0JVQXNvaWFCeTRSVlRoWXBpWGVwb01SOUNrU3VuM2E4Zw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791280040.0
     }
 ]
