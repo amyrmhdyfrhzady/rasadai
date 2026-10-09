@@ -344,6 +344,24 @@
         "timestamp": 1791528120.0
     },
     {
+        "id": "3aaf6b9804",
+        "title_fa": "کاهش قیمت نفت با سیگنال ترامپ درباره ایران",
+        "title_en": "Oil falls as Trump comments on Iran talks ease supply concerns",
+        "summary": [
+            "دونالد ترامپ اعلام کرد پیش از انتخابات ماه آینده آمریکا هیچ اقدام نظامی علیه ایـران انجام نمی‌شود.",
+            "مذاکرات پشت پرده باعث کاهش نگرانی بازار از اختلال در عرضه نفت منطقه شد."
+        ],
+        "impact": "افت موقت قیمت نفت در بازارهای جهانی به دلیل فروکش کردن تنش‌های نظامی.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09/",
+        "clean_url": "https://www.reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09",
+        "image": "http://www.bing.com/th?id=ONUT.CHnGnr9TfwTPvgYyd_C_Fg&pid=News",
+        "timestamp": 1791526920.0
+    },
+    {
         "id": "dbdc693b70",
         "title_fa": "سقوط آزاد ریال و رکود بی‌سابقه قدرت خرید کارگران",
         "title_en": "Iran's Dollar Surge to 270,000 Tomans Deepens Workers' Purchasing-Power Crisis",
@@ -527,6 +545,25 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/irans-houthi-allies-step-deadly-110913070.html",
         "image": "http://www.bing.com/th?id=ONUT.zYjOaoF3cdEz_c-JncCNfA&pid=News",
         "timestamp": 1791518940.0
+    },
+    {
+        "id": "31ec150dbb",
+        "title_fa": "تشدید درگیری‌های دریایی و هوایی با حملات نیابتی",
+        "title_en": "Tanker hit as Iran expands strikes; Iran-backed Houthis hit Saudi airport",
+        "summary": [
+            "یک فروند نفتکش حامل گاز مایع هدف حمله قرار گرفت و دچار حریق شد.",
+            "این حملات پس از تحریم ۱۷ نفتکش ناوگان سایه ایـران توسط آمریکا رخ داده است.",
+            "شبه‌نظامیان حوثی وابسته به سپاه پاسداران فرودگاهی در عربستان را هدف قرار دادند."
+        ],
+        "impact": "افزایش ریسک امنیت انرژی و دریانوردی در آب‌های منطقه.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "NewsNation on MSN",
+        "url": "https://www.msn.com/en-us/news/other/tanker-hit-as-iran-expands-strikes-iran-backed-houthis-hit-saudi-airport/ar-AA2dTs4u",
+        "clean_url": "https://www.msn.com/en-us/news/other/tanker-hit-as-iran-expands-strikes-iran-backed-houthis-hit-saudi-airport/ar-AA2dTs4u",
+        "image": "http://www.bing.com/th?id=ONUT.j3K323uq4IDHHScJVF4jDw&pid=News",
+        "timestamp": 1791517455.0
     },
     {
         "id": "856d4f67e3",
@@ -5450,43 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0VUFUTjMzMkFHaE9FZFRsN0V5VXExS1k0WWFkb0VGR21qM2hEajctWnVKaVoxZnBUTWM0azlTcW1KQkxHMHlRaldsM0o4bWZlZjlTUFV3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791288955.0
-    },
-    {
-        "id": "e5f1aaba2e",
-        "title_fa": "افزایش اعدام‌های سیاسی و امنیتی پس از اعتراضات دی‌ماه",
-        "title_en": "Iran executes nearly two people a week since January protests",
-        "summary": [
-            "حکومت جـ.مـ.هـ.و‌رئ اسلامی از زمان اعتراضات دی‌ماه به طور میانگین هفته‌ای دو نفر را به اتهامات امنیتی و سیاسی اعدام کرده است.",
-            "نزدیک به ۲۰۰ نفر دیگر از جمله چندین زن و افراد زیر سن قانونی در صف اجرای احکام اعدام قرار دارند.",
-            "سازمان‌های حقوق بشری تأکید می‌کنند که آمار واقعی اعدام‌ها بسیار بیشتر از ارقام ثبت و تأیید شده است."
-        ],
-        "impact": "تشدید جو ارعاب و سرکوب خیابانی برای جلوگیری از شکل‌گیری اعتراضات جدید.",
-        "tag": "حقوق‌بشر",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610062869",
-        "clean_url": "https://www.iranintl.com/en/202610062869",
-        "image": "http://www.bing.com/th?id=ONUT.Xp24vNUgLja9MPqgWfKvnQ&pid=News",
-        "timestamp": 1791286380.0
-    },
-    {
-        "id": "8448c44368",
-        "title_fa": "تهدیدهای پوچ سپاه پاسداران همزمان با سالگرد طوفان الاقصی",
-        "title_en": "سپاه پاسداران: هرگونه جنگ و حمله جدید با پاسخی ویرانگر مواجه خواهد شد",
-        "summary": [
-            "سپاه پاسداران در بیانیه‌ای ادعا کرد که هرگونه حمله جدید با پاسخ ویرانگر مواجه می‌شود.",
-            "این نهاد نظامی با اعتراف ضمنی به فشارها، مدعی شد که عصر تهدید بی‌هزینه به پایان رسیده است.",
-            "تکرار شعارهای تکراری درباره نابودی اسرائیل و کنترل بر تنگه هرمز بخش دیگری از این بیانیه بود."
-        ],
-        "impact": "این اظهارات مصرف داخلی داشته و نشان‌دهنده تلاش برای حفظ روحیه نیروهای نیابتی پس از ضربات سنگین است.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610064643",
-        "clean_url": "https://www.iranintl.com/202610064643",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791285600.0
     }
 ]
