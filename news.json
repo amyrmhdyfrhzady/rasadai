@@ -1,5 +1,24 @@
 [
     {
+        "id": "408151ad40",
+        "title_fa": "فروپاشی ریال نتیجه فساد ساختاری و چاپ پول",
+        "title_en": "Prince Pahlavi says Iran's rial collapse reflects regime policies and corruption",
+        "summary": [
+            "رضا پهلوی سقوط ارزش ریال را معلول سیاست‌های مخرب حاکمیت و فساد سیستماتیک دانست.",
+            "تورم نزدیک به ۹۰ درصد به عنوان مالیات پنهان از جیب مردم فقیر به حساب رانت‌خواران واریز می‌شود.",
+            "تلاش‌های حکومتی برای تزریق دلار به بازار صرفاً به غارت بیشتر منابع ملی توسط خودی‌ها انجامیده است."
+        ],
+        "impact": "بی‌ارزش شدن مداوم سرمایه‌های خرد و گرانی روزافزون کالاهای اساسی برای جامعه.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610093051",
+        "clean_url": "https://www.iranintl.com/en/202610093051",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791543780.0
+    },
+    {
         "id": "54c848a8ff",
         "title_fa": "اعلام آمادگی پوتین برای میانجیگری میان تهران و غرب",
         "title_en": "Putin tells Iranian president Russia is ‘ready’ to help resolve Iran conflict",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkRKbHN3dER1WmtOal8ydG1MZERURkhpaGxXSmtDRlYzMUZHQkJvcmI3U2ZqSmJDOHVuYWhtUUxjbXFqX0NjWlFQR19UVC1IYTNfako5Um5qTDZCMHFGWHBNUmhRRnFjVTlRR29aWHhOSmJZSldwVlpOQzl3WE9BeXowWUQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791264375.0
-    },
-    {
-        "id": "f9663fe913",
-        "title_fa": "کلید استیضاح عباس عراقچی در مجلس زده شد",
-        "title_en": "Iran lawmakers file impeachment request against foreign minister",
-        "summary": [
-            "گروهی از نمایندگان مجلس درخواست استیضاح وزیر خارجه را ثبت کرده‌اند.",
-            "هیئت رئیسه مجلس هنوز این درخواست را روی میز بررسی قرار نداده است."
-        ],
-        "impact": "شکاف درونی حکومت بر سر مدیریت دیپلماسی و تنش‌های منطقه‌ای را عیان می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610065913",
-        "clean_url": "https://www.iranintl.com/en/202610065913",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791263400.0
     }
 ]
