@@ -326,6 +326,24 @@
         "timestamp": 1791530333.0
     },
     {
+        "id": "984747c31f",
+        "title_fa": "نمایش قدرت سنتکام با استقرار ناو جورج واشینگتن در دریای عرب",
+        "title_en": "سنتکام تصاویری از تمرین ورزشی خدمه ناو هواپیمابر جورج واشینگتن منتشر کرد",
+        "summary": [
+            "سنتکام تصاویری از آمادگی جسمانی و روحیه خدمه ناو هواپیمابر جورج واشینگتن منتشر کرد.",
+            "این ناو غول‌پیکر هم‌اکنون در دریای عرب مستقر است و عملیات‌های نظامی علیه رژیم را پشتیبانی می‌کند."
+        ],
+        "impact": "حضور ناوگان پیشرفته آمریکا در منطقه، پیامی آشکار از آمادگی رزمی بالا برای مهار تهدیدات است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610097183",
+        "clean_url": "https://www.iranintl.com/202610097183",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791528120.0
+    },
+    {
         "id": "dbdc693b70",
         "title_fa": "سقوط آزاد ریال و رکود بی‌سابقه قدرت خرید کارگران",
         "title_en": "Iran's Dollar Surge to 270,000 Tomans Deepens Workers' Purchasing-Power Crisis",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://www.iranintl.com/202610064643",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791285600.0
-    },
-    {
-        "id": "b767aead77",
-        "title_fa": "بحران مسکن جوانان آمریکایی و ناامیدی از وعده‌های انتخاباتی",
-        "title_en": "Young voters struggle to afford housing. But they don't expect help from political candidates",
-        "summary": [
-            "جهش نرخ وام مسکن و قیمت خانه‌ها، رویای خانه‌دار شدن را برای نسل جوان در ایالت‌های کلیدی تبدیل به کابوس کرده است.",
-            "رای‌دهندگان جوان آمریکایی هیچ چشم‌انداز مثبتی برای بهبود بازار مسکن از سوی سیاستمردان نمی‌بینند."
-        ],
-        "impact": "سرخوردگی فزاینده رای‌دهندگان جوان از عملکرد دولت در کنترل هزینه‌های مسکن.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
-        "clean_url": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
-        "image": "http://www.bing.com/th?id=ONUT.vJu54j6oZTaav2n4P9FPuQ&pid=News",
-        "timestamp": 1791285060.0
     }
 ]
