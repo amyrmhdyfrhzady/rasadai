@@ -36,6 +36,24 @@
         "timestamp": 1791503940.0
     },
     {
+        "id": "95aa0c8479",
+        "title_fa": "بازگشت ناو هواپیمابر آمریکایی پس از ماموریت طولانی",
+        "title_en": "USS Abraham Lincoln returns to US after deployment in Iran war",
+        "summary": [
+            "ناو هواپیمابر آبراهام لینکلن پس از ۳۲۱ روز ماموریت در منطقه خاورمیانه و پهنه آبی پیرامون ایران، به پایگاه خود در سن‌دیگو بازگشت.",
+            "این ناو بیش از ۲۵۰ روز متوالی را در دریا سپری کرد و ناو هواپیمابر جرج واشنگتن جایگزین آن در منطقه شد."
+        ],
+        "impact": "تغییر و چرخش تجهیزات نظامی ایالات متحده در منطقه بدون کاهش سطح آمادگی رزمی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610088821",
+        "clean_url": "https://www.iranintl.com/en/202610088821",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791502320.0
+    },
+    {
         "id": "b0a393f34c",
         "title_fa": "احتمال تعویق انتخابات اسرائیل همزمان با آماده‌سازی پنتاگون برای جنگ",
         "title_en": "Zamir says return to war with Iran may postpone Israel election as Pentagon prepares plans - report",
@@ -5475,24 +5493,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52RHN5VVI1S1A5R2RLR0syX2hsWTI1NkpZY3lNcGJCOTFhTDBEaXpVU2RxcGlXSXF4TTdXamVLNW9YYjltVmhKLWp3VTRSWHRFX2lxSEQ1U29IdmJOZVI0LU1MQlpPcnhwUGtoTlJzQ2EtSnRSOHpGaEgzNHk",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791217775.0
-    },
-    {
-        "id": "3e31ed053e",
-        "title_fa": "توسعه توریسم زمینی؛ راهکار جمهوری اسلامی برای فرار از تحریم هوایی",
-        "title_en": "Iran says it will focus on land tourism after flight sanctions",
-        "summary": [
-            "وزیر میراث فرهنگی اعتراف کرد تحریم‌های هوانوردی آمریکا صنعت گردشگری را فلج کرده است.",
-            "قطع پروازهای عراق و جمهوری آذربایجان به دلیل فشارهای واشنگتن، مقامات را به سمت مرزهای زمینی هل داده است.",
-            "دولت پزشکیان برای جبران کسری درآمدها به فعال‌سازی مرزهای زمینی با کشورهای همسایه دل بسته است."
-        ],
-        "impact": "ناتوانی در حفظ خطوط هوایی بین‌المللی، اقتصاد گردشگری را بیش از پیش به زمین‌بازی همسایگان محدود می‌کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610057513",
-        "clean_url": "https://www.iranintl.com/en/202610057513",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791217740.0
     }
 ]
