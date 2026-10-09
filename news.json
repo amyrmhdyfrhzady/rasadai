@@ -437,6 +437,25 @@
         "timestamp": 1791478801.0
     },
     {
+        "id": "1da914a08d",
+        "title_fa": "تاثیر جنگ با ایران بر کابوس انتخاباتی تـ.ر.م.پ",
+        "title_en": "Why Trump and Iran may now be waiting out the midterms",
+        "summary": [
+            "اعتراف صریح تـ.ر.م.پ به عدم اقدام نظامی جدید علیه تـ.هـ.ر.ا.ن تا پیش از انتخابات میان‌دوره‌ای، نشان‌دهنده هزینه بالای این جنگ برای پایگاه سیاسی جمهوری‌خواهان است.",
+            "گرانی شدید سوخت و مخالفت عمومی با درگیری نظامی، آرای حزب حاکم را در ایالت‌های کلیدی به شدت به خطر انداخته است.",
+            "تـ.هـ.ر.ا.ن با هوشمندی از اهرم انتخابات آمریکا برای وارد کردن فشار سیاسی استفاده می‌کند، اما این سناریو احتمال تنش‌آفرینی جدید در هفته‌های آینده را کاملاً زنده نگه داشته است."
+        ],
+        "impact": "هزینه‌های گزاف جنگ و بحران سوخت، موقعیت انتخاباتی جمهوری‌خواهان را به شدت متزلزل کرده است.",
+        "tag": "انتخابات آمریکا",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/09/politics/trump-iran-war-midterms",
+        "clean_url": "https://www.cnn.com/2026/10/09/politics/trump-iran-war-midterms",
+        "image": "http://www.bing.com/th?id=ONUT.Ne5UOeyrnyk30e7UND_keg&pid=News",
+        "timestamp": 1791478800.0
+    },
+    {
         "id": "7061b7d0a8",
         "title_fa": "ریزش قیمت نفت با سیگنال مذاکره ترامپ",
         "title_en": "کاهش قیمت نفت پس از اظهارات ترامپ درباره مذاکرات با جمهوری اسلامی",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://en.vijesti.me/world-a/globus/829970/If-Iran-is-going-towards-a-nuclear-bomb--it-cannot-do-without-the-IAEA.-Western-intelligence-services-cannot-be-honest.",
         "image": "https://www.vijesti.me/data/images/2026/10/05/19/5764041_shutterstock-1165467949_share.jpg",
         "timestamp": 1791226920.0
-    },
-    {
-        "id": "71b1d94a26",
-        "title_fa": "هشدار صریح ترامپ و تداوم فشار نظامی آمریکا",
-        "title_en": "US-Iran war news: Trump warns Tehran of 'severe consequences', Iran reviews 7-day ceasefire plan",
-        "summary": [
-            "دونالد ترامپ با لحنی تند به حکومت ایران درباره پیامدهای سنگین اقداماتش هشدار داد.",
-            "فرماندهی مرکزی آمریکا از اجرای موثر محاصره دریایی و تغییر مسیر ده‌ها کشتی تجاری خبر داد.",
-            "تهران در حال بررسی یک طرح آتش‌بس هفت روزه است تا شاید راهی برای کاهش فشارهای موجود پیدا کند."
-        ],
-        "impact": "فشار حداکثری دریایی و تهدیدات نظامی، نظام را در تنگنای شدید امنیتی قرار داده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ET Now on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-warns-tehran-of-severe-consequences-iran-reviews-7-day-ceasefire-plan-6-key-updates/ar-AA2dEbrU",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-warns-tehran-of-severe-consequences-iran-reviews-7-day-ceasefire-plan-6-key-updates/ar-AA2dEbrU",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791226712.0
     }
 ]
