@@ -1,5 +1,23 @@
 [
     {
+        "id": "208691d4a8",
+        "title_fa": "نوسان قیمت سوخت در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "آمارهای روزانه نشان‌دهنده تغییرات مداوم نرخ سوخت در ایالت‌های مختلف آمریکا است.",
+            "این داده‌ها ابزار مهمی برای بررسی وضعیت تورم و هزینه‌های زندگی شهروندان آمریکایی به شمار می‌رود."
+        ],
+        "impact": "تغییرات قیمت بنزین مستقیماً روی هزینه‌های حمل‌ونقل و سبد هزینه خانوارهای آمریکایی اثر می‌گذارد.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791561122.0
+    },
+    {
         "id": "ba691ab7c5",
         "title_fa": "انتقادات تند سناتور آمریکایی از سیاست‌های جنگی",
         "title_en": "Booker blames Israel for ‘colossally stupid’ Iran war, GOP challenger says Trump should be tougher on ‘settlers’",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202610066353",
         "image": "http://www.bing.com/th?id=ONUT.AWXw6l0qtZvQAg_Joa51-A&pid=News",
         "timestamp": 1791295200.0
-    },
-    {
-        "id": "737ee759c7",
-        "title_fa": "درخواست گوترش برای پایان تنش‌های ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی و آمریکا",
-        "title_en": "In Islamabad, Guterres calls for end to US-Iran conflict",
-        "summary": [
-            "دبیرکل سازمان ملل در اسلام‌آباد خواستار توقف فوری درگیری‌های مستقیم و نیابتی بین تهران و واشنگتن شد.",
-            "این درخواست نشان‌دهنده نگرانی نهادهای بین‌المللی از گسترش بی‌ثباتی در منطقه است که می‌تواند به یک درگیری تمام‌عیار تبدیل شود."
-        ],
-        "impact": "تلاش دیپلماتیک برای کاهش فشار نظامی در شرایطی که تنش‌ها به نقطه جوش رسیده است.",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "UN News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LYVBUSm1sdE5oRFZaY3BUS3Vhbk8ySkFRakwzM2JiMHNEcmJ6czcyeWp4VDJnNjNCUVd5cUZVZzc4VVlxNHNOTGpSWF9JU2NvSHUyaTNsOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LYVBUSm1sdE5oRFZaY3BUS3Vhbk8ySkFRakwzM2JiMHNEcmJ6czcyeWp4VDJnNjNCUVd5cUZVZzc4VVlxNHNOTGpSWF9JU2NvSHUyaTNsOA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791295069.0
     }
 ]
