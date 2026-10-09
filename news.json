@@ -1,5 +1,24 @@
 [
     {
+        "id": "984e92c6d7",
+        "title_fa": "هدف‌گیری یک میلیارد دلار رمزارز مرتبط با ایران توسط آمریکا",
+        "title_en": "US Targets $1 Billion in Crypto Assets in Economic Crackdown on Iran",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا اعلام کرد مقامات این کشور قصد دارند یک میلیارد دلار دارایی دیجیتال مرتبط با ایران را مسدود و مصادره کنند.",
+            "شرکت تحلیل بلاکچین چین‌آلایس حجم فعالیت‌های رمزارزی ایران در سال ۲۰۲۵ را بیش از ۷.۷۸ میلیارد دلار برآورد کرده است.",
+            "دولت ترامپ با اعمال فشار حداکثری اقتصادی تلاش می‌کند منافذ مالی و تراکنش‌های مرتبط با سپاه پاسداران در بستر رمزارز را کاملاً مسدود کند."
+        ],
+        "impact": "تشدید فشار اقتصادی و بستن مسیرهای دور زدن تحریم‌ها از طریق بازار رمزارز.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Coingape",
+        "url": "https://coingape.com/us-targets-1-billion-in-crypto-assets-in-economic-crackdown-on-iran/",
+        "clean_url": "https://coingape.com/us-targets-1-billion-in-crypto-assets-in-economic-crackdown-on-iran",
+        "image": "https://coingape.com/wp-content/uploads/2026/06/Breaking-US-Iran-Deal-Eyes-Emergency-1.webp",
+        "timestamp": 1791558360.0
+    },
+    {
         "id": "a78b56ce43",
         "title_fa": "انتقاد ییر گولان از جنگ با ایران و وضعیت امنیتی اسرائیل",
         "title_en": "Yair Golan calls Khamenei killing a mistake, says Iran war left Israel worse off",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.iranintl.com/202610060171",
         "image": "http://www.bing.com/th?id=ONUT.EZI_0GPDusc3ChnvP5x9zw&pid=News",
         "timestamp": 1791290760.0
-    },
-    {
-        "id": "abd2a892a2",
-        "title_fa": "تهدید تلافی‌جویانه ط-ر-ا-ح-ا-ن ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی علیه اسرائیل",
-        "title_en": "Iran warns Israel of retaliation as diplomacy struggles to prevent renewed fighting",
-        "summary": [
-            "دیپلماسی منطقه‌ای بار دیگر به بن‌بست خورده و تهران از پاسخ نظامی مستقیم سخن می‌گوید.",
-            "سایه جنگ سنگین‌تری بر فراز مرزها چرخیده و تلاش‌های بین‌المللی برای کاهش تنش شکست خورده است."
-        ],
-        "impact": "افزایش فوری احتمال درگیری نظامی مستقیم میان ارتش اسرائیل و نیروهای نیابتی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ynetnews.com",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0VUFUTjMzMkFHaE9FZFRsN0V5VXExS1k0WWFkb0VGR21qM2hEajctWnVKaVoxZnBUTWM0azlTcW1KQkxHMHlRaldsM0o4bWZlZjlTUFV3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0VUFUTjMzMkFHaE9FZFRsN0V5VXExS1k0WWFkb0VGR21qM2hEajctWnVKaVoxZnBUTWM0azlTcW1KQkxHMHlRaldsM0o4bWZlZjlTUFV3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791288955.0
     }
 ]
