@@ -275,6 +275,24 @@
         "timestamp": 1791519180.0
     },
     {
+        "id": "b03e2bcaa1",
+        "title_fa": "حمله حوثی‌ها به ریاض و تغییر موضع تهران در مذاکرات",
+        "title_en": "Iran's Houthi allies step up deadly attacks on Saudi Arabia",
+        "summary": [
+            "حملات مهلک نیابتی‌های ایران در یمن به فرودگاه ریاض شدت یافته و تنش‌ها در منطقه وارد فاز جدیدی شده است.",
+            "مسعود پزشکیان از آمادگی برای نهایی کردن مذاکرات با واسطه‌ها خبر داده، اما دونالد ترامپ طرح پیشنهادی تهران را رد کرده است."
+        ],
+        "impact": "تشدید درگیری‌های نیابتی مستقیماً بر امنیت انرژی و نوسانات بازار نفت تأثیر می‌گذارد.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/irans-houthi-allies-step-deadly-110913070.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/irans-houthi-allies-step-deadly-110913070.html",
+        "image": "http://www.bing.com/th?id=ONUT.zYjOaoF3cdEz_c-JncCNfA&pid=News",
+        "timestamp": 1791518940.0
+    },
+    {
         "id": "856d4f67e3",
         "title_fa": "هشدار مقام ارشد ارتش اسرائیل درباره تعویق انتخابات آمریکا",
         "title_en": "'War With Iran May Delay Elections,' IDF Chief Zamir Warns US | LIVE BLOG",
@@ -291,6 +309,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmNaYnVDLU1McWJkcS0yeXM5X0hxNmxZR1h3NkplVkxETXhqX0J5b2t0Z01vNTFuclNvQWhDYy1teFFobHFvRU1IazlrMF9nQ3B2VEJiTEYxQ3hkVUZtai1KUUpNR2NwLXhCZ1JGOUFzRVRhenVldURtbnRYcVFORkVYcUFvclYzSE9VRDRQeURDd2JkYWY0cG1pWGo1NXBiSWRlcXo4WFFYNGxob211blNzM3F6Z3phZ28w",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791517140.0
+    },
+    {
+        "id": "ae79bc1ece",
+        "title_fa": "طرح آمریکا برای دور زدن تنگه هرمز در صادرات نفت عراق",
+        "title_en": "رویترز: تلاش فرستاده ترامپ برای صادرات نفت عراق بدون نیاز به عبور از تنگه هرمز",
+        "summary": [
+            "فرستاده ویژه دونالد ترامپ به دنبال اجرای پروژه ۱۵ میلیارد دلاری خط لوله نفت عراق به سوریه است.",
+            "این طرح با هدف کاهش وابستگی صادرات نفت منطقه به مسیر پرخطر تنگه هرمز دنبال می‌شود."
+        ],
+        "impact": "کاهش اهرم فشار جمهوری اسلامی بر امنیت انرژی خلیج فارس و تنگه هرمز.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610094837",
+        "clean_url": "https://www.iranintl.com/202610094837",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791516900.0
+    },
+    {
+        "id": "3b634b6382",
+        "title_fa": "رضا پهلوی: نابودی ریال نتیجه فساد و سیاست‌های حکومت است",
+        "title_en": "شاهزاده رضا پهلوی: نابودی پول ملی نتیجه مستقیم سیاست‌های نابخردانه حکومت است",
+        "summary": [
+            "شاهزاده رضا پهلوی تورم نزدیک به ۹۰ درصد را مالیات پنهانی حکومت بر جیب مردم توصیف کرد.",
+            "بی‌ثباتی اقتصادی و دلارپاشی مداوم تنها به افزایش ثروت خودی‌های نظام منجر می‌شود و اصلاح با این ساختار غیرممکن است."
+        ],
+        "impact": "افزایش نارضایتی عمومی از وضعیت فاجعه‌بار معیشتی و بی‌ارزش شدن دستمزدها.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610097719",
+        "clean_url": "https://www.iranintl.com/202610097719",
+        "image": "http://www.bing.com/th?id=ONUT.626XVA33yzWG39QGJQf0eA&pid=News",
+        "timestamp": 1791516840.0
     },
     {
         "id": "5c57d11a7a",
@@ -5437,61 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTklzbjJ2WDl3bGtLVS02UTYtSHhnZGdHT0M2SVpQT21ybDRSSHUySXdpUmF6T09fY0s1cVRraE50NW8wVVJublgyNHhoLWp2SmI1OFhnZkZZQmlGSmwwUWp6UjBlTzFPWmpGajFBZjRIQ3NFZ1ZhNXNqMU5QWU5yMnpKT2VoZFVQT2ZkT1JlelU1Y1FZUDAxWHBvTzVNd0JYdERXOUg1bWtxMUN3YXBOMHEzZnhtdElnNEpTaEM1LVNoSTRYT3pXVmdRM0I2ZGxBdlcw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791271812.0
-    },
-    {
-        "id": "4755080b22",
-        "title_fa": "ورود موساد به پرونده هواپیماربایی فلای‌دبی برای بررسی ردپای تهران",
-        "title_en": "Israel 'in the dark' over flydubai terror hijacker investigation as Mossad probes link to Iran",
-        "summary": [
-            "اسرائیل از روند مبهم تحقیقات درباره حادثه فلای‌دبی ابراز نارضایتی کرده و موساد مستقیماً در حال ارزیابی ارتباط این اقدام تروریستی با ج.ا.ا است.",
-            "کشف هرگونه ارتباط میان این هواپیماربایی و نهادهای امنیتی ایران، معادلات امنیتی پروازهای منطقه‌ای را تغییر خواهد داد."
-        ],
-        "impact": "تشدید تشریفات امنیتی در خطوط هوایی خلیج فارس و احتمال پاسخ‌های امنیتی مستقیم اسرائیل به اقدامات نیابتی.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "jpost.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVWo3NFRNdlhITjA5aUhaVWhQLWFudkF1RGNYNVJsdVJRQU5nUlJjX180TnptVFJ4by1HSUNkVXgzNFIzNUpDazgycmdlOXVYcGgwVWRtTzcyMWczU09Gcl9nV05ENm1FRWl5VG5n?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVWo3NFRNdlhITjA5aUhaVWhQLWFudkF1RGNYNVJsdVJRQU5nUlJjX180TnptVFJ4by1HSUNkVXgzNFIzNUpDazgycmdlOXVYcGgwVWRtTzcyMWczU09Gcl9nV05ENm1FRWl5VG5n",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791270779.0
-    },
-    {
-        "id": "84d425d323",
-        "title_fa": "هشدار ترامپ درباره تهدید اتمی ایران علیه شهرهای آمریکا",
-        "title_en": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
-        "summary": [
-            "ترامپ با طرح سناریوی حمله ایران به شهرهای کالیفرنیا، فشار روانی بر تهران را به حداکثر رسانده است.",
-            "این اظهارات نشان‌دهنده تغییر ادبیات ترامپ به سمت تهدیدهای وجودی و امنیتی علیه ج.ا است.",
-            "استفاده از نام شهرهای بزرگ آمریکا در سخنرانی ترامپ، هشداری به افکار عمومی درباره خطر برنامه هسته‌ای ایران است."
-        ],
-        "impact": "افزایش تنش‌های لفظی و احتمال بازگشت سیاست فشار حداکثری در صورت پیروزی ترامپ.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON29pRkdEczdWT2Y4ZW42aV9QQS1sNnl0UmRDMVNIczJ0Ynh3ZlNEOVVpUkd5ZFpSZjQ2MWY2VXNoR1JDRlhHdDdmY2h5UngzUC05VjZkaldUdUZpUjhCWFNudkIyOGJvbEt6UUJYdmpJU1p5VVUzRWM2dV85cnpDRWo5RHlCcUJ1VVFN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON29pRkdEczdWT2Y4ZW42aV9QQS1sNnl0UmRDMVNIczJ0Ynh3ZlNEOVVpUkd5ZFpSZjQ2MWY2VXNoR1JDRlhHdDdmY2h5UngzUC05VjZkaldUdUZpUjhCWFNudkIyOGJvbEt6UUJYdmpJU1p5VVUzRWM2dV85cnpDRWo5RHlCcUJ1VVFN",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791270716.0
-    },
-    {
-        "id": "2182a5f22d",
-        "title_fa": "خروج فوری بمب‌افکن‌های استراتژیک آمریکا از بریتانیا در پی تهدیدات امنیتی",
-        "title_en": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
-        "summary": [
-            "پنتاگون در تصمیمی ضربتی، بمب‌افکن‌های سنگین خود را پس از دریافت هشدارهای امنیتی جدی از خاک بریتانیا بیرون کشید.",
-            "این جابه‌جایی ناگهانی نشان می‌دهد فرماندهی نظامی آمریکا خطر حملات موشکی یا پهپادی به پایگاه‌های مستقر در اروپا را کاملاً واقعی و نزدیک ارزیابی کرده است.",
-            "واشنگتن با پراکنده کردن ناوگان بمب‌افکن‌های خود، تلاش می‌کند مانع از غافلگیری و آسیب‌پذیری تسلیحات استراتژیکش شود."
-        ],
-        "impact": "تغییر فوری آرایش پدافندی آمریکا در اروپا و افزایش سطح آماده‌باش پایگاه‌های پشتیبانی غرب.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXNRSlg4RFU5UjlUTF9FZU1kNG9icjM4M1I0WWlScFNNRFZVa241bEl4aG01R3NLWUZ4dzdNcWNxbkdnSTd2eFl3ZTQ4Nk9DR2RKTmpWaE9laWhqcW1wLWpENjVhRDMwdk5Tc2xFRUtFZ01VUVZyRUlqN1JNdTViUElNYTh2czctREJqbjdOejlLZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXNRSlg4RFU5UjlUTF9FZU1kNG9icjM4M1I0WWlScFNNRFZVa241bEl4aG01R3NLWUZ4dzdNcWNxbkdnSTd2eFl3ZTQ4Nk9DR2RKTmpWaE9laWhqcW1wLWpENjVhRDMwdk5Tc2xFRUtFZ01VUVZyRUlqN1JNdTViUElNYTh2czctREJqbjdOejlLZw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791270060.0
     }
 ]
