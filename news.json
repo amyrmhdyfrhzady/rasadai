@@ -37,6 +37,25 @@
         "timestamp": 1791530413.0
     },
     {
+        "id": "dbdc693b70",
+        "title_fa": "سقوط آزاد ریال و رکود بی‌سابقه قدرت خرید کارگران",
+        "title_en": "Iran's Dollar Surge to 270,000 Tomans Deepens Workers' Purchasing-Power Crisis",
+        "summary": [
+            "جهش قیمت دلار به مرز ۲۷۰ هزار تومان طی کمتر از یک سال، اقتصاد خانوارها را فلج کرده است.",
+            "حقوق ثابت کارگران در برابر تورم سرسام‌آور کفایت نمی‌کند و دستمزد دلاری آن‌ها ۴۱ درصد آب رفته است.",
+            "وابستگی واردات و تولید به نرخ ارز، موج جدیدی از گرانی کالاهای اساسی را رقم زده است."
+        ],
+        "impact": "فروپاشی کامل معیشت طبقه کارگر و گسترش اعتصابات صنفی در راه است.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran News Update",
+        "url": "https://irannewsupdate.com/news/economy/irans-dollar-surge-to-270000-tomans-deepens-workers-purchasing-power-crisis/",
+        "clean_url": "https://irannewsupdate.com/news/economy/irans-dollar-surge-to-270000-tomans-deepens-workers-purchasing-power-crisis",
+        "image": "https://irannewsupdate.com/wp-content/uploads/2026/10/8768776655.webp",
+        "timestamp": 1791526860.0
+    },
+    {
         "id": "f8d18c3355",
         "title_fa": "ادعای تهران درباره ناکارآمدی حملات اسرائیل",
         "title_en": "'Security Not Created Through Bombing': Iran Challenges Israel's Narrative",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production",
         "image": "http://www.bing.com/th?id=ONUT.4tyaKYLNkxcF5zLEgoBvFA&pid=News",
         "timestamp": 1791246600.0
-    },
-    {
-        "id": "52792ba1a2",
-        "title_fa": "فروپاشی نظم آمریکایی در خاورمیانه با چالش‌گری ایران",
-        "title_en": "Iran drove a nail into the coffin of Pax Americana, Arab pivot",
-        "summary": [
-            "محسن میلانی در تحلیل چتم هاوس تاکید کرد که جنگ با جـمـهـورۍ اسـلامـۍ پایه‌های سلطه آمریکا در خلیج فارس را به شدت لرزانده است.",
-            "پادشاهی‌های عربی ناچارند محاسبات امنیتی خود را بازنگری کنند و پکن از این وضعیت برای گسترش نفوذش بهره می‌برد.",
-            "واشنگتن و تل‌آویو تاکنون نتوانسته به اهداف راهبردی خود یعنی تغییر ساختار سیاسی ایران و نابودی توان موشکی و هسته‌ای دست یابد."
-        ],
-        "impact": "تضعیف تدریجی جایگاه استراتژیک آمریکا و باز شدن فضا برای نفوذ چین و قدرت‌نمایی مجدد تهران در منطقه.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "bankingnews.gr",
-        "url": "https://www.bankingnews.gr/diethni/articles/903585/iran-drove-a-nail-into-the-coffin-of-pax-americana-arab-pivot-china-the-big-winner",
-        "clean_url": "https://www.bankingnews.gr/diethni/articles/903585/iran-drove-a-nail-into-the-coffin-of-pax-americana-arab-pivot-china-the-big-winner",
-        "image": "https://www.bankingnews.gr/media/k2/items/cache/3db4a20e0f2e9b3a26bca28784218956_M.jpg",
-        "timestamp": 1791244800.0
     }
 ]
