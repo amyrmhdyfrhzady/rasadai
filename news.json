@@ -1,5 +1,23 @@
 [
     {
+        "id": "5c57d11a7a",
+        "title_fa": "کودک‌سربازی و قاچاق انسان؛ ابزار درآمدزایی حوثی‌ها",
+        "title_en": "US says Iran-backed Houthis profit from trafficking, recruit child soldiers",
+        "summary": [
+            "وزارت خارجه آمریکا در گزارشی از سودآوری قاچاق انسان و استفاده از کودکان در جنگ برای گروه نیابتی حوثی‌ها پرده برداشت.",
+            "اردوگاه‌های تابستانی حوثی‌ها به ماشین شستشوی مغزی و جذب صدها هزار کودک برای ماموریت‌های نظامی تبدیل شده است."
+        ],
+        "impact": "تداوم بحران انسانی در یمن و سوءاستفاده مالی گروه‌های مسلح از جنگ.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610095708",
+        "clean_url": "https://www.iranintl.com/en/202610095708",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/94d1b71d4efc31fa9297b557fce29aeb2ba3bc8a-800x533.jpg?w=576&h=384&q=58&fit=max&auto=format",
+        "timestamp": 1791514740.0
+    },
+    {
         "id": "f4fabcaede",
         "title_fa": "درگیری لفظی نامزدهای سنای میشیگان بر سر ایران و ترامپ",
         "title_en": "El-Sayed and Rogers spar over Iran and Trump, and toss insults, in Michigan Senate debate",
@@ -5476,23 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtVzJ6OUlrQTdHQ1JCN1NtSVJETVRKdllldEVrZ0pHU1RjMkF3RjV2TFJreElHNDljX3BQMGJsczRfbFZXYldXMkNPbW1sWXFYOWhqQVMzV1pMYlVnVFFTVlY3elhRVmszUFV2Qm5JcWdVa2FCOTdB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791223784.0
-    },
-    {
-        "id": "0e4e9b6df2",
-        "title_fa": "اعتراف یک نماینده مجلس به مدیریت ضعیف اقتصادی",
-        "title_en": "Iran lawmaker says officials must not dash public hopes amid economic hardship",
-        "summary": [
-            "علیرضا نوین، عضو کمیسیون عمران مجلس، با اشاره به مشکلات معیشتی و تورم سنگین، صراحتاً به سوءمدیریت دولتی اعتراف کرد.",
-            "این مقام حکومتی هشدار داد که ادامه این وضعیت و فشارهای اقتصادی، امید مردم را کاملاً از بین می‌برد."
-        ],
-        "impact": "اذعان درونی حاکمیت به بحران معیشتی و ترس از فروپاشی اجتماعی.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610065264",
-        "clean_url": "https://www.iranintl.com/en/202610065264",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791220500.0
     }
 ]
