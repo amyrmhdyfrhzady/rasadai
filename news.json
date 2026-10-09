@@ -1,5 +1,23 @@
 [
     {
+        "id": "67dadbafbb",
+        "title_fa": "استفاده سایبری وابستگان جـ.ـهـ.ـو از هوش مصنوعی آمریکایی",
+        "title_en": "Iran-linked actors used US AI for fake journalism, military targeting",
+        "summary": [
+            "گروه‌های وابسته به حاکمیت تهران از ابزارهای هوش مصنوعی پیشرفته آمریکایی برای راه‌اندازی رسانه‌های جعلی و عملیات روانی استفاده کرده‌اند.",
+            "این عوامل از فناوری‌های نوین برای شناسایی و هدف‌گذاری نظامی اهداف خود بهره برده‌اند."
+        ],
+        "impact": "افزایش ریسک امنیتی و مسدود شدن دسترسی عوامل سایبری وابسته به تهران به پلتفرم‌های هوش مصنوعی غربی.",
+        "tag": "سایبری",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WeFlrRnFhbmNUUU1PYUJIdzU5NUlGMlRrTTVTRG1ZVFJ3WHZ1bHU3UzhiRE9pMWl1dGV2Z01vNHRpNEpiTmprMFQwS3dLbmFGMXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WeFlrRnFhbmNUUU1PYUJIdzU5NUlGMlRrTTVTRG1ZVFJ3WHZ1bHU3UzhiRE9pMWl1dGV2Z01vNHRpNEpiTmprMFQwS3dLbmFGMXc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791588600.0
+    },
+    {
         "id": "cec8a7a37a",
         "title_fa": "ادعای رهبر دمکرات‌ها درباره پیامد حذف رهبر جـ.مـ.هـ.و‌ر‌ی‌اسـ.لـ.ا‌مـ.ی",
         "title_en": "Democrats Leader Says Killing Iran's Supreme Leader Weakened Israel",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202610069273",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/f0a22fcf0ff333b525aba17d741e61feea83a7c1-3072x4096.jpg?rect=266,1725,2260,1187&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791333000.0
-    },
-    {
-        "id": "51fb45f5f0",
-        "title_fa": "واکنش وزیر نفت سابق به فروپاشی اقتصادی و فشار ترامپ",
-        "title_en": "وزیر سابق نفت: استعفای من ارتباطی با ادعاهای ترامپ ندارد",
-        "summary": [
-            "محسن پاکنژاد مدعی شد کنار رفتنش ارتباطی با هشدارهای صریح ترامپ درباره وضعیت خراب اقتصادی ندارد.",
-            "تهران تلاش می‌کند با وجود تحریم‌های فلج‌کننده، ادعای تداوم عادی صادرات نفت را حفظ کند."
-        ],
-        "impact": "تشدید جنگ روانی مقامات آمریکایی علیه مدیران ارشد اقتصادی ارکان حاکمیت.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610071408",
-        "clean_url": "https://www.iranintl.com/202610071408",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791332820.0
     }
 ]
