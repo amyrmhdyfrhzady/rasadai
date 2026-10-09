@@ -253,6 +253,25 @@
         "timestamp": 1791558360.0
     },
     {
+        "id": "285bfa0737",
+        "title_fa": "توافق ترامپ و پوتین برای عرضه گازوئیل روسیه",
+        "title_en": "ترامپ از توافق با روسیه برای عرضه گازوئیل خبر داد؛ تحلیلگران اثر آن را محدود می‌دانند",
+        "summary": [
+            "دونالد ترامپ از توافق فوری با ولادیمیر پوتین برای تزریق گازوئیل روسیه به بازارهای جهانی و آمریکا خبر داد.",
+            "وزارت خزانه‌داری آمریکا مجوز موقت ورود این محموله‌ها را صادر کرده است.",
+            "کارشناسان بازار انرژی معتقدند این اقدام تأثیر پایداری بر کاهش قیمت‌ها نخواهد گذاشت."
+        ],
+        "impact": "تلاش کاخ سفید برای مهار قیمت سوخت پیش از انتخابات میاندوره‌ای با دور زدن تحریم‌های نفتی مسکو.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610097710",
+        "clean_url": "https://www.iranintl.com/202610097710",
+        "image": "http://www.bing.com/th?id=ONUT.vzL7ff1uy14B3NsGyKF9iA&pid=News",
+        "timestamp": 1791555240.0
+    },
+    {
         "id": "a78b56ce43",
         "title_fa": "انتقاد ییر گولان از جنگ با ایران و وضعیت امنیتی اسرائیل",
         "title_en": "Yair Golan calls Khamenei killing a mistake, says Iran war left Israel worse off",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791327705.0
-    },
-    {
-        "id": "bf1d6b632c",
-        "title_fa": "پوشش زنده تحولات خاورمیانه و درگیری‌های منطقه‌ای",
-        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
-        "summary": [
-            "رسانه‌های اسرائیلی به طور لحظه‌ای اخبار مربوط به تنش‌ها و تحولات ایران و اسرائیل را رصد می‌کنند.",
-            "گزارش‌های زنده بر وضعیت امنیتی و تحرکات نظامی در منطقه تمرکز دارد."
-        ],
-        "impact": "حفظ التهاب خبری و آماده‌باش روانی در فضای رسانه‌ای منطقه.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12NEVNc3JDNDZCV1lncExmQ2NPYjRwZ3JFcjIzYU96T2QyeTU5RGRPLUF1ekpwajhuODRKS3phcFZxSVJ5WjktY1Q2NEdObWVfUENkTE9aM1l0dFRZWnFKU3dkZ3ZGWUlOUkhrdjBRZW1DRzRIaDdsMExrN0dRWGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12NEVNc3JDNDZCV1lncExmQ2NPYjRwZ3JFcjIzYU96T2QyeTU5RGRPLUF1ekpwajhuODRKS3phcFZxSVJ5WjktY1Q2NEdObWVfUENkTE9aM1l0dFRZWnFKU3dkZ3ZGWUlOUkhrdjBRZW1DRzRIaDdsMExrN0dRWGM",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791327605.0
     }
 ]
