@@ -782,6 +782,24 @@
         "timestamp": 1791526860.0
     },
     {
+        "id": "0bd92e5e53",
+        "title_fa": "پنتاگون روی میز ترامپ؛ گزینه‌های حمله به مراکز موشکی و انرژی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی",
+        "title_en": "El Pentágono elabora nuevos planes de ataque contra Irán mientras Trump duda",
+        "summary": [
+            "ارتش آمریکا طرح‌های نظامی جدیدی برای ضربه به زیرساخت‌های نظامی و انرژی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی آماده کرده است.",
+            "با وجود استقرار ناوهای هواپیمابر در منطقه، ترامپ فعلاً با احتیاط رفتار می‌کند و رویکرد نظامی محدودی داشته است."
+        ],
+        "impact": "افزایش سایه جنگ و تقویت فشار نظامی آمریکا بر تهران در بستر تحولات منطقه‌ای.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Clarín",
+        "url": "https://www.clarin.com/new-york-times-international-weekly/pentagono-elabora-nuevos-planes-ataque-iran-trump-duda_0_KBmDS0RNnI.html",
+        "clean_url": "https://www.clarin.com/new-york-times-international-weekly/pentagono-elabora-nuevos-planes-ataque-iran-trump-duda_0_KBmDS0RNnI.html",
+        "image": "http://www.bing.com/th?id=ONUT.wiTGqHhvkYQaLJwF1TD2Sg&pid=News",
+        "timestamp": 1791525240.0
+    },
+    {
         "id": "f8d18c3355",
         "title_fa": "ادعای تهران درباره ناکارآمدی حملات اسرائیل",
         "title_en": "'Security Not Created Through Bombing': Iran Challenges Israel's Narrative",
@@ -891,6 +909,42 @@
         "clean_url": "https://www.iranintl.com/202610098801",
         "image": "http://www.bing.com/th?id=ONUT.nocwbamWs4F0JAkqOCMn6w&pid=News",
         "timestamp": 1791522720.0
+    },
+    {
+        "id": "8f802076f5",
+        "title_fa": "دستگاه پروپاگاندا رسوا شد؛ استفاده مسکو و تهران از هوش مصنوعی برای انتشار اخبار جعلی",
+        "title_en": "Irán y Rusia usaron ChatGPT para propaganda con 'falsos periodistas', según OpenAI",
+        "summary": [
+            "شرکت OpenAI حساب‌های کاربری وابسته به جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی و روسیه را که از چت‌جی‌پتی برای عملیات روانی استفاده می‌کردند، مسدود کرد.",
+            "شبکه‌های سایبری این دولت‌ها با استفاده از هوش مصنوعی و هویت خبرنگاران جعلی به دنبال جهت‌دهی به افکار عمومی بودند."
+        ],
+        "impact": "افشای ابعاد جدید جنگ روانی و سایبری جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی و روسیه در شبکه‌های اجتماعی.",
+        "tag": "سایبری",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/es-mx/noticias/otras/ir%C3%A1n-y-rusia-usaron-chatgpt-para-propaganda-con-falsos-periodistas-seg%C3%BAn-openai/ar-AA2dT0w4",
+        "clean_url": "https://www.msn.com/es-mx/noticias/otras/ir%C3%A1n-y-rusia-usaron-chatgpt-para-propaganda-con-falsos-periodistas-seg%C3%BAn-openai/ar-AA2dT0w4",
+        "image": "http://www.bing.com/th?id=ONUT.bRAVqMloO7MrmZFyg0P2lA&pid=News",
+        "timestamp": 1791521744.0
+    },
+    {
+        "id": "d15feb0151",
+        "title_fa": "معمای اورانیوم ۶۰ درصدی؛ ابهام بزرگ درباره حجم مواد غنی‌شده جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی",
+        "title_en": "¿Dónde está el uranio de Irán? La gran incógnita que frena el fin de la guerra",
+        "summary": [
+            "بخش عمده‌ای از اورانیوم غنی‌شده ۶۰ درصدی احتمالاً در تونل‌های اصفهان و نطنز از حملات جان سالم به در برده است.",
+            "آژانس بین‌المللی انرژی اتمی به دلیل ممانعت تهران از بازرسی‌ها، هیچ آمار دقیقی از میزان مواد باقی‌مانده ندارد."
+        ],
+        "impact": "باقی ماندن پرونده اتمی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی در نقطه‌ای مبهم و خطرناک برای امنیت بین‌المللی.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Enlace Judío",
+        "url": "https://www.enlacejudio.com/2026/10/09/donde-esta-el-uranio-de-iran-la-gran-incognita-que-frena-el-fin-de-la-guerra/",
+        "clean_url": "https://www.enlacejudio.com/2026/10/09/donde-esta-el-uranio-de-iran-la-gran-incognita-que-frena-el-fin-de-la-guerra",
+        "image": "https://i0.wp.com/www.enlacejudio.com/wp-content/uploads/2026/10/MURAL-EN-TEHERAN.jpg?fit=1121%2C630&ssl=1",
+        "timestamp": 1791521400.0
     },
     {
         "id": "61f61df876",
@@ -5430,61 +5484,5 @@
         "clean_url": "https://www.iranintl.com/en/202610078657",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791310500.0
-    },
-    {
-        "id": "7cae1923d9",
-        "title_fa": "افشای زنجیره فرماندهی سرکوب ۱۴۰۱ در گزارش عفو بین‌الملل",
-        "title_en": "How Iran’s 2022 crackdown was coordinated from the top",
-        "summary": [
-            "عفو بین‌الملل با ارائه اسناد افشاشده اعلام کرد سرکوب اعتراضات سال ۱۴۰۱ بر اساس یک ساختار منظم و با دستور مستقیم بالاترین مقامات ج.ا صورت گرفته است.",
-            "این گزارش ۸۷ مسئول ارشد سیاسی و نظامی را شناسایی کرده که اسناد ابلاغ دستورات سرکوب توسط آن‌ها ثبت و رهگیری شده است.",
-            "انتشار این مدارک راه را برای پیگرد حقوقی و بین‌المللی مقامات مسئول در دادگاه‌های جهانی هموارتر می‌کند."
-        ],
-        "impact": "افزایش فشار بین‌المللی و بسترسازی حقوقی برای پیگرد قضایی مقامات ارشد در دادگاه‌های بین‌المللی.",
-        "tag": "حقوق‌بشر",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610023171",
-        "clean_url": "https://www.iranintl.com/en/202610023171",
-        "image": "http://www.bing.com/th?id=ONUT.KfwMbLf-zibQm_SFd_SGiQ&pid=News",
-        "timestamp": 1791309600.0
-    },
-    {
-        "id": "33c7994f91",
-        "title_fa": "فشار حداکثری و بحران اقتصادی بی‌سابقه در ج.ا",
-        "title_en": "Gustavo de Arístegui: Geopolitical Analysis of October 6",
-        "summary": [
-            "ریال به کف تاریخی خود رسیده و تورم سالانه تا مرز نود درصد پیشروی کرده است.",
-            "فروش نفت به شدت سقوط کرده و وزیر نفت نیز از سمت خود استعفا داده است.",
-            "واشنگتن با فشار اقتصادی و تحرکات دریایی، گلوگاه‌های مالی حکومت را به شدت فشرده است."
-        ],
-        "impact": "اقتصاد ج.ا در آستانه فروپاشی کامل و فلج شدن سیستماتیک قرار دارد.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Atalayar",
-        "url": "https://www.atalayar.com/en/opinion/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-october-6/20261006194054229716.html",
-        "clean_url": "https://www.atalayar.com/en/opinion/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-october-6/20261006194054229716.html",
-        "image": "https://www.atalayar.com/media/atalayar/images/2026/10/06/2026100619402136090.webp",
-        "timestamp": 1791308400.0
-    },
-    {
-        "id": "d636cd4bd8",
-        "title_fa": "فشار حداکثری و سقوط آزاد ارزش پول ملی در ایـران",
-        "title_en": "Gustavo de Arístegui: Análisis geopolítico del 6 de octubre",
-        "summary": [
-            "فشار ناوگان دریایی ایالات متحده و تحریم‌های اقتصادی، اقتصاد جـمـهـورۍ اسـلـامـۍ را در منگنه قرار داده است.",
-            "سقوط ارزش ریال، تورم سرسام‌آور نود درصدی و استعفای وزیر نفت، زنگ خطر را برای ساختار حاکم به صدا درآورده است."
-        ],
-        "impact": "تشدید بحران اقتصادی، ناکارآمدی ساختاری و فروپاشی تدریجی منابع درآمدی حاکمیت.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Atalayar",
-        "url": "https://www.atalayar.com/en/opinion/gustavo-aristegui/gustavo-aristegui-analisis-geopolitico-6-octubre/20261006194054229716.html",
-        "clean_url": "https://www.atalayar.com/en/opinion/gustavo-aristegui/gustavo-aristegui-analisis-geopolitico-6-octubre/20261006194054229716.html",
-        "image": "https://www.atalayar.com/media/atalayar/images/2026/10/06/2026100619402136090.webp",
-        "timestamp": 1791308400.0
     }
 ]
