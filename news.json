@@ -363,6 +363,25 @@
         "timestamp": 1791538109.0
     },
     {
+        "id": "027e0e8a92",
+        "title_fa": "هشدار ترامپ درباره خطر اتمی جـ.ـهـ.ـوری ا‌سـ.ـلا‌مـ.ـی",
+        "title_en": "ترامپ: ایران در صورت دستیابی به سلاح هسته‌ای ممکن بود اروپا و شهرهای آمریکا را هدف بگیرد",
+        "summary": [
+            "دونالد ترامپ فاش کرد که حکومت ایران تنها چند هفته با ساخت بمب اتم فاصله داشت.",
+            "به گفته رئیس‌جمهور آمریکا، اگر این اتفاق می‌افتاد، اروپا، اسرائیل و شهرهای آمریکا هدف قرار می‌گرفتند.",
+            "ترامپ از پایان زودهنگام درگیری‌ها و سقوط شدید قیمت نفت پس از خنثی شدن این تهدید خبر داد."
+        ],
+        "impact": "بازارهای جهانی خود را برای افت شدید قیمت نفت همزمان با مهار خطر اتمی آماده می‌کنند.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610096237",
+        "clean_url": "https://www.iranintl.com/202610096237",
+        "image": "http://www.bing.com/th?id=ONUT.J2DoNJhXlurUx-qmaFUhog&pid=News",
+        "timestamp": 1791537420.0
+    },
+    {
         "id": "08cf7d4eaf",
         "title_fa": "بن‌بست قانون‌گذاری رمزارز در سنا و خیز CFTC",
         "title_en": "CLARITY Act Stalls as CFTC Proposes Crypto Rules With XRP and Solana in Focus",
@@ -5471,24 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202610062289",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/df18a40d717e28f603c1fab81782bee3e2a8714b-964x691.jpg?rect=0,93,964,506&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791295920.0
-    },
-    {
-        "id": "7339ce42b3",
-        "title_fa": "جنجال اظهارات ترامپ درباره امنیت و هزینه درگیری با ایران",
-        "title_en": "‘Let ’em take out Los Angeles’: Trump’s Iran remarks ignite backlash",
-        "summary": [
-            "ترامپ هزینه‌های بالای اقتصادی ناشی از درگیری را بهای کوچکی برای امنیت جهانی دانست.",
-            "مقام‌های کالیفرنیا به شدت به اظهارات او واکنش نشان داده و آن را خطرناک خواندند.",
-            "تیم رسانه‌ای ترامپ هدف از این سخنان را توجیه جلوگیری از دستیابی ج.ا به سلاح هسته‌ای عنوان کرد."
-        ],
-        "impact": "افزایش تنش‌های سیاسی داخلی در آمریکا بر سر نحوه مواجهه با پرونده هسته‌ای ایران",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610066353",
-        "clean_url": "https://www.iranintl.com/en/202610066353",
-        "image": "http://www.bing.com/th?id=ONUT.AWXw6l0qtZvQAg_Joa51-A&pid=News",
-        "timestamp": 1791295200.0
     }
 ]
