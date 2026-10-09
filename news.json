@@ -1,5 +1,24 @@
 [
     {
+        "id": "1358b9785b",
+        "title_fa": "افشاگری سناتور آمریکایی درباره پنهان‌کاری جنگ با ایـران",
+        "title_en": "Sen. Murphy accuses admin of 'active cover-up' of Iran war, vows to leverage funding to end war",
+        "summary": [
+            "کریس مورفی دولت ترامپ را به سرپوش گذاشتن بر هزینه‌های واقعی جنگ متهم کرد.",
+            "دموکرات‌ها قصد دارند با ابزار بودجه نظامی، دولت را برای پایان دادن به درگیری‌ها تحت فشار بگذارند.",
+            "مذاکرات هسته‌ای آمریکا و عربستان با هشدار جدی دموکرات‌ها برای تغییر توافق مواجه شد."
+        ],
+        "impact": "تشدید شکاف‌های سیاسی در واشنگتن بر سر ادامه درگیری‌های نظامی",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Jewish Insider",
+        "url": "https://jewishinsider.com/2026/10/chris-murphy-iran-war-saudi-arabia-qatar-funding-nuclear-deal/",
+        "clean_url": "https://jewishinsider.com/2026/10/chris-murphy-iran-war-saudi-arabia-qatar-funding-nuclear-deal",
+        "image": "https://image.jewishinsider.com/wp-content/uploads/2026/10/06063510/GettyImages-2289530066-scaled.jpg",
+        "timestamp": 1791530460.0
+    },
+    {
         "id": "0037a5e0bc",
         "title_fa": "سکوت معنادار چهره دموکرات میشیگان درباره تهدید ایران و اسرائیل",
         "title_en": "Is Israel or Iran a bigger threat to the US? Michigan’s Abdul El-Sayed won’t say",
@@ -198,6 +217,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1ZDbTBzS2w5TzZUNTQ2TFhqTnFRd1VoRUZDYnhTWE9VSmZkTDlaMkZXc0xLX18ycl94ZnJnanJ3SnJueXpWOUpIRVZFbklFb0lCdUNDSFY3Rk9rNTJTSE1UYzhYYVNSZDNpeHBUb1Q5QS1OR05NWWdJOXlKcGhTWlRsN2hmTHluRkVYM25VSHNSQzZtSThPWmk4U2ZFOEJzNEtmUEtmcXlPQjRaWktUM295a1RmUWtPOFBXbzB30gHDAUFVX3lxTE85QjZwYndUd1RiczR0WFg2akJ5aVdIdS1sbUMyYUxGTjFyUG1idjhsRmlhb0VNWlIteDROYm1VTkF3MXZPYzZ1cEE1RDFXc3NzWW1DTnliQWVVQWlCUF9BNHFMWHBROUZxdVhNYTdIZkNtbWFROFNtZlFnUy1hdHp4eDQyUmlkVWZ1aVJBbVBIalRWeHM2VHh2bzJKdm9iNjdsdldFa2tvZzBTTHZXYm1ORmhZdUw2WVhxSk9hWEVpSFdHaw",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791504056.0
+    },
+    {
+        "id": "e368ddba4b",
+        "title_fa": "ادعای سپاه درباره هدفگیری شبانه کشتی‌ها در تنگه هرمز",
+        "title_en": "Iran war live: IRGC says it targets 'violating' ships nightly in Hormuz",
+        "summary": [
+            "رسانه‌های وابسته به سـپـاه از انفجارهای مهیب در جنوب تنگه هرمز خبر دادند.",
+            "فرماندهان نظامی مدعی شدند هر شب شناورهای متخلف را در این آبراه راهبردی هدف قرار می‌دهند."
+        ],
+        "impact": "افزایش شدید ریسک کشتیرانی تجاری و اخلال در ترانزیت انرژی منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abb7c1f-1790671903.jpg?resize=1920%2C1440",
+        "timestamp": 1791504000.0
     },
     {
         "id": "8cda984ff8",
@@ -5458,42 +5495,5 @@
         "clean_url": "https://www.huffpost.com/entry/trump-natalie-harp-rally-stage_n_6ac46165e4b0bc90e401656a",
         "image": "http://www.bing.com/th?id=ONUT.-YQ396w8caDppxmXxbx-dg&pid=News",
         "timestamp": 1791238740.0
-    },
-    {
-        "id": "53bce5414a",
-        "title_fa": "چرخش تاجیکستان به سوی سوخت ایران پس از افت عرضه روسیه",
-        "title_en": "Tajikistan Taps Iran as Russian Fuel Runs Dry",
-        "summary": [
-            "کاهش چشمگیر صادرات فرآورده‌های نفتی روسیه به آسیای مرکزی، دوشنبه را وادار کرد مسیرهای واردات انرژی خود را تغییر دهد.",
-            "تهران تلاش می‌کند از خلاء ایجادشده توسط مسکو در منطقه برای فروش فرآورده‌های نفتی و جذب ارز استفاده کند.",
-            "وابستگی تاریخی تاجیکستان به سوخت روسیه ترک برداشته و بازارهای همسایه شمال‌شرقی به مقاصد جدید مبادلات انرژی ایران تبدیل می‌شوند."
-        ],
-        "impact": "باز شدن مسیر صادراتی جدید برای فرآورده‌های سوختی ایران در آسیای مرکزی همزمان با تضعیف انحصار نفتی روسیه.",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWlDdW1ObV9teFNQY3ZTaFp6QlRZc2ctdk9fcEZiclpPeVp2cVhKQ2dnSlhpb182RlRaVlg1VjFzN0tiMXY0UTk0ZDZYaHRFWWdLTVFYSG5uUEdlVDBOR3BBbGFsY2R4elNZLUdTODNMS253VG0xNnVTX3NzT2xFeTBNMGY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWlDdW1ObV9teFNQY3ZTaFp6QlRZc2ctdk9fcEZiclpPeVp2cVhKQ2dnSlhpb182RlRaVlg1VjFzN0tiMXY0UTk0ZDZYaHRFWWdLTVFYSG5uUEdlVDBOR3BBbGFsY2R4elNZLUdTODNMS253VG0xNnVTX3NzT2xFeTBNMGY",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791238050.0
-    },
-    {
-        "id": "3e98a4d6de",
-        "title_fa": "ادعای دریافت باج از نفتکش‌ها در تنگه هرمز",
-        "title_en": "Is Iran charging a toll to allow oil traffic through Hormuz?",
-        "summary": [
-            "گزارش‌ها حاکی از احتمال باج‌گیری دریایی توسط حکومت از کشتی‌های نفتکش است.",
-            "تنگه هرمز دوباره به کانون تنش‌های بین‌المللی و بازی با امنیت انرژی تبدیل شده است."
-        ],
-        "impact": "افزایش ریسک بیمه نفتکش‌ها و صعودی شدن قیمت جهانی نفت.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnBJWDdQN21OVE55MVZsLUFoMmIxTVBpZXgtNWpGR3o4U1liTUFzYWU2ODhTM24yeWh1Mm5NOWlEcXZTWHU0RGNRaUhvSjF4b2FRajZSajdGWWJwcXRpZzFBWjlfYkJSeTl4M1BrNUxVdHFUUGtfNHdNLXVmTHhPbzMyZ1BvVldXSEFZR2VBeUlPRWhudXMtdlpjbk9INTRRSUHSAacBQVVfeXFMTml3NXBicnEzMEw0NXFQTktsODdqcG1FcUszd1FjMmJlUjdGczk3c0JvS3pPTkVNYUk4RTB4dWV0Nl9XYXlhazJZU2pyYjRnUUFKZHhEVVBfbjNKVFhJWXM1UlVvTzVIWWxWMWE2dS1VaEszTUtFMzhmakFobGdVcU15dWphMlRMRXZZdUtkZ01SYmpTZDhZZmxEZjN3V1M3VjVBdnVJanM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnBJWDdQN21OVE55MVZsLUFoMmIxTVBpZXgtNWpGR3o4U1liTUFzYWU2ODhTM24yeWh1Mm5NOWlEcXZTWHU0RGNRaUhvSjF4b2FRajZSajdGWWJwcXRpZzFBWjlfYkJSeTl4M1BrNUxVdHFUUGtfNHdNLXVmTHhPbzMyZ1BvVldXSEFZR2VBeUlPRWhudXMtdlpjbk9INTRRSUHSAacBQVVfeXFMTml3NXBicnEzMEw0NXFQTktsODdqcG1FcUszd1FjMmJlUjdGczk3c0JvS3pPTkVNYUk4RTB4dWV0Nl9XYXlhazJZU2pyYjRnUUFKZHhEVVBfbjNKVFhJWXM1UlVvTzVIWWxWMWE2dS1VaEszTUtFMzhmakFobGdVcU15dWphMlRMRXZZdUtkZ01SYmpTZDhZZmxEZjN3V1M3VjVBdnVJanM",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791237331.0
     }
 ]
