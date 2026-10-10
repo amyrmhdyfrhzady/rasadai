@@ -165,6 +165,25 @@
         "timestamp": 1791650292.0
     },
     {
+        "id": "5654b7e65e",
+        "title_fa": "حمله موشکی حوثی‌ها به فرودگاه ریاض و مجروح شدن چند غیرنظامی",
+        "title_en": "At least five in intensive care after Houthi attack on Riyadh airport",
+        "summary": [
+            "حمله پهپادی و موشکی شبه‌نظامیان نیابتی ج*هوری اس*لامی به قلب پایتخت عربستان، خطوط قرمزی جدیدی را در منطقه جابه‌جا کرد.",
+            "هدف گرفتن فرودگاه بین‌المللی ریاض رویدادی مستلزم پاسخ نظامی است که امنیت ترانزیت هوایی و ثبات اقتصادی خلیج فارس را هدف گرفته است.",
+            "این اقدام ریسک درگیری مستقیم و پاسخ کوبنده ائتلاف به مواضع حوثی‌ها در یمن را به شدت افزایش می‌دهد."
+        ],
+        "impact": "افزایش ناگهانی ریسک‌های امنیتی در منطقه و احتمال پاسخ تلافی‌جویانه و سنگین به مواضع حوثی‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/at-least-five-in-intensive-care-after-houthi-attack-on-riyadh-airport",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/at-least-five-in-intensive-care-after-houthi-attack-on-riyadh-airport",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791644640.0
+    },
+    {
         "id": "0e87c0e075",
         "title_fa": "تعویق سفر عمره به دلیل بحران ارز و پروازها",
         "title_en": "Iran delays Umrah pilgrimages over flight schedules, foreign currency",
@@ -5471,24 +5490,5 @@
         "clean_url": "https://www.iranintl.com/202610072194",
         "image": "http://www.bing.com/th?id=ONUT.FM2mhUrLCBwxJiMLAiLHvQ&pid=News",
         "timestamp": 1791383760.0
-    },
-    {
-        "id": "b3cb971d96",
-        "title_fa": "پیشنهاد صلح مشروط پزشکیان به پوتین",
-        "title_en": "Pezeshkian tells Putin Iran ready for 'fair' agreement to end war",
-        "summary": [
-            "تلاش تهران برای نمایش آمادگی جهت توافق با آمریکا و اسرائیل تحت پوشش همکاری با روسیه",
-            "تأکید بر حذف قدرت‌های فرامنطقه‌ای که در واقع تلاش برای حفظ ساختار فعلی است",
-            "پیام پنهان: تهران به دنبال معامله‌ای است که فشارها را کم کند بدون اینکه از مواضع هسته‌ای عقب بنشیند"
-        ],
-        "impact": "تلاش دیپلماتیک برای کاهش تنش‌های بین‌المللی و بازگرداندن اعتبار سیاسی در منطقه",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610075019",
-        "clean_url": "https://www.iranintl.com/en/202610075019",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791383160.0
     }
 ]
