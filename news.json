@@ -493,6 +493,24 @@
         "timestamp": 1791603780.0
     },
     {
+        "id": "4061529fd4",
+        "title_fa": "حمله پهپادی مرگبار در سودان با ۴۰ کشته",
+        "title_en": "Drone strike in Sudan kills 40, including children: rights group",
+        "summary": [
+            "نیروهای واکنش سریع سودان متهم اصلی حمله پهپادی به منطقه ابوشندی در استان نیل آبی هستند.",
+            "سازمان‌های حقوق بشری از کشتار غیرنظامیان از جمله کودکان در این درگیری‌ها به شدت ابراز نگرانی کردند."
+        ],
+        "impact": "گسترش فاجعه انسانی و افزایش تلفات غیرنظامیان در جنگ داخلی سودان.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/10/world-news/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift/",
+        "clean_url": "https://nypost.com/2026/10/10/world-news/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/palestinians-walk-along-street-surrounded-144491774.jpg?quality=75&strip=all&w=1200",
+        "timestamp": 1791602340.0
+    },
+    {
         "id": "d17638a56f",
         "title_fa": "گزارش موسسه مطالعات جنگ از تحرکات منطقه‌ای ایران",
         "title_en": "Iran Update, October 9, 2026",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-gets-caught-in-the-weave-and-hands-democrats-a-target/ar-AA2dLWno",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791374142.0
-    },
-    {
-        "id": "b55b3bd88d",
-        "title_fa": "ارجاع پرونده هسته‌ای جـمـهـورۍ اسـلا‌مـۍ به شورای امنیت",
-        "title_en": "IAEA Reports Iran to UN Security Council",
-        "summary": [
-            "آژانس بین‌المللی انرژی اتمی پرونده تهران را رسماً روی میز شورای امنیت سازمان ملل گذاشت.",
-            "این اقدام مسیر بازگشت تحریم‌های بین‌المللی و فشارهای سنگین سیاسی را هموارتر می‌کند."
-        ],
-        "impact": "تشدید انزوای دیپلماتیک و فراهم شدن بسترهای قانونی برای فعال‌سازی مکانیسم ماشه.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Arms Control Association",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3JXaHB4LXhuT095QVFRenVFWUt1cmR6UEVaUHJrVllrYjVvd3NxV0UyWEYwQ3VDdi1fRnNFS1YyWDZQdEtZY1VXVUt0UjEzTHdzY21KeFNIYVJLMl9ZQndPRU5aMW5FbGFCSWUxVXZVcUVFc2R5UE5lOURGM2Z1Q290ajU3RFIyd1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3JXaHB4LXhuT095QVFRenVFWUt1cmR6UEVaUHJrVllrYjVvd3NxV0UyWEYwQ3VDdi1fRnNFS1YyWDZQdEtZY1VXVUt0UjEzTHdzY21KeFNIYVJLMl9ZQndPRU5aMW5FbGFCSWUxVXZVcUVFc2R5UE5lOURGM2Z1Q290ajU3RFIyd1E",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791373548.0
     }
 ]
