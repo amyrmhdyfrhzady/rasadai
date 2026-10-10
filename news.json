@@ -1,5 +1,24 @@
 [
     {
+        "id": "8196f6c034",
+        "title_fa": "استقرار بیش از ۵۰ یگان رزمی ارتش در مرزها",
+        "title_en": "More than 50 Iranian army units deployed along borders, commander says",
+        "summary": [
+            "ارتش جـ.ـمـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی از استقرار بیش از ۵۰ یگان رزمی و پشتیبانی در مرزهای مختلف کشور خبر داد.",
+            "این جابجایی‌ها پس از درگیری‌های نظامی با اسرائیل و با هدف بازسازی ساختار دفاعی انجام شده است.",
+            "مقام‌های نظامی به ساخت تونل‌ها و کانال‌های زیرزمینی برای کاهش تلفات نیروی انسانی اعتراف کردند."
+        ],
+        "impact": "افزایش حضور نظامی در مناطق مرزی نشانگر ترس حاکمیت از ناآرامی‌های داخلی و درگیری‌های منطقه‌ای است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610104840",
+        "clean_url": "https://www.iranintl.com/en/202610104840",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/98490a7ab29713eb61aa9f76c8e232099f4aa0d0-1200x800.jpg?rect=162,98,675,675&w=200&h=200&q=58&fit=crop&auto=format",
+        "timestamp": 1791630480.0
+    },
+    {
         "id": "7be3268cd8",
         "title_fa": "پشتیبانی تسلیحاتی مسکو از تهران؛ بازسازی موشک و پهپاد",
         "title_en": "Iran able to replenish its missiles and drones, getting arms from Russia, officials tell Bloomberg",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://theprint.in/world/3-years-since-7-october-how-hamas-attack-impacted-israel-gaza-and-reshaped-geopolitics/3064091",
         "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/10/Untitled-design-2026-10-07T133231.768.png",
         "timestamp": 1791367380.0
-    },
-    {
-        "id": "3d6d965506",
-        "title_fa": "واشینگتن: تـ.ـهـ.ـران شانس توافق اتمی را از دست داد",
-        "title_en": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-        "summary": [
-            "موضع‌گیری صریح مقام آمریکایی درباره بن‌بست دیپلماتیک با تـ.ـهـ.ـران.",
-            "اشاره به فرصت‌های سوخته‌ای که نظام برای حل پرونده هسته‌ای از کف داد."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و بسته‌شدن پنجره مذاکرات احتمالی.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBST3M3OWl1Z3R1OFBQaFRuXzBxeC1DVnczRVNFWm12c2NHQnV5OU9acWZLTllvSWNKcUE4NHBSV1oyQmFObGszUlE0dU9sUE9zZmk4NmpPZEJTNmZMRkZrU3NlWVlVSjF3czJHVVd30gFzQVVfeXFMTl9lOGNDTDRpUHJsdU80NU5NV1NTTVhua25JazF6eHA4TC1aNGNqWm5aaHBXM3hkYjZqZGFGYzR6NFdrcnJZdnRzRTBUYndZZEhIa2gwUHhwNTlvbkNmYk8zNG1DSFBMaDk2LUlidmJyRHZYdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBST3M3OWl1Z3R1OFBQaFRuXzBxeC1DVnczRVNFWm12c2NHQnV5OU9acWZLTllvSWNKcUE4NHBSV1oyQmFObGszUlE0dU9sUE9zZmk4NmpPZEJTNmZMRkZrU3NlWVlVSjF3czJHVVd30gFzQVVfeXFMTl9lOGNDTDRpUHJsdU80NU5NV1NTTVhua25JazF6eHA4TC1aNGNqWm5aaHBXM3hkYjZqZGFGYzR6NFdrcnJZdnRzRTBUYndZZEhIa2gwUHhwNTlvbkNmYk8zNG1DSFBMaDk2LUlidmJyRHZYdw",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791366042.0
     }
 ]
