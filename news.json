@@ -1,5 +1,23 @@
 [
     {
+        "id": "01d4ac8451",
+        "title_fa": "احیای فعالیت در سایت هسته‌ای آسیب‌دیده از حمله اسرائیل",
+        "title_en": "Iran may be restoring activity at nuclear-linked site struck by Israel",
+        "summary": [
+            "تصاویر ماهواره‌ای نشان می‌دهند تهران بازسازی و شروع به کار مجدد در یکی از تاسیسات مرتبط با برنامه اتمی را کلید زده است.",
+            "این اقدام در شرایطی انجام می‌شود که فشارهای بین‌المللی برای مهار فعالیت‌های اتمی حاکمیت به اوج رسیده است."
+        ],
+        "impact": "تسریع برنامه‌های اتمی با وجود ضربات نظامی، ریسک درگیری‌های تازه را به شدت بالا می‌برد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXS0RINjZ3cWlBSWoyVUtfVVg2M1RtbXpRQnZwNVJIQl92eU1fMnJwTVp5NTFPQ3NHWTR4OGlTekI3Wmp1enJ5NWg0Q2I4QWJpMVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXS0RINjZ3cWlBSWoyVUtfVVg2M1RtbXpRQnZwNVJIQl92eU1fMnJwTVp5NTFPQ3NHWTR4OGlTekI3Wmp1enJ5NWg0Q2I4QWJpMVE",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791650292.0
+    },
+    {
         "id": "0e87c0e075",
         "title_fa": "تعویق سفر عمره به دلیل بحران ارز و پروازها",
         "title_en": "Iran delays Umrah pilgrimages over flight schedules, foreign currency",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-strike-midterms/688910",
         "image": "http://www.bing.com/th?id=ONUT.tU2vesSfDdvlbzS8Y-ZxHA&pid=News",
         "timestamp": 1791374460.0
-    },
-    {
-        "id": "07d5645515",
-        "title_fa": "واکنش تند جک وایت به اظهارات جنجالی ترامپ درباره ایران",
-        "title_en": "Jack White Slaps Trump With All-Time 'Worst' Title After Terrifying Iran-California Comment",
-        "summary": [
-            "جک وایت، خواننده راک، دونالد ترامپ را پس از اظهارنظر جنجالی درباره احتمال حمله ایران به شهرهای کالیفرنیا به شدت محکوم کرد.",
-            "این موزیسین آمریکایی از هواداران ترامپ به دلیل حمایت کورکورانه از این مواضع انتقاد کرد."
-        ],
-        "impact": "افزایش تنش‌های لفظی در فضای سیاسی آمریکا پیرامون رویکرد در قبال تهران.",
-        "tag": "آمریکا",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/jack-white-trump-worst-american-all-time_n_6ac65efae4b0e825de0fe6ea",
-        "clean_url": "https://www.huffpost.com/entry/jack-white-trump-worst-american-all-time_n_6ac65efae4b0e825de0fe6ea",
-        "image": "http://www.bing.com/th?id=ONUT.4jX2BBM49ui4eNxH6Cp8cw&pid=News",
-        "timestamp": 1791374220.0
     }
 ]
