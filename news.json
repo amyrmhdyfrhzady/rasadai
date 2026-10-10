@@ -1,5 +1,24 @@
 [
     {
+        "id": "7659f591a7",
+        "title_fa": "صفر شدن درآمدهای نفتی جـ.ـهـ.ـوری ا‌سـ.ـلا‌مـ.ـی تا دسامبر",
+        "title_en": "Trump calls Iranian officials 'crazy,' warns of possible moves before US election",
+        "summary": [
+            "داده‌های شرکت کپلر نشان می‌دهد که صادرات نفت خام و میگعانات گازی در ماه سپتامبر کاملاً متوقف شده است.",
+            "با تخلیه آخرین محموله‌های نفتی در آب‌های چین تا اواسط آذر ماه، روند ورودی پول به خزانه حکومت به طور کامل قطع خواهد شد.",
+            "فشار تحریم‌ها و رویکرد سخت‌گیرانه د‌ونـ.ـا‌لد تـ.ـرا‌مـ.ـپ در حال مسدود کردن آخرین مسیرهای تنفس مالی تهران است."
+        ],
+        "impact": "فلج شدن کامل ماشین مالی حکومت و فروپاشی توان تامین هزینه‌های داخلی و نیابتی.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610108055",
+        "clean_url": "https://www.iranintl.com/en/202610108055",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791668700.0
+    },
+    {
         "id": "7097655a9d",
         "title_fa": "تحرکات مرموز در تاسیسات هسته‌ای آسیب‌دیده",
         "title_en": "'Significant' activity detected at Iran nuclear site that was battered during early stages of the war",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://www.news18.com/world/url-us-iran-war-news-live-updates-trump-iran-peace-talks-ceasefire-hezbollah-israel-lebanon-strait-of-hormuz-latest-news-liveblog-ws-l-10177809.html",
         "image": "https://images.news18.com/ibnlive/uploads/2026/06/Untitled-design-2026-06-06T163906.804-2026-06-055a1821c890d9749f32c34667012d63-1200x675.png",
         "timestamp": 1791400500.0
-    },
-    {
-        "id": "88e3dadd4b",
-        "title_fa": "کارمزد جدید هند روی تراکنش‌های دیجیتال و ثبات روپیه",
-        "title_en": "UPI MDR small fee will not have major impact on volumes: RBI Governor",
-        "summary": [
-            "بانک مرکزی هند کارمزد ناچیز ۰.۴ درصدی را برای تراکنش‌های بالای ۲۰۰۰ روپیه وضع کرده تا هزینه‌های شبکه را مدیریت کند.",
-            "رئیس بانک مرکزی هند معتقد است این کارمزد کوچک تاثیری روی حجم استفاده مردم از سیستم پرداخت دیجیتال نخواهد گذاشت."
-        ],
-        "impact": "تلاش هند برای متوازن کردن هزینه‌های زیرساخت دیجیتال بدون آسیب به روند حذف پول نقد.",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "Kashmir Reader",
-        "url": "https://kashmirreader.com/2026/10/08/upi-mdr-small-fee-will-not-have-major-impact-on-volumes-rbi-governor/",
-        "clean_url": "https://kashmirreader.com/2026/10/08/upi-mdr-small-fee-will-not-have-major-impact-on-volumes-rbi-governor",
-        "image": "https://kashmirreader.com/wp-content/uploads/2026/10/RBI-Governor-Sanjay-Malhotra-1024x663.webp",
-        "timestamp": 1791396840.0
     }
 ]
