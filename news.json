@@ -236,6 +236,25 @@
         "timestamp": 1791586800.0
     },
     {
+        "id": "aee342e14b",
+        "title_fa": "حمله موشکی به فرودگاه ریاض؛ ۳ شهروند سعودی کشته شدند",
+        "title_en": "Attacks on Riyadh's international airport killed 3 Saudi citizens, and other Mideast developments",
+        "summary": [
+            "شبه‌نظامیان حوثی وابسته به ج.ا فرودگاه بین‌المللی پایتخت عربستان را هدف حمله موشکی قرار دادند که به کشته شدن سه غیرنظامی انجامید.",
+            "هم‌زمانی این حمله با گزارش انفجارها در صنعا و حملات پهپادی در مرز لبنان و سوریه، حاکی از تشدید تحرکات بازوهای نیابتی در منطقه است.",
+            "هدف‌گیری اهداف غیرنظامی در ریاض عملاً مسیر تنش‌زدایی دیپلماتیک را مسدود و خطر پاسخ تلافی‌جویانه را بالا می‌برد."
+        ],
+        "impact": "افزایش شدید ریسک خطوط هوایی در خلیج فارس و احتمال پاسخ مستقیم نظامی ائتلاف عربی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/10/09/riyadh-airport-attacks-mideast-news/",
+        "clean_url": "https://www.bostonherald.com/2026/10/09/riyadh-airport-attacks-mideast-news",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/Gulf_Cooperation_Council_Member_States__1638_0106a9.jpg?w=1200&h=792",
+        "timestamp": 1791586620.0
+    },
+    {
         "id": "cec8a7a37a",
         "title_fa": "ادعای رهبر دمکرات‌ها درباره پیامد حذف رهبر جـ.مـ.هـ.و‌ر‌ی‌اسـ.لـ.ا‌مـ.ی",
         "title_en": "Democrats Leader Says Killing Iran's Supreme Leader Weakened Israel",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/exclusive-in-interview-us-vice-president-vance-says-iran-must-cut-enrichment-to-end-war/ar-AA2dL80s",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791356220.0
-    },
-    {
-        "id": "95da4a64ec",
-        "title_fa": "تهدید آمریکا به اعمال تحریم‌های فلج‌کننده علیه نفت ای-ران",
-        "title_en": "US Vows ‘Economic D-Day’ as Iran Threatens to Halt All Oil Exports",
-        "summary": [
-            "آمریکا در واکنش به تهدیدهای جـ.ـهـ.ـوری اسـ.ـلامی برای بستن صادرات نفت، از طرح ضربتی فشار اقتصادی رونمایی کرد.",
-            "تنش‌ها در حوزه انرژی خلیج فارس به بالاترین حد رسیده و واشنگتن قصد دارد هرگونه تلاش برای اخلال در بازار نفت را با پاسخ سخت روبه‌رو کند."
-        ],
-        "impact": "این تهدید متقابل می‌تواند قیمت نفت را به شدت بالا ببرد و بحران ارزی را در داخل تشدید کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR05zZW9mVXlDNVBRemVjOGpfNkRuZUlIaVNod0JjeHlCQmJUcmdhMjBCVEVweF9NTmRocjZKYi1UZkhfV2JXT1o4eUdmZ3RMU3pPY0dmVnJZbVRYdFFGUFpob2pNTUw3MHYxVTFyYThNdDNZNF9oY3lfaWZHdHd6OUFGMXhaN2dIU1A2bUhoQV8yUDN0U3JDb09qTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR05zZW9mVXlDNVBRemVjOGpfNkRuZUlIaVNod0JjeHlCQmJUcmdhMjBCVEVweF9NTmRocjZKYi1UZkhfV2JXT1o4eUdmZ3RMU3pPY0dmVnJZbVRYdFFGUFpob2pNTUw3MHYxVTFyYThNdDNZNF9oY3lfaWZHdHd6OUFGMXhaN2dIU1A2bUhoQV8yUDN0U3JDb09qTQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791355409.0
     }
 ]
