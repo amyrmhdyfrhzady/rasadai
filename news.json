@@ -1,5 +1,24 @@
 [
     {
+        "id": "7d57345f73",
+        "title_fa": "چراغ سبز ترامپ برای مشارکت در حملات به حوثی‌ها",
+        "title_en": "Trump says US could join Saudi strikes on Houthis",
+        "summary": [
+            "دونالد ترامپ از احتمال همراهی واشنگتن با ریاض برای ضربه زدن به مواضع حوثی‌ها خبر داد.",
+            "تصاویر ماهواره‌ای از سایت‌های نظامی اطراف تهران نشان‌دهنده تلاش ج.ه.ا برای بازسازی بخش‌های آسیب‌دیده است.",
+            "فشارها بر شبکه نیابتی حاکمیت در منطقه وارد فاز تازه‌ای از هماهنگی‌های نظامی شده است."
+        ],
+        "impact": "افزایش ریسک درگیری مستقیم نظامی در منطقه و فشار همه‌جانبه بر نیابتی‌ها.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610103280",
+        "clean_url": "https://www.iranintl.com/en/202610103280",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791655740.0
+    },
+    {
         "id": "a593a51772",
         "title_fa": "هک تلویزیون دولتی ایران و پخش پیام رضا پهلوی",
         "title_en": "Articole despre \"pamant-rotund-calatorie\"",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.iranintl.com/202610079271",
         "image": "http://www.bing.com/th?id=ONUT.84s5hU3Gaqg8ap6HsCS9_g&pid=News",
         "timestamp": 1791376500.0
-    },
-    {
-        "id": "5de4b22eb9",
-        "title_fa": "بازگشت گروه‌های نیابتی ت****ی به میدان",
-        "title_en": "Opinion | Are Iran's 'proxies' rising again? Inside Hamas, Hezbollah's strange resurgence",
-        "summary": [
-            "حماس و حزب‌الله با وجود ضربات سنگین، دوباره در حال بازسازی ساختار نظامی خود هستند.",
-            "غافلگیری اطلاعاتی اسرائیل در اکتبر ۲۰۲۳ نشان داد که شبکه نیابتی ج****ی همچنان فعال و خطرناک است."
-        ],
-        "impact": "احیای دوباره گروه‌های نیابتی، صلح و ثبات در منطقه را بیش از پیش به مخاطره می‌اندازد.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "NDTV",
-        "url": "https://www.msn.com/en-in/news/other/opinion-are-irans-proxies-rising-again-inside-hamas-hezbollahs-strange-resurgence/ar-AA2dKvH7",
-        "clean_url": "https://www.msn.com/en-in/news/other/opinion-are-irans-proxies-rising-again-inside-hamas-hezbollahs-strange-resurgence/ar-AA2dKvH7",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dKqxU.img?w=1280&h=720&m=4&q=88",
-        "timestamp": 1791375373.0
     }
 ]
