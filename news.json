@@ -1,5 +1,23 @@
 [
     {
+        "id": "9cb0711d75",
+        "title_fa": "فشار واشنگتن به اسرائیل برای اقدام نظامی تنهایی علیه ایران",
+        "title_en": "US pushed for lone Israeli Iran operation as midterm elections loom",
+        "summary": [
+            "دولت آمریکا از اسرائیل خواسته تا عملیات نظامی علیه ایران را به تنهایی و بدون حضور مستقیم نیروهای آمریکایی پیش ببرد.",
+            "زمزمه این تحرکات نظامی در آستانه انتخابات میان‌دوره‌ای آمریکا، اهداف سیاسی داخلی واشنگتن را نیز دنبال می‌کند."
+        ],
+        "impact": "افزایش احتمال بروز درگیری نظامی مستقیم میان اسرائیل و ایران بدون دخالت مستقیم ارتش آمریکا.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791637246.0
+    },
+    {
         "id": "cf86b58956",
         "title_fa": "هشدار صریح قطر به حملات پهپادی و موشکی سپاه",
         "title_en": "Qatar condemns Iranian attacks, calls for diplomacy to contain escalation",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202610072519",
         "image": "http://www.bing.com/th?id=ONUT.OFFUAwRFFzvmam0F4ovBUA&pid=News",
         "timestamp": 1791370740.0
-    },
-    {
-        "id": "4ce76f6cf9",
-        "title_fa": "شروط تازه واشنگتن برای توافق با تهران",
-        "title_en": "US sets new demands for Iran deal: What are they?",
-        "summary": [
-            "جی دی ونس خواهان کاهش معنادار ظرفیت غنی‌سازی اورانیوم شده است.",
-            "ترامپ هشدار داده است که پایان جنگ هم می‌تواند از راه مسالمت‌آمیز و هم با روش‌های دیگر رقم بخورد.",
-            "مقام‌های ارشد آمریکایی همچنان بر مهار کامل برنامه‌های اتمی پافشاری می‌کنند."
-        ],
-        "impact": "افزایش فشار دیپلماتیک همراه با تهدید نظامی مستقیم بر سر پرونده اتمی",
-        "tag": "اتمی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
-        "clean_url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6abbbece3e71c-1790688974.jpg?resize=1920,1440",
-        "timestamp": 1791370680.0
     }
 ]
