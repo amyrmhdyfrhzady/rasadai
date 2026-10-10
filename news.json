@@ -54,6 +54,24 @@
         "timestamp": 1791588600.0
     },
     {
+        "id": "747d2763d9",
+        "title_fa": "هشدار درباره خطای محاسباتی ج.ה.ا در تنش‌های اخیر",
+        "title_en": "Iran's moment of opportunity",
+        "summary": [
+            "رهبران ج.ה.ا نباید دستاوردهای مقطعی را با پیروزی‌های راهبردی اشتباه بگیرند.",
+            "پافشاری بر سیاست‌های حداکثری خطر فرسایش توان داخلی را به همراه دارد."
+        ],
+        "impact": "تداوم راهبرد فعلی تهران را در بلندمدت در برابر فشارهای خارجی آسیب‌پذیرتر می‌کند.",
+        "tag": "راهبردی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Free Malaysia Today",
+        "url": "https://www.msn.com/en-my/news/other/iran-s-moment-of-opportunity/ar-AA2dVyjh",
+        "clean_url": "https://www.msn.com/en-my/news/other/iran-s-moment-of-opportunity/ar-AA2dVyjh",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21lfeB.img?w=1600&h=1000&m=4&q=70",
+        "timestamp": 1791586800.0
+    },
+    {
         "id": "cec8a7a37a",
         "title_fa": "ادعای رهبر دمکرات‌ها درباره پیامد حذف رهبر جـ.مـ.هـ.و‌ر‌ی‌اسـ.لـ.ا‌مـ.ی",
         "title_en": "Democrats Leader Says Killing Iran's Supreme Leader Weakened Israel",
@@ -5468,24 +5486,5 @@
         "clean_url": "https://www.realcleardefense.com/articles/2026/10/07/the_guiding_principles_to_compel_an_iran_settlement_1210274.html",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791341520.0
-    },
-    {
-        "id": "9089f5f9ad",
-        "title_fa": "سقوط آزاد ریال؛ تزریق دو میلیارد دلاری برای مهار بحران ارز",
-        "title_en": "Tehran divided over $2 billion plan to prop up rial",
-        "summary": [
-            "نرخ دلار در بازار آزاد از مرز ۲.۷ میلیون ریال عبور کرد تا بحران معیشتی و کاهش ارزش سرمایه مردم وارد مرحله تازه‌ای شود.",
-            "بانک مرکزی قصد دارد با تزریق دو میلیارد دلار اسکناس زیر قیمت بازار، تلاش مذبوحانه‌ای برای کنترل نرخ ارز انجام دهد.",
-            "کارشنا اقتصادی معتقدند فروش دلار اثر موقتی دارد و مشکلات ساختاری اقتصاد مهارنشدنی است."
-        ],
-        "impact": "تزریق ارز یارانه‌ای تنها راه تنفس کوتاه‌مدت برای سیستم مالی بحران‌زده است.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610076990",
-        "clean_url": "https://www.iranintl.com/en/202610076990",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/17a8603b3a17d07e60fe0aaf5b98a7e8b0298891-1280x853.jpg?rect=89,106,1109,582&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791341160.0
     }
 ]
