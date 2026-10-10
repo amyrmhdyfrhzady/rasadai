@@ -236,6 +236,25 @@
         "timestamp": 1791621780.0
     },
     {
+        "id": "23412ccdbd",
+        "title_fa": "تهدید صادرات نفت ج.ه. توسط آمریکا و صفر شدن درآمدها",
+        "title_en": "کپلر: درآمد نفتی ایران در صورت تداوم محاصره آمریکا ممکن است تا اواخر آذر به صفر برسد",
+        "summary": [
+            "شرکت کپلر هشدار داد که تداوم محاصره دریایی آمریکا علیه ج.ه.، درآمد نفتی این حکومت را تا اواخر آذر به صفر می‌رساند.",
+            "تهران ممکن است ماهانه تا شش میلیارد دلار از درآمدهای حیاتی خود را از دست بدهد.",
+            "حجم نفت روی آب ایران از ۹۰ میلیون بشکه به تنها ۸ میلیون بشکه سقوط کرده است."
+        ],
+        "impact": "فلج شدن کامل شریان‌های مالی حکومت و فروپاشی درآمد ارزی ناشی از فروش نفت.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610100070",
+        "clean_url": "https://www.iranintl.com/202610100070",
+        "image": "http://www.bing.com/th?id=ONUT.RwLAhaheBotZerG3fhOdmw&pid=News",
+        "timestamp": 1791621480.0
+    },
+    {
         "id": "20122a96ad",
         "title_fa": "معامله سوختی واشنگتن و مسکو؛ ترس آمریکا از جهش قیمت انرژی",
         "title_en": "Concern for midterms amid Iran war prompts US diesel deal with Russia",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3JXaHB4LXhuT095QVFRenVFWUt1cmR6UEVaUHJrVllrYjVvd3NxV0UyWEYwQ3VDdi1fRnNFS1YyWDZQdEtZY1VXVUt0UjEzTHdzY21KeFNIYVJLMl9ZQndPRU5aMW5FbGFCSWUxVXZVcUVFc2R5UE5lOURGM2Z1Q290ajU3RFIyd1E",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791373548.0
-    },
-    {
-        "id": "3fe5ff094d",
-        "title_fa": "شرط جی‌دی ونس برای پایان جنگ: کاهش غنی‌سازی",
-        "title_en": "Explainer-The Status of Iran's Uranium Enrichment Programme",
-        "summary": [
-            "معاون رئیس‌جمهور آمریکا اعلام کرد که ایران باید ظرفیت غنی‌سازی اورانیوم خود را به شکلی معنادار کاهش دهد تا خواسته‌های واشنگتن برآورده شود.",
-            "این موضع‌گیری در حالی مطرح شده که جزئیات دقیقی از سطح انتظار آمریکا برای عقب‌نشینی تهران مشخص نشده است."
-        ],
-        "impact": "فشار مستقیم بر برنامه هسته‌ای برای تغییر محاسبات حاکمیت",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "U.S. News & World Report",
-        "url": "https://www.usnews.com/news/world/articles/2026-10-07/explainer-the-status-of-irans-uranium-enrichment-programme",
-        "clean_url": "https://www.usnews.com/news/world/articles/2026-10-07/explainer-the-status-of-irans-uranium-enrichment-programme",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791373320.0
     }
 ]
