@@ -1,5 +1,23 @@
 [
     {
+        "id": "d17638a56f",
+        "title_fa": "گزارش موسسه مطالعات جنگ از تحرکات منطقه‌ای ایران",
+        "title_en": "Iran Update, October 9, 2026",
+        "summary": [
+            "اندیشکده مطالعات جنگ (ISW) ارزیابی دوره‌ای جدیدی از وضعیت میدانی و آرایش نظامی ایران منتشر کرده است.",
+            "این گزارش‌ها به رصد دقیق جابه‌جایی سامانه‌های موشکی، فعالیت‌های پهپادی و وضعیت گروه‌های هم‌پیمان در منطقه می‌پردازند."
+        ],
+        "impact": "تثبیت تمرکز نهادهای اطلاعاتی غربی روی فعالیت‌های تسلیحاتی و میدانی تهران در خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Institute for the Study of War",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHNqNmJyVzFoSERxVFdQdmVhMTREdWgwX3Zmel94ajRpenJsWi1PaVBrQUZMMkN0LUJlMnpVV21sNDZudXE4WkxHMS1NQm1OSTh0a25Yb2lhYldkSmZ3YnhpSHkyLXA2bDlQa0tWUEpqeHZudE5CYk1BUVB4aTBRanZYYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHNqNmJyVzFoSERxVFdQdmVhMTREdWgwX3Zmel94ajRpenJsWi1PaVBrQUZMMkN0LUJlMnpVV21sNDZudXE4WkxHMS1NQm1OSTh0a25Yb2lhYldkSmZ3YnhpSHkyLXA2bDlQa0tWUEpqeHZudE5CYk1BUVB4aTBRanZYYw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791600695.0
+    },
+    {
         "id": "ea4d3ec9bb",
         "title_fa": "تغییر معادلات خاورمیانه در سایه ناامنی‌های اخیر",
         "title_en": "Opinion | Foiled hijacking showed a shifting Middle East",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://www.msn.com/es-us/noticias/other/rubio-sostiene-que-ir%C3%A1n-no-controla-ormuz-y-que-el-petr%C3%B3leo-fluye-casi-al-nivel-preb%C3%A9lico/ar-AA2dKm88",
         "image": "http://www.bing.com/th?id=ONUT.8FD2eHo7HZP7Wn4lTEXZ5w&pid=News",
         "timestamp": 1791349680.0
-    },
-    {
-        "id": "7486f34852",
-        "title_fa": "اعتراف مقام ارشد سابق به فلج بودن ساختار حکومت",
-        "title_en": "Iran YouTube Stories: Governance Crisis According to a Former Vice President",
-        "summary": [
-            "اسحاق جهانگیری در یک مصاحبه پرده از بحران شدید تصمیم‌گیری و ناکارآمدی ساختاری ج ا برداشته است.",
-            "فشار تحریم‌ها و شکل‌گیری باندهای کاسبی تحریم به عنوان عامل اصلی نابودی معیشت مردم تایید شد."
-        ],
-        "impact": "اعترافات مهره‌های درون‌حکومتی عمق شکاف و بحران مشروعیت نظام را بیش از پیش عریان می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "IranWire",
-        "url": "https://iranwire.com/en/features/158585-iran-youtube-stories-governance-crisis-according-to-a-former-vice-president/",
-        "clean_url": "https://iranwire.com/en/features/158585-iran-youtube-stories-governance-crisis-according-to-a-former-vice-president",
-        "image": "http://www.bing.com/th?id=ONUT.pu1usxXRY5NO4j1HTbB7zw&pid=News",
-        "timestamp": 1791348900.0
     }
 ]
