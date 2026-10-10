@@ -360,6 +360,25 @@
         "timestamp": 1791564840.0
     },
     {
+        "id": "80664a70cd",
+        "title_fa": "انتقاد تند شومر از توافق نفتی ترامپ و پوتین",
+        "title_en": "سناتور چاک شومر، توافق گازوئیل ترامپ با روسیه را «معامله با شیطان» خواند",
+        "summary": [
+            "رهبر دموکرات‌های سنا توافق انرژی ترامپ با مسکو را معامله با شیطان نامید.",
+            "این توافق برای کنترل قیمت سوخت و به سود پوتین انجام شده است.",
+            "مسکو متعهد به عرضه حجم زیادی گازوئیل به بازارهای جهانی شده است."
+        ],
+        "impact": "این توافق می‌تواند معادلات بازار انرژی و فشارهای سیاسی در واشینگتن را به شدت تحت تاثیر قرار دهد.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610094961",
+        "clean_url": "https://www.iranintl.com/202610094961",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791563880.0
+    },
+    {
         "id": "208691d4a8",
         "title_fa": "نوسان قیمت سوخت در ایالات متحده",
         "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
@@ -5467,24 +5486,5 @@
         "clean_url": "https://www.iranintl.com/en/202610071006",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791341640.0
-    },
-    {
-        "id": "2ea152e04d",
-        "title_fa": "طرح هفت‌روزه ج.ا برای رفع تحریم‌ها و بازگشت به مذاکره",
-        "title_en": "The Guiding Principles To Compel an Iran Settlement",
-        "summary": [
-            "ج.ا با ارائه یک طرح هفت‌روزه به دنبال خروج از انزوای اقتصادی و بازگشت به میز مذاکره است.",
-            "هدف اصلی این سناریو، بازگشایی تنگه هرمز و کاهش فشار حداکثری در ازای امتیازات هسته‌ای است.",
-            "این اقدام نشان‌دهنده استیصال حاکمیت در برابر فشارهای خردکننده اقتصادی است."
-        ],
-        "impact": "تلاش برای خرید زمان و کاهش فشار تحریم‌ها با استفاده از اهرم‌های ژئوپلیتیک.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "RealClearDefense",
-        "url": "https://www.realcleardefense.com/articles/2026/10/07/the_guiding_principles_to_compel_an_iran_settlement_1210274.html",
-        "clean_url": "https://www.realcleardefense.com/articles/2026/10/07/the_guiding_principles_to_compel_an_iran_settlement_1210274.html",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791341520.0
     }
 ]
