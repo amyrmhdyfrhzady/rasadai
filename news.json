@@ -146,6 +146,25 @@
         "timestamp": 1791596475.0
     },
     {
+        "id": "a598d2c2ae",
+        "title_fa": "بحران خاموشی صنایع؛ تلاش تهران برای واردات برق از ترکیه",
+        "title_en": "Iran turns to Turkey, Turkmenistan for power as war strains industry",
+        "summary": [
+            "خروج ۴۷۰۰ مگاوات از ظرفیت تولید برق صنایع و پتروشیمی‌ها، ناترازی انرژی در کشور را به نقطه بحرانی رسانده است.",
+            "مسئولان توانیر برای جلوگیری از فلج شدن کامل مجتمع‌های پتروشیمی در زمستان، دست به دامن واردات برق از ترکیه و ترکمنستان شده‌اند.",
+            "توقف کامل صادرات برق و تحمیل فشار سنگین بر شبکه سراسری، نشان‌دهنده ابعاد گسترده فرسودگی زیرساخت‌ها و خسارات اخیر است."
+        ],
+        "impact": "تعطیلی و افت تولید پتروشیمی‌ها درآمد ارزی کشور را به شدت کاهش داده و رکود صنعتی را تشدید می‌کند.",
+        "tag": "بحران انرژی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610105838",
+        "clean_url": "https://www.iranintl.com/en/202610105838",
+        "image": "http://www.bing.com/th?id=ONUT.jZ-OzMD7S-sr9xHzTFeY1w&pid=News",
+        "timestamp": 1791595740.0
+    },
+    {
         "id": "16fc882bd0",
         "title_fa": "مسیر توافق اتمی در سایه فشار حداکثری ترامپ",
         "title_en": "Trump offers Iran path to nuclear deal while keeping up military pressure",
@@ -5473,24 +5492,5 @@
         "clean_url": "https://www.msn.com/es-mx/noticias/other/ir%C3%A1n-amenaza-con-ataques-preventivos-mientras-ee-uu-duda-de-qui%C3%A9n-manda-en-teher%C3%A1n/ar-AA2dLdEV",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791358790.0
-    },
-    {
-        "id": "418cad558a",
-        "title_fa": "واکنش تهران به گزارش‌های آژانس و بحران در تنگه هرمز",
-        "title_en": "US-Iran War Live Updates: Trump says 'nobody knows' who is running Iran",
-        "summary": [
-            "یک نماینده مجلس در تهران، رافائل گروسی را به ارائه گزارش‌های نادرست و ایجاد بهانه برای حمله به تاسیسات ایران متهم کرد.",
-            "مقام‌های سابق تایید کردند که تنگه هرمز عملاً با اختلالات جدی روبه‌روست و امنیت کشتیرانی در خطر است.",
-            "دونالد ترامپ با تردید نسبت به وضعیت ساختار قدرت در تهران، اعلام کرد که مشخص نیست چه کسی واقعاً کشور را اداره می‌کند."
-        ],
-        "impact": "افزایش تنش‌های اتمی و تهدید امنیت انرژی در آب‌های استراتژیک منطقه",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-saudi-yemen-houthis-strait-of-hormuz-trump-latest-news/liveblog/134748685.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-saudi-yemen-houthis-strait-of-hormuz-trump-latest-news/liveblog/134748685.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134748685,width-1280,height-720,imgsize-17860,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1791358200.0
     }
 ]
