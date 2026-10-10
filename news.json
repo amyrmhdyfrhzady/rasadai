@@ -1,5 +1,23 @@
 [
     {
+        "id": "cf86b58956",
+        "title_fa": "هشدار صریح قطر به حملات پهپادی و موشکی سپاه",
+        "title_en": "Qatar condemns Iranian attacks, calls for diplomacy to contain escalation",
+        "summary": [
+            "دولت قطر حملات موشکی و پهپادی اخیر منسوب به ج.ا را نقض آشکار حاکمیت ملی و امنیت منطقه دانست.",
+            "دوحه با وجود محکومیت این تحرکات، همچنان بر لزوم دیپلماسی و مهار تنش‌ها تاکید کرد."
+        ],
+        "impact": "افزایش شکاف میان کشورهای حوزه خلیج فارس و تهران و انزوای بیشتر در سیاست منطقه‌ای.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610104268",
+        "clean_url": "https://www.iranintl.com/en/202610104268",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791636960.0
+    },
+    {
         "id": "0440b1473e",
         "title_fa": "عربستان در خط آتش؛ خطر جدید حملات حوثی‌ها در سایه جنگ",
         "title_en": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war",
@@ -601,6 +619,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WeFlrRnFhbmNUUU1PYUJIdzU5NUlGMlRrTTVTRG1ZVFJ3WHZ1bHU3UzhiRE9pMWl1dGV2Z01vNHRpNEpiTmprMFQwS3dLbmFGMXc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791588600.0
+    },
+    {
+        "id": "f7b3f39a6b",
+        "title_fa": "اعدام یک معترض دیگر در سمنان",
+        "title_en": "Iran says it executed man convicted of killing police officer",
+        "summary": [
+            "دستگاه قضایی ج.ا حکم اعدام متهم پرونده درگیری با نیروی انتظامی در دامغان را اجرا کرد.",
+            "سازمان‌های حقوق بشری بارها نسبت به نبود دادگاه عادلانه و اعترافات زیر شکنجه در این پرونده‌ها هشدار داده بودند."
+        ],
+        "impact": "تشدید جو ارعاب و سرکوب در شهرهای مختلف با اجرای احکام اعدام شتاب‌زده.",
+        "tag": "حقوق بشر",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610100141",
+        "clean_url": "https://www.iranintl.com/en/202610100141",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791587220.0
     },
     {
         "id": "747d2763d9",
@@ -5455,41 +5491,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6abbbece3e71c-1790688974.jpg?resize=1920,1440",
         "timestamp": 1791370680.0
-    },
-    {
-        "id": "91af51cfcf",
-        "title_fa": "تقلا و دفاع وزیر خارجه ج.ا از دیپلماسی جنگ",
-        "title_en": "Under-pressure Araghchi defends Iran's war diplomacy",
-        "summary": [
-            "عباس عراقچی زیر فشار سنگین نمایندگان و طرح استیضاح، ناچار به توجیه رویکرد منطقه‌ای دستگاه دیپلماسی شد.",
-            "مقام‌های ارشد وزارت خارجه تلاش می‌کنند با کلمه‌بازی، شکست‌های اخیر در سیاست خارجی را سرپوش بگذارند."
-        ],
-        "impact": "افزایش شکاف درون حاکمیت بر سر نحوه مدیریت بحران‌های منطقه‌ای و فشارهای خارجی.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The National on MSN",
-        "url": "https://www.msn.com/en-ae/news/middleeast/under-pressure-araghchi-defends-irans-war-diplomacy/ar-AA2dLBkx",
-        "clean_url": "https://www.msn.com/en-ae/news/middleeast/under-pressure-araghchi-defends-irans-war-diplomacy/ar-AA2dLBkx",
-        "image": "http://www.bing.com/th?id=ONUT.-sq8puAAX4MHFOjko28P0A&pid=News",
-        "timestamp": 1791369809.0
-    },
-    {
-        "id": "8c6dfc5c99",
-        "title_fa": "بازی دوگانه اروپا؛ تحریم روی کاغذ، دست دادن پشت پرده",
-        "title_en": "Sanctions in February, handshakes in September: EU’s flip-flop Iran policy is putting lives at risk",
-        "summary": [
-            "سیاست متناقض اتحادیه اروپا در قبال جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی امنیت شهروندان را به مخاطره انداخته است.",
-            "چرخش‌های مکرر اروپا از تحریم‌های زمستانی به سمت تعاملات پاییزی، حاکمیت تهران را در سرکوب جری‌تر می‌کند."
-        ],
-        "impact": "تناقض در سیاست خارجی اروپا، رژیم را در ادامه رویکرد گروگان‌گیری و سرکوب جری‌تر می‌سازد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "EUobserver",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVnZ2QmdiMGxmVVctZ0pTa1p5S0gzbDBBM25WV3g3YkNGMzZqdU9rTnVUamZrUF9CNVRuMDF3SktiYUcwTWxTbUJQYXhCLUo1UHE3LWYwbmk3ZUlJZzdhaUQ0VmV4c0k3RUU5MEQ2czN5Qzh6eTJUOTgxS19wSkZHcXQteWxLSmhrTU4yTXpUZHdMR19tVTZkVnlwWjJMNHJKMUM2bHBmZ0gyV2U4dlo5Z1NVc19iWW50RjFHQ1JkUmRGZmVZT0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVnZ2QmdiMGxmVVctZ0pTa1p5S0gzbDBBM25WV3g3YkNGMzZqdU9rTnVUamZrUF9CNVRuMDF3SktiYUcwTWxTbUJQYXhCLUo1UHE3LWYwbmk3ZUlJZzdhaUQ0VmV4c0k3RUU5MEQ2czN5Qzh6eTJUOTgxS19wSkZHcXQteWxLSmhrTU4yTXpUZHdMR19tVTZkVnlwWjJMNHJKMUM2bHBmZ0gyV2U4dlo5Z1NVc19iWW50RjFHQ1JkUmRGZmVZT0E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791369720.0
     }
 ]
