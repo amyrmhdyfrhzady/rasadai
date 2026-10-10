@@ -1,5 +1,23 @@
 [
     {
+        "id": "a593a51772",
+        "title_fa": "هک تلویزیون دولتی ایران و پخش پیام رضا پهلوی",
+        "title_en": "Articole despre \"pamant-rotund-calatorie\"",
+        "summary": [
+            "هکرها موفق شدند با مختل کردن پخش ماهواره‌ای تلویزیون دولتی، پیام‌های حمایتی از رضا پهلوی را روی آنتن بفرستند.",
+            "این اقدام پیامی آشکار به بدنه‌ی نیروهای امنیتی و حاکمیت برای ریزش بدنه‌هاست."
+        ],
+        "impact": "آسیب‌پذیری شدید سیستم‌های رسانه‌ای حکومت و تقویت روحیه‌ی مخالفان داخلی.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/pamant-rotund-calatorie-pag50",
+        "clean_url": "https://ziare.com/cautare/pamant-rotund-calatorie-pag50",
+        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
+        "timestamp": 1791655267.2544765
+    },
+    {
         "id": "01d4ac8451",
         "title_fa": "احیای فعالیت در سایت هسته‌ای آسیب‌دیده از حمله اسرائیل",
         "title_en": "Iran may be restoring activity at nuclear-linked site struck by Israel",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/opinion-are-irans-proxies-rising-again-inside-hamas-hezbollahs-strange-resurgence/ar-AA2dKvH7",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dKqxU.img?w=1280&h=720&m=4&q=88",
         "timestamp": 1791375373.0
-    },
-    {
-        "id": "11d504f419",
-        "title_fa": "احتمال حمله پیش دستانه ترامپ به اهداف ایرانی",
-        "title_en": "Trump Might Order Another Iran Strike Before the Midterms",
-        "summary": [
-            "دونالد ترامپ ممکن است پیش از انتخابات میادوره ای دستور اقدام نظامی علیه ج.ه. صادر کند.",
-            "فشار حداکثری وارد فاز نظامی احتمالی شده و معادلات امنیتی منطقه بهم ریخته است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و تنش نظامی در خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-strike-midterms/688910/",
-        "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-strike-midterms/688910",
-        "image": "http://www.bing.com/th?id=ONUT.tU2vesSfDdvlbzS8Y-ZxHA&pid=News",
-        "timestamp": 1791374460.0
     }
 ]
