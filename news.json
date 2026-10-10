@@ -476,6 +476,24 @@
         "timestamp": 1791576522.0
     },
     {
+        "id": "0cba5734a7",
+        "title_fa": "تنش در تنگه هرمز و تشدید تحرکات ج-م-ه-و-ر-ی ا-س-ل-ا-م-ى",
+        "title_en": "Iran shows Trump's opportunity in escalating Hormuz attacks",
+        "summary": [
+            "تهران با ناامن کردن تنگه هرمز تلاش می‌کند مسیر صادرات انرژی را مختل کند.",
+            "نیروی دریایی آمریکا گزارش داده که حملات به کشتی‌ها هم‌زمان با افزایش حجم صادرات انرژی شدت گرفته است."
+        ],
+        "impact": "افزایش ریسک حمل, نقل دریایی و بهانه‌ای برای تشدید فشار حداکثری آمریکا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Washington Examiner",
+        "url": "https://www.msn.com/en-us/news/other/iran-shows-trump-s-opportunity-in-escalating-hormuz-attacks/ar-AA2dWCfu",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-shows-trump-s-opportunity-in-escalating-hormuz-attacks/ar-AA2dWCfu",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dc3Ok.img?w=1024&h=682&m=4&q=100",
+        "timestamp": 1791576000.0
+    },
+    {
         "id": "ec20380cb6",
         "title_fa": "حمله هوایی اسرائیل به عنصر وابسته به تهران در سوریه",
         "title_en": "Lebanon says 6 wounded in attack that Israel says targeted pro-Iran Syrian operative",
@@ -5475,23 +5493,5 @@
         "clean_url": "https://www.iranintl.com/202610076683",
         "image": "http://www.bing.com/th?id=ONUT.wjaNyUv-NaoKb30y5JHHIg&pid=News",
         "timestamp": 1791359940.0
-    },
-    {
-        "id": "99871a386a",
-        "title_fa": "هشدار اتحادیه مهمانداران درباره طرح جنجالی ترامپ در فرودگاه واشنگتن",
-        "title_en": "Flight attendants’ union flags safety concerns over Trump’s Washington arch",
-        "summary": [
-            "اتحادیه مهمانداران هواپیما نسبت به خطرات امنیتی طاق پیروزی پیشنهادی ترامپ در مسیر فرودگاه هشدار دادند.",
-            "این طرح نظامی‌سازی فضای پروازی را مانعی خطرناک برای پروازهای تجاری می‌دانند."
-        ],
-        "impact": "افزایش چالش‌های حقوقی و ایمنی برای پروژه‌های جنجالی دولت.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/10/07/trump-triumphal-arch-union-safety-concerns/",
-        "clean_url": "https://www.bostonherald.com/2026/10/07/trump-triumphal-arch-union-safety-concerns",
-        "image": "http://www.bing.com/th?id=ONUT.R6cb_jwWfUFL590PYbPOww&pid=News",
-        "timestamp": 1791359520.0
     }
 ]
