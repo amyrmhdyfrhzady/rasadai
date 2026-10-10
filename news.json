@@ -1,5 +1,23 @@
 [
     {
+        "id": "9eaa215371",
+        "title_fa": "دستپاچگی بیت رهبری برای حمایت از سرکوبگران",
+        "title_en": "Mojtaba Khamenei Hails Police as a \"Pillar\" as Bombing and Recession Undercut Show of Strength",
+        "summary": [
+            "مـجـتـبـی خـا‌مـنـه ای در پیامی کم‌سابقه، نیروهای انتظامی را ستود و خواستار تجهیز آن‌ها به هوش مصنوعی شد.",
+            "همزمان با این نمایش قدرت، انفجار بمب کنار جاده‌ای در زاهدان و هلاکت یک مقام ارشد پلیس، آسیب‌پذیری امنیتی نظام را آشکار کرد."
+        ],
+        "impact": "تلاش مذابحانه حکومت برای تقویت دستگاه سرکوب در مواجهه با نارضایتی‌های عمیق مردمی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "National Council of Resistance of Iran",
+        "url": "https://www.ncr-iran.org/en/news/economy/mojtaba-khamenei-hails-police-as-a-pillar-as-bombing-and-recession-undercut-show-of-strength/",
+        "clean_url": "https://www.ncr-iran.org/en/news/economy/mojtaba-khamenei-hails-police-as-a-pillar-as-bombing-and-recession-undercut-show-of-strength",
+        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2026/10/iran-baluchestan-irgc-clashes.jpg",
+        "timestamp": 1791659400.0
+    },
+    {
         "id": "5194e09afe",
         "title_fa": "صفر شدن درآمدهای نفتی جـمـهـورۍ ا‌سـلامـۍ تا آذرماه",
         "title_en": "Message attributed to Khamenei praises Iran police chief",
@@ -530,6 +548,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-retains-missile-drone-production-capabilities-despite-months-of-us-israeli-strikes/ar-AA2dXgxc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791615027.0
+    },
+    {
+        "id": "8874872294",
+        "title_fa": "صفر شدن درآمدهای نفتی جـمـهـورـی اسـلا‌مـی تا آذرماه",
+        "title_en": "Iran's oil lifeline could run dry by mid-December, Kpler says",
+        "summary": [
+            "موسسه کپلر اعلام کرد حجم نفت روی آب ایران به شدت کاهش یافته و محموله‌های باقی‌مانده تا اواخر مهرماه تخلیه می‌شوند.",
+            "با توقف کامل بارگیری نفت در شهریورماه، تهران ماهانه بین ۳ تا ۶ میلیارد دلار درآمد از دست خواهد داد."
+        ],
+        "impact": "فشار بی‌سابقه تحریم‌های نفتی، ماشین مالی حکومت را در آستانه فروپاشی کامل قرار داده است.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202610104788",
+        "clean_url": "https://www.iranintl.com/en/202610104788",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791613560.0
     },
     {
         "id": "90e222336a",
@@ -5454,43 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202610075019",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791383160.0
-    },
-    {
-        "id": "aa6d714e43",
-        "title_fa": "خیز ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی برای بستن تنگه هرمز و واکنش ترامپ",
-        "title_en": "Iran war news LIVE: Iran threatens to shut 'illegal' Strait of Hormuz routes as oil flows recover",
-        "summary": [
-            "افزایش حملات به نفتکش‌ها در تنگه هرمز نشان‌دهنده تلاش برای باج‌گیری نفتی در اوج فشارهای بین‌المللی است.",
-            "ترامپ با ادعای مالکیت نیروی دریایی آمریکا بر این آبراه، عملاً حضور نظامی خود را به عنوان یک محاصره دریایی علیه تهران تعریف کرده است.",
-            "جی‌دی ونس شرط پایان درگیری را کاهش معنادار غنی‌سازی اعلام کرده که نشان‌دهنده بن‌بست در مذاکرات پشت پرده است."
-        ],
-        "impact": "تشدید تنش‌های دریایی می‌تواند قیمت جهانی نفت را به شدت افزایش داده و ریسک درگیری مستقیم نظامی را بالا ببرد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/us-news/us-iran-war-latest-news-live-updates-donald-trump-jd-vance-nuclear-enrichment-strait-of-hormuz-oil-prices-houthis-saudi-11791333855687.html",
-        "clean_url": "https://www.livemint.com/news/us-news/us-iran-war-latest-news-live-updates-donald-trump-jd-vance-nuclear-enrichment-strait-of-hormuz-oil-prices-houthis-saudi-11791333855687.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/10/07/382x214/Iran_war_JD_Vance_nuclear-Weapon_1791335103256_HW7i_1791335103368_MLOA_13bd2e11-d73f-4666-b427-d63b491f3917_EzNv.jpg",
-        "timestamp": 1791382920.0
-    },
-    {
-        "id": "bb7cf8d1d7",
-        "title_fa": "نمایش قدرت نمادین تهران و هشدار مارکو روبیو",
-        "title_en": "Tehran mural depicts Chinese dragon devouring US eagle",
-        "summary": [
-            "نقاشی دیواری جدید در تهران نشان‌دهنده وابستگی استراتژیک و تکیه شدید به چین است",
-            "روبیو با تأکید بر از دست رفتن کنترل تنگه هرمز، اقتصاد ایران را در سقوط آزاد می‌بیند",
-            "واشینگتن بر خط قرمز هسته‌ای تأکید دارد: هیچ راهی برای دستیابی به سلاح اتمی وجود ندارد"
-        ],
-        "impact": "افزایش تنش‌های لفظی و تأکید بر فشار حداکثری اقتصادی و نظامی بر ایران",
-        "tag": "تحریم و نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610073219",
-        "clean_url": "https://www.iranintl.com/en/202610073219",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/72325cb1131ef0d58a2b13385bcc6a9579a0a9a6-1080x1080.jpg?rect=469,443,571,300&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791382740.0
     }
 ]
