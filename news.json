@@ -128,6 +128,25 @@
         "timestamp": 1791600695.0
     },
     {
+        "id": "45fb314a64",
+        "title_fa": "تضاد منافع ترامپ و نتانیاهو؛ نفت ارزان یا جنگ با ایران؟",
+        "title_en": "The two elections that revolve around Iran",
+        "summary": [
+            "نتانیاهو برای بقا در صحنه قدرت به امنیتی نگه‌داشتن فضا و تشدید بحران با تهران تکیه کرده است.",
+            "ترامپ برعکس، برای جلب رضایت رای‌دهندگان آمریکایی در کنگره، مهار قیمت بنزین و پایان درگیری‌های پرهزینه خاورمیانه را دنبال می‌کند.",
+            "همزمانی انتخابات در اسرائیل و آمریکا، همراهی استراتژیک واشنگتن و تل‌آویو را به تضادی آشکار میان مهار بازار نفت و تمایل به درگیری تبدیل کرده است."
+        ],
+        "impact": "فشار کاخ سفید بر تل‌آویو برای پرهیز از اقدامات تنش‌زایی که بهای سوخت را در آستانه انتخابات آمریکا جهش دهد.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Malaysia Sun",
+        "url": "https://www.malaysiasun.com/news/279362767/the-two-elections-that-revolve-around-iran",
+        "clean_url": "https://www.malaysiasun.com/news/279362767/the-two-elections-that-revolve-around-iran",
+        "image": "https://chitra-api.kreatio.com/api/v1/wps/58452a2/97c11e7d-f27d-4700-b0a6-16afa0cc2699/0/NmM1ZWQwNDMtY2J-600x315.jpg",
+        "timestamp": 1791599160.0
+    },
+    {
         "id": "ea4d3ec9bb",
         "title_fa": "تغییر معادلات خاورمیانه در سایه ناامنی‌های اخیر",
         "title_en": "Opinion | Foiled hijacking showed a shifting Middle East",
@@ -5474,24 +5493,5 @@
         "clean_url": "https://www.nbcnews.com/business/markets/treasury-yields-hit-24-year-highs-global-sell-accelerates-rcna602045",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-Treasury-Department-Building-ch-0952-13faef.jpg",
         "timestamp": 1791359220.0
-    },
-    {
-        "id": "298071420e",
-        "title_fa": "دورکاری نمایندگان مجلس از ترس حملات نظامی",
-        "title_en": "One-third of Iran's lawmakers to attend parliament in person next week, MP says",
-        "summary": [
-            "یک سوم نمایندگان مجلس به صورت حضوری در جلسات هفته آینده شرکت می‌کنند و بقیه به دلیل شرایط جنگی از طریق تبلت رای می‌دهند.",
-            "بر اساس طرح هیئت رئیسه، هر کمیسیون فقط سه عضو را به صورت چرخشی به مجلس می‌فرستد.",
-            "مقامات حکومتی جرات برگزاری تجمع کامل ۲۷۵ نفری را در شرایط فعلی ندارند."
-        ],
-        "impact": "ترس و استرس حاکم بر بدنه حاکمیت و پنهان شدن مسئولان از خطرات امنیتی",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610074173",
-        "clean_url": "https://www.iranintl.com/en/202610074173",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791358920.0
     }
 ]
