@@ -255,6 +255,24 @@
         "timestamp": 1791615615.0
     },
     {
+        "id": "b2145206ef",
+        "title_fa": "حفظ توان موشکی و پهپادی ج.ا علیرغم ضربات اخیر",
+        "title_en": "Iran retains missile, drone production capabilities despite months of US-Israeli strikes",
+        "summary": [
+            "برآوردهای اطلاعاتی غربی نشان می‌دهد تاسیسات کلیدی تسلیحاتی ج.ا دست‌نخورده باقی مانده است.",
+            "چرخه تولید موشک و پهپاد همچنان فعال است و توان بازسازی زرادخانه نظامی وجود دارد."
+        ],
+        "impact": "تلاش‌های نظامی آمریکا و اسرائیل برای فلج کردن کامل صنایع موشکی ج.ا با چالش جدی روبرو شده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-retains-missile-drone-production-capabilities-despite-months-of-us-israeli-strikes/ar-AA2dXgxc",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-retains-missile-drone-production-capabilities-despite-months-of-us-israeli-strikes/ar-AA2dXgxc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791615027.0
+    },
+    {
         "id": "91168295ed",
         "title_fa": "بازتاب تنش‌های واشنگتن و تـهـران در رسانه‌های عربی",
         "title_en": "Voices from the Arab Press: US-Iran tensions, AI dangers, and Israel's vote",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.cnn.com/2026/10/07/us/minnesota-terrorism-arrest-mall-of-america",
         "image": "http://www.bing.com/th?id=ONUT.QcdnW2JB67usjUMg6ih8Tg&pid=News",
         "timestamp": 1791371160.0
-    },
-    {
-        "id": "0f1830fd96",
-        "title_fa": "بحران قیمت گازوئیل و ورشکستگی شرکت‌های حمل‌ونقل در آمریکا",
-        "title_en": "Nationwide Trucking Company Files for Bankruptcy Amid Diesel Price Shock",
-        "summary": [
-            "قیمت بالای سوخت فشار سنگینی بر صنعت لجستیک آمریکا وارد کرده و موجی از ورشکستگی‌ها را رقم زده است.",
-            "میانگین قیمت گازوئیل نسبت به سال گذشته رشد چشمگیری داشته و شرکت‌های باربری را زمین‌گیر کرده است."
-        ],
-        "impact": "اختلال در زنجیره تأمین و افزایش تورم بخش لجستیک.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/nationwide-trucking-company-files-for-bankruptcy-amid-diesel-price-shock-12536548",
-        "clean_url": "https://www.newsweek.com/nationwide-trucking-company-files-for-bankruptcy-amid-diesel-price-shock-12536548",
-        "image": "http://www.bing.com/th?id=ONUT.--wy1ortZ0lyzN2jlBV7pg&pid=News",
-        "timestamp": 1791370860.0
     }
 ]
