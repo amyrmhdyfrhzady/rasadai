@@ -569,6 +569,24 @@
         "timestamp": 1791611640.0
     },
     {
+        "id": "7010007414",
+        "title_fa": "حمله موشکی حوثی‌ها به فرودگاه ریاض و تشدید درگیری‌ها در یمن",
+        "title_en": "The 7 p.m. update: Houthis attack Riyadh airport again; Yemeni forces claim gains near Bab el-Mandeb; Abbas postpones Palestinian legislative elections",
+        "summary": [
+            "حوثی‌های وابسته به تهران فرودگاه ریاض را هدف حمله موشکی قرار دادند که به زخمی شدن ده‌ها نفر منجر شد.",
+            "نیروهای نیابتی با تسلط بر سواحل کلیدی دریای سرخ، کنترل خود را بر خطوط تجاری منطقه گسترش داده‌اند."
+        ],
+        "impact": "تشدید ناامنی در مرزهای عربستان و به خطر افتادن امنیت انرژی و تجارت دریایی.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "L'Orient Today",
+        "url": "https://today.lorientlejour.com/article/1550382/the-7-pm-update-houthis-attack-riyadh-airport-again-yemeni-forces-claim-gains-near-bab-el-mandeb-abbas-postpones-palestinian-legislative-elections.html",
+        "clean_url": "https://today.lorientlejour.com/article/1550382/the-7-pm-update-houthis-attack-riyadh-airport-again-yemeni-forces-claim-gains-near-bab-el-mandeb-abbas-postpones-palestinian-legislative-elections.html",
+        "image": "https://s.lorientlejour.com/storage/attachments/1551/medias_349500_644711.jpg/r/800/medias_349500_644711.jpg",
+        "timestamp": 1791611220.0
+    },
+    {
         "id": "98287aed70",
         "title_fa": "بازگشت هواپیمای توقیف‌شده کاسپین و ادامه فعالیت در سایت نظامی",
         "title_en": "Caspian Airlines plane returns to Iran after seizure in Turkey",
@@ -5474,24 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202610073219",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/72325cb1131ef0d58a2b13385bcc6a9579a0a9a6-1080x1080.jpg?rect=469,443,571,300&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791382740.0
-    },
-    {
-        "id": "484dca84e3",
-        "title_fa": "طرح ترامپ برای حمله پیش‌دستانه به ج... ا... ل... قبل از انتخابات کنگره",
-        "title_en": "Trump Is Mulling a Pre-Midterms Strike on Iran to Help Drum Up Support: Report",
-        "summary": [
-            "افت شدید محبوبیت اقتصادی ترامپ را به فکر یک اقدام نظامی ناگهانی انداخته است.",
-            "منابع آگاه از درخواست کاخ سفید از فرماندهی مرکزی برای آماده‌سازی گزینه‌های نظامی خبر می‌دهند.",
-            "هدف اصلی این سناریو، جلب رای مثبت رأی‌دهندگان در آستانه انتخابات میادترم است."
-        ],
-        "impact": "احتمال تنش نظامی ناگهانی در منطقه برای مصرف داخلی ایالات متحده.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Rolling Stone",
-        "url": "https://www.rollingstone.com/politics/politics-news/white-house-considers-iran-strike-midterms-1235639202/",
-        "clean_url": "https://www.rollingstone.com/politics/politics-news/white-house-considers-iran-strike-midterms-1235639202",
-        "image": "http://www.bing.com/th?id=ONUT.P_wrPX4EhddybtkMdFzosQ&pid=News",
-        "timestamp": 1791382680.0
     }
 ]
