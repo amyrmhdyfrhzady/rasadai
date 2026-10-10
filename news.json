@@ -184,6 +184,24 @@
         "timestamp": 1791655267.2544765
     },
     {
+        "id": "b048a43a4b",
+        "title_fa": "هدف‌گیری دقیق فرماندهان ارشد حماس و جهاد اسلامی در غزه",
+        "title_en": "IDF targets meeting of Hamas Nukhba members, Islamic Jihad commander in Gaza City strikes",
+        "summary": [
+            "ارتش اسرائیل نشست محرمانه اعضای یگان نخبه حماس را در شهر غزه هدف قرار داد.",
+            "یک فرمانده ارشد جهاد اسلامی نیز در حمله هوایی دیگری از پا درآمد."
+        ],
+        "impact": "ضربه‌ای دیگر به زنجیره فرماندهی گروه‌های نیابتی در بار باریکه غزه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/idf-targets-meeting-of-hamas-nukhba-members-islamic-jihad-commander-in-gaza-city-strikes/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-targets-meeting-of-hamas-nukhba-members-islamic-jihad-commander-in-gaza-city-strikes",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20110613__DV977023__v1__HighRes__IsraelPalestinianJerusalemItalyBocelli-e1791430101980-640x400.jpg",
+        "timestamp": 1791652740.0
+    },
+    {
         "id": "6de8905856",
         "title_fa": "انفجار نفت‌کش در تنگه هرمز با مین دریایی",
         "title_en": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report",
@@ -5468,23 +5486,5 @@
         "clean_url": "https://kashmirreader.com/2026/10/08/upi-mdr-small-fee-will-not-have-major-impact-on-volumes-rbi-governor",
         "image": "https://kashmirreader.com/wp-content/uploads/2026/10/RBI-Governor-Sanjay-Malhotra-1024x663.webp",
         "timestamp": 1791396840.0
-    },
-    {
-        "id": "dee44203e7",
-        "title_fa": "هشدار تل‌آویو به دشمنان؛ فعال‌سازی پیمان مکه",
-        "title_en": "Israel warns enemies not to test resolve; Mecca Pact activated - TV7 Israel News - 07 Oct.",
-        "summary": [
-            "اسرائیل به طور رسمی به مخالفانش هشدار داد که اراده این کشور را آزمایش نکنند.",
-            "فعال شدن پیمان مکه نشان‌دهنده شکل‌گیری لایه‌های جدیدی از ائتلاف‌های منطقه‌ای علیه تهدیدات است."
-        ],
-        "impact": "افزایش سطح بازدارندگی نظامی و تحرکات دیپلماتیک امنیتی در منطقه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zd2VHQ2tCRzQzYm5uRGZpODFkREd2c2IzTlRBTjd5YlVRX09vdHhYeExNQ0VRS2pmaTFlQzBIcDM5bTNOa0hqSndFYUdfaVA0MThZVjU2anRITmxXNnBqbGhqWkhoQ1RZcHlrZjZTaDBGdjZSVVlF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zd2VHQ2tCRzQzYm5uRGZpODFkREd2c2IzTlRBTjd5YlVRX09vdHhYeExNQ0VRS2pmaTFlQzBIcDM5bTNOa0hqSndFYUdfaVA0MThZVjU2anRITmxXNnBqbGhqWkhoQ1RZcHlrZjZTaDBGdjZSVVlF",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791396383.0
     }
 ]
