@@ -182,6 +182,25 @@
         "timestamp": 1791589684.0
     },
     {
+        "id": "a4ba97e3c3",
+        "title_fa": "خط و نشان کیهان برای هنرمندان بازگشته به کشور",
+        "title_en": "Trump says Iran among conflicts he expects to ‘settle or win’",
+        "summary": [
+            "روزنامه کیهان خواستار برخورد امنیتی و بازجویی از هنرمندان خارج از کشور شد که اخیراً به ایران بازگشته‌اند.",
+            "ارگان تحت نظر رهبری، بازگشت اهالی هنر را نه از روی وطن‌دوستی، بلکه سناریوی «نفوذ نرم فرهنگی» می‌داند.",
+            "این برخورد نشان داد ادعاهای دولت برای جلب اعتماد ایرانیان خارج از کشور با دیوار سخت نهادهای اطلاعاتی ج*هوری اس*لامی برخورد می‌کند."
+        ],
+        "impact": "افزایش فشار امنیتی بر هنرمندان و انسداد راه بازگشت ایرانیان خارج از کشور.",
+        "tag": "سرکوب",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/liveblog/202610105959",
+        "clean_url": "https://www.iranintl.com/en/liveblog/202610105959",
+        "image": "http://www.bing.com/th?id=ONUT.slUx7Q28NSpxfllSvNsDIw&pid=News",
+        "timestamp": 1791589500.0
+    },
+    {
         "id": "5ca3f9ef7c",
         "title_fa": "تقویت طوفان سایمون و هشدار اضطراری در مکزیک",
         "title_en": "Hurricane Simon strengthens to a Category 2 storm, the National Hurricane Center says",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-threatens-pre-emptive-strikes-as-us-questions-who-runs-tehran/ar-AA2dKCbM",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791356659.0
-    },
-    {
-        "id": "299da892b6",
-        "title_fa": "رقابت تنگاتنگ پنج نامزد در انتخابات کنگره میشیگان",
-        "title_en": "Who is on the ballot to succeed U.S. Rep. Haley Stevens?",
-        "summary": [
-            "پنج نامزد از حزب دموکرات و جمهوری‌خواه برای تصاحب کرسی خالی نمایندگی در منطقه یازدهم میشیگان مبارزه می‌کنند.",
-            "این رقابت یکی از حوزه‌های مهم تعیین‌کننده توازن قوا در مجلس نمایندگان است."
-        ],
-        "impact": "تغییر موازنه قدرت محلی در یکی از مناطق کلیدی کنگره.",
-        "tag": "انتخابات",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "mlive",
-        "url": "https://www.mlive.com/news/detroit/2026/10/who-is-on-the-ballot-to-succeed-us-rep-haley-stevens.html",
-        "clean_url": "https://www.mlive.com/news/detroit/2026/10/who-is-on-the-ballot-to-succeed-us-rep-haley-stevens.html",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791356580.0
     }
 ]
