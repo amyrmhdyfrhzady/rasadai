@@ -18,6 +18,25 @@
         "timestamp": 1791661950.0
     },
     {
+        "id": "74a9f590e1",
+        "title_fa": "صفر شدن درآمد نفت ایران و افزایش تلفات نظامی",
+        "title_en": "US raises military death toll in Iran war to 21",
+        "summary": [
+            "آمارها نشان می‌دهد درآمدهای نفتی و میعانات ایران به دلیل بلوکه شدن صادرات به صفر نزدیک می‌شود.",
+            "تلفات نظامی ارتش آمریکا در جنگ با ایران به ۲۱ نفر افزایش یافته است.",
+            "با تخلیه آخرین محموله‌های نفتی در راه چین تا آذرماه، بحران مالی حکومت وارد مرحله تازه‌ای می‌شود."
+        ],
+        "impact": "فلج شدن کامل شریان‌های درآمدی حکومت و افزایش هزینه‌های نظامی جنگ",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610100090",
+        "clean_url": "https://www.iranintl.com/en/202610100090",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791661920.0
+    },
+    {
         "id": "9eaa215371",
         "title_fa": "دستپاچگی بیت رهبری برای حمایت از سرکوبگران",
         "title_en": "Mojtaba Khamenei Hails Police as a \"Pillar\" as Bombing and Recession Undercut Show of Strength",
@@ -273,6 +292,42 @@
         "clean_url": "https://www.iranintl.com/en/202610104268",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791636960.0
+    },
+    {
+        "id": "6b1be1d142",
+        "title_fa": "التزام ترامپ به توافق با مسکو و هشدار تند به زلنسکی",
+        "title_en": "Trump calls for Ukraine to replace Zelenskyy after clash over Russia diesel deal: 'Get a new president'",
+        "summary": [
+            "ترامپ با انتقاد شدید از حملات پهپادی به پالایشگاه‌های روسیه، خواستار توقف فوری این حملات شد.",
+            "رئیس‌جمهور آمریکا زلنسکی را عامل تشدید بحران سوخت در جهان دانست و خواستار تغییر رهبری او شد."
+        ],
+        "impact": "افزایش تنش میان واشنگتن و کی‌یف بر سر ادامه جنگ و سیاست‌های انرژی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/trump-calls-ukraine-replace-zelenskyy-clash-russia-diesel-deal-get-new-president",
+        "clean_url": "https://www.foxnews.com/politics/trump-calls-ukraine-replace-zelenskyy-clash-russia-diesel-deal-get-new-president",
+        "image": "http://www.bing.com/th?id=ONUT.p-4NuSQJS9Ww0rnRnQ1-ow&pid=News",
+        "timestamp": 1791636840.0
+    },
+    {
+        "id": "c681aa7073",
+        "title_fa": "حواشی سیاسی و جنجال‌های انتخاباتی نامزدهای سنا در میشیگان",
+        "title_en": "Democrat Senate candidate Abdul El-Sayed jokes that Michigan football can't win without cheating",
+        "summary": [
+            "اظهارات جنجالی نامزدهای انتخاباتی درباره فرهنگ ورزشی و مسائل اجتماعی بازتاب گسترده‌ای داشته است.",
+            "رقابت‌های ایالتی در میشیگان تحت تأثیر مواضع جنجالی چهره‌های سیاسی قرار گرفته است."
+        ],
+        "impact": "تشدید قطبی‌سازی در رقابت‌های ایالتی سنا",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/outkick-sports/democrat-senate-candidate-abdul-el-sayed-jokes-michigan-football-cant-win-without-cheating",
+        "clean_url": "https://www.foxnews.com/outkick-sports/democrat-senate-candidate-abdul-el-sayed-jokes-michigan-football-cant-win-without-cheating",
+        "image": "http://www.bing.com/th?id=ONUT.ZbQFna8yDaHAbinoBjaDxg&pid=News",
+        "timestamp": 1791636360.0
     },
     {
         "id": "0440b1473e",
@@ -551,6 +606,24 @@
         "timestamp": 1791615972.0
     },
     {
+        "id": "5902f18c4b",
+        "title_fa": "شکست ترفندهای کاخ سفید در تغییر رأی‌دهندگان ناراضی آمریکایی",
+        "title_en": "'Ship has sailed': New poll shows even an end to the war or lower gas prices may not save Republicans",
+        "summary": [
+            "نظرسنجی‌ها نشان می‌دهد پایان جنگ با ایران یا کاهش قیمت بنزین هم تأثیری بر نظر رأی‌دهندگان مردد نداشته است.",
+            "بخش عمده‌ای از بدنه رأی‌دهندگان دموکرات و مستقل همچنان منتقد عملکرد اقتصادی دولت هستند."
+        ],
+        "impact": "بی‌اثر بودن اقدامات موقتی دولت برای نجات جایگاه سیاسی حزب حاکم",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Politico on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ship-has-sailed-new-poll-shows-even-an-end-to-the-war-or-lower-gas-prices-may-not-save-republicans/ar-AA2dX25l",
+        "clean_url": "https://www.msn.com/en-us/news/other/ship-has-sailed-new-poll-shows-even-an-end-to-the-war-or-lower-gas-prices-may-not-save-republicans/ar-AA2dX25l",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791615660.0
+    },
+    {
         "id": "f10267ab12",
         "title_fa": "فشار ترامپ بر جبهه ای-ران و اس-رائیل پس از جنگ",
         "title_en": "Readers sound off on Trump prodding Iran, Israel after Oct. 7 and science Nobels",
@@ -603,6 +676,24 @@
         "clean_url": "https://www.iranintl.com/en/202610104788",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791613560.0
+    },
+    {
+        "id": "da9ab04427",
+        "title_fa": "چالش‌های فنی سنگین آمریکا در پروژه بازگشت به ماه",
+        "title_en": "America Plans To Conquer The Moon Again. Here's What It Will Take To Stay",
+        "summary": [
+            "برنامه بلندپروازانه کاخ سفید برای ایجاد پایگاه دائمی در ماه با موانع پیچیده فنی روبه‌روست.",
+            "تأمین انرژی، سیستم‌های ارتباطی و محافظت در برابر تشعشعات از چالش‌های اصلی ناسا است."
+        ],
+        "impact": "افزایش هزینه‌ها و طولانی شدن زمان‌بندی پروژه‌های فضایی راهبردی آمریکا",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/america-plans-conquer-moon-again-130642000.html",
+        "clean_url": "https://www.aol.com/articles/america-plans-conquer-moon-again-130642000.html",
+        "image": "https://hermes.media.transform.aol.com/b2f61787f67773279542891a251b9c25185bcea0/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/10/ef1fa43d-a888-3cb6-9585-b2ee42f55923/f00abb0d-a4f6-4901-ba2a-4910eebceb83.jpg",
+        "timestamp": 1791612960.0
     },
     {
         "id": "90e222336a",
@@ -803,6 +894,59 @@
         "clean_url": "https://nypost.com/2026/10/10/world-news/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift",
         "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/palestinians-walk-along-street-surrounded-144491774.jpg?quality=75&strip=all&w=1200",
         "timestamp": 1791602340.0
+    },
+    {
+        "id": "a0c08726fd",
+        "title_fa": "اعتراف مقام ارشد کنگره به بحران اقتصادی و چالش انتخابات",
+        "title_en": "Utah Rep. Blake Moore acknowledges gas prices, Iran war complicate Republicans’ economic pitch in midterms",
+        "summary": [
+            "نماینده ارشد جمهوری‌خواه در مجلس نمایندگان وضعیت اقتصادی و جنگ با ایران را عامل پیچیدگی انتخابات دانست."
+        ],
+        "impact": "اذعان حاکمیت به شکنندگی وضعیت انتخاباتی حزب در مواجهه با نارضایتی‌ها",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Deseret News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/utah-rep-blake-moore-acknowledges-gas-prices-iran-war-complicate-republicans-economic-pitch-in-midterms/ar-AA2dX8xY",
+        "clean_url": "https://www.msn.com/en-us/news/other/utah-rep-blake-moore-acknowledges-gas-prices-iran-war-complicate-republicans-economic-pitch-in-midterms/ar-AA2dX8xY",
+        "image": "http://www.bing.com/th?id=ONUT._-d_wlutQ_Xrryv6_mTMvQ&pid=News",
+        "timestamp": 1791601201.0
+    },
+    {
+        "id": "27444d2dc8",
+        "title_fa": "بحران قیمت سوخت و چالش سنگین جمهوری‌خواهان در انتخابات",
+        "title_en": "Donald Trump Is Flailing To Contain The Surge In Fuel Prices He Created",
+        "summary": [
+            "جهش بی‌سابقه قیمت بنزین و گازوئیل، موجی از تورم را در اقتصاد آمریکا به راه انداخته است.",
+            "پایین بودن محبوبیت کاخ سفید در آستانه انتخابات میان‌دوره‌ای، فشار سیاسی زیادی بر حزب حاکم ایجاد کرده است."
+        ],
+        "impact": "افت شدید پایگاه رأی جمهوری‌خواهان همزمان با بحران اقتصادی",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-gas-diesel-prices-gimmicks_n_6ac937f8e4b01d1704f9bc59",
+        "clean_url": "https://www.huffpost.com/entry/trump-gas-diesel-prices-gimmicks_n_6ac937f8e4b01d1704f9bc59",
+        "image": "https://img.huffingtonpost.com/asset/6ac9313b180000e5cbf16a5c.jpg?cache=HyAybfaQ4U&ops=500_281%2Cscalefit_1200_630",
+        "timestamp": 1791601200.0
+    },
+    {
+        "id": "d7244fc3ab",
+        "title_fa": "افت چشمگیر فروش لوازم هواداری ترامپ در سایه نارضایتی‌ها",
+        "title_en": "Sales take a hit at ‘Trump Town’ merch store as shoppers voice frustration over president’s policies",
+        "summary": [
+            "فروشگاه‌های محصولات حامی ترامپ با افت شدید درآمد و کاهش واردات کالا از چین مواجه شده‌اند.",
+            "نارضایتی خریداران از سیاست‌های اقتصادی دولت مستقیماً در بازار اقلام تبلیغاتی بازتاب یافته است."
+        ],
+        "impact": "کاهش شور و شوق حامیان سنتی به دلیل مشکلات اقتصادی",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/10/politics/trump-town-store-sales-down",
+        "clean_url": "https://www.cnn.com/2026/10/10/politics/trump-town-store-sales-down",
+        "image": "http://www.bing.com/th?id=ONUT.AUgRy96oQNEU9jSb48F6aQ&pid=News",
+        "timestamp": 1791601200.0
     },
     {
         "id": "d17638a56f",
@@ -5344,151 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85NXRXUjFnNXhjQTVqbnRqeEhCSms4N2Jqc1NkcXEzSmV5d21EaFJQNm9yVHMwLU1MSm8tam1uamJqT2ZJb2lOaU5PTEkzS01hUGtHYmxFODBUY2RVVTAzS3FsclBzTFl6eWRvSE5QRHlYNlNBMlVZaXpNQ2REdw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791391353.0
-    },
-    {
-        "id": "0b0f87df41",
-        "title_fa": "هراس نماینده مجلس از جرقه اعتراضات خیابانی در دو هفته آینده",
-        "title_en": "Iran MP says US seeks to pressure Tehran, trigger street unrest",
-        "summary": [
-            "علی خضریان، نماینده مجلس، با فرار رو به جلو مدعی شده آمریکا و اسرائیل به دنبال ایجاد آشوب خیابانی در ایران ظرف دو هفته آینده هستند.",
-            "این اظهارات، وحشت عمیق حکومت از آستانه تحمل پایین جامعه در برابر فشارهای اقتصادی پیش‌رو را آشکار می‌کند.",
-            "متهم کردن پیش‌دستانه مردم به «عوامل دشمن»، سناریوی تکراری رژ*یم برای توجیه سرکوب‌های احتمالی بعدی است."
-        ],
-        "impact": "آماده‌سازی فضا برای برخورد امنیتی شدیدتر با هرگونه تجمع اعتراضی در روزهای آینده.",
-        "tag": "امنیتی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610076038",
-        "clean_url": "https://www.iranintl.com/en/202610076038",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791389400.0
-    },
-    {
-        "id": "28a7ffa7f5",
-        "title_fa": "اعلام رسمی از سرگیری درگیری با جـ.م.هـ.و.ر.ی ا.س.ل.ا.م.ی به کنگره",
-        "title_en": "Trump Sends Congress Formal Notice that Iran Conflict has Resumed",
-        "summary": [
-            "دونالد ترامپ در نامه ای رسمی به کنگره، آغاز دوباره تقابل با تهران را اعلام کرد.",
-            "این اقدام نشان‌دهنده تغییر فاز رویکرد واشنگتن از دیپلماسی به فشار مستقیم است."
-        ],
-        "impact": "افزایش فوری ریسک‌های امنیتی و جهش انتظارات تورمی در بازار داخلی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmFBSkFIN1NMenJrcVdJd2VjdzIzVGh0anVlcnZJaXZtX2YyR19iQy01VFdWbmFzaGcwdzdBTmZhNmhxYVgzLUl0OHF0bzZoQzNkVWtKZXpVTHpnclo2a2hlUmZvX1JJN1VhOTh2UWRLV2x1RGxhT1F4Wmx6NGxMQVNna3pMSEcxRk40UmZBdHdLS2pVdDRmWGNjV1A?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmFBSkFIN1NMenJrcVdJd2VjdzIzVGh0anVlcnZJaXZtX2YyR19iQy01VFdWbmFzaGcwdzdBTmZhNmhxYVgzLUl0OHF0bzZoQzNkVWtKZXpVTHpnclo2a2hlUmZvX1JJN1VhOTh2UWRLV2x1RGxhT1F4Wmx6NGxMQVNna3pMSEcxRk40UmZBdHdLS2pVdDRmWGNjV1A",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791388396.0
-    },
-    {
-        "id": "672d12fb73",
-        "title_fa": "فشار کاخ سفید بر سنتکام برای تهیه طرح حمله به ایـران پیش از انتخابات",
-        "title_en": "آتلانتیک: کاخ سفید خواستار تهیه گزینه‌های حمله به ایران پیش از انتخابات میان‌دوره‌ای شد",
-        "summary": [
-            "دونالد ترامپ با هدف کاهش قیمت بنزین و کسب امتیاز سیاسی پیش از انتخابات میان‌دوره‌ای، به دنبال گزینه‌های نظامی علیه حـکـومـت ایـران است.",
-            "مقام‌های آمریکایی اذعان دارند که حملات محدود تأثیری بر تغییر رفتار تـهـران یا کاهش واقعی قیمت سوخت نخواهد داشت."
-        ],
-        "impact": "افزایش شدید تنش‌های نظامی و خطر درگیری در آستانه انتخابات آمریکا.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610070734",
-        "clean_url": "https://www.iranintl.com/202610070734",
-        "image": "http://www.bing.com/th?id=ONUT.EwujYSkBdRmVmY97k3wzBw&pid=News",
-        "timestamp": 1791386940.0
-    },
-    {
-        "id": "6066dc89af",
-        "title_fa": "فشار ونس بر ج.ا برای کاهش معنادار توان هسته‌ای",
-        "title_en": "Vance presses Iran for 'meaningful' reduction in nuclear capability to end war",
-        "summary": [
-            "جی دی ونس با پیوند زدن جنگ غزه به برنامه اتمی، خواستار عقب‌نشینی واقعی تهران از فعالیت‌های هسته‌ای شد.",
-            "این موضع نشان‌دهنده رویکرد سخت‌گیرانه تیم احتمالی ترامپ برای مهار نفوذ منطقه‌ای و هسته‌ای ج.ا است.",
-            "اظهارات مامدانی در نیویورک نشان می‌دهد که شکاف در افکار عمومی غرب درباره جنگ غزه همچنان به نفع فشار بر متحدان اسرائیل نیست."
-        ],
-        "impact": "افزایش احتمال بازگشت سیاست فشار حداکثری و تحریم‌های سنگین‌تر در صورت پیروزی جمهوری‌خواهان.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-vance-talks-tehran-nuclear-program-10-07-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-vance-talks-tehran-nuclear-program-10-07-26",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/7c125e5223ef298c4428dbae4068a113.jpg",
-        "timestamp": 1791386460.0
-    },
-    {
-        "id": "d3d66c3f2e",
-        "title_fa": "سرازیر شدن دلارهای نفتی به جیب نیابتی‌ها برای بازسازی",
-        "title_en": "EXCLUSIVE: Lebanon's Hezbollah gets $200 million from Iran to help displaced, sources say",
-        "summary": [
-            "منابع خبری از تزریق دویست میلیون دلار بودجه از سوی تهران به حزب‌الله لبنان خبر دادند.",
-            "این مبلغ کلان با هدف کمک به آوارگان و ترمیم ساختارهای آسیب‌دیده هزینه می‌شود."
-        ],
-        "impact": "تداوم هزینه‌کرد منابع ملی برای حمایت از گروه‌های نیابتی همزمان با بحران داخلی",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZDFQZzNVZkV5bHhCZ2FaemZmZDdyMTZtWndQR2tTakxOaW9SWTI2clhnZWpKcDZaVU9RS2p0TUJ0UGoxWWxUQm1JZ3pWYzZJN1pKSkROLTFzc2pqdE9TUEd6b1pQM2dlVE16VEZJbVlOOWFxUUhud3c5UXZ1N3NMMldSRkwxNS1hbnN2ZkxHX1hMaTAzSHMxODdFa2xhU1dTcVpmQ282d2xOUEZRbGpTejZmRFFCVzBsMTh6bnh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZDFQZzNVZkV5bHhCZ2FaemZmZDdyMTZtWndQR2tTakxOaW9SWTI2clhnZWpKcDZaVU9RS2p0TUJ0UGoxWWxUQm1JZ3pWYzZJN1pKSkROLTFzc2pqdE9TUEd6b1pQM2dlVE16VEZJbVlOOWFxUUhud3c5UXZ1N3NMMldSRkwxNS1hbnN2ZkxHX1hMaTAzSHMxODdFa2xhU1dTcVpmQ282d2xOUEZRbGpTejZmRFFCVzBsMTh6bnh3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791385446.0
-    },
-    {
-        "id": "b51290c8e7",
-        "title_fa": "ایران در آستانه نقطه فروپاشی نهایی",
-        "title_en": "Iran at the Breaking Point: Is Victory Finally Within Reach?",
-        "summary": [
-            "حکومت ج.م در بحرانی‌ترین شرایط تاریخی خود قرار گرفته است.",
-            "فشارهای همه‌جانبه خارجی و نارضایتی عمیق داخلی سیستم را به لبه پرتگاه کشانده است."
-        ],
-        "impact": "افزایش احتمال تغییرات بنیادین در ساختار قدرت به دلیل انباشت بحران‌ها",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5maXJZdWs1TU1NTTJIamJBZWZneGhBbndtNE5Qa0Nod0tlMnc5eEtIUU1DMEtPeVlDY3Q4ZElMRFR5cjI2cnpKMzRvNHdrV1g3aS1Xc2pyNzZWSmFKVWV6ZWJpczNMdVBONUJtRGs0VEIzUW0ycXRvZVBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5maXJZdWs1TU1NTTJIamJBZWZneGhBbndtNE5Qa0Nod0tlMnc5eEtIUU1DMEtPeVlDY3Q4ZElMRFR5cjI2cnpKMzRvNHdrV1g3aS1Xc2pyNzZWSmFKVWV6ZWJpczNMdVBONUJtRGs0VEIzUW0ycXRvZVBR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791385290.0
-    },
-    {
-        "id": "e53de2eeca",
-        "title_fa": "پاسخ تـهـران به پیشنهادهای آمریکا از کانال میانجی‌گران",
-        "title_en": "سخنگوی وزارت خارجه جمهوری اسلامی: پاسخ به پیشنهادهای آمریکا از طریق میانجی‌ها ارائه می‌شود",
-        "summary": [
-            "وزارت خارجه جمهوری اسلامی از ارائه شروط خود برای پایان درگیری‌ها و امنیت خلیج فارس از طریق واسطه‌ها خبر داد.",
-            "مذاکرات غیرمستقیم میان دو طرف با وجود رد پیشنهادهای اولیه در جریان است."
-        ],
-        "impact": "تلاش دیپلماتیک پشت پرده برای مدیریت تنش‌های نظامی در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610072613",
-        "clean_url": "https://www.iranintl.com/202610072613",
-        "image": "http://www.bing.com/th?id=ONUT.XFhOb62m4olaGJKqZMcowg&pid=News",
-        "timestamp": 1791384000.0
-    },
-    {
-        "id": "daa09dc07e",
-        "title_fa": "افشای پشت پرده واگذاری باشگاه تراکتور به زنوزی توسط سپاه",
-        "title_en": "نادر قاضی‌پور،‌ نماینده پیشین مجلس: سپاه، باشگاه تراکتور را به زنوزی هدیه کرد",
-        "summary": [
-            "نادر قاضی‌پور تایید کرد که سپاه عاشورا به دلیل ناتوانی در مدیریت، باشگاه تراکتور را به محمدرضا زنوزی هدیه داده است.",
-            "این اعتراف ابعاد جدیدی از دخالت نهادهای نظامی در اقتصاد و ورزش و مهندسی پشت‌پرده واگذاری‌های کلان را نمایان می‌کند."
-        ],
-        "impact": "پرده‌برداری از رانت‌ها و واگذاری‌های دستوری نهادهای نظامی در ورزش",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610073921",
-        "clean_url": "https://www.iranintl.com/202610073921",
-        "image": "http://www.bing.com/th?id=ONUT.I-1otkBHWKmbOpgsE0vbdA&pid=News",
-        "timestamp": 1791383820.0
     }
 ]
