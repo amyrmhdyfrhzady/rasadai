@@ -1,5 +1,23 @@
 [
     {
+        "id": "91168295ed",
+        "title_fa": "بازتاب تنش‌های واشنگتن و تـهـران در رسانه‌های عربی",
+        "title_en": "Voices from the Arab Press: US-Iran tensions, AI dangers, and Israel's vote",
+        "summary": [
+            "مطبوعات عربی روی چالش‌های ناشی از تنش‌های فزاینده میان آمـریـکـا و جـمـهـوری اسـلامـی تمرکز کرده‌اند.",
+            "نگرانی از عواقب منطقه‌ای درگیری‌های احتمالی، محور اصلی گزارش‌های این رسانه‌هاست."
+        ],
+        "impact": "افزایش ضریب حساسیت امنیتی در منطقه پیرامون تحرکات مـقـامـات نظامی.",
+        "tag": "تنش",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hX2lzT0Z6RTdWVzRWTUhRYjM2TFRfYS12QlFIYk9YYkkxZDdwUWd2bW5RUWs4cy1vc1dTNHhKelpNQ1Z5ZjhXNWpKRUsySy1HRFgyeFl6a2RqSEJi?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hX2lzT0Z6RTdWVzRWTUhRYjM2TFRfYS12QlFIYk9YYkkxZDdwUWd2bW5RUWs4cy1vc1dTNHhKelpNQ1Z5ZjhXNWpKRUsySy1HRFgyeFl6a2RqSEJi",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791606177.0
+    },
+    {
         "id": "a71c38fd69",
         "title_fa": "اشتراک نظر ترامپ و ت****ان درباره تقویم جنگ",
         "title_en": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war",
@@ -5469,24 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOWEtGMTdfZDlaZXhPS295UUNfVm5mV19yYWlJQmNRUG5TSEFCZUNQcWFNd0syZk9uMTZlaWc3ZmVaZGZHUzRNZDcxRW1aejZzbzhwQUtwb1RJRGk4RjdtSmtoMVJoRzZtc1huUDZrZFJoQ0stdWl1VG5YeVA1VktkWENXSW5XTVkwX1dhdWktaEhaOTh3bklkWlJoNW1yT0ZOUEh2WVpFQ19qYXEzRGhsVHhodW5UQmgwUk01SHZKRDdKMjAwN2xDWmlEQk5ZN2d0Z1lNWUJOTGtqbUN3QUtkdnpfQmh5Q292Vll4TTRwblRHOEs4d3VBaE1ONjNZeVdNQW5hS3MxQ0dJVnZBdTNEU05WZzlwYmVGSlI2VmZPYkJrM1AwOUJFN3REX25NUmVURE1YQ0FaR1RYbnB4R1RiVjlHVEhCVEZIOEx3NmNSajhDeTRZSTd1c0dFVjFiR3VLZnVKT0NPR1d2MzJfdmhEOEw2UlhTcUpjTFN0SA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791352721.0
-    },
-    {
-        "id": "044a0f7792",
-        "title_fa": "جنجال قتل زن ژاپنی و اوج‌گیری خشم عمومی در اوکیناوا",
-        "title_en": "بازداشت تفنگدار آمریکایی به اتهام قتل زن ژاپنی و اوج‌گیری اعتراضات در اوکیناوا",
-        "summary": [
-            "بازداشت یک تفنگدار آمریکایی به اتهام قتل زن ژاپنی موجی از اعتراضات را کلید زد.",
-            "این پرونده تنش‌های کهنه بر سر حضور نظامی ایالات متحده در ژاپن را دوباره زنده کرده است.",
-            "موانع حقوقی توافق‌نامه نظامی دو کشور مشخص می‌کند که روند محاکمه این نظامی چگونه پیش برود."
-        ],
-        "impact": "افزایش فشار سیاسی بر توزیع و حضور پایگاه‌های نظامی آمریکا در خاک ژاپن.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610076577",
-        "clean_url": "https://www.iranintl.com/202610076577",
-        "image": "http://www.bing.com/th?id=ONUT.skeJShqRK2gFRUWMmZ6xew&pid=News",
-        "timestamp": 1791352620.0
     }
 ]
