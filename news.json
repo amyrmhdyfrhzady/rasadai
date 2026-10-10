@@ -146,6 +146,25 @@
         "timestamp": 1791604863.9251761
     },
     {
+        "id": "968c16a642",
+        "title_fa": "آماده‌باش سراسری در لهستان پس از حملات مرگبار به مدارس",
+        "title_en": "Police detain 76 and check 50,000 schools after 2 attacks shake Poland",
+        "summary": [
+            "پلیس لهستان ۷۶ نفر را در پی دو حمله خونین اخیر بازداشت کرد.",
+            "نیروهای امنیتی نزدیک به ۵۰ هزار مدرسه را در سراسر کشور برای جلوگیری از حوادث احتمالی بازرسی کردند.",
+            "این حملات که با سلاح سرد توسط شهروندان لهستانی انجام شد، جامعه این کشور را در شوک فرو برد."
+        ],
+        "impact": "افزایش شدید تدابیر امنیتی و تعطیلی موقت برخی مراکز آموزشی در لهستان",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Bastille Post",
+        "url": "https://www.bastillepost.com/global/article/6240319-police-detain-76-and-check-50000-schools-after-2-attacks-shake-poland",
+        "clean_url": "https://www.bastillepost.com/global/article/6240319-police-detain-76-and-check-50000-schools-after-2-attacks-shake-poland",
+        "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/10/d86cb59df01b5ad7aaf254697e08ffcc_Poland_School_Attack_6_652_FB.jpg",
+        "timestamp": 1791604140.0
+    },
+    {
         "id": "d17638a56f",
         "title_fa": "گزارش موسسه مطالعات جنگ از تحرکات منطقه‌ای ایران",
         "title_en": "Iran Update, October 9, 2026",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://www.iranintl.com/en/202610073820",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791362580.0
-    },
-    {
-        "id": "e972aba633",
-        "title_fa": "درس‌های امنیتی از سه سالگی حمله هفتم اکتبر",
-        "title_en": "3 years of October 7 attack: 'Never take the enemy lightly' — What went wrong for Israel? Expert weighs in",
-        "summary": [
-            "شکست اطلاعاتی و امنیتی اسرائیل در جریان حمله حماس همچنان زیر ذره‌بین کارشناسان قرار دارد.",
-            "غرور بیش از حد و سوءمحمحاسبه سیاسی عامل اصلی آسیب‌پذیری در برابر تهدیدها شناخته شد."
-        ],
-        "impact": "بازنگری جدی در دکترین دفاعی و امنیتی تل‌آویو برای مقابله با تهدیدهای پیرامونی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Mint",
-        "url": "https://www.msn.com/en-in/news/other/3-years-of-october-7-attack-never-take-the-enemy-lightly-what-went-wrong-for-israel-expert-weighs-in/ar-AA2dJdZ5",
-        "clean_url": "https://www.msn.com/en-in/news/other/3-years-of-october-7-attack-never-take-the-enemy-lightly-what-went-wrong-for-israel-expert-weighs-in/ar-AA2dJdZ5",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dJAMQ.img?w=600&h=338&m=4&q=80",
-        "timestamp": 1791362125.0
     }
 ]
