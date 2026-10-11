@@ -331,6 +331,25 @@
         "timestamp": 1791651420.0
     },
     {
+        "id": "5deae2d06f",
+        "title_fa": "حمله پهپادی به ریاض و وعده پاسخ سخت ائتلاف",
+        "title_en": "Arabian coalition accuses Houthis of attacking airport in Riyadh",
+        "summary": [
+            "ائتلاف عربی از حمله موشکی و پهپادی به فرودگاه بین‌المللی ملک خالد در ریاض خبر داد.",
+            "این حمله تروریستی به کشته و زخمی شدن تعدادی از مسافران و خدمه پروازی منجر شد.",
+            "مقام‌های ائتلاف این اقدام را جنایت جنگی خوانده و بر پاسخ قاطع نظامی تأکید کردند."
+        ],
+        "impact": "افزایش تنش‌های نظامی در منطقه و احتمال پاسخ سنگین ائتلاف به مواضع حوثی‌ها.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2200403",
+        "clean_url": "https://tass.com/world/2200403",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261011/1489417.jpg",
+        "timestamp": 1791650580.0
+    },
+    {
         "id": "94402f4638",
         "title_fa": "اعتراف تهران به تسلیم آژانس برابر فشارها",
         "title_en": "Iran nuclear chief accuses IAEA of yielding to US and Israeli Pressure",
@@ -5468,24 +5487,5 @@
         "clean_url": "https://www.iranintl.com/202610072614",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/48e819cc503af3d183d14922ec537101374a344f-1280x720.jpg?w=576&h=324&q=58&fit=max&auto=format",
         "timestamp": 1791411360.0
-    },
-    {
-        "id": "2ecd0142f9",
-        "title_fa": "کشف شبکه عضوگیری ح حزب‌ ا... در تهران و قم",
-        "title_en": "Hezbollah recruitment network in Iran exposed, four safe houses identified",
-        "summary": [
-            "سرویس‌های اطلاعاتی بین‌المللی از فعالیت خانه‌های امن واحد عملیات خارجی ح حزب‌ ا... در ایران پرده برداشتند.",
-            "دانشجویان خارجی جامعة المصطفی هدف اصلی جذب برای آموزش‌های نظامی، سایبری و جاسوسی بوده‌اند.",
-            "این عملیات پنهانی با هماهنگی کامل نیروی قدس سپاه پاسداران انجام می‌گیرد."
-        ],
-        "impact": "اثبات استفاده از نهادهای آموزشی مذهبی برای اهداف شبه‌نظامی و جاسوسی فرامرزی.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610085605",
-        "clean_url": "https://www.iranintl.com/en/202610085605",
-        "image": "http://www.bing.com/th?id=ONUT.Rbm0rSnHJZIo6nNCC6cd4g&pid=News",
-        "timestamp": 1791409980.0
     }
 ]
