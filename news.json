@@ -309,6 +309,24 @@
         "timestamp": 1791708507.0
     },
     {
+        "id": "b8eb6cca33",
+        "title_fa": "فشار نمایندگان کنگره به پنتاگون درباره تلفات غیرنظامیان ایرانی",
+        "title_en": "Democrats Press Pentagon on Iran Civilian Deaths",
+        "summary": [
+            "نامه ۷۴ قانون‌گذار آمریکایی نشان می‌دهد که تلفات غیرنظامیان در عملیات‌ها به محور اصلی تحقیقات تبدیل خواهد شد.",
+            "تغییر موازنه‌ سیاسی در کنگره می‌تواند پیگیری‌های جدی‌تری را درباره عملکرد نظامی ارتش آمریکا به همراه داشته باشد."
+        ],
+        "impact": "افزایش نظارت‌های سیاسی روی تصمیمات نظامی پنتاگون در قبال تحولات خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
+        "clean_url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
+        "image": "http://www.bing.com/th?id=ONUT.pO3MyYE6jiAt5aP81ZH_VA&pid=News",
+        "timestamp": 1791707760.0
+    },
+    {
         "id": "fd1d61faf7",
         "title_fa": "پیامدهای مخرب تنش‌های نظامی با ایران بر بازار جهانی انرژی",
         "title_en": "What the Iran war has done to the world’s energy supply, in charts",
@@ -5469,24 +5487,5 @@
         "clean_url": "https://www.iranintl.com/en/202610085516",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/983ca6aec4e7d1c07a6a211961b7349de5dfc721-800x533.jpg?rect=134,0,533,533&w=200&h=200&q=58&fit=crop&auto=format",
         "timestamp": 1791470880.0
-    },
-    {
-        "id": "828aa732c6",
-        "title_fa": "طرح ضربتی آمریکا و اسرائیل برای بمباران هسته‌ای و انرژی",
-        "title_en": "اکسیوس: حملات احتمالی به جمهوری اسلامی می‌تواند اهداف انرژی و هسته‌ای را در بر بگیرد",
-        "summary": [
-            "منابع آگاه از احتمال حملات هماهنگ واشینگتن و تل‌آویو به زیرساخت‌های حیاتی انرژی و هسته‌ای ج.ا پس از انتخابات آمریکا خبر دادند.",
-            "تیم امنیت ملی دونالد ترامپ در کمپ دیوید گزینه‌های نظامی روی میز را بررسی کرده است.",
-            "بن‌بست کامل در مذاکرات غیرمستقیم تهران و واشینگتن از طریق میانجی‌های قطری ادامه دارد."
-        ],
-        "impact": "افزایش شدید ریسک ژئوپلیتیک و نااطمینانی در بازارهای مالی و انرژی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610089487",
-        "clean_url": "https://www.iranintl.com/202610089487",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/274fe6b231c9aef6df65e51e64b64396e44f00cb-640x427.jpg?rect=0,46,640,336&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791470700.0
     }
 ]
