@@ -1,5 +1,24 @@
 [
     {
+        "id": "8e113e18c6",
+        "title_fa": "بازی دوگانه مسکو با پرونده هسته‌ای و نیابتی‌های ج.ا",
+        "title_en": "EU chief says Iran's proxies are pushing region into 'spiral of violence'",
+        "summary": [
+            "اتحادیه اروپا شبکه نیابتی وابسته به تهران را موتور محرک چرخه خشونت در خاورمیانه می‌داند.",
+            "برخلاف غرب و اسرائیل، مسکو هراسی از اتمی شدن ایران ندارد؛ کابوس اصلی پوتین چرخش احتمالی تهران به سمت غرب است.",
+            "حمایت‌های لفظی پوتین از مسعود پزشکیان پوششی برای حفظ اهداف ژئوپلیتیک روسیه است و مسکو در بزنگاه‌های تنش نظامی هزینه عملی برای تهران پرداخت نمی‌کند."
+        ],
+        "impact": "تثبیت انزوای بین‌المللی تهران و تبدیل شدن کشور به ابزار چانه‌زنی در محاسبات استراتژیک مسکو با غرب.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610118164",
+        "clean_url": "https://www.iranintl.com/en/202610118164",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791709620.0
+    },
+    {
         "id": "b6f6349cd6",
         "title_fa": "آماده‌باش در اسرائیل؛ نتانیاهو گزینه حمله را رد نکرد",
         "title_en": "Maariv: Israel raises readiness level; Netanyahu does not rule out striking Iranian facilities",
@@ -5471,24 +5490,5 @@
         "clean_url": "https://www.forbes.com/sites/williamhartung/2026/10/08/the-full-costs-of-the-iran-war-are-clearer-by-the-day",
         "image": "http://www.bing.com/th?id=ONUT.dXqc29AOt60knzqBqaPM3g&pid=News",
         "timestamp": 1791445380.0
-    },
-    {
-        "id": "57837dbe30",
-        "title_fa": "ادعای تهران: پیش‌نویس توافق با آمریکا و رفع تحریم‌های نفتی",
-        "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
-        "summary": [
-            "مقامات تهران مدعی آماده‌سازی پیش‌نویس توافقی با واشنگتن شامل آزادسازی دارایی‌ها و معافیت‌های نفتی شده‌اند.",
-            "این ادعاها بیشتر با هدف سیگنال‌دهی به بازار آشفته ارز در داخل و مهار تورم مطرح می‌شود.",
-            "واقعیت این است که بدون عقب‌نشینی کامل در پرونده هسته‌ای، واشنگتن امتیاز واقعی به تهران نخواهد داد."
-        ],
-        "impact": "ایجاد نوسان موقت و کاذب در بازار آزاد ارز تهران بدون تغییر واقعی در ساختار تحریم‌ها",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791445116.0
     }
 ]
