@@ -1,5 +1,24 @@
 [
     {
+        "id": "aaf3455fa8",
+        "title_fa": "شلاق زدن کارگران اعتصابی نفت در خوزستان",
+        "title_en": "Iran flogs more than 10 oil workers over labor protests",
+        "summary": [
+            "مقام‌های قضایی حکم ۷۴ ضربه شلاق و جریمه نقدی را برای بیش از ۱۰ کارگر اخراجی شرکت پترو‌پارس در خوزستان اجرا کردند.",
+            "این کارگران پس از اعتراض به اخراج و تمدید نشدن قراردادهای کاری بازداشت و با شکایت کارفرما محکوم شدند.",
+            "سرکوب اعتراضات کارگری با احکام خشن و هم‌زمان استفاده از گروه‌های مسلح غیررسمی برای ارعباب جامعه شدت گرفته است."
+        ],
+        "impact": "سرکوب عریان کارگران معترض نشان‌دهنده ترس حاکمیت از گسترش اعتراضات صنفی به اعتصابات سراسری است.",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610117197",
+        "clean_url": "https://www.iranintl.com/en/202610117197",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/daa445019f612823eb128804d01fff85fcf380ef-1200x800.png?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791749100.0
+    },
+    {
         "id": "cba0bba920",
         "title_fa": "نشست اضطراری اسرائیل برای بررسی پرونده ایران و جبهه‌های پیرامونی",
         "title_en": "Israel To Hold Multi-Front Security Meeting on Iran, Gaza, Lebanon and Syria",
@@ -5466,24 +5485,5 @@
         "clean_url": "https://www.europesays.com/3298583",
         "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791480782_maxresdefault.jpg",
         "timestamp": 1791480720.0
-    },
-    {
-        "id": "c9216426d8",
-        "title_fa": "فشار تحریم‌ها تهران را پای میز مذاکره کشاند",
-        "title_en": "Other voices: Don't let hubris get in the way of ending the Iran war",
-        "summary": [
-            "مسئولان جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با اقدامات تهاجمی تابستان گذشته و حمله به نفتکش‌ها، محاسبات خود را باختند.",
-            "آمریکا با مسدودسازی صادرات نفت و اعمال تحریم‌های سنگین، اقتصاد حکومت را به زانو درآورد.",
-            "صادرات نفت ایران به سطح پیش از درگیری‌ها بازگشته و تیم مذاکره‌کننده تهران به دنبال احیای توافق ژوئن است."
-        ],
-        "impact": "بازگشت ایران به مذاکرات برای آزادسازی دارایی‌ها نشان‌دهنده اثربخشی فشار حداکثری است.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Pioneer Press",
-        "url": "https://www.twincities.com/2026/10/08/other-voices-dont-let-hubris-get-in-the-way-of-ending-the-iran-war/",
-        "clean_url": "https://www.twincities.com/2026/10/08/other-voices-dont-let-hubris-get-in-the-way-of-ending-the-iran-war",
-        "image": "https://www.twincities.com/wp-content/uploads/2026/09/STP-Z-NWEDIT-0930_05.jpg?w=3000&h=2000",
-        "timestamp": 1791480540.0
     }
 ]
