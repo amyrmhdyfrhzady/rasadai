@@ -294,6 +294,25 @@
         "timestamp": 1791703895.0
     },
     {
+        "id": "6739c63084",
+        "title_fa": "زمین‌گیر شدن ۴۱ هواپیمای مسافربری در ایران",
+        "title_en": "Iran grounds 41 MD aircraft over turbine safety requirements, lawmaker says",
+        "summary": [
+            "سازمان هواپیمایی کشوری ۴۱ فروند هواپیمای مک‌دانل داگلاس را به دلیل نقص فنی و فرسودگی پره‌ها و توربین موتور متوقف کرد.",
+            "سازمان اطلاعات سپاه و وزارت اطلاعات پیش‌تر نسبت به خطرات جدی پرواز این ناوگان هشدار داده بودند.",
+            "تحریم‌های آمریکا و بحران ارزی دسترسی ایرلاین‌ها به قطعات یدکی استاندارد را قطع کرده است."
+        ],
+        "impact": "فلج شدن بیشتر بخش هوانوردی و تشدید بحران در صنعت حمل‌ونقل هوایی کشور",
+        "tag": "هوانوردی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610115140",
+        "clean_url": "https://www.iranintl.com/en/202610115140",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791695220.0
+    },
+    {
         "id": "a3d486a793",
         "title_fa": "فشار ترامپ برای تغییر زلنسکی همزمان با تنش سوختی",
         "title_en": "Trump Urges Zelensky Replacement As Diesel Row Rages",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.newarab.com/news/trump-no-iran-attack-midterms-houthi-strikes-saudi",
         "image": "http://www.bing.com/th?id=ONUT.gL1Ixkn5FPqRqqBDqsvE5Q&pid=News",
         "timestamp": 1791460560.0
-    },
-    {
-        "id": "bd7d22e898",
-        "title_fa": "محاکمه متهمان پرونده جاسوسی ج.ا علیه خبرنگاران در لندن",
-        "title_en": "افشای گفت‌وگوهای متهمان پرونده جاسوسی جمهوری اسلامی علیه روزنامه‌نگاران ایران‌اینترنشنال",
-        "summary": [
-            "دادستانی بریتانیا اسناد و پیام‌هایی از متهمان پرونده جاسوسی برای عوامل ریشه دار در ای-ران ارائه داد.",
-            "متهمان متهم به رصد، شناسایی و برنامه‌ریزی برای اعمال خشونت علیه چهره‌های رسانه‌ای در خاک بریتانیا هستند."
-        ],
-        "impact": "تداوم افشای ابعاد عملیات‌های تروریستی و امنیتی عوامل وابسته به حکومت در خاک اروپا.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610084013",
-        "clean_url": "https://www.iranintl.com/202610084013",
-        "image": "http://www.bing.com/th?id=ONUT.AL_TBVai06MhUQ4ASt5Jig&pid=News",
-        "timestamp": 1791458940.0
     }
 ]
