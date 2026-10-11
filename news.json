@@ -1,5 +1,23 @@
 [
     {
+        "id": "31a6ead380",
+        "title_fa": "تهدید موشکی نمایندگان مجلس ج.ا و استفاده از نیروهای لباس‌شخصی",
+        "title_en": "Iran lawmaker threatens attackers with undisclosed missiles",
+        "summary": [
+            "یک عضو مجلس از وجود تسلیحات و موشک‌های رونمایی‌نشده برای استفاده علیه مهاجمان خبر داد.",
+            "مقامات حکومتی مذاکره را فریبکاری دشمن می‌دانند و همزمان از گروه‌های مسلح غیررسمی برای سرکوب اعتراضات بهره می‌برند."
+        ],
+        "impact": "افزایش تنش‌های نظامی و تداوم استفاده از قوای شبه‌نظامی داخلی برای مهار مخالفان.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610119941",
+        "clean_url": "https://www.iranintl.com/en/202610119941",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791753540.0
+    },
+    {
         "id": "aaf3455fa8",
         "title_fa": "شلاق زدن کارگران اعتصابی نفت در خوزستان",
         "title_en": "Iran flogs more than 10 oil workers over labor protests",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclhuVGZWRFh0S1FFQlVzcV92QWoxdEt3NUJGeF93SXFNLUJjSjZGeGlnbVRMUE0wTENPQnZqMFVxWFg5b0JQODdFZXgzMnFzMjV4VjRvSWVOallzcmp3c2YtdG5sbkFjMDIyVFVFUUstZDlJWS12UW0xVi1aeExtRkhNS3MxU040S3hZ0gGLAUFVX3lxTE1uRmFQbWxINnVoRE9TWkxCVk8tUWJ6RDZES3VsZWpZMHphbGhyeTU4WlFFQ0NRQmJoM29BTFp3ZUM4c0ZHaWdCMk9CdWRHdzFscjVmZ2h1ZTdpMjQ1Q3VaaElPSEt0SWppZ2dIOWJRRVhSdDZ0Nkp6UUc1SXNzSi1iNXU4Wl9xRW5GZUE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791482542.0
-    },
-    {
-        "id": "6d217c2d4b",
-        "title_fa": "اصابت موشک آمریکایی در نزدیکی مدرسه دخترانه در ایران",
-        "title_en": "US missile seen hitting building near Iranian girls' school, experts say",
-        "summary": [
-            "کارشناسان نظامی تایید کردند که تصاویر منتشر شده نشان‌دهنده اصابت یک موشک آمریکایی به ساختمانی در نزدیکی یک مدرسه دخترانه است.",
-            "این رویداد نگرانی‌های جدی درباره تلفات غیرنظامیان و خطاهای تسلیحاتی در درگیری‌های اخیر ایجاد کرده است."
-        ],
-        "impact": "افزایش ریسک تلفات غیرنظامی و تشدید فشارهای رسانه‌ای روی اقدامات نظامی آمریکا.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ABC7 Los Angeles",
-        "url": "https://news.google.com/rss/articles/CBMi8glBVV95cUxOb1M4alJYU1FRR0FZVW9VbkJ5S0RXR1M4eEp3WkNTam5TM2dXMkJWVGstekpGRXJRSVRUQ3RKV1NtbXo4a29PU3A4SGNFOFQtREotXzdlUHozWjJvb0NIQmw2U0x2cUVHd0MtSGdheTNnRHFKaGhWaWp3MnBOOUpzUHNWZkVQb2ptMGJfWmZFNjFxZVNOUTMyREZORGZHcTlSV1F2NnQxM2xsakp1ckxlVG5TLXhQM2I1dml6UHo4N0E3SGY0WlM4TVlJRXlsVllLXzNaTU1NeWNScFhxY18zR3RsUDV1elZVV2pNT21MVzNjckY3Q2VRaHpCYVNnRk52eDI2Q3E4UklCR1RPdmtUcXV5aUZSUC1zeUdZSXcwVDE4dVk1cU03WGp2VG4yd2FsMlZxbkpRZ2dtWnRQTGtucFlWSVNoZnBUTmZsX0JUMEw3SXNyNnJxZWg1SkhrQ3RCS3liWXZ5eW5PeFVtRUtFZ1V4MnJyRG1xZ29MLVhWNmpTUUg3b3Fxemt3czRjTDlsYXdiVF9vNkh0SkV2MWlCYklfbTBBMVhVX0FOMFV2ZVI1dE00VzJLWDFPSkJDc3l1V3ctb0Q3Zm82VDVWS3hzY3lMNVBrRXljaWZsaFJFMmRSS0ViTWVGRTBGdWVOTTZuQVJjbnRQdlk0QlFXaldjRnBMT2sxOFVqaTItNGZRZXpYVVd2QTREaUNMUUR2N01nNFpxZVFOeTdTM3hpWEIxaG9SVWFETWxMdGRoQjRlN2ZfWnVPc3ZCS0FjdG1QbzZ5cm9JbXVValNKWkg2VzFvZlp5MWlqcnkwUHRmeWZTeVFCemdreUdqSktwS216T01LZDc4X1RoUUNoSExMemNxTGxFT3V1WHJrUmZDdm91dVl4S0V2X3VIMEtKWkRDeEgyTDlNN2xnaHpFTVg3aWRIeVVkVm1YbWlQLXlSR1dxclQ3OFlOczFjRU5oVFF5dEF5V2Fxai1sbzZ2aDBTcE9WSjNVTzBnazhGY2ExTVdUcnVDS1d2NEhlbTNiLW5aNzVGeUttVF9IVGdWWFNTYm1SN2M5dEN5T0NURTgwR1JFSkZyODk4Q2JsNGRVclR0YWRpcm9yWFpfUXNOcktUb0RxUWVpUENGdXBJMDFEd1hzeENoSTM4U00zVjVOOXdSTW9sRW1wTXVULS1fWjd4bjVIMFlTSnpQSElWbVRVSEVRUGJsSk1kTXNrakFkOFR3czRoYzZpT01zMi0yWFN5NVFUT1psVmtfZjdnZWFTVF9xMzhXekZ2NW1SUmtCbkN3a3R4ZmdjS04wdm5FY0tueXMwLWQ4Z2Y4UkFqM3A2OTRFVU4yRXpKckNOc0JaLTdTQXJSQUFZN0RnQS1SYWFIcVRXc2hHUjZrNm5DcXU1WGxzT1RBQy12eVdZQ0tScTh1SC1wdHAwM05qOFIyQVctQWhHMm0wWG1kZ1E0UlpDZWZXeXdkSmpuYTltZzloTUplRDFCZGRENHdWSDNyNWNVX3lMT2pkZHFyS2gzak82RHNyWFZfNkxKZFZsNWE3cVh0cDlqcWphMEdQYS1oMVlNYkxvYW8zamU4Wi1KQk9IQ29fRVRRaUx3UUhKcGJqV1l3VkNvSGZvQnZYajRfbU9iLTgzQ1huejFkMGFCQ3NHZk1qMy1tUVV5cW5OeFFWcTc2cEwtYVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi8glBVV95cUxOb1M4alJYU1FRR0FZVW9VbkJ5S0RXR1M4eEp3WkNTam5TM2dXMkJWVGstekpGRXJRSVRUQ3RKV1NtbXo4a29PU3A4SGNFOFQtREotXzdlUHozWjJvb0NIQmw2U0x2cUVHd0MtSGdheTNnRHFKaGhWaWp3MnBOOUpzUHNWZkVQb2ptMGJfWmZFNjFxZVNOUTMyREZORGZHcTlSV1F2NnQxM2xsakp1ckxlVG5TLXhQM2I1dml6UHo4N0E3SGY0WlM4TVlJRXlsVllLXzNaTU1NeWNScFhxY18zR3RsUDV1elZVV2pNT21MVzNjckY3Q2VRaHpCYVNnRk52eDI2Q3E4UklCR1RPdmtUcXV5aUZSUC1zeUdZSXcwVDE4dVk1cU03WGp2VG4yd2FsMlZxbkpRZ2dtWnRQTGtucFlWSVNoZnBUTmZsX0JUMEw3SXNyNnJxZWg1SkhrQ3RCS3liWXZ5eW5PeFVtRUtFZ1V4MnJyRG1xZ29MLVhWNmpTUUg3b3Fxemt3czRjTDlsYXdiVF9vNkh0SkV2MWlCYklfbTBBMVhVX0FOMFV2ZVI1dE00VzJLWDFPSkJDc3l1V3ctb0Q3Zm82VDVWS3hzY3lMNVBrRXljaWZsaFJFMmRSS0ViTWVGRTBGdWVOTTZuQVJjbnRQdlk0QlFXaldjRnBMT2sxOFVqaTItNGZRZXpYVVd2QTREaUNMUUR2N01nNFpxZVFOeTdTM3hpWEIxaG9SVWFETWxMdGRoQjRlN2ZfWnVPc3ZCS0FjdG1QbzZ5cm9JbXVValNKWkg2VzFvZlp5MWlqcnkwUHRmeWZTeVFCemdreUdqSktwS216T01LZDc4X1RoUUNoSExMemNxTGxFT3V1WHJrUmZDdm91dVl4S0V2X3VIMEtKWkRDeEgyTDlNN2xnaHpFTVg3aWRIeVVkVm1YbWlQLXlSR1dxclQ3OFlOczFjRU5oVFF5dEF5V2Fxai1sbzZ2aDBTcE9WSjNVTzBnazhGY2ExTVdUcnVDS1d2NEhlbTNiLW5aNzVGeUttVF9IVGdWWFNTYm1SN2M5dEN5T0NURTgwR1JFSkZyODk4Q2JsNGRVclR0YWRpcm9yWFpfUXNOcktUb0RxUWVpUENGdXBJMDFEd1hzeENoSTM4U00zVjVOOXdSTW9sRW1wTXVULS1fWjd4bjVIMFlTSnpQSElWbVRVSEVRUGJsSk1kTXNrakFkOFR3czRoYzZpT01zMi0yWFN5NVFUT1psVmtfZjdnZWFTVF9xMzhXekZ2NW1SUmtCbkN3a3R4ZmdjS04wdm5FY0tueXMwLWQ4Z2Y4UkFqM3A2OTRFVU4yRXpKckNOc0JaLTdTQXJSQUFZN0RnQS1SYWFIcVRXc2hHUjZrNm5DcXU1WGxzT1RBQy12eVdZQ0tScTh1SC1wdHAwM05qOFIyQVctQWhHMm0wWG1kZ1E0UlpDZWZXeXdkSmpuYTltZzloTUplRDFCZGRENHdWSDNyNWNVX3lMT2pkZHFyS2gzak82RHNyWFZfNkxKZFZsNWE3cVh0cDlqcWphMEdQYS1oMVlNYkxvYW8zamU4Wi1KQk9IQ29fRVRRaUx3UUhKcGJqV1l3VkNvSGZvQnZYajRfbU9iLTgzQ1huejFkMGFCQ3NHZk1qMy1tUVV5cW5OeFFWcTc2cEwtYVE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791482239.0
     }
 ]
