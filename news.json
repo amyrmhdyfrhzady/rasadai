@@ -715,6 +715,44 @@
         "timestamp": 1791649699.0
     },
     {
+        "id": "2e1b24562d",
+        "title_fa": "هشدار امنیتی آمریکا در عربستان پس از حملات پهپادی",
+        "title_en": "US updates Saudi travel advisory, keeps it at Level 3",
+        "summary": [
+            "ایالات متحده سطح هشدار مسافرتی خود به عربستان را روی رتبه ۳ یعنی تجدیدنظر در سفر نگه داشت.",
+            "حملات موشکی و پهپادی حوثی‌های وابسته به جـمـهـورۍ اسـلامـۍ به فرودگاه‌های سعودی تلفات سنگینی برجای گذاشت.",
+            "ائتلاف نظامی تحت رهبری عربستان این اقدام را جنایت جنگی خواند و وعده پاسخ قاطع داد."
+        ],
+        "impact": "افزایش تنش‌های امنیتی در منطقه و بالا رفتن ریسک سرمایه‌گذاری و تردد در کشورهای حوزه خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610114123",
+        "clean_url": "https://www.iranintl.com/en/202610114123",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791649380.0
+    },
+    {
+        "id": "72ee42b4a8",
+        "title_fa": "اذعان نماینده مجلس به فشار اقتصادی بر سفره مردم",
+        "title_en": "Iran lawmaker says people must feel 'resistance economy' in household budgets",
+        "summary": [
+            "یک مقام پارلمانی اعتراف کرد که سیاست‌های اقتصادی حکومت باید به‌طور ملموس در زندگی روزمره مردم حس شود.",
+            "کارشناسان معتقدند مسکو اولویت متفاوتی نسبت به تهران دارد و ترجیح می‌دهد ایران متمایل به غرب نشود.",
+            "پوتین در دیدار با پزشکیان بر حمایت ظاهری تأکید کرد، اما سابقه نشان داده روسیه در بحران‌های واقعی شریک قابل اعتمادی نیست."
+        ],
+        "impact": "تشدید بحران معیشتی داخلی و نمایان‌تر شدن شکاف میان شعارهای کلان حاکمیت و واقعیت اقتصاد خانوار.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610117861",
+        "clean_url": "https://www.iranintl.com/en/202610117861",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791649260.0
+    },
+    {
         "id": "37e686d02c",
         "title_fa": "حملات پهپادی و توپخانه‌ای شدید در دونباس",
         "title_en": "Ukraine attacks DPR 23 times in last 24 hours",
@@ -5452,41 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR05OOThGQUxLNjhQYlpCRm9hZllRbjhWMlF0ZUR6TkZKMlpuOEQ2UERNZy1vZlNBc0k1R0FHMXplZmgwdzl2cGpGUGFBbF9KVVd0V2dSTnJHTWM3MUNHRWNzVmhWN1JaOXhGbUZzM2pLaWtMbDNLOWVWQjNxbjZDa1QzX2JPenBpTTYxWEttdHZzdVY5RVRjNER0M1Q2TkZBZ09WeG5UeW5ZNWRzRkFFNk5BOExRRURoMTc1Z3dqSkNRbFZfVktTQ1NtTVZ0NWx4cy1INA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791438546.0
-    },
-    {
-        "id": "8cf7d43199",
-        "title_fa": "تشدید سرکوب م خالفان ج م ه و ر ی ا س ل ا م ی در داخل و خارج",
-        "title_en": "Iran expands crackdown on protesters at home and abroad",
-        "summary": [
-            "ماشین سرکوب حکومت در سایه تنش‌های نظامی، اعدام‌ها و بازداشت‌های جمعی را به شدت افزایش داده است.",
-            "نهادهای امنیتی با تهدید خانواده‌ها و محدود کردن ایرانیان در کشورهای همسایه، فضای ارعبار را گسترش داده‌اند."
-        ],
-        "impact": "حکومت برای بقای خود روی ایجاد ترس حداکثری و سرکوب همه‌جانبه حساب باز کرده است.",
-        "tag": "سرکوب",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610080184",
-        "clean_url": "https://www.iranintl.com/en/202610080184",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791435540.0
-    },
-    {
-        "id": "d5be189715",
-        "title_fa": "آزمایش موشک اتمی فرانسه و دوگانگی استاندارد غرب",
-        "title_en": "Nuclear Secret Macron Unwittingly Revealed",
-        "summary": [
-            "فرانسه با آزمایش یک موشک جدید توانمند برای حمل کلاهک اتمی، بار دیگر استانداردهای دوگانه غرب در حوزه فناوری هسته‌ای را به نمایش گذاشت.",
-            "امانوئل مکرون پس از این آزمایش اعلام کرد که داشتن بازدارندگی اتمی برای حفظ امنیت و قدرت کشور یک ضرورت غیرقابل انکار است."
-        ],
-        "impact": "این اقدام نشان می‌دهد که غرب رویکرد انحصارطلبانه‌ای نسبت به فناوری‌های پیشرفته دارد و قدرت نظامی را برای بقای خود الزامی می‌داند.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Nournews",
-        "url": "https://nournews.ir/en/news/350876/nuclear-secret-macron-unwittingly-revealed",
-        "clean_url": "https://nournews.ir/en/news/350876/nuclear-secret-macron-unwittingly-revealed",
-        "image": "https://static2.nournews.ir/thumbnail/M2M1ZjIGZrVP/b3aIG_X7SZB5siOHJYypBHBYuzfaIv17IheV4VxebrsaKJqqiA2-Qt8qqyogULCYQoBUB2Uh43bN0yTr0PIFNWuyO2GHmOYg227bUN6xEqAvGYVRnxPUWYCJs_gxpESyTjt1v0A0NGNQoBVjW7-x2Ym0h7zahQcuPjQZX0_Thl9vzhsWrbCDJWJNRpPKDk0E/M2M1ZjIGZrVP.jpg",
-        "timestamp": 1791434700.0
     }
 ]
