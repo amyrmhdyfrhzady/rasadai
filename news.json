@@ -220,6 +220,25 @@
         "timestamp": 1791666499.0
     },
     {
+        "id": "b001402664",
+        "title_fa": "جهش ۵ برابری هزینه‌های حمل بار از ترکیه به ایران",
+        "title_en": "Freight costs from Turkey to Iran surge fivefold in two months",
+        "summary": [
+            "هزینه حمل کالا از بنادر ترکیه به داخل کشور طی دو ماه از ۱۵۰۰ دلار به حدود ۸۰۰۰ دلار جهش کرده است.",
+            "فشار واشنگتن بر آنکارا برای مسدود کردن مسیرهای زمینی تجارت با جـ.ـهـ.ـوری اسـ.ـلامـ.ـی عامل اصلی این افزایش قیمت است.",
+            "انسداد بنادر ایران توسط آمریکا باعث شده تا بار سنگینی روی دوش مرزهای زمینی و شبکه حمل‌ونقل فرسوده بیفتد."
+        ],
+        "impact": "افزایش سرسام‌آور هزینه‌های حمل‌ونقل زمینی به طور مستقیم قیمت تمام‌شده کالاهای اساسی و وارداتی را در بازار داخل بالا می‌برد.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610114328",
+        "clean_url": "https://www.iranintl.com/en/202610114328",
+        "image": "http://www.bing.com/th?id=ONUT.9wqMjy_C2V5E4DaT3pQM7w&pid=News",
+        "timestamp": 1791662400.0
+    },
+    {
         "id": "82418c8f4d",
         "title_fa": "ادامه شمارش معکوس برای نابودی ایـسرائیل در تهران",
         "title_en": "New footage shows Iran’s ‘destruction of Israel’ clock still ticking down",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.orissapost.com/moment-of-opportunity",
         "image": "https://www.orissapost.com/wp-content/uploads/2026/10/Abdullah-Gul.png",
         "timestamp": 1791424020.0
-    },
-    {
-        "id": "09eced0fa8",
-        "title_fa": "ادعای حوثی‌ها درباره حمله موشکی به فرودگاه ریاض",
-        "title_en": "Ansarallah Says Missile Strike Disrupted Riyadh Airport, Issues Warning to Airlines",
-        "summary": [
-            "گروه حوثی مدعی انجام حمله موشکی به فرودگاه ریاض شد و به شرکت‌های هواپیمایی درباره پرواز بر فراز آسمان عربستان هشدار داد.",
-            "این ادعا همزمان با تشدید تنش‌های منطقه‌ای و حملات به مراکز نظامی مطرح شده است."
-        ],
-        "impact": "افزایش ریسک امنیت پروازها و تشدید تنش‌های نظامی در شبه‌جزیره عربستان",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Palestine Chronicle",
-        "url": "https://www.palestinechronicle.com/ansarallah-says-missile-strike-disrupted-riyadh-airport-issues-warning-to-airlines/",
-        "clean_url": "https://www.palestinechronicle.com/ansarallah-says-missile-strike-disrupted-riyadh-airport-issues-warning-to-airlines",
-        "image": "https://www.palestinechronicle.com/wp-content/uploads/2026/10/Airport_SaudiArabia_Ansarallah_video_TG.png",
-        "timestamp": 1791422400.0
     }
 ]
