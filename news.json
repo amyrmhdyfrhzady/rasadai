@@ -1,5 +1,23 @@
 [
     {
+        "id": "766b9513a1",
+        "title_fa": "فشار اقتصادی آمریکا روی بقای سیاسی حاکمیت",
+        "title_en": "US economic campaign targets Iran's political survival, experts say",
+        "summary": [
+            "استراتژی اقتصادی واشنگتن فراتر از مهار فعالیت‌های منطقه‌ای، مستقیماً ثبات سیاسی و پایداری ساختار جـ.ـهـ.ـوری اسـ.ـلـ.ـا‌مـ.ـی را نشانه رفته است.",
+            "کارشناسان تاکید می‌کنند این سیاست فشار، توان مالی بدنه قدرت را برای مدیریت بحران‌های داخلی به شدت تضعیف کرده است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی، ظرفیت حاکمیت برای ادامه هزینه‌کردهای خارجی را به شدت کاهش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10NjZHZXJNdlc3d2JudGw0OGhVWHVfMHZibWc2V2F5VV9wX3RUUG9jVXBuakNqeVpCclduY1ZvYmljQS1uNW1nQzlYeUd1S194Z2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10NjZHZXJNdlc3d2JudGw0OGhVWHVfMHZibWc2V2F5VV9wX3RUUG9jVXBuakNqeVpCclduY1ZvYmljQS1uNW1nQzlYeUd1S194Z2c",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791713356.0
+    },
+    {
         "id": "8e113e18c6",
         "title_fa": "بازی دوگانه مسکو با پرونده هسته‌ای و نیابتی‌های ج.ا",
         "title_en": "EU chief says Iran's proxies are pushing region into 'spiral of violence'",
@@ -5471,25 +5489,5 @@
         "clean_url": "https://www.theguardian.com/us-news",
         "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
         "timestamp": 1791448500.0
-    },
-    {
-        "id": "44e016fdb3",
-        "title_fa": "طرح گام‌به‌گام واشنگتن و تل‌آویو برای مهار نیروهای نیابتی ایران",
-        "title_en": "Hezbollah, Hamas & Houthis Cannot Be Disarmed With a Single Deal: U.S. & Israel Need New Mechanism: OPED",
-        "summary": [
-            "خلع سلاح یک‌باره گروه‌هایی مانند حـ.زب‌الله، حماس و حوثی‌ها از طریق یک توافق جامع و یک‌جا عملی نیست.",
-            "بی‌اعتمادی عمیق ساختاری میان آمریکا، اسرائیل و ج.ا. امکان دستیابی به یک توافق کلان را کاملاً منتفی کرده است.",
-            "تنها راهکار واقع‌بینانه، پیشبرد توافق‌های کوچک، مرحله‌ای، متقابل و کاملاً قابل راستی‌آزمایی است.",
-            "فشار نظامی بدون نقشه راه سیاسی گام‌به‌گام، صرفاً ریسک سردرگمی استراتژیک و تطویل جنگ را افزایش می‌دهد."
-        ],
-        "impact": "تغییر ریل بازیگران غربی از معامله بزرگ به فشارهای تاکتیکی مرحله‌ای و معامله‌های محدود علیه شبکه نیابتی.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "EurAsian Times",
-        "url": "https://www.eurasiantimes.com/hezbollah-hamas-houthis-cannot-be-disarmed-with-a-single-deal-u-s-israel-need-new-mechanism-oped/",
-        "clean_url": "https://www.eurasiantimes.com/hezbollah-hamas-houthis-cannot-be-disarmed-with-a-single-deal-u-s-israel-need-new-mechanism-oped",
-        "image": "https://www.eurasiantimes.com/wp-content/uploads/2026/09/Houthis.jpg",
-        "timestamp": 1791445620.0
     }
 ]
