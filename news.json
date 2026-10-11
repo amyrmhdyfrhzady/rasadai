@@ -659,6 +659,25 @@
         "timestamp": 1791688070.0
     },
     {
+        "id": "4f416e94b5",
+        "title_fa": "تعویق اقدام نظامی آمریکا علیه ایران تا انتخابات میان‌دوره‌ای",
+        "title_en": "Bessent says no US military action against Iran before midterms",
+        "summary": [
+            "اسکات بسنت وزیر خزانه‌داری آمریکا اعلام کرد دونالد ترامپ تا پیش از انتخابات میان‌دوره‌ای برنامه‌ای برای حمله نظامی به ایران ندارد و تمرکز واشنگتن فعلاً بر فلج کامل اقتصادی است.",
+            "خزانه‌داری آمریکا مدعی شد سقوط ریال، قطع صادرات نفت و لغو پروازهای بین‌المللی، جریان نقدینگی حاکمیت را منفی کرده و تهران را در پرداخت حقوق نیروهای مسلح با چالش جدی روبه‌رو ساخته است.",
+            "بسنت مسدود شدن حساب‌های خارجی و ممنوعیت تردد مقامات ارشد به اروپا را نشانه کارآمدی محاصره اقتصادی دانست."
+        ],
+        "impact": "تداوم و تشدید خفگی اقتصادی بدون ریسک درگیری مستقیم نظامی در کوتاه‌مدت.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610117188",
+        "clean_url": "https://www.iranintl.com/en/202610117188",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/1921c98ebd1ca2cb25d9d270d924878a1004c75b-8416x5610.jpg?rect=0,596,8416,4418&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791682860.0
+    },
+    {
         "id": "a0a28b1065",
         "title_fa": "ترامپ: جلوی بمب اتم ج*** رو گرفتیم",
         "title_en": "Trump: We stopped Iran from obtaining nukes, 18 men did not die in vain",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.iranintl.com/202610089487",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/274fe6b231c9aef6df65e51e64b64396e44f00cb-640x427.jpg?rect=0,46,640,336&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791470700.0
-    },
-    {
-        "id": "3b1a649d4e",
-        "title_fa": "ترامپ و آغاز عصر طلایی تکنولوژی با غول‌های سیلیکون‌ولی",
-        "title_en": "Trump awards Musk and other tech titans National Medals of Science",
-        "summary": [
-            "ترامپ با اعطای مدال ملی علوم به ایلان ماسک و مدیران ارشد انویدیا و گوگل، بر اتحاد دولت و بخش خصوصی تاکید کرد.",
-            "هدف این نشست، تثبیت برتری تکنولوژیک آمریکا در رقابت با چین است."
-        ],
-        "impact": "شتاب‌گیری پروژه‌های استراتژیک و نظامی-تکنولوژیک آمریکا با حمایت مستقیم دولت.",
-        "tag": "تکنولوژی",
-        "urgency": 5,
-        "sentiment": 0.8,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/tech/tech-news/trump-awards-musk-tech-titans-national-medals-science-rcna602104",
-        "clean_url": "https://www.nbcnews.com/tech/tech-news/trump-awards-musk-tech-titans-national-medals-science-rcna602104",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-musk-trump-vsb-1649-35ce09.jpg",
-        "timestamp": 1791470580.0
     }
 ]
