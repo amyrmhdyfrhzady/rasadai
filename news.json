@@ -1,5 +1,23 @@
 [
     {
+        "id": "43ddb8ca70",
+        "title_fa": "تحولات زنده درگیری‌ها در خاورمیانه",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "خبرگزاری جروزالم پست پوشش لحظه‌به‌لحظه تنش‌های میان اسرائیل، ایران و منطقه را ادامه می‌دهد.",
+            "گزارش‌های جاری روی وضعیت امنیتی و تحرکات نظامی متمرکز است."
+        ],
+        "impact": "حفظ التهاب روانی و اطلاع‌رسانی مستمر از آخرین وضعیت تحولات امنیتی.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tODJKbmZrTTdFZjhwcFp5LU9BeFZyOVl3UjRCakNKM3NsY0IyWDdYb0p4UVpSQnhVS1hHdUQwZzBEWEdNWkdfbDlPZHo1ZE9iLVIxZEpWQWR4VGJ2NG5scS1wWjhCY3NDZG5pcXZOMk9pVWd5VWdXUmFxWE9sV1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tODJKbmZrTTdFZjhwcFp5LU9BeFZyOVl3UjRCakNKM3NsY0IyWDdYb0p4UVpSQnhVS1hHdUQwZzBEWEdNWkdfbDlPZHo1ZE9iLVIxZEpWQWR4VGJ2NG5scS1wWjhCY3NDZG5pcXZOMk9pVWd5VWdXUmFxWE9sV1U",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791726678.0
+    },
+    {
         "id": "4e41550c9b",
         "title_fa": "جاماندن سیستم خرید نظامی اسرائیل از رقابت پهپادی",
         "title_en": "The drone arms race is outpacing Israel's procurement system",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://www.iranintl.com/202610083308",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/7139dddee51f19fd7c16558a3abb7c68f2868312-1280x888.jpg?rect=356,16,924,738&w=576&h=460&q=58&fit=max&auto=format",
         "timestamp": 1791466440.0
-    },
-    {
-        "id": "0e7b1f4116",
-        "title_fa": "فشار خفه کننده تحریم ها بر اقتصاد ج.ا",
-        "title_en": "America’s blockade is breaking Iran’s economy, but not yet its regime",
-        "summary": [
-            "محاصره اقتصادی آمریکا ساختار مالی کشور را به شدت تحت فشار گذاشته است.",
-            "با وجود بحران عمیق اقتصادی، سیستم حکمرانی همچنان پابرجا مانده است."
-        ],
-        "impact": "فشار حداکثری اقتصاد را زمینگیر کرده اما تغییر سیاسی نیازمند اراده عمومی است.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Economist",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzdiaHIzWTNlQV9ublZRc2xORGVYajY5cnRSS2NWRWtiN1RTUFozYkZESFdrRFU0VG5LSjRHRVViZGptUEF3UDhwT2lXWlU5Mm1wSUN5UHZIaUdtMUpBdHBJSndmdGphZEhlU19rZXhGWU5mYnBsaFRuX09mbHg0b0lodU54QUpMbGlvQ2tGSGFOa0R1aU5SamthTGFVWFY3ejRLdldydF9iaUZ3SG1SZ2pFV3cxOW4wU2wxWG5Sb1FXS0xq?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzdiaHIzWTNlQV9ublZRc2xORGVYajY5cnRSS2NWRWtiN1RTUFozYkZESFdrRFU0VG5LSjRHRVViZGptUEF3UDhwT2lXWlU5Mm1wSUN5UHZIaUdtMUpBdHBJSndmdGphZEhlU19rZXhGWU5mYnBsaFRuX09mbHg0b0lodU54QUpMbGlvQ2tGSGFOa0R1aU5SamthTGFVWFY3ejRLdldydF9iaUZ3SG1SZ2pFV3cxOW4wU2wxWG5Sb1FXS0xq",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791464511.0
     }
 ]
