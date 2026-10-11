@@ -330,6 +330,24 @@
         "timestamp": 1791656390.0
     },
     {
+        "id": "1d35640237",
+        "title_fa": "تهدید ترامپ به دخالت نظامی مستقیم علیه یاران تهران",
+        "title_en": "US-Iran war news: Trump says 'How nice I’ve been to them', hints at Iran escalation before midterms; weighs Houthi strikes: 7 key updates",
+        "summary": [
+            "دونالد ترامپ با اشاره به رویکرد گذشته خود در قبال تهران، احتمال همراهی با ریاض برای بمباران مواضع حوثی‌ها را بررسی می‌کند.",
+            "این موضع‌گیری تند همزمان با افزایش تنش‌ها در منطقه خاورمیانه و در آستانه تحولات سیاسی داخلی آمریکا مطرح شده است."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی مستقیم و تشدید فشارها بر شبکه نیابتی ج.ا در منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ET Now on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-says-how-nice-i-ve-been-to-them-hints-at-iran-escalation-before-midterms-weighs-houthi-strikes-7-key-updates/ar-AA2dZesc",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-says-how-nice-i-ve-been-to-them-hints-at-iran-escalation-before-midterms-weighs-houthi-strikes-7-key-updates/ar-AA2dZesc",
+        "image": "http://www.bing.com/th?id=ONUT.BOJEhQtX3Zt8rtSOWiH9eg&pid=News",
+        "timestamp": 1791656211.0
+    },
+    {
         "id": "ecbbe54f79",
         "title_fa": "صفر شدن درآمدهای نفتی جـمـهـورۍ اسـلا‌مـی تا دسامبر",
         "title_en": "IRGC says supertanker hit mine, threatens others in Hormuz",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://www.palestinechronicle.com/ansarallah-says-missile-strike-disrupted-riyadh-airport-issues-warning-to-airlines",
         "image": "https://www.palestinechronicle.com/wp-content/uploads/2026/10/Airport_SaudiArabia_Ansarallah_video_TG.png",
         "timestamp": 1791422400.0
-    },
-    {
-        "id": "368be46227",
-        "title_fa": "تغییر نام کنسولگری بریتانیا در اورشلیم پس از توافق با اسرائیل",
-        "title_en": "میلیبند: ساختمان کنسولگری در اورشلیم با نام نمایندگی بریتانیا به کار خود ادامه می‌دهد",
-        "summary": [
-            "بریتانیا پس از مذاکره با تل‌آویو، به‌جای تعطیلی کامل دفتر خود، نام آن را به «نمایندگی بریتانیا در اورشلیم» تغییر داد.",
-            "این اقدام یک سازش دیپلماتیک برای حفظ حضور لندن در اورشلیم و جلوگیری از تنش بیشتر با دولت اسرائیل محسوب می‌شود."
-        ],
-        "impact": "حفظ خطوط ارتباطی دیپلماتیک بریتانیا در اورشلیم تحت عنوانی جدید بدون قطع روابط کنسولی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610085978",
-        "clean_url": "https://www.iranintl.com/202610085978",
-        "image": "http://www.bing.com/th?id=ONUT.HyKLFNR3i1SvDp-62rPqAw&pid=News",
-        "timestamp": 1791418080.0
     }
 ]
