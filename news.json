@@ -257,6 +257,25 @@
         "timestamp": 1791666499.0
     },
     {
+        "id": "3e521e9d31",
+        "title_fa": "توقف کامل صادرات نفت ایران و شوک ۶ میلیارد دلاری",
+        "title_en": "UKMTO reports tanker incident involving military forces off Iran",
+        "summary": [
+            "داده‌های موسسه کپلر تایید می‌کند صادرات نفت و میعانات گازی در ماه سپتامبر برای نخستین‌بار پس از سال ۵۷ به صفر رسیده است.",
+            "تنها ۸ میلیون بشکه نفت روی آب در مسیر چین باقی مانده و تهران با قطع درآمد ماهانه بین ۳ تا ۶ میلیارد دلار روبه‌روست.",
+            "آذرماه زمان تسویه آخرین محموله‌ها توسط پالایشگاه‌های چینی خواهد بود؛ پس از آن منابع ورودی دلار به طور کامل مسدود می‌شود."
+        ],
+        "impact": "توقف درآمدهای نفتی زمینه‌ساز جهش مهارناپذیر نرخ ارز و بحران شدید تامین بودجه جاری دولت خواهد شد.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610115492",
+        "clean_url": "https://www.iranintl.com/en/202610115492",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791666180.0
+    },
+    {
         "id": "b001402664",
         "title_fa": "جهش ۵ برابری هزینه‌های حمل بار از ترکیه به ایران",
         "title_en": "Freight costs from Turkey to Iran surge fivefold in two months",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://www.iranintl.com/en/202610084883",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791429120.0
-    },
-    {
-        "id": "cfdd18fd58",
-        "title_fa": "هزینه سنگین جنگ روی دوش مردم آمریکا",
-        "title_en": "Trump's warning about Obama starting a war with Iran resurfaces as the Pentagon pegs his own war at $43.6B — $1,760 per household",
-        "summary": [
-            "هزینه میلیاردی درگیری‌ها با فشار مستقیم بر اقتصاد خانواده‌ها جبران می‌شود",
-            "گرانی انرژی و افزایش نرخ بهره، سهم هر خانه آمریکایی از تنش‌ها را بالا برده است"
-        ],
-        "impact": "فشار اقتصادی روی شهروندان آمریکایی هزینه سیاست‌های مداخله‌جویانه را عیان کرده است",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Moneywise on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trumps-warning-about-obama-starting-a-war-with-iran-resurfaces-as-the-pentagon-pegs-his-own-war-at-436b-1760-per-household/ar-AA2dOOV1",
-        "clean_url": "https://www.msn.com/en-us/news/other/trumps-warning-about-obama-starting-a-war-with-iran-resurfaces-as-the-pentagon-pegs-his-own-war-at-436b-1760-per-household/ar-AA2dOOV1",
-        "image": "http://www.bing.com/th?id=ONUT.4M_RaF92a238A_gXMKaCeA&pid=News",
-        "timestamp": 1791428400.0
     }
 ]
