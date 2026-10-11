@@ -901,6 +901,24 @@
         "timestamp": 1791649699.0
     },
     {
+        "id": "22855f1968",
+        "title_fa": "یورش شهرک‌نشینان به کشاورزان فلسطینی در کرانه باختری",
+        "title_en": "Reports: Settler attacks during olive harvest in several areas of West Bank",
+        "summary": [
+            "کشاورزان فلسطینی در جریان برداشت زیتون در کرانه باختری هدف حمله قرار گرفتند.",
+            "هلال احمر فلسطین از زخمی شدن دست‌کم ۹ کشاورز در روستایی نزدیک رام‌الله خبر داد."
+        ],
+        "impact": "تشدید درگیری‌ها در کرانه باختری همزمان با فصل برداشت زیتون.",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/reports-settler-attacks-during-olive-harvest-in-several-areas-of-west-bank/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/reports-settler-attacks-during-olive-harvest-in-several-areas-of-west-bank",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/Screenshot-2026-10-10-at-12.00.46-PM-640x400.png",
+        "timestamp": 1791649680.0
+    },
+    {
         "id": "2e1b24562d",
         "title_fa": "هشدار امنیتی آمریکا در عربستان پس از حملات پهپادی",
         "title_en": "US updates Saudi travel advisory, keeps it at Level 3",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.eurasiantimes.com/hezbollah-hamas-houthis-cannot-be-disarmed-with-a-single-deal-u-s-israel-need-new-mechanism-oped",
         "image": "https://www.eurasiantimes.com/wp-content/uploads/2026/09/Houthis.jpg",
         "timestamp": 1791445620.0
-    },
-    {
-        "id": "93d17076ed",
-        "title_fa": "توضیح ترامپ درباره اظهارات جنجالی درباره ایــران",
-        "title_en": "Trump reframes his comments that Iran could ‘take out’ LA, San Diego",
-        "summary": [
-            "دونالد ترامپ سخنان قبلی خود درباره توانایی ایــران برای ضربه زدن به شهرهای لس‌آنجلس و سن‌دیگو را بازتعریف کرد.",
-            "این موضع‌گیری در راستای تشدید جنگ روانی واشنگتن علیه سیاست‌های منطقه‌ای و نظامی تـهـران مطرح شده است."
-        ],
-        "impact": "افزایش فشار رسانه‌ای و سیاسی بر مقامات جـمـهـوری اسـلامـی در عرصه بین‌المللی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/videos/news/state/california/2026/10/08/trump-clarifies-comments-that-iran-could-take-out-la-san-diego/92151708007/",
-        "clean_url": "https://www.usatoday.com/videos/news/state/california/2026/10/08/trump-clarifies-comments-that-iran-could-take-out-la-san-diego/92151708007",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791445500.0
     }
 ]
