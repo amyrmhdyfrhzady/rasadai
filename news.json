@@ -1,5 +1,24 @@
 [
     {
+        "id": "895ff285e4",
+        "title_fa": "تهدید خلیج فارس توسط محسن رضایی و شرط‌گذاری برای تنگه هرمز",
+        "title_en": "Iran says US response on reopening Hormuz 'insufficient'",
+        "summary": [
+            "دبیر شورای عالی امنیت ملی حکومت، پاسخ واشنگتن به شرط‌های تهران برای باز کردن تنگه هرمز را ناکافی خوانд.",
+            "رضایی تهدید کرد که در صورت شروع درگیری، زیرساخت‌های حیاتی مثل کابل‌های ارتباطی و مراکز داده آمریکا هدف قرار می‌گیرند.",
+            "تصاویر تجمع اخیر با قمه و شمشیر در اصفهان، بار دیگر استفاده حکومت از گروه‌های لباس‌شخصی برای سرکوب را نشان داد."
+        ],
+        "impact": "افزایش تنش‌های نظامی در آب‌های جنوبی و بالاتر رفتن ریسک امنیت انرژی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610111620",
+        "clean_url": "https://www.iranintl.com/en/202610111620",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/bfc9ade4dddcd8ac75c05c958e03160564a5144a-853x1280.jpg?rect=0,416,853,448&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791738660.0
+    },
+    {
         "id": "2a3bc4024e",
         "title_fa": "حضور افراد قمه‌کش در تجمع حکومتی برای ارعاب مردم",
         "title_en": "Machete-wielding men at IRGC-backed rally revive scrutiny of crackdowns",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55RWZzTHRqbHg0VjFEdVBDMTl6UUdhT3J3UjZlRWFGckVyUmxLM3FOQXNsZDFUOG1oakVSWjZBY0ZBNDJJZkY1RDJJYXpZU0ZmNHlrYTExaEVyLVk3X01KUWxoY3BhZUdOOWVRMWhwUFllazRLWDQ0MENSWQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791475314.0
-    },
-    {
-        "id": "f4623f845d",
-        "title_fa": "ترور فرمانده نیروی دریایی ج.ا توسط اسرائیل",
-        "title_en": "Israel assassinated Iran's navy chief, fearing he would be a dangerous IRGC head",
-        "summary": [
-            "اسرائیل فرمانده نیروی دریایی ج.ا را به دلیل ترس از انتصاب او به عنوان فرمانده کل س‌پ‌اه هدف قرار داد.",
-            "این اقدام نشان‌دهنده ضربه سنگین اطلاعاتی به ساختار فرماندهی ارشد نظامی است."
-        ],
-        "impact": "آشفتگی در زنجیره فرماندهی نظامی و ایجاد ترس شدید در میان مقامات ارشد",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcThYRXlQYkVmSjhWdFg0SEtPQ09sQkVlY204cEg2MElLTUVjM1hoZlJjZ3MyQnZtTEtCb3cxZzkxakMxR1RnMXl3MEp3bExWTXA0XzJBSlItclVsYWZpUWhpeDRYN3FQcUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcThYRXlQYkVmSjhWdFg0SEtPQ09sQkVlY204cEg2MElLTUVjM1hoZlJjZ3MyQnZtTEtCb3cxZzkxakMxR1RnMXl3MEp3bExWTXA0XzJBSlItclVsYWZpUWhpeDRYN3FQcUE",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791473638.0
     }
 ]
