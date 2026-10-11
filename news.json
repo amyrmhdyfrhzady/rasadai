@@ -622,6 +622,25 @@
         "timestamp": 1791632220.0
     },
     {
+        "id": "07e60abddc",
+        "title_fa": "صفر شدن صادرات نفت ایران؛ بحران مالی بی‌سابقه در راه است",
+        "title_en": "US military releases video of strike on ship breaching Iran blockade",
+        "summary": [
+            "داده‌های کپلر تایید می‌کند که بارگیری نفت خام و میعانات گازی در ماه سپتامبر برای نخستین بار پس از سال ۱۳۵۷ کاملاً متوقف شده است.",
+            "با تخلیه آخرین محموله‌ها در چین تا اواسط آذرماه، ورودی درآمد نفتی تهران به صفر نزدیک می‌شود که به معنای کسری ماهانه ۳ تا ۶ میلیارد دلار است.",
+            "فشار محاصره دریایی و کنترل دقیق ناوگان حمل‌ونقل عملاً شریان اصلی تامین ارز ج‌.ا را قطع کرده است."
+        ],
+        "impact": "توقف کامل تزریق دلارهای نفتی به اقتصاد از دی‌ماه، جهش بی‌سابقه نرخ ارز و بن‌بست مالی شدید ایجاد می‌کند.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610116174",
+        "clean_url": "https://www.iranintl.com/en/202610116174",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791631860.0
+    },
+    {
         "id": "8196f6c034",
         "title_fa": "استقرار بیش از ۵۰ یگان رزمی ارتش در مرزها",
         "title_en": "More than 50 Iranian army units deployed along borders, commander says",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.iranintl.com/en/202610072067",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/3c90e0aa4ee4edc241384c3ec7f06d827c579be5-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791413280.0
-    },
-    {
-        "id": "5253cddcaa",
-        "title_fa": "چرخش از دیپلماسی رسمی تا حمایت از گروه‌های مسلح",
-        "title_en": "از احترام سادات به شاه تا نامگذاری خیابانی به نام قاتلش؛ سیاست ایران چگونه تغییر کرد؟",
-        "summary": [
-            "مقایسه دو تصویر تاریخی از حضور انور سادات در مراسم خاکسپاری شاه سابق و نامگذاری خیابانی در تهران به نام قاتل او",
-            "تغییر بنیادین رویکرد منطقه‌ای از تعامل با دولت‌های عربی به تکیه بر شبکه گروه‌های نیابتی و مسلح پس از انقلاب ۵۷"
-        ],
-        "impact": "تثبیت انزوای منطقه‌ای حکومت از طریق ترجیح دادن گروه‌های مسلح به دیپلماسی دولتی",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610072614",
-        "clean_url": "https://www.iranintl.com/202610072614",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/48e819cc503af3d183d14922ec537101374a344f-1280x720.jpg?w=576&h=324&q=58&fit=max&auto=format",
-        "timestamp": 1791411360.0
     }
 ]
