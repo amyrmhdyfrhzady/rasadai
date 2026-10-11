@@ -570,6 +570,24 @@
         "timestamp": 1791666180.0
     },
     {
+        "id": "95c4f99467",
+        "title_fa": "تعطیلی موقت فرودگاه ریاض پس از حمله پهپادی یا موشکی",
+        "title_en": "Riyadh airport temporarily shut after serious attack earlier today",
+        "summary": [
+            "سازمان هواپیمایی کشوری عربستان تأیید کرد که فرودگاه ریاض هدف حمله قرار گرفته است.",
+            "این حمله منجر به زخمی شدن چند نفر و تعلیق موقت پروازهای این فرودگاه شد."
+        ],
+        "impact": "افزایش تنش‌های امنیتی در منطقه و بالا رفتن ریسک زیرساخت‌های حیاتی در عربستان.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/riyadh-airport-temporarily-shut-after-serious-attack-earlier-today/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/riyadh-airport-temporarily-shut-after-serious-attack-earlier-today",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791663000.0
+    },
+    {
         "id": "b001402664",
         "title_fa": "جهش ۵ برابری هزینه‌های حمل بار از ترکیه به ایران",
         "title_en": "Freight costs from Turkey to Iran surge fivefold in two months",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mdTdWNWZRVndTYWdkaHZDVXFuWENmYjkzY1Ztc21qMHJmVktSc3NnTy11VTZYWUppaG54dEljam5PdVhoYjJnSGN2SXRUejRVb2IwaEpjQkIweHM0eGdiM291VXN3WFFvVnEzQTB3Y3hxdw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791452025.0
-    },
-    {
-        "id": "a0981db1b9",
-        "title_fa": "کشته و زخمی شدن ۱۲ نظامی در درگیری‌های سیستان و بلوچستان",
-        "title_en": "More than 12 Iranian security personnel killed or wounded in four attacks",
-        "summary": [
-            "چهار حمله مسلحانه طی ۲۴ ساعت در مناطق مختلف جنوب شرق کشور تلفات سنگینی به نیروهای نظامی و انتظامی وارد کرد.",
-            "گروه‌های حقوق بشری و منابع رسمی اخبار مربوط به این درگیری‌ها و جان‌باختن شماری از پرسنل نظامی را تایید کردند."
-        ],
-        "impact": "افزایش ناآرامی‌ها و بالا رفتن هزینه امنیتی در مناطق مرزی جنوب شرق برای حاکمیت.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610086952",
-        "clean_url": "https://www.iranintl.com/en/202610086952",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791451440.0
     }
 ]
