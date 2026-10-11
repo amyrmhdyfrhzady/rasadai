@@ -641,6 +641,24 @@
         "timestamp": 1791693900.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "تمرکز دوباره رسانه‌های بین‌المللی بر جنجال‌ها و سیاست‌های ترامپ",
+        "title_en": "US latest news",
+        "summary": [
+            "رسانه‌های غربی هم‌زمان با تحولات داخلی آمریکا، پوشش ویژه و موشکافانه تصمیمات و حواشی دونالد ترامپ را آغاز کرده‌اند.",
+            "تمرکز ویژه محافل خبری بر مواضع آتی ترامپ، نشان از تاثیرگذاری مستقیم تحرکات او بر معادلات سیاسی واشنگتن دارد."
+        ],
+        "impact": "افزایش حساسیت رسانه‌ای نسبت به هرگونه تصمیم و جهت‌گیری جدید ترامپ در عرصه سیاست خارجی و داخلی.",
+        "tag": "بین‌الملل",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1791691200.0
+    },
+    {
         "id": "e9df6b2bf3",
         "title_fa": "صفر شدن درآمدهای نفتی تـکـر‌ابی در راه است",
         "title_en": "Reining in Iran only way to stop Houthi attacks, US envoy to Israel says",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcThYRXlQYkVmSjhWdFg0SEtPQ09sQkVlY204cEg2MElLTUVjM1hoZlJjZ3MyQnZtTEtCb3cxZzkxakMxR1RnMXl3MEp3bExWTXA0XzJBSlItclVsYWZpUWhpeDRYN3FQcUE",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791473638.0
-    },
-    {
-        "id": "f3a5f8d2e1",
-        "title_fa": "بازی دوگانه واشینگتن؛ سردرگمی در تهران با سیگنال‌های متناقض",
-        "title_en": "شایان سمیعی: ترامپ با پیام‌های متناقض جمهوری اسلامی را سردرگم می‌کند",
-        "summary": [
-            "پیام‌های متناقض ترامپ درباره گزینه نظامی، ابزاری برای مدیریت بازار نفت و سردرگم کردن بدنه تصمیم‌گیر در تهران است.",
-            "هرچند آمریکا و اسرائیل محتاطانه گام برمی‌دارند، اما در صورت خطای محاسباتی نیروهای نیابتی، پاسخ سنگینی در انتظار حکومت خواهد بود."
-        ],
-        "impact": "ایجاد جنگ روانی سنگین علیه ساختار قدرت در ایران و کنترل هزینه‌های امنیتی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610081546",
-        "clean_url": "https://www.iranintl.com/202610081546",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791472800.0
     }
 ]
