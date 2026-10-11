@@ -896,6 +896,25 @@
         "timestamp": 1791635050.0
     },
     {
+        "id": "072d2ca4cc",
+        "title_fa": "توافق مسکو و واشنگتن برای از سرگیری صادرات گازوئیل روسیه",
+        "title_en": "Russian government partially lifts diesel export ban following Putin-Trump agreements",
+        "summary": [
+            "دولت روسیه بخشی از ممنوعیت صادرات گازوئیل را پس از تماس تلفنی پوتین و ترامپ لغو کرد.",
+            "در مرحله اول پانصد هزار تن گازوئیل روسیه روانه بازارهای جهانی خواهد شد.",
+            "شرکت‌های نفتی روسیه فوراً قراردادهای صادراتی جدید را با هماهنگی دولت کلید می‌زنند."
+        ],
+        "impact": "تخلیه بخشی از فشار عرضه سوخت در بازار جهانی با چراغ سبز کاخ سفید و کرملین.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2200347",
+        "clean_url": "https://tass.com/economy/2200347",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261010/1489397.jpg",
+        "timestamp": 1791634440.0
+    },
+    {
         "id": "6b02a24737",
         "title_fa": "خطر موشک‌های حوثی برای پروازهای تجاری در دریای سرخ",
         "title_en": "Yemen warns UN of Iran-backed Houthi weapons threat to civilian flights over Red Sea",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZms4UmpZb0x5Z095OEQzclppS3JwaUVEOUxENTJIRmRFWnJ1N2hMUWw4cDNwRnIwNVMya29xVjU3MlFlRVhjamxDaTBhbkY5X0hzTEVzY0YydXVHX3RtS0paOUh6SXhRVHAwYlRodGF1aTRqSjl3aFQ2eGRQZElCU0FjTzd4ZWU1NDJWSUlJY0g0aDJZYTc5T2JzclB3VmVXX2E1RkY1bklvNVBYWDVqV0Rn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791430442.0
-    },
-    {
-        "id": "26a7be0b1e",
-        "title_fa": "چرخش در استراتژی واشنگتن در قبال تـــــــــهـــــــــران",
-        "title_en": "Trump Pulling Back From Iran? Why Military, Oil, Political Pressures Could Be Making The US Rethink",
-        "summary": [
-            "فشار حداکثری نظامی و تحریمی کاخ سفید به بن‌بست رسیده و اثرگذاری اولیه را از دست داده است.",
-            "مقام‌های آمریکایی در حال بازنگری در سیاست‌های خود در برابر جمهوری اسلامی هستند."
-        ],
-        "impact": "احتمال تغییر تاکتیک‌های واشنگتن از فشار نظامی محض به سمت گزینه‌های دیگر.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "News18",
-        "url": "https://www.msn.com/en-in/news/other/trump-pulling-back-from-iran-why-military-oil-political-pressures-could-be-making-the-us-rethink/ar-AA2dMl55",
-        "clean_url": "https://www.msn.com/en-in/news/other/trump-pulling-back-from-iran-why-military-oil-political-pressures-could-be-making-the-us-rethink/ar-AA2dMl55",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/09/US-President-Donald-Trump-2026-09-917f58a537ac8552a1cca9ba9c42382a-1200x675.jpg",
-        "timestamp": 1791430440.0
     }
 ]
