@@ -109,6 +109,24 @@
         "timestamp": 1791792325.0
     },
     {
+        "id": "75c52349a7",
+        "title_fa": "فشار سناتورهای آمریکایی بر تـــــر‌امـــــپ برای لغو توافق سوخت با روسیه",
+        "title_en": "US Republicans, Democrats Want Trump to Reverse Course on Russia Diesel",
+        "summary": [
+            "قانون‌گذاران هر دو حزب جمهوری‌خواه و دموکرات از تـــــر‌امـــــپ خواستند معامله دیزل با مسکو را فوراً متوقف کند.",
+            "این توافق آشکارا با تحریم‌ها و قوانین منع واردات انرژی از روسیه در تناقض است."
+        ],
+        "impact": "تشدید فشارهای سیاسی در واشنگتن برای مسدود کردن منافذ تنفس اقتصادی مسکو.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Asharq Alawsat (English)",
+        "url": "https://www.msn.com/en-ae/news/other/us-republicans-democrats-want-trump-to-reverse-course-on-russia-diesel/ar-AA2e2ZRH",
+        "clean_url": "https://www.msn.com/en-ae/news/other/us-republicans-democrats-want-trump-to-reverse-course-on-russia-diesel/ar-AA2e2ZRH",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791792169.0
+    },
+    {
         "id": "2e20de426f",
         "title_fa": "احتمال تعویق حمله اسرائیل به ایران تا بعد از انتخابات",
         "title_en": "Israel not expected to attack Iran before elections, opposition leader says",
@@ -5467,24 +5485,6 @@
         "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261009KRONOS-202610121476410469_eng",
         "clean_url": "https://jen.jiji.com/jc/eng_agt",
         "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1791504000.0
-    },
-    {
-        "id": "e368ddba4b",
-        "title_fa": "ادعای سپاه درباره هدفگیری شبانه کشتی‌ها در تنگه هرمز",
-        "title_en": "Iran war live: IRGC says it targets 'violating' ships nightly in Hormuz",
-        "summary": [
-            "رسانه‌های وابسته به سـپـاه از انفجارهای مهیب در جنوب تنگه هرمز خبر دادند.",
-            "فرماندهان نظامی مدعی شدند هر شب شناورهای متخلف را در این آبراه راهبردی هدف قرار می‌دهند."
-        ],
-        "impact": "افزایش شدید ریسک کشتیرانی تجاری و اخلال در ترانزیت انرژی منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abb7c1f-1790671903.jpg?resize=1920%2C1440",
         "timestamp": 1791504000.0
     }
 ]
