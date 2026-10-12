@@ -290,6 +290,25 @@
         "timestamp": 1791768973.0
     },
     {
+        "id": "d442970bbc",
+        "title_fa": "هشدار اضطراری آمریکا درباره خطوط هوایی عربستان پس از حملات موشکی",
+        "title_en": "Saudi Arabia closes airport after 12 killed in missile attack as Trump and Tehran downplay midterms",
+        "summary": [
+            "سازمان هوانوردی فدرال آمریکا به دلیل افزایش درگیری‌ها و اختلال در سیستم‌های ناوبری، به ایرلاین‌ها درباره پرواز بر فراز عربستان هشدار داد.",
+            "حملات موشکی به ریاض و تعطیلی فرودگاه‌های کلیدی، خطرات امنیتی جنگ نیابتی را به سطح هشدار قرمز رسانده است.",
+            "تهدیدات پهپادی و موشקי تمامی ارتفاعات پروازی، از جمله نشست و برخاست هواپیماها را هدف گرفته‌اند."
+        ],
+        "impact": "فلج شدن موقت عملیات فرودگاهی در ریاض و افزایش ریسک امنیتی برای ناوگان هوایی تجاری در منطقه.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-saudi-arabia-houthis-trump-october-11",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-saudi-arabia-houthis-trump-october-11",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/f73cd55f0bd85e27b74ff0a0818711c2.jpg",
+        "timestamp": 1791768600.0
+    },
+    {
         "id": "aa85e12007",
         "title_fa": "پیشنهاد میانجیگری تـهران در بحران یمن همزمان با حملات نیابتی",
         "title_en": "Iran offers mediation in Saudi-Yemen conflict after Houthi strike leaves 13 dead",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjBTSnpxZHl2NnRDRzBST3lPUFJQVm1LeHllMlBCQ0ZLLVhsU0NSbXZlYnc5TFFSdmJEM0hwd0NWRElBQWNNajNJM2YzYWw1cWlQOVlwVzFlbG11NkRmZnlUYzRkSzU4LThFU0dLcy1uZlRPdzdsekZyWlFic0l0bEg1V2N2TWVXXzhCV3lqWlJYQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791504900.0
-    },
-    {
-        "id": "5c203e7726",
-        "title_fa": "انفجارهای مهیب در تنگه هرمز",
-        "title_en": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
-        "summary": [
-            "رسانه‌های داخلی از وقوع انفجارهای سنگین در آب‌های تنگه هرمز خبر دادند.",
-            "این منطقه حیاتی انرژی به دلیل تحولات نظامی اخیر در حالت آماده‌باش کامل قرار گرفته است."
-        ],
-        "impact": "افزایش آنی ریسک امنیتی در یکی از حساس‌ترین گذرگاه‌های انرژی جهان.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1ZDbTBzS2w5TzZUNTQ2TFhqTnFRd1VoRUZDYnhTWE9VSmZkTDlaMkZXc0xLX18ycl94ZnJnanJ3SnJueXpWOUpIRVZFbklFb0lCdUNDSFY3Rk9rNTJTSE1UYzhYYVNSZDNpeHBUb1Q5QS1OR05NWWdJOXlKcGhTWlRsN2hmTHluRkVYM25VSHNSQzZtSThPWmk4U2ZFOEJzNEtmUEtmcXlPQjRaWktUM295a1RmUWtPOFBXbzB30gHDAUFVX3lxTE85QjZwYndUd1RiczR0WFg2akJ5aVdIdS1sbUMyYUxGTjFyUG1idjhsRmlhb0VNWlIteDROYm1VTkF3MXZPYzZ1cEE1RDFXc3NzWW1DTnliQWVVQWlCUF9BNHFMWHBROUZxdVhNYTdIZkNtbWFROFNtZlFnUy1hdHp4eDQyUmlkVWZ1aVJBbVBIalRWeHM2VHh2bzJKdm9iNjdsdldFa2tvZzBTTHZXYm1ORmhZdUw2WVhxSk9hWEVpSFdHaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1ZDbTBzS2w5TzZUNTQ2TFhqTnFRd1VoRUZDYnhTWE9VSmZkTDlaMkZXc0xLX18ycl94ZnJnanJ3SnJueXpWOUpIRVZFbklFb0lCdUNDSFY3Rk9rNTJTSE1UYzhYYVNSZDNpeHBUb1Q5QS1OR05NWWdJOXlKcGhTWlRsN2hmTHluRkVYM25VSHNSQzZtSThPWmk4U2ZFOEJzNEtmUEtmcXlPQjRaWktUM295a1RmUWtPOFBXbzB30gHDAUFVX3lxTE85QjZwYndUd1RiczR0WFg2akJ5aVdIdS1sbUMyYUxGTjFyUG1idjhsRmlhb0VNWlIteDROYm1VTkF3MXZPYzZ1cEE1RDFXc3NzWW1DTnliQWVVQWlCUF9BNHFMWHBROUZxdVhNYTdIZkNtbWFROFNtZlFnUy1hdHp4eDQyUmlkVWZ1aVJBbVBIalRWeHM2VHh2bzJKdm9iNjdsdldFa2tvZzBTTHZXYm1ORmhZdUw2WVhxSk9hWEVpSFdHaw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791504056.0
     }
 ]
