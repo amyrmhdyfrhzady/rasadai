@@ -1,5 +1,23 @@
 [
     {
+        "id": "ecfca2f750",
+        "title_fa": "تحریم دو ایرانی از سوی لندن به اتهام توطئه پهپادی",
+        "title_en": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+        "summary": [
+            "دولت بریتانیا رسماً تایید کرد که جمهوری اسلامی پشت طرح حمله به یک پایگاه هوایی در این کشور بوده است.",
+            "لندن در واکنش به این اقدام، دو تبعه ایرانی را در لیست تحریم‌های خود قرار داد تا فشارها بر دستگاه امنیتی حاکمیت بیشتر شود."
+        ],
+        "impact": "افزایش انزوای دیپلماتیک و تشدید فشارهای امنیتی اروپا علیه تهران.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJakdISWFVNVNLczVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRG1HQUhkZXVQNnlVX2lncldfd2lGQWd6UEdNcWtFRmR4SVZPNW9kSHY0LXhyMWJGTXZjbWRseGZqY0I5eEEtRjJ2YTktcE94M1ZEWkpqbFpzNmMtMnRETlF1a256SkVlSXBrZF9IR1hIcy1Xd3RkaDJSSGpiMHl3akdCbDdObDFQTjBpUjRmOXM2SGtPTWNrSTdUdy1UbzZQUkVvYnlBcVDSAa4BQVVfeXFMTTRHWjZ3aUotTExWNThqTk1tM24zWndPbVRLS3dRLVlrRHNyTkQ4ODZXRHlpYWszbVdSRWp5U0tmZnZDd18tT1RJR01JLXJvUE4yczJrajFnSkNPbVBab3FPNjg5a21FeW5MLTVsbU9FOE5KZTNKSXNjb01SM3p3QWdDMzhaTXZnTkE0M183eW5YQmt0V0F2YnlOLVFJeHpkWENJakdISWFVNVNLczVR",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791831310.0
+    },
+    {
         "id": "4ae9dd4e2e",
         "title_fa": "حملات پهپادی جدید به فرودگاه‌های عربستان سعودی",
         "title_en": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://www.iranintl.com/202610097183",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791528120.0
-    },
-    {
-        "id": "3aaf6b9804",
-        "title_fa": "کاهش قیمت نفت با سیگنال ترامپ درباره ایران",
-        "title_en": "Oil falls as Trump comments on Iran talks ease supply concerns",
-        "summary": [
-            "دونالد ترامپ اعلام کرد پیش از انتخابات ماه آینده آمریکا هیچ اقدام نظامی علیه ایـران انجام نمی‌شود.",
-            "مذاکرات پشت پرده باعث کاهش نگرانی بازار از اختلال در عرضه نفت منطقه شد."
-        ],
-        "impact": "افت موقت قیمت نفت در بازارهای جهانی به دلیل فروکش کردن تنش‌های نظامی.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09/",
-        "clean_url": "https://www.reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09",
-        "image": "http://www.bing.com/th?id=ONUT.CHnGnr9TfwTPvgYyd_C_Fg&pid=News",
-        "timestamp": 1791526920.0
     }
 ]
