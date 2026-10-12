@@ -235,6 +235,26 @@
         "timestamp": 1791798780.0
     },
     {
+        "id": "b444e4da74",
+        "title_fa": "آمادگی تـ‌ر‌امـ‌پ برای ورود مستقیم به جنگ یمن",
+        "title_en": "Iran War Updates: Deadly Houthi attacks keep Saudi airport closed as Trump considers U.S. strikes in Yemen",
+        "summary": [
+            "حملات مرگبار شبه‌نظامیان یمنی به فرودگاه عربستان و کشته شدن دست‌کم ۲۰ نفر، قیمت نفت برنت را به بالای ۱۰۵ دلار رساند.",
+            "تـ‌ر‌امـ‌پ از احتمال مشارکت ارتش آمریکا در عملیات ائتلاف سعودی علیه یمن خبر داد.",
+            "نیروهای دریایی آمریکا یک کشتی تجاری را به دلیل نادیده گرفتن محاصره دریایی از کار انداختند.",
+            "سپاه پاسداران ادعا کرد سه نفتکش بزرگ را در تنگه هرمز هدف قرار داده است."
+        ],
+        "impact": "جهش قیمت نفت به بالای ۱۰۵ دلار و افزایش ریسک درگیری نظامی مستقیم آمریکا در منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi",
+        "image": "http://www.bing.com/th?id=ONUT.vpy28KmRjZtF8GGmBColuw&pid=News",
+        "timestamp": 1791798240.0
+    },
+    {
         "id": "aec858769e",
         "title_fa": "احتمال تاثیر جنگ با ایران بر سیاست‌های اقلیمی ترامپ",
         "title_en": "How the Iran war could make Trump an accidental climate president",
@@ -5467,23 +5487,5 @@
         "clean_url": "https://www.iranintl.com/202610098801",
         "image": "http://www.bing.com/th?id=ONUT.nocwbamWs4F0JAkqOCMn6w&pid=News",
         "timestamp": 1791522720.0
-    },
-    {
-        "id": "8f802076f5",
-        "title_fa": "دستگاه پروپاگاندا رسوا شد؛ استفاده مسکو و تهران از هوش مصنوعی برای انتشار اخبار جعلی",
-        "title_en": "Irán y Rusia usaron ChatGPT para propaganda con 'falsos periodistas', según OpenAI",
-        "summary": [
-            "شرکت OpenAI حساب‌های کاربری وابسته به جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی و روسیه را که از چت‌جی‌پتی برای عملیات روانی استفاده می‌کردند، مسدود کرد.",
-            "شبکه‌های سایبری این دولت‌ها با استفاده از هوش مصنوعی و هویت خبرنگاران جعلی به دنبال جهت‌دهی به افکار عمومی بودند."
-        ],
-        "impact": "افشای ابعاد جدید جنگ روانی و سایبری جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی و روسیه در شبکه‌های اجتماعی.",
-        "tag": "سایبری",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/es-mx/noticias/otras/ir%C3%A1n-y-rusia-usaron-chatgpt-para-propaganda-con-falsos-periodistas-seg%C3%BAn-openai/ar-AA2dT0w4",
-        "clean_url": "https://www.msn.com/es-mx/noticias/otras/ir%C3%A1n-y-rusia-usaron-chatgpt-para-propaganda-con-falsos-periodistas-seg%C3%BAn-openai/ar-AA2dT0w4",
-        "image": "http://www.bing.com/th?id=ONUT.bRAVqMloO7MrmZFyg0P2lA&pid=News",
-        "timestamp": 1791521744.0
     }
 ]
