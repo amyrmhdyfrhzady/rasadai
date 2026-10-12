@@ -271,6 +271,25 @@
         "timestamp": 1791789972.0
     },
     {
+        "id": "d89a922b5f",
+        "title_fa": "جابجایی پنهانی ولیعهد سعودی میان پناهگاه‌های امنیتی",
+        "title_en": "Saudi crown prince moves between bunker-equipped palaces amid Houthi attacks — media",
+        "summary": [
+            "محمد بن سلمان پس از حملات پهپادی و موشکی حوثی‌ها به کاخ‌های مجهز به پناهگاه‌های زیرزمینی منتقل شده است.",
+            "ریاض برای مقابله با تهدیدات هوایی دست به دامان پاکستان شده و به دنبال خرید سامانه‌های پدافندی جدید از سراسر جهان است.",
+            "تلاش هم‌زمان عربستان برای جذب نیروهای مزدور خارجی نشان‌دهنده شدت چالش‌های امنیتی این کشور در مرزهای یمن است."
+        ],
+        "impact": "افزایش آسیب‌پذیری امنیتی ریاض و تلاش اضطراری برای تقویت پدافند هوایی در برابر حملات نیابتی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2200969",
+        "clean_url": "https://tass.com/world/2200969",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1791788640.0
+    },
+    {
         "id": "317d74019a",
         "title_fa": "کاهش ذخایر موشکی عربستان و پیشنهاد میانجی‌گری تهران در یمن",
         "title_en": "Saudi Arabia Running Low on Interceptor Missiles; Iran Offers To Mediate Houthi Conflict",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://www.iranintl.com/202610090569",
         "image": "http://www.bing.com/th?id=ONUT.VOCnuJ2EWmmHsmMbLLV7hw&pid=News",
         "timestamp": 1791513360.0
-    },
-    {
-        "id": "7400bbc7f3",
-        "title_fa": "اعتراف مقام ارشد مـجـلس به کلافگی مردم از گرانی‌ها",
-        "title_en": "نایب رییس مجلس: ایجاد یاس و تیره و تار نشان دادن وضعیت کشور گناهی نابخشودنی است",
-        "summary": [
-            "حمیدرضا حاجی‌بابایی از وضعیت نابسامان اقتصادی و بحران معیشتی سخن گفت اما منتقدان وضعیت موجود را به پمپاژ ناامیدی متهم کرد.",
-            "او اعتراف کرد که جامعه تورم ناشی از تنش‌ها را هضم می‌کند اما بی‌تدبیری و سوءمدیریت مسئولان را برنمی‌تابد."
-        ],
-        "impact": "تلاش حاکمیت برای مهار انتقادات مردمی همزمان با تشدید بحران قیمت‌ها.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610091792",
-        "clean_url": "https://www.iranintl.com/202610091792",
-        "image": "http://www.bing.com/th?id=ONUT.OzF0ppzkrEXe-uiynIJHjw&pid=News",
-        "timestamp": 1791512520.0
     }
 ]
