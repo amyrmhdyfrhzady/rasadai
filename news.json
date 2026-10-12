@@ -418,6 +418,25 @@
         "timestamp": 1791798240.0
     },
     {
+        "id": "108c045446",
+        "title_fa": "تهدید ج-مهوری اسلامی به حمله سایبری علیه دیتاسنترهای آمریکا",
+        "title_en": "The 27 EU countries give the go-ahead for a mission in Lebanon. Iran threatens to strike US data centres in the Gulf",
+        "summary": [
+            "تهدیدهای جدید تهران علیه زیرساخت‌های دیجیتال آمریکا در خلیج فارس، نشان‌دهنده تغییر فاز از درگیری‌های نیابتی به سمت جنگ سایبری است.",
+            "تداوم حملات موشکی حوثی‌ها به عربستان، منطقه را در آستانه یک تنش نظامی فراگیر قرار داده است.",
+            "اتحادیه اروپا با چراغ سبز به ماموریت در لبنان، به دنبال مهار نفوذ نیروهای نیابتی در مدیترانه است."
+        ],
+        "impact": "افزایش ریسک درگیری مستقیم نظامی و حملات سایبری به زیرساخت‌های حیاتی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "en.ilsole24ore",
+        "url": "https://en.ilsole24ore.com/art/war-latest-news-houthi-attack-on-riyadh-airport-12-dead-and-hundreds-injured-AJ81D8gB",
+        "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-houthi-attack-on-riyadh-airport-12-dead-and-hundreds-injured-AJ81D8gB",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/13/Immagini/Ritagli/2026-10-11T224410Z_1659588386_RC241OAGCJLV_RTRMADP_5_IRAN-CRISIS-SAUDI-AIRPORT-U65164685166lHE-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
+        "timestamp": 1791795960.0
+    },
+    {
         "id": "aec858769e",
         "title_fa": "احتمال تاثیر جنگ با ایران بر سیاست‌های اقلیمی ترامپ",
         "title_en": "How the Iran war could make Trump an accidental climate president",
@@ -634,6 +653,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz/ar-AA2e4q0Z",
         "image": "http://www.bing.com/th?id=ONUT.gIm8YYnNblbzHo8pV6o2NA&pid=News",
         "timestamp": 1791789955.0
+    },
+    {
+        "id": "6c1ee3ab85",
+        "title_fa": "کشته شدن یک نوجوان در شمال اسرائیل بر اثر انفجار مهمات",
+        "title_en": "Likely unexploded ordnance kills teenager in northern Israel",
+        "summary": [
+            "باقی ماندن مهمات عمل‌نکرده در مناطق مرزی، تهدیدی پنهان برای غیرنظامیان در شمال اسرائیل است.",
+            "این حادثه نشان‌دهنده خطرات امنیتی ناشی از درگیری‌های مرزی و حضور تجهیزات نظامی در مناطق مسکونی است."
+        ],
+        "impact": "افزایش فشارهای داخلی بر دولت برای پاکسازی مناطق مرزی از بقایای جنگی.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/10/12/explosion-wounds-at-least-8-people-in-north-israel-emergency-services",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/10/12/explosion-wounds-at-least-8-people-in-north-israel-emergency-services",
+        "image": "https://vid.alarabiya.net/images/2026/10/12/d84c1431-0bf8-476e-9c66-605074ca8ed6/d84c1431-0bf8-476e-9c66-605074ca8ed6_16x9_600x338.JPG",
+        "timestamp": 1791789600.0
     },
     {
         "id": "c61570bcb0",
@@ -5447,43 +5484,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/a-shadow-of-its-former-self-iran-is-facing-a-historic-economic-crisis-and-that-means-the-regime-could-collapse/ar-AA2dU0gg",
         "image": "http://www.bing.com/th?id=ONUT.D_3j7me-R58pwbLolhfdZw&pid=News",
         "timestamp": 1791531808.0
-    },
-    {
-        "id": "c170e419d3",
-        "title_fa": "تهدید جدید سپاه: تعقیب کشتی‌ها در خارج از هرمز",
-        "title_en": "Iran Escalates Hostilities Beyond Hormuz Strait. It Will Now Pursue Vessels Outside The Waterway.",
-        "summary": [
-            "سپاه پاسداران اعلام کرد شناورهای خارج از مسیرهای تایید شده را در کل منطقه تعقیب می‌کند.",
-            "تنش‌ها پس از گزارش‌ها درباره احتمال احیای کارزار فشار حداکثری توسط دولت دونالد ترامپ شدت یافته است.",
-            "پنتاگون به سنتکام دستور داده آمادگی‌های لازم برای حملات احتمالی به زیرساخت‌های انرژی و اتمی را نهایی کند."
-        ],
-        "impact": "افزایش شدید ریسک کشتیرانی در خلیج فارس و جهش احتمالی قیمت نفت",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "International Business Times",
-        "url": "https://www.ibtimes.com/iran-escalates-hostilities-beyond-hormuz-strait-it-will-now-pursue-vessels-outside-waterway-3808420",
-        "clean_url": "https://www.ibtimes.com/iran-escalates-hostilities-beyond-hormuz-strait-it-will-now-pursue-vessels-outside-waterway-3808420",
-        "image": "http://www.bing.com/th?id=ONUT.Z3-VL1OLx-wux-XIPNV5Rg&pid=News",
-        "timestamp": 1791531000.0
-    },
-    {
-        "id": "1358b9785b",
-        "title_fa": "افشاگری سناتور آمریکایی درباره پنهان‌کاری جنگ با ایـران",
-        "title_en": "Sen. Murphy accuses admin of 'active cover-up' of Iran war, vows to leverage funding to end war",
-        "summary": [
-            "کریس مورفی دولت ترامپ را به سرپوش گذاشتن بر هزینه‌های واقعی جنگ متهم کرد.",
-            "دموکرات‌ها قصد دارند با ابزار بودجه نظامی، دولت را برای پایان دادن به درگیری‌ها تحت فشار بگذارند.",
-            "مذاکرات هسته‌ای آمریکا و عربستان با هشدار جدی دموکرات‌ها برای تغییر توافق مواجه شد."
-        ],
-        "impact": "تشدید شکاف‌های سیاسی در واشنگتن بر سر ادامه درگیری‌های نظامی",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Jewish Insider",
-        "url": "https://jewishinsider.com/2026/10/chris-murphy-iran-war-saudi-arabia-qatar-funding-nuclear-deal/",
-        "clean_url": "https://jewishinsider.com/2026/10/chris-murphy-iran-war-saudi-arabia-qatar-funding-nuclear-deal",
-        "image": "https://image.jewishinsider.com/wp-content/uploads/2026/10/06063510/GettyImages-2289530066-scaled.jpg",
-        "timestamp": 1791530460.0
     }
 ]
