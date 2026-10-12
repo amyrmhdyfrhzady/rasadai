@@ -90,6 +90,24 @@
         "timestamp": 1791759060.0
     },
     {
+        "id": "b956f01f30",
+        "title_fa": "افشای پشت‌پرده شستشوی مغزی در مراکز آموزشی جـمـهـوری اسلامی",
+        "title_en": "How Iran's elite forces 'mold the minds of the young cadets'",
+        "summary": [
+            "اسناد رسیده از نیروهای جداشده نشان می‌دهد سیستم آموزشی نظامی چگونه ذهن جوانان را برای سرکوب آماده می‌کند.",
+            "حلقه های محرمانه درون ارکان نظامی نقش اصلی را در ترویج وفاداری کورکورانه به حاکمیت دارند."
+        ],
+        "impact": "این افشاگری چهره واقعی ماشین سرکوب و روش‌های جذب نیروی انسانی حاکمیت را نمایان می‌کند.",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "DW on MSN",
+        "url": "https://www.msn.com/en-us/news/other/how-irans-elite-forces-mold-the-minds-of-the-young-cadets/ar-AA2e2cGY",
+        "clean_url": "https://www.msn.com/en-us/news/other/how-irans-elite-forces-mold-the-minds-of-the-young-cadets/ar-AA2e2cGY",
+        "image": "http://www.bing.com/th?id=ONUT.Cmc0TvbqnPfRrrO0ztHZZA&pid=News",
+        "timestamp": 1791756000.0
+    },
+    {
         "id": "25f05ad29d",
         "title_fa": "رد پیشنهاد آمریکا از سوی تهران؛ تداوم بازی قدرت در منطقه",
         "title_en": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/pentagon-plans-public-livestream-of-its-first-firing-squad-execution-in-decades/ar-AA2dPPdA",
         "image": "http://www.bing.com/th?id=ONUT.1ceU3_uQeE2dyhJaWs3qxg&pid=News",
         "timestamp": 1791494231.0
-    },
-    {
-        "id": "4ab88f1b86",
-        "title_fa": "افشای شبکه ربات‌های سایبری ج.ا توسط شرکت OpenAI",
-        "title_en": "Iran-origin campaign targeted Iran International, foreign media",
-        "summary": [
-            "شرکت OpenAI از مسدودسازی حساب‌هایی خبر داد که با هوش مصنوعی و هویت‌های جعلی غربی، مقالاتی در رسانه‌های مختلف منتشر می‌کردند.",
-            "این عملیات روانی با نام Bogus Bylines تلاش داشت با سوءاستفاده از خبرنگاران ساختگی، روایت‌های حکومتی را در رسانه‌های خارجی جا بزند."
-        ],
-        "impact": "شکست بزرگ عملیات نفوذ رسانه‌ای سایبری و جنگ روانی دستگاه‌های امنیتی",
-        "tag": "سایبری",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610097033",
-        "clean_url": "https://www.iranintl.com/en/202610097033",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/bb606a4c001be2fd97a56263b63a8d170df61d8b-1600x1129.jpg?rect=0,145,1600,840&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791492840.0
     }
 ]
