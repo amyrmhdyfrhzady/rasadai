@@ -270,6 +270,24 @@
         "timestamp": 1791816859.0
     },
     {
+        "id": "e8a14a1fea",
+        "title_fa": "یورش مأموران فدرال به خانه نماینده دموکرات کنگره",
+        "title_en": "Live updates: Trump rallies for Republican candidates in Ohio tonight",
+        "summary": [
+            "ماموران اداره مهاجرت خانه ایلهان عمر در واشنگتن را به دلیل تحقیقات جنایی تفتیش کردند.",
+            "ترامپ همزمان در اوهایو برای نامزدهای جمهوری‌خواه در انتخابات میان‌دوره‌ای سخنرانی می‌کند."
+        ],
+        "impact": "افزایش تنش‌های سیاسی میان دولت و نمایندگان دموکرات",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ohio-rally-2026-midterm-elections-congress-live-updates-rcna602859",
+        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ohio-rally-2026-midterm-elections-congress-live-updates-rcna602859",
+        "image": "http://www.bing.com/th?id=ONUT.x_BBX4ijXp5eodJAkmDdtw&pid=News",
+        "timestamp": 1791815880.0
+    },
+    {
         "id": "7b949e7b7a",
         "title_fa": "توقیف سومین نفتکش در تنگه هرمز توسط سپاه",
         "title_en": "Iran’s IRGC says 3rd ‘offending’ supertanker hit in Strait of Hormuz in 2 days",
@@ -746,6 +764,42 @@
         "timestamp": 1791798240.0
     },
     {
+        "id": "9c7273556a",
+        "title_fa": "ایلان ماسک بزرگ‌ترین حامی مالی جمهوری‌خواهان شد",
+        "title_en": "Elon Musk quietly becomes biggest known donor in midterm contests as he tries to save Republicans",
+        "summary": [
+            "ایلان ماسک بیش از ۲۷۶ میلیون دلار برای حفظ اکثریت جمهوری‌خواهان در کنگره کمک مالی کرد.",
+            "بخش عمده‌ای از این مبلغ صرف حمایت از نامزدهای سنا و عملیات میدانی انتخاباتی شده است."
+        ],
+        "impact": "تزریق نقدینگی سنگین به کمپین انتخاباتی جمهوری‌خواهان برای کنترل کنگره",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "Orange County Register",
+        "url": "https://www.ocregister.com/2026/10/12/elon-musk-biggest-midterm-donor/",
+        "clean_url": "https://www.ocregister.com/2026/10/12/elon-musk-biggest-midterm-donor",
+        "image": "http://www.bing.com/th?id=ONUT.U0GxvtONP0DhETqPu9zwEw&pid=News",
+        "timestamp": 1791797700.0
+    },
+    {
+        "id": "95e9aa9680",
+        "title_fa": "اعتراض کارگران به سیاست تعرفه‌ای ترامپ",
+        "title_en": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump’s tariffs",
+        "summary": [
+            "تعرفه‌های تجاری ترامپ باعث تعطیلی کارخانه‌ها و اخراج کارگران آمریکایی شده است.",
+            "بسیاری از رای‌دهندگان سنتی جمهوری‌خواهان به دلیل از دست دادن شغل خود به سمت حزب دموکرات متمایل شده‌اند."
+        ],
+        "impact": "ریزش آرای کارگری جمهوری‌خواهان در آستانه انتخابات میان‌دوره‌ای",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/10/12/republicans-midterm-backlash-factory-workers/",
+        "clean_url": "https://www.baltimoresun.com/2026/10/12/republicans-midterm-backlash-factory-workers",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/10/Election_2_26_Tariffs_6_276-1.jpg?w=2000&h=1333",
+        "timestamp": 1791796920.0
+    },
+    {
         "id": "bf1fa9f305",
         "title_fa": "گرامیداشت روز بومیان آمریکا در سراسر کشور",
         "title_en": "What is Indigenous Peoples Day? A day of celebration, protest and reclaiming history",
@@ -909,6 +963,24 @@
         "clean_url": "https://www.bostonherald.com/2026/10/12/nobel-prize-economics-2026",
         "image": "http://www.bing.com/th?id=ONUT.GsBVX02ukuGhzOzqYdvkhA&pid=News",
         "timestamp": 1791793800.0
+    },
+    {
+        "id": "b4ad3e8e1c",
+        "title_fa": "دفاع ترامپ از توافق سوختی با روسیه",
+        "title_en": "Trump defends Russia diesel deal as lawmakers from both parties complain",
+        "summary": [
+            "ترامپ قرارداد واردات گازوئیل از روسیه را با وجود اعتراض قانون‌گذاران هر دو حزب تایید کرد.",
+            "منتقدان معتقدند این توافق قوانین تحریمی آمریکا علیه انرژی روسیه را دور می‌زند."
+        ],
+        "impact": "فشار سیاسی بر دولت برای شفاف‌سازی معاملات انرژی با مسکو",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/energy/trump-defends-russia-diesel-deal-lawmakers-both-parties-complain-2026-10-12/",
+        "clean_url": "https://www.reuters.com/business/energy/trump-defends-russia-diesel-deal-lawmakers-both-parties-complain-2026-10-12",
+        "image": "http://www.bing.com/th?id=ONUT.Ge3no8ZGul46laY01i_V8A&pid=News",
+        "timestamp": 1791793620.0
     },
     {
         "id": "aa3d6efbba",
@@ -5407,80 +5479,5 @@
         "clean_url": "https://www.iranintl.com/en/202610106673",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/a58207cc07b1000709c1f2726c4b563289363778-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791551460.0
-    },
-    {
-        "id": "80e8f70348",
-        "title_fa": "شکاف در دیوار تحریم؛ چرا سیاست‌های مالی ترامپ دور زده می‌شود؟",
-        "title_en": "How Deregulation Undermines the Trump Administration's 'Economic D-Day' Against Iran",
-        "summary": [
-            "مقررات‌زدایی مالی در داخل آمریکا ناخواسته راه‌های فراری برای دور زدن تحریم‌های ایران ایجاد کرده است.",
-            "تلاش دولت ترامپ برای انزوای مالی جمهوری اسلامی با سیاست‌های اقتصادی داخلی خودش تناقض دارد."
-        ],
-        "impact": "آزمون جدی برای کارآمدی فشار حداکثری اقتصادی علیه حکومت",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Center for American Progress",
-        "url": "https://www.americanprogress.org/article/how-deregulation-undermines-the-trump-administrations-economic-d-day-against-iran/",
-        "clean_url": "https://www.americanprogress.org/article/how-deregulation-undermines-the-trump-administrations-economic-d-day-against-iran",
-        "image": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/10/GettyImages-2293189053-cropped.jpg",
-        "timestamp": 1791551160.0
-    },
-    {
-        "id": "9e2446f1d5",
-        "title_fa": "رکوردشکنی اعدام‌ها در جـ.م.ا با رشد ۲۹ درصدی",
-        "title_en": "Iran executed over 2,000 people in past year, rights group says",
-        "summary": [
-            "ثبت بیش از دو هزار فقره اعدام طی یک سال گذشته توسط نهادهای حقوق بشری",
-            "استفاده حکومت از طناب دار برای سرکوب اعتراضات و ایجاد ارعبار عمومی",
-            "پنهان‌کاری حاکمیت به طوری که ۹۵ درصد این اعدام‌ها رسماً اعلام نشده‌اند"
-        ],
-        "impact": "تشدید جو خفقان و ترس در جامعه برای مقابله با موج نارضایتی‌های عمومی",
-        "tag": "حقوق_بشر",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610091479",
-        "clean_url": "https://www.iranintl.com/en/202610091479",
-        "image": "http://www.bing.com/th?id=ONUT.xfA7iacs684KhejzefeLKQ&pid=News",
-        "timestamp": 1791551040.0
-    },
-    {
-        "id": "0736fb9ddc",
-        "title_fa": "تصمیم جنجالی آمریکا برای پخش زنده یک اعدام نظامی",
-        "title_en": "US plans for livestreamed execution would put it in company with few nations",
-        "summary": [
-            "پنتاگون اعلام کرد که اعدام نیدال ملک حسن، عامل تیراندازی سال ۲۰۰۹ در پایگاه فورت هود، به صورت زنده پخش خواهد شد.",
-            "این اقدام ایالات متحده را در کنار کشورهایی مانند حکومت ج... ا... و افغانستان قرار می‌دهد که اعدام‌های در ملاءعام انجام می‌دهند.",
-            "این نخستین اعدام در ارتش آمریکا پس از گذشت بیش از ۶۵ سال خواهد بود که با جوخه آتش انجام می‌گیرد."
-        ],
-        "impact": "بازتاب گسترده حقوق بشری و تغییر رویکرد کم‌سابقه سیستم قضایی نظامی آمریکا در اجرای علنی احکام اعدام.",
-        "tag": "حقوق بشر",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Bastille Post",
-        "url": "https://www.bastillepost.com/global/article/6239152-us-plans-for-livestreamed-execution-would-put-it-in-company-with-few-nations",
-        "clean_url": "https://www.bastillepost.com/global/article/6239152-us-plans-for-livestreamed-execution-would-put-it-in-company-with-few-nations",
-        "image": "https://image.bastillepost.com/1200x/wp-content/uploads/global/2026/10/8a1858aeaf90ad7fd8c2e5c41d1f4f95_Fort_Hood_Shooting_Public_ExecutionsExplainer__5582.jpg.webp",
-        "timestamp": 1791550140.0
-    },
-    {
-        "id": "17648f6cb0",
-        "title_fa": "فشار نهایی واشینگتن؛ ترامپ از پایان کار ج.ه. گفت",
-        "title_en": "ترامپ از پایان زودهنگام جنگ ایران گفت؛ واشینگتن در پی محاصره زمینی است",
-        "summary": [
-            "دونالد ترامپ از پایان زودهنگام درگیری‌ها با ج.ه. خبر داد و تاکید کرد این پرونده به هر شکل ممکن بسته می‌شود.",
-            "وزارت خزانه‌داری آمریکا برای قطع کامل شریان‌های تنفسی نظام، رایزنی با ترکیه و پاکستان را برای بستن مرزهای زمینی کلید زد.",
-            "واشینگتن فاش کرد که حملات پیشین در آخرین لحظات جلوی دستیابی تهران به بمب اتم را گرفته است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و زمینی دور ج.ه. با همکاری کشورهای همسایه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610090210",
-        "clean_url": "https://www.iranintl.com/202610090210",
-        "image": "http://www.bing.com/th?id=ONUT.Bsc40ZHE5BZgB2ZwEmLbTg&pid=News",
-        "timestamp": 1791547920.0
     }
 ]
