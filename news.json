@@ -309,6 +309,24 @@
         "timestamp": 1791768600.0
     },
     {
+        "id": "5a2624b5a6",
+        "title_fa": "همکاری یونیکردیت و بنیاد نجات کودکان برای کاهش ترک‌تحصیل",
+        "title_en": "Save the Children and UniCredit to strengthen student participation and prevent dropout (2)",
+        "summary": [
+            "بانک اروپایی یونیکردیت با تأمین مالی پروژه «فوئوری‌کلاسه»، برنامه حمایت از نوجوانان در معرض ترک تحصیل را توسعه می‌دهد.",
+            "تمرکز این طرح بر تقویت مشارکت دانش‌آموزان در تصمیم‌گیری‌های آموزشی و ایجاد محیط‌های آموزشی امن‌تر است."
+        ],
+        "impact": "توسعه چتر حمایتی آموزشی برای پیشگیری از افت تحصیلی کودکان در مناطق محروم ایتالیا.",
+        "tag": "اجتماعی",
+        "urgency": 1,
+        "sentiment": 0.4,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261012KRONOS-202610121489378647_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1791763200.0
+    },
+    {
         "id": "aa85e12007",
         "title_fa": "پیشنهاد میانجیگری تـهران در بحران یمن همزمان با حملات نیابتی",
         "title_en": "Iran offers mediation in Saudi-Yemen conflict after Houthi strike leaves 13 dead",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://www.iranintl.com/202610099518",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791505080.0
-    },
-    {
-        "id": "3ec51d2100",
-        "title_fa": "شکایت استاد دانشگاه آمریکا به دلیل اخراج بابت مواضع سیاسی",
-        "title_en": "Former UA professor sues over firing tied to social media posts about Israel, Iran",
-        "summary": [
-            "یک استاد سابق دانشگاه در آرکانزاس به دلیل انتشار مطالب جنجالی در فضای مجازی درباره درگیری‌های خاورمیانه اخراج شده است.",
-            "این پرونده بار دیگر چالش آزادی بیان و پیامدهای اظهارنظر درباره مناقشه ایـرال و اسـراییل در نهادهای آکادمیک غرب را برجسته می‌کند."
-        ],
-        "impact": "تشدید چالش‌های حقوقی پیرامون مرزهای آزادی بیان و انتقاد از سیاست‌های خاورمیانه‌ای در دانشگاه‌های غربی.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "Northwest Arkansas Democrat-Gazette",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjBTSnpxZHl2NnRDRzBST3lPUFJQVm1LeHllMlBCQ0ZLLVhsU0NSbXZlYnc5TFFSdmJEM0hwd0NWRElBQWNNajNJM2YzYWw1cWlQOVlwVzFlbG11NkRmZnlUYzRkSzU4LThFU0dLcy1uZlRPdzdsekZyWlFic0l0bEg1V2N2TWVXXzhCV3lqWlJYQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjBTSnpxZHl2NnRDRzBST3lPUFJQVm1LeHllMlBCQ0ZLLVhsU0NSbXZlYnc5TFFSdmJEM0hwd0NWRElBQWNNajNJM2YzYWw1cWlQOVlwVzFlbG11NkRmZnlUYzRkSzU4LThFU0dLcy1uZlRPdzdsekZyWlFic0l0bEg1V2N2TWVXXzhCV3lqWlJYQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791504900.0
     }
 ]
