@@ -397,6 +397,24 @@
         "timestamp": 1791789955.0
     },
     {
+        "id": "c61570bcb0",
+        "title_fa": "تشدید درگیری‌ها در مرزهای شمالی و حملات موشکی به عربستان",
+        "title_en": "Munition blast during school trip kills student in Israel, and other Mideast...",
+        "summary": [
+            "انفجار مین عمل‌نکرده منتسب به حزب‌الله در شمال اسرائیل به کشته و زخمی شدن دانش‌آموزان انجامید.",
+            "پدافند عربستان با حملات پهپادی و موشکی جدید از سمت یمن مقابله کرد که نشان‌دهنده تداوم تهدیدات نیابتی است."
+        ],
+        "impact": "افزایش ریسک امنیتی در مرزهای اسرائیل و ادامه ناآرامی‌ها در مرزهای جنوبی عربستان.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Associated Press",
+        "url": "https://www.yahoo.com/news/world/articles/airstrikes-yemens-capital-drone-hits-071948756.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/airstrikes-yemens-capital-drone-hits-071948756.html",
+        "image": "https://media.zenfs.com/en/ap.org/dcbb6038f74b33fc320a7eed3aaab310.jpg",
+        "timestamp": 1791789352.0
+    },
+    {
         "id": "d89a922b5f",
         "title_fa": "جابجایی پنهانی ولیعهد سعودی میان پناهگاه‌های امنیتی",
         "title_en": "Saudi crown prince moves between bunker-equipped palaces amid Houthi attacks — media",
@@ -5466,24 +5484,5 @@
         "clean_url": "https://www.msn.com/en-us/money/other/how-a-binance-high-value-customer-established-a-financial-lifeline-for-iran/ar-AA2dTRbG",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791520560.0
-    },
-    {
-        "id": "d696f057f6",
-        "title_fa": "کودک‌بازی جـ...ـمهوری اسـ...ـلامی؛ آمریکا ایران را در سیاهچال قاچاق انسان نگه داشت",
-        "title_en": "US keeps Iran at lowest tier in human trafficking report",
-        "summary": [
-            "وزارت خارجه آمریکا در گزارش سالانه خود، ایران را در پایین‌ترین سطح ممکن (ردیف سوم) در زمینه مقابله با قاچاق انسان قرار داد.",
-            "اسناد معتبری وجود دارد که نشان می‌دهد سپاه پاسداران و بسیج با روش‌های سیستماتیک دست به سربازگیری اجباری از میان کودکان و مهاجران افغان، پاکستانی و سوری می‌زنند.",
-            "حکومت با تعیین سن ۱۲ سال برای فعالیت‌های امنیتی و حمایت مالی از گروه‌های نیابتی مانند حوثی‌های یمن، عملاً به بحران به‌کارگیری سربازان کودک دامن می‌زند."
-        ],
-        "impact": "افزایش فشارهای حقوق بشری و بسته‌تر شدن روزنه‌های مشروعیت بین‌المللی برای حاکمیت تهران",
-        "tag": "حقوق بشر",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610094797",
-        "clean_url": "https://www.iranintl.com/en/202610094797",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791519180.0
     }
 ]
