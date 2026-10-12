@@ -198,6 +198,25 @@
         "timestamp": 1791807301.0
     },
     {
+        "id": "36225d8460",
+        "title_fa": "افزایش خونریزی و درگیری‌های مسلحانه در جنوب شرق کـشـور",
+        "title_en": "Over 90 killed in six months as clashes escalate in Iran's southeast",
+        "summary": [
+            "گزارش‌های حقوق بشری از کشته شدن دست‌کم ۹۴ نفر در درگیری‌های شش ماه گذشته در استان سیستان و بلوچستان حکایت دارد.",
+            "استفاده از سلاح‌های سنگین و افزایش حملات به کاروان‌های نظامی نشان‌دهنده بالا رفتن هزینه امنیتی حکومت در این منطقه است.",
+            "تمرکز نهادهای امنیتی بر مرزهای غربی و شمال غربی باعث شده تا جنوب شرق به کانونی فعال برای درگیری‌های مسلحانه تبدیل شود."
+        ],
+        "impact": "تشدید ناامنی‌ها در جنوب شرق، بار سنگین دیگری بر دوش نیروهای نظامی حکومت در بحران‌های منطقه‌ای می‌گذارد.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610129395",
+        "clean_url": "https://www.iranintl.com/en/202610129395",
+        "image": "http://www.bing.com/th?id=ONUT.iHZgqsqVa52PX8n9hLS7Hw&pid=News",
+        "timestamp": 1791805920.0
+    },
+    {
         "id": "87d0cbe43a",
         "title_fa": "ادعای جی‌دی ونس درباره نزدیکی توافق واشنگتن و تهران",
         "title_en": "Vance says US and Iran are close to a deal, but sticking points remain",
@@ -5466,24 +5485,5 @@
         "clean_url": "https://www.reuters.com/business/energy/oil-falls-trump-comments-iran-talks-ease-supply-concerns-2026-10-09",
         "image": "http://www.bing.com/th?id=ONUT.CHnGnr9TfwTPvgYyd_C_Fg&pid=News",
         "timestamp": 1791526920.0
-    },
-    {
-        "id": "dbdc693b70",
-        "title_fa": "سقوط آزاد ریال و رکود بی‌سابقه قدرت خرید کارگران",
-        "title_en": "Iran's Dollar Surge to 270,000 Tomans Deepens Workers' Purchasing-Power Crisis",
-        "summary": [
-            "جهش قیمت دلار به مرز ۲۷۰ هزار تومان طی کمتر از یک سال، اقتصاد خانوارها را فلج کرده است.",
-            "حقوق ثابت کارگران در برابر تورم سرسام‌آور کفایت نمی‌کند و دستمزد دلاری آن‌ها ۴۱ درصد آب رفته است.",
-            "وابستگی واردات و تولید به نرخ ارز، موج جدیدی از گرانی کالاهای اساسی را رقم زده است."
-        ],
-        "impact": "فروپاشی کامل معیشت طبقه کارگر و گسترش اعتصابات صنفی در راه است.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran News Update",
-        "url": "https://irannewsupdate.com/news/economy/irans-dollar-surge-to-270000-tomans-deepens-workers-purchasing-power-crisis/",
-        "clean_url": "https://irannewsupdate.com/news/economy/irans-dollar-surge-to-270000-tomans-deepens-workers-purchasing-power-crisis",
-        "image": "https://irannewsupdate.com/wp-content/uploads/2026/10/8768776655.webp",
-        "timestamp": 1791526860.0
     }
 ]
