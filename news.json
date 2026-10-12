@@ -1,5 +1,23 @@
 [
     {
+        "id": "a754716b1c",
+        "title_fa": "عملیات روانی جـمـهـورۍ اسلا‌مـۍ با خبرنگاران تقلبی در رسانه‌های جهان",
+        "title_en": "OpenAI: Iran made fake journalists to send global media anti-US, Israel hoaxes",
+        "summary": [
+            "شرکت OpenAI از شناسایی شبکه سایبری وابسته به جـمـهـورۍ اسلا‌مـۍ خبر داد که با هویت‌های جعلی خبرنگاری، اخبار دروغین علیه آمریکا و اسـرائیـل تولید می‌کرده است.",
+            "این شبکه تلاش داشت با فریب رسانه‌های بین‌المللی، روایت‌های حکومتی تهران را به عنوان گزارش‌های خبری مستقل جا بزند."
+        ],
+        "impact": "افزایش بی‌اعتمادی رسانه‌های جهانی به محتواهای ارسالی و تشدید نظارت بر فعالیت‌های سایبری وابسته به تهران.",
+        "tag": "سایبری",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lTFRvUGV5R0hlamE4T2x2RlhfUlJRWFdqQmQ4RW1DNDBCbmc1VXpxWlVuRlE3Z2g0S0pjU1hZUWlWeWdlMU85ZjNlV1p5TzBaNkp0WjBFd1g2bGotWXhVUGd2TFlnVTIyQmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lTFRvUGV5R0hlamE4T2x2RlhfUlJRWFdqQmQ4RW1DNDBCbmc1VXpxWlVuRlE3Z2g0S0pjU1hZUWlWeWdlMU85ZjNlV1p5TzBaNkp0WjBFd1g2bGotWXhVUGd2TFlnVTIyQmc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791809658.0
+    },
+    {
         "id": "b3f8161a74",
         "title_fa": "خط و نشان شبکه‌های نیابتی ای-ران برای ارتش اسرائیل در جنوب سوریه",
         "title_en": "Pro-Iran networks in southern Syria threaten IDF forces, analysis warns",
@@ -5468,23 +5486,5 @@
         "clean_url": "https://www.iranintl.com/en/202610097201",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/983ca6aec4e7d1c07a6a211961b7349de5dfc721-800x533.jpg?rect=134,0,533,533&w=200&h=200&q=58&fit=crop&auto=format",
         "timestamp": 1791508980.0
-    },
-    {
-        "id": "7b0c8adccc",
-        "title_fa": "تایید کشته شدن خلبان سعودی در حملات پهپادی به ریاض",
-        "title_en": "شرکت هواپیمایی سعودی از کشته شدن یکی از خلبانان خود در حمله به فرودگاه ریاض خبر داد",
-        "summary": [
-            "شرکت هواپیمایی عربستان مرگ خلبان خود در حمله حوثی‌ها به فرودگاه ملک خالد را تایید کرد.",
-            "گزارش‌های حقوق بشری همزمان از پرونده سیاه قاچاق انسان و سربازگیری کودکان توسط حکومت ایران پرده برداشتند."
-        ],
-        "impact": "افزایش تنش‌های نظامی نیابتی در منطقه و هزینه‌های سنگین امنیتی.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610094650",
-        "clean_url": "https://www.iranintl.com/202610094650",
-        "image": "http://www.bing.com/th?id=ONUT._ShOwABwytA2sCkqtbePWw&pid=News",
-        "timestamp": 1791508740.0
     }
 ]
