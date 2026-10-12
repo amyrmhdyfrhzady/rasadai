@@ -235,6 +235,24 @@
         "timestamp": 1791805920.0
     },
     {
+        "id": "d1e2a63420",
+        "title_fa": "مهار موقت نوسان دلار با پمپاژ ارز توسط بانک مرکزی",
+        "title_en": "Iran’s dollar volatility falls from 15% to 1.2% after central bank intervention",
+        "summary": [
+            "بانک مرکزی با عرضه دلار به نرخ نزدیک بازار آزاد، نوسان هشت‌روزه ریال را از ۱۵ درصد به ۱.۲ درصد رساند.",
+            "این آرامش نسبی در بازار ارز شکننده است و صرفاً با دخالت مستقیم و تزریق ذخایر ارزی ایجاد شده است."
+        ],
+        "impact": "تزریق ارز به بازار توانسته به طور موقت ترمز سقوط ریال را بکشد اما ریشه بحران اقتصادی پابرجا ست.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "bne IntelliNews on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-dollar-volatility-falls-from-15-to-12-after-central-bank-intervention/ar-AA2e5OLJ",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-dollar-volatility-falls-from-15-to-12-after-central-bank-intervention/ar-AA2e5OLJ",
+        "image": "http://www.bing.com/th?id=ONUT.kOfgB_2An0lj6037KChbFw&pid=News",
+        "timestamp": 1791804986.0
+    },
+    {
         "id": "87d0cbe43a",
         "title_fa": "ادعای جی‌دی ونس درباره نزدیکی توافق واشنگتن و تهران",
         "title_en": "Vance says US and Iran are close to a deal, but sticking points remain",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb0NIR01EXzFfRUlDRkozQ3FkTXdtSi02TFc4V1h6OHhKV3lxbnZLTFRzYUdaWHJYNHVBOGNaeEhmRDl0TWlCS3FINGlaYzlQbHdiYUV6cmRMaEpNU1FFVzMzV2p0bTRIdHhIMC0xeFROSURCT1hUMHRCTTFMX0Z3Vm10anh1T1hyaW9uaVE0V2JsUk1kT0w1V2gxNjBxeDNrYkVVREphRS1rQmE1NVVUZ25CbVdnM2IxcnlrbjVKUkFDbEM2WkQ5M3AwQ0ZYTnRNaDdUOA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791530333.0
-    },
-    {
-        "id": "984747c31f",
-        "title_fa": "نمایش قدرت سنتکام با استقرار ناو جورج واشینگتن در دریای عرب",
-        "title_en": "سنتکام تصاویری از تمرین ورزشی خدمه ناو هواپیمابر جورج واشینگتن منتشر کرد",
-        "summary": [
-            "سنتکام تصاویری از آمادگی جسمانی و روحیه خدمه ناو هواپیمابر جورج واشینگتن منتشر کرد.",
-            "این ناو غول‌پیکر هم‌اکنون در دریای عرب مستقر است و عملیات‌های نظامی علیه رژیم را پشتیبانی می‌کند."
-        ],
-        "impact": "حضور ناوگان پیشرفته آمریکا در منطقه، پیامی آشکار از آمادگی رزمی بالا برای مهار تهدیدات است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610097183",
-        "clean_url": "https://www.iranintl.com/202610097183",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791528120.0
     }
 ]
