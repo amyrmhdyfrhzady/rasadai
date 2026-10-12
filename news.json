@@ -273,6 +273,26 @@
         "timestamp": 1791738660.0
     },
     {
+        "id": "4724cd6fbe",
+        "title_fa": "هزینه سنگین جنگ برای ج.ا و اقتصاد جهانی",
+        "title_en": "The Geopolitical Earthquake of the Iran War",
+        "summary": [
+            "خسارت ۳۰۰ میلیارد دلاری به زیرساخت‌های ج.ا در پی درگیری‌های اخیر",
+            "پنتاگون با هزینه ۴۴ میلیارد دلاری، ضربات اقتصادی گسترده‌ای به تهران وارد کرده است",
+            "بسته شدن تنگه هرمز و اختلال در صادرات انرژی، تورم جهانی را به نقطه بحرانی رسانده است",
+            "هشدار صندوق بین‌المللی پول درباره احتمال وقوع رکود جهانی در صورت تداوم تنش‌ها"
+        ],
+        "impact": "تداوم تنش‌ها منجر به جهش قیمت انرژی و خطر رکود در بازارهای جهانی شده است.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/10/12/the-geopolitical-earthquake-of-the-iran-war/",
+        "clean_url": "https://www.counterpunch.org/2026/10/12/the-geopolitical-earthquake-of-the-iran-war",
+        "image": "http://www.bing.com/th?id=ONUT.3ybOpvjPrD5ha54jLqup_A&pid=News",
+        "timestamp": 1791738000.0
+    },
+    {
         "id": "0be28373d6",
         "title_fa": "وابستگی پرخطر اسرائیل به آمریکا در پرونده ایـران",
         "title_en": "Israel’s dangerous dependence: The US, Iran, and a new MOU - opinion",
@@ -5465,23 +5485,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/man-shot-and-wounded-by-ice-agents-during-operation-in-new-york-city-while-in-car-with-5-year-old/ar-AA2dQChN",
         "image": "http://www.bing.com/th?id=ONUT.bm9CTTabZ3ZaLASd8l5aUg&pid=News",
         "timestamp": 1791494523.0
-    },
-    {
-        "id": "89bb2f80a7",
-        "title_fa": "پنتاگون اولین اعدام با جوخه آتش را پخش زنده می‌کند",
-        "title_en": "Pentagon plans public livestream of its first firing squad execution in decades",
-        "summary": [
-            "وزارت دفاع آمریکا برای اولین بار پس از دهه‌ها، اجرای حکم اعدام یک قاتل نظامی را به صورت عمومی پخش می‌کند.",
-            "این اقدام با هدف بازدارندگی و نمایش اقتدار قضایی در سیستم نظامی انجام می‌شود."
-        ],
-        "impact": "ایجاد بحث‌های حقوقی و اخلاقی گسترده در جامعه آمریکا درباره مجازات‌های نظامی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/pentagon-plans-public-livestream-of-its-first-firing-squad-execution-in-decades/ar-AA2dPPdA",
-        "clean_url": "https://www.msn.com/en-us/news/other/pentagon-plans-public-livestream-of-its-first-firing-squad-execution-in-decades/ar-AA2dPPdA",
-        "image": "http://www.bing.com/th?id=ONUT.1ceU3_uQeE2dyhJaWs3qxg&pid=News",
-        "timestamp": 1791494231.0
     }
 ]
