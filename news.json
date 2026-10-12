@@ -90,6 +90,24 @@
         "timestamp": 1791814740.0
     },
     {
+        "id": "4b393d7ef9",
+        "title_fa": "ارتش هلند از تجربیات جنگ اوکراین الگوبرداری می‌کند",
+        "title_en": "Netherlands uses Kiev battlefield data to train own troops — Defense Ministry",
+        "summary": [
+            "وزارت دفاع هلند رسماً اعلام کرد که ارتش این کشور برای آموزش نیروهای خود از داده‌ها و تجربیات واقعی جنگ اوکراین استفاده می‌کند.",
+            "هلند و اوکراین بر سر مالکیت معنوی مدل‌های هوش مصنوعی و فناوری‌های نظامی توسعه‌یافته بر اساس داده‌های میدان جنگ دچار اختلاف نظر هستند."
+        ],
+        "impact": "ارتقای توان رزمی ارتش‌های ناتو با تکیه بر داده‌های زنده جنگ اوکراین",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2200963",
+        "clean_url": "https://tass.com/world/2200963",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1791813060.0
+    },
+    {
         "id": "fa5ae421a1",
         "title_fa": "رقابت انتخاباتی ویرجینیا بر سر رویکرد در برابر ت_ح_ر_ی_ک_ا_ت ج_م_ه_و_ر_ی ا_س_ل_ا_م_ی",
         "title_en": "Virginia Congressional Race Puts Competing Views on Iran Conflict Before Voters",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://www.msn.com/es-mx/noticias/otras/ir%C3%A1n-y-rusia-usaron-chatgpt-para-propaganda-con-falsos-periodistas-seg%C3%BAn-openai/ar-AA2dT0w4",
         "image": "http://www.bing.com/th?id=ONUT.bRAVqMloO7MrmZFyg0P2lA&pid=News",
         "timestamp": 1791521744.0
-    },
-    {
-        "id": "d15feb0151",
-        "title_fa": "معمای اورانیوم ۶۰ درصدی؛ ابهام بزرگ درباره حجم مواد غنی‌شده جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی",
-        "title_en": "¿Dónde está el uranio de Irán? La gran incógnita que frena el fin de la guerra",
-        "summary": [
-            "بخش عمده‌ای از اورانیوم غنی‌شده ۶۰ درصدی احتمالاً در تونل‌های اصفهان و نطنز از حملات جان سالم به در برده است.",
-            "آژانس بین‌المللی انرژی اتمی به دلیل ممانعت تهران از بازرسی‌ها، هیچ آمار دقیقی از میزان مواد باقی‌مانده ندارد."
-        ],
-        "impact": "باقی ماندن پرونده اتمی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی در نقطه‌ای مبهم و خطرناک برای امنیت بین‌المللی.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Enlace Judío",
-        "url": "https://www.enlacejudio.com/2026/10/09/donde-esta-el-uranio-de-iran-la-gran-incognita-que-frena-el-fin-de-la-guerra/",
-        "clean_url": "https://www.enlacejudio.com/2026/10/09/donde-esta-el-uranio-de-iran-la-gran-incognita-que-frena-el-fin-de-la-guerra",
-        "image": "https://i0.wp.com/www.enlacejudio.com/wp-content/uploads/2026/10/MURAL-EN-TEHERAN.jpg?fit=1121%2C630&ssl=1",
-        "timestamp": 1791521400.0
     }
 ]
