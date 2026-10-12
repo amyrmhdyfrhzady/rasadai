@@ -454,6 +454,24 @@
         "timestamp": 1791768600.0
     },
     {
+        "id": "7d553dec82",
+        "title_fa": "جهش نفت به بالای ۱۰۵ دلار با حملات یمنی‌ها",
+        "title_en": "Oil tops $105 as Houthi attacks on Saudi Arabia raise inflation fears",
+        "summary": [
+            "بهای نفت برنت با تاثیرپذیری از حملات به عربستان از مرز ۱۰۵ دلار گذشت.",
+            "نگا‌رانی‌ها از رشد تورم جهانی به دنبال تنش‌های جدید در بازار انرژی افزایش یافته است."
+        ],
+        "impact": "افزایش بهای سوخت و تشدید فشارهای تورمی در بازارهای جهانی",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears",
+        "clean_url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/165090199/image_165090199.jpg?io=getty-c-w630",
+        "timestamp": 1791763860.0
+    },
+    {
         "id": "5a2624b5a6",
         "title_fa": "همکاری یونیکردیت و بنیاد نجات کودکان برای کاهش ترک‌تحصیل",
         "title_en": "Save the Children and UniCredit to strengthen student participation and prevent dropout (2)",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://www.iranintl.com/202610097487",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791510900.0
-    },
-    {
-        "id": "707719d2fb",
-        "title_fa": "طرح نظامی آمریکا برای حمله به سواحل ایران روی میز ترامپ",
-        "title_en": "منبع آمریکایی: پیشنهاد حمله به اهداف نظامی جمهوری اسلامی در سواحل ایران به ترامپ ارایه شد",
-        "summary": [
-            "منابع نظامی از ارائه طرح حمله به زیرساخت‌های نظامی در عمق ۵۰ تا ۸۰ کیلومتری سواحل ایران به ترامپ خبر دادند.",
-            "پنجاه هزار نیروی آمریکایی در حالت آماده‌باش کامل قرار گرفته و محاصره بندری کلید خورده است."
-        ],
-        "impact": "بالاترین سطح آمادگی نظامی آمریکا برای ضربه قاطع به توانمندی‌های دریایی و ساحلی.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610099450",
-        "clean_url": "https://www.iranintl.com/202610099450",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791510240.0
     }
 ]
