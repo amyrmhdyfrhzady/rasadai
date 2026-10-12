@@ -746,6 +746,24 @@
         "timestamp": 1791777745.0
     },
     {
+        "id": "60d311479b",
+        "title_fa": "فشار واشنگتن بر مسیر ریلی تجارت جـ.ـهـ.ـمـ.ـو‌ر‌ی ا‌سـ.ـلا‌مـ.ـی و چین",
+        "title_en": "Can US sanctions derail Iran's China trade route?",
+        "summary": [
+            "تحریم‌های جدید ایالات متحده مانع کامل قطارهای باری چین نمی‌شود، اما هزینه و ریسک این مسیر حیاتی را به شدت بالا می‌برد.",
+            "مسدود شدن مسیرهای دریایی باعث شده تـ.ـهـ.ـر‌ا‌ن برای ورود کالاهایی مثل لوازم یدکی خودرو به شدت به خطوط ریلی وابسته شود."
+        ],
+        "impact": "افزایش هزینه تامین کالا و قطعات صنعتی به دلیل پرهزینه شدن مسیرهای زمینی و ریلی جایگزین.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610098376",
+        "clean_url": "https://www.iranintl.com/en/202610098376",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/956e68726be90fc45c7fce00a872d61319f8322a-1280x850.jpg?rect=94,161,1150,604&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791777420.0
+    },
+    {
         "id": "f6ea7bac22",
         "title_fa": "ریسک جنگ یمن برای سیاست ترامپ در قبال ایران",
         "title_en": "What escalating Saudi-Houthi war means for Trump in Iran",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://irannewsupdate.com/news/economy/irans-dollar-surge-to-270000-tomans-deepens-workers-purchasing-power-crisis",
         "image": "https://irannewsupdate.com/wp-content/uploads/2026/10/8768776655.webp",
         "timestamp": 1791526860.0
-    },
-    {
-        "id": "0bd92e5e53",
-        "title_fa": "پنتاگون روی میز ترامپ؛ گزینه‌های حمله به مراکز موشکی و انرژی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی",
-        "title_en": "El Pentágono elabora nuevos planes de ataque contra Irán mientras Trump duda",
-        "summary": [
-            "ارتش آمریکا طرح‌های نظامی جدیدی برای ضربه به زیرساخت‌های نظامی و انرژی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامی آماده کرده است.",
-            "با وجود استقرار ناوهای هواپیمابر در منطقه، ترامپ فعلاً با احتیاط رفتار می‌کند و رویکرد نظامی محدودی داشته است."
-        ],
-        "impact": "افزایش سایه جنگ و تقویت فشار نظامی آمریکا بر تهران در بستر تحولات منطقه‌ای.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Clarín",
-        "url": "https://www.clarin.com/new-york-times-international-weekly/pentagono-elabora-nuevos-planes-ataque-iran-trump-duda_0_KBmDS0RNnI.html",
-        "clean_url": "https://www.clarin.com/new-york-times-international-weekly/pentagono-elabora-nuevos-planes-ataque-iran-trump-duda_0_KBmDS0RNnI.html",
-        "image": "http://www.bing.com/th?id=ONUT.wiTGqHhvkYQaLJwF1TD2Sg&pid=News",
-        "timestamp": 1791525240.0
     }
 ]
