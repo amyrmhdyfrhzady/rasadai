@@ -36,6 +36,24 @@
         "timestamp": 1791817059.0
     },
     {
+        "id": "45e2455b52",
+        "title_fa": "مقایسه تاثیر جنگ ای...ن و اوکراین بر قیمت گازوئیل",
+        "title_en": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
+        "summary": [
+            "بحران‌های ژئوپلیتیک جهانی بازار انرژی و قیمت سوخت را به شدت تحت تاثیر قرار داده‌اند.",
+            "تنش‌ها در خاورمیانه و جنگ اوکراین هر دو به عنوان محرک اصلی نوسانات قیمت گازوئیل شناخته می‌شوند."
+        ],
+        "impact": "افزایش قیمت گازوئیل هزینه‌های حمل‌ونقل و تورم جهانی را بالا می‌برد.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQzgxcFdBcHNXTFNfd01ZM0JRTHVJc2gtMlY1aW9FeEZ4Mjh2LWM5a3k2ajVRS1ZaTE11d3hLR2xnX2VLYnNtdEtkTlB3VS1UWk9oU1dHenc5RjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQzgxcFdBcHNXTFNfd01ZM0JRTHVJc2gtMlY1aW9FeEZ4Mjh2LWM5a3k2ajVRS1ZaTE11d3hLR2xnX2VLYnNtdEtkTlB3VS1UWk9oU1dHenc5RjA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791816859.0
+    },
+    {
         "id": "7b949e7b7a",
         "title_fa": "توقیف سومین نفتکش در تنگه هرمز توسط سپاه",
         "title_en": "Iran’s IRGC says 3rd ‘offending’ supertanker hit in Strait of Hormuz in 2 days",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://www.iranintl.com/en/202610094797",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791519180.0
-    },
-    {
-        "id": "b03e2bcaa1",
-        "title_fa": "حمله حوثی‌ها به ریاض و تغییر موضع تهران در مذاکرات",
-        "title_en": "Iran's Houthi allies step up deadly attacks on Saudi Arabia",
-        "summary": [
-            "حملات مهلک نیابتی‌های ایران در یمن به فرودگاه ریاض شدت یافته و تنش‌ها در منطقه وارد فاز جدیدی شده است.",
-            "مسعود پزشکیان از آمادگی برای نهایی کردن مذاکرات با واسطه‌ها خبر داده، اما دونالد ترامپ طرح پیشنهادی تهران را رد کرده است."
-        ],
-        "impact": "تشدید درگیری‌های نیابتی مستقیماً بر امنیت انرژی و نوسانات بازار نفت تأثیر می‌گذارد.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/irans-houthi-allies-step-deadly-110913070.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/irans-houthi-allies-step-deadly-110913070.html",
-        "image": "http://www.bing.com/th?id=ONUT.zYjOaoF3cdEz_c-JncCNfA&pid=News",
-        "timestamp": 1791518940.0
     }
 ]
