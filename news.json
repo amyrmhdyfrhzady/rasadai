@@ -675,6 +675,25 @@
         "timestamp": 1791707377.0
     },
     {
+        "id": "bdf09891f7",
+        "title_fa": "بازداشت ۶۱ شهروند مراکشی در الجزایر به اتهام خرابکاری",
+        "title_en": "Houthis take responsibility for Riyadh airport attack, Saudi Arabia vows response",
+        "summary": [
+            "مقام‌های امنیتی الجزایر از انهدام یک شبکه جرم بین‌المللی وابسته به مراکش خبر دادند.",
+            "این افراد متهم هستند از طریق مرزهای کوهستانی و به صورت غیرقانونی برای اجرای عملیات خرابکارانه وارد خاک الجزایر شده‌اند.",
+            "روابط سیاسی میان الجزایر و مراکش از سال‌ها پیش به دلیل اختلافات مرز و مسائل امنیتی کاملاً قطع است."
+        ],
+        "impact": "این بازداشت گسترده تنش‌های سیاسی و امنیتی میان دو قدرت شمال آفریقا را به شدت بالاتر می‌برد.",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/yemens-houthis-claim-responsibility-airport-attack",
+        "clean_url": "https://www.newarab.com/news/yemens-houthis-claim-responsibility-airport-attack",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2298939072.jpeg?itok=bIPyIOU8",
+        "timestamp": 1791706980.0
+    },
+    {
         "id": "e4968af342",
         "title_fa": "رشد حمایت در مجلس از تغییر دکترین هسته‌ای",
         "title_en": "Iranian lawmaker says support for reviewing nuclear doctrine is growing",
@@ -5466,24 +5485,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJkWmJFODJFOWZtaHlLUUt5TXgwQ21XRkVrWEVrcHVwYlgtbG5JNHRxWVVGbmZGekpHdTlrWjhyZ1ZXbmdQcjRmb2lUbEx2cXlmcnZkdkExX2I4OWpzTS1reGlkc2g0RjNUN3FvZHpWX2tBa2NybjJZRW1ZM3A1UjgyV3RkbVZKcDVLQ1lKUm1Kc3VmQ0h1QnliOXE3MVYzcDliNzZYV2xBazczZHdJ0gG0AUFVX3lxTE1QLUsxVk1lZmY2cTFCVUFIVUtHdzVqTXE5aTJmTGdDWWtDX0xzb0l2VS1iLVI2OVYwd0k0R2I4M2NkejQ1NmZaV0VKZmUwZWlKWDJMOTJ0X0NPdllJZHRHUWlBZUc1NGI0ejJqYVJIR1dycVo4UHNtY0VJYlhpdWNmUUttZDJXR2R6NkE1Q1U4bHZmNlltNk1rN1lHVS16WkFzX2Rkc3lIUG5lSzJvQ1hOeWM2cQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791488870.0
-    },
-    {
-        "id": "538ecd8eef",
-        "title_fa": "ضربه سنگین به نیروهای امنیتی ج.ا در سیستان و بلوچستان",
-        "title_en": "At least five members of Iranian forces killed in four southeast attacks",
-        "summary": [
-            "کشته و زخمی شدن بیش از ۱۲ نیروی نظامی و انتظامی در چهار حمله هماهنگ، ضعف شدید امنیتی رژ*م در کنترل مرزهای شرقی را برملا کرد.",
-            "ائتلاف جدید گروه‌های مسلح بلوچ تحت عنوان «جبهه مبارزان خلق» مسئولیت این عملیات‌های همزمان را بر عهده گرفته که زنگ خطری جدی برای سپ*ه است.",
-            "تکرار این حملات در کمتر از ۲۴ ساعت، ناکارآمدی طرح‌های امنیتی و انسداد مرزی ج.ا را به تصویر می‌کشد."
-        ],
-        "impact": "افزایش بی‌ثباتی در شرق کشور و فرسایش شدید توان رزمی و روحی نیروهای مرزبانی و انتظامی رژ*م.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610094229",
-        "clean_url": "https://www.iranintl.com/en/202610094229",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/2dca848443dcb0167adc543515974d527e6f9cc6-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791486420.0
     }
 ]
