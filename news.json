@@ -198,6 +198,25 @@
         "timestamp": 1791799335.0
     },
     {
+        "id": "a6d029b321",
+        "title_fa": "بحران مهاجرت در سبته و شکاف‌های پنهان اجتماعی",
+        "title_en": "Spain's royals set to visit Ceuta as migration crisis exposes divisions",
+        "summary": [
+            "سفر پادشاه و ملکه اسپانیا به سبته در سایه بحران مهاجرت و تشدید تنش‌های مذهبی انجام می‌شود.",
+            "هجوم هزاران مهاجر از مراکش به این منطقه، همزیستی دیرینه میان مسلمانان و مسیحیان را به شدت به چالش کشیده است.",
+            "فشار سنگین حضور مهاجران در محله‌های محلی، ساکنان را نسبت به مدیریت بحران توسط دولت ناامید کرده است."
+        ],
+        "impact": "بحران مهاجرت در مناطق مرزی اسپانیا پایداری اجتماعی را تهدید می‌کند و دولت را زیر فشار سیاسی قرار می‌دهد.",
+        "tag": "مهاجرت",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Bastille Post",
+        "url": "https://www.bastillepost.com/global/article/6245742-spains-royals-set-to-visit-ceuta-as-migration-crisis-exposes-divisions",
+        "clean_url": "https://www.bastillepost.com/global/article/6245742-spains-royals-set-to-visit-ceuta-as-migration-crisis-exposes-divisions",
+        "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/10/0af757a2b7c13dabc72fb37a0b765799_Spain_Ceuta_Religious_Divisions_91742_FB.jpg",
+        "timestamp": 1791798780.0
+    },
+    {
         "id": "aec858769e",
         "title_fa": "احتمال تاثیر جنگ با ایران بر سیاست‌های اقلیمی ترامپ",
         "title_en": "How the Iran war could make Trump an accidental climate president",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.enlacejudio.com/2026/10/09/donde-esta-el-uranio-de-iran-la-gran-incognita-que-frena-el-fin-de-la-guerra",
         "image": "https://i0.wp.com/www.enlacejudio.com/wp-content/uploads/2026/10/MURAL-EN-TEHERAN.jpg?fit=1121%2C630&ssl=1",
         "timestamp": 1791521400.0
-    },
-    {
-        "id": "61f61df876",
-        "title_fa": "دور زدن تحریم‌ها با رمزارز؛ نقش بایننس در انتقال پول ایران",
-        "title_en": "How a Binance high-value customer established a financial lifeline for Iran",
-        "summary": [
-            "اسناد افشا شده نشان می‌دهد یک شبکه ایرانی از طریق صرافی بایننس توانسته تحریم‌های مالی غرب را دور بزند.",
-            "این منافذ مالی به حکومت اجازه داده برخلاف اراده دولت‌های غربی به جابجایی پول بپردازد."
-        ],
-        "impact": "آسیب‌پذیری سیستم‌های رمزارز در برابر دور زدن تحریم‌های مالی ایران برجسته شد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/other/how-a-binance-high-value-customer-established-a-financial-lifeline-for-iran/ar-AA2dTRbG",
-        "clean_url": "https://www.msn.com/en-us/money/other/how-a-binance-high-value-customer-established-a-financial-lifeline-for-iran/ar-AA2dTRbG",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791520560.0
     }
 ]
