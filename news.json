@@ -37,6 +37,25 @@
         "timestamp": 1791909138.2801187
     },
     {
+        "id": "c9acb48e21",
+        "title_fa": "سقوط قیمت نفت در پی فروکش کردن تنش‌های مستقیم",
+        "title_en": "Oil Falls as Investors Await Clarity After Iran-Israel Halt Attacks",
+        "summary": [
+            "بازارها با کاهش ریسک درگیری مستقیم بین ج.ا و اسرائیل، به سمت آرامش نسبی حرکت کرده‌اند.",
+            "سرمایه‌گذاران در انتظار شفافیت بیشتر درباره تداوم یا پایان چرخه حملات متقابل هستند.",
+            "قیمت نفت به دلیل کاهش نگرانی‌ها از اختلال در عرضه خاورمیانه، روند نزولی گرفته است."
+        ],
+        "impact": "کاهش فشار بر قیمت سوخت و تعدیل موقت هیجانات در بازارهای جهانی انرژی.",
+        "tag": "انرژی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791907477.0
+    },
+    {
         "id": "b67fc182ef",
         "title_fa": "تقویت پدافند سایت‌های هسته‌ای و تهدید همسایگان توسط ج.ا",
         "title_en": "Iran said shoring up defenses at nuclear sites, warning it could invade neighbors if war resumes",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://www.iranintl.com/en/202610106118",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/983ca6aec4e7d1c07a6a211961b7349de5dfc721-800x533.jpg?rect=134,0,533,533&w=200&h=200&q=58&fit=crop&auto=format",
         "timestamp": 1791611640.0
-    },
-    {
-        "id": "7010007414",
-        "title_fa": "حمله موشکی حوثی‌ها به فرودگاه ریاض و تشدید درگیری‌ها در یمن",
-        "title_en": "The 7 p.m. update: Houthis attack Riyadh airport again; Yemeni forces claim gains near Bab el-Mandeb; Abbas postpones Palestinian legislative elections",
-        "summary": [
-            "حوثی‌های وابسته به تهران فرودگاه ریاض را هدف حمله موشکی قرار دادند که به زخمی شدن ده‌ها نفر منجر شد.",
-            "نیروهای نیابتی با تسلط بر سواحل کلیدی دریای سرخ، کنترل خود را بر خطوط تجاری منطقه گسترش داده‌اند."
-        ],
-        "impact": "تشدید ناامنی در مرزهای عربستان و به خطر افتادن امنیت انرژی و تجارت دریایی.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "L'Orient Today",
-        "url": "https://today.lorientlejour.com/article/1550382/the-7-pm-update-houthis-attack-riyadh-airport-again-yemeni-forces-claim-gains-near-bab-el-mandeb-abbas-postpones-palestinian-legislative-elections.html",
-        "clean_url": "https://today.lorientlejour.com/article/1550382/the-7-pm-update-houthis-attack-riyadh-airport-again-yemeni-forces-claim-gains-near-bab-el-mandeb-abbas-postpones-palestinian-legislative-elections.html",
-        "image": "https://s.lorientlejour.com/storage/attachments/1551/medias_349500_644711.jpg/r/800/medias_349500_644711.jpg",
-        "timestamp": 1791611220.0
     }
 ]
