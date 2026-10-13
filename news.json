@@ -507,6 +507,24 @@
         "timestamp": 1791809237.0
     },
     {
+        "id": "6c8d3831e2",
+        "title_fa": "ثروت یک تریلیون دلاری نفت گرینلند زیر ذره‌بین اطرافیان ترامپ",
+        "title_en": "Robert Price was sitting on a $1 trillion frozen goldmine. Then Dr. Phil got involved",
+        "summary": [
+            "رابرت پرایس، سرمایه‌دار نفتی، امتیاز انحصاری ذخایر ۱۳ میلیارد بشکه‌ای نفت منجمد به ارزش فراتر از یک تریلیون دلار در منطقه دورافتاده گرینلند را تصاحب کرده است.",
+            "پای چهره‌های تبلیغاتی نزدیک به دونالد ترامپ برای جلب سرمایه و مانور روی این پروژه استراتژیک قطب شمال باز شده و منطق اقتصادی پشت طرح‌های گذشته ترامپ برای تسلط بر گرینلند را برملا می‌کند."
+        ],
+        "impact": "آغاز رقابت برای کنترل آخرین ذخایر دست‌نخورده نفتی جهان در قطب شمال در تقابل با نفوذ روسیه و چین.",
+        "tag": "انرژی و ژئوپلیتیک",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/12/business/greenland-energy-dr-phil",
+        "clean_url": "https://www.cnn.com/2026/10/12/business/greenland-energy-dr-phil",
+        "image": "http://www.bing.com/th?id=ONUT.QWscY7nbCNYmC9Td5nafag&pid=News",
+        "timestamp": 1791808920.0
+    },
+    {
         "id": "55ce22ec78",
         "title_fa": "یورش امنیتی آمریکا به خانه منتقد صریح ترامپ",
         "title_en": "نیروهای امنیتی آمریکا خانۀ ایلهان عمر، عضو دموکرات کنگره، را تفتیش کردند",
@@ -597,6 +615,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-dollar-volatility-falls-from-15-to-12-after-central-bank-intervention/ar-AA2e5OLJ",
         "image": "http://www.bing.com/th?id=ONUT.kOfgB_2An0lj6037KChbFw&pid=News",
         "timestamp": 1791804986.0
+    },
+    {
+        "id": "2fabcca54e",
+        "title_fa": "حمله جنجالی به خانه ایلهان عمر و خشم دموکرات‌ها",
+        "title_en": "Rashida Tlaib condemns 'fascist' DHS raid on Ilhan Omar's home",
+        "summary": [
+            "رشیده طلیب اقدام ماموران وزارت امنیت داخلی در تفتیش محل سکونت ایلهان عمر، نماینده دموکرات، را رفتاری فاشیستی توصیف کرد.",
+            "این واقعه نشان‌دهنده اصطکاک شدید میان جریان پیشرو حزب دموکرات و نهادهای امنیتی فدرال در فضای پرالتهاب واشنگتن است."
+        ],
+        "impact": "تشدید شکاف و درگیری حزبی بر سر اختیارات نهادهای امنیتی در قبال نمایندگان کنگره آمریکا.",
+        "tag": "سیاست آمریکا",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/10/12/ilhan-omar-home-raid-donald-trump-tom-immigration-homan-ice-squad-rashida-tlaib/92218651007/",
+        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/10/12/ilhan-omar-home-raid-donald-trump-tom-immigration-homan-ice-squad-rashida-tlaib/92218651007",
+        "image": "http://www.bing.com/th?id=ONUT.9UysPJwYs6bLSgu1PZksCw&pid=News",
+        "timestamp": 1791804600.0
     },
     {
         "id": "0ed9f4da3c",
@@ -5442,41 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TNHFJMTJxbExLY2E2d28zejVmTnk2WWw3cktreWZXcWFOU0hDdmQ5MlQ1dExub09mS2pSRUdlbnFVLVpldXYtRV8tZkJBZno0RzFwZnVYNHdndWw0RWdZZ0NQMNIBaEFVX3lxTE9zMHBjWXRqc3lNaWpQUEIybGtpd3hrTGhjbVhHNkZmdTIwX2ZnT2ludE1teVBCMWEydlZvY2swYTJpc015elp6TERjY2Z2RWdsRkQ4dTY5Ny1TM3NDb0xNU1RrSGpzUVF4",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791554095.0
-    },
-    {
-        "id": "ba12178f3c",
-        "title_fa": "طوفان‌های سهمگین در راه سواحل آمریکا و مکزیک",
-        "title_en": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter's execution",
-        "summary": [
-            "طوفان ایسایا با قدرت گرفتن به سمت سواحل خلیج آمریکا در حرکت است و مقامات هشدار جدی صادر کرده‌اند.",
-            "طوفان سیمون نیز در اقیانوس آرام تقویت شده و مکزیک را تهدید می‌کند."
-        ],
-        "impact": "اختلال شدید در فعالیت‌های بندری و تخلیه مناطق ساحلی در مسیر طوفان.",
-        "tag": "محیط زیست",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Bastille Post",
-        "url": "https://www.bastillepost.com/global/article/6239062-vance-expresses-doubts-about-pentagon-plan-to-livestream-ford-hood-shooters-execution",
-        "clean_url": "https://www.bastillepost.com/global/article/6239062-vance-expresses-doubts-about-pentagon-plan-to-livestream-ford-hood-shooters-execution",
-        "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/10/e806a305d9c6460aa20b14e40047680e_Election_2_26_Vance_71947_FB.jpg",
-        "timestamp": 1791552480.0
-    },
-    {
-        "id": "c233307a3c",
-        "title_fa": "بحران اقتصاد ای-ران و زبانه کشیدن اعتراضات م-ردم-ی",
-        "title_en": "Iran's economy could spark popular uprising",
-        "summary": [
-            "فشار بی‌سابقه تورم و فروپاشی ارزش پ-و-ل م-ل-ی، جامعه را به نقطه جوش رسانده است.",
-            "فروپاشی اقتصادی می‌تواند جرقه قیام سراسری دیگری را علیه ساختار ح-ک-و-م-ت روشن کند."
-        ],
-        "impact": "آستانه تحمل جامعه به دلیل بحران معیشتی به شدت کاهش یافته است.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Newsmax on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-s-economy-could-spark-popular-uprising/ar-AA2dVpRg",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-s-economy-could-spark-popular-uprising/ar-AA2dVpRg",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791552322.0
     }
 ]
