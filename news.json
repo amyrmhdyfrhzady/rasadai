@@ -332,6 +332,25 @@
         "timestamp": 1791903877.0
     },
     {
+        "id": "da28e83cc0",
+        "title_fa": "تغییر فرماندهی یگان ترور ق-د-س پس از ضربات سنگین",
+        "title_en": "Iran names new commander for renamed Quds Force assassination unit, sources say",
+        "summary": [
+            "اسماعیل قاآنی مهره جدیدی به نام مجتبی حق‌لسان را برای فرماندهی یگان ترور برون‌مرزی منصوب کرد.",
+            "این یگان پس از افشای ساختار و کشته شدن فرمانده قبلی در حمله اسرائیل، به واحد ۶۰۰ تغییر نام داد.",
+            "ماموریت اصلی این ساختار همچنان اجرای نقشه‌های ترور علیه مخالفان، روزنامه‌نگاران و مقام‌های خارجی است."
+        ],
+        "impact": "تلاش نافرجام سپاه برای بازسازی شبکه ترور برون‌مرزی پس از ضربات اطلاعاتی و امنیتی شدید.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610131837",
+        "clean_url": "https://www.iranintl.com/en/202610131837",
+        "image": "http://www.bing.com/th?id=ONUT._NKX3BL5MC9_IudaDtdXvA&pid=News",
+        "timestamp": 1791903780.0
+    },
+    {
         "id": "c6f48253f6",
         "title_fa": "درگیری خونین در بلوچستان؛ ادعای س*پاه در حذف مخالفان مسلح",
         "title_en": "Iran’s IRGC says 5 killed in Baluchistan after dismantling ‘militant cell’: What to know",
@@ -5473,24 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202610108712",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/ae969140233a1fec49d8916163501d47a5b8aaff-6000x4000.jpg?rect=0,690,6000,3150&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791632220.0
-    },
-    {
-        "id": "07e60abddc",
-        "title_fa": "صفر شدن صادرات نفت ایران؛ بحران مالی بی‌سابقه در راه است",
-        "title_en": "US military releases video of strike on ship breaching Iran blockade",
-        "summary": [
-            "داده‌های کپلر تایید می‌کند که بارگیری نفت خام و میعانات گازی در ماه سپتامبر برای نخستین بار پس از سال ۱۳۵۷ کاملاً متوقف شده است.",
-            "با تخلیه آخرین محموله‌ها در چین تا اواسط آذرماه، ورودی درآمد نفتی تهران به صفر نزدیک می‌شود که به معنای کسری ماهانه ۳ تا ۶ میلیارد دلار است.",
-            "فشار محاصره دریایی و کنترل دقیق ناوگان حمل‌ونقل عملاً شریان اصلی تامین ارز ج‌.ا را قطع کرده است."
-        ],
-        "impact": "توقف کامل تزریق دلارهای نفتی به اقتصاد از دی‌ماه، جهش بی‌سابقه نرخ ارز و بن‌بست مالی شدید ایجاد می‌کند.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610116174",
-        "clean_url": "https://www.iranintl.com/en/202610116174",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791631860.0
     }
 ]
