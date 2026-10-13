@@ -456,6 +456,24 @@
         "timestamp": 1791846840.0
     },
     {
+        "id": "8c11b4b2ba",
+        "title_fa": "احتمال انقباض دوباره سیاست پولی سنگاپور برابر تورم",
+        "title_en": "Singapore's MAS tipped to tighten again as energy and AI keep prices hot",
+        "summary": [
+            "بیشتر اقتصاددانان انتظار دارند بانک مرکزی سنگاپور دامنه نرخ ارز را سخت‌تر کند.",
+            "فشار قیمت انرژی و رونق هوش مصنوعی عامل اصلی چسبندگی تورم در این کشور است."
+        ],
+        "impact": "کنترل تورم وارداتی از طریق ابزارهای ارزی بانک مرکزی سنگاپور.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/singapore-s-mas-tipped-to-tighten-again-as-energy-and-ai-kee/",
+        "clean_url": "https://www.briefs.co/news/singapore-s-mas-tipped-to-tighten-again-as-energy-and-ai-kee",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/10/singapore-s-mas-tipped-to-tighten-again-as-energy-and-ai-kee.png",
+        "timestamp": 1791845100.0
+    },
+    {
         "id": "28baa083a3",
         "title_fa": "صادرات نفت از بندر رجایی و ناامنی در خلیج فارس",
         "title_en": "Iran exports 5.14 million tons of oil products through Rajaee port",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-shows-trump-s-opportunity-in-escalating-hormuz-attacks/ar-AA2dWCfu",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dc3Ok.img?w=1024&h=682&m=4&q=100",
         "timestamp": 1791576000.0
-    },
-    {
-        "id": "ec20380cb6",
-        "title_fa": "حمله هوایی اسرائیل به عنصر وابسته به تهران در سوریه",
-        "title_en": "Lebanon says 6 wounded in attack that Israel says targeted pro-Iran Syrian operative",
-        "summary": [
-            "جنگنده‌های اسرائیل یک مهره کلیدی وابسته به شبکه نیابتی تهران را در خاک سوریه هدف قرار دادند.",
-            "مقام‌های لبنانی از زخمی شدن شش تن در حاشیه این عملیات هدفمند خبر دادند."
-        ],
-        "impact": "افزایش تنش‌های مرزی و تداوم ضربات اطلاعاتی اسرائیل به ارکان نظامی وابسته به ج.ه در منطقه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFhFMDcyUVhsc0EzaXR5MUlRbTFXYmlzNC1EUXRFNzlxd1BpQXlDdEV0V09HU1kxNXpSQ29jdXIyMVA0cXFwb2tSN1BGZldIdmpjcnVOcmNJencycmFOei1HUTNmU2dnOWRQMnpMMDM4LXhyeE9QSmtBUG5aSVFGMDFEeVZHbFB6Z0hBOS1oLWpkQmdKZzRWdTFOSDRfRFpvQm51UVIwVHphazJ1VXdUMzBaVHpHTFFtUDZoLTZkMW5Eai1KSW9zTGRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFhFMDcyUVhsc0EzaXR5MUlRbTFXYmlzNC1EUXRFNzlxd1BpQXlDdEV0V09HU1kxNXpSQ29jdXIyMVA0cXFwb2tSN1BGZldIdmpjcnVOcmNJencycmFOei1HUTNmU2dnOWRQMnpMMDM4LXhyeE9QSmtBUG5aSVFGMDFEeVZHbFB6Z0hBOS1oLWpkQmdKZzRWdTFOSDRfRFpvQm51UVIwVHphazJ1VXdUMzBaVHpHTFFtUDZoLTZkMW5Eai1KSW9zTGRR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791574631.0
     }
 ]
