@@ -235,6 +235,24 @@
         "timestamp": 1791864015.0
     },
     {
+        "id": "6b18cd635a",
+        "title_fa": "سرکوب خونین اعتراضات مردمی در میمه اصفهان",
+        "title_en": "Gunfire heard as county-naming protest turns violent in central Iran",
+        "summary": [
+            "اعتراض اهالی شهر میمه به نام‌گذاری یک بخش اداری جدید، با شلیک گلوله و گاز اشک‌آور توسط نیروهای امنیتی به خاک و خون کشیده شد.",
+            "ویدیوهای ارسالی حاکی از مجروح شدن شهروندان و حضور نیروهای سرکوبگر در سطح شهر است."
+        ],
+        "impact": "بالا گرفتن نارضایتی‌های محلی و تبدیل مطالبات مدنی به درگیری‌های خیابانی با دستگاه امنیتی",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610138522",
+        "clean_url": "https://www.iranintl.com/en/202610138522",
+        "image": "http://www.bing.com/th?id=ONUT.9E6g0YwX-xAvPnPHAwUYtw&pid=News",
+        "timestamp": 1791864000.0
+    },
+    {
         "id": "f32a1adba2",
         "title_fa": "آماده‌باش نظامی و اتمی سپاه در سایه تهدیدهای منطقه‌ای",
         "title_en": "معاون سیاسی سپاه پاسداران: برای پاسخ‌گویی به هرگونه اقدام نظامی جدید دشمن آماده‌ایم",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.bostonherald.com/2026/10/09/riyadh-airport-attacks-mideast-news",
         "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/Gulf_Cooperation_Council_Member_States__1638_0106a9.jpg?w=1200&h=792",
         "timestamp": 1791586620.0
-    },
-    {
-        "id": "cec8a7a37a",
-        "title_fa": "ادعای رهبر دمکرات‌ها درباره پیامد حذف رهبر جـ.مـ.هـ.و‌ر‌ی‌اسـ.لـ.ا‌مـ.ی",
-        "title_en": "Democrats Leader Says Killing Iran's Supreme Leader Weakened Israel",
-        "summary": [
-            "یکی از رهبران حزب دمکرات مدعی شد که حذف رهبر جـ.مـ.هـ.و‌ر‌ی‌اسـ.لـ.ا‌مـ.ی به امنیت ایـ.ر‌ا‌ئـ.یـ.ل آسیب زده است.",
-            "این موضع‌گیری نشان‌دهنده اختلاف نظر شدید در محافل سیاسی خارج از کشور درباره نحوه برخورد با ساختار قدرت در تهران است."
-        ],
-        "impact": "بازتاب سناریوهای امنیتی پیرامون تغییرات در هرم قدرت ارشد در رسانه‌های بین‌المللی",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRzlNZUp3LWhRZFlXRDFNY09ZRXk2NDBJbVFqcktCLUlkYkctQzd2eHpKcHBnQ0ducC1iMXBERDNaRjQzYnQ5N1dXMXRQd3hNd05ydXNDREoxdTJmUjZJMl9LbGcyQkdqYjVKQ2QxZXpRNTdMM3MyOXU1TWE2YmFFbFdYRlVPcmlUb3BaNTNHVzhsLTFyR1hLOW1yekhqR21Jbi0xWng3TmdhcDlUTXhXUS1hcll1b3ctTTdfYW1jQTUzY1JrWUxIMHdQUGNLcVYzX2lpWF9ValgtakMweHVfOWhoVXVUbnJodG1lY3gtWkVVZXNiWE5XMC0xcjJQdnhzM0ZwMUprV3J5SGxR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRzlNZUp3LWhRZFlXRDFNY09ZRXk2NDBJbVFqcktCLUlkYkctQzd2eHpKcHBnQ0ducC1iMXBERDNaRjQzYnQ5N1dXMXRQd3hNd05ydXNDREoxdTJmUjZJMl9LbGcyQkdqYjVKQ2QxZXpRNTdMM3MyOXU1TWE2YmFFbFdYRlVPcmlUb3BaNTNHVzhsLTFyR1hLOW1yekhqR21Jbi0xWng3TmdhcDlUTXhXUS1hcll1b3ctTTdfYW1jQTUzY1JrWUxIMHdQUGNLcVYzX2lpWF9ValgtakMweHVfOWhoVXVUbnJodG1lY3gtWkVVZXNiWE5XMC0xcjJQdnhzM0ZwMUprV3J5SGxR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791586260.0
     }
 ]
