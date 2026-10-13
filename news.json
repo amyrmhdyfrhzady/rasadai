@@ -1,5 +1,24 @@
 [
     {
+        "id": "28b74ace6e",
+        "title_fa": "تحکیم تاسیسات اتمی و تهدیدهای جدید ج-ه-ا-م-ی",
+        "title_en": "Iran Hardens Nuke Sites, Threatens Harsher Escalation",
+        "summary": [
+            "تصاویر ماهواره‌ای از ایجاد استحکامات و دیوارهای خاکی جدید در اطراف سایت‌های اتمی نطنز و کوه کلنگ خبر می‌دهند.",
+            "تهران به کشورهای همسایه هشدار داده که در صورت شروع دوباره درگیری‌ها، تاسیسات انرژی آن‌ها را هدف قرار خواهد داد.",
+            "نظام با ورود نیروهای نظامی به مهدکودک‌ها و آموزش تسلیحاتی، جامعه را وارد فاز جنگی کرده است."
+        ],
+        "impact": "افزایش ریسک امنیتی در منطقه و آماده‌باش کامل نیروهای آمریکایی و همسایگان.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Newser",
+        "url": "https://www.newser.com/story/398034/iran-hardens-nuke-sites-threatens-harsher-escalation.html",
+        "clean_url": "https://www.newser.com/story/398034/iran-hardens-nuke-sites-threatens-harsher-escalation.html",
+        "image": "https://cdn.newser.com/image/1717603-12-20261013080500.jpeg",
+        "timestamp": 1791896700.0
+    },
+    {
         "id": "a413073f52",
         "title_fa": "پیش‌بینی ترامپ از ریزش قیمت بنزین پس از پایان تنش با ایران",
         "title_en": "President Trump predicts gas prices will drop to $1.85 after Iran conflict ends",
@@ -5461,24 +5480,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjlPbHF4Znc4T3Q4SG1HQVBGck1fRTd4MmstZXdtcUdxbTh2YnRKcTlhNXN4YUtGSnM5TlRFNXJlbW1KMTJDazFJOE82V0txZlVweW1xeE5tX21WLUd4ODdHcERvd0x4NzEybEx4amhrbWd2ZmNKd3JUTnFxeEJUaXgxTF9mZEFtUFlxajdoc2VGYTV4N2pURGdudkhmamUtTFNWWHBKSHFxdUNjaVFadEZYLWowbFRmY0FqYVJzemxHTTFDLVRhcw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791589684.0
-    },
-    {
-        "id": "a4ba97e3c3",
-        "title_fa": "خط و نشان کیهان برای هنرمندان بازگشته به کشور",
-        "title_en": "Trump says Iran among conflicts he expects to ‘settle or win’",
-        "summary": [
-            "روزنامه کیهان خواستار برخورد امنیتی و بازجویی از هنرمندان خارج از کشور شد که اخیراً به ایران بازگشته‌اند.",
-            "ارگان تحت نظر رهبری، بازگشت اهالی هنر را نه از روی وطن‌دوستی، بلکه سناریوی «نفوذ نرم فرهنگی» می‌داند.",
-            "این برخورد نشان داد ادعاهای دولت برای جلب اعتماد ایرانیان خارج از کشور با دیوار سخت نهادهای اطلاعاتی ج*هوری اس*لامی برخورد می‌کند."
-        ],
-        "impact": "افزایش فشار امنیتی بر هنرمندان و انسداد راه بازگشت ایرانیان خارج از کشور.",
-        "tag": "سرکوب",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/liveblog/202610105959",
-        "clean_url": "https://www.iranintl.com/en/liveblog/202610105959",
-        "image": "http://www.bing.com/th?id=ONUT.slUx7Q28NSpxfllSvNsDIw&pid=News",
-        "timestamp": 1791589500.0
     }
 ]
