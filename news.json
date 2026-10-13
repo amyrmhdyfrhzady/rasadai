@@ -163,6 +163,24 @@
         "timestamp": 1791871658.0
     },
     {
+        "id": "d1575f8dd6",
+        "title_fa": "اتهام‌زنی لندن به س-پ-ا-ه؛ تهران مدعی عملیات فریب شد",
+        "title_en": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
+        "summary": [
+            "بریتانیا س-پ-ا-ه را عامل توطئه علیه یک پایگاه هوایی در خاک خود معرفی کرد.",
+            "تهران با رد این اتهامات، آن را سناریوی «عملیات فریب» برای افزایش فشارها می‌داند."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و احتمال تحریم‌های جدید علیه نهادهای نظامی ج-ا-ا.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Al Jazeera on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident/ar-AA2e8JIg",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident/ar-AA2e8JIg",
+        "image": "http://www.bing.com/th?id=ONUT.loPc-xglQBtuGNkMnjLMCw&pid=News",
+        "timestamp": 1791871436.0
+    },
+    {
         "id": "81c1a02be1",
         "title_fa": "چرخش ترامپ؛ خودداری از حمایت آشکار از نتانیاهو",
         "title_en": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
@@ -179,6 +197,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears/ar-AA2e7zNV",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69e23279d2-1776431737.jpg?resize=1200,675",
         "timestamp": 1791870010.0
+    },
+    {
+        "id": "46edf4f541",
+        "title_fa": "تهدید تهران به اعزام نیرو به کشورهای همسایه",
+        "title_en": "Iran reportedly weighing escalation options with US war, one involves sending troops to neighboring countries",
+        "summary": [
+            "تهران در حال بررسی گزینه‌های نظامی برای گسترش درگیری در صورت وقوع جنگ با آمریکا است.",
+            "هشدار مستقیم به کشورهای همسایه؛ هرگونه همکاری با واشنگتن، دامنه درگیری را به مرزهای آنان می‌کشاند."
+        ],
+        "impact": "ایجاد وحشت امنیتی در منطقه و افزایش احتمال درگیری‌های نیابتی در کشورهای همسایه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-reportedly-weighing-escalation-options-with-us-war-one-involves-sending-troops-to-neighboring-countries/ar-AA2e8O8f",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-reportedly-weighing-escalation-options-with-us-war-one-involves-sending-troops-to-neighboring-countries/ar-AA2e8O8f",
+        "image": "http://www.bing.com/th?id=ONUT.htqaHyvK4yEPrYlfzxo-Gg&pid=News",
+        "timestamp": 1791868100.0
     },
     {
         "id": "0176f23442",
@@ -5443,41 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WeFlrRnFhbmNUUU1PYUJIdzU5NUlGMlRrTTVTRG1ZVFJ3WHZ1bHU3UzhiRE9pMWl1dGV2Z01vNHRpNEpiTmprMFQwS3dLbmFGMXc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791588600.0
-    },
-    {
-        "id": "f7b3f39a6b",
-        "title_fa": "اعدام یک معترض دیگر در سمنان",
-        "title_en": "Iran says it executed man convicted of killing police officer",
-        "summary": [
-            "دستگاه قضایی ج.ا حکم اعدام متهم پرونده درگیری با نیروی انتظامی در دامغان را اجرا کرد.",
-            "سازمان‌های حقوق بشری بارها نسبت به نبود دادگاه عادلانه و اعترافات زیر شکنجه در این پرونده‌ها هشدار داده بودند."
-        ],
-        "impact": "تشدید جو ارعاب و سرکوب در شهرهای مختلف با اجرای احکام اعدام شتاب‌زده.",
-        "tag": "حقوق بشر",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610100141",
-        "clean_url": "https://www.iranintl.com/en/202610100141",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791587220.0
-    },
-    {
-        "id": "747d2763d9",
-        "title_fa": "هشدار درباره خطای محاسباتی ج.ה.ا در تنش‌های اخیر",
-        "title_en": "Iran's moment of opportunity",
-        "summary": [
-            "رهبران ج.ה.ا نباید دستاوردهای مقطعی را با پیروزی‌های راهبردی اشتباه بگیرند.",
-            "پافشاری بر سیاست‌های حداکثری خطر فرسایش توان داخلی را به همراه دارد."
-        ],
-        "impact": "تداوم راهبرد فعلی تهران را در بلندمدت در برابر فشارهای خارجی آسیب‌پذیرتر می‌کند.",
-        "tag": "راهبردی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Free Malaysia Today",
-        "url": "https://www.msn.com/en-my/news/other/iran-s-moment-of-opportunity/ar-AA2dVyjh",
-        "clean_url": "https://www.msn.com/en-my/news/other/iran-s-moment-of-opportunity/ar-AA2dVyjh",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21lfeB.img?w=1600&h=1000&m=4&q=70",
-        "timestamp": 1791586800.0
     }
 ]
