@@ -199,6 +199,24 @@
         "timestamp": 1791860100.0
     },
     {
+        "id": "1f53896f0a",
+        "title_fa": "کیم جونگ اون بر توسعه تسلیحات کره شمالی تأکید کرد",
+        "title_en": "Kim Jong Un committed to strengthening DPRK military firepower — agency",
+        "summary": [
+            "رهبر کره شمالی از استمرار تقویت توان نظامی و توسعه تسلیحات این کشور خبر داد.",
+            "پی‌اونگ‌یانگ ساخت قدرتمندترین صنایع دفاعی جهان را وظیفه اصلی حزب حاکم می‌داند."
+        ],
+        "impact": "تداوم همکاری‌های تسلیحاتی پی‌اونگ‌یانگ با محور شرارت و روسیه، معادله امنیتی شرق آسیا را پیچیده‌تر می‌کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2201273",
+        "clean_url": "https://tass.com/world/2201273",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1791857040.0
+    },
+    {
         "id": "0a30cf6bcf",
         "title_fa": "تهدید منافع آمریکا توسط حوثی‌ها در صورت اقدام نظامی ترامپ",
         "title_en": "Trump denounces Houthi attacks after Saudi crown prince call as coalition intercepts missiles",
@@ -5457,23 +5475,5 @@
         "clean_url": "https://www.iranintl.com/202610091948",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/be218a94eff48e7c2b9fad4e49aeb1afe2962341-2675x2014.jpg?rect=0,4,2675,2006&w=576&h=432&q=58&fit=max&auto=format",
         "timestamp": 1791569580.0
-    },
-    {
-        "id": "a46a484ddc",
-        "title_fa": "معامله پشت پرده ترامپ و پوتین پس از اختلاف با کی‌یف",
-        "title_en": "مقام آمریکایی: ترامپ پس از بی‌اعتنایی زلنسکی به درخواست‌هایش با پوتین توافق کرد",
-        "summary": [
-            "دونالد ترامپ پس از بی‌اعتنایی اوکراین به درخواست‌های واشینگتن برای توقف حملات به پالایشگاه‌های روسی، با مسکو بر سر عرضه گازوئیل توافق کرد.",
-            "ولودیمیر زلنسکی این تصمیم را ناعستانه خواند و بحران تازه‌ای در روابط کی‌یف و واشینگتن شکل گرفت."
-        ],
-        "impact": "تشدید تنش میان اوکراین و دولت آمریکا و مختل شدن تلاش‌ها برای پایان جنگ.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610103157",
-        "clean_url": "https://www.iranintl.com/202610103157",
-        "image": "http://www.bing.com/th?id=ONUT.mf_9aff-ESGXhnPcUxvxYA&pid=News",
-        "timestamp": 1791569520.0
     }
 ]
