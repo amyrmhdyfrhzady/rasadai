@@ -940,6 +940,24 @@
         "timestamp": 1791853200.0
     },
     {
+        "id": "562177135a",
+        "title_fa": "توافق سوختی ترامپ و روسیه؛ تغییر موازنه در خاورمیانه",
+        "title_en": "From the Iranian front to Russian energy",
+        "summary": [
+            "توافق ترامپ با روسیه بر سر گازوئیل، نشان‌دهنده اولویت‌بندی جدید واشنگتن برای مهار بحران‌های انرژی است.",
+            "این چرخش استراتژیک می‌تواند دسترسی ج.ا.ا به بازارهای سیاه انرژی را محدودتر و فشار بر درآمدهای نفتی را تشدید کند."
+        ],
+        "impact": "تغییر در زنجیره تأمین انرژی، قدرت چانه‌زنی ج.ا.ا را در بازارهای جهانی کاهش می‌دهد.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Ahram Online",
+        "url": "https://english.ahram.org.eg/NewsContent/50/1203/578887/AlAhram-Weekly/World/From-the-Iranian-front-to-Russian-energy.aspx",
+        "clean_url": "https://english.ahram.org.eg/NewsContent/50/1203/578887/AlAhram-Weekly/World/From-the-Iranian-front-to-Russian-energy.aspx",
+        "image": "https://english.ahram.org.eg/Media/News/2026/10/13/41_2026-639275160243594742-359.jpg",
+        "timestamp": 1791849660.0
+    },
+    {
         "id": "d0447c514f",
         "title_fa": "تهدید زیرساخت‌های دیجیتال خلیج فارس توسط محسن رضایی",
         "title_en": "Iran hardliners back threats to strike Persian Gulf digital infrastructure",
@@ -5471,24 +5489,5 @@
         "clean_url": "https://note.com/o_3/n/n1c18aaca377a",
         "image": "https://www.bing.com/th?id=ONUT.FmBbMNNYbkUcQkhBkI5Oww",
         "timestamp": 1791604863.9251761
-    },
-    {
-        "id": "968c16a642",
-        "title_fa": "آماده‌باش سراسری در لهستان پس از حملات مرگبار به مدارس",
-        "title_en": "Police detain 76 and check 50,000 schools after 2 attacks shake Poland",
-        "summary": [
-            "پلیس لهستان ۷۶ نفر را در پی دو حمله خونین اخیر بازداشت کرد.",
-            "نیروهای امنیتی نزدیک به ۵۰ هزار مدرسه را در سراسر کشور برای جلوگیری از حوادث احتمالی بازرسی کردند.",
-            "این حملات که با سلاح سرد توسط شهروندان لهستانی انجام شد، جامعه این کشور را در شوک فرو برد."
-        ],
-        "impact": "افزایش شدید تدابیر امنیتی و تعطیلی موقت برخی مراکز آموزشی در لهستان",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Bastille Post",
-        "url": "https://www.bastillepost.com/global/article/6240319-police-detain-76-and-check-50000-schools-after-2-attacks-shake-poland",
-        "clean_url": "https://www.bastillepost.com/global/article/6240319-police-detain-76-and-check-50000-schools-after-2-attacks-shake-poland",
-        "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/10/d86cb59df01b5ad7aaf254697e08ffcc_Poland_School_Attack_6_652_FB.jpg",
-        "timestamp": 1791604140.0
     }
 ]
