@@ -327,6 +327,24 @@
         "timestamp": 1791835564.448646
     },
     {
+        "id": "68abc5a8d3",
+        "title_fa": "حملات سایبری گستردۀ ج.ا علیه اسرائیل",
+        "title_en": "Iran's two-front war on Israel: From October 7 to election interference",
+        "summary": [
+            "نهادهای امنیتی اسرائیل از افزایش چشمگیر حملات سایبری گروه‌های وابسته به ج.ا از زمان جنگ ۷ اکتبر خبر می‌دهند.",
+            "گروه‌های هکری مانند حندلا و سایبر اونجرز با هدف اختلال و جنگ روانی، زیرساخت‌های اسرائیل را هدف قرار داده‌اند."
+        ],
+        "impact": "تلاش برای جبران شکست‌های میدانی از طریق عملیات‌های ایذایی در فضای مجازی.",
+        "tag": "سایبری",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-my/news/other/iran-s-two-front-war-on-israel-from-october-7-to-election-interference/ar-AA2e64fT",
+        "clean_url": "https://www.msn.com/en-my/news/other/iran-s-two-front-war-on-israel-from-october-7-to-election-interference/ar-AA2e64fT",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733623",
+        "timestamp": 1791835200.0
+    },
+    {
         "id": "f8751e1c03",
         "title_fa": "واکنش تند ترامپ به دخالت تهران در پایگاه بریتانیایی",
         "title_en": "US Iran War Live Updates: Trump weighs action against Iran after UK links Tehran to RAF Fairford incident",
@@ -5457,24 +5475,6 @@
         "url": "https://www.iranintl.com/202610104262",
         "clean_url": "https://www.iranintl.com/202610104262",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791565200.0
-    },
-    {
-        "id": "5ab9ede159",
-        "title_fa": "شکایت انتخاباتی ترامپ روی میز دیوان عالی آمریکا",
-        "title_en": "ترامپ از دیوان عالی خواست شکایتش از هیلاری کلینتون درباره انتخابات را باز به جریان بیندازد",
-        "summary": [
-            "دونالد ترامپ از دیوان عالی خواست پرونده شکایت خود از هیلاری کلینتون را بررسی کند.",
-            "این پرونده مربوط به ادعای توطئه برای ارتباط دادن کارزار انتخاباتی سال ۲۰۱۶ با روسیه است."
-        ],
-        "impact": "باز شدن دوباره پرونده‌های حقوقی جنجالی سیاست داخلی ایالات متحده.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610102193",
-        "clean_url": "https://www.iranintl.com/202610102193",
-        "image": "http://www.bing.com/th?id=ONUT.Z9Ecixv029WL-9la1UKElw&pid=News",
         "timestamp": 1791565200.0
     }
 ]
