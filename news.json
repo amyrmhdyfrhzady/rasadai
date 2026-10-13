@@ -181,6 +181,25 @@
         "timestamp": 1791870010.0
     },
     {
+        "id": "0176f23442",
+        "title_fa": "ضرورت فوری تغییر رژیم در ایران برای امنیت جهانی",
+        "title_en": "Opinion: Regime change in Iran is needed now more than ever",
+        "summary": [
+            "نویسنده با مقایسه ج.ا با رژیم‌های توتالیتر قرن بیستم، بقای آن را تهدیدی وجودی برای صلح جهانی می‌داند.",
+            "فشار بین‌المللی برای گذار از حاکمیت فعلی به یک ضرورت اجتناب‌ناپذیر در سیاست خارجی غرب تبدیل شده است.",
+            "استراتژی مماشات با تهران شکست خورده و تنها راه مهار بحران، تغییر ساختار قدرت در ایران است."
+        ],
+        "impact": "افزایش فشار لابی‌های سیاسی در واشینگتن برای اتخاذ رویکرد براندازی به جای مذاکره.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "The Hill on MSN",
+        "url": "https://www.msn.com/en-us/news/other/opinion-regime-change-in-iran-is-needed-now-more-than-ever/ar-AA2e8po5",
+        "clean_url": "https://www.msn.com/en-us/news/other/opinion-regime-change-in-iran-is-needed-now-more-than-ever/ar-AA2e8po5",
+        "image": "http://www.bing.com/th?id=ONUT.euRyHQRLC0LWZ_LUxcBddg&pid=News",
+        "timestamp": 1791867600.0
+    },
+    {
         "id": "e0b0b306f5",
         "title_fa": "دست داشتن س پ ا ه در طرح حمله به پایگاه هوایی انگلیس",
         "title_en": "UK Blames Iran’s IRGC for Bomber Base Plot as Tehran Rejects Accusations",
@@ -5460,24 +5479,5 @@
         "clean_url": "https://www.msn.com/en-my/news/other/iran-s-moment-of-opportunity/ar-AA2dVyjh",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21lfeB.img?w=1600&h=1000&m=4&q=70",
         "timestamp": 1791586800.0
-    },
-    {
-        "id": "aee342e14b",
-        "title_fa": "حمله موشکی به فرودگاه ریاض؛ ۳ شهروند سعودی کشته شدند",
-        "title_en": "Attacks on Riyadh's international airport killed 3 Saudi citizens, and other Mideast developments",
-        "summary": [
-            "شبه‌نظامیان حوثی وابسته به ج.ا فرودگاه بین‌المللی پایتخت عربستان را هدف حمله موشکی قرار دادند که به کشته شدن سه غیرنظامی انجامید.",
-            "هم‌زمانی این حمله با گزارش انفجارها در صنعا و حملات پهپادی در مرز لبنان و سوریه، حاکی از تشدید تحرکات بازوهای نیابتی در منطقه است.",
-            "هدف‌گیری اهداف غیرنظامی در ریاض عملاً مسیر تنش‌زدایی دیپلماتیک را مسدود و خطر پاسخ تلافی‌جویانه را بالا می‌برد."
-        ],
-        "impact": "افزایش شدید ریسک خطوط هوایی در خلیج فارس و احتمال پاسخ مستقیم نظامی ائتلاف عربی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.75,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/10/09/riyadh-airport-attacks-mideast-news/",
-        "clean_url": "https://www.bostonherald.com/2026/10/09/riyadh-airport-attacks-mideast-news",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/Gulf_Cooperation_Council_Member_States__1638_0106a9.jpg?w=1200&h=792",
-        "timestamp": 1791586620.0
     }
 ]
