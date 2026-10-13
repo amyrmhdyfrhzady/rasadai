@@ -1,5 +1,24 @@
 [
     {
+        "id": "633cdf3811",
+        "title_fa": "معامله سوختی ترامپ با پوتین؛ برد روسیه و باخت غرب",
+        "title_en": "Ukraine's civilians will pay for Trump's deal with Russia | GUEST COMMENTARY",
+        "summary": [
+            "ترامپ با لغو تحریم‌های صادرات سوخت روسیه، عملاً به مسکو برای نقد کردن ذخایر مازادش کمک کرده است.",
+            "این توافق نه تنها مشکل قیمت سوخت را حل نمی‌کند، بلکه با دور زدن تحریم‌ها، دست روسیه را در جنگ بازتر می‌گذارد.",
+            "سیاست‌های تقابلی ترامپ با ج.ا عامل اصلی بی‌ثباتی بازار انرژی و افزایش قیمت‌هاست."
+        ],
+        "impact": "تضعیف رژیم تحریم‌ها علیه روسیه و تداوم بحران انرژی به دلیل سیاست‌های منطقه‌ای ترامپ.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/10/13/trump-russia-diesel-ukraine/",
+        "clean_url": "https://www.baltimoresun.com/2026/10/13/trump-russia-diesel-ukraine",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/12/Europe_Summit_Trump_56280-1.jpg?w=2000&h=1337",
+        "timestamp": 1791914940.0
+    },
+    {
         "id": "8af1fb18f3",
         "title_fa": "شکاف در راهبرد مشترک واشینگتن و تل‌آویو علیه تهران",
         "title_en": "Israel–US Strategic Cooperation Against Iran: Limits And Divergences – Analysis",
@@ -646,6 +665,24 @@
         "clean_url": "https://www.middleeasteye.net/opinion/iran-will-not-trade-its-nuclear-insurance-policy-temporary-american-promises",
         "image": "http://www.bing.com/th?id=ONUT.owcQECq4sZjnPsUXAM9LOg&pid=News",
         "timestamp": 1791872400.0
+    },
+    {
+        "id": "7f323de36c",
+        "title_fa": "هشدار امنیتی بریتانیا درباره توطئه‌های تروریستی ج.ا",
+        "title_en": "British MI5 leader warns of attacks by Iran",
+        "summary": [
+            "رئیس سازمان اطلاعات داخلی بریتانیا مستقیماً ج.ا را عامل حملات و تلاش‌های خرابکارانه اخیر در خاک این کشور معرفی کرد.",
+            "این موضع‌گیری نشان‌دهنده پایان مدارای امنیتی اروپا با فعالیت‌های برون‌مرزی نیروهای اطلاعاتی ج.ا است."
+        ],
+        "impact": "افزایش فشار دیپلماتیک و احتمال اخراج دیپلمات‌های ج.ا از بریتانیا.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "UPI",
+        "url": "https://www.upi.com/Top_News/World-News/2026/10/13/MI55/8681791910429/",
+        "clean_url": "https://www.upi.com/Top_News/World-News/2026/10/13/MI55/8681791910429",
+        "image": "http://www.bing.com/th?id=ONUT.4O5do5SnLLyvg4jdH0U9ew&pid=News",
+        "timestamp": 1791872160.0
     },
     {
         "id": "1e90ae09eb",
@@ -5456,41 +5493,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-retains-missile-drone-production-capabilities-despite-months-of-us-israeli-strikes/ar-AA2dXgxc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791615027.0
-    },
-    {
-        "id": "8874872294",
-        "title_fa": "صفر شدن درآمدهای نفتی جـمـهـورـی اسـلا‌مـی تا آذرماه",
-        "title_en": "Iran's oil lifeline could run dry by mid-December, Kpler says",
-        "summary": [
-            "موسسه کپلر اعلام کرد حجم نفت روی آب ایران به شدت کاهش یافته و محموله‌های باقی‌مانده تا اواخر مهرماه تخلیه می‌شوند.",
-            "با توقف کامل بارگیری نفت در شهریورماه، تهران ماهانه بین ۳ تا ۶ میلیارد دلار درآمد از دست خواهد داد."
-        ],
-        "impact": "فشار بی‌سابقه تحریم‌های نفتی، ماشین مالی حکومت را در آستانه فروپاشی کامل قرار داده است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "iranintl",
-        "url": "https://www.iranintl.com/en/202610104788",
-        "clean_url": "https://www.iranintl.com/en/202610104788",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791613560.0
-    },
-    {
-        "id": "da9ab04427",
-        "title_fa": "چالش‌های فنی سنگین آمریکا در پروژه بازگشت به ماه",
-        "title_en": "America Plans To Conquer The Moon Again. Here's What It Will Take To Stay",
-        "summary": [
-            "برنامه بلندپروازانه کاخ سفید برای ایجاد پایگاه دائمی در ماه با موانع پیچیده فنی روبه‌روست.",
-            "تأمین انرژی، سیستم‌های ارتباطی و محافظت در برابر تشعشعات از چالش‌های اصلی ناسا است."
-        ],
-        "impact": "افزایش هزینه‌ها و طولانی شدن زمان‌بندی پروژه‌های فضایی راهبردی آمریکا",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/america-plans-conquer-moon-again-130642000.html",
-        "clean_url": "https://www.aol.com/articles/america-plans-conquer-moon-again-130642000.html",
-        "image": "https://hermes.media.transform.aol.com/b2f61787f67773279542891a251b9c25185bcea0/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/10/ef1fa43d-a888-3cb6-9585-b2ee42f55923/f00abb0d-a4f6-4901-ba2a-4910eebceb83.jpg",
-        "timestamp": 1791612960.0
     }
 ]
