@@ -1,5 +1,24 @@
 [
     {
+        "id": "048533aea3",
+        "title_fa": "هدف‌گیری باغ‌های زیتون در جنوب لبنان توسط ارتش اسرائیل",
+        "title_en": "Olive Trees in S. Lebanon Under Israeli Fire: Deprivation of Harvest Seasons Erodes Village Memory",
+        "summary": [
+            "کشاورزان جنوب لبنان برای سومین سال پیاپی از برداشت محصول زیتون محروم مانده‌اند.",
+            "کشته شدن یک نظامی بازنشسته لبنانی در زمین کشاورزی خود، خطر جدی حضور در مناطق مرزی را نشان می‌دهد.",
+            "شکایتی در فرانسه برای نابودی درختان کهنسال زیتون توسط نظامیان اسرائیلی ثبت شده است."
+        ],
+        "impact": "فلج شدن اقتصاد محلی و نابودی معیشت روستاییان در مناطق مرزی جنوب لبنان.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/features/5329008-olive-trees-s-lebanon-under-israeli-fire-deprivation-harvest-seasons-erodes",
+        "clean_url": "https://english.aawsat.com/features/5329008-olive-trees-s-lebanon-under-israeli-fire-deprivation-harvest-seasons-erodes",
+        "image": "https://static.srpcdigital.com/2026-10/1820427.jpeg?VersionId=uXY0va1FkeqVVynMIn.cWLh.onmQdNYE",
+        "timestamp": 1791878220.0
+    },
+    {
         "id": "b896728b0c",
         "title_fa": "استحکام‌بخشی به مراکز هسته‌ای و تهدید کشورهای خلیج فارس",
         "title_en": "Iran fortifying nuclear sites; warns of land incursions into Gulf states if the US launches new strikes - report",
@@ -5456,23 +5475,5 @@
         "clean_url": "https://www.iranintl.com/202610103157",
         "image": "http://www.bing.com/th?id=ONUT.mf_9aff-ESGXhnPcUxvxYA&pid=News",
         "timestamp": 1791569520.0
-    },
-    {
-        "id": "280255a6df",
-        "title_fa": "ادعای ترامپ درباره پایان زودهنگام تقابل با ج.م",
-        "title_en": "Donald Trump claims Iran war will 'end very soon' in White House speech",
-        "summary": [
-            "دونالد ترامپ در سخنرانی خود در کاخ سفید مدعی شد که درگیری با ایران بسیار زود به پایان می‌رسد.",
-            "این موضع نشان‌دهنده ارزیابی واشنگتن از توان پایین بازدارندگی تهران در برابر فشارهای همه‌جانبه است."
-        ],
-        "impact": "کاهش نسبی هیجان بازار ارز با سیگنال‌های مثبت از سوی کاخ سفید",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16MUM0UzNXT3ItQVdfM283WS1aMm5kZVRmeW93SmdHa1Q4bkprc01YX2xKTWRuRGRMbEMtODRYMUhsaTRMRVFmb0RUQ2RpOW1NcGFMOVREOTVLcDZ5bWNMdFBteExpMVhJdmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16MUM0UzNXT3ItQVdfM283WS1aMm5kZVRmeW93SmdHa1Q4bkprc01YX2xKTWRuRGRMbEMtODRYMUhsaTRMRVFmb0RUQ2RpOW1NcGFMOVREOTVLcDZ5bWNMdFBteExpMVhJdmc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791568790.0
     }
 ]
