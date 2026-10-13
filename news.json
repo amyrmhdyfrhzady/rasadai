@@ -54,6 +54,25 @@
         "timestamp": 1791860100.0
     },
     {
+        "id": "0a30cf6bcf",
+        "title_fa": "تهدید منافع آمریکا توسط حوثی‌ها در صورت اقدام نظامی ترامپ",
+        "title_en": "Trump denounces Houthi attacks after Saudi crown prince call as coalition intercepts missiles",
+        "summary": [
+            "دونالد ترامپ حملات موشکی به فرودگاه ریاض را که تلفات سنگینی برجای گذاشت، محکوم کرد.",
+            "گروه حوثی تهدید کرده در صورت همراهی آمریکا با حملات عربستان، ضربات دردناکی به منافع واشنگتن در منطقه می‌زند.",
+            "به کارکنان تاسیسات نفتی و فرودگاه‌های عربستان هشدار داده شده که این مکان‌ها اهداف مشروع محسوب می‌شوند."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی مستقیم آمریکا با نیابتی‌های ایران و ناامنی شدید در تاسیسات انرژی منطقه.",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-us-trump-houthis-saudi-arabia-october-12",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-us-trump-houthis-saudi-arabia-october-12",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/8bc586dda5b1b8aa25e91470dff1c3af.jpg",
+        "timestamp": 1791856680.0
+    },
+    {
         "id": "208691d4a8",
         "title_fa": "رصد روزانه قیمت بنزین در ایالات متحده",
         "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
@@ -5457,23 +5476,5 @@
         "clean_url": "https://www.iranintl.com/202610101263",
         "image": "http://www.bing.com/th?id=ONUT.xhfRJa2-QUQZtbnJCR9RHQ&pid=News",
         "timestamp": 1791565200.0
-    },
-    {
-        "id": "27038b0596",
-        "title_fa": "آسیب‌پذیری پایگاه‌های آمریکایی؛ درس‌هایی از جنگ با جـ.م",
-        "title_en": "Iran war bared a hidden flaw: Shore up US bases — or risk disaster",
-        "summary": [
-            "حوادث اخیر نظامی ضعف‌های پنهان و ساختاری را در پایگاه‌های نظامی آمریکا آشکار کرده است.",
-            "خروج شتابزده بمب‌افکن‌های B-1 از بریتانیا نشان‌دهنده نیاز مبرم به ایمن‌سازی زیرساخت‌های دفاعی است."
-        ],
-        "impact": "پنتاگون ناچار است برای جلوگیری از فجایع احتمالی، حفاظت از پایگاه‌های منطقه‌ای خود را بازنگری کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-bared-a-hidden-flaw-shore-up-us-bases-or-risk-disaster/ar-AA2dVQ4N",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-bared-a-hidden-flaw-shore-up-us-bases-or-risk-disaster/ar-AA2dVQ4N",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791565063.0
     }
 ]
