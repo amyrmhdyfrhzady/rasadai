@@ -237,6 +237,24 @@
         "timestamp": 1791912957.0
     },
     {
+        "id": "ea5d87567d",
+        "title_fa": "تصمیم قریب‌الوقوع ترامپ درباره ایران و فشار حداکثری جدید",
+        "title_en": "Trump says Iran decision coming, suggests Tehran behind Houthi attacks",
+        "summary": [
+            "دونالد ترامپ با اشاره به وضعیت فاجعه‌بار اقتصادی، تورم سی درصدی و ناتوانی مالی ج-م-ه-و-ر-ی ا-س-لا-م-ی در پرداخت حقوق نیروها، از تصمیم‌گیری زودهنگام واشنگتن خبر داد.",
+            "هم‌زمان با حملات تشدیدشده حوثی‌های یمن به کشتیرانی تجاری در تنگه هرمز و عربستان، ترامپ تهران را عامل اصلی این تنش‌ها دانست."
+        ],
+        "impact": "بازارهای مالی ایران با شنیدن خبر تصمیمات سخت‌گیرانه واشنگتن دچار التهاب شدید خواهند شد.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610137695",
+        "clean_url": "https://www.iranintl.com/en/202610137695",
+        "image": "http://www.bing.com/th?id=ONUT.R6jzMs8me_TTck7Fva86sQ&pid=News",
+        "timestamp": 1791909300.0
+    },
+    {
         "id": "0c830b3aee",
         "title_fa": "خیز آنجی نیکسون برای شگفتی‌سازی در انتخابات فلوریدا",
         "title_en": "Can This Florida Dem Pull Off One More Big Surprise?",
@@ -5473,24 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791635050.0
-    },
-    {
-        "id": "072d2ca4cc",
-        "title_fa": "توافق مسکو و واشنگتن برای از سرگیری صادرات گازوئیل روسیه",
-        "title_en": "Russian government partially lifts diesel export ban following Putin-Trump agreements",
-        "summary": [
-            "دولت روسیه بخشی از ممنوعیت صادرات گازوئیل را پس از تماس تلفنی پوتین و ترامپ لغو کرد.",
-            "در مرحله اول پانصد هزار تن گازوئیل روسیه روانه بازارهای جهانی خواهد شد.",
-            "شرکت‌های نفتی روسیه فوراً قراردادهای صادراتی جدید را با هماهنگی دولت کلید می‌زنند."
-        ],
-        "impact": "تخلیه بخشی از فشار عرضه سوخت در بازار جهانی با چراغ سبز کاخ سفید و کرملین.",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2200347",
-        "clean_url": "https://tass.com/economy/2200347",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261010/1489397.jpg",
-        "timestamp": 1791634440.0
     }
 ]
