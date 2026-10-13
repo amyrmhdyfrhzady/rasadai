@@ -54,6 +54,24 @@
         "timestamp": 1791860100.0
     },
     {
+        "id": "208691d4a8",
+        "title_fa": "رصد روزانه قیمت بنزین در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "گزارش‌های روزانه رسانه‌های آمریکایی تغییرات قیمت سوخت را در ایالت‌های مختلف پیگیری می‌کنند.",
+            "نوسانات بهای بنزین به طور مستقیم بر تورم داخلی و تصمیم‌گیری‌های اقتصادی دولت تاثیر می‌گذارد."
+        ],
+        "impact": "تغییرات قیمت سوخت به شاخصی مهم برای ارزیابی وضعیت اقتصادی خانوارها در آمریکا تبدیل شده است.",
+        "tag": "اقتصادی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791855749.0
+    },
+    {
         "id": "3fe31ba22e",
         "title_fa": "بن‌بست در مذاکرات پنهان تهران و واشنگتن بر سر تنگه هرمز",
         "title_en": "Why have US-Iran talks over the Strait of Hormuz hit a deadlock?",
@@ -5457,23 +5475,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-bared-a-hidden-flaw-shore-up-us-bases-or-risk-disaster/ar-AA2dVQ4N",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791565063.0
-    },
-    {
-        "id": "7a0c94b5c2",
-        "title_fa": "بازگشت کامل نفت عربستان به بازار اروپا",
-        "title_en": "بلومبرگ: عربستان سعودی از ماه آینده صادرات نفت به اروپا را بهطور کامل از سر میگیرد",
-        "summary": [
-            "شرکت آرامکو پس از تعمیر خط لوله شرق به غرب، صادرات کامل نفت به پالایشگاه‌های اروپایی را از نوامبر از سر می‌گیرد.",
-            "این تصمیم آرامکو پس از یک دوره اختلال ناشی از حملات به زیرساخت‌ها و تلاش اروپا برای یافتن منابع جایگزین اتخاذ شد."
-        ],
-        "impact": "کاهش فشار بر قیمت نفت در بازار اروپا و ضربه به منافع نفتی ج.ا در بازار انرژی.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610095027",
-        "clean_url": "https://www.iranintl.com/202610095027",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/9ff2b1af51f884d73be27754dd87bed6cec69051-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791564840.0
     }
 ]
