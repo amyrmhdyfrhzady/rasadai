@@ -184,6 +184,25 @@
         "timestamp": 1791887205.0
     },
     {
+        "id": "05c1fb1be2",
+        "title_fa": "عقب‌نشینی تلویزیون حکومت از نام خزر به کاسپین",
+        "title_en": "State TV calls Iran’s northern sea by its English name, citing Israeli agenda",
+        "summary": [
+            "رسانه ملی جمهوری اسلامی در اقدامی عجیب نام دریای شمال را از خزر به کاسپین تغییر داد.",
+            "این تصمیم پس از انتشار ادعاهایی مبنی بر ارتباط نام قبلی با منافع اسرائیل در قفقاز اتخاذ شد.",
+            "تغییر نام دریاها در رسانه حکومتی نشان‌دهنده سردرگمی دستگاه پروپاگاندا در روایت‌های تاریخی است."
+        ],
+        "impact": "آغاز جنگ واژگانی جدید در رسانه‌های حکومتی ایران پیرامون هویت جغرافیایی.",
+        "tag": "رسانه",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610136764",
+        "clean_url": "https://www.iranintl.com/en/202610136764",
+        "image": "http://www.bing.com/th?id=ONUT.cvsfcWKA6G54owaTpAC76Q&pid=News",
+        "timestamp": 1791883200.0
+    },
+    {
         "id": "c49cd8d5a2",
         "title_fa": "تغییر استراتژی کتی وود در سهام متا",
         "title_en": "Cathie Wood makes surprising Meta move on Zuckerberg's AI push",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://www.iranintl.com/202610104135",
         "image": "http://www.bing.com/th?id=ONUT.eVLBzMqgYiPNMECNlY4Fyw&pid=News",
         "timestamp": 1791603780.0
-    },
-    {
-        "id": "4061529fd4",
-        "title_fa": "حمله پهپادی مرگبار در سودان با ۴۰ کشته",
-        "title_en": "Drone strike in Sudan kills 40, including children: rights group",
-        "summary": [
-            "نیروهای واکنش سریع سودان متهم اصلی حمله پهپادی به منطقه ابوشندی در استان نیل آبی هستند.",
-            "سازمان‌های حقوق بشری از کشتار غیرنظامیان از جمله کودکان در این درگیری‌ها به شدت ابراز نگرانی کردند."
-        ],
-        "impact": "گسترش فاجعه انسانی و افزایش تلفات غیرنظامیان در جنگ داخلی سودان.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/10/world-news/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift/",
-        "clean_url": "https://nypost.com/2026/10/10/world-news/drone-strike-in-sudan-kills-40-lebanon-welcomes-us-flight-ban-lift",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/palestinians-walk-along-street-surrounded-144491774.jpg?quality=75&strip=all&w=1200",
-        "timestamp": 1791602340.0
     }
 ]
