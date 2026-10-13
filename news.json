@@ -148,6 +148,25 @@
         "timestamp": 1791909138.2801187
     },
     {
+        "id": "b2755ce5f5",
+        "title_fa": "تلاش هند برای مهار سقوط ارزش روپیه در بازار ارز",
+        "title_en": "India signals more RBI moves to steady a sliding rupee",
+        "summary": [
+            "وزیر دارایی هند تأکید کرد که بانک مرکزی این کشور به دنبال تثبیت نرخ ارز و مهار نوسانات شدید است، نه تعیین نرخ دستوری.",
+            "ارزش روپیه در سال جاری میلادی نزدیک به شش درصد افت داشته و این افت شدید باعث خروج سرمایه از کشور شده است.",
+            "مداخله‌های پی در پی بانک مرکزی هند موقت بوده و فشار سنگین بر اقتصاد این کشور همچنان پابرجاست."
+        ],
+        "impact": "تشدید خروج سرمایه از هند و ادامه تلاش‌های ارزی بانک مرکزی.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/india-signals-more-rbi-moves-to-steady-a-sliding-rupee/",
+        "clean_url": "https://www.briefs.co/news/india-signals-more-rbi-moves-to-steady-a-sliding-rupee",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/10/india-signals-more-rbi-moves-to-steady-a-sliding-rupee.png",
+        "timestamp": 1791907500.0
+    },
+    {
         "id": "c9acb48e21",
         "title_fa": "سقوط قیمت نفت در پی فروکش کردن تنش‌های مستقیم",
         "title_en": "Oil Falls as Investors Await Clarity After Iran-Israel Halt Attacks",
@@ -184,6 +203,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmNZZUE4RWRaaVRzZmZ0RlBPS2cwUlR2U1NjRS1nbmtnRnNOUVUyeVdIYl9ZWmR5SXRtSTRBMW9GaFdyRVlSa0g1cFhTem9WLTBfQjM5ZHNYV3BNZEhMQU4ya2t2SXktYmN3UWJZUlI0M2ZGZlpqRnA4NHQtSTVNM3lPQTVZRkx5N3FINmNlOEpiRlRtZmpicE5LT0MwSVp4UFZ2dmhWWlpGZGkwWTROdHJkSXRGcTdjLUFBWHpPZ3FGM2s50gHKAUFVX3lxTE9PNGFXOVhoMDl0c09kMlJETFZ0ajgxLWdVdFM2ODlKVDNhRzRpQTlmdVZ1WTZoZlpXakJpRnhHLUF1WTFRazhHYlZtc3F5Nk54UFU3RXpXT3dueVlObk0wdEJLRWhCRUVndzdLYk5wWjhtank0U00zcDhsTFdUb1pSeDduTE15S1h6MDBRMjg2V09TbElkWV9NemJhd1JTdlBBbndXb19LTVZRaGVoYlI0YUFwQ2FOcEd6ZlAtbF93akkxY1pkWlZNZUE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791906181.0
+    },
+    {
+        "id": "0a9fe20c16",
+        "title_fa": "ریزش سهام فناوری و بازارهای نوظهور زیر سایه هوش مصنوعی",
+        "title_en": "AI jitters hit emerging markets as chip stocks slide and currencies wobble",
+        "summary": [
+            "شاخص سهام کشورهای درحال‌توسعه بیش از دو درصد افت کرد تا سنگین‌ترین ریزش دو ماه اخیر ثبت شود.",
+            "پیشرفت رقیب چینی در حوزه تراشه‌های حافظه، زنگ خطر را برای غول‌های فناوری کره جنوبی و تایوان به صدا درآورد.",
+            "کارشناسان بازار معتقدند تأثیر رقابتی این فناوری جدید بر بازار به دلیل چرخه‌های طولانی ارزیابی، تدریجی خواهد بود."
+        ],
+        "impact": "افت ارزش سهام فناوری و خروج سرمایه از بازارهای نوظهور آسیا.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/ai-jitters-hit-emerging-markets-as-chip-stocks-slide-and-cur/",
+        "clean_url": "https://www.briefs.co/news/ai-jitters-hit-emerging-markets-as-chip-stocks-slide-and-cur",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/10/ai-jitters-hit-emerging-markets-as-chip-stocks-slide-and-cur.png",
+        "timestamp": 1791905760.0
     },
     {
         "id": "b35f14fbc4",
@@ -5456,42 +5494,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/lebanon-welcomes-trump-s-move-to-lift-41-year-us-flight-ban-and-other-mideast-developments/ar-AA2dWTjl",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dR5BM.img?w=1400&h=933&m=4&q=84",
         "timestamp": 1791625200.0
-    },
-    {
-        "id": "5db7a96b24",
-        "title_fa": "ادعای مسعود پزشکیان درباره شکست برنامه دشمنان برای ایجاد قحطی",
-        "title_en": "Iran's president says enemies tried to cause famine",
-        "summary": [
-            "مسعود پزشکیان ادعا کرد فشارهای اقتصادی و تلاش برای ایجاد قحطی در کشور با شکست مواجه شده است.",
-            "او راه حل عبور از تحریم‌ها را تکیه بر تولید داخلی و پیدا کردن مسیرهای جایگزین عنوان کرد."
-        ],
-        "impact": "تلاش مقامات جـمهوری اسـلامی برای عادی‌سازی وضعیت بحرانی اقتصاد و بزرگنمایی توان مقابله با تحریم‌ها.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610108136",
-        "clean_url": "https://www.iranintl.com/en/202610108136",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791621780.0
-    },
-    {
-        "id": "23412ccdbd",
-        "title_fa": "تهدید صادرات نفت ج.ه. توسط آمریکا و صفر شدن درآمدها",
-        "title_en": "کپلر: درآمد نفتی ایران در صورت تداوم محاصره آمریکا ممکن است تا اواخر آذر به صفر برسد",
-        "summary": [
-            "شرکت کپلر هشدار داد که تداوم محاصره دریایی آمریکا علیه ج.ه.، درآمد نفتی این حکومت را تا اواخر آذر به صفر می‌رساند.",
-            "تهران ممکن است ماهانه تا شش میلیارد دلار از درآمدهای حیاتی خود را از دست بدهد.",
-            "حجم نفت روی آب ایران از ۹۰ میلیون بشکه به تنها ۸ میلیون بشکه سقوط کرده است."
-        ],
-        "impact": "فلج شدن کامل شریان‌های مالی حکومت و فروپاشی درآمد ارزی ناشی از فروش نفت.",
-        "tag": "نفت",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610100070",
-        "clean_url": "https://www.iranintl.com/202610100070",
-        "image": "http://www.bing.com/th?id=ONUT.RwLAhaheBotZerG3fhOdmw&pid=News",
-        "timestamp": 1791621480.0
     }
 ]
