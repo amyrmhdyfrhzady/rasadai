@@ -1069,6 +1069,24 @@
         "timestamp": 1791867600.0
     },
     {
+        "id": "baad4d2f34",
+        "title_fa": "حوثی‌ها و ناامن‌سازی دریای سرخ",
+        "title_en": "Who are Houthis and why are they attacking Saudi Arabia?",
+        "summary": [
+            "حوثی‌ها یک جنبش نظامی و سیاسی در یمن هستند که با حمایت ج.م.ا کنترل شمال غرب این کشور را در دست دارند.",
+            "این گروه با حملات مکرر به نفت‌کش‌ها و کشتی‌های تجاری، تجارت جهانی و بازار انرژی را مختل کرده است."
+        ],
+        "impact": "افزایش هزینه حمل‌ونقل دریایی و تهدید مستقیم امنیت انرژی در آب‌های بین‌المللی.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "NDTV",
+        "url": "https://www.msn.com/en-in/news/other/who-are-houthis-and-why-are-they-attacking-saudi-arabia/ar-AA2e6Gyh",
+        "clean_url": "https://www.msn.com/en-in/news/other/who-are-houthis-and-why-are-they-attacking-saudi-arabia/ar-AA2e6Gyh",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2e7aIA.img?w=1280&h=720&m=4&q=87",
+        "timestamp": 1791867325.0
+    },
+    {
         "id": "e0b0b306f5",
         "title_fa": "دست داشتن س پ ا ه در طرح حمله به پایگاه هوایی انگلیس",
         "title_en": "UK Blames Iran’s IRGC for Bomber Base Plot as Tehran Rejects Accusations",
@@ -5474,24 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202610116174",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791631860.0
-    },
-    {
-        "id": "8196f6c034",
-        "title_fa": "استقرار بیش از ۵۰ یگان رزمی ارتش در مرزها",
-        "title_en": "More than 50 Iranian army units deployed along borders, commander says",
-        "summary": [
-            "ارتش جـ.ـمـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی از استقرار بیش از ۵۰ یگان رزمی و پشتیبانی در مرزهای مختلف کشور خبر داد.",
-            "این جابجایی‌ها پس از درگیری‌های نظامی با اسرائیل و با هدف بازسازی ساختار دفاعی انجام شده است.",
-            "مقام‌های نظامی به ساخت تونل‌ها و کانال‌های زیرزمینی برای کاهش تلفات نیروی انسانی اعتراف کردند."
-        ],
-        "impact": "افزایش حضور نظامی در مناطق مرزی نشانگر ترس حاکمیت از ناآرامی‌های داخلی و درگیری‌های منطقه‌ای است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610104840",
-        "clean_url": "https://www.iranintl.com/en/202610104840",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/98490a7ab29713eb61aa9f76c8e232099f4aa0d0-1200x800.jpg?rect=162,98,675,675&w=200&h=200&q=58&fit=crop&auto=format",
-        "timestamp": 1791630480.0
     }
 ]
