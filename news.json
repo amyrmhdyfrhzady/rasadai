@@ -36,6 +36,24 @@
         "timestamp": 1792001204.0
     },
     {
+        "id": "b50d57de1f",
+        "title_fa": "تهدید تند وزیر دفاع اسرائیل به اشغال خاک ل*ب*ن*ا*ن",
+        "title_en": "Defense Minister Katz threatens to seize Lebanese land if Hezbollah, Iran attack",
+        "summary": [
+            "اسرائیل به ج*م*ه*و*ر*ی ا*س*لا*م*ی و ن*ی*ر*و*ه*ا*ی م*ت*ع*ل*ق به آن درباره هرگونه اقدام نظامی هشدار داد.",
+            "تهدید به تصرف اراضی ل*ب*ن*ا*ن نشان‌دهنده تغییر دکترین نظامی اسرائیل به سمت ضربات بازدارنده سرزمینی است."
+        ],
+        "impact": "افزایش شدید ریسک امنیتی و احتمال گسترش درگیری‌ها به مرزهای شمالی ل*ب*ن*ا*ن.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43TFd6VmlWR3B2OGZCaXZMbVhxRmZ0YVdMTmxKaWZ0d1psWFRsVGhId3VKVVFFeXBnMzJaM0dPcnlqR3ZSSGlxZjBkV2pjTEI5MDdCU2pRU0dXSHFwMjZTdkhzVi1HcWxpd2tXUDlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43TFd6VmlWR3B2OGZCaXZMbVhxRmZ0YVdMTmxKaWZ0d1psWFRsVGhId3VKVVFFeXBnMzJaM0dPcnlqR3ZSSGlxZjBkV2pjTEI5MDdCU2pRU0dXSHFwMjZTdkhzVi1HcWxpd2tXUDlR",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791999729.0
+    },
+    {
         "id": "e3a2417168",
         "title_fa": "سایه جنگ با ایـران بر انتخابات آمریکا و اسرائیل",
         "title_en": "How war with Iran is influencing Israeli, US elections - analysis",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears",
         "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/165090199/image_165090199.jpg?io=getty-c-w630",
         "timestamp": 1791763860.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "همکاری یونیکردیت و بنیاد نجات کودکان برای کاهش ترک‌تحصیل",
-        "title_en": "Save the Children and UniCredit to strengthen student participation and prevent dropout (2)",
-        "summary": [
-            "بانک اروپایی یونیکردیت با تأمین مالی پروژه «فوئوری‌کلاسه»، برنامه حمایت از نوجوانان در معرض ترک تحصیل را توسعه می‌دهد.",
-            "تمرکز این طرح بر تقویت مشارکت دانش‌آموزان در تصمیم‌گیری‌های آموزشی و ایجاد محیط‌های آموزشی امن‌تر است."
-        ],
-        "impact": "توسعه چتر حمایتی آموزشی برای پیشگیری از افت تحصیلی کودکان در مناطق محروم ایتالیا.",
-        "tag": "اجتماعی",
-        "urgency": 1,
-        "sentiment": 0.4,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261012KRONOS-202610121489378647_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1791763200.0
     }
 ]
