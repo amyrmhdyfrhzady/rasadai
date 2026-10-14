@@ -18,6 +18,24 @@
         "timestamp": 1791967444.0
     },
     {
+        "id": "fd83310f2b",
+        "title_fa": "حمله پهپادی ناشناس به قایق صیادی در آب‌های جنوبی",
+        "title_en": "Three fishermen injured in apparent drone incident off southern Iran, authorities say",
+        "summary": [
+            "سه صیاد ایرانی در جریان اصابت یک پهپاد ناشناس به شناورشان در نزدیکی بندرسیریک زخمی شدند.",
+            "این رخداد امنیتی در آب‌های استان هرمزگان رخ داده و مقام‌های محلی جزئیات دقیقی از هویت پرنده مهاجم ارائه نکرده‌اند."
+        ],
+        "impact": "افزایش ناامنی و تنش در آب‌های جنوبی و اثبات آسیب‌پذیری زیرساخت‌های ساحلی در برابر تهدیدات پرنده.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/three-fishermen-injured-in-apparent-drone-incident-off-southern-iran-authorities-say/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/three-fishermen-injured-in-apparent-drone-incident-off-southern-iran-authorities-say",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791967380.0
+    },
+    {
         "id": "2f44d6f68c",
         "title_fa": "دور زدن تحریم‌ها؛ روش‌های انتقال پول ایرانیان به خارج",
         "title_en": "How do Iranians move money abroad to avoid US sanctions?",
@@ -5467,24 +5485,5 @@
         "clean_url": "https://www.iranintl.com/en/202610103353",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791673020.0
-    },
-    {
-        "id": "7659f591a7",
-        "title_fa": "صفر شدن درآمدهای نفتی جـ.ـهـ.ـوری ا‌سـ.ـلا‌مـ.ـی تا دسامبر",
-        "title_en": "Trump calls Iranian officials 'crazy,' warns of possible moves before US election",
-        "summary": [
-            "داده‌های شرکت کپلر نشان می‌دهد که صادرات نفت خام و میگعانات گازی در ماه سپتامبر کاملاً متوقف شده است.",
-            "با تخلیه آخرین محموله‌های نفتی در آب‌های چین تا اواسط آذر ماه، روند ورودی پول به خزانه حکومت به طور کامل قطع خواهد شد.",
-            "فشار تحریم‌ها و رویکرد سخت‌گیرانه د‌ونـ.ـا‌لد تـ.ـرا‌مـ.ـپ در حال مسدود کردن آخرین مسیرهای تنفس مالی تهران است."
-        ],
-        "impact": "فلج شدن کامل ماشین مالی حکومت و فروپاشی توان تامین هزینه‌های داخلی و نیابتی.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610108055",
-        "clean_url": "https://www.iranintl.com/en/202610108055",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791668700.0
     }
 ]
