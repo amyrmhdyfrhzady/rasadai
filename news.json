@@ -434,6 +434,42 @@
         "timestamp": 1791969298.0
     },
     {
+        "id": "61c9955bf0",
+        "title_fa": "افزایش ۳.۶ درصدی مستمری تامین اجتماعی آمریکا در سال ۲۰۲۷",
+        "title_en": "Trump administration promises social security recipients 3.6% increase in 2027",
+        "summary": [
+            "سازمان تامین اجتماعی آمریکا از اعمال تعدیل هزینه زندگی و افزایش ۳.۶ درصدی مزایای بازنشستگی خبر داد.",
+            "این تصمیم برای مقابله با تورم فزاینده و افزایش قیمت سوخت و کالاها اتخاذ شده است."
+        ],
+        "impact": "توزیع منابع مالی جدید میان ۷۶ میلیون شهروند آمریکایی برای کاهش فشار تورم.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
+        "clean_url": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
+        "image": "https://i.guim.co.uk/img/media/7ad856d7fa22f720078aa612080d22939cc2359b/609_0_4413_3531/master/4413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f73955ad4b830c14f949d48865d2380",
+        "timestamp": 1791968940.0
+    },
+    {
+        "id": "e46c873ed1",
+        "title_fa": "شکست دولت ترامپ در دادگاه؛ بازگشت خبرنگاران به کاخ سفید",
+        "title_en": "CNN chief reacts to judge’s ruling on Trump press ban",
+        "summary": [
+            "قاضی فدرال حکم داد که دولت ترامپ باید دسترسی رسانه‌های منتقد از جمله CNN را به کاخ سفید حفظ کند.",
+            "این تصمیم در جریان رسیدگی به شکایت رسانه‌ها علیه ممنوعیت‌های مطبوعاتی دولت صادر شده است."
+        ],
+        "impact": "عقب‌نشینی حقوقی دولت در برابر فشار رسانه‌ای و شکست طرح محدودسازی پوشش خبری.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/14/politics/video/trump-media-ban-ruling-cnc",
+        "clean_url": "https://www.cnn.com/2026/10/14/politics/video/trump-media-ban-ruling-cnc",
+        "image": "http://www.bing.com/th?id=ONUT._qqOu9CwFK02Oq233KNNGQ&pid=News",
+        "timestamp": 1791968580.0
+    },
+    {
         "id": "fa929c4779",
         "title_fa": "شکست سیاست فشار قیمت ترامپ با نقش‌آفرینی ایران",
         "title_en": "Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote too",
@@ -486,6 +522,24 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/deri-says-shas-wont-join-next-government-unless-haredi-draft-exemptions-are-enshrined-in-law",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261014CG15.jpg",
         "timestamp": 1791967860.0
+    },
+    {
+        "id": "ce3fe8287e",
+        "title_fa": "مچ‌گیری وزارت خزانه‌داری از بانک‌های بزرگ آمریکا به جرم رویکرد سیاسی",
+        "title_en": "Treasury says largest U.S. banks let politics influence who received banking services",
+        "summary": [
+            "بازرسی خزانه‌داری آمریکا نشان می‌دهد بزرگترین بانک‌های این کشور بر اساس ملاحظات سیاسی و فشارهای اجتماعی اقدام به محدودسازی خدمات مالی به مشتریان کرده‌اند.",
+            "این گزارش ادعاهای ترامپ مبنی بر تبعیض بانک‌ها علیه محافظه‌کاران را تایید می‌کند."
+        ],
+        "impact": "فشار سنگین تنظیم‌گران مالی بر سیستم بانکی آمریکا برای توقف رویکردهای سیاسی در ارائه خدمات.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+        "clean_url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+        "image": "http://www.bing.com/th?id=ONUT.69Mm4enlybL75fetPwdoMg&pid=News",
+        "timestamp": 1791967500.0
     },
     {
         "id": "45a7dbc440",
@@ -648,6 +702,24 @@
         "clean_url": "https://tass.com/world/2202059",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1791960240.0
+    },
+    {
+        "id": "204d3d2963",
+        "title_fa": "جنجال نماینده حامی ترامپ بر سر گرانی گازوئیل",
+        "title_en": "‘You Are Rude!’: MAGA Lawmaker Crashes Out After Crowd Laughs At His Diesel Price Excuses",
+        "summary": [
+            "اندی هریس، قانون‌گذار حامی ترامپ، پس از خنده حاضران به توجیهاتش درباره گرانی گازوئیل، کنترل خود را از دست داد و جمعیت را بی‌ادبا خواند.",
+            "بسته شدن تنگه هرمز در پی اقدامات نظامی علیه ایران، شریان‌های انرژی را قفل کرده و هزینه‌های سوخت را به شدت بالا برده است."
+        ],
+        "impact": "افزایش فشار افکار عمومی بر نمایندگان حامی دولت به دلیل بحران سوخت و تورم جنگی.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/maga-rep-andy-harris-crashes-out-excuse-high-gas-prices-you-are-rude_n_6acf52ede4b0e26c18d0d0b0",
+        "clean_url": "https://www.huffpost.com/entry/maga-rep-andy-harris-crashes-out-excuse-high-gas-prices-you-are-rude_n_6acf52ede4b0e26c18d0d0b0",
+        "image": "http://www.bing.com/th?id=ONUT.GbTYvhG-7q0Gl-JrPaNQYQ&pid=News",
+        "timestamp": 1791959580.0
     },
     {
         "id": "b59d972877",
@@ -943,6 +1015,24 @@
         "timestamp": 1791954780.0
     },
     {
+        "id": "137b26c195",
+        "title_fa": "بحران تورم و درگیری سیاسی واشنگتن بر سر جنگ ایران",
+        "title_en": "New nightmare explodes for Trump ahead of midterms: ‘MAGA you got conned’",
+        "summary": [
+            "کاخ سفید تورم موجود را به سیاست‌های دولت قبل و تنش‌های نظامی با ایران گره زده است.",
+            "دولت مدعی است با پایان مناقشه با ایران، قیمت سوخت به سرعت کاهش خواهد یافت."
+        ],
+        "impact": "پرهیز دولت از پذیرش مسئولیت گرانی‌ها و استفاده از کارت سیاست خارجی برای توجیه مشکلات اقتصادی.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "NJ.com",
+        "url": "https://www.nj.com/politics/2026/10/new-nightmare-explodes-for-trump-ahead-of-midterms-maga-you-got-conned.html",
+        "clean_url": "https://www.nj.com/politics/2026/10/new-nightmare-explodes-for-trump-ahead-of-midterms-maga-you-got-conned.html",
+        "image": "http://www.bing.com/th?id=ONUT.v3tF9MFZyHyuF-I9e_eY2g&pid=News",
+        "timestamp": 1791954420.0
+    },
+    {
         "id": "8629e7b73e",
         "title_fa": "تهدید سخت وزیر دفاع اسرائیل علیه حزب‌الله",
         "title_en": "Katz warns Hezbollah of territorial losses if it joins Iran in attack on Israel",
@@ -977,6 +1067,24 @@
         "clean_url": "https://www.radiofarda.com/a/netanyahu-iran-strike-trump-election-irgc-warning/33876531.html",
         "image": "http://www.bing.com/th?id=ONUT.1zZS3NDM6alX3gSxhZ-0Cg&pid=News",
         "timestamp": 1791954060.0
+    },
+    {
+        "id": "711be480ba",
+        "title_fa": "ططرح ۱۰۰ روزه دموکرات‌ها برای مهار سیاست‌های ترامپ",
+        "title_en": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections",
+        "summary": [
+            "دموکرات‌های مجلس نمایندگان آمریکا در صورت پیروزی در انتخابات میان‌دوره‌ای، برنامه‌ای فشرده برای مهار تعرفه‌های ترامپ و توقف جنگ با ایران تدوین کرده‌اند.",
+            "احیای معافیت‌های مالیاتی حوزه سلامت و لغو کاهش بودجه مدیکید از محورهای اصلی این برنامه است."
+        ],
+        "impact": "تشدید تقابل سیاسی در کنگره و تلاش برای تغییر جهت‌گیری‌های کلان اقتصادی و نظامی دولت.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/10/14/house-democrats-agenda-majority-midterm-elections/",
+        "clean_url": "https://www.bostonherald.com/2026/10/14/house-democrats-agenda-majority-midterm-elections",
+        "image": "http://www.bing.com/th?id=ONUT.9VeUf_xB5gxJGKP_-hcmpw&pid=News",
+        "timestamp": 1791953460.0
     },
     {
         "id": "220c06b1ff",
@@ -1159,6 +1267,24 @@
         "clean_url": "https://www.taipeitimes.com/News/world/archives/2026/10/15/2003866013",
         "image": "http://www.bing.com/th?id=ONUT.tXfiWIYC6gqYFIAa4zLn3Q&pid=News",
         "timestamp": 1791946800.0
+    },
+    {
+        "id": "7b3a3d0b07",
+        "title_fa": "ترامپ فرمان اکتشاف منابع در گرینلند را صادر کرد",
+        "title_en": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It’s not that simple",
+        "summary": [
+            "دونالد ترامپ از آغاز قریب‌الوقوع عملیات اکتشاف نفت، گاز و مواد معدنی در گرینلند خبر داد.",
+            "جزئیات اجرایی این طرح هنوز مبهم و نامشخص است."
+        ],
+        "impact": "تغییر معادلات ژئوپلیتیک قطب شمال و چالش جدید در روابط واشنگتن با متحدان اروپایی.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/greenland-denmark-trump-oil-security-rare-earths-2974b68aae17d97a69439bd100847d24",
+        "clean_url": "https://apnews.com/article/greenland-denmark-trump-oil-security-rare-earths-2974b68aae17d97a69439bd100847d24",
+        "image": "http://www.bing.com/th?id=ONUT.q7OmKD4spJL2fcrOiTuUaA&pid=News",
+        "timestamp": 1791944760.0
     },
     {
         "id": "0f322208fe",
@@ -5348,131 +5474,5 @@
         "clean_url": "https://www.kurdistan24.net/en/story/945416/bessent-says-iran-is-biggest-loser-as-us-economic-pressure-intensifies",
         "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1791730726_kurdistan24.jpg",
         "timestamp": 1791730620.0
-    },
-    {
-        "id": "d44e61ec16",
-        "title_fa": "افشای شبکه سایبری ای-ران با خبرنگار قلابی و هوش مصنوعی",
-        "title_en": "Iran-based Network Used AI And Fake Journalists To Place Articles On News Sites, OpenAI Says",
-        "summary": [
-            "شرکت OpenAI از شناسایی یک شبکه وابسته به ج-م-ه-و-ر-ی ا-س-لا-می خبر داد که با هوش مصنوعی و روزنامه‌نگاران دروغین، مقالات سفارشی در سایت‌های خبری منتشر می‌کرد.",
-            "این عملیات روانی با هدف تاثیرگذاری بر افکار عمومی بین‌المللی و پیشبرد روایت‌های حکومتی طراحی شده بود."
-        ],
-        "impact": "افزایش هوشیاری رسانه‌های جهانی نسبت به پروپاگاندهای دیجیتال و عملیات‌های روانی سایبری.",
-        "tag": "سایبری",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMDdZWVBEVkl0ajBqTzFzY0VFX0tfNUt3cmVjN2E2dnBxdXRUR3FEdFoxX2FoUGNIdEpZcGt1VDExMU1lOFZsbXBsMm9xbjJFQ1FhOFh3Y21TX3NSYkpIQUM5SlZYZkg2Y1V3enByUTAxb0thVFBpWHNiYnFKV3lXVXpYSjIxUzdGS3A2OHBUN3JERjV3X2JEcUp1MFJiQVUwQ0JZdndWV2ZuLUlXb0xHcTd4dVViemY5SW9acDV2OWphLTJjV1JNNVRVNkhFQVktT2VvdFJ0UVcwVHA1VWsyVVpVTnVuUkZVb0g4V2dFVjg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMDdZWVBEVkl0ajBqTzFzY0VFX0tfNUt3cmVjN2E2dnBxdXRUR3FEdFoxX2FoUGNIdEpZcGt1VDExMU1lOFZsbXBsMm9xbjJFQ1FhOFh3Y21TX3NSYkpIQUM5SlZYZkg2Y1V3enByUTAxb0thVFBpWHNiYnFKV3lXVXpYSjIxUzdGS3A2OHBUN3JERjV3X2JEcUp1MFJiQVUwQ0JZdndWV2ZuLUlXb0xHcTd4dVViemY5SW9acDV2OWphLTJjV1JNNVRVNkhFQVktT2VvdFJ0UVcwVHA1VWsyVVpVTnVuUkZVb0g4V2dFVjg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791729360.0
-    },
-    {
-        "id": "61838a09d1",
-        "title_fa": "تشدید حملات در تنگه هرمز همزمان با بن‌بست دیپلماسی",
-        "title_en": "Hormuz attacks intensify as efforts to end war on Iran stall",
-        "summary": [
-            "ناامنی‌ها و درگیری‌ها در آبراه حیاتی تنگه هرمز به اوج رسیده است.",
-            "تلاش‌های بین‌المللی برای متوقف کردن درگیری‌ها با جـمـهـوری اسـلامـی فعلاً به بن‌بست خورده است."
-        ],
-        "impact": "اختلال جدی در امنیت انرژی و ترابری دریایی خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791727489.0
-    },
-    {
-        "id": "43ddb8ca70",
-        "title_fa": "تحولات زنده درگیری‌ها در خاورمیانه",
-        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
-        "summary": [
-            "خبرگزاری جروزالم پست پوشش لحظه‌به‌لحظه تنش‌های میان اسرائیل، ایران و منطقه را ادامه می‌دهد.",
-            "گزارش‌های جاری روی وضعیت امنیتی و تحرکات نظامی متمرکز است."
-        ],
-        "impact": "حفظ التهاب روانی و اطلاع‌رسانی مستمر از آخرین وضعیت تحولات امنیتی.",
-        "tag": "نظامی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tODJKbmZrTTdFZjhwcFp5LU9BeFZyOVl3UjRCakNKM3NsY0IyWDdYb0p4UVpSQnhVS1hHdUQwZzBEWEdNWkdfbDlPZHo1ZE9iLVIxZEpWQWR4VGJ2NG5scS1wWjhCY3NDZG5pcXZOMk9pVWd5VWdXUmFxWE9sV1U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tODJKbmZrTTdFZjhwcFp5LU9BeFZyOVl3UjRCakNKM3NsY0IyWDdYb0p4UVpSQnhVS1hHdUQwZzBEWEdNWkdfbDlPZHo1ZE9iLVIxZEpWQWR4VGJ2NG5scS1wWjhCY3NDZG5pcXZOMk9pVWd5VWdXUmFxWE9sV1U",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791726678.0
-    },
-    {
-        "id": "d7456bb979",
-        "title_fa": "ادعای مجتبی خامنه ای درباره توان نظامی جـمهوری اسـلامی",
-        "title_en": "Mojtaba Khamenei defies 'malicious' attacks as US Army zeroes in on Iran's 350,000 troops",
-        "summary": [
-            "مجتبی خـامنه ای حملات آمریکا و اسرائیل را شکست خورده خواند و بر حفظ توان نظامی تاکید کرد.",
-            "ارتش آمریکا همزمان با این اظهارات، راهنمای جدیدی برای مقابله با نیروی انسانی و نظامی تـنظیم کرده است."
-        ],
-        "impact": "افزایش جنگ روانی و تقابل لفظی میان تهران و واشنگتن در آستانه درگیری‌های احتمالی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/mojtaba-khamenei-defies-malicious-attacks-as-us-army-zeroes-in-on-irans-350000-troops/ar-AA2e1tlg",
-        "clean_url": "https://www.msn.com/en-us/news/other/mojtaba-khamenei-defies-malicious-attacks-as-us-army-zeroes-in-on-irans-350000-troops/ar-AA2e1tlg",
-        "image": "http://www.bing.com/th?id=ONUT.sTr0e--oCnFufO-WnScd2A&pid=News",
-        "timestamp": 1791725679.0
-    },
-    {
-        "id": "4e41550c9b",
-        "title_fa": "جاماندن سیستم خرید نظامی اسرائیل از رقابت پهپادی",
-        "title_en": "The drone arms race is outpacing Israel's procurement system",
-        "summary": [
-            "سرعت توسعه و تولید پهپادهای جنگی بسیار بیشتر از سیستم خرید تسلیحاتی اسرائیل شده است.",
-            "ارتش برای مقابله با تهدیدات پرنده نیاز به اصلاح ساختار فوری دارد."
-        ],
-        "impact": "آسیب‌پذیری موقت در برابر هجوم پهپادهای نیابتی و لزوم بازنگری در بودجه دفاعی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nZHZobmVSS2phQlB2SEFBYVczUk1DLXhUSjIzUENhaTlBSXhvc25RdElGM2pOY21uWXV4bU01MzlPZkdyTzlIeWhZQVN2cTdYTVVucFNoYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nZHZobmVSS2phQlB2SEFBYVczUk1DLXhUSjIzUENhaTlBSXhvc25RdElGM2pOY21uWXV4bU01MzlPZkdyTzlIeWhZQVN2cTdYTVVucFNoYw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791724875.0
-    },
-    {
-        "id": "8b5b95a7e5",
-        "title_fa": "محکومیت جهانی حملات حوثی‌ها و هشدار تهران درباره جنگ",
-        "title_en": "World leaders condemn Houthi attack; Iran warns of further strikes",
-        "summary": [
-            "رهبران جهان حملات موشکی و پهپادی حوثی‌ها را به شدت محکوم کردند.",
-            "تهران با بی‌توجهی به قطعنامه‌ها، نسبت به ت ت ح م ا ت بیشتر در منطقه هشدار داد."
-        ],
-        "impact": "افزایش ریسک امنیتی در آب‌های آزاد و احتمال درگیری‌های نظامی جدید.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04M0NpOGNsLUpHZW9FWHlxZGxBTTM3bTVJeEhXNXdCRXhLX2VmQk8wV2tjYUNQcGFQWFRuLURoUnFrM2Rxd2llODdoYTdhVjk3MHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04M0NpOGNsLUpHZW9FWHlxZGxBTTM3bTVJeEhXNXdCRXhLX2VmQk8wV2tjYUNQcGFQWFRuLURoUnFrM2Rxd2llODdoYTdhVjk3MHc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791723797.0
-    },
-    {
-        "id": "bc71034917",
-        "title_fa": "حرکت حکومت ایران به سمت فروپاشی و جنگ",
-        "title_en": "Iran’s regime is pushing the country toward collapse and war",
-        "summary": [
-            "جروزالم پست در گزارشی اعلام کرد که سیاست‌های جـمـهـورۍ اسـلامـۍ کشور را با شتاب به سمت لبه پرتگاه جنگ و فروپاشی کامل هدایت می‌کند.",
-            "پافشاری بر پروژه‌های هزینه‌بر منطقه‌ای و اتمی، اقتصاد ایران را زمین‌گیر کرده و نارضایتی عمومی را به نقطه جوش رسانده است."
-        ],
-        "impact": "تشدید فشارهای بین‌المللی و کاهش شدید ضریب پایداری ساختار سیاسی.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGTlJmR052ckRodFdHWFVPZVFKeE01Z1VZWmFtRXh3VzRwd0lWUjlZajlUbHFuRGFYaXlVeWVtODliQ0xsT1lLZXBQcUJRMW03N0ZwY2NnYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGTlJmR052ckRodFdHWFVPZVFKeE01Z1VZWmFtRXh3VzRwd0lWUjlZajlUbHFuRGFYaXlVeWVtODliQ0xsT1lLZXBQcUJRMW03N0ZwY2NnYw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791723483.0
     }
 ]
