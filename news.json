@@ -19,6 +19,24 @@
         "timestamp": 1791969600.0
     },
     {
+        "id": "99a177363c",
+        "title_fa": "شرط جنجالی حزب شاس برای ورود به ائتلاف آینده اسرائیل",
+        "title_en": "Deri says Shas won't join next government unless Haredi draft exemptions are enshrined in law",
+        "summary": [
+            "آریه درعی اعلام کرد حزب شاس تنها در صورت قانونی شدن معافیت سربازی حریدی‌ها به دولت آینده می‌پیوندد.",
+            "این شرط جدی، چالش‌های سیاسی تازه‌ای را برای ائتلاف‌های احتمالی پیش رو ایجاد می‌کند."
+        ],
+        "impact": "افزایش تنش‌های سیاسی داخلی در اسرائیل بر سر موضوع خدمت نظامی طلاب یهودی.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/deri-says-shas-wont-join-next-government-unless-haredi-draft-exemptions-are-enshrined-in-law/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/deri-says-shas-wont-join-next-government-unless-haredi-draft-exemptions-are-enshrined-in-law",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261014CG15.jpg",
+        "timestamp": 1791967860.0
+    },
+    {
         "id": "45a7dbc440",
         "title_fa": "شکاف عمیق در جامعه ایران به دلیل جنگ‌های پی در پی",
         "title_en": "From Iraq to Israel: How repeated wars have divided the nation of Iran",
@@ -126,6 +144,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UdzR5WVBQRHlkcFdRQjNZd2hwR3RiQkdncDBQX3U5RHVycUxJb21STGJnWjgzaW1SUktXZGdfbDBUUTRFLXpVVjNBWDBQSGVVekE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791957968.0
+    },
+    {
+        "id": "aa556231ef",
+        "title_fa": "هلاکت یکی از فرماندهان ارشد حماس در غزه",
+        "title_en": "Hamas commander who held hostages killed in Gaza City strike — IDF",
+        "summary": [
+            "ارتش اسرائیل از کشته شدن مومن احمد سلامه العی، از فرماندهان میدانی و دستیاران ارشد تیپ غزه خبر داد.",
+            "این فرمانده ارشد مستقیماً در نگهداری از گروگان‌ها نقش داشت."
+        ],
+        "impact": "تضعیف بیشتر ساختار فرماندهی میدانی حماس در نوار غزه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/hamas-commander-who-held-hostages-killed-in-gaza-city-strike-idf/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/hamas-commander-who-held-hostages-killed-in-gaza-city-strike-idf",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261010ARK11-640x400.jpg",
+        "timestamp": 1791956760.0
     },
     {
         "id": "3d2502c84d",
@@ -5450,41 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXl5UlVxZURveWxEVGg4R3dwbXItWHl3WC1EaUYwVTh1MlVIY01Mb08yQ3liamhIYkpTY0ZUMi11dkNNRWZqQUxvRW02Vkt4M0N4YlotT2x3SHcxdUdHQWptazZIUDNXazEySEExMHpDWHM5dGYyS2w3blhqOEJiVGIzZ3BXM28",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791676898.0
-    },
-    {
-        "id": "b96fa17324",
-        "title_fa": "واکنش تهران به لفاظی‌های جنگی ترامپ",
-        "title_en": "Irán acusa a Trump de recurrir al miedo por decir que puede destruir ciudades de EE.UU.",
-        "summary": [
-            "مقامات جـمـهـورۍ اسـلا‌مـۍ اظهارات اخیر ترامپ درباره نابودی شهرهای آمریکا را تلاش برای ایجاد ترس دانستند.",
-            "این لفاظی‌ها نشان می‌دهد تنش‌های لفظی میان واشنگتن و تهران وارد فاز تازه‌ای از جنگ روانی شده است."
-        ],
-        "impact": "افزایش سطح التهابات سیاسی و تشدید جنگ روانی در روابط دوجانبه.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Agencia EFE on MSN",
-        "url": "https://www.msn.com/es-us/noticias/mundo/ir%C3%A1n-acusa-a-trump-de-recurrir-al-miedo-por-decir-que-puede-destruir-ciudades-de-eeuu/ar-AA2dZseH",
-        "clean_url": "https://www.msn.com/es-us/noticias/mundo/ir%C3%A1n-acusa-a-trump-de-recurrir-al-miedo-por-decir-que-puede-destruir-ciudades-de-eeuu/ar-AA2dZseH",
-        "image": "http://www.bing.com/th?id=ONUT.Hk1_4XcpDJV9uVbn0xlucw&pid=News",
-        "timestamp": 1791676208.0
-    },
-    {
-        "id": "860c7952a8",
-        "title_fa": "مسیر پرچالش توافق پنهان تهران و واشنگتن",
-        "title_en": "How Far Have the U.S. and Iran Got Towards Ending the Iran War?",
-        "summary": [
-            "بررسی‌ها نشان می‌دهد مسیر پایان دادن به تقابل‌های میان ایران و ایالات متحده همچنان پر از موانع جدی است.",
-            "فشار حداکثری اقتصادی و بن‌بست در پرونده هسته‌ای، توافق را دشوارتر کرده است."
-        ],
-        "impact": "بازارها در انتظار نشانه‌های واقعی از کاهش تنش سیاسی هستند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3ZFUk1PaVIxUXpiWVR4dnFzdm5JaDNlZmVkSFQxUlVYck4tOUNnQnJadzVyMFoteE1rOEJOdkRUWVpLRlgwci10MmVUZDg1UUdpcGVkNDhZVTBaMzJGX056UVFsYjdDdGo4ZFdkNTVDQnhEd1JXNnl3ajQtT0swM3owdHpVOUxKb2E0d3M2Mmg1WC15LV80?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3ZFUk1PaVIxUXpiWVR4dnFzdm5JaDNlZmVkSFQxUlVYck4tOUNnQnJadzVyMFoteE1rOEJOdkRUWVpLRlgwci10MmVUZDg1UUdpcGVkNDhZVTBaMzJGX056UVFsYjdDdGo4ZFdkNTVDQnhEd1JXNnl3ajQtT0swM3owdHpVOUxKb2E0d3M2Mmg1WC15LV80",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791675248.0
     }
 ]
