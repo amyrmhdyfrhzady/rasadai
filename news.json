@@ -109,6 +109,24 @@
         "timestamp": 1791963171.0
     },
     {
+        "id": "62fe2e852f",
+        "title_fa": "فروریختن بخشی از یک ساختمان در تل‌آویو",
+        "title_en": "Building partially collapses on Tel Aviv's Nahalat Binyamin Street; no reports of injuries",
+        "summary": [
+            "بخشی از یک ساختمان در خیابان ناهلات بنیامین در تل‌آویو فرو ریخت.",
+            "تیم‌های اورژانس اعلام کردند تاکنون گزارشی درباره تلفات جانی دریافت نشده است."
+        ],
+        "impact": "حادثه شهری بدون تلفات انسانی در تل‌آویو.",
+        "tag": "حوادث",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/building-partially-collapses-on-tel-avivs-nahalat-binyamin-street-no-reports-of-injuries/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/building-partially-collapses-on-tel-avivs-nahalat-binyamin-street-no-reports-of-injuries",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/WhatsApp-Image-2026-10-14-at-09.48.58-e1791960905941.jpeg",
+        "timestamp": 1791960840.0
+    },
+    {
         "id": "b59d972877",
         "title_fa": "موشک جدید حوثی‌ها با قطعات چینی و تکنولوژی ا...ی",
         "title_en": "Houthis developing new version of Iranian ballistic missile using Chinese parts",
@@ -724,6 +742,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYW9uOVBzSkRuU1FuZGFsdWNBczFlOGV1TUlTV1h3WlBMd0RaYTJBU2FQSkJmODlmWUR1U3lTcTZKVk1lSEFHNTdWeEJISEw3dUp5SFAzT0Ruc3pSYTE2NzdReWVqVTdpb0p6ZGpTVTIzSHVJZlotbEZabDktZ2V5NjFlVjdCN3dId0RLTnR3aEVUemdveG9FV2VNZkFNV3RGWnZOWDNaUUdjR0F2b3c",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791923319.0
+    },
+    {
+        "id": "c18cffabaf",
+        "title_fa": "غرق شدن کشتی کانتینربر در تنگه هرمز",
+        "title_en": "IRGC Navy says container ship carrying 2,500 containers sinks near Hormuz",
+        "summary": [
+            "نیروی دریایی س پ ا ه مدعی شد یک کشتی با بیش از ۲۵۰۰ کانتینر پس از برخورد با مین دریایی در آب‌های جنوبی تنگه هرمز غرق شده است.",
+            "کشاورزان گندمکار از عدم پرداخت مطالبات خود توسط دولت و بحران شدید نقدینگی برای کشت پاییزه خبر دادند.",
+            "تورم سرسام‌آور و سقوط ارزش ریال، توان مالی کشاورزان را برای خرید بذر و کود به شدت کاهش داده است."
+        ],
+        "impact": "افزایش ناامنی دریایی در تنگه هرمز و بحران عمیق معیشتی برای کشاورزان ایرانی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610146941",
+        "clean_url": "https://www.iranintl.com/en/202610146941",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791922920.0
     },
     {
         "id": "44c2841bd5",
@@ -5449,42 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlHRHF6bWpaWFM5UW41VnZYSmJmYzVrUkFzQmZUdldhUUJfdkwwck5OYkxfWmlvRnRkSENQUHp3Rmk3ci1VMDBlak1IeDQtcHJocGRfakhyWUttLVlxbkZNSjZjMUIzNk9wNndNaURjdGNrNUxpZklFNDkyWmo5U3I5RFZTZ0FvdlNhUVZvaDg5NkhudVk4RVhR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791678693.0
-    },
-    {
-        "id": "c789347fdd",
-        "title_fa": "از کار انداختن کشتی باری دورزننده محاصره ایران توسط آمریکا",
-        "title_en": "US military says it disabled cargo vessel trying to bypass Iran blockade",
-        "summary": [
-            "ارتش آمریکا در یک اقدام عملیاتی مستقیم، شناور باری را که در تلاش برای شکستن محاصره دریایی و انتقال بار به ایران بود زمین‌گیر کرد.",
-            "واشنگتن با این برخورد فیزیکی نشان داد که دوران رصد صرفاً اطلاعاتی پایان یافته و ورود مستقیم به فاز توقف شناورها کلید خورده است.",
-            "این عملیات ریسک بیمه و هزینه تردد شبکه کشتیرانی غیررسمی مرتبط با تـ‌هـ‌ران را به بالاترین سطح ماه‌های اخیر می‌رساند."
-        ],
-        "impact": "افزایش هزینه و ناامنی شدید برای خطوط دورزدن تحریم ج.ا و احتمال واکنش‌های ایذایی در تنگه هرمز.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUpYZmpoMWt5eDIwZ2UxSzctTWJXTENpM1dRcVZDWUtKcU1QU3Brdkd2VFVoQWt5NWFocnZieDdMSG4zTnBZZk1RR1lKWkxmNVRVb3ZsRGNBSUpET0lUNlJjdFl3UXFTbmp0a1g1SGRxUC1oamFQZkZxcE1MRWJoWXFNcEUxZ1VwU2NrTjI0OVFxTDRzWkVWNF9ocWJZMHB2VFlPQlp0Y3d1MzJyblM4MDgtUVMydDJSYnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUpYZmpoMWt5eDIwZ2UxSzctTWJXTENpM1dRcVZDWUtKcU1QU3Brdkd2VFVoQWt5NWFocnZieDdMSG4zTnBZZk1RR1lKWkxmNVRVb3ZsRGNBSUpET0lUNlJjdFl3UXFTbmp0a1g1SGRxUC1oamFQZkZxcE1MRWJoWXFNcEUxZ1VwU2NrTjI0OVFxTDRzWkVWNF9ocWJZMHB2VFlPQlp0Y3d1MzJyblM4MDgtUVMydDJSYnc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791678578.0
-    },
-    {
-        "id": "5bd882a1dc",
-        "title_fa": "پنتاگون آمار تلفات ارتش آمریکا را افزایش داد",
-        "title_en": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
-        "summary": [
-            "پنتاگون شمار نظامیان آمریکایی آسیب‌دیده در درگیری‌های اخیر با ج.ه.وری ا.س.ل.ا.م.ی را باز هم بالا برد.",
-            "این آمار جدید نشان می‌دهد برخلاف ادعای مقامات نظامی، تلفات نیروی انسانی ایالات متحده روند صعودی دارد."
-        ],
-        "impact": "افزایش تلفات انسانی هزینه سیاسی مداخله نظامی را برای واشنگتن بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXl5UlVxZURveWxEVGg4R3dwbXItWHl3WC1EaUYwVTh1MlVIY01Mb08yQ3liamhIYkpTY0ZUMi11dkNNRWZqQUxvRW02Vkt4M0N4YlotT2x3SHcxdUdHQWptazZIUDNXazEySEExMHpDWHM5dGYyS2w3blhqOEJiVGIzZ3BXM28?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXl5UlVxZURveWxEVGg4R3dwbXItWHl3WC1EaUYwVTh1MlVIY01Mb08yQ3liamhIYkpTY0ZUMi11dkNNRWZqQUxvRW02Vkt4M0N4YlotT2x3SHcxdUdHQWptazZIUDNXazEySEExMHpDWHM5dGYyS2w3blhqOEJiVGIzZ3BXM28",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791676898.0
     }
 ]
