@@ -780,6 +780,24 @@
         "timestamp": 1791927000.0
     },
     {
+        "id": "1a14105ad9",
+        "title_fa": "هدف قرار گرفتن کشتی باری در تنگه هرمز",
+        "title_en": "Container ship hit by unknown projectile in Strait of Hormuz, UKMTO says",
+        "summary": [
+            "یک فروند کشتی کانتینربر در ورودی تنگه هرمز هدف اصابت یک شیء ناشناس قرار گرفت.",
+            "کشتی بدون تلفات انسانی مسیر خود را ادامه داده و مقامات در حال بررسی این حادثه هستند."
+        ],
+        "impact": "افزایش ریسک تردد دریایی و ناامنی در یکی از حیاتی‌ترین آبراه‌های انرژی جهان.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610140623",
+        "clean_url": "https://www.iranintl.com/en/202610140623",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791926340.0
+    },
+    {
         "id": "901d710f69",
         "title_fa": "آمریکا ادعای کنترل ت تنگه هرمز را رد کرد",
         "title_en": "US rejects Iran’s claim of control over Strait of Hormuz",
@@ -5466,24 +5484,5 @@
         "clean_url": "https://www.theguardian.com/us-news",
         "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
         "timestamp": 1791691200.0
-    },
-    {
-        "id": "e9df6b2bf3",
-        "title_fa": "صفر شدن درآمدهای نفتی تـکـر‌ابی در راه است",
-        "title_en": "Reining in Iran only way to stop Houthi attacks, US envoy to Israel says",
-        "summary": [
-            "داده‌های شرکت کپلر نشان می‌دهد صادرات نفت جـمهوری اسلامی در ماه سپتامبر کاملاً متوقف شده است.",
-            "با تخلیه آخرین محموله‌ها در چین، تهران بین ۳ تا ۶ میلیارد دلار درآمد ماهانه نفتی خود را از دست خواهد داد.",
-            "آذر ماه نقطه عطف بحران مالی حاکمیت خواهد بود زیرا پرونده آخرین تسویه‌حساب‌های نفتی بسته می‌شود."
-        ],
-        "impact": "فلج شدن کامل منابع مالی جـمهوری اسلامی و تشدید بحران بی‌سابقه ارزی",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610116388",
-        "clean_url": "https://www.iranintl.com/en/202610116388",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791688920.0
     }
 ]
