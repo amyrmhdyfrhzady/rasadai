@@ -523,6 +523,24 @@
         "timestamp": 1791959478.0
     },
     {
+        "id": "611f58efee",
+        "title_fa": "جنگ سایبری و تشدید فیلترینگ اینترنت در ایران",
+        "title_en": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+        "summary": [
+            "مقام‌های حکومتی اینترنت ماهواره‌ای استارلینک را ابزار جنگی می‌دانند و برخورد با آن را تشدید کرده‌اند.",
+            "استفاده یا توزیع تجهیزات استارلینک با مجازات‌های سنگین مثل زندان و جریمه نقدی همراه است."
+        ],
+        "impact": "حکومت برای حفظ کنترل فضای مجازی و جلوگیری از آگاهی‌رسانی، به قطع دسترسی مردم به شبکه آزاد روی آورده است.",
+        "tag": "اینترنت",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions",
+        "clean_url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions",
+        "image": "http://www.bing.com/th?id=ONUT.Z_wlxtazfjzuleBQ4GW5Jg&pid=News",
+        "timestamp": 1791958620.0
+    },
+    {
         "id": "149d0c7d17",
         "title_fa": "سقوط آزاد تولید و صادرات نفت ج-م-ه-و-ر-ی ا-س-لا-م-ی",
         "title_en": "Iran’s Oil Production Falls Below 2 Million Barrels Per Day",
@@ -595,6 +613,24 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/hamas-commander-who-held-hostages-killed-in-gaza-city-strike-idf",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261010ARK11-640x400.jpg",
         "timestamp": 1791956760.0
+    },
+    {
+        "id": "4718840b4e",
+        "title_fa": "غرق شدن کشتی باری در تنگه هرمز",
+        "title_en": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
+        "summary": [
+            "یک فروند کشتی باری پس از برخورد با مین دریایی در تنگه هرمز غرق شد.",
+            "اطلاعات دقیقی درباره هویت کشتی و میزان خسارت‌ها هنوز منتشر نشده است."
+        ],
+        "impact": "امنیت کشتیرانی در خلیج فارس به شدت به خطر افتاده و هزینه‌های بیمه و انتقال انرژی افزایش می‌یابد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-and-other-middle-east-developments/ar-AA2ecMQz",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-and-other-middle-east-developments/ar-AA2ecMQz",
+        "image": "http://www.bing.com/th?id=ONUT.a9rxySv3kBmYtBHO0kCe5Q&pid=News",
+        "timestamp": 1791956368.0
     },
     {
         "id": "3d2502c84d",
@@ -5438,43 +5474,5 @@
         "clean_url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
         "image": "http://www.bing.com/th?id=ONUT.pO3MyYE6jiAt5aP81ZH_VA&pid=News",
         "timestamp": 1791707760.0
-    },
-    {
-        "id": "f5c7ea28af",
-        "title_fa": "واکنش محسن رضایی به پاسخ ناکافی آمریکا درباره تنگه هرمز",
-        "title_en": "Iran says US accepted some of its seven conditions, response 'inadequate'",
-        "summary": [
-            "دبیر شورای عالی امنیت ملی ادعا کرد ایالات متحده برخی از شرط‌های هفت‌گانه تهران را پذیرفته اما این پاسخ کافی نیست.",
-            "تهران مدعی است دیپلماسی کشور تغییر کرده و راه برگشتی به شرایط گذشته وجود ندارد.",
-            "محسن رضایی مدعی شد ناوگان آمریکا در باز کردن تنگه هرمز ناکام مانده و به قاچاق روی آورده است."
-        ],
-        "impact": "افزایش تنش‌های لفظی میان تهران و واشنگتن بر سر امنیت کشتیرانی در خلیج فارس",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610111041",
-        "clean_url": "https://www.iranintl.com/en/202610111041",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791707640.0
-    },
-    {
-        "id": "fd1d61faf7",
-        "title_fa": "پیامدهای مخرب تنش‌های نظامی با ایران بر بازار جهانی انرژی",
-        "title_en": "What the Iran war has done to the world’s energy supply, in charts",
-        "summary": [
-            "بحران‌های نظامی و تهدید خطوط کشتیرانی، ثبات عرضه نفت و گاز در بازارهای بین‌المللی را به شدت متزلزل کرده است.",
-            "افزایش چشمگیر ریسک ترانزیت و هزینه‌های سنگین بیمه نفتکش‌ها، قیمت تمام‌شده سوخت را برای مصرف‌کنندگان جهانی بالا برده است.",
-            "نگرانی از انسداد تنگه هرمز یا آسیب به تاسیسات نفتی، بازارهای انرژی را در وضعیت هشدار و نوسان مداوم قرار داده است."
-        ],
-        "impact": "جهش قیمت جهانی نفت، تشدید تورم در غرب و تنگ‌تر شدن حلقه فشار بر شریان‌های مالی ج.ا.ا.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791707377.0
     }
 ]
