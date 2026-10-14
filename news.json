@@ -531,6 +531,24 @@
         "timestamp": 1791905760.0
     },
     {
+        "id": "3ca878d77b",
+        "title_fa": "توقف موقت بانک مرکزی ژاپن در افزایش نرخ بهره",
+        "title_en": "Bank of Japan Taps the Brakes on Back‑to‑Back Hikes, Keeps December in Play",
+        "summary": [
+            "بانک مرکزی ژاپن دلیلی برای افزایش پشت سر هم نرخ بهره نمی‌بیند و منتظر داده‌های جدید اقتصادی است.",
+            "بررسی تورم قیمت تولیدکننده و بهای نفت، مسیر تصمیم‌گیری برای ماه دسامبر را تعیین خواهد کرد."
+        ],
+        "impact": "ثبات نسبی در بازارهای مالی آسیا تا زمان مشخص شدن سیاست نهایی نرخ بهره در ژاپن.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/bank-of-japan-taps-the-brakes-on-back-to-back-hikes-keeps-de/",
+        "clean_url": "https://www.briefs.co/news/bank-of-japan-taps-the-brakes-on-back-to-back-hikes-keeps-de",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/10/bank-of-japan-taps-the-brakes-on-back-to-back-hikes-keeps-de.png",
+        "timestamp": 1791904200.0
+    },
+    {
         "id": "b35f14fbc4",
         "title_fa": "هزینه سنگین ریاض در تقابل با یمنی‌ها",
         "title_en": "As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.iranintl.com/en/202610117861",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791649260.0
-    },
-    {
-        "id": "37e686d02c",
-        "title_fa": "حملات پهپادی و توپخانه‌ای شدید در دونباس",
-        "title_en": "Ukraine attacks DPR 23 times in last 24 hours",
-        "summary": [
-            "مقام‌های محلی دونتسک از ثبت ۲۳ حمله تسلیحاتی از سوی اوکراین در مناطق مسکونی خبر دادند.",
-            "این حملات خسارات زیادی به زیرساخت‌های شهری و خانه‌های مسکونی وارد کرده است."
-        ],
-        "impact": "تشدید درگیری‌های میدانی احتمال پاسخ متقابل مسکو را افزایش داده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/defense/2200397",
-        "clean_url": "https://tass.com/defense/2200397",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1791648420.0
     }
 ]
