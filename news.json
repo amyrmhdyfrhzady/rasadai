@@ -1,5 +1,23 @@
 [
     {
+        "id": "0ca95cd377",
+        "title_fa": "ادعاهای توخالی فرماندهان سپاه درباره شکست آمریکا",
+        "title_en": "IRGC chief's adviser says US has no prospect of winning war",
+        "summary": [
+            "مشاور فرمانده سپاه مدعی شد آمریکا هیچ شانس پیروزی در درگیری‌های احتمالی ندارد.",
+            "ترورها و ناامنی‌های داخلی در استان‌های مرزی نشان‌دهنده آسیب‌پذیری ساختار امنیتی حاکمیت است."
+        ],
+        "impact": "تلاش رسانه‌ای برای بالا بردن روحیه نیروهای نیابتی هم‌زمان با تشدید ناامنی‌های داخلی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610146780",
+        "clean_url": "https://www.iranintl.com/en/202610146780",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791981180.0
+    },
+    {
         "id": "e71f5997ae",
         "title_fa": "تعویق اقدام نظامی علیه ایران تا زمان برگزاری انتخابات",
         "title_en": "Israeli officials believe no strike on Iran will take place before the elections",
@@ -560,6 +578,25 @@
         "timestamp": 1791955087.0
     },
     {
+        "id": "40d942fff2",
+        "title_fa": "تشدید حملات نیابتی و تهدید مستقیم ناوهای آمریکایی",
+        "title_en": "Iran says it’s ‘counting the moments’ until it can attack American warships; Saudi Aramco facilities attacked as Houthi attacks escalate",
+        "summary": [
+            "حمله پهپادی شبه‌نظامیان تحت حمایت ت... در یمن به تاسیسات نفتی آرامکو در عربستان خسارت زد.",
+            "فرماندهان نظامی ت... آشکارا از آمادگی برای هدف قرار دادن ناوهای آمریکایی خبر می‌دهند.",
+            "جنگ داخلی یمن با حمایت مالی و تسلیحاتی ت... وارد فاز تازه‌ای از تنش منطقه‌ای شده است."
+        ],
+        "impact": "افزایش ریسک امنیتی در خلیج فارس و جهش احتمالی قیمت انرژی به دلیل حملات پهپادی.",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+        "clean_url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+        "image": "http://www.bing.com/th?id=ONUT._N7tcGLWv985S-jPTu7lMA&pid=News",
+        "timestamp": 1791954780.0
+    },
+    {
         "id": "7819a4ae2a",
         "title_fa": "اعدام یک زندانی سیاسی با اتهامات امنیتی",
         "title_en": "Iran executes monarchist convicted of armed attacks during war, judiciary news outlet says",
@@ -940,6 +977,24 @@
         "clean_url": "https://www.iranintl.com/en/202610146205",
         "image": "http://www.bing.com/th?id=ONUT.JeISed836C6kBWVfCl6_5Q&pid=News",
         "timestamp": 1791931560.0
+    },
+    {
+        "id": "3561acdbd4",
+        "title_fa": "برنامه‌های وزیر دفاع پیشنهادی برای توسعه تسلیحات موشکی",
+        "title_en": "Iran defense nominee pledges to expand air defense and missile capabilities",
+        "summary": [
+            "وزیر دفاع پیشنهادی بر توسعه سامانه‌های پدافندی و افزایش برد موشک‌ها تاکید کرد.",
+            "درگیری‌های مسلحانه در جنوب شرق کشور هم‌زمان با وعده‌های نظامی مقامات شدت گرفته است."
+        ],
+        "impact": "تمرکز حکومت بر تقویت صنایع نظامی و پهپادی با وجود بحران‌های عمیق داخلی.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610148341",
+        "clean_url": "https://www.iranintl.com/en/202610148341",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791930960.0
     },
     {
         "id": "716a3b486f",
@@ -5423,61 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWlfNkN1YVYxbGpEcDlKN2VmWmh4ZHdkSlpOTWJ4V3NnQm1VRjNJcTJoUFk0aVdaWnNvNnZLdlkxLUhveUJhMUpjR29rVnIwanlYdjYwNEJaMDl5MFFOenpORE1hTmhKYmdMR1laY25ic2xvLTRodVFzNXZtT1l0aUZ3bXZxR0ZQT1F6d3F5ZTNBUHc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791705420.0
-    },
-    {
-        "id": "47ae23f128",
-        "title_fa": "حمله موشکی به فرودگاه ریاض و کشمکش تازه واشنگتن",
-        "title_en": "US-Iran War Live Updates: Fresh projectile targets Riyadh airport a day after strike killed 12",
-        "summary": [
-            "اصابت پرتابه جنگی به فرودگاه ریاض، ابعاد جنگ نیابتی را خونین‌تر کرد و ده ها کشته و زخمی بر جای گذاشت.",
-            "ترامپ از بررسی ورود مستقیم آمریکا به حملات علیه گروه‌های وابسته به ت-ه-ر-ا-ن خبر داد.",
-            "کمبود تجهیزات دفاع موشکی در عربستان، امنیت تاسیسات حیاتی انرژی و خطوط کشتیرانی را به شدت به خطر انداخته است."
-        ],
-        "impact": "گسترش آتش جنگ به زیرساخت‌های کلیدی انرژی منطقه و افزایش احتمال دخالت نظامی مستقیم آمریکا.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-saudi-yemen-houthis-strait-of-hormuz-donald-trump-latest-news/liveblog/134864120.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-saudi-yemen-houthis-strait-of-hormuz-donald-trump-latest-news/liveblog/134864120.cms",
-        "image": "http://www.bing.com/th?id=ONUT.pO-G9wIc1I60McDrzJv3Sw&pid=News",
-        "timestamp": 1791705060.0
-    },
-    {
-        "id": "e70830b277",
-        "title_fa": "انتقاد تند تهران از انفعال اروپا در برابر تحریم‌های آمریکا علیه دیوان کیفری",
-        "title_en": "Iran slams EU over inaction on US sanctions targeting ICC",
-        "summary": [
-            "تهران اتحادیه اروپا را به بی‌عملی و تبعیت از سیاست‌های یک‌جانبه واشنگتن در قبال دیوان بین‌المللی کیفری متهم کرد.",
-            "این اقدام بخشی از مانور تبلیغاتی برای نشان دادن بی‌اعتباری سازوکارهای حقوقی غرب و فشارهای مضاعف بر دادگاه‌های بین‌المللی است."
-        ],
-        "impact": "تثبیت بن‌بست دیپلماتیک میان تهران و بروکسل و بی‌اثری اتحادیه اروپا در پرونده‌های حقوقی بین‌المللی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "www.taghribnews.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1drYUlpU0xUQlVOX2VYbm1zb2lXS3RZaHRabVBzTHp6UGFrMmRFdHlVRkszU2pQbmdFMHN5NVZQSHlzTFZETlFsb3gweG5HdXpXb3d1SG01a2FCN0Y2aVFQRU1WNHkweGpROEhwS2tCM1lHVHBlRXZBRnFTX0lrZklST0NZUUp0cHJQSlpwNWVxZUhKX3l4eWY0YW5oOU9KeEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1drYUlpU0xUQlVOX2VYbm1zb2lXS3RZaHRabVBzTHp6UGFrMmRFdHlVRkszU2pQbmdFMHN5NVZQSHlzTFZETlFsb3gweG5HdXpXb3d1SG01a2FCN0Y2aVFQRU1WNHkweGpROEhwS2tCM1lHVHBlRXZBRnFTX0lrZklST0NZUUp0cHJQSlpwNWVxZUhKX3l4eWY0YW5oOU9KeEE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791703895.0
-    },
-    {
-        "id": "77120bab78",
-        "title_fa": "بازی دو سر باخت غرب؛ چرا بمباران، تهران را به سمت اتم سوق داد؟",
-        "title_en": "Bombs that pushed Iran across the rubicon",
-        "summary": [
-            "حملات آمریکا و اسرائیل با بهانه جلوگیری از ساخت بمب توسط جـ.ـهـ.ـو‌ری ا‌سـ.ـلا‌مـ.ـی، نتیجه‌ای معکوس داده است.",
-            "نهادهای اطلاعاتی آمریکا و آژانس انرژی اتمی بارها تایید کرده‌اند که ایران دنبال ساخت سلاح هسته‌ای نبوده است.",
-            "فشارها و حملات نظامی باعث شده صدای موافقان تغییر دکترین هسته‌ای و خروج از ان‌پی‌تی در داخل بلندتر شود."
-        ],
-        "impact": "ماجراجویی نظامی تل‌آویو و واشنگتن، سد حفاظتی ان‌پی‌تی را در آستانه فروپاشی کامل قرار داده است.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/530973/Bombs-that-pushed-Iran-across-the-rubicon",
-        "clean_url": "https://www.tehrantimes.com/news/530973/Bombs-that-pushed-Iran-across-the-rubicon",
-        "image": "https://media.mehrnews.com/d/2026/10/11/4/6214157.jpg?ts=1791740615732",
-        "timestamp": 1791702840.0
     }
 ]
