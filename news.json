@@ -343,6 +343,25 @@
         "timestamp": 1791980547.0
     },
     {
+        "id": "10385cdee3",
+        "title_fa": "درگیری‌های مسلحانه و تلفات پیاپی نیروهای امنیتی در مرزها",
+        "title_en": "Ghalibaf mocks Bessent over Iran predictions, rising US inflation",
+        "summary": [
+            "ترور یکی از فرماندهان یگان زنانه بسیج در مهرستان توسط افراد ناشناس گزارش شد.",
+            "حمله مسلحانه به خودروی پلیس در همان منطقه منجر به کشته شدن یک درجه‌دار شد.",
+            "این رخدادهای خونین همزمان با درگیری‌های سنگین در سیستان و بلوچستان رخ داده است."
+        ],
+        "impact": "افزایش ضریب ناامنی و بالا گرفتن درگیری‌های مسلحانه در مناطق مرزی و پیرامونی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610141897",
+        "clean_url": "https://www.iranintl.com/en/202610141897",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791979440.0
+    },
+    {
         "id": "1608243a77",
         "title_fa": "هشدار سپاه درباره احتمال حملات جدید آمریکا",
         "title_en": "IRGC warns of ‘very real’ chance of new US strikes before midterms",
@@ -5452,23 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOR2MxOGRzOWhBbWw2OTZ1X1k3cVNIZmx2VDJSbjl6dXJKQ01hNGFBTjhNbjhpa0ZIcV9sbnpybE1TU0NwLTVFcV82NUY5X2V3T1lEalV6Zkx6NTVxSEtIdkFlUEN0RFd6QUtPUkNWaVRSRXBiVlJMSlI3aXJEdHVZRDlLSUdiOHhjOTNtT2N2MkJ3M2tjSHQxVzE5cjBDbXZTem1aX1FhRG1qa1BjWU9vbGE2SkNYcGpIbmI5bXh0OFB1cHFONDQ2QkJwT0VvNG9kcS05RTVvYkVnQ08zcjVJVDVPMUxQRnhWbUh4dUN4bnlzNVVGRkdkb1JMX2Y5eHdsYUMxRUlpNGxqaUYyeHlxNGl6S2ZJUElm",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791759060.0
-    },
-    {
-        "id": "b956f01f30",
-        "title_fa": "افشای پشت‌پرده شستشوی مغزی در مراکز آموزشی جـمـهـوری اسلامی",
-        "title_en": "How Iran's elite forces 'mold the minds of the young cadets'",
-        "summary": [
-            "اسناد رسیده از نیروهای جداشده نشان می‌دهد سیستم آموزشی نظامی چگونه ذهن جوانان را برای سرکوب آماده می‌کند.",
-            "حلقه های محرمانه درون ارکان نظامی نقش اصلی را در ترویج وفاداری کورکورانه به حاکمیت دارند."
-        ],
-        "impact": "این افشاگری چهره واقعی ماشین سرکوب و روش‌های جذب نیروی انسانی حاکمیت را نمایان می‌کند.",
-        "tag": "امنیتی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "DW on MSN",
-        "url": "https://www.msn.com/en-us/news/other/how-irans-elite-forces-mold-the-minds-of-the-young-cadets/ar-AA2e2cGY",
-        "clean_url": "https://www.msn.com/en-us/news/other/how-irans-elite-forces-mold-the-minds-of-the-young-cadets/ar-AA2e2cGY",
-        "image": "http://www.bing.com/th?id=ONUT.Cmc0TvbqnPfRrrO0ztHZZA&pid=News",
-        "timestamp": 1791756000.0
     }
 ]
