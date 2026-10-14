@@ -1,5 +1,23 @@
 [
     {
+        "id": "b433115769",
+        "title_fa": "رصد آخرین نظرسنجی‌ها از محبوبیت دونالد ترامپ",
+        "title_en": "Donald Trump’s approval rating: the latest polls",
+        "summary": [
+            "جدیدترین داده‌های نظرسنجی در رسانه‌های غربی منتشر شد.",
+            "تغییرات آرای عمومی ترامپ بر تصمیمات سیاسی آتی او تاثیرگذار است."
+        ],
+        "impact": "این آمارها مسیر مانورهای سیاسی ترامپ در ماه‌های پیش رو را شکل می‌دهد.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Times",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWVoQ3EyRWxHRV9HUGVDWi1SQzZ2ekp1RElTV3dtZ0c2UEFiVG1QUHR3V2J3ekNOMW12VjQ4bVp2eC1iUHdBZHJPTzZJRHpPQ3lSdC1vRDRGN2lyS21ONktWZEx5RWFhTjRFWnFMZ1BkTGtwX0J0bnl5TkVnZ2JEU01TeUprMmE2V1oxUVktVmJ6SEdkc1hDYjY0VEtlSlRJYjBLdENIWE9mQWdJa3hjQldHM3N3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWVoQ3EyRWxHRV9HUGVDWi1SQzZ2ekp1RElTV3dtZ0c2UEFiVG1QUHR3V2J3ekNOMW12VjQ4bVp2eC1iUHdBZHJPTzZJRHpPQ3lSdC1vRDRGN2lyS21ONktWZEx5RWFhTjRFWnFMZ1BkTGtwX0J0bnl5TkVnZ2JEU01TeUprMmE2V1oxUVktVmJ6SEdkc1hDYjY0VEtlSlRJYjBLdENIWE9mQWdJa3hjQldHM3N3dw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791939221.0
+    },
+    {
         "id": "0e6a68dd40",
         "title_fa": "تحریم دادگاه لاهه توسط آمریکا؛ سپر واشنگتن برای متحدان",
         "title_en": "Washington Policy Weekly: United States Sanctions International Criminal Court",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/at-least-five-in-intensive-care-after-houthi-attack-on-riyadh-airport",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791644640.0
-    },
-    {
-        "id": "23801bbead",
-        "title_fa": "جزئیات تازه از محاسبات پنهان حماس پیش از طوفان الاقصی",
-        "title_en": "Al-Haddad Predicted an 80-Day Israeli War... Saad Called for It to End",
-        "summary": [
-            "اسناد و روایت‌های جدید نشان می‌دهد فرماندهان ارشد حماس پیش‌بینی جنگی طولانی را کرده بودند.",
-            "اطلاعات فاش شده ابعاد تازه‌ای از برآورد رهبران کشته شده این گروه درباره واکنش سنگین نظامی اسرائیل را عیان می‌کند."
-        ],
-        "impact": "روشن شدن ابعاد پنهان امنیتی و نظامی بزرگ‌ترین درگیری سال‌های اخیر در غزه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/features/5328055-al-haddad-predicted-80-day-israeli-war-saad-called-it-end",
-        "clean_url": "https://english.aawsat.com/features/5328055-al-haddad-predicted-80-day-israeli-war-saad-called-it-end",
-        "image": "https://static.srpcdigital.com/2026-10/1819750.jpeg?VersionId=LtluZZL1PDzEyna7A1XamcmjAC4iZShk",
-        "timestamp": 1791642420.0
     }
 ]
