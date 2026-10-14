@@ -216,6 +216,24 @@
         "timestamp": 1791922680.0
     },
     {
+        "id": "a1eb1f9d94",
+        "title_fa": "نوسانات سهام شرکت هسته‌ای در بازار بورس",
+        "title_en": "ONE Nuclear Energy Inc. (ONEN)",
+        "summary": [
+            "قیمت سهام شرکت وان نیوکلیار ار انرژی در محدوده ۱.۶۸ دلار بسته شد.",
+            "ارزش بازار این شرکت حدود ۱۸۸ میلیون دلار گزارش شده است."
+        ],
+        "impact": "تغییرات محدود در ارزش سهام شرکت‌های حوزه انرژی اتمی.",
+        "tag": "اقتصادی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/ONEN/",
+        "clean_url": "https://finance.yahoo.com/quote/ONEN",
+        "image": "https://pinhole.finance.yahoo.com/chart/ONEN/__screenshot",
+        "timestamp": 1791921600.0
+    },
+    {
         "id": "463c669792",
         "title_fa": "تهدید ناوهای آمریکایی توسط نیروی دریایی س***اه در تنگه هرمز",
         "title_en": "Iran’s IRGC Navy threatens to sink US warships approaching Strait of Hormuz",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202610114123",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791649380.0
-    },
-    {
-        "id": "72ee42b4a8",
-        "title_fa": "اذعان نماینده مجلس به فشار اقتصادی بر سفره مردم",
-        "title_en": "Iran lawmaker says people must feel 'resistance economy' in household budgets",
-        "summary": [
-            "یک مقام پارلمانی اعتراف کرد که سیاست‌های اقتصادی حکومت باید به‌طور ملموس در زندگی روزمره مردم حس شود.",
-            "کارشناسان معتقدند مسکو اولویت متفاوتی نسبت به تهران دارد و ترجیح می‌دهد ایران متمایل به غرب نشود.",
-            "پوتین در دیدار با پزشکیان بر حمایت ظاهری تأکید کرد، اما سابقه نشان داده روسیه در بحران‌های واقعی شریک قابل اعتمادی نیست."
-        ],
-        "impact": "تشدید بحران معیشتی داخلی و نمایان‌تر شدن شکاف میان شعارهای کلان حاکمیت و واقعیت اقتصاد خانوار.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610117861",
-        "clean_url": "https://www.iranintl.com/en/202610117861",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791649260.0
     }
 ]
