@@ -1,5 +1,24 @@
 [
     {
+        "id": "1fea74e1cb",
+        "title_fa": "تلاش حوثی‌ها برای ساخت موشک پیشرفته با قطعات چینی",
+        "title_en": "Yemen's Houthis look to build ballistic missiles with more Chinese supplies,...",
+        "summary": [
+            "حوثی‌های یمن با استفاده از قطعات چینی به دنبال ساخت نسل جدیدی از موشک‌های میان‌ببرد با دقت بالا هستند.",
+            "این موشک‌ها که نمونه‌ای از مدل خیبرشکن ایران محسوب می‌شوند، توانایی هدف قرار دادن مواضعی در اسرائیل و عربستان را دارند.",
+            "روی آوردن این گروه به تأمین‌کنندگان چینی نشان‌دهنده تلاش برای افزایش استقلال تسلیحاتی فراتر از وابستگی مستقیم به تهران است."
+        ],
+        "impact": "توسعه تسلیحات پیشرفته توسط نیروهای نیابتی، موازنه‌ی امنیتی در دریای سرخ و امنیت انرژی را به‌شدت تهدید می‌کند.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Associated Press",
+        "url": "https://www.yahoo.com/news/world/articles/yemens-houthis-look-build-ballistic-192359125.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/yemens-houthis-look-build-ballistic-192359125.html",
+        "image": "https://media.zenfs.com/en/ap.org/20a8202e6d3eda5ada1a1193418214d4.jpg",
+        "timestamp": 1792005834.0
+    },
+    {
         "id": "443eb5e8a4",
         "title_fa": "زیر ذره‌بین رفتن ظرفیت اتمی جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی در کنگره آمریکا",
         "title_en": "Iran's Nuclear Weapons Production Capacity Faces Congressional Scrutiny",
@@ -1064,6 +1083,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVllrZV9OVEtGcVo3NUE0R1ZBbWlSYmRodWlUZXZvWWdxZzEyY1NIdVhpSFoxLUl6TFJleXQ4eHdlb0M2QS1pTlBlbXlBOW1tRVZhUy00TXFKTllDcTRR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791959478.0
+    },
+    {
+        "id": "4a8143a56b",
+        "title_fa": "رایزنی تجاری اتحادیه اروپا و هند برای توسعه روابط اقتصادی",
+        "title_en": "European Union",
+        "summary": [
+            "هیئت تجاری اروپا به ریاست داگلاس الکساندر به هند سفر کرده است.",
+            "تمرکز اصلی این سفر بر بهره‌برداری از مزایای اقتصادی توافق‌های تجاری دوجانبه میان اروپا و هند است."
+        ],
+        "impact": "این توافق‌ها می‌تواند زنجیره‌های تامین جهانی را تغییر داده و نقش هند را در اقتصاد کلان تقویت کند.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/eu",
+        "clean_url": "https://www.theguardian.com/world/eu",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=world",
+        "timestamp": 1791959100.0
     },
     {
         "id": "611f58efee",
@@ -5434,42 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80MjM5Z1p5ZWZHVHZGNGVrVThMNDhYWHREcmF6U2dYZ2ZZUUQ2RDBncXhGa3l3ZnI4dkc3TlhuTHpQZEZHakt5Q1ZoMHZIUDFQQnA5VDc1d2I",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791774732.0
-    },
-    {
-        "id": "05fa04e9b5",
-        "title_fa": "نقش‌آفرینی پکن و مسکو در مناقشات مرتبط با تهران",
-        "title_en": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War",
-        "summary": [
-            "بررسی رویکرد چین و روسیه در حمایت‌های غیرمستقیم از ج.هوری ا.سلامی در شرایط بحرانی",
-            "تحلیل نحوه همکاری‌های راهبردی پکن و مسکو برای کاهش فشار تحریم‌ها و اقدامات نظامی"
-        ],
-        "impact": "این همکاری‌ها توان اقتصادی و نظامی ج.هوری ا.سلامی را در برابر فشارهای بین‌المللی تا حدودی حفظ می‌کند.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Middle East Institute",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3h5SFFuOWhOc2k1Y001RUVadkRmUk1OQjBqdThpVUpsSE1TN3RhWTdCcnQ3RGQzbV9DeW1pNFJZVGJRYXZqU28wM3h6VFcwRWZwcjYzbXhMSnpQbzh6REdpT0pZbWtkSXRkUGNLVHduQUNmbjNHbV9lNDE4ME9JZkd3NjB1TXdhSVlZOUw1LVdISF9HcVFMaWFBTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3h5SFFuOWhOc2k1Y001RUVadkRmUk1OQjBqdThpVUpsSE1TN3RhWTdCcnQ3RGQzbV9DeW1pNFJZVGJRYXZqU28wM3h6VFcwRWZwcjYzbXhMSnpQbzh6REdpT0pZbWtkSXRkUGNLVHduQUNmbjNHbV9lNDE4ME9JZkd3NjB1TXdhSVlZOUw1LVdISF9HcVFMaWFBTQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791768973.0
-    },
-    {
-        "id": "d442970bbc",
-        "title_fa": "هشدار اضطراری آمریکا درباره خطوط هوایی عربستان پس از حملات موشکی",
-        "title_en": "Saudi Arabia closes airport after 12 killed in missile attack as Trump and Tehran downplay midterms",
-        "summary": [
-            "سازمان هوانوردی فدرال آمریکا به دلیل افزایش درگیری‌ها و اختلال در سیستم‌های ناوبری، به ایرلاین‌ها درباره پرواز بر فراز عربستان هشدار داد.",
-            "حملات موشکی به ریاض و تعطیلی فرودگاه‌های کلیدی، خطرات امنیتی جنگ نیابتی را به سطح هشدار قرمز رسانده است.",
-            "تهدیدات پهپادی و موشקי تمامی ارتفاعات پروازی، از جمله نشست و برخاست هواپیماها را هدف گرفته‌اند."
-        ],
-        "impact": "فلج شدن موقت عملیات فرودگاهی در ریاض و افزایش ریسک امنیتی برای ناوگان هوایی تجاری در منطقه.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/iran-war-news-saudi-arabia-houthis-trump-october-11",
-        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-saudi-arabia-houthis-trump-october-11",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/f73cd55f0bd85e27b74ff0a0818711c2.jpg",
-        "timestamp": 1791768600.0
     }
 ]
