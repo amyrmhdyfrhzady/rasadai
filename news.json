@@ -1,5 +1,24 @@
 [
     {
+        "id": "a4557f8223",
+        "title_fa": "شکست راهبرد مهار حوثی‌ها توسط عربستان",
+        "title_en": "Houthi strikes mark the end of Saudi Arabia's Yemen 'containment strategy'",
+        "summary": [
+            "تلاش‌های عربستان سعودی برای کنترل حوثی‌های یمن هم‌زمان با تمرکز بر توسعه اقتصادی داخلی با شکست روبه‌رو شده است.",
+            "این وضعیت یکی از جدی‌ترین آزمون‌های امنیتی برای محمد بن سلمان از زمان به قدرت رسیدنش محسوب می‌شود.",
+            "رویکرد ریاض در قبال حوثی‌ها شباهت زیادی به سیاست گذشته اسرائیل در قبال حماس در غزه داشت که اکنون فروپاشیده است."
+        ],
+        "impact": "فروپاشی آتش‌بس و بازگشت چالش‌های امنیتی در مرزهای جنوبی عربستان.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/houthi-strikes-mark-end-saudi-arabias-yemen-containment-strategy",
+        "clean_url": "https://www.middleeasteye.net/news/houthi-strikes-mark-end-saudi-arabias-yemen-containment-strategy",
+        "image": "https://www.middleeasteye.net/sites/default/files/images-story/Yemen-blast-AFP-2026.jpg",
+        "timestamp": 1792016340.0
+    },
+    {
         "id": "7704ff76ec",
         "title_fa": "ادامه تلاش‌های هسته‌ای جـمـهـورۍ اسـلا‌مـی به روایت ژنرال آمریکایی",
         "title_en": "Iran has 'never given up' on having a nuclear weapon, Gen. Keane says",
@@ -5457,23 +5476,5 @@
         "clean_url": "https://www.iranintl.com/en/202610121721",
         "image": "http://www.bing.com/th?id=ONUT.9KOwF6L-KF2C5zLGgCRxEQ&pid=News",
         "timestamp": 1791782820.0
-    },
-    {
-        "id": "eb1348af00",
-        "title_fa": "طرح جدید معاون ترامپ برای خروج از بن‌بست با ای-ران",
-        "title_en": "Trump’s Iran gambit failed. Vance just found the only way out",
-        "summary": [
-            "واشنگتن به‌دنبال یافتن راهکار مهار هزینه‌های درگیری با ج-مهوری اس-لامی است.",
-            "تیم سیاسی ترامپ مسیرهای جایگزینی را برای جلوگیری از جنگ تمام‌عیار روی میز گذاشته است."
-        ],
-        "impact": "این طرح می‌تواند مسیر تنش‌های واشنگتن و تهران را وارد فاز تازه‌ای از دیپلماسی اجبار کند.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-iran-gambit-failed-vance-just-found-the-only-way-out/ar-AA2e3FaX",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-iran-gambit-failed-vance-just-found-the-only-way-out/ar-AA2e3FaX",
-        "image": "http://www.bing.com/th?id=ONUT.zzaztt2m0PORs_SEHk44Hg&pid=News",
-        "timestamp": 1791781200.0
     }
 ]
