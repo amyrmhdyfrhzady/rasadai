@@ -327,6 +327,24 @@
         "timestamp": 1791912957.0
     },
     {
+        "id": "a4ba97e3c3",
+        "title_fa": "جهش صادرات نفت خلیج فارس همزمان با ناامنی در هرمز",
+        "title_en": "Two more ships hit in Hormuz as US, Iran trade claims of control",
+        "summary": [
+            "آمارها نشان می‌دهد صادرات نفت کشورهای حوزه خلیج فارس در ماه اکتبر به بیش از ۱۷ میلیون بشکه در روز رسیده که جهش قابل توجهی نسبت به ماه قبل دارد.",
+            "همزمان با افزایش حملات به کشتی‌های تجاری در تنگه هرمز، صادرات نفت ج. ا. ا تحت تاثیر تحریم‌های ایالات متحده همچنان روی عدد صفر باقی مانده است."
+        ],
+        "impact": "بازار نفت منطقه با وجود ریسک بالای امنیتی و حملات به کشتی‌ها، روند صعودی خود را حفظ کرده است.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/liveblog/202610105959",
+        "clean_url": "https://www.iranintl.com/en/liveblog/202610105959",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/37d128d2feb39102502e44814ba6ade071530fb4-1280x853.jpg?rect=0,93,1280,669&w=1200&h=627&q=66&fit=max&auto=format",
+        "timestamp": 1791910800.0
+    },
+    {
         "id": "442697937f",
         "title_fa": "جهش صادرات نفت خاورمیانه علیرغم ناآرامی‌ها و تداوم تحریم‌ها",
         "title_en": "Middle East crude exports rebound amid Iran war",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://english.aawsat.com/features/5328055-al-haddad-predicted-80-day-israeli-war-saad-called-it-end",
         "image": "https://static.srpcdigital.com/2026-10/1819750.jpeg?VersionId=LtluZZL1PDzEyna7A1XamcmjAC4iZShk",
         "timestamp": 1791642420.0
-    },
-    {
-        "id": "25c3058504",
-        "title_fa": "حمله تند روزنامه کیهان به محمدجواد ظریف",
-        "title_en": "Zarif accused of aiding US, ‘suicidal attack’ on Iran’s security",
-        "summary": [
-            "روزنامه تحت امر دفتر علی خامنه‌ای، محمدجواد ظریف را به همکاری با ایالات متحده و تضعیف نهادهای امنیتی متهم کرد.",
-            "این هجوم رسانه‌ای پس از انتشار ویدیویی قدیمی از ظریف درباره رویکرد تهران نسبت به کشورهای همسایه کلید خورد."
-        ],
-        "impact": "افزایش شکاف و درگیری‌های درون‌حکومتی میان جناح‌های مختلف قدرت در تهران.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610107057",
-        "clean_url": "https://www.iranintl.com/en/202610107057",
-        "image": "http://www.bing.com/th?id=ONUT.GMRJOLWtGYCqJ_HIP9xadQ&pid=News",
-        "timestamp": 1791641340.0
     }
 ]
