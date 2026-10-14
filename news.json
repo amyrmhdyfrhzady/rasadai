@@ -253,6 +253,24 @@
         "timestamp": 1791963171.0
     },
     {
+        "id": "47b8411104",
+        "title_fa": "رونمایی از سپر ضد موشک هایپرسونیک اسرائیل در سایه رقابت تسلیحاتی",
+        "title_en": "Israel’s hypersonic interceptor goes public as the U.S. and Iran race to develop advanced missiles",
+        "summary": [
+            "اسرائیل به طور رسمی از سامانه رهگیر هایپرسونیک خود رونمایی کرد.",
+            "این اقدام در جریان رقابت فشرده آمریکا، ایران و قدرت‌های منطقه برای توسعه موشک‌های پیشرفته صورت گرفته است."
+        ],
+        "impact": "تغییر موازنه‌های دفاعی در منطقه و افزایش پویایی در حوزه فناوری موشک‌های پیشرفته.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "CTech",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13STN1LUJVUzBoUUh1R1ZlTHIwTW1rQ1pya2F2M2Zmd1pHYW81RF81UTY0QUZJSDRBOWJIbm9HcFJZbndST3VWc1Y5b3pUdGxON1l6amg0ZFNEaXB0OWcwNkdrMkVOajA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13STN1LUJVUzBoUUh1R1ZlTHIwTW1rQ1pya2F2M2Zmd1pHYW81RF81UTY0QUZJSDRBOWJIbm9HcFJZbndST3VWc1Y5b3pUdGxON1l6amg0ZFNEaXB0OWcwNkdrMkVOajA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791962880.0
+    },
+    {
         "id": "62fe2e852f",
         "title_fa": "فروریختن بخشی از یک ساختمان در تل‌آویو",
         "title_en": "Building partially collapses on Tel Aviv's Nahalat Binyamin Street; no reports of injuries",
@@ -5465,24 +5483,5 @@
         "clean_url": "https://cambodianess.com/article/trump-urges-zelensky-replacement-as-diesel-row-rages",
         "image": "https://www.bing.com/th?id=ONUT.vFJrBXKm_Fsdwmtfub5I_Q",
         "timestamp": 1791694864.5636249
-    },
-    {
-        "id": "a65d4a5aaf",
-        "title_fa": "تهدید حوثی‌ها علیه فرودگاه‌های عربستان و خنثی‌سازی عملیات",
-        "title_en": "Live Updates: Police thwart 'imminent' terror attack near Jerusalem, Houthis warn against using Saudi airports",
-        "summary": [
-            "نیروهای امنیتی توانستند یک حمله تروریستی را در نزدیکی بیت‌المقدس در نطفه خفه کنند.",
-            "گروه حوثی با تهدید فرودگاه‌های عربستان به دنبال مختل کردن پروازها و ناامن‌سازی منطقه هستند.",
-            "دونالد ترامپ در حال بررسی پیوستن به ریاض برای مقابله جدی با تحرکات این گروه نیابتی است."
-        ],
-        "impact": "افزایش تنش‌های منطقه‌ای و احتمال ورود مستقیم ایالات متحده برای مهار تهدیدات حوثی‌ها علیه عربستان.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-11/live-updates-911253",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-11/live-updates-911253",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/741004",
-        "timestamp": 1791694080.0
     }
 ]
