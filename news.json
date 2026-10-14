@@ -309,6 +309,25 @@
         "timestamp": 1791939221.0
     },
     {
+        "id": "d307cdc1fd",
+        "title_fa": "معمای رشد بورس تهران میان بحران‌های اقتصادی و جنگ",
+        "title_en": "Nowhere else to go? The puzzle behind Iran’s stock rally",
+        "summary": [
+            "صعود بورس تهران در حالی ادامه دارد که صندوق بین‌المللی پول از انقباض سنگین اقتصاد ج-م-ه-و-ر-ی ا-س-لا-می خبر داده است.",
+            "سرمایه‌گذاران برای حفظ ارزش دارایی‌های خود راهی جز ورود به بازار سهام ندارند.",
+            "کمبود انرژی و بحران ارز فشار شدیدی بر بدنه اقتصاد وارد کرده است."
+        ],
+        "impact": "رشد کاذب بورس تنها سرپوشی بر فرار سرمایه و تلاش مردم برای نجات ارزش دارایی‌هایشان است.",
+        "tag": "بورس",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610145869",
+        "clean_url": "https://www.iranintl.com/en/202610145869",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791937860.0
+    },
+    {
         "id": "0e6a68dd40",
         "title_fa": "تحریم دادگاه لاهه توسط آمریکا؛ سپر واشنگتن برای متحدان",
         "title_en": "Washington Policy Weekly: United States Sanctions International Criminal Court",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://www.iranintl.com/en/202610100090",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791661920.0
-    },
-    {
-        "id": "0e9a83463d",
-        "title_fa": "هشدار ارتش اسرائیل درباره زمان‌سندی حمله به ایـران",
-        "title_en": "IDF Officials Warn Pre-Election Iran Strike Could Seem Politically Motivated",
-        "summary": [
-            "مقام‌های ارتش اسرائیل نگرانند که اقدام نظامی پیش از انتخابات، انگیزه سیاسی به خود بگیرد.",
-            "سایه سیاست داخلی بر تصمیم‌های کلان امنیتی و نظامی سایه اندخـته است."
-        ],
-        "impact": "احتمال تعویق یا بازنگری در برنامه‌های ضربتی علیه تأسیسات هسته‌ای به دلیل محاسبات سیاسی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVRWS1hPanFCMldSUC1uNFpsWVFIX3FnNnkzV3RpektPcERUMFlfMGRQeDZhWElEdFdYeFJOTU54UTJnVm95ZmZyTUpLbmMxZkJzRjE3bEIxcDdvQUpHWXA3QnBZN3YtaWU1LVdKU3o0Y2tid2FkUzR4SXZLbWY0UkpuS1F6TGtOUk5STm9rYmhhRmRpcEl2ckZCRXNwSzZHU0czVzI3cV9HVjhhNW5ZQnVobnRoNGpscDdlWFN1NmhTT3pKNHV6YWxsOFF1OHpkcjJuenZ2RXJMMWxULVdRdmgxU0xOYVpnWkJfTWhfcXRJbEtiU2hObGttZXIzMVpnVlFvMEVjZm1mVlJNU0hHOFU3THVKcHlrcHhtZFNFNFBpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVRWS1hPanFCMldSUC1uNFpsWVFIX3FnNnkzV3RpektPcERUMFlfMGRQeDZhWElEdFdYeFJOTU54UTJnVm95ZmZyTUpLbmMxZkJzRjE3bEIxcDdvQUpHWXA3QnBZN3YtaWU1LVdKU3o0Y2tid2FkUzR4SXZLbWY0UkpuS1F6TGtOUk5STm9rYmhhRmRpcEl2ckZCRXNwSzZHU0czVzI3cV9HVjhhNW5ZQnVobnRoNGpscDdlWFN1NmhTT3pKNHV6YWxsOFF1OHpkcjJuenZ2RXJMMWxULVdRdmgxU0xOYVpnWkJfTWhfcXRJbEtiU2hObGttZXIzMVpnVlFvMEVjZm1mVlJNU0hHOFU3THVKcHlrcHhtZFNFNFBpdw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791660120.0
     }
 ]
