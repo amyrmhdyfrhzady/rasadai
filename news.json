@@ -596,6 +596,24 @@
         "timestamp": 1791972007.0
     },
     {
+        "id": "5a2624b5a6",
+        "title_fa": "تعویق تورنمنت تنیس ریاض به دلیل تنش‌های منطقه",
+        "title_en": "Six Kings Slam, change of schedule: tournament postponed to December",
+        "summary": [
+            "مسابقات نمایشی شش پادشاه در ریاض به دلیل نگرانی‌های امنیتی و مشکلات اجرایی در خاورمیانه به تعویق افتاد.",
+            "این تورنمنت که قرار بود اکتبر برگزار شود، اکنون به اواخر دسامبر موکول شده است."
+        ],
+        "impact": "تنش‌های منطقه‌ای برنامه‌های ورزشی بین‌المللی در عربستان را نیز تحت تأثیر قرار داد.",
+        "tag": "ورزشی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261015KRONOS-202610121503772084_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1791972000.0
+    },
+    {
         "id": "4cea5d40c9",
         "title_fa": "ادعای مقام ارشد سـپـاه درباره جنگ جهانی",
         "title_en": "Iran in the midst of a world war, IRGC general says",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://www.foxnews.com/live-news/iran-war-news-saudi-arabia-houthis-trump-october-11",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/f73cd55f0bd85e27b74ff0a0818711c2.jpg",
         "timestamp": 1791768600.0
-    },
-    {
-        "id": "7d553dec82",
-        "title_fa": "جهش نفت به بالای ۱۰۵ دلار با حملات یمنی‌ها",
-        "title_en": "Oil tops $105 as Houthi attacks on Saudi Arabia raise inflation fears",
-        "summary": [
-            "بهای نفت برنت با تاثیرپذیری از حملات به عربستان از مرز ۱۰۵ دلار گذشت.",
-            "نگا‌رانی‌ها از رشد تورم جهانی به دنبال تنش‌های جدید در بازار انرژی افزایش یافته است."
-        ],
-        "impact": "افزایش بهای سوخت و تشدید فشارهای تورمی در بازارهای جهانی",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears",
-        "clean_url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/165090199/image_165090199.jpg?io=getty-c-w630",
-        "timestamp": 1791763860.0
     }
 ]
