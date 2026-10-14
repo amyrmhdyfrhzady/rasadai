@@ -1,5 +1,23 @@
 [
     {
+        "id": "d22d41e93c",
+        "title_fa": "مرور آخرین اخبار و تحولات داخلی",
+        "title_en": "Iran News in Brief – October 14, 2026 - National Council of Resistance of Iran",
+        "summary": [
+            "گزارش‌های روزانه از وضعیت بحرانی داخل کشور منتشر شد.",
+            "مجموعه اخبار کوتاه نشان‌دهنده تداوم نارضایتی‌های عمومی است."
+        ],
+        "impact": "بازتاب تداوم ناآرامی‌ها و فشارهای اقتصادی بر جامعه",
+        "tag": "اجتماعی",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "National Council of Resistance of Iran - NCRI",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSnNodXFNU1ZrcVczbnNLM25DRkd1SDZiZ2E5Q3JMeHRSX3VQaEpOek5mS1ZiVW92ODV0UGpacEVWRzd5VnpYWXVjclVtYlR5TUx3b1VVWWlBa1hNTktRbmJTSWNkZE02OVpNbFJ1UndTVEg3bmZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSnNodXFNU1ZrcVczbnNLM25DRkd1SDZiZ2E5Q3JMeHRSX3VQaEpOek5mS1ZiVW92ODV0UGpacEVWRzd5VnpYWXVjclVtYlR5TUx3b1VVWWlBa1hNTktRbmJTSWNkZE02OVpNbFJ1UndTVEg3bmZR",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791955800.0
+    },
+    {
         "id": "220c06b1ff",
         "title_fa": "تهدید جدی ج.ا به بستن کامل تنگه هرمز و گسترش حملات دریایی",
         "title_en": "Iran expanding attacks on ships beyond Hormuz to keep oil prices high; official says full closure coming - report",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://ziare.com/cautare/pamant-rotund-calatorie-pag50",
         "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
         "timestamp": 1791655267.2544765
-    },
-    {
-        "id": "5545f24712",
-        "title_fa": "هشدار خزانه داری آمریکا به خریداران نفت ایران",
-        "title_en": "Bessent has a warning for anyone helping Iran sell oil",
-        "summary": [
-            "مقام های آمریکایی مدعی انهدام بخش عمده ای از ناوگان قاچاق نفت تهر...ن شدند.",
-            "فشار حداکثری اقتصادی با هدف بستن مسیرهای دور زدن تحریم ها وارد مرحله تازه ای شده است."
-        ],
-        "impact": "تنگ تر شدن حلقه فروش نفت و افزایش فشار بر منابع درآمدی ج.ا.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "TheStreet on MSN",
-        "url": "https://www.msn.com/en-us/news/other/bessent-has-a-warning-for-anyone-helping-iran-sell-oil/ar-AA2dZtI5",
-        "clean_url": "https://www.msn.com/en-us/news/other/bessent-has-a-warning-for-anyone-helping-iran-sell-oil/ar-AA2dZtI5",
-        "image": "http://www.bing.com/th?id=ONUT.fbPQ45hclHCBXxplisUKMg&pid=News",
-        "timestamp": 1791653580.0
     }
 ]
