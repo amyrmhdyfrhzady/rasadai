@@ -982,6 +982,24 @@
         "timestamp": 1791968940.0
     },
     {
+        "id": "04e94347da",
+        "title_fa": "پایان ماموریت نیروهای حافظ صلح سازمان ملل در لبنان",
+        "title_en": "Head of UN peacekeeping efforts in Lebanon as UNIFIL mandate winds down, will visit forces in Syria, Israel",
+        "summary": [
+            "مقام ارشد سازمان ملل برای بررسی وضعیت نیروهای حافظ صلح راهی بیروت و اراضی اشغالی شد.",
+            "مهلت ماموریت نیروهای نظارت بر مرزهای جنوبی لبنان در تاریخ ۳۱ دسامبر به پایان می‌رسد."
+        ],
+        "impact": "تغییر موازنه‌های امنیتی در مرزهای شمالی اسرائیل با پایان ماموریت سازمان ملل",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/head-of-un-peacekeeping-efforts-in-lebanon-as-unifil-mandate-winds-down-will-visit-forces-in-syria-israel/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/head-of-un-peacekeeping-efforts-in-lebanon-as-unifil-mandate-winds-down-will-visit-forces-in-syria-israel",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261013__D36K4CQ__v1__HighRes__LebanonIsraelUsIranWarUnifil.jpg",
+        "timestamp": 1791968820.0
+    },
+    {
         "id": "e46c873ed1",
         "title_fa": "شکست دولت ترامپ در دادگاه؛ بازگشت خبرنگاران به کاخ سفید",
         "title_en": "CNN chief reacts to judge’s ruling on Trump press ban",
@@ -5457,23 +5475,5 @@
         "clean_url": "https://tass.com/world/2200965",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1791787980.0
-    },
-    {
-        "id": "2a9e073c0a",
-        "title_fa": "مرور آخرین اخبار و تحولات داخلی",
-        "title_en": "Iran News in Brief – October 12, 2026 - National Council of Resistance of Iran",
-        "summary": [
-            "انتشار گزارش روزانه از وضعیت بحرانی داخل کشور توسط منابع اپوزیسیون",
-            "بررسی اجمالی اعتراضات و چالش‌های سیاسی پیش روی کـ.ـابـ.ـینـ.ـه"
-        ],
-        "impact": "بازتاب تداوم ناآرامی‌ها و فشارهای داخلی بر بدنه حـ.ـکـ.ـومـ.ـت",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3VnZJRXAyUFVvZXNveWI3ZWI5UGstR0V1QW1GTWl5VXdSUkNmeXVCM0lSbzZWeUFydS1LUVo3dUk5UmZiQ2VIWDVGQzZvaUt3RkRseVdoeV8tamdXUFNLUmxCcEFYdnVtMlNrTXdOSWswOEp5bEJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3VnZJRXAyUFVvZXNveWI3ZWI5UGstR0V1QW1GTWl5VXdSUkNmeXVCM0lSbzZWeUFydS1LUVo3dUk5UmZiQ2VIWDVGQzZvaUt3RkRseVdoeV8tamdXUFNLUmxCcEFYdnVtMlNrTXdOSWswOEp5bEJn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791783888.0
     }
 ]
