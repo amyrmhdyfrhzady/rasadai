@@ -1,5 +1,24 @@
 [
     {
+        "id": "36aeedc117",
+        "title_fa": "رهگیری موشک یمنی‌ها در ریاض همزمان با تهدید تاسیسات نفتی",
+        "title_en": "Saudi Arabia intercepts Houthi-fired missile as IRGC claims commercial ship struck mine",
+        "summary": [
+            "پدافند سعودی یک فروند موشک بالستیک شلیک شده از سوی نیروهای نیابتی تهران را بر فراز ریاض منهدم کرد.",
+            "گروه‌های وابسته به سـپـاه به شرکت‌های کشتیرانی و کارکنان تاسیسات انرژی هشدار تخلیه دادند.",
+            "تنش‌های منطقه‌ای به طور مستقیم زیرساخت‌های حیاتی انرژی و امنیت اقتصادی پادشاهی سعودی را نشانه رفته است."
+        ],
+        "impact": "بال رفتن ریسک امنیت انرژی و تشدید فضای جنگی در شاهراههای تجاری منطقه.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-donald-trump-oil-nuclear-sites-hormuz-strait-october-14",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-donald-trump-oil-nuclear-sites-hormuz-strait-october-14",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/1efa77a14a9fea1fbae67bf35caecd13.jpg",
+        "timestamp": 1791985560.0
+    },
+    {
         "id": "d9e8b4e14c",
         "title_fa": "عقب‌نشینی موقت نتانیاهو از حمله به جـ.ـهـ.ـوری اسـ.ـلامـ.ـی پیش از انتخابات",
         "title_en": "Netanyahu says he is not seeking to attack Iran again before Israel election",
@@ -5454,23 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10NjZHZXJNdlc3d2JudGw0OGhVWHVfMHZibWc2V2F5VV9wX3RUUG9jVXBuakNqeVpCclduY1ZvYmljQS1uNW1nQzlYeUd1S194Z2c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791713356.0
-    },
-    {
-        "id": "ea1c9c18f3",
-        "title_fa": "ادعای امنیت تاسیسات اتمی در برابر حملات",
-        "title_en": "Iranian nuclear technology safe from US attacks, says atomic energy chief",
-        "summary": [
-            "رئیس سازمان انرژی اتمی ایران مدعی شد زیرساخت‌های هسته‌ای کشور در برابر هرگونه حمله احتمالی ایالات متحده ایمن هستند.",
-            "این اظهارات در حالی مطرح می‌شود که فشارها و هشدارهای نظامی بر سر پرونده اتمی ایران به اوج رسیده است."
-        ],
-        "impact": "تلاش برای کاهش هراس عمومی و بازار از احتمال ضربه نظامی به تاسیسات هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRW1DZGJuYnV3M2xjZDFqemNoTFBEYmdGZTZpQjFVUkFGQ3FGUEt6VG9ldFJKd3c3OEI1Y2Z0Nmdva1dlNmRVR0pxQktFTjdud2x2NTlLam9rNzFMZXA3TlJsdUZ0a2RkLV93UTg4NW9zeFpYWkNiN0JwQzFET0pxbmpRUmNMMmF6c2kxbEduNlplWEdHSUNISnJIblpUQklNYUNCY3k4ckVvb1lfVWhLREZGa0M2M0s5Y001RUtUUzduQnlHYjZEbFVYZ1pzVDVtbWRUblVkaElvbWU0dDhzS0lJbEhlYlRlUml4bDRwUjZPQVgwbnFBWHlVXzlTLXpRWkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRW1DZGJuYnV3M2xjZDFqemNoTFBEYmdGZTZpQjFVUkFGQ3FGUEt6VG9ldFJKd3c3OEI1Y2Z0Nmdva1dlNmRVR0pxQktFTjdud2x2NTlLam9rNzFMZXA3TlJsdUZ0a2RkLV93UTg4NW9zeFpYWkNiN0JwQzFET0pxbmpRUmNMMmF6c2kxbEduNlplWEdHSUNISnJIblpUQklNYUNCY3k4ckVvb1lfVWhLREZGa0M2M0s5Y001RUtUUzduQnlHYjZEbFVYZ1pzVDVtbWRUblVkaElvbWU0dDhzS0lJbEhlYlRlUml4bDRwUjZPQVgwbnFBWHlVXzlTLXpRWkE",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791712620.0
     }
 ]
