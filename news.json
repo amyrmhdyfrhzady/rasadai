@@ -1,5 +1,23 @@
 [
     {
+        "id": "f562f508e9",
+        "title_fa": "شکاف در کنگره آمریکا بر سر تقابل با ایران",
+        "title_en": "East Arkansas congressional race debate highlights divide over Iran war",
+        "summary": [
+            "مناظره‌های انتخاباتی در آرکانزاس نشان می‌دهد که سیاستمداران آمریکایی بر سر نحوه برخورد با ج.ا دچار تفرقه جدی هستند.",
+            "این تضاد آرا بیانگر سردرگمی در واشنگتن درباره انتخاب میان دیپلماسی یا درگیری نظامی مستقیم است."
+        ],
+        "impact": "عدم وجود اجماع در سیاست خارجی آمریکا، دست ج.ا را برای مانورهای منطقه‌ای باز می‌گذارد.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Arkansas Advocate",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmxlR25JSUJrQk15aDJHWjl2d1ltaTBScFJrMzNjOTYyXzMzbWY5SzhmLUo4Qzljdmh2emJBOFFiVmxSVFA4SWVIVTRPVGdJU2tleFhEYl9QMEFpVkM1amVHcHhQcUtWdktLQUFERi1OMEJWRG9fVU1MRlBmaVJ1dmFHRWdQYUFDUWVSa0VmOWdTWWJPR0g1UWoxZmRIODlzTzlxMThMb25XVDdKUzBHQ2lB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmxlR25JSUJrQk15aDJHWjl2d1ltaTBScFJrMzNjOTYyXzMzbWY5SzhmLUo4Qzljdmh2emJBOFFiVmxSVFA4SWVIVTRPVGdJU2tleFhEYl9QMEFpVkM1amVHcHhQcUtWdktLQUFERi1OMEJWRG9fVU1MRlBmaVJ1dmFHRWdQYUFDUWVSa0VmOWdTWWJPR0g1UWoxZmRIODlzTzlxMThMb25XVDdKUzBHQ2lB",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792010477.0
+    },
+    {
         "id": "1fea74e1cb",
         "title_fa": "تلاش حوثی‌ها برای ساخت موشک پیشرفته با قطعات چینی",
         "title_en": "Yemen's Houthis look to build ballistic missiles with more Chinese supplies,...",
@@ -597,6 +615,25 @@
         "clean_url": "https://tass.com/world/2202167",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1791974820.0
+    },
+    {
+        "id": "88ddb2353a",
+        "title_fa": "جرم‌انگاری توهین به پرچم در سایه بحران معیشتی",
+        "title_en": "Iran moves to criminalize ‘insulting’ the Islamic Republic flag",
+        "summary": [
+            "قوه قضاییه ج.ا در حال تدوین قانونی برای مجازات کسانی است که به پرچم حکومتی بی‌احترامی می‌کنند.",
+            "این اقدام در حالی صورت می‌گیرد که سیستم تامین اجتماعی در پرداخت حقوق بیکاری ماه‌ها تاخیر دارد و مردم در تامین نان شب مانده‌اند.",
+            "حاکمیت با تمرکز بر نمادهای ایدئولوژیک، سعی در سرکوب نارضایتی‌های مدنی دارد که به دلیل فروپاشی اقتصادی تشدید شده است."
+        ],
+        "impact": "افزایش فشار امنیتی بر معترضان همزمان با ناتوانی دولت در پرداخت مطالبات معیشتی.",
+        "tag": "سرکوب",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610143844",
+        "clean_url": "https://www.iranintl.com/en/202610143844",
+        "image": "http://www.bing.com/th?id=ONUT.lXWPIDP_OurOy6ZXzv6gYQ&pid=News",
+        "timestamp": 1791973500.0
     },
     {
         "id": "bd47d236b4",
@@ -5437,41 +5474,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-problem-the-us-military-will-do-whatever-it-takes-to-blockade-iran-and-cripple-tehran-s-economy/ar-AA2e46Mx",
         "image": "http://www.bing.com/th?id=ONUT.JhfFm1gfb6W5xZr1-GJcEg&pid=News",
         "timestamp": 1791779584.0
-    },
-    {
-        "id": "9a774b29a7",
-        "title_fa": "فراخوان مقاله برای نشریه جنگ‌های کوچک",
-        "title_en": "Interagency Journal Call for Papers (10/30/26)",
-        "summary": [
-            "انتشار فراخوان جدید برای ارسال مقالات تخصصی به نشریه جنگ‌های کوچک.",
-            "این فراخوان به موضوعات مرتبط با امنیت ملی و مطالعات راهبردی اختصاص دارد."
-        ],
-        "impact": "یک رویداد علمی عادی و فاقد تأثیر فوری بر تحولات میدانی.",
-        "tag": "پژوهشی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Small Wars Journal",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnJoc2ZWWUpNT2ExY1dvY0l5RUxXalJCWUthVFdNdEhOYy1OVDNEd1F5U3RLbWpaZkh2YVhXaWlkZU9PWjA1azN4MXg5YWo3N2NiUGVLY3Q3ZFdiYkJJR0RLMjJuRkFGa2dqR2dnek9YWU90QXkyMDNmQ0RGOEw0SmlZamJXNDFYc2w5V1ZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnJoc2ZWWUpNT2ExY1dvY0l5RUxXalJCWUthVFdNdEhOYy1OVDNEd1F5U3RLbWpaZkh2YVhXaWlkZU9PWjA1azN4MXg5YWo3N2NiUGVLY3Q3ZFdiYkJJR0RLMjJuRkFGa2dqR2dnek9YWU90QXkyMDNmQ0RGOEw0SmlZamJXNDFYc2w5V1ZR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791777745.0
-    },
-    {
-        "id": "60d311479b",
-        "title_fa": "فشار واشنگتن بر مسیر ریلی تجارت جـ.ـهـ.ـمـ.ـو‌ر‌ی ا‌سـ.ـلا‌مـ.ـی و چین",
-        "title_en": "Can US sanctions derail Iran's China trade route?",
-        "summary": [
-            "تحریم‌های جدید ایالات متحده مانع کامل قطارهای باری چین نمی‌شود، اما هزینه و ریسک این مسیر حیاتی را به شدت بالا می‌برد.",
-            "مسدود شدن مسیرهای دریایی باعث شده تـ.ـهـ.ـر‌ا‌ن برای ورود کالاهایی مثل لوازم یدکی خودرو به شدت به خطوط ریلی وابسته شود."
-        ],
-        "impact": "افزایش هزینه تامین کالا و قطعات صنعتی به دلیل پرهزینه شدن مسیرهای زمینی و ریلی جایگزین.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610098376",
-        "clean_url": "https://www.iranintl.com/en/202610098376",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/956e68726be90fc45c7fce00a872d61319f8322a-1280x850.jpg?rect=94,161,1150,604&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791777420.0
     }
 ]
