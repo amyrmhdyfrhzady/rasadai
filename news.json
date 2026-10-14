@@ -523,6 +523,25 @@
         "timestamp": 1791959478.0
     },
     {
+        "id": "149d0c7d17",
+        "title_fa": "سقوط آزاد تولید و صادرات نفت ج-م-ه-و-ر-ی ا-س-لا-م-ی",
+        "title_en": "Iran’s Oil Production Falls Below 2 Million Barrels Per Day",
+        "summary": [
+            "تولید روزانه نفت ایران در سپتامبر ۲۰۲۶ به زیر دو میلیون بشکه سقوط کرد که پایین‌ترین رقم ثبت‌شده در گزارش‌های اخیر اوپک است.",
+            "داده‌های پلتفرم ورسکس نشان می‌دهد صادرات دریایی نفت خام ایران از هفته دوم سپتامبر تا پنجم اکتبر عملاً به صفر رسیده است.",
+            "محاصره دریایی توسط نیروی دریایی آمریکا مانع خروج نفتکش‌های حامل نفت ایران از خلیج فارس شده و میلیون‌ها بشکه روی آب سرگردانند."
+        ],
+        "impact": "فلج شدن کامل شریان‌های درآمدی حاکمیت و تشدید بحران ارزی در اقتصاد کشور.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "IranWire",
+        "url": "https://iranwire.com/en/news/158874-irans-oil-production-falls-below-2-million-barrels-per-day/",
+        "clean_url": "https://iranwire.com/en/news/158874-irans-oil-production-falls-below-2-million-barrels-per-day",
+        "image": "http://www.bing.com/th?id=ONUT.Ro3Zrxs-qWSa78Gf_cN-yw&pid=News",
+        "timestamp": 1791958260.0
+    },
+    {
         "id": "52a2d9588b",
         "title_fa": "هشدار هریس درباره شکل‌گیری محور تهران، مسکو و پکن",
         "title_en": "Harris warns of growing cooperation between Iran, Russia, China and North Korea",
@@ -5457,24 +5476,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791707377.0
-    },
-    {
-        "id": "bdf09891f7",
-        "title_fa": "بازداشت ۶۱ شهروند مراکشی در الجزایر به اتهام خرابکاری",
-        "title_en": "Houthis take responsibility for Riyadh airport attack, Saudi Arabia vows response",
-        "summary": [
-            "مقام‌های امنیتی الجزایر از انهدام یک شبکه جرم بین‌المللی وابسته به مراکش خبر دادند.",
-            "این افراد متهم هستند از طریق مرزهای کوهستانی و به صورت غیرقانونی برای اجرای عملیات خرابکارانه وارد خاک الجزایر شده‌اند.",
-            "روابط سیاسی میان الجزایر و مراکش از سال‌ها پیش به دلیل اختلافات مرز و مسائل امنیتی کاملاً قطع است."
-        ],
-        "impact": "این بازداشت گسترده تنش‌های سیاسی و امنیتی میان دو قدرت شمال آفریقا را به شدت بالاتر می‌برد.",
-        "tag": "امنیتی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/yemens-houthis-claim-responsibility-airport-attack",
-        "clean_url": "https://www.newarab.com/news/yemens-houthis-claim-responsibility-airport-attack",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2298939072.jpeg?itok=bIPyIOU8",
-        "timestamp": 1791706980.0
     }
 ]
