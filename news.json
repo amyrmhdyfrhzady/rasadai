@@ -18,6 +18,25 @@
         "timestamp": 1791955800.0
     },
     {
+        "id": "7819a4ae2a",
+        "title_fa": "اعدام یک زندانی سیاسی با اتهامات امنیتی",
+        "title_en": "Iran executes monarchist convicted of armed attacks during war, judiciary news outlet says",
+        "summary": [
+            "دستگاه قضا حکم اعدام یک زندانی با گرایش پادشاهی‌خواه را اجرا کرد.",
+            "این فرد به انجام حملات مسلحانه در دوران جنگ متهم شده بود.",
+            "حکومت با تشدید سرکوب‌ها تلاش می‌کند فضای ارعبار را در جامعه حفظ کند."
+        ],
+        "impact": "افزایش موج اعدام‌ها و تلاش برای ایجاد ترس عمومی در جامعه.",
+        "tag": "سرکوب",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpwLVEyTnpiOC1HOGZUTVRVaFRnbGFIQWlnZzJHSF81ZUNPWV9fd09LYk1DbEdmYnp5aXdKUmZnLUlSV3o0RGZsSUstMjBJWGxhUEFubTJhbVhfUF9IaTlPeWoyLWFmb3dYeVpMX3hzYmVwRjBXekdyMnVGTEtnN2FNaG9NdDdyYzc5c0RTS3JWZlYxaXhQYkNCMWl5VGg3LTl1T3ZSMDl6NnZRWlVsNUU3cUdkbkk0WmNWY3lWSGNVdWxBQUlr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpwLVEyTnpiOC1HOGZUTVRVaFRnbGFIQWlnZzJHSF81ZUNPWV9fd09LYk1DbEdmYnp5aXdKUmZnLUlSV3o0RGZsSUstMjBJWGxhUEFubTJhbVhfUF9IaTlPeWoyLWFmb3dYeVpMX3hzYmVwRjBXekdyMnVGTEtnN2FNaG9NdDdyYzc5c0RTS3JWZlYxaXhQYkNCMWl5VGg3LTl1T3ZSMDl6NnZRWlVsNUU3cUdkbkk0WmNWY3lWSGNVdWxBQUlr",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1791954780.0
+    },
+    {
         "id": "220c06b1ff",
         "title_fa": "تهدید جدی ج.ا به بستن کامل تنگه هرمز و گسترش حملات دریایی",
         "title_en": "Iran expanding attacks on ships beyond Hormuz to keep oil prices high; official says full closure coming - report",
@@ -5472,23 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOC1oN3YyT3IxS2ZFVy0xMEt1NFl6U1ZqV1A1TmtxajZpaVA1cEZ5YVBUNFZaTmpCYU5wU2JzN2JmdDVQMFZBUDZWS1pBQXhhNzBscmI1YmVrVzluN1BGQzhDOWc5dUxOMkZVM0hfdGI4ZUVLc0ItaWx0RkRkbXFqUGNQbGlVVW9ENmdQdHktMmV4YTgyOFBPZzFqNTFNRmhPRVlidmZiYUdhYlAydHhCZHNQREZyRWtQdmFHRWZxZGd1LVFnYXhJbWhKeEpFLXlsSFJaaWNwQ3NDUVBBMTZ1ZGJpX2ljbWFNekdwRG1JY0FhN3ZNSWpVQlRab2ZMVzhfY3N4LVN6ZjJORDB5SWFndg",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791655320.0
-    },
-    {
-        "id": "a593a51772",
-        "title_fa": "هک تلویزیون دولتی ایران و پخش پیام رضا پهلوی",
-        "title_en": "Articole despre \"pamant-rotund-calatorie\"",
-        "summary": [
-            "هکرها موفق شدند با مختل کردن پخش ماهواره‌ای تلویزیون دولتی، پیام‌های حمایتی از رضا پهلوی را روی آنتن بفرستند.",
-            "این اقدام پیامی آشکار به بدنه‌ی نیروهای امنیتی و حاکمیت برای ریزش بدنه‌هاست."
-        ],
-        "impact": "آسیب‌پذیری شدید سیستم‌های رسانه‌ای حکومت و تقویت روحیه‌ی مخالفان داخلی.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/pamant-rotund-calatorie-pag50",
-        "clean_url": "https://ziare.com/cautare/pamant-rotund-calatorie-pag50",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1791655267.2544765
     }
 ]
