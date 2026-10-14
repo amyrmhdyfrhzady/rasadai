@@ -829,6 +829,24 @@
         "timestamp": 1791882120.0
     },
     {
+        "id": "83ab58f093",
+        "title_fa": "بازداشت خبرنگار ژاپنی به اتهام جاسوسی در روسیه",
+        "title_en": "Hokkaido Shimbun reporter gathered data about participants in special military operation",
+        "summary": [
+            "سرویس امنیتی روسیه اعلام کرد یک خبرنگار روزنامه ژاپنی هکایدو شیمبون به اتهام جاسوسی در جزایر کوریل بازداشت شده است.",
+            "این فرد با سوءاستفاده از پوشش خبری، اطلاعات مربوط به نیروهای نظامی اعزامی به اوکراین را جمع‌آوری می‌کرده است."
+        ],
+        "impact": "این رویداد تنش‌های دیپلماتیک میان مسکو و توکیو را به شکل محسوسی افزایش می‌دهد.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/society/2201563",
+        "clean_url": "https://tass.com/society/2201563",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1791881700.0
+    },
+    {
         "id": "c49cd8d5a2",
         "title_fa": "تغییر استراتژی کتی وود در سهام متا",
         "title_en": "Cathie Wood makes surprising Meta move on Zuckerberg's AI push",
@@ -5475,23 +5493,5 @@
         "clean_url": "https://www.iranintl.com/en/202610109609",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791640920.0
-    },
-    {
-        "id": "bc8ee1ed5d",
-        "title_fa": "شکست مذاکرات واشنگتن و کی‌یف پس از معامله انرژی ترامپ و پوتین",
-        "title_en": "US-Ukraine talks in Miami derailed by Putin-Trump diesel deal — media",
-        "summary": [
-            "دیدار مقام‌های آمریکایی و اوکراینی در میامی به دلیل توافق انرژی میان دونالد ترامپ و ولادیمیر پوتین نیمه‌کاره رها شد.",
-            "تیم اوکراینی از توافق پشت‌پرده مسکو و واشنگتن غافلگیر شده و سفر خود را لغو کرد."
-        ],
-        "impact": "تنش در روابط واشنگتن و کی‌یف و تغییر معادلات جنگ اوکراین به نفع مسکو.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2200363",
-        "clean_url": "https://tass.com/world/2200363",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1791637980.0
     }
 ]
