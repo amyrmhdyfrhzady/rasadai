@@ -452,6 +452,24 @@
         "timestamp": 1791971261.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "اخبار حاشیه‌ای و ورزشی رسانه‌های غربی",
+        "title_en": "US latest news",
+        "summary": [
+            "این گزارش شامل اخبار مختلف ورزشی و حاشیه‌ای از رسانه‌های آمریکایی است.",
+            "هیچ‌گونه محتوای سیاسی، امنیتی یا مرتبط با مسائل کلان ژئوپلیتیک در این متن وجود ندارد."
+        ],
+        "impact": "این خبر هیچ‌گونه تأثیر اقتصادی یا سیاسی بر تحولات ندارد.",
+        "tag": "متفرقه",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1791970200.0
+    },
+    {
         "id": "002a9787b3",
         "title_fa": "هشدار صریح ترامپ درباره برنامه اتمی ج.ا",
         "title_en": "Trump claims fallen soldiers said 'we cannot let Iran have a nuclear weapon' - ABC News",
@@ -5454,25 +5472,5 @@
         "clean_url": "https://www.iranintl.com/en/202610111620",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/bfc9ade4dddcd8ac75c05c958e03160564a5144a-853x1280.jpg?rect=0,416,853,448&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791738660.0
-    },
-    {
-        "id": "4724cd6fbe",
-        "title_fa": "هزینه سنگین جنگ برای ج.ا و اقتصاد جهانی",
-        "title_en": "The Geopolitical Earthquake of the Iran War",
-        "summary": [
-            "خسارت ۳۰۰ میلیارد دلاری به زیرساخت‌های ج.ا در پی درگیری‌های اخیر",
-            "پنتاگون با هزینه ۴۴ میلیارد دلاری، ضربات اقتصادی گسترده‌ای به تهران وارد کرده است",
-            "بسته شدن تنگه هرمز و اختلال در صادرات انرژی، تورم جهانی را به نقطه بحرانی رسانده است",
-            "هشدار صندوق بین‌المللی پول درباره احتمال وقوع رکود جهانی در صورت تداوم تنش‌ها"
-        ],
-        "impact": "تداوم تنش‌ها منجر به جهش قیمت انرژی و خطر رکود در بازارهای جهانی شده است.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/10/12/the-geopolitical-earthquake-of-the-iran-war/",
-        "clean_url": "https://www.counterpunch.org/2026/10/12/the-geopolitical-earthquake-of-the-iran-war",
-        "image": "http://www.bing.com/th?id=ONUT.3ybOpvjPrD5ha54jLqup_A&pid=News",
-        "timestamp": 1791738000.0
     }
 ]
