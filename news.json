@@ -271,6 +271,24 @@
         "timestamp": 1792033200.0
     },
     {
+        "id": "fa30fbb6ec",
+        "title_fa": "محاکمه عوامل وابسته به سپاه به اتهام طرح ترور در آلمان",
+        "title_en": "نشست اتحادیه اروپا و کشورهای خلیج فارس در ریاض احتمالا به دلایل امنیتی به تعویق می‌افتد",
+        "summary": [
+            "دادستانی آلمان خواستار حبس سنگین برای دو متهم به جاسوسی و برنامه‌ریزی برای ترور چهره‌های یهودی و اسرائیلی شد.",
+            "متهم اصلی پرونده دستورات مستقیم خود را از افسران نیروی قدس سپاه پاسداران دریافت می‌کرده است."
+        ],
+        "impact": "افزایش فشارهای دیپلماتیک و امنیتی اروپا بر دستگاه‌های اطلاعاتی ج.ا. به دلیل اثبات عملیات‌های تروریستی در خاک قاره سبز",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610156585",
+        "clean_url": "https://www.iranintl.com/202610156585",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792033080.0
+    },
+    {
         "id": "17e9139554",
         "title_fa": "شکاف در پایگاه رای ترامپ بر سر جنگ با ایران",
         "title_en": "Rogan says Trump voters feel betrayed after Iran war got ‘really out of hand’ in split from prez",
@@ -5455,23 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9id0hMbkZwaXBSbTl2czdHbC1XSE1MMmtUd055TVhaTWgzZ1BBdDFQa3RaLUZtblF2VG9HNDk0ZTJ0Ry1RSkNUbXZQcldZd1ZmcUt6R2ItWGNmNUt4SEt4azY5dEJlZy11REVJb1l3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791802039.0
-    },
-    {
-        "id": "c78f0ab25f",
-        "title_fa": "بررسی پیشنهاد واشنگتن درباره تنگه هرمز در تهران",
-        "title_en": "Iran to respond to US after reviewing Hormuz proposalPublished on: October 12, 2026 4:37 PM",
-        "summary": [
-            "تهران در حال بررسی پاسخ مکتوب ایالات متحده درباره بازگشایی تنگه هرمز است.",
-            "اسماعیل بقایی، سخنگوی وزارت خارجه، از ارسال پاسخ رسمی ایران پس از جمع‌بندی نهایی خبر داد."
-        ],
-        "impact": "این ارزیابی می‌تواند تنش‌های دریایی در خلیج فارس را به طور موقت کاهش دهد یا وارد فاز تازه‌ای از دیپلماسی پنهان کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/iran-to-respond-to-us-after-reviewing-hormuz-proposalpublished-on-october-12-2026-437-pm/ar-AA2e4vTM",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/iran-to-respond-to-us-after-reviewing-hormuz-proposalpublished-on-october-12-2026-437-pm/ar-AA2e4vTM",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791799620.0
     }
 ]
