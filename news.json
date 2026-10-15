@@ -510,6 +510,24 @@
         "timestamp": 1791990060.0
     },
     {
+        "id": "5d8519e46d",
+        "title_fa": "انهدام کشتی وابسته به ج.ا توسط ارتش آمریکا در خلیج عمان",
+        "title_en": "Live Updates: US destroys Iran-affiliated ship in Gulf of Oman, BoP Gaza contract reportedly still not approved",
+        "summary": [
+            "نظامیان آمریکایی یک فروند کشتی مرتبط با ایران را در نزدیکی تنگه هرمز هدف قرار داده و غرق کردند.",
+            "همزمان شبه‌نظامیان حوثی از حملات جدید به تاسیسات آرامکو و فرودگاه‌های عربستان خبر دادند."
+        ],
+        "impact": "افزایش شدید تنش‌های نظامی در آب‌های جنوبی و بالاتر رفتن ریسک امنیت کشتیرانی تجاری",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-15/live-updates-911752",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-15/live-updates-911752",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742067",
+        "timestamp": 1791989760.0
+    },
+    {
         "id": "0b9ff07bfc",
         "title_fa": "بازگشت تحریم‌ها و چالش جدید برنامه هسته‌ای ج.ا",
         "title_en": "Reimposed Sanctions Raise Questions Over Iran's Nuclear Program",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmRVZzNrdUtJRHB0OEtnZTN5RjNkek5FMnBxaERNNWdscTRINkozcUlBTXR1anczZ3h2emNpelFvc0ZObjlNUkVZMVBjQkZsSWIycGVzekdHV0V2NFdfS2poTG1RUzVINDZXSkl2RFRPdEZ6am5fSmpSV2VqalR4U3ZIa09INXdTei01WmJqdHc1S2VZeEhIS3plcE41d0pvSzg2M1FPOHlOR1JU",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791792325.0
-    },
-    {
-        "id": "75c52349a7",
-        "title_fa": "فشار سناتورهای آمریکایی بر تـــــر‌امـــــپ برای لغو توافق سوخت با روسیه",
-        "title_en": "US Republicans, Democrats Want Trump to Reverse Course on Russia Diesel",
-        "summary": [
-            "قانون‌گذاران هر دو حزب جمهوری‌خواه و دموکرات از تـــــر‌امـــــپ خواستند معامله دیزل با مسکو را فوراً متوقف کند.",
-            "این توافق آشکارا با تحریم‌ها و قوانین منع واردات انرژی از روسیه در تناقض است."
-        ],
-        "impact": "تشدید فشارهای سیاسی در واشنگتن برای مسدود کردن منافذ تنفس اقتصادی مسکو.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Asharq Alawsat (English)",
-        "url": "https://www.msn.com/en-ae/news/other/us-republicans-democrats-want-trump-to-reverse-course-on-russia-diesel/ar-AA2e2ZRH",
-        "clean_url": "https://www.msn.com/en-ae/news/other/us-republicans-democrats-want-trump-to-reverse-course-on-russia-diesel/ar-AA2e2ZRH",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791792169.0
     }
 ]
