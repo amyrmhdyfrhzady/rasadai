@@ -180,6 +180,25 @@
         "timestamp": 1792031160.0
     },
     {
+        "id": "3d59a53ae6",
+        "title_fa": "سردرگمی ترامپ برای مذاکره با جمهوری اسلامی پس از حذف فرماندهان",
+        "title_en": "ترامپ: شاید بهتر بود رهبران ایران را نمی‌کشتیم؛ دیگر نمی‌دانم با چه کسی مذاکره کنم",
+        "summary": [
+            "ترامپ از نابودی کامل بدنه فرماندهی ارشد و رده‌های دوم و سوم ج.ا توسط آمریکا و اسرائیل خبر داد.",
+            "واشینگتن اکنون با خلأ جدی رهبری برای پیشبرد میز مذاکره روبه‌روست.",
+            "تنها دغدغه باقی‌مانده مقام‌های حاکمیتی در تماس‌ها، تلاش برای بقای سیاسی و جانی است."
+        ],
+        "impact": "فلج شدن کانال‌های دیپلماتیک و ایجاد بن‌بست کامل در روند مذاکرات به دلیل فروپاشی ساختار فرماندهی.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/trump-perhaps-it-would-have-been-better-if-iran-s-leaders-had-not-been-killed-unclear-who-to-negotiate-with/33877013.html",
+        "clean_url": "https://www.radiofarda.com/a/trump-perhaps-it-would-have-been-better-if-iran-s-leaders-had-not-been-killed-unclear-who-to-negotiate-with/33877013.html",
+        "image": "http://www.bing.com/th?id=ONUT.Zx-CKXQTXTWy3fTdAADF7A&pid=News",
+        "timestamp": 1792026240.0
+    },
+    {
         "id": "53643fda91",
         "title_fa": "حمله موشکی و پهپادی حوثی‌ها به مقر شرکت نفت آرامکو",
         "title_en": "Iran-backed Houthis strike Saudi oil company Aramco’s headquarters, officials say",
@@ -5458,23 +5477,5 @@
         "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-houthi-attack-on-riyadh-airport-12-dead-and-hundreds-injured-AJ81D8gB",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/13/Immagini/Ritagli/2026-10-11T224410Z_1659588386_RC241OAGCJLV_RTRMADP_5_IRAN-CRISIS-SAUDI-AIRPORT-U65164685166lHE-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
         "timestamp": 1791795960.0
-    },
-    {
-        "id": "aec858769e",
-        "title_fa": "احتمال تاثیر جنگ با ایران بر سیاست‌های اقلیمی ترامپ",
-        "title_en": "How the Iran war could make Trump an accidental climate president",
-        "summary": [
-            "تشدید تنش‌ها و درگیری‌های احتمالی با جـمـهـور‌ی اسـلامـی می‌تواند تمرکز دولت ترامپ را به سمت مدیریت انرژی هدایت کند.",
-            "تغییرات در بازارهای انرژی جهانی ممکن است به طور ناخواسته پیامدهایی بر برنامه‌های زیست‌محیطی واشنگتن داشته باشد."
-        ],
-        "impact": "دگرگونی معادلات انرژی و بازارهای جهانی نفت در سایه تنش‌های نظامی.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xdHZ2b1drV2FybjBQWG1NemF6MUJ4TG5DRm5QNmUzemZSV3RieGJoWDV1YVRkMU0tMjNuLXEwaFJoNUEyUzJPbzRjNy1NTG1UbGdUd0RCZUdveW9LeTdVNDRKaWJRYjFUWnpTbWZkWTJkY3MyT2xuR0g4YTVzZFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xdHZ2b1drV2FybjBQWG1NemF6MUJ4TG5DRm5QNmUzemZSV3RieGJoWDV1YVRkMU0tMjNuLXEwaFJoNUEyUzJPbzRjNy1NTG1UbGdUd0RCZUdveW9LeTdVNDRKaWJRYjFUWnpTbWZkWTJkY3MyT2xuR0g4YTVzZFU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791795646.0
     }
 ]
