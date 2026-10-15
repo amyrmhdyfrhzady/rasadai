@@ -291,6 +291,24 @@
         "timestamp": 1791996750.0
     },
     {
+        "id": "96c805f8bb",
+        "title_fa": "تلاش حوثی‌ها برای تولید موشک‌های خیبرشکن در یمن",
+        "title_en": "Houthis seek to manufacture Iran’s Khaibarshekan missiles in Yemen",
+        "summary": [
+            "گزارش‌ها نشان می‌دهد گروه نیابتی یمن به دنبال بومی‌سازی ساخت تسلیحات پیشرفته ارسالی از تهران است.",
+            "این اقدام خطوط تامین تسلیحاتی در منطقه را وارد فاز تازه‌ای از تهدیدات امنیتی می‌کند."
+        ],
+        "impact": "افزایش برد تهدیدات موشکی در دریای سرخ و منطقه.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610145401",
+        "clean_url": "https://www.iranintl.com/en/202610145401",
+        "image": "http://www.bing.com/th?id=ONUT.cqFUkaIm_WRnwD2xWsrkvg&pid=News",
+        "timestamp": 1791996360.0
+    },
+    {
         "id": "c4dfa37c07",
         "title_fa": "افزایش درگیری‌های مرزی و سایه سنگین جنگ آمریکا",
         "title_en": "Iran Fights Rising Militant Attacks as US Threatens to Renew War",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/airstrikes-yemens-capital-drone-hits-071948756.html",
         "image": "https://media.zenfs.com/en/ap.org/dcbb6038f74b33fc320a7eed3aaab310.jpg",
         "timestamp": 1791789352.0
-    },
-    {
-        "id": "6bcf1993c7",
-        "title_fa": "انتقاد تند مارجری تیلر گرین از سیاست‌های ترامپ",
-        "title_en": "'America Last': MTG Directly Responds To Trump By Summing Up What's So 'Wrong' About Him",
-        "summary": [
-            "مارجری تیلر گرین در واکنشی تند، ترامپ را به دلیل زیر پا گذاشتن وعده‌های انتخاباتی و عدم انتشار پرونده‌های جفری اپستین به شدت مورد انتقاد قرار داد.",
-            "او همچنین سیاست‌های نظامی دولت ترامپ در قبال ایران و تلفات سنگین نیروهای آمریکایی را زیر سوال برد."
-        ],
-        "impact": "افزایش شکاف و درگیری‌های لفظی در درون جریان سیاسی حامیان ترامپ.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/marjorie-taylor-greene-trump-email-america-last_n_6accbcd0e4b0a568b68e5f89",
-        "clean_url": "https://www.huffpost.com/entry/marjorie-taylor-greene-trump-email-america-last_n_6accbcd0e4b0a568b68e5f89",
-        "image": "http://www.bing.com/th?id=ONUT.GVnjiQ-zPMpNSrKwioCrOQ&pid=News",
-        "timestamp": 1791788880.0
     }
 ]
