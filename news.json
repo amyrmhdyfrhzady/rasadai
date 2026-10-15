@@ -165,6 +165,24 @@
         "timestamp": 1792002546.0
     },
     {
+        "id": "6310eb0fe1",
+        "title_fa": "گزارش عفو بین‌الملل درباره سرکوب‌های ۱۴۰۱",
+        "title_en": "Russia, China foreign ministers discuss Iran crisis at Baku meeting",
+        "summary": [
+            "نهادهای حکومتی با روایت‌های ساختگی و دروغین از زیر بار مسئولیت کشتار معترضان شانه خالی می‌کنند.",
+            "قوانین قضایی و امنیتی در ج-مهوری اس-لامی به گونه‌ای تنظیم شده که از ماموران سرکوبگر کاملاً محافظت کند."
+        ],
+        "impact": "این گزارش سند دیگری بر کارنامه سیاه مقامات ارشد در نقض سیستماتیک حقوق بشر است.",
+        "tag": "حقوق بشر",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610152957",
+        "clean_url": "https://www.iranintl.com/en/202610152957",
+        "image": "http://www.bing.com/th?id=ONUT.o5eoGzRUHZTOP2a4dHHZnQ&pid=News",
+        "timestamp": 1792001340.0
+    },
+    {
         "id": "ed39deefa1",
         "title_fa": "هشدار مستقیم اسرائیل به تـ…ـران و رصد تنگه هرمز",
         "title_en": "Israel warns Iran not to test resolve; CENTCOM: 19M barrels transit Hormuz TV7 Israel News 14 Oct.",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://english.alarabiya.net/News/middle-east/2026/10/12/explosion-wounds-at-least-8-people-in-north-israel-emergency-services",
         "image": "https://vid.alarabiya.net/images/2026/10/12/d84c1431-0bf8-476e-9c66-605074ca8ed6/d84c1431-0bf8-476e-9c66-605074ca8ed6_16x9_600x338.JPG",
         "timestamp": 1791789600.0
-    },
-    {
-        "id": "c61570bcb0",
-        "title_fa": "تشدید درگیری‌ها در مرزهای شمالی و حملات موشکی به عربستان",
-        "title_en": "Munition blast during school trip kills student in Israel, and other Mideast...",
-        "summary": [
-            "انفجار مین عمل‌نکرده منتسب به حزب‌الله در شمال اسرائیل به کشته و زخمی شدن دانش‌آموزان انجامید.",
-            "پدافند عربستان با حملات پهپادی و موشکی جدید از سمت یمن مقابله کرد که نشان‌دهنده تداوم تهدیدات نیابتی است."
-        ],
-        "impact": "افزایش ریسک امنیتی در مرزهای اسرائیل و ادامه ناآرامی‌ها در مرزهای جنوبی عربستان.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Associated Press",
-        "url": "https://www.yahoo.com/news/world/articles/airstrikes-yemens-capital-drone-hits-071948756.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/airstrikes-yemens-capital-drone-hits-071948756.html",
-        "image": "https://media.zenfs.com/en/ap.org/dcbb6038f74b33fc320a7eed3aaab310.jpg",
-        "timestamp": 1791789352.0
     }
 ]
