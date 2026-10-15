@@ -145,6 +145,24 @@
         "timestamp": 1792080196.0
     },
     {
+        "id": "ec4b4e2917",
+        "title_fa": "هدف‌گیری شبکه‌های مالی مذهبی جـ.م. ا در خارج از کشور",
+        "title_en": "US alert puts Iran’s overseas religious finance networks under scrutiny",
+        "summary": [
+            "خزانه‌داری آمریکا با صدور هشدار جدیدی، سوءاستفاده حکومت ایران از مؤسسات خیریه مذهبی و وجوه شرعی مانند خمس را زیر ذره‌بین برد.",
+            "این نهاد مالی تأکید کرد که شبکه‌های حـ.ا‌کـ.م‌یت از طریق صرافی‌ها و انتقال نقدی، پول‌ها را به عوامل وابسته منتقل می‌کنند."
+        ],
+        "impact": "مسدود شدن کانال‌های تامین مالی پنهان حکومت از طریق نهادهای مذهبی خارجی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610157665",
+        "clean_url": "https://www.iranintl.com/en/202610157665",
+        "image": "http://www.bing.com/th?id=ONUT.AxWiUHv1yxvKFEUIOhSHcw&pid=News",
+        "timestamp": 1792077600.0
+    },
+    {
         "id": "d29b8268d5",
         "title_fa": "استقرار پدافند فرانسه برای مهار حملات پهپادی در عربستان",
         "title_en": "Trump says 'should have probably left' Iranian leaders, negotiators beg to live",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://www.radiofarda.com/a/trump-says-he-does-not-believe-china-and-russia-are-helping-iran-at-all-/33875580.html",
         "image": "http://www.bing.com/th?id=ONUT.UlREOJ9I0nTwBMhe1g7q5g&pid=News",
         "timestamp": 1791846840.0
-    },
-    {
-        "id": "12e77867b6",
-        "title_fa": "تلاش ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی برای تقویت مواضع دفاعی و تهدید همسایگان",
-        "title_en": "Report: Iran bolstering defenses as officials threaten to invade neighboring countries",
-        "summary": [
-            "افزایش تحرکات نظامی در منطقه همزمان با هشدارهای تهاجمی مقامات تهران به کشورهای همسایه",
-            "تلاش امیر قطر برای ایجاد یک چتر امنیتی مشترک میان کشورهای خلیج فارس در واکنش به ناامنی‌های اخیر",
-            "تداوم تنش‌های منطقه‌ای ناشی از سیاست‌های تهاجمی تهران در تقابل با آمریکا و اسرائیل"
-        ],
-        "impact": "افزایش بی‌سابقه ریسک امنیتی و احتمال درگیری مستقیم در مرزهای جنوبی ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog-october-13-2026/",
-        "clean_url": "https://www.timesofisrael.com/liveblog-october-13-2026",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791846120.0
     }
 ]
