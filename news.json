@@ -1,5 +1,23 @@
 [
     {
+        "id": "e39a0090dd",
+        "title_fa": "ترور فرمانده یگان زنان ب س ی ج در حملات اخیر",
+        "title_en": "Iranian Basij female unit commander assassinated in latest attack against IRGC",
+        "summary": [
+            "یکی از فرماندهان یگان زنان ب س ی ج وابسته به س پ ا ه در جریان حملات اخیر ترور شد.",
+            "این واقعه نشان‌دهنده آسیب‌پذیری ساختارهای امنیتی داخلی در برابر عملیات‌های هدفمند است."
+        ],
+        "impact": "افزایش شکاف‌های امنیتی و بالارفتن ضریب حفاظتی مهره‌های کلیدی ساختار سرکوب",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WVGV1cUFJY2tQYzlvT2J6NjJpRV9tMlF0VDhiUllQNmlpR09JbjgwY1RFcHgza1puQmh4ZGc3RVVEQVpMXzY0NjdHSm0xVlpGRzJIQWx4NlNwVjNPX2trNHhBUGVYZElUdWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WVGV1cUFJY2tQYzlvT2J6NjJpRV9tMlF0VDhiUllQNmlpR09JbjgwY1RFcHgza1puQmh4ZGc3RVVEQVpMXzY0NjdHSm0xVlpGRzJIQWx4NlNwVjNPX2trNHhBUGVYZElUdWc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792053913.0
+    },
+    {
         "id": "0231d29af7",
         "title_fa": "ترس نتانیاهو از جنگ با ایـر‌ان پیش از انتخابات",
         "title_en": "Benjamin Netanyahu fears Iran war before election could cost him power, let Gadi Eisenkot win",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://www.ocregister.com/2026/10/12/elon-musk-biggest-midterm-donor",
         "image": "http://www.bing.com/th?id=ONUT.U0GxvtONP0DhETqPu9zwEw&pid=News",
         "timestamp": 1791797700.0
-    },
-    {
-        "id": "95e9aa9680",
-        "title_fa": "اعتراض کارگران به سیاست تعرفه‌ای ترامپ",
-        "title_en": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump’s tariffs",
-        "summary": [
-            "تعرفه‌های تجاری ترامپ باعث تعطیلی کارخانه‌ها و اخراج کارگران آمریکایی شده است.",
-            "بسیاری از رای‌دهندگان سنتی جمهوری‌خواهان به دلیل از دست دادن شغل خود به سمت حزب دموکرات متمایل شده‌اند."
-        ],
-        "impact": "ریزش آرای کارگری جمهوری‌خواهان در آستانه انتخابات میان‌دوره‌ای",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/10/12/republicans-midterm-backlash-factory-workers/",
-        "clean_url": "https://www.baltimoresun.com/2026/10/12/republicans-midterm-backlash-factory-workers",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/10/Election_2_26_Tariffs_6_276-1.jpg?w=2000&h=1333",
-        "timestamp": 1791796920.0
     }
 ]
