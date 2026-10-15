@@ -200,6 +200,24 @@
         "timestamp": 1792059981.0
     },
     {
+        "id": "1837c03244",
+        "title_fa": "تشدید درگیری‌های خونین در سیستان و بلوچستان",
+        "title_en": "Iran facing growing insurgency in separatist, largely Sunni, Sistan-Balochistan region",
+        "summary": [
+            "درگیری‌های مسلحانه میان نیروهای سپاه و گروه‌های مسلح بلوچ در جنوب شرق کشور شدت گرفته است.",
+            "محدودیت‌های شدید اینترنتی و امنیتی، تایید ابعاد دقیق تلفات و وسعت این درگیری‌ها را دشوار کرده است."
+        ],
+        "impact": "گسترش ناآرامی‌های امنیتی در مناطق مرزی، آسیب‌پذیری ساختار نظامی حکومت را در حاشیه‌ها افزایش می‌دهد.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-facing-growing-insurgency-in-separatist-largely-sunni-sistan-balochistan-region/ar-AA2eiWif",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-facing-growing-insurgency-in-separatist-largely-sunni-sistan-balochistan-region/ar-AA2eiWif",
+        "image": "http://www.bing.com/th?id=ONUT.qdH3U5B6EHY98EzHZEej7A&pid=News",
+        "timestamp": 1792059697.0
+    },
+    {
         "id": "878c026db5",
         "title_fa": "دستور تهران به حزب‌الله برای جنگ قریب‌الوقوع",
         "title_en": "Iran orders Hezbollah to prepare for imminent war",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONzRvdW1uNjJrZVoxU1RDd0diOHN4b2d0bnNZOXQ1WWVGWnF3UzN0QklEanNtY1IxY1BjT0tHSVltbjhCT09GR2tiNjBwRTVZTlJMR0RMTnJocUtkenpNNjM2MHBpZFliS3c4dC1ULWFkMmtmSnZlMF96ZUs5NUxjMUhta0ZqNVg3T0JjTVBQYTl3bmhVOHBRYQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791835568.0
-    },
-    {
-        "id": "920c1a4531",
-        "title_fa": "خشم ترامپ از شهردار نیویورک بر سر ونزوئلا",
-        "title_en": "03 Ianuarie 2026",
-        "summary": [
-            "دونالد ترامپ از عدم حمایت شهردار دموکرات نیویورک از عملیات نظامی در ونزوئلا به شدت انتقاد کرد.",
-            "رئیس‌جمهور آمریکا از این موضع‌گیری داخلی ابراز شگفتی کرده است."
-        ],
-        "impact": "افزایش تنش‌های سیاسی داخلی در آمریکا همزمان با برنامه‌های مداخله‌جویانه خارجی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/raspuns-diplomat-whatsapp-neplata-scoala-pag201",
-        "clean_url": "https://ziare.com/cautare/raspuns-diplomat-whatsapp-neplata-scoala-pag201",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1791835564.448646
     }
 ]
