@@ -489,6 +489,25 @@
         "timestamp": 1792030140.0
     },
     {
+        "id": "4bb9d21b75",
+        "title_fa": "پادرمیانی اقلیم کردستان برای توافق تهران و مخالفان کرد",
+        "title_en": "Iraqi Kurds suggest peace process between Iran and Iranian Kurdish opposition",
+        "summary": [
+            "رهبر اتحادیه میهنی کردستان عراق از تلاش برای ایجاد روند صلح میان جمهوری اسلامی و احزاب مخالف کرد خبر داد.",
+            "این طرح با الگوبرداری از روند صلح ترکیه و پ‌ک‌ک مطرح شده و با تعجب گروه‌های اپوزیسیون کرد مستقر در اقلیم مواجه شده است.",
+            "مقام‌های ارشد حاکمیت در تهران مذاکرات فشرده‌ای در این زمینه با اربیل داشته‌اند."
+        ],
+        "impact": "این ابتکار عمل می‌تواند معادله امنیتی مرزهای غربی و حضور احزاب مخالف را به کلی دگرگون کند.",
+        "tag": "منطقه‌ای",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/iraqi-kurds-suggest-peace-process-between-iran-and-iranian-kurdish-opposition",
+        "clean_url": "https://www.middleeasteye.net/news/iraqi-kurds-suggest-peace-process-between-iran-and-iranian-kurdish-opposition",
+        "image": "http://www.bing.com/th?id=ONUT.sdyj1TloFsJCqtYWw5ZhSA&pid=News",
+        "timestamp": 1792028880.0
+    },
+    {
         "id": "3d59a53ae6",
         "title_fa": "سردرگمی ترامپ برای مذاکره با جمهوری اسلامی پس از حذف فرماندهان",
         "title_en": "ترامپ: شاید بهتر بود رهبران ایران را نمی‌کشتیم؛ دیگر نمی‌دانم با چه کسی مذاکره کنم",
@@ -5456,24 +5475,5 @@
         "clean_url": "https://spectrumlocalnews.com/us/snplus/international/2026/06/24/united-states-iran-nuclear-sites-israel-lebanon-strait-hormuz-negotiations-interim-deal",
         "image": "https://s7d2.scene7.com/is/image/TWCNews/nuclearboss_AP_26175170713571_NAT_062426",
         "timestamp": 1791808860.0
-    },
-    {
-        "id": "55ce22ec78",
-        "title_fa": "یورش امنیتی آمریکا به خانه منتقد صریح ترامپ",
-        "title_en": "نیروهای امنیتی آمریکا خانۀ ایلهان عمر، عضو دموکرات کنگره، را تفتیش کردند",
-        "summary": [
-            "نیروهای امنیتی آمریکا خانه ایلهان عمر، نماینده دموکرات و منتقد ترامپ را تفتیش کردند.",
-            "وزارت دادگستری این اقدام را به پرونده مهاجرتی و اتهامات تقلب مربوط دانست.",
-            "این نماینده کنگره، دولت ترامپ را به ارعاب سیاسی و هدف قرار دادن مخالفان متهم کرد."
-        ],
-        "impact": "افزایش تنش‌های سیاسی میان دموکرات‌ها و دولت ترامپ در آستانه انتخابات میان‌دوره‌ای.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/us-immigration-authorities-raid-democratic-congresswoman-ilhan-omar-s-home/33875292.html",
-        "clean_url": "https://www.radiofarda.com/a/us-immigration-authorities-raid-democratic-congresswoman-ilhan-omar-s-home/33875292.html",
-        "image": "http://www.bing.com/th?id=ONUT._FzUT_NO3qpioB9GgU8Bxg&pid=News",
-        "timestamp": 1791807540.0
     }
 ]
