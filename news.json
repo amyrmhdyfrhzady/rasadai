@@ -162,6 +162,25 @@
         "timestamp": 1792041069.0
     },
     {
+        "id": "b2131b9124",
+        "title_fa": "تهدید خلیج فارس: ارتش حاکمیت برای عبور از تنگه هرمز خط و نشان کشید",
+        "title_en": "Iran’s deputy army chief warns ships not to attempt Hormuz crossings",
+        "summary": [
+            "معاون ارتش J.I.R اعلام کرد عبور بدون اجازه از تنگه هرمز با پاسخ شدید روبه‌رو خواهد شد.",
+            "فرماندهان نظامی روی تجهیزات جدید و کنترل کامل منطقه تأکید دارند.",
+            "آمریکا پیش‌تر کنترل ادعایی تهران بر این آبراه حیاتی را رد کرده بود."
+        ],
+        "impact": "افزایش ریسک کشتیرانی در خلیج فارس و جهش احتمالی قیمت نفت",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-deputy-army-chief-warns-120238971.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-deputy-army-chief-warns-120238971.html",
+        "image": "http://www.bing.com/th?id=ONUT.ZoB_ucwV8l3do7Q8DrZz0A&pid=News",
+        "timestamp": 1792040520.0
+    },
+    {
         "id": "ee46f272c2",
         "title_fa": "ططرح پنتاگون برای بمباران سنگین اهداف ا... در ای...ن",
         "title_en": "Pentagon plans massive ordnance drop on Iran",
@@ -562,6 +581,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXI4UFZuR1pPSXZIOE5XcXVaOFpGSnpsLUFxb0w1U1dPQmhRVW5QOUJLREpsd1dqQ2hQOE1KTVF2d1dnRERwSVA0SXd6UV9JR3Jfb1p6NURzMDAwTXd1dUdJVmRnRXhYTS1adXpfSmJGRWZPMUpmQUlfVU93QkJhYkdwbkQxLXpyWi15dzBNeFA1c2wtaUVfbS1rMHZuaWNHdGZ6TlBWVXRrNmoxaUHSAbMBQVVfeXFMUDB6Z0FfSldMWjJ5OThldFFEYlBkZ1NxbTZOdWhjWEVvSVdBaFQ5QmVrbkRKLUlJR3M3Q3FCbTYtUjBsczlwMEdyeVlOQ1Rua3NHYkdJUUxuZmVVNUhHTm8wSzJOVFpDSmY0ekVUQl9KRjdjUHRESlprN3R3RENIMXRFQ0NZV1kyV0Y2a1NGcU53ZDRaUzM3YTBVSlFyNU1zeF9naHVKcTZ3Wm8xTzhMeFFxTmc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792022315.0
+    },
+    {
+        "id": "cdb84bdac3",
+        "title_fa": "هدف قرار گرفتن شناور وابسته به سپاه در دریای عمان توسط ارتش آمریکا",
+        "title_en": "US says it destroyed Iranian-affiliated vessel conducting surveillance last week",
+        "summary": [
+            "نیروهای آمریکایی یک فروند لنج تجسسی وابسته به سپاه را در دریای عمان نابود کردند.",
+            "این شناور در حال رصد و هدف‌گیری ناوهای آمریکایی بوده است."
+        ],
+        "impact": "بالرفتن سطح تنش‌های نظامی میان واشنگتن و نیروهای نیابتی در آب‌های منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/us-says-it-destroyed-iranian-affiliated-vessel-conducting-surveillance-last-week/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/us-says-it-destroyed-iranian-affiliated-vessel-conducting-surveillance-last-week",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792019460.0
     },
     {
         "id": "a4557f8223",
@@ -5437,41 +5474,5 @@
         "clean_url": "https://www.iranintl.com/en/202610129395",
         "image": "http://www.bing.com/th?id=ONUT.iHZgqsqVa52PX8n9hLS7Hw&pid=News",
         "timestamp": 1791805920.0
-    },
-    {
-        "id": "d1e2a63420",
-        "title_fa": "مهار موقت نوسان دلار با پمپاژ ارز توسط بانک مرکزی",
-        "title_en": "Iran’s dollar volatility falls from 15% to 1.2% after central bank intervention",
-        "summary": [
-            "بانک مرکزی با عرضه دلار به نرخ نزدیک بازار آزاد، نوسان هشت‌روزه ریال را از ۱۵ درصد به ۱.۲ درصد رساند.",
-            "این آرامش نسبی در بازار ارز شکننده است و صرفاً با دخالت مستقیم و تزریق ذخایر ارزی ایجاد شده است."
-        ],
-        "impact": "تزریق ارز به بازار توانسته به طور موقت ترمز سقوط ریال را بکشد اما ریشه بحران اقتصادی پابرجا ست.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "bne IntelliNews on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-dollar-volatility-falls-from-15-to-12-after-central-bank-intervention/ar-AA2e5OLJ",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-dollar-volatility-falls-from-15-to-12-after-central-bank-intervention/ar-AA2e5OLJ",
-        "image": "http://www.bing.com/th?id=ONUT.kOfgB_2An0lj6037KChbFw&pid=News",
-        "timestamp": 1791804986.0
-    },
-    {
-        "id": "2fabcca54e",
-        "title_fa": "حمله جنجالی به خانه ایلهان عمر و خشم دموکرات‌ها",
-        "title_en": "Rashida Tlaib condemns 'fascist' DHS raid on Ilhan Omar's home",
-        "summary": [
-            "رشیده طلیب اقدام ماموران وزارت امنیت داخلی در تفتیش محل سکونت ایلهان عمر، نماینده دموکرات، را رفتاری فاشیستی توصیف کرد.",
-            "این واقعه نشان‌دهنده اصطکاک شدید میان جریان پیشرو حزب دموکرات و نهادهای امنیتی فدرال در فضای پرالتهاب واشنگتن است."
-        ],
-        "impact": "تشدید شکاف و درگیری حزبی بر سر اختیارات نهادهای امنیتی در قبال نمایندگان کنگره آمریکا.",
-        "tag": "سیاست آمریکا",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/politics/2026/10/12/ilhan-omar-home-raid-donald-trump-tom-immigration-homan-ice-squad-rashida-tlaib/92218651007/",
-        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/10/12/ilhan-omar-home-raid-donald-trump-tom-immigration-homan-ice-squad-rashida-tlaib/92218651007",
-        "image": "http://www.bing.com/th?id=ONUT.9UysPJwYs6bLSgu1PZksCw&pid=News",
-        "timestamp": 1791804600.0
     }
 ]
