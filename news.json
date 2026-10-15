@@ -199,6 +199,24 @@
         "timestamp": 1792047060.0
     },
     {
+        "id": "f1120059bf",
+        "title_fa": "توافق ترامپ و پوتین برای بازگشایی روابط ورزشی",
+        "title_en": "Trump's Envoy for Global Partnerships: Sport can reopen doors that politics kept closed",
+        "summary": [
+            "دونالد ترامپ و ولادیمیر پوتین در گفتگوی تلفنی اخیر خود بر توسعه روابط دو کشور از طریق ورزش تاکید کردند.",
+            "برگزاری مسابقات دوستانه هاکی بین بازیکنان لیگ‌های روسیه و آمریکا به عنوان نخستین گام این توافق مطرح شده است."
+        ],
+        "impact": "این رویکرد نشان‌دهنده تلاش برای ایجاد کانال‌های ارتباطی جدید فراتر از تنش‌های سیاسی میان واشنگتن و مسکو است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2202537",
+        "clean_url": "https://tass.com/world/2202537",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261015/1489941.jpg",
+        "timestamp": 1792045800.0
+    },
+    {
         "id": "08bb83d8f9",
         "title_fa": "تاریک شدن چشم‌انداز بازار نفت با تداوم تنش‌های ا... ایران",
         "title_en": "COMMENTARY: Oil's long view darkens as Iran war refuses to end",
@@ -5457,23 +5475,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions",
         "image": "http://www.bing.com/th?id=ONUT.-y4Cs717Y4pIpYdhaCs9Jw&pid=News",
         "timestamp": 1791814560.0
-    },
-    {
-        "id": "7cb4354632",
-        "title_fa": "استفاده مقام‌های ج.ا از تاریخ باستان برای مقابله با غرب",
-        "title_en": "Iran hardline newspaper attacks 'pro-Western' factions over internet threat",
-        "summary": [
-            "مقامات حاکمیتی از جمله قالیباف با اشاره به تاریخ باستان تلاش کردند خود را مدافع میراث ایران نشان دهند.",
-            "این موضع‌گیری پس از سخنرانی تند وزیر خارجه آمریکا درباره تفاوت ارزش‌های غربی و رویکرد رهبران ایران مطرح شد."
-        ],
-        "impact": "تلاش حاکمیت برای مصادره نمادهای ملی به منظور بهره‌برداری سیاسی در برابر فشارهای خارجی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610120630",
-        "clean_url": "https://www.iranintl.com/en/202610120630",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791813540.0
     }
 ]
