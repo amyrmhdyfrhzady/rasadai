@@ -145,6 +145,25 @@
         "timestamp": 1792082899.0
     },
     {
+        "id": "a0735a3387",
+        "title_fa": "مسدودسازی کانال‌های مالی ج.ا با پوشش نهادهای مذهبی",
+        "title_en": "Iran army chief says Hormuz to remain closed until Iran’s rights respected",
+        "summary": [
+            "خزانه‌داری آمریکا به بانک‌ها دستور داد مراقب سوءاستفاده حکومت از موسسات خیریه مذهبی و وجوه شرعی باشند.",
+            "حکومت از شبکه‌های حواله و انتقال نقدی برای تامین مالی نیابتی‌ها و مقامات ارشد استفاده می‌کند.",
+            "اسکات بسنت تاکید کرد دولت ترامپ اجازه نمی‌줄د تهران از نهادهای مذهبی برای تامین تروریسم بهره‌برداری کند."
+        ],
+        "impact": "فلج شدن مسیرهای پنهان مالی ج.ا و قطع شریان‌های ارزی وابسته به نهادهای مذهبی حکومتی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610159542",
+        "clean_url": "https://www.iranintl.com/en/202610159542",
+        "image": "http://www.bing.com/th?id=ONUT.RjfrekQoYeggejWtt21pzQ&pid=News",
+        "timestamp": 1792080480.0
+    },
+    {
         "id": "f72e02fdbc",
         "title_fa": "بازی قدرت در خاورمیانه و پرده آخر بازی با ای-ران",
         "title_en": "Middle East Power Plays and the Iran Endgame",
@@ -5464,23 +5483,5 @@
         "clean_url": "https://www.iranintl.com/en/202610126090",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/61816d60410d49031db91715ecedbd3f6a944ac6-1600x1066.jpg?rect=0,113,1600,840&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791849540.0
-    },
-    {
-        "id": "8f8e56871e",
-        "title_fa": "اذعان ترامپ به رفتن «فراتر از حد» در قبال ایران",
-        "title_en": "US-Iran War Live News Updates: Trump says US may have gone ‘too far’ in targeting Iran’s leadership",
-        "summary": [
-            "دونالد ترامپ اعتراف کرد ایالات متحده شاید در هدف قرار دادن رهبری ج...ی اسلامی زیاده‌روی کرده است.",
-            "اشاره همزمان ترامپ به رفتارهای خرابکارانه حوثی‌ها در حمله به فرودگاه‌های عربستان، نشانگر ارتباط این گروه با بحران‌های منطقه است."
-        ],
-        "impact": "تغییر احتمالی در لحن محاسبات واشنگتن در قبال تنش‌های مستقیم.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/iran-us-war-live-updates-trump-midterms-tehran-attack-riyadh-airport-hormuz-shipping-india-oil-price-10918709/",
-        "clean_url": "https://indianexpress.com/article/world/iran-us-war-live-updates-trump-midterms-tehran-attack-riyadh-airport-hormuz-shipping-india-oil-price-10918709",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791849240.0
     }
 ]
