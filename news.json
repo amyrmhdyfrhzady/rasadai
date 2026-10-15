@@ -73,6 +73,25 @@
         "timestamp": 1792075291.0
     },
     {
+        "id": "8e85b5d8c6",
+        "title_fa": "رهگیری موشک کروز در آسمان مدینه",
+        "title_en": "Saudi Arabia says it thwarted a missile strike on Medina, and other Middle East developments",
+        "summary": [
+            "ائتلاف تحت رهبری عربستان از انهدام یک فروند موشک کروز در آسمان مدینه خبر داد.",
+            "گروه انصارالله یمن مسئولیت این حمله موشکی را رسماً رد کرد.",
+            "این اتفاق در حالی رخ داده که تنش‌های نظامی در منطقه همچنان بالاست."
+        ],
+        "impact": "افزایش سطح هوشیاری پدافندی در تاسیسات حساس عربستان سعودی",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Pioneer Press",
+        "url": "https://www.twincities.com/2026/10/15/saudi-arabia-thwarted-missile-strike-middle-east-news/",
+        "clean_url": "https://www.twincities.com/2026/10/15/saudi-arabia-thwarted-missile-strike-middle-east-news",
+        "image": "https://www.twincities.com/wp-content/uploads/2026/10/Saudi_Arabia_73938_ab209e-1.jpg?w=2000&h=1333",
+        "timestamp": 1792074180.0
+    },
+    {
         "id": "a0f8a1f534",
         "title_fa": "ورود عربستان به فاز جدیدی از تنش با تئران",
         "title_en": "The Saudi Phase of the Iran War Signals More Chaos to Come",
@@ -5461,23 +5480,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-conflict-donald-trump-strait-of-hormuz-ceasefire-middle-east-riyadh-airport-attack-latest-news/liveblog/134906119.cms",
         "image": "http://www.bing.com/th?id=ONUT.aPGTXUyCtzXzA5lEyNdPaw&pid=News",
         "timestamp": 1791834120.0
-    },
-    {
-        "id": "7d39af6dcc",
-        "title_fa": "سرازیر شدن سرمایه‌ها به زیرساخت‌های انرژی خلیج فارس",
-        "title_en": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
-        "summary": [
-            "افزایش تنش‌ها و ریسک درگیری نظامی با ج.ا، کشورهای حوزه خلیج فارس را مجبور به تغییر مسیر صادرات انرژی کرده است.",
-            "سرمایه‌گذاری‌های سنگینی روی ساخت خطوط لوله و بندرهای جدید برای دور زدن مناطق پرخطر انجام می‌شود."
-        ],
-        "impact": "کاهش وابستگی صادرات منطقه به تنگه هرمز در بلندمدت.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791833914.0
     }
 ]
