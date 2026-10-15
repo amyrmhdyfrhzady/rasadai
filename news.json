@@ -747,6 +747,24 @@
         "timestamp": 1792033200.0
     },
     {
+        "id": "9849755c12",
+        "title_fa": "افشاگری عربستان از نقش تهران در حملات حوثی‌ها",
+        "title_en": "Saudi diplomat says Iran encourages Houthi escalation of attacks on the kingdom",
+        "summary": [
+            "یک مقام ارشد دیپلماتیک عربستان صراحتاً اعلام کرد که تهران محرک اصلی شدت گرفتن حملات شبه‌نظامیان حوثی به خاک این کشور است.",
+            "این موضع‌گیری نشان می‌دهد که ادعاهای صلح‌طلبانه جمهوری اسلامی در منطقه با اقدامات میدانی گروه‌های نیابتی‌اش تناقض آشکار دارد."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و نظامی در مرزهای جنوبی عربستان و به بن‌بست خوردن روند کاهش تنش.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Seattle Times",
+        "url": "https://www.seattletimes.com/business/saudi-diplomat-says-iran-encourages-houthi-escalation-of-attacks-on-the-kingdom/",
+        "clean_url": "https://www.seattletimes.com/business/saudi-diplomat-says-iran-encourages-houthi-escalation-of-attacks-on-the-kingdom",
+        "image": "http://www.bing.com/th?id=ONUT.42yBsz7ccGCtHW2alF_Gbg&pid=News",
+        "timestamp": 1792033080.0
+    },
+    {
         "id": "fa30fbb6ec",
         "title_fa": "محاکمه عوامل وابسته به سپاه به اتهام طرح ترور در آلمان",
         "title_en": "نشست اتحادیه اروپا و کشورهای خلیج فارس در ریاض احتمالا به دلایل امنیتی به تعویق می‌افتد",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94d0c0YnY3VzBzNEdPTkZ1WEg1cmhHMlpqN3Z0TE5BLVpVeHF0VkJBdVJBc0JhcjV6dWl1ZU55Z2ZYUnJ6TEtfRzhkWnZGbG9DWnhaRFNnU2NlY1U",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791826170.0
-    },
-    {
-        "id": "3c3a2ba63e",
-        "title_fa": "افت فروش ال‌وی‌ام‌اچ و تداوم بحران در بازار لوکس",
-        "title_en": "LVMH's Q3 miss shows luxury's slowdown still has teeth",
-        "summary": [
-            "درآمد شرکت ال‌وی‌ام‌اچ در سه ماهه سوم پایین‌تر از انتظارات تحلیلگران ثبت شد.",
-            "افت تقاضا در بازار چین ضربه سنگینی به برندهای معروفی مانند لویی ویتون و دیور وارد کرده است."
-        ],
-        "impact": "کاهش اعتماد مصرف‌کنندگان جهانی به خرید کالاهای لوکس و ادامه رکود بازار",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "briefs",
-        "url": "https://www.briefs.co/news/lvmh-s-q3-miss-shows-luxury-s-slowdown-still-has-teeth/",
-        "clean_url": "https://www.briefs.co/news/lvmh-s-q3-miss-shows-luxury-s-slowdown-still-has-teeth",
-        "image": "https://www.briefs.co/wp-content/uploads/2026/10/lvmh-s-q3-miss-shows-luxury-s-slowdown-still-has-teeth.png",
-        "timestamp": 1791826140.0
     }
 ]
