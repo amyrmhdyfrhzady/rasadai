@@ -1,5 +1,23 @@
 [
     {
+        "id": "ea89fd818b",
+        "title_fa": "طرح جدید تل‌آویو برای مقابله با ریزپرنده‌ها در مرز اردن",
+        "title_en": "Netanyahu on Jordan border: We have plan to confront drone threat",
+        "summary": [
+            "بنیامین نتانیاهو از تدوین برنامه‌ای جامع برای خنثی‌سازی تهدیدهای پهپادی در مرزهای شرقی خبر داد.",
+            "تکمیل حصارهای مرزی و تقویت دیوارهای امنیتی در دستور کار فوری ارتش اسرائیل قرار گرفته است."
+        ],
+        "impact": "بستن مسیرهای نفوذ پهپادی و افزایش لایه‌های امنیتی در مرزهای اردن.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-on-jordan-border-we-have-plan-to-confront-drone-threat/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-on-jordan-border-we-have-plan-to-confront-drone-threat",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/File-1-1.png",
+        "timestamp": 1792062540.0
+    },
+    {
         "id": "6c96a3f634",
         "title_fa": "ادعای جنجالی ترامپ درباره پایان زودهنگام جنگ با ایـران",
         "title_en": "Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live",
@@ -5455,23 +5473,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/vance-says-us-and-iran-are-close-to-a-deal-but-sticking-points-remain/ar-AA2e56cv",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791804375.0
-    },
-    {
-        "id": "4d28aa328e",
-        "title_fa": "چالش‌های پیش‌روی چاک شومر در سنای آمریکا",
-        "title_en": "Chuck Schumer has broad support from his caucus, but midterms could decide his future as leader",
-        "summary": [
-            "چاک شومر پس از ماه‌ها تنش درون‌حزبی توانسته حمایت نسبی دموکرات‌ها را به دست آورد، اما انتخابات میادوره‌ای سرنوشت رهبری او را تعیین می‌کند.",
-            "بخش مهمی از بدنه حزب همچنان خواستار حضور نسل جدیدی از رهبران در راس ساختار حزب دموکرات هستند."
-        ],
-        "impact": "تعیین‌کننده بودن نتیجه انتخابات پیش‌رو برای آینده سیاسی رهبر دموکرات‌های سنا.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Pioneer Press",
-        "url": "https://www.twincities.com/2026/10/12/chuck-schumer-senate-democrats-leader/",
-        "clean_url": "https://www.twincities.com/2026/10/12/chuck-schumer-senate-democrats-leader",
-        "image": "http://www.bing.com/th?id=ONUT.mg5eJ8TohPE0o4M1Fjz5vg&pid=News",
-        "timestamp": 1791802260.0
     }
 ]
