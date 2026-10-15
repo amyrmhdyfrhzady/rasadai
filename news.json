@@ -1,5 +1,23 @@
 [
     {
+        "id": "792e447278",
+        "title_fa": "چرخش دیپلماتیک ترامپ؛ کاهش تحریم نفت روسیه برای کنترل بازار",
+        "title_en": "Conflit Ukraine / Russie : la stratégie de Donald Trump",
+        "summary": [
+            "ترس از تورم و نارضایتی رای‌دهندگان آمریکایی از وضعیت اقتصادی، ترامپ را به سمت کاهش تحریم‌های نفتی روسیه سوق داده است.",
+            "فشار بر زلنسکی برای پذیرش صلح به هر قیمتی، بخشی از تلاش تیم ترامپ برای پایان دادن سریع به جنگ اوکراین است."
+        ],
+        "impact": "تغییر سیاست‌های واشنگتن می‌تواند بازار جهانی انرژی و قیمت سوخت را به شدت تحت تأثیر قرار دهد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "TF1",
+        "url": "https://www.tf1.fr/tf1/jt-20h/videos/conflit-ukraine-russie-la-strategie-de-donald-trump-07743622.html",
+        "clean_url": "https://www.tf1.fr/tf1/jt-20h/videos/conflit-ukraine-russie-la-strategie-de-donald-trump-07743622.html",
+        "image": "https://www.bing.com/th?id=ONUT.DT3allbyaMIn0iPzN4hjkg",
+        "timestamp": 1792107665.6094685
+    },
+    {
         "id": "4ee95b6e96",
         "title_fa": "تسلط هوایی بر آسمان ایـرآن؛ چرا تـحـرکات نظامی به نتیجه نرسید؟",
         "title_en": "US and Israel dominate Iran's skies, but still can't force it to surrender",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://english.ahram.org.eg/NewsContent/50/1203/578887/AlAhram-Weekly/World/From-the-Iranian-front-to-Russian-energy.aspx",
         "image": "https://english.ahram.org.eg/Media/News/2026/10/13/41_2026-639275160243594742-359.jpg",
         "timestamp": 1791849660.0
-    },
-    {
-        "id": "d0447c514f",
-        "title_fa": "تهدید زیرساخت‌های دیجیتال خلیج فارس توسط محسن رضایی",
-        "title_en": "Iran hardliners back threats to strike Persian Gulf digital infrastructure",
-        "summary": [
-            "محسن رضایی تهدید کرده که مراکز داده و کابل‌های اینترنت زیردریایی را در صورت درگیری نظامی هدف قرار می‌دهد.",
-            "تندروهای حکومتی از این لفاظی‌ها با هدف ایجاد بازدارندگی در برابر آمریکا و اسرائیل حمایت کرده‌اند.",
-            "تهران دارایی‌های فناوری و اقتصادی منطقه را اهرمی برای جنگ روانی علیه غرب قرار داده است."
-        ],
-        "impact": "افزایش ریسک سرمایه‌گذاری و ناامنی سایبری در کشورهای حاشیه خلیج فارس.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "iranintl",
-        "url": "https://www.iranintl.com/en/202610126090",
-        "clean_url": "https://www.iranintl.com/en/202610126090",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/61816d60410d49031db91715ecedbd3f6a944ac6-1600x1066.jpg?rect=0,113,1600,840&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791849540.0
     }
 ]
