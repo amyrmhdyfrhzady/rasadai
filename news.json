@@ -216,6 +216,25 @@
         "timestamp": 1792035960.0
     },
     {
+        "id": "68abaacfc5",
+        "title_fa": "هشدار صندوق بین‌المللی پول درباره بحران اقتصادی منطقه",
+        "title_en": "US Iran War News Live Updates: Saudi coalition says missile intercepted and destroyed over Medina region",
+        "summary": [
+            "شورای اروپا حملات پهپادی و موشکی شبه‌نظامیان یمنی را به شدت محکوم کرد.",
+            "اختلال در مسیرهای کشتیرانی و انرژی ریسک بزرگی برای اقتصاد خاورمیانه است.",
+            "صندوق بین‌المللی پول پیش‌بینی کرد رشد اقتصادی منطقه با افت شدیدی روبرو شود."
+        ],
+        "impact": "تداوم تنش‌ها در دریای سرخ امنیت انرژی و اقتصاد کشورهای منطقه را به شدت تهدید می‌کند.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-hormuz-ship-attacks-talks-oil-prices-israel-latest-news/liveblog/134955894.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-hormuz-ship-attacks-talks-oil-prices-israel-latest-news/liveblog/134955894.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134955894,width-1280,height-720,imgsize-1280702,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1792035780.0
+    },
+    {
         "id": "cc5b84d2d0",
         "title_fa": "سردرگمی ترامپ درباره طرف مذاکره با تهران",
         "title_en": "Trump on Iran talks: ‘I don’t know who the hell we’re negotiating with’",
@@ -5454,23 +5473,5 @@
         "clean_url": "https://www.msn.com/en-xl/asia/pakistan/iran-to-respond-to-us-after-reviewing-hormuz-proposalpublished-on-october-12-2026-437-pm/ar-AA2e4vTM",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791799620.0
-    },
-    {
-        "id": "faaf54da2b",
-        "title_fa": "بستن روزنه‌های تحریم هوایی روسیه و ای...ران توسط آمریکا و اسرائیل",
-        "title_en": "The U.S. and Israel Should Close Aviation Sanctions Loopholes on Russia and Iran",
-        "summary": [
-            "فشارها بر مسکو و تهران برای مسدودسازی راه‌های دور زدن تحریم‌های صنعت هوانوردی افزایش یافته است.",
-            "همکاری‌های مشترک اطلاعاتی میان واشنگتن و تل‌آویو روی قطع شریان‌های لجستیکی مشترک دو کشور متمرکز شده است."
-        ],
-        "impact": "محدود شدن بیشتر جابجایی‌های هوایی و تنگ‌تر شدن حلقه تحریم‌های لجستیکی.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Middle East Forum",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlM1Mk12aDBrUURkazluQld1RWV0cHVxVWxTQ3V6RnRqMzFWeXI3NVBzUzRmSW5nVnlRUkEzcEVRa3Y1R3JCSG5oMWxhRUVrcF9mQ09rRDhEMGZsdmtTZlZMbi1aQm9XWDlhYUd3ZDJzcDhaaFlwdmlJalp0ZUZiMWJTOGRfMXBzMHo5SmxENUkyQkhTd0FMM09IU0cwbmZxT2ZkOWZuYUdyZFM2NDBOT2dNelY4ek0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlM1Mk12aDBrUURkazluQld1RWV0cHVxVWxTQ3V6RnRqMzFWeXI3NVBzUzRmSW5nVnlRUkEzcEVRa3Y1R3JCSG5oMWxhRUVrcF9mQ09rRDhEMGZsdmtTZlZMbi1aQm9XWDlhYUd3ZDJzcDhaaFlwdmlJalp0ZUZiMWJTOGRfMXBzMHo5SmxENUkyQkhTd0FMM09IU0cwbmZxT2ZkOWZuYUdyZFM2NDBOT2dNelY4ek0",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791799335.0
     }
 ]
