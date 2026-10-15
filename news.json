@@ -216,6 +216,24 @@
         "timestamp": 1792031160.0
     },
     {
+        "id": "e40283cd02",
+        "title_fa": "انكار بحران اقتصادی؛ اقتصاد عالی است، فقط تورم بالا داریم!",
+        "title_en": "Ignore prices and economy is fine, Iran ex-minister says",
+        "summary": [
+            "حجت عبدالملکی، وزیر سابق کار، در اظهاراتی عجیب مدعی شد اقتصاد کشور هیچ مشکلی ندارد و تنها مسئله تورم و گرانی است.",
+            "این ادعا در حالی مطرح شده که آمارهای رسمی تورم نقطه به نقطه را نزدیک به ۹۰ درصد نشان می‌دهند."
+        ],
+        "impact": "شکاف عمیق میان واقعیت‌های سفره مردم و تحلیل‌های غیرواقعی مقامات سابق حکومتی را آشکار می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610154069",
+        "clean_url": "https://www.iranintl.com/en/202610154069",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792030140.0
+    },
+    {
         "id": "d513d4b38f",
         "title_fa": "اعتراف مشاور پزشکیان به فروپاشی مرجعیت دینی و ناکام ماندن کنترل اجتماعی",
         "title_en": "Clerical authority no longer carries same weight in Iran, Pezeshkian adviser says",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi",
         "image": "http://www.bing.com/th?id=ONUT.vpy28KmRjZtF8GGmBColuw&pid=News",
         "timestamp": 1791798240.0
-    },
-    {
-        "id": "9c7273556a",
-        "title_fa": "ایلان ماسک بزرگ‌ترین حامی مالی جمهوری‌خواهان شد",
-        "title_en": "Elon Musk quietly becomes biggest known donor in midterm contests as he tries to save Republicans",
-        "summary": [
-            "ایلان ماسک بیش از ۲۷۶ میلیون دلار برای حفظ اکثریت جمهوری‌خواهان در کنگره کمک مالی کرد.",
-            "بخش عمده‌ای از این مبلغ صرف حمایت از نامزدهای سنا و عملیات میدانی انتخاباتی شده است."
-        ],
-        "impact": "تزریق نقدینگی سنگین به کمپین انتخاباتی جمهوری‌خواهان برای کنترل کنگره",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "Orange County Register",
-        "url": "https://www.ocregister.com/2026/10/12/elon-musk-biggest-midterm-donor/",
-        "clean_url": "https://www.ocregister.com/2026/10/12/elon-musk-biggest-midterm-donor",
-        "image": "http://www.bing.com/th?id=ONUT.U0GxvtONP0DhETqPu9zwEw&pid=News",
-        "timestamp": 1791797700.0
     }
 ]
