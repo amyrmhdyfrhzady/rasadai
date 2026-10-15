@@ -1,5 +1,23 @@
 [
     {
+        "id": "d29b8268d5",
+        "title_fa": "استقرار پدافند فرانسه برای مهار حملات پهپادی در عربستان",
+        "title_en": "Trump says 'should have probably left' Iranian leaders, negotiators beg to live",
+        "summary": [
+            "فرانسه ابزارهای دفاعی و نظامی خود را برای محافظت از تاسیسات نفتی عربستان در برابر حملات پهپادی نیروهای نیابتی جـمـهـوری اسـلامـی فعال کرد.",
+            "پاریس قصد دارد با اعزام نیرو و سامانه پدافندی، امنیت بندر راهبردی ینبع در دریای سرخ را تامین کند."
+        ],
+        "impact": "افزایش حضور نظامی غرب در منطقه برای خنثی‌سازی تحرکات نیابتی جـمـهـوری اسـلامـی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/60698368954c38bc9d364988554c3f41.jpg",
+        "timestamp": 1792077000.0
+    },
+    {
         "id": "a0f8a1f534",
         "title_fa": "ورود عربستان به فاز جدیدی از تنش با تئران",
         "title_en": "The Saudi Phase of the Iran War Signals More Chaos to Come",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQzgxcFdBcHNXTFNfd01ZM0JRTHVJc2gtMlY1aW9FeEZ4Mjh2LWM5a3k2ajVRS1ZaTE11d3hLR2xnX2VLYnNtdEtkTlB3VS1UWk9oU1dHenc5RjA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791816859.0
-    },
-    {
-        "id": "e8a14a1fea",
-        "title_fa": "یورش مأموران فدرال به خانه نماینده دموکرات کنگره",
-        "title_en": "Live updates: Trump rallies for Republican candidates in Ohio tonight",
-        "summary": [
-            "ماموران اداره مهاجرت خانه ایلهان عمر در واشنگتن را به دلیل تحقیقات جنایی تفتیش کردند.",
-            "ترامپ همزمان در اوهایو برای نامزدهای جمهوری‌خواه در انتخابات میان‌دوره‌ای سخنرانی می‌کند."
-        ],
-        "impact": "افزایش تنش‌های سیاسی میان دولت و نمایندگان دموکرات",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ohio-rally-2026-midterm-elections-congress-live-updates-rcna602859",
-        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ohio-rally-2026-midterm-elections-congress-live-updates-rcna602859",
-        "image": "http://www.bing.com/th?id=ONUT.x_BBX4ijXp5eodJAkmDdtw&pid=News",
-        "timestamp": 1791815880.0
     }
 ]
