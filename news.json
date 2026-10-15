@@ -198,6 +198,24 @@
         "timestamp": 1792031160.0
     },
     {
+        "id": "d513d4b38f",
+        "title_fa": "اعتراف مشاور پزشکیان به فروپاشی مرجعیت دینی و ناکام ماندن کنترل اجتماعی",
+        "title_en": "Clerical authority no longer carries same weight in Iran, Pezeshkian adviser says",
+        "summary": [
+            "علی عماد مشاور مسعود پزشکیان اعتراف کرد که جامعه دیگر به حرف روحانیون گوش نمی‌دهد و فرمول زور و کنترل پاسخ نمی‌دهد.",
+            "فیلترینگ اینترنت راه به جایی نمی‌برد و تکنولوژی‌های جدید دیوارهای سانسور را فرو می‌ریزند."
+        ],
+        "impact": "شکست پروژه مهندسی اجتماعی حکومت و اذعان خودی‌ها به فاصله عمیق میان مردم و حاکمیت",
+        "tag": "اجتماعی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610155375",
+        "clean_url": "https://www.iranintl.com/en/202610155375",
+        "image": "http://www.bing.com/th?id=ONUT.nfSbK7zT8Lw_lOTAzO72Gg&pid=News",
+        "timestamp": 1792030140.0
+    },
+    {
         "id": "3d59a53ae6",
         "title_fa": "سردرگمی ترامپ برای مذاکره با جمهوری اسلامی پس از حذف فرماندهان",
         "title_en": "ترامپ: شاید بهتر بود رهبران ایران را نمی‌کشتیم؛ دیگر نمی‌دانم با چه کسی مذاکره کنم",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://www.baltimoresun.com/2026/10/12/republicans-midterm-backlash-factory-workers",
         "image": "https://www.baltimoresun.com/wp-content/uploads/2026/10/Election_2_26_Tariffs_6_276-1.jpg?w=2000&h=1333",
         "timestamp": 1791796920.0
-    },
-    {
-        "id": "bf1fa9f305",
-        "title_fa": "گرامیداشت روز بومیان آمریکا در سراسر کشور",
-        "title_en": "What is Indigenous Peoples Day? A day of celebration, protest and reclaiming history",
-        "summary": [
-            "مراسم گرامیداشت روز بومیان آمریکا با تمرکز بر بازشناسی تاریخ و تجلیل از فرهنگ ساکنان اولیه این سرزمین برگزار شد.",
-            "این مناسبت که جایگزین روز کریستف کلمب شده، بر مقاومت تاریخی جوامع بومی در برابر استعمار تاکید دارد."
-        ],
-        "impact": "بازتاب تغییرات فرهنگی و اجتماعی در تقویم رسمی و نگرش عمومی آمریکا.",
-        "tag": "اجتماعی",
-        "urgency": 2,
-        "sentiment": 0.5,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/10/12/indigenous-peoples-day/",
-        "clean_url": "https://www.baltimoresun.com/2026/10/12/indigenous-peoples-day",
-        "image": "http://www.bing.com/th?id=ONUT.vNlIaWS27N4qIQzAeqpTSw&pid=News",
-        "timestamp": 1791796440.0
     }
 ]
