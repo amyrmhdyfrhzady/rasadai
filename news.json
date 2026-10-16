@@ -1,5 +1,24 @@
 [
     {
+        "id": "e672f568a1",
+        "title_fa": "تناقض‌گویی همتی در بانک مرکزی؛ اقتصاد در حال فروپاشی است",
+        "title_en": "Watch: Israel warns Iran against attacking during election",
+        "summary": [
+            "همتی در حالی از تاب‌آوری اقتصادی دم می‌زند که گزارش‌های رسمی صندوق بین‌المللی پول از انقباض ۷.۶ درصدی اقتصاد ایران در سال ۲۰۲۶ خبر می‌دهد.",
+            "تلاش برای عادی‌سازی وضعیت معیشتی در حالی است که رسانه‌های داخلی خودشان به سقوط قدرت خرید مردم اعتراف می‌کنند.",
+            "فرافکنی همتی در نشست بانکوک و مقصر دانستن تحریم‌ها، پوششی برای ناکارآمدی ساختاری و بحران ارزی است."
+        ],
+        "impact": "سیاست‌های ارزی فعلی منجر به تداوم تورم و کوچک‌تر شدن سفره مردم خواهد شد.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610164193",
+        "clean_url": "https://www.iranintl.com/en/202610164193",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792147020.0
+    },
+    {
         "id": "a186582b92",
         "title_fa": "واکنش ترامپ به واگذاری کریمه توسط اوکراین",
         "title_en": "Trump describes Crimea as 'most beautiful peace of land' Ukraine gave up",
@@ -5467,24 +5486,5 @@
         "clean_url": "https://www.politico.com/news/2026/10/13/data-centers-google-annexation-iowa-01116180",
         "image": "http://www.bing.com/th?id=ONUT.nWQPb8mi-Nl32JPhTWBGvQ&pid=News",
         "timestamp": 1791874800.0
-    },
-    {
-        "id": "faba34bde9",
-        "title_fa": "وضعیت بحرانی و پرفشار در نیروگاه اتمی زاپروژیا",
-        "title_en": "Situation around Zaporozhye nuclear plant tense, pressure palpable — director",
-        "summary": [
-            "مدیر نیروگاه اتمی زاپروژیا شرایط این تأسیسات را به دیگ بخار در حال انفجار تشبیه کرد.",
-            "حملات و تنش‌ها از ماه آوریل روند صعودی داشته و امنیت پرسنل به‌شدت به خطر افتاده است.",
-            "آمارها نشان می‌دهد طی ماه‌های اخیر چندین کارمند کشته و ده‌ها نفر زخمی شده‌اند."
-        ],
-        "impact": "افزایش ریسک فاجعه اتمی در سایه تداوم درگیری‌های نظامی در اطراف تأسیسات حیاتی.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2201481",
-        "clean_url": "https://tass.com/world/2201481",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1791874380.0
     }
 ]
