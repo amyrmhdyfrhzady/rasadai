@@ -1,5 +1,23 @@
 [
     {
+        "id": "a186582b92",
+        "title_fa": "واکنش ترامپ به واگذاری کریمه توسط اوکراین",
+        "title_en": "Trump describes Crimea as 'most beautiful peace of land' Ukraine gave up",
+        "summary": [
+            "دونالد ترامپ کریمه را ارزشمندترین و زیباترین قطعه زمین اوکراین توصیف کرد که کی‌یف آن را از دست داد.",
+            "این اظهارات بار دیگر رویکرد غیرمتعارف رئیس‌جمهور آمریکا نسبت به مناقشات ارضی و جنگ اوکراین را برجسته می‌کند."
+        ],
+        "impact": "تغییر احتمالی در رویکرد دیپلماتیک آمریکا نسبت به موازنات جنگ اوکراین.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2202919",
+        "clean_url": "https://tass.com/world/2202919",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261016/1490029.jpg",
+        "timestamp": 1792143840.0
+    },
+    {
         "id": "bad4f904ed",
         "title_fa": "ضربه تازه واشنگتن به ناوگان پنهان نـفـتـی جـمـهـوری اسـلامـی",
         "title_en": "US claims new blow against Iran’s shadow fleet with 17-vessel sanctions",
@@ -16,6 +34,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1M5U2lDZk5oOGpBemFiQ1pNYnFPcmF2RHp3Z0p4Vy1YcThnZHJZQWZrTmRhTGtpcDEyX0dueTRYQXhPM2trb005YVh2eHpkN2Q1MTFVeHJKM0kyZ2dVMVpxd0NPR18xWlpOam9jT0ktd2R1dF9NUDRDTTVFUnZXYUE2eTAyRzN3QmpDVDV3YlJYYVBmSFE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792142599.0
+    },
+    {
+        "id": "0994b3ab33",
+        "title_fa": "مسدودسازی کانال‌های مالی ج.ا با پوشش نهادهای مذهبی",
+        "title_en": "Iran army says air defenses are stronger than during 40-day war",
+        "summary": [
+            "خزانه‌داری آمریکا نسبت به سوءاستفاده حکومت از شبکه‌های خیریه مذهبی برای دور زدن تحریم‌ها هشدار داد.",
+            "انتقال پول از طریق سیستم‌های هاوالا و قاچاق نقدی برای تأمین مالی نیابتی‌ها رصد شده است.",
+            "دولت ترامپ به دنبال قطع کامل دسترسی مالی ارکان حکومتی به منابع خارج از کشور است."
+        ],
+        "impact": "بسته شدن منافذ مالی پنهان حکومت و تشدید فشار ارزی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610167528",
+        "clean_url": "https://www.iranintl.com/en/202610167528",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792142520.0
     },
     {
         "id": "2f6eeb1ed6",
@@ -5448,41 +5485,5 @@
         "clean_url": "https://www.iranintl.com/en/202610137974",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/29a356bd9c6e059197690830830863ab5f3a5f1a-640x427.jpg?rect=81,114,497,261&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791873900.0
-    },
-    {
-        "id": "058f14caff",
-        "title_fa": "نبرد حقوقی بر سر شفافیت در دولت ترامپ",
-        "title_en": "Supreme Court will hear DOGE transparency dispute",
-        "summary": [
-            "دیوان عالی آمریکا به پرونده اختلاف بر سر شفافیت عملکرد «دوج» (DOGE) در بازسازی ساختار دولت رسیدگی می‌کند.",
-            "گروه‌های ناظر به دنبال دسترسی به جزئیات نقش این نهاد در تغییرات ساختاری دولت هستند."
-        ],
-        "impact": "احتمال محدود شدن اختیارات نهادهای جدید در دولت ترامپ در صورت رای دادگاه.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/other/supreme-court-will-hear-doge-transparency-dispute/ar-AA2e8Ufi",
-        "clean_url": "https://www.msn.com/en-us/news/other/supreme-court-will-hear-doge-transparency-dispute/ar-AA2e8Ufi",
-        "image": "http://www.bing.com/th?id=ONUT.xSXyfGA-MyeLj9YhnoTtTw&pid=News",
-        "timestamp": 1791873783.0
-    },
-    {
-        "id": "48ae8133a7",
-        "title_fa": "اعتراف ترامپ به بن‌بست مذاکره با ج***ری اس***لامی",
-        "title_en": "Trump says US struggling to negotiate with Iran as too many regime leaders killed in strikes",
-        "summary": [
-            "دونالد ترامپ اعلام کرد واشنگتن برای توافق با تهران با مشکل جدی روبه‌روست.",
-            "حذف تعداد زیادی از مهره‌های ارشد ر***یم در حملات اخیر، زنجیره فرماندهی را برای مذاکره فلج کرده است."
-        ],
-        "impact": "فروپاشی کانال‌های دیپلماتیک به دلیل ضربات سنگین نظامی به بدنه رهبری سیستم.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12TlJlbXRoeERFWmdIaDRDSTN0R0dSZmV6NGlIWUpSU1NuWmg0Y0NCeExvaC1WdzFDMnR1QVZzbUUyZ0NrZU8ybmRUTnIzNkdTSjJ5dFVkREpLaWxBSXRuRnRJaE9RN1YxeHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12TlJlbXRoeERFWmdIaDRDSTN0R0dSZmV6NGlIWUpSU1NuWmg0Y0NCeExvaC1WdzFDMnR1QVZzbUUyZ0NrZU8ybmRUTnIzNkdTSjJ5dFVkREpLaWxBSXRuRnRJaE9RN1YxeHc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791873157.0
     }
 ]
