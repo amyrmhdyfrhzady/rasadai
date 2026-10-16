@@ -1,5 +1,24 @@
 [
     {
+        "id": "a8e83fc495",
+        "title_fa": "مسدودسازی کانال‌های مالی ج.ا از طریق نهادهای خیریه",
+        "title_en": "Yemen government forces say they repelled Houthi attacks near Taiz",
+        "summary": [
+            "خزانه‌داری آمریکا به بانک‌ها دستور داد مراقب سوءاستفاده حکومت ایران از شبکه خیریه‌های مذهبی و وجوه شرعی باشند.",
+            "پول‌های جمع‌آوری شده تحت عنوان خمس و هدایای مذهبی از طریق صرافی‌ها و شبکه‌های هاولا به بدنه حاکمیت و نیابتی‌ها منتقل می‌شود.",
+            "اسکات بسنت، وزیر خزانه‌داری، تأکید کرد که دولت ترامپ اجازه نمی‌줄د تهران از پوشش نهادهای دینی برای تامین مالی تروریسم استفاده کند."
+        ],
+        "impact": "بسته شدن منافذ مالی پنهان حکومت و تشدید فشار بر شریان‌های انتقال پول به گروه‌های نیابتی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610160756",
+        "clean_url": "https://www.iranintl.com/en/202610160756",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792133520.0
+    },
+    {
         "id": "332ea8e0ce",
         "title_fa": "تهدید صریح ترامپ به نابودی تاسیسات ا ت م ی ج م ه و ر ی ا س ل ا م ی",
         "title_en": "'We'll knock it out fast': Trump threatens Iran's Pickaxe Mountain nuclear site with strikes",
@@ -5462,23 +5481,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/opinion-regime-change-in-iran-is-needed-now-more-than-ever/ar-AA2e8po5",
         "image": "http://www.bing.com/th?id=ONUT.euRyHQRLC0LWZ_LUxcBddg&pid=News",
         "timestamp": 1791867600.0
-    },
-    {
-        "id": "baad4d2f34",
-        "title_fa": "حوثی‌ها و ناامن‌سازی دریای سرخ",
-        "title_en": "Who are Houthis and why are they attacking Saudi Arabia?",
-        "summary": [
-            "حوثی‌ها یک جنبش نظامی و سیاسی در یمن هستند که با حمایت ج.م.ا کنترل شمال غرب این کشور را در دست دارند.",
-            "این گروه با حملات مکرر به نفت‌کش‌ها و کشتی‌های تجاری، تجارت جهانی و بازار انرژی را مختل کرده است."
-        ],
-        "impact": "افزایش هزینه حمل‌ونقل دریایی و تهدید مستقیم امنیت انرژی در آب‌های بین‌المللی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "NDTV",
-        "url": "https://www.msn.com/en-in/news/other/who-are-houthis-and-why-are-they-attacking-saudi-arabia/ar-AA2e6Gyh",
-        "clean_url": "https://www.msn.com/en-in/news/other/who-are-houthis-and-why-are-they-attacking-saudi-arabia/ar-AA2e6Gyh",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2e7aIA.img?w=1280&h=720&m=4&q=87",
-        "timestamp": 1791867325.0
     }
 ]
