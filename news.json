@@ -221,6 +221,60 @@
         "timestamp": 1792122923.0
     },
     {
+        "id": "47c8752ad5",
+        "title_fa": "افت محبوبیت ترامپ در نظرسنجی فاکس نیوز",
+        "title_en": "Trump approval sinks to new low in Fox News poll",
+        "summary": [
+            "محبوبیت دونالد ترامپ در تازه ترین نظرسنجی شبکه فاکس نیوز به ۳۶ درصد کاهش یافته است.",
+            "این رقم پایین ترین میزان حمایت از او در تاریخ نظرسنجی های این شبکه محسوب می شود."
+        ],
+        "impact": "فشار سیاسی بر حزب جمهوری خواه در آستانه انتخابات میان دوره ای افزایش می یابد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-approval-sinks-to-new-low-in-fox-news-poll/ar-AA2eknlL",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-approval-sinks-to-new-low-in-fox-news-poll/ar-AA2eknlL",
+        "image": "http://www.bing.com/th?id=ONUT.-HtM4WovG1DxmyFFIRjqpA&pid=News",
+        "timestamp": 1792120709.0
+    },
+    {
+        "id": "cd180543ed",
+        "title_fa": "بحران قیمت گازوئیل و چالش های پیش روی ترامپ",
+        "title_en": "Could California be the solution to Trump’s diesel woes?",
+        "summary": [
+            "قیمت گازوئیل در کالیفرنیا به رقم بحرانی ۸ دلار در هر گالن رسیده است.",
+            "تولیدکنندگان و کامیون داران با هزینه های سنگین سوخت دست و پنجه نرم می کنند."
+        ],
+        "impact": "گرانی سوخت به تورم کالاهای مصرفی و نارضایتی عمومی دامن می زند.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Los Angeles Times",
+        "url": "https://www.latimes.com/california/newsletter/2026-10-16/could-california-be-solution-to-trumps-diesel-woes",
+        "clean_url": "https://www.latimes.com/california/newsletter/2026-10-16/could-california-be-solution-to-trumps-diesel-woes",
+        "image": "http://www.bing.com/th?id=ONUT.ff7pggiyllDev0tR6UNxOg&pid=News",
+        "timestamp": 1792119600.0
+    },
+    {
+        "id": "8e198291f1",
+        "title_fa": "نگرانی از عادی شدن فضای امنیتی در انتخابات آمریکا",
+        "title_en": "Opinion: Will U.S. elections ever be peaceful again?",
+        "summary": [
+            "تحلیلگران نسبت به تبدیل شدن ترس و اضطراب به یک روند دائمی در انتخابات آمریکا هشدار می دهند.",
+            "فضای سیاسی کشور از رقابت های مسالمت آمیز دور شده و به سوی تنش های فرسایشی حرکت می کند."
+        ],
+        "impact": "افزایش بی اعتمادی عمومی به ساختارهای دموکراتیک و روند رای گیری.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Deseret News",
+        "url": "https://www.deseret.com/opinion/2026/10/16/can-us-elections-be-free-from-anger-and-revenge/",
+        "clean_url": "https://www.deseret.com/opinion/2026/10/16/can-us-elections-be-free-from-anger-and-revenge",
+        "image": "http://www.bing.com/th?id=ONUT.wpiNL-HVRGxopUtcWL7fag&pid=News",
+        "timestamp": 1792119600.0
+    },
+    {
         "id": "a0d7e82435",
         "title_fa": "تشدید درگیری‌های یمن و ناتوانی ائتلاف سعودی در برابر نیابتی‌ها",
         "title_en": "The West needs a coherent plan for tackling Iran's proxies",
@@ -277,6 +331,24 @@
         "timestamp": 1792117500.0
     },
     {
+        "id": "27d5d8d72b",
+        "title_fa": "مناظره جنجالی سنا در ایالت مین",
+        "title_en": "Personal jabs, billionaire donors and party loyalty fuel heated Maine Senate debate",
+        "summary": [
+            "نامزدهای سنا در ایالت مین بر سر تامین مالی مبارزات انتخاباتی و وابستگی های حزبی با یکدیگر درگیر شدند.",
+            "این مناظره با حملات شخصی و چالش درباره وفاداری به طبقه کارگر همراه بود."
+        ],
+        "impact": "تشدید رقابت های انتخاباتی و تاثیرگذاری بر آرای خاکستری در سنا.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/personal-jabs-billionaire-donors-party-loyalty-fuel-heated-maine-senate-debate",
+        "clean_url": "https://www.foxnews.com/politics/personal-jabs-billionaire-donors-party-loyalty-fuel-heated-maine-senate-debate",
+        "image": "http://www.bing.com/th?id=ONUT.B2-OrpoBKD-CP13aLmBUtw&pid=News",
+        "timestamp": 1792116000.0
+    },
+    {
         "id": "8fa8003f2c",
         "title_fa": "فشار تورم و سایه جنگ بر زندگی مردم ایران",
         "title_en": "Inside Iran, Economic Misery and Fears of Another US War",
@@ -294,6 +366,24 @@
         "clean_url": "https://www.newsweek.com/iran-economic-crisis-us-war-ordinary-life-12574822",
         "image": "http://www.bing.com/th?id=ONUT.JF8GUndkAlZT4kNUe_f1XA&pid=News",
         "timestamp": 1792116000.0
+    },
+    {
+        "id": "987fce033c",
+        "title_fa": "انتقاد شدید به مواضع جنگی ترامپ",
+        "title_en": "Lawrence O’Donnell thinks Trump just made 'stupidest statement a wartime president could ever make'",
+        "summary": [
+            "اظهارات اخیر دونالد ترامپ واکنش های تندی را از سوی مفسران سیاسی به همراه داشته است.",
+            "منتقدان معتقدند مواضع جنگی او با مخالفت شدید بدنه رای دهندگان مواجه است."
+        ],
+        "impact": "تشدید شکاف های سیاسی میان حامیان و مخالفان سیاست های خارجی دولت.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/other/lawrence-o-donnell-thinks-trump-just-made-stupidest-statement-a-wartime-president-could-ever-make/ar-AA2emTh2",
+        "clean_url": "https://www.msn.com/en-us/news/other/lawrence-o-donnell-thinks-trump-just-made-stupidest-statement-a-wartime-president-could-ever-make/ar-AA2emTh2",
+        "image": "http://www.bing.com/th?id=ONUT.pTkZBOb_X3rGWhJHfLsljQ&pid=News",
+        "timestamp": 1792115451.0
     },
     {
         "id": "080f24a39b",
@@ -421,6 +511,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792103426.0
+    },
+    {
+        "id": "9872a0b83a",
+        "title_fa": "چالش های انتخاباتی نماینده جنجالی کارولینای شمالی",
+        "title_en": "NC Rep. Tricia Cotham eked out a win in 2024. Is she more vulnerable in 2026?",
+        "summary": [
+            "تریشا کوتام پس از تغییر حزب سیاسی خود در سال گذشته، با چالش های جدی برای انتخابات آینده روبروست.",
+            "پایگاه رای این سیاستمدار پس از تغییر جناح دچار ریزش شده است."
+        ],
+        "impact": "احتمال تغییر موازنه قدرت در مجالس محلی ایالتی.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Charlotte Observer",
+        "url": "https://www.charlotteobserver.com/news/politics-government/election/voter-guide/article317635491.html",
+        "clean_url": "https://www.charlotteobserver.com/news/politics-government/election/voter-guide/article317635491.html",
+        "image": "http://www.bing.com/th?id=ONUT.55gpMJp-E3ayr9tP4D1a9g&pid=News",
+        "timestamp": 1792103400.0
     },
     {
         "id": "3e3439f34d",
@@ -5374,117 +5482,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/katie-zacharia-holds-first-briefing-as-white-house-press-secretary/ar-AA2e8ZgM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791880907.0
-    },
-    {
-        "id": "048533aea3",
-        "title_fa": "هدف‌گیری باغ‌های زیتون در جنوب لبنان توسط ارتش اسرائیل",
-        "title_en": "Olive Trees in S. Lebanon Under Israeli Fire: Deprivation of Harvest Seasons Erodes Village Memory",
-        "summary": [
-            "کشاورزان جنوب لبنان برای سومین سال پیاپی از برداشت محصول زیتون محروم مانده‌اند.",
-            "کشته شدن یک نظامی بازنشسته لبنانی در زمین کشاورزی خود، خطر جدی حضور در مناطق مرزی را نشان می‌دهد.",
-            "شکایتی در فرانسه برای نابودی درختان کهنسال زیتون توسط نظامیان اسرائیلی ثبت شده است."
-        ],
-        "impact": "فلج شدن اقتصاد محلی و نابودی معیشت روستاییان در مناطق مرزی جنوب لبنان.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/features/5329008-olive-trees-s-lebanon-under-israeli-fire-deprivation-harvest-seasons-erodes",
-        "clean_url": "https://english.aawsat.com/features/5329008-olive-trees-s-lebanon-under-israeli-fire-deprivation-harvest-seasons-erodes",
-        "image": "https://static.srpcdigital.com/2026-10/1820427.jpeg?VersionId=uXY0va1FkeqVVynMIn.cWLh.onmQdNYE",
-        "timestamp": 1791878220.0
-    },
-    {
-        "id": "652206694a",
-        "title_fa": "تبدیل حوثی‌ها به بازوی تهاجمی ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی",
-        "title_en": "How Iran made the Houthis into such a problem",
-        "summary": [
-            "حوثی‌ها از یک گروه محلی در یمن به ابزار اصلی تهران برای ناامن‌سازی مسیرهای کشتیرانی تبدیل شده‌اند.",
-            "سرمایه‌گذاری ده ساله در انتقال تکنولوژی پهپادی و موشکی، حوثی‌ها را به خطرناک‌ترین نیابتی منطقه بدل کرده است.",
-            "استراتژی تهران استفاده از این گروه برای فشار به غرب بدون درگیری مستقیم است."
-        ],
-        "impact": "افزایش هزینه‌های امنیتی در دریای سرخ و بی‌ثباتی پایدار در تجارت جهانی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/how-iran-made-the-houthis-into-such-a-problem/ar-AA2e9NUO",
-        "clean_url": "https://www.msn.com/en-us/news/other/how-iran-made-the-houthis-into-such-a-problem/ar-AA2e9NUO",
-        "image": "http://www.bing.com/th?id=ONUT.JsfMTI2YhNc-cXfWqgoJNw&pid=News",
-        "timestamp": 1791878147.0
-    },
-    {
-        "id": "b896728b0c",
-        "title_fa": "استحکام‌بخشی به مراکز هسته‌ای و تهدید کشورهای خلیج فارس",
-        "title_en": "Iran fortifying nuclear sites; warns of land incursions into Gulf states if the US launches new strikes - report",
-        "summary": [
-            "حکومت ج.م در حال تقویت و مقاوم‌سازی تاسیسات اتمی خود در برابر حملات احتمالی است.",
-            "تهران تهدید کرده در صورت حمله جدید ایالات متحده، به کشورهای حاشیه خلیج فارس یورش زمینی خواهد برد."
-        ],
-        "impact": "افزایش تنش‌های نظامی در منطقه و بالا رفتن ریسک امنیتی برای کشورهای همسایه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZmZmTklnX2ZCQ3h6aTllTlhraXRRWG5nODdfMV9nNHJDVmFNZEd5d0FudGlzLUlNMTZFN2JCbUV4bkszUk51eWk3TUtZWmJFYTlSNFNSUXotTUwtcVZQNkhTYXZLZjRVTkJnQzJldGlyVjYzSFZGTHBVckF4eEplM2lIcEJINEFmc2pJUTBOcHp5WnNVVkdxbWNDVUxGbGhhSUNwel9yMlkwSDJyenBZcDZNZE9BanM0UFVGeTR3U3NjMGxrT2l4YW1PLU1KczNEQmdJMEE3RHRZRlRPOE5OMXNaZGFKT3Bfb2VRZW5PVXFiY1A5Tk1VVjdnSWFwMm5tcnJjU3QtTFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZmZmTklnX2ZCQ3h6aTllTlhraXRRWG5nODdfMV9nNHJDVmFNZEd5d0FudGlzLUlNMTZFN2JCbUV4bkszUk51eWk3TUtZWmJFYTlSNFNSUXotTUwtcVZQNkhTYXZLZjRVTkJnQzJldGlyVjYzSFZGTHBVckF4eEplM2lIcEJINEFmc2pJUTBOcHp5WnNVVkdxbWNDVUxGbGhhSUNwel9yMlkwSDJyenBZcDZNZE9BanM0UFVGeTR3U3NjMGxrT2l4YW1PLU1KczNEQmdJMEE3RHRZRlRPOE5OMXNaZGFKT3Bfb2VRZW5PVXFiY1A5Tk1VVjdnSWFwMm5tcnJjU3QtTFU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791877980.0
-    },
-    {
-        "id": "c5011ebc65",
-        "title_fa": "افشای طرح‌های تروریستی ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی علیه پایگاه‌های نظامی بریتانیا",
-        "title_en": "MI5 Chief Says Iran is Targeting Military Sites and Suspected Plot at RAF Fairford is 'Not Unique’",
-        "summary": [
-            "رئیس سازمان اطلاعات داخلی بریتانیا تایید کرد که تهران استراتژی خود را از سرکوب مخالفان به سمت حملات خرابکارانه علیه اهداف نظامی تغییر داده است.",
-            "تلاش برای حمله به پایگاه هوایی فیرفورد یک مورد استثنایی نیست و بخشی از یک الگوی جهانی برای ضربه زدن به منافع غرب است.",
-            "استفاده از عوامل نیابتی برای آتش‌سوزی و خرابکاری در اماکن یهودی و نظامی، نشان‌دهنده ورود تهران به فاز جدیدی از تنش با لندن است."
-        ],
-        "impact": "افزایش سطح هشدار امنیتی در بریتانیا و احتمال اعمال تحریم‌های سخت‌تر علیه نهادهای اطلاعاتی و نظامی تهران.",
-        "tag": "امنیتی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/world/5329167-mi5-chief-says-iran-targeting-military-sites-and-suspected-plot-raf-fairford-not",
-        "clean_url": "https://english.aawsat.com/world/5329167-mi5-chief-says-iran-targeting-military-sites-and-suspected-plot-raf-fairford-not",
-        "image": "http://www.bing.com/th?id=ONUT.gUSu3aW-cqI5KINuB4vDGA&pid=News",
-        "timestamp": 1791876240.0
-    },
-    {
-        "id": "f93bb57767",
-        "title_fa": "آماده‌باش نظامی تهران در سایه تهدیدهای ترامپ",
-        "title_en": "Iran Fortifies Defenses as Trump Eyes Renewed Attacks",
-        "summary": [
-            "تهران با بازسازی زرادخانه و تقویت پدافند، خود را برای دور جدید حملات احتمالی پس از انتخابات میان‌دوره‌ای آمریکا آماده می‌کند.",
-            "تهدید به هدف قرار دادن تاسیسات نفتی عربستان و زیرساخت‌های حیاتی منطقه، استراتژی جدید جمهوری اسلامی برای بازدارندگی در برابر فشار حداکثری است.",
-            "طولانی شدن جنگ فراتر از محاسبات اولیه ترامپ، او را به سمت تشدید عملیات نظامی سوق داده است."
-        ],
-        "impact": "افزایش ریسک درگیری مستقیم و ناامنی در مسیرهای انرژی خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-fortifies-defenses-trump-eyes-141735030.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-fortifies-defenses-trump-eyes-141735030.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/ee4008d4ba7b25cbe317f4c970910c97219d8b2214d424ffd23c460852d9cf5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F9ddecb9051dc229c612e79a184c58a7a.jpg",
-        "timestamp": 1791875820.0
-    },
-    {
-        "id": "73cd423e91",
-        "title_fa": "تهدید مقامات ج...ی اسلامی به ورود زمینی در صورت ازسرگیری حملات",
-        "title_en": "Iran officials hinted at land incursions if US resumes strikes - WSJ",
-        "summary": [
-            "تهران به ایالات متحده هشدار داده که ازسرگیری حملات نظامی با واکنش تند و ورود زمینی مواجه خواهد شد.",
-            "این موضع‌گیری تدافعی نشان می‌دهد فرماندهان نظامی به‌خوبی از آسیب‌پذیری خود در برابر حملات هوایی آگاهند."
-        ],
-        "impact": "افزایش احتمال درگیری‌های مرزی و گسترش دامنه بحران نظامی.",
-        "tag": "نیابتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wQmNpWW1fRjRsWk9VbE1PRzBWRjRHbUtReXRTYlZWYXZrWUg0SlBnclhaaWZnQ2YzM21veXZidGdtM0Rfc0x6aU1FTHEzYXhVbVE?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wQmNpWW1fRjRsWk9VbE1PRzBWRjRHbUtReXRTYlZWYXZrWUg0SlBnclhaaWZnQ2YzM21veXZidGdtM0Rfc0x6aU1FTHEzYXhVbVE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791875035.0
     }
 ]
