@@ -36,6 +36,24 @@
         "timestamp": 1792176822.0
     },
     {
+        "id": "cecc3bdcb7",
+        "title_fa": "استفاده انتخاباتی از پرونده ایران در فضای سیاسی آمریکا",
+        "title_en": "How Iran messaging highlights cost of war ahead of US midterm elections",
+        "summary": [
+            "جریان‌های سیاسی در آمریکا با برجسته کردن هزینه‌های جنگ و تهدیدات تهران، در حال یارگیری برای انتخابات پیش‌رو هستند.",
+            "موضوع ایران به ابزاری برای سنجش توانایی دولت فعلی در مدیریت بحران‌های خاورمیانه تبدیل شده است."
+        ],
+        "impact": "تغییر احتمالی رویکرد واشنگتن در قبال تهران برای جلب نظر رای‌دهندگان آمریکایی.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792175284.0
+    },
+    {
         "id": "ea14435b53",
         "title_fa": "تهدید خروج آمریکا از منطقه توسط مقام نظامی ج.ا",
         "title_en": "Iran's president denies nuclear ambitions, says he's ready for talks",
@@ -677,6 +695,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-when-honor-becomes-a-death-sentence-for-women/ar-AA2eoeTK",
         "image": "http://www.bing.com/th?id=ONUT.qT2jZGIaUbwpYw-i6q5t4g&pid=News",
         "timestamp": 1792135620.0
+    },
+    {
+        "id": "2cb7da3f5c",
+        "title_fa": "عربستان: حوثی‌ها با چراغ سبز تهران توافق را شکستند",
+        "title_en": "Saudi Arabia says Houthi attacks violate terms of rapprochement with Iran",
+        "summary": [
+            "ریاض برای اولین بار پس از توافق پکن، مستقیماً ج.ا را به تحریک حوثی‌ها برای حمله به خاک عربستان متهم کرد.",
+            "این موضع‌گیری نشان می‌دهد که ماه عسل دیپلماتیک میان دو کشور به پایان رسیده و تنش‌های نیابتی دوباره در حال فوران است.",
+            "عربستان با این افشاگری، عملاً اعتراف کرده که نفوذ تهران در یمن همچنان مانع اصلی ثبات در مرزهای جنوبی این کشور است."
+        ],
+        "impact": "افزایش تنش‌های امنیتی در خلیج فارس و احتمال بازگشت به وضعیت خصمانه پیش از توافق ۲۰۲۳.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/saudi-arabia-says-houthi-attacks-violate-terms-rapprochement-iran",
+        "clean_url": "https://www.middleeasteye.net/news/saudi-arabia-says-houthi-attacks-violate-terms-rapprochement-iran",
+        "image": "https://www.middleeasteye.net/sites/default/files/images-story/Riyadh-airport-AFP.jpg",
+        "timestamp": 1792134960.0
     },
     {
         "id": "86c8706c56",
@@ -5439,42 +5476,5 @@
         "clean_url": "https://www.timesofisrael.com/saudi-arabia-strikes-oil-facility-in-yemen-capital-sanaa-as-houthis-up-threats",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/4433.jpeg",
         "timestamp": 1791922680.0
-    },
-    {
-        "id": "a554ab9a5e",
-        "title_fa": "ترور فرمانده زن بـسـیـج و بحران معیشتی کشاورزان",
-        "title_en": "Women's Basij commander killed in shooting in southeastern Iran",
-        "summary": [
-            "یک فرمانده واحد زن بـسـیـج در جنوب شرق کشور در تیراندازی افراد ناشناس کشته شد.",
-            "کشاورزان از پرداخت نشدن مطالبات گندم و تورم فلج‌کننده ریالی به شدت ناراضی هستند.",
-            "سیاست‌های اقتصادی حکومت باعث نابودی توان مالی تولیدکنندگان بخش کشاورزی شده است."
-        ],
-        "impact": "ناآفرینی امنیتی در استان‌های مرزی و فشار اقتصادی بر کشاورزان بحران داخلی را تشدید می‌کند.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610146741",
-        "clean_url": "https://www.iranintl.com/en/202610146741",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791922260.0
-    },
-    {
-        "id": "a1eb1f9d94",
-        "title_fa": "نوسانات سهام شرکت هسته‌ای در بازار بورس",
-        "title_en": "ONE Nuclear Energy Inc. (ONEN)",
-        "summary": [
-            "قیمت سهام شرکت وان نیوکلیار ار انرژی در محدوده ۱.۶۸ دلار بسته شد.",
-            "ارزش بازار این شرکت حدود ۱۸۸ میلیون دلار گزارش شده است."
-        ],
-        "impact": "تغییرات محدود در ارزش سهام شرکت‌های حوزه انرژی اتمی.",
-        "tag": "اقتصادی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/quote/ONEN/",
-        "clean_url": "https://finance.yahoo.com/quote/ONEN",
-        "image": "https://pinhole.finance.yahoo.com/chart/ONEN/__screenshot",
-        "timestamp": 1791921600.0
     }
 ]
