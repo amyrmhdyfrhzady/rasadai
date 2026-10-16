@@ -568,6 +568,24 @@
         "timestamp": 1792103400.0
     },
     {
+        "id": "04792623e9",
+        "title_fa": "دور زدن حصار دریایی آمریکا توسط تانکرهای نفتکش ج·س·م·ه",
+        "title_en": "Iran ships some LPG, jet fuel despite US blockade, data shows",
+        "summary": [
+            "داده‌های ردیابی ماهواره‌ای نشان می‌دهد ج·س·م·ه توانسته مقادیری گاز مایع و سوخت هواپیما را با وجود تحریم‌های سخت صادراتی خارج کند.",
+            "پنهان کردن محموله‌ها در میان فعالیت‌های کشتی‌به‌کشتی در آب‌های عمان، ترفند اصلی برای دور زدن نظارت‌ها بوده است."
+        ],
+        "impact": "این روش‌های پنهانی تنها بخش کوچکی از درآمدهای نفتی گذشته را زنده نگه می‌دارد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows",
+        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows",
+        "image": "http://www.bing.com/th?id=ONUT.syyELxVc0VXHGgYCVQVf4g&pid=News",
+        "timestamp": 1792102440.0
+    },
+    {
         "id": "3e3439f34d",
         "title_fa": "تحریم بانک مرکزی کوبا به دلیل ارتباط با تهران",
         "title_en": "U.S. imposes sanctions on Cuba state bank for working with Iranian bank",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://www.radiofarda.com/a/trump-on-iran-we-ll-make-a-decision-on-iran-very-soon/33875939.html",
         "image": "http://www.bing.com/th?id=ONUT.n0K6_n4A9Y4ROVA87JUjjQ&pid=News",
         "timestamp": 1791882120.0
-    },
-    {
-        "id": "83ab58f093",
-        "title_fa": "بازداشت خبرنگار ژاپنی به اتهام جاسوسی در روسیه",
-        "title_en": "Hokkaido Shimbun reporter gathered data about participants in special military operation",
-        "summary": [
-            "سرویس امنیتی روسیه اعلام کرد یک خبرنگار روزنامه ژاپنی هکایدو شیمبون به اتهام جاسوسی در جزایر کوریل بازداشت شده است.",
-            "این فرد با سوءاستفاده از پوشش خبری، اطلاعات مربوط به نیروهای نظامی اعزامی به اوکراین را جمع‌آوری می‌کرده است."
-        ],
-        "impact": "این رویداد تنش‌های دیپلماتیک میان مسکو و توکیو را به شکل محسوسی افزایش می‌دهد.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/society/2201563",
-        "clean_url": "https://tass.com/society/2201563",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1791881700.0
     }
 ]
