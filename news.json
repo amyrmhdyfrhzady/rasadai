@@ -1,5 +1,24 @@
 [
     {
+        "id": "ea14435b53",
+        "title_fa": "تهدید خروج آمریکا از منطقه توسط مقام نظامی ج.ا",
+        "title_en": "Iran's president denies nuclear ambitions, says he's ready for talks",
+        "summary": [
+            "سخنگوی ارتش ج.ا ادعا کرد تنگه هرمز تنها با خروج آمریکا باز می‌ماند و تهدید به اخراج نظامیان آمریکایی کرد.",
+            "منابع دریایی از ادامه حملات بی‌محابا به کشتی‌ها در تنگه هرمز خبر دادند.",
+            "نیروهای نیابتی حوثی کاخ ریاست جمهوری در عدن را هدف حمله موشکی قرار دادند."
+        ],
+        "impact": "افزایش ریسک امنیتی برای کشتیرانی در خلیج فارس و تنگه هرمز",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CBS News",
+        "url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-reopen-122000272.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-reopen-122000272.html",
+        "image": "https://media.zenfs.com/en/cbs_news_897/05858342263ab42fa8435d094729bca5.jpg",
+        "timestamp": 1792175201.0
+    },
+    {
         "id": "0113f76771",
         "title_fa": "هشدار شدید اسرائیل و جهش چهاربرابری تهدیدهای امنیتی علیه لندن",
         "title_en": "Israel warns of devastating retaliation; MI5: Russia, Iran threats quadrupled TV7Israel News 16 Oct.",
@@ -5459,23 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EcktzZ1drZDROd0ozVjhCOE5qWDJTeEpSMzlRRkN4OW0zLUcyc0pxSmpNMWJ1NHpyaVEtZmhIMDBpTHA1eGxFZlVITExaZlNxZG92XzY4SF9lN3Vy",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791917263.0
-    },
-    {
-        "id": "bdf78c07ca",
-        "title_fa": "رهگیری موشک بالستیک حوثی‌ها توسط ائتلاف سعودی",
-        "title_en": "Saudi-led coalition says it intercepts Houthi missile aimed at Riyadh",
-        "summary": [
-            "ائتلاف تحت رهبری عربستان یک فروند موشک بالستیک شلیک شده از سوی نیروهای نیابتی حوثی به سمت ریاض را منهدم کرد.",
-            "این حملات نشان‌دهنده تداوم تهدیدات موشکی در منطقه با وجود فشارهای بین‌المللی است."
-        ],
-        "impact": "افزایش تنش‌های نظامی در شبه‌جزیره عربستان و آماده‌باش پدافند هوایی ریاض.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610141807",
-        "clean_url": "https://www.iranintl.com/en/202610141807",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791917220.0
     }
 ]
