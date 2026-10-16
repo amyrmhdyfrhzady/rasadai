@@ -240,6 +240,24 @@
         "timestamp": 1792125977.0
     },
     {
+        "id": "bb3ad0ccea",
+        "title_fa": "هشدار مالی سخت آمریکا به شبکه های مذهبی وابسته",
+        "title_en": "Iran speaker says government overstepped on anti-terror finance rules",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا به شبکه های مالی هشدار داد از سوءاستفاده حکومتی از وجوه شرعی مانند خمس جلوگیری کنند.",
+            "تیم ترامپ به دنبال قطع مسیرهای غیررسمی انتقال پول و صرافی‌های حامی باندهای تروریستی است."
+        ],
+        "impact": "بسته شدن منافذ مالی پنهان حکومت و تشدید فشار بر شبکه های تامین مالی خارجی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610164168",
+        "clean_url": "https://www.iranintl.com/en/202610164168",
+        "image": "http://www.bing.com/th?id=ONUT.HYpukZXLKymrrsYuf6_5Bw&pid=News",
+        "timestamp": 1792125720.0
+    },
+    {
         "id": "205ed005f4",
         "title_fa": "بررسی آینده خاورمیانه بدون سایه جنگ با حاکمیت ایران",
         "title_en": "MEI Report Launch | The Middle East Beyond the Iran War",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202610136764",
         "image": "http://www.bing.com/th?id=ONUT.cvsfcWKA6G54owaTpAC76Q&pid=News",
         "timestamp": 1791883200.0
-    },
-    {
-        "id": "478ca72896",
-        "title_fa": "خط و نشان ترامپ برای ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی و پرونده حوثی‌ها",
-        "title_en": "ترامپ: به‌زودی درباره ایران تصمیم می‌گیریم؛احتمال درخواست کمک از اردوغان علیه حوثی‌ها",
-        "summary": [
-            "ترامپ اقتصاد ایران را ورشکسته خواند و از تصمیم‌گیری زودهنگام واشینگتن خبر داد.",
-            "واشینگتن برای مهار حوثی‌های یمن به دنبال جلب همکاری ترکیه است.",
-            "کنترل کامل تنگه هرمز در دست آمریکا قرار دارد."
-        ],
-        "impact": "افزایش فشار روانی بر حاکمیت و سیگنال تشدید تحریم‌ها و اقدامات واشینگتن.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/trump-on-iran-we-ll-make-a-decision-on-iran-very-soon/33875939.html",
-        "clean_url": "https://www.radiofarda.com/a/trump-on-iran-we-ll-make-a-decision-on-iran-very-soon/33875939.html",
-        "image": "http://www.bing.com/th?id=ONUT.n0K6_n4A9Y4ROVA87JUjjQ&pid=News",
-        "timestamp": 1791882120.0
     }
 ]
