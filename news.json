@@ -1,5 +1,23 @@
 [
     {
+        "id": "9d4646f136",
+        "title_fa": "دگرگونی ساختار نیابتی ج.ه.ا زیر آتش جنگ",
+        "title_en": "How War is Reshaping Iran’s “Axis of Resistance”",
+        "summary": [
+            "جنگ اخیر معادلات و وابستگی گروه‌های نیابتی به تهران را به شدت تغییر داده است.",
+            "شبکه نفوذ منطقه‌ای با چالش‌های ساختاری و امنیتی بی‌سابقه‌ای روبه‌رو شده است."
+        ],
+        "impact": "کاهش توان بازدارندگی منطقه‌ای و فرسایش شبکه نیابتی ج.ه.ا",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "International Crisis Group",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3h1NUkwM1VnR3lRQzV2WnVhVm52RnotSURwRVMxVUFucDVZeTNXRDNZczNaNGFsSlFvcmUtSmNrbFYtSGhBQTBXU3V6cFg0cEszUnVzZ1BWOW9TNGtBZkxWRjlQeDNBRjVSQ2RMLTF6QTNTVVFraUh5ZVZ3NVEzMzJ5NV9qbHhoWEhhclpGMVd6VUFzVkpNdE5ldGtxbDlNa0ZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3h1NUkwM1VnR3lRQzV2WnVhVm52RnotSURwRVMxVUFucDVZeTNXRDNZczNaNGFsSlFvcmUtSmNrbFYtSGhBQTBXU3V6cFg0cEszUnVzZ1BWOW9TNGtBZkxWRjlQeDNBRjVSQ2RMLTF6QTNTVVFraUh5ZVZ3NVEzMzJ5NV9qbHhoWEhhclpGMVd6VUFzVkpNdE5ldGtxbDlNa0ZN",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792167220.0
+    },
+    {
         "id": "5f2450ec6d",
         "title_fa": "تشدید بحران امنیتی در خاورمیانه",
         "title_en": "escalating security threats across the Middle East",
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vUHdkWWYwM3FWaEp6MHFTOFJEQVp1emRtSmdhOS0wY1dMbnRsYXpnNG1iMGM4Z3lUbGxtblQ3NzdOcEtjUWpnYmRNMC1uQnZDMlhUV1diWHNHbU1vbUEteW5zNlRMd2pBTGdiX2lJaGRPdWZZX1dn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792166653.0
+    },
+    {
+        "id": "e896bb4716",
+        "title_fa": "بن‌بست حکومت ج.ه.ا در مواجهه با جامعه",
+        "title_en": "Iran’s rulers face a reckoning with their own people, former US envoy says",
+        "summary": [
+            "دیپلمات سابق آمریکایی بر این باور است که حاکمان تهران راهی جز پاسخگویی به مطالبات مردم ندارند.",
+            "شکاف عمیق میان جامعه و بدنه قدرت به نقطه بحرانی رسیده است."
+        ],
+        "impact": "تشدید فشار داخلی و بی‌ثباتی سیاسی برای ساختار قدرت",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ2lrd205blVWMEdDbWNTRlpQbHRUaExIV0tSNlVRcFRnQVhLaWI3VEpLVi1NMHB5cWlleDV4UHhNdnpScEI4aFQ2R1p1ZUNkSXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ2lrd205blVWMEdDbWNTRlpQbHRUaExIV0tSNlVRcFRnQVhLaWI3VEpLVi1NMHB5cWlleDV4UHhNdnpScEI4aFQ2R1p1ZUNkSXc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792165598.0
     },
     {
         "id": "e98b1768f8",
@@ -5440,42 +5476,5 @@
         "clean_url": "https://www.iranintl.com/en/202610141260",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791915960.0
-    },
-    {
-        "id": "633cdf3811",
-        "title_fa": "معامله سوختی ترامپ با پوتین؛ برد روسیه و باخت غرب",
-        "title_en": "Ukraine's civilians will pay for Trump's deal with Russia | GUEST COMMENTARY",
-        "summary": [
-            "ترامپ با لغو تحریم‌های صادرات سوخت روسیه، عملاً به مسکو برای نقد کردن ذخایر مازادش کمک کرده است.",
-            "این توافق نه تنها مشکل قیمت سوخت را حل نمی‌کند، بلکه با دور زدن تحریم‌ها، دست روسیه را در جنگ بازتر می‌گذارد.",
-            "سیاست‌های تقابلی ترامپ با ج.ا عامل اصلی بی‌ثباتی بازار انرژی و افزایش قیمت‌هاست."
-        ],
-        "impact": "تضعیف رژیم تحریم‌ها علیه روسیه و تداوم بحران انرژی به دلیل سیاست‌های منطقه‌ای ترامپ.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/10/13/trump-russia-diesel-ukraine/",
-        "clean_url": "https://www.baltimoresun.com/2026/10/13/trump-russia-diesel-ukraine",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/12/Europe_Summit_Trump_56280-1.jpg?w=2000&h=1337",
-        "timestamp": 1791914940.0
-    },
-    {
-        "id": "8af1fb18f3",
-        "title_fa": "شکاف در راهبرد مشترک واشینگتن و تل‌آویو علیه تهران",
-        "title_en": "Israel–US Strategic Cooperation Against Iran: Limits And Divergences – Analysis",
-        "summary": [
-            "تحلیل‌ها نشان می‌دهد که با وجود هم‌سویی کلی، تفاوت‌های جدی در اولویت‌های عملیاتی و نحوه برخورد با برنامه هسته‌ای بین آمریکا و اسرائیل وجود دارد",
-            "واشینگتن همچنان به دنبال مدیریت تنش است، در حالی که تل‌آویو برای اقدامات ضربتی و مستقیم علیه ج.ا فشار می‌آورد"
-        ],
-        "impact": "عدم وجود یک جبهه واحد و قاطع باعث می‌شود تهران از این ناهماهنگی برای پیشبرد برنامه‌های خود استفاده کند",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Eurasia Review",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2JsUUk1Q0xVclJpN1BxZGtmMmtTclFtNC03T2k5UVFab2tGRGU1Qkk5T0gxeGlVWHo0dTYtaDZSSDhuOUVkS085aEJwU2ZudnR6WjJ5S3VVMmdSY2tCZl9ibkFSZUxrYTVMSzFnNWVsaEhlUEg1RGhNZk9rY0FPZG9sZ3JkSE4zOEF4WUtqREVaUHd1bFBrNVZocmwyZnZnU3lBUUlEc2FuQW54dHpPcHQyOTVPQTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2JsUUk1Q0xVclJpN1BxZGtmMmtTclFtNC03T2k5UVFab2tGRGU1Qkk5T0gxeGlVWHo0dTYtaDZSSDhuOUVkS085aEJwU2ZudnR6WjJ5S3VVMmdSY2tCZl9ibkFSZUxrYTVMSzFnNWVsaEhlUEg1RGhNZk9rY0FPZG9sZ3JkSE4zOEF4WUtqREVaUHd1bFBrNVZocmwyZnZnU3lBUUlEc2FuQW54dHpPcHQyOTVPQTA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791914399.0
     }
 ]
