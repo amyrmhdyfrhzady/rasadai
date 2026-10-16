@@ -366,6 +366,25 @@
         "timestamp": 1792097969.0
     },
     {
+        "id": "b6d5148fa2",
+        "title_fa": "فشار مالی واشنگتن بر شبکه‌های مالی وابسته به حاکمیت",
+        "title_en": "Iran lawmaker says Araghchi's talks diverge from Islamic Republic's policy",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا به موسسات مالی درباره سوءاستفاده حکومت از نهادهای مذهبی و جمع‌آوری وجوه شرعی هشدار داد.",
+            "اسکات بسنت تاکید کرد دولت ترامپ اجازه نمی‌دهد حکومت ایران از نهادهای مذهبی برای تامین مالی تروریسم استفاده کند.",
+            "شبکه‌های هاوالا و انتقال غیررسمی پول زیر ذره‌بین نهادهای نظارتی آمریکا قرار گرفتند."
+        ],
+        "impact": "مسدود شدن مسیرهای مالی پنهان و انتقال پول برای بازوان منطقه‌ای حاکمیت.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610164534",
+        "clean_url": "https://www.iranintl.com/en/202610164534",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792095240.0
+    },
+    {
         "id": "4e52e1460d",
         "title_fa": "بررسی قانونی حمله احتمالی آمریکا به تاسیسات انرژی ای-ران",
         "title_en": "Mother of All Bombs Iran: Can the US Lawfully Hit Energy Sites?",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.middleeasteye.net/opinion/iran-will-not-trade-its-nuclear-insurance-policy-temporary-american-promises",
         "image": "http://www.bing.com/th?id=ONUT.owcQECq4sZjnPsUXAM9LOg&pid=News",
         "timestamp": 1791872400.0
-    },
-    {
-        "id": "7f323de36c",
-        "title_fa": "هشدار امنیتی بریتانیا درباره توطئه‌های تروریستی ج.ا",
-        "title_en": "British MI5 leader warns of attacks by Iran",
-        "summary": [
-            "رئیس سازمان اطلاعات داخلی بریتانیا مستقیماً ج.ا را عامل حملات و تلاش‌های خرابکارانه اخیر در خاک این کشور معرفی کرد.",
-            "این موضع‌گیری نشان‌دهنده پایان مدارای امنیتی اروپا با فعالیت‌های برون‌مرزی نیروهای اطلاعاتی ج.ا است."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و احتمال اخراج دیپلمات‌های ج.ا از بریتانیا.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "UPI",
-        "url": "https://www.upi.com/Top_News/World-News/2026/10/13/MI55/8681791910429/",
-        "clean_url": "https://www.upi.com/Top_News/World-News/2026/10/13/MI55/8681791910429",
-        "image": "http://www.bing.com/th?id=ONUT.4O5do5SnLLyvg4jdH0U9ew&pid=News",
-        "timestamp": 1791872160.0
     }
 ]
