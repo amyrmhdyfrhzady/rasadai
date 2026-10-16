@@ -18,6 +18,24 @@
         "timestamp": 1792115273.0
     },
     {
+        "id": "208691d4a8",
+        "title_fa": "رصد روزانه قیمت بنزین در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "گزارش‌های روزانه رسانه‌های آمریکایی تغییرات قیمت سوخت را در ایالت‌های مختلف دنبال می‌کنند.",
+            "این آمارها روند تورم و هزینه‌های روزمره شهروندان آمریکایی را به تصویر می‌کشند."
+        ],
+        "impact": "تغییرات قیمت سوخت مستقیماً روی هزینه‌های زندگی و شاخص تورم در آمریکا اثر می‌گذارد.",
+        "tag": "اقتصادی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792110484.0
+    },
+    {
         "id": "792e447278",
         "title_fa": "چرخش دیپلماتیک ترامپ؛ کاهش تحریم نفت روسیه برای کنترل بازار",
         "title_en": "Conflit Ukraine / Russie : la stratégie de Donald Trump",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.foxnews.com/live-news/iran-war-news-us-trump-houthis-saudi-arabia-october-12",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/8bc586dda5b1b8aa25e91470dff1c3af.jpg",
         "timestamp": 1791856680.0
-    },
-    {
-        "id": "2966bff26c",
-        "title_fa": "نمایش تسلیحات اتمی کره شمالی همزمان با چراغ سبز ترامپ",
-        "title_en": "وزارت خارجه عربستان سعودی: اردن از اقدامات ریاض برای حفاظت از منابع خود حمایت می‌کند",
-        "summary": [
-            "کیم جونگ اون موزه نظامی جدیدی را با نمایش موشک‌های قاره‌پیما و پهپادهای پیشرفته افتتاح کرد.",
-            "این اقدام چند روز پس از احتمال طرح دیدار ترامپ و رهبر کره شمالی در سفر آسیایی انجام شد."
-        ],
-        "impact": "تلاش پیونگ‌یانگ برای امتیازگیری تسلیحاتی از طریق نمایش توان موشکی در آستانه دیدارهای دیپلماتیک.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610139413",
-        "clean_url": "https://www.iranintl.com/202610139413",
-        "image": "http://www.bing.com/th?id=ONUT.bMNS1jR7033uhbHcbsrqJw&pid=News",
-        "timestamp": 1791856200.0
     }
 ]
