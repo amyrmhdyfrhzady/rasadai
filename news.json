@@ -363,6 +363,25 @@
         "timestamp": 1792087401.0
     },
     {
+        "id": "30499fe8ac",
+        "title_fa": "پیشنهاد قطع بودجه جنگ با ایران در کنگره آمریکا",
+        "title_en": "Maine Senate candidate Troy Jackson says Congress should cut off funding for Iran war",
+        "summary": [
+            "تروی جکسون، کاندیدای دموکرات سنا، خواستار مسدود شدن بودجه نظامی برای توقف جنگ با ایران شد.",
+            "دموکرات‌ها نارضایتی عمومی و کهنه‌سربازان از جنگ خاورمیانه را محور کارزار انتخاباتی خود قرار داده‌اند.",
+            "طرح خروج دموکرات‌ها بدون مشخص کردن وضعیت کنترل تنگه هرمز، شکاف‌های امنیتی جدی به دنبال دارد."
+        ],
+        "impact": "احتمال ایجاد مانع قانونی در تامین مالی عملیات‌های نظامی ارتش آمریکا در خاورمیانه در صورت پیروزی دموکرات‌ها.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Jewish Insider",
+        "url": "https://jewishinsider.com/2026/10/susan-collins-troy-jackson-congress-funding-iran-war/",
+        "clean_url": "https://jewishinsider.com/2026/10/susan-collins-troy-jackson-congress-funding-iran-war",
+        "image": "https://image.jewishinsider.com/wp-content/uploads/2026/09/29171947/GettyImages-2294685975-scaled.jpg",
+        "timestamp": 1792083660.0
+    },
+    {
         "id": "0ca85451c5",
         "title_fa": "شکست تلاش جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی در بستن تنگه هرمز",
         "title_en": "Iran’s ability to weaponize Hormuz ‘significantly undermined’",
@@ -582,6 +601,43 @@
         "clean_url": "https://www.twincities.com/2026/10/15/saudi-arabia-thwarted-missile-strike-middle-east-news",
         "image": "https://www.twincities.com/wp-content/uploads/2026/10/Saudi_Arabia_73938_ab209e-1.jpg?w=2000&h=1333",
         "timestamp": 1792074180.0
+    },
+    {
+        "id": "9b3eb9bfd7",
+        "title_fa": "شوک تورمی تازه به کارزار ترامپ در آستانه انتخابات",
+        "title_en": "Trump Suffers Double Inflation Blow Within 48 Hours as Midterms Loom",
+        "summary": [
+            "شاخص بهای تولیدکننده با جهش ۱.۳ درصدی در سپتامبر، بیشترین رشد ماهانه چهار سال اخیر را ثبت کرد.",
+            "فشار هم‌زمان هزینه‌های تولید و رشد بهای مصرف‌کننده، ادعاهای اقتصادی جمهوری‌خواهان را پیش از رأی‌گیری به چالش کشیده است.",
+            "این شتاب قیمتی کارزار جمهوری‌خواهان برای حفظ اکثریت کنگره را در تنگنای شدید قرار می‌دهد."
+        ],
+        "impact": "تضعیف شانس جمهوری‌خواهان در انتخابات کنگره و تشدید محدودیت‌های ترامپ در اجرای طرح‌های اقتصادی.",
+        "tag": "اقتصاد آمریکا",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-suffers-double-inflation-blow-within-48-hours-as-midterms-loom-12575708",
+        "clean_url": "https://www.newsweek.com/trump-suffers-double-inflation-blow-within-48-hours-as-midterms-loom-12575708",
+        "image": "http://www.bing.com/th?id=ONUT.yC-Uf0cGH3_qduAQewExxg&pid=News",
+        "timestamp": 1792073040.0
+    },
+    {
+        "id": "77ebdb42bb",
+        "title_fa": "توقف پروژه گنبد طلایی ترامپ در باتلاق فنی و مالی",
+        "title_en": "Trump’s defense dreams are on life support",
+        "summary": [
+            "طرح فرمان اجرایی ترامپ برای ایجاد سپر موشکی یکپارچه فضایی و زمینی با موانع اساسی روبه‌رو شده است.",
+            "هزینه‌های نجومی و چالش‌های فناوری فضایی، کارایی این شبکه دفاع موشکی چندلایه را زیر سوال برده است."
+        ],
+        "impact": "عقب‌ماندگی ارتش آمریکا در نوسازی پدافند موشکی پیشرفته و آسیب‌پذیری احتمالی در برابر نسل جدید تسلیحات.",
+        "tag": "دفاعی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/10/15/trump-defense-budget-loss-01120994",
+        "clean_url": "https://www.politico.com/news/2026/10/15/trump-defense-budget-loss-01120994",
+        "image": "http://www.bing.com/th?id=ONUT.d53AvEjojz-HFGqU21cSbA&pid=News",
+        "timestamp": 1792070940.0
     },
     {
         "id": "a0f8a1f534",
@@ -5424,59 +5480,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/who-are-houthis-and-why-are-they-attacking-saudi-arabia/ar-AA2e6Gyh",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2e7aIA.img?w=1280&h=720&m=4&q=87",
         "timestamp": 1791867325.0
-    },
-    {
-        "id": "e0b0b306f5",
-        "title_fa": "دست داشتن س پ ا ه در طرح حمله به پایگاه هوایی انگلیس",
-        "title_en": "UK Blames Iran’s IRGC for Bomber Base Plot as Tehran Rejects Accusations",
-        "summary": [
-            "لندن رسماً نیروهای نظامی حکومت ایران را پشت طراحی حمله به یک پایگاه بمب‌افکن می‌داند.",
-            "تهران طبق روال همیشگی این اتهامات را رد کرده اما فشار دیپلماتیک روی دستگاه امنیتی ایران بیشتر شده است."
-        ],
-        "impact": "افزایش تنش‌های امنیتی میان لندن و تهران و احتمال اعمال تحریم‌های تازه علیه نهادهای نظامی.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The SOFX Report",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVk0xR3ZOSjBsTThUOW00cHdnRHBSNnFRclZkdUd4Z1g4X3dNdU83Mm4xNVI2MXhIN29ERzhVQ3phNFZEMTEyMVJmMk5weXEzZkNFZzcyeUhCbkwxQ3NZeU1OOGhpZ1A5N0twRUpHRjlJeU5UZ0V5UGo5N05tLWY1SU5tZ2NucFNUcTMyUWdzTExaYWpwS2ViRw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVk0xR3ZOSjBsTThUOW00cHdnRHBSNnFRclZkdUd4Z1g4X3dNdU83Mm4xNVI2MXhIN29ERzhVQ3phNFZEMTEyMVJmMk5weXEzZkNFZzcyeUhCbkwxQ3NZeU1OOGhpZ1A5N0twRUpHRjlJeU5UZ0V5UGo5N05tLWY1SU5tZ2NucFNUcTMyUWdzTExaYWpwS2ViRw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791866085.0
-    },
-    {
-        "id": "d957b8b8a6",
-        "title_fa": "ردپای تهران در حمله ناکام به تل‌آویو",
-        "title_en": "Iran never signs its attacks. Was flydubai another?",
-        "summary": [
-            "حمله تروریستی خنثی‌شده به پرواز فلای‌دبی با الگوهای شناخته‌شده شبکه نیابتی جـ...ـهوری اسـ...ـلامی همخوانی دارد.",
-            "پنهان‌کاری و عدم پذیرش رسمی مسئولیت، سناریوی همیشگی تهران برای فرار از پیامدهای حقوقی و امنیتی است."
-        ],
-        "impact": "افزایش سطح هوشیاری امنیتی در فرودگاه‌های منطقه‌ای و فشار بر نهادهای اطلاعاتی برای رصد تحرکات نیابتی.",
-        "tag": "نیابتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/jerusalem-report/article-911505",
-        "clean_url": "https://www.jpost.com/jerusalem-report/article-911505",
-        "image": "http://www.bing.com/th?id=ONUT.Z85fVxlAEeSKMK1ur4ugkg&pid=News",
-        "timestamp": 1791865800.0
-    },
-    {
-        "id": "b7b2fa7d9d",
-        "title_fa": "حذف اروپا از میز مذاکرات اتمی با تهران",
-        "title_en": "Why Europe Lost Its Seat at the Iran Nuclear Table?",
-        "summary": [
-            "اروپا نفوذ و جایگاه تاثیرگذار خود را در پرونده اتمی ایـران از دست داده است.",
-            "ناتوانی کشورهای اروپایی در مهار برنامه‌های هسته‌ای، آن‌ها را به بازیگران حاشیه‌ای تبدیل کرده است."
-        ],
-        "impact": "تضعیف دیپلماسی اروپا و انحصار تصمیم‌گیری‌ها در دستان بازیگران دیگر.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTHd6UUdRZl9qcDhNeE95RGtNMUltVHM5RUZnT3NGMVdTWnotMFpsVC0wYVIyaXQwV1pFLVNyM0lPM2h4ZVBGaXR0YXZGOXp2ZEpNWWRJS2RqWENMc2p0WXp3MmE4ZWJtSmYwQS04UzZLM0hWSkpSUlNicUZxWFFqT09WQnQ1N01CNzRhYnlQNWNlWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTHd6UUdRZl9qcDhNeE95RGtNMUltVHM5RUZnT3NGMVdTWnotMFpsVC0wYVIyaXQwV1pFLVNyM0lPM2h4ZVBGaXR0YXZGOXp2ZEpNWWRJS2RqWENMc2p0WXp3MmE4ZWJtSmYwQS04UzZLM0hWSkpSUlNicUZxWFFqT09WQnQ1N01CNzRhYnlQNWNlWnc",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791864015.0
     }
 ]
