@@ -1,5 +1,24 @@
 [
     {
+        "id": "c9f6e43368",
+        "title_fa": "هدف‌گیری خزانه‌داری آمریکا به شبکه مالی نهادهای مذهبی",
+        "title_en": "Iran's Pezeshkian meets Georgian prime minister to discuss bilateral ties",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا نسبت به سوءاستفاده حکومت از نهادهای مذهبی و وجوه شرعی برای دور زدن تحریم‌ها هشدار داد.",
+            "شبکه‌های حراست مالی از بانک‌ها خواستند تراکنش‌های مشکوک مرتبط با انتقال پول به عوامل حکومت را رصد کنند.",
+            "اسکات بسنت تاکید کرد دولت ترامپ اجازه نمی‌줄د ماشین سرکوب و تروریسم با پول‌های مذهبی تغذیه شود."
+        ],
+        "impact": "مسدود شدن کانال‌های مالی پنهان و قطع دسترسی نهادهای حکومتی به پول‌های مذهبی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610166731",
+        "clean_url": "https://www.iranintl.com/en/202610166731",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/1fd02beeb9e9f307f1db1472c050cbf7f620713d-1179x992.jpg?rect=0,187,1179,619&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1792147680.0
+    },
+    {
         "id": "e672f568a1",
         "title_fa": "تناقض‌گویی همتی در بانک مرکزی؛ اقتصاد در حال فروپاشی است",
         "title_en": "Watch: Israel warns Iran against attacking during election",
@@ -5464,23 +5483,5 @@
         "clean_url": "https://tass.com/society/2201563",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1791881700.0
-    },
-    {
-        "id": "c49cd8d5a2",
-        "title_fa": "تغییر استراتژی کتی وود در سهام متا",
-        "title_en": "Cathie Wood makes surprising Meta move on Zuckerberg's AI push",
-        "summary": [
-            "کتی وود با وجود تمرکز متا بر هوش مصنوعی، بخشی از سهام خود را در این شرکت کاهش داد.",
-            "این اقدام نشان‌دهنده احتیاط سرمایه‌گذاران بزرگ در قبال هزینه‌های سنگین توسعه هوش مصنوعی است."
-        ],
-        "impact": "نوسان در ارزش سهام شرکت‌های بزرگ تکنولوژی.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/crypto/markets/cathie-wood-makes-surprising-meta-move-on-zuckerbergs-ai-push",
-        "clean_url": "https://www.thestreet.com/crypto/markets/cathie-wood-makes-surprising-meta-move-on-zuckerbergs-ai-push",
-        "image": "http://www.bing.com/th?id=ONUT.zpwru7yh0dhqDnXLjq2V6g&pid=News",
-        "timestamp": 1791881280.0
     }
 ]
