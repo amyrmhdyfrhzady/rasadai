@@ -1,5 +1,42 @@
 [
     {
+        "id": "b78325e89e",
+        "title_fa": "هدف‌گیری شبکه‌های مالی وابسته به جـمـهـوریاسـلامی توسط خزانه‌داری آمریکا",
+        "title_en": "Iran cleric says Iran-US war should continue until security is assured",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا با صدور هشدار جدیدی به موسسات مالی، سوءاستفاده نهادهای حکومتی از شبکه‌های خیریه دینی و وجوه شرعی را زیر ذره‌بین برد.",
+            "اسکات بسنت اعلام کرد دولت دونالد ترامپ اجازه نمی‌دهد حکومت از نهادهای مذهبی برای تامین مالی تروریسم و پر کردن جیب مقامات ارشد بهره بردارد.",
+            "سیستم‌های نظارتی آمریکا به دنبال ردیابی انتقال غیرقانونی پول از طریق صرافی‌ها و شبکه‌های هاوالا هستند."
+        ],
+        "impact": "بستن مسیرهای تنفس مالی پنهان حکومت و گروه‌های نیابتی از طریق نهادهای مذهبی",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610160393",
+        "clean_url": "https://www.iranintl.com/en/202610160393",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792160160.0
+    },
+    {
+        "id": "519ac45a26",
+        "title_fa": "فروپاشی کارایی بازار جهانی نفت در سایه جنگ‌های سیاسی و اقتصادی",
+        "title_en": "Global crude oil market is not efficient anymore — Russian presidential advisor",
+        "summary": [
+            "مشاور رئیس‌جمهور روسیه اعلام کرد بازار جهانی نفت دیگر کارایی گذشته را ندارد و به میدان یک جنگ تمام‌عیار سیاسی و اقتصادی تبدیل شده است.",
+            "این بازار با وجود حجم کوچک‌تر نسبت به بازار بدهی، به دلیل سیاست‌زدگی از اهمیت اطلاعاتی بالایی برخوردار است."
+        ],
+        "impact": "افزایش بی‌ثباتی و اثرگذاری فاکتورهای سیاسی بر بهای انرژی در سطح جهان",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2203085",
+        "clean_url": "https://tass.com/economy/2203085",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792156560.0
+    },
+    {
         "id": "5789381fa1",
         "title_fa": "تهدید معاون وزیر نفت به تقابل در صورت حمله به تاسیسات",
         "title_en": "Iran will respond if US threatens energy facilities, deputy oil minister says",
@@ -5443,41 +5480,5 @@
         "clean_url": "https://www.briefs.co/news/ai-jitters-hit-emerging-markets-as-chip-stocks-slide-and-cur",
         "image": "https://www.briefs.co/wp-content/uploads/2026/10/ai-jitters-hit-emerging-markets-as-chip-stocks-slide-and-cur.png",
         "timestamp": 1791905760.0
-    },
-    {
-        "id": "3ca878d77b",
-        "title_fa": "توقف موقت بانک مرکزی ژاپن در افزایش نرخ بهره",
-        "title_en": "Bank of Japan Taps the Brakes on Back‑to‑Back Hikes, Keeps December in Play",
-        "summary": [
-            "بانک مرکزی ژاپن دلیلی برای افزایش پشت سر هم نرخ بهره نمی‌بیند و منتظر داده‌های جدید اقتصادی است.",
-            "بررسی تورم قیمت تولیدکننده و بهای نفت، مسیر تصمیم‌گیری برای ماه دسامبر را تعیین خواهد کرد."
-        ],
-        "impact": "ثبات نسبی در بازارهای مالی آسیا تا زمان مشخص شدن سیاست نهایی نرخ بهره در ژاپن.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "briefs",
-        "url": "https://www.briefs.co/news/bank-of-japan-taps-the-brakes-on-back-to-back-hikes-keeps-de/",
-        "clean_url": "https://www.briefs.co/news/bank-of-japan-taps-the-brakes-on-back-to-back-hikes-keeps-de",
-        "image": "https://www.briefs.co/wp-content/uploads/2026/10/bank-of-japan-taps-the-brakes-on-back-to-back-hikes-keeps-de.png",
-        "timestamp": 1791904200.0
-    },
-    {
-        "id": "b35f14fbc4",
-        "title_fa": "هزینه سنگین ریاض در تقابل با یمنی‌ها",
-        "title_en": "As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran",
-        "summary": [
-            "حملات موشکی به پایتخت عربستان پیامدهای مستقیم سیاست‌های منطقه‌ای را عیان کرده است.",
-            "ریاض به خوبی فهمیده که تنش‌های تهران و واشنگتن مستقیماً امنیت اقتصادی و سیاسی‌اش را هدف می‌گیرد."
-        ],
-        "impact": "افزایش ریسک امنیتی در خلیج فارس و بالا رفتن فشار بر اقتصاد سعودی.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXU0Wi0tVm5aMk5WYWZNYTBlLW9uVktRN2VyRUxPQUpUazM3cXVLRnZNMF9ad01tVWFZUlBRWV9WVU9BOGoxXzdFWWMyQndhclVId3R5VlBIeTBOTF9JbnN4eVdnWThmd19ZWktfYlJwYTdHNkRZaGFtX3Roci12TWR3OE5EVi1ERDhWOHlGSV9XTDRScG9uakVjRlVzTnBpYk0zZWthdHg4SG9tRmVkVkZsWDM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXU0Wi0tVm5aMk5WYWZNYTBlLW9uVktRN2VyRUxPQUpUazM3cXVLRnZNMF9ad01tVWFZUlBRWV9WVU9BOGoxXzdFWWMyQndhclVId3R5VlBIeTBOTF9JbnN4eVdnWThmd19ZWktfYlJwYTdHNkRZaGFtX3Roci12TWR3OE5EVi1ERDhWOHlGSV9XTDRScG9uakVjRlVzTnBpYk0zZWthdHg4SG9tRmVkVkZsWDM",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791903877.0
     }
 ]
