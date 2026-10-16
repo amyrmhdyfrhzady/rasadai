@@ -217,6 +217,24 @@
         "timestamp": 1792087401.0
     },
     {
+        "id": "a1f93fade4",
+        "title_fa": "کلاف سردرگم بحران‌های ج.ا از دید تحلیلگران غربی",
+        "title_en": "Iran: A Cluster of Problems",
+        "summary": [
+            "بحران آفرینی‌های ج.ا برای غرب سال‌هاست که در پرونده‌های هسته‌ای و صادرات بحران خلاصه شده است.",
+            "دولتمردان آمریکایی و اروپایی در دهه‌های گذشته تلاش زیادی برای مهار تهران انجام داده‌اند اما عملا راه به جایی نبرده‌اند."
+        ],
+        "impact": "تداوم نگاه امنیتی غرب به ساختار سیاسی حاکم بر ایران",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/opinion/5330155-iran-cluster-problems",
+        "clean_url": "https://english.aawsat.com/opinion/5330155-iran-cluster-problems",
+        "image": "https://static.srpcdigital.com/styles/thumbnail/public/2024-11/Amir-Taheri.jpg",
+        "timestamp": 1792083660.0
+    },
+    {
         "id": "56f76a318b",
         "title_fa": "دور جدید تحریم‌های آمریکا علیه شبکه‌های مالی ایران",
         "title_en": "US Issues Fresh Iran-Related Sanctions, Treasury Website Shows",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/202610139413",
         "image": "http://www.bing.com/th?id=ONUT.bMNS1jR7033uhbHcbsrqJw&pid=News",
         "timestamp": 1791856200.0
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "رصد روزانه قیمت بنزین در ایالات متحده",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "گزارش‌های روزانه رسانه‌های آمریکایی تغییرات قیمت سوخت را در ایالت‌های مختلف پیگیری می‌کنند.",
-            "نوسانات بهای بنزین به طور مستقیم بر تورم داخلی و تصمیم‌گیری‌های اقتصادی دولت تاثیر می‌گذارد."
-        ],
-        "impact": "تغییرات قیمت سوخت به شاخصی مهم برای ارزیابی وضعیت اقتصادی خانوارها در آمریکا تبدیل شده است.",
-        "tag": "اقتصادی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791855749.0
     }
 ]
