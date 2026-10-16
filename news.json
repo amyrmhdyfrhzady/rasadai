@@ -240,6 +240,24 @@
         "timestamp": 1792146660.0
     },
     {
+        "id": "1e4fba5524",
+        "title_fa": "بحران ساختاری در وزارت بهداشت و کمبود شدید کادر درمان",
+        "title_en": "Iran has half the nurses it needs, official says",
+        "summary": [
+            "کمبود شدید پرستار نظام سلامت را با چالش جدی روبه‌رو کرده است",
+            "سوءمدیریت منابع انسانی بحران خدمات پزشکی را عمیق‌تر کرده است"
+        ],
+        "impact": "فلج شدن بخش‌های حیاتی بیمارستان‌ها و نارضایتی عمومی کادر درمان",
+        "tag": "اجتماعی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610163212",
+        "clean_url": "https://www.iranintl.com/en/202610163212",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792145580.0
+    },
+    {
         "id": "93929067a8",
         "title_fa": "موضع‌گیری نامزدهای سنای آمریکا درباره جنگ احتمالی با ایران",
         "title_en": "Fact check: What are U.S. Senate candidates’ stances on Iran war in Kansas race",
@@ -514,6 +532,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZVIxb0ZXZDAyQlhDU1VaWEtRN0t1RW1xMXBNYWFPLS03bW05TFdOTlItSWk5dEhrMzlSNGZNUzlieEtzUjVoYzVoNkdsZXdjQjNFRXh2Sk41eEpmYU1MT1ZCS19uWTE3SHc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792130373.0
+    },
+    {
+        "id": "0d5d14111c",
+        "title_fa": "بازی نامتقارن و دگرگونی بنیادین استراتژی در خاورمیانه",
+        "title_en": "The Victory of Asymmetry in the Iran War",
+        "summary": [
+            "خاورمیانه پس از حمله به عراق شاهد عمیق‌ترین تغییرات راهبردی است",
+            "رفتار حکومت در تنش‌ها نشان از تداوم بحران و جنگ فرسایشی دارد",
+            "دولت ترامپ اهداف سخت‌گیرانه‌ای را برای مهار ج.ا در منطقه دنبال می‌کند"
+        ],
+        "impact": "تغییرات استراتژیک منطقه را به سوی تنش‌های پایدار هدایت می‌کند",
+        "tag": "ژئوپلیتیک",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/the-victory-of-asymmetry-in-the-iran-war",
+        "clean_url": "https://www.cfr.org/articles/the-victory-of-asymmetry-in-the-iran-war",
+        "image": "http://www.bing.com/th?id=ONUT.1BimAC4u76fQ9OyJVGp_eA&pid=News",
+        "timestamp": 1792130160.0
     },
     {
         "id": "8ca1daa1e5",
@@ -5440,42 +5477,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-today-trump-statement-on-strait-of-hormuz-crisis-gulf-security-latest-news-as-usiran-tensions-liveblog-156328192",
         "image": "https://images.timesnownews.com/thumb/msid-156328192,thumbsize-957947,width-1280,height-720,resizemode-75/156328192.jpg",
         "timestamp": 1791911760.0
-    },
-    {
-        "id": "a4ba97e3c3",
-        "title_fa": "جهش صادرات نفت خلیج فارس همزمان با ناامنی در هرمز",
-        "title_en": "Two more ships hit in Hormuz as US, Iran trade claims of control",
-        "summary": [
-            "آمارها نشان می‌دهد صادرات نفت کشورهای حوزه خلیج فارس در ماه اکتبر به بیش از ۱۷ میلیون بشکه در روز رسیده که جهش قابل توجهی نسبت به ماه قبل دارد.",
-            "همزمان با افزایش حملات به کشتی‌های تجاری در تنگه هرمز، صادرات نفت ج. ا. ا تحت تاثیر تحریم‌های ایالات متحده همچنان روی عدد صفر باقی مانده است."
-        ],
-        "impact": "بازار نفت منطقه با وجود ریسک بالای امنیتی و حملات به کشتی‌ها، روند صعودی خود را حفظ کرده است.",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "iranintl",
-        "url": "https://www.iranintl.com/en/liveblog/202610105959",
-        "clean_url": "https://www.iranintl.com/en/liveblog/202610105959",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/37d128d2feb39102502e44814ba6ade071530fb4-1280x853.jpg?rect=0,93,1280,669&w=1200&h=627&q=66&fit=max&auto=format",
-        "timestamp": 1791910800.0
-    },
-    {
-        "id": "442697937f",
-        "title_fa": "جهش صادرات نفت خاورمیانه علیرغم ناآرامی‌ها و تداوم تحریم‌ها",
-        "title_en": "Middle East crude exports rebound amid Iran war",
-        "summary": [
-            "آمارهای شرکت ردیابی نفتکش‌ها نشان می‌دهد صادرات نفت خاورمیانه در اکتبر به ۱۷.۲ میلیون بشکه در روز رسیده است.",
-            "با وجود تنش‌های شدید در خلیج فارس و تنگه هرمز، این رقم رشد چشمگیری نسبت به ماه قبل ثبت کرده است.",
-            "فروش نفت جـ.ـمـ.ـهـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلـ.ـاـ.ـمـ.ـی تحت فشار تحریم‌های آمریکا همچنان صفر باقی مانده است."
-        ],
-        "impact": "شکست نسبی اختلالات منطقه‌ای در زنجیره تامین انرژی و ادامه صفر ماندن سهم نفت ایران.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610134746",
-        "clean_url": "https://www.iranintl.com/en/202610134746",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791910320.0
     }
 ]
