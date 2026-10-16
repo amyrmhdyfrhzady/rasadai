@@ -570,6 +570,24 @@
         "timestamp": 1792110484.0
     },
     {
+        "id": "da7f14c2d1",
+        "title_fa": "هشدار پزشکیان درباره تبعات زیست‌محیطی جنگ و آتش‌سوزی در دریای عمان",
+        "title_en": "Iran war live: Pezeshkian warns of future environmental damage of conflict",
+        "summary": [
+            "مسعود پزشکیان از جامعه جهانی خواست به خطرات زیست‌محیطی درگیری‌های نظامی توجه جدی‌تری داشته باشد.",
+            "نیروی دریایی از آتش‌سوزی یک نفتکش در دریای عمان خبر داد."
+        ],
+        "impact": "تشدید نگرانی‌ها از آسیب‌های جبران‌ناپذیر جنگ به اکوسیستم منطقه و امنیت کشتیرانی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad198635e2f9-1792120931_21710f-1792121082.jpg?resize=1200%2C630&quality=80",
+        "timestamp": 1792108920.0
+    },
+    {
         "id": "792e447278",
         "title_fa": "چرخش دیپلماتیک ترامپ؛ کاهش تحریم نفت روسیه برای کنترل بازار",
         "title_en": "Conflit Ukraine / Russie : la stratégie de Donald Trump",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202610136407",
         "image": "http://www.bing.com/th?id=ONUT.GtgScfyRFWMf3nnT2mq9RQ&pid=News",
         "timestamp": 1791887760.0
-    },
-    {
-        "id": "3889ef7385",
-        "title_fa": "آماده‌سازی ج.ه.ا.م.ی برای جنگی گسترده‌تر و خطرناک‌تر",
-        "title_en": "Iran's next war could be wider, more dangerous as Tehran fortifies defenses",
-        "summary": [
-            "تهران با استحکامات جدید دفاعی خود را برای یک درگیری بزرگتر آماده می‌کند.",
-            "گزارش‌ها نشان می‌دهد محاسبات نظامی در منطقه وارد فاز پرخطرتری شده است."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی تمام‌عیار در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xNjZsVUhCLW1fd2xlRXdGSXpfU3hXdFJqeEg5Tkg5b2lrLVZaeHRKN2ZSeDVyVHlfY0ZLM2NEQWVOeG9fNGZxWHhweTJvcVR5QXVfT2VHUko0WFhoNDhGaHdjUkk5Qi1FM1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xNjZsVUhCLW1fd2xlRXdGSXpfU3hXdFJqeEg5Tkg5b2lrLVZaeHRKN2ZSeDVyVHlfY0ZLM2NEQWVOeG9fNGZxWHhweTJvcVR5QXVfT2VHUko0WFhoNDhGaHdjUkk5Qi1FM1E",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791887516.0
     }
 ]
