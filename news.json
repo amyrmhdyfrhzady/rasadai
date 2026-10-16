@@ -364,6 +364,24 @@
         "timestamp": 1792062540.0
     },
     {
+        "id": "ee5df0a473",
+        "title_fa": "رد پای تـهـران در تقویت تسلیحاتی انـصـارالـلـه یـمـن",
+        "title_en": "How Iran helped Houthis build weapons capability and challenge Saudi Arabia's defences",
+        "summary": [
+            "حمایت‌های مالی و آموزشی تـهـران، گروه یمنی را در ساخت تسلیحات پیشرفته به مرحله خودکفایی رسانده است.",
+            "حملات پهپادی به تاسیسات آرامکو و فرودگاه ریاض، امنیت سرمایه‌گذاری در عربستان را به چالش کشیده است."
+        ],
+        "impact": "آسیب‌پذیری زیرساخت‌های انرژی عربستان و افزایش ناامنی برای سرمایه‌گذاران خارجی.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Hindu BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/how-iran-helped-houthis-build-weapons-capability-and-challenge-saudi-arabias-defences/article71589719.ece",
+        "clean_url": "https://www.thehindubusinessline.com/news/world/how-iran-helped-houthis-build-weapons-capability-and-challenge-saudi-arabias-defences/article71589719.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/es748j/article71589728.ece/alternates/LANDSCAPE_1200/2026-10-12T060003Z_1289944774_RC2LVNAK99X8_RTRMADP_3_ASIA-CRUDE-REFINING.JPG",
+        "timestamp": 1792060740.0
+    },
+    {
         "id": "6c96a3f634",
         "title_fa": "ادعای جنجالی ترامپ درباره پایان زودهنگام جنگ با ایـران",
         "title_en": "Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---the-anti-trump-media-and-economic-pessimism/article_7c4d6c1b-8861-44ce-9ece-33321523aaa3.html",
         "image": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/b/ab/babf1996-3921-11ed-9a87-dbb3771b4700/632a20d2695aa.image.jpg",
         "timestamp": 1791853200.0
-    },
-    {
-        "id": "562177135a",
-        "title_fa": "توافق سوختی ترامپ و روسیه؛ تغییر موازنه در خاورمیانه",
-        "title_en": "From the Iranian front to Russian energy",
-        "summary": [
-            "توافق ترامپ با روسیه بر سر گازوئیل، نشان‌دهنده اولویت‌بندی جدید واشنگتن برای مهار بحران‌های انرژی است.",
-            "این چرخش استراتژیک می‌تواند دسترسی ج.ا.ا به بازارهای سیاه انرژی را محدودتر و فشار بر درآمدهای نفتی را تشدید کند."
-        ],
-        "impact": "تغییر در زنجیره تأمین انرژی، قدرت چانه‌زنی ج.ا.ا را در بازارهای جهانی کاهش می‌دهد.",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Ahram Online",
-        "url": "https://english.ahram.org.eg/NewsContent/50/1203/578887/AlAhram-Weekly/World/From-the-Iranian-front-to-Russian-energy.aspx",
-        "clean_url": "https://english.ahram.org.eg/NewsContent/50/1203/578887/AlAhram-Weekly/World/From-the-Iranian-front-to-Russian-energy.aspx",
-        "image": "https://english.ahram.org.eg/Media/News/2026/10/13/41_2026-639275160243594742-359.jpg",
-        "timestamp": 1791849660.0
     }
 ]
