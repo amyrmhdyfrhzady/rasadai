@@ -240,6 +240,24 @@
         "timestamp": 1792125977.0
     },
     {
+        "id": "fa1f642b4f",
+        "title_fa": "مسدودسازی کانال‌های مالی مذهبی ج.ا توسط آمریکا",
+        "title_en": "Iran's FM says Tehran is concerned about US presence but trusts Armenia",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا به نهادهای مالی هشدار داد مراقب سوءاستفاده حکومتی از شبکه‌های خیریه مذهبی و وجوه شرعی باشند.",
+            "اسکات بسنت تاکید کرد دولت ترامپ اجازه نمی‌دهد حکومت از نهادهای مذهبی برای تامین مالی تروریسم و پر کردن جیب وابستگانش استفاده کند."
+        ],
+        "impact": "بسته‌شدن راه‌های سنتی و غیررسمی انتقال پول برای نهادهای حکومتی وابسته به بیت رهبری",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610163541",
+        "clean_url": "https://www.iranintl.com/en/202610163541",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792125720.0
+    },
+    {
         "id": "bb3ad0ccea",
         "title_fa": "هشدار مالی سخت آمریکا به شبکه های مذهبی وابسته",
         "title_en": "Iran speaker says government overstepped on anti-terror finance rules",
@@ -5463,24 +5481,5 @@
         "clean_url": "https://www.iranintl.com/en/202610137886",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791884340.0
-    },
-    {
-        "id": "05c1fb1be2",
-        "title_fa": "عقب‌نشینی تلویزیون حکومت از نام خزر به کاسپین",
-        "title_en": "State TV calls Iran’s northern sea by its English name, citing Israeli agenda",
-        "summary": [
-            "رسانه ملی جمهوری اسلامی در اقدامی عجیب نام دریای شمال را از خزر به کاسپین تغییر داد.",
-            "این تصمیم پس از انتشار ادعاهایی مبنی بر ارتباط نام قبلی با منافع اسرائیل در قفقاز اتخاذ شد.",
-            "تغییر نام دریاها در رسانه حکومتی نشان‌دهنده سردرگمی دستگاه پروپاگاندا در روایت‌های تاریخی است."
-        ],
-        "impact": "آغاز جنگ واژگانی جدید در رسانه‌های حکومتی ایران پیرامون هویت جغرافیایی.",
-        "tag": "رسانه",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610136764",
-        "clean_url": "https://www.iranintl.com/en/202610136764",
-        "image": "http://www.bing.com/th?id=ONUT.cvsfcWKA6G54owaTpAC76Q&pid=News",
-        "timestamp": 1791883200.0
     }
 ]
