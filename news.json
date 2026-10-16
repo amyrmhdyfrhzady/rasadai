@@ -128,6 +128,25 @@
         "timestamp": 1792119258.0
     },
     {
+        "id": "8fa8003f2c",
+        "title_fa": "فشار تورم و سایه جنگ بر زندگی مردم ایران",
+        "title_en": "Inside Iran, Economic Misery and Fears of Another US War",
+        "summary": [
+            "مردم در داخل کشور زیر بار گرانی فلج‌کننده و بحران شدید معیشتی دست و پا می‌زنند.",
+            "سایه سنگین درگیری‌های نظامی با آمریکا و اسرائیل، ترس از آینده را میان شهروندان دوچندان کرده است.",
+            "تداوم فشار اقتصادی و ناامیدی عمومی، شکاف میان جامعه و حاکمیت را عمیق‌تر کرده است."
+        ],
+        "impact": "فروپاشی قدرت خرید مردم و تشدید نارضایتی‌های عمومی در سایه تهدیدهای نظامی.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-economic-crisis-us-war-ordinary-life-12574822",
+        "clean_url": "https://www.newsweek.com/iran-economic-crisis-us-war-ordinary-life-12574822",
+        "image": "http://www.bing.com/th?id=ONUT.JF8GUndkAlZT4kNUe_f1XA&pid=News",
+        "timestamp": 1792116000.0
+    },
+    {
         "id": "080f24a39b",
         "title_fa": "ترامپ گزینه حمله اتمی به ایران را رد کرد",
         "title_en": "Trump rules out use of nuclear weapons against Iran",
@@ -5464,23 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGE4QkV2VXFQWUxEZVFmT3lzZUI5X1hoSjluLXZacm1kUzRselprZC1WS1RJbHRzSy11eHNFNXZqc3RkdDNDYUVLSGp1NThPQmw5M0xmSnZLdEVwcS04UmFzbEg0RTN2OENyX3ZydU81Rm5Da01NUWhqVkp3LUpmSkZWSkcwSFl1SkE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791871658.0
-    },
-    {
-        "id": "d1575f8dd6",
-        "title_fa": "اتهام‌زنی لندن به س-پ-ا-ه؛ تهران مدعی عملیات فریب شد",
-        "title_en": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
-        "summary": [
-            "بریتانیا س-پ-ا-ه را عامل توطئه علیه یک پایگاه هوایی در خاک خود معرفی کرد.",
-            "تهران با رد این اتهامات، آن را سناریوی «عملیات فریب» برای افزایش فشارها می‌داند."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک و احتمال تحریم‌های جدید علیه نهادهای نظامی ج-ا-ا.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident/ar-AA2e8JIg",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident/ar-AA2e8JIg",
-        "image": "http://www.bing.com/th?id=ONUT.loPc-xglQBtuGNkMnjLMCw&pid=News",
-        "timestamp": 1791871436.0
     }
 ]
