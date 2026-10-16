@@ -55,6 +55,24 @@
         "timestamp": 1792160160.0
     },
     {
+        "id": "fa35219c69",
+        "title_fa": "مسکو: برگزاری انتخابات در اوکراین وظیفه قانونی است",
+        "title_en": "Russian MFA comments on Zelensky as 'incredible disgrace,' Kiev's hunt for journalists",
+        "summary": [
+            "مسکو برگزاری انتخابات را یک تکلیف قانونی برای اوکراین می‌داند نه فشار کرملین",
+            "دستگاه دیپلماسی روسیه خواستار محکومیت بین‌المللی اقدامات کی‌یف علیه خبرنگاران شد"
+        ],
+        "impact": "تشدید جنگ روانی و دیپلماتیک مسکو علیه ساختار سیاسی کی‌یف",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2203103",
+        "clean_url": "https://tass.com/politics/2203103",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261016/1490069.jpg",
+        "timestamp": 1792158480.0
+    },
+    {
         "id": "519ac45a26",
         "title_fa": "فروپاشی کارایی بازار جهانی نفت در سایه جنگ‌های سیاسی و اقتصادی",
         "title_en": "Global crude oil market is not efficient anymore — Russian presidential advisor",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.iranintl.com/en/202610134746",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1791910320.0
-    },
-    {
-        "id": "ea5d87567d",
-        "title_fa": "تصمیم قریب‌الوقوع ترامپ درباره ایران و فشار حداکثری جدید",
-        "title_en": "Trump says Iran decision coming, suggests Tehran behind Houthi attacks",
-        "summary": [
-            "دونالد ترامپ با اشاره به وضعیت فاجعه‌بار اقتصادی، تورم سی درصدی و ناتوانی مالی ج-م-ه-و-ر-ی ا-س-لا-م-ی در پرداخت حقوق نیروها، از تصمیم‌گیری زودهنگام واشنگتن خبر داد.",
-            "هم‌زمان با حملات تشدیدشده حوثی‌های یمن به کشتیرانی تجاری در تنگه هرمز و عربستان، ترامپ تهران را عامل اصلی این تنش‌ها دانست."
-        ],
-        "impact": "بازارهای مالی ایران با شنیدن خبر تصمیمات سخت‌گیرانه واشنگتن دچار التهاب شدید خواهند شد.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610137695",
-        "clean_url": "https://www.iranintl.com/en/202610137695",
-        "image": "http://www.bing.com/th?id=ONUT.R6jzMs8me_TTck7Fva86sQ&pid=News",
-        "timestamp": 1791909300.0
     }
 ]
