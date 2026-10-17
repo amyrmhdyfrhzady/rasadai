@@ -54,6 +54,25 @@
         "timestamp": 1792252800.0
     },
     {
+        "id": "9d462674de",
+        "title_fa": "لغو مجوز بانک ایرانی در لبنان زیر فشار آمریکا",
+        "title_en": "Lebanon revokes Iranian bank’s license amid US pressure over Hezbollah financing",
+        "summary": [
+            "دولت لبنان مجوز فعالیت بانک وابسته به جمهوری اسلامی را به دلیل تامین مالی نـ.ـظـ.ـامـ.ـی هـ.ـز.بـ.ـ‌الـ.ـلـ.ـه باطل کرد.",
+            "این اقدام تحت فشار مستقیم ایالات متحده برای قطع شریان‌های مالی گروه‌های نـ.ـیـ.ـابـ.ـی صورت گرفته است.",
+            "حلقه محاصره مالی بر سرکردگان نـ.ـیـ.ـابـ.ـیـ.ـان منطقه روزبه‌روز تنگ‌تر می‌شود."
+        ],
+        "impact": "قطع یکی از مسیرهای اصلی تزریق پول به بدنه نـ.ـیـ.ـابـ.ـیـ.ـان در لبنان و ضربه سنگین مالی به شبکه منطقه‌ای.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Long War Journal",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLTV2UTh1SXBqOTdQY2MwSkpqLWljaGJTcnQ1T3N4aE1Dd1pTTE1yRllVNGtYR1Z1cS16czFLU1o1TzZDaURudEhTZjBXTjJVRnJyYldFN2ppdkY2UVVsVzJEVF9RRG0yX25LQU1FMTZjUWdmYUFfSW94ZURzbDRFNlZQOFp5RmduTFpXYlcwS2YzOVJPM2ZnQWZtNnZrTzhqdVhtWi0xZmtqVkhNcy1HZlZtVHhJQnVYR0FHdU9maTNLcnZjOWFLNXdYNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLTV2UTh1SXBqOTdQY2MwSkpqLWljaGJTcnQ1T3N4aE1Dd1pTTE1yRllVNGtYR1Z1cS16czFLU1o1TzZDaURudEhTZjBXTjJVRnJyYldFN2ppdkY2UVVsVzJEVF9RRG0yX25LQU1FMTZjUWdmYUFfSW94ZURzbDRFNlZQOFp5RmduTFpXYlcwS2YzOVJPM2ZnQWZtNnZrTzhqdVhtWi0xZmtqVkhNcy1HZlZtVHhJQnVYR0FHdU9maTNLcnZjOWFLNXdYNA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792252116.0
+    },
+    {
         "id": "5814733d93",
         "title_fa": "تحریم‌های اقتصادی؛ سلاح خاموش کشتار غیرنظامیان",
         "title_en": "Sanctions, the silent mass killer",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202610142868",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791969600.0
-    },
-    {
-        "id": "632ab1b973",
-        "title_fa": "حملات موشکی و پهپادی حوثی‌ها به تأسیسات نفتی و فرودگاه‌های سعودی",
-        "title_en": "Houthis say they'll keep targeting airports and oil facilities in Saudi Arabia",
-        "summary": [
-            "شبه‌نظامیان حوثی یمن مدعی هدف قرار دادن پالایشگاه آرامکو در ریاض، تأسیسات ظهران و فرودگاه ملک خالد شدند و از تداوم حملات خبر دادند.",
-            "تمرکز بر زیرساخت‌های غیرنظامی و شریان‌های نفتی سعودی، سیگنال روشن تهران برای معامله امنیتی زیر سایه تهدید بازار انرژی است."
-        ],
-        "impact": "افزایش ریسک در ترانزیت نفت منطقه و احتمال آغاز موج جدیدی از پاسخ‌های هوایی ائتلاف.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.65,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/houthis-say-theyll-keep-targeting-airports-and-oil-facilities-in-saudi-arabia/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/houthis-say-theyll-keep-targeting-airports-and-oil-facilities-in-saudi-arabia",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791969480.0
     }
 ]
