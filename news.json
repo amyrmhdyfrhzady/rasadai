@@ -1,5 +1,23 @@
 [
     {
+        "id": "764394972c",
+        "title_fa": "مخالفت مسکو با خلع سلاح اتمی شتاب‌زده",
+        "title_en": "Russia views idea of shortcut to 'nuclear zero' as counterproductive — diplomat Postnikov",
+        "summary": [
+            "مسکو طرح‌های مربوط به رسیدن سریع به صفر اتمی را غیرسازنده و خطرناک خواند.",
+            "دیپلمات ارشد روس تاکید کرد که هرگونه خلع سلاح باید گام‌به‌گام و با حفظ امنیت استراتژیک باشد."
+        ],
+        "impact": "این موضع‌گیری نشان می‌دهد مسکو در برابر فشارهای بین‌المللی برای کاهش تسلیحات اتمی کوتاه نمی‌آید.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2203555",
+        "clean_url": "https://tass.com/politics/2203555",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792252800.0
+    },
+    {
         "id": "5814733d93",
         "title_fa": "تحریم‌های اقتصادی؛ سلاح خاموش کشتار غیرنظامیان",
         "title_en": "Sanctions, the silent mass killer",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
         "image": "https://i.guim.co.uk/img/media/7ad856d7fa22f720078aa612080d22939cc2359b/609_0_4413_3531/master/4413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f73955ad4b830c14f949d48865d2380",
         "timestamp": 1791968940.0
-    },
-    {
-        "id": "04e94347da",
-        "title_fa": "پایان ماموریت نیروهای حافظ صلح سازمان ملل در لبنان",
-        "title_en": "Head of UN peacekeeping efforts in Lebanon as UNIFIL mandate winds down, will visit forces in Syria, Israel",
-        "summary": [
-            "مقام ارشد سازمان ملل برای بررسی وضعیت نیروهای حافظ صلح راهی بیروت و اراضی اشغالی شد.",
-            "مهلت ماموریت نیروهای نظارت بر مرزهای جنوبی لبنان در تاریخ ۳۱ دسامبر به پایان می‌رسد."
-        ],
-        "impact": "تغییر موازنه‌های امنیتی در مرزهای شمالی اسرائیل با پایان ماموریت سازمان ملل",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/head-of-un-peacekeeping-efforts-in-lebanon-as-unifil-mandate-winds-down-will-visit-forces-in-syria-israel/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/head-of-un-peacekeeping-efforts-in-lebanon-as-unifil-mandate-winds-down-will-visit-forces-in-syria-israel",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261013__D36K4CQ__v1__HighRes__LebanonIsraelUsIranWarUnifil.jpg",
-        "timestamp": 1791968820.0
     }
 ]
