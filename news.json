@@ -1,5 +1,23 @@
 [
     {
+        "id": "a6876dfddd",
+        "title_fa": "فلج دیپلماتیک تهران میان توافق و تشدید تنش",
+        "title_en": "Tehran’s diplomatic paralysis leaves Iran caught between deal and escalation",
+        "summary": [
+            "دستگاه دیپلماسی جمهوری اسلامی در بن‌بست کامل گرفتار شده و راهی جز انتخاب میان تسلیم یا درگیری ندارد.",
+            "فشار حداکثری و تحریم‌های خردکننده، حاکمیت را در بدترین نقطه محاسباتی تاریخ خود قرار داده است."
+        ],
+        "impact": "بلاتکلیفی دیپلماتیک سقوط بیشتر اقتصاد و ارزش پول ملی را سرعت می‌بخشد.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYXlYZ2dMd05YUERabER3WHNJNTZ4ejlfaDZmUjNEazI0TWlEb2pMcWZPWEtxT0ZIaVJXWXlkLU5EV2Nma1JRZjVhV2l1UWRvMEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYXlYZ2dMd05YUERabER3WHNJNTZ4ejlfaDZmUjNEazI0TWlEb2pMcWZPWEtxT0ZIaVJXWXlkLU5EV2Nma1JRZjVhV2l1UWRvMEE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792258716.0
+    },
+    {
         "id": "e9d9575391",
         "title_fa": "شرط جدید تـهـران برای آتش‌بس در منطقه",
         "title_en": "Ceasefire must cover all fronts to end regional war, says diplomat",
@@ -5473,24 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791969881.0
-    },
-    {
-        "id": "3995be60a3",
-        "title_fa": "تهدید آمریکا و تشدید ناامن‌سازی تنگه هرمز",
-        "title_en": "Gunmen attack police vehicle in southeastern Iran",
-        "summary": [
-            "حملات به شناورهای تجاری در آب‌های منطقه به بالاترین سطح خود از زمان شروع جنگ رسیده است.",
-            "فرماندهان نیروی دریایی سـپـاه از آمادگی برای غرق کردن ناوهای آمریکایی در تنگه هرمز خبر داده‌اند.",
-            "موج تحریم‌ها صادرات نفت ایـرآن را فلج کرده و بحران اقتصادی را عمیق‌تر ساخته است."
-        ],
-        "impact": "افزایش تنش‌های نظامی در خلیج فارس قیمت نفت را به بالای ۱۰۵ دلار رساند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610142868",
-        "clean_url": "https://www.iranintl.com/en/202610142868",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791969600.0
     }
 ]
