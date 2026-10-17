@@ -345,6 +345,24 @@
         "timestamp": 1792240869.0
     },
     {
+        "id": "79c77e6cd2",
+        "title_fa": "سفر لاوروف به بحرین و تهران در اوج تنش‌ها",
+        "title_en": "Top Russian diplomat arrives in Bahrain to participate in Russia-GCC strategic dialogue",
+        "summary": [
+            "سرگئی لاوروف برای شرکت در نشست راهبردی روسیه و شورای همکاری خلیج فارس وارد منامه شد.",
+            "وزیر خارجه روسیه پس از بحرین راهی تهران می‌شود تا با مقام‌های جـ.ـمـ.ـهـ.ـوری اسـ.ـلا‌می دیدار و گفتگو کند."
+        ],
+        "impact": "تلاش مسکو برای یارگیری سیاسی و تنظیم معادلات منطقه‌ای در سایه بحران‌های خاورمیانه.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2203593",
+        "clean_url": "https://tass.com/politics/2203593",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792239060.0
+    },
+    {
         "id": "2d1c694b51",
         "title_fa": "سرکوب و گروگان‌گیری پیکر جان‌باختگان اعتراضات",
         "title_en": "Iran, Pakistan suspend border crossings over ‘technical issues’",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.europesays.com/3309848",
         "image": "https://www.europesays.com/wp-content/uploads/2026/10/1791976061.png",
         "timestamp": 1791976020.0
-    },
-    {
-        "id": "f53fa39417",
-        "title_fa": "دیدار پوتین و شی جین‌پینگ در حاشیه اپک",
-        "title_en": "Putin-Xi meeting to be great chance for exchange of views — Chinese Foreign Minister",
-        "summary": [
-            "وزرای خارجه روسیه و چین روی اهمیت بالای دیدار پیش روی رهبران دو کشور تاکید کردند.",
-            "این سومین دیدار پوتین و شی در سال جاری میلادی خواهد بود که نشستی کلیدی برای هماهنگی‌های دو مسکو و پکن به شمار می‌رود."
-        ],
-        "impact": "تقویت ائتلاف استراتژیک مسکو و پکن در برابر فشارهای غرب",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2202167",
-        "clean_url": "https://tass.com/world/2202167",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1791974820.0
     }
 ]
