@@ -460,6 +460,25 @@
         "timestamp": 1792190209.0
     },
     {
+        "id": "7c4d491380",
+        "title_fa": "ضربه ۲۵ میلیارد دلاری به درآمدهای نفتی و بحران نقدینگی س‌پاه",
+        "title_en": "Iran running out of money? US blockade triggers USD 25 billion oil loss, USD 350 million crypto freeze as militias divert funds to IRGC",
+        "summary": [
+            "فرماندهی سنتکام از مسدود شدن ۳۵۰ میلیون دلار رمزارز و کسری ۲۵ میلیارد دلاری عواید نفتی خبر داد.",
+            "تنگنای ارزی به حدی رسیده که نیروهای نیابتی منطقه ناچار به بازگرداندن منابع مالی به س‌پاه شده‌اند.",
+            "فشارهای دریایی و رهگیری دارایی‌های دیجیتال، گلوگاه لجستیکی و مالی تهران را مستقیماً هدف گرفته است."
+        ],
+        "impact": "کاهش شدید نقدینگی در دسترس س‌پاه و ناتوانی در پشتیبانی مالی از شبکه نیروهای منطقه‌ای.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "News24",
+        "url": "https://news24online.com/world/iran-running-out-of-money-us-blockade-triggers-usd-25-billion-oil-loss-usd-350-million-crypto-freeze-as-militias-divert-funds-to-irgc/943873/",
+        "clean_url": "https://news24online.com/world/iran-running-out-of-money-us-blockade-triggers-usd-25-billion-oil-loss-usd-350-million-crypto-freeze-as-militias-divert-funds-to-irgc/943873",
+        "image": "https://news24online.com/wp-content/uploads/2026/10/iran-us-war.jpg",
+        "timestamp": 1792189200.0
+    },
+    {
         "id": "3e05234735",
         "title_fa": "معامله دیزلی ترامپ و دردسرهای جدید برای اوکراین",
         "title_en": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSnNodXFNU1ZrcVczbnNLM25DRkd1SDZiZ2E5Q3JMeHRSX3VQaEpOek5mS1ZiVW92ODV0UGpacEVWRzd5VnpYWXVjclVtYlR5TUx3b1VVWWlBa1hNTktRbmJTSWNkZE02OVpNbFJ1UndTVEg3bmZR",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791955800.0
-    },
-    {
-        "id": "7c4bee2a9e",
-        "title_fa": "دیدار پشت پرده وزیر پیشنهادی دفاع با فرمانده سپاه",
-        "title_en": "Iran defense minister nominee meets IRGC commander",
-        "summary": [
-            "وزیر پیشنهادی دفاع برای هماهنگی بیشتر راهی ستاد فرماندهی سپاه شد.",
-            "این دیدار نشان می‌دهد مهندسی کابینه کاملاً زیر ذره‌بین نهادهای نظامی انجام می‌شود."
-        ],
-        "impact": "تثبیت کنترل مستقیم ساختارهای نظامی بر بدنه دولت و وزارت دفاع.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TLU5hX1VIeU9UNjd4UXBzRGZ3emdLaWhrelRpdm4yS2pzSEFURGYwOTVsRWk3NjY2R29KRkNwNWhINEprU0lNc2h6dWNhVFdkVFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TLU5hX1VIeU9UNjd4UXBzRGZ3emdLaWhrelRpdm4yS2pzSEFURGYwOTVsRWk3NjY2R29KRkNwNWhINEprU0lNc2h6dWNhVFdkVFE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791955288.0
     }
 ]
