@@ -256,6 +256,25 @@
         "timestamp": 1792215650.0
     },
     {
+        "id": "7d094d1f68",
+        "title_fa": "فلج مالی سـپـاه؛ گدایی کمک از گروه‌های نیابتی",
+        "title_en": "Rs 2374137500000: Iran on verge of bankruptcy, IRGC forced to 'beg' for aid from proxies; CENTCOM chief's BIG claim",
+        "summary": [
+            "فرمانده سنتکام از ورشکستگی احتمالی تـهـران به دلیل تحریم‌های دریایی خبر داد.",
+            "سـپـاه پاسـداران که روزی حامی مالی گروه‌های نیابتی بود، اکنون برای تامین هزینه‌ها از آن‌ها کمک مالی گدایی می‌کند.",
+            "حقوق نیروهای نیابتی برای نجات مـقـر مـرکـزی در تهران ضبط و ارسال می‌شود."
+        ],
+        "impact": "فروپاشی مالی ماشین جنگی جمهوری اسلامی و قطع زنجیره تامین مالی گروه‌های نیابتی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "News24",
+        "url": "https://news24online.com/world/iran-us-war-news-rs-2374137500000-iran-on-verge-of-bankruptcy-irgc-forced-to-beg-for-aid-from-proxies-centcom-chiefs-big-claim/944054/",
+        "clean_url": "https://news24online.com/world/iran-us-war-news-rs-2374137500000-iran-on-verge-of-bankruptcy-irgc-forced-to-beg-for-aid-from-proxies-centcom-chiefs-big-claim/944054",
+        "image": "https://news24online.com/wp-content/uploads/2026/10/IRAN.jpg-12.jpeg",
+        "timestamp": 1792214100.0
+    },
+    {
         "id": "2909cffb5c",
         "title_fa": "ادعای مسعود پزشکیان درباره عدم دستیابی به بمب اتم",
         "title_en": "Pezeshkian slams propaganda, says Iran not after nukes",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13STN1LUJVUzBoUUh1R1ZlTHIwTW1rQ1pya2F2M2Zmd1pHYW81RF81UTY0QUZJSDRBOWJIbm9HcFJZbndST3VWc1Y5b3pUdGxON1l6amg0ZFNEaXB0OWcwNkdrMkVOajA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791962880.0
-    },
-    {
-        "id": "62fe2e852f",
-        "title_fa": "فروریختن بخشی از یک ساختمان در تل‌آویو",
-        "title_en": "Building partially collapses on Tel Aviv's Nahalat Binyamin Street; no reports of injuries",
-        "summary": [
-            "بخشی از یک ساختمان در خیابان ناهلات بنیامین در تل‌آویو فرو ریخت.",
-            "تیم‌های اورژانس اعلام کردند تاکنون گزارشی درباره تلفات جانی دریافت نشده است."
-        ],
-        "impact": "حادثه شهری بدون تلفات انسانی در تل‌آویو.",
-        "tag": "حوادث",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/building-partially-collapses-on-tel-avivs-nahalat-binyamin-street-no-reports-of-injuries/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/building-partially-collapses-on-tel-avivs-nahalat-binyamin-street-no-reports-of-injuries",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/WhatsApp-Image-2026-10-14-at-09.48.58-e1791960905941.jpeg",
-        "timestamp": 1791960840.0
     }
 ]
