@@ -219,6 +219,24 @@
         "timestamp": 1792209679.0
     },
     {
+        "id": "fafeb0fa09",
+        "title_fa": "بحران خاموش آلودگی هوا در افق ایران پس از جنگ",
+        "title_en": "Iran’s air was already deadly. Is a postwar pollution crisis coming?",
+        "summary": [
+            "تمرکز رسانه‌ها و تحلیلگران کاملاً روی تهدیدات نظامی و درگیری‌ها رفته است.",
+            "ایران با یک بحران زیست‌محیطی و آلودگی شدید مرگبار در دوران پس از جنگ دست‌به‌گریبان خواهد شد."
+        ],
+        "impact": "فروپاشی زیرساخت‌های زیست‌محیطی در سایه تمرکز حکومت بر بحران‌های نظامی.",
+        "tag": "بحران",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-air-was-already-deadly-is-a-postwar-pollution-crisis-coming/ar-AA2eqOc7",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-air-was-already-deadly-is-a-postwar-pollution-crisis-coming/ar-AA2eqOc7",
+        "image": "http://www.bing.com/th?id=ONUT.6QgyIwSqihmdzPw_Idk_oQ&pid=News",
+        "timestamp": 1792209600.0
+    },
+    {
         "id": "491ce400fa",
         "title_fa": "نگرانی ارتش آمریکا از کاهش ذخایر موشک‌های رهگیر",
         "title_en": "As war with Iran stretches on, concerns rise over US interceptor stockpile",
@@ -5467,24 +5485,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions",
         "image": "http://www.bing.com/th?id=ONUT.Z_wlxtazfjzuleBQ4GW5Jg&pid=News",
         "timestamp": 1791958620.0
-    },
-    {
-        "id": "22beea4d1d",
-        "title_fa": "سایه جنگ تمام‌عیار؛ بن‌بست دیپلماتیک میان ج.ا و آمریکا",
-        "title_en": "Iran and US on brink of all-out war as Russia fails to break diplomatic deadlock",
-        "summary": [
-            "تلاش‌های میانجی‌گرانه قطر و پاکستان برای باز کردن گره کور مذاکرات تهران و واشنگتن بی‌نتیجه مانده است.",
-            "افزایش درگیری‌ها در تنگه هرمز و بالا رفتن سطح آماده‌باش نظامی ج.ا، زنگ خطر رویارویی نظامی را به صدا درآورده است.",
-            "اسرائیل در آستانه انتخابات پارلمانی خود، گزینه حمله به اهداف اتمی و نظامی را روی میز نگه داشته است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی در منطقه و شوک احتمالی به بازارهای مالی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-and-us-brink-war-russian-mediation-falters",
-        "clean_url": "https://www.newarab.com/news/iran-and-us-brink-war-russian-mediation-falters",
-        "image": "http://www.bing.com/th?id=ONUT.dvr2wws1vvTbjmjaenm5aw&pid=News",
-        "timestamp": 1791958380.0
     }
 ]
