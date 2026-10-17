@@ -56,6 +56,24 @@
         "timestamp": 1792242313.0
     },
     {
+        "id": "63a3a6f0ab",
+        "title_fa": "پوشش زنده رسانه‌های بین‌المللی از تحولات جنگ و درگیری‌ها با ایران",
+        "title_en": "Iran War: Latest News, Live Coverage and Video",
+        "summary": [
+            "شبکه ان‌بی‌سی نیوز بخش ویژه‌ای را برای پوشش لحظه‌به‌لحظه اخبار و ویدیوهای مربوط به جنگ با ایـران فعال کرده است.",
+            "تمرکز اصلی این پوشش خبری بر روی تحولات میدانی و ارزیابی احتمال درگیری‌های نظامی است."
+        ],
+        "impact": "افزایش تمرکز رسانه‌های جهانی بر سناریوی جنگ و تشدید تنش‌های نظامی.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792241761.0
+    },
+    {
         "id": "e70a1a8dc2",
         "title_fa": "پیت هگست: برای مهار گلوگاه تنگه هرمز زمان نیاز داریم",
         "title_en": "Hegseth says don't 'worry' about Strait of Hormuz, but US needs time to counter Iran's stranglehold - ABC News",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/head-of-un-peacekeeping-efforts-in-lebanon-as-unifil-mandate-winds-down-will-visit-forces-in-syria-israel",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261013__D36K4CQ__v1__HighRes__LebanonIsraelUsIranWarUnifil.jpg",
         "timestamp": 1791968820.0
-    },
-    {
-        "id": "e46c873ed1",
-        "title_fa": "شکست دولت ترامپ در دادگاه؛ بازگشت خبرنگاران به کاخ سفید",
-        "title_en": "CNN chief reacts to judge’s ruling on Trump press ban",
-        "summary": [
-            "قاضی فدرال حکم داد که دولت ترامپ باید دسترسی رسانه‌های منتقد از جمله CNN را به کاخ سفید حفظ کند.",
-            "این تصمیم در جریان رسیدگی به شکایت رسانه‌ها علیه ممنوعیت‌های مطبوعاتی دولت صادر شده است."
-        ],
-        "impact": "عقب‌نشینی حقوقی دولت در برابر فشار رسانه‌ای و شکست طرح محدودسازی پوشش خبری.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/10/14/politics/video/trump-media-ban-ruling-cnc",
-        "clean_url": "https://www.cnn.com/2026/10/14/politics/video/trump-media-ban-ruling-cnc",
-        "image": "http://www.bing.com/th?id=ONUT._qqOu9CwFK02Oq233KNNGQ&pid=News",
-        "timestamp": 1791968580.0
     }
 ]
