@@ -328,6 +328,24 @@
         "timestamp": 1792208049.0
     },
     {
+        "id": "6eebbed55c",
+        "title_fa": "دستپاچگی ج.ه و ادعای دروغین تلاش برای صلح",
+        "title_en": "Iran demands complete halt to war on all fronts for regional peace",
+        "summary": [
+            "معاون وزیر خارجه ج.ه در اظهاراتی فریبکارانه خواستار توقف جنگ در همه جبهه‌ها شده تا از نابودی نیروهای نیابتی خود جلوگیری کند.",
+            "تهران در حالی ادعای توافق با آمریکا را مطرح می‌کند که همزمان به آتش‌افروزی در منطقه ادامه می‌دهد."
+        ],
+        "impact": "تلاش مذابحانه برای خرید زمان و حفظ مهره‌های سوخته نیابتی در منطقه",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Asianet Newsable on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-demands-complete-halt-to-war-on-all-fronts-for-regional-peace/ar-AA2eqJ2t",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-demands-complete-halt-to-war-on-all-fronts-for-regional-peace/ar-AA2eqJ2t",
+        "image": "http://www.bing.com/th?id=ONUT.7ghTxEmQxboXzpAvpMkCOQ&pid=News",
+        "timestamp": 1792207835.0
+    },
+    {
         "id": "0bc68737b2",
         "title_fa": "رایزنی محتاطانه عراقچی با وزیر خارجه مصر در بغداد",
         "title_en": "Iran, Egypt foreign ministers meet on sidelines of OIC meeting in Baghdad",
@@ -5468,23 +5486,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/pope-leo-spent-peaceful-night-in-hospital-after-lung-cancer-surgery-vatican-says",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26285408259328.jpg",
         "timestamp": 1791960300.0
-    },
-    {
-        "id": "284d28e49c",
-        "title_fa": "واکنش مینسک به طرح نظامی جدید ناتو",
-        "title_en": "Belarusian foreign ministry condemns NATO's new 'Theory of Victory' plan",
-        "summary": [
-            "وزارت خارجه بلاروس طرح جدید ناتو موسوم به نظریه پیروزی را به شدت محکوم کرد.",
-            "مینسک هشدار داد که این طرح شامل حملات پیشگیرانه با پهپاد و ربات‌های زمینی به خاک بلاروس است."
-        ],
-        "impact": "افزایش تنش‌های نظامی در مرزهای شرقی اروپا و آماده‌باش نیروهای ائتلاف.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2202059",
-        "clean_url": "https://tass.com/world/2202059",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1791960240.0
     }
 ]
