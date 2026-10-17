@@ -1,5 +1,23 @@
 [
     {
+        "id": "54f20a7684",
+        "title_fa": "خطای امنیتی سایت العربیه",
+        "title_en": "Increase support for countries amid negative risks, war spillovers: IMF",
+        "summary": [
+            "سایت خبری العربیه درخواست تایید هویت و حل پازل امنیتی (کپچا) دارد.",
+            "محتوای خبری خاصی در این لینک برای تحلیل ژئوپلیتیک وجود ندارد."
+        ],
+        "impact": "عدم دسترسی به متن خبر به دلیل موانع فنی سایت منبع.",
+        "tag": "فنی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/business/economy/2026/10/17/increase-support-for-countries-amid-negative-risks-war-spillovers-imf",
+        "clean_url": "https://english.alarabiya.net/business/economy/2026/10/17/increase-support-for-countries-amid-negative-risks-war-spillovers-imf",
+        "image": "https://vid.alarabiya.net/images/2026/04/17/f640463f-8e56-497e-a9a8-ff4e4289c9c7/f640463f-8e56-497e-a9a8-ff4e4289c9c7_16x9_600x338.JPG",
+        "timestamp": 1792232640.0
+    },
+    {
         "id": "9c6e498b4a",
         "title_fa": "ضربه ۲۵ میلیارد دلاری سنتکام به صادرات نفت ج.ا",
         "title_en": "US blockade cost Iran $25 billion in oil revenue, CENTCOM chief says",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://www.huffpost.com/entry/maga-rep-andy-harris-crashes-out-excuse-high-gas-prices-you-are-rude_n_6acf52ede4b0e26c18d0d0b0",
         "image": "http://www.bing.com/th?id=ONUT.GbTYvhG-7q0Gl-JrPaNQYQ&pid=News",
         "timestamp": 1791959580.0
-    },
-    {
-        "id": "b59d972877",
-        "title_fa": "موشک جدید حوثی‌ها با قطعات چینی و تکنولوژی ا...ی",
-        "title_en": "Houthis developing new version of Iranian ballistic missile using Chinese parts",
-        "summary": [
-            "حوثی‌های یمن نسل تازه‌ای از موشک‌های بالستیک را با تکیه بر دانش م...سکو و قطعات وارداتی از چین توسعه می‌دهند.",
-            "این اقدام نشان می‌دهد زنجیره تامین تسلیحاتی نیابتی‌های منطقه همچنان از مبادی آسیایی تغذیه می‌شود."
-        ],
-        "impact": "افزایش برد و دقت حملات موشکی در دریای سرخ و تهدید جدی‌تر امنیت کشتیرانی بین‌المللی.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVllrZV9OVEtGcVo3NUE0R1ZBbWlSYmRodWlUZXZvWWdxZzEyY1NIdVhpSFoxLUl6TFJleXQ4eHdlb0M2QS1pTlBlbXlBOW1tRVZhUy00TXFKTllDcTRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVllrZV9OVEtGcVo3NUE0R1ZBbWlSYmRodWlUZXZvWWdxZzEyY1NIdVhpSFoxLUl6TFJleXQ4eHdlb0M2QS1pTlBlbXlBOW1tRVZhUy00TXFKTllDcTRR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1791959478.0
     }
 ]
