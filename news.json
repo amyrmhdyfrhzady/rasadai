@@ -18,6 +18,24 @@
         "timestamp": 1792226094.0
     },
     {
+        "id": "d2515560a9",
+        "title_fa": "حمله هوایی اسرائیل به مدرسه‌ای در شمال غزه",
+        "title_en": "Report: One Palestinian killed in strike near Gaza City school",
+        "summary": [
+            "جنگنده‌های ارتش اسرائیل مدرسه دارالارقم در محله التفاح غزه را هدف قرار دادند که طبق آمار اولیه دست‌کم یک کشته و ده‌ها زخمی داشته است.",
+            "فشار هوایی و عملیات نقطه‌ای ارتش اسرائیل علیه مقرهای ادعایی حماس در داخل شهر غزه همچنان متوقف نشده است."
+        ],
+        "impact": "تداوم حملات هوایی نشان می‌دهد تا رسیدن به توافق آتش‌بس، آتش جنگ در سراسر نوار غزه مهار نخواهد شد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/report-one-killed-dozens-injured-in-strike-on-gaza-city-school/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/report-one-killed-dozens-injured-in-strike-on-gaza-city-school",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792222920.0
+    },
+    {
         "id": "095661a8c0",
         "title_fa": "راز بقای حاکمیت تهران در بحبوحه تحریم و انزوای بین‌المللی",
         "title_en": "Sanctions, War, Isolation: Why Hasn’t Iran's Hard-Line Government Collapsed?",
@@ -5468,23 +5486,5 @@
         "clean_url": "https://www.lbc.co.uk/article/west-saudi-arabia-alliance-israel-houthis-opinion-5Hjdjrt_2",
         "image": "https://images.globalplayer.com/images/848506?crop=16_9&width=1200&signature=7-CxGkvQmFb3r4rmxFQd4JF7xQQ=",
         "timestamp": 1791957600.0
-    },
-    {
-        "id": "aa556231ef",
-        "title_fa": "هلاکت یکی از فرماندهان ارشد حماس در غزه",
-        "title_en": "Hamas commander who held hostages killed in Gaza City strike — IDF",
-        "summary": [
-            "ارتش اسرائیل از کشته شدن مومن احمد سلامه العی، از فرماندهان میدانی و دستیاران ارشد تیپ غزه خبر داد.",
-            "این فرمانده ارشد مستقیماً در نگهداری از گروگان‌ها نقش داشت."
-        ],
-        "impact": "تضعیف بیشتر ساختار فرماندهی میدانی حماس در نوار غزه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/hamas-commander-who-held-hostages-killed-in-gaza-city-strike-idf/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/hamas-commander-who-held-hostages-killed-in-gaza-city-strike-idf",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261010ARK11-640x400.jpg",
-        "timestamp": 1791956760.0
     }
 ]
