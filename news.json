@@ -1,5 +1,23 @@
 [
     {
+        "id": "989b40e9e0",
+        "title_fa": "بازخوانی شراکت مسکو و تهران در بازی قدرت منطقه",
+        "title_en": "Russia-Iran relationship demonstrates Kremlin's Middle East strategy",
+        "summary": [
+            "مسکو از کارت تهران برای پیشبرد منازعات خود با غرب در خاورمیانه استفاده می‌کند.",
+            "تعمیق این روابط نشان‌دهنده تلاش کرملین برای ایجاد ائتلاف‌های جایگزین در برابر تحریم‌هاست."
+        ],
+        "impact": "تقویت محور مسکو-تهران مانع اثربخشی فشارهای اقتصادی غرب خواهد شد.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdThqQWlqazVqWDZDaFJHdTRKYWpsX1dvR1BaeFdrbFo5S2pNbWlDektkWUZJUzNzTDZWcVdqcC1OdlhYeEZDVTlaMXZDd0JHbThqSFVUQVlnTFZpb2ZF?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdThqQWlqazVqWDZDaFJHdTRKYWpsX1dvR1BaeFdrbFo5S2pNbWlDektkWUZJUzNzTDZWcVdqcC1OdlhYeEZDVTlaMXZDd0JHbThqSFVUQVlnTFZpb2ZF",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792259672.0
+    },
+    {
         "id": "a6876dfddd",
         "title_fa": "فلج دیپلماتیک تهران میان توافق و تشدید تنش",
         "title_en": "Tehran’s diplomatic paralysis leaves Iran caught between deal and escalation",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ3pick5FZVhrc1dGYUptUjZWbl84MVJmREJSN3J4Wm9PVmVmR3JmZ2d3VFhwMVE5THlFd0poeTgzT3V3TkF3UlF4Q1N0Z1NNdno4Z19ZXzFtenBBSUJFX0JNRUF1RXdUd1NpMENpSXJ3QV82bDh4bmRtTE9KbDlndlgzVG5oMEJHaEFYVG4zVERQY01pR3U1LW1uc9IBoAFBVV95cUxNdjQ4WUJTYUkyNUZ6ZlNOcFRqMzVSbWpQSVpmOE1vVVczODVseER2Tmg1ejlfdlVuQmh2aDZBUDVHcF9QTnVfbzFjTU1VdlZSSkFhUXhZSVNoTUlDOEtkdXZka2swUkc1eGFLV2Nxd28weVFqZVFTTUR4WjdWNS1UdFlKWUtDeVZqVVVzbzFINlJ6ckw4MzltVEdNRTFxd0Jy",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791971261.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "اخبار حاشیه‌ای و ورزشی رسانه‌های غربی",
-        "title_en": "US latest news",
-        "summary": [
-            "این گزارش شامل اخبار مختلف ورزشی و حاشیه‌ای از رسانه‌های آمریکایی است.",
-            "هیچ‌گونه محتوای سیاسی، امنیتی یا مرتبط با مسائل کلان ژئوپلیتیک در این متن وجود ندارد."
-        ],
-        "impact": "این خبر هیچ‌گونه تأثیر اقتصادی یا سیاسی بر تحولات ندارد.",
-        "tag": "متفرقه",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1791970200.0
     }
 ]
