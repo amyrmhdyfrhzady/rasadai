@@ -237,6 +237,24 @@
         "timestamp": 1792209679.0
     },
     {
+        "id": "9be7001471",
+        "title_fa": "هزینه‌های گزاف سیاست ضدامپریالیسم برای کـشور",
+        "title_en": "What Has Anti-Imperialism Gotten Iran?",
+        "summary": [
+            "سیاست‌های تنش‌آفرین حاکمیت هیچ دستاوردی برای منافع ملی نداشته است.",
+            "سرمایه‌های مردم ایران صرف پروژه‌های نیابتی و هدررفت منطقه‌ای شده است."
+        ],
+        "impact": "تداوم این رویکرد به معنای انزوای بیشتر اقتصادی و نابودی زیرساخت‌هاست.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/international/2026/10/west-iran-economy-us/689039/",
+        "clean_url": "https://www.theatlantic.com/international/2026/10/west-iran-economy-us/689039",
+        "image": "http://www.bing.com/th?id=ONUT.6aXPIQPuhvrOrtzo-ac4aQ&pid=News",
+        "timestamp": 1792209600.0
+    },
+    {
         "id": "fafeb0fa09",
         "title_fa": "بحران خاموش آلودگی هوا در افق ایران پس از جنگ",
         "title_en": "Iran’s air was already deadly. Is a postwar pollution crisis coming?",
@@ -5467,23 +5485,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVllrZV9OVEtGcVo3NUE0R1ZBbWlSYmRodWlUZXZvWWdxZzEyY1NIdVhpSFoxLUl6TFJleXQ4eHdlb0M2QS1pTlBlbXlBOW1tRVZhUy00TXFKTllDcTRR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791959478.0
-    },
-    {
-        "id": "4a8143a56b",
-        "title_fa": "رایزنی تجاری اتحادیه اروپا و هند برای توسعه روابط اقتصادی",
-        "title_en": "European Union",
-        "summary": [
-            "هیئت تجاری اروپا به ریاست داگلاس الکساندر به هند سفر کرده است.",
-            "تمرکز اصلی این سفر بر بهره‌برداری از مزایای اقتصادی توافق‌های تجاری دوجانبه میان اروپا و هند است."
-        ],
-        "impact": "این توافق‌ها می‌تواند زنجیره‌های تامین جهانی را تغییر داده و نقش هند را در اقتصاد کلان تقویت کند.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/eu",
-        "clean_url": "https://www.theguardian.com/world/eu",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=world",
-        "timestamp": 1791959100.0
     }
 ]
