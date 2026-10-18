@@ -219,6 +219,24 @@
         "timestamp": 1792301427.0
     },
     {
+        "id": "5155b0e5a6",
+        "title_fa": "دیده‌بانی مداوم سقوط ریال در بازارهای جهانی",
+        "title_en": "US Dollar to Iranian Rial USD/IRR",
+        "summary": [
+            "ثبت نرخ روزانه دلار به ریال در پلتفرم‌های بین‌المللی ارزیابی دارایی‌های مالی ایران را وارد فاز حساسی کرده است.",
+            "فشار تورمی و نوسانات پی‌درپی ارزی، نگاه سرمایه‌گذاران و ناظران خارجی را به سمت افت ارزش ریال خیره نگه‌داشته است."
+        ],
+        "impact": "شکنندگی ارزش پول ملی زیر ذره‌بین موسسات مالی جهانی قرار گرفته و چشم‌انداز تورمی را تشدید می‌کند.",
+        "tag": "ارز",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "Economies.com",
+        "url": "https://www.economies.com/forex/usd-irr",
+        "clean_url": "https://www.economies.com/forex/usd-irr",
+        "image": "https://dixdeynibyck7.cloudfront.net/images/logos/EconomiesOG.png",
+        "timestamp": 1792301400.0
+    },
+    {
         "id": "34dc9ddfeb",
         "title_fa": "هزینه سنگین تنش با ایــران روی دوش خانوارهای آمریکایی",
         "title_en": "The Iran War Has Cost $2,000 Per Household — So Far",
@@ -5475,23 +5493,5 @@
         "clean_url": "https://english.alarabiya.net/News/middle-east/2026/10/15/hezbollah-says-explosivesladen-vehicle-seized-by-security-forces-belonged-to-group",
         "image": "https://vid.alarabiya.net/images/2026/02/25/d4a294eb-d3dc-4aca-94fb-8d89ee790446/d4a294eb-d3dc-4aca-94fb-8d89ee790446_16x9_600x338.jpg",
         "timestamp": 1792022700.0
-    },
-    {
-        "id": "6a772e7c6e",
-        "title_fa": "پکن چطور از جنگ خاورمیانه سود می‌برد؟",
-        "title_en": "How China Profits from the Iran War Without Joining It",
-        "summary": [
-            "چین با خرید نفت ارزان از جـ.ـمهوری اسـ.ـلامی، هزینه‌های انرژی خود را به شدت کاهش داده است.",
-            "پکن بدون ورود مستقیم به درگیری‌های نظامی، بیشترین بهره‌برداری اقتصادی را از این بحران می‌کند."
-        ],
-        "impact": "تداوم وابستگی نفتی تهران به پکن و دور زدن آسان تحریم‌ها.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Carolina Political Review",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYS1DZ3B3YUZSQTNObVdjdEsxWk1kd0pxdVBUSHljTDhKc1daS0ppcm9hLTBYX2d1TGpVdHJsb1N1OFpzWVlBZXl2bE03c3BqSVlPeUJkUFJjUTRsUHJXSlA3ZktNNmh0bUdPSTZaZVZPbHFwSEZQM1l6OGdHZ2gyaS1kRDFteDVjOV9MTHBxVVd4TkR5Vi1EU1p6endaMWlUc0RDcFlHNUdrSVlZVkFma3VsWGFfYTZJeUsweE0wUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYS1DZ3B3YUZSQTNObVdjdEsxWk1kd0pxdVBUSHljTDhKc1daS0ppcm9hLTBYX2d1TGpVdHJsb1N1OFpzWVlBZXl2bE03c3BqSVlPeUJkUFJjUTRsUHJXSlA3ZktNNmh0bUdPSTZaZVZPbHFwSEZQM1l6OGdHZ2gyaS1kRDFteDVjOV9MTHBxVVd4TkR5Vi1EU1p6endaMWlUc0RDcFlHNUdrSVlZVkFma3VsWGFfYTZJeUsweE0wUWc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792022628.0
     }
 ]
