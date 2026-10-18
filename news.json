@@ -91,6 +91,24 @@
         "timestamp": 1792356360.0
     },
     {
+        "id": "5b2d9a9676",
+        "title_fa": "واکنش آیزنکات به دخالت ترامپ در انتخابات اسرائیل",
+        "title_en": "Eisenkot: Israeli voters, not Trump, will choose next PM, I tried to stop endorsement",
+        "summary": [
+            "گادی آیزنکات تاکید کرد که سرنوشت نخست‌وزیری اسرائیل فقط توسط رای‌دهندگان این کشور تعیین می‌شود، نه دونالد ترامپ.",
+            "این چهره ارشد اپوزیسیون تلاش کرده بود مانع از حمایت علنی رئیس‌جمهور آمریکا از بنیامین نتانیاهو شود."
+        ],
+        "impact": "تلاش چهره‌های کلیدی مخالف نتانیاهو برای خنثی کردن حمایت‌های خارجی در آستانه کارزار انتخاباتی.",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-says-israeli-voters-not-trump-will-choose-next-pm-says-he-tried-to-stop-endorsement/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-says-israeli-voters-not-trump-will-choose-next-pm-says-he-tried-to-stop-endorsement",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261018AVS424-640x400.jpg",
+        "timestamp": 1792352820.0
+    },
+    {
         "id": "e67ee687f0",
         "title_fa": "تأثیر درگیری با ایران بر قیمت جهانی نفت تا سال ۲۰۲۶",
         "title_en": "Bessent says dropping oil prices before 2026 ends ‘will depend’ on Iran conflict",
@@ -5483,23 +5501,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR21yUEVURnBPLU5uOXN0MHFpSUMzYk5vSmZlMXFZa1FkRndrRklfOG5sZXdFR0lWeE5hUmk1Nlhtb2FDQVNRWmRsNFU4dV9CSU1zWTBCaHNjVmZNSXM1MlJsQUlpTGc5UDlQMmxhLUJMNENtcVJfeEFEbTZVUmJHcldBOA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792039356.0
-    },
-    {
-        "id": "2585ff9205",
-        "title_fa": "بن‌بست نظامی تهران و واشنگتن در آستانه انتخابات آمریکا",
-        "title_en": "US-Iran stalemate: What are Trump’s next military options?",
-        "summary": [
-            "ترامپ اعلام کرده پیش از انتخابات میان‌دوره‌ای نوامبر دست به اقدام نظامی نمی‌زند اما همزمان نیروهای آمریکایی در منطقه تقویت شده‌اند.",
-            "تنش‌ها در تنگه هرمز و حملات به کشتی‌ها به بالاترین حد رسیده و تهران از تاکتیک‌های جدیدی استفاده می‌کند."
-        ],
-        "impact": "افزایش ریسک امنیتی در آب‌های جنوبی و تداوم سایه جنگ روی بازارهای مالی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us-iran-stalemate-trump-next-114105656.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us-iran-stalemate-trump-next-114105656.html",
-        "image": "http://www.bing.com/th?id=ONUT.nvsQFreKiyC-J4Oj2EzY0A&pid=News",
-        "timestamp": 1792039260.0
     }
 ]
