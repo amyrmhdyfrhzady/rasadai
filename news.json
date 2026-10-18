@@ -499,6 +499,24 @@
         "timestamp": 1792310280.0
     },
     {
+        "id": "e899194693",
+        "title_fa": "ترامپ: مسئولیت شکست توافق با ج.ا با ونس است",
+        "title_en": "Trump on Vance’s Iran deal: ‘If it doesn’t work out, I’m blaming JD’",
+        "summary": [
+            "ترامپ با انداختن مسئولیت احتمالی شکست توافق با ج.ا بر گردن ونس، عملاً راه فرار سیاسی برای خود باز گذاشته است.",
+            "این اظهارنظر نشان می‌دهد ترامپ در رویکرد خود نسبت به تهران، به دنبال مهره‌چینی برای مقصر جلوه دادن اطرافیان در صورت ناکامی است."
+        ],
+        "impact": "افزایش بی‌اعتمادی در تیم سیاست خارجی ترامپ و سیگنال سردرگمی در استراتژی آینده نسبت به تهران.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-on-vance-s-iran-deal-if-it-doesn-t-work-out-i-m-blaming-jd/ar-AA2euds7",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-on-vance-s-iran-deal-if-it-doesn-t-work-out-i-m-blaming-jd/ar-AA2euds7",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792309794.0
+    },
+    {
         "id": "d8611a4ff1",
         "title_fa": "بن‌بست بی‌پایان؛ ریشه‌های ناکامی همیشگی مذاکرات واشینگتن و تهران",
         "title_en": "Why Iran-US negotiations keep failing",
@@ -5481,23 +5499,5 @@
         "clean_url": "https://www.chicagotribune.com/2026/10/15/pope-leo-future-lung-cancer",
         "image": "https://www.chicagotribune.com/wp-content/uploads/2026/10/Vatican_Pope_Surgery__8_87_91b7ab-1.jpg?w=8640&h=5760",
         "timestamp": 1792037700.0
-    },
-    {
-        "id": "29678e81fb",
-        "title_fa": "بررسی احتمال استفاده آمریکا از بمب سنگین‌شکن علیه تـأسیسات اتمی",
-        "title_en": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say",
-        "summary": [
-            "منابع خبری اعلام کردند دولت تـرمپ گزینه استفاده از سنگین‌ترین بمب غیرهسته‌ای خود را علیه تاسیسات اتمی جـمهوری اسـلامی روی میز دارد.",
-            "این اقدام نشان‌دهنده آمادگی واشنگتن برای عبور از خطوط قرمز و وارد کردن ضربه نظامی سنگین به زیرساخت‌های استراتژیک نظام است."
-        ],
-        "impact": "افزایش شدید ریسک درگیری نظامی و ایجاد شوک روانی در بازارهای مالی.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSktNLUM1VEdiandOcDJVNzE4b2NuajZkcXAtem40MlJ4TWc3VEptSjJqQ1g0QjF5VTVXemNQUDBSdy1wYWM4eG44b05FT3ZLVi1sTUhGM3U1MEk0X3JvTzBFUlVNczJZZlZfUlcxN1NwVnQzc0ZuTEVxSkhLOE5wenBMZ2xqZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSktNLUM1VEdiandOcDJVNzE4b2NuajZkcXAtem40MlJ4TWc3VEptSjJqQ1g0QjF5VTVXemNQUDBSdy1wYWM4eG44b05FT3ZLVi1sTUhGM3U1MEk0X3JvTzBFUlVNczJZZlZfUlcxN1NwVnQzc0ZuTEVxSkhLOE5wenBMZ2xqZw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792036904.0
     }
 ]
