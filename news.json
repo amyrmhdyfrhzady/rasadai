@@ -76,6 +76,25 @@
         "timestamp": 1792340940.0
     },
     {
+        "id": "a22bbaf535",
+        "title_fa": "اعتراضات سراسری بازنشستگان در شهرهای مختلف",
+        "title_en": "Retirees protest across Iran over economic hardship, repression",
+        "summary": [
+            "بازنشستگان تامین اجتماعی و صنعت فولاد در شهرهای مختلف از جمله تهران، رشت، کرمانشاه و اهواز دست به تجمع زدند.",
+            "معترضان با سر دادن شعارهایی علیه فساد حکومتی و گرانی، خواستار رسیدگی به مطالبات معیشتی خود شدند.",
+            "این تجمع‌ها نشان‌دهنده عمق بحران اقتصادی و نارضایتی عمومی از وضعیت معیشتی است."
+        ],
+        "impact": "افزایش فشارهای اجتماعی بر حاکمیت و گسترش شکاف بین مردم و دستگاه‌های دولتی.",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610181933",
+        "clean_url": "https://www.iranintl.com/en/202610181933",
+        "image": "http://www.bing.com/th?id=ONUT.RMEr_exW_TgsSMWbIDXayw&pid=News",
+        "timestamp": 1792330560.0
+    },
+    {
         "id": "c8feceef3b",
         "title_fa": "شکاف در پایگاه رای ترامپ بر سر تصمیمات ضدایران",
         "title_en": "Trump’s Iran strikes split his own base — then the influencers fell back in line",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://www.reuters.com/investigations/irans-precision-strikes-picked-apart-gulf-infrastructure-blunting-us-war-plans-2026-10-15",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792033200.0
-    },
-    {
-        "id": "9849755c12",
-        "title_fa": "افشاگری عربستان از نقش تهران در حملات حوثی‌ها",
-        "title_en": "Saudi diplomat says Iran encourages Houthi escalation of attacks on the kingdom",
-        "summary": [
-            "یک مقام ارشد دیپلماتیک عربستان صراحتاً اعلام کرد که تهران محرک اصلی شدت گرفتن حملات شبه‌نظامیان حوثی به خاک این کشور است.",
-            "این موضع‌گیری نشان می‌دهد که ادعاهای صلح‌طلبانه جمهوری اسلامی در منطقه با اقدامات میدانی گروه‌های نیابتی‌اش تناقض آشکار دارد."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک و نظامی در مرزهای جنوبی عربستان و به بن‌بست خوردن روند کاهش تنش.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The Seattle Times",
-        "url": "https://www.seattletimes.com/business/saudi-diplomat-says-iran-encourages-houthi-escalation-of-attacks-on-the-kingdom/",
-        "clean_url": "https://www.seattletimes.com/business/saudi-diplomat-says-iran-encourages-houthi-escalation-of-attacks-on-the-kingdom",
-        "image": "http://www.bing.com/th?id=ONUT.42yBsz7ccGCtHW2alF_Gbg&pid=News",
-        "timestamp": 1792033080.0
     }
 ]
