@@ -1,5 +1,24 @@
 [
     {
+        "id": "d8611a4ff1",
+        "title_fa": "بن‌بست بی‌پایان؛ ریشه‌های ناکامی همیشگی مذاکرات واشینگتن و تهران",
+        "title_en": "Why Iran-US negotiations keep failing",
+        "summary": [
+            "دیوار بلند بی‌اعتمادی و دهه‌ها تنش مستمر، رسیدن به یک توافق جامع و پایدار را عملاً غیرممکن ساخته است.",
+            "واشینگتن خواستار توقف بازوهای منطقه‌ای و موشکی است؛ موضوعی که حاکمیت تهران آن را خط قرمز بقای ساختار خود تعریف کرده است.",
+            "مذاکرات مقطعی صرفاً در نقش خریدار زمان عمل می‌کنند و هیچ چشم‌اندازی برای تنش‌زدایی واقعی وجود ندارد."
+        ],
+        "impact": "تثبیت بلاتکلیفی اقتصادی و استمرار فشارهای ارزی در غیاب هرگونه راهکار دیپلماتیک واقعی.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/other/why-iran-us-negotiations-keep-failing/ar-AA2eti1M",
+        "clean_url": "https://www.msn.com/en-us/news/other/why-iran-us-negotiations-keep-failing/ar-AA2eti1M",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2esA3B.img?w=999&h=561&m=4&q=99",
+        "timestamp": 1792308779.0
+    },
+    {
         "id": "e81607ac3c",
         "title_fa": "هشدار صریح وزیر دفاع آمریکا به ج.ا درباره پیامدهای ویرانگر",
         "title_en": "US Defense Secretary Warns Iran of “Destruction”",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ta0FBWUpQWWdEM3k4aTBUOXpFc2Vxa0dHZ0pUeTVhM19NS2kzTllIaFdCcllmaU9qdEJnLXZLRnF1N0xVQ3hQQTVOLVhTeVp5SXUyTFd1YmowU0xQaEdPaVZvZTRHMC1B",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1791999662.0
-    },
-    {
-        "id": "a370de2021",
-        "title_fa": "فرار زلنسکی به لندن زیر فشار سخنان ترامپ",
-        "title_en": "Zelensky, hurt by Trump, left Kiev without power, rushed off to London — Russian envoy",
-        "summary": [
-            "دونالد ترامپ با تاکید بر ضرورت برگزاری انتخابات در اوکراین، زلنسکی را در تنگنای سیاسی شدیدی قرار داده است.",
-            "کی‌یف در خاموشی و بحران رها شده و زلنسکی برای گرفتن دستورکار جدید راهی لندن شده است."
-        ],
-        "impact": "افزایش شکاف میان واشنگتن و کی‌یف همزمان با تشدید بحران انرژی در اوکراین.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2202163",
-        "clean_url": "https://tass.com/politics/2202163",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1791998460.0
     }
 ]
