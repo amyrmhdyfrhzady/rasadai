@@ -256,6 +256,25 @@
         "timestamp": 1792296600.0
     },
     {
+        "id": "8cc557695f",
+        "title_fa": "مهرداد اخلاقی؛ معمار برنامه موشکی سـ‌پاه وزیر دفاع شد",
+        "title_en": "Architect of Guards' missiles becomes Iran's defense minister",
+        "summary": [
+            "مجلس در جلسه‌ای غیرحضوری مهرداد اخلاقی کتابچی از مدیران ارشد صنایع موشکی را جایگزین عزیز نصیرزاده کرد که در حملات مشترک آمریکا و اسرائیل کشته شده بود.",
+            "برخلاف دوره‌های قبل که وزرای دفاع سابقه فرماندهی نظامی کلاسیک داشتند، اخلاقی سال‌ها هدایت ساختارهای تولید تسلیحات و بخش‌های تحت تحریم موشکی را بر عهده داشته است.",
+            "انتصاب یک مدیر صنعتی در رأس وزارت دفاع، برنامه حکومت برای جبران فوری تلفات و بازسازی شبکه ضربه‌خورده ساخت موشک را آشکار می‌کند."
+        ],
+        "impact": "تغییر اولویت وزارت دفاع به تولید و بازسازی سریع زرادخانه موشکی پس از خسارات سنگین درگیری‌های اخیر.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610188034",
+        "clean_url": "https://www.iranintl.com/en/202610188034",
+        "image": "http://www.bing.com/th?id=ONUT.nuXUxMH0tmf7Byazd0a-QQ&pid=News",
+        "timestamp": 1792295700.0
+    },
+    {
         "id": "9406c95529",
         "title_fa": "انتصاب مهره موشکی در وزارت دفاع؛ پیام صریح تهران به غرب",
         "title_en": "Iran's parliament backs missile expert as defence minister",
@@ -5476,23 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE9jNWJTNmd0ZWRZclpWbzJiRng5ZkxjSjJhcnMzUjZ0b18zdXJMLVV3c2pRSVVPX3J3ZTdKbWMxem1ucFhJZVNFMldUUlU5QTdMeHQ1WDJvem9IU1dvbkRBUWRYU1QtNTFvcktxV1BpY3ZIa3F2Mzh5aXRObjJEdUprUFFrb3J5ZGVGMy1pd3ppRWZvazFkbDlnRXc5NC0wUXFaVVk5NEphY2VYd29oMXFENHZpUQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792016203.0
-    },
-    {
-        "id": "1f415cb5dc",
-        "title_fa": "آغاز رأی‌گیری زودهنگام و کمپین انتخاباتی مایک جانسون در کارولینای شمالی",
-        "title_en": "First day of early voting + House Speaker Mike Johnson in NC",
-        "summary": [
-            "رئیس مجلس نمایندگان آمریکا برای حمایت از نامزد حزب جمهوری‌خواه در رقابت‌های کنگره وارد کارولینای شمالی شد.",
-            "این سفر همزمان با شروع رأی‌گیری زودهنگام، نشان‌دهنده اهمیت حیاتی این ایالت در حفظ اکثریت جمهوری‌خواهان است."
-        ],
-        "impact": "تلاش حزب حاکم برای بسیج حداکثری رأی‌دهندگان در روزهای آغازین رأی‌گیری",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The News & Observer",
-        "url": "https://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/article317626274.html",
-        "clean_url": "https://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/article317626274.html",
-        "image": "http://www.bing.com/th?id=ONUT.k6X5o-yqksNAm3lPV0Dg7g&pid=News",
-        "timestamp": 1792015200.0
     }
 ]
