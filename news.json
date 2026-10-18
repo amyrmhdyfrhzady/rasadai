@@ -1,5 +1,23 @@
 [
     {
+        "id": "ef5a7eba8c",
+        "title_fa": "استفاده تاکتیکی تهران از پوشش دیپلماتیک برای کاهش فشارها",
+        "title_en": "Iran’s diplomatic cover",
+        "summary": [
+            "مانورهای دیپلماتیک تهران بیش از آنکه نشان‌دهنده تغییر رفتار واقعی باشد، ابزاری برای ایجاد چتر دفاعی و مهار فشارهای بین‌المللی است.",
+            "تمرکز بر ظاهر گفتگوها به حاکمیت فرصت می‌دهد تا برنامه‌های راهبردی و منطقه‌ای خود را در سایه خروج از مرکز توجه پیش ببرد."
+        ],
+        "impact": "تداوم بازی دیپلماتیک بدون ارائه امتیازهای ملموس، احتمال اجماع غربی برای تشدید فشارهای هدفمند را افزایش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "JNS.org",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZjR4UGg4M2xzT1NFdTVOYlFxWkNEZjVoc0N6R0dQQ3FicHVzY0s2MS1IM284a29DZFpZWEhfellYWFIzS240UE0tdmZFTmdoN2pJdzB3M2d2YUt3bEw0dUVVUTdyTm4ybHpJaExB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZjR4UGg4M2xzT1NFdTVOYlFxWkNEZjVoc0N6R0dQQ3FicHVzY0s2MS1IM284a29DZFpZWEhfellYWFIzS240UE0tdmZFTmdoN2pJdzB3M2d2YUt3bEw0dUVVUTdyTm4ybHpJaExB",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792317773.0
+    },
+    {
         "id": "f7e9cf0a5d",
         "title_fa": "توسعه هوش مصنوعی در ایران؛ گرفتار میان فیلترینگ و تحریم",
         "title_en": "Artificial Intelligence in Iran: Beyond Sanctions, Filters, and the Ruins of War",
@@ -5475,24 +5493,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT2tTOTExRGlESjR4M1A3d0lZdXIxRkU0cXMyQlpnZ3FWOHQ0dXZnSDNKZUJneU1pWGdQN2pQX3F6NUt6clI2WGRUVmZaZjJNTERaN0xEVEhHZWNsX1VRT1czbUpGMlBMRHVMNHJXOHZHZ0hocFItc0pXRWFwYU50S2tCdWQ1TktwX29uLXptUlM3Vm40cHMtZWpqSGVweGgtNUFLeTR0NmRPNzFIa3VraGs3VTFYRkVCNFhNNjBobFVDVldNVldOWEt2R2M2SXp5",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792013400.0
-    },
-    {
-        "id": "1139c04194",
-        "title_fa": "غرق شدن دو کشتی تجاری در تنگه هرمز",
-        "title_en": "Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms",
-        "summary": [
-            "دو فروند کشتی تجاری با پرچم سنگاپور و آنتیگوآ در ۲۴ ساعت گذشته در نزدیکی تنگه هرمز غرق شدند.",
-            "رسانه های حکومتی ادعا کردند کشتی اول به مین دریایی برخورد کرده اما کارشناسان احتمال حمله پهپادی را مطرح می کنند.",
-            "تنش ها در آبراه حیاتی تنگه هرمز با اقدامات جمهوری اسلامی به شدت بالا رفته و امنیت کشتیرانی را به خطر انداخته است."
-        ],
-        "impact": "افزایش فوری هزینه های بیمه دریایی و اختلال جدی در تردد نفتکش ها و کشتی های تجاری در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/10/15/middleeast/strait-of-hormuz-ships-sunk-iran-intl-hnk",
-        "clean_url": "https://www.cnn.com/2026/10/15/middleeast/strait-of-hormuz-ships-sunk-iran-intl-hnk",
-        "image": "http://www.bing.com/th?id=ONUT.FmJxz8w8xy6kUsY5ffaQ7w&pid=News",
-        "timestamp": 1792011960.0
     }
 ]
