@@ -275,6 +275,25 @@
         "timestamp": 1792295700.0
     },
     {
+        "id": "befe7f6566",
+        "title_fa": "مهرداد اخلاقی کتابچی وزیر دفاع جدید جمهوری اسلامی شد",
+        "title_en": "Iran appoints new defence minister amid escalating tensions with U.S.",
+        "summary": [
+            "پارلمان ج.ا مهرداد اخلاقی کتابچی را به عنوان وزیر دفاع جدید تایید کرد تا وضعیت بلاتکلیف این وزارتخانه پس از کشته شدن وزیر قبلی در حملات ائتلاف پایان یابد.",
+            "اخلاقی سال‌ها در بخش صنایع موشکی و هوافضای سپاه فعال بوده و نام او در لیست تحریم‌های ایالات متحده و اتحادیه اروپا قرار دارد.",
+            "برنامه اصلی وزیر جدید بازسازی زیرساخت‌های نظامی و تسریع توسعه فناوری‌های تسلیحاتی در اوج تنش‌های منطقه‌ای است."
+        ],
+        "impact": "تلاش مهره‌های نظامی برای بازسازی زیرساخت‌های ضربه‌خورده تسلیحاتی در سایه تحریم‌های شدید.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-appoints-defence-minister-amid-102950234.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-appoints-defence-minister-amid-102950234.html",
+        "image": "http://www.bing.com/th?id=ONUT.ZoB_ucwV8l3do7Q8DrZz0A&pid=News",
+        "timestamp": 1792294140.0
+    },
+    {
         "id": "9406c95529",
         "title_fa": "انتصاب مهره موشکی در وزارت دفاع؛ پیام صریح تهران به غرب",
         "title_en": "Iran's parliament backs missile expert as defence minister",
@@ -5476,24 +5495,5 @@
         "clean_url": "https://www.middleeasteye.net/news/houthi-strikes-mark-end-saudi-arabias-yemen-containment-strategy",
         "image": "https://www.middleeasteye.net/sites/default/files/images-story/Yemen-blast-AFP-2026.jpg",
         "timestamp": 1792016340.0
-    },
-    {
-        "id": "45a1313be1",
-        "title_fa": "فشار حداکثری واشنگتن با سخت‌ترین تحریم‌های تاریخ علیه ت-ه-ر-ا-ن",
-        "title_en": "Bessent Says US Will Impose Toughest Ever Sanctions on Iran, Urges China to Cooperate",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا اعلام کرد شدیدترین تحریم‌های تاریخ این کشور به زودی بر ب-د-ن-ه ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی اعمال می‌شود.",
-            "پکن تحت فشار مستقیم قرار گرفته تا همکاری خود با نفتی ت-ه-ر-ا-ن را متوقف کند.",
-            "هدف اصلی، قطع کامل شریان‌های درآمدی ح-ک-و-م-ت و فلج کردن منابع مالی آن است."
-        ],
-        "impact": "این تصمیم تیر خلاص دیگری بر پیکر اقتصاد بیمار ایران و کاهش بیشتر ارزش پول ملی خواهد بود.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE9jNWJTNmd0ZWRZclpWbzJiRng5ZkxjSjJhcnMzUjZ0b18zdXJMLVV3c2pRSVVPX3J3ZTdKbWMxem1ucFhJZVNFMldUUlU5QTdMeHQ1WDJvem9IU1dvbkRBUWRYU1QtNTFvcktxV1BpY3ZIa3F2Mzh5aXRObjJEdUprUFFrb3J5ZGVGMy1pd3ppRWZvazFkbDlnRXc5NC0wUXFaVVk5NEphY2VYd29oMXFENHZpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE9jNWJTNmd0ZWRZclpWbzJiRng5ZkxjSjJhcnMzUjZ0b18zdXJMLVV3c2pRSVVPX3J3ZTdKbWMxem1ucFhJZVNFMldUUlU5QTdMeHQ1WDJvem9IU1dvbkRBUWRYU1QtNTFvcktxV1BpY3ZIa3F2Mzh5aXRObjJEdUprUFFrb3J5ZGVGMy1pd3ppRWZvazFkbDlnRXc5NC0wUXFaVVk5NEphY2VYd29oMXFENHZpUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792016203.0
     }
 ]
