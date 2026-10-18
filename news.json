@@ -94,6 +94,25 @@
         "timestamp": 1792340940.0
     },
     {
+        "id": "da7042364f",
+        "title_fa": "رایزنی تهران و قاهره؛ تجمع اعتراضی بازنشستگان در چند شهر",
+        "title_en": "Iran, Egypt FMs discuss diplomatic efforts to reduce regional tensions",
+        "summary": [
+            "عباس عراقچی و وزیر خارجه مصر تلفنی درباره کاهش تنش‌های منطقه‌ای گفتگو کردند.",
+            "بازنشستگان تامین اجتماعی و صنعت فولاد در تهران، رشت، کرمانشاه، اصفهان، شوش و اهواز به خیابان آمدند.",
+            "معترضان با سر دادن شعارهایی علیه فساد و گرانی، خواستار ترمیم حقوق و رسیدگی به وضعیت معیشتی شدند."
+        ],
+        "impact": "تنش‌های منطقه‌ای و اعتراضات صنفی همزمان فشار داخلی بر ساختار سیاسی را افزایش داده است.",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610181650",
+        "clean_url": "https://www.iranintl.com/en/202610181650",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792332540.0
+    },
+    {
         "id": "a22bbaf535",
         "title_fa": "اعتراضات سراسری بازنشستگان در شهرهای مختلف",
         "title_en": "Retirees protest across Iran over economic hardship, repression",
@@ -5479,23 +5498,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/venezuela-s-maduro-due-in-court-over-new-us-torture-charge/ar-AA2eicT6",
         "image": "http://www.bing.com/th?id=ONUT.G32fkVCuyEnDRtgwVbZtJQ&pid=News",
         "timestamp": 1792033889.0
-    },
-    {
-        "id": "d8f9faf089",
-        "title_fa": "محاکمه عوامل تروریستی نـیـروی قـدس در آلمان",
-        "title_en": "شبکه یمنی حقوق و آزادی‌ها: حوثی‌ها با محاصره تعز، مانع ورود مواد غذایی، سوخت و دارو شدند",
-        "summary": [
-            "دادستانی فدرال آلمان خواستار حبس سنگین برای دو متهم وابسته به جـمـهـوری اسـلامـی به جرم طراحی ترور چهره‌های یهودی و اسرائیلی شد.",
-            "متهم اصلی اعتراف کرده که دستورات مستقیم را از افسران نـیـروی قـدس برای عملیات تروریستی در برلین دریافت کرده است."
-        ],
-        "impact": "افزایش فشارهای دیپلماتیک و امنیتی اروپا علیه شبکه ترور و عوامل وابسته به جـمـهـوری اسـلامـی.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610159554",
-        "clean_url": "https://www.iranintl.com/202610159554",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792033440.0
     }
 ]
