@@ -345,6 +345,25 @@
         "timestamp": 1792260747.0
     },
     {
+        "id": "c2503e053a",
+        "title_fa": "تشدید درگیری‌های مسلحانه در جنوب‌شرق؛ چالش تازه ساختار امنیتی جـ.ا",
+        "title_en": "Who are the Baluch militants taking on Iran rulers, and how far can they go?",
+        "summary": [
+            "ثبت ۶۳ درگیری مسلحانه و دست‌کم ۹۴ کشته طی هفت ماه، نشان‌دهنده تغییر فاز ناامنی در سیستان و بلوچستان است.",
+            "ائتلاف جدید گروه‌های مسلح بلوچ موسوم به «جبهه مبارزان مردم» عملیات علیه مقرهای نظامی و گشت‌های انتظامی را هدفمندتر کرده است.",
+            "درگیری همزمان حاکمیت با تنش‌های خارجی و تهدیدهای نظامی منطقه‌ای، توان مهار تحرکات مرزی در شرق کشور را به شدت فرسوده کرده است."
+        ],
+        "impact": "تداوم این حملات بخش عمده‌ای از توان لجستیکی و انسانی فراجا و سپاه را در شرق کشور زمین‌گیر می‌کند.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.65,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610180303",
+        "clean_url": "https://www.iranintl.com/en/202610180303",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792260000.0
+    },
+    {
         "id": "989b40e9e0",
         "title_fa": "بازخوانی شراکت مسکو و تهران در بازی قدرت منطقه",
         "title_en": "Russia-Iran relationship demonstrates Kremlin's Middle East strategy",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.newarab.com/news/yemens-houthis-and-saudi-led-coalition-trade-fire",
         "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2299489084.jpeg?itok=NNbQl199",
         "timestamp": 1791990060.0
-    },
-    {
-        "id": "5d8519e46d",
-        "title_fa": "انهدام کشتی وابسته به ج.ا توسط ارتش آمریکا در خلیج عمان",
-        "title_en": "Live Updates: US destroys Iran-affiliated ship in Gulf of Oman, BoP Gaza contract reportedly still not approved",
-        "summary": [
-            "نظامیان آمریکایی یک فروند کشتی مرتبط با ایران را در نزدیکی تنگه هرمز هدف قرار داده و غرق کردند.",
-            "همزمان شبه‌نظامیان حوثی از حملات جدید به تاسیسات آرامکو و فرودگاه‌های عربستان خبر دادند."
-        ],
-        "impact": "افزایش شدید تنش‌های نظامی در آب‌های جنوبی و بالاتر رفتن ریسک امنیت کشتیرانی تجاری",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-15/live-updates-911752",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-15/live-updates-911752",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742067",
-        "timestamp": 1791989760.0
     }
 ]
