@@ -237,6 +237,25 @@
         "timestamp": 1792297504.0
     },
     {
+        "id": "eb1515b16d",
+        "title_fa": "شرط‌گذاری تهران برای بازگشایی تنگه هرمز",
+        "title_en": "Iran sets conditions for reopening the strait",
+        "summary": [
+            "عباس عراقچی از پابرجا بودن پیشنهاد هفت‌روزه برای بازگشایی تنگه هرمز خبر داد.",
+            "تهران ایالات متحده را به نداشتن صداقت لازم برای رسیدن به توافق متهم می‌کند.",
+            "بررسی پاسخ آمریکا به پیشنهاد ایران در جریان است اما اختلاف‌نظرها همچنان پابرجاست."
+        ],
+        "impact": "تداوم تنش در آبراه حیاتی خلیج فارس بر بازار انرژی سایه انداخته است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/our-proposal-is-still-on-table-iran-offers-to-reopen-strait-of-hormuz-in-seven-days-if-us-accepts-conditions/articleshow/135027768.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/our-proposal-is-still-on-table-iran-offers-to-reopen-strait-of-hormuz-in-seven-days-if-us-accepts-conditions/articleshow/135027768.cms",
+        "image": "http://www.bing.com/th?id=ONUT.q2N2fjnaHdi9UhozMBF5OA&pid=News",
+        "timestamp": 1792297200.0
+    },
+    {
         "id": "2f56474d02",
         "title_fa": "بن‌بست کامل مذاکرات تهران و واشینگتن زیر سایه بی‌اعتمادی متقابل",
         "title_en": "Trust gap blocks Iran-US negotiations",
@@ -5476,24 +5495,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/us-says-it-destroyed-iranian-affiliated-vessel-conducting-surveillance-last-week",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792019460.0
-    },
-    {
-        "id": "a4557f8223",
-        "title_fa": "شکست راهبرد مهار حوثی‌ها توسط عربستان",
-        "title_en": "Houthi strikes mark the end of Saudi Arabia's Yemen 'containment strategy'",
-        "summary": [
-            "تلاش‌های عربستان سعودی برای کنترل حوثی‌های یمن هم‌زمان با تمرکز بر توسعه اقتصادی داخلی با شکست روبه‌رو شده است.",
-            "این وضعیت یکی از جدی‌ترین آزمون‌های امنیتی برای محمد بن سلمان از زمان به قدرت رسیدنش محسوب می‌شود.",
-            "رویکرد ریاض در قبال حوثی‌ها شباهت زیادی به سیاست گذشته اسرائیل در قبال حماس در غزه داشت که اکنون فروپاشیده است."
-        ],
-        "impact": "فروپاشی آتش‌بس و بازگشت چالش‌های امنیتی در مرزهای جنوبی عربستان.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/news/houthi-strikes-mark-end-saudi-arabias-yemen-containment-strategy",
-        "clean_url": "https://www.middleeasteye.net/news/houthi-strikes-mark-end-saudi-arabias-yemen-containment-strategy",
-        "image": "https://www.middleeasteye.net/sites/default/files/images-story/Yemen-blast-AFP-2026.jpg",
-        "timestamp": 1792016340.0
     }
 ]
