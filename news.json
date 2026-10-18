@@ -219,6 +219,24 @@
         "timestamp": 1792301017.0
     },
     {
+        "id": "107dda5cb8",
+        "title_fa": "انتصاب وزیر دفاع جدید جـ.ـهوری اسلامی همزمان با تشدید درگیری‌ها",
+        "title_en": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+        "summary": [
+            "مجلس با اکثریت آرا مهرداد اخلاقی کتابچی را به عنوان وزیر دفاع جدید منصوب کرد.",
+            "این انتصاب در شرایطی انجام شده که وزیر دفاع سابق و علی خـ.ـامنه‌ای در روزهای نخست جنگ کشته شده‌اند."
+        ],
+        "impact": "تلاش حاکمیت برای بازسازی ساختار نظامی و حفظ کنترل در اوج بحران جنگی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister",
+        "clean_url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s1-1792317761.jpg?resize=1200%2C675",
+        "timestamp": 1792299600.0
+    },
+    {
         "id": "7d4aa5235a",
         "title_fa": "توافق پشت پرده واشنگتن و پکن درباره تهران",
         "title_en": "Trump says he and Chinese President Xi Jinping feel 'very similar on Iran'",
@@ -5477,23 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXI4UFZuR1pPSXZIOE5XcXVaOFpGSnpsLUFxb0w1U1dPQmhRVW5QOUJLREpsd1dqQ2hQOE1KTVF2d1dnRERwSVA0SXd6UV9JR3Jfb1p6NURzMDAwTXd1dUdJVmRnRXhYTS1adXpfSmJGRWZPMUpmQUlfVU93QkJhYkdwbkQxLXpyWi15dzBNeFA1c2wtaUVfbS1rMHZuaWNHdGZ6TlBWVXRrNmoxaUHSAbMBQVVfeXFMUDB6Z0FfSldMWjJ5OThldFFEYlBkZ1NxbTZOdWhjWEVvSVdBaFQ5QmVrbkRKLUlJR3M3Q3FCbTYtUjBsczlwMEdyeVlOQ1Rua3NHYkdJUUxuZmVVNUhHTm8wSzJOVFpDSmY0ekVUQl9KRjdjUHRESlprN3R3RENIMXRFQ0NZV1kyV0Y2a1NGcU53ZDRaUzM3YTBVSlFyNU1zeF9naHVKcTZ3Wm8xTzhMeFFxTmc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792022315.0
-    },
-    {
-        "id": "cdb84bdac3",
-        "title_fa": "هدف قرار گرفتن شناور وابسته به سپاه در دریای عمان توسط ارتش آمریکا",
-        "title_en": "US says it destroyed Iranian-affiliated vessel conducting surveillance last week",
-        "summary": [
-            "نیروهای آمریکایی یک فروند لنج تجسسی وابسته به سپاه را در دریای عمان نابود کردند.",
-            "این شناور در حال رصد و هدف‌گیری ناوهای آمریکایی بوده است."
-        ],
-        "impact": "بالرفتن سطح تنش‌های نظامی میان واشنگتن و نیروهای نیابتی در آب‌های منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/us-says-it-destroyed-iranian-affiliated-vessel-conducting-surveillance-last-week/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/us-says-it-destroyed-iranian-affiliated-vessel-conducting-surveillance-last-week",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792019460.0
     }
 ]
