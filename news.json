@@ -201,6 +201,24 @@
         "timestamp": 1792301427.0
     },
     {
+        "id": "34dc9ddfeb",
+        "title_fa": "هزینه سنگین تنش با ایــران روی دوش خانوارهای آمریکایی",
+        "title_en": "The Iran War Has Cost $2,000 Per Household — So Far",
+        "summary": [
+            "مخارج درگیری‌های منطقه‌ای فشار مالی محسوسی به شهروندان آمریکایی وارد کرده است.",
+            "رأی‌دهندگان خواستار واکنش جدی کنگره و مهار هزینه‌های این بحران هستند."
+        ],
+        "impact": "نارضایتی اقتصادی مردم آمریکا می‌تواند معادلات سیاسی انتخابات را تغییر دهد.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/williamhartung/2026/10/18/the-iran-war-has-cost-2000-per--household---so-far/",
+        "clean_url": "https://www.forbes.com/sites/williamhartung/2026/10/18/the-iran-war-has-cost-2000-per--household---so-far",
+        "image": "http://www.bing.com/th?id=ONUT.XV0_yiLH7aLGvXrjsNEKHw&pid=News",
+        "timestamp": 1792301160.0
+    },
+    {
         "id": "e2f9072209",
         "title_fa": "بحران مالی گروه‌های نیابتی عراقی",
         "title_en": "Are the Iran-backed Iraq Factions Facing a Financial Crisis?",
@@ -5476,24 +5494,5 @@
         "clean_url": "https://english.aawsat.com/world/5329797-centcom-tests-advanced-drone-capabilities-middle-east",
         "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-10/1828289_0.jpeg.webp?VersionId=qXC.p5ZhsKrBMIl1EhFaAqxpFdJHE1qx",
         "timestamp": 1792022400.0
-    },
-    {
-        "id": "b7eea1bc1c",
-        "title_fa": "شلیک مستقیم آمریکا: انهدام شناور فرماندهی و شناسایی وابسته به ایران",
-        "title_en": "US destroys dhow suspected of Iranian command and control",
-        "summary": [
-            "نیروهای آمریکایی یک فروند لنج را که به عنوان واحد شناور فرماندهی، کنترل و هماهنگی عملیات‌های دریایی عمل می‌کرد، هدف قرار داده و غرق کردند.",
-            "این اقدام نشانه تمرکز جدید ارتش آمریکا بر شناسایی و نابودی گره‌های ارتباطی مخفی سپاه در آبراه‌های جنوبی است.",
-            "هدف‌گیری این قایق نشان می‌دهد واشنگتن تصمیم گرفته به جای انفعال صرف در برابر حملات موشکی، شبکه هدایت میدانی در دریا را فلج کند."
-        ],
-        "impact": "اخلال فوری در پوشش راداری و پایش میدانی قایق‌های تندرو و گروه‌های نیابتی در مسیرهای بین‌المللی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.75,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXI4UFZuR1pPSXZIOE5XcXVaOFpGSnpsLUFxb0w1U1dPQmhRVW5QOUJLREpsd1dqQ2hQOE1KTVF2d1dnRERwSVA0SXd6UV9JR3Jfb1p6NURzMDAwTXd1dUdJVmRnRXhYTS1adXpfSmJGRWZPMUpmQUlfVU93QkJhYkdwbkQxLXpyWi15dzBNeFA1c2wtaUVfbS1rMHZuaWNHdGZ6TlBWVXRrNmoxaUHSAbMBQVVfeXFMUDB6Z0FfSldMWjJ5OThldFFEYlBkZ1NxbTZOdWhjWEVvSVdBaFQ5QmVrbkRKLUlJR3M3Q3FCbTYtUjBsczlwMEdyeVlOQ1Rua3NHYkdJUUxuZmVVNUhHTm8wSzJOVFpDSmY0ekVUQl9KRjdjUHRESlprN3R3RENIMXRFQ0NZV1kyV0Y2a1NGcU53ZDRaUzM3YTBVSlFyNU1zeF9naHVKcTZ3Wm8xTzhMeFFxTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXI4UFZuR1pPSXZIOE5XcXVaOFpGSnpsLUFxb0w1U1dPQmhRVW5QOUJLREpsd1dqQ2hQOE1KTVF2d1dnRERwSVA0SXd6UV9JR3Jfb1p6NURzMDAwTXd1dUdJVmRnRXhYTS1adXpfSmJGRWZPMUpmQUlfVU93QkJhYkdwbkQxLXpyWi15dzBNeFA1c2wtaUVfbS1rMHZuaWNHdGZ6TlBWVXRrNmoxaUHSAbMBQVVfeXFMUDB6Z0FfSldMWjJ5OThldFFEYlBkZ1NxbTZOdWhjWEVvSVdBaFQ5QmVrbkRKLUlJR3M3Q3FCbTYtUjBsczlwMEdyeVlOQ1Rua3NHYkdJUUxuZmVVNUhHTm8wSzJOVFpDSmY0ekVUQl9KRjdjUHRESlprN3R3RENIMXRFQ0NZV1kyV0Y2a1NGcU53ZDRaUzM3YTBVSlFyNU1zeF9naHVKcTZ3Wm8xTzhMeFFxTmc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792022315.0
     }
 ]
