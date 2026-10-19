@@ -278,6 +278,25 @@
         "timestamp": 1792382442.0
     },
     {
+        "id": "523bd71cc7",
+        "title_fa": "سفر سرگئی لاوروف به تهران؛ میانجی‌گری مسکو برای جلوگیری از تشدید جنگ",
+        "title_en": "Russian envoy says visit to Iran aimed at averting return to war",
+        "summary": [
+            "سرگئی لاوروف در اولین سفر خود پس از آغاز جنگ گسترده، برای مهار بحران و مذاکره پیرامون بازگشایی تنگه هرمز راهی تهران شده است.",
+            "طرح آتش‌بس ۷ روزه تهران و بازگشایی مرحله‌ای تنگه در برابر لغو محاصره دریایی، با وجود مخالفت قبلی دونالد ترامپ، دوباره به جریان افتاده است.",
+            "افزایش حملات به کشتی‌های تجاری با ثبت ۱۰ مورد در یک هفته، ناامنی کشتیرانی را به اوج رسانده و قیمت نفت را بالای ۱۰۵ دلار تثبیت کرده است."
+        ],
+        "impact": "شکست میانجی‌گری مسکو خطر تشدید محاصره دریایی و جهش نفت به بالای ۱۱۰ دلار را در پی دارد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/russian-envoy-says-visit-iran-100748660.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/russian-envoy-says-visit-iran-100748660.html",
+        "image": "http://www.bing.com/th?id=ONUT.mcZ6eEKCVcJzVpIPCTF4XA&pid=News",
+        "timestamp": 1792379220.0
+    },
+    {
         "id": "9958dacc8e",
         "title_fa": "فشار جنگ با ایران بر اقتصاد و انتخابات آمریکا",
         "title_en": "The Iran war is sprawling into an inflation nightmare for Trump ahead of the midterms",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xcHJ0S25uYmVBeFduWVNRZkE1REZ6b2ZTRDVFOXFsV3pEeHdmRlV4ZzFURVB1VF9sRW1DZEtndGJPR0dyeVlGSHZhQy1YbENnQUE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792064531.0
-    },
-    {
-        "id": "849ef93580",
-        "title_fa": "آماده‌باش کامل به نیابتی‌ها در سایه تهدید درگیری",
-        "title_en": "Iran instructs Hezbollah to raise level of readiness in preparation for possible conflict - report",
-        "summary": [
-            "تهران به عوامل حزب‌الله دستور داد تا سطح آماده‌باش نظامی خود را برای مقابله با تنش‌های احتمالی به بالاترین حد برسانند.",
-            "این اقدام نشان‌دهنده نگرانی شدید از پاسخ نظامی سنگین و تلاش برای بازدارندگی در مرزهای شمالی است."
-        ],
-        "impact": "افزایش احتمال درگیری تمام‌عیار در مرزهای لبنان و تشدید ریسک امنیتی در منطقه.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdFg2M0VaY2xOVnhWN2JIUzM5dnIyWlFPbkxqbUtMSjF0cjA0NkQwdFpOSmlLYnZwelA5eXZBTnpBYy04ZkYtVFhvb1JoazlicEJjZFBTWUM1ckRVZVhHZk1YSzRCY3ptd3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdFg2M0VaY2xOVnhWN2JIUzM5dnIyWlFPbkxqbUtMSjF0cjA0NkQwdFpOSmlLYnZwelA5eXZBTnpBYy04ZkYtVFhvb1JoazlicEJjZFBTWUM1ckRVZVhHZk1YSzRCY3ptd3c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792063803.0
     }
 ]
