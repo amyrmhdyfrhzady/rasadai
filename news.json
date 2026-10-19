@@ -278,6 +278,24 @@
         "timestamp": 1792382442.0
     },
     {
+        "id": "9958dacc8e",
+        "title_fa": "فشار جنگ با ایران بر اقتصاد و انتخابات آمریکا",
+        "title_en": "The Iran war is sprawling into an inflation nightmare for Trump ahead of the midterms",
+        "summary": [
+            "افزایش قیمت سوخت در پمپ بنزین‌های آمریکا به دلیل تنش‌ها با ایران، فشار سنگینی بر شهروندان وارد کرده است.",
+            "این بحران اقتصادی می‌تواند پاشنه آشیل حزب حاکم در انتخابات میهم دوره‌ای پیش رو باشد."
+        ],
+        "impact": "هزینه بالای جنگ روی دوش شهروندان آمریکایی سنگینی می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Insider on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-iran-war-is-sprawling-into-an-inflation-nightmare-for-trump-ahead-of-the-midterms/ar-AA2fziqx",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-iran-war-is-sprawling-into-an-inflation-nightmare-for-trump-ahead-of-the-midterms/ar-AA2fziqx",
+        "image": "http://www.bing.com/th?id=ONUT.VEaXqYP2Xudvd85yZvfWXA&pid=News",
+        "timestamp": 1792378801.0
+    },
+    {
         "id": "9df84e1b48",
         "title_fa": "فشار بی‌سابقه تندروهای تهران برای تغییر عقیده هسته‌ای و ساخت بمب",
         "title_en": "Iranian hardliners say the time for nuclear weapons has come",
@@ -5489,23 +5507,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-on-jordan-border-we-have-plan-to-confront-drone-threat",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/File-1-1.png",
         "timestamp": 1792062540.0
-    },
-    {
-        "id": "ee5df0a473",
-        "title_fa": "رد پای تـهـران در تقویت تسلیحاتی انـصـارالـلـه یـمـن",
-        "title_en": "How Iran helped Houthis build weapons capability and challenge Saudi Arabia's defences",
-        "summary": [
-            "حمایت‌های مالی و آموزشی تـهـران، گروه یمنی را در ساخت تسلیحات پیشرفته به مرحله خودکفایی رسانده است.",
-            "حملات پهپادی به تاسیسات آرامکو و فرودگاه ریاض، امنیت سرمایه‌گذاری در عربستان را به چالش کشیده است."
-        ],
-        "impact": "آسیب‌پذیری زیرساخت‌های انرژی عربستان و افزایش ناامنی برای سرمایه‌گذاران خارجی.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Hindu BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/how-iran-helped-houthis-build-weapons-capability-and-challenge-saudi-arabias-defences/article71589719.ece",
-        "clean_url": "https://www.thehindubusinessline.com/news/world/how-iran-helped-houthis-build-weapons-capability-and-challenge-saudi-arabias-defences/article71589719.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/es748j/article71589728.ece/alternates/LANDSCAPE_1200/2026-10-12T060003Z_1289944774_RC2LVNAK99X8_RTRMADP_3_ASIA-CRUDE-REFINING.JPG",
-        "timestamp": 1792060740.0
     }
 ]
