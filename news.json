@@ -500,6 +500,25 @@
         "timestamp": 1792358640.0
     },
     {
+        "id": "cdfb73e37c",
+        "title_fa": "دور زدن کامل ایران در مسیر ترانزیت و فیبر نوری خزر",
+        "title_en": "Iranians report soaring medical costs, staff shortages at hospitals",
+        "summary": [
+            "چین، قزاقستان و آذربایجان با توسعه «کریدور میانی»، ایران را به‌طور کامل از مسیر ترانزیت کالا و داده میان آسیا و اروپا حذف کردند.",
+            "افتتاح خط فیبر نوری ۴۰۰ ترابیتی زیر دریای خزر، منطقه را به مرکز جذب سرمایه در حوزه هوش مصنوعی و داده تبدیل می‌کند و انزوای فناوری ایران را عمیق‌تر می‌سازد.",
+            "پیش‌بینی بانک جهانی از جهش سنگین ترانزیت خزر نشان می‌دهد که کشورهای همسایه در حال بلعیدن سهم ایران از تجارت منطقه‌ای هستند."
+        ],
+        "impact": "حذف کامل ایران از شاهراه‌های حیاتی انرژی و داده و از دست رفتن میلیاردها دلار درآمد ترانزیتی.",
+        "tag": "ترانزیت",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610199849",
+        "clean_url": "https://www.iranintl.com/en/202610199849",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/3233fbd14b9e43da8e50ef08c30feef2264cebc7-850x600.jpg?rect=0,77,850,446&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1792357920.0
+    },
+    {
         "id": "e58aa39bd0",
         "title_fa": "آمادگی قاهره برای حمایت نظامی از ریاض مقابل حوثی‌ها",
         "title_en": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis",
@@ -5489,23 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdFg2M0VaY2xOVnhWN2JIUzM5dnIyWlFPbkxqbUtMSjF0cjA0NkQwdFpOSmlLYnZwelA5eXZBTnpBYy04ZkYtVFhvb1JoazlicEJjZFBTWUM1ckRVZVhHZk1YSzRCY3ptd3c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792063803.0
-    },
-    {
-        "id": "ea89fd818b",
-        "title_fa": "طرح جدید تل‌آویو برای مقابله با ریزپرنده‌ها در مرز اردن",
-        "title_en": "Netanyahu on Jordan border: We have plan to confront drone threat",
-        "summary": [
-            "بنیامین نتانیاهو از تدوین برنامه‌ای جامع برای خنثی‌سازی تهدیدهای پهپادی در مرزهای شرقی خبر داد.",
-            "تکمیل حصارهای مرزی و تقویت دیوارهای امنیتی در دستور کار فوری ارتش اسرائیل قرار گرفته است."
-        ],
-        "impact": "بستن مسیرهای نفوذ پهپادی و افزایش لایه‌های امنیتی در مرزهای اردن.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-on-jordan-border-we-have-plan-to-confront-drone-threat/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-on-jordan-border-we-have-plan-to-confront-drone-threat",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/File-1-1.png",
-        "timestamp": 1792062540.0
     }
 ]
