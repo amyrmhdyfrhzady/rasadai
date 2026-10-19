@@ -1,5 +1,24 @@
 [
     {
+        "id": "d84654fe7e",
+        "title_fa": "فروپاشی سیستم درمانی؛ هزینه بستری فراتر از حقوق ماهانه کارگران",
+        "title_en": "Iran's Intelligence Ministry arrests 39 over January protests",
+        "summary": [
+            "هزینه یک شب بستری در مراکز درمانی از حداقل دستمزد ماهانه کارگران فراتر رفته و درمان را برای بخش وسیعی از مردم عملاً ناممکن کرده است.",
+            "کمبود شدید پزشک متخصص و کاهش تعداد کادر پرستاری به نصف استانداردها، بیمارستان‌های دولتی را در آستانه فلج کامل قرار داده است.",
+            "سقوط ارزش ریال و هزینه‌های سلیقه‌ای و بدون فاکتور در بخش اورژانس، فشار کمرشکنی بر اقشار محروم وارد کرده است."
+        ],
+        "impact": "گسترش فقر درمانی و تشدید نارضایتی‌های عمیق اجتماعی ناشی از ناکارآمدی زیرساخت‌های سلامت.",
+        "tag": "بحران معیشت",
+        "urgency": 6,
+        "sentiment": -0.85,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610199799",
+        "clean_url": "https://www.iranintl.com/en/202610199799",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792409100.0
+    },
+    {
         "id": "8b4d458383",
         "title_fa": "بازی خطرناک جـ.ـهوری ا‌.سـ.ـلا‌.می با گرسنگی مردم برای بقا",
         "title_en": "Iran would rather starve than acknowledge Israel. Marco Rubio must call its bluff",
@@ -5491,23 +5510,5 @@
         "clean_url": "https://www.forbes.com/sites/arielcohen/2026/10/15/can-trump-strangle-irans-economy",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6ad05fe404b80d4258f6b5a6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "timestamp": 1792069200.0
-    },
-    {
-        "id": "4e78d49a7a",
-        "title_fa": "اعتراف شهردار سابق تهران به بن‌بست در رویارویی با آمریکا",
-        "title_en": "‘We cannot bring America to its knees,’ former Tehran mayor says",
-        "summary": [
-            "یکی از چهره‌های سیاسی داخلی صراحتاً اذعان کرد که ایده زانو درآوردن آمریکا کارایی ندارد و شعارهای ضدآمریکایی واقع‌بینانه نیست.",
-            "این اعترافات نشان‌دهنده شکاف عمیق میان تندروها و واقع‌گرایان درون سیستم درباره هزینه‌های گزاف سیاست خارجی است."
-        ],
-        "impact": "تضعیف بیشتر روایت رسمی حاکمیت درباره پیروزی قطعی در جنگ اقتصادی و سیاسی با غرب",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xcHJ0S25uYmVBeFduWVNRZkE1REZ6b2ZTRDVFOXFsV3pEeHdmRlV4ZzFURVB1VF9sRW1DZEtndGJPR0dyeVlGSHZhQy1YbENnQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xcHJ0S25uYmVBeFduWVNRZkE1REZ6b2ZTRDVFOXFsV3pEeHdmRlV4ZzFURVB1VF9sRW1DZEtndGJPR0dyeVlGSHZhQy1YbENnQUE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792064531.0
     }
 ]
