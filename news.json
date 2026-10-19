@@ -586,6 +586,25 @@
         "timestamp": 1792399773.0
     },
     {
+        "id": "3fb551f69e",
+        "title_fa": "بازی دوگانه مسکو و پکن در پازل فشار حداکثری",
+        "title_en": "Russia vows continued Iran ties as Trump welcomes limits on support",
+        "summary": [
+            "سرгей لاوروف در سفر به تهران بر تداوم همکاری‌های سیاسی و اقتصادی با جم... اسلامی تأکید کرد.",
+            "دونالد ترامپ از سطح محدود حمایت‌های روسیه و چین از تهران تمجید کرد و آن را نکته مثبتی خواند.",
+            "ترامپ صراحتاً اعلام کرد مسکو و پکن پتانسیل کمک‌های بسیار بیشتری به ایران را داشتند اما از آن خودداری کردند."
+        ],
+        "impact": "فاصله گرفتن تدریجی متحدان سنتی از تهران در برابر فشار اقتصادی واشنگتن آشکارتر می‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610197573",
+        "clean_url": "https://www.iranintl.com/en/202610197573",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/30f00a7780b64d5c85d7363fdb34f60c6910238a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1792397820.0
+    },
+    {
         "id": "cbd679afba",
         "title_fa": "فروپاشی سیستم درمان و دلار ۲۶۲ هزار تومانی در ایـران",
         "title_en": "China urges dialogue in meeting with Iran’s first vice president",
@@ -5492,23 +5511,5 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad198635e2f9-1792120931_21710f-1792121082.jpg?resize=1200%2C630&quality=80",
         "timestamp": 1792108920.0
-    },
-    {
-        "id": "792e447278",
-        "title_fa": "چرخش دیپلماتیک ترامپ؛ کاهش تحریم نفت روسیه برای کنترل بازار",
-        "title_en": "Conflit Ukraine / Russie : la stratégie de Donald Trump",
-        "summary": [
-            "ترس از تورم و نارضایتی رای‌دهندگان آمریکایی از وضعیت اقتصادی، ترامپ را به سمت کاهش تحریم‌های نفتی روسیه سوق داده است.",
-            "فشار بر زلنسکی برای پذیرش صلح به هر قیمتی، بخشی از تلاش تیم ترامپ برای پایان دادن سریع به جنگ اوکراین است."
-        ],
-        "impact": "تغییر سیاست‌های واشنگتن می‌تواند بازار جهانی انرژی و قیمت سوخت را به شدت تحت تأثیر قرار دهد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "TF1",
-        "url": "https://www.tf1.fr/tf1/jt-20h/videos/conflit-ukraine-russie-la-strategie-de-donald-trump-07743622.html",
-        "clean_url": "https://www.tf1.fr/tf1/jt-20h/videos/conflit-ukraine-russie-la-strategie-de-donald-trump-07743622.html",
-        "image": "https://www.bing.com/th?id=ONUT.DT3allbyaMIn0iPzN4hjkg",
-        "timestamp": 1792107665.6094685
     }
 ]
