@@ -401,6 +401,24 @@
         "timestamp": 1792404547.0
     },
     {
+        "id": "f6b8a9d9bd",
+        "title_fa": "مقاومت مردمی در خاورمیانه برابر سلطه آمریکا",
+        "title_en": "West Asia: The People Refuse to Submit — How Popular Resistance Challenges US Imperialism",
+        "summary": [
+            "نقش اراده ملت‌ها در تغییر معادلات قدرت فراتر از تجهیزات نظامی است.",
+            "مبارزه جریان‌های مردمی در منطقه با منافع اقتصادی و طبقاتی پیوند خورده است."
+        ],
+        "impact": "تقویت گفتمان مقاومت اجتماعی در برابر سیاست‌های مداخله‌جویانه در منطقه",
+        "tag": "نیابتی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Muslim Mirror",
+        "url": "https://muslimmirror.com/west-asia-the-people-refuse-to-submit-how-popular-resistance-challenges-us-imperialism/",
+        "clean_url": "https://muslimmirror.com/west-asia-the-people-refuse-to-submit-how-popular-resistance-challenges-us-imperialism",
+        "image": "https://muslimmirror.com/wp-content/uploads/2018/05/Gaza-violence-exacerbates-suffering-of-children.jpg",
+        "timestamp": 1792404000.0
+    },
+    {
         "id": "3b0775b14e",
         "title_fa": "دکترین جدید امنیت ملی اسرائیل با محوریت تقابل با ج.ا",
         "title_en": "Netanyahu: Israel must become a fortress",
@@ -5491,24 +5509,5 @@
         "clean_url": "https://www.iranintl.com/en/202610160169",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792107540.0
-    },
-    {
-        "id": "8d1d502ac6",
-        "title_fa": "هشدار خزانه داری آمریکا درباره سوءاستفاده از نهادهای مذهبی",
-        "title_en": "Pezeshkian says Iran does not seek nuclear weapons",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا شبکه مالی ج.ا را به استفاده از خیریه‌ها و وجوهات شرعی برای تامین مالی تروریسم متهم کرد.",
-            "اسکات بسنت تاکید کرد که دولت ترامپ اجازه نخواهد داد منابع مالی از طریق نهادهای مذهبی به جیب نخبگان حکومتی سرازیر شود.",
-            "شناسایی شبکه‌های حواله و پول‌شویی نشان‌دهنده تلاش ج.ا برای دور زدن سیستم بانکی بین‌المللی است."
-        ],
-        "impact": "بسته شدن منافذ مالی غیررسمی و افزایش فشار بر شبکه‌های انتقال پول ج.ا.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610160845",
-        "clean_url": "https://www.iranintl.com/en/202610160845",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792106100.0
     }
 ]
