@@ -366,6 +366,24 @@
         "timestamp": 1792397640.0
     },
     {
+        "id": "f513f4c801",
+        "title_fa": "بحران در تنگه هرمز و جهش قیمت نفت",
+        "title_en": "Strait of Hormuz scoured for spilt cargo after Iran attacks container ships",
+        "summary": [
+            "حملات مکرر به ۱۵ کشتی تجاری در تنگه هرمز طی ده روز گذشته، کنترل نظامی این آبراه حیاتی را به بحران کشیده است.",
+            "استفاده از پهپاد، مین و راکت در این حملات، قیمت نفت برنت را به آستانه ۱۰۸ دلار در هر بشکه رساند."
+        ],
+        "impact": "اختلال در ترانزیت دریایی و جهش قیمت انرژی در بازارهای جهانی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+        "clean_url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+        "image": "https://i.guim.co.uk/img/media/0d4cf88c5f52288ec22b532a48cb137684da74e9/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=378001bce6600e307cdc4cbfda6718f4",
+        "timestamp": 1792396260.0
+    },
+    {
         "id": "5c177eb682",
         "title_fa": "طرح هفت‌روزه عراقچی؛ شرط‌گذاری تهران برای بازگشایی تنگه هرمز",
         "title_en": "US-Iran War Live Updates: World Food Programme to cut food aid to 500,000 Palestinians in Gaza over funding shortfall",
@@ -5491,24 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xME9pMk5xeDJRVHQtc29yeEFHcERFTWJoR3RHTEhWTHRjNVFNc3JiMG1LZzc2WGoxYUY5SnJpbloxV2daY0xFdnNyemVVcVE2bm5ES3hibEozdXVjT2llei1Qd1FUb3FXSFp1d3dR",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792092652.0
-    },
-    {
-        "id": "d2bb49af07",
-        "title_fa": "صفر شدن صادرات نفت ایران با اجرای عملیات طرد اقتصادی",
-        "title_en": "Iran crude exports hit zero as US Treasury tightens economic noose",
-        "summary": [
-            "صادرات نفت دریایی ایران به دلیل محاصره شدید خزانه‌داری آمریکا به صفر رسید.",
-            "۸۳ میلیون بشکه نفت در نفتکش‌ها سرگردان مانده و ارزش ریال ۳۵ درصد افت کرده است.",
-            "وزارت خزانه‌داری آمریکا با اجرای عملیات طرد اقتصادی، حلقه محاصره را تنگ‌تر کرده است."
-        ],
-        "impact": "فلج شدن کامل درآمدهای نفتی کشور و سقوط آزاد ارزش پول ملی.",
-        "tag": "تحریم",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "scanx",
-        "url": "https://scanx.trade/stock-market-news/global/iran-fortifies-nuclear-sites-us-strike-threat-looms-post-midterms/53445945",
-        "clean_url": "https://scanx.trade/stock-market-news/global/iran-fortifies-nuclear-sites-us-strike-threat-looms-post-midterms/53445945",
-        "image": "https://news-images.dhan.co/iran-fortifies-nuclear-sites-us-strike-threat-looms-post-midterms.jpg",
-        "timestamp": 1792091340.0
     }
 ]
