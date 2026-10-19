@@ -37,6 +37,25 @@
         "timestamp": 1792409100.0
     },
     {
+        "id": "3b0775b14e",
+        "title_fa": "دکترین جدید امنیت ملی اسرائیل با محوریت تقابل با ج.ا",
+        "title_en": "Netanyahu: Israel must become a fortress",
+        "summary": [
+            "بنیامین نتانیاهو در آستانه انتخابات، از سیاست جدید امنیتی اسرائیل با ۱۱ اصل کلیدی رونمایی کرد.",
+            "او تاکید کرد که حمله ۷ اکتبر باعث شد اسرائیل با گذر از سیاست مهار، دکترین تهاجمی و حملات پیشگیرانه را در دستور کار قرار دهد.",
+            "شکستن حلقه محاصره محور وابسته به ج.ا و خنثی کردن خطر اتمی از دستاوردهای این جنگ عنوان شد."
+        ],
+        "impact": "تغییر دکترین نظامی اسرائیل از دفاعی به تهاجمی محض و ضربه به نیابتی‌های منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "Israel Today",
+        "url": "https://www.israeltoday.co.il/read/netanyahu-israel-must-become-a-fortress/",
+        "clean_url": "https://www.israeltoday.co.il/read/netanyahu-israel-must-become-a-fortress",
+        "image": "https://www.israeltoday.co.il/wp-content/uploads/2026/10/F261015SL06.jpeg",
+        "timestamp": 1792404000.0
+    },
+    {
         "id": "8b4d458383",
         "title_fa": "بازی خطرناک جـ.ـهوری ا‌.سـ.ـلا‌.می با گرسنگی مردم برای بقا",
         "title_en": "Iran would rather starve than acknowledge Israel. Marco Rubio must call its bluff",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.newsweek.com/trump-suffers-double-inflation-blow-within-48-hours-as-midterms-loom-12575708",
         "image": "http://www.bing.com/th?id=ONUT.yC-Uf0cGH3_qduAQewExxg&pid=News",
         "timestamp": 1792073040.0
-    },
-    {
-        "id": "77ebdb42bb",
-        "title_fa": "توقف پروژه گنبد طلایی ترامپ در باتلاق فنی و مالی",
-        "title_en": "Trump’s defense dreams are on life support",
-        "summary": [
-            "طرح فرمان اجرایی ترامپ برای ایجاد سپر موشکی یکپارچه فضایی و زمینی با موانع اساسی روبه‌رو شده است.",
-            "هزینه‌های نجومی و چالش‌های فناوری فضایی، کارایی این شبکه دفاع موشکی چندلایه را زیر سوال برده است."
-        ],
-        "impact": "عقب‌ماندگی ارتش آمریکا در نوسازی پدافند موشکی پیشرفته و آسیب‌پذیری احتمالی در برابر نسل جدید تسلیحات.",
-        "tag": "دفاعی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/10/15/trump-defense-budget-loss-01120994",
-        "clean_url": "https://www.politico.com/news/2026/10/15/trump-defense-budget-loss-01120994",
-        "image": "http://www.bing.com/th?id=ONUT.d53AvEjojz-HFGqU21cSbA&pid=News",
-        "timestamp": 1792070940.0
     }
 ]
