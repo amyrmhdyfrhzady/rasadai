@@ -576,6 +576,25 @@
         "timestamp": 1792373483.0
     },
     {
+        "id": "2cb8744c1e",
+        "title_fa": "تهدید نظامی واشنگتن توسط تهران و سفر لاوروف به پایتخت",
+        "title_en": "Iran threatens stronger response to US attack, Lavrov visits Tehran",
+        "summary": [
+            "مقام‌های نظامی جـمـهـورۍ اسـلا‌مـۍ در واکنش به احتمال درگیری دوباره، از پاسخ کوبنده‌تر به آمریکا خبر دادند.",
+            "سرگئی لاوروف، وزیر خارجه روسیه، برای دیدار با مقامات ارشد وارد تهران شد.",
+            "این تحولات همزمان با بالا گرفتن تنش‌های منطقه‌ای و حملات نیابتی رخ داده است."
+        ],
+        "impact": "افزایش ریسک امنیتی در منطقه و تلاش تهران برای یارگیری سیاسی از مسکو.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610193317",
+        "clean_url": "https://www.iranintl.com/en/202610193317",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/537661d0994972f9fc7c7006d9b9ab4874865319-768x512.jpg?rect=0,55,768,403&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1792370940.0
+    },
+    {
         "id": "1077d1617e",
         "title_fa": "زمینه‌چینی علنی برای سناریوی جانشینی مـجتبی خـامنه‌ای",
         "title_en": "محمد مخبر: مطمئن باشید با مجتبی خامنه‌ای آینده درخشانی پیش روی ماست",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HLW1GWnlWZlE5ZVdULTRoVC1oYk10cGU4bEtpWFBaMThja3BmOEdlS0hBOWd4S0FWUEpTUkxQbU4tSWt0azJJZHlkbmZtbTI5Q0JFdVJ1R1p4c0FCZjNZQ0dIRV9ZaDI1YkpleVVOTllaT2IxQ0Mw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792080196.0
-    },
-    {
-        "id": "eb57780e56",
-        "title_fa": "هشدار آمریکا درباره سوءاستفاده مالی حکومتی از شبکه‌های مذهبی",
-        "title_en": "South Korea weighs expanding military mission near Strait of Hormuz",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا به نهادهای مالی درباره سوءاستفاده حکومت ایران از وجوه شرعی مانند خمس هشدار داد.",
-            "این شبکه مالی از طریق موسسات خیریه و صرافی‌های غیررسمی برای تامین مالی عوامل وابسته استفاده می‌کند."
-        ],
-        "impact": "مسدود شدن کانال‌های مالی پنهان و قطع دسترسی نهادهای حکومتی به پول‌های مذهبی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610167657",
-        "clean_url": "https://www.iranintl.com/en/202610167657",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792080000.0
     }
 ]
