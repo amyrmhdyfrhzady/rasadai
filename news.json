@@ -1,5 +1,23 @@
 [
     {
+        "id": "b32ab96651",
+        "title_fa": "پوشش زنده تحولات خاورمیانه و درگیری‌های منطقه‌ای",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "اورژالیم پست آخرین اخبار و رویدادهای مرتبط با تنش‌های میان اسرائیل، ایران و منطقه را به صورت لحظه‌ای بروزرسانی می‌کند.",
+            "تمرکز اصلی این گزارش‌ها روی ارزیابی وضعیت امنیتی و آمادگی نظامی طرفین درگیر است."
+        ],
+        "impact": "حفظ التهاب روانی و آگاهی‌رسانی لحظه‌ای از وضعیت شکننده امنیتی در منطقه.",
+        "tag": "منطقه‌ای",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yS0FDd1duN1hYeEFmX2xiNVVIdTN2bXQ5ZW9rYnpjazhyeHRaSGtEMjVDMXF4OFJyRXBwUDIyNFJLdTY0SFRsUTlxbi1qNW83eHB4VFpXVGRmM2lfVUJOY3lpVS1PckxYQ3BIZmNWMmVYOXRJZXozbTQwUC1JRlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yS0FDd1duN1hYeEFmX2xiNVVIdTN2bXQ5ZW9rYnpjazhyeHRaSGtEMjVDMXF4OFJyRXBwUDIyNFJLdTY0SFRsUTlxbi1qNW83eHB4VFpXVGRmM2lfVUJOY3lpVS1PckxYQ3BIZmNWMmVYOXRJZXozbTQwUC1JRlE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792421877.0
+    },
+    {
         "id": "b827b4d62b",
         "title_fa": "تست موفقیت‌آمیز غول کشنده روسیه در شرایط سخت قطبی",
         "title_en": "BAZ tractor unit covers over 10,000 km with no critical flaws — Almaz-Antey",
@@ -5492,24 +5510,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MdnhISEpZRVlNR0l3YnhFUnFJU3BJVnpKTXhaWDZmRW1HbTJ6YWIwMTZ2d2ROMHpoUWNGOVNvamItUzZpTzdEWkY5SzJwbUF5WS1rZFk5NnhRYTIta1IydkY4ZXUyVXpweWxSc3lJR2R0RjJhc25v",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792087401.0
-    },
-    {
-        "id": "75f968a4fd",
-        "title_fa": "هشدار خزانه‌داری آمریکا درباره سوءاستفاده مالی تهران از خیریه‌ها و وجوهات شرعی",
-        "title_en": "Saudi Arabia says 2027 Asian Cup preparations remain on schedule",
-        "summary": [
-            "شبکه مبارزه با جرایم مالی خزانه‌داری آمریکا (فینسن) دستورالعملی صادر کرده تا مؤسسات مالی جهان ردپای انتقال وجوه مذهبی و خیریه به سمت نهادهای حکومتی تهران را رهگیری و مسدود کنند.",
-            "واشنگتن صراحتاً شبکه حواله‌ها، پیک‌های نقدی و حساب‌های مرتبط با چهره‌های مذهبی حکومتی را هدف گرفته تا از این مسیر جلوی تأمین مالی تروریسم و دور زدن تحریم‌ها را بگیرد.",
-            "اسکات بست، وزیر خزانه‌داری در دولت ترامپ، تأکید کرده که دوره استفاده از پوشش مذهبی برای پر کردن جیب سران حکومت و تغذیه گروه‌های وابسته به پایان رسیده است."
-        ],
-        "impact": "تنگ‌تر شدن راه‌های فرعی نقل‌وانتقال ارز و مسدود شدن شریان‌های مالی سنتی و غیررسمی حکومت در خارج از کشور.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610168766",
-        "clean_url": "https://www.iranintl.com/en/202610168766",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792086840.0
     }
 ]
