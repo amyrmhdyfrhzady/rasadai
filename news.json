@@ -1,5 +1,23 @@
 [
     {
+        "id": "62c27b533b",
+        "title_fa": "تأثیر کاهش نرخ بهره بر بازار بورس روسیه",
+        "title_en": "Developers to benefit most from potential rate cut, lawmaker says",
+        "summary": [
+            "کاهش نرخ بهره بانکی هزینه بازپرداخت بدهی شرکت‌ها را کاهش می‌دهد و سودآوری آن‌ها را بالا می‌برد.",
+            "فعالان بازار سهام انتظار دارند با تزریق نقدینگی سود سهام به بازار، روند صعودی جدیدی شکل بگیرد."
+        ],
+        "impact": "شرکت‌های ساختمانی و بنگاه‌های پربدهی بیشترین سود را از سیاست‌های انبساطی پولی می‌برند.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2204273",
+        "clean_url": "https://tass.com/economy/2204273",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792423500.0
+    },
+    {
         "id": "b32ab96651",
         "title_fa": "پوشش زنده تحولات خاورمیانه و درگیری‌های منطقه‌ای",
         "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
@@ -5491,23 +5509,5 @@
         "clean_url": "https://www.iranintl.com/en/202610164534",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792095240.0
-    },
-    {
-        "id": "4e52e1460d",
-        "title_fa": "بررسی قانونی حمله احتمالی آمریکا به تاسیسات انرژی ای-ران",
-        "title_en": "Mother of All Bombs Iran: Can the US Lawfully Hit Energy Sites?",
-        "summary": [
-            "حقوقدانان آمریکایی ابعاد قانونی حمله احتمالی به زیرساخت‌های حیاتی انرژی ای-ران را زیر ذره‌بین بردند.",
-            "این بحث حقوقی در سایه احتمال بازگشت سیاست فشار حداکثری و گزینه نظامی داغ‌تر شده است."
-        ],
-        "impact": "افزایش نگرانی‌ها در بازارهای جهانی انرژی نسبت به درگیری نظامی مستقیم.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Diplomacy and Law",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xME9pMk5xeDJRVHQtc29yeEFHcERFTWJoR3RHTEhWTHRjNVFNc3JiMG1LZzc2WGoxYUY5SnJpbloxV2daY0xFdnNyemVVcVE2bm5ES3hibEozdXVjT2llei1Qd1FUb3FXSFp1d3dR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xME9pMk5xeDJRVHQtc29yeEFHcERFTWJoR3RHTEhWTHRjNVFNc3JiMG1LZzc2WGoxYUY5SnJpbloxV2daY0xFdnNyemVVcVE2bm5ES3hibEozdXVjT2llei1Qd1FUb3FXSFp1d3dR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792092652.0
     }
 ]
