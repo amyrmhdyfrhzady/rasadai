@@ -296,6 +296,25 @@
         "timestamp": 1792395072.615767
     },
     {
+        "id": "4414b05466",
+        "title_fa": "اعتراضات اروپا معلول بحران داخلی است نه دخالت خارجی",
+        "title_en": "Blaming external forces for protests in Europe would be wrong, expert says",
+        "summary": [
+            "ریشه اعتصاب‌ها و اعتراضات در اروپا به سیاست‌های نادرست دولت‌های این قاره برمی‌گردد.",
+            "مقام‌های اروپایی برای سرپوش گذاشتن بر مشکلات اقتصادی، تلاش می‌کنند بحران را به بیرون از مرزها نسبت دهند.",
+            "نارضایتی‌های انباشته‌شده می‌تواند به تغییرات ساختاری در سپهر سیاسی اروپا منجر شود."
+        ],
+        "impact": "فشار بر دولت‌های اروپایی برای بازنگری در سیاست‌های داخلی و اقتصادی افزایش می‌یابد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2204155",
+        "clean_url": "https://tass.com/world/2204155",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792392120.0
+    },
+    {
         "id": "7689d3bfd7",
         "title_fa": "دوراهی جنگ و توافق؛ سرنوشت مبهم درگیری‌ها",
         "title_en": "Between Renewed Confrontation and a Negotiated Settlement: The Fate of a War That Was Never Meant to Last",
@@ -5493,24 +5512,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFp5ZDZxMXFRTUZ5NUtPYmI3Z29SYjJjQXgwQzh5NTFiMy1DUkJKbmJpZThBRmdjUDJMYmpEVzRobzgyZ081LTljZHNDeVZMQ2dUd2JNb1ZsVjFrR3BDODA3eVQ4SXZYQnRKQlUtc1BjR242ZktNY0lkUFRNcVJwQ2h4SGlRMWQzSDFiYnp5WFBaUjg4RHRV",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792082899.0
-    },
-    {
-        "id": "a0735a3387",
-        "title_fa": "مسدودسازی کانال‌های مالی ج.ا با پوشش نهادهای مذهبی",
-        "title_en": "Iran army chief says Hormuz to remain closed until Iran’s rights respected",
-        "summary": [
-            "خزانه‌داری آمریکا به بانک‌ها دستور داد مراقب سوءاستفاده حکومت از موسسات خیریه مذهبی و وجوه شرعی باشند.",
-            "حکومت از شبکه‌های حواله و انتقال نقدی برای تامین مالی نیابتی‌ها و مقامات ارشد استفاده می‌کند.",
-            "اسکات بسنت تاکید کرد دولت ترامپ اجازه نمی‌줄د تهران از نهادهای مذهبی برای تامین تروریسم بهره‌برداری کند."
-        ],
-        "impact": "فلج شدن مسیرهای پنهان مالی ج.ا و قطع شریان‌های ارزی وابسته به نهادهای مذهبی حکومتی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610159542",
-        "clean_url": "https://www.iranintl.com/en/202610159542",
-        "image": "http://www.bing.com/th?id=ONUT.RjfrekQoYeggejWtt21pzQ&pid=News",
-        "timestamp": 1792080480.0
     }
 ]
