@@ -1,5 +1,23 @@
 [
     {
+        "id": "5ee07de8fe",
+        "title_fa": "اجماع حاکمیت و اپوزیسون اسرائیل علیه خطر اتمی",
+        "title_en": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
+        "summary": [
+            "جناح مخالف در اسرائیل مواضعی به مراتب تندتر و جنگ‌طلب‌تر از نتانیاهو در قبال تهران دارد.",
+            "تمام طیف‌های سیاسی در تل‌آویو روی ضرورت مهار برنامه اتمی و گروه‌های نیابتی اتفاق نظر کامل دارند."
+        ],
+        "impact": "بسته‌شدن هرگونه روزنه دیپلماتیک و افزایش احتمال ضربه پیشگیرانه نظامی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo News Canada",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CUDBvUlRzQ2p6STEyZ1NhX2RsaVVEMXEzekRhaXNUcVJTUjNTQ1lsUEVwVlN2WDItbjEzS3NjcmNDX285dHdsSFVmMmFyeFJEc3VnRmNkYWxWZ1kteGhnUkdaUDA4MC1hZzJNNUV5Y2liZFNrZkFEZ1NDWWViUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CUDBvUlRzQ2p6STEyZ1NhX2RsaVVEMXEzekRhaXNUcVJTUjNTQ1lsUEVwVlN2WDItbjEzS3NjcmNDX285dHdsSFVmMmFyeFJEc3VnRmNkYWxWZ1kteGhnUkdaUDA4MC1hZzJNNUV5Y2liZFNrZkFEZ1NDWWViUQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792409752.0
+    },
+    {
         "id": "d84654fe7e",
         "title_fa": "فروپاشی سیستم درمانی؛ هزینه بستری فراتر از حقوق ماهانه کارگران",
         "title_en": "Iran's Intelligence Ministry arrests 39 over January protests",
@@ -481,6 +499,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeVZrS0FfMVJoWjI3eEZRc3ZyZjZhSUxCeVdqYzc3Vnk1RlUzQWZBSXBKRDZ5NVVZc0pHamFFNXlWUzNBc1JfZ0F4dnVINzJHMjFmMmZ5LXlJZXAtN3RwNUJ3b01aanJoS0kyTTRRWVV1UUJrNHc1YS1IeVRqWXJTVVNIbVNfQWc4dWU1cWZWc2Z1UTdvXzNuV1Z3aVpJakhVaWN3MXF2RWJSNUJoSnBwcnQyUFJzZTRxWExONlNRNC14ZzgyYjNXZHBRazNsbF9wdzh3V1NTdWpaODdleDNnOEF6emlXeHFHSENZWjU3WnlUVWJqSERN",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792364100.0
+    },
+    {
+        "id": "5d3ac7838b",
+        "title_fa": "سفر لاوروف به تهران همزمان با تشدید سرکوب مجازی",
+        "title_en": "Russian foreign minister arrives in Tehran for talks with Iranian officials",
+        "summary": [
+            "وزیر خارجه روسیه برای دیدار با مقام‌های ایران وارد تهران شد.",
+            "حکومت با ارسال پیامک‌های تهدیدآمیز انبوه، به دنبال ایجاد ارعاب میان کاربران شبکه‌های اجتماعی است.",
+            "سیستم امنیتی حتی برای افرادی که حضور آنلاین ندارند نیز پیام هشدار می‌فرستد که نشان‌دهنده کور بودن نظارت‌هاست."
+        ],
+        "impact": "تلاش هم‌زمان برای ائتلاف با مسکو و تشدید اختناق داخلی برای مهار اعتراضات آنلاین.",
+        "tag": "امکانی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610197743",
+        "clean_url": "https://www.iranintl.com/en/202610197743",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792361100.0
     },
     {
         "id": "85d3a84d6c",
@@ -5474,41 +5511,5 @@
         "clean_url": "https://www.politico.com/news/2026/10/15/trump-defense-budget-loss-01120994",
         "image": "http://www.bing.com/th?id=ONUT.d53AvEjojz-HFGqU21cSbA&pid=News",
         "timestamp": 1792070940.0
-    },
-    {
-        "id": "a0f8a1f534",
-        "title_fa": "ورود عربستان به فاز جدیدی از تنش با تئران",
-        "title_en": "The Saudi Phase of the Iran War Signals More Chaos to Come",
-        "summary": [
-            "ورود ریاض به معادله درگیری‌ها دور تازه‌ای از بی‌ثباتی را رقم می‌زند.",
-            "تغییر موازنه‌ها در منطقه پیامدهای سنگینی برای جبهه نیابتی جـمهوری اسـلامی دارد."
-        ],
-        "impact": "افزایش ریسک امنیتی و تشدید بحران‌های منطقه‌ای پیرامون تهران.",
-        "tag": "منطقه‌ای",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The Nation",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVRMU2c4UHBLUXZ5ekVSQmtQZks1VERMQ2J4aDhFMEV4ek1HRlNkRms2R3p4aWN5VFFQMUZOeXo5OHFFS2V4M29lZFB0c2VkR0RTbFFCNF9kRXdyYlVSenhTeXVIOG5YZGhMOENuVVJiSkNYOGpSLXhhczR3ZEZ1MmhR0gGKAUFVX3lxTE8teW95T3VzR2RRUWZLZG9kcEpKbXNjdjdhZEJHcENyTEV6QmFDQU9VNWpsWEMtZWxvZjBsTlBjWm9oX3ZjaVg2cklzU0JqMHlCUzY1VmM4R2Vyczl0V2dUaHA5R0taRDBJZ1U4d3p5MkRFQnl3eTlOTF9ieG5sc2stR3pmNjRSaXJJdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVRMU2c4UHBLUXZ5ekVSQmtQZks1VERMQ2J4aDhFMEV4ek1HRlNkRms2R3p4aWN5VFFQMUZOeXo5OHFFS2V4M29lZFB0c2VkR0RTbFFCNF9kRXdyYlVSenhTeXVIOG5YZGhMOENuVVJiSkNYOGpSLXhhczR3ZEZ1MmhR0gGKAUFVX3lxTE8teW95T3VzR2RRUWZLZG9kcEpKbXNjdjdhZEJHcENyTEV6QmFDQU9VNWpsWEMtZWxvZjBsTlBjWm9oX3ZjaVg2cklzU0JqMHlCUzY1VmM4R2Vyczl0V2dUaHA5R0taRDBJZ1U4d3p5MkRFQnl3eTlOTF9ieG5sc2stR3pmNjRSaXJJdw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792069590.0
-    },
-    {
-        "id": "666e4addbe",
-        "title_fa": "فشار حداکثری ترامپ و نفس‌تنگی اقتصاد ایران",
-        "title_en": "Can Trump Strangle Iran's Economy?",
-        "summary": [
-            "اقتصاد ایران با سرعتی بالا به سمت فروپاشی تدریجی حرکت می‌کند.",
-            "مقام‌های جـمهوری اسـلامی به دنبال راه‌حل‌های سیاسی برای نجات از بحران‌های عمیق اقتصادی هستند."
-        ],
-        "impact": "تشدید فشارها توان مانور اقتصادی و منطقه‌ای حکومت را به شدت کاهش داده است.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/arielcohen/2026/10/15/can-trump-strangle-irans-economy/",
-        "clean_url": "https://www.forbes.com/sites/arielcohen/2026/10/15/can-trump-strangle-irans-economy",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6ad05fe404b80d4258f6b5a6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "timestamp": 1792069200.0
     }
 ]
