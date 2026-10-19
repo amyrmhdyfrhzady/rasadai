@@ -92,6 +92,25 @@
         "timestamp": 1792437816.0
     },
     {
+        "id": "2067406f63",
+        "title_fa": "اعتراضات سراسری بازنشستگان و بحران عمیق اقتصادی در کشور",
+        "title_en": "Retirees Protest in Iran as Regime Infighting Turns More Dangerous",
+        "summary": [
+            "بازنشستگان مخابرات و مالباختگان در چندین شهر با سر دادن شعارهایی علیه نهادهای قدرت، خواستار احقاق حقوق خود شدند.",
+            "اعتراض به فروپاشی قدرت خرید و نابودی ارزش ریال در برابر دلار، محور اصلی تجمع معترضان بود.",
+            "رئیس مرکز پژوهش‌های مجلس ج.ا نسبت به ناترازی بانکی، کسری بودجه و تورم ویرانگر هشدار داد."
+        ],
+        "impact": "گسترش اعتصابات و اعتراضات معیشتی، شکاف میان مردم و ساختار حاکم را عمیق‌تر می‌کند.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "National Council of Resistance of Iran",
+        "url": "https://www.ncr-iran.org/en/news/economy/retirees-protest-in-iran-as-regime-infighting-turns-more-dangerous/",
+        "clean_url": "https://www.ncr-iran.org/en/news/economy/retirees-protest-in-iran-as-regime-infighting-turns-more-dangerous",
+        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2025/12/iran-bazaar.jpg",
+        "timestamp": 1792436940.0
+    },
+    {
         "id": "62c27b533b",
         "title_fa": "تأثیر کاهش نرخ بهره بر بازار بورس روسیه",
         "title_en": "Developers to benefit most from potential rate cut, lawmaker says",
@@ -5491,23 +5510,5 @@
         "clean_url": "https://www.tf1.fr/tf1/jt-20h/videos/conflit-ukraine-russie-la-strategie-de-donald-trump-07743622.html",
         "image": "https://www.bing.com/th?id=ONUT.DT3allbyaMIn0iPzN4hjkg",
         "timestamp": 1792107665.6094685
-    },
-    {
-        "id": "eac54e1f0e",
-        "title_fa": "هدف‌گیری شبکه‌های مالی حکومت توسط خزانه‌داری آمریکا",
-        "title_en": "Iran envoy says US pressure and ultimatums will not produce results",
-        "summary": [
-            "شبکه کنترل جرایم مالی آمریکا به نهادهای مالی درباره سوءاستفاده از نهادهای مذهبی و وجوه شرعی توسط حاکمیت ایران هشدار داد.",
-            "وزیر خزانه‌داری آمریکا تاکید کرد دولت ترامپ به ج.م اجازه نمی‌دهد از پوشش نهادهای مذهبی برای تامین مالی تروریسم استفاده کند."
-        ],
-        "impact": "مسدود شدن کانال‌های پنهان مالی و صرافی‌های غیررسمی وابسته به نهادهای حکومتی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610160169",
-        "clean_url": "https://www.iranintl.com/en/202610160169",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792107540.0
     }
 ]
