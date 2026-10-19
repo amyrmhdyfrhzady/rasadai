@@ -405,6 +405,25 @@
         "timestamp": 1792387921.0
     },
     {
+        "id": "ffe640280e",
+        "title_fa": "بحران در نظام پزشکی و فروپاشی قدرت خرید مردم",
+        "title_en": "Furnace explosion at western Iran steel plant kills Chinese manager",
+        "summary": [
+            "هزینه یک شب درمان در بخش خصوصی از دستمزد یک ماه کارگران بیشتر است.",
+            "کمبود پزشک متخصص در بیمارستان‌های دولتی و بحران کمبود پرستار فشار سنگینی بر مردم وارد کرده است.",
+            "سقوط ارزش ریال و تورم سرسام‌آور دسترسی به خدمات اولیه درمانی را برای طبقه متوسط و ضعیف ناممکن کرده است."
+        ],
+        "impact": "بحران سلامت و درمان به نقطه هشدار رسیده و هزینه‌های سرسام‌آور پزشکی فشار مالی مرگباری بر خانواده‌ها تحمیل کرده است.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610193569",
+        "clean_url": "https://www.iranintl.com/en/202610193569",
+        "image": "http://www.bing.com/th?id=ONUT.NmetgA7z2-nSNvYFnllteg&pid=News",
+        "timestamp": 1792387860.0
+    },
+    {
         "id": "bef8c4cb9f",
         "title_fa": "بحران انرژی در آسیا و پیوستن رومانی به ائتلاف بین‌المللی",
         "title_en": "30 Ianuarie 2026",
@@ -5492,24 +5511,6 @@
         "url": "https://jewishinsider.com/2026/10/susan-collins-troy-jackson-congress-funding-iran-war/",
         "clean_url": "https://jewishinsider.com/2026/10/susan-collins-troy-jackson-congress-funding-iran-war",
         "image": "https://image.jewishinsider.com/wp-content/uploads/2026/09/29171947/GettyImages-2294685975-scaled.jpg",
-        "timestamp": 1792083660.0
-    },
-    {
-        "id": "0ca85451c5",
-        "title_fa": "شکست تلاش جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی در بستن تنگه هرمز",
-        "title_en": "Iran’s ability to weaponize Hormuz ‘significantly undermined’",
-        "summary": [
-            "صادرات نفت خاورمیانه علی‌رغم حملات به نفت‌کش‌ها از سطح قبل از جنگ هم فراتر رفته است.",
-            "اقدامات نظامی سنتکام شامل اسکورت دریایی و عملیات مین‌زدایی، سناریوی گروگان‌گیری بازار انرژی را خنثی کرد."
-        ],
-        "impact": "ناتوانی ماشین جنگی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی در مختل کردن شریان حیاتی نفت جهان.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "Jewish News Syndicate",
-        "url": "https://www.jns.org/analysis/irans-ability-to-weaponize-hormuz-significantly-undermined",
-        "clean_url": "https://www.jns.org/analysis/irans-ability-to-weaponize-hormuz-significantly-undermined",
-        "image": "http://www.bing.com/th?id=ONUT.RfOckEHNCjgThXuvuqbEpw&pid=News",
         "timestamp": 1792083660.0
     }
 ]
