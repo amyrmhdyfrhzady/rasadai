@@ -548,6 +548,25 @@
         "timestamp": 1792395480.0
     },
     {
+        "id": "4b529fb705",
+        "title_fa": "بسته شدن تنگه هرمز و جهش قیمت نفت به ۱۱۰ دلار",
+        "title_en": "Global Market Report October 19, 2026",
+        "summary": [
+            "سپاه پاسداران با اعلام مین‌گذاری و آتش گرفتن دو نفت‌کش، عملاً بسته شدن تنگه هرمز را کلید زد.",
+            "آمارهای شرکت کپلر نشان می‌دهد عبور نفت از این معبر حیاتی با سقوط ۸۶ درصدی به زیر ۳ میلیون بشکه در روز رسیده است.",
+            "شاخص نفت برنت با رسیدن به آستانه ۱۱۰ دلار، بازار جهانی انرژی را وارد شوک سنگینی کرده است."
+        ],
+        "impact": "فلج شدن صادرات نفت منطقه و جهش بی‌سابقه هزینه‌های انرژی در بازارهای جهانی.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "note",
+        "url": "https://note.com/hirokimiyano/n/n0be6fc510466?hl=en",
+        "clean_url": "https://note.com/hirokimiyano/n/n0be6fc510466",
+        "image": "https://assets.st-note.com/production/uploads/images/325943833/rectangle_large_type_2_99ce6342e767abba374158ee61358cae.png?fit=bounds&quality=85&width=1280",
+        "timestamp": 1792395300.0
+    },
+    {
         "id": "c409d9313f",
         "title_fa": "خط و نشان روبیو برای تهران در حاشیه تور آسیایی",
         "title_en": "رسائل تصعيدية لطهران وتأكيد دعم أوكرانيا.. روبيو يقود جولة اقتصادية لتوسيع النفوذ الأميركي في آسيا",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tLXgwNmlnU0ZPLXNHM1JMd1Z2UUNvWUd5WEN3a1N6MVI4TkxaWjhPbHFsLTdMTE1HYU15VEczeFJfaDAtd29Hc3JLMTJ1U2ZPZ2l6UWtSNVBXUUZZRExUc1RiMHNSelR3Y3NiZG53",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792103483.0
-    },
-    {
-        "id": "3ed57c3a06",
-        "title_fa": "خسارت‌های جنگ به زیرساخت‌های انرژی خلیج فارس",
-        "title_en": "Here’s a List of Gulf Energy Infrastructure Damaged in Iran War",
-        "summary": [
-            "گزارش‌ها از آسیب دیدن تاسیسات حیاتی انرژی در منطقه خلیج فارس به دلیل درگیری‌های نظامی خبر می‌دهند.",
-            "این خسارت‌ها زنجیره تامین انرژی را مختل کرده و بازار جهانی را در وضعیت هشدار قرار داده است."
-        ],
-        "impact": "افزایش شدید بهای انرژی و شوک به بازارهای جهانی نفت و گاز.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792103426.0
     }
 ]
