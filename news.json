@@ -368,6 +368,25 @@
         "timestamp": 1792425141.0
     },
     {
+        "id": "7080a09fca",
+        "title_fa": "افشاگری ترامپ از کشتار ۷۵ هزار معترض توسط جـ.م",
+        "title_en": "Live Updates: Trump accuses Iran of killing over 75,000 protesters as Israel, US consider renewing strikes",
+        "summary": [
+            "دونالد ترامپ با اشاره به سرکوب خونین معترضان، آمار تکان‌دهنده‌ای از قربانیان ماه‌های گذشته ارائه داد.",
+            "واشنگتن و تل‌آویو گزینه از سرگیری حملات علیه اهداف مرتبط با حکومت را روی میز بررسی دارند.",
+            "حضور مسلسل‌ها در خیابان‌ها دلیل اصلی فروکش کردن اعتراضات خیابانی عنوان شده است."
+        ],
+        "impact": "افزایش فشار حداکثری و همگرایی نظامی آمریکا و اسرائیل برای اقدام علیه حـ.کـ.و‌مـ.ت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-20/live-updates-912229",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-20/live-updates-912229",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742544",
+        "timestamp": 1792423680.0
+    },
+    {
         "id": "62c27b533b",
         "title_fa": "تأثیر کاهش نرخ بهره بر بازار بورس روسیه",
         "title_en": "Developers to benefit most from potential rate cut, lawmaker says",
@@ -5494,23 +5513,5 @@
         "clean_url": "https://www.cfr.org/articles/the-victory-of-asymmetry-in-the-iran-war",
         "image": "http://www.bing.com/th?id=ONUT.1BimAC4u76fQ9OyJVGp_eA&pid=News",
         "timestamp": 1792130160.0
-    },
-    {
-        "id": "8ca1daa1e5",
-        "title_fa": "یورش شهرک‌نشینان افراطی به کرانه باختری و تخریب باغات",
-        "title_en": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
-        "summary": [
-            "حمله افراد نقاب‌پوش به مناطق مسکونی فلسطینی‌ها در کرانه باختری",
-            "آتش زدن درختان زیتون و زخمی شدن خبرنگار در درگیری‌های اخیر"
-        ],
-        "impact": "تشدید تنش‌ها و خشونت‌های میدانی در اراضی اشغالی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack/ar-AA2enJFE",
-        "clean_url": "https://www.msn.com/en-ca/news/other/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack/ar-AA2enJFE",
-        "image": "http://www.bing.com/th?id=ONUT.KDp0R0kEw4GVvV8aGXiHFQ&pid=News",
-        "timestamp": 1792127489.0
     }
 ]
