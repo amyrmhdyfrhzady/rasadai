@@ -91,6 +91,24 @@
         "timestamp": 1792509262.0
     },
     {
+        "id": "4cbe549a61",
+        "title_fa": "تداوم حملات مرگبار در غزه با کشته شدن ۴ نفر",
+        "title_en": "Israeli fire kills four people in Gaza, medics say",
+        "summary": [
+            "تنش‌های میدانی در غزه همچنان با تلفات انسانی همراه است و ماشین جنگی اسرائیل بدون وقفه به عملیات خود ادامه می‌دهد.",
+            "این‌گونه حملات نشان می‌دهد که هیچ چشم‌انداز روشنی برای آتش‌بس در کوتاه‌مدت وجود ندارد و وضعیت انسانی در منطقه وخیم‌تر شده است."
+        ],
+        "impact": "افزایش تنش‌های منطقه‌ای و پیچیده‌تر شدن مذاکرات برای توقف درگیری‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/10/20/israeli-fire-kills-four-people-in-gaza-medics-say",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/10/20/israeli-fire-kills-four-people-in-gaza-medics-say",
+        "image": "https://vid.alarabiya.net/images/2026/10/20/823631ce-baca-412d-9313-ff5d275a7ac5/823631ce-baca-412d-9313-ff5d275a7ac5_16x9_600x338.JPG",
+        "timestamp": 1792508820.0
+    },
+    {
         "id": "51430e5769",
         "title_fa": "میانجی‌گری ارتش پاکستان میان واشنگتن و تـهران",
         "title_en": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
@@ -5488,23 +5506,5 @@
         "clean_url": "https://news24online.com/world/iran-running-out-of-money-us-blockade-triggers-usd-25-billion-oil-loss-usd-350-million-crypto-freeze-as-militias-divert-funds-to-irgc/943873",
         "image": "https://news24online.com/wp-content/uploads/2026/10/iran-us-war.jpg",
         "timestamp": 1792189200.0
-    },
-    {
-        "id": "3e05234735",
-        "title_fa": "معامله دیزلی ترامپ و دردسرهای جدید برای اوکراین",
-        "title_en": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-        "summary": [
-            "توافق ترامپ با پوتین برای فروش گازوئیل روسیه به بازارهای جهانی، موقعیت ولودیمیر زلنسکی در آستانه زمستان را تضعیف کرده است.",
-            "این توافق اگرچه سود مالی محدودی برای کرملین دارد، اما پیام سیاسی روشنی درباره کاهش اتکای کی‌یف به واشنگتن ارسال می‌کند."
-        ],
-        "impact": "تردید در پایداری حمایت‌های نظامی آمریکا از اوکراین و تقویت جایگاه مسکو در جنگ انرژی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-        "clean_url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-        "image": "http://www.bing.com/th?id=ONUT.uBoDYhYa5WyY-R97wlBJGw&pid=News",
-        "timestamp": 1792188000.0
     }
 ]
