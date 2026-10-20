@@ -19,6 +19,24 @@
         "timestamp": 1792504431.0
     },
     {
+        "id": "9ca3d4b298",
+        "title_fa": "هشدار مستقیم ترامپ به پکن و مسکو درباره ایر_ان",
+        "title_en": "Trump Warns China, Russia Against Involvement in Iran War",
+        "summary": [
+            "دونالد ترامپ با لحنی صریح به چین و روسیه اخطار داد که از هرگونه دخالت در مناقشه پیش‌رو دوری کنند.",
+            "این موضع‌گیری نشان می‌دهد واشنگتن قصد دارد هرگونه شریان حمایتی اقتصادی و نظامی به جبهه مقا_ومت را کاملاً قطع کند."
+        ],
+        "impact": "افزایش ریسک همکاری‌های تجاری پکن و مسکو با تهران زیر سایه تهدیدات آمریکا",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZwd3g5MVF5U0Myc2tTamFTOW1mNjBGdm5PZWdsaXc0Ym5IbktKYmlNUlo3WmJiOUVRYlJiYjJSSkFtWk1WTDFDd09MQjZjZEoxVWczelBjQ2NCMkE1NjFUck9pRXYzLWVfa0FrLTM4QmlGek1PNGNQZjZ6RlF0aEdUOC1PaDBGSDlJZ0RiYnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZwd3g5MVF5U0Myc2tTamFTOW1mNjBGdm5PZWdsaXc0Ym5IbktKYmlNUlo3WmJiOUVRYlJiYjJSSkFtWk1WTDFDd09MQjZjZEoxVWczelBjQ2NCMkE1NjFUck9pRXYzLWVfa0FrLTM4QmlGek1PNGNQZjZ6RlF0aEdUOC1PaDBGSDlJZ0RiYnM",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792502956.0
+    },
+    {
         "id": "6e065adc6c",
         "title_fa": "دفاع فرستاده آمریکا از مشارکت واشنگتن در درگیری با ج.ا",
         "title_en": "US envoy Barrack defends decision to join Israel in war on Iran",
@@ -5486,23 +5504,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFocGRSMmpaV3lZTXFET0ZZbHItdHZZajVBcWtiZTg4R2xDLVVBRzIyQ3NWSTZpRUUtSllFSE5Xa0UzTVFuMmh6UTBscGJWVXBtdTM5SzNhWWhkZjlDNmRMbmxwZ0pVQ3FRbnRTaGhzaUJEdlAxVlZlNmZTN3BzZTdURjZfSTVIdUxRR2JyUllpYkxxT3AxOU9BZm9VaWs",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792170718.0
-    },
-    {
-        "id": "f9a215b9ff",
-        "title_fa": "نه گفتن گوگل به رویای تغییر نام اقیانوس ترامپ",
-        "title_en": "Trump says Google rejected his idea to rename ocean after him",
-        "summary": [
-            "ترامپ در تجمع انتخاباتی گرجستان فاش کرد که شرکت گوگل درخواست او برای تغییر نام اقیانوس ا آرام یا اطلس به نام خودش را رد کرده است.",
-            "بر خلاف تغییر نام خلیج مکزیک و دریاچه انتاریو توسط دولت آمریکا، گوگل اعلام کرد که تغییر نام اقیانوس‌ها به دلیل وسعت جهانی آن‌ها امکان‌پذیر نیست."
-        ],
-        "impact": "چالش شرکت‌های بزرگ فناوری با خواسته‌های نامعمول دولت آمریکا در تغییر نقشه‌های جغرافیایی.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-says-google-rejected-idea-051826984.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-google-rejected-idea-051826984.html",
-        "image": "http://www.bing.com/th?id=ONUT.K5vvP4dxlb38iXkR72lgtQ&pid=News",
-        "timestamp": 1792170000.0
     }
 ]
