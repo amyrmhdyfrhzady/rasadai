@@ -477,6 +477,24 @@
         "timestamp": 1792435742.0
     },
     {
+        "id": "9a2e7dc6e9",
+        "title_fa": "تأکید عراقچی بر بی‌سابقه بودن همکاری‌های تهران و مسکو",
+        "title_en": "Iran foreign minister says Russia, Iran have ‘never’ worked so closely",
+        "summary": [
+            "عباس عراقچی از نزدیک‌ترین سطح همکاری تاریخ بین تهران و مسکو خبر داد.",
+            "سرгей لاوروف برای میانجیگری و بررسی همکاری‌های هسته‌ای و اقتصادی راهی ایران شد."
+        ],
+        "impact": "تثبیت محور تهران-مسکو در برابر فشارهای غرب و تحریم‌های بین‌المللی",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely",
+        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely",
+        "image": "http://www.bing.com/th?id=ONUT.w1oXA91inyueA3w9kfH1Ug&pid=News",
+        "timestamp": 1792432980.0
+    },
+    {
         "id": "001ef05856",
         "title_fa": "ضرورت بازنگری در زنجیره تامین تسلیحات آمریکا",
         "title_en": "Rethink the supply chain",
@@ -5491,23 +5509,5 @@
         "clean_url": "https://en.yenisafak.com/world/saudi-coalition-intercepts-cruise-missile-drones-over-kingdom-3724490",
         "image": "https://img.piri.net/piri/upload/3/2026/10/16/e3af006a-saudi-coalition-intercepts-cruise-missile-drones-over.webp",
         "timestamp": 1792144500.0
-    },
-    {
-        "id": "a186582b92",
-        "title_fa": "واکنش ترامپ به واگذاری کریمه توسط اوکراین",
-        "title_en": "Trump describes Crimea as 'most beautiful peace of land' Ukraine gave up",
-        "summary": [
-            "دونالد ترامپ کریمه را ارزشمندترین و زیباترین قطعه زمین اوکراین توصیف کرد که کی‌یف آن را از دست داد.",
-            "این اظهارات بار دیگر رویکرد غیرمتعارف رئیس‌جمهور آمریکا نسبت به مناقشات ارضی و جنگ اوکراین را برجسته می‌کند."
-        ],
-        "impact": "تغییر احتمالی در رویکرد دیپلماتیک آمریکا نسبت به موازنات جنگ اوکراین.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2202919",
-        "clean_url": "https://tass.com/world/2202919",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261016/1490029.jpg",
-        "timestamp": 1792143840.0
     }
 ]
