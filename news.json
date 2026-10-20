@@ -199,6 +199,25 @@
         "timestamp": 1792473919.0
     },
     {
+        "id": "11a1a6db38",
+        "title_fa": "بازی خطرناک تـهران در تنگه هرمز علیه تـرامپ",
+        "title_en": "Iran's leaders reportedly eye US midterm elections: 'They think they can bring down a presidency'",
+        "summary": [
+            "حکومت با مین‌گذاری و حمله به نفت‌کش‌ها در تنگه هرمز تلاش می‌کند قیمت نفت را بالا ببرد.",
+            "هدف اصلی این سناریوی پرهزینه، اثرگذاری بر انتخابات میادترم آمریکا و ضربه زدن به دولت دونالد ترامپ است.",
+            "ارتش آمریکا با بهره‌گیری از جنگنده‌ها و پهپادها مانع از قطع جریان صادرات نفت از خلیج فارس شده است."
+        ],
+        "impact": "تنش در آب‌های جنوبی افزایش یافته اما ارتش آمریکا توانسته امنیت عبور کشتی‌ها را حفظ کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/syvzmav2fx",
+        "clean_url": "https://www.ynetnews.com/article/syvzmav2fx",
+        "image": "http://www.bing.com/th?id=ONUT.euxCDklCZ_5eI0ZU1bp1Bw&pid=News",
+        "timestamp": 1792472760.0
+    },
+    {
         "id": "91715cc773",
         "title_fa": "سفر محرمانه وزیر دفاع آمریکا به تل‌آویو آستانه انتخابات",
         "title_en": "Hegseth meets Netanyahu ahead of elections, possible Iran war restart",
@@ -5486,23 +5505,5 @@
         "clean_url": "https://www.iranintl.com/en/202610162840",
         "image": "http://www.bing.com/th?id=ONUT.m0YHH_YR-LLy-zk95Yi_8Q&pid=News",
         "timestamp": 1792157340.0
-    },
-    {
-        "id": "519ac45a26",
-        "title_fa": "فروپاشی کارایی بازار جهانی نفت در سایه جنگ‌های سیاسی و اقتصادی",
-        "title_en": "Global crude oil market is not efficient anymore — Russian presidential advisor",
-        "summary": [
-            "مشاور رئیس‌جمهور روسیه اعلام کرد بازار جهانی نفت دیگر کارایی گذشته را ندارد و به میدان یک جنگ تمام‌عیار سیاسی و اقتصادی تبدیل شده است.",
-            "این بازار با وجود حجم کوچک‌تر نسبت به بازار بدهی، به دلیل سیاست‌زدگی از اهمیت اطلاعاتی بالایی برخوردار است."
-        ],
-        "impact": "افزایش بی‌ثباتی و اثرگذاری فاکتورهای سیاسی بر بهای انرژی در سطح جهان",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2203085",
-        "clean_url": "https://tass.com/economy/2203085",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792156560.0
     }
 ]
