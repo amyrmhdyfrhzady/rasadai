@@ -455,6 +455,24 @@
         "timestamp": 1792464000.0
     },
     {
+        "id": "262a58481d",
+        "title_fa": "افشای آمار واقعی تلفات ناوگان هوایی ایران",
+        "title_en": "Iran has not entered nuclear talks with US, spokesman says",
+        "summary": [
+            "نزدیک به نیمی از ناوگان فرسوده هوایی از چرخه عملیاتی خارج شده است.",
+            "فشار تحریم‌ها و جنگ، تعمیر و تامین قطعات هواپیماها را غیرممکن کرده است."
+        ],
+        "impact": "فلج شدن بیشتر حمل‌ونقل هوایی و انزوای لجستیکی کشور.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610207623",
+        "clean_url": "https://www.iranintl.com/en/202610207623",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792463640.0
+    },
+    {
         "id": "86f46e99d7",
         "title_fa": "ادعای سپاه درباره ناتوانی آمریکا برای جنگ جدید",
         "title_en": "US 'exhausted and worn out', lacks capability to launch new conflict: IRGC",
@@ -5485,23 +5503,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ2lrd205blVWMEdDbWNTRlpQbHRUaExIV0tSNlVRcFRnQVhLaWI3VEpLVi1NMHB5cWlleDV4UHhNdnpScEI4aFQ2R1p1ZUNkSXc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792165598.0
-    },
-    {
-        "id": "a22d953663",
-        "title_fa": "محکومیت جهانی ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی در اروپا",
-        "title_en": "EU leaders condemn Iran over attacks and executions",
-        "summary": [
-            "رهبران اتحادیه اروپا بیانیه‌ای تند علیه موج اعدام‌ها و اقدامات تهاجمی ج-م-ه-و-ر-ی ا-س-ل-ا-می صادر کردند.",
-            "این موضع‌گیری نشان‌دهنده انزوای بیشتر حاکمیت در مجامع بین‌المللی است."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و هموار شدن مسیر برای تحریم‌های حقوق بشری جدید.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Newsmax on MSN",
-        "url": "https://www.msn.com/en-us/news/other/eu-leaders-condemn-iran-over-attacks-and-executions/ar-AA2eoTHw",
-        "clean_url": "https://www.msn.com/en-us/news/other/eu-leaders-condemn-iran-over-attacks-and-executions/ar-AA2eoTHw",
-        "image": "http://www.bing.com/th?id=ONUT.iFN-8xJ3NJIN6IeC4yjREg&pid=News",
-        "timestamp": 1792162278.0
     }
 ]
