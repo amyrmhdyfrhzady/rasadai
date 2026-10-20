@@ -257,6 +257,25 @@
         "timestamp": 1792436820.0
     },
     {
+        "id": "a9d2d7718a",
+        "title_fa": "تهدید متقابل تهران و هشدار ترامپ به اروپا",
+        "title_en": "US-Iran war news: Tehran seeks emergency UN meeting over US, Israel’s relentless threats; Trump issues warning to Europe",
+        "summary": [
+            "تهران درخواست برگزاری نشست اضطراری سازمان ملل را مطرح کرد تا به تهدیدات پی در پی آمریکا و اسرائیل واکنش نشان دهد.",
+            "یکی از مشاوران بیت رهبری هشدار داد که در صورت حمله دوباره به مواضع نظامی، ۹ کشور هدف قرار خواهند گرفت.",
+            "دونالد ترامپ نیز در موضعی تازه، هشدارهایی را متوجه اروپا کرد که ابعاد فشارها را بیشتر می‌کند."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی و بالا گرفتن تنش‌های دیپلماتیک و منطقه‌ای.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ET Now on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-tehran-seeks-emergency-un-meeting-over-us-israel-s-relentless-threats-trump-issues-warning-to-europe-top-6-developments/ar-AA2fCcxO",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-tehran-seeks-emergency-un-meeting-over-us-israel-s-relentless-threats-trump-issues-warning-to-europe-top-6-developments/ar-AA2fCcxO",
+        "image": "http://www.bing.com/th?id=ONUT.dmVigreBBnY93Ys0LBZOxA&pid=News",
+        "timestamp": 1792435742.0
+    },
+    {
         "id": "c4b703c25f",
         "title_fa": "فشار سنگین ترامپ و تهدید سپاه به قطع کابل‌های زیردریایی",
         "title_en": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack/ar-AA2enJFE",
         "image": "http://www.bing.com/th?id=ONUT.KDp0R0kEw4GVvV8aGXiHFQ&pid=News",
         "timestamp": 1792127489.0
-    },
-    {
-        "id": "e1247e0960",
-        "title_fa": "تشدید رقابت‌های انتخاباتی آمریکا و صف‌آرایی ترامپ در جورجیا",
-        "title_en": "Live updates: Trump to rally for Georgia Senate candidate Mike Collins",
-        "summary": [
-            "سفر دونالد ترامپ به جورجیا برای حمایت از نامزد جمهوری‌خواه",
-            "بالا گرفتن درگیری‌های لفظی میان نامزدهای سنا در ایالت‌های کلیدی بر سر مسائل مختلف"
-        ],
-        "impact": "افزایش قطبی‌سازی سیاسی در آستانه کارزارهای انتخاباتی ایالات متحده",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-georgia-rally-senate-2026-midterm-congress-iran-live-updates-rcna603802",
-        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-georgia-rally-senate-2026-midterm-congress-iran-live-updates-rcna603802",
-        "image": "http://www.bing.com/th?id=ONUT.YFOrG-BOBQFmfr36c8cPng&pid=News",
-        "timestamp": 1792126980.0
     }
 ]
