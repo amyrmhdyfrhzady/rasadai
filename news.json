@@ -236,6 +236,25 @@
         "timestamp": 1792491480.0
     },
     {
+        "id": "7f1686d2a5",
+        "title_fa": "مصادره املاک روسیه در نروژ به سود اوکراین",
+        "title_en": "Norwegian court confiscates five Russian real estate properties in Oslo — paper",
+        "summary": [
+            "دادگاهی در نروژ حکم مصادره پنج ملک متعلق به دولت روس را صادر کرد.",
+            "این اقدام به دنبال شکایت شرکت انرژی اوکراینی نفت‌گاز به دلیل خسارت‌های جنگ انجام شد.",
+            "ارزش کل دعوای حقوقی با احتساب جریمه و هزینه‌ها به بیش از شش میلیارد دلار رسیده است."
+        ],
+        "impact": "تشدید فشارهای حقوقی و مالی اروپا بر دارایی‌های دولتی مسکو.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/society/2204885",
+        "clean_url": "https://tass.com/society/2204885",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792490520.0
+    },
+    {
         "id": "f4d135fbc6",
         "title_fa": "سفر فرمانده ارتش پاکستان به تهران در اوج تنش‌ها",
         "title_en": "Pakistan’s army chief arrives in Tehran amid US-Iran tensions",
@@ -5487,23 +5506,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52cDlod25TVmxrTjQ3bWFhNDBTcTY3MjF3d0JOMjRPRnVqMDhHSEhZTDQzdnVsRE5uTlFYUmYzcDIzYVhIVlZEVjAxMEtTdHhXeVE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792183406.0
-    },
-    {
-        "id": "9be0c5729d",
-        "title_fa": "انتقال پول از گروه های نیابتی برای نجات سپاه",
-        "title_en": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
-        "summary": [
-            "آمریکا از سرازیر شدن دلارهای گروه های نیابتی به سمت ساختار مالی سپاه خبر داد.",
-            "تهران برای دور زدن مشکلات مالی شدید و تامین هزینه های داخلی به منابع مالی خارج از مرزها متکی شده است."
-        ],
-        "impact": "تلاش مستمانه سیستم نظامی برای جبران کسری بودجه از طریق منابع گروه های نیابتی",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRy1kTkRzSFhZVkt4UXhBX2RQVEhpRlZqbnVSTUlhdzJLaDBBWkh3dDVfNFJPVVZFV2NRSk5VLUx0U0prcUtuU2ZBY1hTU0xyejRQY1RqYThGWXJBUUtSU0VkU1Z6RG9ZbDJ6bGRFV3V3OTBwLUF4NWFzWFJmZXR6X1htekNINzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRy1kTkRzSFhZVkt4UXhBX2RQVEhpRlZqbnVSTUlhdzJLaDBBWkh3dDVfNFJPVVZFV2NRSk5VLUx0U0prcUtuU2ZBY1hTU0xyejRQY1RqYThGWXJBUUtSU0VkU1Z6RG9ZbDJ6bGRFV3V3OTBwLUF4NWFzWFJmZXR6X1htekNINzQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792182375.0
     }
 ]
