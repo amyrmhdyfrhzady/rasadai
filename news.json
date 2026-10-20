@@ -640,6 +640,24 @@
         "timestamp": 1792401403.0
     },
     {
+        "id": "71c7c5538b",
+        "title_fa": "انتصاب چهره موشکی به وزارت دفاع با چاشنی تهدید آمریکا",
+        "title_en": "Iran appoints ‘Missile Man’ as defence minister",
+        "summary": [
+            "انتخاب یک مهندس ارشد موشکی که سال‌هاست تحت تحریم‌های بین‌المللی قرار دارد، پیام روشنی به غرب درباره آمادگی برای تنش نظامی است.",
+            "وزیر دفاع جدید با تهدید صریح ایالات متحده، خواستار خروج نیروهای آمریکایی از منطقه شد."
+        ],
+        "impact": "افزایش تنش‌های نظامی و سیگنال‌دهی مستقیم حکومت به غرب درباره استراتژی جنگ‌طلبانه جدید.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-appoints-missile-man-defence-161619282.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-appoints-missile-man-defence-161619282.html",
+        "image": "http://www.bing.com/th?id=ONUT.dZr-wlI30OcVBeYr-8e7ug&pid=News",
+        "timestamp": 1792401360.0
+    },
+    {
         "id": "c71ba788fc",
         "title_fa": "فشار سناتورهای دموکرات به پنتاگون درباره هزینه جنگ با ایران",
         "title_en": "Democratic senators demand Pentagon reveal 'true cost' of Iran war",
@@ -5492,25 +5510,6 @@
         "url": "https://www.foxnews.com/politics/personal-jabs-billionaire-donors-party-loyalty-fuel-heated-maine-senate-debate",
         "clean_url": "https://www.foxnews.com/politics/personal-jabs-billionaire-donors-party-loyalty-fuel-heated-maine-senate-debate",
         "image": "http://www.bing.com/th?id=ONUT.B2-OrpoBKD-CP13aLmBUtw&pid=News",
-        "timestamp": 1792116000.0
-    },
-    {
-        "id": "8fa8003f2c",
-        "title_fa": "فشار تورم و سایه جنگ بر زندگی مردم ایران",
-        "title_en": "Inside Iran, Economic Misery and Fears of Another US War",
-        "summary": [
-            "مردم در داخل کشور زیر بار گرانی فلج‌کننده و بحران شدید معیشتی دست و پا می‌زنند.",
-            "سایه سنگین درگیری‌های نظامی با آمریکا و اسرائیل، ترس از آینده را میان شهروندان دوچندان کرده است.",
-            "تداوم فشار اقتصادی و ناامیدی عمومی، شکاف میان جامعه و حاکمیت را عمیق‌تر کرده است."
-        ],
-        "impact": "فروپاشی قدرت خرید مردم و تشدید نارضایتی‌های عمومی در سایه تهدیدهای نظامی.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/iran-economic-crisis-us-war-ordinary-life-12574822",
-        "clean_url": "https://www.newsweek.com/iran-economic-crisis-us-war-ordinary-life-12574822",
-        "image": "http://www.bing.com/th?id=ONUT.JF8GUndkAlZT4kNUe_f1XA&pid=News",
         "timestamp": 1792116000.0
     }
 ]
