@@ -401,6 +401,25 @@
         "timestamp": 1792490476.0
     },
     {
+        "id": "30bbe5fb64",
+        "title_fa": "تهدید سپاه برای قطع کابل‌های اینترنت تنگه هرمز",
+        "title_en": "Iran threatens to cut Hormuz internet cables",
+        "summary": [
+            "مقام‌های سپاه پاسداران کابل‌های زیردریایی اینترنت در تنگه هرمز را اهداف نظامی مشروع توصیف کردند.",
+            "قطع این خطوط ارتباطی می‌تواند بازارهای مالی جهانی و سیستم بانکی بین‌المللی را به شدت مختل کند.",
+            "تهدیدات جدید جمهوری اسلامی در حالی مطرح می‌شود که تنش‌ها با آمریکا وارد فاز تازه‌ای شده است."
+        ],
+        "impact": "آسیب جدی به زیرساخت‌های ارتباطی و مالی جهان در صورت اقدام نظامی در تنگه هرمز.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-threatens-cut-hormuz-internet-165705932.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-threatens-cut-hormuz-internet-165705932.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/2554587a9b331d3bf98042fb2fd74a6331ce1fc90ccadb47fb717858dd7b13af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fc74ec52d9062782bbb9074225f3886a8.jpg",
+        "timestamp": 1792490220.0
+    },
+    {
         "id": "a4a7abc7bc",
         "title_fa": "بازی تبلیغاتی کاخ سفید با تصاویر جنگ و فیلم",
         "title_en": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips - ABC News",
@@ -5488,24 +5507,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGltUFRuUS1BMURfRS03WmV4dkprcE5rOER0YVozRERrYWVkYlJwZThQSVRHMVlFdlB0NUtfVC1ZQVk1Zm5JZllHb2hBUzhOMFJqMkl5LXBwRmxKMnRIY0s5c184VmVLRVVzYkIxMF9PSlBKLWpBWmhDTXJwaTEzelZfeEM4MUd6ODU1WXFMbnRIT1NaMWU2Wmc0LUhTSVgtbW42ctIBqgFBVV95cUxQOUZNOFlWUHFaRVlmRVBMS3FldGU0ci14NjEzS2hNT1dsbnp6YlJNX2ZyR1Iyck1hTlRYQW5UdVlJWlppMXpRNG9Fd296dXNod3dYdkFGOEpKT0lVTElQaWVveXZKLWFnSUt1Qmt1QjZIRUhfRERqNFpLZ1lnWjhVTi1VbjhRY0k3Und3ZHN5S0xXS3FKUjlkMmxiYU1BUFRrbjdXUHVMaVdyUQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792194403.0
-    },
-    {
-        "id": "8d134c4cac",
-        "title_fa": "شکاف عمیق در رابطه ترامپ و زلنسکی",
-        "title_en": "Trump and Zelensky's relationship close to breaking down — NYT",
-        "summary": [
-            "نیویورک تایمز از رسیدن رابطه دونالد ترامپ و ولودیمیر زلنسکی به آستانه فروپاشی خبر داد.",
-            "قطع احتمالی کمک‌های نظامی واشنگتن، ارتباطات ماهواره‌ای و داده‌های اطلاعاتی آمریکا، کی‌یف را در موقعیت بسیار خطرناکی قرار می‌دهد.",
-            "پایبندی نداشتن زلنسکی به خواسته‌های ترامپ درباره توقف حملات به تأسیسات نفتی روسیه، عامل اصلی این تنش جدی است."
-        ],
-        "impact": "قطع احتمالی حمایت‌های آمریکا، جبهه اوکراین را در برابر مسکو کاملاً بی‌پناه می‌کند.",
-        "tag": "بین‌الملل",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2203399",
-        "clean_url": "https://tass.com/world/2203399",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261017/1490127.jpg",
-        "timestamp": 1792193880.0
     }
 ]
