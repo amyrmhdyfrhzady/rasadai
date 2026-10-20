@@ -221,6 +221,24 @@
         "timestamp": 1792429200.0
     },
     {
+        "id": "5214cf3a6e",
+        "title_fa": "شکاف در تیم ترامپ؛ خودداری ونس از حمایت از نتانیاهو",
+        "title_en": "Vance declines to endorse Netanyahu in re-election bid",
+        "summary": [
+            "معاون رئیس‌جمهور آمریکا برخلاف ترامپ از نخست‌وزیر اسرائیل در انتخابات پیش‌رو حمایت نکرد.",
+            "این اختلاف موضع، زوایای متفاوتی از رویکرد دولتمردان آمریکایی نسبت به تحولات اسرائیل را نمایان می‌کند."
+        ],
+        "impact": "ایجاد ابهام در سطح حمایت‌های سیاسی واشنگتن از دولت تل‌آویو.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/vance-declines-to-endorse-netanyahu-in-re-election-bid/ar-AA2fBUlo",
+        "clean_url": "https://www.msn.com/en-us/news/other/vance-declines-to-endorse-netanyahu-in-re-election-bid/ar-AA2fBUlo",
+        "image": "http://www.bing.com/th?id=ONUT.ho5ZRbpwI01YTdzKoBAjSg&pid=News",
+        "timestamp": 1792428600.0
+    },
+    {
         "id": "7547b4c920",
         "title_fa": "بررسی احتمال حملات تازه آمریکا و اسرائیل به ایران",
         "title_en": "US, Israel weigh renewed strikes on Iran as experts warn renewed conflict may be inevitable",
@@ -255,6 +273,24 @@
         "clean_url": "https://tass.com/economy/2204273",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1792423500.0
+    },
+    {
+        "id": "c141bf3d0d",
+        "title_fa": "هشدار صریح مایک جانسون به کاخ سفید درباره امتیازدهی به مسکو",
+        "title_en": "Speaker Johnson warns WH of ‘unintended consequences’ of sanctions relief on Russia: ‘Putin cannot be trusted’",
+        "summary": [
+            "رئیس مجلس نمایندگان آمریکا نسبت به لغو تحریم‌های روسیه و پیامدهای خطرناک اعتماد به پوتین هشدار داد.",
+            "توقف اجرای قانون تحریم‌های روسیه و ایران توسط ترامپ، موجی از انتقادات دوحزبی را در واشنگتن به همراه داشته است."
+        ],
+        "impact": "شکاف میان تیم ترامپ و رهبران کنگره بر سر نحوه مواجهه اقتصادی با کرملین.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/19/us-news/speaker-johnson-warns-wh-of-unintended-consequences-of-sanctions-relief-on-russia-putin-cannot-be-trusted/",
+        "clean_url": "https://nypost.com/2026/10/19/us-news/speaker-johnson-warns-wh-of-unintended-consequences-of-sanctions-relief-on-russia-putin-cannot-be-trusted",
+        "image": "http://www.bing.com/th?id=ONUT.X_0D_sy2mVvAGrGQs65jpQ&pid=News",
+        "timestamp": 1792423320.0
     },
     {
         "id": "9fe0236053",
@@ -381,6 +417,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFBOVUNWU1RUSmlEMVZZempwdHMzOGt5dlJpUjJXOC12azJ4T0c3Yl9jZlJ0ZXdQUnFaQy1nSlNZNG02WEpNYnV5bEo3TndDR01HVVFCcjNVMk5xbjNHUVJrcE05cy1qblJQUERXTV8zemxlY182MnVwU1k5WDV6WEhWblFxc1BKa01YN0piUGVrVVNxMFUwVQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792415510.0
+    },
+    {
+        "id": "0921e59cbd",
+        "title_fa": "قمار انتخاباتی ترامپ روی پروژه گازی آلاسکا",
+        "title_en": "Trump bets Alaska promises can save GOP Senate seat",
+        "summary": [
+            "ترامپ روی وعده احداث خط لوله ال‌ان‌جی حساب باز کرده تا کرسی جمهوری‌خواهان در سنا را نجات دهد.",
+            "این پروژه کلان دهه‌هاست که میان دولت‌های مختلف آمریکا دست به دست می‌شود."
+        ],
+        "impact": "تلاش برای کسب آرای ایالتی از طریق کلید زدن پروژه‌های زیرساختی معطل‌مانده.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/10/19/trump-is-showering-alaska-with-promises-voters-have-heard-it-before-01126866",
+        "clean_url": "https://www.politico.com/news/2026/10/19/trump-is-showering-alaska-with-promises-voters-have-heard-it-before-01126866",
+        "image": "http://www.bing.com/th?id=ONUT.5tl1RP819J6lvGaCbJzjXA&pid=News",
+        "timestamp": 1792414740.0
     },
     {
         "id": "3ebcf9298b",
@@ -546,6 +600,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlNET3hzZkR6WThWY0ZMbkpUYjVCY1pqWG5GQm1CSlNiXzNzWXJTbFAyZEhROXljekhHenNVcEZfVjgyQ3VvcmRuS2VNWjVvYVRMWGxaaXVoUEZPZFZNV1NPUHBtRUFRMUZCTWhTT2g3cEtDZWJabGVLdDhDVGN0UjJwNGVCUWZGVnFYZ2Z3WkZqVllVWDI2eHRZaXozY1dLdVdyUjd5Q2ZuNlJOaTFhUF9pVEF5VnR00gG-AUFVX3lxTFBzaVFoRXFEcWhGVFVLaGo5OGUwWnNicXhwSzdhQ0lJT3VfNk5ySFBXcFhpQkotdnpKNzBSeWVJd3ZKaTBFRE9aRmFfTjcxRk5fLXZfdU5oX205VWVNX1dzS0g1R0RjTG9nTXptLWNKWUcwQW1VN1VwOF9QTkNGaUE2SGFYcFB2N1lDcmdzbzJUS0pMZ0tUSkxYNnExMmFrR2NFcktfMC1YS05mOFBnZmN5ZWhMUEQtOF9rYi1IbGc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792407422.0
+    },
+    {
+        "id": "c7b27b58b3",
+        "title_fa": "دستور اجرایی ترامپ برای توسعه تحقیقات سلامت زنان",
+        "title_en": "Trump signs an order aimed at boosting women's health research, a plan backed by the first lady",
+        "summary": [
+            "رئیس‌جمهور آمریکا با امضای فرمانی، بخش جدیدی برای سلامت زنان در موسسه ملی بهداشت ایجاد کرد.",
+            "این طرح با پشتیبانی بانوی اول آمریکا برای تمرکز بر پژوهش‌های پزشکی کلید خورده است."
+        ],
+        "impact": "تخصیص منابع جدید دولتی برای پژوهش‌های پزشکی مرتبط با زنان.",
+        "tag": "اجتماعی",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "Los Angeles Times on MSN",
+        "url": "https://www.msn.com/en-us/health/general/trump-signs-an-order-aimed-at-boosting-women-s-health-research-a-plan-backed-by-the-first-lady/ar-AA2fAHKF",
+        "clean_url": "https://www.msn.com/en-us/health/general/trump-signs-an-order-aimed-at-boosting-women-s-health-research-a-plan-backed-by-the-first-lady/ar-AA2fAHKF",
+        "image": "http://www.bing.com/th?id=ONUT.t8Reff6tOsaU20T3vZhccA&pid=News",
+        "timestamp": 1792406409.0
+    },
+    {
+        "id": "349774e2e8",
+        "title_fa": "خداحافظی کریستین امانپور از شبکه سی‌ان‌ان پس از ۴۳ سال",
+        "title_en": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years",
+        "summary": [
+            "مجری برجسته و کهنه‌کار سی‌ان‌ان تصمیم گرفت پس از بیش از چهار دهه فعالیت، حضور روزانه خود را در این شبکه متوقف کند.",
+            "برنامه معروف او از سال ۲۰۲۷ تنها به صورت هفتگی پخش خواهد شد."
+        ],
+        "impact": "پایان یک دوران طولانی در ژورنالیسم بین‌الملل و تغییرات ساختاری در رسانه‌های جریان اصلی.",
+        "tag": "رسانه",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/cnn-news-network-amanpour-907d3521fbb30a1cf648e3166c3258a5",
+        "clean_url": "https://apnews.com/article/cnn-news-network-amanpour-907d3521fbb30a1cf648e3166c3258a5",
+        "image": "http://www.bing.com/th?id=ONUT.-QycR78p7aELxmcVH6wefg&pid=News",
+        "timestamp": 1792405620.0
+    },
+    {
+        "id": "6c8177f5ae",
+        "title_fa": "چرخش ترامپ؛ افت کم‌سابقه روابط واشنگتن و کی‌یف",
+        "title_en": "US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia",
+        "summary": [
+            "مخالفت ترامپ با تحریم‌های جدید علیه مسکو، ائتلاف آمریکا و اوکراین را به نقطه بحرانی رساند.",
+            "قطع یا اختلال در پشتیبانی ماهواره‌ای از پهپادهای اوکراینی، میدان جنگ را به سود کرملین تغییر داده است."
+        ],
+        "impact": "تضعیف شدید موقعیت اوکراین در جنگ و تقویت جایگاه مسکو در معادلات نظامی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/10/19/trump-ukraine-russia-breaking-point/",
+        "clean_url": "https://www.bostonherald.com/2026/10/19/trump-ukraine-russia-breaking-point",
+        "image": "http://www.bing.com/th?id=ONUT.YSQi47MVt_yGUQpTXoA6cw&pid=News",
+        "timestamp": 1792404960.0
     },
     {
         "id": "8496da5559",
@@ -5403,113 +5511,5 @@
         "clean_url": "https://www.iranintl.com/en/202610163541",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792125720.0
-    },
-    {
-        "id": "bb3ad0ccea",
-        "title_fa": "هشدار مالی سخت آمریکا به شبکه های مذهبی وابسته",
-        "title_en": "Iran speaker says government overstepped on anti-terror finance rules",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا به شبکه های مالی هشدار داد از سوءاستفاده حکومتی از وجوه شرعی مانند خمس جلوگیری کنند.",
-            "تیم ترامپ به دنبال قطع مسیرهای غیررسمی انتقال پول و صرافی‌های حامی باندهای تروریستی است."
-        ],
-        "impact": "بسته شدن منافذ مالی پنهان حکومت و تشدید فشار بر شبکه های تامین مالی خارجی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610164168",
-        "clean_url": "https://www.iranintl.com/en/202610164168",
-        "image": "http://www.bing.com/th?id=ONUT.HYpukZXLKymrrsYuf6_5Bw&pid=News",
-        "timestamp": 1792125720.0
-    },
-    {
-        "id": "6f819fcbde",
-        "title_fa": "دردسر بزرگ رئیس دفتر ترامپ همزمان با افت نظرسنجی‌ها",
-        "title_en": "Trump's White House Chief of Staff Susie Wiles Is in 'Some Deep Sh*t'",
-        "summary": [
-            "سوزی وایلس، رئیس دفتر کاخ سفید، در آستانه انتخابات میاندوره‌ای با چالش‌های جدی و افت محبوبیت ترامپ دست‌وپنجه نرم می‌کند.",
-            "تیم انتقادی ترامپ‌پوکالیپس پرده از عملکرد مهره‌های کلیدی دولت برمی‌دارد که فشارها بر این تیم را بیشتر کرده است."
-        ],
-        "impact": "تشدید چالش‌های داخلی دولت آمریکا می‌تواند تمرکز تیم ترامپ بر سیاست خارجی را کاهش دهد.",
-        "tag": "سیاست داخلی آمریکا",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "zeteo",
-        "url": "https://zeteo.com/p/trumps-white-house-chief-of-staff",
-        "clean_url": "https://zeteo.com/p/trumps-white-house-chief-of-staff",
-        "image": "https://substackcdn.com/image/fetch/$s_!A5sp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https://substack-post-media.s3.amazonaws.com/public/images/f0c19f7a-0c13-4bce-8e1d-421a832a7d05_1024x682.jpeg",
-        "timestamp": 1792124100.0
-    },
-    {
-        "id": "205ed005f4",
-        "title_fa": "بررسی آینده خاورمیانه بدون سایه جنگ با حاکمیت ایران",
-        "title_en": "MEI Report Launch | The Middle East Beyond the Iran War",
-        "summary": [
-            "موسسه خاورمیانه در گزارشی تازه سناریوهای تغییر موازنه قدرت در منطقه را بررسی کرده است.",
-            "تمرکز اصلی این پژوهش روی آینده ژئوپلیتیک منطقه در غیاب تهدیدات مستقیم و تنش‌های آفرینش‌شده توسط تــهران است."
-        ],
-        "impact": "این ارزیابی‌ها نقشه راه بازیگران جهانی برای دوران پس از تغییرات بنیادین در منطقه را ترسیم می‌کند.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Middle East Institute",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWxWUWV5MTE1dmFBSUl2dnJFcjJaNnp2M2RzMGNWYnhvcldaOHY5YVpZM0dfMkJIek5sejNjZkdvZVFjTmlxay1GN0JBSDZFTGJqTERuTVJ6TWpZUUdGaDhrLTN1dVlzbUQwVUZ0UWRVdENEOTZzS2JpX1RaeGJQME1qR2NhbXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWxWUWV5MTE1dmFBSUl2dnJFcjJaNnp2M2RzMGNWYnhvcldaOHY5YVpZM0dfMkJIek5sejNjZkdvZVFjTmlxay1GN0JBSDZFTGJqTERuTVJ6TWpZUUdGaDhrLTN1dVlzbUQwVUZ0UWRVdENEOTZzS2JpX1RaeGJQME1qR2NhbXc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792122923.0
-    },
-    {
-        "id": "47c8752ad5",
-        "title_fa": "افت محبوبیت ترامپ در نظرسنجی فاکس نیوز",
-        "title_en": "Trump approval sinks to new low in Fox News poll",
-        "summary": [
-            "محبوبیت دونالد ترامپ در تازه ترین نظرسنجی شبکه فاکس نیوز به ۳۶ درصد کاهش یافته است.",
-            "این رقم پایین ترین میزان حمایت از او در تاریخ نظرسنجی های این شبکه محسوب می شود."
-        ],
-        "impact": "فشار سیاسی بر حزب جمهوری خواه در آستانه انتخابات میان دوره ای افزایش می یابد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-approval-sinks-to-new-low-in-fox-news-poll/ar-AA2eknlL",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-approval-sinks-to-new-low-in-fox-news-poll/ar-AA2eknlL",
-        "image": "http://www.bing.com/th?id=ONUT.-HtM4WovG1DxmyFFIRjqpA&pid=News",
-        "timestamp": 1792120709.0
-    },
-    {
-        "id": "cd180543ed",
-        "title_fa": "بحران قیمت گازوئیل و چالش های پیش روی ترامپ",
-        "title_en": "Could California be the solution to Trump’s diesel woes?",
-        "summary": [
-            "قیمت گازوئیل در کالیفرنیا به رقم بحرانی ۸ دلار در هر گالن رسیده است.",
-            "تولیدکنندگان و کامیون داران با هزینه های سنگین سوخت دست و پنجه نرم می کنند."
-        ],
-        "impact": "گرانی سوخت به تورم کالاهای مصرفی و نارضایتی عمومی دامن می زند.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/california/newsletter/2026-10-16/could-california-be-solution-to-trumps-diesel-woes",
-        "clean_url": "https://www.latimes.com/california/newsletter/2026-10-16/could-california-be-solution-to-trumps-diesel-woes",
-        "image": "http://www.bing.com/th?id=ONUT.ff7pggiyllDev0tR6UNxOg&pid=News",
-        "timestamp": 1792119600.0
-    },
-    {
-        "id": "8e198291f1",
-        "title_fa": "نگرانی از عادی شدن فضای امنیتی در انتخابات آمریکا",
-        "title_en": "Opinion: Will U.S. elections ever be peaceful again?",
-        "summary": [
-            "تحلیلگران نسبت به تبدیل شدن ترس و اضطراب به یک روند دائمی در انتخابات آمریکا هشدار می دهند.",
-            "فضای سیاسی کشور از رقابت های مسالمت آمیز دور شده و به سوی تنش های فرسایشی حرکت می کند."
-        ],
-        "impact": "افزایش بی اعتمادی عمومی به ساختارهای دموکراتیک و روند رای گیری.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Deseret News",
-        "url": "https://www.deseret.com/opinion/2026/10/16/can-us-elections-be-free-from-anger-and-revenge/",
-        "clean_url": "https://www.deseret.com/opinion/2026/10/16/can-us-elections-be-free-from-anger-and-revenge",
-        "image": "http://www.bing.com/th?id=ONUT.wpiNL-HVRGxopUtcWL7fag&pid=News",
-        "timestamp": 1792119600.0
     }
 ]
