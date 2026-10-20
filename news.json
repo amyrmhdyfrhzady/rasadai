@@ -346,6 +346,24 @@
         "timestamp": 1792483982.0
     },
     {
+        "id": "fa727b4b57",
+        "title_fa": "ادعای مجلس درباره شکست تحریم‌ها و جنگ جنگی خواندن محاصره",
+        "title_en": "Iran lawmaker says US must accept defeat, calls blockade a 'war crime'",
+        "summary": [
+            "عباس مقتدایی مدعی شد که ایالات متحده تمام ابزارهای خود را مصرف کرده و چاره‌ای جز پذیرش شکست ندارد.",
+            "مقام‌های حکومتی محاصره دریایی را جنایت جنگی می‌خوانند؛ در حالی که مرزهای تجاری با پاکستان به دلایل نامعلوم امنیتی و فنی بسته شده است."
+        ],
+        "impact": "توقف تجارت مرزی با پاکستان فشار اقتصادی بر زنجیره تأمین داخلی را افزایش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610201240",
+        "clean_url": "https://www.iranintl.com/en/202610201240",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792482300.0
+    },
+    {
         "id": "f56d239063",
         "title_fa": "هشدار دوباره مقامات تهران به واشنگتن و تل‌آویو",
         "title_en": "Iranian Officials Warn U.S. and Israel Against Further Actions",
@@ -5486,23 +5504,5 @@
         "clean_url": "https://www.cbsnews.com/news/trump-waives-sanctions-tariffs-russian-oil-lindsey-graham",
         "image": "http://www.bing.com/th?id=ONUT.pE6tJ2VwXfCWDj_FaeIErQ&pid=News",
         "timestamp": 1792179480.0
-    },
-    {
-        "id": "17384253ab",
-        "title_fa": "جهش قیمت نفت و مازاد درآمد میلیاردی آلبرتا",
-        "title_en": "Alberta Achieves $1.6 Billion Surplus on Oil-Price Jump",
-        "summary": [
-            "استان آلبرتا در کانادا با رشد بهای نفت توانست به مازاد مالی ۱.۶ میلیارد دلاری دست پیدا کند.",
-            "افزایش درآمدهای انرژی بار دیگر قدرت بازار نفت در تامین بودجه کشورهای صادرکننده را به رخ کشید."
-        ],
-        "impact": "تقویت بنیه مالی استان آلبرتا به لطف بالا ماندن قیمت جهانی نفت.",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnhodi1Gc3RURHQ2cFNpNjJ1QXVJdXpFRDJEc1ExMDNYakVuSTlrRGNMdmlVbjNzU0hKNVF5b01XUlN3dVNTWDZPdEprNXJIdHgxd2lnandjZGVDd3NwZ3B6OVdKaVFlOEg1ODZuZ2ZMQVY4bm9aTUFXNnlXWndYVGVYeXVBMW5BRG1PelBLLXlUV3dEeFZxTlRvNFAwVjlzQUlHZkU0X3E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnhodi1Gc3RURHQ2cFNpNjJ1QXVJdXpFRDJEc1ExMDNYakVuSTlrRGNMdmlVbjNzU0hKNVF5b01XUlN3dVNTWDZPdEprNXJIdHgxd2lnandjZGVDd3NwZ3B6OVdKaVFlOEg1ODZuZ2ZMQVY4bm9aTUFXNnlXWndYVGVYeXVBMW5BRG1PelBLLXlUV3dEeFZxTlRvNFAwVjlzQUlHZkU0X3E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792177912.0
     }
 ]
