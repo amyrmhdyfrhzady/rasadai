@@ -254,6 +254,24 @@
         "timestamp": 1792481779.0
     },
     {
+        "id": "1da3d5a090",
+        "title_fa": "توقف تجارت مرزی ایران و پاکستان در دو گذرگاه کلیدی",
+        "title_en": "Iran-Pakistan border trade halt leaves trucks and cargo stranded",
+        "summary": [
+            "بسته‌شدن مرزهای ریمدان و تفتان صدها کامیون حامل بار را در دو طرف مرز معطل کرده است.",
+            "اسلام‌آباد مسائل امنیتی و مبارزه با قاچاق را دلیل این توقف اعلام کرده اما تهران به مشکلات فنی اشاره می‌کند."
+        ],
+        "impact": "این اختلال مرزی ضربه دیگری به چرخه شکننده صادرات و مراودات تجاری منطقه‌ای وارد می‌کند.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610201460",
+        "clean_url": "https://www.iranintl.com/en/202610201460",
+        "image": "http://www.bing.com/th?id=ONUT.aG6AMYeHjVwmwpyU5IwBWw&pid=News",
+        "timestamp": 1792480560.0
+    },
+    {
         "id": "0140425d0a",
         "title_fa": "سفر محرمانه هگست به تل‌آویو و هماهنگی ترامپ با نتانیاهو برای حمله به ایران",
         "title_en": "Trump's backing of Netanyahu, Hegseth's secret visit fuel Iran war fears ahead of Israel's election",
@@ -5487,22 +5505,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-today-trump-statement-on-strait-of-hormuz-crisis-gulf-security-latest-news-as-usiran-tensions-liveblog-156328192",
         "image": "https://images.timesnownews.com/thumb/msid-156328192,thumbsize-957947,width-1280,height-720,resizemode-75/156328192.jpg",
         "timestamp": 1792173120.0
-    },
-    {
-        "id": "2cb27170c7",
-        "title_fa": "تنگه هرمز در آستانه توقف کامل با هشدار نظامی ایران",
-        "title_en": "Hormuz at Near Standstill as Iran Warns Ships to Keep to its Waters",
-        "summary": [
-            "ترافیک نفت‌کش‌ها در تنگه هرمز به دلیل هشدار مستقیم نظامی ایران به کشتی‌ها برای تردد از آب‌های سرزمینی این کشور به حالت نیمه‌تعطیل درآمده است."
-        ],
-        "impact": "اختلال جدی در زنجیره تامین انرژی جهان و جهش احتمالی قیمت نفت در بازارهای جهانی.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFocGRSMmpaV3lZTXFET0ZZbHItdHZZajVBcWtiZTg4R2xDLVVBRzIyQ3NWSTZpRUUtSllFSE5Xa0UzTVFuMmh6UTBscGJWVXBtdTM5SzNhWWhkZjlDNmRMbmxwZ0pVQ3FRbnRTaGhzaUJEdlAxVlZlNmZTN3BzZTdURjZfSTVIdUxRR2JyUllpYkxxT3AxOU9BZm9VaWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFocGRSMmpaV3lZTXFET0ZZbHItdHZZajVBcWtiZTg4R2xDLVVBRzIyQ3NWSTZpRUUtSllFSE5Xa0UzTVFuMmh6UTBscGJWVXBtdTM5SzNhWWhkZjlDNmRMbmxwZ0pVQ3FRbnRTaGhzaUJEdlAxVlZlNmZTN3BzZTdURjZfSTVIdUxRR2JyUllpYkxxT3AxOU9BZm9VaWs",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792170718.0
     }
 ]
