@@ -1,5 +1,23 @@
 [
     {
+        "id": "7e2fee0e05",
+        "title_fa": "طرح صلح جدید میانجی‌ها برای تهران و واشنگتن",
+        "title_en": "Exclusive: Mediators submit new peace proposal to Iran, US",
+        "summary": [
+            "میانجی‌گران بین‌المللی پیشنهاد جدیدی را برای حل‌وفصل تنش‌ها روی میز ایران و آمریکا گذاشته‌اند.",
+            "جزئیات این طرح هنوز رسانه‌ای نشده اما تلاش‌های دیپلماتیک برای کاهش بحران وارد فاز تازه‌ای شده است."
+        ],
+        "impact": "این ابتکار دیپلماتیک می‌تواند نشان‌دهنده تلاش پشت‌پرده برای جلوگیری از برخورد نظامی باشد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The New Arab",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeU1FMnlJNjB6eUl6S3M3dG5WMG0zVXZHY19ZU1NNSDBCNy0zSlJOWjBFQmpUdFZENWF2T1FvVHppdlpMcUhUMHluZ0hWbldTWUR0a3lJMTJ5M1d3TldmWXY5Yy1vX096YjZlUE5iYklzWFlOaVFacndNSXZ5WVYwc2o4RkN1bGlQc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeU1FMnlJNjB6eUl6S3M3dG5WMG0zVXZHY19ZU1NNSDBCNy0zSlJOWjBFQmpUdFZENWF2T1FvVHppdlpMcUhUMHluZ0hWbldTWUR0a3lJMTJ5M1d3TldmWXY5Yy1vX096YjZlUE5iYklzWFlOaVFacndNSXZ5WVYwc2o4RkN1bGlQc0E",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792509262.0
+    },
+    {
         "id": "51430e5769",
         "title_fa": "میانجی‌گری ارتش پاکستان میان واشنگتن و تـهران",
         "title_en": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
@@ -5485,24 +5503,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792175284.0
-    },
-    {
-        "id": "ea14435b53",
-        "title_fa": "تهدید خروج آمریکا از منطقه توسط مقام نظامی ج.ا",
-        "title_en": "Iran's president denies nuclear ambitions, says he's ready for talks",
-        "summary": [
-            "سخنگوی ارتش ج.ا ادعا کرد تنگه هرمز تنها با خروج آمریکا باز می‌ماند و تهدید به اخراج نظامیان آمریکایی کرد.",
-            "منابع دریایی از ادامه حملات بی‌محابا به کشتی‌ها در تنگه هرمز خبر دادند.",
-            "نیروهای نیابتی حوثی کاخ ریاست جمهوری در عدن را هدف حمله موشکی قرار دادند."
-        ],
-        "impact": "افزایش ریسک امنیتی برای کشتیرانی در خلیج فارس و تنگه هرمز",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-reopen-122000272.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-reopen-122000272.html",
-        "image": "https://media.zenfs.com/en/cbs_news_897/05858342263ab42fa8435d094729bca5.jpg",
-        "timestamp": 1792175201.0
     }
 ]
