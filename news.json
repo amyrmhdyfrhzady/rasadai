@@ -1,5 +1,23 @@
 [
     {
+        "id": "f56d239063",
+        "title_fa": "هشدار دوباره مقامات تهران به واشنگتن و تل‌آویو",
+        "title_en": "Iranian Officials Warn U.S. and Israel Against Further Actions",
+        "summary": [
+            "خط کلامی تهران همچنان بر تهدید لفظی و جنگ روانی متمرکز است تا هزینه هرگونه اقدام متقابل را بالا ببرد.",
+            "این موضع‌گیری‌ها بیشتر برای مصرف داخلی و ترمیم روحیه نیروهای نیابتی صادر می‌شود و فاقد بازدارندگی جدید عینی است."
+        ],
+        "impact": "تداوم تنش لفظی در منطقه بدون تغییر میدانی در موازنه نظامی.",
+        "tag": "جنگ روانی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "WANA News Agency",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGt0UUlJQkpHNXEwUld3OFNIdmJhbmUxdFdaeWxlaVFabjZTdlBvZmxhbWJCSEk0bzltRWlTTEo3TkpOZ1NjMDNieE1BVVdGUWVoQmxFdHExbkZqREhETDhXM19wVE5YYkQ1Tk9QTlNyd3hsMFRsakNQZGtnenoyeHBCTHRaNlNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGt0UUlJQkpHNXEwUld3OFNIdmJhbmUxdFdaeWxlaVFabjZTdlBvZmxhbWJCSEk0bzltRWlTTEo3TkpOZ1NjMDNieE1BVVdGUWVoQmxFdHExbkZqREhETDhXM19wVE5YYkQ1Tk9QTlNyd3hsMFRsakNQZGtnenoyeHBCTHRaNlNR",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792481779.0
+    },
+    {
         "id": "0140425d0a",
         "title_fa": "سفر محرمانه هگست به تل‌آویو و هماهنگی ترامپ با نتانیاهو برای حمله به ایران",
         "title_en": "Trump's backing of Netanyahu, Hegseth's secret visit fuel Iran war fears ahead of Israel's election",
@@ -5490,24 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFc0JIcGh2dkFWX1BMRVpHaWQ1Y1R1T3RZMVIxaU5CM0F3QVR6UlFJdU9penNERlJOMVloRlR0ajdZNmsxZTdHcXo1RUhLdXhOeVFuQUx1NHppZFM5OFd5aDZoLXc1clhTU25IaVhJNzdINWQxQnlHRmhTMlRfZ9IBfkFVX3lxTE1DeVpucXltQzFzZ0lWYWpaeVZnMngzeG0ySjI1NUVTaVgtMm9OV1RIS3E3WkdfajBXTmlBa1pWRDAyZ3lDZzhKT2pVSWxXMktCV0x0WDI4SFNmc3puRG03NnpQVVZ6aWswbG1zb2lOeUFueTJXUE1tNzBTUjZQUQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792144800.0
-    },
-    {
-        "id": "63dfa17250",
-        "title_fa": "رهگیری موشک کروز و پهپادهای یمنی در آسمان عربستان",
-        "title_en": "Saudi coalition intercepts cruise missile, drones over kingdom",
-        "summary": [
-            "پدافند ائتلاف سعودی از انهدام یک فروند موشک کروز و سه پهپاد در آسمان مناطق مختلف عربستان، از جمله مدینه خبر داد.",
-            "افزایش حملات برون‌مرزی به فرودگاه‌های سعودی و بالا رفتن تلفات غیرنظامیان، فشار امنیتی شدیدی بر ریاض وارد کرده است.",
-            "مقامات سعودی هنوز مبدأ دقیق پرتاب این تسلیحات را رسماً اعلام نکرده‌اند."
-        ],
-        "impact": "آسیب‌پذیری مداوم زیرساخت‌های کلیدی عربستان در برابر حملات پهپادی و موشکی",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "en.yenisafak",
-        "url": "https://en.yenisafak.com/world/saudi-coalition-intercepts-cruise-missile-drones-over-kingdom-3724490",
-        "clean_url": "https://en.yenisafak.com/world/saudi-coalition-intercepts-cruise-missile-drones-over-kingdom-3724490",
-        "image": "https://img.piri.net/piri/upload/3/2026/10/16/e3af006a-saudi-coalition-intercepts-cruise-missile-drones-over.webp",
-        "timestamp": 1792144500.0
     }
 ]
