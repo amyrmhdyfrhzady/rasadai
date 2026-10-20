@@ -1,5 +1,23 @@
 [
     {
+        "id": "dcde4372ca",
+        "title_fa": "فشار بر ریاض برای همراهی با تغییرات در ایران",
+        "title_en": "Saudi Arabia should join US-led push for change in Iran, analyst says",
+        "summary": [
+            "یک تحلیلگر سیاسی بر لزوم پیوستن عربستان به کارزار تحت رهبری آمریکا علیه جمهوری اسلامی تأکید کرد.",
+            "این موضع‌گذاری نشان‌دهنده تلاش‌های تازه برای هماهنگی منطقه‌ای جهت اعمال فشار بیشتر بر تهران است."
+        ],
+        "impact": "افزایش همگرایی منطقه‌ای علیه سیاست‌های منطقه‌ای حکومت",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fRldidlh1SUlYbTRXYndiWkZGVE5FN2pLQnVZZ3NCaHhza2pJNTh0OVFmT1hhb2ZXcXRBV0cydlVWZ3c4eTloZkh5QXJ5Y3hGbFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fRldidlh1SUlYbTRXYndiWkZGVE5FN2pLQnVZZ3NCaHhza2pJNTh0OVFmT1hhb2ZXcXRBV0cydlVWZ3c4eTloZkh5QXJ5Y3hGbFE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792494593.0
+    },
+    {
         "id": "f4d135fbc6",
         "title_fa": "سفر فرمانده ارتش پاکستان به تهران در اوج تنش‌ها",
         "title_en": "Pakistan’s army chief arrives in Tehran amid US-Iran tensions",
@@ -271,6 +289,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-prolongs-talks-in-stalemate-to-influence-us-midterms-officials-say/ar-AA2fDXJO",
         "image": "http://www.bing.com/th?id=ONUT.TM0KhGkmzSrqHfsAT8cQ1Q&pid=News",
         "timestamp": 1792466827.0
+    },
+    {
+        "id": "5513d3f34b",
+        "title_fa": "هشدار دوحه به تهران درباره ناامنی تنگه هرمز",
+        "title_en": "دوحه خواستار پایان «حملات غیرمسئولانه» تهران در تنگه هرمز شد",
+        "summary": [
+            "قطر خواستار توقف فوری تحركات خطرناک تهران در آبراه حیاتی تنگه هرمز شد.",
+            "تنشی که به دلیل درگیری‌ها ایجاد شده، میلیاردها بشکه نفت را از بازار خارج کرده و قیمت انرژی را صعودی کرده است.",
+            "افزایش تولید انرژی در قاره آمریکا به عنوان راهکاری برای خنثی کردن این فشارها دنبال می‌شود."
+        ],
+        "impact": "تنگ‌تر شدن حلقه انزوای اقتصادی و افزایش حساسیت‌های منطقه‌ای نسبت به اقدامات نظامی حکومت",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610204489",
+        "clean_url": "https://www.iranintl.com/202610204489",
+        "image": "http://www.bing.com/th?id=ONUT.S1afQjsu1dca8_AI_nBF5g&pid=News",
+        "timestamp": 1792465740.0
     },
     {
         "id": "990a6503d2",
@@ -5468,42 +5505,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNG1xMkhZTTYzSVFMLWc2TlAtTTZFVzczQ0NsYlBMZE1oa28zVG9jeWdUSjVJUHFxRmJHc2JLeG1CTThqcHZCUm44UW0xT1FJYlgzcWFvblJ2azdtNDNQcW1nc0RZY01QQk4tbEx2TVZCT3hfMUZDZTl3LXFpeUtrNTVSNVNmc000WXNaVXF2YlBsTGI2aUow",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792152000.0
-    },
-    {
-        "id": "2f54c4720f",
-        "title_fa": "مسدودسازی کانال‌های مالی ج.ا از طریق نهادهای مذهبی",
-        "title_en": "Iran's navy says it spotted tanker on fire near Strait of Hormuz",
-        "summary": [
-            "خزانه‌داری آمریکا به بانک‌ها درباره سوءاستفاده حاکمیت از شبکه‌های خیریه و وجوه شرعی هشدار داد.",
-            "استفاده از سیستم حواله و انتقال نقدی برای تأمین مالی نیابتی‌ها زیر ذره‌بین قرار گرفت.",
-            "اسکات بسنت تاکید کرد واشنگتن اجازه نمی‌دهد منابع مذهبی صرف پر کردن جیب مقامات و تروریسم شود."
-        ],
-        "impact": "بستن مسیرهای تنفس مالی پنهان حکومت از طریق نهادهای مذهبی و خیریه‌های وابسته.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610168238",
-        "clean_url": "https://www.iranintl.com/en/202610168238",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792151700.0
-    },
-    {
-        "id": "ff9e5feac6",
-        "title_fa": "بن‌بست میانجی‌گری تهران در پرونده یمن",
-        "title_en": "Iran says Saudi Arabia has not responded to Yemen mediation proposal",
-        "summary": [
-            "مقام‌های عربستان سعودی هیچ پاسخی به طرح پیشنهادی ج.ا درباره بحران یمن نداده‌اند.",
-            "بی‌اعتمادی ریاض به رویکرد منطقه‌ای تهران، ابتکارات دیپلماتیک حکومت را بی‌نتیجه گذاشته است."
-        ],
-        "impact": "شکست تلاش‌های دیپلماتیک ج.ا برای خرید زمان در پرونده‌های منطقه‌ای.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610160581",
-        "clean_url": "https://www.iranintl.com/en/202610160581",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792150920.0
     }
 ]
