@@ -1,5 +1,23 @@
 [
     {
+        "id": "27d23e7c4c",
+        "title_fa": "بازداشت عوامل مرتبط با شبکه جاسوسی ج.ا در بریتانیا",
+        "title_en": "Breaking News Live Updates: I have spent, or will be spending, over 400 million dollars by election day, says Donald Trump",
+        "summary": [
+            "بازداشت مجدد دو نفر در بریتانیا به اتهام همکاری با اطلاعات ج.ا برای هدف قرار دادن پایگاه هوایی آمریکا، نشان‌دهنده فعال شدن شبکه‌های تروریستی در خاک اروپا است.",
+            "این اقدام نشان می‌دهد نهادهای امنیتی غرب در حال بستن حلقه محاصره بر فعالیت‌های برون‌مرزی ج.ا هستند."
+        ],
+        "impact": "افزایش فشارهای امنیتی و دیپلماتیک بر ج.ا در سطح بین‌المللی.",
+        "tag": "امنیتی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/newsblogs/breaking-news-live-updates-parts-of-delhi-wake-up-to-smog-covered-skies-modi-trump-cjp-jaishankar/liveblog/135059441.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/breaking-news-live-updates-parts-of-delhi-wake-up-to-smog-covered-skies-modi-trump-cjp-jaishankar/liveblog/135059441.cms",
+        "image": "https://economictimes.indiatimes.com/thumb/msid-135059441,width-1200,height-900,resizemode-4,imglength-12578/news/newsblogs/breaking-news-live-updates-parts-of-delhi-wake-up-to-smog-covered-skies-modi-trump-cjp-jaishankar.jpg",
+        "timestamp": 1792518420.0
+    },
+    {
         "id": "1435149727",
         "title_fa": "هلاکت یک مقام ارشد سپاه در مرز عراق",
         "title_en": "IRGC officer killed in Iran-Iraq border mountains as fighting with Kurdish opposition intensifies",
@@ -16,6 +34,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtcjBzUUx1SHUzUkVmX0ZHVC1PQmxOMFpTUlBlRmVROG9xckpKX1JzTDRFekJCVlhZUmxQWEdGb2VQVUtxWDNkVThqemlCWHJCblRLTnZ1VHM0Z3Q4",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792518307.0
+    },
+    {
+        "id": "572508bc29",
+        "title_fa": "خط و نشان محسن رضایی برای غرب درباره ذخایر هسته‌ای",
+        "title_en": "Iran tells Munir it won't allow any enriched nuclear material to leave country",
+        "summary": [
+            "محسن رضایی با تاکید بر عدم خروج مواد غنی‌شده از کشور، عملاً راه هرگونه توافق موقت برای کاهش ذخایر را بست.",
+            "شرط‌گذاری برای مذاکره با آمریکا به بهانه اعتمادسازی، تکرار همان سیاست فرسایشی برای خرید زمان است.",
+            "توقف تجارت در مرزهای پاکستان نشان‌دهنده عمق بحران‌های امنیتی و اقتصادی در حاشیه مرزهای ج.ا است."
+        ],
+        "impact": "افزایش تنش‌های هسته‌ای و بن‌بست کامل در مسیر دیپلماسی با غرب.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610205002",
+        "clean_url": "https://www.iranintl.com/en/202610205002",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792517100.0
     },
     {
         "id": "ff2c5bdc4a",
@@ -5469,41 +5506,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdktFcVBXTFJMOU91NEZSc2hlXzJ6TFpjVjB5X1RBNHd3YzBITUVrbFVOaU9PZHdoMHd5QkpXY2t2WTRFaXljRUh3NDd5c3hTcWJlNTIyUHk1VmRvQ0NSZHowNDlfNXgyV0NqYU1UWkdRSWlfeVVjWkhVM1dlUDhSZmR2V2NFYjZ6QkVtci14MXBsZW9wWmI3SFdOSm12TXg4T0JJQ210aW9zWVktaHJrV2RsUUdmejh0N1pJMF9Cb3JCcm9OYmdPOUhn",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792192406.0
-    },
-    {
-        "id": "8bbd0eadc1",
-        "title_fa": "مشاوران ترامپ: تقابل همه‌جانبه با تهران تا پایان دوره ریاست‌جمهوری ادامه دارد",
-        "title_en": "WAR MAY LAST: Trump Advisers Warn Iran Conflict May Last Through end of His term, WSJ Reports",
-        "summary": [
-            "وال‌استریت‌ژورنال به نقل از حلقه نزدیکان ترامپ فاش کرد واشنگتن خود را برای یک منازعه طولانی‌مدت و فرسایشی ۴ ساله علیه حاکمیت ایران آماده کرده است.",
-            "این هشدار نشان می‌دهد کاخ سفید هیچ تمایلی به توافق مقطعی ندارد و سیاست قطع کامل شریان‌های نفتی و مالی را بدون وقفه ادامه می‌دهد."
-        ],
-        "impact": "تثبیت انتظارات جهش قیمت ارز در بازار آزاد و بسته شدن پرونده هرگونه مذاکره زودرس.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmxXRGRzUjh1LXNDM3dOcWZscXBGd2tZNnZManVQaWI2OE05UXRMRzdpdDNuWlhFd2dxWHhhQVdCb2FKXzdPbGN3OXhNV0ROTU5PNW90TG45LTEzc3RYemtWOXVnMTN1aXJNUXlVV0lNd3ZZQV84NFBQLXVEUzRnSEZJMENRWWM4Y3NHcmh6MkQwWTVqa2kxWjdpRDZZRW5RdmxjYXcyN3I5eTNLSnFiU0pDemtvRU9taGUtY05TUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmxXRGRzUjh1LXNDM3dOcWZscXBGd2tZNnZManVQaWI2OE05UXRMRzdpdDNuWlhFd2dxWHhhQVdCb2FKXzdPbGN3OXhNV0ROTU5PNW90TG45LTEzc3RYemtWOXVnMTN1aXJNUXlVV0lNd3ZZQV84NFBQLXVEUzRnSEZJMENRWWM4Y3NHcmh6MkQwWTVqa2kxWjdpRDZZRW5RdmxjYXcyN3I5eTNLSnFiU0pDemtvRU9taGUtY05TUQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792191884.0
-    },
-    {
-        "id": "85e1d3313e",
-        "title_fa": "ارتقای رتبه اعتباری مصر توسط مؤسسه مودیز",
-        "title_en": "Moody's upgrades Egypt by a notch as structural reforms bolster economic resilience",
-        "summary": [
-            "مؤسسه رتبه‌بندی بین‌المللی مودیز، رتبه اعتباری مصر را یک پله ارتقا داد.",
-            "پیشبرد اصلاحات ساختاری و تلاش برای مهار بدهی‌ها، دلیل اصلی بازگشت نسبی تاب‌آوری اقتصادی قاهره ارزیابی شده است."
-        ],
-        "impact": "کاهش ریسک مالی مصر و هموارتر شدن مسیر جذب وام‌ها و سرمایه‌های خارجی.",
-        "tag": "اقتصادی",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/business/economy/2026/10/17/moody-s-upgrades-egypt-by-a-notch-as-structural-reforms-bolster-economic-resilience",
-        "clean_url": "https://english.alarabiya.net/business/economy/2026/10/17/moody-s-upgrades-egypt-by-a-notch-as-structural-reforms-bolster-economic-resilience",
-        "image": "https://vid.alarabiya.net/images/2022/08/22/52450205-cc80-41ca-a285-4312aa8dacfe/52450205-cc80-41ca-a285-4312aa8dacfe_16x9_600x338.JPG",
-        "timestamp": 1792191600.0
     }
 ]
