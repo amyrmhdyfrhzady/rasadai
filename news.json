@@ -276,6 +276,24 @@
         "timestamp": 1792428960.0
     },
     {
+        "id": "62c9875071",
+        "title_fa": "درخواست اضطراری تهران از شورای امنیت درباره تهدیدات",
+        "title_en": "Iran asks UN Security Council for emergency meeting over US, Israeli threats",
+        "summary": [
+            "نمایندگی جمهوری اسلامی در سازمان ملل با ارسال نامه‌ای خواستار برگزاری نشست فوری شورای امنیت شد.",
+            "تهران نسبت به احتمال استفاده آمریکا از بمب سنگین‌شکن و حملات اسرائیل به زیرساخت‌های انرژی ابراز نگرانی کرد."
+        ],
+        "impact": "تلاش دیپلماتیک جمهوری اسلامی برای بازدارندگی در برابر هشدارهای نظامی آمریکا و اسرائیل.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610198337",
+        "clean_url": "https://www.iranintl.com/en/202610198337",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792428660.0
+    },
+    {
         "id": "5214cf3a6e",
         "title_fa": "شکاف در تیم ترامپ؛ خودداری ونس از حمایت از نتانیاهو",
         "title_en": "Vance declines to endorse Netanyahu in re-election bid",
@@ -5493,24 +5511,5 @@
         "clean_url": "https://www.iranintl.com/en/202610168133",
         "image": "http://www.bing.com/th?id=ONUT.gyNOp69bv2zs2wU-DIEaOw&pid=News",
         "timestamp": 1792126800.0
-    },
-    {
-        "id": "9ebb160e5a",
-        "title_fa": "سفر لاوروف به تهران برای کنترل تنش‌ها",
-        "title_en": "US-Iran War Update: Russia FM Sergey Lavrov to Visit Iran on October 19",
-        "summary": [
-            "سرگئی لاوروف وزیر خارجه روسیه هفته آینده برای دیدار با عباس عراقچی راهی تهران می‌شود.",
-            "محور اصلی این سفر تلاش مسکو برای کاهش تنش‌های نظامی و فروکش کردن بحران میان واشنگتن و تهران است.",
-            "دیپلمات‌های ایرانی همچنان بر عدم صداقت آمریکا در میز مذاکره تاکید دارند."
-        ],
-        "impact": "تلاش دیپلماتیک مسکو برای میانجیگری همزمان با اوج‌گیری ریسک‌های نظامی در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Coingape",
-        "url": "https://coingape.com/us-iran-war-update-russia-fm-sergey-lavrov-to-visit-iran-on-october-19/",
-        "clean_url": "https://coingape.com/us-iran-war-update-russia-fm-sergey-lavrov-to-visit-iran-on-october-19",
-        "image": "http://www.bing.com/th?id=ONUT.TKrn0MgaKiElFs8_soiYzA&pid=News",
-        "timestamp": 1792126140.0
     }
 ]
