@@ -1,5 +1,23 @@
 [
     {
+        "id": "220b56f4a2",
+        "title_fa": "نامه جمهوری اسلامی به شورای امنیت علیه تل‌آویو و واشنگتن",
+        "title_en": "Iran Warns UN Security Council Trump and Israel Threaten Attacks on Civilians: how 7 outlets framed it",
+        "summary": [
+            "نمایندگی ایران در سازمان ملل مدعی شد واشنگتن و اسرائیل برنامه‌ای برای حمله به غیرنظامیان دارند.",
+            "این اقدام در راستای جنگ روانی دستگاه دیپلماتیک جمهوری اسلامی در مجامع بین‌المللی ارزیابی می‌شود."
+        ],
+        "impact": "تلاش مذ مذبوحانه برای مظلوم‌نمایی در آستانه تحولات احتمالی نظامی.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "NewsCord",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMmx3UlRlQjNyUWtFVGs4dHpwc3VYWkg4ZWdBSmxGbmZlYzczV0hSRlJoRGRWdGo2Nk5iRTE5ZDFJOGp0cHFRV3FkZ1dvdXF0bE5SZWlrcWZFVmpyOEI0cTY5d1I1SEpEQ1NkVUVpMTgtSmQxcHp5MGp1UEUyVlNrV0NfZzZaUFdFS0t5RmpEMm1Ob0kzWXUzdl85cHp0N3FsX3ZzWmNZa3hKcE9MZm9QWnVXWTdQcHlueklzdlByZVBqQ0wxUGRBVXJRZWVsYS1iTmJ4WnZOR1Fqc3Y5WmF6VU9jQmI2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMmx3UlRlQjNyUWtFVGs4dHpwc3VYWkg4ZWdBSmxGbmZlYzczV0hSRlJoRGRWdGo2Nk5iRTE5ZDFJOGp0cHFRV3FkZ1dvdXF0bE5SZWlrcWZFVmpyOEI0cTY5d1I1SEpEQ1NkVUVpMTgtSmQxcHp5MGp1UEUyVlNrV0NfZzZaUFdFS0t5RmpEMm1Ob0kzWXUzdl85cHp0N3FsX3ZzWmNZa3hKcE9MZm9QWnVXWTdQcHlueklzdlByZVBqQ0wxUGRBVXJRZWVsYS1iTmJ4WnZOR1Fqc3Y5WmF6VU9jQmI2UQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792473919.0
+    },
+    {
         "id": "91715cc773",
         "title_fa": "سفر محرمانه وزیر دفاع آمریکا به تل‌آویو آستانه انتخابات",
         "title_en": "Hegseth meets Netanyahu ahead of elections, possible Iran war restart",
@@ -5489,24 +5507,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1M5U2lDZk5oOGpBemFiQ1pNYnFPcmF2RHp3Z0p4Vy1YcThnZHJZQWZrTmRhTGtpcDEyX0dueTRYQXhPM2trb005YVh2eHpkN2Q1MTFVeHJKM0kyZ2dVMVpxd0NPR18xWlpOam9jT0ktd2R1dF9NUDRDTTVFUnZXYUE2eTAyRzN3QmpDVDV3YlJYYVBmSFE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792142599.0
-    },
-    {
-        "id": "0994b3ab33",
-        "title_fa": "مسدودسازی کانال‌های مالی ج.ا با پوشش نهادهای مذهبی",
-        "title_en": "Iran army says air defenses are stronger than during 40-day war",
-        "summary": [
-            "خزانه‌داری آمریکا نسبت به سوءاستفاده حکومت از شبکه‌های خیریه مذهبی برای دور زدن تحریم‌ها هشدار داد.",
-            "انتقال پول از طریق سیستم‌های هاوالا و قاچاق نقدی برای تأمین مالی نیابتی‌ها رصد شده است.",
-            "دولت ترامپ به دنبال قطع کامل دسترسی مالی ارکان حکومتی به منابع خارج از کشور است."
-        ],
-        "impact": "بسته شدن منافذ مالی پنهان حکومت و تشدید فشار ارزی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610167528",
-        "clean_url": "https://www.iranintl.com/en/202610167528",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792142520.0
     }
 ]
