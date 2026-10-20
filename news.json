@@ -237,6 +237,24 @@
         "timestamp": 1792469183.0
     },
     {
+        "id": "990a6503d2",
+        "title_fa": "پیوستن خبرنگار آمریکایی به یگان ویژه احمد در روسیه",
+        "title_en": "American national signs contract with Russian Defense Ministry's Akhmat commando unit",
+        "summary": [
+            "کریستوفر هلالی، خبرنگار و تفنگدار دریایی سابق آمریکایی با اصالت ایرانی و یونانی، قرارداد نظامی با یگان احمد وابسته به وزارت دفاع روسیه امضا کرد.",
+            "این فرد که درخواست شهروندی روسیه را داده، پس از طی دوره آموزشی در ارتش این کشور مشغول به خدمت شد."
+        ],
+        "impact": "استفاده تبلیغاتی مسکو از مهره‌های غربی برای جنگ روانی علیه واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2204557",
+        "clean_url": "https://tass.com/defense/2204557",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792464000.0
+    },
+    {
         "id": "86f46e99d7",
         "title_fa": "ادعای سپاه درباره ناتوانی آمریکا برای جنگ جدید",
         "title_en": "US 'exhausted and worn out', lacks capability to launch new conflict: IRGC",
@@ -5488,23 +5506,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mNG9kd05vSUlKdk9FclhnSnI0SklQTG5UVTlsT2pWOTJPdXJHcW5ySmo1alpTdVVPOXVpaENxSWFWVmVndmNZcWhnS1BWeGJybGkxMnFTT04tRHJPOXZr",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792148388.0
-    },
-    {
-        "id": "e19a1ff9f4",
-        "title_fa": "تهدیدهای پوچ نمایندگان مجلس برای تبدیل کاخ سفید به سیاه‌خانه",
-        "title_en": "Iran lawmaker threatens to turn White House into 'Black House'",
-        "summary": [
-            "مقامات دیپلماتیک سابق آمریکا با مرور کارنامه تهران از بحران گروگان‌گیری تا بمب‌گذاری‌های بیروت و الخبر، رفتارهای این حکومت را ریشه بحران‌های منطقه می‌دانند.",
-            "ادعاهای توخالی نمایندگان تندرو در مجلس در حالی مطرح می‌شود که عملکرد سیستم حاکم، کشور را در انزوای کامل بین‌المللی قرار داده است."
-        ],
-        "impact": "افزایش شکاف میان لفاظی‌های تندروهای داخلی و پیامدهای سنگین امنیتی آن در سطح بین‌المللی.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610162824",
-        "clean_url": "https://www.iranintl.com/en/202610162824",
-        "image": "http://www.bing.com/th?id=ONUT.5kFWnJR9B51-gB-aaxy8ZA&pid=News",
-        "timestamp": 1792147800.0
     }
 ]
