@@ -1,5 +1,24 @@
 [
     {
+        "id": "bbadb1ca1d",
+        "title_fa": "افت شاخص بورس توکیو و نوسانات بازار آسیا",
+        "title_en": "[October 20] Feature: GS upgrades, but CoreWeave ends lower after all",
+        "summary": [
+            "شاخص نیکی بورس توکیو با افت ۴۰۷ ینی روبرو شد و در ساعات اولیه معاملات ریزش سنگینی را تجربه کرد.",
+            "سهام مرتبط با هوش مصنوعی با فشار فروش سنگین سرمایه‌گذاران مواجه شدند.",
+            "حجم معاملات به پایین‌ترین سطح یک ماه اخیر رسید که نشان‌دهنده احتیاط شدید معامله‌گران است."
+        ],
+        "impact": "کاهش تمایل به خرید سنگین و تداوم احتیاط در بازارهای مالی آسیا.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "note",
+        "url": "https://note.com/loyal_kalmia3506/n/n8442af831433?hl=en",
+        "clean_url": "https://note.com/loyal_kalmia3506/n/n8442af831433",
+        "image": "https://www.bing.com/th?id=ONUT.o5QJjKeFq54PXvvFgOx8oQ",
+        "timestamp": 1792470664.6010103
+    },
+    {
         "id": "cbdb6da8d1",
         "title_fa": "آماده‌باش نظامی ایران و اسرائیل همزمان با وقت‌کشی آمریکا",
         "title_en": "Iran and Israel Rearm, While the U.S. Plays for Time",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.iranintl.com/en/202610160756",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792133520.0
-    },
-    {
-        "id": "beb647d0c9",
-        "title_fa": "نخستین تصاویر پاپ پس از عمل جراحی ریه",
-        "title_en": "Pope Leo to lead Sunday prayers as he recovers from lung surgery, Vatican says",
-        "summary": [
-            "انتشار تصاویر جدید از رهبر کاتولیک‌های جهان روی تخت بیمارستان",
-            "برگزاری مراسم دعا در بیمارستان و آمادگی برای حضور عمومی در روز یکشنبه"
-        ],
-        "impact": "بازگشت تدریجی رهبر واتیکان به فعالیت‌های عمومی پس از درمان سنگین",
-        "tag": "بین‌الملل",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/10/16/europe/pope-leo-lung-surgery-angelus-intl",
-        "clean_url": "https://edition.cnn.com/2026/10/16/europe/pope-leo-lung-surgery-angelus-intl",
-        "image": "http://www.bing.com/th?id=ONUT.QcdnW2JB67usjUMg6ih8Tg&pid=News",
-        "timestamp": 1792131120.0
     }
 ]
