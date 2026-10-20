@@ -330,6 +330,24 @@
         "timestamp": 1792512060.0
     },
     {
+        "id": "26da9ba1a9",
+        "title_fa": "نتانیاهو: هدف اصلی، براندازی حکومت ایران است",
+        "title_en": "Araghchi says Iran-US talks continue through Pakistan, Qatar",
+        "summary": [
+            "بنیامین نتانیاهو در سخنرانی اخیر خود بر حذف کامل و براندازی رژیم حاکم بر ایران به عنوان هدف اصلی تاکید کرد.",
+            "او هشدار داد که تضعیف نظامی تهران کافی نیست و تا زمانی که این حکومت بر سر کار است، تهدیدات هسته‌ای و نیابتی ادامه خواهد داشت."
+        ],
+        "impact": "افزایش حداکثری تنش‌ها و سیگنال روشن به بازارهای مالی از احتمال درگیری‌های نظامی سنگین‌تر",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610201499",
+        "clean_url": "https://www.iranintl.com/en/202610201499",
+        "image": "http://www.bing.com/th?id=ONUT.58kYZJtWpoozRICvHQEajA&pid=News",
+        "timestamp": 1792510800.0
+    },
+    {
         "id": "7e2fee0e05",
         "title_fa": "طرح صلح جدید میانجی‌ها برای تهران و واشنگتن",
         "title_en": "Exclusive: Mediators submit new peace proposal to Iran, US",
@@ -5490,23 +5508,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels/ar-AA2eqP8l",
         "image": "http://www.bing.com/th?id=ONUT.Fthtp9ZeRguHfYu4T0PP_w&pid=News",
         "timestamp": 1792213856.0
-    },
-    {
-        "id": "2909cffb5c",
-        "title_fa": "ادعای مسعود پزشکیان درباره عدم دستیابی به بمب اتم",
-        "title_en": "Pezeshkian slams propaganda, says Iran not after nukes",
-        "summary": [
-            "مسعود پزشکیان در اظهاراتی تلاش رسانه‌های خارجی را پروپاگاندا خوانdu و اتهام تلاش ج.ا.ا برای ساخت سلاح اتمی را رد کرد.",
-            "این موضع‌گیری در حالی مطرح می‌شود که فشارهای بین‌المللی بر سر برنامه هسته‌ای تهران به اوج رسیده است."
-        ],
-        "impact": "تلاش برای کاهش فشارهای دیپلماتیک از طریق تکذیب رسمی برنامه‌های نظامی هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "chinadailyhk",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14T0dibXh6ekhsRkRwQm04Q01WbWRIY25GSXdkcm95QTV0YlBkdXRkdTRZd2pGczRNTllCRXRqWFdmSEI5R1JuRkNUTEt5UnhOamc0ZjZPQ1U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14T0dibXh6ekhsRkRwQm04Q01WbWRIY25GSXdkcm95QTV0YlBkdXRkdTRZd2pGczRNTllCRXRqWFdmSEI5R1JuRkNUTEt5UnhOamc0ZjZPQ1U",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792211818.0
     }
 ]
