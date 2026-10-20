@@ -1,5 +1,23 @@
 [
     {
+        "id": "dd3306ad25",
+        "title_fa": "مخالفت اکثریت نظامیان آمریکایی با جنگ جدید علیه ایران",
+        "title_en": "Plurality of active-duty service members oppose Iran war: poll",
+        "summary": [
+            "نتایج نظرسنجی جدید نشان می‌دهد بدنه نظامیان فعال آمریکا مخالف درگیری نظامی با ایران هستند.",
+            "این موضع نشان‌دهنده خستگی بدنه نظامی ایالات متحده از جنگ‌های فرسایشی جدید در منطقه است."
+        ],
+        "impact": "کاهش احتمال ورود مستقیم نظامی آمریکا به جنگ فراگیر به دلیل فشار افکار عمومی درون ارتش.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcGxTUW5YLV81YWtUcUR4X1poRUVBN2dOU3RLeFkwODlzNjhLTzVFbXI3dkpXOUtNdk4tMDdzMjJ6UkxhQUo5c3RFTDBEN01yZ3NSOXBabzZKRUdjbmU5U0k0akdFdHhI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcGxTUW5YLV81YWtUcUR4X1poRUVBN2dOU3RLeFkwODlzNjhLTzVFbXI3dkpXOUtNdk4tMDdzMjJ6UkxhQUo5c3RFTDBEN01yZ3NSOXBabzZKRUdjbmU5U0k0akdFdHhI",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792469465.0
+    },
+    {
         "id": "86f46e99d7",
         "title_fa": "ادعای سپاه درباره ناتوانی آمریکا برای جنگ جدید",
         "title_en": "US 'exhausted and worn out', lacks capability to launch new conflict: IRGC",
@@ -5494,24 +5512,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DZVIxb0ZXZDAyQlhDU1VaWEtRN0t1RW1xMXBNYWFPLS03bW05TFdOTlItSWk5dEhrMzlSNGZNUzlieEtzUjVoYzVoNkdsZXdjQjNFRXh2Sk41eEpmYU1MT1ZCS19uWTE3SHc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792130373.0
-    },
-    {
-        "id": "0d5d14111c",
-        "title_fa": "بازی نامتقارن و دگرگونی بنیادین استراتژی در خاورمیانه",
-        "title_en": "The Victory of Asymmetry in the Iran War",
-        "summary": [
-            "خاورمیانه پس از حمله به عراق شاهد عمیق‌ترین تغییرات راهبردی است",
-            "رفتار حکومت در تنش‌ها نشان از تداوم بحران و جنگ فرسایشی دارد",
-            "دولت ترامپ اهداف سخت‌گیرانه‌ای را برای مهار ج.ا در منطقه دنبال می‌کند"
-        ],
-        "impact": "تغییرات استراتژیک منطقه را به سوی تنش‌های پایدار هدایت می‌کند",
-        "tag": "ژئوپلیتیک",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/articles/the-victory-of-asymmetry-in-the-iran-war",
-        "clean_url": "https://www.cfr.org/articles/the-victory-of-asymmetry-in-the-iran-war",
-        "image": "http://www.bing.com/th?id=ONUT.1BimAC4u76fQ9OyJVGp_eA&pid=News",
-        "timestamp": 1792130160.0
     }
 ]
