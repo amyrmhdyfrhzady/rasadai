@@ -1,5 +1,23 @@
 [
     {
+        "id": "26d2e46b89",
+        "title_fa": "گزارش حادثه برای یک نفتکش در نزدیکی سواحل عمان",
+        "title_en": "UKMTO reports tanker incident involving military forces off Oman",
+        "summary": [
+            "سازمان تجارت دریایی بریتانیا از وقوع یک حادثه امنیتی و درگیری نیروهای نظامی با یک نفتکش در آب‌های عمان خبر داد.",
+            "تلاش‌های دیپلماتیک قطر و پاکستان برای توافق جریان دارد، اما کارشناسان به دلیل عدم انعطاف تهران، به موفقیت آن خوش‌بین نیستند."
+        ],
+        "impact": "بالا رفتن هزینه بیمه و حمل‌ونقل دریایی در پی ناامنی‌های جدید در خلیج فارس.",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610203250",
+        "clean_url": "https://www.iranintl.com/en/202610203250",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792498620.0
+    },
+    {
         "id": "dcde4372ca",
         "title_fa": "فشار بر ریاض برای همراهی با تغییرات در ایران",
         "title_en": "Saudi Arabia should join US-led push for change in Iran, analyst says",
@@ -547,6 +565,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3FySlQ5ekdydmF0Mld1N0lDNTB3QnlEc0tpdXlhOW4yUldVZWFySEpReUF6TGJaaWNIREtwYldHcE9KUXVYQVNuTV9FVDJ5YlFtVHptbTdCY1J0TktLWE44NGRpRDRodnB1dGlLUW9hNTJPZGYtREZqaDNpODJLMklIN2hvZzJDR0ZfWVhJSlZjUQ",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792452155.0
+    },
+    {
+        "id": "354c521aea",
+        "title_fa": "تهدید منافع آمریکا توسط ارتش ج.ا.ا بدون محدودیت",
+        "title_en": "Iran armed forces chief says US interests would be targeted 'without limitation'",
+        "summary": [
+            "رئیس ستاد کل نیروهای مسلح ج.ا.ا با لفاظی‌های همیشگی مدعی شد منافع آمریکا در منطقه بدون هیچ محدودیتی هدف قرار خواهد گرفت.",
+            "کارشناسان امنیتی این اظهارات را بیشتر مصرف داخلی و تلاش برای بازدارندگی پوشالی در برابر فشارهای فزاینده ارزیابی می‌کنند."
+        ],
+        "impact": "افزایش تنش‌های لفظی و بالا رفتن ریسک امنیتی در آب‌های منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610203922",
+        "clean_url": "https://www.iranintl.com/en/202610203922",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792449240.0
     },
     {
         "id": "5371170179",
@@ -5468,42 +5504,5 @@
         "clean_url": "https://www.iranintl.com/en/202610160393",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792160160.0
-    },
-    {
-        "id": "fa35219c69",
-        "title_fa": "مسکو: برگزاری انتخابات در اوکراین وظیفه قانونی است",
-        "title_en": "Russian MFA comments on Zelensky as 'incredible disgrace,' Kiev's hunt for journalists",
-        "summary": [
-            "مسکو برگزاری انتخابات را یک تکلیف قانونی برای اوکراین می‌داند نه فشار کرملین",
-            "دستگاه دیپلماسی روسیه خواستار محکومیت بین‌المللی اقدامات کی‌یف علیه خبرنگاران شد"
-        ],
-        "impact": "تشدید جنگ روانی و دیپلماتیک مسکو علیه ساختار سیاسی کی‌یف",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2203103",
-        "clean_url": "https://tass.com/politics/2203103",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261016/1490069.jpg",
-        "timestamp": 1792158480.0
-    },
-    {
-        "id": "13a0d5e7f2",
-        "title_fa": "فلج مالی سـپـاه؛ سنتکام ۲۵ میلیارد دلار نفت را بلوکه کرد",
-        "title_en": "CENTCOM says it blocked $25 billion in Iran oil exports, IRGC struggling with paychecks",
-        "summary": [
-            "سنتکام از مسدودسازی ۲۵ میلیارد دلار صادرات نفت ایـران خبر داد.",
-            "فشار تحریم‌ها باعث شده سـپـاە در پرداخت حقوق نیروهای خود با چالش جدی روبه‌رو شود.",
-            "گروه‌های نیابتی نیز برای نجات ماشین مالی حکومت، در حال تزریق پول نقد به بدنه سـپـاە هستند."
-        ],
-        "impact": "تنگنای شدید مالی، توان پرداخت حقوق و هزینه‌های نظامی ماشین جنگی حکومت را به‌شدت کاهش داده است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610162840",
-        "clean_url": "https://www.iranintl.com/en/202610162840",
-        "image": "http://www.bing.com/th?id=ONUT.m0YHH_YR-LLy-zk95Yi_8Q&pid=News",
-        "timestamp": 1792157340.0
     }
 ]
