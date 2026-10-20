@@ -863,6 +863,25 @@
         "timestamp": 1792483982.0
     },
     {
+        "id": "42927ba098",
+        "title_fa": "تناقض در بازگشایی مرز ایران و پاکستان",
+        "title_en": "IRGC outlet says Iran-Pakistan border remains closed despite Munir announcement",
+        "summary": [
+            "سپاه پاسداران ادعای ارتش پاکستان درباره بازگشایی مرزها را رد کرد.",
+            "گمرک پاکستان از باز کردن کامل مرزها خودداری کرده و توافقات انجام شده عملی نشده است.",
+            "ترتیب جدید مرزی صرفاً نیازهای اسلام‌آباد را تامین می‌کند و مشکلات تجاری ایران را حل نمی‌کند."
+        ],
+        "impact": "ادامه بلاتکلیفی تجاری و مسدود ماندن مرزهای کلیدی میان دو کشور",
+        "tag": "مرزی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610202553",
+        "clean_url": "https://www.iranintl.com/en/202610202553",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792483680.0
+    },
+    {
         "id": "fa727b4b57",
         "title_fa": "ادعای مجلس درباره شکست تحریم‌ها و جنگ جنگی خواندن محاصره",
         "title_en": "Iran lawmaker says US must accept defeat, calls blockade a 'war crime'",
@@ -5489,23 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14T0dibXh6ekhsRkRwQm04Q01WbWRIY25GSXdkcm95QTV0YlBkdXRkdTRZd2pGczRNTllCRXRqWFdmSEI5R1JuRkNUTEt5UnhOamc0ZjZPQ1U",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792211818.0
-    },
-    {
-        "id": "30ee052f75",
-        "title_fa": "شرط تازه ارتش برای بازگشایی تنگه هرمز: خروج آمریکا از منطقه",
-        "title_en": "‘US must leave region for Strait of Hormuz to reopen’: Iranian Army spokesperson",
-        "summary": [
-            "سخنگوی ارتش جـ.ـمهوری اسـ.ـلامی خروج نیروهای آمریکایی را پیش‌شرط باز ماندن و امنیت تنگه استراتژیک هرمز اعلام کرد.",
-            "این تهدیدات نشان می‌دهد تهران همچنان از اهرم فشار انرژی برای مقابله با تحریم‌ها و فشارهای غرب استفاده می‌کند."
-        ],
-        "impact": "افزایش تنش‌های نظامی در آب‌های خلیج فارس و بالا رفتن ریسک امنیت کشتیرانی تجاری.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Firstpost",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2RsSi0xMHQ2TlQzV012QTllMzdYbVc3bzdBUGdXSEtVeVFWX3kxUS1iSjVIUFZrcDBfUy12UWpibTM4MW1hMU9zMlJIdjZSSjFzYXNuVC1feHNVYlRpMkQ0TjZHVUdsWHF5ZVdGRG5DdXo5NExVNFREcDJKRE9qdEdJU0dRX282dlNjTHRndy1zZF9iTWZwV1dteUNsVWJPRlBOSXpMaTBNclJIck9GRXJiVmgyNzcxYnNZenBjZGnSAcYBQVVfeXFMUGkwQlZFWXBER2x3NGhkR01wMVlHMzNmYjlEeG1fQktGT3duVEZmdGM2NFhhSzZ4LWpQQ2FRRGtleGIyR1ByQUNOT0hfRHRGYmthUEFrZUtKRjNmblJER2wxYU5uUmludV9Yd3lWMk9fN3ExZjI2QzhaOS15d08wQWpxUWUzNTVBOS1DWVF5MXNKcDBDbEoxWHhyTjY2cjlqT2pCSzNfOV9HZVcwVTlKN3l2X2xHcW1ZVmNBaHZNdnV2UHFveFN3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2RsSi0xMHQ2TlQzV012QTllMzdYbVc3bzdBUGdXSEtVeVFWX3kxUS1iSjVIUFZrcDBfUy12UWpibTM4MW1hMU9zMlJIdjZSSjFzYXNuVC1feHNVYlRpMkQ0TjZHVUdsWHF5ZVdGRG5DdXo5NExVNFREcDJKRE9qdEdJU0dRX282dlNjTHRndy1zZF9iTWZwV1dteUNsVWJPRlBOSXpMaTBNclJIck9GRXJiVmgyNzcxYnNZenBjZGnSAcYBQVVfeXFMUGkwQlZFWXBER2x3NGhkR01wMVlHMzNmYjlEeG1fQktGT3duVEZmdGM2NFhhSzZ4LWpQQ2FRRGtleGIyR1ByQUNOT0hfRHRGYmthUEFrZUtKRjNmblJER2wxYU5uUmludV9Yd3lWMk9fN3ExZjI2QzhaOS15d08wQWpxUWUzNTVBOS1DWVF5MXNKcDBDbEoxWHhyTjY2cjlqT2pCSzNfOV9HZVcwVTlKN3l2X2xHcW1ZVmNBaHZNdnV2UHFveFN3",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792209679.0
     }
 ]
