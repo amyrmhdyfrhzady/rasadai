@@ -456,6 +456,25 @@
         "timestamp": 1792480560.0
     },
     {
+        "id": "db25bf81c4",
+        "title_fa": "فلج کردن شریان‌های مالی ج.ا با عملیات طرد اقتصادی",
+        "title_en": "Bessent tightens screws on Iran's banks as gas holds at $4.33",
+        "summary": [
+            "خزانه داری آمریکا با هدف قرار دادن بانک‌های واسطه، آخرین مجراهای تنفس مالی ج.ا را مسدود کرده است.",
+            "آمارها نشان می‌دهد صادرات نفت ج.ا به دلیل محاصره دریایی عملاً به صفر رسیده و منابع ارزی در حال اتمام است.",
+            "استراتژی جدید واشنگتن، قطع بودجه ماشین جنگی از طریق خشکاندن درآمدهای نفتی و تحریم شبکه بانکی است."
+        ],
+        "impact": "فشار بی‌سابقه بر ذخایر ارزی و ناتوانی در تامین هزینه‌های نظامی و نیابتی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/bessent-tightens-screws-irans-banks-171722077.html",
+        "clean_url": "https://finance.yahoo.com/economy/policy/articles/bessent-tightens-screws-irans-banks-171722077.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/3ed5f8f6bb7aae40a4a5888b9b507a09b5d94ee28a1194b811479ac0183a1fd8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F456e08f784d2739ba9d7a9802f7b7afd.jpg",
+        "timestamp": 1792479600.0
+    },
+    {
         "id": "46df3d996a",
         "title_fa": "کناره‌گیری بنی گانتس و تغییرات جدید در نقشه سیاسی اسرائیل",
         "title_en": "نتانیاهو: سرنگونی رژیم ایران در دستور کار موساد و ارتش است",
@@ -5487,24 +5506,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-war-votes-congress-become-040533605.html",
         "image": "https://s.yimg.com/lo/mysterio/api/b51a0d8520ada7127598ab2da68b1bc74a9bb4934b85ca40ca6e1d1560a79a80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F13da9d04a14ede3f9f2eb62909bb2a9a.jpg",
         "timestamp": 1792184700.0
-    },
-    {
-        "id": "2f268bee53",
-        "title_fa": "افشای نقشه چندساله برای تجهیز و فعال‌سازی حوثی‌های یمن",
-        "title_en": "Iran cultivated Houthis for years before opening new war front, Yemeni insider says",
-        "summary": [
-            "منابع آگاه یمنی فاش کردند که تجهیز و آموزش حوثی‌ها توسط سپـ..ـاه از سال‌ها پیش برای گشودن یک جبهه دریایی برنامه‌ریزی شده بود.",
-            "حملات موشکی و پهپادی اخیر در دریای سرخ نه یک واکنش مقطعی، بلکه نتیجه سرمایه‌گذاری طولانی‌مدت برای تهدید تجارت دریایی است.",
-            "وابستگی فنی و اطلاعاتی حوثی‌ها ثابت می‌کند کلید تشدید یا مهار بحران در دست اتاق فرمان تـ..ـهران قرار دارد."
-        ],
-        "impact": "افزایش احتمال هدف قرار گرفتن مستقیم خطوط تدارکاتی و فرماندهان هدایت‌کننده در یمن توسط ائتلاف غربی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52cDlod25TVmxrTjQ3bWFhNDBTcTY3MjF3d0JOMjRPRnVqMDhHSEhZTDQzdnVsRE5uTlFYUmYzcDIzYVhIVlZEVjAxMEtTdHhXeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52cDlod25TVmxrTjQ3bWFhNDBTcTY3MjF3d0JOMjRPRnVqMDhHSEhZTDQzdnVsRE5uTlFYUmYzcDIzYVhIVlZEVjAxMEtTdHhXeVE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792183406.0
     }
 ]
