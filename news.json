@@ -1,5 +1,24 @@
 [
     {
+        "id": "711a75a021",
+        "title_fa": "بازی با مین‌های دریایی در تنگه هرمز همزمان با مذاکرات",
+        "title_en": "Iran Has a New Way to Humiliate Donald Trump: Tehran Could Drop Mines Into the Strait of Hormuz and Spark a Crisis",
+        "summary": [
+            "ادعای برخورد سه نفتکش با مین‌های دریایی در تنگه هرمز، تلاشی مستقیم برای امنیتی کردن مسیر و ایجاد فشار همزمان با آغاز گفتگوها در سوئیس است.",
+            "سنتکام وقوع این برخوردها را رد کرده، در حالی که تهران در تلاش است تردد کشتی‌های تجاری را به سمت آب‌های خود و مسیرهای مشمول عوارض هدایت کند.",
+            "این تحرکات نوعی ارزیابی خطوط قرمز دونالد ترامپ برای سنجش واکنش کاخ سفید به ناامنی ترانزیت انرژی قلمداد می‌شود."
+        ],
+        "impact": "افزایش ناگهانی نرخ بیمه نفتکش‌ها در خلیج فارس و بالا رفتن احتمال رویارویی گشت‌های دریایی طرفین.",
+        "tag": "تنگه هرمز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "nationalsecurityjournal",
+        "url": "https://www.msn.com/en-us/news/other/iran-has-a-new-way-to-humiliate-donald-trump-tehran-could-drop-mines-into-the-strait-of-hormuz-and-spark-a-crisis/ar-AA2fJJiA",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-new-way-to-humiliate-donald-trump-tehran-could-drop-mines-into-the-strait-of-hormuz-and-spark-a-crisis/ar-AA2fJJiA",
+        "image": "https://nationalsecurityjournal.org/wp-content/uploads/2025/05/Donald-Trump-31.jpg",
+        "timestamp": 1792591819.0
+    },
+    {
         "id": "69facc87e7",
         "title_fa": "رونمایی سپاه از بمب جدید؛ بلوف نظامی یا تهدید واقعی؟",
         "title_en": "Iran’s Revolutionary Guards say preparing to unveil ‘father of all bombs’",
@@ -432,6 +451,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuRmk2ZkN5YmhMVDdybEYtVm91RDhRcE5wX01XM2Fudmd4ZFlEVXhsaTdOR2dmMF9tZloxcGZsSGlOb2RWTGZLZk5kdmZhRWFZS3ZyajlpOHRQdnlYMnJsaVN2ejdGd2g5Q2tOZm0xUXo2X21JUldR",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792567515.0
+    },
+    {
+        "id": "1a120ea998",
+        "title_fa": "رکوردشکنی فرونشست ۴۰ سانتی‌متری زمین در استان کرمان",
+        "title_en": "Land subsidence threatens villages and farms in southeast Iran",
+        "summary": [
+            "دشت‌های رفسنجان، انار، زرند و سیرجان سالانه بین ۳۰ تا ۴۰ سانتی‌متر فرونشست دارند و شکاف‌های زمین به نزدیکی منازل مسکونی و باغ‌ها رسیده‌اند.",
+            "تخلیه بی‌رویه و کنترل‌نشده سفره‌های آب زیرزمینی عامل اصلی این فاجعه است که امنیت سکونت در چندین روستا را عملاً از بین برده است."
+        ],
+        "impact": "تخلیه اجباری روستاهای حاصلخیز و نابودی زیرساخت‌های بزرگ‌ترین قطب تولید پسته کشور.",
+        "tag": "بحران آب",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610218229",
+        "clean_url": "https://www.iranintl.com/en/202610218229",
+        "image": "http://www.bing.com/th?id=ONUT.OFb5rE9VBeX7lasrMoKPnA&pid=News",
+        "timestamp": 1792567500.0
     },
     {
         "id": "41b8857687",
@@ -5461,41 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RaFFoQnhQemhZS0hOTlU2RWFQODVkNm5kV1o3ZHl5M1M2TGlhV2ZLRTJYZnhYMjdKQmdFYXByTDJCNm9mSWNNcmh2dW4tM2dxTmJIRlRtQkV3WFJfcHBEamdZWjlVM1pGTHBLUHM4aEZRd2NiYU1EcQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792302044.0
-    },
-    {
-        "id": "187584402a",
-        "title_fa": "فشار واشنگتن برای تعهد کتبی و قابل راستی‌آزمایی هسته‌ای از تهران",
-        "title_en": "US seeks 'verifiable commitment' Iran won't rebuild nuclear programme, Vance says",
-        "summary": [
-            "معاون رئیس‌جمهور آمریکا تأکید کرده که دولت این کشور به دنبال تضمین‌های محکم و غیرقابل بازگشت است تا برنامه هسته‌ای ج.ا دوباره احیا نشود.",
-            "این موضع نشان می‌دهد که غرب دیگر به توافق‌های شکننده قبلی اعتماد ندارد و مکانیسم راستی‌آزمایی سخت‌گیرانه‌ای را مد نظر قرار داده است."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و اقتصادی بر تهران برای پذیرش توافق‌های سفت و سخت‌تر",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOU9IcF9VUGY3Y3lUZ294NHFvcjN5STUzMmVoZE9YUFJicktCZWw5N0Q4QzZ2Z1MxUkVyaGRieHpub252dlk3NEwxYkUxTHloWHpaSlJHN0kwaWtRVzZ2REl2ZFkzNE1oOVpZTHVNS2dPNGtNRXZMOEI3MzM0OXN2V0YwNnVhdXBPUE5VUmpXS19xY0drVkEyWms3Y3dJd2pXTW5KbG5kTTBNWDd5SlFrclpaRXRSLURQbzRla2hqWlNpZmIzUkozY2drSXVXWm12SHIxQW9oWkQ2Qml5VHl4XzBGUTJMRWdpY0paazhza1FqUVZjVS1HV0NBTHZKczIxWVJMa0NlNnQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOU9IcF9VUGY3Y3lUZ294NHFvcjN5STUzMmVoZE9YUFJicktCZWw5N0Q4QzZ2Z1MxUkVyaGRieHpub252dlk3NEwxYkUxTHloWHpaSlJHN0kwaWtRVzZ2REl2ZFkzNE1oOVpZTHVNS2dPNGtNRXZMOEI3MzM0OXN2V0YwNnVhdXBPUE5VUmpXS19xY0drVkEyWms3Y3dJd2pXTW5KbG5kTTBNWDd5SlFrclpaRXRSLURQbzRla2hqWlNpZmIzUkozY2drSXVXWm12SHIxQW9oWkQ2Qml5VHl4XzBGUTJMRWdpY0paazhza1FqUVZjVS1HV0NBTHZKczIxWVJMa0NlNnQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792301640.0
-    },
-    {
-        "id": "c81ff38332",
-        "title_fa": "خطر جنگ اتمی و ناکارآمدی رهبران",
-        "title_en": "An Existential Threat: Presidential Incoherence and Nuclear War",
-        "summary": [
-            "ضعف تصمیم‌گیری در بالاترین سطح قدرت، ریسک جنگ اتمی را بالا برده است.",
-            "شرایط بحرانی جهان نیازمند مدیریت قاطع است نه سردرگمی سیاسی."
-        ],
-        "impact": "افزایش نگرانی‌های جهانی نسبت به احتمال بروز درگیری اتمی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1lXYVVET2g0bEVJQklVczVZTUpnSEpQcHBvMVhyVFFjRDVyMFoyaGJ6dW1vT05fTU95UkVxd0EzeVpLUFZaNXY5a1FDMXFVeF9OUDdRa1Y4alYzOWlTUGlNRFNBRG1fd2hEM2VENUotYjN3aUpsYTV5MnBhUGFOTlBsMEdZSVBUOWJFbmlST1RQdlV6MzJaLXg1NjRxYWxFRHNF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1lXYVVET2g0bEVJQklVczVZTUpnSEpQcHBvMVhyVFFjRDVyMFoyaGJ6dW1vT05fTU95UkVxd0EzeVpLUFZaNXY5a1FDMXFVeF9OUDdRa1Y4alYzOWlTUGlNRFNBRG1fd2hEM2VENUotYjN3aUpsYTV5MnBhUGFOTlBsMEdZSVBUOWJFbmlST1RQdlV6MzJaLXg1NjRxYWxFRHNF",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792301427.0
     }
 ]
