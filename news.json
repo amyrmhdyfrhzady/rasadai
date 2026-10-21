@@ -363,6 +363,59 @@
         "timestamp": 1792553791.0
     },
     {
+        "id": "619dba5e03",
+        "title_fa": "آمادگی وزارت دادگستری آمریکا برای نظارت بر انتخابات",
+        "title_en": "Monitoring the monitors: US states prepare for surge of Justice Dept election watchers",
+        "summary": [
+            "نیروهای نظارتی وزارت دادگستری آمریکا برای رصد روند انتخابات مقدماتی در ایالت‌ها مستقر شدند."
+        ],
+        "impact": "افزایش نظارت‌های دولتی بر سلامت فرآیند رأی‌گیری.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/monitoring-the-monitors-us-states-prepare-for-surge-of-justice-dept-election-watchers/ar-AA2fJ3kX",
+        "clean_url": "https://www.msn.com/en-us/news/other/monitoring-the-monitors-us-states-prepare-for-surge-of-justice-dept-election-watchers/ar-AA2fJ3kX",
+        "image": "http://www.bing.com/th?id=ONUT.hfK9y7DZGrLHNxP5ERzAxQ&pid=News",
+        "timestamp": 1792551930.0
+    },
+    {
+        "id": "548646e4de",
+        "title_fa": "رقابت داغ برای تصاحب کرسی خالی کنگره در ایلینوی",
+        "title_en": "Illinois 2nd District race: Democrat Donna Miller aims to succeed Robin Kelly — and stay for years",
+        "summary": [
+            "پس از سال‌ها حضور نماینده قبلی، سه نامزد جدید برای ورود به مجلس نمایندگان رقابت می‌کنند.",
+            "این حوزه انتخاباتی سابقه طولانی در تغییرات جنجالی نمایندگان دارد."
+        ],
+        "impact": "تغییر مهره‌های کلیدی در یکی از حوزه‌های سنتی کنگره.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/10/21/illinois-2nd-district-election/",
+        "clean_url": "https://www.chicagotribune.com/2026/10/21/illinois-2nd-district-election",
+        "image": "http://www.bing.com/th?id=ONUT.12jAfCNWuPMaDbgiokeI_w&pid=News",
+        "timestamp": 1792551600.0
+    },
+    {
+        "id": "be1310911e",
+        "title_fa": "فشار مراکز داده هوش مصنوعی بر شبکه برق ایلینوی",
+        "title_en": "Illinois’ electric grid is under a lot of stress. What does that mean for consumers?",
+        "summary": [
+            "رشد انفجاری مراکز داده برای تامین نیروی هوش مصنوعی، شبکه برق شیکاگو را زیر فشار شدید قرار داده است.",
+            "این وضعیت یادآور بحران خاموشی‌های گذشته و ضرورت بازسازی زیرساخت‌هاست."
+        ],
+        "impact": "خطر ناپایداری شبکه برق همزمان با گسترش تکنولوژی‌های نوین.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/energy/2026/10/21/illinois-electric-grid-is-under-a-lot-of-stress-what-does-that-mean-for-consumers",
+        "clean_url": "https://chicago.suntimes.com/energy/2026/10/21/illinois-electric-grid-is-under-a-lot-of-stress-what-does-that-mean-for-consumers",
+        "image": "http://www.bing.com/th?id=ONUT.Jpf8dEDpDV9u2eBCpS7hkw&pid=News",
+        "timestamp": 1792551600.0
+    },
+    {
         "id": "e98f8e0bba",
         "title_fa": "سایه سنگین جنگ با ای-ران بر انتخابات میان‌دوره",
         "title_en": "Iran war looms over the midterms",
@@ -379,6 +432,23 @@
         "clean_url": "https://www.politico.com/newsletters/new-york-playbook/2026/10/21/iran-war-looms-over-the-midterms-01128748",
         "image": "http://www.bing.com/th?id=ONUT.2ThY6QAD5-KbAbpUSydPhQ&pid=News",
         "timestamp": 1792551600.0
+    },
+    {
+        "id": "df0fc14a03",
+        "title_fa": "اهرم فشار جمهوری‌خواهان نیویورک روی ناامنی‌های شهری",
+        "title_en": "New York Republicans wield public safety fears in a tough midterm climate",
+        "summary": [
+            "نامزد فرمانداری جمهوری‌خواهان با برجسته کردن بحران امنیت مترو، رقبا را به حمایت از مجرمان متهم کرد."
+        ],
+        "impact": "بهره‌برداری سیاسی از موضوع امنیت عمومی در آستانه انتخابات.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/10/21/new-york-republicans-wield-public-safety-fears-in-a-tough-midterm-climate-01128353",
+        "clean_url": "https://www.politico.com/news/2026/10/21/new-york-republicans-wield-public-safety-fears-in-a-tough-midterm-climate-01128353",
+        "image": "http://www.bing.com/th?id=ONUT.xwTYYHh0ecj21SUNF58tqw&pid=News",
+        "timestamp": 1792551480.0
     },
     {
         "id": "5f9e20fa6d",
@@ -399,6 +469,24 @@
         "timestamp": 1792551480.0
     },
     {
+        "id": "7e5e681623",
+        "title_fa": "پیشتاز بودن دموکرات‌ها در روزهای نخست رأی‌گیری زودهنگام",
+        "title_en": "Tens of thousands in CT have already voted. Here’s where",
+        "summary": [
+            "آمارها نشان می‌دهد رای‌دهندگان دموکرات با اختلاف زیادی در آغاز رای‌گیری زودهنگام در کانکتیکات شرکت کرده‌اند.",
+            "رقابت اصلی فرمانداری میان نامزد دموکرات و سناتور جمهوری‌خواه در جریان است."
+        ],
+        "impact": "مشارکت زودهنگام بالا و برتری اولیه حامیان حزب دموکرات.",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Hartford Courant",
+        "url": "https://www.courant.com/2026/10/21/tens-of-thousands-in-ct-have-already-voted-heres-where/",
+        "clean_url": "https://www.courant.com/2026/10/21/tens-of-thousands-in-ct-have-already-voted-heres-where",
+        "image": "http://www.bing.com/th?id=ONUT.hOP2yz3bwOi-8fsbcWj5-A&pid=News",
+        "timestamp": 1792549920.0
+    },
+    {
         "id": "92e9064b1f",
         "title_fa": "بحران جنگ با آمریکا و تشدید گرسنگی جهانی",
         "title_en": "The US-Iran war is making world hunger much worse",
@@ -415,6 +503,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGlMc01WOFF6cmExbmFTbDdnQ1ZvWmNqRXpGSHowZzMzVkV3cUZBd1R1Y0lkdDlNcFVFM0VURzhKdXRSYURDdFZFNXBEci1WUnJTVHNhODBaVFkwRm8wbXBsRGdDS0ZfbjJQMlBkTmxRMmJLd1VodTVRdnk1MjRFZ3gyelhuMjcwRlRRWXZxYk1VSmtNal9HemlR0gGqAUFVX3lxTFBzaFc5Z1BMMzlRZ1hWcDM3X2lzOHhXa2hfc1BiaFhwRVRfU0NqODB1SGxwbkNLVGRHc0c5ZHBuWE9WcTdFbVBLUmpfb0NvY3k3eFlIX2R0d1BDMnI1aHA5ejRiMkRTMjR6NTlnaXdPZHk2MWNDd2xDX0tPZ0lzY2stR2lXMGdKc2V4THBYNUcxanJ1VDVvRVlSbm1KaEQtTS1aa3RKSXVhRnlR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792549882.0
+    },
+    {
+        "id": "2cea0d982e",
+        "title_fa": "حضور چهره‌های غیرسنتی در رقابت‌های کنگره",
+        "title_en": "These Democrats could win competitive races. None are politicians | Opinion",
+        "summary": [
+            "نامزدهای غیرمتعارف دموکرات با رویکردهایی متفاوت وارد رقابت‌های انتخاباتی کنگره شده‌اند."
+        ],
+        "impact": "تغییر چهره سنتی نامزدهای حزب دموکرات در برخی حوزه‌ها.",
+        "tag": "انتخابات",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/these-democrats-could-win-competitive-races-none-are-politicians-opinion/ar-AA2fJdfD",
+        "clean_url": "https://www.msn.com/en-us/news/other/these-democrats-could-win-competitive-races-none-are-politicians-opinion/ar-AA2fJdfD",
+        "image": "http://www.bing.com/th?id=ONUT.Gld1zgTZyN0vnmPJ-UiYgw&pid=News",
+        "timestamp": 1792548289.0
     },
     {
         "id": "68bbb0daaa",
@@ -453,6 +558,24 @@
         "clean_url": "https://www.iranintl.com/en/202610214368",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792545960.0
+    },
+    {
+        "id": "5b2a82a789",
+        "title_fa": "چراغ سبز لندن به حفاری گاز در دریای شمال",
+        "title_en": "Britain Approves Long-Stalled Gas Drilling Project in the North Sea",
+        "summary": [
+            "دولت بریتانیا با وجود مخالفت شدید حامیان محیط زیست، مجوز پروژه حفاری گاز در دریای شمال را صادر کرد.",
+            "هدف اصلی این طرح کاهش وابستگی کشور به انرژی وارداتی اعلام شده است."
+        ],
+        "impact": "تلاش لندن برای تامین امنیت انرژی علی‌رغم انتقادات محیط‌زیستی.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
+        "clean_url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
+        "image": "http://www.bing.com/th?id=ONUT.HQwMwDpSMI6JvCoJM7f_YQ&pid=News",
+        "timestamp": 1792541340.0
     },
     {
         "id": "574519e856",
@@ -529,6 +652,23 @@
         "timestamp": 1792540800.0
     },
     {
+        "id": "de479c7a1a",
+        "title_fa": "دولت ترامپ برای مهار قیمت‌ها نفت اضطراری عرضه می‌کند",
+        "title_en": "Exclusive-US aims to loan about a third of heating oil reserve in bid to tame prices",
+        "summary": [
+            "دولت ترامپ در تلاش برای کنترل قیمت سوخت، حدود یک‌سوم از ذخایر اضطراری نفت گرمایشی را به بازار قرض می‌دهد."
+        ],
+        "impact": "تلاش دولت برای آرام کردن بازار انرژی و مهار تورم سوخت.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/nation-world/national/article317712381.html",
+        "clean_url": "https://www.newsobserver.com/news/nation-world/national/article317712381.html",
+        "image": "http://www.bing.com/th?id=ONUT.pKHhrON6aiNK5SIJBN4UbQ&pid=News",
+        "timestamp": 1792538340.0
+    },
+    {
         "id": "23eee4deb3",
         "title_fa": "رایزنی محرمانه پنتاگون با تل‌آویو درباره پروندۀ ای-ران",
         "title_en": "Hegseth discusses Iran with Netanyahu in unannounced visit t...",
@@ -581,6 +721,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-says-not-a-single-gram-of-enriched-uranium-will-leave-no-us-talks-until-trump-meets-tehran-s-conditions/ar-AA2fHPdi",
         "image": "http://www.bing.com/th?id=ONUT.hmvyj7o0iEyGr1FbrW660g&pid=News",
         "timestamp": 1792535566.0
+    },
+    {
+        "id": "fa07831c11",
+        "title_fa": "جدال انتخاباتی در ایلینوی پیرامون سیاست‌های ترامپ و جنگ",
+        "title_en": "In Illinois’ only faceoff for US Senate, Tracy backs Trump’s policies, Stratton vows to stand up to president",
+        "summary": [
+            "نامزد جمهوری‌خواه از سیاست‌های دونالد ترامپ و جنگ حمایت کرد و آن را مانع جنگ جهانی دانست.",
+            "رقیب دموکرات خواستار پایان جنگ و توقف بودجه‌های فدرال برای آن شد."
+        ],
+        "impact": "دو قطبی شدن فضای انتخابات سنا بر سر رویکردهای مداخله‌جویانه.",
+        "tag": "انتخابات",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/10/20/in-illinois-only-faceoff-for-us-senate-tracy-backs-trumps-policies-stratton-vows-to-stand-up-to-president/",
+        "clean_url": "https://www.chicagotribune.com/2026/10/20/in-illinois-only-faceoff-for-us-senate-tracy-backs-trumps-policies-stratton-vows-to-stand-up-to-president",
+        "image": "http://www.bing.com/th?id=ONUT.058nVT-4GX1Y31TEkDHnRQ&pid=News",
+        "timestamp": 1792531740.0
     },
     {
         "id": "e4cf2330d3",
@@ -5344,168 +5502,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0l1V2lHN0lqYXFjaEg4N3R1ZnhUSFVRSXZIV1c4b0dpc1A0LUZCVUpkbkMzQnEtMUo4NGktQ05idGlMLU03WlZQM2tId01VM1V6eF9qU0NZeXZ0c0hZbUFzbVRVaTlfaGlqdE1YYTZ3RFRBWm1RUFd1U0tCT0ZLMl9XLWZUa0JLMHBNalJWTHBURnh6RVpSYWs1OWdKai1SUzA4RncxNEtVcnJURWEzV2c2ONIBuAFBVV95cUxNTWFyZ1ZwYk84V1VFbkhhVXNXclhGWjB4eVdmLWN0ajhkOUhWTFBJZkMwRW1VQVZ0RVVJYkhBeEtHUGRwY0YtRHhFUDhNenBYV1JzSUUzY3pGLVNGeFVaQjNNMk1zSmRxRVNJdGE4R0pGaFhpLWg4ZTBXNGFFRVdld1gyNldIVW9GbFVpdHozQkFDcmlpa3N2S0gzTjhqZkIxWHJjd0ExeU5xTDZyZUVROFlEOElJZHZ4",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792267368.0
-    },
-    {
-        "id": "211642f7df",
-        "title_fa": "دستور آماده‌باش به دیپلمات‌های آمریکایی علیه تـــــرس از حمله",
-        "title_en": "Rubio orders US diplomats to push countries for swift action against Iran amid 'elevated risk of attack' - ABC News",
-        "summary": [
-            "مارکو روبیو به دیپلمات‌های آمریکایی ماموریت داده تا کشورها را برای اقدام سریع علیه جــــموری اســــلامی تحت فشار بگذارند.",
-            "این تصمیم مستقیماً به دلیل بالا رفتن ریسک حملات و تهدیدهای امنیتی در منطقه اتخاذ شده است."
-        ],
-        "impact": "افزایش انزوای دیپلماتیک و تشدید فشارهای بین‌المللی علیه تهران.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcC15TzQ1NnFqeXZSQzRQVkJ4MkZKeUEzRi1GR2hZbDlSY0FSMG1kcEFTaHFOdXZEMHl4UFptbnRIeEN3YjE2WVl1VmNBdm5iWVg1NmU0NFhzS1JLRjdGYm5aV0FTOUM3REp4R3FyN0JnRTZrcmxzN3lERW1ld1puTzlJczhuaW9pMmVnaFhUNDA3djJ1RkdWSUU2elNqRlNiN2FJ0gGoAUFVX3lxTE9HYTk1b1BuNVFTT2tCYzNiM3dmSWhfUmxwbTEtaWJOSDZpbXZIalBMdDBYQnJWSEhOME8tZWpHaGpyS2lfbEszQmNhY05Uc1lGeG81RkRtWm5rWmJNZ1NfNFVsUWFUR1phWFotMUp1STZrU1RMZ1ppVGR2OHZjb01VMHo4NmxZcEx6OFllTUhrek1wRUJEWWwwTkpOaWdnaUJoTGU4QTFsdQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcC15TzQ1NnFqeXZSQzRQVkJ4MkZKeUEzRi1GR2hZbDlSY0FSMG1kcEFTaHFOdXZEMHl4UFptbnRIeEN3YjE2WVl1VmNBdm5iWVg1NmU0NFhzS1JLRjdGYm5aV0FTOUM3REp4R3FyN0JnRTZrcmxzN3lERW1ld1puTzlJczhuaW9pMmVnaFhUNDA3djJ1RkdWSUU2elNqRlNiN2FJ0gGoAUFVX3lxTE9HYTk1b1BuNVFTT2tCYzNiM3dmSWhfUmxwbTEtaWJOSDZpbXZIalBMdDBYQnJWSEhOME8tZWpHaGpyS2lfbEszQmNhY05Uc1lGeG81RkRtWm5rWmJNZ1NfNFVsUWFUR1phWFotMUp1STZrU1RMZ1ppVGR2OHZjb01VMHo4NmxZcEx6OFllTUhrek1wRUJEWWwwTkpOaWdnaUJoTGU4QTFsdQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792267118.0
-    },
-    {
-        "id": "6420381fe5",
-        "title_fa": "فریاد فشار حداکثری؛ ترامپ پرونده دیپلماسی با ایران را می‌بندد",
-        "title_en": "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain",
-        "summary": [
-            "دونالد ترامپ با تهدیدهای صریح خود نشان داد که صبر واشنگتن برای توافق با تـهران به پایان رسیده است.",
-            "فشار حداکثری دوباره در دستور کار کاخ سفید قرار گرفته و گزینه نظامی روی میز است."
-        ],
-        "impact": "بازگشت سایه تهدیدهای نظامی و اقتصادی سنگین ترامپ بر سر بـرانـدازی و تـعـطـیـلـی کامل مسیر دیپلماسی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYk5UOElLQ0FzV2xHQm1faHNEWWZrZjJNM2g4Q3ZURlNNeVdEaVNDT1JLRUl0TWtXRHJkOFJQRzNtcmVweVRtZ25iaEFXUl9FQ3lIT1dHYzZubWVHc0Y3Y080U3pQTkRZMFA1ZFhzZUlncEx6QXNqcnFmd2M3LVU5cnhVampnQm1ldC1pZS14eDRxUnNJalc3OHgyYnZING9UZEMza1U5ckxDaGhObkkxYXMybXA0bWJLMGszNw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYk5UOElLQ0FzV2xHQm1faHNEWWZrZjJNM2g4Q3ZURlNNeVdEaVNDT1JLRUl0TWtXRHJkOFJQRzNtcmVweVRtZ25iaEFXUl9FQ3lIT1dHYzZubWVHc0Y3Y080U3pQTkRZMFA1ZFhzZUlncEx6QXNqcnFmd2M3LVU5cnhVampnQm1ldC1pZS14eDRxUnNJalc3OHgyYnZING9UZEMza1U5ckxDaGhObkkxYXMybXA0bWJLMGszNw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792265462.0
-    },
-    {
-        "id": "cebe159d9d",
-        "title_fa": "هشدار درباره جهش قیمت نفت و سایه جنگ",
-        "title_en": "US, Israel face threats of war if oil prices keep rising",
-        "summary": [
-            "افزایش بهای نفت خام خطرات امنیتی جدیدی برای واشنگتن و تل‌آویو ایجاد کرده است.",
-            "تنش‌های انرژی به سرعت می‌تواند به درگیری‌های نظامی تمام‌عیار در منطقه تبدیل شود."
-        ],
-        "impact": "بازار انرژی تحت تأثیر ریسک‌های ژئوپلیتیک دچار نوسانات شدید خواهد شد.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792265225.0
-    },
-    {
-        "id": "d3244a3043",
-        "title_fa": "ترس جـ-ـمهوری اسـ-ـلامی از بازگشت اعتراضات و احیای سناریوی کودتا",
-        "title_en": "Iran's Regime Revives “Coup” Narrative as Fear of Renewed Unrest Collides with Economic and Factional Pressure - National Council of Resistance of Iran",
-        "summary": [
-            "حاکمیت به شدت نگران شعله‌ور شدن دوباره اعتراضات مردمی به دلیل بحران‌های اقتصادی و فشارهای درون‌گروهی است.",
-            "پهن کردن بساط روایت‌های امنیتی و امنیتی‌سازی فضا، تلاش مذبوحانه دستگاه سرکوب برای کنترل نارضایتی‌های انباشته است."
-        ],
-        "impact": "افزایش شکاف میان ملت و حاکمیت و آماده‌باش پنهان نهادهای امنیتی برای مقابله با هرگونه تجمع.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZTk4czhfUmdWT2hUQjB1TDJ4VUlmY1k3eVc0bURDY1RxNlR0QlRBVFNoRlBoTnpJdHFMQW41QW1RVVF0NVk0V0RLN3JrX2hfUzRMX214dUNubU5CM3FhVEx0MEt4WURMWmgyMjlHQVVvN3hOdEhWMW5aUl90YzV2cG9jeG1od0xfemZKdVlncjdyYU5nbS1Yb2Z1RFYxcVJNWkJKc2FiSzFkbDZSYlpWbjR2S05acElqQmdLWjFzVmdlV3A1YTVJSVlWTlI3MV9hQzUtYWtmWlhxQWhsSC1sYWZtcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZTk4czhfUmdWT2hUQjB1TDJ4VUlmY1k3eVc0bURDY1RxNlR0QlRBVFNoRlBoTnpJdHFMQW41QW1RVVF0NVk0V0RLN3JrX2hfUzRMX214dUNubU5CM3FhVEx0MEt4WURMWmgyMjlHQVVvN3hOdEhWMW5aUl90YzV2cG9jeG1od0xfemZKdVlncjdyYU5nbS1Yb2Z1RFYxcVJNWkJKc2FiSzFkbDZSYlpWbjR2S05acElqQmdLWjFzVmdlV3A1YTVJSVlWTlI3MV9hQzUtYWtmWlhxQWhsSC1sYWZtcw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792263750.0
-    },
-    {
-        "id": "489ff17b83",
-        "title_fa": "فریاد رسانه‌های غربی برای مهار گروه‌های نیابتی تـهران",
-        "title_en": "The West needs a coherent plan for tackling Iran's proxies- opinion",
-        "summary": [
-            "غرب دیگر نمی‌تواند با سیاست‌های دست‌پاچه‌ورطه و مقطعی جلوی شبکه نیابتی جـمهوری اسلامی را بگیرد و به یک نقشه راه واحد نیاز دارد.",
-            "فشارها روی پایتخت‌های اروپایی و آمریکا برای تغییر رویکرد انفعالی در قبال شبه‌نظامیان منطقه به اوج رسیده است."
-        ],
-        "impact": "افزایش فشارهای دیپلماتیک و امنیتی غرب برای ضربه زدن به بازوهای منطقه‌ای حاکمیت.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "worldisraelnews",
-        "url": "https://worldisraelnews.com/the-west-needs-a-coherent-plan-for-tackling-irans-proxies-opinion/",
-        "clean_url": "https://worldisraelnews.com/the-west-needs-a-coherent-plan-for-tackling-irans-proxies-opinion",
-        "image": "https://worldisraelnews.com/wp-content/uploads/2017/11/AP_16349059500825.jpg",
-        "timestamp": 1792262700.0
-    },
-    {
-        "id": "4be2aaf8a3",
-        "title_fa": "هشدار امنیت داخلی آمریکا درباره احتمال حملات انتقامی",
-        "title_en": "Department of Homeland Security warns of potential attacks amid Iran operation - ABC News",
-        "summary": [
-            "وزارت امنیت داخلی آمریکا هم‌زمان با عملیات‌های جاری، درباره خطر حملات تلافی‌جویانه، اقدامات خرابکارانه یا تهدیدهای سایبری در خاک این کشور اعلام خطر کرد.",
-            "تمرکز دستگاه‌های امنیتی واشنگتن اکنون بر مهار هسته‌های نیابتی، پهپادی و حملات نامتقارن به اهداف حساس متمرکز شده است."
-        ],
-        "impact": "افزایش سطح آماده‌باش پدافندی و ضدتروریستی نهادهای امنیتی در بالاترین سطوح عملیاتی.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU12eXQ5aUJqT0J6NVNvYzhIOU10QVo1TzRkeThUeW52a3FnMU1uM0M4S1hmczJqUmNFa0tKTkdxalN0eHhvUnFVV0N1Q3NBVGpGS21Qb29tbFljbG9ReFhIS3JGQWU2SDd3TnFsRTdrSmdHcktOblZVLVJSYzFlMzBxSzVwTkdCXzNtbUZqM3RvUFpseFg3YkNZYTlOVWZLemJGY281d9IBrAFBVV95cUxQYWlmZkRpU2ViVExUZDdObUJhQUNFZWdJRXkyWUdzNTJaY0Q5anVjclhEbVRrN3hFN244XzFjUHFQOVctNWVpakk2UFFFR2NpaXFuY1BvNGRYV2V0TV96V3ZfOGN2cHFFQmk2emJmZFpMbFd3cElMRWJneUVkN1BnUTNIY2Y2Skh6VU55Rl8ydzFQZy1CcUMzdVlDOGR4YzU5N0JuVl9icWE3UFkz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU12eXQ5aUJqT0J6NVNvYzhIOU10QVo1TzRkeThUeW52a3FnMU1uM0M4S1hmczJqUmNFa0tKTkdxalN0eHhvUnFVV0N1Q3NBVGpGS21Qb29tbFljbG9ReFhIS3JGQWU2SDd3TnFsRTdrSmdHcktOblZVLVJSYzFlMzBxSzVwTkdCXzNtbUZqM3RvUFpseFg3YkNZYTlOVWZLemJGY281d9IBrAFBVV95cUxQYWlmZkRpU2ViVExUZDdObUJhQUNFZWdJRXkyWUdzNTJaY0Q5anVjclhEbVRrN3hFN244XzFjUHFQOVctNWVpakk2UFFFR2NpaXFuY1BvNGRYV2V0TV96V3ZfOGN2cHFFQmk2emJmZFpMbFd3cElMRWJneUVkN1BnUTNIY2Y2Skh6VU55Rl8ydzFQZy1CcUMzdVlDOGR4YzU5N0JuVl9icWE3UFkz",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792261984.0
-    },
-    {
-        "id": "1f8c76e219",
-        "title_fa": "مواضع جی‌دی ونس درباره بحران ایران و سیاست‌های کاخ سفید",
-        "title_en": "7 highlights from JD Vance's CBS News town hall: Iran, immigration, corruption and 2028 plans",
-        "summary": [
-            "معاون دونالد ترامپ در میشیگان موضع تند دولت آینده آمریکا را درباره مهار تنش‌ها با تهـران و اولویت‌بندی منافع داخلی تبیین کرد.",
-            "تیم ترامپ به دنبال بازگرداندن فشار همه‌جانبه بر جمهوری اسـلامی بدون کشیده شدن ارتش آمریکا به یک باتلاق فرسایشی است.",
-            "تمرکز بر مهار تنش‌های منطقه‌ای و فشار اقتصادی، راهبرد واشنگتن را در مهار شبکه نیـابتی‌ها تثبیت می‌کند."
-        ],
-        "impact": "آرایش دیپلماتیک و مالی دولت آینده آمریکا دسترسی‌های ارزی و تحرکات منطقه‌ای تهران را بیش از پیش محدود می‌کند.",
-        "tag": "سیاست خارجی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "News On 6 on MSN",
-        "url": "https://www.msn.com/en-us/news/other/7-highlights-from-jd-vance-s-cbs-news-town-hall-iran-immigration-corruption-and-2028-plans/ar-AA2esJZq",
-        "clean_url": "https://www.msn.com/en-us/news/other/7-highlights-from-jd-vance-s-cbs-news-town-hall-iran-immigration-corruption-and-2028-plans/ar-AA2esJZq",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792261145.0
-    },
-    {
-        "id": "4a7636d42a",
-        "title_fa": "خشم قانون‌گذاران آمریکا از تعلیق تحریم‌های روسیه توسط ترامپ",
-        "title_en": "Trump's waiver of sanctions on Russia stirs bipartisan outrage",
-        "summary": [
-            "تصمیم ترامپ برای لغو تحریم‌های مسکو موجی از انتقادهای شدید را در کنگره به راه انداخته است.",
-            "نمایندگان هر دو حزب این اقدام را هدیه‌ای آشکار به پوتین و تصمیمی خطرناک توصیف کرده‌اند."
-        ],
-        "impact": "افزایش تنش‌های سیاسی در واشنگتن و زیر سؤال رفتن استراتژی تحریمی دولت.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trumps-waiver-of-sanctions-on-russia-stirs-bipartisan-outrage/ar-AA2eqhTm",
-        "clean_url": "https://www.msn.com/en-us/news/other/trumps-waiver-of-sanctions-on-russia-stirs-bipartisan-outrage/ar-AA2eqhTm",
-        "image": "http://www.bing.com/th?id=ONUT.5nyHJCfAkgQGnXC9YUrVHw&pid=News",
-        "timestamp": 1792260987.0
-    },
-    {
-        "id": "8fd90d61fb",
-        "title_fa": "پیت هگست: جمهوری اسلامی یا توافق یا نابودی کامل",
-        "title_en": "Hegseth says Iran has choice between deal or ‘devastation’",
-        "summary": [
-            "وزیر دفاع پیشنهادی ترامپ گزینه پیش روی حکومت را میان توافق یا ویرانی مطلق محدود کرد.",
-            "فشار حداکثری دولت جدید آمریکا وارد فاز جدید و بی‌پرده‌ای از تهدیدات نظامی و اقتصادی شده است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و نشانه‌روی مستقیم زیرساخت‌های کلیدی توسط دولت آمریکا.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVZ4ZWtlMFA5WDA1R0hlYzJMLXJHTWNJVWRrd0ppc3NOZERyYUtMaEItcTU4bV8zaXEwWmVjNkdGSndNU25MTllwZTFhYk9SczVNSWk0X2hWNXViXzg4SnFIbHlLRDFWMjh4Ti14SjNKMmUzT0FyVnBJYkRqdHFNb184a1JnM3hLazBHeVZzWlpWNGRZV1Yyc2Nidzh1WTBs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVZ4ZWtlMFA5WDA1R0hlYzJMLXJHTWNJVWRrd0ppc3NOZERyYUtMaEItcTU4bV8zaXEwWmVjNkdGSndNU25MTllwZTFhYk9SczVNSWk0X2hWNXViXzg4SnFIbHlLRDFWMjh4Ti14SjNKMmUzT0FyVnBJYkRqdHFNb184a1JnM3hLazBHeVZzWlpWNGRZV1Yyc2Nidzh1WTBs",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792260747.0
     }
 ]
