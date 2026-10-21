@@ -73,6 +73,24 @@
         "timestamp": 1792607620.0
     },
     {
+        "id": "a43e23de2b",
+        "title_fa": "پیشرفت مثبت در مذاکرات صلح اوکراین با محوریت تیم ترامپ",
+        "title_en": "US negotiator points to 'encouraging progress' in Ukraine talks",
+        "summary": [
+            "جرد کوشنر از پیشرفت‌های دلگرم‌کننده و سازنده در مذاکرات روزهای اخیر خبر داد.",
+            "مسیر سختی تا رسیدن به توافق نهایی باقی مانده اما فرصت واقعی برای پایان جنگ ایجاد شده است."
+        ],
+        "impact": "کاهش تنش‌های ژئوپلیتیک و باز شدن چشم‌انداز توافق صلح در اروپا",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2205815",
+        "clean_url": "https://tass.com/world/2205815",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792606440.0
+    },
+    {
         "id": "0512ad8b31",
         "title_fa": "نمایش قدرت ارتش اسرائیل در نزدیکی مرزهای ایران",
         "title_en": "Israeli military conducts massive \"power projection\" operation near Iran's border",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNEx5aWNxMVBHcDhHckJSX0NZdUxVSHc1aGliQVlHYUotTVZucG9QcVNMc1psdWdRWTlJZDRIZFM3Ykt3U3NjQWJNR2hSWnRzU2tLaHd6aVRaVWZMRHdvcUpES09Kdk5BRDBXb0VWWFdlS3p6d0F6VXBDdmt6anF6ZHpMZ1pRX08wbTJSelJnNXc3bjFtX3dfaHhOaFZQMTNFNGpaTUJSSWZRSVp1LUlLZHBrNllFV0ZKam80eUYwbTgxSmJ0blE1MWtHcjJGVTZjS2l1Z3JiUEc5NWVWelhvY3haX0lvaVBEazFJQ2s4TzA3WHRfLWVvb2R0TzNoU0pYV1NGQmpjcHNmdmNVQmY0bzRSVjE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792345980.0
-    },
-    {
-        "id": "136c6706fc",
-        "title_fa": "انفجار مین در تنگه هرمز و ادعای آتش‌بس",
-        "title_en": "US-Iran war news: 'Violating' vessel on fire in Hormuz after sea mine blast; Iran says 7-day ceasefire offer still on the table",
-        "summary": [
-            "یک کشتی در تنگه هرمز پس از برخورد با مین دریایی دچار حریق شد.",
-            "تهران مدعي است پیشنهاد آتش‌بس ۷ روزه همچنان روی میز قرار دارد."
-        ],
-        "impact": "افزایش ریسک تردد دریایی و تنش‌های نظامی در آب‌های خلیج فارس",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ET Now on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-violating-vessel-on-fire-in-hormuz-after-sea-mine-blast-iran-says-7-day-ceasefire-offer-still-on-the-table-10-key-updates/ar-AA2evyab",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-violating-vessel-on-fire-in-hormuz-after-sea-mine-blast-iran-says-7-day-ceasefire-offer-still-on-the-table-10-key-updates/ar-AA2evyab",
-        "image": "http://www.bing.com/th?id=ONUT.CrbUdiIHkHwGRUk9Mo_HxQ&pid=News",
-        "timestamp": 1792343799.0
     }
 ]
