@@ -36,6 +36,24 @@
         "timestamp": 1792617687.0
     },
     {
+        "id": "b1d0f01039",
+        "title_fa": "خروج اضطراری دیپلمات‌های آمریکایی از عربستان",
+        "title_en": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+        "summary": [
+            "واشنگتن به دنبال تشدید حملات موشکی و پهپادی انصارالله یمن به خاک عربستان، دستور تخلیه دیپلمات‌های خود را صادر کرد.",
+            "این تصمیم نشان‌دهنده شکست سامانه‌های دفاعی در تامین امنیت کامل پرسنل خارجی در منطقه است."
+        ],
+        "impact": "افزایش ریسک امنیتی در خاورمیانه و سقوط ارزش سهام در بازارهای خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792617547.0
+    },
+    {
         "id": "241a1f7747",
         "title_fa": "تهدید مـقـامـات جـمـهـوری اسـلامـی به حمله به منافع آمریکا",
         "title_en": "Iran threatens to target US political assets, infrastructure if new war erupts",
@@ -5465,24 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVUczNEJObkUtSkU3QkJ5ajVIQURnaTEzTjNKb01rbnllWHdBY0RCeGg1cFh0RjBwd0VyTWM0Ym1fT2h3WXotU2dhNUROa24tUFBWZXAtenh0ZFd4ZHVsR3hiN3IxcmViSGFQYkQ3dVVIX25lWV9rZ0MtaG83X2NaTkJTa3JuVEhrMklNalNlVmp6Szl6dkdYZkVvSWZ1MVZQSVlCblpHLXJhNHROUjlnSU9hWE5GemlXTFY5N2JHcEllSXlSTGVOWEJNZ0tUWnktQ0JZQnphNzhPM0dPNmZfY3A4eFpMOWRRRERIUkhXcWhVMmdJX2hoSWFzZy0ySW9aVWhreGItZUZOZw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792361040.0
-    },
-    {
-        "id": "5bfe1be738",
-        "title_fa": "درخواست بیروت از تهران برای معرفی سفیر جدید",
-        "title_en": "Lebanon asked Iran to appoint new ambassador to Beirut, deputy PM says",
-        "summary": [
-            "دولت لبنان از جمهوری اسلامی خواسته تا سفیر جدیدی برای بیروت معرفی کند تا تنش‌های دیپلماتیک اخیر حل شود.",
-            "ممنوعیت فرود هواپیماهای ایرانی در فرودگاه بیروت با هدف جلوگیری از حملات هوایی اسرائیل انجام گرفته است.",
-            "مقام ارشد لبنانی تأیید کرد که حزب‌اللـه هنوز تن به انحصار تسلیحاتی دولت نداده و مسئله خلع سلاح در بن‌بست مانده است."
-        ],
-        "impact": "تردید فزاینده در لبنان برای قطع بازوهای نفوذ تهران و تلاش برای فاصله گرفتن از خطرات جنگ",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610183237",
-        "clean_url": "https://www.iranintl.com/en/202610183237",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792358760.0
     }
 ]
