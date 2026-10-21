@@ -398,6 +398,24 @@
         "timestamp": 1792580538.0
     },
     {
+        "id": "1e27ee82f1",
+        "title_fa": "جنگ روانی تـ...ـهـ...ـران علیه امـ...ـریکا و اسـ...ـراییل",
+        "title_en": "Iran is trying to create a rot from within through information warfare, analyst warns",
+        "summary": [
+            "حکومت ایـ...ـران چون می‌داند در جنگ نظامی بازنده قطعی است، تمام تمرکزش را روی عملیات روانی و دستکاری اطلاعات گذاشته است.",
+            "هدف اصلی این پازل رسانه‌ای، ایجاد شکاف و پوسیدگی از درون در جوامع غربی و اسـ...ـراییل است."
+        ],
+        "impact": "تغییر میدان نبرد از درگیری سخت به عملیات روانی و اثرگذاری بر افکار عمومی.",
+        "tag": "جنگ روانی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-is-trying-to-create-a-rot-from-within-through-information-warfare-analyst-warns/ar-AA2fKBSh",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-trying-to-create-a-rot-from-within-through-information-warfare-analyst-warns/ar-AA2fKBSh",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792579140.0
+    },
+    {
         "id": "24d12d0c17",
         "title_fa": "ویدئوی جنجالی بن‌گفیر از آینده غزه با هوش مصنوعی",
         "title_en": "Ben-Gvir mocks Gazans in AI video ahead of Israel elections",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-s-iran-strikes-split-his-own-base-then-the-influencers-fell-back-in-line/ar-AA2euNLo",
         "image": "http://www.bing.com/th?id=ONUT.PZE9kaq660e-X6dAT2Dluw&pid=News",
         "timestamp": 1792327615.0
-    },
-    {
-        "id": "1f57d790d4",
-        "title_fa": "هشدار قالیباف به کشورهای خلیج فارس درباره هوش مصنوعی نظامی",
-        "title_en": "Iran speaker urges Persian Gulf states to stop backing military-linked AI firms",
-        "summary": [
-            "محمدباقر قالیباف از تشکیل نهاد موسوم به سازمان داده‌های خلیج فارس خبر داد.",
-            "کشورهای منطقه از سرمایه‌گذاری در شرکت‌های هوش مصنوعی مرتبط با بخش نظامی منع شدند."
-        ],
-        "impact": "تلاش ناکام تهران برای مهار همکاری‌های فناورانه کشورهای عربی با غرب و اسرائیل.",
-        "tag": "منطقه‌ای",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610182873",
-        "clean_url": "https://www.iranintl.com/en/202610182873",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792327140.0
     }
 ]
