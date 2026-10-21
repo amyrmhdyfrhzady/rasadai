@@ -526,6 +526,24 @@
         "timestamp": 1792574753.0
     },
     {
+        "id": "69efa4564f",
+        "title_fa": "هشدار صدر اعظم آلمان نسبت به نفوذ مسکو بر جامعه آلمان",
+        "title_en": "Merz names Russia's influence on Germans his main concern",
+        "summary": [
+            "تمرکز اصلی برلین بر مقابله با اثرگذاری پنهان روسیه بر افکار عمومی آلمان است.",
+            "منتقدان دولت فد‌رال را به بی‌توجهی به چالش‌های داخلی و اقتصادی متهم می‌کنند."
+        ],
+        "impact": "افزایش تنش‌های سیاسی داخلی در آلمان بر سر نحوه مقابله با تهدیدهای خارجی.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2205765",
+        "clean_url": "https://tass.com/world/2205765",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792574100.0
+    },
+    {
         "id": "8a7b0507f0",
         "title_fa": "رونمایی از سامانه پدافندی هوش مصنوعی روس‌ها با دقت مرگبار",
         "title_en": "Citadel air defense system AI components ensure 99% target engagement rate — Rostec",
@@ -543,6 +561,24 @@
         "clean_url": "https://tass.com/economy/2205183",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1792573980.0
+    },
+    {
+        "id": "7db12e4c64",
+        "title_fa": "فلج شدن پهپادهای اوکراینی با اعمال محدودیت در استارشیلد",
+        "title_en": "Ukraine loses at least $1 mln worth of drones amid Starshield disruptions — newspaper",
+        "summary": [
+            "ارتش اوکراین به دلیل اختلال در شبکه ماهواره‌ای، میلیون‌ها دلار تجهیزات از دست داد.",
+            "خشم دونالد ترامپ و ایلان ماسک از حملات اوکراین به پالایشگاه‌های روسی علت اصلی این تصمیم گزارش شده است."
+        ],
+        "impact": "زمین‌گیر شدن عملیات‌های پهپادی اوکراین و تغییر موازنه در میدان نبرد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2205759",
+        "clean_url": "https://tass.com/world/2205759",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792573680.0
     },
     {
         "id": "12dc8d7abd",
@@ -962,6 +998,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZFQ2OGYxS3VIZm1sYTlMemU3QS11bDJXZFJpZGNMVlU3NDhDclFFeTlYODZjLUNmdHh3VmkzdEdxcFFIZmZTMnJoSGFTMTJmREVsWXZ3",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792557180.0
+    },
+    {
+        "id": "5155b0e5a6",
+        "title_fa": "رکوردشکنی دلار و نابودی ارزش ریال در بازار آزاد",
+        "title_en": "US Dollar to Iranian Rial USD/IRR",
+        "summary": [
+            "نرخ برابری دلار در برابر ریال پله‌های صعودی جدیدی را فتح می‌کند.",
+            "سقوط آزاد قدرت خرید مردم همزمان با بی‌ارزش شدن مداوم پول ملی."
+        ],
+        "impact": "گرانی بیشتر کالاهای اساسی و فشار سنگین معیشتی بر دوش جامعه.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Economies.com",
+        "url": "https://www.economies.com/forex/usd-irr",
+        "clean_url": "https://www.economies.com/forex/usd-irr",
+        "image": "https://dixdeynibyck7.cloudfront.net/images/logos/EconomiesOG.png",
+        "timestamp": 1792557000.0
     },
     {
         "id": "9de9c960fe",
@@ -5438,59 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202610182873",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792327140.0
-    },
-    {
-        "id": "ab2a126a7a",
-        "title_fa": "ادعای پیروزی قاطع آمریکا بر جـ.هـ.وـ.رـ.ی اـ.سـ.لاـ.مـ.ی از زبان معاون ترامپ",
-        "title_en": "Vance says in ‘some ways’ US has ‘decisively won’ Iran war",
-        "summary": [
-            "جی دی ونس مدعی شد ایالات متحده در برخی ابعاد جنگ با تـ.هـ.راـ.ن را به شکل قاطع برده است.",
-            "این اظهارات نشان‌دهنده تغییر نگاه واشنگتن به موازنات قدرت و تضعیف توان نظامی نیابتی‌هاست."
-        ],
-        "impact": "افزایش جنگ روانی کاخ سفید علیه مقاماتی که روزگاری شعار نابودی آمریکا سر می‌دادند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUThwUl9Vd2V4OFoxY1NEd2xDWkZkQ2tpRTBWZ1h4UDdaWUZnMXhWQjlsZThkYnFxdGN2dnVaaFY4TGhpQ2lNM3lObUN6UUhwcE5VYnNwSUZWdG93Q1hDdWl5RzhpNl9PUG5CRzk5UnotaGhOdFl6SUl1N29FTXdjRllJelZOVndO0gGOAUFVX3lxTE5pR0ZvMDlEN1NuWWd5bWNUNTZ5LWVUMVZCMGJHX3Mxdno2MjZjdC1YclRXTlBCQVczYllzSFZIeHZxMldUcUtrSFQ2QTRRRWtiOXRLMnVIcWlJS3pnMGdiUVBXMnViQ0UwbmVhNGRveG9kdVBJZUU0VGI1Y0lHcHF2S05CNVM3TU8tQkhYUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUThwUl9Vd2V4OFoxY1NEd2xDWkZkQ2tpRTBWZ1h4UDdaWUZnMXhWQjlsZThkYnFxdGN2dnVaaFY4TGhpQ2lNM3lObUN6UUhwcE5VYnNwSUZWdG93Q1hDdWl5RzhpNl9PUG5CRzk5UnotaGhOdFl6SUl1N29FTXdjRllJelZOVndO0gGOAUFVX3lxTE5pR0ZvMDlEN1NuWWd5bWNUNTZ5LWVUMVZCMGJHX3Mxdno2MjZjdC1YclRXTlBCQVczYllzSFZIeHZxMldUcUtrSFQ2QTRRRWtiOXRLMnVIcWlJS3pnMGdiUVBXMnViQ0UwbmVhNGRveG9kdVBJZUU0VGI1Y0lHcHF2S05CNVM3TU8tQkhYUXc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792325400.0
-    },
-    {
-        "id": "5a9667d0dd",
-        "title_fa": "تهدید تکراری جنگ‌افروزان درباره پاسخ گسترده",
-        "title_en": "Shafaq News..Iran warns of broad response to US, Israel",
-        "summary": [
-            "تهدیدات مقامات جـ.ـهـ.ـوری اسـ.ـلامی علیه آمریکا و اسرائیل با وجود فشارهای شدید اقتصادی و نظامی ادامه دارد.",
-            "این لفاظی‌ها بیشتر برای مصرف داخلی و حفظ روحیه نیروهای نیابتی مطرح می‌شود تا یک اقدام عملیاتی واقعی."
-        ],
-        "impact": "افزایش تنش‌های لفظی در منطقه بدون تغییر ملموس در موازنه قوا",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "شفق نيوز",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaDlvNjFEWmNZTXFHRjJ2SElOMm1RMzRES3gyY0VtWE83VTRwNHJBWGMyaG1rR2Uwb2RXTmRfRkVKSEhsLUNpd0Q4RkxfSU1Sa1JMX1N2SWplWWFpUHVDYjZ3UEFwb09ZRG4tWngyM1lBR25hTDd1aEswMzZ6WDlBOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaDlvNjFEWmNZTXFHRjJ2SElOMm1RMzRES3gyY0VtWE83VTRwNHJBWGMyaG1rR2Uwb2RXTmRfRkVKSEhsLUNpd0Q4RkxfSU1Sa1JMX1N2SWplWWFpUHVDYjZ3UEFwb09ZRG4tWngyM1lBR25hTDd1aEswMzZ6WDlBOQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792324647.0
-    },
-    {
-        "id": "c704d5c182",
-        "title_fa": "پیشنهاد معامله ۷ روزه از سوی طهران به واشنگتن",
-        "title_en": "Iran urges United States to accept 7-day deal",
-        "summary": [
-            "مقام‌های جـ.ـهـ.ـور ی ا‌سـ.ـلا‌مـ.ـی به دنبال توافقی سریع و ۷ روزه با آمریکا هستند.",
-            "این پیشنهاد در شرایط بحرانی تنش‌های منطقه مطرح شده و نشان‌دهنده تلاش برای خرید وقت یا کاهش فشارهاست."
-        ],
-        "impact": "تلاش دیپلماتیک برای مهار تنش‌ها و تاثیرگذاری بر بازارهای مالی.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "NewsNation",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VVGVBUTNFOGF5Y0xYMzYyOUlybFJlOFdUbmZuZ0szT1JQRVl2RVhPMmFmZTd6SXRhaENYTTBiVGx0Y3ExRjhYQXp5ZVoxc196bWwzZUtzc2xpZ05TeWxaZU4tRDB1eXFYUGhBd2xvOWw3Ml840gF6QVVfeXFMT1YxNTFoSlNzX2xxaERlekhzTXdFZThTcGFXOUNTWTA3NHQ5dDZsVHdzRExBdDNIRkpjSHZ6bWExcklKS0VWYjd5dDJsdnNCQmU1QkYyT3NGeTg2MmlYS2JQODZaeTJqQ2VBTWZlSFRiVDVsaXA1c1hvdWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VVGVBUTNFOGF5Y0xYMzYyOUlybFJlOFdUbmZuZ0szT1JQRVl2RVhPMmFmZTd6SXRhaENYTTBiVGx0Y3ExRjhYQXp5ZVoxc196bWwzZUtzc2xpZ05TeWxaZU4tRDB1eXFYUGhBd2xvOWw3Ml840gF6QVVfeXFMT1YxNTFoSlNzX2xxaERlekhzTXdFZThTcGFXOUNTWTA3NHQ5dDZsVHdzRExBdDNIRkpjSHZ6bWExcklKS0VWYjd5dDJsdnNCQmU1QkYyT3NGeTg2MmlYS2JQODZaeTJqQ2VBTWZlSFRiVDVsaXA1c1hvdWc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792321971.0
     }
 ]
