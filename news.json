@@ -238,6 +238,25 @@
         "timestamp": 1792545960.0
     },
     {
+        "id": "574519e856",
+        "title_fa": "تحولات امنیتی مرزی و بازی دوگانه تهران در منطقه",
+        "title_en": "Live Updates: Iran says Saudi Arabia silent on Houthi mediation offer, Qatari delegation reportedly in Tehran",
+        "summary": [
+            "عباس عراقچی از سکوت عربستان در قبال پیشنهاد میانجی‌گری حوثی‌ها خبر داد.",
+            "هیئت قطری وارد تهران شد و همزمان درگیری‌ها و فشارهای امنیتی در مرزهای عراق و ایران افزایش یافت.",
+            "ارتش اسرائیل از آماده‌باش خود در برابر تهدیدات احتمالی پیش از انتخابات خبر داد."
+        ],
+        "impact": "افزایش تنش‌های مرزی و دیپلماتیک در محورهای منطقه‌ای و فشار همه‌جانبه بر مرزهای غربی.",
+        "tag": "منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-21/live-updates-912356",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-21/live-updates-912356",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742824",
+        "timestamp": 1792540800.0
+    },
+    {
         "id": "2a3925bcbf",
         "title_fa": "بازار سهام و سایه سنگین بحران گروگان‌گیری روی اقتصاد",
         "title_en": "Iran is using the hostage crisis playbook. What investors need to know.",
@@ -5490,24 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2gtSW1CTEVvMER3RTJoWFdYOTZzQWZRcGRUc0M5M2RqRWpqc0ZLb0Z2Ry1tbkh1Ujh3VV9LWFZYVkl2TjZJX0I5NWMwc09qR2FIR2F0cU5Xc1g4UlZScWtWdExnbkVGaC1COE9icE5jTHVZVHpWOUVmZ2F0VUUwSC1LQWJvMkw0VzBwSUJoUS0tRjZiVW5ubjZERmgyaVZOQk8wWVhaMHNJeTRN0gGyAUFVX3lxTFBTRjF4NkJyYTZZd3J4QjlrX3hHUVZGQnY5cG55SHEteUU4OHlKTXZmMjh4OUo0R1ctb2JXMTJPS1Fkb09OVk9ncFhQN1RrdEg5WW5mNzMwUjFKd01BTHBaYWZXODNhTTNLZ0xqTmRfcjVxSXg3cUR0eTBnX3dXVkFZajdWWkk4cDhaMWJNNUdjRTNqeGVXSmluRVNJSXhRbGhvTDlvOWRTdHFMaG51cXE5ckE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792251380.0
-    },
-    {
-        "id": "5814733d93",
-        "title_fa": "تحریم‌های اقتصادی؛ سلاح خاموش کشتار غیرنظامیان",
-        "title_en": "Sanctions, the silent mass killer",
-        "summary": [
-            "تحریم‌ها به عنوان جایگزین صلح‌آمیز جنگ معرفی می‌شوند اما بیشترین ضربه را به اقشار ضعیف، بیماران و کودکان وارد می‌کنند.",
-            "هدف پشت پرده تحریم‌ها فشـار بر مردم برای تغییر حـکـومـت است، حتی اگر به قیمت قربانی شدن هزاران انسان بی‌گناه تمام شود.",
-            "پژوهش‌های جدید ابعاد فاجعه‌بار خسارت‌های انسانی ناشی از تحریم‌های یک‌جانبه اقتصادی را آشکار کرده‌اند."
-        ],
-        "impact": "تخریب سیستم بهداشت و ایجاد کمبودهای مرگبار برای شهروندان عادی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Pearls and Irritations",
-        "url": "https://johnmenadue.com/post/2026/10/sanctions-the-silent-mass-killer-prod-to-add-links/",
-        "clean_url": "https://johnmenadue.com/post/2026/10/sanctions-the-silent-mass-killer-prod-to-add-links",
-        "image": "https://www.bing.com/th?id=ONUT.SwGQ3yZnPpQTY44ozriqnA",
-        "timestamp": 1792251064.58889
     }
 ]
