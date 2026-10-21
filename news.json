@@ -728,6 +728,24 @@
         "timestamp": 1792558380.0
     },
     {
+        "id": "e217fa0a37",
+        "title_fa": "فشار برای تغییر رژیم؛ پیام صریح نتانیاهو به ارتش",
+        "title_en": "'Overthrow Iranian regime': Netanyahu lays out directive to IDF Officer graduates at ceremony",
+        "summary": [
+            "بنیامین نتانیاهو در مراسم فارغ‌التحصیلی افسران ارتش اسرائیل، دستور کار صریح خود یعنی براندازی سیستم حاکم بر تهران را روی میز گذاشت.",
+            "او با اشاره به جانشینی مجتبی خامنه‌ای، هشدار داد که سران ایران مسیر درگیری را تشدید کرده‌اند و باید پاسخ قاطع دریافت کنند."
+        ],
+        "impact": "بالارفتن سطح تهدیدات نظامی و امنیتی علیه ساختار قدرت در تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-ca/news/other/overthrow-iranian-regime-netanyahu-lays-out-directive-to-idf-officer-graduates-at-ceremony/ar-AA2fKPFv",
+        "clean_url": "https://www.msn.com/en-ca/news/other/overthrow-iranian-regime-netanyahu-lays-out-directive-to-idf-officer-graduates-at-ceremony/ar-AA2fKPFv",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742959",
+        "timestamp": 1792558260.0
+    },
+    {
         "id": "b2a03f639f",
         "title_fa": "ممانعت ترامپ از حمله بزرگ نتانیاهو به ای·ران",
         "title_en": "Report: Netanyahu planned massive Iran attack, but Trump blocked it",
@@ -5478,24 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2JsZWpNUEs5ZXNfTGxXMzVvOFlnMFJVQ0ZrNFIxYkFBTy1mdmpVVEFsOTBDWkxDbExWRmNiRTZIOGREVjdveXZsaG50aTNrdzBrZXBvV3ZuQVZ2OUtwLXIzSVN4NzltYkcyTkl6ZWJzVUZkMkdaUUxuMGNiY0FWU0lPaTNoc3pUVFE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792310583.0
-    },
-    {
-        "id": "da4723bd79",
-        "title_fa": "بن‌بست در بازرسی‌های اتمی؛ تهران دسترسی آژانس را مشروط کرد",
-        "title_en": "U.N. nuclear boss says inspectors will visit Iran sites; Tehran says only after final deal",
-        "summary": [
-            "رافائل گروسی بر لزوم بازدید بازرسان آژانس از سایت‌های هسته‌ای ایران تأکید کرد.",
-            "دیپلمات‌های ایرانی هرگونه بازدید را به حصول توافق نهایی موکول کرده و راه را بستند.",
-            "تنش‌ها بر سر ذخایر اورانیوم غنی‌شده و اصرار حکومت بر پنهان‌کاری ادامه دارد."
-        ],
-        "impact": "شکست مذاکرات موقت و افزایش ریسک درگیری‌های نظامی جدید",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Spectrum News",
-        "url": "https://spectrumlocalnews.com/us/snplus/international/2026/06/24/united-states-iran-nuclear-sites-israel-lebanon-strait-hormuz-negotiations-interim-deal",
-        "clean_url": "https://spectrumlocalnews.com/us/snplus/international/2026/06/24/united-states-iran-nuclear-sites-israel-lebanon-strait-hormuz-negotiations-interim-deal",
-        "image": "https://s7d2.scene7.com/is/image/TWCNews/nuclearboss_AP_26175170713571_NAT_062426",
-        "timestamp": 1792310280.0
     }
 ]
