@@ -1,5 +1,23 @@
 [
     {
+        "id": "d85e69984e",
+        "title_fa": "عصبانیت اروپا از حاشیه‌نشینی در مذاکرات اوکراین",
+        "title_en": "EU frustrated over exclusion from Ukraine negotiations — Finnish politician",
+        "summary": [
+            "رهبران اروپا از کنار گذاشته شدن از روند دیپلماسی صلح میان آمریکا و روسیه به شدت خشمگین هستند.",
+            "مقامات اتحادیه اروپا واشنگتن را به تلاش برای وادار کردن اوکراین به تسلیم متهم می‌کنند."
+        ],
+        "impact": "به حاشیه رفتن کامل اتحادیه اروپا در توافقات کلان مربوط به آینده اوکراین.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2205419",
+        "clean_url": "https://tass.com/world/2205419",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792583460.0
+    },
+    {
         "id": "cbc62352c7",
         "title_fa": "تأکید رضا پهلوی بر خیزش سراسری به عنوان یک انقلاب",
         "title_en": "25 Ianuarie 2023",
@@ -327,6 +345,43 @@
         "timestamp": 1792562340.0
     },
     {
+        "id": "3e07907936",
+        "title_fa": "تاکید آمریکا بر محوریت پرونده اتمی",
+        "title_en": "Iran live updates: Rubio says Iran nuclear question at the core of US approach",
+        "summary": [
+            "مقامات ارشد دولت آمریکا بار دیگر پرونده اتمی ایران را هسته اصلی سیاست واشنگتن دانستند.",
+            "ترامپ بارها خط قرمز خود را ممانعت از دستیابی ایران به تسلیحات اتمی اعلام کرده است."
+        ],
+        "impact": "پافشاری واشنگتن بر مهار کامل فعالیت‌های اتمی به عنوان شرط هرگونه توافق.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-rubio-says-iran-nuclear-question-at-the-core-of-us-approach/ar-AA2fyqHa",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-rubio-says-iran-nuclear-question-at-the-core-of-us-approach/ar-AA2fyqHa",
+        "image": "http://www.bing.com/th?id=ONUT.SB1nNNAu-BSjqevthmbE4Q&pid=News",
+        "timestamp": 1792559959.0
+    },
+    {
+        "id": "cd1ea54f73",
+        "title_fa": "بن‌بست هسته‌ای و سایه جنگ روی توافق نهایی",
+        "title_en": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+        "summary": [
+            "برنامه اتمی تهران بار دیگر به مانع اصلی در مسیر توافق آتش‌بس تبدیل شده است.",
+            "اختلاف نظر بر سر متن توافق موظف بودجه، توافق اولیه خرداد ماه را از بین برد.",
+            "گسترش درگیری‌ها به یمن و بحران انرژی جهانی، کار را برای هرگونه توافق سخت‌تر کرده است."
+        ],
+        "impact": "بازگشت پرونده هسته‌ای به نقطه صفر، امیدها برای ثبات بازار انرژی را از بین برد.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
+        "clean_url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
+        "image": "http://www.bing.com/th?id=ONUT.XZteEjtHhbusHNNvrKovvQ&pid=News",
+        "timestamp": 1792559880.0
+    },
+    {
         "id": "0580f3a6e3",
         "title_fa": "ممانعت ترامپ از اقدام نظامی جدید اسرائیل علیه ایـران",
         "title_en": "Report: Trump blocked new Israeli campaign against Iran",
@@ -343,6 +398,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQUZyV0xZVUF0WW45NUp5NXlmWHpqZHNKMnpIX1ZIVUpQT1UxZm5qX1YyY1k1emFWOWZ0R0ZRd3ZPcnN1NVFPN2lVVU9GeHljUG9xVWhsODhLQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792558839.0
+    },
+    {
+        "id": "612d0004c6",
+        "title_fa": "آمادگی کی‌یف برای فریز جنگ و واگذاری خاک",
+        "title_en": "Ukraine ready for peace deal involving loss of territory — Zelensky",
+        "summary": [
+            "زلنسکی چراغ سبز نشان داد که اوکراین برای آتش‌بس و فریز کردن خطوط جنگی آماده است.",
+            "این طرح شامل پذیرش از دست رفتن بخشی از اراضی در ازای حفظ بخش عمده کشور می‌شود."
+        ],
+        "impact": "چرخش آشکار در موضع کی‌یف برای پایان دادن به درگیری‌های فرسایشی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2205423",
+        "clean_url": "https://tass.com/world/2205423",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261021/1490539.jpg",
+        "timestamp": 1792558380.0
     },
     {
         "id": "b2a03f639f",
@@ -379,6 +452,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792556910.0
+    },
+    {
+        "id": "6c0e3f6d21",
+        "title_fa": "پرواز قیمت نفت با ناامیدی از توافق",
+        "title_en": "Oil prices jump $2 as Iran knocks hopes of diplomatic progress",
+        "summary": [
+            "موضع‌گیری‌های اخیر تهران امیدها به پیشرفت دیپلماتیک با آمریکا را به شدت کاهش داد.",
+            "بازار نفت بلافاصله پس از این اظهارات واکنش نشان داد و بهای هر بشکه بیش از دو دلار بالا رفت."
+        ],
+        "impact": "جهش آنی قیمت نفت در بازارهای جهانی همزمان با افزایش تنش‌های دیپلماتیک.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/oil-prices-jump-2-as-iran-knocks-hopes-of-diplomatic-progress/ar-AA2fIFYC",
+        "clean_url": "https://www.msn.com/en-us/money/economy/oil-prices-jump-2-as-iran-knocks-hopes-of-diplomatic-progress/ar-AA2fIFYC",
+        "image": "http://www.bing.com/th?id=ONUT.qhoOTz0rzU9RnyH5_XIRgQ&pid=News",
+        "timestamp": 1792555823.0
     },
     {
         "id": "599dd14b86",
@@ -5411,97 +5502,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEhpeXZhQ20xWmZjb3p1eUJRVEFVSi1QbWJnUFZpRE05QmJUd0hhMU9OQmlqMmxPemhUTGN3ZmF5YlU0LUxkaF85M2JEVEpRT1FaMVAzaV8xNTBNeGk1YUlIRVNzRFNQVkpfY3FwWllQeWU3Mmk0NEpVaV90Tkp2ZnRzQ2xaZzQ2OGRLbUp1dUVNenlPUFVuQUVGRUVKSUZRbDVVR3hjZElfSFNONWhieWF5S0_SAboBQVVfeXFMT2UzSjBRSnAybzdRcU9NRWpyV0V5SU4xT1g2LWlTNWlraWJDeFBMSDlSbGVNc093MmJCOTROSjQ5bE50Uk1WSVVMNDZGN2VRWVkyRjdFdmV3QzliaGtBci1FcjRTbll0UmZQZmJTT0tXR05oVGdjRlU3Z1FvcTNUWXVPY0drS1BvamFZdWkyU0w0QU5oSjAwTnFBU0hNc2Z6dC1yUk1ma0dDNGpZX2RuVmxEZzhrUUI4bHhn",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792288964.0
-    },
-    {
-        "id": "d4f351c403",
-        "title_fa": "توقف تحریم‌های روسیه؛ بازنگری واشنگتن در تبعات اقتصادی",
-        "title_en": "Rubio says Russia sanctions pause to 'analyse' impact on global economy",
-        "summary": [
-            "مارکو روبیو از توقف موقت اعمال تحریم‌های تازه علیه مسکو خبر داد تا اثرات آن بر بازارهای جهانی و زنجیره انرژی سنجیده شود.",
-            "تیم سیاست خارجی ترامپ نگران است جهش دوباره قیمت نفت و تورم، اقتصاد داخلی آمریکا و هم‌پیمانان غربی را تحت فشار بگذارد.",
-            "این چرخش نشان‌دهنده تغییر تاکتیک واشنگتن برای استفاده از اهرم تحریم در بده‌بستان‌های دیپلماتیک با کرملین است."
-        ],
-        "impact": "آرامش نسبی در بازار جهانی انرژی و فراهم شدن بستر برای چانه‌زنی‌های سیاسی بر سر جنگ اوکراین.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkhWYVh1aWFtbThGWWdWem9mSHJWMjFVR3luY185dEl0dUNXUkstTmdyWEUyc3JlWFVlblNiY3hYSlNMd0dBZ3VaazU2LXp1T1lHT05RWUkyREJiYm43ZUFiSXgyNTZnREVuTVdVNG5mMU1yMk42eG10azJqM2FWVnhQTmt3Zkc1NDAxa2dPZlpkbHFERm9pTHVMc1JIcDB0NkRqamZPTUo0UUd6TXRmSzFBT2tMZ1BmaThiMEQ5NA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkhWYVh1aWFtbThGWWdWem9mSHJWMjFVR3luY185dEl0dUNXUkstTmdyWEUyc3JlWFVlblNiY3hYSlNMd0dBZ3VaazU2LXp1T1lHT05RWUkyREJiYm43ZUFiSXgyNTZnREVuTVdVNG5mMU1yMk42eG10azJqM2FWVnhQTmt3Zkc1NDAxa2dPZlpkbHFERm9pTHVMc1JIcDB0NkRqamZPTUo0UUd6TXRmSzFBT2tMZ1BmaThiMEQ5NA",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792288500.0
-    },
-    {
-        "id": "7b387b3dba",
-        "title_fa": "ترامپ: جنگ با ج.ا بسیار سریع تمام می‌شود",
-        "title_en": "Trump asserts Iran war will end \"very quickly\"; touts military strikes on Tehran's nuclear sites",
-        "summary": [
-            "دونالد ترامپ از ضربات نظامی به تاسیسات اتمی حکومت سخن گفت.",
-            "او تاکید کرد که در صورت بروز جنگ، کار ج.ا خیلی زود یکسره خواهد شد."
-        ],
-        "impact": "افزایش شدید فشار روانی بر بازارهای مالی و مقامات ارشد ج.ا",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "ANI News",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVg5b0JEV3F2S1FWVVI5X0hydGVqejZvaTJBUDJ4ZkRSZ1paWlE5ZFlTNVhXRnV2WS1MYlBqMTZ6b0FkMmZ0ejdGMll1VmhBZnlRYW9raVUtWjJTa2h1TURlenJIQ2t0WVJhWWhGMElYQ2RYVlBIWmo5eWNmNWtpdFVBV2ZYRG9sN05iZzlibkNRVkVQbXYxd1ZTRC0zcHJVTnNkc3dLNzAwMC1lZWtkS3BrcUk3aE1DZnJCWnJGLVFfNmQwSk5wS0Q3bk9XY1dwVWdVaUd4cjhrb0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVg5b0JEV3F2S1FWVVI5X0hydGVqejZvaTJBUDJ4ZkRSZ1paWlE5ZFlTNVhXRnV2WS1MYlBqMTZ6b0FkMmZ0ejdGMll1VmhBZnlRYW9raVUtWjJTa2h1TURlenJIQ2t0WVJhWWhGMElYQ2RYVlBIWmo5eWNmNWtpdFVBV2ZYRG9sN05iZzlibkNRVkVQbXYxd1ZTRC0zcHJVTnNkc3dLNzAwMC1lZWtkS3BrcUk3aE1DZnJCWnJGLVFfNmQwSk5wS0Q3bk9XY1dwVWdVaUd4cjhrb0U",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792283220.0
-    },
-    {
-        "id": "79d84cae22",
-        "title_fa": "به صدا درآمدن آژیر خطر حملات هوایی در سراسر عربستان",
-        "title_en": "Live: Aerial threat alerts sound across Saudi Arabia",
-        "summary": [
-            "فعال‌شدن سراسری آژیرهای هشدار هوایی، زنگ خطر پرتاب احتمالی موشک یا پهپاد به‌سوی اهداف کلیدی در خاک عربستان را به صدا درآورده است.",
-            "سامانه‌های پدافندی ریاض در بالاترین سطح آماده‌باش عملیاتی قرار گرفتند و احتمال تغییر مسیر برخی خطوط پروازی وجود دارد.",
-            "این تحرک هوایی بار دیگر ضریب آسیب‌پذیری تاسیسات نفتی و زیرساخت‌های حیاتی منطقه را در کانون توجه قرار داد."
-        ],
-        "impact": "افزایش فوری سطح ریسک ژئوپلیتیک در بازار انرژی خلیج فارس و آماده‌باش سامانه‌های پدافند هوایی منطقه‌ای.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNvTzZ4TkdPVHc4bkh4emxSZzBhMXBKM04zNlFFeFoySUpBelZBQlJmVF83WVdXNDQ5VEFXei13SjlVQ0xDSHBpWU9GZElNQk9naS1ESFRMcXRMX3FHV3ptOU9nRFJLRWFBVVI4ejhHNGVSUWJNZVNHZmVBTDNMRXZvc0lfODAyTXJCM0VmQ0FJdGtjbkdWZjIyTGJMSUNOSWdOYlVjcFlCdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNvTzZ4TkdPVHc4bkh4emxSZzBhMXBKM04zNlFFeFoySUpBelZBQlJmVF83WVdXNDQ5VEFXei13SjlVQ0xDSHBpWU9GZElNQk9naS1ESFRMcXRMX3FHV3ptOU9nRFJLRWFBVVI4ejhHNGVSUWJNZVNHZmVBTDNMRXZvc0lfODAyTXJCM0VmQ0FJdGtjbkdWZjIyTGJMSUNOSWdOYlVjcFlCdw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792281046.0
-    },
-    {
-        "id": "8cf619262e",
-        "title_fa": "رصد دقیق تحولات ج.ا. توسط مقامات دفاعی اسرائیل",
-        "title_en": "Israeli defense officials monitor Iran amid civil unrest risks and proxy threats",
-        "summary": [
-            "نهادهای امنیتی اسرائیل وضعیت داخلی و اعتراضات احتمالی در ایران را به دقت زیر نظر دارند.",
-            "تهدیدات ناشی از گروه های نیابتی در منطقه در کنار نارضایتی های مردمی ارزیابی می شود."
-        ],
-        "impact": "افزایش سطح آماده‌باش نظامی اسرائیل همزمان با تشدید بحران‌های داخلی و نیابتی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRXZCYjk2alFwZW1PZE1XNWQzUWFYMFFTVENYYS1hendnNnNGbzdFcXl1TjFGSUJFOHVSeDRZN0VWSUFIbmp5NHJyWkhBYmZKaWQ4dEZacGJzMEFXVlc5eUFGS25RQTgtZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRXZCYjk2alFwZW1PZE1XNWQzUWFYMFFTVENYYS1hendnNnNGbzdFcXl1TjFGSUJFOHVSeDRZN0VWSUFIbmp5NHJyWkhBYmZKaWQ4dEZacGJzMEFXVlc5eUFGS25RQTgtZnc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792280633.0
-    },
-    {
-        "id": "246f321606",
-        "title_fa": "استفاده دموکرات‌ها از موضوع ج-نگ با ایران برای ضربه به جمهوری‌خواهان",
-        "title_en": "Democrats use Iran war to target Republicans—even some who never cast votes in Congress",
-        "summary": [
-            "حزب دموکرات از پرونده ایران به‌عنوان ابزاری انتخاباتی علیه رقیب استفاده می‌کند.",
-            "برخی جمهوری‌خواهان هدف حملات سیاسی قرار گرفته‌اند که اساساً سابقه رای‌دهی در کنگره نداشته‌اند."
-        ],
-        "impact": "تشدید جنگ سیاسی داخلی در آمریکا بر سر پرونده ایران در آستانه انتخابات.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYU5YSzhZai1HZC14Mjd5Q09IU042OE85aFcwYmg1NjcwemxrRG1HQlBHX1QtMndNcFZybk0xbW81NEZBZkZvSWFOeHFxeUdwT01LZEViS1lCTFphSzI5Q19xOUhCWlQ3Qkx0RENxUlBoWngzR0VSYjlzOFRCd3Z2aXJvOWN4aWNVc01zT0NzUGhKdWI2YjJWanU3dEg2NW11MEVGWGlGMDM1N3dq?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYU5YSzhZai1HZC14Mjd5Q09IU042OE85aFcwYmg1NjcwemxrRG1HQlBHX1QtMndNcFZybk0xbW81NEZBZkZvSWFOeHFxeUdwT01LZEViS1lCTFphSzI5Q19xOUhCWlQ3Qkx0RENxUlBoWngzR0VSYjlzOFRCd3Z2aXJvOWN4aWNVc01zT0NzUGhKdWI2YjJWanU3dEg2NW11MEVGWGlGMDM1N3dq",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792271340.0
     }
 ]
