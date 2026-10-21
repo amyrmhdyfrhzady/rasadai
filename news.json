@@ -1,5 +1,23 @@
 [
     {
+        "id": "8406e839b5",
+        "title_fa": "تحریم‌های جدید آمریکا علیه شبکه حمل‌ونقل دریایی ج.ا",
+        "title_en": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping",
+        "summary": [
+            "ایالات متحده دفاتر حقوقی یونان و پاناما را به دلیل پشتیبانی از ناوگان کشتیرانی ج.ا در لیست سیاه قرار داد.",
+            "این اقدام بخشی از فشارها برای مسدود کردن راه‌های دور زدن تحریم‌های نفتی و تجاری است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و افزایش هزینه لجستیک برای صادرات غیرقانونی نفت.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFh4ZEdDSDhEcmZJWFR1VDVOUDVaYTR6aURwNjEzRnpsVGV4aTl1RFR3LVZpa1ZRZW5DY1ByTnBXZmk3RVl4VHRZM0x6UGRnUWp1dUJJUWItY3lYU3dmZ1RBYU1OLTdjc3JXOVB3V09mM051WGM1dEJsaW1WQXRmd3BmVXRaRUZMNzR4bkVBY3RTNWt1aXYxcGdWZVdUMy0xNUNzMlpJMkpyR0RaQVdKbUNENzFIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFh4ZEdDSDhEcmZJWFR1VDVOUDVaYTR6aURwNjEzRnpsVGV4aTl1RFR3LVZpa1ZRZW5DY1ByTnBXZmk3RVl4VHRZM0x6UGRnUWp1dUJJUWItY3lYU3dmZ1RBYU1OLTdjc3JXOVB3V09mM051WGM1dEJsaW1WQXRmd3BmVXRaRUZMNzR4bkVBY3RTNWt1aXYxcGdWZVdUMy0xNUNzMlpJMkpyR0RaQVdKbUNENzFIdw",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792602116.0
+    },
+    {
         "id": "c62b0fedf1",
         "title_fa": "احتمال همکاری مجدد اپل و اینتل",
         "title_en": "08 Decembrie 2025",
@@ -378,6 +396,25 @@
         "clean_url": "https://www.iranintl.com/en/202610217669",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792577640.0
+    },
+    {
+        "id": "dd74cadfe5",
+        "title_fa": "بازی تکراری پاستوریزه برای مذاکره و خط‌ونشان کشیدن‌های ترامپ",
+        "title_en": "Iran rules out transferring uranium to a third country",
+        "summary": [
+            "مسعود پزشکیان مدعی ارائه طرح صلح به آمریکا شده و باز کردن تنگه هرمز را مشروط به پذیرش شرایط تهران کرده است.",
+            "دونالد ترامپ با رد نگرانی‌ها درباره گرانی بنزین، مانع تراشی در برابر دستیابی ج.ا به بمب اتم را هزینه ضروری توصیف کرد.",
+            "بنیامین نتانیاهو بر ترسیم آینده‌ای متفاوت برای خاورمیانه در همکاری با دولت ترامپ تاکید کرد."
+        ],
+        "impact": "افزایش فشار همزمان دیپلماتیک و اقتصادی واشینگتن و تل‌آویو علیه تهران.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-russia-houthi-october-21",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-trump-russia-houthi-october-21",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/770af59e4b8ed06ac59b531c2e550aff.jpg",
+        "timestamp": 1792576800.0
     },
     {
         "id": "9776cb19d6",
@@ -5457,42 +5494,5 @@
         "clean_url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
         "image": "http://www.bing.com/th?id=ONUT.ztRPGo6Liw2G5AQrCq4n3g&pid=News",
         "timestamp": 1792317600.0
-    },
-    {
-        "id": "f7e9cf0a5d",
-        "title_fa": "توسعه هوش مصنوعی در ایران؛ گرفتار میان فیلترینگ و تحریم",
-        "title_en": "Artificial Intelligence in Iran: Beyond Sanctions, Filters, and the Ruins of War",
-        "summary": [
-            "محدودیت دسترسی به زیرساخت‌های پردازشی مدرن به دلیل تحریم‌های بین‌المللی، بزرگ‌ترین مانع شرکت‌های داخلی برای همگام شدن با تحولات جهانی هوش مصنوعی است.",
-            "فیلترینگ سنگین اینترنت در کنار سایه تنش‌های نظامی منطقه‌ای، شتاب فرار نخبگان فنی و متخصصان این حوزه را دوچندان کرده است."
-        ],
-        "impact": "عقب‌ماندگی تکنولوژیک کشور به دلیل انزوای جهانی و مسدودسازی داخلی اینترنت تشدید می‌شود.",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamVITFhfaDlzeVFObVUtNWVMMkptUnRCYmVzT1F0NFFSVmpzTnBMV3lXblBON3o4SzlPWlFKTExsQjdlV1NSQ0VsblAyVGdxSDBMRXlKbnl1UjZxVk15a1hzZGtHcElNX0NzcVRIWWw5NHZ2UE5MaXAtSGNrTUpESDJ2MC1YYU82bTRrWnpvZUk5STBvVm8wSUQyVmEyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamVITFhfaDlzeVFObVUtNWVMMkptUnRCYmVzT1F0NFFSVmpzTnBMV3lXblBON3o4SzlPWlFKTExsQjdlV1NSQ0VsblAyVGdxSDBMRXlKbnl1UjZxVk15a1hzZGtHcElNX0NzcVRIWWw5NHZ2UE5MaXAtSGNrTUpESDJ2MC1YYU82bTRrWnpvZUk5STBvVm8wSUQyVmEyZw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792315512.0
-    },
-    {
-        "id": "1e3296da40",
-        "title_fa": "خط و نشان تکراری وزیر دفاع ج.ا همزمان با تثبیت حضور آمریکا",
-        "title_en": "Live - Iran’s new defense minister urges US personnel out of region as Washington signals longer stay",
-        "summary": [
-            "وزیر دفاع جدید حکومت ایران بار دیگر خواستار خروج نیروهای آمریکایی از خاورمیانه شد؛ موضعی تکراری که بیشتر کارکرد مصرف داخلی و جنگ روانی دارد.",
-            "در آن سوی میدان، واشنگتن با ارسال سیگنال‌های صریح از برنامه‌ریزی برای حضور طولانی‌مدت و تقویت چتر امنیتی خود در منطقه خبر می‌دهد.",
-            "تضاد میان مانورهای لفظی تهران و واقعیت‌های میدانی، عدم توانایی عملیاتی ج.ا برای مواجهه مستقیم با ایالات متحده را برملا می‌سازد."
-        ],
-        "impact": "تثبیت حضور نظامی آمریکا، امکان هرگونه ماجراجویی جدید را از شبکه نیابتی و نیروهای مسلح ج.ا سلب می‌کند.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792315057.0
     }
 ]
