@@ -1,5 +1,23 @@
 [
     {
+        "id": "6239027190",
+        "title_fa": "رشد ملایم بورس لندن در آستانه انتشار آمارهای تورم",
+        "title_en": "FTSE 100 to open higher; SpaceX rises",
+        "summary": [
+            "شاخص بورس لندن با رشد خفیف ۱۵ واحدی روز را آغاز می‌کند.",
+            "آمارهای جدید تورم و استقراض بخش عمومی بریتانیا جهت‌گیری سیاست‌های مالی را تعیین می‌کند."
+        ],
+        "impact": "تغییرات تورمی بریتانیا جهت حرکت بازارهای مالی اروپا را مشخص خواهد کرد.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "MarketScreener",
+        "url": "https://www.marketscreener.com/news/ftse-100-to-open-higher-spacex-rises-ce785cd8de8af526",
+        "clean_url": "https://www.marketscreener.com/news/ftse-100-to-open-higher-spacex-rises-ce785cd8de8af526",
+        "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "timestamp": 1792562340.0
+    },
+    {
         "id": "0580f3a6e3",
         "title_fa": "ممانعت ترامپ از اقدام نظامی جدید اسرائیل علیه ایـران",
         "title_en": "Report: Trump blocked new Israeli campaign against Iran",
@@ -5490,23 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbk1VNVlyZU5qekV2b2U0WHl6dGlUT1N1QWZQa2M1aC1jclVVdDYyZG9WWE5ucURQbm5sRDRPaXJpRjdOMWstT2JRbmZlaVhzYUZrUzNCYm0tcS1DN29jMHNfVmpwcUc3bWZfSGhUQjQ4dU1PcnlLblhFM3NFX01iVGxmTWpSVHVIcFFKM1dESXMzbDlpMXFr",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792237672.0
-    },
-    {
-        "id": "44e6ef1021",
-        "title_fa": "تناقض در روایت ترامپ و مقام امنیتی درباره قدرت در ای-ران",
-        "title_en": "Who is running Iran right now? Trump, security officials offer different accounts - ABC News",
-        "summary": [
-            "دونالد ترامپ و مقام‌های امنیتی آمریکا روایت‌های متفاوتی درباره اینکه چه کسی در حال حاضر ای-ران را اداره می‌کند ارائه داده‌اند.",
-            "این تناقض‌گویی نشان‌دهنده سردرگمی یا نبود اطلاعات دقیق در سطوح بالای تصمیم‌گیری واشنگتن درباره ساختار قدرت فعلی تهران است."
-        ],
-        "impact": "افزایش ابهام در دستگاه سیاست خارجی آمریکا برای اتخاذ تصمیمات قاطع در قبال تحولات داخلی ای-ران.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSG9ZdS1SMXRBM21YellBQ09weklTejVPT2drZ1NDUjBuYVpIOGlxbVV2WVNJSFV1cUNEOWhoSzc1eGpuc1ZsbHVyNngtZVM0YjAxSy1FVzNwLURyVEQ2UzZaZjdBamtpUkdTajl3TTVKTC1ES1NIc0Fwblc4YVZpVFlkVzA5VXFGLU96MDhpaWVKWk5pRlN3X0FBZDAwWUllTHpfOXRHS0Vua0JMYlHSAbMBQVVfeXFMUFJxX21SZWU4dTlwR1cxaHh1SzlScGJXLS1Jc1VOZnplYUpLMDVmek83Ti03WmxNdklJNnFPU19EcWRnanM2LW1DVjh0Nk9Uc2RBc0VKTjF6NmVDclQzN253ME1NcHYyLTN6MkFmd3pZT0R3VjBhZVV3elRlWF9SUXVNZFcxSlY4TDBhRERXR3kwc2I2X0k3UmxQRFBnR2lWN1FFZG11WXVobDdkWEM5QVBaVGs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSG9ZdS1SMXRBM21YellBQ09weklTejVPT2drZ1NDUjBuYVpIOGlxbVV2WVNJSFV1cUNEOWhoSzc1eGpuc1ZsbHVyNngtZVM0YjAxSy1FVzNwLURyVEQ2UzZaZjdBamtpUkdTajl3TTVKTC1ES1NIc0Fwblc4YVZpVFlkVzA5VXFGLU96MDhpaWVKWk5pRlN3X0FBZDAwWUllTHpfOXRHS0Vua0JMYlHSAbMBQVVfeXFMUFJxX21SZWU4dTlwR1cxaHh1SzlScGJXLS1Jc1VOZnplYUpLMDVmek83Ti03WmxNdklJNnFPU19EcWRnanM2LW1DVjh0Nk9Uc2RBc0VKTjF6NmVDclQzN253ME1NcHYyLTN6MkFmd3pZT0R3VjBhZVV3elRlWF9SUXVNZFcxSlY4TDBhRERXR3kwc2I2X0k3UmxQRFBnR2lWN1FFZG11WXVobDdkWEM5QVBaVGs",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792237015.0
     }
 ]
