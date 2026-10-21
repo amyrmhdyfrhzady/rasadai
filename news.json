@@ -1,5 +1,23 @@
 [
     {
+        "id": "2043d0b1d3",
+        "title_fa": "دوگانگی جنگ و دیپلماسی در بالاترین سطح حاکمیت",
+        "title_en": "War warnings and talk of diplomacy compete in Tehran",
+        "summary": [
+            "تهران همزمان به تهدید نظامی متوسل می‌شود و به دنبال راه‌های خروج از بن‌بست دیپلماتیک است.",
+            "شکاف عمیقی بین لفاظی‌های تهاجمی و ترس واقعی از رویارویی مستقیم در درون ساختار قدرت شکل گرفته است."
+        ],
+        "impact": "سردرگمی راهبردی و بی‌ثباتی مداوم در بازارهای مالی داخل کشور",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PaVdxU0tLR0VqbjB0eURLYldaQXNtOFBvSVM5VHp2RTBoSXpUU0RLNC1UOHFVa290SHBSTmlNbThuMEMxRGRNU2pmTWlhdGJjZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PaVdxU0tLR0VqbjB0eURLYldaQXNtOFBvSVM5VHp2RTBoSXpUU0RLNC1UOHFVa290SHBSTmlNbThuMEMxRGRNU2pmTWlhdGJjZFE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792614371.0
+    },
+    {
         "id": "55cad3942e",
         "title_fa": "هدف‌گذاری نتانیاهو برای تغییر حكومت ج-ه-م-و-ر-ی ا-س-لا-م-ی",
         "title_en": "Netanyahu says 'toppling' Iran government only way to end threat",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://news.antiwar.com/2026/10/18/araghchi-says-irans-proposal-to-open-strait-of-hormuz-within-seven-days-is-still-on-the-table",
         "image": "http://www.bing.com/th?id=ONUT.CEMSbSaYzKPsbZ33WquJww&pid=News",
         "timestamp": 1792348200.0
-    },
-    {
-        "id": "0d9bd02490",
-        "title_fa": "دلیل حمایت ترامپ از نتانیاهو",
-        "title_en": "Trump tells Axios why he endorsed Netanyahu's reelection",
-        "summary": [
-            "ترامپ در مصاحبه با اکسیوس دلایل پشت پرده حمایت خود از پیروزی مجدد نتانیاهو را بازگو کرد.",
-            "این موضع‌گیری نشان‌دهنده تداوم هم‌پیمانی نزدیک این دو چهره در تحولات خاورمیانه است."
-        ],
-        "impact": "این حمایت سیاسی جهت‌گیری دولت آینده آمریکا در قبال تل‌آویو را تقویت می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792346568.0
     }
 ]
