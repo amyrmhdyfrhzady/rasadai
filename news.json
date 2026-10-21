@@ -380,6 +380,25 @@
         "timestamp": 1792577640.0
     },
     {
+        "id": "9776cb19d6",
+        "title_fa": "فحاشی سخنگوی ارتش ج.ا به ترامپ و نتانیاهو",
+        "title_en": "Iran military spokesman calls Trump, Netanyahu ‘child-eating twins’",
+        "summary": [
+            "ابوالفضل شکارچی مقام ارشد نظامی ج.ا، رهبران آمریکا و اسرائیل را دوقلوهای کودک‌کش نامید.",
+            "این ادعاها در حالی مطرح می‌شود که دستگاه حکومتی ایران زیر فشار شدید اقتصادی و سیاسی دست‌وپا می‌زند.",
+            "یک افسر سابق پلیس تهران نیز به جرم دور زدن تحریم‌ها از کانادا اخراج شد."
+        ],
+        "impact": "تلاش برای روحیه دادن به بدنه داخلی با استفاده از ادبیات تند و شعاری",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610214562",
+        "clean_url": "https://www.iranintl.com/en/202610214562",
+        "image": "http://www.bing.com/th?id=ONUT.YVCZX87solXPm1GOs1xmaw&pid=News",
+        "timestamp": 1792576800.0
+    },
+    {
         "id": "b52b870b84",
         "title_fa": "فشار نتانیاهو برای جنگ و چالش‌های ارتش اسرائیل",
         "title_en": "Netanyahu's War Push & The IDF Chief's Dilemma",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792314168.0
-    },
-    {
-        "id": "db0b3fa814",
-        "title_fa": "حمایت تمام‌قد ترامپ از نتانیاهو و هشدار سخت به ج.ا",
-        "title_en": "حمایت ترامپ از نتانیاهو در انتخابات اسرائیل؛ «ایران تغییر رفتار ندهد، کار را تمام می‌کنیم»",
-        "summary": [
-            "دونالد ترامپ در پیامی صریح حمایت کامل خود را از بنیامین نتانیاهو در انتخابات پیش‌روی اسرائیل اعلام کرد.",
-            "رئیس‌جمهور آمریکا به صراحت تهدید کرد اگر تــهــران رفتار خود را تغییر ندهد، کار توسط ایالات متحده و اسرائیل یکسره خواهد شد.",
-            "ترامپ با اشاره به نیم قرن شعارهای ضدآمریکایی و ضداسرائیلی حاکمیت ایـران، نتانیاهو را شریکی بزرگ در جنگ مشترک علیه تــهــران خوانд."
-        ],
-        "impact": "افزایش فشار حداکثری سیاسی و نظامی بر حاکمیت ایـران و تقویت موضع اسرائیل در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/trump-endorses-netanyahu-in-israel-s-upcoming-election/33878900.html",
-        "clean_url": "https://www.radiofarda.com/a/trump-endorses-netanyahu-in-israel-s-upcoming-election/33878900.html",
-        "image": "http://www.bing.com/th?id=ONUT.u7d2pbUXKnz9uV25EXKl7Q&pid=News",
-        "timestamp": 1792313100.0
     }
 ]
