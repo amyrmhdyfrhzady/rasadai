@@ -1,5 +1,23 @@
 [
     {
+        "id": "c62b0fedf1",
+        "title_fa": "احتمال همکاری مجدد اپل و اینتل",
+        "title_en": "08 Decembrie 2025",
+        "summary": [
+            "اخبار جدید صنعت فناوری از احتمال پایان جدایی چندساله اپل و اینتل خبر می‌دهند.",
+            "این دو غول تکنولوژی ممکن است دوباره پروژه‌های مشترکی را کلید بزنند."
+        ],
+        "impact": "این همکاری جدید می‌تواند تحولات مهمی در بازار سخت‌افزار ایجاد کند.",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/nota-gimnasta-all-around-campionatul-mondial-pag196",
+        "clean_url": "https://ziare.com/cautare/nota-gimnasta-all-around-campionatul-mondial-pag196",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792601475.9375935
+    },
+    {
         "id": "b6c5cd74c5",
         "title_fa": "بن‌بست در منازعه واشنگتن و تهران؛ راهکارها بی‌نتیجه ماند",
         "title_en": "‘We Are Stalled’: US-Iran Conflict Stuck With No End in Sight",
@@ -5476,24 +5494,5 @@
         "clean_url": "https://www.radiofarda.com/a/trump-endorses-netanyahu-in-israel-s-upcoming-election/33878900.html",
         "image": "http://www.bing.com/th?id=ONUT.u7d2pbUXKnz9uV25EXKl7Q&pid=News",
         "timestamp": 1792313100.0
-    },
-    {
-        "id": "7c1f2a9836",
-        "title_fa": "افشای بهره‌کشی س-پ-ا-ه از زنان و کودکان برای جنگ‌های نیابتی",
-        "title_en": "Iran's IRGC exploits women through sex trafficking, uses children to fund proxy wars, report finds",
-        "summary": [
-            "یک گزارش جدید پرده از ابعاد هولناک قاچاق انسان توسط س-پ-ا-ه برداشت.",
-            "مهاجران و کودکان آسیب‌پذیر ابزار تامین مالی گروه‌های نیابتی شده‌اند.",
-            "تجارت سیاه انسان به منبع درآمدی برای ماشین جنگی منطقه تبدیل شده است."
-        ],
-        "impact": "افزایش انزجار عمومی و تشدید فشارهای حقوق بشری علیه ساختار نظامی.",
-        "tag": "حقوق بشر",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-irgc-exploits-women-through-sex-trafficking-uses-children-to-fund-proxy-wars-report-finds/ar-AA2etSBS",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-irgc-exploits-women-through-sex-trafficking-uses-children-to-fund-proxy-wars-report-finds/ar-AA2etSBS",
-        "image": "http://www.bing.com/th?id=ONUT.zM30U-QxfY9Znns7OHT17Q&pid=News",
-        "timestamp": 1792312752.0
     }
 ]
