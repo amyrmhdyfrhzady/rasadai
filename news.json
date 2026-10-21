@@ -1,5 +1,23 @@
 [
     {
+        "id": "b56feeeca6",
+        "title_fa": "شکاف در بدنه حاکمیت بر سر دیپلماسی و تنش",
+        "title_en": "Iran FM briefs cabinet on talks with visiting delegations",
+        "summary": [
+            "عراقچی گزارش رایزنی‌های اخیر با هیئت‌های خارجی را به هیئت وزیران ارائه داد.",
+            "رسانه‌های داخلی همچنان بین رویکرد مقاومت و پذیرش توافق تحت فشار خارجی دچار دوگانگی هستند."
+        ],
+        "impact": "سردرگمی در دستگاه سیاست خارجی میان جنگ و مذاکره ادامه دارد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202610217669",
+        "clean_url": "https://www.iranintl.com/en/202610217669",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792577640.0
+    },
+    {
         "id": "8a7b0507f0",
         "title_fa": "رونمایی از سامانه پدافندی هوش مصنوعی روس‌ها با دقت مرگبار",
         "title_en": "Citadel air defense system AI components ensure 99% target engagement rate — Rostec",
@@ -343,6 +361,24 @@
         "clean_url": "https://www.politico.com/newsletters/new-york-playbook/2026/10/21/iran-war-looms-over-the-midterms-01128748",
         "image": "http://www.bing.com/th?id=ONUT.2ThY6QAD5-KbAbpUSydPhQ&pid=News",
         "timestamp": 1792551600.0
+    },
+    {
+        "id": "5f9e20fa6d",
+        "title_fa": "ترامپ: مهار اتمی ای-ران به قیمت نفت بالا می‌ارزد",
+        "title_en": "US Iran War Live Updates: Houthis claim ballistic missile attack on Saudi-led coalition base in Aden",
+        "summary": [
+            "ترامپ در گردهمایی انتخاباتی خود مدعی شد هدف ح-ک-و-م-ت ت-ه-ر-ا-ن کش دادن تنش‌ها تا بعد از انتخابات میان‌دوره آمریکاست.",
+            "عباس عراقچی تأکید کرد تا زمانی که واشنگتن شرایط ت-ه-ر-ا-ن را نپذیرد، تنگه هرمز بسته می‌ماند."
+        ],
+        "impact": "تنش در آب‌های جنوبی و باز بازار انرژی با تهدید به انسداد تنگه هرمز بالا گرفته است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-war-donald-trump-strait-of-hormuz-ceasefire-talks-pakistan-qatar-middle-east-news/liveblog/135079627.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-war-donald-trump-strait-of-hormuz-ceasefire-talks-pakistan-qatar-middle-east-news/liveblog/135079627.cms",
+        "image": "http://www.bing.com/th?id=ONUT.oSw-ZaT5p3qxZeGT0W7n-Q&pid=News",
+        "timestamp": 1792551480.0
     },
     {
         "id": "92e9064b1f",
@@ -5472,41 +5508,5 @@
         "clean_url": "https://www.iranintl.com/en/202610180303",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792260000.0
-    },
-    {
-        "id": "989b40e9e0",
-        "title_fa": "بازخوانی شراکت مسکو و تهران در بازی قدرت منطقه",
-        "title_en": "Russia-Iran relationship demonstrates Kremlin's Middle East strategy",
-        "summary": [
-            "مسکو از کارت تهران برای پیشبرد منازعات خود با غرب در خاورمیانه استفاده می‌کند.",
-            "تعمیق این روابط نشان‌دهنده تلاش کرملین برای ایجاد ائتلاف‌های جایگزین در برابر تحریم‌هاست."
-        ],
-        "impact": "تقویت محور مسکو-تهران مانع اثربخشی فشارهای اقتصادی غرب خواهد شد.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdThqQWlqazVqWDZDaFJHdTRKYWpsX1dvR1BaeFdrbFo5S2pNbWlDektkWUZJUzNzTDZWcVdqcC1OdlhYeEZDVTlaMXZDd0JHbThqSFVUQVlnTFZpb2ZF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdThqQWlqazVqWDZDaFJHdTRKYWpsX1dvR1BaeFdrbFo5S2pNbWlDektkWUZJUzNzTDZWcVdqcC1OdlhYeEZDVTlaMXZDd0JHbThqSFVUQVlnTFZpb2ZF",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792259672.0
-    },
-    {
-        "id": "d13b236c61",
-        "title_fa": "بازخواست معاون ترامپ درباره ضعف‌های مرگبار در جنگ با ایران",
-        "title_en": "Man whose wife died in Iran strike presses Vance: \"Fundamental failures\"",
-        "summary": [
-            "همسر یکی از نظامیان کشته‌شده در حمله پهپادی کویت، جی‌دی ونس را به خاطر خطاهای فاحش فرماندهی به چالش کشید.",
-            "گزارش‌ها نشان می‌دهد پایگاه کویت فاقد تجهیزات دفاعی کافی برای دفع پهپادها بوده و درخواست‌های پزشکی و حفاظتی نادیده گرفته شده است."
-        ],
-        "impact": "افزایش فشار افکار عمومی بر کاخ سفید پیرامون تلفات نظامیان آمریکایی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/man-whose-wife-died-iran-004606000.html",
-        "clean_url": "https://www.aol.com/articles/man-whose-wife-died-iran-004606000.html",
-        "image": "http://www.bing.com/th?id=ONUT.jz1MrR0RAa19n-IR68eX0A&pid=News",
-        "timestamp": 1792259100.0
     }
 ]
