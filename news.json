@@ -54,6 +54,24 @@
         "timestamp": 1792580538.0
     },
     {
+        "id": "24d12d0c17",
+        "title_fa": "ویدئوی جنجالی بن‌گفیر از آینده غزه با هوش مصنوعی",
+        "title_en": "Ben-Gvir mocks Gazans in AI video ahead of Israel elections",
+        "summary": [
+            "وزیر امنیت داخلی اسرائیل با انتشار ویدئویی ساختگی، غزه را در سال ۲۰۳۰ به عنوان یک شهر ویران و متروکه به تصویر کشید.",
+            "این اقدام تبلیغاتی با هدف خودنمایی از ویرانی‌های به بار آمده و تمسخر ساکنان فلسطینی غزه پیش از انتخابات پارلمانی انجام شد."
+        ],
+        "impact": "تشدید جنگ روانی و افزایش نفرت عمومی در پی نمایش تخریب‌های گسترده.",
+        "tag": "منطقه‌ای",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "en.yenisafak",
+        "url": "https://en.yenisafak.com/world/ben-gvir-mocks-gazans-in-ai-video-ahead-of-israel-elections-3724668",
+        "clean_url": "https://en.yenisafak.com/world/ben-gvir-mocks-gazans-in-ai-video-ahead-of-israel-elections-3724668",
+        "image": "https://img.piri.net/piri/upload/3/2026/10/21/4b6455ad-ben-gvir-mocks-gazans-in-ai-video-ahead-of-israel-elections.webp",
+        "timestamp": 1792577940.0
+    },
+    {
         "id": "b56feeeca6",
         "title_fa": "شکاف در بدنه حاکمیت بر سر دیپلماسی و تنش",
         "title_en": "Iran FM briefs cabinet on talks with visiting delegations",
@@ -379,6 +397,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792555213.0
+    },
+    {
+        "id": "f6460815f4",
+        "title_fa": "نتانیاهو: هدف اصلی ما ساقط کردن ساختار ج.ا است",
+        "title_en": "Pezeshkian says ‘neither war nor peace’ is Iran’s worst situation",
+        "summary": [
+            "نخست‌وزیر اسرائیل صریحاً اعلام کرد که تضعیف نظامی تهران کافی نیست و بقای حکومت به معنای بازسازی برنامه‌های اتمی و نیابتی است.",
+            "نتانیاهو در آستانه انتخابات، سرنگونی نظام حاکم بر ایران را به عنوان راه حل نهایی امنیت اسرائیل مطرح کرد.",
+            "مسعود پزشکیان وضعیت کنونی کشور را نه جنگ و نه صلح توصیف کرد که نشانگر بن‌بست محاسباتی حاکمیت است."
+        ],
+        "impact": "افزایش حداکثری تنش‌های امنیتی و تلاش اسرائیل برای تغییر معادلات قدرت در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610214546",
+        "clean_url": "https://www.iranintl.com/en/202610214546",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792554720.0
     },
     {
         "id": "2a2ae8787a",
@@ -5466,41 +5503,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYU5YSzhZai1HZC14Mjd5Q09IU042OE85aFcwYmg1NjcwemxrRG1HQlBHX1QtMndNcFZybk0xbW81NEZBZkZvSWFOeHFxeUdwT01LZEViS1lCTFphSzI5Q19xOUhCWlQ3Qkx0RENxUlBoWngzR0VSYjlzOFRCd3Z2aXJvOWN4aWNVc01zT0NzUGhKdWI2YjJWanU3dEg2NW11MEVGWGlGMDM1N3dq",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792271340.0
-    },
-    {
-        "id": "a302bf5fbc",
-        "title_fa": "قدرت‌نمایی حوثی‌ها با حملات پهپادی به عربستان",
-        "title_en": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-        "summary": [
-            "حملات مکرر گروه انصارالله یمن به اهدافی در عربستان، ابعاد جدیدی از توان رزمی این گروه را به نمایش گذاشته است.",
-            "این تحرکات نشان می‌دهد زنجیره تامین تسلیحاتی و پهپادی این نیروها همچنان فعال و رو به رشد است."
-        ],
-        "impact": "افزایش ریسک امنیتی در مرزهای جنوبی عربستان و پیچیده‌تر شدن معادلات پایان جنگ یمن.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU25iRllYRmNScjAxNkI1ZVpNcS0yaHg5dk9aNFZWaTBLeWIwdUxwQmZ4cGhwQkVDZnl3TXdGRVk5dDFaNzZ6Y0w1N1NjQ3ZYNWZUMzNNQ2FWRVdTU1BKT2RJSXB0M2Jsazl4X3V0Y1IxWFlXaTd6c3RxQTlfSmJnYTd0eWFlOTA5anRLYUlOR0t3Vm5vWU1GZHdaU08wcGhQSXFSbTJXVFhoWGRXbnfSAa4BQVVfeXFMUFNuYkZZWEZjUnIwMTZCNWVaTXEtMmh4OXZPWjRWVmkwS3liMHVMcEJmeHBocEJFQ2Z5d013RkVZOXQxWjc2emNMNTdTY0N2WDVmVDMzTUNhVkVXU1NQSk9kSUlwdDNibGs5eF91dGNSMVhZV2k3enN0cUE5X0piZ2E3dHlhZTkwOWp0S2FJTkdLd1Zub1lNRmR3WlNPMHBoUElxUm0yV1RYaFhkV253?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU25iRllYRmNScjAxNkI1ZVpNcS0yaHg5dk9aNFZWaTBLeWIwdUxwQmZ4cGhwQkVDZnl3TXdGRVk5dDFaNzZ6Y0w1N1NjQ3ZYNWZUMzNNQ2FWRVdTU1BKT2RJSXB0M2Jsazl4X3V0Y1IxWFlXaTd6c3RxQTlfSmJnYTd0eWFlOTA5anRLYUlOR0t3Vm5vWU1GZHdaU08wcGhQSXFSbTJXVFhoWGRXbnfSAa4BQVVfeXFMUFNuYkZZWEZjUnIwMTZCNWVaTXEtMmh4OXZPWjRWVmkwS3liMHVMcEJmeHBocEJFQ2Z5d013RkVZOXQxWjc2emNMNTdTY0N2WDVmVDMzTUNhVkVXU1NQSk9kSUlwdDNibGs5eF91dGNSMVhZV2k3enN0cUE5X0piZ2E3dHlhZTkwOWp0S2FJTkdLd1Zub1lNRmR3WlNPMHBoUElxUm0yV1RYaFhkV253",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792271073.0
-    },
-    {
-        "id": "f635e8e989",
-        "title_fa": "جاماندن حکومت از کریدورهای تجاری شرق و غرب",
-        "title_en": "Iran risks losing ground as East-West trade routes expand",
-        "summary": [
-            "توسعه مسیرهای ترانزیتی جدید در جهان، ایران را به حاشیه می‌راند.",
-            "انزوای اقتصادی ج.ا.ا با تمرکز جهان بر کریدورهای جایگزین بیشتر می‌شود."
-        ],
-        "impact": "از دست رفتن موقعیت ترانزیتی و درآمد ملی حاکمیت",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0THBCSGNoTHlSVXhPckpjQTlUYnJQeFg5TU16ei13UmJfRjJxaUdwVVlVWnFsZ19BU1YzekxwRWdnR0R5SmU0dkFOR25YcHJBR1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0THBCSGNoTHlSVXhPckpjQTlUYnJQeFg5TU16ei13UmJfRjJxaUdwVVlVWnFsZ19BU1YzekxwRWdnR0R5SmU0dkFOR25YcHJBR1E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792270800.0
     }
 ]
