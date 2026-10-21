@@ -92,6 +92,24 @@
         "timestamp": 1792545960.0
     },
     {
+        "id": "ffaa4f1cee",
+        "title_fa": "افت طلا و نقره در آستانه تصمیم فدرال رزرو",
+        "title_en": "Live Breaking News",
+        "summary": [
+            "بهای طلا و نقره در بازارهای جهانی همزمان با انتظار سرمایه‌گذاران برای نشست سیاست‌گذاری فدرال رزرو کاهش خفیفی ثبت کرد.",
+            "فعالان بازار احتمال ثبات نرخ بهره در نشست پیش رو را بالا ارزیابی می‌کنند اما تورم پایدار سایه خود را حفظ کرده است."
+        ],
+        "impact": "نوسانات محدود فلزات گرانبها تحت تأثیر انتظارات تورمی و تصمیمات پولی آمریکا",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Indiatimes",
+        "url": "https://timesofindia.indiatimes.com/live-breaking-news",
+        "clean_url": "https://timesofindia.indiatimes.com/live-breaking-news",
+        "image": "https://static.toiimg.com/photo/47529300.cms",
+        "timestamp": 1792540800.0
+    },
+    {
         "id": "23eee4deb3",
         "title_fa": "رایزنی محرمانه پنتاگون با تل‌آویو درباره پروندۀ ای-ران",
         "title_en": "Hegseth discusses Iran with Netanyahu in unannounced visit t...",
@@ -5491,23 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OU2lzM3RFUURPWVA4dW01Qnc3QW5GY2RxdUxCMF9qMmFOaVlDZi1wQ05aSURxZVNWVTQ1eV9GbFNKNjR1eHkyRFFPcW5DV3p6aVFKV2VJaE55cUNrRGZnX2cyYUdQMUxrc0E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792227075.0
-    },
-    {
-        "id": "cdcd117e9c",
-        "title_fa": "کاهش مشکوک آمار تلفات جنگی توسط پنتاگون",
-        "title_en": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage - ABC News",
-        "summary": [
-            "پنتاگون آمار کشته‌شدگان و مجروحان مرتبط با درگیری‌های با ت… را کاهش داد.",
-            "این تجدیدنظر آماری موجی از پرسش‌ها و خشم را در محافل سیاسی به همراه داشته است."
-        ],
-        "impact": "پنهان‌کاری احتمالی آمار تلفات نظامی، اعتماد عمومی به گزارش‌های رسمی وزارت دفاع آمریکا را خدشه‌دار می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792226412.0
     }
 ]
