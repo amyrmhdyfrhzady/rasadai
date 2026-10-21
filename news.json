@@ -726,6 +726,24 @@
         "timestamp": 1792574100.0
     },
     {
+        "id": "e5e4638ff0",
+        "title_fa": "پزشکیان: مذاکراتی با تیم ترامپ نداریم",
+        "title_en": "Iran's President Says No Talks Until the US Lifts Sanctions. So Who's Dictating Terms?",
+        "summary": [
+            "مسعود پزشکیان در دیدار با فرمانده ارتش پاکستان شرط گذاشت که آمریکا باید پیش از هرگونه گفتگویی تحریم‌ها را لغو کند.",
+            "رئیس‌جمهور ایران بار دیگر مشکلات منطقه و تنش‌های خلیج فارس را به پای سیاست‌های واشنگتن نوشت."
+        ],
+        "impact": "بسته ماندن پنجره دیپلماسی میان تهران و دولت جدید آمریکا با ت تکیه بر مواضع پیشین.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Townhall",
+        "url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091",
+        "clean_url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091",
+        "image": "https://media.townhall.com/cdn/hodl/2026/59/0b1bb793-3bac-452d-adaf-e005f1896b5b-1200x630.jpg",
+        "timestamp": 1792574040.0
+    },
+    {
         "id": "8a7b0507f0",
         "title_fa": "رونمایی از سامانه پدافندی هوش مصنوعی روس‌ها با دقت مرگبار",
         "title_en": "Citadel air defense system AI components ensure 99% target engagement rate — Rostec",
@@ -5468,24 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZXhScDl0djgxWExLSzlHQ1pCR3JWVHEtZDNTNlltU3BwYTVua045RTFSaW1hUnpEbE1yWlpzY191N0pGZU5LMHE0YjM2bHNMRTFiV3lfMFNUN1lINFF3dllxSWFQckpvMkt3T1JvdUVDdDEzN0VmUmw2OGJsSXc2azFfRFdLaThhNmxMeDdiSm3SAZYBQVVfeXFMUEhINElWNEUyODNpTWU2dE5jY1RPYzJTTUNzVy1fbWl6Y2Q1cUI3SEszOTBLWnNLRVhGeTIwS29DYkpZVHRQZUU5cFpkQ2FJLV8tSmw1TUdYLXNWc0xxS1RGdV96X0otNmdGb1hiTXZVbGZQc0xzZy1fbjkwU0VFQm4wdndhYllNSlNHaWNOLUpkcGl1QWdB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792349880.0
-    },
-    {
-        "id": "bc3832e648",
-        "title_fa": "بازی ج‌ا با کارت تنگه هرمز؛ پیشنهاد هفت‌روزه عراقچی روی میز",
-        "title_en": "Araghchi Says Iran’s Proposal To Open Strait of Hormuz Within Seven Days Is Still on the Table",
-        "summary": [
-            "عباس عراقچی در بغداد از باقی‌ماندن طرح هفت‌روزه تهران برای بازگشایی تنگه هرمز خبر داد؛ رقصی دیپلماتیک که هدف واقعی آن رفع محاصره بنادر و آزادسازی پول‌های بلوکه‌شده است.",
-            "پاسخ‌های آمریکا از نظر محسن رضایی «ناکافی» بوده، اما همین تبادل پیام‌ها نشان می‌دهد ج‌ا تحت فشار شدید خفه کننده، ناچار به باز نگه‌داشتن کانال چانه‌زنی است.",
-            "تهران هم‌زمان با ادعای دیپلماسی، ناامنی دریایی را بالا می‌برد تا با ابزار تهدید انرژی، از واشنگتن امتیازی سریع بگیرد."
-        ],
-        "impact": "تداوم باج‌خواهی در تنگه هرمز، هزینه‌های کشتیرانی بین‌المللی را بالا برده و ریسک تنش نظامی را داغ نگه می‌دارد.",
-        "tag": "تنگه هرمز",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Antiwar.com",
-        "url": "https://news.antiwar.com/2026/10/18/araghchi-says-irans-proposal-to-open-strait-of-hormuz-within-seven-days-is-still-on-the-table/",
-        "clean_url": "https://news.antiwar.com/2026/10/18/araghchi-says-irans-proposal-to-open-strait-of-hormuz-within-seven-days-is-still-on-the-table",
-        "image": "http://www.bing.com/th?id=ONUT.CEMSbSaYzKPsbZ33WquJww&pid=News",
-        "timestamp": 1792348200.0
     }
 ]
