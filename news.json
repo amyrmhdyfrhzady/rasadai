@@ -493,6 +493,24 @@
         "timestamp": 1792525080.0
     },
     {
+        "id": "941b87257b",
+        "title_fa": "ارتش لبنان ادعای تل‌آویو درباره خلع سلاح حزب‌الله را رد کرد",
+        "title_en": "Lebanese army rejects Israeli claims over Hezbollah disarmament",
+        "summary": [
+            "ارتش لبنان با رد ادعاهای اسرائیل تاکید کرد عملیات این نیرو در جنوب رود لیتانی به طور کامل مستند شده است.",
+            "فرماندهی ارتش لبنان، تل‌آویو را به انتشار اخبار جعلی برای تخریب وجهه این کشور در جریان مذاکرات حساس متهم کرد."
+        ],
+        "impact": "تشدید جنگ روانی و دیپلماتیک میان بیروت و تل‌آویو در جریان مذاکرات آتش‌بس",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "en.yenisafak",
+        "url": "https://en.yenisafak.com/world/lebanese-army-rejects-israeli-claims-over-hezbollah-disarmament-3724652",
+        "clean_url": "https://en.yenisafak.com/world/lebanese-army-rejects-israeli-claims-over-hezbollah-disarmament-3724652",
+        "image": "https://img.piri.net/piri/upload/3/2026/10/21/79ff214f-lebanese-army-rejects-israeli-claims-over-hezbollah.webp",
+        "timestamp": 1792524900.0
+    },
+    {
         "id": "be6893d261",
         "title_fa": "پاسخ رد تهران به میانجی‌گری پاکستان برای مذاکره با آمریکا",
         "title_en": "Iran tells Pakistan army chief no talks with Washington until demands are met",
@@ -5491,23 +5509,5 @@
         "clean_url": "https://johnmenadue.com/post/2026/10/sanctions-the-silent-mass-killer-prod-to-add-links",
         "image": "https://www.bing.com/th?id=ONUT.SwGQ3yZnPpQTY44ozriqnA",
         "timestamp": 1792251064.58889
-    },
-    {
-        "id": "be116e73c9",
-        "title_fa": "بازگشت امارات به جنگ یمن برای مهار حوثی‌ها",
-        "title_en": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-        "summary": [
-            "امارات و عربستان برای ورود مجدد به جنگ یمن به توافق رسیدند.",
-            "این تصمیم پس از پیشروی‌های اخیر نیروهای حوثی در منطقه گرفته شده است."
-        ],
-        "impact": "تغییر موازنه قوا در یمن و افزایش تنش‌های منطقه‌ای با ورود دوباره ابوظبی به میدان نبرد.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXhkalJBQ2xwVFhIUExTLWw3UTRGbHdXVlhIQ0ZLaEVOREFzNUQ3MkJqSlMtOWQ1aDRwazFhaVA3ajdqNTREZFN1andxLV9QaE4yUWk4T0ZGeXJfZDIwb0JhMDRwOHN4Qlowbl9ET0x4cVMtZU1zdjBXY3J4bEp3VHAtdDItcUhzM3FfWmNaVFljamJ4enBhb1I3dTZUWVl5Z3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXhkalJBQ2xwVFhIUExTLWw3UTRGbHdXVlhIQ0ZLaEVOREFzNUQ3MkJqSlMtOWQ1aDRwazFhaVA3ajdqNTREZFN1andxLV9QaE4yUWk4T0ZGeXJfZDIwb0JhMDRwOHN4Qlowbl9ET0x4cVMtZU1zdjBXY3J4bEp3VHAtdDItcUhzM3FfWmNaVFljamJ4enBhb1I3dTZUWVl5Z3c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792248360.0
     }
 ]
