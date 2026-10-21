@@ -417,6 +417,25 @@
         "timestamp": 1792572355.0
     },
     {
+        "id": "95b86f3895",
+        "title_fa": "تایید ۵ عضو کلیدی کابینه جدید پوتین در پارلمان روسیه",
+        "title_en": "FACTBOX: State Duma confirms five government appointments",
+        "summary": [
+            "دومای روسیه پنج انتصاب جدید در کابینه از جمله وزرای دارایی و حمل‌ونقل را تایید کرد تا تمرکز بر مدیریت بحران اقتصادی و توسعه زیرساخت‌ها پررنگ‌تر شود.",
+            "تثبیت موقعیت سیلوآنوف در وزارت دارایی نشان از تداوم سیاست‌های سخت‌گیرانه مالی مسکو برای تامین هزینه‌های جنگ و مهار تحریم‌ها دارد.",
+            "تاکید کابینه جدید بر توسعه سیستم‌های خودکار و پهپادی در حمل‌ونقل، از برنامه‌ریزی مسکو برای ارتقای لوجستیک نظامی و غیرنظامی پرده برمی‌دارد."
+        ],
+        "impact": "انسجام بیشتر ساختار مالی و لوجستیکی مسکو برای مدیریت پیامدهای تحریم‌های غربی و پشتیبانی از جنگ.",
+        "tag": "روسیه",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2205719",
+        "clean_url": "https://tass.com/politics/2205719",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261021/1490575.jpg",
+        "timestamp": 1792570920.0
+    },
+    {
         "id": "d909abdbb2",
         "title_fa": "دکترین بقا؛ پیروزی جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامی در نبانختن بازی",
         "title_en": "For Iran, Not Losing Is Winning",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://spectrumlocalnews.com/us/snplus/international/2026/06/24/united-states-iran-nuclear-sites-israel-lebanon-strait-hormuz-negotiations-interim-deal",
         "image": "https://s7d2.scene7.com/is/image/TWCNews/nuclearboss_AP_26175170713571_NAT_062426",
         "timestamp": 1792310280.0
-    },
-    {
-        "id": "e899194693",
-        "title_fa": "ترامپ: مسئولیت شکست توافق با ج.ا با ونس است",
-        "title_en": "Trump on Vance’s Iran deal: ‘If it doesn’t work out, I’m blaming JD’",
-        "summary": [
-            "ترامپ با انداختن مسئولیت احتمالی شکست توافق با ج.ا بر گردن ونس، عملاً راه فرار سیاسی برای خود باز گذاشته است.",
-            "این اظهارنظر نشان می‌دهد ترامپ در رویکرد خود نسبت به تهران، به دنبال مهره‌چینی برای مقصر جلوه دادن اطرافیان در صورت ناکامی است."
-        ],
-        "impact": "افزایش بی‌اعتمادی در تیم سیاست خارجی ترامپ و سیگنال سردرگمی در استراتژی آینده نسبت به تهران.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Idaho Learning News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-on-vance-s-iran-deal-if-it-doesn-t-work-out-i-m-blaming-jd/ar-AA2euds7",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-on-vance-s-iran-deal-if-it-doesn-t-work-out-i-m-blaming-jd/ar-AA2euds7",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792309794.0
     }
 ]
