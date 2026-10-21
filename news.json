@@ -456,6 +456,25 @@
         "timestamp": 1792526364.0
     },
     {
+        "id": "c654219c9b",
+        "title_fa": "تهدید سخت وزیر دفاع اسرائیل علیه ضاحیه بیروت",
+        "title_en": "Israeli minister threatens Beirut suburbs over rocket fire",
+        "summary": [
+            "اسرائیل کاتز هشدار داد هرگونه حمله پهپادی یا راکتی با بمباران شدید ضاحیه بیروت پاسخ داده می‌شود.",
+            "تل‌آویو تهدید کرد در صورت ورود حزب‌الله به جنگ، عملیات خود را تا رود لیطانی و نبطیه گسترش می‌دهد.",
+            "شرط خروج اسرائیل از جنوب لبنان، خلع سلاح کامل حزب‌الله اعلام شد که فراتر از توافق‌های قبلی است."
+        ],
+        "impact": "افزایش شدید احتمال جنگ تمام‌عیار در مرزهای شمالی و توسعه مناطق حائل نظامی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "en.yenisafak",
+        "url": "https://en.yenisafak.com/world/israeli-minister-threatens-beirut-strikes-over-rocket-fire-3724660",
+        "clean_url": "https://en.yenisafak.com/world/israeli-minister-threatens-beirut-strikes-over-rocket-fire-3724660",
+        "image": "https://img.piri.net/piri/upload/3/2026/10/21/2e5ab9db-israeli-minister-threatens-beirut-suburbs-over-rocket-fire.webp",
+        "timestamp": 1792526160.0
+    },
+    {
         "id": "637adf9ca5",
         "title_fa": "ادعاهای عجیب سپاه درباره ناو آمریکایی و هدف‌گذاری سرنگونی ج.ا توسط اسرائیل",
         "title_en": "IRGC spokesman claims US carrier retreated 1,400 km after Iranian strike",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXhkalJBQ2xwVFhIUExTLWw3UTRGbHdXVlhIQ0ZLaEVOREFzNUQ3MkJqSlMtOWQ1aDRwazFhaVA3ajdqNTREZFN1andxLV9QaE4yUWk4T0ZGeXJfZDIwb0JhMDRwOHN4Qlowbl9ET0x4cVMtZU1zdjBXY3J4bEp3VHAtdDItcUhzM3FfWmNaVFljamJ4enBhb1I3dTZUWVl5Z3c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792248360.0
-    },
-    {
-        "id": "97ea3145bb",
-        "title_fa": "تلاش مسکو برای دور زدن انزوا از کانال بانک جهانی",
-        "title_en": "World Bank recognizes Russia's achievements, provides platform for cooperation — Deputy PM",
-        "summary": [
-            "معاون نخست‌وزیر روسیه ادعا کرد بانک جهانی تجربیات دیجیتالی مسکو را به رسمیت شناخته و زمینه انتقال این فناوری‌ها به کشورهای جنوب جهانی را مهیا کرده است.",
-            "کرملین تلاش می‌کند در حاشیه اجلاس‌های بین‌المللی با محوریت خدمات الکترونیک، فشارهای تحریمی غرب را بی‌اثر جلوه دهد."
-        ],
-        "impact": "بازاریابی فنی مسکو برای حفظ پیوندهای نهادی با اقتصادهای نوظهور در بحبوحه تحریم‌ها.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2203619",
-        "clean_url": "https://tass.com/economy/2203619",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792248000.0
     }
 ]
