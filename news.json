@@ -1,5 +1,24 @@
 [
     {
+        "id": "55cad3942e",
+        "title_fa": "هدف‌گذاری نتانیاهو برای تغییر حكومت ج-ه-م-و-ر-ی ا-س-لا-م-ی",
+        "title_en": "Netanyahu says 'toppling' Iran government only way to end threat",
+        "summary": [
+            "نخست‌وزیر اسرائیل صریحاً اعلام کرد تنها راه دفع خطر ا-ی-ر-ا-ن، ساقط کردن سیستم حاکم است.",
+            "دستورات لازم به ارتش و موساد برای اجرای این سناریو صادر شده است.",
+            "این اظهارات تند در آستانه انتخابات سخت و فشرده اسرائیل مطرح شده است."
+        ],
+        "impact": "افزایش حداکثری تنش‌های نظامی و امنیتی در منطقه با محوریت تغییر ساختار سیاسی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/netanyahu-says-toppling-iran-government-only-way-end-threat-6480096",
+        "clean_url": "https://www.channelnewsasia.com/world/netanyahu-says-toppling-iran-government-only-way-end-threat-6480096",
+        "image": "https://dam.mediacorp.sg/image/upload/s--8D56dQRn--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-21T124706Z_1_LYNXMPEM9K1AX_RTROPTP_3_ISRAEL-ELECTION-IRAN.JPG?itok=hfqzRkAe",
+        "timestamp": 1792612864.683275
+    },
+    {
         "id": "27f1a7770f",
         "title_fa": "پافشاری تهران بر حفظ اورانیوم؛ دیپلماسی فشرده در سایه جنگ",
         "title_en": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
@@ -5470,25 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnRDM0dlcjBnQ3VpRlpqSXhFSllzbzFXZDNaTUxQWDBpRGlwNFREZEZHMGIzdHhIckpGeXc0NEJWMnB6NzJhZW5KRUZ5NVhRVUlDSmphUEdWUmdvU0ZUOXR4WmZpbVJtS0RkNWk0a013V1ZsRTJIRmxpeXo3TDZNakJkNDhyT0lsRm1zSzZrRm5HV0hYaHM2cEp0UzBueElqSHdrcGNWdWx5MjjSAbABQVVfeXFMT2VjUWJfYmZyWnlNc052UkxOLTF3cjVBWVJmQmJYVmlKeF9seGtMYnYzbkZfZUxPNzlJUUJxalJ0SjhOa3FaYWJ3Vnc0dWszbTJmZGRPX3Iyd2tvZ2ZfU1J5SHZsQnBiMlprUEFwdHhkUl9tQWJkYm5vR2JsU1JWMVFKWlBQR1Q3Q1VxRHR4eEcwejRfY3JSRWFveW53UVZkU01VWXItVllLRm0wMUdfOE4",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792341722.0
-    },
-    {
-        "id": "579d6e61c5",
-        "title_fa": "تنگنای چخه هسته‌ای: تمرکز از معدن به کارخانه‌ها منتقل شد",
-        "title_en": "Nuclear Fuel Cycle Bottlenecks: Why Factories Matter More Than Ore",
-        "summary": [
-            "آژانس بین‌المللی انرژی اتمی می‌گوید ظرفیت صنعتی لازم برای تبدیل و غنی‌سازی سوخت پیشرفته وجود ندارد.",
-            "بخش تبدیل اورانیوم و غنی‌سازی HALEU بزرگ‌ترین موانع فعلی در زنجیره تامین هستند.",
-            "آمریکا قرارداد سنگینی برای توسعه غنی‌سازی امضا کرده اما با کمبود زیرساخت مواجه است.",
-            "تحریم‌ها و پایان معافیت واردات اورانیوم از روسیه فشار بر بازار را به شدت افزایش می‌دهد."
-        ],
-        "impact": "ناتوانی در تامین سوخت پیشرفته، بازار جهانی انرژی اتمی را با بحران ساختاری روبه‌رو می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "discoveryalert.com",
-        "url": "https://discoveryalert.com/analysis/nuclear-fuel-cycle-bottlenecks-haleu-conversion-october-2026/",
-        "clean_url": "https://discoveryalert.com/analysis/nuclear-fuel-cycle-bottlenecks-haleu-conversion-october-2026",
-        "image": "https://media.discoveryalert.com/nuclear-fuel-cycle-pinched-chain-bottleneck.jpg",
-        "timestamp": 1792340940.0
     }
 ]
