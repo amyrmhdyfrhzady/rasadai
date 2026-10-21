@@ -146,6 +146,25 @@
         "timestamp": 1792545960.0
     },
     {
+        "id": "5a2624b5a6",
+        "title_fa": "بازی خطرناک با نفتکش‌ها در تنگه هرمز",
+        "title_en": "Iran, Pasdaran: \"Three oil tankers hit mines in the Strait of Hormuz, one exploded\"",
+        "summary": [
+            "نیروهای نظامی ج.ا مدعی برخورد سه نفتکش با مین در تنگه هرمز شدند.",
+            "یکی از نفتکش‌ها با دو میلیون بشکه نفت خام و سیستم‌های خاموش منفجر شده است.",
+            "تهران با این اقدامات عملاً مسیر حیاتی انرژی جهان را به گروگان گرفته است."
+        ],
+        "impact": "افزایش فوری قیمت نفت و ملتهب شدن امنیت مسیرهای ترانزیت انرژی در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261021KRONOS-202610121534306894_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1792540800.0
+    },
+    {
         "id": "ffaa4f1cee",
         "title_fa": "افت طلا و نقره در آستانه تصمیم فدرال رزرو",
         "title_en": "Live Breaking News",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWlFUWUlFZVlBbGNWQkNvWlRkMGNsRlRBQzdIbEN1cWJxSDZVWUI2cVcxdTlGUFFyUW1IeHVWN3RCZFRVdWlld3A5Mkk0bERKYjBUb0xCWGRmcUgyMUVCbFhQUEQ2SW9YNzdBc0FmUVU2eFRLWVZMWmJmSS10NnR5UEZUQnZBY3BPNFBpRldkUHJxaE8zeVFyZkNPZVjSAaIBQVVfeXFMTnVrbFFDcnEzbmxyQ280Qk9STF94YVFzdFBlWWJOWUo2UHB1SGtxZ2ZXX2JndklWZ3dMZ21fVGNUaVZXWkcxYTZMX1JaMVVFMEdXYnd2TlFRamxWQlhvS21pUUN0VF9EN0F6RjlyX0FkU1BkN1ZhQ0o5bUZBbUg5MUxhYW1xNTVhUzVYYjBPMlEtaUJ1R0JqcklRMjFXaHFac1Bn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792234901.0
-    },
-    {
-        "id": "54f20a7684",
-        "title_fa": "خطای امنیتی سایت العربیه",
-        "title_en": "Increase support for countries amid negative risks, war spillovers: IMF",
-        "summary": [
-            "سایت خبری العربیه درخواست تایید هویت و حل پازل امنیتی (کپچا) دارد.",
-            "محتوای خبری خاصی در این لینک برای تحلیل ژئوپلیتیک وجود ندارد."
-        ],
-        "impact": "عدم دسترسی به متن خبر به دلیل موانع فنی سایت منبع.",
-        "tag": "فنی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/business/economy/2026/10/17/increase-support-for-countries-amid-negative-risks-war-spillovers-imf",
-        "clean_url": "https://english.alarabiya.net/business/economy/2026/10/17/increase-support-for-countries-amid-negative-risks-war-spillovers-imf",
-        "image": "https://vid.alarabiya.net/images/2026/04/17/f640463f-8e56-497e-a9a8-ff4e4289c9c7/f640463f-8e56-497e-a9a8-ff4e4289c9c7_16x9_600x338.JPG",
-        "timestamp": 1792232640.0
     }
 ]
