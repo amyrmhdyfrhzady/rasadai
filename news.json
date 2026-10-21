@@ -73,6 +73,25 @@
         "timestamp": 1792612864.683275
     },
     {
+        "id": "be9b1a12c6",
+        "title_fa": "انتخابات اسرائیل؛ رقابت احزاب بر سر پرونده‌های کلیدی و تقابل منطقه‌ای",
+        "title_en": "Will next week’s election change Israel? Here’s where candidates stand on top issues.",
+        "summary": [
+            "پرونده رویارویی با ج.ا و مدیریت جنگ در چندین جبهه، محور اصلی رقابت میان احزاب و نامزدهاست.",
+            "جریان‌های رقیب نتانیاهو با وجود اختلافات داخلی، در رویکرد تهاجمی علیه شبکه نیابتی و بازوهای منطقه‌ای اشتراک نظر دارند.",
+            "نتیجه این انتخابات سرعت تصمیم‌گیری تل‌آویو برای اقدامات بازدارنده و مهار تهدیدات هسته‌ای را مستقیماً تغییر می‌دهد."
+        ],
+        "impact": "آرایش جدید کابینه در اسرائیل، شدت و نحوه تداوم عملیات‌های نظامی و امنیتی در خاورمیانه را رقم خواهد زد.",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3dBUkdJTUxEYjlpZnU1SUgzaXBSWFEwNGY3Q3FNWUZCS21xUk5lNl82ODl2OF9XTDQ3dnJKNkJ1WkZQRXkwSHBrSlU1VVROMjNCWERYZzU0QUczZG0xdXhMY3dHVjR3a0F3Sk1GR2kxU1lrQnJqS2UxNXJrX0hsalpSVno1MEU0aXh5XzRSVGVaaGZ2MXRVZ1VKVjlxWE1RQ2dPNDFuVG1JalBsVVFVSkxsWWlkejUyLUVQeVhSc3JvbUtWbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3dBUkdJTUxEYjlpZnU1SUgzaXBSWFEwNGY3Q3FNWUZCS21xUk5lNl82ODl2OF9XTDQ3dnJKNkJ1WkZQRXkwSHBrSlU1VVROMjNCWERYZzU0QUczZG0xdXhMY3dHVjR3a0F3Sk1GR2kxU1lrQnJqS2UxNXJrX0hsalpSVno1MEU0aXh5XzRSVGVaaGZ2MXRVZ1VKVjlxWE1RQ2dPNDFuVG1JalBsVVFVSkxsWWlkejUyLUVQeVhSc3JvbUtWbHc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792612649.0
+    },
+    {
         "id": "27f1a7770f",
         "title_fa": "پافشاری تهران بر حفظ اورانیوم؛ دیپلماسی فشرده در سایه جنگ",
         "title_en": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://www.iranintl.com/en/202610190545",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792353480.0
-    },
-    {
-        "id": "5b2d9a9676",
-        "title_fa": "واکنش آیزنکات به دخالت ترامپ در انتخابات اسرائیل",
-        "title_en": "Eisenkot: Israeli voters, not Trump, will choose next PM, I tried to stop endorsement",
-        "summary": [
-            "گادی آیزنکات تاکید کرد که سرنوشت نخست‌وزیری اسرائیل فقط توسط رای‌دهندگان این کشور تعیین می‌شود، نه دونالد ترامپ.",
-            "این چهره ارشد اپوزیسیون تلاش کرده بود مانع از حمایت علنی رئیس‌جمهور آمریکا از بنیامین نتانیاهو شود."
-        ],
-        "impact": "تلاش چهره‌های کلیدی مخالف نتانیاهو برای خنثی کردن حمایت‌های خارجی در آستانه کارزار انتخاباتی.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-says-israeli-voters-not-trump-will-choose-next-pm-says-he-tried-to-stop-endorsement/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-says-israeli-voters-not-trump-will-choose-next-pm-says-he-tried-to-stop-endorsement",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261018AVS424-640x400.jpg",
-        "timestamp": 1792352820.0
     }
 ]
