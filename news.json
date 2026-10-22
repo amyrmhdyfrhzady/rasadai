@@ -1,5 +1,23 @@
 [
     {
+        "id": "601ff229e5",
+        "title_fa": "ریزش بازارهای مالی زیر سایه جنگ و هزینه سنگین هوش مصنوعی",
+        "title_en": "Market sell-off gains steam as concerns about Iran war and high AI spending collide",
+        "summary": [
+            "نگرانی سرمایه‌گذاران از تنش‌های نظامی با ای-ران، بازارهای مالی را به سمت فروش دارایی‌ها کشانده است.",
+            "همزمانی هزینه‌های گزاف شرکت‌های فناوری روی هوش مصنوعی با ریسک‌های جنگ، فشار روی بازار را دوچندان کرده است."
+        ],
+        "impact": "فرار سرمایه از بازار و افت شدید ارزش سهام به دلیل نااطمینانی از وضعیت جنگ و اقتصاد.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792681786.0
+    },
+    {
         "id": "18e621ae9a",
         "title_fa": "تهدید تاسیسات نفتی کشورهای خلیج فارس توسط جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
         "title_en": "Iran threatens oil and AI facilities across seven Gulf countries if US and Israel renew attacks",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202610195007",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792428960.0
-    },
-    {
-        "id": "62c9875071",
-        "title_fa": "درخواست اضطراری تهران از شورای امنیت درباره تهدیدات",
-        "title_en": "Iran asks UN Security Council for emergency meeting over US, Israeli threats",
-        "summary": [
-            "نمایندگی جمهوری اسلامی در سازمان ملل با ارسال نامه‌ای خواستار برگزاری نشست فوری شورای امنیت شد.",
-            "تهران نسبت به احتمال استفاده آمریکا از بمب سنگین‌شکن و حملات اسرائیل به زیرساخت‌های انرژی ابراز نگرانی کرد."
-        ],
-        "impact": "تلاش دیپلماتیک جمهوری اسلامی برای بازدارندگی در برابر هشدارهای نظامی آمریکا و اسرائیل.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610198337",
-        "clean_url": "https://www.iranintl.com/en/202610198337",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792428660.0
     }
 ]
