@@ -235,6 +235,25 @@
         "timestamp": 1792657560.0
     },
     {
+        "id": "8a521ae306",
+        "title_fa": "تهدید سـپاه به هدف‌گیری پایگاه‌های آمریکا در منطقه",
+        "title_en": "IRGC threatens to hit American bases in region if US keeps escorting ships through Hormuz",
+        "summary": [
+            "سـپاه در واکنش به اسکورت کشتی‌ها در تنگه هرمز، تهدید به حمله به پایگاه‌های آمریکا کرده است.",
+            "این لفاظی‌ها بخشی از استراتژی جنگ روانی برای ایجاد بازدارندگی در برابر حضور نظامی آمریکا در خلیج فارس است.",
+            "تکرار این تهدیدها نشان‌دهنده استیصال در برابر کنترل مسیرهای دریایی توسط ائتلاف‌های بین‌المللی است."
+        ],
+        "impact": "افزایش تنش‌های نظامی در خلیج فارس و احتمال درگیری مستقیم در صورت تداوم اسکورت دریایی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/irgc-threatens-to-hit-american-bases-in-region-if-us-keeps-escorting-ships-through-hormuz/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/irgc-threatens-to-hit-american-bases-in-region-if-us-keeps-escorting-ships-through-hormuz",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26294467880245-e1792656848987.jpg",
+        "timestamp": 1792657080.0
+    },
+    {
         "id": "36c336dcac",
         "title_fa": "مقایسه انقلاب فـــرانسـه و جـمـهـوری اسـلامـی",
         "title_en": "Saudi Arabia’s future depends on dropping its commitment to Palestine",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yS0FDd1duN1hYeEFmX2xiNVVIdTN2bXQ5ZW9rYnpjazhyeHRaSGtEMjVDMXF4OFJyRXBwUDIyNFJLdTY0SFRsUTlxbi1qNW83eHB4VFpXVGRmM2lfVUJOY3lpVS1PckxYQ3BIZmNWMmVYOXRJZXozbTQwUC1JRlE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792421877.0
-    },
-    {
-        "id": "b827b4d62b",
-        "title_fa": "تست موفقیت‌آمیز غول کشنده روسیه در شرایط سخت قطبی",
-        "title_en": "BAZ tractor unit covers over 10,000 km with no critical flaws — Almaz-Antey",
-        "summary": [
-            "روسیه با آزمایش موفق کشنده BAZ در سرمای شدید، توان لجستیکی خودش رو برای جابه‌جایی تجهیزات سنگین و موشکی به رخ کشید.",
-            "این خودروها که محصول شرکت تسلیحاتی الماز-آنتی هستن، برای عملیات در مناطق صعب‌عبور و تقویت حضور نظامی در قطب طراحی شدن."
-        ],
-        "impact": "افزایش پایداری شبکه لجستیک نظامی روسیه در مناطق استراتژیک شمال.",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0.3,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2204237",
-        "clean_url": "https://tass.com/economy/2204237",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792421040.0
     }
 ]
