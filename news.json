@@ -184,6 +184,25 @@
         "timestamp": 1792661811.0
     },
     {
+        "id": "bb7e2eee0b",
+        "title_fa": "ترامپ: ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی با دروغ‌پردازی قیمت نفت را بالا می‌برد",
+        "title_en": "ترامپ: ایران با حملات ساختگی به دنبال افزایش قیمت نفت در آستانه انتخابات آمریکاست",
+        "summary": [
+            "ترامپ ادعای س-پ-ا-ه درباره حمله به کشتی‌ها را یک بازی رسانه‌ای برای دستکاری بازار نفت در آستانه انتخابات آمریکا می‌داند.",
+            "س-پ-ا-ه با انتشار اخبار ضدونقیض از آتش‌سوزی و برخورد مین، سعی در ایجاد ناامنی مصنوعی در تنگه هرمز دارد.",
+            "افزایش دو درصدی قیمت نفت نشان می‌دهد که بازار به این جنگ روانی س-پ-ا-ه واکنش نشان داده است."
+        ],
+        "impact": "تلاش برای ایجاد شوک قیمتی در بازار انرژی جهت امتیازگیری سیاسی در آستانه انتخابات آمریکا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/trump-iran-fake-strait-hormuz-attacks-oil-prices-protesters/33881798.html",
+        "clean_url": "https://www.radiofarda.com/a/trump-iran-fake-strait-hormuz-attacks-oil-prices-protesters/33881798.html",
+        "image": "http://www.bing.com/th?id=ONUT.fiK2BMAXXZbke9UQZaf4kg&pid=News",
+        "timestamp": 1792660980.0
+    },
+    {
         "id": "84f9fa13cb",
         "title_fa": "نشست اضطراری دیپلماتیک در استانبول درباره آینده فلسطین",
         "title_en": "Top European, Mideast diplomats to meet in Istanbul tomorrow, with Palestinian issue on agenda",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202610198337",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792428660.0
-    },
-    {
-        "id": "5214cf3a6e",
-        "title_fa": "شکاف در تیم ترامپ؛ خودداری ونس از حمایت از نتانیاهو",
-        "title_en": "Vance declines to endorse Netanyahu in re-election bid",
-        "summary": [
-            "معاون رئیس‌جمهور آمریکا برخلاف ترامپ از نخست‌وزیر اسرائیل در انتخابات پیش‌رو حمایت نکرد.",
-            "این اختلاف موضع، زوایای متفاوتی از رویکرد دولتمردان آمریکایی نسبت به تحولات اسرائیل را نمایان می‌کند."
-        ],
-        "impact": "ایجاد ابهام در سطح حمایت‌های سیاسی واشنگتن از دولت تل‌آویو.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/vance-declines-to-endorse-netanyahu-in-re-election-bid/ar-AA2fBUlo",
-        "clean_url": "https://www.msn.com/en-us/news/other/vance-declines-to-endorse-netanyahu-in-re-election-bid/ar-AA2fBUlo",
-        "image": "http://www.bing.com/th?id=ONUT.ho5ZRbpwI01YTdzKoBAjSg&pid=News",
-        "timestamp": 1792428600.0
     }
 ]
