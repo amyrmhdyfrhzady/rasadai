@@ -200,6 +200,24 @@
         "timestamp": 1792643202.0
     },
     {
+        "id": "e9afb9cdfa",
+        "title_fa": "حواشی جنجالی ترامپ و پشت پرده رقابت‌های سیاسی آمریکا",
+        "title_en": "What's Behind Trump's Midterm Obsession With a Senator's 'Ass'?",
+        "summary": [
+            "تمرکز ترامپ روی مسائل حاشیه‌ای و اظهارات جنجالی درباره چهره‌های سیاسی داخلی ادامه دارد.",
+            "تیم تبلیغاتی ترامپ به این نتیجه رسیده که حضور رسانه‌ای برخی چهره‌های تندرو به پایگاه رأی آن‌ها آسیب می‌زند."
+        ],
+        "impact": "این حواشی بر دوقطبی سیاسی آمریکا و جابجایی آرای خاکستری تأثیر می‌گذارد.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "zeteo",
+        "url": "https://zeteo.com/p/whats-behind-trumps-midterm-obsession",
+        "clean_url": "https://zeteo.com/p/whats-behind-trumps-midterm-obsession",
+        "image": "https://substackcdn.com/image/fetch/$s_!ZHBU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https://substack-post-media.s3.amazonaws.com/public/images/7e6bc218-5eb3-4ef2-a0a9-fb791260f2f0_4975x3602.jpeg",
+        "timestamp": 1792642380.0
+    },
+    {
         "id": "901b2ac757",
         "title_fa": "پافشاری تهران بر مواضع خود برابر فشارهای واشنگتن",
         "title_en": "Iran firm on stand amid US move",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://apnews.com/article/cnn-news-network-amanpour-907d3521fbb30a1cf648e3166c3258a5",
         "image": "http://www.bing.com/th?id=ONUT.-QycR78p7aELxmcVH6wefg&pid=News",
         "timestamp": 1792405620.0
-    },
-    {
-        "id": "6c8177f5ae",
-        "title_fa": "چرخش ترامپ؛ افت کم‌سابقه روابط واشنگتن و کی‌یف",
-        "title_en": "US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia",
-        "summary": [
-            "مخالفت ترامپ با تحریم‌های جدید علیه مسکو، ائتلاف آمریکا و اوکراین را به نقطه بحرانی رساند.",
-            "قطع یا اختلال در پشتیبانی ماهواره‌ای از پهپادهای اوکراینی، میدان جنگ را به سود کرملین تغییر داده است."
-        ],
-        "impact": "تضعیف شدید موقعیت اوکراین در جنگ و تقویت جایگاه مسکو در معادلات نظامی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/10/19/trump-ukraine-russia-breaking-point/",
-        "clean_url": "https://www.bostonherald.com/2026/10/19/trump-ukraine-russia-breaking-point",
-        "image": "http://www.bing.com/th?id=ONUT.YSQi47MVt_yGUQpTXoA6cw&pid=News",
-        "timestamp": 1792404960.0
     }
 ]
