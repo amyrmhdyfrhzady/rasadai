@@ -128,6 +128,25 @@
         "timestamp": 1792679114.0
     },
     {
+        "id": "9ca2407523",
+        "title_fa": "ارتش اِسراییل: فعلاً نیازی به اقدام نظامی علیه تهران نیست",
+        "title_en": "Report: IDF chief says no operational need for strike on Iran before Israeli election",
+        "summary": [
+            "کانال ۱۳ اِسراییل گزارش داد که فرمانده ارتش نیازی به عملیات نظامی پیش از انتخابات نمی‌بیند.",
+            "با این حال، نظامیان اِسراییل آماده‌اند تا در صورت تغییر شرایط به سرعت واکنش نشان دهند.",
+            "این موضع‌گیری در حالی مطرح می‌شود که گزارش‌ها از تنش‌های تازه در آب‌های خلیج فارس حکایت دارند."
+        ],
+        "impact": "کاهش موقت احتمال درگیری نظامی پیش از برگزاری انتخابات در اِسراییل",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/report-idf-chief-says-no-operational-need-for-strike-on-iran-before-israeli-election/ar-AA2fQQFS",
+        "clean_url": "https://www.msn.com/en-us/news/other/report-idf-chief-says-no-operational-need-for-strike-on-iran-before-israeli-election/ar-AA2fQQFS",
+        "image": "http://www.bing.com/th?id=ONUT.-jrf1pwo27wlFnIEg-h4SQ&pid=News",
+        "timestamp": 1792677164.0
+    },
+    {
         "id": "38a4e83853",
         "title_fa": "آماده‌باش کشورهای خلیج فارس برای تقابل نظامی احتمالی",
         "title_en": "Gulf nations brace for possible return to all-out war between US and Iran",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-tehran-seeks-emergency-un-meeting-over-us-israel-s-relentless-threats-trump-issues-warning-to-europe-top-6-developments/ar-AA2fCcxO",
         "image": "http://www.bing.com/th?id=ONUT.dmVigreBBnY93Ys0LBZOxA&pid=News",
         "timestamp": 1792435742.0
-    },
-    {
-        "id": "9a2e7dc6e9",
-        "title_fa": "تأکید عراقچی بر بی‌سابقه بودن همکاری‌های تهران و مسکو",
-        "title_en": "Iran foreign minister says Russia, Iran have ‘never’ worked so closely",
-        "summary": [
-            "عباس عراقچی از نزدیک‌ترین سطح همکاری تاریخ بین تهران و مسکو خبر داد.",
-            "سرгей لاوروف برای میانجیگری و بررسی همکاری‌های هسته‌ای و اقتصادی راهی ایران شد."
-        ],
-        "impact": "تثبیت محور تهران-مسکو در برابر فشارهای غرب و تحریم‌های بین‌المللی",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/middle-east/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely",
-        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely",
-        "image": "http://www.bing.com/th?id=ONUT.w1oXA91inyueA3w9kfH1Ug&pid=News",
-        "timestamp": 1792432980.0
     }
 ]
