@@ -291,6 +291,24 @@
         "timestamp": 1792612864.683275
     },
     {
+        "id": "48fd2c15b0",
+        "title_fa": "تایید حکم اعدام معترض گیلانی به اتهام خسارت جزئی",
+        "title_en": "Iran upholds protester's death sentence over $56 property damage",
+        "summary": [
+            "دیوان عالی کشور حکم اعدام منوچهر فلاح، کارگر ۴۲ ساله اهل گیلان را به اتهام انداختن ترقه در اعتراضات ۱۴۰۱ تایید کرد.",
+            "وکیل این زندانی سیاسی اعلام کرده میزان خسارت ادعایی دستگاه قضا تنها حدود ۵۶ دلار بوده است."
+        ],
+        "impact": "صدور احکام سنگین برای جرایم جزئی نشان‌دهنده تداوم سیاست ارعاب و سرکوب شدید است.",
+        "tag": "حقوق‌بشر",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610211946",
+        "clean_url": "https://www.iranintl.com/en/202610211946",
+        "image": "http://www.bing.com/th?id=ONUT.fXCJ6NjMdas988tIhKSLUA&pid=News",
+        "timestamp": 1792612800.0
+    },
+    {
         "id": "be9b1a12c6",
         "title_fa": "انتخابات اسرائیل؛ رقابت احزاب بر سر پرونده‌های کلیدی و تقابل منطقه‌ای",
         "title_en": "Will next week’s election change Israel? Here’s where candidates stand on top issues.",
@@ -5460,24 +5478,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-is-being-forced-to-do-the-unthinkable-tehran-can-t-ship-oil-out-thanks-to-donald-trump-s-blockade/ar-AA2fA91Q",
         "image": "http://www.bing.com/th?id=ONUT.gb9vc7iPgOceMGh1BV7-qw&pid=News",
         "timestamp": 1792394603.0
-    },
-    {
-        "id": "4414b05466",
-        "title_fa": "اعتراضات اروپا معلول بحران داخلی است نه دخالت خارجی",
-        "title_en": "Blaming external forces for protests in Europe would be wrong, expert says",
-        "summary": [
-            "ریشه اعتصاب‌ها و اعتراضات در اروپا به سیاست‌های نادرست دولت‌های این قاره برمی‌گردد.",
-            "مقام‌های اروپایی برای سرپوش گذاشتن بر مشکلات اقتصادی، تلاش می‌کنند بحران را به بیرون از مرزها نسبت دهند.",
-            "نارضایتی‌های انباشته‌شده می‌تواند به تغییرات ساختاری در سپهر سیاسی اروپا منجر شود."
-        ],
-        "impact": "فشار بر دولت‌های اروپایی برای بازنگری در سیاست‌های داخلی و اقتصادی افزایش می‌یابد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2204155",
-        "clean_url": "https://tass.com/world/2204155",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792392120.0
     }
 ]
