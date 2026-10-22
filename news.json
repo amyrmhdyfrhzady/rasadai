@@ -1,5 +1,41 @@
 [
     {
+        "id": "6361390ff1",
+        "title_fa": "تهدید ترامپ علیه جـمـهـوریت: اقدامات سخت‌تری در راه است",
+        "title_en": "Trump says US 'may do it a little bit further' against Iran",
+        "summary": [
+            "دونالد ترامپ در موضعی صریح از احتمال اعمال فشارهای شدیدتر و فراتر از گذشته علیه تـهـران خبر داد.",
+            "این اظهارات نشان‌دهنده عزم تیم جدید واشنگتن برای بستن منافذ تنفسی مالی و سیاسی حاکمیت است."
+        ],
+        "impact": "افزایش فوری نرخ ارز و بازگشت هراس به بازارهای مالی داخلی",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610225353",
+        "clean_url": "https://www.iranintl.com/en/202610225353",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792706700.0
+    },
+    {
+        "id": "771dde2c0e",
+        "title_fa": "پرده‌برداری دادگاه لندن از ترورهای هدفمند عوامل جـمـهـوری اسـلـامی",
+        "title_en": "Araghchi accuses Macron of contradicting past position on Iran nuclear activity",
+        "summary": [
+            "متهم پرونده امنیتی در دادگاه لندن اعتراف کرد ماموریت داشته به خبرنگاران منتقد و فعالان رسانه‌ای آسیب جدی بزند.",
+            "طراحان این عملیات خواستار شکستن استخوان‌های خبرنگار و ارعاب چهره‌های رسانه‌ای مخالف در خاک بریتانیا بوده‌اند."
+        ],
+        "impact": "تشدید پرونده‌های امنیتی علیه عوامل وابسته به تـهـران در اروپا",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610220487",
+        "clean_url": "https://www.iranintl.com/en/202610220487",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792703280.0
+    },
+    {
         "id": "ed81596b1e",
         "title_fa": "طراحی نقشه حمله جدید آمریکا و اسرائیل به تـأسـیـسـات جـمـهـوری اسـلامـی",
         "title_en": "US and Israel drawing up plans to resume attacks on Iran post-election, sources say - ABC News",
@@ -52,6 +88,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVW5PSGhxeDZnWjVyN1RSQUk5NmNxSncwOHl5dWluSl9FY0JWdDM2UUNTT043VG1kQlpSMnVIREFVX0tOVEtDVHRJTk9Jc3R0WF9Ca0JLekhWTmJXV2VuM3dCZ3pQNzZLMjhhYV9QcXQ2eTlvSDZBWFJoRlhjbUZESFB4X0czXy1SS0Y4ajkzNFBMdDJTMWVSakU2cHdJdjFTNThNSVpGTERocDA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792694399.0
+    },
+    {
+        "id": "7a572a3224",
+        "title_fa": "استفاده از بدل ترامپ در بیلبوردهای تـهـران برای جنگ روانی",
+        "title_en": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
+        "summary": [
+            "حاکمیت در تازه‌ترین اقدام تبلیغاتی خود در پایتخت، از نمایش بدل ترامپ در یک سلول زندان برای بیلبوردهای شهری بهره برد.",
+            "این پروپاگاندا تلاشی ناشیانه برای مهار بحران‌های مشروعیت و روحیه دادن به بدنه طرفدار خودی است."
+        ],
+        "impact": "انعکاس منفی این ترفندهای رسانه‌ای در افکار عمومی و سوژه خنده شبکه‌های اجتماعی",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
+        "clean_url": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
+        "image": "http://www.bing.com/th?id=ONUT.cILvFaTV69K8snKkkHUD2A&pid=News",
+        "timestamp": 1792682700.0
     },
     {
         "id": "c41d0cb174",
@@ -5425,61 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmltMFBPc25TX0R6WW13RGtjOWhXeHc0WXpNQ20taTRCRlRxN0Z6RWoyUkViM3BPOGNFM1UwVzJNUWNDVFJwaVZLYjh6RkxWUnc1TUtLU0I5d0xkbWU1aE5JSjhHcEJ3ckYxaE93NnR6WHlsa0tDcTdJY3doanhQWkJ3dHpWSXJaWDBB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792438262.0
-    },
-    {
-        "id": "3b763f2369",
-        "title_fa": "تأثیر انتخابات اسرائیل بر معادلات تهران و واشنگتن",
-        "title_en": "Fact Check Team: How Israel’s election could shape its relationship with the US and Iran",
-        "summary": [
-            "تغییر کابینه در تل‌آویو مستقیماً سیاست‌های تقابلی با ج.ا را بازتعریف می‌کند.",
-            "دولت جدید اسرائیل در پی هماهنگی حداکثری با کاخ سفید برای مهار نفوذ منطقه‌ای است.",
-            "هرگونه جابجایی قدرت در اسرائیل، فشار بر پرونده هسته‌ای را وارد فاز عملیاتی جدیدی می‌کند."
-        ],
-        "impact": "تغییر در اولویت‌های امنیتی اسرائیل می‌تواند منجر به افزایش حملات هدفمند به نیروهای نیابتی شود.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The National News Desk",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQY1BKdjY0MmNSYUNpM1VHeXJTRjdnalNLWVhzVHczaHRndWdMa05SVzRWbmxQSDdCOWU2aFhhM3ZHVzhYOFd0MGpCSWZ2eGt0OHRSSm5GYWRPaVNZYjBBYnRKNVppQnU5ZkxXbUFmd29GbzNKekUzT3B0RmxmOWQ5LTBXeVdRN2V5YWZBYS1zeURUWnNSNzdoakc2b0xqaWlxQWd5c0FVTUI5MGRNNU5oNFhsY0w0TjNnaG51Y01pT181TElYeGp0dzVrUlVYVjNDSUJKaWNSTEFUMDRrRXVvTHpPZXIzMXR6Nm42dlFHVWxJLW9OWVVoS2tRWG5QcC15dGJJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQY1BKdjY0MmNSYUNpM1VHeXJTRjdnalNLWVhzVHczaHRndWdMa05SVzRWbmxQSDdCOWU2aFhhM3ZHVzhYOFd0MGpCSWZ2eGt0OHRSSm5GYWRPaVNZYjBBYnRKNVppQnU5ZkxXbUFmd29GbzNKekUzT3B0RmxmOWQ5LTBXeVdRN2V5YWZBYS1zeURUWnNSNzdoakc2b0xqaWlxQWd5c0FVTUI5MGRNNU5oNFhsY0w0TjNnaG51Y01pT181TElYeGp0dzVrUlVYVjNDSUJKaWNSTEFUMDRrRXVvTHpPZXIzMXR6Nm42dlFHVWxJLW9OWVVoS2tRWG5QcC15dGJJ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792437816.0
-    },
-    {
-        "id": "2067406f63",
-        "title_fa": "اعتراضات سراسری بازنشستگان و بحران عمیق اقتصادی در کشور",
-        "title_en": "Retirees Protest in Iran as Regime Infighting Turns More Dangerous",
-        "summary": [
-            "بازنشستگان مخابرات و مالباختگان در چندین شهر با سر دادن شعارهایی علیه نهادهای قدرت، خواستار احقاق حقوق خود شدند.",
-            "اعتراض به فروپاشی قدرت خرید و نابودی ارزش ریال در برابر دلار، محور اصلی تجمع معترضان بود.",
-            "رئیس مرکز پژوهش‌های مجلس ج.ا نسبت به ناترازی بانکی، کسری بودجه و تورم ویرانگر هشدار داد."
-        ],
-        "impact": "گسترش اعتصابات و اعتراضات معیشتی، شکاف میان مردم و ساختار حاکم را عمیق‌تر می‌کند.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "National Council of Resistance of Iran",
-        "url": "https://www.ncr-iran.org/en/news/economy/retirees-protest-in-iran-as-regime-infighting-turns-more-dangerous/",
-        "clean_url": "https://www.ncr-iran.org/en/news/economy/retirees-protest-in-iran-as-regime-infighting-turns-more-dangerous",
-        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2025/12/iran-bazaar.jpg",
-        "timestamp": 1792436940.0
-    },
-    {
-        "id": "1993ae7d25",
-        "title_fa": "چالش‌های جنگ مستقیم با جـ.هـ.ا.د و ریسک ورود اروپا",
-        "title_en": "Israel-Iran Escalation: Europe's Exposure and Israel's Strategic Choices",
-        "summary": [
-            "بریتانیا و فرانسه بیشترین آمادگی را برای ورود نظامی مستقیم به درگیری‌های احتمالی آینده دارند.",
-            "حملات مجدد به تاسیسات اتمی ایران شاید خسارت بزند، اما راه حل سیاسی پایداری ایجاد نمی‌کند."
-        ],
-        "impact": "افزایش ریسک امنیتی در پهنه مدیترانه و درگیر شدن کشورهای اروپایی در جنگ خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "debuglies",
-        "url": "https://debuglies.com/2026/10/19/israel-iran-escalation-europes-exposure-and-israels-strategic-choices/",
-        "clean_url": "https://debuglies.com/2026/10/19/israel-iran-escalation-europes-exposure-and-israels-strategic-choices",
-        "image": "https://debuglies.com/wp-content/uploads/2026/10/Israel–Iran-Escalation-Europes-Exposure-and-Israels-Strategic-Choices.jpg",
-        "timestamp": 1792436820.0
     }
 ]
