@@ -200,6 +200,25 @@
         "timestamp": 1792644000.0
     },
     {
+        "id": "0634a31c23",
+        "title_fa": "پایان ذخایر نفت در آب‌های آسیا؛ ضربه سنگین به ج.ا",
+        "title_en": "Iran's Shadow Fleet Oil Stockpiles Run Dry as U.S. Blockade Wipes Out $24.9 Billion in Revenue",
+        "summary": [
+            "ناوگان سایه ج.ا دیگر نفتی برای فروش در آب‌های آسیا ندارد و عملاً انبارهای شناور خالی شده‌اند.",
+            "انسداد مسیرهای دور زدن تحریم توسط آمریکا، درآمد ۲۵ میلیارد دلاری را دود کرد و به هوا فرستاد.",
+            "فشار حداکثری در حوزه انرژی به نقطه جوش رسیده و توان مالی برای حفظ ساختارها به شدت کاهش یافته است."
+        ],
+        "impact": "خالی شدن خزانه ارزی و ناتوانی در تامین هزینه‌های جاری و نیابتی‌ها به دلیل قطع جریان فروش نفت.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "finance.biggo",
+        "url": "https://finance.biggo.com/news/9d57916b-717f-4b10-8cb3-c8583599d27e",
+        "clean_url": "https://finance.biggo.com/news/9d57916b-717f-4b10-8cb3-c8583599d27e",
+        "image": "https://img.biggo.com/Bfn_haQodGRv3plBFZLC0LbHzZDR5iQ57JN6-YDifr0/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzlkNTc5MTZiLTcxN2YtNGIxMC04Y2IzLWM4NTgzNTk5ZDI3ZV8xNzkyNjQ0MDA1X2RlZmF1bHQuanBn.webp",
+        "timestamp": 1792643700.0
+    },
+    {
         "id": "d3d1452f8a",
         "title_fa": "خط و نشان ترامپ: توافقی در کار نیست",
         "title_en": "Trump says US ‘not negotiating’ with Iran, something will happen ‘fairly soon’",
@@ -5456,24 +5475,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CUDBvUlRzQ2p6STEyZ1NhX2RsaVVEMXEzekRhaXNUcVJTUjNTQ1lsUEVwVlN2WDItbjEzS3NjcmNDX285dHdsSFVmMmFyeFJEc3VnRmNkYWxWZ1kteGhnUkdaUDA4MC1hZzJNNUV5Y2liZFNrZkFEZ1NDWWViUQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792409752.0
-    },
-    {
-        "id": "d84654fe7e",
-        "title_fa": "فروپاشی سیستم درمانی؛ هزینه بستری فراتر از حقوق ماهانه کارگران",
-        "title_en": "Iran's Intelligence Ministry arrests 39 over January protests",
-        "summary": [
-            "هزینه یک شب بستری در مراکز درمانی از حداقل دستمزد ماهانه کارگران فراتر رفته و درمان را برای بخش وسیعی از مردم عملاً ناممکن کرده است.",
-            "کمبود شدید پزشک متخصص و کاهش تعداد کادر پرستاری به نصف استانداردها، بیمارستان‌های دولتی را در آستانه فلج کامل قرار داده است.",
-            "سقوط ارزش ریال و هزینه‌های سلیقه‌ای و بدون فاکتور در بخش اورژانس، فشار کمرشکنی بر اقشار محروم وارد کرده است."
-        ],
-        "impact": "گسترش فقر درمانی و تشدید نارضایتی‌های عمیق اجتماعی ناشی از ناکارآمدی زیرساخت‌های سلامت.",
-        "tag": "بحران معیشت",
-        "urgency": 6,
-        "sentiment": -0.85,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610199799",
-        "clean_url": "https://www.iranintl.com/en/202610199799",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792409100.0
     }
 ]
