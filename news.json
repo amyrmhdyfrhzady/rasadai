@@ -327,6 +327,24 @@
         "timestamp": 1792604100.0
     },
     {
+        "id": "b3956253b1",
+        "title_fa": "درگیری لفظی واشنگتن و تهران بر سر پرونده هسته‌ای",
+        "title_en": "Stopping Iran's nuke is my achievement: Trump; it's an excuse: Iran",
+        "summary": [
+            "دونالد ترامپ مهار برنامه اتمی ای-ران را بزرگترین دستاورد خود خواند.",
+            "عباس عراقچی ادعای آمریکا را رد کرد و پرونده اتمی را صرفاً بهانه‌ای برای مخالفت با ساختار سیاسی حاکم دانست."
+        ],
+        "impact": "تشدید جنگ لفظی و بسته شدن مسیرهای دیپلماتیک پیش از بازگشت احتمالی سیاست فشار حداکثری.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Asianet Newsable on MSN",
+        "url": "https://www.msn.com/en-in/news/other/stopping-irans-nuke-is-my-achievement-trump-its-an-excuse-iran/ar-AA2fM6Ie",
+        "clean_url": "https://www.msn.com/en-in/news/other/stopping-irans-nuke-is-my-achievement-trump-its-an-excuse-iran/ar-AA2fM6Ie",
+        "image": "http://www.bing.com/th?id=ONUT.VrMrUhfBdd6C71r9TTkjow&pid=News",
+        "timestamp": 1792603828.0
+    },
+    {
         "id": "8406e839b5",
         "title_fa": "تحریم‌های جدید آمریکا علیه شبکه حمل‌ونقل دریایی ج.ا",
         "title_en": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792373483.0
-    },
-    {
-        "id": "2cb8744c1e",
-        "title_fa": "تهدید نظامی واشنگتن توسط تهران و سفر لاوروف به پایتخت",
-        "title_en": "Iran threatens stronger response to US attack, Lavrov visits Tehran",
-        "summary": [
-            "مقام‌های نظامی جـمـهـورۍ اسـلا‌مـۍ در واکنش به احتمال درگیری دوباره، از پاسخ کوبنده‌تر به آمریکا خبر دادند.",
-            "سرگئی لاوروف، وزیر خارجه روسیه، برای دیدار با مقامات ارشد وارد تهران شد.",
-            "این تحولات همزمان با بالا گرفتن تنش‌های منطقه‌ای و حملات نیابتی رخ داده است."
-        ],
-        "impact": "افزایش ریسک امنیتی در منطقه و تلاش تهران برای یارگیری سیاسی از مسکو.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610193317",
-        "clean_url": "https://www.iranintl.com/en/202610193317",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/537661d0994972f9fc7c7006d9b9ab4874865319-768x512.jpg?rect=0,55,768,403&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1792370940.0
     }
 ]
