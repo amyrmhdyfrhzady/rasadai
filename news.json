@@ -254,6 +254,25 @@
         "timestamp": 1792639331.0
     },
     {
+        "id": "3b7b349158",
+        "title_fa": "سقوط آزاد صادرات گاز مایع ایران در پی جنگ و تحریم",
+        "title_en": "Turkey to host regional and European ministers for talks on Iran, Yemen and Ukraine",
+        "summary": [
+            "آمارهای کشتیرانی نشان می‌دهد صادرات گاز مایع ایران از زمان شروع مسدودسازی مسیرها به شدت افت کرده است.",
+            "منابع آگاه حجم صادرات پیشین را حدود ۳۰ میلیون بشکه تخمین می‌زنند که اکنون به طور چشمگیری کاهش یافته است.",
+            "درآمد ارزی حاصل از فروش پروپان و بوتان که یکی از منابع اصلی تامین مالی حکومت بود، ضربه سنگینی خورده است."
+        ],
+        "impact": "فلج شدن یکی از معبرهای اصلی درآمد ارزی بخش انرژی جـمهوری اسـلامی.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610229477",
+        "clean_url": "https://www.iranintl.com/en/202610229477",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792638960.0
+    },
+    {
         "id": "9dd9b77abe",
         "title_fa": "فلج‌شدن صادرات گاز مایع ایران زیر بار تحریم‌ها",
         "title_en": "US blockade leaves Iran with millions of tons of surplus LPG",
@@ -5457,23 +5476,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-installs-missile-program-veteran-as-defense-chief-puts-2t-gulf-ai-network-in-crosshairs/ar-AA2fAM5n",
         "image": "http://www.bing.com/th?id=ONUT.DSWstyQxWhVO7sQOSEflOA&pid=News",
         "timestamp": 1792404547.0
-    },
-    {
-        "id": "f6b8a9d9bd",
-        "title_fa": "مقاومت مردمی در خاورمیانه برابر سلطه آمریکا",
-        "title_en": "West Asia: The People Refuse to Submit — How Popular Resistance Challenges US Imperialism",
-        "summary": [
-            "نقش اراده ملت‌ها در تغییر معادلات قدرت فراتر از تجهیزات نظامی است.",
-            "مبارزه جریان‌های مردمی در منطقه با منافع اقتصادی و طبقاتی پیوند خورده است."
-        ],
-        "impact": "تقویت گفتمان مقاومت اجتماعی در برابر سیاست‌های مداخله‌جویانه در منطقه",
-        "tag": "نیابتی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Muslim Mirror",
-        "url": "https://muslimmirror.com/west-asia-the-people-refuse-to-submit-how-popular-resistance-challenges-us-imperialism/",
-        "clean_url": "https://muslimmirror.com/west-asia-the-people-refuse-to-submit-how-popular-resistance-challenges-us-imperialism",
-        "image": "https://muslimmirror.com/wp-content/uploads/2018/05/Gaza-violence-exacerbates-suffering-of-children.jpg",
-        "timestamp": 1792404000.0
     }
 ]
