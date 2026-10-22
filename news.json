@@ -291,6 +291,25 @@
         "timestamp": 1792606440.0
     },
     {
+        "id": "ed1c9dd96e",
+        "title_fa": "بازی تانک کردن مذاکرات صلح توسط تهران برای ضربه به ترامپ",
+        "title_en": "Iran is purposely tanking peace talks to hurt Trump at the polls, regime officials admit",
+        "summary": [
+            "مقام‌های ارشد ج.ا اعتراف کردند عمداً مذاکرات صلح را کش می‌دهند تا ترامپ در انتخابات میان‌دوره‌ای ضربه بخورد.",
+            "تهران هیچ امیدی به توافق ندارد و منتظر طوفان حملات پس از انتخابات آمریکا است.",
+            "افزایش قیمت سوخت در آمریکا به ابزاری برای فشار حاکمیت بر پایگاه رأی جمهوری‌خواهان تبدیل شده است."
+        ],
+        "impact": "تعطیلی دیپلماسی و تبدیل میز مذاکره به ابزار جنگ سیاسی در انتخابات آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/21/world-news/iran-is-purposely-tanking-peace-talks-to-hurt-trump-at-the-polls-regime-officials-admit/",
+        "clean_url": "https://nypost.com/2026/10/21/world-news/iran-is-purposely-tanking-peace-talks-to-hurt-trump-at-the-polls-regime-officials-admit",
+        "image": "http://www.bing.com/th?id=ONUT.KG_YhIf7C_3Tk-wP6Oddtw&pid=News",
+        "timestamp": 1792605240.0
+    },
+    {
         "id": "0512ad8b31",
         "title_fa": "نمایش قدرت ارتش اسرائیل در نزدیکی مرزهای ایران",
         "title_en": "Israeli military conducts massive \"power projection\" operation near Iran's border",
@@ -361,6 +380,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFh4ZEdDSDhEcmZJWFR1VDVOUDVaYTR6aURwNjEzRnpsVGV4aTl1RFR3LVZpa1ZRZW5DY1ByTnBXZmk3RVl4VHRZM0x6UGRnUWp1dUJJUWItY3lYU3dmZ1RBYU1OLTdjc3JXOVB3V09mM051WGM1dEJsaW1WQXRmd3BmVXRaRUZMNzR4bkVBY3RTNWt1aXYxcGdWZVdUMy0xNUNzMlpJMkpyR0RaQVdKbUNENzFIdw",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792602116.0
+    },
+    {
+        "id": "98268cac4d",
+        "title_fa": "نقشه حمله ۳ روزه آمریکا به تاسیات ج.ا.",
+        "title_en": "ترامپ: جمهوری اسلامی شرورترین حکومت جهان است و اگر سلاح هسته‌ای داشت، از آن استفاده می‌کرد",
+        "summary": [
+            "واشنگتن و اسرائیل سناریوی حمله کوتاه اما کوبنده به زیرساخت‌های نظامی و اتمی تهران را روی میز دارند.",
+            "هدف اصلی این عملیات ضربه به زرادخانه موشکی و اتمی برای تحمیل توافق به تهران است.",
+            "پالایشگاه‌های نفتی فعلاً از لیست اهداف خارج شده‌اند تا بازار انرژی منفجر نشود."
+        ],
+        "impact": "آمادگی نظامی همه‌جانبه آمریکا و اسرائیل برای ضربه پیشگیرانه به مراکز کلیدی حاکمیت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610224827",
+        "clean_url": "https://www.iranintl.com/202610224827",
+        "image": "http://www.bing.com/th?id=ONUT.4EIepv5TMcbRW3Ouo0tixg&pid=News",
+        "timestamp": 1792602000.0
     },
     {
         "id": "c62b0fedf1",
@@ -5444,43 +5482,5 @@
         "clean_url": "https://www.newsweek.com/exclusive-china-and-irans-influence-networks-join-forces-inside-us-12579895",
         "image": "http://www.bing.com/th?id=ONUT.KaXZ2JXQoe4QP_Z0OamSGg&pid=News",
         "timestamp": 1792375200.0
-    },
-    {
-        "id": "2cefe7e278",
-        "title_fa": "واکنش شوک‌آلود بازار جهانی نفت به تقابل نظامی علیه ایران",
-        "title_en": "Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events",
-        "summary": [
-            "تحلیل‌گران حوزه انرژی، پیامدهای حملات و درگیری‌های نظامی آمریکا و اسرائیل در منطقه را خطری مستقیم برای زنجیره تامین نفت می‌دانند.",
-            "تداوم این تنش‌ها احتمال بروز اختلال در مسیرهای کلیدی صادرات نفت از جمله تنگه هرمز را به شدت افزایش داده است.",
-            "معامله‌گران بازارهای جهانی خود را برای نوسانات شدید قیمت انرژی و خروج سرمایه از بازارهای پرریسک آماده می‌کنند."
-        ],
-        "impact": "احتمال جهش ناگهانی قیمت نفت و افزایش سنگین هزینه‌های بیمه کشتیرانی در خلیج فارس.",
-        "tag": "بازار انرژی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792374643.0
-    },
-    {
-        "id": "247ca9510f",
-        "title_fa": "تهدید دوباره تهران به حمله نظامی توسط ترامپ و نتانیاهو",
-        "title_en": "Trump, Netanyahu threaten renewed Iran strikes, Tehran warns of response",
-        "summary": [
-            "دونالد ترامپ و بنیامین نتانیاهو بار دیگر بر احتمال انجام حملات جدید علیه جـمـهـورۍ اسـلا‌مـی تأکید کردند.",
-            "مقام‌های تهران بلافاصله در جایگاه انفعال، خط و نشان کشیده و از پاسخ پشیمان‌کننده سخن گفتند.",
-            "سایه جنگ و تنش نظامی مستقیم بیش از پیش بر سر ساختار حاکم سنگینی می‌کند."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و خروج سرمایه از بازارهای داخلی به دلیل سایه جنگ.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792373483.0
     }
 ]
