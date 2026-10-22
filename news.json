@@ -1,5 +1,23 @@
 [
     {
+        "id": "3cc3d47e72",
+        "title_fa": "خطای امنیتی سایت اتلانتیک در باز کردن خبر ترامپ",
+        "title_en": "Trump's Gamble to End the Iran War",
+        "summary": [
+            "محتوای اصلی مقاله نشریه اتلانتیک درباره رویکرد دونالد ترامپ به خاطر خطای بررسی امنیتی بارگذاری نشد.",
+            "این مسئله نشان‌دهنده چالش‌های دسترسی به برخی تحلیل‌های رسانه‌ای خارجی است."
+        ],
+        "impact": "عدم دسترسی به جزئیات تحلیل جدید رسانه آمریکایی درباره پرونده ایر...ان.",
+        "tag": "رسانه",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
+        "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121",
+        "image": "https://cdn.theatlantic.com/thumbor/-JL4xSAoobzYaOyEz194HexDgec=/7x0:5312x2763/1200x625/media/img/mt/2026/10/2026_10_22_Trump_Bessent/original.jpg",
+        "timestamp": 1792708860.0
+    },
+    {
         "id": "6361390ff1",
         "title_fa": "تهدید ترامپ علیه جـمـهـوریت: اقدامات سخت‌تری در راه است",
         "title_en": "Trump says US 'may do it a little bit further' against Iran",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlN3RiSWFIZTFWQWJtQzAxRmtfdklQX00xd2gwVUpuX09yRVlKcHFsME1OaVpVaDZzb3o4QWdWNUZpaHdlOWZKcWtsOFdNX0NvX083SjI2MXRYRE1iMzhOVlBKN0xWY0JDcWFMSUZMLXY",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792439080.0
-    },
-    {
-        "id": "6c350382dc",
-        "title_fa": "نشانه‌های جدی از احتمال حمله نظامی به ای-ران",
-        "title_en": "Growing signs of an impending strike on Iran",
-        "summary": [
-            "گزارش‌ها از افزایش احتمال یک اقدام نظامی علیه تاسیسات و اهداف ح-ک-و-م-ت حکایت دارد.",
-            "تغییرات میدانی و تحرکات اخیر، فضا را به سمت تنش‌های سخت نظامی سوق داده است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و ایجاد التهاب در بازارهای مالی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmltMFBPc25TX0R6WW13RGtjOWhXeHc0WXpNQ20taTRCRlRxN0Z6RWoyUkViM3BPOGNFM1UwVzJNUWNDVFJwaVZLYjh6RkxWUnc1TUtLU0I5d0xkbWU1aE5JSjhHcEJ3ckYxaE93NnR6WHlsa0tDcTdJY3doanhQWkJ3dHpWSXJaWDBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQmltMFBPc25TX0R6WW13RGtjOWhXeHc0WXpNQ20taTRCRlRxN0Z6RWoyUkViM3BPOGNFM1UwVzJNUWNDVFJwaVZLYjh6RkxWUnc1TUtLU0I5d0xkbWU1aE5JSjhHcEJ3ckYxaE93NnR6WHlsa0tDcTdJY3doanhQWkJ3dHpWSXJaWDBB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792438262.0
     }
 ]
