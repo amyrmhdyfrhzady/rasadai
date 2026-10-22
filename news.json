@@ -183,6 +183,25 @@
         "timestamp": 1792619955.0
     },
     {
+        "id": "a7b9fad226",
+        "title_fa": "طرح مشترک آمریکا و اسرائیل برای ضربه به تاسیسات هسته‌ای",
+        "title_en": "US-Israel Strike Plans And Iran's 'Father Of All Bombs' Claim: Inside A Growing Standoff",
+        "summary": [
+            "واشنگتن و تل‌آویو سناریوهای تهاجمی جدیدی را علیه اهداف راهبردی شامل سایت‌های اتمی، زاغه‌های موشکی و زیرساخت‌های انرژی تدوین کرده‌اند.",
+            "سایت‌های زیرزمینی و مستحکم نظیر کوه‌کلنگ در صدر بانک اهداف احتمالی برای فلج کردن توان غنی‌سازی قرار دارند.",
+            "ادعای مقامات تـهران مبنی بر ساخت بمب‌های سنگین صرفاً مانور تبلیغاتی برای مقابله با جنگ روانی بمب‌های سنگرشکن آمریکاست."
+        ],
+        "impact": "افزایش جدی ریسک درگیری مستقیم نظامی و تحریک تقاضای هیجانی در بازار ارز و طلا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "News18",
+        "url": "https://www.news18.com/explainers/us-israel-strike-plans-and-irans-father-of-all-bombs-claim-inside-a-growing-standoff-ws-l-10392319.html",
+        "clean_url": "https://www.news18.com/explainers/us-israel-strike-plans-and-irans-father-of-all-bombs-claim-inside-a-growing-standoff-ws-l-10392319.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/10/iran-war-2026-10-2d73f5399044527ff490c38ff9a52fe5-1200x675.jpg",
+        "timestamp": 1792619580.0
+    },
+    {
         "id": "aaf6ef4219",
         "title_fa": "قمار خطرناک نتانیاهو روی جنگ با ایران برای بقای سیاسی",
         "title_en": "Editorial | Netanyahu's Iran war plans: A dangerous gamble with Israel's election",
@@ -5459,24 +5478,5 @@
         "clean_url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
         "image": "https://i.guim.co.uk/img/media/0d4cf88c5f52288ec22b532a48cb137684da74e9/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=378001bce6600e307cdc4cbfda6718f4",
         "timestamp": 1792396260.0
-    },
-    {
-        "id": "5c177eb682",
-        "title_fa": "طرح هفت‌روزه عراقچی؛ شرط‌گذاری تهران برای بازگشایی تنگه هرمز",
-        "title_en": "US-Iran War Live Updates: World Food Programme to cut food aid to 500,000 Palestinians in Gaza over funding shortfall",
-        "summary": [
-            "عراقچی از ارائه بسته پیشنهادی به آمریکا خبر داده که بازگشایی آبراه حیاتی هرمز را به پذیرش تمام شروط تهران گره زده است.",
-            "دستگاه دیپلماسی تلاش می‌کند با کارت ناامن‌سازی خطوط انرژی، واشنگتن را وادار به عقب‌نشینی کند، هرچند کاخ سفید به این ضرب‌الاجل‌ها واکنش منفی نشان داده است.",
-            "اتکا به تهدید انسداد معابر کشتیرانی، نشان از بن‌بست گزینه‌های متعارف و ورود به فاز باج‌گیری ژئوپلیتیکی دارد."
-        ],
-        "impact": "جهش مجدد حق بیمه کشتی‌رانی تجاری در خلیج فارس و ناآرامی در بازارهای بین‌المللی انرژی.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.45,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-strait-of-hormuz-middle-east-conflict-saudi-egypt-gulf-oil-prices-israel-latest-news/liveblog/135036910.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-strait-of-hormuz-middle-east-conflict-saudi-egypt-gulf-oil-prices-israel-latest-news/liveblog/135036910.cms",
-        "image": "https://static.toiimg.com/thumb/msid-135036910,width-1280,height-720,imgsize-30954,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1792395480.0
     }
 ]
