@@ -18,6 +18,25 @@
         "timestamp": 1792681380.0
     },
     {
+        "id": "15b2dc7910",
+        "title_fa": "فشار تندروهای تهران برای دستیابی به بمب اتم",
+        "title_en": "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
+        "summary": [
+            "شکسته شدن تابوی قدیمی بحث علنی درباره ساخت تسلیحات اتمی در رسانه‌ها و محافل حاکمیتی.",
+            "تغییر لحن مقامات و نمایندگان مجلس ج.ا به دلیل سایه سنگین جنگ و تهدیدات نظامی ایالات متحده و اسرائیل.",
+            "طرح احتمال بازنگری در دکترین اتمی در صورت احساس خطر نابودی از سوی بدنه امنیتی نظام."
+        ],
+        "impact": "افزایش ریسک نظامی و فراهم شدن بهانه برای حملات پیشگیرانه ائتلاف غربی-اسرائیلی به تاسیسات اتمی.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Hardliners-Push-for-Nuclear-Weapons-as-US-War-Drags-On.html",
+        "clean_url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Hardliners-Push-for-Nuclear-Weapons-as-US-War-Drags-On.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-22_awqbq3u0jw.jpg",
+        "timestamp": 1792681200.0
+    },
+    {
         "id": "c24d1f8e01",
         "title_fa": "خیز ترامپ برای تشدید فشارها علیه ج.ا پس از انتخابات",
         "title_en": "Trump has threatened to escalate his Iran war after the US midterm election. Is Tehran prepared for that?",
@@ -5462,23 +5481,5 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-20/live-updates-912229",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742544",
         "timestamp": 1792423680.0
-    },
-    {
-        "id": "62c27b533b",
-        "title_fa": "تأثیر کاهش نرخ بهره بر بازار بورس روسیه",
-        "title_en": "Developers to benefit most from potential rate cut, lawmaker says",
-        "summary": [
-            "کاهش نرخ بهره بانکی هزینه بازپرداخت بدهی شرکت‌ها را کاهش می‌دهد و سودآوری آن‌ها را بالا می‌برد.",
-            "فعالان بازار سهام انتظار دارند با تزریق نقدینگی سود سهام به بازار، روند صعودی جدیدی شکل بگیرد."
-        ],
-        "impact": "شرکت‌های ساختمانی و بنگاه‌های پربدهی بیشترین سود را از سیاست‌های انبساطی پولی می‌برند.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2204273",
-        "clean_url": "https://tass.com/economy/2204273",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792423500.0
     }
 ]
