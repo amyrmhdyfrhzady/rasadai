@@ -548,6 +548,25 @@
         "timestamp": 1792601357.0
     },
     {
+        "id": "a01fb90c14",
+        "title_fa": "عقب‌نشینی پنهانی آمریکا و خط و نشان مقامات ج.ا",
+        "title_en": "US military quietly reduces Middle East footprint amid Iran, Houthi threats",
+        "summary": [
+            "ارتش آمریکا حضور نظامی خود را در منطقه همزمان با تهدیدات گروه های نیابتی کاهش داده است.",
+            "مسعود پزشکیان برداشتن تحریم‌ها را شرط آغاز هرگونه مذاکره اعلام کرد.",
+            "مقام های ارشد نظامی و امنیتی تهران از تغییر دکترین به سمت جنگ نامتقارن و پاسخ بدون محدودیت خبر دادند."
+        ],
+        "impact": "افزایش تنش‌های نظامی و آمطرفین برای درگیری‌های احتمالی در منطقه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610214598",
+        "clean_url": "https://www.iranintl.com/en/202610214598",
+        "image": "http://www.bing.com/th?id=ONUT.OMBN2iiRRNVt5Ce1o4hpgg&pid=News",
+        "timestamp": 1792599720.0
+    },
+    {
         "id": "98e9d4144b",
         "title_fa": "کاهش نصفی نفت خلیج فارس با حملات تـ*ـرمـ*ـینی",
         "title_en": "Iran’s attacks have cut Gulf oil flows in half. Two officials told Reuters the midterms are the goal",
@@ -5461,24 +5480,5 @@
         "clean_url": "https://ziare.com/cautare/inaugurare-19-octombrie-pag174",
         "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
         "timestamp": 1792385474.8176687
-    },
-    {
-        "id": "a2f784988e",
-        "title_fa": "فشار ۲۰۰۰ دلاری جنگ با ایران بر دوش خانواده‌های آمریکایی",
-        "title_en": "Moody's Report Reveals Surprising Costs of Iran War on Families",
-        "summary": [
-            "گزارش جدید موسسه مودیز هزینه مستقیم جنگ با ایران برای مصرف‌کنندگان آمریکایی را ۲۶۵ میلیارد دلار برآورد کرد.",
-            "جهش قیمت بنزین از ۳ دلار به ۴.۳۷ دلار، افکار عمومی آمریکا را به‌شدت معترض کرده است.",
-            "افزایش سه برابری هزینه‌ها نسبت به برآوردهای اولیه، محاسبات اشتباه واشنگتن در طولانی شدن درگیری را آشکار ساخت."
-        ],
-        "impact": "افزایش نارضایتی داخلی در آمریکا و افول حمایت عمومی از تداوم جنگ.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "note",
-        "url": "https://note.com/kilalanorthwave/n/n91f5883944e2?hl=en",
-        "clean_url": "https://note.com/kilalanorthwave/n/n91f5883944e2",
-        "image": "https://www.bing.com/th?id=ONUT.so5wgY_3iqKRhjHRc-0O8g",
-        "timestamp": 1792385474.8175614
     }
 ]
