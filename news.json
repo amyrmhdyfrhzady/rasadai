@@ -36,6 +36,24 @@
         "timestamp": 1792661811.0
     },
     {
+        "id": "84f9fa13cb",
+        "title_fa": "نشست اضطراری دیپلماتیک در استانبول درباره آینده فلسطین",
+        "title_en": "Top European, Mideast diplomats to meet in Istanbul tomorrow, with Palestinian issue on agenda",
+        "summary": [
+            "وزرای خارجه کشورهای اروپایی و منطقه‌ای فردا در ترکیه دور هم جمع می‌شوند تا بحران فلسطین را بررسی کنند.",
+            "این نشست با ابتکار آنکارا و با حضور مهره‌های کلیدی خاورمیانه و اروپا برگزار می‌شود."
+        ],
+        "impact": "تلاش‌های دیپلماتیک جدید برای کنترل بحران‌های منطقه‌ای بدون حضور بازیگران اصلی جنگ.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/top-european-mideast-diplomats-to-meet-in-istanbul-tomorrow-with-palestinian-issue-on-agenda/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/top-european-mideast-diplomats-to-meet-in-istanbul-tomorrow-with-palestinian-issue-on-agenda",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261017__D3KU7KM__v2__HighRes__TopshotFranceSocialDemo-e1792539153837-640x400.jpg",
+        "timestamp": 1792660320.0
+    },
+    {
         "id": "ff9f9f1b19",
         "title_fa": "تحریم ناوگان مخفی نفت ایران توسط آمریکا",
         "title_en": "US Sanctions Entities and Individuals Linked to Iran’s Shadow Fleet",
@@ -270,6 +288,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-weighs-post-midterm-strikes-on-iran/ar-AA2fOBnS",
         "image": "http://www.bing.com/th?id=ONUT.G7UBiKfskcheE0uyznp4CQ&pid=News",
         "timestamp": 1792639331.0
+    },
+    {
+        "id": "9b8f0aa961",
+        "title_fa": "افت شدید صادرات گاز مایع ایـران در سایه تحریم‌ها",
+        "title_en": "Netanyahu rejects report Trump blocked planned Iran offensive",
+        "summary": [
+            "آمارهای کشتیرانی از سقوط صادرات گاز مایع ایـران از ۳۰ میلیون بشکه به تنها ۴ میلیون بشکه حکایت دارد.",
+            "محدودیتی که بر صادرات انرژی جـمهوری اسـلامی اعمال شده، میلیاردها دلار خسارت به درآمدهای ارزی وارد کرده است."
+        ],
+        "impact": "فلج شدن یکی از مسیرهای اصلی درآمدزایی ارزی نفت و گاز با تشدید نظارت‌های بین‌المللی.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610221442",
+        "clean_url": "https://www.iranintl.com/en/202610221442",
+        "image": "http://www.bing.com/th?id=ONUT.2NvKbr7v4dmJfcrIK_wQQA&pid=News",
+        "timestamp": 1792639260.0
     },
     {
         "id": "3b7b349158",
@@ -5440,41 +5476,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlNET3hzZkR6WThWY0ZMbkpUYjVCY1pqWG5GQm1CSlNiXzNzWXJTbFAyZEhROXljekhHenNVcEZfVjgyQ3VvcmRuS2VNWjVvYVRMWGxaaXVoUEZPZFZNV1NPUHBtRUFRMUZCTWhTT2g3cEtDZWJabGVLdDhDVGN0UjJwNGVCUWZGVnFYZ2Z3WkZqVllVWDI2eHRZaXozY1dLdVdyUjd5Q2ZuNlJOaTFhUF9pVEF5VnR00gG-AUFVX3lxTFBzaVFoRXFEcWhGVFVLaGo5OGUwWnNicXhwSzdhQ0lJT3VfNk5ySFBXcFhpQkotdnpKNzBSeWVJd3ZKaTBFRE9aRmFfTjcxRk5fLXZfdU5oX205VWVNX1dzS0g1R0RjTG9nTXptLWNKWUcwQW1VN1VwOF9QTkNGaUE2SGFYcFB2N1lDcmdzbzJUS0pMZ0tUSkxYNnExMmFrR2NFcktfMC1YS05mOFBnZmN5ZWhMUEQtOF9rYi1IbGc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792407422.0
-    },
-    {
-        "id": "c7b27b58b3",
-        "title_fa": "دستور اجرایی ترامپ برای توسعه تحقیقات سلامت زنان",
-        "title_en": "Trump signs an order aimed at boosting women's health research, a plan backed by the first lady",
-        "summary": [
-            "رئیس‌جمهور آمریکا با امضای فرمانی، بخش جدیدی برای سلامت زنان در موسسه ملی بهداشت ایجاد کرد.",
-            "این طرح با پشتیبانی بانوی اول آمریکا برای تمرکز بر پژوهش‌های پزشکی کلید خورده است."
-        ],
-        "impact": "تخصیص منابع جدید دولتی برای پژوهش‌های پزشکی مرتبط با زنان.",
-        "tag": "اجتماعی",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "Los Angeles Times on MSN",
-        "url": "https://www.msn.com/en-us/health/general/trump-signs-an-order-aimed-at-boosting-women-s-health-research-a-plan-backed-by-the-first-lady/ar-AA2fAHKF",
-        "clean_url": "https://www.msn.com/en-us/health/general/trump-signs-an-order-aimed-at-boosting-women-s-health-research-a-plan-backed-by-the-first-lady/ar-AA2fAHKF",
-        "image": "http://www.bing.com/th?id=ONUT.t8Reff6tOsaU20T3vZhccA&pid=News",
-        "timestamp": 1792406409.0
-    },
-    {
-        "id": "349774e2e8",
-        "title_fa": "خداحافظی کریستین امانپور از شبکه سی‌ان‌ان پس از ۴۳ سال",
-        "title_en": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years",
-        "summary": [
-            "مجری برجسته و کهنه‌کار سی‌ان‌ان تصمیم گرفت پس از بیش از چهار دهه فعالیت، حضور روزانه خود را در این شبکه متوقف کند.",
-            "برنامه معروف او از سال ۲۰۲۷ تنها به صورت هفتگی پخش خواهد شد."
-        ],
-        "impact": "پایان یک دوران طولانی در ژورنالیسم بین‌الملل و تغییرات ساختاری در رسانه‌های جریان اصلی.",
-        "tag": "رسانه",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/cnn-news-network-amanpour-907d3521fbb30a1cf648e3166c3258a5",
-        "clean_url": "https://apnews.com/article/cnn-news-network-amanpour-907d3521fbb30a1cf648e3166c3258a5",
-        "image": "http://www.bing.com/th?id=ONUT.-QycR78p7aELxmcVH6wefg&pid=News",
-        "timestamp": 1792405620.0
     }
 ]
