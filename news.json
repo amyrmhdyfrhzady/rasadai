@@ -162,6 +162,24 @@
         "timestamp": 1792658521.0
     },
     {
+        "id": "aa8584c69e",
+        "title_fa": "تغییر ذائقه تاریخی؛ خوراکی‌هایی که زمانی چندش‌آور بودند",
+        "title_en": "20 Foods That Were Once Considered Disgusting",
+        "summary": [
+            "بسیاری از مواد غذایی محبوب امروز مانند گوجه‌فرنگی، در گذشته با انزجار، تردید و حتی طرد کامل مواجه می‌شدند.",
+            "تغییرات فرهنگی و نیازهای معیشتی طی قرون متمادی، تعریف جوامع از غذاهای مطبوع را به کلی دگرگون کرده است."
+        ],
+        "impact": "شناخت تحول الگوی مصرف مواد غذایی و تأثیر آن بر صنعت تغذیه و فرهنگ عمومی.",
+        "tag": "فرهنگی",
+        "urgency": 1,
+        "sentiment": 0.1,
+        "source": "The Spicy Chefs",
+        "url": "https://www.msn.com/en-us/food-and-drink/recipes/20-foods-that-were-once-considered-disgusting/ss-AA2fOIot",
+        "clean_url": "https://www.msn.com/en-us/food-and-drink/recipes/20-foods-that-were-once-considered-disgusting/ss-AA2fOIot",
+        "image": "https://s.yimg.com/lo/mysterio/api/ea09cbc48a5c80b3aebdf8dc420dadf54c61c3acb2af0b704e7e796f4d45f576/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/the_telegraph_258/9d912a4903deab3c5ebaee05e4134420.jpg",
+        "timestamp": 1792657800.0
+    },
+    {
         "id": "36c336dcac",
         "title_fa": "مقایسه انقلاب فـــرانسـه و جـمـهـوری اسـلامـی",
         "title_en": "Saudi Arabia’s future depends on dropping its commitment to Palestine",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.iranintl.com/en/202610190665",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792414620.0
-    },
-    {
-        "id": "add9fd8c74",
-        "title_fa": "معامله ترامپ با تهران؛ سراب توافق یا بن‌بست کامل؟",
-        "title_en": "Can Trump and Iran ever reach a deal again?",
-        "summary": [
-            "رویکرد ترامپ متکی بر معامله است، اما ترکیب کابینه او مسیر فشار حداکثری و تضعیف کامل بنیه مالی حکومت را دنبال می‌کند.",
-            "شکاف عمیق میان شروط واشنگتن و خطوط قرمز تهران، امکان رسیدن به هرگونه توافق پایدار را عملاً به صفر رسانده است."
-        ],
-        "impact": "تداوم بی‌اعتمادی و مسدود ماندن روزنه دیپلماسی، شوک‌های ارزی و رکود بیشتر در بازار ایران را تثبیت می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Trita Parsi | Substack",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nZE41RUVYRk9tMlhwV3ZjTUZ3MmlyQ2I3SVQ4Q0VYVWRnVGlncHdtWFNieU5iZ1N4YmtFeEJ5LURtRzhvRTRwM1RSRVNGbElBbXhZT2gzUzNIZm5JdFZfNXJrSXg0eVlIZUd2M193NlhJcVVHS3R6Umt3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nZE41RUVYRk9tMlhwV3ZjTUZ3MmlyQ2I3SVQ4Q0VYVWRnVGlncHdtWFNieU5iZ1N4YmtFeEJ5LURtRzhvRTRwM1RSRVNGbElBbXhZT2gzUzNIZm5JdFZfNXJrSXg0eVlIZUd2M193NlhJcVVHS3R6Umt3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792413255.0
     }
 ]
