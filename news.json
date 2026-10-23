@@ -145,6 +145,25 @@
         "timestamp": 1792747864.7104323
     },
     {
+        "id": "261ebe0f6c",
+        "title_fa": "تهدید ناوگان سایه ج.ا با پایان ذخایر نفت در آب‌های آسیا",
+        "title_en": "Iran’s evasion network survives, but the crude feeding it has run dry",
+        "summary": [
+            "زیرساخت‌ها و واسطه‌های فروش نفت تحریمی همچنان پابرجا هستند اما مخازن شناور خارج از کشور خالی شده‌اند.",
+            "محاصره دریایی آمریکا مانع از خروج محموله‌های جدید نفت از بندرهای ایران شده است.",
+            "ذخایر عظیم نفت ج.ا در آب‌های آسیا که در بحران‌های قبلی به کار می‌آمد، اکنون به زیر یک میلیون بشکه رسیده است."
+        ],
+        "impact": "فلج شدن موتور اصلی درآمدزایی حکومت و قطع شریان حیاتی فروش نفت به چین",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610231662",
+        "clean_url": "https://www.iranintl.com/en/202610231662",
+        "image": "http://www.bing.com/th?id=ONUT.kI8jHto0DgtXYxVP08C0RA&pid=News",
+        "timestamp": 1792747080.0
+    },
+    {
         "id": "18b145a46c",
         "title_fa": "تهدید صریح ترامپ؛ آمریکا به زودی سایت اتمی ای-ران را می‌زند",
         "title_en": "What is Pickaxe Mountain? Trump says US will hit Iranian nuclear site 'pretty soon' - ABC News",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.tribdem.com/news/latest_news/u-k-to-send-jets-to-defend-saudi-arabia-from-houthi-attacks-and-other-mideast/article_36cbd512-fdd0-5e6d-8c83-9ef4ca23bed1.html",
         "image": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/2/1e/21e1c0e7-6e94-56eb-a1c0-ca9456cd4975/6ad764f24f03c.image.jpg?crop=1798,944,0,104&resize=1200,630&order=crop,resize",
         "timestamp": 1792486500.0
-    },
-    {
-        "id": "3fddbf6612",
-        "title_fa": "احتمال حمله به تاسیسات اتمی ای...ران پیش از انتخابات",
-        "title_en": "Will Iran's nuclear facilities be attacked before the elections?",
-        "summary": [
-            "گمانه‌زنی‌ها درباره احتمال اقدام نظامی ضربتی علیه برنامه‌های اتمی ج...هوری اس...لامی افزایش یافته است.",
-            "تغییر معادلات منطقه‌ای، تل‌آویو را به سمت بررسی گزینه‌های سخت‌گیرانه‌تر سوق داده است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و ایجاد التهاب روانی در بازارهای مالی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3lnbVhsZWtqcllyZlVNRnlDTmVPLUVHcURYT0tSQ085TmYxWlJyZ0x5MUhnSU9hdElQRUdhYTZ3R3p2TzJEbllRdXB4MS1YOXgxNEpVT3JuZk9lQ2lJeTdYcWk3RHRZNS1zcVpDME9IQWg3ZXpnSlZQMFdzMmJ4ckxueE9pZHRIY3BWNzVVMElfYlBqZndwaEtqdVJvOEFjdmpYRw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3lnbVhsZWtqcllyZlVNRnlDTmVPLUVHcURYT0tSQ085TmYxWlJyZ0x5MUhnSU9hdElQRUdhYTZ3R3p2TzJEbllRdXB4MS1YOXgxNEpVT3JuZk9lQ2lJeTdYcWk3RHRZNS1zcVpDME9IQWg3ZXpnSlZQMFdzMmJ4ckxueE9pZHRIY3BWNzVVMElfYlBqZndwaEtqdVJvOEFjdmpYRw",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792485868.0
     }
 ]
