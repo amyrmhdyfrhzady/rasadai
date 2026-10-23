@@ -163,6 +163,25 @@
         "timestamp": 1792694399.0
     },
     {
+        "id": "d5cf98b332",
+        "title_fa": "فشار سنگین اقتصادی و اعتراف مقامات به آسیب‌پذیری",
+        "title_en": "US proposes restrictions on investments in sensitive Iran technology sectors",
+        "summary": [
+            "بسته شدن مرزهای زمینی با پاکستان و عراق و اختلال در مرز ترکیه، بحران جدی برای اقتصاد کشور ایجاد کرده است.",
+            "محسن رضایی صراحتاً اعتراف کرده که تداوم این وضعیت معیشت خانواده‌ها را هدف می‌گیرد اما آن را شکست راهبردی نمی‌داند.",
+            "ایالات متحده علاوه بر محدودیت‌های سرمایه‌گذاری در فناوری‌های حساس، همسایگان را برای مسدود کردن مرزها تحت فشار گذاشته است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و فلج شدن بخش‌های کلیدی تجارت منطقه‌ای.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610226776",
+        "clean_url": "https://www.iranintl.com/en/202610226776",
+        "image": "http://www.bing.com/th?id=ONUT.ljzJW6rWK1TJgECNElKTjA&pid=News",
+        "timestamp": 1792692600.0
+    },
+    {
         "id": "d06527ef5c",
         "title_fa": "تهدید تازه تهران به حمله علیه اهداف اقتصادی در صورت اقدام آمریکا",
         "title_en": "Iran threatens wider strikes on economic and civilian targets if US attacks",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.eurasiareview.com/20102026-the-geopolitics-of-the-persian-gulf-and-war-with-iran-analysis",
         "image": "https://www.eurasiareview.com/wp-content/uploads/2026/10/a-155.jpg",
         "timestamp": 1792454400.0
-    },
-    {
-        "id": "e43a7583bd",
-        "title_fa": "سفر محرمانه وزیر دفاع آمریکا به اسرائیل",
-        "title_en": "هگست در «سفری اعلام‌نشده به اسرائیل» با نتانیاهو دیدار کرد",
-        "summary": [
-            "پیت هگست در سفری اعلام‌نشده با بنیامین نتانیاهو در یک پایگاه هوایی در جنوب اسرائیل دیدار کرد.",
-            "این سفر در آستانه انتخابات پارلمانی اسرائیل و در سایه رایزنی‌های مشترک درباره احتمال اقدام نظامی علیه مواضع جـمـهـوری اسـلامـی انجام شده است."
-        ],
-        "impact": "هماهنگی‌های پشت پرده واشنگتن و تل‌آویو برای عملیات نظامی وارد مرحله تازه‌ای شده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/hegseth-middle-east/33879980.html",
-        "clean_url": "https://www.radiofarda.com/a/hegseth-middle-east/33879980.html",
-        "image": "http://www.bing.com/th?id=ONUT.rRhxeeoRPjyaCK15RyyY5w&pid=News",
-        "timestamp": 1792454220.0
     }
 ]
