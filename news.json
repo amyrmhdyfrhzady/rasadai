@@ -1,5 +1,23 @@
 [
     {
+        "id": "751bac95fd",
+        "title_fa": "برخورد تحریم‌های ترامپ علیه ایـران با مانع",
+        "title_en": "Trump’s Iran sanctions run into limits",
+        "summary": [
+            "مکانیسم تحریم‌های فشار حداکثری دولت ترامپ علیه جـمـهـوری اسـلامـی با محدودیت‌های ساختاری و اجرایی روبرو شده است.",
+            "کارشناسان اقتصادی معتقدند دور زدن تحریم‌ها و تغییر مسیر فروش نفت، اثربخشی این سیاست‌ها را کاهش داده است."
+        ],
+        "impact": "کاهش کارایی ابزارهای تنبیهی واشنگتن و ت تداوم فروش انرژی توسط تـکـراری.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Semafor",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0ZfTjhhZjJRSDVqTFQ5eFRycVBMWkRqdGpLdGd0T2VPUTY5NWhTbXdnbno5bjE5TkpoSjZyZ0MxcUNzZ3ZtUXFZY2ZuN0F1R0o4dkpqTjlTemhVVjVJRF9NQ09rS2s3VUZJbTM0N25zZHoxWXdDN0IwR1AwVVdLQ2N1cWRicVk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0ZfTjhhZjJRSDVqTFQ5eFRycVBMWkRqdGpLdGd0T2VPUTY5NWhTbXdnbno5bjE5TkpoSjZyZ0MxcUNzZ3ZtUXFZY2ZuN0F1R0o4dkpqTjlTemhVVjVJRF9NQ09rS2s3VUZJbTM0N25zZHoxWXdDN0IwR1AwVVdLQ2N1cWRicVk",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792745700.0
+    },
+    {
         "id": "d83b8b6148",
         "title_fa": "تردید کارشناسان درباره توانایی اسرائیل برای تغییر رژیم در ای...ران",
         "title_en": "Experts Question Israel’s Ability to Achieve Regime change in Iran",
@@ -90,6 +108,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0JRNGdsTDFOb1J1NHJ3SHY4QmNQdnU4S3BBSXpDRElKOHZ4UldUQllLTnNBM0tBdUdCMTZybWdCQmxYcUFwbGZudGowRE41ZVFxcFlIQVNsdURFRUIzTmRLMWtWRVR4SHdLYkNxWmh6TzliVzJvbHVjR3dTSFpVVklSbzNKYU9pdlFxazlvSGJOazdFYzV2TWtFbjBtN3Yy",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792720863.0
+    },
+    {
+        "id": "1126689c2e",
+        "title_fa": "حمله تند ترامپ به ستاره بسکتبال آمریکا",
+        "title_en": "حمله ترامپ به لبران جیمز: مایه ننگ است، باید عذرخواهی کند",
+        "summary": [
+            "دونالد ترامپ به دلیل بی‌توجهی لبران جیمز به سرود ملی آمریکا در جریان مسابقه، به شدت از او انتقاد کرد.",
+            "رئیس‌جمهور آمریکا رفتار این ورزشکار سرشناس را توهین به نظامیان دانست و خواستار عذرخواهی رسمی او شد."
+        ],
+        "impact": "بازتاب گسترده حاشیه‌های سیاسی و ورزشی در رسانه‌های ایالات متحده.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610236399",
+        "clean_url": "https://www.iranintl.com/202610236399",
+        "image": "http://www.bing.com/th?id=ONUT.XjurwRRBQGDp-6IkctM14w&pid=News",
+        "timestamp": 1792717080.0
     },
     {
         "id": "9390eb0587",
@@ -5447,42 +5483,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-prolongs-talks-in-stalemate-to-influence-us-midterms-officials-say/ar-AA2fDXJO",
         "image": "http://www.bing.com/th?id=ONUT.TM0KhGkmzSrqHfsAT8cQ1Q&pid=News",
         "timestamp": 1792466827.0
-    },
-    {
-        "id": "5513d3f34b",
-        "title_fa": "هشدار دوحه به تهران درباره ناامنی تنگه هرمز",
-        "title_en": "دوحه خواستار پایان «حملات غیرمسئولانه» تهران در تنگه هرمز شد",
-        "summary": [
-            "قطر خواستار توقف فوری تحركات خطرناک تهران در آبراه حیاتی تنگه هرمز شد.",
-            "تنشی که به دلیل درگیری‌ها ایجاد شده، میلیاردها بشکه نفت را از بازار خارج کرده و قیمت انرژی را صعودی کرده است.",
-            "افزایش تولید انرژی در قاره آمریکا به عنوان راهکاری برای خنثی کردن این فشارها دنبال می‌شود."
-        ],
-        "impact": "تنگ‌تر شدن حلقه انزوای اقتصادی و افزایش حساسیت‌های منطقه‌ای نسبت به اقدامات نظامی حکومت",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610204489",
-        "clean_url": "https://www.iranintl.com/202610204489",
-        "image": "http://www.bing.com/th?id=ONUT.S1afQjsu1dca8_AI_nBF5g&pid=News",
-        "timestamp": 1792465740.0
-    },
-    {
-        "id": "a44f1dec27",
-        "title_fa": "اعتراف مقامات ارشد ایران به تلاش برای بمب اتم",
-        "title_en": "With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb",
-        "summary": [
-            "تابوی ساخت تسلیحات هسته‌ای در گفتار مقامات حکومتی عملاً شکسته شده است.",
-            "سیاستمداران و مهره‌های امنیتی علناً از لزوم تغییر دکترین هسته‌ای می‌گویند."
-        ],
-        "impact": "فشار بین‌المللی برای فعال کردن مکانیسم ماشه و تشدید تحریم‌ها به شدت بالا می‌رود.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
-        "clean_url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
-        "image": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
-        "timestamp": 1792465380.0
     }
 ]
