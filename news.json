@@ -19,6 +19,24 @@
         "timestamp": 1792755832.0
     },
     {
+        "id": "b5a2d43876",
+        "title_fa": "رونمایی روسیه از سامانه جامع ضدپهپاد در نمایشگاه مسکو",
+        "title_en": "Rosoboronexport to unveil 'Anti-Drone Dome' UAV defense concept",
+        "summary": [
+            "شرکت دولتی صادرکننده تسلیحات روسیه سامانه جدیدی به نام گنبد ضدپهپاد را برای حفاظت از تاسیسات حیاتی و غیرنظامیان معرفی می‌کند.",
+            "این سامانه قابلیت دفاع از زیرساخت‌های انرژی، کاروان‌های نظامی و مراکز استقرار نیروها در برابر حملات پهپادی را دارد."
+        ],
+        "impact": "گسترش تکنولوژی‌های مقابله با پهپاد در بازار تسلیحاتی مسکو و افزایش رقابت در حوزه سامانه‌های پدافندی.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2206833",
+        "clean_url": "https://tass.com/defense/2206833",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792753020.0
+    },
+    {
         "id": "b52c64c48e",
         "title_fa": "تشدید جنگ لفظی میان اسرائیل و جمهوری اسلامی",
         "title_en": "Israel, Iran ramp up war rhetoric, as prospect of open conflict looms",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGt0UUlJQkpHNXEwUld3OFNIdmJhbmUxdFdaeWxlaVFabjZTdlBvZmxhbWJCSEk0bzltRWlTTEo3TkpOZ1NjMDNieE1BVVdGUWVoQmxFdHExbkZqREhETDhXM19wVE5YYkQ1Tk9QTlNyd3hsMFRsakNQZGtnenoyeHBCTHRaNlNR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792481779.0
-    },
-    {
-        "id": "1da3d5a090",
-        "title_fa": "توقف تجارت مرزی ایران و پاکستان در دو گذرگاه کلیدی",
-        "title_en": "Iran-Pakistan border trade halt leaves trucks and cargo stranded",
-        "summary": [
-            "بسته‌شدن مرزهای ریمدان و تفتان صدها کامیون حامل بار را در دو طرف مرز معطل کرده است.",
-            "اسلام‌آباد مسائل امنیتی و مبارزه با قاچاق را دلیل این توقف اعلام کرده اما تهران به مشکلات فنی اشاره می‌کند."
-        ],
-        "impact": "این اختلال مرزی ضربه دیگری به چرخه شکننده صادرات و مراودات تجاری منطقه‌ای وارد می‌کند.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610201460",
-        "clean_url": "https://www.iranintl.com/en/202610201460",
-        "image": "http://www.bing.com/th?id=ONUT.aG6AMYeHjVwmwpyU5IwBWw&pid=News",
-        "timestamp": 1792480560.0
     }
 ]
