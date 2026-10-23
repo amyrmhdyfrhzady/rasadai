@@ -219,6 +219,24 @@
         "timestamp": 1792732001.0
     },
     {
+        "id": "93a410ee2e",
+        "title_fa": "درگیری مسلحانه در الخلیل و کشته شدن دو مهاجم",
+        "title_en": "فرانسه در آستانه تظاهرات جدید ۷۰ هزار نیروی امنیتی بسیج می‌کند",
+        "summary": [
+            "نیروهای ارتش اسرائیل پس از گزارش تیراندازی در منطقه، دو مهاجم فلسطینی را پس از بیست دقیقه درگیری کشتند.",
+            "گروه حماس با انتشار بیانیه‌ای این عملیات را بازتاب اراده مردم فلسطین و ادامه مقاومت خواند."
+        ],
+        "impact": "افزایش تنش‌های امنیتی و درگیری‌های مسلحانه در کرانه باختری.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610239969",
+        "clean_url": "https://www.iranintl.com/202610239969",
+        "image": "http://www.bing.com/th?id=ONUT.mll3paoVK9FMW2FgqfHHLg&pid=News",
+        "timestamp": 1792729680.0
+    },
+    {
         "id": "d1b07704e7",
         "title_fa": "خط و نشان امام جمعه اهواز برای کشتی‌ها در تنگه هرمز",
         "title_en": "امام جمعه اهواز: کشتی‌های متخلف در تنگه هرمز قاطعانه هدف قرار می‌گیرند",
@@ -5466,24 +5484,5 @@
         "clean_url": "https://www.iranintl.com/en/202610201460",
         "image": "http://www.bing.com/th?id=ONUT.aG6AMYeHjVwmwpyU5IwBWw&pid=News",
         "timestamp": 1792480560.0
-    },
-    {
-        "id": "df6bf724c4",
-        "title_fa": "انفجار مین دریایی در تنگه هرمز؛ دو نفتکش آتش گرفتند",
-        "title_en": "Irán afirma que dos petroleros “se incendiaron” tras chocar con minas navales en el estrecho de Ormuz",
-        "summary": [
-            "نیروی دریایی سپاه پاسداران مسئولیت انفجار و آتش‌سوزی دو نفتکش در تنگه هرمز را بر عهده گرفت.",
-            "تهران عبور از مسیرهای مین‌گذاری شده را غیرقانونی خوانده و به شرکت‌های نفتی درباره تبعات اقدامات ایالات متحده هشدار داد.",
-            "امنیت انرژی و تردد کشتی‌ها در یکی از حیاتی‌ترین آبراه‌های جهان به‌شدت بحرانی شده است."
-        ],
-        "impact": "اختلال مستقیم در ترانزیت انرژی و جهش ریسک امنیتی در خلیج فارس",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "La Tercera",
-        "url": "https://www.latercera.com/mundo/noticia/iran-afirma-que-dos-petroleros-se-incendiaron-tras-chocar-con-minas-navales-en-el-estrecho-de-ormuz/",
-        "clean_url": "https://www.latercera.com/mundo/noticia/iran-afirma-que-dos-petroleros-se-incendiaron-tras-chocar-con-minas-navales-en-el-estrecho-de-ormuz",
-        "image": "http://www.bing.com/th?id=ONUT.Rlk2iFzKc3ltWSBdRCSAIw&pid=News",
-        "timestamp": 1792480020.0
     }
 ]
