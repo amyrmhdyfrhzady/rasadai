@@ -201,6 +201,26 @@
         "timestamp": 1792736777.0
     },
     {
+        "id": "974cd56801",
+        "title_fa": "هشدار مقام آمریکایی درباره استمرار درگیری با ج موری اسلامی",
+        "title_en": "Trump's U.N. envoy says Iran war could drag on for another year",
+        "summary": [
+            "نماینده آمریکا در سازمان ملل از احتمال تداوم تنش‌ها تا یک سال آینده خبر داد و ابراز امیدواری کرد تهران پای میز مذاکره بیاید.",
+            "سپاه پاسداران مدعی توقف چند نفتکش شد که همین اقدام باعث جهش قیمت نفت برنت به ۱۱۴ دلار شد.",
+            "ترامپ، حکومت ایران را به دروغ‌پردازی درباره حملات دریایی با هدف تاثیرگذاری بر انتخابات کنگره متهم کرد.",
+            "عربستان سعودی انتقال نفت از طریق خط لوله شرق به غرب را به شدت افزایش داد تا از بحران تنگه هرمز عبور کند."
+        ],
+        "impact": "جهش قیمت نفت و ایجاد نااطمینانی شدید در بازارهای انرژی خاورمیانه",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/trumps-u-n-envoy-says-093836444.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/trumps-u-n-envoy-says-093836444.html",
+        "image": "http://www.bing.com/th?id=ONUT.9gh6NUsnWM_9RtabEfmGEg&pid=News",
+        "timestamp": 1792733340.0
+    },
+    {
         "id": "2dbba838eb",
         "title_fa": "تهدید تهران به هدف‌گیری زیرساخت‌های غیرنظامی در خلیج فارس",
         "title_en": "Iran is also threatening to ramp up attacks if targeted. It will go after civilian infrastructure.",
@@ -5466,23 +5486,5 @@
         "clean_url": "https://www.iranintl.com/en/202610207358",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792482240.0
-    },
-    {
-        "id": "f56d239063",
-        "title_fa": "هشدار دوباره مقامات تهران به واشنگتن و تل‌آویو",
-        "title_en": "Iranian Officials Warn U.S. and Israel Against Further Actions",
-        "summary": [
-            "خط کلامی تهران همچنان بر تهدید لفظی و جنگ روانی متمرکز است تا هزینه هرگونه اقدام متقابل را بالا ببرد.",
-            "این موضع‌گیری‌ها بیشتر برای مصرف داخلی و ترمیم روحیه نیروهای نیابتی صادر می‌شود و فاقد بازدارندگی جدید عینی است."
-        ],
-        "impact": "تداوم تنش لفظی در منطقه بدون تغییر میدانی در موازنه نظامی.",
-        "tag": "جنگ روانی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "WANA News Agency",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGt0UUlJQkpHNXEwUld3OFNIdmJhbmUxdFdaeWxlaVFabjZTdlBvZmxhbWJCSEk0bzltRWlTTEo3TkpOZ1NjMDNieE1BVVdGUWVoQmxFdHExbkZqREhETDhXM19wVE5YYkQ1Tk9QTlNyd3hsMFRsakNQZGtnenoyeHBCTHRaNlNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGt0UUlJQkpHNXEwUld3OFNIdmJhbmUxdFdaeWxlaVFabjZTdlBvZmxhbWJCSEk0bzltRWlTTEo3TkpOZ1NjMDNieE1BVVdGUWVoQmxFdHExbkZqREhETDhXM19wVE5YYkQ1Tk9QTlNyd3hsMFRsakNQZGtnenoyeHBCTHRaNlNR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792481779.0
     }
 ]
