@@ -36,6 +36,26 @@
         "timestamp": 1792747864.7104323
     },
     {
+        "id": "c8525d013d",
+        "title_fa": "هشدار درباره پاتک دیپلماتیک جـ.ـهـ.ـوری اسـ.ـلامـ.ـی پس از شکست نظامی",
+        "title_en": "Trump can't let Iran turn a military defeat turn into a diplomatic victory",
+        "summary": [
+            "تلاش حاکمیت برای جبران خسارت‌های سنگین نظامی و اقتصادی در میز مذاکره",
+            "استفاده تهران از باج‌خواهی اتمی و تهدید امنیت انرژی برای بقای سیاسی",
+            "ضرورت جلوگیری واشنگتن از احیای جایگاه پیشین جـ.ـهـ.ـوری اسـ.ـلامـ.ـی از طریق توافق شتاب‌زده",
+            "ادامه تاکتیک‌های همیشگی ارعاب و تهدید از سوی مقامات تهران"
+        ],
+        "impact": "آمریکا نباید اجازه دهد شکست در میدان جنگ با امتیازدهی پای میز مذاکره جبران شود.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
+        "clean_url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/IRGC.jpg",
+        "timestamp": 1792745940.0
+    },
+    {
         "id": "751bac95fd",
         "title_fa": "برخورد تحریم‌های ترامپ علیه ایـران با مانع",
         "title_en": "Trump’s Iran sanctions run into limits",
@@ -5466,23 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcGxTUW5YLV81YWtUcUR4X1poRUVBN2dOU3RLeFkwODlzNjhLTzVFbXI3dkpXOUtNdk4tMDdzMjJ6UkxhQUo5c3RFTDBEN01yZ3NSOXBabzZKRUdjbmU5U0k0akdFdHhI",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792469465.0
-    },
-    {
-        "id": "ca62b63890",
-        "title_fa": "احتمال تمدید آتش‌بس موقت میان آمریکا و ایران",
-        "title_en": "US and Iran Weigh Extending Their Ceasefire by Two Weeks",
-        "summary": [
-            "مذاکرات پشت پرده برای تمدید دو هفته‌ای آتش‌بس جریان دارد.",
-            "طرفین به دنبال خرید زمان برای مدیریت تنش‌های منطقه‌ای هستند."
-        ],
-        "impact": "کاهش موقت ریسک‌های امنیتی و تنفس مصنوعی به بازار ارز در صورت تایید نهایی.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlB2U04tVC14V2JzSnNYZFRVVDZZWEFnd3ZhY1BrSml2SlFidU1mZjNhQmpmU0w5TmtqMzlGNUc2amQ3QlZMcVc1dUFpWldRUDZWakhBRFA5V09BTXpFUzFiajZ1UGplS3BPcWlBUE5GMDJMR1ZJSTM0eU0yckd4VnUxSlFDUzZfLUlSeGtWN1Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlB2U04tVC14V2JzSnNYZFRVVDZZWEFnd3ZhY1BrSml2SlFidU1mZjNhQmpmU0w5TmtqMzlGNUc2amQ3QlZMcVc1dUFpWldRUDZWakhBRFA5V09BTXpFUzFiajZ1UGplS3BPcWlBUE5GMDJMR1ZJSTM0eU0yckd4VnUxSlFDUzZfLUlSeGtWN1Q",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792469213.0
     }
 ]
