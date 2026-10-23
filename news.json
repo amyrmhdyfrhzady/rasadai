@@ -309,6 +309,25 @@
         "timestamp": 1792694399.0
     },
     {
+        "id": "11cbca0976",
+        "title_fa": "سقوط صادرات نفت قاچاق به چین و حمله لفظی تهران به آژانس",
+        "title_en": "Iran accuses IAEA of 'discriminatory treatment' and politicization",
+        "summary": [
+            "تهران هم‌زمان با افت شدید فروش نفت به چین، با متهم کردن آژانس اتمی به رفتار سیاسی، تلاش می‌کند فشارها را منفعل کند.",
+            "آمارها نشان می‌دهد واردات نفت خامی که با نام مالزی به چین فروخته می‌شد به یک‌چهارم کاهش یافته؛ ضربه‌ای سنگین به شریان اصلی درآمد ارزی ج.ا.",
+            "افت چشمگیر خریدهای پکن از هراس تحریم‌های ثانویه خبر می‌دهد و مسدود شدن خطوط قاچاق، ج.ا را در تنگنای شدید مالی قرار داده است."
+        ],
+        "impact": "کاهش شدید ورودی درآمدهای نفتی و جهش کسری بودجه در تهران.",
+        "tag": "نفت و تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610237049",
+        "clean_url": "https://www.iranintl.com/en/202610237049",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792693380.0
+    },
+    {
         "id": "d5cf98b332",
         "title_fa": "فشار سنگین اقتصادی و اعتراف مقامات به آسیب‌پذیری",
         "title_en": "US proposes restrictions on investments in sensitive Iran technology sectors",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
         "image": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
         "timestamp": 1792465380.0
-    },
-    {
-        "id": "990a6503d2",
-        "title_fa": "پیوستن خبرنگار آمریکایی به یگان ویژه احمد در روسیه",
-        "title_en": "American national signs contract with Russian Defense Ministry's Akhmat commando unit",
-        "summary": [
-            "کریستوفر هلالی، خبرنگار و تفنگدار دریایی سابق آمریکایی با اصالت ایرانی و یونانی، قرارداد نظامی با یگان احمد وابسته به وزارت دفاع روسیه امضا کرد.",
-            "این فرد که درخواست شهروندی روسیه را داده، پس از طی دوره آموزشی در ارتش این کشور مشغول به خدمت شد."
-        ],
-        "impact": "استفاده تبلیغاتی مسکو از مهره‌های غربی برای جنگ روانی علیه واشنگتن.",
-        "tag": "نظامی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/defense/2204557",
-        "clean_url": "https://tass.com/defense/2204557",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792464000.0
     }
 ]
