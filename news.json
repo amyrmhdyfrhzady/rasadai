@@ -147,6 +147,24 @@
         "timestamp": 1792745700.0
     },
     {
+        "id": "97cccdc08c",
+        "title_fa": "خسارت‌های زیست‌محیطی جنگ بر آب‌های منطقه",
+        "title_en": "The Iran war’s toxic impact on one of the planet’s most unique seas",
+        "summary": [
+            "تنش‌های نظامی آسیب‌های جبران‌ناپذیری به یکی از حساس‌ترین دریاهای کره زمین وارد کرده است.",
+            "آلودگی‌های ناشی از درگیری‌ها حیات اکوسیستم دریایی را به شدت تهدید می‌کند."
+        ],
+        "impact": "تخریب گسترده محیط زیست دریایی به دلیل تداوم درگیری‌ها و فعالیت‌های نظامی.",
+        "tag": "محیط زیست",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4WXQxN2NWb0E3d2R1bTFXOVFieEN3LWcxSlhLWFpvOFpsUVpVT0ZxWVhfUVpwNWlPY0tYV2NKcV9CUV95MFlPNEVaMW93MjRHbWxtZ2dBbTJ0bGFxY1JPNTltbHM0aFRzUnN3aXV4ZE1qN29yWlhsU3RSS05TUFlUOUg2anBw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4WXQxN2NWb0E3d2R1bTFXOVFieEN3LWcxSlhLWFpvOFpsUVpVT0ZxWVhfUVpwNWlPY0tYV2NKcV9CUV95MFlPNEVaMW93MjRHbWxtZ2dBbTJ0bGFxY1JPNTltbHM0aFRzUnN3aXV4ZE1qN29yWlhsU3RSS05TUFlUOUg2anBw",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792745217.0
+    },
+    {
         "id": "d83b8b6148",
         "title_fa": "تردید کارشناسان درباره توانایی اسرائیل برای تغییر رژیم در ای...ران",
         "title_en": "Experts Question Israel’s Ability to Achieve Regime change in Iran",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xUFR1SjYxVlJxRjFRWW5hRWFKS3pHUjVueEdpUGt5bndEdzZmeElBaE5iUlYwS0pwbHZPYVU0MzdBaTFQdnJIMlBSQTJHNFNEVDYxMkFn",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792478831.0
-    },
-    {
-        "id": "26c808bb94",
-        "title_fa": "تشدید حملات جـ.ـیش‌الـ.ـعدل و ناامنی در مرزهای شرقی",
-        "title_en": "Iran faces rising threat as Baloch rebels step up attacks amid regional war pressure",
-        "summary": [
-            "گروه‌های مخالف مسلح در سیستان و بلوچستان عملیات‌های خود را علیه نیروهای حکومتی به شدت افزایش داده‌اند.",
-            "فشار جنگ منطقه‌ای باعث شده تا جبهه داخلی جـ.ـمهوری اسـ.ـلامی در مرزهای شرقی آسیب‌پذیرتر از همیشه شود."
-        ],
-        "impact": "گسترش درگیری‌های مرزی تمرکز امنیتی تهران را در اوج تنش‌های منطقه‌ای به شدت کاهش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-faces-rising-threat-as-baloch-rebels-step-up-attacks-amid-regional-war-pressure/ar-AA2fF2QF",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-faces-rising-threat-as-baloch-rebels-step-up-attacks-amid-regional-war-pressure/ar-AA2fF2QF",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792477680.0
     }
 ]
