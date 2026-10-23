@@ -639,6 +639,24 @@
         "timestamp": 1792725000.0
     },
     {
+        "id": "4ca71f248f",
+        "title_fa": "جهش قیمت نفت برنت به بالای ۱۱۴ دلار",
+        "title_en": "Price of Brent oil up above $114 per barrel on ICE first since May",
+        "summary": [
+            "بهای معاملات آتی نفت برنت برای نخستین بار از ماه می، از مرز ۱۱۴ دلار عبور کرد.",
+            "نفت وست تگزاس اینترمدیت نیز با جهش نزدیک به چهار درصدی به کانال صد دلاری پا گذاشت."
+        ],
+        "impact": "افزایش درآمدهای نفتی جمهوری اسلامی همزمان با تشدید فشار تورمی و بحران شدید اقتصادی در کشور.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2206629",
+        "clean_url": "https://tass.com/economy/2206629",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792724820.0
+    },
+    {
         "id": "cb426c7c1d",
         "title_fa": "نشست امنیتی پاتوق‌های منطقه‌ای با اروپا برای مهار جـ.ـهوری اسلامی",
         "title_en": "Iran’s two main mobile operators raise internet tariffs by up to 40%",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://tass.com/society/2204885",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1792490520.0
-    },
-    {
-        "id": "f4d135fbc6",
-        "title_fa": "سفر فرمانده ارتش پاکستان به تهران در اوج تنش‌ها",
-        "title_en": "Pakistan’s army chief arrives in Tehran amid US-Iran tensions",
-        "summary": [
-            "رئیس ارتش پاکستان برای دیدار با مقامات ارشد جـمـهـورۍ اسـلامـۍ وارد تهران شد.",
-            "این سفر در سایه افزایش تنش‌های میان واشنگتن و تهران انجام گرفته و اهداف پشت پرده‌ای دارد."
-        ],
-        "impact": "اسلام‌آباد تلاش می‌کند نقش میانجی را در بحران‌های منطقه‌ای ایفا کند.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlVWOVI5YmxfQ2tucDJXdGN2c1MwOU43X3dqYUkzemgzdHRlc2FLeDV4NGFTb1NLcloxQWtoNXFWZ0MxSUlFWDZFTVY2WmFISnUtckI5XzF4OGpubzhmUUM3Q1pOZG1JcnRYZVRUVi1EMk5CTDI1bk9hVjBHdWtIeDdaYmE5VU5veHBpQ0ZuNmhPakVNd0RadkdfTFZQS19fT0tvOUJBejNyVzMzZ0htT2ZBSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlVWOVI5YmxfQ2tucDJXdGN2c1MwOU43X3dqYUkzemgzdHRlc2FLeDV4NGFTb1NLcloxQWtoNXFWZ0MxSUlFWDZFTVY2WmFISnUtckI5XzF4OGpubzhmUUM3Q1pOZG1JcnRYZVRUVi1EMk5CTDI1bk9hVjBHdWtIeDdaYmE5VU5veHBpQ0ZuNmhPakVNd0RadkdfTFZQS19fT0tvOUJBejNyVzMzZ0htT2ZBSQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792490476.0
     }
 ]
