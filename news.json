@@ -858,6 +858,24 @@
         "timestamp": 1792733340.0
     },
     {
+        "id": "07ddd77457",
+        "title_fa": "آخرین اخبار و تحولات پیرامون دونالد ترامپ",
+        "title_en": "Donald Trump",
+        "summary": [
+            "پوشش جدیدترین مواضع و برنامه‌های سیاسی دونالد ترامپ توسط رسانه‌ها",
+            "رصد مستمر تصمیمات تیم ترامپ و تاثیر آن بر معادلات بین‌المللی"
+        ],
+        "impact": "این اخبار جهت‌گیری‌های آتی سیاست خارجی ایالات متحده را شکل می‌دهد.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Hill",
+        "url": "https://thehill.com/people/donald-trump/",
+        "clean_url": "https://thehill.com/people/donald-trump",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792733220.0
+    },
+    {
         "id": "ca5ac973a3",
         "title_fa": "شکسته شدن تحریم‌ها؛ ورود نفتکش روسی به آمریکا",
         "title_en": "Russian diesel tanker heads to the U.S., the first since Trump’s deal with Putin",
@@ -5460,24 +5478,5 @@
         "clean_url": "https://www.iranintl.com/en/202610205447",
         "image": "http://www.bing.com/th?id=ONUT.Jvo0VAcYTZbs04wFyh99Ig&pid=News",
         "timestamp": 1792515120.0
-    },
-    {
-        "id": "d2e2fba694",
-        "title_fa": "رایزنی نتانیاهو و ترامپ برای پایان کار جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
-        "title_en": "Netanyahu says he and Trump discussed eliminating the Islamic Republic",
-        "summary": [
-            "نخست‌وزیر اسرائیل حکومت ایران را سر هشت‌پای تروریسم نامید و بر لزوم سرنگونی آن تأکید کرد.",
-            "نتانیاهو فاش کرد که طی گفتگوهای متعدد با دونالد ترامپ، موضوع براندازی حکومت را بررسی کرده است.",
-            "اسرائیل معتقد است تا زمانی که این حکومت سر پا باشد، تلاش برای دستیابی به سلاح اتمی و بازسازی گروه‌های نیابتی متوقف نخواهد شد."
-        ],
-        "impact": "افزایش هماهنگی‌های پشت پرده واشنگتن و تل‌آویو برای ضربه نهایی به ساختار سیاسی حاکم بر ایران.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610206312",
-        "clean_url": "https://www.iranintl.com/en/202610206312",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792513800.0
     }
 ]
