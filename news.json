@@ -1,5 +1,23 @@
 [
     {
+        "id": "ad2be35f04",
+        "title_fa": "رکوردشکنی حملات به کشتی‌ها در تنگه هرمز",
+        "title_en": "UPDATES: US War on Iran, Day 239 - Attacks on Shipping in Strait Of Hormuz Highest Since March",
+        "summary": [
+            "آمارها نشان می‌دهد ناامنی در مسیرهای حیاتی انرژی در تنگه هرمز به بالاترین حد از ماه مارس رسیده است.",
+            "این تنش‌های دریایی هزینه لجستیک و بیمه نفتکش‌ها را به شدت بالا برده و بازار انرژی را متشنج کرده است."
+        ],
+        "impact": "اختلال جدی در امنیت تردد دریایی و جهش قیمت حامل‌های انرژی در بازارهای جهانی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "EA WorldView",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGFPalEwcG1TVkVNMGx6N18wbzN2WUxScnNOQkFLRE5yakViZFU5NzFJRzNqU0pTakp4bUlVY1d5bzRDYnBPQ1FSbUtSdjJ0RWZQRm82YVE1MmhNbW5FdVNHUWtHUG04dFNkQnhnLUZyanJrWXNuMVQwRHFFTUVrTko0NDZKNGtk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGFPalEwcG1TVkVNMGx6N18wbzN2WUxScnNOQkFLRE5yakViZFU5NzFJRzNqU0pTakp4bUlVY1d5bzRDYnBPQ1FSbUtSdjJ0RWZQRm82YVE1MmhNbW5FdVNHUWtHUG04dFNkQnhnLUZyanJrWXNuMVQwRHFFTUVrTko0NDZKNGtk",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792732001.0
+    },
+    {
         "id": "bd0765bb0a",
         "title_fa": "آمادگی آمریکا برای تقابل طولانی با جـ.ـهـ.ـوری اسـ.ـلامی",
         "title_en": "US is prepared for long stand-off with Iran, says Trump envoy",
@@ -5465,24 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ub0xLZ2pPekM1czRrR0FUVjF5YkgydlptSkNvX3B0UjZKSjhiT3Y2cm44YVlSRi05TEdlUnhwOWRHNHk1bUVicUEyZHc3WWlkWVE",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792460297.0
-    },
-    {
-        "id": "7c868730fd",
-        "title_fa": "فلج شدن صادرات نفت ج-مهورۍ اسل-امی با فشار حداکثری",
-        "title_en": "'No more oil on the water': Bessent says Iran's economic isolation is working",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا اعلام کرد بارگیری نفت در پایانه خارگ از ماه اوت متوقف شده است.",
-            "فشار اقتصادی واشنگتن به نقطه بحرانی رسیده و اقتصاد ج-مهورۍ اسل-امی در آستانه فروپاشی غیرخطی است.",
-            "مرزهای تجاری ایران و پاکستان نیز به دلیل بحران‌های امنیتی و فنی به حالت تعلیق درآمده‌اند."
-        ],
-        "impact": "قطع کامل درآمدهای نفتی، اقتصاد حکومت را به سمت سقوط آزاد هدایت می‌کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610206444",
-        "clean_url": "https://www.iranintl.com/en/202610206444",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792459620.0
     }
 ]
