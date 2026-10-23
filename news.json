@@ -201,6 +201,25 @@
         "timestamp": 1792726200.0
     },
     {
+        "id": "1203fb769b",
+        "title_fa": "ادعای بانک مرکزی درباره کفایت ذخایر ارزی تا پایان دوره ترامپ",
+        "title_en": "ادعای همتی: ذخایر ارزی ایران برای تأمین واردات تا پایان ریاست‌جمهوری ترامپ کافی است",
+        "summary": [
+            "عبدالناصر همتی مدعی شد ذخایر ارزی کشور برای تأمین واردات تا پایان ریاست‌جمهوری دونالد ترامپ کافی است.",
+            "هیچ رقم مشخصی از میزان واقعی ذخایر قابل دسترس در دوران تحریم ارائه نشده است.",
+            "گزارش‌های میدانی از کاهش تجارت خارجی و سختی واردات کالا حکایت دارند."
+        ],
+        "impact": "تلاش برای آرام کردن بازار ارز با ادعاهای بدون پشتوانه آماری در اوج فشارهای تحریمی.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/iran-hemmati-forex-reserves-trump-economic-pressure/33882859.html",
+        "clean_url": "https://www.radiofarda.com/a/iran-hemmati-forex-reserves-trump-economic-pressure/33882859.html",
+        "image": "http://www.bing.com/th?id=ONUT.zdBm3CyV-huuyHYW7Wg0cw&pid=News",
+        "timestamp": 1792725600.0
+    },
+    {
         "id": "fbf57fc559",
         "title_fa": "نشست امنیتی استانبول؛ ائتلاف منطقه‌ای و اروپایی علیه بحران‌های نیابتی",
         "title_en": "Supreme Leader continues running Iran amid wartime limits, IRGC representative says",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://www.eleconomista.com.mx/internacionales/iran-le-dice-enviado-paquistani-habra-conversacion-eu-cumplen-exigencias-20261020-839563.html",
         "image": "http://www.bing.com/th?id=ONUT._riYT6dCwyzI6DuLNZcqoA&pid=News",
         "timestamp": 1792474980.0
-    },
-    {
-        "id": "6d2876121a",
-        "title_fa": "پافشاری تهران بر حفظ مواد هسته‌ای در داخل کشور",
-        "title_en": "Iran security chief rejects moving enriched uranium out of country",
-        "summary": [
-            "دبیر شورای عالی امنیت ملی اعلام کرد هیچ مقدار از مواد غنی‌شده از کشور خارج نمی‌شود.",
-            "مقام‌های ارشد نظام شرط شروع هرگونه مذاکره را اجرای تعهدات و اعتمادسازی از سوی آمریکا می‌دانند."
-        ],
-        "impact": "بسته شدن مسیر توافق موقت و افزایش ریسک شکست دیپلماسی هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Korea Times",
-        "url": "https://www.koreatimes.co.kr/world/20261021/iran-security-chief-rejects-moving-enriched-uranium-out-of-country",
-        "clean_url": "https://www.koreatimes.co.kr/world/20261021/iran-security-chief-rejects-moving-enriched-uranium-out-of-country",
-        "image": "http://www.bing.com/th?id=ONUT.L74UXT7IaQ0JgpA1k2A9mQ&pid=News",
-        "timestamp": 1792474320.0
     }
 ]
