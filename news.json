@@ -256,6 +256,24 @@
         "timestamp": 1792753020.0
     },
     {
+        "id": "a85582db6d",
+        "title_fa": "شمارش معکوس ترامپ برای حمله به جـ.م. پس از انتخابات",
+        "title_en": "Iran just got handed a new countdown: Trump is weighing several days of fresh strikes once the midterms are over, reports say",
+        "summary": [
+            "کاخ سفید حملات نظامی را تا زمان برگزاری انتخابات میان‌دوره متوقف نگه داشته است.",
+            "گزارش‌ها حاکی از آن است که ترامپ برنامه‌ریزی برای چند روز حمله تازه را روی میز دارد."
+        ],
+        "impact": "احتمال بالای حملات سنگین نظامی به اهداف وابسته به جـ.م. پس از فروکش کردن فضای انتخاباتی آمریکا.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-new-countdown-trump-is-weighing-several-days-of-fresh-strikes-once-the-midterms-are-over-reports-say/ar-AA2fWuSk",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-new-countdown-trump-is-weighing-several-days-of-fresh-strikes-once-the-midterms-are-over-reports-say/ar-AA2fWuSk",
+        "image": "http://www.bing.com/th?id=ONUT.lhwzFlhlUuF-WmVS1Ob-2Q&pid=News",
+        "timestamp": 1792752940.0
+    },
+    {
         "id": "8754048679",
         "title_fa": "آمادگی ایالات متحده برای حملات بزرگ جدید علیه ج.ا",
         "title_en": "Signs point to renewed major US military ops against Iran",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeHlPclJEZy05SU15UTJhRkZYS1RQQzVVUmFZU0NJNmRKWkpPNzBHTnNUNE1JOER1TmtlU3FMVTJBLW1pTjRIQy1kb1c5eXl1NXFnRDVNNTd6dTQ1TklEd2pWM3hiWjhKdGRCeG1oMEFQUEZVMTE4bGc2WG9wRmhqLUM5WVczMTV5b1U0b0ZsaWVaMm1rNTVBTVV4djFPX252ek4weVlMSnQ3djh6SUtpMXg0YUE4ZmRjemZWOTI2M21oSTlKQngtTHNQczlObjhaYW84bVh6bER4SUdMWXBlMXJwNTRYWGtWdnYw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792504431.0
-    },
-    {
-        "id": "2d56c3c60a",
-        "title_fa": "احضار سفیر آلمان به دنبال افشای طرح‌های تروریستی در اروپا",
-        "title_en": "Irán convoca al embajador alemán tras acusaciones de espionaje y planes de atentados",
-        "summary": [
-            "وزارت خارجه ج.ا سفیر آلمان را در واکنش به اتهامات جاسوسی و برنامه‌ریزی برای حمله به اهداف یهودی احضار کرد.",
-            "تهران این اتهامات را بی‌اساس خوانده و آن را به فضاسازی‌های اسرائیل و غرب نسبت داد."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک میان تهران و برلین بر سر فعالیت‌های خرابکارانه برون‌مرزی",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Infobae",
-        "url": "https://www.infobae.com/america/agencias/2026/10/20/iran-convoca-al-embajador-aleman-tras-acusaciones-de-espionaje-y-planes-de-atentados/",
-        "clean_url": "https://www.infobae.com/america/agencias/2026/10/20/iran-convoca-al-embajador-aleman-tras-acusaciones-de-espionaje-y-planes-de-atentados",
-        "image": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "timestamp": 1792503120.0
     }
 ]
