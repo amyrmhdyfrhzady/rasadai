@@ -201,6 +201,24 @@
         "timestamp": 1792752480.0
     },
     {
+        "id": "6f8e0848f2",
+        "title_fa": "بانک مرکزی روسیه: مسیر کاهش نرخ بهره باریک‌تر شد",
+        "title_en": "Space for key rate cuts remains — Central Bank chief",
+        "summary": [
+            "رئیس بانک مرکزی روسیه اعلام کرد که فضای مانور برای کاهش نرخ بهره در سال آینده بسیار محدود شده است.",
+            "تداوم کسری بودجه دولت، سیاست‌های انقباضی و نرخ تورم بالا، بانک مرکزی را ناچار به حفظ شرایط سخت پولی کرده است."
+        ],
+        "impact": "فشار بیشتر بر اقتصاد روسیه و سخت‌تر شدن شرایط تامین مالی برای کسب‌وکارها.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2207115",
+        "clean_url": "https://tass.com/economy/2207115",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261023/1490833.jpg",
+        "timestamp": 1792751160.0
+    },
+    {
         "id": "3375af2d95",
         "title_fa": "واشنگتن پست: پایداری حکومت در برابر فشارهای خارجی",
         "title_en": "Opinion | Iran is not bowing to pressure",
@@ -418,6 +436,24 @@
         "clean_url": "https://blogs.timesofisrael.com/how-irans-hidden-military-footprint-is-draining-the-water-resources",
         "image": "http://www.bing.com/th?id=ONUT._hBmjIdqxOF_25VKQKpoNg&pid=News",
         "timestamp": 1792743960.0
+    },
+    {
+        "id": "c5f4cce40a",
+        "title_fa": "فلج شدن آسمان مسکو؛ تعطیلی تمامی فرودگاه‌های پایتخت روسیه",
+        "title_en": "All Moscow airports suspend aircraft arrivals, departures — Federal Air Transport Agency",
+        "summary": [
+            "سازمان هواپیمایی روسیه از برقراری محدودیت‌های کامل پروازی در چهار فرودگاه اصلی مسکو خبر داد.",
+            "این تصمیم اضطراری در پی تهدیدات امنیتی و احتمال حملات پهپادی در آسمان این کشور اتخاذ شده است."
+        ],
+        "impact": "اختلال گسترده در حمل‌ونقل هوایی مسکو و فلج شدن سفرهای داخلی و خارجی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2207021",
+        "clean_url": "https://tass.com/economy/2207021",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792741560.0
     },
     {
         "id": "2c8d8d704a",
@@ -5444,41 +5480,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fRldidlh1SUlYbTRXYndiWkZGVE5FN2pLQnVZZ3NCaHhza2pJNTh0OVFmT1hhb2ZXcXRBV0cydlVWZ3c4eTloZkh5QXJ5Y3hGbFE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792494593.0
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "نوسانات روزانه قیمت سوخت در ایالات متحده",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "رصد لحظه‌ای قیمت بنزین در ایالت‌ها و شهرستان‌های مختلف آمریکا",
-            "بررسی آماری تغییرات هزینه‌های سوخت بر اساس داده‌های جدید رسانه‌ای"
-        ],
-        "impact": "بازتاب مستقیم قیمت سوخت بر هزینه‌های جاری شهروندان آمریکایی",
-        "tag": "اقتصادی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792491553.0
-    },
-    {
-        "id": "414740b610",
-        "title_fa": "چرخش دیپلماتیک دستگاه خارجه ج.ا همزمان با نوسان نفت",
-        "title_en": "Iran's Foreign Ministry suggested that the country favous diplomacy, though crude benchmarks continued to move higher; GBP gains post-jobs data",
-        "summary": [
-            "وزارت خارجه ج.ا از تمایل به دیپلماسی خبر داده است.",
-            "قیمت نفت در بازارهای جهانی همچنان روند صعودی دارد."
-        ],
-        "impact": "تلاش برای کاهش تنش‌های سیاسی همزمان با التهاب در بازارهای انرژی",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "China Tech News",
-        "url": "https://www.chinatechnews.com/2026/10/20/131113-irans-foreign-ministry-suggested-that-the-country-favous-diplomacy-though-crude-benchmarks-continued-to-move-higher-gbp-gains-post-jobs-data-newsquawk-us-market-open",
-        "clean_url": "https://www.chinatechnews.com/2026/10/20/131113-irans-foreign-ministry-suggested-that-the-country-favous-diplomacy-though-crude-benchmarks-continued-to-move-higher-gbp-gains-post-jobs-data-newsquawk-us-market-open",
-        "image": "https://www.chinatechnews.com/wp-content/uploads/chinatechnews-logo-1200x675-1.png",
-        "timestamp": 1792491480.0
     }
 ]
