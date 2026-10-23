@@ -220,6 +220,25 @@
         "timestamp": 1792772340.0
     },
     {
+        "id": "324dd14106",
+        "title_fa": "حمایت نتانیاهو از شهرک‌نشینان در سایه افزایش خشونت‌ها",
+        "title_en": "Emboldened Israeli Settlers Lead a Surge of Attacks on Palestinians' Olive Harvest",
+        "summary": [
+            "حملات شهرک‌نشینان مسلح به کشاورزان و باغ‌های زیتون فلسطینی در کرانه باختری به شدت افزایش یافته است.",
+            "بنیامین نتانیاهو با حمایت آشکار از این اقدامات، شهرک‌نشینان را قهرمان خوانده و بر توسعه شهرک‌ها پافشاری می‌کند.",
+            "این خشونت‌ها در آستانه انتخابات و با وجود انتقادات بین‌المللی، بحران در اراضی اشغالی را عمیق‌تر کرده است."
+        ],
+        "impact": "تشدید تنش‌ها در کرانه باختری و افزایش فشارهای بین‌المللی بر دولت اسرائیل.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5332827-emboldened-israeli-settlers-lead-surge-attacks-palestinians’-olive-harvest",
+        "clean_url": "https://english.aawsat.com/arab-world/5332827-emboldened-israeli-settlers-lead-surge-attacks-palestinians’-olive-harvest",
+        "image": "https://static.srpcdigital.com/2026-10/1843115.jpeg?VersionId=_EMF.yn5yDd.w5nUH5hq61gDe7bHzZli",
+        "timestamp": 1792771980.0
+    },
+    {
         "id": "d858f0cb07",
         "title_fa": "آماده‌باش کامل ارتش در پی ناامنی‌های تنگه هرمز",
         "title_en": "Iran puts army on highest alert as Hormuz tanker strikes mount",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://www.iranintl.com/en/202610205722",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792515300.0
-    },
-    {
-        "id": "15bc75a75d",
-        "title_fa": "نتانیاهو: سرنگونی حـکومـت ایـران هدف اصلی ماست",
-        "title_en": "Iraqi PM orders closure of border crossing with Iran",
-        "summary": [
-            "بنیامین نتانیاهو در سخنرانی اخیر خود بر ضرورت براندازی تشکیلات حـکومـتی ایـران تأکید کرد و آن را شرط اصلی امنیت پایدار دانست.",
-            "او تهران را به عنوان سر مار و مرکز شبکه نیابتی توصیف کرد که تضعیف نظامی‌اش کافی نیست و باید کاملاً ساقط شود."
-        ],
-        "impact": "افزایش شدید تنش‌های منطقه‌ای و سیگنال‌دهی تل‌آویو برای ورود به فاز نهایی تقابل با جی‌اس‌آر.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610205447",
-        "clean_url": "https://www.iranintl.com/en/202610205447",
-        "image": "http://www.bing.com/th?id=ONUT.Jvo0VAcYTZbs04wFyh99Ig&pid=News",
-        "timestamp": 1792515120.0
     }
 ]
