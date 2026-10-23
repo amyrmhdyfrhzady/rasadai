@@ -1,5 +1,23 @@
 [
     {
+        "id": "00645712e7",
+        "title_fa": "حملات پهپادی به عربستان و تهدید پایگاه‌های آمریکا",
+        "title_en": "Iran's IRGC threatens to target US bases if commercial ships continue transiting Strait of Hormuz",
+        "summary": [
+            "نیروهای نیابتی حوثی مسئولیت حمله مرگبار به فرودگاه بین‌المللی ملک فهد و تاسیسات آرامکو را بر عهده گرفتند.",
+            "همزمان با این حملات، عوامل وابسته به سِپاه تهدید کردند که اگر کشتی‌های تجاری به تردد در تنگه هرمز ادامه دهند، پایگاه‌های آمریکا هدف قرار خواهند گرفت."
+        ],
+        "impact": "افزایش شدید ریسک امنیت انرژی و بالا رفتن احتمال درگیری مستقیم نظامی در منطقه خلیج فارس.",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/556f8128d805a1ed878807dd0596b183.jpg",
+        "timestamp": 1792711080.0
+    },
+    {
         "id": "3cc3d47e72",
         "title_fa": "خطای امنیتی سایت اتلانتیک در باز کردن خبر ترامپ",
         "title_en": "Trump's Gamble to End the Iran War",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://stocktwits.com/news-articles/markets/equity/djt-stock-plummets-to-new-lows-trump-appeal-fades-as-2026-midterms-draw-closer/cZxqkEaRBuf",
         "image": "http://www.bing.com/th?id=ONUT.HyHlDaDAotWg-Kln4PQQCg&pid=News",
         "timestamp": 1792448040.0
-    },
-    {
-        "id": "4416f157ff",
-        "title_fa": "خط قرمز صریح ترامپ: غنی‌سازی صفر اورانیوم در ایران",
-        "title_en": "Iran mission creep starts with 'meaningful reduction'",
-        "summary": [
-            "دونالد ترامپ هرگونه مصالحه بر سر حفظ غنی‌سازی در ایران را رد کرده و خواهان توقف کامل چرخه سوخت هسته‌ای است.",
-            "هدف راهبردی واشنگتن برچیدن کامل تاسیسات اتمی است، نه تن دادن به تعلیق موقت یا بازرسی‌های مقطعی.",
-            "اصرار بر غنی‌سازی صفر، راهبرد دستیابی به توافق‌های نیمه‌کاره یا احیای مدل برجام را به بن‌بست کشانده است."
-        ],
-        "impact": "بسته‌شدن مسیر هرگونه توافق بینابینی و افزایش احتمال تنش مستقیم بر سر پرونده اتمی.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Washington Examiner",
-        "url": "https://www.msn.com/en-us/news/other/iran-mission-creep-starts-with-meaningful-reduction/ar-AA2fEFoV",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-mission-creep-starts-with-meaningful-reduction/ar-AA2fEFoV",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bQ3Df.img?w=1024&h=682&m=4&q=100",
-        "timestamp": 1792447200.0
     }
 ]
