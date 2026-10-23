@@ -273,6 +273,24 @@
         "timestamp": 1792750704.0
     },
     {
+        "id": "678656d57b",
+        "title_fa": "رشد بورس مسکو همزمان با اوج‌گیری بهای نفت",
+        "title_en": "Russian stock market closed in the green — market data",
+        "summary": [
+            "شاخص اصلی بورس مسکو با رشد ۱.۴۵ درصدی به کار خود پایان داد.",
+            "ارزش روبل در برابر یوآن چین تقویت شد و نفت همچنان در بالاترین قیمت‌های چند ماه گذشته معامله می‌شود."
+        ],
+        "impact": "تقویت موقت بازارهای مالی روسیه به لطف جهش قیمت جهانی نفت.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2207141",
+        "clean_url": "https://tass.com/economy/2207141",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792749660.0
+    },
+    {
         "id": "e58259cb8a",
         "title_fa": "همکاری امنیتی واشنگتن و تل‌آویو برای مهار تسلیحات ج.ه.",
         "title_en": "US, Israel Strategize against Iran Weapons Advances; PM Closes West Bank after Pre-Election Terrorism",
@@ -5459,24 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792502279.0
-    },
-    {
-        "id": "7066d2a0cb",
-        "title_fa": "ترامپ: دو گزینه روی میز برای برخورد با ایران داریم",
-        "title_en": "Trump says US weighing two options to defeat Iran",
-        "summary": [
-            "دونالد ترامپ در کاخ سفید اعلام کرد آمریکا باید تصمیم بگیرد که روش مسالمت‌آمیز یا سخت را برای مهار حکومت ایران انتخاب کند.",
-            "بنیامین نتانیاهو سرنگونی حاکمیت تهران را هدف اصلی تل‌آویو خواند و از رایزنی فشرده با مقامات ارشد آمریکا در این باره خبر داد.",
-            "ترامپ تأکید کرد که کشورهای اروپایی از همراهی با آمریکا در این پرونده سر باز زده‌اند اما واشنگتن نیازی به کمک آن‌ها ندارد."
-        ],
-        "impact": "افزایش شدید فشارهای سیاسی و نظامی واشنگتن و تل‌آویو علیه ساختار حاکم بر ایران",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610200308",
-        "clean_url": "https://www.iranintl.com/en/202610200308",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792502220.0
     }
 ]
