@@ -1,5 +1,24 @@
 [
     {
+        "id": "6ef973a43a",
+        "title_fa": "هراس بغداد از ورود گروهک‌های مسلح به جنگ احتمالی",
+        "title_en": "Baghdad Fears Armed Factions Could Join Potential US-Iran War",
+        "summary": [
+            "دولت عراق برای مهار شبه‌نظامیان وابسته به ایران با چالش جدی روبروست.",
+            "گزارش‌ها از احتمال حملات مجدد به ایران پس از انتخابات آمریکا حکایت دارند.",
+            "بغداد نگران است که فعالیت این گروه‌ها کشور را به یک جنگ منطقه‌ای بکشاند."
+        ],
+        "impact": "افزایش ریسک امنیتی در عراق و احتمال از کنترل خارج شدن مناطق مرزی.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5332874-baghdad-fears-armed-factions-could-join-potential-us-iran-war",
+        "clean_url": "https://english.aawsat.com/arab-world/5332874-baghdad-fears-armed-factions-could-join-potential-us-iran-war",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-10/1843379_0.jpeg.webp?VersionId=s0my5wfwdq1AAtmgoisRtdN9080.ymjt",
+        "timestamp": 1792778400.0
+    },
+    {
         "id": "8488bae5f2",
         "title_fa": "هشدار به آمریکا و اسرائیل برای پرهیز از حمله به ایران",
         "title_en": "US and Israel are warned against launching fresh strikes on Iran",
@@ -5462,24 +5481,5 @@
         "clean_url": "https://www.msn.com/en-ae/news/other/can-trump-s-endorsement-boost-netanyahu-s-election-chances/ar-AA2fEnvW",
         "image": "https://static.srpcdigital.com/2026-10/1836658.jpeg?VersionId=6AG.Jb3ABKmglGaByBfk2gvUEWQD5OcM",
         "timestamp": 1792490565.0
-    },
-    {
-        "id": "7f1686d2a5",
-        "title_fa": "مصادره املاک روسیه در نروژ به سود اوکراین",
-        "title_en": "Norwegian court confiscates five Russian real estate properties in Oslo — paper",
-        "summary": [
-            "دادگاهی در نروژ حکم مصادره پنج ملک متعلق به دولت روس را صادر کرد.",
-            "این اقدام به دنبال شکایت شرکت انرژی اوکراینی نفت‌گاز به دلیل خسارت‌های جنگ انجام شد.",
-            "ارزش کل دعوای حقوقی با احتساب جریمه و هزینه‌ها به بیش از شش میلیارد دلار رسیده است."
-        ],
-        "impact": "تشدید فشارهای حقوقی و مالی اروپا بر دارایی‌های دولتی مسکو.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/society/2204885",
-        "clean_url": "https://tass.com/society/2204885",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792490520.0
     }
 ]
