@@ -785,6 +785,25 @@
         "timestamp": 1792743960.0
     },
     {
+        "id": "85a35c462a",
+        "title_fa": "سایه جنگ؛ احتمال اقدام نظامی آمریکا علیه ج.ا پس از انتخابات",
+        "title_en": "Will the United States Attack Iran After the Midterms?",
+        "summary": [
+            "دونالد ترامپ بارها از احتمال اقدام قاطع نظامی علیه ج.ا صحبت کرده و زمان آن را به حوالی انتخابات میان‌دوره‌ای گره زده است.",
+            "پنتاگون با اعزام سه ناوگروه هواپیمابر به منطقه، آماده‌باش کامل نیروهای سنتکام را برای عملیات جنگی صادر کرده است.",
+            "بنیامین نتانیاهو فاش کرد که ترامپ به او گفته واشنگتن برای تمام کردن کار ج.ا کاملاً آماده است."
+        ],
+        "impact": "افزایش شدید ریسک نظامی در منطقه و به اوج رسیدن احتمال درگیری مستقیم.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/will-the-united-states-attack-iran-after-the-midterms",
+        "clean_url": "https://www.cfr.org/articles/will-the-united-states-attack-iran-after-the-midterms",
+        "image": "http://www.bing.com/th?id=ONUT.CQ9YaxFjAGshpm2PWMr-eg&pid=News",
+        "timestamp": 1792741740.0
+    },
+    {
         "id": "c5f4cce40a",
         "title_fa": "فلج شدن آسمان مسکو؛ تعطیلی تمامی فرودگاه‌های پایتخت روسیه",
         "title_en": "All Moscow airports suspend aircraft arrivals, departures — Federal Air Transport Agency",
@@ -5461,23 +5480,5 @@
         "clean_url": "https://jewishinsider.com/2026/10/war-iran-israeli-elections-u-s-midterms-threats-pete-hegseth",
         "image": "http://www.bing.com/th?id=ONUT.KMWEvHXAhWFDtwkROlXThQ&pid=News",
         "timestamp": 1792515600.0
-    },
-    {
-        "id": "f425ec5fe4",
-        "title_fa": "نتانیاهو: حذف جـ.ـهوری اسـ.ـلامی هدف اصلی تل‌آویو است",
-        "title_en": "Saudi, Kuwaiti FMs condemn Iran-backed Houthi attacks",
-        "summary": [
-            "نخست‌وزیر اسرائیل در سخنرانی خود در نزدیکی مرز لبنان، براندازی حکومت تهران را به عنوان اولویت نخست جنگ اعلام کرد.",
-            "نتانیاهو تاکید کرد که صرف تضعیف نظامی تهران کافی نیست و تا زمانی که این ساختار سر کار باشد، بازسازی هسته‌ای و نیابتی ادامه خواهد داشت."
-        ],
-        "impact": "افزایش ریسک امنیتی و سیگنال‌دهی برای تشدید حملات مستقیم به ارکان حکومتی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610205722",
-        "clean_url": "https://www.iranintl.com/en/202610205722",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792515300.0
     }
 ]
