@@ -458,6 +458,25 @@
         "timestamp": 1792757520.0
     },
     {
+        "id": "0efd2834dc",
+        "title_fa": "سایه حمله نظامی آمریکا و اسرائیل و برزخ افکار عمومی در ایران",
+        "title_en": "Iran, Russia, China among 12 states condemning attacks on nuclear facilities",
+        "summary": [
+            "رصد لحظه‌ای هشدارهای دونالد ترامپ و بنیامین نتانیاهو در جامعه، حاکی از افزایش چشمگیر انتظار ضربه مستقیم نظامی به تاسیسات کلیدی است.",
+            "شکاف در افکار عمومی شدت گرفته؛ بخشی پایان بن‌بست کنونی را حتی به بهای جنگ ترجیح می‌دهند و گروهی نگران نابودی زیرساخت‌های حیاتی و تشدید فروپاشی اقتصادی هستند.",
+            "بلاتکلیفی ناشی از احتمال وقوع درگیری، شریان‌های روزمره زندگی و برنامه‌ریزی اقتصادی مردم را به نقطه انجماد رسانده است."
+        ],
+        "impact": "تشدید رکود اقتصادی و توقف معاملات ملکی و سرمایه‌گذاری ناشی از قرار گرفتن جامعه در وضعیت انتظار جنگی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610248341",
+        "clean_url": "https://www.iranintl.com/en/202610248341",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792756800.0
+    },
+    {
         "id": "545ee1cbca",
         "title_fa": "بحران در تنگه هرمز و هشدار درباره درگیری جدید",
         "title_en": "US-Iran war, then and now: How the landscape has changed since February",
@@ -5462,23 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQXZCTF9HNzBubVFTN3UwVUNqN2J5Tjl1MVRadlJmMHlHSXhHR3VBSTJ2QThfU3BfTHV1blg4WHg0U2tJTEZ3YWpuSmhqRjJfZklFY1ZyMTlVMDVFc0lDR1B2TU5FRGZCLWpQdFBLOWNkRVNuN3ZN",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792519365.0
-    },
-    {
-        "id": "27d23e7c4c",
-        "title_fa": "بازداشت عوامل مرتبط با شبکه جاسوسی ج.ا در بریتانیا",
-        "title_en": "Breaking News Live Updates: I have spent, or will be spending, over 400 million dollars by election day, says Donald Trump",
-        "summary": [
-            "بازداشت مجدد دو نفر در بریتانیا به اتهام همکاری با اطلاعات ج.ا برای هدف قرار دادن پایگاه هوایی آمریکا، نشان‌دهنده فعال شدن شبکه‌های تروریستی در خاک اروپا است.",
-            "این اقدام نشان می‌دهد نهادهای امنیتی غرب در حال بستن حلقه محاصره بر فعالیت‌های برون‌مرزی ج.ا هستند."
-        ],
-        "impact": "افزایش فشارهای امنیتی و دیپلماتیک بر ج.ا در سطح بین‌المللی.",
-        "tag": "امنیتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/newsblogs/breaking-news-live-updates-parts-of-delhi-wake-up-to-smog-covered-skies-modi-trump-cjp-jaishankar/liveblog/135059441.cms",
-        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/breaking-news-live-updates-parts-of-delhi-wake-up-to-smog-covered-skies-modi-trump-cjp-jaishankar/liveblog/135059441.cms",
-        "image": "https://economictimes.indiatimes.com/thumb/msid-135059441,width-1200,height-900,resizemode-4,imglength-12578/news/newsblogs/breaking-news-live-updates-parts-of-delhi-wake-up-to-smog-covered-skies-modi-trump-cjp-jaishankar.jpg",
-        "timestamp": 1792518420.0
     }
 ]
