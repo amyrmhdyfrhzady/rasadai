@@ -183,6 +183,24 @@
         "timestamp": 1792784100.0
     },
     {
+        "id": "94d8532aea",
+        "title_fa": "هشدار اطلاعاتی آمریکا درباره توطئه‌های ترور ج.ا",
+        "title_en": "US intel warns Iran assassination plots have reached ‘advanced stages’",
+        "summary": [
+            "نهادهای اطلاعاتی آمریکا نسبت به ورود طرح‌های ترور حکومت ایران به مراحل پیشرفته هشدار داده‌اند.",
+            "جامعه ایران میان ترس از ویرانی ناشی از جنگ و امید به پایان دادن به این وضعیت دست‌به‌گریبان است."
+        ],
+        "impact": "افزایش فشارهای امنیتی و دیپلماتیک بر حکومت ایران و تشدید گمانه‌زنی‌ها درباره احتمال واکنش نظامی.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610241322",
+        "clean_url": "https://www.iranintl.com/en/202610241322",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792779900.0
+    },
+    {
         "id": "6ef973a43a",
         "title_fa": "هراس بغداد از ورود گروهک‌های مسلح به جنگ احتمالی",
         "title_en": "Baghdad Fears Armed Factions Could Join Potential US-Iran War",
@@ -5462,23 +5480,5 @@
         "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/breaking-news-live-updates-parts-of-delhi-wake-up-to-smog-covered-skies-modi-trump-cjp-jaishankar/liveblog/135059441.cms",
         "image": "https://economictimes.indiatimes.com/thumb/msid-135059441,width-1200,height-900,resizemode-4,imglength-12578/news/newsblogs/breaking-news-live-updates-parts-of-delhi-wake-up-to-smog-covered-skies-modi-trump-cjp-jaishankar.jpg",
         "timestamp": 1792518420.0
-    },
-    {
-        "id": "1435149727",
-        "title_fa": "هلاکت یک مقام ارشد سپاه در مرز عراق",
-        "title_en": "IRGC officer killed in Iran-Iraq border mountains as fighting with Kurdish opposition intensifies",
-        "summary": [
-            "درگیری‌های مسلحانه در مناطق کوهستانی مرزی غرب کشور بین نیروهای نظامی و مخالفان کرد شدت گرفته است.",
-            "این تلفات نشان‌دهنده آسیب‌پذیری مداوم نیروهای امنیتی در مناطق مرزی و چالش‌های جدی امنیتی حکومت است."
-        ],
-        "impact": "افزایش ناآرامی‌های مرزی، هزینه‌های امنیتی جمهوری اسلامی را در غرب کشور بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtcjBzUUx1SHUzUkVmX0ZHVC1PQmxOMFpTUlBlRmVROG9xckpKX1JzTDRFekJCVlhZUmxQWEdGb2VQVUtxWDNkVThqemlCWHJCblRLTnZ1VHM0Z3Q4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtcjBzUUx1SHUzUkVmX0ZHVC1PQmxOMFpTUlBlRmVROG9xckpKX1JzTDRFekJCVlhZUmxQWEdGb2VQVUtxWDNkVThqemlCWHJCblRLTnZ1VHM0Z3Q4",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792518307.0
     }
 ]
