@@ -167,6 +167,24 @@
         "timestamp": 1792804286.0
     },
     {
+        "id": "9db4401626",
+        "title_fa": "تلاش نتانیاهو برای بازسازی چهره امنیتی پیش از انتخابات",
+        "title_en": "Netanyahu Has Reinvented Himself. Will Voters Think It's Enough?",
+        "summary": [
+            "حملات هفتم اکتبر افسانه توانایی امنیتی نخست‌وزیر اسرائیل را به شدت زیر سوال برد.",
+            "نتانیاهو تلاش می‌کند با ارائه چهره‌ای تهاجمی‌تر، رای‌دهندگان را برای انتخابات پیش رو قانع کند."
+        ],
+        "impact": "آزمون سرنوشت‌ساز سیاسی برای بقای حاکمیت نتانیاهو در بافت امنیتی جدید اسرائیل.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+        "clean_url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+        "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-facebookJumbo.jpg",
+        "timestamp": 1792800000.0
+    },
+    {
         "id": "c89fa4a463",
         "title_fa": "جهش نفت به ۱۱۷ دلار با بوی جنگ",
         "title_en": "Iran war live: Israel launches 'targeted' Hebron operation after attack",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NWWxyM0VmMmhqcmVqb1k3UnZHVVVZZTJuLUtwT0ZkaDVQdjdJaEluZ2RkNURHNy1CLXlvQ2tfMldwcTM3LXA5VmtNS2RvQ3JTdmc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792531440.0
-    },
-    {
-        "id": "8980a799c3",
-        "title_fa": "نتانیاهو: هدف اصلی، نابودی رژیم اسلامی است",
-        "title_en": "Oil rises above $109 on Iran war supply concerns",
-        "summary": [
-            "نخست‌وزیر اسرائیل صراحتاً اعلام کرد که تضعیف نظامی جمهوری اسلامی کافی نیست و باید کار را با سرنگونی کامل این حکومت تمام کرد.",
-            "او تهران را به سر یک هشت‌پای خطرناک تشبیه کرد که قطع بازوهای آن فایده‌ای ندارد و باید ریشه را خشکاند."
-        ],
-        "impact": "افزایش قیمت نفت به بالای ۱۰۹ دلار به دلیل سایه جنگ و تنش‌های نظامی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610215496",
-        "clean_url": "https://www.iranintl.com/en/202610215496",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792528740.0
     }
 ]
