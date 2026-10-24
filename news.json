@@ -36,6 +36,24 @@
         "timestamp": 1792828800.0
     },
     {
+        "id": "dc581f8628",
+        "title_fa": "افزایش تلاش‌ جـ.ـهوری اسـ.ـلامی برای حمله به نظامیان آمریکایی",
+        "title_en": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+        "summary": [
+            "رئیس اطلاعات آمریکا درباره تلاش‌های فزاینده نیابتی‌های حاکمیت برای زدن نیروهای آمریکایی در منطقه هشدار داد.",
+            "تهران از طریق گروه‌های شبه‌نظامی به دنبال بالا بردن هزینه حضور نظامی واشنگتن در خاورمیانه است."
+        ],
+        "impact": "احتمال واکنش تند و پیشگیرانه ارتش آمریکا به تحرکات نیابتی‌ها در منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWDNRWTNxMkEyVlFfSEZmUVlPVlNncENwMDBNck1XNDRWZzEzVDV0VVdzQUx5UW1wZVpwSnN5ZUxlUERKb20ycjUtNExTX1pOeDZva1BiTVFxZUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWDNRWTNxMkEyVlFfSEZmUVlPVlNncENwMDBNck1XNDRWZzEzVDV0VVdzQUx5UW1wZVpwSnN5ZUxlUERKb20ycjUtNExTX1pOeDZva1BiTVFxZUk",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792827362.0
+    },
+    {
         "id": "62afb8aa42",
         "title_fa": "مواضع حقوقی تهران در سازمان ملل درباره چرخه سوخت هسته‌ای",
         "title_en": "Iran Tells UN Denying Countries Access to Nuclear Fuel Cycle Violates NPT",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/live-breaking-news",
         "image": "https://static.toiimg.com/photo/47529300.cms",
         "timestamp": 1792540800.0
-    },
-    {
-        "id": "0abd35139d",
-        "title_fa": "سفر اضطراری مکرون به ریاض برای مهار بحران انرژی و حملات نیابتی",
-        "title_en": "US-Iran mediation continues as both sides prepare for war",
-        "summary": [
-            "مکرون راهی عربستان شد تا در سایه حملات شبه‌نظامیان یمنی، امنیت انرژی فرانسه را تضمین کند.",
-            "اعتراضات داخلی در فرانسه به دلیل گرانی سوخت، مکرون را وادار به رایزنی مستقیم با محمد بن سلمان کرده است."
-        ],
-        "impact": "تلاش پاریس برای تامین سوخت و مهار تنش‌های منطقه‌ای با وجود سایه جنگ.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/us-iran-mediation-persists-both-sides-prep-war?blockId=block_91227",
-        "clean_url": "https://www.newarab.com/news/us-iran-mediation-persists-both-sides-prep-war",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2300618522.jpeg?itok=WU77M2CC",
-        "timestamp": 1792538940.0
     }
 ]
