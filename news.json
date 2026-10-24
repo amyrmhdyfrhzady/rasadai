@@ -182,6 +182,42 @@
         "timestamp": 1792823849.0
     },
     {
+        "id": "93c90fa9b8",
+        "title_fa": "سردرگمی فدرال رزرو در پیش‌بینی تورم و اشتغال",
+        "title_en": "The Federal Reserve At A Time Of Uncertainty",
+        "summary": [
+            "افزایش بی‌ثباتی اقتصادی مسیر تصمیم‌گیری بانک مرکزی آمریکا را پیچیده‌تر کرده است.",
+            "سیاست‌گذاران اقتصادی برای مهار تورم و حفظ اشتغال با چالش جدی روبرو هستند."
+        ],
+        "impact": "ایجاد نوسان در بازارهای مالی و بی‌ثباتی در نرخ بهره",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4957189-federal-reserve-at-time-of-uncertainty",
+        "clean_url": "https://seekingalpha.com/article/4957189-federal-reserve-at-time-of-uncertainty",
+        "image": "http://www.bing.com/th?id=ONUT.ARelEZrpbRCMHIXJiHt_0w&pid=News",
+        "timestamp": 1792818300.0
+    },
+    {
+        "id": "958fb5eb79",
+        "title_fa": "قصور اداره مهاجرت آمریکا در کنترل زندانی در خطر خودکشی",
+        "title_en": "ICE failed to monitor detainee at risk of suicide who later killed himself",
+        "summary": [
+            "بررسی‌های داخلی مرگ یک زندانی در بازداشتگاه مهاجرتی نشان از نقض مکرر قوانین دارد.",
+            "کارکنان بازداشتگاه مدیریت شده توسط شرکت جئو، خطاهای مرگباری در نظارت بر فرد داشتند."
+        ],
+        "impact": "افزایش فشارها بر نهادهای نظارتی و بازداشتگاه‌های خصوصی مهاجرتی در آمریکا",
+        "tag": "حقوق بشر",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ice-failed-to-monitor-detainee-at-risk-of-suicide-who-later-killed-himself/ar-AA2fYG8E",
+        "clean_url": "https://www.msn.com/en-us/news/other/ice-failed-to-monitor-detainee-at-risk-of-suicide-who-later-killed-himself/ar-AA2fYG8E",
+        "image": "http://www.bing.com/th?id=ONUT.GNHR8uy_VzO9cD59f5bU_A&pid=News",
+        "timestamp": 1792814400.0
+    },
+    {
         "id": "824c626877",
         "title_fa": "تغییر موازنه مالی در رقابت‌های انتخاباتی کنگره",
         "title_en": "Is Moskowitz-Singer congressional race still a toss-up — or is it slipping away from Republicans?",
@@ -270,6 +306,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHVhYVlfZU5yd05PUVlUcnVLOGtzRmcxYmxMVFp1Nk52RVpZenVZaGFoTy1EU0pVeVZhdm1fVlJoUUpFbGhoT0RrcU15akltNUQtZVpxaFRVZFZLMzZmX3dwbS1qeUJ2V2ZRelZmelpDUnkyZ2w3YUw5Qk9NbTBUX2JFWGRWd1NTZ3hINXdidDk0NmZkTk4tZlZjejloeGl6TGxtblA3NGZYZnVsNnR3VThTVUNkN2hkRWk1eVlaWkNZa1NBLXRjOThBUdIB0wFBVV95cUxQaHJzVWpjazcxaTUyTWFDbkUzMlhsNU1tLWdSd3Z6a1VMUG5mTUU3UWM4czdTSTFyc0hHT3B4ZF9laUFLWFhBX2NhNVpLeVFXZzNuMkJ0dERreVJQczRaTWhLZ09rYlYtNFJXNnhiT1ozcVl6eXpxMTFzaVdFYTJfc0N6WkRPV2JNZ0Z3MzcxNjFtcHdmZ3ZmNmY2Y1NZMUpUTTBiczVZd2NINkdWOWF3Sk15X0dMc0ZFQV9sdnQ1dFJhME5Qa25KdTE3SGxwQ0ppWG1R",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792810850.0
+    },
+    {
+        "id": "ff9300e274",
+        "title_fa": "جهش ۱۵ درصدی قیمت شکلات و نگرانی‌های مالی جدید",
+        "title_en": "The 5 things that scare me most about money right now",
+        "summary": [
+            "تورم بازار آمریکا به اقلام مصرفی روزمره و مناسبتی مثل تنقلات رسیده است.",
+            "افزایش هزینه‌ها فشار سنگینی بر بودجه خانوارها وارد کرده است."
+        ],
+        "impact": "کاهش قدرت خرید مردم و تشدید نگرانی‌های اقتصادی در سطح جامعه",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/10/24/how-inflation-is-making-halloween-scarier-this-year/",
+        "clean_url": "https://www.washingtonpost.com/business/2026/10/24/how-inflation-is-making-halloween-scarier-this-year",
+        "image": "http://www.bing.com/th?id=ONUT.G4glz2Bzz7NSP1kpQpBeYQ&pid=News",
+        "timestamp": 1792810800.0
     },
     {
         "id": "2adf3d69d3",
@@ -5436,59 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/monitoring-the-monitors-us-states-prepare-for-surge-of-justice-dept-election-watchers/ar-AA2fJ3kX",
         "image": "http://www.bing.com/th?id=ONUT.hfK9y7DZGrLHNxP5ERzAxQ&pid=News",
         "timestamp": 1792551930.0
-    },
-    {
-        "id": "548646e4de",
-        "title_fa": "رقابت داغ برای تصاحب کرسی خالی کنگره در ایلینوی",
-        "title_en": "Illinois 2nd District race: Democrat Donna Miller aims to succeed Robin Kelly — and stay for years",
-        "summary": [
-            "پس از سال‌ها حضور نماینده قبلی، سه نامزد جدید برای ورود به مجلس نمایندگان رقابت می‌کنند.",
-            "این حوزه انتخاباتی سابقه طولانی در تغییرات جنجالی نمایندگان دارد."
-        ],
-        "impact": "تغییر مهره‌های کلیدی در یکی از حوزه‌های سنتی کنگره.",
-        "tag": "انتخابات",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/10/21/illinois-2nd-district-election/",
-        "clean_url": "https://www.chicagotribune.com/2026/10/21/illinois-2nd-district-election",
-        "image": "http://www.bing.com/th?id=ONUT.12jAfCNWuPMaDbgiokeI_w&pid=News",
-        "timestamp": 1792551600.0
-    },
-    {
-        "id": "be1310911e",
-        "title_fa": "فشار مراکز داده هوش مصنوعی بر شبکه برق ایلینوی",
-        "title_en": "Illinois’ electric grid is under a lot of stress. What does that mean for consumers?",
-        "summary": [
-            "رشد انفجاری مراکز داده برای تامین نیروی هوش مصنوعی، شبکه برق شیکاگو را زیر فشار شدید قرار داده است.",
-            "این وضعیت یادآور بحران خاموشی‌های گذشته و ضرورت بازسازی زیرساخت‌هاست."
-        ],
-        "impact": "خطر ناپایداری شبکه برق همزمان با گسترش تکنولوژی‌های نوین.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Chicago Sun-Times",
-        "url": "https://chicago.suntimes.com/energy/2026/10/21/illinois-electric-grid-is-under-a-lot-of-stress-what-does-that-mean-for-consumers",
-        "clean_url": "https://chicago.suntimes.com/energy/2026/10/21/illinois-electric-grid-is-under-a-lot-of-stress-what-does-that-mean-for-consumers",
-        "image": "http://www.bing.com/th?id=ONUT.Jpf8dEDpDV9u2eBCpS7hkw&pid=News",
-        "timestamp": 1792551600.0
-    },
-    {
-        "id": "e98f8e0bba",
-        "title_fa": "سایه سنگین جنگ با ای-ران بر انتخابات میان‌دوره",
-        "title_en": "Iran war looms over the midterms",
-        "summary": [
-            "مسئله جنگ و تنش با ت-هران به موضوع داغ هفته‌های پایانی رقابت‌های انتخاباتی تبدیل شده است.",
-            "حزب حاکم زیر فشار شدید افکار عمومی برای مدیریت بحران‌های خارجی قرار دارد."
-        ],
-        "impact": "سرنوشت کرسی‌های کنگره به شدت تحت تأثیر عملکرد دولت در پرونده سیاست خارجی و جنگ گره خورده است.",
-        "tag": "انتخابات",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Politico",
-        "url": "https://www.politico.com/newsletters/new-york-playbook/2026/10/21/iran-war-looms-over-the-midterms-01128748",
-        "clean_url": "https://www.politico.com/newsletters/new-york-playbook/2026/10/21/iran-war-looms-over-the-midterms-01128748",
-        "image": "http://www.bing.com/th?id=ONUT.2ThY6QAD5-KbAbpUSydPhQ&pid=News",
-        "timestamp": 1792551600.0
     }
 ]
