@@ -93,6 +93,25 @@
         "timestamp": 1792809025.0
     },
     {
+        "id": "94c7977348",
+        "title_fa": "فشار نظامی بر ج.ه.ا برای مهار توان موشکی",
+        "title_en": "Netanyahu calls for US, Israel to overthrow Iranian regime, Iran threatens wide response",
+        "summary": [
+            "یک فرمانده سابق عملیات ویژه اسرائیل خواستار تمرکز حملات آینده بر نابودی زیرساخت‌های اتمی و موشکی ج.ه.ا شد.",
+            "فعالیت‌های مشکوک در پایگاه زیرزمینی عقاب ۴۴ نشان‌دهنده تلاش تهران برای بازسازی تجهیزات نظامی آسیب‌دیده است.",
+            "دونالد ترامپ احتمال اجرای حملات تازه علیه حکومت ایران را پس از انتخابات میادترم مطرح کرده است."
+        ],
+        "impact": "افزایش ریسک نظامی و امنیتی برای تهران با احتمال حملات پیشگیرانه جدید.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/249a076fa448dfa5e4436ece4a2979cf.jpg",
+        "timestamp": 1792806300.0
+    },
+    {
         "id": "208691d4a8",
         "title_fa": "نوسان قیمت سوخت در ایالات متحده",
         "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
@@ -5462,24 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CV0dNTVVnNUZlMmlncmF4amlNa19Qc0J4cHpQd2lSXy04aVJ1VFNsdWZqbkU5bnBVdzJTTGg2eE1ndVhjREp4by0tM29PbkVIM3YxTlEyY1FLM3ct",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792526364.0
-    },
-    {
-        "id": "c654219c9b",
-        "title_fa": "تهدید سخت وزیر دفاع اسرائیل علیه ضاحیه بیروت",
-        "title_en": "Israeli minister threatens Beirut suburbs over rocket fire",
-        "summary": [
-            "اسرائیل کاتز هشدار داد هرگونه حمله پهپادی یا راکتی با بمباران شدید ضاحیه بیروت پاسخ داده می‌شود.",
-            "تل‌آویو تهدید کرد در صورت ورود حزب‌الله به جنگ، عملیات خود را تا رود لیطانی و نبطیه گسترش می‌دهد.",
-            "شرط خروج اسرائیل از جنوب لبنان، خلع سلاح کامل حزب‌الله اعلام شد که فراتر از توافق‌های قبلی است."
-        ],
-        "impact": "افزایش شدید احتمال جنگ تمام‌عیار در مرزهای شمالی و توسعه مناطق حائل نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "en.yenisafak",
-        "url": "https://en.yenisafak.com/world/israeli-minister-threatens-beirut-strikes-over-rocket-fire-3724660",
-        "clean_url": "https://en.yenisafak.com/world/israeli-minister-threatens-beirut-strikes-over-rocket-fire-3724660",
-        "image": "https://img.piri.net/piri/upload/3/2026/10/21/2e5ab9db-israeli-minister-threatens-beirut-suburbs-over-rocket-fire.webp",
-        "timestamp": 1792526160.0
     }
 ]
