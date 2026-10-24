@@ -201,6 +201,24 @@
         "timestamp": 1792784100.0
     },
     {
+        "id": "48baa7d6f0",
+        "title_fa": "خط‌ونشان تازه ترامپ: احتمال آغاز عملیات نظامی جدید علیه ایران",
+        "title_en": "Trump floats 'Epic Fury' follow-up as Iran war drags on",
+        "summary": [
+            "ترامپ در سخنرانی جدید خود در فلوریدا هشدار داد که واشنگتن ممکن است عملیات نظامی جدید و سنگین‌تری را علیه مواضع ایران کلید بزند.",
+            "این موضع صریح نشان می‌دهد رویکرد فشار حداکثری وارد فاز تهدید مستقیم عملیاتی شده تا تهران را وادار به عقب‌نشینی کند."
+        ],
+        "impact": "افزایش فوری ریسک درگیری مستقیم نظامی و احتمال جهش قیمت ارز و نفت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-floats-epic-fury-follow-up-as-iran-war-drags-on/ar-AA2fXdCn",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-floats-epic-fury-follow-up-as-iran-war-drags-on/ar-AA2fXdCn",
+        "image": "http://www.bing.com/th?id=ONUT.fZu7KmVIiw0wteKfuF20Iw&pid=News",
+        "timestamp": 1792782506.0
+    },
+    {
         "id": "94d8532aea",
         "title_fa": "هشدار اطلاعاتی آمریکا درباره توطئه‌های ترور ج.ا",
         "title_en": "US intel warns Iran assassination plots have reached ‘advanced stages’",
@@ -384,6 +402,24 @@
         "clean_url": "https://www.iranintl.com/en/202610230108",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792765860.0
+    },
+    {
+        "id": "c279df1483",
+        "title_fa": "شکاف عمیق واشنگتن و تل‌آویو بر سر نحوه مواجهه با ایران",
+        "title_en": "Trump envoy: US-Israeli differences over Iran are a huge problem",
+        "summary": [
+            "اختلاف‌نظر آمریکا و اسرائیل درباره نحوه پایان دادن به درگیری با تهران بالا گرفته است؛ تل‌آویو بر برچیدن کامل زیرساخت‌های اتمی، موشکی و نیابتی تأکید دارد، اما تیم ترامپ بیشتر به دنبال یک توافق سریع و بازگشایی تنگه هرمز است.",
+            "عدم حضور مستقیم اسرائیل در گفتگوها ریسک اقدامات یک‌جانبه نظامی تل‌آویو برای برهم زدن توافق احتمالی واشنگتن را به شدت بالا برده است."
+        ],
+        "impact": "احتمال تقابل مستقیم اسرائیل با رویکرد دیپلماتیک آمریکا و افزایش حملات هدفمند به مواضع ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Fakti.bg",
+        "url": "https://fakti.bg/en/world/1093331-pratenik-na-tramp-raznoglasiata-mejdu-sasht-i-izrael-za-iran-sa-ogromen-problem",
+        "clean_url": "https://fakti.bg/en/world/1093331-pratenik-na-tramp-raznoglasiata-mejdu-sasht-i-izrael-za-iran-sa-ogromen-problem",
+        "image": "https://cdn4.focus.bg/fakti/photos/big/e3a/pratenik-na-tramp-raznoglasiata-mejdu-sasht-i-izrael-za-iran-sa-ogromen-problem-1.webp",
+        "timestamp": 1792764780.0
     },
     {
         "id": "e62ee37fa3",
@@ -5444,41 +5480,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/not-a-single-gram-of-enriched-uranium-leave-iran-tehran-tells-pak-army-chief-munir-amid-negotiation-deadlock-with-us/ar-AA2fHqnV",
         "image": "http://www.bing.com/th?id=ONUT.jLdT-pZj_O2jQeMgTvx3wA&pid=News",
         "timestamp": 1792519930.0
-    },
-    {
-        "id": "cbe1c05174",
-        "title_fa": "سفر فرستاده ویژه آمریکا به مسکو برای دیدار با پوتین",
-        "title_en": "Witkoff's plans to visit Russia on October 21 confirmed — source",
-        "summary": [
-            "استیو ویتکف پس از توقف در اسلو و رایزنی با مقام‌های اوکراینی، راهی روسیه می‌شود.",
-            "این دیدار پشت درهای بسته با محوریت بحران‌های امنیتی و رایزنی‌های سیاسی انجام می‌گیرد."
-        ],
-        "impact": "تغییرات احتمالی در معادلات دیپلماتیک جنگ اوکراین و روابط واشنگتن و مسکو",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2204919",
-        "clean_url": "https://tass.com/world/2204919",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261020/1490465.jpg",
-        "timestamp": 1792519800.0
-    },
-    {
-        "id": "97e68b0f24",
-        "title_fa": "توافق پشت پرده آمریکا و اسرائیل برای ضربه نظامی جدید",
-        "title_en": "Despite election fears, US and Israel agree: let’s attack Iran again",
-        "summary": [
-            "واشنگتن و تل‌آویو نگرانی‌های انتخاباتی را کنار گذاشته و روی گزینه نظامی جدید به توافق رسیده‌اند.",
-            "این تصمیم نشان‌دهنده افزایش خطر درگیری‌های مستقیم در منطقه است."
-        ],
-        "impact": "افزایش شدید ریسک ژئوپلیتیک و ناامنی در بازارهای مالی و انرژی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Times",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEkxc2tXRlNCeE5faE9EalloUGxNZ2s2bWthemNyRHV0WXY5Z1h4T19tdzVXdmVFeUpkV0xyRVktYXp2VFFEak9FTWQ2aEhqSzVKR2VyeXBKenpaZlQtNmN4Z0d4d2JzaldYWW14VXduWmVZeWlGYW1iMklya0VnR1hfTFhxV1NPZTFkbkFRRkszbXJsYm9YSGk2aVBHU2RRbWc4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEkxc2tXRlNCeE5faE9EalloUGxNZ2s2bWthemNyRHV0WXY5Z1h4T19tdzVXdmVFeUpkV0xyRVktYXp2VFFEak9FTWQ2aEhqSzVKR2VyeXBKenpaZlQtNmN4Z0d4d2JzaldYWW14VXduWmVZeWlGYW1iMklya0VnR1hfTFhxV1NPZTFkbkFRRkszbXJsYm9YSGk2aVBHU2RRbWc4",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792519575.0
     }
 ]
