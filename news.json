@@ -1,5 +1,23 @@
 [
     {
+        "id": "13fd86cdbc",
+        "title_fa": "افزایش حملات گروه‌های مسلح در بلوچستان",
+        "title_en": "Baluch insurgency tests a war-weakened Islamic Republic as attacks mount",
+        "summary": [
+            "موج جدید درگیری‌ها در جنوب شرق کشور حاکی از بالا رفتن هزینه امنیتی برای حاکمیت است.",
+            "تضعیف ساختارهای نظامی جمهوری اسلامی پس از تنش‌های اخیر، فرصتی برای گسترش تحرکات این گروه‌ها فراهم کرده است."
+        ],
+        "impact": "بالارفتن ضریب ناامنی در مرزهای شرقی و فرسایش بیشتر توان نظامی حاکمیت.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNmhvT2V1bHJqY3hUSTRKa182aktFdjRHMGl2aEx1b0pkMXJyRWlpQzVpdEo4R1lHZGJFYUwybDNJX0VJZnZ1b1c5QlJaeDRmRUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNmhvT2V1bHJqY3hUSTRKa182aktFdjRHMGl2aEx1b0pkMXJyRWlpQzVpdEo4R1lHZGJFYUwybDNJX0VJZnZ1b1c5QlJaeDRmRUE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792836201.0
+    },
+    {
         "id": "b4cb9b6eb7",
         "title_fa": "افزایش ریسک جنگ جدید با تهدیدات مکرر جمهوری اسلامی",
         "title_en": "From Hormuz to data centers: How Iran’s threats are raising stakes of renewed war",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.thestate.com/news/nation-world/world/article317695748.html",
         "image": "https://www.mcclatchy-wires.com/public/incoming/6sex3r/picture317695718/alternates/LANDSCAPE_1200/8159fad6-1a4d-4b2b-9a7e-8c6a2f6ae81a",
         "timestamp": 1792541940.0
-    },
-    {
-        "id": "5b2a82a789",
-        "title_fa": "چراغ سبز لندن به حفاری گاز در دریای شمال",
-        "title_en": "Britain Approves Long-Stalled Gas Drilling Project in the North Sea",
-        "summary": [
-            "دولت بریتانیا با وجود مخالفت شدید حامیان محیط زیست، مجوز پروژه حفاری گاز در دریای شمال را صادر کرد.",
-            "هدف اصلی این طرح کاهش وابستگی کشور به انرژی وارداتی اعلام شده است."
-        ],
-        "impact": "تلاش لندن برای تامین امنیت انرژی علی‌رغم انتقادات محیط‌زیستی.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
-        "clean_url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
-        "image": "http://www.bing.com/th?id=ONUT.HQwMwDpSMI6JvCoJM7f_YQ&pid=News",
-        "timestamp": 1792541340.0
     }
 ]
