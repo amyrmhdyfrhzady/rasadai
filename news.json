@@ -296,6 +296,24 @@
         "timestamp": 1792801800.0
     },
     {
+        "id": "5a2624b5a6",
+        "title_fa": "تاکید فیلیپو مانیینی بر اهمیت فضاهای ورزشی رم",
+        "title_en": "Magnini: \"Colle Oppio Playground has amazing energy, these places are fundamental for young people\"",
+        "summary": [
+            "فیلیپو مانیینی، شناگر سابق، در مراسمی در رم از اهمیت زمین‌های بازی شهری برای جوانان گفت.",
+            "او مجموعه ورزشی کوله اوپیو را مکانی با انرژی فوق‌العاده و چشم‌اندازی بی‌نظیر توصیف کرد."
+        ],
+        "impact": "توسعه زیرساخت‌های ورزشی نقش کلیدی در پویایی جوانان شهرها دارد.",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.8,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261024KRONOS-202610121553412124_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1792800000.0
+    },
+    {
         "id": "da902562e8",
         "title_fa": "عقب‌نشینی ترامپ از شایعه حمله فوری نظامی به ایران",
         "title_en": "Trump Says He Has No Information About Iran Strike This Weekend",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
         "image": "http://www.bing.com/th?id=ONUT.HQwMwDpSMI6JvCoJM7f_YQ&pid=News",
         "timestamp": 1792541340.0
-    },
-    {
-        "id": "574519e856",
-        "title_fa": "تحولات امنیتی مرزی و بازی دوگانه تهران در منطقه",
-        "title_en": "Live Updates: Iran says Saudi Arabia silent on Houthi mediation offer, Qatari delegation reportedly in Tehran",
-        "summary": [
-            "عباس عراقچی از سکوت عربستان در قبال پیشنهاد میانجی‌گری حوثی‌ها خبر داد.",
-            "هیئت قطری وارد تهران شد و همزمان درگیری‌ها و فشارهای امنیتی در مرزهای عراق و ایران افزایش یافت.",
-            "ارتش اسرائیل از آماده‌باش خود در برابر تهدیدات احتمالی پیش از انتخابات خبر داد."
-        ],
-        "impact": "افزایش تنش‌های مرزی و دیپلماتیک در محورهای منطقه‌ای و فشار همه‌جانبه بر مرزهای غربی.",
-        "tag": "منطقه‌ای",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-21/live-updates-912356",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-21/live-updates-912356",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742824",
-        "timestamp": 1792540800.0
     }
 ]
