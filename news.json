@@ -1,5 +1,23 @@
 [
     {
+        "id": "9d8553fc24",
+        "title_fa": "تاثیر انتخابات اسرائیل بر استراتژی منطقه",
+        "title_en": "Israel's Election Impact on Regional Strategy",
+        "summary": [
+            "تغییرات سیاسی در اسرائیل معادلات امنیتی خاورمیانه را تحت تاثیر قرار می‌دهد.",
+            "رویکرد تل‌آویو در برابر تهدیدات منطقه‌ای پس از انتخابات بازتعریف می‌شود."
+        ],
+        "impact": "آرایش سیاسی جدید در اسرائیل جهت‌گیری‌های امنیتی منطقه را شکل می‌دهد.",
+        "tag": "منطقه",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "GV Wire",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1R5bEVYbjNGaWFZeXVWMmlrR2phNHFVa1NNYTBYeF81T2xnMEdEeEFUaDFxNVhCb1BUSThOTTlWUEMtQjRsREdvb2M2UWZqU29zZ2pERjg3akdNMVJlclRuWUFWellmLVlXQ0tOOXF1MEFLcWJhOGhnZ2hsRm5wcWFIbnJUNGFVZ29KZUI0QktMUWtiMjdFUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1R5bEVYbjNGaWFZeXVWMmlrR2phNHFVa1NNYTBYeF81T2xnMEdEeEFUaDFxNVhCb1BUSThOTTlWUEMtQjRsREdvb2M2UWZqU29zZ2pERjg3akdNMVJlclRuWUFWellmLVlXQ0tOOXF1MEFLcWJhOGhnZ2hsRm5wcWFIbnJUNGFVZ29KZUI0QktMUWtiMjdFUA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792867397.0
+    },
+    {
         "id": "83ec331776",
         "title_fa": "چراغ سبز ج.ا به آمریکا با میانجی‌گری پاکستان؛ پیام دیپلماتیک یا مانور تاکتیکی؟",
         "title_en": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-rubio-says-iran-nuclear-question-at-the-core-of-us-approach/ar-AA2fyqHa",
         "image": "http://www.bing.com/th?id=ONUT.SB1nNNAu-BSjqevthmbE4Q&pid=News",
         "timestamp": 1792559959.0
-    },
-    {
-        "id": "cd1ea54f73",
-        "title_fa": "بن‌بست هسته‌ای و سایه جنگ روی توافق نهایی",
-        "title_en": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-        "summary": [
-            "برنامه اتمی تهران بار دیگر به مانع اصلی در مسیر توافق آتش‌بس تبدیل شده است.",
-            "اختلاف نظر بر سر متن توافق موظف بودجه، توافق اولیه خرداد ماه را از بین برد.",
-            "گسترش درگیری‌ها به یمن و بحران انرژی جهانی، کار را برای هرگونه توافق سخت‌تر کرده است."
-        ],
-        "impact": "بازگشت پرونده هسته‌ای به نقطه صفر، امیدها برای ثبات بازار انرژی را از بین برد.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
-        "clean_url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
-        "image": "http://www.bing.com/th?id=ONUT.XZteEjtHhbusHNNvrKovvQ&pid=News",
-        "timestamp": 1792559880.0
     }
 ]
