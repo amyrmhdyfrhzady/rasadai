@@ -553,6 +553,25 @@
         "timestamp": 1792784100.0
     },
     {
+        "id": "b6a0b89d61",
+        "title_fa": "سایه جنگ و تردید؛ آیا کار ج-ه-م-و-ر-י ا-س-ل-ا-م-י تمام می‌شود؟",
+        "title_en": "Iranian hardliners urge withdrawal from nuclear non-proliferation treaty",
+        "summary": [
+            "بسیاری از کاربران شبکه‌های اجتماعی مواضع تند ترامپ و نتانیاهو را نشانه‌ای جدی از احتمال یک حمله نظامی در منطقه می‌دانند.",
+            "طرفداران گزینه نظامی معتقدند این هزینه سنگین برای پایان دادن به کابوس حکومت ضروری است، در حالی که مخالفان از نابودی زیرساخت‌های انرژی و فروپاشی کامل جامعه بیم دارند.",
+            "بلاتکلیفی مطلق و بحران‌های اقتصادی عمیق باعث شده تا بسیاری از شهروندان وضعیت موجود را غیرقابل تحمل‌تر از خود جنگ ارزیابی کنند."
+        ],
+        "impact": "افزایش شدید اضطراب اجتماعی و بالا رفتن میل عمومی به تغییر بنیادین حتی با هزینه جنگ.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610248410",
+        "clean_url": "https://www.iranintl.com/en/202610248410",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792783260.0
+    },
+    {
         "id": "48baa7d6f0",
         "title_fa": "خط‌ونشان تازه ترامپ: احتمال آغاز عملیات نظامی جدید علیه ایران",
         "title_en": "Trump floats 'Epic Fury' follow-up as Iran war drags on",
@@ -5470,24 +5489,6 @@
         "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261021KRONOS-202610121534306894_eng",
         "clean_url": "https://jen.jiji.com/jc/eng_agt",
         "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1792540800.0
-    },
-    {
-        "id": "ffaa4f1cee",
-        "title_fa": "افت طلا و نقره در آستانه تصمیم فدرال رزرو",
-        "title_en": "Live Breaking News",
-        "summary": [
-            "بهای طلا و نقره در بازارهای جهانی همزمان با انتظار سرمایه‌گذاران برای نشست سیاست‌گذاری فدرال رزرو کاهش خفیفی ثبت کرد.",
-            "فعالان بازار احتمال ثبات نرخ بهره در نشست پیش رو را بالا ارزیابی می‌کنند اما تورم پایدار سایه خود را حفظ کرده است."
-        ],
-        "impact": "نوسانات محدود فلزات گرانبها تحت تأثیر انتظارات تورمی و تصمیمات پولی آمریکا",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Indiatimes",
-        "url": "https://timesofindia.indiatimes.com/live-breaking-news",
-        "clean_url": "https://timesofindia.indiatimes.com/live-breaking-news",
-        "image": "https://static.toiimg.com/photo/47529300.cms",
         "timestamp": 1792540800.0
     }
 ]
