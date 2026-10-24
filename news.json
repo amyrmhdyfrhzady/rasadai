@@ -380,6 +380,24 @@
         "timestamp": 1792812600.0
     },
     {
+        "id": "f6f6564c17",
+        "title_fa": "دور جدید کارزارهای انتخاباتی ترامپ برای میان‌دوره‌ای",
+        "title_en": "Five takeaways from Trump's midterm campaign rallies",
+        "summary": [
+            "ترامپ با سفرهای فشرده در سراسر کشور به دنبال تقویت جایگاه جمهوری‌خواهان در انتخابات میان‌دوره‌ای است.",
+            "این تجمعات انتخاباتی نقشه راه و تمرکز اصلی حزب را برای ماه‌های آینده مشخص می‌کند."
+        ],
+        "impact": "تغییر موازنه‌های سیاسی در داخل آمریکا و تاثیر مستقیم بر سیاست خارجی آینده.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/five-takeaways-from-trump-s-midterm-campaign-rallies/ar-AA2fY47i",
+        "clean_url": "https://www.msn.com/en-us/news/other/five-takeaways-from-trump-s-midterm-campaign-rallies/ar-AA2fY47i",
+        "image": "http://www.bing.com/th?id=ONUT.zDipgva9q8Jh73t1hgh9DA&pid=News",
+        "timestamp": 1792811201.0
+    },
+    {
         "id": "d580e59992",
         "title_fa": "فراخوان غیرمنتظره برای تغییر رای در اردوگاه جمهوری‌خواهان",
         "title_en": "If you love the Republican Party, vote for a Democrat | Opinion",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/overthrow-iranian-regime-netanyahu-lays-out-directive-to-idf-officer-graduates-at-ceremony/ar-AA2fKPFv",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742959",
         "timestamp": 1792558260.0
-    },
-    {
-        "id": "b2a03f639f",
-        "title_fa": "ممانعت ترامپ از حمله بزرگ نتانیاهو به ای·ران",
-        "title_en": "Report: Netanyahu planned massive Iran attack, but Trump blocked it",
-        "summary": [
-            "بنیامین نتانیاهو برنامه‌ریزی مفصلی برای یک حمله نظامی سنگین علیه اهدافی در داخل ای·ران انجام داده بود.",
-            "دونالد ترامپ با این اقدام تمام‌عیار مخالفت کرد و جلوی اجرای آن را گرفت."
-        ],
-        "impact": "سایه جنگ تمام‌عیار فعلاً با وتوی واشنگتن برداشته شد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZFQ2OGYxS3VIZm1sYTlMemU3QS11bDJXZFJpZGNMVlU3NDhDclFFeTlYODZjLUNmdHh3VmkzdEdxcFFIZmZTMnJoSGFTMTJmREVsWXZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZFQ2OGYxS3VIZm1sYTlMemU3QS11bDJXZFJpZGNMVlU3NDhDclFFeTlYODZjLUNmdHh3VmkzdEdxcFFIZmZTMnJoSGFTMTJmREVsWXZ3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792557180.0
     }
 ]
