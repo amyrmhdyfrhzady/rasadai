@@ -182,6 +182,42 @@
         "timestamp": 1792823849.0
     },
     {
+        "id": "824c626877",
+        "title_fa": "تغییر موازنه مالی در رقابت‌های انتخاباتی کنگره",
+        "title_en": "Is Moskowitz-Singer congressional race still a toss-up — or is it slipping away from Republicans?",
+        "summary": [
+            "کمیته‌های عمل سیاسی بزرگ، بودجه تبلیغاتی خود را از مناطق پرخطر خارج و به حوزه‌های دیگر منتقل کردند.",
+            "ورود نهادهای وابسته به ترامپ با تزریق میلیون‌ها دلار، ورق را به نفع نامزد جمهوری‌خواه در فلوریدا برگرداند."
+        ],
+        "impact": "تزریق پول‌های سنگین در لحظات پایانی، سرنوشت کرسی‌های کلیدی کنگره را دستخوش تغییر می‌کند.",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/10/24/is-moskowitz-singer-congressional-race-still-a-toss-up-or-is-it-slipping-away-from-republicans/",
+        "clean_url": "https://www.sun-sentinel.com/2026/10/24/is-moskowitz-singer-congressional-race-still-a-toss-up-or-is-it-slipping-away-from-republicans",
+        "image": "http://www.bing.com/th?id=ONUT.dPm-Nsk8L5IyI3-hulKBfw&pid=News",
+        "timestamp": 1792814400.0
+    },
+    {
+        "id": "7b50e2cf4a",
+        "title_fa": "بحران انرژی و قیمت بالای سوخت در آستانه زمستان",
+        "title_en": "Winter is coming. For Maine families, it’s never been more expensive.",
+        "summary": [
+            "بیش از نیمی از خانوارهای ایالت مین برای گرمایش به نفت وابسته هستند و قیمت‌ها سر به فلک کشیده است.",
+            "شرکت‌های توزیع سوخت با چالش‌های مالی سنگین و ریسک بالای عدم پرداخت از سوی مشتریان مواجهند."
+        ],
+        "impact": "گرانی شدید انرژی، معیشت شهروندان را فلج کرده و اقتصاد را به محور اصلی اعتراضات رای‌دهندگان تبدیل نموده است.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/24/economy/heating-costs-struggle-maine-families",
+        "clean_url": "https://www.cnn.com/2026/10/24/economy/heating-costs-struggle-maine-families",
+        "image": "http://www.bing.com/th?id=ONUT.fS64TRCVQdLHZ82ODJF9MQ&pid=News",
+        "timestamp": 1792814400.0
+    },
+    {
         "id": "fe35113ddb",
         "title_fa": "برنامه‌ریزی حاکمیت برای حمله به آمریکایی‌ها",
         "title_en": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
@@ -198,6 +234,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792813614.0
+    },
+    {
+        "id": "2f28d0fd41",
+        "title_fa": "فشار تورم و نارضایتی رای‌دهندگان آمریکایی از وضعیت اقتصادی",
+        "title_en": "The vulnerable House Republican trying to withstand the anger directed at his party",
+        "summary": [
+            "افزایش سرسام‌آور هزینه‌های سوخت و انرژی، حامیان سنتی حزب حاکم را به شدت خشمگین کرده است.",
+            "سیاست‌های اقتصادی واشنگتن و تعرفه‌ها، کسب‌وکارهای کوچک و خانواده‌ها را تحت فشار شدید گذاشته است."
+        ],
+        "impact": "نارضایتی اقتصادی رای‌دهندگان، بخت نامزدهای حزب حاکم را در انتخابات پیش رو به شدت کاهش داده است.",
+        "tag": "انتخابات",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
+        "clean_url": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
+        "image": "http://www.bing.com/th?id=ONUT.1B14Ts2BMODgd4jnmV69iA&pid=News",
+        "timestamp": 1792812600.0
     },
     {
         "id": "3af0ae5191",
@@ -5436,58 +5490,5 @@
         "clean_url": "https://www.politico.com/newsletters/new-york-playbook/2026/10/21/iran-war-looms-over-the-midterms-01128748",
         "image": "http://www.bing.com/th?id=ONUT.2ThY6QAD5-KbAbpUSydPhQ&pid=News",
         "timestamp": 1792551600.0
-    },
-    {
-        "id": "df0fc14a03",
-        "title_fa": "اهرم فشار جمهوری‌خواهان نیویورک روی ناامنی‌های شهری",
-        "title_en": "New York Republicans wield public safety fears in a tough midterm climate",
-        "summary": [
-            "نامزد فرمانداری جمهوری‌خواهان با برجسته کردن بحران امنیت مترو، رقبا را به حمایت از مجرمان متهم کرد."
-        ],
-        "impact": "بهره‌برداری سیاسی از موضوع امنیت عمومی در آستانه انتخابات.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/10/21/new-york-republicans-wield-public-safety-fears-in-a-tough-midterm-climate-01128353",
-        "clean_url": "https://www.politico.com/news/2026/10/21/new-york-republicans-wield-public-safety-fears-in-a-tough-midterm-climate-01128353",
-        "image": "http://www.bing.com/th?id=ONUT.xwTYYHh0ecj21SUNF58tqw&pid=News",
-        "timestamp": 1792551480.0
-    },
-    {
-        "id": "5f9e20fa6d",
-        "title_fa": "ترامپ: مهار اتمی ای-ران به قیمت نفت بالا می‌ارزد",
-        "title_en": "US Iran War Live Updates: Houthis claim ballistic missile attack on Saudi-led coalition base in Aden",
-        "summary": [
-            "ترامپ در گردهمایی انتخاباتی خود مدعی شد هدف ح-ک-و-م-ت ت-ه-ر-ا-ن کش دادن تنش‌ها تا بعد از انتخابات میان‌دوره آمریکاست.",
-            "عباس عراقچی تأکید کرد تا زمانی که واشنگتن شرایط ت-ه-ر-ا-ن را نپذیرد، تنگه هرمز بسته می‌ماند."
-        ],
-        "impact": "تنش در آب‌های جنوبی و باز بازار انرژی با تهدید به انسداد تنگه هرمز بالا گرفته است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-war-donald-trump-strait-of-hormuz-ceasefire-talks-pakistan-qatar-middle-east-news/liveblog/135079627.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-war-donald-trump-strait-of-hormuz-ceasefire-talks-pakistan-qatar-middle-east-news/liveblog/135079627.cms",
-        "image": "http://www.bing.com/th?id=ONUT.oSw-ZaT5p3qxZeGT0W7n-Q&pid=News",
-        "timestamp": 1792551480.0
-    },
-    {
-        "id": "7e5e681623",
-        "title_fa": "پیشتاز بودن دموکرات‌ها در روزهای نخست رأی‌گیری زودهنگام",
-        "title_en": "Tens of thousands in CT have already voted. Here’s where",
-        "summary": [
-            "آمارها نشان می‌دهد رای‌دهندگان دموکرات با اختلاف زیادی در آغاز رای‌گیری زودهنگام در کانکتیکات شرکت کرده‌اند.",
-            "رقابت اصلی فرمانداری میان نامزد دموکرات و سناتور جمهوری‌خواه در جریان است."
-        ],
-        "impact": "مشارکت زودهنگام بالا و برتری اولیه حامیان حزب دموکرات.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "Hartford Courant",
-        "url": "https://www.courant.com/2026/10/21/tens-of-thousands-in-ct-have-already-voted-heres-where/",
-        "clean_url": "https://www.courant.com/2026/10/21/tens-of-thousands-in-ct-have-already-voted-heres-where",
-        "image": "http://www.bing.com/th?id=ONUT.hOP2yz3bwOi-8fsbcWj5-A&pid=News",
-        "timestamp": 1792549920.0
     }
 ]
