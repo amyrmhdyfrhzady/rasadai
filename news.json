@@ -1,5 +1,23 @@
 [
     {
+        "id": "474a33a78b",
+        "title_fa": "دوراهی ترامپ: توافق با ت.ه.ر.ا.ن یا اقدام نظامی",
+        "title_en": "Trump weighs Iran deal or military action as Netanyahu warns of attacks",
+        "summary": [
+            "دونالد ترامپ در حال بررسی گزینه توافق جدید یا گزینه نظامی در قبال ت.ه.ر.ا.ن است.",
+            "بنیامین نتانیاهو درباره حملات احتمالی هشدار جدی داده و فضا را به سمت تصمیم‌گیری سخت می‌برد."
+        ],
+        "impact": "سایه سنگین جنگ یا توافق ناگهانی روی بازارهای مالی و معادلات سیاسی منطقه افتاده است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uRXl3WnZZV2ZTQzAtcThHSkd2c25MOW10bWYyY09vdUR5UGpkekVOQ0pZN1VGckotaGo4dHg5Q0QxcjF4Rk82cE5LZE04ME03RlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uRXl3WnZZV2ZTQzAtcThHSkd2c25MOW10bWYyY09vdUR5UGpkekVOQ0pZN1VGckotaGo4dHg5Q0QxcjF4Rk82cE5LZE04ME03RlE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792955634.0
+    },
+    {
         "id": "f3464dcfc6",
         "title_fa": "ططط برنامه‌ریزی آمریکا و اسرائیل برای حملات جدید به ای... ر... ان",
         "title_en": "The U.S. and Israel have drawn up plans to renew strikes against Iran, creating a sense of anxiety and dread among war-weary residents. “People are under enormous pressure and are being crushed by the economic siege,” said one man who lives in Kerma",
@@ -5462,24 +5480,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-says-7-oil-tankers-were-attacked-in-the-strait-of-hormuz-as-fears-grow-of-a-return-to-war/ar-AA2fNOYs",
         "image": "http://www.bing.com/th?id=ONUT.xmk-5QgPWFWoE7JRSfouEw&pid=News",
         "timestamp": 1792633923.0
-    },
-    {
-        "id": "ff91b8a892",
-        "title_fa": "سقوط بیت‌کوین و جهش نفت با انتشار خبر طرح حمله به ایران",
-        "title_en": "Bitcoin Slides From $84,900 to $82,200 as Oil Jumps on Iran Strike Plans: Is the US-Iran War About to Restart?",
-        "summary": [
-            "بیت‌کوین بلافاصله پس از انتشار گزارش نیویورک تایمز درباره برنامه‌ریزی نظامی آمریکا و اسرائیل علیه جـمـهـوری اسـلامـی، افت شدیدی را ثبت کرد.",
-            "بهای نفت برنت با جهش مواجه شد که نشان‌دهنده واکنش سریع بازارهای انرژی به احتمال درگیری نظامی در منطقه است.",
-            "خروج سرمایه از بازار رمزارز و کاهش موقعیت‌های خرید اهرمی، ریزش قیمت بیت‌کوین را تشدید کرد."
-        ],
-        "impact": "افزایش ریسک‌های نظامی مستقیماً بازارهای مالی را به سمت دارایی‌های امن هدایت کرده است.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-84-900-82-083836394.html",
-        "clean_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-84-900-82-083836394.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/648e10b772995313c74364f28766141141a46a9fc6c9e3feedb7708f9aada259/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoinspeaker_us_106%2F7e8dea1a5b352b3b9d4af42b9479180b.jpg",
-        "timestamp": 1792633080.0
     }
 ]
