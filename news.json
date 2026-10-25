@@ -472,6 +472,24 @@
         "timestamp": 1792846800.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "تمرکز رسانه‌های آمریکایی بر حواشی ترامپ در کنار اخبار ورزشی",
+        "title_en": "US latest news",
+        "summary": [
+            "رسانه‌های غربی همزمان با پوشش رویدادهای ورزشی، بخش‌های ویژه‌ای را برای بررسی سیاست‌ها و جنجال‌های ترامپ اختصاص داده‌اند.",
+            "تلاش رسانه‌ها برای بهره‌برداری از جذابیت خبری ترامپ جهت جذب مخاطب و تحلیلی نگه‌داشتن فضای سیاسی آمریکا ادامه دارد."
+        ],
+        "impact": "افکار عمومی آمریکا همچنان تحت تأثیر فضای قطبی‌شده سیاسی و مانور رسانه‌ها بر محور ترامپ قرار دارد.",
+        "tag": "رسانه",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1792845840.0
+    },
+    {
         "id": "267bf9b281",
         "title_fa": "شکست میانجی‌گری در پرونده تــــــــهــــران و واشنگتن",
         "title_en": "Pakistan can mediate between Washington and Tehran, but it cannot manufacture trust",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObm9mV3p5aTRwS3o5U2pNLVZNcUw3alh3UTRHQ05NWGNmbXoxcTFzWmk5WU92OFJ5T2JxWGcweG9RSDZuUzhSbFNtaW50RVFoa29vcERObkJaeHFjanNRRE96R184OG11cy1TcU9CcWlLRm16akcxVGxYbzR2LVRHMEhqbTE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792576511.0
-    },
-    {
-        "id": "1baec539bc",
-        "title_fa": "تکذیب حمله ارتش اسرائیل به ایران پیش از انتخابات آمریکا",
-        "title_en": "IDF did not plan to strike Iran before election despite earlier reports",
-        "summary": [
-            "گزارش‌های منتشر شده مبنی بر طرح‌ریزی حمله نظامی اسرائیل به ایران قبل از انتخابات آمریکا صحت ندارد.",
-            "ارتش اسرائیل با رد این ادعاها، فضای روانی ایجاد شده پیرامون تقابل نظامی فوری را تعدیل کرد."
-        ],
-        "impact": "کاهش تنش‌های لحظه‌ای در بازارهای مالی و فضای سیاسی منطقه.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2MnlIWVdLV2tBemh3cC1BeWNFbDd3RmxhM2VGZlNCVFhURDVfSkRYYUppYXVrbndySmtiWUxheG0zYVNCcGZ2Z2ozSkZnbzF6emRXcGlwOW1CdnRmLTRfREYtajZGR2tFRTZzZUZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2MnlIWVdLV2tBemh3cC1BeWNFbDd3RmxhM2VGZlNCVFhURDVfSkRYYUppYXVrbndySmtiWUxheG0zYVNCcGZ2Z2ozSkZnbzF6emRXcGlwOW1CdnRmLTRfREYtajZGR2tFRTZzZUZn",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792575607.0
     }
 ]
