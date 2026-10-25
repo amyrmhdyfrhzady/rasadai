@@ -325,6 +325,24 @@
         "timestamp": 1792914257.0
     },
     {
+        "id": "c9830e1c89",
+        "title_fa": "فلج کامل صادرات نفت ایـران با فشار نـظامی آمریکا",
+        "title_en": "Iran has a problem: No crude oil was loaded onto a single tanker in September, an unprecedented shutdown driven by US naval blockade",
+        "summary": [
+            "ذخایر نفت شناور جـمهوری اسـلامی در آب‌های آسیا کاملاً تخلیه شده و هیچ محموله‌ای در ماه سپتامبر بارگیری نشده است.",
+            "اقدام نـظامی و محاصره دریایی آمریکا، دسترسی مـقامات تهران به بازارهای فروش را به صفر رسانده است."
+        ],
+        "impact": "قطع کامل درآمدهای نفتی و فروپاشی شریان‌های مالی بـانک مـرکزی.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-has-a-problem-no-crude-oil-was-loaded-onto-a-single-tanker-in-september-an-unprecedented-shutdown-driven-by-us-naval-blockade/ar-AA2g22Dh",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-problem-no-crude-oil-was-loaded-onto-a-single-tanker-in-september-an-unprecedented-shutdown-driven-by-us-naval-blockade/ar-AA2g22Dh",
+        "image": "http://www.bing.com/th?id=ONUT.GskSB42zrziMlkZ1tgtFIw&pid=News",
+        "timestamp": 1792912134.0
+    },
+    {
         "id": "18d73a059e",
         "title_fa": "چالش سخت نتانیاهو؛ ورود فرمانده سابق ارتش اسرائیل به کارزار انتخابات",
         "title_en": "Who is Gadi Eisenkot? Ex-army chief of Israel is Netanyahu's biggest challenger in PM race",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/stopping-irans-nuke-is-my-achievement-trump-its-an-excuse-iran/ar-AA2fM6Ie",
         "image": "http://www.bing.com/th?id=ONUT.VrMrUhfBdd6C71r9TTkjow&pid=News",
         "timestamp": 1792603828.0
-    },
-    {
-        "id": "8406e839b5",
-        "title_fa": "تحریم‌های جدید آمریکا علیه شبکه حمل‌ونقل دریایی ج.ا",
-        "title_en": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping",
-        "summary": [
-            "ایالات متحده دفاتر حقوقی یونان و پاناما را به دلیل پشتیبانی از ناوگان کشتیرانی ج.ا در لیست سیاه قرار داد.",
-            "این اقدام بخشی از فشارها برای مسدود کردن راه‌های دور زدن تحریم‌های نفتی و تجاری است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و افزایش هزینه لجستیک برای صادرات غیرقانونی نفت.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFh4ZEdDSDhEcmZJWFR1VDVOUDVaYTR6aURwNjEzRnpsVGV4aTl1RFR3LVZpa1ZRZW5DY1ByTnBXZmk3RVl4VHRZM0x6UGRnUWp1dUJJUWItY3lYU3dmZ1RBYU1OLTdjc3JXOVB3V09mM051WGM1dEJsaW1WQXRmd3BmVXRaRUZMNzR4bkVBY3RTNWt1aXYxcGdWZVdUMy0xNUNzMlpJMkpyR0RaQVdKbUNENzFIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFh4ZEdDSDhEcmZJWFR1VDVOUDVaYTR6aURwNjEzRnpsVGV4aTl1RFR3LVZpa1ZRZW5DY1ByTnBXZmk3RVl4VHRZM0x6UGRnUWp1dUJJUWItY3lYU3dmZ1RBYU1OLTdjc3JXOVB3V09mM051WGM1dEJsaW1WQXRmd3BmVXRaRUZMNzR4bkVBY3RTNWt1aXYxcGdWZVdUMy0xNUNzMlpJMkpyR0RaQVdKbUNENzFIdw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792602116.0
     }
 ]
