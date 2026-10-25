@@ -37,6 +37,25 @@
         "timestamp": 1792914257.0
     },
     {
+        "id": "18d73a059e",
+        "title_fa": "چالش سخت نتانیاهو؛ ورود فرمانده سابق ارتش اسرائیل به کارزار انتخابات",
+        "title_en": "Who is Gadi Eisenkot? Ex-army chief of Israel is Netanyahu's biggest challenger in PM race",
+        "summary": [
+            "گادی آیزنکوت، رئیس سابق ستاد کل ارتش اسرائیل، با نشان‌گیری شکست‌های امنیتی ۷ اکتبر، به اصلی‌ترین رقیب سیاسی نتانیاهو تبدیل شده است.",
+            "آیزنکوت با سابقه ۴۱ سال خدمت نظامی و دادن تلفات سنگین خانوادگی در جنگ غزه، مواضعی سرسختانه اما متمرکز بر مسئولیت‌پذیری رهبری دارد.",
+            "چشم‌انداز تغییر قدرت در تل‌آویو می‌تواند استراتژی‌های جنگی و نحوه مواجهه با تهدیدات منطقه‌ای را دستخوش تحول کند."
+        ],
+        "impact": "افزایش فشارهای سیاسی داخلی بر نتانیاهو و احتمال تغییر ساختار تصمیم‌گیری‌های امنیتی در اسرائیل.",
+        "tag": "اسرائیل",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/who-is-gadi-eisenkot-ex-army-chief-of-israel-is-netanyahus-biggest-challenger-in-pm-race/articleshow/135185372.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/who-is-gadi-eisenkot-ex-army-chief-of-israel-is-netanyahus-biggest-challenger-in-pm-race/articleshow/135185372.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135185460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1792911120.0
+    },
+    {
         "id": "89321a5fec",
         "title_fa": "انتقاد اوباما از رویکرد ترامپ در قبال پرونده هسته‌ای ایران",
         "title_en": "US Iran War | Obama Targets Trump Over Iran War, Says 'Iran Did Not Have Nuclear Weapons'",
@@ -309,6 +328,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0w3bVVBMUswRGNUYVJKQUF0VEFwa2Q4V0pyWmVobnhpbExzeXhvMHA3ak1UNkN6NVhpVUVISk01OHY4UkhlQUJLRlBVM3BSVGVHekJtTEwyc014UFdDTFRBVHZCeVVrM0JkYXB5c3RxLWpDT05NczE2OUZ5bjFBalFtTG9ieW5KQ3gyWVBRU1pYZw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792880489.0
+    },
+    {
+        "id": "870dcbb3d0",
+        "title_fa": "خط و نشان جـ.ـمهوری اسلامی برای ترامپ و نتانیاهو؛ تهدید به «جنگ آخرالزمانی»",
+        "title_en": "'Apocalyptic Repercussions Beyond Iran': IRGC Threatens Trump & Netanyahu Not To Play With Fire",
+        "summary": [
+            "سپاه پاسداران در واکنش به احتمال حمله مجدد آمریکا و اسرائیل، تهدید کرده که پاسخ ایران یک جنگ فراگیر خواهد بود که تمام خاورمیانه را در بر می‌گیرد.",
+            "این مانور لفظی با هدف ایجاد بازدارندگی روانی و ترساندن تیم ترامپ از عواقب هرگونه اقدام نظامی یا اجرای مجدد فشار حداکثری شکل گرفته است.",
+            "تضعیف شدید نیروهای نیابتی در منطقه، مقامات نظامی تهران را بیش از پیش به سمت ادبیات تهدیدآمیز برای جبران ضعف میدانی سوق داده است."
+        ],
+        "impact": "تلاش تهران برای بالا بردن هزینه محاسباتی واشنگتن و تل‌آویو جهت جلوگیری از ضربه به تاسیسات حیاتی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of India",
+        "url": "https://www.msn.com/en-in/news/other/apocalyptic-repercussions-beyond-iran-irgc-threatens-trump-netanyahu-not-to-play-with-fire/vi-AA2g0xS5",
+        "clean_url": "https://www.msn.com/en-in/news/other/apocalyptic-repercussions-beyond-iran-irgc-threatens-trump-netanyahu-not-to-play-with-fire/vi-AA2g0xS5",
+        "image": "https://static.toiimg.com/thumb/msid-135185054,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1792878300.0
     },
     {
         "id": "ccb8a7cbd2",
@@ -5457,41 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZm1ibWE2TFE3M0JlejZpUkp2aHJkY1NBTFRUR2tvaVV5dmtrbkFjbTlYMGM5WkpOTUp6MXFka3pyX1FGeUthY1NlS25oamJ6R1kzdjR2NHJIWWJDay1VWm00WmJkNjhnWlBwNFp0RDhvdnBZbjMyZHNabGZPSjFhbzJ0eU5lRGpvZXFaN0pXb1F0aWVveW93WWw2a0k1eFg0anJWQllTODdPaDkyejZVNVF3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792586956.0
-    },
-    {
-        "id": "eee38f5887",
-        "title_fa": "بازار جهانی نفت شوک قطع عرضه ایران را هضم کرد",
-        "title_en": "World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks",
-        "summary": [
-            "کاهش تاریخی عرضه نفت ایران در جنگ، فعلاً توسط بازار جهانی جذب شده است.",
-            "پایین بودن سطح ذخایر استراتژیک نفت، آسیب‌پذیری اقتصاد جهانی را در برابر بحران‌های آینده بالا برده است."
-        ],
-        "impact": "آسیب‌پذیری شدید بازارهای انرژی در صورت بروز هرگونه تنش جدید نظامی.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5RLWt6Unk4SkNYOXIySEZqOF8tTUs3NWNZWTRWaUEzVW5MVmNqSTJqTnY5UTZZc09EY0RlLTc3UWcyTWlFcnlLdFdQSG9WSm1RcUFwNENpcGIxQkxmZU53VkFRM3o3aWtQZDRsQ0NHR0ZsejFVdHhyR09Jb1gweU1BLVFCSE1yVnBYQmV3VDRxcEJHVGMzNXh4QTlQbmQzaUJRaVBxM2FRQ3dCX0Rz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5RLWt6Unk4SkNYOXIySEZqOF8tTUs3NWNZWTRWaUEzVW5MVmNqSTJqTnY5UTZZc09EY0RlLTc3UWcyTWlFcnlLdFdQSG9WSm1RcUFwNENpcGIxQkxmZU53VkFRM3o3aWtQZDRsQ0NHR0ZsejFVdHhyR09Jb1gweU1BLVFCSE1yVnBYQmV3VDRxcEJHVGMzNXh4QTlQbmQzaUJRaVBxM2FRQ3dCX0Rz",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792586921.0
-    },
-    {
-        "id": "05b3183897",
-        "title_fa": "سودای شرکت‌های بین‌المللی برای بازسازی ویرانی‌های جنگ احتمالی",
-        "title_en": "Which Firms Will Clean Up After the Iran War is Finally Over?: Maguire",
-        "summary": [
-            "تحلیلگران اقتصادی از هم‌اکنون به دنبال برآورد هزینه‌ها و سهم‌خواهی از بازار بازسازی در صورت وقوع درگیری نظامی در منطقه هستند.",
-            "شرکت‌های بزرگ انرژی و مهندسی برنامه‌ریزی برای ورود به پروژه‌های کلان پس از بحران را کلید زده‌اند."
-        ],
-        "impact": "جلب توجه بازارهای مالی به پیامدهای اقتصادی و صنعتی درگیری‌های احتمالی در منطقه",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792586903.0
     }
 ]
