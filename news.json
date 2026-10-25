@@ -1,5 +1,23 @@
 [
     {
+        "id": "43732ee95d",
+        "title_fa": "ترامپ: توافق اتمی ابا... را پاره کردیم و ت... را شکست دادیم",
+        "title_en": "Presidents Obama And Trump Held Competing Midterm Rallies On The Same Day. They Clashed On Iran.",
+        "summary": [
+            "دونالد ترامپ در تجمع انتخاباتی با دفاع از سیاست فشار حداکثری، توافق اتمی زمان ابا... را مسیر هموار ساخت بمب معرفی کرد.",
+            "او با اشاره به عملیات‌های نظامی مشترک با اس... در سال ۲۰۲۵، مدعی نابودی زیرساخت‌های اتمی و شکست نظامی و مالی ت... شد."
+        ],
+        "impact": "بازگشت رویکرد تقابل حداکثری و تهدید مستقیم مناقشه اتمی در دستور کار واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "International Business Times",
+        "url": "https://www.ibtimes.com/presidents-obama-trump-held-competing-midterm-rallies-same-day-they-clashed-iran-3808966",
+        "clean_url": "https://www.ibtimes.com/presidents-obama-trump-held-competing-midterm-rallies-same-day-they-clashed-iran-3808966",
+        "image": "https://d.ibtimes.com/en/full/4653794/trump-obama.jpg",
+        "timestamp": 1792930200.0
+    },
+    {
         "id": "1ef112007d",
         "title_fa": "محاسبات انتخاباتی ترامپ و آینده تنش‌ها با ای-ران",
         "title_en": "Trump's midterm calculus could decide what happens next in the Iran war",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.iranintl.com/202610224827",
         "image": "http://www.bing.com/th?id=ONUT.4EIepv5TMcbRW3Ouo0tixg&pid=News",
         "timestamp": 1792602000.0
-    },
-    {
-        "id": "c62b0fedf1",
-        "title_fa": "احتمال همکاری مجدد اپل و اینتل",
-        "title_en": "08 Decembrie 2025",
-        "summary": [
-            "اخبار جدید صنعت فناوری از احتمال پایان جدایی چندساله اپل و اینتل خبر می‌دهند.",
-            "این دو غول تکنولوژی ممکن است دوباره پروژه‌های مشترکی را کلید بزنند."
-        ],
-        "impact": "این همکاری جدید می‌تواند تحولات مهمی در بازار سخت‌افزار ایجاد کند.",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/nota-gimnasta-all-around-campionatul-mondial-pag196",
-        "clean_url": "https://ziare.com/cautare/nota-gimnasta-all-around-campionatul-mondial-pag196",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792601475.9375935
     }
 ]
