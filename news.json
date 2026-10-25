@@ -1,5 +1,23 @@
 [
     {
+        "id": "24d43e9409",
+        "title_fa": "نجات چهل ملوان ایرانی در سریلانکا",
+        "title_en": "Sri Lanka rescues 40 Iranian sailors from stranded ships",
+        "summary": [
+            "نیروهای امدادی سریلانکا موفق شدند چهل ملوان ایرانی را از شناورهای گرفتار در دریا نجات دهند.",
+            "این حادثه باری دیگر وضعیت ناامن و فرسوده ناوگان دریایی مرتبط با ایران را به نمایش گذاشت."
+        ],
+        "impact": "این حادثه تلفات جانی نداشت اما ضعفی دیگر در لجستیک دریایی را عیان کرد.",
+        "tag": "حوادث",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5laHNxcmRGTEVtZXF2eHhsTlNHbFR4NFNqZ1d2cWI5X1lPSnUydmRzQ3preHdGNFZIOUhjaWJ0RXJKNFZGSzFHbmNqM1oydHRnN0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5laHNxcmRGTEVtZXF2eHhsTlNHbFR4NFNqZ1d2cWI5X1lPSnUydmRzQ3preHdGNFZIOUhjaWJ0RXJKNFZGSzFHbmNqM1oydHRnN0E",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792949739.0
+    },
+    {
         "id": "e02ee1b640",
         "title_fa": "ترامپ: در سایت‌های هسته‌ای ایران و «کوه‌کلنگ» اتفاق خاصی نمی‌افتد",
         "title_en": "Donald Trump says 'isn’t much going on' at Iranian nuclear sites, Pickaxe Mountain",
@@ -5463,24 +5481,5 @@
         "clean_url": "https://www.counterpunch.org/2026/10/22/welcome-to-the-golden-age-war-decay-and-resistance-in-trumps-america",
         "image": "https://www.counterpunch.org/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-3.47.24-PM-1107x630.png",
         "timestamp": 1792627200.0
-    },
-    {
-        "id": "02479e03e2",
-        "title_fa": "ادعای س*پاه: حمله به ۷ کشتی در خلیج فارس و تنگه هرمز",
-        "title_en": "Iran’s IRGC Says 4 Ships Hit, Set Ablaze in Gulf; 3 Others Strike Mines Near Strait of Hormuz Amid Tensions",
-        "summary": [
-            "س*پاه با ادعای هدف قرار دادن کشتی‌های نفتی، به دنبال باج‌گیری بین‌المللی و ناامن جلوه دادن مسیرهای تجاری است.",
-            "استفاده از مین‌های دریایی و حمله مستقیم، نشان‌دهنده تغییر فاز ج*مهوری اس*لامی به سمت درگیری‌های ایذایی برای فرار از فشارهای بین‌المللی است.",
-            "این نمایش قدرت، بیشتر جنبه جنگ روانی دارد تا تسلط واقعی بر آبراهه‌های بین‌المللی؛ رژیم می‌خواهد هزینه عبور انرژی را برای دنیا بالا ببرد."
-        ],
-        "impact": "افزایش فوری هزینه بیمه کشتی‌ها و احتمال درگیری مستقیم نظامی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Republic World",
-        "url": "https://www.republicworld.com/world-news/irans-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-strait-of-hormuz-2026-10-22-139423",
-        "clean_url": "https://www.republicworld.com/world-news/irans-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-strait-of-hormuz-2026-10-22-139423",
-        "image": "https://img.republicworld.com/all_images/2026/09/iranian-missiles-drones-strike-us-vessel-near-strait-of-hormuz-report-1789609355508-1280x720.webp",
-        "timestamp": 1792625940.0
     }
 ]
