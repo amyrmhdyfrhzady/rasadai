@@ -18,6 +18,24 @@
         "timestamp": 1792916460.0
     },
     {
+        "id": "9b4973b781",
+        "title_fa": "ادعای ارتش ج.ا درباره سرنگونی پهپاد آمریکایی",
+        "title_en": "Iran's army claims it shot down US drone over southern Iran",
+        "summary": [
+            "ارتش ج.ا مدعی شد یک فروند پهپاد ایالات متحده را در جنوب کشور سرنگون کرده است.",
+            "این ادعا در شرایط افزایش تنش‌های نظامی در منطقه مطرح شده و هنوز از سوی منابع مستقل تایید نشده است."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی و التهاب فوری در بازارهای مالی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzVTS0tDaEJqZE9MaG93S25xTDZLczFxM2l6MzVvb01lVF9BVEREOVpwX2dseHFiU3B3NE5hT1Z6bTVRR0V5Qmd2cS0tZGxLYW9RWTJ6R0gwZW9uLTRoMGtSY0VBWDB3U0o1Sm54cmEtS1Y0YUdUNmlBV1hEbnN4VEJqV3gxbHZleTNGRmF5RFh6bVBiQ2xVN3VGUGtkT1RLTEJJaVFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzVTS0tDaEJqZE9MaG93S25xTDZLczFxM2l6MzVvb01lVF9BVEREOVpwX2dseHFiU3B3NE5hT1Z6bTVRR0V5Qmd2cS0tZGxLYW9RWTJ6R0gwZW9uLTRoMGtSY0VBWDB3U0o1Sm54cmEtS1Y0YUdUNmlBV1hEbnN4VEJqV3gxbHZleTNGRmF5RFh6bVBiQ2xVN3VGUGtkT1RLTEJJaVFR",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792916206.0
+    },
+    {
         "id": "ce8e01b752",
         "title_fa": "خط‌ونشان جدید تهران: ازسرگیری جنگ مواضع ما را تغییر نمی‌دهد",
         "title_en": "Iran says resumption of war would not change its stances",
@@ -309,6 +327,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9reFd6eFdFdzZFLUg1dS1pd3BGYmtJMjBzZktXY1NSaXc5QkJwZE5xQ0FMMDVwQzl0OG1kcWtReEtlZjE0dFdzUUJ2LXgxTU1Pc1E",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792892100.0
+    },
+    {
+        "id": "3cac7335d4",
+        "title_fa": "اعتراف قالیباف به بحران گاز و تهدیدهای پوشالی",
+        "title_en": "Iran parliament speaker calls for 10% cut in gas use ahead of winter",
+        "summary": [
+            "محمدباقر قالیباف خواستار کاهش ۱۰ درصدی مصرف گاز در آستانه زمستان شد و ناترازی انرژی را یک چالش ساختاری خواند.",
+            "وی در بخش دیگری از سخنانش با لاف‌زنی درباره تهدیدات جنگی تلاش کرد وضعیت شکننده ساختار سیاسی را پنهان کند."
+        ],
+        "impact": "تشدید نگرانی‌ها از قطعی گسترده گاز صنایع و خانوارها در زمستان پیش رو",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610254097",
+        "clean_url": "https://www.iranintl.com/en/202610254097",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792891260.0
     },
     {
         "id": "d71bab593d",
@@ -5458,42 +5494,5 @@
         "clean_url": "https://www.outlookindia.com/international/iran-us-nuclear-talks-hit-a-wall-over-uranium-neither-side-will-budge-on",
         "image": "http://www.bing.com/th?id=ONUT.RjCauCqi2qJMyCFG4Tmh9g&pid=News",
         "timestamp": 1792592400.0
-    },
-    {
-        "id": "711a75a021",
-        "title_fa": "بازی با مین‌های دریایی در تنگه هرمز همزمان با مذاکرات",
-        "title_en": "Iran Has a New Way to Humiliate Donald Trump: Tehran Could Drop Mines Into the Strait of Hormuz and Spark a Crisis",
-        "summary": [
-            "ادعای برخورد سه نفتکش با مین‌های دریایی در تنگه هرمز، تلاشی مستقیم برای امنیتی کردن مسیر و ایجاد فشار همزمان با آغاز گفتگوها در سوئیس است.",
-            "سنتکام وقوع این برخوردها را رد کرده، در حالی که تهران در تلاش است تردد کشتی‌های تجاری را به سمت آب‌های خود و مسیرهای مشمول عوارض هدایت کند.",
-            "این تحرکات نوعی ارزیابی خطوط قرمز دونالد ترامپ برای سنجش واکنش کاخ سفید به ناامنی ترانزیت انرژی قلمداد می‌شود."
-        ],
-        "impact": "افزایش ناگهانی نرخ بیمه نفتکش‌ها در خلیج فارس و بالا رفتن احتمال رویارویی گشت‌های دریایی طرفین.",
-        "tag": "تنگه هرمز",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "nationalsecurityjournal",
-        "url": "https://www.msn.com/en-us/news/other/iran-has-a-new-way-to-humiliate-donald-trump-tehran-could-drop-mines-into-the-strait-of-hormuz-and-spark-a-crisis/ar-AA2fJJiA",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-new-way-to-humiliate-donald-trump-tehran-could-drop-mines-into-the-strait-of-hormuz-and-spark-a-crisis/ar-AA2fJJiA",
-        "image": "https://nationalsecurityjournal.org/wp-content/uploads/2025/05/Donald-Trump-31.jpg",
-        "timestamp": 1792591819.0
-    },
-    {
-        "id": "25840d6c91",
-        "title_fa": "بحران فرونشست زمین در کرمان و اتمام منابع آبی",
-        "title_en": "Trump says Iran has only inflation left, praises Russia, China for restraint",
-        "summary": [
-            "برداشت بی‌رویه آبهای زیرزمینی و خشکسالی‌های مداوم، دشت‌های استان کرمان را در آستانه نابودی کامل قرار داده است.",
-            "نرخ فرونشست زمین در مناطق مسکونی و کشاورزی به سالانه تا چهل سانتیمتر رسیده و این خسارت‌ها غیرقابل جبران است."
-        ],
-        "impact": "تخریب زیرساخت‌های حیاتی و خالی شدن روستاها از سکنه به دلیل سوءمدیریت منابع آب.",
-        "tag": "بحران_آب",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610215609",
-        "clean_url": "https://www.iranintl.com/en/202610215609",
-        "image": "http://www.bing.com/th?id=ONUT.RnKi9wo2ARIZ8AwLiOyC0A&pid=News",
-        "timestamp": 1792591380.0
     }
 ]
