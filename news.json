@@ -1,5 +1,23 @@
 [
     {
+        "id": "ce22bd8444",
+        "title_fa": "هشدار درباره تداوم سایه تهدیدهای تهران بر اسرائیل",
+        "title_en": "Iran's threat remains as Israel risks an endless cycle of war",
+        "summary": [
+            "چالش اصلی امنیتی تل‌آویو همچنان پابرجا مانده و خطر ورود به چرخه فرساینده جنگ وجود دارد.",
+            "سیاست‌های منطقه‌ای حکومت همچنان به عنوان یک تهدید مستمر برای ثبات مرزها ارزیابی می‌شود."
+        ],
+        "impact": "حفظ آماده‌باش نظامی و امنیتی در مرزهای سرزمین‌های اشغالی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "www.israelhayom.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSF95TUFuaU11LWFiNFAzbTJEOUYxX3pEajg5bTNNNTBYcXEtXzlicWMtajRhRmNJTVR6aHMzMFVjdUVOa0hsN0NnYmJTSVVxa0N2Y0Y5VUZiSDF2Wnp5RFdQUlJRTzdZOFI4UmVlbWw2NTNjYUNRT2IyOC1QWVhQWkZiaTU0QlFDd1F2TFBYTFdDTlpDTU1BSzF2TG1uRHlLSEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSF95TUFuaU11LWFiNFAzbTJEOUYxX3pEajg5bTNNNTBYcXEtXzlicWMtajRhRmNJTVR6aHMzMFVjdUVOa0hsN0NnYmJTSVVxa0N2Y0Y5VUZiSDF2Wnp5RFdQUlJRTzdZOFI4UmVlbWw2NTNjYUNRT2IyOC1QWVhQWkZiaTU0QlFDd1F2TFBYTFdDTlpDTU1BSzF2TG1uRHlLSEE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792942428.0
+    },
+    {
         "id": "fe316f8c07",
         "title_fa": "تمجید آیزنکوت از رویکرد ترامپ در قبال جـ.ـهـ.ـوری اسـ.ـلامی",
         "title_en": "Israel's Eisenkot praises Trump strikes on Iran, warns of nuclear threat",
@@ -286,6 +304,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnBfOURkblNNWHlMNkdKMkVRU1JpOXQtVXBXbzVVVmhXSnFQaXFVbk8xRDJub0pmajRacnNWaHFDMjI4LVRVWDFUSDl5ZUVJclRRZWVBTzlPaWlob0VKQVloeFRlVjE0bFZmc056WHI3bGFtaXhCemNhanpBQWhsUnNyWVYyRnFCbXVfTXB2TUVBVFBzWVFFbVdPUjg1eXdNZkxCakx4SnIxSXNQSENQaFVrb1puWm9DZEM1ZE1qVXByQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792921069.0
+    },
+    {
+        "id": "586cb74018",
+        "title_fa": "کیفرخواست برای کمدین منتقد پس از تقلید صدا",
+        "title_en": "Iran indicts comedian over alleged support for Israel, Pahlavi dynasty",
+        "summary": [
+            "دستگاه قضایی حکومت برای سعید شکیبا، کمدین اینستاگرامی، به دلیل انتشار ویدئوی طنز و تقلید صدای علی خامنه‌ای پرونده قضایی تشکیل داد.",
+            "اتهامات این هنرمند شامل تبلیغ علیه نظام، توهین و ابراز حمایت از اسرائیل و پادشاهی پهلوی عنوان شده است."
+        ],
+        "impact": "تشدید برخورد با چهره‌های هنری و فضای مجازی در راستای ارعاب منتقدان",
+        "tag": "سرکوب",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610253969",
+        "clean_url": "https://www.iranintl.com/en/202610253969",
+        "image": "http://www.bing.com/th?id=ONUT.quNKSk3J_tygYaXp9Ybz7g&pid=News",
+        "timestamp": 1792916820.0
     },
     {
         "id": "e8d812c0db",
@@ -5449,43 +5485,5 @@
         "clean_url": "https://tass.com/world/2205815",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1792606440.0
-    },
-    {
-        "id": "d62c60861c",
-        "title_fa": "خط‌ونشان نظامی تهران و گام‌های پس پرده برای جنگ تمام‌عیار",
-        "title_en": "Netanyahu says Iran considering Israeli election interference",
-        "summary": [
-            "تهدید به پاسخ بدون محدودیت و تغییر به عملیات هجومی نامتقارن، نشان از دست‌پابسته‌تر شدن تهدیدهای نظامی تهران دارد.",
-            "پزشکیان لغو عملی تحریم‌ها را شرط گفتگو دانسته تا همزمان با تهدید نظامی، در دیپلماسی را نیمه‌باز نگه دارد.",
-            "رایزنی‌های شتاب‌زده مقامات ارشد درباره وضعیت اقتصادی و نظامی، عمق هراس از فروپاشی در صورت بروز درگیری گسترده را برملا می‌کند."
-        ],
-        "impact": "تشدید جنگ روانی و بالارفتن ریسک رویارویی مستقیم نظامی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.75,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610220458",
-        "clean_url": "https://www.iranintl.com/en/202610220458",
-        "image": "http://www.bing.com/th?id=ONUT.iLTc3mL6TG2eJV9hvwh80Q&pid=News",
-        "timestamp": 1792606320.0
-    },
-    {
-        "id": "ed1c9dd96e",
-        "title_fa": "بازی تانک کردن مذاکرات صلح توسط تهران برای ضربه به ترامپ",
-        "title_en": "Iran is purposely tanking peace talks to hurt Trump at the polls, regime officials admit",
-        "summary": [
-            "مقام‌های ارشد ج.ا اعتراف کردند عمداً مذاکرات صلح را کش می‌دهند تا ترامپ در انتخابات میان‌دوره‌ای ضربه بخورد.",
-            "تهران هیچ امیدی به توافق ندارد و منتظر طوفان حملات پس از انتخابات آمریکا است.",
-            "افزایش قیمت سوخت در آمریکا به ابزاری برای فشار حاکمیت بر پایگاه رأی جمهوری‌خواهان تبدیل شده است."
-        ],
-        "impact": "تعطیلی دیپلماسی و تبدیل میز مذاکره به ابزار جنگ سیاسی در انتخابات آمریکا.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/21/world-news/iran-is-purposely-tanking-peace-talks-to-hurt-trump-at-the-polls-regime-officials-admit/",
-        "clean_url": "https://nypost.com/2026/10/21/world-news/iran-is-purposely-tanking-peace-talks-to-hurt-trump-at-the-polls-regime-officials-admit",
-        "image": "http://www.bing.com/th?id=ONUT.KG_YhIf7C_3Tk-wP6Oddtw&pid=News",
-        "timestamp": 1792605240.0
     }
 ]
