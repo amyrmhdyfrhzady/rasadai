@@ -1,5 +1,23 @@
 [
     {
+        "id": "5de9852ee6",
+        "title_fa": "شکاف در ارتش اسـراییل بر سر اقدام نظامی علیه ایـران",
+        "title_en": "Israeli military chief resists Netanyahu's Iran order",
+        "summary": [
+            "رئیس ستاد ارتش اسـراییل از اجرای دستور ناگهانی نتانیاهو برای اقدام نظامی خودداری کرده و خواستار مجوز کتبی و قانونی شده است.",
+            "منابع نظامی نگرانند که دولت نتانیاهو از تنش با ایـران برای اهداف سیاسی داخلی استفاده ابزاری کند."
+        ],
+        "impact": "افزایش تنش‌های سیاسی درون‌حکومتی در تل‌آویو همزمان با تحولات امنیتی منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610257335",
+        "clean_url": "https://www.iranintl.com/en/202610257335",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792960740.0
+    },
+    {
         "id": "f3ed29a7c5",
         "title_fa": "اختلاف در ارشدترین سطوح نظامی اسرائیل درباره اقدام علیه ایران",
         "title_en": "Report: Benjamin Netanyahu, Eyal Zamir clash over Iran military 'action' before elections",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0a0dDNHVBZ3htWXJxMWhXS19sRkdkMUNBcXF0MzZWejJBMEpLU2p2WEx3Xy1XaHNuamhaUVBmbHU3OG12Y1ZBaVdHRjJ5ck9jV0U2ZGtyRE5KVEdIUTlOa0NjZlJqeU1YRXfSAW9BVV95cUxQbERlN19LekgzYkNqdXFjd3FJb0lYM2JOaGdhWU1oSFdaSVFFTExkeGM5Y19peUFfR1RxZkczR2VwY2tGTGF4ek11SGcyUVZJeURTLVNyVmw0ZEtUdU5WeGVHT0Y0NV9fSkhDd0hRQzg",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792643202.0
-    },
-    {
-        "id": "e9afb9cdfa",
-        "title_fa": "حواشی جنجالی ترامپ و پشت پرده رقابت‌های سیاسی آمریکا",
-        "title_en": "What's Behind Trump's Midterm Obsession With a Senator's 'Ass'?",
-        "summary": [
-            "تمرکز ترامپ روی مسائل حاشیه‌ای و اظهارات جنجالی درباره چهره‌های سیاسی داخلی ادامه دارد.",
-            "تیم تبلیغاتی ترامپ به این نتیجه رسیده که حضور رسانه‌ای برخی چهره‌های تندرو به پایگاه رأی آن‌ها آسیب می‌زند."
-        ],
-        "impact": "این حواشی بر دوقطبی سیاسی آمریکا و جابجایی آرای خاکستری تأثیر می‌گذارد.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "zeteo",
-        "url": "https://zeteo.com/p/whats-behind-trumps-midterm-obsession",
-        "clean_url": "https://zeteo.com/p/whats-behind-trumps-midterm-obsession",
-        "image": "https://substackcdn.com/image/fetch/$s_!ZHBU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https://substack-post-media.s3.amazonaws.com/public/images/7e6bc218-5eb3-4ef2-a0a9-fb791260f2f0_4975x3602.jpeg",
-        "timestamp": 1792642380.0
     }
 ]
