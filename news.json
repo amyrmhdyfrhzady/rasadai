@@ -436,6 +436,25 @@
         "timestamp": 1792842573.0
     },
     {
+        "id": "f7ef6a6908",
+        "title_fa": "دوگانگی در بغداد؛ بی‌طرفی دولت عراق در برابر سرکشی نیابتی‌ها",
+        "title_en": "Trump defends scrapping Iran nuclear deal after Obama touts its success",
+        "summary": [
+            "نخست‌وزیر عراق از بی‌طرفی بغداد و عدم مشارکت در هرگونه درگیری منطقه‌ای صحبت می‌کند، در حالی که گروه‌های مسلح تحت حمایت تهران حمایت از ایران در برابر آمریکا و اسرائیل را «تکلیف اخلاقی» می‌دانند.",
+            "این شکاف عمیق، بی‌اثری وعده‌های دولت مرکزی برای انحصار سلاح و تصمیم‌گیری نظامی را فاش می‌کند.",
+            "با افزایش تنش‌ها، احتمال استفاده گروه‌های نیابتی از خاک و آسمان عراق برای تقابل نظامی بالا رفته و حاکمیت بغداد را تحت فشار شدید قرار داده است."
+        ],
+        "impact": "افزایش احتمال کشیده شدن بی‌رویه عراق به جنگ منطقه‌ای و صدمه شدید به امنیت و اقتصاد این کشور.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610254213",
+        "clean_url": "https://www.iranintl.com/en/202610254213",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792841580.0
+    },
+    {
         "id": "2f908cb9d0",
         "title_fa": "عراق در لبه تیغ جنگ تهران و تل‌آویو",
         "title_en": "Iraq faces renewed Iran war spillover despite pledge to stay out",
@@ -5471,24 +5490,5 @@
         "clean_url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091",
         "image": "https://media.townhall.com/cdn/hodl/2026/59/0b1bb793-3bac-452d-adaf-e005f1896b5b-1200x630.jpg",
         "timestamp": 1792574040.0
-    },
-    {
-        "id": "8a7b0507f0",
-        "title_fa": "رونمایی از سامانه پدافندی هوش مصنوعی روس‌ها با دقت مرگبار",
-        "title_en": "Citadel air defense system AI components ensure 99% target engagement rate — Rostec",
-        "summary": [
-            "شرکت دولتی روستک اعلام کرد سامانه پدافندی سیتادل به هوش مصنوعی مجهز شده و نرخ انهدام اهداف را به ۹۹ درصد رسانده است.",
-            "این سامانه قابلیت درگیری با ریزپرنده‌های اف‌پی‌وی، پهپادهای سنگین و موشک‌های کروز را دارد و در شرایط واقعی جنگی یادگیری می‌کند.",
-            "الگوریتم‌های یادگیری ماشین خطاهای شلیک اول را تصحیح کرده و با گلوله‌های هوشمند ترکش‌زا، تعداد پرتابه‌های مورد نیاز را به شدت کاهش می‌دهند."
-        ],
-        "impact": "ارتقای فناوری‌های پهپادی و پدافندی در جنگ‌ها، چالش جدیدی برای اهداف حیاتی ایجاد می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2205183",
-        "clean_url": "https://tass.com/economy/2205183",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792573980.0
     }
 ]
