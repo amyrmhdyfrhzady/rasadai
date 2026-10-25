@@ -1,5 +1,24 @@
 [
     {
+        "id": "85a324c955",
+        "title_fa": "سیگنال‌های متناقض تهران هم‌زمان با هشدار ترامپ به حمله نظامی",
+        "title_en": "Iran sends conflicting signals on US deal as Trump raises prospect of strikes",
+        "summary": [
+            "دونالد ترامپ با مطرح کردن صریح گزینه اقدام نظامی، سطح تهدید علیه تهران را به بالاترین حد رسانده است.",
+            "ارسال پیام‌های متناقض از سوی مسئولان نشان‌دهنده شکاف و سردرگمی عمیق در نحوه مواجهه با دولت جدید آمریکاست؛ تمایل به مذاکره در کنار لفاظی‌های تند تقابلی.",
+            "فشار حداکثری واشنگتن این‌بار با اهرم مستقیم تهدید سخت گره خورده و مانور دیپلماتیک تهران را شدیداً محدود کرده است."
+        ],
+        "impact": "افزایش ریسک جنگ و جهش قیمت دلار در بازار آزاد تحت تأثیر احتمال درگیری سخت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9reFd6eFdFdzZFLUg1dS1pd3BGYmtJMjBzZktXY1NSaXc5QkJwZE5xQ0FMMDVwQzl0OG1kcWtReEtlZjE0dFdzUUJ2LXgxTU1Pc1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9reFd6eFdFdzZFLUg1dS1pd3BGYmtJMjBzZktXY1NSaXc5QkJwZE5xQ0FMMDVwQzl0OG1kcWtReEtlZjE0dFdzUUJ2LXgxTU1Pc1E",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792892100.0
+    },
+    {
         "id": "d71bab593d",
         "title_fa": "خطر بازگشت آمریکا و جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی به جنگ تمام‌عیار",
         "title_en": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
@@ -5472,23 +5491,5 @@
         "clean_url": "https://www.msn.com/en-us/news/news/iran-s-baloch-minority-want-israeli-strikes-to-continue-until-regime-falls-activist-tells-post/ar-AA2fJQAT",
         "image": "http://www.bing.com/th?id=ONUT.mSKTVB4qbAhFjmyvk_sx4g&pid=News",
         "timestamp": 1792574753.0
-    },
-    {
-        "id": "69efa4564f",
-        "title_fa": "هشدار صدر اعظم آلمان نسبت به نفوذ مسکو بر جامعه آلمان",
-        "title_en": "Merz names Russia's influence on Germans his main concern",
-        "summary": [
-            "تمرکز اصلی برلین بر مقابله با اثرگذاری پنهان روسیه بر افکار عمومی آلمان است.",
-            "منتقدان دولت فد‌رال را به بی‌توجهی به چالش‌های داخلی و اقتصادی متهم می‌کنند."
-        ],
-        "impact": "افزایش تنش‌های سیاسی داخلی در آلمان بر سر نحوه مقابله با تهدیدهای خارجی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2205765",
-        "clean_url": "https://tass.com/world/2205765",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792574100.0
     }
 ]
