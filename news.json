@@ -183,6 +183,24 @@
         "timestamp": 1792863057.0
     },
     {
+        "id": "4e99fdcccf",
+        "title_fa": "انتقاد اوباما از سیاست‌های ترامپ در قبال تهران",
+        "title_en": "Obama says 'unnecessary' Iran war has left Tehran in a stronger position",
+        "summary": [
+            "رئیس‌جمهور پیشین آمریکا سیاست دولت فعلی در قبال ایران را اشتباه راهبردی و جنگی غیرضروری خواند.",
+            "اوباما مدعی شد درگیری‌های اخیر دست برتر را به حکومت ایران داده و امنیت کشتیرانی در خلیج فارس را به خطر اندخته است."
+        ],
+        "impact": "بالارفتن تنش‌های سیاسی داخلی در آمریکا بر سر نحوه مواجهه با تهران.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610241981",
+        "clean_url": "https://www.iranintl.com/en/202610241981",
+        "image": "http://www.bing.com/th?id=ONUT.zDIATd2TKXQXSACsT8zxsQ&pid=News",
+        "timestamp": 1792858920.0
+    },
+    {
         "id": "184b0f76aa",
         "title_fa": "آماده‌باش امنیتی؛ افزایش تحکات جـ.ـهـ.ـوری اسـ.ـلامـ.ـی علیه نظامیان آمریکایی",
         "title_en": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
@@ -453,6 +471,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNmhvT2V1bHJqY3hUSTRKa182aktFdjRHMGl2aEx1b0pkMXJyRWlpQzVpdEo4R1lHZGJFYUwybDNJX0VJZnZ1b1c5QlJaeDRmRUE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792836201.0
+    },
+    {
+        "id": "5bb8926b97",
+        "title_fa": "آماده‌باش سفارتخانه‌های آمریکا در پی تهدیدهای جدی ج.ا",
+        "title_en": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+        "summary": [
+            "نهادهای اطلاعاتی آمریکا از برنامه‌ریزی پیشرفته ج.ا برای حمله به پرسنل این کشور در منطقه خبر دادند.",
+            "دستور خروج کارمندان غیرضروری از عربستان همزمان با تشدید حملات پهپادی و موشکی نیابتی‌ها صادر شد.",
+            "مقامات تهران در ظاهر ادعای آمادگی برای مذاکره دارند اما همزمان خط تنش نظامی را بالا برده‌اند."
+        ],
+        "impact": "افزایش سطح هشدار امنیتی برای تمامی مراکز و نظامیان آمریکایی در خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+        "clean_url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108455865-1792853767350-gettyimages-2263973348-AFP_99PF763.jpeg?v=1792853845&w=1920&h=1080",
+        "timestamp": 1792831440.0
     },
     {
         "id": "b4cb9b6eb7",
@@ -5453,41 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-against-renewed-attacks-says-it-will-conduct-offensive-retaliation/ar-AA2fLkkn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792573630.0
-    },
-    {
-        "id": "f4cd3a909c",
-        "title_fa": "هدف‌گیری راه‌آهن ایـران توسط تحریم‌های جدید آمـریکا",
-        "title_en": "US sanctions target Iran's rail sector as Tehran shifts cargo from sea routes to overland corridors",
-        "summary": [
-            "واشنگتن بخش ریلی را هدف گرفته تا مسیرهای جایگزین زمینی برای دور زدن تحریم‌های دریایی را مسدود کند.",
-            "تغییر مسیر ترابری کالاها از دریا به خشکی نتوانسته مانع از فشار اقتصادی تحریم‌ها شود."
-        ],
-        "impact": "فلج شدن شریان‌های لجستیکی زمینی و افزایش چشمگیر هزینه انتقال کالا برای جـمهوری اسـلامی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXhCWlFGRXhoeFNJMW1wS1I3VWNyX3k5OGgxN1RuemtQWnBRQkctcXBjVjc4OVFUdXVaYzR6QnpxQVpyaW5jX0lmTndDTDFNX0JwVGotejZuSVhSanQ2Z3NvQW5IblRldXIyZHpqem5GczFRTm1oZnowRDBKUUR1Rk5RQjEzZksybVlrR3FvZFM0TWYydDZ3YWJGcThPZ0hndmF4UlJrZXYwbDg1UHNRcFVHaXR2MjRqQ0hmdFU4VnFDekhZU2t0RGhCSdIBywFBVV95cUxQNVpPZGhlbU5WaTRGakQ1UGZlS2RHSVJXRXZQYnJvRTJTRk5OWXVYR0dnYS01MFk4VUJYc01DM0xEblRBa0tsY2pKMEdOaXNaalloSUhvaFVWdG9rSG1ZY21XNkdfejd4VE03Sk16UWhIS0NIUmNQSFVpbXV1VHZHcm9fZEU1WTlBZWVDc3VZa2F5R2pkZ2Z5cjgtTTVDNTRycDk3MnBWdmNfbURrc3M3ZUYxUjV4b3hlcndXZ3VHemw5Vmo0RVdNRW9KZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXhCWlFGRXhoeFNJMW1wS1I3VWNyX3k5OGgxN1RuemtQWnBRQkctcXBjVjc4OVFUdXVaYzR6QnpxQVpyaW5jX0lmTndDTDFNX0JwVGotejZuSVhSanQ2Z3NvQW5IblRldXIyZHpqem5GczFRTm1oZnowRDBKUUR1Rk5RQjEzZksybVlrR3FvZFM0TWYydDZ3YWJGcThPZ0hndmF4UlJrZXYwbDg1UHNRcFVHaXR2MjRqQ0hmdFU4VnFDekhZU2t0RGhCSdIBywFBVV95cUxQNVpPZGhlbU5WaTRGakQ1UGZlS2RHSVJXRXZQYnJvRTJTRk5OWXVYR0dnYS01MFk4VUJYc01DM0xEblRBa0tsY2pKMEdOaXNaalloSUhvaFVWdG9rSG1ZY21XNkdfejd4VE03Sk16UWhIS0NIUmNQSFVpbXV1VHZHcm9fZEU1WTlBZWVDc3VZa2F5R2pkZ2Z5cjgtTTVDNTRycDk3MnBWdmNfbURrc3M3ZUYxUjV4b3hlcndXZ3VHemw5Vmo0RVdNRW9KZw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792572525.0
-    },
-    {
-        "id": "a82072eba6",
-        "title_fa": "احتمال ضربه سنگین اسـراییل به تـاسیسات ایـران پیش از انتخابات",
-        "title_en": "Israeli plans to strike Iran before election raise fears of wider regional war",
-        "summary": [
-            "طرح‌های نظامی جدید تل‌آویو برای حمله پیشگیرانه به زیرساخت‌های استراتژیک جمهوری اسـلامی روی میز است.",
-            "محافل امنیتی غرب نسبت به بروز یک جنگ تمام‌عیار و فراگیر در منطقه هشدار جدی داده‌اند."
-        ],
-        "impact": "افزایش شدید ریسک ژئوپلیتیک و نااطمینانی در بازارهای مالی منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbXU5ZV9TZm8wOFlyeEVTRVlvckRHSHFtYnpLWldkREdqOFNRbnFWZThXazNCMkZJM2E1eWVwQzJnSHQ1MzZHR2R5QUpESU5oSllIcGVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbXU5ZV9TZm8wOFlyeEVTRVlvckRHSHFtYnpLWldkREdqOFNRbnFWZThXazNCMkZJM2E1eWVwQzJnSHQ1MzZHR2R5QUpESU5oSllIcGVR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792572355.0
     }
 ]
