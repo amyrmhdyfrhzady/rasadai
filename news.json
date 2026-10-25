@@ -127,6 +127,24 @@
         "timestamp": 1792888704.0
     },
     {
+        "id": "efc51a1e91",
+        "title_fa": "هشدار سفیر جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی درباره جنگ فراگیر در منطقه",
+        "title_en": "Speakers call for Muslim unity, caution against wider regional conflict at FIGS seminar",
+        "summary": [
+            "سفیر جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی در پاکستان خواهان اتحاد کشورهای مسلمان در برابر تنش‌های رو به رشد شد.",
+            "او دعوای چند دهه‌ای تهران با آمریکا را به تحریم‌ها و برنامه اتمی ربط داد و مدعی ماهیت صلح‌آمیز آن شد."
+        ],
+        "impact": "افزایش نگرانی کشورهای همسایه از سرایت درگیری‌های منطقه‌ای به مرزهای پاکستان.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Pakistan Observer",
+        "url": "https://pakobserver.net/speakers-call-for-muslim-unity-caution-against-wider-regional-conflict-at-figs-seminar/",
+        "clean_url": "https://pakobserver.net/speakers-call-for-muslim-unity-caution-against-wider-regional-conflict-at-figs-seminar",
+        "image": "https://pakobserver.net/wp-content/uploads/2026/10/speakers-call-for-muslim-unity-caution-against-wider-regional-conflict-at-figs-seminar-pakobserver-783896.jpg",
+        "timestamp": 1792886400.0
+    },
+    {
         "id": "51906572fe",
         "title_fa": "اولویت‌بندی پوتین: ترامپ جلوتر از تهران",
         "title_en": "Putin puts Trump ahead of Iran in bid to mediate war",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-is-trying-to-create-a-rot-from-within-through-information-warfare-analyst-warns/ar-AA2fKBSh",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792579140.0
-    },
-    {
-        "id": "24d12d0c17",
-        "title_fa": "ویدئوی جنجالی بن‌گفیر از آینده غزه با هوش مصنوعی",
-        "title_en": "Ben-Gvir mocks Gazans in AI video ahead of Israel elections",
-        "summary": [
-            "وزیر امنیت داخلی اسرائیل با انتشار ویدئویی ساختگی، غزه را در سال ۲۰۳۰ به عنوان یک شهر ویران و متروکه به تصویر کشید.",
-            "این اقدام تبلیغاتی با هدف خودنمایی از ویرانی‌های به بار آمده و تمسخر ساکنان فلسطینی غزه پیش از انتخابات پارلمانی انجام شد."
-        ],
-        "impact": "تشدید جنگ روانی و افزایش نفرت عمومی در پی نمایش تخریب‌های گسترده.",
-        "tag": "منطقه‌ای",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "en.yenisafak",
-        "url": "https://en.yenisafak.com/world/ben-gvir-mocks-gazans-in-ai-video-ahead-of-israel-elections-3724668",
-        "clean_url": "https://en.yenisafak.com/world/ben-gvir-mocks-gazans-in-ai-video-ahead-of-israel-elections-3724668",
-        "image": "https://img.piri.net/piri/upload/3/2026/10/21/4b6455ad-ben-gvir-mocks-gazans-in-ai-video-ahead-of-israel-elections.webp",
-        "timestamp": 1792577940.0
     }
 ]
