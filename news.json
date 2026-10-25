@@ -1,5 +1,23 @@
 [
     {
+        "id": "29f7458b3f",
+        "title_fa": "طرح دو مرحله‌ای اروپا برای مذاکره با تـهـران",
+        "title_en": "Europe's E3 weighs two-stage Iran plan, Hormuz first",
+        "summary": [
+            "آلمان، فرانسه و انگلیس به دنبال توافق بر سر امنیت تنگه هرمز پیش از آغاز گفت‌وگوهای اتمی هستند.",
+            "این طرح دو مرحله‌ای به عنوان راهکار کمکی برای کاهش تنش‌ها میان واشنگتن و جـمـهـورۍ اسـلـامـۍ مطرح شده است."
+        ],
+        "impact": "این طرح می‌تواند مسیر دیپلماسی را باز کند اما تضمینی برای عقب‌نشینی اتمی حاکمیت ندارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "bne IntelliNews",
+        "url": "https://www.msn.com/en-us/news/other/europe-s-e3-weighs-two-stage-iran-plan-hormuz-first/ar-AA2g3F6h",
+        "clean_url": "https://www.msn.com/en-us/news/other/europe-s-e3-weighs-two-stage-iran-plan-hormuz-first/ar-AA2g3F6h",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2g2Mjs.img?w=900&h=510&m=4&q=87",
+        "timestamp": 1792969580.0
+    },
+    {
         "id": "cde320851a",
         "title_fa": "رزمایش بزرگ ائتلاف ضد رژیم و هشدار به تهـران",
         "title_en": "Israel warns Iran with massive military drill as expert flags risk of accidental war",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-reveals-offensive-doctrine-us-121232128.html",
         "image": "http://www.bing.com/th?id=ONUT.atjxVZ9gtpsd7VY3KUrzxw&pid=News",
         "timestamp": 1792645920.0
-    },
-    {
-        "id": "878678ba77",
-        "title_fa": "توافق مسکو و مینسک برای اجرای ۱۶۰ مانور نظامی مشترک",
-        "title_en": "Russia-Belarus military cooperation plan for 2026 features more than 160 activities",
-        "summary": [
-            "روسیه و بلاروس برنامه همکاری‌های نظامی مشترک خود را برای سال ۲۰۲۶ با بیش از ۱۶۰ رویداد نظامی کلید زدند.",
-            "وزیر دفاع بلاروس از اجرای عملیاتی برنامه‌های راهبردی مشترک با مسکو برای تقویت امنیت منطقه اتحادیه خبر داد."
-        ],
-        "impact": "تثبیت ابرقدرت‌نمایی نظامی مسکو و مینسک در مرزهای شرقی اروپا و افزایش فشارهای امنیتی بر ناتو.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2206243",
-        "clean_url": "https://tass.com/world/2206243",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792644900.0
     }
 ]
