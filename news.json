@@ -382,6 +382,24 @@
         "timestamp": 1792842573.0
     },
     {
+        "id": "2f908cb9d0",
+        "title_fa": "عراق در لبه تیغ جنگ تهران و تل‌آویو",
+        "title_en": "Iraq faces renewed Iran war spillover despite pledge to stay out",
+        "summary": [
+            "بغداد تلاش می‌کند خود را از درگیری‌های منطقه‌ای دور نگه دارد، اما گروه‌های مسلح وابسته به ایران خاک این کشور را به خط مقدم مقابله تبدیل کرده‌اند.",
+            "استفاده از حریم هوایی عراق برای عبور جنگنده‌ها و فعالیت انبار تسلیحاتی گروه‌های نیابتی، دولت مرکزی را در کنترل اوضاع ناتوان ساخته است."
+        ],
+        "impact": "افزایش ریسک امنیتی و تبدیل شدن خاک عراق به میدان تسویه حساب منطقه‌ای.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202610242914",
+        "clean_url": "https://www.iranintl.com/en/202610242914",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b410dd8a24dedd56bc641447df9e6f131e0eb6a8-1080x779.png?rect=0,107,1080,567&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1792839840.0
+    },
+    {
         "id": "c2166842d5",
         "title_fa": "فشار حداکثری؛ نامزد ایرانی‌تبار کنست خواستار سقوط ح-ک-و-م-ت شد",
         "title_en": "Iran-born former Mossad officer running for Knesset urges end of Islamic Republic",
@@ -5471,24 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbXU5ZV9TZm8wOFlyeEVTRVlvckRHSHFtYnpLWldkREdqOFNRbnFWZThXazNCMkZJM2E1eWVwQzJnSHQ1MzZHR2R5QUpESU5oSllIcGVR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792572355.0
-    },
-    {
-        "id": "95b86f3895",
-        "title_fa": "تایید ۵ عضو کلیدی کابینه جدید پوتین در پارلمان روسیه",
-        "title_en": "FACTBOX: State Duma confirms five government appointments",
-        "summary": [
-            "دومای روسیه پنج انتصاب جدید در کابینه از جمله وزرای دارایی و حمل‌ونقل را تایید کرد تا تمرکز بر مدیریت بحران اقتصادی و توسعه زیرساخت‌ها پررنگ‌تر شود.",
-            "تثبیت موقعیت سیلوآنوف در وزارت دارایی نشان از تداوم سیاست‌های سخت‌گیرانه مالی مسکو برای تامین هزینه‌های جنگ و مهار تحریم‌ها دارد.",
-            "تاکید کابینه جدید بر توسعه سیستم‌های خودکار و پهپادی در حمل‌ونقل، از برنامه‌ریزی مسکو برای ارتقای لوجستیک نظامی و غیرنظامی پرده برمی‌دارد."
-        ],
-        "impact": "انسجام بیشتر ساختار مالی و لوجستیکی مسکو برای مدیریت پیامدهای تحریم‌های غربی و پشتیبانی از جنگ.",
-        "tag": "روسیه",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2205719",
-        "clean_url": "https://tass.com/politics/2205719",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261021/1490575.jpg",
-        "timestamp": 1792570920.0
     }
 ]
