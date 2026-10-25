@@ -254,6 +254,25 @@
         "timestamp": 1792875301.0
     },
     {
+        "id": "ba03b9515a",
+        "title_fa": "طرح دیپلماتیک استانبول برای مهار جنگ در تنگه هرمز",
+        "title_en": "From Istanbul to Islamabad",
+        "summary": [
+            "تبادل تهدیدهای نظامی میان واشنگتن، تهران و تل‌آویو، امنیت کشتیرانی در تنگه هرمز و باب‌المندب را به نقطه بحرانی رسانده است.",
+            "گروه E3 و R4 در استانبول تلاش می‌کنند با احیای توافق صلح اسلام‌آباد، واشنگتن و تهران را مجدداً به پای میز مذاکره بکشانند.",
+            "کلید اصلی این طرح، ایجاد آتش‌بس موقت و کاهش هم‌زمان تنش‌های نظامی در منطقه است."
+        ],
+        "impact": "شکست این ابتکار دیپلماتیک خطر رویارویی مستقیم نظامی در خطوط انتقال انرژی و جهش قیمت نفت را بشدت افزایش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Nation",
+        "url": "https://www.nation.com.pk/25-Oct-2026/istanbul-islamabad",
+        "clean_url": "https://www.nation.com.pk/25-Oct-2026/istanbul-islamabad",
+        "image": "https://www.nation.com.pk/uploads/facebook_post_images/2026-10-25/facebook_post_image_1792907501.jpg",
+        "timestamp": 1792874340.0
+    },
+    {
         "id": "419a7816b0",
         "title_fa": "طرح‌های ترور مقام‌های آمریکایی توسط ج.ا در مرحله نهایی",
         "title_en": "Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202610218738",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/3233fbd14b9e43da8e50ef08c30feef2264cebc7-850x600.jpg?rect=125,0,600,600&w=200&h=200&q=90&fit=crop&auto=format",
         "timestamp": 1792583280.0
-    },
-    {
-        "id": "cbc62352c7",
-        "title_fa": "تأکید رضا پهلوی بر خیزش سراسری به عنوان یک انقلاب",
-        "title_en": "25 Ianuarie 2023",
-        "summary": [
-            "رضا پهلوی خیزش مردمی پس از جان‌باختن مهسا امینی را یک انقلاب تمام‌عیار برای عبور قطعی از حاکمیت توصیف کرد.",
-            "این پیام بر لزوم همبستگی همگانی و هدایت اعتراضات به سمت گذار نهایی تمرکز دارد."
-        ],
-        "impact": "افزایش فشارهای بین‌المللی بر تهران و یکپارچه‌تر شدن تحرکات مخالفان در خارج از کشور.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/primar-fiul-inecat-pag305",
-        "clean_url": "https://ziare.com/cautare/primar-fiul-inecat-pag305",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1792582277.5306628
     }
 ]
