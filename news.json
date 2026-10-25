@@ -1,5 +1,24 @@
 [
     {
+        "id": "53005bcda8",
+        "title_fa": "دستور نتانیاهو برای سرنگونی حکومت ایـرآن",
+        "title_en": "Netanyahu says he ordered Mossad, military to topple Iran regime",
+        "summary": [
+            "نخست‌وزیر اسرائیل علناً اعلام کرد که به موساد و ارتش دستور داده تا برای براندازی جـمـهـوری اسـلامـی اقدام کنند.",
+            "تهران همچنان به عنوان یک تهدید اتمی بالقوه دیده می‌شود که مانند عقرب زخمی خطرناک است.",
+            "اسرائیل بار دیگر بر ضربات سنگین نظامی و تداوم فشارها علیه ساختار قدرت تاکید کرد."
+        ],
+        "impact": "تغییر دکترین نظامی اسرائیل از مهار به تلاش آشکار برای تغییر حـکـومـت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610251909",
+        "clean_url": "https://www.iranintl.com/en/202610251909",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792957920.0
+    },
+    {
         "id": "c2194f0da1",
         "title_fa": "بازتاب حملات موشکی در شبکه‌های اجتماعی",
         "title_en": "'Missiles from Iran': TikTok and Instagram feed us scary news from the past",
@@ -323,6 +342,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2NFa1RNMlVjQ2UxWWppbHZnSk1qYmo5NnVuTTNId2gwSWhMU2tfbnR4MmlYMDN4WDhnMzI1QkhNRkwxVWstdFE2ejhEenNMaG5jU3ZiZldMcnN3NDhBRHJqbGVHLW8yNFVqVkxkTWliRExTemZSNzdNeWFZeEpMR0F6SXpRQ0F3N3BYZXI1ejhVZw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792935044.0
+    },
+    {
+        "id": "a045c27057",
+        "title_fa": "خیال‌پردازی بودجه‌ای با نفت ۱۳۰ دلاری",
+        "title_en": "Iran considers $130 oil price for next year's budget – Iranian media",
+        "summary": [
+            "سازمان برنامه و بودجه نرخ نفت را برای سال آینده ۱۴۰۶ روی رقم غیرواقعی ۱۳۰ دلار بسته است.",
+            "این رقم‌سازی‌های نجومی صرفاً برای سرپوش گذاشتن بر کسری بودجه شدید و فرار از واقعیت‌های اقتصادی است."
+        ],
+        "impact": "عمق بحران مالی دولت و تلاش برای دستکاری آمارهای اقتصادی روی کاغذ.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610253269",
+        "clean_url": "https://www.iranintl.com/en/202610253269",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792933080.0
     },
     {
         "id": "ff3491d5f7",
@@ -5442,43 +5479,5 @@
         "clean_url": "https://www.iranintl.com/en/202610221442",
         "image": "http://www.bing.com/th?id=ONUT.2NvKbr7v4dmJfcrIK_wQQA&pid=News",
         "timestamp": 1792639260.0
-    },
-    {
-        "id": "3b7b349158",
-        "title_fa": "سقوط آزاد صادرات گاز مایع ایران در پی جنگ و تحریم",
-        "title_en": "Turkey to host regional and European ministers for talks on Iran, Yemen and Ukraine",
-        "summary": [
-            "آمارهای کشتیرانی نشان می‌دهد صادرات گاز مایع ایران از زمان شروع مسدودسازی مسیرها به شدت افت کرده است.",
-            "منابع آگاه حجم صادرات پیشین را حدود ۳۰ میلیون بشکه تخمین می‌زنند که اکنون به طور چشمگیری کاهش یافته است.",
-            "درآمد ارزی حاصل از فروش پروپان و بوتان که یکی از منابع اصلی تامین مالی حکومت بود، ضربه سنگینی خورده است."
-        ],
-        "impact": "فلج شدن یکی از معبرهای اصلی درآمد ارزی بخش انرژی جـمهوری اسـلامی.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610229477",
-        "clean_url": "https://www.iranintl.com/en/202610229477",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792638960.0
-    },
-    {
-        "id": "9dd9b77abe",
-        "title_fa": "فلج‌شدن صادرات گاز مایع ایران زیر بار تحریم‌ها",
-        "title_en": "US blockade leaves Iran with millions of tons of surplus LPG",
-        "summary": [
-            "صادرات گاز مایع ایران به دلیل اقدامات سخت‌گیرانه دریایی آمریکا از اواسط جولای سقوط کرد.",
-            "حجم صادرات از حدود ۳۰ میلیون بشکه در سال گذشته به تنها ۴.۱ میلیون بشکه در دوره اخیر رسیده است.",
-            "جمهوری اسلامی با انباشت میلیون‌ها تن پروپان و بوتان مازاد و بی‌клиент مواجه شده است."
-        ],
-        "impact": "از دست رفتن میلیاردها دلار درآمد ارزی و فشار خردکننده بر اقتصاد نفتی حکومت.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610218399",
-        "clean_url": "https://www.iranintl.com/en/202610218399",
-        "image": "http://www.bing.com/th?id=ONUT.VjqdffLDdrUQTz3c1Bmcxw&pid=News",
-        "timestamp": 1792638180.0
     }
 ]
