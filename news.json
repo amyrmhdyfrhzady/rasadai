@@ -273,6 +273,24 @@
         "timestamp": 1792855440.0
     },
     {
+        "id": "0ef3d867c3",
+        "title_fa": "انتقاد شدید اوباما از سیاست‌های ترامپ در قبال ایران",
+        "title_en": "Obama unloads on Trump for Iran war, mocks his diplomatic strategy",
+        "summary": [
+            "اوباما، ترامپ را عامل اصلی جهش قیمت سوخت و تلفات غیرضروری نظامیان می‌داند.",
+            "استراتژی دیپلماتیک ترامپ در برابر تـهـران توسط رئیس‌جمهور اسبق آمریکا به سخره گرفته شد."
+        ],
+        "impact": "تشدید جنگ لفظی میان مهره‌های سیاسی آمریکا درباره پرونده ایـران",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/obama-unloads-on-trump-for-iran-war-mocks-his-diplomatic-strategy/ar-AA2fZS8l",
+        "clean_url": "https://www.msn.com/en-us/news/other/obama-unloads-on-trump-for-iran-war-mocks-his-diplomatic-strategy/ar-AA2fZS8l",
+        "image": "http://www.bing.com/th?id=ONUT.mfLfYcbBMYePUwUQ2YLfdg&pid=News",
+        "timestamp": 1792854819.0
+    },
+    {
         "id": "31959c30ca",
         "title_fa": "تخليه پايگاه‌های آمريکا در خاورميانه از ترس تهديدهای ج.ا",
         "title_en": "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://tass.com/economy/2205183",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1792573980.0
-    },
-    {
-        "id": "7db12e4c64",
-        "title_fa": "فلج شدن پهپادهای اوکراینی با اعمال محدودیت در استارشیلد",
-        "title_en": "Ukraine loses at least $1 mln worth of drones amid Starshield disruptions — newspaper",
-        "summary": [
-            "ارتش اوکراین به دلیل اختلال در شبکه ماهواره‌ای، میلیون‌ها دلار تجهیزات از دست داد.",
-            "خشم دونالد ترامپ و ایلان ماسک از حملات اوکراین به پالایشگاه‌های روسی علت اصلی این تصمیم گزارش شده است."
-        ],
-        "impact": "زمین‌گیر شدن عملیات‌های پهپادی اوکراین و تغییر موازنه در میدان نبرد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2205759",
-        "clean_url": "https://tass.com/world/2205759",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792573680.0
     }
 ]
