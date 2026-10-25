@@ -37,6 +37,24 @@
         "timestamp": 1792952851.0
     },
     {
+        "id": "9b65d94879",
+        "title_fa": "حملات پهپادی حوثی‌ها به عربستان و سرکوب منتقدان در داخل",
+        "title_en": "Houthis say they struck Riyadh airport, two Saudi military bases",
+        "summary": [
+            "گروه حوثی مدعی حمله موشکی و پهپادی به فرودگاه ریاض و پایگاه‌های نظامی جازان و خمیس مشیط شد.",
+            "دستگاه قضایی جـ.م برای سعید شکیبا، کمدین منتقد، به اتهام حمایت از اسرائیل و پهلوی پرونده‌سازی کرد."
+        ],
+        "impact": "تشدید تنش‌های امنیتی در منطقه و افزایش فشار بر چهره‌های هنری در داخل کشور.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610252797",
+        "clean_url": "https://www.iranintl.com/en/202610252797",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792951440.0
+    },
+    {
         "id": "24d43e9409",
         "title_fa": "نجات چهل ملوان ایرانی در سریلانکا",
         "title_en": "Sri Lanka rescues 40 Iranian sailors from stranded ships",
@@ -413,6 +431,24 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/netanyahu-warns-iran-may-try-to-disrupt-election-says-dont-test-us/ar-AA2g1OBr",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792924140.0
+    },
+    {
+        "id": "d820d5f497",
+        "title_fa": "حاشیه جنجالی پرونده اپستین در تجمع انتخاباتی میشیگان",
+        "title_en": "'OBAMA NOT IN EPSTEIN FILES!' Crowd ERUPTS In Cheers After Surprise Shout At El-Sayed Rally",
+        "summary": [
+            "فریاد یکی از حاضران درباره پرونده اپستین و اوباما در میان سخنرانی انتخاباتی عبدالالسیل حاشیه‌ساز شد.",
+            "این اتفاق میان حملات نامزد دموکرات به سیاست‌های ترامپ درباره جنگ با ایران رخ داد."
+        ],
+        "impact": "انحراف موقت افکار عمومی در جریان رقابت‌های انتخاباتی سنای آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/international/obama-not-in-epstein-files-crowd-erupts-in-cheers-after-surprise-shout-at-el-sayed-rally/videoshow/135197026.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/international/obama-not-in-epstein-files-crowd-erupts-in-cheers-after-surprise-shout-at-el-sayed-rally/videoshow/135197026.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135197026,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1792923480.0
     },
     {
         "id": "4701fcb16d",
@@ -5444,43 +5480,5 @@
         "clean_url": "https://www.iranintl.com/202610229226",
         "image": "http://www.bing.com/th?id=ONUT.XWrztwnoBPAAGHoztVRRBA&pid=News",
         "timestamp": 1792630800.0
-    },
-    {
-        "id": "5f5323a1dc",
-        "title_fa": "حمله پهپادی به فرودگاه ملک فهد در عربستان",
-        "title_en": "One dead, eight injured in Saudi airport attack",
-        "summary": [
-            "حمله به فرودگاه بین‌المللی ملک فهد در دمام عربستان یک کشته و هشت زخمی برجای گذاشت.",
-            "آمریکا به دنبال حملات مکرر گروهک‌های نیابتی وابسته به جـمـهوری اسـلامی، دستور خروج کارمندان غیرضروری سفارت خود را صادر کرد.",
-            "هدف قرار گرفتن زیرساخت‌های غیرنظامی نشان‌دهنده تشدید تنش‌های منطقه‌ای از سوی بازوهای نیابتی تهران است."
-        ],
-        "impact": "افزایش ناامنی در تاسیسات حیاتی عربستان و خروج دیپلمات‌های آمریکایی",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "RTÉ Ireland",
-        "url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-airport-attack/",
-        "clean_url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-airport-attack",
-        "image": "https://www.bing.com/th?id=ONUT.MeOYdXG4bKLr0vnaKjkmIA",
-        "timestamp": 1792629064.1730695
-    },
-    {
-        "id": "7f0b62c239",
-        "title_fa": "بحران در تنگه هرمز؛ دست‌کم ۷ نفتکش هدف قرار گرفتند",
-        "title_en": "Iran says 7 tankers on fire or damaged in the Strait of Hormuz, and other Mideast news",
-        "summary": [
-            "تلویزیون رسمی جمهوری اسلامی از آتش‌سوزی و آسیب به دست‌کم هفت نفتکش تجاری در پی حملات موشکی یا برخورد با مین‌های دریایی در آب‌های تنگه هرمز خبر داد.",
-            "این واقعه بزرگ‌ترین ضربه هم‌زمان به کشتیرانی تجاری در این گلوگاه حیاتی ظرف سال‌های اخیر است که امنیت صادرات نفت را مستقیماً مختل می‌کند.",
-            "گسترش اقدامات خرابکارانه علیه مسیرهای انرژی، حربه تـ.ـهران برای بالا بردن ریسک ژئوپلیتیک و تحمیل هزینه امنیتی به جامعه جهانی است."
-        ],
-        "impact": "جهش آنی بهای جهانی نفت، لغو تردد بسیاری از نفتکش‌ها و تصاعد جدی خطر درگیری مستقیم نظامی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-says-7-tankers-on-fire-or-damaged-in-the-strait-of-hormuz-and-other-mideast-news/ar-AA2fN4Np",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-says-7-tankers-on-fire-or-damaged-in-the-strait-of-hormuz-and-other-mideast-news/ar-AA2fN4Np",
-        "image": "http://www.bing.com/th?id=ONUT.PbyPKQvcxoPESob1UvuFdg&pid=News",
-        "timestamp": 1792628030.0
     }
 ]
