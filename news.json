@@ -312,6 +312,24 @@
         "timestamp": 1792960740.0
     },
     {
+        "id": "6fcb7ee5d2",
+        "title_fa": "حملات لفظی تند ترامپ به نامزد مسلمان سنا",
+        "title_en": "Trump intensifica sus ataques antimusulmanes contra Abdul El-Sayed, candidato demócrata al Senado",
+        "summary": [
+            "دونالد ترامپ در سخنرانی خود در میشیگان، عبدالفتاح السید نامزد دموکرات را تهدید امنیتی خواند.",
+            "او با استفاده از ادبیات تند، این چهره سیاسی را به همسویی با تروریست‌ها متهم کرد و واکنش‌های شدیدی برانگیخت."
+        ],
+        "impact": "تشدید شکاف‌های نژادی و مذهبی در کارزارهای انتخاباتی آمریکا",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/10/25/trump-intensifica-sus-ataques-antimusulmanes-contra-abdul-el-sayed-candidato-demcrata-al-senado/",
+        "clean_url": "https://www.chicagotribune.com/2026/10/25/trump-intensifica-sus-ataques-antimusulmanes-contra-abdul-el-sayed-candidato-demcrata-al-senado",
+        "image": "http://www.bing.com/th?id=ONUT.K_xnba9JbqzlJqJETyy3Cg&pid=News",
+        "timestamp": 1792960560.0
+    },
+    {
         "id": "f3ed29a7c5",
         "title_fa": "اختلاف در ارشدترین سطوح نظامی اسرائیل درباره اقدام علیه ایران",
         "title_en": "Report: Benjamin Netanyahu, Eyal Zamir clash over Iran military 'action' before elections",
@@ -328,6 +346,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0d3JCQWVEQTEyNVh3UWQwYlpjdHg2UXQ4MU9YcWlfbnctbDZHbHFIMG5PZUdJQ0FTaHBBbjBZQWlKa19XamZ4Q2h1X3RtMkdzMTZoOTVlMHRlME1za21hSVJGRFpyMG5RZnNmaFFB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792959677.0
+    },
+    {
+        "id": "35d76fc43e",
+        "title_fa": "شکست متحد ترامپ در انتخابات برزیل",
+        "title_en": "Lula wins historic fourth term in Brazil, denying Trump a close ally",
+        "summary": [
+            "لولا داسیلوا در سن ۸۰ سالگی برای چهارمین دوره متوالی به ریاست جمهوری برزیل رسید.",
+            "این پیروزی دست نشانده‌های واشنگتن در آمریکای لاتین را محدودتر کرد و مانع تقویت هم‌پیمانان ترامپ در منطقه شد."
+        ],
+        "impact": "تغییر موازنه سیاسی در آمریکای لاتین به ضرر منابخ کاخ سفید",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/lula-wins-historic-fourth-term-in-brazil-denying-trump-a-close-ally/ar-AA2g36NN",
+        "clean_url": "https://www.msn.com/en-us/news/other/lula-wins-historic-fourth-term-in-brazil-denying-trump-a-close-ally/ar-AA2g36NN",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792958723.0
     },
     {
         "id": "53005bcda8",
@@ -565,6 +601,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXlwcEhrS1J3dUNPUlNJRmJKOElhMjdSQW5yTUJTTVhGQ3daeDJ5bEdNSVRHTWZTWmNBc0h0OS15clBhRUlHYW1uYU5vM3J4cTNTSlJaeFlfSk45LVRCaGVmRHM2eXg1SHBCZlh4SWNiRjlsSDcxX19XWWFaWnhPQlpURnFNM3M0RDdiMHN6bEtPbDMtbGhWb0thdWp6aWFQYTZBTzY5b25Xa0tPcmZFVFZjMkxzQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792948882.0
+    },
+    {
+        "id": "830257ec23",
+        "title_fa": "پرواز قیمت نفت به بالاترین حد با تشدید حملات یمنی‌ها",
+        "title_en": "Why Did XOM, COP, CVX Jump To 52-Week Highs Last Week?",
+        "summary": [
+            "حملات پهپادی و موشکی انصارالله یمن به زیرساخت‌های عربستان، بهای نفت برنت را از مرز ۱۱۶ دلار عبور داد.",
+            "سهام شرکت‌های بزرگ انرژی مانند اکسون موبیل و شورون به دلیل نگرانی‌های امنیتی در بازار انرژی رکوردشکنی کرد."
+        ],
+        "impact": "جهش قیمت جهانی نفت و ثبت رکوردهای جدید برای سهام شرکت‌های انرژی",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-xom-cop-cvx-031034844.html",
+        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/why-did-xom-cop-cvx-031034844.html",
+        "image": "http://www.bing.com/th?id=ONUT.bH3z7DhK_eqw8YhujwoM0Q&pid=News",
+        "timestamp": 1792947600.0
     },
     {
         "id": "f2d88993a9",
@@ -817,6 +871,24 @@
         "clean_url": "https://www.ibtimes.com/presidents-obama-trump-held-competing-midterm-rallies-same-day-they-clashed-iran-3808966",
         "image": "https://d.ibtimes.com/en/full/4653794/trump-obama.jpg",
         "timestamp": 1792930200.0
+    },
+    {
+        "id": "01e11ffe01",
+        "title_fa": "سود سرشار کمپانی‌های نفتی آمریکا از بحران تنگه هرمز",
+        "title_en": "Trump on high gas prices: 'We're making a freaking fortune'",
+        "summary": [
+            "ترامپ اعتراف کرد که تنش‌ها در تنگه هرمز و افزایش بهای سوخت، سودهای نجومی روانه جیب شرکت‌های نفتی تگزاس و اوکلاهما کرده است.",
+            "در حالی که شهروندان آمریکایی فشار گرانی بنزین را تحمل می‌کنند، غول‌های انرژی میلیاردها دلار سود به دست آورده‌اند."
+        ],
+        "impact": "سرازیر شدن درآمدهای افسانه‌ای به شرکت‌های نفتی همزمان با فشار اقتصادی بر مردم",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/high-gas-prices-donald-trump-oil-companies-midterm-election-2026-10",
+        "clean_url": "https://www.businessinsider.com/high-gas-prices-donald-trump-oil-companies-midterm-election-2026-10",
+        "image": "http://www.bing.com/th?id=ONUT.KxMxiqsmQAvc-e3cG7Q0Ew&pid=News",
+        "timestamp": 1792929900.0
     },
     {
         "id": "faa045787d",
@@ -5407,77 +5479,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/top-european-mideast-diplomats-to-meet-in-istanbul-tomorrow-with-palestinian-issue-on-agenda",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AFP__20261017__D3KU7KM__v2__HighRes__TopshotFranceSocialDemo-e1792539153837-640x400.jpg",
         "timestamp": 1792660320.0
-    },
-    {
-        "id": "ff9f9f1b19",
-        "title_fa": "تحریم ناوگان مخفی نفت ایران توسط آمریکا",
-        "title_en": "US Sanctions Entities and Individuals Linked to Iran’s Shadow Fleet",
-        "summary": [
-            "ایالات متحده اشخاص و نهادهای مرتبط با شبکه فروش مخفی نفت حکومت را تحریم کرد.",
-            "این اقدام ضربه تازه‌ای به منابع درآمدی جـمـهـوری اسـلامـی وارد می‌کند."
-        ],
-        "impact": "محدودیت بیشتر درآمدهای نفتی و صادرات غیرقانونی نفت.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "IranWire",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSTg2aTlvUjRoSDFxQU5jZnBGeDE2V0JUY3VsUTRpTnBaSHVkOG9nMkRJS0lYRmduNTBIaUdORWZCRFBSd0VTb1ZjcE9DSFVXNTdhSmJ6dlc1TWhybHZIdkRWbmloamF2MGlmU2t4aE8xQUN4Y3NDNjllTGV1N2JCV1VQTnBPbGFZcE5Bc0F4eWwyelVWc2hUd05XS1l6dXpxbHpRbDJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSTg2aTlvUjRoSDFxQU5jZnBGeDE2V0JUY3VsUTRpTnBaSHVkOG9nMkRJS0lYRmduNTBIaUdORWZCRFBSd0VTb1ZjcE9DSFVXNTdhSmJ6dlc1TWhybHZIdkRWbmloamF2MGlmU2t4aE8xQUN4Y3NDNjllTGV1N2JCV1VQTnBPbGFZcE5Bc0F4eWwyelVWc2hUd05XS1l6dXpxbHpRbDJn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792660058.0
-    },
-    {
-        "id": "9ac638c348",
-        "title_fa": "طرح مشترک آمریکا و اِسرائیل برای حمله به تـأسـیـسـات اِیران",
-        "title_en": "U.S. and Israel are planning for a possible post-midterms attack on Iran",
-        "summary": [
-            "واشنگتن و تل‌آویو برنامه‌ریزی‌های نظامی خود را برای اقدام احتمالی علیه تـأسـیـسـات اِیران پس از انتخابات میان‌دوره‌ای کلید زده‌اند.",
-            "این سناریوی نظامی نشان می‌دهد فشارها بر حکومت اِیران وارد فاز عملیاتی جدیدی خواهد شد."
-        ],
-        "impact": "افزایش شدید ریسک ژئوپلیتیک و نااطمینانی در بازارهای مالی اِیران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1hlaUNWWlpZSDVsWVVSdEpSNF9nZDNrZ2VGWkRtdnFSclc4ZVBpZ2tYU3dVWGdNRkpoVV93SmJ4U2xfNm9EVW5KZzJweDdSaFA4ZVNVdWR1U3I0SlJCejF4Z2FGNEsxY0F2NHdVNm1ENDdZRkNRcVJxc1VhdlZkdEJIcUNiUURmNnBoZlZLa1pZdUFCM2NzbTBVUGxrZ2JzbHZ5SkZjZGJ5N1MzRXhRYzRSS0FCVkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1hlaUNWWlpZSDVsWVVSdEpSNF9nZDNrZ2VGWkRtdnFSclc4ZVBpZ2tYU3dVWGdNRkpoVV93SmJ4U2xfNm9EVW5KZzJweDdSaFA4ZVNVdWR1U3I0SlJCejF4Z2FGNEsxY0F2NHdVNm1ENDdZRkNRcVJxc1VhdlZkdEJIcUNiUURmNnBoZlZLa1pZdUFCM2NzbTBVUGxrZ2JzbHZ5SkZjZGJ5N1MzRXhRYzRSS0FCVkE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792659418.0
-    },
-    {
-        "id": "13b932fcc0",
-        "title_fa": "هشدار تحلیل‌گران درباره بازی خطرناک تهران در تنگه‌های حیاتی",
-        "title_en": "Geopolitical Analyst Warns Against Iran’s Strategy in Strategic Straits",
-        "summary": [
-            "تحلیل‌گران ژئوپلیتیک نسبت به تبعات سنگین استراتژی اخلال در آبراه‌های استراتژیک مانند تنگه هرمز و باب‌المندب هشدار دادند.",
-            "فشار بر خطوط بین‌المللی کشتیرانی می‌تواند ائتلاف نظامی غرب را به پاسخ مستقیم و مسدودسازی کامل صادرات نفتی ایران بکشاند."
-        ],
-        "impact": "افزایش ریسک درگیری‌های دریایی و صعود هزینه‌های بیمه ترانزیت انرژی در منطقه.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "IranWire",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeF80c1BPbjZnYllpZFdYdEtkdGdTSklhT2pLVVVsd1FBaVhqTFB1RUtrZnE2b0ZPdmRmMExQN3Fua0N1N3NsS0ZuR01xMmh6djFLTTdtZ2dydFdPVjg3cllNR1dUbzAyQWpVRmFzT2xvOEFfMEtrbGFrVlZYbkxXTGF3RENmV1dTb2FJNWhhM0pnc3B3WllXX0tQd0FveXozd0hPU2xnbXZTX19MclpyWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeF80c1BPbjZnYllpZFdYdEtkdGdTSklhT2pLVVVsd1FBaVhqTFB1RUtrZnE2b0ZPdmRmMExQN3Fua0N1N3NsS0ZuR01xMmh6djFLTTdtZ2dydFdPVjg3cllNR1dUbzAyQWpVRmFzT2xvOEFfMEtrbGFrVlZYbkxXTGF3RENmV1dTb2FJNWhhM0pnc3B3WllXX0tQd0FveXozd0hPU2xnbXZTX19MclpyWQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792658521.0
-    },
-    {
-        "id": "aa8584c69e",
-        "title_fa": "تغییر ذائقه تاریخی؛ خوراکی‌هایی که زمانی چندش‌آور بودند",
-        "title_en": "20 Foods That Were Once Considered Disgusting",
-        "summary": [
-            "بسیاری از مواد غذایی محبوب امروز مانند گوجه‌فرنگی، در گذشته با انزجار، تردید و حتی طرد کامل مواجه می‌شدند.",
-            "تغییرات فرهنگی و نیازهای معیشتی طی قرون متمادی، تعریف جوامع از غذاهای مطبوع را به کلی دگرگون کرده است."
-        ],
-        "impact": "شناخت تحول الگوی مصرف مواد غذایی و تأثیر آن بر صنعت تغذیه و فرهنگ عمومی.",
-        "tag": "فرهنگی",
-        "urgency": 1,
-        "sentiment": 0.1,
-        "source": "The Spicy Chefs",
-        "url": "https://www.msn.com/en-us/food-and-drink/recipes/20-foods-that-were-once-considered-disgusting/ss-AA2fOIot",
-        "clean_url": "https://www.msn.com/en-us/food-and-drink/recipes/20-foods-that-were-once-considered-disgusting/ss-AA2fOIot",
-        "image": "https://s.yimg.com/lo/mysterio/api/ea09cbc48a5c80b3aebdf8dc420dadf54c61c3acb2af0b704e7e796f4d45f576/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/the_telegraph_258/9d912a4903deab3c5ebaee05e4134420.jpg",
-        "timestamp": 1792657800.0
     }
 ]
