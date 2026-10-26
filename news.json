@@ -830,6 +830,24 @@
         "timestamp": 1792997340.0
     },
     {
+        "id": "d245e76fe3",
+        "title_fa": "تلاش دیپلماتیک منطقه‌ای برای مهار تنش‌ها با جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
+        "title_en": "Flurry of Diplomacy in Iran as Regional Countries Try to Stave Off War",
+        "summary": [
+            "عربستان، ترکیه و پاکستان در سفری مشترک راهی تهران شدند تا از درگیری نظامی احتمالی جلوگیری کنند.",
+            "گزارش‌ها حاکی از آمادگی آمریکا و اسرائیل برای اقدام نظامی جدید علیه تاسیسات و مواضع حکومت است."
+        ],
+        "impact": "نگاهمان به بازار ارز و طلا باشد؛ تحرکات دیپلماتیک نشان‌دهنده شکنندگی شدید وضعیت امنیتی است.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+        "clean_url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+        "image": "http://www.bing.com/th?id=ONUT.L3T2JYZAEqG3KP0UqphQTw&pid=News",
+        "timestamp": 1792997160.0
+    },
+    {
         "id": "7520c4bc08",
         "title_fa": "تکذیب اختلاف نتانیاهو و رئیس ارتش درباره ایران",
         "title_en": "Netanyahu denies clash with IDF chief over Iran as mystery Iraq strikes raise tensions",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDBUM2pSVUtoLUJURTA4cTljdXU4czh6eVVsdHhIOTZOTC0zUS1ZVnkzbmo5bGtSc0V1XzZnUHFOal9IN2d6VFdqRV9Pb0pIUlBNdDVwMHR4enplWmxqRkpkMnNZMnh3VmdLTmRUWXo3RHNDT3R1OEM0MlJFZVpyQTVWdjBTLXJzdzI4TXVEVzM1aVdwY2pVV1YyM0EwX2vSAaQBQVVfeXFMUFVpcFM1Y2RpSUNoNTNFaU9QVjVIUFNKOTYwd25fM3pmOGNkeWpUbzViNENEVE5sM1RPazJQOTl5OHp5SC1seXZwbWNiNXhUUThLUFJzRHpZdkZNemZkMEFxUDlRejl0Vk84Qm9NeXJwREJrOXZxaXk3SEZrZ281enlDbGJmRXBBOV9fRlAtX2EyRVNRdVNYREY4bTZQZXNJT0ZQNG8",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792746878.0
-    },
-    {
-        "id": "9e54720274",
-        "title_fa": "بسته شدن کرانه باختری پس از درگیری مسلحانه",
-        "title_en": "Netanyahu Orders West Bank Closure as Attack Wounds Israelis before Election",
-        "summary": [
-            "بنیامین نتانیاهو دستور قرنطینه کامل کرانه باختری را صادر کرد.",
-            "این اقدام امنیتی در آستانه انتخابات اسرائیل و پس از زخمی شدن پنج اسرائیلی صورت گرفت."
-        ],
-        "impact": "افزایش شدید تنش‌های امنیتی و اعمال محدودیت‌های سنگین در کرانه باختری در آستانه انتخابات.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Asharq Al-Awsat",
-        "url": "https://www.msn.com/en-ae/news/other/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/ar-AA2fUJvz",
-        "clean_url": "https://www.msn.com/en-ae/news/other/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/ar-AA2fUJvz",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792746202.0
     }
 ]
