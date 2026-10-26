@@ -1,5 +1,23 @@
 [
     {
+        "id": "1db7e5a825",
+        "title_fa": "بقا در قدرت؛ قمار نتانیاهو پس از فاجعه هفت اکتبر",
+        "title_en": "How Netanyahu Could Cling to Power",
+        "summary": [
+            "نتانیاهو با وجود شکست امنیتی بی‌سابقه در هفت اکتبر، همچنان با مانورهای سیاسی سعی در حفظ کرسی نخست‌وزیری دارد.",
+            "تداوم جنگ و ایجاد فضای امنیتی، ابزار اصلی او برای به حاشیه راندن انتقادات داخلی و فرار از پاسخگویی است."
+        ],
+        "impact": "تداوم تنش‌های منطقه‌ای برای جلوگیری از فروپاشی دولت ائتلافی اسرائیل.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/26/opinion/israel-elections-netanyahu.html",
+        "clean_url": "https://www.nytimes.com/2026/10/26/opinion/israel-elections-netanyahu.html",
+        "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24koplow-vcqf/24koplow-vcqf-facebookJumbo.jpg",
+        "timestamp": 1792994400.0
+    },
+    {
         "id": "ee5948c5fd",
         "title_fa": "شکست راهبردهای گذشته؛ اسرائیل به سیاست جدیدی در برابر تهران نیاز دارد",
         "title_en": "After Israel's election, a new Iran strategy is needed: Two wars have not ended the threat",
@@ -5458,24 +5476,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUw5aDNFOXhGaTNETlYtbU9oNDBRSGl6QW8tU09QWGx1b0U0d2ZLQVdvMWp5STVyTXlMd3ZkQmZQU0x0RGNIeEhvSlc3S0ZpRlh3TE8yNndFWmRGLVhySWhMa3NPdkVnZWtqaEYzTjZzUXlkWGs2SFB1SUZGTXVxS1lxRENqdk1EWlJSck5QXzVhaW5UdGdoV3ZHNjE5Z2U1SGJlUE5XTjZIMW5oX3c",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792673927.0
-    },
-    {
-        "id": "add3110eb8",
-        "title_fa": "غیبت معنادار نتانیاهو در مراسم سالگرد ترور رابین",
-        "title_en": "State memorial service underway marking 31 years since Rabin assassination",
-        "summary": [
-            "عدم حضور نخست‌وزیر در مراسم رسمی یادبود اسحاق رابین برای پنجمین سال پیاپی",
-            "شکاف عمیق در بدنه سیاسی اسرائیل و تداوم تنش‌های داخلی پس از دهه‌ها",
-            "بازتاب اختلافات ریشه‌ای میان جریان‌های سیاسی در فضای عمومی اسرائیل"
-        ],
-        "impact": "نمایان شدن شکاف‌های سیاسی در اسرائیل در بحبوحه بحران‌های امنیتی.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/state-memorial-service-underway-marking-31-years-since-rabin-assassination/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/state-memorial-service-underway-marking-31-years-since-rabin-assassination",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261022MA21-e1792648995579-640x400.jpg",
-        "timestamp": 1792671540.0
     }
 ]
