@@ -1,5 +1,23 @@
 [
     {
+        "id": "8b6aa17f1c",
+        "title_fa": "سرنوشت سیاسی نـ...ـتـ...ـانـ...ـیاهـ...ـو در گرو اولین انتخابات پس از هفتم اکتبر",
+        "title_en": "Netanyahu's legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack",
+        "summary": [
+            "حملات هفتم اکتبر تصور پایان کار سیاسی نخست‌وزیر اسـ...ـراییـ...ـل را تقویت کرده بود.",
+            "نتایج این رای‌گیری نقش مهمی در تعیین آینده سیاسی و میراث حاکمیتی نـ...ـتـ...ـانـ...ـیاهـ...ـو دارد."
+        ],
+        "impact": "نتیجه این انتخابات می‌تواند معادلات قدرت را در تل‌آویو به شدت تغییر دهد.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/israel-election-netanyahu-gaza-mideast-iran-war-ce15215c61ad182203ccb9b854e75562",
+        "clean_url": "https://apnews.com/article/israel-election-netanyahu-gaza-mideast-iran-war-ce15215c61ad182203ccb9b854e75562",
+        "image": "https://dims.apnews.com/dims4/default/2089c53/2147483647/strip/true/crop/7003x4668+0+0/resize/1200x800!/quality/90/?url=https://assets.apnews.com/a0/fb/4a872a8b2e4a57ee1051183208aa/d81031a068c24538a43b8ff7a8d761fe",
+        "timestamp": 1793008920.0
+    },
+    {
         "id": "c466b29bae",
         "title_fa": "سفر مقام‌های امنیتی به تهران برای مهار تنش‌های منطقه",
         "title_en": "Mecca defense pact officials head to Iran for talks on regional conflict",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://www.iranintl.com/en/202610225353",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792706700.0
-    },
-    {
-        "id": "771dde2c0e",
-        "title_fa": "پرده‌برداری دادگاه لندن از ترورهای هدفمند عوامل جـمـهـوری اسـلـامی",
-        "title_en": "Araghchi accuses Macron of contradicting past position on Iran nuclear activity",
-        "summary": [
-            "متهم پرونده امنیتی در دادگاه لندن اعتراف کرد ماموریت داشته به خبرنگاران منتقد و فعالان رسانه‌ای آسیب جدی بزند.",
-            "طراحان این عملیات خواستار شکستن استخوان‌های خبرنگار و ارعاب چهره‌های رسانه‌ای مخالف در خاک بریتانیا بوده‌اند."
-        ],
-        "impact": "تشدید پرونده‌های امنیتی علیه عوامل وابسته به تـهـران در اروپا",
-        "tag": "نیابتی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610220487",
-        "clean_url": "https://www.iranintl.com/en/202610220487",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792703280.0
     }
 ]
