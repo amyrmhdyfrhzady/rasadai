@@ -1,5 +1,23 @@
 [
     {
+        "id": "3b0f8f84f5",
+        "title_fa": "نشست‌های اضطراری در تهران هم‌زمان با هشدار درگیری منطقه‌ای",
+        "title_en": "Delegations meeting in Tehran with region on edge over potential for renewed fighting",
+        "summary": [
+            "ورود هیئت‌های مختلف به تهران، مانور هماهنگی میان نیروهای نیابتی برای مواجهه با سناریوهای جدید نبرد است.",
+            "تهران در تلاش است پیش از بالا گرفتن احتمالی تنش‌ها، خطوط بازیگری خود در خاورمیانه را بازسازی و هماهنگ کند."
+        ],
+        "impact": "افزایش سطح هشدار امنیتی در منطقه و بالا رفتن احتمال درگیری‌های جدید.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "WRAL",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGg2NUxmdnZTQ3FSaFp5T2wzTUotS0xibk9RLTYtd0ZrTkVVaVh3NVZ0bGh2aFJMOEstTmlCMkRYajF0Q0cxY3VDZnA5MXFDVTk3M3hPcVgyVnlGaUJobHZ1dll1M25yM2lXMDc2LWlMUnhvRVV3M3NpaXAtVC1PVkgwYlFxODlxTkhDenJqc1hNVEEwOFMtR0V6RU9Vc1o4TXlGSDBYbS1wV1FRd2dCSjU1ZzBfdjFSby1KRlZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGg2NUxmdnZTQ3FSaFp5T2wzTUotS0xibk9RLTYtd0ZrTkVVaVh3NVZ0bGh2aFJMOEstTmlCMkRYajF0Q0cxY3VDZnA5MXFDVTk3M3hPcVgyVnlGaUJobHZ1dll1M25yM2lXMDc2LWlMUnhvRVV3M3NpaXAtVC1PVkgwYlFxODlxTkhDenJqc1hNVEEwOFMtR0V6RU9Vc1o4TXlGSDBYbS1wV1FRd2dCSjU1ZzBfdjFSby1KRlZR",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1792999683.0
+    },
+    {
         "id": "5785f50fcd",
         "title_fa": "شکاف عمیق نتانیاهو و آیزنکوت درباره نحوه مواجهه با ایران",
         "title_en": "Iran Stance Splits Netanyahu and Challenger Eisenkot Before Vote",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://www.iranintl.com/en/202610228890",
         "image": "http://www.bing.com/th?id=ONUT.3RMqB0Vx8SeJVlmMLMN-hQ&pid=News",
         "timestamp": 1792681860.0
-    },
-    {
-        "id": "601ff229e5",
-        "title_fa": "ریزش بازارهای مالی زیر سایه جنگ و هزینه سنگین هوش مصنوعی",
-        "title_en": "Market sell-off gains steam as concerns about Iran war and high AI spending collide",
-        "summary": [
-            "نگرانی سرمایه‌گذاران از تنش‌های نظامی با ای-ران، بازارهای مالی را به سمت فروش دارایی‌ها کشانده است.",
-            "همزمانی هزینه‌های گزاف شرکت‌های فناوری روی هوش مصنوعی با ریسک‌های جنگ، فشار روی بازار را دوچندان کرده است."
-        ],
-        "impact": "فرار سرمایه از بازار و افت شدید ارزش سهام به دلیل نااطمینانی از وضعیت جنگ و اقتصاد.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792681786.0
     }
 ]
