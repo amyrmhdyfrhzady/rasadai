@@ -19,6 +19,24 @@
         "timestamp": 1793037840.0
     },
     {
+        "id": "d68a2a1ec3",
+        "title_fa": "امیدواری کاربران ایرانی به نقش نتانیاهو در تغییر رژیم",
+        "title_en": "Vessel reported on fire off Iraq's coast",
+        "summary": [
+            "واکنش‌های گسترده کاربران فارسی‌زبان در شبکه‌های اجتماعی نشان‌دهنده تمایل بخشی از جامعه به تغییرات سیاسی از بیرون است.",
+            "بسیاری از مخاطبان، تداوم سیاست‌های بنیامین نتانیاهو را ابزاری برای فشار بیشتر بر حاکمیت فعلی ایران می‌دانند."
+        ],
+        "impact": "بازتاب تمایل عمیق ناراضیان داخلی به فشار خارجی برای تضعیف ساختار قدرت.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610267882",
+        "clean_url": "https://www.iranintl.com/en/202610267882",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793036220.0
+    },
+    {
         "id": "339e192c79",
         "title_fa": "تلاش نتانیاهو برای پاک کردن فاجعه ۷ اکتبر از اذهان عمومی",
         "title_en": "Netanyahu hopes voters forget October 7, 2023",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202610231662",
         "image": "http://www.bing.com/th?id=ONUT.kI8jHto0DgtXYxVP08C0RA&pid=News",
         "timestamp": 1792747080.0
-    },
-    {
-        "id": "886320bdd2",
-        "title_fa": "لغو مجوز بانک‌های ایرانی توسط دولت انگلیس",
-        "title_en": "UK Revokes Licenses for Iranian Banks",
-        "summary": [
-            "دولت انگلیس مجوز ویژه فعالیت‌های بانکی مرتبط با ایران را تمدید نکرد و آن را منقضی کرد.",
-            "این اقدام در راستای سیاست تشدید تحریم‌ها و محدودیت‌های مالی لندن علیه تهران انجام شده است."
-        ],
-        "impact": "بسته‌شدن کامل منافذ مالی باقی‌مانده و افزایش فشار بر سیستم بانکی تحت تحریم.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "wanaen",
-        "url": "https://wanaen.com/uk-revokes-licenses-for-iranian-banks/",
-        "clean_url": "https://wanaen.com/uk-revokes-licenses-for-iranian-banks",
-        "image": "https://wanaen.com/wp-content/uploads/2025/10/WANA-UK-Targets-Iran-121-Individuals-and-Entities-Sanctioned.jpg?v=1759321449",
-        "timestamp": 1792747020.0
     }
 ]
