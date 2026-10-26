@@ -1062,6 +1062,24 @@
         "timestamp": 1792947082.0
     },
     {
+        "id": "d1ca0c5882",
+        "title_fa": "کاهش قیمت نفت با فروکش کردن تنش‌های نظامی",
+        "title_en": "Oil drops from near six-month highs on hopes Iran war hostilities to ease",
+        "summary": [
+            "بهای نفت پس از صعود به بالاترین سطح در شش ماه اخیر، روز دوشنبه با امید به کاهش درگیری‌ها افت کرد.",
+            "حملات مداوم به عربستان همچنان نگرانی‌ها درباره ثبات عرضه انرژی در بازار جهانی را زنده نگه داشته است."
+        ],
+        "impact": "بازار انرژی موقتاً نفس راحت کشید، اما سایه ناامنی همچنان بر سر عرضه نفت سنگینی می‌کند.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/",
+        "clean_url": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25",
+        "image": "http://www.bing.com/th?id=ONUT.kJPZjxmNtN1Dbk3U274y_g&pid=News",
+        "timestamp": 1792945500.0
+    },
+    {
         "id": "81d1fd6f0a",
         "title_fa": "هشدار اتمی نتانیاهو و احکام قضایی برای طنزپرداان منتقد",
         "title_en": "Netanyahu shares AI nuclear blast, warns of second Holocaust if not elected",
@@ -5458,24 +5476,5 @@
         "clean_url": "https://www.iranintl.com/en/202610237049",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792693380.0
-    },
-    {
-        "id": "d5cf98b332",
-        "title_fa": "فشار سنگین اقتصادی و اعتراف مقامات به آسیب‌پذیری",
-        "title_en": "US proposes restrictions on investments in sensitive Iran technology sectors",
-        "summary": [
-            "بسته شدن مرزهای زمینی با پاکستان و عراق و اختلال در مرز ترکیه، بحران جدی برای اقتصاد کشور ایجاد کرده است.",
-            "محسن رضایی صراحتاً اعتراف کرده که تداوم این وضعیت معیشت خانواده‌ها را هدف می‌گیرد اما آن را شکست راهبردی نمی‌داند.",
-            "ایالات متحده علاوه بر محدودیت‌های سرمایه‌گذاری در فناوری‌های حساس، همسایگان را برای مسدود کردن مرزها تحت فشار گذاشته است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و فلج شدن بخش‌های کلیدی تجارت منطقه‌ای.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610226776",
-        "clean_url": "https://www.iranintl.com/en/202610226776",
-        "image": "http://www.bing.com/th?id=ONUT.ljzJW6rWK1TJgECNElKTjA&pid=News",
-        "timestamp": 1792692600.0
     }
 ]
