@@ -405,6 +405,24 @@
         "timestamp": 1793004240.0
     },
     {
+        "id": "40697f2cc1",
+        "title_fa": "نمایش قدرت نظامی تهران؛ هشداری صریح به ترامپ",
+        "title_en": "Iran was never running out of firepower. It was holding back.",
+        "summary": [
+            "حملات اخیر به شناورها و تست‌های موشکی نشان داد توان نظامی جمهوری ا... خیلی بیشتر از تصورات قبلی است.",
+            "افزایش تحرکات دریایی پیامی آشکار و تهدیدآمیز برای دولت ترامپ ارسال می‌کند."
+        ],
+        "impact": "بال رفتن ریسک نظامی در آب‌های منطقه و سنگین‌تر شدن سایه جنگ روی معادلات آتی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "MeidasTouch News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-was-never-running-out-of-firepower-it-was-holding-back/ar-AA2g6mSk",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-was-never-running-out-of-firepower-it-was-holding-back/ar-AA2g6mSk",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793004224.0
+    },
+    {
         "id": "f3df62db7d",
         "title_fa": "تکذیب شکاف میان نتانیاهو و فرمانده ارتش در پرونده ایران",
         "title_en": "Israel defense minister denies report of rift between PM, army chief on Iran",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://thehill.com/people/donald-trump",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792733220.0
-    },
-    {
-        "id": "ca5ac973a3",
-        "title_fa": "شکسته شدن تحریم‌ها؛ ورود نفتکش روسی به آمریکا",
-        "title_en": "Russian diesel tanker heads to the U.S., the first since Trump’s deal with Putin",
-        "summary": [
-            "نخستین محموله سوخت روسیه پس از توافق میان مسکو و واشنگتن به سمت آمریکا حرکت کرد.",
-            "این معامله با هدف کاهش قیمت سوخت در آستانه انتخابات میادین سیاسی انجام شده است."
-        ],
-        "impact": "تغییری آشکار در رویکرد تحریمی واشنگتن در برابر مسکو.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/energy/russian-diesel-tanker-heads-us-trump-deal-putin-ukraine-war-rcna605187",
-        "clean_url": "https://www.nbcnews.com/business/energy/russian-diesel-tanker-heads-us-trump-deal-putin-ukraine-war-rcna605187",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-russia-rs-412533.jpg",
-        "timestamp": 1792732920.0
     }
 ]
