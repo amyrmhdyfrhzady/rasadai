@@ -18,6 +18,43 @@
         "timestamp": 1793008594.0
     },
     {
+        "id": "0688fc6328",
+        "title_fa": "پاتک دیپلماتیک ریاض، آنکارا و اسلام‌آباد به بحران تهران",
+        "title_en": "Saudi, Turkish and Pakistani officials to visit Iran for talks",
+        "summary": [
+            "مقام‌های ارشد دفاعی و امنیتی عربستان، ترکیه و پاکستان برای میانجیگری و مهار تنش‌های منطقه‌ای راهی تهران شدند.",
+            "این سفر همزمان با افزایش حملات نیابتی انصارالله به عربستان و بن‌بست در مذاکرات با واشنگتن صورت گرفته است.",
+            "تهران به هیئت اعزامی اعلام کرده که تا زمان پذیرش خواسته‌هایش، هیچ مذاکره‌ای با آمریکا انجام نخواهد داد."
+        ],
+        "impact": "تلاش فشرده منطقه‌ای برای جلوگیری از جنگی فراگیر در سایه بن‌بست تهران و واشنگتن.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610260367",
+        "clean_url": "https://www.iranintl.com/en/202610260367",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4436629b1e06cabf337a8d220ed8501221640f78-1600x1066.jpg?rect=0,113,1600,840&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1793008560.0
+    },
+    {
+        "id": "438df3800e",
+        "title_fa": "نگرانی ارتش اسرائیل از تداخل حمله به ایران با انتخابات",
+        "title_en": "Report: IDF Chief Warned U.S. That Striking Iran Would Disrupt Israel's Election",
+        "summary": [
+            "رئیس ارتش اسرائیل به آمریکا هشدار داده که اقدام نظامی علیه ایران می‌تواند روند انتخابات داخلی این کشور را به هم بریزد.",
+            "این هشدار نشان‌دهنده اختلاف محاسبات زمانی بین تل‌آویو و واشنگتن در مواجهه با پرونده اتمی ایران است."
+        ],
+        "impact": "سایه سیاست داخلی اسرائیل بر تصمیمات کلان امنیتی و نظامی علیه جمهوری اسلامی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPeUNYaTFxSVBOQWF0WDNNMTBrWko0Qy1fMnVOQnFpTEgxM05BOG02dlJuSEQ1aEZVNDY0ZDExQ3dEOFNwRGxoMC1JNUxNX3BvMUZrMnVFMmNKazlCUU82NEwzTHVObWxEOUNkYmlJaXJIZDFiRTM0dldZdFdXa0FzSUxIb2FaRlMtdVVGaEpQNTZxdGxtY1pFbUZMelFKd3ZSVmRfSklVcm5lbGxocFFoa3dTNjNRRGJYZEc3OFdUR0FqUzhhLXVILURZbmFOUG1ZZzRMVHhJVmlQdjF3VnMtNjRfMFQ4N2Zkd2ZlRVp3eTJsXzg5WTU3QllMQVhZTDRyVk9PMGVNazZ5TDl2YUtiQnlaU0E3SGxZZUpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPeUNYaTFxSVBOQWF0WDNNMTBrWko0Qy1fMnVOQnFpTEgxM05BOG02dlJuSEQ1aEZVNDY0ZDExQ3dEOFNwRGxoMC1JNUxNX3BvMUZrMnVFMmNKazlCUU82NEwzTHVObWxEOUNkYmlJaXJIZDFiRTM0dldZdFdXa0FzSUxIb2FaRlMtdVVGaEpQNTZxdGxtY1pFbUZMelFKd3ZSVmRfSklVcm5lbGxocFFoa3dTNjNRRGJYZEc3OFdUR0FqUzhhLXVILURZbmFOUG1ZZzRMVHhJVmlQdjF3VnMtNjRfMFQ4N2Zkd2ZlRVp3eTJsXzg5WTU3QllMQVhZTDRyVk9PMGVNazZ5TDl2YUtiQnlaU0E3SGxZZUpR",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793007120.0
+    },
+    {
         "id": "f8bf668993",
         "title_fa": "دست رد تهران به مذاکره با ایالات متحده",
         "title_en": "Iran says US ‘not serious’ about talks, rejects claims over nuclear program",
@@ -5441,41 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19fS1N5MG9ScWZka1NXVEM3S1NoUlBSTURnR09nR3Y5SGIxRFFpRktHNHZXeElmbzFPcTBkMUdNNXE5MG01aWhRVmhKSTVGZVcwZVBNRWxHTGxQc1JpQWZBRnBLNTVPWkoyRnFIZkxSTnI0SktYRGQ5dlh2aWxhSWhOVVlMVjktd1hHak1PV19HbXpyNS0waGRfVXXSAaIBQVVfeXFMUGJ0OE81VjRRZ1dhN1gtLVd2d2szU19XZzRNREJQdWV6OG1mRUhtQ0JTWXZYc3Jqa0FOdkFoWTF3b19JMEx3YW9XYkJRbXRlVHkxcWpPbWx3bVVydFBySV9yMW9tVFZRVWljYUNXeEEwNXMzSWJmeEdwdTZwaHh6VG52alZDQ3dmcU5NTXE4MWk1V0w4ZHMzX2FkNXUydndhTktR",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792702689.0
-    },
-    {
-        "id": "4ee194fb31",
-        "title_fa": "پایگاه‌های زیرزمینی جـ.ـهـ.ـو،ر،ی ا،سـ.ـلا،مـ.ـی و چالش ارزیابی نظامی",
-        "title_en": "Iran's Underground Military Resilience: Eagle 44",
-        "summary": [
-            "زیرساخت‌های زیرزمینی مانند عقاب ۴۴ باعث شده آسیب به تاسیسات به معنای نابودی توان رزمی نباشد.",
-            "آمار سازمان بین‌المللی دریانوردی نشان از ثبت ۱۲۰ رویداد و ۲۴ کشته در منطقه دارد."
-        ],
-        "impact": "آسیب‌پذیری زنجیره انرژی و حمل‌ونقل دریایی اروپا از تنش‌های خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "debuglies",
-        "url": "https://debuglies.com/2026/10/22/irans-underground-military-resilience-eagle-44-gulf-security-and-europes-exposure/",
-        "clean_url": "https://debuglies.com/2026/10/22/irans-underground-military-resilience-eagle-44-gulf-security-and-europes-exposure",
-        "image": "https://debuglies.com/wp-content/uploads/2026/10/Irans-Underground-Military-Resilience-Eagle-44-Gulf-Security-and-Europes-Exposure.jpg",
-        "timestamp": 1792698360.0
-    },
-    {
-        "id": "fe7e21a0b7",
-        "title_fa": "آتش‌سوزی و آسیب به ۷ نفت‌کش در تنگه هرمز",
-        "title_en": "Irán dice que hay 7 petroleros dañados en Ormuz, entre temores a un repunte de la guerra",
-        "summary": [
-            "هفت فروند نفت‌کش طی شب گذشته در تنگه هرمز بر اثر برخورد با مین‌های دریایی یا حملات منتسب به جـ.ـهـ.ـوری اسـ.ـلامـ.ـی دچار حریق و خسارت شدند.",
-            "این واقعه نگرانی‌های بین‌المللی را درباره اوج‌گیری دوباره جنگ دریایی و مختل شدن شریان‌های حیاتی انرژی به شدت افزایش داده است."
-        ],
-        "impact": "اختلال جدی در امنیت تردد نفت‌کش‌ها در آب‌های راهبردی خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Los Angeles Times on MSN",
-        "url": "https://www.msn.com/es-us/dinero/general/ir%C3%A1n-dice-que-hay-7-petroleros-da%C3%B1ados-en-ormuz-entre-temores-a-un-repunte-de-la-guerra/ar-AA2fStui",
-        "clean_url": "https://www.msn.com/es-us/dinero/general/ir%C3%A1n-dice-que-hay-7-petroleros-da%C3%B1ados-en-ormuz-entre-temores-a-un-repunte-de-la-guerra/ar-AA2fStui",
-        "image": "http://www.bing.com/th?id=ONUT.kf1ZHdZPTBjzNRn3l7kVQA&pid=News",
-        "timestamp": 1792696585.0
     }
 ]
