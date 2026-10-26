@@ -457,6 +457,24 @@
         "timestamp": 1793030580.0
     },
     {
+        "id": "4e7f2a12b2",
+        "title_fa": "حاشیه در بایرن مونیخ؛ هشدار مدیران به ستاره جوان",
+        "title_en": "برای سومین‌‌بار؛ الکسیا پوتیاس، برنده توپ طلای زنان ۲۰۲۶ شد",
+        "summary": [
+            "مدیران بایرن مونیخ از تمرکز بالای لنارت کارل روی شبکه‌های اجتماعی و زندگی پرزرق‌وبرق ناراضی هستند.",
+            "پیام باشگاه به این بازیکن روشن است؛ کاهش فعالیت‌های مجازی و تمرکز بیشتر روی عملکرد درون زمین."
+        ],
+        "impact": "احتمال افت عملکرد ورزشی بازیکن به دلیل حواشی فضای مجازی.",
+        "tag": "ورزشی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610261618",
+        "clean_url": "https://www.iranintl.com/202610261618",
+        "image": "http://www.bing.com/th?id=ONUT.V-0wyAQnJ8AXXMMKuzEWyw&pid=News",
+        "timestamp": 1793028900.0
+    },
+    {
         "id": "1cf3323562",
         "title_fa": "تجهیز دوباره حزب‌الله با تزریق مالی تهران برای جنگ جدید",
         "title_en": "Hezbollah readies for new regional war with funds from Iran, sources say",
@@ -5465,24 +5483,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/us-envoy-there-absolutely-could-be-a-us-strike-on-iran-this-weekend",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26107305723987.jpg",
         "timestamp": 1792772340.0
-    },
-    {
-        "id": "324dd14106",
-        "title_fa": "حمایت نتانیاهو از شهرک‌نشینان در سایه افزایش خشونت‌ها",
-        "title_en": "Emboldened Israeli Settlers Lead a Surge of Attacks on Palestinians' Olive Harvest",
-        "summary": [
-            "حملات شهرک‌نشینان مسلح به کشاورزان و باغ‌های زیتون فلسطینی در کرانه باختری به شدت افزایش یافته است.",
-            "بنیامین نتانیاهو با حمایت آشکار از این اقدامات، شهرک‌نشینان را قهرمان خوانده و بر توسعه شهرک‌ها پافشاری می‌کند.",
-            "این خشونت‌ها در آستانه انتخابات و با وجود انتقادات بین‌المللی، بحران در اراضی اشغالی را عمیق‌تر کرده است."
-        ],
-        "impact": "تشدید تنش‌ها در کرانه باختری و افزایش فشارهای بین‌المللی بر دولت اسرائیل.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/arab-world/5332827-emboldened-israeli-settlers-lead-surge-attacks-palestinians’-olive-harvest",
-        "clean_url": "https://english.aawsat.com/arab-world/5332827-emboldened-israeli-settlers-lead-surge-attacks-palestinians’-olive-harvest",
-        "image": "https://static.srpcdigital.com/2026-10/1843115.jpeg?VersionId=_EMF.yn5yDd.w5nUH5hq61gDe7bHzZli",
-        "timestamp": 1792771980.0
     }
 ]
