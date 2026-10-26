@@ -1,5 +1,23 @@
 [
     {
+        "id": "5286633b51",
+        "title_fa": "کاهش تورم اتحادیه اروپا و تداوم بحران گرانی در رومانی",
+        "title_en": "19 Noiembrie 2025",
+        "summary": [
+            "نرخ تورم سالانه در کل اتحادیه اروپا طی ماه اکتبر به دو و نیم درصد کاهش یافت.",
+            "کشور رومانی همچنان بالاترین نرخ تورم را در میان کشورهای عضو به خود اختصاص داده است."
+        ],
+        "impact": "ثبات نسبی اقتصاد کلان در اروپا همزمان با چالش‌های تورمی در برخی کشورهای عضو.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": -0.1,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/exponatul-lunii-octombrie-muzeul-unirii-alba-iulia-pag328",
+        "clean_url": "https://ziare.com/cautare/exponatul-lunii-octombrie-muzeul-unirii-alba-iulia-pag328",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793046076.4880092
+    },
+    {
         "id": "5d18dfd5ac",
         "title_fa": "فشار نتانیاهو به ارتش برای حمله به ایـران",
         "title_en": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
@@ -364,6 +382,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3NjX3dVazVRWS0yVWN5LXZvZHNuYlpVVnMwc1JaQ2ZrV3NoOGdMOTB6Z2IxRGlJOE1LRmRnYXFNNUFQTGtjZGdsOUxYSk94b05yTGVGTVEzc3k5TmppeUJCT2lVQkFqNE0xZnBsMjVQYzdTQUJKdFF5ZUhqX0J2aWNqTjRvMHFUQW8tcU5rY0F1OWJrSzhjc3FGNi1iSmI4NXlTVFlJOUFKbmUzVDlJMzdnY2Y",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793021715.0
+    },
+    {
+        "id": "45d9b2487e",
+        "title_fa": "دیپلماسی اضطراری تهران با کشورهای منطقه برای کنترل تنش‌ها",
+        "title_en": "Iran holds 'very good' talks with Mecca pact nations on region's security",
+        "summary": [
+            "مقام‌های ارشد عربستان، ترکیه و پاکستان برای مهار جنگ در منطقه با مقامات ایـرانی دیدار کردند.",
+            "تهران این گفتگوها را بسیار مثبت ارزیابی کرده و به دنبال کاهش فشارهای منطقه‌ای است."
+        ],
+        "impact": "تلاش دیپلماتیک برای خرید زمان و دور کردن سایه جنگ مستقیم از سر حـکومـت.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Agence France-Presse on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-holds-very-good-talks-with-mecca-pact-nations-on-region-s-security/ar-AA2g5oEx",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-holds-very-good-talks-with-mecca-pact-nations-on-region-s-security/ar-AA2g5oEx",
+        "image": "http://www.bing.com/th?id=ONUT.tyOLRr9EgbKoBNJ6Z54KYw&pid=News",
+        "timestamp": 1793019704.0
     },
     {
         "id": "5dd76dd8ea",
@@ -5446,41 +5482,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-new-countdown-trump-is-weighing-several-days-of-fresh-strikes-once-the-midterms-are-over-reports-say/ar-AA2fWuSk",
         "image": "http://www.bing.com/th?id=ONUT.lhwzFlhlUuF-WmVS1Ob-2Q&pid=News",
         "timestamp": 1792752940.0
-    },
-    {
-        "id": "8754048679",
-        "title_fa": "آمادگی ایالات متحده برای حملات بزرگ جدید علیه ج.ا",
-        "title_en": "Signs point to renewed major US military ops against Iran",
-        "summary": [
-            "واشنگتن در حال تدارک عملیات نظامی گسترده تازه ای است.",
-            "کارشناسان تاکید می‌کنند این درگیری ها راه حل نظامی پایداری نخواهد داشت."
-        ],
-        "impact": "افزایش شدید ریسک نظامی و تنش در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Agence France-Presse on MSN",
-        "url": "https://www.msn.com/en-us/news/other/signs-point-to-renewed-major-us-military-ops-against-iran/ar-AA2fVQGg",
-        "clean_url": "https://www.msn.com/en-us/news/other/signs-point-to-renewed-major-us-military-ops-against-iran/ar-AA2fVQGg",
-        "image": "http://www.bing.com/th?id=ONUT.NytOxGCWAeaXwIZKPNobwQ&pid=News",
-        "timestamp": 1792752717.0
-    },
-    {
-        "id": "b52c64c48e",
-        "title_fa": "تشدید جنگ لفظی میان اسرائیل و جمهوری اسلامی",
-        "title_en": "Israel, Iran ramp up war rhetoric, as prospect of open conflict looms",
-        "summary": [
-            "تهدیدات متقابل بین مقامات دو طرف به بالاترین سطح رسیده است.",
-            "سایه جنگ رو در رو بیش از هر زمان دیگری سنگینی می‌کند."
-        ],
-        "impact": "افزایش ریسک امنیتی و ملتهب شدن بازارهای مالی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Semafor",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVE5ck9oRlFLdTAxZmtONGt6X3ZVVVVId0QxUUJMQVRiX1l1c1VsS2lIbzNheGRDQTdkazAxb0VjMmUtZjU5MkJqMVB6M1pJVDcycTh3LVQ2ZkVZTWxqQ090VE9TN3RCMm54NGFGdnRfNkVYZlI4dFJPbW1RXzJrZklJRUxJa3V5VlZOWmdqMmVEWTV6QnZET20yd0RXdXh3SDdRTl9hQUMxRnJYX1JN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVE5ck9oRlFLdTAxZmtONGt6X3ZVVVVId0QxUUJMQVRiX1l1c1VsS2lIbzNheGRDQTdkazAxb0VjMmUtZjU5MkJqMVB6M1pJVDcycTh3LVQ2ZkVZTWxqQ090VE9TN3RCMm54NGFGdnRfNkVYZlI4dFJPbW1RXzJrZklJRUxJa3V5VlZOWmdqMmVEWTV6QnZET20yd0RXdXh3SDdRTl9hQUMxRnJYX1JN",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792752480.0
     }
 ]
