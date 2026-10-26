@@ -443,6 +443,24 @@
         "timestamp": 1792975860.0
     },
     {
+        "id": "25eff22b36",
+        "title_fa": "موج گرانی و اعتراضی در اروپا همزمان با بحران خاورمیانه",
+        "title_en": "اروپا میان هزینه‌های جنگ ایران و دشواری تأثیرگذاری بر ترامپ",
+        "summary": [
+            "افزایش قیمت سوخت و انرژی در ایتالیا و فرانسه، معترضان را به خیابان‌ها کشانده و هزینه‌های جنگ را به سفر سفره مردم پیوند زده است.",
+            "دولت‌های اروپایی زیر فشار شدید بودجه‌ای و نارضایتی‌های داخلی ناشی از تورم قرار دارند."
+        ],
+        "impact": "بحران انرژی ناشی از تنش‌ها، توان دولت‌های اروپایی برای تمرکز بر سیاست خارجی را به شدت کاهش داده است.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/eu-iran-war-obstacles-trump-decision-energy/33884310.html",
+        "clean_url": "https://www.radiofarda.com/a/eu-iran-war-obstacles-trump-decision-energy/33884310.html",
+        "image": "http://www.bing.com/th?id=ONUT.ystRzph0g5qsm5H7gLe1cQ&pid=News",
+        "timestamp": 1792975440.0
+    },
+    {
         "id": "bdb8d4c553",
         "title_fa": "هشدار صریح نتانیاهو به تهران درباره اخلال در انتخابات",
         "title_en": "Video: Netanyahu warns Iran against disrupting October 27 election",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.iranintl.com/en/202610222098",
         "image": "http://www.bing.com/th?id=ONUT.1HRiQE0lQdx4a1s_mzwMwQ&pid=News",
         "timestamp": 1792685700.0
-    },
-    {
-        "id": "12a423845c",
-        "title_fa": "ادعای ترامپ درباره ساختگی بودن حملات نفتی در خلیج فارس",
-        "title_en": "Trump says Iran is staging tanker attacks — Tehran reports seven real ones",
-        "summary": [
-            "دونالد ت***پ اعلام کرد جمهوری اسلامی برای بالا بردن قیمت نفت و تاثیرگذاری بر انتخابات، پشت پرده تنش‌های ساختگی در تنگه هرمز است.",
-            "تهران این اتهامات را رد کرده و مدعی وقوع حوادث واقعی برای شناورها شده است."
-        ],
-        "impact": "افزایش تنش‌های لفظی و روانی در بازارهای جهانی انرژی و بالا رفتن ریسک تجارت دریایی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Idaho Learning News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-iran-is-staging-tanker-attacks-tehran-reports-seven-real-ones/ar-AA2fRXBA",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-is-staging-tanker-attacks-tehran-reports-seven-real-ones/ar-AA2fRXBA",
-        "image": "http://www.bing.com/th?id=ONUT.waBnLF_xhVeHnD9vPj4x0Q&pid=News",
-        "timestamp": 1792684226.0
     }
 ]
