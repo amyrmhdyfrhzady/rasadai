@@ -459,6 +459,25 @@
         "timestamp": 1792986423.0
     },
     {
+        "id": "a449d9c72f",
+        "title_fa": "تهدیدهای ترامپ و ادامه مذاکرات پنهانی تهران و واشنگتن",
+        "title_en": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
+        "summary": [
+            "دونالد ترامپ از تردید خود میان توافق با جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی یا اقدام نظامی نهایی برای ضربه به آن خبر داده است.",
+            "مقام‌های ایرانی مدعی‌اند مذاکرات غیرمستقیم با آمریکا ادامه دارد اما تهران زیر بار تغییر مواضع خود نمی‌رود.",
+            "بهای نفت برنت در بازارهای جهانی به دلیل بحران‌های خاورمیانه و زمستان پیش رو روی رقم ۱۱۵ دلار ایستاد."
+        ],
+        "impact": "سایه سنگین تهدیدهای نظامی و تداوم تنش‌ها، بازار انرژی و قیمت نفت را همچنان ملتهب نگه داشته است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-shrugs-off-trumps-attack-104506448.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-shrugs-off-trumps-attack-104506448.html",
+        "image": "http://www.bing.com/th?id=ONUT.QxDIP5i35Hh1dTDs5fAxFA&pid=News",
+        "timestamp": 1792986300.0
+    },
+    {
         "id": "b17d5e2e71",
         "title_fa": "حملات پهپادی حوثی‌ها به تاسیسات نفتی و فرودگاه ریاض",
         "title_en": "Iran-backed Houthis claim strikes on Riyadh airport, Saudi oil sites, Yemen targets",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121",
         "image": "https://cdn.theatlantic.com/thumbor/-JL4xSAoobzYaOyEz194HexDgec=/7x0:5312x2763/1200x625/media/img/mt/2026/10/2026_10_22_Trump_Bessent/original.jpg",
         "timestamp": 1792708860.0
-    },
-    {
-        "id": "6361390ff1",
-        "title_fa": "تهدید ترامپ علیه جـمـهـوریت: اقدامات سخت‌تری در راه است",
-        "title_en": "Trump says US 'may do it a little bit further' against Iran",
-        "summary": [
-            "دونالد ترامپ در موضعی صریح از احتمال اعمال فشارهای شدیدتر و فراتر از گذشته علیه تـهـران خبر داد.",
-            "این اظهارات نشان‌دهنده عزم تیم جدید واشنگتن برای بستن منافذ تنفسی مالی و سیاسی حاکمیت است."
-        ],
-        "impact": "افزایش فوری نرخ ارز و بازگشت هراس به بازارهای مالی داخلی",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610225353",
-        "clean_url": "https://www.iranintl.com/en/202610225353",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792706700.0
     }
 ]
