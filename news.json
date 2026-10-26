@@ -892,6 +892,25 @@
         "timestamp": 1792941840.0
     },
     {
+        "id": "d257a5556f",
+        "title_fa": "مخالفت فرمانده ارتش اسرائیل با دستور نتانیاهو برای حمله به ایران",
+        "title_en": "IDF chief pushed back on Netanyahu order for ‘action’ against Iran, fearing political motives",
+        "summary": [
+            "نتانیاهو در آستانه انتخابات، دستور انجام یک عملیات پرریسک علیه ایران را صادر کرده که با مقاومت صریح فرمانده ارتش مواجه شده است.",
+            "فرماندهان ارشد نظامی اسرائیل نگرانند نتانیاهو برای جلب آراء، امنیت منطقه و ارتش را قربانی اهداف سیاسی و انتخاباتی خود کند.",
+            "هشدار ارتش اسرائیل روشن است: این دستکاری‌های سیاسی می‌تواند تنش‌ها را فوراً به یک درگیری تمام‌عیار و غیرقابل کنترل تبدیل کند."
+        ],
+        "impact": "بروز شکاف بی‌سابقه میان فرماندهان نظامی و نتانیاهو، خطر تصمیمات شتاب‌زده و تنش‌زا را در منطقه بالا برده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/idf-chief-pushed-back-netanyahu-222117375.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/idf-chief-pushed-back-netanyahu-222117375.html",
+        "image": "http://www.bing.com/th?id=ONUT.mH0c566RIU6qPBDqmBZqOQ&pid=News",
+        "timestamp": 1792941660.0
+    },
+    {
         "id": "ce7b9c842b",
         "title_fa": "دوراهی ترامپ در قبال ایران: توافق یا پایان کار؟",
         "title_en": "Trump: Do I make a deal with Iran or ‘finish them off’?",
@@ -5457,24 +5476,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/maga-billionaire-peter-thiel-splits-with-trump-over-iran-war-we-should-not-have-done-it/ar-AA2fQVzg",
         "image": "http://www.bing.com/th?id=ONUT.dixDMPIz9L5EtNKBygfH5A&pid=News",
         "timestamp": 1792675800.0
-    },
-    {
-        "id": "a300dcec6b",
-        "title_fa": "ادعای حاکمیت از حمله به هفت نفتکش در خلیج فارس",
-        "title_en": "Iran claims it hit multiple ships in Persian Gulf, warns US military of major escalation",
-        "summary": [
-            "سپاه ادعا کرده به هفت نفتکش در خلیج فارس و تنگه هرمز ضربه زده است.",
-            "تهدید مستقیم نظامی علیه حضور آمریکا در منطقه همزمان با این ادعا مطرح شده است.",
-            "هدف از این گونه فضاسازی‌ها بالا بردن ریسک امنیت انرژی و اعمال فشار سیاسی است."
-        ],
-        "impact": "افزایش آنی ناامنی در آب‌های راهبردی خلیج فارس و رشد قیمت نفت در بازار جهانی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Daily Caller on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-claims-it-hit-multiple-ships-in-persian-gulf-warns-us-military-of-major-escalation/ar-AA2fRrgi",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-claims-it-hit-multiple-ships-in-persian-gulf-warns-us-military-of-major-escalation/ar-AA2fRrgi",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792675227.0
     }
 ]
