@@ -496,6 +496,24 @@
         "timestamp": 1792986300.0
     },
     {
+        "id": "69647d1e3b",
+        "title_fa": "تنگ‌تر شدن حلقه محاصره مالی جـمـهـورۍ اسـلا‌مـۍ",
+        "title_en": "Iran's economic escape routes narrow. Oil revenue keeps falling and crypto funds are frozen.",
+        "summary": [
+            "مسدود شدن مسیرهای تنفس مالی و افت شدید درآمدهای نفتی کشور تحت فشار واشنگتن.",
+            "بلوکه شدن صدها میلیون دلار دارایی دیجیتال مرتبط با ساختار قدرت به دلیل تحریم‌ها."
+        ],
+        "impact": "فلج شدن بیشتر منابع ارزی حاکمیت و تشدید بحران اقتصادی در بازار داخل.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/money/general/iran-s-economic-escape-routes-narrow-oil-revenue-keeps-falling-and-crypto-funds-are-frozen/ar-AA2g52dh",
+        "clean_url": "https://www.msn.com/en-us/money/general/iran-s-economic-escape-routes-narrow-oil-revenue-keeps-falling-and-crypto-funds-are-frozen/ar-AA2g52dh",
+        "image": "http://www.bing.com/th?id=ONUT.n8J9dmc0JVFfAvAHeMND4Q&pid=News",
+        "timestamp": 1792986061.0
+    },
+    {
         "id": "b17d5e2e71",
         "title_fa": "حملات پهپادی حوثی‌ها به تاسیسات نفتی و فرودگاه ریاض",
         "title_en": "Iran-backed Houthis claim strikes on Riyadh airport, Saudi oil sites, Yemen targets",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.spsnavalforces.com/experts-speak",
         "image": "https://www.spsnavalforces.com/experts-speak/images/WarZones_tw.jpg",
         "timestamp": 1792713600.0
-    },
-    {
-        "id": "00645712e7",
-        "title_fa": "حملات پهپادی به عربستان و تهدید پایگاه‌های آمریکا",
-        "title_en": "Iran's IRGC threatens to target US bases if commercial ships continue transiting Strait of Hormuz",
-        "summary": [
-            "نیروهای نیابتی حوثی مسئولیت حمله مرگبار به فرودگاه بین‌المللی ملک فهد و تاسیسات آرامکو را بر عهده گرفتند.",
-            "همزمان با این حملات، عوامل وابسته به سِپاه تهدید کردند که اگر کشتی‌های تجاری به تردد در تنگه هرمز ادامه دهند، پایگاه‌های آمریکا هدف قرار خواهند گرفت."
-        ],
-        "impact": "افزایش شدید ریسک امنیت انرژی و بالا رفتن احتمال درگیری مستقیم نظامی در منطقه خلیج فارس.",
-        "tag": "نیابتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/556f8128d805a1ed878807dd0596b183.jpg",
-        "timestamp": 1792711080.0
     }
 ]
