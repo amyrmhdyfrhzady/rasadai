@@ -1,5 +1,24 @@
 [
     {
+        "id": "b840e2a527",
+        "title_fa": "انهدام سکوهای موشکی حوثی‌ها در صنعا توسط ائتلاف سعودی",
+        "title_en": "Saudi-led coalition destroys Iran-backed Houthi missile launchers in Sanaa",
+        "summary": [
+            "ائتلاف تحت رهبری عربستان دو سکوی پرتاب موشک بالستیک وابسته به نیابتی‌های ایران در صنعا را نابود کرد.",
+            "همزمان با تحرکات نظامی، میانجی‌گران قطری برای کاهش تنش‌ها و جلوگیری از درگیری میان آمریکا و تهران راهی پایتخت شدند.",
+            "دونالد ترامپ میان گزینه توافق با جـ.هـ.وـ.رـ.ی اـ.سـ.لـ.اـ.مـ.ی و اقدام نظامی مستقیم در حال بررسی است."
+        ],
+        "impact": "تضعیف توان موشکی نیابتی‌ها در یمن همزمان با تلاش‌های دیپلماتیک فشرده برای مهار بحران.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610263451",
+        "clean_url": "https://www.iranintl.com/en/202610263451",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792980180.0
+    },
+    {
         "id": "1b9005849b",
         "title_fa": "هشدار درباره فروپاشی بهداشت در تعز پس از حملات حوثی‌های مورد حمایت ایران",
         "title_en": "Yemeni group warns Taiz health sector collapsing amid Iran-backed Houthi attacks",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/is-iran-ready-for-another-major-us-attack-after-midterm-elections/ar-AA2fOZEz",
         "image": "http://www.bing.com/th?id=ONUT.iK-oevdPrR_NpxpYSD1NwQ&pid=News",
         "timestamp": 1792653360.0
-    },
-    {
-        "id": "c89d58bbc2",
-        "title_fa": "درگیری معترضان یهودی افراطی با پلیس اسرائیل",
-        "title_en": "Haredi draft protesters throw rocks at police near Elad Junction; one officer hurt",
-        "summary": [
-            "گروهی از معترضان به قانون سربازی اجباری در نزدیکی تقاطع العاد دست به تجمع و سنگ‌پرانی زدند.",
-            "یک نیروی پلیس در جریان متفرق کردن این آشوبگران زخمی شد."
-        ],
-        "impact": "افزایش تنش‌های داخلی در اسرائیل بر سر معافیت یهودیان حریدی از خدمت نظامی.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/haredi-draft-protesters-throw-rocks-at-police-near-elad-junction-one-officer-hurt/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/haredi-draft-protesters-throw-rocks-at-police-near-elad-junction-one-officer-hurt",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792651800.0
     }
 ]
