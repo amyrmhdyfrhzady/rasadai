@@ -18,6 +18,25 @@
         "timestamp": 1793046076.4880092
     },
     {
+        "id": "8ee2875f60",
+        "title_fa": "تلاش ریاض برای کاهش تنش با ج.ا و واکنش تند کیهان",
+        "title_en": "Riyadh urges diplomatic solution to Iran crisis after Tehran talks",
+        "summary": [
+            "ریاض خواستار راهکار دیپلماتیک و توافق برای جلوگیری از تنش نظامی با ج.ا شد.",
+            "وزیر دفاع عربستان و مقامات ارشد ترکیه و پاکستان برای کاهش درگیری‌ها به تهران رفتند.",
+            "حسین شریعتمداری، مدیرمسئول روزنامه کیهان، این نشست را سراب خواند و از ابتکار دیپلماتیک انتقاد کرد."
+        ],
+        "impact": "آشکار شدن شکاف عمیق میان رویکرد دیپلماتیک دولت و مخالفت تندروهای حاکمیت با مذاکره.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610260172",
+        "clean_url": "https://www.iranintl.com/en/202610260172",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793045340.0
+    },
+    {
         "id": "5d18dfd5ac",
         "title_fa": "فشار نتانیاهو به ارتش برای حمله به ایـران",
         "title_en": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-us-strikes-on-iran-are-predicted/ar-AA2fWiGX",
         "image": "http://www.bing.com/th?id=ONUT.MxXqm1sdR-yOI586qXCxug&pid=News",
         "timestamp": 1792755000.0
-    },
-    {
-        "id": "3754b4639f",
-        "title_fa": "خط و نشان ترامپ برای نفت ایران",
-        "title_en": "Trump said U.S. could 'just take' all Iran's oil as Tehran threatens escalation if attacked",
-        "summary": [
-            "دونالد ترامپ با اشاره به وضعیت وخیم اقتصادی و تورم شدید در ایران، ادعا کرد آمریکا توان تصاحب منابع نفتی و کنترل کامل تنگه هرمز را دارد.",
-            "مقامات تهران در واکنش تهدید کردند که در صورت سرگیری حملات، تمامی پایگاه‌ها و منافع آمریکا و متحدانش را هدف قرار خواهند داد."
-        ],
-        "impact": "بالارفتن شدید تنش‌های لفظی و نظامی میان واشنگتن و تهران.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Just The News",
-        "url": "https://justthenews.com/world/middle-east/trump-said-us-could-just-take-all-irans-oil-tehran-threatens-escalation-if",
-        "clean_url": "https://justthenews.com/world/middle-east/trump-said-us-could-just-take-all-irans-oil-tehran-threatens-escalation-if",
-        "image": "http://www.bing.com/th?id=ONUT.pjso6h05f3Xx3PhHJw961Q&pid=News",
-        "timestamp": 1792754580.0
     }
 ]
