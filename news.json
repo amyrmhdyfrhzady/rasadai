@@ -622,6 +622,25 @@
         "timestamp": 1793006253.0
     },
     {
+        "id": "4c8043b850",
+        "title_fa": "کشته شدن فرماندهان ارشد جهاد اسلامی و حماس در غزه",
+        "title_en": "IDF claims it eliminated four operatives from Islamic Jihad",
+        "summary": [
+            "ارتش اسرائیل از هدف قرار دادن چهار عضو کلیدی حماس و جهاد اسلامی طی درگیری‌های آخر هفته خبر داد.",
+            "علا ابو زید و حمدان سلیمان ابوهامرا از جهاد اسلامی به همراه فوزی سلام و محمد عنان از رهبران یگان نخبه حماس در این حملات کشته شدند.",
+            "مواضع تک‌تیراندازان غزه که برای هدف قرار دادن نیروهای ارتش اسرائیل فعال بودند، منهدم شد."
+        ],
+        "impact": "تضعیف بیشتر بدنه فرماندهی میدانی گروه‌های نیابتی در باریکه غزه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "APA.AZ",
+        "url": "https://en.apa.az/asia/idf-claims-it-eliminated-four-operatives-from-islamic-jihad-532321",
+        "clean_url": "https://en.apa.az/asia/idf-claims-it-eliminated-four-operatives-from-islamic-jihad-532321",
+        "image": "https://en.apa.az/storage/news/2026/october/26/big/6adfabcf5174d6adfabcf5174e17930434076adfabcf5174b6adfabcf5174c.png",
+        "timestamp": 1793006100.0
+    },
+    {
         "id": "0fe899a9de",
         "title_fa": "نشست اضطراری تهران و مسکو؛ پوتین میزبان پزشکیان",
         "title_en": "US-Iran War Live Updates: Putin to meet Iran’s Pezeshkian and Qatar’s emir in Moscow on Tuesday",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ29wOWwxY2tHX2JGOVJFWWQ3V3g1RG1GaVIzdjA3QUp2VldoZVNFZ0VUQzhSQ3ZiOHdyaWhvMFpxZi1hbFNib1hXUHJMNFJzOU9JaVRLaWdHSkFaZWxlTndqTVhXUUpEYU1JR3hrTHdiMHItNDF5cXl4RGZKSGI2R0NDcHF4Zw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792750704.0
-    },
-    {
-        "id": "678656d57b",
-        "title_fa": "رشد بورس مسکو همزمان با اوج‌گیری بهای نفت",
-        "title_en": "Russian stock market closed in the green — market data",
-        "summary": [
-            "شاخص اصلی بورس مسکو با رشد ۱.۴۵ درصدی به کار خود پایان داد.",
-            "ارزش روبل در برابر یوآن چین تقویت شد و نفت همچنان در بالاترین قیمت‌های چند ماه گذشته معامله می‌شود."
-        ],
-        "impact": "تقویت موقت بازارهای مالی روسیه به لطف جهش قیمت جهانی نفت.",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2207141",
-        "clean_url": "https://tass.com/economy/2207141",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792749660.0
     }
 ]
