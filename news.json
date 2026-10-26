@@ -658,6 +658,25 @@
         "timestamp": 1793008594.0
     },
     {
+        "id": "c4b49c246d",
+        "title_fa": "حمله مرگبار هوایی به چادرهای آوارگان در خان یونس",
+        "title_en": "Israeli Strike in Gaza Kills Three Including Child",
+        "summary": [
+            "بمباران مناطق مسکونی و چادرهای آوارگان در جنوب غزه قربانی گرفت.",
+            "منابع پزشکی مرگ سه نفر از جمله یک کودک هفت ساله را تایید کردند.",
+            "حملات ۲۴ ساعت گذشته در سراسر باریکه غزه تلفات سنگینی برجای گذاشته است."
+        ],
+        "impact": "افزایش تلفات غیرنظامیان و وخامت بیشتر وضعیت انسانی در مناطق جنوبی غزه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5333747-israeli-strike-gaza-kills-three-including-child",
+        "clean_url": "https://english.aawsat.com/arab-world/5333747-israeli-strike-gaza-kills-three-including-child",
+        "image": "https://static.srpcdigital.com/styles/1037xauto/public/2026-10/1847518.jpeg.webp?VersionId=p5XGPX4orOHpBn8HAEtT8nKvatQaolaT",
+        "timestamp": 1793008560.0
+    },
+    {
         "id": "0688fc6328",
         "title_fa": "پاتک دیپلماتیک ریاض، آنکارا و اسلام‌آباد به بحران تهران",
         "title_en": "Saudi, Turkish and Pakistani officials to visit Iran for talks",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.yahoo.com/news/us/articles/us-iran-war-then-now-114353665.html",
         "image": "https://media.zenfs.com/en/al_jazeera_289/991ecbfe284e81e2cc3e72c15e6457d8.jpg",
         "timestamp": 1792755832.0
-    },
-    {
-        "id": "3e824b2d7f",
-        "title_fa": "خیزش دوباره قیمت نفت در سایه تهدیدات جنگ",
-        "title_en": "Oil markets are on edge ahead of the weekend as midterm elections near and fresh US strikes on Iran are predicted",
-        "summary": [
-            "بازارهای انرژی در آستانه تنش‌های نظامی جدید میان ایالات متحده و ایران به شدت ملتهب شده‌اند.",
-            "احتمال حملات نظامی متقابل پس از تحولات سیاسی داخلی، بهای نفت را به اوج رسانده است."
-        ],
-        "impact": "افزایش آنی بهای انرژی و تشدید فشار اقتصادی بر بازارهای جهانی.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "MarketWatch on MSN",
-        "url": "https://www.msn.com/en-us/news/other/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-us-strikes-on-iran-are-predicted/ar-AA2fWiGX",
-        "clean_url": "https://www.msn.com/en-us/news/other/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-us-strikes-on-iran-are-predicted/ar-AA2fWiGX",
-        "image": "http://www.bing.com/th?id=ONUT.MxXqm1sdR-yOI586qXCxug&pid=News",
-        "timestamp": 1792755000.0
     }
 ]
