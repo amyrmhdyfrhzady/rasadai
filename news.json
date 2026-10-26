@@ -385,6 +385,25 @@
         "timestamp": 1792999683.0
     },
     {
+        "id": "658af374c0",
+        "title_fa": "جبهه پایداری خواستار خروج از ان‌پی‌تی و ساخت بمب شد",
+        "title_en": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
+        "summary": [
+            "تندروها با فشار برای خروج از معاهده منع گسترش سلاح‌های هسته‌ای، عملاً پزشکیان را در بن‌بست سیاسی قرار داده‌اند.",
+            "این جریان با نادیده گرفتن هزینه‌های جنگ، به دنبال تغییر دکترین نظامی به سمت ساخت سلاح اتمی در سریع‌ترین زمان ممکن است.",
+            "شکاف میان دولت و هسته سخت قدرت، همزمان با بحران‌های زیرساختی ناشی از درگیری‌های اخیر، حاکمیت را به سمت انزوای مطلق سوق می‌دهد."
+        ],
+        "impact": "افزایش تنش‌های داخلی و احتمال خروج رسمی از معاهدات بین‌المللی، ریسک حملات نظامی سنگین‌تر را به شدت بالا می‌برد.",
+        "tag": "هسته‌ای",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-anti-negotiation-hardliners-turn-142733631.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-anti-negotiation-hardliners-turn-142733631.html",
+        "image": "http://www.bing.com/th?id=ONUT.L81inUD2QKty6GQ5uU-7MA&pid=News",
+        "timestamp": 1792999620.0
+    },
+    {
         "id": "008d7702d6",
         "title_fa": "نارضایتی ترامپ از روند توافق با جـ.ـهـ.ـوری ا‌سـ.ـلـ.ـا‌مـ.ـی",
         "title_en": "Trump says he hasn't made a final decision on Iran, 'not happy' with current negotiations - ABC News",
@@ -5458,24 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlo4TnUzRGxHdXRrbWFCNDBlZE5yaHFLZ0o5N2N6NUpXUG9rVl96c19meGRuaDE5cXZJOUJHRU1iUXE1Z09ucm9pR0RudGtYVTRGemw3cGxsdDFzOVlHY2N0WUpUNDR3b1RNcWtWNG1QOHBRNjZvMVRoWnRJSGV2M0l2M1Y",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792728037.0
-    },
-    {
-        "id": "ef4ea2b041",
-        "title_fa": "تورم ۹۴ درصدی درمان و بحران کمبود دارو در ای-ران",
-        "title_en": "Iran’s Healthcare Inflation Hits 94% As Country Battles Severe Medicine Shortages",
-        "summary": [
-            "آمارهای رسمی تناقض‌گویی مقامات حکومتی درباره خودکفایی دارویی را کاملاً عیان می‌کند.",
-            "تولید داخل دارو وابستگی شدیدی به واردات مواد اولیه از چین و هند دارد.",
-            "حکومت با فرافکنی، بحران‌های ناشی از سوءمدیریت را به پای تحریم‌ها می‌گذارد."
-        ],
-        "impact": "فشار سنگین هزینه‌های درمان روی دوش مردم در بحران نابسامانی دارو.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "IranWire",
-        "url": "https://iranwire.com/en/features/159239-irans-healthcare-inflation-hits-94-as-country-battles-severe-medicine-shortages/",
-        "clean_url": "https://iranwire.com/en/features/159239-irans-healthcare-inflation-hits-94-as-country-battles-severe-medicine-shortages",
-        "image": "http://www.bing.com/th?id=ONUT.EGTaly8T1dRJGM6SVL5VLw&pid=News",
-        "timestamp": 1792726200.0
     }
 ]
