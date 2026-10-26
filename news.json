@@ -1,5 +1,24 @@
 [
     {
+        "id": "63e55f56f6",
+        "title_fa": "جهش درآمدی آنتروپیک و ورود به بورس",
+        "title_en": "[October 27] Anthropic's S-1: Red ink in the headlines vs. real red ink",
+        "summary": [
+            "شرکت هوش مصنوعی آنتروپیک درخواست رسمی عرضه اولیه سهام خود را در بورس نزدک ثبت کرد.",
+            "درآمد نیمه نخست سال به شدت رشد کرده و این شرکت برای نخستین بار سود عملیاتی ثبت کرده است.",
+            "زیان خالص اعلام شده بیشتر ناشی از تغییر ارزش اوراق قرضه قابل تبدیل است و نه زیان عملیاتی."
+        ],
+        "impact": "این رویداد نشان داد شرکت‌های هوش مصنوعی در حال کسب درآمد واقعی هستند و بازار سهام حوزه فناوری را دوباره صعودی کرد.",
+        "tag": "تکنولوژی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "note",
+        "url": "https://note.com/loyal_kalmia3506/n/nff5708249fe4?hl=en",
+        "clean_url": "https://note.com/loyal_kalmia3506/n/nff5708249fe4",
+        "image": "https://www.bing.com/th?id=ONUT.q6T_X3v30L1HNgPgFZNe_w",
+        "timestamp": 1793058664.0807855
+    },
+    {
         "id": "5144027158",
         "title_fa": "پیشنهاد عمان برای پیمان امنیتی خلیج فارس با حضور ای...ران",
         "title_en": "Oman calls for Iran-inclusive Persian Gulf security pact",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcThmYms4bXZlN2dQbzljYlNjOEhYcFlwdUVxQ3RYaEg2RVVUY05uQ25Eb280YUp3aGwwdjRTVHljTWV1SXExWnhmUk0wSEVvdmlTNmpBTVBsb0Zodk82ejh2cTN1QVp4Mjk5LTZGRWRHa3kwVE9WVnhqcGwzUXk0eUpoUUlfcGRvMk1WTFc4UzZJeXdmV2llcTRDOGVpQ1RKbUZfUnFUdXlJODdMb09SQjdlU3gwMi1na0pjNnpYR1ZYV1FBQ3dUMjA1UUo",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792773660.0
-    },
-    {
-        "id": "c689e536aa",
-        "title_fa": "احتمال حمله نظامی آمریکا به ایران در آخر هفته",
-        "title_en": "US envoy: There 'absolutely' could be a US strike on Iran 'this weekend'",
-        "summary": [
-            "تام باراک، سفیر آمریکا در ترکیه، احتمال حمله نظامی به اهداف رژیم در آخر هفته جاری را قطعی دانست.",
-            "این مقام ارشد آمریکایی در یک گفتگوی آنلاین صراحتاً از روی میز بودن گزینه نظامی سخن گفت."
-        ],
-        "impact": "افزایش شدید تنش‌های نظامی و سقوط فوری بازارهای مالی داخل کشور",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/us-envoy-there-absolutely-could-be-a-us-strike-on-iran-this-weekend/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/us-envoy-there-absolutely-could-be-a-us-strike-on-iran-this-weekend",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26107305723987.jpg",
-        "timestamp": 1792772340.0
     }
 ]
