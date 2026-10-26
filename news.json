@@ -1,5 +1,24 @@
 [
     {
+        "id": "ce31ea8cff",
+        "title_fa": "تکذیب گزارش‌های تنش نظامی با ایران توسط نتانیاهو در آستانه انتخابات",
+        "title_en": "Netanyahu denies reports about escalation with Iran in last day before election",
+        "summary": [
+            "بنیامین نتانیاهو اخبار منتشرشده درباره تصاعد درگیری با ایران در ساعات پایانی مانده به انتخابات را تکذیب کرد.",
+            "تل‌آویو در این مقطع حساس انتخاباتی تمایلی به باز کردن جبهه جدید یا ایجاد ریسک‌های غیرقابل پیش‌بینی نظامی ندارد.",
+            "این تکذیبیه بیشتر جنبه مدیریت افکار عمومی داخلی دارد و به معنای تغییر در استراتژی تقابل با حکومت ایران نیست."
+        ],
+        "impact": "فروکش کردن موقت التهابات نظامی و کاهش ریسک درگیری مستقیم تا مشخص شدن نتایج انتخابات.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkI0TThPU1J3NWdkSUM4Ny16VU1SaWhPYmY2eUtPZnlhZ05tRUtwV3FDQ2pDMzk0OGx1c1dDZWJSNkhOOUtOTFNESjVnSU9vbVRqbjdWTndINWlYTkhJMnBtbFlVRy03V1BZNEtCYUNmdkJ5eVJoNVZRRGZMb1RsdjV3WjgtcTRURmxnQ1htMHY1bzRSV1hPcUxLODhzYmE5ZGlSbXE0YXRvVWZPSnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkI0TThPU1J3NWdkSUM4Ny16VU1SaWhPYmY2eUtPZnlhZ05tRUtwV3FDQ2pDMzk0OGx1c1dDZWJSNkhOOUtOTFNESjVnSU9vbVRqbjdWTndINWlYTkhJMnBtbFlVRy03V1BZNEtCYUNmdkJ5eVJoNVZRRGZMb1RsdjV3WjgtcTRURmxnQ1htMHY1bzRSV1hPcUxLODhzYmE5ZGlSbXE0YXRvVWZPSnc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793015340.0
+    },
+    {
         "id": "fe943e246a",
         "title_fa": "دل بستن بخشی از جامعه به تحولات بیرونی برای تغییر",
         "title_en": "Iranians pin hopes for political change on Netanyahu's election win",
@@ -5460,24 +5479,5 @@
         "clean_url": "https://www.nbcnews.com/business/economy/trump-affordability-promises-gas-grocery-prices-taxes-rcna597789",
         "image": "http://www.bing.com/th?id=ONUT.L1cudhWtRxEmp3eVjNE6_Q&pid=News",
         "timestamp": 1792720740.0
-    },
-    {
-        "id": "c8c9544812",
-        "title_fa": "شرط واشنگتن برای توقف تقابل؛ تداوم محاصره تا غنی‌سازی صفر",
-        "title_en": "US-Iran war to continue until nuclear deal is struck, US envoy says",
-        "summary": [
-            "مایک والتز نماینده آمریکا در سازمان ملل صراحتاً اعلام کرد محاصره دریایی و فشار خفه‌کننده اقتصادی تا زمان تسلیم کامل ج.ا.ا در پرونده اتمی و برچیده شدن ذخایر اورانیوم ادامه دارد.",
-            "هم‌زمان رایزنی‌های فشرده دونالد ترامپ و نتانیاهو برای کلید زدن موج جدید عملیات‌های تهاجمی علیه زیرساخت‌های حیاتی ایران در جریان است.",
-            "واشنگتن استراتژی ترکیب محاصره فلج‌کننده اقتصادی با تهدید معتبر نظامی را برای تحمیل شرایط خود به تهران پیش می‌برد."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره دریایی و تهدید عملیات نظامی، صادرات نفت را به حداقل رسانده و شوک سنگینی به بازار ارز وارد می‌کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2206699",
-        "clean_url": "https://tass.com/world/2206699",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261023/1490765.jpg",
-        "timestamp": 1792719660.0
     }
 ]
