@@ -313,6 +313,25 @@
         "timestamp": 1793014526.0
     },
     {
+        "id": "df000eaf94",
+        "title_fa": "طرح مخفی نتانیاهو برای تغییر حکومت در ج.ا با چراغ سبز ترامپ",
+        "title_en": "Israel plotting 'regime change' in Iran? Report claims Trump's approval awaited; what is Netanyahu's secret plan?",
+        "summary": [
+            "اسرائیل قصد دارد با اجرای یک عملیات نظامی گسترده مشترک با آمریکا، ساختار سیاسی تهران را سرنگون کند.",
+            "این طرح محرمانه که توسط نخست‌وزیر اسرائیل دنبال می‌شود، رهبران ارشد ج.ا را به طور مستقیم هدف قرار می‌دهد.",
+            "اختلاف نظرهایی میان فرماندهان ارتش اسرائیل و مقامات امنیتی درباره زمان‌بندی این حمله وجود دارد."
+        ],
+        "impact": "آغاز احتمالی یک درگیری نظامی بزرگ و بی‌سابقه با هدف فروپاشی حاکمیت کنونی در ایران.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "News24",
+        "url": "https://news24online.com/world/iran-us-war-israel-plotting-regime-change-in-iran-report-claims-trumps-approval-awaited-what-is-benjamin-netanyahu-secret-plan-iran-israel-war/947269/",
+        "clean_url": "https://news24online.com/world/iran-us-war-israel-plotting-regime-change-in-iran-report-claims-trumps-approval-awaited-what-is-benjamin-netanyahu-secret-plan-iran-israel-war/947269",
+        "image": "http://www.bing.com/th?id=ONUT.zy_8BaHq84D0iddqJ1crPg&pid=News",
+        "timestamp": 1793013540.0
+    },
+    {
         "id": "6fc667f3fb",
         "title_fa": "بحران گاز در زمستان و سفر مقام‌های ارشد به تهران",
         "title_en": "Iran warns gas supplies to high-use customers may be cut this winter",
@@ -5462,25 +5481,5 @@
         "clean_url": "https://www.msn.com/en-ae/news/other/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/ar-AA2fUJvz",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792746202.0
-    },
-    {
-        "id": "c8525d013d",
-        "title_fa": "هشدار درباره پاتک دیپلماتیک جـ.ـهـ.ـوری اسـ.ـلامـ.ـی پس از شکست نظامی",
-        "title_en": "Trump can't let Iran turn a military defeat turn into a diplomatic victory",
-        "summary": [
-            "تلاش حاکمیت برای جبران خسارت‌های سنگین نظامی و اقتصادی در میز مذاکره",
-            "استفاده تهران از باج‌خواهی اتمی و تهدید امنیت انرژی برای بقای سیاسی",
-            "ضرورت جلوگیری واشنگتن از احیای جایگاه پیشین جـ.ـهـ.ـوری اسـ.ـلامـ.ـی از طریق توافق شتاب‌زده",
-            "ادامه تاکتیک‌های همیشگی ارعاب و تهدید از سوی مقامات تهران"
-        ],
-        "impact": "آمریکا نباید اجازه دهد شکست در میدان جنگ با امتیازدهی پای میز مذاکره جبران شود.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
-        "clean_url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/IRGC.jpg",
-        "timestamp": 1792745940.0
     }
 ]
