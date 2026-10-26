@@ -1,5 +1,24 @@
 [
     {
+        "id": "bdb8d4c553",
+        "title_fa": "هشدار صریح نتانیاهو به تهران درباره اخلال در انتخابات",
+        "title_en": "Video: Netanyahu warns Iran against disrupting October 27 election",
+        "summary": [
+            "نخست‌وزیر اسرائیل از وجود نشانه‌های اطلاعاتی درباره احتمال تحرکات تخریب‌گرانه ج.ا و نیابتی‌هایش در جریان انتخابات پیش رو خبر داد.",
+            "تهدید مستقیم تل‌آویو مبنی بر پاسخ کوبنده و نامتوازن به هرگونه سناریوی احتمالی از سوی تهران.",
+            "تلاش‌های دیپلماتیک قطر در تهران همزمان با رویکرد دوگانه دونالد ترامپ میان توافق و گزینه نظامی در جریان است."
+        ],
+        "impact": "سایه تهدید نظامی بر سر تحرکات منطقه‌ای تهران و تلاش‌های فشرده میانجی‌گران برای مهار تنش.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610267339",
+        "clean_url": "https://www.iranintl.com/en/202610267339",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792974780.0
+    },
+    {
         "id": "62dc9cadef",
         "title_fa": "جهش قیمت نفت در پی ترس از جنگ در منطقه",
         "title_en": "Oil Prices Rise on Fears of Middle East Conflict Escalation",
@@ -5459,23 +5478,5 @@
         "clean_url": "https://www.iranintl.com/en/202610228150",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792649640.0
-    },
-    {
-        "id": "378bd965f9",
-        "title_fa": "روابط پکن و تهران؛ منافع تجاری بدون تعهد دفاعی",
-        "title_en": "China values Iran but won't pay any price to defend it",
-        "summary": [
-            "پکن نگاه کاملاً تجاری به تهران دارد و هیچ تعهد ایدئولوژیک یا نظامی برای دفاع از سیستم حاکم ندارد.",
-            "موقعیت جغرافیایی ایران و امنیت انرژی، انگیزه اصلی چین برای حفظ این رابطه است."
-        ],
-        "impact": "تهران در برابر فشارهای غرب روی شریکی حساب باز کرده که فقط به دنبال منافع اقتصادی خود است.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610227980",
-        "clean_url": "https://www.iranintl.com/en/202610227980",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/6f3798ebe979e7bf3db87f8c98e80fd88e44d61f-1024x768.jpg?rect=58,137,869,456&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1792648500.0
     }
 ]
