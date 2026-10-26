@@ -331,6 +331,24 @@
         "timestamp": 1793012880.0
     },
     {
+        "id": "a87bee6eb2",
+        "title_fa": "واکنش‌های اینترنتی ایرانیان به نتانیاهو و تغییرات سیاسی",
+        "title_en": "Iran security chief says US threats have little impact on regional states",
+        "summary": [
+            "بخش قابل توجهی از کاربران فارسی‌زبان شبکه‌های اجتماعی ابراز امیدواری کرده‌اند که بقایای رهبری اسرائیل بتواند به تغییرات بنیادین در ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی کمک کند.",
+            "این نظرات بازتاب‌دهنده دیدگاه‌های تمام جامعه ایران نیست و تفکیک محل سکونت کاربران داخل و خارج از کشور از این طریق ممکن نیست."
+        ],
+        "impact": "افزایش شکاف میان خواست عمومی و مواضع رسمی حاکمیت در فضای مجازی.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610267992",
+        "clean_url": "https://www.iranintl.com/en/202610267992",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793012580.0
+    },
+    {
         "id": "56c5e3b15d",
         "title_fa": "انتخابات زمان جنگ در اسرائیل و ابعاد پنهان آن",
         "title_en": "Why Israel’s wartime election isn’t just about the war",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/IRGC.jpg",
         "timestamp": 1792745940.0
-    },
-    {
-        "id": "751bac95fd",
-        "title_fa": "برخورد تحریم‌های ترامپ علیه ایـران با مانع",
-        "title_en": "Trump’s Iran sanctions run into limits",
-        "summary": [
-            "مکانیسم تحریم‌های فشار حداکثری دولت ترامپ علیه جـمـهـوری اسـلامـی با محدودیت‌های ساختاری و اجرایی روبرو شده است.",
-            "کارشناسان اقتصادی معتقدند دور زدن تحریم‌ها و تغییر مسیر فروش نفت، اثربخشی این سیاست‌ها را کاهش داده است."
-        ],
-        "impact": "کاهش کارایی ابزارهای تنبیهی واشنگتن و ت تداوم فروش انرژی توسط تـکـراری.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Semafor",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0ZfTjhhZjJRSDVqTFQ5eFRycVBMWkRqdGpLdGd0T2VPUTY5NWhTbXdnbno5bjE5TkpoSjZyZ0MxcUNzZ3ZtUXFZY2ZuN0F1R0o4dkpqTjlTemhVVjVJRF9NQ09rS2s3VUZJbTM0N25zZHoxWXdDN0IwR1AwVVdLQ2N1cWRicVk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0ZfTjhhZjJRSDVqTFQ5eFRycVBMWkRqdGpLdGd0T2VPUTY5NWhTbXdnbno5bjE5TkpoSjZyZ0MxcUNzZ3ZtUXFZY2ZuN0F1R0o4dkpqTjlTemhVVjVJRF9NQ09rS2s3VUZJbTM0N25zZHoxWXdDN0IwR1AwVVdLQ2N1cWRicVk",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792745700.0
     }
 ]
