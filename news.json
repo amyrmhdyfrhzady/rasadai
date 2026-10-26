@@ -1,5 +1,23 @@
 [
     {
+        "id": "339e192c79",
+        "title_fa": "تلاش نتانیاهو برای پاک کردن فاجعه ۷ اکتبر از اذهان عمومی",
+        "title_en": "Netanyahu hopes voters forget October 7, 2023",
+        "summary": [
+            "بنیامین نتانیاهو از روش‌های قدیمی خود برای بقای سیاسی و فرار از مسئولیت شکست امنیتی استفاده می‌کند.",
+            "مخالفت تاریخی او با تشکیل کشور فلسطین همچنان محور اصلی سیاست‌های داخلی و منطقه‌ای‌اش است."
+        ],
+        "impact": "آینده سیاسی نتانیاهو به شدت به مدیریت بحران‌های امنیتی و حفظ وضعیت موجود گره خورده است.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Asia Times",
+        "url": "https://asiatimes.com/2026/10/netanyahu-hopes-voters-forget-october-7-2023/",
+        "clean_url": "https://asiatimes.com/2026/10/netanyahu-hopes-voters-forget-october-7-2023",
+        "image": "https://asiatimes.com/wp-content/uploads/2026/10/742458-copy.jpg",
+        "timestamp": 1793035620.0
+    },
+    {
         "id": "8307bc210b",
         "title_fa": "تقویت محور تهران-مسکو در سایه بحران داخلی بازنشستگان",
         "title_en": "Iran's Pezeshkian says Russia ties expanding ahead of Putin talks",
@@ -5463,24 +5481,5 @@
         "clean_url": "https://blogs.timesofisrael.com/how-irans-hidden-military-footprint-is-draining-the-water-resources",
         "image": "http://www.bing.com/th?id=ONUT._hBmjIdqxOF_25VKQKpoNg&pid=News",
         "timestamp": 1792743960.0
-    },
-    {
-        "id": "85a35c462a",
-        "title_fa": "سایه جنگ؛ احتمال اقدام نظامی آمریکا علیه ج.ا پس از انتخابات",
-        "title_en": "Will the United States Attack Iran After the Midterms?",
-        "summary": [
-            "دونالد ترامپ بارها از احتمال اقدام قاطع نظامی علیه ج.ا صحبت کرده و زمان آن را به حوالی انتخابات میان‌دوره‌ای گره زده است.",
-            "پنتاگون با اعزام سه ناوگروه هواپیمابر به منطقه، آماده‌باش کامل نیروهای سنتکام را برای عملیات جنگی صادر کرده است.",
-            "بنیامین نتانیاهو فاش کرد که ترامپ به او گفته واشنگتن برای تمام کردن کار ج.ا کاملاً آماده است."
-        ],
-        "impact": "افزایش شدید ریسک نظامی در منطقه و به اوج رسیدن احتمال درگیری مستقیم.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/articles/will-the-united-states-attack-iran-after-the-midterms",
-        "clean_url": "https://www.cfr.org/articles/will-the-united-states-attack-iran-after-the-midterms",
-        "image": "http://www.bing.com/th?id=ONUT.CQ9YaxFjAGshpm2PWMr-eg&pid=News",
-        "timestamp": 1792741740.0
     }
 ]
