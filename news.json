@@ -1,5 +1,23 @@
 [
     {
+        "id": "fe943e246a",
+        "title_fa": "دل بستن بخشی از جامعه به تحولات بیرونی برای تغییر",
+        "title_en": "Iranians pin hopes for political change on Netanyahu's election win",
+        "summary": [
+            "بخش قابل توجهی از مردم داخل کشور، تغییرات سیاسی کلان را به فشارهای خارجی و تحولات منطقه ای گره زده اند.",
+            "پیروزی چهره های تندرو در بیرون مرزها، بارقه های امید برای تضعیف حاکمیت را در میان مخالفان داخلی زنده کرده است."
+        ],
+        "impact": "افزایش شکاف میان ملت و حاکمیت و چشم دوختن به سناریوهای خارجی برای گذار.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVYjZZSW5TaEs2YmZKTXpBTUJ3c1EtYUh2eldZdU5xTWROSGxtd1laZWFTRnUtaFFjN09hZXZmbEpyYWtUM1lFREZNYXhXckVNaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVYjZZSW5TaEs2YmZKTXpBTUJ3c1EtYUh2eldZdU5xTWROSGxtd1laZWFTRnUtaFFjN09hZXZmbEpyYWtUM1lFREZNYXhXckVNaWc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793014526.0
+    },
+    {
         "id": "8b6aa17f1c",
         "title_fa": "سرنوشت سیاسی نـ...ـتـ...ـانـ...ـیاهـ...ـو در گرو اولین انتخابات پس از هفتم اکتبر",
         "title_en": "Netanyahu's legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/556f8128d805a1ed878807dd0596b183.jpg",
         "timestamp": 1792711080.0
-    },
-    {
-        "id": "3cc3d47e72",
-        "title_fa": "خطای امنیتی سایت اتلانتیک در باز کردن خبر ترامپ",
-        "title_en": "Trump's Gamble to End the Iran War",
-        "summary": [
-            "محتوای اصلی مقاله نشریه اتلانتیک درباره رویکرد دونالد ترامپ به خاطر خطای بررسی امنیتی بارگذاری نشد.",
-            "این مسئله نشان‌دهنده چالش‌های دسترسی به برخی تحلیل‌های رسانه‌ای خارجی است."
-        ],
-        "impact": "عدم دسترسی به جزئیات تحلیل جدید رسانه آمریکایی درباره پرونده ایر...ان.",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
-        "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121",
-        "image": "https://cdn.theatlantic.com/thumbor/-JL4xSAoobzYaOyEz194HexDgec=/7x0:5312x2763/1200x625/media/img/mt/2026/10/2026_10_22_Trump_Bessent/original.jpg",
-        "timestamp": 1792708860.0
     }
 ]
