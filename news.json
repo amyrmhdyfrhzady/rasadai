@@ -1,5 +1,23 @@
 [
     {
+        "id": "9124440d4f",
+        "title_fa": "واکنش مک‌فارلند به موضع ترامپ درباره توافق اتمی با تهران",
+        "title_en": "KT McFarland reacts to Trump's Iran nuclear deal criticism",
+        "summary": [
+            "مقام سابق امنیت ملی آمریکا به شدت از توافق‌های اتمی قبلی با تهران انتقاد کرد.",
+            "فشار حداکثری دوباره به عنوان راهبرد اصلی در قبال حکومت ایران مطرح شد."
+        ],
+        "impact": "بازگشت احتمالی سیاست‌های سخت‌گیرانه و تحریم‌های سنگین اقتصادی علیه تهران",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRazA3VnlYMzhIOGxFNDB2Q3JYQ2NJMkFHZ0pmcTdubThRcmpLcktIT0xLam1LaEZOTUhtZUdHZzBvWm13aGxJMzVNVjVGTmJKdjdCRmVROGdpZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRazA3VnlYMzhIOGxFNDB2Q3JYQ2NJMkFHZ0pmcTdubThRcmpLcktIT0xLam1LaEZOTUhtZUdHZzBvWm13aGxJMzVNVjVGTmJKdjdCRmVROGdpZUE",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793016974.0
+    },
+    {
         "id": "ce31ea8cff",
         "title_fa": "تکذیب گزارش‌های تنش نظامی با ایران توسط نتانیاهو در آستانه انتخابات",
         "title_en": "Netanyahu denies reports about escalation with Iran in last day before election",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0JRNGdsTDFOb1J1NHJ3SHY4QmNQdnU4S3BBSXpDRElKOHZ4UldUQllLTnNBM0tBdUdCMTZybWdCQmxYcUFwbGZudGowRE41ZVFxcFlIQVNsdURFRUIzTmRLMWtWRVR4SHdLYkNxWmh6TzliVzJvbHVjR3dTSFpVVklSbzNKYU9pdlFxazlvSGJOazdFYzV2TWtFbjBtN3Yy",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792720863.0
-    },
-    {
-        "id": "c85932e4ac",
-        "title_fa": "شکست وعده‌های اقتصادی ترامپ زیر سایه جنگ",
-        "title_en": "Trump promised $2 gas and cheaper groceries. Here’s what voters got instead.",
-        "summary": [
-            "با وجود اجرای سیاست‌های مالیاتی و تعرفه‌ای، هزینه‌های زندگی و قیمت سوخت همچنان بالا باقی مانده است.",
-            "بحران‌های منطقه‌ای و تنش با ایران، وعده ارزان‌سازی کالاها و سوخت را زمین‌گیر کرد."
-        ],
-        "impact": "افزایش نارضایتی عمومی و فشار بر دولت در آستانه انتخابات.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/trump-affordability-promises-gas-grocery-prices-taxes-rcna597789",
-        "clean_url": "https://www.nbcnews.com/business/economy/trump-affordability-promises-gas-grocery-prices-taxes-rcna597789",
-        "image": "http://www.bing.com/th?id=ONUT.L1cudhWtRxEmp3eVjNE6_Q&pid=News",
-        "timestamp": 1792720740.0
     }
 ]
