@@ -1,5 +1,23 @@
 [
     {
+        "id": "2c496dddaa",
+        "title_fa": "بررسی احتمال جنگ با ايران در دانشگاه تولين",
+        "title_en": "Tulane political science professors discuss Iran war, international policy",
+        "summary": [
+            "اساتید علوم سیاسی دانشگاه تولین وضعیت درگیری احتمالی با جمهوری ا... را زیر ذره‌بین بردند.",
+            "سیاست خارجی قدرت‌های بزرگ در قبال تنش‌های خاورمیانه بررسی شد."
+        ],
+        "impact": "افزایش تحلیل‌های آکادمیک درباره آینده بحران منطقه",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Tulane Hullabaloo",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3NjX3dVazVRWS0yVWN5LXZvZHNuYlpVVnMwc1JaQ2ZrV3NoOGdMOTB6Z2IxRGlJOE1LRmRnYXFNNUFQTGtjZGdsOUxYSk94b05yTGVGTVEzc3k5TmppeUJCT2lVQkFqNE0xZnBsMjVQYzdTQUJKdFF5ZUhqX0J2aWNqTjRvMHFUQW8tcU5rY0F1OWJrSzhjc3FGNi1iSmI4NXlTVFlJOUFKbmUzVDlJMzdnY2Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3NjX3dVazVRWS0yVWN5LXZvZHNuYlpVVnMwc1JaQ2ZrV3NoOGdMOTB6Z2IxRGlJOE1LRmRnYXFNNUFQTGtjZGdsOUxYSk94b05yTGVGTVEzc3k5TmppeUJCT2lVQkFqNE0xZnBsMjVQYzdTQUJKdFF5ZUhqX0J2aWNqTjRvMHFUQW8tcU5rY0F1OWJrSzhjc3FGNi1iSmI4NXlTVFlJOUFKbmUzVDlJMzdnY2Y",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793021715.0
+    },
+    {
         "id": "5dd76dd8ea",
         "title_fa": "تحرکات دیپلماتیک در تهران همزمان با اخبار طرح حمله نظامی",
         "title_en": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
@@ -89,6 +107,24 @@
         "clean_url": "https://www.iranintl.com/en/202610260047",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793012880.0
+    },
+    {
+        "id": "56c5e3b15d",
+        "title_fa": "انتخابات زمان جنگ در اسرائیل و ابعاد پنهان آن",
+        "title_en": "Why Israel’s wartime election isn’t just about the war",
+        "summary": [
+            "انتخابات پیش‌روی اسرائیل فراتر از مسائل جنگ و امنیت ملی است.",
+            "رقابت‌های سیاسی داخلی تاثیر مستقیمی بر آینده کابینه و تصمیمات نظامی دارد."
+        ],
+        "impact": "دگرگونی احتمالی در معادلات سیاسی داخلی تل‌آویو",
+        "tag": "منطقه‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHEzR0hCOTFCcG4yNEo4bGdBRzVMR0N0ZE9pRkJpU2lwMjdHUkk3cDFHREdiMldnbXdZSzJUajhaOTJqdXUzSkplU2ZkNVpWLWw0NGE5cjkybXdrSE1RaEdXb2ZDZlVCellxbmJkTU1uMVBTNTZWNnpCVldmUXAzTmJSY3YtdE0zVFVFSElyUzRoTnliYjFIcmd5cHlwSjAtTUh5RV9UUWZ0MnlZYnVBTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHEzR0hCOTFCcG4yNEo4bGdBRzVMR0N0ZE9pRkJpU2lwMjdHUkk3cDFHREdiMldnbXdZSzJUajhaOTJqdXUzSkplU2ZkNVpWLWw0NGE5cjkybXdrSE1RaEdXb2ZDZlVCellxbmJkTU1uMVBTNTZWNnpCVldmUXAzTmJSY3YtdE0zVFVFSElyUzRoTnliYjFIcmd5cHlwSjAtTUh5RV9UUWZ0MnlZYnVBTg",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793012514.0
     },
     {
         "id": "8b6aa17f1c",
@@ -5440,43 +5476,5 @@
         "clean_url": "https://www.iranintl.com/en/202610239461",
         "image": "http://www.bing.com/th?id=ONUT.ppscUOQaPY6ZNMkuxJUkCg&pid=News",
         "timestamp": 1792724700.0
-    },
-    {
-        "id": "d870007f20",
-        "title_fa": "شکاف ترامپ و نتانیاهو؛ آیا تهران به توافق منطقه‌ای نزدیک می‌شود؟",
-        "title_en": "Analysis • Netanyahu and Trump's private war could bring Iran closer to a regional deal",
-        "summary": [
-            "محافل عبری از اختلاف تاکتیکی میان دونالد ترامپ و بنیامین نتانیاهو بر سر نحوه مهار جمهوری‌اسلامی پرده برداشته‌اند.",
-            "رویکرد ترامپ معطوف به بهره‌گیری از تهدیدهای نظامی و اقتصادی برای تحمیل یک توافق فراگیر و سریع است، در حالی که نتانیاهو نابودی کامل زیرساخت‌های نظامی و هسته‌ای را دنبال می‌کند.",
-            "این ناهمخوانی اهداف، فضای مانور کوتاه‌مدتی در اختیار دیپلماسی منطقه‌ای می‌گذارد و امکان شکل‌گیری توافقی اجباری را افزایش می‌دهد."
-        ],
-        "impact": "سردرگمی در هماهنگی واشنگتن و تل‌آویو که می‌تواند شتاب تقابل نظامی مستقیم را تغییر دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUUpnTUFiRE9rUFYzeE9IQlRHd2ZfM0NtTmd0dGNMWVhHM2xPWm9uNElVbDVhdWN4bURwcVlhWXRFY1VkYlJfZTNDcWNDN2tOMXRiYlFqNjAxSS1HYXRLTkk2eFVCaWR4YTZDRlZkaDVSNVQ0TC1ySmllRUFJdnN1MW5vc2d4LXhaU29sck9XeHhwbUEwNXk2aEtOLVdYUVhnY2RPNndpY1BUN214aldiRTlxbzJ2VW4yTzE2NG03NlVVT296eTlyVzItaE9lRFFhajhFVUpmU29yMUdGaGUyUnUtNTFscXRfeWFhMEFDWHFYQlFvak4zY2RCRHRuSC14ckhOZEk0eXNQLVdtbWZTNHhPa2RvUzFvVlRlQ09xZFI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUUpnTUFiRE9rUFYzeE9IQlRHd2ZfM0NtTmd0dGNMWVhHM2xPWm9uNElVbDVhdWN4bURwcVlhWXRFY1VkYlJfZTNDcWNDN2tOMXRiYlFqNjAxSS1HYXRLTkk2eFVCaWR4YTZDRlZkaDVSNVQ0TC1ySmllRUFJdnN1MW5vc2d4LXhaU29sck9XeHhwbUEwNXk2aEtOLVdYUVhnY2RPNndpY1BUN214aldiRTlxbzJ2VW4yTzE2NG03NlVVT296eTlyVzItaE9lRFFhajhFVUpmU29yMUdGaGUyUnUtNTFscXRfeWFhMEFDWHFYQlFvak4zY2RCRHRuSC14ckhOZEk0eXNQLVdtbWZTNHhPa2RvUzFvVlRlQ09xZFI",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792724400.0
-    },
-    {
-        "id": "31cffe08fa",
-        "title_fa": "افشای ارتباط لیدرهای ضدجنگ با نهادهای امنیتی ت...ی",
-        "title_en": "Revealed: Pro-Palestine rally organiser’s links to Iran",
-        "summary": [
-            "مدیر ارشد گروه کدنک با افراد تحریم‌شده مرتبط با نهادهای اطلاعاتی ایران دیدار داشته است.",
-            "نهادهای اطلاعاتی غربی این فرد را ابزاری برای پیشبرد روایت‌های ت...ی در آمریکا و انگلیس می‌دانند.",
-            "این شبکه در سازماندهی تظاهرات ضداسرائیلی و مخالفت با تحریم‌ها نقش فعالی داشته است."
-        ],
-        "impact": "افزایش فشار امنیتی بر گروه‌های پوششی وابسته به ت...اب در غرب",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/revealed-pro-palestine-rally-organiser-093000486.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/revealed-pro-palestine-rally-organiser-093000486.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/4d9d5da2271893b15975e7fe2cf5d020aafb557a2b077689860341dba1fba991/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fe591c29c5223860f72870617567c10dd.jpg",
-        "timestamp": 1792722600.0
     }
 ]
