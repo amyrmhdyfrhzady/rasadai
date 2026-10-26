@@ -19,6 +19,25 @@
         "timestamp": 1793001312.0
     },
     {
+        "id": "8e09c07f97",
+        "title_fa": "اعتراف مجلس به نقش بانک مرکزی در سقوط ریال",
+        "title_en": "Iranian lawmaker blames central bank decisions for part of rial's decline",
+        "summary": [
+            "منوچهر متکی از عدم پاسخگویی مسئولان بانک مرکزی به نمایندگان مجلس درباره بحران سقوط ارزش پول ملی خبر داد.",
+            "نرخ دلار در بازار آزاد طی دو سال گذشته جهش بی‌سابقه‌ای داشته و به مرز سه میلیون ریال نزدیک شده است.",
+            "واساطت قطر در تهران همزمان با بررسی گزینه‌های مختلف توسط دونالد ترامپ برای توافق یا اقدام نظامی جریان دارد."
+        ],
+        "impact": "فشار اقتصادی بر معیشت مردم همزمان با تحرکات دیپلماتیک برای مهار تنش‌ها افزایش یافته است.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610263782",
+        "clean_url": "https://www.iranintl.com/en/202610263782",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793000340.0
+    },
+    {
         "id": "3b0f8f84f5",
         "title_fa": "نشست‌های اضطراری در تهران هم‌زمان با هشدار درگیری منطقه‌ای",
         "title_en": "Delegations meeting in Tehran with region on edge over potential for renewed fighting",
@@ -5460,24 +5479,5 @@
         "clean_url": "https://www.iranintl.com/en/202610226433",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792687620.0
-    },
-    {
-        "id": "bb101a2336",
-        "title_fa": "آرامکو به دنبال مخازن نفت خارج از منطقه پس از جنگ",
-        "title_en": "Saudi Aramco seeks overseas oil stockpile expansion after Iran war",
-        "summary": [
-            "آسيب‌پذیری شبکه انرژی عربستان در جریان درگیری‌ها، این کشور را به فکر توسعه مخازن ذخیره نفت در خارج از مرزهای خود انداخته است.",
-            "مدیرعامل آرامکو هشدار داده که با پایان تنش‌ها، تقاضای جهانی نفت روزانه تا سه میلیون بشکه جهش خواهد کرد.",
-            "مسیرهای صادراتی جدیدی برای دور زدن تنگه هرمز و باب‌المندب زیر ذره‌بین شرکت ملی نفت عربستان قرار گرفته است."
-        ],
-        "impact": "تلاش ریاض برای کاهش اتکای صادرات نفت به آبراهه‌های استراتژیک منطقه مانند تنگه هرمز.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610222098",
-        "clean_url": "https://www.iranintl.com/en/202610222098",
-        "image": "http://www.bing.com/th?id=ONUT.1HRiQE0lQdx4a1s_mzwMwQ&pid=News",
-        "timestamp": 1792685700.0
     }
 ]
