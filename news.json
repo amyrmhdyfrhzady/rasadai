@@ -18,6 +18,24 @@
         "timestamp": 1793035620.0
     },
     {
+        "id": "1ce2dea046",
+        "title_fa": "امیدواری بخشی از کاربران ایرانی به تغییرات با رهبری نتانیاهو",
+        "title_en": "Iran's military chief claims IRGC has full control of Strait of Hormuz",
+        "summary": [
+            "واکنش‌های کاربران فارسی‌زبان در شبکه‌های اجتماعی نشان می‌دهد گروهی از مردم به فشار خارجی برای تغییر حکومت امید بسته‌اند.",
+            "این نظرات بازتاب‌دهنده خستگی جامعه از وضعیت موجود و تمایل به فروپاشی ج-م-ه-و-ر-ی اس-لا-می است."
+        ],
+        "impact": "تقویت جنگ روانی و افزایش شکاف میان بدنه جامعه و حاکمیت.",
+        "tag": "اجتماعی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610262183",
+        "clean_url": "https://www.iranintl.com/en/202610262183",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793034720.0
+    },
+    {
         "id": "8307bc210b",
         "title_fa": "تقویت محور تهران-مسکو در سایه بحران داخلی بازنشستگان",
         "title_en": "Iran's Pezeshkian says Russia ties expanding ahead of Putin talks",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4WXQxN2NWb0E3d2R1bTFXOVFieEN3LWcxSlhLWFpvOFpsUVpVT0ZxWVhfUVpwNWlPY0tYV2NKcV9CUV95MFlPNEVaMW93MjRHbWxtZ2dBbTJ0bGFxY1JPNTltbHM0aFRzUnN3aXV4ZE1qN29yWlhsU3RSS05TUFlUOUg2anBw",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792745217.0
-    },
-    {
-        "id": "60bfb1485c",
-        "title_fa": "بحران آب ایران؛ بهای سنگین جاه‌طلبی‌های نظامی حکومت",
-        "title_en": "How Iran’s Hidden Military Footprint Is Draining the Water Resources",
-        "summary": [
-            "تمرکز رسانه‌ها بیشتر روی موشک و هسته‌ای است، اما منابع آبی کشور نابود شده‌اند.",
-            "پروژه‌های نظامی و سدسازی‌های غیرکارشناسی سپاه، رودخانه‌ها و تالاب‌ها را خشکانده است."
-        ],
-        "impact": "تخریب ساختاری محیط زیست و منابع آب شیرین به دلیل سیاست‌های اتمی و موشکی حکومت.",
-        "tag": "محیط‌زیست",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "The Blogs | The Times of Israel",
-        "url": "https://blogs.timesofisrael.com/how-irans-hidden-military-footprint-is-draining-the-water-resources/",
-        "clean_url": "https://blogs.timesofisrael.com/how-irans-hidden-military-footprint-is-draining-the-water-resources",
-        "image": "http://www.bing.com/th?id=ONUT._hBmjIdqxOF_25VKQKpoNg&pid=News",
-        "timestamp": 1792743960.0
     }
 ]
