@@ -18,6 +18,24 @@
         "timestamp": 1793014526.0
     },
     {
+        "id": "6fc667f3fb",
+        "title_fa": "بحران گاز در زمستان و سفر مقام‌های ارشد به تهران",
+        "title_en": "Iran warns gas supplies to high-use customers may be cut this winter",
+        "summary": [
+            "دولت از احتمال قطع گاز مشترکان پرمصرف در روزهای سرد سال خبر داد.",
+            "مقام‌های ارشد نظامی و امنیتی عربستان، پاکستان و ترکیه برای رایزنی وارد تهران شدند."
+        ],
+        "impact": "فشار انرژی به شهروند همزمان با تلاش دیپلماتیک برای مهار تنش‌های منطقه‌ای.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610260047",
+        "clean_url": "https://www.iranintl.com/en/202610260047",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793012880.0
+    },
+    {
         "id": "8b6aa17f1c",
         "title_fa": "سرنوشت سیاسی نـ...ـتـ...ـانـ...ـیاهـ...ـو در گرو اولین انتخابات پس از هفتم اکتبر",
         "title_en": "Netanyahu's legacy is on the line as Israelis vote in the first elections since the Oct. 7 attack",
@@ -403,6 +421,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SN1hYQ0l0Q1NiUkFSdXBDZ3R6QXpENUZOREEya0h1eU9qWTl5NXp6NV9kZ1NOYWd6MGdjSjUwcHBYYkp1M2VrTkhnUm5MNlBxemFZQmJsMG5uVjJ4Uk5ZRXpYSU80UjJmWmhXeURR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792991639.0
+    },
+    {
+        "id": "7ec43eb830",
+        "title_fa": "بی‌تفاوت نمایی تهران نسبت به انتخابات اسرائیل",
+        "title_en": "Iran says outcome of Israeli elections ‘makes no difference’",
+        "summary": [
+            "دستگاه دیپلماسی ج.ا مدعی شد نتیجه انتخابات اسرائیل هیچ تاثیری بر رویکرد این حکومت ندارد.",
+            "اسرائیل و آمریکا از بازگشت گزینه نظامی علیه برنامه‌های اتمی و منطقه‌ای سخن می‌گویند."
+        ],
+        "impact": "افزایش جنگ روانی و تهدیدهای متقابل میان محور غربی-عبری و تهران.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Ariana News",
+        "url": "https://www.ariananews.af/iran-says-outcome-of-israeli-elections-makes-no-difference/",
+        "clean_url": "https://www.ariananews.af/iran-says-outcome-of-israeli-elections-makes-no-difference",
+        "image": "http://www.bing.com/th?id=ONUT.yaVEbulzdDokemg7iOMc0w&pid=News",
+        "timestamp": 1792991520.0
     },
     {
         "id": "a501cf96a3",
@@ -5443,42 +5479,5 @@
         "clean_url": "https://tass.com/world/2206699",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261023/1490765.jpg",
         "timestamp": 1792719660.0
-    },
-    {
-        "id": "1126689c2e",
-        "title_fa": "حمله تند ترامپ به ستاره بسکتبال آمریکا",
-        "title_en": "حمله ترامپ به لبران جیمز: مایه ننگ است، باید عذرخواهی کند",
-        "summary": [
-            "دونالد ترامپ به دلیل بی‌توجهی لبران جیمز به سرود ملی آمریکا در جریان مسابقه، به شدت از او انتقاد کرد.",
-            "رئیس‌جمهور آمریکا رفتار این ورزشکار سرشناس را توهین به نظامیان دانست و خواستار عذرخواهی رسمی او شد."
-        ],
-        "impact": "بازتاب گسترده حاشیه‌های سیاسی و ورزشی در رسانه‌های ایالات متحده.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610236399",
-        "clean_url": "https://www.iranintl.com/202610236399",
-        "image": "http://www.bing.com/th?id=ONUT.XjurwRRBQGDp-6IkctM14w&pid=News",
-        "timestamp": 1792717080.0
-    },
-    {
-        "id": "9390eb0587",
-        "title_fa": "جهش قیمت نفت به بالاترین سطح در ۵ ماه اخیر",
-        "title_en": "Oil hits five-month high as Houthi attacks fuel supply fears",
-        "summary": [
-            "حملات پهپادی و موشکی نیابتی‌ها به زیرساخت‌های انرژی در عربستان، بازار جهانی نفت را به شدت متلاطم کرد.",
-            "قیمت نفت برنت از مرز ۱۱۳ دلار گذشت که بالاترین رکورد ماه‌های اخیر محسوب می‌شود.",
-            "احتمال اقدام نظامی مشترک علیه تاسیسات ای-ران ضریب ریسک بازار انرژی را به شدت بالا برده است."
-        ],
-        "impact": "تنش‌های نظامی منطقه‌ای مستقیماً به بحران انرژی و جهش قیمت نفت در بازارهای جهانی دامن زده است.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Star",
-        "url": "https://www.thestar.com.my/business/2026/10/23/oil-hits-five-month-high-as-houthi-attacks-fuel-supply-fears",
-        "clean_url": "https://www.thestar.com.my/business/2026/10/23/oil-hits-five-month-high-as-houthi-attacks-fuel-supply-fears",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/10/23/4176292.jpeg",
-        "timestamp": 1792714567.5054622
     }
 ]
