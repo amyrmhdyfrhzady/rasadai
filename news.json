@@ -1,5 +1,23 @@
 [
     {
+        "id": "8307bc210b",
+        "title_fa": "تقویت محور تهران-مسکو در سایه بحران داخلی بازنشستگان",
+        "title_en": "Iran's Pezeshkian says Russia ties expanding ahead of Putin talks",
+        "summary": [
+            "مسعود پزشکیان از گسترش روابط با روسیه سخن گفته و آماده دیدار با ولادیمیر پوتین برای تقویت همکاری‌های دوجانبه است.",
+            "همزمان با این تحرکات دیپلماتیک، بحران معیشتی و درمانی بازنشستگان هواپیمایی هما به دلیل ناتوانی در تأمین هزینه‌های بیمارستانی به مرگ چند نفر منجر شده است."
+        ],
+        "impact": "تمرکز حاکمیت بر تعمیق روابط خارجی در حالی انجام می‌شود که فشارهای اقتصادی، شهروندان و اقشار آسیب‌پذیر را به لبه پرتگاه کشانده است.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610264937",
+        "clean_url": "https://www.iranintl.com/en/202610264937",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793034060.0
+    },
+    {
         "id": "0a27e7945d",
         "title_fa": "گسترش همکاری‌های اتمی مسکو و تهران در سایه انزوای بین‌المللی",
         "title_en": "Russia And Iran Expand Nuclear Cooperation As International Oversight Weakens",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://tass.com/economy/2207021",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1792741560.0
-    },
-    {
-        "id": "2c8d8d704a",
-        "title_fa": "کشته شدن دو نظامی اسرائیلی در کرانه باختری",
-        "title_en": "درگیری تازه میان اسرائیل و فلسطینی‌ها؛ دو سرباز اسرائیلی در کرانه باختری کشته شدند",
-        "summary": [
-            "بنیامین نتانیاهو به دنبال درگیری مرگبار در کرانه باختری برنامه‌های انتخاباتی خود را متوقف کرد.",
-            "ارتش اسرائیل از آغاز عملیات جستجوی گسترده و بستن گذرگاه‌های الخلیل خبر داد."
-        ],
-        "impact": "افزایش تنش‌های امنیتی در کرانه باختری و تشدید واکنش‌های نظامی اسرائیل.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/israel-demolishes-homes-and-go-house-to-house-after-attack-in-thewest-bank/33883057.html",
-        "clean_url": "https://www.radiofarda.com/a/israel-demolishes-homes-and-go-house-to-house-after-attack-in-thewest-bank/33883057.html",
-        "image": "http://www.bing.com/th?id=ONUT.dHCw_5BN0TTKAS9yWzHH-w&pid=News",
-        "timestamp": 1792740960.0
     }
 ]
