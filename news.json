@@ -1,5 +1,24 @@
 [
     {
+        "id": "1b9005849b",
+        "title_fa": "هشدار درباره فروپاشی بهداشت در تعز پس از حملات حوثی‌های مورد حمایت ایران",
+        "title_en": "Yemeni group warns Taiz health sector collapsing amid Iran-backed Houthi attacks",
+        "summary": [
+            "بیش از ۵۲ درصد از مراکز درمانی و بیمارستان‌های استان تعز در یمن بر اثر حملات مداوم حوثی‌ها و کمبود شدید سوخت و دارو از مدار خدمت خارج شده‌اند.",
+            "حملات هدفمند حوثی‌ها به کادر درمان و آمبولانس‌ها، بحران انسانی در این منطقه را به نقطه بحرانی رسانده است.",
+            "هم‌زمان با این بحران، تحرکات دیپلماتیک قطر در تهران برای کاهش احتمال رویارویی نظامی میان آمریکا و ج.ا.ایران شدت گرفته است."
+        ],
+        "impact": "افزایش فشار بین‌المللی بر گروه‌های نیابتی تهران در یمن همزمان با تلاش‌های منطقه برای مهار تنش نظامی.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610260232",
+        "clean_url": "https://www.iranintl.com/en/202610260232",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792979400.0
+    },
+    {
         "id": "bdb8d4c553",
         "title_fa": "هشدار صریح نتانیاهو به تهران درباره اخلال در انتخابات",
         "title_en": "Video: Netanyahu warns Iran against disrupting October 27 election",
@@ -5459,24 +5478,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/haredi-draft-protesters-throw-rocks-at-police-near-elad-junction-one-officer-hurt",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792651800.0
-    },
-    {
-        "id": "0efe4f390b",
-        "title_fa": "افشای توطئه ترور خبرنگاران ایران اینترنشنال در دادگاه لندن",
-        "title_en": "IMF sees Middle East region shrinking 1.3% in 2026 due to Iran war",
-        "summary": [
-            "متهم پرونده در دادگاه بریتانیا اعتراف کرد که ماموریت داشته دست و پای خبرنگاران منتقد را بشکند.",
-            "شبکه ترور وابسته به تـهـران اطلاعات مربوط به فعالان رسانه‌ای و چهره‌های مخالف را جمع‌آوری می‌کرده است.",
-            "سه متهم این پرونده اتهامات مربوط به قانون امنیت ملی بریتانیا را رد کرده‌اند."
-        ],
-        "impact": "افزایش فشار امنیتی دولت بریتانیا بر شبکه عوامل وابسته به جـمـهـوری اسـلامـی در خاک اروپا",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610228150",
-        "clean_url": "https://www.iranintl.com/en/202610228150",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792649640.0
     }
 ]
