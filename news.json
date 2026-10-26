@@ -37,6 +37,25 @@
         "timestamp": 1793045340.0
     },
     {
+        "id": "249eef8ded",
+        "title_fa": "سفر پزشکیان به روسیه و شکاف در بدنه حاکمیت",
+        "title_en": "Iran's Pezeshkian arrives in Russia for gas exporters summit",
+        "summary": [
+            "مسعود پزشکیان برای شرکت در نشست صادرکنندگان گاز وارد مسکو شد.",
+            "حسین شریعتمداری، مدیرمسئول کیهان، این نشست را سراب خواند و به ایده امنیتی علی باقری کنی تاخت.",
+            "منتقدان داخلی بر این باورند که ترکیه، عربستان و پاکستان به دلیل وابستگی به آمریکا، میانجی‌های قابل اعتمادی برای تهران نیستند."
+        ],
+        "impact": "تشدید شکاف و درگیری لفظی میان جناح‌های داخلی بر سر کارایی ائتلاف‌های منطقه‌ای با مسکو.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610266961",
+        "clean_url": "https://www.iranintl.com/en/202610266961",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793043360.0
+    },
+    {
         "id": "5d18dfd5ac",
         "title_fa": "فشار نتانیاهو به ارتش برای حمله به ایـران",
         "title_en": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
@@ -5466,24 +5485,5 @@
         "clean_url": "https://www.iranintl.com/en/202610248341",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792756800.0
-    },
-    {
-        "id": "545ee1cbca",
-        "title_fa": "بحران در تنگه هرمز و هشدار درباره درگیری جدید",
-        "title_en": "US-Iran war, then and now: How the landscape has changed since February",
-        "summary": [
-            "سپاه پاسداران از آتش گرفتن یا آسیب دیدن هفت نفتکش در خلیج فارس و تنگه هرمز خبر داده است.",
-            "مقام‌های نظامی ایران درباره پاسخ گسترده به حملات احتمالی آمریکا هشدار داده‌اند.",
-            "تنش‌ها بر سر برنامه هسته‌ای و کنترل آبراه حیاتی نفت شدت گرفته است."
-        ],
-        "impact": "افزایش بهای انرژی در بازارهای جهانی و بالا رفتن ریسک تردد نفتکش‌ها در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/us/articles/us-iran-war-then-now-114353665.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/us-iran-war-then-now-114353665.html",
-        "image": "https://media.zenfs.com/en/al_jazeera_289/991ecbfe284e81e2cc3e72c15e6457d8.jpg",
-        "timestamp": 1792755832.0
     }
 ]
