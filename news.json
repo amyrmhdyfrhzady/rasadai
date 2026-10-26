@@ -18,6 +18,25 @@
         "timestamp": 1793034060.0
     },
     {
+        "id": "197e25acaf",
+        "title_fa": "واکنش‌های کاربران ایرانی به نتانیاهو و امید به تغییرات سیاسی",
+        "title_en": "Former deputy minister says $4.7 billion in oil revenues remain unreturned",
+        "summary": [
+            "بخش قابل توجهی از کاربران فارسی‌زبان در شبکه‌های اجتماعی با انتشار کامنت‌هایی از رهبری بنیامین نتانیاهو حمایت کرده‌اند.",
+            "این واکنش‌ها بازتاب‌دهنده امیدواری بخشی از جامعه به تاثیر فشارهای بیرونی بر تحولات سیاسی و تضعیف حکومت است.",
+            "کارشناسان تاکید می‌کنند این نظرات بازسازنده کل افکار عمومی داخل کشور نیست اما گویای نارضایتی عمیق از وضعیت موجود است."
+        ],
+        "impact": "افزایش شکاف میان روایت رسمی حاکمیت و مطالبات واقعی بدنه جامعه برای تغییر بنیادین.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610268929",
+        "clean_url": "https://www.iranintl.com/en/202610268929",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793032080.0
+    },
+    {
         "id": "0a27e7945d",
         "title_fa": "گسترش همکاری‌های اتمی مسکو و تهران در سایه انزوای بین‌المللی",
         "title_en": "Russia And Iran Expand Nuclear Cooperation As International Oversight Weakens",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://www.cfr.org/articles/will-the-united-states-attack-iran-after-the-midterms",
         "image": "http://www.bing.com/th?id=ONUT.CQ9YaxFjAGshpm2PWMr-eg&pid=News",
         "timestamp": 1792741740.0
-    },
-    {
-        "id": "c5f4cce40a",
-        "title_fa": "فلج شدن آسمان مسکو؛ تعطیلی تمامی فرودگاه‌های پایتخت روسیه",
-        "title_en": "All Moscow airports suspend aircraft arrivals, departures — Federal Air Transport Agency",
-        "summary": [
-            "سازمان هواپیمایی روسیه از برقراری محدودیت‌های کامل پروازی در چهار فرودگاه اصلی مسکو خبر داد.",
-            "این تصمیم اضطراری در پی تهدیدات امنیتی و احتمال حملات پهپادی در آسمان این کشور اتخاذ شده است."
-        ],
-        "impact": "اختلال گسترده در حمل‌ونقل هوایی مسکو و فلج شدن سفرهای داخلی و خارجی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2207021",
-        "clean_url": "https://tass.com/economy/2207021",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792741560.0
     }
 ]
