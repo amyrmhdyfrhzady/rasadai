@@ -1,5 +1,23 @@
 [
     {
+        "id": "1d6120778b",
+        "title_fa": "فشار آژانس انرژی اتمی به ت--هران برای بازرسی فوری",
+        "title_en": "UN nuclear watchdog chief urges Iran to grant access",
+        "summary": [
+            "مدیرکل آژانس در شورای امنیت خواستار دسترسی فوری به مواد ه--سته‌ای ج--مهوری اس--لامی شد.",
+            "ته--ران همچنان از پاسخگویی به سوالات پادمانی و همکاری با بازرسان طفره می‌رود."
+        ],
+        "impact": "افزایش فشار‌های بین‌المللی و احتمال صدور قطعنامه جدید علیه برنامه ه--سته‌ای.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Agence France-Presse",
+        "url": "https://www.msn.com/en-us/news/world/un-nuclear-watchdog-chief-urges-iran-to-grant-access/ar-AA2gbkay",
+        "clean_url": "https://www.msn.com/en-us/news/world/un-nuclear-watchdog-chief-urges-iran-to-grant-access/ar-AA2gbkay",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gbJXd.img?w=768&h=523&m=4&q=94",
+        "timestamp": 1793125610.0
+    },
+    {
         "id": "adaae115e0",
         "title_fa": "دستپاچگی مسکو و تهران برای دور زدن تحریم‌های نفتی",
         "title_en": "Iran, Russia eye joint oil and gas projects amid US blockade",
@@ -5454,24 +5472,5 @@
         "clean_url": "https://www.iranintl.com/en/202610246039",
         "image": "http://www.bing.com/th?id=ONUT.c_XGENQNYAJdsb3kTQaYpA&pid=News",
         "timestamp": 1792839480.0
-    },
-    {
-        "id": "e08a4270a8",
-        "title_fa": "تشدید تنش‌ها در خلیج فارس و ادعای غرامت جنگی از آمریکا و اسرائیل",
-        "title_en": "US Iran War Live Updates: Iran’s Mojtaba Khamenei Demands Compensation For US And Israeli War Damage",
-        "summary": [
-            "دونالد ترامپ سیگنال‌هایی درباره احتمال حملات جدید علیه جـمـهـورۍ اسـلامـۍ ارسال کرده است.",
-            "تهران به ناوهای آمریکایی درباره ورود به خلیج فارس هشدار داد.",
-            "انفجار نفت‌کش در تنگه هرمز و رهگیری موشک حوثی‌ها به سمت ریاض، امنیت انرژی را به شدت تهدید کرده است."
-        ],
-        "impact": "بالارفتن ریسک‌های امنیتی در آب‌های راهبردی خاورمیانه و نوسان شدید در بازارهای انرژی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-today-latest-breaking-news-war-news-israel-iran-conflict-and-strait-of-hormuz-tensions-latest-iran-news-and-videos-liveblog-156396531",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-today-latest-breaking-news-war-news-israel-iran-conflict-and-strait-of-hormuz-tensions-latest-iran-news-and-videos-liveblog-156396531",
-        "image": "https://images.timesnownews.com/thumb/msid-156396531,thumbsize-1783196,width-1280,height-720,resizemode-75/156396531.jpg",
-        "timestamp": 1792838760.0
     }
 ]
