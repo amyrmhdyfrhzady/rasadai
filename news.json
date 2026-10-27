@@ -786,6 +786,25 @@
         "timestamp": 1793014526.0
     },
     {
+        "id": "31df2387d5",
+        "title_fa": "نشست اضطراری تهران با قدرت‌های منطقه‌ای از ترس حملات ائتلاف",
+        "title_en": "Irán recibe a Arabia Saudita y otras potencias regionales ante el temor de una nueva guerra",
+        "summary": [
+            "مقامات ارشد امنیتی عربستان، ترکیه و پاکستان برای مهار بحران راهی تهران شدند.",
+            "سایه سنگین تهدیدات نظامی ایالات متحده و اسرائیل، تهران و ریاض را به میز مذاکره کشاند.",
+            "این دیدار در سایه نگرانی از دور جدید حملات پس از تحولات سیاسی اخیر انجام گرفت."
+        ],
+        "impact": "تلاش برای ایجاد یک سپر دیپلماتیک منطقه‌ای در برابر فشارهای نظامی رو به رشد",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "ABC17NEWS",
+        "url": "https://abc17news.com/cnn-spanish/2026/10/26/iran-recibe-a-arabia-saudita-y-otras-potencias-regionales-ante-el-temor-de-una-nueva-guerra/",
+        "clean_url": "https://abc17news.com/cnn-spanish/2026/10/26/iran-recibe-a-arabia-saudita-y-otras-potencias-regionales-ante-el-temor-de-una-nueva-guerra",
+        "image": "http://www.bing.com/th?id=ONUT.pWxaqDlXWROb2lDMV5keVg&pid=News",
+        "timestamp": 1793014380.0
+    },
+    {
         "id": "df000eaf94",
         "title_fa": "طرح مخفی نتانیاهو برای تغییر حکومت در ج.ا با چراغ سبز ترامپ",
         "title_en": "Israel plotting 'regime change' in Iran? Report claims Trump's approval awaited; what is Netanyahu's secret plan?",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.iranintl.com/en/liveblog/202610244311",
         "image": "http://www.bing.com/th?id=ONUT.S_k-57HlJ3Ud3iNVR-mO1g&pid=News",
         "timestamp": 1792774800.0
-    },
-    {
-        "id": "5ed8258a0a",
-        "title_fa": "تهدید کابل‌های زیردریایی خلیج فارس توسط ج.ا",
-        "title_en": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-        "summary": [
-            "مقام‌های نظامی ج.ا برنامه‌های ویژه‌ای برای قطع خطوط ارتباطی و اینترنتی در کف خلیج فارس آماده کرده‌اند.",
-            "این اقدام به عنوان ابزاری برای فلج کردن زیرساخت‌های حیاتی منطقه در صورت درگیری نظامی طراحی شده است."
-        ],
-        "impact": "قطعی گسترده اینترنت و مختل شدن ارتباطات تجاری در منطقه در صورت بروز جنگ.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792774784.0
     }
 ]
