@@ -108,6 +108,24 @@
         "timestamp": 1793077799.0
     },
     {
+        "id": "d5696232c8",
+        "title_fa": "بنزین گران؛ فرافکنی دولت درباره بحران انرژی",
+        "title_en": "‘That's Actually the Biggest Reason Why Gas Prices Are So High’ — JD Vance Says 20% of U.S. Refining Capacity Went Offline Under Biden",
+        "summary": [
+            "مقام ارشد دولت ونس در پاسخ به گلایه شهروندان درباره قیمت بالای سوخت، حملات تجاری ایران و سیاست‌های دولت قبل را عامل اصلی گرانی معرفی کرد.",
+            "فشار قیمت گاز بر رانندگان به یکی از چالش‌های اصلی روزمره شهروندان تبدیل شده است."
+        ],
+        "impact": "تشدید نارضایتی عمومی از وضعیت بازار انرژی و سوخت",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/thats-actually-biggest-reason-why-113007976.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/thats-actually-biggest-reason-why-113007976.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/21c692ef44ce87771f7be78a0303fb9ec81bdf66356eb9947f742bf46c43ae4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fbc4b952d1674c6ee096b516641f20014.jpg",
+        "timestamp": 1793075400.0
+    },
+    {
         "id": "09c428b389",
         "title_fa": "پافشاری نتانیاهو بر موضع تهاجمی؛ ایران همچنان سیبل اصلی تل‌آویو",
         "title_en": "Analysis • Netanyahu digs in, and Iran is never far",
@@ -183,6 +201,59 @@
         "timestamp": 1793072280.0
     },
     {
+        "id": "a616bb476d",
+        "title_fa": "رقابت تنگاتنگ انتخاباتی در فرمانداری میشیگان",
+        "title_en": "Jocelyn Benson expands lead over John James in Michigan governor race",
+        "summary": [
+            "تحولات میدانی نشان‌دهنده تغییرات در آمار و ارقام آرای نامزدهای کلیدی ایالت میشیگان است."
+        ],
+        "impact": "تغییر موازنه قدرت در ایالت‌های کلیدی",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/10/27/jocelyn-bensons-lead-over-john-james-grows-in-michigan-governor-race/92441176007/",
+        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/10/27/jocelyn-bensons-lead-over-john-james-grows-in-michigan-governor-race/92441176007",
+        "image": "http://www.bing.com/th?id=ONUT.VSrT1xjlChahBZ5848FmEw&pid=News",
+        "timestamp": 1793070480.0
+    },
+    {
+        "id": "f9228a49c4",
+        "title_fa": "میسیسیپی؛ چالش رأی‌دهندگان و خستگی از سیاست‌های حاکم",
+        "title_en": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
+        "summary": [
+            "ایالت میسیسیپی با بالاترین درصد رأی‌دهندگان سیاه‌پوست، بستر مناسبی برای رقابت‌های انتخاباتی سنا فراهم کرده است.",
+            "با وجود فشار تورم بر اقشار ضعیف، فضای سنتی و ساختار حزبی چالش‌های جدی پیش روی تغییرات سیاسی گذاشته است."
+        ],
+        "impact": "تأثیر نارضایتی‌های اقتصادی بر پویایی آرای ایالت‌های سنتی",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+        "clean_url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+        "image": "http://www.bing.com/th?id=ONUT.zQn_nwfezbWoV5uUjev-qQ&pid=News",
+        "timestamp": 1793070000.0
+    },
+    {
+        "id": "5ffcd56c53",
+        "title_fa": "گاف جی‌دی ونس در تجمعات انتخاباتی؛ تکرار بحران سوخت",
+        "title_en": "‘Worst Speaker Ever’: JD Vance’s ‘Tinpot Dictator’ Line Backfires Spectacularly",
+        "summary": [
+            "معاون رئیس‌جمهور آمریکا در توجیه گرانی بنزین و تورم ناشی از درگیری با ایران، لحن تندی به کار برد که منتقدان آن را مصداق عملکرد خود دولت دانستند.",
+            "هزینه سوخت به شدت بالا رفته و وعده‌های اولیه درباره پایان زودهنگام درگیری‌ها محقق نشده است."
+        ],
+        "impact": "افزایش انتقادات عمومی از مدیریت بحران انرژی توسط دولتمردان",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/jd-vance-tinpot-dictators_n_6ae05d5ee4b096363dd159ff",
+        "clean_url": "https://www.huffpost.com/entry/jd-vance-tinpot-dictators_n_6ae05d5ee4b096363dd159ff",
+        "image": "http://www.bing.com/th?id=ONUT.nLpCHNwj8VQdqQDw_FIn4g&pid=News",
+        "timestamp": 1793066820.0
+    },
+    {
         "id": "4854d97128",
         "title_fa": "واکنش تند به رویکرد عراقی متحد تهران",
         "title_en": "'Iraq-first' message from Iran ally sparks calls for retaliation",
@@ -199,6 +270,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92V2dmUUhwemZpd2MybDdUbl85czk1RUgyZFVfSFFnUm91blkzOFhqOU1OTGF0bm52UEdham1RMFd0SkVGeUI0TXdpMnM1X0NSZ0E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793066403.0
+    },
+    {
+        "id": "eec459bfd4",
+        "title_fa": "پروژه تردیده‌سازی؛ آماده‌سازی هواداران برای نتایج انتخابات",
+        "title_en": "How Trump and his allies are sowing doubt ahead of the midterms",
+        "summary": [
+            "شبکه‌های حامی جناح راست هزاران پیام و نظریه جدید برای زیر سؤال بردن سلامت انتخابات در صورت پیروزی رقیب منتشر کرده‌اند."
+        ],
+        "impact": "افزایش تنش‌های سیاسی و بی‌اعتمادی به فرآیندهای دموکراتیک",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/how-trump-and-his-allies-are-sowing-doubt-ahead-of-the-midterms/ar-AA2g993h",
+        "clean_url": "https://www.msn.com/en-us/news/other/how-trump-and-his-allies-are-sowing-doubt-ahead-of-the-midterms/ar-AA2g993h",
+        "image": "http://www.bing.com/th?id=ONUT.YjVClrtlGLjjajyrargJ3w&pid=News",
+        "timestamp": 1793066400.0
     },
     {
         "id": "94a9244c4d",
@@ -275,6 +363,24 @@
         "timestamp": 1793058664.0807855
     },
     {
+        "id": "2bc7dba1ca",
+        "title_fa": "فشار تورم و جنگ؛ حامیان دیروز ترامپ در آستانه ورشکستگی",
+        "title_en": "‘Everything Is Worse’: Trump-Hosting Restaurant Owner Has A Bleak Update 2 Years Later",
+        "summary": [
+            "صاحب رستورانی در لاس‌وگاس که حامی سرسخت ترامپ بود، از احتمال تعطیلی کسب‌وکارش به دلیل بحران اقتصادی خبر داد.",
+            "هزینه‌های بالا و قیمت سوخت ناشی از درگیری‌ها، فشار مالی شدیدی بر کارگران و اصناف وارد کرده است."
+        ],
+        "impact": "نارضایتی اصناف کوچک از سیاست‌های اقتصادی و تنش‌های منطقه‌ای",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/restaurant-owner-donald-trump-2024-update_n_6ae03f50e4b065fbf4c2074b",
+        "clean_url": "https://www.huffpost.com/entry/restaurant-owner-donald-trump-2024-update_n_6ae03f50e4b065fbf4c2074b",
+        "image": "http://www.bing.com/th?id=ONUT.ocnIVF3cVGCaXJp0yCQJuQ&pid=News",
+        "timestamp": 1793058660.0
+    },
+    {
         "id": "77cd81d258",
         "title_fa": "دیپلماسی اجبار یا آرامش؟ نشست تهران با حضور مقاماتی از چهار کشور",
         "title_en": "Ghalibaf says Iran’s supreme leader is in ‘full health’",
@@ -310,6 +416,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2xPX1ZwcnFVTEM2WXNaLUhkWS00SHdzbmVoU2tMclo2YnZWdmcxOVdYZUhQcHFpRm5sV2pvRm53d2pzVzV2YkNtT0ZhQzBaLXVWS0lVbDBCdi1iTXkwZVgza2dmNlp6TWl0Ymw3Rjh4anN3Q1lNZ0FXRzBKV01xeG9JdWZNLWlIMXc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793057040.0
+    },
+    {
+        "id": "b11f505431",
+        "title_fa": "موج مخالفت چهره‌های هنری با سیاست‌های فعلی",
+        "title_en": "Donald Trump is ‘like a nightmare’, popular rock frontman says: ‘I’m voting Blue’",
+        "summary": [
+            "خوانندگان و چهره‌های سرشناس موسیقی با انتقاد صریح از رویکرد رئیس‌جمهور، موضع خود را علیه دولت در آستانه انتخابات اعلام کردند."
+        ],
+        "impact": "افزایش کمپین‌های سلبرتی‌ها علیه سیاست‌های دولت",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "mlive",
+        "url": "https://www.mlive.com/life/2026/10/donald-trump-is-like-a-nightmare-popular-rock-frontman-says-im-voting-blue.html",
+        "clean_url": "https://www.mlive.com/life/2026/10/donald-trump-is-like-a-nightmare-popular-rock-frontman-says-im-voting-blue.html",
+        "image": "http://www.bing.com/th?id=ONUT.RYvAvgyeGEDGRjH3RC3b_Q&pid=News",
+        "timestamp": 1793055660.0
     },
     {
         "id": "af55eae403",
@@ -5350,135 +5473,5 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/249a076fa448dfa5e4436ece4a2979cf.jpg",
         "timestamp": 1792806300.0
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "نوسان قیمت سوخت در ایالات متحده",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "آمارهای روزانه ان‌بی‌سی نیوز تغییرات بهای بنزین در ایالت‌ها و شهرستان‌های مختلف آمریکا را رصد می‌کند.",
-            "این داده‌ها میزان فشار تورمی بر هزینه زندگی شهروندان آمریکایی را به تصویر می‌کشد."
-        ],
-        "impact": "تغییرات قیمت سوخت مستقیماً شاخص‌های تورم داخلی آمریکا را تحت تأثیر قرار می‌دهد.",
-        "tag": "اقتصادی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792805387.0
-    },
-    {
-        "id": "edf36a557c",
-        "title_fa": "نقشه س‍پاه برای قطع اینترنت خلیج فارس",
-        "title_en": "After oil, internet? Iran plans to target Gulf's undersea cables",
-        "summary": [
-            "مقام های ارشد نظامی ج.مهوری ا.سلامی برنامه های دقیقی برای قطع کابل های زیردریایی ارتباطی در خلیج فارس آماده کرده اند.",
-            "این اقدام به عنوان تلافی جویی در صورت حملات مجدد آمریکا و اس‍رائیل اجرا خواهد شد.",
-            "تهدید زیرساخت های حیاتی ارتباطی نشان دهنده تغییر فاز تنش ها به سمت جنگ سایبری و مخابراتی است."
-        ],
-        "impact": "اختلال گسترده در اینترنت و ارتباطات بین المللی منطقه در صورت درگیری نظامی.",
-        "tag": "سایبری",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/other/after-oil-internet-iran-plans-to-target-gulf-s-undersea-cables/ar-AA2fY61S",
-        "clean_url": "https://www.msn.com/en-in/news/other/after-oil-internet-iran-plans-to-target-gulf-s-undersea-cables/ar-AA2fY61S",
-        "image": "http://www.bing.com/th?id=ONUT.mfVXQIXc-gCsNFXO26GfAg&pid=News",
-        "timestamp": 1792805280.0
-    },
-    {
-        "id": "f5ad9d7d78",
-        "title_fa": "هشدار اروپا و خاورمیانه به آمریکا: گزینه نظامی را متوقف کنید",
-        "title_en": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-        "summary": [
-            "وزرای خارجه اروپایی و کشورهای منطقه نگران جرقه یک جنگ تمام‌عیار در خاورمیانه هستند و اصرار دارند بحران با تهران روی میز دیپلماسی حل شود.",
-            "متحدان سنتی واشنگتن تمایلی به همراهی با حملات جدید ندارند و پیامدهای امنیتی هرگونه برخورد مستقیم را برای اقتصاد و مرزهای خود فاجعه‌بار می‌دانند.",
-            "تلاش پایتخت‌های اروپایی و عربی معطوف به باز نگه‌داشتن روزنه‌های مذاکره پیش از تشدید غیرقابل بازگشت تنش‌ها است."
-        ],
-        "impact": "تلاش دیپلمات‌ها برای مهار سناریوی جنگ مستقیم و کاهش اضطراب کوتاه‌مدت در بازارهای منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFNoMkR5TkRGT0RhUlluYlN0Z2lFSzBhNEJwTmpZQWQ2NVZfUUwwM3EwRlEzNlMtNkFTNUYydURqN3FwT3BjNW5WeTI3TUZ5THlUZ1JTNjJ3dFZmTFg0b2VFTHJCQXRLWXpSWktESDZOenVoQ0JjenByQnFDTkZ3QlBXT0NsQWlLTWZwbHRwT3RtVWdkanVmT25ETUJHUE1DLUpQZXMtb0NKQkc5SXlfbNIBtgFBVV95cUxNblN0R1plS1ZrNlA1SElueG44NkNwZmZELVdZMTZObDgzaUJNSFBPbG15UFlleTNRZDY2Y3BTMWlGeUJOYWlIeklfX0RvQWpoT3VITENVNEROcTkwNnFYTV94RjJ6Vzg3N004SDRocGc3Mm9DRnRlVlVJYlQ2U3JXRnJaZmFYRWxILXlPbVktUlUtNFJGRVpkT3RkY1hka1V3LWo3MTItdG01Yk90ODVtT0pZdlBLUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFNoMkR5TkRGT0RhUlluYlN0Z2lFSzBhNEJwTmpZQWQ2NVZfUUwwM3EwRlEzNlMtNkFTNUYydURqN3FwT3BjNW5WeTI3TUZ5THlUZ1JTNjJ3dFZmTFg0b2VFTHJCQXRLWXpSWktESDZOenVoQ0JjenByQnFDTkZ3QlBXT0NsQWlLTWZwbHRwT3RtVWdkanVmT25ETUJHUE1DLUpQZXMtb0NKQkc5SXlfbNIBtgFBVV95cUxNblN0R1plS1ZrNlA1SElueG44NkNwZmZELVdZMTZObDgzaUJNSFBPbG15UFlleTNRZDY2Y3BTMWlGeUJOYWlIeklfX0RvQWpoT3VITENVNEROcTkwNnFYTV94RjJ6Vzg3N004SDRocGc3Mm9DRnRlVlVJYlQ2U3JXRnJaZmFYRWxILXlPbVktUlUtNFJGRVpkT3RkY1hka1V3LWo3MTItdG01Yk90ODVtT0pZdlBLUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792804286.0
-    },
-    {
-        "id": "dc8d1d990e",
-        "title_fa": "سفر پزشکیان به مسکو پس از بن‌بست دیپلماتیک با آمریکا",
-        "title_en": "As US-Iran talks stall, Pezeshkian heads to Moscow for Putin meeting",
-        "summary": [
-            "توقف مذاکرات میان تهران و واشنگتن، پاستور را مجبور به تعمیق روابط با کرملین کرده است.",
-            "پزشکیان در آستانه افزایش تنش‌ها با اسرائیل و آمریکا، به‌دنبال جلب حمایت‌های اقتصادی و نظامی پوتین است.",
-            "تمرکز ظاهر دیدار بر انرژی و گاز است، اما موضوع اصلی هماهنگی امنیتی در برابر فشارهای غرب خواهد بود."
-        ],
-        "impact": "تلاش تهران برای ایجاد سپر دفاعی دیپلماتیک و اقتصادی از طریق روسیه در برابر تحریم‌ها و تهدیدات پیش‌رو.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Mathrubhumi English",
-        "url": "https://english.mathrubhumi.com/news/world/iran-pezeshkian-putin-moscow-meeting-october-2026-k1b5a66i",
-        "clean_url": "https://english.mathrubhumi.com/news/world/iran-pezeshkian-putin-moscow-meeting-october-2026-k1b5a66i",
-        "image": "http://www.bing.com/th?id=ONUT.rq9QVuAiaFxNcHp04WLPUA&pid=News",
-        "timestamp": 1792801800.0
-    },
-    {
-        "id": "8daca1a324",
-        "title_fa": "هشدار اطلاعاتی آمریکا درباره توطئه‌های پیشرفته تروریستی جـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی علیه مقامات آمریکایی",
-        "title_en": "US intel said to warn of 'advanced' Iranian plots to target American officials",
-        "summary": [
-            "نهادهای اطلاعاتی آمریکا نسبت به ورود نقشه‌های ترور مقامات این کشور توسط عـ.ـوَامـ.ـل حکومت ایران به مرحله عملیاتی هشدار دادند.",
-            "این تهدیدات جدی شامل تحرکات خطرناک در خاورمیانه و برخی کشورهای دیگر می‌شود که سناتور مارکو روبیو و رئیس سازمان سیا را در وضعیت آماده‌باش قرار داده است."
-        ],
-        "impact": "افزایش شدید ضریب امنیتی مقامات آمریکایی و احتمال فعال شدن مکانیزم‌های پاسخ متقابل نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/us-intel-said-to-warn-of-advanced-iranian-plots-to-target-american-officials/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/us-intel-said-to-warn-of-advanced-iranian-plots-to-target-american-officials",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26296412628116-e1792804284593.jpg",
-        "timestamp": 1792800000.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "تاکید فیلیپو مانیینی بر اهمیت فضاهای ورزشی رم",
-        "title_en": "Magnini: \"Colle Oppio Playground has amazing energy, these places are fundamental for young people\"",
-        "summary": [
-            "فیلیپو مانیینی، شناگر سابق، در مراسمی در رم از اهمیت زمین‌های بازی شهری برای جوانان گفت.",
-            "او مجموعه ورزشی کوله اوپیو را مکانی با انرژی فوق‌العاده و چشم‌اندازی بی‌نظیر توصیف کرد."
-        ],
-        "impact": "توسعه زیرساخت‌های ورزشی نقش کلیدی در پویایی جوانان شهرها دارد.",
-        "tag": "ورزش",
-        "urgency": 2,
-        "sentiment": 0.8,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261024KRONOS-202610121553412124_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1792800000.0
-    },
-    {
-        "id": "da902562e8",
-        "title_fa": "عقب‌نشینی ترامپ از شایعه حمله فوری نظامی به ایران",
-        "title_en": "Trump Says He Has No Information About Iran Strike This Weekend",
-        "summary": [
-            "دونالد ترامپ ادعای سفیر آمریکا در ترکیه درباره حمله احتمالی در پایان هفته را رد کرد.",
-            "این اظهارات ناهماهنگی یا تاکتیک ایجاد ابهام محاسباتی در تهران را نشان می‌دهد.",
-            "رد زمان‌بندی حمله به معنی لغو گزینه نظامی نیست، بلکه صرفاً بازی با اعصاب طرف مقابل است."
-        ],
-        "impact": "کاهش موقت التهاب هیجانی در بازار و سردرگمی تحلیل‌گران نظامی.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Kurdistan 24",
-        "url": "https://www.kurdistan24.net/en/story/948131/trump-says-he-has-no-information-about-iran-strike-this-weekend",
-        "clean_url": "https://www.kurdistan24.net/en/story/948131/trump-says-he-has-no-information-about-iran-strike-this-weekend",
-        "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1792823764_kurdistan24.jpg",
-        "timestamp": 1792800000.0
     }
 ]
