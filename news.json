@@ -18,6 +18,25 @@
         "timestamp": 1793129540.0
     },
     {
+        "id": "3c2458c7de",
+        "title_fa": "فشار دیپلماتیک همسایگان بر جـمـهـورـی اسـلاـمی",
+        "title_en": "Iran security forces reportedly killed in attack",
+        "summary": [
+            "کشورهای میانجی مانند قطر و پاکستان خواستار تغییر رفتار حاکمیت ایران شده‌اند.",
+            "سفر هیئت‌های نظامی و امنیتی منطقه به تهران نشانگر آمادگی برای هر سناریویی است.",
+            "دوحه صراحتاً از تهران خواست تهدید کشورهای عربی و تنگه هرمز را متوقف کند."
+        ],
+        "impact": "افزایش انزوای منطقه‌ای و تنگ‌تر شدن حلقه فشار همسایگان بر تهران",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610277270",
+        "clean_url": "https://www.iranintl.com/en/202610277270",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793129460.0
+    },
+    {
         "id": "14ebe0ae2a",
         "title_fa": "رایزنی تهران و دوحه در مسکو همزمان با ناامنی تنگه هرمز",
         "title_en": "Qatar, Iran discuss war and Hormuz in Moscow meeting as another ship struck in Strait",
@@ -52,6 +71,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ3ZKdkNKNVM3ejV4ajNOR3JMOTNjU2JfdmJuM05QQWZmVEpGTUxhY24wUXBUd0d5a3dpNDVfb3N6TXl3MVExUTgzVG1KS24ydlhNdmVoVzRFV3BnZlA5UUFVdjdNNDkxNnNOejRacDc2c3V2T09ITGlqWGp0NXhtcUpJbVdJdjVUZ3pmQ0VvSERyVnlnTXkxcXh0d0l5dTFjQ1Y4M2xWUGVVelRCcTRnUzM3VWlTX2FaRk1wVG9haFpDVTNxWHVfWFhXeWg5MkRWaTJZNW1XRQ",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793128169.0
+    },
+    {
+        "id": "4e90023f8b",
+        "title_fa": "سرکوب و احکام سنگین قضایی علیه هنرمندان منتقد",
+        "title_en": "Iran sentences filmmaker Jafar Panahi to five years, orders asset seizure",
+        "summary": [
+            "صدور حکم پنج سال حبس و مصادره اموال برای جعفر پناهی، سینماگر سرشناس.",
+            "تداوم سیاست ارعاب و سرکوب چهره‌های فرهنگی مستقل توسط دستگاه قضایی."
+        ],
+        "impact": "تشدید موج فشار بر جامعه هنری و مخالفت‌های مدنی داخلی",
+        "tag": "سرکوب",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610275892",
+        "clean_url": "https://www.iranintl.com/en/202610275892",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/8bb544b6ca3802d8aa14b5bcd8f85d5f654b38aa-7659x5212.jpg?rect=872,908,6468,3396&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1793127540.0
     },
     {
         "id": "1d6120778b",
@@ -5435,41 +5472,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/obama-absolutely-shreds-trump-for-iran-conflict-seven-months-later-how-s-that-war-going/ar-AA2fZkLN",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792848668.0
-    },
-    {
-        "id": "5f9e20fa6d",
-        "title_fa": "هشدار نتانیاهو درباره برنامه هسته‌ای و تغییرات در ساختار قدرت ج.ا",
-        "title_en": "US Iran War Live Updates: Houthis deny targeting Mecca, Medina as sharpel found after its attack on Saudi",
-        "summary": [
-            "نخست‌وزیر اسرائیل بر تلاش مجدد ایران برای دستیابی به تسلیحات اتمی تاکید کرد.",
-            "گزارش‌ها از دیدار رئیس قوه قضاییه با مجتبی خامنه‌ای حکایت دارد؛ فردی که پس از کشته شدن علی خامنه‌ای در حملات ائتلاف به این سمت منصوب شده است."
-        ],
-        "impact": "افزایش احتمال اقدامات پیش دستانه نظامی علیه تاسیسات هسته‌ای.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-war-donald-trump-strait-of-hormuz-ceasefire-talks-pakistan-qatar-middle-east-news/liveblog/135079627.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-war-live-updates-us-israel-iran-war-donald-trump-strait-of-hormuz-ceasefire-talks-pakistan-qatar-middle-east-news/liveblog/135079627.cms",
-        "image": "http://www.bing.com/th?id=ONUT.oSw-ZaT5p3qxZeGT0W7n-Q&pid=News",
-        "timestamp": 1792848600.0
-    },
-    {
-        "id": "d2dc543d89",
-        "title_fa": "خط و نشان تهران برای ناوهای آمریکایی همزمان با سایه تهدیدهای ترامپ",
-        "title_en": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-        "summary": [
-            "مقامات جـمهوری اسـلامی در واکنش به برنامه‌های احتمالی دونالد ترامپ برای حملات جدید، خط قرمز نزدیکی ناوهای آمریکایی را اعلام کردند.",
-            "این موضع‌گیری نشان‌دهنده بالا گرفتن تنش‌ها و آماده‌باش نظامی در آب‌های خلیج فارس است."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی و التهاب فوری در بازارهای مالی ایران",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792847707.0
     }
 ]
