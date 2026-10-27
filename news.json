@@ -1,5 +1,23 @@
 [
     {
+        "id": "4854d97128",
+        "title_fa": "واکنش تند به رویکرد عراقی متحد تهران",
+        "title_en": "'Iraq-first' message from Iran ally sparks calls for retaliation",
+        "summary": [
+            "پیام اولویت عراق از سوی یکی از هم‌پیمانان ج.ا جنجال‌برانگیز شد.",
+            "این موضع‌گیری درخواست‌های متعددی برای پاسخ متقابل به دنبال داشته است."
+        ],
+        "impact": "افزایش تنش‌های منطقه‌ای و فشار بر گروه‌های وابسته به حکومت در عراق.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92V2dmUUhwemZpd2MybDdUbl85czk1RUgyZFVfSFFnUm91blkzOFhqOU1OTGF0bm52UEdham1RMFd0SkVGeUI0TXdpMnM1X0NSZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92V2dmUUhwemZpd2MybDdUbl85czk1RUgyZFVfSFFnUm91blkzOFhqOU1OTGF0bm52UEdham1RMFd0SkVGeUI0TXdpMnM1X0NSZ0E",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793066403.0
+    },
+    {
         "id": "c3fbe1e0f2",
         "title_fa": "آزمون سخت نتانیاهو در انتخابات؛ بازی بر سر بقای سیاسی",
         "title_en": "Netanyahu’s political survival on the line as Israel votes",
@@ -180,6 +198,24 @@
         "clean_url": "https://www.ncr-iran.org/en/news/economy/retirees-protest-in-iran-as-economic-strain-and-repression-intensify",
         "image": "https://www.ncr-iran.org/en/wp-content/uploads/2025/08/State-Media-Admits-Widespread-Poverty-as-Families-Buy-Food-and-Essentials-on-Credit.jpg",
         "timestamp": 1793047680.0
+    },
+    {
+        "id": "89fdaee6dc",
+        "title_fa": "شرط‌گذاری هفت‌گانه ج.ا برای مذاکره با آمریکا",
+        "title_en": "Iran says seven conditions must be met before new talks with US",
+        "summary": [
+            "معاون شورای عالی امنیت ملی اعلام کرد واشنگتن باید پیش از هر گفتگویی هفت شرط تهران را بپذیرد.",
+            "تهران نگران است آمریکا به دنبال توافق موقت پیش از انتخابات برای دستاورد سیاسی و سپس افزایش فشار باشد."
+        ],
+        "impact": "تلاش حکومت برای خرید زمان و فرار از میز مذاکره با ایجاد موانع جدید.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610268455",
+        "clean_url": "https://www.iranintl.com/en/202610268455",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793046840.0
     },
     {
         "id": "ff02f59f01",
@@ -5445,42 +5481,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-floats-epic-fury-follow-up-as-iran-war-drags-on/ar-AA2fXdCn",
         "image": "http://www.bing.com/th?id=ONUT.fZu7KmVIiw0wteKfuF20Iw&pid=News",
         "timestamp": 1792782506.0
-    },
-    {
-        "id": "94d8532aea",
-        "title_fa": "هشدار اطلاعاتی آمریکا درباره توطئه‌های ترور ج.ا",
-        "title_en": "US intel warns Iran assassination plots have reached ‘advanced stages’",
-        "summary": [
-            "نهادهای اطلاعاتی آمریکا نسبت به ورود طرح‌های ترور حکومت ایران به مراحل پیشرفته هشدار داده‌اند.",
-            "جامعه ایران میان ترس از ویرانی ناشی از جنگ و امید به پایان دادن به این وضعیت دست‌به‌گریبان است."
-        ],
-        "impact": "افزایش فشارهای امنیتی و دیپلماتیک بر حکومت ایران و تشدید گمانه‌زنی‌ها درباره احتمال واکنش نظامی.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610241322",
-        "clean_url": "https://www.iranintl.com/en/202610241322",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792779900.0
-    },
-    {
-        "id": "a5b7f6f1fe",
-        "title_fa": "برنامه‌ریزی آمریکا برای حمله به زیرساخت‌های نظامی و انرژی ایران",
-        "title_en": "US strikes on Iran now serve the blockade",
-        "summary": [
-            "طرح مشترک آمریکا و اسرائیل بر روی زیرساخت‌های موشکی، پهپادی و شریان‌های انرژی ج.ا تمرکز دارد.",
-            "تغییر فاز واشنگتن نشان می‌دهد حملات نظامی احتمالی ابزاری برای تکمیل محاصره خفه‌کننده اقتصادی است.",
-            "هدف‌گیری تاسیسات انرژی، آخرین منفذهای مالی و صادراتی تهران را فلج خواهد کرد."
-        ],
-        "impact": "افزایش شدید ریسک نظامی و ناپایداری سنگین در بازار ارز و طلا.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610236428",
-        "clean_url": "https://www.iranintl.com/en/202610236428",
-        "image": "http://www.bing.com/th?id=ONUT.cSP8-X3NRCgRCHxjANNSiw&pid=News",
-        "timestamp": 1792778880.0
     }
 ]
