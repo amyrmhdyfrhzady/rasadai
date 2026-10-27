@@ -1,5 +1,23 @@
 [
     {
+        "id": "c3fbe1e0f2",
+        "title_fa": "آزمون سخت نتانیاهو در انتخابات؛ بازی بر سر بقای سیاسی",
+        "title_en": "Netanyahu’s political survival on the line as Israel votes",
+        "summary": [
+            "برگزاری انتخابات جدید در اسرائیل، آینده سیاسی نتانیاهو را در حساس‌ترین شرایط منطقه‌ای به مو بند کرده است.",
+            "نتیجه این رای‌گیری مستقیماً بر ادامه یا تغییر استراتژی‌های تهاجمی اسرائیل علیه مواضع ج.ا.* و گروه‌های نیابتی تاثیر می‌گذارد."
+        ],
+        "impact": "تغییر احتمالی در رهبری اسرائیل می‌تواند تاکتیک‌های نظامی و شدت درگیری‌های منطقه‌ای را دستخوش تحول کند.",
+        "tag": "اسرائیل",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "WKZO",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0tTOHl3eE10Y2Z1cmdzSEJLQWZYU2FNQ19TcXdQRi1OUFpLZUd6Z2RzNU9lS00tTmI1ZWkwNlZheXR2NUx1cDVXQ0dyQ3g2aTRTaVNGekFBMWlFV3ZocDFVUGF6bHVqUTFOWW4zcXdHRWxKS1lrR19uU3F4aDl4WGlpbDItcThJamtWLUZxSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0tTOHl3eE10Y2Z1cmdzSEJLQWZYU2FNQ19TcXdQRi1OUFpLZUd6Z2RzNU9lS00tTmI1ZWkwNlZheXR2NUx1cDVXQ0dyQ3g2aTRTaVNGekFBMWlFV3ZocDFVUGF6bHVqUTFOWW4zcXdHRWxKS1lrR19uU3F4aDl4WGlpbDItcThJamtWLUZxSQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793061073.0
+    },
+    {
         "id": "63e55f56f6",
         "title_fa": "جهش درآمدی آنتروپیک و ورود به بورس",
         "title_en": "[October 27] Anthropic's S-1: Red ink in the headlines vs. real red ink",
@@ -5465,24 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjNEZzBoMS1CdTRMRGxWd3JXWDN5V2hmcWxmQ1hQNDkxanllSEQ2elo0NEZEWFRnMjRGV2JhNHpSeXJ1Q2tKRjlMamtEYThlLWpnSXFTYVVmSzNLVVUzWnFOWFdyYTRxc25jVjFTNE5JRTBITmRMUllIQm1WRWFpMUY5ZEtXTlVpdXhNNkZBNWFKZnBTYzFmY085Um1MU2dYWWs4",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792775880.0
-    },
-    {
-        "id": "53dcbf1ac9",
-        "title_fa": "پیمان خطرناک ترامپ و نتانیاهو برای ضربه به تـ.ـأسـ.ـیسات ایـ.ـران",
-        "title_en": "Trump's defeat in the midterms will trigger a dangerous war pact with Israel",
-        "summary": [
-            "مکالمه تلفنی ترامپ و نتانیاهو از عزم جدی آن‌ها برای از سرگیری حملات به ایـ.ـران پرده برمی‌دارد.",
-            "نتانیاهو به دنبال راه‌اندازی حملات هوایی گسترده به زیرساخت‌های حیاتی و نفتی ایـ.ـران است.",
-            "این سناریوی نظامی به طور مستقیم بازار نفت و نرخ تورم جهانی را به شدت متلاطم می‌کند."
-        ],
-        "impact": "آماده‌باش بازارهای جهانی نفت برای جهش قیمت همزمان با تشدید تنش‌های نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "inews.co.uk",
-        "url": "https://inews.co.uk/opinion/trump-defeat-midterms-trigger-dangerous-war-pact-israel-4847348",
-        "clean_url": "https://inews.co.uk/opinion/trump-defeat-midterms-trigger-dangerous-war-pact-israel-4847348",
-        "image": "https://inews.co.uk/wp-content/uploads/2026/10/SEI_317867470.jpg?crop=0px,195px,1920px,1085px&resize=1200,675",
-        "timestamp": 1792775040.0
     }
 ]
