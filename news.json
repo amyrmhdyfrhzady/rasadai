@@ -344,6 +344,24 @@
         "timestamp": 1793061073.0
     },
     {
+        "id": "5a2624b5a6",
+        "title_fa": "بلعیدن شرکت‌های محلی اتوماسیون توسط غول‌های صنعتی اروپا",
+        "title_en": "Electro IB turns 25, from Brescia alongside businesses in industrial automation",
+        "summary": [
+            "شرکت Electro IB پس از ۲۵ سال فعالیت در شمال ایتالیا، رسماً زیر چتر حمایتی گروه بزرگ Sonepar قرار گرفت.",
+            "این تصاحب نشان داد رقابت در حوزه اتوماسیون صنعتی اروپا به سمت تمرکز سرمایه و حذف بازیگران مستقل کوچک پیش می‌رود."
+        ],
+        "impact": "تقویت تسلط هلدینگ‌های بزرگ بر شبکه توزیع قطعات صنعتی در جنوب اروپا.",
+        "tag": "صنعت",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261027KRONOS-202610121567896596_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1793059200.0
+    },
+    {
         "id": "63e55f56f6",
         "title_fa": "جهش درآمدی آنتروپیک و ورود به بورس",
         "title_en": "[October 27] Anthropic's S-1: Red ink in the headlines vs. real red ink",
@@ -5454,24 +5472,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792809025.0
-    },
-    {
-        "id": "94c7977348",
-        "title_fa": "فشار نظامی بر ج.ه.ا برای مهار توان موشکی",
-        "title_en": "Netanyahu calls for US, Israel to overthrow Iranian regime, Iran threatens wide response",
-        "summary": [
-            "یک فرمانده سابق عملیات ویژه اسرائیل خواستار تمرکز حملات آینده بر نابودی زیرساخت‌های اتمی و موشکی ج.ه.ا شد.",
-            "فعالیت‌های مشکوک در پایگاه زیرزمینی عقاب ۴۴ نشان‌دهنده تلاش تهران برای بازسازی تجهیزات نظامی آسیب‌دیده است.",
-            "دونالد ترامپ احتمال اجرای حملات تازه علیه حکومت ایران را پس از انتخابات میادترم مطرح کرده است."
-        ],
-        "impact": "افزایش ریسک نظامی و امنیتی برای تهران با احتمال حملات پیشگیرانه جدید.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/249a076fa448dfa5e4436ece4a2979cf.jpg",
-        "timestamp": 1792806300.0
     }
 ]
