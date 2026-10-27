@@ -182,6 +182,24 @@
         "timestamp": 1793123961.0
     },
     {
+        "id": "bed08c1a76",
+        "title_fa": "درگیری لفظی نمایندگان آمریکا و ج.ا در سازمان ملل",
+        "title_en": "Live - US, Iran clash at UN over nuclear program and war",
+        "summary": [
+            "نمایندگان ایالات متحده و ج.ا در نشست سازمان ملل بر سر پرونده اتمی و جنگ اخیر به شدت با یکدیگر درگیر شدند.",
+            "این نشست بار دیگر شکاف عمیق میان مواضع طرفین درباره برنامه هسته‌ای و تنش‌های منطقه‌ای را عیان کرد."
+        ],
+        "impact": "افزایش فشارهای دیپلماتیک بر حاکمیت تهران در مجامع بین‌المللی",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793123602.0
+    },
+    {
         "id": "7d3b269a2c",
         "title_fa": "بازداشت عوامل نفوذی انتسابی به جـ.ـهـ.ـوری اسـ.ـلامی در پایگاه هوایی بریتانیا",
         "title_en": "Two charged over alleged Iran intelligence operation at RAF Fairford",
@@ -5455,23 +5473,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/obama-unloads-on-trump-for-iran-war-mocks-his-diplomatic-strategy/ar-AA2fZS8l",
         "image": "http://www.bing.com/th?id=ONUT.mfLfYcbBMYePUwUQ2YLfdg&pid=News",
         "timestamp": 1792854819.0
-    },
-    {
-        "id": "31959c30ca",
-        "title_fa": "تخليه پايگاه‌های آمريکا در خاورميانه از ترس تهديدهای ج.ا",
-        "title_en": "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans",
-        "summary": [
-            "ارتش آمريکا به دنبال اطلاعات دقيق درباره توطئه حكومت ايران برای حمله به نيروهای خود، برخی پايگاه‌ها در منطقه را تخليه کرد.",
-            "افزايش تنش‌ها در منطقه باعث شده واشنگتن تدابير حفاظتی شديدتری برای حفظ جان نظامیان خود اتخاذ کند."
-        ],
-        "impact": "بالرفتن سطح آماده‌باش نظامی آمريکا در پاسخ به تحرکات پنهان تهران در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHhub0JHVm1Ca0QxUlBiM1hjSjkxZE5ZcHU2RERranBCd0l5X1VTNTI0ZWpiRHdhbG96MmEtUGNnTHZiWUZFM2NRSWdMZjlIaDNORWIzMDAxMVJtQW5sSjgtaUZ2Qm93VFliS255SjZBdUpkaWVjMFdVUnkxOEo0Z0p3dUVnTVlzOXNuLS1saGZCb2JqMmgteG9aeFM5NTg4SEJJM0hsYXdNeTRBbkZmRXVOMHpfaHRmQ3RXQ1BmWlVlZDhB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHhub0JHVm1Ca0QxUlBiM1hjSjkxZE5ZcHU2RERranBCd0l5X1VTNTI0ZWpiRHdhbG96MmEtUGNnTHZiWUZFM2NRSWdMZjlIaDNORWIzMDAxMVJtQW5sSjgtaUZ2Qm93VFliS255SjZBdUpkaWVjMFdVUnkxOEo0Z0p3dUVnTVlzOXNuLS1saGZCb2JqMmgteG9aeFM5NTg4SEJJM0hsYXdNeTRBbkZmRXVOMHpfaHRmQ3RXQ1BmWlVlZDhB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792853220.0
     }
 ]
