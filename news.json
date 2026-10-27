@@ -235,6 +235,24 @@
         "timestamp": 1793077799.0
     },
     {
+        "id": "0c6f04afe0",
+        "title_fa": "حمله موشکی به پالایشگاه راس تنوره عربستان",
+        "title_en": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks",
+        "summary": [
+            "شبه‌نظامیان انصارالله یمن پالایشگاه نفت راس تنوره در عربستان را با موشک بالستیک هدف قرار دادند.",
+            "مقام‌های ارشد ج.ا در تهدیدی آشکار از پاسخ ویرانگر به هرگونه اقدام نظامی آمریکا و اسرائیل خبر دادند."
+        ],
+        "impact": "تشدید تنش‌های نظامی در خلیج فارس و افزایش ریسک امنیت انرژی.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
+        "clean_url": "https://www.middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
+        "image": "http://www.bing.com/th?id=ONUT.s5Fr01-Fahd-xbMPyAWrTA&pid=News",
+        "timestamp": 1793077320.0
+    },
+    {
         "id": "d5696232c8",
         "title_fa": "بنزین گران؛ فرافکنی دولت درباره بحران انرژی",
         "title_en": "‘That's Actually the Biggest Reason Why Gas Prices Are So High’ — JD Vance Says 20% of U.S. Refining Capacity Went Offline Under Biden",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/five-takeaways-from-trump-s-midterm-campaign-rallies/ar-AA2fY47i",
         "image": "http://www.bing.com/th?id=ONUT.zDipgva9q8Jh73t1hgh9DA&pid=News",
         "timestamp": 1792811201.0
-    },
-    {
-        "id": "d580e59992",
-        "title_fa": "فراخوان غیرمنتظره برای تغییر رای در اردوگاه جمهوری‌خواهان",
-        "title_en": "If you love the Republican Party, vote for a Democrat | Opinion",
-        "summary": [
-            "این دیدگاه جنجالی با هدف به چالش کشیدن وفاداری حزبی در فضای سیاسی آمریکا مطرح شده است",
-            "منتقدان وضعیت فعلی حزب جمهوری‌خواه، رای به دموکرات‌ها را راهی برای اصلاح مسیر می‌دانند"
-        ],
-        "impact": "این نوع مواضع می‌تواند بخشی از آرای سنتی را در انتخابات پیش رو جابجا کند",
-        "tag": "سیاست داخلی",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/opinion/2026/10/24/vote-democrat-midterms-save-republican-party-trump/92362857007/",
-        "clean_url": "https://www.freep.com/story/opinion/2026/10/24/vote-democrat-midterms-save-republican-party-trump/92362857007",
-        "image": "http://www.bing.com/th?id=ONUT.I97bHUTC6eV8CLHztY7GLQ&pid=News",
-        "timestamp": 1792811100.0
     }
 ]
