@@ -146,6 +146,25 @@
         "timestamp": 1793072640.0
     },
     {
+        "id": "c694c56bf5",
+        "title_fa": "نشست اضطراری امنیتی تهران با میانجیگری منطقه‌ای",
+        "title_en": "Iran security chief met Mojtaba Khamenei",
+        "summary": [
+            "مقامات ارشد نظامی و اطلاعاتی عربستان، پاکستان و ترکیه با محسن رضایی و مسعود پزشکیان در تهران دیدار کردند.",
+            "این نشست پس از حملات اخیر به عربستان و به عنوان بخشی از توافق دفاعی مشترک مکه برای کاهش تنش‌ها برگزار شد.",
+            "برخی تحلیلگران این تحرکات را دیپلماسی اجبار و تلاشی برای جلوگیری از اقدام نظامی قریب‌الوقوع ارزیابی می‌کنند."
+        ],
+        "impact": "تلاش فشرده دیپلماتیک برای مهار بحران‌های نظامی و امنیتی در منطقه",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610275710",
+        "clean_url": "https://www.iranintl.com/en/202610275710",
+        "image": "http://www.bing.com/th?id=ONUT.FsKTXJQUW7eVDrZ5zxqwAA&pid=News",
+        "timestamp": 1793072280.0
+    },
+    {
         "id": "4854d97128",
         "title_fa": "واکنش تند به رویکرد عراقی متحد تهران",
         "title_en": "'Iraq-first' message from Iran ally sparks calls for retaliation",
@@ -5460,24 +5479,6 @@
         "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
         "clean_url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
         "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-facebookJumbo.jpg",
-        "timestamp": 1792800000.0
-    },
-    {
-        "id": "c89fa4a463",
-        "title_fa": "جهش نفت به ۱۱۷ دلار با بوی جنگ",
-        "title_en": "Iran war live: Israel launches 'targeted' Hebron operation after attack",
-        "summary": [
-            "بهای نفت برنت با ترس بازار از جنگ آمریکا و اسرائیل علیه ج.ا به رکورد چهار ساله ۱۱۷ دلار رسید.",
-            "ارتش اسرائیل عملیات نظامی هدفمندی را در الخلیل کلید زد."
-        ],
-        "impact": "آسفالت شدن بیشتر سفره مردم با جهش نرخ انرژی و تشدید بحران اقتصادی.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261023__D48R7V4__v1__HighRes__PalestinianIsraelConflictWestBankAttack-1792793985.jpg?resize=1920,1440",
         "timestamp": 1792800000.0
     }
 ]
