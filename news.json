@@ -19,6 +19,24 @@
         "timestamp": 1793139067.0
     },
     {
+        "id": "e5ad97160a",
+        "title_fa": "ردیابی پولشویی رمزارزی ج·ا·ی توسط وزارت خزانه‌داری آمریکا",
+        "title_en": "Video: US following Iran's money, from crypto to apartments, Bessent says",
+        "summary": [
+            "اسکات بسنت، وزیر خزانه‌داری آمریکا، استفاده ج·ا از رمزارزها برای انتقال پول را نشانه استیصال و دور زدن تحریم‌ها دانست.",
+            "خزانه‌داری آمریکا تمام مسیرهای مالی نظام، از ارزهای دیجیتال تا خرید آپارتمان را زیر نظر دارد و مسدود می‌کند."
+        ],
+        "impact": "بسته شدن منافذ تنفس مالی و مسدودسازی دارایی‌های پنهان حاکمیت در خارج از کشور.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610270810",
+        "clean_url": "https://www.iranintl.com/en/202610270810",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793137380.0
+    },
+    {
         "id": "41d576ab7f",
         "title_fa": "دردسر پرونده ای-ران برای ترامپ در انتخابات میهم‌ترم",
         "title_en": "How Trump’s ‘little detour’ to Iran became a roadblock in the US midterm elections",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-cries-fabrication-over-new-hormuz-deal-report-as-trump-threatens-another-strike/ar-AA2g00HK",
         "image": "http://www.bing.com/th?id=ONUT.GMJHbEn9MTb8WIuLzc2AVA&pid=News",
         "timestamp": 1792870564.0
-    },
-    {
-        "id": "9d8553fc24",
-        "title_fa": "تاثیر انتخابات اسرائیل بر استراتژی منطقه",
-        "title_en": "Israel's Election Impact on Regional Strategy",
-        "summary": [
-            "تغییرات سیاسی در اسرائیل معادلات امنیتی خاورمیانه را تحت تاثیر قرار می‌دهد.",
-            "رویکرد تل‌آویو در برابر تهدیدات منطقه‌ای پس از انتخابات بازتعریف می‌شود."
-        ],
-        "impact": "آرایش سیاسی جدید در اسرائیل جهت‌گیری‌های امنیتی منطقه را شکل می‌دهد.",
-        "tag": "منطقه",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "GV Wire",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1R5bEVYbjNGaWFZeXVWMmlrR2phNHFVa1NNYTBYeF81T2xnMEdEeEFUaDFxNVhCb1BUSThOTTlWUEMtQjRsREdvb2M2UWZqU29zZ2pERjg3akdNMVJlclRuWUFWellmLVlXQ0tOOXF1MEFLcWJhOGhnZ2hsRm5wcWFIbnJUNGFVZ29KZUI0QktMUWtiMjdFUA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1R5bEVYbjNGaWFZeXVWMmlrR2phNHFVa1NNYTBYeF81T2xnMEdEeEFUaDFxNVhCb1BUSThOTTlWUEMtQjRsREdvb2M2UWZqU29zZ2pERjg3akdNMVJlclRuWUFWellmLVlXQ0tOOXF1MEFLcWJhOGhnZ2hsRm5wcWFIbnJUNGFVZ29KZUI0QktMUWtiMjdFUA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792867397.0
     }
 ]
