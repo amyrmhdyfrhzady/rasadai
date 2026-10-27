@@ -127,6 +127,24 @@
         "timestamp": 1793090047.0
     },
     {
+        "id": "3adf4cfaa0",
+        "title_fa": "مشارکت بی‌سابقه در انتخابات اسرائیل با محوریت پروندە ایـران",
+        "title_en": "Israel election sees record turnout as Iran takes center stage",
+        "summary": [
+            "مشارکت رای‌دهندگان اسرائیلی به بالاترین سطح از سال ۱۹۷۳ رسیده و پروندە تهدیدهای اتمی و منطقه‌ای ج.ا به محور اصلی کارزار انتخاباتی تبدیل شده است.",
+            "احتمال دارد این انتخابات به پایان دوران طولانی نخست‌وزیری بنیامین نتانیاهو و تغییر معادله‌های امنیتی تل‌آویو در قبال تهران منجر شود."
+        ],
+        "impact": "نتیجه این انتخابات می‌تواند دکترین نظامی اسرائیل در برابر نیابتی‌ها و برنامه‌های اتمی را وارد فاز تهاجمی‌تر کند.",
+        "tag": "انتخابات",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610276192",
+        "clean_url": "https://www.iranintl.com/en/202610276192",
+        "image": "http://www.bing.com/th?id=ONUT.jhSDtcBVZiErMNOpEVqX2Q&pid=News",
+        "timestamp": 1793084100.0
+    },
+    {
         "id": "09f63187b6",
         "title_fa": "رایزنی هیئت سعودی در تهران برای مهار بحران یمن و درگیری منطقه‌ای",
         "title_en": "Sutcliffe: Saudis in Tehran on Iran War, Houthi Conflict",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792813614.0
-    },
-    {
-        "id": "2f28d0fd41",
-        "title_fa": "فشار تورم و نارضایتی رای‌دهندگان آمریکایی از وضعیت اقتصادی",
-        "title_en": "The vulnerable House Republican trying to withstand the anger directed at his party",
-        "summary": [
-            "افزایش سرسام‌آور هزینه‌های سوخت و انرژی، حامیان سنتی حزب حاکم را به شدت خشمگین کرده است.",
-            "سیاست‌های اقتصادی واشنگتن و تعرفه‌ها، کسب‌وکارهای کوچک و خانواده‌ها را تحت فشار شدید گذاشته است."
-        ],
-        "impact": "نارضایتی اقتصادی رای‌دهندگان، بخت نامزدهای حزب حاکم را در انتخابات پیش رو به شدت کاهش داده است.",
-        "tag": "انتخابات",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
-        "clean_url": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
-        "image": "http://www.bing.com/th?id=ONUT.1B14Ts2BMODgd4jnmV69iA&pid=News",
-        "timestamp": 1792812600.0
     }
 ]
