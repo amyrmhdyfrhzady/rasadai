@@ -1,5 +1,23 @@
 [
     {
+        "id": "ce824884c2",
+        "title_fa": "سرسام‌آور شدن هزینه‌های جنگ برای ج.م",
+        "title_en": "Iran war cost increases to $47 billion",
+        "summary": [
+            "هزینه‌های درگیری و ماجراجویی‌های منطقه‌ای ج.م به رقم سنگین ۴۷ میلیارد دلار رسیده است.",
+            "این حجم از هدررفت منابع ملی در حالی رخ می‌دهد که اقتصاد داخلی زیر فشار تورم و بحران شدید ارزی قرار دارد."
+        ],
+        "impact": "تخلیه کامل ذخایر ارزی کشور برای هزینه‌های نظامی و نیابتی.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0WWlxN3hLNVdzZVR0RDEzQnJuZ05ETXIyZnIydnhQZGNrQ0VPbllPMlFKWG9pS0RvNklFWDhjbldzNW5XemRHYkJrS3pxdHdnd3plbDRvYU9oSlByVEVqQU9BMmZ4U2Z5MWFTSEhFZVJSNkNq0gF6QVVfeXFMT2gzVGdTQXQtSTJHZXFmZjFuaHIyQlZVc0ZnUFo0QTNBeXJ5LVdzR0xoeEZiMGpaaVBFcGxxYnJKRHRJZVpJTFd2V1d5ZDJzMFVNTWpBRk4wUGJPeUY3aDBoTi1IZm9KUXFSYVVTWDFrbzM4S3BlcXhpc2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0WWlxN3hLNVdzZVR0RDEzQnJuZ05ETXIyZnIydnhQZGNrQ0VPbllPMlFKWG9pS0RvNklFWDhjbldzNW5XemRHYkJrS3pxdHdnd3plbDRvYU9oSlByVEVqQU9BMmZ4U2Z5MWFTSEhFZVJSNkNq0gF6QVVfeXFMT2gzVGdTQXQtSTJHZXFmZjFuaHIyQlZVc0ZnUFo0QTNBeXJ5LVdzR0xoeEZiMGpaaVBFcGxxYnJKRHRJZVpJTFd2V1d5ZDJzMFVNTWpBRk4wUGJPeUY3aDBoTi1IZm9KUXFSYVVTWDFrbzM4S3BlcXhpc2c",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793144130.0
+    },
+    {
         "id": "360dba0c6b",
         "title_fa": "پیش‌نویس توافق با امریکا: لغو تحریم نفتی و آزادی پول‌ها",
         "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
@@ -5456,24 +5474,5 @@
         "clean_url": "https://politifact.com/article/2026/oct/24/iran-nuclear-deal-barack-obama-trump-policy",
         "image": "https://politifact.com/wp-content/uploads/2026/10/Screenshot-2026-10-24-at-3.33.02-PM.png",
         "timestamp": 1792871820.0
-    },
-    {
-        "id": "eb3de00072",
-        "title_fa": "احتمال حمله ص-ر-ا-ی-ی به انبار تسلیحات ای-ر-ا-ن-ی در عراق",
-        "title_en": "Iraq believes Israel may have struck militia weapons supplied by Iran - report",
-        "summary": [
-            "بغداد به این نتیجه رسیده که انفجارهای اخیر کار جنگنده‌های اس-ر-ا-ئی-ل بوده است.",
-            "تجهیزات و تسلیحات ارسال شده برای گروهک‌های نیابتی هدف این حملات قرار گرفته‌اند.",
-            "این رویداد نشان می‌دهد دایره عملیات‌های بازدارنده فراتر از مرزهای سوریه و لبنان رفته است."
-        ],
-        "impact": "افزایش آسیب‌پذیری لجستیکی شبکه نیابتی ج-م-ه-و-ر-ی ا-س-لا-م-ی در خاک عراق.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZXdZRlZvWkJtLWJudFJhdEZPOWNtMjhyMnNDTjlOSHVha2w2T2tiTXFGSVNKRHlPNGQ5cGx4ZncxQkVoUzFkWVZFYXowQXFlRVVzLWlHSnlnR0c1?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZXdZRlZvWkJtLWJudFJhdEZPOWNtMjhyMnNDTjlOSHVha2w2T2tiTXFGSVNKRHlPNGQ5cGx4ZncxQkVoUzFkWVZFYXowQXFlRVVzLWlHSnlnR0c1",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792870755.0
     }
 ]
