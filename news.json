@@ -1,5 +1,24 @@
 [
     {
+        "id": "d04338bc80",
+        "title_fa": "ترامپ: جـمهوری اسـلامی از سال ۵۷ در جنگ با آمریکاست",
+        "title_en": "Trump says Iran has been waging war against America since 1979",
+        "summary": [
+            "کشورهای منطقه مانند قطر و پاکستان همزمان با تلاش برای میانجیگری، به تهران هشدار دادند که باید رفتار خود را تغییر دهد.",
+            "دوحه از حکومت خواست تهدید کشورهای عربی خلیج فارس را متوقف کند و تنگه هرمز را باز بگذارد.",
+            "مقام‌های منطقه‌ای با وجود پیگیری دیپلماسی، خود را برای سناریوی درگیری و مهار تنش‌ها آماده می‌کنند."
+        ],
+        "impact": "افزایش فشار دیپلماتیک و منطقه‌ای بر تهران برای عقب‌نشینی از سیاست‌های تنش‌آفرین.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202610276805",
+        "clean_url": "https://www.iranintl.com/en/202610276805",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793131140.0
+    },
+    {
         "id": "b1af3c74a4",
         "title_fa": "رایزنی قطر و روسیه برای مهار تنش‌ بین جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی و آمریکا",
         "title_en": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
@@ -5455,23 +5474,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZXAtbGxRUU5tMERfamJ5ZHBPMHVWUnNkbm0wMi1vQnBLUC1ldmxXUG5HNjVKa2NINjU0bHdadTVOVWNJWEN2bjVGdnJIVWg3STI1VTIzWHVlZldpOFR1RkY4cFM3UnR1TndFMUM4Y2VfMFpEeXhMSUdDdHU5cDltamszYmJRWnFvM0FNS2VIRzhJMHRDRWI2TkNEbF80cExQRkV6YlJ4R1NPNVBFQm1BOEw4VWJ0YkI5dzJhN1BTeDFRS1d3bWxPRmUwZFB5cVM5ZnZxQnU3OE55bkZreU1Bd29yZHplREJjYUZBNTBfNTh6VmtKTGIzamdPRnZPV1RQZW05c09HMlZWdXhS0gGSAkFVX3lxTFAxUE51QVhJZlVwcUltYk5Ec0xOMmtOSjFMOWhPQUdtVEh3Mm5ZS201X3ZUbFoxMlhkaGNoUlVRZ29sdGF4U1FQOFVYb3BtbXNMc2hhRm85ODdhRUhKdXNFRGlnY2s2YTc1eVVJcDlCLUhwbVlJNEFwR2pOWnp5b25KWGtJSjNSUkpqNjh5c2pNOFlpZHhpVU9LUlRUQmtieG56Smt3Z2ctRkZjZ1g5aEpQekxXeVlvdnpHcDVQTzItcm1JbFhscDRSYXdnelh0cGh5eW5waldTUWw4bUlpZzlwZEplZWJ6QzVFNHg1TFpibFVGTjQzOUVFMnNQOGV0RmF4bnRKSFBXUWF0aFFFVVpDMnc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792855440.0
-    },
-    {
-        "id": "0ef3d867c3",
-        "title_fa": "انتقاد شدید اوباما از سیاست‌های ترامپ در قبال ایران",
-        "title_en": "Obama unloads on Trump for Iran war, mocks his diplomatic strategy",
-        "summary": [
-            "اوباما، ترامپ را عامل اصلی جهش قیمت سوخت و تلفات غیرضروری نظامیان می‌داند.",
-            "استراتژی دیپلماتیک ترامپ در برابر تـهـران توسط رئیس‌جمهور اسبق آمریکا به سخره گرفته شد."
-        ],
-        "impact": "تشدید جنگ لفظی میان مهره‌های سیاسی آمریکا درباره پرونده ایـران",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/obama-unloads-on-trump-for-iran-war-mocks-his-diplomatic-strategy/ar-AA2fZS8l",
-        "clean_url": "https://www.msn.com/en-us/news/other/obama-unloads-on-trump-for-iran-war-mocks-his-diplomatic-strategy/ar-AA2fZS8l",
-        "image": "http://www.bing.com/th?id=ONUT.mfLfYcbBMYePUwUQ2YLfdg&pid=News",
-        "timestamp": 1792854819.0
     }
 ]
