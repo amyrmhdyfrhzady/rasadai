@@ -180,6 +180,25 @@
         "timestamp": 1793099154.0
     },
     {
+        "id": "19582a51f2",
+        "title_fa": "آمادگی نظامی آمریکا و جهش قیمت نفت در سایه تهدیدهای ترامپ",
+        "title_en": "\"Collateral damage'",
+        "summary": [
+            "دونالد ترامپ از احتمال انجام عملیات نظامی جدید علیه جـمـهـورـی اسـلاـمـی پیش از انتخابات میان‌دوره‌ای خبر داده است.",
+            "ارتش آمریکا هزاران نیرو و تجهیزات خود را از پایگاه‌های منطقه خارج کرده که نشان‌دهنده احتمال درگیری جدی است.",
+            "تنش‌های ژئوپلیتیک قیمت نفت برنت را بالای صد دلار رسانده و تورم شدیدی را به اقتصاد تحمیل کرده است."
+        ],
+        "impact": "جهش قیمت نفت و ایجاد نااطمینانی شدید در بازارهای جهانی انرژی به دلیل زنگ خطر جنگ.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Philstar.com",
+        "url": "https://www.philstar.com/business/2026/10/28/2566122/collateral-damage",
+        "clean_url": "https://www.philstar.com/business/2026/10/28/2566122/collateral-damage",
+        "image": "https://media.philstar.com/photos/2026/03/09/regime-change-trump_2026-03-09_09-42-43.jpg",
+        "timestamp": 1793095200.0
+    },
+    {
         "id": "5b5f3fdc23",
         "title_fa": "بال گرفتن تنش‌ها در اسرائیل در آستانه انتخابات",
         "title_en": "Tensions flare in Israel on election eve",
@@ -5453,23 +5472,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/i-don-t-know-anything-trump-contradicts-envoy-on-iran-strike-then-issues-fresh-threat/ar-AA2fXYbO",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792829338.0
-    },
-    {
-        "id": "7b4fcdcfb8",
-        "title_fa": "هشدار درباره شدت ویرانگر دور جدید درگیری‌های آمریکا و ج.ا",
-        "title_en": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
-        "summary": [
-            "دور جدید تنش‌ها می‌تواند سنگین‌ترین و مخرب‌ترین ضربه را به ساختارهای حاکمیتی و زیرساخت‌ها وارد کند.",
-            "آمریکا با ارزیابی دقیق شرایط، به دنبال افزایش حداکثری هزینه‌های امنیتی برای تهران است."
-        ],
-        "impact": "افزایش ریسک امنیتی و بی‌ثباتی شدید در بازارهای مالی داخل کشور.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGxMSnE1UkdfNGtYV2lnR1hIUFlIdXo0bVFHdXNTaktManl6WFRRZEJCSUoyWVhOeGhnSkQtMjdxM0xVZTFQeTFEaG5TR2gwSk80RzZIODBWd2kyT1FRdktwZEhKSHhaNGlZVlJmNjl0Q0Qyd0loaFp1cXdEZkZ5LUlUdEY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGxMSnE1UkdfNGtYV2lnR1hIUFlIdXo0bVFHdXNTaktManl6WFRRZEJCSUoyWVhOeGhnSkQtMjdxM0xVZTFQeTFEaG5TR2gwSk80RzZIODBWd2kyT1FRdktwZEhKSHhaNGlZVlJmNjl0Q0Qyd0loaFp1cXdEZkZ5LUlUdEY",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792828800.0
     }
 ]
