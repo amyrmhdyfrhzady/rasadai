@@ -1,5 +1,24 @@
 [
     {
+        "id": "adaae115e0",
+        "title_fa": "دستپاچگی مسکو و تهران برای دور زدن تحریم‌های نفتی",
+        "title_en": "Iran, Russia eye joint oil and gas projects amid US blockade",
+        "summary": [
+            "پوتین و پزشکیان در مسکو روی توسعه پروژه‌های مشترک نفت و گاز تمرکز کردند.",
+            "تهران برای فرار از فشار تحریم‌های آمریکا و محاصره انرژی، به سمت شریک شرقی چسبیده است.",
+            "پزشکیان ادعا کرد ایران سومین تولیدکننده بزرگ گاز جهان است و نیاز به همکاری استراتژیک دارد."
+        ],
+        "impact": "تلاش مذبوحانه جمهوری اسلامی برای فروش انرژی با واسطه روس‌ها زیر سایه تحریم‌های سنگین.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610270500",
+        "clean_url": "https://www.iranintl.com/en/202610270500",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/1f428492545a85acdf30149b652a6e91670ea5b5-640x415.jpg?rect=63,87,530,278&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1793125080.0
+    },
+    {
         "id": "7d3b269a2c",
         "title_fa": "بازداشت عوامل نفوذی انتسابی به جـ.ـهـ.ـوری اسـ.ـلامی در پایگاه هوایی بریتانیا",
         "title_en": "Two charged over alleged Iran intelligence operation at RAF Fairford",
@@ -5454,24 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNmhvT2V1bHJqY3hUSTRKa182aktFdjRHMGl2aEx1b0pkMXJyRWlpQzVpdEo4R1lHZGJFYUwybDNJX0VJZnZ1b1c5QlJaeDRmRUE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792836201.0
-    },
-    {
-        "id": "5bb8926b97",
-        "title_fa": "آماده‌باش سفارتخانه‌های آمریکا در پی تهدیدهای جدی ج.ا",
-        "title_en": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-        "summary": [
-            "نهادهای اطلاعاتی آمریکا از برنامه‌ریزی پیشرفته ج.ا برای حمله به پرسنل این کشور در منطقه خبر دادند.",
-            "دستور خروج کارمندان غیرضروری از عربستان همزمان با تشدید حملات پهپادی و موشکی نیابتی‌ها صادر شد.",
-            "مقامات تهران در ظاهر ادعای آمادگی برای مذاکره دارند اما همزمان خط تنش نظامی را بالا برده‌اند."
-        ],
-        "impact": "افزایش سطح هشدار امنیتی برای تمامی مراکز و نظامیان آمریکایی در خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-        "clean_url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108455865-1792853767350-gettyimages-2263973348-AFP_99PF763.jpeg?v=1792853845&w=1920&h=1080",
-        "timestamp": 1792831440.0
     }
 ]
