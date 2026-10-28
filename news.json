@@ -1,5 +1,23 @@
 [
     {
+        "id": "592547154f",
+        "title_fa": "هشدار وزیر خزانه‌داری آمریکا درباره شوک جدید عرضه انرژی",
+        "title_en": "CNBC Exclusive: Transcript: U.S. Treasury Secretary Scott Bessent Speaks with CNBC's Brian Sullivan on \"Closing Bell: Overtime\" Today",
+        "summary": [
+            "سکات بسنت، وزیر خزانه‌داری آمریکا، صریحاً از احتمال وقوع شوک در عرضه جهانی انرژی و فشار بر بازارهای مالی خبر داد.",
+            "واشنگتن انقباض شدید در بازار اوراق قرضه را بخشی از مسیر کنترل تورم می‌داند و نگران تسری بحران به بخش فناوری نیست."
+        ],
+        "impact": "افزایش نوسانات شدید در بازار جهانی نفت و احتمال صعود قیمت سوخت در کوتاه‌مدت.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/cnbc-exclusive-transcript-us-treasury-secretary-scott-bessent-speaks-with-cnbcs-brian-sullivan-on-closing-bell-overtime-today.html",
+        "clean_url": "https://www.cnbc.com/2026/10/28/cnbc-exclusive-transcript-us-treasury-secretary-scott-bessent-speaks-with-cnbcs-brian-sullivan-on-closing-bell-overtime-today.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+        "timestamp": 1793222940.0
+    },
+    {
         "id": "ada8a075a2",
         "title_fa": "هشدار صریح ترامپ: توافق نکنید، ضربات بعدی سنگین‌تر است",
         "title_en": "Trump: Iran Faces More Strikes If Talks Fail",
@@ -384,6 +402,25 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-yemen-houthis-pezeshkian-middle-east-tensions-saudi-arabia-gulf-countries-israel-latest-news/liveblog/135249614.cms",
         "image": "https://static.toiimg.com/thumb/msid-135249614,width-1280,height-720,imgsize-1785343,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1793199720.0
+    },
+    {
+        "id": "1b716b63ae",
+        "title_fa": "پیش‌بینی حمله مستقیم نظامی آمریکا به ج.ا پس از انتخابات",
+        "title_en": "Karl Rove predicts Trump will resume 'kinetic action' in Iran after midterms",
+        "summary": [
+            "کارل روو، استراتژیست مطرح آمریکایی، اعلام کرد ترامپ پس از تثبیت شرایط سیاسی داخلی، اقدام نظامی مستقیم (کینتیک) علیه ج.ا را از سر می‌گیرد.",
+            "سیاست فشار حداکثری واشنگتن در حال تغییر فاز از تحریم اقتصادی به درگیری سخت‌افزاری و هدف قرار دادن تاسیسات کلیدی است.",
+            "سیگنال واشنگتن به تهران واضح است؛ مهلت دیپلماسی رو به پایان بوده و سناریوی درگیری روی میز قرار گرفته است."
+        ],
+        "impact": "احتمال جهش ناگهانی قیمت دلار در بازار تهران و آماده‌باش بالای نظامی در منطقه خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Mediaite on MSN",
+        "url": "https://www.msn.com/en-us/news/other/karl-rove-predicts-trump-will-resume-kinetic-action-in-iran-after-midterms/ar-AA2ghAS5",
+        "clean_url": "https://www.msn.com/en-us/news/other/karl-rove-predicts-trump-will-resume-kinetic-action-in-iran-after-midterms/ar-AA2ghAS5",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793196987.0
     },
     {
         "id": "fb38e59bb3",
@@ -5449,41 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVXZEYXRuRWhEWnhaTTNyd0I4LUtGMHRJVnZNcWRlMTJSNjdtQUE4QktHR0dzcGkzR3FPSGNhd205NWoxV3ZielM3LWNybWRoYkI0Rk9R",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792964420.0
-    },
-    {
-        "id": "dcf83be5eb",
-        "title_fa": "بازی خطرناک ترامپ و نتانیاهو علیه تـهران",
-        "title_en": "Trump, Netanyahu and the politics of escalation against Iran",
-        "summary": [
-            "ملاقات‌ها و برنامه‌ریزی‌های پشت پرده واشنگتن و تل‌آویو وارد فاز جدیدی شده است.",
-            "فشارها روی جـمهوری اسـلامی با هماهنگی کامل تیم جدید آمریکا افزایش می‌یابد."
-        ],
-        "impact": "احتمال جهش تنش‌های نظامی و امنیتی در منطقه به بالاترین سطح.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1",
-        "clean_url": "https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792964220.0
-    },
-    {
-        "id": "d021c42219",
-        "title_fa": "وحشت ارتش ائـتلاف از اقدام نظامی شتابزده نتانیاهو علیه ایـران",
-        "title_en": "Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election",
-        "summary": [
-            "فرماندهان ارشد نظامی نگران‌اند نتانیاهو پیش از انتخابات روز سه‌شنبه دست به یک حمله نظامی تکان‌دهنده بزند.",
-            "این تصمیمات شتابزده می‌تواند منطقه را وارد یک جنگ تمام‌عیار و غیرقابل کنترل کند."
-        ],
-        "impact": "احتمال تنش نظامی ناگهانی در آستانه انتخابات پیش‌رو را به شدت بالا برده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMlUweVp5TnJWUDhnRkx0ZmY1alRaemtaRTc1TTZjNm5BVTFPaDJxeDZfcmt6Y3FxbXEtRFdBSkFwbC1iZDBjUXlBZFVVZmRqeXhvTTBaZ2NWZE1pNVN1TTM1MGM4U25XS1ZpZ2F5T3pEZzh1UDlwRndKOTZBbmNlV1B0YzJRWkN6ODlITFU4cWhwakhsWmtELU14blpDa3dzTkpISXNFbTM2SmtmeG9KTmNYNmR6SjRQLWZRZ2ZyalppdHBma2VCZTZfY1NpZmMwZVhPTDl1Yk54YUNwaldQX2JPeFBWWnB5c2JZelhHcjU4U2UtanYwRDBJQVlXc25yVTY4TThGT3Q3N1d4QWVwaWdqZlU2YnptM1BMMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMlUweVp5TnJWUDhnRkx0ZmY1alRaemtaRTc1TTZjNm5BVTFPaDJxeDZfcmt6Y3FxbXEtRFdBSkFwbC1iZDBjUXlBZFVVZmRqeXhvTTBaZ2NWZE1pNVN1TTM1MGM4U25XS1ZpZ2F5T3pEZzh1UDlwRndKOTZBbmNlV1B0YzJRWkN6ODlITFU4cWhwakhsWmtELU14blpDa3dzTkpISXNFbTM2SmtmeG9KTmNYNmR6SjRQLWZRZ2ZyalppdHBma2VCZTZfY1NpZmMwZVhPTDl1Yk54YUNwaldQX2JPeFBWWnB5c2JZelhHcjU4U2UtanYwRDBJQVlXc25yVTY4TThGT3Q3N1d4QWVwaWdqZlU2YnptM1BMMw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792964160.0
     }
 ]
