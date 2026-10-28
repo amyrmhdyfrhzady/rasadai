@@ -1,5 +1,24 @@
 [
     {
+        "id": "1d839d4646",
+        "title_fa": "طرح ۷ روزه قطر برای پایان جنگ و توافق با تهران",
+        "title_en": "US-Iran War Live Updates: Iranian lawmaker vows revenge for 'killing' of Ali Khamenei",
+        "summary": [
+            "میانجی‌گران قطری پیش‌نویس توافق جدیدی را برای پایان دادن به درگیری‌های نظامی به تهران ارائه دادند.",
+            "این طرح هفت‌روزه شامل اقدامات اعتمادساز روزانه برای حل‌وفصل نگرانی‌های ایالات متحده و حکومت ایران است.",
+            "چند کشور به عنوان ضامن اجرای این توافق احتمالی نقش‌آفرینی خواهند کرد."
+        ],
+        "impact": "پیشرفت در دیپلماسی پنهان می‌تواند تنش‌های نظامی و بحران بازار انرژی را موقتاً آرام کند.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-yemen-houthis-pezeshkian-middle-east-tensions-saudi-arabia-gulf-countries-israel-latest-news/liveblog/135249614.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-yemen-houthis-pezeshkian-middle-east-tensions-saudi-arabia-gulf-countries-israel-latest-news/liveblog/135249614.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135249614,width-1280,height-720,imgsize-1785343,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1793199720.0
+    },
+    {
         "id": "fb38e59bb3",
         "title_fa": "سرکوب به بهانه جاسوسی در ایران",
         "title_en": "Espionage threats blur lines between security and dissent in Iran",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nWkwwREFvaFVaSW5Cc0t6WHNHOHNTUjQtZUwwUGI3RURiTTVEX0h1RzVSQVpnN3U1WS1lSzdjMnBTZXNhcXlHVnFURExDMUhEMXc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792936866.0
-    },
-    {
-        "id": "41063e8238",
-        "title_fa": "ناتوانی اسرائیل در مهار رمزارزهای رژیم",
-        "title_en": "Ex-sanctions architect: Israel can’t out-crypto Iran",
-        "summary": [
-            "طراح سابق تحریم‌ها اعتراف کرد که ابزارهای مالی اسرائیل حریف دور زدن تحریم‌ها از سوی ت‌هـ‌را‌ن با رمزارزها نمی‌شود.",
-            "شبکه مالی جمهوری اسلامی برای فرار از تحریم‌های بین‌المللی عمیق‌تر از تصورات امنیتی اسرائیل شده است."
-        ],
-        "impact": "شکست تلاش‌های اطلاعاتی و مالی برای بستن منافذ ارزی حاکمیت.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2NFa1RNMlVjQ2UxWWppbHZnSk1qYmo5NnVuTTNId2gwSWhMU2tfbnR4MmlYMDN4WDhnMzI1QkhNRkwxVWstdFE2ejhEenNMaG5jU3ZiZldMcnN3NDhBRHJqbGVHLW8yNFVqVkxkTWliRExTemZSNzdNeWFZeEpMR0F6SXpRQ0F3N3BYZXI1ejhVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2NFa1RNMlVjQ2UxWWppbHZnSk1qYmo5NnVuTTNId2gwSWhMU2tfbnR4MmlYMDN4WDhnMzI1QkhNRkwxVWstdFE2ejhEenNMaG5jU3ZiZldMcnN3NDhBRHJqbGVHLW8yNFVqVkxkTWliRExTemZSNzdNeWFZeEpMR0F6SXpRQ0F3N3BYZXI1ejhVZw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792935044.0
     }
 ]
