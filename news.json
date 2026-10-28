@@ -342,6 +342,24 @@
         "timestamp": 1793176393.0
     },
     {
+        "id": "c0aee1a51c",
+        "title_fa": "اعتراف مجلس به فشار معیشتی و بی‌اطلاعی از سیاست ارزی",
+        "title_en": "Economic pressure on Iranians has increased, MP says",
+        "summary": [
+            "نایب رئیس مجلس اعتراف کرد که فشار اقتصادی روی مردم بیشتر شده اما مدعی شد صبر جامعه کم نشده است.",
+            "نمایندگان مجلس از طرح دولت برای عرضه دلار ۱۰ هزار دلاری بی‌خبر بوده‌اند و خواستار شفاف‌سازی شدند."
+        ],
+        "impact": "شکاف بین دولت و مجلس بر سر تصمیمات ارزی و تشدید بحران معیشتی",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610282539",
+        "clean_url": "https://www.iranintl.com/en/202610282539",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793175780.0
+    },
+    {
         "id": "a16d4f655f",
         "title_fa": "سقف‌شکنی قیمت نفت با اوج‌گیری تنش میان ایران و آمریکا",
         "title_en": "Oil Hits Four-Week High as US-Iran Conflict Escalates",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2NFa1RNMlVjQ2UxWWppbHZnSk1qYmo5NnVuTTNId2gwSWhMU2tfbnR4MmlYMDN4WDhnMzI1QkhNRkwxVWstdFE2ejhEenNMaG5jU3ZiZldMcnN3NDhBRHJqbGVHLW8yNFVqVkxkTWliRExTemZSNzdNeWFZeEpMR0F6SXpRQ0F3N3BYZXI1ejhVZw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792935044.0
-    },
-    {
-        "id": "a045c27057",
-        "title_fa": "خیال‌پردازی بودجه‌ای با نفت ۱۳۰ دلاری",
-        "title_en": "Iran considers $130 oil price for next year's budget – Iranian media",
-        "summary": [
-            "سازمان برنامه و بودجه نرخ نفت را برای سال آینده ۱۴۰۶ روی رقم غیرواقعی ۱۳۰ دلار بسته است.",
-            "این رقم‌سازی‌های نجومی صرفاً برای سرپوش گذاشتن بر کسری بودجه شدید و فرار از واقعیت‌های اقتصادی است."
-        ],
-        "impact": "عمق بحران مالی دولت و تلاش برای دستکاری آمارهای اقتصادی روی کاغذ.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610253269",
-        "clean_url": "https://www.iranintl.com/en/202610253269",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792933080.0
     }
 ]
