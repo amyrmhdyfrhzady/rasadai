@@ -1,5 +1,23 @@
 [
     {
+        "id": "7ba28fc0a6",
+        "title_fa": "تکذیب مذاکره صلح با تهران از سوی دونالد ترامپ",
+        "title_en": "Trump denies directing Vance to open Iran peace talks",
+        "summary": [
+            "دونالد ترامپ گزارش وال‌استریت ژورنال درباره ماموریت دادن به معاونش برای شروع مذاکرات صلح با ج.ا را رد کرد.",
+            "ترامپ تاکید کرد تماس جی‌دی ونس با شورای امنیت ملی تنها درباره ارسال اقلام دارویی و کمک به بیماران بوده است."
+        ],
+        "impact": "این موضع‌گیری نشان می‌دهد کاخ سفید فعلاً برنامه‌ای برای مذاکره مستقیم با تهران ندارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610287647",
+        "clean_url": "https://www.iranintl.com/en/202610287647",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793224800.0
+    },
+    {
         "id": "592547154f",
         "title_fa": "هشدار وزیر خزانه‌داری آمریکا درباره شوک جدید عرضه انرژی",
         "title_en": "CNBC Exclusive: Transcript: U.S. Treasury Secretary Scott Bessent Speaks with CNBC's Brian Sullivan on \"Closing Bell: Overtime\" Today",
@@ -5468,23 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMkpZM1dUV1ZoR0Izc2NmTW85Vzh6VTJqZEVhVkVFTkVGTXk3VmNPUE9DaEk4djBoaldQSzc4ZllVSVRuT2s2U1ZYMEMzSHZpd0pERVY1RXg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792965930.0
-    },
-    {
-        "id": "cde320851a",
-        "title_fa": "رزمایش بزرگ ائتلاف ضد رژیم و هشدار به تهـران",
-        "title_en": "Israel warns Iran with massive military drill as expert flags risk of accidental war",
-        "summary": [
-            "ارتش اسرائیل با برگزاری یک مانور نظامی سنگین، پیام آماده‌باش حداکثری به جمهوری اسلامی فرستاد.",
-            "کارشناسان امنیتی نسبت به خطر بالا گرفتن تنش‌ها و وقوع جنگ ناخواسته در منطقه هشدار می‌دهند."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و احتمال درگیری نظامی مستقیم در خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVXZEYXRuRWhEWnhaTTNyd0I4LUtGMHRJVnZNcWRlMTJSNjdtQUE4QktHR0dzcGkzR3FPSGNhd205NWoxV3ZielM3LWNybWRoYkI0Rk9R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVXZEYXRuRWhEWnhaTTNyd0I4LUtGMHRJVnZNcWRlMTJSNjdtQUE4QktHR0dzcGkzR3FPSGNhd205NWoxV3ZielM3LWNybWRoYkI0Rk9R",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792964420.0
     }
 ]
