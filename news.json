@@ -433,6 +433,42 @@
         "timestamp": 1793171735.0
     },
     {
+        "id": "2b7631bba4",
+        "title_fa": "سرکوب به بهانه نفوذ؛ تشدید اختناق در داکت امنیت",
+        "title_en": "How Iran is using espionage threats to crack down on dissent",
+        "summary": [
+            "شکست‌های امنیتی اخیر، جـ.م را وادار کرده تا از ترس نفوذ برای سرکوب بیشتر منتقدان استفاده کند.",
+            "حذف چهره‌های ارشد در حملات، حاکمیت را به سمت توسعه ابزارهای سرکوب داخلی سوق داده است."
+        ],
+        "impact": "تشدید جو پلیسی و افزایش فشار بر فعالان مدنی با پوشش تهدیدات خارجی.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents",
+        "clean_url": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3YC8TK__v1__HighRes__IranWarDailyLife-1792942826.jpg?resize=1920%2C1440",
+        "timestamp": 1793170980.0
+    },
+    {
+        "id": "a69f2d8419",
+        "title_fa": "پرده‌برداری از توطئه ترور خبرنگاران در خاک بریتانیا",
+        "title_en": "Netanyahu holds on, raises prospect of new Iran strikes",
+        "summary": [
+            "متهم پرونده در دادگاه لندن اعتراف کرد که ماموریت داشته روزنامه‌نگاران منتقد را هدف قرار دهد و ضرب و جرح کند.",
+            "این پرونده ابعاد جدیدی از عملیات‌های ترور و ارعباب فرامرزی عوامل وابسته را عیان می‌کند."
+        ],
+        "impact": "افزایش چالش‌های امنیتی برای عوامل وابسته به حاکمیت در اروپا و حفاظت بیشتر از روزنامه‌نگاران.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610282156",
+        "clean_url": "https://www.iranintl.com/en/202610282156",
+        "image": "http://www.bing.com/th?id=ONUT.fq8oyGXB1BUaseTSzP4-uw&pid=News",
+        "timestamp": 1793170500.0
+    },
+    {
         "id": "d444170bc7",
         "title_fa": "هشدار خزانه‌داری آمریکا: اقتصاد ایـــران در آستانه فروپاشی عمیق",
         "title_en": "Iran economy faces 25% deeper contraction amid soaring inflation, major employment crisis",
@@ -5439,41 +5475,5 @@
         "clean_url": "https://www.ibtimes.com/presidents-obama-trump-held-competing-midterm-rallies-same-day-they-clashed-iran-3808966",
         "image": "https://d.ibtimes.com/en/full/4653794/trump-obama.jpg",
         "timestamp": 1792930200.0
-    },
-    {
-        "id": "01e11ffe01",
-        "title_fa": "سود سرشار کمپانی‌های نفتی آمریکا از بحران تنگه هرمز",
-        "title_en": "Trump on high gas prices: 'We're making a freaking fortune'",
-        "summary": [
-            "ترامپ اعتراف کرد که تنش‌ها در تنگه هرمز و افزایش بهای سوخت، سودهای نجومی روانه جیب شرکت‌های نفتی تگزاس و اوکلاهما کرده است.",
-            "در حالی که شهروندان آمریکایی فشار گرانی بنزین را تحمل می‌کنند، غول‌های انرژی میلیاردها دلار سود به دست آورده‌اند."
-        ],
-        "impact": "سرازیر شدن درآمدهای افسانه‌ای به شرکت‌های نفتی همزمان با فشار اقتصادی بر مردم",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "Insider",
-        "url": "https://www.businessinsider.com/high-gas-prices-donald-trump-oil-companies-midterm-election-2026-10",
-        "clean_url": "https://www.businessinsider.com/high-gas-prices-donald-trump-oil-companies-midterm-election-2026-10",
-        "image": "http://www.bing.com/th?id=ONUT.KxMxiqsmQAvc-e3cG7Q0Ew&pid=News",
-        "timestamp": 1792929900.0
-    },
-    {
-        "id": "faa045787d",
-        "title_fa": "سایه سنگین انتخابات آمریکا و اسرائیل بر جبهه جنگ با ایران",
-        "title_en": "Watch US and Israel Elections Loom Over Iran War",
-        "summary": [
-            "تحولات انتخاباتی در واشنگتن و تل‌آویو، تعیین‌کننده گام بعدی در تقابل با ج_مهوری اس_لامی است.",
-            "سیاست‌گذاران غربی و منطقه‌ای منتظر تغییرات سیاسی هستند تا رویکرد خود را در میدان نبرد تنظیم کنند."
-        ],
-        "impact": "تغییرات سیاسی در غرب و اسرائیل مستقیماً استراتژی نظامی علیه تهران را شکل می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlhBRnVBcVhUb2M2NVpXeFQxOWNQOWZBWXQ2eUQ4QUV6b3pTUFF2T2RmUTZHUTBPTWlMYW1WLXRzWjRTUGxzMlNPYjZUZ1UzY3BPVkxIamZsaWJMX1I5XzgwRWRfYWdWSGpESjJhWXN0SDM0aDlQbDhBWUIwekdRTkZmcU9uVWpwcmJIUE80QjVNNDliTUQtMHQwdnRTdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlhBRnVBcVhUb2M2NVpXeFQxOWNQOWZBWXQ2eUQ4QUV6b3pTUFF2T2RmUTZHUTBPTWlMYW1WLXRzWjRTUGxzMlNPYjZUZ1UzY3BPVkxIamZsaWJMX1I5XzgwRWRfYWdWSGpESjJhWXN0SDM0aDlQbDhBWUIwekdRTkZmcU9uVWpwcmJIUE80QjVNNDliTUQtMHQwdnRTdw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792929285.0
     }
 ]
