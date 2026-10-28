@@ -332,6 +332,24 @@
         "timestamp": 1793194680.0
     },
     {
+        "id": "de7a6503da",
+        "title_fa": "تاثیر معادلات سیاسی اسرائیل بر زمان‌بندی تنش‌ها",
+        "title_en": "How do Israeli election results impact timing of possible new Iran war?",
+        "summary": [
+            "نتیجه انتخابات و رقابت‌های سیاسی در تل‌آویو مستقیماً روی تصمیمات نظامی و امنیتی اثرگذار است.",
+            "تغییرات درون‌حکومتی در اسرائیل می‌تواند محاسبات مربوط به درگیری‌های اتمی و منطقه‌ای را تغییر دهد."
+        ],
+        "impact": "بازتولید قدرت در اسرائیل سرعت تصمیم‌گیری‌های نظامی علیه جمهوری اسلامی را تعیین می‌کند.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/how-do-israeli-election-results-impact-timing-of-possible-new-iran-war/ar-AA2ggraC",
+        "clean_url": "https://www.msn.com/en-ca/news/other/how-do-israeli-election-results-impact-timing-of-possible-new-iran-war/ar-AA2ggraC",
+        "image": "http://www.bing.com/th?id=ONUT.aIEa9kR21u51Xnz5VYjw0Q&pid=News",
+        "timestamp": 1793193124.0
+    },
+    {
         "id": "d083d9e1a4",
         "title_fa": "رایزنی ط·ه‍رآن با میانجی‌گران درباره طرح آتش‌بس هفت روزه",
         "title_en": "Iran is in close contact with mediators on seven-day plan, foreign minister says",
@@ -820,6 +838,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793175004.0
+    },
+    {
+        "id": "52e81d801f",
+        "title_fa": "خطر تبدیل عراق به میدان جنگ تهران و تل‌آویو",
+        "title_en": "Iraq Risks Being Drawn Into Renewed Iran War Despite Pledge to Stay Out",
+        "summary": [
+            "گروه‌های نیابتی وابسته به تهران در عراق بی‌اعتنا به موضع دولت، حمایت کامل خود را از حاکمیت اعلام کرده‌اند.",
+            "نخست‌وزیر عراق از تلاش برای میانجی‌گری خبر داده اما عملاً کنترلی بر گروه‌های مسلح ندارد."
+        ],
+        "impact": "عراق در آستانه تبدیل شدن به کانون اصلی درگیری‌های منطقه‌ای قرار گرفته است.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Algemeiner",
+        "url": "https://www.algemeiner.com/2026/10/28/iraq-risks-being-drawn-renewed-iran-war-despite-pledge-stay-out/",
+        "clean_url": "https://www.algemeiner.com/2026/10/28/iraq-risks-being-drawn-renewed-iran-war-despite-pledge-stay-out",
+        "image": "http://www.bing.com/th?id=ONUT.qDnaSMmDafXWc-T5xY3O-g&pid=News",
+        "timestamp": 1793174640.0
     },
     {
         "id": "f953d5a005",
@@ -5449,42 +5485,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/lula-wins-historic-fourth-term-in-brazil-denying-trump-a-close-ally/ar-AA2g36NN",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792958723.0
-    },
-    {
-        "id": "53005bcda8",
-        "title_fa": "دستور نتانیاهو برای سرنگونی حکومت ایـرآن",
-        "title_en": "Netanyahu says he ordered Mossad, military to topple Iran regime",
-        "summary": [
-            "نخست‌وزیر اسرائیل علناً اعلام کرد که به موساد و ارتش دستور داده تا برای براندازی جـمـهـوری اسـلامـی اقدام کنند.",
-            "تهران همچنان به عنوان یک تهدید اتمی بالقوه دیده می‌شود که مانند عقرب زخمی خطرناک است.",
-            "اسرائیل بار دیگر بر ضربات سنگین نظامی و تداوم فشارها علیه ساختار قدرت تاکید کرد."
-        ],
-        "impact": "تغییر دکترین نظامی اسرائیل از مهار به تلاش آشکار برای تغییر حـکـومـت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610251909",
-        "clean_url": "https://www.iranintl.com/en/202610251909",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792957920.0
-    },
-    {
-        "id": "1e13dd1b79",
-        "title_fa": "ادعای تهران درباره میز مذاکره و اتهام‌زنی به واشنگتن",
-        "title_en": "Iran says it has never left negotiating table, accuses US of imposing unilateral demands",
-        "summary": [
-            "دستگاه دیپلماسی ج.ه.ا مدعی شد که هیچ‌گاه میز گفتگو را ترک نکرده است.",
-            "آمریکا به تحمیل خواسته‌های یک‌جانبه متهم شد تا شکست توافقات به گردن طرف مقابل بیفتد."
-        ],
-        "impact": "تلاش برای خرید زمان و فرار از فشار تحریم‌ها با ابزار دیپلماسی نمایشی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUk80U05aVWxibWlSLXd6dU1hMmpEVWt3dkpYRHNuOHVjYWtvSm0tbmJvbGJVb0VlRm1meDhVV0RDamtXeWFIU1R3clIxdWZwd25DVkxtOWpjVURqRDRuTG83ZEhkQk5WWlVCakljMjQzaG1wU0lCQTR0eUx6YTY4MEVPb2c4ZU5mM1k3UGFuN1gwVExUR0liYjlIMWlPS1BabkxYN1RLMUxyMFRIY294QzI2X3VtVFJvcm1WLVRJbXVhOHNoeEM3WTZtM3A?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUk80U05aVWxibWlSLXd6dU1hMmpEVWt3dkpYRHNuOHVjYWtvSm0tbmJvbGJVb0VlRm1meDhVV0RDamtXeWFIU1R3clIxdWZwd25DVkxtOWpjVURqRDRuTG83ZEhkQk5WWlVCakljMjQzaG1wU0lCQTR0eUx6YTY4MEVPb2c4ZU5mM1k3UGFuN1gwVExUR0liYjlIMWlPS1BabkxYN1RLMUxyMFRIY294QzI2X3VtVFJvcm1WLVRJbXVhOHNoeEM3WTZtM3A",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792957496.0
     }
 ]
