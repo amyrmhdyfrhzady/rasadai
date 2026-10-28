@@ -1,5 +1,23 @@
 [
     {
+        "id": "627315ad6f",
+        "title_fa": "آمادگی مسکو برای مذاکرات اوکراین و انتقاد از غرب",
+        "title_en": "Preparations for Ukraine talks, protests in Europe: senior Russian diplomat's statements",
+        "summary": [
+            "معاون وزیر خارجه روسیه از آمادگی این کشور برای گفتگوهای مرتبط با اوکراین خبر داد.",
+            "مسکو نسبت به تغییر رویکرد ایالات متحده پس از انتخابات ابراز تردید کرد و از اجماع ضد روسی واشنگتن گفت."
+        ],
+        "impact": "این موضع‌گیری نشان می‌دهد مسکو در انتظار تحولات سیاسی غرب باقی مانده و تغییری در راهبرد خود نداده است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2209417",
+        "clean_url": "https://tass.com/politics/2209417",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261028/1491305.jpg",
+        "timestamp": 1793186580.0
+    },
+    {
         "id": "acdce298fc",
         "title_fa": "بررسی پیشنهاد هفت روزه قطر برای پایان درگیری‌ها",
         "title_en": "Iran Weighs Qatari 7-Day Proposal to End Conflict With US, Israel",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjhuM0Y2VXJ1VUsycGdEWVpWb1Bhb1V3NTU4VE5ZYjNPT2I0YkxRbkVkd1o5czQ2ekJSazBpWVdzMHcyQl92cjhrQXpQZTdsMlRHOUpBMXdvWTdEWUw4cWJwYmlOZHRwd2RLRVNwb1l0Z1ZpWE9zcDVtVXdVV1BFanYwNWtRYTFGc25GQkc4WEJfczJqQUgtemJkVEZfaGs",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792922342.0
-    },
-    {
-        "id": "fe45123fd3",
-        "title_fa": "بازگشایی فرودگاه ریاض همزمان با ادامه حملات پهپادی یمن",
-        "title_en": "Riyadh reopens its international airport as attacks by Iran-backed Houthis persist",
-        "summary": [
-            "ترمینال‌های ۱ و ۲ فرودگاه بین‌المللی ملک خالد پس از برقراری ایمنی مجدداً باز شدند.",
-            "گروه‌های نیابتی وابسته به حـکـومـت ایـران همچنان به شلیک موشک و پهپاد به سمت پایتخت عربستان ادامه می‌دهند."
-        ],
-        "impact": "تداوم تنش‌های پهپادی در منطقه با وجود تلاش عربستان برای عادی‌سازی جریان پروازی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/riyadh-reopens-its-international-airport-as-attacks-by-iran-backed-houthis-persist/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/riyadh-reopens-its-international-airport-as-attacks-by-iran-backed-houthis-persist",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792922220.0
     }
 ]
