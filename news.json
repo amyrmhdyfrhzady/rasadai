@@ -1,5 +1,23 @@
 [
     {
+        "id": "5f22143b3a",
+        "title_fa": "بازگشت سایه جنگ و تنش میان محور عبری-غربی و ج.ا",
+        "title_en": "Settler Violence, A New Israeli Government, and Return to U.S.-Israel-Iran War",
+        "summary": [
+            "مؤسسه دفاع از دموکراسی‌ها از احتمال بازگشت به جنگ مستقیم خبر می‌دهد.",
+            "تغییرات دولت در اسرائیل و تنش‌های کرانه باختری پازل رویارویی را کامل‌تر می‌کند."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی تمام‌عیار در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Foundation for Defense of Democracies",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDZ1Ylo1OGF1TTdvU21xMjhxdlV2YWVveVJuQk1ZWlRfZWE4cFhYaGZxcEZkdEVrX1BGYTM3U0htaVlUaHVZNFRoS2FuS0FOVzVodXNfSG1ScEE3UVFQVkNGQUhSVkZUQS1nc0tSN1pTQlNJQ05BM2toX28wUmZ1djhIeFU3V0lUT0NKakRFUjBaRmNQQVFlVEhxUHVQU05Fd2YyTE5Ya2o?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDZ1Ylo1OGF1TTdvU21xMjhxdlV2YWVveVJuQk1ZWlRfZWE4cFhYaGZxcEZkdEVrX1BGYTM3U0htaVlUaHVZNFRoS2FuS0FOVzVodXNfSG1ScEE3UVFQVkNGQUhSVkZUQS1nc0tSN1pTQlNJQ05BM2toX28wUmZ1djhIeFU3V0lUT0NKakRFUjBaRmNQQVFlVEhxUHVQU05Fd2YyTE5Ya2o",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793204796.0
+    },
+    {
         "id": "a6a96d353f",
         "title_fa": "دولت موقت نتانیاهو و احتمال درگیری با تهران",
         "title_en": "Caretaker role could limit Netanyahu but not rule out war with Iran",
@@ -34,6 +52,25 @@
         "clean_url": "https://www.iranintl.com/en/202610287017",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/2dca496b625fa060a189866fd39c2f7fd71769a0-241x191.jpg?rect=0,33,241,127&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1793201700.0
+    },
+    {
+        "id": "7a9aaa6647",
+        "title_fa": "پشت پرده طرح جدید مجلس برای محدودسازی اینترنت",
+        "title_en": "Iran official calls pro-government street rallies new form of wartime defense",
+        "summary": [
+            "جزئیات طرح جدید کنترل فضای مجازی عمداً از دید عموم پنهان مانده است.",
+            "نمایندگان مجلس درباره شدت و ضرورت اعمال محدودیت‌های بیشتر اختلاف نظر جدی دارند.",
+            "نسخه در حال بررسی شباهت زیادی به طرح جنجالی صیانت دارد که پیش‌تر متوقف شده بود."
+        ],
+        "impact": "تشدید خفقان دیجیتال و بستن آخرین روزنه‌های ارتباط آزاد شهروندان با جهان خارج.",
+        "tag": "اینترنت",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610285520",
+        "clean_url": "https://www.iranintl.com/en/202610285520",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793201160.0
     },
     {
         "id": "1d839d4646",
@@ -5442,41 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hSjhpYUVLa2tuc0IzbmxtakhHanRJc1B4MkwtMFVuemM4d3BJS3lzTDQyZm5DNnN3aklBZDJPMWE3am5HOHNvS1FOM2hqcjRac1luZ3Jn",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792944183.0
-    },
-    {
-        "id": "ce22bd8444",
-        "title_fa": "هشدار درباره تداوم سایه تهدیدهای تهران بر اسرائیل",
-        "title_en": "Iran's threat remains as Israel risks an endless cycle of war",
-        "summary": [
-            "چالش اصلی امنیتی تل‌آویو همچنان پابرجا مانده و خطر ورود به چرخه فرساینده جنگ وجود دارد.",
-            "سیاست‌های منطقه‌ای حکومت همچنان به عنوان یک تهدید مستمر برای ثبات مرزها ارزیابی می‌شود."
-        ],
-        "impact": "حفظ آماده‌باش نظامی و امنیتی در مرزهای سرزمین‌های اشغالی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSF95TUFuaU11LWFiNFAzbTJEOUYxX3pEajg5bTNNNTBYcXEtXzlicWMtajRhRmNJTVR6aHMzMFVjdUVOa0hsN0NnYmJTSVVxa0N2Y0Y5VUZiSDF2Wnp5RFdQUlJRTzdZOFI4UmVlbWw2NTNjYUNRT2IyOC1QWVhQWkZiaTU0QlFDd1F2TFBYTFdDTlpDTU1BSzF2TG1uRHlLSEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSF95TUFuaU11LWFiNFAzbTJEOUYxX3pEajg5bTNNNTBYcXEtXzlicWMtajRhRmNJTVR6aHMzMFVjdUVOa0hsN0NnYmJTSVVxa0N2Y0Y5VUZiSDF2Wnp5RFdQUlJRTzdZOFI4UmVlbWw2NTNjYUNRT2IyOC1QWVhQWkZiaTU0QlFDd1F2TFBYTFdDTlpDTU1BSzF2TG1uRHlLSEE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792942428.0
-    },
-    {
-        "id": "29757b3b5c",
-        "title_fa": "فرار رالی داکار از عربستان به دلیل تهدیدات نیابتی",
-        "title_en": "Houthi threats force Dakar Rally out of Saudi Arabia after seven years",
-        "summary": [
-            "مسابقات رالی داکار پس از هفت سال به دلیل ناامنی‌های ناشی از تهدیدات پهپادی و موشکی گروه‌های تحت حمایت ت-ه-ر-ا-ن در عربستان، مکان برگزاری خود را تغییر می‌دهد.",
-            "رئیس سازمان روانشناسی کشور از نزدیک بودن بحران سلامت روان به دلیل فشارهای اقتصادی و بحران‌های فرساینده خبر داد."
-        ],
-        "impact": "تأثیر مستقیم ناامنی‌های منطقه‌ای بر پروژه‌های بزرگ اقتصادی و گردشگری در عربستان.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610253921",
-        "clean_url": "https://www.iranintl.com/en/202610253921",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/e0b74cfb5ce9e680bf8d21eed0b671ce82045519-5472x3648.jpg?rect=530,852,4942,2595&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1792941840.0
     }
 ]
