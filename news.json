@@ -1,5 +1,23 @@
 [
     {
+        "id": "4ac39d009f",
+        "title_fa": "رؤیای نفت ۱۳۰ دلاری در بودجه خروج از بحران ج.ه",
+        "title_en": "Tehran plans for $130 oil it struggles to sell",
+        "summary": [
+            "طراحان بودجه دولت قیمت نفت را روی رقم غیرئواقعی ۱۳۰ دلار برای سال آینده بسته اند، در حالی که صادرات نفت کشور به دلیل تحریم ها و درگیری ها فلج شده است.",
+            "رئیس سازمان برنامه و بودجه از تایید دستورالعمل بودجه خبر داده اما عمداً از اعلام قیمت پایه نفت خودداری کرده تا ابعاد فاجعه اقتصادی پنهان بماند."
+        ],
+        "impact": "این ارقام غیرواقعی در بودجه یعنی تعمیق کسری بودجه و فشار بیشتر تورمی بر سفره مردم.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610279331",
+        "clean_url": "https://www.iranintl.com/en/202610279331",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/f87a3844d1534f42a4af32021c9faa3f86d2cc63-1280x853.jpg?w=576&h=384&q=90&fit=max&auto=format",
+        "timestamp": 1793152800.0
+    },
+    {
         "id": "148d5b1d06",
         "title_fa": "هشدار واشنگتن به کشورهای خلیج فارس درباره احتمال درگیری شدید با ایران",
         "title_en": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
@@ -5454,23 +5472,5 @@
         "clean_url": "https://pakobserver.net/speakers-call-for-muslim-unity-caution-against-wider-regional-conflict-at-figs-seminar",
         "image": "https://pakobserver.net/wp-content/uploads/2026/10/speakers-call-for-muslim-unity-caution-against-wider-regional-conflict-at-figs-seminar-pakobserver-783896.jpg",
         "timestamp": 1792886400.0
-    },
-    {
-        "id": "a559348dad",
-        "title_fa": "حضور اوباما در میشیگان برای حمایت از نامزد دموکرات",
-        "title_en": "Obama dismisses past disagreement, rallies for El-Sayed in Detroit",
-        "summary": [
-            "باراک اوباما با سفر به دیترویت به طور رسمی وارد میدان رقابت‌های فشرده سنا در ایالت کلیدی میشیگان شد.",
-            "این حمایت سنگین با هدف عبور از اختلاف‌نظرهای گذشته و تقویت جبهه دموکرات‌ها در برابر رقیب جمهوری‌خواه صورت گرفت."
-        ],
-        "impact": "تغییر موازنه به نفع نامزدهای دموکرات در یکی از پرهزینه‌ترین رقابت‌های سنا.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/10/obama-dismisses-past-disagreement-rallies-for-el-sayed-in-detroit.html",
-        "clean_url": "https://www.mlive.com/politics/2026/10/obama-dismisses-past-disagreement-rallies-for-el-sayed-in-detroit.html",
-        "image": "http://www.bing.com/th?id=ONUT.YgzZCRZKUtA9MIwT5xIZWQ&pid=News",
-        "timestamp": 1792884600.0
     }
 ]
