@@ -729,6 +729,24 @@
         "timestamp": 1793121360.0
     },
     {
+        "id": "2032bd6b0d",
+        "title_fa": "آخرین تحولات و اخبار مربوط به بنیامین نتانیاهو",
+        "title_en": "Benjamin Netanyahu",
+        "summary": [
+            "خبرگزاری‌ها آخرین موضع‌گیری‌ها و اقدامات نخست‌وزیر رژیم صهیونیستی را رصد می‌کنند.",
+            "بررسی تازه ترین تصمیمات امنیتی و نظامی در تل آویو در دستور کار رسانه ها قرار دارد."
+        ],
+        "impact": "بازتاب مستقیم تصمیمات نخست وزیر اسرائیل بر تحولات امنیتی منطقه",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Hill",
+        "url": "https://thehill.com/people/benjamin-netanyahu/",
+        "clean_url": "https://thehill.com/people/benjamin-netanyahu",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793120880.0
+    },
+    {
         "id": "d444c7c950",
         "title_fa": "چرخش ناگهانی نظرسنجی‌ها به نفع دمکرات‌ها",
         "title_en": "Top election forecaster shifts 21 races in Democrats’ direction",
@@ -5455,23 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUs5UENpTE0wZDRNcWxmeVR6cEk4cXJ1ZmhJT21ycG9EdFRMRXdxMEU3ZS1RUng3RFJQelZTN09ZanBtdUY5V2pFdWliZVZLenNpejc5VEt6YmFYZ2dIUEROV0xDUUZVdmp5aWdILVZfS0RKLUxHOEUxc2l0amhzTE1fTGV4TVHSAYcBQVVfeXFMTnZTUXBPQ2stQm0tdGp2TGVuLWt2V1FUdmthSzdBQy1yTlBZbi0zZzZ3VFJWejl3R2VUR2p4cFdoZmVSbWU3QVRLU3hEbUxlV09uNlFUQ25weTF0YXFfZUJ3N1J0NXJqajdUU3pGSmhKUEZ0cVdYMVVxYm1hdE5Zakh0dXdMSnNR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792898112.0
-    },
-    {
-        "id": "787203bd05",
-        "title_fa": "واکنش عراقچی به تهدیدات ترامپ درباره حملات جدید",
-        "title_en": "Iran dismisses Trump warning of fresh attacks: 'They will not try again if there's any rationality'",
-        "summary": [
-            "عباس عراقچی ادعا کرد آم-ریکا و اسر-ائیل توان تغییر نتیجه در صورت تکرار حمله را ندارند.",
-            "دستگاه دیپلماسی حکومت همچنان با لحنی تدافعی به دنبال کم‌اهمیت جلوه‌ دادن تهدیدات واشنگتن است."
-        ],
-        "impact": "افزایش جنگ روانی و لفظی میان مقام‌های ارشد دو طرف",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Hindustan Times on MSN",
-        "url": "https://www.msn.com/en-in/news/world/iran-dismisses-trump-warning-of-fresh-attacks-they-will-not-try-again-if-theres-any-rationality/ar-AA2g1xa2",
-        "clean_url": "https://www.msn.com/en-in/news/world/iran-dismisses-trump-warning-of-fresh-attacks-they-will-not-try-again-if-theres-any-rationality/ar-AA2g1xa2",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792897560.0
     }
 ]
