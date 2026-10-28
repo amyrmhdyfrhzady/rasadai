@@ -1,5 +1,23 @@
 [
     {
+        "id": "c0c46f8b32",
+        "title_fa": "طرح پاکستان برای پایان درگیری‌ها با تایید ترامپ",
+        "title_en": "Trump says attacking Iran was 'one of the greatest things' he ever did",
+        "summary": [
+            "دونالد ترامپ اقدام علیه جـمـهـورۍ اسـلـامـۍ را یکی از بزرگترین کارهای دوران ریاست‌جمهوری خود خوانده است.",
+            "اسلام‌آباد با تایید واشنگتن طرحی را برای پایان دادن به تنش‌ها روی میز گذاشته که کشورهای منطقه ضامن اجرای آن خواهند بود."
+        ],
+        "impact": "آزمون جدی برای حاکمیت جهت انتخاب میان تن دادن به مطالبات منطقه‌ای یا ادامه بن‌بست پرهزینه.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610274438",
+        "clean_url": "https://www.iranintl.com/en/202610274438",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793144400.0
+    },
+    {
         "id": "ce824884c2",
         "title_fa": "سرسام‌آور شدن هزینه‌های جنگ برای ج.م",
         "title_en": "Iran war cost increases to $47 billion",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://www.nation.com.pk/25-Oct-2026/istanbul-islamabad",
         "image": "https://www.nation.com.pk/uploads/facebook_post_images/2026-10-25/facebook_post_image_1792907501.jpg",
         "timestamp": 1792874340.0
-    },
-    {
-        "id": "419a7816b0",
-        "title_fa": "طرح‌های ترور مقام‌های آمریکایی توسط ج.ا در مرحله نهایی",
-        "title_en": "Iran in ‘advanced stages’ of plots to kill U.S. officials abroad, memo warns",
-        "summary": [
-            "اسناد افشا شده از واشنگتن‌پست نشان می‌دهد نهادهای امنیتی ج.ا برنامه‌ریزی برای ترور دیپلمات‌ها و مقام‌های ارشد پیشین ایالات متحده را در خارج از خاک این کشور وارد فاز پیشرفته‌ای کرده‌اند.",
-            "این سناریوی ترور به عنوان ابزاری برای انتقام‌گیری و با وجود هشدارهای مکرر امنیتی دنبال می‌شود که زنگ خطر را برای سرویس‌های حفاظتی غرب به صدا درآورده است."
-        ],
-        "impact": "افزایش سطح تهدیدات امنیتی و تشدید اقدامات حفاظتی برای مقام‌های آمریکایی در سراسر جهان.",
-        "tag": "امنیتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792872863.0
     }
 ]
