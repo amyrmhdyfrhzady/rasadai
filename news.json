@@ -1,5 +1,24 @@
 [
     {
+        "id": "83a1901827",
+        "title_fa": "آمادگی آمریکا برای ضربات سخت به تاسیسات ج.ا",
+        "title_en": "Trump Eyes New Iran Blitz After Midterm Elections",
+        "summary": [
+            "دولت ترامپ به کشورهای عربی حوزه خلیج فارس هشدار داده که خود را برای عملیات نظامی شدید علیه تهران آماده کنند.",
+            "نیروهای آمریکایی در حال تقویت پدافند موشکی اسرائیل و جابجایی از پایگاه‌های آسیب‌پذیر هستند.",
+            "ترامپ تمایل خود را برای حمله به زیرساخت‌ها و تاسیسات اتمی ایران ابراز کرده است."
+        ],
+        "impact": "افزایش شدید ریسک نظامی و التهاب در بازارهای مالی با نزدیک شدن به احتمال درگیری مستقیم.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Independent Journal Review",
+        "url": "https://ijr.com/discover/article/trump-eyes-new-iran-blitz-after-midterm-elections-2ad8a11d-a65f-4cc5-8fc9-0e9c23bbc865",
+        "clean_url": "https://ijr.com/discover/article/trump-eyes-new-iran-blitz-after-midterm-elections-2ad8a11d-a65f-4cc5-8fc9-0e9c23bbc865",
+        "image": "https://6pwlv5vzvfnbrzqk.public.blob.vercel-storage.com/ijrcom/2ad8a11d-a65f-4cc5-8fc9-0e9c23bbc865.jpg",
+        "timestamp": 1793206200.0
+    },
+    {
         "id": "5f22143b3a",
         "title_fa": "بازگشت سایه جنگ و تنش میان محور عبری-غربی و ج.ا",
         "title_en": "Settler Violence, A New Israeli Government, and Return to U.S.-Israel-Iran War",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHhTZzcwNHBoX2MtUUNwZ1NZcUx3T1NZSVFHY3BZU200SnF5YS1TdzJrZThxRkNfODNOWnMwVHkyTFZDZGYydUw4Y2xoeTBLS1VnYXNMUGFJN0JpbG9xSE9vNGZWSWpneFFVamVFZ2I4VDJkVkNERDkzODdVZ0UxQWotSXI2SG5SbDZkWjk2S195dHdSNWFGX1EwUGVwUjZlei10aUJR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792947082.0
-    },
-    {
-        "id": "d1ca0c5882",
-        "title_fa": "کاهش قیمت نفت با فروکش کردن تنش‌های نظامی",
-        "title_en": "Oil drops from near six-month highs on hopes Iran war hostilities to ease",
-        "summary": [
-            "بهای نفت پس از صعود به بالاترین سطح در شش ماه اخیر، روز دوشنبه با امید به کاهش درگیری‌ها افت کرد.",
-            "حملات مداوم به عربستان همچنان نگرانی‌ها درباره ثبات عرضه انرژی در بازار جهانی را زنده نگه داشته است."
-        ],
-        "impact": "بازار انرژی موقتاً نفس راحت کشید، اما سایه ناامنی همچنان بر سر عرضه نفت سنگینی می‌کند.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25/",
-        "clean_url": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25",
-        "image": "http://www.bing.com/th?id=ONUT.kJPZjxmNtN1Dbk3U274y_g&pid=News",
-        "timestamp": 1792945500.0
     }
 ]
