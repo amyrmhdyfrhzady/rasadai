@@ -36,6 +36,24 @@
         "timestamp": 1793162945.0
     },
     {
+        "id": "59cb1b9410",
+        "title_fa": "کودتای اطلاعاتی سپاه برای کنترل تجارت نفت تحریمی",
+        "title_en": "Inside the alleged IRGC Intelligence takeover of Iran's sanctioned oil trade",
+        "summary": [
+            "سازمان اطلاعات سپاه با یک مهره‌چینی حساب‌شده کنترل کامل بازار نفت تحریمی را قبضه کرده است.",
+            "اختلافات درون‌حکومتی بر سر مدیریت بحران نفت و برکناری وزیر نفت ابعاد تازه‌ای پیدا کرده است."
+        ],
+        "impact": "تشدید جنگ قدرت میان باندهای حکومتی برای تصاحب منابع مالی باقی‌مانده.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610280690",
+        "clean_url": "https://www.iranintl.com/en/202610280690",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/916268714dcb5392b04995af17a341ec12199408-1024x576.jpg?rect=0,19,1024,538&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1793162340.0
+    },
+    {
         "id": "3bbb4d48fa",
         "title_fa": "بن‌بست سیاسی در تل‌آویو؛ گزینه‌های شکننده پیش‌روی نتانیاهو",
         "title_en": "The options before Israel: A Netanyahu-Eisenkot deal, a minority government or no new government",
@@ -5455,23 +5473,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/iran-dismisses-trump-warning-of-fresh-attacks-they-will-not-try-again-if-theres-any-rationality/ar-AA2g1xa2",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792897560.0
-    },
-    {
-        "id": "0d4c23460d",
-        "title_fa": "پس‌لرزه‌های موج ترامپ در نوادا و تقلاهای فرماندار",
-        "title_en": "Is this purple state about to go blue? Nevada’s GOP governor faces an anti-Trump backlash",
-        "summary": [
-            "موج نارضایتی از وضعیت تورم، فرماندار جمهوری‌خواه نوادا را در کوران رقابت‌های سیاسی در موضع ضعف قرار داده است.",
-            "دموکرات‌ها با تمام توان تلاش می‌کنند تا عملکرد اقتصادی دولت را به پای نامزدهای حزب حریف بنویسند."
-        ],
-        "impact": "تضعیف جایگاه فرمانداران هم‌حزبی ترامپ به دلیل چالش‌های حل‌نشده اقتصادی.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford",
-        "clean_url": "https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford",
-        "image": "http://www.bing.com/th?id=ONUT.d1zWfXosE_AoLu_Xf0dXdQ&pid=News",
-        "timestamp": 1792897200.0
     }
 ]
