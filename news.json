@@ -1,5 +1,25 @@
 [
     {
+        "id": "521b960900",
+        "title_fa": "آماده‌سازی گزینه‌های نظامی ترامپ علیه ج.ا پس از انتخابات",
+        "title_en": "Trump says Iran 'tapping' US along until election 'not going to help them'",
+        "summary": [
+            "ترامپ با ادبیات مبهم و تهدیدآمیز، احتمال هرگونه اقدام نظامی پس از انتخابات میان‌دوره‌ای را باز گذاشته است.",
+            "پنتاگون در حال جابه‌جایی ناوهای هواپیمابر و استقرار سامانه‌های پاتریوت در اسرائیل برای آمادگی جهت یک عملیات ضربتی است.",
+            "پیام واشینگتن به کشورهای خلیج فارس، آمادگی برای یک کارزار نظامی کوتاه اما بسیار سنگین است.",
+            "استراتژی فشار حداکثری در حال بازگشت به فاز نظامی است تا تهران را پیش از هرگونه مذاکره احتمالی به عقب‌نشینی وادار کند."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی مستقیم در خاورمیانه و فشار بی‌سابقه بر توان دفاعی ج.ا.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/10/624/351/28e439242597475c3b8d1167da420596.jpg?ve=1&tl=1",
+        "timestamp": 1793209440.0
+    },
+    {
         "id": "83a1901827",
         "title_fa": "آمادگی آمریکا برای ضربات سخت به تاسیسات ج.ا",
         "title_en": "Trump Eyes New Iran Blitz After Midterm Elections",
@@ -5465,23 +5485,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5laHNxcmRGTEVtZXF2eHhsTlNHbFR4NFNqZ1d2cWI5X1lPSnUydmRzQ3preHdGNFZIOUhjaWJ0RXJKNFZGSzFHbmNqM1oydHRnN0E",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792949739.0
-    },
-    {
-        "id": "e02ee1b640",
-        "title_fa": "ترامپ: در سایت‌های هسته‌ای ایران و «کوه‌کلنگ» اتفاق خاصی نمی‌افتد",
-        "title_en": "Donald Trump says 'isn’t much going on' at Iranian nuclear sites, Pickaxe Mountain",
-        "summary": [
-            "ترامپ با اشاره مستقیم به تأسیسات زیرزمینی در «کوه‌کلنگ»، مدعی رکود فعالیت‌های حساس هسته‌ای در این بخش شد.",
-            "تمرکز علنی بر این سایت کوهستانی، پیامی آشکار از اشراف اطلاعاتی کامل آمریکا بر عمق پروژه‌های اتمی تهران است."
-        ],
-        "impact": "سیگنال مهار تنش نظامی فوری علیه مراکز اتمی، هم‌زمان با تثبیت فشار نظارتی سنگین بر پروژه‌های زیرزمینی.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uR0ZFU0VxNjhhczZzNkR1RXBKT1dVbjZkWDdVakk0dlJsMXl4M2lFOTJ1YnRTdTJITFdaTVF2MVNtMi15WkZiVURUN25SdWNsbl9WNExHS1dmWmRTTWpGRHRFR0FBeC1uOGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uR0ZFU0VxNjhhczZzNkR1RXBKT1dVbjZkWDdVakk0dlJsMXl4M2lFOTJ1YnRTdTJITFdaTVF2MVNtMi15WkZiVURUN25SdWNsbl9WNExHS1dmWmRTTWpGRHRFR0FBeC1uOGc",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792949501.0
     }
 ]
