@@ -54,6 +54,24 @@
         "timestamp": 1793183468.0928156
     },
     {
+        "id": "e038dc7d0f",
+        "title_fa": "رونمایی روسیه از جلیقه ضدگلوله با سیستم کنترل خونریزی",
+        "title_en": "Rostec's new Obereg GR body armor incorporates bleeding control system",
+        "summary": [
+            "شرکت دولتی روستک جلیقه محافظ جدیدی برای متخصصان مین‌زدایی طراحی کرده که به سیستم خودکار بندآورنده خون مجهز است.",
+            "این تجهیزات با وزن پنج کیلوگرمی برای حفظ تحرک و کار طولانی‌مدت پرسنل در مناطق بحرانی بهینه‌سازی شده است."
+        ],
+        "impact": "توسعه تجهیزات انفرادی پیشرفته توسط روسیه برای کاهش تلفات انسانی در مناطق جنگی و مین‌گذاری‌شده.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2209339",
+        "clean_url": "https://tass.com/defense/2209339",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793182320.0
+    },
+    {
         "id": "a5b1bc34d9",
         "title_fa": "طرح ۷ روزه قطر برای پایان درگیری‌ها",
         "title_en": "Report: Qatar presents Iran new 7-day peace plan to end war with US and Israel",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/riyadh-reopens-its-international-airport-as-attacks-by-iran-backed-houthis-persist",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792922220.0
-    },
-    {
-        "id": "c4e011948e",
-        "title_fa": "زنگ خطر بحران سلامت روان در جامعه تحت فشار",
-        "title_en": "Iran nearing mental-health emergency, psychology chief says",
-        "summary": [
-            "رئیس سازمان نظام روان‌شناسی هشدار داد که جامعه ایران به دلیل بحران‌های انباشته به آستانه وضعیت اضطراری روحی رسیده است.",
-            "بلاتکلیفی مداوم میان جنگ و صلح به همراه فشارهای شدید معیشتی، فرسودگی روانی شهروندان را به شدت بالا برده است."
-        ],
-        "impact": "فروپاشی روانی جامعه و تشدید آسیب‌های اجتماعی به دلیل سیاست‌های کلان حکومتی.",
-        "tag": "اجتماعی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610252275",
-        "clean_url": "https://www.iranintl.com/en/202610252275",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/c10494bee264ed7c0ced083fbcba06e0d403a004-1000x667.jpg?rect=0,72,1000,525&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1792921560.0
     }
 ]
