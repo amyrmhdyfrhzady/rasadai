@@ -728,6 +728,24 @@
         "timestamp": 1793097377.0
     },
     {
+        "id": "57ed941552",
+        "title_fa": "کمک ماهواره‌ای مسکو به شبکه نیابتی ج.ا برای حمله به عربستان",
+        "title_en": "Satélites rusos ayudan a aliados de Irán a atacar a Arabia Saudí, según datos y autoridades",
+        "summary": [
+            "داده‌های اطلاعاتی نشان می‌دهد ماهواره‌های روسی به متحدان منطقه‌ای تهران در طراحی و هدایت حملات پهپادی و موشکی به عربستان سعودی یاری می‌رسانند.",
+            "این همکاری نظامی پشت‌پرده، ابعاد جدیدی از اتحاد راهبردی کرملین با شبکه نیابتی ج.ا در منطقه را عیان می‌کند."
+        ],
+        "impact": "تشدید ناامنی‌های مرزی و افزایش فشار امنیتی بر ریاض از طریق فناوری‌های فضایی روسیه.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Independent en Español on MSN",
+        "url": "https://www.msn.com/es-us/noticias/other/sat%C3%A9lites-rusos-ayudan-a-aliados-de-ir%C3%A1n-a-atacar-a-arabia-saud%C3%AD-seg%C3%BAn-datos-y-autoridades/ar-AA2gb0bs",
+        "clean_url": "https://www.msn.com/es-us/noticias/other/sat%C3%A9lites-rusos-ayudan-a-aliados-de-ir%C3%A1n-a-atacar-a-arabia-saud%C3%AD-seg%C3%BAn-datos-y-autoridades/ar-AA2gb0bs",
+        "image": "http://www.bing.com/th?id=ONUT.Z06pGlaVuREYrTdlw9WEeA&pid=News",
+        "timestamp": 1793096024.0
+    },
+    {
         "id": "19582a51f2",
         "title_fa": "آمادگی نظامی آمریکا و جهش قیمت نفت در سایه تهدیدهای ترامپ",
         "title_en": "\"Collateral damage'",
@@ -5455,24 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVlUV194bG9BWmFubXdJc1ZZTGlYSHZadG5zNERMemhaVkZiNnNqRjlEM1dzMVg3dm1MeHZ4ZjJvNVY1ZEw2QkpSbVR4YW14VnNvcjI2aTBIMUQ3MTRxMk1uMXBJU3BNUGhZdlFSalg1cHBhbU9BTGM4M2Job0tjMDU4QnhSdTFLYnVrRW5GYnBxQVo2eUxkQmV5MW9FTGMtQjBQdVluRVVXNTA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792875301.0
-    },
-    {
-        "id": "ba03b9515a",
-        "title_fa": "طرح دیپلماتیک استانبول برای مهار جنگ در تنگه هرمز",
-        "title_en": "From Istanbul to Islamabad",
-        "summary": [
-            "تبادل تهدیدهای نظامی میان واشنگتن، تهران و تل‌آویو، امنیت کشتیرانی در تنگه هرمز و باب‌المندب را به نقطه بحرانی رسانده است.",
-            "گروه E3 و R4 در استانبول تلاش می‌کنند با احیای توافق صلح اسلام‌آباد، واشنگتن و تهران را مجدداً به پای میز مذاکره بکشانند.",
-            "کلید اصلی این طرح، ایجاد آتش‌بس موقت و کاهش هم‌زمان تنش‌های نظامی در منطقه است."
-        ],
-        "impact": "شکست این ابتکار دیپلماتیک خطر رویارویی مستقیم نظامی در خطوط انتقال انرژی و جهش قیمت نفت را بشدت افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Nation",
-        "url": "https://www.nation.com.pk/25-Oct-2026/istanbul-islamabad",
-        "clean_url": "https://www.nation.com.pk/25-Oct-2026/istanbul-islamabad",
-        "image": "https://www.nation.com.pk/uploads/facebook_post_images/2026-10-25/facebook_post_image_1792907501.jpg",
-        "timestamp": 1792874340.0
     }
 ]
