@@ -1,5 +1,23 @@
 [
     {
+        "id": "351eae7f4d",
+        "title_fa": "فشار تورم جنگی بر سفره‌های مردم",
+        "title_en": "Iranians cut essentials and put dreams on hold as war-hit economy bites",
+        "summary": [
+            "خانواده‌های ایرانی به دلیل بحران اقتصادی ناشی از تقابل با آمریکا، ناچار به حذف هزینه‌های مسکن، آموزش و مواد غذایی شده‌اند.",
+            "تورم بی‌سابقه دهه‌های اخیر در حال نابودی توان خرید و آوردن دهک‌های مختلف به آستانه فروپاشی است."
+        ],
+        "impact": "فروپاشی قدرت خرید و گسترش فقیرسازی عمومی در سایه بحران‌های کلان.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iranians-cut-essentials-put-dreams-hold-as-war-hit-economy-bites-2026-10-28/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iranians-cut-essentials-put-dreams-hold-as-war-hit-economy-bites-2026-10-28",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793189940.0
+    },
+    {
         "id": "5cc4198501",
         "title_fa": "پاسخ رد تهران به طرح قطری برای پایان تنش با آمریکا",
         "title_en": "Iran rejects 'unacceptable' proposal by Qatar to end war with US",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/netanyahu-warns-iran-may-try-to-disrupt-election-says-dont-test-us/ar-AA2g1OBr",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792924140.0
-    },
-    {
-        "id": "d820d5f497",
-        "title_fa": "حاشیه جنجالی پرونده اپستین در تجمع انتخاباتی میشیگان",
-        "title_en": "'OBAMA NOT IN EPSTEIN FILES!' Crowd ERUPTS In Cheers After Surprise Shout At El-Sayed Rally",
-        "summary": [
-            "فریاد یکی از حاضران درباره پرونده اپستین و اوباما در میان سخنرانی انتخاباتی عبدالالسیل حاشیه‌ساز شد.",
-            "این اتفاق میان حملات نامزد دموکرات به سیاست‌های ترامپ درباره جنگ با ایران رخ داد."
-        ],
-        "impact": "انحراف موقت افکار عمومی در جریان رقابت‌های انتخاباتی سنای آمریکا.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/obama-not-in-epstein-files-crowd-erupts-in-cheers-after-surprise-shout-at-el-sayed-rally/videoshow/135197026.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/obama-not-in-epstein-files-crowd-erupts-in-cheers-after-surprise-shout-at-el-sayed-rally/videoshow/135197026.cms",
-        "image": "https://static.toiimg.com/thumb/msid-135197026,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1792923480.0
     }
 ]
