@@ -290,6 +290,25 @@
         "timestamp": 1793183468.0928156
     },
     {
+        "id": "a91d7525a9",
+        "title_fa": "هشدار درباره فروپاشی اقتصادی ج.م.ا و رکود بزرگ",
+        "title_en": "Iran's Great Depression? Economists weigh Bessent's dire forecast",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا پیش‌بینی کرد اقتصاد ج.م.ا تا سال آینده بیش از ۲۵ درصد کوچکتر شود.",
+            "تلاش حکومت برای تامین هزینه‌های جنگی از طریق چاپ پول، تورم را به شدت بالا می‌برد.",
+            "قطع درآمدهای نفتی و بحران‌های داخلی، کشور را به سمت یک رکود بی‌سابقه هل می‌دهد."
+        ],
+        "impact": "سقوط آزاد ارزش ریال و نابودی کامل قدرت خرید مردم در سایه سیاست‌های جنگ‌طلبانه حاکمیت.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610281254",
+        "clean_url": "https://www.iranintl.com/en/202610281254",
+        "image": "http://www.bing.com/th?id=ONUT.W84yUgrZQ4H_oEwnuOU54Q&pid=News",
+        "timestamp": 1793182800.0
+    },
+    {
         "id": "e038dc7d0f",
         "title_fa": "رونمایی روسیه از جلیقه ضدگلوله با سیستم کنترل خونریزی",
         "title_en": "Rostec's new Obereg GR body armor incorporates bleeding control system",
@@ -5462,23 +5481,5 @@
         "clean_url": "https://www.reuters.com/business/energy/oil-prices-down-almost-1-early-trading-2026-10-25",
         "image": "http://www.bing.com/th?id=ONUT.kJPZjxmNtN1Dbk3U274y_g&pid=News",
         "timestamp": 1792945500.0
-    },
-    {
-        "id": "81d1fd6f0a",
-        "title_fa": "هشدار اتمی نتانیاهو و احکام قضایی برای طنزپرداان منتقد",
-        "title_en": "Netanyahu shares AI nuclear blast, warns of second Holocaust if not elected",
-        "summary": [
-            "بنیامین نتانیاهو با انتشار تصویری ساختگی از انفجار اتمی، خطر دستیابی تـ‌هـ‌ر‌ا‌ن به سلاح هسته‌ای را برجسته کرد.",
-            "دستگاه قضایی حکومت پرونده جدیدی علیه یک کمدین به اتهام حمایت از اسرائیل و دودمان پهلوی گشود."
-        ],
-        "impact": "افزایش شکاف‌های سیاسی داخلی در اسرائیل هم‌زمان با تشدید سرکوب فرهنگی در داخل ایـ‌ر‌ا‌ن.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610253076",
-        "clean_url": "https://www.iranintl.com/en/202610253076",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792944360.0
     }
 ]
