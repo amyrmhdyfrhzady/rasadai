@@ -19,6 +19,25 @@
         "timestamp": 1793215848.0
     },
     {
+        "id": "f9be436a0b",
+        "title_fa": "فروپاشی اقتصاد جـ.ا. با رکود بی‌سابقه ۲۵ درصدی",
+        "title_en": "Trump says Iran talks underway but outcome uncertain",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا از کوچک شدن بیش از ۲۵ درصدی اقتصاد جـ.ا. تا سال آینده میلادی خبر داد.",
+            "چاپ پول بدون پشتوانه برای تامین هزینه‌های جنگی، تورم را به طور وحشتناکی افزایش می‌دهد.",
+            "این حجم از فروپاشی اقتصادی تنها در دوران رکود بزرگ آمریکا یا سال‌های نخست جنگ ایران و عراق سابقه داشته است."
+        ],
+        "impact": "تشدید بحران ارزی و فلج شدن کامل توان مالی سیستم در تامین هزینه‌های داخلی و نیابتی.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610289594",
+        "clean_url": "https://www.iranintl.com/en/202610289594",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793214300.0
+    },
+    {
         "id": "307fbd03a0",
         "title_fa": "هشدار خزانه داری آمریکا از فروپاشی تاریخی اقتصاد جـ.ا",
         "title_en": "Iranian professor handed nine-years in prison for backing protests",
@@ -5467,24 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwdXRraG93cVdZRVBESjVTT0JEREpoejljd3hHakVyOFR3TWw5MjNiVko5ZXpGZmZFVXlndm50R1NtcGpfX0F6dmJDdURab2tQU0ZfZXFB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792957164.0
-    },
-    {
-        "id": "7fd707d360",
-        "title_fa": "التماس دیپلماسی در عین پافشاری بر مواضع شکست‌خورده",
-        "title_en": "Iran says diplomacy with US remains open despite ‘unilateral demands’",
-        "summary": [
-            "دستگاه دیپلماسی ج.ا مدعی است با وجود مطالبات یک‌طرفه آمریکا، کانال‌های واسطه برای مذاکره همچنان باز است.",
-            "تهران به شدت درخواست‌های واشنگتن برای تسلیم کامل را رد کرده و آن را غیرقابل پذیرش می‌داند.",
-            "مقام وزارت خارجه اتهامات مربوط به دخالت در پایگاه نظامی بریتانیا را رد کرد."
-        ],
-        "impact": "تلاش مذبوحانه برای حفظ کانال‌های مذاکره زیر فشار تحریم‌ها و تهدیدات.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610263520",
-        "clean_url": "https://www.iranintl.com/en/202610263520",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792956240.0
     }
 ]
