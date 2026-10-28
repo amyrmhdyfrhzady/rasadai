@@ -1,5 +1,23 @@
 [
     {
+        "id": "a1dd673d74",
+        "title_fa": "گزارش کنگره آمریکا درباره گزینه نظامی علیه برنامه اتمی و موشکی ج.ا",
+        "title_en": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
+        "summary": [
+            "موسسه نیروی دریایی آمریکا از ارائه گزارش جدیدی به کنگره درباره سناریوهای عملیات نظامی ضد زیرساخت‌های موشکی و اتمی ایران خبر داد.",
+            "این گزارش نشان می‌دهد واشنگتن گزینه‌های سخت‌افزاری خود را روی میز نگه داشته است."
+        ],
+        "impact": "افزایش ریسک امنیتی و فشار روانی بر بازارهای مالی ایران.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "USNI News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVFSNEwwVjZuY18yNV96bDdpYkpwVWxhNVFkWVh1QjJ6WWR3dnpIVUZIVjZHTjFJRkdOeWhORVM4TkVOT0ZiUmM2MU96UlR2V2xwOVJzay1VVjNCYnZwNVg2eDk5YWt3NVlpRnBIS05yTi1BMUwxTFJqOTFBSDFWbWlTVU5Vblgxa1lFbVJwWlhidFBXVGtDMm8zWS1QcmtvZDdmbVBmcjEtaWMzRnd3MU9teUZpRHMtVEVV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVFSNEwwVjZuY18yNV96bDdpYkpwVWxhNVFkWVh1QjJ6WWR3dnpIVUZIVjZHTjFJRkdOeWhORVM4TkVOT0ZiUmM2MU96UlR2V2xwOVJzay1VVjNCYnZwNVg2eDk5YWt3NVlpRnBIS05yTi1BMUwxTFJqOTFBSDFWbWlTVU5Vblgxa1lFbVJwWlhidFBXVGtDMm8zWS1QcmtvZDdmbVBmcjEtaWMzRnd3MU9teUZpRHMtVEVV",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793195220.0
+    },
+    {
         "id": "df2c2b1c22",
         "title_fa": "تایید عدم بازسازی تاسیسات اتمی بمب‌باران‌شده ایران توسط آژانس",
         "title_en": "UN nuclear chief reports no signs of Iran repairing bombed nuclear sites",
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaXQtc251UEhYNHRtZVEzc25XbEJySmtGNWRScUl5SllJMFJLS0xtNUNVYzVjMTBBN3AzeHRJTE80UGdQZC1maG0wVGlHSmJkU01LT2o1NExQcmFaRmJIa1ZWaWhRYXZOaFVqUVNmT211am12NG5uZi1mZFhqbm1KdTVsamVYZW9NREw1ZGdicFR1VWxvUC0yY1BOdlU2LVNtNmVoVEJ0WVFxc3pnN293YXFsdks5U1F0eHVrcEdzaVJCam9qalJkdjZGQVI3bnhoenc0cUxQRXdYQXdBUFVCenVkdnZKVXRoU1E4QUkyYnUxdw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793194680.0
+    },
+    {
+        "id": "e229a78c4a",
+        "title_fa": "ادعای پوتین درباره عدم استثمار آفریقا توسط روسیه",
+        "title_en": "Russian business in Africa not involved in 'predatory exploitation' of resources — Putin",
+        "summary": [
+            "ولادیمیر پوتین ادعا کرد فعالیت شرکت‌های روس در آفریقا برخلاف استعمارگران غربی با هدف استثمار منابع نیست.",
+            "مسکو تلاش می‌کند با مانور روی فرآوری محلی مواد معدنی، نفوذ خود را در قاره سیاه حفظ کند."
+        ],
+        "impact": "تلاش مسکو برای تثبیت جایگاه اقتصادی خود در بازارهای جهانی خارج از تحریم‌های غرب.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2209525",
+        "clean_url": "https://tass.com/economy/2209525",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793191560.0
     },
     {
         "id": "351eae7f4d",
@@ -5438,41 +5474,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNTF2a054SEo5d3diUWlfUWRZNUFzY2ozeExfTElwVDZqejZnTXJiSVJ3SUYzaGpnQm1mTnhnZ3RZOGxYYlotWlVDMXlBOC12WHk0M2VuZXlrYWpJYlNsLUZCTFFDU1FUOE1BUjZiLTZ2RVFjbU1KTlQ4M2x1czVFWUduQmJfVVpMblgySk1ESHQ2V0JST1BfYzJlbFA4aG9qa1NhUDdB0gGrAUFVX3lxTFBMZ1ZZcjNkQTJMa09YemdZcy1SS3RJdHVWZlVfRVpLNEFmMk11czFpZmw4c1gzWEZVaXJTSzdncXRvT3J0UDRuUjVmVUJrMXZvVEVkMnhDX1lOM1VrOUtkWFpoLU8xSV84Qnc2MjFFRGtJSC04LVpxSHZEaFdtRnBlZGxCdGdkOFVVV1pGOTNfYVhmSXJsQ3BEOXVDVERYRlRrUTZoOWU2aHUxOA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792926960.0
-    },
-    {
-        "id": "53f6b5729e",
-        "title_fa": "رهگیری موشک‌ها و پهپادهای حوثی توسط عربستان",
-        "title_en": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues",
-        "summary": [
-            "پدافند عربستان باز هم حملات پهپادی و موشک‌های شبه‌نظامیان یمنی را در آسمان این کشور شکار کرد.",
-            "این درگیری‌ها نشان می‌دهد که تهران همچنان به تجهیز نیابتی‌های خود در منطقه ادامه می‌دهد."
-        ],
-        "impact": "تداوم تنش‌های مرزی و اثبات بی‌ثمر بودن فشارهای تسلیحاتی جـ.م.ا به عربستان.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NWF81NHNuMzBMaE1aSTRmMWdJaTFOcXZKTFlIZXBneXlRc2Y2OFM0LUczd1VqNVotR1lHZzZ1NGZmeG5hUXhuMkE5M3JnekN4WWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NWF81NHNuMzBMaE1aSTRmMWdJaTFOcXZKTFlIZXBneXlRc2Y2OFM0LUczd1VqNVotR1lHZzZ1NGZmeG5hUXhuMkE5M3JnekN4WWc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792926448.0
-    },
-    {
-        "id": "916184a76b",
-        "title_fa": "خط و نشان قالیباف برای ترامپ؛ پاسخ فراتر از تصور",
-        "title_en": "'STRIKE IRAN, FACE CONSEQUENCES': Tehran Warns Trump Of Big Revenge If US Launches New Strike",
-        "summary": [
-            "محمدباقر قالیباف در واکنش به احتمال اقدام نظامی آمریکا، تهدید کرد که پاسخ تروخسکو ایران غیرقابل تصور خواهد بود.",
-            "او لحن واشنگتن را زورگویانه خوانdu و اعلام کرد تهدید به جنگ هیچ تاثیری روی مواضع نظام ندارد."
-        ],
-        "impact": "افزایش تنش‌های لفظی میان مقامات ارشد ج.ا.ا و دولت آمریکا در آستانه بازگشت ترامپ",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/strike-iran-face-consequences-tehran-warns-trump-of-big-revenge-if-us-launches-new-strike/videoshow/135196411.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/strike-iran-face-consequences-tehran-warns-trump-of-big-revenge-if-us-launches-new-strike/videoshow/135196411.cms",
-        "image": "https://static.toiimg.com/thumb/msid-135196411,width-800,resizemode-4/135196411.jpg",
-        "timestamp": 1792924800.0
     }
 ]
