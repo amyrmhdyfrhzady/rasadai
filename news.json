@@ -309,6 +309,24 @@
         "timestamp": 1793129972.0
     },
     {
+        "id": "be831c733b",
+        "title_fa": "مجهول ماندن سرنوشت اورانیوم ۶۰ درصدی پس از حمله",
+        "title_en": "Iran's nuclear material depot remains a mystery after US attack",
+        "summary": [
+            "آژانس بین‌المللی انرژی اتمی هنوز هیچ اطلاع دقیقی از وضعیت انبار مواد هسته‌ای ایران پس از حملات ژوئن ۲۰۲۵ ندارد.",
+            "ذخایر حدود ۴۴۰ کیلوگرمی اورانیوم با غنای بالا پیش از حملات در اختیار حاکمیت بود که اکنون وضعیت آن در هاله‌ای از ابهام است."
+        ],
+        "impact": "افزایش نگرانی‌های امنیتی غرب از گم شدن یا پنهان‌سازی مواد شکاف‌پذیر در تأسیسات هسته‌ای.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "news.laodong",
+        "url": "https://news.laodong.vn/the-gioi/kho-vat-lieu-hat-nhan-iran-van-la-an-so-sau-cuoc-tan-cong-cua-my-1790483.ldo",
+        "clean_url": "https://news.laodong.vn/the-gioi/kho-vat-lieu-hat-nhan-iran-van-la-an-so-sau-cuoc-tan-cong-cua-my-1790483.ldo",
+        "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/10/28/1790483/Iaea.jpg?w=800&h=420&crop=auto&scale=both",
+        "timestamp": 1793129700.0
+    },
+    {
         "id": "bc4c8767f8",
         "title_fa": "نمایش قدرت انتخاباتی ترامپ و رقیب دمکرات در تگزاس",
         "title_en": "Trump and Talarico offer Texas split screen with dueling rallies just miles apart",
@@ -581,6 +599,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793122859.0
+    },
+    {
+        "id": "a8977e52a3",
+        "title_fa": "ادعای نماینده ج.ا در سازمان ملل درباره تروریسم اقتصادی",
+        "title_en": "Sanctions equal economic terrorism, Iran tells UN",
+        "summary": [
+            "نماینده موقت ایران در سازمان ملل تحریم‌های یک‌جانبه را مصداق بارز تروریسم اقتصادی و تجاوز دانست.",
+            "این مقام مجمع عمومی را تریبونی برای محکومیت سیاست‌های واشنگتن علیه کوبا و ایران قرار داد."
+        ],
+        "impact": "تلاش دیپلماتیک بی‌نتیجه برای مشروعیت‌زدایی از تحریم‌های بین‌المللی در مجامع جهانی.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Mehr News Agency",
+        "url": "https://en.mehrnews.com/news/248975/Sanctions-equal-economic-terrorism-Iran-tells-UN",
+        "clean_url": "https://en.mehrnews.com/news/248975/Sanctions-equal-economic-terrorism-Iran-tells-UN",
+        "image": "https://media.mehrnews.com/d/2026/07/29/4/6114527.jpg?ts=1785308649236",
+        "timestamp": 1793121360.0
     },
     {
         "id": "d444c7c950",
@@ -5436,41 +5472,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeVBKZWd6VHJ4QjdOdFdSTzNVT2NDQUlsaUpfLXdvbjB6RndMSG4wUFZEbUk2R0M1MVRfOXBNTTU0NU1XRnNpVWxCaUlqUWVEd3B6ZTktX1VENnI2Q2E2cTN5RkxiN1BWVlE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792896201.0
-    },
-    {
-        "id": "1c516bd721",
-        "title_fa": "پافشاری وزارت خارجه بر ادامه سیاست‌های منطقه‌ای با وجود تهدیدها",
-        "title_en": "Iran will not change policies despite new war threats: Araghchi",
-        "summary": [
-            "عباس عراقچی مدعی شد تهدیدهای جنگی تغییری در رویکرد حاکمیت ایجاد نمی‌کند.",
-            "تهران هم‌زمان با تهدید آمریکا، از آمادگی برای همکاری با کشورهای عربی همسایه سخن گفت."
-        ],
-        "impact": "تنش‌های منطقه‌ای همچنان پابرجا می‌ماند و دیپلماسی تحت سایه تهدید نظامی ادامه دارد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Siasat Daily",
-        "url": "https://www.siasat.com/iran-will-not-change-policies-despite-new-war-threats-araghchi-3564161/",
-        "clean_url": "https://www.siasat.com/iran-will-not-change-policies-despite-new-war-threats-araghchi-3564161",
-        "image": "http://www.bing.com/th?id=ONUT.7Wrp3YAeB_j2rBpo3CSvbw&pid=News",
-        "timestamp": 1792893900.0
-    },
-    {
-        "id": "89a9d279dd",
-        "title_fa": "تهدید ترامپ به اقدام نظامی فوری علیه تـهـران",
-        "title_en": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-        "summary": [
-            "دونالد ترامپ از احتمال حمله نظامی به ایـرا‌ن تا روز یکشنبه خبر داده و تاکید کرده که واشنگتن ممکن است کار را یکسره کند یا به توافق برسد.",
-            "مسعود پزشکیان آمریکا را عامل به هم خوردن مذاکرات خوانده و طرف مقابل را ترسو توصیف کرده است، در حالی که همچنان بر تلاش برای توافق اصرار دارد."
-        ],
-        "impact": "افزایش شدید ریسک نظامی در منطقه و نوسان فوری در بازارهای مالی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261024__D4BY63U__v1__HighRes__UsPoliticsTrumpVote-1792880838.jpg?resize=1920%2C1440",
-        "timestamp": 1792892520.0
     }
 ]
