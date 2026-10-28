@@ -1,5 +1,23 @@
 [
     {
+        "id": "0a384a62e7",
+        "title_fa": "آمریکا ادعای سپاه درباره عقب‌نشینی از تنگه هرمز را رد کرد",
+        "title_en": "‘We Never Left’: US Rejects Iran’s Hormuz Retreat Claim As IRGC Threatens To Sink American Warships",
+        "summary": [
+            "فرمانده نیروی دریایی سپاه ادعا کرده بود ناوهای آمریکایی از خلیج فارس عقب‌نشینی کرده‌اند و تهدید به غرق کردن آن‌ها کرد.",
+            "سنتکام با رد این اظهارات تأکید کرد که نیروهای آمریکایی و متحدان منطقه‌ای کنترل کامل آبراه حیاتی تنگه هرمز را در دست دارند."
+        ],
+        "impact": "بالا گرفتن جنگ روانی و تقابل نظامی در آب‌های خلیج فارس",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/international/we-never-left-us-rejects-irans-hormuz-retreat-claim-as-irgc-threatens-to-sink-american-warships/videoshow/135253402.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/international/we-never-left-us-rejects-irans-hormuz-retreat-claim-as-irgc-threatens-to-sink-american-warships/videoshow/135253402.cms",
+        "image": "https://www.bing.com/th?id=ONUT.XTHYoNJDPySpTt1Eq-iApA",
+        "timestamp": 1793183468.0928156
+    },
+    {
         "id": "a5b1bc34d9",
         "title_fa": "طرح ۷ روزه قطر برای پایان درگیری‌ها",
         "title_en": "Report: Qatar presents Iran new 7-day peace plan to end war with US and Israel",
@@ -417,6 +435,24 @@
         "clean_url": "https://www.iranintl.com/en/202610279331",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/f87a3844d1534f42a4af32021c9faa3f86d2cc63-1280x853.jpg?w=576&h=384&q=90&fit=max&auto=format",
         "timestamp": 1793152800.0
+    },
+    {
+        "id": "5169942e73",
+        "title_fa": "آزمایش موفقیت‌آمیز سیستم ناوبری پهپاد روسی بدون نیاز به جی‌پی‌اس",
+        "title_en": "Russia conducts tests of SOVA autonomous navigation system for UAVs",
+        "summary": [
+            "روسیه سیستم ناوبری جدیدی به نام سوا را برای پرواز پهپادها در شرایط قطع بودن سیگنال‌های ماهواره‌ای تست کرد.",
+            "این سیستم مبتنی بر بینایی ماشین است و با تطبیق تصاویر دوربین با نقشه‌های ماهواره‌ای، موقعیت پهپاد را تعیین می‌کند."
+        ],
+        "impact": "افزایش قابلیت عملیاتی پهپادها در جنگ الکترونیک و مناطق فاقد پوشش جی‌پی‌اس",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2209275",
+        "clean_url": "https://tass.com/defense/2209275",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793152020.0
     },
     {
         "id": "148d5b1d06",
@@ -5436,41 +5472,5 @@
         "clean_url": "https://www.iranintl.com/en/202610253765",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792917720.0
-    },
-    {
-        "id": "c9ac047d67",
-        "title_fa": "ترامپ: اقتصاد در اوج است و تنگه هرمز در کنترل ماست",
-        "title_en": "Trump touts booming economy, control in Strait of Hormuz as GOP fights to hold Congress",
-        "summary": [
-            "دونالد ترامپ در گفتگوی اخیر خود از وضعیت رو به رشد اقتصاد و تسلط راهبردی بر آبراه حیاتی تنگه هرمز دفاع کرد.",
-            "این موضع‌گیری در آستانه رقابت‌های انتخاباتی کنگره با هدف بازتعریف قدرت واشنگتن در بازارهای جهانی و عرصه‌های نظامی مطرح شده است."
-        ],
-        "impact": "تلاش برای حفظ اکثریت کنگره با اتکا به دستاوردهای اقتصادی و تسلط نظامی.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/video/6407383391112",
-        "clean_url": "https://www.foxnews.com/video/6407383391112",
-        "image": "http://www.bing.com/th?id=ONUT.Ckaxg06qOzamRLBoUEQH9Q&pid=News",
-        "timestamp": 1792917480.0
-    },
-    {
-        "id": "fbc813e484",
-        "title_fa": "توجیه خسارات جنگ به نام برکت و سرکوب منتقدان",
-        "title_en": "Iran official says war brought 'blessings' despite damage",
-        "summary": [
-            "مقام‌های وزارت خارجه جـمـهـورۍ اسـلامـۍ ویرانی‌های ناشی از جنگ را فرصت اقتصادی می‌نامند تا ناکارآمدی خود را پنهان کنند.",
-            "دستگاه قضایی جـمـهـورۍ اسـلامـۍ سعید شکیبا، کمدین منتقد، را به دلیل تقلید صدای رهبر پیشین و حمایت از پهلوی متهم کرد."
-        ],
-        "impact": "تشدید فضای امنیتی داخل کشور و استمرار سیاست سرکوب صدای مخالفان توسط حکومت.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610251543",
-        "clean_url": "https://www.iranintl.com/en/202610251543",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792917000.0
     }
 ]
