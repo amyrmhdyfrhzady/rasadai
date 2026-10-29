@@ -345,6 +345,24 @@
         "timestamp": 1793246744.0
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "مرور اخبار زرد و حاشیه‌های ورزشی آمریکا",
+        "title_en": "US latest news",
+        "summary": [
+            "این گزارش به حواشی چهره‌های ورزشی و مسابقات بیسبال آمریکا پرداخته است.",
+            "موضوعاتی درباره رسانه‌های ورزشی و زندگی چهره‌ها مطرح شده است."
+        ],
+        "impact": "فاقد تاثیر سیاسی، امنیتی یا اقتصادی بر تحولات کلان.",
+        "tag": "ورزشی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1793242740.0
+    },
+    {
         "id": "93c2ab260d",
         "title_fa": "شبکه پنهان نظامی برای دور زدن تحریم‌ها",
         "title_en": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekNBM2tCWmN5VUNQR1QyLUxXbU1EbFdWT2JZQ1ZEWGlrZ3kxLTZieEQ3T2d2d1l2cHhYcU1qcHJKdWxOaDl1MVIzTGFiQjFGcF9MX0U2QllaS01NNDd2T0pBWnFRYU5PRzNsT3ZRTFJKSmw5OURoY2x4Q3o0dmFxQUc0Tklkdm5sZ2xVWmVoNTVyR3N6MFlJcnNoU0JFcmlDX1VTenlWaUw0d01YUzVWMlJDdGdncWcxUGJHSA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793001312.0
-    },
-    {
-        "id": "8da71eef13",
-        "title_fa": "نتانیاهو متهم به دامن زدن به تنش با ایـران در آستانه انتخابات",
-        "title_en": "Opponents Accuse Netanyahu of Stoking Tensions With Iran Before Israel's Election",
-        "summary": [
-            "اسرائیل در ساعات پایانی یک رقابت انتخاباتی فشرده قرار دارد و تنش با تـهران به ابزار سیاسی تبدیل شده است.",
-            "منتقدان، بنیامین نتانیاهو را به بحران‌آفرینی عمدی با ارتش اسرائیل بر سر پرونده ایـران متهم کرده‌اند."
-        ],
-        "impact": "موضوع ایـران دوباره به محور اصلی و جنجالی رقابت‌های سیاسی داخلی اسرائیل تبدیل شد.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "U.S. News & World Report",
-        "url": "https://www.usnews.com/news/world/articles/2026-10-26/netanyahu-denies-reports-about-escalation-with-iran-in-last-day-before-election",
-        "clean_url": "https://www.usnews.com/news/world/articles/2026-10-26/netanyahu-denies-reports-about-escalation-with-iran-in-last-day-before-election",
-        "image": "https://www.usnews.com/dims4/USNEWS/8f4d5af/2147483647/thumbnail/970x647/quality/85/?url=https://www.usnews.com/cmsmedia/a6/79960e57e8534f8f3112cd30a6e4af/5fc2f9ac2f8f43adaf8ba720da7e7f8aIsrael_Elections_72341.jpg",
-        "timestamp": 1793000940.0
     }
 ]
