@@ -477,6 +477,24 @@
         "timestamp": 1793210508.0
     },
     {
+        "id": "bc56d76b11",
+        "title_fa": "آماده‌باش آمریکا و متحدان برای احتمال درگیری با ای*ران",
+        "title_en": "EEUU pide a aliados prepararse para posibles ataques de Irán tras las elecciones, dicen fuentes AP",
+        "summary": [
+            "مقام‌های واشنگتن به کشورهای منطقه هشدار داده‌اند خود را برای تحرکات نظامی احتمالی آماده کنند.",
+            "این هشدارها پس از تحولات انتخاباتی و افزایش احتمال تنش‌های نظامی صادر شده است."
+        ],
+        "impact": "افزایش ریسک امنیتی و آمادگی نظامی در سطح کشورهای منطقه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/es-us/noticias/other/eeuu-pide-a-aliados-prepararse-para-posibles-ataques-de-ir%C3%A1n-tras-las-elecciones-dicen-fuentes-ap/ar-AA2ghMyY",
+        "clean_url": "https://www.msn.com/es-us/noticias/other/eeuu-pide-a-aliados-prepararse-para-posibles-ataques-de-ir%C3%A1n-tras-las-elecciones-dicen-fuentes-ap/ar-AA2ghMyY",
+        "image": "http://www.bing.com/th?id=ONUT.rUZ7Bz3X0xLUE_BABfrpcQ&pid=News",
+        "timestamp": 1793209493.0
+    },
+    {
         "id": "521b960900",
         "title_fa": "آماده‌سازی گزینه‌های نظامی ترامپ علیه ج.ا پس از انتخابات",
         "title_en": "Trump says Iran 'tapping' US along until election 'not going to help them'",
@@ -951,6 +969,25 @@
         "clean_url": "https://tass.com/politics/2209417",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261028/1491305.jpg",
         "timestamp": 1793186580.0
+    },
+    {
+        "id": "9dbc6da70f",
+        "title_fa": "ادعای تهران برای اجرای طرح صلح هفت روزه",
+        "title_en": "Irán dice estar dispuesto a aplicar su plan de paz en menos de siete días",
+        "summary": [
+            "مقام‌های ایرانی مدعی تلاش برای پیشبرد طرح صلح از طریق میانجی‌گران منطقه‌ای شده‌اند.",
+            "آمریکا پیش‌تر این طرح را رد کرده بود اما تهران همچنان بر اجرای آن اصرار دارد.",
+            "تنش‌ها در تنگه هرمز و آمادگی نظامی نیروهای مسلح همچنان در بالاترین سطح باقی مانده است."
+        ],
+        "impact": "تلاش دیپلماتیک نمایشی همزمان با تداوم فضای نظامی در منطقه",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Extra",
+        "url": "https://www.extra.ec/noticia/mundo/iran-busca-acelerar-plan-de-paz-de-7-dias-tras-rechazo-de-eeuu-166412.html",
+        "clean_url": "https://www.extra.ec/noticia/mundo/iran-busca-acelerar-plan-de-paz-de-7-dias-tras-rechazo-de-eeuu-166412.html",
+        "image": "http://www.bing.com/th?id=ONUT.ejGClV6eHeVLULH5bJWJmw&pid=News",
+        "timestamp": 1793186460.0
     },
     {
         "id": "ca8abd643d",
@@ -5449,41 +5486,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-s-economic-escape-routes-narrow-oil-revenue-keeps-falling-and-crypto-funds-are-frozen/ar-AA2g52dh",
         "image": "http://www.bing.com/th?id=ONUT.n8J9dmc0JVFfAvAHeMND4Q&pid=News",
         "timestamp": 1792986061.0
-    },
-    {
-        "id": "b17d5e2e71",
-        "title_fa": "حملات پهپادی حوثی‌ها به تاسیسات نفتی و فرودگاه ریاض",
-        "title_en": "Iran-backed Houthis claim strikes on Riyadh airport, Saudi oil sites, Yemen targets",
-        "summary": [
-            "گروه حوثی مدعی هدف قرار دادن فرودگاه ملک خالد و ایستگاه‌های پمپاژ نفت عربستان شد.",
-            "تشدید حملات نیابتی یمن همزمان با تلاش‌های دیپلماتیک برای مهار تنش در منطقه."
-        ],
-        "impact": "افزایش ریسک امنیتی در زیرساخت‌های انرژی عربستان و اختلال در امنیت خلیج فارس.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610264286",
-        "clean_url": "https://www.iranintl.com/en/202610264286",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792984440.0
-    },
-    {
-        "id": "006a8f75bb",
-        "title_fa": "استرداد خلبان استرالیایی به آمریکا؛ قربانی شدن حاکمیت کانبرا پای واشنگتن",
-        "title_en": "Extradition without cause – the case of Dan Duggan",
-        "summary": [
-            "دن دوگان، خلبان سابق تفنگداران دریایی آمریکا که بیش از یک دهه پیش شهروند استرالیا شد، بیش از چهار سال است بدون تشریفات قانونمند حقوقی در بازداشت شدید برای تسلیم به واشنگتن قرار دارد.",
-            "پرونده دوگان اثبات می‌کند کانبرا پس از واگذاری استقلال نظامی خود در قالب پیمان آکوس، این‌بار استقلال قضایی و حقوق شهروندانش را هم به هیئت حاکمه آمریکا واگذار کرده است."
-        ],
-        "impact": "تسلیم کامل دستگاه قضایی استرالیا در برابر فشارهای امنیتی واشنگتن و تعمیق وابستگی کانبرا به کاخ سفید.",
-        "tag": "امنیتی",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Pearls and Irritations",
-        "url": "https://johnmenadue.com/post/2026/10/extradition-without-cause-the-case-of-dan-duggan/",
-        "clean_url": "https://johnmenadue.com/post/2026/10/extradition-without-cause-the-case-of-dan-duggan",
-        "image": "https://www.bing.com/th?id=ONUT.EkUhzojcMWrEkE-1WPZWfQ",
-        "timestamp": 1792983971.5883796
     }
 ]
