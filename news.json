@@ -37,6 +37,25 @@
         "timestamp": 1793293500.0
     },
     {
+        "id": "1870630000",
+        "title_fa": "ادعای مین‌گذاری در هرمز و تغییرات ناگهانی در پنتاگون",
+        "title_en": "Iran claims 4 tankers hit mines in Strait of Hormuz",
+        "summary": [
+            "نیروی دریایی ج.ا مدعی شد چهار نفتکش در تنگه هرمز با مین‌های دریایی برخورد کرده‌اند و این کشتی‌ها را به تردد در مسیرهای غیرقانونی متهم کرد.",
+            "پیت هگزیت، وزیر دفاع آمریکا، ژنرال برت سیلویا را به اتهام افشای اطلاعات محرمانه جنگ با ایران از کار برکنار کرد.",
+            "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، نامه‌ای برای محسن رضایی ارسال کرده تا مذاکرات صلح را از سر بگیرد، اما ترامپ هدف آن را صرفاً ارسال اقلام پزشکی اعلام کرد."
+        ],
+        "impact": "افزایش تنش‌های نظامی در آبراه حیاتی خلیج فارس و همزمان نشانه‌هایی از تلاش برای کانال‌کشی دیپلماتیک پنهان.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/f0360f6fe7a984b3734e6088f4d233465901a9dc5d29419899d24d6bf86ddd6f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https://media.zenfs.com/en/cbs_news_897/db62254a72ae46ed8bec1fb02979ebdd.jpg",
+        "timestamp": 1793293080.0
+    },
+    {
         "id": "678c5c75b8",
         "title_fa": "بازداشت شانزده نفر به اتهام ارتباط با دشمن",
         "title_en": "Iran arrests 16 in connection with alleged US-Israel-linked cells: What to know",
@@ -5459,23 +5478,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-holds-very-good-talks-with-mecca-pact-nations-on-region-s-security/ar-AA2g5oEx",
         "image": "http://www.bing.com/th?id=ONUT.tyOLRr9EgbKoBNJ6Z54KYw&pid=News",
         "timestamp": 1793019704.0
-    },
-    {
-        "id": "5dd76dd8ea",
-        "title_fa": "تحرکات دیپلماتیک در تهران همزمان با اخبار طرح حمله نظامی",
-        "title_en": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
-        "summary": [
-            "دیپلمات‌های رژیم در پی انتشار گزارش‌هایی درباره برنامه‌ریزی ایالات متحده و اسرائیل برای دور جدید درگیری‌ها، سفرهای فشرده‌ای را آغاز کرده‌اند.",
-            "تهران به شدت نگران بازگشت فشار حداکثری و اقدامات ضربتی علیه زیرساخت‌های حیاتی خود است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و بازتاب آن در بازارهای مالی داخلی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793018857.0
     }
 ]
