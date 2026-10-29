@@ -1,5 +1,23 @@
 [
     {
+        "id": "d31bd7f9a8",
+        "title_fa": "دور زدن تحریم‌ها؛ ورود دو میلیارد دلار تجهیزات نظامی به ج.ا",
+        "title_en": "Iran imports at least $2 billion in military supplies despite US blockade",
+        "summary": [
+            "شبکه‌ای پنهان شامل بیش از پنج هزار نهاد نظامی، تجهیزات و مواد منفجره وارد کشور کرده‌اند.",
+            "اسناد کشتیرانی نشان می‌دهد این محموله‌ها شامل سوخت موشک، قطعات هواپیما و کامیون‌های سنگین از چین، روسیه و آلمان است."
+        ],
+        "impact": "شکست محاصره دریایی آمریکا و تداوم تولید تسلیحات با وجود فشارهای سنگین.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610290508",
+        "clean_url": "https://www.iranintl.com/en/202610290508",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/819b53a4b43e52114d4dd6fc04bbb94bf2f2e14d-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1793276160.0
+    },
+    {
         "id": "123a63c2b2",
         "title_fa": "کاهش منابع مالی گروه‌های نیابتی زیر فشار تحریم‌های آمریکا",
         "title_en": "US Treasury Secretary Says Sanctions Forced Iran to Cut Proxy Group Funding",
@@ -5460,24 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3A3YlpqaE1uTzBOU1RJOVFSTFd5bGRiaHpwcGJGeFlSWEdfY2dtakdKZ3hocU53UGRyTWcxZlRyN0tXRm1hY21Hc1JkOVRkV1h1X1NCUGlZXy1kaWttSzhJWWpvTUJBT0J6UEJ1RnBEUkRUcFFXWUxUNVVxWVBSYkctaFNSdkRsNTlDNWFDUnE3ZG94YnJjX2dRQzlmSDdoV01LclNzVGhDd0RFNEs1X1k1V3ZJbjQ1",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793006253.0
-    },
-    {
-        "id": "4c8043b850",
-        "title_fa": "کشته شدن فرماندهان ارشد جهاد اسلامی و حماس در غزه",
-        "title_en": "IDF claims it eliminated four operatives from Islamic Jihad",
-        "summary": [
-            "ارتش اسرائیل از هدف قرار دادن چهار عضو کلیدی حماس و جهاد اسلامی طی درگیری‌های آخر هفته خبر داد.",
-            "علا ابو زید و حمدان سلیمان ابوهامرا از جهاد اسلامی به همراه فوزی سلام و محمد عنان از رهبران یگان نخبه حماس در این حملات کشته شدند.",
-            "مواضع تک‌تیراندازان غزه که برای هدف قرار دادن نیروهای ارتش اسرائیل فعال بودند، منهدم شد."
-        ],
-        "impact": "تضعیف بیشتر بدنه فرماندهی میدانی گروه‌های نیابتی در باریکه غزه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "APA.AZ",
-        "url": "https://en.apa.az/asia/idf-claims-it-eliminated-four-operatives-from-islamic-jihad-532321",
-        "clean_url": "https://en.apa.az/asia/idf-claims-it-eliminated-four-operatives-from-islamic-jihad-532321",
-        "image": "https://en.apa.az/storage/news/2026/october/26/big/6adfabcf5174d6adfabcf5174e17930434076adfabcf5174b6adfabcf5174c.png",
-        "timestamp": 1793006100.0
     }
 ]
