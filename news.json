@@ -73,6 +73,24 @@
         "timestamp": 1793232669.1082735
     },
     {
+        "id": "38c67013b6",
+        "title_fa": "توافق ترامپ با رایزنی پزشکی با ج·ه·م·و·ر·ی ا·س·ل·ا·م·ی",
+        "title_en": "Iran war live: Trump says he approved Vance outreach over medical supplies",
+        "summary": [
+            "ترامپ از تایید درخواست معاونش برای تماس با تهران درباره تجهیزات پزشکی خبر داد.",
+            "عباس عراقچی از تداوم تماس‌ها با میانجی‌گران برای اجرای طرح بازگشایی تنگه هرمز گفت."
+        ],
+        "impact": "تلاش‌های دیپلماتیک همزمان با فشارهای نظامی برای حل بحران وارد فاز تازه‌ای شده است.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6abd16170fc61-1790776855.jpg?resize=1920%2C1440",
+        "timestamp": 1793232000.0
+    },
+    {
         "id": "2e04f466e1",
         "title_fa": "تحرکات پشت پرده واشنگتن همزمان با آماده‌باش منطقه",
         "title_en": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war",
@@ -5468,23 +5486,5 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-26/live-updates-912856",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/743554",
         "timestamp": 1792986720.0
-    },
-    {
-        "id": "a3e49548b6",
-        "title_fa": "آمادگی تهران برای جنگ در سایه ادعای آغاز حملات",
-        "title_en": "Iran signals readiness for war amid claims that strikes have already begun",
-        "summary": [
-            "تهران رسماً سیگنال‌های آماده‌باش نظامی صادر کرده است.",
-            "گزارش‌ها از شروع احتمالی درگیری‌های محدود حکایت دارند."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و تنش نظامی در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Amwaj.media",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFHdzBkSWZpY29vbHpsYXRQanVRQk1aNzRzWmJ2YXZQekFIOEdxd0ltNXRFdG9hU0MzUjJ1cGF6MjN4bTBFNVRnYjM4YWxWVHR0WE5RaDJYR21jOEphcE5SN0lLRmx3dklVbFdwYVlseXFIMXp0MkhlNk80MlhnRVNHdVNLaFFEeUlxd0NneWRLRlU2S2FBYWFIbVB3RjZsM19SenF0LWpHcGI3SWNhUw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFHdzBkSWZpY29vbHpsYXRQanVRQk1aNzRzWmJ2YXZQekFIOEdxd0ltNXRFdG9hU0MzUjJ1cGF6MjN4bTBFNVRnYjM4YWxWVHR0WE5RaDJYR21jOEphcE5SN0lLRmx3dklVbFdwYVlseXFIMXp0MkhlNk80MlhnRVNHdVNLaFFEeUlxd0NneWRLRlU2S2FBYWFIbVB3RjZsM19SenF0LWpHcGI3SWNhUw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792986423.0
     }
 ]
