@@ -583,6 +583,25 @@
         "timestamp": 1793241145.0
     },
     {
+        "id": "e40093b195",
+        "title_fa": "ادعای جنجالی ج.ا درباره انفجار نفتکش‌ها در تنگه هرمز",
+        "title_en": "Iran says 3 oil tankers struck mines, and other Mideast news",
+        "summary": [
+            "سپاه مدعی برخورد سه نفتکش با مین دریایی در مسیرهای غیرمجاز شده که ابهام زیادی در مورد صحت آن وجود دارد.",
+            "این سناریوسازی می‌تواند تلاشی برای ایجاد تنش در آبراه استراتژیک هرمز و باج‌گیری از جامعه جهانی باشد.",
+            "عدم ارائه جزئیات درباره هویت کشتی‌ها و تلفات، نشان‌دهنده ماهیت تبلیغاتی و جنگ روانی این خبر است."
+        ],
+        "impact": "افزایش ناگهانی ریسک کشتیرانی و احتمال جهش قیمت جهانی نفت در صورت تداوم تنش‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/10/29/iran-oil-tankers-mines-mideast-news/",
+        "clean_url": "https://www.bostonherald.com/2026/10/29/iran-oil-tankers-mines-mideast-news",
+        "image": "http://www.bing.com/th?id=ONUT.UrOrIvfhQfnR_dNWvwBh-g&pid=News",
+        "timestamp": 1793237520.0
+    },
+    {
         "id": "f06296f84e",
         "title_fa": "بن‌بست سیاسی در اسرائیل؛ احتمال تکرار انتخابات",
         "title_en": "پس از اعلام نتایج نهایی انتخابات اسرائیل چه اتفاقی می‌افتد؟",
@@ -5459,25 +5478,6 @@
         "url": "https://english.aawsat.com/arab-world/5333747-israeli-strike-gaza-kills-three-including-child",
         "clean_url": "https://english.aawsat.com/arab-world/5333747-israeli-strike-gaza-kills-three-including-child",
         "image": "https://static.srpcdigital.com/styles/1037xauto/public/2026-10/1847518.jpeg.webp?VersionId=p5XGPX4orOHpBn8HAEtT8nKvatQaolaT",
-        "timestamp": 1793008560.0
-    },
-    {
-        "id": "0688fc6328",
-        "title_fa": "پاتک دیپلماتیک ریاض، آنکارا و اسلام‌آباد به بحران تهران",
-        "title_en": "Saudi, Turkish and Pakistani officials to visit Iran for talks",
-        "summary": [
-            "مقام‌های ارشد دفاعی و امنیتی عربستان، ترکیه و پاکستان برای میانجیگری و مهار تنش‌های منطقه‌ای راهی تهران شدند.",
-            "این سفر همزمان با افزایش حملات نیابتی انصارالله به عربستان و بن‌بست در مذاکرات با واشنگتن صورت گرفته است.",
-            "تهران به هیئت اعزامی اعلام کرده که تا زمان پذیرش خواسته‌هایش، هیچ مذاکره‌ای با آمریکا انجام نخواهد داد."
-        ],
-        "impact": "تلاش فشرده منطقه‌ای برای جلوگیری از جنگی فراگیر در سایه بن‌بست تهران و واشنگتن.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610260367",
-        "clean_url": "https://www.iranintl.com/en/202610260367",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/4436629b1e06cabf337a8d220ed8501221640f78-1600x1066.jpg?rect=0,113,1600,840&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1793008560.0
     }
 ]
