@@ -220,6 +220,25 @@
         "timestamp": 1793222940.0
     },
     {
+        "id": "0ac8187748",
+        "title_fa": "احتمال حمله متمادی آمریکا به ائتلاف ج.ا.ا همزمان با مذاکرات غیرمستقیم",
+        "title_en": "US-Iran 'Indirect Talks' Underway Amid Pressure of Renewed Attacks",
+        "summary": [
+            "ایالات متحده همزمان با تقویت توان نظامی خود در منطقه و هماهنگی با اسرائیل، واسطه‌های منطقه‌ای مانند قطر را برای امتیازگیری اتمی فعال کرده است.",
+            "دونالد ترامپ با تهدیدهای صریح خود به دنبال اعمال فشار حداکثری است تا تهران را وادار به تسلیم در پرونده هسته‌ای کند.",
+            "اگر توافق دیپلماتیک پنهانی تا قبل از انتخابات میادترم به نتیجه نرسد، عملیات بمباران اهداف حکومت به سرعت کلید خواهد خورد."
+        ],
+        "impact": "سایه سنگین جنگ و تحریم‌های تازه بر سر اقتصاد و ثبات امنیتی کشور",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "SBS News",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820814",
+        "clean_url": "https://news.sbs.co.kr/english/article.do",
+        "image": "https://img.sbs.co.kr/newimg/news/20261029/202235941_1280.jpg",
+        "timestamp": 1793222400.0
+    },
+    {
         "id": "ada8a075a2",
         "title_fa": "هشدار صریح ترامپ: توافق نکنید، ضربات بعدی سنگین‌تر است",
         "title_en": "Trump: Iran Faces More Strikes If Talks Fail",
@@ -5467,24 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWMyUVNWaVpjX0dkUjcxamdCelRJc2tLNU9mOEFid1JlUUNFUzNGdVg0VTVqVXZXbEV5VjhYbGg0RVNwREVUWmg4UnliWlgzMkk3cWpBREkxS2NGOS1QTXhham40SHJJU2xLVjRzdUs2UGp5OGxfZWxyanl6UGhsT3Z2VDZ2WkpNYlE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792983684.0
-    },
-    {
-        "id": "fc9d888e99",
-        "title_fa": "چالش نتانیاهو در انتخابات؛ سایه ۷ اکتبر و تنش با ایران",
-        "title_en": "Israel elections: 7 October 'failure' and Iran complicate Netanyahu's bid to win again",
-        "summary": [
-            "شکست اطلاعاتی-نظامی ۷ اکتبر و مقابله مستقیم با ج.ا.ا، شانس نتانیاهو برای بقا در قدرت را به شدت تحت تأثیر قرار داده است.",
-            "رقیبان نتانیاهو با مانور روی غافلگیری امنیتی پارسال، صلاحیت او را برای اداره بحران‌های بزرگ زیر سوال برده‌اند.",
-            "سرنوشت کابینه بعدی تل‌آویو مستقیماً به نحوه تقابل با تهدیدات منطقه‌ای و پرونده هسته‌ای ایران گره خورده است."
-        ],
-        "impact": "تزلزل سیاسی در ساختار قدرت اسرائیل می‌تواند منجر به اتخاذ تصمیمات نظامی غیرمنتظره علیه مواضع ایران شود.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Print",
-        "url": "https://www.msn.com/en-in/news/other/israel-elections-7-october-failure-and-iran-complicate-netanyahus-bid-to-win-again/ar-AA2g3eJk",
-        "clean_url": "https://www.msn.com/en-in/news/other/israel-elections-7-october-failure-and-iran-complicate-netanyahus-bid-to-win-again/ar-AA2g3eJk",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2g3hlP.img?w=1200&h=675&m=4&q=100",
-        "timestamp": 1792983651.0
     }
 ]
