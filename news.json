@@ -456,6 +456,24 @@
         "timestamp": 1793251179.0
     },
     {
+        "id": "0fde46a6b2",
+        "title_fa": "انفجار مین در تنگه هرمز برای سه نفتکش",
+        "title_en": "Irán dice que tres petroleros chocaron con minas y otras noticias de Oriente Medio",
+        "summary": [
+            "سه نفتکش هنگام خروج از مسیر غیرمجاز در تنگه هرمز با مین برخورد کردند و منفجر شدند.",
+            "این رویداد امنیتی در یکی از حساس‌ترین گلوگاه‌های انرژی جهان رخ داده است."
+        ],
+        "impact": "افزایش شدید ریسک امنیت تردد در خلیج فارس و رشد نرخ بیمه نفتکش‌ها",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/es-us/noticias/other/ir%C3%A1n-dice-que-tres-petroleros-chocaron-con-minas-y-otras-noticias-de-oriente-medio/ar-AA2gl2BA",
+        "clean_url": "https://www.msn.com/es-us/noticias/other/ir%C3%A1n-dice-que-tres-petroleros-chocaron-con-minas-y-otras-noticias-de-oriente-medio/ar-AA2gl2BA",
+        "image": "http://www.bing.com/th?id=ONUT.gn7FCB4SKgsLr_fLapkyTQ&pid=News",
+        "timestamp": 1793250582.0
+    },
+    {
         "id": "90d98a94c0",
         "title_fa": "بی‌تفاوت نمایی تهران نسبت به تحولات سیاسی اسرائیل",
         "title_en": "Iran shrugs off Israeli elections as pundits in Tehran weigh nuances",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.iranintl.com/en/202610260367",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/4436629b1e06cabf337a8d220ed8501221640f78-1600x1066.jpg?rect=0,113,1600,840&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1793008560.0
-    },
-    {
-        "id": "f34fa6e335",
-        "title_fa": "سایه جنگ و ائتلاف‌ها بر انتخابات اسرائیل",
-        "title_en": "How war, security and coalition math are shaping the Israeli election",
-        "summary": [
-            "موضوعات امنیتی و نظامی نقش اصلی را در تعیین معادلات سیاسی آینده اسرائیل بازی می‌کنند.",
-            "ریاست دولت آینده بیش از هر چیز به توانایی حزب پیروز در ساخت ائتلاف‌های شکننده پارلمانی وابسته است."
-        ],
-        "impact": "جهت‌گیری کابینه بعدی اسرائیل تأثیر مستقیمی بر شدت تنش‌ها در منطقه خواهد داشت.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHZNR2V4OUk0a0E1RXBydWs4MG44VU1vaGJyR0RQT0MyblExdkFNaXVtYXlTd2Z0TnNzNVpHazcxU2dLUklqVFJiUmxHcC03N05Yei1UVEVfcDgwR3lYTU12c0pIR0NTVHVhYzhUWDd0MkJMaVhXclJnUU5iRk1PUGV6cE8tc19tUkHSAY8BQVVfeXFMUE1wZ3BGVllfUUFwbnRYblpSX0xhVkxsWVc4ZFhPbUhRU1JYLTRVSDdzVGVoOHBoOXV0SnVkMk5fMFVEU2tVMHdXb3Y0dFdiSFJYdmdMOXJPQlJVZldVQV9PUjYwWlFRMGVVdjczTGhfamI0QzJ4NkwyZzREbV9SUWRnaGd6bnlVU01fbkNjdlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHZNR2V4OUk0a0E1RXBydWs4MG44VU1vaGJyR0RQT0MyblExdkFNaXVtYXlTd2Z0TnNzNVpHazcxU2dLUklqVFJiUmxHcC03N05Yei1UVEVfcDgwR3lYTU12c0pIR0NTVHVhYzhUWDd0MkJMaVhXclJnUU5iRk1PUGV6cE8tc19tUkHSAY8BQVVfeXFMUE1wZ3BGVllfUUFwbnRYblpSX0xhVkxsWVc4ZFhPbUhRU1JYLTRVSDdzVGVoOHBoOXV0SnVkMk5fMFVEU2tVMHdXb3Y0dFdiSFJYdmdMOXJPQlJVZldVQV9PUjYwWlFRMGVVdjczTGhfamI0QzJ4NkwyZzREbV9SUWRnaGd6bnlVU01fbkNjdlE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793008019.0
     }
 ]
