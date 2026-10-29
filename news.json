@@ -1,5 +1,24 @@
 [
     {
+        "id": "9e1d49e940",
+        "title_fa": "سالمندان تنها؛ بهای سنگین مهاجرت نسل جوان",
+        "title_en": "Growing old alone: The parents Iran's emigrants left behind",
+        "summary": [
+            "مهاجرت گسترده جوانان، والدین سالمند آن‌ها را در ایران با تنهایی و بحران عاطفی عمیقی روبرو کرده است.",
+            "ارتباط خانواده‌ها به واسطه فاصله جغرافیایی، تنها به تماس‌های تصویری و صفحه نمایش گوشی محدود شده است.",
+            "نگهداری از سالمندان در غیاب فرزندان و نبود حمایت‌های اجتماعی، به یک دغدغه جدی برای خانواده‌های ایرانی تبدیل شده است."
+        ],
+        "impact": "گسترش بحران عاطفی و تنهایی مزمن برای والدین سالمندی که فرزندانشان از کشور رفته‌اند.",
+        "tag": "اجتماعی",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610299306",
+        "clean_url": "https://www.iranintl.com/en/202610299306",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/31fe6f6bb411ede64e062b51504039afde465ff4-1536x1024.png?rect=0,109,1536,806&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1793271360.0
+    },
+    {
         "id": "d727c4f540",
         "title_fa": "چرایی ماندگاری تهدید اتمی ج.ا.ا",
         "title_en": "Dismantle, weaponize, or rebuild: Why the Iran nuclear threat isn’t going away",
@@ -5463,24 +5482,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-was-never-running-out-of-firepower-it-was-holding-back/ar-AA2g6mSk",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793004224.0
-    },
-    {
-        "id": "f3df62db7d",
-        "title_fa": "تکذیب شکاف میان نتانیاهو و فرمانده ارتش در پرونده ایران",
-        "title_en": "Israel defense minister denies report of rift between PM, army chief on Iran",
-        "summary": [
-            "وزیر دفاع اسرائیل گزارش‌های مربوط به اختلاف‌نظر شدید میان نتانیاهو و رئیس ستاد کل ارتش درباره نحوه تقابل با ایران را تکذیب کرد.",
-            "این موضع‌گیری پس از درز اخباری مبنی بر تردید ارتش در اجرای برنامه‌های نظامی پرریسک دولت علیه تهران صورت گرفت.",
-            "تل‌آویو با این تکذیبیه تلاش می‌کند تصویر انسجام فرماندهی خود را حفظ کرده و مانع از ارسال سیگنال ضعف به ایران شود."
-        ],
-        "impact": "نمایش وحدت در تل‌آویو ابزاری برای حفظ بازدارندگی و مدیریت افکار عمومی در آستانه تصمیم‌های حساس نظامی است.",
-        "tag": "اسرائیل",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Arab News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekNBM2tCWmN5VUNQR1QyLUxXbU1EbFdWT2JZQ1ZEWGlrZ3kxLTZieEQ3T2d2d1l2cHhYcU1qcHJKdWxOaDl1MVIzTGFiQjFGcF9MX0U2QllaS01NNDd2T0pBWnFRYU5PRzNsT3ZRTFJKSmw5OURoY2x4Q3o0dmFxQUc0Tklkdm5sZ2xVWmVoNTVyR3N6MFlJcnNoU0JFcmlDX1VTenlWaUw0d01YUzVWMlJDdGdncWcxUGJHSA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekNBM2tCWmN5VUNQR1QyLUxXbU1EbFdWT2JZQ1ZEWGlrZ3kxLTZieEQ3T2d2d1l2cHhYcU1qcHJKdWxOaDl1MVIzTGFiQjFGcF9MX0U2QllaS01NNDd2T0pBWnFRYU5PRzNsT3ZRTFJKSmw5OURoY2x4Q3o0dmFxQUc0Tklkdm5sZ2xVWmVoNTVyR3N6MFlJcnNoU0JFcmlDX1VTenlWaUw0d01YUzVWMlJDdGdncWcxUGJHSA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793001312.0
     }
 ]
