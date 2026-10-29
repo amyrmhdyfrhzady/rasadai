@@ -421,6 +421,25 @@
         "timestamp": 1793268059.0
     },
     {
+        "id": "c6445d7464",
+        "title_fa": "تلاش پززشکیان برای کنترل بحران اقتصاد و فشار برای مذاکره",
+        "title_en": "US-Iran: the next round",
+        "summary": [
+            "ریال ارزش خود را تا چهار برابر از دست داده و کسب‌وکارها در حال تعطیلی هستند.",
+            "پزشکیان تقصیر شکست توافق با آمریکا را متوجه واشنگتن می‌داند و اصرار بر تداوم مذاکره دارد.",
+            "عباس عراقچی از طرح هفت روزه و تلاش برای بازگشایی تنگه هرمز در ازای لغو محاصره دریایی سخن می‌گوید."
+        ],
+        "impact": "فشار اقتصادی فلج‌کننده، حاکمیت را ناچار به طرح دوباره گزینه مذاکره و عقب‌نشینی‌های تاکتیکی کرده است.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Express Tribune",
+        "url": "https://tribune.com.pk/story/2637639/us-iran-the-next-round",
+        "clean_url": "https://tribune.com.pk/story/2637639/us-iran-the-next-round",
+        "image": "https://i.tribune.com.pk/media/images/Shahzad-Chaudhry1592677757-0/Shahzad-Chaudhry1592677757-0-640x480.webp",
+        "timestamp": 1793267940.0
+    },
+    {
         "id": "ec77e4955b",
         "title_fa": "هشدار خزانه‌داری آمریکا: انقباض ۲۵ درصدی اقتصاد ایران با صفر شدن صادرات نفت",
         "title_en": "Scott Bessent warns Iran's economy could shrink 25% in a year as US blockade squeezes oil revenue, rial plunges: 'Part of my worry is that…'",
@@ -5462,23 +5481,5 @@
         "clean_url": "https://www.energyintel.com/000001a1-77d2-d31f-a5fb-f7db0e9b0000",
         "image": "https://energyintel.brightspotcdn.com/dims4/default/3b70846/2147483647/strip/true/crop/750x394+0+22/resize/1200x630!/quality/90/?url=http://energy-intelligence-brightspot.s3.us-east-2.amazonaws.com/46/94/6ed25f5a439f8778f0db0b339991/ss-1099946876-us-iran.jpg",
         "timestamp": 1793023920.0
-    },
-    {
-        "id": "5cb3c552ad",
-        "title_fa": "احتمال از سرگیری جنگ با جـ.ـهوری اسـ.ـلامی از سوی نتانیاهو و ترامپ",
-        "title_en": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
-        "summary": [
-            "نخست‌وزیر اسـ.ـرائیل با تکیه بر حمایت‌های دونالد ترامپ در آستانه رای‌گیری، از احتمال فشار نظامی مجدد بر تـ.ـهران سخن گفت.",
-            "این موضع‌گیری نشان‌دهنده هماهنگی نزدیک تل‌آویو و واشنگتن برای اقدامات سخت‌گیرانه علیه برنامه‌های منطقه‌ای و اتمی حـ.ـکومت است."
-        ],
-        "impact": "افزایش شدید ریسک‌های امنیتی و نظامی در منطقه خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUluTlhFbGtJMWMtZ09ieVhSblh2b0Y4cWpleDVwWUVfUWVyanZIOHFhenFqaWRYZ0U0cEd6MFVjQk5xSXZkWjJNRmM4ZWdPa01KTHBRRjVHRnJPRWtlbGRwWFBNOFJnQ3F5Z2JZbjVFVE5ERUxDdmozN0FPUjRkaUpVNGIwRUFTVXhROU95dC1wby0wX2xzTlg2ODlZeDR2cmM3bHFFaHItbGJ6X3gxT2lwX0FONW11aGtoeWFXQmhmc00tWnlQZEhHQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUluTlhFbGtJMWMtZ09ieVhSblh2b0Y4cWpleDVwWUVfUWVyanZIOHFhenFqaWRYZ0U0cEd6MFVjQk5xSXZkWjJNRmM4ZWdPa01KTHBRRjVHRnJPRWtlbGRwWFBNOFJnQ3F5Z2JZbjVFVE5ERUxDdmozN0FPUjRkaUpVNGIwRUFTVXhROU95dC1wby0wX2xzTlg2ODlZeDR2cmM3bHFFaHItbGJ6X3gxT2lwX0FONW11aGtoeWFXQmhmc00tWnlQZEhHQQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793022694.0
     }
 ]
