@@ -1,5 +1,23 @@
 [
     {
+        "id": "6450b1f680",
+        "title_fa": "ادعای ارتش ایران در سرنگونی پهپاد MQ-1 آمریکا در تنگه هرمز",
+        "title_en": "Iran’s army says it downed MQ-1 drone east of Strait of Hormuz",
+        "summary": [
+            "ادعای انهدام پهپاد آمریکایی در شرق تنگه هرمز، تلاش تهران برای نمایش تسلط بر گلوگاه نفتی جهان در اوج تنش‌هاست.",
+            "این‌گونه اخبار و ادعاها معمولاً با هدف خط‌ونشان کشیدن برای سنتکام و بالابردن هزینه تحرکات نظامی واشنگتن در خلیج فارس مطرح می‌شود."
+        ],
+        "impact": "افزایش فوری ریسک دریانوردی در تنگه هرمز و احتمال جهش مقطعی قیمت نفت و هزینه‌های بیمه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeV9oUjY2QjF0RkVjMVFZYnc0UDhvZ3pTS2FIalA2aE9OWjFRb1RLbUFTN1pMT0JoV2hRYkMxd1hpY1BRUndiX1I2UXBta1RsQTItaFFWejhCQWJSdEZ5aEpwTlVzVEEyeW1CWWxWcU5OenNiZVh4dk55UlZVTm9mMzJWaGJPMW1fTUowNlMzYUcwMnpoaC1EUldYNTJzWVJBLVYxY3dMTFg1Z1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeV9oUjY2QjF0RkVjMVFZYnc0UDhvZ3pTS2FIalA2aE9OWjFRb1RLbUFTN1pMT0JoV2hRYkMxd1hpY1BRUndiX1I2UXBta1RsQTItaFFWejhCQWJSdEZ5aEpwTlVzVEEyeW1CWWxWcU5OenNiZVh4dk55UlZVTm9mMzJWaGJPMW1fTUowNlMzYUcwMnpoaC1EUldYNTJzWVJBLVYxY3dMTFg1Z1E",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793255836.0
+    },
+    {
         "id": "8a589b3c6e",
         "title_fa": "صعود آرام بازارهای مالی آمریکا با چراغ سبز فدرال رزرو",
         "title_en": "US Stocks Summary October 28: Stocks rise following dovish FOMC results *Memorandum*",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://www.iranintl.com/en/202610263839",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/c8f99ba68520468984b20dfdad4b85ce2e0464b2-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1792995120.0
-    },
-    {
-        "id": "1db7e5a825",
-        "title_fa": "بقا در قدرت؛ قمار نتانیاهو پس از فاجعه هفت اکتبر",
-        "title_en": "How Netanyahu Could Cling to Power",
-        "summary": [
-            "نتانیاهو با وجود شکست امنیتی بی‌سابقه در هفت اکتبر، همچنان با مانورهای سیاسی سعی در حفظ کرسی نخست‌وزیری دارد.",
-            "تداوم جنگ و ایجاد فضای امنیتی، ابزار اصلی او برای به حاشیه راندن انتقادات داخلی و فرار از پاسخگویی است."
-        ],
-        "impact": "تداوم تنش‌های منطقه‌ای برای جلوگیری از فروپاشی دولت ائتلافی اسرائیل.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/10/26/opinion/israel-elections-netanyahu.html",
-        "clean_url": "https://www.nytimes.com/2026/10/26/opinion/israel-elections-netanyahu.html",
-        "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24koplow-vcqf/24koplow-vcqf-facebookJumbo.jpg",
-        "timestamp": 1792994400.0
     }
 ]
