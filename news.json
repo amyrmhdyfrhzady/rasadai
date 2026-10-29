@@ -346,6 +346,26 @@
         "timestamp": 1793270878.0
     },
     {
+        "id": "57d4cb13b5",
+        "title_fa": "نامه مخفیانه برای مذاکره؛ پشت پرده تحرکات واشنگتن با تهران",
+        "title_en": "Iranian army official says adversaries failed to achieve aims in wars",
+        "summary": [
+            "دونالد ترامپ تایید کرد که معاونش برای ارسال کمک‌های پزشکی به دنبال ارتباط با مقامات ارشد جـ.م. بوده است.",
+            "نشریه وال‌استریت ژورنال از نامه ارسالی به محسن رضایی برای احیای میز مذاکره خبر داد.",
+            "واشنگتن هرگونه گفت‌وگو را منوط به عقب‌نشینی تهران از پرونده هسته‌ای کرده است.",
+            "میانجی‌گری قطر در حالی جریان دارد که ارتش اسرائیل و آمریکا آماده پاسخ نظامی در صورت بن‌بست دیپلماتیک هستند."
+        ],
+        "impact": "تلاش‌های دیپلماتیک همزمان با آماده‌سازی برای گزینه نظامی نشان‌دهنده آخرین فرصت‌های تهران پیش از ضربه سخت است.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610291049",
+        "clean_url": "https://www.iranintl.com/en/202610291049",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793269740.0
+    },
+    {
         "id": "d727c4f540",
         "title_fa": "چرایی ماندگاری تهدید اتمی ج.ا.ا",
         "title_en": "Dismantle, weaponize, or rebuild: Why the Iran nuclear threat isn’t going away",
@@ -5460,23 +5480,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUluTlhFbGtJMWMtZ09ieVhSblh2b0Y4cWpleDVwWUVfUWVyanZIOHFhenFqaWRYZ0U0cEd6MFVjQk5xSXZkWjJNRmM4ZWdPa01KTHBRRjVHRnJPRWtlbGRwWFBNOFJnQ3F5Z2JZbjVFVE5ERUxDdmozN0FPUjRkaUpVNGIwRUFTVXhROU95dC1wby0wX2xzTlg2ODlZeDR2cmM3bHFFaHItbGJ6X3gxT2lwX0FONW11aGtoeWFXQmhmc00tWnlQZEhHQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793022694.0
-    },
-    {
-        "id": "8f8937406e",
-        "title_fa": "حمایت صریح ترامپ از نتانیاهو در معادلات سیاسی اسرائیل",
-        "title_en": "Trump calls on Israelis to vote for 'outstanding Warrior' Netanyahu",
-        "summary": [
-            "دونالد ترامپ در پیامی آشکار از اسرائیلی‌ها خواست به بنیامین نتانیاهو رای بدهند.",
-            "رئیس‌جمهور سابق آمریکا از نتانیاهو به عنوان یک جنگجوی برجسته یاد کرد."
-        ],
-        "impact": "این حمایت سیاسی می‌تواند توازن قدرت را در صحنه سیاسی اسرائیل به نفع ائتلاف حاکم تغییر دهد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/News/middle-east/2026/10/26/trump-calls-on-israelis-to-vote-for-outstanding-warrior-netanyahu",
-        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/10/26/trump-calls-on-israelis-to-vote-for-outstanding-warrior-netanyahu",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793022660.0
     }
 ]
