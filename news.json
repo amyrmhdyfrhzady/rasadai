@@ -220,6 +220,24 @@
         "timestamp": 1793222940.0
     },
     {
+        "id": "beb9c70280",
+        "title_fa": "فراخوان امارات برای کاهش تنش در بحران ایران",
+        "title_en": "UAE urges de-escalation as Iran crisis raises regional risks",
+        "summary": [
+            "امارات متحده عربی خواستار خویشتن‌داری و دیپلماسی برای مهار بحران منطقه‌ای ناشی از تنش‌های ایران شد.",
+            "وزارت خارجه امارات بر لزوم پایبندی به قوانین بین‌المللی و حل مسالمت‌آمیز اختلافات تأکید کرد."
+        ],
+        "impact": "تلاش کشورهای عربی منطقه برای فاصله گرفتن از درگیری احتمالی و کاهش ریسک‌های امنیتی.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610280404",
+        "clean_url": "https://www.iranintl.com/en/202610280404",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793222580.0
+    },
+    {
         "id": "0ac8187748",
         "title_fa": "احتمال حمله متمادی آمریکا به ائتلاف ج.ا.ا همزمان با مذاکرات غیرمستقیم",
         "title_en": "US-Iran 'Indirect Talks' Underway Amid Pressure of Renewed Attacks",
@@ -5467,24 +5485,5 @@
         "clean_url": "https://johnmenadue.com/post/2026/10/extradition-without-cause-the-case-of-dan-duggan",
         "image": "https://www.bing.com/th?id=ONUT.EkUhzojcMWrEkE-1WPZWfQ",
         "timestamp": 1792983971.5883796
-    },
-    {
-        "id": "c97d71ce5e",
-        "title_fa": "«صهیونیسم خاموش» در دل ایران؛ شکاف عمیق جامعه با ایدئولوژی حاکم",
-        "title_en": "Behind Iran’s Iron Curtain, a quiet Zionism",
-        "summary": [
-            "برخلاف پروپگاندای سنگین دستگاه‌های رسانه‌ای، بخش قابل‌توجهی از جامعه ایران زاویه جدی با سیاست‌های منطقه‌ای ر‌ژ‌ی‌م پیدا کرده‌اند.",
-            "همسویی یا تمایل پنهان برخی شهروندان با اسرائیل، بیش از آنکه جنبه عقیدتی داشته باشد، واکنش مستقیم و «نه» بزرگ به ایدئولوژی رسمی ج.ا است.",
-            "شکست کامل ماشین تبلیغاتی حاکمیت در اقناع نسل جدید، یک گسست عمیق میان جامعه و سیاست خارجی تهران ایجاد کرده است."
-        ],
-        "impact": "بی‌اثر شدن پروپگاندای حکومتی در داخل و فروپاشی مشروعیت مردمی سیاست‌های منطقه‌ای تهران.",
-        "tag": "افکار عمومی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWMyUVNWaVpjX0dkUjcxamdCelRJc2tLNU9mOEFid1JlUUNFUzNGdVg0VTVqVXZXbEV5VjhYbGg0RVNwREVUWmg4UnliWlgzMkk3cWpBREkxS2NGOS1QTXhham40SHJJU2xLVjRzdUs2UGp5OGxfZWxyanl6UGhsT3Z2VDZ2WkpNYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWMyUVNWaVpjX0dkUjcxamdCelRJc2tLNU9mOEFid1JlUUNFUzNGdVg0VTVqVXZXbEV5VjhYbGg0RVNwREVUWmg4UnliWlgzMkk3cWpBREkxS2NGOS1QTXhham40SHJJU2xLVjRzdUs2UGp5OGxfZWxyanl6UGhsT3Z2VDZ2WkpNYlE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792983684.0
     }
 ]
