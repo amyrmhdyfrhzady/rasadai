@@ -347,6 +347,25 @@
         "timestamp": 1793224800.0
     },
     {
+        "id": "ff36cb7b30",
+        "title_fa": "هزینه ۴۷ میلیارد دلاری آمریکا در جنگ با ایران و طرح ۷ روزه هرمز",
+        "title_en": "Iran-US war news: Tehran discussing 7-day plan with mediators for Hormuz reopening; US costs of Iran war tops $47 billion",
+        "summary": [
+            "پنتاگون بیش از ۴۷ میلیارد دلار برای جنگ با ایران هزینه کرده که ۲۵ درصد بیشتر از تخمین‌های پیشین وزارت دفاع آمریکاست.",
+            "تهران در حال رایزنی با میانجی‌های منطقه‌ای روی طرحی ۷ روزه برای بازگشایی عبور و مرور در تنگه هرمز است.",
+            "فرسایشی شدن درگیری، محاسبات مالی واشنگتن را به‌هم زده و بازسازی خطوط عبور انرژی به مسئله‌ای حیاتی برای بازار تبدیل شده است."
+        ],
+        "impact": "احتمال بازگشایی موقت تنگه هرمز شوک قیمت انرژی را مهار می‌کند، اما جهش هزینه‌های پنتاگون فشار بر واشنگتن را افزایش داده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ET Now on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-us-war-news-tehran-discussing-7-day-plan-with-mediators-for-hormuz-reopening-us-costs-of-iran-war-tops-47-billion-10-key-developments/ar-AA2gjxCF",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-us-war-news-tehran-discussing-7-day-plan-with-mediators-for-hormuz-reopening-us-costs-of-iran-war-tops-47-billion-10-key-developments/ar-AA2gjxCF",
+        "image": "http://www.bing.com/th?id=ONUT.pqJ2QBwiUCApdjYUNwqtnw&pid=News",
+        "timestamp": 1793224336.0
+    },
+    {
         "id": "cd7c485616",
         "title_fa": "تلاش پشت‌پرده جـ.م برای توافق سریع با آمریکا در ترکیه",
         "title_en": "Iran seeks 4-day peace deal as US talks move to Turkey",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.nytimes.com/2026/10/26/opinion/israel-elections-netanyahu.html",
         "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24koplow-vcqf/24koplow-vcqf-facebookJumbo.jpg",
         "timestamp": 1792994400.0
-    },
-    {
-        "id": "d176612dd0",
-        "title_fa": "پافشاری اسلواکی بر حفظ کانال‌های انرژی با تولیدکنندگان بزرگ",
-        "title_en": "Europe must keep open channels of communication with energy producers — senior Slovak MP",
-        "summary": [
-            "مقام ارشد پارلمان اسلواکی بر ضرورت تامین پایدار انرژی و محافظت از اقتصاد خانوارها تاکید کرد.",
-            "سیاستمداران اسلواک خواستار ارزیابی پیامدهای اقتصادی واقعی تصمیمات سیاسی در حوزه انرژی شدند."
-        ],
-        "impact": "تلاش کشورهای اروپایی برای موازنه‌سازی میان تحریم‌ها و امنیت انرژی.",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2207945",
-        "clean_url": "https://tass.com/world/2207945",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792994160.0
     }
 ]
