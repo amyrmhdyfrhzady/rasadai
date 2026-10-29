@@ -1,5 +1,24 @@
 [
     {
+        "id": "123a63c2b2",
+        "title_fa": "کاهش منابع مالی گروه‌های نیابتی زیر فشار تحریم‌های آمریکا",
+        "title_en": "US Treasury Secretary Says Sanctions Forced Iran to Cut Proxy Group Funding",
+        "summary": [
+            "فشار متمرکز خزانه‌داری آمریکا بر شریان‌های ارزی، دسترسی گروه‌_های نیابتی به بودجه‌های نقدی را مسدودتر کرده است.",
+            "تنگ‌تر شدن حلقه تحریم‌های بانکی، هزینه پشتیبانی از شبه‌نظامیان منطقه‌ای را برای حکومت به شدت بالا برده است.",
+            "افت ارسال پول، خروجی مستقیم انسداد کانال‌های صرافی و شبکه سوئیفت سایه است."
+        ],
+        "impact": "افت توان مالی نیروهای نیابتی و کاهش تحرکات عملیاتی آن‌ها در منطقه.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "IranWire",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGF3dkgwY005VV9rb0d5enRTOEVleURJbjltWkRQOEdtS1c5ZUdvMUtWS05Lb1dXcWx1UzBZU0FKS0t3UTBTSEktTzh4YmFURkdKZHJIQzEtdVBndncwMVE2TW01VU5xdUNyZ1FBVVFoX1lYZTdtTmJ5Tm92MVdXWjBJMHNaUHp0RkRVbjZMallkRVpzT0ZZYjJGRndlOUtKSXlYU3N3X2JJaTBOQUNVdG1n?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGF3dkgwY005VV9rb0d5enRTOEVleURJbjltWkRQOEdtS1c5ZUdvMUtWS05Lb1dXcWx1UzBZU0FKS0t3UTBTSEktTzh4YmFURkdKZHJIQzEtdVBndncwMVE2TW01VU5xdUNyZ1FBVVFoX1lYZTdtTmJ5Tm92MVdXWjBJMHNaUHp0RkRVbjZMallkRVpzT0ZZYjJGRndlOUtKSXlYU3N3X2JJaTBOQUNVdG1n",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793274973.0
+    },
+    {
         "id": "9e1d49e940",
         "title_fa": "سالمندان تنها؛ بهای سنگین مهاجرت نسل جوان",
         "title_en": "Growing old alone: The parents Iran's emigrants left behind",
@@ -5460,24 +5479,5 @@
         "clean_url": "https://en.apa.az/asia/idf-claims-it-eliminated-four-operatives-from-islamic-jihad-532321",
         "image": "https://en.apa.az/storage/news/2026/october/26/big/6adfabcf5174d6adfabcf5174e17930434076adfabcf5174b6adfabcf5174c.png",
         "timestamp": 1793006100.0
-    },
-    {
-        "id": "b31cf27f59",
-        "title_fa": "اختلاف شدید نتانیاهو و آیزنکوت درباره نحوه برخورد با تـ-ـهـ-ـران",
-        "title_en": "Israeli PM Netanyahu and challenger Gadi Eisenkot have very different views on how to end the Iran war",
-        "summary": [
-            "بنیامین نتانیاهو براندازی نظام حاکم بر ایـ-ـران را تنها راه امنیت اسرائیل می‌داند و به دنبال حمله نظامی مشترک با آمریکا بوده است.",
-            "گادی آیزنکوت، رقیب سیاسی نتانیاهو، به جای جنگ تمام‌عیار، روی فشار اقتصادی و ضربه به برنامه‌های هسته‌ای تمرکز دارد.",
-            "واشنگتن تاکنون چراغ سبزی به درخواست تل‌آویو برای اقدام نظامی پیش از انتخابات نشان نداده است."
-        ],
-        "impact": "شکاف در ارکان سیاسی اسرائیل بر سر نوع مواجهه نظامی و تغییر موازنه قدرت با تـ-ـهـ-ـران",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/26/world-news/how-netanyahu-and-challenger-eisenkot-split-on-iran-war/",
-        "clean_url": "https://nypost.com/2026/10/26/world-news/how-netanyahu-and-challenger-eisenkot-split-on-iran-war",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146553422.jpg?quality=75&strip=all&w=1200",
-        "timestamp": 1793005860.0
     }
 ]
