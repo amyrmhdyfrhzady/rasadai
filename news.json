@@ -1,5 +1,24 @@
 [
     {
+        "id": "49cc66ffa0",
+        "title_fa": "احیای دزدی دریایی در سومالی با تمرکز آمریکا بر خلیج فارس",
+        "title_en": "Somali piracy surges as Iran war diverts US naval attention",
+        "summary": [
+            "دزدی دریایی در سواحل سومالی به بالاترین سطح از سال ۲۰۱۳ رسیده است.",
+            "تمرکز نیروی دریایی آمریکا و غرب بر درگیری‌ها با جـمـهـوری اسـلـامی و حملات حوثی‌ها، راه را برای دزدان دریایی هموار کرده است.",
+            "هم‌زمان چندین فروند کشتی و نفت‌کش توسط دزدان ربوده شده و خدمه آن‌ها ماه‌ها در اسارت مانده‌اند."
+        ],
+        "impact": "انحراف توان رزمی دریایی غرب به سمت خاورمیانه، امنیت آب‌های شرق آفریقا را به شدت به خطر انداخته است.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610298792",
+        "clean_url": "https://www.iranintl.com/en/202610298792",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/bdab35223557ac762ae8956bf9fb78c72d2aca4c-1200x856.jpg?rect=33,163,1024,682&w=320&h=213&q=90&fit=max&auto=format",
+        "timestamp": 1793293500.0
+    },
+    {
         "id": "678c5c75b8",
         "title_fa": "بازداشت شانزده نفر به اتهام ارتباط با دشمن",
         "title_en": "Iran arrests 16 in connection with alleged US-Israel-linked cells: What to know",
@@ -5458,24 +5477,5 @@
         "clean_url": "https://www.iranintl.com/en/202610264703",
         "image": "http://www.bing.com/th?id=ONUT.aXa_QUS2NRdSl_hF1y_pSg&pid=News",
         "timestamp": 1793016360.0
-    },
-    {
-        "id": "ce31ea8cff",
-        "title_fa": "تکذیب گزارش‌های تنش نظامی با ایران توسط نتانیاهو در آستانه انتخابات",
-        "title_en": "Netanyahu denies reports about escalation with Iran in last day before election",
-        "summary": [
-            "بنیامین نتانیاهو اخبار منتشرشده درباره تصاعد درگیری با ایران در ساعات پایانی مانده به انتخابات را تکذیب کرد.",
-            "تل‌آویو در این مقطع حساس انتخاباتی تمایلی به باز کردن جبهه جدید یا ایجاد ریسک‌های غیرقابل پیش‌بینی نظامی ندارد.",
-            "این تکذیبیه بیشتر جنبه مدیریت افکار عمومی داخلی دارد و به معنای تغییر در استراتژی تقابل با حکومت ایران نیست."
-        ],
-        "impact": "فروکش کردن موقت التهابات نظامی و کاهش ریسک درگیری مستقیم تا مشخص شدن نتایج انتخابات.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkI0TThPU1J3NWdkSUM4Ny16VU1SaWhPYmY2eUtPZnlhZ05tRUtwV3FDQ2pDMzk0OGx1c1dDZWJSNkhOOUtOTFNESjVnSU9vbVRqbjdWTndINWlYTkhJMnBtbFlVRy03V1BZNEtCYUNmdkJ5eVJoNVZRRGZMb1RsdjV3WjgtcTRURmxnQ1htMHY1bzRSV1hPcUxLODhzYmE5ZGlSbXE0YXRvVWZPSnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkI0TThPU1J3NWdkSUM4Ny16VU1SaWhPYmY2eUtPZnlhZ05tRUtwV3FDQ2pDMzk0OGx1c1dDZWJSNkhOOUtOTFNESjVnSU9vbVRqbjdWTndINWlYTkhJMnBtbFlVRy03V1BZNEtCYUNmdkJ5eVJoNVZRRGZMb1RsdjV3WjgtcTRURmxnQ1htMHY1bzRSV1hPcUxLODhzYmE5ZGlSbXE0YXRvVWZPSnc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793015340.0
     }
 ]
