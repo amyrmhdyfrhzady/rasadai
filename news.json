@@ -1,5 +1,23 @@
 [
     {
+        "id": "3b07a5518c",
+        "title_fa": "مرگ ۶۸ نفر در فاجعه ریلی اسپانیا",
+        "title_en": "At least 68 people dead in Spain's second major train crash this year",
+        "summary": [
+            "برخورد قطار سریع‌السیر با یک قطار متوقف در اسپانیا، مرگبارترین حادثه ریلی اروپا از سال ۲۰۱۳ تاکنون را رقم زد.",
+            "وزیر ترابری اسپانیا اعلام کرد خطای انسانی و مجوز عبور از چراغ قرمز به دلیل نقص سیستم کامپیوتری عامل اصلی این فاجعه بوده است."
+        ],
+        "impact": "این حادثه مرگبار فشار سنگینی بر دولت اسپانیا برای بازنگری فوری در استانداردهای ایمنی خطوط آهن وارد کرده است.",
+        "tag": "بین‌الملل",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Ariana News",
+        "url": "https://www.ariananews.af/at-least-68-people-dead-in-spains-second-major-train-crash-this-year/",
+        "clean_url": "https://www.ariananews.af/at-least-68-people-dead-in-spains-second-major-train-crash-this-year",
+        "image": "https://www.ariananews.af/wp-content/uploads/2026/10/Train-crash.jpg",
+        "timestamp": 1793258460.0
+    },
+    {
         "id": "6450b1f680",
         "title_fa": "ادعای ارتش ایران در سرنگونی پهپاد MQ-1 آمریکا در تنگه هرمز",
         "title_en": "Iran’s army says it downed MQ-1 drone east of Strait of Hormuz",
@@ -5469,24 +5487,5 @@
         "clean_url": "https://tass.com/world/2207955",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1792995300.0
-    },
-    {
-        "id": "623ed90913",
-        "title_fa": "خط‌ونشان مجلس برای همسایگان درباره همکاری با آمریکا و اسرائیل",
-        "title_en": "Iranian lawmaker warns regional countries against helping US, Israel attack Iran",
-        "summary": [
-            "روح‌الله لک‌علی‌آبادی، نماینده مجلس، به کشورهای منطقه هشدار داد که کمک به واشنگتن و تل‌آویو تاوان سنگینی خواهد داشت.",
-            "تهران با این تهدیدها می‌کوشد فضای پشتیبانی لوجستیکی و آسمان کشورهای عربی را روی جنگنده‌های آمریکایی و اسرائیلی ببندد.",
-            "این موضع‌گیری‌های تند در حالی مطرح می‌شود که قطر برای میانجی‌گری و کاهش خطر جنگ در تهران رایزنی می‌کند."
-        ],
-        "impact": "افزایش فشار سیاسی بر کشورهای خلیج فارس جهت منع استفاده آمریکا از پایگاه‌های منطقه‌ای.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610263839",
-        "clean_url": "https://www.iranintl.com/en/202610263839",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/c8f99ba68520468984b20dfdad4b85ce2e0464b2-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1792995120.0
     }
 ]
