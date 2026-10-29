@@ -1,5 +1,23 @@
 [
     {
+        "id": "8a589b3c6e",
+        "title_fa": "صعود آرام بازارهای مالی آمریکا با چراغ سبز فدرال رزرو",
+        "title_en": "US Stocks Summary October 28: Stocks rise following dovish FOMC results *Memorandum*",
+        "summary": [
+            "شاخص‌های اصلی وال‌استریت پس از انتشار گزارش‌های مالی مثبت شرکت‌های بزرگ تکنولوژی و رویکرد ملایم‌تر فدرال رزرو رشد کردند.",
+            "سهم‌هایی مثل مایکروسافت و اوراکل با گزارش‌های فراتر از انتظار، محرک اصلی بازار بودند اما افت سهام آلفابت و افزایش قیمت نفت سنگینی کرد."
+        ],
+        "impact": "آرامش نسبی در بازارهای جهانی و تاثیرپذیری مستقیم قیمت سهام فناوری از گزارش‌های فصلی.",
+        "tag": "اقتصادی",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "note",
+        "url": "https://note.com/future_research/n/na6035ee34f65?hl=en",
+        "clean_url": "https://note.com/future_research/n/na6035ee34f65",
+        "image": "https://www.bing.com/th?id=ONUT.m3aEALuyK9RjafUx4wAo8Q",
+        "timestamp": 1793252474.211341
+    },
+    {
         "id": "90d98a94c0",
         "title_fa": "بی‌تفاوت نمایی تهران نسبت به تحولات سیاسی اسرائیل",
         "title_en": "Iran shrugs off Israeli elections as pundits in Tehran weigh nuances",
@@ -5466,24 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdGt3eVhkeFU2YVNhaFBiLU1OdVBJbi14eURqWVVEemZ5Z1hxN1B3X2ZhRHB1dERkWlg0Mm8wRVFjRGpKem5PbGJZMUFHMVUtSlgwTDA2UlZGazR3TGZRSXdWd2VDYUxvZFBRQg",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1792989300.0
-    },
-    {
-        "id": "3eb1dc4f47",
-        "title_fa": "دیپلماسی فشرده منطقه‌ای در تهران برای مهار تنش‌ها",
-        "title_en": "Delegations meet in Tehran amid U.S.-Iran tensions and escalating Houthi attacks",
-        "summary": [
-            "هیئت‌های ارشد از عربستان، پاکستان و ترکیه برای جلوگیری از جنگ تمام‌عیار با اسرائیل و آمریکا راهی تهران شدند.",
-            "این سفر در سایه هشدارهای صریح رهبران غربی و اصرار مقامات جـمـهـورۍ اسـلا‌مـی بر مواضع خود انجام گرفت.",
-            "پرونده یمن و حملات حـوثـی‌هـا به عربستان از دیگر محورهای کلیدی این مذاکرات محرمانه بود."
-        ],
-        "impact": "تلاش بازیگران منطقه‌ای برای باز کردن خطوط ارتباطی و جلوگیری از فروپاشی کامل توافقات امنیتی.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "The Globe and Mail",
-        "url": "https://www.theglobeandmail.com/world/article-delegations-meet-in-iran-mideast-conflict-houthi-attacks/",
-        "clean_url": "https://www.theglobeandmail.com/world/article-delegations-meet-in-iran-mideast-conflict-houthi-attacks",
-        "image": "http://www.bing.com/th?id=ONUT.x83GGafV00cdMe6lu9GsBw&pid=News",
-        "timestamp": 1792987620.0
     }
 ]
