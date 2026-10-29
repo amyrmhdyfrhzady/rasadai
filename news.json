@@ -1,5 +1,24 @@
 [
     {
+        "id": "e593c75723",
+        "title_fa": "برنامه تهران برای مداخله و اختلال در انتخابات میان‌دوره‌ای آمریکا",
+        "title_en": "Iran plans to disrupt US midterm elections - Telegraph",
+        "summary": [
+            "گزارش دیلی‌تلگراف افشا می‌کند نهادهای اطلاعاتی تهران قصد دارند با کارهای سایبری و راه‌اندازی کارزارهای گمراه‌کننده، روند انتخابات آمریکا را متشنج کنند.",
+            "هدف اصلی این عملیات‌ها، تضعیف رقبای سرسخت ج.ا.ا در واشنگتن و ایجاد حواشی داخلی برای کاهش تمرکز آمریکا بر خاورمیانه است.",
+            "این سناریو می‌تواند پرونده جنگ سایبری میان واشنگتن و تهران را وارد فاز پرریسک‌تر و جدی‌تری کند."
+        ],
+        "impact": "افزایش فشار سناتورهای آمریکایی بر کاخ سفید برای پاسخ تلافی‌جویانه و اعمال تحریم‌های جدید سایبری علیه تهران.",
+        "tag": "سایبری",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XZTZ6NlhnaGFUa013d3B5dW1jZ1VKeVhsdC0xYThkdlNYdjlxcUtrUEIzeDMxWnpNMEpIbndDeUJ3Zlh5LWp4VDFBWDdGWFhmRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XZTZ6NlhnaGFUa013d3B5dW1jZ1VKeVhsdC0xYThkdlNYdjlxcUtrUEIzeDMxWnpNMEpIbndDeUJ3Zlh5LWp4VDFBWDdGWFhmRHc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793265470.0
+    },
+    {
         "id": "2ca4c88d16",
         "title_fa": "دختر تهران در انتخابات آمریکا و اسرائیل",
         "title_en": "Iran prepares to disrupt US midterms after meddling in Israel election",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
         "image": "http://www.bing.com/th?id=ONUT.L3T2JYZAEqG3KP0UqphQTw&pid=News",
         "timestamp": 1792997160.0
-    },
-    {
-        "id": "7520c4bc08",
-        "title_fa": "تکذیب اختلاف نتانیاهو و رئیس ارتش درباره ایران",
-        "title_en": "Netanyahu denies clash with IDF chief over Iran as mystery Iraq strikes raise tensions",
-        "summary": [
-            "نخست‌وزیر اسرائیل در حالی تنش با فرمانده ارتش را رد کرده که حملات ناشناس در عراق، سایه جنگ را سنگین‌تر کرده است.",
-            "تل‌آویو تلاش می‌کند در اوج بحران‌های منطقه‌ای، هماهنگی داخلی را حفظ کند."
-        ],
-        "impact": "بالارفتن سطح آماده‌باش نظامی در مرزها و سایه سنگین حملات پهپادی بر فراز عراق.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ieTRBMVpnUWJfUWdQa3lSM0xnSjhoRFh2OWpHWWE3ZGtvb245MTE1Ym43dldjLXlWNWV4M09zZ25acklyeUl3aWhfNTZRTlVGX2xfUVVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ieTRBMVpnUWJfUWdQa3lSM0xnSjhoRFh2OWpHWWE3ZGtvb245MTE1Ym43dldjLXlWNWV4M09zZ25acklyeUl3aWhfNTZRTlVGX2xfUVVR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1792996151.0
     }
 ]
