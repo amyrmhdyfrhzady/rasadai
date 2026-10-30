@@ -1,5 +1,23 @@
 [
     {
+        "id": "5ddd9555dd",
+        "title_fa": "استقرار جنگنده‌های آمریکایی در سرزمین‌های اشغالی",
+        "title_en": "US military planes arrive in Israel from Texas amid Iran war preparations",
+        "summary": [
+            "پرواز هواپیماهای نظامی ایالات متحده از تگزاس به سمت اسرائیل در آستانه درگیری‌های احتمالی",
+            "تقویت سریع مواضع دفاعی و آماده‌سازی لجستیکی برای مقابله با تهدیدات جمهوری اسلامی"
+        ],
+        "impact": "آرایش نظامی جدید در منطقه نشان‌دهنده آمادگی کامل آمریکا برای حمایت از اسرائیل است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793317705.0
+    },
+    {
         "id": "52b8e5f601",
         "title_fa": "تهدید ترامپ: همه گزینه‌ها روی میز برای اتمی نشدن ج.ا",
         "title_en": "White House official to VOA: Trump keeps ‘all options on the table’ to deny Iran acquiring nuclear weapons - VOA",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://unitel.bo/noticias/agencias/iran-continuara-dialogo-con-arabia-turquia-y-pakistan-sobre-la-guerra-en-oriente-medio-HC24402522",
         "image": "http://www.bing.com/th?id=ONUT.ptAHXHRgVMJrWvllCenFAQ&pid=News",
         "timestamp": 1793034000.0
-    },
-    {
-        "id": "4dad595a3b",
-        "title_fa": "تلاش دیپلماتیک تهران و ریاض برای مهار تنش در خاورمیانه",
-        "title_en": "Irán y el Pacto de La Meca buscan rebajar las tensiones en Medio Oriente",
-        "summary": [
-            "تحرکات تازه دیپلماتیک میان ایران و کشورهای عربی برای جلوگیری از گسترش جنگ در منطقه شدت گرفته است.",
-            "این نشست‌ها بیشتر ابزار مدیریت بحران برای کاهش ریسک درگیری مستقیم است و هنوز به حل بنیادین اختلافات نرسیده."
-        ],
-        "impact": "کاهش موقت ریسک مواجهه نظامی مستقیم با کشورهای حاشیه خلیج فارس.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "France 24",
-        "url": "https://www.france24.com/es/video/20261026-ir%C3%A1n-y-el-pacto-de-la-meca-buscan-rebajar-las-tensiones-en-medio-oriente",
-        "clean_url": "https://www.france24.com/es/video/20261026-ir%C3%A1n-y-el-pacto-de-la-meca-buscan-rebajar-las-tensiones-en-medio-oriente",
-        "image": "http://www.bing.com/th?id=ONUT.fUMH6GSmvonvuC0D8W4hEg&pid=News",
-        "timestamp": 1793033820.0
     }
 ]
