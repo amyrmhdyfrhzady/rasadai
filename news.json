@@ -1,5 +1,23 @@
 [
     {
+        "id": "9bc837934b",
+        "title_fa": "سنجش افکار عمومی درباره جنگ با ایران",
+        "title_en": "How popular is the Iran War?",
+        "summary": [
+            "افکار عمومی در کشورهای غربی به شدت در حال رصد احتمال درگیری نظامی با ایران است.",
+            "موج جدیدی از ارزیابی‌های سیاسی درباره هزینه‌ها و منافع هرگونه مداخله نظامی شکل گرفته است."
+        ],
+        "impact": "سنجش میزان تمایل جامعه جهانی به ورود به تنش نظامی تمام‌عیار.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Silver Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793323234.0
+    },
+    {
         "id": "de3baaac24",
         "title_fa": "طرح گزینه‌های نظامی علیه جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی روی میز ترامپ",
         "title_en": "Top US commander briefs Trump on Iran military options as regional buildup grows",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://www.iranintl.com/en/202610262397",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793041620.0
-    },
-    {
-        "id": "19caf4a556",
-        "title_fa": "مخالفت آیزنکوت با تغییر رژیم با ابزار نظامی",
-        "title_en": "Israeli PM hopeful rejects military pursuit of regime change in Iran",
-        "summary": [
-            "گادی آیزنکوت، رقیب سیاسی نتانیاهو، سقوط جـ.ـهـ.ـو‌ری اسـ.ـلـ.ـامـ.ـی را خدمتی به بشریت خواند اما جنگ برای تغییر حکومت را اشتباه دانست.",
-            "هدف اصلی ارتش باید نابودی تاسیسات هسته‌ای و موشکی و شبکه نیابتی باشد نه تغییر حکومت از بیرون."
-        ],
-        "impact": "تغییر احتمالی دکترین نظامی تل‌آویو از تغییر رژیم به سمت انهدام زیرساخت‌های اتمی و نیابتی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610264459",
-        "clean_url": "https://www.iranintl.com/en/202610264459",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/4345e6b11094e175763adabf32c667ffba436980-1202x801.avif?rect=0,86,1202,631&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793041140.0
     }
 ]
