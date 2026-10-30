@@ -218,6 +218,24 @@
         "timestamp": 1793342103.0
     },
     {
+        "id": "83dc496446",
+        "title_fa": "نامه محرمانه ترامپ به ج-مهوری اس-لامی برای توافق",
+        "title_en": "The Trump administration just did the unthinkable: They wrote a letter to Iran to try and stop the war and get a deal",
+        "summary": [
+            "معاون ترامپ نامه‌ای به دبیر شورای امنیت ملی ای-ران فرستاده و پیشنهاد مذاکره مستقیم داده است.",
+            "همزمان با این پیشنهاد دیپلماتیک، فرمانده ارشد ارتش آمریکا در منطقه گزینه‌های نظامی روی میز را به ت-رامپ ارائه کرده است."
+        ],
+        "impact": "آمریکا در حال تست همزمان گزینه فشار نظامی و توافق سیاسی با تهران است.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-trump-administration-just-did-the-unthinkable-they-wrote-a-letter-to-iran-to-try-and-stop-the-war-and-get-a-deal/ar-AA2gq7BW",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-trump-administration-just-did-the-unthinkable-they-wrote-a-letter-to-iran-to-try-and-stop-the-war-and-get-a-deal/ar-AA2gq7BW",
+        "image": "http://www.bing.com/th?id=ONUT.OR8mg1F9G6HDd2wAC3Dr9w&pid=News",
+        "timestamp": 1793341333.0
+    },
+    {
         "id": "8b0e8cf15f",
         "title_fa": "تأیید دریافت نامه از جبهه مقابل درباره مذاکره",
         "title_en": "Iran Confirms Receiving Vance Letter Seeking Renewed Talks, Says No Response Yet - Report",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/202610272119",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1793072820.0
-    },
-    {
-        "id": "4f47b718d7",
-        "title_fa": "نتانیاهو: عده‌ای به دنبال سرقت انتخابات هستند",
-        "title_en": "نتانیاهو: عده‌ای تلاش می‌کنند انتخابات را از ما بدزدند",
-        "summary": [
-            "بنیامین نتانیاهو از تلاش‌های پشت پرده برای دستکاری در روند انتخابات اسرائیل خبر داد.",
-            "این موضع‌گیری نشان‌دهنده اوج تنش‌های سیاسی داخلی در تل‌آویو همزمان با بحران‌های منطقه‌ای است."
-        ],
-        "impact": "تشدید قطبی‌سازی در سپهر سیاسی اسرائیل و چالش‌های جدید برای دولت نتانیاهو",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610278636",
-        "clean_url": "https://www.iranintl.com/202610278636",
-        "image": "http://www.bing.com/th?id=ONUT.DkNybk5Hx0U6kfzJ0xQhuw&pid=News",
-        "timestamp": 1793072640.0
     }
 ]
