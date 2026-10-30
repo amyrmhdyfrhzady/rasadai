@@ -694,6 +694,24 @@
         "timestamp": 1793301065.0
     },
     {
+        "id": "c0df408660",
+        "title_fa": "آغاز دور تازه عملیات نظامی علیه شبه‌نظامیان حوثی در یمن",
+        "title_en": "Yemen leader announces new military operations against Iran-backed Houthis",
+        "summary": [
+            "دولت قانونی یمن فاز جدیدی از تدابیر هجومی را برای صدمه زدن به مواضع حوثی‌های وابسته به ح*کومت ایران آغاز کرده است.",
+            "این تشدید فشار نظامی مستقیم می‌تواند خطوط پشتیبانی و پهپادی ارسال‌شده از سوی س*پاه به منطقه را مسدود کند."
+        ],
+        "impact": "افزایش ریسک برای شبکه نیابتی ایران و احتمال تنگ‌تر شدن عرصه بر تحرکات دریایی حوثی‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/video/watch/idRW738804102026RP1/",
+        "clean_url": "https://www.reuters.com/video/watch/idRW738804102026RP1",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793298060.0
+    },
+    {
         "id": "925eaca709",
         "title_fa": "انفجار چهار نفتکش در تنگه هرمز بر اثر برخورد با مین",
         "title_en": "US Iran War Live Updates: Trump says fired general over Iran, Ukraine war leaks faces 'big problems'",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0tTOHl3eE10Y2Z1cmdzSEJLQWZYU2FNQ19TcXdQRi1OUFpLZUd6Z2RzNU9lS00tTmI1ZWkwNlZheXR2NUx1cDVXQ0dyQ3g2aTRTaVNGekFBMWlFV3ZocDFVUGF6bHVqUTFOWW4zcXdHRWxKS1lrR19uU3F4aDl4WGlpbDItcThJamtWLUZxSQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793061073.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "بلعیدن شرکت‌های محلی اتوماسیون توسط غول‌های صنعتی اروپا",
-        "title_en": "Electro IB turns 25, from Brescia alongside businesses in industrial automation",
-        "summary": [
-            "شرکت Electro IB پس از ۲۵ سال فعالیت در شمال ایتالیا، رسماً زیر چتر حمایتی گروه بزرگ Sonepar قرار گرفت.",
-            "این تصاحب نشان داد رقابت در حوزه اتوماسیون صنعتی اروپا به سمت تمرکز سرمایه و حذف بازیگران مستقل کوچک پیش می‌رود."
-        ],
-        "impact": "تقویت تسلط هلدینگ‌های بزرگ بر شبکه توزیع قطعات صنعتی در جنوب اروپا.",
-        "tag": "صنعت",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261027KRONOS-202610121567896596_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1793059200.0
     }
 ]
