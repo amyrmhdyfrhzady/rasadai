@@ -1,5 +1,23 @@
 [
     {
+        "id": "b8fbe812d1",
+        "title_fa": "پیشنهاد مذاکره مستقیم کاخ سفید با جناح تندرو در تهران",
+        "title_en": "The White House sees an Iranian hard-liner as the best hope for peace",
+        "summary": [
+            "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، آمادگی خود را برای دیدار حضوری با مقام ارشد تندرو در تهران اعلام کرده است.",
+            "این اقدام هم‌زمان با افزایش ریسک درگیری‌های تازه و برای دستیابی به یک توافق مکتوب صورت گرفته است."
+        ],
+        "impact": "تغییر احتمالی رویکرد واشنگتن از فشار نظامی خالص به سمت دیپلماسی پنهان با چهره‌های کلیدی حاکمیت.",
+        "tag": "دیپلماتیک",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/opinions/2026/10/29/white-house-sees-an-iranian-hard-liner-best-hope-peace/",
+        "clean_url": "https://www.washingtonpost.com/opinions/2026/10/29/white-house-sees-an-iranian-hard-liner-best-hope-peace",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PFBOQWC4AJF3U5DNP2LC6FV7B4.jpg&w=1440",
+        "timestamp": 1793318460.0
+    },
+    {
         "id": "5ddd9555dd",
         "title_fa": "استقرار جنگنده‌های آمریکایی در سرزمین‌های اشغالی",
         "title_en": "US military planes arrive in Israel from Texas amid Iran war preparations",
@@ -818,6 +836,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTlyMlFnTXVXaVpORFNDMDZoRmdLQ1BHVzFIeTgzMDB2aVJEcTcyeWpFakpMdmVUMVpoNlJtTDAxQnhZZXo3NmRaME8zdEVxZElQNlZqT2xMLWlXLW96Wm9XUlI1emhnNFg0akpORUp6OHUwSUZLVjJyNWl4UUEydWpqdHhkdnpRa1pfUUU0QVlCV2FTSFBBc3pXQ1pySXFSdDg4c21PMA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793262042.0
+    },
+    {
+        "id": "9f5e5086d2",
+        "title_fa": "بن‌بست استراتژیک در جنگ ایران و آمریکا",
+        "title_en": "Only the Gulf Can End the Iran War",
+        "summary": [
+            "آمریکا و اسرائیل با وجود ضربات نظامی، در براندازی یا نابودی تاسیسات اتمی ناکام مانده‌اند.",
+            "جمهوری اسلامی توانسته بمباران‌ها را تحمل کند اما همچنان زیر فشار خفه کننده اقتصادی محاصره دریایی قرار دارد.",
+            "هیچ‌کدام از طرفین توانایی یا تمایل لازم برای امتیازدهی و خروج از وضعیت فرسایشی کنونی را ندارند."
+        ],
+        "impact": "تداوم وضعیت شکننده کنونی و فرسایش تدریجی ساختار اقتصادی کشور بدون چشم‌انداز دیپلماتیک روشن.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/united-states/only-gulf-can-end-iran-war",
+        "clean_url": "https://www.foreignaffairs.com/united-states/only-gulf-can-end-iran-war",
+        "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/10/28/2026-10-26T233148Z_463352828_RC22BOAGQ0JO_RTRMADP_3_IRAN-CRISIS-MEETING.JPG?itok=EgKXFBrF",
+        "timestamp": 1793260800.0
     },
     {
         "id": "2ca4c88d16",
@@ -5440,41 +5477,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/after-months-of-threats-by-trump-resumption-of-iran-war-now-seems-inevitable/ar-AA2g7Gto",
         "image": "http://www.bing.com/th?id=ONUT.OnevGS_rQ2zQswIoRH8Usw&pid=News",
         "timestamp": 1793035971.0
-    },
-    {
-        "id": "339e192c79",
-        "title_fa": "تلاش نتانیاهو برای پاک کردن فاجعه ۷ اکتبر از اذهان عمومی",
-        "title_en": "Netanyahu hopes voters forget October 7, 2023",
-        "summary": [
-            "بنیامین نتانیاهو از روش‌های قدیمی خود برای بقای سیاسی و فرار از مسئولیت شکست امنیتی استفاده می‌کند.",
-            "مخالفت تاریخی او با تشکیل کشور فلسطین همچنان محور اصلی سیاست‌های داخلی و منطقه‌ای‌اش است."
-        ],
-        "impact": "آینده سیاسی نتانیاهو به شدت به مدیریت بحران‌های امنیتی و حفظ وضعیت موجود گره خورده است.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Asia Times",
-        "url": "https://asiatimes.com/2026/10/netanyahu-hopes-voters-forget-october-7-2023/",
-        "clean_url": "https://asiatimes.com/2026/10/netanyahu-hopes-voters-forget-october-7-2023",
-        "image": "https://asiatimes.com/wp-content/uploads/2026/10/742458-copy.jpg",
-        "timestamp": 1793035620.0
-    },
-    {
-        "id": "1ce2dea046",
-        "title_fa": "امیدواری بخشی از کاربران ایرانی به تغییرات با رهبری نتانیاهو",
-        "title_en": "Iran's military chief claims IRGC has full control of Strait of Hormuz",
-        "summary": [
-            "واکنش‌های کاربران فارسی‌زبان در شبکه‌های اجتماعی نشان می‌دهد گروهی از مردم به فشار خارجی برای تغییر حکومت امید بسته‌اند.",
-            "این نظرات بازتاب‌دهنده خستگی جامعه از وضعیت موجود و تمایل به فروپاشی ج-م-ه-و-ر-ی اس-لا-می است."
-        ],
-        "impact": "تقویت جنگ روانی و افزایش شکاف میان بدنه جامعه و حاکمیت.",
-        "tag": "اجتماعی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610262183",
-        "clean_url": "https://www.iranintl.com/en/202610262183",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793034720.0
     }
 ]
