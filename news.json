@@ -129,6 +129,25 @@
         "timestamp": 1793320140.0
     },
     {
+        "id": "5138e55dbc",
+        "title_fa": "رهگیری پهپاد حوثی و انفجار نفتکش‌ها در تنگه هرمز",
+        "title_en": "Iran war live: Saudi coalition downs Houthi drone in Mecca region",
+        "summary": [
+            "پدافند ائتلاف سعودی یک پهپاد متعلق به نیابتی‌های ج م هوری اس لام ی را در منطقه مکه منهدم کرد.",
+            "نیروی دریایی س پ ا ه تایید کرد که چند نفتکش در تنگه هرمز به دلیل برخورد با مین‌های دریایی دچار آتش‌سوزی شده‌اند.",
+            "این تحولات نظامی نشان‌دهنده افزایش چشمگیر تنش‌ها و ریسک‌های امنیتی در آب‌های حیاتی منطقه است."
+        ],
+        "impact": "افزایش فوری ریسک امنیت انرژی و جهش احتمالی قیمت نفت در بازار جهانی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261026__D4GV6L2__v1__HighRes__YemenSaudiIsranUsIsraelWar-1793336077.jpg?resize=1920%2C1440",
+        "timestamp": 1793318460.0
+    },
+    {
         "id": "b8fbe812d1",
         "title_fa": "پیشنهاد مذاکره مستقیم کاخ سفید با جناح تندرو در تهران",
         "title_en": "The White House sees an Iranian hard-liner as the best hope for peace",
@@ -5459,24 +5478,5 @@
         "clean_url": "https://ziare.com/cautare/exponatul-lunii-octombrie-muzeul-unirii-alba-iulia-pag328",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793046076.4880092
-    },
-    {
-        "id": "8ee2875f60",
-        "title_fa": "تلاش ریاض برای کاهش تنش با ج.ا و واکنش تند کیهان",
-        "title_en": "Riyadh urges diplomatic solution to Iran crisis after Tehran talks",
-        "summary": [
-            "ریاض خواستار راهکار دیپلماتیک و توافق برای جلوگیری از تنش نظامی با ج.ا شد.",
-            "وزیر دفاع عربستان و مقامات ارشد ترکیه و پاکستان برای کاهش درگیری‌ها به تهران رفتند.",
-            "حسین شریعتمداری، مدیرمسئول روزنامه کیهان، این نشست را سراب خواند و از ابتکار دیپلماتیک انتقاد کرد."
-        ],
-        "impact": "آشکار شدن شکاف عمیق میان رویکرد دیپلماتیک دولت و مخالفت تندروهای حاکمیت با مذاکره.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610260172",
-        "clean_url": "https://www.iranintl.com/en/202610260172",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793045340.0
     }
 ]
