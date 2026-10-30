@@ -55,6 +55,24 @@
         "timestamp": 1793317705.0
     },
     {
+        "id": "d2d197a726",
+        "title_fa": "هشدار آیزونکوت به نتانیاهو درباره خطاهای نظامی",
+        "title_en": "Wounded at home, will Netanyahu, Trump bomb Iran again?",
+        "summary": [
+            "گادی آیزونکوت در واکنش به تحولات داخلی اسرائیل، هشدار صراحت‌لهجه‌ای به فرماندهان امنیتی و دولت داد.",
+            "مخالفان سیاسی نگران پیامدهای تصمیمات جنگی بر روی ثبات داخلی کشور هستند."
+        ],
+        "impact": "فشار سیاسی داخلی بر کابینه اسرائیل برای مهار تصمیمات پرخطر نظامی افزایش یافته است.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Australian Financial Review",
+        "url": "https://www.afr.com/world/middle-east/wounded-at-home-will-netanyahu-trump-bomb-iran-again-20261030-p619iz",
+        "clean_url": "https://www.afr.com/world/middle-east/wounded-at-home-will-netanyahu-trump-bomb-iran-again-20261030-p619iz",
+        "image": "https://static.ffx.io/images/$zoom_0.4476,$multiply_2,$ratio_1.777778,$width_1059,$x_364,$y_148/t_crop_custom/c_scale,w_800,q_88,f_jpg/t_afr_no_label_no_age_social_wm/894f3ed3db3a72cbcf716530bc5e64b8e42e164e",
+        "timestamp": 1793314860.0
+    },
+    {
         "id": "52b8e5f601",
         "title_fa": "تهدید ترامپ: همه گزینه‌ها روی میز برای اتمی نشدن ج.ا",
         "title_en": "White House official to VOA: Trump keeps ‘all options on the table’ to deny Iran acquiring nuclear weapons - VOA",
@@ -5459,24 +5477,5 @@
         "clean_url": "https://www.iranintl.com/en/202610262117",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793039880.0
-    },
-    {
-        "id": "84a4670f4e",
-        "title_fa": "پشت پرده رابطه پکن و تهران؛ منافع اقتصادی یا اتحاد استراتژیک؟",
-        "title_en": "Iraq orders arrest of provincial leader amid tensions over Iran ties",
-        "summary": [
-            "چین و حکومت ایـران در مخالفت با غرب منافع مشترک دارند اما پکن نگاه کاملاً تجاری به این رابطه دارد.",
-            "انرژی و نفت ارزان دلیل اصلی وابستگی اقتصادی تـهران به چین در دوران تحریم است.",
-            "تنگه هرمز و امنیت انرژی خط قرمز چین و آمریکا است و پکن به دنبال تنش پایدار در این منطقه نیست."
-        ],
-        "impact": "تـهران در سیاست خارجی کاملاً به چین وابسته شده اما پکن توازن روابط با غرب را حفظ می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610267939",
-        "clean_url": "https://www.iranintl.com/en/202610267939",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/9a5a860a08290bd22edee3b3de6aa98108a47203-800x534.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793037840.0
     }
 ]
