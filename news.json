@@ -293,6 +293,24 @@
         "timestamp": 1793326625.0
     },
     {
+        "id": "f2689ce143",
+        "title_fa": "انتقاد جمهوری‌خواهان از بی‌توجهی دموکرات‌ها به خطر ج.ه.ا",
+        "title_en": "Democrats haven’t thought far enough ahead on Iran",
+        "summary": [
+            "حزب دموکرات هنوز برنامه جامع و روشنی برای مهار تهدیدهای امنیتی ج.ه.ا تدوین نکرده است.",
+            "جمهوری‌خواهان با برجسته کردن این موضوع، تلاش می‌کنند رقیب را به سهل‌انگاری در برابر اقدامات خطرناک تهران متهم کنند."
+        ],
+        "impact": "افزایش فشار سیاسی بر دولت آمریکا برای اتخاذ سیاست‌های سخت‌گیرانه‌تر در قبال تهران.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Politico on MSN",
+        "url": "https://www.msn.com/en-us/news/other/democrats-haven-t-thought-far-enough-ahead-on-iran/ar-AA2goI8Y",
+        "clean_url": "https://www.msn.com/en-us/news/other/democrats-haven-t-thought-far-enough-ahead-on-iran/ar-AA2goI8Y",
+        "image": "http://www.bing.com/th?id=ONUT.jQc4OkvMOFyyLPYXStTyqw&pid=News",
+        "timestamp": 1793325600.0
+    },
+    {
         "id": "c0a6368512",
         "title_fa": "فشار تحریم‌ها؛ جمهوری اسلامی توان پرداخت حقوق نیروها را ندارد",
         "title_en": "Bessent: Iran can't pay its soldiers, proxies due to Operation Economic Outcast",
@@ -5463,24 +5481,5 @@
         "clean_url": "https://jen.jiji.com/jc/eng_agt",
         "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
         "timestamp": 1793059200.0
-    },
-    {
-        "id": "63e55f56f6",
-        "title_fa": "جهش درآمدی آنتروپیک و ورود به بورس",
-        "title_en": "[October 27] Anthropic's S-1: Red ink in the headlines vs. real red ink",
-        "summary": [
-            "شرکت هوش مصنوعی آنتروپیک درخواست رسمی عرضه اولیه سهام خود را در بورس نزدک ثبت کرد.",
-            "درآمد نیمه نخست سال به شدت رشد کرده و این شرکت برای نخستین بار سود عملیاتی ثبت کرده است.",
-            "زیان خالص اعلام شده بیشتر ناشی از تغییر ارزش اوراق قرضه قابل تبدیل است و نه زیان عملیاتی."
-        ],
-        "impact": "این رویداد نشان داد شرکت‌های هوش مصنوعی در حال کسب درآمد واقعی هستند و بازار سهام حوزه فناوری را دوباره صعودی کرد.",
-        "tag": "تکنولوژی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "note",
-        "url": "https://note.com/loyal_kalmia3506/n/nff5708249fe4?hl=en",
-        "clean_url": "https://note.com/loyal_kalmia3506/n/nff5708249fe4",
-        "image": "https://www.bing.com/th?id=ONUT.q6T_X3v30L1HNgPgFZNe_w",
-        "timestamp": 1793058664.0807855
     }
 ]
