@@ -1,5 +1,23 @@
 [
     {
+        "id": "f69af28737",
+        "title_fa": "قتل مسلحانه یک مرد در تل‌السبع",
+        "title_en": "Man shot dead in southern town of Tel Sheva",
+        "summary": [
+            "یک مرد در شهر بادیایی تل‌السبع در جنوب مناطق اشغالی هدف گلوله قرار گرفت و کشته شد.",
+            "زخمی این حادثه به بیمارستان سورکا در بئرالسبع منتقل شد اما تلاش پزشکان بی‌نتیجه ماند."
+        ],
+        "impact": "افزایش خشونت‌های داخلی و مسائل امنیتی در مناطق جنوبی",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/man-shot-dead-in-southern-town-of-tel-sheva/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/man-shot-dead-in-southern-town-of-tel-sheva",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/Screenshot-2026-10-30-at-11.42.53-640x400.jpeg",
+        "timestamp": 1793392800.0
+    },
+    {
         "id": "334396c170",
         "title_fa": "ورود سپاه به سرکوب حجاب با افزایش اختیارات قیمتی",
         "title_en": "Iranian Regime’s Judiciary Calls for IRGC Role in Hijab Enforcement as Fuel-Price Powers Expand - National Council of Resistance of Iran",
@@ -689,6 +707,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZGw0c0JvLVh6N3YwM1ZUbktacnB2cXlGdmFWZzRyQkZlQ2lRZG11RnR4RGV4eWotejhwcTdMc3pBQjVFNVg0RC1MT1hRTlU1Ykhxc29JMTZtVWNVWF90Wk5Dckh4SEpKb05MOW9qeDNCN0FkZXROcFNaS05pUzJXWmJaa2wyai0yS2VDWmhWZFNBX0NOYXBWbDcxSFRxa0VzWlZfRnVHVE0xbjBLZ2lGUmV4MF9LSTB6Z0tDa3pyN3dZOUdwYW9CaUF6SHNmM3FkT1d3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793333855.0
+    },
+    {
+        "id": "db363ec8cf",
+        "title_fa": "رهگیری و انهدام پهپاد حوثی‌ها بر فراز مکه",
+        "title_en": "Saudi-led coalition says it destroyed drone fired by Yemen's Houthis over Mecca",
+        "summary": [
+            "ائتلاف تحت رهبری عربستان سعودی از انهدام یک پهپاد مهاجم در آسمان منطقه مکه خبر داد.",
+            "این پرنده مهاجم توسط گروه حوثی‌های یمن شلیک شده بود که پیش از رسیدن به هدف منهدم شد."
+        ],
+        "impact": "افزایش تنش‌های امنیتی و تلاش نیابتی برای ناامن‌سازی مراکز حساس منطقه",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-destroyed-drone-fired-by-yemens-houthis-over-mecca/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-destroyed-drone-fired-by-yemens-houthis-over-mecca",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793333280.0
     },
     {
         "id": "863e54481d",
@@ -5443,43 +5479,5 @@
         "clean_url": "https://www.iranintl.com/202610270503",
         "image": "http://www.bing.com/th?id=ONUT.cnf1pu-E5rbvZZyqXEw2Cg&pid=News",
         "timestamp": 1793088420.0
-    },
-    {
-        "id": "d51e25484a",
-        "title_fa": "سایه حملات مجدد آمریکا و اسـرائیل علیه جـمـهـورۍ اسـلامـی",
-        "title_en": "US and Israel threaten new Iran strikes. Would the result be any different?",
-        "summary": [
-            "واشنگتن و تل‌آویو فشارها برای آغاز دور تازه‌ای از حملات نظامی به اهداف داخلی را افزایش داده‌اند.",
-            "تجربه بمباران‌های گذشته نشان داده که این اقدامات لزوماً به عقب‌نشینی حاکمیت منجر نمی‌شود.",
-            "تهران تهدید کرده که در صورت تکرار درگیری‌ها، پاسخ‌های خود را به شدت گسترش خواهد داد."
-        ],
-        "impact": "احتمال بالا گرفتن تنش‌های نظامی و بازگشت به چرخه درگیری مستقیم در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Christian Science Monitor",
-        "url": "https://www.csmonitor.com/World/Middle-East/2026/1027/iran-israel-trump-threats-futility-lessons",
-        "clean_url": "https://www.csmonitor.com/World/Middle-East/2026/1027/iran-israel-trump-threats-futility-lessons",
-        "image": "https://images.csmonitor.com/csm/2026/10/1027_OIRANLESSONS_lede.jpg?alias=standard_900x600",
-        "timestamp": 1793085600.0
-    },
-    {
-        "id": "121e4f5bc5",
-        "title_fa": "دیپلماسی اجبار؛ حضور مقام‌های ارشد منطقه‌ای در ت،ه،ر،ا,ن",
-        "title_en": "Iran oil minister hits back at Bessent over fuel warning in Iran International interview",
-        "summary": [
-            "نشست چهارجانبه با حضور وزرا و فرماندهان ارشد عربستان، پاکستان، ترکیه و مقامات ارشد ج,م,ه,و,ر,ی ا,س,لا,م,ی با میزبانی دبیر شورای عالی امنیت ملی برگزار شد.",
-            "تحلیلگران این سفر را تلاشی برای دیپلماسی اجبار و هشدار جدی پیش از اقدامات نظامی احتمالی ارزیابی می‌کنند.",
-            "این دیدار پس از آن صورت گرفت که توافق دفاعی مشترک عربستان، ترکیه و پاکستان برای پاسخ به تهدیدات فعال شده است."
-        ],
-        "impact": "افزایش فشارهای دیپلماسی منطقه‌ای بر ت,ه,ر,ا,ن همزمان با سایه سنگین تهدیدات نظامی.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610277281",
-        "clean_url": "https://www.iranintl.com/en/202610277281",
-        "image": "http://www.bing.com/th?id=ONUT.VKCR9GL9myzDJuN8sORaeg&pid=News",
-        "timestamp": 1793084520.0
     }
 ]
