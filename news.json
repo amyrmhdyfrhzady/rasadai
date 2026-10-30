@@ -292,6 +292,25 @@
         "timestamp": 1793317705.0
     },
     {
+        "id": "b4f3288f35",
+        "title_fa": "کشف شبکه سری ۲ میلیارد دلاری تامین تجهیزات نظامی ج.ا",
+        "title_en": "Inside Iran's Secret $2 Billion Military Supply Web Operating Under US' Nose",
+        "summary": [
+            "افشای شبکه قاچاق و تامین قطعات نظامی ج.ا به ارزش ۲ میلیارد دلار، نشان از آسیب‌پذیری ساختار نظارتی آمریکا در ردیابی دور زدن تحریم‌ها دارد.",
+            "این شبکه با استفاده از شرکت‌های صوری متقاطع در چند کشور، قطعات حساس پهپادی و موشکی را خریده و منتقل می‌کرده است.",
+            "انتشار این اسناد فشار بر خزانه داری آمریکا برای شناسایی و مسدودسازی سریع‌تر شریان‌های مالی س‌پاه را دوچندان می‌کند."
+        ],
+        "impact": "انسداد حساب‌ها و انسداد شرکت‌های پوششی شبکه خریدهای نظامی ایران در خارج.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/inside-irans-secret-2-billion-military-supply-web-operating-under-us-nose-12257590",
+        "clean_url": "https://www.ndtv.com/world-news/inside-irans-secret-2-billion-military-supply-web-operating-under-us-nose-12257590",
+        "image": "http://www.bing.com/th?id=ONUT.fn9sQPTvOEl0rNbqxttzeA&pid=News",
+        "timestamp": 1793317560.0
+    },
+    {
         "id": "d2d197a726",
         "title_fa": "هشدار آیزونکوت به نتانیاهو درباره خطاهای نظامی",
         "title_en": "Wounded at home, will Netanyahu, Trump bomb Iran again?",
@@ -326,6 +345,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORHlKaXBIUERZeUF0aGEzdGpLOXhUMHhOWHA3dGdtX2hlTGZrOUhXZmFqSEh2VGhTWlg4VHRsN0Z2N2RKNkc0WC12ZkxxMEE4MWgxYUlnTUszWUdIaEhjVWh3Ym41OUk3VXlWVzZ2VHI1Zjh5RnZlSlk0XzBEbTNpRWZDazFEdTctWnlKN0ZrcnJ6Wi05dTlYWF9wN1FNcVVEbXZzU3cyR0RWZWh5cEJsUFMwdzZsRFh6cDM3NHloWmtxZ3IyeVpfLWFmLVJEVVMyLWZfYlEtRkxZUdIB3AFBVV95cUxQZ010NnRnZzFINF9HeWNlV0ZnRy16cVhaeVlib0JsOVNKbDlRMVdUZGttaEs3YmxYZEhIZ205dHJyUmxlZG1uWlJ3T3pIQ0VRVDJJbUJVc0ZzOWVfNS1zUE9kanVfTTg5OURMMUlGQTFnQU1XSldVRExSWmFWcFI0a3Z0dGNkS2NhTjZjLVJZRU15VWZLOHdyYVpSOTJFWVBjZ2wyM245bjQ2UGpBX2F6MGdHdkxXNEh0LXM5ZjlwdTE3bXdfeVZscGFxOXUwQVlnczVrR1FKUldudkNa",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793314806.0
+    },
+    {
+        "id": "44997f3a20",
+        "title_fa": "کدها و نشانه‌های بازگشت ترامپ به گزینه حمله نظامی",
+        "title_en": "The two major clues Trump could soon resume Iran strikes",
+        "summary": [
+            "تحرکات جدید و تغییر ادبیات کاخ سفید از احتمال ازسرگیری حملات هدفمند ترامپ علیه تاسیسات حیاتی ج.ا خبر می‌دهد.",
+            "ادعای پایان سریع جنگ‌ها مانعی برای اجرای ضربات پیش‌دستانه علیه برنامه‌های موشکی و اتمی نخواهد بود.",
+            "تغییر چیدمان نیروهای آمریکایی در منطقه نشان می‌دهد واشنگتن خود را برای پاسخ به هرگونه ریسک‌پذیری تهران آماده می‌کند."
+        ],
+        "impact": "جهش شدید ریسک جنگ، التهاب سنگین در بازار ارز و آماده‌باش نظامی در منطقه.",
+        "tag": "ترامپ",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "inews.co.uk on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/the-two-major-clues-trump-could-soon-resume-iran-strikes/ar-AA2gopfj",
+        "clean_url": "https://www.msn.com/en-xl/news/other/the-two-major-clues-trump-could-soon-resume-iran-strikes/ar-AA2gopfj",
+        "image": "http://www.bing.com/th?id=ONUT.SLmhaBfnj7-0SHI8Nxha6A&pid=News",
+        "timestamp": 1793314800.0
     },
     {
         "id": "d9d741a173",
@@ -5440,41 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNE5NOVQtR2JDeGlfenQ4dUZYXzl3Z3dkcVZOMlBPR19lc1VaYXZyV2gwVFJzQTh2RDJGZmthb25Ob2hsX2pld1RzOWxRbXVvWHRsSmJGTkhhREgtTFNfOWltOTBZdjhoWF80eTFtZG9PWGFLYldBYUFNVVExQWE1cmY1RnpyTGM3ejFjR1J2UE0zUmVmOW5TdUZWMkxCYnY0RHJNbkhMUks3UWROVkxScnBlRFhtRkdIM3hFX3VfY1pPdVN6V25OX2NoZF8",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793051952.0
-    },
-    {
-        "id": "105ba6dc3e",
-        "title_fa": "نشست اضطراری برای مهار بحران یمن و حملات انصارالله",
-        "title_en": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
-        "summary": [
-            "تهران، ریاض، آنکارا و اسلام‌آباد پشت میز مذاکره نشستند تا راهی برای کاهش تنش‌های منطقه‌ای و حملات موشکی پیدا کنند.",
-            "پدافند سعودی همچنان درگیر دفع موشک‌های ارسالی یمن است و دیپلماسی چهارجانبه برای کنترل این بحران تلاش می‌کند."
-        ],
-        "impact": "تلاش‌های دیپلماتیک برای آتش‌بس در حالی جریان دارد که تهدیدات موشکی در منطقه همچنان بالاست.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks/ar-AA2g8yqK",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks/ar-AA2g8yqK",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793051666.0
-    },
-    {
-        "id": "3726c90428",
-        "title_fa": "فشار نتانیاهو برای حمله به جـ.ـهـ.ـوری اِسـ.ـلامـ.ـی پیش از انتخابات",
-        "title_en": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-        "summary": [
-            "مقام‌های ارشد خبر دادند که بنیامین نتانیاهو به دنبال اقدام نظامی علیه مواضع ایـ.ـران پیش از برگزاری انتخابات اسرائیل بوده است.",
-            "این تحرکات نشان‌دهنده تغییر دکترین امنیتی تل‌آویو از بازدارندگی به اقدام پیشدستانه است."
-        ],
-        "impact": "افزایش شدید ریسک درگیری مستقیم نظامی در منطقه و صعود قیمت انرژی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793051055.0
     }
 ]
