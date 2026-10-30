@@ -1,5 +1,23 @@
 [
     {
+        "id": "2d4ed9462d",
+        "title_fa": "لاوروف: هیچ تغییر واقعی در روابط مسکو و واشنگتن رخ نداده است",
+        "title_en": "Lavrov sees no real shifts in Russia-US relations",
+        "summary": [
+            "وزیر خارجه روسیه آب پاکی را روی دست توهمات درباره بهبود روابط با آمریکا ریخت.",
+            "مسکو همچنان مشکلات عمیق و حل‌نشده‌ای با کاخ سفید دارد."
+        ],
+        "impact": "تداوم تنش‌های سرد بین مسکو و واشنگتن بدون افق گشایش دیپلماتیک.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2211247",
+        "clean_url": "https://tass.com/politics/2211247",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261031/1491581.jpg",
+        "timestamp": 1793395860.0
+    },
+    {
         "id": "f69af28737",
         "title_fa": "قتل مسلحانه یک مرد در تل‌السبع",
         "title_en": "Man shot dead in southern town of Tel Sheva",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.x2B-m2pYLDJ-QjmVlBAdbw&pid=News",
         "timestamp": 1793089560.0
-    },
-    {
-        "id": "90538b610c",
-        "title_fa": "نقش کلیدی رای‌دهندگان عرب در انتخابات اسرائیل",
-        "title_en": "نیویورک تایمز: آرای شهروندان عرب اسرائیل می‌تواند نتیجه انتخابات را تغییر دهد",
-        "summary": [
-            "مشارکت پیش‌بینی شده شهروندان عرب اسرائیل به ۶۵ تا ۷۰ درصد رسیده است.",
-            "هیچ‌یک از دو بلوک سیاسی بدون ائتلاف با احزاب عرب قادر به کسب اکثریت پارلمانی نخواهند بود."
-        ],
-        "impact": "افزایش قدرت چانه زنی احزاب عرب در ساختار دولت آینده اسرائیل.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610270503",
-        "clean_url": "https://www.iranintl.com/202610270503",
-        "image": "http://www.bing.com/th?id=ONUT.cnf1pu-E5rbvZZyqXEw2Cg&pid=News",
-        "timestamp": 1793088420.0
     }
 ]
