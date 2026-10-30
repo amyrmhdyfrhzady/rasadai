@@ -36,6 +36,24 @@
         "timestamp": 1793314806.0
     },
     {
+        "id": "d9d741a173",
+        "title_fa": "اعتراف ژنرال اخراجی آمریکا به درز اطلاعات محرمانه درباره ایـران",
+        "title_en": "Fired US general admitted leaking classified information on Iran - Axios",
+        "summary": [
+            "سایت آکسیوس فاش کرد که یک ژنرال ارتش آمریکا پس از برکناری، به افشای اسناد محرمانه مرتبط با ایـران اعتراف کرده است.",
+            "این واقعه زوایای پنهانی از درز اطلاعات امنیتی واشنگتن درباره تحرکات نظامی و استراتژیک در منطقه را نمایان می‌کند."
+        ],
+        "impact": "این افشاگری می‌تواند چالش‌های امنیتی بزرگی برای ساختار نظامی آمریکا در قبال پرونده ایـران ایجاد کند.",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93dlNROFJvR3RkOG9lX1dyeDNzc21HWXRFZ1lUcF9fNUMwSGVZX2hmT2dJYXl5b2xncmdtRUhkdmdBUU1ZYWtkM19vSlcwUk1mdEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93dlNROFJvR3RkOG9lX1dyeDNzc21HWXRFZ1lUcF9fNUMwSGVZX2hmT2dJYXl5b2xncmdtRUhkdmdBUU1ZYWtkM19vSlcwUk1mdEE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793313696.0
+    },
+    {
         "id": "cb6f332c28",
         "title_fa": "درخواست ریاض از ترامپ برای تعویق حملات و امتحان دیپلماسی",
         "title_en": "Saudi Arabia asks Donald Trump to give Iran negotiations a chance before striking",
@@ -5458,23 +5476,5 @@
         "clean_url": "https://www.iranintl.com/en/202610264937",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793034060.0
-    },
-    {
-        "id": "c0b54a9de7",
-        "title_fa": "رایزنی امنیتی ایران با عربستان، ترکیه و پاکستان",
-        "title_en": "Irán continuará diálogo con Arabia, Turquía y Pakistán sobre la guerra en Oriente Medio",
-        "summary": [
-            "مقام امنیتی ایران از گفتگوی سازنده با اعضای پیمان دفاعی مکه برای مهار تنش‌ها خبر داد.",
-            "این نخستین سفر یک مقام ارشد سعودی به تهران از زمان آغاز درگیری‌های منطقه‌ای است."
-        ],
-        "impact": "تلاش تهران برای ایجاد ائتلاف‌های دیپلماتیک جدید جهت کاهش فشارهای نظامی منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "unitel",
-        "url": "https://unitel.bo/noticias/agencias/iran-continuara-dialogo-con-arabia-turquia-y-pakistan-sobre-la-guerra-en-oriente-medio-HC24402522",
-        "clean_url": "https://unitel.bo/noticias/agencias/iran-continuara-dialogo-con-arabia-turquia-y-pakistan-sobre-la-guerra-en-oriente-medio-HC24402522",
-        "image": "http://www.bing.com/th?id=ONUT.ptAHXHRgVMJrWvllCenFAQ&pid=News",
-        "timestamp": 1793034000.0
     }
 ]
