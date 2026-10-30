@@ -326,6 +326,24 @@
         "timestamp": 1793293500.0
     },
     {
+        "id": "3163d27d05",
+        "title_fa": "درخواست پهلوی برای فناوری اتصال ماهواره‌ای به موبایل",
+        "title_en": "دفتر شاهزاده پهلوی خواستار سرمایه‌گذاری فوری در فناوری اتصال ماهواره به تلفن همراه شد",
+        "summary": [
+            "دفتر شاهزاده رضا پهلوی خواستار سرمایه‌گذاری فوری برای تامین اینترنت ماهواره‌ای مستقیم روی گوشی‌های همراه شد.",
+            "هدف از این طرح، مقابله موثر با تلاش‌های حکومت برای قطع سراسری اینترنت و ارتباطات مردمی است."
+        ],
+        "impact": "تسهیل ارتباطات آزاد و دور زدن سانسور حکومتی در جریان اعتراضات احتمالی آینده",
+        "tag": "فناوری",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610306216",
+        "clean_url": "https://www.iranintl.com/202610306216",
+        "image": "http://www.bing.com/th?id=ONUT.4y8yVWpS9Q6SmDOag3iWzA&pid=News",
+        "timestamp": 1793293260.0
+    },
+    {
         "id": "1870630000",
         "title_fa": "ادعای مین‌گذاری در هرمز و تغییرات ناگهانی در پنتاگون",
         "title_en": "Iran claims 4 tankers hit mines in Strait of Hormuz",
@@ -5459,23 +5477,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-rejects-netanyahu-s-pre-election-iran-attack-plan-tehran-rules-out-nuclear-talks-oil-nears-6-month-highs-7-key-updates/ar-AA2g8bzF",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793040230.0
-    },
-    {
-        "id": "4ee4d0a3f6",
-        "title_fa": "طرح قطر برای بازگشایی تنگه هرمز و رفع محاصره بندری",
-        "title_en": "Qatar working on five-day exchange of concessions proposal",
-        "summary": [
-            "میانجی‌گران قطری به دنبال توافقی ۵ روزه برای باز شدن تنگه هرمز در ازای رفع محاصره بندری ایران از سوی آمریکا هستند.",
-            "اختلاف اصلی میان طرفین بر سر زمان‌بندی دقیق اجرای تعهدات متقابل است."
-        ],
-        "impact": "کاهش تنش‌های مقطعی در آب‌های خلیج فارس و تلاش دیپلماتیک برای باز کردن گره‌های تجاری.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610262117",
-        "clean_url": "https://www.iranintl.com/en/202610262117",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793039880.0
     }
 ]
