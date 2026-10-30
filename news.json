@@ -1,5 +1,23 @@
 [
     {
+        "id": "30e161fb60",
+        "title_fa": "سناریوهای خطرناک؛ جنگ با ج.ا چگونه بالا می‌گیرد؟",
+        "title_en": "How the War in Iran Could Escalate",
+        "summary": [
+            "بررسی‌ها نشان می‌دهد تنش‌های جاری ظرفیت تبدیل شدن به یک درگیری فراگیر و تمام‌عیار را دارد.",
+            "هرگونه خطای محاسباتی از سوی تهران می‌تواند واکنش کوبنده و مستقیم ائتلاف بین‌المللی را به دنبال داشته باشد."
+        ],
+        "impact": "افزایش احتمال درگیری نظامی مستقیم و ورود بحران به فاز جدیدی از بی‌ثباتی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Asociación Almendrón",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51SU1lcXNIN2VJdzllYmpxNTR4Y3ZnM0xPS0JrM29YOVNIMlZFUG1iYXJETnFGZVBDTlJhcVM3Unh4WXczM252WlR1YjJNTjYycUhtRWQ5Uk1MRElzM0l2em9DaUZpMHBPMXdyaEhqTTREMERqcWZBbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51SU1lcXNIN2VJdzllYmpxNTR4Y3ZnM0xPS0JrM29YOVNIMlZFUG1iYXJETnFGZVBDTlJhcVM3Unh4WXczM252WlR1YjJNTjYycUhtRWQ5Uk1MRElzM0l2em9DaUZpMHBPMXdyaEhqTTREMERqcWZBbA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793337122.0
+    },
+    {
         "id": "8197a7571c",
         "title_fa": "اجماع در تل‌آویو؛ جنگ با ایران مستقل از تغییر دولت‌هاست",
         "title_en": "War with Iran likely no matter who leads Israel",
@@ -71,6 +89,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHV3pZdW5VQldJUzA1YWwxVHFOVm5oLVA3SmZ0dmFjQjFVMnJScVNGN21hV0hLQ2xBcm95bE96aTRxVVdwYzhDZElJVVNxRnEwLVE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793326625.0
+    },
+    {
+        "id": "c0a6368512",
+        "title_fa": "فشار تحریم‌ها؛ جمهوری اسلامی توان پرداخت حقوق نیروها را ندارد",
+        "title_en": "Bessent: Iran can't pay its soldiers, proxies due to Operation Economic Outcast",
+        "summary": [
+            "عملیات طرد اقتصادی توان مالی حکومت برای تامین مالی نیروهای نظامی و گروه‌های نیابتی را به شدت فلج کرده است.",
+            "بحران شدید بودجه باعث شده تا زنجیره تامین مالی جنگ‌افروزی منطقه‌ای تهران دچار گسست شود."
+        ],
+        "impact": "زمین‌گیر شدن ماشین نیابتی ج.ا به دلیل خالی شدن خزانه و تشدید فروپاشی اقتصادی.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wdFFDTEluRmxSdkNlZ1pMa1ZmZUpjSWVxVkxPaEZQa3ZDMzZOVTV3X3pvZ0Zzd1VudnVjSGxwbU10Z2RGdEszbndDRVNRVXlzWnZyRlJJbmlWdGdpVlBPMWx5UnoyckVpRFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wdFFDTEluRmxSdkNlZ1pMa1ZmZUpjSWVxVkxPaEZQa3ZDMzZOVTV3X3pvZ0Zzd1VudnVjSGxwbU10Z2RGdEszbndDRVNRVXlzWnZyRlJJbmlWdGdpVlBPMWx5UnoyckVpRFE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793325068.0
     },
     {
         "id": "9bc837934b",
@@ -5441,42 +5477,5 @@
         "clean_url": "https://www.iranintl.com/en/202610268455",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793046840.0
-    },
-    {
-        "id": "ff02f59f01",
-        "title_fa": "تهدید تهران به پاسخ بـه کـشـتـه‌شـدن رهـبـر جـمـهـوری اسـلامـی",
-        "title_en": "Iran says assassination of Ali Khamenei will not go unanswered",
-        "summary": [
-            "مقام ارشد شورای عالی امنیت ملی اعلام کرد تـلافـی حـمـلـات آمـریـکـا و اسـرایـئیل در دستور کار است.",
-            "نشست امنیتی تهران با حضور عربستان، ترکیه و پاکستان با انتقاد تند روزنامه کیهان مواجه شد.",
-            "جناح تندرو نگران است این دیپلماسی منطقه‌ای، فشارها بر تـهـران را کاهش دهد."
-        ],
-        "impact": "افزایش تنش‌های امنیتی و شکاف میان دیپلمات‌ها و تندروهای داخلی درباره مذاکرات منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610268169",
-        "clean_url": "https://www.iranintl.com/en/202610268169",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793046360.0
-    },
-    {
-        "id": "5286633b51",
-        "title_fa": "کاهش تورم اتحادیه اروپا و تداوم بحران گرانی در رومانی",
-        "title_en": "19 Noiembrie 2025",
-        "summary": [
-            "نرخ تورم سالانه در کل اتحادیه اروپا طی ماه اکتبر به دو و نیم درصد کاهش یافت.",
-            "کشور رومانی همچنان بالاترین نرخ تورم را در میان کشورهای عضو به خود اختصاص داده است."
-        ],
-        "impact": "ثبات نسبی اقتصاد کلان در اروپا همزمان با چالش‌های تورمی در برخی کشورهای عضو.",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/exponatul-lunii-octombrie-muzeul-unirii-alba-iulia-pag328",
-        "clean_url": "https://ziare.com/cautare/exponatul-lunii-octombrie-muzeul-unirii-alba-iulia-pag328",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793046076.4880092
     }
 ]
