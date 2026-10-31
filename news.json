@@ -480,6 +480,25 @@
         "timestamp": 1793398564.0
     },
     {
+        "id": "71c6ea13c3",
+        "title_fa": "تهدید تند ارتش درباره گسترش جنگ در صورت حمله آمریکا",
+        "title_en": "Iran warns fresh US strikes would unleash ‘flames of war’ far beyond current conflict",
+        "summary": [
+            "تهران هشدار داد ماجراجویی نظامی جدید آمریکا و اسرائیل شعله جنگ را در منطقه بسیار فراگیرتر خواهد کرد.",
+            "مقام‌های ارشد نظامی و دیپلماتیک ج.ا در برابر فشارهای خارجی موضع تدافعی تندی اتخاذ کرده‌اند.",
+            "تلاش‌های میانجی‌گرانه قطر هم‌زمان با ارسال پیام‌های پشت پرده برای مهار تنش‌ها ادامه دارد."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی مستقیم و تشدید تنش‌های امنیتی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-warns-fresh-us-strikes-would-unleash-flames-of-war-far-beyond-current-conflict",
+        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-warns-fresh-us-strikes-would-unleash-flames-of-war-far-beyond-current-conflict",
+        "image": "http://www.bing.com/th?id=ONUT.MXquu4Z3rvuHmkiYbedEtg&pid=News",
+        "timestamp": 1793398200.0
+    },
+    {
         "id": "b62d05704e",
         "title_fa": "ادعای ترامپ درباره تحقق اهداف در قبال ای-ران",
         "title_en": "Trump says Iran war goal met as gas prices rise",
@@ -5468,24 +5487,5 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/trump-says-iran-war-will-end-when-i-want-it-to-as-costs-reportedly-balloon-to-47-billion/ar-AA2gdjVk",
         "image": "http://www.bing.com/th?id=ONUT.W1UlHXP4s-JkqrbmzS4KPw&pid=News",
         "timestamp": 1793131364.0
-    },
-    {
-        "id": "d04338bc80",
-        "title_fa": "ترامپ: جـمهوری اسـلامی از سال ۵۷ در جنگ با آمریکاست",
-        "title_en": "Trump says Iran has been waging war against America since 1979",
-        "summary": [
-            "کشورهای منطقه مانند قطر و پاکستان همزمان با تلاش برای میانجیگری، به تهران هشدار دادند که باید رفتار خود را تغییر دهد.",
-            "دوحه از حکومت خواست تهدید کشورهای عربی خلیج فارس را متوقف کند و تنگه هرمز را باز بگذارد.",
-            "مقام‌های منطقه‌ای با وجود پیگیری دیپلماسی، خود را برای سناریوی درگیری و مهار تنش‌ها آماده می‌کنند."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و منطقه‌ای بر تهران برای عقب‌نشینی از سیاست‌های تنش‌آفرین.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "iranintl",
-        "url": "https://www.iranintl.com/en/202610276805",
-        "clean_url": "https://www.iranintl.com/en/202610276805",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793131140.0
     }
 ]
