@@ -533,6 +533,24 @@
         "timestamp": 1793386380.0
     },
     {
+        "id": "42751dbd8b",
+        "title_fa": "مین‌گذاری در بازارهای جهانی و خطر ریزش دارایی‌های پرریسک",
+        "title_en": "Weekly Commentary: Cycle Transition",
+        "summary": [
+            "بازارهای مالی جهان تحت فشار شدید اهرم‌های مالی و حباب گمانه‌زنی به نقطه‌ای بسیار شکننده رسیده‌اند.",
+            "برخلاف انتظارات برای بهبود اوضاع پیش از انتخابات، فضای عدم قطعیت و ریسک‌گریزی بر بازارهای بین‌المللی حاکم شده است."
+        ],
+        "impact": "افزایش شدید نوسانات اقتصادی و خروج سرمایه‌گذاران از بازارهای پرریسک.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4960572-weekly-commentary-cycle-transition",
+        "clean_url": "https://seekingalpha.com/article/4960572-weekly-commentary-cycle-transition",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2253305568/image_2253305568.jpg?io=getty-c-w1536",
+        "timestamp": 1793386200.0
+    },
+    {
         "id": "db7a9e61a5",
         "title_fa": "میانجی‌گری اسلام‌آباد میان تهران و واشنگتن؛ خوش‌بینی مشروط ارتش پاکستان",
         "title_en": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/iran-threatens-legal-action-against-sinokor-merchant-marine-ships/ar-AA2gcJYQ",
         "image": "http://www.bing.com/th?id=ONUT.1Fi-DabpiW2HWLVMpamYcg&pid=News",
         "timestamp": 1793126075.0
-    },
-    {
-        "id": "1d6120778b",
-        "title_fa": "فشار آژانس انرژی اتمی به ت--هران برای بازرسی فوری",
-        "title_en": "UN nuclear watchdog chief urges Iran to grant access",
-        "summary": [
-            "مدیرکل آژانس در شورای امنیت خواستار دسترسی فوری به مواد ه--سته‌ای ج--مهوری اس--لامی شد.",
-            "ته--ران همچنان از پاسخگویی به سوالات پادمانی و همکاری با بازرسان طفره می‌رود."
-        ],
-        "impact": "افزایش فشار‌های بین‌المللی و احتمال صدور قطعنامه جدید علیه برنامه ه--سته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Agence France-Presse",
-        "url": "https://www.msn.com/en-us/news/world/un-nuclear-watchdog-chief-urges-iran-to-grant-access/ar-AA2gbkay",
-        "clean_url": "https://www.msn.com/en-us/news/world/un-nuclear-watchdog-chief-urges-iran-to-grant-access/ar-AA2gbkay",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gbJXd.img?w=768&h=523&m=4&q=94",
-        "timestamp": 1793125610.0
     }
 ]
