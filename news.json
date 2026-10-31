@@ -591,6 +591,24 @@
         "timestamp": 1793419803.0
     },
     {
+        "id": "764c57927f",
+        "title_fa": "هشدار صریح تیم ترامپ به ج-مهوری ا-سلامی درباره تنگه هرمز",
+        "title_en": "Trump admin threatens Iran with 'consequences' as allies convene amid threats of post-election escalation",
+        "summary": [
+            "مارکو روبیو در نشست جی‌بیست دست رو امنیت انرژی و خطر بسته شدن تنگه هرمز گذاشته.",
+            "دولت ترامپ مستقیماً به تهران پیام داده که هرگونه ماجراجویی بعد از انتخابات هزینه سنگینی براشون داره."
+        ],
+        "impact": "بالرفتن ریسک امنیتی در خلیج فارس و فشار روانی روی بازار انرژی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-admin-threatens-iran-with-consequences-as-allies-convene-amid-threats-of-post-election-escalation/ar-AA2gsKGC",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-admin-threatens-iran-with-consequences-as-allies-convene-amid-threats-of-post-election-escalation/ar-AA2gsKGC",
+        "image": "http://www.bing.com/th?id=ONUT.llysBa7SUNY9a-VspRTkbg&pid=News",
+        "timestamp": 1793419254.0
+    },
+    {
         "id": "dfd9496b6a",
         "title_fa": "نامزدی دیپلمات ترکیه‌ای برای دبیرکلی سازمان ملل",
         "title_en": "Iran warns US against renewed escalation, drones target Saudi Arabia",
@@ -5471,24 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzQyWVY3TmM5VHo1V2Z2c0lETlZqeVpZTlgwdjkzbk8tLVExRXhSSjdlTUxiZVRNT08zMGJWSG8tNjFQd05DUXkxVFYtdWpOak9XN1RyOWpoQVFHVEI5SHB2R3ltR1FNMG5va1ZESHFHM0RvalRoSU9LNVRDMnBYUlBwSEs0ZTFZRmJLbmZpM2FXQ3JrVkY4NjVR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793153160.0
-    },
-    {
-        "id": "7d7d65196a",
-        "title_fa": "طرح ۷ روزه قطر برای پایان جنگ تهران با غرب",
-        "title_en": "Qatari mediators present Iran with new deal to end the war, official says",
-        "summary": [
-            "میانجی‌گران قطری پیش‌نویس توافق جدیدی را برای پایان دادن به درگیری‌ها به ج.ا تحویل دادند.",
-            "تهران تا پایان هفته جاری فرصت دارد پاسخ خود را به این طرح اعلام کند.",
-            "این برنامه شامل گام‌های هفت‌روزه اعتمادساز با ضمانت چند کشور است."
-        ],
-        "impact": "آغاز احتمالی مسیر دیپلماتیک برای کاهش تنش‌های نظامی و نفتی در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/qatari-mediators-present-iran-deal-090117875.html",
-        "clean_url": "https://www.yahoo.com/news/articles/qatari-mediators-present-iran-deal-090117875.html",
-        "image": "http://www.bing.com/th?id=ONUT.1_88Eln_TuRgPROokHjX2A&pid=News",
-        "timestamp": 1793152800.0
     }
 ]
