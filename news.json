@@ -439,6 +439,24 @@
         "timestamp": 1793381065.0
     },
     {
+        "id": "4be40d2319",
+        "title_fa": "رازگشایی از ساختار چندسطحی تاسیسات اتمی نطنز",
+        "title_en": "Trump plans new Iran strikes after midterms, Iran negotiators head to Doha",
+        "summary": [
+            "تصاویر ماهواره‌ای و تحلیل‌های جدید نشان می‌دهد مجتمع تونلی کوه کلنگ در نزدیکی نطنز احتمالاً دارای چند طبقه و ورودی‌های مجزا است.",
+            "اختلاف ارتفاع ۵۰ متری میان ورودی‌های شرقی و غربی، گمانه‌زنی‌ها درباره وسعت و پیچیدگی این سایت زیرزمینی را جدی‌تر کرده است."
+        ],
+        "impact": "تلاش‌های اتمی ج. ا برای پنهان‌سازی فعالیت‌های هسته‌ای در اعماق زمین پیچیده‌تر شده است.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/liveblog/202610312594",
+        "clean_url": "https://www.iranintl.com/en/liveblog/202610312594",
+        "image": "http://www.bing.com/th?id=ONUT.WJ3IaOGUpj0W_ExH2MLXGA&pid=News",
+        "timestamp": 1793379600.0
+    },
+    {
         "id": "537ffd1efe",
         "title_fa": "موج حمایتی در تجمع انتخاباتی ترامپ در فلوریدا",
         "title_en": "President Trump rally draws supporters, protesters to Daytona Beach ahead of midterms",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://en.mehrnews.com/news/248975/Sanctions-equal-economic-terrorism-Iran-tells-UN",
         "image": "https://media.mehrnews.com/d/2026/07/29/4/6114527.jpg?ts=1785308649236",
         "timestamp": 1793121360.0
-    },
-    {
-        "id": "2032bd6b0d",
-        "title_fa": "آخرین تحولات و اخبار مربوط به بنیامین نتانیاهو",
-        "title_en": "Benjamin Netanyahu",
-        "summary": [
-            "خبرگزاری‌ها آخرین موضع‌گیری‌ها و اقدامات نخست‌وزیر رژیم صهیونیستی را رصد می‌کنند.",
-            "بررسی تازه ترین تصمیمات امنیتی و نظامی در تل آویو در دستور کار رسانه ها قرار دارد."
-        ],
-        "impact": "بازتاب مستقیم تصمیمات نخست وزیر اسرائیل بر تحولات امنیتی منطقه",
-        "tag": "نظامی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Hill",
-        "url": "https://thehill.com/people/benjamin-netanyahu/",
-        "clean_url": "https://thehill.com/people/benjamin-netanyahu",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793120880.0
     }
 ]
