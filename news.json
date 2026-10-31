@@ -1,5 +1,23 @@
 [
     {
+        "id": "6ad5ec19ff",
+        "title_fa": "هشدار جدی آمریکا به کشورهای خلیج فارس درباره حمله به ج.ا",
+        "title_en": "Report: US warns Gulf allies of possible Iran strikes as early as November 4",
+        "summary": [
+            "منابع ارشد عربی از هشدار واشنگتن به متحدان منطقه‌ای خود درباره احتمال حملات جدید خبر دادند.",
+            "تاریخ چهارم نوامبر به عنوان بازه زمانی احتمالی این تحولات نظامی تعیین شده است."
+        ],
+        "impact": "افزایش شدید ریسک امنیتی و آماده‌باش نظامی در منطقه خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793428860.0
+    },
+    {
         "id": "61847c9a52",
         "title_fa": "تهدید اروپا توسط مقام ارشد امنیتی ایران",
         "title_en": "Iran’s top security official to Europe: War and terror come at a price; you are now paying the bill",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcV9uQXRCTm5tOHBuaTJwNV9UMldBcXRTSWxzRHZzanNfSXRheldfYkdHYzRHZVFRbDNWOTRvNmhXLXV2cWVyaWZYZnhVTmtJN3llNEc4ZXlNaXdIMlY3UjQxc2NBUW9lZmlLajRUb3kyMmhjVEowMGlBU2J5TXBwZWF0WjRYeFNlMUhVTEdEYk1ObHB4QVo4SnZNNFlwMzRIWm0yQWtFamJjZFlpcEUxMjl2cw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793123961.0
-    },
-    {
-        "id": "bed08c1a76",
-        "title_fa": "درگیری لفظی نمایندگان آمریکا و ج.ا در سازمان ملل",
-        "title_en": "Live - US, Iran clash at UN over nuclear program and war",
-        "summary": [
-            "نمایندگان ایالات متحده و ج.ا در نشست سازمان ملل بر سر پرونده اتمی و جنگ اخیر به شدت با یکدیگر درگیر شدند.",
-            "این نشست بار دیگر شکاف عمیق میان مواضع طرفین درباره برنامه هسته‌ای و تنش‌های منطقه‌ای را عیان کرد."
-        ],
-        "impact": "افزایش فشارهای دیپلماتیک بر حاکمیت تهران در مجامع بین‌المللی",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793123602.0
     }
 ]
