@@ -370,6 +370,24 @@
         "timestamp": 1793426290.0
     },
     {
+        "id": "3d5b4269a6",
+        "title_fa": "دستور مجتبی خامنه‌ای برای پاسخ نظامی بدون مرز",
+        "title_en": "Iran's Mojtaba Khamenei orders geographically unrestricted military response to threats",
+        "summary": [
+            "مجتبی خامنه‌ای فرمان پاسخ نظامی بدون محدودیت جغرافیایی به تهدیدات جدید را صادر کرد.",
+            "این موضع تند نشان‌دهنده تلاش برای بالا بردن هزینه اقدامات علیه منابق ج-ه-م-و-ر-ی ا-س-لا-م-ی است."
+        ],
+        "impact": "افزایش احتمال درگیری‌های ناخواسته و تنش نظامی در سطح منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Khaleej Times on MSN",
+        "url": "https://www.msn.com/en-ae/news/other/iran-s-mojtaba-khamenei-orders-geographically-unrestricted-military-response-to-threats/ar-AA2gtJgE",
+        "clean_url": "https://www.msn.com/en-ae/news/other/iran-s-mojtaba-khamenei-orders-geographically-unrestricted-military-response-to-threats/ar-AA2gtJgE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793425430.0
+    },
+    {
         "id": "383e137249",
         "title_fa": "فشار نمایندگان برای خروج از ان‌پی‌تی همزمان با وعده ترامپ درباره پایان جنگ",
         "title_en": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.iranintl.com/en/202610279331",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/f87a3844d1534f42a4af32021c9faa3f86d2cc63-1280x853.jpg?w=576&h=384&q=90&fit=max&auto=format",
         "timestamp": 1793152800.0
-    },
-    {
-        "id": "5169942e73",
-        "title_fa": "آزمایش موفقیت‌آمیز سیستم ناوبری پهپاد روسی بدون نیاز به جی‌پی‌اس",
-        "title_en": "Russia conducts tests of SOVA autonomous navigation system for UAVs",
-        "summary": [
-            "روسیه سیستم ناوبری جدیدی به نام سوا را برای پرواز پهپادها در شرایط قطع بودن سیگنال‌های ماهواره‌ای تست کرد.",
-            "این سیستم مبتنی بر بینایی ماشین است و با تطبیق تصاویر دوربین با نقشه‌های ماهواره‌ای، موقعیت پهپاد را تعیین می‌کند."
-        ],
-        "impact": "افزایش قابلیت عملیاتی پهپادها در جنگ الکترونیک و مناطق فاقد پوشش جی‌پی‌اس",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/defense/2209275",
-        "clean_url": "https://tass.com/defense/2209275",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793152020.0
     }
 ]
