@@ -452,6 +452,24 @@
         "timestamp": 1793360280.0
     },
     {
+        "id": "2a6d857875",
+        "title_fa": "ابقای ایران در فهرست سیاه اف‌ای‌تی‌اف به جرم پولشویی",
+        "title_en": "Iran remains on FATF blacklist over money laundering, terrorism",
+        "summary": [
+            "گروه ویژه اقدام مالی بار دیگر صلاحیت مالی حکومت را رد کرد و تهران را در لیست سیاه نگه داشت.",
+            "تداوم این وضعیت یعنی بسته‌تر شدن مسیرهای مالی و فلج شدن بیشتر اقتصاد متکی به رانت."
+        ],
+        "impact": "بسته‌تر شدن روزنه‌های تنفس مالی و تشدید انزوای بانکی جمهوری اسلامی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610305099",
+        "clean_url": "https://www.iranintl.com/en/202610305099",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793355060.0
+    },
+    {
         "id": "eb185565ac",
         "title_fa": "نگرانی اسرائیل از پایان زودهنگام جنگ آمریکا با ج.ا",
         "title_en": "IDF fears U.S. may seek short Iran war that ends before Israel meets goals",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://www.philstar.com/business/2026/10/28/2566122/collateral-damage",
         "image": "https://media.philstar.com/photos/2026/03/09/regime-change-trump_2026-03-09_09-42-43.jpg",
         "timestamp": 1793095200.0
-    },
-    {
-        "id": "5b5f3fdc23",
-        "title_fa": "بال گرفتن تنش‌ها در اسرائیل در آستانه انتخابات",
-        "title_en": "Tensions flare in Israel on election eve",
-        "summary": [
-            "فضای سیاسی و امنیتی اسرائیل در آستانه برگزاری انتخابات متشنج گزارش شده است.",
-            "احزاب مختلف در حال رقابت فشرده و دادن شعارهای تند امنیتی هستند."
-        ],
-        "impact": "این جو متشنج می‌تواند مستقیماً روی تصمیمات دولت بعدی در قبال پرونده هسته‌ای و گروه‌های نیابتی اثر بگذارد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Arkansas Democrat-Gazette",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0N3bXliT2o2MFJXVzlpTnRyWmJGNHhTaUNpNGVzSHE1UU1ZcVhXQ19renNtdVVRU3J3a3QzaWMwdV9NNHJ3SFJpVzZQeG9uLWJLenBJLThpUmVjMzRpcjd3WkhkT1ZCeWlHanY4N0xiQ3dmVndyWDRlaThGMl9Mb1lBRHVTYXdXSDQ1MWZtREJ6aTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0N3bXliT2o2MFJXVzlpTnRyWmJGNHhTaUNpNGVzSHE1UU1ZcVhXQ19renNtdVVRU3J3a3QzaWMwdV9NNHJ3SFJpVzZQeG9uLWJLenBJLThpUmVjMzRpcjd3WkhkT1ZCeWlHanY4N0xiQ3dmVndyWDRlaThGMl9Mb1lBRHVTYXdXSDQ1MWZtREJ6aTQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793091600.0
     }
 ]
