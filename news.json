@@ -1,5 +1,23 @@
 [
     {
+        "id": "d8a667e617",
+        "title_fa": "حمله پهپادی ناشناس به قایق‌های ماهیگیری در جنوب قشم",
+        "title_en": "Drone attacks fishing boats south of Qeshm Island, Iranian media reports",
+        "summary": [
+            "یک پهپاد متخاصم به دو قایق ماهیگیری در آب‌های جنوب جزیره قشم یورش برد.",
+            "این حمله دو مجروح و دو مفقود برجای گذاشته و رسانه‌های داخلی این خبر را تایید کرده‌اند."
+        ],
+        "impact": "افزایش تنش‌های نظامی در آب‌های خلیج فارس و ناامن شدن خطوط دریایی اطراف جزایر استراتژیک.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/drone-attacks-fishing-boats-south-of-qeshm-island-iranian-media-reports/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/drone-attacks-fishing-boats-south-of-qeshm-island-iranian-media-reports",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793440440.0
+    },
+    {
         "id": "fed1f835bb",
         "title_fa": "آماده‌باش تهران برای جنگ؛ بی‌تفاوتی به نتایج انتخابات آمریکا و اسرائیل",
         "title_en": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
@@ -514,6 +532,24 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/man-shot-dead-in-southern-town-of-tel-sheva",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/Screenshot-2026-10-30-at-11.42.53-640x400.jpeg",
         "timestamp": 1793392800.0
+    },
+    {
+        "id": "80b7f83cf6",
+        "title_fa": "تهدید ارتش جـ.ـمهوری اسـ.ـلامی به گسترش جنگ در صورت حمله آمریکا",
+        "title_en": "Iran’s army warns any new US attack would spread war wider",
+        "summary": [
+            "ارتش جـ.ـمهوری اسـ.ـلامی هشدار داد هرگونه تهاجم تازه ایالات متحده دامنه جنگ را در منطقه وسیع‌تر خواهد کرد.",
+            "این موضع‌گیری همزمان با تلاش‌های دیپلماتیک میانجی‌گران قطری و نامه‌نگاری میان مقام‌های ارشد مطرح شده است."
+        ],
+        "impact": "بالارفتن ریسک درگیری نظامی مستقیم و شکست میانجی‌گری‌های دیپلماتیک در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/irans-army-warns-any-new-us-attack-would-spread-war-wider-3009105",
+        "clean_url": "https://www.arabnews.com/middle-east/irans-army-warns-any-new-us-attack-would-spread-war-wider-3009105",
+        "image": "http://www.bing.com/th?id=ONUT.m4lh3UziSNrKYDwnyg3Tsg&pid=News",
+        "timestamp": 1793390760.0
     },
     {
         "id": "6facddb310",
@@ -5450,41 +5486,5 @@
         "clean_url": "https://news.laodong.vn/the-gioi/kho-vat-lieu-hat-nhan-iran-van-la-an-so-sau-cuoc-tan-cong-cua-my-1790483.ldo",
         "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/10/28/1790483/Iaea.jpg?w=800&h=420&crop=auto&scale=both",
         "timestamp": 1793129700.0
-    },
-    {
-        "id": "bc4c8767f8",
-        "title_fa": "نمایش قدرت انتخاباتی ترامپ و رقیب دمکرات در تگزاس",
-        "title_en": "Trump and Talarico offer Texas split screen with dueling rallies just miles apart",
-        "summary": [
-            "برگزاری تجمع‌های همزمان توسط ترامپ و نامزد دمکرات برای تصاحب کرسی سنا.",
-            "تشدید رقابت‌های سیاسی در ایالات متحده همزمان با نزدیک شدن به انتخابات."
-        ],
-        "impact": "تغییر توازن قوا در سنای آمریکا به نفع یکی از طرفین.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-and-talarico-offer-texas-split-screen-with-dueling-rallies-just-miles-apart/ar-AA2gcPvX",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-and-talarico-offer-texas-split-screen-with-dueling-rallies-just-miles-apart/ar-AA2gcPvX",
-        "image": "http://www.bing.com/th?id=ONUT.9AU89Xstr1fbhCVF6gQdkQ&pid=News",
-        "timestamp": 1793129640.0
-    },
-    {
-        "id": "ca88afea01",
-        "title_fa": "بن‌بست دیپلماتیک با ج.ه. ا. همزمان با برگزاری انتخابات در اسرائیل",
-        "title_en": "Israel votes amid record turnout; Diplomatic efforts with Iran falter - TV7 Israel News - 27 Oct.",
-        "summary": [
-            "مشارکت بی‌سابقه مردم در انتخابات اسرائیل نشان‌دهنده تمرکز جامعه بر امنیت داخلی است.",
-            "تلاش‌های دیپلماتیک برای مهار تنش‌ها با ج.ه.ا به بن‌بست رسیده و فضا امنیتی‌تر می‌شود."
-        ],
-        "impact": "افزایش احتمال درگیری‌های مستقیم به دلیل شکست دیپلماسی.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SN1EtTnlteFZhdlVkaC1jMmpCb2ItNExfWTdDVU9vTlVCWFdqcnRGUFdNWmRtYlYyMnlPSlJWV2NheXk1Nkk2Sk9lVEVqYlpmb3UzcHcwY2VVdXhmbDJ2eTBUWnlMN3Q4SHlSQVYzbXlsMGJGbXhz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SN1EtTnlteFZhdlVkaC1jMmpCb2ItNExfWTdDVU9vTlVCWFdqcnRGUFdNWmRtYlYyMnlPSlJWV2NheXk1Nkk2Sk9lVEVqYlpmb3UzcHcwY2VVdXhmbDJ2eTBUWnlMN3Q4SHlSQVYzbXlsMGJGbXhz",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793129540.0
     }
 ]
