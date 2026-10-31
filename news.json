@@ -37,6 +37,24 @@
         "timestamp": 1793447820.0
     },
     {
+        "id": "208691d4a8",
+        "title_fa": "نوسان قیمت سوخت در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "آمارهای روزانه ان‌بی‌سی نیوز تغییرات بهای بنزین در ایالت‌ها و شهرستان‌های مختلف آمریکا را رصد می‌کند.",
+            "این داده‌ها شاخص مهمی برای ارزیابی هزینه‌های روزمره شهروندان آمریکایی به شمار می‌رود."
+        ],
+        "impact": "تغییرات قیمت سوخت مستقیماً بر تورم عمومی و هزینه‌های حمل‌ونقل در آمریکا اثر می‌گذارد.",
+        "tag": "اقتصادی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793444298.0
+    },
+    {
         "id": "723ce9e377",
         "title_fa": "تهدید دوباره تهران به پاسخ بدون محدودیت به آمریکا و اسرائیل",
         "title_en": "Khamenei: IRGC will have 'immediate, unrestricted response' to any US, Israeli threats",
@@ -5468,23 +5486,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/hormuz-washingtons-lever-tehrans-asset-indias-lifeline/ar-AA2gdZz9",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793141820.0
-    },
-    {
-        "id": "5c23cbdc8a",
-        "title_fa": "اعتراف مقامات ارشد حکومتی به فشار سنگین تحریم‌ها و بسته‌شدن مرزها",
-        "title_en": "Tehran summit divides Iranian hardliners over Yemen and US talks",
-        "summary": [
-            "محسن رضایی اعتراف کرد که مسدود شدن مرزهای زمینی با پاکستان، عراق و اختلال در مرز ترکیه ضربه سختی به اقتصاد وارد می‌کند اما به معنای شکست استراتژیک نیست.",
-            "فشار همه‌جانبه ایالات متحده بر همسایگان برای بستن مرزهای زمینی، به همراه محدودیت‌های هوایی و دریایی، بحران اقتصادی را تشدید کرده است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و افزایش فشار بر معیشت مردم به دلیل سیاست‌های منطقه‌ای.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610277978",
-        "clean_url": "https://www.iranintl.com/en/202610277978",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/e2bca8cafceaab6283f422a995445e96d1d2d6fc-1224x816.png?rect=0,87,1224,643&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793141760.0
     }
 ]
