@@ -56,6 +56,25 @@
         "timestamp": 1793435160.0
     },
     {
+        "id": "be26ead8cf",
+        "title_fa": "فشار حداکثری اقتصادی و سقوط آزاد ارزش ریال",
+        "title_en": "Egypt warns further escalation in Iran war could have wider consequences",
+        "summary": [
+            "صادرات نفت جـمـهـورۍ اسـلا‌مـی از اواخر مرداد ماه کاملاً متوقف شده است.",
+            "نرخ دلار در بازار آزاد به مرزهای بحرانی رسیده و تورم نقطه به نقطه از رکورد ۹۰ درصد عبور کرده است.",
+            "مسعود پزشکیان اعتراف کرده که تحریم‌ها اثرات ویرانگری بر اقتصاد کشور گذاشته است."
+        ],
+        "impact": "فلج شدن شریان‌های مالی و ارزی حکومت زیر ضربه تحریم‌های جدید",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610317234",
+        "clean_url": "https://www.iranintl.com/en/202610317234",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793434860.0
+    },
+    {
         "id": "ae8296f78d",
         "title_fa": "گشایش در دیپلماسی؛ آغاز گفتگوهای مستقیم آمریکا و ایران در دوحه",
         "title_en": "US delegation said to be joining direct talks with Iran in Doha after negotiation breakthrough",
@@ -5467,24 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SN1EtTnlteFZhdlVkaC1jMmpCb2ItNExfWTdDVU9vTlVCWFdqcnRGUFdNWmRtYlYyMnlPSlJWV2NheXk1Nkk2Sk9lVEVqYlpmb3UzcHcwY2VVdXhmbDJ2eTBUWnlMN3Q4SHlSQVYzbXlsMGJGbXhz",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793129540.0
-    },
-    {
-        "id": "3c2458c7de",
-        "title_fa": "فشار دیپلماتیک همسایگان بر جـمـهـورـی اسـلاـمی",
-        "title_en": "Iran security forces reportedly killed in attack",
-        "summary": [
-            "کشورهای میانجی مانند قطر و پاکستان خواستار تغییر رفتار حاکمیت ایران شده‌اند.",
-            "سفر هیئت‌های نظامی و امنیتی منطقه به تهران نشانگر آمادگی برای هر سناریویی است.",
-            "دوحه صراحتاً از تهران خواست تهدید کشورهای عربی و تنگه هرمز را متوقف کند."
-        ],
-        "impact": "افزایش انزوای منطقه‌ای و تنگ‌تر شدن حلقه فشار همسایگان بر تهران",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610277270",
-        "clean_url": "https://www.iranintl.com/en/202610277270",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793129460.0
     }
 ]
