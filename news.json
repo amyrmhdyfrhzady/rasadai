@@ -19,6 +19,25 @@
         "timestamp": 1793431528.0
     },
     {
+        "id": "ba100ff721",
+        "title_fa": "فلج شدن صادرات نفت ایران و سقوط بی‌سابقه ارزش ریال",
+        "title_en": "Iran's acting oil minister calls for stronger protection of energy facilities",
+        "summary": [
+            "اجرای طرح فشار حداکثری اقتصادی آمریکا صادرات نفت ایران از طریق دریا را به صفر نزدیک کرده و راه‌های دور زدن تحریم‌ها را مسدود ساخته است.",
+            "اعتراف علنی مسعود پزشکیان به آسیب‌های شدید تحریم‌ها، از بن‌بست شدید مالی و ناکارآمدی ساختار اقتصادی حکایت دارد.",
+            "سقوط سنگین ارزش ریال و جهش تورم به حدود ۹۰ درصد، شریان‌های درآمدی حاکمیت را کاملاً فلج کرده است."
+        ],
+        "impact": "توقف درآمدهای نفتی و سقوط ارزش پول ملی، فروپاشی ساختار اقتصادی را وارد مرحله بحرانی کرده است.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610310284",
+        "clean_url": "https://www.iranintl.com/en/202610310284",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793429100.0
+    },
+    {
         "id": "6ad5ec19ff",
         "title_fa": "هشدار جدی آمریکا به کشورهای خلیج فارس درباره حمله به ج.ا",
         "title_en": "Report: US warns Gulf allies of possible Iran strikes as early as November 4",
@@ -346,6 +365,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWk5eVVLd3F0MF9xWTY5bEdXbG94a0NDWENuX2ZzaUtMTUwtMXFXZG9WNkZRM1A3UHZhQWI0cDhtcGZwajdYNVFwaExFMlphb0dmVFUxOXZXQXd2WE1sSnNfX01yQkFxSmtmWjlFMkRUaDRVSjQxSlJ2UE85QU51VEVDcVRPWGk5Y01lV2tkWWV6NUsxeWl3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793395200.0
+    },
+    {
+        "id": "daa117d187",
+        "title_fa": "هشدار تیم ترامپ درباره حملات سنگین نظامی به ایران",
+        "title_en": "UPDATES: US War on Iran, Day 247 — Trump Camp Threatens Attacks on November 4",
+        "summary": [
+            "تیم ترامپ به کشورهای عربی منطقه پیام داده که بلافاصله پس از انتخابات، حملات نظامی کوتاه اما بسیار شدیدی علیه ایران اجرا خواهد شد.",
+            "واکنش ترسان کشورهای حاشیه خلیج فارس و رایزنی آن‌ها برای عدم استفاده آمریکا از پایگاه‌های منطقه‌ای، نشان‌دهنده وحشت از پاسخ متقابل است.",
+            "تأکید ترامپ بر باقی بودن تمامی گزینه‌ها روی میز، سیگنال مستقیمی برای از بین بردن توان هسته‌ای و تسلیحاتی ج.ا است."
+        ],
+        "impact": "افزایش بی‌سابقه خطر درگیری مستقیم نظامی و بحران در همکاری‌های امنیتی آمریکا و اعراب.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "EA WorldView",
+        "url": "https://eaworldview.com/2026/10/us-war-on-iran-trump-threatens-strikes-november-4/",
+        "clean_url": "https://eaworldview.com/2026/10/us-war-on-iran-trump-threatens-strikes-november-4",
+        "image": "http://www.bing.com/th?id=ONUT.vcbkopfz9Ad0CNSc9Wj_Mg&pid=News",
+        "timestamp": 1793394600.0
     },
     {
         "id": "f69af28737",
@@ -5446,42 +5484,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/un-nuclear-watchdog-chief-urges-iran-to-grant-access/ar-AA2gbkay",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gbJXd.img?w=768&h=523&m=4&q=94",
         "timestamp": 1793125610.0
-    },
-    {
-        "id": "adaae115e0",
-        "title_fa": "دستپاچگی مسکو و تهران برای دور زدن تحریم‌های نفتی",
-        "title_en": "Iran, Russia eye joint oil and gas projects amid US blockade",
-        "summary": [
-            "پوتین و پزشکیان در مسکو روی توسعه پروژه‌های مشترک نفت و گاز تمرکز کردند.",
-            "تهران برای فرار از فشار تحریم‌های آمریکا و محاصره انرژی، به سمت شریک شرقی چسبیده است.",
-            "پزشکیان ادعا کرد ایران سومین تولیدکننده بزرگ گاز جهان است و نیاز به همکاری استراتژیک دارد."
-        ],
-        "impact": "تلاش مذبوحانه جمهوری اسلامی برای فروش انرژی با واسطه روس‌ها زیر سایه تحریم‌های سنگین.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610270500",
-        "clean_url": "https://www.iranintl.com/en/202610270500",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/1f428492545a85acdf30149b652a6e91670ea5b5-640x415.jpg?rect=63,87,530,278&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793125080.0
-    },
-    {
-        "id": "802c69a288",
-        "title_fa": "آژانس: هیچ نشانی از بازسازی سایت‌های بمب‌باران‌شده نیست",
-        "title_en": "Nuclear Inspectors See No Evidence Iran Repaired US-Bombed Sites",
-        "summary": [
-            "بازرسان اتمی هیچ مدرکی مبنی بر تعمیر یا بازسازی تاسیسات هدف قرار گرفته توسط آمریکا در ایران ندیده‌اند.",
-            "این گزارش نشان می‌دهد آسیب‌های وارد شده به زیرساخت‌ها فراتر از توان ترمیم سریع یا اراده فعلی حکومت است."
-        ],
-        "impact": "تضعیف بیش از پیش بازدارندگی اتمی جـ.هـ.وری اسـ.لا‌می در برابر حملات.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTN5QzFhYWJ3eDVSc3JpcDlXLUZWMTJMSzZEc1haU2wtZlQ3LTlRekxnNEF5SThHbHZzUHZoWWFNTXNMa0VVc2NNaDlVTW5UWXl5SEhPTkwzQjFxVkpvemphQUw4Y3k5enRJQ0Y0VnVjWjh2ZmlIYXBHZ3V2bzlqdFNVUEs1eXliUVpXNktRNnM3UngyVnNzb2I5MXdZMFdzbXRjOWVDckJocExXUzJiUnJDYXF3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTN5QzFhYWJ3eDVSc3JpcDlXLUZWMTJMSzZEc1haU2wtZlQ3LTlRekxnNEF5SThHbHZzUHZoWWFNTXNMa0VVc2NNaDlVTW5UWXl5SEhPTkwzQjFxVkpvemphQUw4Y3k5enRJQ0Y0VnVjWjh2ZmlIYXBHZ3V2bzlqdFNVUEs1eXliUVpXNktRNnM3UngyVnNzb2I5MXdZMFdzbXRjOWVDckJocExXUzJiUnJDYXF3UQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793124815.0
     }
 ]
