@@ -1,5 +1,24 @@
 [
     {
+        "id": "0a36c9443d",
+        "title_fa": "توافق پنهانی واشنگتن و تهران برای پایان جنگ",
+        "title_en": "Washington and Tehran Release Details of MoU to End War",
+        "summary": [
+            "انتشار جزئیات تفاهم‌نامه محرمانه میان آمریکا و ایران برای برقراری آتش‌بس فوری و دائمی.",
+            "تعهد طرفین به مذاکره ۶۰ روزه برای دستیابی به توافق نهایی و لغو تدریجی تحریم‌ها.",
+            "توقف کامل عملیات‌های نظامی در تمامی جبهه‌ها از جمله لبنان بر اساس این سند مکتوب."
+        ],
+        "impact": "تغییر بزرگ در معادلات نظامی منطقه و احتمال چرخش از رویارویی به میز مذاکره.",
+        "tag": "دیپلماسی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "qna",
+        "url": "https://qna.org.qa/en/news/news-details?date=18/06/2026&id=washington-and-tehran-release-details-of-mou-to-end-war",
+        "clean_url": "https://qna.org.qa/en/news/news-details",
+        "image": "https://cdn.qna.org.qa/media/qfldcosq/qna-22qatar-team-16-6-2030.jpg?width=1200&height=900&v=1dcfe858da357b0",
+        "timestamp": 1793456280.0
+    },
+    {
         "id": "242859b617",
         "title_fa": "طرح اسرائیل برای تشدید ضربات به ج‌ا‌ا پس از انتخابات آمریکا",
         "title_en": "Israel weighs Iran escalation, Gaza offensive after US vote",
@@ -5470,24 +5489,6 @@
         "url": "https://www.yahoo.com/news/articles/qatari-mediators-present-iran-deal-090117875.html",
         "clean_url": "https://www.yahoo.com/news/articles/qatari-mediators-present-iran-deal-090117875.html",
         "image": "http://www.bing.com/th?id=ONUT.1_88Eln_TuRgPROokHjX2A&pid=News",
-        "timestamp": 1793152800.0
-    },
-    {
-        "id": "4ac39d009f",
-        "title_fa": "رؤیای نفت ۱۳۰ دلاری در بودجه خروج از بحران ج.ه",
-        "title_en": "Tehran plans for $130 oil it struggles to sell",
-        "summary": [
-            "طراحان بودجه دولت قیمت نفت را روی رقم غیرئواقعی ۱۳۰ دلار برای سال آینده بسته اند، در حالی که صادرات نفت کشور به دلیل تحریم ها و درگیری ها فلج شده است.",
-            "رئیس سازمان برنامه و بودجه از تایید دستورالعمل بودجه خبر داده اما عمداً از اعلام قیمت پایه نفت خودداری کرده تا ابعاد فاجعه اقتصادی پنهان بماند."
-        ],
-        "impact": "این ارقام غیرواقعی در بودجه یعنی تعمیق کسری بودجه و فشار بیشتر تورمی بر سفره مردم.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610279331",
-        "clean_url": "https://www.iranintl.com/en/202610279331",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/f87a3844d1534f42a4af32021c9faa3f86d2cc63-1280x853.jpg?w=576&h=384&q=90&fit=max&auto=format",
         "timestamp": 1793152800.0
     }
 ]
