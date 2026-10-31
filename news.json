@@ -1,5 +1,23 @@
 [
     {
+        "id": "0e88403db1",
+        "title_fa": "جهش ۴۳ درصدی دارایی‌های نفتی ترامپ همزمان با بحران ایران",
+        "title_en": "Trump's oil and gas holdings surge 43% amid Iran war, CBS reports",
+        "summary": [
+            "گزارش‌ها از رشد چشمگیر سهام بخش انرژی ترامپ حکایت دارد.",
+            "تنش‌های نظامی پیرامون ج.ה.ا مستقیماً بر بازار انرژی اثر گذاشته است."
+        ],
+        "impact": "تنش‌های نظامی به سوداگری در بازارهای انرژی و رشد دارایی‌های کلیدی دامن زده است.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWUR1MTI0emxfZV9vT29kODhGRm1vM0RZUjlLaTNVVm42T0xDcDhjYkFaR0RYWUtWM2VvQWQtaHpReHVVQm01aGphdUdmc0xOeDJtUDhWakZZcmc0cXJr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWUR1MTI0emxfZV9vT29kODhGRm1vM0RZUjlLaTNVVm42T0xDcDhjYkFaR0RYWUtWM2VvQWQtaHpReHVVQm01aGphdUdmc0xOeDJtUDhWakZZcmc0cXJr",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793419803.0
+    },
+    {
         "id": "b1f4d02c9b",
         "title_fa": "میانجی‌گری قطر در تهران برای پایان جنگ",
         "title_en": "Middle East latest: Qatari mediators return to Tehran with latest proposal to end war",
@@ -5463,24 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3NHSG5HZmNZSHo1SVBsRW54MlRmM1NNUUt6ZFVSYmg3VFlCMGZJdlh6ZUo4U3UwemxJNl9xd0puYktoWU9XYjVLUzFLanhWSW44X3p6RHc3ai1Xb2w4YlJmVDYyS1FvOTM5QWF3UVRLOFNka0JPaGdiamVQYnRKMERZajN4MVBpengwbWFFcEx0R0tVT1cxcTRNbkhKRzc5YWdEemM0cXRfR0pzcHFSOXJETlkxc0NSRzlKYkFWZHFTYUE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793119292.0
-    },
-    {
-        "id": "c4872e7504",
-        "title_fa": "دیپلماسی اجبار همسایگان با چاشنی آمادگی برای جنگ",
-        "title_en": "Iran's neighbors push diplomacy, prepare for its failure",
-        "summary": [
-            "مقامات ارشد نظامی و امنیتی عربستان، پاکستان و ترکیه در تهران با مسعود پزشکیان و محسن رضایی دیدار کردند.",
-            "این سفر آخرین تلاش دیپلماتیک پیش از احتمال واکنش نظامی جمعی همسایگان ارزیابی می‌شود.",
-            "پیمان دفاعی مشترک مکه پس از حملات اخیر با جدی‌ترین آزمون خود برای پاسخگویی مواجه شده است."
-        ],
-        "impact": "افزایش فشار منطقه‌ای بر ج-م-ه-و-ر-ی ا-س-لا-م-ی و آمادگی بازیگران کلیدی برای سناریوی نظامی.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610276000",
-        "clean_url": "https://www.iranintl.com/en/202610276000",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/03da755cae645dc2d6137ef50247057032757bd5-1200x800.jpg?rect=52,113,893,469&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793119260.0
     }
 ]
