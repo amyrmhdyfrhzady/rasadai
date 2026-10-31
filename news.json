@@ -273,6 +273,25 @@
         "timestamp": 1793387883.0
     },
     {
+        "id": "fe8eb33b75",
+        "title_fa": "هشدار آلمان درباره هزینه ۱۰۰ میلیارد یورویی جنگ و ناتوانی راهکار نظامی",
+        "title_en": "Merz says Iran conflict cannot be resolved militarily",
+        "summary": [
+            "صدر اعظم آلمان صریحاً اعلام کرد درگیری با تهران راهکار نظامی ندارد و تنها از طریق دیپلماسی و گفت‌وگو حل می‌شود.",
+            "جهش قیمت انرژی به دلیل تنش‌های منطقه‌ای بیش از ۱۰۰ میلیارد یورو به اقتصاد اروپا و مصرف‌کنندگان آسیب زده است.",
+            "هم‌زمان با فشار برلین برای کنترل بحران، سرویس‌های اطلاعاتی غربی همچنان در حال مقابله با تحرکات نفوذی و تهدیدهای امنیتی ایران هستند."
+        ],
+        "impact": "آسیب شدید اقتصادی اروپا باعث فشار فزاینده غرب برای مهار تنش نظامی و کشاندن دوباره طرفین به میز مذاکره می‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610311114",
+        "clean_url": "https://www.iranintl.com/en/202610311114",
+        "image": "http://www.bing.com/th?id=ONUT.BUvxR0wLCImJZ_2iAMYptQ&pid=News",
+        "timestamp": 1793387400.0
+    },
+    {
         "id": "52a9acf364",
         "title_fa": "پیروزی غیرمنتظره نتانیاهو و سایه سنگین آن بر تهران",
         "title_en": "Netanyahu Defies Exit Polls to Take Lead in Israeli Election — What It Means for Iran War",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://www.iranintl.com/en/202610276000",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/03da755cae645dc2d6137ef50247057032757bd5-1200x800.jpg?rect=52,113,893,469&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1793119260.0
-    },
-    {
-        "id": "7b95fd1cfb",
-        "title_fa": "رهگیری موشک حوثی‌ها به سمت طائف و طرح صلح منطقه‌ای",
-        "title_en": "Saudi-led coalition intercepts Iran-backed Houthi ballistic missile toward Taif",
-        "summary": [
-            "پدافند ائتلاف به رهبری عربستان یک فروند موشک بالستیک شلیک شده از سوی نیابتی‌های حوثی را پیش از اصابت به شهر طائف منهدم کرد.",
-            "اسلام‌آباد طرحی با تایید دونالد ترامپ برای پایان درگیری‌ها به تهران ارائه داده که پاکستان، ترکیه، عربستان و قطر ضمانت اجرای آن را بر عهده خواهند داشت."
-        ],
-        "impact": "تداوم حملات موشکی نیابتی همزمان با تلاش‌های دیپلماتیک منطقه‌ای برای مهار بحران.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610278024",
-        "clean_url": "https://www.iranintl.com/en/202610278024",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1793118240.0
     }
 ]
