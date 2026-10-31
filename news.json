@@ -1,5 +1,23 @@
 [
     {
+        "id": "b1f4d02c9b",
+        "title_fa": "میانجی‌گری قطر در تهران برای پایان جنگ",
+        "title_en": "Middle East latest: Qatari mediators return to Tehran with latest proposal to end war",
+        "summary": [
+            "مقام‌های میانجی قطری با ارائه طرح جدیدی به تهران بازگشته‌اند.",
+            "هدف این سفر تلاش برای متوقف کردن تنش‌ها و پایان دادن به درگیری‌های جاری است."
+        ],
+        "impact": "تلاش‌های دیپلماتیک برای کاهش بحران در منطقه ادامه دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnZLTm9HNUpSbUNocng0VDBfQkRsbjFKajRDRTJSLUJrLXpCYktWaE94MWc1TzVJQlY1OEpaTDRRa2tLWlI4bTAyV1dZeDgtaE5maDQyVnYwN2lxZ29UYUdUXzZrejZJY0lqczlsZGRjUC0wTGtwQWotR3A3eHMwaG1ydFdGMkhO?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnZLTm9HNUpSbUNocng0VDBfQkRsbjFKajRDRTJSLUJrLXpCYktWaE94MWc1TzVJQlY1OEpaTDRRa2tLWlI4bTAyV1dZeDgtaE5maDQyVnYwN2lxZ29UYUdUXzZrejZJY0lqczlsZGRjUC0wTGtwQWotR3A3eHMwaG1ydFdGMkhO",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793419803.0
+    },
+    {
         "id": "eb4703a1e3",
         "title_fa": "انفجار در تنگه هرمز همزمان با ادعای ترامپ درباره تمایل ایران به مذاکره",
         "title_en": "Explosions in Hormuz as Trump says Iran ‘wants to talk’",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://www.iranintl.com/en/202610278024",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1793118240.0
-    },
-    {
-        "id": "3322810144",
-        "title_fa": "دست نگه داشتن فدرال رزرو برای تغییر نرخ بهره",
-        "title_en": "Fed expected to hold interest rates steady as inflation tops midterm voters’ concerns",
-        "summary": [
-            "بانک مرکزی آمریکا نرخ بهره را در آستانه انتخابات میان‌دوره‌ای تغییر نمی‌دهد.",
-            "تورم بالا و نگرانی رای‌دهندگان دلیل اصلی احتیاط مقامات اقتصادی است."
-        ],
-        "impact": "ثبات موقت بازار مالی آمریکا تا مشخص شدن نتایج انتخابات.",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/fed-interest-rates-inflation-midterms-trump-rcna605905",
-        "clean_url": "https://www.nbcnews.com/business/economy/fed-interest-rates-inflation-midterms-trump-rcna605905",
-        "image": "http://www.bing.com/th?id=ONUT.yCQ7iRGALhHaSe6QLkz4bA&pid=News",
-        "timestamp": 1793115300.0
     }
 ]
