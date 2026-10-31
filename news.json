@@ -683,6 +683,25 @@
         "timestamp": 1793416500.0
     },
     {
+        "id": "b93570b960",
+        "title_fa": "دکترین نظامی جدید جـ.م برای حملات فرامرزی",
+        "title_en": "Iran MP says new military doctrine allows strikes beyond regional borders",
+        "summary": [
+            "مقام‌های نظامی تهران از تغییر دکترین و جواز حملات فراتر از مرزهای منطقه سخن می‌گویند.",
+            "نشست منامه شاهد هشدار صریح کشورهای عربی و غربی نسبت به خطرات اقدامات نیابتی و تشدید تنش‌ها بود.",
+            "قاهره نسبت به دور جدید درگیری‌ها میان واشنگتن و تهران و تبعات ویرانگر آن هشدار داد."
+        ],
+        "impact": "افزایش ریسک امنیتی در خاورمیانه و آماده‌باش کشورهای حاشیه خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610312323",
+        "clean_url": "https://www.iranintl.com/en/202610312323",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793411580.0
+    },
+    {
         "id": "2aece1385b",
         "title_fa": "تهدید اتمی و ضربه کوبنده ت‍.ر.ک‍.ی‍.ه‌ به اروپا",
         "title_en": "Iran warns of ‘earth-shattering blow’ in most chilling threat yet",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793157749.0
-    },
-    {
-        "id": "fdee4da32b",
-        "title_fa": "رقابت داغ نامزدهای فرمانداری کالیفرنیا بر سر قیمت سوخت",
-        "title_en": "Your last-minute guide to California governor candidates’ views on gas prices, EVs and high-speed rail",
-        "summary": [
-            "بالا بودن بهای بنزین در کالیفرنیا به یکی از چالش‌های اصلی نامزدهای فرمانداری تبدیل شده است.",
-            "دیدگاه‌های متفاوتی درباره سیاست‌های انرژی، خودروهای برقی و هزینه‌های زندگی در میان نامزدها وجود دارد."
-        ],
-        "impact": "تاثیر مستقیم هزینه‌های انرژی بر سبد رأی‌دهندگان در ایالت کالیفرنیا.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
-        "clean_url": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
-        "image": "http://www.bing.com/th?id=ONUT.OTnMqKO7matpqgODhaUOSA&pid=News",
-        "timestamp": 1793156400.0
     }
 ]
