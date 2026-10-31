@@ -645,6 +645,25 @@
         "timestamp": 1793416567.0
     },
     {
+        "id": "bc650b0601",
+        "title_fa": "خسارت سنگین حملات پهپادی به پایگاه‌های آمریکایی در منطقه",
+        "title_en": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds",
+        "summary": [
+            "بررسی‌های ماهواره‌ای نشان می‌دهد حملات پهپادی و موشکی منسوب به ج.ه.ا و نیروهای نیابتی آن تا ماه اوت بیش از بیست پایگاه نظامی آمریکا را هدف قرار داده است.",
+            "استراتژی حملات ابتدا بر انهدام سیستم‌های راداری و هشدار زودهنگام تمرکز داشته تا مسیر برای آسیب به انبارها و تجهیزات هموار شود.",
+            "این حملات میلیون‌ها دلار خسارت به جای گذاشته و ارتش آمریکا را ناچار به جابجایی تجهیزات خود در منطقه کرده است."
+        ],
+        "impact": "آسیب به تاسیسات و جابجایی استراتژیک تجهیزات نظامی آمریکا در منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Newsday",
+        "url": "https://www.newsday.com/news/nation/iran-war-us-base-damage-trump-l15242",
+        "clean_url": "https://www.newsday.com/news/nation/iran-war-us-base-damage-trump-l15242",
+        "image": "http://www.bing.com/th?id=ONUT.7rPfr1N-FBEfyPKzqK4JVA&pid=News",
+        "timestamp": 1793416500.0
+    },
+    {
         "id": "2aece1385b",
         "title_fa": "تهدید اتمی و ضربه کوبنده ت‍.ر.ک‍.ی‍.ه‌ به اروپا",
         "title_en": "Iran warns of ‘earth-shattering blow’ in most chilling threat yet",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOTZrdERYSXRSU0YzNGFBenVqcnRCNVdUYVdFQ1V1VTVfSmdUY2dXWkhYczAyMjhjTEhZQkEtRVUxR2k0MzhQMnVTUkt0TkpTYUp0NHV5ZVJVMXJlVXlrRUllR0E3LWhqbC1tYUJVaWVPcGRqRnl6OHJYeVdBamdyOC1RMy1RRFJDSlR6WlNzcTBWWWc3UUFIRVJIV0hFWElGUF81amRWYXFrbER6UndKY2hpNm1fV3lfTmpXRlBjcDZrVTBhMk9QNWhpSmRRNFNRZU5rcE1oTQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793155289.0
-    },
-    {
-        "id": "598861f959",
-        "title_fa": "هزینه سنگین ۴۷ میلیارد دلاری پنتاگون در درگیری‌های مرتبط با ایران",
-        "title_en": "US military cost of Iran war tops $47B, Pentagon tells Congress",
-        "summary": [
-            "پنتاگون به کنگره گزارش داده که هزینه‌های مستقیم و عملیاتی آمریکا برای مقابله با تحرکات ج‌ا و گروه‌های نیابتی‌اش از ۴۷ میلیارد دلار فراتر رفته است.",
-            "سنگینی این رقم مالی، نمایندگان کنگره را برای شفاف‌سازی ابعاد جنگ و تصمیم‌گیری درباره ادامه حضور نظامی در خاورمیانه تحت فشار قرار می‌دهد."
-        ],
-        "impact": "احتمال تغییر استراتژی واشنگتن از فرسایش مالی به سمت تصمیمات ضربتی یا تشدید فشار حداکثری.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzQyWVY3TmM5VHo1V2Z2c0lETlZqeVpZTlgwdjkzbk8tLVExRXhSSjdlTUxiZVRNT08zMGJWSG8tNjFQd05DUXkxVFYtdWpOak9XN1RyOWpoQVFHVEI5SHB2R3ltR1FNMG5va1ZESHFHM0RvalRoSU9LNVRDMnBYUlBwSEs0ZTFZRmJLbmZpM2FXQ3JrVkY4NjVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzQyWVY3TmM5VHo1V2Z2c0lETlZqeVpZTlgwdjkzbk8tLVExRXhSSjdlTUxiZVRNT08zMGJWSG8tNjFQd05DUXkxVFYtdWpOak9XN1RyOWpoQVFHVEI5SHB2R3ltR1FNMG5va1ZESHFHM0RvalRoSU9LNVRDMnBYUlBwSEs0ZTFZRmJLbmZpM2FXQ3JrVkY4NjVR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793153160.0
     }
 ]
