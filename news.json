@@ -1,5 +1,95 @@
 [
     {
+        "id": "bf80b13850",
+        "title_fa": "واکنش تند قطر به حمله به نفت‌کش و شکایت ایران به سازمان جهانی",
+        "title_en": "Live: Iran says Hormuz could be reopened within two days if conditions met",
+        "summary": [
+            "دوحه حمله به نفت‌کش خود در خلیج فارس را به شدت محکوم کرده و حق پاسخگویی را برای خود محفوظ دانسته است.",
+            "تهران نیز پرونده مستندات حملات آمریکا و اسرائیل به زیرساخت‌های دریایی خود را به سازمان بین‌المللی دریانوردی تحویل داد."
+        ],
+        "impact": "بالا گرفتن تنش‌های دریایی و به خطر افتادن امنیت انرژی در منطقه.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/live/live-israelis-head-polls-netanyahu-fights-political-life",
+        "clean_url": "https://www.middleeasteye.net/live/live-israelis-head-polls-netanyahu-fights-political-life",
+        "image": "https://www.middleeasteye.net/sites/default/files/2026-10/ISRAEL_ELECTIONS_AFP.jpg",
+        "timestamp": 1793519580.0
+    },
+    {
+        "id": "4f544e92fc",
+        "title_fa": "بررسی سناریوی ضربه به برنامه اتمی و رهبری در اسرائیل",
+        "title_en": "'IN THE WAR ROOM'",
+        "summary": [
+            "کتاب جدیدی ابعاد تازه‌ای از برنامه‌ریزی‌های اسرائیل برای حمله تمام‌عیار به تاسیسات اتمی و حذف رهبری ج ا را فاش می‌کند.",
+            "بنیامین نتانیاهو سال‌هاست که پرونده تهدید اتمی تهران را به عنوان مسئله اصلی امنیت ملی اسرائیل دنبال کرده است."
+        ],
+        "impact": "افزایش سایه جنگ و تهدیدهای امنیتی علیه زیرساخت‌های حیاتی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "allisraelnews",
+        "url": "https://allisraelnews.com/in-the-war-room-the-gutsy-gamble-against-iran-that-changed-the-war",
+        "clean_url": "https://allisraelnews.com/in-the-war-room-the-gutsy-gamble-against-iran-that-changed-the-war",
+        "image": "https://cdn.allisraelnews.com/s3/containers/digitalocean/rosenberg_report_1200x800_blurred_borders.jpg/7e2c2166e82e32ce78e480904e688bad/rosenberg_report_1200x800_blurred_borders.jpg",
+        "timestamp": 1793519040.0
+    },
+    {
+        "id": "687dc2d5bf",
+        "title_fa": "پیشنهاد تهران برای بازگشایی تنگه هرمز با شرط رفع تحریم‌ها",
+        "title_en": "Iran-US deal close? Iran offers to reopen Hormuz within 2 days, Araghchi meets Qatari mediators; what we know so far",
+        "summary": [
+            "عباس عراقچی اعلام کرد در صورت برآورده شدن شرط‌های ایران شامل رفع تحریم‌ها، کاهش نظامیان آمریکایی و آزادی پول‌های بلوکه‌شده، تنگه هرمز ظرف دو روز باز می‌شود.",
+            "این امتیازدهی تاکتیکی با میانجیگری قطر و در جریان مذاکرات دوحه صورت گرفته است."
+        ],
+        "impact": "استفاده از اهرم فشار تنگه هرمز برای گرفتن امتیازات اقتصادی و رفع تحریم‌ها.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "News24",
+        "url": "https://news24online.com/world/iran-us-deal-close-iran-offers-to-reopen-strait-of-hormuz-within-2-days-abbas-araghchi-meets-qatari-mediators-iran-us-war-mohsen-rezaei/949342/",
+        "clean_url": "https://news24online.com/world/iran-us-deal-close-iran-offers-to-reopen-strait-of-hormuz-within-2-days-abbas-araghchi-meets-qatari-mediators-iran-us-war-mohsen-rezaei/949342",
+        "image": "http://www.bing.com/th?id=ONUT.M6RtKXXkZTIx1Rep6ux_9g&pid=News",
+        "timestamp": 1793510940.0
+    },
+    {
+        "id": "051fb65cf8",
+        "title_fa": "دیپلماسی پنهان در دوحه هم‌زمان با ارزیابی ترامپ از تهدیدها",
+        "title_en": "Iran and US explore diplomacy amid rising threats of war",
+        "summary": [
+            "مذاکرات غیرمستقیم با میانجیگری قطر در حالی ادامه دارد که دونالد ترامپ مقامات تهران را غیرقابل اعتماد خوانده و تصمیمی قطعی درباره حملات مجدد نگرفته است.",
+            "دستگاه دیپلماسی ج ا از آمادگی کامل برای هر سناریویی از جمله حملات پیشگیرانه خبر می‌دهد."
+        ],
+        "impact": "شکننده بودن روند دیپلماسی در سایه احتمال بازگشت به درگیری نظامی.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-us-explore-diplomacy-amid-130210133.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-us-explore-diplomacy-amid-130210133.html",
+        "image": "http://www.bing.com/th?id=ONUT.mXE8-nXsBfyJuUbp-Nn-Rg&pid=News",
+        "timestamp": 1793509260.0
+    },
+    {
+        "id": "5db7614ecf",
+        "title_fa": "تهدیدهای توخالی محسن رضایی درباره آمریکا و اتم",
+        "title_en": "'We'll break its horns': Iran's security czar Rezaei issues chilling warning to US amid peace deal murmurs, makes big statement on Iran's nuclear doctrine",
+        "summary": [
+            "محسن رضایی، دبیر شورای امنیت ملی، در لفاظی‌های خود آمریکا را به گاو شاخ‌دار تشبیه کرده و از احتمال خروج از معاهده ان‌پی‌تی سخن گفته است.",
+            "این اظهارات تند در حالی مطرح می‌شود که تهران هم‌زمان در حال مذاکره غیرمستقیم در دوحه برای کاهش تنش‌هاست."
+        ],
+        "impact": "تلاش مقامات امنیتی برای پنهان کردن ضعف نظامی با جنگ روانی و بلوف‌های سیاسی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "News24",
+        "url": "https://news24online.com/world/iran-us-deal-well-break-its-horns-iran-security-czar-mohsen-rezaei-issues-chilling-warning-to-us-amid-peace-deal-murmurs-makes-big-statement-on-iran-nuclear-doctrine-iran-us-war/949296/",
+        "clean_url": "https://news24online.com/world/iran-us-deal-well-break-its-horns-iran-security-czar-mohsen-rezaei-issues-chilling-warning-to-us-amid-peace-deal-murmurs-makes-big-statement-on-iran-nuclear-doctrine-iran-us-war/949296",
+        "image": "http://www.bing.com/th?id=ONUT.bGQRgcz17XP4tLwy6qO9Dg&pid=News",
+        "timestamp": 1793503920.0
+    },
+    {
         "id": "0a36c9443d",
         "title_fa": "توافق پنهانی واشنگتن و تهران برای پایان جنگ",
         "title_en": "Washington and Tehran Release Details of MoU to End War",
@@ -5397,100 +5487,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/the-options-before-israel-a-netanyahu-eisenkot-deal-a-minority-government-or-no-new-government/ar-AA2gcIff",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gcYuO.img?w=549&h=309&m=4&q=80",
         "timestamp": 1793161636.0
-    },
-    {
-        "id": "950c508b5e",
-        "title_fa": "انتخابات اسرائیل بدون برنده قاطع؛ تشدید بن‌بست و بحران تشکیل کابینه",
-        "title_en": "'No clear winner' in Israel election - what happens now?",
-        "summary": [
-            "عدم دست‌یابی هیچ‌یک از احزاب اصلی به اکثریت قاطع، تل‌آویو را وارد دور تازه‌ای از چانه‌زنی‌های سخت و پیچیده کرده است.",
-            "احتمال شکل‌گیری یک دولت ائتلافی ضعیف و شکننده یا کشیده شدن دوباره به انتخابات زودهنگام بسیار بالاست.",
-            "این بی‌ثباتی سیاسی داخلی، تمرکز و قدرت تصمیم‌گیری تل‌آویو در پرونده‌های استراتژیک منطقه‌ای را موقتاً تحت تأثیر قرار می‌دهد."
-        ],
-        "impact": "فلج شدن موقت تصمیم‌گیری‌های کلان سیاسی و امنیتی در تل‌آویو به‌دلیل بحران ائتلاف‌سازی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLdF9wVnBXamZRMTdLQV9PYTBxUXoydllWcnZhZ0VYazI0SFJVV0JoOHp0cFc3dHdRalMwbm5kTmtaSU9Md1R2R2NtTS1xbWl3M1dNcXo1TzE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLdF9wVnBXamZRMTdLQV9PYTBxUXoydllWcnZhZ0VYazI0SFJVV0JoOHp0cFc3dHdRalMwbm5kTmtaSU9Md1R2R2NtTS1xbWl3M1dNcXo1TzE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793161379.0
-    },
-    {
-        "id": "34a553bf6c",
-        "title_fa": "بازی زمانی ترامپ با جمهوری اسلامی؛ دیپلماسی واقعی یا وقت‌کشی؟",
-        "title_en": "Opinion",
-        "summary": [
-            "واشنگتن هنوز هیچ موضع روشنی درباره سرنوشت اورانیوم غنی‌شده و پیامدهای سرپیچی تهران اعلام نکرده است.",
-            "جمهوری اسلامی هیچ تاریخ مشخصی برای بازرسی آژانس از تاسیسات اصفهان تعیین نکرده است.",
-            "توافقی برای توقف حملات به کشتی‌ها و نحوه برخورد با نفتکش‌های تحریمی شکل نگرفته است.",
-            "وقفه‌ ایجاد شده در سیاست‌های ترامپ بیشتر یک وقت‌کشی تقویمی است تا توافقی دیپلماتیک."
-        ],
-        "impact": "این وقفه انتخاباتی بدون تغییر میدانی، تنها زمان را به نفع تداوم بحران پیش می‌برد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/opinion-trump-gave-iran-date-110000902.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/opinion-trump-gave-iran-date-110000902.html",
-        "image": "http://www.bing.com/th?id=ONUT.Woohyno33iLWQIjGTgee1A&pid=News",
-        "timestamp": 1793160000.0
-    },
-    {
-        "id": "f9962177dc",
-        "title_fa": "ابهام در رویکرد ترامپ به توافق با ج م ه و ر ی ا س ل ا م ی",
-        "title_en": "Opinion: Trump gave Iran a date, not measurable terms",
-        "summary": [
-            "دونالد ترامپ در برخورد با پرونده ا ت م ی فقط یک بازه زمانی مشخص کرده و خواسته های قابل سنجشی مطرح نکرده است.",
-            "نبود شاخص های روشن مثل دسترسی بازرسان و میزان ذخایر اورانیوم، کار را برای راستی آزمایی سخت می کند."
-        ],
-        "impact": "این ابهام می تواند به توافقی شکننده بدون ضمانت اجرایی واقعی منجر شود.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/other/opinion-trump-gave-iran-a-date-not-measurable-terms/ar-AA2geSKL",
-        "clean_url": "https://www.msn.com/en-us/news/other/opinion-trump-gave-iran-a-date-not-measurable-terms/ar-AA2geSKL",
-        "image": "http://www.bing.com/th?id=ONUT.QqibvsWHpkwasqabkr7qxA&pid=News",
-        "timestamp": 1793160000.0
-    },
-    {
-        "id": "60eb440d43",
-        "title_fa": "رد طرح صلح قطر از سوی تـهـران و هشدار ترامپ",
-        "title_en": "Iran rejects Qatari peace ideas as Trump leaves door open to new strikes",
-        "summary": [
-            "مقامات جـمهوری اسـلامی طرح صلح و میانجی‌گری قطر و پاکستان را رد کردند و تن به تغییر رفتار ندادند.",
-            "دونالد ترامپ مسیر حملات جدید به اهداف نظامی را باز نگه داشته است.",
-            "کشورهای منطقه همزمان با تلاش دیپلماتیک برای مهار درگیری، خود را برای سناریوی جنگ آماده می‌کنند.",
-            "دوحه صراحتاً از تـهـران خواست دست از تهدید کشورهای خلیج فارس بردارد و تنگه هرمز را باز بگذارد."
-        ],
-        "impact": "شکست میانجی‌گری منطقه‌ای، ریسک تنش نظامی و بسته ماندن پنجره دیپلماسی را به شدت بالا برد.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610282816",
-        "clean_url": "https://www.iranintl.com/en/202610282816",
-        "image": "http://www.bing.com/th?id=ONUT.jJJqNctmy6Vsc7o23_fG6w&pid=News",
-        "timestamp": 1793158680.0
-    },
-    {
-        "id": "fe71a5d295",
-        "title_fa": "آیا تحریم‌های بین‌المللی علیه ج.ا برداشته می‌شود؟",
-        "title_en": "Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events",
-        "summary": [
-            "بررسی احتمال رفع تحریم‌های انرژی علیه ج.ا در بازارهای جهانی مطرح شده است.",
-            "فشار تحریم‌ها همچنان بر اقتصاد و بخش نفت سایه اندک و سنگینی دارد."
-        ],
-        "impact": "تداوم یا لغو تحریم‌ها، سرنوشت درآمدهای نفتی را رقم می‌زند.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793157749.0
     }
 ]
