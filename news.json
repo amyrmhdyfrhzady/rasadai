@@ -200,6 +200,24 @@
         "timestamp": 1793547046.0
     },
     {
+        "id": "2a6ac24ea8",
+        "title_fa": "مخالفت نماینده کنگره با بودجه جنگ علیه ای-ران",
+        "title_en": "Khanna says he’d stop funding further US military actions in Iran",
+        "summary": [
+            "رو کانا، نماینده دموکرات کنگره، اعلام کرد مانع از تخصیص بودجه برای هرگونه اقدام نظامی تازه علیه ای-ران خواهد شد.",
+            "این موضع‌گیری بازتاب‌دهنده نارضایتی فزاینده رأی‌دهندگان آمریکایی از درگیر شدن در جنگ‌های فرسایشی جدید است."
+        ],
+        "impact": "افزایش فشار سیاسی بر دولت آمریکا برایavoid کردن درگیری نظامی مستقیم.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "The Hill on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/khanna-says-he-d-stop-funding-further-us-military-actions-in-iran/ar-AA2gyfGN",
+        "clean_url": "https://www.msn.com/en-us/news/politics/khanna-says-he-d-stop-funding-further-us-military-actions-in-iran/ar-AA2gyfGN",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793544015.0
+    },
+    {
         "id": "4842762ee3",
         "title_fa": "افشاگری رئیس سابق موساد: انتشار تصاویر نفوذ در ایران تله اطلاعاتی بود",
         "title_en": "Israel intentionally released footage of Mossad operatives in Iran to provoke mass arrests, ex-chief says",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MeGxMWXcyX3piREtnVDJPOGF3OTdFQmVoUHNxZlM0ODA5bk45aGdoNDhvVUVZc21XVlJ1VEthSktfRnVtWm84NVRFdTVSNHl4VWxqemlIM2NJYy13T0dET212V3ZpTnBySFNjZERR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793183527.0
-    },
-    {
-        "id": "0a384a62e7",
-        "title_fa": "آمریکا ادعای سپاه درباره عقب‌نشینی از تنگه هرمز را رد کرد",
-        "title_en": "‘We Never Left’: US Rejects Iran’s Hormuz Retreat Claim As IRGC Threatens To Sink American Warships",
-        "summary": [
-            "فرمانده نیروی دریایی سپاه ادعا کرده بود ناوهای آمریکایی از خلیج فارس عقب‌نشینی کرده‌اند و تهدید به غرق کردن آن‌ها کرد.",
-            "سنتکام با رد این اظهارات تأکید کرد که نیروهای آمریکایی و متحدان منطقه‌ای کنترل کامل آبراه حیاتی تنگه هرمز را در دست دارند."
-        ],
-        "impact": "بالا گرفتن جنگ روانی و تقابل نظامی در آب‌های خلیج فارس",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/we-never-left-us-rejects-irans-hormuz-retreat-claim-as-irgc-threatens-to-sink-american-warships/videoshow/135253402.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/we-never-left-us-rejects-irans-hormuz-retreat-claim-as-irgc-threatens-to-sink-american-warships/videoshow/135253402.cms",
-        "image": "https://www.bing.com/th?id=ONUT.XTHYoNJDPySpTt1Eq-iApA",
-        "timestamp": 1793183468.0928156
     }
 ]
