@@ -237,6 +237,24 @@
         "timestamp": 1793503920.0
     },
     {
+        "id": "ab063f2245",
+        "title_fa": "شبکه پنهان نظامی برای دورزدن تحریم‌ها",
+        "title_en": "Reuters: Secret network of Iranian military agencies manages to import equipment despite US blockade",
+        "summary": [
+            "مجموعه‌ای از نهادهای پوششی زیر نظر وزارت دفاع، تجهیزات پهپادی و موشکی را به ارزش میلیاردها دلار وارد کشور کرده‌اند.",
+            "این شبکه مالی و لجستیکی پیچیده توانسته تحریم‌های دریایی آمریکا و غرب را دور بزند."
+        ],
+        "impact": "تداوم تامین تسلیحاتی با وجود فشارهای حداکثری و تحریم‌های سنگین",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Vijesti",
+        "url": "https://en.vijesti.me/world-a/globus/834251/rojters-tajna-mreza-iranskih-vojnih-agencija-uspijeva-da-uvozi-opremu-uprkos-americkoj-blokadi",
+        "clean_url": "https://en.vijesti.me/world-a/globus/834251/rojters-tajna-mreza-iranskih-vojnih-agencija-uspijeva-da-uvozi-opremu-uprkos-americkoj-blokadi",
+        "image": "https://www.vijesti.me/data/images/2026/11/01/15/5771102_20261026t134555z-1245551852-rc2saoafctkq-rtrmadp-3-irancrisis_share.jpg",
+        "timestamp": 1793498460.0
+    },
+    {
         "id": "14f825b4b0",
         "title_fa": "تردید ترامپ در حملات جدید؛ چانه‌زنی تـهران در دوحه بر سر تنگه هرمز",
         "title_en": "Trump 'hasn't made a decision' on whether to resume Iran strikes, Rubio says",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3YC8TK__v1__HighRes__IranWarDailyLife-1792942826.jpg?resize=1920%2C1440",
         "timestamp": 1793170980.0
-    },
-    {
-        "id": "a69f2d8419",
-        "title_fa": "پرده‌برداری از توطئه ترور خبرنگاران در خاک بریتانیا",
-        "title_en": "Netanyahu holds on, raises prospect of new Iran strikes",
-        "summary": [
-            "متهم پرونده در دادگاه لندن اعتراف کرد که ماموریت داشته روزنامه‌نگاران منتقد را هدف قرار دهد و ضرب و جرح کند.",
-            "این پرونده ابعاد جدیدی از عملیات‌های ترور و ارعباب فرامرزی عوامل وابسته را عیان می‌کند."
-        ],
-        "impact": "افزایش چالش‌های امنیتی برای عوامل وابسته به حاکمیت در اروپا و حفاظت بیشتر از روزنامه‌نگاران.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610282156",
-        "clean_url": "https://www.iranintl.com/en/202610282156",
-        "image": "http://www.bing.com/th?id=ONUT.fq8oyGXB1BUaseTSzP4-uw&pid=News",
-        "timestamp": 1793170500.0
     }
 ]
