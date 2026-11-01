@@ -1,5 +1,24 @@
 [
     {
+        "id": "2104e977d1",
+        "title_fa": "پشار نتانیاهو به ترامپ برای حمله فوری به ا-ی-ر-ا-ن",
+        "title_en": "Iran plans solar panels for 600,000 homes on Khamenei's orders",
+        "summary": [
+            "نخست‌وزیر اسرائیل به دنبال متقاعد کردن ترامپ برای ضربه نظامی بلافاصله پس از انتخابات میان‌دوره‌ای است.",
+            "ترامپ فعلاً ترجیح می‌دهد مسیر مذاکرات دیپلماتیک را باز نگه دارد.",
+            "وزارت انرژی حکومت از نصب پنل‌های خورشیدی برای ۶۰۰ هزار خانه به دستور م-ج-ت-ب-ی خ-ا-م-ن-ه-‌ای خبر داد."
+        ],
+        "impact": "شکاف میان تل‌آویو و واشنگتن بر سر زمان‌بندی مقابله با برنامه‌های اتمی.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611017441",
+        "clean_url": "https://www.iranintl.com/en/202611017441",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793565420.0
+    },
+    {
         "id": "30b47707b6",
         "title_fa": "نگاه نگران جهان عرب به احتمال گسترش جنگ توسط نتانیاهو",
         "title_en": "The Arab World Is Watching: Could Netanyahu Expand the Iran War Before Forming a Government?",
@@ -162,6 +181,24 @@
         "clean_url": "https://www.iranintl.com/en/202611019423",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/b86c0d0875155219373816bb216adf6c70e13596-1600x1067.jpg?w=576&h=384&q=90&fit=max&auto=format",
         "timestamp": 1793541180.0
+    },
+    {
+        "id": "df26eddca9",
+        "title_fa": "تهدید تلافی بی‌مرز م-ج-ت-ب-ی خ-ا-م-ن-ه-‌ای به ترامپ",
+        "title_en": "Iran warns of immediate response if Trump resumes post-midterm strikes",
+        "summary": [
+            "دستور آماده‌باش به فرماندهان نظامی برای پاسخ بدون محدودیت جغرافیایی به هرگونه اقدام نظامی ایالات متحده.",
+            "واکنش عصبی نهاد رهبری به احتمال ازسرگیری حملات پس از انتخابات میان‌دوره‌ای."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی و آماده‌باش نیروهای نیابتی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Idaho Public Press on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-warns-of-immediate-response-if-trump-resumes-post-midterm-strikes/ar-AA2gxNJb",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-of-immediate-response-if-trump-resumes-post-midterm-strikes/ar-AA2gxNJb",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793537882.0
     },
     {
         "id": "84ca617794",
@@ -5456,41 +5493,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-will-be-mad-iran-just-no-way-to-the-latest-peace-deal-to-end-the-war/ar-AA2ggnGZ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793179997.0
-    },
-    {
-        "id": "cabc999bd4",
-        "title_fa": "بن‌بست در انتخابات اسرائیل و بقای سیاسی نتانیاهو",
-        "title_en": "Israel’s election has no clear winner — but Netanyahu looks far from defeated again",
-        "summary": [
-            "نتایج انتخابات اسرائیل بدون برنده قاطع به پایان رسید و هیچ‌کدام از جناح‌ها اکثریت مطلق را کسب نکردند.",
-            "با وجود این بن‌بست، بنیامین نتانیاهو بار دیگر توانست خود را سرپا نگه دارد و از مهلکه سیاسی جان سالم به در ببرد."
-        ],
-        "impact": "ادامه حضور نتانیاهو در قدرت، خط مشی تهاجمی تل‌آویو علیه تهران و نیابتی‌هایش را تثبیت می‌کند.",
-        "tag": "منطقه‌ای",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1Z4LWc5bDlkWVpJcVd2czA1T1ZOeHpONExKX1QxZzBMZ09NXzdfdWdlbC1KODFyalZIcE5zX2VYYjVVUU5DRHc0U2RheHh6QmZLVjE3MC1RdXR4MVRiaXU5MFBaQ2daQXZ4emJSSE5pZDZnSnl1SmhRa3pSLWRYZ1Z0bWFiNHNzVV9MMThEWTh2MFFPQkVlT0ZBRGVhWk0tXy1PUDA1UkxYM2dLeEVjSDc5aXNwYWpUaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1Z4LWc5bDlkWVpJcVd2czA1T1ZOeHpONExKX1QxZzBMZ09NXzdfdWdlbC1KODFyalZIcE5zX2VYYjVVUU5DRHc0U2RheHh6QmZLVjE3MC1RdXR4MVRiaXU5MFBaQ2daQXZ4emJSSE5pZDZnSnl1SmhRa3pSLWRYZ1Z0bWFiNHNzVV9MMThEWTh2MFFPQkVlT0ZBRGVhWk0tXy1PUDA1UkxYM2dLeEVjSDc5aXNwYWpUaWc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793179949.0
-    },
-    {
-        "id": "ddff2c8ed6",
-        "title_fa": "بن‌بست سیاسی در اسرائیل و احتمال تغییر موازنه قدرت",
-        "title_en": "How an Eizenkot Victory Over Netanyahu Could Reset West Asia's Conflict",
-        "summary": [
-            "انتخابات پارلمانی اسرائیل به بن‌بست رسیده و هیچ‌کدام از بلوک‌ها نتوانسته‌اند اکثریت قاطع را کسب کنند.",
-            "رقابت تنگاتنگ بین ائتلاف بنیامین نتانیاهو و جبهه مخالف به رهبری گادی آیزنکوت می‌تواند سیاست‌های منطقه‌ای تل‌آویو را دگرگون کند."
-        ],
-        "impact": "تغییر احتمالی در رهبری اسرائیل جهت‌گیری این کشور در درگیری‌های منطقه را بازتعریف می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Newspoint",
-        "url": "https://www.msn.com/en-in/news/other/how-an-eizenkot-victory-over-netanyahu-could-reset-west-asias-conflict/ar-AA2geqIx",
-        "clean_url": "https://www.msn.com/en-in/news/other/how-an-eizenkot-victory-over-netanyahu-could-reset-west-asias-conflict/ar-AA2geqIx",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ge3zk.img?w=640&h=480&m=4&q=50",
-        "timestamp": 1793179080.0
     }
 ]
