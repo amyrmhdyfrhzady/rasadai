@@ -368,6 +368,24 @@
         "timestamp": 1793599132.0
     },
     {
+        "id": "3bc7b0cd7d",
+        "title_fa": "سقوط ۶ درصدی قیمت نفت با امید به توافق",
+        "title_en": "Oil prices fall nearly 6% on hopes of Iran diplomatic breakthrough",
+        "summary": [
+            "قیمت نفت به دنبال میانجیگری قطر و احتمال کاهش تنش‌ها نزدیک به ۶ درصد افت کرد.",
+            "فشار و کنترل شدید امنیتی، حضور بسیج و اجبار به شرکت در برنامه‌های عقیدتی در مدارس ایران تشدید شده است."
+        ],
+        "impact": "بازار انرژی با سیگنال‌های دیپلماتیک موقتاً آرام گرفت اما فشار امنیتی داخل کشور افزایش یافت.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202611021852",
+        "clean_url": "https://www.iranintl.com/en/202611021852",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793598960.0
+    },
+    {
         "id": "0bc3ec9b50",
         "title_fa": "فشار حکومتی و حضور بسیج در مدارس ایران",
         "title_en": "Students in Iran report tighter school surveillance, military pressure",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Mcl90c0FjWm1ETXFmYmZmZmZMdEZOT3hmUGpXZGN0WG1BM0ZWX18yQkhYT3Z0Uk1FOGJDOGlscThUam1hRFlaY3I3Z0tlYmFONzJ0cllhZ0VHU2Vmcktpa3MwYlprU3hMM1NyNUtTM2ViQQ",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793230295.0
-    },
-    {
-        "id": "e5af160296",
-        "title_fa": "متهم شدن حوثی‌ها به استفاده از گلوله‌های سمی در یمن",
-        "title_en": "Yemen accuses Iran-backed Houthis of using suspected toxic shells",
-        "summary": [
-            "دولت یمن اعلام کرد شبه‌نظامیان حوثی از گلوله‌های مشکوک به مواد سمی ممنوعه در جبهه‌های تعز استفاده کرده‌اند.",
-            "مقام‌های یمنی خواستار ورود فوری سازمان ملل و نهادهای بین‌المللی برای تحقیق درباره قاچاق و کاربرد مواد شیمیایی شدند."
-        ],
-        "impact": "بالارفتن سطح تنش‌ها و جنایات جنگی در جبهه‌های یمن توسط نیروهای نیابتی",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610282388",
-        "clean_url": "https://www.iranintl.com/en/202610282388",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793230020.0
     }
 ]
