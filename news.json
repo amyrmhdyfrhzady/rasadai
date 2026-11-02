@@ -293,6 +293,25 @@
         "timestamp": 1793548808.0
     },
     {
+        "id": "8d608c388d",
+        "title_fa": "تهدید موشکی تهران علیه اروپا و ناوبری خلیج فارس",
+        "title_en": "US Iran War Live Updates: Trump says US ‘might have gone too far’ with killings of Iran’s leaders",
+        "summary": [
+            "مقام‌های تهران با اشاره به نبود محدودیت جغرافیایی، از قابلیت رسیدن موشک‌ها به اروپا سخن گفتند.",
+            "یک فروند نفتکش ال‌ان‌جی قطری در خلیج فارس هدف اصابت اشیاء ناشناس قرار گرفت.",
+            "دستور فوری برای پاسخ به هرگونه حمله جدید صادر شده است."
+        ],
+        "impact": "افزایش شدید ریسک امنیت دریایی در خلیج فارس و کشیده شدن سایه جنگ به مرزهای اروپا.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-abbas-araghchi-hormuz-plan-khamenei-warning-saudi-houthi-attack-latest-news/liveblog/135410221.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-abbas-araghchi-hormuz-plan-khamenei-warning-saudi-houthi-attack-latest-news/liveblog/135410221.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135410221,width-1280,height-720,imgsize-401365,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1793548320.0
+    },
+    {
         "id": "6e3aaf55c4",
         "title_fa": "جدیدترین تهدیدات تلافی‌جویانه ط-ل-ع-ا-ت ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی چقدر جدی است؟",
         "title_en": "How serious are Iran's new threats of retaliation?",
@@ -564,6 +583,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJIMlROdTg2TGRWSVVzN0RpWm9IZHJpMERid2lMSklpVkZpRzIyNjZBNk1tU2FfRGpuWTV4S1liZWs0MTVyalpTUTVac1JHZEVURlIzMFUyMTc3S0lfM0VUcFlkbFlBX2V0eXk3bE5oRjY3NXdmUVFBUWNGbjV1VXprVGxoQm5jSE50Ukt5N3l6MGE2M1BxaVNJSWxOaUNKa2dNQTBUaXBYVHJWWDhUNk1fTy1BNDE3N0E",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793527576.0
+    },
+    {
+        "id": "ec45bbeeb2",
+        "title_fa": "واکنش تند آمریکا به توافق دریایی ترکیه و لیبی",
+        "title_en": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
+        "summary": [
+            "دستگاه دیپلماسی آمریکا توافق دریایی میان ترکیه و شرق لیبی را تحریک‌آمیز خواند.",
+            "این توافق مرزهای آبی مدیترانه را تغییر داده و دسترسی به منابع گاز را هدف گرفته است."
+        ],
+        "impact": "بال رفتن تنش‌های ژئوپلیتیک در مدیترانه شرقی و مخالفت آشکار واشنگتن با سیاست‌های آنکارا.",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
+        "clean_url": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
+        "image": "http://www.bing.com/th?id=ONUT.8WKfgMFPI_iVVfexavSfKA&pid=News",
+        "timestamp": 1793522880.0
     },
     {
         "id": "368fec81c1",
@@ -5455,41 +5492,5 @@
         "clean_url": "https://tass.com/economy/2209525",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1793191560.0
-    },
-    {
-        "id": "9f01e2ca63",
-        "title_fa": "شرط‌گذاری تهران برای پایان جنگ و بازگشایی تنگه هرمز",
-        "title_en": "Iran Just Dropped Terms of How the War Could Come to and End and Donald Trump Might Not Like It",
-        "summary": [
-            "تهران شرط پایان درگیری‌ها را رفع کامل تحریم‌ها تعیین کرده و وعده داده چهار روز پس از آن، تنگه هرمز را بازگشایی می‌کند.",
-            "این موضع‌گیری در حالی مطرح می‌شود که تیم دونالد ترامپ و واشنگتن پیش از هر امتیازی، خواستار عقب‌نشینی واقعی اتمی جمهوری اسلامی هستند."
-        ],
-        "impact": "تنش در آب‌های جنوب و بن‌بست دیپلماتیک بر سر تقدم لغو تحریم‌ها یا امتیازات اتمی پابرجاست.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-just-dropped-terms-of-how-the-war-could-come-to-and-end-and-donald-trump-might-not-like-it/ar-AA2ggLHu",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-dropped-terms-of-how-the-war-could-come-to-and-end-and-donald-trump-might-not-like-it/ar-AA2ggLHu",
-        "image": "http://www.bing.com/th?id=ONUT.rjnR6wpt5ycTurIusdPGQQ&pid=News",
-        "timestamp": 1793190866.0
-    },
-    {
-        "id": "67d3b93b42",
-        "title_fa": "رد طرح‌های میانجیگری توسط تـ‌ک‌رار مـ‌واضع لجوجانه جـ‌مـ‌هـ‌وری اسـ‌لامـ‌ی",
-        "title_en": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
-        "summary": [
-            "مقام‌های ارشد حاکمیت طرح‌های اخیر برای پایان جنگ را غیرقابل قبول می‌دانند و بر ادامه سیاست‌های منطقه‌ای خود پافشاری می‌کنند.",
-            "این موضع‌گیری نشان می‌دهد که تهران هیچ تمایلی به عقب‌نشینی از تنش‌آفرینی ندارد و دیپلماسی را به بن‌بست کشانده است."
-        ],
-        "impact": "بسته‌تر شدن مسیرهای دیپلماتیک و افزایش احتمال تشدید درگیری‌ها در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793190004.0
     }
 ]
