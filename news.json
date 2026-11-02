@@ -975,6 +975,24 @@
         "timestamp": 1793598960.0
     },
     {
+        "id": "8b168d59dd",
+        "title_fa": "ادعای تهران برای بازگشایی تنگه هرمز در معامله با آمریکا",
+        "title_en": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+        "summary": [
+            "مقام‌های ج-ه-م-ه-و-ر-ی ا-س-ل-ا-م-ی از پیشرفت در مذاکرات برای باز کردن دوباره این آبراه حیاتی نفت و گاز خبر دادند.",
+            "این ادعاها همزمان با آمادگی همه‌جانبه برای جنگ طرح می‌شود که نشان‌دهنده دوگانگی رفتار این حکومت است."
+        ],
+        "impact": "تخلیه بخشی از تنش‌های بازار انرژی در صورت جدی بودن این توافق احتمالی.",
+        "tag": "تنگه هرمز",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+        "clean_url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+        "image": "http://www.bing.com/th?id=ONUT.7ph_yzsf1YYQJWgB-0T5wg&pid=News",
+        "timestamp": 1793598300.0
+    },
+    {
         "id": "0bc3ec9b50",
         "title_fa": "فشار حکومتی و حضور بسیج در مدارس ایران",
         "title_en": "Students in Iran report tighter school surveillance, military pressure",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793267526.0
-    },
-    {
-        "id": "def3abe469",
-        "title_fa": "تاثیر جنگ اسرائیل و ج.ا بر اوکراین",
-        "title_en": "Is Ukraine paying the price for Israel’s war with Iran? | Daily Sabah",
-        "summary": [
-            "تمرکز غرب روی بحران خاورمیانه باعث کاهش توجه به اوکراین شده است",
-            "رقابت بر سر تسلیحات و پدافند هوایی میان دو جبهه افزایش یافته است"
-        ],
-        "impact": "تغییر تمرکز منابع و تسلیحات نظامی غرب از جبهه اوکراین به سمت خاورمیانه",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Daily Sabah",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE1oM0xPQkl6MGsydGIzR005cWo1dy16NUNmMEtJdnJ4SVZZU19pMG5BbzlLVHRsMXdmakdGY1p6Z2xsOHRDYWxPSU1xYmEzWW9uWWxRVXJOUzhkR0ZQQ3N6S1JBbDBpenBDMHlmal9pWi1ySFk4QllqMzdQSXVjRzVlRzlWejBNVkMwZkxRVXdSQ3pESFd3S1JB0gGfAUFVX3lxTE5TWVFaODctcTVLY2FKWERSZXhiNDc5bHhjcWs0WjJPNG56VGdqLWh4MzNiVUZZWDA3aFlEVm1XWVJCVTc5MFBsRmQ0NHdoRjRUTEdNbmgwU1cxQlBaZlViNEYwSm9uSzRKQ2pLOE1PaWhLM25IT0t6TTViUXhlZlBhY2UwemZXVmV6OGhNSm5RQnNPRFdBNUdZbC1ZWkVJOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE1oM0xPQkl6MGsydGIzR005cWo1dy16NUNmMEtJdnJ4SVZZU19pMG5BbzlLVHRsMXdmakdGY1p6Z2xsOHRDYWxPSU1xYmEzWW9uWWxRVXJOUzhkR0ZQQ3N6S1JBbDBpenBDMHlmal9pWi1ySFk4QllqMzdQSXVjRzVlRzlWejBNVkMwZkxRVXdSQ3pESFd3S1JB0gGfAUFVX3lxTE5TWVFaODctcTVLY2FKWERSZXhiNDc5bHhjcWs0WjJPNG56VGdqLWh4MzNiVUZZWDA3aFlEVm1XWVJCVTc5MFBsRmQ0NHdoRjRUTEdNbmgwU1cxQlBaZlViNEYwSm9uSzRKQ2pLOE1PaWhLM25IT0t6TTViUXhlZlBhY2UwemZXVmV6OGhNSm5RQnNPRFdBNUdZbC1ZWkVJOA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793266800.0
     }
 ]
