@@ -1,5 +1,23 @@
 [
     {
+        "id": "df94469c93",
+        "title_fa": "سایه جنگ با هشدارهای ترامپ بر سر کشورهای حوزه خلیج فارس",
+        "title_en": "Trump's Iran threat renews Gulf fears of a war it didn't choose",
+        "summary": [
+            "مواضع سخت‌گیرانه دونالد ترامپ در قبال تهران، زنگ خطر را برای کشورهای حاشیه خلیج فارس به صدا درآورده است.",
+            "کشورهای منطقه به شدت نگران کشته شدن منافع خود در یک درگیری ناخواسته میان ایالات متحده و ج.ه.وری ا.س.ل.ا.م.ی هستند."
+        ],
+        "impact": "افزایش ریسک امنیتی و اقتصادی برای سرمایه‌گذاری در منطقه خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTJwa2lIdnVGZzJIX3NYSDNzLU9mUTU5MjVBeGFmbmNOR1NiQ1I0a0J6OGdnd2VhbHd5ZWZMakp3NzlwcFJ6OVZDcmc4T0FSQ2lORnltSk5md0psZ19nd3ZtRmE2Vlg3bHdBY3JQV3hMbko5NlFJY2dRVVRsTkJ3ajZVOFQ3clU1eHFBQnFUZUg1SV9takV2bVllN2ZVNHRuanMzLWh5REkzaU9vYWw4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTJwa2lIdnVGZzJIX3NYSDNzLU9mUTU5MjVBeGFmbmNOR1NiQ1I0a0J6OGdnd2VhbHd5ZWZMakp3NzlwcFJ6OVZDcmc4T0FSQ2lORnltSk5md0psZ19nd3ZtRmE2Vlg3bHdBY3JQV3hMbko5NlFJY2dRVVRsTkJ3ajZVOFQ3clU1eHFBQnFUZUg1SV9takV2bVllN2ZVNHRuanMzLWh5REkzaU9vYWw4",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793622813.0
+    },
+    {
         "id": "31c58dbc20",
         "title_fa": "افت قیمت نفت همزمان با خبر گفتگوها درباره مناقشه ایران و آمریکا",
         "title_en": "Oil futures: Crude rows back after talks to resolve US-Iran conflict",
@@ -5475,23 +5493,5 @@
         "clean_url": "https://www.samaa.tv/2087359306-iran-seeks-4-day-peace-deal-as-us-talks-move-to-turkey",
         "image": "https://images.samaa.tv/images/Iran-and-United-States.jpg",
         "timestamp": 1793224020.0
-    },
-    {
-        "id": "592547154f",
-        "title_fa": "هشدار وزیر خزانه‌داری آمریکا درباره شوک جدید عرضه انرژی",
-        "title_en": "CNBC Exclusive: Transcript: U.S. Treasury Secretary Scott Bessent Speaks with CNBC's Brian Sullivan on \"Closing Bell: Overtime\" Today",
-        "summary": [
-            "سکات بسنت، وزیر خزانه‌داری آمریکا، صریحاً از احتمال وقوع شوک در عرضه جهانی انرژی و فشار بر بازارهای مالی خبر داد.",
-            "واشنگتن انقباض شدید در بازار اوراق قرضه را بخشی از مسیر کنترل تورم می‌داند و نگران تسری بحران به بخش فناوری نیست."
-        ],
-        "impact": "افزایش نوسانات شدید در بازار جهانی نفت و احتمال صعود قیمت سوخت در کوتاه‌مدت.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/28/cnbc-exclusive-transcript-us-treasury-secretary-scott-bessent-speaks-with-cnbcs-brian-sullivan-on-closing-bell-overtime-today.html",
-        "clean_url": "https://www.cnbc.com/2026/10/28/cnbc-exclusive-transcript-us-treasury-secretary-scott-bessent-speaks-with-cnbcs-brian-sullivan-on-closing-bell-overtime-today.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
-        "timestamp": 1793222940.0
     }
 ]
