@@ -458,6 +458,25 @@
         "timestamp": 1793614793.0
     },
     {
+        "id": "dbd1f06a6a",
+        "title_fa": "هشدار درباره تبعات حمله نظامی به تاسیسات هسته‌ای ج.ا",
+        "title_en": "US strike on Iran nuclear sites risks wider war, analyst says",
+        "summary": [
+            "حمله به تاسیسات زیرزمینی ج.ا می‌تواند منجر به نشت مواد رادیواکتیو و فاجعه زیست‌محیطی شود.",
+            "پاسخ احتمالی ج.ا به چنین حمله‌ای، هدف قرار دادن زیرساخت‌های انرژی در سراسر خاورمیانه است.",
+            "تلاش برای مذاکره با چهره‌هایی مثل محسن رضایی، نشان‌دهنده عدم درک واشنگتن از ماهیت ساختار قدرت در تهران است."
+        ],
+        "impact": "هرگونه اقدام نظامی مستقیم علیه سایت‌های هسته‌ای، ریسک جنگ فراگیر منطقه‌ای و جهش قیمت انرژی را به همراه دارد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611027379",
+        "clean_url": "https://www.iranintl.com/en/202611027379",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793612940.0
+    },
+    {
         "id": "b4888c7e6c",
         "title_fa": "پاسخ تند مقام ارشد انگلیس به اقدام جمهوری اسلامی",
         "title_en": "Streeting slams Iran for calling RAF and Navy terrorist organisations",
@@ -5476,23 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN0dVNJQ1U3bGptWHNyNmFsNDBMdF9qaW84MGtyaVEwVmZrUm1xZEtsS2J3eUVjQVktdWlPR3pMQlc1MkM4WTRmSGFYamJLNUN0eUZub0VGbldzcWVOVHo5eWNiVU9EWl83MmFhb0FIM3JhU3hRX01oTDRnYkhhekRwVW9BM2M2eGZZ0gGQAUFVX3lxTE9RNFo1S3I3YVhDdVBNS2l5LTloUHRCeHVqd0lFRjNfOGZrRlNkQ3FCbkdpV25adVVOOFdrbDduVFFOejZWS3VGR0JUVTBpWk5DRjJ1THdEcVR3anoxVTNaOERhTnVPTC16REFjdW1IM3duS092ZUtGaDViWkx1Sk41cFB0R1lhZkZCV3poemlxYw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793260776.0
-    },
-    {
-        "id": "3b07a5518c",
-        "title_fa": "مرگ ۶۸ نفر در فاجعه ریلی اسپانیا",
-        "title_en": "At least 68 people dead in Spain's second major train crash this year",
-        "summary": [
-            "برخورد قطار سریع‌السیر با یک قطار متوقف در اسپانیا، مرگبارترین حادثه ریلی اروپا از سال ۲۰۱۳ تاکنون را رقم زد.",
-            "وزیر ترابری اسپانیا اعلام کرد خطای انسانی و مجوز عبور از چراغ قرمز به دلیل نقص سیستم کامپیوتری عامل اصلی این فاجعه بوده است."
-        ],
-        "impact": "این حادثه مرگبار فشار سنگینی بر دولت اسپانیا برای بازنگری فوری در استانداردهای ایمنی خطوط آهن وارد کرده است.",
-        "tag": "بین‌الملل",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "Ariana News",
-        "url": "https://www.ariananews.af/at-least-68-people-dead-in-spains-second-major-train-crash-this-year/",
-        "clean_url": "https://www.ariananews.af/at-least-68-people-dead-in-spains-second-major-train-crash-this-year",
-        "image": "https://www.ariananews.af/wp-content/uploads/2026/10/Train-crash.jpg",
-        "timestamp": 1793258460.0
     }
 ]
