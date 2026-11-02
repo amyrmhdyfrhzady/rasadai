@@ -421,6 +421,24 @@
         "timestamp": 1793578881.0
     },
     {
+        "id": "7030957ca2",
+        "title_fa": "تلاش مسکو برای نفوذ نرم در آفریقا با ابزار دیپلماسی آموزشی",
+        "title_en": "Ugandan educator sees his project contributing to future of Russia-Africa relations",
+        "summary": [
+            "کرملین با راه‌اندازی پروژه‌های آموزش زبان روسی در اوگاندا، استراتژی نفوذ نرم و فرهنگی خود در قاره آفریقا را دنبال می‌کند.",
+            "مسکو با مانور روی شعارهای «جهان چندقطبی» و «مبارزه با استعمار نو»، سعی دارد جای پای خود را در افکار عمومی آفریقا محکم کرده و انزوای بین‌المللی خود را جبران کند."
+        ],
+        "impact": "تثبیت روایت‌های دیپلماتیک مسکو در قاره آفریقا و تلاش برای کاهش وزن سیاسی غرب در منطقه.",
+        "tag": "نفوذ نرم",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/society/2211705",
+        "clean_url": "https://tass.com/society/2211705",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793578800.0
+    },
+    {
         "id": "8659a1e901",
         "title_fa": "هشدار صریح ترامپ و مین‌گذاری در تنگه هرمز",
         "title_en": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
@@ -5475,24 +5493,5 @@
         "clean_url": "https://www.iranintl.com/en/202610288721",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/b8070d2a0cc02cb8539c2d0a4873ef423655cddb-650x366.jpg?rect=14,0,622,350&w=576&h=324&q=90&fit=max&auto=format",
         "timestamp": 1793214420.0
-    },
-    {
-        "id": "f9be436a0b",
-        "title_fa": "فروپاشی اقتصاد جـ.ا. با رکود بی‌سابقه ۲۵ درصدی",
-        "title_en": "Trump says Iran talks underway but outcome uncertain",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا از کوچک شدن بیش از ۲۵ درصدی اقتصاد جـ.ا. تا سال آینده میلادی خبر داد.",
-            "چاپ پول بدون پشتوانه برای تامین هزینه‌های جنگی، تورم را به طور وحشتناکی افزایش می‌دهد.",
-            "این حجم از فروپاشی اقتصادی تنها در دوران رکود بزرگ آمریکا یا سال‌های نخست جنگ ایران و عراق سابقه داشته است."
-        ],
-        "impact": "تشدید بحران ارزی و فلج شدن کامل توان مالی سیستم در تامین هزینه‌های داخلی و نیابتی.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610289594",
-        "clean_url": "https://www.iranintl.com/en/202610289594",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793214300.0
     }
 ]
