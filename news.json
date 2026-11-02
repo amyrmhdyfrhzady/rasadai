@@ -1,5 +1,42 @@
 [
     {
+        "id": "6de84df986",
+        "title_fa": "گرامی‌داشت کهنه‌سربازان آمریکایی از جنگ جهانی تا تنش‌های ایران",
+        "title_en": "Veterans From World War II to Iranian Conflict Remember Their Service",
+        "summary": [
+            "مراسم یادبود کهنه‌سربازان آمریکایی با حضور کهنه‌سربازان جنگ جهانی دوم و درگیری‌های مرتبط با ایران برگزار شد.",
+            "این نشست‌ها صرفاً جنبه نمادین و داخلی در آمریکا داشته و تاثیری بر تحرکات عملیاتی حال حاضر ندارد."
+        ],
+        "impact": "بدون تغییر در محاسبات سیاسی یا عملیاتی منطقه.",
+        "tag": "اجتماعی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "C-SPAN",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjJQZk5oemZjWjBZUFhMSFdnX0lENmNBQXZfUjVCWW52d1I4R1hBbEZibm1jR2R0d1hTUkhrdXJJQTR4SzVnNUtONDlJTUdRVElKS1BCWWZHX2NTRnZkckRfTU4taVUtRU9vSm5VQ2pZRVVwWHNDamVoTjNBTW0wb3RPWkNxVTI1aEdJejhteGZBUW1UeFdCQUFjaXEtQWVlLUw0REVlQmh4YXJGejlnTEdrd1lVc0VydnpoWGYtVElzb3M?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjJQZk5oemZjWjBZUFhMSFdnX0lENmNBQXZfUjVCWW52d1I4R1hBbEZibm1jR2R0d1hTUkhrdXJJQTR4SzVnNUtONDlJTUdRVElKS1BCWWZHX2NTRnZkckRfTU4taVUtRU9vSm5VQ2pZRVVwWHNDamVoTjNBTW0wb3RPWkNxVTI1aEdJejhteGZBUW1UeFdCQUFjaXEtQWVlLUw0REVlQmh4YXJGejlnTEdrd1lVc0VydnpoWGYtVElzb3M",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793579888.0
+    },
+    {
+        "id": "91450ee435",
+        "title_fa": "ضرب‌الاجل دو روزه تهران برای بازگشایی تنگه هرمز",
+        "title_en": "Middle East latest: Iran offers to open strait in two days if US meets demands",
+        "summary": [
+            "تهران اعلام کرده در صورت برآورده شدن خواسته از سوی واشنگتن، ظرف دو روز تنگه هرمز را بازگشایی می‌کند.",
+            "این اقدام یک اهرم فشار مستقیم بر بازار جهانی انرژی و ابزاری برای امتیازگیری سریع در مواجهه با فشار حداکثری است.",
+            "پاسخ واشنگتن به این اولتیماتوم، مسیر هفته‌های آینده را میان تصاعد نظامی یا عقب‌نشینی تاکتیکی مشخص خواهد کرد."
+        ],
+        "impact": "نوسان شدید در بازار نفت و احتمال بالارفتن ریسک درگیری در صورت رد شروط.",
+        "tag": "تنگه هرمز",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793577356.0
+    },
+    {
         "id": "2104e977d1",
         "title_fa": "پشار نتانیاهو به ترامپ برای حمله فوری به ا-ی-ر-ا-ن",
         "title_en": "Iran plans solar panels for 600,000 homes on Khamenei's orders",
@@ -5454,42 +5491,5 @@
         "clean_url": "https://thediplomaticinsight.com/iaea-chief-iran-nuclear-access-security-council",
         "image": "https://thediplomaticinsight.com/wp-content/uploads/0-80.jpeg",
         "timestamp": 1793187420.0
-    },
-    {
-        "id": "627315ad6f",
-        "title_fa": "آمادگی مسکو برای مذاکرات اوکراین و انتقاد از غرب",
-        "title_en": "Preparations for Ukraine talks, protests in Europe: senior Russian diplomat's statements",
-        "summary": [
-            "معاون وزیر خارجه روسیه از آمادگی این کشور برای گفتگوهای مرتبط با اوکراین خبر داد.",
-            "مسکو نسبت به تغییر رویکرد ایالات متحده پس از انتخابات ابراز تردید کرد و از اجماع ضد روسی واشنگتن گفت."
-        ],
-        "impact": "این موضع‌گیری نشان می‌دهد مسکو در انتظار تحولات سیاسی غرب باقی مانده و تغییری در راهبرد خود نداده است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2209417",
-        "clean_url": "https://tass.com/politics/2209417",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261028/1491305.jpg",
-        "timestamp": 1793186580.0
-    },
-    {
-        "id": "9dbc6da70f",
-        "title_fa": "ادعای تهران برای اجرای طرح صلح هفت روزه",
-        "title_en": "Irán dice estar dispuesto a aplicar su plan de paz en menos de siete días",
-        "summary": [
-            "مقام‌های ایرانی مدعی تلاش برای پیشبرد طرح صلح از طریق میانجی‌گران منطقه‌ای شده‌اند.",
-            "آمریکا پیش‌تر این طرح را رد کرده بود اما تهران همچنان بر اجرای آن اصرار دارد.",
-            "تنش‌ها در تنگه هرمز و آمادگی نظامی نیروهای مسلح همچنان در بالاترین سطح باقی مانده است."
-        ],
-        "impact": "تلاش دیپلماتیک نمایشی همزمان با تداوم فضای نظامی در منطقه",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Extra",
-        "url": "https://www.extra.ec/noticia/mundo/iran-busca-acelerar-plan-de-paz-de-7-dias-tras-rechazo-de-eeuu-166412.html",
-        "clean_url": "https://www.extra.ec/noticia/mundo/iran-busca-acelerar-plan-de-paz-de-7-dias-tras-rechazo-de-eeuu-166412.html",
-        "image": "http://www.bing.com/th?id=ONUT.ejGClV6eHeVLULH5bJWJmw&pid=News",
-        "timestamp": 1793186460.0
     }
 ]
