@@ -127,6 +127,25 @@
         "timestamp": 1793578881.0
     },
     {
+        "id": "8659a1e901",
+        "title_fa": "هشدار صریح ترامپ و مین‌گذاری در تنگه هرمز",
+        "title_en": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+        "summary": [
+            "دونالد ترامپ اعلام کرد جنگ با جمووری اسلامی خیلی زود به پایان می‌رسد و تهران یا باید توافق کند یا نابود می‌شود.",
+            "سپاه پاسداران از آتش گرفتن دو نفتکش در پی برخورد با مین در تنگه هرمز خبر داد.",
+            "عباس عراقچی از ادامه مذاکرات برای بازگشایی تنگه هرمز خبر داد و ابراز امیدواری کرد آمریکا دیپلماسی را انتخاب کند."
+        ],
+        "impact": "بسته شدن احتمالی تنگه هرمز و جهش قیمت نفت در بازارهای جهانی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__D6368MJ__v1__HighRes__IranIsraelUsWar-1793576931.jpg?resize=1920%2C1440",
+        "timestamp": 1793577660.0
+    },
+    {
         "id": "91450ee435",
         "title_fa": "ضرب‌الاجل دو روزه تهران برای بازگشایی تنگه هرمز",
         "title_en": "Middle East latest: Iran offers to open strait in two days if US meets demands",
@@ -5474,24 +5493,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-yemen-houthis-pezeshkian-middle-east-tensions-saudi-arabia-gulf-countries-israel-latest-news/liveblog/135249614.cms",
         "image": "https://static.toiimg.com/thumb/msid-135249614,width-1280,height-720,imgsize-1785343,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1793199720.0
-    },
-    {
-        "id": "1b716b63ae",
-        "title_fa": "پیش‌بینی حمله مستقیم نظامی آمریکا به ج.ا پس از انتخابات",
-        "title_en": "Karl Rove predicts Trump will resume 'kinetic action' in Iran after midterms",
-        "summary": [
-            "کارل روو، استراتژیست مطرح آمریکایی، اعلام کرد ترامپ پس از تثبیت شرایط سیاسی داخلی، اقدام نظامی مستقیم (کینتیک) علیه ج.ا را از سر می‌گیرد.",
-            "سیاست فشار حداکثری واشنگتن در حال تغییر فاز از تحریم اقتصادی به درگیری سخت‌افزاری و هدف قرار دادن تاسیسات کلیدی است.",
-            "سیگنال واشنگتن به تهران واضح است؛ مهلت دیپلماسی رو به پایان بوده و سناریوی درگیری روی میز قرار گرفته است."
-        ],
-        "impact": "احتمال جهش ناگهانی قیمت دلار در بازار تهران و آماده‌باش بالای نظامی در منطقه خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Mediaite on MSN",
-        "url": "https://www.msn.com/en-us/news/other/karl-rove-predicts-trump-will-resume-kinetic-action-in-iran-after-midterms/ar-AA2ghAS5",
-        "clean_url": "https://www.msn.com/en-us/news/other/karl-rove-predicts-trump-will-resume-kinetic-action-in-iran-after-midterms/ar-AA2ghAS5",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793196987.0
     }
 ]
