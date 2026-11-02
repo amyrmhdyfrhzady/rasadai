@@ -73,6 +73,25 @@
         "timestamp": 1793643600.0
     },
     {
+        "id": "b1b8abac38",
+        "title_fa": "ممنوعیت فروش طلا با نمادهای سلطنتی در مشهد",
+        "title_en": "Iran bans sales of jewelry with monarchy-linked symbols in Khamenei hometown",
+        "summary": [
+            "اتحادیه طلا و جواهر مشهد فروش زیورآلات با نماد شیر و خورشید و علائم مربوط به دوران پادشاهی را ممنوع کرد.",
+            "این دستورالعمل به دنبال ابلاغ نهادهای نظارتی اماکن عمومی صادر شده است.",
+            "حکومت با ترس از گرایش جوانان به نمادهای پیش از انقلاب، به شدت با بازارهای آزاد برخورد می‌کند."
+        ],
+        "impact": "افزایش فشار امنیتی بر اصناف و واکنش منفی مردم به محدودیت‌های جدید حکومتی.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611020568",
+        "clean_url": "https://www.iranintl.com/en/202611020568",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/f16a6264d08bcbd6120e0f3538af8a760814c247-959x535.jpg?rect=153,76,459,459&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1793642820.0
+    },
+    {
         "id": "341820d31a",
         "title_fa": "چشم‌انداز متفاوت جنگ احتمالی اسرائیل با ج.ا.ا نسبت به غزه",
         "title_en": "Israel hopes third Iran war will differ from Gaza conflict with Hamas",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTlyMlFnTXVXaVpORFNDMDZoRmdLQ1BHVzFIeTgzMDB2aVJEcTcyeWpFakpMdmVUMVpoNlJtTDAxQnhZZXo3NmRaME8zdEVxZElQNlZqT2xMLWlXLW96Wm9XUlI1emhnNFg0akpORUp6OHUwSUZLVjJyNWl4UUEydWpqdHhkdnpRa1pfUUU0QVlCV2FTSFBBc3pXQ1pySXFSdDg4c21PMA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793262042.0
-    },
-    {
-        "id": "9f5e5086d2",
-        "title_fa": "بن‌بست استراتژیک در جنگ ایران و آمریکا",
-        "title_en": "Only the Gulf Can End the Iran War",
-        "summary": [
-            "آمریکا و اسرائیل با وجود ضربات نظامی، در براندازی یا نابودی تاسیسات اتمی ناکام مانده‌اند.",
-            "جمهوری اسلامی توانسته بمباران‌ها را تحمل کند اما همچنان زیر فشار خفه کننده اقتصادی محاصره دریایی قرار دارد.",
-            "هیچ‌کدام از طرفین توانایی یا تمایل لازم برای امتیازدهی و خروج از وضعیت فرسایشی کنونی را ندارند."
-        ],
-        "impact": "تداوم وضعیت شکننده کنونی و فرسایش تدریجی ساختار اقتصادی کشور بدون چشم‌انداز دیپلماتیک روشن.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/united-states/only-gulf-can-end-iran-war",
-        "clean_url": "https://www.foreignaffairs.com/united-states/only-gulf-can-end-iran-war",
-        "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/10/28/2026-10-26T233148Z_463352828_RC22BOAGQ0JO_RTRMADP_3_IRAN-CRISIS-MEETING.JPG?itok=EgKXFBrF",
-        "timestamp": 1793260800.0
     }
 ]
