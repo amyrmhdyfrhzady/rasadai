@@ -1,5 +1,23 @@
 [
     {
+        "id": "341820d31a",
+        "title_fa": "چشم‌انداز متفاوت جنگ احتمالی اسرائیل با ج.ا.ا نسبت به غزه",
+        "title_en": "Israel hopes third Iran war will differ from Gaza conflict with Hamas",
+        "summary": [
+            "تل‌آویو رویارویی نظامی احتمالی با تهران را کاملاً متمایز از درگیری فرسایشی با حماس در غزه می‌داند.",
+            "این ارزیابی نشان‌دهنده آمادگی برای یک سناریوی ضربتی و استراتژیک است."
+        ],
+        "impact": "بال رفتن احتمال درگیری مستقیم و تغییر قواعد بازی در منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USGsza2ctd2oxb0hLcUowY0ZSVm80VWVSZWtjZzlxaWVsUjVHeVhhWXJMVkFnc1RROElselZtSDNCS0lNcGMzRndXRlpiLTIweV9GbjZwcFVmNVp1M2k4c3p0SWdjMWNPb0FWc2pB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USGsza2ctd2oxb0hLcUowY0ZSVm80VWVSZWtjZzlxaWVsUjVHeVhhWXJMVkFnc1RROElselZtSDNCS0lNcGMzRndXRlpiLTIweV9GbjZwcFVmNVp1M2k4c3p0SWdjMWNPb0FWc2pB",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793638773.0
+    },
+    {
         "id": "c5c414a87b",
         "title_fa": "پشت پرده رجزخوانی‌های ترامپ؛ تلاش برای توافق صلح با تهران",
         "title_en": "Why Trump Has Bent Knee To Attain Iran Settlement",
@@ -476,6 +494,25 @@
         "clean_url": "https://www.iranintl.com/en/202611022292",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/4fa51d415bd5cc7d4204bdac8045f56e827d10b7-1280x853.jpg?rect=0,1,1280,852&amp;w=320&amp;h=213&amp;q=90&amp;fit=max&amp;auto=format",
         "timestamp": 1793605200.0
+    },
+    {
+        "id": "28a392127a",
+        "title_fa": "پافشاری تهران بر حفظ اورانیوم و شرط‌گذاری برای تنگه هرمز",
+        "title_en": "Iran rejects uranium transfer abroad, says Hormuz reopening depends on US ending blockade",
+        "summary": [
+            "اسماعیل بقایی، سخنگوی وزارت خارجه، خروج اورانیوم غنی‌شده از کشور را صراحتاً رد کرد.",
+            "تهران باز شدن تنگه هرمز را به پایان محاصره دریایی توسط ایالات متحده گره زد.",
+            "بحث خروج از ان‌پی‌تی به عنوان یک گزینه روی میز مطرح شد."
+        ],
+        "impact": "افزایش تنش‌های هسته‌ای و نظامی در آب‌های جنوبی و بن‌بست دیپلماسی",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/531768/Iran-rejects-uranium-transfer-abroad-says-Hormuz-reopening-depends",
+        "clean_url": "https://www.tehrantimes.com/news/531768/Iran-rejects-uranium-transfer-abroad-says-Hormuz-reopening-depends",
+        "image": "https://media.tehrantimes.com/d/t/2025/12/01/4/5804349.jpg?ts=1764608386298",
+        "timestamp": 1793604000.0
     },
     {
         "id": "8e2165bd77",
@@ -5458,41 +5495,5 @@
         "clean_url": "https://www.ibtimes.com/irans-revolutionary-guards-allegedly-took-control-sanctioned-oil-trade-billions-revenue-are-3809073",
         "image": "https://d.ibtimes.com/en/full/4653941/kharg-island.jpg",
         "timestamp": 1793244300.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "مرور اخبار زرد و حاشیه‌های ورزشی آمریکا",
-        "title_en": "US latest news",
-        "summary": [
-            "این گزارش به حواشی چهره‌های ورزشی و مسابقات بیسبال آمریکا پرداخته است.",
-            "موضوعاتی درباره رسانه‌های ورزشی و زندگی چهره‌ها مطرح شده است."
-        ],
-        "impact": "فاقد تاثیر سیاسی، امنیتی یا اقتصادی بر تحولات کلان.",
-        "tag": "ورزشی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1793242740.0
-    },
-    {
-        "id": "93c2ab260d",
-        "title_fa": "شبکه پنهان نظامی برای دور زدن تحریم‌ها",
-        "title_en": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
-        "summary": [
-            "حکومت از طریق شبکه گسترده پنج هزار نهاد مالی و نظامی، قطعات و مواد منفجره را وارد کشور می‌کند.",
-            "برنامه پهپادی و موشکی با وجود تحریم‌ها و فشارهای شدید مالی همچنان به تأمین تجهیزات ادامه می‌دهد."
-        ],
-        "impact": "شکاف در ساختار تحریم‌های بین‌المللی و تداوم جریان تسلیحاتی",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/iran/irans-hidden-web-military-agencies-is-slipping-hardware-past-us-blockade-2026-10-29/",
-        "clean_url": "https://www.reuters.com/world/iran/irans-hidden-web-military-agencies-is-slipping-hardware-past-us-blockade-2026-10-29",
-        "image": "http://www.bing.com/th?id=ONUT.539rAcFUcDTMbt0dYPG_rw&pid=News",
-        "timestamp": 1793242740.0
     }
 ]
