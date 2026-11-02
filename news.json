@@ -18,6 +18,25 @@
         "timestamp": 1793621331.0
     },
     {
+        "id": "0464e09ac9",
+        "title_fa": "حمله هوایی به غزه و تلفات انسانی جدید",
+        "title_en": "Reports: One killed, five wounded in strike in Gaza City",
+        "summary": [
+            "منابع وابسته به حماس از اصابت موشک به یک خودرو در محله تل‌الهوا در شهر غزه خبر دادند.",
+            "بر اثر این انفجار یک نفر کشته و پنج تن دیگر مجروح شدند.",
+            "ارتش اسرائیل تاکنون درباره این رخداد موضع‌گیری رسمی نکرده است."
+        ],
+        "impact": "تداوم درگیری‌های میدانی و افزایش تلفات در باریکه غزه.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/reports-one-killed-five-wounded-in-strike-in-gaza-city/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/reports-one-killed-five-wounded-in-strike-in-gaza-city",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793620980.0
+    },
+    {
         "id": "46fc7775c4",
         "title_fa": "طرح دو روزه تهران برای باز کردن تنگه هرمز و مذاکره با آمریکا",
         "title_en": "Iran has a 2-day plan to reopen Strait, resume nuclear talks with US, and other Mideast news",
@@ -5474,24 +5493,5 @@
         "clean_url": "https://news.sbs.co.kr/english/article.do",
         "image": "https://img.sbs.co.kr/newimg/news/20261029/202235941_1280.jpg",
         "timestamp": 1793222400.0
-    },
-    {
-        "id": "f51dbfe105",
-        "title_fa": "اعدام ۳۴ معترض و سرکوب خونین در خفا",
-        "title_en": "UN’s Mai Sato details executions, mass trials in Iran crackdown",
-        "summary": [
-            "گزارشگر ویژه سازمان ملل از اعدام حداقل ۳۴ نفر در ارتباط با اعتراضات سراسری خبر داد.",
-            "حکومت با سوءاستفاده از جنگ با آمریکا و اسرائیل، ماشین سرکوب و احکام اعدام را شدت بخشیده است.",
-            "هزاران نفر بازداشت شده‌اند و ابعاد جنایات جانی بسیار فراتر از آمارهای رسمی است."
-        ],
-        "impact": "تشدید فشارهای بین‌المللی بر جـ.هـ.ـوری اسـ.لامی به دلیل نقض فاحش حقوق بشر.",
-        "tag": "حقوق بشر",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610286064",
-        "clean_url": "https://www.iranintl.com/en/202610286064",
-        "image": "http://www.bing.com/th?id=ONUT.05txgR6KjogycB86X7P1SQ&pid=News",
-        "timestamp": 1793220840.0
     }
 ]
