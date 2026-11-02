@@ -367,6 +367,25 @@
         "timestamp": 1793605200.0
     },
     {
+        "id": "4d22771019",
+        "title_fa": "دستورات امنیتی مـجـتبـی خـامـنـه‌ای برای ترمیم خلأهای اطلاعاتی سپاه و ارتش",
+        "title_en": "Iran MP says Khamenei orders addressed military intelligence coordination gap",
+        "summary": [
+            "یک نماینده مجلس از دستورات ویژه برای رفع ضعف‌های ساختار اطلاعات نظامی و هماهنگی میان نیروها خبر داد.",
+            "تلاش برای به‌روزرسانی اهداف نظامی با هدف آماده‌سازی حملات ضربتی علیه مواضع آمریکا و اسرائیل در دستور کار قرار گرفته است.",
+            "دانشگاه‌ها و فضای داخلی همزمان با این دستورات نظامی، شاهد افزایش شدید فشارها و کنترل امنیتی هستند."
+        ],
+        "impact": "تلاش حاکمیت برای متمرکز کردن فرماندهی نظامی و تشدید جنگ روانی علیه منافع غرب در منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611028403",
+        "clean_url": "https://www.iranintl.com/en/202611028403",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793601720.0
+    },
+    {
         "id": "ff1b86a3e1",
         "title_fa": "هراس تهران از شکاف داخلی؛ واکنش منفعلانه به مواضع جی‌دی ونس",
         "title_en": "Iranian lawmaker says Vance letter aims to deepen divisions in Iran",
@@ -5474,23 +5493,5 @@
         "clean_url": "https://note.com/gifted_ixora801/n/nf73ce5820b81",
         "image": "https://www.bing.com/th?id=ONUT.Rd8KCgP9eOkvl4tTaZ3TIA",
         "timestamp": 1793232669.1082735
-    },
-    {
-        "id": "a961713474",
-        "title_fa": "خط و نشان ترامپ برای تهران و استقرار ناوهای جدید",
-        "title_en": "Trump says latest Iran peace offer not enough, may resume bombing, and other Mideast developments",
-        "summary": [
-            "دونالد ترامپ پیشنهاد اخیر توافق از سوی تهران را رد کرد و از احتمال از سرگیری حملات پس از انتخابات میادوره ای خبر داد.",
-            "ارتش ایالات متحده با اعزام ناوگروه های جدید، حضور نظامی خود را در منطقه به شدت افزایش می دهد."
-        ],
-        "impact": "افزایش حضور دریایی آمریکا و احتمال تنش نظامی مستقیم در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Newsday",
-        "url": "https://www.newsday.com/news/nation/flydubai-trump-netanyahu-iran-yemen-israel-saudi-uae-october-1-2026-i34387",
-        "clean_url": "https://www.newsday.com/news/nation/flydubai-trump-netanyahu-iran-yemen-israel-saudi-uae-october-1-2026-i34387",
-        "image": "https://cdn.newsday.com/ace/c:Nzg5NmZlODMtN2Y4YS00:NjZkZTc3ZmUtMGNjYi00/square/770",
-        "timestamp": 1793232000.0
     }
 ]
