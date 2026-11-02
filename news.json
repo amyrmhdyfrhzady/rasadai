@@ -110,6 +110,25 @@
         "timestamp": 1793615788.0
     },
     {
+        "id": "57837dbe30",
+        "title_fa": "ادعای تهران درباره پیش‌نویس توافق: معافیت نفتی و آزادسازی دارایی‌ها",
+        "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
+        "summary": [
+            "منابع خبری از ادعای تهران درباره وجود پیش‌نویس توافقی خبر می‌دهند که شامل معافیت‌های نفتی، آزادسازی منابع مالی بلوکه‌شده و پذیرش محدودیت‌های هسته‌ای است.",
+            "رسانه‌ای کردن این ادعا در شرایط فعلی، بیشتر کارکرد تزریق آرامش روانی به بازار ملتهب ارز و کاهش فشارهای داخلی را دارد.",
+            "تحقق واقعی معافیت‌های نفتی و آزادسازی دارایی‌ها نیازمند عقب‌نشینی‌های سنگین هسته‌ای است و هنوز لغو رسمی تحریم‌ها از سوی واشنگتن تأیید نشده است."
+        ],
+        "impact": "تزریق سیگنال مثبت موقت به بازار ارز و تلاش برای کاهش فشار تحریم‌های اقتصادی.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793615601.0
+    },
+    {
         "id": "0318608bde",
         "title_fa": "سیگنال دیپلماتیک ترامپ به ایران و افت ۳ درصدی نفت",
         "title_en": "Iran war latest: Oil prices slide more than 3% as Trump signals more time for Iran diplomacy",
@@ -5474,24 +5493,5 @@
         "clean_url": "https://www.cnbc.com/2026/10/28/cnbc-exclusive-transcript-us-treasury-secretary-scott-bessent-speaks-with-cnbcs-brian-sullivan-on-closing-bell-overtime-today.html",
         "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
         "timestamp": 1793222940.0
-    },
-    {
-        "id": "cd8d5aa9c7",
-        "title_fa": "طرح میانجی‌گری قطر؛ بازرسی از تاسیسات آسیب‌دیده در ازای تخفیف تحریمی",
-        "title_en": "Qatar-led mediation seeks to revive US-Iran nuclear talks",
-        "summary": [
-            "قطر با پشتیبانی عربستان، ترکیه و مصر در تلاش است تهران را به پذیرش بازرسان سازمان ملل در تاسیسات هسته‌ای آسیب‌دیده ترغیب کند.",
-            "این طرح در برابر تخفیف محدود تحریم‌ها و بازگشایی احتمالی تنگه هرمز مطرح شده است.",
-            "واشنگتن و تل‌آویو هم‌زمان با این تحرکات دیپلماتیک، آمادگی برای گزینه‌های نظامی را حفظ کرده‌اند تا خطوط انرژی منطقه تهدید نشود."
-        ],
-        "impact": "کاهش موقت ریسک درگیری در تنگه هرمز و فروکش نسبی قیمت نفت در صورت توافق اولیه.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Samaa TV",
-        "url": "https://www.samaa.tv/2087359305-qatar-led-mediation-seeks-to-revive-us-iran-nuclear-talks",
-        "clean_url": "https://www.samaa.tv/2087359305-qatar-led-mediation-seeks-to-revive-us-iran-nuclear-talks",
-        "image": "https://images.samaa.tv/images/Qatar-Mediation-Revive-Nuclear-Talks.jpg",
-        "timestamp": 1793222580.0
     }
 ]
