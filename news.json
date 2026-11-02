@@ -368,6 +368,24 @@
         "timestamp": 1793596622.0
     },
     {
+        "id": "6c0921ac89",
+        "title_fa": "اعتراف دولت به بحران گاز در آستانه زمستان",
+        "title_en": "US keeps escalating economic pressure on Iran. Tehran officials now warn of gas shortages as winter looms",
+        "summary": [
+            "محمدرضا عارف به طور صریح از کمبود گاز و ناپایداری منابع سوخت در فصل سرما خبر داد.",
+            "فشار اقتصادی و تحریم‌های خارجی زیرساخت‌های انرژی را فلج کرده و مقامات ناچار به اعتراف شده‌اند."
+        ],
+        "impact": "بحران کمبود سوخت می‌تواند نارضایتی‌های عمومی را به شدت افزایش دهد.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/money/general/us-keeps-escalating-economic-pressure-on-iran-tehran-officials-now-warn-of-gas-shortages-as-winter-looms/ar-AA2gB4dU",
+        "clean_url": "https://www.msn.com/en-us/money/general/us-keeps-escalating-economic-pressure-on-iran-tehran-officials-now-warn-of-gas-shortages-as-winter-looms/ar-AA2gB4dU",
+        "image": "http://www.bing.com/th?id=ONUT.BZvEIAJ0U-cm9ZRUbDEswg&pid=News",
+        "timestamp": 1793596192.0
+    },
+    {
         "id": "6eb5682f9b",
         "title_fa": "ریزش ۳ درصدی نفت آمریکا با خبر مذاکرات تهران و واشنگتن",
         "title_en": "U.S. crude falls more than 3% amid reports of U.S.-Iran diplomatic efforts",
@@ -5473,24 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNEtIUlduMTR2SW1EbWpIQmh1TTMxd1BhVmxmd0ZLdjNWN1FLV3cwZlZvRnBuaGVPdXNnR2xveFdFTnZxaFBmUFdoaWQ2SEUzR1g1RVEwRDZEc2k4Y3pNRlRlNWxCY0tyMEJKR1d5dW83QTVlVVFKTGZMM0VLdkoxaDVvMmsyTDhRWW0xU3ItWVJWZWphUWhyaTZFYUw1ZWduNF9hay13bHExTzh6emZkb1JsaVdNclZNS0FyVHNmRHRUWHY2anVNTV9Pd0ZMdGozOTRxSVVBTkNzMk1DWm0tdDRlQTRfa3pBRjU2WUoyZw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793229597.0
-    },
-    {
-        "id": "fc2e554fd6",
-        "title_fa": "هشدار ایالات متحده به متحدان درباره حملات احتمالی",
-        "title_en": "US warns allies of possible Iran strikes, retaliation after elections",
-        "summary": [
-            "دیپلمات‌های آمریکایی به کشورهای منطقه درباره احتمال اقدامات نظامی جدید پس از انتخابات هشدار دادند.",
-            "دونالد ترامپ هنوز تصمیم قطعی برای شروع دور جدید حملات نگرفته است اما ارتش آماده باش است.",
-            "احتمال پاسخ تلافی‌جویانه گروه‌های نیابتی و هدف قرار گرفتن زیرساخت‌های حیاتی انرژی وجود دارد."
-        ],
-        "impact": "افزایش فوری سطح آماده‌باش امنیتی در سراسر خاورمیانه و نگرانی از شروع دور جدید درگیری‌ها.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610282171",
-        "clean_url": "https://www.iranintl.com/en/202610282171",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793229060.0
     }
 ]
