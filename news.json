@@ -328,6 +328,25 @@
         "timestamp": 1793626859.0
     },
     {
+        "id": "57df5bb2c2",
+        "title_fa": "حمله مسلحانه به مقر لشکر فاطمیون در سیستان و بلوچستان",
+        "title_en": "Seven Iran-backed Afghan fighters reported killed in southeast attack",
+        "summary": [
+            "مردان مسلح به یک مدرسه نظامی شده متعلق به نیروهای افغانستانی وابسته به سپـاه در شهرستان کنارک حمله کردند.",
+            "در این درگیری حداقل هفت نفر از اعضای لشکر فاطمیون کشته و چند نفر دیگر زخمی شدند.",
+            "گروه‌های حقوق بشری منطقه گزارش دادند مهاجمان با موتورسیکلت و خودرو وارد محل شده بودند و یک مهاجم نیز کشته شد."
+        ],
+        "impact": "آسیب‌پذیری پایگاه‌های گروه‌های نیابتی در داخل خاک ای-ران حتی در مناطق مرزی دوردست.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611026283",
+        "clean_url": "https://www.iranintl.com/en/202611026283",
+        "image": "http://www.bing.com/th?id=ONUT.k9vAg5pbAAdUiUqDShVz8g&pid=News",
+        "timestamp": 1793624400.0
+    },
+    {
         "id": "e668429381",
         "title_fa": "ترامپ: ضربات محکمی به تهران زدیم و عقب نشستیم",
         "title_en": "Trump says US hit Iran hard a few times, mostly hangs back in conflict",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://en.irna.ir/news/86307058/It-is-Mohsen-Rezaei-s-moment",
         "image": "https://img9.irna.ir/d/r2/2026/10/22/4/173189249.jpg?ts=1792661027518",
         "timestamp": 1793266620.0
-    },
-    {
-        "id": "002a9787b3",
-        "title_fa": "هشدار صریح ترامپ درباره برنامه اتمی ای-ران",
-        "title_en": "Trump claims fallen soldiers said 'we cannot let Iran have a nuclear weapon' - ABC News",
-        "summary": [
-            "دونالد ترامپ با اشاره به سربازان کشته‌شده، بر ممانعت قاطع از دستیابی حکومت به سلاح اتمی تأکید کرد.",
-            "این موضع‌گیری نشان‌دهنده بازگشت احتمال تشدید فشار حداکثری بر سرونوشت برنامه‌های هسته‌ای است."
-        ],
-        "impact": "افزایش تنش‌های لفظی و سیگنال منفی به بازارهای مالی داخلی",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793266261.0
     }
 ]
