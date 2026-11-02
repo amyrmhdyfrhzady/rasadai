@@ -1,5 +1,24 @@
 [
     {
+        "id": "f423ffe523",
+        "title_fa": "فشار حداکثری ترامپ با ضرب‌الاجل چند هفته‌ای",
+        "title_en": "Articole despre \"mutatie-cuba\"",
+        "summary": [
+            "دونالد ترامپ در جمع نزدیکانش از اجرای برنامه خود برای پایان دادن به درگیری با جـمهوری اسـلامی ظرف چهار تا شش هفته آینده خبر داده است.",
+            "همزمان با اوج‌گیری بحران‌های منطقه‌ای، دولت کوبا برای کاهش فشارهای اقتصادی اعلام آمادگی کرده که با کاخ سفید وارد میز مذاکره شود.",
+            "صدور صدها دستور اجرایی و تهدیدهای مکرر اقتصادی توسط ترامپ، معادلات امنیت جهانی را وارد فاز تازه‌ای کرده است."
+        ],
+        "impact": "تسریع فشارهای سیاسی و اقتصادی واشنگتن علیه تهران و متحدان منطقه‌ای‌اش.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/mutatie-cuba-pag5",
+        "clean_url": "https://ziare.com/cautare/mutatie-cuba-pag5",
+        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
+        "timestamp": 1793593264.4473443
+    },
+    {
         "id": "a472322141",
         "title_fa": "سناریوهای پایان‌پذیری تقابل آمریکا و اسرائیل با ج.ا",
         "title_en": "How the US-Israeli war on Iran ends",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.excelsior.com.mx/internacional/iran-discute-con-mediadores-plan-para-poner-fin-guerra-con-eu-y-reabrir-ormuz",
         "image": "http://www.bing.com/th?id=ONUT.grGpWZmZ1LfE0AWfolPvsQ&pid=News",
         "timestamp": 1793201880.0
-    },
-    {
-        "id": "4a0db60e3f",
-        "title_fa": "پشت درهای بسته مجلس؛ بررسی نسخه جدید طرح صیانت",
-        "title_en": "Iranian teacher tried for 'insulting' Hezbollah's Nasrallah",
-        "summary": [
-            "کمیسیون مجلس بررسی لایحه تازه قانون‌گذاری فضای مجازی را کلید زد اما جزییات آن را کاملاً محرمانه نگه داشته است.",
-            "برخی نمایندگان به محدودیت‌های بیشتر اینترنت انتقاد کرده و معتقدند همین حالا هم دسترسی مردم به شدت بسته است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه کنترل اینترنت و سرکوب شدیدتر صدای منتقدان در فضای مجازی",
-        "tag": "اینترنت",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610287017",
-        "clean_url": "https://www.iranintl.com/en/202610287017",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/2dca496b625fa060a189866fd39c2f7fd71769a0-241x191.jpg?rect=0,33,241,127&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793201700.0
     }
 ]
