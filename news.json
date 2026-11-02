@@ -292,6 +292,25 @@
         "timestamp": 1793619602.0
     },
     {
+        "id": "5ecf09c310",
+        "title_fa": "عقب‌نشینی تهران و تلاش برای توافق شتاب‌زده با آمریکا",
+        "title_en": "Iran pushing accelerated plan for ceasefire talks with US",
+        "summary": [
+            "مقام‌های تهران به واسطه قطر به دنبال سرعت بخشیدن به اجرای طرح هفت مرحله‌ای خود برای مذاکره با آمریکا هستند.",
+            "بازگشایی سریع تنگه هرمز و بازگشت به میز مذاکره اتمی از محورهای اصلی این طرح است.",
+            "فشار بالای نظامی و سایه درگیری‌ها، حاکمیت جـمـهـورى اسـلامـى را پای میز دیپلماسی کشانده است."
+        ],
+        "impact": "ترس از درگیری نظامی مستقیم، تهران را وادار به التماس دیپلماتیک کرده است.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
+        "clean_url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae8b325-1793635110.jpg?resize=1920%2C1440",
+        "timestamp": 1793616540.0
+    },
+    {
         "id": "e700a39d36",
         "title_fa": "خروج هیئت ایرانی از دوحه همزمان با توزیع پیش‌نویس توافق با آمریکا",
         "title_en": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says",
@@ -5477,23 +5496,5 @@
         "clean_url": "https://www.theweek.in/news/middle-east/2026/10/29/us-iran-diplomatic-efforts-us-midterm-polls.html",
         "image": "https://img.theweek.in/content/dam/week/news/world/images/2025/trump-mojtaba.jpg",
         "timestamp": 1793251440.0
-    },
-    {
-        "id": "cbf16e4e81",
-        "title_fa": "دست رد تهران به پیشنهاد صلح قطر",
-        "title_en": "Iran Rejects Qatar’s New Draft Deal To End War With United States And Israel: 15 outlets compared",
-        "summary": [
-            "مقام های جـ.ـمهوری اسـ.ـلامی پیش نویس جدید قطر برای پایان درگیری با آمریکا و اسرائیل را رسماً رد کردند.",
-            "پافشاری بر ادامه تنش نشان می دهد حاکمیت تمایلی به کوتاه آمدن در برابر میانجی گران منطقه ای ندارد."
-        ],
-        "impact": "بسته شدن مسیرهای دیپلماتیک و افزایش ریسک درگیری نظامی در منطقه",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "NewsCord",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUHRsc1FqSVlPZ2pfNXpfTXZZOEZDZDJoR2xtalhrbWs5TmxxR3UxNHVIYzhkWlJsekVCNXg0Ny1jOWF0cS1Eckk1VjYydWpSYlJlS1p6XzVzMkR3WEhLQmlVMnhCa3E5d1N2dS1PN0VPVHZobkdlaTFndTM5bk1QcExKUlYzcEFha3Jrb1dsTTUwT3JJNXYwYTdkZGRfNUpuMUkxYmlaczNscHlpTWhHc1Q0WUdfYkJ5Y3F1VkVHVFZYYUJOMWJVcXVrQUlxT25tR1lrV1dFb0lNM1NEWVNjcTNSRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUHRsc1FqSVlPZ2pfNXpfTXZZOEZDZDJoR2xtalhrbWs5TmxxR3UxNHVIYzhkWlJsekVCNXg0Ny1jOWF0cS1Eckk1VjYydWpSYlJlS1p6XzVzMkR3WEhLQmlVMnhCa3E5d1N2dS1PN0VPVHZobkdlaTFndTM5bk1QcExKUlYzcEFha3Jrb1dsTTUwT3JJNXYwYTdkZGRfNUpuMUkxYmlaczNscHlpTWhHc1Q0WUdfYkJ5Y3F1VkVHVFZYYUJOMWJVcXVrQUlxT25tR1lrV1dFb0lNM1NEWVNjcTNSRQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793251179.0
     }
 ]
