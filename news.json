@@ -128,6 +128,25 @@
         "timestamp": 1793593264.4473443
     },
     {
+        "id": "8075db1784",
+        "title_fa": "فشار نتانیاهو به ترامپ برای حمله به ایران",
+        "title_en": "UPDATES: US War on Iran, Day 249 — Trump Camp Threatens Attacks on November 4",
+        "summary": [
+            "بنیامین نتانیاهو در گفتگوی تلفنی با دونالد ترامپ، او را برای تایید حملات ضربتی به اهدافی در داخل ایران تحت فشار گذاشته است.",
+            "همزمان، وزارت خارجه تهران تبادل پیام با واشنگتن از طریق دوحه را تایید کرده اما شرط امنیت تنگه هرمز را لغو تحریم‌های اقتصادی دانسته است.",
+            "با وجود چانه‌زنی‌های دیپلماتیک در قطر، اهرم فشار نظامی اسرائیل می‌تواند معادلات منطقه را به سمت درگیری مستقیم سوق دهد."
+        ],
+        "impact": "افزایش شدید ریسک نظامی در خلیج فارس و احتمال جهش قیمت نفت و ارز.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "EA WorldView",
+        "url": "https://eaworldview.com/2026/11/us-war-on-iran-trump-threatens-strikes-november-4/",
+        "clean_url": "https://eaworldview.com/2026/11/us-war-on-iran-trump-threatens-strikes-november-4",
+        "image": "https://eaworldview.com/wp-content/uploads/2025/05/MBS-TRUMP-05-25-e1747419820612.jpg",
+        "timestamp": 1793592600.0
+    },
+    {
         "id": "a472322141",
         "title_fa": "سناریوهای پایان‌پذیری تقابل آمریکا و اسرائیل با ج.ا",
         "title_en": "How the US-Israeli war on Iran ends",
@@ -5474,25 +5493,5 @@
         "clean_url": "https://www.msn.com/es-us/noticias/other/eeuu-pide-a-aliados-prepararse-para-posibles-ataques-de-ir%C3%A1n-tras-las-elecciones-dicen-fuentes-ap/ar-AA2ghMyY",
         "image": "http://www.bing.com/th?id=ONUT.rUZ7Bz3X0xLUE_BABfrpcQ&pid=News",
         "timestamp": 1793209493.0
-    },
-    {
-        "id": "521b960900",
-        "title_fa": "آماده‌سازی گزینه‌های نظامی ترامپ علیه ج.ا پس از انتخابات",
-        "title_en": "Trump says Iran 'tapping' US along until election 'not going to help them'",
-        "summary": [
-            "ترامپ با ادبیات مبهم و تهدیدآمیز، احتمال هرگونه اقدام نظامی پس از انتخابات میان‌دوره‌ای را باز گذاشته است.",
-            "پنتاگون در حال جابه‌جایی ناوهای هواپیمابر و استقرار سامانه‌های پاتریوت در اسرائیل برای آمادگی جهت یک عملیات ضربتی است.",
-            "پیام واشینگتن به کشورهای خلیج فارس، آمادگی برای یک کارزار نظامی کوتاه اما بسیار سنگین است.",
-            "استراتژی فشار حداکثری در حال بازگشت به فاز نظامی است تا تهران را پیش از هرگونه مذاکره احتمالی به عقب‌نشینی وادار کند."
-        ],
-        "impact": "افزایش شدید ریسک درگیری نظامی مستقیم در خاورمیانه و فشار بی‌سابقه بر توان دفاعی ج.ا.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26",
-        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/10/624/351/28e439242597475c3b8d1167da420596.jpg?ve=1&tl=1",
-        "timestamp": 1793209440.0
     }
 ]
