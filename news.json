@@ -1,5 +1,23 @@
 [
     {
+        "id": "64d1cbc605",
+        "title_fa": "تهدید وزارت خارجه درباره تغییر دکترین هسته‌ای ج.ا",
+        "title_en": "Foreign Ministry Warns Iranian Nuclear Policy Could Change",
+        "summary": [
+            "مقام‌های وزارت خارجه ج.ا با طرح احتمال تغییر سیاست هسته‌ای، در پی باج‌خواهی جدید از غرب هستند.",
+            "این لفاظی‌ها در شرایطی مطرح می‌شود که فشار بین‌المللی بر پرونده اتمی تهران به بالاترین حد رسیده است."
+        ],
+        "impact": "افزایش تنش دیپلماتیک و سرعت گرفتن واکنش‌های آژانس انرژی اتمی.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "IranWire",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUxTSWgwNWw1QWtEVjYxTk5pQTFYSW5ZYzV4YkhiUHJxZFk3eTU1WEo0R2puX3R6UEhRc1pQc0ZUUWU0VmZLZjU3aXI3NGZYYkZ1ZTRVb05JekVqeWRNRFdWYkxpY2lyc2tPR202cENVUjd5YmN6ei11X1RSMFVseEUtak5CRnVZS3FjRjhLMC1mNzBTdURpQXlzMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUxTSWgwNWw1QWtEVjYxTk5pQTFYSW5ZYzV4YkhiUHJxZFk3eTU1WEo0R2puX3R6UEhRc1pQc0ZUUWU0VmZLZjU3aXI3NGZYYkZ1ZTRVb05JekVqeWRNRFdWYkxpY2lyc2tPR202cENVUjd5YmN6ei11X1RSMFVseEUtak5CRnVZS3FjRjhLMC1mNzBTdURpQXlzMA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793626859.0
+    },
+    {
         "id": "e668429381",
         "title_fa": "ترامپ: ضربات محکمی به تهران زدیم و عقب نشستیم",
         "title_en": "Trump says US hit Iran hard a few times, mostly hangs back in conflict",
@@ -5474,24 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202610282171",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793229060.0
-    },
-    {
-        "id": "7796448a56",
-        "title_fa": "هشدار امنیتی آمریکا و خروج دیپلمات‌ها از عربستان",
-        "title_en": "US warns of Iran-backed Houthi attacks, travel disruptions in Saudi Arabia",
-        "summary": [
-            "سفارت آمریکا در ریاض به دلیل خطرات حملات پهپادی و موشکی حوثی‌های وابسته به جـ.م.ا به فرودگاه‌ها و زیرساخت‌های عربستان هشدار داد.",
-            "وزارت خارجه آمریکا دستور خروج کارکنان غیرضروری و خانواده‌های آن‌ها را صادر کرد.",
-            "تهدیدات نیابتی در منطقه به سرعت در حال افزایش است و محدودیت‌های سفری شدیدی برای دیپلمات‌های آمریکایی اعمال شده است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی در عربستان و آماده‌باش برای مقابله با خطرات نیابتی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610283763",
-        "clean_url": "https://www.iranintl.com/en/202610283763",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793227020.0
     }
 ]
