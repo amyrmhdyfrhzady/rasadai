@@ -1,5 +1,23 @@
 [
     {
+        "id": "31c58dbc20",
+        "title_fa": "افت قیمت نفت همزمان با خبر گفتگوها درباره مناقشه ایران و آمریکا",
+        "title_en": "Oil futures: Crude rows back after talks to resolve US-Iran conflict",
+        "summary": [
+            "بازار نفت به اخبار مربوط به مذاکرات برای حل و فصل تنش‌ها واکنش منفی نشان داد.",
+            "فیمت نفت خام پس از انتشار خبر گفتگوها با کاهش روبرو شد."
+        ],
+        "impact": "کاهش نسبی قیمت نفت به دلیل فروکش کردن موقت نگرانی‌های ژئوپلیتیک.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Quantum Commodity Intelligence",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLW9HRTJTVkdJRDIxTmJtb1Nlb3JiREd1ZVd6djJ6dGxlQmVRWW5EeU1keGx6V0t0UzhWZENmam81dDBSNTJkaEpTQ1NTa3lSU3NVdHJUWnFmMVVESmxFUW5aWEg1OWVXeGlQMEVMNUtoZV9KbjlRQVZHc0RxYnZhcFp6RkpjNjZWekdWLVduVmFCOW5Wb0JtOWo3U2N2UlNtaFF0dm85NDBPRVJhN3R3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLW9HRTJTVkdJRDIxTmJtb1Nlb3JiREd1ZVd6djJ6dGxlQmVRWW5EeU1keGx6V0t0UzhWZENmam81dDBSNTJkaEpTQ1NTa3lSU3NVdHJUWnFmMVVESmxFUW5aWEg1OWVXeGlQMEVMNUtoZV9KbjlRQVZHc0RxYnZhcFp6RkpjNjZWekdWLVduVmFCOW5Wb0JtOWo3U2N2UlNtaFF0dm85NDBPRVJhN3R3",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793622735.0
+    },
+    {
         "id": "b18086721d",
         "title_fa": "دلخوشی نتانیاهو به بن‌بست دیپلماسی با ج.مهوری ا.سلامی",
         "title_en": "Netanyahu’s best hope may be Iran saying no to diplomacy",
@@ -328,6 +346,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Wc0laNWlqbDNjT1NKWGxSYmprWk9pUm1oaXlYWmx5cXFsaFF4ZGtpby1qWDlyUUswV3dpQ3FfcW9NTXBlUjE1QXRUSURjazF1YllLbVViTUZxX3U3bmhZcHBBREZkRUxLNDhiVWNOVEpZV2FzR1RsRlNVVEdUZXc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793593862.0
+    },
+    {
+        "id": "7d6cc0fb71",
+        "title_fa": "اعتراف پزشکیان به عمق بحران‌ها و نیاز به همراهی مردم",
+        "title_en": "Pezeshkian says public participation can help Iran overcome threats",
+        "summary": [
+            "مسعود پزشکیان در دیدار با استانداران اعلام کرد که بقای سیستم به حضور مردم در صحنه وابسته است.",
+            "او با اشاره به تهدیدات دشمنان مدعی شد حتی با ترور هزاران نفر مثل او، حضور مردم مانع سقوط خواهد شد.",
+            "درخواست از مدیران استانی برای اتکا به ظرفیت‌های محلی بدون انتظار برای دستورالعمل‌های دولتی."
+        ],
+        "impact": "تلاش مقامات برای مهار بحران‌های داخلی با تکیه بر شعارهای حمایتی از مردم.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611028824",
+        "clean_url": "https://www.iranintl.com/en/202611028824",
+        "image": "http://www.bing.com/th?id=ONUT.gnF0K2I_St1dd7PPc66gWQ&pid=News",
+        "timestamp": 1793593500.0
     },
     {
         "id": "f423ffe523",
@@ -5456,42 +5493,5 @@
         "clean_url": "https://www.samaa.tv/2087359305-qatar-led-mediation-seeks-to-revive-us-iran-nuclear-talks",
         "image": "https://images.samaa.tv/images/Qatar-Mediation-Revive-Nuclear-Talks.jpg",
         "timestamp": 1793222580.0
-    },
-    {
-        "id": "beb9c70280",
-        "title_fa": "فراخوان امارات برای کاهش تنش در بحران ایران",
-        "title_en": "UAE urges de-escalation as Iran crisis raises regional risks",
-        "summary": [
-            "امارات متحده عربی خواستار خویشتن‌داری و دیپلماسی برای مهار بحران منطقه‌ای ناشی از تنش‌های ایران شد.",
-            "وزارت خارجه امارات بر لزوم پایبندی به قوانین بین‌المللی و حل مسالمت‌آمیز اختلافات تأکید کرد."
-        ],
-        "impact": "تلاش کشورهای عربی منطقه برای فاصله گرفتن از درگیری احتمالی و کاهش ریسک‌های امنیتی.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610280404",
-        "clean_url": "https://www.iranintl.com/en/202610280404",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793222580.0
-    },
-    {
-        "id": "0ac8187748",
-        "title_fa": "احتمال حمله متمادی آمریکا به ائتلاف ج.ا.ا همزمان با مذاکرات غیرمستقیم",
-        "title_en": "US-Iran 'Indirect Talks' Underway Amid Pressure of Renewed Attacks",
-        "summary": [
-            "ایالات متحده همزمان با تقویت توان نظامی خود در منطقه و هماهنگی با اسرائیل، واسطه‌های منطقه‌ای مانند قطر را برای امتیازگیری اتمی فعال کرده است.",
-            "دونالد ترامپ با تهدیدهای صریح خود به دنبال اعمال فشار حداکثری است تا تهران را وادار به تسلیم در پرونده هسته‌ای کند.",
-            "اگر توافق دیپلماتیک پنهانی تا قبل از انتخابات میادترم به نتیجه نرسد، عملیات بمباران اهداف حکومت به سرعت کلید خواهد خورد."
-        ],
-        "impact": "سایه سنگین جنگ و تحریم‌های تازه بر سر اقتصاد و ثبات امنیتی کشور",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "SBS News",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820814",
-        "clean_url": "https://news.sbs.co.kr/english/article.do",
-        "image": "https://img.sbs.co.kr/newimg/news/20261029/202235941_1280.jpg",
-        "timestamp": 1793222400.0
     }
 ]
