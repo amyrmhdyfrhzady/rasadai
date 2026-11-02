@@ -1,5 +1,24 @@
 [
     {
+        "id": "a1989f9294",
+        "title_fa": "ریزش قیمت نفت با چراغ سبز بیت رهبری برای مذاکره",
+        "title_en": "Hopes of a US.-Iran breakthrough mount. Tehran's president said supreme leader gave govt. certain authorities.",
+        "summary": [
+            "رئیس‌جمهور از تفویض اختیارات ویژه از سوی رهبر جمهوری اسلامی برای پیشبرد تعاملات خبر داد.",
+            "بازار نفت بلافاصله واکنش نشان داد و قیمت نفت برنت حدود ۶ درصد سقوط کرد و به زیر ۱۰۷ دلار رسید.",
+            "سیگنال‌های مثبت از تهران امیدواری‌ها برای کاهش تنش با واشنگتن را افزایش داده است."
+        ],
+        "impact": "کاهش سریع قیمت نفت در بازارهای جهانی به دنبال مخابره سیگنال‌های مثبت از سوی تهران.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "International Business Times",
+        "url": "https://www.msn.com/en-us/news/other/hopes-of-a-us-iran-breakthrough-mount-tehrans-president-said-supreme-leader-gave-govt-certain-authorities/ar-AA2gBjYI",
+        "clean_url": "https://www.msn.com/en-us/news/other/hopes-of-a-us-iran-breakthrough-mount-tehrans-president-said-supreme-leader-gave-govt-certain-authorities/ar-AA2gBjYI",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aKZs7.img?w=2080&h=1386&m=4&q=98",
+        "timestamp": 1793629584.0
+    },
+    {
         "id": "d728f18336",
         "title_fa": "سناریوهای پاسخ تـهران به حمله احتمالی آمـریکا و اسـرائیل",
         "title_en": "How would Tehran respond if the US and Israel bomb Iran again?",
@@ -5472,23 +5491,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/as-trump-mulls-fresh-strikes-after-midterms-vance-writes-to-iran-tehran-says-wont-surrender/ar-AA2gj5kS",
         "image": "http://www.bing.com/th?id=ONUT.hIxvsUYwFtcoaabzvIO6_w&pid=News",
         "timestamp": 1793230380.0
-    },
-    {
-        "id": "9543d78be3",
-        "title_fa": "شرط صریح ونس برای تهران: پرونده هسته‌ای باید تعیین‌تکلیف شود",
-        "title_en": "Vance tells top Iranian official negotiations must address nuclear program",
-        "summary": [
-            "جی‌دی ونس در پیامی مستقیم به مقامات ج.ا تاکید کرده که هیچ مذاکره یا توافق آتی بدون رسیدگی کامل به برنامه هسته‌ای انجام نخواهد شد.",
-            "واشنگتن با این خط‌ونشان تازه، استراتژی تفکیک پرونده‌ها را کنار گذاشته و امکان مانور دیپلماتیک را برای تهران به حداقل رسانده است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه فشار بر تهران و الزام به عقب‌نشینی بزرگ اتمی جهت جلوگیری از تنش‌های حادتر.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Mcl90c0FjWm1ETXFmYmZmZmZMdEZOT3hmUGpXZGN0WG1BM0ZWX18yQkhYT3Z0Uk1FOGJDOGlscThUam1hRFlaY3I3Z0tlYmFONzJ0cllhZ0VHU2Vmcktpa3MwYlprU3hMM1NyNUtTM2ViQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Mcl90c0FjWm1ETXFmYmZmZmZMdEZOT3hmUGpXZGN0WG1BM0ZWX18yQkhYT3Z0Uk1FOGJDOGlscThUam1hRFlaY3I3Z0tlYmFONzJ0cllhZ0VHU2Vmcktpa3MwYlprU3hMM1NyNUtTM2ViQQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793230295.0
     }
 ]
