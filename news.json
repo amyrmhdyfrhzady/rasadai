@@ -236,6 +236,25 @@
         "timestamp": 1793714400.0
     },
     {
+        "id": "ad89953c75",
+        "title_fa": "آمادگی ارتش آمریکا برای درگیری نظامی با جمهوری اسلامی",
+        "title_en": "CENTCOM prepared for renewed Iran war as Americans head to polls",
+        "summary": [
+            "سفر هیئت قطری به تهران و میانجی‌گری برای کاهش تنش‌ها میان واشنگتن و حکومت",
+            "گزارش‌هایی از حملات محدود آمریکا به جزیره قشم همزمان با گمانه‌زنی‌ها درباره حمله تمام‌عیار",
+            "هشدار قطر درباره پیامدهای خطرناک هرگونه تنش نظامی جدید بر روند مذاکرات"
+        ],
+        "impact": "افزایش ریسک امنیتی و احتمال درگیری نظامی مستقیم در خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/centcom-prepared-renewed-iran-war-americans-head-polls",
+        "clean_url": "https://www.newarab.com/news/centcom-prepared-renewed-iran-war-americans-head-polls",
+        "image": "http://www.bing.com/th?id=ONUT.yGtf4riv8QBCGIRGPBLK5w&pid=News",
+        "timestamp": 1793710140.0
+    },
+    {
         "id": "a528278678",
         "title_fa": "دو نگاه کاملاً متضاد در رقابت سنای میشیگان",
         "title_en": "El-Sayed’s message to voters on Election Day: ‘Two very, very different visions’ between him, Rogers",
@@ -5472,23 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CMHp3X2x3WFRINUtFenljNXVIUnluOGxjWWdoUXFaWHVSX2NId3EzYmpfeDhvZk9lZnMyZ1FmODQ0eEpiZXNicEMyYjlHdE85NVB1bVdpbVZRR2tyRU9z",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793423700.0
-    },
-    {
-        "id": "f8cc9ed73b",
-        "title_fa": "تهدید جطوری تلافی بدون مرز از سوی مقام ارشد جـ.ـهـ.ـوری ا‌سـ.ـلا‌مـ.ـی",
-        "title_en": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-        "summary": [
-            "تهران اعلام کرده پاسخ احتمالی به هرگونه حمله، محدود به جغرافیای خاصی نخواهد بود.",
-            "این موضع‌گیری در حالی مطرح می‌شود که میانجیگران بین‌المللی برای کاهش تنش‌ها تلاش می‌کنند."
-        ],
-        "impact": "افزایش ریسک امنیتی برای منافع و متحدان غرب در سراسر منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace/ar-AA2gtwOG",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace/ar-AA2gtwOG",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793423622.0
     }
 ]
