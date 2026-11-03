@@ -74,6 +74,25 @@
         "timestamp": 1793707485.0
     },
     {
+        "id": "791dae139a",
+        "title_fa": "تله دوحه؛ باج‌گیری ج.ا از غرب با اهرم تنگه هرمز",
+        "title_en": "The Doha Trap: How Iran Is Using Hormuz to Extort the West",
+        "summary": [
+            "مذاکرات دوحه نه برای صلح، بلکه ابزاری برای امتیازگیری و دور زدن فشارهای بین‌المللی است.",
+            "ج.ا با ناامن کردن مسیرهای کشتیرانی، غرب را به سمت باج‌دهی اقتصادی و آزادسازی منابع مالی سوق می‌دهد.",
+            "این روند عملاً بازدارندگی را از بین برده و تهدید هسته‌ای را به حاشیه می‌راند."
+        ],
+        "impact": "تداوم این مذاکرات منجر به تقویت بنیه مالی ج.ا و تضعیف امنیت انرژی جهانی می‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Algemeiner",
+        "url": "https://www.algemeiner.com/2026/11/03/doha-trap-how-iran-using-hormuz-extort-west/",
+        "clean_url": "https://www.algemeiner.com/2026/11/03/doha-trap-how-iran-using-hormuz-extort-west",
+        "image": "https://www.algemeiner.com/wp-content/uploads/2026/10/2026-10-28T160158Z_5_LYNXNPEM9R0NZ_RTROPTP_4_IRAN-CRISIS-RUSSIA-QATAR-PEZESHKIAN-1.jpg",
+        "timestamp": 1793706420.0
+    },
+    {
         "id": "f71d96ad35",
         "title_fa": "تحقیقات قضایی فرانسه درباره جنایت جنگی ارتش اسرائیل در لبنان",
         "title_en": "French Judges Probe War Crimes Complaint against Israeli Army in Lebanon",
@@ -5481,23 +5500,5 @@
         "clean_url": "https://www.politico.com/news/2026/10/30/mark-carney-interview-takeaways-01144337",
         "image": "http://www.bing.com/th?id=ONUT.gTHlaDUqVxyfGBDnaelu5w&pid=News",
         "timestamp": 1793379120.0
-    },
-    {
-        "id": "af407c0406",
-        "title_fa": "نگرانی از رویکرد سیاست خارجی ترامپ درباره ایران",
-        "title_en": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say",
-        "summary": [
-            "سیاست خارجی ترامپ در قبال ایران و اوکراین نگرانی‌هایی را درباره تشدید تنش‌های بین‌المللی ایجاد کرده است.",
-            "شهروندان آمریکایی به زودی درباره آینده این سیاست‌ها تصمیم‌گیری می‌کنند."
-        ],
-        "impact": "آرایش سیاسی آمریکا می‌تواند مسیر فشارها بر ج--وری اس--لامی را کاملاً تغییر دهد.",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793378820.0
     }
 ]
