@@ -55,6 +55,24 @@
         "timestamp": 1793721420.0
     },
     {
+        "id": "15da04c82f",
+        "title_fa": "تهدید اروپا و پایگاه‌های ناتو توسط مقامات حاکمیتی ای-ران",
+        "title_en": "Iran threatens to extend its missile strikes to the \"heart of Europe\" and target NATO bases",
+        "summary": [
+            "روزنامه‌های نزدیک به ارکان قدرت در تهران از احتمال حمله موشکی به قلب اروپا و پایگاه‌های ناتو سخن گفتند.",
+            "محسن حیدری از اعضای مجلس خبرگان اعلام کرد پاسخ‌ها هیچ محدودیت جغرافیایی نخواهد داشت و حتی خاک آمریکا را هم شامل می‌شود."
+        ],
+        "impact": "افزایش سطح تنش‌های نظامی و امنیتی میان تهران و کشورهای غربی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "voiceofemirates",
+        "url": "https://www.voiceofemirates.com/en/politics/2026/11/03/iran-threatens-to-extend-its-missile-strikes-to-the-heart-of-europe-and-target-nato-bases/",
+        "clean_url": "https://www.voiceofemirates.com/en/politics/2026/11/03/iran-threatens-to-extend-its-missile-strikes-to-the-heart-of-europe-and-target-nato-bases",
+        "image": "https://www.voiceofemirates.com/wp-content/uploads/2026/11/الصواريخ-الإيرانية.webp",
+        "timestamp": 1793720100.0
+    },
+    {
         "id": "29bbac55a7",
         "title_fa": "موافقت آمریکا با پیش‌نویس توافق قطر با ایران",
         "title_en": "US approves Qatar-presented draft deal with Iran: Sources",
@@ -5480,24 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb3NTd19VMkNGSjB0aDZvSEd5U0ozRnBOOU52Nmk4RHp2b3lCcmVIb0lidGgySFMxbFRzeWtkQ04yVWl2NnZsbFdSajBOVUZTS01DeDhHSEtscm1zQ1NpZDdkSEdCS05XRF9xc2dhVmsyVmR2dE92QndlYzk4Z2RJOE1tbk8yTHEtMkNUUDFMR2laSmVFX2tCR3VMb0ppdDN0Z1h3cXdpYTdqdENMSmxYZ3NvM0dMcmlySmUtOXdTWnNpcmNmTjFyemppekpKQ05sRUE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793387883.0
-    },
-    {
-        "id": "fe8eb33b75",
-        "title_fa": "هشدار آلمان درباره هزینه ۱۰۰ میلیارد یورویی جنگ و ناتوانی راهکار نظامی",
-        "title_en": "Merz says Iran conflict cannot be resolved militarily",
-        "summary": [
-            "صدر اعظم آلمان صریحاً اعلام کرد درگیری با تهران راهکار نظامی ندارد و تنها از طریق دیپلماسی و گفت‌وگو حل می‌شود.",
-            "جهش قیمت انرژی به دلیل تنش‌های منطقه‌ای بیش از ۱۰۰ میلیارد یورو به اقتصاد اروپا و مصرف‌کنندگان آسیب زده است.",
-            "هم‌زمان با فشار برلین برای کنترل بحران، سرویس‌های اطلاعاتی غربی همچنان در حال مقابله با تحرکات نفوذی و تهدیدهای امنیتی ایران هستند."
-        ],
-        "impact": "آسیب شدید اقتصادی اروپا باعث فشار فزاینده غرب برای مهار تنش نظامی و کشاندن دوباره طرفین به میز مذاکره می‌شود.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610311114",
-        "clean_url": "https://www.iranintl.com/en/202610311114",
-        "image": "http://www.bing.com/th?id=ONUT.BUvxR0wLCImJZ_2iAMYptQ&pid=News",
-        "timestamp": 1793387400.0
     }
 ]
