@@ -147,6 +147,24 @@
         "timestamp": 1793693160.0
     },
     {
+        "id": "36e6f777a1",
+        "title_fa": "بن‌بست کامل در مذاکرات غیرمستقیم تهران و واشنگتن",
+        "title_en": "Iran, US still far apart on deal to end war as Qatar pushes mediation",
+        "summary": [
+            "تلاش‌های میانجی‌گرانه قطر برای پایان دادن به درگیری‌ها تاکنون هیچ خروجی ملموسی نداشته است.",
+            "مقام‌های ارشد ج.ا همچنان بر مواضع سخت‌گیرانه خود پافشاری می‌کنند و شکاف با آمریکا عمیق‌تر از آن است که با دیپلماسی فعلی پر شود."
+        ],
+        "impact": "تداوم وضعیت بلاتکلیفی و افزایش ریسک درگیری‌های نظامی در منطقه.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-2026-11-03/",
+        "clean_url": "https://www.reuters.com/world/middle-east/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-2026-11-03",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793692560.0
+    },
+    {
         "id": "06b11b91c4",
         "title_fa": "تایید حمله نظامی ترامپ به ایران و واکنش پزشکیان",
         "title_en": "Trump confirms strikes on Iran as Pezeshkian urges against return to war",
@@ -254,6 +272,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-is-considering-nuclear-strike-on-iran-former-cia-agent-claims/ar-AA2gGgwp",
         "image": "http://www.bing.com/th?id=ONUT.A39HGr8GG-pWD0Hjmlzp0w&pid=News",
         "timestamp": 1793690195.0
+    },
+    {
+        "id": "8341a0233b",
+        "title_fa": "شکاف در حزب دموکرات میشیگان بر سر حمایت انتخاباتی",
+        "title_en": "Stevens explains Michigan Senate endorsement, Dems say El-Sayed will win",
+        "summary": [
+            "تغییر موضع هیلی استیونز در حمایت از نامزد سنا، نشان‌دهنده آشفتگی درونی دموکرات‌ها در آستانه انتخابات است.",
+            "رهبران حزب با وجود اختلافات داخلی، همچنان بر پیروزی نامزد مورد نظر خود تاکید دارند."
+        ],
+        "impact": "تضعیف انسجام حزبی دموکرات‌ها در ایالت کلیدی میشیگان.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/stevens-explains-michigan-senate-endorsement-dems-say-el-sayed-will-win/ar-AA2gFKny",
+        "clean_url": "https://www.msn.com/en-us/news/other/stevens-explains-michigan-senate-endorsement-dems-say-el-sayed-will-win/ar-AA2gFKny",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793689689.0
     },
     {
         "id": "d2b638546a",
@@ -673,6 +709,25 @@
         "clean_url": "https://www.usatoday.com/story/news/politics/elections/2026/11/03/midterm-elections-results-updates-2026--live/91892413007",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793675880.0
+    },
+    {
+        "id": "e282c00427",
+        "title_fa": "تغییر مهره‌های مذاکراتی ج.ا در سایه انزوای قالیباف",
+        "title_en": "IRGC representative visits southern Iran missile tunnels",
+        "summary": [
+            "حذف قالیباف از جلسات کلیدی با محوریت پیمان مکه و جایگزینی او با رضایی، نشان‌دهنده تغییر موازنه قدرت در تیم مذاکراتی است.",
+            "بازدید از تونل‌های موشکی در جنوب، پیامی برای قدرت‌نمایی در شرایطی است که ج.ا در جبهه دیپلماتیک دچار سردرگمی شده است.",
+            "حضور رضایی و عراقچی در نشست‌های منطقه‌ای بدون قالیباف، گمانه‌زنی‌ها درباره کنار گذاشته شدن نهایی او را تقویت کرده است."
+        ],
+        "impact": "تزلزل در ساختار تصمیم‌گیری سیاست خارجی و افزایش شکاف میان جناح‌های داخلی.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611030938",
+        "clean_url": "https://www.iranintl.com/en/202611030938",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793675460.0
     },
     {
         "id": "3b1a60ac1d",
@@ -5443,59 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkZVUG5hYnR0Vmx3OE4tY0dZc1VzZjVPZ3BPNVUwT1ZDeVZnU3BVWVpGR3hfVF82SVdRcE5wQVE1TGVYT2ppSGlFcFJOTFgybFJZY3hJd2dJRVpfejRzenFlYzg1dlEyWEstLWoxQXI1OWRhVUpMMW96MlpmNGloTGVhUVJNUXRZS3pQcEU2YWE5Y0EtSl9sa2VheE5vQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793373654.0
-    },
-    {
-        "id": "186c921b68",
-        "title_fa": "استقبال مسکو از رویکرد غیرسیاسی آمریکا در گروه ۲۰",
-        "title_en": "Russia welcomes US efforts to depoliticize G20 discussions — Lavrov",
-        "summary": [
-            "سرگئی لاوروف وزیر خارجه روسیه از تلاش آمریکا برای دور نگه داشتن مباحث گروه ۲۰ از تنش‌های سیاسی حمایت کرد.",
-            "مسکو همچنان تحریم‌های غرب را عامل اصلی اختلال در زنجیره تامین انرژی و مواد غذایی می‌داند."
-        ],
-        "impact": "تمرکز نشست‌های بین‌المللی بر مسائل اقتصادی و انرژی به جای چالش‌های سیاسی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2211281",
-        "clean_url": "https://tass.com/politics/2211281",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793372580.0
-    },
-    {
-        "id": "cacc30e3fd",
-        "title_fa": "هشدار آخرالزمانی ایلان ماسک درباره شکست جمهوری‌خواهان در میان‌دوره‌ای",
-        "title_en": "Elon Musk Makes Final Fear-Laden Midterms Push For GOP: 'The End Of Democracy'",
-        "summary": [
-            "ایلان ماسک هشدار داد پیروزی دموکرات‌ها در کنگره به معنای پایان دموکراسی و تبدیل آمریکا به سیستم تک‌حزبی خواهد بود.",
-            "این چهره متمول فناوری بیش از ۴۴۶ میلیون دلار برای حفظ اکثریت جمهوری‌خواهان در کنگره هزینه کرده است."
-        ],
-        "impact": "بسیج سنگین منابع مالی و رسانه‌ای بخش خصوصی برای پیروزی جناح راست.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/elon-musk-fear-laden-midterms-push-end-of-democracy-midterms_n_6ae4f4fae4b03a6ff49150b4",
-        "clean_url": "https://www.huffpost.com/entry/elon-musk-fear-laden-midterms-push-end-of-democracy-midterms_n_6ae4f4fae4b03a6ff49150b4",
-        "image": "http://www.bing.com/th?id=ONUT.TGV4LauoA1fhUPzQdoryIA&pid=News",
-        "timestamp": 1793371800.0
-    },
-    {
-        "id": "520eb0f455",
-        "title_fa": "تمرکز رسانه‌ای بر افق روابط ایران و اسرائیل پس از گذار",
-        "title_en": "Praying for a Redemptive Relationship Between Iran and Israel",
-        "summary": [
-            "انتشار مقالاتی با مضمون بازسازی روابط تاریخی میان دو ملت ایران و اسرائیل، نشان‌دهنده فعال‌تر شدن جبهه افکار عمومی علیه سیاست‌های ج*هوری اس*لامی است.",
-            "این گونه یادداشت‌ها مستقیماً خط جداکردن حساب مردم ایران از بدنه حکومت تهران را دنبال کرده و نگاه‌ها را به دوران پس از تغییرات سیاسی معطوف می‌کنند."
-        ],
-        "impact": "افزایش فشار روانی و رسانه‌ای بر خط تبلیغاتی حکومت ایران در سطح بین‌المللی.",
-        "tag": "دیپلماسی",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEFBSS1aa1hTaUNfZ2R5RkoxSVFEZlNhMkZHTUpEZ3ZfYXpVTm16cjdLbEtoM2NpbGo5Tm9rNHcxZFJSX0cxcEE4UFhpTkJtamxqVzNmUzZUbFdPdkRXX2pYUDI3OFhTS0tRM0k1QzkyaHdxOERKOGlkWUpGbnQzQ2h3cmpaVFlxTFlNaTJuVVJLVjdSVFVuVmp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEFBSS1aa1hTaUNfZ2R5RkoxSVFEZlNhMkZHTUpEZ3ZfYXpVTm16cjdLbEtoM2NpbGo5Tm9rNHcxZFJSX0cxcEE4UFhpTkJtamxqVzNmUzZUbFdPdkRXX2pYUDI3OFhTS0tRM0k1QzkyaHdxOERKOGlkWUpGbnQzQ2h3cmpaVFlxTFlNaTJuVVJLVjdSVFVuVmp3",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793371020.0
     }
 ]
