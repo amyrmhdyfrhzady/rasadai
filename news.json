@@ -144,6 +144,24 @@
         "timestamp": 1793683789.0
     },
     {
+        "id": "60de7f626d",
+        "title_fa": "تنش در اردوگاه دموکرات‌ها؛ حاشیه در حساس‌ترین کرسی سنا",
+        "title_en": "The unlikely figure in the contentious Michigan Senate race",
+        "summary": [
+            "دخالت‌های شخصی در ستاد انتخاباتی هالی استیونز در میشیگان، باعث ایجاد شکاف و نارضایتی عمیق در میان تیم عملیاتی دموکرات‌ها شده است.",
+            "در حالی که هر کرسی برای کنترل سنا حیاتی است، این اختلافات داخلی می‌تواند پیروزی دموکرات‌ها در این ایالت کلیدی را به خطر بیندازد."
+        ],
+        "impact": "تضعیف انسجام دموکرات‌ها در میشیگان، مسیر جمهوری‌خواهان برای تسلط کامل بر سنا را هموارتر می‌کند.",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-unlikely-figure-in-the-contentious-michigan-senate-race/ar-AA2gFcaw",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-unlikely-figure-in-the-contentious-michigan-senate-race/ar-AA2gFcaw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793682000.0
+    },
+    {
         "id": "64aa014b74",
         "title_fa": "عقب‌نشینی لفظی پزشکیان پس از حملات آمریکا",
         "title_en": "Iran president says return to war benefits no one, after reported US strikes",
@@ -215,6 +233,43 @@
         "clean_url": "https://www.courant.com/2026/11/03/donald-trump-post-midterms",
         "image": "https://www.courant.com/wp-content/uploads/2026/11/Trump_45_34-1.jpg?w=2000&h=1333",
         "timestamp": 1793679780.0
+    },
+    {
+        "id": "4ecca636ee",
+        "title_fa": "شمارش معکوس برای سقوط اکثریت ترامپ؛ آمریکا پای صندوق‌های رای",
+        "title_en": "Live updates: U.S. voters go to polls as control of Congress hangs in the balance",
+        "summary": [
+            "جمهوری‌خواهان با لبه تیغ در کنگره راه می‌روند؛ تورم و گرانی محبوبیت ترامپ را به شدت پایین کشیده و احتمال از دست رفتن سنا و مجلس جدی است.",
+            "هیلاری کلینتون با حمله‌ای بی‌سابقه، ترامپ را «مجنون و مهارناپذیر» خواند؛ این انتخابات عملاً رفراندومی برای تایید یا رد سیاست‌های تهاجمی اوست.",
+            "گزارش‌های اولیه از خرابی دستگاه‌های رای‌گیری در نیویورک، از همین حالا فضا را برای ادعاهای تقلب و تنش‌های خیابانی آماده کرده است."
+        ],
+        "impact": "سقوط احتمالی اکثریت جمهوری‌خواه، دست‌وپای ترامپ را در اعمال فشارهای بین‌المللی و تصویب بودجه‌های جنجالی می‌بندد.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "NBC10 Philadelphia",
+        "url": "https://www.nbcphiladelphia.com/elections/election-day-2026-midterms-congress-results-live-updates/4490041/",
+        "clean_url": "https://www.nbcphiladelphia.com/elections/election-day-2026-midterms-congress-results-live-updates/4490041",
+        "image": "https://media.nbcphiladelphia.com/2026/11/voters-midterms-11226-e1793650661355.jpg?quality=85&strip=all&resize=1200%2C675",
+        "timestamp": 1793679420.0
+    },
+    {
+        "id": "134144571a",
+        "title_fa": "زلزله در آزمایشگاه‌های آمریکا؛ علم قربانی سیاست‌های هسته‌ای ترامپ",
+        "title_en": "The 2026 midterms are today—here’s what scientists say is at stake",
+        "summary": [
+            "دولت ترامپ با حذف بودجه‌های اقلیمی و سلامت، تمام منابع را به سمت هوش مصنوعی و انرژی هسته‌ای سوق داده که با مخالفت شدید جامعه علمی روبرو شده است.",
+            "اخراج هزاران محقق فدرال و سخت‌گیری در صدور ویزا برای نخبگان بین‌المللی، جایگاه علمی و قدرت نرم آمریکا را در معرض تهدید قرار داده است."
+        ],
+        "impact": "نتیجه انتخابات امروز مشخص می‌کند که آیا مسیر «هسته‌ای-محور» ترامپ ادامه می‌یابد یا بودجه‌ها به سمت سلامت و محیط زیست بازمی‌گردد.",
+        "tag": "تکنولوژی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/the-2026-midterms-are-today-heres-what-scientists-say-is-at-stake/",
+        "clean_url": "https://www.scientificamerican.com/article/the-2026-midterms-are-today-heres-what-scientists-say-is-at-stake",
+        "image": "https://static.scientificamerican.com/dam/asset/b4239dc2-5b4e-4e42-b664-aaf46249d796/Capitol-Building.jpg?m=1793661579.604&w=1200",
+        "timestamp": 1793678400.0
     },
     {
         "id": "73793c19f4",
@@ -5442,60 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51SU1lcXNIN2VJdzllYmpxNTR4Y3ZnM0xPS0JrM29YOVNIMlZFUG1iYXJETnFGZVBDTlJhcVM3Unh4WXczM252WlR1YjJNTjYycUhtRWQ5Uk1MRElzM0l2em9DaUZpMHBPMXdyaEhqTTREMERqcWZBbA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793337122.0
-    },
-    {
-        "id": "8197a7571c",
-        "title_fa": "اجماع در تل‌آویو؛ جنگ با ایران مستقل از تغییر دولت‌هاست",
-        "title_en": "War with Iran likely no matter who leads Israel",
-        "summary": [
-            "تقابل نظامی با تهران دیگر تصمیم شخصی نتانیاهو نیست، بلکه به استراتژی تثبیت‌شده نهادهای امنیتی و نظامی اسرائیل تبدیل شده است.",
-            "تغییر چهره‌های سیاسی در تل‌آویو صرفاً زمان‌بندی یا ابزار ضربه را تغییر می‌دهد، اما اصل هدف یعنی انهدام زیرساخت‌های تهدیدساز پابرجا می‌ماند.",
-            "افزایش توان پهپادی و موشکی در منطقه، ساختار دفاعی اسرائیل را به سمت اقدام پیش‌دستانه و اجتناب‌ناپذیر سوق داده است."
-        ],
-        "impact": "بالا رفتن بی‌سابقه خطر رویارویی مستقیم نظامی و تسریع در آماده‌باش دفاعی منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Al Majalla",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONkR2a091aVRUd2pNZlJYaUhxZ29Mc2UtVEtYNGZodmJCbThDQkV0dGs3MmhiZFBCWUFkZktfNWlZRDJJZXFCaHZqRU9ZQVQzR3dXRzh5M0U4cFV5YUVON0V2MzNGOGltOXFkTjRUM2dWdk1aQUxheXQxQ0xETHJFdHNlcS1oUWM4aW5JazFzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONkR2a091aVRUd2pNZlJYaUhxZ29Mc2UtVEtYNGZodmJCbThDQkV0dGs3MmhiZFBCWUFkZktfNWlZRDJJZXFCaHZqRU9ZQVQzR3dXRzh5M0U4cFV5YUVON0V2MzNGOGltOXFkTjRUM2dWdk1aQUxheXQxQ0xETHJFdHNlcS1oUWM4aW5JazFzcw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793334082.0
-    },
-    {
-        "id": "854f8b21b1",
-        "title_fa": "واکنش‌های متناقض جامعه ایـران به تحولات سیاسی اسرائیل",
-        "title_en": "Apathy and intrigue in Iran over Israeli election",
-        "summary": [
-            "بخش بزرگی از مردم ایـران اخبار مربوط به تحولات سیاسی اسرائیل و جنگ را دنبال می‌کنند.",
-            "تعیین دولت آینده در اسرائیل تأثیر مستقیمی بر آینده بحران‌های منطقه دارد."
-        ],
-        "impact": "بازتاب روانی تحولات خارجی بر نگاه عمومی جامعه ایـران به معادلات جنگ و صلح.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "The National on MSN",
-        "url": "https://www.msn.com/en-ae/news/world/apathy-and-intrigue-in-iran-over-israeli-election/ar-AA2gpJZF",
-        "clean_url": "https://www.msn.com/en-ae/news/world/apathy-and-intrigue-in-iran-over-israeli-election/ar-AA2gpJZF",
-        "image": "http://www.bing.com/th?id=ONUT.Gxyp1YPBAkYT5OxlqOutQg&pid=News",
-        "timestamp": 1793333870.0
-    },
-    {
-        "id": "dc30488fed",
-        "title_fa": "پایان جنگ‌های فرسایشی با جـمهوری اسلامی در دستور کار واشنگتن",
-        "title_en": "US vice president rules out 'forever war' in Iran, says Trump will accomplish objectives",
-        "summary": [
-            "مقام ارشد کاخ سفید هرگونه ورود به جنگ طولانی و فرسایشی با ایـران را رد کرد.",
-            "تیم ترامپ به دنبال اجرای اهداف مشخص بدون درگیر شدن در باتلاق نظامی است."
-        ],
-        "impact": "آمریکا به دنبال اعمال فشار هدفمند و قاطع بدون ورود به جنگ پرهزینه زمینی است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZGw0c0JvLVh6N3YwM1ZUbktacnB2cXlGdmFWZzRyQkZlQ2lRZG11RnR4RGV4eWotejhwcTdMc3pBQjVFNVg0RC1MT1hRTlU1Ykhxc29JMTZtVWNVWF90Wk5Dckh4SEpKb05MOW9qeDNCN0FkZXROcFNaS05pUzJXWmJaa2wyai0yS2VDWmhWZFNBX0NOYXBWbDcxSFRxa0VzWlZfRnVHVE0xbjBLZ2lGUmV4MF9LSTB6Z0tDa3pyN3dZOUdwYW9CaUF6SHNmM3FkT1d3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZGw0c0JvLVh6N3YwM1ZUbktacnB2cXlGdmFWZzRyQkZlQ2lRZG11RnR4RGV4eWotejhwcTdMc3pBQjVFNVg0RC1MT1hRTlU1Ykhxc29JMTZtVWNVWF90Wk5Dckh4SEpKb05MOW9qeDNCN0FkZXROcFNaS05pUzJXWmJaa2wyai0yS2VDWmhWZFNBX0NOYXBWbDcxSFRxa0VzWlZfRnVHVE0xbjBLZ2lGUmV4MF9LSTB6Z0tDa3pyN3dZOUdwYW9CaUF6SHNmM3FkT1d3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793333855.0
     }
 ]
