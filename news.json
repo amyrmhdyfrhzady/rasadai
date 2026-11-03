@@ -181,6 +181,24 @@
         "timestamp": 1793675880.0
     },
     {
+        "id": "3b1a60ac1d",
+        "title_fa": "رقابت سرنوشت‌ساز در سنا و فرمانداری میشیگان",
+        "title_en": "All eyes are on Michigan's US Senate, governor races. Live updates",
+        "summary": [
+            "میشیگان به کانون توجه انتخابات میان‌دوره‌ای تبدیل شده است.",
+            "کنترل کرسی‌های سنا، فرمانداری و اکثریت مجالس ایالتی در این منطقه با آرای شکننده تعیین می‌شود."
+        ],
+        "impact": "نتایج این رقابت ایالتی تاثیر مستقیمی بر قدرت حزب حاکم در کنگره دارد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Detroit Free Press on MSN",
+        "url": "https://www.msn.com/en-us/news/other/all-eyes-are-on-michigan-s-us-senate-governor-races-live-updates/ar-AA2gEwKE",
+        "clean_url": "https://www.msn.com/en-us/news/other/all-eyes-are-on-michigan-s-us-senate-governor-races-live-updates/ar-AA2gEwKE",
+        "image": "http://www.bing.com/th?id=ONUT.VjbKQmcedX3Oz_J84FnQeg&pid=News",
+        "timestamp": 1793674856.0
+    },
+    {
         "id": "19c0bdcd52",
         "title_fa": "رکوردشکنی بازار پیش‌بینی با نزدیک دو میلیارد دلار معامله میان‌دوره‌ای",
         "title_en": "Nearly $1.9 billion traded on midterms in booming prediction markets",
@@ -197,6 +215,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/nearly-19-billion-traded-on-midterms-in-booming-prediction-markets/ar-AA2gEzNJ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793674800.0
+    },
+    {
+        "id": "61857f26c2",
+        "title_fa": "شکاف در پایگاه رای ترامپ و نگرانی جمهوری‌خواهان",
+        "title_en": "‘We forgot what it's like to be populist’: Republicans see Trump’s 2024 crumbling",
+        "summary": [
+            "اردوگاه جمهوری‌خواهان نگران از دست رفتن جریان پوپولیستی حامی ترامپ است.",
+            "تلاش‌های فشرده کاخ سفید برای ترمیم پایگاه رای‌دهندگان با برگزاری تجمعات مختلف در ایالت‌های حامی حزب در جریان است."
+        ],
+        "impact": "تضعیف ائتلاف حامی ترامپ می‌تواند موازنه قدرت را در ساختار سیاسی آمریکا تغییر دهد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/03/poll-trump-gop-coalition-fractures-elections-01145084",
+        "clean_url": "https://www.politico.com/news/2026/11/03/poll-trump-gop-coalition-fractures-elections-01145084",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793674500.0
     },
     {
         "id": "b5d17db7a2",
@@ -5463,42 +5499,5 @@
         "clean_url": "https://singjupost.com/max-blumenthal-who-will-rule-israel-and-how-transcript",
         "image": "https://singjupost.com/wp-content/uploads/2026/10/Max-Blumenthal-Who-Will-Rule-Israel-and-How-Judging-Freedom.jpg",
         "timestamp": 1793320140.0
-    },
-    {
-        "id": "5138e55dbc",
-        "title_fa": "رهگیری پهپاد حوثی و انفجار نفتکش‌ها در تنگه هرمز",
-        "title_en": "Iran war live: Saudi coalition downs Houthi drone in Mecca region",
-        "summary": [
-            "پدافند ائتلاف سعودی یک پهپاد متعلق به نیابتی‌های ج م هوری اس لام ی را در منطقه مکه منهدم کرد.",
-            "نیروی دریایی س پ ا ه تایید کرد که چند نفتکش در تنگه هرمز به دلیل برخورد با مین‌های دریایی دچار آتش‌سوزی شده‌اند.",
-            "این تحولات نظامی نشان‌دهنده افزایش چشمگیر تنش‌ها و ریسک‌های امنیتی در آب‌های حیاتی منطقه است."
-        ],
-        "impact": "افزایش فوری ریسک امنیت انرژی و جهش احتمالی قیمت نفت در بازار جهانی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261026__D4GV6L2__v1__HighRes__YemenSaudiIsranUsIsraelWar-1793336077.jpg?resize=1920%2C1440",
-        "timestamp": 1793318460.0
-    },
-    {
-        "id": "b8fbe812d1",
-        "title_fa": "پیشنهاد مذاکره مستقیم کاخ سفید با جناح تندرو در تهران",
-        "title_en": "The White House sees an Iranian hard-liner as the best hope for peace",
-        "summary": [
-            "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، آمادگی خود را برای دیدار حضوری با مقام ارشد تندرو در تهران اعلام کرده است.",
-            "این اقدام هم‌زمان با افزایش ریسک درگیری‌های تازه و برای دستیابی به یک توافق مکتوب صورت گرفته است."
-        ],
-        "impact": "تغییر احتمالی رویکرد واشنگتن از فشار نظامی خالص به سمت دیپلماسی پنهان با چهره‌های کلیدی حاکمیت.",
-        "tag": "دیپلماتیک",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/opinions/2026/10/29/white-house-sees-an-iranian-hard-liner-best-hope-peace/",
-        "clean_url": "https://www.washingtonpost.com/opinions/2026/10/29/white-house-sees-an-iranian-hard-liner-best-hope-peace",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PFBOQWC4AJF3U5DNP2LC6FV7B4.jpg&w=1440",
-        "timestamp": 1793318460.0
     }
 ]
