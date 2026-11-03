@@ -527,6 +527,24 @@
         "timestamp": 1793694960.0
     },
     {
+        "id": "5335371779",
+        "title_fa": "استقرار ناظران انتخابات وزارت دادگستری آمریکا در مناطق دموکرات",
+        "title_en": "DOJ election monitors overwhelmingly deployed to Democratic locales",
+        "summary": [
+            "وزارت دادگستری آمریکا ناظران خود را به طور گسترده در مناطق تحت کنترل دموکرات‌ها مستقر کرده است.",
+            "این اقدام بحث‌های تازه‌ای درباره احتمال جانبداری سیاسی در نظارت بر فرآیند رای‌گیری ایجاد کرده است."
+        ],
+        "impact": "افزایش تنش‌های سیاسی میان حزب دموکرات و جمهوری‌خواه در آستانه انتخابات.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/doj-election-monitors-overwhelmingly-deployed-to-democratic-locales/ar-AA2gGh4Z",
+        "clean_url": "https://www.msn.com/en-us/news/other/doj-election-monitors-overwhelmingly-deployed-to-democratic-locales/ar-AA2gGh4Z",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793694788.0
+    },
+    {
         "id": "d159e6bd4d",
         "title_fa": "چرخش آرای انتخاباتی در میشیگان در آستانه رای‌گیری",
         "title_en": "Michigan voters make surprising cross-party choices as Rogers, El-Sayed race reaches final hours",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://www.newarab.com/news/irans-supreme-leader-orders-unrestricted-response-threats",
         "image": "http://www.bing.com/th?id=ONUT.qyE6LeD6pbCmBJUKmJYoBw&pid=News",
         "timestamp": 1793418600.0
-    },
-    {
-        "id": "8e0af17c67",
-        "title_fa": "سایه جنگ روی دبی؛ هراس از بحران در خلیج فارس",
-        "title_en": "Iran war turns Dubai into a ghost city",
-        "summary": [
-            "افزایش تنش‌های نظامی در منطقه، ثبات اقتصادی و چهره تجاری امارات را هدف گرفته است.",
-            "سرمایه‌گذاران و مسافران با ترس از درگیری‌های گسترده، سفرهای خود را لغو می‌کنند."
-        ],
-        "impact": "فلج شدن بخش گردشگری و فرار سرمایه از قطب‌های تجاری منطقه در سایه تهدیدهای نظامی.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793416567.0
     }
 ]
