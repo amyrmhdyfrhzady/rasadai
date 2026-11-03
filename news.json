@@ -235,6 +235,24 @@
         "timestamp": 1793719020.0
     },
     {
+        "id": "fea2736d7b",
+        "title_fa": "خیز دموکرات‌ها برای تصاحب اکثریت مجلس نمایندگان آمریکا",
+        "title_en": "Hakeem Jeffries says Democrats are on ‘brink’ of winning House majority",
+        "summary": [
+            "رهبر دموکرات‌های مجلس نمایندگان از احتمال بالای پیروزی حزب مطبوعش در کسب اکثریت آرا خبر داد.",
+            "این تغییر موازنه قدرت می‌تواند معادلات سیاسی واشنگتن را به کلی دگرگون کند."
+        ],
+        "impact": "تغییر کنترل کنگره می‌تواند برنامه‌های دولت را با چالش جدی مواجه کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/03/politics/video/hakeem-jeffries-brink-house-majority-digvid",
+        "clean_url": "https://www.cnn.com/2026/11/03/politics/video/hakeem-jeffries-brink-house-majority-digvid",
+        "image": "http://www.bing.com/th?id=ONUT.oo8S4LRgsU0XaOB4yRMTFQ&pid=News",
+        "timestamp": 1793718900.0
+    },
+    {
         "id": "29bbac55a7",
         "title_fa": "موافقت آمریکا با پیش‌نویس توافق قطر با ایران",
         "title_en": "US approves Qatar-presented draft deal with Iran: Sources",
@@ -5462,24 +5480,5 @@
         "clean_url": "https://qna.org.qa/en/news/news-details",
         "image": "https://cdn.qna.org.qa/media/qfldcosq/qna-22qatar-team-16-6-2030.jpg?width=1200&height=900&v=1dcfe858da357b0",
         "timestamp": 1793456280.0
-    },
-    {
-        "id": "242859b617",
-        "title_fa": "طرح اسرائیل برای تشدید ضربات به ج‌ا‌ا پس از انتخابات آمریکا",
-        "title_en": "Israel weighs Iran escalation, Gaza offensive after US vote",
-        "summary": [
-            "تل‌آویو با مشخص شدن نتیجه انتخابات آمریکا، سناریوهای تهاجمی علیه ج‌ا‌ا و پیشروی در غزه را به مرحله تصمیم‌گیری رسانده است.",
-            "تغییر فضای سیاسی در واشنگتن دست اسرائیل را برای حملات مستقیم‌تر به شریان‌های حیاتی و منطقه‌ای تهران بازتر می‌کند.",
-            "فرماندهان نظامی اسرائیل در حال ارزیابی زمان‌بندی دقیق برای وارد کردن ضربه بعدی پیش از جابه‌جایی قدرت در کاخ سفید هستند."
-        ],
-        "impact": "افزایش چشمگیر احتمال درگیری مستقیم و کوبنده میان اسرائیل و جمهوری اسلامی در هفته‌های پیش‌رو.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTFRPZmpLanpsSGFlRk1oVV9SSUxHalV0aFdKTmNqZ05HUTFudDFNSmxZX0tXZk1SalVsejB0SWJ6THdPMkVZdVZHN2ZnUnZSdElXSHFxM29yaGRLeHlkbXo4TWVMY2JyVTRkQS13?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTFRPZmpLanpsSGFlRk1oVV9SSUxHalV0aFdKTmNqZ05HUTFudDFNSmxZX0tXZk1SalVsejB0SWJ6THdPMkVZdVZHN2ZnUnZSdElXSHFxM29yaGRLeHlkbXo4TWVMY2JyVTRkQS13",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793450987.0
     }
 ]
