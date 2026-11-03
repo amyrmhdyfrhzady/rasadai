@@ -787,6 +787,25 @@
         "timestamp": 1793635380.0
     },
     {
+        "id": "a197730170",
+        "title_fa": "نبرد نهایی ترامپ و دمکرات‌ها در آستانه انتخابات آمریکا",
+        "title_en": "Reflecting Pool vs the state of the economy: Trump and Dems clash in closing messages",
+        "summary": [
+            "ترامپ رقیبان دمکرات خود را تندروهای خطرناک توصیف کرد و بر پروژه‌های عمرانی تمرکز کرد.",
+            "دمکرات‌ها تلاش کردند تمرکز افکار عمومی را روی وضعیت اقتصاد حفظ کنند.",
+            "رکوردهای جدیدی در آرای زودهنگام ثبت شد و تنش میان دو حزب به اوج رسید."
+        ],
+        "impact": "نتیجه این رقابت می‌تواند موازنه قدرت در کنگره و مسیر سیاست‌های دولت را به کلی تغییر دهد.",
+        "tag": "انتخابات",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Los Angeles Daily News",
+        "url": "https://www.dailynews.com/2026/11/02/election-2026-midterms-final-message/",
+        "clean_url": "https://www.dailynews.com/2026/11/02/election-2026-midterms-final-message",
+        "image": "https://www.dailynews.com/wp-content/uploads/2026/11/Trump_41554.jpg?w=1999&h=1333",
+        "timestamp": 1793634600.0
+    },
+    {
         "id": "e322920066",
         "title_fa": "ترامپ: ایران خواهان توافق است و به توافق می‌رسیم",
         "title_en": "Video: Trump says Iran wants deal, agreement 'could happen'",
@@ -5479,23 +5498,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/congress-should-block-trump-s-dangerous-saudi-nuclear-deal/ar-AA2gpEpw",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2glIYW.img?w=1024&h=682&m=4&q=100",
         "timestamp": 1793307600.0
-    },
-    {
-        "id": "3f3397257c",
-        "title_fa": "طرح گزینه‌های نظامی جدید علیه ایران روی میز ترامپ",
-        "title_en": "CENTCOM chief briefs Trump on options for renewed attacks on Iran: Report",
-        "summary": [
-            "فرمانده سنتکام گزینه‌های مختلف برای حمله مجدد به اهداف مرتبط با جـمـهـورۍ اسـلامـۍ را شخصاً به دونالد ترامپ ارائه کرد.",
-            "فشارها در واشنگتن برای تغییر رویکرد در قبال تهران وارد فاز عملیاتی جدیدی شده است."
-        ],
-        "impact": "افزایش شدید ریسک درگیری نظامی و التهاب در بازارهای مالی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzM5MVRoQVFkR25NUi1HSEZtMGNmXzFMbFp4c3Zha0gya19LNFRWdXJfSkdxa0M4bjZXajU1M3dlRm81X2Ytd0p4RVFtT1lhdUVHemk4MTNuV1NkR3llOVJSZEx6X2lmLVd2dzNIWDVLQ2lfRjNIcHN3ZTFiNXE3dVFGemVzMmctTDEtejlWZmRLWkhLVHptaEgzdlZlWWlsVFRMYzBwVDI0U3pNUW9LZDBZTnJjLUMwTzhrTGhIbFBRQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzM5MVRoQVFkR25NUi1HSEZtMGNmXzFMbFp4c3Zha0gya19LNFRWdXJfSkdxa0M4bjZXajU1M3dlRm81X2Ytd0p4RVFtT1lhdUVHemk4MTNuV1NkR3llOVJSZEx6X2lmLVd2dzNIWDVLQ2lfRjNIcHN3ZTFiNXE3dVFGemVzMmctTDEtejlWZmRLWkhLVHptaEgzdlZlWWlsVFRMYzBwVDI0U3pNUW9LZDBZTnJjLUMwTzhrTGhIbFBRQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793304918.0
     }
 ]
