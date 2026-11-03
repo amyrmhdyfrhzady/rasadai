@@ -345,6 +345,24 @@
         "timestamp": 1793664181.0
     },
     {
+        "id": "1894d6e365",
+        "title_fa": "تصمیم اتمی تتهران و سایه تهدیدهای ترامپ",
+        "title_en": "Iran's nuclear choice",
+        "summary": [
+            "دستیابی به سلاح هسته‌ای یک تصمیم سیاسی است که بر اساس هزینه‌های امنیت و خویشتن‌داری محاسبه می‌شود.",
+            "دونالد ترامپ با اشاره به گزینه عملیات نظامی، فشار حداکثری علیه برنامه اتمی را زنده نگه داشته است."
+        ],
+        "impact": "افزایش تنش‌های نظامی و تنگ‌تر شدن حلقه محاسبات امنیتی برای حاکمیت.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Pakistan Observer",
+        "url": "https://pakobserver.net/irans-nuclear-choice/",
+        "clean_url": "https://pakobserver.net/irans-nuclear-choice",
+        "image": "https://pakobserver.net/wp-content/uploads/2024/04/Prof-Jaspal.webp",
+        "timestamp": 1793664000.0
+    },
+    {
         "id": "58df98ef65",
         "title_fa": "تعویق جام ملت‌های آسیا در عربستان به دلیل بحران امنیتی خاورمیانه",
         "title_en": "Asian Cup latest event in Saudi Arabia to be postponed over regional safety",
@@ -5481,24 +5499,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793317705.0
-    },
-    {
-        "id": "b4f3288f35",
-        "title_fa": "کشف شبکه سری ۲ میلیارد دلاری تامین تجهیزات نظامی ج.ا",
-        "title_en": "Inside Iran's Secret $2 Billion Military Supply Web Operating Under US' Nose",
-        "summary": [
-            "افشای شبکه قاچاق و تامین قطعات نظامی ج.ا به ارزش ۲ میلیارد دلار، نشان از آسیب‌پذیری ساختار نظارتی آمریکا در ردیابی دور زدن تحریم‌ها دارد.",
-            "این شبکه با استفاده از شرکت‌های صوری متقاطع در چند کشور، قطعات حساس پهپادی و موشکی را خریده و منتقل می‌کرده است.",
-            "انتشار این اسناد فشار بر خزانه داری آمریکا برای شناسایی و مسدودسازی سریع‌تر شریان‌های مالی س‌پاه را دوچندان می‌کند."
-        ],
-        "impact": "انسداد حساب‌ها و انسداد شرکت‌های پوششی شبکه خریدهای نظامی ایران در خارج.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/world-news/inside-irans-secret-2-billion-military-supply-web-operating-under-us-nose-12257590",
-        "clean_url": "https://www.ndtv.com/world-news/inside-irans-secret-2-billion-military-supply-web-operating-under-us-nose-12257590",
-        "image": "http://www.bing.com/th?id=ONUT.fn9sQPTvOEl0rNbqxttzeA&pid=News",
-        "timestamp": 1793317560.0
     }
 ]
