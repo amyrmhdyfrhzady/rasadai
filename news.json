@@ -382,6 +382,25 @@
         "timestamp": 1793664000.0
     },
     {
+        "id": "b2e62c454e",
+        "title_fa": "فشار نتانیاهو به ترامپ برای اقدام نظامی علیه ایران",
+        "title_en": "Trump's election calendar, Netanyahu's war calculus",
+        "summary": [
+            "نخست‌وزیر اسرائیل به دنبال کشاندن آمریکا به جنگ مستقیم پیش از تثبیت شرایط سیاسی است.",
+            "اختلاف‌نظر جدی میان تل‌آویو و واشنگتن بر سر دادن فرصت به دیپلماسی وجود دارد.",
+            "پرونده‌های فساد داخلی و چالش‌های ائتلافی، انگیزه اصلی نتانیاهو برای تنش‌آفرینی است."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی با افزایش تقلاهای سیاسی در تل‌آویو",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "en.yenisafak",
+        "url": "https://en.yenisafak.com/columns/kadir-ustun/trumps-election-calendar-netanyahus-war-calculus-3725149",
+        "clean_url": "https://en.yenisafak.com/columns/kadir-ustun/trumps-election-calendar-netanyahus-war-calculus-3725149",
+        "image": "https://img.piri.net/piri/upload/3/2026/11/3/6e850be7-trumps-election-calendar-netanyahus-war-calculus.webp",
+        "timestamp": 1793663280.0
+    },
+    {
         "id": "f02bb0f446",
         "title_fa": "ترامپ: ایران دنبال توافق سریع است",
         "title_en": "Live Updates: Trump says \"Iran wants a settlement\" after Tehran calls on U.S. to make next move",
@@ -5481,23 +5500,5 @@
         "clean_url": "https://www.washingtonpost.com/opinions/2026/10/29/white-house-sees-an-iranian-hard-liner-best-hope-peace",
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PFBOQWC4AJF3U5DNP2LC6FV7B4.jpg&w=1440",
         "timestamp": 1793318460.0
-    },
-    {
-        "id": "5ddd9555dd",
-        "title_fa": "استقرار جنگنده‌های آمریکایی در سرزمین‌های اشغالی",
-        "title_en": "US military planes arrive in Israel from Texas amid Iran war preparations",
-        "summary": [
-            "پرواز هواپیماهای نظامی ایالات متحده از تگزاس به سمت اسرائیل در آستانه درگیری‌های احتمالی",
-            "تقویت سریع مواضع دفاعی و آماده‌سازی لجستیکی برای مقابله با تهدیدات جمهوری اسلامی"
-        ],
-        "impact": "آرایش نظامی جدید در منطقه نشان‌دهنده آمادگی کامل آمریکا برای حمایت از اسرائیل است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793317705.0
     }
 ]
