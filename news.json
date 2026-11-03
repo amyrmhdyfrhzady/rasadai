@@ -916,6 +916,24 @@
         "timestamp": 1793622735.0
     },
     {
+        "id": "0e6f3ffef5",
+        "title_fa": "فشار نتانیاهو به ترامپ برای حمله نظامی به ایران",
+        "title_en": "Netanyahu presses Trump to resume strikes on Iran as diplomacy continues",
+        "summary": [
+            "نخست‌وزیر اسرائیل به شدت به دنبال مجاب کردن کاخ سفید برای از سرگیری حملات نظامی است.",
+            "تلاش میانجی‌گران منطقه‌ای برای حفظ کانال دیپلماسی بین واشنگتن و تهران در جریان است."
+        ],
+        "impact": "افزایش احتمال درگیری نظامی و به بن‌بست رسیدن تلاش‌های دیپلماتیک",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "tradersunion",
+        "url": "https://tradersunion.com/news/geopolitics-trade/show/4060025-netanyahu-urges-trump-iran-strikes/",
+        "clean_url": "https://tradersunion.com/news/geopolitics-trade/show/4060025-netanyahu-urges-trump-iran-strikes",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793622660.0
+    },
+    {
         "id": "b18086721d",
         "title_fa": "دلخوشی نتانیاهو به بن‌بست دیپلماسی با ج.مهوری ا.سلامی",
         "title_en": "Netanyahu’s best hope may be Iran saying no to diplomacy",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://www.iranintl.com/en/202610298792",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/bdab35223557ac762ae8956bf9fb78c72d2aca4c-1200x856.jpg?rect=33,163,1024,682&w=320&h=213&q=90&fit=max&auto=format",
         "timestamp": 1793293500.0
-    },
-    {
-        "id": "3163d27d05",
-        "title_fa": "درخواست پهلوی برای فناوری اتصال ماهواره‌ای به موبایل",
-        "title_en": "دفتر شاهزاده پهلوی خواستار سرمایه‌گذاری فوری در فناوری اتصال ماهواره به تلفن همراه شد",
-        "summary": [
-            "دفتر شاهزاده رضا پهلوی خواستار سرمایه‌گذاری فوری برای تامین اینترنت ماهواره‌ای مستقیم روی گوشی‌های همراه شد.",
-            "هدف از این طرح، مقابله موثر با تلاش‌های حکومت برای قطع سراسری اینترنت و ارتباطات مردمی است."
-        ],
-        "impact": "تسهیل ارتباطات آزاد و دور زدن سانسور حکومتی در جریان اعتراضات احتمالی آینده",
-        "tag": "فناوری",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610306216",
-        "clean_url": "https://www.iranintl.com/202610306216",
-        "image": "http://www.bing.com/th?id=ONUT.4y8yVWpS9Q6SmDOag3iWzA&pid=News",
-        "timestamp": 1793293260.0
     }
 ]
