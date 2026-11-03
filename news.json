@@ -1,5 +1,23 @@
 [
     {
+        "id": "159dd286c7",
+        "title_fa": "جهش شاخص بورس هند و نوسان قیمت طلا",
+        "title_en": "Stock Market Live Updates: Sensex surges over 600 pts, Nifty above 23,600; FMCG, financial stocks rally",
+        "summary": [
+            "بازار سهام هند با رشد بیش از ۶۰۰ واحدی شاخص سنَسکس روند صعودی به خود گرفت.",
+            "قیمت طلا در شهرهای مختلف هند از جمله دهلی و بمبئی در محدوده های مشخصی معامله شد."
+        ],
+        "impact": "رشد بازارهای مالی هند نشان‌دهنده تقویت تمایل سرمایه‌گذاران به دارایی‌های ریسکی است.",
+        "tag": "اقتصادی",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-marico-share-price-03-november-2026/liveblog/135478647.cms",
+        "clean_url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-marico-share-price-03-november-2026/liveblog/135478647.cms",
+        "image": "https://economictimes.indiatimes.com/thumb/msid-135478647,width-1200,height-900,resizemode-4,imglength-775976/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-marico-share-price-03-november-2026.jpg",
+        "timestamp": 1793680565.896718
+    },
+    {
         "id": "2ee7829e66",
         "title_fa": "حمله مستقیم نظامی آمریکا به جزیره‌ای در ایران در آستانه انتخابات",
         "title_en": "US launches strikes on Iranian island ahead of election",
@@ -5478,23 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGVOb2RLS1Y2b2steENheVYtUlpiOWd0OXpjYzhmaTByaEN0M2RsOVlMSmpVYmRrUV8zUnZXWkNVTmFUdVFJdENMMV9ZMWNBcDdjVUJibmdWVGRUM1V1WnBrczA3WUxXX002Z21VTlMtM2p5aWg1Zl9lYkE2czM4cHNoUzd2UTNGLWtF",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793288014.0
-    },
-    {
-        "id": "9e541c051a",
-        "title_fa": "بحران قدرت خرید در جـ.ـهـ.ـوری ا.سـ.ـل.ا.م.ی به بحران سیاسی بدل شد",
-        "title_en": "Iran’s Purchasing-Power Crisis Is Becoming A Political Crisis – OpEd",
-        "summary": [
-            "فشار تورم و سقوط ارزش پول ملی دیگر فقط یک بحث آماری نیست و معیشت روزمره مردم را کاملاً فلج کرده است.",
-            "نارضایتی‌های اقتصادی به سرعت در حال تبدیل شدن به چالش جدی امنیتی برای ساختار حاکم است."
-        ],
-        "impact": "فروپاشی استطاعت مالی خانوارها، بستر اعتراضات گسترده اجتماعی را فراهم می‌کند.",
-        "tag": "اقتصادی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/29102026-irans-purchasing-power-crisis-is-becoming-a-political-crisis-oped/",
-        "clean_url": "https://www.eurasiareview.com/29102026-irans-purchasing-power-crisis-is-becoming-a-political-crisis-oped",
-        "image": "http://www.bing.com/th?id=ONUT.KqPL8tTZrAAEZ-Yf1BkXuQ&pid=News",
-        "timestamp": 1793285880.0
     }
 ]
