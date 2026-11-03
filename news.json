@@ -1,5 +1,24 @@
 [
     {
+        "id": "89d232f2b8",
+        "title_fa": "تلاش قطر برای میانجی‌گری میان تهران و واشنگتن",
+        "title_en": "US, Iran Restore Diplomacy amid Limited Strikes",
+        "summary": [
+            "قالیباف با ادبیات طلبکارانه توپ را به زمین آمریکا انداخته تا از جنگ تمام‌عیار فرار کند.",
+            "دیپلماسی پشت پرده قطر برای جلوگیری از فروپاشی کامل روابط در جریان است.",
+            "تهران در حال خرید زمان است تا با ارائه پاسخ‌های به اصطلاح منطقی، از فشار نظامی بکاهد."
+        ],
+        "impact": "توقف موقت تنش‌های نظامی و بازگشت به میز مذاکرات غیرمستقیم.",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/us_iran_restore_diplomacy_amid_limited_strikes-03-nov-2026-184996-article/",
+        "clean_url": "https://www.rigzone.com/news/wire/us_iran_restore_diplomacy_amid_limited_strikes-03-nov-2026-184996-article",
+        "image": "https://images.rigzone.com/images/news/articles/US-Iran-Restore-Diplomacy-amid-Limited-Strikes-184996-1200x628.png",
+        "timestamp": 1793721420.0
+    },
+    {
         "id": "29bbac55a7",
         "title_fa": "موافقت آمریکا با پیش‌نویس توافق قطر با ایران",
         "title_en": "US approves Qatar-presented draft deal with Iran: Sources",
@@ -620,6 +639,24 @@
         "timestamp": 1793677148.0
     },
     {
+        "id": "bc997e81f5",
+        "title_fa": "افزایش احتمال حمله اسرائیل به زیرساخت‌های ج.ا",
+        "title_en": "Window for Iran strike nears as fears of a fatal miscalculation grow",
+        "summary": [
+            "فشارها در تل‌آویو برای اقدام نظامی علیه برنامه هسته‌ای به نقطه جوش رسیده است.",
+            "ترس از یک خطای محاسباتی مرگبار، فضای امنیتی منطقه را به شدت ملتهب کرده است."
+        ],
+        "impact": "افزایش ریسک درگیری مستقیم نظامی و ناپایداری در بازارهای منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Israel Hayom",
+        "url": "https://www.israelhayom.com/2026/11/03/window-for-iran-strike-nears-as-fears-of-a-fatal-miscalculation-grow/",
+        "clean_url": "https://www.israelhayom.com/2026/11/03/window-for-iran-strike-nears-as-fears-of-a-fatal-miscalculation-grow",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793676720.0
+    },
+    {
         "id": "53b729eee1",
         "title_fa": "رقابت بر سر کنترل کنگره آمریکا در سال ۲۰۲۶",
         "title_en": "Control of Congress up for grabs on Election Day 2026: Live updates",
@@ -763,6 +800,24 @@
         "clean_url": "https://www.courant.com/2026/11/03/as-chris-murphy-recovers-from-a-stroke-ct-doctors-explain-the-condition",
         "image": "https://www.courant.com/wp-content/uploads/2026/10/THC-L-CT-Early-voting-_07.jpg?w=3810&h=2978",
         "timestamp": 1793673960.0
+    },
+    {
+        "id": "1afd6e64a0",
+        "title_fa": "ترامپ: احتمال توافق با ج.ا پیش از انتخابات",
+        "title_en": "Trump signals Iran talks as oil slips and attack hopes fade",
+        "summary": [
+            "ترامپ با سیگنال‌دهی برای مذاکره، تلاش دارد التهاب بازار نفت را پیش از انتخابات کنترل کند.",
+            "این رویکرد نشان‌دهنده تغییر تاکتیک از فشار حداکثری به سمت دیپلماسی معامله‌محور است."
+        ],
+        "impact": "کاهش موقت قیمت نفت و فروکش کردن انتظارات برای حمله نظامی فوری.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Idaho Public Press",
+        "url": "https://www.msn.com/en-us/news/other/trump-signals-iran-talks-as-oil-slips-and-attack-hopes-fade/ar-AA2gDpM5",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-signals-iran-talks-as-oil-slips-and-attack-hopes-fade/ar-AA2gDpM5",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793672591.0
     },
     {
         "id": "0719d48572",
@@ -5442,60 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEFBSS1aa1hTaUNfZ2R5RkoxSVFEZlNhMkZHTUpEZ3ZfYXpVTm16cjdLbEtoM2NpbGo5Tm9rNHcxZFJSX0cxcEE4UFhpTkJtamxqVzNmUzZUbFdPdkRXX2pYUDI3OFhTS0tRM0k1QzkyaHdxOERKOGlkWUpGbnQzQ2h3cmpaVFlxTFlNaTJuVVJLVjdSVFVuVmp3",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793371020.0
-    },
-    {
-        "id": "d70e4a005f",
-        "title_fa": "تحول محسن رضایی از شعارهای اقتصادی به مرد جنگ",
-        "title_en": "Iran's Security Chief Called for Economic Reforms to Save the Regime. What Happened?",
-        "summary": [
-            "محسن رضایی با قرار گرفتن در راس شورای عالی امنیت ملی، به یکی از تصمیم‌گیرندگان اصلی کشور در حوزه جنگ تبدیل شده است.",
-            "او که روزی منتقد وضع معیشتی مردم و مدافع مذاکره بود، اکنون چهره‌ای امنیتی و جنگ‌طلب برای بدنه حاکمیت است."
-        ],
-        "impact": "تغییر مهره‌های کلیدی امنیتی نشان‌دهنده بسته شدن مسیر اصلاحات اقتصادی و تمرکز حاکمیت بر سیاست‌های جنگی است.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "IranWire",
-        "url": "https://iranwire.com/en/features/159591-irans-security-chief-called-for-economic-reforms-to-save-the-regime-what-happened/",
-        "clean_url": "https://iranwire.com/en/features/159591-irans-security-chief-called-for-economic-reforms-to-save-the-regime-what-happened",
-        "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/۲۱_hJJt__v1024x512__box_0,65,1269,732.jpeg",
-        "timestamp": 1793368500.0
-    },
-    {
-        "id": "247d0c4123",
-        "title_fa": "نامه محرمانه واشنگتن به شورای امنیت ملی جمهوری اسـلامی",
-        "title_en": "Talks or resistance? Iran's factions differ over path out of crisis",
-        "summary": [
-            "معاون رئیس جمهور آمریکا نامه‌ای مستقیم به محسن رضایی برای تعیین تکلیف پرونده هسته‌ای فرستاده است.",
-            "واشنگتن خواستار توقف کامل برنامه اتمی در ازای اجازه بازسازی اقتصادی تهران شده است.",
-            "استانبول یا دوحه به عنوان میزبان احتمالی گفت‌وگوهای رو در رو پیشنهاد شده‌اند."
-        ],
-        "impact": "آزمون جدی برای حاکمیت جهت انتخاب بین مسیر مذاکره مستقیم یا تشدید بحران.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610300238",
-        "clean_url": "https://www.iranintl.com/en/202610300238",
-        "image": "http://www.bing.com/th?id=ONUT.EmbYGD-ZkniQR28eFo4M4A&pid=News",
-        "timestamp": 1793366520.0
-    },
-    {
-        "id": "40fa533a86",
-        "title_fa": "ادعای ترامپ درباره پایان زودهنگام جنگ با ج.ا",
-        "title_en": "Trump Says Iran War Will End Soon, Offers No Details on How",
-        "summary": [
-            "دونالد ترامپ مدعی شده که مناقشه با ج.ا به زودی تمام خواهد شد.",
-            "هیچ جزئیاتی درباره نحوه اجرایی شدن یا توافق پشت پرده این ادعا منتشر نشده است."
-        ],
-        "impact": "این اظهارنظر می‌تواند بازارهای مالی را به شدت تحت تاثیر نوسانات روانی قرار دهد.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Kurdistan24",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlZxUWl4aGZLY2FndlJJN1hWMUZFRjhFLXNhaGlERmg0V2x5NWtadEhuSkcxMUhCWWQ5ejN4ek9GNkRUdlpZWXpDMUtaeGppMWJJVEVKUHlUZS1pa2c5Tm9ST2t5RXI2eWV3Nlp5RjZHZnNmdVFJVmFfZ3FOMGcwTlpmRkNxbmd0ZENwVGZuOGdGU2RBOFpTd0FJV2phdlFJLWgwdg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlZxUWl4aGZLY2FndlJJN1hWMUZFRjhFLXNhaGlERmg0V2x5NWtadEhuSkcxMUhCWWQ5ejN4ek9GNkRUdlpZWXpDMUtaeGppMWJJVEVKUHlUZS1pa2c5Tm9ST2t5RXI2eWV3Nlp5RjZHZnNmdVFJVmFfZ3FOMGcwTlpmRkNxbmd0ZENwVGZuOGdGU2RBOFpTd0FJV2phdlFJLWgwdg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793366100.0
     }
 ]
