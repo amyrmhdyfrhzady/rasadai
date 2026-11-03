@@ -329,6 +329,25 @@
         "timestamp": 1793656121.0
     },
     {
+        "id": "667ab38b66",
+        "title_fa": "انتخابات میان‌دوره‌ای آمریکا و آزمون سرنوشت‌ساز برای ترامپ",
+        "title_en": "Midterm elections coming to a close as voters pass judgment on Trump’s second term",
+        "summary": [
+            "رأی‌دهندگان آمریکایی در شرایطی به پای صندوق‌های رأی می‌روند که نارضایتی از هزینه‌های بالا و جنگ با ای-را-ن جو سیاسی را تحت تأثیر قرار داده است.",
+            "دموکرات‌ها روی خستگی رای‌دهندگان از وضعیت اقتصادی حساب باز کرده‌اند تا کنترل مجلس نمایندگان را پس بگیرند.",
+            "جمهوری‌خواهان با تزریق منابع مالی سنگین تلاش می‌کنند مانع از شکست در این رقابت سرنوشت‌ساز شوند."
+        ],
+        "impact": "نتیجه این انتخابات می‌تواند توازن قدرت در واشنگتن را به شدت تغییر دهد و دو سال پایانی ریاست‌جمهوری ترامپ را دگرگون کند.",
+        "tag": "انتخابات آمریکا",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Virginian-Pilot",
+        "url": "https://www.pilotonline.com/2026/11/03/2026-election-midterm-results-updates/",
+        "clean_url": "https://www.pilotonline.com/2026/11/03/2026-election-midterm-results-updates",
+        "image": "https://www.pilotonline.com/wp-content/uploads/2026/11/Election_2_26_Early_Voting_Alaska_41752-1.jpg?w=2000&h=1333",
+        "timestamp": 1793655240.0
+    },
+    {
         "id": "87d2fa7e6c",
         "title_fa": "پایان دوران مک‌کانل و تغییرات بزرگ در انتخابات کنتاکی",
         "title_en": "Live election results for Kentucky's U.S. Senate and House seats in the 2026 midterms",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xMGZKTlljU1pvMno2M1RkQnZNZmtjcmlpeTN5Ung1LUptaWEzMzZBSTNpQlpobGFoMjBheWU0UWp5ZHRBSlhqUUo2eUpJbmRxODl6R3VWall2NlpMeEhTREZfM3lCbEdPTkRqMDA0b2VuODc3Rkkw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793302428.0
-    },
-    {
-        "id": "fe563b0246",
-        "title_fa": "تهران: فرقی بین نتانیاهو و آیزنکوت در جنگ نیست",
-        "title_en": "Netanyahu or Eisenkot? Tehran sees little difference on war",
-        "summary": [
-            "دستگاه محاسباتی جـمـهـورۍ اسـلامـۍ تفاوتی میان جناح‌های مختلف سیاسی اسرائیل در نحوه برخورد نظامی قائل نیست.",
-            "تهران خود را برای سناریوهای سخت‌تر در منطقه آماده می‌کند."
-        ],
-        "impact": "تثبیت رویکرد تهاجمی و عدم خوش‌بینی حاکمیت به تغییرات سیاسی در تل‌آویو.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYdXBBZVZROUhaR3dtUnc0NmZvSHpKZUdfS0EzSzQ5OGxJTWJtNG9EZ3l2Nm9LaDJyVTVTbHE1S0FlZ1FBYXJlb3RNRDFzYzdhUlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYdXBBZVZROUhaR3dtUnc0NmZvSHpKZUdfS0EzSzQ5OGxJTWJtNG9EZ3l2Nm9LaDJyVTVTbHE1S0FlZ1FBYXJlb3RNRDFzYzdhUlE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793301458.0
     }
 ]
