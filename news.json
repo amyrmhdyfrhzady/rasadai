@@ -345,6 +345,24 @@
         "timestamp": 1793697000.0
     },
     {
+        "id": "59c3d6793e",
+        "title_fa": "سقوط مرگبار هواپیما در فلوریدا زیر ذره‌بین مقامات",
+        "title_en": "Officials probe cause, wreckage of horrific Florida jet crash. Updates",
+        "summary": [
+            "مقام‌های امنیتی و هوایی در حال بررسی لاشه و علت سقوط وحشتناک یک فروند جنگنده یا جت در ایالت فلوریدا هستند.",
+            "جزئیات بیشتری از تعداد سرنشینان و تلفات احتمالی این حادثه هنوز منتشر نشده است."
+        ],
+        "impact": "آغاز تحقیقات رسمی برای کشف علت این سانحه هوایی مرگبار",
+        "tag": "حوادث",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/nation/2026/11/03/florida-plane-crash-investigation-victims-identified/92581398007/",
+        "clean_url": "https://www.usatoday.com/story/news/nation/2026/11/03/florida-plane-crash-investigation-victims-identified/92581398007",
+        "image": "http://www.bing.com/th?id=ONUT.4ITqjG1F2nOVckfdvuZ-RQ&pid=News",
+        "timestamp": 1793695860.0
+    },
+    {
         "id": "d3957fdb45",
         "title_fa": "فشار حداکثری ترامپ اقتصاد ایران را به زانو درآورد",
         "title_en": "A big win for Donald Trump: Iran’s economy is being destroyed thanks to inflation and getting weaker every day",
@@ -5477,24 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793407368.0
-    },
-    {
-        "id": "a74c965cd1",
-        "title_fa": "صعود ملایم قیمت نفت در پی ابهام استراتژی ترامپ علیه ایران",
-        "title_en": "Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran",
-        "summary": [
-            "بازار جهانی نفت با نگرانی از بازگشت سیاست فشار حداکثری و تشدید برخورد با ناوگان حمل نفت ایران، وارد مدار افزایشی شد.",
-            "معامله‌گران انرژی هرگونه تصمیم سخت‌گیرانه کاخ سفید برای مهار خریداران چینی را به منزله کاهش فوری عرضه نفت در بازار جهانی ارزیابی می‌کنند.",
-            "تداوم بلاتکلیفی واشنگتن بین گزینه تحریم نفتی خفه‌کننده یا اقدام نظامی، حاشیه سود معاملات سوخت را پرنوسان نگه داشته است."
-        ],
-        "impact": "افزایش هزینه لجستیک و بیمه برای دور زدن تحریم‌های نفتی و شوک تدریجی به درآمدهای ارزی تهران.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Rigzone",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0d2RFdQWG9Pbzc0c25QWkJBYUM0TklhRzZuWXNzcF9vU1prMFR6YkRJMFBjeV8tdmhFUnNmaUJVSk5FbEFGQ2ZrV0FqYnJxWnZoTUw3OUw0X2xGaXdHY3pDN2ZmUjdhMGY3MnJYVXhfWVNKS2dPelFZSjkxOFdUdmxGUF9mSGp5UDhoUjV1YmlIWHJQY2FtSnZ3Vnk0emJJVUFCaTVXTjJJMTBoNkVYeHd6RjhNV0wtTUxxemNCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0d2RFdQWG9Pbzc0c25QWkJBYUM0TklhRzZuWXNzcF9vU1prMFR6YkRJMFBjeV8tdmhFUnNmaUJVSk5FbEFGQ2ZrV0FqYnJxWnZoTUw3OUw0X2xGaXdHY3pDN2ZmUjdhMGY3MnJYVXhfWVNKS2dPelFZSjkxOFdUdmxGUF9mSGp5UDhoUjV1YmlIWHJQY2FtSnZ3Vnk0emJJVUFCaTVXTjJJMTBoNkVYeHd6RjhNV0wtTUxxemNCZw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793404766.0
     }
 ]
