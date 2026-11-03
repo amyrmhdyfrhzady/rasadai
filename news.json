@@ -37,6 +37,24 @@
         "timestamp": 1793668050.0
     },
     {
+        "id": "ce3999ff4a",
+        "title_fa": "ریزش قیمت نفت با تفویض اختیار مذاکره",
+        "title_en": "Iran: the Gulf braces for the worst, but the markets are hoping for a deal",
+        "summary": [
+            "بورس نفت و بازارهای جهانی بلافاصله پس از واگذاری اختیارات دیپلماتیک به مسعود پزشکیان با افت هشت درصدی قیمت‌ها واکنش نشان دادند.",
+            "کشورهای حاشیه خلیج فارس از دوحه تا ریاض همچنان نگران احتمال درگیری‌های نظامی پس از انتخابات آمریکا هستند."
+        ],
+        "impact": "کاهش موقت فشارهای قیمتی نفت همزمان با تلاش برای ایجاد فضایی جهت دیپلماسی پنهان.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "la Repubblica",
+        "url": "https://www.repubblica.it/en/world/2026/11/03/news/iran_the_gulf_braces_for_the_worst_but_the_markets_are_hoping_for_a_deal-425694714/",
+        "clean_url": "https://www.repubblica.it/en/world/2026/11/03/news/iran_the_gulf_braces_for_the_worst_but_the_markets_are_hoping_for_a_deal-425694714",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/02/210143615-0f175585-f8df-45e5-8a73-5e2effd75210.jpg",
+        "timestamp": 1793667600.0
+    },
+    {
         "id": "a77e084348",
         "title_fa": "حمله هوایی آمریکا به جزیره قشم",
         "title_en": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
@@ -5478,23 +5496,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/jd-vance-proposed-renewed-talks-with-iran-oil-prices-are-dropping/ar-AA2gkYNX",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ajbP7.img?w=2500&h=1650&m=4&q=99",
         "timestamp": 1793281553.0
-    },
-    {
-        "id": "84f46298cb",
-        "title_fa": "تلاش تـر‌امـپ برای توافقی محکم‌تر با جـمهوری اسـلامی",
-        "title_en": "Donald Trump seeks stronger deal than Obama's to delay Iran strikes",
-        "summary": [
-            "تـر‌امـپ دنبال توافقی بسیار محکم‌تر و سخت‌گیرانه‌تر از برجام است تا از درگیری نظامی جلوگیری کند.",
-            "فشار حداکثری و رویکرد معاملاتی واشنگتن همچنان پابرجا است."
-        ],
-        "impact": "سایه سنگین تهدید نظامی و فشارهای اقتصادی بر سر حکمرانان تهران.",
-        "tag": "سیاست خارجی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQUM4M0FFYlhhT0Fta2MyTWptLXQ0dHpHcHhQMFFmQXV3N1pHNFpnN0VpcHpwTW1PSF96bVpMLXZ1QUZjRkVUa1BGTzNxWUZoX19Ib205UGw1WE9JX0VwV1J4X3BPdWx5VGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQUM4M0FFYlhhT0Fta2MyTWptLXQ0dHpHcHhQMFFmQXV3N1pHNFpnN0VpcHpwTW1PSF96bVpMLXZ1QUZjRkVUa1BGTzNxWUZoX19Ib205UGw1WE9JX0VwV1J4X3BPdWx5VGc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793281480.0
     }
 ]
