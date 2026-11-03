@@ -199,6 +199,24 @@
         "timestamp": 1793720100.0
     },
     {
+        "id": "eee391b59f",
+        "title_fa": "آغاز شمارش آرا و احتمال موج آبی در انتخابات میدوره ای آمریکا",
+        "title_en": "The midterm vote count is about to begin: Live updates",
+        "summary": [
+            "شمارش آرای انتخابات میان‌دوره ای آمریکا کلید خورد و رسانه ها از احتمال بالای پیروزی دموکرات ها خبر می دهند.",
+            "تمام نگاه ها به میزان اختلاف آرا و تغییر توازن قدرت در کنگره دوخته شده است."
+        ],
+        "impact": "نتیجه این انتخابات نقشه راه سیاست داخلی و خارجی واشنگتن را در ماه های آینده تعیین می کند.",
+        "tag": "انتخابات آمریکا",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "New York Magazine on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-midterm-vote-count-is-about-to-begin-live-updates/ar-AA2gHeRE",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-midterm-vote-count-is-about-to-begin-live-updates/ar-AA2gHeRE",
+        "image": "http://www.bing.com/th?id=ONUT.Wp8sDgZu7_RTTYhP3caxcA&pid=News",
+        "timestamp": 1793719200.0
+    },
+    {
         "id": "fd85b72ae6",
         "title_fa": "سرنوشت سنای آمریکا در سایه جنگ با ايران",
         "title_en": "Live Senate election updates for 2026's high-stakes midterm races",
@@ -5463,24 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclB3emJBUlRyclJKcDVhbXRjUU1RU0M1NmdEN19FYUhoMS03QXlGYmJ0QmZ4TGRLV1cxeFNHZXZzaEhWZ1FmRzVmeE5EQWtvcnlUc0thalVvdEU1Z1lQUGVEOFFDN2RKNGNqemF1Wmk4c2FZUWxiVE9NaWFTUzUzeXFoT091c3FZTncyN2JR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793448153.0
-    },
-    {
-        "id": "48be027d99",
-        "title_fa": "میانجی‌گری قطر برای مهار بحران و اختلاف نظر واشنگتن و تل‌آویو",
-        "title_en": "A new strike on Iran? Trump and Netanyahu may not be on the same page",
-        "summary": [
-            "قطر طرح جدیدی را برای توافق مرحله‌ای میان ایران و آمریکا روی میز گذاشته که توقف فعالیت‌های اتمی و بازگشایی تنگه هرمز را در ازای لغو تدریجی تحریم‌ها شامل می‌شود.",
-            "اختلاف‌نظر میان ترامپ و نتانیاهو درباره اقدام نظامی علیه جمهوری اسلامی، دوحه را به تلاش برای ایجاد یک راهکار دیپلماتیک وا داشته است.",
-            "این طرح گام‌به‌گام ممکن است آخرین فرصت برای جلوگیری از درگیری نظامی گسترده در منطقه باشد."
-        ],
-        "impact": "کاهش موقت تنش‌های نظامی منوط به پذیرش طرح توافق مرحله‌ای از سوی تهران و واشنگتن است.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "ynetnews",
-        "url": "https://www.ynetnews.com/opinions-analysis/article/hkh003rm6me",
-        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/hkh003rm6me",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/HyBozBmpGl/HyBozBmpGl_0_0_850_479_0_large.jpg",
-        "timestamp": 1793447820.0
     }
 ]
