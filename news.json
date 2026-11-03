@@ -221,6 +221,24 @@
         "timestamp": 1793692446.0
     },
     {
+        "id": "923115b898",
+        "title_fa": "تهدید دوباره تاسیسات اتمی ای*را*ن توسط ترامپ",
+        "title_en": "Trump Eyes Pickaxe Mountain in Fresh Iran Threat",
+        "summary": [
+            "دونالد ترامپ از احتمال حمله به تاسیسات زیرزمینی مرتبط با برنامه اتمی ای*را*ن خبر داد.",
+            "آژانس اتمی بارها از عدم دسترسی به این سایت امنیتی در جنوب پایتخت ابراز نگرانی کرده است."
+        ],
+        "impact": "افزایش فوری تنش‌های نظامی و بازگشت گزینه اقدام سخت‌گیرانه به دستورکار واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-eyes-pickaxe-mountain-in-fresh-iran-threat-12653562",
+        "clean_url": "https://www.newsweek.com/trump-eyes-pickaxe-mountain-in-fresh-iran-threat-12653562",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/AP26306739783626-1.jpg?w=1200&crop=1",
+        "timestamp": 1793692380.0
+    },
+    {
         "id": "06b11b91c4",
         "title_fa": "تایید حمله نظامی ترامپ به ایران و واکنش پزشکیان",
         "title_en": "Trump confirms strikes on Iran as Pezeshkian urges against return to war",
@@ -5481,23 +5499,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793378820.0
-    },
-    {
-        "id": "777a7f4663",
-        "title_fa": "آمادگی کانادا برای فرسایشی کردن توافق تجاری با ترامپ",
-        "title_en": "Carney says he can wait out Trump for trade deal",
-        "summary": [
-            "نخست‌وزیر کانادا اعلام کرد اگر دولت ترامپ شرایط مناسبی برای تجارت فراهم نکند، روی کارآمدن دولت‌های بعدی در آمریکا را انتظار خواهد کشید.",
-            "چالش‌های تعرفه‌ای و اختلاف نظرهای تجاری بین اتاوا و واشنگتن وارد فاز جدیدی از صبوری راهبردی شده است."
-        ],
-        "impact": "افزایش تنش‌های تجاری و احتمال طولانی شدن مذاکرات اقتصادی میان دو همسایه شمالی.",
-        "tag": "تجارت",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/10/30/mark-carney-interview-trump-trade-deal-01144329",
-        "clean_url": "https://www.politico.com/news/2026/10/30/mark-carney-interview-trump-trade-deal-01144329",
-        "image": "http://www.bing.com/th?id=ONUT.snmAIfJFyxByrbfq5u-NRg&pid=News",
-        "timestamp": 1793378100.0
     }
 ]
