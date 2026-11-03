@@ -254,6 +254,24 @@
         "timestamp": 1793714400.0
     },
     {
+        "id": "d0d0c59193",
+        "title_fa": "هشدار پدرخوانده هوش مصنوعی درباره آینده بشر",
+        "title_en": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
+        "summary": [
+            "جفری هینتون گفت شاید بشر بدون هوش مصنوعی وضعیت بهتری داشت.",
+            "این هشدار جدی از سوی یکی از برجسته‌ترین چهره‌های فناوری، زنگ خطری برای کنترل تسلیحات و فناوری‌های خودکار است."
+        ],
+        "impact": "تشدید نگرانی‌های جهانی درباره خطرات کنترل‌ناپذیر پیشرفت هوش مصنوعی برای آینده انسان.",
+        "tag": "فناوری",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "clean_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "image": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae0638cdbc3daea6b3a154d41c73dad9",
+        "timestamp": 1793713860.0
+    },
+    {
         "id": "9ffe13ce27",
         "title_fa": "خطای فنی مرورگر در سایت دیترویت فری پرس",
         "title_en": "How Michiganders, political experts are reacting to Senate, governor election results",
@@ -416,6 +434,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/why-trump-only-has-a-few-weeks-to-restart-iran-war-and-what-he-could-target-with-new-strikes/ar-AA2gGnvA",
         "image": "http://www.bing.com/th?id=ONUT.rQ776L5MnhFWGrLEhdtNDw&pid=News",
         "timestamp": 1793709725.0
+    },
+    {
+        "id": "a968ff2dea",
+        "title_fa": "فشار سناتورهای آمریکایی بر مک‌دونالد سر قیمت‌گذاری هوشمند",
+        "title_en": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices",
+        "summary": [
+            "سناتور الیزابت وارن و چهار قانون‌گذار دیگر نامه رسمی به مدیرعامل مک‌دونالد فرستادند.",
+            "هدف از این نامه، زیر سوال بردن استفاده از ابزارهای قیمت‌گذاری الگوریتمی است که فشار مالی بیشتری به مصرف‌کنندگان می‌آورد."
+        ],
+        "impact": "افزایش نظارت نهادهای قانونی آمریکا بر شرکت‌های بزرگ و مهار استفاده از هوش مصنوعی در گران‌فروشی پنهان.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/us-lawmakers-in-letter-question-mcdonald-s-ceo-about-algorithmic-pricing-practices/ar-AA2gGv9n",
+        "clean_url": "https://www.msn.com/en-us/money/economy/us-lawmakers-in-letter-question-mcdonald-s-ceo-about-algorithmic-pricing-practices/ar-AA2gGv9n",
+        "image": "http://www.bing.com/th?id=ONUT.USIixNsuhEThncikQqUj2w&pid=News",
+        "timestamp": 1793708166.0
     },
     {
         "id": "63a3a6f0ab",
@@ -5450,42 +5486,5 @@
         "clean_url": "https://www.iranintl.com/en/202610317234",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793434860.0
-    },
-    {
-        "id": "1878fcf010",
-        "title_fa": "هشدار مصر درباره پیامدهای خطرناک تنش بین آمری کا و ای ران",
-        "title_en": "Egyptian foreign minister 'extremely worried' US-Iran escalation will have major impact on Mideast",
-        "summary": [
-            "وزیر خارجه مصر نسبت به تبعات ویرانگر درگیری احتمالی واشنگتن و تهران بر امنیت کل منطقه ابراز نگرانی کرد.",
-            "قاهره به خوبی می‌داند هرگونه تقابل نظامی مستقیم، اقتصاد و ثبات شکننده کشورهای عربی حاشیه خلیج فارس را به آتش می‌کشد."
-        ],
-        "impact": "افزایش زنگ خطر در پایتخت‌های عربی از وقوع جنگی که هزینه سنگینی به اقتصاد خاورمیانه تحمیل می‌کند.",
-        "tag": "منطقه‌ای",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dXVoYmJWdDFKajNYd01QS2lyeExkdWtWNXo5NEdLb2pDS1FzdnJ3MW9TLWtwZXRscUF0aEplSzdicWZZdFpVYWVRcjEyVlNpbFl5QlhjTGI0M2QxSFlLQXhIZDdQRW14akE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dXVoYmJWdDFKajNYd01QS2lyeExkdWtWNXo5NEdLb2pDS1FzdnJ3MW9TLWtwZXRscUF0aEplSzdicWZZdFpVYWVRcjEyVlNpbFl5QlhjTGI0M2QxSFlLQXhIZDdQRW14akE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793434088.0
-    },
-    {
-        "id": "ae8296f78d",
-        "title_fa": "گشایش در دیپلماسی؛ آغاز گفتگوهای مستقیم آمریکا و ایران در دوحه",
-        "title_en": "US delegation said to be joining direct talks with Iran in Doha after negotiation breakthrough",
-        "summary": [
-            "پیشرفت در مذاکرات پشت‌پرده‌، مسیر را برای اعزام هیئت آمریکایی به قطر و گفتگوی رو در رو با نمایندگان تهران هموار کرد.",
-            "تغییر مدل گفتگوها از غیرمستقیم به مستقیم، نشان‌دهنده شتاب دو طرف برای دستیابی به یک توافق فوری یا فرمول مهار تنش است.",
-            "واشنگتن تلاش می‌کند با این گام دیپلماتیک، پیش از بحرانی‌تر شدن اوضاع منطقه، ریسک درگیری و تحرکات نظامی را مدیریت کند."
-        ],
-        "impact": "احتمال فروکش کردن هیجان بازار ارز در تهران و ایجاد تنفس موقت در پرونده هسته‌ای.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS182UmNqZVluQk9Sem90UGYxWW1DMGRJVVp6ZFY5dENlcW5hYTNCZS1CTTdRQ0JsWFVveWpMNG5HOExSQmhiT2sydGZNUnh0TlNzclFOWjJ0aGo5eTlvVFZmS2FPaWdKekVNVC1uZjh0cVgwdDFHNzFWZ09NdXJ4c011UldlS0cySDlLd2JvQ29YUHNNcElIYTFzX1NvQllDRHN5QURlazdIYzRMQWhVNzRtajFfblJjOWk5dnktWVctNHRBOEQ4bUNKRXVhUDRnOHFWMHlYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS182UmNqZVluQk9Sem90UGYxWW1DMGRJVVp6ZFY5dENlcW5hYTNCZS1CTTdRQ0JsWFVveWpMNG5HOExSQmhiT2sydGZNUnh0TlNzclFOWjJ0aGo5eTlvVFZmS2FPaWdKekVNVC1uZjh0cVgwdDFHNzFWZ09NdXJ4c011UldlS0cySDlLd2JvQ29YUHNNcElIYTFzX1NvQllDRHN5QURlazdIYzRMQWhVNzRtajFfblJjOWk5dnktWVctNHRBOEQ4bUNKRXVhUDRnOHFWMHlYZw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793432475.0
     }
 ]
