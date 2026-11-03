@@ -128,6 +128,24 @@
         "timestamp": 1793691669.0
     },
     {
+        "id": "7ce1a8d714",
+        "title_fa": "خیز دموکرات‌ها برای پیروزی در انتخابات میادین کلیدی",
+        "title_en": "Democrats poised for midterm gains, but how big?",
+        "summary": [
+            "حزب دموکرات امیدواری بالایی برای تصاحب کرسی‌های بیشتر در ایالت‌های سنتی و خاکستری دارد.",
+            "موج نارضایتی‌های عمومی می‌تواند به سود دموکرات‌ها در ایالات عموماً حامی جمهوری‌خواهان تمام شود."
+        ],
+        "impact": "تغییر موازنات قدرت در کنگره و به خطر افتادن کرسی‌های کلیدی حزب رقیب",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/democrats-poised-for-midterm-gains-but-how-big/ar-AA2gEGyR",
+        "clean_url": "https://www.msn.com/en-us/news/other/democrats-poised-for-midterm-gains-but-how-big/ar-AA2gEGyR",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793690319.0
+    },
+    {
         "id": "d2b638546a",
         "title_fa": "نبرد انتخاباتی سنگین در مین؛ تلاش دموکرات‌ها برای تصاحب کرسی کلیدی",
         "title_en": "Maine Sen. Susan Collins, a Republican survivor, tries to defend seat against Democrat Troy Jackson",
@@ -656,6 +674,24 @@
         "timestamp": 1793673960.0
     },
     {
+        "id": "0719d48572",
+        "title_fa": "انتقاد شدید چهره سابق حامی ترامپ از پیام انتخاباتی",
+        "title_en": "Former MAGA darling rips Trump’s closing midterm message: ‘I was very disappointed’",
+        "summary": [
+            "مارجری تیلور گرین صراحتاً اعلام کرد ترامپ تمرکز خود را روی مسائل واقعی و روزمره مردم از دست داده است.",
+            "این انتقاد درون‌گروهی نشان‌دهنده شکاف‌های تازه میان حامیان سرسخت جریان مگا در آستانه انتخابات است."
+        ],
+        "impact": "ریزش بخشی از آرای سنتی و حامیان سرسخت ترامپ در رقابت‌های پیش رو",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/11/former-maga-darling-rips-trumps-closing-midterm-message-i-was-very-disappointed.html",
+        "clean_url": "https://www.masslive.com/politics/2026/11/former-maga-darling-rips-trumps-closing-midterm-message-i-was-very-disappointed.html",
+        "image": "http://www.bing.com/th?id=ONUT.K2rk__NnWQvm5JYMNWFUkQ&pid=News",
+        "timestamp": 1793672340.0
+    },
+    {
         "id": "f4c5276136",
         "title_fa": "فشار نتانیاهو به ترامپ برای حملات بیشتر به جـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی",
         "title_en": "US-Iran war news: US conducts defensive strikes in Strait of Hormuz; Benjamin Netanyahu pushed Donald Trump for more Iran strikes",
@@ -709,6 +745,24 @@
         "clean_url": "https://www.newsday.com/news/nation/mideast-news-november-3-2026-q03426",
         "image": "https://cdn.newsday.com/ace/c:ZmFlZGNkYTUtMTE4OC00:ZjYxZWNlNzMtMTA1Zi00/square/770",
         "timestamp": 1793668980.0
+    },
+    {
+        "id": "52c5e5ebf6",
+        "title_fa": "افت محبوبیت ترامپ و وزیر دفاع در میان پایگاه رأی کلیدی",
+        "title_en": "Poll shows key constituency turning its back on Trump, top official",
+        "summary": [
+            "نتایج نظرسنجی‌های تازه حاکی از فاصله گرفتن بخش مهمی از حامیان سنتی از تیم رهبری فعلی است.",
+            "پایگاه رأی هسته‌ای دولت کاهش محسوسی در میزان رضایت از عملکرد ترامپ و پیت هگست ثبت کرده است."
+        ],
+        "impact": "تضعیف پایگاه اجتماعی حاکمیت و کاهش اعتماد عمومی به تیم امنیت ملی و اجرایی",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/11/poll-shows-key-constituency-turning-its-back-on-trump-top-official.html",
+        "clean_url": "https://www.masslive.com/politics/2026/11/poll-shows-key-constituency-turning-its-back-on-trump-top-official.html",
+        "image": "http://www.bing.com/th?id=ONUT.Qa07ypcGCr6_gANTUEOQ-w&pid=News",
+        "timestamp": 1793668800.0
     },
     {
         "id": "8372f1b9c6",
@@ -5443,59 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWozTVJwa2dwelRCWUQ0aWQwemJxY1FBRVZJeTJ6ZXpYbm1Xb1pyQkpnd05TSVVtUmFsU21pTjd2UExQekMwbnlKOGJQRG5Ocjdpd2h2M0RPYWhnZVFXSzdwLWxqbmJmd2ZfenNzbTExT3RjUm5kWG9nX2h5LWM4TGRIcDBjaTJHUnZpMFhycFgzRGM1NHlKUnBjbzd0X1hYWEhfN0VvTnItUms5WS1OMkttcnlFdUhYRnQtTTdXR0FobmlrV1lFWGJsQlZLYmJwVmRKd2Y0U0xBbUhnMjlWMFVUdHJxbmJ4MzRn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793360542.0
-    },
-    {
-        "id": "f0e444a85d",
-        "title_fa": "اشاره رسانه‌های خارجی به سیاست‌های جبهه مقاومت و ترامپ",
-        "title_en": "Labor federation urges no vote on cannabis ballot question | Letters to The Republican",
-        "summary": [
-            "موضوعاتی پیرامون رویکردهای سخت‌گیرانه ترامپ در قبال ج.ه.ا و مسائل منطقه مطرح شده است.",
-            "تمرکز رسانه‌ها همچنان روی احتمال افزایش فشارها و چالش‌های سیاسی سیستم است."
-        ],
-        "impact": "افزایش توجه رسانه‌های بین‌المللی به سناریوهای تقابل و فشارهای سیاسی علیه حاکمیت.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "MassLive",
-        "url": "https://www.masslive.com/opinion/2026/10/labor-federation-urges-no-vote-on-cannabis-ballot-question-letters-to-the-republican.html",
-        "clean_url": "https://www.masslive.com/opinion/2026/10/labor-federation-urges-no-vote-on-cannabis-ballot-question-letters-to-the-republican.html",
-        "image": "https://www.masslive.com/resizer/v2/B57DWJR7TVEJJMGE5DF5KBNT2A.jpg?auth=7c1c9bbf0d2770dac5fe55dd4fefeb2cd85cc712ec2c33cb66313a4bdcc14a34&width=1280&smart=true",
-        "timestamp": 1793360280.0
-    },
-    {
-        "id": "2a6d857875",
-        "title_fa": "ابقای ایران در فهرست سیاه اف‌ای‌تی‌اف به جرم پولشویی",
-        "title_en": "Iran remains on FATF blacklist over money laundering, terrorism",
-        "summary": [
-            "گروه ویژه اقدام مالی بار دیگر صلاحیت مالی حکومت را رد کرد و تهران را در لیست سیاه نگه داشت.",
-            "تداوم این وضعیت یعنی بسته‌تر شدن مسیرهای مالی و فلج شدن بیشتر اقتصاد متکی به رانت."
-        ],
-        "impact": "بسته‌تر شدن روزنه‌های تنفس مالی و تشدید انزوای بانکی جمهوری اسلامی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610305099",
-        "clean_url": "https://www.iranintl.com/en/202610305099",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1793355060.0
-    },
-    {
-        "id": "1408870d76",
-        "title_fa": "افشای طرح جنگی دولت ترامپ علیه ایران توسط سناتور آمریکایی",
-        "title_en": "Senator reveals secretive Iran war briefing, warns of 'devastating escalation'",
-        "summary": [
-            "کریس مورفی، سناتور دموکرات، از تدوین طرحی خطرناک توسط دولت ترامپ برای حملات نظامی جدید به ایران پرده برداشت.",
-            "این مقام آمریکایی نسبت به پیامدهای ویرانگر و تصاعدی چنین اقدام نظامی علیه ثبات منطقه هشدار داد."
-        ],
-        "impact": "افزایش ریسک ژئوپلیتیک و بالا گرفتن گمانه‌زنی‌ها پیرامون گزینه‌های نظامی واشنگتن.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Daily Caller on MSN",
-        "url": "https://www.msn.com/en-us/news/other/senator-reveals-secretive-iran-war-briefing-warns-of-devastating-escalation/ar-AA2gqXD3",
-        "clean_url": "https://www.msn.com/en-us/news/other/senator-reveals-secretive-iran-war-briefing-warns-of-devastating-escalation/ar-AA2gqXD3",
-        "image": "http://www.bing.com/th?id=ONUT.5BGCbBIz7UjXWduMNXCAkg&pid=News",
-        "timestamp": 1793353609.0
     }
 ]
