@@ -201,6 +201,24 @@
         "timestamp": 1793701833.0
     },
     {
+        "id": "e37cb1c554",
+        "title_fa": "هشدار جدی فرماندار نیوجرسی به بنادر درباره سوخت روسی",
+        "title_en": "New Jersey's governor warns ports against accepting Russian diesel",
+        "summary": [
+            "فرماندار نیوجرسی اعلام کرد تخلیه محموله‌های گازوئیل روسیه پیگرد قانونی و جرایم سنگین به همراه دارد.",
+            "ایالات متحده نظارت بر دور زدن تحریم‌ها و ورود فرآورده‌های نفتی مسدودشده را به شدت تشدید کرده است."
+        ],
+        "impact": "بستن مسیرهای دور زدن تحریم‌های انرژی روسیه و افزایش ریسک برای واسطه‌های تجاری.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/new-jersey-s-governor-warns-ports-against-accepting-russian-diesel/ar-AA2gGC6I",
+        "clean_url": "https://www.msn.com/en-us/news/other/new-jersey-s-governor-warns-ports-against-accepting-russian-diesel/ar-AA2gGC6I",
+        "image": "http://www.bing.com/th?id=ONUT.6fUYPFZjj8MNdIjto9216Q&pid=News",
+        "timestamp": 1793701183.0
+    },
+    {
         "id": "c36b372d01",
         "title_fa": "گسترش سایه تهدیدهای نظامی تـ.ـهـ.ـران به خاک اروپا",
         "title_en": "Iran’s war threats now reach Europe, from Cyprus to Britain",
@@ -5480,23 +5498,5 @@
         "clean_url": "https://eaworldview.com/2026/10/us-war-on-iran-trump-threatens-strikes-november-4",
         "image": "http://www.bing.com/th?id=ONUT.vcbkopfz9Ad0CNSc9Wj_Mg&pid=News",
         "timestamp": 1793394600.0
-    },
-    {
-        "id": "f69af28737",
-        "title_fa": "قتل مسلحانه یک مرد در تل‌السبع",
-        "title_en": "Man shot dead in southern town of Tel Sheva",
-        "summary": [
-            "یک مرد در شهر بادیایی تل‌السبع در جنوب مناطق اشغالی هدف گلوله قرار گرفت و کشته شد.",
-            "زخمی این حادثه به بیمارستان سورکا در بئرالسبع منتقل شد اما تلاش پزشکان بی‌نتیجه ماند."
-        ],
-        "impact": "افزایش خشونت‌های داخلی و مسائل امنیتی در مناطق جنوبی",
-        "tag": "نظامی",
-        "urgency": 4,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/man-shot-dead-in-southern-town-of-tel-sheva/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/man-shot-dead-in-southern-town-of-tel-sheva",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/Screenshot-2026-10-30-at-11.42.53-640x400.jpeg",
-        "timestamp": 1793392800.0
     }
 ]
