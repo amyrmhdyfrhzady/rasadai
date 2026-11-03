@@ -399,6 +399,24 @@
         "timestamp": 1793697805.0
     },
     {
+        "id": "6fa397df74",
+        "title_fa": "انتقاد جان استوارت از رسانه‌ها و نظرسنجی‌های انتخاباتی",
+        "title_en": "Jon Stewart takes on midterm poll obsession – 'Like little rats in a maze'",
+        "summary": [
+            "جان استوارت در برنامه جدید خود رسانه‌ها را به خاطر تمرکز افراطی و وسواس‌گونه روی نظرسنجی‌های میان‌دوره‌ای به شدت زیر سوال برد.",
+            "او رفتار رسانه‌ها و مفسران سیاسی را به موش‌های درون یک هزارتو تشبیه کرد که بدون هدف مشخصی می‌دوند."
+        ],
+        "impact": "این اظهارات موج تازه‌ای از انتقادات را نسبت به شیوه پوشش رسانه‌ای انتخابات در آمریکا ایجاد کرد.",
+        "tag": "رسانه",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/03/daily-show-jon-stewart-election-poll-coverage/92584682007/",
+        "clean_url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/03/daily-show-jon-stewart-election-poll-coverage/92584682007",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793697540.0
+    },
+    {
         "id": "c4eaf82939",
         "title_fa": "ادعای عجیب ترامپ درباره مهار تورم همزمان با ریزش محبوبیت",
         "title_en": "Trump Says Inflation Solved as Economic Approval Hits Record Low at Midterm",
@@ -5475,23 +5493,5 @@
         "clean_url": "https://www.iranintl.com/en/202610312323",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793411580.0
-    },
-    {
-        "id": "2aece1385b",
-        "title_fa": "تهدید اتمی و ضربه کوبنده ت‍.ر.ک‍.ی‍.ه‌ به اروپا",
-        "title_en": "Iran warns of ‘earth-shattering blow’ in most chilling threat yet",
-        "summary": [
-            "مقام‌های ارشد نظامی ج‍.م‍.ه‍.و.ر.ی ا‍.س‍.لا‍.م‍.ی به اظهارات صدر اعظم آلمان درباره هزینه‌های جنگ واکنش تندی نشان دادند.",
-            "تهدید به ضربه ویرانگر نشان‌دهنده بن‌بست دیپلماتیک و تلاش برای ارعاب کشورهای اروپایی است."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک میان تهران و پایتخت‌های اروپایی و احتمال تحریم‌های جدید.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Daily Express US on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-warns-of-earth-shattering-blow-in-most-chilling-threat-yet/ar-AA2gt6rm",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-of-earth-shattering-blow-in-most-chilling-threat-yet/ar-AA2gt6rm",
-        "image": "http://www.bing.com/th?id=ONUT.Qk-d72gWwuwrJIsZrZvdAQ&pid=News",
-        "timestamp": 1793411160.0
     }
 ]
