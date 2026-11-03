@@ -126,6 +126,24 @@
         "timestamp": 1793685180.0
     },
     {
+        "id": "bdabd0cbda",
+        "title_fa": "درگذشت تلخ بازیکن اسپانیایی بر اثر برخورد در زمین مسابقه",
+        "title_en": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
+        "summary": [
+            "خسوس د میگل، بازیکن دسته دوم فوتبال اسپانیا، پس از برخورد شدید در جریان بازی جان باخت.",
+            "این حادثه شوک بزرگی به جامعه ورزشی و باشگاه تنریف وارد کرد."
+        ],
+        "impact": "برگزاری مسابقات ورزشی تحت تأثیر پروتکل‌های ایمنی بازیکنان قرار خواهد گرفت.",
+        "tag": "ورزشی",
+        "urgency": 3,
+        "sentiment": -0.9,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/spanish-soccer-player-jes%C3%BAs-de-miguel-dies-after-on-pitch-collision/ar-AA2gEQkk",
+        "clean_url": "https://www.msn.com/en-us/news/other/spanish-soccer-player-jes%C3%BAs-de-miguel-dies-after-on-pitch-collision/ar-AA2gEQkk",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793683789.0
+    },
+    {
         "id": "64aa014b74",
         "title_fa": "عقب‌نشینی لفظی پزشکیان پس از حملات آمریکا",
         "title_en": "Iran president says return to war benefits no one, after reported US strikes",
@@ -178,6 +196,43 @@
         "clean_url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-marico-share-price-03-november-2026/liveblog/135478647.cms",
         "image": "https://economictimes.indiatimes.com/thumb/msid-135478647,width-1200,height-900,resizemode-4,imglength-775976/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-itc-marico-share-price-03-november-2026.jpg",
         "timestamp": 1793680565.896718
+    },
+    {
+        "id": "08b64a343b",
+        "title_fa": "ریسک بالای ترامپ در انتخابات میان‌دوره و سایه تحقیقات کنگره",
+        "title_en": "After Election Day, Trump stares down the specter of Democratic probes and the race to succeed him",
+        "summary": [
+            "شکست احتمالی جمهوری‌خواهان در کنگره، دو سال پایانی ریاست‌جمهوری ترامپ را با چالش جدی مواجه خواهد کرد.",
+            "تمرکز دموکرات‌ها بر پرونده‌های مالی و احتمال راه‌اندازی روند استیضاح دوباره قوت می‌گیرد.",
+            "کاهش سرمایه سیاسی ترامپ در داخل و خارج، موقعیت او را در سطح بین‌المللی تضعیف می‌کند."
+        ],
+        "impact": "تغییر موازنه قدرت در واشنگتن، دست‌اندازهای جدی برای سیاست داخلی و خارجی دولت ایجاد می‌کند.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Hartford Courant",
+        "url": "https://www.courant.com/2026/11/03/donald-trump-post-midterms/",
+        "clean_url": "https://www.courant.com/2026/11/03/donald-trump-post-midterms",
+        "image": "https://www.courant.com/wp-content/uploads/2026/11/Trump_45_34-1.jpg?w=2000&h=1333",
+        "timestamp": 1793679780.0
+    },
+    {
+        "id": "73793c19f4",
+        "title_fa": "رقابت فشرده بر سر کرسی کلیدی کنگره در میشیگان",
+        "title_en": "Christina Hines, Michael Bouchard vie to replace John James in Michigan's 10th congressional district",
+        "summary": [
+            "نامزد مورد حمایت ترامپ در برابر رقیب دموکرات برای تصاحب کرسی دهم میشیگان صف‌آرایی کرده است.",
+            "تغییرات مرزبندی‌های انتخاباتی شانس حزب رقیب را برای پیروزی در این منطقه سنتی افزایش داده است."
+        ],
+        "impact": "نتیجه این رقابت می‌تواند سهم عمده‌ای در تعیین اکثریت آینده مجلس نمایندگان داشته باشد.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/detroit/news/christina-hines-michael-bouchard-michigan-10th-congressional-district-results/",
+        "clean_url": "https://www.cbsnews.com/detroit/news/christina-hines-michael-bouchard-michigan-10th-congressional-district-results",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/fff89e02-b33b-466b-b752-86e7f4b7559e/thumbnail/1200x630/912a8f31884a92320382ef6dc470f7a8/story-thumbnail-2.png",
+        "timestamp": 1793678100.0
     },
     {
         "id": "2ee7829e66",
@@ -747,6 +802,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/child-in-new-york-dies-after-contracting-measles-the-state-s-first-such-death-in-30-years/ar-AA2gBYXG",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793652248.0
+    },
+    {
+        "id": "baa8e98298",
+        "title_fa": "افت ارزش دلار در آستانه انتخابات میان‌دوره آمریکا",
+        "title_en": "Weaker dollar views stick running into US midterms, but strategists brace for resilience: Reuters poll",
+        "summary": [
+            "تحلیل‌گران بازار ارز بر اساس نظرسنجی‌های جدید رویه نزولی ارزش دلار را پیش‌بینی کرده‌اند.",
+            "بازارهای مالی خود را برای نوسانات شدید و مقاومت دلار پس از مشخص شدن نتایج انتخابات آماده می‌کنند."
+        ],
+        "impact": "تغییرات ارزش دلار می‌تواند جهت‌گیری بازارهای جهانی و نرخ ارز را در سطح منطقه دستخوش تغییر کند.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Sacramento Bee",
+        "url": "https://www.sacbee.com/news/nation-world/national/article317898582.html",
+        "clean_url": "https://www.sacbee.com/news/nation-world/national/article317898582.html",
+        "image": "http://www.bing.com/th?id=ONUT.Go74rcDAIoXEKwY9MB1uaQ&pid=News",
+        "timestamp": 1793650980.0
     },
     {
         "id": "2e1953ae21",
@@ -5424,79 +5497,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-destroyed-drone-fired-by-yemens-houthis-over-mecca",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793333280.0
-    },
-    {
-        "id": "863e54481d",
-        "title_fa": "میانجی‌گری قطر در سایه تهدیدهای نظامی ترامپ علیه تـهران",
-        "title_en": "Qatar pushes for U.S.-Iran deal under shadow of Trump's threats",
-        "summary": [
-            "مقام‌های قطر برای پیگیری توافق میانجی‌گری و کاهش تنش‌ها راهی پایتخت شدند.",
-            "ترامپ ضمن تایید تماس‌های سطوح بالا، تهدید حمله مجدد را روی میز نگه داشته است.",
-            "منابع دریایی از اصابت پرتابه به یک نفتکش در تنگه هرمز خبر دادند.",
-            "نامه جی دی ونس به محسن رضایی تنها با هدف ارسال کمک‌های دارویی انجام شده است."
-        ],
-        "impact": "افزایش تنش‌های دریایی در تنگه هرمز همزمان با تلاش‌های دیپلماتیک قطر برای مهار بحران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/qatar-pushes-u-iran-deal-110735519.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/qatar-pushes-u-iran-deal-110735519.html",
-        "image": "http://www.bing.com/th?id=ONUT.0NETCNTAVaIMMFWaOkHaDw&pid=News",
-        "timestamp": 1793333220.0
-    },
-    {
-        "id": "70f93fdc96",
-        "title_fa": "تعویق حقوق نیروهای س پ ا ه زیر فشار تحریم‌ها",
-        "title_en": "Iran Delays Salaries for IRGC Under Weight of US Pressure",
-        "summary": [
-            "فشار حداکثری اقتصادی کار خودش را کرده و صندوق‌های مالی نظام خالی‌تر از همیشه شده است.",
-            "تأخیر در پرداخت حقوق نیروهای نظامی نشان‌دهنده بحران شدید نقدینگی در بدنه حاکمیت است."
-        ],
-        "impact": "افزایش نارضایتی در بدنه نیروهای مسلح و فرسایش توان عملیاتی ساختار سرکوب.",
-        "tag": "اقتصادی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Algemeiner.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWdYMnZNXzh2NTk0d2lmQ2lNMlRUQmtzTU82akxyU0xkYmc5UmlmOHhIbV9rYWJzdl9zcldKaEJ3dkwxS3FSTW9VMFFUR2MzLVpyLUhXX2x4dmp3M3hPMG1yWTRCSm1BWmxPX1pOY2tMR18yU25HeW1fRS1pdE5GTjVXMnhwQ21fcmdveUFIOUlMX1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWdYMnZNXzh2NTk0d2lmQ2lNMlRUQmtzTU82akxyU0xkYmc5UmlmOHhIbV9rYWJzdl9zcldKaEJ3dkwxS3FSTW9VMFFUR2MzLVpyLUhXX2x4dmp3M3hPMG1yWTRCSm1BWmxPX1pOY2tMR18yU25HeW1fRS1pdE5GTjVXMnhwQ21fcmdveUFIOUlMX1k",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793328720.0
-    },
-    {
-        "id": "5944ad6f24",
-        "title_fa": "پیشنهاد مذاکره واشنگتن با چهره‌های ارشد جـ.ـهـ.ـو،ر،ی ا،سـ،لا،م،ی",
-        "title_en": "Vance offers to meet Iran’s Rezaei for talks - Washington Post",
-        "summary": [
-            "جیمز ونس آمادگی خود را برای دیدار و گفتگو با محسن رضایی اعلام کرده است.",
-            "این پیشنهاد نشان‌دهنده تغییرات احتمالی در کانال‌های ارتباطی پشت پرده بین آمریکا و تهران است."
-        ],
-        "impact": "آزمون جدی برای ارزیابی انعطاف‌پذیری مقامات حاکمیتی در برابر فشارهای خارجی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHV3pZdW5VQldJUzA1YWwxVHFOVm5oLVA3SmZ0dmFjQjFVMnJScVNGN21hV0hLQ2xBcm95bE96aTRxVVdwYzhDZElJVVNxRnEwLVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHV3pZdW5VQldJUzA1YWwxVHFOVm5oLVA3SmZ0dmFjQjFVMnJScVNGN21hV0hLQ2xBcm95bE96aTRxVVdwYzhDZElJVVNxRnEwLVE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793326625.0
-    },
-    {
-        "id": "f2689ce143",
-        "title_fa": "انتقاد جمهوری‌خواهان از بی‌توجهی دموکرات‌ها به خطر ج.ه.ا",
-        "title_en": "Democrats haven’t thought far enough ahead on Iran",
-        "summary": [
-            "حزب دموکرات هنوز برنامه جامع و روشنی برای مهار تهدیدهای امنیتی ج.ه.ا تدوین نکرده است.",
-            "جمهوری‌خواهان با برجسته کردن این موضوع، تلاش می‌کنند رقیب را به سهل‌انگاری در برابر اقدامات خطرناک تهران متهم کنند."
-        ],
-        "impact": "افزایش فشار سیاسی بر دولت آمریکا برای اتخاذ سیاست‌های سخت‌گیرانه‌تر در قبال تهران.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Politico on MSN",
-        "url": "https://www.msn.com/en-us/news/other/democrats-haven-t-thought-far-enough-ahead-on-iran/ar-AA2goI8Y",
-        "clean_url": "https://www.msn.com/en-us/news/other/democrats-haven-t-thought-far-enough-ahead-on-iran/ar-AA2goI8Y",
-        "image": "http://www.bing.com/th?id=ONUT.jQc4OkvMOFyyLPYXStTyqw&pid=News",
-        "timestamp": 1793325600.0
     }
 ]
