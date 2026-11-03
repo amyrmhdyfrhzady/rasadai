@@ -199,6 +199,24 @@
         "timestamp": 1793720100.0
     },
     {
+        "id": "fd85b72ae6",
+        "title_fa": "سرنوشت سنای آمریکا در سایه جنگ با ايران",
+        "title_en": "Live Senate election updates for 2026's high-stakes midterm races",
+        "summary": [
+            "رقابت‌های میان‌دوره‌ای سنا با به خطر افتادن کرسی‌های جمهوری‌خواهان وارد فاز حساسی شده است.",
+            "جنگ فرساشی و نامحبوب با ايران، نقشه سیاسی را به ضرر حزب حاکم تغییر داده است."
+        ],
+        "impact": "از دست رفتن اکثریت جمهوری‌خواهان در سنا، اجرای برنامه‌های ترامپ را زمین‌گیر می‌کند.",
+        "tag": "سیاست آمریکا",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+        "clean_url": "https://www.cbsnews.com/live-updates/senate-election-results-2026",
+        "image": "http://www.bing.com/th?id=ONUT.QvxyZTkwZmS9p-GNJl71vw&pid=News",
+        "timestamp": 1793719020.0
+    },
+    {
         "id": "29bbac55a7",
         "title_fa": "موافقت آمریکا با پیش‌نویس توافق قطر با ایران",
         "title_en": "US approves Qatar-presented draft deal with Iran: Sources",
@@ -270,6 +288,24 @@
         "clean_url": "https://finance.yahoo.com/markets/crypto/articles/justin-sun-seeks-sanctions-world-223500339.html",
         "image": "http://www.bing.com/th?id=ONUT.LvtnWHLrTuuA3ATqZ5Z9lQ&pid=News",
         "timestamp": 1793716500.0
+    },
+    {
+        "id": "2aa1821c40",
+        "title_fa": "مطالبه دوحزبی رای‌دهندگان پنسیلوانیا برای حفظ اکثریت مجلس",
+        "title_en": "Pennsylvania voter’s top issue is keeping the House red, but also more bipartisanship",
+        "summary": [
+            "رای‌دهندگان محافظه‌کار در پنسیلوانیا خواهان حفظ اکثریت جمهوری‌خواهان در مجلس نمایندگان هستند.",
+            "عملکرد دوحزبی نمایندگان میانه‌رو به عنوان یک مزیت کلیدی در رقابت‌های محلی دیده می‌شود."
+        ],
+        "impact": "تعادل شکننده در مجلس نمایندگان روی روند تصمیم‌گیری‌های کلان واشنگتن تاثیر مستقیم دارد.",
+        "tag": "سیاست آمریکا",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/03/politics/video/pennsylvania-voter-house-red-bipartisanship-digvid",
+        "clean_url": "https://www.cnn.com/2026/11/03/politics/video/pennsylvania-voter-house-red-bipartisanship-digvid",
+        "image": "http://www.bing.com/th?id=ONUT.AtnA1j5-uUikoCIW-bv-Qg&pid=News",
+        "timestamp": 1793716260.0
     },
     {
         "id": "ab6fa9eb4e",
@@ -5446,41 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793444298.0
-    },
-    {
-        "id": "723ce9e377",
-        "title_fa": "تهدید دوباره تهران به پاسخ بدون محدودیت به آمریکا و اسرائیل",
-        "title_en": "Khamenei: IRGC will have 'immediate, unrestricted response' to any US, Israeli threats",
-        "summary": [
-            "علی خامنه‌ای در اظهاراتی تازه تاکید کرد که سپاه پاسداران آماده واکنش سریع و بدون محدودیت به هرگونه تهدید نظامی است.",
-            "این لفاظی‌های نظامی در حالی مطرح می‌شود که باز باندهای قدرت در تـهـران تلاش دارند با بولد کردن توان نظامی، فشارهای سنگین بیرونی را مهار کنند."
-        ],
-        "impact": "افزایش سطح تنش‌های نظامی و لفاظی‌های تقابلی در منطقه",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wTVJQYmlwR2RXdFpFaFVITWp3ckd0RjA1djZ1aGo4eHlYcHB0Z1lQeDlzTndWejhVZ0dpLXJ0ZTBzN2ZGYWRVU1RFX2h4Z2FSV3NnVGdOVXNURjZ1RGlyckRvbW1wOC1iUEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wTVJQYmlwR2RXdFpFaFVITWp3ckd0RjA1djZ1aGo4eHlYcHB0Z1lQeDlzTndWejhVZ0dpLXJ0ZTBzN2ZGYWRVU1RFX2h4Z2FSV3NnVGdOVXNURjZ1RGlyckRvbW1wOC1iUEE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793444080.0
-    },
-    {
-        "id": "8f011dc6dc",
-        "title_fa": "فشار بر ترامپ و نتانیاهو برای برخورد قاطع با ج.ا",
-        "title_en": "Trump and Netanyahu Need to Choose Victory on Iran",
-        "summary": [
-            "دونالد ترامپ و بنیامین نتانیاهو در برابر یک تصمیم سرنوشت‌ساز برای مهار کامل برنامه اتمی و منطقه‌ای حکومت قرار دارند.",
-            "نشریات غربی بر لزوم عبور از سیاست‌های فرسایشی و انتخاب راهبرد پیروزی قطعی تاکید می‌کنند."
-        ],
-        "impact": "افزایش احتمال هماهنگی واشنگتن و تل‌آویو برای اعمال فشارهای همه‌جانبه و ضربتی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "National Review",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdXZ0TnhEYlZxZ0FJR3VXbVhkR1ltWU91cUZzRnJ4SGMwbjluckJTbTB0X0FjckhveVhEOXJKT21qSWpCaXBOelVvMHBWS0JzMENZVmVpYWFIR0lqNVNOcG1DRi02ZUtLLXlybnlHNXdQNVBYekpkZHl3ZVAxX2FsYTdJOElVVl94Z2V3Y3VJVUh6a0hh0gGaAUFVX3lxTE5OeWZ0V2dIdkc1VkRBTDNVbDcwZVRUMS14XzVnR054ODNVeDBLZkx4X3FQc3YzM1laQkdHaGdTcGt6SVNVbFB4bDFKUjQxOG5neHdocHdlUDRKYktGOG5waG1BVGk4azE5Nm01dmFvMmE5blBhbjNaeS1iclI1aFNnMWZfZDhKbmJlQUVFUzlURC14b3h0cFpLT1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdXZ0TnhEYlZxZ0FJR3VXbVhkR1ltWU91cUZzRnJ4SGMwbjluckJTbTB0X0FjckhveVhEOXJKT21qSWpCaXBOelVvMHBWS0JzMENZVmVpYWFIR0lqNVNOcG1DRi02ZUtLLXlybnlHNXdQNVBYekpkZHl3ZVAxX2FsYTdJOElVVl94Z2V3Y3VJVUh6a0hh0gGaAUFVX3lxTE5OeWZ0V2dIdkc1VkRBTDNVbDcwZVRUMS14XzVnR054ODNVeDBLZkx4X3FQc3YzM1laQkdHaGdTcGt6SVNVbFB4bDFKUjQxOG5neHdocHdlUDRKYktGOG5waG1BVGk4azE5Nm01dmFvMmE5blBhbjNaeS1iclI1aFNnMWZfZDhKbmJlQUVFUzlURC14b3h0cFpLT1E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793442646.0
     }
 ]
