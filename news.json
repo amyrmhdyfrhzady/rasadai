@@ -329,6 +329,24 @@
         "timestamp": 1793694960.0
     },
     {
+        "id": "d159e6bd4d",
+        "title_fa": "چرخش آرای انتخاباتی در میشیگان در آستانه رای‌گیری",
+        "title_en": "Michigan voters make surprising cross-party choices as Rogers, El-Sayed race reaches final hours",
+        "summary": [
+            "رأی‌دهندگان در میشیگان جابجایی عجیبی در حمایت از نامزدهای دو حزب اصلی نشان داده‌اند.",
+            "نارضایتی از وضعیت فعلی حزب دموکرات باعث شده برخی حامیان قدیمی به سمت نامزدهای جمهوری‌خواه متمایل شوند."
+        ],
+        "impact": "تغییر گرایش رای‌دهندگان سنتی می‌تواند موازنه قدرت را در ایالت‌های کلیدی تغییر دهد.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/michigan-voters-surprising-cross-party-choices-rogers-el-sayed-race-final-hours",
+        "clean_url": "https://www.foxnews.com/politics/michigan-voters-surprising-cross-party-choices-rogers-el-sayed-race-final-hours",
+        "image": "http://www.bing.com/th?id=ONUT.fc4SScuy8bIXJE1_qurrEw&pid=News",
+        "timestamp": 1793694300.0
+    },
+    {
         "id": "90def3f4d3",
         "title_fa": "شکاف عمیق در بیت شیعی عراق بر سر قدرت و منافع",
         "title_en": "Iraq's Ruling Coordination Framework Faces Growing Risk of Split",
@@ -728,6 +746,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakQ2dHpWeVF0SFVPOHZaLUtaYWV5YzNycVlYNU1JQlRxRFF3X0xjM2k0dndPNlg5VWcxOHJ2S1h6VldqejlGZjAwSEhfbDVxN2xRbUVGNW4xdU51bTNnZkJZN0JNLVo3MkVFdy0tUFVQSGFrZ0t6aG5VQ1F0WTEyUDlMczZTN3d5Z1Z0dk5XWkFSMFJDcFA4MHNHbnUyQU9FQ0RXRFU0WnRIeEtjQmtkMTNCVUlJU0FR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793685988.0
+    },
+    {
+        "id": "2f29639b30",
+        "title_fa": "خیز دموکرات‌ها برای تصاحب کنگره در سال ۲۰۲۶",
+        "title_en": "2026 midterms: How many seats do Democrats need to flip Congress?",
+        "summary": [
+            "حزب دموکرات برنامه‌ریزی فشرده‌ای را برای تغییر ترکیب مجلس نمایندگان و سنا در انتخابات میان‌دوره‌ای پیش رو آغاز کرده است.",
+            "تسلط بر کنگره به یکی از اهداف اصلی سیاسی برای مهار دولت فعلی تبدیل شده است."
+        ],
+        "impact": "نتیجه این انتخابات نقشه سیاسی ایالات متحده و روند تصویب قوانین کلیدی را دگرگون می‌کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/11/2026-midterms-how-many-seats-do-democrats-need-to-flip-congress.html",
+        "clean_url": "https://www.mlive.com/politics/2026/11/2026-midterms-how-many-seats-do-democrats-need-to-flip-congress.html",
+        "image": "http://www.bing.com/th?id=ONUT.TBmPtp_z3uHx24KFCXfYUA&pid=News",
+        "timestamp": 1793685600.0
     },
     {
         "id": "e1ab311d75",
@@ -5461,42 +5497,5 @@
         "clean_url": "https://tass.com/politics/2211247",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261031/1491581.jpg",
         "timestamp": 1793395860.0
-    },
-    {
-        "id": "fd17d04258",
-        "title_fa": "سیگنال‌های ترامپ برای بازگشت به سیاست فشار بر ج.م.ا",
-        "title_en": "Trump Keeps Hinting That the Iran War Is About to Heat Up Again",
-        "summary": [
-            "دونالد ترامپ در مواضع اخیر خود بارها به افزایش تنش‌ها و بازگشت به سیاست‌های سخت‌گیرانه علیه تـهـران اشاره کرده است.",
-            "تیم سیاسی ترامپ به دنبال بستن کامل دریچه‌های تنفسی اقتصادی حاکمیت است."
-        ],
-        "impact": "افزایش ریسک‌های امنیتی و نوسان شدید در بازارهای مالی داخلی",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Slate",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWk5eVVLd3F0MF9xWTY5bEdXbG94a0NDWENuX2ZzaUtMTUwtMXFXZG9WNkZRM1A3UHZhQWI0cDhtcGZwajdYNVFwaExFMlphb0dmVFUxOXZXQXd2WE1sSnNfX01yQkFxSmtmWjlFMkRUaDRVSjQxSlJ2UE85QU51VEVDcVRPWGk5Y01lV2tkWWV6NUsxeWl3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWk5eVVLd3F0MF9xWTY5bEdXbG94a0NDWENuX2ZzaUtMTUwtMXFXZG9WNkZRM1A3UHZhQWI0cDhtcGZwajdYNVFwaExFMlphb0dmVFUxOXZXQXd2WE1sSnNfX01yQkFxSmtmWjlFMkRUaDRVSjQxSlJ2UE85QU51VEVDcVRPWGk5Y01lV2tkWWV6NUsxeWl3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793395200.0
-    },
-    {
-        "id": "daa117d187",
-        "title_fa": "هشدار تیم ترامپ درباره حملات سنگین نظامی به ایران",
-        "title_en": "UPDATES: US War on Iran, Day 247 — Trump Camp Threatens Attacks on November 4",
-        "summary": [
-            "تیم ترامپ به کشورهای عربی منطقه پیام داده که بلافاصله پس از انتخابات، حملات نظامی کوتاه اما بسیار شدیدی علیه ایران اجرا خواهد شد.",
-            "واکنش ترسان کشورهای حاشیه خلیج فارس و رایزنی آن‌ها برای عدم استفاده آمریکا از پایگاه‌های منطقه‌ای، نشان‌دهنده وحشت از پاسخ متقابل است.",
-            "تأکید ترامپ بر باقی بودن تمامی گزینه‌ها روی میز، سیگنال مستقیمی برای از بین بردن توان هسته‌ای و تسلیحاتی ج.ا است."
-        ],
-        "impact": "افزایش بی‌سابقه خطر درگیری مستقیم نظامی و بحران در همکاری‌های امنیتی آمریکا و اعراب.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "EA WorldView",
-        "url": "https://eaworldview.com/2026/10/us-war-on-iran-trump-threatens-strikes-november-4/",
-        "clean_url": "https://eaworldview.com/2026/10/us-war-on-iran-trump-threatens-strikes-november-4",
-        "image": "http://www.bing.com/th?id=ONUT.vcbkopfz9Ad0CNSc9Wj_Mg&pid=News",
-        "timestamp": 1793394600.0
     }
 ]
