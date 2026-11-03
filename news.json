@@ -217,6 +217,24 @@
         "timestamp": 1793718761.0
     },
     {
+        "id": "6c46d4e8a0",
+        "title_fa": "رکوردشکنی مشارکت احتمالی در انتخابات میان‌دوره‌ای آیووا",
+        "title_en": "Iowa election 2026 updates: Record turnout possible as voting surges",
+        "summary": [
+            "آمارها از احتمال ثبت رکورد جدیدی در میزان مشارکت رای‌دهندگان در ایالت آیووا خبر می‌دهند.",
+            "رقابت‌های کلیدی برای کرسی‌های فرمانداری و کنگره آمریکا، انگیزه شهروندان را برای حضور در پای صندوق‌های رای افزایش داده است."
+        ],
+        "impact": "آزمونی جدی برای سنجش میزان محبوبیت احزاب سیاسی و جهت‌گیری رای‌دهندگان در آستانه تحولات انتخاباتی.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Des Moines Register on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iowa-election-2026-updates-record-turnout-possible-as-voting-surges/ar-AA2gFjN1",
+        "clean_url": "https://www.msn.com/en-us/news/other/iowa-election-2026-updates-record-turnout-possible-as-voting-surges/ar-AA2gFjN1",
+        "image": "http://www.bing.com/th?id=ONUT.wcxb4fS5NwHWLXHKoRYQMA&pid=News",
+        "timestamp": 1793718332.0
+    },
+    {
         "id": "fab2b76594",
         "title_fa": "ترامپ: کمکی به ایـسـراییـل نمی‌کنیم؛ هدفم کشتار نیست",
         "title_en": "Oy verme işlemi sürerken Trump’tan sürpriz karar: İsrail’e 4 milyar dolarlık yardımı durdurdu",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdXZ0TnhEYlZxZ0FJR3VXbVhkR1ltWU91cUZzRnJ4SGMwbjluckJTbTB0X0FjckhveVhEOXJKT21qSWpCaXBOelVvMHBWS0JzMENZVmVpYWFIR0lqNVNOcG1DRi02ZUtLLXlybnlHNXdQNVBYekpkZHl3ZVAxX2FsYTdJOElVVl94Z2V3Y3VJVUh6a0hh0gGaAUFVX3lxTE5OeWZ0V2dIdkc1VkRBTDNVbDcwZVRUMS14XzVnR054ODNVeDBLZkx4X3FQc3YzM1laQkdHaGdTcGt6SVNVbFB4bDFKUjQxOG5neHdocHdlUDRKYktGOG5waG1BVGk4azE5Nm01dmFvMmE5blBhbjNaeS1iclI1aFNnMWZfZDhKbmJlQUVFUzlURC14b3h0cFpLT1E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793442646.0
-    },
-    {
-        "id": "d8a667e617",
-        "title_fa": "حمله پهپادی ناشناس به قایق‌های ماهیگیری در جنوب قشم",
-        "title_en": "Drone attacks fishing boats south of Qeshm Island, Iranian media reports",
-        "summary": [
-            "یک پهپاد متخاصم به دو قایق ماهیگیری در آب‌های جنوب جزیره قشم یورش برد.",
-            "این حمله دو مجروح و دو مفقود برجای گذاشته و رسانه‌های داخلی این خبر را تایید کرده‌اند."
-        ],
-        "impact": "افزایش تنش‌های نظامی در آب‌های خلیج فارس و ناامن شدن خطوط دریایی اطراف جزایر استراتژیک.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/drone-attacks-fishing-boats-south-of-qeshm-island-iranian-media-reports/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/drone-attacks-fishing-boats-south-of-qeshm-island-iranian-media-reports",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793440440.0
     }
 ]
