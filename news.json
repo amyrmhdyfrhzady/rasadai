@@ -1,5 +1,24 @@
 [
     {
+        "id": "f02bb0f446",
+        "title_fa": "ترامپ: ایران دنبال توافق سریع است",
+        "title_en": "Live Updates: Trump says \"Iran wants a settlement\" after Tehran calls on U.S. to make next move",
+        "summary": [
+            "میانجی‌گری‌های پشت پرده قطر برای پایان دادن به درگیری‌ها میان واشنگتن و تهران ادامه دارد اما هنوز به نتیجه ملموسی نرسیده است.",
+            "ترامپ در شبکه اجتماعی خود مدعی شد که رهبران ج.ا به دنبال دستیابی به یک توافق در سریع‌ترین زمان ممکن هستند.",
+            "اختلاف نظر میان کاخ سفید و تل‌آویو پابرجا ست؛ در حالی که ترامپ روی دیپلماسی و مذاکره تمرکز کرده، نتانیاهو به دنبال از سرگیری حملات نظامی است."
+        ],
+        "impact": "آزادسازی فضای تنش یا باز شدن مسیر توافق بسته به تصمیمات نهایی واشنگتن و تل‌آویو.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/5b50364e-0415-4ef6-b5ef-c4459c66b44f/thumbnail/1200x630/77e1482bc12ef3b23dfaad04aba513a2/gettyimages-2302492549.jpg",
+        "timestamp": 1793662320.0
+    },
+    {
         "id": "91828bcccd",
         "title_fa": "گفت‌وگوهای پنهان واشنگتن و تهران برای پایان تنش‌ها",
         "title_en": "Vance says US has had ‘good conversations’ with Iran on finding deal to end conflict",
@@ -5474,25 +5493,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYndBdDNuekh1R1J2djFQSFd1SDJ1TVhKMjFMNnFSNk81c3QwUE5GUzhCTW5IdkZpWENrekppeDdaZVFNdlI3RmNQTzRQUW5xSzZDN1NzQzMxMk5hU3VINXE1bTFfUktUNGRDWGJST1BvZm9zcllPRGVkeDdjdEwxdlR6TUFOdw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793270878.0
-    },
-    {
-        "id": "57d4cb13b5",
-        "title_fa": "نامه مخفیانه برای مذاکره؛ پشت پرده تحرکات واشنگتن با تهران",
-        "title_en": "Iranian army official says adversaries failed to achieve aims in wars",
-        "summary": [
-            "دونالد ترامپ تایید کرد که معاونش برای ارسال کمک‌های پزشکی به دنبال ارتباط با مقامات ارشد جـ.م. بوده است.",
-            "نشریه وال‌استریت ژورنال از نامه ارسالی به محسن رضایی برای احیای میز مذاکره خبر داد.",
-            "واشنگتن هرگونه گفت‌وگو را منوط به عقب‌نشینی تهران از پرونده هسته‌ای کرده است.",
-            "میانجی‌گری قطر در حالی جریان دارد که ارتش اسرائیل و آمریکا آماده پاسخ نظامی در صورت بن‌بست دیپلماتیک هستند."
-        ],
-        "impact": "تلاش‌های دیپلماتیک همزمان با آماده‌سازی برای گزینه نظامی نشان‌دهنده آخرین فرصت‌های تهران پیش از ضربه سخت است.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610291049",
-        "clean_url": "https://www.iranintl.com/en/202610291049",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793269740.0
     }
 ]
