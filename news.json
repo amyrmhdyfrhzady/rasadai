@@ -18,6 +18,24 @@
         "timestamp": 1793685988.0
     },
     {
+        "id": "27b73284d8",
+        "title_fa": "هشدار مستقیم تل‌آویو به بیروت درباره ورود حزب‌الله به جنگ",
+        "title_en": "Israel asks Lebanon to prevent Hezbollah from entering the war if the conflict with Iran resumes - report",
+        "summary": [
+            "اسرائیل از دولت لبنان خواسته مانع ورود حزب‌الله به درگیری در صورت ازسرگیری جنگ با تهران شود.",
+            "تل‌آویو قصد دارد مسئولیت هرگونه تحرک نیابتی را به دوش حکومت مرکزی لبنان بیندازد و جبهه شمالی را پیش از درگیری بزرگ مهار کند."
+        ],
+        "impact": "افزایش فشارهای سیاسی بر دولت بیروت و احتمال احضار دیپلمات‌های لبنانی.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.65,
+        "source": "i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVU5vdUFWekRNeTg4SUp6cHNOUG11Z2g5MHhpVTc3NVU1dW1rdnUwUU9MMDQ4aVlOYWh2UTlVTWw2T054RWtfMGVxMHVZRGU2TnNkaGUwQko4cTZ4Rl9Udkd5TnRFUm1zMldhM3FZM3FveFRKX0U4QlJvTUoxdm9xdjdkUWIwVWcyRTlzQlRSN2JEMFBXM2Q5TWJoeXdJemRKV0szeTI1dWJtRmE4blFsZW1KSDg3cFNNSnJidnVGTlVHSnJBckRGanZnaTRSWkR2Zm5JdW1HXzNZOHkxUUF5czJlR09oNHR5dEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVU5vdUFWekRNeTg4SUp6cHNOUG11Z2g5MHhpVTc3NVU1dW1rdnUwUU9MMDQ4aVlOYWh2UTlVTWw2T054RWtfMGVxMHVZRGU2TnNkaGUwQko4cTZ4Rl9Udkd5TnRFUm1zMldhM3FZM3FveFRKX0U4QlJvTUoxdm9xdjdkUWIwVWcyRTlzQlRSN2JEMFBXM2Q5TWJoeXdJemRKV0szeTI1dWJtRmE4blFsZW1KSDg3cFNNSnJidnVGTlVHSnJBckRGanZnaTRSWkR2Zm5JdW1HXzNZOHkxUUF5czJlR09oNHR5dEE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793685180.0
+    },
+    {
         "id": "159dd286c7",
         "title_fa": "جهش شاخص بورس هند و نوسان قیمت طلا",
         "title_en": "Stock Market Live Updates: Sensex surges over 600 pts, Nifty above 23,600; FMCG, financial stocks rally",
@@ -381,6 +399,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/child-in-new-york-dies-after-contracting-measles-the-state-s-first-such-death-in-30-years/ar-AA2gBYXG",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793652248.0
+    },
+    {
+        "id": "2e1953ae21",
+        "title_fa": "حمله هوایی و محدود آمریکا به جزیره قشم",
+        "title_en": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+        "summary": [
+            "ارتش آمریکا مواضعی را در جزیره قشم هدف حمله قرار داد که واشنگتن آن را «اقدامی دفاعی» نامیده است.",
+            "مقام‌های آمریکایی اعلام کردند در آستانه انتخابات پیش‌رو، برنامه‌ای برای گسترش فوری دامنه جنگ ندارند."
+        ],
+        "impact": "تشدید بی‌سابقه تنش مستقیم نظامی در خلیج فارس و جهش قیمت نفت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793649300.0
     },
     {
         "id": "0a9377a149",
@@ -5460,41 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYdXBBZVZROUhaR3dtUnc0NmZvSHpKZUdfS0EzSzQ5OGxJTWJtNG9EZ3l2Nm9LaDJyVTVTbHE1S0FlZ1FBYXJlb3RNRDFzYzdhUlE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793301458.0
-    },
-    {
-        "id": "c7ff37c6b6",
-        "title_fa": "هشدار درباره تبعات فاجعه‌بار جنگ جدید با ایـ.ـر.ا.ن برای آمریکا",
-        "title_en": "A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast",
-        "summary": [
-            "یک جنگ تازه در منطقه تیر خلاص را به نفوذ و رهبری ایالات متحده در خاورمیانه خواهد زد.",
-            "هزینه‌های راهبردی درگیری نظامی جدید بسیار فراتر از توان مدیریت واشنگتن در منطقه خواهد بود."
-        ],
-        "impact": "محاسبات نظامی آمریکا در قبال تنش‌ها با احتیاط و بازنگری جدی همراه خواهد شد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakh6TWdKek9rSkI1U29sWDJYekFYME5qalBqYi1kRnZ0aHJnOUlRMHI2MlBpUm5uRlhraEFacXFCelZUWmE0TGpLN3RWSkVnVi0yUk5aRnhFQ2NuLUJyckdKR2tPWDBWOTF3NVU3dGxhVHhTZXlrcG03c1JZSXBRaTZ0YXB4em1uaVB2WUFjWVV1ZTd0VTZv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakh6TWdKek9rSkI1U29sWDJYekFYME5qalBqYi1kRnZ0aHJnOUlRMHI2MlBpUm5uRlhraEFacXFCelZUWmE0TGpLN3RWSkVnVi0yUk5aRnhFQ2NuLUJyckdKR2tPWDBWOTF3NVU3dGxhVHhTZXlrcG03c1JZSXBRaTZ0YXB4em1uaVB2WUFjWVV1ZTd0VTZv",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793301065.0
-    },
-    {
-        "id": "c0df408660",
-        "title_fa": "آغاز دور تازه عملیات نظامی علیه شبه‌نظامیان حوثی در یمن",
-        "title_en": "Yemen leader announces new military operations against Iran-backed Houthis",
-        "summary": [
-            "دولت قانونی یمن فاز جدیدی از تدابیر هجومی را برای صدمه زدن به مواضع حوثی‌های وابسته به ح*کومت ایران آغاز کرده است.",
-            "این تشدید فشار نظامی مستقیم می‌تواند خطوط پشتیبانی و پهپادی ارسال‌شده از سوی س*پاه به منطقه را مسدود کند."
-        ],
-        "impact": "افزایش ریسک برای شبکه نیابتی ایران و احتمال تنگ‌تر شدن عرصه بر تحرکات دریایی حوثی‌ها.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW738804102026RP1/",
-        "clean_url": "https://www.reuters.com/video/watch/idRW738804102026RP1",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793298060.0
     }
 ]
