@@ -310,6 +310,25 @@
         "timestamp": 1793642820.0
     },
     {
+        "id": "685537b1ec",
+        "title_fa": "تهدید مستقیم کارمندان شرکت‌های مرتبط با اسرائیل",
+        "title_en": "US Iran War Live Updates: ‘Hands stained with blood’",
+        "summary": [
+            "مسئول فضای سایبری ج.ا کارمندان سه شرکت فناوری را به همکاری با صنایع نظامی اسرائیل متهم کرد.",
+            "او با لحنی تهدیدآمیز از کارمندان خواست فوراً شغل خود را ترک کنند.",
+            "این اظهارات نشان‌دهنده هراس امنیتی دستگاه‌های اطلاعاتی از نفوذ فناوری‌های پیشرفته است."
+        ],
+        "impact": "افزایش فشار امنیتی و ایجاد ارعاب برای متخصصان فناوری داخلی",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-mojtaba-khamenei-saudi-houthi-attack-strait-of-hormuz-oil-tanker-fire-latest-news/liveblog/135472561.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-mojtaba-khamenei-saudi-houthi-attack-strait-of-hormuz-oil-tanker-fire-latest-news/liveblog/135472561.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135472561,width-1280,height-720,imgsize-1436478,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1793641020.0
+    },
+    {
         "id": "72eaa8e446",
         "title_fa": "تقابل سیاسی در اسرائیل؛ آیزنکوت به دنبال ائتلاف",
         "title_en": "As diplomacy inches forward, Iran threatens longer and bigger fight if US resumes war",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://www.telesurtv.net/iran-explosion-incendio-petroleros-estrecho-ormuz",
         "image": "http://www.bing.com/th?id=ONUT._4vMx7IaHgNXkGhrIB63eg&pid=News",
         "timestamp": 1793276460.0
-    },
-    {
-        "id": "d31bd7f9a8",
-        "title_fa": "دور زدن تحریم‌ها؛ ورود دو میلیارد دلار تجهیزات نظامی به ج.ا",
-        "title_en": "Iran imports at least $2 billion in military supplies despite US blockade",
-        "summary": [
-            "شبکه‌ای پنهان شامل بیش از پنج هزار نهاد نظامی، تجهیزات و مواد منفجره وارد کشور کرده‌اند.",
-            "اسناد کشتیرانی نشان می‌دهد این محموله‌ها شامل سوخت موشک، قطعات هواپیما و کامیون‌های سنگین از چین، روسیه و آلمان است."
-        ],
-        "impact": "شکست محاصره دریایی آمریکا و تداوم تولید تسلیحات با وجود فشارهای سنگین.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610290508",
-        "clean_url": "https://www.iranintl.com/en/202610290508",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/819b53a4b43e52114d4dd6fc04bbb94bf2f2e14d-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793276160.0
     }
 ]
