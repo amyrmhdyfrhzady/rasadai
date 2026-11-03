@@ -236,6 +236,24 @@
         "timestamp": 1793717478.3777387
     },
     {
+        "id": "ab6fa9eb4e",
+        "title_fa": "نتایج نظرسنجی‌های صندوق رأی در انتخابات میان‌دوره آمریکا",
+        "title_en": "See CBS News exit poll results for the 2026 midterm elections",
+        "summary": [
+            "بررسی خواسته‌ها و دغدغه‌های اصلی رأی‌دهندگان آمریکایی در انتخابات میان‌دوره‌ای.",
+            "تمرکز رسانه‌ها بر روند آرای عمومی و جهت‌گیری سیاسی جامعه."
+        ],
+        "impact": "آشکار شدن نبض سیاسی و گرایش‌های عمومی رأی‌دهندگان در آستانه تحولات سیاسی آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/see-cbs-news-exit-poll-results-for-the-2026-midterm-elections/ar-AA2gGMMb",
+        "clean_url": "https://www.msn.com/en-us/news/other/see-cbs-news-exit-poll-results-for-the-2026-midterm-elections/ar-AA2gGMMb",
+        "image": "http://www.bing.com/th?id=ONUT.gayjigl4avTrdqGj4SWylA&pid=News",
+        "timestamp": 1793716080.0
+    },
+    {
         "id": "82657854a2",
         "title_fa": "توافق گام‌به‌گام تهران و واشنگتن روی پول‌های بلوکه‌شده و اتمی",
         "title_en": "US-Iran announcement will reportedly be made step by step and simultaneously, Al Araby Al Jadeed reports; Tehran will announce a concession regarding its nuclear program in ...",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUs5UENpTE0wZDRNcWxmeVR6cEk4cXJ1ZmhJT21ycG9EdFRMRXdxMEU3ZS1RUng3RFJQelZTN09ZanBtdUY5V2pFdWliZVZLenNpejc5VEt6YmFYZ2dIUEROV0xDUUZVdmp5aWdILVZfS0RKLUxHOEUxc2l0amhzTE1fTGV4TVHSAYcBQVVfeXFMTnZTUXBPQ2stQm0tdGp2TGVuLWt2V1FUdmthSzdBQy1yTlBZbi0zZzZ3VFJWejl3R2VUR2p4cFdoZmVSbWU3QVRLU3hEbUxlV09uNlFUQ25weTF0YXFfZUJ3N1J0NXJqajdUU3pGSmhKUEZ0cVdYMVVxYm1hdE5Zakh0dXdMSnNR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793439259.0
-    },
-    {
-        "id": "48aa0c4deb",
-        "title_fa": "فلج اقتصادی ای-ران با سقوط آزاد ریال و افت صادرات نفت",
-        "title_en": "Two fishermen missing after drone attack near Iran's Qeshm island, Fars reports",
-        "summary": [
-            "گزارش خزانه‌داری آمریکا از توقف کامل بارگیری نفت و انسداد مسیرهای تجاری خبر می‌دهد.",
-            "نرخ تورم سالانه به حدود نود درصد رسیده و ارزش ریال در بازار آزاد سقوط شدیدی ثبت کرده است.",
-            "مسعود پزشکیان نیز به طور تلویحی اثر مخرب تحریم‌ها بر اقتصاد کشور را اعتراف کرده است."
-        ],
-        "impact": "فشار بی‌سابقه اقتصادی، معیشت شهروندان را بیش از پیش در تنگنا قرار داده است.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610312495",
-        "clean_url": "https://www.iranintl.com/en/202610312495",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/17620cd1a7dab9a549239f447062b4b636bd13c5-800x533.jpg?w=320&h=213&q=90&fit=max&auto=format",
-        "timestamp": 1793439180.0
     }
 ]
