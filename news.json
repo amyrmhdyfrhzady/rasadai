@@ -183,6 +183,24 @@
         "timestamp": 1793703848.0
     },
     {
+        "id": "7e876859a9",
+        "title_fa": "اعتراض رای‌دهندگان خلیج سانفرانسیسکو به بحران گرانی و مالیات‌ها",
+        "title_en": "Bay Area voters express frustrations with cost of living, leadership as they cast ballots",
+        "summary": [
+            "رای‌دهندگان کالیفرنیا همزمان با انتخابات میانه دوره‌ای، نارضایتی عمیق خود را از جهش قیمت مسکن، سوخت و مواد غذایی نشان دادند.",
+            "شهروندان به دلیل نابرابری شدید میان رشد هزینه‌های زندگی و درآمدها، خواهان تغییرات فوری در سیاست‌های اقتصادی شدند."
+        ],
+        "impact": "فشار تورمی و اعتراض به هزینه‌های زندگی، معادلات رای‌دهندگان را به نفع طرح‌های مالیاتی ثروتمندان تغییر داد.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Press Democrat",
+        "url": "https://www.pressdemocrat.com/2026/11/03/bay-area-voters-express-frustrations-with-cost-of-living-leadership-as-they-cast-ballots/",
+        "clean_url": "https://www.pressdemocrat.com/2026/11/03/bay-area-voters-express-frustrations-with-cost-of-living-leadership-as-they-cast-ballots",
+        "image": "http://www.bing.com/th?id=ONUT.pebHw5NE75io2J-DVNRLnA&pid=News",
+        "timestamp": 1793703660.0
+    },
+    {
         "id": "534c707b18",
         "title_fa": "اقتصاد و ایران در صدر دغدغه‌های رای‌دهندگان آمریکایی",
         "title_en": "Affordability, Iran, rank among top issues as voters head to the polls for the midterms",
@@ -5478,24 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793398564.0
-    },
-    {
-        "id": "71c6ea13c3",
-        "title_fa": "تهدید تند ارتش درباره گسترش جنگ در صورت حمله آمریکا",
-        "title_en": "Iran warns fresh US strikes would unleash ‘flames of war’ far beyond current conflict",
-        "summary": [
-            "تهران هشدار داد ماجراجویی نظامی جدید آمریکا و اسرائیل شعله جنگ را در منطقه بسیار فراگیرتر خواهد کرد.",
-            "مقام‌های ارشد نظامی و دیپلماتیک ج.ا در برابر فشارهای خارجی موضع تدافعی تندی اتخاذ کرده‌اند.",
-            "تلاش‌های میانجی‌گرانه قطر هم‌زمان با ارسال پیام‌های پشت پرده برای مهار تنش‌ها ادامه دارد."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی مستقیم و تشدید تنش‌های امنیتی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/middle-east/iran-warns-fresh-us-strikes-would-unleash-flames-of-war-far-beyond-current-conflict",
-        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-warns-fresh-us-strikes-would-unleash-flames-of-war-far-beyond-current-conflict",
-        "image": "http://www.bing.com/th?id=ONUT.MXquu4Z3rvuHmkiYbedEtg&pid=News",
-        "timestamp": 1793398200.0
     }
 ]
