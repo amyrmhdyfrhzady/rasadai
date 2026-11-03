@@ -271,6 +271,24 @@
         "timestamp": 1793718332.0
     },
     {
+        "id": "d0cfd9cbe8",
+        "title_fa": "آغاز پوشش زنده انتخابات کنگره آمریکا توسط ان‌بی‌سی",
+        "title_en": "The battlegrounds our journalists are reporting from",
+        "summary": [
+            "شبکه ان‌بی‌سی نیوز پوشش زنده و سیزده ساعته رقابت‌های انتخاباتی کنگره را آغاز کرد.",
+            "خبرنگاران این رسانه ماه‌هاست وضعیت رای‌دهندگان و روند مبارزات انتخاباتی را در ایالات مختلف زیر ذره‌بین دارند."
+        ],
+        "impact": "این پوشش گسترده نبض سیاسی جامعه آمریکا و جهت‌گیری رای‌دهندگان را به تصویر می‌کشد.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2026-election/battlegrounds-journalists-are-reporting-rcna607299",
+        "clean_url": "https://www.nbcnews.com/politics/2026-election/battlegrounds-journalists-are-reporting-rcna607299",
+        "image": "http://www.bing.com/th?id=ONUT.wleMMWtE-SrzBPmxEKA6Sw&pid=News",
+        "timestamp": 1793718000.0
+    },
+    {
         "id": "fab2b76594",
         "title_fa": "ترامپ: کمکی به ایـسـراییـل نمی‌کنیم؛ هدفم کشتار نیست",
         "title_en": "Oy verme işlemi sürerken Trump’tan sürpriz karar: İsrail’e 4 milyar dolarlık yardımı durdurdu",
@@ -5463,23 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiRHpqS0x5SmJQb3ZZSFpkMXZXS0lVdzl4NTdaWGltUWdRWFpOOU1CbGFXVFNZSnNiZlRyMC1YQ0hGb0NDQjdOSGRQQVJpS2ZqR3ZBLUFhTEhhNnVPUEp5QTlTY0dTTU1wUGlWc29uc1NLeDBS0gF6QVVfeXFMUG4zZG1qRkdIS3diX2R1Qkt2dTIxc2Y1R3E1MG4wSFBVcktzUmRfdXVVRmNTSm44ZjBIZ01fbWpCVF84LXpPd29RSjIzMmMxcVh0WlhUWld6N1RNRGEzTWtPcHhmWWczMEVNY2ktamdrdXd3QjYtZG5HLVE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793448672.0
-    },
-    {
-        "id": "4134ed117e",
-        "title_fa": "خط و نشان مقام اول حاکمیت برای آمریکا و اسرائیل",
-        "title_en": "Iran’s supreme leader warns US, Israel against new attacks",
-        "summary": [
-            "رهبر ج.م در اظهاراتی به آمریکا و اسرائیل درباره انجام هرگونه حمله جدید هشدار داد.",
-            "این موضع‌گیری در راستای تلاش برای بازدارندگی در برابر تهدیدات نظامی اخیر مطرح شد."
-        ],
-        "impact": "بالا گرفتن جنگ لفظی و افزایش سایه تنش نظامی بر منطقه",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The New Arab",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclB3emJBUlRyclJKcDVhbXRjUU1RU0M1NmdEN19FYUhoMS03QXlGYmJ0QmZ4TGRLV1cxeFNHZXZzaEhWZ1FmRzVmeE5EQWtvcnlUc0thalVvdEU1Z1lQUGVEOFFDN2RKNGNqemF1Wmk4c2FZUWxiVE9NaWFTUzUzeXFoT091c3FZTncyN2JR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclB3emJBUlRyclJKcDVhbXRjUU1RU0M1NmdEN19FYUhoMS03QXlGYmJ0QmZ4TGRLV1cxeFNHZXZzaEhWZ1FmRzVmeE5EQWtvcnlUc0thalVvdEU1Z1lQUGVEOFFDN2RKNGNqemF1Wmk4c2FZUWxiVE9NaWFTUzUzeXFoT091c3FZTncyN2JR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793448153.0
     }
 ]
