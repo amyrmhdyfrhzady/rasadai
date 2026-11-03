@@ -1,5 +1,24 @@
 [
     {
+        "id": "fab2b76594",
+        "title_fa": "ترامپ: کمکی به ایـسـراییـل نمی‌کنیم؛ هدفم کشتار نیست",
+        "title_en": "Oy verme işlemi sürerken Trump’tan sürpriz karar: İsrail’e 4 milyar dolarlık yardımı durdurdu",
+        "summary": [
+            "دونالد ترامپ اعلام کرد بسته کمک چهار میلیارد دلاری به ایـسـراییـل تا پایان سال متوقف می‌شود.",
+            "او تاکید کرد ایـسـراییـل کشوری پیشرفته است و دیگر نیازی به این کمک‌های مالی ندارد.",
+            "ترامپ درباره جـمـهـووری اسـلامـی گفت قصد کشتار ندارد اما در صورت اجبار دست به اقدام خواهد زد."
+        ],
+        "impact": "توقف کمک‌های مالی آمریکا معادله‌های نظامی و سیاسی منطقه را وارد فاز تازه‌ای می‌کند.",
+        "tag": "آمریکا",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "Sözcü Gazetesi",
+        "url": "https://www.sozcu.com.tr/oy-verme-islemi-surerken-trumptan-surpriz-karar-israile-4-milyar-dolarlik-yardimi-durdurdu-p375689",
+        "clean_url": "https://www.sozcu.com.tr/oy-verme-islemi-surerken-trumptan-surpriz-karar-israile-4-milyar-dolarlik-yardimi-durdurdu-p375689",
+        "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/trumptan-secim-sonuclari-icin-dikkat-ceken-sartjpg-8Z7pzyf1s06yiYGD006ihA.jpg?w=1270&h=675&mode=crop&scale=both",
+        "timestamp": 1793717478.3777387
+    },
+    {
         "id": "63a3a6f0ab",
         "title_fa": "پوشش لحظه‌ای تنش‌ها و ریسک درگیری مستقیم با ایـرآن",
         "title_en": "Iran War: Latest News, Live Coverage and Video",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/the-trump-administration-just-did-the-unthinkable-they-wrote-a-letter-to-iran-to-try-and-stop-the-war-and-get-a-deal/ar-AA2gq7BW",
         "image": "http://www.bing.com/th?id=ONUT.OR8mg1F9G6HDd2wAC3Dr9w&pid=News",
         "timestamp": 1793341333.0
-    },
-    {
-        "id": "8b0e8cf15f",
-        "title_fa": "تأیید دریافت نامه از جبهه مقابل درباره مذاکره",
-        "title_en": "Iran Confirms Receiving Vance Letter Seeking Renewed Talks, Says No Response Yet - Report",
-        "summary": [
-            "مقام های تـهـران دریافت نامه از سمت جی.دی ونس برای باز کردن دوباره مسیر گفت وگو را تأیید کردند.",
-            "هنوز هیچ پاسخ رسمی و روشنی به این پیشنهاد داده نشده و شرایط در هاله‌ای از ابهام است."
-        ],
-        "impact": "این تحول دیپلماتیک نشان‌دهنده تلاش برای سنجش پالس‌های سیاسی دو طرف در پشت پرده است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEs2NDdBcmd4RzVfZVR5UlF5U3p4dXJVMTEzdmxhTTdvREwxSF9wNFN6WmtCUzJqQThsb2JSVDh1V3BBbVdzSWVaSENweEtoMEgzck53MElONEpWeHFMcWEyZXVoUlg2UWxzdFdzb3FMdHo0aGpBZDlNRHNqb0owa1dQLVZNVlFyQ1BScjZ6SE9CTnU1NVJsVGNuSFV0UlBMVEgzSXV0aktLYzk2SDVyQzFaTVp3MTZBbFlmYkU2UWstaXBSaTBlRmlpUGtjUk55Qnp0M054YklKQXFtWEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEs2NDdBcmd4RzVfZVR5UlF5U3p4dXJVMTEzdmxhTTdvREwxSF9wNFN6WmtCUzJqQThsb2JSVDh1V3BBbVdzSWVaSENweEtoMEgzck53MElONEpWeHFMcWEyZXVoUlg2UWxzdFdzb3FMdHo0aGpBZDlNRHNqb0owa1dQLVZNVlFyQ1BScjZ6SE9CTnU1NVJsVGNuSFV0UlBMVEgzSXV0aktLYzk2SDVyQzFaTVp3MTZBbFlmYkU2UWstaXBSaTBlRmlpUGtjUk55Qnp0M054YklKQXFtWEE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793341020.0
     }
 ]
