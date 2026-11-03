@@ -729,6 +729,24 @@
         "timestamp": 1793675880.0
     },
     {
+        "id": "7f0334a4b8",
+        "title_fa": "رکوردشکنی قیمت بنزین در روز انتخابات آمریکا",
+        "title_en": "Gas prices for 11/03/26: Gas has never been more expensive on Election Day",
+        "summary": [
+            "بهای سوخت در روز برگزاری انتخابات به بالاترین میزان تاریخی خود رسید.",
+            "با وجود افت مقطعی قیمت‌ها در روزهای اخیر، فشار تورمی همچنان روی دوش مصرف‌کنندگان سنگینی می‌کند."
+        ],
+        "impact": "افزایش نارضایتی عمومی از وضعیت اقتصادی و چالش جدی برای حزب حاکم در صندوق‌های رای.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "mlive",
+        "url": "https://www.mlive.com/news/2026/11/gas-prices-for-110326-gas-has-never-been-more-expensive-on-election-day.html",
+        "clean_url": "https://www.mlive.com/news/2026/11/gas-prices-for-110326-gas-has-never-been-more-expensive-on-election-day.html",
+        "image": "http://www.bing.com/th?id=ONUT.zfJ9AU5ujVuvYI_hLYTcCA&pid=News",
+        "timestamp": 1793675520.0
+    },
+    {
         "id": "e282c00427",
         "title_fa": "تغییر مهره‌های مذاکراتی ج.ا در سایه انزوای قالیباف",
         "title_en": "IRGC representative visits southern Iran missile tunnels",
@@ -5479,24 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR09XaDFpNHQtVnkwb0VubmpvMDdoNlk5QnZUNEFkZkZTSEstUDNLVkQzWWpMZndJbi1VcHhNUEcxTE1mY1MxdUdWTmdpR05CSFI3TEg3cXI5V3ZjVEN6Rkhmc2pqZE5CcXhPMDA3SjhmcGRwWG9oWWZ3M2R0VnZnTjNfMFRqVzJnZjJMSm45NnVGdC1WekRPUmhPUE9GOGJEZllqNGctdTdLSHdzVmdRTkpjcHhUc0k",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793377132.0
-    },
-    {
-        "id": "d299c732d5",
-        "title_fa": "بن‌بست سیاسی در اسرائیل با تثبیت کرسی‌های کنست",
-        "title_en": "Israel: the final vote count for the 26th Knesset and the battle for government",
-        "summary": [
-            "شمارش نهایی آرای کنست بیست‌وششم تساوی بلوک‌ها را تثبیت کرد.",
-            "ائتلاف به رهبری بنیامین نتانیاهو ۵۳ کرسی و اپوزیسیون ۴۸ کرسی به دست آورد.",
-            "احزاب عربی با کسب ۱۹ کرسی نقش کلیدی در معادلات تشکیل کابینه دارند."
-        ],
-        "impact": "آرایش جدید پارلمان اسرائیل، روند تشکیل دولت آینده را با چالش و پیچیدگی جدی مواجه کرده است.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Atalayar",
-        "url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/israel-the-final-vote-count-for-the-26th-knesset-and-the-battle-for-government/20261030141354230182.html",
-        "clean_url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/israel-the-final-vote-count-for-the-26th-knesset-and-the-battle-for-government/20261030141354230182.html",
-        "image": "https://www.atalayar.com/asset/thumbnail,300,169,center,center/media/atalayar/images/2026/10/28/2026102813254689056.webp",
-        "timestamp": 1793376000.0
     }
 ]
