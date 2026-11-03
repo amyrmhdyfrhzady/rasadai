@@ -473,6 +473,24 @@
         "timestamp": 1793671712.0
     },
     {
+        "id": "8372f1b9c6",
+        "title_fa": "حمله تند هیلاری کلینتون به ترامپ در آستانه انتخابات",
+        "title_en": "Hillary Clinton Was Asked How Donald Trump Has Changed Since 2016 And Did Not Hold Back",
+        "summary": [
+            "هیلاری کلینتون در مصاحبه‌ای اعلام کرد ترامپ نسبت به سال ۲۰۱۶ کاملاً کنترل خود را از دست داده و بدون مهار عمل می‌کند.",
+            "او اشاره کرد که ترامپ برخلاف گذشته دیگر هیچ فردی را در اطراف خود ندارد که بتواند جلوی تصمیمات او بایستد."
+        ],
+        "impact": "تشدید تنش‌های سیاسی میان دموکرات‌ها و جمهوری‌خواهان در آستانه برگزاری انتخابات میان‌دوره‌ای.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/hillary-clinton-donald-trump-2026-midterms-10-years_n_6ae986b2e4b0816eae60f544",
+        "clean_url": "https://www.huffpost.com/entry/hillary-clinton-donald-trump-2026-midterms-10-years_n_6ae986b2e4b0816eae60f544",
+        "image": "https://img.huffingtonpost.com/asset/6ae9a2da140000be34e01f96.jpeg?cache=W9n4YML8a5&ops=500_281%2Cscalefit_1200_630",
+        "timestamp": 1793668200.0
+    },
+    {
         "id": "8ff6919b8b",
         "title_fa": "سیگنال ترامپ برای توافق با ج.م.ا همزمان با فشار تهران",
         "title_en": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/5000-secret-agencies-2-billion-in-arms-supplies-how-iran-bypassed-western-sanctions/ar-AA2gpPNX",
         "image": "http://www.bing.com/th?id=ONUT.mek4Z3VguXWXK5AHQtQbyQ&pid=News",
         "timestamp": 1793337458.0
-    },
-    {
-        "id": "30e161fb60",
-        "title_fa": "سناریوهای خطرناک؛ جنگ با ج.ا چگونه بالا می‌گیرد؟",
-        "title_en": "How the War in Iran Could Escalate",
-        "summary": [
-            "بررسی‌ها نشان می‌دهد تنش‌های جاری ظرفیت تبدیل شدن به یک درگیری فراگیر و تمام‌عیار را دارد.",
-            "هرگونه خطای محاسباتی از سوی تهران می‌تواند واکنش کوبنده و مستقیم ائتلاف بین‌المللی را به دنبال داشته باشد."
-        ],
-        "impact": "افزایش احتمال درگیری نظامی مستقیم و ورود بحران به فاز جدیدی از بی‌ثباتی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Asociación Almendrón",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51SU1lcXNIN2VJdzllYmpxNTR4Y3ZnM0xPS0JrM29YOVNIMlZFUG1iYXJETnFGZVBDTlJhcVM3Unh4WXczM252WlR1YjJNTjYycUhtRWQ5Uk1MRElzM0l2em9DaUZpMHBPMXdyaEhqTTREMERqcWZBbA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51SU1lcXNIN2VJdzllYmpxNTR4Y3ZnM0xPS0JrM29YOVNIMlZFUG1iYXJETnFGZVBDTlJhcVM3Unh4WXczM252WlR1YjJNTjYycUhtRWQ5Uk1MRElzM0l2em9DaUZpMHBPMXdyaEhqTTREMERqcWZBbA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793337122.0
     }
 ]
