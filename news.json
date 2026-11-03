@@ -236,6 +236,61 @@
         "timestamp": 1793714400.0
     },
     {
+        "id": "eec3319f87",
+        "title_fa": "وال‌استریت در انتظار نتایج انتخابات میان‌دوره‌ای آمریکا",
+        "title_en": "Update: Wall Street Closes Mixed Ahead of Midterm Election Results",
+        "summary": [
+            "بازارهای مالی ایالات متحده روز سه‌شنبه را با نوسانات مختلط به پایان رساندند و سرمایه‌گذاران چشم‌انتظار نتایج آرای کنگره هستند.",
+            "ترکیب آینده کنگره تعیین‌کننده سیاست‌های مالیاتی، هزینه‌های دولتی و قوانین اقتصادی در نیمه دوم دور دوم ریاست‌جمهوری دونالد ترامپ خواهد بود.",
+            "دموکرات‌ها شانس بالایی برای تصاحب مجلس نمایندگان دارند، در حالی که وضعیت سنا همچنان مبهم است."
+        ],
+        "impact": "نتیجه انتخابات کنگره جهت‌گیری آینده بازارهای سرمایه و اقتصاد کلان آمریکا را مشخص می‌کند.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": 0.0,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-closes-mixed-ahead-213229051.html",
+        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-closes-mixed-ahead-213229051.html",
+        "image": "http://www.bing.com/th?id=ONUT.KK3PwrpzQeXaDfBGd8bgwQ&pid=News",
+        "timestamp": 1793712780.0
+    },
+    {
+        "id": "a3fa1c2fd3",
+        "title_fa": "اختلال در دستگاه‌های رای‌گیری نیویورک و معطلی آرا",
+        "title_en": "Lawler speaks with CNN as New York voting machine problem impacts up to 250,000 ballots",
+        "summary": [
+            "نقص فنی در دستگاه‌های رای‌گیری نیویورک دست‌کم دویست و پنجاه هزار رأی را در وستچستر تحت تأثیر قرار داد.",
+            "برگه آرای اضطراری با اسکورت پلیس و نظارت دوحزبی به مراکز شمارش منتقل شدند."
+        ],
+        "impact": "مشکلات فنی در فرآیند رأی‌گیری چالش‌های اجرایی انتخابات را برجسته کرد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/03/politics/video/westchester-county-new-york-emergency-ballots-digvid",
+        "clean_url": "https://www.cnn.com/2026/11/03/politics/video/westchester-county-new-york-emergency-ballots-digvid",
+        "image": "http://www.bing.com/th?id=ONUT.4mTU32xhyYj1WSP0v_eY-w&pid=News",
+        "timestamp": 1793712240.0
+    },
+    {
+        "id": "baaf4105e2",
+        "title_fa": "هشدار درباره تبعات مرگ نظامیان آمریکایی بر جایگاه جی‌اوپی",
+        "title_en": "American deaths in Iran war could harm GOP at the polls, former State Department official says",
+        "summary": [
+            "تلفات احتمالی ارتش آمریکا در درگیری با ج.ا می‌تواند پایگاه رای جمهوری‌خواهان را در انتخابات میان‌دوره‌ای با چالش جدی مواجه کند.",
+            "مقامات سابق وزارت خارجه آمریکا نسبت به بازخوردهای منفی تلفات جانی در جنگ احتمالی هشدار دادند."
+        ],
+        "impact": "هزینه انسانی درگیری‌های نظامی مستقیماً معادلات سیاسی داخلی آمریکا را تحت تأثیر قرار می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "The Mirror US on MSN",
+        "url": "https://www.msn.com/en-us/news/other/american-deaths-in-iran-war-could-harm-gop-at-the-polls-former-state-department-official-says/ar-AA2gGdMw",
+        "clean_url": "https://www.msn.com/en-us/news/other/american-deaths-in-iran-war-could-harm-gop-at-the-polls-former-state-department-official-says/ar-AA2gGdMw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793712051.0
+    },
+    {
         "id": "ad89953c75",
         "title_fa": "آمادگی ارتش آمریکا برای درگیری نظامی با جمهوری اسلامی",
         "title_en": "CENTCOM prepared for renewed Iran war as Americans head to polls",
@@ -1051,6 +1106,24 @@
         "clean_url": "https://www.pressdemocrat.com/2026/11/03/texas-senate-midterms-paxton-talarico",
         "image": "http://www.bing.com/th?id=ONUT.sh-JThds7yVF7rwbjqu_EQ&pid=News",
         "timestamp": 1793688600.0
+    },
+    {
+        "id": "eec43bb16d",
+        "title_fa": "رقابت سرنوشت‌ساز برای کنترل سنا در میشیگان",
+        "title_en": "Rogers vs. El-Sayed: What to watch in Michigan’s U.S. Senate race",
+        "summary": [
+            "انتخابات سنا در میشیگان به دلیل رقابت فشرده و احتمال رکوردشکنی تاریخی توجه رسانه‌ها را به خود جلب کرده است.",
+            "نتیجه این رقابت می‌تواند توازن قوا و کنترل نهایی بر مجلس سنای آمریکا را تغییر دهد."
+        ],
+        "impact": "تعیین تکلیف کرسی‌های سنا نقشه سیاسی ایالات متحده را برای سال‌های آینده بازطراحی می‌کند.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/11/rogers-vs-el-sayed-what-to-watch-in-michigans-us-senate-race.html",
+        "clean_url": "https://www.mlive.com/politics/2026/11/rogers-vs-el-sayed-what-to-watch-in-michigans-us-senate-race.html",
+        "image": "http://www.bing.com/th?id=ONUT.7GZUxNCMaa3Htvc69Zd_xw&pid=News",
+        "timestamp": 1793688420.0
     },
     {
         "id": "51effaf2a7",
@@ -5417,79 +5490,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793428860.0
-    },
-    {
-        "id": "61847c9a52",
-        "title_fa": "تهدید اروپا توسط مقام ارشد امنیتی ایران",
-        "title_en": "Iran’s top security official to Europe: War and terror come at a price; you are now paying the bill",
-        "summary": [
-            "تهدید آشکار کشورهای اروپایی درباره هزینه‌های امنیتی سیاست‌های منطقه‌ای",
-            "تلاش دستگاه امنیتی برای فرافکنی بحران‌های داخلی به سمت غرب"
-        ],
-        "impact": "افزایش تنش دیپلماتیک میان تهران و پایتخت‌های اروپایی",
-        "tag": "امنیتی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "خبرگزاری بین المللی قدس",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vRjRITVNCanhwYlZSbEhUT0VZTjVIMmgwOURQSHRNT1NVQUR1MVEwZ2FaM2Y0ZF81NjR6TkRGVG8xZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vRjRITVNCanhwYlZSbEhUT0VZTjVIMmgwOURQSHRNT1NVQUR1MVEwZ2FaM2Y0ZF81NjR6TkRGVG8xZw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793426290.0
-    },
-    {
-        "id": "3d5b4269a6",
-        "title_fa": "دستور مجتبی خامنه‌ای برای پاسخ نظامی بدون مرز",
-        "title_en": "Iran's Mojtaba Khamenei orders geographically unrestricted military response to threats",
-        "summary": [
-            "مجتبی خامنه‌ای فرمان پاسخ نظامی بدون محدودیت جغرافیایی به تهدیدات جدید را صادر کرد.",
-            "این موضع تند نشان‌دهنده تلاش برای بالا بردن هزینه اقدامات علیه منابق ج-ه-م-و-ر-ی ا-س-لا-م-ی است."
-        ],
-        "impact": "افزایش احتمال درگیری‌های ناخواسته و تنش نظامی در سطح منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Khaleej Times on MSN",
-        "url": "https://www.msn.com/en-ae/news/other/iran-s-mojtaba-khamenei-orders-geographically-unrestricted-military-response-to-threats/ar-AA2gtJgE",
-        "clean_url": "https://www.msn.com/en-ae/news/other/iran-s-mojtaba-khamenei-orders-geographically-unrestricted-military-response-to-threats/ar-AA2gtJgE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793425430.0
-    },
-    {
-        "id": "383e137249",
-        "title_fa": "فشار نمایندگان برای خروج از ان‌پی‌تی همزمان با وعده ترامپ درباره پایان جنگ",
-        "title_en": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-        "summary": [
-            "گروهی از نمایندگان مجلس خواستار خروج کشور از معاهده منع گسترش سلاح‌های هسته‌ای شدند.",
-            "دونالد ترامپ تاکید کرده است که پرونده درگیری با ایران به زودی بسته خواهد شد و اجازه دسترسی به سلاح اتمی داده نمی‌شود.",
-            "میانجی‌گران قطری برای برقراری تماس‌های دیپلماتیک راهی تهران شده‌اند.",
-            "شرط اصلی تهران برای از سرگیری مذاکرات، لغو تحریم‌ها، رفع محاصره دریایی و تضمین‌های امنیتی است."
-        ],
-        "impact": "تشدید بن‌بست هسته‌ای و بالا رفتن احتمال تصمیم1های رادیکال از سوی مجلس.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-lawmakers-call-withdrawal-npt-122245557.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-lawmakers-call-withdrawal-npt-122245557.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/13606dfcc1a5960316e8f1523a73a0cf7f604418798e8a27271058a93a253045/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fda0e7efafab2151886f95498874702df.jpg",
-        "timestamp": 1793424120.0
-    },
-    {
-        "id": "d63b097f5a",
-        "title_fa": "چرخش رهبران منطقه به سمت اروپا همزمان با سیاست‌های ترامپ",
-        "title_en": "As Trump blows up the Mideast, regional leaders look to Europe",
-        "summary": [
-            "بازگشت ترامپ به قدرت و رویکرد تهاجمی او در خاورمیانه، معادلات امنیتی بازیگران منطقه‌ای را به هم ریخته است.",
-            "کشورهای منطقه به دنبال ایجاد توازن و شرکای جایگزین در اروپا هستند تا پیامدهای تنش‌های واشنگتن را مدیریت کنند."
-        ],
-        "impact": "افزایش تلاش دیپلماتیک بازیگران خاورمیانه برای دور شدن از خطرات سیاست‌های جبهه‌گیرانه آمریکا.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CMHp3X2x3WFRINUtFenljNXVIUnluOGxjWWdoUXFaWHVSX2NId3EzYmpfeDhvZk9lZnMyZ1FmODQ0eEpiZXNicEMyYjlHdE85NVB1bVdpbVZRR2tyRU9z?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CMHp3X2x3WFRINUtFenljNXVIUnluOGxjWWdoUXFaWHVSX2NId3EzYmpfeDhvZk9lZnMyZ1FmODQ0eEpiZXNicEMyYjlHdE85NVB1bVdpbVZRR2tyRU9z",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793423700.0
     }
 ]
