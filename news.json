@@ -272,6 +272,24 @@
         "timestamp": 1793714066.0
     },
     {
+        "id": "be95223d30",
+        "title_fa": "خطر سیاسی بیخ گوش ایلان ماسک و غول‌های فناوری آمریکا",
+        "title_en": "These 6 executives have a lot on the line in midterms",
+        "summary": [
+            "تغییر موازنه قدرت در کنگره آمریکا مدیران ارشد فناوری مانند ایلان ماسک و جنسن هوانگ را در معرض چالش‌های جدی نظارتی و سیاسی قرار داده است.",
+            "پیروزی دموکرات‌ها می‌تواند تحقیقات گسترده‌ای درباره نقش ایلان ماسک در نهادهای دولتی و قراردادهای اسپیس‌ایکس کلید بزند."
+        ],
+        "impact": "تغییرات کنگره می‌تواند ثبات پروژه‌های کلیدی فناوری و تنظیم‌گری هوش مصنوعی در آمریکا را دستخوش دگرگونی کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/6-executives-lot-line-midterms-215506427.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/6-executives-lot-line-midterms-215506427.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/6ebe50ae4c045f44e76431b2c364313d249bfd7e238f1cdac7ba238f7974f9ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faxios_527%2F765b6066b558ea8fb7df6c1eae20f9cd.jpg",
+        "timestamp": 1793714040.0
+    },
+    {
         "id": "d0d0c59193",
         "title_fa": "هشدار پدرخوانده هوش مصنوعی درباره آینده بشر",
         "title_en": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
@@ -5466,24 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGthZWlXU2VKc3Q2MWI1aVd2cllKRnlCRkdYUnIzYVQwRmxRaHYwMGVTcEhKcjNWMWdsSG9vUDFldkEtYVZ4dDlQZVhlVWdMNVVaa296MC1DS1N1M1BmbksxM3J4MURnUjRPbmplc05GMFdyV2RHRk1Pdjl0N1JEVXlXbWVRVlE0QVdZNEs1elo5NEhrUUdvUGZOT1Vzajk0ODlEZ3M2SzkxQU1YSVI0TFlLUVM1Y2p0T1hGZFlENDItNnZpel9vcWVtNWVPUmsxc0Q4XzhiYWY4VDFEMUV1YTdyZHg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793436681.0
-    },
-    {
-        "id": "a337304f31",
-        "title_fa": "فشار اقتصادی خردکننده و اعتراف پزشکیان به اثر تحریم‌ها",
-        "title_en": "Iran says it is ready for major military response to any new attack",
-        "summary": [
-            "گزارش وزارت خزانه‌داری آمریکا نشان می‌دهد صادر نکردن نفت از اواخر مرداد و محدودیت‌های بانکی و هوایی، فشار سنگینی بر جـ.ـهـ.ـوری اسـ.ـلامـ.ـی وارد کرده است.",
-            "نرخ دلار در بازار آزاد به مرز ۲ میلیون و ۶۸۷ هزار تومان رسیده و تورم سالانه از مرز ۹۰ درصد عبور کرده است.",
-            "مسعود پزشکیان خود به صراحت اعتراف کرده که برخلاف ادعای تندروها، تحریم‌ها اثرات ویرانگری بر اقتصاد گذاشته‌اند."
-        ],
-        "impact": "فلج شدن مسیرهای تجاری و سقوط آزاد ارزش ریال زیر ضربات فشار حداکثری.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610311187",
-        "clean_url": "https://www.iranintl.com/en/202610311187",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/17620cd1a7dab9a549239f447062b4b636bd13c5-800x533.jpg?w=576&h=384&q=90&fit=max&auto=format",
-        "timestamp": 1793435160.0
     }
 ]
