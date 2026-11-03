@@ -183,6 +183,24 @@
         "timestamp": 1793703848.0
     },
     {
+        "id": "534c707b18",
+        "title_fa": "اقتصاد و ایران در صدر دغدغه‌های رای‌دهندگان آمریکایی",
+        "title_en": "Affordability, Iran, rank among top issues as voters head to the polls for the midterms",
+        "summary": [
+            "هزینه‌های زندگی و معیشت، دغدغه اصلی نزدیک به نیمی از رای‌دهندگان در انتخابات میان‌دوره است.",
+            "موضوعاتی مثل سیاست خارجی در قبال ایران در کنار مسائل اقتصادی نقش تعیین‌کننده‌ای در صندوق‌های رای دارد."
+        ],
+        "impact": "نتایج این انتخابات می‌تواند جهت‌گیری دولت آمریکا در اعمال فشارهای اقتصادی و دیپلماتیک را تغییر دهد.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "MSN",
+        "url": "https://www.msn.com/en-us/news/other/affordability-iran-rank-among-top-issues-as-voters-head-to-the-polls-for-the-midterms/ar-AA2gGba5",
+        "clean_url": "https://www.msn.com/en-us/news/other/affordability-iran-rank-among-top-issues-as-voters-head-to-the-polls-for-the-midterms/ar-AA2gGba5",
+        "image": "http://www.bing.com/th?id=ONUT.l629qo2aQrlsswcoY-bPSA&pid=News",
+        "timestamp": 1793703540.0
+    },
+    {
         "id": "d4cef3159f",
         "title_fa": "پکن در خط مقدم دیپلماسی برای مهار درگیری واشنگتن و تـهـران",
         "title_en": "Beijing launches diplomatic flurry amid threat of renewed U.S. war with Iran",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjhxaG51Q0FqeURONzk4NzZaNV9UbHViRkkzV1k3LV9vb08tZXprV2pXSHRFc1hQNWw3QmQ3dEl2N2MwZk5CRDBkSmhqS3lFS3JrWEg4dXdmSlNZLWpPMXZ0TXg3UlNNeThUd09MUWZTQ2VvY192UDF5Q1NvbEljX3pEM21CZ9IBmgFBVV95cUxNaUwzbC1aSXhYNFptYWdSa0xULTViMDN0OXRpTzNtcnBCUWlNcmc3MW4yNENNcWQ2T3NsYmstdjRUZlgzbXpmSXZpN0U0MmdrRHctc1A2RkVwdDFfR3AyemFQYnE2X0J4MEZJVUV0SE5PQW1xeXIzQ0VwM0IyQ1BpTmJBT1JjclFGbGpmOGduelE5cEdmbTRWZmt3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793398020.0
-    },
-    {
-        "id": "2d4ed9462d",
-        "title_fa": "لاوروف: هیچ تغییر واقعی در روابط مسکو و واشنگتن رخ نداده است",
-        "title_en": "Lavrov sees no real shifts in Russia-US relations",
-        "summary": [
-            "وزیر خارجه روسیه آب پاکی را روی دست توهمات درباره بهبود روابط با آمریکا ریخت.",
-            "مسکو همچنان مشکلات عمیق و حل‌نشده‌ای با کاخ سفید دارد."
-        ],
-        "impact": "تداوم تنش‌های سرد بین مسکو و واشنگتن بدون افق گشایش دیپلماتیک.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2211247",
-        "clean_url": "https://tass.com/politics/2211247",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261031/1491581.jpg",
-        "timestamp": 1793395860.0
     }
 ]
