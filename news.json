@@ -128,6 +128,42 @@
         "timestamp": 1793691669.0
     },
     {
+        "id": "02f37c68d0",
+        "title_fa": "رقابت نفس‌گیر سنا در میشیگان",
+        "title_en": "Progressive Abdul El-Sayed and Republican Mike Rogers duel for key Michigan Senate seat",
+        "summary": [
+            "عبدال السید، نامزد ترقی‌خواه و مایک راجرز، نامزد جمهوری‌خواه برای تعیین سرنوشت سنا به رقابت پرداختند.",
+            "اختلافات عمیق بر سر سیاست‌های خاورمیانه و حمایت از اسرائیل فضای انتخابات این ایالت کلیدی را تحت تاثیر قرار داد."
+        ],
+        "impact": "تعیین توازن قوا در سنای آمریکا متاثر از رقابت فشرده در میشیگان.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Orlando Sentinel",
+        "url": "https://www.orlandosentinel.com/2026/11/03/michigan-senate-midterms-el-sayed-rogers/",
+        "clean_url": "https://www.orlandosentinel.com/2026/11/03/michigan-senate-midterms-el-sayed-rogers",
+        "image": "http://www.bing.com/th?id=ONUT.Q00UwG2S9TJrg-dv7FPdfA&pid=News",
+        "timestamp": 1793691540.0
+    },
+    {
+        "id": "fea7ec56b6",
+        "title_fa": "افت سهام اپل و نوسان در وال‌استریت",
+        "title_en": "Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow",
+        "summary": [
+            "سهام اپل همزمان با افت کلی بازار سقوط کرد اما رشد شرکت‌های بزرگ تکنولوژی خسارت‌ها را جبران کرد.",
+            "نگرانی از رشد بیش از حد قیمت سهام هوش مصنوعی بازار را ناپایدار کرده است."
+        ],
+        "impact": "تداوم نوسانات در بازارهای مالی آمریکا به دلیل حباب بخش هوش مصنوعی.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/11/03/apple-drops-with-most-of-wall-street-tech-gains/",
+        "clean_url": "https://www.chicagotribune.com/2026/11/03/apple-drops-with-most-of-wall-street-tech-gains",
+        "image": "http://www.bing.com/th?id=ONUT.GGM8AKHJ85tchrz2MQANEQ&pid=News",
+        "timestamp": 1793691420.0
+    },
+    {
         "id": "7ce1a8d714",
         "title_fa": "خیز دموکرات‌ها برای پیروزی در انتخابات میادین کلیدی",
         "title_en": "Democrats poised for midterm gains, but how big?",
@@ -727,6 +763,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeUhiN1hZWE5IV1RnLUU2REViakoxWGVJb0pWNWRkQUtSWGtDMFdXYV82QTNMYWdiekNBdE5oeE9vRUdkTVI5eGVoaG1jeWJHd1cxNjUzejc1VkdFVTFYT2R1Yk93VzI1Z1Zpa3BDZENjbm11dmgyNFJTNEl4SjhVVUZXYko3UGxZR09zODd3eXRYTzZ4dGU4eERzWUtBZ0JhYkRVZzRqaFU2NlR2Mnd5Q2xNUDFkSldzZVE4OFRseGd2RUt6eEtLb2dEZy1LYmZjT0FQZVppVE93SFZF",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793671712.0
+    },
+    {
+        "id": "a483e46ca9",
+        "title_fa": "هم‌نظر شدن بوتیجیج و رئیس مجلس نمایندگان",
+        "title_en": "Buttigieg agrees with top Republican: This is what’s at stake in midterms",
+        "summary": [
+            "پیت بوتیجیج اعلام کرد با مایک جانسون درباره اهمیت سرنوشت‌ساز انتخابات میترم هم‌نظر است."
+        ],
+        "impact": "تمرکز رهبران دو حزب بر اهمیت حیاتی انتخابات میترم.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/11/buttigieg-agrees-with-top-republican-this-is-whats-at-stake-in-midterms.html",
+        "clean_url": "https://www.mlive.com/politics/2026/11/buttigieg-agrees-with-top-republican-this-is-whats-at-stake-in-midterms.html",
+        "image": "http://www.bing.com/th?id=ONUT.1hJ8ov5tpZh9-PfXqTTHhQ&pid=News",
+        "timestamp": 1793671140.0
     },
     {
         "id": "3c6fa8ab38",
@@ -5443,60 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONlFHT1QtaVZLYW9hMGd2SVVJOS1HN29HVHhMNDU1RlA4M3ctd0tpZy1PcERpd1oxUlVwcHdfOGFtNi12eFVkXzBGUmxDd2JVRDE3OUFQU01mNXRfLUV1YTZCV3ZQRi1JOHZxTHNGTmhGZDBscmdRdUNQM3NXd1VTaHpoVzF6S1FJbEpHV2dPUkdYcFAtbFN1S0FnM2FTXzJFZExQVHdZd1lTMGEyZXVkOFRiVjVMWHRreFE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793363976.0
-    },
-    {
-        "id": "aa4613083e",
-        "title_fa": "چراغ سبز آمریکا به فروش ۲.۱ میلیارد دلاری موشک‌های پاتریوت به اوکراین",
-        "title_en": "US approves $2.1 billion Patriot missile sale to Ukraine",
-        "summary": [
-            "وزارت خارجه آمریکا از تایید فروش ۵۰۰ موشک پاتریوت پاک-۳ به ارزش ۲.۱ میلیارد دلار به کی‌یف خبر داد.",
-            "این قرارداد تسلیحاتی مهم در حالی منعقد شده که تنش‌ها میان ترامپ و زلنسکی بر سر پالایشگاه‌های روسیه افزایش یافته بود.",
-            "حملات مرگبار موشک‌های روسی به زیرساخت‌های شهری اوکراین ضرورت تقویت سامانه دفاع هوایی را دوچندان کرده است."
-        ],
-        "impact": "تقویت قابل توجه پدافند هوایی اوکراین در برابر موشک‌های بالستیک پیشرفته.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "The Business Standard",
-        "url": "https://www.tbsnews.net/world/us-approves-21-billion-patriot-missile-sale-ukraine-1588091",
-        "clean_url": "https://www.tbsnews.net/world/us-approves-21-billion-patriot-missile-sale-ukraine-1588091",
-        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/10/31/37f6avyhanpchifnz64af2dh2m.jpg",
-        "timestamp": 1793362020.0
-    },
-    {
-        "id": "3c599f3bcd",
-        "title_fa": "توقیف دو نفتکش در جنوب تنگه هرمز",
-        "title_en": "Iran's IRGC navy says two tankers stopped south of Hormuz after incidents",
-        "summary": [
-            "نیروی دریایی سپاه اعلام کرد دو فروند نفتکش را در آب‌های جنوبی تنگه هرمز متوقف کرده است.",
-            "این اقدام در راستای افزایش تنش‌ها و کنترل تردد نفتکش‌ها در این آبراه حیاتی انجام شده است."
-        ],
-        "impact": "افزایش ریسک امنیتی برای نفتکش‌ها و صعودی شدن نرخ بیمه حمل‌ونقل دریایی در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793361704.0
-    },
-    {
-        "id": "73d557f8e8",
-        "title_fa": "ترامپ: کار با ج.ه.وری ا.س.لا.می به زودی تمام می شود",
-        "title_en": "Trump on Iran war: It's going to get wrapped up soon",
-        "summary": [
-            "دونالد ترامپ در تازه ترین اظهارنظر خود از به پایان رسیدن ماجرای مربوط به ایران صحبت کرد.",
-            "این موضع نشان دهنده ارزیابی واشنگتن برای یکسره کردن کار درگیری های اخیر است."
-        ],
-        "impact": "افزایش گمانه زنی ها درباره تحولات سریع و ضربتی سیاسی یا نظامی علیه حکومت",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793361506.0
     }
 ]
