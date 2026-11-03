@@ -761,6 +761,24 @@
         "timestamp": 1793699278.0
     },
     {
+        "id": "6b8a0eb9e3",
+        "title_fa": "نارضایتی عمیق رای‌دهندگان آمریکایی از مسیر کشور",
+        "title_en": "Midterm elections are coming to a close as voters pass judgment on Trump’s second term",
+        "summary": [
+            "نظرسنجی‌ها نشان می‌دهد بدبینی محسوسی نسبت به آینده دولت دوم ترامپ میان رای‌دهندگان شکل گرفته است.",
+            "انتخابات میان‌دوره‌ای به نقطه سنجش عمومی عملکرد کاخ سفید تبدیل شده است."
+        ],
+        "impact": "تضعیف پایگاه رای ترامپ در کنگره و افزایش چالش‌های سیاسی داخلی آمریکا",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "cleveland.com",
+        "url": "https://www.cleveland.com/politics/2026/11/midterm-elections-are-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term.html",
+        "clean_url": "https://www.cleveland.com/politics/2026/11/midterm-elections-are-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term.html",
+        "image": "http://www.bing.com/th?id=ONUT.zs9IW-iWSabnbxtscpvq_w&pid=News",
+        "timestamp": 1793699100.0
+    },
+    {
         "id": "4b6204bd01",
         "title_fa": "شوخی یا کنایه ترامپ درباره مهاجرت به اسرائیل و نخست‌وزیری",
         "title_en": "Trump says he could move to Israel and become prime minister if US gets sick of him",
@@ -5465,24 +5483,5 @@
         "clean_url": "https://www.iranintl.com/en/202610312495",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/17620cd1a7dab9a549239f447062b4b636bd13c5-800x533.jpg?w=320&h=213&q=90&fit=max&auto=format",
         "timestamp": 1793439180.0
-    },
-    {
-        "id": "fed1f835bb",
-        "title_fa": "آماده‌باش تهران برای جنگ؛ بی‌تفاوتی به نتایج انتخابات آمریکا و اسرائیل",
-        "title_en": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-        "summary": [
-            "حاکمیت در ایران به این نتیجه رسیده که تغییر رئیس‌جمهور آمریکا یا ترکیب کابینه تل‌آویو، ریل درگیری نظامی را تغییر نمی‌دهد.",
-            "تهران با تغییر آرایش، خود را برای تنش‌های سنگین‌تر و مستقیم‌تر در منطقه آماده می‌کند.",
-            "غلبه کامل نگاه نظامی بر تصمیم‌گیری‌ها، از انسداد عمیق در مسیرهای دیپلماتیک خبر می‌دهد."
-        ],
-        "impact": "افزایش ریسک درگیری مستقیم، جهش دوباره قیمت دلار و طلا و تشدید آرایش دفاعی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktaLU9ndHRTeW11V3cwLWI1anZkMDJjeXNvZXVONEp2bXA0Z3o2N3BnSmRGM3ZCZURuS3phc2M0N3plU1JGeVN0amJYd21uS0NUNEFtUE1IMFNHaWVoZWpmd05CNkNfRUk4cE1EWjRKbjE2WWgtYUloczRMem1Ya1FIN0ZrMkprRHFHUnlTd000bFd1UE1JdndzamhTeFRWeVQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktaLU9ndHRTeW11V3cwLWI1anZkMDJjeXNvZXVONEp2bXA0Z3o2N3BnSmRGM3ZCZURuS3phc2M0N3plU1JGeVN0amJYd21uS0NUNEFtUE1IMFNHaWVoZWpmd05CNkNfRUk4cE1EWjRKbjE2WWgtYUloczRMem1Ya1FIN0ZrMkprRHFHUnlTd000bFd1UE1JdndzamhTeFRWeVQ0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793437541.0
     }
 ]
