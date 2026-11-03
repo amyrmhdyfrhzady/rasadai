@@ -1,5 +1,23 @@
 [
     {
+        "id": "a77e084348",
+        "title_fa": "حمله هوایی آمریکا به جزیره قشم",
+        "title_en": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+        "summary": [
+            "ارتش آمریکا مواضعی را در جزیره قشم هدف حملات مستقیم قرار داد.",
+            "این اقدام در شرایطی انجام شده که دونالد ترامپ تلاش دارد خطرات جنگ تمام‌عیار را کم‌اهمیت جلوه دهد."
+        ],
+        "impact": "آغاز درگیری‌های نظامی مستقیم و افزایش بی‌سابقه ریسک امنیتی در آب‌های جنوب.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793666340.0
+    },
+    {
         "id": "680142df7b",
         "title_fa": "احتمال جنگ با ایران در افق ۲۰۲۶",
         "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
@@ -5476,23 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGF3dkgwY005VV9rb0d5enRTOEVleURJbjltWkRQOEdtS1c5ZUdvMUtWS05Lb1dXcWx1UzBZU0FKS0t3UTBTSEktTzh4YmFURkdKZHJIQzEtdVBndncwMVE2TW01VU5xdUNyZ1FBVVFoX1lYZTdtTmJ5Tm92MVdXWjBJMHNaUHp0RkRVbjZMallkRVpzT0ZZYjJGRndlOUtKSXlYU3N3X2JJaTBOQUNVdG1n",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793274973.0
-    },
-    {
-        "id": "c044169fca",
-        "title_fa": "روزنامه نزدیک به قالیباف: رفتن نتانیاهو به سود ج.ا است",
-        "title_en": "Iran gains from Netanyahu's exit even without a policy shift",
-        "summary": [
-            "روزنامه خراسان اعتراف کرد که حتی با حفظ سیاست‌های اسرائیل، کنار رفتن نتانیاهو شبکه دیپلماتیک او را تضعیف می‌کند.",
-            "تهران حساب ویژه‌ای روی فروپاشی مهندسی سیاسی مخالفان منطقه‌ای خود باز کرده است."
-        ],
-        "impact": "تغییر مهندسی سیاسی در تل‌آویو می‌تواند فشار دیپلماتیک روی حاکمیت را کاهش دهد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610291822",
-        "clean_url": "https://www.iranintl.com/en/202610291822",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/ffc1c155dedb2e8477e0962d03395d2e00683979-6000x4002.jpg?rect=0,426,6000,3150&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793274120.0
     }
 ]
