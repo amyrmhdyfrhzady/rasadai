@@ -329,6 +329,25 @@
         "timestamp": 1793652912.0
     },
     {
+        "id": "0a9377a149",
+        "title_fa": "ترامپ درگیری با ایران را جنگ نرم خواند",
+        "title_en": "Trump calls Iran conflict a 'soft war,' insists US holds the cards ahead of midterm elections",
+        "summary": [
+            "دونالد ترامپ در آستانه انتخابات میان‌دوره‌ای، درگیری با ایران را یک جنگ نرم و کم‌شدت توصیف کرد.",
+            "او مدعی شد ایالات متحده کنترل کامل اوضاع را در دست دارد و این تنش به یک جنگ فرایضی تبدیل نخواهد شد.",
+            "این اظهارات پس از حمله اخیر آمریکا به جزیره قشم در پاسخ به اقدام نظامی ایران مطرح شد."
+        ],
+        "impact": "تلاش کاخ سفید برای کنترل افکار عمومی و کاهش نگرانی‌ها درباره تنش نظامی با ایران پیش از انتخابات.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/trump-calls-iran-conflict-soft-war-insists-us-holds-cards-ahead-midterm-elections",
+        "clean_url": "https://www.foxnews.com/media/trump-calls-iran-conflict-soft-war-insists-us-holds-cards-ahead-midterm-elections",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/0e98f0a2-donald-trump.png",
+        "timestamp": 1793648820.0
+    },
+    {
         "id": "4a3b656186",
         "title_fa": "نهایی شدن پرونده نفوذ مالی قطر در انتخابات اسرائیل",
         "title_en": "Shin Bet, Mossad close to completing probe of Qatari funding for Arab get-out-the-vote effort — report",
@@ -495,6 +514,24 @@
         "timestamp": 1793639520.0
     },
     {
+        "id": "edc3f00326",
+        "title_fa": "بزرگترین سرقت تاریخ رمزارز؛ هک ۶ میلیارد دلاری با ردپای کره شمالی",
+        "title_en": "World’s largest crypto exchange hit by suspected North Korean hack in world’s largest heist",
+        "summary": [
+            "صرافی بایننس پس از هک کیف پول‌های دیجیتال و سرقت ۶ میلیارد دلار، موقتاً برداشت‌ها را متوقف کرد.",
+            "شواهد اولیه نشان می‌دهد هکرهای وابسته به کره شمالی پشت این بزرگترین سرقت تاریخ کریپتو هستند."
+        ],
+        "impact": "فشار شدید به بازار رمزارزها و ایجاد زلزله در امنیت صرافی‌های بزرگ بین‌المللی.",
+        "tag": "ارز دیجیتال",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/world-s-largest-crypto-exchange-hit-by-suspected-north-korean-hack-in-world-s-largest-heist/ar-AA2gnWUo",
+        "clean_url": "https://www.msn.com/en-us/news/other/world-s-largest-crypto-exchange-hit-by-suspected-north-korean-hack-in-world-s-largest-heist/ar-AA2gnWUo",
+        "image": "http://www.bing.com/th?id=ONUT.bJPpwpJI-ElK10B5FSYHlg&pid=News",
+        "timestamp": 1793639249.0
+    },
+    {
         "id": "341820d31a",
         "title_fa": "چشم‌انداز متفاوت جنگ احتمالی اسرائیل با ج.ا.ا نسبت به غزه",
         "title_en": "Israel hopes third Iran war will differ from Gaza conflict with Hamas",
@@ -621,6 +658,24 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/ex-mossad-chief-yossi-cohen-believes-eventual-return-to-war-with-iran-is-inevitable",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/יוסי-כהן-קרדיט-שוקה-כהן-e1793633744429.jpeg",
         "timestamp": 1793633820.0
+    },
+    {
+        "id": "f43c90a047",
+        "title_fa": "واکنش رئیس دادگاه کیفری بین‌المللی به تحریم‌های واشنگتن",
+        "title_en": "ICC president hits back at Trump administration penalties in remote UN address",
+        "summary": [
+            "رئیس دیوان کیفری بین‌المللی دولت دونالد ترامپ را به تلاش برای اخلال در اجرای عدالت متهم کرد.",
+            "او تأکید کرد که فشارها و تحریم‌های واشنگتن مانع از کار این نهاد قضایی نخواهد شد."
+        ],
+        "impact": "افزایش تنش‌های حقوقی بین نهادهای بین‌المللی و دولت آمریکا.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/un-us-icc-trump-sanctions-international-justice-6ebdd7a7e5c66f0fbd29ef30d9b34785",
+        "clean_url": "https://apnews.com/article/un-us-icc-trump-sanctions-international-justice-6ebdd7a7e5c66f0fbd29ef30d9b34785",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793633580.0
     },
     {
         "id": "9f54bf9191",
@@ -750,6 +805,25 @@
         "timestamp": 1793629020.0
     },
     {
+        "id": "e0123ed20d",
+        "title_fa": "جدال سیاسی فشرده در آستانه انتخابات میان‌دوره‌ای آمریکا",
+        "title_en": "Trump spends the day before midterm Election Day promoting his Reflecting Pool makeover",
+        "summary": [
+            "حزب دموکرات و جمهوری‌خواه در آخرین ساعات مانده به رأی‌گیری، نبرد سنگینی را برای کنترل کنگره آغاز کردند.",
+            "دیوان عالی درخواست دولت ترامپ برای ابطال هزاران رأی پستی در کالیفرنیا را رد کرد.",
+            "رکوردهای جدیدی در رأی‌گیری زودهنگام با مشارکت بیش از ۵۷ میلیون نفر به ثبت رسید."
+        ],
+        "impact": "سرنوشت دو سال پایانی ریاست‌جمهوری ترامپ به نتایج این رقابت گره خورده است.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "The Press Democrat",
+        "url": "https://www.pressdemocrat.com/2026/11/02/election-2026-midterms-final-message/",
+        "clean_url": "https://www.pressdemocrat.com/2026/11/02/election-2026-midterms-final-message",
+        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/11/Trump_41554.jpg?w=1999&h=1333",
+        "timestamp": 1793627880.0
+    },
+    {
         "id": "64d1cbc605",
         "title_fa": "تهدید وزارت خارجه درباره تغییر دکترین هسته‌ای ج.ا",
         "title_en": "Foreign Ministry Warns Iranian Nuclear Policy Could Change",
@@ -877,6 +951,24 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/reports-one-killed-five-wounded-in-strike-in-gaza-city",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793620980.0
+    },
+    {
+        "id": "82a6de6db1",
+        "title_fa": "دستور ویژه پنتاگون برای خنثی‌سازی مداخلات خارجی در انتخابات",
+        "title_en": "Pentagon's top spies tasked with 'no-fail' mission as Hegseth puts foreign midterm meddling in crosshairs",
+        "summary": [
+            "پیت هگست، وزیر جنگ آمریکا، تمام نهادهای اطلاعاتی و سایبری ارتش را برای مقابله با دخالت‌های خارجی بسیج کرد.",
+            "این مأموریت حیاتی با هدف حفاظت از زیرساخت‌های انتخاباتی و جلوگیری از هک یا نفوذ دولت‌های متخاصم طراحی شده است."
+        ],
+        "impact": "افزایش آماده‌باش امنیتی و سایبری ارتش آمریکا برای حفاظت از فرآیند انتخابات میان‌دوره‌ای.",
+        "tag": "امنیت سایبری",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/pentagons-top-spies-tasked-no-fail-mission-hegseth-puts-foreign-midterm-meddling-crosshairs",
+        "clean_url": "https://www.foxnews.com/politics/pentagons-top-spies-tasked-no-fail-mission-hegseth-puts-foreign-midterm-meddling-crosshairs",
+        "image": "http://www.bing.com/th?id=ONUT.VdZNRkUkEepQMzT4LaIPTg&pid=News",
+        "timestamp": 1793620440.0
     },
     {
         "id": "46fc7775c4",
@@ -5405,96 +5497,5 @@
         "clean_url": "https://www.iranintl.com/202610306216",
         "image": "http://www.bing.com/th?id=ONUT.4y8yVWpS9Q6SmDOag3iWzA&pid=News",
         "timestamp": 1793293260.0
-    },
-    {
-        "id": "1870630000",
-        "title_fa": "ادعای مین‌گذاری در هرمز و تغییرات ناگهانی در پنتاگون",
-        "title_en": "Iran claims 4 tankers hit mines in Strait of Hormuz",
-        "summary": [
-            "نیروی دریایی ج.ا مدعی شد چهار نفتکش در تنگه هرمز با مین‌های دریایی برخورد کرده‌اند و این کشتی‌ها را به تردد در مسیرهای غیرقانونی متهم کرد.",
-            "پیت هگزیت، وزیر دفاع آمریکا، ژنرال برت سیلویا را به اتهام افشای اطلاعات محرمانه جنگ با ایران از کار برکنار کرد.",
-            "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، نامه‌ای برای محسن رضایی ارسال کرده تا مذاکرات صلح را از سر بگیرد، اما ترامپ هدف آن را صرفاً ارسال اقلام پزشکی اعلام کرد."
-        ],
-        "impact": "افزایش تنش‌های نظامی در آبراه حیاتی خلیج فارس و همزمان نشانه‌هایی از تلاش برای کانال‌کشی دیپلماتیک پنهان.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/f0360f6fe7a984b3734e6088f4d233465901a9dc5d29419899d24d6bf86ddd6f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https://media.zenfs.com/en/cbs_news_897/db62254a72ae46ed8bec1fb02979ebdd.jpg",
-        "timestamp": 1793293080.0
-    },
-    {
-        "id": "678c5c75b8",
-        "title_fa": "بازداشت شانزده نفر به اتهام ارتباط با دشمن",
-        "title_en": "Iran arrests 16 in connection with alleged US-Israel-linked cells: What to know",
-        "summary": [
-            "نیروهای امنیتی ج·ا شانزده شهروند را به اتهام ادعایی همکاری با شبکه های منتسب به ایالات متحده و اسرائیل بازداشت کردند.",
-            "این بازداشت‌ها در راستای پروژه همیشگی بحران‌آفرینی امنیتی و سرکوب داخلی انجام گرفته است."
-        ],
-        "impact": "تشدید فضای امنیتی و ارعبار در داخل کشور برای مهار اعتراضات احتمالی",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUhQeWxReW9VdzFHMzdBMDNzckVxcHpWVFNJblQwaU5nelduOVYyQzFVdFZFVUxsdlRLRDdKVlhBU29kNElabzdYVTh3eDdKMWxaQlkta1U0aldiLVR6NzBobjY3VW40bzdWWnBIRlFmRklkaC1XcnBhY293NUZRV1V0MWNWZjltZy05Nmp0MkxCYWhjR04zZXJmQzFydktSYjEtWUdlX3hwVDIwbmt6UUxB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUhQeWxReW9VdzFHMzdBMDNzckVxcHpWVFNJblQwaU5nelduOVYyQzFVdFZFVUxsdlRLRDdKVlhBU29kNElabzdYVTh3eDdKMWxaQlkta1U0aldiLVR6NzBobjY3VW40bzdWWnBIRlFmRklkaC1XcnBhY293NUZRV1V0MWNWZjltZy05Nmp0MkxCYWhjR04zZXJmQzFydktSYjEtWUdlX3hwVDIwbmt6UUxB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793292840.0
-    },
-    {
-        "id": "bee5d19305",
-        "title_fa": "سایه سنگین جنگ روی خلیج فارس و تنگه هرمز",
-        "title_en": "Iranian media debate new war amid Hormuz attacks, military buildup",
-        "summary": [
-            "رسانه‌های داخلی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی به شدت درگیر بحث درباره احتمال وقوع یک جنگ تازه شده‌اند.",
-            "تحرکات نظامی جدید و تنش‌ها در آب‌های تنگه هرمز سناریوی درگیری نظامی را به خط اول خبرها آورده است."
-        ],
-        "impact": "فضای روانی جامعه و بازارها به‌شدت تحت تأثیر بوی تند باروت در مرزهای آبی قرار گرفته است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Q255cHViXzlxZGJJbXlwLWxVbkZSYk9Cc3BhbTJDQ2VPcEdtejhPbFlvSnpDM1loZjVISDgyWjUwd3ZMS2tuZ2VSRDUyQ0U1VVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Q255cHViXzlxZGJJbXlwLWxVbkZSYk9Cc3BhbTJDQ2VPcEdtejhPbFlvSnpDM1loZjVISDgyWjUwd3ZMS2tuZ2VSRDUyQ0U1VVE",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793292118.0
-    },
-    {
-        "id": "4ff9ad9347",
-        "title_fa": "تنش‌های دریایی ترکیه و چالش‌های جدید امنیت ملی اسرائیل",
-        "title_en": "Turkey's Expanding Ambitions, Maritime Conflicts & Israel’s National Security",
-        "summary": [
-            "آنکارا به دنبال گسترش نفوذ منطقه‌ای خود از طریق مناقشات دریایی است.",
-            "این تحرکات معادلات امنیتی و استراتژیک مدیترانه شرقی را تحت تأثیر قرار می‌دهد."
-        ],
-        "impact": "افزایش رقابت‌های منطقه‌ای و تغییر موازنه قوا در مدیترانه",
-        "tag": "منطقه‌ای",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JZklPU0pxX19ZdGUyZzJXSnNSTXZwOWVoTktRZmVQaHUyYVF1Q3VfVEtSZE9qY2tNQVhQVGFWN2xZY0dRY0szZllpRDRBNFJuZEJCQ0hCY215di1FNmdIVFlfYnEwb05hMmY0a1pYRVVXUVJPMUpF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JZklPU0pxX19ZdGUyZzJXSnNSTXZwOWVoTktRZmVQaHUyYVF1Q3VfVEtSZE9qY2tNQVhQVGFWN2xZY0dRY0szZllpRDRBNFJuZEJCQ0hCY215di1FNmdIVFlfYnEwb05hMmY0a1pYRVVXUVJPMUpF",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793290115.0
-    },
-    {
-        "id": "df6c314ff8",
-        "title_fa": "گزینه‌های دشوار ایالات متحده در قبال جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی",
-        "title_en": "America's Least Bad Option in Iran",
-        "summary": [
-            "موسسه پژوهشی رند در گزارش تازه خود به بررسی گزینه‌های روی میز واشنگتن پرداخته است.",
-            "فشارها بر روی سیاست‌گذاران آمریکایی برای اتخاذ تصمیمات جدی‌تر در برابر تـ.ـکـ.ـرار تنش‌ها افزایش یافته است."
-        ],
-        "impact": "تشدید ارزیابی‌های امنیتی در واشنگتن برای مهار تحرکات منطقه‌ای",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "RAND",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGVOb2RLS1Y2b2steENheVYtUlpiOWd0OXpjYzhmaTByaEN0M2RsOVlMSmpVYmRrUV8zUnZXWkNVTmFUdVFJdENMMV9ZMWNBcDdjVUJibmdWVGRUM1V1WnBrczA3WUxXX002Z21VTlMtM2p5aWg1Zl9lYkE2czM4cHNoUzd2UTNGLWtF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGVOb2RLS1Y2b2steENheVYtUlpiOWd0OXpjYzhmaTByaEN0M2RsOVlMSmpVYmRrUV8zUnZXWkNVTmFUdVFJdENMMV9ZMWNBcDdjVUJibmdWVGRUM1V1WnBrczA3WUxXX002Z21VTlMtM2p5aWg1Zl9lYkE2czM4cHNoUzd2UTNGLWtF",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793288014.0
     }
 ]
