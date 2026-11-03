@@ -147,6 +147,24 @@
         "timestamp": 1793699809.0
     },
     {
+        "id": "c4eaf82939",
+        "title_fa": "ادعای عجیب ترامپ درباره مهار تورم همزمان با ریزش محبوبیت",
+        "title_en": "Trump Says Inflation Solved as Economic Approval Hits Record Low at Midterm",
+        "summary": [
+            "دونالد ترامپ در آستانه انتخابات میان‌دوره‌ای مدعی شد مشکل تورم کاملاً حل شده است.",
+            "نظرسنجی‌ها نشان می‌دهد محبوبیت اقتصادی او به پایین‌ترین حد خود رسیده و ۶۵ درصد رای‌دهندگان ناراضی هستند."
+        ],
+        "impact": "شکاف عمیق میان روایت دولتمردان و فشار واقعی هزینه‌های زندگی بر دوش شهروندان.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-final-message-midterms-2026-inflation-latest-polls-12656251",
+        "clean_url": "https://www.newsweek.com/trump-final-message-midterms-2026-inflation-latest-polls-12656251",
+        "image": "http://www.bing.com/th?id=ONUT.9IDcgtp-SMvg-SpzOsEhrQ&pid=News",
+        "timestamp": 1793697000.0
+    },
+    {
         "id": "d3957fdb45",
         "title_fa": "فشار حداکثری ترامپ اقتصاد ایران را به زانو درآورد",
         "title_en": "A big win for Donald Trump: Iran’s economy is being destroyed thanks to inflation and getting weaker every day",
@@ -730,6 +748,24 @@
         "timestamp": 1793679780.0
     },
     {
+        "id": "c833cd09cb",
+        "title_fa": "واکنش تند به موضع بی‌خیال ترامپ درباره جنگ با ایران",
+        "title_en": "Trump blasted for dismissive, 3-word take on Iran war: ‘How dumb is this man’",
+        "summary": [
+            "دونالد ترامپ در مصاحبه با فاکس نیوز با سه کلمه تلاش کرد تنش‌ها و درگیری با ایـران را کوچک جلوه دهد.",
+            "این اظهارنظر موجی از انتقادات تند را از سوی منتقدان سیاسی به همراه داشته است."
+        ],
+        "impact": "تلاش کاخ سفید برای کم‌اهمیت جلودادن هزینه‌های درگیری نظامی با تهران.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/11/trump-blasted-for-dismissive-3-word-take-on-iran-war-how-dumb-is-this-man.html",
+        "clean_url": "https://www.masslive.com/politics/2026/11/trump-blasted-for-dismissive-3-word-take-on-iran-war-how-dumb-is-this-man.html",
+        "image": "http://www.bing.com/th?id=ONUT.jsgzuy35W5r3w0LED2kcvg&pid=News",
+        "timestamp": 1793679600.0
+    },
+    {
         "id": "4ecca636ee",
         "title_fa": "شمارش معکوس برای سقوط اکثریت ترامپ؛ آمریکا پای صندوق‌های رای",
         "title_en": "Live updates: U.S. voters go to polls as control of Congress hangs in the balance",
@@ -802,6 +838,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793677148.0
+    },
+    {
+        "id": "477172304d",
+        "title_fa": "شوخی جنجالی ترامپ درباره مهاجرت به اسرائیل",
+        "title_en": "Trump says he’d move to this country ‘if people ever get tired of me in the US’",
+        "summary": [
+            "ترامپ اعلام کرد اگر روزی مردم آمریکا از او خسته شوند، به اسرائیل نقل مکان می‌کند.",
+            "این اظهارات واکنش‌های طعنه‌آمیز و انتقادی فراوانی در شبکه‌های اجتماعی به دنبال داشت."
+        ],
+        "impact": "حاشیه‌سازی‌های جدید رئیس‌جمهور آمریکا دربوته نقد افکار عمومی.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/11/trump-says-hed-move-to-this-country-if-people-ever-get-tired-of-me-in-the-us.html",
+        "clean_url": "https://www.masslive.com/politics/2026/11/trump-says-hed-move-to-this-country-if-people-ever-get-tired-of-me-in-the-us.html",
+        "image": "http://www.bing.com/th?id=ONUT.jsgzuy35W5r3w0LED2kcvg&pid=News",
+        "timestamp": 1793676960.0
     },
     {
         "id": "bc997e81f5",
@@ -5446,59 +5500,5 @@
         "clean_url": "https://www.iranintl.com/en/202610317316",
         "image": "http://www.bing.com/th?id=ONUT.rbydsGFQo_w7OV-yNGCVLQ&pid=News",
         "timestamp": 1793386380.0
-    },
-    {
-        "id": "42751dbd8b",
-        "title_fa": "مین‌گذاری در بازارهای جهانی و خطر ریزش دارایی‌های پرریسک",
-        "title_en": "Weekly Commentary: Cycle Transition",
-        "summary": [
-            "بازارهای مالی جهان تحت فشار شدید اهرم‌های مالی و حباب گمانه‌زنی به نقطه‌ای بسیار شکننده رسیده‌اند.",
-            "برخلاف انتظارات برای بهبود اوضاع پیش از انتخابات، فضای عدم قطعیت و ریسک‌گریزی بر بازارهای بین‌المللی حاکم شده است."
-        ],
-        "impact": "افزایش شدید نوسانات اقتصادی و خروج سرمایه‌گذاران از بازارهای پرریسک.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4960572-weekly-commentary-cycle-transition",
-        "clean_url": "https://seekingalpha.com/article/4960572-weekly-commentary-cycle-transition",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2253305568/image_2253305568.jpg?io=getty-c-w1536",
-        "timestamp": 1793386200.0
-    },
-    {
-        "id": "db7a9e61a5",
-        "title_fa": "میانجی‌گری اسلام‌آباد میان تهران و واشنگتن؛ خوش‌بینی مشروط ارتش پاکستان",
-        "title_en": "EXCLUSIVE: Pakistan military 'cautiously optimistic' on Iran-US mediation",
-        "summary": [
-            "ارتش پاکستان کانال‌های دیپلماتیک جدیدی را برای انتقال پیام میان ج.ا و آمریکا فعال کرده و به پیامدهای آن امیدوار است.",
-            "اسلام‌آباد به شدت نگران کشیده شدن آتش درگیری‌های منطقه‌ای به مرزهای شرقی خود است و سرگرم بازی در نقش میانجی امنیتی است."
-        ],
-        "impact": "فعال شدن میانجی‌های منطقه‌ای می‌تواند احتمال مواجهه مستقیم نظامی را در کوتاه‌مدت کاهش دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeG4zX0dQOXRZdkNCLTVnaWQ4bm1Wem53VEh1cjZvYmdqQkx5SVZzZUlzQUkzT0w3UEc2a1Zhb3I5UDhreVlGYVZWR2NhYTMydlkzNDZWMnJvQlVCLUZkY01ZaWRaMm1WNjVmckZOZEpIRXZ4UzRLNjIxOUtTdnp2Y2hLSmNlbEZId0cxNGg4LWw5TWNEejVCUW1zdy0td3FoUm9STVJ1OVB2SUljWmtid25B?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeG4zX0dQOXRZdkNCLTVnaWQ4bm1Wem53VEh1cjZvYmdqQkx5SVZzZUlzQUkzT0w3UEc2a1Zhb3I5UDhreVlGYVZWR2NhYTMydlkzNDZWMnJvQlVCLUZkY01ZaWRaMm1WNjVmckZOZEpIRXZ4UzRLNjIxOUtTdnp2Y2hLSmNlbEZId0cxNGg4LWw5TWNEejVCUW1zdy0td3FoUm9STVJ1OVB2SUljWmtid25B",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793383895.0
-    },
-    {
-        "id": "d8b265ddbb",
-        "title_fa": "چالش بزرگ اسرائیل در جنگ با تـ....ک و واشنگتن",
-        "title_en": "What now? Israel faces another Iran war and a reckoning with Washington",
-        "summary": [
-            "اسرائیل در آستانه درگیری جدیدی با جـ...هوری اسـ...امی قرار گرفته است.",
-            "تل‌آویو باید خود را برای یک چالش جدی و تسویه حساب سیاسی با دولت آمریکا آماده کند."
-        ],
-        "impact": "افزایش تنش‌های نظامی و بروز شکاف در روابط استراتژیک تل‌آویو و واشنگتن.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16NTVoM3FfNWdBX05DXzV2cklNZlN3SklFVEFzbnNYVWFyNXVDendtcDQ3dVIwbXNtdU52X2UtY1lTQm9jVWhIRGJDdER5STdiTVV3cVhjeGpnOFU0TzJpQ1ljd0xHSDc3Y1RPa1pn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16NTVoM3FfNWdBX05DXzV2cklNZlN3SklFVEFzbnNYVWFyNXVDendtcDQ3dVIwbXNtdU52X2UtY1lTQm9jVWhIRGJDdER5STdiTVV3cVhjeGpnOFU0TzJpQ1ljd0xHSDc3Y1RPa1pn",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793381065.0
     }
 ]
