@@ -236,6 +236,24 @@
         "timestamp": 1793714400.0
     },
     {
+        "id": "a528278678",
+        "title_fa": "دو نگاه کاملاً متضاد در رقابت سنای میشیگان",
+        "title_en": "El-Sayed’s message to voters on Election Day: ‘Two very, very different visions’ between him, Rogers",
+        "summary": [
+            "عبدال السید نامزد دموکرات در روز انتخابات بر تفاوت اساسی برنامه‌های خود با مایک راجرز جمهوری‌خواه تأکید کرد.",
+            "این رقابت فشرده یکی از سرنوشت‌سازترین حوزه‌ها برای تعیین اکثریت سناست."
+        ],
+        "impact": "تغییر موازنات قدرت در سنای آمریکا به واسطه نتایج ایالت میشیگان.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/03/politics/video/el-sayed-two-very-different-visions-digvid",
+        "clean_url": "https://www.cnn.com/2026/11/03/politics/video/el-sayed-two-very-different-visions-digvid",
+        "image": "http://www.bing.com/th?id=ONUT.0-ZCYWetnPjIto8Y9IcnCg&pid=News",
+        "timestamp": 1793710140.0
+    },
+    {
         "id": "cba1c89d65",
         "title_fa": "پنجره محدود ترامپ برای اقدام نظامی علیه ایـران",
         "title_en": "Why Trump only has a few weeks to restart Iran war — and what he could target with new strikes",
@@ -288,6 +306,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/more-than-100-former-nasa-astronauts-sign-letter-ahead-of-election-day/ar-AA2gGoLU",
         "image": "http://www.bing.com/th?id=ONUT.mgOYDXQD_pzKSZWR9os9IQ&pid=News",
         "timestamp": 1793707182.0
+    },
+    {
+        "id": "319adb5be9",
+        "title_fa": "شکست کرسی میان‌دوره ای جمهوری‌خواهان در گوام به نفع دموکرات‌ها",
+        "title_en": "Democrats appear to flip 1st midterm seat as Guam drops unofficial results",
+        "summary": [
+            "نتایج غیررسمی انتخابات گوام از پیشتازی نامزد حزب دموکرات خبر می‌دهد.",
+            "این جابجایی کرسی می‌تواند نخستین تغییر توازن قوا در رقابت‌های میان‌دوره ای باشد."
+        ],
+        "impact": "تقویت جزئی جایگاه دموکرات‌ها در موازنه سیاسی کنگره آمریکا.",
+        "tag": "انتخابات",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/democrats-appear-to-flip-1st-midterm-seat-as-guam-drops-unofficial-results/ar-AA2gFVwV",
+        "clean_url": "https://www.msn.com/en-us/news/other/democrats-appear-to-flip-1st-midterm-seat-as-guam-drops-unofficial-results/ar-AA2gFVwV",
+        "image": "http://www.bing.com/th?id=ONUT.BnRLXvrYsIst5bgXIPlP1Q&pid=News",
+        "timestamp": 1793707180.0
     },
     {
         "id": "1da9028e41",
@@ -5455,41 +5491,5 @@
         "clean_url": "https://www.iranintl.com/en/202610318569",
         "image": "http://www.bing.com/th?id=ONUT.23L8rehM4H9q4hJ7Yh0sEw&pid=News",
         "timestamp": 1793422380.0
-    },
-    {
-        "id": "eb4e066e7a",
-        "title_fa": "دستور آماده‌باش برای پاسخ فوری به حملات احتمالی",
-        "title_en": "Iran's supreme leader orders maximum response to any US attack",
-        "summary": [
-            "مجتبی خامنه‌ای به فرماندهان ارشد نظامی دستور داده تا در صورت هرگونه تهاجم مجدد از سوی ایالات متحده و اسرائیل، بلافاصله و بدون تعلل پاسخ سنگین بدهند.",
-            "این موضع‌گیری نشان‌دهنده افزایش سطح آماده‌باش در بدنه نظامی حکومت و تلاش برای بازدارندگی در برابر ضربات احتمالی است."
-        ],
-        "impact": "بالارفتن احتمال درگیری نظامی و افزایش تنش‌های امنیتی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Axios on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-supreme-leader-orders-maximum-response-to-any-us-attack/ar-AA2gtpcY",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-supreme-leader-orders-maximum-response-to-any-us-attack/ar-AA2gtpcY",
-        "image": "http://www.bing.com/th?id=ONUT.3ATCIWjeZjVDpRhh3eOiWA&pid=News",
-        "timestamp": 1793422111.0
-    },
-    {
-        "id": "850e2b7a77",
-        "title_fa": "فشار واشنگتن بر تــهـران؛ خروج اورانیوم غنی‌شده به کشور ثالث",
-        "title_en": "Iran may transfer enriched uranium to third country: What US is demanding in proposed nuclear deal",
-        "summary": [
-            "مذاکرات اتمی جدید با محوریت تعیین تکلیف ذخایر اورانیوم غنی‌شده تــهـران به نقطه حساسی رسیده است.",
-            "آمریکا اصرار دارد که مواد غنی‌شده باید به خارج از خاک ایـرا‌ن منتقل شود تا خطر تسلیحاتی آن کاهش یابد."
-        ],
-        "impact": "این مطالبه می‌تواند به بن‌بست جدی در مذاکرات اتمی و تشدید فشارهای سیاسی منجر شود.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Business Today on MSN",
-        "url": "https://www.msn.com/en-in/money/topstories/iran-may-transfer-enriched-uranium-to-third-country-what-us-is-demanding-in-proposed-nuclear-deal/ar-AA2gsUKv",
-        "clean_url": "https://www.msn.com/en-in/money/topstories/iran-may-transfer-enriched-uranium-to-third-country-what-us-is-demanding-in-proposed-nuclear-deal/ar-AA2gsUKv",
-        "image": "http://www.bing.com/th?id=ONUT.olIv46WJFzCoi_m1Q6Wo7A&pid=News",
-        "timestamp": 1793421050.0
     }
 ]
