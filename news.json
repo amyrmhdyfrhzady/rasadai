@@ -1,5 +1,24 @@
 [
     {
+        "id": "2ee7829e66",
+        "title_fa": "حمله مستقیم نظامی آمریکا به جزیره‌ای در ایران در آستانه انتخابات",
+        "title_en": "US launches strikes on Iranian island ahead of election",
+        "summary": [
+            "آمریکا در اقدامی بی‌سابقه و درست پیش از انتخابات، مواضعی را در یکی از جزایر ایران هدف حمله مستقیم قرار داد.",
+            "این اقدام، تغییر فاز واشنگتن از پاسخ به گروه‌های نیابتی به درگیری مستقیم در قلمرو ایران را رقم زد.",
+            "زمان‌بندی این حمله نشان می‌دهد واشنگتن تصمیم گرفته معادلات پیرامونی را پیش از گام‌های بعدی تثبیت کند."
+        ],
+        "impact": "جهش فوری خطر درگیری تمام‌عیار و شوک سنگین به بازار ارز و طلا.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793677148.0
+    },
+    {
         "id": "f4c5276136",
         "title_fa": "فشار نتانیاهو به ترامپ برای حملات بیشتر به جـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی",
         "title_en": "US-Iran war news: US conducts defensive strikes in Strait of Hormuz; Benjamin Netanyahu pushed Donald Trump for more Iran strikes",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXc2aUV1VGhZcVRTRjBkY0VfTUM3dEJYYkdWaXhFRVlXTHMxN0ZkTTVySWlFaV9McFUtS1NZTl82TTZzUmEtQmRUZGgxZmpWNjB4M25ta2Jma1Y1Rk4wWDRvRWg2cEpjQ3JXR292Tk1vaV9PTFpEMW9UQVJscDdsVWh5WEhpX1A1MzVMN21sb1RKSkxyeVpfMmRXajV0bm5pM1FWakNoMzVINDQtTUZReXEwYndlczBCR3ZCZ0d2cldyLVpwMFhTZVRqMkRuVnFzV1E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793281684.0
-    },
-    {
-        "id": "7d0716a708",
-        "title_fa": "پیشنهاد جی‌دی ونس برای مذاکره مستقیم با ایران و ریزش قیمت نفت",
-        "title_en": "JD Vance proposed renewed talks with Iran. Oil prices are dropping.",
-        "summary": [
-            "تایید نامه مذاکره مستقیم از سوی دونالد ترامپ، نشان‌دهنده تاکتیک جدید واشنگتن برای ترکیب اهرم فشار اقتصادی با دیپلماسی صریح است.",
-            "بازار جهانی انرژی بلافاصله به احتمال کاهش تنش واکنش منفی داد و ریزش قیمت نفت، اولین ضربه را به پیش‌بینی‌های درآمدی تهران زد.",
-            "این اقدام کاخ سفید تلاش برای انداختن توپ در زمین جمهوری اسلامی و سنجش میزان آمادگی تهران برای عقب‌نشینی است."
-        ],
-        "impact": "کاهش قیمت نفت در بازارهای جهانی، درآمدهای ارزی باقی‌مانده تهران را بیش از پیش تحت فشار قرار می‌دهد.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "International Business Times",
-        "url": "https://www.msn.com/en-us/news/other/jd-vance-proposed-renewed-talks-with-iran-oil-prices-are-dropping/ar-AA2gkYNX",
-        "clean_url": "https://www.msn.com/en-us/news/other/jd-vance-proposed-renewed-talks-with-iran-oil-prices-are-dropping/ar-AA2gkYNX",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ajbP7.img?w=2500&h=1650&m=4&q=99",
-        "timestamp": 1793281553.0
     }
 ]
