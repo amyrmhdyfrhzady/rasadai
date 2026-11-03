@@ -1,5 +1,23 @@
 [
     {
+        "id": "5feb87bc1b",
+        "title_fa": "حملات نظامی ایالات متحده در خاک ایران آستانه انتخابات",
+        "title_en": "U.S. forces launch new ‘defensive’ strikes in Iran on eve of election",
+        "summary": [
+            "نیروهای نظامی ایالات متحده حملات جدیدی را با عنوان دفاعی در داخل خاک ایران انجام داده‌اند.",
+            "این اقدام در حساس‌ترین زمان ممکن یعنی در آستانه برگزاری انتخابات صورت گرفته و معادله تنش‌ها را وارد فاز تازه‌ای می‌کند."
+        ],
+        "impact": "بالارفتن شدید ریسک امنیتی و احتمال واکنش متقابل در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakQ2dHpWeVF0SFVPOHZaLUtaYWV5YzNycVlYNU1JQlRxRFF3X0xjM2k0dndPNlg5VWcxOHJ2S1h6VldqejlGZjAwSEhfbDVxN2xRbUVGNW4xdU51bTNnZkJZN0JNLVo3MkVFdy0tUFVQSGFrZ0t6aG5VQ1F0WTEyUDlMczZTN3d5Z1Z0dk5XWkFSMFJDcFA4MHNHbnUyQU9FQ0RXRFU0WnRIeEtjQmtkMTNCVUlJU0FR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakQ2dHpWeVF0SFVPOHZaLUtaYWV5YzNycVlYNU1JQlRxRFF3X0xjM2k0dndPNlg5VWcxOHJ2S1h6VldqejlGZjAwSEhfbDVxN2xRbUVGNW4xdU51bTNnZkJZN0JNLVo3MkVFdy0tUFVQSGFrZ0t6aG5VQ1F0WTEyUDlMczZTN3d5Z1Z0dk5XWkFSMFJDcFA4MHNHbnUyQU9FQ0RXRFU0WnRIeEtjQmtkMTNCVUlJU0FR",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793685988.0
+    },
+    {
         "id": "159dd286c7",
         "title_fa": "جهش شاخص بورس هند و نوسان قیمت طلا",
         "title_en": "Stock Market Live Updates: Sensex surges over 600 pts, Nifty above 23,600; FMCG, financial stocks rally",
@@ -5478,24 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXYtbk0wQzNRbWdGdTlQUHdBVmN1RW1nOEV5UUtqMmdOVkVwSlZKaGYzcGx3Yll2Z2RFOGZmNDdBNUdPUmxMSGVjR2VDWFNaV0JGZExrdnNvcWRkVDdaYlVSbEZPa0xXckNzN2hVNHBIVi1FMDV0c2ZDWjEwc0NLQnVBTzlQb2FKRWFBbg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793293834.0
-    },
-    {
-        "id": "49cc66ffa0",
-        "title_fa": "احیای دزدی دریایی در سومالی با تمرکز آمریکا بر خلیج فارس",
-        "title_en": "Somali piracy surges as Iran war diverts US naval attention",
-        "summary": [
-            "دزدی دریایی در سواحل سومالی به بالاترین سطح از سال ۲۰۱۳ رسیده است.",
-            "تمرکز نیروی دریایی آمریکا و غرب بر درگیری‌ها با جـمـهـوری اسـلـامی و حملات حوثی‌ها، راه را برای دزدان دریایی هموار کرده است.",
-            "هم‌زمان چندین فروند کشتی و نفت‌کش توسط دزدان ربوده شده و خدمه آن‌ها ماه‌ها در اسارت مانده‌اند."
-        ],
-        "impact": "انحراف توان رزمی دریایی غرب به سمت خاورمیانه، امنیت آب‌های شرق آفریقا را به شدت به خطر انداخته است.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610298792",
-        "clean_url": "https://www.iranintl.com/en/202610298792",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/bdab35223557ac762ae8956bf9fb78c72d2aca4c-1200x856.jpg?rect=33,163,1024,682&w=320&h=213&q=90&fit=max&auto=format",
-        "timestamp": 1793293500.0
     }
 ]
