@@ -36,6 +36,25 @@
         "timestamp": 1793666340.0
     },
     {
+        "id": "06da51227a",
+        "title_fa": "هشدار اعراب به تهران درباره خطرات حملات دریایی",
+        "title_en": "Arab states warn Iran of individual, collective retaliation over attacks",
+        "summary": [
+            "کشورهای عربی به دلیل تهدیدات دریایی، درباره واکنش‌های فردی و جمعی به حاکمیت جـمـهـورۍ اسـلامـۍ هشدار دادند.",
+            "اصابت شی ناشناس به نفتکش قطری در خلیج فارس، آسیب‌پذیری زیرساخت‌های انرژی منطقه را آشکار کرد.",
+            "دوحه این حمله را اقدامی خطرناک علیه امنیت کشتیرانی و انرژی جهان محکوم کرد."
+        ],
+        "impact": "افزایش ریسک امنیت انرژی و بالا رفتن هزینه‌های حمل‌ونقل در خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611020302",
+        "clean_url": "https://www.iranintl.com/en/202611020302",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/dd58044ae991cd06529479891c28dbd60bc247e9-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1793665260.0
+    },
+    {
         "id": "680142df7b",
         "title_fa": "احتمال جنگ با ایران در افق ۲۰۲۶",
         "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/jd-vance-reportedly-sent-iran-a-letter-with-the-key-issue-to-restart-negotiations-enthusiastic/ar-AA2glkB4",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2glcOr.img?w=2000&h=1333&m=4&q=81",
         "timestamp": 1793276747.0
-    },
-    {
-        "id": "cc18be6da0",
-        "title_fa": "انفجار ۳ نفت‌کش در تنگه هرمز؛ بازی خطرناک س‌پاه در گلوگاه انرژی",
-        "title_en": "Irán reporta explosiones e incendios en tres petroleros en el estrecho de Ormuz",
-        "summary": [
-            "ادعای برخورد کشتی‌ها با مین به دلیل «مسیر غیرمجاز»، سرپوشی بر باج‌گیری موشکی و ایجاد رعب در خطوط بین‌المللی است.",
-            "س‌پاه با ناامن‌سازی عمدی تنگه هرمز، قصد دارد هزینه فشار بازدارنده غرب علیه تهران را بالا ببرد.",
-            "این سناریوسازی خطرناک، پیام مستقیم نظامی به بازارهای جهانی انرژی و خریداران نفت منطقه است."
-        ],
-        "impact": "جهش فوری قیمت جهانی نفت و افزایش بی‌سابقه‌ی هزینه بیمه کشتیرانی در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "teleSUR",
-        "url": "https://www.telesurtv.net/iran-explosion-incendio-petroleros-estrecho-ormuz/",
-        "clean_url": "https://www.telesurtv.net/iran-explosion-incendio-petroleros-estrecho-ormuz",
-        "image": "http://www.bing.com/th?id=ONUT._4vMx7IaHgNXkGhrIB63eg&pid=News",
-        "timestamp": 1793276460.0
     }
 ]
