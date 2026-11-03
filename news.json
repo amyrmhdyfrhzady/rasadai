@@ -254,6 +254,24 @@
         "timestamp": 1793714400.0
     },
     {
+        "id": "7beaacce41",
+        "title_fa": "مشارکت گسترده در انتخابات میان‌دوره‌ای آلاباما",
+        "title_en": "Alabama election 2026 live updates: Huge midterm turnout reported in state's biggest counties",
+        "summary": [
+            "حضور پرشور رای‌دهندگان در حوزه‌های انتخاباتی آلاباما برای تعیین فرماندار و سناتور جدید",
+            "رقابت‌های فشرده در این ایالت به یکی از کانون‌های توجه در فضای سیاسی آمریکا تبدیل شده است"
+        ],
+        "impact": "نتایج این انتخابات می‌تواند توازن قدرت در کنگره آمریکا را تغییر دهد.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "al.com on MSN",
+        "url": "https://www.msn.com/en-us/news/other/alabama-election-2026-live-updates-huge-midterm-turnout-reported-in-states-biggest-counties/ar-AA2gEUkY",
+        "clean_url": "https://www.msn.com/en-us/news/other/alabama-election-2026-live-updates-huge-midterm-turnout-reported-in-states-biggest-counties/ar-AA2gEUkY",
+        "image": "http://www.bing.com/th?id=ONUT.tOPeCRCQHK_gh6_1xwqfMg&pid=News",
+        "timestamp": 1793714066.0
+    },
+    {
         "id": "d0d0c59193",
         "title_fa": "هشدار پدرخوانده هوش مصنوعی درباره آینده بشر",
         "title_en": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
@@ -5467,24 +5485,5 @@
         "clean_url": "https://www.iranintl.com/en/202610311187",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/17620cd1a7dab9a549239f447062b4b636bd13c5-800x533.jpg?w=576&h=384&q=90&fit=max&auto=format",
         "timestamp": 1793435160.0
-    },
-    {
-        "id": "be26ead8cf",
-        "title_fa": "فشار حداکثری اقتصادی و سقوط آزاد ارزش ریال",
-        "title_en": "Egypt warns further escalation in Iran war could have wider consequences",
-        "summary": [
-            "صادرات نفت جـمـهـورۍ اسـلا‌مـی از اواخر مرداد ماه کاملاً متوقف شده است.",
-            "نرخ دلار در بازار آزاد به مرزهای بحرانی رسیده و تورم نقطه به نقطه از رکورد ۹۰ درصد عبور کرده است.",
-            "مسعود پزشکیان اعتراف کرده که تحریم‌ها اثرات ویرانگری بر اقتصاد کشور گذاشته است."
-        ],
-        "impact": "فلج شدن شریان‌های مالی و ارزی حکومت زیر ضربه تحریم‌های جدید",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610317234",
-        "clean_url": "https://www.iranintl.com/en/202610317234",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793434860.0
     }
 ]
