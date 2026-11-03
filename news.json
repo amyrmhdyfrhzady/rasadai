@@ -751,6 +751,24 @@
         "timestamp": 1793635650.0
     },
     {
+        "id": "f29a9909d4",
+        "title_fa": "سرنوشت کنگره آمریکا در گروی رفراندوم بزرگ علیه ترامپ",
+        "title_en": "A referendum on Trump, election monitors and a Democratic shift: What to watch on Election Day",
+        "summary": [
+            "انتخابات میادترم آمریکا به عنوان یک نظرسنجی بزرگ درباره عملکرد دو ساله ترامپ رقم خورده است.",
+            "دموکرات‌ها به دنبال کسب اکثریت کرسی‌های کنگره برای مهار قدرت بی‌چون‌وچای جمهوری‌خواهان هستند."
+        ],
+        "impact": "نتیجه این انتخابات می‌تواند دست‌اندازهای جدی در مسیر تصمیمات کاخ سفید ایجاد کند.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/11/03/election-2026-takeaways/",
+        "clean_url": "https://www.bostonherald.com/2026/11/03/election-2026-takeaways",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2026/11/Trump_91682-1.jpg?w=1999&h=1333",
+        "timestamp": 1793635560.0
+    },
+    {
         "id": "230cd0a0c7",
         "title_fa": "رقابت سنگین سیاسی برای تصاحب کرسی سنا در اوهایو",
         "title_en": "Veteran politicians Sherrod Brown, Jon Husted compete for Ohio Senate seat once held by Vance",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzM5MVRoQVFkR25NUi1HSEZtMGNmXzFMbFp4c3Zha0gya19LNFRWdXJfSkdxa0M4bjZXajU1M3dlRm81X2Ytd0p4RVFtT1lhdUVHemk4MTNuV1NkR3llOVJSZEx6X2lmLVd2dzNIWDVLQ2lfRjNIcHN3ZTFiNXE3dVFGemVzMmctTDEtejlWZmRLWkhLVHptaEgzdlZlWWlsVFRMYzBwVDI0U3pNUW9LZDBZTnJjLUMwTzhrTGhIbFBRQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793304918.0
-    },
-    {
-        "id": "71783a0881",
-        "title_fa": "نامه جی‌دی ونس؛ آخرین شانس برای مهار درگیری با ایـران",
-        "title_en": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
-        "summary": [
-            "سناتور آمریکایی با ارسال نامه‌ای تلاش می‌کند جلوی یک درگیری نظامی جدید میان واشنگتن و تـهران را بگیرد.",
-            "این اقدام به عنوان آخرین پنجره دیپلماتیک برای کاهش تنش‌های رو به رشد در منطقه ارزیابی می‌شود."
-        ],
-        "impact": "آزمونی جدی برای سنجش تمایل واقعی طرفین به اجتناب از جنگ تمام‌عیار.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFJRVV9pZXFTVjEtVlZ6VElLWjYzbk9YTVNxdUF6MDNWNkRmYmZkbmo2bUJqSkt4MnNhT0tNM1BsOVRSb3cxU0lhN19QQkh6QlEyNEFpWW1qOVMzUjJpXzRIY3hpSVN5SEdKZjA4MFpiQW1tQlMzMGJLRUhxdUdBYUgtTnY5NVRxaDFkVGljU0RxTmkxekd3aUFTc3lHYTNnaHlQUU1kdzhvczEtRnd0Q0FaT2ctdDhjNjZQS3d6aUZEb0ROeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFJRVV9pZXFTVjEtVlZ6VElLWjYzbk9YTVNxdUF6MDNWNkRmYmZkbmo2bUJqSkt4MnNhT0tNM1BsOVRSb3cxU0lhN19QQkh6QlEyNEFpWW1qOVMzUjJpXzRIY3hpSVN5SEdKZjA4MFpiQW1tQlMzMGJLRUhxdUdBYUgtTnY5NVRxaDFkVGljU0RxTmkxekd3aUFTc3lHYTNnaHlQUU1kdzhvczEtRnd0Q0FaT2ctdDhjNjZQS3d6aUZEb0ROeVE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793303820.0
     }
 ]
