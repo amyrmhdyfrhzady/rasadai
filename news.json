@@ -652,6 +652,24 @@
         "timestamp": 1793707180.0
     },
     {
+        "id": "c887b0b223",
+        "title_fa": "حمله شدید مقام ارشد جمهوری‌خواه به دموکرات‌ها در روز انتخابات",
+        "title_en": "RNC Chair Rants About Democrats’ Failed ‘Communist Utopia’ In Desperate Election Day Salvo",
+        "summary": [
+            "رئیس کمیته ملی جمهوری‌خواهان در گفتگوی رسانه‌ای به شدت از برنامه‌های اقتصادی دموکرات‌ها انتقاد کرد.",
+            "او حامیان حزب مقابل را افراطی خواند و از رأی‌دهندگان خواست از سیاست‌های دونالد ترامپ حمایت کنند."
+        ],
+        "impact": "تلاش حزب جمهوری‌خواه برای حفظ آرای طبقه کارگر در روزهای سرنوشت‌ساز انتخاباتی.",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/rnc-chair-joe-gruters-democrats-communist-utopia_n_6ae9fe9ee4b097f1dd0ec1fb",
+        "clean_url": "https://www.huffpost.com/entry/rnc-chair-joe-gruters-democrats-communist-utopia_n_6ae9fe9ee4b097f1dd0ec1fb",
+        "image": "http://www.bing.com/th?id=ONUT.gB0WZhbf4HLX1sIYgmfwWg&pid=News",
+        "timestamp": 1793707020.0
+    },
+    {
         "id": "1da9028e41",
         "title_fa": "توجیه عجیب تیم ترامپ؛ گرانی به نفع شماست!",
         "title_en": "Trump team makes desperate final pitch to voters: High prices are good",
@@ -5464,23 +5482,5 @@
         "clean_url": "https://www.ynetnews.com/opinions-analysis/article/hkh003rm6me",
         "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/HyBozBmpGl/HyBozBmpGl_0_0_850_479_0_large.jpg",
         "timestamp": 1793447820.0
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "نوسان قیمت سوخت در ایالات متحده",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "آمارهای روزانه ان‌بی‌سی نیوز تغییرات بهای بنزین در ایالت‌ها و شهرستان‌های مختلف آمریکا را رصد می‌کند.",
-            "این داده‌ها شاخص مهمی برای ارزیابی هزینه‌های روزمره شهروندان آمریکایی به شمار می‌رود."
-        ],
-        "impact": "تغییرات قیمت سوخت مستقیماً بر تورم عمومی و هزینه‌های حمل‌ونقل در آمریکا اثر می‌گذارد.",
-        "tag": "اقتصادی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793444298.0
     }
 ]
