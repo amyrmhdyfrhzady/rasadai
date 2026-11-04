@@ -1052,6 +1052,23 @@
         "timestamp": 1793747400.0
     },
     {
+        "id": "4278aa85f1",
+        "title_fa": "پیروزی تاریخی دموکرات‌ها در انتخابات کنگره آمریکا",
+        "title_en": "Democrats take control of both houses of Congress in historic upset",
+        "summary": [
+            "حزب دموکرات موفق شد با تصاحب کرسی‌های کلیدی در ایالت‌های سنتی جمهوری‌خواه، کنترل همزمان مجلس نمایندگان و سنا را به دست بگیرد."
+        ],
+        "impact": "تغییر موازنه‌ قدرت در واشنگتن و تأثیر مستقیم بر سیاست‌های داخلی و خارجی ایالات متحده.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "UPI",
+        "url": "https://www.upi.com/Top_News/US/2026/11/04/election-Democrats-take-over-Congress/7391793783934/",
+        "clean_url": "https://www.upi.com/Top_News/US/2026/11/04/election-Democrats-take-over-Congress/7391793783934",
+        "image": "http://www.bing.com/th?id=ONUT.7gynX8rkOvT6buNnDDXQSg&pid=News",
+        "timestamp": 1793747040.0
+    },
+    {
         "id": "8396c629b6",
         "title_fa": "تسلط دموکرات‌ها بر کنگره و وعده تغییرات اساسی در آمریکا",
         "title_en": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
@@ -1105,6 +1122,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/hakeem-jeffries-poised-to-become-speaker-of-us-house-of-representatives/ar-AA2gI1zj",
         "image": "http://www.bing.com/th?id=ONUT.QHpYcKzD-OwuJNVvYN3EnQ&pid=News",
         "timestamp": 1793745306.0
+    },
+    {
+        "id": "1e0b23796c",
+        "title_fa": "واراسانی درباره سناریوی جنگ احتمالی با ا... آمریکا",
+        "title_en": "Yemen condemns IRGC, Hezbollah military involvement in Houthi operations",
+        "summary": [
+            "یک کارشناس تلویزیون حکومتی اعتراف کرد شرایط برای پایان سریع درگیری‌های احتمالی مثل گذشته فراهم نیست.",
+            "او هشدار داد هرگونه حمله نظامی این بار با چالش بسته شدن تنگه هرمز و بی‌سرانجام ماندن آن روبه‌رو خواهد شد."
+        ],
+        "impact": "افزایش ترس محافل سیاسی داخلی از پیامدهای جبران‌ناپذیر تنش نظامی فراگیر.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611033246",
+        "clean_url": "https://www.iranintl.com/en/202611033246",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793745060.0
     },
     {
         "id": "81e1612c29",
@@ -5410,42 +5445,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/shin-bet-mossad-close-to-completing-probe-of-qatari-funding-for-arab-get-out-the-vote-effort-report",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261027AVS823-640x400.jpg",
         "timestamp": 1793647680.0
-    },
-    {
-        "id": "8c1750f775",
-        "title_fa": "تغییر استراتژی ج.ا؛ بمب اتم به مثابه چتر نجات",
-        "title_en": "Does Tehran want the bomb? Some in DC say war has shifted Iran's thinking.",
-        "summary": [
-            "تحلیلگران واشنگتن معتقدند ضربات سنگین ماه‌های اخیر به بدنه ج.ا، این حکومت را به سمت دستیابی به سلاح هسته‌ای به عنوان تنها ابزار بازدارنده سوق داده است.",
-            "محسن رضایی با تاکید بر حفظ ذخایر اورانیوم غنی‌شده، عملاً هرگونه عقب‌نشینی در برنامه هسته‌ای را برای بقای ساختار قدرت غیرممکن دانسته است.",
-            "با وجود تخریب زیرساخت‌های کلیدی، ذخایر اورانیوم فعلی ج.ا همچنان برای رسیدن به سطح تسلیحاتی در دسترس است."
-        ],
-        "impact": "افزایش احتمال تنش‌های هسته‌ای و بن‌بست کامل در مذاکرات با غرب.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Christian Science Monitor",
-        "url": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1102/iran-regime-survival-nuclear-policy-bomb",
-        "clean_url": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1102/iran-regime-survival-nuclear-policy-bomb",
-        "image": "https://images.csmonitor.com/csm/2019/12/1094372_1_1205-howard_standard.png?alias=square_200x200",
-        "timestamp": 1793647440.0
-    },
-    {
-        "id": "04e0851b27",
-        "title_fa": "بن‌بست دیپلماسی و سایه سنگین درگیری بین ج.ه و آمریکا",
-        "title_en": "U.S., Iran Threaten Escalation as Diplomacy Stalls",
-        "summary": [
-            "مذاکرات اتمی کاملاً متوقف شده و دو طرف رویارویی را جایگزین گفتگو کرده‌اند.",
-            "واشنگتن و تهران با تهدیدهای متقابل، فضا را به سمت تنش‌های نظامی بیشتر می‌برند."
-        ],
-        "impact": "افزایش ریسک امنیتی و تنش‌های نظامی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Arms Control Association",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmlmT3lPQzFLQllCZ1hQZ3Z5Wkl3ek1XeHdDVkJlcWJZZXI1eUNBdm1zMERMN3VCOGZoUTdNSXpBUVEyZWhJY00wc1liT3ZJNTJ6bTlwY183M0tJMzU0WHNiT2QxNTJLaXpBZ0hhUjkzMWtzM1hNUEtRZ3ZHQVZDeEY2dHlZV0dELTI4UWFIcUpERXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmlmT3lPQzFLQllCZ1hQZ3Z5Wkl3ek1XeHdDVkJlcWJZZXI1eUNBdm1zMERMN3VCOGZoUTdNSXpBUVEyZWhJY00wc1liT3ZJNTJ6bTlwY183M0tJMzU0WHNiT2QxNTJLaXpBZ0hhUjkzMWtzM1hNUEtRZ3ZHQVZDeEY2dHlZV0dELTI4UWFIcUpERXM",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793645486.0
     }
 ]
