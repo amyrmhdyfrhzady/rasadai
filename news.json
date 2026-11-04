@@ -180,6 +180,24 @@
         "timestamp": 1793727419.0
     },
     {
+        "id": "ae68253a14",
+        "title_fa": "پایان سه دهه نمایندگی دانی دیویس در ایلینوی",
+        "title_en": "Voters in 7th congressional district set to choose new congressman for first time in three decades",
+        "summary": [
+            "رأی‌دهندگان حوزه هفتم کنگره پس از سی سال پای صندوق‌های رای رفتند تا جانشین نماینده قدیمی خود را انتخاب کنند.",
+            "رقابت اصلی بین لا شاون فورد دمکرات و چاد کوپی جمهوری‌خواه شکل گرفت."
+        ],
+        "impact": "تغییر پس از سه دهه می‌تواند پویایی سیاسی جدیدی در این منطقه ایجاد کند.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/11/03/illinois-7th-district-results/",
+        "clean_url": "https://www.chicagotribune.com/2026/11/03/illinois-7th-district-results",
+        "image": "http://www.bing.com/th?id=ONUT.N09P-NF-o2CwaRQ-yII4jw&pid=News",
+        "timestamp": 1793725200.0
+    },
+    {
         "id": "c17d6e2640",
         "title_fa": "پیروزی مارک وارنر در انتخابات سنای ویرجینیا",
         "title_en": "Virginia Senate race: Democratic incumbent Mark Warner wins reelection",
@@ -268,6 +286,24 @@
         "clean_url": "https://www.politico.com/storyline/live/2026/11/03/midterm-election-results",
         "image": "http://www.bing.com/th?id=ONUT.EO2N2k36-NStD2Vu7H7AAA&pid=News",
         "timestamp": 1793721960.0
+    },
+    {
+        "id": "ebb960a00f",
+        "title_fa": "بسته شدن حوزه‌های انتخابیه در جنوب فلوریدا",
+        "title_en": "Polls have closed in South Florida. See who's running for Congress",
+        "summary": [
+            "رأی‌گیری در مناطق مختلف میامی-دید به پایان رسید.",
+            "انتخابات تعیین‌کننده نمایندگان جدید کنگره در این بخش از ایالت است."
+        ],
+        "impact": "شمارش آرا برای تعیین کرسی‌های کنگره در فلوریدا آغاز شد.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/polls-have-closed-in-south-florida-see-who-s-running-for-congress/ar-AA2gGY9u",
+        "clean_url": "https://www.msn.com/en-us/news/other/polls-have-closed-in-south-florida-see-who-s-running-for-congress/ar-AA2gGY9u",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793721824.0
     },
     {
         "id": "89d232f2b8",
@@ -5437,42 +5473,5 @@
         "clean_url": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
         "image": "http://www.bing.com/th?id=ONUT.8WKfgMFPI_iVVfexavSfKA&pid=News",
         "timestamp": 1793522880.0
-    },
-    {
-        "id": "368fec81c1",
-        "title_fa": "خط و نشان ترامپ: انهدام باقی‌مانده تأسیسات اتمی ایران در ۱۰ دقیقه",
-        "title_en": "Trump on remaining Iranian nuclear sites: 'We can do that in 10 minutes'",
-        "summary": [
-            "دونالد ترامپ با بی‌اعتماد خواندن تهران اعلام کرد آمریکا می‌تواند در کمتر از ۱۰ دقیقه یک یا دو سایت اتمی باقی‌مانده از جمله تأسیسات زیرزمینی کوه کلنگ در نطنز را هدف قرار دهد.",
-            "واشنگتن هم‌زمان با ادعای پیشبرد گفت‌وگوها، گزینه ضربه نظامی سریع را به عنوان اهرم نهایی فشار حفظ کرده است.",
-            "در مقابل، مجتبی خامنه‌ای به نیروهای مسلح دستور داده تا برای پاسخ فوری به هرگونه حمله احتمالی در آماده‌باش کامل قرار گیرند."
-        ],
-        "impact": "افزایش شدید ریسک درگیری مستقیم نظامی و جهش ناگهانی قیمت ارز و طلا در بازار تهران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Cleveland Jewish News",
-        "url": "https://www.clevelandjewishnews.com/jns/trump-on-remaining-iranian-nuclear-sites-we-can-do-that-in-10-minutes/article_653d8bd1-0e34-5996-8021-09fdd03f3c56.html",
-        "clean_url": "https://www.clevelandjewishnews.com/jns/trump-on-remaining-iranian-nuclear-sites-we-can-do-that-in-10-minutes/article_653d8bd1-0e34-5996-8021-09fdd03f3c56.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg?resize=600%2C315",
-        "timestamp": 1793522820.0
-    },
-    {
-        "id": "b8e4da6236",
-        "title_fa": "شبکه پنهان قاچاق نظامی جـ.هـ.ـوری اسـ.لـ.امـ.ی از تحریم‌ها",
-        "title_en": "Iran has a hidden network of military agencies managing to smuggle hardware past US blockade",
-        "summary": [
-            "مقام سابق وزارت خزانه‌داری آمریکا پرده از یک اکوسیستم کامل تجاری و نظامی برای دور زدن محاصره برداشت.",
-            "تجهیزات نظامی پیچیده به راحتی از لایه‌های تحریم‌های آمریکا عبور داده می‌شوند."
-        ],
-        "impact": "ناتوانی تحریم‌های آمریکا در بستن کامل مسیرهای قاچاق تجهیزات نظامی به داخل کشور.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-has-a-hidden-network-of-military-agencies-managing-to-smuggle-hardware-past-us-blockade/ar-AA2gwyGT",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-hidden-network-of-military-agencies-managing-to-smuggle-hardware-past-us-blockade/ar-AA2gwyGT",
-        "image": "http://www.bing.com/th?id=ONUT.R6d7XLDniyYfBKZ0xkHJPA&pid=News",
-        "timestamp": 1793522076.0
     }
 ]
