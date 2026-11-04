@@ -562,6 +562,24 @@
         "timestamp": 1793781838.0
     },
     {
+        "id": "03e8bdc741",
+        "title_fa": "شکاف در کاخ سفید؛ ونس جنگ با ایران را زیر سوال برد",
+        "title_en": "Vance repudiates Iran war after US electoral defeat",
+        "summary": [
+            "معاون رئیس‌جمهور آمریکا به‌طور رسمی از سیاست‌های نظامی ترامپ علیه ج.ا فاصله گرفت.",
+            "این مقام ارشد آمریکایی، هزینه‌های سنگین جنگ را عامل اصلی شکست جمهوری‌خواهان در انتخابات اخیر معرفی کرد."
+        ],
+        "impact": "تردیدهای داخلی در واشنگتن می‌تواند به کاهش فشارهای نظامی و تغییر در معادلات راهبردی آمریکا منجر شود.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Miami Herald",
+        "url": "https://www.miamiherald.com/news/nation-world/national/article317927296.html",
+        "clean_url": "https://www.miamiherald.com/news/nation-world/national/article317927296.html",
+        "image": "http://www.bing.com/th?id=ONUT.Mv6SCYG-EYck_wnfqw3jhA&pid=News",
+        "timestamp": 1793780880.0
+    },
+    {
         "id": "9de9c960fe",
         "title_fa": "ترامپ: ایران به دنبال توافق است و این احتمال وجود دارد",
         "title_en": "Trump Says Iran Wants A Deal 'And It Could Happen'",
@@ -5429,24 +5447,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/midterm-elections-republicans-are-about-to-get-their-report-card-from-voters-and-it-could-be-ugly/ar-AA2gF5HL",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793674817.0
-    },
-    {
-        "id": "9507485671",
-        "title_fa": "فشار ترامپ و گزینه روی میز ضربات نظامی به تـجـریا",
-        "title_en": "Trump mulls Iran strikes after midterms, as mediators push for peace deal",
-        "summary": [
-            "واشنگتن در آستانه تصمیم‌گیری نهایی درباره گزینه نظامی است و میانجی‌گری‌های منطقه‌ای با محوریت قطر جریان دارد.",
-            "موضع مقامات جـمـهـورۍ اسـلا‌مـی همچنان فرافکنی و انداختن توپ در زمین حریف است.",
-            "نامه معاون رئیس‌جمهور آمریکا به مقامات امنیتی ارشد، نشان‌دهنده تلاش برای راه‌اندازی کانال‌های پشت‌پرده است."
-        ],
-        "impact": "بازارها در انتظار تصمیمات سخت‌گیرانه واشنگتن دچار نوسان شدید شده‌اند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-mulls-iran-strikes-midterms-110000602.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-mulls-iran-strikes-midterms-110000602.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/8dc8ff7f98f1364a7ec3d4f992f94273ed74878a66bb22f1c29658bd6b3fec2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F6d69392bcb8b3b7a36527243789c8898.jpg",
-        "timestamp": 1793674800.0
     }
 ]
