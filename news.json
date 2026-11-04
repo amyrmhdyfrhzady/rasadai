@@ -1,5 +1,23 @@
 [
     {
+        "id": "84e2371b7b",
+        "title_fa": "تغییر بازی تهران: حرکت به سمت سلاح هسته‌ای",
+        "title_en": "Iran is slowly crossing a red line that seems unthinkable: Tehran looks more and more likely to want nuclear weapons",
+        "summary": [
+            "رادیکال شدن مقامات و روحانیون ایران در حمایت از دستیابی به بمب اتم، خط قرمزهای قبلی را جابه‌جا کرده است.",
+            "از دست رفتن کنترل آژانس بین‌المللی بر ذخایر اورانیوم غنی‌شده، نشان از فراتر رفتن از توافقات قبلی دارد."
+        ],
+        "impact": "افزایش احتمال درگیری نظامی یا تحریم‌های بی‌سابقه برای جلوگیری از دستیابی هسته‌ای.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "National Security Journal",
+        "url": "https://www.msn.com/en-us/news/other/iran-is-slowly-crossing-a-red-line-that-seems-unthinkable-tehran-looks-more-and-more-likely-to-want-nuclear-weapons/ar-AA2gLgGV",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-slowly-crossing-a-red-line-that-seems-unthinkable-tehran-looks-more-and-more-likely-to-want-nuclear-weapons/ar-AA2gLgGV",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1StRI0.img?w=1280&h=853&m=4&q=88",
+        "timestamp": 1793811555.0
+    },
+    {
         "id": "a54e23ed4f",
         "title_fa": "پیامدهای ناکامی انتخاباتی ترامپ برای تهران، تل‌آویو و کی‌یف",
         "title_en": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
@@ -469,6 +487,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/irans-leaders-say-midterm-results-show-us-voters-have-rejected-trumps-war/ar-AA2gK3AN",
         "image": "http://www.bing.com/th?id=ONUT.9BZFvKfl6UXle3bardDxpw&pid=News",
         "timestamp": 1793776835.0
+    },
+    {
+        "id": "7380477b19",
+        "title_fa": "تقابل ایران و آمریکا؛ میان توافق یا جنگ",
+        "title_en": "Decisive choice in Iran-US confrontation: Deal or war?",
+        "summary": [
+            "اظهارات غالیباف درباره عدم تمایل آمریکا به جنگ، بیشتر یک بازی روانی برای آرام کردن تنش‌های داخلی است.",
+            "نتایج انتخابات آمریکا و تغییر موازنه قدرت در کنگره، فضای دیپلماتیک را برای تصمیمات سرنوشت‌ساز آینده پیچیده کرده است."
+        ],
+        "impact": "تنش‌های سیاسی و دیپلماتیک بالا در سایه تغییرات قدرت در واشینگتن.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Trend News Agency",
+        "url": "https://www.trend.az/iran/4243005.html",
+        "clean_url": "https://www.trend.az/iran/4243005.html",
+        "image": "https://www.trend.az/media/2025/04/26/trend_iran_usa_flags_260425_3.jpg",
+        "timestamp": 1793776500.0
     },
     {
         "id": "da4723bd79",
@@ -5410,40 +5446,5 @@
         "clean_url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/desantis-says-iran-war-is-big-big-drag-on-gop-iYjcUnr7SxgH17iKI3qA",
         "image": "http://www.bing.com/th?id=ONUT.FNiKyUVPBLT8dzFa6Jmerg&pid=News",
         "timestamp": 1793671560.0
-    },
-    {
-        "id": "44ce2f52fd",
-        "title_fa": "آمادگی ترامپ برای چالش‌های سرنوشت‌ساز در انتخابات میان‌دوره‌ای",
-        "title_en": "Trump's midterm reckoning: A repudiation or triumph awaits",
-        "summary": [
-            "مواجهه ترامپ با یکی از بزرگترین آزمون‌های سیاسی خود در انتخابات میان‌دوره‌ای آمریکا",
-            "این رقابت‌ها به عنوان یک شاخص کلیدی برای ارزیابی قدرت سیاسی و آینده او عمل می‌کند"
-        ],
-        "impact": "تعیین‌کننده مسیر آینده سیاسی جریان طرفدار ترامپ در ساختار قدرت آمریکا.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/politics/2026/11/03/trump-republicans-midterm-reckoning-blue-wave-election/92497949007/",
-        "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/03/trump-republicans-midterm-reckoning-blue-wave-election/92497949007",
-        "image": "http://www.bing.com/th?id=ONUT.kcciDVTiI6fk9yIDeqGUIQ&pid=News",
-        "timestamp": 1793671320.0
-    },
-    {
-        "id": "a483e46ca9",
-        "title_fa": "هم‌نظر شدن بوتیجیج و رئیس مجلس نمایندگان",
-        "title_en": "Buttigieg agrees with top Republican: This is what’s at stake in midterms",
-        "summary": [
-            "پیت بوتیجیج اعلام کرد با مایک جانسون درباره اهمیت سرنوشت‌ساز انتخابات میترم هم‌نظر است."
-        ],
-        "impact": "تمرکز رهبران دو حزب بر اهمیت حیاتی انتخابات میترم.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/11/buttigieg-agrees-with-top-republican-this-is-whats-at-stake-in-midterms.html",
-        "clean_url": "https://www.mlive.com/politics/2026/11/buttigieg-agrees-with-top-republican-this-is-whats-at-stake-in-midterms.html",
-        "image": "http://www.bing.com/th?id=ONUT.1hJ8ov5tpZh9-PfXqTTHhQ&pid=News",
-        "timestamp": 1793671140.0
     }
 ]
