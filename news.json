@@ -798,6 +798,24 @@
         "timestamp": 1793706420.0
     },
     {
+        "id": "2af21e579d",
+        "title_fa": "رکوردشکنی قیمت بنزین در روز انتخابات آمریکا",
+        "title_en": "Gas Prices Hit Election Day Record—Now $4.15 Per Gallon",
+        "summary": [
+            "میانگین قیمت هر گالن بنزین در روز انتخابات میان‌دوره‌ای به رقم بی‌سابقه ۴.۱۵ دلار رسید.",
+            "افزایش هزینه‌های سوخت فشار سنگینی بر رای‌دهندگان و سبد خرید شهروندان آمریکایی وارد کرده است."
+        ],
+        "impact": "گرانی سوخت عامل کلیدی نارضایتی عمومی و تغییر موازنه قدرت به نفع جمهوری‌خواهان در مجلس شد.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/03/gas-prices-hit-election-day-record-now-415-per-gallon/",
+        "clean_url": "https://www.forbes.com/sites/zacharyfolk/2026/11/03/gas-prices-hit-election-day-record-now-415-per-gallon",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793704500.0
+    },
+    {
         "id": "f71d96ad35",
         "title_fa": "تحقیقات قضایی فرانسه درباره جنایت جنگی ارتش اسرائیل در لبنان",
         "title_en": "French Judges Probe War Crimes Complaint against Israeli Army in Lebanon",
@@ -5460,24 +5478,5 @@
         "clean_url": "https://www.mangaloretoday.com/headlines/US-Military-Prepares-for-Possible-Major-Strikes-on-Iran-Within-96-Hours-Report.html",
         "image": "https://www.mangaloretoday.com/contentfiles/2026/nov/US_War_1nov26_1.jpg",
         "timestamp": 1793491200.0
-    },
-    {
-        "id": "f5a14542da",
-        "title_fa": "هشدار کشورهای عربی: دور بعدی درگیری با ایران به شدت ویرانگر است",
-        "title_en": "Iran's former minister acknowledges deep generational divide and anger at reformists",
-        "summary": [
-            "وزرای خارجه شورای همکاری خلیج فارس و مصر در اجلاس منامه نسبت به پیامدهای مخرب دور تازه تنش میان آمریکا و ایران هشدار دادند.",
-            "وزیر خارجه مصر صراحتاً تاکید کرد درگیری احتمالی بعدی بسیار خطرناک‌تر و گسترده‌تر از گذشته خواهد بود.",
-            "شورای همکاری خلیج فارس اعلام کرد دیپلماسی به شریک پاسخگو نیاز دارد و حملات نیابتی حوثی‌ها کل امنیت منطقه را به خطر انداخته است."
-        ],
-        "impact": "افزایش انزوای منطقه‌ای تهران و تشدید فشارهای دیپلماتیک برای مهار تحرکات نیابتی.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.65,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610318080",
-        "clean_url": "https://www.iranintl.com/en/202610318080",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/9802729d4e51834c9fd016c4b33a864d5ad604a8-600x800.jpg?rect=0,31,600,450&w=320&h=240&q=90&fit=max&auto=format",
-        "timestamp": 1793481780.0
     }
 ]
