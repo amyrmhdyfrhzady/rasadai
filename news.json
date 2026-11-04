@@ -180,6 +180,42 @@
         "timestamp": 1793727419.0
     },
     {
+        "id": "c17d6e2640",
+        "title_fa": "پیروزی مارک وارنر در انتخابات سنای ویرجینیا",
+        "title_en": "Virginia Senate race: Democratic incumbent Mark Warner wins reelection",
+        "summary": [
+            "مارک وارنر، سناتور دموکرات و نایب رئیس کمیته اطلاعات سنا، برای دور چهارم انتخاب شد.",
+            "این پیروزی در ایالتی رقم خورد که جمعیت بزرگی از کارمندان فدرال را در خود جای داده است."
+        ],
+        "impact": "تثبیت جایگاه دموکرات‌ها در کمیته کلیدی اطلاعات سنا.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/11/03/virginia-senate-race-results/",
+        "clean_url": "https://www.chicagotribune.com/2026/11/03/virginia-senate-race-results",
+        "image": "http://www.bing.com/th?id=ONUT.UgOSYi9zjyL5c_Zidbe-ww&pid=News",
+        "timestamp": 1793724240.0
+    },
+    {
+        "id": "cd5c4cea6e",
+        "title_fa": "ابقای جان آسوف در سنا از ایالت جورجیا",
+        "title_en": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia",
+        "summary": [
+            "جان آسوف با پیروزی بر رقیب جمهوری‌خواه، کرسی خود را در سنا حفظ کرد.",
+            "این برد کلیدی در یک ایالت سرنوشت‌ساز، جایگاه دموکرات‌ها را در معادلات کنگره تقویت کرد."
+        ],
+        "impact": "حفظ یک کرسی حیاتی برای دموکرات‌ها در سنای آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "NBC New York",
+        "url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183/",
+        "clean_url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183",
+        "image": "http://www.bing.com/th?id=ONUT.QFu4A_SecSgZjIAtXg8q3g&pid=News",
+        "timestamp": 1793724120.0
+    },
+    {
         "id": "017feb252f",
         "title_fa": "تاثیر انتخابات میان‌دوره آمریکا بر راهبرد واشنگتن در قبال ایران",
         "title_en": "Can US midterm election really change Trump's Iran policy?",
@@ -5438,41 +5474,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-hidden-network-of-military-agencies-managing-to-smuggle-hardware-past-us-blockade/ar-AA2gwyGT",
         "image": "http://www.bing.com/th?id=ONUT.R6d7XLDniyYfBKZ0xkHJPA&pid=News",
         "timestamp": 1793522076.0
-    },
-    {
-        "id": "6095037b5a",
-        "title_fa": "ترامپ: عجله‌ای برای توافق با ج.م.ا نداریم",
-        "title_en": "Iran live updates: Trump says US not in 'a hurry' to agree deal",
-        "summary": [
-            "دونالد ترامپ اعلام کرد ایالات متحده هیچ شتابی برای دستیابی به توافق جدید با تهران ندارد.",
-            "سیاست فشار حداکثری بدون تخفیف ادامه دارد تا ج.م.ا در موضع ضعف کامل قرار گیرد."
-        ],
-        "impact": "تداوم فضای ابهام و فشار تحریمی بر اقتصاد ایران بدون چشم‌انداز توافق سریع.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-us-not-in-a-hurry-to-agree-deal/ar-AA2g3S5x",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-us-not-in-a-hurry-to-agree-deal/ar-AA2g3S5x",
-        "image": "http://www.bing.com/th?id=ONUT.LzrK3_XaIQZigd8Eq_sNKw&pid=News",
-        "timestamp": 1793520007.0
-    },
-    {
-        "id": "bf80b13850",
-        "title_fa": "واکنش تند قطر به حمله به نفت‌کش و شکایت ایران به سازمان جهانی",
-        "title_en": "Live: Iran says Hormuz could be reopened within two days if conditions met",
-        "summary": [
-            "دوحه حمله به نفت‌کش خود در خلیج فارس را به شدت محکوم کرده و حق پاسخگویی را برای خود محفوظ دانسته است.",
-            "تهران نیز پرونده مستندات حملات آمریکا و اسرائیل به زیرساخت‌های دریایی خود را به سازمان بین‌المللی دریانوردی تحویل داد."
-        ],
-        "impact": "بالا گرفتن تنش‌های دریایی و به خطر افتادن امنیت انرژی در منطقه.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/live/live-israelis-head-polls-netanyahu-fights-political-life",
-        "clean_url": "https://www.middleeasteye.net/live/live-israelis-head-polls-netanyahu-fights-political-life",
-        "image": "https://www.middleeasteye.net/sites/default/files/2026-10/ISRAEL_ELECTIONS_AFP.jpg",
-        "timestamp": 1793519580.0
     }
 ]
