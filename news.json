@@ -1,5 +1,23 @@
 [
     {
+        "id": "0b99d30adc",
+        "title_fa": "ترامپ: فعلاً برنامه‌ای برای حمله نظامی به ج.ا وجود ندارد",
+        "title_en": "US has no immediate plan to strike Iran, Trump tells FT",
+        "summary": [
+            "دونالد ترامپ در گفتگو با فایننشال تایمز تاکید کرد که ایالات متحده در مقطع فعلی طرحی برای اقدام نظامی مستقیم علیه ایران ندارد.",
+            "این موضع‌گیری نشان می‌دهد فشارها علیه حکومت فعلاً روی اهداف غیرنظامی و اقتصادی متمرکز خواهد بود."
+        ],
+        "impact": "کاهش نسبی هیجان کاذب در بازارهای مالی و تخلیه بخشی از ترس‌های جنگی.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793748876.0
+    },
+    {
         "id": "b2470d6609",
         "title_fa": "افزایش گرایش به سلاح هسته‌ای در میان شهروندان ایـران",
         "title_en": "On Cusp of Renewed War, More Iranians are Calling for Nuclear Weapons",
@@ -5461,24 +5479,5 @@
         "clean_url": "https://www.iranintl.com/en/202610318080",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/9802729d4e51834c9fd016c4b33a864d5ad604a8-600x800.jpg?rect=0,31,600,450&w=320&h=240&q=90&fit=max&auto=format",
         "timestamp": 1793481780.0
-    },
-    {
-        "id": "0a36c9443d",
-        "title_fa": "توافق پنهانی واشنگتن و تهران برای پایان جنگ",
-        "title_en": "Washington and Tehran Release Details of MoU to End War",
-        "summary": [
-            "انتشار جزئیات تفاهم‌نامه محرمانه میان آمریکا و ایران برای برقراری آتش‌بس فوری و دائمی.",
-            "تعهد طرفین به مذاکره ۶۰ روزه برای دستیابی به توافق نهایی و لغو تدریجی تحریم‌ها.",
-            "توقف کامل عملیات‌های نظامی در تمامی جبهه‌ها از جمله لبنان بر اساس این سند مکتوب."
-        ],
-        "impact": "تغییر بزرگ در معادلات نظامی منطقه و احتمال چرخش از رویارویی به میز مذاکره.",
-        "tag": "دیپلماسی",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "qna",
-        "url": "https://qna.org.qa/en/news/news-details?date=18/06/2026&id=washington-and-tehran-release-details-of-mou-to-end-war",
-        "clean_url": "https://qna.org.qa/en/news/news-details",
-        "image": "https://cdn.qna.org.qa/media/qfldcosq/qna-22qatar-team-16-6-2030.jpg?width=1200&height=900&v=1dcfe858da357b0",
-        "timestamp": 1793456280.0
     }
 ]
