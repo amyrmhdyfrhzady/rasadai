@@ -1127,6 +1127,25 @@
         "timestamp": 1793751868.0
     },
     {
+        "id": "ea839ce29c",
+        "title_fa": "خط‌ونشان تازه ترامپ برای تهران: آماده حمله هستیم اما فعلاً صبر می‌کنیم",
+        "title_en": "Trump: No immediate plans to restart confrontation with Iran",
+        "summary": [
+            "دونالد ترامپ اعلام کرد اگرچه فعلاً برنامه‌ای برای حمله جدید به ایران وجود ندارد، اما نیروهای آمریکایی در وضعیت آماده‌باش کامل و دست‌به‌زناد قرار دارند.",
+            "واشنگتن هم‌زمان با حفظ گزینه نظامی، مذاکرات غیرمستقیم با تهران را برای تعیین تکلیف حدود ۵۰۰ کیلوگرم اورانیوم غنی‌شده دفن‌شده زیر آوار تاسیسات هسته‌ای ادامه می‌دهد.",
+            "ارزیابی کاخ سفید این است که فشارها جواب داده و آمریکا بدون نیاز به درگیری نظامی مستقیم، در حال گرفتن امتیازات مورد نظر خود از ج.ا است."
+        ],
+        "impact": "تداوم سایه سنگین تهدید نظامی همراه با فشار برای تخلیه کامل ذخایر استراتژیک اورانیوم ایران.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/news/u-s-news/trump-no-immediate-plans-to-restart-confrontation-with-iran",
+        "clean_url": "https://www.jns.org/news/u-s-news/trump-no-immediate-plans-to-restart-confrontation-with-iran",
+        "image": "http://www.bing.com/th?id=ONUT.Db3OPRQnTwlrjAKbWwD-Kg&pid=News",
+        "timestamp": 1793751540.0
+    },
+    {
         "id": "353662d8ca",
         "title_fa": "واکنش جنجالی ترامپ در فاکس‌نیوز به اعلام نتایج انتخابات",
         "title_en": "Trump’s Live Phone Interview Takes Unexpected Turn As Fox News Calls Minnesota Race",
@@ -5426,23 +5445,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms",
         "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/5b50364e-0415-4ef6-b5ef-c4459c66b44f/thumbnail/1200x630/77e1482bc12ef3b23dfaad04aba513a2/gettyimages-2302492549.jpg",
         "timestamp": 1793662320.0
-    },
-    {
-        "id": "91828bcccd",
-        "title_fa": "گفت‌وگوهای پنهان واشنگتن و تهران برای پایان تنش‌ها",
-        "title_en": "Vance says US has had ‘good conversations’ with Iran on finding deal to end conflict",
-        "summary": [
-            "مقام ارشد آمریکایی از انجام مذاکرات سازنده با طرف ایـرانـی خبر داد.",
-            "هدف اصلی این تماس‌ها رسیدن به توافقی برای مهار بحران و پایان دادن به درگیری‌هاست."
-        ],
-        "impact": "آزمون جدی دیپلماسی پشت پرده میان دو کشور برای خروج از بن‌بست نظامی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793662020.0
     }
 ]
