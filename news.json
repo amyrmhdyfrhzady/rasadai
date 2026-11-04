@@ -198,6 +198,24 @@
         "timestamp": 1793748540.0
     },
     {
+        "id": "c1500ab4d5",
+        "title_fa": "واکنش مقام ارشد ج.ا به شکست انتخاباتی ترامپ",
+        "title_en": "Americans said no to war: Top Iran negotiator on Trump's midterm setback",
+        "summary": [
+            "مذاکره‌کننده ارشد ج.ا با استقبال از شکست جمهوری‌خواهان در کنگره، آن را نشانه بیزاری مردم آمریکا از سیاست‌های جنگ‌طلبانه ترامپ می‌داند.",
+            "این موضع‌گیری تلاشی برای القای این پیام است که فشار حداکثری و سیاست‌های تهاجمی واشنگتن در داخل آمریکا نیز فاقد پایگاه مردمی است."
+        ],
+        "impact": "تغییر موازنه قدرت در کنگره آمریکا می‌تواند دست ترامپ را برای پیشبرد سیاست‌های سخت‌گیرانه علیه ج.ا محدودتر کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "NDTV on MSN",
+        "url": "https://www.msn.com/en-in/news/other/americans-said-no-to-war-top-iran-negotiator-on-trump-s-midterm-setback/ar-AA2gItb2",
+        "clean_url": "https://www.msn.com/en-in/news/other/americans-said-no-to-war-top-iran-negotiator-on-trump-s-midterm-setback/ar-AA2gItb2",
+        "image": "http://www.bing.com/th?id=ONUT.4XOlABcplTFdLHjSYeYULw&pid=News",
+        "timestamp": 1793747677.0
+    },
+    {
         "id": "4c5f2a92c4",
         "title_fa": "شکست جریان مگا در انتخابات میشیگان",
         "title_en": "El-Sayed asked Michigan voters to reject MAGA. They listened | Opinion",
@@ -5441,23 +5459,5 @@
         "clean_url": "https://jstribune.com/the-iran-war-what-victory-must-achieve",
         "image": "https://jstribune.com/wp-content/uploads/2026/11/1US.jpg",
         "timestamp": 1793609340.0
-    },
-    {
-        "id": "d88fe11676",
-        "title_fa": "اختلاف ترامپ و نتانیاهو درباره جنگ با ایـران",
-        "title_en": "Trump said weighing who to scapegoat for Iran war as he clashes with PM over renewed attack",
-        "summary": [
-            "دونالد ترامپ در حال ارزیابی شرایط است تا مقصر احتمالی جنگ احتمالی با ایـران را مشخص کند.",
-            "اختلاف‌نظر جدی میان ترامپ و نخست‌وزیر اسرائیل بر سر زمان‌بندی و ضرورت حملات مجدد نظامی شکل گرفته است."
-        ],
-        "impact": "این تنش‌ها می‌تواند معادلات حمله نظامی و رویکرد واشینگتن در قبال تنش‌های منطقه‌ای را تغییر دهد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDRueUpBNnN2U1pSVWtjbmN3N2FtRHpPTGo2dWJ2R0VSWThJT3dZMzFWMHFIRU9rOEtQRlhUa3JBS2hhSkJnaDdoWlduZkpEN2EzLXVaampuc2loNnpBQkM1NzVxWjE3aDA0bFZiMm5tX0kwYXlrYWg3OVZQaWdpUWxOQ3ByaVBQVUJpWHlURm14SVY1ZndUMXFGemNJUW9YQ1puU1dLUG1mdDR6bXQxX1VoWHg4dmwwOHBsSjZCZ9IBxAFBVV95cUxQSVhhcVk5Ym1RczJzSnZVbGdGcFVVazBoTVBNLVFFb0NOR3hvcnJxRFdkYVhsd3M5ZnJ3Ym5XVVZMSXVGX0Z6bmZJSGl5eGNwXy1jRTFGejJUN1BZWGN5LWNKdVduUDN4UVpjcWVtSVRZb2JQVGF5dndaczhfTXFDYTdmNlJsR1NsZER1RjBOOGNWME93a3lWV19oT3RKNWNHOFJTMnB4UDk0YVM5R0NOMVEwMWJ5Z2RkNldOUVFEZWp0dXE2",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793609325.0
     }
 ]
