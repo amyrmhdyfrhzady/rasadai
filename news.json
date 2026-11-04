@@ -180,6 +180,42 @@
         "timestamp": 1793724106.0
     },
     {
+        "id": "07aed66bbe",
+        "title_fa": "تمرکز رای‌دهندگان آمریکایی بر تورم و هزینه‌های کمرشکن انرژی",
+        "title_en": "Erie and Niagara County voters highlight affordability, energy costs and governor’s race on Election Day",
+        "summary": [
+            "هزینه‌های معیشتی و قبوض سنگین انرژی به متغیر اصلی تعیین‌کننده سرنوشت انتخابات منطقه‌ای تبدیل شده‌اند.",
+            "فشار افکار عمومی، نامزدها را مجبور به اتخاذ مواضع تندتر علیه سیاست‌های فعلی انرژی کرده است."
+        ],
+        "impact": "افزایش احتمال تغییر سیاست‌های انرژی و برنامه‌های اقتصادی دولت.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "WGRZ",
+        "url": "https://www.wgrz.com/article/news/politics/elections/erie-niagara-county-voters-highlight-affordability-energy-costs-and-governors-race-on-election-day/71-e8bc3392-13c0-46fa-8ada-45230099c4f7",
+        "clean_url": "https://www.wgrz.com/article/news/politics/elections/erie-niagara-county-voters-highlight-affordability-energy-costs-and-governors-race-on-election-day/71-e8bc3392-13c0-46fa-8ada-45230099c4f7",
+        "image": "http://www.bing.com/th?id=ONUT.EhOjqo9D0P4tVCFRdiMCug&pid=News",
+        "timestamp": 1793722320.0
+    },
+    {
+        "id": "23e39bbba6",
+        "title_fa": "عقب‌نشینی طرح‌های مالیاتی چپ‌ها در روز انتخابات آمریکا",
+        "title_en": "Polls begin to close in elections that could reshape Washington",
+        "summary": [
+            "تضعیف شانس تصویب طرح «مالیات بر ثروت» نشان از تغییر ذائقه اقتصادی رای‌دهندگان آمریکایی دارد.",
+            "سرنوشت پیشنهادات مالیاتی مستقیماً بر ساختار بودجه واشنگتن و سرمایه‌گذاری‌های آتی تأثیر می‌گذارد."
+        ],
+        "impact": "احتمال شکست طرح‌های افزایش مالیات و تغییر مسیر سیاست‌های پولی فدرال.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Politico",
+        "url": "https://www.politico.com/storyline/live/2026/11/03/midterm-election-results",
+        "clean_url": "https://www.politico.com/storyline/live/2026/11/03/midterm-election-results",
+        "image": "http://www.bing.com/th?id=ONUT.EO2N2k36-NStD2Vu7H7AAA&pid=News",
+        "timestamp": 1793721960.0
+    },
+    {
         "id": "89d232f2b8",
         "title_fa": "تلاش قطر برای میانجی‌گری میان تهران و واشنگتن",
         "title_en": "US, Iran Restore Diplomacy amid Limited Strikes",
@@ -215,6 +251,24 @@
         "clean_url": "https://www.voiceofemirates.com/en/politics/2026/11/03/iran-threatens-to-extend-its-missile-strikes-to-the-heart-of-europe-and-target-nato-bases",
         "image": "https://www.voiceofemirates.com/wp-content/uploads/2026/11/الصواريخ-الإيرانية.webp",
         "timestamp": 1793720100.0
+    },
+    {
+        "id": "38d154c3b3",
+        "title_fa": "تشدید پرونده‌های حقوقی ترامپ با نامه‌های هدف وزارت دادگستری",
+        "title_en": "Todd Blanche responds to Alaska scenarios as Trump DOJ sends target letters",
+        "summary": [
+            "فشار دستگاه قضایی آمریکا بر تیم ترامپ با ارسال نامه‌های اخطار در پرونده آلاسکا وارد فاز حادتر شده است.",
+            "تیم دفاعی ترامپ در حال تنظیم استراتژی حقوقی جدید برای مقابله با بازبینی آرای متنازع‌فیه است."
+        ],
+        "impact": "افزایش تنش‌های حقوقی و ساختارشکنی موازنه‌های سیاسی در آستانه اعلام نتایج حساس.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/todd-blanche-responds-to-alaska-scenarios-as-trump-doj-sends-target-letters/ar-AA2gHmy9",
+        "clean_url": "https://www.msn.com/en-us/news/other/todd-blanche-responds-to-alaska-scenarios-as-trump-doj-sends-target-letters/ar-AA2gHmy9",
+        "image": "http://www.bing.com/th?id=ONUT.Yj0GO7-ksMZWdHyjbxBUhw&pid=News",
+        "timestamp": 1793720032.0
     },
     {
         "id": "eee391b59f",
@@ -5422,61 +5476,5 @@
         "clean_url": "https://news24online.com/world/iran-us-deal-well-break-its-horns-iran-security-czar-mohsen-rezaei-issues-chilling-warning-to-us-amid-peace-deal-murmurs-makes-big-statement-on-iran-nuclear-doctrine-iran-us-war/949296",
         "image": "http://www.bing.com/th?id=ONUT.bGQRgcz17XP4tLwy6qO9Dg&pid=News",
         "timestamp": 1793503920.0
-    },
-    {
-        "id": "ab063f2245",
-        "title_fa": "شبکه پنهان نظامی برای دورزدن تحریم‌ها",
-        "title_en": "Reuters: Secret network of Iranian military agencies manages to import equipment despite US blockade",
-        "summary": [
-            "مجموعه‌ای از نهادهای پوششی زیر نظر وزارت دفاع، تجهیزات پهپادی و موشکی را به ارزش میلیاردها دلار وارد کشور کرده‌اند.",
-            "این شبکه مالی و لجستیکی پیچیده توانسته تحریم‌های دریایی آمریکا و غرب را دور بزند."
-        ],
-        "impact": "تداوم تامین تسلیحاتی با وجود فشارهای حداکثری و تحریم‌های سنگین",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Vijesti",
-        "url": "https://en.vijesti.me/world-a/globus/834251/rojters-tajna-mreza-iranskih-vojnih-agencija-uspijeva-da-uvozi-opremu-uprkos-americkoj-blokadi",
-        "clean_url": "https://en.vijesti.me/world-a/globus/834251/rojters-tajna-mreza-iranskih-vojnih-agencija-uspijeva-da-uvozi-opremu-uprkos-americkoj-blokadi",
-        "image": "https://www.vijesti.me/data/images/2026/11/01/15/5771102_20261026t134555z-1245551852-rc2saoafctkq-rtrmadp-3-irancrisis_share.jpg",
-        "timestamp": 1793498460.0
-    },
-    {
-        "id": "14f825b4b0",
-        "title_fa": "تردید ترامپ در حملات جدید؛ چانه‌زنی تـهران در دوحه بر سر تنگه هرمز",
-        "title_en": "Trump 'hasn't made a decision' on whether to resume Iran strikes, Rubio says",
-        "summary": [
-            "مارکو روبیو اعلام کرد ترامپ هنوز درباره ازسرگیری حملات نظامی به تـهران تصمیم قطعی نگرفته اما دیپلماسی را ترجیح می‌دهد.",
-            "تـهران از طریق میانجی‌های قطری تلاش می‌کند لغو محاصره بنادر، آزادسازی پول‌های بلوکه‌شده و فروش نفت را در قبال بازگشایی تنگه هرمز امتیاز بگیرد.",
-            "واشنگتن شرط و شروط اولیه تـهران را رد کرده و تـهران نیز فعلاً از گفتگو و مذاکره مستقیم با مقامات امریکایی سر باز می‌زند."
-        ],
-        "impact": "تداوم ریسک‌های امنیتی در تنگه هرمز و نوسان شدید در بازار انرژی و بازار ارز داخلی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-trump-israel-strait-hormuz-10-31-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-trump-israel-strait-hormuz-10-31-26",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/caa76dd489a9af6c9797bc7109858a20.jpg",
-        "timestamp": 1793497740.0
-    },
-    {
-        "id": "189c131b2b",
-        "title_fa": "آماده‌باش ۹۶ ساعته ارتش آمریکا برای حمله به تاسیسات ایران",
-        "title_en": "US Military Prepares for Possible Major Strikes on Iran Within 96 Hours: Report",
-        "summary": [
-            "پنتاگون بانک اهداف جامع شامل زیرساخت‌های هسته‌ای، پایگاه‌های سپـاه و مراکز انرژی را روی میز دونالد ترامپ قرار داده است.",
-            "گزارش‌ها نشان می‌دهد احتمال تصمیم‌گیری نهایی واشنگتن پس از انتخابات میان‌دوره‌ای آمریکا بسیار بالا است.",
-            "با فروپاشی کامل توافقات آتش‌بس قبلی، ارتش آمریکا آمادگی خود را برای یک ضربه گسترده ظرف ۴ روز اعلام کرده است."
-        ],
-        "impact": "ریسک فوق‌العاده بالا برای تاسیسات حیاتی و احتمال جهش بی‌سابقه در بازار ارز و نفت.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Mangalore Today",
-        "url": "https://www.mangaloretoday.com/headlines/US-Military-Prepares-for-Possible-Major-Strikes-on-Iran-Within-96-Hours-Report.html",
-        "clean_url": "https://www.mangaloretoday.com/headlines/US-Military-Prepares-for-Possible-Major-Strikes-on-Iran-Within-96-Hours-Report.html",
-        "image": "https://www.mangaloretoday.com/contentfiles/2026/nov/US_War_1nov26_1.jpg",
-        "timestamp": 1793491200.0
     }
 ]
