@@ -36,6 +36,24 @@
         "timestamp": 1793742392.0
     },
     {
+        "id": "c5745087b5",
+        "title_fa": "اختلال گسترده اینترنت در سایه تهدید حملات آمریکا",
+        "title_en": "Internet disruptions hit Iran amid prospect of renewed US strikes",
+        "summary": [
+            "همزمان با افزایش احتمال حملات مجدد ایالات متحده، اینترنت در نقاط مختلف ایران دچار اختلال و قطعی شد.",
+            "حاکمیت از ترس شکل‌گیری اعتراضات و انتشار اخبار واکنش‌های نظامی، دست به محدودسازی شدید شبکه زده است."
+        ],
+        "impact": "قطع ارتباطات، کنترل فضای امنیتی برای حکومت را موقتاً آسان‌تر می‌کند.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ2U0WVVTSUdRYnBQWGt6VDNuNHNvdXlZclJ0YldlcERFLWRIMEJ2QU55T2ZzQlhDS0hRNEoyVkdnTkwxM3I3YnJFSm5OVkVSUUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ2U0WVVTSUdRYnBQWGt6VDNuNHNvdXlZclJ0YldlcERFLWRIMEJ2QU55T2ZzQlhDS0hRNEoyVkdnTkwxM3I3YnJFSm5OVkVSUUE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793741814.0
+    },
+    {
         "id": "8813e0845c",
         "title_fa": "بررسی پیشنهادهای جدید برای پایان جنگ توسط آمریکا و ایران",
         "title_en": "US and Iran Are Reviewing Proposals to End War",
@@ -721,6 +739,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-s-election-day-bombshell-on-israel-points-to-historic-shift-in-us-politics/ar-AA2gHev8",
         "image": "http://www.bing.com/th?id=ONUT.sJ-0o8a2fqZaAyavemxCEg&pid=News",
         "timestamp": 1793711978.0
+    },
+    {
+        "id": "2c4923d959",
+        "title_fa": "تلاش حکومتداران برای اثرگذاری بر انتخابات آمریکا",
+        "title_en": "Iran is betting on the midterm elections. It could lose big",
+        "summary": [
+            "مقام‌های جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با طولانی کردن روند مذاکرات، قصد دارند در نتایج انتخابات میان‌دوره‌ای آمریکا تاثیر بگذارند.",
+            "این قمار خطرناک تهران روی تحولات سیاسی واشنگتن ممکن است با شکست سنگینی روبه‌رو شود."
+        ],
+        "impact": "شکست احتمالی این قمار سیاسی، فشارها بر تهران را به شدت افزایش می‌دهد.",
+        "tag": "انتخابات",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-is-betting-on-the-midterm-elections-it-could-lose-big/ar-AA2gHbXm",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-betting-on-the-midterm-elections-it-could-lose-big/ar-AA2gHbXm",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793711872.0
     },
     {
         "id": "ad89953c75",
@@ -5439,42 +5475,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/irans-top-diplomat-hopes-us-shows-rationality-and-other-mideast-news/ar-AA2gwNi9",
         "image": "http://www.bing.com/th?id=ONUT.ZdscViS89qWaqQgpmrUNEA&pid=News",
         "timestamp": 1793518000.0
-    },
-    {
-        "id": "14d310b2c0",
-        "title_fa": "تهدید ج.ا به پاسخ فراگیر به حملات احتمالی",
-        "title_en": "Irán amenaza con una respuesta sin límites geográficos ante un nuevo ataque de EE.UU. e Israel",
-        "summary": [
-            "تهران از پاسخ بدون محدودیت جغرافیایی در صورت هرگونه حمله نظامی سخن گفت.",
-            "همزمان با تهدیدات، اخباری از پیشرفت در مذاکرات غیرمستقیم با میانجی‌گری قطر شنیده می‌شود."
-        ],
-        "impact": "بالا رفتن ریسک امنیتی در منطقه همزمان با بازی دوگانه تهدید و دیپلماسی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/es-ve/noticias/otras/ir%C3%A1n-amenaza-con-una-respuesta-sin-l%C3%ADmites-geogr%C3%A1ficos-ante-un-nuevo-ataque-de-eeuu-e-israel/ar-AA2gwgNx",
-        "clean_url": "https://www.msn.com/es-ve/noticias/otras/ir%C3%A1n-amenaza-con-una-respuesta-sin-l%C3%ADmites-geogr%C3%A1ficos-ante-un-nuevo-ataque-de-eeuu-e-israel/ar-AA2gwgNx",
-        "image": "http://www.bing.com/th?id=ONUT.vLL7Xri-T4uLAKxusVB5tg&pid=News",
-        "timestamp": 1793514610.0
-    },
-    {
-        "id": "1dab5f3567",
-        "title_fa": "شکاف استراتژیک تل‌آویو و واشنگتن درباره جنگ بلندمدت با تهران",
-        "title_en": "Why Israel must prepare for an independent, open-ended war against Iran and its proxies",
-        "summary": [
-            "آمریکا به دنبال یک حمله هوایی کوتاه برای نابودی تاسیسات هسته‌ای و خروج سریع از منطقه است.",
-            "مقامات اسرائیل می‌دانند خروج زودهنگام آمریکا یعنی باقی ماندن سپاه پاسداران آماده انتقام و تهدید دائمی.",
-            "اسرائیل ناچار است خود را برای یک جنگ فرسایشی مستقل و بدون اتکا به واشنگتن آماده کند."
-        ],
-        "impact": "افزایش احتمال درگیری‌های طولانی‌مدت و فرسایشی میان اسرائیل و بازوهای نیابتی جمهوری اسلامی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/opinion/article-913468",
-        "clean_url": "https://www.jpost.com/opinion/article-913468",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/743515",
-        "timestamp": 1793512800.0
     }
 ]
