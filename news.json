@@ -217,6 +217,24 @@
         "timestamp": 1793726580.0
     },
     {
+        "id": "5a2fa8d1f3",
+        "title_fa": "سکوت جفریز درباره نحوه تعامل با ترامپ",
+        "title_en": "Jeffries won’t say how he’ll approach Trump relationship if Democrats win control of House",
+        "summary": [
+            "هکیم جفریز از اظهارنظر درباره آینده روابط خود با ترامپ در صورت پیروزی دمکرات‌ها در مجلس خودداری کرد.",
+            "رهبر دمکرات‌های مجلس نمایندگان ترجیح داد موضع‌گیری در این باره را به آینده موکول کند."
+        ],
+        "impact": "حفظ انعطاف سیاسی دمکرات‌ها در آستانه رقابت‌های سرنوشت‌ساز کنگره.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/03/politics/video/jeffries-trump-relationship-democrats-win-house-digvid",
+        "clean_url": "https://www.cnn.com/2026/11/03/politics/video/jeffries-trump-relationship-democrats-win-house-digvid",
+        "image": "http://www.bing.com/th?id=ONUT.OtrGbK_mHh0f4TWOiyOuqA&pid=News",
+        "timestamp": 1793726280.0
+    },
+    {
         "id": "ae68253a14",
         "title_fa": "پایان سه دهه نمایندگی دانی دیویس در ایلینوی",
         "title_en": "Voters in 7th congressional district set to choose new congressman for first time in three decades",
@@ -359,6 +377,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/polls-have-closed-in-south-florida-see-who-s-running-for-congress/ar-AA2gGY9u",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793721824.0
+    },
+    {
+        "id": "afdbe6e05a",
+        "title_fa": "پیروزی نماینده دمکرات در حوزه انتخابیه جمهوری‌خواه",
+        "title_en": "Moderate Democrat Fends Off Republican Challenger In Red District",
+        "summary": [
+            "جارد موسکویتز با تکیه بر رویکرد فراحزبی و حمایت قاطع از اسرائیل توانست کرسی خود را در فلوریدا حفظ کند.",
+            "این پیروزی گامی مهم برای دمکرات‌ها در مسیر بازپس‌گیری کنترل مجلس نمایندگان آمریکا محسوب می‌شود."
+        ],
+        "impact": "تقویت جایگاه دمکرات‌ها در کنگره با وجود تلاش جمهوری‌خواهان برای تغییر مهندسی انتخابات.",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/jared-moskowitz-scott-singer-florida-25th-district_n_6ace3b48e4b0447f8d488f58",
+        "clean_url": "https://www.huffpost.com/entry/jared-moskowitz-scott-singer-florida-25th-district_n_6ace3b48e4b0447f8d488f58",
+        "image": "http://www.bing.com/th?id=ONUT.pChiHKJAEA0IKBjWqKu5Wg&pid=News",
+        "timestamp": 1793721600.0
     },
     {
         "id": "89d232f2b8",
@@ -5438,41 +5474,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793532107.0
-    },
-    {
-        "id": "da7f2c0029",
-        "title_fa": "سناتور آمریکایی: توافق با رهبران ایران غیرممکن است",
-        "title_en": "US senator says 'no deals' possible with Iran's 'radical' leadership",
-        "summary": [
-            "تیم شیحی تاکید کرد که حکومت ایران هر توافقی را دور خواهد زد و قابل اعتماد نیست.",
-            "واشنگتن برای هرگونه توافق احتمالی نیازمند تضمین‌های آهنین نظامی و مشارکت متحدان منطقه‌ای است."
-        ],
-        "impact": "بسته‌تر شدن فضای دیپلماسی و تقویت رویکرد فشار حداکثری در کنگره آمریکا",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611014488",
-        "clean_url": "https://www.iranintl.com/en/202611014488",
-        "image": "http://www.bing.com/th?id=ONUT._qlXz7em2w0a_T7kLgrw-g&pid=News",
-        "timestamp": 1793532000.0
-    },
-    {
-        "id": "4257951e3d",
-        "title_fa": "جستجوی ترامپ برای مقصر در پرونده ایران",
-        "title_en": "Trump Searches for a Fall Guy to Blame for Iran",
-        "summary": [
-            "تیم ترامپ به دنبال یافتن مهره‌ای است تا مسئولیت شکست‌های احتمالی سیاست‌های قبال جـمـهـورـی اسـلـامـی را به گردن او بیندازد.",
-            "فشار حداکثری واشنگتن با چالش‌های جدی روبه‌رو شده و دولتمردان آمریکایی به دنبال فرافکنی هستند."
-        ],
-        "impact": "تغییر احتمالی در مهره‌های کلیدی سیاست خارجی آمریکا در قبال تهران.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247/",
-        "clean_url": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793531760.0
     }
 ]
