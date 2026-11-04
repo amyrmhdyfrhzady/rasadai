@@ -981,6 +981,25 @@
         "timestamp": 1793754180.0
     },
     {
+        "id": "5c7764cebf",
+        "title_fa": "تهدید تلافی گسترده از سوی مجتبی خامنه‌ای در صورت حمله مجدد آمریکا",
+        "title_en": "Iran war live: Khamenei warns of 'broader retaliation' if US renews attacks",
+        "summary": [
+            "مجتبی خامنه‌ای هشدار داد که تکرار حملات نظامی آمریکا با پاسخ بسیار گسترده‌تری از سوی ج.ا مواجه خواهد شد.",
+            "دونالد ترامپ اذعان کرد که درگیری با ایران یکی از دلایل اصلی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا بوده است.",
+            "محمدباقر قالیباف با استقبال از شکست جمهوری‌خواهان در شبکه اجتماعی اکس مدعی شد مردم آمریکا به جنگ نه گفته‌اند."
+        ],
+        "impact": "افزایش تنش‌های لفظی و خط و نشان کشیدن متقابل میان مقام‌های ارشد ایران و آمریکا در سایه تحولات سیاسی داخلی واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14183923-1785753354.jpg?resize=1920%2C1440",
+        "timestamp": 1793754120.0
+    },
+    {
         "id": "cb3e2d8035",
         "title_fa": "راهیابی نخستین سناتور مسلمان به مجلس سنای آمریکا",
         "title_en": "Abdul El-Sayed becomes first Muslim elected to US Senate",
@@ -5426,23 +5445,5 @@
         "clean_url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
         "image": "https://image.cnbcfm.com/api/v1/image/108372905-1791235928184-gettyimages-2298177809-AFP_D2BL2AG.jpeg?v=1791235982&w=1920&h=1080",
         "timestamp": 1793659260.0
-    },
-    {
-        "id": "fe71a5d295",
-        "title_fa": "آیا تحریم‌های بین‌المللی علیه ج.ا برداشته می‌شود؟",
-        "title_en": "Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events",
-        "summary": [
-            "بررسی احتمال رفع تحریم‌های انرژی علیه ج.ا در بازارهای جهانی.",
-            "فشار اقتصادی سنگین، سران حاکمیت را ناچار به گدایی مذاکره کرده است."
-        ],
-        "impact": "سرنوشت فروش نفت ج.ا به شدت به تحولات سیاسی و تحریم‌ها گره خورده است.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793658676.0
     }
 ]
