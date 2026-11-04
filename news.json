@@ -180,6 +180,25 @@
         "timestamp": 1793752860.0
     },
     {
+        "id": "758c85dbf9",
+        "title_fa": "شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای و انتقاد از ترامپ",
+        "title_en": "Wall Street Journal Delivers Withering Verdict On Trump After GOP’s Midterm Rout",
+        "summary": [
+            "هیئت تحریریه وال استریت ژورنال، دونالد ترامپ را عامل اصلی شکست سنگین حزب در انتخابات میان‌دوره‌ای ۲۰۲۶ معرفی کرد.",
+            "دموکرات‌ها کنترل هر دو مجلس نمایندگان و سنا را پس گرفتند که این موضوع پی آمدهای بلندمدتی برای آینده جمهوری‌خواهان خواهد داشت.",
+            "رفتارها و حکمرانی دوره دوم ترامپ باعث فاصله گرفتن پایگاه رای او شد و کرسی‌های کلیدی در ایالت‌های قرمز را از دست حزب خارج کرد."
+        ],
+        "impact": "این شکست سنگین معادله قدرت در واشنگتن را تغییر داده و آینده سیاسی جناح ترامپ را با چالش جدی روبرو می‌کند.",
+        "tag": "انتخابات آمریکا",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/wall-street-journal-donald-trump-2026-midterms_n_6aead77de4b0f78622d789bc",
+        "clean_url": "https://www.huffpost.com/entry/wall-street-journal-donald-trump-2026-midterms_n_6aead77de4b0f78622d789bc",
+        "image": "http://www.bing.com/th?id=ONUT.9aesSUJla5_DE1rk8whXHA&pid=News",
+        "timestamp": 1793752680.0
+    },
+    {
         "id": "79d84cae22",
         "title_fa": "همکاری امنیتی ایران و اعضای پیمان مکه در منطقه",
         "title_en": "Live: Iran, Mecca Pact members agree to cooperate on regional security",
@@ -5436,24 +5455,5 @@
         "clean_url": "https://tass.com/world/2212091",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1793615520.0
-    },
-    {
-        "id": "0318608bde",
-        "title_fa": "سیگنال دیپلماتیک ترامپ به ایران و افت ۳ درصدی نفت",
-        "title_en": "Iran war latest: Oil prices slide more than 3% as Trump signals more time for Iran diplomacy",
-        "summary": [
-            "امکان مهلت بیشتر برای دیپلماسی با ا‌یران، سایه درگیری فوری را عقب زد.",
-            "بازار جهانی انرژی فوراً واکنش داد و قیمت نفت بیش از ۳ درصد سقوط کرد.",
-            "واشنگتن با این طرح کنترل بازار سوخت را بر شتاب‌زدگی در برخورد ارجح دانسته است."
-        ],
-        "impact": "کاهش موقت ریسک جنگ در بازار و افت قیمت جهانی انرژی.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.25,
-        "source": "The National",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RZbUR3bEtVUzBna1hJbGUwNHBnLXRJQkhtZDRDLXkyNkFlYzFHTU1ndUh0T1J5RHQ4aEpjWVhfT3F1cUVkS2dqc2NIdXFIaTdDSk1BbXJtNmR2eDNMa3M2TEpEbXR4VEtyYmYyS3pDeW50SGhicmNha2NDc0xvTXFGUnJ0UTd3RWZQNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RZbUR3bEtVUzBna1hJbGUwNHBnLXRJQkhtZDRDLXkyNkFlYzFHTU1ndUh0T1J5RHQ4aEpjWVhfT3F1cUVkS2dqc2NIdXFIaTdDSk1BbXJtNmR2eDNMa3M2TEpEbXR4VEtyYmYyS3pDeW50SGhicmNha2NDc0xvTXFGUnJ0UTd3RWZQNA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793614793.0
     }
 ]
