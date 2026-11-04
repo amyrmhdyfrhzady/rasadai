@@ -144,6 +144,24 @@
         "timestamp": 1793735629.0
     },
     {
+        "id": "86a4657776",
+        "title_fa": "بررسی اولیه آرای انتخابات میان‌دوره‌ای ۲۰۲۶ آمریکا",
+        "title_en": "How America voted in the 2026 midterms: Early takeaways from the AP voter poll",
+        "summary": [
+            "جمهوری‌خواهان تلاش می‌کنند ائتلاف انتخاباتی پیروز دونالد ترامپ را در رقابت‌های میان‌دوره‌ای حفظ کنند.",
+            "نظرسنجی‌ها و ارزیابی‌های اولیه نشان‌دهنده رقابت فشرده احزاب برای تعیین موازنه قدرت در کنگره است."
+        ],
+        "impact": "تغییر موازنه قدرت در واشنگتن و تاثیر مستقیم بر آینده سیاست‌های دولت.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/how-america-voted-in-the-2026-midterms-early-takeaways-from-the-ap-voter-poll/ar-AA2gHUxL",
+        "clean_url": "https://www.msn.com/en-us/news/other/how-america-voted-in-the-2026-midterms-early-takeaways-from-the-ap-voter-poll/ar-AA2gHUxL",
+        "image": "http://www.bing.com/th?id=ONUT.YA6CSNNJ4_IWS0VjcCRM8Q&pid=News",
+        "timestamp": 1793730380.0
+    },
+    {
         "id": "0ec6cf09bd",
         "title_fa": "آغاز شمارش آرای انتخابات میان‌دوره‌ای آیووا",
         "title_en": "Iowa 2026 election updates: Polls have closed and tallying begins",
@@ -160,6 +178,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iowa-2026-election-updates-polls-have-closed-and-tallying-begins/ar-AA2gFjN1",
         "image": "http://www.bing.com/th?id=ONUT.IoQZCIwnBx4EFFIH5ABWDg&pid=News",
         "timestamp": 1793730263.0
+    },
+    {
+        "id": "c58cee777c",
+        "title_fa": "پیروزی شهردار سابق هارتفورد در انتخابات کنگره آمریکا",
+        "title_en": "Former Hartford mayor Luke Bronin becomes CT’s newest member of Congress",
+        "summary": [
+            "لوک برونین با پیروزی بر رقیب جمهوری‌خواه خود به عنوان نماینده جدید ایالت کنتیکت وارد کنگره شد.",
+            "این سیاستمدار دموکرات اعلام کرده است که قصد دارد به عنوان یک بازدارنده جدی در برابر برنامه‌های دو سال باقیمانده ریاست‌جمهوری دونالد ترامپ عمل کند."
+        ],
+        "impact": "تقویت جناح دموکرات در کنگره و افزایش چالش‌های سیاسی پیش روی دولت ترامپ.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Hartford Courant",
+        "url": "https://www.courant.com/2026/11/03/former-hartford-mayor-luke-bronin-becomes-cts-newest-member-of-congress/",
+        "clean_url": "https://www.courant.com/2026/11/03/former-hartford-mayor-luke-bronin-becomes-cts-newest-member-of-congress",
+        "image": "http://www.bing.com/th?id=ONUT.0r-TfJoQl4tHDtP0qxuZhg&pid=News",
+        "timestamp": 1793730120.0
     },
     {
         "id": "e54bbf02b1",
@@ -5434,42 +5470,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793548808.0
-    },
-    {
-        "id": "8d608c388d",
-        "title_fa": "تهدید موشکی تهران علیه اروپا و ناوبری خلیج فارس",
-        "title_en": "US Iran War Live Updates: Trump says US ‘might have gone too far’ with killings of Iran’s leaders",
-        "summary": [
-            "مقام‌های تهران با اشاره به نبود محدودیت جغرافیایی، از قابلیت رسیدن موشک‌ها به اروپا سخن گفتند.",
-            "یک فروند نفتکش ال‌ان‌جی قطری در خلیج فارس هدف اصابت اشیاء ناشناس قرار گرفت.",
-            "دستور فوری برای پاسخ به هرگونه حمله جدید صادر شده است."
-        ],
-        "impact": "افزایش شدید ریسک امنیت دریایی در خلیج فارس و کشیده شدن سایه جنگ به مرزهای اروپا.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-abbas-araghchi-hormuz-plan-khamenei-warning-saudi-houthi-attack-latest-news/liveblog/135410221.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-abbas-araghchi-hormuz-plan-khamenei-warning-saudi-houthi-attack-latest-news/liveblog/135410221.cms",
-        "image": "https://static.toiimg.com/thumb/msid-135410221,width-1280,height-720,imgsize-401365,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1793548320.0
-    },
-    {
-        "id": "6e3aaf55c4",
-        "title_fa": "جدیدترین تهدیدات تلافی‌جویانه ط-ل-ع-ا-ت ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی چقدر جدی است؟",
-        "title_en": "How serious are Iran's new threats of retaliation?",
-        "summary": [
-            "تهدیدات مقامات ارشد نظامی درباره پاسخ متقابل بیشتر شبیه به جنگ روانی برای مصرف داخلی است.",
-            "ساختار نظامی با چالش‌های جدی رووست و توان عملیاتی برای اقدام گسترده را ندارد."
-        ],
-        "impact": "این تهدیدات تأثیر چندانی بر بازارهای مالی نگذاشته و تنها تنش‌های لفظی را افزایش داده است.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjg2WnAyeGdIdGo5Uk1lLWtyYnk1Y0Z0UnRPcFBtdlhaeGJhUHpPMkp2bkVtRGx6WDNFZlduaGtyYk5yOUJzc1hiaW4wX19lZ3hTaUMya0ppbDU2NmdmYlVIdEZqODN4TVlwcmRiMS1kWWtEVUJla3FQNGp0LVc5akZNRlktamZVY3ljWmd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjg2WnAyeGdIdGo5Uk1lLWtyYnk1Y0Z0UnRPcFBtdlhaeGJhUHpPMkp2bkVtRGx6WDNFZlduaGtyYk5yOUJzc1hiaW4wX19lZ3hTaUMya0ppbDU2NmdmYlVIdEZqODN4TVlwcmRiMS1kWWtEVUJla3FQNGp0LVc5akZNRlktamZVY3ljWmd3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793547046.0
     }
 ]
