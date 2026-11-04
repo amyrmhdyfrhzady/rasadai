@@ -960,6 +960,24 @@
         "timestamp": 1793727120.0
     },
     {
+        "id": "8f40d1e087",
+        "title_fa": "پیروزی نامزد دموکرات در انتخابات فرمانداری میشیگان",
+        "title_en": "Jocelyn Benson declares victory in Michigan governor’s race",
+        "summary": [
+            "جوسلین بننسون، چهره دموکرات، با پیروزی قاطع بر رقیب جمهوری‌خواه خود، جان جیمز، صندلی فرمانداری میشیگان را تصاحب کرد.",
+            "این نتیجه شکست سنگینی برای حزب جمهوری‌خواه در یکی از ایالات کلیدی ایالات متحده به شمار می‌رود."
+        ],
+        "impact": "تقویت پایگاه حزب دموکرات در ساختار سیاسی ایالت میشیگان.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/11/jocelyn-benson-declares-victory-in-michigan-governors-race.html",
+        "clean_url": "https://www.mlive.com/politics/2026/11/jocelyn-benson-declares-victory-in-michigan-governors-race.html",
+        "image": "http://www.bing.com/th?id=ONUT.azL-XDXrTaoo0IUWzELUkw&pid=News",
+        "timestamp": 1793726820.0
+    },
+    {
         "id": "0debbf15b8",
         "title_fa": "پیروزی کریس پپاس در انتخابات سنای نیوهمپشر",
         "title_en": "Chris Pappas wins New Hampshire 2026 Senate election",
@@ -5443,23 +5461,5 @@
         "clean_url": "https://www.iranintl.com/en/202611021852",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1793598960.0
-    },
-    {
-        "id": "8b168d59dd",
-        "title_fa": "ادعای تهران برای بازگشایی تنگه هرمز در معامله با آمریکا",
-        "title_en": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-        "summary": [
-            "مقام‌های ج-ه-م-ه-و-ر-ی ا-س-ل-ا-م-ی از پیشرفت در مذاکرات برای باز کردن دوباره این آبراه حیاتی نفت و گاز خبر دادند.",
-            "این ادعاها همزمان با آمادگی همه‌جانبه برای جنگ طرح می‌شود که نشان‌دهنده دوگانگی رفتار این حکومت است."
-        ],
-        "impact": "تخلیه بخشی از تنش‌های بازار انرژی در صورت جدی بودن این توافق احتمالی.",
-        "tag": "تنگه هرمز",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-        "clean_url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-        "image": "http://www.bing.com/th?id=ONUT.7ph_yzsf1YYQJWgB-0T5wg&pid=News",
-        "timestamp": 1793598300.0
     }
 ]
