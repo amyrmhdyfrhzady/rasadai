@@ -905,6 +905,24 @@
         "timestamp": 1793721824.0
     },
     {
+        "id": "fe6f70ec59",
+        "title_fa": "احتیاط رهبر دموکرات‌ها در قبال ترامپ پس از انتخابات",
+        "title_en": "Amid Dem Election Night optimism, Jeffries circumspect on relationship with Trump",
+        "summary": [
+            "حکیم جفریس، نامزد اصلی ریاست مجلس نمایندگان، در شب انتخابات از اظهارنظر صریح درباره تعاملات آتی با ترامپ خودداری کرد.",
+            "دموکرات‌ها با وجود نشانه‌های مثبت در آراء، رویکردی گام‌به‌گام و محافظه‌کارانه را در قبال تحولات سیاسی پیش گرفته‌اند."
+        ],
+        "impact": "تغییر موازنه‌ قدرت در کنگره آمریکا به شدت بر آینده سیاست داخلی و خارجی این کشور اثرگذار خواهد بود.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/11/amid-dem-election-night-optimism-jeffries-circumspect-on-relationship-with-trump.html",
+        "clean_url": "https://www.mlive.com/politics/2026/11/amid-dem-election-night-optimism-jeffries-circumspect-on-relationship-with-trump.html",
+        "image": "http://www.bing.com/th?id=ONUT.Fsl9CSmdb5auT9WTXEj9Mw&pid=News",
+        "timestamp": 1793721600.0
+    },
+    {
         "id": "afdbe6e05a",
         "title_fa": "پیروزی نماینده دمکرات در حوزه انتخابیه جمهوری‌خواه",
         "title_en": "Moderate Democrat Fends Off Republican Challenger In Red District",
@@ -5447,23 +5465,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjJQZk5oemZjWjBZUFhMSFdnX0lENmNBQXZfUjVCWW52d1I4R1hBbEZibm1jR2R0d1hTUkhrdXJJQTR4SzVnNUtONDlJTUdRVElKS1BCWWZHX2NTRnZkckRfTU4taVUtRU9vSm5VQ2pZRVVwWHNDamVoTjNBTW0wb3RPWkNxVTI1aEdJejhteGZBUW1UeFdCQUFjaXEtQWVlLUw0REVlQmh4YXJGejlnTEdrd1lVc0VydnpoWGYtVElzb3M",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793579888.0
-    },
-    {
-        "id": "a85a54e22d",
-        "title_fa": "رد ادعای انتقال اورانیوم ۶۰ درصد از سوی دستگاه دیپلماسی",
-        "title_en": "Removal of enriched uranium from Iran was not raised at consultations with US — MFA",
-        "summary": [
-            "تهران هرگونه مذاکره یا توافق با آمریکا درباره انتقال اورانیوم غنی‌شده به کشورهای دیگر را تکذیب کرد.",
-            "پیش‌تر مسکو پیشنهاد داده بود که ذخایر اورانیوم ایران به روسیه منتقل شود اما این سناریو همچنان در هاله‌ای از ابهام است."
-        ],
-        "impact": "پافشاری جمهوری اسلامی بر حفظ پرونده هسته‌ای و امتناع از دادن امتیازات کلیدی به غرب.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2211713",
-        "clean_url": "https://tass.com/world/2211713",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793579880.0
     }
 ]
