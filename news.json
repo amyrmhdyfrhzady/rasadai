@@ -162,6 +162,24 @@
         "timestamp": 1793754188.0
     },
     {
+        "id": "cb3e2d8035",
+        "title_fa": "راهیابی نخستین سناتور مسلمان به مجلس سنای آمریکا",
+        "title_en": "Abdul El-Sayed becomes first Muslim elected to US Senate",
+        "summary": [
+            "عبدال Sayed نامزد حزب دموکرات با پیروزی در ایالت میشیگان، کرسی سنای این ایالت را از آن خود کرد.",
+            "این پیروزی یک گام نمادین و مهم برای جناح پیشرو دموکرات‌ها و ورود نمایندگان اقلیت‌ها به بالاترین نهاد قانون‌گذاری آمریکا است."
+        ],
+        "impact": "تغییر موازنه در کنگره و افزایش وزن جریان‌های پیشرو در سیاست داخلی و خارجی آمریکا.",
+        "tag": "آمریکا",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-becomes-first-muslim-elected-to-us-senate/ar-AA2gJ0Q2",
+        "clean_url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-becomes-first-muslim-elected-to-us-senate/ar-AA2gJ0Q2",
+        "image": "http://www.bing.com/th?id=ONUT._9J3tZonUgYbbxD9iiOR4w&pid=News",
+        "timestamp": 1793753417.0
+    },
+    {
         "id": "1f4f5e0414",
         "title_fa": "ریزش پایگاه رأی ترامپ حتی در ایالت‌های سنتی",
         "title_en": "Angry Voters Usher in Beginning of the End of the Trump Era",
@@ -233,6 +251,24 @@
         "clean_url": "https://www.msn.com/en-ae/news/world/war-weighed-on-us-midterms-but-irans-economy-is-paying-heavier-price/ar-AA2gJ3hK",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793751868.0
+    },
+    {
+        "id": "353662d8ca",
+        "title_fa": "واکنش جنجالی ترامپ در فاکس‌نیوز به اعلام نتایج انتخابات",
+        "title_en": "Trump’s Live Phone Interview Takes Unexpected Turn As Fox News Calls Minnesota Race",
+        "summary": [
+            "دونالد ترامپ در مصاحبه زنده با فاکس‌نیوز پس از اعلام پیروزی دموکرات‌ها در مینه‌سوتا، بار دیگر سلامت فرایند شمارش آرا در این ایالت را زیر سوال برد.",
+            "با وجود انتقاد از ساختار شمارش آرا، ترامپ تصریح کرد که نتیجه کلی انتخابات و پیروزی دموکرات‌ها در کنگره را می‌پذیرد."
+        ],
+        "impact": "تثبیت خط تاکتیکی ترامپ برای حفظ فشار روانی بر ساختار انتخاباتی، در عین تمکین به پیامدهای سیاسی آن.",
+        "tag": "آمریکا",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/fox-news-calls-senate-race-with-trump-on-phone_n_6aead0ece4b0f78622d785ad",
+        "clean_url": "https://www.huffpost.com/entry/fox-news-calls-senate-race-with-trump-on-phone_n_6aead0ece4b0f78622d785ad",
+        "image": "http://www.bing.com/th?id=ONUT.3x4rhIvk6-t2q3HTRZ6RTA&pid=News",
+        "timestamp": 1793751540.0
     },
     {
         "id": "727b484bf7",
@@ -5418,42 +5454,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEF0dVpURllCTGs0d19rOWZxajlKTVV3NHVfNXFjeTZPT05jcGZrT2pFZEZ4b2MzUlk0c004VHFVaEpRWldIREpaTnc4OFhxQ1pDWHR6ZzM3UmJhY3BKY1F6REJDRVI0cHZ3T1oyWGpQeTVITGxZV3NBc0E2RXVOMUpRUkRJeUNoZ09qTEdQMDJrUWdzbnhlbnhTSElwdXJPQUdFWXFxNDlzZDktTHBRbzlxbEh3Zw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793615788.0
-    },
-    {
-        "id": "57837dbe30",
-        "title_fa": "ادعای تهران درباره پیش‌نویس توافق: معافیت نفتی و آزادسازی دارایی‌ها",
-        "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
-        "summary": [
-            "منابع خبری از ادعای تهران درباره وجود پیش‌نویس توافقی خبر می‌دهند که شامل معافیت‌های نفتی، آزادسازی منابع مالی بلوکه‌شده و پذیرش محدودیت‌های هسته‌ای است.",
-            "رسانه‌ای کردن این ادعا در شرایط فعلی، بیشتر کارکرد تزریق آرامش روانی به بازار ملتهب ارز و کاهش فشارهای داخلی را دارد.",
-            "تحقق واقعی معافیت‌های نفتی و آزادسازی دارایی‌ها نیازمند عقب‌نشینی‌های سنگین هسته‌ای است و هنوز لغو رسمی تحریم‌ها از سوی واشنگتن تأیید نشده است."
-        ],
-        "impact": "تزریق سیگنال مثبت موقت به بازار ارز و تلاش برای کاهش فشار تحریم‌های اقتصادی.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793615601.0
-    },
-    {
-        "id": "cb4c6e36e1",
-        "title_fa": "حمله سایبری به یخچال‌های سوپرمارکت‌های اروپا",
-        "title_en": "European Commission says refrigerator cyberattack aimed to undermine EU food security",
-        "summary": [
-            "سیستم سرمایشی فروشگاه‌های زنجیره‌ای بزرگ در بلژیک، لوکزامبورگ و چند کشور دیگر هدف هک قرار گرفت و مواد غذایی زیادی فاسد شدند.",
-            "کمیسیون اروپا این اقدام را تلاشی برای ضربه به امنیت غذایی اتحادیه اروپا ارزیابی کرد."
-        ],
-        "impact": "وارد آمدن خسارت ده‌ها میلیون یورویی به زنجیره تامین مواد غذایی و تجهیزات فروشگاهی در اروپا",
-        "tag": "سایبری",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2212091",
-        "clean_url": "https://tass.com/world/2212091",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793615520.0
     }
 ]
