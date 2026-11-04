@@ -235,6 +235,24 @@
         "timestamp": 1793721420.0
     },
     {
+        "id": "717253af1f",
+        "title_fa": "تغییرات جدید در ترکیب خط حمله تیم فوتبال آمریکایی",
+        "title_en": "Updated Saints running backs depth chart after Audric Estime reunion",
+        "summary": [
+            "بازگشت بازیکنان کلیدی آرایش تیمی را تحت تأثیر قرار داده است.",
+            "کادر فنی به دنبال بهینه‌سازی تاکتیک‌ها با مهره‌های جدید است."
+        ],
+        "impact": "آمادگی بیشتر تیم برای مسابقات پیش رو.",
+        "tag": "ورزشی",
+        "urgency": 1,
+        "sentiment": 0.2,
+        "source": "Saints Wire on MSN",
+        "url": "https://www.msn.com/en-us/sports/football/updated-saints-running-backs-depth-chart-after-audric-estime-reunion/ar-AA2gH3ng",
+        "clean_url": "https://www.msn.com/en-us/sports/football/updated-saints-running-backs-depth-chart-after-audric-estime-reunion/ar-AA2gH3ng",
+        "image": "http://www.bing.com/th?id=ONUT.JbHftnFB0s_d0NkQPsOMKg&pid=News",
+        "timestamp": 1793721234.0
+    },
+    {
         "id": "e8cf6d77fb",
         "title_fa": "توپ در زمین واشنگتن؛ شرط طـهران برای جلوگیری از جنگ",
         "title_en": "Iran speaker: Ball in Trump administration court to prevent renewed war",
@@ -251,6 +269,24 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/iran-speaker-ball-in-trump-administration-court-to-prevent-renewed-war/ar-AA2gH85P",
         "image": "http://www.bing.com/th?id=ONUT.bM06zBX0PcPgMau-_hoSuA&pid=News",
         "timestamp": 1793721031.0
+    },
+    {
+        "id": "24b798e667",
+        "title_fa": "دردسرهای جدید ترامپ برای حوضچه بازتاب در واشنگتن",
+        "title_en": "Trump touted his Reflecting Pool success. But new problems are visible.",
+        "summary": [
+            "تغییر رنگ و نواقص ظاهری بلافاصله پس از سخنرانی ترامپ نمایان شد.",
+            "پروژه زیباسازی با انتقادات و چالش‌های فنی تازه روبرو شده است."
+        ],
+        "impact": "آسیب به وجهه ادعاهای مدیریتی دولت در پروژه‌های شهری.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/style/2026/11/03/trump-touted-his-reflecting-pool-success-new-problems-are-visible/",
+        "clean_url": "https://www.washingtonpost.com/style/2026/11/03/trump-touted-his-reflecting-pool-success-new-problems-are-visible",
+        "image": "http://www.bing.com/th?id=ONUT.by77ia0V-lGbbocoW7My9Q&pid=News",
+        "timestamp": 1793720940.0
     },
     {
         "id": "15da04c82f",
@@ -432,6 +468,24 @@
         "clean_url": "https://www.sozcu.com.tr/oy-verme-islemi-surerken-trumptan-surpriz-karar-israile-4-milyar-dolarlik-yardimi-durdurdu-p375689",
         "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/trumptan-secim-sonuclari-icin-dikkat-ceken-sartjpg-8Z7pzyf1s06yiYGD006ihA.jpg?w=1270&h=675&mode=crop&scale=both",
         "timestamp": 1793717478.3777387
+    },
+    {
+        "id": "d9562c5dfa",
+        "title_fa": "حاشیه جالب کلاه آفتابی نماینده کنگره در روز رأی‌گیری",
+        "title_en": "We need to talk about Haley Stevens's floppy hat",
+        "summary": [
+            "حضور متفاوت نماینده میشیگان با کلاه تابستانی توجه رسانه‌ها را جلب کرد.",
+            "این اقدام حاشیه‌ای سوژه کاربران شبکه‌های اجتماعی شد."
+        ],
+        "impact": "بازتاب‌های طنز و سرگرم‌کننده در رسانه‌های عمومی.",
+        "tag": "اجتماعی",
+        "urgency": 1,
+        "sentiment": 0.1,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/we-need-to-talk-about-haley-stevens-s-floppy-hat/ar-AA2gH5qA",
+        "clean_url": "https://www.msn.com/en-us/news/other/we-need-to-talk-about-haley-stevens-s-floppy-hat/ar-AA2gH5qA",
+        "image": "http://www.bing.com/th?id=ONUT.5OsAM_KHOSABGX74K7q3eg&pid=News",
+        "timestamp": 1793716531.0
     },
     {
         "id": "5457792d0e",
@@ -5422,59 +5476,5 @@
         "clean_url": "https://www.jpost.com/opinion/article-913468",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/743515",
         "timestamp": 1793512800.0
-    },
-    {
-        "id": "687dc2d5bf",
-        "title_fa": "پیشنهاد تهران برای بازگشایی تنگه هرمز با شرط رفع تحریم‌ها",
-        "title_en": "Iran-US deal close? Iran offers to reopen Hormuz within 2 days, Araghchi meets Qatari mediators; what we know so far",
-        "summary": [
-            "عباس عراقچی اعلام کرد در صورت برآورده شدن شرط‌های ایران شامل رفع تحریم‌ها، کاهش نظامیان آمریکایی و آزادی پول‌های بلوکه‌شده، تنگه هرمز ظرف دو روز باز می‌شود.",
-            "این امتیازدهی تاکتیکی با میانجیگری قطر و در جریان مذاکرات دوحه صورت گرفته است."
-        ],
-        "impact": "استفاده از اهرم فشار تنگه هرمز برای گرفتن امتیازات اقتصادی و رفع تحریم‌ها.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": 0.1,
-        "source": "News24",
-        "url": "https://news24online.com/world/iran-us-deal-close-iran-offers-to-reopen-strait-of-hormuz-within-2-days-abbas-araghchi-meets-qatari-mediators-iran-us-war-mohsen-rezaei/949342/",
-        "clean_url": "https://news24online.com/world/iran-us-deal-close-iran-offers-to-reopen-strait-of-hormuz-within-2-days-abbas-araghchi-meets-qatari-mediators-iran-us-war-mohsen-rezaei/949342",
-        "image": "http://www.bing.com/th?id=ONUT.M6RtKXXkZTIx1Rep6ux_9g&pid=News",
-        "timestamp": 1793510940.0
-    },
-    {
-        "id": "ac5a3c38cc",
-        "title_fa": "اقدام متقابل ج.ا علیه ارتش و نیروی دریایی انگلیس",
-        "title_en": "Irán cataloga como grupos terroristas a la fuerza aérea y a la marina británica",
-        "summary": [
-            "دستگاه دیپلماسی ج.ا نیروی دریایی و هوایی انگلیس را در لیست سیاه قرار داد.",
-            "این تصمیم در پاسخ به اقدام لندن در قرار دادن سپاه در فهرست تهدیدات حکومتی اتخاذ شد."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک و نظامی میان تهران و لندن.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "La Tercera",
-        "url": "https://www.latercera.com/mundo/noticia/iran-cataloga-como-grupos-terroristas-a-la-fuerza-aerea-y-a-la-marina-britanica/",
-        "clean_url": "https://www.latercera.com/mundo/noticia/iran-cataloga-como-grupos-terroristas-a-la-fuerza-aerea-y-a-la-marina-britanica",
-        "image": "https://www.latercera.com/resizer/v2/GPYBMWI3DRFFBELF25BMGLK7UA.JPG?auth=1fb0feb392fb597e1482bbc9e4dea46218110b53751f89f159bd05004c7d2140&height=630&width=1200&smart=true",
-        "timestamp": 1793510520.0
-    },
-    {
-        "id": "051fb65cf8",
-        "title_fa": "دیپلماسی پنهان در دوحه هم‌زمان با ارزیابی ترامپ از تهدیدها",
-        "title_en": "Iran and US explore diplomacy amid rising threats of war",
-        "summary": [
-            "مذاکرات غیرمستقیم با میانجیگری قطر در حالی ادامه دارد که دونالد ترامپ مقامات تهران را غیرقابل اعتماد خوانده و تصمیمی قطعی درباره حملات مجدد نگرفته است.",
-            "دستگاه دیپلماسی ج ا از آمادگی کامل برای هر سناریویی از جمله حملات پیشگیرانه خبر می‌دهد."
-        ],
-        "impact": "شکننده بودن روند دیپلماسی در سایه احتمال بازگشت به درگیری نظامی.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-us-explore-diplomacy-amid-130210133.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-us-explore-diplomacy-amid-130210133.html",
-        "image": "http://www.bing.com/th?id=ONUT.mXE8-nXsBfyJuUbp-Nn-Rg&pid=News",
-        "timestamp": 1793509260.0
     }
 ]
