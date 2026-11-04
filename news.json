@@ -362,6 +362,24 @@
         "timestamp": 1793782030.0
     },
     {
+        "id": "e1d990baea",
+        "title_fa": "تهدید تهران به پاسخ بدون محدودیت جغرافیایی",
+        "title_en": "Iran just made a dangerous threat: Tehran would respond to any attack using a geographically unrestricted response",
+        "summary": [
+            "مذاکره‌کننده ارشد ایران هشدار داد که واکنش به هرگونه حمله، محدود به جغرافیایی خاص نخواهد بود و غیرقابل پیش‌بینی است.",
+            "این تهدید در حالی مطرح می‌شود که دونالد ترامپ مدعی شده ساختار فرماندهی نیروهای جـ.م.هـ.و.ریاّی اِسـ.لـ.ا‌مـ.ی ضربه جدی خورده است."
+        ],
+        "impact": "افزایش ریسک درگیری‌های منطقه‌ای و گسترش دامنه تنش به خارج از مرزهای ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-just-made-a-dangerous-threat-tehran-would-respond-to-any-attack-using-a-geographically-unrestricted-response/ar-AA2gLlv0",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-made-a-dangerous-threat-tehran-would-respond-to-any-attack-using-a-geographically-unrestricted-response/ar-AA2gLlv0",
+        "image": "http://www.bing.com/th?id=ONUT.MS8pHOtL90en7iM_VzjBcw&pid=News",
+        "timestamp": 1793781958.0
+    },
+    {
         "id": "ac0b0c2f77",
         "title_fa": "سایه سنگین جنگ زیرساختی بر تقابل آمریکا و جـ.هـ.و‌ر‌ی ا‌سـ.لا‌مـ.ی",
         "title_en": "The threat of an infrastructure war looms as US-Iran confrontation enters a critical phase",
@@ -5427,23 +5445,5 @@
         "clean_url": "https://www.mlive.com/politics/2026/11/buttigieg-agrees-with-top-republican-this-is-whats-at-stake-in-midterms.html",
         "image": "http://www.bing.com/th?id=ONUT.1hJ8ov5tpZh9-PfXqTTHhQ&pid=News",
         "timestamp": 1793671140.0
-    },
-    {
-        "id": "3c6fa8ab38",
-        "title_fa": "واکنش مجلس به حملات آمریکا؛ توپ در زمین واشنگتن است",
-        "title_en": "Iran's chief negotiator says the US must act to prevent renewed war, and other Mideast news",
-        "summary": [
-            "رئیس مجلس در واکنش به حملات اخیر در تنگه هرمز اعلام کرد جلوگیری از جنگ جدید بر عهده آمریکاست.",
-            "تهران همزمان از آمادگی کامل نظامی خود برای رویارویی احتمالی خبر داد."
-        ],
-        "impact": "تشدید جنگ روانی و افزایش احتمال درگیری‌های محدود در آب‌های جنوبی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Newsday",
-        "url": "https://www.newsday.com/news/nation/mideast-news-november-3-2026-q03426",
-        "clean_url": "https://www.newsday.com/news/nation/mideast-news-november-3-2026-q03426",
-        "image": "https://cdn.newsday.com/ace/c:ZmFlZGNkYTUtMTE4OC00:ZjYxZWNlNzMtMTA1Zi00/square/770",
-        "timestamp": 1793668980.0
     }
 ]
