@@ -217,6 +217,25 @@
         "timestamp": 1793732823.0
     },
     {
+        "id": "7fa5258119",
+        "title_fa": "شکست جمهوری‌خواهان در نیوجرسی؛ خلبان سابق نیروی دریایی برنده شد",
+        "title_en": "Democrat and former Navy pilot Rebecca Bennett wins key N.J. race against incumbent Tom Kean Jr.",
+        "summary": [
+            "ربکا بنت، خلبان سابق و چهره دموکرات، توانست تام کین جونیور از جمهوری‌خواهان را در حوزه هفتم نیوجرسی شکست دهد.",
+            "این پیروزی کلیدی، امیدهای حزب دمکرات را برای به دست گرفتن کنترل مجلس نمایندگان آمریکا افزایش داده است.",
+            "بنت پس از انتخابات سال ۲۰۱۶ و پیروزی دونالد ترامپ، وابستگی سیاسی خود را از جمهوری‌خواه به دموکرات تغییر داده بود."
+        ],
+        "impact": "این نتیجه موازنه قوا در مجلس نمایندگان آمریکا را به نفع دموکرات‌ها تغییر می‌دهد.",
+        "tag": "آمریکا",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/politics/new-jersey/kean-bennett-race-nj-7th-district-results-winner-20261103.html",
+        "clean_url": "https://www.inquirer.com/politics/new-jersey/kean-bennett-race-nj-7th-district-results-winner-20261103.html",
+        "image": "http://www.bing.com/th?id=ONUT.gGsn7ibrqn32s-Z3qPDJtg&pid=News",
+        "timestamp": 1793732220.0
+    },
+    {
         "id": "d589b8cf2a",
         "title_fa": "نارضایتی رای‌دهندگان آمریکایی از وضعیت تورم و هزینه زندگی",
         "title_en": "Americans who voted show frustrations with Trump and costs",
@@ -5449,24 +5468,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmk2dmxjdk1sOW96UkZiaUlJVXhzc1pJMjZJUnY2WGtvaXd4aXRJY3d4UTNoUmFJdUVQQjlkb0JPSmxEc2YzS1JOZ2NSWmpTUnhzYzBiU1hfeXBvb2F2WEp2NHc5YkFfUUNKSHc2NW1PMUVKT0xqUTdOa0tfUmZpQWE2SDFtdzJ5TmZleWpLd0Zid1JWR2Z0d0dOeVMwekFzNTNTYndHMmMyV0poZ2h0UmFOVWc2M3o3Z2h6TUR2SQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793563953.0
-    },
-    {
-        "id": "2a38bfe057",
-        "title_fa": "فشار تل‌آویو به واشنگتن برای اقدام نظامی علیه تـهـران",
-        "title_en": "Iran MP calls for nuclear doctrine shift, citing 'peace through strength'",
-        "summary": [
-            "یکی از نمایندگان مجلس در صحن علنی خواستار تغییر دکترین هسته‌ای و خروج از ان‌پی‌تی شد.",
-            "نتانیاهو در تماس تلفنی سخت و صریح با ترامپ، اصرار کرده تا بلافاصله پس از انتخابات میان‌دوره‌ای به تاسیسات ایران حمله شود.",
-            "ترامپ فعلاً ترجیح می‌دهد به جای گزینه نظامی، روند مذاکرات را جلو ببرد."
-        ],
-        "impact": "شکاف میان آمریکا و اسرائیل بر سر زمان‌بندی اقدام نظامی علیه برنامه‌ هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611011029",
-        "clean_url": "https://www.iranintl.com/en/202611011029",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793560620.0
     }
 ]
