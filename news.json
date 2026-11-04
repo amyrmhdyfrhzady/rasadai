@@ -869,6 +869,24 @@
         "timestamp": 1793709725.0
     },
     {
+        "id": "2860b06702",
+        "title_fa": "ترامپ و بررسی گزینه های بعدی در قبال ایران",
+        "title_en": "Donald Trump weighs next move against Iran after the midterms: 'We'll see'",
+        "summary": [
+            "دونالد ترامپ در مصاحبه با فاکس بیزینس از بررسی برنامه های خود علیه جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی خبر داد.",
+            "او با جمله کوتاه «خواهیم دید» نشان داد که تیمش رویکرد مشخصی را برای روزهای آینده تدوین می‌کند."
+        ],
+        "impact": "بازار ارز و سرمایه در ایران به شدت به این سیگنال‌های واشنگتن واکنش نشان می‌دهد.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Fox Business Network",
+        "url": "https://www.foxbusiness.com/video/6407861482112",
+        "clean_url": "https://www.foxbusiness.com/video/6407861482112",
+        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cacdd318-4c21-4aeb-a9e0-2dff71a2bb37/205b79db-23f3-4e8c-810e-4b93af37cf49/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "timestamp": 1793709120.0
+    },
+    {
         "id": "a968ff2dea",
         "title_fa": "فشار سناتورهای آمریکایی بر مک‌دونالد سر قیمت‌گذاری هوشمند",
         "title_en": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://www.middleeasteye.net/live/live-israelis-head-polls-netanyahu-fights-political-life",
         "image": "https://www.middleeasteye.net/sites/default/files/2026-10/ISRAEL_ELECTIONS_AFP.jpg",
         "timestamp": 1793519580.0
-    },
-    {
-        "id": "4f544e92fc",
-        "title_fa": "بررسی سناریوی ضربه به برنامه اتمی و رهبری در اسرائیل",
-        "title_en": "'IN THE WAR ROOM'",
-        "summary": [
-            "کتاب جدیدی ابعاد تازه‌ای از برنامه‌ریزی‌های اسرائیل برای حمله تمام‌عیار به تاسیسات اتمی و حذف رهبری ج ا را فاش می‌کند.",
-            "بنیامین نتانیاهو سال‌هاست که پرونده تهدید اتمی تهران را به عنوان مسئله اصلی امنیت ملی اسرائیل دنبال کرده است."
-        ],
-        "impact": "افزایش سایه جنگ و تهدیدهای امنیتی علیه زیرساخت‌های حیاتی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "allisraelnews",
-        "url": "https://allisraelnews.com/in-the-war-room-the-gutsy-gamble-against-iran-that-changed-the-war",
-        "clean_url": "https://allisraelnews.com/in-the-war-room-the-gutsy-gamble-against-iran-that-changed-the-war",
-        "image": "https://cdn.allisraelnews.com/s3/containers/digitalocean/rosenberg_report_1200x800_blurred_borders.jpg/7e2c2166e82e32ce78e480904e688bad/rosenberg_report_1200x800_blurred_borders.jpg",
-        "timestamp": 1793519040.0
     }
 ]
