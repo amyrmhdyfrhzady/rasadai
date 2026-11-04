@@ -198,6 +198,24 @@
         "timestamp": 1793741814.0
     },
     {
+        "id": "8301b9e04a",
+        "title_fa": "پیروزی جمهوری‌خواهان در انتخابات حوزه چهارم آیووا",
+        "title_en": "Chris McGowan handily wins Iowa's 4th District over Dave Dawson",
+        "summary": [
+            "کریس مک‌گوان رقیب دموکرات خود دیو داوسون را شکست داد.",
+            "این منطقه همچنان به عنوان پایگاه سنتی حزب جمهوری‌خواه باقی ماند."
+        ],
+        "impact": "تثبیت جایگاه حزب جمهوری‌خواه در این حوزه انتخاباتی.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "The Des Moines Register on MSN",
+        "url": "https://www.msn.com/en-us/news/other/chris-mcgowan-handily-wins-iowas-4th-district-over-dave-dawson/ar-AA2gIkzT",
+        "clean_url": "https://www.msn.com/en-us/news/other/chris-mcgowan-handily-wins-iowas-4th-district-over-dave-dawson/ar-AA2gIkzT",
+        "image": "http://www.bing.com/th?id=ONUT.HWPVejH9EH-45-EamMp5uQ&pid=News",
+        "timestamp": 1793739314.0
+    },
+    {
         "id": "b9d5552571",
         "title_fa": "تسلط دموکرات‌ها بر سنای آمریکا در انتخابات ۲۰۲۶",
         "title_en": "Democrats win majority in the Senate, flipping control of upper chamber",
@@ -994,6 +1012,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/polls-have-closed-in-south-florida-see-who-s-running-for-congress/ar-AA2gGY9u",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793721824.0
+    },
+    {
+        "id": "eaea97bfe6",
+        "title_fa": "خط و نشان دموکرات‌ها برای کاخ سفید",
+        "title_en": "Powerful Dem in terse, 2-word warning to Trump amid shellacking of GOP",
+        "summary": [
+            "رئیس جدید کمیته نظارت مجلس نمایندگان پیام تندی به تیم ترامپ داد.",
+            "پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای معادلات قدرت را به هم ریخت."
+        ],
+        "impact": "افزایش تنش‌های سیاسی در واشنگتن و دردسرهای حقوقی جدید برای دولت.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/11/powerful-dem-in-terse-2-word-warning-to-trump-amid-shellacking-of-gop.html",
+        "clean_url": "https://www.mlive.com/politics/2026/11/powerful-dem-in-terse-2-word-warning-to-trump-amid-shellacking-of-gop.html",
+        "image": "http://www.bing.com/th?id=ONUT.NoNVyMy-heMgkWwtWdkHkw&pid=News",
+        "timestamp": 1793721600.0
     },
     {
         "id": "7ed6339939",
@@ -5429,42 +5465,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/push-u-iran-deal-punctuated-090903840.html",
         "image": "http://www.bing.com/th?id=ONUT.1SP-Aj-ROl9cEtDNrz2cjw&pid=News",
         "timestamp": 1793588400.0
-    },
-    {
-        "id": "48f8f9ab0a",
-        "title_fa": "خط و نشان باقری‌کنی در پکن؛ تکرار ادعاهای همیشگی",
-        "title_en": "Iran will not compromise on its security, official says",
-        "summary": [
-            "باقری‌کنی در دیدار با وزیر خارجه چین، بار دیگر بر عدم عقب‌نشینی از مواضع امنیتی تأکید کرد که نشان‌دهنده بن‌بست در دیپلماسی است.",
-            "استفاده از ادبیات تند علیه آمریکا و اسرائیل، تلاشی برای جلب حمایت پکن در میانه فشارهای بین‌المللی است.",
-            "خودسوزی شاهین شکوهی، دانشجوی دکتری، نشان‌دهنده عمق فشارهای امنیتی و خفقان در محیط‌های دانشگاهی است."
-        ],
-        "impact": "افزایش انزوای بین‌المللی و تشدید سرکوب‌های داخلی، شکاف میان حاکمیت و جامعه را عمیق‌تر می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611021601",
-        "clean_url": "https://www.iranintl.com/en/202611021601",
-        "image": "http://www.bing.com/th?id=ONUT.mUmuz5ipIKa72uBZ-gy3cQ&pid=News",
-        "timestamp": 1793587020.0
-    },
-    {
-        "id": "1ddc0c6fea",
-        "title_fa": "تهدید تلافی‌جویانه ط-ر-ح-ی-م مقابل اسرائیل و پایگاه‌های آمریکایی",
-        "title_en": "Iran threatens retaliation against Israel, US bases as tensions rise",
-        "summary": [
-            "مقام‌های ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی بار دیگر با بالا گرفتن تنش‌ها، دوز تهدیدات علیه منافع آمریکا و اسرائیل را بالا بردند.",
-            "این لفاظی‌ها عموماً با هدف مصرف داخلی و بازدارندگی نمایشی در برابر تحرکات نظامی رقیب صورت می‌گیرد."
-        ],
-        "impact": "افزایش سطح آماده‌باش نظامی در پایگاه‌های منطقه و تشدید التهاب در بازارهای مالی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Arab Weekly",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZieUVkb29lMlZpLWpZdXZiRUZsNUQxZmYxU1NWV0tmVTMtWVE3cWZGblpsOU1WN2tiRnRVZGxmWmV4STRQM09UV2ZnZVVyZHROZmV0RnRHZERta3piUFpBaXdlaVliWFNzSC03N21fdTRJT09SQ2ZDUEF5eEZocG9OY0MwVktZTkc4Yko2OVF3ZmdmZFFtZFlB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZieUVkb29lMlZpLWpZdXZiRUZsNUQxZmYxU1NWV0tmVTMtWVE3cWZGblpsOU1WN2tiRnRVZGxmWmV4STRQM09UV2ZnZVVyZHROZmV0RnRHZERta3piUFpBaXdlaVliWFNzSC03N21fdTRJT09SQ2ZDUEF5eEZocG9OY0MwVktZTkc4Yko2OVF3ZmdmZFFtZFlB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793586517.0
     }
 ]
