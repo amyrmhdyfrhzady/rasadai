@@ -1,5 +1,23 @@
 [
     {
+        "id": "dc9f587cd3",
+        "title_fa": "آماده‌سازی روانی شهروندان برای جنگ اتمی توسط دستگاه تبلیغاتی حاکمیت",
+        "title_en": "In chilling video, Iran prepares citizens for nuclear attack",
+        "summary": [
+            "انتشار ویدیوهای هولناک از سوی نهادهای حکومتی برای ترساندن جامعه از حمله هسته‌ای.",
+            "تلاش برای کنترل افکار عمومی و ایجاد فضای رعب و وحشت در داخل کشور."
+        ],
+        "impact": "افزایش بحران روانی جامعه و تلاش حاکمیت برای عادی‌سازی سایه جنگ.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjVyUEFac044RFJ3V1RCUHJkRkxXNkVoV2NONjFlREstSXNlSVV0RHRFdUVEWWR5VWdTTkJ2WWFsckctMklOVFpPRWIzdVpDM2dOb3VqRG40UndxakF0c3AydGloTmtNUzdLVE4tUFZUWlpGdDVCQ3N2SGsxb21qQnp4R2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjVyUEFac044RFJ3V1RCUHJkRkxXNkVoV2NONjFlREstSXNlSVV0RHRFdUVEWWR5VWdTTkJ2WWFsckctMklOVFpPRWIzdVpDM2dOb3VqRG40UndxakF0c3AydGloTmtNUzdLVE4tUFZUWlpGdDVCQ3N2SGsxb21qQnp4R2s",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793785776.0
+    },
+    {
         "id": "9de9c960fe",
         "title_fa": "ترامپ: ایران به دنبال توافق است و این احتمال وجود دارد",
         "title_en": "Trump Says Iran Wants A Deal 'And It Could Happen'",
@@ -161,6 +179,42 @@
         "clean_url": "https://www.businessinsider.com/inflation-and-cost-of-living-shaped-2026-midterm-voter-priorities-2026-11",
         "image": "http://www.bing.com/th?id=ONUT.d6GUydi76qUiuLt4rLmwwQ&pid=News",
         "timestamp": 1793757600.0
+    },
+    {
+        "id": "dc633998e1",
+        "title_fa": "التماس عراقچی برای مذاکره با آلمان از ترس پاسخ ائتلاف",
+        "title_en": "Iran's Araghchi regularly seeks talks amid efforts to avert renewed war, Germany says",
+        "summary": [
+            "مقام آلمانی فاش کرد که وزیر خارجه ج.ه به طور مرتب خواستار گفتگو با برلین است.",
+            "تلاش‌های دیپلماتیک تهران برای مهار حملات احتمالی ایالات متحده و اسرائیل شدت گرفته است."
+        ],
+        "impact": "آسیب‌پذیری شدید دیپلماتیک حکومت در برابر فشارهای نظامی و هراس از جنگ تمام‌عیار.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611043626",
+        "clean_url": "https://www.iranintl.com/en/202611043626",
+        "image": "http://www.bing.com/th?id=ONUT.QOL4DvO9buNeaBdwGGeqgQ&pid=News",
+        "timestamp": 1793755800.0
+    },
+    {
+        "id": "df0153c73f",
+        "title_fa": "رایزنی‌های فشرده قطر و حملات محدود هوایی آمریکا علیه اهداف حکومتی",
+        "title_en": "War or peace? US and Iran weigh fresh proposals as Qatar steps up mediation efforts",
+        "summary": [
+            "دونالد ترامپ تأیید کرد که ارتش آمریکا حملات محدودی را علیه اهداف وابسته به ج.ه انجام داده است.",
+            "میانجی‌گری قطر برای ارائه پیشنهادهای جدید به تهران و واشنگتن جهت جلوگیری از جنگ جریان دارد."
+        ],
+        "impact": "تشدید فشار نظامی در کنار تلاش‌های دیپلماتیک برای تحمیل توافق به تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/war-or-peace-us-and-iran-weigh-fresh-proposals-as-qatar-steps-up-mediation-efforts-article-14068156.html",
+        "clean_url": "https://www.moneycontrol.com/world/war-or-peace-us-and-iran-weigh-fresh-proposals-as-qatar-steps-up-mediation-efforts-article-14068156.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261103160338_Trump-billboard.jpg",
+        "timestamp": 1793755080.0
     },
     {
         "id": "456c3a96c5",
@@ -5399,60 +5453,5 @@
         "clean_url": "https://tradersunion.com/news/geopolitics-trade/show/4060025-netanyahu-urges-trump-iran-strikes",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793622660.0
-    },
-    {
-        "id": "b18086721d",
-        "title_fa": "دلخوشی نتانیاهو به بن‌بست دیپلماسی با ج.مهوری ا.سلامی",
-        "title_en": "Netanyahu’s best hope may be Iran saying no to diplomacy",
-        "summary": [
-            "بنیامین نتانیاهو روی رد هرگونه پیشنهاد دیپلماتیک از سوی تهران حساب باز کرده است.",
-            "ادامه تنش‌ها و امتناع از مذاکره، بهترین سناریو برای بقای سیاسی دولت اسرائیل به شمار می‌رود."
-        ],
-        "impact": "بسته شدن مسیر گفتگوها، احتمال درگیری نظامی مستقیم را به شدت بالا می‌برد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Türkiye Today",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkV0TkZtZXRnZ2VlN0tFRzJPdHJTOUJFc19iXzh6Qi1hQ1V2WENGLWNuUjZvRklZdlZRVXkzOU5hTHMtNms2RWQwZEk1Y0ZGYjhiSDRzZUNVVWliWGJGTVJxUmp4MnNud0VyXzZFYnprVDF1WUxFdmNFblFyVHc5NTJLUVNUYnRpVDRSUm0wZjM3SzBXRnA0QTVSdzVDZ3FTMGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkV0TkZtZXRnZ2VlN0tFRzJPdHJTOUJFc19iXzh6Qi1hQ1V2WENGLWNuUjZvRklZdlZRVXkzOU5hTHMtNms2RWQwZEk1Y0ZGYjhiSDRzZUNVVWliWGJGTVJxUmp4MnNud0VyXzZFYnprVDF1WUxFdmNFblFyVHc5NTJLUVNUYnRpVDRSUm0wZjM3SzBXRnA0QTVSdzVDZ3FTMGc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793621331.0
-    },
-    {
-        "id": "0464e09ac9",
-        "title_fa": "حمله هوایی به غزه و تلفات انسانی جدید",
-        "title_en": "Reports: One killed, five wounded in strike in Gaza City",
-        "summary": [
-            "منابع وابسته به حماس از اصابت موشک به یک خودرو در محله تل‌الهوا در شهر غزه خبر دادند.",
-            "بر اثر این انفجار یک نفر کشته و پنج تن دیگر مجروح شدند.",
-            "ارتش اسرائیل تاکنون درباره این رخداد موضع‌گیری رسمی نکرده است."
-        ],
-        "impact": "تداوم درگیری‌های میدانی و افزایش تلفات در باریکه غزه.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/reports-one-killed-five-wounded-in-strike-in-gaza-city/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/reports-one-killed-five-wounded-in-strike-in-gaza-city",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793620980.0
-    },
-    {
-        "id": "82a6de6db1",
-        "title_fa": "دستور ویژه پنتاگون برای خنثی‌سازی مداخلات خارجی در انتخابات",
-        "title_en": "Pentagon's top spies tasked with 'no-fail' mission as Hegseth puts foreign midterm meddling in crosshairs",
-        "summary": [
-            "پیت هگست، وزیر جنگ آمریکا، تمام نهادهای اطلاعاتی و سایبری ارتش را برای مقابله با دخالت‌های خارجی بسیج کرد.",
-            "این مأموریت حیاتی با هدف حفاظت از زیرساخت‌های انتخاباتی و جلوگیری از هک یا نفوذ دولت‌های متخاصم طراحی شده است."
-        ],
-        "impact": "افزایش آماده‌باش امنیتی و سایبری ارتش آمریکا برای حفاظت از فرآیند انتخابات میان‌دوره‌ای.",
-        "tag": "امنیت سایبری",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/pentagons-top-spies-tasked-no-fail-mission-hegseth-puts-foreign-midterm-meddling-crosshairs",
-        "clean_url": "https://www.foxnews.com/politics/pentagons-top-spies-tasked-no-fail-mission-hegseth-puts-foreign-midterm-meddling-crosshairs",
-        "image": "http://www.bing.com/th?id=ONUT.VdZNRkUkEepQMzT4LaIPTg&pid=News",
-        "timestamp": 1793620440.0
     }
 ]
