@@ -180,6 +180,24 @@
         "timestamp": 1793735629.0
     },
     {
+        "id": "0fee2c564f",
+        "title_fa": "پیروزی نامزد دموکرات بر رقیب حمایت‌شده توسط ترامپ",
+        "title_en": "Incumbent U.S. Rep. Frank Mrvan leading Trump-backed Barb Regnitz",
+        "summary": [
+            "فرانک مروان، نماینده دموکرات، توانسته پیشتاز رقابت انتخاباتی کنگره در برابر بارب رگنیتز باشد.",
+            "نتایج اولیه از آرای بالای مروان در شهرستان‌های مختلف حکایت دارد."
+        ],
+        "impact": "این نتیجه موضع دموکرات‌ها را در این حوزه انتخاباتی حفظ می‌کند.",
+        "tag": "انتخابات",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/11/03/incumbent-u-s-rep-frank-mrvan-leading-trump-backed-barb-regnitz/",
+        "clean_url": "https://www.chicagotribune.com/2026/11/03/incumbent-u-s-rep-frank-mrvan-leading-trump-backed-barb-regnitz",
+        "image": "http://www.bing.com/th?id=ONUT.0wS0GtmAdrLJ-mpY715hpA&pid=News",
+        "timestamp": 1793734800.0
+    },
+    {
         "id": "9c50d3a9bf",
         "title_fa": "شکست غیرمنتظره جمهوری‌خواهان در سناریوی سنای کارولینای جنوبی",
         "title_en": "Democrat Annie Andrews defeats GOP Sen. Darline Graham in South Carolina, a major upset",
@@ -5451,23 +5469,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2ctSXgzRXJwT3ZOVTNDcVo1bG82S2lBZ3ppQk8wOG82cEN3cVByNUhVSTJvdGV2OEJkbXR5a1pfWDY3ODVnbUxTOEo3MTExbWpVYUpyUjZPVG8tbEROSUNtRFRueWYzSEk0ZUNFTWRVNkFiU21xNkNPWXBxdHJRWW1ObV9SRlM4ZXluLVV0MVlNQnM1OVQxSGtUZ3FxcTB1c1NvQUVtSEsyUzM3T2pMNDZVbERNdEpTcUdCNHRfOFJWYnc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793565090.0
-    },
-    {
-        "id": "996b02fe24",
-        "title_fa": "اعتراض بازنشستگان به گرانی و فقر در سایه شکاف حاکمیت",
-        "title_en": "Iran’s Retirees Protest War and Poverty as Food Prices Soar and Regime Insiders Warn of Divisions - National Council of Resistance of Iran",
-        "summary": [
-            "بازنشستگان با آمدن به خیابان‌ها نسبت به انفجار قیمت مواد غذایی و سیاست‌های جنگ‌طلبانه اعتراض کردند.",
-            "مهره‌های خودی در درون ساختار قدرتی ج.ا نسبت به افزایش شکاف‌های درون‌حزبی و بحران‌های اجتماعی هشدار دادند."
-        ],
-        "impact": "گسترش نارضایتی‌های معیشتی فشار بر ساختار سیاسی ج.ا را به نقطه جوش نزدیک‌تر می‌کند.",
-        "tag": "اعتراضات",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkVFeng1dmhxX0E2dFBHcTQyeHBPYW9zWl95UW8zLXRzZUprM3FKcHFHMkYzd0l4ckZhbDdOWlppMm9tak02RFFFaUh4M242bjh1YXZhWkhkMTVfbC1VcmRpaThKUEIyNW1EbzBFa00tVFMwUFpLX25zcEpiRWo2M3RJNVRvZzVHRzNOSWZWMU5uZVVieFVEZldBdGE0eUczWU9Qc0plaEpOc2w4Qy1BNWRUQmpRVWhia2ZFNWk3bXN5YnRNWHNqcjYyeWg2U0NPMkxiMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkVFeng1dmhxX0E2dFBHcTQyeHBPYW9zWl95UW8zLXRzZUprM3FKcHFHMkYzd0l4ckZhbDdOWlppMm9tak02RFFFaUh4M242bjh1YXZhWkhkMTVfbC1VcmRpaThKUEIyNW1EbzBFa00tVFMwUFpLX25zcEpiRWo2M3RJNVRvZzVHRzNOSWZWMU5uZVVieFVEZldBdGE0eUczWU9Qc0plaEpOc2w4Qy1BNWRUQmpRVWhia2ZFNWk3bXN5YnRNWHNqcjYyeWg2U0NPMkxiMw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793564031.0
     }
 ]
