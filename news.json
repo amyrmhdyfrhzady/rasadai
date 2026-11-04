@@ -343,6 +343,25 @@
         "timestamp": 1793777621.0
     },
     {
+        "id": "e4db381c86",
+        "title_fa": "تهدید تهران به پاسخ جهانی پس از حمله آمریکا به جزیره قشم",
+        "title_en": "Iran Threatens to Strike U.S. and Israeli Targets Anywhere in the World After Qeshm Island Attack",
+        "summary": [
+            "نیروهای آمریکایی در واکنش به شلیک موشک به سمت اهداف خود در تنگه هرمز، مواضعی را در جزیره قشم هدف قرار دادند.",
+            "رئیس مجلس، محمدباقر قالیباف، از پاسخ نظامی پیش‌بینی‌نشده و بدون محدودیت جغرافیایی به اقدامات آمریکا خبر داد.",
+            "بسته شدن تنگه هرمز هزینه سنگین ۱۲۷ میلیارد یورویی بر واردات سوخت اتحادیه اروپا تحمیل کرده است."
+        ],
+        "impact": "تشدید تنش‌ها در تنگه هرمز و ریسک بالای درگيری نظامی فراتر از مرزهای منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Latin Times",
+        "url": "https://www.latintimes.com/us-strikes-iran-qeshm-island-retaliation-600888",
+        "clean_url": "https://www.latintimes.com/us-strikes-iran-qeshm-island-retaliation-600888",
+        "image": "http://www.bing.com/th?id=ONUT.eLeycjdvO7SgjBcSLItvVg&pid=News",
+        "timestamp": 1793776920.0
+    },
+    {
         "id": "da4723bd79",
         "title_fa": "چالش آژانس اتمی و تهران بر سر بازرسی سایت‌های هسته‌ای",
         "title_en": "U.N. nuclear boss says inspectors will visit Iran sites; Tehran says only after final deal",
@@ -5426,23 +5445,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793666340.0
-    },
-    {
-        "id": "dd5c7587aa",
-        "title_fa": "سناریوهای پیش روی کاخ سفید در قبال تهران",
-        "title_en": "Iran after the midterms: Which decision will President Trump choose to make?",
-        "summary": [
-            "مواضع د-ونالد ت-را-مپ پس از تحولات سیاسی اخیر، ابعاد تازه ای از رویکرد فشار حداکثری را نمایان می کند.",
-            "توافقات موقت گذشته کارایی خود را از دست داده و تصمیم گیرندگان آمریکایی به دنبال گزینه های سخت تری هستند."
-        ],
-        "impact": "بلاتکلیفی دیپلماتیک و تداوم رویکرد تقابل محور در سیاست خارجی آمریکا.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-my/news/other/iran-after-the-midterms-which-decision-will-president-trump-choose-to-make/ar-AA2gF024",
-        "clean_url": "https://www.msn.com/en-my/news/other/iran-after-the-midterms-which-decision-will-president-trump-choose-to-make/ar-AA2gF024",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793666160.0
     }
 ]
