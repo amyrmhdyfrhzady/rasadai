@@ -181,6 +181,24 @@
         "timestamp": 1793744760.0
     },
     {
+        "id": "a9aba0ef55",
+        "title_fa": "خطای فنی در بارگذاری خبر انتخابات فرمانداری میشیگان",
+        "title_en": "Reports: Benson beats James in Michigan's race for governor",
+        "summary": [
+            "خبرگزاری منبع به دلیل مشکلات فنی در پشتیبانی از مرورگرها نتوانست جزئیات رقابت انتخاباتی را نمایش دهد.",
+            "اطلاعات کامل درباره پیروزی احتمالی بنسون بر جیمز در دسترس نیست."
+        ],
+        "impact": "این خبر به دلیل نقص فنی محتوا فاقد ارزش عملیاتی یا تأثیر سیاسی است.",
+        "tag": "انتخابات",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/11/04/jocelyn-benson-elected-michigan-governor/92382050007/",
+        "clean_url": "https://www.freep.com/story/news/politics/elections/2026/11/04/jocelyn-benson-elected-michigan-governor/92382050007",
+        "image": "http://www.bing.com/th?id=ONUT.4GpyvZrDkdnxAcd0Mbbuzg&pid=News",
+        "timestamp": 1793744040.0
+    },
+    {
         "id": "ef54dd789c",
         "title_fa": "دموکرات‌ها پس از پیروزی در میان‌دوره‌ای، تیغ احضارها را برای تـر‌مپ تیز کردند",
         "title_en": "‘LAWYER UP’: Dems immediately put Trump on notice amid Republicans' midterm bloodbath",
@@ -5443,23 +5461,5 @@
         "clean_url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
         "image": "http://www.bing.com/th?id=ONUT.7ph_yzsf1YYQJWgB-0T5wg&pid=News",
         "timestamp": 1793598300.0
-    },
-    {
-        "id": "0bc3ec9b50",
-        "title_fa": "فشار حکومتی و حضور بسیج در مدارس ایران",
-        "title_en": "Students in Iran report tighter school surveillance, military pressure",
-        "summary": [
-            "مقررات سخت‌گیرانه، کنترل شدید و اجبار به شرکت در برنامه‌های عقیدتی در مدارس چند شهر گزارش شده است.",
-            "مدیران مدارس دانش‌آموزان را با تهدید اخراج و پرونده‌سازی قضایی وادار به شرکت در مراسم حکومتی می‌کنند."
-        ],
-        "impact": "تشدید فضای امنیتی در مراکز آموزشی و افزایش مقاومت نسل جوان در برابر مأموران حکومتی",
-        "tag": "سرکوب",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611026499",
-        "clean_url": "https://www.iranintl.com/en/202611026499",
-        "image": "http://www.bing.com/th?id=ONUT.k9vAg5pbAAdUiUqDShVz8g&pid=News",
-        "timestamp": 1793596980.0
     }
 ]
