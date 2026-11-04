@@ -1,5 +1,23 @@
 [
     {
+        "id": "fc9ef92349",
+        "title_fa": "حمله نظامی ایالات متحده به تنگه هرمز",
+        "title_en": "U.S. strikes Strait of Hormuz hours before Tuesday midterms",
+        "summary": [
+            "ارتش آمریکا در آستانه انتخابات میان‌دوره‌ای دست به اقدام نظامی در این آبراه حیاتی زده است.",
+            "این تحول نظامی نشانگر تشدید تنش‌ها در یکی از حساس‌ترین مناطق راهبردی جهان است."
+        ],
+        "impact": "افزایش فوری ریسک امنیتی در خلیج فارس و احتمال اختلال در ترانزیت انرژی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhpUnNOSTlZWWdpekFRMGZjaWFnRDY3TmFnQkk0Qm4yRExTZnJoemVSZEQ2YS1yZkwtdGhLaEFwSE5FcHplcUZta1k3amJrMGl5emdJX3pPUlY4aTJnVVFhYlBuX0FlN2VUbVNQTFZ6Yjc3ZENmVGJQbFcxTUpkcmhLS05zc19SRS1qYm5QbmxTOWk3VUpES9IBngFBVV95cUxPUkE4ZGpqYlp5ZkIwQ2oyVDF3dWdFeG9XM0pDMnBxQm5CR0gtWXpIcWt2V2J3Mlg5TFJrUmpfcFdBdm54VEgzRW1jSUtPbGhPR25qMmg3MEtDUHBrQ1FaU3p3bGxBUGMzd1hzRXFSbi10cDg2Wmd5Vzl1YXJDdkg4QVlGd1NmbkxKdjBYZlVCQ1hWTDAzOUlTVnBFRVNDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhpUnNOSTlZWWdpekFRMGZjaWFnRDY3TmFnQkk0Qm4yRExTZnJoemVSZEQ2YS1yZkwtdGhLaEFwSE5FcHplcUZta1k3amJrMGl5emdJX3pPUlY4aTJnVVFhYlBuX0FlN2VUbVNQTFZ6Yjc3ZENmVGJQbFcxTUpkcmhLS05zc19SRS1qYm5QbmxTOWk3VUpES9IBngFBVV95cUxPUkE4ZGpqYlp5ZkIwQ2oyVDF3dWdFeG9XM0pDMnBxQm5CR0gtWXpIcWt2V2J3Mlg5TFJrUmpfcFdBdm54VEgzRW1jSUtPbGhPR25qMmg3MEtDUHBrQ1FaU3p3bGxBUGMzd1hzRXFSbi10cDg2Wmd5Vzl1YXJDdkg4QVlGd1NmbkxKdjBYZlVCQ1hWTDAzOUlTVnBFRVNDdw",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793754933.0
+    },
+    {
         "id": "ade0952564",
         "title_fa": "تأثیر حملات ایران و کاهش کمک‌ها به اسرائیل بر روز انتخابات",
         "title_en": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
@@ -124,6 +142,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UOW5wbU1xdTFlcURVMzdlNUViV2RxRnhaZWdpV1JwYXBWd0VqZWZxekh3bFp1X1hUUTBIV1ZQLV9aSXl0ZUJkbExxaHFkeTRHVkZnRlpoUHF5MU94QmdvQzl6YmdXc1N1RVE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793735629.0
+    },
+    {
+        "id": "0ec6cf09bd",
+        "title_fa": "آغاز شمارش آرای انتخابات میان‌دوره‌ای آیووا",
+        "title_en": "Iowa 2026 election updates: Polls have closed and tallying begins",
+        "summary": [
+            "حوزه‌های رای‌گیری در ایالت آیووا بسته شد و روند شمارش آرا کلید خورد.",
+            "این رقابت‌ها شامل کرسی‌های کلیدی در سنا و مجلس نمایندگان آمریکا است."
+        ],
+        "impact": "تعیین تکلیف کرسی‌های مهم کنگره و تاثیرگذاری بر موازنه قدرت سیاسی در آمریکا",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Des Moines Register on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iowa-2026-election-updates-polls-have-closed-and-tallying-begins/ar-AA2gFjN1",
+        "clean_url": "https://www.msn.com/en-us/news/other/iowa-2026-election-updates-polls-have-closed-and-tallying-begins/ar-AA2gFjN1",
+        "image": "http://www.bing.com/th?id=ONUT.IoQZCIwnBx4EFFIH5ABWDg&pid=News",
+        "timestamp": 1793730263.0
     },
     {
         "id": "e54bbf02b1",
@@ -5435,41 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjg2WnAyeGdIdGo5Uk1lLWtyYnk1Y0Z0UnRPcFBtdlhaeGJhUHpPMkp2bkVtRGx6WDNFZlduaGtyYk5yOUJzc1hiaW4wX19lZ3hTaUMya0ppbDU2NmdmYlVIdEZqODN4TVlwcmRiMS1kWWtEVUJla3FQNGp0LVc5akZNRlktamZVY3ljWmd3",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793547046.0
-    },
-    {
-        "id": "0e3e1a808b",
-        "title_fa": "سیگنال‌های کلیدی برای احتمال حملات مجدد به رژیم",
-        "title_en": "Resumed Iran Strikes? 15 Warning Signs Business Leaders Should Watch",
-        "summary": [
-            "رهبران تجاری باید شاخص‌های کلیدی را برای پیش‌بینی تحولات نظامی رصد کنند.",
-            "فشارها بر ج.ا ممکن است پس از تحولات سیاسی آمریکا وارد فاز تازه‌ای شود."
-        ],
-        "impact": "آشفتگی بازارهای مالی و جهش قیمت انرژی در صورت بروز درگیری نظامی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/frankahrens/2026/11/01/resumed-iran-strikes-15-warning-signs-business-leaders-should-watch/",
-        "clean_url": "https://www.forbes.com/sites/frankahrens/2026/11/01/resumed-iran-strikes-15-warning-signs-business-leaders-should-watch",
-        "image": "http://www.bing.com/th?id=ONUT.HZ53tXH71gclqQhTrV_7AQ&pid=News",
-        "timestamp": 1793545260.0
-    },
-    {
-        "id": "299d095f75",
-        "title_fa": "خسارت ۱۵ میلیارد دلاری پایگاه‌های آمریکا از تسلیحات ایرانی",
-        "title_en": "Iran’s boosted weapons capabilities have caused up to $15B in US base damage: report",
-        "summary": [
-            "پیشرفت چشمگیر موشکی و پهپادی ایران هزینه سنگینی به زیرساخت‌های نظامی آمریکا در منطقه تحمیل کرده است.",
-            "گزارش‌های جدید نشان می‌دهد توان ضربتی نیابتی‌ها و ارتش، موازنه هزینه درگیری را تغییر داده است."
-        ],
-        "impact": "افزایش فشار مالی و نظامی بر ایالات متحده برای بازنگری در راهبرد دفاع هوایی پایگاه‌های منطقه‌ای.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-boosted-weapons-capabilities-have-caused-up-to-15b-in-us-base-damage-report/ar-AA2gxBUA",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-boosted-weapons-capabilities-have-caused-up-to-15b-in-us-base-damage-report/ar-AA2gxBUA",
-        "image": "http://www.bing.com/th?id=ONUT.6Ig1PiEs3QIs2lG4lnBorA&pid=News",
-        "timestamp": 1793544122.0
     }
 ]
