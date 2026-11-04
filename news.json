@@ -199,6 +199,24 @@
         "timestamp": 1793726640.0
     },
     {
+        "id": "79b3ff1151",
+        "title_fa": "شکست جمهوری‌خواهان در کارولینای شمالی و پیروزی دموکرات‌ها",
+        "title_en": "Former Gov. Roy Cooper wins North Carolina’s Senate race, flipping the seat for Democrats",
+        "summary": [
+            "روی کوپر، فرماندار پیشین دموکرات، کرسی سنا در کارولینای شمالی را از چنگ جمهوری‌خواهان درآورد.",
+            "این پیروزی یک دستاورد کلیدی برای دموکرات‌ها در تلاش برای به دست آوردن کنترل سنا محسوب می‌شود."
+        ],
+        "impact": "تغییر موازنه قدرت در سنا به نفع دموکرات‌ها پس از سال‌ها.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2026-election/roy-cooper-north-carolina-senate-election-win-democrats-rcna603330",
+        "clean_url": "https://www.nbcnews.com/politics/2026-election/roy-cooper-north-carolina-senate-election-win-democrats-rcna603330",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-roy-cooper-north-carolina-senate-midterm-vl-1230p-a7171c.jpg",
+        "timestamp": 1793726580.0
+    },
+    {
         "id": "ae68253a14",
         "title_fa": "پایان سه دهه نمایندگی دانی دیویس در ایلینوی",
         "title_en": "Voters in 7th congressional district set to choose new congressman for first time in three decades",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793531760.0
-    },
-    {
-        "id": "d5b991848f",
-        "title_fa": "خط و نشان سپاه برای اهداف جدید در صورت درگیری",
-        "title_en": "Iran's Revolutionary Guards threaten new targets if attacks resume",
-        "summary": [
-            "سخنگوی سپاه از شناسایی اهداف جدید دشمن و آماده‌سازی توانمندی‌های نظامی تازه خبر داد.",
-            "تهران بار دیگر بر حمایت کامل خود از گروه‌های نیابتی منطقه تاکید کرد."
-        ],
-        "impact": "افزایش سطح تنش‌های نظامی و تلاش برای بازدارندگی در برابر حملات احتمالی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611013177",
-        "clean_url": "https://www.iranintl.com/en/202611013177",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1793529360.0
     }
 ]
