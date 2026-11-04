@@ -235,6 +235,24 @@
         "timestamp": 1793734800.0
     },
     {
+        "id": "5945e54154",
+        "title_fa": "آماده‌باش اضطراری در پی احتمال درگیری اتمی",
+        "title_en": "Irán advierte a su población posible ataque nuclear de EU: Difunde protocolos de emergencia",
+        "summary": [
+            "نهادهای دولتی پروتکل‌های اضطراری مقابله با حمله هسته‌ای را میان مردم منتشر کردند.",
+            "فضای روانی شهرهای مختلف تحت تأثیر سایه سنگین جنگ تمام‌عیار قرار گرفته است."
+        ],
+        "impact": "ایجاد جو شدید وحشت و اضطراب عمومی در داخل کشور",
+        "tag": "امنیتی",
+        "urgency": 10,
+        "sentiment": -1.0,
+        "source": "Debate",
+        "url": "https://www.debate.com.mx/mundo/iran-advierte-a-su-poblacion-posible-ataque-nuclear-de-eu-difunde-protocolos-de-emergencia-20261103-0228.html",
+        "clean_url": "https://www.debate.com.mx/mundo/iran-advierte-a-su-poblacion-posible-ataque-nuclear-de-eu-difunde-protocolos-de-emergencia-20261103-0228.html",
+        "image": "http://www.bing.com/th?id=ONUT.pHIgl5mxwFHOybKRbjbL6g&pid=News",
+        "timestamp": 1793733900.0
+    },
+    {
         "id": "0466061d78",
         "title_fa": "شکست جمهوری‌خواهان در حوزه انتخابیه کلیدی نیوجرسی",
         "title_en": "Trump Bedminster golf course falls to Dems as Republicans lose key House seat",
@@ -1430,6 +1448,24 @@
         "timestamp": 1793711872.0
     },
     {
+        "id": "c0be74f7e7",
+        "title_fa": "واکنش تند پارلمان جـمـهـورۍ اسـلا‌مـۍ به تحرکات آمریکا",
+        "title_en": "Irán advierte de un nuevo campo de batalla tras supuesto ataque de EE.UU. en Qeshm",
+        "summary": [
+            "محمدباقر قالیباف به ایالات متحده درباره گسترش درگیری‌ها هشدار داد.",
+            "تهران از برقراری وضعیت آماده‌باش دفاعی خبر داده و پایگاه‌های حامی آمریکا در اروپا را تهدید کرد."
+        ],
+        "impact": "گسترش احتمالی جغرافیای درگیری به خارج از مرزهای خاورمیانه",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/es-ve/noticias/otras/ir%C3%A1n-advierte-de-un-nuevo-campo-de-batalla-tras-supuesto-ataque-de-eeuu-en-qeshm/ar-AA2gGHIB",
+        "clean_url": "https://www.msn.com/es-ve/noticias/otras/ir%C3%A1n-advierte-de-un-nuevo-campo-de-batalla-tras-supuesto-ataque-de-eeuu-en-qeshm/ar-AA2gGHIB",
+        "image": "http://www.bing.com/th?id=ONUT.a6wlv7-R30A2k1lQp5cdqA&pid=News",
+        "timestamp": 1793711109.0
+    },
+    {
         "id": "b4c58f2e2b",
         "title_fa": "حضور پرشور دانشجویان در مراکز رای‌گیری میشیگان",
         "title_en": "Ann Arbor residents, University of Michigan students pack 2026 midterm poll centers",
@@ -1664,6 +1700,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-team-makes-desperate-final-pitch-to-voters-high-prices-are-good/ar-AA2gGRrT",
         "image": "http://www.bing.com/th?id=ONUT.4Voo5G6gfoV6FrSNoCzy_w&pid=News",
         "timestamp": 1793706992.0
+    },
+    {
+        "id": "3a8a47d5a1",
+        "title_fa": "حمله محدود ایالات متحده به جزیره قشم",
+        "title_en": "Ataque de Estados Unidos a Irán: de las certezas a la desinformación",
+        "summary": [
+            "نظامیان آمریکایی دست به یک عملیات هدفمند در جزیره قشم در نزدیکی تنگه هرمز زدند.",
+            "مقام‌های واشنگتن این تحرکات را ماهیت دفاعی و محدود توصیف کرده‌اند."
+        ],
+        "impact": "افزایش فوری تنش‌های نظامی در آبراه حیاتی تنگه هرمز",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261103/ataque-estados-unidos-iran-certezas-desinformacion/17298432.shtml",
+        "clean_url": "https://www.rtve.es/noticias/20261103/ataque-estados-unidos-iran-certezas-desinformacion/17298432.shtml",
+        "image": "http://www.bing.com/th?id=ONUT.8Bpfsx0mddzb57H8lcC5Wg&pid=News",
+        "timestamp": 1793706720.0
     },
     {
         "id": "791dae139a",
@@ -5411,62 +5465,5 @@
         "clean_url": "https://www.theepochtimes.com/world/us-iran-continue-indirect-talks-as-nuclear-dispute-military-risks-persist-6112108",
         "image": "https://img.theepochtimes.com/assets/uploads/2026/10/28/id6110017-GettyImages-2299378687.jpg",
         "timestamp": 1793577660.0
-    },
-    {
-        "id": "8659a1e901",
-        "title_fa": "هشدار صریح ترامپ و مین‌گذاری در تنگه هرمز",
-        "title_en": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-        "summary": [
-            "دونالد ترامپ اعلام کرد جنگ با جمووری اسلامی خیلی زود به پایان می‌رسد و تهران یا باید توافق کند یا نابود می‌شود.",
-            "سپاه پاسداران از آتش گرفتن دو نفتکش در پی برخورد با مین در تنگه هرمز خبر داد.",
-            "عباس عراقچی از ادامه مذاکرات برای بازگشایی تنگه هرمز خبر داد و ابراز امیدواری کرد آمریکا دیپلماسی را انتخاب کند."
-        ],
-        "impact": "بسته شدن احتمالی تنگه هرمز و جهش قیمت نفت در بازارهای جهانی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__D6368MJ__v1__HighRes__IranIsraelUsWar-1793576931.jpg?resize=1920%2C1440",
-        "timestamp": 1793577660.0
-    },
-    {
-        "id": "91450ee435",
-        "title_fa": "ضرب‌الاجل دو روزه تهران برای بازگشایی تنگه هرمز",
-        "title_en": "Middle East latest: Iran offers to open strait in two days if US meets demands",
-        "summary": [
-            "تهران اعلام کرده در صورت برآورده شدن خواسته از سوی واشنگتن، ظرف دو روز تنگه هرمز را بازگشایی می‌کند.",
-            "این اقدام یک اهرم فشار مستقیم بر بازار جهانی انرژی و ابزاری برای امتیازگیری سریع در مواجهه با فشار حداکثری است.",
-            "پاسخ واشنگتن به این اولتیماتوم، مسیر هفته‌های آینده را میان تصاعد نظامی یا عقب‌نشینی تاکتیکی مشخص خواهد کرد."
-        ],
-        "impact": "نوسان شدید در بازار نفت و احتمال بالارفتن ریسک درگیری در صورت رد شروط.",
-        "tag": "تنگه هرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The National",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793577356.0
-    },
-    {
-        "id": "b5d1c14879",
-        "title_fa": "خط‌ونشان کشیدن فرمانده فراجا برای مخالفان",
-        "title_en": "Iran police chief warns adversary will suffer heavier defeat if it attacks",
-        "summary": [
-            "احمدرضا رادان مدعی آمادگی کامل نیروهای انتظامی برای پاسخ به هرگونه سناریوی نظامی شد.",
-            "این تهدیدات پوچ در حالی مطرح می‌شود که ساختار امنیتی ج.ا.ر با بحران‌های عمیق داخلی و خارجی دست‌وپنجه نرم می‌کند.",
-            "اشاره به نام م-ج-ت-ب-ا خ-ا-م-ن-ه-‌ای نشان‌دهنده تلاش برای وفاداری‌نمایی در بالاترین سطح فرماندهی است."
-        ],
-        "impact": "این لفاظی‌های نظامی هیچ تاثیری بر موازنه قوا نداشته و صرفاً مصرف داخلی دارد.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611022919",
-        "clean_url": "https://www.iranintl.com/en/202611022919",
-        "image": "http://www.bing.com/th?id=ONUT.89HDCulxqRlqHHMICThgWQ&pid=News",
-        "timestamp": 1793572500.0
     }
 ]
