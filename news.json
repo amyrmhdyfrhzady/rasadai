@@ -198,6 +198,24 @@
         "timestamp": 1793741814.0
     },
     {
+        "id": "be73f8450c",
+        "title_fa": "شکست نماینده جمهوری‌خواه در انتخابات کنگره آیووا",
+        "title_en": "Bohannan ousts Miller-Meeks in Iowa's 1st District race, reports say",
+        "summary": [
+            "کریستینا بوهانان توانست ماریان میلر-میکس را در رقابت‌های انتخاباتی حوزه اول آیووا شکست دهد.",
+            "این جابجایی کرسی در مجلس نمایندگان آمریکا می‌تواند توازن قوا را تحت تاثیر قرار دهد."
+        ],
+        "impact": "تغییر موازنه‌های سیاسی در یکی از حوزه‌های کلیدی کنگره آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/11/03/iowa-1st-congressional-district-election-2026-results-miller-meeks-bohannan/92460134007/",
+        "clean_url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/11/03/iowa-1st-congressional-district-election-2026-results-miller-meeks-bohannan/92460134007",
+        "image": "http://www.bing.com/th?id=ONUT.yGBHy4YyHdJ4s7MdfHgU6Q&pid=News",
+        "timestamp": 1793741340.0
+    },
+    {
         "id": "71521c95c7",
         "title_fa": "اعتراف ترامپ به تاثیر جنگ ایران بر شکست در انتخابات میهماندرم",
         "title_en": "Trump acknowledges Iran role in Democratic sweep",
@@ -5442,23 +5460,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VQ205aUlkZ2ZWbmlOTFJ6OExYYU5TMzlJUGstbnRXT1lGWFZ6N081RnRVMThVSEJ0SkJJaVJpb25QVzZMUElwaU1BSzhSWXQxbnc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793594400.0
-    },
-    {
-        "id": "6ea25ff507",
-        "title_fa": "ریشه جنگ با ج.ا از سال ۱۳۵۸ آغاز شد",
-        "title_en": "The war with Iran began in 1979",
-        "summary": [
-            "مناقشه بنیادین میان جهان آزاد و حاکمیت فعلی ایران نه از پرونده اتمی، بلکه از زمان روی کار آمدن این سیستم کلید خورد.",
-            "ماهیت ایدئولوژیک حاکمیت جدید از ابتدا بر مبنای تقابل با نظم جهانی بنا شده بود."
-        ],
-        "impact": "تثبیت این نگاه در غرب که توافق موقت راه حل بحران نیست.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Wc0laNWlqbDNjT1NKWGxSYmprWk9pUm1oaXlYWmx5cXFsaFF4ZGtpby1qWDlyUUswV3dpQ3FfcW9NTXBlUjE1QXRUSURjazF1YllLbVViTUZxX3U3bmhZcHBBREZkRUxLNDhiVWNOVEpZV2FzR1RsRlNVVEdUZXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Wc0laNWlqbDNjT1NKWGxSYmprWk9pUm1oaXlYWmx5cXFsaFF4ZGtpby1qWDlyUUswV3dpQ3FfcW9NTXBlUjE1QXRUSURjazF1YllLbVViTUZxX3U3bmhZcHBBREZkRUxLNDhiVWNOVEpZV2FzR1RsRlNVVEdUZXc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793593862.0
     }
 ]
