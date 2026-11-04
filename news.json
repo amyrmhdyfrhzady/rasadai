@@ -162,6 +162,43 @@
         "timestamp": 1793748876.0
     },
     {
+        "id": "8396c629b6",
+        "title_fa": "تسلط دموکرات‌ها بر کنگره و وعده تغییرات اساسی در آمریکا",
+        "title_en": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
+        "summary": [
+            "حکیم جفریز با اعلام بازگشت آمریکا، از برنامه‌های حزب خود برای کنترل کنگره و مهار برنامه‌های دولت خبر داد.",
+            "تمرکز اصلی دموکرات‌ها پس از پیروزی در انتخابات میان‌دوره‌ای، کاهش هزینه‌های زندگی، مسکن و درمان خواهد بود."
+        ],
+        "impact": "تغییر توازن قدرت در واشنگتن و چالش جدی برای سیاست‌های داخلی و خارجی دولت ترامپ.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
+        "clean_url": "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
+        "image": "http://www.bing.com/th?id=ONUT.dOWC3wiN6dcIWa1S9elb7A&pid=News",
+        "timestamp": 1793746200.0
+    },
+    {
+        "id": "adfdd2dc06",
+        "title_fa": "شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا به دلیل گرانی بنزین",
+        "title_en": "Trump says midterms voters weren't willing to pay more for gas: 'I understand that'",
+        "summary": [
+            "ترامپ اعتراف کرد رای‌دهندگان آمریکایی تمایلی به پرداخت هزینه‌های سنگین سوخت ناشی از درگیری با ای-ران نداشتند.",
+            "با پیروزی دموکرات‌ها و کنترل کامل کنگره، ترامپ در نیمه دوم ریاست‌جمهوری با پارلمان مخالف روبه‌رو است.",
+            "ترامپ این مشکلات را بهانه‌ای کوتاه مدت برای دستاوردهای بلندمدت می‌داند اما نتیجه را پذیرفته است."
+        ],
+        "impact": "از دست رفتن کنترل کنگره توسط جمهوری‌خواهان، دست ترامپ را در اجرای سیاست‌های سخت‌گیرانه خارجی می‌بندد.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/trump-midterm-voters-democrats-win-willing-pay-gas-iran-war-2026-11",
+        "clean_url": "https://www.businessinsider.com/trump-midterm-voters-democrats-win-willing-pay-gas-iran-war-2026-11",
+        "image": "http://www.bing.com/th?id=ONUT.bfZ3oAUxoEPn8ncymTJWdQ&pid=News",
+        "timestamp": 1793746080.0
+    },
+    {
         "id": "083069c76b",
         "title_fa": "واکنش قالیباف به شکست ترامپ در انتخابات میان‌دوره‌ای آمریکا",
         "title_en": "Iran says Democratic midterm sweep reflects Americans' 'no to war' message",
@@ -5423,43 +5460,5 @@
         "clean_url": "https://www.iranintl.com/en/202611028403",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1793601720.0
-    },
-    {
-        "id": "ff1b86a3e1",
-        "title_fa": "هراس تهران از شکاف داخلی؛ واکنش منفعلانه به مواضع جی‌دی ونس",
-        "title_en": "Iranian lawmaker says Vance letter aims to deepen divisions in Iran",
-        "summary": [
-            "ادعای نماینده مجلس درباره موضع‌گیری جی‌دی ونس، نشان از آشفتگی و نگرانی عمیق حاکمیت نسبت به تشدید قطب‌بندی‌ها در داخل کشور دارد.",
-            "دستگاه تبلیغاتی تهران تلاش می‌کند فشارهای هدفمند واشنگتن را به «عملیات روانی برای تفرقه» تقلیل دهد تا ضعف‌های ساختاری خود را توجیه کند.",
-            "این موضع‌گیری‌های دفاعی، ترس مسئولان را از احتمال ریزش بیشتر نیروهای خودی و گسست اجتماعی افشا می‌کند."
-        ],
-        "impact": "آشکار شدن ضعف داخلی حاکمیت در برابر فشارهای سیاسی جدید واشنگتن و تشدید خطابات تدافعی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6eldLR0cxUXMwdXo4eWh2QnlYY2dpdzllOEt0bWNZdEFwajBYYXczcDY5TjB0YXYySDlvU0hCeDg0NDZ6M2c1Z1NvcUlxaW1CSEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6eldLR0cxUXMwdXo4eWh2QnlYY2dpdzllOEt0bWNZdEFwajBYYXczcDY5TjB0YXYySDlvU0hCeDg0NDZ6M2c1Z1NvcUlxaW1CSEE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793600397.0
-    },
-    {
-        "id": "bba0418761",
-        "title_fa": "هشدار تهران به واشنگتن در پی تهدید ضربتی ترامپ",
-        "title_en": "Iran warns new war with US could last longer as Trump threatens ‘the hammer’",
-        "summary": [
-            "دونالد ترامپ با لحنی تند تهدید به برخورد سخت نظامی کرده و تهران در پاسخ مدعی شده هرگونه درگیری جدید، طولانی و پرهزینه خواهد بود.",
-            "استراتژی کلامی رژیم ایران بر پایه بالا جلوه دادن هزینه جـ‌نـ‌گ برای واشنگتن تنظیم شده تا مانع از اجرای تهدیدات ترامپ شود.",
-            "این خط کلامی نشان‌دهنده بازگشت سطح تنش‌ها به مرحله خطرات مستقیم نظامی و جنگ روانی طرفین است."
-        ],
-        "impact": "افزایش آنی ریسک‌های نظامی در خلیج فارس و جهش هیجانی نرخ ارز و طلا.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWx3TldNY0dlN0RBQnJMcmczbV83TFREYTNnaGhpMHhvajRtSWhBZ2d6RTBiUGk5Y0dmZ3MwTUoxQnJUcUJEc0hDaEJmbnF3SXRFWmVLYnhsVDZuLWFoWHdhcWhtYWtXUTlGeUluSU5xdjhaNzVtTUtvVEdGcmZNQVlKbW5wZVlDNnAwN1U4dkdKU3N2RWxUc2ZZQzhCa19JSWhJLWVsTVQ4cTI3UEFEVW5IMy1ZaVNrVDZCRWZrd9IBvwFBVV95cUxQeU1abndUSGk4ajlHRW1xM3lrLUVuUk1fYkc1amNtdGtSdTFSUkllNklOVUE3MkJJU0NQXzZRZ2NTRGJrR0RTVGxPX1BSVUVOeGtRbWRqX2VNZnExSUUyNGczLXpYZFNkOGVZZmh4MGtNeVRFb3BxVUF3NXBkYXBrVUJmcDE5aHJPcy0yZGwwdVNwbGFzamtQVEpSRU1saHlKUnJCTVdmcDVHZDN3U0NDd2tRc3BNWnI5TEhIc1VqWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWx3TldNY0dlN0RBQnJMcmczbV83TFREYTNnaGhpMHhvajRtSWhBZ2d6RTBiUGk5Y0dmZ3MwTUoxQnJUcUJEc0hDaEJmbnF3SXRFWmVLYnhsVDZuLWFoWHdhcWhtYWtXUTlGeUluSU5xdjhaNzVtTUtvVEdGcmZNQVlKbW5wZVlDNnAwN1U4dkdKU3N2RWxUc2ZZQzhCa19JSWhJLWVsTVQ4cTI3UEFEVW5IMy1ZaVNrVDZCRWZrd9IBvwFBVV95cUxQeU1abndUSGk4ajlHRW1xM3lrLUVuUk1fYkc1amNtdGtSdTFSUkllNklOVUE3MkJJU0NQXzZRZ2NTRGJrR0RTVGxPX1BSVUVOeGtRbWRqX2VNZnExSUUyNGczLXpYZFNkOGVZZmh4MGtNeVRFb3BxVUF3NXBkYXBrVUJmcDE5aHJPcy0yZGwwdVNwbGFzamtQVEpSRU1saHlKUnJCTVdmcDVHZDN3U0NDd2tRc3BNWnI5TEhIc1VqWQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793599132.0
     }
 ]
