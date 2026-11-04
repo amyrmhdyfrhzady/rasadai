@@ -180,6 +180,24 @@
         "timestamp": 1793784088.0
     },
     {
+        "id": "c8f64ab9cd",
+        "title_fa": "ثبات نرخ رسمی ارز در بانک مرکزی آذربایجان",
+        "title_en": "CBA announces official exchange rates for November 4",
+        "summary": [
+            "نرخ برابری دلار آمریکا در برابر منات آذربایجان روی عدد ۱.۷۰۰۰ ثابت ماند.",
+            "تغییر خاصی در ارزش لیر ترکیه و روبل روس در بازار رسمی باکو ثبت نشد."
+        ],
+        "impact": "ثبات نسبی در بازارهای ارزی قفقاز جنوبی بدون نوسان معنادار.",
+        "tag": "ارز",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Trend News Agency",
+        "url": "https://www.trend.az/azerbaijan/4242600.html",
+        "clean_url": "https://www.trend.az/azerbaijan/4242600.html",
+        "image": "https://www.trend.az/media/2026/09/16/trend_manat_concept.jpg",
+        "timestamp": 1793783640.0
+    },
+    {
         "id": "ac8f7c77dc",
         "title_fa": "تاثیر انتخابات میان‌دوره‌ای آمریکا بر سیاست خارجی در قبال ایران",
         "title_en": "Ukraine, Iran and beyond: What the midterm elections mean for US foreign policy",
@@ -5426,23 +5444,5 @@
         "clean_url": "https://www.outlookindia.com/international/netanyahu-wants-another-iran-war-trump-says-there-is-no-rush",
         "image": "https://cf-images.assettype.com/outlookindia/2026-10-27/2g5zsz5n/AP26299336872341.jpg.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
         "timestamp": 1793657460.0
-    },
-    {
-        "id": "c25ffbe5ff",
-        "title_fa": "شروع بزرگ‌ترین انزوای اقتصادی تاریخ علیه حـ.ـکـ.ـومـ.ـت",
-        "title_en": "Sec. Scott Bessent On Iran: \"We've Started The Greatest Economic Isolation Of Any Nation In History.\"",
-        "summary": [
-            "وزیر خزانه‌داری دولت ترامپ از کلید خوردن بی‌سابقه‌ترین فشار اقتصادی و انزوای مالی علیه تـ.ـهـ.ـران خبر داد.",
-            "این سیاست با هدف قطع کامل منابع مالی دستگاه سرکوب و نیابتی‌ها طراحی شده است."
-        ],
-        "impact": "تشدید فشار ارزی و فروپاشی بیشتر توان مالی بدنه حاکمیت در ماه‌های پیش‌رو.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "FOX News Radio",
-        "url": "https://radio.foxnews.com/2026/11/02/sec-scott-bessent-on-iran-weve-started-the-greatest-economic-isolation-of-any-nation-in-history/",
-        "clean_url": "https://radio.foxnews.com/2026/11/02/sec-scott-bessent-on-iran-weve-started-the-greatest-economic-isolation-of-any-nation-in-history",
-        "image": "https://radio.foxnews.com/wp-content/uploads/2016/07/news_banner_featured_image-150x150.jpg",
-        "timestamp": 1793656740.0
     }
 ]
