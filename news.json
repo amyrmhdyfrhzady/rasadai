@@ -180,6 +180,25 @@
         "timestamp": 1793727419.0
     },
     {
+        "id": "0debbf15b8",
+        "title_fa": "پیروزی کریس پپاس در انتخابات سنای نیوهمپشر",
+        "title_en": "Chris Pappas wins New Hampshire 2026 Senate election",
+        "summary": [
+            "کریس پپاس از حزب دموکرات توانست جان سونونو از جمهوری‌خواهان را در رقابت تنگاتنگ سنا شکست دهد.",
+            "این کرسی مهم پس از بازنشستگی جین شاهین همچنان در کنترل دموکرات‌ها باقی ماند.",
+            "شکست خاندان نفوذپذیر سونونو ضربه سختی به امیدهای حزب جمهوری‌خواه برای تصاحب این کرسی بود."
+        ],
+        "impact": "حفظ یکی از کرسی‌های کلیدی سنا برای دموکرات‌ها و ناکامی جمهوری‌خواهان در تغییر موازنه قوا",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/new-hampshire-2026-senate-pappas-sununu/",
+        "clean_url": "https://www.cbsnews.com/news/new-hampshire-2026-senate-pappas-sununu",
+        "image": "http://www.bing.com/th?id=ONUT.UpxE1FC9wOHd1EyNTE2JGQ&pid=News",
+        "timestamp": 1793726640.0
+    },
+    {
         "id": "ae68253a14",
         "title_fa": "پایان سه دهه نمایندگی دانی دیویس در ایلینوی",
         "title_en": "Voters in 7th congressional district set to choose new congressman for first time in three decades",
@@ -196,6 +215,24 @@
         "clean_url": "https://www.chicagotribune.com/2026/11/03/illinois-7th-district-results",
         "image": "http://www.bing.com/th?id=ONUT.N09P-NF-o2CwaRQ-yII4jw&pid=News",
         "timestamp": 1793725200.0
+    },
+    {
+        "id": "836f499e80",
+        "title_fa": "واکنش تند ترامپ به مجری فاکس‌نیوز حین تماشای تلویزیون",
+        "title_en": "Donald Trump texts Fox News, rips loser host as he switches channel",
+        "summary": [
+            "دونالد ترامپ پس از دیدن جسیکا تارلو، کانال فاکس‌نیوز را بلافاصله عوض کرد.",
+            "او مستقیماً به شبکه پیامک فرستاد و از مواضع این مفسر لیبرال به شدت انتقاد کرد."
+        ],
+        "impact": "نمایشی دیگر از حساسیت بالای ترامپ نسبت به رسانه‌ها و مفسران سیاسی",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/donald-trump-texts-fox-news-rips-loser-host-as-he-switches-channel/ar-AA2gH0XD",
+        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-texts-fox-news-rips-loser-host-as-he-switches-channel/ar-AA2gH0XD",
+        "image": "http://www.bing.com/th?id=ONUT.zz4lKTSVeuGXe3U8Ee3IzQ&pid=News",
+        "timestamp": 1793724744.0
     },
     {
         "id": "c17d6e2640",
@@ -5437,41 +5474,5 @@
         "clean_url": "https://www.iranintl.com/en/202611013177",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1793529360.0
-    },
-    {
-        "id": "e19317b8e5",
-        "title_fa": "ارتش ایران: نبرد بعدی با آمریکا بسیار فرسایشی و طولانی است",
-        "title_en": "Iran army says any new war with US could be ‘longer than previous conflict’",
-        "summary": [
-            "ارتش ادعا کرده که درگیری جدید برخلاف محاسبات آمریکا کـوتاه نخواهد بود و وارد فاز فرسایشی می‌شود.",
-            "هدف اصلی از این مانور تبلیغاتی، تاثیرگذاری بر افکار عمومی آمریکا و پنتاگون برای منصرف کردن آنان از حمله است."
-        ],
-        "impact": "تشدید حربه‌های تبلیغاتی برای ساختن تصویر یک نبرد پرهزینه و طولانی‌مدت.",
-        "tag": "تهدید نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Arab News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJIMlROdTg2TGRWSVVzN0RpWm9IZHJpMERid2lMSklpVkZpRzIyNjZBNk1tU2FfRGpuWTV4S1liZWs0MTVyalpTUTVac1JHZEVURlIzMFUyMTc3S0lfM0VUcFlkbFlBX2V0eXk3bE5oRjY3NXdmUVFBUWNGbjV1VXprVGxoQm5jSE50Ukt5N3l6MGE2M1BxaVNJSWxOaUNKa2dNQTBUaXBYVHJWWDhUNk1fTy1BNDE3N0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJIMlROdTg2TGRWSVVzN0RpWm9IZHJpMERid2lMSklpVkZpRzIyNjZBNk1tU2FfRGpuWTV4S1liZWs0MTVyalpTUTVac1JHZEVURlIzMFUyMTc3S0lfM0VUcFlkbFlBX2V0eXk3bE5oRjY3NXdmUVFBUWNGbjV1VXprVGxoQm5jSE50Ukt5N3l6MGE2M1BxaVNJSWxOaUNKa2dNQTBUaXBYVHJWWDhUNk1fTy1BNDE3N0E",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793527576.0
-    },
-    {
-        "id": "ec45bbeeb2",
-        "title_fa": "واکنش تند آمریکا به توافق دریایی ترکیه و لیبی",
-        "title_en": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
-        "summary": [
-            "دستگاه دیپلماسی آمریکا توافق دریایی میان ترکیه و شرق لیبی را تحریک‌آمیز خواند.",
-            "این توافق مرزهای آبی مدیترانه را تغییر داده و دسترسی به منابع گاز را هدف گرفته است."
-        ],
-        "impact": "بال رفتن تنش‌های ژئوپلیتیک در مدیترانه شرقی و مخالفت آشکار واشنگتن با سیاست‌های آنکارا.",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
-        "clean_url": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
-        "image": "http://www.bing.com/th?id=ONUT.8WKfgMFPI_iVVfexavSfKA&pid=News",
-        "timestamp": 1793522880.0
     }
 ]
