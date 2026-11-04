@@ -180,6 +180,43 @@
         "timestamp": 1793735629.0
     },
     {
+        "id": "9c50d3a9bf",
+        "title_fa": "شکست غیرمنتظره جمهوری‌خواهان در سناریوی سنای کارولینای جنوبی",
+        "title_en": "Democrat Annie Andrews defeats GOP Sen. Darline Graham in South Carolina, a major upset",
+        "summary": [
+            "آنی اندروز، نامزد دموکرات، توانست کرسی سنا را از دارلین گراهام جمهوری‌خواه پس بگیرد.",
+            "این پیروزی پس از سال‌ها سلطه جمهوری‌خواهان در این ایالت رقم خورده است.",
+            "ضعف نامزد جمهوری‌خواه در تسلط بر مسائل امنیت ملی نقش مهمی در این شکست داشت."
+        ],
+        "impact": "این نتیجه موازنه قدرت در سنا را به چالش کشیده و معادلات سیاسی حزب جمهوری‌خواه را تغییر می‌دهد.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2026-election/annie-andrews-south-carolina-senate-win-darline-graham-gop-rcna603338",
+        "clean_url": "https://www.nbcnews.com/politics/2026-election/annie-andrews-south-carolina-senate-win-darline-graham-gop-rcna603338",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-annie-andrews-south-carolina-senate-midterm-vl-1234p-95f150.jpg",
+        "timestamp": 1793732880.0
+    },
+    {
+        "id": "dece02024a",
+        "title_fa": "رقابت تنگاتنگ نامزدهای دموکرات و جمهوری‌خواه در میشیگان",
+        "title_en": "Democrat Lawrence leads GOP US Rep. Barrett in key House battle",
+        "summary": [
+            "ویل لارنس برای شکست دادن تام برت در یکی از حوزه‌های کلیدی مجلس تلاش می‌کند.",
+            "این رقابت یکی از نبردهای سرنوشت‌ساز برای کنترل مجلس نمایندگان است."
+        ],
+        "impact": "این رقابت تأثیر مستقیمی بر موازنه قوا در کنگره ایالات متحده دارد.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Detroit News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/democrat-lawrence-leads-gop-us-rep-barrett-in-key-house-battle/ar-AA2gHKa6",
+        "clean_url": "https://www.msn.com/en-us/news/other/democrat-lawrence-leads-gop-us-rep-barrett-in-key-house-battle/ar-AA2gHKa6",
+        "image": "http://www.bing.com/th?id=ONUT.ZPrgSjnCFfSQS7P8TLCgkA&pid=News",
+        "timestamp": 1793732823.0
+    },
+    {
         "id": "d589b8cf2a",
         "title_fa": "نارضایتی رای‌دهندگان آمریکایی از وضعیت تورم و هزینه زندگی",
         "title_en": "Americans who voted show frustrations with Trump and costs",
@@ -1045,6 +1082,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/see-cbs-news-exit-poll-results-for-the-2026-midterm-elections/ar-AA2gGMMb",
         "image": "http://www.bing.com/th?id=ONUT.gayjigl4avTrdqGj4SWylA&pid=News",
         "timestamp": 1793716080.0
+    },
+    {
+        "id": "450447d542",
+        "title_fa": "پیروزی باب لاتا و ابقای او در مجلس نمایندگان اوهایو",
+        "title_en": "Bob Latta wins re-election to Ohio’s 5th congressional district",
+        "summary": [
+            "باب لاتا موفق شد رقبای خود از حزب دموکرات و لیبرترین را در حوزه پنجم اوهایو شکست دهد.",
+            "این پیروزی تداوم حضور نماینده فعلی در کنگره را تضمین می‌کند."
+        ],
+        "impact": "تغییر خاصی در ترکیب سنتی این حوزه انتخابیه ایجاد نشده است.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/11/bob-latta-wins-re-election-to-ohios-5th-congressional-district.html",
+        "clean_url": "https://www.cleveland.com/news/2026/11/bob-latta-wins-re-election-to-ohios-5th-congressional-district.html",
+        "image": "http://www.bing.com/th?id=ONUT.qxP3rT3wc2CxakrzYtv_jw&pid=News",
+        "timestamp": 1793715120.0
     },
     {
         "id": "82657854a2",
@@ -5413,59 +5468,5 @@
         "clean_url": "https://www.iranintl.com/en/202611011029",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793560620.0
-    },
-    {
-        "id": "d10817a628",
-        "title_fa": "سایه جنگ با ایـران بر انتخابات میان‌دوره‌ای آمریکا",
-        "title_en": "How will the Iran war shape the outcome of the US midterm vote?",
-        "summary": [
-            "ابعاد درگیری نظامی با حـکـومـت ایـران نقش تعیین‌کننده‌ای در معادلات سیاسی داخلی آمریکا دارد.",
-            "حزب دموکرات و جمهوری‌خواه تلاش می‌کنند از بحران‌های سیاست خارجی بیشترین بهره انتخاباتی را ببرند."
-        ],
-        "impact": "جهت‌گیری سیاست خارجی واشینگتن در قبال تهران به شدت به نتایج این انتخابات گره خورده است.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFJwaS1FY2hTcTNQU2FrR1lvTVg0R3lncTMwQ0xhQXVpeDgtN0lXNDZfVUJuODZyMER4b2NPRnNwdXZqUGpGc2o2bnM5azV5NUo4X0xmdlN4ZFVLQ0tKaVB1dUw1VVcxZ2d1aFZXOEpxek5pRjl3eXNmbFlLSVc1eEpkMjhrNkNCdGJmSGJtcWRlYWhub29lb2xzM3ZwTUxBbnBMR2taeDVKRTBHZVFrWnRiQ240LWtYbGfSAb8BQVVfeXFMTjdkbzVUbFdhOGNrZlNqVEk0ZGVkTnBDUnlXc3dIRE8yTGZLQ3pvbmM4RmdSVlhXTmd1djdBVktMQWZfM3NGejdmbG5nVFpJZ0Y0TU5sTkVVNWxGU1JEUmhrWmg5MEk4MjdyS0t3YjV5Z1FvR0RLVDhfRzdYc1owT2x1ZG9DdlFfcUVPR2xER3lDUTI5SmFMRUhFM1E5NThrZDlXSndsM3RKOWl1anRkT0s1V0JJTl84SnFCNnRlSE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFJwaS1FY2hTcTNQU2FrR1lvTVg0R3lncTMwQ0xhQXVpeDgtN0lXNDZfVUJuODZyMER4b2NPRnNwdXZqUGpGc2o2bnM5azV5NUo4X0xmdlN4ZFVLQ0tKaVB1dUw1VVcxZ2d1aFZXOEpxek5pRjl3eXNmbFlLSVc1eEpkMjhrNkNCdGJmSGJtcWRlYWhub29lb2xzM3ZwTUxBbnBMR2taeDVKRTBHZVFrWnRiQ240LWtYbGfSAb8BQVVfeXFMTjdkbzVUbFdhOGNrZlNqVEk0ZGVkTnBDUnlXc3dIRE8yTGZLQ3pvbmM4RmdSVlhXTmd1djdBVktMQWZfM3NGejdmbG5nVFpJZ0Y0TU5sTkVVNWxGU1JEUmhrWmg5MEk4MjdyS0t3YjV5Z1FvR0RLVDhfRzdYc1owT2x1ZG9DdlFfcUVPR2xER3lDUTI5SmFMRUhFM1E5NThrZDlXSndsM3RKOWl1anRkT0s1V0JJTl84SnFCNnRlSE0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793559664.0
-    },
-    {
-        "id": "536a0a3f65",
-        "title_fa": "تهدید ج.ا. به جنگ فرای کنترل تـر‌امـپ",
-        "title_en": "Iran: Renewed War Won't End Quickly",
-        "summary": [
-            "مقام‌‌های ارشد ج.ا. هشدار دادند که درگیری نظامی جدید با ایالات متحده و اسرائیل طولانی‌تر خواهد شد.",
-            "تهران مدعی است که زمان و نحوه پایان دادن به جنگ احتمالی تحت کنترل دونالد تـر‌امـپ نخواهد بود."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی بلندمدت و ارسال سیگنال‌های تنش‌زا به بازارهای مالی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Newsmax",
-        "url": "https://www.newsmax.com/world/globaltalk/iran-war-warning/2026/11/01/id/1274776/",
-        "clean_url": "https://www.newsmax.com/world/globaltalk/iran-war-warning/2026/11/01/id/1274776",
-        "image": "http://www.bing.com/th?id=ONUT.gZhbaCTy1Z2udtuqNCoFIg&pid=News",
-        "timestamp": 1793559240.0
-    },
-    {
-        "id": "838d137ca9",
-        "title_fa": "آماده‌باش کامل کشورهای حوزه خلیج فارس برای جنگ",
-        "title_en": "Gulf braced for escalation of war between US-Israel alliance and Iran",
-        "summary": [
-            "کشورهای حاشیه خلیج فارس خود را برای بالا گرفتن درگیری‌ها میان ائتلاف آمریکا-اسرائیل و تـ.ـروریست‌های جـ.ـمهوری اسـ.ـلامی آماده می‌کنند.",
-            "احتمال کشیده شدن آتش جنگ به کل منطقه، پایتخت‌های عربی را به شدت نگران کرده است."
-        ],
-        "impact": "افزایش ناامنی اقتصادی و صعودی شدن قیمت انرژی در بازارهای جهانی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlZjTzdFYjAzeVItVzFIMWE4QXVhblR1SlVvMnFjLWxBczktR3o3V0kyMGRvMXFibUhmOUNoRGlQZ0dTanNhaUktM1dOeXBIcU9PS3Nyc01GbEhtX0t2VDZDckdQMGg5NGluZ3ZzOE11a3BYVGp4RHNEY243U0VUbGU5dk0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlZjTzdFYjAzeVItVzFIMWE4QXVhblR1SlVvMnFjLWxBczktR3o3V0kyMGRvMXFibUhmOUNoRGlQZ0dTanNhaUktM1dOeXBIcU9PS3Nyc01GbEhtX0t2VDZDckdQMGg5NGluZ3ZzOE11a3BYVGp4RHNEY243U0VUbGU5dk0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793556172.0
     }
 ]
