@@ -1,5 +1,23 @@
 [
     {
+        "id": "208691d4a8",
+        "title_fa": "نوسان قیمت سوخت در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "آمارهای روزانه نشان‌دهنده تغییرات مداوم بهای بنزین در ایالت‌های مختلف آمریکا است.",
+            "این داده‌ها ابزار مهمی برای سنجش وضعیت تورم و هزینه‌های زندگی شهروندان آمریکایی به شمار می‌رود."
+        ],
+        "impact": "تغییرات قیمت سوخت مستقیماً بر شاخص تورم عمومی و هزینه‌های حمل‌ونقل تاثیر می‌گذارد.",
+        "tag": "اقتصادی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793758105.0
+    },
+    {
         "id": "fc9ef92349",
         "title_fa": "حمله نظامی ایالات متحده به تنگه هرمز",
         "title_en": "U.S. strikes Strait of Hormuz hours before Tuesday midterms",
@@ -5450,24 +5468,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm9oTmJpWHVKWmtiN2tLbXp6UFRJZUFXWnBIUFlCZE1fOVZ5QkYwOW1VRnAtOGl2MnhRRHpjcEtWeTl1d0JJMGpKdjEzZF9yUkNUdTFJTg",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793555460.0
-    },
-    {
-        "id": "a232a90ca5",
-        "title_fa": "فشار افکار عمومی آمریکا برای پایان دادن به جنگ",
-        "title_en": "Americans Want the Iran War to End. Can Congress Deliver?",
-        "summary": [
-            "نظرسنجی جدید AP-NORC نشان می‌دهد نزدیک به هفتاد درصد رای‌دهندگان آمریکایی پایان دادن به درگیری با ای-ران را اولویت اصلی می‌دانند.",
-            "دونالد ترامپ در تجمع اخیر خود در فلوریدا بار دیگر از احتمال عملیات نظامی جدید صحبت کرد.",
-            "شکاف بزرگی میان خواست عمومی جامعه آمریکا و ماشین سیاسی حاکم بر این کشور برای توقف تنش‌ها ایجاد شده است."
-        ],
-        "impact": "مخالفت بدنه اجتماعی آمریکا با جنگ، دست‌اندازی دولت را برای درگیری تمام‌عیار سخت‌تر می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/11/02/americans-want-the-iran-war-to-end-can-congress-deliver/",
-        "clean_url": "https://www.counterpunch.org/2026/11/02/americans-want-the-iran-war-to-end-can-congress-deliver",
-        "image": "http://www.bing.com/th?id=ONUT.ooMlcXCJNOMj5I9bQ0wWAg&pid=News",
-        "timestamp": 1793548860.0
     }
 ]
