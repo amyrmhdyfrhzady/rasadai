@@ -1341,6 +1341,24 @@
         "timestamp": 1793743800.0
     },
     {
+        "id": "01d49bd0b5",
+        "title_fa": "ابقای سناتور مارکی در سنای آمریکا",
+        "title_en": "Howie Carr: Ed Markey keeps getting unstuck in time",
+        "summary": [
+            "اد مارکی با وجود پیروزی مجدد در انتخابات، با نارضایتی بخشی از رای‌دهندگان در ایالت ماساچوست روبه‌روست.",
+            "این پیروزی تغییری در رویکرد سنتی این چهره سیاسی در نهادهای قانون‌گذاری ایجاد نخواهد کرد."
+        ],
+        "impact": "تداوم حضور یکی از مهره‌های قدیمی در ساختار سیاسی حزب دموکرات در واشنگتن.",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/11/04/howie-carr-ed-markey-keeps-getting-unstuck-in-time/",
+        "clean_url": "https://www.bostonherald.com/2026/11/04/howie-carr-ed-markey-keeps-getting-unstuck-in-time",
+        "image": "http://www.bing.com/th?id=ONUT.FA-THAte4hYmAVPfJlo04Q&pid=News",
+        "timestamp": 1793743740.0
+    },
+    {
         "id": "23293a32a7",
         "title_fa": "واکنش دونالد ترامپ به شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای",
         "title_en": "Trump reacts to disastrous midterms for GOP, blames candidates",
@@ -5425,24 +5443,5 @@
         "clean_url": "https://www.forbes.com/sites/siladityaray/2026/11/03/trump-says-there-hasnt-been-shooting-for-months-as-us-strikes-iran",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793655840.0
-    },
-    {
-        "id": "667ab38b66",
-        "title_fa": "انتخابات میان‌دوره‌ای آمریکا و آزمون سرنوشت‌ساز برای ترامپ",
-        "title_en": "Midterm elections coming to a close as voters pass judgment on Trump’s second term",
-        "summary": [
-            "رأی‌دهندگان آمریکایی در شرایطی به پای صندوق‌های رأی می‌روند که نارضایتی از هزینه‌های بالا و جنگ با ای-را-ن جو سیاسی را تحت تأثیر قرار داده است.",
-            "دموکرات‌ها روی خستگی رای‌دهندگان از وضعیت اقتصادی حساب باز کرده‌اند تا کنترل مجلس نمایندگان را پس بگیرند.",
-            "جمهوری‌خواهان با تزریق منابع مالی سنگین تلاش می‌کنند مانع از شکست در این رقابت سرنوشت‌ساز شوند."
-        ],
-        "impact": "نتیجه این انتخابات می‌تواند توازن قدرت در واشنگتن را به شدت تغییر دهد و دو سال پایانی ریاست‌جمهوری ترامپ را دگرگون کند.",
-        "tag": "انتخابات آمریکا",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Virginian-Pilot",
-        "url": "https://www.pilotonline.com/2026/11/03/2026-election-midterm-results-updates/",
-        "clean_url": "https://www.pilotonline.com/2026/11/03/2026-election-midterm-results-updates",
-        "image": "https://www.pilotonline.com/wp-content/uploads/2026/11/Election_2_26_Early_Voting_Alaska_41752-1.jpg?w=2000&h=1333",
-        "timestamp": 1793655240.0
     }
 ]
