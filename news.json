@@ -90,6 +90,24 @@
         "timestamp": 1793783475.0
     },
     {
+        "id": "ac0b0c2f77",
+        "title_fa": "سایه سنگین جنگ زیرساختی بر تقابل آمریکا و جـ.هـ.و‌ر‌ی ا‌سـ.لا‌مـ.ی",
+        "title_en": "The threat of an infrastructure war looms as US-Iran confrontation enters a critical phase",
+        "summary": [
+            "گزارش‌های تازه نشان می‌دهد تنش میان واشنگتن و تهران وارد فاز حساسی شده است.",
+            "تهدید حملات به زیرساخت‌های حیاتی به عنوان سناریوی اصلی در این دور از تقابل‌ها مطرح است."
+        ],
+        "impact": "افزایش ریسک درگیری‌های سایبری و فیزیکی علیه تاسیسات زیربنایی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ACLED",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRlRkdHWW14dy1Bc2NQR21zZE1Ec1VwTWRDLUZibWFUcTNDdEhtSGt4bjNsakF3VG04VGhETUpEVUIzbGY4SDlWa2Rpelo4Z09UNHQ5YmN5UTZ6dG9tcld4OFpFcmN2S2NOeWE3UFV4U29aWkd6enNrZC1kQnNrNzRmNWpNdGcwYWZ0UHZueEtYWGFsb0JyblR2YXd1OGxuRHhRNmNScw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRlRkdHWW14dy1Bc2NQR21zZE1Ec1VwTWRDLUZibWFUcTNDdEhtSGt4bjNsakF3VG04VGhETUpEVUIzbGY4SDlWa2Rpelo4Z09UNHQ5YmN5UTZ6dG9tcld4OFpFcmN2S2NOeWE3UFV4U29aWkd6enNrZC1kQnNrNzRmNWpNdGcwYWZ0UHZueEtYWGFsb0JyblR2YXd1OGxuRHhRNmNScw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793781838.0
+    },
+    {
         "id": "9de9c960fe",
         "title_fa": "ترامپ: ایران به دنبال توافق است و این احتمال وجود دارد",
         "title_en": "Trump Says Iran Wants A Deal 'And It Could Happen'",
@@ -196,6 +214,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1k5M29XbFJLXzE1cUxwMmxuOVdzS3p1RUlNcXNtdl9qX0R2bHNFT0ZSNXoxUzlMS1lxQ2h4LUlEM19NWnJ0aEFMczdmQkFtVnMySGU2WFJqT1FSQURINXBfY2ZBbklkZl9FbG5EaWpOT2hCdWNlM01aQ2dVMzBaSGstN0xoZ1VRcHhUMVFtM2VsUTQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793763551.0
+    },
+    {
+        "id": "088d7f3bb4",
+        "title_fa": "فریفتن چت‌بات‌های هوش مصنوعی با سایت‌های انتخاباتی جعلی",
+        "title_en": "AI chatbots cited dozens of spoofed campaign websites ahead of midterms, researchers say",
+        "summary": [
+            "پژوهشگران اعلام کردند ربات‌های هوش مصنوعی پیش از انتخابات میان‌دوره‌ای به سایت‌های جعلی استناد کرده‌اند.",
+            "طراحان توانسته‌اند با راه‌اندازی وب‌سایت‌های تقلبی، پاسخ‌های چت‌بات‌های معروفی مثل چجی‌پیتی و جمینای را دستکاری کنند."
+        ],
+        "impact": "آسیب‌پذیری ابزارهای هوش مصنوعی در انتشار اطلاعات نادرست انتخاباتی و هدایت افکار عمومی",
+        "tag": "هوش مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/tech/tech-news/chatgpt-gemini-cited-spoofed-campaign-sites-midterm-elections-research-rcna607302",
+        "clean_url": "https://www.nbcnews.com/tech/tech-news/chatgpt-gemini-cited-spoofed-campaign-sites-midterm-elections-research-rcna607302",
+        "image": "http://www.bing.com/th?id=ONUT.QDXJQgwucXj3QrlXZdQAmQ&pid=News",
+        "timestamp": 1793761740.0
     },
     {
         "id": "64ca1a0d6e",
@@ -5414,41 +5450,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2haQzUwOU9pdTJxRWZwbUFEaDE2YW52Y1p4bnMyNFA1Q0dWbVhpMXk2aC1KMnE3amdyX25RbWczVjFSSjA2RmVOekJVZmVkZnFSd1d1cGNoZW4ycFB6TUllRUVLSHZLRGRlN0xsTHRSSThuWEtUUmM0MHJPNW56ZURJWkRyWXZYZXhSdzUwV2gzQWt0MnNsUER3dlF6SWpqZ2Y5Mjk1RmXSAa4BQVVfeXFMUERhQkI1bXBJOW8wWXZLNGJfbWU5SS0zYzJmR2puYmxtUFBDaVcwMkJkeWM3WDlDSTJZZTdaUkszR2NLRTJtR1I3Vm9mR2FUMnF0X0pJb1ZpcFFyYmY4UTlhVTM4ZmVJMTJfeU1pTms1Njl2d3pkTmdnalhfTU5ITmlzVU1Rd2w3VWxHVl9DalFXb1pLTGZhT3gxSzRYTXV2MFNseU5peXNmYjZfOW9B",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793635650.0
-    },
-    {
-        "id": "f29a9909d4",
-        "title_fa": "سرنوشت کنگره آمریکا در گروی رفراندوم بزرگ علیه ترامپ",
-        "title_en": "A referendum on Trump, election monitors and a Democratic shift: What to watch on Election Day",
-        "summary": [
-            "انتخابات میادترم آمریکا به عنوان یک نظرسنجی بزرگ درباره عملکرد دو ساله ترامپ رقم خورده است.",
-            "دموکرات‌ها به دنبال کسب اکثریت کرسی‌های کنگره برای مهار قدرت بی‌چون‌وچای جمهوری‌خواهان هستند."
-        ],
-        "impact": "نتیجه این انتخابات می‌تواند دست‌اندازهای جدی در مسیر تصمیمات کاخ سفید ایجاد کند.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/11/03/election-2026-takeaways/",
-        "clean_url": "https://www.bostonherald.com/2026/11/03/election-2026-takeaways",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2026/11/Trump_91682-1.jpg?w=1999&h=1333",
-        "timestamp": 1793635560.0
-    },
-    {
-        "id": "230cd0a0c7",
-        "title_fa": "رقابت سنگین سیاسی برای تصاحب کرسی سنا در اوهایو",
-        "title_en": "Veteran politicians Sherrod Brown, Jon Husted compete for Ohio Senate seat once held by Vance",
-        "summary": [
-            "جان هاستد و شرود براون در یکی از پرهزینه‌ترین رقابت‌های انتخاباتی برای تصاحب کرسی پیشین معاون رئیس‌جمهور به مصاف هم رفته‌اند.",
-            "دموکرات‌ها تلاش می‌کنند با بازگرداندن براون، کنترل خود بر سنا را حفظ کنند در حالی که اوهایو به شدت به سمت جمهوری‌خواهان متمایل شده است."
-        ],
-        "impact": "نتیجه این رقابت سرنوشت کنترل حزب متبوع بر کرسی‌های کلیدی سنا را رقم می‌زند.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Newsday",
-        "url": "https://www.newsday.com/long-island/politics/election-2026-ohio-senate-brown-husted-i25684",
-        "clean_url": "https://www.newsday.com/long-island/politics/election-2026-ohio-senate-brown-husted-i25684",
-        "image": "https://cdn.newsday.com/ace/c:MGRmNDRiMzEtYWFjNi00:YWNlMTNmYWMtYzRlZC00/square/770",
-        "timestamp": 1793635380.0
     }
 ]
