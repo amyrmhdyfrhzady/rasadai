@@ -433,6 +433,24 @@
         "timestamp": 1793718332.0
     },
     {
+        "id": "915b474293",
+        "title_fa": "رقابت تنگاتنگ در انتخابات میان‌دوره کنگره آمریکا",
+        "title_en": "2026 House election live results as Democrats and Republicans vie for majority control",
+        "summary": [
+            "تمام ۴۳۵ کرسی مجلس نمایندگان آمریکا برای تعیین اکثریت به رای گذاشته شد.",
+            "مسائل اقتصادی، تورم ناشی از تعرفه‌های ج--دی-د ترامپ و هزینه‌های جنگ به محور اصلی رقابت حزب جمهوری‌خواه و دموکرات تبدیل شده است."
+        ],
+        "impact": "نتیجه این انتخابات می‌تواند توازن قوا در واشنگتن و مسیر اجرای سیاست‌های داخلی و خارجی دولت را به شدت تحت تاثیر قرار دهد.",
+        "tag": "انتخابات",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+        "clean_url": "https://www.cbsnews.com/live-updates/house-election-results-2026",
+        "image": "http://www.bing.com/th?id=ONUT.Toeo_t4a_4tTOc_YPofJRw&pid=News",
+        "timestamp": 1793718000.0
+    },
+    {
         "id": "d0cfd9cbe8",
         "title_fa": "آغاز پوشش زنده انتخابات کنگره آمریکا توسط ان‌بی‌سی",
         "title_en": "The battlegrounds our journalists are reporting from",
@@ -5456,23 +5474,5 @@
         "clean_url": "https://allisraelnews.com/in-the-war-room-the-gutsy-gamble-against-iran-that-changed-the-war",
         "image": "https://cdn.allisraelnews.com/s3/containers/digitalocean/rosenberg_report_1200x800_blurred_borders.jpg/7e2c2166e82e32ce78e480904e688bad/rosenberg_report_1200x800_blurred_borders.jpg",
         "timestamp": 1793519040.0
-    },
-    {
-        "id": "72d3803821",
-        "title_fa": "مذاکرات پنهانی تهران و واشنگتن بر سر تنگه هرمز",
-        "title_en": "Irán mantiene negociaciones con EU para reabrir el estrecho de Ormuz; será por dos días",
-        "summary": [
-            "وزیر خارجه ایران از انجام گفتگو با طرف آمریکایی درباره وضعیت تنگه هرمز خبر داد.",
-            "تهران اذعان کرده که هنوز به نتیجه روشنی نرسیده و همه چیز به پاسخ‌های ایالات متحده بستگی دارد."
-        ],
-        "impact": "این توافق موقت می‌تواند به طور موقت تنش‌های خلیج فارس را کاهش دهد و بازار نفت را آرام کند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "El Universal on MSN",
-        "url": "https://www.msn.com/es-mx/noticias/otras/ir%C3%A1n-mantiene-negociaciones-con-eu-para-reabrir-el-estrecho-de-ormuz-ser%C3%A1-por-dos-d%C3%ADas/ar-AA2gwH2r",
-        "clean_url": "https://www.msn.com/es-mx/noticias/otras/ir%C3%A1n-mantiene-negociaciones-con-eu-para-reabrir-el-estrecho-de-ormuz-ser%C3%A1-por-dos-d%C3%ADas/ar-AA2gwH2r",
-        "image": "http://www.bing.com/th?id=ONUT.BBbf1F0tkoEdxOoVCLBw2Q&pid=News",
-        "timestamp": 1793518166.0
     }
 ]
