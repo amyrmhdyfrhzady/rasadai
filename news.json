@@ -290,6 +290,24 @@
         "timestamp": 1793742955.0
     },
     {
+        "id": "da9cf0da21",
+        "title_fa": "شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا",
+        "title_en": "US midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+        "summary": [
+            "دموکرات‌ها با پیروزی‌های چشمگیر در انتخابات میان‌دوره‌ای، کرسی‌های کلیدی کنگره را از دست جمهوری‌خواهان خارج کردند.",
+            "این نتیجه عملاً دهن‌کجی سنگینی به پایگاه سیاسی دونالد ترامپ در واشنگتن محسوب می‌شود."
+        ],
+        "impact": "تضعیف موقعیت سیاسی ترامپ و هم‌پیمانانش در آستانه تحولات جدید کنگره.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "CNBC on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-midterm-elections-in-pictures-democrats-sweeping-victories-deliver-rebuke-to-trump/ar-AA2gIaZC",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-midterm-elections-in-pictures-democrats-sweeping-victories-deliver-rebuke-to-trump/ar-AA2gIaZC",
+        "image": "http://www.bing.com/th?id=ONUT.NpMQiSoMQ_aKBJHLRcr8Mg&pid=News",
+        "timestamp": 1793742810.0
+    },
+    {
         "id": "ef54dd789c",
         "title_fa": "دموکرات‌ها پس از پیروزی در میان‌دوره‌ای، تیغ احضارها را برای تـر‌مپ تیز کردند",
         "title_en": "‘LAWYER UP’: Dems immediately put Trump on notice amid Republicans' midterm bloodbath",
@@ -5440,24 +5458,5 @@
         "clean_url": "https://www.iranintl.com/en/202611022292",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/4fa51d415bd5cc7d4204bdac8045f56e827d10b7-1280x853.jpg?rect=0,1,1280,852&amp;w=320&amp;h=213&amp;q=90&amp;fit=max&amp;auto=format",
         "timestamp": 1793605200.0
-    },
-    {
-        "id": "28a392127a",
-        "title_fa": "پافشاری تهران بر حفظ اورانیوم و شرط‌گذاری برای تنگه هرمز",
-        "title_en": "Iran rejects uranium transfer abroad, says Hormuz reopening depends on US ending blockade",
-        "summary": [
-            "اسماعیل بقایی، سخنگوی وزارت خارجه، خروج اورانیوم غنی‌شده از کشور را صراحتاً رد کرد.",
-            "تهران باز شدن تنگه هرمز را به پایان محاصره دریایی توسط ایالات متحده گره زد.",
-            "بحث خروج از ان‌پی‌تی به عنوان یک گزینه روی میز مطرح شد."
-        ],
-        "impact": "افزایش تنش‌های هسته‌ای و نظامی در آب‌های جنوبی و بن‌بست دیپلماسی",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/531768/Iran-rejects-uranium-transfer-abroad-says-Hormuz-reopening-depends",
-        "clean_url": "https://www.tehrantimes.com/news/531768/Iran-rejects-uranium-transfer-abroad-says-Hormuz-reopening-depends",
-        "image": "https://media.tehrantimes.com/d/t/2025/12/01/4/5804349.jpg?ts=1764608386298",
-        "timestamp": 1793604000.0
     }
 ]
