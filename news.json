@@ -1756,6 +1756,24 @@
         "timestamp": 1793712780.0
     },
     {
+        "id": "6b5cbf7da6",
+        "title_fa": "پیروزی جوآنا مندوزا در رقابت کلیدی مجلس آمریکا",
+        "title_en": "JoAnna Mendoza declares win in pivotal Tucson-area US House race",
+        "summary": [
+            "جوآنا مندوزا پیروزی خود را در یک رقابت انتخاباتی مهم در منطقه توسان اعلام کرد.",
+            "این تغییرات در ترکیب کنگره می‌تواند بر موازنه‌های سیاسی و تصمیم‌گیری‌های داخلی واشنگتن تأثیر بگذارد."
+        ],
+        "impact": "تغییر موازنه‌های سیاسی در مجلس نمایندگان آمریکا",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "azcentral.com",
+        "url": "https://www.azcentral.com/story/news/politics/elections/2026/11/03/arizona-congressional-district-6-election-results/92460846007/",
+        "clean_url": "https://www.azcentral.com/story/news/politics/elections/2026/11/03/arizona-congressional-district-6-election-results/92460846007",
+        "image": "http://www.bing.com/th?id=ONUT.zfW9htkN_xG_V_bHmHROKg&pid=News",
+        "timestamp": 1793712600.0
+    },
+    {
         "id": "a3fa1c2fd3",
         "title_fa": "اختلال در دستگاه‌های رای‌گیری نیویورک و معطلی آرا",
         "title_en": "Lawler speaks with CNN as New York voting machine problem impacts up to 250,000 ballots",
@@ -5442,23 +5460,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/us-keeps-escalating-economic-pressure-on-iran-tehran-officials-now-warn-of-gas-shortages-as-winter-looms/ar-AA2gB4dU",
         "image": "http://www.bing.com/th?id=ONUT.BZvEIAJ0U-cm9ZRUbDEswg&pid=News",
         "timestamp": 1793596192.0
-    },
-    {
-        "id": "6eb5682f9b",
-        "title_fa": "ریزش ۳ درصدی نفت آمریکا با خبر مذاکرات تهران و واشنگتن",
-        "title_en": "U.S. crude falls more than 3% amid reports of U.S.-Iran diplomatic efforts",
-        "summary": [
-            "بازار جهانی انرژی بلافاصله به احتمال شکل‌گیری مسیر دیپلماتیک بین آمریکا و ج.ا واکنش منفی نشان داد.",
-            "سقوط قیمت نفت نشان می‌دهد معامله‌گران تا چه حد روی ریسک‌های تنش سیاسی در خاورمیانه حساب باز کرده‌اند."
-        ],
-        "impact": "کاهش فوری درآمدهای نفتی حکومت با انتشار اخبار مربوط به کاهش تنش.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXd1a2c2UEtTYmUxbDlrUGdYYmxXdWJJd19lbVVpa1NCZFNIT1ZpV2xBOEFmY195WVZSLXNIdktTTldXRHVlWHBYN0ZIRmhMb21lRWY0X1U2NERwSzNLSTFaVjNFTmVXWDBrM1BrNE8yTjBjVUdFWG9ET05OdGhPMUstRzljYTjSAYwBQVVfeXFMTVhDTDhNM0RuaF9EMUI4clJLbjhRWVNITUd3Z3BUX2dPaXgzOFVEYlFQajBfbTFpdGtoVzhsUm0tYkdST2VKYjZPbWZCZTNvVnJra1oyU3RWRUNkYmE2dElpVUVGRDBxLWVXYVZlOVBoUy1QNVJ6dHdnOVVJUjdSdm85QWRxWTFDUmMwTHY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXd1a2c2UEtTYmUxbDlrUGdYYmxXdWJJd19lbVVpa1NCZFNIT1ZpV2xBOEFmY195WVZSLXNIdktTTldXRHVlWHBYN0ZIRmhMb21lRWY0X1U2NERwSzNLSTFaVjNFTmVXWDBrM1BrNE8yTjBjVUdFWG9ET05OdGhPMUstRzljYTjSAYwBQVVfeXFMTVhDTDhNM0RuaF9EMUI4clJLbjhRWVNITUd3Z3BUX2dPaXgzOFVEYlFQajBfbTFpdGtoVzhsUm0tYkdST2VKYjZPbWZCZTNvVnJra1oyU3RWRUNkYmE2dElpVUVGRDBxLWVXYVZlOVBoUy1QNVJ6dHdnOVVJUjdSdm85QWRxWTFDUmMwTHY",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793595866.0
     }
 ]
