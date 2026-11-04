@@ -1,5 +1,23 @@
 [
     {
+        "id": "a77e084348",
+        "title_fa": "حمله هوایی آمریکا به جزیره قشم در اوج تنش‌ها",
+        "title_en": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+        "summary": [
+            "ارتش آمریکا مواضعی را در جزیره قشم هدف حملات خود قرار داد.",
+            "این حمله در حالی انجام شد که دونالد ترامپ تلاش می‌کند ریسک بروز جنگ تمام‌عیار را کم‌اهمیت جلوه دهد."
+        ],
+        "impact": "اقدام نظامی مستقیم آمریکا در خاک ایران، احتمال واکنش متقابل و افزایش درگیری‌ها را بالا برده است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793803024.0
+    },
+    {
         "id": "a9dd319d7b",
         "title_fa": "بازی باج‌خواهی تئوریزه شده در مذاکرات دوحه",
         "title_en": "Diplomatic Push in Doha: Analysts Warn Gulf Talks Risk Becoming an Iranian Extortion Play",
@@ -341,6 +359,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793777621.0
+    },
+    {
+        "id": "e52a480661",
+        "title_fa": "پاسخ ترامپ به شکست انتخاباتی و تنش با ایران",
+        "title_en": "Iran Mocks Trump Over Midterm Election Drubbing: ‘Warmongering’",
+        "summary": [
+            "مشاور فرمانده سپاه پاسداران، شکست انتخاباتی حزب ترامپ را به سیاست‌های خصمانه علیه جـمـهـورۍ اسـلامـۍ گره زد.",
+            "ترامپ در مصاحبه‌ای اذعان کرد که گرانی نفت ناشی از درگیری‌ها در شکست انتخاباتی تاثیرگذار بوده، اما از اقدام نظامی پشیمان نیست."
+        ],
+        "impact": "تنش‌های نظامی و تحریم‌ها مستقیماً بر بازار انرژی و تحولات سیاسی آمریکا سایه انداخته است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-mocks-trump-over-midterms-election-drubbing-warmongering-democrats-republicans-12662638",
+        "clean_url": "https://www.newsweek.com/iran-mocks-trump-over-midterms-election-drubbing-warmongering-democrats-republicans-12662638",
+        "image": "http://www.bing.com/th?id=ONUT.yuUkhWHknTZEmBpLXLj55Q&pid=News",
+        "timestamp": 1793776980.0
     },
     {
         "id": "e4db381c86",
@@ -5408,42 +5444,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793668050.0
-    },
-    {
-        "id": "51793ad4a8",
-        "title_fa": "تایید حمله موشکی ترامپ به سایت پدافندی جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی",
-        "title_en": "Trump confirma ataque de Estados Unidos contra instalación antiaérea en Irán; lo califica de “menor”",
-        "summary": [
-            "دونالد ترامپ شخصاً تایید کرد که ارتش آمریکا یک سایت ضدهوایی تازه تاسیس را در جزیره قشم هدف قرار داده است.",
-            "این اقدام نظامی در حالی انجام شد که هم‌زمان ادعاهایی درباره تلاش برای توافق دیپلماتیک مطرح بود.",
-            "واشنگتن با این اقدام به تهران سیگنال داد که پیشروی نظامی بدون پاسخ نخواهد ماند."
-        ],
-        "impact": "افزایش تنش‌های نظامی در تنگه هرمز و بی‌اعتمادی بیشتر به روند مذاکرات پشت پرده.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "UnoTV",
-        "url": "https://www.unotv.com/internacional/trump-confirma-ataque-iran-instalacion-antiaerea-isla-qeshm/",
-        "clean_url": "https://www.unotv.com/internacional/trump-confirma-ataque-iran-instalacion-antiaerea-isla-qeshm",
-        "image": "http://www.bing.com/th?id=ONUT.VJ1PNJc6afbUogSBALLuRw&pid=News",
-        "timestamp": 1793667840.0
-    },
-    {
-        "id": "ce3999ff4a",
-        "title_fa": "ریزش قیمت نفت با تفویض اختیار مذاکره",
-        "title_en": "Iran: the Gulf braces for the worst, but the markets are hoping for a deal",
-        "summary": [
-            "بورس نفت و بازارهای جهانی بلافاصله پس از واگذاری اختیارات دیپلماتیک به مسعود پزشکیان با افت هشت درصدی قیمت‌ها واکنش نشان دادند.",
-            "کشورهای حاشیه خلیج فارس از دوحه تا ریاض همچنان نگران احتمال درگیری‌های نظامی پس از انتخابات آمریکا هستند."
-        ],
-        "impact": "کاهش موقت فشارهای قیمتی نفت همزمان با تلاش برای ایجاد فضایی جهت دیپلماسی پنهان.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "la Repubblica",
-        "url": "https://www.repubblica.it/en/world/2026/11/03/news/iran_the_gulf_braces_for_the_worst_but_the_markets_are_hoping_for_a_deal-425694714/",
-        "clean_url": "https://www.repubblica.it/en/world/2026/11/03/news/iran_the_gulf_braces_for_the_worst_but_the_markets_are_hoping_for_a_deal-425694714",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/02/210143615-0f175585-f8df-45e5-8a73-5e2effd75210.jpg",
-        "timestamp": 1793667600.0
     }
 ]
