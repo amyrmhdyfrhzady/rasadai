@@ -144,6 +144,25 @@
         "timestamp": 1793751934.0
     },
     {
+        "id": "b6df3e76b3",
+        "title_fa": "پیروزی تاریخی نماینده دموکرات در انتخابات سنای ایالت میشیگان",
+        "title_en": "El-Sayed leads Rogers with one-third of results counted",
+        "summary": [
+            "عبدالسید با شکست مایک راجرز جمهوری‌خواه، کرسی حساس ایالت میشیگان در مجلس سنای آمریکا را به دست آورد.",
+            "ورود چهره‌های جناح ترقی‌خواه به سنا می‌تواند موازنه تصمیم‌گیری در سیاست داخلی و حتی فشارهای خاورمیانه‌ای واشنگتن را دستخوش تغییر کند.",
+            "این پیروزی ضربه‌ای به برنامه‌ریزی جمهوری‌خواهان برای تسلط مطلق بر مجلس سنا محسوب می‌شود."
+        ],
+        "impact": "تغییر موازنه کرسی‌ها در سنای آمریکا و احتمال تقابل بیشتر بر سر پرونده‌های سیاست خارجی.",
+        "tag": "سیاست آمریکا",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Detroit News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/el-sayed-leads-rogers-with-one-third-of-results-counted/ar-AA2gHK3H",
+        "clean_url": "https://www.msn.com/en-us/news/other/el-sayed-leads-rogers-with-one-third-of-results-counted/ar-AA2gHK3H",
+        "image": "http://www.bing.com/th?id=ONUT.HoGNLLZohiwGHF5j3L3asg&pid=News",
+        "timestamp": 1793750572.0
+    },
+    {
         "id": "ade0952564",
         "title_fa": "تأثیر حملات ایران و کاهش کمک‌ها به اسرائیل بر روز انتخابات",
         "title_en": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
@@ -5440,23 +5459,5 @@
         "clean_url": "https://www.moneycontrol.com/world/trump-threatens-to-give-iran-the-hammer-tehran-offers-to-reopen-hormuz-in-48-hours-what-happens-next-article-14066768.html",
         "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261102165430_Iran-mecca-talks.jpg",
         "timestamp": 1793609640.0
-    },
-    {
-        "id": "3da48e9019",
-        "title_fa": "سیگنال تهران برای تغییر دکترین هسته‌ای",
-        "title_en": "Iran reconsiders its own ban on nuclear weapons",
-        "summary": [
-            "سخنگوی وزارت خارجه جـمـهـورۍ اسـلامـۍ تهدیدهای آمریکا و اسرائیل را دلیلی بر بازبینی در ممنوعیت تسلیحات اتمی عنوان کرد.",
-            "تهران ترور رهبر پیشین را بهانه‌ای برای زیر سؤال بردن فتوای تسلیحات هسته‌ای قرار داده است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و تنش با آژانس و غرب بر سر برنامه اتمی.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-reconsiders-own-ban-nuclear-164931520.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-reconsiders-own-ban-nuclear-164931520.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/bee6530647263fded183f6b872d39f8c82e7a45ac03dd2142491345aebf25847/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0103e5f3c2b38af30cefb0ed1651ebdc.jpg",
-        "timestamp": 1793609340.0
     }
 ]
