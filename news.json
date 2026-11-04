@@ -1286,6 +1286,25 @@
         "timestamp": 1793724106.0
     },
     {
+        "id": "245fd5c818",
+        "title_fa": "پیروزی بزرگ دموکرات‌ها و تسلط بر کنگره آمریکا",
+        "title_en": "Democrats flip House and Senate in massive blue wave",
+        "summary": [
+            "حزب دموکرات در یک موج کم‌نظیر موفق شد کنترل هر دو مجلس سنا و نمایندگان را به دست بگیرد.",
+            "شکست دادن جمهوری‌خواهان در ایالت‌های سنتی و کلیدی مثل تگزاس و کارولینای جنوبی، معادلات سیاسی واشنگتن را به هم ریخت.",
+            "این نتیجه زنگ خطری جدی برای سیاست‌های دونالد ترامپ و متحدانش در آستانه نیمه دوم دوره ریاست‌جمهوری است."
+        ],
+        "impact": "تغییر موازنه قدرت در کنگره، کار را برای پیشبرد برنامه‌های ترامپ بسیار سخت می‌کند.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Deseret News",
+        "url": "https://www.deseret.com/politics/2026/11/04/democrats-flip-house-and-senate-in-massive-blue-wave/",
+        "clean_url": "https://www.deseret.com/politics/2026/11/04/democrats-flip-house-and-senate-in-massive-blue-wave",
+        "image": "http://www.bing.com/th?id=ONUT.U1fosDawLnLkTCJaaPKePQ&pid=News",
+        "timestamp": 1793722560.0
+    },
+    {
         "id": "07aed66bbe",
         "title_fa": "تمرکز رای‌دهندگان آمریکایی بر تورم و هزینه‌های کمرشکن انرژی",
         "title_en": "Erie and Niagara County voters highlight affordability, energy costs and governor’s race on Election Day",
@@ -5440,23 +5459,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-just-handed-the-world-a-giant-clue-that-the-iran-war-is-nowhere-close-to-ending-anytime-soon/ar-AA2gB2Fv",
         "image": "http://www.bing.com/th?id=ONUT.Pf_J4P1Jn3KlRCcFsmwLYw&pid=News",
         "timestamp": 1793605467.0
-    },
-    {
-        "id": "eaeac06f48",
-        "title_fa": "پشت پرده پیام‌های تهران و واشنگتن در دوحه",
-        "title_en": "Iran says message exchange with US continues, deputy FM visited Doha to facilitate talks",
-        "summary": [
-            "معاون وزیر خارجه جمهوری اسلامی برای پیشبرد مذاکرات غیرمستقیم با میانجی‌گری قطر راهی دوحه شد.",
-            "تهران مدعی است توپ در زمین واشنگتن است و شرط باز شدن تنگه هرمز را پایان محاصره دریایی آمریکا می‌داند."
-        ],
-        "impact": "ادامه دیپلماسی پنهان در سایه تنش‌های شدید نظامی و مسدود ماندن شاهراه‌های نفتی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611022292",
-        "clean_url": "https://www.iranintl.com/en/202611022292",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/4fa51d415bd5cc7d4204bdac8045f56e827d10b7-1280x853.jpg?rect=0,1,1280,852&amp;w=320&amp;h=213&amp;q=90&amp;fit=max&amp;auto=format",
-        "timestamp": 1793605200.0
     }
 ]
