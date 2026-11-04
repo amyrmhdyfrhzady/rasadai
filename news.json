@@ -342,6 +342,25 @@
         "timestamp": 1793774643.0
     },
     {
+        "id": "f1d16e47ad",
+        "title_fa": "احتمال حمله اتمی آمریکا به تأسیسات اتمی ای-ران",
+        "title_en": "What a US Nuclear Strike on Iran’s Pickaxe Mountain Could Look Like",
+        "summary": [
+            "دونالد ترامپ بارها تهدید کرده که تأسیسات زیرزمینی و مخفی اتمی جـ.هـ.و.ر.ی ا.س.لا.م.ی را هدف قرار خواهد داد.",
+            "برخی کارشناسان معتقدند عمق زیاد این تأسیسات ممکن است بمب‌های معمولی را ناکارآمد کند.",
+            "گمانه‌زنی‌ها درباره احتمال استفاده از گزینه اتمی برای نابودی این مراکز افزایش یافته است."
+        ],
+        "impact": "بالارفتن احتمال یک درگیری نظامی ویرانگر و تغییر معادلات امنیتی منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/what-a-us-nuclear-strike-on-irans-pickaxe-mountain-could-look-like-12656972",
+        "clean_url": "https://www.newsweek.com/what-a-us-nuclear-strike-on-irans-pickaxe-mountain-could-look-like-12656972",
+        "image": "http://www.bing.com/th?id=ONUT.A6s1VCRxhGHhOpnHODjRBA&pid=News",
+        "timestamp": 1793773560.0
+    },
+    {
         "id": "72559d278d",
         "title_fa": "مقایسه کارتر و ترامپ در رسانه‌های حکومتی تهران",
         "title_en": "Iran Achieved Regime Change in America",
@@ -5426,24 +5445,5 @@
         "clean_url": "https://en.yenisafak.com/columns/kadir-ustun/trumps-election-calendar-netanyahus-war-calculus-3725149",
         "image": "https://img.piri.net/piri/upload/3/2026/11/3/6e850be7-trumps-election-calendar-netanyahus-war-calculus.webp",
         "timestamp": 1793663280.0
-    },
-    {
-        "id": "f02bb0f446",
-        "title_fa": "ترامپ: ایران دنبال توافق سریع است",
-        "title_en": "Live Updates: Trump says \"Iran wants a settlement\" after Tehran calls on U.S. to make next move",
-        "summary": [
-            "میانجی‌گری‌های پشت پرده قطر برای پایان دادن به درگیری‌ها میان واشنگتن و تهران ادامه دارد اما هنوز به نتیجه ملموسی نرسیده است.",
-            "ترامپ در شبکه اجتماعی خود مدعی شد که رهبران ج.ا به دنبال دستیابی به یک توافق در سریع‌ترین زمان ممکن هستند.",
-            "اختلاف نظر میان کاخ سفید و تل‌آویو پابرجا ست؛ در حالی که ترامپ روی دیپلماسی و مذاکره تمرکز کرده، نتانیاهو به دنبال از سرگیری حملات نظامی است."
-        ],
-        "impact": "آزادسازی فضای تنش یا باز شدن مسیر توافق بسته به تصمیمات نهایی واشنگتن و تل‌آویو.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/5b50364e-0415-4ef6-b5ef-c4459c66b44f/thumbnail/1200x630/77e1482bc12ef3b23dfaad04aba513a2/gettyimages-2302492549.jpg",
-        "timestamp": 1793662320.0
     }
 ]
