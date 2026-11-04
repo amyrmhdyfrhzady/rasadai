@@ -1,5 +1,23 @@
 [
     {
+        "id": "f331622004",
+        "title_fa": "واکنش تهران به نتایج انتخابات آمریکا: مردم رای به عدم جنگ دادند",
+        "title_en": "Iran's chief negotiator says Americans voted 'no to war'",
+        "summary": [
+            "مذاکره‌کننده ارشد جـمـهـورۍ اسـلامـۍ نتایج انتخابات آمریکا را پیامی روشن علیه رویکردهای نظامی‌گری دانست.",
+            "تهران از تغییرات سیاسی در واشنگتن برای پیشبرد روایت خود بهره‌برداری می‌کند."
+        ],
+        "impact": "تلاش دستگاه دیپلماسی برای استفاده از تحولات داخلی آمریکا در جهت کاهش فشارها.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQUxQNVBvM2RuXzZnTWxjS1VPRHo5dHR3S25zZVFJeFhJYzVnSHJMcGMyb1JpODhEOG5ScDlHb3d3M3Jqbm1FRjR1OUlESElyUVFvLXJmbFFlWkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQUxQNVBvM2RuXzZnTWxjS1VPRHo5dHR3S25zZVFJeFhJYzVnSHJMcGMyb1JpODhEOG5ScDlHb3d3M3Jqbm1FRjR1OUlESElyUVFvLXJmbFFlWkU",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793787099.0
+    },
+    {
         "id": "dc9f587cd3",
         "title_fa": "آماده‌سازی روانی شهروندان برای جنگ اتمی توسط دستگاه تبلیغاتی حاکمیت",
         "title_en": "In chilling video, Iran prepares citizens for nuclear attack",
@@ -180,6 +198,25 @@
         "timestamp": 1793763551.0
     },
     {
+        "id": "64ca1a0d6e",
+        "title_fa": "هشدار درباره پنهان‌کاری در آغاز درگیری نظامی با ایران",
+        "title_en": "The next Congress shouldn’t let Iran become a ‘background war’",
+        "summary": [
+            "کنگره جدید آمریکا با مطالبه جدی مردمی برای پایان دادن به درگیری‌ها با تهران مواجه است.",
+            "استقرار سه گروه ناو هواپیمابر در منطقه نشانگر برنامه‌ریزی پشت پرده برای جنگ است.",
+            "فقدان نظارت موثر قانون‌گذاری، دست روسای جمهور را برای آغاز جنگ‌های بی‌سرانجام باز گذاشته است."
+        ],
+        "impact": "احتمال افزایش تنش‌های نظامی پنهان علیه جـمـهـورۍ اسـلامـۍ با وجود مخالفت‌های داخلی در آمریکا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Los Angeles Times",
+        "url": "https://www.latimes.com/opinion/story/2026-11-04/congress-shouldnt-let-iran-become-background-war",
+        "clean_url": "https://www.latimes.com/opinion/story/2026-11-04/congress-shouldnt-let-iran-become-background-war",
+        "image": "http://www.bing.com/th?id=ONUT.Z_fgmfZXUSPjnuVZV34jbQ&pid=News",
+        "timestamp": 1793761500.0
+    },
+    {
         "id": "949d387d81",
         "title_fa": "تایید حمله نظامی ترامپ به اهدافی در خاک ای ر ا ن",
         "title_en": "Trump confirms strikes on Iran as Tehran warns against return to war",
@@ -306,6 +343,25 @@
         "timestamp": 1793757726.0
     },
     {
+        "id": "5aeec93925",
+        "title_fa": "شکست انتخاباتی ترامپ و تسلط دموکرات‌ها بر کنگره",
+        "title_en": "Election results 2026 live updates: Democrats to take over Congress",
+        "summary": [
+            "دموکرات‌ها با پیروزی در ایالت‌های کلیدی کنترل هر دو مجلس سنا و نمایندگان را به دست گرفتند.",
+            "نتایج انتخابات میان‌دوره‌ای نشان‌دهنده نارضایتی عمیق رای‌دهندگان از سیاست‌های دونالد ترامپ است.",
+            "حزب دموکرات موفق شد کرسی‌های مهمی را در ایالت‌های سنتی جمهوری‌خواه تصاحب کند."
+        ],
+        "impact": "تغییر موازنه‌ قدرت در واشنگتن و محدود شدن دست‌اندازی‌های دولت ترامپ در سیاست خارجی.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": 0.3,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-live-updates-rcna607376",
+        "clean_url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-live-updates-rcna607376",
+        "image": "http://www.bing.com/th?id=ONUT.4siPAB-ol9w0-apoLiXuzA&pid=News",
+        "timestamp": 1793757600.0
+    },
+    {
         "id": "acb2cf04cf",
         "title_fa": "رکوردشکنی تورم و فشار معیشتی در انتخابات آمریکا",
         "title_en": "Americans' wallets drove the midterms",
@@ -323,6 +379,24 @@
         "clean_url": "https://www.businessinsider.com/inflation-and-cost-of-living-shaped-2026-midterm-voter-priorities-2026-11",
         "image": "http://www.bing.com/th?id=ONUT.d6GUydi76qUiuLt4rLmwwQ&pid=News",
         "timestamp": 1793757600.0
+    },
+    {
+        "id": "135b252344",
+        "title_fa": "سونامی آبی در انتخابات میان‌دوره‌ای آمریکا",
+        "title_en": "Watch CNN’s coverage of Election Night in 5 minutes",
+        "summary": [
+            "پیروزی قاطع دموکرات‌ها در انتخابات، زنگ خطری جدی برای آینده سیاسی حزب جمهوری‌خواه ایجاد کرد.",
+            "بازپس‌گیری کنترل کنگره توسط دموکرات‌ها معادلات قدرت در پایتخت آمریکا را دگرگون ساخت."
+        ],
+        "impact": "تضعیف پایگاه سیاسی ترامپ و ایجاد چالش‌های جدی برای پیشبرد برنامه‌های حزب متبوعش.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/04/politics/video/midterms-results-democrats-republicans-congress-digvid",
+        "clean_url": "https://www.cnn.com/2026/11/04/politics/video/midterms-results-democrats-republicans-congress-digvid",
+        "image": "http://www.bing.com/th?id=ONUT.qyrwcMtB-6AW5lrw8aAzWw&pid=News",
+        "timestamp": 1793756280.0
     },
     {
         "id": "dc633998e1",
@@ -5377,77 +5451,5 @@
         "clean_url": "https://apnews.com/article/un-us-icc-trump-sanctions-international-justice-6ebdd7a7e5c66f0fbd29ef30d9b34785",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793633580.0
-    },
-    {
-        "id": "9f54bf9191",
-        "title_fa": "آماده‌باش کشورهای خلیج فارس برای موج جدید درگیری‌ها",
-        "title_en": "America’s Gulf Allies Prepare for New Round of Strikes on Iran—and the Blowback",
-        "summary": [
-            "کشورهای عربی حوزه خلیج فارس خود را برای دور تازه‌ای از حملات احتمالی به ایران و پیامدهای آن آماده می‌کنند.",
-            "این نگرانی‌ها شامل واکنش‌های تلافی‌جویانه و خطرات امنیتی در منطقه است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و اقتصادی برای کشورهای حاشیه خلیج فارس همزمان با احتمال تنش نظامی",
-        "tag": "منطقه‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGprSkphSVBVaURoYUtYbXJZdGRRRWFRZEF4dzFtcXJlaW45aGFzTTkyS1VtMmR3eFVrT0p1M1dOWkx6VnlnZld3U2c4WkVnVjV3amQwdFhWQUdsTHRKUW1NeHQ2S0RBd2M2b0xaS2FvUlNTY3hDNW1kYkdwUVBYTjlVUGVOeW11RnFocWtuZkN4T2xlYWlpbjI2WF82Q0dlT2tPSkJwQUk0SDgyLWU2dy1tc0JvX3FnZGVCUnF3dmZEUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGprSkphSVBVaURoYUtYbXJZdGRRRWFRZEF4dzFtcXJlaW45aGFzTTkyS1VtMmR3eFVrT0p1M1dOWkx6VnlnZld3U2c4WkVnVjV3amQwdFhWQUdsTHRKUW1NeHQ2S0RBd2M2b0xaS2FvUlNTY3hDNW1kYkdwUVBYTjlVUGVOeW11RnFocWtuZkN4T2xlYWlpbjI2WF82Q0dlT2tPSkJwQUk0SDgyLWU2dy1tc0JvX3FnZGVCUnF3dmZEUQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793631180.0
-    },
-    {
-        "id": "82ee106ca9",
-        "title_fa": "خطر جنگ در خاورمیانه و شوک احتمالی به بازار انرژی",
-        "title_en": "Iran Israel US Attack Risk Energy Impact",
-        "summary": [
-            "افزایش تنش بین جـمهوری اسلامی، اسرائیل و آمریکا زنگ خطر را برای بازارهای جهانی انرژی به صدا درآورده است.",
-            "هرگونه درگیری نظامی مستقیم در منطقه می‌تواند به جهش قیمت نفت و شوک اقتصادی شدید منجر شود."
-        ],
-        "impact": "ریسک بالای درگیری نظامی، ثبات بازار جهانی انرژی و قیمت نفت را به شدت تهدید می‌کند.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Funds Society",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ2pEU1QwQ0NaLUtiVmFJVm9NYVN0N08zb3hrc2NSazFZb09ZTGpiX3VNaDR6cG5tdXlJUGg5bm9ySmJtenRvaHJ0QUljaUhwTEZqdGVGR1ZxY1RYc1QyaGYzSlhQcWptZUxhX0JTamlaOG5VM3YxUWZFRElHOEgtRFg0a2JqbWpIR3B5WXdXenVsZ0RHSkdOeVJGLWpCMTJBWEVPTThzWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ2pEU1QwQ0NaLUtiVmFJVm9NYVN0N08zb3hrc2NSazFZb09ZTGpiX3VNaDR6cG5tdXlJUGg5bm9ySmJtenRvaHJ0QUljaUhwTEZqdGVGR1ZxY1RYc1QyaGYzSlhQcWptZUxhX0JTamlaOG5VM3YxUWZFRElHOEgtRFg0a2JqbWpIR3B5WXdXenVsZ0RHSkdOeVJGLWpCMTJBWEVPTThzWQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793630884.0
-    },
-    {
-        "id": "53479621af",
-        "title_fa": "ادعای تاکر کارلسون: فشار نتانیاهو برای حمله اتمی به ج.م.ه.و.ر.ی ا.س.ل.ا.م.ی",
-        "title_en": "Conspiracist theorist Tucker Carlson: Netanyahu pushing Trump to nuke Iran; hundreds of millions will die",
-        "summary": [
-            "تاکر کارلسون مدعی شده نتانیاهو قصد دارد ترامپ را برای استفاده از سلاح اتمی علیه ج.م.ه.و.ر.ی ا.س.ل.ا.م.ی تحت فشار بگذارد.",
-            "این ادعاها در فضای ملتهب فعلی، نشان‌دهنده اوج گرفتن جنگ روانی و ترس از رویارویی مستقیم نظامی در ماه‌های آینده است."
-        ],
-        "impact": "شوک به بازارهای جهانی و افزایش احتمال درگیری‌های پیش‌دستانه در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/far-right-conspiracist-tucker-carlson-netanyahu-pushing-trump-to-nuke-iran-hundreds-of-millions-will-die/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/far-right-conspiracist-tucker-carlson-netanyahu-pushing-trump-to-nuke-iran-hundreds-of-millions-will-die",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/06/AP26063078726684.jpg",
-        "timestamp": 1793630340.0
-    },
-    {
-        "id": "798a112175",
-        "title_fa": "ارزیابی راهبردی از سناریوهای درگیری و امنیت خلیج فارس",
-        "title_en": "Iran",
-        "summary": [
-            "احتمال اقدامات نظامی محدود ایالات متحده پس از انتخابات کنگره وجود دارد اما هنوز تصمیم قطعی برای جنگ تمام‌عیار گرفته نشده است.",
-            "تنگه هرمز همچنان کانون بحران پایدار باقی می‌ماند و حملات به کشتیرانی حتی بدون جنگ بزرگ هم تهدیدی جدی است."
-        ],
-        "impact": "تداوم نااطمینانی در بازارهای انرژی و خطوط کشتیرانی منطقه خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "debuglies",
-        "url": "https://debuglies.com/2026/11/02/iran-hormuz-and-the-risk-of-renewed-us-military-strikes-energy-security-and-great-power-diplomacy-through-mid-2027/",
-        "clean_url": "https://debuglies.com/2026/11/02/iran-hormuz-and-the-risk-of-renewed-us-military-strikes-energy-security-and-great-power-diplomacy-through-mid-2027",
-        "image": "https://debuglies.com/wp-content/uploads/2026/11/Iran-Hormuz-and-the-Risk-of-Renewed-US-Military-Strikes.jpg",
-        "timestamp": 1793629620.0
     }
 ]
