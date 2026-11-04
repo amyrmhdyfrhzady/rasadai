@@ -162,6 +162,24 @@
         "timestamp": 1793754188.0
     },
     {
+        "id": "1f4f5e0414",
+        "title_fa": "ریزش پایگاه رأی ترامپ حتی در ایالت‌های سنتی",
+        "title_en": "Angry Voters Usher in Beginning of the End of the Trump Era",
+        "summary": [
+            "اعتراض رای‌دهندگان خشمگین زنگ خطری جدی برای آینده سیاسی ترامپ به صدا درآورده است.",
+            "ائتلاف شکننده‌ای که دو بار ترامپ را به کاخ سفید رسانده بود، حالا دچار شکست و واگرایی شده است."
+        ],
+        "impact": "تضعیف جایگاه سیاسی ترامپ و کاهش قدرت مانور او در تحولات داخلی آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
+        "clean_url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
+        "image": "http://www.bing.com/th?id=ONUT.BQw2sTpySwoBCpkFvxkbbA&pid=News",
+        "timestamp": 1793752860.0
+    },
+    {
         "id": "79d84cae22",
         "title_fa": "همکاری امنیتی ایران و اعضای پیمان مکه در منطقه",
         "title_en": "Live: Iran, Mecca Pact members agree to cooperate on regional security",
@@ -5438,24 +5456,5 @@
         "clean_url": "https://www.newarab.com/news/iran-intensive-talks-hormuz-reopening-plan-cut-two-days",
         "image": "http://www.bing.com/th?id=ONUT.niaX34O_QT8xPrG0_NdrtQ&pid=News",
         "timestamp": 1793613240.0
-    },
-    {
-        "id": "dbd1f06a6a",
-        "title_fa": "هشدار درباره تبعات حمله نظامی به تاسیسات هسته‌ای ج.ا",
-        "title_en": "US strike on Iran nuclear sites risks wider war, analyst says",
-        "summary": [
-            "حمله به تاسیسات زیرزمینی ج.ا می‌تواند منجر به نشت مواد رادیواکتیو و فاجعه زیست‌محیطی شود.",
-            "پاسخ احتمالی ج.ا به چنین حمله‌ای، هدف قرار دادن زیرساخت‌های انرژی در سراسر خاورمیانه است.",
-            "تلاش برای مذاکره با چهره‌هایی مثل محسن رضایی، نشان‌دهنده عدم درک واشنگتن از ماهیت ساختار قدرت در تهران است."
-        ],
-        "impact": "هرگونه اقدام نظامی مستقیم علیه سایت‌های هسته‌ای، ریسک جنگ فراگیر منطقه‌ای و جهش قیمت انرژی را به همراه دارد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611027379",
-        "clean_url": "https://www.iranintl.com/en/202611027379",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1793612940.0
     }
 ]
