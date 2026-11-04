@@ -960,6 +960,24 @@
         "timestamp": 1793720032.0
     },
     {
+        "id": "5f204a94a4",
+        "title_fa": "واکنش ترامپ به نتایج انتخابات میان‌دوره‌ای آمریکا",
+        "title_en": "Trump breaks silence as midterm results come in",
+        "summary": [
+            "ترامپ در مصاحبه با نیویورک تایمز به ارزیابی نتایج و کرسی‌های سنا پرداخت.",
+            "او شکست‌های احتمالی جمهوری‌خواهان را به عوامل مختلفی نسبت داد."
+        ],
+        "impact": "این موضع‌گیری بر معادلات درون‌حزبی جمهوری‌خواهان و آینده سیاسی ترامپ تاثیر مستقیم دارد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/11/trump-breaks-silence-as-midterm-results-come-in.html",
+        "clean_url": "https://www.mlive.com/politics/2026/11/trump-breaks-silence-as-midterm-results-come-in.html",
+        "image": "http://www.bing.com/th?id=ONUT.NoNVyMy-heMgkWwtWdkHkw&pid=News",
+        "timestamp": 1793719260.0
+    },
+    {
         "id": "eee391b59f",
         "title_fa": "آغاز شمارش آرا و احتمال موج آبی در انتخابات میدوره ای آمریکا",
         "title_en": "The midterm vote count is about to begin: Live updates",
@@ -5450,24 +5468,5 @@
         "clean_url": "https://www.iranintl.com/en/202611022919",
         "image": "http://www.bing.com/th?id=ONUT.89HDCulxqRlqHHMICThgWQ&pid=News",
         "timestamp": 1793572500.0
-    },
-    {
-        "id": "eccaccac0c",
-        "title_fa": "روایت مادری که دخترش توسط نیروهای ج**** کشت** شد",
-        "title_en": "Iran killed her teenage daughter",
-        "summary": [
-            "سمیرا پس از کشته شدن دختر ۱۶ ساله‌اش در اعتراضات، مسیر مبارزه را انتخاب کرد.",
-            "فشار نهادهای امنیتی برای پنهان کردن حقیقت، او را مجبور به فرار خطرناک از مرز کوهستانی کرد.",
-            "او اکنون از خارج کشور به عنوان یک ارتش تک‌نفره علیه ج**** ا**** ادامه می‌دهد."
-        ],
-        "impact": "بازتاب جهانی سرکوب خونین اعتراضات و رنج خانواده‌های دادخواه",
-        "tag": "حقوق بشر",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/articles/c3qjn8117kwjo",
-        "clean_url": "https://www.bbc.com/news/articles/c3qjn8117kwjo",
-        "image": "http://www.bing.com/th?id=ONUT.wR7isnwdPMO-fsPLZExHLQ&pid=News",
-        "timestamp": 1793570340.0
     }
 ]
