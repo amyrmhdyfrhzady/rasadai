@@ -324,6 +324,24 @@
         "timestamp": 1793774643.0
     },
     {
+        "id": "72559d278d",
+        "title_fa": "مقایسه کارتر و ترامپ در رسانه‌های حکومتی تهران",
+        "title_en": "Iran Achieved Regime Change in America",
+        "summary": [
+            "رسانه‌های وابسته به سپاه با انتشار گرافیکی، سالگرد تسخیر سفارت آمریکا را به چالش کشیدن روسای جمهور این کشور گره زدند.",
+            "شکست حزب متبوع ترامپ در انتخابات میان‌دوره‌ای کنگره، ابزارهای کنترلی دولت او را به شدت محدود کرده است."
+        ],
+        "impact": "تضعیف موقعیت سیاسی دولت آمریکا در برابر چالش‌های خاورمیانه.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-achieved-regime-change-in-america-12661480",
+        "clean_url": "https://www.newsweek.com/iran-achieved-regime-change-in-america-12661480",
+        "image": "http://www.bing.com/th?id=ONUT.XKQmQYyRBpsJGAlxyGDi3g&pid=News",
+        "timestamp": 1793772600.0
+    },
+    {
         "id": "f11653b7ce",
         "title_fa": "دو راهی واشنگتن؛ سایه جنگ یا فرسایش در پرونده ج.ا",
         "title_en": "Attack or retreat: US dilemma on Iran",
@@ -5427,23 +5445,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWx1WGh0WXhlVTBQY2Q0YmZ0Zkpnc2JrdUFNMGxXX3lXMHlIR3lQUEk1WjlpSHBYckpBNU1saHdqbmd5RUk2QmxYWW1YZVRwQjBpaGJCQjNwZEtFS3BqVk9leGphUUJOZmtPZ3IyM2lGZkhHRzNKRk11ZGJLQ0ZLSi1jaE1BZw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793659500.0
-    },
-    {
-        "id": "47867581bd",
-        "title_fa": "افت قیمت نفت به زیر ۹۵ دلار با سیگنال دیپلماسی",
-        "title_en": "U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war",
-        "summary": [
-            "بهای نفت خام پس از انتشار خبرهای مربوط به احتمال توافق بین واشنگتن و تهران برای دومین روز متوالی کاهش یافت.",
-            "همزمان با این گفتگوهای پشت پرده، ارتش ایالات متحده در هفته‌های اخیر حملات محدودی را علیه جزیره قشم انجام داده است."
-        ],
-        "impact": "کاهش موقت فشارهای تورمی بر بازار انرژی و افت قیمت نفت در پی سیگنال‌های مذاکره.",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-        "clean_url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108372905-1791235928184-gettyimages-2298177809-AFP_D2BL2AG.jpeg?v=1791235982&w=1920&h=1080",
-        "timestamp": 1793659260.0
     }
 ]
