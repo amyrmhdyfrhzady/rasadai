@@ -253,6 +253,24 @@
         "timestamp": 1793760930.0
     },
     {
+        "id": "37d030bcf3",
+        "title_fa": "شکست انتخاباتی و بالا گرفتن سرزنش‌ها در اردوگاه ترامپ",
+        "title_en": "Republicans start to point fingers at Trump after severe midterms loss",
+        "summary": [
+            "مشاوران ترامپ نامزدهای جمهوری‌خواه را عامل اصلی عملکرد ضعیف در انتخابات میان‌دوره‌ای می‌دانند.",
+            "انتقادات صریح درون‌حزبی از ضعف ارتباطی و بی‌انگیزه بودن برخی چهره‌های حزب آغاز شده است."
+        ],
+        "impact": "ترک خوردن دیوار اتحاد جمهوری‌خواهان و تضعیف موقعیت سیاسی ترامپ در کنگره.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/04/republicans-start-to-point-fingers-at-trump-after-severe-midterms-loss-01148373",
+        "clean_url": "https://www.politico.com/news/2026/11/04/republicans-start-to-point-fingers-at-trump-after-severe-midterms-loss-01148373",
+        "image": "http://www.bing.com/th?id=ONUT.Emk9SnbuFpr8jpN191feDQ&pid=News",
+        "timestamp": 1793760900.0
+    },
+    {
         "id": "9bab11e0c1",
         "title_fa": "هشدار کارشناسان حکومتی نسبت به اجتناب‌ناپذیری جنگ فراگیر",
         "title_en": "Could Democrats' midterm victory accelerate Trump's Iran war?",
@@ -287,6 +305,24 @@
         "clean_url": "https://www.usatoday.com/story/money/markets/2026/11/04/stocks-wednesday-democrats-midterms/92607023007",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793759940.0
+    },
+    {
+        "id": "38afee59e0",
+        "title_fa": "یورش دموکرات‌ها با دستورکار جدید برای چالش با ترامپ",
+        "title_en": "Trump probes and policy fights: Here is Democrats’ new agenda",
+        "summary": [
+            "پیروزی‌های اخیر دموکرات‌ها در مجلس نمایندگان و سنا، بستر درگیری‌های سنگین سیاسی را فراهم کرده است.",
+            "دو سال پایانی دوره ریاست‌جمهوری با اوج‌گیری تحقیقات و جنگ‌های سیاستی بر سر قدرت دنبال خواهد شد."
+        ],
+        "impact": "فلج شدن برنامه‌های اجرایی دولت و تمرکز کامل واشنگتن بر درگیری‌های حزبی.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-probes-and-policy-fights-here-is-democrats-new-agenda/ar-AA2gJQcP",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-probes-and-policy-fights-here-is-democrats-new-agenda/ar-AA2gJQcP",
+        "image": "http://www.bing.com/th?id=ONUT._AL8IVun0Tj8hmRTNP6Kjg&pid=News",
+        "timestamp": 1793759400.0
     },
     {
         "id": "2322ddf980",
@@ -888,6 +924,24 @@
         "clean_url": "https://www.freep.com/story/news/politics/elections/2026/11/04/jocelyn-benson-elected-michigan-governor/92382050007",
         "image": "http://www.bing.com/th?id=ONUT.4GpyvZrDkdnxAcd0Mbbuzg&pid=News",
         "timestamp": 1793744040.0
+    },
+    {
+        "id": "7fa0592988",
+        "title_fa": "شکسته شدن طلسم ۹۴ ساله با پیروزی دموکرات‌ها در کانزاس",
+        "title_en": "Kansas elects first Democrat Senator in 94 years after Trump’s comments",
+        "summary": [
+            "دموکرات‌ها پس از نزدیک به یک قرن توانستند کرسی سنا را در ایالت سنتی کانزاس تصاحب کنند.",
+            "مواضع و سخنرانی‌های ترامپ نقش مهمی در بسیج رأی‌دهندگان مخالف و این شکست غیرمنتظره داشت."
+        ],
+        "impact": "تغییر موازنه قدرت به نفع دموکرات‌ها و زنگ خطری جدی برای پایگاه‌های سنتی جمهوری‌خواهان.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/11/kansas-elects-first-democratic-senator-in-94-years-after-trumps-comments.html",
+        "clean_url": "https://www.masslive.com/politics/2026/11/kansas-elects-first-democratic-senator-in-94-years-after-trumps-comments.html",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793743800.0
     },
     {
         "id": "23293a32a7",
@@ -5396,60 +5450,5 @@
         "clean_url": "https://www.newsday.com/long-island/politics/election-2026-ohio-senate-brown-husted-i25684",
         "image": "https://cdn.newsday.com/ace/c:MGRmNDRiMzEtYWFjNi00:YWNlMTNmYWMtYzRlZC00/square/770",
         "timestamp": 1793635380.0
-    },
-    {
-        "id": "a197730170",
-        "title_fa": "نبرد نهایی ترامپ و دمکرات‌ها در آستانه انتخابات آمریکا",
-        "title_en": "Reflecting Pool vs the state of the economy: Trump and Dems clash in closing messages",
-        "summary": [
-            "ترامپ رقیبان دمکرات خود را تندروهای خطرناک توصیف کرد و بر پروژه‌های عمرانی تمرکز کرد.",
-            "دمکرات‌ها تلاش کردند تمرکز افکار عمومی را روی وضعیت اقتصاد حفظ کنند.",
-            "رکوردهای جدیدی در آرای زودهنگام ثبت شد و تنش میان دو حزب به اوج رسید."
-        ],
-        "impact": "نتیجه این رقابت می‌تواند موازنه قدرت در کنگره و مسیر سیاست‌های دولت را به کلی تغییر دهد.",
-        "tag": "انتخابات",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Los Angeles Daily News",
-        "url": "https://www.dailynews.com/2026/11/02/election-2026-midterms-final-message/",
-        "clean_url": "https://www.dailynews.com/2026/11/02/election-2026-midterms-final-message",
-        "image": "https://www.dailynews.com/wp-content/uploads/2026/11/Trump_41554.jpg?w=1999&h=1333",
-        "timestamp": 1793634600.0
-    },
-    {
-        "id": "e322920066",
-        "title_fa": "ترامپ: ایران خواهان توافق است و به توافق می‌رسیم",
-        "title_en": "Video: Trump says Iran wants deal, agreement 'could happen'",
-        "summary": [
-            "دونالد ترامپ مدعی شد جمهوری اسلامی به دنبال توافق برای پایان دادن به درگیری‌هاست و توافق احتمالی دست‌یافتنی است.",
-            "او با اشاره به وضعیت نظامی ایران مدعی شد نیروی دریایی و هوایی حاکمیت از بین رفته و آمریکا دست بالا را دارد."
-        ],
-        "impact": "تغییر احتمالی در رویکرد کاخ سفید و فشار حداکثری بر تهران برای تن دادن به میز مذاکره",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611027913",
-        "clean_url": "https://www.iranintl.com/en/202611027913",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1793633820.0
-    },
-    {
-        "id": "059dd61c37",
-        "title_fa": "یوسی کوهن: جنگ مجدد با ج.ه. اریز اجتناب‌ناپذیر است",
-        "title_en": "Ex-Mossad chief Yossi Cohen believes eventual return to war with Iran is inevitable",
-        "summary": [
-            "رئیس پیشین موساد هشدار داد که عملیات نظامی هدفمند دوباره علیه تسلیحات اتمی ج.ه. انجام خواهد شد.",
-            "تلاش‌های ج.ه. برای بازسازی و ارتقای تأسیسات نظامی، تل‌آویو را ناچار به واکنش دوباره می‌کند."
-        ],
-        "impact": "افزایش احتمال درگیری نظامی مستقیم در آینده نزدیک برای مهار پروژه اتمی ج.ه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/ex-mossad-chief-yossi-cohen-believes-eventual-return-to-war-with-iran-is-inevitable/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/ex-mossad-chief-yossi-cohen-believes-eventual-return-to-war-with-iran-is-inevitable",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/יוסי-כהן-קרדיט-שוקה-כהן-e1793633744429.jpeg",
-        "timestamp": 1793633820.0
     }
 ]
