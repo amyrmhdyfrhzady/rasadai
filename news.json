@@ -126,6 +126,25 @@
         "timestamp": 1793758105.0
     },
     {
+        "id": "acb2cf04cf",
+        "title_fa": "رکوردشکنی تورم و فشار معیشتی در انتخابات آمریکا",
+        "title_en": "Americans' wallets drove the midterms",
+        "summary": [
+            "بحران گرانی اجاره‌بها، بنزین و مواد غذایی رای‌دهندگان آمریکایی را به شدت خشمگین کرده است.",
+            "دموکرات‌ها با سوار شدن بر موج نارضایتی‌های اقتصادی توانستند کنترل کنگره و سنا را به دست بگیرند.",
+            "رهبر اکثریت مجلس نمایندگان وعده داد مبارزه سختی را برای کاهش هزینه‌های زندگی آغاز کند."
+        ],
+        "impact": "فشار تورم و اقتصاد داخلی نقشی تعیین‌کننده در تغییر موازنه قدرت در کنگره آمریکا داشت.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/inflation-and-cost-of-living-shaped-2026-midterm-voter-priorities-2026-11",
+        "clean_url": "https://www.businessinsider.com/inflation-and-cost-of-living-shaped-2026-midterm-voter-priorities-2026-11",
+        "image": "http://www.bing.com/th?id=ONUT.d6GUydi76qUiuLt4rLmwwQ&pid=News",
+        "timestamp": 1793757600.0
+    },
+    {
         "id": "456c3a96c5",
         "title_fa": "دست‌انداز مذاکرات پشت پرده با واشنگتن و اختیارات محدود پزشکیان",
         "title_en": "Who determines Iran’s fighting and negotiating position amid US threats?",
@@ -5436,24 +5455,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae8b325-1793635110.jpg?resize=1920%2C1440",
         "timestamp": 1793616540.0
-    },
-    {
-        "id": "e700a39d36",
-        "title_fa": "خروج هیئت ایرانی از دوحه همزمان با توزیع پیش‌نویس توافق با آمریکا",
-        "title_en": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says",
-        "summary": [
-            "تیم مذاکره‌کننده پس از نشست‌های دوحه قطر را ترک کرد و متن پیش‌نویس توافق میان تهران و واشنگتن برای بررسی نهایی به جریان افتاده است.",
-            "پایان این مرحله از گفتگوها به‌معنای شکست نیست؛ رایزنی‌ها وارد فاز حساس تصمیم‌گیری سیاسی در پایتخت‌ها شده است.",
-            "چرخش متن پیش‌نویس نشان می‌دهد محورهای اصلی چانه‌زنی مشخص شده و توپ اکنون در زمین تصمیم‌گیران نهایی است."
-        ],
-        "impact": "توقف موقت صعود هیجانی نرخ ارز و چشم‌انتظاری بازارها برای سیگنال نهایی از متن پیش‌نویس.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793616084.0
     }
 ]
