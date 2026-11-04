@@ -217,6 +217,24 @@
         "timestamp": 1793761500.0
     },
     {
+        "id": "3201e20361",
+        "title_fa": "خطای مرورگر در سایت یواس‌اتودی",
+        "title_en": "WrestleMania 43 in Saudi Arabia faces a problem WWE can’t wish away",
+        "summary": [
+            "سایت یواس‌اتودی به دلیل استفاده از فناوری‌های جدید، از برخی مرورگرهای قدیمی پشتیبانی نمی‌کند.",
+            "کاربران برای دسترسی به اخبار مربوط به رویدادهای ورزشی باید مرورگر خود را آپدیت کنند."
+        ],
+        "impact": "دسترسی برخی کاربران به اخبار این رسانه با اختلال مواجه شده است.",
+        "tag": "فناوری",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/sports/2026/11/04/wwe-wrestlemania-43-saudi-arabia-attacks-crown-jewel/92427307007/",
+        "clean_url": "https://www.usatoday.com/story/sports/2026/11/04/wwe-wrestlemania-43-saudi-arabia-attacks-crown-jewel/92427307007",
+        "image": "http://www.bing.com/th?id=ONUT.WxyJbqj3XT76uFTcaoDLcw&pid=News",
+        "timestamp": 1793761260.0
+    },
+    {
         "id": "949d387d81",
         "title_fa": "تایید حمله نظامی ترامپ به اهدافی در خاک ای ر ا ن",
         "title_en": "Trump confirms strikes on Iran as Tehran warns against return to war",
@@ -5433,23 +5451,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/ex-mossad-chief-yossi-cohen-believes-eventual-return-to-war-with-iran-is-inevitable",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/יוסי-כהן-קרדיט-שוקה-כהן-e1793633744429.jpeg",
         "timestamp": 1793633820.0
-    },
-    {
-        "id": "f43c90a047",
-        "title_fa": "واکنش رئیس دادگاه کیفری بین‌المللی به تحریم‌های واشنگتن",
-        "title_en": "ICC president hits back at Trump administration penalties in remote UN address",
-        "summary": [
-            "رئیس دیوان کیفری بین‌المللی دولت دونالد ترامپ را به تلاش برای اخلال در اجرای عدالت متهم کرد.",
-            "او تأکید کرد که فشارها و تحریم‌های واشنگتن مانع از کار این نهاد قضایی نخواهد شد."
-        ],
-        "impact": "افزایش تنش‌های حقوقی بین نهادهای بین‌المللی و دولت آمریکا.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/un-us-icc-trump-sanctions-international-justice-6ebdd7a7e5c66f0fbd29ef30d9b34785",
-        "clean_url": "https://apnews.com/article/un-us-icc-trump-sanctions-international-justice-6ebdd7a7e5c66f0fbd29ef30d9b34785",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793633580.0
     }
 ]
