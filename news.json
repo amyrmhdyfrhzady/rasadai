@@ -126,6 +126,24 @@
         "timestamp": 1793758105.0
     },
     {
+        "id": "0fbff874e6",
+        "title_fa": "چالش‌های جدید ترامپ با پیشروی دموکرات‌ها در کنگره",
+        "title_en": "Congress poised to become thorn in Trump's side after Democratic midterm wins",
+        "summary": [
+            "پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای، مسیر تصویب طرح‌های ترامپ در کنگره را با موانع سخت روبه‌رو می‌کند.",
+            "تغییر موازنه قدرت در واشنگتن، اهرم‌های نظارتی علیه کاخ سفید را تقویت کرده و دست ترامپ را در پیشبرد یک‌جانبه سیاست‌ها می‌بندد."
+        ],
+        "impact": "افزایش کارشکنی‌های داخلی در واشنگتن و کند شدن روند اجرای تصمیمات کلیدی کاخ سفید.",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/11/04/congress-house-democrats-trump-win-midterms/92597606007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/04/congress-house-democrats-trump-win-midterms/92597606007",
+        "image": "http://www.bing.com/th?id=ONUT.P0bl4XbOSh1nglpCKMm1xA&pid=News",
+        "timestamp": 1793758020.0
+    },
+    {
         "id": "acb2cf04cf",
         "title_fa": "رکوردشکنی تورم و فشار معیشتی در انتخابات آمریکا",
         "title_en": "Americans' wallets drove the midterms",
@@ -198,6 +216,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3N3QWRxSWRObVZaQ1JBQWxYOUxwQU9DNl9IdWJ5Yk5jelc4aEpPMnZkblhGRXRLckpxWmNISmg4WUVBZ2o1RWxsQmdsSE1LMmF6V0ZOQW1wNjQtejVHYlJRZVNwalVOSndIZkZFLWNCNi00Tm1qM3BMMGlxdzlFUTRqOG1XWl9OZE5nSmZkN1PSAZYBQVVfeXFMTUt0b2FHckFRN2sxb2VLZUU4UnhCSjNiVnpyczRmdW42RkVPRzZxMzluTFM2clNQb0c4WWppNEFtb0xNQ2Z3TkN4Nm93ZWFOWnJKQ0xBbHd0QWlHYXpDSkczekhhUWR0dTA4SGRQXzh6ajlrbmtnMHNEdlkyX2NPUFdJc3RZR0ZtdEQ3VERlMHdsRGVHRHpB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793754188.0
+    },
+    {
+        "id": "68af1fcaa7",
+        "title_fa": "فشار موج آبی بر پایگاه سنتی جمهوری‌خواهان در تگزاس",
+        "title_en": "Abbott loses as massive blue wave turns even Texas purple | Opinion",
+        "summary": [
+            "پیشروی دموکرات‌ها در ایالت‌های کاملاً محافظه‌کار مثل تگزاس، زنگ خطری جدی برای پایگاه رای سنتی جمهوری‌خواهان است.",
+            "افت موقعیت چهره‌هایی نظیر گرگ ابوت از شکاف‌های جدید در ساختار رای‌دهندگان آمریکایی خبر می‌دهد."
+        ],
+        "impact": "اجبار جمهوری‌خواهان به بازنگری در استراتژی‌های انتخابی برای حفظ ایالت‌های کلیدی.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Detroit Free Press",
+        "url": "https://www.freep.com/story/opinion/columnist/2026/11/04/election-results-texas-governor-senate-blue-wave/92603391007/",
+        "clean_url": "https://www.freep.com/story/opinion/columnist/2026/11/04/election-results-texas-governor-senate-blue-wave/92603391007",
+        "image": "http://www.bing.com/th?id=ONUT.i7-EqpIqEHBVxpLcqP-QuQ&pid=News",
+        "timestamp": 1793754180.0
     },
     {
         "id": "cb3e2d8035",
@@ -5418,42 +5454,5 @@
         "clean_url": "https://www.foxnews.com/politics/pentagons-top-spies-tasked-no-fail-mission-hegseth-puts-foreign-midterm-meddling-crosshairs",
         "image": "http://www.bing.com/th?id=ONUT.VdZNRkUkEepQMzT4LaIPTg&pid=News",
         "timestamp": 1793620440.0
-    },
-    {
-        "id": "46fc7775c4",
-        "title_fa": "طرح دو روزه تهران برای باز کردن تنگه هرمز و مذاکره با آمریکا",
-        "title_en": "Iran has a 2-day plan to reopen Strait, resume nuclear talks with US, and other Mideast news",
-        "summary": [
-            "مقامات تهران برنامه ای فوری برای رفع انسداد تنگه هرمز روی میز گذاشته‌اند.",
-            "از سرگیری گفتگوهای هسته‌ای با ایالات متحده بخش دیگری از این سناریوی جدید است."
-        ],
-        "impact": "اجرای این طرح می‌تواند جلوی شوک بزرگ انرژی و سقوط بیشتر ارزش ریال را بگیرد.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "Newsday",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vdTVNNVhCZkxtNjJyMzc2aWxVUEluaUdrY1QwZFpHVGhzNmp2X29LcmdoTThOeFdRbzE3V0xaTHJFZ0YzaXQwZVNQVmpUSlhvYWppRWN3M0VvcHRSVmhJOWh6eWI1SnBKWjg2Ty1obVBnSUlIb214OXlRRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vdTVNNVhCZkxtNjJyMzc2aWxVUEluaUdrY1QwZFpHVGhzNmp2X29LcmdoTThOeFdRbzE3V0xaTHJFZ0YzaXQwZVNQVmpUSlhvYWppRWN3M0VvcHRSVmhJOWh6eWI1SnBKWjg2Ty1obVBnSUlIb214OXlRRQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793619602.0
-    },
-    {
-        "id": "5ecf09c310",
-        "title_fa": "عقب‌نشینی تهران و تلاش برای توافق شتاب‌زده با آمریکا",
-        "title_en": "Iran pushing accelerated plan for ceasefire talks with US",
-        "summary": [
-            "مقام‌های تهران به واسطه قطر به دنبال سرعت بخشیدن به اجرای طرح هفت مرحله‌ای خود برای مذاکره با آمریکا هستند.",
-            "بازگشایی سریع تنگه هرمز و بازگشت به میز مذاکره اتمی از محورهای اصلی این طرح است.",
-            "فشار بالای نظامی و سایه درگیری‌ها، حاکمیت جـمـهـورى اسـلامـى را پای میز دیپلماسی کشانده است."
-        ],
-        "impact": "ترس از درگیری نظامی مستقیم، تهران را وادار به التماس دیپلماتیک کرده است.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
-        "clean_url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae8b325-1793635110.jpg?resize=1920%2C1440",
-        "timestamp": 1793616540.0
     }
 ]
