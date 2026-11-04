@@ -1,5 +1,24 @@
 [
     {
+        "id": "a9dd319d7b",
+        "title_fa": "بازی باج‌خواهی تئوریزه شده در مذاکرات دوحه",
+        "title_en": "Diplomatic Push in Doha: Analysts Warn Gulf Talks Risk Becoming an Iranian Extortion Play",
+        "summary": [
+            "مذاکرات جاری در دوحه با میانجیگری قطر و پاکستان بیشتر از آنکه صلح‌طلبانه باشد، به ابزاری برای فشار اقتصادی تبدیل شده است.",
+            "توسل به ناامنی در آبراه حیاتی تنگه هرمز به عنوان اهرم فشار برای دریافت امتیازات اقتصادی استفاده می‌شود.",
+            "شروط هفت‌مرحله‌ای مطرح‌شده نشان می‌دهد هدف اصلی، رفع تحریم‌ها در ازای توقف موقت تنش‌آفرینی است."
+        ],
+        "impact": "تلاش دستگاه دیپلماتیک برای دور زدن فشار حداکثری از طریق امتیازگیری در قالب کاهش تنش‌های منطقه‌ای",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "jewishpostandnews",
+        "url": "https://jewishpostandnews.ca/world-views/doha-talks-iran-extortion-hormuz-risk/",
+        "clean_url": "https://jewishpostandnews.ca/world-views/doha-talks-iran-extortion-hormuz-risk",
+        "image": "https://jewishpostandnews.ca/wp-content/uploads/2026/11/Anti-IR_Iran_demonstration_Sofia_2026-02-15_-_12-1000x600.jpg",
+        "timestamp": 1793802420.0
+    },
+    {
         "id": "0d08f899f8",
         "title_fa": "محدودیت‌های قدرت نظامی آمریکا در رویارویی با ج.ا",
         "title_en": "Iran Is No Military Vacuum: Power, Deterrence And The Political Future Of The Middle East",
@@ -5425,24 +5444,5 @@
         "clean_url": "https://www.msn.com/en-my/news/other/iran-after-the-midterms-which-decision-will-president-trump-choose-to-make/ar-AA2gF024",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793666160.0
-    },
-    {
-        "id": "06da51227a",
-        "title_fa": "هشدار اعراب به تهران درباره خطرات حملات دریایی",
-        "title_en": "Arab states warn Iran of individual, collective retaliation over attacks",
-        "summary": [
-            "کشورهای عربی به دلیل تهدیدات دریایی، درباره واکنش‌های فردی و جمعی به حاکمیت جـمـهـورۍ اسـلامـۍ هشدار دادند.",
-            "اصابت شی ناشناس به نفتکش قطری در خلیج فارس، آسیب‌پذیری زیرساخت‌های انرژی منطقه را آشکار کرد.",
-            "دوحه این حمله را اقدامی خطرناک علیه امنیت کشتیرانی و انرژی جهان محکوم کرد."
-        ],
-        "impact": "افزایش ریسک امنیت انرژی و بالا رفتن هزینه‌های حمل‌ونقل در خلیج فارس",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611020302",
-        "clean_url": "https://www.iranintl.com/en/202611020302",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/dd58044ae991cd06529479891c28dbd60bc247e9-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793665260.0
     }
 ]
