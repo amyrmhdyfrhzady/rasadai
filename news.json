@@ -1287,6 +1287,24 @@
         "timestamp": 1793740741.0
     },
     {
+        "id": "14c1e87e99",
+        "title_fa": "خستگی رای‌دهندگان مستقل آمریکا از جنجال‌های سیاسی و فشار تورم",
+        "title_en": "‘I want to send a message’: Inside NC’s blue wave are Charlotte voters fed up with Trump",
+        "summary": [
+            "افزایش شدید هزینه‌های سوخت و خوراکی در کنار فضای مسموم سیاسی واشنگتن، صدای معترضان در ایالت‌های کلیدی را درآورده است.",
+            "رای‌دهندگان میانه‌رو با خروج از زیر سایه قطب‌بندی‌های حزبی، تمرکز اصلی خود را بر معیشت و بحران‌های اقتصادی معطوف کرده‌اند."
+        ],
+        "impact": "احتمال تغییر موازنه آرا در ایالت‌های چرخشی آمریکا به دلیل ناامیدی از عملکرد معیشتی و رفتارهای افراطی.",
+        "tag": "انتخابات آمریکا",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Charlotte Observer",
+        "url": "https://www.charlotteobserver.com/news/politics-government/election/article317914079.html",
+        "clean_url": "https://www.charlotteobserver.com/news/politics-government/election/article317914079.html",
+        "image": "http://www.bing.com/th?id=ONUT.qchIeoWHAH1AoF4EogNX8Q&pid=News",
+        "timestamp": 1793740500.0
+    },
+    {
         "id": "2fb5d22394",
         "title_fa": "شکست جمهوری‌خواهان در انتخابات سنای ایالت آیووا",
         "title_en": "Democrat Josh Turek wins Iowa Senate race",
@@ -5431,23 +5449,5 @@
         "clean_url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take-03-november-2026-03112026",
         "image": "https://www.home.saxo/-/media/content-hub/images/platform-social-sharing-images/quick-take-jpg/asia-1024x768.jpg",
         "timestamp": 1793639520.0
-    },
-    {
-        "id": "edc3f00326",
-        "title_fa": "بزرگترین سرقت تاریخ رمزارز؛ هک ۶ میلیارد دلاری با ردپای کره شمالی",
-        "title_en": "World’s largest crypto exchange hit by suspected North Korean hack in world’s largest heist",
-        "summary": [
-            "صرافی بایننس پس از هک کیف پول‌های دیجیتال و سرقت ۶ میلیارد دلار، موقتاً برداشت‌ها را متوقف کرد.",
-            "شواهد اولیه نشان می‌دهد هکرهای وابسته به کره شمالی پشت این بزرگترین سرقت تاریخ کریپتو هستند."
-        ],
-        "impact": "فشار شدید به بازار رمزارزها و ایجاد زلزله در امنیت صرافی‌های بزرگ بین‌المللی.",
-        "tag": "ارز دیجیتال",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/world-s-largest-crypto-exchange-hit-by-suspected-north-korean-hack-in-world-s-largest-heist/ar-AA2gnWUo",
-        "clean_url": "https://www.msn.com/en-us/news/other/world-s-largest-crypto-exchange-hit-by-suspected-north-korean-hack-in-world-s-largest-heist/ar-AA2gnWUo",
-        "image": "http://www.bing.com/th?id=ONUT.bJPpwpJI-ElK10B5FSYHlg&pid=News",
-        "timestamp": 1793639249.0
     }
 ]
