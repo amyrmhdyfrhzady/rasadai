@@ -198,6 +198,24 @@
         "timestamp": 1793741814.0
     },
     {
+        "id": "684d0c547a",
+        "title_fa": "ابهام در نتیجه انتخابات کنگره آمریکا",
+        "title_en": "When will we know who controls Congress? It could be a while",
+        "summary": [
+            "شمارش آرا و تعیین حزب پیروز در انتخابات کنگره زمان‌بر خواهد بود.",
+            "رقابت فشرده بر سر کنترل ۴۳۵ کرسی مجلس نمایندگان ادامه دارد."
+        ],
+        "impact": "تعیین تکلیف نهایی قدرت در واشنگتن و سیاست خارجی آمریکا به روزهای آینده موکول شد.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/when-will-we-know-who-controls-congress-it-could-be-a-while/ar-AA2gDNnV",
+        "clean_url": "https://www.msn.com/en-us/news/other/when-will-we-know-who-controls-congress-it-could-be-a-while/ar-AA2gDNnV",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793741150.0
+    },
+    {
         "id": "2fb5d22394",
         "title_fa": "شکست جمهوری‌خواهان در انتخابات سنای ایالت آیووا",
         "title_en": "Democrat Josh Turek wins Iowa Senate race",
@@ -5445,23 +5463,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iN2lXdG5xNkxSNE0xYnR0ZUF2YS1kaFdJbUdleTZxRnQyRXBZdmZmLUdPRTB1QjJKLTlzcnQ2TFlETWhHRVh0NmRsQ1A5NVRPdXhfUTlnOWloLWcxa1BqYlBOaXRDRXZPR1h3Q3NtaHhuSUZh",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793591922.0
-    },
-    {
-        "id": "f9ba956ea3",
-        "title_fa": "انتخابات میان‌دوره‌ای آمریکا و سایه سنگین جنگ با ج.ا",
-        "title_en": "Countdown until US midterm elections are over feels like waiting for war with Iran - editorial",
-        "summary": [
-            "رسانه‌های اسرائیلی فضای این روزهای انتخابات آمریکا را به انتظار برای درگیری نظامی با ج.ا تشبیه می‌کنند.",
-            "تغییرات سیاسی در واشنگتن می‌تواند به نقطه عطف تصمیم‌گیری درباره برنامه اتمی تهران تبدیل شود."
-        ],
-        "impact": "بازارها با نگرانی تحولات سیاسی آمریکا و احتمال تغییر رویکرد نظامی واشنگتن را رصد می‌کنند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KRGFHVjhuU1FqNTZFb2tVTlV3bGQwUXZtVXQ1OGE5MHlXTlFneGhMV0szd0FJZ05NWVoyX3BMNVRXUkttMDZtbU53TjUxbG5WLVVVdlJwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KRGFHVjhuU1FqNTZFb2tVTlV3bGQwUXZtVXQ1OGE5MHlXTlFneGhMV0szd0FJZ05NWVoyX3BMNVRXUkttMDZtbU53TjUxbG5WLVVVdlJwSQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793591887.0
     }
 ]
