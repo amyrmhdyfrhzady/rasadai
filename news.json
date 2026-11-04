@@ -216,6 +216,24 @@
         "timestamp": 1793741150.0
     },
     {
+        "id": "24c68bc128",
+        "title_fa": "شکست سناتور کهنه‌کار جمهوری‌خواه در ایالت مین",
+        "title_en": "Democrat Troy Jackson Triumphs In Maine As Susan Collins Finally Ousted",
+        "summary": [
+            "تروی جکسون، نامزد دموکرات‌ها، توانست سوزان کالینز، سناتور جمهوری‌خواه را در رقابتی فشرده شکست دهد.",
+            "این پیروزی برای حزب دموکرات در سنا یک دستاورد مهم محسوب می‌شود."
+        ],
+        "impact": "تغییر موازن قدرت در سنای آمریکا به نفع دموکرات‌ها",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/democrat-troy-jackson-wins-maine_n_6aea29b9e4b056519dfe18a9",
+        "clean_url": "https://www.huffpost.com/entry/democrat-troy-jackson-wins-maine_n_6aea29b9e4b056519dfe18a9",
+        "image": "http://www.bing.com/th?id=ONUT.iw6yvXHgMs6XnCc1S6RECg&pid=News",
+        "timestamp": 1793740920.0
+    },
+    {
         "id": "2fb5d22394",
         "title_fa": "شکست جمهوری‌خواهان در انتخابات سنای ایالت آیووا",
         "title_en": "Democrat Josh Turek wins Iowa Senate race",
@@ -250,6 +268,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/chris-mcgowan-handily-wins-iowas-4th-district-over-dave-dawson/ar-AA2gIkzT",
         "image": "http://www.bing.com/th?id=ONUT.HWPVejH9EH-45-EamMp5uQ&pid=News",
         "timestamp": 1793739314.0
+    },
+    {
+        "id": "f6a8e6592b",
+        "title_fa": "هشدار کارشناسان حکومتی نسبت به پیامدهای جنگ احتمالی",
+        "title_en": "Trump allies blame Iran war for Republican election losses",
+        "summary": [
+            "تهدیدات جدید دونالد ترامپ و احتمال درگیری نظامی، محافل سیاسی جـمـهـورى اسـلامـى را به شدت نگران بسته شدن تنگه هرمز کرده است.",
+            "کارشناسان رسانه ملی اذعان دارند که حمله نظامی آمریکا دیگر محدود نخواهد بود و حاکمیت تمایلی به امتیازدهی در میز مذاکره ندارد."
+        ],
+        "impact": "افزایش ریسک امنیتی در خلیج فارس و احتمال تنش فوری نظامی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611040814",
+        "clean_url": "https://www.iranintl.com/en/202611040814",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793739060.0
     },
     {
         "id": "b9d5552571",
@@ -5426,42 +5462,5 @@
         "clean_url": "https://ziare.com/cautare/mutatie-cuba-pag5",
         "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
         "timestamp": 1793593264.4473443
-    },
-    {
-        "id": "8075db1784",
-        "title_fa": "فشار نتانیاهو به ترامپ برای حمله به ایران",
-        "title_en": "UPDATES: US War on Iran, Day 249 — Trump Camp Threatens Attacks on November 4",
-        "summary": [
-            "بنیامین نتانیاهو در گفتگوی تلفنی با دونالد ترامپ، او را برای تایید حملات ضربتی به اهدافی در داخل ایران تحت فشار گذاشته است.",
-            "همزمان، وزارت خارجه تهران تبادل پیام با واشنگتن از طریق دوحه را تایید کرده اما شرط امنیت تنگه هرمز را لغو تحریم‌های اقتصادی دانسته است.",
-            "با وجود چانه‌زنی‌های دیپلماتیک در قطر، اهرم فشار نظامی اسرائیل می‌تواند معادلات منطقه را به سمت درگیری مستقیم سوق دهد."
-        ],
-        "impact": "افزایش شدید ریسک نظامی در خلیج فارس و احتمال جهش قیمت نفت و ارز.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.75,
-        "source": "EA WorldView",
-        "url": "https://eaworldview.com/2026/11/us-war-on-iran-trump-threatens-strikes-november-4/",
-        "clean_url": "https://eaworldview.com/2026/11/us-war-on-iran-trump-threatens-strikes-november-4",
-        "image": "https://eaworldview.com/wp-content/uploads/2025/05/MBS-TRUMP-05-25-e1747419820612.jpg",
-        "timestamp": 1793592600.0
-    },
-    {
-        "id": "a472322141",
-        "title_fa": "سناریوهای پایان‌پذیری تقابل آمریکا و اسرائیل با ج.ا",
-        "title_en": "How the US-Israeli war on Iran ends",
-        "summary": [
-            "تحلیلگران به دنبال ترسیم ابعاد و پایان‌بندی احتمالی جنگ پنهان و آشکار بین ائتلاف عبری-غربی با تهران هستند.",
-            "هرگونه درگیری تمام‌عیار در منطقه، زنجیره‌ای از بحران‌های اقتصادی و امنیتی را به دنبال خواهد داشت."
-        ],
-        "impact": "ریسک سرمایه‌گذاری در منطقه به دلیل احتمال بالای تنش‌های نظامی به شدت افزایش یافته است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Asia Times",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iN2lXdG5xNkxSNE0xYnR0ZUF2YS1kaFdJbUdleTZxRnQyRXBZdmZmLUdPRTB1QjJKLTlzcnQ2TFlETWhHRVh0NmRsQ1A5NVRPdXhfUTlnOWloLWcxa1BqYlBOaXRDRXZPR1h3Q3NtaHhuSUZh?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iN2lXdG5xNkxSNE0xYnR0ZUF2YS1kaFdJbUdleTZxRnQyRXBZdmZmLUdPRTB1QjJKLTlzcnQ2TFlETWhHRVh0NmRsQ1A5NVRPdXhfUTlnOWloLWcxa1BqYlBOaXRDRXZPR1h3Q3NtaHhuSUZh",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793591922.0
     }
 ]
