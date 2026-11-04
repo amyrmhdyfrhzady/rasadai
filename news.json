@@ -326,6 +326,24 @@
         "timestamp": 1793761740.0
     },
     {
+        "id": "17ea2c4e40",
+        "title_fa": "شکست سنگین حزب ترامپ در انتخابات میان‌دوره",
+        "title_en": "Drudge Report’s 2-Word Verdict On Donald Trump’s Midterm Disaster Says It All",
+        "summary": [
+            "دموکرات‌ها کنترل هر دو مجلس سنا و نمایندگان را در انتخابات میان‌دوره به دست گرفتند.",
+            "رسانه‌های محافظه‌کار مانند وال‌استریت ژورنال، ترامپ را عامل اصلی این شکست سنگین معرفی کردند."
+        ],
+        "impact": "این شکست، قدرت مانور سیاسی ترامپ را در ادامه دوران ریاست‌جمهوری به‌شدت محدود می‌کند.",
+        "tag": "انتخابات",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/drudge-report-donald-trump-midterms_n_6aeafe82e4b0dcee62e17dce",
+        "clean_url": "https://www.huffpost.com/entry/drudge-report-donald-trump-midterms_n_6aeafe82e4b0dcee62e17dce",
+        "image": "http://www.bing.com/th?id=ONUT.4ltjMkIVOCax6H5hBQsdxg&pid=News",
+        "timestamp": 1793761500.0
+    },
+    {
         "id": "64ca1a0d6e",
         "title_fa": "هشدار درباره پنهان‌کاری در آغاز درگیری نظامی با ایران",
         "title_en": "The next Congress shouldn’t let Iran become a ‘background war’",
@@ -5430,24 +5448,5 @@
         "clean_url": "https://www.iranintl.com/en/202611020568",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/f16a6264d08bcbd6120e0f3538af8a760814c247-959x535.jpg?rect=153,76,459,459&w=200&h=200&q=90&fit=crop&auto=format",
         "timestamp": 1793642820.0
-    },
-    {
-        "id": "685537b1ec",
-        "title_fa": "تهدید مستقیم کارمندان شرکت‌های مرتبط با اسرائیل",
-        "title_en": "US Iran War Live Updates: ‘Hands stained with blood’",
-        "summary": [
-            "مسئول فضای سایبری ج.ا کارمندان سه شرکت فناوری را به همکاری با صنایع نظامی اسرائیل متهم کرد.",
-            "او با لحنی تهدیدآمیز از کارمندان خواست فوراً شغل خود را ترک کنند.",
-            "این اظهارات نشان‌دهنده هراس امنیتی دستگاه‌های اطلاعاتی از نفوذ فناوری‌های پیشرفته است."
-        ],
-        "impact": "افزایش فشار امنیتی و ایجاد ارعاب برای متخصصان فناوری داخلی",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-mojtaba-khamenei-saudi-houthi-attack-strait-of-hormuz-oil-tanker-fire-latest-news/liveblog/135472561.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-mojtaba-khamenei-saudi-houthi-attack-strait-of-hormuz-oil-tanker-fire-latest-news/liveblog/135472561.cms",
-        "image": "https://static.toiimg.com/thumb/msid-135472561,width-1280,height-720,imgsize-1436478,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1793641020.0
     }
 ]
