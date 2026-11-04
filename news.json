@@ -180,6 +180,42 @@
         "timestamp": 1793735629.0
     },
     {
+        "id": "d589b8cf2a",
+        "title_fa": "نارضایتی رای‌دهندگان آمریکایی از وضعیت تورم و هزینه زندگی",
+        "title_en": "Americans who voted show frustrations with Trump and costs",
+        "summary": [
+            "نظرسنجی‌های ملی نشان می‌دهد قیمت بالای سوخت و مواد غذایی دغدغه اصلی رای‌دهندگان در انتخابات میان‌دوره‌ای است.",
+            "فشار گرانی بر زندگی شهروندان آمریکایی به عامل اصلی اعتراض به سیاست‌های فعلی تبدیل شده است."
+        ],
+        "impact": "فشار تورم می‌تواند معادلات سیاسی کنگره را به زیان حزب حاکم تغییر دهد.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/americans-who-voted-show-frustrations-with-trump-and-costs/ar-AA2gHu2z",
+        "clean_url": "https://www.msn.com/en-us/news/other/americans-who-voted-show-frustrations-with-trump-and-costs/ar-AA2gHu2z",
+        "image": "http://www.bing.com/th?id=ONUT.8ToYvo85qdskabCkSsJF5Q&pid=News",
+        "timestamp": 1793731920.0
+    },
+    {
+        "id": "f16c09de95",
+        "title_fa": "شکست نامزد جمهوری‌خواه در نیوجرسی به دلیل غیبت طولانی",
+        "title_en": "GOP Rep. Tom Kean loses re-election bid after monthslong absence from Congress this year",
+        "summary": [
+            "تام کین، نماینده جمهوری‌خواه، پس از ماه‌ها غیبت جنجالی به دلیل درمان افسردگی، کرسی خود را به رقیب دموکرات واگذار کرد.",
+            "این پیروزی یک دستاورد کلیدی برای دموکرات‌ها در مسیر کسب اکثریت مجلس نمایندگان آمریکا محسوب می‌شود."
+        ],
+        "impact": "از دست رفتن این کرسی ضربه محکمی به شانس جمهوری‌خواهان در حفظ کنترل مجلس است.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2026-election/gop-rep-tom-kean-loses-re-election-bid-monthslong-absence-rcna603376",
+        "clean_url": "https://www.nbcnews.com/politics/2026-election/gop-rep-tom-kean-loses-re-election-bid-monthslong-absence-rcna603376",
+        "image": "http://www.bing.com/th?id=ONUT.aPRn5LDbXlZGaxbkW_FfzA&pid=News",
+        "timestamp": 1793731140.0
+    },
+    {
         "id": "86a4657776",
         "title_fa": "بررسی اولیه آرای انتخابات میان‌دوره‌ای ۲۰۲۶ آمریکا",
         "title_en": "How America voted in the 2026 midterms: Early takeaways from the AP voter poll",
@@ -5431,42 +5467,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlZjTzdFYjAzeVItVzFIMWE4QXVhblR1SlVvMnFjLWxBczktR3o3V0kyMGRvMXFibUhmOUNoRGlQZ0dTanNhaUktM1dOeXBIcU9PS3Nyc01GbEhtX0t2VDZDckdQMGg5NGluZ3ZzOE11a3BYVGp4RHNEY243U0VUbGU5dk0",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793556172.0
-    },
-    {
-        "id": "bcde624598",
-        "title_fa": "طرح مشترک آمریکا و اسرائیل برای ضربه به تاسیسات اتمی",
-        "title_en": "Israel, US have a plan ready for third Iran war, but Tehran's hidden weapons pose major challenges",
-        "summary": [
-            "مقامات اسرائیل دونالد ترامپ را برای تعیین تکلیف تاسیسات اتمی کلیدی ایران تحت فشار گذاشته‌اند.",
-            "تهران این تاسیسات زیرزمینی را به عنوان دارایی راهبردی اصلی خود حفظ کرده و هشدار داده است.",
-            "سلاح‌های پنهان ایران چالش بزرگی برای هرگونه حمله احتمالی ایجاد کرده است."
-        ],
-        "impact": "آمادگی برای سناریوی جنگ سوم، ریسک امنیتی منطقه را به اوج رسانده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-us/news/other/israel-us-have-a-plan-ready-for-third-iran-war-but-tehrans-hidden-weapons-pose-major-challenges/ar-AA2gwYzA",
-        "clean_url": "https://www.msn.com/en-us/news/other/israel-us-have-a-plan-ready-for-third-iran-war-but-tehrans-hidden-weapons-pose-major-challenges/ar-AA2gwYzA",
-        "image": "https://s.yimg.com/lo/mysterio/api/278ec290df4336e18c65026c9305eb7049a871593765b316a16a49831810f589/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/jerusalem_post_articles_818/cd0493fa8e09e7b08436f029bbd803a5.jpg",
-        "timestamp": 1793556008.0
-    },
-    {
-        "id": "ff002f5f3e",
-        "title_fa": "آمادگی دیپلمات‌ها برای بدترین سناریو در مذاکرات تنگه هرمز",
-        "title_en": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
-        "summary": [
-            "مذاکره‌کنندگان بین‌المللی با بدبینی شدید به سراغ پرونده بازگشایی تنگه هرمز رفته‌اند.",
-            "تهدیدات مستمر جمهوری اسلامی و افزایش تنش‌های دریایی، دیپلماسی را در لبه پرتگاه قرار داده است."
-        ],
-        "impact": "ریسک بالای بسته شدن آبراه حیاتی انرژی و التهاب فوری در بازارهای جهانی",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm9oTmJpWHVKWmtiN2tLbXp6UFRJZUFXWnBIUFlCZE1fOVZ5QkYwOW1VRnAtOGl2MnhRRHpjcEtWeTl1d0JJMGpKdjEzZF9yUkNUdTFJTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm9oTmJpWHVKWmtiN2tLbXp6UFRJZUFXWnBIUFlCZE1fOVZ5QkYwOW1VRnAtOGl2MnhRRHpjcEtWeTl1d0JJMGpKdjEzZF9yUkNUdTFJTg",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793555460.0
     }
 ]
