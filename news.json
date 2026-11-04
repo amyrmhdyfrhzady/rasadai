@@ -270,6 +270,24 @@
         "timestamp": 1793774643.0
     },
     {
+        "id": "6e5aa9491d",
+        "title_fa": "بازگشت بخش تولید رومانی به فاز انقباضی",
+        "title_en": "Romania's manufacturing PMI returns to contraction in October as energy costs weigh on industry",
+        "summary": [
+            "شاخص مدیران خرید صنعت رومانی در اکتبر به زیر مرز بحرانی سقوط کرد.",
+            "هزینه‌های سرسام‌آور انرژی و جنگ‌های منطقه‌ای چهارمین سال متوالی افت تولید را رقم زده است."
+        ],
+        "impact": "فشار سنگین بر صنایع انرژی‌بر اروپای شرقی همزمان با تداوم بحران‌های ژئوپلیتیک.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "bne IntelliNews",
+        "url": "https://www.intellinews.com/romania-s-manufacturing-pmi-returns-to-contraction-in-october-as-energy-costs-weigh-on-industry-481348/",
+        "clean_url": "https://www.intellinews.com/romania-s-manufacturing-pmi-returns-to-contraction-in-october-as-energy-costs-weigh-on-industry-481348",
+        "image": "https://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/Screenshot_2026-11-04_at_09.58.39_Cropped.png",
+        "timestamp": 1793771220.0
+    },
+    {
         "id": "d508531674",
         "title_fa": "شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا",
         "title_en": "6 takeaways from Democrats' big wave on election night",
@@ -1122,6 +1140,24 @@
         "clean_url": "https://www.businessinsider.com/trump-midterm-voters-democrats-win-willing-pay-gas-iran-war-2026-11",
         "image": "http://www.bing.com/th?id=ONUT.bfZ3oAUxoEPn8ncymTJWdQ&pid=News",
         "timestamp": 1793746080.0
+    },
+    {
+        "id": "c9ed5b1dd9",
+        "title_fa": "محاسبات تهران روی کارت بازی ترامپ پس از انتخابات",
+        "title_en": "If Republicans Have a Bad Midterms, Iran Is Betting Trump Will Make Concessions to Get Out of a War That's Eating Into His Approval",
+        "summary": [
+            "حکومت ج.ا قمار بزرگی روی خستگی ترامپ از جنگ و افت محبوبیت او کرده است.",
+            "قطر میانجی‌گری را کلید زده اما فشارها از تل‌آویو برای ضربه نظامی پس از انتخابات ادامه دارد."
+        ],
+        "impact": "آزمون جدی اراده سیاسی در واشنگتن میان گزینه توافق یا درگیری نظامی سنگین.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "nationalsecurityjournal",
+        "url": "https://www.msn.com/en-us/news/other/if-republicans-have-a-bad-midterms-iran-is-betting-trump-will-make-concessions-to-get-out-of-a-war-that-s-eating-into-his-approval/ar-AA2gGtlE",
+        "clean_url": "https://www.msn.com/en-us/news/other/if-republicans-have-a-bad-midterms-iran-is-betting-trump-will-make-concessions-to-get-out-of-a-war-that-s-eating-into-his-approval/ar-AA2gGtlE",
+        "image": "https://nationalsecurityjournal.org/wp-content/uploads/2026/10/Donald-Trump-Near-the-White-House-Creative-Commons.jpg",
+        "timestamp": 1793745618.0
     },
     {
         "id": "4844b7deea",
@@ -5408,42 +5444,5 @@
         "clean_url": "https://www.sacbee.com/news/nation-world/national/article317898582.html",
         "image": "http://www.bing.com/th?id=ONUT.Go74rcDAIoXEKwY9MB1uaQ&pid=News",
         "timestamp": 1793650980.0
-    },
-    {
-        "id": "2e1953ae21",
-        "title_fa": "حمله هوایی و محدود آمریکا به جزیره قشم",
-        "title_en": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
-        "summary": [
-            "ارتش آمریکا مواضعی را در جزیره قشم هدف حمله قرار داد که واشنگتن آن را «اقدامی دفاعی» نامیده است.",
-            "مقام‌های آمریکایی اعلام کردند در آستانه انتخابات پیش‌رو، برنامه‌ای برای گسترش فوری دامنه جنگ ندارند."
-        ],
-        "impact": "تشدید بی‌سابقه تنش مستقیم نظامی در خلیج فارس و جهش قیمت نفت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
-        "clean_url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793649300.0
-    },
-    {
-        "id": "0a9377a149",
-        "title_fa": "ترامپ درگیری با ایران را جنگ نرم خواند",
-        "title_en": "Trump calls Iran conflict a 'soft war,' insists US holds the cards ahead of midterm elections",
-        "summary": [
-            "دونالد ترامپ در آستانه انتخابات میان‌دوره‌ای، درگیری با ایران را یک جنگ نرم و کم‌شدت توصیف کرد.",
-            "او مدعی شد ایالات متحده کنترل کامل اوضاع را در دست دارد و این تنش به یک جنگ فرایضی تبدیل نخواهد شد.",
-            "این اظهارات پس از حمله اخیر آمریکا به جزیره قشم در پاسخ به اقدام نظامی ایران مطرح شد."
-        ],
-        "impact": "تلاش کاخ سفید برای کنترل افکار عمومی و کاهش نگرانی‌ها درباره تنش نظامی با ایران پیش از انتخابات.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/media/trump-calls-iran-conflict-soft-war-insists-us-holds-cards-ahead-midterm-elections",
-        "clean_url": "https://www.foxnews.com/media/trump-calls-iran-conflict-soft-war-insists-us-holds-cards-ahead-midterm-elections",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/0e98f0a2-donald-trump.png",
-        "timestamp": 1793648820.0
     }
 ]
