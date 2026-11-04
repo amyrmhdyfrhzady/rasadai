@@ -198,6 +198,24 @@
         "timestamp": 1793734800.0
     },
     {
+        "id": "0466061d78",
+        "title_fa": "شکست جمهوری‌خواهان در حوزه انتخابیه کلیدی نیوجرسی",
+        "title_en": "Trump Bedminster golf course falls to Dems as Republicans lose key House seat",
+        "summary": [
+            "کرسی مهم منطقه هفتم نیوجرسی در مجلس نمایندگان به حزب دموکرات رسید.",
+            "این منطقه شامل زمین گلف دونالد ترامپ در بدمینستر است که شکست سنگینی برای جمهوری‌خواهان محسوب می‌شود."
+        ],
+        "impact": "تضعیف شکنندگی اکثریت جمهوری‌خواهان در مجلس نمایندگان آمریکا",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/trump-bedminster-golf-course-falls-dems-republicans-lose-key-house-seat",
+        "clean_url": "https://www.foxnews.com/politics/trump-bedminster-golf-course-falls-dems-republicans-lose-key-house-seat",
+        "image": "http://www.bing.com/th?id=ONUT.iwWuR-aP1Jbw2Y6IZZ4keg&pid=News",
+        "timestamp": 1793733420.0
+    },
+    {
         "id": "9c50d3a9bf",
         "title_fa": "شکست غیرمنتظره جمهوری‌خواهان در سناریوی سنای کارولینای جنوبی",
         "title_en": "Democrat Annie Andrews defeats GOP Sen. Darline Graham in South Carolina, a major upset",
@@ -5451,23 +5469,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQlF5a1R0ODBDVUI5QmhvSElocGlNSFc1ZTBveElYeENFakp1U0lnWi1saFRpd1o1U21KTU9WdDQyY0dOeG5LcnA3VWcwUnpoRGowbkhWNVZ3N2Y0WktmVXlHajk2VlBBQ2lyZXEtb24tZEFZS1lEalYtOUNQQmEzdGZ3ODZCOE5QZHh0UWdqU0VPVG4yd1hwMG55WUZIM3NDUk1kaUN1SkpQdXFReUZFNjNnc0xnUDk1U0FLOHdmOTkzSGvSAcoBQVVfeXFMTkFGTl9ISTZTampsd3VGMjZ6cUxjbVlTdVprWEUwWWZGSVV0MEE5a3VIMVNlbG8waWVmQTR4TDY2VUg2MjRiVUdOcWRvTS1rdmRmV2tfYWItZ0FBV2E1ODJ1SExDM01kemhkX3ZhUUtCNXpGVHFsNkdGd1JTVkNRMVBJWHRQdVE0c0NheU1NQ0dXd2lxRkR5QmNiZ2FyQk5UNndoNUwwQllVaFFuVnJyLTNpWEQxSWJxWUc3b3RPeG5EMnMzVE5vR0JMZw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793565291.0
-    },
-    {
-        "id": "30b47707b6",
-        "title_fa": "نگاه نگران جهان عرب به احتمال گسترش جنگ توسط نتانیاهو",
-        "title_en": "The Arab World Is Watching: Could Netanyahu Expand the Iran War Before Forming a Government?",
-        "summary": [
-            "کشورهای عربی تحرکات نظامی و تصمیمات احتمالی بنیامین نتانیاهو علیه تـئـوریسین‌های جـمـهوری اسـلـامی را با دقت زیر ذره‌بین برده‌اند.",
-            "احتمال دست زدن به اقدامات پیش دستانه نظامی پیش از تثبیت دولت جدید در تل‌آویو، معادلات منطقه را به شدت تحت تاثیر قرار داده است."
-        ],
-        "impact": "افزایش ریسک درگیری‌های منطقه‌ای و آماده‌باش ارتش‌های حاشیه خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Middle East Forum",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2ctSXgzRXJwT3ZOVTNDcVo1bG82S2lBZ3ppQk8wOG82cEN3cVByNUhVSTJvdGV2OEJkbXR5a1pfWDY3ODVnbUxTOEo3MTExbWpVYUpyUjZPVG8tbEROSUNtRFRueWYzSEk0ZUNFTWRVNkFiU21xNkNPWXBxdHJRWW1ObV9SRlM4ZXluLVV0MVlNQnM1OVQxSGtUZ3FxcTB1c1NvQUVtSEsyUzM3T2pMNDZVbERNdEpTcUdCNHRfOFJWYnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2ctSXgzRXJwT3ZOVTNDcVo1bG82S2lBZ3ppQk8wOG82cEN3cVByNUhVSTJvdGV2OEJkbXR5a1pfWDY3ODVnbUxTOEo3MTExbWpVYUpyUjZPVG8tbEROSUNtRFRueWYzSEk0ZUNFTWRVNkFiU21xNkNPWXBxdHJRWW1ObV9SRlM4ZXluLVV0MVlNQnM1OVQxSGtUZ3FxcTB1c1NvQUVtSEsyUzM3T2pMNDZVbERNdEpTcUdCNHRfOFJWYnc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793565090.0
     }
 ]
