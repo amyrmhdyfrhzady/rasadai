@@ -1,5 +1,23 @@
 [
     {
+        "id": "0d08f899f8",
+        "title_fa": "محدودیت‌های قدرت نظامی آمریکا در رویارویی با ج.ا",
+        "title_en": "Iran Is No Military Vacuum: Power, Deterrence And The Political Future Of The Middle East",
+        "summary": [
+            "فشار نظامی به تنهایی نمی‌تواند پیروزی سیاسی تضمین کند زیرا مقاومت و ناسیونالیسم مانع کارایی حداکثری زور می‌شود.",
+            "سیاست‌های فشار حداکثری با واکنش‌های متقابل مواجه شده و فرمول قدرت نظامی را در منطقه تغییر داده است."
+        ],
+        "impact": "هزینه بالای مداخلات نظامی واشنگتن را در برابر بازیگران منطقه‌ای افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Nigerian Voice",
+        "url": "https://www.thenigerianvoice.com/news/376112/iran-is-no-military-vacuum-power-deterrence-and-the-politi.html",
+        "clean_url": "https://www.thenigerianvoice.com/news/376112/iran-is-no-military-vacuum-power-deterrence-and-the-politi.html",
+        "image": "https://cdn.thenigerianvoice.com/images/content/114202632516_193711.jpg",
+        "timestamp": 1793802360.0
+    },
+    {
         "id": "289018f08f",
         "title_fa": "خوشحالی زودگذر ج.ا از چالش‌های ترامپ؛ فشارها تمام‌شدنی نیست",
         "title_en": "Joy in Iran over ‘Trump’s defeat’ in US midterm elections – but war is not over",
@@ -5426,23 +5444,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793664181.0
-    },
-    {
-        "id": "1894d6e365",
-        "title_fa": "تصمیم اتمی تتهران و سایه تهدیدهای ترامپ",
-        "title_en": "Iran's nuclear choice",
-        "summary": [
-            "دستیابی به سلاح هسته‌ای یک تصمیم سیاسی است که بر اساس هزینه‌های امنیت و خویشتن‌داری محاسبه می‌شود.",
-            "دونالد ترامپ با اشاره به گزینه عملیات نظامی، فشار حداکثری علیه برنامه اتمی را زنده نگه داشته است."
-        ],
-        "impact": "افزایش تنش‌های نظامی و تنگ‌تر شدن حلقه محاسبات امنیتی برای حاکمیت.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Pakistan Observer",
-        "url": "https://pakobserver.net/irans-nuclear-choice/",
-        "clean_url": "https://pakobserver.net/irans-nuclear-choice",
-        "image": "https://pakobserver.net/wp-content/uploads/2024/04/Prof-Jaspal.webp",
-        "timestamp": 1793664000.0
     }
 ]
