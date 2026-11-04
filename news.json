@@ -307,6 +307,24 @@
         "timestamp": 1793726640.0
     },
     {
+        "id": "81a8ab96bc",
+        "title_fa": "شکست نامزد حمایت‌شده توسط ترامپ در نیوهمپشایر",
+        "title_en": "Democrats score major Senate victory as Pappas defeats Trump-backed Republican in key battleground",
+        "summary": [
+            "کریس پاپاس از حزب دموکرات توانست رقیب جمهوری‌خواه خود را در یک رقابت حساس شکست دهد.",
+            "این پیروزی نقش مهمی در تلاش دموکرات‌ها برای حفظ اکثریت سنا دارد."
+        ],
+        "impact": "تغییر توازن قوا در سنا به نفع دموکرات‌ها و شکست ناکامی برای حامیان ترامپ.",
+        "tag": "انتخابات",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/democrats-score-major-senate-victory-as-pappas-defeats-trump-backed-republican-in-key-battleground/ar-AA2gHpYW",
+        "clean_url": "https://www.msn.com/en-us/news/other/democrats-score-major-senate-victory-as-pappas-defeats-trump-backed-republican-in-key-battleground/ar-AA2gHpYW",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793726616.0
+    },
+    {
         "id": "79b3ff1151",
         "title_fa": "شکست جمهوری‌خواهان در کارولینای شمالی و پیروزی دموکرات‌ها",
         "title_en": "Former Gov. Roy Cooper wins North Carolina’s Senate race, flipping the seat for Democrats",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-boosted-weapons-capabilities-have-caused-up-to-15b-in-us-base-damage-report/ar-AA2gxBUA",
         "image": "http://www.bing.com/th?id=ONUT.6Ig1PiEs3QIs2lG4lnBorA&pid=News",
         "timestamp": 1793544122.0
-    },
-    {
-        "id": "2a6ac24ea8",
-        "title_fa": "مخالفت نماینده کنگره با بودجه جنگ علیه ای-ران",
-        "title_en": "Khanna says he’d stop funding further US military actions in Iran",
-        "summary": [
-            "رو کانا، نماینده دموکرات کنگره، اعلام کرد مانع از تخصیص بودجه برای هرگونه اقدام نظامی تازه علیه ای-ران خواهد شد.",
-            "این موضع‌گیری بازتاب‌دهنده نارضایتی فزاینده رأی‌دهندگان آمریکایی از درگیر شدن در جنگ‌های فرسایشی جدید است."
-        ],
-        "impact": "افزایش فشار سیاسی بر دولت آمریکا برایavoid کردن درگیری نظامی مستقیم.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/khanna-says-he-d-stop-funding-further-us-military-actions-in-iran/ar-AA2gyfGN",
-        "clean_url": "https://www.msn.com/en-us/news/politics/khanna-says-he-d-stop-funding-further-us-military-actions-in-iran/ar-AA2gyfGN",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793544015.0
     }
 ]
