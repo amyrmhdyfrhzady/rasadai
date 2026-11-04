@@ -198,6 +198,24 @@
         "timestamp": 1793741814.0
     },
     {
+        "id": "71521c95c7",
+        "title_fa": "اعتراف ترامپ به تاثیر جنگ ایران بر شکست در انتخابات میهماندرم",
+        "title_en": "Trump acknowledges Iran role in Democratic sweep",
+        "summary": [
+            "دونالد ترامپ صراحتاً پذیرفت که جنگ در ایران نقش مهمی در ناکامی جمهوری‌خواهان در انتخابات میان‌دوره‌ای داشته است.",
+            "دموکرات‌ها با پیروزی در هر دو مجلس نمایندگان و سنا، آماده چالش جدی با برنامه‌های تقنینی ترامپ می‌شوند."
+        ],
+        "impact": "تغییر موازنه قدرت در کنگره آمریکا و افزایش فشار بر سیاست خارجی ترامپ",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/trump-acknowledges-iran-played-role-republican-midterm-losses-2026-11-04/",
+        "clean_url": "https://www.reuters.com/world/us/trump-acknowledges-iran-played-role-republican-midterm-losses-2026-11-04",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793741280.0
+    },
+    {
         "id": "684d0c547a",
         "title_fa": "ابهام در نتیجه انتخابات کنگره آمریکا",
         "title_en": "When will we know who controls Congress? It could be a while",
@@ -214,6 +232,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/when-will-we-know-who-controls-congress-it-could-be-a-while/ar-AA2gDNnV",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793741150.0
+    },
+    {
+        "id": "68ab45dfa0",
+        "title_fa": "شکست نماینده جمهوری‌خواه در آیووا به دلیل تبعات اقتصادی جنگ ایران",
+        "title_en": "Democrat Christina Bohannan unseats Iowa GOP Rep. Mariannette Miller-Meeks in third matchup",
+        "summary": [
+            "کریستینا بوحانان نامزد دمکرات موفق شد ماريانت میلر-میکس نماینده جمهوری‌خواه را در حوزه انتخابیه اول آیووا شکست دهد.",
+            "تعرفه‌های گمرکی و تنش‌های نظامی با ایران هزینه‌های بخش کشاورزی مثل کود و گازوئیل را بالا برده و پایگاه رای جمهوری‌خواهان را لرزاند."
+        ],
+        "impact": "از دست رفتن کرسی کلیدی جمهوری‌خواهان در مجلس به دلیل پیامدهای اقتصادی سیاست‌های تهاجمی",
+        "tag": "انتخابات",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/iowa-1st-district-results-christina-bohannan-mariannette-miller-meeks/",
+        "clean_url": "https://www.cbsnews.com/news/iowa-1st-district-results-christina-bohannan-mariannette-miller-meeks",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/a022818c-6e8b-4c58-b758-d9275fcabf70/thumbnail/1200x630/190c268743979208fd060af4e3ab775e/ap26229183694261.jpg",
+        "timestamp": 1793741100.0
     },
     {
         "id": "24c68bc128",
@@ -5424,43 +5460,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Wc0laNWlqbDNjT1NKWGxSYmprWk9pUm1oaXlYWmx5cXFsaFF4ZGtpby1qWDlyUUswV3dpQ3FfcW9NTXBlUjE1QXRUSURjazF1YllLbVViTUZxX3U3bmhZcHBBREZkRUxLNDhiVWNOVEpZV2FzR1RsRlNVVEdUZXc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793593862.0
-    },
-    {
-        "id": "7d6cc0fb71",
-        "title_fa": "اعتراف پزشکیان به عمق بحران‌ها و نیاز به همراهی مردم",
-        "title_en": "Pezeshkian says public participation can help Iran overcome threats",
-        "summary": [
-            "مسعود پزشکیان در دیدار با استانداران اعلام کرد که بقای سیستم به حضور مردم در صحنه وابسته است.",
-            "او با اشاره به تهدیدات دشمنان مدعی شد حتی با ترور هزاران نفر مثل او، حضور مردم مانع سقوط خواهد شد.",
-            "درخواست از مدیران استانی برای اتکا به ظرفیت‌های محلی بدون انتظار برای دستورالعمل‌های دولتی."
-        ],
-        "impact": "تلاش مقامات برای مهار بحران‌های داخلی با تکیه بر شعارهای حمایتی از مردم.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611028824",
-        "clean_url": "https://www.iranintl.com/en/202611028824",
-        "image": "http://www.bing.com/th?id=ONUT.gnF0K2I_St1dd7PPc66gWQ&pid=News",
-        "timestamp": 1793593500.0
-    },
-    {
-        "id": "f423ffe523",
-        "title_fa": "فشار حداکثری ترامپ با ضرب‌الاجل چند هفته‌ای",
-        "title_en": "Articole despre \"mutatie-cuba\"",
-        "summary": [
-            "دونالد ترامپ در جمع نزدیکانش از اجرای برنامه خود برای پایان دادن به درگیری با جـمهوری اسـلامی ظرف چهار تا شش هفته آینده خبر داده است.",
-            "همزمان با اوج‌گیری بحران‌های منطقه‌ای، دولت کوبا برای کاهش فشارهای اقتصادی اعلام آمادگی کرده که با کاخ سفید وارد میز مذاکره شود.",
-            "صدور صدها دستور اجرایی و تهدیدهای مکرر اقتصادی توسط ترامپ، معادلات امنیت جهانی را وارد فاز تازه‌ای کرده است."
-        ],
-        "impact": "تسریع فشارهای سیاسی و اقتصادی واشنگتن علیه تهران و متحدان منطقه‌ای‌اش.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/mutatie-cuba-pag5",
-        "clean_url": "https://ziare.com/cautare/mutatie-cuba-pag5",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1793593264.4473443
     }
 ]
