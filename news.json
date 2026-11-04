@@ -144,6 +144,42 @@
         "timestamp": 1793760930.0
     },
     {
+        "id": "41f87898ae",
+        "title_fa": "واکنش مثبت بازار سهام آمریکا به نتایج انتخابات کنگره",
+        "title_en": "US stock futures rise as investors weigh Democrats' midterm sweep",
+        "summary": [
+            "قراردادهای آتی سهام در ایالات متحده هم‌زمان با پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای با افزایش روبه‌رو شد.",
+            "سرمایه‌گذاران بازار مالی در حال ارزیابی سیاست‌های جدید اقتصادی برآمده از ترکیب جدید قدرت در کنگره هستند."
+        ],
+        "impact": "کاهش نوسانات اولیه بازار و بازگشت نسبی آرامش به بورس آمریکا پس از مشخص شدن نتایج انتخابات.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/money/markets/2026/11/04/stocks-wednesday-democrats-midterms/92607023007/",
+        "clean_url": "https://www.usatoday.com/story/money/markets/2026/11/04/stocks-wednesday-democrats-midterms/92607023007",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793759940.0
+    },
+    {
+        "id": "2322ddf980",
+        "title_fa": "پیامدهای کلیدی انتخابات میان‌دوره‌ای ۲۰۲۶ بر اقتصاد و فناوری",
+        "title_en": "Winners and losers from the 2026 midterm elections",
+        "summary": [
+            "نتایج انتخابات میان‌دوره‌ای آمریکا تاثیرات عمیقی بر مالیات میلیاردرها، قوانین هوش مصنوعی و مراکز داده گذاشته است.",
+            "تغییرات سیاسی جدید می‌تواند قوانین نظارتی بر فناوری‌های نوین و سیاست‌های مالیاتی کلان را دگرگون کند."
+        ],
+        "impact": "بازار مالی و شرکت‌های بزرگ فناوری خود را با قوانین جدید کنگره تطبیق خواهند داد.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Insider on MSN",
+        "url": "https://www.msn.com/en-us/news/other/winners-and-losers-from-the-2026-midterm-elections/ar-AA2gJjni",
+        "clean_url": "https://www.msn.com/en-us/news/other/winners-and-losers-from-the-2026-midterm-elections/ar-AA2gJjni",
+        "image": "http://www.bing.com/th?id=ONUT.R8wxb2Hv5e9uUZ66UG8iTA&pid=News",
+        "timestamp": 1793759134.0
+    },
+    {
         "id": "208691d4a8",
         "title_fa": "نوسان قیمت سوخت در ایالات متحده",
         "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
@@ -178,6 +214,24 @@
         "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/04/congress-house-democrats-trump-win-midterms/92597606007",
         "image": "http://www.bing.com/th?id=ONUT.P0bl4XbOSh1nglpCKMm1xA&pid=News",
         "timestamp": 1793758020.0
+    },
+    {
+        "id": "101d134c4a",
+        "title_fa": "پیروزی‌های انتخاباتی با تکیه بر نفوذ سیاسی ترامپ",
+        "title_en": "Trump told voters, 'Pretend I'm on the ballot.' They did.",
+        "summary": [
+            "دونالد ترامپ با فراخوان به رأی‌دهندگان برای دیدن نام خود در برگه‌های رأی، تاثیر مستقیم خود را بر انتخابات میان‌دوره‌ای گذاشت.",
+            "این پیروزی نشان داد پایگاه رأی حامیان ترامپ همچنان سازمان‌یافته و حرف اول را در معادلات حزبی می‌زند."
+        ],
+        "impact": "تقویت جایگاه سیاسی ترامپ در ساختار حزب جمهوری‌خواه برای رقابت‌های آتی را به همراه دارد.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-told-voters-pretend-i-m-on-the-ballot-they-did/ar-AA2gJKPH",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-told-voters-pretend-i-m-on-the-ballot-they-did/ar-AA2gJKPH",
+        "image": "http://www.bing.com/th?id=ONUT.KOcf38Jv9VwBrTooUbRm2A&pid=News",
+        "timestamp": 1793757726.0
     },
     {
         "id": "acb2cf04cf",
@@ -958,6 +1012,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0QzbXFhSUp2Q1dpMWRuUTZMTWJrMmIxSml0VktRZGM4cnlMZGx2d0dMNjNjcDBhYVVjRWxOUU1rUWZZNXZ6Y1UxQXdBWUxBel9NRFdUck51YzMyTHlXeGxtNmZCeXlGbzZzNnRMSGZUYWdvc1JyTUp5clNPam9YVjR1bmlOVjBVTDZxTG5tWnhmOVE5M2NpejZ0d3RlZlV1V1dRMWRreTFvbHAyVUhVZ2pJYlphLVN6",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793738367.0
+    },
+    {
+        "id": "896dc9516e",
+        "title_fa": "پیروزی دموکرات‌ها در کنگره آمریکا تحت تاثیر نارضایتی اقتصادی",
+        "title_en": "Democrats gain control of U.S. House, Senate with decisive wins",
+        "summary": [
+            "انتخابات میان‌دوره‌ای آمریکا با شکست جمهوری‌خواهان و پیروزی دموکرات‌ها در مجلس نمایندگان و سنا به پایان رسید.",
+            "گرانی شدید، مسائل مربوط به جنگ و نارضایتی عمومی از عملکرد دولت، مهم‌ترین دلایل تغییر موازنه قدرت در کنگره بود."
+        ],
+        "impact": "تغییر موازنه قدرت در واشنگتن می‌تواند مسیر سیاست خارجی و تصمیمات اقتصادی دولت را با چالش جدی روبه‌رو کند.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "cleveland.com",
+        "url": "https://www.cleveland.com/election/2026/11/democrats-gain-control-of-us-house-senate-with-decisive-wins.html",
+        "clean_url": "https://www.cleveland.com/election/2026/11/democrats-gain-control-of-us-house-senate-with-decisive-wins.html",
+        "image": "http://www.bing.com/th?id=ONUT.RLaU4_wP1WZAsPHT_GYssg&pid=News",
+        "timestamp": 1793737920.0
     },
     {
         "id": "6d72596ab1",
@@ -5379,79 +5451,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUxTSWgwNWw1QWtEVjYxTk5pQTFYSW5ZYzV4YkhiUHJxZFk3eTU1WEo0R2puX3R6UEhRc1pQc0ZUUWU0VmZLZjU3aXI3NGZYYkZ1ZTRVb05JekVqeWRNRFdWYkxpY2lyc2tPR202cENVUjd5YmN6ei11X1RSMFVseEUtak5CRnVZS3FjRjhLMC1mNzBTdURpQXlzMA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793626859.0
-    },
-    {
-        "id": "57df5bb2c2",
-        "title_fa": "حمله مسلحانه به مقر لشکر فاطمیون در سیستان و بلوچستان",
-        "title_en": "Seven Iran-backed Afghan fighters reported killed in southeast attack",
-        "summary": [
-            "مردان مسلح به یک مدرسه نظامی شده متعلق به نیروهای افغانستانی وابسته به سپـاه در شهرستان کنارک حمله کردند.",
-            "در این درگیری حداقل هفت نفر از اعضای لشکر فاطمیون کشته و چند نفر دیگر زخمی شدند.",
-            "گروه‌های حقوق بشری منطقه گزارش دادند مهاجمان با موتورسیکلت و خودرو وارد محل شده بودند و یک مهاجم نیز کشته شد."
-        ],
-        "impact": "آسیب‌پذیری پایگاه‌های گروه‌های نیابتی در داخل خاک ای-ران حتی در مناطق مرزی دوردست.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611026283",
-        "clean_url": "https://www.iranintl.com/en/202611026283",
-        "image": "http://www.bing.com/th?id=ONUT.k9vAg5pbAAdUiUqDShVz8g&pid=News",
-        "timestamp": 1793624400.0
-    },
-    {
-        "id": "e668429381",
-        "title_fa": "ترامپ: ضربات محکمی به تهران زدیم و عقب نشستیم",
-        "title_en": "Trump says US hit Iran hard a few times, mostly hangs back in conflict",
-        "summary": [
-            "دونالد ترامپ در یک پادکست اعلام کرد که ایالات متحده در تقابل با جـ.ـمـ.ـهـ.ـوری اسـ.ـلا‌مـ.ـی تنها چند ضربه سنگین وارد کرده و بیشتر تماشاگر بوده است.",
-            "او بار دیگر بر خط قرمز واشنگتن یعنی ممانعت از دستیابی این حکومت به تسلیحات اتمی تأکید کرد.",
-            "با وجود تردید در صداقت تهران در مذاکرات، اولویت کنونی کاخ سفید فعلاً مسیر دیپلماسی است و نه اقدام نظامی فوری."
-        ],
-        "impact": "حفظ سایه تهدید نظامی همراه با باز نگه داشتن درهای دیپلماسی موقت توسط واشنگتن.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2211939",
-        "clean_url": "https://tass.com/world/2211939",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793623980.0
-    },
-    {
-        "id": "df94469c93",
-        "title_fa": "سایه جنگ با هشدارهای ترامپ بر سر کشورهای حوزه خلیج فارس",
-        "title_en": "Trump's Iran threat renews Gulf fears of a war it didn't choose",
-        "summary": [
-            "مواضع سخت‌گیرانه دونالد ترامپ در قبال تهران، زنگ خطر را برای کشورهای حاشیه خلیج فارس به صدا درآورده است.",
-            "کشورهای منطقه به شدت نگران کشته شدن منافع خود در یک درگیری ناخواسته میان ایالات متحده و ج.ه.وری ا.س.ل.ا.م.ی هستند."
-        ],
-        "impact": "افزایش ریسک امنیتی و اقتصادی برای سرمایه‌گذاری در منطقه خلیج فارس",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTJwa2lIdnVGZzJIX3NYSDNzLU9mUTU5MjVBeGFmbmNOR1NiQ1I0a0J6OGdnd2VhbHd5ZWZMakp3NzlwcFJ6OVZDcmc4T0FSQ2lORnltSk5md0psZ19nd3ZtRmE2Vlg3bHdBY3JQV3hMbko5NlFJY2dRVVRsTkJ3ajZVOFQ3clU1eHFBQnFUZUg1SV9takV2bVllN2ZVNHRuanMzLWh5REkzaU9vYWw4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTJwa2lIdnVGZzJIX3NYSDNzLU9mUTU5MjVBeGFmbmNOR1NiQ1I0a0J6OGdnd2VhbHd5ZWZMakp3NzlwcFJ6OVZDcmc4T0FSQ2lORnltSk5md0psZ19nd3ZtRmE2Vlg3bHdBY3JQV3hMbko5NlFJY2dRVVRsTkJ3ajZVOFQ3clU1eHFBQnFUZUg1SV9takV2bVllN2ZVNHRuanMzLWh5REkzaU9vYWw4",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793622813.0
-    },
-    {
-        "id": "31c58dbc20",
-        "title_fa": "افت قیمت نفت همزمان با خبر گفتگوها درباره مناقشه ایران و آمریکا",
-        "title_en": "Oil futures: Crude rows back after talks to resolve US-Iran conflict",
-        "summary": [
-            "بازار نفت به اخبار مربوط به مذاکرات برای حل و فصل تنش‌ها واکنش منفی نشان داد.",
-            "فیمت نفت خام پس از انتشار خبر گفتگوها با کاهش روبرو شد."
-        ],
-        "impact": "کاهش نسبی قیمت نفت به دلیل فروکش کردن موقت نگرانی‌های ژئوپلیتیک.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Quantum Commodity Intelligence",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLW9HRTJTVkdJRDIxTmJtb1Nlb3JiREd1ZVd6djJ6dGxlQmVRWW5EeU1keGx6V0t0UzhWZENmam81dDBSNTJkaEpTQ1NTa3lSU3NVdHJUWnFmMVVESmxFUW5aWEg1OWVXeGlQMEVMNUtoZV9KbjlRQVZHc0RxYnZhcFp6RkpjNjZWekdWLVduVmFCOW5Wb0JtOWo3U2N2UlNtaFF0dm85NDBPRVJhN3R3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLW9HRTJTVkdJRDIxTmJtb1Nlb3JiREd1ZVd6djJ6dGxlQmVRWW5EeU1keGx6V0t0UzhWZENmam81dDBSNTJkaEpTQ1NTa3lSU3NVdHJUWnFmMVVESmxFUW5aWEg1OWVXeGlQMEVMNUtoZV9KbjlRQVZHc0RxYnZhcFp6RkpjNjZWekdWLVduVmFCOW5Wb0JtOWo3U2N2UlNtaFF0dm85NDBPRVJhN3R3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793622735.0
     }
 ]
