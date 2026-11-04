@@ -324,6 +324,24 @@
         "timestamp": 1793771220.0
     },
     {
+        "id": "c61a1691f4",
+        "title_fa": "چالش‌های سیاسی و احتمال استیضاح مهره‌های کلیدی کابینه آمریکا",
+        "title_en": "Pete Hegseth stares down likely impeachment vote. And he's not the only one",
+        "summary": [
+            "موانع قانونی و سیاسی پیش روی وزیر دفاع پیشنهادی دولت ترامپ برای کسب تاییدیه و عبور از بحران‌های احتمالی.",
+            "تنش درون حزبی در واشنگتن همزمان با تلاش دولت جدید برای پاکسازی بدنه‌های مدیریتی."
+        ],
+        "impact": "این تحولات می‌تواند تمرکز تیم سیاست خارجی واشنگتن را به چالش‌های داخلی معطوف کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/11/04/impeachment-accusations-hegseth-trump-mcmahon-kennedy/92461205007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/04/impeachment-accusations-hegseth-trump-mcmahon-kennedy/92461205007",
+        "image": "http://www.bing.com/th?id=ONUT.oKTW2GpwAYc9wjKSyIB8Ww&pid=News",
+        "timestamp": 1793767560.0
+    },
+    {
         "id": "30d5927877",
         "title_fa": "تحلیل گزارش‌های انتخابات محلی ایالت اوهایو آمریکا",
         "title_en": "4 reasons why Amy Acton won the Ohio governor's race",
@@ -5426,23 +5444,5 @@
         "clean_url": "https://www.pilotonline.com/2026/11/03/2026-election-midterm-results-updates",
         "image": "https://www.pilotonline.com/wp-content/uploads/2026/11/Election_2_26_Early_Voting_Alaska_41752-1.jpg?w=2000&h=1333",
         "timestamp": 1793655240.0
-    },
-    {
-        "id": "87d2fa7e6c",
-        "title_fa": "پایان دوران مک‌کانل و تغییرات بزرگ در انتخابات کنتاکی",
-        "title_en": "Live election results for Kentucky's U.S. Senate and House seats in the 2026 midterms",
-        "summary": [
-            "میچ مک‌کانل پس از چهار دهه از سنا کنار می‌رود تا صحنه سیاسی کنتاکی با تغییرات چشمگیری روبرو شود.",
-            "نامزدهای حمایت‌شده از سوی ترامپ توانسته‌اند چهره‌های سنتی را در درون حزب جمهوری‌خواه کنار بزنند."
-        ],
-        "impact": "این تغییرات نشان‌دهنده دست بالا داشتن حامیان ترامپ در بازسازی بدنه حزب جمهوری‌خواه است.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "WVXU",
-        "url": "https://www.wvxu.org/politics/2026-11-03/live-election-results-kentucky-senate-house-midterms-barr-booker-gallrein",
-        "clean_url": "https://www.wvxu.org/politics/2026-11-03/live-election-results-kentucky-senate-house-midterms-barr-booker-gallrein",
-        "image": "https://npr.brightspotcdn.com/dims4/default/c9268dc/2147483647/strip/true/crop/2880x1512+0+204/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2Ff0%2Ffd798af34fe4b5375c668dfc687d%2Fgallrein-strange-barr-booker.png",
-        "timestamp": 1793654040.0
     }
 ]
