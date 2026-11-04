@@ -198,6 +198,24 @@
         "timestamp": 1793741814.0
     },
     {
+        "id": "2fb5d22394",
+        "title_fa": "شکست جمهوری‌خواهان در انتخابات سنای ایالت آیووا",
+        "title_en": "Democrat Josh Turek wins Iowa Senate race",
+        "summary": [
+            "نامزد دموکرات توانست کرسی کلیدی ایالت آیووا را از رقیب جمهوری‌خواه پس بگیرد.",
+            "این پیروزی گامی مهم برای دموکرات‌ها در تلاش برای به دست گرفتن کنترل مجلس سنا محسوب می‌شود."
+        ],
+        "impact": "تقویت موقعیت دموکرات‌ها در ساختار سیاسی محلی و تاثیرگذاری بر موازنه قدرت در سنا.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/democrat-josh-turek-wins-iowa-senate-race/ar-AA2gIx6F",
+        "clean_url": "https://www.msn.com/en-us/news/other/democrat-josh-turek-wins-iowa-senate-race/ar-AA2gIx6F",
+        "image": "http://www.bing.com/th?id=ONUT.tFO0ZPnCUeec-hQRmFCDaQ&pid=News",
+        "timestamp": 1793739631.0
+    },
+    {
         "id": "8301b9e04a",
         "title_fa": "پیروزی جمهوری‌خواهان در انتخابات حوزه چهارم آیووا",
         "title_en": "Chris McGowan handily wins Iowa's 4th District over Dave Dawson",
@@ -5446,24 +5464,5 @@
         "clean_url": "https://www.iranintl.com/en/202611021920",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/af97cee548129374ca6c6e039b3380b56027140a-1280x853.png?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1793589300.0
-    },
-    {
-        "id": "fa797809ac",
-        "title_fa": "بن‌بست مذاکرات قطر و فشار نتانیاهو برای حملات مجدد",
-        "title_en": "Iran says \"ball is in the U.S. court\" on any deal to end the war",
-        "summary": [
-            "مذاکرات غیرمستقیم در دوحه بدون نتیجه ملموس پایان یافت؛ تهران ادعا می‌کند توپ در زمین آمریکا است اما ترامپ هم‌زمان از گزینه توافق و پایان دادن به جنگ سخن می‌گوید.",
-            "بنیامین نتانیاهو در گفتگو با ترامپ به دنبال چراغ سبز برای ازسرگیری حملات سنگین است، در حالی که واشنگتن فعلاً فرصت کوتاهی به دیپلماسی داده است.",
-            "هم‌زمان با خفه شدن مجاری دیپلماتیک و سایه سنگین جنگ، ج*مهوری اس*لامی در داخل با بحران شدید کمبود گاز و فروپاشی زیرساخت‌ها در آستانه زمستان روبروست."
-        ],
-        "impact": "افزایش ریسک صعودی شدن درگیری‌های نظامی در صورت شکست کامل دیپلماسی طی روزهای آینده.",
-        "tag": "مذاکرات",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/push-u-iran-deal-punctuated-090903840.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/push-u-iran-deal-punctuated-090903840.html",
-        "image": "http://www.bing.com/th?id=ONUT.1SP-Aj-ROl9cEtDNrz2cjw&pid=News",
-        "timestamp": 1793588400.0
     }
 ]
