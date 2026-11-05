@@ -1,5 +1,23 @@
 [
     {
+        "id": "806edf9c95",
+        "title_fa": "تلاش مسکو برای بازگشت ورزشکاران روس به میادین جهانی",
+        "title_en": "'Only matter of time' before Russian athletes return to int'l arena — diplomat",
+        "summary": [
+            "ماریا زاخارووا بازگشت ورزشکاران روسیه به مسابقات بین‌المللی را اجتناب‌ناپذیر می‌داند.",
+            "روسیه با تفکیک غرب از آنچه «اکثریت جهانی» می‌نامد، به دنبال مشروعیت‌بخشی به حضور ورزشکاران خود است."
+        ],
+        "impact": "این اظهارات تلاشی برای شکستن انزوای ورزشی روسیه در مجامع بین‌المللی است.",
+        "tag": "ورزشی",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2213517",
+        "clean_url": "https://tass.com/politics/2213517",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793900220.0
+    },
+    {
         "id": "917852d5c5",
         "title_fa": "ایجاد کانال‌های پنهان برای کاهش تنش میان تهران و واشنگتن",
         "title_en": "Mediators Set Up De-Escalation Channels Ahead of US-Iran Talks, Source Says",
@@ -293,6 +311,25 @@
         "clean_url": "https://www.economist.com/briefing/2026/11/05/what-will-a-lame-duck-donald-trump-get-up-to-overseas",
         "image": "https://www.economist.com/content-assets/images/20261107_FBD001.jpg",
         "timestamp": 1793872860.0
+    },
+    {
+        "id": "4aaf6538b0",
+        "title_fa": "ادای احترام نماینده پوتین به نیروی نظامی کشته شده در اوکراین",
+        "title_en": "Dmitriev pays tribute to memory of Russian field engineer Vedernikov at White House",
+        "summary": [
+            "کیریل دیمیتریف در رویدادی در کاخ سفید، یاد یک مهندس نظامی روس را که در منطقه خرسون کشته شده، گرامی داشت.",
+            "این اقدام در حضور ملانیا ترامپ، نشان‌دهنده تلاش برای تغییر روایت جنگ در فضای دیپلماتیک واشنگتن است.",
+            "کشته شدن این فرد در حین عملیات مین‌روبی با پهپاد اوکراینی، نمادی از درگیری‌های فرسایشی در جبهه‌های جنگ است."
+        ],
+        "impact": "استفاده از تریبون‌های دیپلماتیک برای عادی‌سازی حضور نظامی روسیه در اوکراین.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2213521",
+        "clean_url": "https://tass.com/politics/2213521",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793872020.0
     },
     {
         "id": "e07676ce25",
@@ -5427,41 +5464,5 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/sullivan-what-the-2026-midterms-could-mean-for-energy-investors/ar-AA2gGb8Y",
         "image": "http://www.bing.com/th?id=ONUT.ll9ArFnaDiQdfmioAmIG_A&pid=News",
         "timestamp": 1793703691.0
-    },
-    {
-        "id": "7e876859a9",
-        "title_fa": "اعتراض رای‌دهندگان خلیج سانفرانسیسکو به بحران گرانی و مالیات‌ها",
-        "title_en": "Bay Area voters express frustrations with cost of living, leadership as they cast ballots",
-        "summary": [
-            "رای‌دهندگان کالیفرنیا همزمان با انتخابات میانه دوره‌ای، نارضایتی عمیق خود را از جهش قیمت مسکن، سوخت و مواد غذایی نشان دادند.",
-            "شهروندان به دلیل نابرابری شدید میان رشد هزینه‌های زندگی و درآمدها، خواهان تغییرات فوری در سیاست‌های اقتصادی شدند."
-        ],
-        "impact": "فشار تورمی و اعتراض به هزینه‌های زندگی، معادلات رای‌دهندگان را به نفع طرح‌های مالیاتی ثروتمندان تغییر داد.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Press Democrat",
-        "url": "https://www.pressdemocrat.com/2026/11/03/bay-area-voters-express-frustrations-with-cost-of-living-leadership-as-they-cast-ballots/",
-        "clean_url": "https://www.pressdemocrat.com/2026/11/03/bay-area-voters-express-frustrations-with-cost-of-living-leadership-as-they-cast-ballots",
-        "image": "http://www.bing.com/th?id=ONUT.pebHw5NE75io2J-DVNRLnA&pid=News",
-        "timestamp": 1793703660.0
-    },
-    {
-        "id": "534c707b18",
-        "title_fa": "اقتصاد و ایران در صدر دغدغه‌های رای‌دهندگان آمریکایی",
-        "title_en": "Affordability, Iran, rank among top issues as voters head to the polls for the midterms",
-        "summary": [
-            "هزینه‌های زندگی و معیشت، دغدغه اصلی نزدیک به نیمی از رای‌دهندگان در انتخابات میان‌دوره است.",
-            "موضوعاتی مثل سیاست خارجی در قبال ایران در کنار مسائل اقتصادی نقش تعیین‌کننده‌ای در صندوق‌های رای دارد."
-        ],
-        "impact": "نتایج این انتخابات می‌تواند جهت‌گیری دولت آمریکا در اعمال فشارهای اقتصادی و دیپلماتیک را تغییر دهد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-us/news/other/affordability-iran-rank-among-top-issues-as-voters-head-to-the-polls-for-the-midterms/ar-AA2gGba5",
-        "clean_url": "https://www.msn.com/en-us/news/other/affordability-iran-rank-among-top-issues-as-voters-head-to-the-polls-for-the-midterms/ar-AA2gGba5",
-        "image": "http://www.bing.com/th?id=ONUT.l629qo2aQrlsswcoY-bPSA&pid=News",
-        "timestamp": 1793703540.0
     }
 ]
