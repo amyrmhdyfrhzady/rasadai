@@ -387,6 +387,25 @@
         "timestamp": 1793852623.0
     },
     {
+        "id": "059d86eb8a",
+        "title_fa": "شوک نرخ بهره در لندن؛ فاکتور سنگین جنگ با تهران",
+        "title_en": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+        "summary": [
+            "بانک مرکزی انگلیس بعد از هشت ماه درگیری نظامی در خاورمیانه، بالاخره برای مهار تورم نرخ بهره رو به ۴ درصد رسوند.",
+            "پیش‌بینی تورم ۵ درصدی ثابت می‌کنه که هزینه‌های انرژی و اختلال در تجارت جهانی، اقتصاد بریتانیا رو به زانو درآورده.",
+            "اختلاف نظر در بانک مرکزی نشون میده که لندن بین دوراهی رکود اقتصادی و مهار تورم ناشی از تنش با ج.م.ه.و.ر.ی ا.س.ل.ا.م.ی گیر کرده."
+        ],
+        "impact": "افزایش فشار معیشتی بر شهروندان بریتانیایی و تشدید نارضایتی‌ها از تداوم هزینه‌های جنگ.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+        "clean_url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+        "image": "http://www.bing.com/th?id=ONUT.d7otEUBECt5gNCunzHESng&pid=News",
+        "timestamp": 1793851260.0
+    },
+    {
         "id": "3c6c5de6ce",
         "title_fa": "تحلیل اشتباه تهران از نتایج انتخابات آمریکا",
         "title_en": "Iran is the biggest winner of Tuesday’s election",
@@ -5439,24 +5458,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/a-big-win-for-donald-trump-iran-s-economy-is-being-destroyed-thanks-to-inflation-and-getting-weaker-every-day/ar-AA2gFUtA",
         "image": "http://www.bing.com/th?id=ONUT.WWlU5pc3TB0RuxTWjb1mFA&pid=News",
         "timestamp": 1793695711.0
-    },
-    {
-        "id": "3792ab0f92",
-        "title_fa": "مخالفت ارتش لبنان با هماهنگی نظامی مستقیم با اسرائیل",
-        "title_en": "Lebanese Army Rejects Direct Coordination with Israel Before Withdrawal from South",
-        "summary": [
-            "ارتش لبنان درخواست تل‌آویو برای هماهنگی مستقیم نظامی پیش از عقب‌نشینی نیروهای اسرائیلی را قاطعانه رد کرد.",
-            "واشنگتن تلاش کرده بود مکانیزم میانجی‌گری خود را با ارتباط مستقیم جایگزین کند که با بن‌بست مواجه شد.",
-            "فرماندهی لبنان نگران است این اقدام به پایگاه مردمی این نهاد در جنوب لطمه بزند و بحران سیاسی داخلی ایجاد کند."
-        ],
-        "impact": "تنش در مرزهای شمالی افزایش یافته و کانال‌های دیپلماتیک آمریکا برای حل مناقشه به دردسر افتاده‌اند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "الشرق الأوسط",
-        "url": "https://english.aawsat.com/arab-world/5336960-lebanese-army-rejects-direct-coordination-israel-withdrawal-south",
-        "clean_url": "https://english.aawsat.com/arab-world/5336960-lebanese-army-rejects-direct-coordination-israel-withdrawal-south",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1862492.png.webp?VersionId=lRu3afsUubBLQC.TmRHBkikl2luWzDfW",
-        "timestamp": 1793695020.0
     }
 ]
