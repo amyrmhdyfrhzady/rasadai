@@ -166,6 +166,25 @@
         "timestamp": 1793834431.0
     },
     {
+        "id": "2d4d4ae62f",
+        "title_fa": "شانه خالی کردن حزب‌الله از حضور در یمن زیر فشار بیروت",
+        "title_en": "Hezbollah denies involvement in war in Yemen on Houthi side",
+        "summary": [
+            "تکذیب رسمی حضور مستشاران حزب‌الله در یمن، موضعی دفاعی برای کاهش فشارهای سنگین دیپلماتیک بر دولت بیروت است.",
+            "هشدارهای اخیر نخست‌وزیر لبنان نشان می‌دهد رفتارهای منطقه‌ای حزب‌الله، منافع ملی این کشور را به شدت به خطر انداخته است.",
+            "ادعای عدم دخالت در حالی مطرح می‌شود که اسناد میدانی سال‌ها از هم‌پوشانی و آموزش نیروهای حوثی توسط این گروه خبر می‌دهند."
+        ],
+        "impact": "تلاش برای فرار از مسئولیت حقوقی و سیاسی دخالت‌های منطقه‌ای بدون تغییر در واقعیت میدانی.",
+        "tag": "نیابتی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2213025",
+        "clean_url": "https://tass.com/world/2213025",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793833680.0
+    },
+    {
         "id": "a71eacd582",
         "title_fa": "انتقاد از جنگ با ای...ران عامل شکست در انتخابات",
         "title_en": "Vance: GOP lost midterms due to Iran war, voters want ‘change’ in Israel relationship",
@@ -5431,23 +5450,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/the-unlikely-figure-in-the-contentious-michigan-senate-race/ar-AA2gFcaw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793682000.0
-    },
-    {
-        "id": "7780e8ac0b",
-        "title_fa": "اعتراف دساندیس به تبعات سنگین جنگ با ای-ران روی جمهوری‌خواهان",
-        "title_en": "Florida Gov. explains why Republicans could lose the midterms: ‘You’re gaslighting them’",
-        "summary": [
-            "ران دساندیس در گفتگویی تاکید کرد که درگیری‌های نظامی با ای-ران هزینه سیاسی سنگینی برای حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای ۲۰۲۶ دارد.",
-            "او سیاست‌های کنونی را مصداق فریب افکار عمومی دانست و هشدار داد که این روند پایگاه رای حزب را فراری می‌دهد."
-        ],
-        "impact": "هزینه بالای دخالت‌های نظامی روی سبد رای جمهوری‌خواهان در انتخابات پیش رو تاثیر مستقیم دارد.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "MassLive",
-        "url": "https://www.masslive.com/politics/2026/11/florida-gov-explains-why-republicans-could-lose-the-midterms-youre-gaslighting-them.html",
-        "clean_url": "https://www.masslive.com/politics/2026/11/florida-gov-explains-why-republicans-could-lose-the-midterms-youre-gaslighting-them.html",
-        "image": "http://www.bing.com/th?id=ONUT.ZdN4cJ4gGWPYFS_pNsBnWQ&pid=News",
-        "timestamp": 1793681940.0
     }
 ]
