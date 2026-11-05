@@ -1,5 +1,24 @@
 [
     {
+        "id": "3eb5aa88d0",
+        "title_fa": "تلاش عراقی برای خرید زمان با دیپلماسی منطقه‌ای",
+        "title_en": "Iran's FM discusses 'latest progress' in diplomatic efforts with Saudi, Qatari counterparts",
+        "summary": [
+            "تماس‌های مکرر عراقی با ریاض و دوحه، تلاشی برای کاهش فشار در سایه تهدیدهای نظامی است.",
+            "جمهوری اسلامی به دنبال ایجاد یک سپر دیپلماتیک برای جلوگیری از انزوای کامل در منطقه است.",
+            "این رایزنی‌ها نشان‌دهنده هراس از تغییر معادلات امنیتی پس از تحولات اخیر است."
+        ],
+        "impact": "تلاش برای خرید زمان جهت بازسازی بازدارندگی فروپاشیده در برابر فشارهای خارجی.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-discusses-latest-progress-in-diplomatic-efforts-with-saudi-qatari-counterparts/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-discusses-latest-progress-in-diplomatic-efforts-with-saudi-qatari-counterparts",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26290375953411-e1792240551949.jpg",
+        "timestamp": 1793886180.0
+    },
+    {
         "id": "e9e5fdbf9b",
         "title_fa": "تغییر موازنه قدرت؛ پایان دوران نتانیاهو و توافق با ج.ا",
         "title_en": "Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu",
@@ -5439,24 +5458,5 @@
         "clean_url": "https://english.aawsat.com/arab-world/5336960-lebanese-army-rejects-direct-coordination-israel-withdrawal-south",
         "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1862492.png.webp?VersionId=lRu3afsUubBLQC.TmRHBkikl2luWzDfW",
         "timestamp": 1793695020.0
-    },
-    {
-        "id": "97f9b3452f",
-        "title_fa": "آمادگی جنگی و چراغ سبز تهران به مذاکره با آمریکا",
-        "title_en": "Iran warns it is 'ready for battle' but keeps door open for talks after US strikes",
-        "summary": [
-            "مسعود پزشکیان اعلام کرد هیچ‌کس از بازگشت جنگ سود نمی‌برد و دولت به‌دنبال حل بحران از طریق گفتگو است.",
-            "محمدباقر قالیباف از آمادگی کامل نظامی و انگشت روی ماشه خبر داد و هم‌زمان از اختیارات جدید برای مذاکره گفت.",
-            "این تحولات پس از حملات منتسب به آمریکا به جزیره قشم در تنگه هرمز رخ داد."
-        ],
-        "impact": "نوسان شدید در بازار ارز و دلار همزمان با ارسال سیگنال‌های دوگانه جنگ و مذاکره از سوی مقامات ارشد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-warns-it-is-ready-for-battle-but-keeps-door-open-for-talks-after-us-strikes-article-14068043.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-warns-it-is-ready-for-battle-but-keeps-door-open-for-talks-after-us-strikes-article-14068043.html",
-        "image": "http://www.bing.com/th?id=ONUT.ObPWyGsu79Irjw4TaCOnRg&pid=News",
-        "timestamp": 1793694960.0
     }
 ]
