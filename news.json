@@ -423,6 +423,24 @@
         "timestamp": 1793884260.0
     },
     {
+        "id": "32cd6cf844",
+        "title_fa": "گزارش آژانس انرژی اتمی درباره سطوح مرجع تشخیصی در پزشکی هسته‌ای",
+        "title_en": "Diagnostic Reference Levels in Nuclear Medicine: Practical Approaches and Lessons Learned from France",
+        "summary": [
+            "آژانس انرژی اتمی بر استفاده از سطوح مرجع تشخیصی برای بهینه‌سازی ایمنی و حفاظت در پزشکی هسته‌ای تاکید کرد.",
+            "این روش‌ها به مراکز درمانی کمک می‌کند تا فعالیت‌های معمول و استاندارد را ارزیابی و کنترل کنند."
+        ],
+        "impact": "بهبود استانداردهای ایمنی و بهداشتی در مراکز پزشکی هسته‌ای بر اساس تجربیات فرانسه",
+        "tag": "هسته‌ای",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "iaea.org",
+        "url": "https://www.iaea.org/resources/webinar/diagnostic-reference-levels-in-nuclear-medicine-practical-approaches-and-lessons-learned-from-france",
+        "clean_url": "https://www.iaea.org/resources/webinar/diagnostic-reference-levels-in-nuclear-medicine-practical-approaches-and-lessons-learned-from-france",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793883540.0
+    },
+    {
         "id": "e9e5fdbf9b",
         "title_fa": "تغییر موازنه قدرت؛ پایان دوران نتانیاهو و توافق با ج.ا",
         "title_en": "Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu",
@@ -5452,23 +5470,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-s-election-day-bombshell-on-israel-points-to-historic-shift-in-us-politics/ar-AA2gHev8",
         "image": "http://www.bing.com/th?id=ONUT.sJ-0o8a2fqZaAyavemxCEg&pid=News",
         "timestamp": 1793711978.0
-    },
-    {
-        "id": "2c4923d959",
-        "title_fa": "تلاش حکومتداران برای اثرگذاری بر انتخابات آمریکا",
-        "title_en": "Iran is betting on the midterm elections. It could lose big",
-        "summary": [
-            "مقام‌های جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با طولانی کردن روند مذاکرات، قصد دارند در نتایج انتخابات میان‌دوره‌ای آمریکا تاثیر بگذارند.",
-            "این قمار خطرناک تهران روی تحولات سیاسی واشنگتن ممکن است با شکست سنگینی روبه‌رو شود."
-        ],
-        "impact": "شکست احتمالی این قمار سیاسی، فشارها بر تهران را به شدت افزایش می‌دهد.",
-        "tag": "انتخابات",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-is-betting-on-the-midterm-elections-it-could-lose-big/ar-AA2gHbXm",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-betting-on-the-midterm-elections-it-could-lose-big/ar-AA2gHbXm",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793711872.0
     }
 ]
