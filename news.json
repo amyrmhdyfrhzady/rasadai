@@ -240,6 +240,24 @@
         "timestamp": 1793838060.0
     },
     {
+        "id": "19804be625",
+        "title_fa": "اعتراف مقام ارشد آمریکا به هزینه سنگین جنگ با ای-ران",
+        "title_en": "Vance blames Iran war for election losses as Trump weighs next move against Tehran",
+        "summary": [
+            "معاون رئیس‌جمهور آمریکا جنگ با ای-ران را عامل اصلی شکست سنگین حزب متبوعش در انتخابات میان‌دوره و از دست رفتن کنگره دانست.",
+            "ترامپ ضمن تایید تلویحی این ارزیابی، جهش قیمت بنزین را پیامد این درگیری خواند اما از تصمیم خود برای حمله دفاع کرد."
+        ],
+        "impact": "هزینه‌های گزاف درگیری با تهران اکنون به یک شکاف سیاسی داخلی در واشنگتن تبدیل شده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611059696",
+        "clean_url": "https://www.iranintl.com/en/202611059696",
+        "image": "http://www.bing.com/th?id=ONUT._sNfx4QN9NBey5RHQhywhg&pid=News",
+        "timestamp": 1793836680.0
+    },
+    {
         "id": "6ab300f35e",
         "title_fa": "صدور حکم اعدام برای فعال فضای مجازی توسط قاضی صلواتی",
         "title_en": "Former Bush press secretary disputes Vance, blames Iran ceasefire for GOP losses",
@@ -5434,24 +5452,5 @@
         "clean_url": "https://www.iranintl.com/en/202611031499",
         "image": "http://www.bing.com/th?id=ONUT.buDDkdd2g6kZIuq5P3FHZw&pid=News",
         "timestamp": 1793687760.0
-    },
-    {
-        "id": "18f9274c1b",
-        "title_fa": "آرایش جنگی ۱۱ کشور در لهستان؛ تمرین مدیریت آسمان اوکراین",
-        "title_en": "Total of 2,800 troops from 11 countries to join Coalition of the Willing drills in Poland",
-        "summary": [
-            "انگلیس و فرانسه با فرماندهی این رزمایش، عملاً در حال تست شبکه فرماندهی برای دخالت‌های احتمالی آینده در اوکراین هستند.",
-            "شبیه‌سازی امنیت پروازهای تجاری در آسمان اوکراین، سیگنالی صریح به مسکو است که غرب برای دوران پساجنگ و بازپس‌گیری حریم هوایی برنامه‌های جدی دارد.",
-            "حضور ترکیه در کنار اعضای ناتو در این مانور، نشان‌دهنده پیچیدگی ائتلاف‌های نظامی علیه روسیه در مرزهای شرقی اروپا است."
-        ],
-        "impact": "تقویت زیرساخت‌های لجستیکی ناتو در مرزهای شرقی و آمادگی برای سناریوهای مداخله‌جویانه.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/defense/2212585",
-        "clean_url": "https://tass.com/defense/2212585",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793687160.0
     }
 ]
