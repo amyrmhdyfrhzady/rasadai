@@ -18,6 +18,24 @@
         "timestamp": 1793848260.0
     },
     {
+        "id": "0bebd066fb",
+        "title_fa": "جی دی ونس و چالش توازن در سیاست خارجی ترامپ",
+        "title_en": "Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war",
+        "summary": [
+            "ونس با انتقاد از رویکرد جنگ‌طلبانه در خاورمیانه، سعی دارد سیاست انزواگرایانه ترامپ را بازتعریف کند.",
+            "تلاش برای مقصر جلوه دادن ج.ا در بی‌ثباتی‌های اخیر، بخشی از استراتژی انتخاباتی برای جذب رای‌دهندگان مخالف جنگ است."
+        ],
+        "impact": "تغییر احتمالی در اولویت‌های نظامی آمریکا و کاهش تمایل به درگیری مستقیم در منطقه.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRE8zWTktbFNWZGxHdlhMZk4xYTM1VUZMaHI1WGd6ck50M2N6anJ5N1pFOWlVZUtlN3hIWmdKMXlRWC10Z3FrSzFWWlFCSEFjT2VuQUZpeGpZSWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRE8zWTktbFNWZGxHdlhMZk4xYTM1VUZMaHI1WGd6ck50M2N6anJ5N1pFOWlVZUtlN3hIWmdKMXlRWC10Z3FrSzFWWlFCSEFjT2VuQUZpeGpZSWs",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793846020.0
+    },
+    {
         "id": "fea718660b",
         "title_fa": "هشدار تهران درباره شعله‌ور شدن جنگ: هیچ‌کس سود نمی‌برد",
         "title_en": "Tehran says reignited conflict would benefit no one",
@@ -5430,23 +5448,5 @@
         "clean_url": "https://www.msn.com/en-au/news/australia/iran-releases-footage-of-vast-tunnel-network-lined-with-missile-launchers/ar-AA2gEX1N",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793681273.0
-    },
-    {
-        "id": "56c972628e",
-        "title_fa": "آخرین سخنرانی انتخاباتی ترامپ با تمرکز بر اقتصاد و مرزها",
-        "title_en": "Trump just gave his final pitch to voters: ‘We’re hot now’",
-        "summary": [
-            "ترامپ در جمع هوادارانش از دستاوردهای اقتصادی و کنترل مرزها دفاع کرد.",
-            "او پیش‌بینی کرد که جمهوری‌خواهان نتایج بهتری از انتظارات در انتخابات کسب خواهند کرد."
-        ],
-        "impact": "تقویت روحیه پایگاه رأی‌دهندگان جمهوری‌خواه در آستانه برگزاری انتخابات.",
-        "tag": "انتخابات آمریکا",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/11/trump-just-gave-his-final-pitch-to-voters-were-hot-now.html",
-        "clean_url": "https://www.mlive.com/politics/2026/11/trump-just-gave-his-final-pitch-to-voters-were-hot-now.html",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793681160.0
     }
 ]
