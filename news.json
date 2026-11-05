@@ -1,5 +1,23 @@
 [
     {
+        "id": "3702cdd12b",
+        "title_fa": "ابهام در استراتژی جنگی آمریکا پس از انتخابات میان‌دوره‌ای",
+        "title_en": "Is there a time limit on the Iran war now that US midterm elections are over?",
+        "summary": [
+            "پایان انتخابات میان‌دوره‌ای آمریکا و گمانه‌زنی‌ها درباره تغییر در سیاست‌های تقابلی",
+            "پرسش‌های جدی درباره وجود ضرب‌الاجل برای اقدامات نظامی علیه ج.ا"
+        ],
+        "impact": "افزایش بلاتکلیفی در بازارهای مالی و محاسبات امنیتی منطقه",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGdZYUJiQUU4cFNFckZkUjJEX0tGWWZmSHNRYlZoN1Fpb3hzVkY5dTdiSlRvdTI0ZnZoZmN1cHVwRzlUOGpfcVFIVm54SDFHSFRNaTFYdTc3Tk9Xa2hMNmFadzV3bkJ6Vnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGdZYUJiQUU4cFNFckZkUjJEX0tGWWZmSHNRYlZoN1Fpb3hzVkY5dTdiSlRvdTI0ZnZoZmN1cHVwRzlUOGpfcVFIVm54SDFHSFRNaTFYdTc3Tk9Xa2hMNmFadzV3bkJ6Vnc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793904386.0
+    },
+    {
         "id": "806edf9c95",
         "title_fa": "تلاش مسکو برای بازگشت ورزشکاران روس به میادین جهانی",
         "title_en": "'Only matter of time' before Russian athletes return to int'l arena — diplomat",
@@ -532,6 +550,25 @@
         "clean_url": "https://www.africanews.com/2026/11/05/iranians-hold-anti-us-and-anti-israel-rallies-across-the-country",
         "image": "https://images.euronews.com/articles/stories/09/98/06/51/1024x538_cmsv2_6f8def56-ce0a-5de1-a68e-4f96b4bfba96-9980651.jpg",
         "timestamp": 1793860740.0
+    },
+    {
+        "id": "df1d9a10c1",
+        "title_fa": "تلاش قطر برای بازگرداندن ج.ا به میز مذاکرات هسته‌ای",
+        "title_en": "Report: Iran may resume nuclear negotiations",
+        "summary": [
+            "میانجی‌گری فعال قطر در تهران و دوحه برای شکستن بن‌بست هسته‌ای با واشنگتن",
+            "نقش کلیدی جی‌دی ونس در پیشبرد این دیپلماسی برای جلوگیری از درگیری نظامی مستقیم",
+            "تغییر موضع ج.ا از مقاومت به بررسی پیشنهادهای جدید پس از هفته‌ها تنش"
+        ],
+        "impact": "احتمال کاهش تنش‌های نظامی در کوتاه‌مدت از طریق بازگشت به میز مذاکره",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Israel National News",
+        "url": "https://www.israelnationalnews.com/news/435738",
+        "clean_url": "https://www.israelnationalnews.com/news/435738",
+        "image": "https://2.a7.org/files/pictures/000/1193063.jpg",
+        "timestamp": 1793860500.0
     },
     {
         "id": "bc7b59923a",
@@ -5428,41 +5465,5 @@
         "clean_url": "https://www.forbes.com/sites/zacharyfolk/2026/11/03/gas-prices-hit-election-day-record-now-415-per-gallon",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793704500.0
-    },
-    {
-        "id": "f71d96ad35",
-        "title_fa": "تحقیقات قضایی فرانسه درباره جنایت جنگی ارتش اسرائیل در لبنان",
-        "title_en": "French Judges Probe War Crimes Complaint against Israeli Army in Lebanon",
-        "summary": [
-            "دادگاه‌های فرانسه رسماً پرونده شکایت از ارتش اسرائیل به دلیل بمباران یک ساختمان مسکونی در لبنان را کلید زدند.",
-            "این پرونده با پیگیری حقوقی یک هنرمند فرانسوی-لبنانی به جریان افتاده و ابعاد جدیدی از مسئولیت‌پذیری بین‌المللی را باز می‌کند."
-        ],
-        "impact": "افزایش فشارهای حقوقی و دیپلماتیک بر تل‌آویو در مجامع اروپایی",
-        "tag": "بین‌المللی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Asharq Alawsat (English)",
-        "url": "https://www.msn.com/en-ae/news/other/french-judges-probe-war-crimes-complaint-against-israeli-army-in-lebanon/ar-AA2gFAYZ",
-        "clean_url": "https://www.msn.com/en-ae/news/other/french-judges-probe-war-crimes-complaint-against-israeli-army-in-lebanon/ar-AA2gFAYZ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793703848.0
-    },
-    {
-        "id": "d7c9c258c8",
-        "title_fa": "پایان رقابت انتخاباتی در اوهایو",
-        "title_en": "Acton and Ramaswamy make final case to voters on Election Day",
-        "summary": [
-            "نامزدهای دو حزب دمکرات و جمهوری‌خواه آخرین تلاش‌ها را برای جلب آرای رای‌دهندگان در اوهایو انجام دادند.",
-            "این رقابت فرمانداری یکی از پرحاشیه‌ترین و دو قطبی‌ترین انتخابات‌های اخیر این ایالت بوده است."
-        ],
-        "impact": "تعیین‌کننده جهت‌گیری سیاسی این ایالت کلیدی در ساختار قدرت آمریکا.",
-        "tag": "انتخابات",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/03/politics/video/amy-acton-vivek-ramaswamy-final-case-to-voters-election-day-digvid",
-        "clean_url": "https://www.cnn.com/2026/11/03/politics/video/amy-acton-vivek-ramaswamy-final-case-to-voters-election-day-digvid",
-        "image": "http://www.bing.com/th?id=ONUT.FZfY2jVwJ-hpA9ndl7q9Zw&pid=News",
-        "timestamp": 1793703840.0
     }
 ]
