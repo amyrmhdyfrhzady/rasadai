@@ -294,6 +294,24 @@
         "timestamp": 1793886180.0
     },
     {
+        "id": "974fc9a202",
+        "title_fa": "پیام روشن رای‌دهندگان آمریکایی علیه جنگ با ج.ا",
+        "title_en": "How to read the Iran war tea leaves",
+        "summary": [
+            "جی‌دی ونس تاکید کرد که نتایج انتخابات میان‌دوره‌ای، مخالفت صریح مردم آمریکا با درگیری نظامی مستقیم با ج.ا را نشان می‌دهد.",
+            "تغییر جهت‌گیری در بدنه رای‌دهندگان، دست دولت را برای ماجراجویی‌های نظامی در خاورمیانه می‌بندد."
+        ],
+        "impact": "کاهش احتمال ورود مستقیم آمریکا به جنگ نظامی با ج.ا در کوتاه‌مدت.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Politico",
+        "url": "https://www.politico.com/newsletters/national-security-daily/2026/11/05/how-to-read-the-iran-war-tea-leaves-01152317",
+        "clean_url": "https://www.politico.com/newsletters/national-security-daily/2026/11/05/how-to-read-the-iran-war-tea-leaves-01152317",
+        "image": "http://www.bing.com/th?id=ONUT.kocucvxY1kA5igniiSfSrQ&pid=News",
+        "timestamp": 1793884260.0
+    },
+    {
         "id": "e9e5fdbf9b",
         "title_fa": "تغییر موازنه قدرت؛ پایان دوران نتانیاهو و توافق با ج.ا",
         "title_en": "Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu",
@@ -5450,23 +5468,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/why-trump-only-has-a-few-weeks-to-restart-iran-war-and-what-he-could-target-with-new-strikes/ar-AA2gGnvA",
         "image": "http://www.bing.com/th?id=ONUT.rQ776L5MnhFWGrLEhdtNDw&pid=News",
         "timestamp": 1793709725.0
-    },
-    {
-        "id": "2860b06702",
-        "title_fa": "ترامپ و بررسی گزینه های بعدی در قبال ایران",
-        "title_en": "Donald Trump weighs next move against Iran after the midterms: 'We'll see'",
-        "summary": [
-            "دونالد ترامپ در مصاحبه با فاکس بیزینس از بررسی برنامه های خود علیه جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی خبر داد.",
-            "او با جمله کوتاه «خواهیم دید» نشان داد که تیمش رویکرد مشخصی را برای روزهای آینده تدوین می‌کند."
-        ],
-        "impact": "بازار ارز و سرمایه در ایران به شدت به این سیگنال‌های واشنگتن واکنش نشان می‌دهد.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Fox Business Network",
-        "url": "https://www.foxbusiness.com/video/6407861482112",
-        "clean_url": "https://www.foxbusiness.com/video/6407861482112",
-        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cacdd318-4c21-4aeb-a9e0-2dff71a2bb37/205b79db-23f3-4e8c-810e-4b93af37cf49/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-        "timestamp": 1793709120.0
     }
 ]
