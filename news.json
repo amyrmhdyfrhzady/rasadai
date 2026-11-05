@@ -255,6 +255,25 @@
         "timestamp": 1793808003.0
     },
     {
+        "id": "ef78e48ae2",
+        "title_fa": "خیز هکیم جفریز برای ریاست مجلس نمایندگان آمریکا",
+        "title_en": "US House minority leader Jeffries announces run speaker",
+        "summary": [
+            "رهبر اقلیت دموکرات رسماً نامزدی خود را برای ریاست مجلس نمایندگان اعلام کرد.",
+            "کنترل هر دو مجلس کنگره توسط دموکرات‌ها در انتخابات میان‌دوره‌ای، مسیر او را برای تبدیل شدن به اولین رئیس سیاه‌پوست تاریخ مجلس هموار کرده است.",
+            "جفریز وعده داده که کنگره را به عنوان بازوی نظارتی مستقل در برابر قوه مجریه فعال کند."
+        ],
+        "impact": "تغییر موازنه قدرت در واشنگتن و محدود شدن اختیارات اجرایی دولت.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2213027",
+        "clean_url": "https://tass.com/world/2213027",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793806320.0
+    },
+    {
         "id": "10adf307d3",
         "title_fa": "صدور حکم اعدام برای یک فعال فضای مجازی در تهران",
         "title_en": "Iran hangs two more men over Isfahan's January protests",
@@ -326,6 +345,24 @@
         "clean_url": "https://jewishpostandnews.ca/world-views/doha-talks-iran-extortion-hormuz-risk",
         "image": "https://jewishpostandnews.ca/wp-content/uploads/2026/11/Anti-IR_Iran_demonstration_Sofia_2026-02-15_-_12-1000x600.jpg",
         "timestamp": 1793802420.0
+    },
+    {
+        "id": "7f577617e4",
+        "title_fa": "فاصله‌گذاری معاون ترامپ با جنگ خاورمیانه",
+        "title_en": "Inside Vance's midterms post blaming Iran war",
+        "summary": [
+            "جی‌دی ونس در اولین موضع‌گیری پس از انتخابات میان‌دوره‌ای تلاش کرد خود را از پیامدهای جنگی که رییس‌جمهور حامی آن بوده جدا کند.",
+            "این شکاف درون‌گروهی نشان‌دهنده هزینه بالای سیاسی تنش‌ها برای دولت آمریکا است."
+        ],
+        "impact": "افزایش اختلاف‌نظرها در بدنه حاکمیت آمریکا درباره هزینه‌های دخالت نظامی.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Politico on MSN",
+        "url": "https://www.msn.com/en-us/news/other/inside-vance-s-midterms-post-blaming-iran-war/ar-AA2gLy2z",
+        "clean_url": "https://www.msn.com/en-us/news/other/inside-vance-s-midterms-post-blaming-iran-war/ar-AA2gLy2z",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793802393.0
     },
     {
         "id": "0d08f899f8",
@@ -5410,42 +5447,5 @@
         "clean_url": "https://www.scientificamerican.com/article/the-2026-midterms-are-today-heres-what-scientists-say-is-at-stake",
         "image": "https://static.scientificamerican.com/dam/asset/b4239dc2-5b4e-4e42-b664-aaf46249d796/Capitol-Building.jpg?m=1793661579.604&w=1200",
         "timestamp": 1793678400.0
-    },
-    {
-        "id": "73793c19f4",
-        "title_fa": "رقابت فشرده بر سر کرسی کلیدی کنگره در میشیگان",
-        "title_en": "Christina Hines, Michael Bouchard vie to replace John James in Michigan's 10th congressional district",
-        "summary": [
-            "نامزد مورد حمایت ترامپ در برابر رقیب دموکرات برای تصاحب کرسی دهم میشیگان صف‌آرایی کرده است.",
-            "تغییرات مرزبندی‌های انتخاباتی شانس حزب رقیب را برای پیروزی در این منطقه سنتی افزایش داده است."
-        ],
-        "impact": "نتیجه این رقابت می‌تواند سهم عمده‌ای در تعیین اکثریت آینده مجلس نمایندگان داشته باشد.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/detroit/news/christina-hines-michael-bouchard-michigan-10th-congressional-district-results/",
-        "clean_url": "https://www.cbsnews.com/detroit/news/christina-hines-michael-bouchard-michigan-10th-congressional-district-results",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/fff89e02-b33b-466b-b752-86e7f4b7559e/thumbnail/1200x630/912a8f31884a92320382ef6dc470f7a8/story-thumbnail-2.png",
-        "timestamp": 1793678100.0
-    },
-    {
-        "id": "2ee7829e66",
-        "title_fa": "حمله مستقیم نظامی آمریکا به جزیره‌ای در ایران در آستانه انتخابات",
-        "title_en": "US launches strikes on Iranian island ahead of election",
-        "summary": [
-            "آمریکا در اقدامی بی‌سابقه و درست پیش از انتخابات، مواضعی را در یکی از جزایر ایران هدف حمله مستقیم قرار داد.",
-            "این اقدام، تغییر فاز واشنگتن از پاسخ به گروه‌های نیابتی به درگیری مستقیم در قلمرو ایران را رقم زد.",
-            "زمان‌بندی این حمله نشان می‌دهد واشنگتن تصمیم گرفته معادلات پیرامونی را پیش از گام‌های بعدی تثبیت کند."
-        ],
-        "impact": "جهش فوری خطر درگیری تمام‌عیار و شوک سنگین به بازار ارز و طلا.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793677148.0
     }
 ]
