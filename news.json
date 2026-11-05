@@ -18,6 +18,25 @@
         "timestamp": 1793874403.0
     },
     {
+        "id": "542eb93c75",
+        "title_fa": "باج‌خواهی نجومی حوثی‌ها از عربستان برای توقف حملات",
+        "title_en": "Saudis say they downed ballistic missile as Houthis demand $51 billion in exchange for ceasefire",
+        "summary": [
+            "گروه نیابتی حوثی‌ها در ازای آتش‌بس، درخواست ۵۱ میلیارد دلار پول نقد از ریاض کرده‌اند.",
+            "این گروه به دنبال به رسمیت شناخته شدن به عنوان حاکم رسمی یمن توسط عربستان است.",
+            "پدافند سعودی موفق شد یک فروند موشک بالستیک شلیک شده را رهگیری و منهدم کند."
+        ],
+        "impact": "افزایش تنش‌های مرزی در یمن و تلاش نیابتی‌های ایران برای باج‌گیری مالی و سیاسی از ریاض.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/saudis-say-they-downed-ballistic-missile-as-houthis-demand-51-billion-in-exchange-for-ceasefire/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudis-say-they-downed-ballistic-missile-as-houthis-demand-51-billion-in-exchange-for-ceasefire",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793873340.0
+    },
+    {
         "id": "873f70ae13",
         "title_fa": "تنگنای سیاسی ترامپ در پرونده تقابل با ج.ا",
         "title_en": "Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack",
@@ -5438,23 +5457,5 @@
         "clean_url": "https://www.orlandosentinel.com/2026/11/03/michigan-senate-midterms-el-sayed-rogers",
         "image": "http://www.bing.com/th?id=ONUT.Q00UwG2S9TJrg-dv7FPdfA&pid=News",
         "timestamp": 1793691540.0
-    },
-    {
-        "id": "fea7ec56b6",
-        "title_fa": "افت سهام اپل و نوسان در وال‌استریت",
-        "title_en": "Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow",
-        "summary": [
-            "سهام اپل همزمان با افت کلی بازار سقوط کرد اما رشد شرکت‌های بزرگ تکنولوژی خسارت‌ها را جبران کرد.",
-            "نگرانی از رشد بیش از حد قیمت سهام هوش مصنوعی بازار را ناپایدار کرده است."
-        ],
-        "impact": "تداوم نوسانات در بازارهای مالی آمریکا به دلیل حباب بخش هوش مصنوعی.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/11/03/apple-drops-with-most-of-wall-street-tech-gains/",
-        "clean_url": "https://www.chicagotribune.com/2026/11/03/apple-drops-with-most-of-wall-street-tech-gains",
-        "image": "http://www.bing.com/th?id=ONUT.GGM8AKHJ85tchrz2MQANEQ&pid=News",
-        "timestamp": 1793691420.0
     }
 ]
