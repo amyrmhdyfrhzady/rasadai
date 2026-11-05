@@ -459,6 +459,25 @@
         "timestamp": 1793848260.0
     },
     {
+        "id": "6e272d7b0c",
+        "title_fa": "پنهان‌کاری ارتش آمریکا از حملات پنهان به مواضع ای-ران",
+        "title_en": "Iran strikes kept quiet during midterm homestretch set off worries on transparency",
+        "summary": [
+            "مقام‌های ارتش آمریکا چندین حمله پنهانی را در آستانه انتخابات میان‌ددوره‌ای علیه مواضع ای-ران در تنگه هرمز و جزیره قشم انجام داده‌اند.",
+            "دونالد ترامپ این حملات را جزئی خوانده، اما این اقدام مغایر با وعده‌های قبلی او مبنی بر عدم درگیری پیش از انتخابات است.",
+            "سکوت پنتاگون درباره این عملیات‌ها نگرانی‌های جدی درباره پنهان‌کاری دولت و شفافیت اطلاعاتی ایجاد کرده است."
+        ],
+        "impact": "افزایش تنش‌های نظامی پنهان در خلیج فارس و بی‌اعتمادی عمومی به روایت‌های رسمی دولت آمریکا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-strikes-kept-quiet-during-110000717.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-strikes-kept-quiet-during-110000717.html",
+        "image": "http://www.bing.com/th?id=ONUT.kjADZ7XoqRC_v4aGNSPqiw&pid=News",
+        "timestamp": 1793847600.0
+    },
+    {
         "id": "0bebd066fb",
         "title_fa": "جی دی ونس و چالش توازن در سیاست خارجی ترامپ",
         "title_en": "Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war",
@@ -5439,23 +5458,5 @@
         "clean_url": "https://www.moneycontrol.com/world/iran-warns-it-is-ready-for-battle-but-keeps-door-open-for-talks-after-us-strikes-article-14068043.html",
         "image": "http://www.bing.com/th?id=ONUT.ObPWyGsu79Irjw4TaCOnRg&pid=News",
         "timestamp": 1793694960.0
-    },
-    {
-        "id": "5335371779",
-        "title_fa": "استقرار ناظران انتخابات وزارت دادگستری آمریکا در مناطق دموکرات",
-        "title_en": "DOJ election monitors overwhelmingly deployed to Democratic locales",
-        "summary": [
-            "وزارت دادگستری آمریکا ناظران خود را به طور گسترده در مناطق تحت کنترل دموکرات‌ها مستقر کرده است.",
-            "این اقدام بحث‌های تازه‌ای درباره احتمال جانبداری سیاسی در نظارت بر فرآیند رای‌گیری ایجاد کرده است."
-        ],
-        "impact": "افزایش تنش‌های سیاسی میان حزب دموکرات و جمهوری‌خواه در آستانه انتخابات.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/doj-election-monitors-overwhelmingly-deployed-to-democratic-locales/ar-AA2gGh4Z",
-        "clean_url": "https://www.msn.com/en-us/news/other/doj-election-monitors-overwhelmingly-deployed-to-democratic-locales/ar-AA2gGh4Z",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793694788.0
     }
 ]
