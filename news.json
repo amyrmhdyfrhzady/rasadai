@@ -406,6 +406,25 @@
         "timestamp": 1793851260.0
     },
     {
+        "id": "1c74fbd490",
+        "title_fa": "تحلیل شکست استراتژی فشار حداکثری ترامپ علیه ج.ا",
+        "title_en": "Opinion",
+        "summary": [
+            "تلاش‌های تبلیغاتی سپاه برای جهت‌دهی به آرای آمریکایی‌ها علیه ترامپ، بخشی از جنگ روانی برای فرار از فشار تحریم‌ها بود.",
+            "ترامپ با وجود شعارهای تند، در عمل نتوانست ضربه نهایی را به ساختار قدرت در تهران وارد کند و درگیر یک فرسایش طولانی شد.",
+            "سیاست «توافق‌خواهی» ترامپ در دوره قبل، عملاً به ج.ا فرصت بازسازی و بقا داد."
+        ],
+        "impact": "تداوم تنش‌های فرسایشی بدون دستیابی به تغییر ساختاری در تهران، هزینه‌های امنیتی آمریکا را افزایش داده است.",
+        "tag": "سیاست خارجی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/opinion-iran-biggest-winner-tuesday-120000984.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/opinion-iran-biggest-winner-tuesday-120000984.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/78784cc94f8afdb9ba8fd93ad10474cb5ca9bd9b991ab742bc59a7f5d78b9afd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Ff13f577b6209ebb7f6fad99db1521229.jpg",
+        "timestamp": 1793851200.0
+    },
+    {
         "id": "3c6c5de6ce",
         "title_fa": "تحلیل اشتباه تهران از نتایج انتخابات آمریکا",
         "title_en": "Iran is the biggest winner of Tuesday’s election",
@@ -5440,23 +5459,5 @@
         "clean_url": "https://www.usatoday.com/story/news/nation/2026/11/03/florida-plane-crash-investigation-victims-identified/92581398007",
         "image": "http://www.bing.com/th?id=ONUT.4ITqjG1F2nOVckfdvuZ-RQ&pid=News",
         "timestamp": 1793695860.0
-    },
-    {
-        "id": "d3957fdb45",
-        "title_fa": "فشار حداکثری ترامپ اقتصاد ایران را به زانو درآورد",
-        "title_en": "A big win for Donald Trump: Iran’s economy is being destroyed thanks to inflation and getting weaker every day",
-        "summary": [
-            "تورم سالانه در ایران به مرز نود درصد رسیده است",
-            "تشدید تحریم‌های نفتی و ارزی واشنگتن شریان‌های مالی حکومت را هدف گرفته است"
-        ],
-        "impact": "انهدام تدریجی بنیه اقتصادی و کاهش شدید ارزش پول ملی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/a-big-win-for-donald-trump-iran-s-economy-is-being-destroyed-thanks-to-inflation-and-getting-weaker-every-day/ar-AA2gFUtA",
-        "clean_url": "https://www.msn.com/en-us/news/other/a-big-win-for-donald-trump-iran-s-economy-is-being-destroyed-thanks-to-inflation-and-getting-weaker-every-day/ar-AA2gFUtA",
-        "image": "http://www.bing.com/th?id=ONUT.WWlU5pc3TB0RuxTWjb1mFA&pid=News",
-        "timestamp": 1793695711.0
     }
 ]
