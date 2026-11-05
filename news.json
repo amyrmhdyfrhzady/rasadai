@@ -294,6 +294,24 @@
         "timestamp": 1793867797.0
     },
     {
+        "id": "ca7fee44cb",
+        "title_fa": "بررسی پیشنهادهای اتمی در تهران با میانجیگری قطر",
+        "title_en": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+        "summary": [
+            "مقام‌های ایرانی مشغول بررسی پیشنهادهای مشخص درباره پرونده هسته‌ای هستند.",
+            "میانجیگری قطر توانسته تا حدودی جلوی درگیری نظامی تمام‌عیار با آمریکا را بگیرد."
+        ],
+        "impact": "کاهش موقت تنش‌های نظامی با ایجاد فضای دیپلماتیک جدید.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+        "clean_url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+        "image": "http://www.bing.com/th?id=ONUT.Yedw6sxGLZW52pRSs7DQqg&pid=News",
+        "timestamp": 1793867640.0
+    },
+    {
         "id": "7f62311250",
         "title_fa": "شکاف در تیم ترامپ؛ جی‌دی ونس علیه سیاست‌های خاورمیانه‌ای",
         "title_en": "Watch JD Vance Breaks With Trump on Iran and Israel After US Midterms Collapse",
@@ -5443,23 +5461,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4Z3BFSjJfVFFQVjlvWWVwLUp5bzJYRGlCb1F0WGtaYVlTbDRzYWZxVk4xYjJBVENxeGhzbGRycGx3Q1FnM2FmVU5tV1hhZEp5LWc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793699809.0
-    },
-    {
-        "id": "10a41ff16b",
-        "title_fa": "بازی لفظی ترامپ؛ جنگ نرم یا حملات هوایی؟",
-        "title_en": "Trump says we’re not fighting a war as he bombs Iran again",
-        "summary": [
-            "ترامپ حملات هوایی اخیر به ایران را جنگ نرم توجیه کرده و مدعی است چون درگیری خیابانی وجود نداشته، جنگی در کار نیست.",
-            "تلاش دولت آمریکا برای کوچک‌نمایی درگیری‌های نظامی با تهران در آستانه انتخابات ادامه دارد."
-        ],
-        "impact": "آمریکا به دنبال مدیریت افکار عمومی داخلی از طریق انکار ابعاد نظامی درگیری با ج.ه.ا است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "New York Magazine on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-we-re-not-fighting-a-war-as-he-bombs-iran-again/ar-AA2gGfgZ",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-we-re-not-fighting-a-war-as-he-bombs-iran-again/ar-AA2gGfgZ",
-        "image": "http://www.bing.com/th?id=ONUT.mlJUzcwfAFttDeoir3r7hQ&pid=News",
-        "timestamp": 1793699278.0
     }
 ]
