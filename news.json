@@ -255,6 +255,24 @@
         "timestamp": 1793808003.0
     },
     {
+        "id": "10adf307d3",
+        "title_fa": "صدور حکم اعدام برای یک فعال فضای مجازی در تهران",
+        "title_en": "Iran hangs two more men over Isfahan's January protests",
+        "summary": [
+            "دادگاه انقلاب تهران امیرحسین موسوی را به اتهام فعالیت‌های آنلاین به اعدام محکوم کرد.",
+            "قاضی ابوالقاسم صلواتی این حکم را صادر کرده و متهم به پنج سال حبس دیگر نیز محکوم شده است."
+        ],
+        "impact": "تشدید سرکوب آزادی بیان و فعالان آنلاین توسط دستگاه قضایی جمهوری اسلامی",
+        "tag": "سرکوب",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202611041553",
+        "clean_url": "https://www.iranintl.com/en/202611041553",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793805600.0
+    },
+    {
         "id": "a77e084348",
         "title_fa": "حمله هوایی آمریکا به جزیره قشم در اوج تنش‌ها",
         "title_en": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
@@ -5429,23 +5447,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793677148.0
-    },
-    {
-        "id": "477172304d",
-        "title_fa": "شوخی جنجالی ترامپ درباره مهاجرت به اسرائیل",
-        "title_en": "Trump says he’d move to this country ‘if people ever get tired of me in the US’",
-        "summary": [
-            "ترامپ اعلام کرد اگر روزی مردم آمریکا از او خسته شوند، به اسرائیل نقل مکان می‌کند.",
-            "این اظهارات واکنش‌های طعنه‌آمیز و انتقادی فراوانی در شبکه‌های اجتماعی به دنبال داشت."
-        ],
-        "impact": "حاشیه‌سازی‌های جدید رئیس‌جمهور آمریکا دربوته نقد افکار عمومی.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "MassLive",
-        "url": "https://www.masslive.com/politics/2026/11/trump-says-hed-move-to-this-country-if-people-ever-get-tired-of-me-in-the-us.html",
-        "clean_url": "https://www.masslive.com/politics/2026/11/trump-says-hed-move-to-this-country-if-people-ever-get-tired-of-me-in-the-us.html",
-        "image": "http://www.bing.com/th?id=ONUT.jsgzuy35W5r3w0LED2kcvg&pid=News",
-        "timestamp": 1793676960.0
     }
 ]
