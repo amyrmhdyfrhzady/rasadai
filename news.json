@@ -1,5 +1,24 @@
 [
     {
+        "id": "e9521203c6",
+        "title_fa": "نمایش حکومتی در تهران؛ تکرار شعارهای ضدآمریکایی",
+        "title_en": "Iranians hold anti-U.S. and anti-Israel rallies across the country",
+        "summary": [
+            "حاکمیت ج.ا با سازماندهی تجمعات حکومتی سعی در بازسازی چهره ایدئولوژیک خود دارد.",
+            "علیرضا زاکانی با ادبیات تکراری، بحران‌های داخلی را به گردن فشارهای خارجی می‌اندازد.",
+            "این تجمعات بیش از آنکه بازتاب‌دهنده خواست عمومی باشد، مانوری برای نمایش قدرت در برابر فشارهای بین‌المللی است."
+        ],
+        "impact": "تداوم انزوای دیپلماتیک و تشدید شکاف میان حاکمیت و بدنه جامعه.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Africanews",
+        "url": "https://www.africanews.com/2026/11/05/iranians-hold-anti-us-and-anti-israel-rallies-across-the-country/",
+        "clean_url": "https://www.africanews.com/2026/11/05/iranians-hold-anti-us-and-anti-israel-rallies-across-the-country",
+        "image": "https://images.euronews.com/articles/stories/09/98/06/51/1024x538_cmsv2_6f8def56-ce0a-5de1-a68e-4f96b4bfba96-9980651.jpg",
+        "timestamp": 1793860740.0
+    },
+    {
         "id": "bc7b59923a",
         "title_fa": "بازخوانی سیاست‌های جبهه فشار حداکثری در قبال ایران",
         "title_en": "Trump’s election loss and Iran policy",
@@ -5433,23 +5452,5 @@
         "clean_url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793686140.0
-    },
-    {
-        "id": "5feb87bc1b",
-        "title_fa": "حملات نظامی ایالات متحده در خاک ایران آستانه انتخابات",
-        "title_en": "U.S. forces launch new ‘defensive’ strikes in Iran on eve of election",
-        "summary": [
-            "نیروهای نظامی ایالات متحده حملات جدیدی را با عنوان دفاعی در داخل خاک ایران انجام داده‌اند.",
-            "این اقدام در حساس‌ترین زمان ممکن یعنی در آستانه برگزاری انتخابات صورت گرفته و معادله تنش‌ها را وارد فاز تازه‌ای می‌کند."
-        ],
-        "impact": "بالارفتن شدید ریسک امنیتی و احتمال واکنش متقابل در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakQ2dHpWeVF0SFVPOHZaLUtaYWV5YzNycVlYNU1JQlRxRFF3X0xjM2k0dndPNlg5VWcxOHJ2S1h6VldqejlGZjAwSEhfbDVxN2xRbUVGNW4xdU51bTNnZkJZN0JNLVo3MkVFdy0tUFVQSGFrZ0t6aG5VQ1F0WTEyUDlMczZTN3d5Z1Z0dk5XWkFSMFJDcFA4MHNHbnUyQU9FQ0RXRFU0WnRIeEtjQmtkMTNCVUlJU0FR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakQ2dHpWeVF0SFVPOHZaLUtaYWV5YzNycVlYNU1JQlRxRFF3X0xjM2k0dndPNlg5VWcxOHJ2S1h6VldqejlGZjAwSEhfbDVxN2xRbUVGNW4xdU51bTNnZkJZN0JNLVo3MkVFdy0tUFVQSGFrZ0t6aG5VQ1F0WTEyUDlMczZTN3d5Z1Z0dk5XWkFSMFJDcFA4MHNHbnUyQU9FQ0RXRFU0WnRIeEtjQmtkMTNCVUlJU0FR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793685988.0
     }
 ]
