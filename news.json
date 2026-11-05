@@ -237,6 +237,24 @@
         "timestamp": 1793810239.0
     },
     {
+        "id": "5228499d94",
+        "title_fa": "لرزه در پنتاگون پس از شکست انتخاباتی جمهوری‌خواهان",
+        "title_en": "'Knives out' at Pentagon after unpopular Iran war dooms GOP in midterms",
+        "summary": [
+            "شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای، موقعیت پیت هگست و فرماندهان ارشد ارتش را به شدت متزلزل کرده است.",
+            "با وجود حمایت فعلی ترامپ، موج نارضایتی‌ها در پنتاگون بالا گرفته و فشارها بر تیم نظامی او افزایش یافته است."
+        ],
+        "impact": "تغییرات احتمالی در بدنه ارشد نظامی آمریکا و تغییر رویکردهای واشنگتن در پرونده‌های نظامی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/knives-out-at-pentagon-after-unpopular-iran-war-dooms-gop-in-midterms/ar-AA2gMwLI",
+        "clean_url": "https://www.msn.com/en-us/news/other/knives-out-at-pentagon-after-unpopular-iran-war-dooms-gop-in-midterms/ar-AA2gMwLI",
+        "image": "http://www.bing.com/th?id=ONUT.WpdrP-8cZbgzteTDoEXiZg&pid=News",
+        "timestamp": 1793809404.0
+    },
+    {
         "id": "6cc432476b",
         "title_fa": "اعتراف جی‌دی ونس به نقش جنگ و اسرائیل در شکست جمهوری‌خواهان",
         "title_en": "Vance Points to Iran War, Israel as Reasons for GOP Midterm Loss",
@@ -5429,23 +5447,5 @@
         "clean_url": "https://www.nbcphiladelphia.com/elections/election-day-2026-midterms-congress-results-live-updates/4490041",
         "image": "https://media.nbcphiladelphia.com/2026/11/voters-midterms-11226-e1793650661355.jpg?quality=85&strip=all&resize=1200%2C675",
         "timestamp": 1793679420.0
-    },
-    {
-        "id": "134144571a",
-        "title_fa": "زلزله در آزمایشگاه‌های آمریکا؛ علم قربانی سیاست‌های هسته‌ای ترامپ",
-        "title_en": "The 2026 midterms are today—here’s what scientists say is at stake",
-        "summary": [
-            "دولت ترامپ با حذف بودجه‌های اقلیمی و سلامت، تمام منابع را به سمت هوش مصنوعی و انرژی هسته‌ای سوق داده که با مخالفت شدید جامعه علمی روبرو شده است.",
-            "اخراج هزاران محقق فدرال و سخت‌گیری در صدور ویزا برای نخبگان بین‌المللی، جایگاه علمی و قدرت نرم آمریکا را در معرض تهدید قرار داده است."
-        ],
-        "impact": "نتیجه انتخابات امروز مشخص می‌کند که آیا مسیر «هسته‌ای-محور» ترامپ ادامه می‌یابد یا بودجه‌ها به سمت سلامت و محیط زیست بازمی‌گردد.",
-        "tag": "تکنولوژی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/the-2026-midterms-are-today-heres-what-scientists-say-is-at-stake/",
-        "clean_url": "https://www.scientificamerican.com/article/the-2026-midterms-are-today-heres-what-scientists-say-is-at-stake",
-        "image": "https://static.scientificamerican.com/dam/asset/b4239dc2-5b4e-4e42-b664-aaf46249d796/Capitol-Building.jpg?m=1793661579.604&w=1200",
-        "timestamp": 1793678400.0
     }
 ]
