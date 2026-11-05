@@ -1,5 +1,23 @@
 [
     {
+        "id": "c3eec7122b",
+        "title_fa": "آتش‌سوزی در تنگه هرمز و ادعای شکار پهپاد آمریکایی",
+        "title_en": "سپاه: دو نفتکش و یک یدککش در تنگه هرمز آتش گرفتند؛ دو پهپاد آمریکایی را غنیمت گرفتیم",
+        "summary": [
+            "وقوع حریق در دو نفتکش و یک یدک‌کش در تنگه هرمز نشان‌دهنده افزایش شدید تنش‌های نظامی در این آبراه حیاتی است.",
+            "ادعای سـپـاه مبنی بر کنترل و تصاحب دو پهپاد آمریکایی بخشی از جنگ روانی این نهاد برای نمایش قدرت در خلیج فارس است."
+        ],
+        "impact": "افزایش ریسک بیمه و ناامن شدن مسیرهای کشتیرانی در خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "یورونیوز",
+        "url": "https://parsi.euronews.com/2026/11/05/iran-irgc-two-oil-tankers-tugboat-fire-hormuz-captures-two-us-drones",
+        "clean_url": "https://parsi.euronews.com/2026/11/05/iran-irgc-two-oil-tankers-tugboat-fire-hormuz-captures-two-us-drones",
+        "image": "https://www.bing.com/th?id=ONUT._0Bi3KQEyoTZd7j3L2c3uQ",
+        "timestamp": 1793863267.1723754
+    },
+    {
         "id": "e9521203c6",
         "title_fa": "نمایش حکومتی در تهران؛ تکرار شعارهای ضدآمریکایی",
         "title_en": "Iranians hold anti-U.S. and anti-Israel rallies across the country",
@@ -5434,23 +5452,5 @@
         "clean_url": "https://krdo.com/news/2026/11/03/trump-says-us-is-cutting-off-aid-to-israel-at-years-end-because-they-dont-need-it",
         "image": "https://krdo.b-cdn.net/2026/01/KRDO13-Default-Image_2026-860x484.jpg",
         "timestamp": 1793686920.0
-    },
-    {
-        "id": "dabf691052",
-        "title_fa": "پافشاری ترامپ روی موضوع جنگ ایران با وجود عدم محبوبیت",
-        "title_en": "The Iran War Is Unpopular. Trump Keeps Talking About It Anyway.",
-        "summary": [
-            "دونالد ترامپ بار دیگر موضوع جنگ با ایران را در آستانه انتخابات پیش کشید.",
-            "این موضع‌گیری در حالی انجام می‌شود که افکار عمومی آمریکا استقبالی از این مسئله ندارد."
-        ],
-        "impact": "این اظهارات می‌تواند معادلات انتخاباتی و آرای مردمی را به سمت حزب رقیب تغییر دهد.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
-        "clean_url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793686140.0
     }
 ]
