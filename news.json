@@ -19,6 +19,25 @@
         "timestamp": 1793838060.0
     },
     {
+        "id": "6ab300f35e",
+        "title_fa": "صدور حکم اعدام برای فعال فضای مجازی توسط قاضی صلواتی",
+        "title_en": "Former Bush press secretary disputes Vance, blames Iran ceasefire for GOP losses",
+        "summary": [
+            "شعبه ۱۵ دادگاه انقلاب به ریاست قاضی صلواتی، امیرحسین موسوی را به دلیل فعالیت‌های افشاگرانه در فضای مجازی با حکم سنگین و خطر اعدام مواجه کرده است.",
+            "موسوی با حساب مستعار، انعکاس‌دهنده صدای زندانیان سیاسی و خانواده‌های کشته‌شدگان اعتراضات بود.",
+            "دستگاه امنیتی با این رای، استراتژی ارعاب فعالان گمنام شبکه‌های اجتماعی را پرفشارتر از قبل دنبال می‌کند."
+        ],
+        "impact": "تشدید فضای خفقان آنلاین و بالابردن هزینه افشاگری و اطلاع‌رسانی درباره قربانیان سرکوب.",
+        "tag": "حقوق_بشر",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611048176",
+        "clean_url": "https://www.iranintl.com/en/202611048176",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793836380.0
+    },
+    {
         "id": "12bb7835b2",
         "title_fa": "فلوریدا‌پولیتیکس: دموکرات‌ها به دنبال پایان درگیری با ایـرانسـت",
         "title_en": "Ron DeSantis says Democrats will force end to Iran conflict in new Congress",
@@ -5428,24 +5447,5 @@
         "clean_url": "https://www.masslive.com/politics/2026/11/trump-blasted-for-dismissive-3-word-take-on-iran-war-how-dumb-is-this-man.html",
         "image": "http://www.bing.com/th?id=ONUT.jsgzuy35W5r3w0LED2kcvg&pid=News",
         "timestamp": 1793679600.0
-    },
-    {
-        "id": "4ecca636ee",
-        "title_fa": "شمارش معکوس برای سقوط اکثریت ترامپ؛ آمریکا پای صندوق‌های رای",
-        "title_en": "Live updates: U.S. voters go to polls as control of Congress hangs in the balance",
-        "summary": [
-            "جمهوری‌خواهان با لبه تیغ در کنگره راه می‌روند؛ تورم و گرانی محبوبیت ترامپ را به شدت پایین کشیده و احتمال از دست رفتن سنا و مجلس جدی است.",
-            "هیلاری کلینتون با حمله‌ای بی‌سابقه، ترامپ را «مجنون و مهارناپذیر» خواند؛ این انتخابات عملاً رفراندومی برای تایید یا رد سیاست‌های تهاجمی اوست.",
-            "گزارش‌های اولیه از خرابی دستگاه‌های رای‌گیری در نیویورک، از همین حالا فضا را برای ادعاهای تقلب و تنش‌های خیابانی آماده کرده است."
-        ],
-        "impact": "سقوط احتمالی اکثریت جمهوری‌خواه، دست‌وپای ترامپ را در اعمال فشارهای بین‌المللی و تصویب بودجه‌های جنجالی می‌بندد.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "NBC10 Philadelphia",
-        "url": "https://www.nbcphiladelphia.com/elections/election-day-2026-midterms-congress-results-live-updates/4490041/",
-        "clean_url": "https://www.nbcphiladelphia.com/elections/election-day-2026-midterms-congress-results-live-updates/4490041",
-        "image": "https://media.nbcphiladelphia.com/2026/11/voters-midterms-11226-e1793650661355.jpg?quality=85&strip=all&resize=1200%2C675",
-        "timestamp": 1793679420.0
     }
 ]
