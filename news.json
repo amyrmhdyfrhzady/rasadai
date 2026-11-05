@@ -1,5 +1,24 @@
 [
     {
+        "id": "04022dbb47",
+        "title_fa": "ادعای س*پاه درباره آتش‌سوزی ۲ نفتکش در تنگه هرمز",
+        "title_en": "Iran war latest: IRGC claims two tankers and tugboat caught fire in Strait of Hormuz",
+        "summary": [
+            "س*پاه پاسداران مدعی شد دو فروند نفتکش و یک یدک‌کش در تنگه هرمز دچار آتش‌سوزی شده‌اند؛ رویدادی که بوی ناامن‌سازی عمدی در حیاتی‌ترین گلوگاه نفتی جهان را می‌دهد.",
+            "این سناریو اهرم فشار تکراری تهران برای بالا بردن هزینه کشتیرانی بین‌المللی و ارسال سیگنال تهدید به بازار انرژی است.",
+            "ایجاد چنین حوادث مشکوکی در آبراه‌های بین‌المللی، تلاش برای مانور قدرت و خروج از انزوای ناشی از فشارهای همه‌جانبه است."
+        ],
+        "impact": "افزایش فوری هزینه بیمه کشتیرانی و ایجاد شوک روانی در بازار جهانی نفت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3prTFlUbjIxSUVNV3VDVHNEb1Nkb0ZqSDVTZkJwMng0YmQ2dFhmVDNYdlB4WGlQU1NMU3J5VWg3a1NTcjBoTm9oZ2piVXlKc29ZSTNzcHRHUHFNVmxzRDhRS2ZXUXI2RW1nU1hGZnI5U0RKeXR6NDJ5T2k2a1gtbXRCSFY1VUdJY1NUaXU5V2YzWE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3prTFlUbjIxSUVNV3VDVHNEb1Nkb0ZqSDVTZkJwMng0YmQ2dFhmVDNYdlB4WGlQU1NMU3J5VWg3a1NTcjBoTm9oZ2piVXlKc29ZSTNzcHRHUHFNVmxzRDhRS2ZXUXI2RW1nU1hGZnI5U0RKeXR6NDJ5T2k2a1gtbXRCSFY1VUdJY1NUaXU5V2YzWE0",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793865804.0
+    },
+    {
         "id": "c3eec7122b",
         "title_fa": "آتش‌سوزی در تنگه هرمز و ادعای شکار پهپاد آمریکایی",
         "title_en": "سپاه: دو نفتکش و یک یدککش در تنگه هرمز آتش گرفتند؛ دو پهپاد آمریکایی را غنیمت گرفتیم",
@@ -5434,23 +5453,5 @@
         "clean_url": "https://tass.com/defense/2212585",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1793687160.0
-    },
-    {
-        "id": "c8cdebdaa9",
-        "title_fa": "تصمیم ترامپ برای قطع کمک‌های نظامی ۴ میلیارد دلاری به اسرائیل",
-        "title_en": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’",
-        "summary": [
-            "دونالد ترامپ اعلام کرد ایالات متحده کمک‌های مالی سالانه به اسرائیل را متوقف می‌کند زیرا این کشور دیگر نیازی به آن ندارد.",
-            "این اقدام به عنوان پاسخی به سوءاستفاده انتخاباتی دموکرات‌ها از این موضوع و تغییر رویکرد تل‌آویو به خرید تسلیحات ارزیابی می‌شود."
-        ],
-        "impact": "تغییر اساسی در معادلات مالی و نظامی میان واشنگتن و تل‌آویو",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "KRDO",
-        "url": "https://krdo.com/news/2026/11/03/trump-says-us-is-cutting-off-aid-to-israel-at-years-end-because-they-dont-need-it/",
-        "clean_url": "https://krdo.com/news/2026/11/03/trump-says-us-is-cutting-off-aid-to-israel-at-years-end-because-they-dont-need-it",
-        "image": "https://krdo.b-cdn.net/2026/01/KRDO13-Default-Image_2026-860x484.jpg",
-        "timestamp": 1793686920.0
     }
 ]
