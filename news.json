@@ -165,6 +165,25 @@
         "timestamp": 1793891852.0
     },
     {
+        "id": "0ebae154d0",
+        "title_fa": "خیزش بازنشستگان و معلمان علیه فقر و تورم در شهرهای ایران",
+        "title_en": "New Iran Protests: Retirees, Teachers Take to Streets Over Inflation, Unpaid Benefits",
+        "summary": [
+            "اعتراضات سراسری در شهرهای مختلف نشان‌دهنده شکست سیاست‌های اقتصادی ج.ا در تامین معیشت اقشار آسیب‌پذیر است.",
+            "فشار تحریم‌ها و سوءمدیریت منابع، قدرت خرید مردم را به شدت کاهش داده و خشم عمومی را شعله‌ور کرده است.",
+            "حضور همزمان بازنشستگان و کارگران در خیابان، پتانسیل پیوند خوردن اعتراضات صنفی به مطالبات سیاسی را افزایش می‌دهد."
+        ],
+        "impact": "گسترش اعتراضات صنفی، شکاف میان حاکمیت و بدنه اجتماعی را عمیق‌تر و هزینه‌های امنیتی را برای ج.ا بالا می‌برد.",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Algemeiner",
+        "url": "https://www.algemeiner.com/2026/11/05/new-iran-protests-retirees-teachers-take-streets-inflation-unpaid-benefits/",
+        "clean_url": "https://www.algemeiner.com/2026/11/05/new-iran-protests-retirees-teachers-take-streets-inflation-unpaid-benefits",
+        "image": "https://www.algemeiner.com/wp-content/uploads/2026/09/2026-09-28T152129Z_3_LYNXMPEM8R13J_RTROPTP_4_IRAN-CRISIS-UN-TALKS-1.jpg",
+        "timestamp": 1793888400.0
+    },
+    {
         "id": "8b9964db29",
         "title_fa": "تحریم‌های جدید آمریکا علیه شبکه پدافندی ج.ا",
         "title_en": "US sanctions three over Iran air defenses amid reports of Russian arms deal",
@@ -5447,24 +5466,5 @@
         "clean_url": "https://www.rtve.es/noticias/20261103/ataque-estados-unidos-iran-certezas-desinformacion/17298432.shtml",
         "image": "http://www.bing.com/th?id=ONUT.8Bpfsx0mddzb57H8lcC5Wg&pid=News",
         "timestamp": 1793706720.0
-    },
-    {
-        "id": "791dae139a",
-        "title_fa": "تله دوحه؛ باج‌گیری ج.ا از غرب با اهرم تنگه هرمز",
-        "title_en": "The Doha Trap: How Iran Is Using Hormuz to Extort the West",
-        "summary": [
-            "مذاکرات دوحه نه برای صلح، بلکه ابزاری برای امتیازگیری و دور زدن فشارهای بین‌المللی است.",
-            "ج.ا با ناامن کردن مسیرهای کشتیرانی، غرب را به سمت باج‌دهی اقتصادی و آزادسازی منابع مالی سوق می‌دهد.",
-            "این روند عملاً بازدارندگی را از بین برده و تهدید هسته‌ای را به حاشیه می‌راند."
-        ],
-        "impact": "تداوم این مذاکرات منجر به تقویت بنیه مالی ج.ا و تضعیف امنیت انرژی جهانی می‌شود.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Algemeiner",
-        "url": "https://www.algemeiner.com/2026/11/03/doha-trap-how-iran-using-hormuz-extort-west/",
-        "clean_url": "https://www.algemeiner.com/2026/11/03/doha-trap-how-iran-using-hormuz-extort-west",
-        "image": "https://www.algemeiner.com/wp-content/uploads/2026/10/2026-10-28T160158Z_5_LYNXNPEM9R0NZ_RTROPTP_4_IRAN-CRISIS-RUSSIA-QATAR-PEZESHKIAN-1.jpg",
-        "timestamp": 1793706420.0
     }
 ]
