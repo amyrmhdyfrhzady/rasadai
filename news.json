@@ -19,6 +19,25 @@
         "timestamp": 1793892840.0
     },
     {
+        "id": "e513072d28",
+        "title_fa": "موج دوم تهدیدهای دروغین بمب‌گذاری در پروازهای اروپایی",
+        "title_en": "At least 27 flights across Europe now affected by hoax bomb threats",
+        "summary": [
+            "حداقل ۲۷ پرواز در سراسر اروپا هدف هشدارهای دروغین بمب‌گذاری قرار گرفتند.",
+            "جنگنده‌های ارتش برای اسکورت و رهگیری هواپیماهای مسافربری به پرواز درآمدند.",
+            "این دومین موج از تهدیدهای امنیتی مشابه در هفته جاری است."
+        ],
+        "impact": "اختلال گسترده در صنعت هوانوردی اروپا و افزایش شدید آماده‌باش امنیتی فرودگاه‌ها.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/at-least-27-flights-across-europe-now-affected-by-hoax-bomb-threats/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/at-least-27-flights-across-europe-now-affected-by-hoax-bomb-threats",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26309440633386.jpg",
+        "timestamp": 1793892780.0
+    },
+    {
         "id": "28460e89b5",
         "title_fa": "تغییر استراتژی کنگره در اعمال تحریم‌های ضد ج.ا",
         "title_en": "Iran Sanctions History Shows Evolving Roles of Congress",
@@ -5442,23 +5461,5 @@
         "clean_url": "https://www.cleveland.com/politics/2026/11/midterm-elections-are-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term.html",
         "image": "http://www.bing.com/th?id=ONUT.zs9IW-iWSabnbxtscpvq_w&pid=News",
         "timestamp": 1793699100.0
-    },
-    {
-        "id": "4b6204bd01",
-        "title_fa": "شوخی یا کنایه ترامپ درباره مهاجرت به اسرائیل و نخست‌وزیری",
-        "title_en": "Trump says he could move to Israel and become prime minister if US gets sick of him",
-        "summary": [
-            "ترامپ در اظهارنظری کنایه‌آمیز گفت اگر آمریکایی‌ها از او خسته شوند، ممکن است به اسرائیل برود.",
-            "این سخنان بازتاب گسترده‌ای در رسانه‌های مختلف داشته است."
-        ],
-        "impact": "ایجاد موجی از واکنش‌های رسانه‌ای به سبک اظهارات جنجالی ترامپ.",
-        "tag": "سیاست آمریکا",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-he-could-move-to-israel-and-become-prime-minister-if-us-gets-sick-of-him/ar-AA2gGhz1",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-he-could-move-to-israel-and-become-prime-minister-if-us-gets-sick-of-him/ar-AA2gGhz1",
-        "image": "http://www.bing.com/th?id=ONUT.vCRzb_5n7ablz8oAidWn5Q&pid=News",
-        "timestamp": 1793697805.0
     }
 ]
