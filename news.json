@@ -421,6 +421,24 @@
         "timestamp": 1793808003.0
     },
     {
+        "id": "ed6fa2cae6",
+        "title_fa": "سقوط ۹ درصدی نفت پس از فشارهای سیاسی بر ت...م",
+        "title_en": "Oil prices today: Brent crude falls below $95 after 9% crash as Trump faces pressure to end Iran war",
+        "summary": [
+            "بهای نفت برنت پس از فشارهای سنگین سیاسی برای پایان دادن به درگیری‌ها با ج...ری اسلامی، به زیر ۹۵ دلار سقوط کرد.",
+            "بازارهای جهانی نتایج انتخابات میان‌دوره‌ای آمریکا را نقطه عطف احتمالی در کاهش تنش‌های نظامی ارزیابی می‌کنند."
+        ],
+        "impact": "افت شدید قیمت نفت درآمد ارزی بیت م...م را با چالش جدی مواجه می‌کند.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/oil-prices-today-brent-crude-falls-below-95-after-9-crash-as-trump-faces-pressure-to-end-iran-war-is-iran-war-finally-losing-its-grip-on-markets/ar-AA2gMAOs",
+        "clean_url": "https://www.msn.com/en-in/news/other/oil-prices-today-brent-crude-falls-below-95-after-9-crash-as-trump-faces-pressure-to-end-iran-war-is-iran-war-finally-losing-its-grip-on-markets/ar-AA2gMAOs",
+        "image": "http://www.bing.com/th?id=ONUT.dS_w6CdvjfCCTL2ixAqQ8w&pid=News",
+        "timestamp": 1793807940.0
+    },
+    {
         "id": "ef78e48ae2",
         "title_fa": "خیز هکیم جفریز برای ریاست مجلس نمایندگان آمریکا",
         "title_en": "US House minority leader Jeffries announces run speaker",
@@ -5432,23 +5450,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/spanish-soccer-player-jes%C3%BAs-de-miguel-dies-after-on-pitch-collision/ar-AA2gEQkk",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793683789.0
-    },
-    {
-        "id": "f25189cb1e",
-        "title_fa": "شروط پنج‌گانه تهران برای امنیت منطقه همزمان با تنش در قشم",
-        "title_en": "Iran commander sets out five conditions for regional security",
-        "summary": [
-            "ستاد کل نیروهای مسلح شرایطی شامل پایان درگیری‌ها، لغو کامل تحریم‌ها و بازگشت دارایی‌های بلوکه شده را مطرح کرد.",
-            "این مواضع در سایه حملات اخیر نظامی ایالات متحده به جزیره قشم و تلاش‌های دیپلماتیک قطر اعلام شده است."
-        ],
-        "impact": "افزایش شکاف میان شروط حداکثری تهران و تحرکات نظامی آمریکا در خلیج فارس",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
-        "clean_url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae9cbe02967-1793706976.jpg?resize=1920%2C1440",
-        "timestamp": 1793683260.0
     }
 ]
