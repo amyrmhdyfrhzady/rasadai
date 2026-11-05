@@ -18,6 +18,25 @@
         "timestamp": 1793874403.0
     },
     {
+        "id": "873f70ae13",
+        "title_fa": "تنگنای سیاسی ترامپ در پرونده تقابل با ج.ا",
+        "title_en": "Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack",
+        "summary": [
+            "شکست‌های انتخاباتی، دست ترامپ را برای ماجراجویی نظامی علیه ج.ا بسته‌تر کرده است.",
+            "افکار عمومی آمریکا به شدت با تداوم درگیری‌های نظامی که ترامپ آغازگر آن بوده، مخالف است.",
+            "فشار داخلی بر کاخ سفید برای خروج از بن‌بست تقابل با تهران افزایش یافته است."
+        ],
+        "impact": "کاهش توان مانور نظامی ترامپ به دلیل ترس از هزینه‌های سیاسی داخلی.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+        "clean_url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+        "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-prexy-wmkf/04dc-prexy-wmkf-facebookJumbo.jpg",
+        "timestamp": 1793873040.0
+    },
+    {
         "id": "e07676ce25",
         "title_fa": "آیا دموکرات‌ها مانع جنگ جدید با ایران می‌شوند؟",
         "title_en": "Can the Democrats prevent a new round of war with Iran?",
@@ -5437,23 +5456,5 @@
         "clean_url": "https://www.chicagotribune.com/2026/11/03/apple-drops-with-most-of-wall-street-tech-gains",
         "image": "http://www.bing.com/th?id=ONUT.GGM8AKHJ85tchrz2MQANEQ&pid=News",
         "timestamp": 1793691420.0
-    },
-    {
-        "id": "7ce1a8d714",
-        "title_fa": "خیز دموکرات‌ها برای پیروزی در انتخابات میادین کلیدی",
-        "title_en": "Democrats poised for midterm gains, but how big?",
-        "summary": [
-            "حزب دموکرات امیدواری بالایی برای تصاحب کرسی‌های بیشتر در ایالت‌های سنتی و خاکستری دارد.",
-            "موج نارضایتی‌های عمومی می‌تواند به سود دموکرات‌ها در ایالات عموماً حامی جمهوری‌خواهان تمام شود."
-        ],
-        "impact": "تغییر موازنات قدرت در کنگره و به خطر افتادن کرسی‌های کلیدی حزب رقیب",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/other/democrats-poised-for-midterm-gains-but-how-big/ar-AA2gEGyR",
-        "clean_url": "https://www.msn.com/en-us/news/other/democrats-poised-for-midterm-gains-but-how-big/ar-AA2gEGyR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793690319.0
     }
 ]
