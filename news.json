@@ -330,6 +330,26 @@
         "timestamp": 1793841748.0
     },
     {
+        "id": "c4628392e3",
+        "title_fa": "خط و نشان ترامپ برای ج.ا: توافق یا اقدام نظامی",
+        "title_en": "Donald Trump Issues ‘Finish the Job’ Warning to Iran After Midterm Results",
+        "summary": [
+            "ترامپ با ادبیاتی صریح تهدید کرد در صورت عدم همکاری تهران، کار را به سادگی تمام می‌کند.",
+            "او اعتراف کرد تنش با ایران بر سبد رای جمهوری‌خواهان در انتخابات اثر منفی داشته است.",
+            "تغییر استراتژی ترامپ از فشار حداکثری به تهدید مستقیم نظامی، نشان‌دهنده بن‌بست در دیپلماسی است.",
+            "تاکید بر جلوگیری از دستیابی به سلاح هسته‌ای، اولویت اصلی ترامپ برای توجیه هزینه‌های سیاسی داخلی است."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی و فشار روانی بر بازار ارز و سرمایه ایران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/donald-trump-issues-finish-job-090210400.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/donald-trump-issues-finish-job-090210400.html",
+        "image": "http://www.bing.com/th?id=ONUT.Z9Gk_2DTOVvp7Hn_ah7MCQ&pid=News",
+        "timestamp": 1793840460.0
+    },
+    {
         "id": "90458c40ee",
         "title_fa": "امنیت ملی آمریکا گروگان محاسبات انتخاباتی نمی‌شود",
         "title_en": "Iran and the Elections: National Security Should Not Be Measured in Congressional Seats",
@@ -5435,23 +5455,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/democrats-poised-for-midterm-gains-but-how-big/ar-AA2gEGyR",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793690319.0
-    },
-    {
-        "id": "87854b4a15",
-        "title_fa": "ادعای جنجالی مامور سابق سیا درباره ترامپ و ایران",
-        "title_en": "Trump is 'considering nuclear strike on Iran', former CIA agent claims",
-        "summary": [
-            "یک مامور پیشین سیا ادعا کرده دونالد ترامپ ممکن است گزینه حمله اتمی به ایران را روی میز بیاورد.",
-            "این ادعا در شرایطی مطرح شده که فشار حداکثری و گزینه‌های سخت علیه جـمـهـورۍ اسـلامـۍ همچنان در محافل سیاسی آمریکا دست‌به‌دست می‌شود."
-        ],
-        "impact": "افزایش شدید تنش‌های روانی و گمانه‌زنی درباره رویکرد سخت‌گیرانه واشنگتن در قبال تهران.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Daily Mail on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-is-considering-nuclear-strike-on-iran-former-cia-agent-claims/ar-AA2gGgwp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-is-considering-nuclear-strike-on-iran-former-cia-agent-claims/ar-AA2gGgwp",
-        "image": "http://www.bing.com/th?id=ONUT.A39HGr8GG-pWD0Hjmlzp0w&pid=News",
-        "timestamp": 1793690195.0
     }
 ]
