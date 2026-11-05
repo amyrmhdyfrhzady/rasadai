@@ -240,6 +240,25 @@
         "timestamp": 1793827986.0
     },
     {
+        "id": "e86a6300be",
+        "title_fa": "ترامپ: با وجود هزینه سیاسی، جنگ با ج.ا را تکرار می‌کنم",
+        "title_en": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle",
+        "summary": [
+            "ترامپ شکست انتخاباتی حزب جمهوری‌خواه را ناشی از افزایش قیمت بنزین به دلیل درگیری با ج.ا می‌داند.",
+            "او با وجود اعتراف به هزینه‌های سنگین سیاسی و اقتصادی، همچنان بر سیاست فشار حداکثری و تداوم حملات تاکید دارد.",
+            "تهدیدهای ترامپ برای بازگشت به بمباران تمام‌عیار پس از انتخابات، نشان‌دهنده بن‌بست در مذاکرات است."
+        ],
+        "impact": "تداوم تنش نظامی و فشارهای اقتصادی بر ج.ا با وجود فشارهای داخلی در آمریکا.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/midterm-loss-trump-left-weigh-050136929.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/midterm-loss-trump-left-weigh-050136929.html",
+        "image": "http://www.bing.com/th?id=ONUT.MWbFvzBBstKXrsp4VTXxhQ&pid=News",
+        "timestamp": 1793826060.0
+    },
+    {
         "id": "8ad91e4b3c",
         "title_fa": "چرخش آشکار مقامات ارشد حکومتی به سمت بمب اتمی",
         "title_en": "Iran's political, religious leaders shift stance to support nuclear weapons as war looms - report",
@@ -5432,24 +5451,5 @@
         "clean_url": "https://www.newsweek.com/why-tucker-carlson-isnt-all-wrong-on-irans-pickaxe-mountain-12655664",
         "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2286799809.jpg?w=1200&crop=1",
         "timestamp": 1793685360.0
-    },
-    {
-        "id": "ef67be60f8",
-        "title_fa": "تهدید تهران به پاسخ قاطع پس از حملات قشم",
-        "title_en": "Iran Will “Respond Forcefully” After Reported US Strikes On Qeshm Island, Threatens Retaliation",
-        "summary": [
-            "تهران هشدار داد در صورت تداوم حملات آمریکا به جزیره قشم و مناطق پیرامونی، واکنش سخت و کوبنده‌ای نشان خواهد داد.",
-            "مقام‌های آمریکایی این حملات را محدود و با هدف دفع تهدید موشکی علیه دارایی‌های خود توصیف کرده‌اند.",
-            "شکاف عمیق بین مواضع دو طرف نشان می‌دهد که توافق آتش‌بس همچنان دور از دسترس است."
-        ],
-        "impact": "افزایش فوری ریسک امنیتی در خلیج فارس و احتمال درگیری‌های نقطه‌ای جدید.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Outlook India",
-        "url": "https://www.outlookindia.com/international/iran-will-respond-forcefully-after-reported-us-strikes-on-qeshm-island-threatens-retaliation",
-        "clean_url": "https://www.outlookindia.com/international/iran-will-respond-forcefully-after-reported-us-strikes-on-qeshm-island-threatens-retaliation",
-        "image": "https://cf-images.assettype.com/outlookindia/2026-06-16/xpmq8yix/iran_us_570_850.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "timestamp": 1793685240.0
     }
 ]
