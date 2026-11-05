@@ -18,6 +18,25 @@
         "timestamp": 1793882700.0
     },
     {
+        "id": "f6767d15f3",
+        "title_fa": "احتمال کاهش تنش نظامی با ج.ا پس از انتخابات آمریکا",
+        "title_en": "Democrats' victory in US elections may lower risk of renewed war with Iran — expert",
+        "summary": [
+            "پیروزی دموکرات‌ها ریسک درگیری مستقیم نظامی میان واشینگتن و تهران را به شدت کاهش می‌دهد.",
+            "تحلیلگران معتقدند دموکرات‌ها ممکن است مسئولیت هرگونه اقدام نظامی علیه تاسیسات ج.ا را به اسرائیل واگذار کنند.",
+            "تغییر ترکیب کنگره، ترامپ را به سمت مذاکره برای بازگشایی تنگه هرمز سوق می‌دهد."
+        ],
+        "impact": "تغییر استراتژی واشینگتن از تقابل مستقیم به فشار نیابتی از طریق اسرائیل.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2213287",
+        "clean_url": "https://tass.com/world/2213287",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793881200.0
+    },
+    {
         "id": "86a1952fab",
         "title_fa": "ایران و کمک به اسرائیل در صدر دستور کار کنگره آمریکا",
         "title_en": "Iran and aid to Israel to top foreign policy agenda in Democratic Congress",
@@ -274,6 +293,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTHV0TE9WYm9IWlpmOEJtMXgwekFkckZWbWVzNHh5bHY1RWotZUs0RFZiaUJ5ekFhbnh1enBLRm15bWxMVm5lYVdjSU1KRHpSUE9vbUhtUjh5T09oQmZqbjJEVDYxT1c4aUc4UXNyY3FpVFVGc3JkN0stckR2cElEaDNvTFRpTUJvNGZ4Ul9yU1ktM1Q5",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793853773.0
+    },
+    {
+        "id": "7f4f03a3a7",
+        "title_fa": "تغییر موازنه قدرت در کنگره و فشار دموکرات‌ها بر ترامپ",
+        "title_en": "Unpaid insurance bills push Iran's private hospitals into financial strain",
+        "summary": [
+            "پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای، توان ترامپ برای پیشبرد دستورکار نظامی علیه ج.ا را محدود می‌کند.",
+            "رهبر دموکرات‌ها در مجلس، سیاست‌های ترامپ را عامل گرانی و فشارهای اقتصادی بر مردم آمریکا می‌داند.",
+            "کنترل دموکرات‌ها بر سنا و مجلس نمایندگان، دست ترامپ را برای اقدامات یک‌جانبه در دو سال پایانی می‌بندد."
+        ],
+        "impact": "کاهش قدرت مانور ترامپ برای تنش‌زایی نظامی مستقیم با ج.ا در ماه‌های آینده.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611051160",
+        "clean_url": "https://www.iranintl.com/en/202611051160",
+        "image": "http://www.bing.com/th?id=ONUT.Qn3E9m8qmZYD0Iy6fOCymw&pid=News",
+        "timestamp": 1793852760.0
     },
     {
         "id": "227f929f13",
@@ -5420,42 +5458,5 @@
         "clean_url": "https://english.aawsat.com/arab-world/5336950-iraq’s-ruling-coordination-framework-faces-growing-risk-split",
         "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1862459_0.jpeg.webp?VersionId=5DnjiurmyWOUjev_DpVXcLw0ZRph4DSr",
         "timestamp": 1793693160.0
-    },
-    {
-        "id": "ed1eabfb66",
-        "title_fa": "هشدار بازار مالی آمریکا درباره تنش نظامی با ایران",
-        "title_en": "The most bearish post-midterm scenario that could take the S&P 500 down 10%",
-        "summary": [
-            "موسسه اورکور هشدار داد درگیری نظامی با ایران شاخص بورس اس اند پی را ۱۰ درصد پایین میکشد.",
-            "اقدام نظامی احتمالی ترامپ علیه ایران میتواند سود سالانه بازار سهام را کاملا نابود کند.",
-            "جهش قیمت نفت و بحران اعتباری ناشی از جنگ میتواند اقتصاد آمریکا را وارد رکود کند."
-        ],
-        "impact": "ریسک بالای درگیری نظامی میتواند بازارهای مالی آمریکا و قیمت جهانی نفت را به شدت به هم بریزد.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/03/the-most-bearish-post-midterm-scenario-that-could-take-the-sp-500-down-10percent.html",
-        "clean_url": "https://www.cnbc.com/2026/11/03/the-most-bearish-post-midterm-scenario-that-could-take-the-sp-500-down-10percent.html",
-        "image": "http://www.bing.com/th?id=ONUT.Csg8mfcHPLJRvW9EykwPAw&pid=News",
-        "timestamp": 1793692740.0
-    },
-    {
-        "id": "36e6f777a1",
-        "title_fa": "بن‌بست کامل در مذاکرات غیرمستقیم تهران و واشنگتن",
-        "title_en": "Iran, US still far apart on deal to end war as Qatar pushes mediation",
-        "summary": [
-            "تلاش‌های میانجی‌گرانه قطر برای پایان دادن به درگیری‌ها تاکنون هیچ خروجی ملموسی نداشته است.",
-            "مقام‌های ارشد ج.ا همچنان بر مواضع سخت‌گیرانه خود پافشاری می‌کنند و شکاف با آمریکا عمیق‌تر از آن است که با دیپلماسی فعلی پر شود."
-        ],
-        "impact": "تداوم وضعیت بلاتکلیفی و افزایش ریسک درگیری‌های نظامی در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-2026-11-03/",
-        "clean_url": "https://www.reuters.com/world/middle-east/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-2026-11-03",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793692560.0
     }
 ]
