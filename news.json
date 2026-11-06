@@ -714,6 +714,24 @@
         "timestamp": 1793941680.0
     },
     {
+        "id": "375be855f5",
+        "title_fa": "بازی دوگانه تهران همزمان با فشار میانجی‌گران",
+        "title_en": "Iran celebrates Trump's election defeat as mediators push for deal to end war",
+        "summary": [
+            "حاکمیت در ظاهر شکست ترامپ را جشن می‌گیرد اما در پشت پرده نگران بازگشت احتمالی سیاست فشار حداکثری است.",
+            "تلاش دیپلماتیک میانجی‌گران برای پایان دادن به درگیری‌ها با بن‌بست ناشی از لجاجت مقامات ر‌جـ.ـیـ.ـم روبروست."
+        ],
+        "impact": "آشفتگی در تصمیم‌گیری‌های کلان اقتصادی و امنیتی همزمان با تحولات بین‌المللی",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1",
+        "clean_url": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1",
+        "image": "https://images.ft.com/v3/image/raw/https://d1e00ek4ebabms.cloudfront.net/production/76a554bf-64a6-4c0e-a39a-2cad30cfd97c.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+        "timestamp": 1793941200.0
+    },
+    {
         "id": "251de7d984",
         "title_fa": "آمادگی نظامی آمریکا و تقلاهای دیپلماتیک تهران همزمان با تهدیدات ترامپ",
         "title_en": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://www.cbsnews.com/news/trump-congratulates-democrats-election-night-call",
         "image": "http://www.bing.com/th?id=ONUT.LdSvAOI0IowPoYvdSowQbQ&pid=News",
         "timestamp": 1793737920.0
-    },
-    {
-        "id": "a2d1c36fd6",
-        "title_fa": "شکست سناریوی ترامپ در میان‌دوره‌ای آمریکا و تسلط دموکرات‌ها بر کنگره",
-        "title_en": "Democrats capture full control of Congress, NBC News projects, fueled by victories in deeply Republican states",
-        "summary": [
-            "موج سنگین رای‌دهندگان آمریکایی علیه سیاست‌های ترامپ و نامزدهای منتخبش",
-            "فتح کرسی‌های کلیدی در ایالت‌های جمهوری‌خواه توسط دموکرات‌ها با شعار مهار قدرت اجرایی"
-        ],
-        "impact": "تغییر موازنه‌های قدرت در واشنگتن و محدود شدن دست‌اندازهای سیاسی دولت",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/2026-election/democrats-capture-full-control-congress-nbc-news-projects-fueled-victo-rcna607042",
-        "clean_url": "https://www.nbcnews.com/politics/2026-election/democrats-capture-full-control-congress-nbc-news-projects-fueled-victo-rcna607042",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-congressional-control-democrat-midterms-jg-cac2b5.png",
-        "timestamp": 1793737440.0
     }
 ]
