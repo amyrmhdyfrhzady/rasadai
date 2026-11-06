@@ -272,6 +272,25 @@
         "timestamp": 1793939520.0
     },
     {
+        "id": "a600bb0ecd",
+        "title_fa": "تصمیم قریب‌الوقراط ترامپ درباره جنگ و اتمام حجت با تهران",
+        "title_en": "Trump touts imminent decision on potential new attack on Iran",
+        "summary": [
+            "دونالد ترامپ اعلام کرد به زودی تصمیم نهایی خود را درباره توافق یا حمله جدید برای نابودی بقایای زیرساخت‌ها اعلام می‌کند.",
+            "تماس تلفنی ترامپ با امیر قطر و همزمان تحرکات دیپلماتیک وزیر خارجه جمهوری اسلامی در خلیج فارس برای مهار تنش‌ها.",
+            "انفجار یک نفت‌کش در تنگه هرمز شرایط امنیتی در آب‌های راهبردی منطقه را بحرانی‌تر کرد."
+        ],
+        "impact": "افزایش شدید ریسک نظامی در خلیج فارس و نوسان در بازارهای جهانی انرژی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-touts-imminent-decision-potential-123052899.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-touts-imminent-decision-potential-123052899.html",
+        "image": "http://www.bing.com/th?id=ONUT.UfEfdMBAYmboRkr_wJmr6g&pid=News",
+        "timestamp": 1793939460.0
+    },
+    {
         "id": "d47c9bd8d9",
         "title_fa": "جهش قیمت نفت با سایه سنگین تنش‌ها با ای-ران",
         "title_en": "Oil prices rise amid uncertainty over Iran conflict and U.S. midterms",
@@ -5460,23 +5479,5 @@
         "clean_url": "https://www.chicagotribune.com/2026/11/03/virginia-senate-race-results",
         "image": "http://www.bing.com/th?id=ONUT.UgOSYi9zjyL5c_Zidbe-ww&pid=News",
         "timestamp": 1793724240.0
-    },
-    {
-        "id": "cd5c4cea6e",
-        "title_fa": "ابقای جان آسوف در سنا از ایالت جورجیا",
-        "title_en": "Democratic Sen. Jon Ossoff cruises to re-election in Georgia",
-        "summary": [
-            "جان آسوف با پیروزی بر رقیب جمهوری‌خواه، کرسی خود را در سنا حفظ کرد.",
-            "این برد کلیدی در یک ایالت سرنوشت‌ساز، جایگاه دموکرات‌ها را در معادلات کنگره تقویت کرد."
-        ],
-        "impact": "حفظ یک کرسی حیاتی برای دموکرات‌ها در سنای آمریکا.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "NBC New York",
-        "url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183/",
-        "clean_url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183",
-        "image": "http://www.bing.com/th?id=ONUT.QFu4A_SecSgZjIAtXg8q3g&pid=News",
-        "timestamp": 1793724120.0
     }
 ]
