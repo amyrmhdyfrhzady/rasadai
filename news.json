@@ -473,6 +473,24 @@
         "timestamp": 1793937375.0
     },
     {
+        "id": "1b609547a4",
+        "title_fa": "بازنشر پیام صریح نیوزمکس توسط ترامپ درباره ایران",
+        "title_en": "ترامپ پیام نیوزمکس درباره ایران را بازنشر کرد: ترامپ پیروز است و حق با اوست",
+        "summary": [
+            "دونالد ترامپ با بازنشر مواضع تحلیلی نیوزمکس، بر صحت راهبرد خود در قبال تهران و تداوم فشارها تاکید کرد.",
+            "این اقدام پیامی آشکار به لایه‌های قدرت در ایران و متحدان منطقه‌ای درباره بازگشت احتمالی سیاست‌های سرسختانه است."
+        ],
+        "impact": "افزایش نااطمینانی اقتصادی در بازار تهران و احتمال تشدید فشار دیپلماتیک",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611066030",
+        "clean_url": "https://www.iranintl.com/202611066030",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793937360.0
+    },
+    {
         "id": "19fc89c44a",
         "title_fa": "آماده‌باش ارتش اسرائیل برای تصمیم واشنگتن درباره ای-ران",
         "title_en": "Iran strike still on the table as IDF awaits Washington's next move",
@@ -5462,23 +5480,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTk5HV0lxVUVFaFJENXVwV1BiX0x4X2FxbFRQYXBMN3Z5VzFLaHgxNkxuMjFxWkFrMjh0akZHSHpKcFE1VEh5UkFKTUhzWWpOYk9UeHVlTHNhMW0yWFhmZ3B6VW5JLTZ4dEE3eHNPNDlNcGpfbEJCMXFxX3F4S3Ricm9HeWZhTDJlazhvdVhJbE90QUFMVHZkUEJsUGdkZ2VMamNEX2lzOHU",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793728083.0
-    },
-    {
-        "id": "55efc43ead",
-        "title_fa": "رقابت انتخاباتی در حوزه یازدهم میشیگان",
-        "title_en": "Democrat Jeremy Moss leads GOP's Ethan Baker in 11th District",
-        "summary": [
-            "جرمی ماس از حزب دموکرات پیشتاز رقابت با ایتن بیکر جمهوری‌خواه است",
-            "اختلال فنی سایت به دلیل مرورگرهای قدیمی مانع دسترسی کامل کاربران شد"
-        ],
-        "impact": "این رقابت تأثیری بر معادلات کلان سیاسی کل کشور ندارد",
-        "tag": "انتخابات",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/politics/elections/2026/11/03/democrat-jeremy-moss-11th-district-ethan-baker-haley-stevens-first-gay-member-election-results/92503366007/",
-        "clean_url": "https://www.detroitnews.com/story/news/politics/elections/2026/11/03/democrat-jeremy-moss-11th-district-ethan-baker-haley-stevens-first-gay-member-election-results/92503366007",
-        "image": "http://www.bing.com/th?id=ONUT.sd93dgTkr3Yi3xs2lLuXVw&pid=News",
-        "timestamp": 1793727960.0
     }
 ]
