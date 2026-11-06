@@ -1,5 +1,23 @@
 [
     {
+        "id": "198d9696aa",
+        "title_fa": "ریزش قیمت نفت هم‌زمان با امیدواری به تحولات خاورمیانه",
+        "title_en": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
+        "summary": [
+            "بازار جهانی نفت به تحولات سیاسی ایالات متحده واکنش منفی نشان داد.",
+            "سرمایه‌گذاران روی احتمال تغییرات دیپلماتیک و کاهش تنش‌ها حساب کرده‌اند."
+        ],
+        "impact": "افت موقت قیمت نفت و کاهش درآمدهای ارزی جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGZJRGVaVkdJaDR5b1REaE5CdWQtY2ZlczBhUXFWT253Vi0tMkNoUVhSNUI0Rzlqbnc5UnVVS0lqN1kwVzZ3eTJ6ODByNlc5ck5HYmlkMEVyRzlrVDNFdk8zQ2JuRWdQLUdYc3ozNUVCc3hRSGhDc0tKNW9QY1A2ZVpMZC1PNGxqUU81QkQyZms0R1VxWUUzbTRLSmYyUTRvM0ZHVmVjdTRpZ2NxLUJkcFlQZzY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGZJRGVaVkdJaDR5b1REaE5CdWQtY2ZlczBhUXFWT253Vi0tMkNoUVhSNUI0Rzlqbnc5UnVVS0lqN1kwVzZ3eTJ6ODByNlc5ck5HYmlkMEVyRzlrVDNFdk8zQ2JuRWdQLUdYc3ozNUVCc3hRSGhDc0tKNW9QY1A2ZVpMZC1PNGxqUU81QkQyZms0R1VxWUUzbTRLSmYyUTRvM0ZHVmVjdTRpZ2NxLUJkcFlQZzY",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793957926.0
+    },
+    {
         "id": "6ecf0281b3",
         "title_fa": "هشدار صریح ترامپ درباره نابودی ک-ام-ل ج-م-ه-و-ر-ی اس-لا-می",
         "title_en": "Trump warns Iran could face destruction",
@@ -5461,24 +5479,5 @@
         "clean_url": "https://www.huffpost.com/entry/jared-moskowitz-scott-singer-florida-25th-district_n_6ace3b48e4b0447f8d488f58",
         "image": "http://www.bing.com/th?id=ONUT.pChiHKJAEA0IKBjWqKu5Wg&pid=News",
         "timestamp": 1793721600.0
-    },
-    {
-        "id": "89d232f2b8",
-        "title_fa": "تلاش قطر برای میانجی‌گری میان تهران و واشنگتن",
-        "title_en": "US, Iran Restore Diplomacy amid Limited Strikes",
-        "summary": [
-            "قالیباف با ادبیات طلبکارانه توپ را به زمین آمریکا انداخته تا از جنگ تمام‌عیار فرار کند.",
-            "دیپلماسی پشت پرده قطر برای جلوگیری از فروپاشی کامل روابط در جریان است.",
-            "تهران در حال خرید زمان است تا با ارائه پاسخ‌های به اصطلاح منطقی، از فشار نظامی بکاهد."
-        ],
-        "impact": "توقف موقت تنش‌های نظامی و بازگشت به میز مذاکرات غیرمستقیم.",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/us_iran_restore_diplomacy_amid_limited_strikes-03-nov-2026-184996-article/",
-        "clean_url": "https://www.rigzone.com/news/wire/us_iran_restore_diplomacy_amid_limited_strikes-03-nov-2026-184996-article",
-        "image": "https://images.rigzone.com/images/news/articles/US-Iran-Restore-Diplomacy-amid-Limited-Strikes-184996-1200x628.png",
-        "timestamp": 1793721420.0
     }
 ]
