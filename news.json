@@ -365,6 +365,25 @@
         "timestamp": 1793959380.0
     },
     {
+        "id": "1ffbd9a437",
+        "title_fa": "بحران گاز در زمستان و پناه بردن به روسیه",
+        "title_en": "Top Iran cleric says Trump's midterm defeat was 'part of our revenge'",
+        "summary": [
+            "ناترازی شدید انرژی و قطع گاز کارخانجات سیمان از اواخر آبان‌ماه کلید خورد.",
+            "مذاکرات محسن رضایی در مسکو برای واردات گاز، فقط تلاشی برای خرید زمان است نه حل ریشه‌ای بحران.",
+            "کمبود روزانه ۴۰۰ میلیون متر مکعب گاز در اوج سرما، اقتصاد فلج‌شده جـ.م. را با فروپاشی کامل روبه‌رو می‌کند."
+        ],
+        "impact": "فلج شدن صنایع کلیدی و قطعی گسترده انرژی در فصل سرما قطعی است.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611060921",
+        "clean_url": "https://www.iranintl.com/en/202611060921",
+        "image": "http://www.bing.com/th?id=ONUT.GwQB3_x2M2J_j4X-5qvbTw&pid=News",
+        "timestamp": 1793959260.0
+    },
+    {
         "id": "198d9696aa",
         "title_fa": "ریزش قیمت نفت هم‌زمان با امیدواری به تحولات خاورمیانه",
         "title_en": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://www.nbcnews.com/politics/2026-election/annie-andrews-south-carolina-senate-win-darline-graham-gop-rcna603338",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-annie-andrews-south-carolina-senate-midterm-vl-1234p-95f150.jpg",
         "timestamp": 1793732880.0
-    },
-    {
-        "id": "dece02024a",
-        "title_fa": "رقابت تنگاتنگ نامزدهای دموکرات و جمهوری‌خواه در میشیگان",
-        "title_en": "Democrat Lawrence leads GOP US Rep. Barrett in key House battle",
-        "summary": [
-            "ویل لارنس برای شکست دادن تام برت در یکی از حوزه‌های کلیدی مجلس تلاش می‌کند.",
-            "این رقابت یکی از نبردهای سرنوشت‌ساز برای کنترل مجلس نمایندگان است."
-        ],
-        "impact": "این رقابت تأثیر مستقیمی بر موازنه قوا در کنگره ایالات متحده دارد.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Detroit News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/democrat-lawrence-leads-gop-us-rep-barrett-in-key-house-battle/ar-AA2gHKa6",
-        "clean_url": "https://www.msn.com/en-us/news/other/democrat-lawrence-leads-gop-us-rep-barrett-in-key-house-battle/ar-AA2gHKa6",
-        "image": "http://www.bing.com/th?id=ONUT.ZPrgSjnCFfSQS7P8TLCgkA&pid=News",
-        "timestamp": 1793732823.0
     }
 ]
