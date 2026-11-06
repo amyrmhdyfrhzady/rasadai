@@ -36,6 +36,25 @@
         "timestamp": 1793996776.0
     },
     {
+        "id": "38719b3821",
+        "title_fa": "مسدودسازی صرافی رمزارز مکس‌سی به جرم همکاری با تهران",
+        "title_en": "Operation Economic Outcast Severs MEXC Global's Access to the U.S. Financial System",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا دسترسی صرافی مکس‌سی را به سیستم مالی خود قطع کرد.",
+            "این صرافی بیش از ۱۶ میلیارد دلار تراکنش غیرقانونی برای دورزدن تحریم‌های ای-ران، کره شمالی و روسیه انجام داده است.",
+            "وزیر خزانه‌داری آمریکا تاکید کرد که رژیم ایران دیگر راهی برای استفاده از دارایی‌های دیجیتال جهت دورزدن تحریم‌ها نخواهد داشت."
+        ],
+        "impact": "بسته‌شدن یکی از مسیرهای اصلی مالی و ارزی برای دورزدن تحریم‌ها توسط نهادهای نظامی.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "U.S. Department of the Treasury",
+        "url": "https://home.treasury.gov/news/press-releases/sb0685/",
+        "clean_url": "https://home.treasury.gov/news/press-releases/sb0685",
+        "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+        "timestamp": 1793995200.0
+    },
+    {
         "id": "393184a44e",
         "title_fa": "احتمال بالای بازگشت تنش‌های نظامی با ایـران",
         "title_en": "'Very good chance' we go back to conflict in Iran, says fmr. WH senior advisor Amos Hochstein",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://www.nbcnews.com/politics/2026-election/democrats-capture-full-control-congress-nbc-news-projects-fueled-victo-rcna607042",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-congressional-control-democrat-midterms-jg-cac2b5.png",
         "timestamp": 1793737440.0
-    },
-    {
-        "id": "9bc837934b",
-        "title_fa": "سنجش افکار عمومی درباره جنگ احتمالی با ج-ه-ا",
-        "title_en": "How popular is the Iran War?",
-        "summary": [
-            "موج جدیدی از ارزیابی‌های آماری درباره میزان محبوبیت یا مخالفت با درگیری نظامی با ایران به راه افتاده است.",
-            "کارشناسان سیاسی در حال بررسی این موضوع هستند که آیا جامعه آمریکا کشش یک جنگ جدید در خاورمیانه را دارد یا خیر."
-        ],
-        "impact": "این نظرسنجی‌ها مستقیماً روی تصمیم‌گیری کاخ سفید برای ورود به هرگونه درگیری نظامی تاثیر می‌گذارد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Silver Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793736617.0
     }
 ]
