@@ -18,6 +18,24 @@
         "timestamp": 1794000296.0
     },
     {
+        "id": "e28066e129",
+        "title_fa": "ضربه خزانه داری آمریکا به شبکه مالی ج.م.ا در کانادا",
+        "title_en": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+        "summary": [
+            "خزانه داری ایالات متحده شرکت های خدمات ارزی مستقر در کانادا را به دلیل همکاری در تراکنش های مالی مرتبط با ج.م.ا تحریم کرد.",
+            "این اقدام نشان دهنده مسدودسازی مسیرهای دور زدن تحریم ها و قطع شریان های پولشویی خارجی سیستم حاکم است."
+        ],
+        "impact": "بسته شدن کانال های کلیدی تبادلات ارزی خارج از کشور و تنگ تر شدن حلقه محاصره مالی ج.م.ا",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793998942.0
+    },
+    {
         "id": "f6abe746cc",
         "title_fa": "هشدار جدی آمریکا به شهروندان برای دوری از مراکز س پ ا ه",
         "title_en": "US urges Iranians to stay away from IRGC positions if tensions escalate",
@@ -5467,25 +5485,6 @@
         "url": "https://www.cleveland.com/election/2026/11/democrats-gain-control-of-us-house-senate-with-decisive-wins.html",
         "clean_url": "https://www.cleveland.com/election/2026/11/democrats-gain-control-of-us-house-senate-with-decisive-wins.html",
         "image": "http://www.bing.com/th?id=ONUT.RLaU4_wP1WZAsPHT_GYssg&pid=News",
-        "timestamp": 1793737920.0
-    },
-    {
-        "id": "6d72596ab1",
-        "title_fa": "واکنش ترامپ به پیروزی دموکرات‌ها و ابزار وتو",
-        "title_en": "Trump congratulates Democrats in election night call with CBS News",
-        "summary": [
-            "دونالد ترامپ در تماس با سی‌بی‌اس نیوز پیروزی دموکرات‌ها را تبریک گفت.",
-            "او با اشاره به قدرت وتوی خود تاکید کرد که حزب مقابل ناچار به توافق خواهد بود.",
-            "ترامپ شکست جمهوری‌خواهان را ناشی از غیبت نام خود در برگه رای دانست."
-        ],
-        "impact": "تنظیم دوباره معادلات قدرت در واشنگتن و خط و نشان کشیدن برای کنگره جدید.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-congratulates-democrats-election-night-call/",
-        "clean_url": "https://www.cbsnews.com/news/trump-congratulates-democrats-election-night-call",
-        "image": "http://www.bing.com/th?id=ONUT.LdSvAOI0IowPoYvdSowQbQ&pid=News",
         "timestamp": 1793737920.0
     }
 ]
