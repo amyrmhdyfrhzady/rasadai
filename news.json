@@ -731,6 +731,25 @@
         "timestamp": 1793950231.0
     },
     {
+        "id": "310096355c",
+        "title_fa": "خیز نفتکش‌های وابسته به ج.ا برای قطع اینترنت جهانی",
+        "title_en": "Ships loiter near subsea cables amid Iran’s warnings to Trump",
+        "summary": [
+            "رصد تحرکات مشکوک نفتکش‌های تحریم‌شده و یک شناور صیادی نزدیک کابل‌های فیبر نوری زیردریایی در خلیج عمان.",
+            "احتمال بالای برنامه‌ریزی برای حمله به زیرساخت‌های ارتباطی در واکنش به پاسخ احتمالی نظامی آمریکا و اسرائیل.",
+            "وابستگی شدید کشورهای منطقه و یک‌سوم اینترنت غرب هند به خطوط ارتباطی حیاتی در تنگه هرمز."
+        ],
+        "impact": "قطع احتمالی کابل‌های زیردریایی می‌تواند اینترنت بخش وسیعی از خاورمیانه و آسیا را فلج کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+        "clean_url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump",
+        "image": "http://www.bing.com/th?id=ONUT.skEncth32eTKCZErBA3veA&pid=News",
+        "timestamp": 1793947260.0
+    },
+    {
         "id": "0670e6ba43",
         "title_fa": "تهدید ترامپ به نابودی کامل باقی‌مانده زیرساخت‌های جـ.ـهـ.ـوری اِسـ.ـلـ.ـامـ.ـی",
         "title_en": "Trump weighs resuming war, says if need be, he will have to destroy rest of Iran",
@@ -5468,23 +5487,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/democrat-josh-turek-wins-iowa-senate-race/ar-AA2gIx6F",
         "image": "http://www.bing.com/th?id=ONUT.tFO0ZPnCUeec-hQRmFCDaQ&pid=News",
         "timestamp": 1793739631.0
-    },
-    {
-        "id": "8301b9e04a",
-        "title_fa": "پیروزی جمهوری‌خواهان در انتخابات حوزه چهارم آیووا",
-        "title_en": "Chris McGowan handily wins Iowa's 4th District over Dave Dawson",
-        "summary": [
-            "کریس مک‌گوان رقیب دموکرات خود دیو داوسون را شکست داد.",
-            "این منطقه همچنان به عنوان پایگاه سنتی حزب جمهوری‌خواه باقی ماند."
-        ],
-        "impact": "تثبیت جایگاه حزب جمهوری‌خواه در این حوزه انتخاباتی.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "The Des Moines Register on MSN",
-        "url": "https://www.msn.com/en-us/news/other/chris-mcgowan-handily-wins-iowas-4th-district-over-dave-dawson/ar-AA2gIkzT",
-        "clean_url": "https://www.msn.com/en-us/news/other/chris-mcgowan-handily-wins-iowas-4th-district-over-dave-dawson/ar-AA2gIkzT",
-        "image": "http://www.bing.com/th?id=ONUT.HWPVejH9EH-45-EamMp5uQ&pid=News",
-        "timestamp": 1793739314.0
     }
 ]
