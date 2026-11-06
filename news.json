@@ -588,6 +588,24 @@
         "timestamp": 1793898054.0
     },
     {
+        "id": "205a45f690",
+        "title_fa": "تأکید رسانه‌های آمریکا بر احیای سیاست فشار حداکثری ترامپ",
+        "title_en": "Trump Is a Winner and Right on Iran",
+        "summary": [
+            "تأکید چهره‌های نزدیک به ترامپ بر درست بودن رویکرد سخت‌گیرانه او، نشانه‌ای واضح از آماده‌سازی فضای رسانه‌ای برای بازگشت تحریم‌های خفه‌کننده است.",
+            "تمرکز اصلی این جریان بر قطع کامل صادرات نفت و مسدود کردن شریان‌های مالی ج.ا قرار دارد."
+        ],
+        "impact": "افزایش احتمال بسته‌تر شدن منافذ دور زدن تحریم‌ها و فشار شدید بر بازار ارز تهران.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Newsmax",
+        "url": "https://www.msn.com/en-us/news/other/trump-is-a-winner-and-right-on-iran/ar-AA2gOWQR",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-is-a-winner-and-right-on-iran/ar-AA2gOWQR",
+        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=891ab6ab-fb22-4f14-ad59-6251e6bd7c77&SiteName=Newsmax",
+        "timestamp": 1793897580.0
+    },
+    {
         "id": "917852d5c5",
         "title_fa": "ایجاد کانال‌های پنهان برای کاهش تنش میان تهران و واشنگتن",
         "title_en": "Mediators Set Up De-Escalation Channels Ahead of US-Iran Talks, Source Says",
@@ -5460,23 +5478,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/todd-blanche-responds-to-alaska-scenarios-as-trump-doj-sends-target-letters/ar-AA2gHmy9",
         "image": "http://www.bing.com/th?id=ONUT.Yj0GO7-ksMZWdHyjbxBUhw&pid=News",
         "timestamp": 1793720032.0
-    },
-    {
-        "id": "5f204a94a4",
-        "title_fa": "واکنش ترامپ به نتایج انتخابات میان‌دوره‌ای آمریکا",
-        "title_en": "Trump breaks silence as midterm results come in",
-        "summary": [
-            "ترامپ در مصاحبه با نیویورک تایمز به ارزیابی نتایج و کرسی‌های سنا پرداخت.",
-            "او شکست‌های احتمالی جمهوری‌خواهان را به عوامل مختلفی نسبت داد."
-        ],
-        "impact": "این موضع‌گیری بر معادلات درون‌حزبی جمهوری‌خواهان و آینده سیاسی ترامپ تاثیر مستقیم دارد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/11/trump-breaks-silence-as-midterm-results-come-in.html",
-        "clean_url": "https://www.mlive.com/politics/2026/11/trump-breaks-silence-as-midterm-results-come-in.html",
-        "image": "http://www.bing.com/th?id=ONUT.NoNVyMy-heMgkWwtWdkHkw&pid=News",
-        "timestamp": 1793719260.0
     }
 ]
