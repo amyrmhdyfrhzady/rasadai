@@ -1,5 +1,24 @@
 [
     {
+        "id": "f5ea9a09e8",
+        "title_fa": "تمرکز نظامی آمریکا در منطقه همزمان با گمانه‌زنی درباره پرونده هسته‌ای",
+        "title_en": "US and Iran near possible nuclear breakthrough as American military buildup continues",
+        "summary": [
+            "آرایش نظامی ایالات متحده در منطقه به شدت تقویت شده است.",
+            "منابع خبری از احتمال شکل‌گیری تحولات تازه یا توافق احتمالی در پرونده اتمی خبر می‌دهند.",
+            "فشار حداکثری واشنگتن همزمان با این تحرکات دیپلماتیک ادامه دارد."
+        ],
+        "impact": "افزایش ریسک‌های امنیتی و نوسان در بازارهای مالی به دلیل سایه سنگین تحرکات نظامی.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUlR2UnVWcm9HZ3MyU3F6cUphdi1DaURCdzduQXVSVmViemhEZkFVc253aEJ0TTh0SkNQdElaaS1langydEVTSldpdlQyVndJTldfWjJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUlR2UnVWcm9HZ3MyU3F6cUphdi1DaURCdzduQXVSVmViemhEZkFVc253aEJ0TTh0SkNQdElaaS1langydEVTSldpdlQyVndJTldfWjJB",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793982396.0
+    },
+    {
         "id": "89adcead28",
         "title_fa": "تهران: تا اسرائیل در لبنان است، صلح ممکن نیست",
         "title_en": "Iran says peace impossible while Israel remains in Lebanon",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iowa-2026-election-updates-polls-have-closed-and-tallying-begins/ar-AA2gFjN1",
         "image": "http://www.bing.com/th?id=ONUT.IoQZCIwnBx4EFFIH5ABWDg&pid=News",
         "timestamp": 1793730263.0
-    },
-    {
-        "id": "c58cee777c",
-        "title_fa": "پیروزی شهردار سابق هارتفورد در انتخابات کنگره آمریکا",
-        "title_en": "Former Hartford mayor Luke Bronin becomes CT’s newest member of Congress",
-        "summary": [
-            "لوک برونین با پیروزی بر رقیب جمهوری‌خواه خود به عنوان نماینده جدید ایالت کنتیکت وارد کنگره شد.",
-            "این سیاستمدار دموکرات اعلام کرده است که قصد دارد به عنوان یک بازدارنده جدی در برابر برنامه‌های دو سال باقیمانده ریاست‌جمهوری دونالد ترامپ عمل کند."
-        ],
-        "impact": "تقویت جناح دموکرات در کنگره و افزایش چالش‌های سیاسی پیش روی دولت ترامپ.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Hartford Courant",
-        "url": "https://www.courant.com/2026/11/03/former-hartford-mayor-luke-bronin-becomes-cts-newest-member-of-congress/",
-        "clean_url": "https://www.courant.com/2026/11/03/former-hartford-mayor-luke-bronin-becomes-cts-newest-member-of-congress",
-        "image": "http://www.bing.com/th?id=ONUT.0r-TfJoQl4tHDtP0qxuZhg&pid=News",
-        "timestamp": 1793730120.0
     }
 ]
