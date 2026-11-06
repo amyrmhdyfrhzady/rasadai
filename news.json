@@ -551,6 +551,25 @@
         "timestamp": 1793877540.0
     },
     {
+        "id": "972102dbc8",
+        "title_fa": "زلزله سیاسی در آمریکا و سایه سنگین آن بر تهران",
+        "title_en": "\"Regime Change Came in Texas Before Tehran\"",
+        "summary": [
+            "شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا، معادلات سیاسی واشنگتن را به شدت تحت تاثیر قرار داد.",
+            "پیروزی دموکرات‌ها در تگزاس نشان داد تغییرات ساختاری پیش از تهران، در قلب ایالات متحده کلید خورده است.",
+            "از دست رفتن کرسی‌های کلیدی حامیان سرسخت فشار حداکثری، مسیر سیاست خارجی واشنگتن را وارد فاز تازه‌ای می‌کند."
+        ],
+        "impact": "تغییر موازنه‌های قدرت در کنگره آمریکا، فشار بر حکومت ایران را از مسیر سنتی خارج و وارد چالش‌های داخلی واشنگتن می‌کند.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The New Yorker",
+        "url": "https://www.newyorker.com/news/global-notes/regime-change-came-in-texas-before-tehran",
+        "clean_url": "https://www.newyorker.com/news/global-notes/regime-change-came-in-texas-before-tehran",
+        "image": "https://media.newyorker.com/photos/6aeb9c038c2fdd9a2a08dae7/master/w_2560,c_limit/Tharoor-Iran-War.jpg",
+        "timestamp": 1793876400.0
+    },
+    {
         "id": "c632b8da75",
         "title_fa": "شایعه حمله اتمی؛ جنگ روانی یا واقعیت پشت پرده؟",
         "title_en": "Inspecting claim Trump admin is planning nuclear strike on Iran in wake of midterms",
@@ -5452,23 +5471,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/american-deaths-in-iran-war-could-harm-gop-at-the-polls-former-state-department-official-says/ar-AA2gGdMw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793712051.0
-    },
-    {
-        "id": "9d6990173b",
-        "title_fa": "زلزله سیاسی ترامپ؛ قطع کمک‌های میلیاردی به اسرائیل",
-        "title_en": "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
-        "summary": [
-            "دونالد ترامپ در یک تصمیم غیرمنتظره از پایان دادن به کمک‌های سالانه چهار میلیارد دلاری آمریکا به اسرائیل خبر داد.",
-            "این اقدام چرخش بزرگی در سیاست‌های سنتی واشنگتن در قبال خاورمیانه ایجاد می‌کند."
-        ],
-        "impact": "این تصمیم معادلات امنیتی منطقه و روابط تل‌آویو و واشنگتن را وارد فاز تازه‌ای می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-election-day-bombshell-on-israel-points-to-historic-shift-in-us-politics/ar-AA2gHev8",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-election-day-bombshell-on-israel-points-to-historic-shift-in-us-politics/ar-AA2gHev8",
-        "image": "http://www.bing.com/th?id=ONUT.sJ-0o8a2fqZaAyavemxCEg&pid=News",
-        "timestamp": 1793711978.0
     }
 ]
