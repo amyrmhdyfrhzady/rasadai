@@ -1,5 +1,23 @@
 [
     {
+        "id": "245dd29152",
+        "title_fa": "نگرانی مردم از بازگشت درگیری‌های واشنگتن و تهران",
+        "title_en": "US-Iran Conflict: In aftermath of US midterms, Iranians concerned over renewed conflict",
+        "summary": [
+            "فضای عمومی جامعه با سایه سنگین تنش‌های خارجی و نگرانی از درگیری‌های نظامی تازه گره خورده است.",
+            "تغییرات سیاسی در آمریکا باعث ایجاد موج جدیدی از دلهره درباره آینده وضعیت معیشتی و امنیتی شده است."
+        ],
+        "impact": "افزایش فشار روانی بر بازار و تشدید نااطمینانی اقتصادی در داخل کشور",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "CGTN",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhM0J2bVhCZ2hFQTV5UGl6dkM3TmQ1dElUZmN5S1d0cld0YmVzZmlRRDBxS3RFLWN5ZF8xYzZXRzkwRnhSV2tXUXk1UHVtaGdqdGxWaGJsUHdEeXgzVjdqa3lBeXdMd0xMQklYcm15R0wwTXFwOV9oTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhM0J2bVhCZ2hFQTV5UGl6dkM3TmQ1dElUZmN5S1d0cld0YmVzZmlRRDBxS3RFLWN5ZF8xYzZXRzkwRnhSV2tXUXk1UHVtaGdqdGxWaGJsUHdEeXgzVjdqa3lBeXdMd0xMQklYcm15R0wwTXFwOV9oTg",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793970668.0
+    },
+    {
         "id": "488b2dd481",
         "title_fa": "روی آوردن سپاه به تاکتیک‌های چریکی در تنگه هرمز",
         "title_en": "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz",
@@ -5461,24 +5479,5 @@
         "clean_url": "https://www.mlive.com/politics/2026/11/jocelyn-benson-declares-victory-in-michigan-governors-race.html",
         "image": "http://www.bing.com/th?id=ONUT.azL-XDXrTaoo0IUWzELUkw&pid=News",
         "timestamp": 1793726820.0
-    },
-    {
-        "id": "0debbf15b8",
-        "title_fa": "پیروزی کریس پپاس در انتخابات سنای نیوهمپشر",
-        "title_en": "Chris Pappas wins New Hampshire 2026 Senate election",
-        "summary": [
-            "کریس پپاس از حزب دموکرات توانست جان سونونو از جمهوری‌خواهان را در رقابت تنگاتنگ سنا شکست دهد.",
-            "این کرسی مهم پس از بازنشستگی جین شاهین همچنان در کنترل دموکرات‌ها باقی ماند.",
-            "شکست خاندان نفوذپذیر سونونو ضربه سختی به امیدهای حزب جمهوری‌خواه برای تصاحب این کرسی بود."
-        ],
-        "impact": "حفظ یکی از کرسی‌های کلیدی سنا برای دموکرات‌ها و ناکامی جمهوری‌خواهان در تغییر موازنه قوا",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/new-hampshire-2026-senate-pappas-sununu/",
-        "clean_url": "https://www.cbsnews.com/news/new-hampshire-2026-senate-pappas-sununu",
-        "image": "http://www.bing.com/th?id=ONUT.UpxE1FC9wOHd1EyNTE2JGQ&pid=News",
-        "timestamp": 1793726640.0
     }
 ]
