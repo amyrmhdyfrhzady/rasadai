@@ -1,5 +1,23 @@
 [
     {
+        "id": "a8a3859e75",
+        "title_fa": "دفاع هگست از جنگ با ای-ران در میان فشارهای برکناری",
+        "title_en": "Hegseth defends Iran war, assails critics as calls mount for his removal",
+        "summary": [
+            "وزیر دفاع پیشنهادی ترامپ محکم پشت سیاست جنگ با ای-ران ایستاده است.",
+            "منتقدان با وجود افزایش فشارها خواهان حذف فوری او از این سمت هستند."
+        ],
+        "impact": "افزایش شکاف در واشنگتن بر سر رویکرد نظامی دولت جدید در قبال تهران.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGRIQ19MXzAwUlQ0WHlaZ1I4WE5tUXZMTmdrOVQ3Ql9QZVRqOHB2dGNOcUFoOVlIbVBMMmFmS3pXQk1GTlYzV3BhMk5haFBZRXRoNkhNek1lSU0yZVlvUVk0YU1DOHlpeEZaWmFEdGdKaXNrQ2ZIaGI4Tm41ZUg4R1NVd2JYQ1pUdGtBYW5wOC1aaG15dWlFNFFCWXZkYXhCcXlFNnRFdjZFaTJqT3RscTBXTDAyeEszakhvcFBnbTlQeTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGRIQ19MXzAwUlQ0WHlaZ1I4WE5tUXZMTmdrOVQ3Ql9QZVRqOHB2dGNOcUFoOVlIbVBMMmFmS3pXQk1GTlYzV3BhMk5haFBZRXRoNkhNek1lSU0yZVlvUVk0YU1DOHlpeEZaWmFEdGdKaXNrQ2ZIaGI4Tm41ZUg4R1NVd2JYQ1pUdGtBYW5wOC1aaG15dWlFNFFCWXZkYXhCcXlFNnRFdjZFaTJqT3RscTBXTDAyeEszakhvcFBnbTlQeTA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793931439.0
+    },
+    {
         "id": "b39ac51e38",
         "title_fa": "ترامپ: جنگ با ج.ا.ا را هر زمان بخواهم تمام می‌کنم",
         "title_en": "Trump Signals Imminent Decision on Whether to Restart Full-Scale War with Iran as Diplomatic Efforts Accelerate",
@@ -18,6 +36,24 @@
         "clean_url": "https://www.itiger.com/news/1114550119",
         "image": "https://c1.itigergrowtha.com/portal5/static/media/og-logo.0a0bd8dc.png",
         "timestamp": 1793927220.0
+    },
+    {
+        "id": "2911eea091",
+        "title_fa": "تاکید کارشناسان بر ضرورت اقدام نظامی علیه اتم ای-ران",
+        "title_en": "Military action needed to achieve Trump's goal of ending Iran's nuclear program, expert says",
+        "summary": [
+            "دستیابی به هدف ترامپ برای نابودی برنامه هسته‌ای ای-ران تنها با زور نظامی ممکن است.",
+            "فشارها بر تیم انتقال قدرت در آمریکا برای ورود به گزینه سخت افزاری بیشتر شده است."
+        ],
+        "impact": "بال رفتن احتمال برخورد نظامی مستقیم برای توقف فعالیت‌های اتمی.",
+        "tag": "هسته ای",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GZE4wWlgweVB6TjJiaWRiVzBxNHN3TGVpRnQxTVMzU0Vta3loZS1QZlhVSU5yMy1MamxPcUU1cEoybExJT3NYSXVmSGJpQm5zeTBKM0RLTW5VdVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GZE4wWlgweVB6TjJiaWRiVzBxNHN3TGVpRnQxTVMzU0Vta3loZS1QZlhVSU5yMy1MamxPcUU1cEoybExJT3NYSXVmSGJpQm5zeTBKM0RLTW5VdVU",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793926220.0
     },
     {
         "id": "0b023d2181",
@@ -5440,41 +5476,5 @@
         "clean_url": "https://www.cnn.com/2026/11/03/politics/video/pennsylvania-voter-house-red-bipartisanship-digvid",
         "image": "http://www.bing.com/th?id=ONUT.AtnA1j5-uUikoCIW-bv-Qg&pid=News",
         "timestamp": 1793716260.0
-    },
-    {
-        "id": "ab6fa9eb4e",
-        "title_fa": "نتایج نظرسنجی‌های صندوق رأی در انتخابات میان‌دوره آمریکا",
-        "title_en": "See CBS News exit poll results for the 2026 midterm elections",
-        "summary": [
-            "بررسی خواسته‌ها و دغدغه‌های اصلی رأی‌دهندگان آمریکایی در انتخابات میان‌دوره‌ای.",
-            "تمرکز رسانه‌ها بر روند آرای عمومی و جهت‌گیری سیاسی جامعه."
-        ],
-        "impact": "آشکار شدن نبض سیاسی و گرایش‌های عمومی رأی‌دهندگان در آستانه تحولات سیاسی آمریکا.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/see-cbs-news-exit-poll-results-for-the-2026-midterm-elections/ar-AA2gGMMb",
-        "clean_url": "https://www.msn.com/en-us/news/other/see-cbs-news-exit-poll-results-for-the-2026-midterm-elections/ar-AA2gGMMb",
-        "image": "http://www.bing.com/th?id=ONUT.gayjigl4avTrdqGj4SWylA&pid=News",
-        "timestamp": 1793716080.0
-    },
-    {
-        "id": "450447d542",
-        "title_fa": "پیروزی باب لاتا و ابقای او در مجلس نمایندگان اوهایو",
-        "title_en": "Bob Latta wins re-election to Ohio’s 5th congressional district",
-        "summary": [
-            "باب لاتا موفق شد رقبای خود از حزب دموکرات و لیبرترین را در حوزه پنجم اوهایو شکست دهد.",
-            "این پیروزی تداوم حضور نماینده فعلی در کنگره را تضمین می‌کند."
-        ],
-        "impact": "تغییر خاصی در ترکیب سنتی این حوزه انتخابیه ایجاد نشده است.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "cleveland.com",
-        "url": "https://www.cleveland.com/news/2026/11/bob-latta-wins-re-election-to-ohios-5th-congressional-district.html",
-        "clean_url": "https://www.cleveland.com/news/2026/11/bob-latta-wins-re-election-to-ohios-5th-congressional-district.html",
-        "image": "http://www.bing.com/th?id=ONUT.qxP3rT3wc2CxakrzYtv_jw&pid=News",
-        "timestamp": 1793715120.0
     }
 ]
