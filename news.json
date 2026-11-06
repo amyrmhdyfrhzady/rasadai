@@ -473,6 +473,24 @@
         "timestamp": 1793963203.0
     },
     {
+        "id": "fa3544a61f",
+        "title_fa": "افزایش فشارها برای استیضاح وزیر دفاع امریکا بر سر ایران",
+        "title_en": "Pressure Mounts on Pete Hegseth Ahead of Impeachment Push Over Iran",
+        "summary": [
+            "نمایندگان هر دو حزب جمهوری‌خواه و دموکرات در کنگره آمریکا به شدت از عملکرد پیت هگزث انتقاد کرده و بحث استقاله یا استیضاح او را جدی کرده‌اند.",
+            "نگرانی بدنه رأی‌دهندگان جمهوری‌خواه از ورود به درگیری‌های فرسایشی جدید در خاورمیانه، نمایندگان را وادار به چالش کشیدن استراتژی دولت در قبال ایران کرده است."
+        ],
+        "impact": "تردیدهای جدی در بدنه حاکمیت آمریکا درباره توانایی مدیریت بحران‌های نظامی جاری ایجاد شده است.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/pete-hegseth-impeachment-video-fired-replaced-trump-12678907",
+        "clean_url": "https://www.newsweek.com/pete-hegseth-impeachment-video-fired-replaced-trump-12678907",
+        "image": "http://www.bing.com/th?id=ONUT.uIjLEWIXyagmp-uD5K5Rqg&pid=News",
+        "timestamp": 1793961600.0
+    },
+    {
         "id": "9ca49148a1",
         "title_fa": "خشم رای‌دهندگان آمریکایی از جنگ و گرانی",
         "title_en": "How voter anger over Iran war, prices and Israel powered Democratic midterm sweep",
@@ -5468,23 +5486,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/chris-mcgowan-handily-wins-iowas-4th-district-over-dave-dawson/ar-AA2gIkzT",
         "image": "http://www.bing.com/th?id=ONUT.HWPVejH9EH-45-EamMp5uQ&pid=News",
         "timestamp": 1793739314.0
-    },
-    {
-        "id": "f6a8e6592b",
-        "title_fa": "هشدار کارشناسان حکومتی نسبت به پیامدهای جنگ احتمالی",
-        "title_en": "Trump allies blame Iran war for Republican election losses",
-        "summary": [
-            "تهدیدات جدید دونالد ترامپ و احتمال درگیری نظامی، محافل سیاسی جـمـهـورى اسـلامـى را به شدت نگران بسته شدن تنگه هرمز کرده است.",
-            "کارشناسان رسانه ملی اذعان دارند که حمله نظامی آمریکا دیگر محدود نخواهد بود و حاکمیت تمایلی به امتیازدهی در میز مذاکره ندارد."
-        ],
-        "impact": "افزایش ریسک امنیتی در خلیج فارس و احتمال تنش فوری نظامی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611040814",
-        "clean_url": "https://www.iranintl.com/en/202611040814",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1793739060.0
     }
 ]
