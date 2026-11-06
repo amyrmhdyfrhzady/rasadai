@@ -384,6 +384,25 @@
         "timestamp": 1793959260.0
     },
     {
+        "id": "99a899a249",
+        "title_fa": "بحران گاز در ج.ا؛ ناتوانی در تامین سوخت زمستانی",
+        "title_en": "Qatar urges US and Iran to accept ‘good’ deal rather than seek ‘perfect’ one",
+        "summary": [
+            "محسن رضایی در مسکو به دنبال راهکار برای جبران کسری گاز است، اما این همکاری با روسیه تنها مسکنی موقت برای زیرساخت‌های فرسوده است.",
+            "سعید توکلی اعتراف کرده که حملات به تاسیسات گازی، ظرفیت تولید را به شدت کاهش داده و کشور با ناترازی ۴۰۰ میلیون متر مکعبی در زمستان روبروست.",
+            "قطع گاز کارخانه‌های سیمان نشان می‌دهد که اولویت حاکمیت برای جلوگیری از فروپاشی شبکه خانگی، تعطیلی صنایع و تشدید رکود اقتصادی است."
+        ],
+        "impact": "توقف تولید در صنایع کلیدی و افزایش فشار معیشتی به دلیل کمبود شدید سوخت در زمستان پیش رو.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611065901",
+        "clean_url": "https://www.iranintl.com/en/202611065901",
+        "image": "http://www.bing.com/th?id=ONUT.h_zfWISV3XehrgRyn9O3AA&pid=News",
+        "timestamp": 1793958720.0
+    },
+    {
         "id": "198d9696aa",
         "title_fa": "ریزش قیمت نفت هم‌زمان با امیدواری به تحولات خاورمیانه",
         "title_en": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
@@ -5468,24 +5487,5 @@
         "clean_url": "https://www.foxnews.com/politics/trump-bedminster-golf-course-falls-dems-republicans-lose-key-house-seat",
         "image": "http://www.bing.com/th?id=ONUT.iwWuR-aP1Jbw2Y6IZZ4keg&pid=News",
         "timestamp": 1793733420.0
-    },
-    {
-        "id": "9c50d3a9bf",
-        "title_fa": "شکست غیرمنتظره جمهوری‌خواهان در سناریوی سنای کارولینای جنوبی",
-        "title_en": "Democrat Annie Andrews defeats GOP Sen. Darline Graham in South Carolina, a major upset",
-        "summary": [
-            "آنی اندروز، نامزد دموکرات، توانست کرسی سنا را از دارلین گراهام جمهوری‌خواه پس بگیرد.",
-            "این پیروزی پس از سال‌ها سلطه جمهوری‌خواهان در این ایالت رقم خورده است.",
-            "ضعف نامزد جمهوری‌خواه در تسلط بر مسائل امنیت ملی نقش مهمی در این شکست داشت."
-        ],
-        "impact": "این نتیجه موازنه قدرت در سنا را به چالش کشیده و معادلات سیاسی حزب جمهوری‌خواه را تغییر می‌دهد.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/2026-election/annie-andrews-south-carolina-senate-win-darline-graham-gop-rcna603338",
-        "clean_url": "https://www.nbcnews.com/politics/2026-election/annie-andrews-south-carolina-senate-win-darline-graham-gop-rcna603338",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-annie-andrews-south-carolina-senate-midterm-vl-1234p-95f150.jpg",
-        "timestamp": 1793732880.0
     }
 ]
