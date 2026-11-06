@@ -254,6 +254,25 @@
         "timestamp": 1793940360.0
     },
     {
+        "id": "278a4b5237",
+        "title_fa": "پشت پرده معامله گازوئیل روسیه و آمریکا و شوک به اروپا",
+        "title_en": "Russia-US diesel deal caused panic in Europe — NATO chief",
+        "summary": [
+            "معامله اخیر مسکو و واشنگتن برای تامین گازوئیل، زلزله سیاسی و اقتصادی در پایتخت‌های اروپایی ایجاد کرده است.",
+            "دبیرکل ناتو با وجود انتقاد از این معامله، به دلیل حفظ اتحاد غرب از ورود عمیق به جزئیات آن خودداری کرد.",
+            "تناقض رفتاری اروپا آشکار است؛ در حالی که از معامله گازوئیل وحشت‌زده شده‌اند، همچنان میلیاردها یورو گاز طبیعی از روسیه می‌خرند."
+        ],
+        "impact": "ترک خوردن دیوار تحریم‌های انرژی و افزایش بی‌اعتمادی میان اروپا و واشنگتن",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2213861",
+        "clean_url": "https://tass.com/economy/2213861",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261106/1492139.jpg",
+        "timestamp": 1793939580.0
+    },
+    {
         "id": "70f14970ae",
         "title_fa": "شرط‌گذاری تهران برای واشنگتن پیش از آغاز گفتگوها",
         "title_en": "Iran reportedly sends US nuclear proposal but demands seven conditions before talks | LIVE BLOG",
@@ -5461,23 +5480,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-texts-fox-news-rips-loser-host-as-he-switches-channel/ar-AA2gH0XD",
         "image": "http://www.bing.com/th?id=ONUT.zz4lKTSVeuGXe3U8Ee3IzQ&pid=News",
         "timestamp": 1793724744.0
-    },
-    {
-        "id": "c17d6e2640",
-        "title_fa": "پیروزی مارک وارنر در انتخابات سنای ویرجینیا",
-        "title_en": "Virginia Senate race: Democratic incumbent Mark Warner wins reelection",
-        "summary": [
-            "مارک وارنر، سناتور دموکرات و نایب رئیس کمیته اطلاعات سنا، برای دور چهارم انتخاب شد.",
-            "این پیروزی در ایالتی رقم خورد که جمعیت بزرگی از کارمندان فدرال را در خود جای داده است."
-        ],
-        "impact": "تثبیت جایگاه دموکرات‌ها در کمیته کلیدی اطلاعات سنا.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/11/03/virginia-senate-race-results/",
-        "clean_url": "https://www.chicagotribune.com/2026/11/03/virginia-senate-race-results",
-        "image": "http://www.bing.com/th?id=ONUT.UgOSYi9zjyL5c_Zidbe-ww&pid=News",
-        "timestamp": 1793724240.0
     }
 ]
