@@ -73,6 +73,24 @@
         "timestamp": 1793960854.0
     },
     {
+        "id": "c817d7c23a",
+        "title_fa": "حمله به چند کشتی در خلیج فارس و نوسان نفت",
+        "title_en": "More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge",
+        "summary": [
+            "امنیت خطوط کشتیرانی در خلیج فارس بار دیگر با چالش جدی روبرو شده و چندین فروند کشتی هدف حملات ناشناس قرار گرفته‌اند.",
+            "بازار انرژی بلافاصله به این ناامنی‌ها واکنش نشان داده و قیمت نفت بخشی از افت اخیر خود را جبران کرده است."
+        ],
+        "impact": "افزایش ریسک تجارت دریایی و جهش دوباره هزینه‌های حمل‌ونقل انرژی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDROS29td1ZxNlFndnlTQnU4LVVwTXg1OW9kemVlQmx4M1pZTFlOd21RNnJhcnBVNENOSEpjT2YyWC1DMVhXcHFpNHBMUlF6Mk9NeVFmV19RVnpZTkl0RVE1YjFYVk5JRFZBVFJQbGtlaVFQS2FCazJKWWNQRUVOaDdNdzBuUU1z?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDROS29td1ZxNlFndnlTQnU4LVVwTXg1OW9kemVlQmx4M1pZTFlOd21RNnJhcnBVNENOSEpjT2YyWC1DMVhXcHFpNHBMUlF6Mk9NeVFmV19RVnpZTkl0RVE1YjFYVk5JRFZBVFJQbGtlaVFQS2FCazJKWWNQRUVOaDdNdzBuUU1z",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793960580.0
+    },
+    {
         "id": "4e80ad4811",
         "title_fa": "مسئولیت جنگ با ایـران؛ تل‌آویو توپ را به زمین واشنگتن انداخت",
         "title_en": "Israel’s UN envoy says Iran war was US decision, rejects blaming Israel for economic fallout",
@@ -5460,24 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmgwSUJGV0xTUlgxLTJJcmpxMXpCdk1JeGI5Z2JLVGwtdjlDMEtzdW5YaFVqMHpIQ0ZzM3NSQWhCR2tURTVISU9GSGQ5blMzUlo4aldxWkM0WHFLYmQwWWpheVdSc09PcUJTNWJCLXFaRko0Yzh5OVRSN2VyRmJoOXNzZ3BvV0N5Rm9hZThkXzl6OEnSAZMBQVVfeXFMUHo0czc0Z2lpNGd1TnAxWE1EUmo1ZVJadVRKN2ZHNmJuQlhRb0oxY3R4TUYzNjhxTkJRaHBId080c25Zb3FUdldsUDlFTVEyTW5DeG1JQnI3UUpIWUtTekxxNDhhNDJBVWIyb0VUR1ctTFJ3UVNLMldwanNVbXdrNVRfTnAySVZfMmVMSUFGMlJhSnhV",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793724106.0
-    },
-    {
-        "id": "245fd5c818",
-        "title_fa": "پیروزی بزرگ دموکرات‌ها و تسلط بر کنگره آمریکا",
-        "title_en": "Democrats flip House and Senate in massive blue wave",
-        "summary": [
-            "حزب دموکرات در یک موج کم‌نظیر موفق شد کنترل هر دو مجلس سنا و نمایندگان را به دست بگیرد.",
-            "شکست دادن جمهوری‌خواهان در ایالت‌های سنتی و کلیدی مثل تگزاس و کارولینای جنوبی، معادلات سیاسی واشنگتن را به هم ریخت.",
-            "این نتیجه زنگ خطری جدی برای سیاست‌های دونالد ترامپ و متحدانش در آستانه نیمه دوم دوره ریاست‌جمهوری است."
-        ],
-        "impact": "تغییر موازنه قدرت در کنگره، کار را برای پیشبرد برنامه‌های ترامپ بسیار سخت می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Deseret News",
-        "url": "https://www.deseret.com/politics/2026/11/04/democrats-flip-house-and-senate-in-massive-blue-wave/",
-        "clean_url": "https://www.deseret.com/politics/2026/11/04/democrats-flip-house-and-senate-in-massive-blue-wave",
-        "image": "http://www.bing.com/th?id=ONUT.U1fosDawLnLkTCJaaPKePQ&pid=News",
-        "timestamp": 1793722560.0
     }
 ]
