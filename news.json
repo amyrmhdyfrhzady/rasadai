@@ -1,5 +1,25 @@
 [
     {
+        "id": "b39ac51e38",
+        "title_fa": "ترامپ: جنگ با ج.ا.ا را هر زمان بخواهم تمام می‌کنم",
+        "title_en": "Trump Signals Imminent Decision on Whether to Restart Full-Scale War with Iran as Diplomatic Efforts Accelerate",
+        "summary": [
+            "ترامپ با پایان انتخابات میان‌دوره‌ای، تیم امنیت ملی خود را برای بررسی گزینه‌های نظامی و اقتصادی علیه ج.ا.ا فراخوانده است.",
+            "گزینه‌های روی میز شامل حملات هوایی، تشدید محاصره اقتصادی یا توافق مشروط است.",
+            "ادعای پایان فوری جنگ پس از انتخابات رد شده و ترامپ تصمیم‌گیری نهایی را به زمان دلخواه خود موکول کرده است.",
+            "تلاش‌های دیپلماتیک پشت‌پرده و سیگنال‌های ارسالی ج.ا.ا به مسکو نشان‌دهنده هراس از تصمیمات پیش‌روی کاخ سفید است."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی و فشار روانی بر بازارهای ارز و طلا در ایران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "itiger",
+        "url": "https://www.itiger.com/news/1114550119",
+        "clean_url": "https://www.itiger.com/news/1114550119",
+        "image": "https://c1.itigergrowtha.com/portal5/static/media/og-logo.0a0bd8dc.png",
+        "timestamp": 1793927220.0
+    },
+    {
         "id": "0b023d2181",
         "title_fa": "پشت پرده توافق: نامه ترامپ به تهران",
         "title_en": "林德宜：伊朗和平协议：特朗普终将退步",
@@ -5455,23 +5475,5 @@
         "clean_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
         "image": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae0638cdbc3daea6b3a154d41c73dad9",
         "timestamp": 1793713860.0
-    },
-    {
-        "id": "9ffe13ce27",
-        "title_fa": "خطای فنی مرورگر در سایت دیترویت فری پرس",
-        "title_en": "How Michiganders, political experts are reacting to Senate, governor election results",
-        "summary": [
-            "سایت خبری دیترویت فری پرس به دلیل قدیمی بودن مرورگر کاربر امکان بارگذاری کامل را ندارد.",
-            "محتوای خبری مربوط به انتخابات سنا و فرمانداری به دلیل این مشکل فنی قابل دسترس نیست."
-        ],
-        "impact": "کاربران برای دسترسی به اخبار انتخابات باید مرورگر خود را به‌روزرسانی کنند.",
-        "tag": "فناوری",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/opinion/2026/11/03/instant-reaction-michigan-election-results-senate-governor-races--live/92467188007/",
-        "clean_url": "https://www.freep.com/story/opinion/2026/11/03/instant-reaction-michigan-election-results-senate-governor-races--live/92467188007",
-        "image": "http://www.bing.com/th?id=ONUT.mlt9HjdfhxZhomlg9thMgA&pid=News",
-        "timestamp": 1793713020.0
     }
 ]
