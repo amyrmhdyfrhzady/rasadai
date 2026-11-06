@@ -290,6 +290,24 @@
         "timestamp": 1793944293.0
     },
     {
+        "id": "6ed8b57053",
+        "title_fa": "همکاری نظامی مسکو و تهران با موشک‌های پیشرفته پیش‌رفته",
+        "title_en": "Iran-linked ships go dark over Persian Gulf internet cables after threats",
+        "summary": [
+            "مدارک افشاشده نشان می‌دهد روسیه برنامه‌ای مخفی برای تجهیز ج.ه به موشک‌های پیشرفته ضدکشتی دارد.",
+            "پرتابگرهای موشک‌های هدایت‌شونده دقیق روسیه در لیست سفارش‌های تسلیحاتی تهران ثبت شده است."
+        ],
+        "impact": "افزایش جدی تهدیدات دریایی علیه نیروهای آمریکایی در خلیج فارس و تغییر موازنه نظامی منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611067103",
+        "clean_url": "https://www.iranintl.com/en/202611067103",
+        "image": "http://www.bing.com/th?id=ONUT._QAN1rIfUIe9CHQxhJsLJA&pid=News",
+        "timestamp": 1793941680.0
+    },
+    {
         "id": "251de7d984",
         "title_fa": "آمادگی نظامی آمریکا و تقلاهای دیپلماتیک تهران همزمان با تهدیدات ترامپ",
         "title_en": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.chicagotribune.com/2026/11/03/kansas-senate-race-results",
         "image": "http://www.bing.com/th?id=ONUT.r-W8pBupF_e-ToCuJJ15ig&pid=News",
         "timestamp": 1793727120.0
-    },
-    {
-        "id": "8f40d1e087",
-        "title_fa": "پیروزی نامزد دموکرات در انتخابات فرمانداری میشیگان",
-        "title_en": "Jocelyn Benson declares victory in Michigan governor’s race",
-        "summary": [
-            "جوسلین بننسون، چهره دموکرات، با پیروزی قاطع بر رقیب جمهوری‌خواه خود، جان جیمز، صندلی فرمانداری میشیگان را تصاحب کرد.",
-            "این نتیجه شکست سنگینی برای حزب جمهوری‌خواه در یکی از ایالات کلیدی ایالات متحده به شمار می‌رود."
-        ],
-        "impact": "تقویت پایگاه حزب دموکرات در ساختار سیاسی ایالت میشیگان.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/11/jocelyn-benson-declares-victory-in-michigan-governors-race.html",
-        "clean_url": "https://www.mlive.com/politics/2026/11/jocelyn-benson-declares-victory-in-michigan-governors-race.html",
-        "image": "http://www.bing.com/th?id=ONUT.azL-XDXrTaoo0IUWzELUkw&pid=News",
-        "timestamp": 1793726820.0
     }
 ]
