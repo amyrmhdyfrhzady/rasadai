@@ -290,6 +290,25 @@
         "timestamp": 1793954312.0
     },
     {
+        "id": "f0214d267a",
+        "title_fa": "پيام محرمانه تهران به مسکو درباره خط لوله گاز",
+        "title_en": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
+        "summary": [
+            "دبیر شورای امنیت ایران برای تسلیم پیام محرمانه رهبر جمهوری اسلامی راهی مسکو شد.",
+            "روسیه و ایران در حال مذاکره فشرده برای نهایی کردن قرارداد واردات گاز هستند.",
+            "تلاش حاکمیت برای چسباندن اقتصاد تحریم‌شده به مسکو در ازای امتیازدهی‌های راهبردی."
+        ],
+        "impact": "تلاش برای دور زدن بحران انرژی داخلی از طریق وابستگی بیشتر به مسکو در ازای حراج منابع ملی.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-au/news/other/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal/ar-AA2gUzGg",
+        "clean_url": "https://www.msn.com/en-au/news/other/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal/ar-AA2gUzGg",
+        "image": "http://www.bing.com/th?id=ONUT.Rrr_UCy-KkdT6VnE1DjTJA&pid=News",
+        "timestamp": 1793950938.0
+    },
+    {
         "id": "39264fcb2f",
         "title_fa": "ریزش قیمت نفت با کاهش سایه جنگ از سر بازار",
         "title_en": "Oil Futures Slump As Iran Peace Efforts Ease Supply Fears",
@@ -5463,23 +5482,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PV01sOEdjT2tSM3V3SGFfaVk2M1BOVVVEYkJkb0o3SFlaMkVobzJWNVdaRUhlYmhJdXAwT1dYMFdieWxBbFRlN2lIN2ctdGo0SDVHWk5ZbTVpZm82bE1YVmVfTThBSGN2aE4xNmRWQVhOWWNDUF8w",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793729069.0
-    },
-    {
-        "id": "28e3ab98af",
-        "title_fa": "احتمال حمله اتمی آمریکا به تاسیسات هسته‌ای ایـران",
-        "title_en": "Could fallout from potential nuke strike on Iran's Pickaxe Mountain reach India?",
-        "summary": [
-            "دونالد ترامپ و چهره‌های نزدیک به وی گزینه حمله به تاسیسات زیرزمینی ایـران را روی میز نگه داشته‌اند.",
-            "کارشناسان درباره رسیدن ذرات رادیواکتیو ناشی از این ضربه احتمالی به کشورهای همسایه و حتی هند هشدار دادند."
-        ],
-        "impact": "افزایش شدید تنش‌های نظامی و ریسک درگیری اتمی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/story/iran-war-us-trump-nuclear-strike-pickaxe-mountain-india-fallout-3031469-2026-11-04",
-        "clean_url": "https://www.indiatoday.in/world/story/iran-war-us-trump-nuclear-strike-pickaxe-mountain-india-fallout-3031469-2026-11-04",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/iran-us-conflict-034245831-16x9_0.jpg?VersionId=6AqesL1KEjYcQWlQhw4SoQEpjofpuUVI",
-        "timestamp": 1793728800.0
     }
 ]
