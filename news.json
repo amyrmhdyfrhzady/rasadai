@@ -237,6 +237,25 @@
         "timestamp": 1793926220.0
     },
     {
+        "id": "4b1af10890",
+        "title_fa": "ارتش سایبری کره شمالی؛ کارخانه تولید هکرهای دولتی",
+        "title_en": "نخست‌وزیر اردن پس از کشته شدن یک مامور امنیتی بر ادامه مبارزه با تروریسم تاکید کرد",
+        "summary": [
+            "پیونگ‌یانگ با شناسایی نخبگان از سن ۱۱ سالگی، آن‌ها را به ماشین‌های هک برای دور زدن تحریم‌ها تبدیل می‌کند.",
+            "هکرهای کره شمالی با مهندسی معکوس و سرقت رمزارز، عملاً بازوی مالی رژیم برای تامین بودجه‌های نظامی هستند.",
+            "سیستم آموزشی این کشور، کودکان باهوش را به جای مسیرهای علمی، به سمت جاسوسی سایبری و حملات دیجیتال سوق می‌دهد."
+        ],
+        "impact": "افزایش حملات سایبری به زیرساخت‌های مالی جهانی برای تامین ارز مورد نیاز رژیم‌های تحت تحریم.",
+        "tag": "سایبری",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611065811",
+        "clean_url": "https://www.iranintl.com/202611065811",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793923620.0
+    },
+    {
         "id": "a308241101",
         "title_fa": "پروپاگاندای حکومتی در ترسیم پیروزی توهمی بر آمریکا",
         "title_en": "Iran Celebrates Trump's Setback, But The Price Of Perceived Victory Is Mounting At Home",
@@ -5460,24 +5479,6 @@
         "url": "https://www.mlive.com/politics/2026/11/amid-dem-election-night-optimism-jeffries-circumspect-on-relationship-with-trump.html",
         "clean_url": "https://www.mlive.com/politics/2026/11/amid-dem-election-night-optimism-jeffries-circumspect-on-relationship-with-trump.html",
         "image": "http://www.bing.com/th?id=ONUT.Fsl9CSmdb5auT9WTXEj9Mw&pid=News",
-        "timestamp": 1793721600.0
-    },
-    {
-        "id": "afdbe6e05a",
-        "title_fa": "پیروزی نماینده دمکرات در حوزه انتخابیه جمهوری‌خواه",
-        "title_en": "Moderate Democrat Fends Off Republican Challenger In Red District",
-        "summary": [
-            "جارد موسکویتز با تکیه بر رویکرد فراحزبی و حمایت قاطع از اسرائیل توانست کرسی خود را در فلوریدا حفظ کند.",
-            "این پیروزی گامی مهم برای دمکرات‌ها در مسیر بازپس‌گیری کنترل مجلس نمایندگان آمریکا محسوب می‌شود."
-        ],
-        "impact": "تقویت جایگاه دمکرات‌ها در کنگره با وجود تلاش جمهوری‌خواهان برای تغییر مهندسی انتخابات.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/jared-moskowitz-scott-singer-florida-25th-district_n_6ace3b48e4b0447f8d488f58",
-        "clean_url": "https://www.huffpost.com/entry/jared-moskowitz-scott-singer-florida-25th-district_n_6ace3b48e4b0447f8d488f58",
-        "image": "http://www.bing.com/th?id=ONUT.pChiHKJAEA0IKBjWqKu5Wg&pid=News",
         "timestamp": 1793721600.0
     }
 ]
