@@ -36,6 +36,24 @@
         "timestamp": 1793913141.0
     },
     {
+        "id": "c908fe0484",
+        "title_fa": "اعتراف مقام ارشد آمریکایی به هزینه سنگین جنگ با ایران",
+        "title_en": "What US Midterm Election Results Mean For The Middle East",
+        "summary": [
+            "جی دی ونس شکست در انتخابات میان‌دوره‌ای را صراحتاً به جنگ با ایران و بحران اقتصادی گره زد.",
+            "واشنگتن حالا با فشار داخلی شدید بر سر هزینه‌های سنگین درگیری‌های خاورمیانه دست‌وپا می‌زند."
+        ],
+        "impact": "هزینه‌های گزاف تنش منطقه‌ای به پاشنه آشیل حزب حاکم در آمریکا تبدیل شده است.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/05112026-what-us-midterm-election-results-mean-for-the-middle-east-oped/",
+        "clean_url": "https://www.eurasiareview.com/05112026-what-us-midterm-election-results-mean-for-the-middle-east-oped",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1793913060.0
+    },
+    {
         "id": "349a7e8857",
         "title_fa": "بن‌بست استراتژیک؛ تقابل نظامی با ج.ا راهگشا نیست",
         "title_en": "Iran: Compromise Or Catastrophe",
@@ -5454,23 +5472,5 @@
         "clean_url": "https://www.azcentral.com/story/news/politics/elections/2026/11/03/arizona-congressional-district-6-election-results/92460846007",
         "image": "http://www.bing.com/th?id=ONUT.zfW9htkN_xG_V_bHmHROKg&pid=News",
         "timestamp": 1793712600.0
-    },
-    {
-        "id": "a3fa1c2fd3",
-        "title_fa": "اختلال در دستگاه‌های رای‌گیری نیویورک و معطلی آرا",
-        "title_en": "Lawler speaks with CNN as New York voting machine problem impacts up to 250,000 ballots",
-        "summary": [
-            "نقص فنی در دستگاه‌های رای‌گیری نیویورک دست‌کم دویست و پنجاه هزار رأی را در وستچستر تحت تأثیر قرار داد.",
-            "برگه آرای اضطراری با اسکورت پلیس و نظارت دوحزبی به مراکز شمارش منتقل شدند."
-        ],
-        "impact": "مشکلات فنی در فرآیند رأی‌گیری چالش‌های اجرایی انتخابات را برجسته کرد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/03/politics/video/westchester-county-new-york-emergency-ballots-digvid",
-        "clean_url": "https://www.cnn.com/2026/11/03/politics/video/westchester-county-new-york-emergency-ballots-digvid",
-        "image": "http://www.bing.com/th?id=ONUT.4mTU32xhyYj1WSP0v_eY-w&pid=News",
-        "timestamp": 1793712240.0
     }
 ]
