@@ -127,6 +127,24 @@
         "timestamp": 1793931439.0
     },
     {
+        "id": "dc7292c7e0",
+        "title_fa": "برنامه‌ریزی جی‌استریت برای تاثیر بر انتخابات ۲۰۲۸ آمریکا",
+        "title_en": "J Street's 2027 National Convention",
+        "summary": [
+            "گروه لابی جی‌استریت منسجم‌سازی جریان‌های پیشرو برای تاثیرگذاری بر سیاست خارجی آمریکا در آستانه انتخابات ۲۰۲۸ را آغاز کرد.",
+            "تمرکز اصلی این نشست بر رایزنی مستقیم با نمایندگان کنگره و جهت‌دهی به تصمیمات واشنگتن در قبال خاورمیانه است."
+        ],
+        "impact": "تلاش برای تشدید فشار سیاسی جریان‌های چپ بر کنگره جهت تغییر ریل دیپلماسی آمریکا در منطقه.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "J Street",
+        "url": "https://jstreet.org/event/j-streets-2027-national-convention",
+        "clean_url": "https://jstreet.org/event/j-streets-2027-national-convention",
+        "image": "https://jstreet.org/sites/default/files/2026-10/new-web-headers-10.png",
+        "timestamp": 1793928060.0
+    },
+    {
         "id": "b39ac51e38",
         "title_fa": "ترامپ: جنگ با ج.ا.ا را هر زمان بخواهم تمام می‌کنم",
         "title_en": "Trump Signals Imminent Decision on Whether to Restart Full-Scale War with Iran as Diplomatic Efforts Accelerate",
@@ -5461,23 +5479,5 @@
         "clean_url": "https://www.washingtonpost.com/style/2026/11/03/trump-touted-his-reflecting-pool-success-new-problems-are-visible",
         "image": "http://www.bing.com/th?id=ONUT.by77ia0V-lGbbocoW7My9Q&pid=News",
         "timestamp": 1793720940.0
-    },
-    {
-        "id": "15da04c82f",
-        "title_fa": "تهدید اروپا و پایگاه‌های ناتو توسط مقامات حاکمیتی ای-ران",
-        "title_en": "Iran threatens to extend its missile strikes to the \"heart of Europe\" and target NATO bases",
-        "summary": [
-            "روزنامه‌های نزدیک به ارکان قدرت در تهران از احتمال حمله موشکی به قلب اروپا و پایگاه‌های ناتو سخن گفتند.",
-            "محسن حیدری از اعضای مجلس خبرگان اعلام کرد پاسخ‌ها هیچ محدودیت جغرافیایی نخواهد داشت و حتی خاک آمریکا را هم شامل می‌شود."
-        ],
-        "impact": "افزایش سطح تنش‌های نظامی و امنیتی میان تهران و کشورهای غربی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "voiceofemirates",
-        "url": "https://www.voiceofemirates.com/en/politics/2026/11/03/iran-threatens-to-extend-its-missile-strikes-to-the-heart-of-europe-and-target-nato-bases/",
-        "clean_url": "https://www.voiceofemirates.com/en/politics/2026/11/03/iran-threatens-to-extend-its-missile-strikes-to-the-heart-of-europe-and-target-nato-bases",
-        "image": "https://www.voiceofemirates.com/wp-content/uploads/2026/11/الصواريخ-الإيرانية.webp",
-        "timestamp": 1793720100.0
     }
 ]
