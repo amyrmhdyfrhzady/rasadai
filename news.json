@@ -404,6 +404,24 @@
         "timestamp": 1793990852.0
     },
     {
+        "id": "f604272080",
+        "title_fa": "تأکید قطر بر تداوم میانجی‌گری و دیپلماسی میان واشنگتن و تهران",
+        "title_en": "Qatar PM says US remains willing to pursue diplomatic solution with Iran after midterms",
+        "summary": [
+            "نخست‌وزیر قطر اعلام کرد تغییرات سیاسی درون آمریکا مانع اراده واشنگتن برای کنترل بحران و کاهش تنش با تهران نشده است.",
+            "با وجود کند شدن تحرکات دیپلماتیک در روزهای اخیر، کانال‌های پیام‌رسانی و رایزنی‌های پشت پرده همچنان فعال است."
+        ],
+        "impact": "ایجاد تنفس دیپلماتیک موقت برای کاهش احتمال درگیری مستقیم نظامی در کوتاه‌مدت.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611070389",
+        "clean_url": "https://www.iranintl.com/en/202611070389",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793990340.0
+    },
+    {
         "id": "cb06e4e077",
         "title_fa": "بازسازی مخفیانه سایت‌های موشکی ج.ا پس از ضربات اسرائیل",
         "title_en": "Iran presses ahead with military, nuclear rebuilding despite economic woes",
@@ -5478,23 +5496,5 @@
         "clean_url": "https://www.newindianexpress.com/world/2026/Nov/04/iran-says-democratic-midterm-sweep-reflects-americans-no-to-war-message",
         "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-20%2F8xrksrbn%2FANI_20260920081444.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
         "timestamp": 1793744760.0
-    },
-    {
-        "id": "a9aba0ef55",
-        "title_fa": "خطای فنی در بارگذاری خبر انتخابات فرمانداری میشیگان",
-        "title_en": "Reports: Benson beats James in Michigan's race for governor",
-        "summary": [
-            "خبرگزاری منبع به دلیل مشکلات فنی در پشتیبانی از مرورگرها نتوانست جزئیات رقابت انتخاباتی را نمایش دهد.",
-            "اطلاعات کامل درباره پیروزی احتمالی بنسون بر جیمز در دسترس نیست."
-        ],
-        "impact": "این خبر به دلیل نقص فنی محتوا فاقد ارزش عملیاتی یا تأثیر سیاسی است.",
-        "tag": "انتخابات",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/news/politics/elections/2026/11/04/jocelyn-benson-elected-michigan-governor/92382050007/",
-        "clean_url": "https://www.freep.com/story/news/politics/elections/2026/11/04/jocelyn-benson-elected-michigan-governor/92382050007",
-        "image": "http://www.bing.com/th?id=ONUT.4GpyvZrDkdnxAcd0Mbbuzg&pid=News",
-        "timestamp": 1793744040.0
     }
 ]
