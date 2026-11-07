@@ -217,6 +217,25 @@
         "timestamp": 1794042039.0
     },
     {
+        "id": "f6eb6c5e44",
+        "title_fa": "حمله موشکی سنگین روسیه به زیرساخت‌های کلیدی کیف",
+        "title_en": "Missile War Monitor: Russian strike closes Kyiv's North Bridge, cuts water pressure in the capital",
+        "summary": [
+            "اصابت موشک‌های روسیه به پل شمالی کیف باعث بسته شدن کامل این معبر مهم ترافیکی شد.",
+            "تأسیسات انرژی و شبکه آب‌رسانی پایتخت اوکراین به دلیل این حملات شبانه آسیب دیدند.",
+            "شهر چرنیهیف به طور کامل در تاریکی فرو رفت و برق آن قطع شد."
+        ],
+        "impact": "فلج شدن نسبی ترابری شهری و قطع خدمات حیاتی در پایتخت اوکراین.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "bne IntelliNews",
+        "url": "https://www.intellinews.com/missile-war-monitor-russian-strike-closes-kyiv-s-north-bridge-cuts-water-pressure-in-the-capital-482790/",
+        "clean_url": "https://www.intellinews.com/missile-war-monitor-russian-strike-closes-kyiv-s-north-bridge-cuts-water-pressure-in-the-capital-482790",
+        "image": "https://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneGeneric_Russia_-_military_missile_war_bneicon__Oreshnik_IRBM_54.jpg",
+        "timestamp": 1794041100.0
+    },
+    {
         "id": "97c3f53782",
         "title_fa": "سیگنال رسانه‌ای ایرنا به واشنگتن: پیام مواجهه با جناح سخت‌گیر",
         "title_en": "Ο «επιβληθείς πόλεμος» των ΗΠΑ στο Ιράν και το μοίρασμα των ρόλων ανάμεσα στους πόλους εξουσίας ...",
@@ -5481,23 +5500,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1k5M29XbFJLXzE1cUxwMmxuOVdzS3p1RUlNcXNtdl9qX0R2bHNFT0ZSNXoxUzlMS1lxQ2h4LUlEM19NWnJ0aEFMczdmQkFtVnMySGU2WFJqT1FSQURINXBfY2ZBbklkZl9FbG5EaWpOT2hCdWNlM01aQ2dVMzBaSGstN0xoZ1VRcHhUMVFtM2VsUTQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793763551.0
-    },
-    {
-        "id": "5f70a639f0",
-        "title_fa": "شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا",
-        "title_en": "A New Blue Reality in America: Live Updates",
-        "summary": [
-            "دموکرات‌ها کنترل هر دو مجلس سنا و نمایندگان را به دست آوردند تا مانع جدی برای برنامه‌های دونالد ترامپ ایجاد شود.",
-            "ایلان ماسک با وجود صرف هزینه‌های سنگین نتوانست مانع پیروزی رقبای دموکرات در مناطق کلیدی شود."
-        ],
-        "impact": "موازنه قدرت در واغنتون تغییر کرده و دولت ترامپ با چالش‌های جدی قانونی روبه‌رو خواهد شد.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "New York Magazine",
-        "url": "https://nymag.com/intelligencer/article/2026-midterms-democrats-more-election-results-analysis-aftermath-live-updates.html",
-        "clean_url": "https://nymag.com/intelligencer/article/2026-midterms-democrats-more-election-results-analysis-aftermath-live-updates.html",
-        "image": "http://www.bing.com/th?id=ONUT.YLbX6YQ8X1RYM2ZLBbFUxA&pid=News",
-        "timestamp": 1793763240.0
     }
 ]
