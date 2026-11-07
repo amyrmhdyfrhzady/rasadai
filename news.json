@@ -606,6 +606,25 @@
         "timestamp": 1793978760.0
     },
     {
+        "id": "142e06d4f5",
+        "title_fa": "ادعای تکراری تهران درباره کنترل تنگه هرمز و قدرت نظامی",
+        "title_en": "Iran says forces ‘stronger’ than at beginning of war",
+        "summary": [
+            "سخنگوی نیروهای مسلح در یک مانور تبلیغاتی مدعی شده توان دفاعی کشور پس از درگیری‌های اخیر افزایش یافته است.",
+            "تأکید مجدد بر مسدود ماندن تنگه هرمز، تلاش برای بستن شریان انرژی جهان و ابزار فشار علیه واشنگتن است.",
+            "این سخنان بیش از آنکه واقعیت میدانی باشد، کارکرد جنگ روانی برای ترمیم روحیه نیروهای داخلی دارد."
+        ],
+        "impact": "تداوم تهدید خطوط انتقال انرژی و بالا ماندن ریسک ناوبری تجاری در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-says-forces-stronger-than-at-beginning-of-war",
+        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-says-forces-stronger-than-at-beginning-of-war",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/fb668b0470021a86e5d0f0ff375ecda639058cfb077046246ee7684754e52c93?w=1200",
+        "timestamp": 1793978160.0
+    },
+    {
         "id": "e2558c4b2e",
         "title_fa": "هشدار بلومبرگ: ریسک بزرگ تل‌آویو در نادیده گرفتن ریزش حمایت آمریکا",
         "title_en": "Israel Risks Missing How Quickly US Support Is Evaporating",
@@ -5477,24 +5496,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/voters-punish-trump-with-dramatic-swing-to-democrats/ar-AA2gHBwQ",
         "image": "http://www.bing.com/th?id=ONUT.e4UvaMkFiXhJkfcrS0cxmw&pid=News",
         "timestamp": 1793744761.0
-    },
-    {
-        "id": "083069c76b",
-        "title_fa": "واکنش قالیباف به شکست ترامپ در انتخابات میان‌دوره‌ای آمریکا",
-        "title_en": "Iran says Democratic midterm sweep reflects Americans' 'no to war' message",
-        "summary": [
-            "محمدباقر قالیباف مدعی شد رای مردم آمریکا در انتخابات میان‌دوره‌ای نه بزرگ به جنگ با جـ.هـ.وـ.رـ.ی ا‌سـ.لا‌مـ.ی بوده است.",
-            "او به دولت آمریکا هشدار داد که نادیده گرفتن خواست مردم این کشور با هزینه سنگینی همراه خواهد بود.",
-            "دونالد ترامپ نیز اعتراف کرد که تنش‌ها با ایـ.را‌ن در شکست حزب جمهوری‌خواه بی‌تاثیر نبوده است."
-        ],
-        "impact": "تغییرات سیاسی در کنگره آمریکا معادلات فشار حداکثری را وارد فاز تازه‌ای می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The New Indian Express",
-        "url": "https://www.newindianexpress.com/world/2026/Nov/04/iran-says-democratic-midterm-sweep-reflects-americans-no-to-war-message",
-        "clean_url": "https://www.newindianexpress.com/world/2026/Nov/04/iran-says-democratic-midterm-sweep-reflects-americans-no-to-war-message",
-        "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-20%2F8xrksrbn%2FANI_20260920081444.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "timestamp": 1793744760.0
     }
 ]
