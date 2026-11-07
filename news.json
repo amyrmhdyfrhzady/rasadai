@@ -1,5 +1,23 @@
 [
     {
+        "id": "dd9e3fe803",
+        "title_fa": "سرنگونی دو پهپاد آمریکایی و حملات محدود ج.ا",
+        "title_en": "Iran shoots down 2 US drones as Trump announces ‘minor’ strikes",
+        "summary": [
+            "پدافند ج.ا توانسته دو فروند پهپاد ایالات متحده را هدف قرار داده و ساقط کند.",
+            "دونالد ترامپ پس از این رخداد از انجام حملات نظامی با مقیاس محدود خبر داده است."
+        ],
+        "impact": "افزایش تنش‌های نظامی مستقیم و بالا رفتن ریسک درگیری در منطقه خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "chinadailyhk",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4TXExMDQ5M1MwSXg4YVBNRHlOZWVKbUlDNkNsWnRGUlFxMERVYU5HS0QzTEpsOVdBY0k2M3hOTnU4amFXc2xBenNZUlZfOW9lWVlmeEdnRGI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4TXExMDQ5M1MwSXg4YVBNRHlOZWVKbUlDNkNsWnRGUlFxMERVYU5HS0QzTEpsOVdBY0k2M3hOTnU4amFXc2xBenNZUlZfOW9lWVlmeEdnRGI",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794025848.0
+    },
+    {
         "id": "964c00a15d",
         "title_fa": "دور جدید حملات آمریکا به مواضع جـمـهـورۍ اسـلا‌مـۍ",
         "title_en": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/hakeem-jeffries-poised-to-become-speaker-of-us-house-of-representatives/ar-AA2gI1zj",
         "image": "http://www.bing.com/th?id=ONUT.QHpYcKzD-OwuJNVvYN3EnQ&pid=News",
         "timestamp": 1793745306.0
-    },
-    {
-        "id": "1e0b23796c",
-        "title_fa": "واراسانی درباره سناریوی جنگ احتمالی با ا... آمریکا",
-        "title_en": "Yemen condemns IRGC, Hezbollah military involvement in Houthi operations",
-        "summary": [
-            "یک کارشناس تلویزیون حکومتی اعتراف کرد شرایط برای پایان سریع درگیری‌های احتمالی مثل گذشته فراهم نیست.",
-            "او هشدار داد هرگونه حمله نظامی این بار با چالش بسته شدن تنگه هرمز و بی‌سرانجام ماندن آن روبه‌رو خواهد شد."
-        ],
-        "impact": "افزایش ترس محافل سیاسی داخلی از پیامدهای جبران‌ناپذیر تنش نظامی فراگیر.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611033246",
-        "clean_url": "https://www.iranintl.com/en/202611033246",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793745060.0
     }
 ]
