@@ -1,5 +1,24 @@
 [
     {
+        "id": "97c3f53782",
+        "title_fa": "سیگنال رسانه‌ای ایرنا به واشنگتن: پیام مواجهه با جناح سخت‌گیر",
+        "title_en": "Ο «επιβληθείς πόλεμος» των ΗΠΑ στο Ιράν και το μοίρασμα των ρόλων ανάμεσα στους πόλους εξουσίας ...",
+        "summary": [
+            "خبرگزاری دولتی ایرنا با انتشار مقاله‌ای پوششی، پیامی مستقیم به کاخ سفید فرستاد که دوره تظاهر به انعطاف گذشته و واشنگتن باید با لایه سخت‌گیر حاکمیت طرف شود.",
+            "طرح روایات توهمی علیه نتانیاهو و ترامپ، ابزار تبلیغاتی برای سرپوش گذاشتن بر شکست‌های دیپلماتیک و توجیه بن‌بست فعلی است.",
+            "این خط رسانه‌ای نشان می‌دهد جریان حاکم در تهران گزینه تهاجم کلامی و سخت‌تر کردن فضای چانه‌زنی را انتخاب کرده است."
+        ],
+        "impact": "تنگ‌تر شدن فضای مانور دیپلماتیک و افزایش جنگ روانی کلامی میان تهران و واشنگتن.",
+        "tag": "جنگ روانی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "eksegersi",
+        "url": "https://eksegersi.gr/o-epivlitheis-polemos-ton-ipa-sto-iran-kai-to-moirasma-ton-rolon-anamesa-stoys-poloys-exoysias-toy-iranikoy-systimatos/",
+        "clean_url": "https://eksegersi.gr/o-epivlitheis-polemos-ton-ipa-sto-iran-kai-to-moirasma-ton-rolon-anamesa-stoys-poloys-exoysias-toy-iranikoy-systimatos",
+        "image": "https://eksegersi.gr/wp-content/uploads/2026/09/Mohsen_Rezaei.jpg",
+        "timestamp": 1794040020.0
+    },
+    {
         "id": "3035b52231",
         "title_fa": "طرح قطر برای گره‌زدن بازرسی‌های هسته‌ای به امنیت تنگه هرمز",
         "title_en": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
@@ -5483,23 +5502,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/americans-said-no-to-war-top-iran-negotiator-on-trump-s-midterm-setback/ar-AA2gItb2",
         "image": "http://www.bing.com/th?id=ONUT.4XOlABcplTFdLHjSYeYULw&pid=News",
         "timestamp": 1793747677.0
-    },
-    {
-        "id": "4c5f2a92c4",
-        "title_fa": "شکست جریان مگا در انتخابات میشیگان",
-        "title_en": "El-Sayed asked Michigan voters to reject MAGA. They listened | Opinion",
-        "summary": [
-            "رای‌دهندگان ایالت میشیگان با نادیده گرفتن جریان سیاسی ترامپ، مسیر متفاوتی را در انتخابات برگزیدند.",
-            "این نتیجه نشان‌دهنده شکاف عمیق در پایگاه رای‌دهندگان آمریکایی و چالش‌های پیش روی جریان‌های تندرو در ایالت‌های کلیدی است."
-        ],
-        "impact": "کاهش نفوذ سیاسی ترامپ در ایالت‌های خاکستری و تغییر موازنه قدرت در انتخابات آتی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/opinion/columnist/2026/11/04/michigan-senate-race-el-sayed-wins-democrats/92576323007/",
-        "clean_url": "https://www.freep.com/story/opinion/columnist/2026/11/04/michigan-senate-race-el-sayed-wins-democrats/92576323007",
-        "image": "http://www.bing.com/th?id=ONUT.ZEhH7Lj9yZx2NXH_0xyUIA&pid=News",
-        "timestamp": 1793747400.0
     }
 ]
