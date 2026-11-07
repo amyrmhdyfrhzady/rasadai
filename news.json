@@ -255,6 +255,24 @@
         "timestamp": 1794038520.0
     },
     {
+        "id": "24bbe341f8",
+        "title_fa": "دهه‌کجی محسن رضایی به کاخ سفید میان بحران برق",
+        "title_en": "‘Who do we warn?’ Iran's security chief taunts US leaders after midterm defeat",
+        "summary": [
+            "محسن رضایی در واکنش به تحولات سیاسی واشنگتن، مقامات آمریکایی را به چالش کشید و ادعا کرد دولت ترامپ دچار آشفتگی است.",
+            "این مقام امنیتی در حالی از پاسخ ویرانگر سخن می‌گوید که ساختار انرژی کشور با بحران شدید و افت ۸۰ درصدی واردات پنل‌های خورشیدی دست و پنجه نرم می‌کند."
+        ],
+        "impact": "تلاش برای جنگ‌روانی بیرونی در زمان اوج‌گیری ناترازی‌های فلج‌کننده داخلی.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611074305",
+        "clean_url": "https://www.iranintl.com/en/202611074305",
+        "image": "http://www.bing.com/th?id=ONUT.66yXJXXaH46Nk4kIp7fFfw&pid=News",
+        "timestamp": 1794037380.0
+    },
+    {
         "id": "9f061ab8f9",
         "title_fa": "سقوط ۸۰ درصدی واردات پنل خورشیدی به ای...ران",
         "title_en": "Iran's solar ambitions falter as Chinese panel imports collapse",
@@ -5481,23 +5499,5 @@
         "clean_url": "https://nymag.com/intelligencer/article/2026-midterms-democrats-more-election-results-analysis-aftermath-live-updates.html",
         "image": "http://www.bing.com/th?id=ONUT.YLbX6YQ8X1RYM2ZLBbFUxA&pid=News",
         "timestamp": 1793763240.0
-    },
-    {
-        "id": "088d7f3bb4",
-        "title_fa": "فریفتن چت‌بات‌های هوش مصنوعی با سایت‌های انتخاباتی جعلی",
-        "title_en": "AI chatbots cited dozens of spoofed campaign websites ahead of midterms, researchers say",
-        "summary": [
-            "پژوهشگران اعلام کردند ربات‌های هوش مصنوعی پیش از انتخابات میان‌دوره‌ای به سایت‌های جعلی استناد کرده‌اند.",
-            "طراحان توانسته‌اند با راه‌اندازی وب‌سایت‌های تقلبی، پاسخ‌های چت‌بات‌های معروفی مثل چجی‌پیتی و جمینای را دستکاری کنند."
-        ],
-        "impact": "آسیب‌پذیری ابزارهای هوش مصنوعی در انتشار اطلاعات نادرست انتخاباتی و هدایت افکار عمومی",
-        "tag": "هوش مصنوعی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/tech/tech-news/chatgpt-gemini-cited-spoofed-campaign-sites-midterm-elections-research-rcna607302",
-        "clean_url": "https://www.nbcnews.com/tech/tech-news/chatgpt-gemini-cited-spoofed-campaign-sites-midterm-elections-research-rcna607302",
-        "image": "http://www.bing.com/th?id=ONUT.QDXJQgwucXj3QrlXZdQAmQ&pid=News",
-        "timestamp": 1793761740.0
     }
 ]
