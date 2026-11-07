@@ -1,5 +1,23 @@
 [
     {
+        "id": "fc7b729dd0",
+        "title_fa": "تحریم صرافی‌های کانادایی به اتهام دور زدن تحریم‌های ایران",
+        "title_en": "The United States sanctioned 8 Canadian currency exchange companies, accusing them of facilitating Iran's evasion of sanctions",
+        "summary": [
+            "آمریکا هشت شرکت صرافی در کانادا را به دلیل همکاری مالی با نهادهای تحریم‌شده ایرانی تحریم کرد.",
+            "این صرافی‌ها متهم به تسهیل تراکنش‌های ریالی و رمزارز برای دور زدن تحریم‌ها هستند."
+        ],
+        "impact": "بستن مسیرهای تنفس مالی و شبکه دور زدن تحریم‌ها در خارج از کشور",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "chaincatcher",
+        "url": "https://www.chaincatcher.com/en/article/2302634",
+        "clean_url": "https://www.chaincatcher.com/en/article/2302634",
+        "image": "https://www.chaincatcher.com/_nuxt/img/tg-share-small.b2e7986.png",
+        "timestamp": 1794050400.0
+    },
+    {
         "id": "ceffd932ab",
         "title_fa": "افشای طرح محرمانه تل‌آویو علیه تهران پیش از انتخابات",
         "title_en": "Report: PM, Mossad chief planned Iran op on eve of Israeli election; it was thwarted after US was accidentally tipped off",
@@ -92,6 +110,25 @@
         "timestamp": 1794025848.0
     },
     {
+        "id": "7c15145dd8",
+        "title_fa": "صدور حکم سنگین زندان برای فعال سایبری در دادگاه انقلاب",
+        "title_en": "Iran’s exiled prince accepts German Freedom Prize for Iranians as thousands rally",
+        "summary": [
+            "امیرحسین موسوی به دلیل فعالیت‌های آنلاین و انعکاس صدای زندانیان سیاسی محکوم شد.",
+            "این حکم در دادگاه انقلاب و توسط قاضی تحت تحریم صادر شده است.",
+            "خانواده این زندانی خواستار لغو فوری حکم ناعادلانه و نجات جان او شده‌اند."
+        ],
+        "impact": "تشدید فشار بر فعالان فضای مجازی و سرکوب صدای اعتراضات توسط نهادهای قضایی",
+        "tag": "سرکوب",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611076384",
+        "clean_url": "https://www.iranintl.com/en/202611076384",
+        "image": "http://www.bing.com/th?id=ONUT.LjomefUtZvu-UYnDJJi3pw&pid=News",
+        "timestamp": 1794021540.0
+    },
+    {
         "id": "964c00a15d",
         "title_fa": "دور جدید حملات آمریکا به مواضع جـمـهـورۍ اسـلا‌مـۍ",
         "title_en": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
@@ -180,6 +217,24 @@
         "clean_url": "https://www.msn.com/en-us/money/top-stocks/4-stats-show-just-how-ugly-things-got-for-markets-this-week/ar-AA2gWkpw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794017701.0
+    },
+    {
+        "id": "4e0633b2fb",
+        "title_fa": "ارسال پیشنهاد اتمی جدید تهران به واشنگتن با هفت شرط",
+        "title_en": "Iran sends nuclear proposal to US with 7 conditions amid Trump's threat to destroy Tehran; here's what they are",
+        "summary": [
+            "تهران از طریق قطر پیشنهاد جدیدی با هفت شرط به آمریکا فرستاده است.",
+            "این اقدام در سایه تهدیدهای مستقیم دونالد ترامپ برای تخریب تهران صورت گرفته است."
+        ],
+        "impact": "تغییر تاکتیک در روابط دیپلماتیک زیر سایه تهدیدات نظامی",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Newspoint on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-sends-nuclear-proposal-to-us-with-7-conditions-amid-trump-s-threat-to-destroy-tehran-here-s-what-they-are/ar-AA2gXdKR",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-sends-nuclear-proposal-to-us-with-7-conditions-amid-trump-s-threat-to-destroy-tehran-here-s-what-they-are/ar-AA2gXdKR",
+        "image": "http://www.bing.com/th?id=ONUT.xBW7WPqUY7y2CH-9apAQ4A&pid=News",
+        "timestamp": 1794017463.0
     },
     {
         "id": "8814d3eb99",
@@ -492,6 +547,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794005016.0
+    },
+    {
+        "id": "67f9922cac",
+        "title_fa": "حملات محدود ارتش آمریکا به سیستم پدافندی در قشم",
+        "title_en": "US Military Launches New Limited Strikes on Iran",
+        "summary": [
+            "دونالد ترامپ از انجام حملات محدود نظامی علیه یک سامانه پدافندی در جزیره قشم خبر داد.",
+            "این اقدام در راستای جلوگیری از بازسازی زیرساخت‌های نظامی آسیب‌دیده انجام شده است.",
+            "رسانه‌های داخلی از شنیده شدن صدای انفجار در منطقه سوزا خبر دادند."
+        ],
+        "impact": "نمایش اراده نظامی آمریکا برای نابودی بقایای زیرساخت‌های دفاعی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "MTV Lebanon",
+        "url": "https://www.mtv.com.lb/en/news/1755955",
+        "clean_url": "https://www.mtv.com.lb/en/news/1755955",
+        "image": "https://imagescdn.mtv.com.lb/articles/389325241246.jpg?width=1200&height=630&quality=85&v=2",
+        "timestamp": 1794004980.0
     },
     {
         "id": "c2c2fa26f2",
@@ -5427,78 +5501,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats",
         "image": "http://www.bing.com/th?id=ONUT.6bk5b95-TutGFmQHxAJgfQ&pid=News",
         "timestamp": 1793754960.0
-    },
-    {
-        "id": "fc9ef92349",
-        "title_fa": "حمله نظامی ایالات متحده به تنگه هرمز",
-        "title_en": "U.S. strikes Strait of Hormuz hours before Tuesday midterms",
-        "summary": [
-            "ارتش آمریکا در آستانه انتخابات میان‌دوره‌ای دست به اقدام نظامی در این آبراه حیاتی زده است.",
-            "این تحول نظامی نشانگر تشدید تنش‌ها در یکی از حساس‌ترین مناطق راهبردی جهان است."
-        ],
-        "impact": "افزایش فوری ریسک امنیتی در خلیج فارس و احتمال اختلال در ترانزیت انرژی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhpUnNOSTlZWWdpekFRMGZjaWFnRDY3TmFnQkk0Qm4yRExTZnJoemVSZEQ2YS1yZkwtdGhLaEFwSE5FcHplcUZta1k3amJrMGl5emdJX3pPUlY4aTJnVVFhYlBuX0FlN2VUbVNQTFZ6Yjc3ZENmVGJQbFcxTUpkcmhLS05zc19SRS1qYm5QbmxTOWk3VUpES9IBngFBVV95cUxPUkE4ZGpqYlp5ZkIwQ2oyVDF3dWdFeG9XM0pDMnBxQm5CR0gtWXpIcWt2V2J3Mlg5TFJrUmpfcFdBdm54VEgzRW1jSUtPbGhPR25qMmg3MEtDUHBrQ1FaU3p3bGxBUGMzd1hzRXFSbi10cDg2Wmd5Vzl1YXJDdkg4QVlGd1NmbkxKdjBYZlVCQ1hWTDAzOUlTVnBFRVNDdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhpUnNOSTlZWWdpekFRMGZjaWFnRDY3TmFnQkk0Qm4yRExTZnJoemVSZEQ2YS1yZkwtdGhLaEFwSE5FcHplcUZta1k3amJrMGl5emdJX3pPUlY4aTJnVVFhYlBuX0FlN2VUbVNQTFZ6Yjc3ZENmVGJQbFcxTUpkcmhLS05zc19SRS1qYm5QbmxTOWk3VUpES9IBngFBVV95cUxPUkE4ZGpqYlp5ZkIwQ2oyVDF3dWdFeG9XM0pDMnBxQm5CR0gtWXpIcWt2V2J3Mlg5TFJrUmpfcFdBdm54VEgzRW1jSUtPbGhPR25qMmg3MEtDUHBrQ1FaU3p3bGxBUGMzd1hzRXFSbi10cDg2Wmd5Vzl1YXJDdkg4QVlGd1NmbkxKdjBYZlVCQ1hWTDAzOUlTVnBFRVNDdw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793754933.0
-    },
-    {
-        "id": "fdab372360",
-        "title_fa": "نتانیاهو: تصمیم نهایی درباره ایران با ترامپ است",
-        "title_en": "'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's - ABC News",
-        "summary": [
-            "نخست‌وزیر اسرائیل تصمیم‌گیری درباره نحوه برخورد با جـمـهـورى اسـلامـى را کاملاً به دونالد ترامپ واگذار کرد.",
-            "این موضع‌گیری نشان از هماهنگی بالا میان تل‌آویو و واشنگتن برای اجرای سیاست فشار دارد."
-        ],
-        "impact": "سیگنال روشن به تهران درباره رویکرد سخت‌گیرانه دولت جدید آمریکا.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3N3QWRxSWRObVZaQ1JBQWxYOUxwQU9DNl9IdWJ5Yk5jelc4aEpPMnZkblhGRXRLckpxWmNISmg4WUVBZ2o1RWxsQmdsSE1LMmF6V0ZOQW1wNjQtejVHYlJRZVNwalVOSndIZkZFLWNCNi00Tm1qM3BMMGlxdzlFUTRqOG1XWl9OZE5nSmZkN1PSAZYBQVVfeXFMTUt0b2FHckFRN2sxb2VLZUU4UnhCSjNiVnpyczRmdW42RkVPRzZxMzluTFM2clNQb0c4WWppNEFtb0xNQ2Z3TkN4Nm93ZWFOWnJKQ0xBbHd0QWlHYXpDSkczekhhUWR0dTA4SGRQXzh6ajlrbmtnMHNEdlkyX2NPUFdJc3RZR0ZtdEQ3VERlMHdsRGVHRHpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3N3QWRxSWRObVZaQ1JBQWxYOUxwQU9DNl9IdWJ5Yk5jelc4aEpPMnZkblhGRXRLckpxWmNISmg4WUVBZ2o1RWxsQmdsSE1LMmF6V0ZOQW1wNjQtejVHYlJRZVNwalVOSndIZkZFLWNCNi00Tm1qM3BMMGlxdzlFUTRqOG1XWl9OZE5nSmZkN1PSAZYBQVVfeXFMTUt0b2FHckFRN2sxb2VLZUU4UnhCSjNiVnpyczRmdW42RkVPRzZxMzluTFM2clNQb0c4WWppNEFtb0xNQ2Z3TkN4Nm93ZWFOWnJKQ0xBbHd0QWlHYXpDSkczekhhUWR0dTA4SGRQXzh6ajlrbmtnMHNEdlkyX2NPUFdJc3RZR0ZtdEQ3VERlMHdsRGVHRHpB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793754188.0
-    },
-    {
-        "id": "68af1fcaa7",
-        "title_fa": "فشار موج آبی بر پایگاه سنتی جمهوری‌خواهان در تگزاس",
-        "title_en": "Abbott loses as massive blue wave turns even Texas purple | Opinion",
-        "summary": [
-            "پیشروی دموکرات‌ها در ایالت‌های کاملاً محافظه‌کار مثل تگزاس، زنگ خطری جدی برای پایگاه رای سنتی جمهوری‌خواهان است.",
-            "افت موقعیت چهره‌هایی نظیر گرگ ابوت از شکاف‌های جدید در ساختار رای‌دهندگان آمریکایی خبر می‌دهد."
-        ],
-        "impact": "اجبار جمهوری‌خواهان به بازنگری در استراتژی‌های انتخابی برای حفظ ایالت‌های کلیدی.",
-        "tag": "انتخابات",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/opinion/columnist/2026/11/04/election-results-texas-governor-senate-blue-wave/92603391007/",
-        "clean_url": "https://www.freep.com/story/opinion/columnist/2026/11/04/election-results-texas-governor-senate-blue-wave/92603391007",
-        "image": "http://www.bing.com/th?id=ONUT.i7-EqpIqEHBVxpLcqP-QuQ&pid=News",
-        "timestamp": 1793754180.0
-    },
-    {
-        "id": "5c7764cebf",
-        "title_fa": "تهدید تلافی گسترده از سوی مجتبی خامنه‌ای در صورت حمله مجدد آمریکا",
-        "title_en": "Iran war live: Khamenei warns of 'broader retaliation' if US renews attacks",
-        "summary": [
-            "مجتبی خامنه‌ای هشدار داد که تکرار حملات نظامی آمریکا با پاسخ بسیار گسترده‌تری از سوی ج.ا مواجه خواهد شد.",
-            "دونالد ترامپ اذعان کرد که درگیری با ایران یکی از دلایل اصلی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا بوده است.",
-            "محمدباقر قالیباف با استقبال از شکست جمهوری‌خواهان در شبکه اجتماعی اکس مدعی شد مردم آمریکا به جنگ نه گفته‌اند."
-        ],
-        "impact": "افزایش تنش‌های لفظی و خط و نشان کشیدن متقابل میان مقام‌های ارشد ایران و آمریکا در سایه تحولات سیاسی داخلی واشنگتن.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14183923-1785753354.jpg?resize=1920%2C1440",
-        "timestamp": 1793754120.0
     }
 ]
