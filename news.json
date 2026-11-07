@@ -1,5 +1,24 @@
 [
     {
+        "id": "741393bfef",
+        "title_fa": "مسدودسازی کانال‌های مالی صرافی MEXC به دلیل ارتباط با ایران",
+        "title_en": "FinCEN Bars U.S. Financial Institutions From Moving Funds for MEXC After $16.7 Billion Finding",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا صرافی مکس‌سی را به جابجایی ۱۶.۷ میلیارد دلار پول مرتبط با فعالیت‌های غیرقانونی متهم کرد.",
+            "این دستور نهاد نظارتی، بانک‌های آمریکایی را از هرگونه تراکنش مالی با این صرافی منع می‌کند.",
+            "مقام ارشد خزانه‌داری آمریکا تأکید کرد که دسترسی به سیستم مالی این کشور با حمایت مالی از ساختار حکومت ایران همخوانی ندارد."
+        ],
+        "impact": "بسته‌شدن یکی از مسیرهای کلیدی تبادل ارزهای دیجیتال و دورزدن تحریم‌ها",
+        "tag": "ارز دیجیتال",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "cryptonews",
+        "url": "https://cryptonews.net/news/market/33716754/",
+        "clean_url": "https://cryptonews.net/news/market/33716754",
+        "image": "https://cnews24.ru/uploads/a39/a3907e872e07897563dbce71639b46dbd8f80d85.jpg",
+        "timestamp": 1794006960.0
+    },
+    {
         "id": "9bc837934b",
         "title_fa": "افزایش بحث‌ها درباره احتمال جنگ با ای-ران در رسانه‌های خارجی",
         "title_en": "How popular is the Iran War?",
@@ -124,6 +143,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMNF9ZYlFPUVNITUxUNndyQWRLYV94WGl6MzI5aHk5S3dwRTZScmg0MDl0bVRib1NHWFpJdkg0TVAwampndWVqbHpFOUlzbTF3cWc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793996776.0
+    },
+    {
+        "id": "62a6516192",
+        "title_fa": "ضربت خزانه‌داری آمریکا به شبکه مالی حامی حکومت ایران در کانادا",
+        "title_en": "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
+        "summary": [
+            "دفتر کنترل دارایی‌های خارجی آمریکا هشت شرکت خدمات ارزی در کانادا را به دلیل پشتیبانی مالی از ساختار حاکم تحریم کرد.",
+            "این شرکت‌ها با تبدیل ریال و ارزهای دیگر به دارای دیجیتال، مسیر دورزدن تحریم‌ها را برای نهادهای تحت تحریم هموار می‌کردند.",
+            "برخی از این مجموعه‌های مالی با واسطه‌های مرتبط با نهادهای نظامی حاکمیت همکاری داشتند."
+        ],
+        "impact": "قطع شدن مسیرهای انتقال پول دیجیتال و فرار سرمایه نهادهای تحریمی در کانادا",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "U.S. Department of the Treasury",
+        "url": "https://home.treasury.gov/news/press-releases/sb0686/",
+        "clean_url": "https://home.treasury.gov/news/press-releases/sb0686",
+        "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+        "timestamp": 1793995500.0
     },
     {
         "id": "38719b3821",
@@ -5451,41 +5489,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/fox-news-anchor-presses-trump-on-iran-regrets-after-midterm-thumping/ar-AA2gIicV",
         "image": "http://www.bing.com/th?id=ONUT.x_DJMdSAt-UpkCsGoanX7w&pid=News",
         "timestamp": 1793740741.0
-    },
-    {
-        "id": "14c1e87e99",
-        "title_fa": "خستگی رای‌دهندگان مستقل آمریکا از جنجال‌های سیاسی و فشار تورم",
-        "title_en": "‘I want to send a message’: Inside NC’s blue wave are Charlotte voters fed up with Trump",
-        "summary": [
-            "افزایش شدید هزینه‌های سوخت و خوراکی در کنار فضای مسموم سیاسی واشنگتن، صدای معترضان در ایالت‌های کلیدی را درآورده است.",
-            "رای‌دهندگان میانه‌رو با خروج از زیر سایه قطب‌بندی‌های حزبی، تمرکز اصلی خود را بر معیشت و بحران‌های اقتصادی معطوف کرده‌اند."
-        ],
-        "impact": "احتمال تغییر موازنه آرا در ایالت‌های چرخشی آمریکا به دلیل ناامیدی از عملکرد معیشتی و رفتارهای افراطی.",
-        "tag": "انتخابات آمریکا",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Charlotte Observer",
-        "url": "https://www.charlotteobserver.com/news/politics-government/election/article317914079.html",
-        "clean_url": "https://www.charlotteobserver.com/news/politics-government/election/article317914079.html",
-        "image": "http://www.bing.com/th?id=ONUT.qchIeoWHAH1AoF4EogNX8Q&pid=News",
-        "timestamp": 1793740500.0
-    },
-    {
-        "id": "c8d82cc8d3",
-        "title_fa": "ریزش قیمت نفت با احتمال کنترل کنگره توسط دموکرات‌ها",
-        "title_en": "Oil prices fall as Democrats' Congress takeover raises questions over Iran war",
-        "summary": [
-            "پیروزی احتمالی دموکرات‌ها در کنگره، دست‌انداز جدیدی جلوی هزینه‌های جنگی ترامپ علیه ای-ران ایجاد می‌کند.",
-            "بازار نفت با کاهش ریسک تنش نظامی، شاهد افت قیمت نفت و عقب‌نشینی شاخص‌های برنت و WTI است."
-        ],
-        "impact": "کاهش درآمدهای نفتی ج-مهوری اس-لامی به دلیل افت قیمت جهانی نفت و کاهش احتمال درگیری نظامی تمام‌عیار.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Invezz",
-        "url": "https://invezz.com/news/2026/11/04/oil-prices-fall-as-democrats-congress-takeover-raises-questions-over-iran-war/",
-        "clean_url": "https://invezz.com/news/2026/11/04/oil-prices-fall-as-democrats-congress-takeover-raises-questions-over-iran-war",
-        "image": "http://www.bing.com/th?id=ONUT.9Twivt2Ojdy0jcLW9mSBtg&pid=News",
-        "timestamp": 1793740260.0
     }
 ]
