@@ -1,5 +1,24 @@
 [
     {
+        "id": "cf32995348",
+        "title_fa": "خطر درگیری نظامی با ج.ا همچنان در اوج است",
+        "title_en": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+        "summary": [
+            "تغییرات در کنگره آمریکا تأثیر چندانی بر سیاست‌های تقابلی با تهران ندارد.",
+            "ساختار قدرت در واشینگتن فارغ از جناح‌بندی‌ها، بر مهار فعالیت‌های منطقه‌ای ج.ا متمرکز است.",
+            "تنش‌های نظامی به دلیل رفتارهای بی‌ثبات‌کننده در منطقه، همچنان پتانسیل انفجار دارد."
+        ],
+        "impact": "تداوم فضای ناامنی و افزایش ریسک درگیری‌های مستقیم نظامی در خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794056592.0
+    },
+    {
         "id": "eac00e6b7d",
         "title_fa": "حمله به جزیره قشم و هرمز در میان تلاش‌های دیپلماتیک",
         "title_en": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
@@ -5481,24 +5500,5 @@
         "clean_url": "https://www.businessinsider.com/inflation-and-cost-of-living-shaped-2026-midterm-voter-priorities-2026-11",
         "image": "http://www.bing.com/th?id=ONUT.d6GUydi76qUiuLt4rLmwwQ&pid=News",
         "timestamp": 1793757600.0
-    },
-    {
-        "id": "24071b905b",
-        "title_fa": "تنش در آب‌های خلیج فارس و بازی با آتش",
-        "title_en": "Iran Faces Defeat: Three Clocks Are Now Ticking",
-        "summary": [
-            "عباس عراقچی از ادامه رایزنی‌ها برای بازگشایی تنگه هرمز و انتظار برای پاسخ به شرایط ایران خبر می‌دهد.",
-            "همزمان گزارش‌هایی از انفجار نفتکش‌ها در نزدیکی عربستان و منطقه ممنوعه سپاه منتشر شده است که فضا را امنیتی‌تر می‌کند.",
-            "ابهام در هویت مهاجمان باعث شده هر حادثه کوچکی به سرعت به یک بحران بزرگ‌تر تبدیل شود."
-        ],
-        "impact": "افزایش ریسک امنیتی در آب‌های جنوبی و احتمال جهش قیمت انرژی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/04112026-iran-faces-defeat-three-clocks-are-now-ticking-analysis/",
-        "clean_url": "https://www.eurasiareview.com/04112026-iran-faces-defeat-three-clocks-are-now-ticking-analysis",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/07/a-81.jpeg",
-        "timestamp": 1793757300.0
     }
 ]
