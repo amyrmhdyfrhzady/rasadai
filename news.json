@@ -201,6 +201,25 @@
         "timestamp": 1793993338.0
     },
     {
+        "id": "d70a041c1f",
+        "title_fa": "بررسی پیشنهاد میانجی‌گری قطر برای مذاکره هسته‌ای با آمریکا",
+        "title_en": "Iran considers Qatar-mediated nuclear talks proposal, raising possibility of resuming dialogue with US",
+        "summary": [
+            "تهران در حال ارزیابی طرح قطر برای حل چالش‌های اتمی با ایالات متحده است.",
+            "دونالد ترامپ حل پرونده اتمی را شرط اصلی پایان درگیری‌ها می‌داند.",
+            "پیش‌شرط تهران برای پذیرش آتش‌بس، مانع اصلی در مسیر شکل‌گیری گفت‌وگوهای غیرمستقیم است."
+        ],
+        "impact": "احیای کانال‌های دیپلماتیک پنهان می‌تواند تنش‌های اتمی را وارد فاز تازه‌ای کند.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "en.fnnews.com",
+        "url": "https://en.fnnews.com/news/202611070906403693",
+        "clean_url": "https://en.fnnews.com/news/202611070906403693",
+        "image": "https://image.fnnews.com/resource/media/image/2026/11/07/202611070737075660_l.jpg",
+        "timestamp": 1793992380.0
+    },
+    {
         "id": "21dbdab763",
         "title_fa": "بازی دوگانه واشنگتن؛ مذاکره با تهران همزمان با تهدید حمله مجدد",
         "title_en": "US-Iran talks show signs of progress even as Trump weighs renewed strikes",
@@ -5471,23 +5490,5 @@
         "clean_url": "https://www.cbsnews.com/news/iowa-1st-district-results-christina-bohannan-mariannette-miller-meeks",
         "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/a022818c-6e8b-4c58-b758-d9275fcabf70/thumbnail/1200x630/190c268743979208fd060af4e3ab775e/ap26229183694261.jpg",
         "timestamp": 1793741100.0
-    },
-    {
-        "id": "24c68bc128",
-        "title_fa": "شکست سناتور کهنه‌کار جمهوری‌خواه در ایالت مین",
-        "title_en": "Democrat Troy Jackson Triumphs In Maine As Susan Collins Finally Ousted",
-        "summary": [
-            "تروی جکسون، نامزد دموکرات‌ها، توانست سوزان کالینز، سناتور جمهوری‌خواه را در رقابتی فشرده شکست دهد.",
-            "این پیروزی برای حزب دموکرات در سنا یک دستاورد مهم محسوب می‌شود."
-        ],
-        "impact": "تغییر موازن قدرت در سنای آمریکا به نفع دموکرات‌ها",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/democrat-troy-jackson-wins-maine_n_6aea29b9e4b056519dfe18a9",
-        "clean_url": "https://www.huffpost.com/entry/democrat-troy-jackson-wins-maine_n_6aea29b9e4b056519dfe18a9",
-        "image": "http://www.bing.com/th?id=ONUT.iw6yvXHgMs6XnCc1S6RECg&pid=News",
-        "timestamp": 1793740920.0
     }
 ]
