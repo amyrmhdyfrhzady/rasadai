@@ -128,6 +128,24 @@
         "timestamp": 1794012695.0
     },
     {
+        "id": "0e3a4434ab",
+        "title_fa": "شکل‌گیری طوفان استوایی پنا در جنوب شرقی هاوایی",
+        "title_en": "Tropical storm Pena forms well southeast of Hawaii, no threat to land",
+        "summary": [
+            "طوفان استوایی «پنا» در فاصله دور از جزایر هاوایی شکل گرفته و به سمت اقیانوس در حرکت است.",
+            "ارزیابی مرکز ملی طوفان آمریکا نشان می‌دهد این سامانه هیچ تهدیدی برای مناطق مسکونی ایجاد نمی‌کند."
+        ],
+        "impact": "عدم بروز خسارات جانی و مالی و ادامه پایش مسیر طوفان توسط سازمان‌های هواشناسی.",
+        "tag": "محیط زیست",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Hawaii News Now on MSN",
+        "url": "https://www.msn.com/en-us/news/other/tropical-storm-pena-forms-well-southeast-of-hawaii-no-threat-to-land/ar-AA2gVIpW",
+        "clean_url": "https://www.msn.com/en-us/news/other/tropical-storm-pena-forms-well-southeast-of-hawaii-no-threat-to-land/ar-AA2gVIpW",
+        "image": "http://www.bing.com/th?id=ONUT.HMtz96ubEpUmneZ38B9S5Q&pid=News",
+        "timestamp": 1794012664.0
+    },
+    {
         "id": "0b47ea4909",
         "title_fa": "فشار نظامی ترامپ بر ج-ه-م-و-ر-ی ا-س-ل-ا-م-ی و حملات به قشم",
         "title_en": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
@@ -147,6 +165,24 @@
         "timestamp": 1794012300.0
     },
     {
+        "id": "29d7789b91",
+        "title_fa": "مصاحبه مانی روتینل پس از پیروزی در انتخابات کلرادو",
+        "title_en": "Congressman-elect Manny Rutinel speaks to CNN after election win",
+        "summary": [
+            "مانی روتینل، نماینده ۳۱ ساله جدید کلرادو، اولویت‌های کاری خود برای ورود به مجلس نمایندگان را تشریح کرد.",
+            "حضور چهره‌های جوان در کنگره می‌تواند اولویت‌های قانون‌گذاری در بخش‌های اقتصادی و اجتماعی را دستخوش تغییر کند."
+        ],
+        "impact": "تقویت جناح جوان و پرانرژی حزب دمکرات در ساختار قانون‌گذاری آمریکا.",
+        "tag": "سیاست آمریکا",
+        "urgency": 2,
+        "sentiment": 0.4,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/07/world/video/midterms-election-manny-rutinel-intv-110701aseg2-cnni-world-fast",
+        "clean_url": "https://www.cnn.com/2026/11/07/world/video/midterms-election-manny-rutinel-intv-110701aseg2-cnni-world-fast",
+        "image": "http://www.bing.com/th?id=ONUT.4Z2CR7h_9S1xwbM7wblWAg&pid=News",
+        "timestamp": 1794011280.0
+    },
+    {
         "id": "e7f96a2b96",
         "title_fa": "ترامپ: مذاکره با تهران ادامه دارد، گزینه نظامی روی میز است",
         "title_en": "Iran submits nuclear proposal as Hegseth defends war, seeks more money from Congress",
@@ -164,6 +200,24 @@
         "clean_url": "https://www.foxnews.com/live-news/iran-war-news-nuclear-proposal-hegseth-congress-budget-request-11-06-26",
         "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/11/624/351/d3c2d1f3261955c0e60f956dca94fc90.jpg?ve=1&tl=1",
         "timestamp": 1794011280.0
+    },
+    {
+        "id": "ad7203633d",
+        "title_fa": "سقوط بالگرد در خلیج میامی؛ یک کشته و دو مصدوم",
+        "title_en": "1 killed and 2 others injured when a helicopter crashes into bay near Miami, officials say",
+        "summary": [
+            "یک فروند بالگرد در خلیج بیسکین در نزدیکی میامی سقوط کرد که منجر به کشته شدن یک نفر و مصدومیت شدید دو تن دیگر شد.",
+            "تیم‌های امداد و نجات بلافاصله به محل حادثه اعزام شده و تحقیقات درباره علت سقوط آغاز شده است."
+        ],
+        "impact": "احتمال اختلال موقت در رفت‌وآمد دریایی منطقه و بررسی ایمنی پروازهای غیرنظامی.",
+        "tag": "حوادث",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/video/1-killed-and-2-others-injured-when-a-helicopter-crashes-into-bay-near-miami-officials-say-e3c1e9aced15474395e90de943c4bd68",
+        "clean_url": "https://apnews.com/video/1-killed-and-2-others-injured-when-a-helicopter-crashes-into-bay-near-miami-officials-say-e3c1e9aced15474395e90de943c4bd68",
+        "image": "http://www.bing.com/th?id=ONUT.7tttUZ4vuZg3mHfTL05uIg&pid=News",
+        "timestamp": 1794010980.0
     },
     {
         "id": "2413433ea8",
@@ -533,6 +587,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjA3Q1BhbURndWpNWDRLRFB4Y3BsMVpOQjRTRDdDeWhicmVDa2o4MGVZREszSGNCa2pvRC1rM09QWTJ2TEV3aUxITy1OMTlDNHVNWmw4SjlYTHBsMFAtc3d1clkwX01qUjlqV1ZLQmxoMG1OUng1TzAxTE01dHlMelhlVlBKdVpQNnF5STJWTTBZQ0xLU0pHZmYxVURPVW5EQjhwTTE0d9IBrAFBVV95cUxQSUpvQVRXbDJvaVY0MDdFd0U3SkgxQVF1enNvM3hBeEdtMzdld2pCNU05anE1VUdUS2FEdERPMzlBR0V0RzZqR2RhbGp0RndQazBld1ZrTF8zSUpERzVQSTNwWFZoQVVYWUg2WHpzVGEtZ1RxUGlGSjY3b3NxUGxVZGhaZ2RiNzYteUZxQkM2U3FQRllodFpwVUgzSXZkaGFzcDJWLUppWmZ5TG5U",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793990852.0
+    },
+    {
+        "id": "4f321b28ac",
+        "title_fa": "نقش باورهای مذهبی در پیروزی‌های انتخاباتی دمکرات‌ها",
+        "title_en": "'Defeated Goliath': Did faith help Democrats flip key midterm races?",
+        "summary": [
+            "بررسی تاثیر سازمان‌دهی گروه‌های مذهبی در پیروزی غیرمنتظره نامزدهای دمکرات در رقابت‌های کلیدی میان‌دوره‌ای.",
+            "تغییر استراتژی دمکرات‌ها برای جذب رای‌دهندگان طبقه مذهبی و مستقل جهت شکست دادن رقبا."
+        ],
+        "impact": "تغییر الگوی تبلیغات انتخابی در ایالات متحده و بازتعریف تاکتیک‌های جذب رای‌دهندگان مذهبی.",
+        "tag": "انتخابات آمریکا",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/nation/2026/11/06/defeated-goliath-did-faith-help-democrats-flip-key-midterm-races/92636529007/",
+        "clean_url": "https://www.usatoday.com/story/news/nation/2026/11/06/defeated-goliath-did-faith-help-democrats-flip-key-midterm-races/92636529007",
+        "image": "http://www.bing.com/th?id=ONUT.3y2F1bjdkIKhJMoxLGxQNw&pid=News",
+        "timestamp": 1793990640.0
     },
     {
         "id": "f604272080",
@@ -5431,77 +5503,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/el-sayed-leads-rogers-with-one-third-of-results-counted/ar-AA2gHK3H",
         "image": "http://www.bing.com/th?id=ONUT.HoGNLLZohiwGHF5j3L3asg&pid=News",
         "timestamp": 1793750572.0
-    },
-    {
-        "id": "76502807f1",
-        "title_fa": "فشار فزاینده تندروها در تهران برای ساخت بمب اتم",
-        "title_en": "Growing Push in Iran to Develop Nuclear Weapons",
-        "summary": [
-            "مقامات و نمایندگان مجلس در تهران علناً خواستار خروج از ان‌پی‌تی و ساخت تسلیحات اتمی شده‌اند.",
-            "این جریان تندرو معتقد است پس از درگیری‌های اخیر، تنها راه بازدارندگی در برابر حملات نظامی، دستیابی به بمب اتم است."
-        ],
-        "impact": "بهانه‌تراشی برای فشار حداکثری دولت ترامپ و تشدید تنش‌های امنیتی منطقه",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/growing-push-iran-develop-nuclear-011959773.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/growing-push-iran-develop-nuclear-011959773.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/51f99500075bd073680d6d6c8b86deb48777f832ac850b57feed9376ebebb6c8/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/newsmax_809/30bd004603f2200c71e83bc756615824.png",
-        "timestamp": 1793750400.0
-    },
-    {
-        "id": "ade0952564",
-        "title_fa": "تأثیر حملات ایران و کاهش کمک‌ها به اسرائیل بر روز انتخابات",
-        "title_en": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
-        "summary": [
-            "تحولات مربوط به حملات منسوب به ای-ران و تغییرات در کمک‌های مالی به اسرائیل، معادلات روز انتخابات را تحت تأثیر قرار داد.",
-            "سیاست خارجی و تنش‌های خاورمیانه نقش پررنگی در آرایش انتخاباتی بازی کردند."
-        ],
-        "impact": "جهت‌گیری رای‌دهندگان آمریکایی تحت تأثیر تنش‌های نظامی و سیاست خارجی.",
-        "tag": "انتخابات",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUg0NWlnVWgteVlQVEhwV01UZzEyS0xzekcyWF9zV0l1YXVzUjBfX2R1TUthYXBtNmNPQTM0VVZpSHE2RTU3Rmh3N2tnVFJ1cnZpNEppUVR5Qkd3TzdiQ2RId3huMjdzSTNSS2ZhUTZDVzFYeFEtMmRaeUpmVzBjN3lRdUhJM2N0Sjh1bDNjRjNIeTYxdHdQT1pldnZ4LWlUWndqTk9R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUg0NWlnVWgteVlQVEhwV01UZzEyS0xzekcyWF9zV0l1YXVzUjBfX2R1TUthYXBtNmNPQTM0VVZpSHE2RTU3Rmh3N2tnVFJ1cnZpNEppUVR5Qkd3TzdiQ2RId3huMjdzSTNSS2ZhUTZDVzFYeFEtMmRaeUpmVzBjN3lRdUhJM2N0Sjh1bDNjRjNIeTYxdHdQT1pldnZ4LWlUWndqTk9R",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793749463.0
-    },
-    {
-        "id": "0b99d30adc",
-        "title_fa": "ترامپ: فعلاً برنامه‌ای برای حمله نظامی به ج.ا وجود ندارد",
-        "title_en": "US has no immediate plan to strike Iran, Trump tells FT",
-        "summary": [
-            "دونالد ترامپ در گفتگو با فایننشال تایمز تاکید کرد که ایالات متحده در مقطع فعلی طرحی برای اقدام نظامی مستقیم علیه ایران ندارد.",
-            "این موضع‌گیری نشان می‌دهد فشارها علیه حکومت فعلاً روی اهداف غیرنظامی و اقتصادی متمرکز خواهد بود."
-        ],
-        "impact": "کاهش نسبی هیجان کاذب در بازارهای مالی و تخلیه بخشی از ترس‌های جنگی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793748876.0
-    },
-    {
-        "id": "7e5cab68db",
-        "title_fa": "پیروزی عبدالالسیل در رقابت سرنوشت‌ساز سنای میشیگان",
-        "title_en": "Abdul El-Sayed wins Michigan Senate race, CBS News projects",
-        "summary": [
-            "عبدالالسیل پس از یک رقابت نفس‌گیر توانست نماینده سابق جمهوری‌خواه را در میشیگان شکست دهد.",
-            "این کرسی یکی از میدان‌های اصلی نبرد میان دو حزب در انتخابات میان‌دوره‌ای بود."
-        ],
-        "impact": "این پیروزی سهم مهمی در تغییر ترکیب نهایی سنا به نفع حزب دموکرات داشت.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-wins-michigan-senate-race-cbs-news-projects/ar-AA2gINKu",
-        "clean_url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-wins-michigan-senate-race-cbs-news-projects/ar-AA2gINKu",
-        "image": "http://www.bing.com/th?id=ONUT.hVPnw1B4vkGO7Kw169cirg&pid=News",
-        "timestamp": 1793748540.0
     }
 ]
