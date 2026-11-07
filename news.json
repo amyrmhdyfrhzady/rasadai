@@ -1,5 +1,24 @@
 [
     {
+        "id": "4cea7b50c9",
+        "title_fa": "هدف قرار گرفتن کشتی ناقض محاصره دریایی در خلیج عمان",
+        "title_en": "CENTCOM says US struck vessel attempting to breach Iran blockade",
+        "summary": [
+            "ارتش آمریکا یک فروند کشتی تجاری با پرچم سنت کیتس را در خلیج عمان هدف قرار داد و از کار انداخت.",
+            "این کشتی پس از پهلوگیری در بنادر ای-ران و بی‌توجهی به اخطارها برای شکستن محاصره دریایی هدف حمله دقیق هوایی قرار گرفت.",
+            "فرماندهی مرکزی آمریکا اعلام کرد تاکنون پنج کشتی تجاری نافرمان را از کار انداحته و ۱۰ نفتکش وابسته به سپاه را منهدم کرده است."
+        ],
+        "impact": "تشدید فشار نظامی و دریایی آمریکا بر شریان‌های تجاری وابسته به ح-ک-و-م-ت",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611070633",
+        "clean_url": "https://www.iranintl.com/en/202611070633",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1794084960.0
+    },
+    {
         "id": "4d80e36c9f",
         "title_fa": "برداشتن محدودیت برد موشک‌ها توسط حکومت",
         "title_en": "Iran says missiles no longer bound by range limits",
@@ -5482,23 +5501,5 @@
         "clean_url": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
         "image": "http://www.bing.com/th?id=ONUT.DZ9tqA6FJoduEGViPSj6uA&pid=News",
         "timestamp": 1793764920.0
-    },
-    {
-        "id": "0d95c4bb97",
-        "title_fa": "شکست جمهوری‌خواهان در انتخابات میاندوره‌ای کنگره آمریکا",
-        "title_en": "NBC News Exit Poll: How the blue tsunami took shape",
-        "summary": [
-            "حزب دموکرات توانست با تسلط بر هر دو مجلس سنا و نمایندگان، شکست سنگینی را به حامیان ترامپ تحمیل کند.",
-            "نارضایتی عمومی از وضعیت اقتصادی و افت محبوبیت دولت وقت، محرک اصلی چرخش آرای رای‌دهندگان به سمت دموکرات‌ها بود."
-        ],
-        "impact": "تغییر موازنه قدرت در کنگره آمریکا مسیر پیشبرد برنامه‌های داخلی و خارجی دولت را با چالش جدی مواجه می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/2026-election/nbc-news-exit-poll-democrats-victory-trump-economy-rcna607391",
-        "clean_url": "https://www.nbcnews.com/politics/2026-election/nbc-news-exit-poll-democrats-victory-trump-economy-rcna607391",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-dems-rs-8f7fb3.jpg",
-        "timestamp": 1793764320.0
     }
 ]
