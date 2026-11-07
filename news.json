@@ -366,6 +366,24 @@
         "timestamp": 1793977815.0
     },
     {
+        "id": "a02b19df48",
+        "title_fa": "تلاش پشت‌پرده معاون ترامپ برای توافق جدید با تهران",
+        "title_en": "Vance leads behind-the-scenes push for new Iran deal",
+        "summary": [
+            "جی دی ونس در دو هفته گذشته شخصاً درگیر مذاکرات غیرمستقیم با تهران بوده است.",
+            "هدف این تماس‌ها دستیابی به آتش‌بس جدید و احیای مذاکرات هسته‌ای اعلام شده است."
+        ],
+        "impact": "تغییر احتمالی رویکرد دولت آمریکا از فشار حداکثری صرف به سمت دیپلماسی پنهان.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
+        "clean_url": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
+        "image": "http://www.bing.com/th?id=ONUT.6bScv5pjbfAgUNoifB_XAA&pid=News",
+        "timestamp": 1793976060.0
+    },
+    {
         "id": "6250f0c391",
         "title_fa": "احیای تنش‌های فرقه‌ای در بحرین همزمان با سایه جنگ",
         "title_en": "Iran war revives Bahrain’s conflict with Shiite Muslim majority",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://www.huffpost.com/entry/democrat-troy-jackson-wins-maine_n_6aea29b9e4b056519dfe18a9",
         "image": "http://www.bing.com/th?id=ONUT.iw6yvXHgMs6XnCc1S6RECg&pid=News",
         "timestamp": 1793740920.0
-    },
-    {
-        "id": "6b22b1eaad",
-        "title_fa": "فشار فاکس‌نیوز بر ترامپ درباره سیاست‌های ایران",
-        "title_en": "Fox News anchor presses Trump on Iran regrets after midterm thumping",
-        "summary": [
-            "مجری شبکه فاکس‌نیوز در مصاحبه‌ای چالش‌برانگیز، عملکرد ترامپ در قبال ایران را زیر ذره‌بین برد.",
-            "این پرسش‌ها پس از تغییر موازن قدرت در کنگره مطرح شده و رویکرد کلی جمهوری‌خواهان را به چالش می‌کشد."
-        ],
-        "impact": "افزایش فشار رسانه‌ای بر تیم سیاست خارجی ترامپ برای شفاف‌سازی استراتژی منطقه‌ای.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Mediaite on MSN",
-        "url": "https://www.msn.com/en-us/news/other/fox-news-anchor-presses-trump-on-iran-regrets-after-midterm-thumping/ar-AA2gIicV",
-        "clean_url": "https://www.msn.com/en-us/news/other/fox-news-anchor-presses-trump-on-iran-regrets-after-midterm-thumping/ar-AA2gIicV",
-        "image": "http://www.bing.com/th?id=ONUT.x_DJMdSAt-UpkCsGoanX7w&pid=News",
-        "timestamp": 1793740741.0
     }
 ]
