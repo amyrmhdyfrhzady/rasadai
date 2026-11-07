@@ -219,6 +219,25 @@
         "timestamp": 1794038520.0
     },
     {
+        "id": "9f061ab8f9",
+        "title_fa": "سقوط ۸۰ درصدی واردات پنل خورشیدی به ای...ران",
+        "title_en": "Iran's solar ambitions falter as Chinese panel imports collapse",
+        "summary": [
+            "واردات پنل خورشیدی از چین به دلیل بحران‌های مالی و ارزی به شدت سقوط کرده است.",
+            "قطعی برق گسترده و کمبود گاز طبیعی، بحران انرژی در کشور را وارد مرحله خطرناکی کرده است.",
+            "پروژه‌های انرژی خورشیدی عملاً متوقف شده‌اند و دولت هیچ راهکار پایداری برای تامین برق ندارد."
+        ],
+        "impact": "فلج شدن زیرساخت‌های انرژی و تشدید قطعی برق در بخش‌های خانگی و صنعتی.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611072745",
+        "clean_url": "https://www.iranintl.com/en/202611072745",
+        "image": "http://www.bing.com/th?id=ONUT.ZvAMmWeacjDt92Fln0PFAw&pid=News",
+        "timestamp": 1794036180.0
+    },
+    {
         "id": "3035b52231",
         "title_fa": "طرح قطر برای گره‌زدن بازرسی‌های هسته‌ای به امنیت تنگه هرمز",
         "title_en": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
@@ -5481,23 +5500,5 @@
         "clean_url": "https://www.latimes.com/opinion/story/2026-11-04/congress-shouldnt-let-iran-become-background-war",
         "image": "http://www.bing.com/th?id=ONUT.Z_fgmfZXUSPjnuVZV34jbQ&pid=News",
         "timestamp": 1793761500.0
-    },
-    {
-        "id": "3201e20361",
-        "title_fa": "خطای مرورگر در سایت یواس‌اتودی",
-        "title_en": "WrestleMania 43 in Saudi Arabia faces a problem WWE can’t wish away",
-        "summary": [
-            "سایت یواس‌اتودی به دلیل استفاده از فناوری‌های جدید، از برخی مرورگرهای قدیمی پشتیبانی نمی‌کند.",
-            "کاربران برای دسترسی به اخبار مربوط به رویدادهای ورزشی باید مرورگر خود را آپدیت کنند."
-        ],
-        "impact": "دسترسی برخی کاربران به اخبار این رسانه با اختلال مواجه شده است.",
-        "tag": "فناوری",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/sports/2026/11/04/wwe-wrestlemania-43-saudi-arabia-attacks-crown-jewel/92427307007/",
-        "clean_url": "https://www.usatoday.com/story/sports/2026/11/04/wwe-wrestlemania-43-saudi-arabia-attacks-crown-jewel/92427307007",
-        "image": "http://www.bing.com/th?id=ONUT.WxyJbqj3XT76uFTcaoDLcw&pid=News",
-        "timestamp": 1793761260.0
     }
 ]
