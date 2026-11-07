@@ -182,6 +182,25 @@
         "timestamp": 1793998942.0
     },
     {
+        "id": "b74e5f40a7",
+        "title_fa": "ضربه واشنگتن به شبکه دور زدن تحریم‌های رژیم",
+        "title_en": "US-Finanzministerium verhängt Sanktionen gegen acht kanadische Unternehmen wegen Umgehung von Iran-Sanktionen",
+        "summary": [
+            "خزانه‌داری آمریکا هشت شرکت مالی مستقر در کانادا را به جرم کمک به انتقال پول برای سیستم جی‌امی‌اس ایران تحریم کرد.",
+            "صرافی رمزارز MEXC Global نیز به دلیل تسهیل تراکنش‌های مرتبط با ایران تحت محدودیت شدید مالی قرار گرفت.",
+            "این اقدام نشان‌دهنده عزم جدی آمریکا برای بستن منافذ پنهان مالی و صرافی‌های خردی است که حاکمیت از آن‌ها استفاده می‌کند."
+        ],
+        "impact": "مسدود شدن مسیرهای تنفسی مالی و صرافی‌های پوششی ج‌مهوری ا‌سلامی در خارج از کشور",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "JKN News",
+        "url": "https://news.jkn.co.kr/editions/german/post/1076217",
+        "clean_url": "https://news.jkn.co.kr/editions/german/post/1076217",
+        "image": "https://images.jkn.co.kr/data/images/full/110/66/1106693.jpg?v=1794009649&width=1200&height=630",
+        "timestamp": 1793998320.0
+    },
+    {
         "id": "f6abe746cc",
         "title_fa": "هشدار جدی آمریکا به شهروندان برای دوری از مراکز س پ ا ه",
         "title_en": "US urges Iranians to stay away from IRGC positions if tensions escalate",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://www.foxnews.com/politics/lawyer-up-dems-immediately-put-trump-notice-amid-republicans-midterm-bloodbath",
         "image": "http://www.bing.com/th?id=ONUT.8LtLQGa6cklFekxJZAzHYw&pid=News",
         "timestamp": 1793742660.0
-    },
-    {
-        "id": "b2470d6609",
-        "title_fa": "افزایش گرایش به سلاح هسته‌ای در میان شهروندان ایـران",
-        "title_en": "On Cusp of Renewed War, More Iranians are Calling for Nuclear Weapons",
-        "summary": [
-            "سایه جنگ دوباره باعث شده تا شمار بیشتری از مردم در ایـران خواهان دستیابی به سلاح هسته‌ای شوند.",
-            "این تغییر رویکرد بازتاب‌دهنده بحران عمیق امنیتی و بن‌بست‌های موجود است."
-        ],
-        "impact": "تشدید تنش‌ها و تغییر محاسبات امنیتی در سطح منطقه‌ای و بین‌المللی.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS01GdlcwQXNlbzFsNHlMZXpyWDlvVUhhREwwdVIwaml1cGRfOWNKZUJrRDFPcWJod0VtNVdGMlI2UlU2WnN2a291UmlPNUk1bXBqcXhtSDFDNmtOaVI3TmlfRVVKc0ZXWkdMamhZT1hDdS0tcDZWdGdBdmZ3VkQ2aHA4YUxmbmJOOGNmd2RuMURpTFRiNnNqSVR4OVd5YjdGTVBBUFU2elAwNnJueDNxRmd5ZkNFZG1IZmVOZlBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS01GdlcwQXNlbzFsNHlMZXpyWDlvVUhhREwwdVIwaml1cGRfOWNKZUJrRDFPcWJod0VtNVdGMlI2UlU2WnN2a291UmlPNUk1bXBqcXhtSDFDNmtOaVI3TmlfRVVKc0ZXWkdMamhZT1hDdS0tcDZWdGdBdmZ3VkQ2aHA4YUxmbmJOOGNmd2RuMURpTFRiNnNqSVR4OVd5YjdGTVBBUFU2elAwNnJueDNxRmd5ZkNFZG1IZmVOZlBR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793742392.0
     }
 ]
