@@ -1,5 +1,23 @@
 [
     {
+        "id": "c2531e5cee",
+        "title_fa": "تشکیل یگان ویژه آمریکا برای قطع شریان‌های تسلیحاتی ج.ا",
+        "title_en": "US army announces new task force to disrupt Iran’s supply routes",
+        "summary": [
+            "پنتاگون با ایجاد این کارگروه، تمرکز خود را بر مسدودسازی مسیرهای انتقال پهپاد و موشک به گروه‌های نیابتی گذاشته است.",
+            "این اقدام نشان‌دهنده تغییر استراتژی از نظارت صرف به عملیات فعال برای قطع دسترسی‌های لجستیکی در منطقه است."
+        ],
+        "impact": "افزایش ریسک درگیری مستقیم در آب‌های منطقه و محدود شدن توان عملیاتی گروه‌های وابسته به ج.ا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHJkaG1HWmxHXzZHRTIxT1NvVVVXOG95Sm1UdTE1TjZKckhFcDVnQWVsM2w2eUdsM0U2aU5ITm1oajBtVGhVdlhtYW5zSnBpNHFQQ29sWl9XeEZ2SGN2Ulo1cUJQMkFHSHFKdHBvUXZXcWcwMENUZC1aWGpSNHU5cjBNQ3lTOGRRblFnVVJOSUo4RVdNVUJnbFNwekxDaGJpcE1MZEpHMVZ6LW0yNmRGOWNMbHJYSkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHJkaG1HWmxHXzZHRTIxT1NvVVVXOG95Sm1UdTE1TjZKckhFcDVnQWVsM2w2eUdsM0U2aU5ITm1oajBtVGhVdlhtYW5zSnBpNHFQQ29sWl9XeEZ2SGN2Ulo1cUJQMkFHSHFKdHBvUXZXcWcwMENUZC1aWGpSNHU5cjBNQ3lTOGRRblFnVVJOSUo4RVdNVUJnbFNwekxDaGJpcE1MZEpHMVZ6LW0yNmRGOWNMbHJYSkk",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794059827.0
+    },
+    {
         "id": "57fbe3eac1",
         "title_fa": "ادامه جستجوی اطلاعات اتمی ایران توسط آمریکا",
         "title_en": "Despite obliteration claims, US still seeking Iran nuclear info",
@@ -5481,23 +5499,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/winners-and-losers-from-the-2026-midterm-elections/ar-AA2gJjni",
         "image": "http://www.bing.com/th?id=ONUT.R8wxb2Hv5e9uUZ66UG8iTA&pid=News",
         "timestamp": 1793759134.0
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "نوسان قیمت سوخت در ایالات متحده",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "آمارهای روزانه نشان‌دهنده تغییرات مداوم بهای بنزین در ایالت‌های مختلف آمریکا است.",
-            "این داده‌ها ابزار مهمی برای سنجش وضعیت تورم و هزینه‌های زندگی شهروندان آمریکایی به شمار می‌رود."
-        ],
-        "impact": "تغییرات قیمت سوخت مستقیماً بر شاخص تورم عمومی و هزینه‌های حمل‌ونقل تاثیر می‌گذارد.",
-        "tag": "اقتصادی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793758105.0
     }
 ]
