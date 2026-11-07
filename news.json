@@ -254,6 +254,24 @@
         "timestamp": 1794054455.0
     },
     {
+        "id": "3cd54c0e78",
+        "title_fa": "انفجارهای مرموز در جنوب ایـرآن؛ قشم و جاسک لرزیدند",
+        "title_en": "Explosions heard in areas in southern Iran, Iranian media report",
+        "summary": [
+            "منابع خبری از وقوع انفجارهای مهیب در جزیره قشم و بندر جاسک در جنوب کشور خبر دادند.",
+            "علت این انفجارها هنوز نامشخص است اما مقامات نظامی و امنیتی تاکنون سکوت کرده‌اند."
+        ],
+        "impact": "بالارفتن ضریب امنیتی مناطق جنوبی و ایجاد جو روانی سنگین در بنادر استراتژیک.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/explosions-heard-irans-qeshm-island-iranian-media-reports-2026-11-07/",
+        "clean_url": "https://www.reuters.com/world/middle-east/explosions-heard-irans-qeshm-island-iranian-media-reports-2026-11-07",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794054000.0
+    },
+    {
         "id": "b8f04ce5c6",
         "title_fa": "هدف قرار گرفتن کشتی حامل بار توسط ارتش آمریکا",
         "title_en": "Explosions in Iran's Qeshm, Houthis say targeted Saudi oil sites",
@@ -5480,24 +5498,5 @@
         "clean_url": "https://www.intellinews.com/romania-s-manufacturing-pmi-returns-to-contraction-in-october-as-energy-costs-weigh-on-industry-481348",
         "image": "https://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/Screenshot_2026-11-04_at_09.58.39_Cropped.png",
         "timestamp": 1793771220.0
-    },
-    {
-        "id": "64ed1f2e78",
-        "title_fa": "واکنش قالیباف به انتخابات آمریکا و هشدار به ترامپ",
-        "title_en": "Iran says U.S. election results show Americans reject the war",
-        "summary": [
-            "مقام‌های ج.ا نتیجه انتخابات میان‌دوره‌ای آمریکا را نه بزرگ رأی‌دهندگان به جنگ ارزیابی کردند.",
-            "ترامپ اعتراف کرد تنش با تهران در شکست انتخاباتی جمهوری‌خواهان نقش داشته اما از اقدام خود پشیمان نیست.",
-            "همزمان با ادعای تلاش‌های دیپلماتیک، انفجار مین و آتش‌سوزی در چهار نفتکش در تنگه هرمز ثبت شد."
-        ],
-        "impact": "تداوم ناامنی در آبراه حیاتی تنگه هرمز با وجود نشانه‌های شکننده دیپلماسی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-admits-iran-war-partly-084640367.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-admits-iran-war-partly-084640367.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/9242d0b236eb694785dc4699e79233b9ff2aef79e5c81c09c12d4251106b4777/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fab85c284bd7415534af7ab4e3026ec73.jpg",
-        "timestamp": 1793770200.0
     }
 ]
