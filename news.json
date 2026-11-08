@@ -310,6 +310,25 @@
         "timestamp": 1794121980.0
     },
     {
+        "id": "da4318062f",
+        "title_fa": "واکنش ترامپ به شکست کنگره و تغییرات در کاخ سفید",
+        "title_en": "ترامپ می‌گوید شکست جمهوری‌خواهان در انتخابات «گامی بزرگ به عقب» در تاریخ آمریکا بود",
+        "summary": [
+            "دونالد ترامپ از دست رفتن کنترل کنگره توسط جمهوری‌خواهان را یک عقبگرد بزرگ برای آمریکا خواند.",
+            "او با اشاره به سقوط بازار سهام، از بازگشت قدرتمندتر حزب خود خبر داد.",
+            "استیون میلر، معمار سیاست‌های مهاجرتی سخت‌گیرانه، به عنوان رئیس جدید دفتر کاخ سفید منصوب شد."
+        ],
+        "impact": "تغییرات مهره‌های کلیدی در کاخ سفید نشانگر رویکرد تهاجمی‌تر ترامپ پس از شکست در انتخابات میاندوره‌ای است.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/trump-says-elections-were-giant-step-back-in-history-for-us/33893298.html",
+        "clean_url": "https://www.radiofarda.com/a/trump-says-elections-were-giant-step-back-in-history-for-us/33893298.html",
+        "image": "http://www.bing.com/th?id=ONUT.uLMEeLIKvSMDpYvLE8ialA&pid=News",
+        "timestamp": 1794120300.0
+    },
+    {
         "id": "2030642ae4",
         "title_fa": "افشای قرارداد موشکی جدید؛ معامله ۹۰ پرتابگر میان مسکو و تهران",
         "title_en": "Iran: Documents Reveal Russian Contract For 90 Missile Launchers - Report",
@@ -5488,23 +5507,5 @@
         "clean_url": "https://www.iranintl.com/en/202611041553",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1793805600.0
-    },
-    {
-        "id": "5727176a4c",
-        "title_fa": "از دست رفتن دژ حقوقی ترامپ با پیروزی دمکرات‌ها در تگزاس",
-        "title_en": "Texas election upset means ‘MAGA’s own private law firm’ will be led by a Democrat",
-        "summary": [
-            "پیروزی ناتان جانسون در دادستانی کل تگزاس، بازوی اصلی دادگاهی جریان ترامپ را خنثی کرد.",
-            "نهادی که سال‌ها پیشتاز نبردهای حقوقی علیه دمکرات‌ها بود، حالا دستخوش تغییرات ساختاری گسترده می‌شود."
-        ],
-        "impact": "کاهش توان چالش‌آفرینی حقوقی هواداران ترامپ در سطح ایالتی و فدرال.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/2026-election/texas-attorney-general-democrat-nathan-johsnon-trump-maga-legal-rcna607470",
-        "clean_url": "https://www.nbcnews.com/politics/2026-election/texas-attorney-general-democrat-nathan-johsnon-trump-maga-legal-rcna607470",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-Nathan-Johnson-ch-1253-403e58.jpg",
-        "timestamp": 1793803860.0
     }
 ]
