@@ -201,6 +201,25 @@
         "timestamp": 1794139200.0
     },
     {
+        "id": "42fea633d3",
+        "title_fa": "خط و نشان عراقچی برای جنگ و توقف دیپلماسی",
+        "title_en": "US Iran War Live Updates: Iran's FM Araghchi threatens to 'rain down hell' if US chooses war",
+        "summary": [
+            "عباس عراقچی وزیر خارجه ج.ا تهدید کرده که در صورت شروع جنگ توسط آمریکا، پاسخ سختی به این کشور داده خواهد شد.",
+            "دیپلماسی و مذاکرات غیرمستقیم به دلیل بلاتکلیفی واشنگتن پس از انتخابات آمریکا موقتاً متوقف شده است.",
+            "یک مقام سابق مدعی شده تحریم و مسدودسازی مسیرهای ترانزیتی ایران برای کشورهای همسایه هزینه زیادی دارد و دوام نمی‌آورد."
+        ],
+        "impact": "افزایش تنش‌های لفظی و بلاتکلیفی کامل در مسیر مذاکرات احتمالی با غرب.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-irgc-warning-houthi-yemen-tensions-strait-of-hormuz-latest-news/liveblog/135664813.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-irgc-warning-houthi-yemen-tensions-strait-of-hormuz-latest-news/liveblog/135664813.cms",
+        "image": "http://www.bing.com/th?id=ONUT.tFQPXmOVRSfnAHZNlAYPqA&pid=News",
+        "timestamp": 1794138060.0
+    },
+    {
         "id": "09471c18d4",
         "title_fa": "شکاف در تیم ترامپ درباره جنگ یا دیپلماسی با ایران",
         "title_en": "Trump’s Iran strike decision exposes split between Hegseth and diplomacy allies",
@@ -5491,23 +5510,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/to-bomb-or-not-to-bomb-trumps-limited-iran-war-options-after-midterms/ar-AA2gMvYo",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793822229.0
-    },
-    {
-        "id": "9f3f6a1a7d",
-        "title_fa": "جی‌دی ونس: جنگ با ايران عامل شكست جمهوری‌خواهان بود",
-        "title_en": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
-        "summary": [
-            "سناتور جی‌دی ونس اعتراف کرد که درگرفتن درگیری با جـ.ـهـ.ـوری اسـ.ـلامـ.ـی پاشنه آشیل حزب متبوعش در انتخابات میادوره‌ای بوده است.",
-            "این موضع‌گیری نشان‌دهنده مخالفت طیف حامی ترامپ با دخالت‌های نظامی پرهزینه و بی‌سرانجام در منطقه است."
-        ],
-        "impact": "تقویت رویکرد انزواطلبانه و ضدجنگ در درون حزب جمهوری‌خواه ایالات متحده.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekVkV0ZSQzFFVWNVeWw3VkNDb3puOUtuSnBnMDM4QllXbXpHNG9kWEJJa29EcF9mS1NEVUxFQTJ1M2lwQW1Bc2RzWWhkbGc4V3VvbVV0dlBHaWk3aENpWHVpQUkzVFdMYkF1QjJ0ZTZ6dk5fdFFldkkzTy02NmdVd19ac1U1X2pybTc4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekVkV0ZSQzFFVWNVeWw3VkNDb3puOUtuSnBnMDM4QllXbXpHNG9kWEJJa29EcF9mS1NEVUxFQTJ1M2lwQW1Bc2RzWWhkbGc4V3VvbVV0dlBHaWk3aENpWHVpQUkzVFdMYkF1QjJ0ZTZ6dk5fdFFldkkzTy02NmdVd19ac1U1X2pybTc4",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793822100.0
     }
 ]
