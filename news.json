@@ -291,6 +291,25 @@
         "timestamp": 1794125918.0
     },
     {
+        "id": "75daa0583f",
+        "title_fa": "ترامپ دست برتر را در تقابل با حاکمیت تهران دارد",
+        "title_en": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
+        "summary": [
+            "کاخ سفید و کارشناسان ارشد خاورمیانه معتقدند ترامپ در موقعیت قدرتمندی برای شکست بقایای حکومت قرار دارد.",
+            "موج جدید سیاست‌های واشنگتن می‌تواند به جارو کردن بزرگترین حامی تروریسم در منطقه منجر شود.",
+            "مقام ارشد جـمـهـورۍ ا‌سـلا‌مـۍ پس از غیبت طولانی، همچنان با اظهارات تند به دنبال فرافکنی شکست‌های داخلی است."
+        ],
+        "impact": "فشار همه‌جانبه واشنگتن می‌تواند معادلات بقای ساختار سیاسی فعلی را به هم بریزد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
+        "clean_url": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
+        "image": "http://www.bing.com/th?id=ONUT.46h6uk8a2aVuAuf1uOQqWA&pid=News",
+        "timestamp": 1794121980.0
+    },
+    {
         "id": "2030642ae4",
         "title_fa": "افشای قرارداد موشکی جدید؛ معامله ۹۰ پرتابگر میان مسکو و تهران",
         "title_en": "Iran: Documents Reveal Russian Contract For 90 Missile Launchers - Report",
@@ -5487,23 +5506,5 @@
         "clean_url": "https://www.nbcnews.com/politics/2026-election/texas-attorney-general-democrat-nathan-johsnon-trump-maga-legal-rcna607470",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-Nathan-Johnson-ch-1253-403e58.jpg",
         "timestamp": 1793803860.0
-    },
-    {
-        "id": "a77e084348",
-        "title_fa": "حمله هوایی آمریکا به جزیره قشم در اوج تنش‌ها",
-        "title_en": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
-        "summary": [
-            "ارتش آمریکا مواضعی را در جزیره قشم هدف حملات خود قرار داد.",
-            "این حمله در حالی انجام شد که دونالد ترامپ تلاش می‌کند ریسک بروز جنگ تمام‌عیار را کم‌اهمیت جلوه دهد."
-        ],
-        "impact": "اقدام نظامی مستقیم آمریکا در خاک ایران، احتمال واکنش متقابل و افزایش درگیری‌ها را بالا برده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793803024.0
     }
 ]
