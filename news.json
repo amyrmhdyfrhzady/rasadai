@@ -18,6 +18,24 @@
         "timestamp": 1794176464.2749283
     },
     {
+        "id": "4b66285c45",
+        "title_fa": "توسعه کارگروه نظامی آمریکا برای بستن مرزهای جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
+        "title_en": "Yemen's Houthis strike Saudi Aramco skyscraper in Riyadh financial district attack",
+        "summary": [
+            "واشنگتن با ایجاد یک کارگروه نظامی جدید، تمرکز خود را روی قطع کردن مسیرهای قاچاق اسلحه و درآمدهای غیرقانونی مـ.ـقـ.ـامـ.ـات ایـ.ـران گذاشته است.",
+            "هدف اصلی این سناریو، فلج کردن کامل شریان‌های مالی و تدارکاتی حـ.ـکـ.ـومـ.ـت از طریق مرزهای زمینی است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و امنیتی دور حـ.ـکـ.ـومـ.ـت",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Courier Mail",
+        "url": "https://www.couriermail.com.au/news/world/middle-east/us-military-launches-new-task-force-targeting-iranian-land-borders-and-weapons-routes/news-story/3bfff1cbcac92ee11658633d24f8f0b1",
+        "clean_url": "https://www.couriermail.com.au/news/world/middle-east/us-military-launches-new-task-force-targeting-iranian-land-borders-and-weapons-routes/news-story/3bfff1cbcac92ee11658633d24f8f0b1",
+        "image": "https://content.api.news/v3/images/bin/4c1249492930a791905bc26c4db02cf9",
+        "timestamp": 1794171420.0
+    },
+    {
         "id": "89723d7224",
         "title_fa": "زنگ خطر هوش مصنوعی؛ لزوم کنترل انسان بر ابزارهای خودمختار",
         "title_en": "Controlling AI - Regulation is required now",
@@ -5495,24 +5513,5 @@
         "clean_url": "https://tass.com/world/2213025",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1793833680.0
-    },
-    {
-        "id": "08dd9b83ae",
-        "title_fa": "پیروزی دمکرات‌ها در کنگره و بازتعریف رقابت واشنگتن با پکن",
-        "title_en": "What the Democratic midterms sweep changes for U.S.-China relations",
-        "summary": [
-            "تسلط دمکرات‌ها بر مجلس و سنا فشار بر سیاست‌های تعرفه‌ای ترامپ را دوچندان کرده است.",
-            "با وجود تلاش ترامپ برای حفظ ثبات شکننده با پکن، رقابت سخت تکنولوژیک و تنش بر سر تایوان ادامه خواهد یافت.",
-            "تمرکز اصلی دمکرات‌ها لغو تعرفه‌های سنگینی است که به اقتصاد داخلی آمریکا فشار وارد کرده."
-        ],
-        "impact": "احتمال تعدیل سیاست‌های تجاری ترامپ و بازسازی روابط اقتصادی آمریکا و چین.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-        "clean_url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-        "image": "http://www.bing.com/th?id=ONUT.Fa4z--7Euykbo9UdCfA59w&pid=News",
-        "timestamp": 1793832840.0
     }
 ]
