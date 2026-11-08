@@ -91,6 +91,24 @@
         "timestamp": 1794147703.0
     },
     {
+        "id": "33ec9916e2",
+        "title_fa": "تحرکات مشکوک نفت‌کش‌های تحریمی روی خطوط کابل‌های زیردریایی عمان",
+        "title_en": "Trump signals openness to Iran deal amid renewed Hormuz tensions",
+        "summary": [
+            "کشتی‌های مرتبط با ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی در آب‌های عمان رفتارهای عجیبی مثل خاموش کردن سیستم ردیابی و چرخش دور کابل‌های اینترنتی داشتند.",
+            "شرکت‌های رصد دریایی این رفتارها را با سناریوی مین‌گذاری یا نقشه برداری از خطوط ارتباطی زیردریایی تطبیق داده‌اند."
+        ],
+        "impact": "افزایش ریسک امنیتی در آب‌های راهبردی خلیج فارس و آمادگی برای درگیری‌های احتمالی زیرساختی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611086475",
+        "clean_url": "https://www.iranintl.com/en/202611086475",
+        "image": "http://www.bing.com/th?id=ONUT.ysdx9axoV8g_cJqn3lgxGg&pid=News",
+        "timestamp": 1794147540.0
+    },
+    {
         "id": "a6d0f037ff",
         "title_fa": "کارگروه ویژه آمریکا برای قطع مسیر تسلیحات ا.ی.ر.ا.ن",
         "title_en": "US task force to cut off Iran’s transport of advanced weapons: What we know",
@@ -5494,24 +5512,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkNvc1BzM2tqSWp3d0c1S2VMUTBLVUcwU25qNjFkY3B3RDZhUHdxTTV3S3BhN1FMaUdFWHlINmN1QUo4RmFEOTVCWEZ0YnNIUnFvY2xlby1OMXlVTE1aVnNib0NXRHRqclRnWlpYeHF1cVdnSndSM3U1cUs4eUktX2p5d05XTnBmZUJ6dGVpNDVfdnMzZVBtYnYxbHVFaGR1ZVduNnJuWlhPajBVczJ5U2w5c0RtMnNPeU55SA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793834431.0
-    },
-    {
-        "id": "2d4d4ae62f",
-        "title_fa": "شانه خالی کردن حزب‌الله از حضور در یمن زیر فشار بیروت",
-        "title_en": "Hezbollah denies involvement in war in Yemen on Houthi side",
-        "summary": [
-            "تکذیب رسمی حضور مستشاران حزب‌الله در یمن، موضعی دفاعی برای کاهش فشارهای سنگین دیپلماتیک بر دولت بیروت است.",
-            "هشدارهای اخیر نخست‌وزیر لبنان نشان می‌دهد رفتارهای منطقه‌ای حزب‌الله، منافع ملی این کشور را به شدت به خطر انداخته است.",
-            "ادعای عدم دخالت در حالی مطرح می‌شود که اسناد میدانی سال‌ها از هم‌پوشانی و آموزش نیروهای حوثی توسط این گروه خبر می‌دهند."
-        ],
-        "impact": "تلاش برای فرار از مسئولیت حقوقی و سیاسی دخالت‌های منطقه‌ای بدون تغییر در واقعیت میدانی.",
-        "tag": "نیابتی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2213025",
-        "clean_url": "https://tass.com/world/2213025",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793833680.0
     }
 ]
