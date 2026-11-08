@@ -1,5 +1,23 @@
 [
     {
+        "id": "8b241b96e2",
+        "title_fa": "فشار نظامی؛ محرک اصلی تغییر دکترین اتمی ج.ا",
+        "title_en": "Nuclear deterrence: The US-Israeli military aggression against Iran made the unthinkable legitimate",
+        "summary": [
+            "حملات مکرر ائتلاف اسرائیل و آمریکا، تابوی ساخت سلاح اتمی را در محافل سیاسی داخلی از بین برده است.",
+            "شعارها در روز ۱۳ آبان نشان داد افکار عمومی و نهادهای حاکمیتی به سمت بازدارندگی اتمی متمایل شده‌اند."
+        ],
+        "impact": "افزایش ریسک امنیتی منطقه و نزدیک‌تر شدن تهران به سمت تسلیحات هسته‌ای تحت فشار حملات.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/11/08/780241/nuclear-deterrence-the-us-israeli-military-aggression-against-iran-made-the-unthinkable-legitimate",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/11/08/780241/nuclear-deterrence-the-us-israeli-military-aggression-against-iran-made-the-unthinkable-legitimate",
+        "image": "https://cdn.presstv.co.uk/Photo/2026/11/8/b263a53e-150b-4dfc-a1e9-75e979e20b4b.jpg",
+        "timestamp": 1794131040.0
+    },
+    {
         "id": "293c0cfeb7",
         "title_fa": "فشار مشاوران ترامپ برای تصمیم نهایی درباره حمله به ایران",
         "title_en": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
@@ -5486,23 +5504,5 @@
         "clean_url": "https://iranwire.com/en/news/159776-iran-rejects-us-negotiation-draft-expands-threats-to-europe",
         "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/مذاکره-بی-توافق_YmqZ__v1024x512__box_0,0,1488,782.jpeg",
         "timestamp": 1793785080.0
-    },
-    {
-        "id": "0b85251468",
-        "title_fa": "نگاه آسیا به دموکرات‌ها برای مهار سیاست‌های تـر‌امـپ",
-        "title_en": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs",
-        "summary": [
-            "کشورهای آسیایی به دنبال راهی برای کاهش تنش‌های منطقه‌ای و فشارهای اقتصادی ناشی از رویکردهای سخت‌گیرانه د‌ونـالـد تـر‌امـپ علیه ایـرا‌ن هستند.",
-            "بازارهای آسیایی از بازگشت دموکرات‌ها انتظار دارند تا شاید بار سنگین هزینه‌های جنگ و تعرفه‌های تجاری سبک‌تر شود."
-        ],
-        "impact": "تغییرات سیاسی در آمریکا مستقیماً روی بازار انرژی و اقتصاد کشورهای آسیایی اثر می‌گذارد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793784088.0
     }
 ]
