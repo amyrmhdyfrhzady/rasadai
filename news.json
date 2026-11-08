@@ -274,6 +274,24 @@
         "timestamp": 1794118872.0
     },
     {
+        "id": "c8402fce1d",
+        "title_fa": "بحران سیل و طوفان در ایران جان ۴ نفر را گرفت",
+        "title_en": "Floods and severe weather kill four, injure 11 across Iran",
+        "summary": [
+            "بارش‌های سیل‌آسا در چندین استان کشور راه ارتباطی نزدیک به ۲۰۰ روستا را قطع کرد.",
+            "عدم مدیریت بحران و فرسودگی زیرساخت‌ها بار دیگر هزینه جانی و مالی سنگینی به شهروندان تحمیل کرد."
+        ],
+        "impact": "اختلال گسترده در شبکه برق، آب و راه‌های مواصلاتی چندین استان جنوبی و غربی کشور.",
+        "tag": "حوادث",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611081460",
+        "clean_url": "https://www.iranintl.com/en/202611081460",
+        "image": "http://www.bing.com/th?id=ONUT.057GuUE33FPKLXES1cwYGQ&pid=News",
+        "timestamp": 1794118860.0
+    },
+    {
         "id": "95dc03473e",
         "title_fa": "جهش قیمت نفت با گمانه‌زنی‌ها درباره تنش‌های خاورمیانه",
         "title_en": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
@@ -5487,23 +5505,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/inside-vance-s-midterms-post-blaming-iran-war/ar-AA2gLy2z",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793802393.0
-    },
-    {
-        "id": "0d08f899f8",
-        "title_fa": "محدودیت‌های قدرت نظامی آمریکا در رویارویی با ج.ا",
-        "title_en": "Iran Is No Military Vacuum: Power, Deterrence And The Political Future Of The Middle East",
-        "summary": [
-            "فشار نظامی به تنهایی نمی‌تواند پیروزی سیاسی تضمین کند زیرا مقاومت و ناسیونالیسم مانع کارایی حداکثری زور می‌شود.",
-            "سیاست‌های فشار حداکثری با واکنش‌های متقابل مواجه شده و فرمول قدرت نظامی را در منطقه تغییر داده است."
-        ],
-        "impact": "هزینه بالای مداخلات نظامی واشنگتن را در برابر بازیگران منطقه‌ای افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Nigerian Voice",
-        "url": "https://www.thenigerianvoice.com/news/376112/iran-is-no-military-vacuum-power-deterrence-and-the-politi.html",
-        "clean_url": "https://www.thenigerianvoice.com/news/376112/iran-is-no-military-vacuum-power-deterrence-and-the-politi.html",
-        "image": "https://cdn.thenigerianvoice.com/images/content/114202632516_193711.jpg",
-        "timestamp": 1793802360.0
     }
 ]
