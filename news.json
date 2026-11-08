@@ -111,6 +111,25 @@
         "timestamp": 1794095941.0
     },
     {
+        "id": "56d67593aa",
+        "title_fa": "شکست جمهوری‌خواهان و بن‌بست ترامپ در پرونده ایران",
+        "title_en": "The Middle East will pay the price for Trump's defeat",
+        "summary": [
+            "از دست رفتن کنترل کنگره آمریکا توسط حزب جمهوری‌خواه، دست دونالد ترامپ را در مدیریت چالش با تهران بسته است.",
+            "کاخ سفید اکنون بین سه گزینه دشوار یعنی حملات نظامی جدید، توافق شکننده یا حفظ وضعیت موجود گیر افتاده است.",
+            "پیامد این شکست سیاسی، عمیق‌تر شدن بحران در خاورمیانه و دورتر شدن چشم‌انداز ثبات در بازارهای انرژی است."
+        ],
+        "impact": "تضعیف موقعیت سیاسی رئیس‌جمهور آمریکا، مسیر تصمیم‌گیری درباره جنگ یا توافق با ایران را پیچیده‌تر می‌کند.",
+        "tag": "آمریکا",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Vijesti",
+        "url": "https://en.vijesti.me/world-a/globus/835280/bliski-istok-ce-platiti-cijenu-trampovog-poraza",
+        "clean_url": "https://en.vijesti.me/world-a/globus/835280/bliski-istok-ce-platiti-cijenu-trampovog-poraza",
+        "image": "https://www.vijesti.me/data/images/2026/11/07/17/5772739_2026-11-03t111444z-1296908663-rc29goa2vc0d-rtrmadp-3-iran-crisis_share.jpg",
+        "timestamp": 1794095940.0
+    },
+    {
         "id": "f6fa8d6d3e",
         "title_fa": "تغییر رده‌بندی تیم‌های برتر فوتبال دانشگاهی آمریکا در هفته دهم",
         "title_en": "B/R's 2026 college football experts top 25 rankings after week 10",
@@ -5482,23 +5501,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmRlRkdHWW14dy1Bc2NQR21zZE1Ec1VwTWRDLUZibWFUcTNDdEhtSGt4bjNsakF3VG04VGhETUpEVUIzbGY4SDlWa2Rpelo4Z09UNHQ5YmN5UTZ6dG9tcld4OFpFcmN2S2NOeWE3UFV4U29aWkd6enNrZC1kQnNrNzRmNWpNdGcwYWZ0UHZueEtYWGFsb0JyblR2YXd1OGxuRHhRNmNScw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793781838.0
-    },
-    {
-        "id": "03e8bdc741",
-        "title_fa": "شکاف در کاخ سفید؛ ونس جنگ با ایران را زیر سوال برد",
-        "title_en": "Vance repudiates Iran war after US electoral defeat",
-        "summary": [
-            "معاون رئیس‌جمهور آمریکا به‌طور رسمی از سیاست‌های نظامی ترامپ علیه ج.ا فاصله گرفت.",
-            "این مقام ارشد آمریکایی، هزینه‌های سنگین جنگ را عامل اصلی شکست جمهوری‌خواهان در انتخابات اخیر معرفی کرد."
-        ],
-        "impact": "تردیدهای داخلی در واشنگتن می‌تواند به کاهش فشارهای نظامی و تغییر در معادلات راهبردی آمریکا منجر شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Miami Herald",
-        "url": "https://www.miamiherald.com/news/nation-world/national/article317927296.html",
-        "clean_url": "https://www.miamiherald.com/news/nation-world/national/article317927296.html",
-        "image": "http://www.bing.com/th?id=ONUT.Mv6SCYG-EYck_wnfqw3jhA&pid=News",
-        "timestamp": 1793780880.0
     }
 ]
