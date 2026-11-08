@@ -1,5 +1,23 @@
 [
     {
+        "id": "46cb167055",
+        "title_fa": "خطای سیستماتیک در دسترسی به اخبار منطقه ای",
+        "title_en": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
+        "summary": [
+            "منبع خبری ژاپن تودی با خطای فنی و سرور مواجه شده است.",
+            "اطلاعات دقیقی درباره تحولات بین ریاض و سوریه قابل برداشت نیست."
+        ],
+        "impact": "این خبر به دلیل نقص فنی قابل استناد نیست.",
+        "tag": "فنی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates",
+        "clean_url": "https://japantoday.com/category/world/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates",
+        "image": "https://www.bing.com/th?id=ONUT.X7l8XoFyJZMcY5uKTuDoqw",
+        "timestamp": 1794176464.2749283
+    },
+    {
         "id": "89723d7224",
         "title_fa": "زنگ خطر هوش مصنوعی؛ لزوم کنترل انسان بر ابزارهای خودمختار",
         "title_en": "Controlling AI - Regulation is required now",
@@ -5495,23 +5513,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFhVZHNTeWdLMHliWERtUVhQS0RBeVNKVHRMRkk2c0g3b00yNldobmdJMGttdF90SXFHLUNqcGRQd3Fpcm15OEdXQ2wxMlpHcGZNN25LU0Roc2o1UTlSMlFIcHdPZktaQTAxLUloWk5yZ3RmeElQektBLS1xS2VLM3FBTkhncHdLbzI0a2lwYTllZXRvVnJ0Nnlkdl9GQkNLUUpHWmRsY095OUhGQVlQR2l30gG3AUFVX3lxTE0zSU8tRW9yZXVCWWJudnBKZWV1TlRnaXVJaFVOcUNOdklEcFV4RVhwdC1ieWNmVVRvekUwaXBDRnBaTlN0Y3hGTnlCSzVIU1lzbGVBczc2M0JrRzNmZnBBZ0d4aTlqbGhZMVctOWd0UEFIOW9xRDVDa09KWFZPWDdPblR1NC12cGNiOXZuODc3UnVhbW93amRPbTV2ZU1yUllLSGJ2alYxNUowR2o5T25LZVhMV1lBSQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793827986.0
-    },
-    {
-        "id": "2cd71eaa14",
-        "title_fa": "تاوان تورم؛ شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای",
-        "title_en": "Inflation, tariffs and a voter revolt: The midterm verdict on Trump's economy",
-        "summary": [
-            "رشد هزینه‌های زندگی و تورم، موجی از نارضایتی عمومی علیه سیاست‌های اقتصادی ترامپ ایجاد کرد.",
-            "رأی‌دهندگان آمریکایی با شکست دادن جمهوری‌خواهان در کرسی‌های کلیدی، اولویت مستقیم خود را سفره و اقتصاد اعلام کردند."
-        ],
-        "impact": "تضعیف شدید اهرم‌های قدرت ترامپ در دستکاری سیاست‌های اقتصادی و مالیاتی.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/inflation-tariffs-and-a-voter-revolt-the-midterm-verdict-on-trump-s-economy/ar-AA2gMNSX",
-        "clean_url": "https://www.msn.com/en-us/news/other/inflation-tariffs-and-a-voter-revolt-the-midterm-verdict-on-trump-s-economy/ar-AA2gMNSX",
-        "image": "http://www.bing.com/th?id=ONUT.RDiDJOzlunho7SGxWpyS3Q&pid=News",
-        "timestamp": 1793826279.0
     }
 ]
