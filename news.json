@@ -1,5 +1,24 @@
 [
     {
+        "id": "89723d7224",
+        "title_fa": "زنگ خطر هوش مصنوعی؛ لزوم کنترل انسان بر ابزارهای خودمختار",
+        "title_en": "Controlling AI - Regulation is required now",
+        "summary": [
+            "سیستم‌های پیشرفته هوش مصنوعی به سمت خودبهبودی بازگشتی حرکت می‌کنند و پژوهشگران خواستار قوانین الزام‌آور ملی و بین‌المللی هستند.",
+            "کارشناسان هشدار می‌دهند هوش مصنوعی برای آسیب زدن نیازی به خشم یا احساس ندارد، بلکه تنها به هدف و ابزار اجرا نیازمند است.",
+            "اصل کلیدی آینده این است: هیچ استقلال عملی بدون پاسخگویی به انسان نباید وجود داشته باشد."
+        ],
+        "impact": "افزایش فشارهای جهانی برای قانون‌گذاری سخت‌گیرانه روی فناوری هوش مصنوعی و محدود کردن عاملیت آن",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Pearls and Irritations",
+        "url": "https://johnmenadue.com/post/2026/11/misaligned-ai-part-two-regulation-is-required-now/",
+        "clean_url": "https://johnmenadue.com/post/2026/11/misaligned-ai-part-two-regulation-is-required-now",
+        "image": "https://www.bing.com/th?id=ONUT.uHfSETy6XGBcYrYrE_pqoQ",
+        "timestamp": 1794162065.1345284
+    },
+    {
         "id": "dcc0a516ed",
         "title_fa": "کاهش تنش لفظی؛ تهران انفجارها را به آمریکا ربط نداد",
         "title_en": "Iran suggests blasts are not US attacks as both sides report ships hit",
@@ -106,6 +125,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ255d3Ayb1lvOEt4bWlQMmszY3dpUjdVWEZxbGo1clRNTGxXNnlPbmhkdXdNYWZ3SGNTLTJPZ3FoSng3RFRkblc5WElhakUwZ251b0l4eEFTT2E2b2VyUjJfN2tMaUlieUNRc2ktd3lzeTR4R2JGODZ1YzU2dWZqNG54ejc0R3c0VGxvS3B2RXRGT1RJZTBoZVZjMW4",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794143700.0
+    },
+    {
+        "id": "7dcf2b7235",
+        "title_fa": "ضربه خزانه‌داری آمریکا به کانال‌های مالی کریپتویی ج.ا",
+        "title_en": "OFAC's Canadian MSB crackdown raises the cost of running non-bank crypto-fiat corridors",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا هشت صرافی کانادایی را به دلیل تبدیل ریال ایران به ارز دیجیتال برای دور زدن تحریم‌ها مسدود کرد.",
+            "این اقدام تحت عملیات موسوم به طرد اقتصادی انجام شده و دسترسی این صرافی‌ها به دلار آمریکا قطع شد.",
+            "هزینه‌های تطبیق و نظارت بر صرافی‌های غیربانکی کریپتو به شدت بالا رفته و فعالیت صرافی‌های کوچک را زمین‌گیر کرده است."
+        ],
+        "impact": "مسدود شدن یکی از اصلی‌ترین معبرهای تبدیل ریال به ارز دیجیتال برای دور زدن تحریم‌های مالی",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ainvest",
+        "url": "https://www.ainvest.com/news/ofac-canadian-msb-crackdown-raises-cost-running-bank-crypto-fiat-corridors-2611/",
+        "clean_url": "https://www.ainvest.com/news/ofac-canadian-msb-crackdown-raises-cost-running-bank-crypto-fiat-corridors-2611",
+        "image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1794143138850.jpg.png",
+        "timestamp": 1794143460.0
     },
     {
         "id": "0e0abf187c",
@@ -5470,42 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793815450.0
-    },
-    {
-        "id": "84e2371b7b",
-        "title_fa": "تغییر بازی تهران: حرکت به سمت سلاح هسته‌ای",
-        "title_en": "Iran is slowly crossing a red line that seems unthinkable: Tehran looks more and more likely to want nuclear weapons",
-        "summary": [
-            "رادیکال شدن مقامات و روحانیون ایران در حمایت از دستیابی به بمب اتم، خط قرمزهای قبلی را جابه‌جا کرده است.",
-            "از دست رفتن کنترل آژانس بین‌المللی بر ذخایر اورانیوم غنی‌شده، نشان از فراتر رفتن از توافقات قبلی دارد."
-        ],
-        "impact": "افزایش احتمال درگیری نظامی یا تحریم‌های بی‌سابقه برای جلوگیری از دستیابی هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "National Security Journal",
-        "url": "https://www.msn.com/en-us/news/other/iran-is-slowly-crossing-a-red-line-that-seems-unthinkable-tehran-looks-more-and-more-likely-to-want-nuclear-weapons/ar-AA2gLgGV",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-slowly-crossing-a-red-line-that-seems-unthinkable-tehran-looks-more-and-more-likely-to-want-nuclear-weapons/ar-AA2gLgGV",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1StRI0.img?w=1280&h=853&m=4&q=88",
-        "timestamp": 1793811555.0
-    },
-    {
-        "id": "a54e23ed4f",
-        "title_fa": "پیامدهای ناکامی انتخاباتی ترامپ برای تهران، تل‌آویو و کی‌یف",
-        "title_en": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
-        "summary": [
-            "شکست تدریجی جایگاه ترامپ در انتخابات میان‌دوره‌ای، معادله قدرت در واشنگتن را تغییر می‌دهد.",
-            "این تحولات داخلی آمریکا مستقیماً روی سیاست‌های فشار حداکثری و رویکرد کاخ سفید در قبال پرونده اتمی ایـران سایه می‌اندازد.",
-            "اسرائیل و اوکراین نیز باید محاسبات خود را بر اساس تغییر توازن قوا در کنگره تنظیم کنند."
-        ],
-        "impact": "تضعیف احتمالی بازوی اجرایی ترامپ، دست‌اندازهای جدیدی در سیاست خارجی آمریکا ایجاد می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkhNYXpkN053MkZibUlkdlYxR2lhdjN6V3Ruc2pBNnFCU1VMY2YzWlBpaXBtM0wzR19vZEF4bnRJNElPdnpuS0RNR2NfNEhfc3dPN2xpNC1vMjQyVlJKTjFvMnRBSmxGU1RFWTEwcnl0Z29xTEkzMzFHZHo5SXlCTkxTMHdkUXFBamxmSnZ3djhvbUhoSF96bUV6MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkhNYXpkN053MkZibUlkdlYxR2lhdjN6V3Ruc2pBNnFCU1VMY2YzWlBpaXBtM0wzR19vZEF4bnRJNElPdnpuS0RNR2NfNEhfc3dPN2xpNC1vMjQyVlJKTjFvMnRBSmxGU1RFWTEwcnl0Z29xTEkzMzFHZHo5SXlCTkxTMHdkUXFBamxmSnZ3djhvbUhoSF96bUV6MA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793810239.0
     }
 ]
