@@ -661,6 +661,24 @@
         "timestamp": 1794230280.0
     },
     {
+        "id": "a2001e9dff",
+        "title_fa": "بن‌بست در دیدار ترامپ و نخست‌وزیر قطر درباره ایران",
+        "title_en": "Trump meeting with Qatar prime minister ends without Iran peace deal",
+        "summary": [
+            "دیدار پشت درهای بسته دونالد ترامپ و نخست‌وزیر قطر بدون هیچ توافقی برای پایان دادن به درگیری‌ها با جـمـهـوری اسـلامـی به پایان رسید.",
+            "فشارها بر بیت رهبری جـمـهـوری اسـلامـی همچنان ادامه دارد و میانجی‌گری‌ها تاکنون نتیجه‌ای نداشته است."
+        ],
+        "impact": "ادامه روند تنش و بسته ماندن پنجره دیپلماسی در برابر تهران",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-meeting-with-qatar-prime-minister-ends-without-iran-peace-deal/ar-AA2h5KwM",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-meeting-with-qatar-prime-minister-ends-without-iran-peace-deal/ar-AA2h5KwM",
+        "image": "http://www.bing.com/th?id=ONUT.Fi08yslBXUbLDZtvWNwUlg&pid=News",
+        "timestamp": 1794229535.0
+    },
+    {
         "id": "9636009d95",
         "title_fa": "کلید خوردن طرح استیضاح وزیر دفاع آمریکا بر سر جنگ با ایران",
         "title_en": "Hegseth impeachment effort begins in House, focused on Iran war",
@@ -5482,23 +5500,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yRU1vSjFXQl9PWEU0WGRxWkxJUHdjbi1NX1dkV0dxbUNHbjhCT0didkJNbGVCZG1lXzNicE9EMmx3WGNzVGdGdUQ5MmpQN0VYeVBuaER3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793935507.0
-    },
-    {
-        "id": "015a9d1cfc",
-        "title_fa": "اعتراف مقامات ج.ا به دخالت در انتخابات آمریکا",
-        "title_en": "Iran’s IRGC Told Americans to Vote Out Trump’s Party; Now Regime Officials Are Taking Credit",
-        "summary": [
-            "مقام های ارشد س پ ا ه و دولت ج.ا به طور آشکار پیروزی دموکرات ها در انتخابات کنگره را به عنوان پیروزی خود جشن گرفتند.",
-            "محمد مخبر، مشاور مجتبی خامنه ای، اعتراف کرد که هدف تهران انتقال هزینه های جنگ به داخل خاک آمریکا بوده است."
-        ],
-        "impact": "این اظهارات سند آشکاری از دخالت مستقیم نهادهای نظامی ج.ا در روند سیاسی ایالات متحده است.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Gateway Pundit",
-        "url": "https://www.thegatewaypundit.com/2026/11/irans-irgc-told-americans-vote-trumps-party-now/",
-        "clean_url": "https://www.thegatewaypundit.com/2026/11/irans-irgc-told-americans-vote-trumps-party-now",
-        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/11/trump-lose-midetrm-iran-1200x630.png",
-        "timestamp": 1793935200.0
     }
 ]
