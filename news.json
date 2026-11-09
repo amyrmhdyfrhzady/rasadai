@@ -110,6 +110,25 @@
         "timestamp": 1794160552.0
     },
     {
+        "id": "c0e0fcd8e7",
+        "title_fa": "گزینه‌های دشوار ترامپ برای تعیین تکلیف بحران ایران",
+        "title_en": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+        "summary": [
+            "تیم ترامپ میان ادامه فشار همه‌جانبه و یافتن راهی برای خروج از درگیری پرهزینه گیر افتاده است؛ هیچ مسیر کم‌خطری روی میز نیست.",
+            "فشار افکار عمومی در آمریکا تمایل به ورود به یک جنگ بی‌پایان دیگر را سوزانده، اما عقب‌نشینی بدون توافق محکم هم برای کاخ سفید شکستی سنگین به حساب می‌آید.",
+            "گزینه‌ها از تشدید بی‌سابقه تحریم‌های نفتی و بانکی تا ضربات نقطه‌ای متغیر است، ولی ریسک واکنش منطقه‌ای محاسبات واشینگتن را پیچیده کرده است."
+        ],
+        "impact": "بلاتکلیفی در استراتژی کاخ سفید، ضریب خطای محاسباتی طرفین را در ماه‌های آینده به اوج می‌رساند.",
+        "tag": "سیاست_خارجی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
+        "clean_url": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
+        "image": "http://www.bing.com/th?id=ONUT.ACJV9ynwQrI-k1tBXC4yuw&pid=News",
+        "timestamp": 1794152940.0
+    },
+    {
         "id": "43c08b8c30",
         "title_fa": "دفاع مارکو روبیو از اقدام سخت ترامپ علیه تـــــهـــــران",
         "title_en": "Marco Rubio defends Trump's Iran action",
@@ -5493,24 +5512,5 @@
         "clean_url": "https://voz.us/en/politics/261105/1000338/iran-and-the-elections-national-security-should-not-be-measured-in-terms-of-seats.html",
         "image": "https://voz.us/fotos-seo/27283/16x9.jpg?v=93781-1200-675-50-50-crawl-35798.jpeg",
         "timestamp": 1793838060.0
-    },
-    {
-        "id": "9650f72028",
-        "title_fa": "آتش‌سوزی در نفت‌کش‌ها و تنش نظامی در تنگه هرمز",
-        "title_en": "Iran war live: 3 tankers on fire in Hormuz; Saudi intercepts Houthi missile",
-        "summary": [
-            "سپاه با ادعای عبور غیرمجاز، سه نفت‌کش را در تنگه هرمز هدف قرار داده است.",
-            "جنگ الکترونیک سپاه مدعی شکار دو پهپاد آمریکایی شده که نشان‌دهنده افزایش سطح درگیری‌های تکنولوژیک است.",
-            "رهگیری موشک حوثی‌ها به سمت مدینه توسط ائتلاف سعودی، جبهه جدیدی از ناامنی در منطقه را باز کرده است."
-        ],
-        "impact": "بسته شدن احتمالی تنگه هرمز و جهش ناگهانی قیمت جهانی نفت در بازارهای انرژی.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2150291418-1788723103.jpg?resize=1920%2C1440",
-        "timestamp": 1793836740.0
     }
 ]
