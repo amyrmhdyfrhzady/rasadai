@@ -1,5 +1,24 @@
 [
     {
+        "id": "dd637480bc",
+        "title_fa": "افشای شبکه زندان‌های مخفی اوکراین برای اسرای روس",
+        "title_en": "Ukraine sets up network of underground prisons for Russian POWs — diplomat",
+        "summary": [
+            "مقام ارشد روسیه در سازمان ملل از وجود بازداشتگاه‌های زیرزمینی و مخفی در مناطق مختلف اوکراین خبر داد.",
+            "اسرای جنگی روس در این مراکز بدون ثبت رسمی و با محرومیت از آب، غذا و خدمات پزشکی نگهداری می‌شوند.",
+            "گزارش‌ها حاکی از شکنجه‌های وحشیانه، ضرب و شتم و خشونت علیه نظامیان اسیر در این زندان‌های مخفی است."
+        ],
+        "impact": "افزایش تنش‌های حقوق بشری و تشدید جنگ روانی مسکو علیه کی‌یف در مجامع بین‌المللی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2215025",
+        "clean_url": "https://tass.com/politics/2215025",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1794246720.0
+    },
+    {
         "id": "b8bd96cead",
         "title_fa": "نامه سرگشاده به ترامپ برای مهار اتمی ج.ا",
         "title_en": "Open letter to Donald Trump: Prevent Iran from acquiring nuclear weapons",
@@ -5481,23 +5500,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793908108.0
-    },
-    {
-        "id": "4e96835d46",
-        "title_fa": "عقب‌نشینی قیمت نفت با چشم‌انداز دیپلماسی در خاورمیانه",
-        "title_en": "Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy",
-        "summary": [
-            "بازار جهانی نفت با امیدواری به پادرمیانی‌های دیپلماتیک و کاهش تنش‌های خاورمیانه، روند نزولی به خود گرفت.",
-            "معامله‌گران نفت فعلاً ریسک‌های نظامی را کمتر جدی می‌گیرند و چشم به اخبار مذاکرات دوخته‌اند."
-        ],
-        "impact": "کاهش موقت قیمت نفت در بازارهای جهانی به دلیل فروکش کردن نسبی ترس از درگیری فراگیر.",
-        "tag": "بازار انرژی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793906181.0
     }
 ]
