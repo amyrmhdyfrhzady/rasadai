@@ -383,6 +383,25 @@
         "timestamp": 1794208564.1924522
     },
     {
+        "id": "ccde7bc37c",
+        "title_fa": "سیگنال تنش‌زدایی ترامپ و چراغ سبز تهران به مذاکره",
+        "title_en": "US-Iran war LIVE: Lebanon seeks halt to Israeli strikes, Tehran claims attacks on 11 tankers in 10 days",
+        "summary": [
+            "مسعود پزشکیان اعلام کرد که دستورالعمل‌هایی برای پایان دادن به وضعیت نه جنگ و نه صلح با آمریکا صادر شده است.",
+            "ترامپ از تمایل خود برای توافق دیپلماتیک خبر داد و احتمال حملات تازه به خاک ايران را کم دانست.",
+            "مقام‌های ارشد ایران هم‌زمان بر آمادگی برای گفتگو تأکید کرده اما گفتند تسلیم زور نخواهند شد."
+        ],
+        "impact": "کاهش محدود قیمت نفت و فروکش کردن نسبی تب تهدیدهای نظامی در بازارها",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-trump-midterms-loss-tehran-peace-talks-qatar-mediator-strikes-hegseth-israel-netanyahu-news-101794189143678.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-trump-midterms-loss-tehran-peace-talks-qatar-mediator-strikes-hegseth-israel-netanyahu-news-101794189143678.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/usiran_1794236937491_n13y_1794236937924_cF1b_e7de7127-6285-41b9-b28a-6dd528277cfd_NQ3S.jpg",
+        "timestamp": 1794207840.0
+    },
+    {
         "id": "a1c2da0b13",
         "title_fa": "امارات: توافق تهران و واشنگتن به این زودی‌ها ممکن نیست",
         "title_en": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult",
@@ -5482,24 +5501,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/putin-meets-iranian-security-council-chief-rezaei-in-moscow",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AFP__20261105__D6JQ2WE__v1__HighRes__RussiaIranPoliticsDiplomacy.jpg",
         "timestamp": 1793892840.0
-    },
-    {
-        "id": "e513072d28",
-        "title_fa": "موج دوم تهدیدهای دروغین بمب‌گذاری در پروازهای اروپایی",
-        "title_en": "At least 27 flights across Europe now affected by hoax bomb threats",
-        "summary": [
-            "حداقل ۲۷ پرواز در سراسر اروپا هدف هشدارهای دروغین بمب‌گذاری قرار گرفتند.",
-            "جنگنده‌های ارتش برای اسکورت و رهگیری هواپیماهای مسافربری به پرواز درآمدند.",
-            "این دومین موج از تهدیدهای امنیتی مشابه در هفته جاری است."
-        ],
-        "impact": "اختلال گسترده در صنعت هوانوردی اروپا و افزایش شدید آماده‌باش امنیتی فرودگاه‌ها.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/at-least-27-flights-across-europe-now-affected-by-hoax-bomb-threats/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/at-least-27-flights-across-europe-now-affected-by-hoax-bomb-threats",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26309440633386.jpg",
-        "timestamp": 1793892780.0
     }
 ]
