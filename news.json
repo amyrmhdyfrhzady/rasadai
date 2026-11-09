@@ -1,5 +1,23 @@
 [
     {
+        "id": "49a9a61aed",
+        "title_fa": "آماده‌سازی افکار عمومی برای جنگ جدید",
+        "title_en": "Iranian newspaper says US, Israel have decided to start another war",
+        "summary": [
+            "رسانه‌های حکومتی در ایران شروع به انتشار خبرهای نگران‌کننده درباره تصمیم آمریکا و اسرائیل برای شروع یک جنگ تازه کرده‌اند.",
+            "این فضاسازی‌ها معمولاً برای توجیه بحران‌های داخلی و بالاتر بردن هزینه‌های امنیتی در داخل کشور استفاده می‌شود."
+        ],
+        "impact": "افزایش ترس و ناامنی روانی در جامعه و بازار.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ldzVjLTJoaFRLZkFxajZoMm55eHVKb0xCTVBnY01ORG9wZFJVcW8tRWF0MG1fYmU5Z2ItQ0F6eFo5dDFUdGlMa2ZmcGhYYUIzMWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ldzVjLTJoaFRLZkFxajZoMm55eHVKb0xCTVBnY01ORG9wZFJVcW8tRWF0MG1fYmU5Z2ItQ0F6eFo5dDFUdGlMa2ZmcGhYYUIzMWc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794231187.0
+    },
+    {
         "id": "a8531cbda4",
         "title_fa": "پزشکیان: دستور پایان وضعیت نه جنگ و نه صلح صادر شد",
         "title_en": "Iran signals readiness for talks but demands US lift restrictions",
@@ -5482,23 +5500,5 @@
         "clean_url": "https://www.algemeiner.com/2026/11/05/new-iran-protests-retirees-teachers-take-streets-inflation-unpaid-benefits",
         "image": "https://www.algemeiner.com/wp-content/uploads/2026/09/2026-09-28T152129Z_3_LYNXMPEM8R13J_RTROPTP_4_IRAN-CRISIS-UN-TALKS-1.jpg",
         "timestamp": 1793888400.0
-    },
-    {
-        "id": "8b9964db29",
-        "title_fa": "تحریم‌های جدید آمریکا علیه شبکه پدافندی ج.ا",
-        "title_en": "US sanctions three over Iran air defenses amid reports of Russian arms deal",
-        "summary": [
-            "واشنگتن سه فرد مرتبط با سیستم‌های پدافند هوایی ج.ا را به دلیل همکاری‌های نظامی با روسیه هدف قرار داد.",
-            "این اقدام نشان‌دهنده حساسیت بالای غرب نسبت به تبادل تسلیحاتی میان تهران و مسکو است."
-        ],
-        "impact": "محدود شدن توان لجستیکی و فنی ج.ا در تقویت شبکه پدافندی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41T2ZSWk9NNml4T3M0cVVZYUdmYUtlZDlzcFhTS3lfSEVPeVkzY1loMllqZUFYTF85bExUR0x2bHpYSDh5NXpqOFBQUk5lUGxMbU9tSV9Rc05zQ1dGajZxczVZLWwwa1dCelE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41T2ZSWk9NNml4T3M0cVVZYUdmYUtlZDlzcFhTS3lfSEVPeVkzY1loMllqZUFYTF85bExUR0x2bHpYSDh5NXpqOFBQUk5lUGxMbU9tSV9Rc05zQ1dGajZxczVZLWwwa1dCelE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793888135.0
     }
 ]
