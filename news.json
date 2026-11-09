@@ -1,5 +1,24 @@
 [
     {
+        "id": "177fe69c36",
+        "title_fa": "روبیو: اقدام نظامی ترامپ علیه ایران برای مهار تهدید هسته‌ای بود",
+        "title_en": "Rubio says Trump's war against Iran not necessarily popular but needed to stop a nuclear threat",
+        "summary": [
+            "مارکو روبیو وزیر خارجه آمریکا تصریح کرد حمله نظامی ترامپ علیه ایران، حتی بدون محبوبیت عمومی، برای مهار خطرات هسته‌ای کاملاً ضروری بوده است.",
+            "تیم ترامپ با پذیرش هزینه‌های سیاسی درگیری، پیام صریحی مبنی بر عبور از خط قرمز هسته‌ای به طرف مقابل فرستاد.",
+            "این سخنان تایید می‌کند که واشنگتن دکترین درگیری مستقیم را جایگزین صرفِ ابزارهای دیپلماتیک یا فشار اقتصادی کرده است."
+        ],
+        "impact": "تثبیت دکترین درگیری پیش‌دستانه واشنگتن و افزایش بی‌سابقه احتمال رویارویی‌های مستقیم نظامی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Associated Press News",
+        "url": "https://www.msn.com/en-us/news/other/rubio-says-trump-s-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/ar-AA2h1FV9",
+        "clean_url": "https://www.msn.com/en-us/news/other/rubio-says-trump-s-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/ar-AA2h1FV9",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h16xn.img?w=1024&h=682&m=4&q=94",
+        "timestamp": 1794182793.0
+    },
+    {
         "id": "46cb167055",
         "title_fa": "خطای سیستماتیک در دسترسی به اخبار منطقه ای",
         "title_en": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2150291418-1788723103.jpg?resize=1920%2C1440",
         "timestamp": 1793836740.0
-    },
-    {
-        "id": "19804be625",
-        "title_fa": "اعتراف مقام ارشد آمریکا به هزینه سنگین جنگ با ای-ران",
-        "title_en": "Vance blames Iran war for election losses as Trump weighs next move against Tehran",
-        "summary": [
-            "معاون رئیس‌جمهور آمریکا جنگ با ای-ران را عامل اصلی شکست سنگین حزب متبوعش در انتخابات میان‌دوره و از دست رفتن کنگره دانست.",
-            "ترامپ ضمن تایید تلویحی این ارزیابی، جهش قیمت بنزین را پیامد این درگیری خواند اما از تصمیم خود برای حمله دفاع کرد."
-        ],
-        "impact": "هزینه‌های گزاف درگیری با تهران اکنون به یک شکاف سیاسی داخلی در واشنگتن تبدیل شده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611059696",
-        "clean_url": "https://www.iranintl.com/en/202611059696",
-        "image": "http://www.bing.com/th?id=ONUT._sNfx4QN9NBey5RHQhywhg&pid=News",
-        "timestamp": 1793836680.0
     }
 ]
