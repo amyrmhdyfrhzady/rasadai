@@ -73,6 +73,24 @@
         "timestamp": 1794214672.0
     },
     {
+        "id": "90949dc4eb",
+        "title_fa": "طرح توافق مالی هشت میلیارد دلاری روی میز دونالد ترامپ",
+        "title_en": "$8 billion lifeline? Iranian deal set to land on Trump's desk",
+        "summary": [
+            "یک معامله مالی کلان هشت میلیارد دلاری مربوط به ایران آماده بررسی و تصمیم‌گیری روی میز رئیس‌جمهور آمریکا قرار گرفته است.",
+            "این طرح می‌تواند رویکرد اقتصادی دولت آمریکا در قبال تهران و پایداری تحریم‌ها را تحت تاثیر جدی قرار دهد."
+        ],
+        "impact": "احتمال ایجاد تغییرات مهم در مسیر جریان‌های مالی و فشارهای اقتصادی بر حکومت.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "www.israelhayom.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ZqOC1idGFhTHE5eFJsREtDa3Q3MWhfQlFOYzFWcGYyelBCN0lWQVFsUl9HenFJempWQ1lQSy1yTEFtMTM4ckhqT0JjQmhyWWhBenRBZ2o5Q0Q5b0h6N1Bzd0tVeElNUXNDZml3NFlPaWFzZENWRkE1UnFkc3lSajE0WlVwSjZqU2VFOWZnMmxhNzg2bllJeURncFdLa00?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ZqOC1idGFhTHE5eFJsREtDa3Q3MWhfQlFOYzFWcGYyelBCN0lWQVFsUl9HenFJempWQ1lQSy1yTEFtMTM4ckhqT0JjQmhyWWhBenRBZ2o5Q0Q5b0h6N1Bzd0tVeElNUXNDZml3NFlPaWFzZENWRkE1UnFkc3lSajE0WlVwSjZqU2VFOWZnMmxhNzg2bllJeURncFdLa00",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794213536.0
+    },
+    {
         "id": "cca5e14f40",
         "title_fa": "موضع امارات: بازدارندگی نظامی و دیپلماسی مکمل یکدیگرند",
         "title_en": "Middle East latest: 'We need both': No choice between deterrence and diplomacy, says Dr Gargash",
@@ -288,6 +306,24 @@
         "clean_url": "https://www.hindustantimes.com/world-news/what-will-a-lame-duck-donald-trump-get-up-to-overseas-101794192030714.html",
         "image": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/USA-TRUMP--33_1794192159306_JpjQ_1794192172598_0hC5_1b77f82d-1309-4cee-93fb-3544859cd547_H0jd.JPG",
         "timestamp": 1794192180.0
+    },
+    {
+        "id": "0497ae57d0",
+        "title_fa": "توقف تولید در میدان گازی خور مور عراق پس از حمله پهپادی",
+        "title_en": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
+        "summary": [
+            "حمله پهپادی ناشناس به میدان گازی کلیدی خور مور در اقلیم کردستان عراق باعث توقف کامل روند تولید شد.",
+            "این تاسیسات انرژی بار دیگر هدف قرار گرفته که نشان‌دهنده آسیب‌پذیری زیرساخت‌های حیاتی انرژی در برابر حملات پهپادی است."
+        ],
+        "impact": "اختلال جدی در تامین گاز و برق منطقه و افزایش ناامنی در زیرساخت‌های انرژی عراق.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/11/09/production-suspended-at-iraq-s-khor-mor-gas-field-after-drone-attack-sources-say",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/09/production-suspended-at-iraq-s-khor-mor-gas-field-after-drone-attack-sources-say",
+        "image": "https://vid.alarabiya.net/images/2025/11/30/07d455aa-0be8-4caf-8291-32619cef19d6/07d455aa-0be8-4caf-8291-32619cef19d6_16x9_1200x676.JPG?width=555",
+        "timestamp": 1794190800.0
     },
     {
         "id": "e5e91c95c9",
@@ -5466,42 +5502,5 @@
         "clean_url": "https://www.newyorker.com/news/global-notes/regime-change-came-in-texas-before-tehran",
         "image": "https://media.newyorker.com/photos/6aeb9c038c2fdd9a2a08dae7/master/w_2560,c_limit/Tharoor-Iran-War.jpg",
         "timestamp": 1793876400.0
-    },
-    {
-        "id": "c632b8da75",
-        "title_fa": "شایعه حمله اتمی؛ جنگ روانی یا واقعیت پشت پرده؟",
-        "title_en": "Inspecting claim Trump admin is planning nuclear strike on Iran in wake of midterms",
-        "summary": [
-            "ادعای تاکر کارلسون درباره طرح حمله اتمی ترامپ به ج.ا، فاقد تاییدیه رسمی و در حد گمانه‌زنی رسانه‌ای است.",
-            "فشار نتانیاهو برای درگیر کردن آمریکا در یک تقابل اتمی، بخشی از بازی پیچیده لابی‌های جنگ‌طلب است.",
-            "کاخ سفید با رد دسترسی کارلسون به برنامه‌های نظامی، سعی در مدیریت فضای ملتهب رسانه‌ای دارد."
-        ],
-        "impact": "ایجاد تلاطم در بازارهای مالی و افزایش تنش‌های روانی در منطقه به دلیل احتمال سناریوهای آخرالزمانی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/inspecting-claim-trump-admin-planning-185800639.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/inspecting-claim-trump-admin-planning-185800639.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/72b3d9ca692d493abf095f39f1317721d20f76e9aa8f680924192198b45a169c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsnopes_632%2F27a5e26d8ca5d9ef7915794ecba84ac8.jpg",
-        "timestamp": 1793876280.0
-    },
-    {
-        "id": "4bb60ca1e6",
-        "title_fa": "دفاع تمام‌قد وزیر دفاع آمریکا از جنگ با ایران",
-        "title_en": "Hegseth vows to keep fighting from Pentagon, defends Iran war",
-        "summary": [
-            "پیت هگسث در یک پیام ویدیویی صراحتاً در برابر تلاش کنگره برای استیضاح خود ایستاد.",
-            "او جنگ با ایران را اقدامی شجاعانه و تاریخی توصیف کرد و بر ادامه این مسیر تأکید داشت."
-        ],
-        "impact": "مقاومت پنتاگون نشان‌دهنده تداوم خط سخت‌گیرانه نظامی علیه تهران است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.3,
-        "source": "Miami Herald",
-        "url": "https://www.miamiherald.com/news/nation-world/national/article317950202.html",
-        "clean_url": "https://www.miamiherald.com/news/nation-world/national/article317950202.html",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793874840.0
     }
 ]
