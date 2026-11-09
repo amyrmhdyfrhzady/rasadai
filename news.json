@@ -710,6 +710,24 @@
         "timestamp": 1794168840.0
     },
     {
+        "id": "823d6f32dc",
+        "title_fa": "دیدار ترامپ و نخست‌وزیر قطر درباره تنش‌ها با تهران",
+        "title_en": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war",
+        "summary": [
+            "دونالد ترامپ میزبان نخست‌وزیر قطر به عنوان میانجی کلیدی است تا راهی برای پایان دادن به درگیری‌ها پیدا کند.",
+            "مقام‌های ارشد آمریکایی و حاشیه خلیج فارس فعلاً هیچ چشم‌انداز روشنی از توافق فوری در این دیدار نمی‌بینند."
+        ],
+        "impact": "بازارها فعلاً به دلیل عدم وجود توافق قطعی در حالت انتظار باقی می‌مانند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "The Sacramento Bee",
+        "url": "https://www.sacbee.com/news/nation-world/world/article317992109.html",
+        "clean_url": "https://www.sacbee.com/news/nation-world/world/article317992109.html",
+        "image": "http://www.bing.com/th?id=ONUT.lhENOcyRJ1BeEejCKWde7g&pid=News",
+        "timestamp": 1794166620.0
+    },
+    {
         "id": "b9a9ba3f4e",
         "title_fa": "اذعان ترامپ به تاثیر منفی جنگ با ایران بر انتخابات",
         "title_en": "Trump says he doesn’t disagree with Vance that Iran war fueled GOP losses",
@@ -5483,24 +5501,5 @@
         "clean_url": "https://www.iranintl.com/en/202611053453",
         "image": "http://www.bing.com/th?id=ONUT.AFPzh8o3oAHu-Ei3rf5wAA&pid=News",
         "timestamp": 1793881920.0
-    },
-    {
-        "id": "f6767d15f3",
-        "title_fa": "احتمال کاهش تنش نظامی با ج.ا پس از انتخابات آمریکا",
-        "title_en": "Democrats' victory in US elections may lower risk of renewed war with Iran — expert",
-        "summary": [
-            "پیروزی دموکرات‌ها ریسک درگیری مستقیم نظامی میان واشینگتن و تهران را به شدت کاهش می‌دهد.",
-            "تحلیلگران معتقدند دموکرات‌ها ممکن است مسئولیت هرگونه اقدام نظامی علیه تاسیسات ج.ا را به اسرائیل واگذار کنند.",
-            "تغییر ترکیب کنگره، ترامپ را به سمت مذاکره برای بازگشایی تنگه هرمز سوق می‌دهد."
-        ],
-        "impact": "تغییر استراتژی واشینگتن از تقابل مستقیم به فشار نیابتی از طریق اسرائیل.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2213287",
-        "clean_url": "https://tass.com/world/2213287",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793881200.0
     }
 ]
