@@ -271,6 +271,60 @@
         "timestamp": 1794189877.0
     },
     {
+        "id": "cb52759c4f",
+        "title_fa": "شتاب طرح‌های انرژی ترامپ در لوئیزیانا",
+        "title_en": "Trump push to build pipelines is playing out in Louisiana | Business News | nola.com",
+        "summary": [
+            "دولت ترامپ با کاهش قوانین دست‌وپاگیر، ساخت خطوط لوله گاز و پروژه‌های ال‌ان‌جی را تسریع کرده است.",
+            "گروه‌های محیط‌زیستی هشدار دادند که این رویکرد به تخریب وسیع تالاب‌ها و کاهش زمان بررسی‌های عمومی منجر شده است."
+        ],
+        "impact": "تسهیل اجرای پروژه‌های کلان انرژی علی‌رغم اعتراضات محیط‌زیستی.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "NOLA.com",
+        "url": "https://www.nola.com/news/business/louisiana-trump-pipelines-energy-lng/article_c74dcd35-324d-5851-a83c-597409cee22f.html",
+        "clean_url": "https://www.nola.com/news/business/louisiana-trump-pipelines-energy-lng/article_c74dcd35-324d-5851-a83c-597409cee22f.html",
+        "image": "http://www.bing.com/th?id=ONUT.MP9wV09OIDs2oGLgJ0z1pg&pid=News",
+        "timestamp": 1794189660.0
+    },
+    {
+        "id": "2e8e47cf23",
+        "title_fa": "تلاش جمهوری‌خواهان جوان برای تغییر چهره کنگره",
+        "title_en": "New Vance-friendly group launching to push GOP toward younger hardliners",
+        "summary": [
+            "گروه جدید حامیان جی‌دی ونس با هدف ورود چهره‌های جوان و تندرو به صحنه سیاست آغاز به کار کرد.",
+            "این جریان تلاش می‌کند کرسی‌های نمایندگان سالخورده را در انتخابات آینده هدف قرار دهد."
+        ],
+        "impact": "نوسازی بدنه سیاسی حزب جمهوری‌خواه و تقویت جریان‌های تندرو.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/09/jd-vance-allies-launch-new-group-01155638",
+        "clean_url": "https://www.politico.com/news/2026/11/09/jd-vance-allies-launch-new-group-01155638",
+        "image": "http://www.bing.com/th?id=ONUT.Dm_W3pFOow8GQjgN1sumUA&pid=News",
+        "timestamp": 1794189660.0
+    },
+    {
+        "id": "cd9f34f451",
+        "title_fa": "بحران درون‌حزبی جمهوری‌خواهان پس از شکست انتخاباتی",
+        "title_en": "Georgia Republicans lost power in a rout. Now what?",
+        "summary": [
+            "شکست سنگین در انتخابات اخیر، جنگ لفظی و اختلاف نظر شدیدی میان مقام‌های ارشد جمهوری‌خواه ایجاد کرده است.",
+            "برخی چهره‌های حزب شخص ترامپ را عامل اصلی این شکست می‌دانند، در حالی که گروهی دیگر مشکلات اقتصادی را دلیل اصلی می‌خوانند."
+        ],
+        "impact": "عمیق‌تر شدن شکاف‌های داخلی در اردوگاه محافظه‌کاران آمریکایی.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Atlanta Journal-Constitution",
+        "url": "https://www.ajc.com/politics/2026/11/georgia-republicans-lost-power-now-what/",
+        "clean_url": "https://www.ajc.com/politics/2026/11/georgia-republicans-lost-power-now-what",
+        "image": "http://www.bing.com/th?id=ONUT.nxz3UlexxYlGT7t8bi_xUA&pid=News",
+        "timestamp": 1794189660.0
+    },
+    {
         "id": "8df2b6a9a3",
         "title_fa": "ترامپ حملات جدید را کم‌اهمیت جلو داد",
         "title_en": "Rubio Sees No Iran Breakthrough as Trump Downplays New Strikes",
@@ -306,6 +360,42 @@
         "clean_url": "https://www.msn.com/en-us/news/news/trump-plans-to-meet-qatar-s-prime-minister-on-monday-as-the-key-mediator-pushes-new-proposals-in-talks-with-iran/ar-AA2h1FV9",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h2aOe.img?w=1024&h=682&m=4&q=94",
         "timestamp": 1794186189.0
+    },
+    {
+        "id": "ac3e26b41a",
+        "title_fa": "موج‌سواران سیاه‌پوست در سنگال به دنبال بازپس‌گیری دریا",
+        "title_en": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
+        "summary": [
+            "نسل جدیدی از جوانان محلی در روستاهای ماهیگیری سنگال با وجود کمبود امکانات به موج‌سواری روی آورելند.",
+            "این ورزش به نمادی برای شکستن موانع سنتی و تصاحب فضاهای تفریحی تبدیل شده است."
+        ],
+        "impact": "توجه رسانه‌ها به توسعه ورزش‌های آبی در جوامع محلی آفریقا.",
+        "tag": "اجتماعی",
+        "urgency": 2,
+        "sentiment": 0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/video/in-senegal-black-surfers-want-to-reclaim-the-waves-despite-lack-of-resources-75d05aee2aa741d7a40f835a2852cb8f",
+        "clean_url": "https://apnews.com/video/in-senegal-black-surfers-want-to-reclaim-the-waves-despite-lack-of-resources-75d05aee2aa741d7a40f835a2852cb8f",
+        "image": "http://www.bing.com/th?id=ONUT.7yneuHLMlX-5LBnNMWA0AA&pid=News",
+        "timestamp": 1794186120.0
+    },
+    {
+        "id": "32adcfbdf1",
+        "title_fa": "مهلت سنا به صرافی‌های رمزارز و شرکت‌های مرتبط با ترامپ",
+        "title_en": "Binance, Tether and Trump crypto firms face Senate records deadline",
+        "summary": [
+            "نهادهای نظارتی سنا خواستار ارائه اسناد و شفاف‌سازی مالی از سوی بایننس، تتر و پروژه‌های کریپتویی مرتبط با ترامپ شدند.",
+            "این اقدام بخشی از فشار رو به رشد کنگره بر بازار دارایی‌های دیجیتال است."
+        ],
+        "impact": "افزایش نظارت حاکمیتی بر بازار رمزارزها و نهادهای مالی وابسته.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
+        "clean_url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
+        "image": "http://www.bing.com/th?id=ONUT.hrj9g8K716UCSyLqRiPuxA&pid=News",
+        "timestamp": 1794185940.0
     },
     {
         "id": "177fe69c36",
@@ -436,6 +526,24 @@
         "timestamp": 1794171420.0
     },
     {
+        "id": "1d22828849",
+        "title_fa": "بازگشت بورس‌های آسیایی به مدار صعود",
+        "title_en": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
+        "summary": [
+            "سهام حوزه فناوری و هوش مصنوعی در وال‌استریت بخشی از افت‌های هفته گذشته را جبران کردند.",
+            "بازارهای مالی آسیا به این خبر واکنش مثبت نشان داده و شاخص‌ها رشد کردند."
+        ],
+        "impact": "تعدیل موقت فشار فروش در بازارهای مالی بین‌المللی پس از نوسانات شدید اخیر.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/stocks-markets-ai-trump-oil-d938f8e6ff42b3706e1d36e6245ec56b",
+        "clean_url": "https://apnews.com/article/stocks-markets-ai-trump-oil-d938f8e6ff42b3706e1d36e6245ec56b",
+        "image": "http://www.bing.com/th?id=ONUT.kVwu7o6xnhdzHqTLF1atUA&pid=News",
+        "timestamp": 1794168840.0
+    },
+    {
         "id": "b9a9ba3f4e",
         "title_fa": "اذعان ترامپ به تاثیر منفی جنگ با ایران بر انتخابات",
         "title_en": "Trump says he doesn’t disagree with Vance that Iran war fueled GOP losses",
@@ -490,6 +598,42 @@
         "clean_url": "https://johnmenadue.com/post/2026/11/misaligned-ai-part-two-regulation-is-required-now",
         "image": "https://www.bing.com/th?id=ONUT.uHfSETy6XGBcYrYrE_pqoQ",
         "timestamp": 1794162065.1345284
+    },
+    {
+        "id": "39fedfb66e",
+        "title_fa": "واکنش ترامپ به موضع جی‌دی ونس درباره ایران",
+        "title_en": "Trump pushes back on Vance’s Iran war post, says he’d make the same call",
+        "summary": [
+            "دونالد ترامپ از موضع‌گیری معاون خود درباره ارتباط جنگ با ایران و شکست‌های انتخاباتی فاصله گرفت.",
+            "ترامپ تاکید کرد که تصمیمات کلیدی را شخصاً با قاطعیت پیش می‌برد."
+        ],
+        "impact": "آشکار شدن اختلاف نظرهای درون‌حزبی در تیم رهبری جمهوری‌خواهان.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/08/trump-pushes-back-vances-iran-war-post-01155964",
+        "clean_url": "https://www.politico.com/news/2026/11/08/trump-pushes-back-vances-iran-war-post-01155964",
+        "image": "http://www.bing.com/th?id=ONUT.CWLVaSTi-0PqNOURqkdzLg&pid=News",
+        "timestamp": 1794161160.0
+    },
+    {
+        "id": "492674ac22",
+        "title_fa": "ناگفته‌های ترامپ درباره مهاجرت و شکست‌های انتخاباتی",
+        "title_en": "Trump’s regrets on immigration enforcement, and other takeaways from his '60 Minutes' interview",
+        "summary": [
+            "دونالد ترامپ در یک مصاحبه مفصل به ارزیابی عملکرد دولت و چالش‌های اجرای سخت‌گیرانه قوانین مهاجرتی پرداخت.",
+            "او دلایل افت آرای حزب متبوع خود را در رقابت‌های اخیر کالبدشکافی کرد."
+        ],
+        "impact": "بازتاب مواضع صریح رییس‌جمهور سابق درباره چالش‌های کلیدی آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/trump-s-regrets-on-immigration-enforcement-and-other-takeaways-from-his-60-minutes-interview/ar-AA2h2bsS",
+        "clean_url": "https://www.msn.com/en-us/politics/government/trump-s-regrets-on-immigration-enforcement-and-other-takeaways-from-his-60-minutes-interview/ar-AA2h2bsS",
+        "image": "http://www.bing.com/th?id=ONUT.-EHOuOflcYSOyU2w54TJtg&pid=News",
+        "timestamp": 1794161096.0
     },
     {
         "id": "e6c671ba9e",
@@ -5357,152 +5501,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudis-say-they-downed-ballistic-missile-as-houthis-demand-51-billion-in-exchange-for-ceasefire",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793873340.0
-    },
-    {
-        "id": "873f70ae13",
-        "title_fa": "تنگنای سیاسی ترامپ در پرونده تقابل با ج.ا",
-        "title_en": "Political Losses Deepen the Stakes as Trump Contemplates Renewed Iran Attack",
-        "summary": [
-            "شکست‌های انتخاباتی، دست ترامپ را برای ماجراجویی نظامی علیه ج.ا بسته‌تر کرده است.",
-            "افکار عمومی آمریکا به شدت با تداوم درگیری‌های نظامی که ترامپ آغازگر آن بوده، مخالف است.",
-            "فشار داخلی بر کاخ سفید برای خروج از بن‌بست تقابل با تهران افزایش یافته است."
-        ],
-        "impact": "کاهش توان مانور نظامی ترامپ به دلیل ترس از هزینه‌های سیاسی داخلی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-        "clean_url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-        "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-prexy-wmkf/04dc-prexy-wmkf-facebookJumbo.jpg",
-        "timestamp": 1793873040.0
-    },
-    {
-        "id": "ebec008f70",
-        "title_fa": "ترامپ در ماه‌های پایانی؛ نگاه به خارج برای فرار از بحران",
-        "title_en": "What will a lame-duck Donald Trump get up to overseas?",
-        "summary": [
-            "ترامپ برای جبران شکست‌های داخلی، تمرکز خود را به سیاست خارجی معطوف می‌کند.",
-            "تغییرات ناگهانی در سیاست‌های بین‌المللی ترامپ، جهان را در وضعیت بلاتکلیفی قرار داده است.",
-            "توانایی ترامپ برای پیشبرد اهدافش در دوران پایانی ریاست‌جمهوری با تردیدهای جدی روبروست."
-        ],
-        "impact": "افزایش تنش‌های غیرقابل پیش‌بینی در پرونده‌های بین‌المللی و فشار بر متحدان و رقبا.",
-        "tag": "سیاست خارجی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Economist",
-        "url": "https://www.economist.com/briefing/2026/11/05/what-will-a-lame-duck-donald-trump-get-up-to-overseas",
-        "clean_url": "https://www.economist.com/briefing/2026/11/05/what-will-a-lame-duck-donald-trump-get-up-to-overseas",
-        "image": "https://www.economist.com/content-assets/images/20261107_FBD001.jpg",
-        "timestamp": 1793872860.0
-    },
-    {
-        "id": "4aaf6538b0",
-        "title_fa": "ادای احترام نماینده پوتین به نیروی نظامی کشته شده در اوکراین",
-        "title_en": "Dmitriev pays tribute to memory of Russian field engineer Vedernikov at White House",
-        "summary": [
-            "کیریل دیمیتریف در رویدادی در کاخ سفید، یاد یک مهندس نظامی روس را که در منطقه خرسون کشته شده، گرامی داشت.",
-            "این اقدام در حضور ملانیا ترامپ، نشان‌دهنده تلاش برای تغییر روایت جنگ در فضای دیپلماتیک واشنگتن است.",
-            "کشته شدن این فرد در حین عملیات مین‌روبی با پهپاد اوکراینی، نمادی از درگیری‌های فرسایشی در جبهه‌های جنگ است."
-        ],
-        "impact": "استفاده از تریبون‌های دیپلماتیک برای عادی‌سازی حضور نظامی روسیه در اوکراین.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2213521",
-        "clean_url": "https://tass.com/politics/2213521",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793872020.0
-    },
-    {
-        "id": "cbc5759d36",
-        "title_fa": "مذاکرات پنهانی دولت ترامپ و تهران برای استرداد پناهجویان ایرانی",
-        "title_en": "AP exclusive: Trump administration held talks with Iran on deporting Iranians during the war",
-        "summary": [
-            "اسناد تازه آزادشده دادگاه پرده از رایزنی‌های کانال خلفی واشنگتن و تهران بر سر اخراج پناهجویان ایرانی برداشت.",
-            "این افشاگری نشان می‌دهد کانال‌های ارتباطی امنیتی میان دو کشور حتی در اوج تنش‌های سیاسی و لفظی برقرار بوده است."
-        ],
-        "impact": "افشای تناقض میان مواضع سرسختانه علنی و چانه‌زنی‌های پنهانی در حوزه دیپلماسی امنیتی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-administration-held-talks-with-iran-on-deporting-iranians-during-the-war-court-documents-show/ar-AA2gQ5LR",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-administration-held-talks-with-iran-on-deporting-iranians-during-the-war-court-documents-show/ar-AA2gQ5LR",
-        "image": "http://www.bing.com/th?id=ONUT.b0KvSu5hG0Oe78aSjPFjzg&pid=News",
-        "timestamp": 1793870967.0
-    },
-    {
-        "id": "e07676ce25",
-        "title_fa": "آیا دموکرات‌ها مانع جنگ جدید با ایران می‌شوند؟",
-        "title_en": "Can the Democrats prevent a new round of war with Iran?",
-        "summary": [
-            "دولت آمریکا زیر فشار شدید برای مهار تنش‌های رو به رشد با جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی است.",
-            "سیاست حزب دموکرات در قبال تهران بار دیگر به دلیل تحولات منطقه محک می‌خورد."
-        ],
-        "impact": "احتمال تغییر محاسبات واشنگتن در مواجهه با بحران‌های خاورمیانه.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Al Majalla",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkdwZG5adTF2RFlYVmNLMERBQmNTYzFaOFhHNmdta3hYSmxwdUhKajZGaUQ2YzNhMEpNZGM4Q1U2cTBKX3I2WENQaTRORGlIQ2tlTjdhYmtTSnlqdUw2aXNDSy1xZTZuMTdQZnczZEsyVG5rcjdnTGtTS1NyUDNOU1ZGSjlhM0Q0LW5oZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkdwZG5adTF2RFlYVmNLMERBQmNTYzFaOFhHNmdta3hYSmxwdUhKajZGaUQ2YzNhMEpNZGM4Q1U2cTBKX3I2WENQaTRORGlIQ2tlTjdhYmtTSnlqdUw2aXNDSy1xZTZuMTdQZnczZEsyVG5rcjdnTGtTS1NyUDNOU1ZGSjlhM0Q0LW5oZg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793870236.0
-    },
-    {
-        "id": "bc39f29d37",
-        "title_fa": "توهم پیروزی در تهران همزمان با بحران کاخ سفید",
-        "title_en": "Iran didn’t see this coming at all: Tehran now thinks it won the 2026 midterm elections and beat Donald Trump",
-        "summary": [
-            "محافل نزدیک به حکومت در تهران شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای را به عنوان شکست دونالد ترامپ جشن گرفته‌اند.",
-            "رئیس‌جمهور آمریکا اکنون با سه سناریو و گزینه دشوار برای پایان دادن به درگیری‌ها مواجه است."
-        ],
-        "impact": "تغییر موازنه سیاسی در واشنگتن مستقیماً روی راهبرد فشار بر جمهوری اسلامی اثر می‌گذارد.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-didn-t-see-this-coming-at-all-tehran-now-thinks-it-won-the-2026-midterm-elections-and-beat-donald-trump/ar-AA2gPGcU",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-didn-t-see-this-coming-at-all-tehran-now-thinks-it-won-the-2026-midterm-elections-and-beat-donald-trump/ar-AA2gPGcU",
-        "image": "http://www.bing.com/th?id=ONUT.t3k-ZeTPm1ppE9s4csUzHA&pid=News",
-        "timestamp": 1793868057.0
-    },
-    {
-        "id": "0e71db9507",
-        "title_fa": "تنگ‌تر شدن حلقه تحریم‌ها بر ناوگان سایه نفت ایران",
-        "title_en": "U.S. Sanctions Network Assisting Iran’s Oil Shadow Fleet",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا شبکه پشتیبانی و تسهیل‌کننده صادرات غیرقانونی نفت ایران را هدف تحریم جدید قرار داد.",
-            "واشنگتن با انسداد مسیرهای دور زدن تحریم، شریان مالی ناوگان سایه را زیر ضربه برده است."
-        ],
-        "impact": "کاهش درآمدهای ارزی و افزایش هزینه دور زدن تحریم‌ها برای شبکه نفتی ایران.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "IranWire",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEg3a0lFYW1zUWJMSEdnZ19MbHVFamxTazBITWxvbGVweDlVVGI2SGFNQlU4Rk1wS2VHcGwwakdmalBfZTRwS08tVnpiU0hya0tVcU95aGJIMzNGTUU5SHRMRVAyYU5DQlhMbUo5VDBjMXZ6LVVNWlExcl9rUjdQM21Fdmk3ZWMzVHpMd3I1ZVdaT3g0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEg3a0lFYW1zUWJMSEdnZ19MbHVFamxTazBITWxvbGVweDlVVGI2SGFNQlU4Rk1wS2VHcGwwakdmalBfZTRwS08tVnpiU0hya0tVcU95aGJIMzNGTUU5SHRMRVAyYU5DQlhMbUo5VDBjMXZ6LVVNWlExcl9rUjdQM21Fdmk3ZWMzVHpMd3I1ZVdaT3g0",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793867797.0
-    },
-    {
-        "id": "ca7fee44cb",
-        "title_fa": "بررسی پیشنهادهای اتمی در تهران با میانجیگری قطر",
-        "title_en": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-        "summary": [
-            "مقام‌های ایرانی مشغول بررسی پیشنهادهای مشخص درباره پرونده هسته‌ای هستند.",
-            "میانجیگری قطر توانسته تا حدودی جلوی درگیری نظامی تمام‌عیار با آمریکا را بگیرد."
-        ],
-        "impact": "کاهش موقت تنش‌های نظامی با ایجاد فضای دیپلماتیک جدید.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
-        "clean_url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
-        "image": "http://www.bing.com/th?id=ONUT.Yedw6sxGLZW52pRSs7DQqg&pid=News",
-        "timestamp": 1793867640.0
     }
 ]
