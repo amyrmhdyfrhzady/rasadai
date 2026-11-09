@@ -91,6 +91,24 @@
         "timestamp": 1794160552.0
     },
     {
+        "id": "43c08b8c30",
+        "title_fa": "دفاع مارکو روبیو از اقدام سخت ترامپ علیه تـــــهـــــران",
+        "title_en": "Marco Rubio defends Trump's Iran action",
+        "summary": [
+            "وزیر خارجه آمریکا تاکید کرد ترامپ با تصمیمی ناپذیرفته اما حیاتی، با خطر بزرگ امنیت ملی مقابله کرد.",
+            "واشنگتن اصرار دارد که اقدامات نظامی برای متوقف کردن برنامه اتمی حکومت اجتناب‌ناپذیر بوده است."
+        ],
+        "impact": "افزایش فشار دیپلماتیک و نظامی آمریکا برای خنثی‌سازی تهدیدات اتمی حکومت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6408112416112",
+        "clean_url": "https://www.foxnews.com/video/6408112416112",
+        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a614639-dcf8-4a30-a889-8b9ec1b06816/71da626a-ca91-4abf-8694-460ca310ab8d/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "timestamp": 1794151020.0
+    },
+    {
         "id": "0ce3baf271",
         "title_fa": "واکنش تند روبیو به زیاده‌خواهی‌های تهران در مذاکرات",
         "title_en": "Rubio says Iran's demands are 'outrageous and ridiculous,' talks unproductive",
@@ -5493,24 +5511,5 @@
         "clean_url": "https://www.iranintl.com/en/202611059696",
         "image": "http://www.bing.com/th?id=ONUT._sNfx4QN9NBey5RHQhywhg&pid=News",
         "timestamp": 1793836680.0
-    },
-    {
-        "id": "6ab300f35e",
-        "title_fa": "صدور حکم اعدام برای فعال فضای مجازی توسط قاضی صلواتی",
-        "title_en": "Former Bush press secretary disputes Vance, blames Iran ceasefire for GOP losses",
-        "summary": [
-            "شعبه ۱۵ دادگاه انقلاب به ریاست قاضی صلواتی، امیرحسین موسوی را به دلیل فعالیت‌های افشاگرانه در فضای مجازی با حکم سنگین و خطر اعدام مواجه کرده است.",
-            "موسوی با حساب مستعار، انعکاس‌دهنده صدای زندانیان سیاسی و خانواده‌های کشته‌شدگان اعتراضات بود.",
-            "دستگاه امنیتی با این رای، استراتژی ارعاب فعالان گمنام شبکه‌های اجتماعی را پرفشارتر از قبل دنبال می‌کند."
-        ],
-        "impact": "تشدید فضای خفقان آنلاین و بالابردن هزینه افشاگری و اطلاع‌رسانی درباره قربانیان سرکوب.",
-        "tag": "حقوق_بشر",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611048176",
-        "clean_url": "https://www.iranintl.com/en/202611048176",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793836380.0
     }
 ]
