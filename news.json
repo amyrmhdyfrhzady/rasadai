@@ -606,6 +606,26 @@
         "timestamp": 1794226020.0
     },
     {
+        "id": "e9eb7c4716",
+        "title_fa": "توافق احتمالی برای محدودسازی غنی‌سازی اورانیوم ج.ا",
+        "title_en": "Preliminary agreement on Iran uranium enrichment reduction likely",
+        "summary": [
+            "گزارش‌ها از احتمال توافق برای بازگشت به سقف غنی‌سازی ۳.۶۷ درصد خبر می‌دهند.",
+            "بازگشت بازرسان آژانس به عنوان محور اصلی این توافق اولیه مطرح شده است.",
+            "هنوز جزئیات دقیقی از وظایف بازرسان و نحوه نظارت بر تاسیسات مشخص نیست.",
+            "این توافق در مرحله مقدماتی است و مذاکرات رسمی برای اجرای آن آغاز نشده است."
+        ],
+        "impact": "کاهش تنش‌های هسته‌ای در کوتاه‌مدت و احتمال بازگشت نظارت‌های بین‌المللی.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "scanx",
+        "url": "https://scanx.trade/stock-market-news/global/us-allows-3-67-uranium-enrichment-iran-iaea-talks-take-shape/55799174",
+        "clean_url": "https://scanx.trade/stock-market-news/global/us-allows-3-67-uranium-enrichment-iran-iaea-talks-take-shape/55799174",
+        "image": "https://news-images.dhan.co/us-allows-3-67-uranium-enrichment-iran-iaea-talks-take-shape.jpg",
+        "timestamp": 1794224880.0
+    },
+    {
         "id": "8252f8b4f6",
         "title_fa": "درخواست پول از کشورها برای جنگ با ایران",
         "title_en": "Trump Says Nations Should Pay US For Iran War—How Much Would They Owe?",
@@ -5482,24 +5502,5 @@
         "clean_url": "https://www.orientaldaily.com.my/news/mingjia/2026/11/06/860575",
         "image": "https://www.orientaldaily.com.my/storage/resize_cache/images/uploads/news-cover/2026/NOV_2026/20261105/WhatsApp_Image_2026-11-05_at_5.44.56_PM.jpeg/13fdce7c3e1228a5b2e877237e9fb31a.jpeg",
         "timestamp": 1793923200.0
-    },
-    {
-        "id": "e578652f9a",
-        "title_fa": "سرکوب شدید روحانیون شیعه در بحرین از ترس نفوذ تهران",
-        "title_en": "Iran war spurs crackdown on clerics in tiny Gulf state Bahrain",
-        "summary": [
-            "دولت بحرین پس از حملات موشکی و پهپادی اخیر، فشار بر مذهبی‌های حامی ایران را به شدت افزایش داده است.",
-            "لغو تابعیت ده‌ها شهروند و بازداشت چهر‌ه‌های مذهبی به بهانه وابستگی به ج.ه. اآغاز شده است.",
-            "مقام‌های امنیتی بحرین این اقدامات را برای حفظ بقای حکومت سنی در برابر جمعیت عموماً شیعه ضروری می‌دانند."
-        ],
-        "impact": "تشدید امنیتی‌سازی فضای داخلی بحرین و افزایش فشار بر جریان‌های شیعی همسو با ایران.",
-        "tag": "منطقه‌ای",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/middle-east/iran-war-spurs-crackdown-on-clerics-in-tiny-gulf-state-bahrain",
-        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-war-spurs-crackdown-on-clerics-in-tiny-gulf-state-bahrain",
-        "image": "http://www.bing.com/th?id=ONUT.4-sEKkYwNoPWi05mEnmnRA&pid=News",
-        "timestamp": 1793923080.0
     }
 ]
