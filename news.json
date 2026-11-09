@@ -1,5 +1,24 @@
 [
     {
+        "id": "a8531cbda4",
+        "title_fa": "پزشکیان: دستور پایان وضعیت نه جنگ و نه صلح صادر شد",
+        "title_en": "Iran signals readiness for talks but demands US lift restrictions",
+        "summary": [
+            "مسعود پزشکیان اعلام کرد علی خامنه‌ای دستور داده تکلیف وضعیت معلق کشور بین جنگ و صلح روشن شود.",
+            "تهران آمادگی خود را برای مذاقره منوط به لغو تحریم‌های آمریکا کرده است.",
+            "رئیس‌جمهور وضعیت اقتصادی و فقر عمومی را پذیرفته و بر لزوم تغییر در نحوه اداره کشور تاکید کرد."
+        ],
+        "impact": "تلاش حاکمیت برای باز کردن مسیر دیپلماسی زیر سایه سنگین فشار حداکثری و بحران‌های اقتصادی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611093244",
+        "clean_url": "https://www.iranintl.com/en/202611093244",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b7ba372188343fc39b974df29103b8cd9156c3bb-1024x1024.jpg?rect=146,121,732,732&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1794230280.0
+    },
+    {
         "id": "205e21e6fa",
         "title_fa": "پاداش میلیون دلاری آمریکا برای اطلاعات برنامه هسته‌ای",
         "title_en": "US offers millions as reward for information about Iran’s nuclear program",
@@ -5483,23 +5502,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-discusses-latest-progress-in-diplomatic-efforts-with-saudi-qatari-counterparts",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26290375953411-e1792240551949.jpg",
         "timestamp": 1793886180.0
-    },
-    {
-        "id": "974fc9a202",
-        "title_fa": "پیام روشن رای‌دهندگان آمریکایی علیه جنگ با ج.ا",
-        "title_en": "How to read the Iran war tea leaves",
-        "summary": [
-            "جی‌دی ونس تاکید کرد که نتایج انتخابات میان‌دوره‌ای، مخالفت صریح مردم آمریکا با درگیری نظامی مستقیم با ج.ا را نشان می‌دهد.",
-            "تغییر جهت‌گیری در بدنه رای‌دهندگان، دست دولت را برای ماجراجویی‌های نظامی در خاورمیانه می‌بندد."
-        ],
-        "impact": "کاهش احتمال ورود مستقیم آمریکا به جنگ نظامی با ج.ا در کوتاه‌مدت.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "Politico",
-        "url": "https://www.politico.com/newsletters/national-security-daily/2026/11/05/how-to-read-the-iran-war-tea-leaves-01152317",
-        "clean_url": "https://www.politico.com/newsletters/national-security-daily/2026/11/05/how-to-read-the-iran-war-tea-leaves-01152317",
-        "image": "http://www.bing.com/th?id=ONUT.kocucvxY1kA5igniiSfSrQ&pid=News",
-        "timestamp": 1793884260.0
     }
 ]
