@@ -398,6 +398,25 @@
         "timestamp": 1794185940.0
     },
     {
+        "id": "e06f2decaa",
+        "title_fa": "موضع ترامپ درباره جنگ با ایـران و بن‌بست دیپلماسی",
+        "title_en": "Trump says there is \"no reason\" to escalate war with Iran",
+        "summary": [
+            "دونالد ترامپ در مصاحبه‌ای اعلام کرد هیچ دلیلی برای تشدید درگیری نظامی با ایـران وجود ندارد.",
+            "مارکو روبیو، وزیر خارجه، مطالبات ایـران را غیرقابل قبول خواند و هرگونه توافق فوری را رد کرد.",
+            "دیدار پیش روی ترامپ با نخست‌وزیر قطر، میانجی‌گری میان واشنگتن و تهران را وارد مرحله جدیدی می‌کند."
+        ],
+        "impact": "سایه سنگین مطالبات غیرقابل قبول دو طرف بر میز مذاکرات غیرمستقیم قطر",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-says-no-reason-escalate-084226794.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-no-reason-escalate-084226794.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/c5d07e721b26a1630da3a285bcabaad4bf21751894b451d8f2fe0b76799e17fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fbede14476339826610f6fc005d65b43e.jpg",
+        "timestamp": 1794184920.0
+    },
+    {
         "id": "177fe69c36",
         "title_fa": "روبیو: اقدام نظامی ترامپ علیه ایران برای مهار تهدید هسته‌ای بود",
         "title_en": "Rubio says Trump's war against Iran not necessarily popular but needed to stop a nuclear threat",
@@ -5482,24 +5501,5 @@
         "clean_url": "https://tass.com/sports/2213531",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261105/1492079.jpg",
         "timestamp": 1793874000.0
-    },
-    {
-        "id": "542eb93c75",
-        "title_fa": "باج‌خواهی نجومی حوثی‌ها از عربستان برای توقف حملات",
-        "title_en": "Saudis say they downed ballistic missile as Houthis demand $51 billion in exchange for ceasefire",
-        "summary": [
-            "گروه نیابتی حوثی‌ها در ازای آتش‌بس، درخواست ۵۱ میلیارد دلار پول نقد از ریاض کرده‌اند.",
-            "این گروه به دنبال به رسمیت شناخته شدن به عنوان حاکم رسمی یمن توسط عربستان است.",
-            "پدافند سعودی موفق شد یک فروند موشک بالستیک شلیک شده را رهگیری و منهدم کند."
-        ],
-        "impact": "افزایش تنش‌های مرزی در یمن و تلاش نیابتی‌های ایران برای باج‌گیری مالی و سیاسی از ریاض.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/saudis-say-they-downed-ballistic-missile-as-houthis-demand-51-billion-in-exchange-for-ceasefire/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudis-say-they-downed-ballistic-missile-as-houthis-demand-51-billion-in-exchange-for-ceasefire",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793873340.0
     }
 ]
