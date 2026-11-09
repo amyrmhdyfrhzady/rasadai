@@ -18,6 +18,24 @@
         "timestamp": 1794240289.0
     },
     {
+        "id": "d699d03bc1",
+        "title_fa": "هشدار مسکو به غرب درباره عواقب نظامی‌گری در اروپا",
+        "title_en": "Senior diplomat comments on West's militarization, its responsibility for Ukraine conflict",
+        "summary": [
+            "سرگئی ریابکوف، معاون وزیر خارجه روسیه، کشورهای عضو ناتو و اتحادیه اروپا را عامل اصلی مدیریت و هدایت جنگ اوکراین دانست.",
+            "مسکو مدعی شد هیچ برنامه‌ای برای حمله به کشورهای غربی ندارد اما در صورت بروز تجاوز، پاسخ قاطع خواهد داد."
+        ],
+        "impact": "افزایش تنش‌های لفظی میان مسکو و غرب همزمان با تداوم درگیری‌ها در شرق اروپا.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2214995",
+        "clean_url": "https://tass.com/politics/2214995",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261109/1492457.jpg",
+        "timestamp": 1794239520.0
+    },
+    {
         "id": "37b304e9c7",
         "title_fa": "دیدار پشت پرده مقامات ارشد آمریكا و ج.ا در قطر",
         "title_en": "Vance and Rezaei to meet in Qatar next week, Turkish intelligence chief says",
@@ -5481,24 +5499,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/jd-vance-singled-out-iran-war-for-midterm-rout-he-didn-t-say-what-should-happen-next-in-conflict/ar-AA2gQx9C",
         "image": "http://www.bing.com/th?id=ONUT.AMav84G_fjdRyndSsIq9jw&pid=News",
         "timestamp": 1793898054.0
-    },
-    {
-        "id": "188a9910db",
-        "title_fa": "التماس تهران به مسکو؛ پیام اضطراری خامنه‌ای روی میز پوتین",
-        "title_en": "Iran Turns To Putin As War With US Continues, Sends Khamenei’s Message To Moscow",
-        "summary": [
-            "محسن رضایی به عنوان فرستاده ویژه، پیام محرمانه رهبر ج.ا را بدون فوت وقت به مسکو برد تا از پوتین برای مهار فشارهای واشنگتن کمک بگیرد.",
-            "تهران در شرایطی که زیر ضربات سنگین نظامی قرار دارد، ۷ شرط عجیب برای مذاکره با آمریکا روی میز گذاشته است.",
-            "دیدار رضایی و پوتین نشان می‌دهد حکومت برای بقای خود دست به دامن کرملین شده است."
-        ],
-        "impact": "تلاش مذابحانه جمهوری اسلامی برای خرید زمان و فرار از شکست نظامی با تکیه بر مسکو",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Outlook India",
-        "url": "https://www.outlookindia.com/international/iran-russia-talks-putin-mohsen-rezaei-meeting-donald-trump-tehran-war",
-        "clean_url": "https://www.outlookindia.com/international/iran-russia-talks-putin-mohsen-rezaei-meeting-donald-trump-tehran-war",
-        "image": "http://www.bing.com/th?id=ONUT.Arl0jrH_dJoSIP5aCWwVag&pid=News",
-        "timestamp": 1793897760.0
     }
 ]
