@@ -1,5 +1,23 @@
 [
     {
+        "id": "a50a0e1040",
+        "title_fa": "رکوردشکنی ژاپن در تزریق ۵۰ میلیارد دلار برای نجات ین",
+        "title_en": "Japan's July yen-buying intervention sets fresh daily record",
+        "summary": [
+            "توکیو در ماه جولای با فروختن ۵۰ میلیارد دلار در یک روز، بالاترین حجم مداخله ارزی تاریخ خود را ثبت کرد.",
+            "دولت ژاپن برای متوقف کردن روند سقوط ارزش پول ملی خود دست به اقدامات سنگین مالی زده است."
+        ],
+        "impact": "تلاش سنگین بانک مرکزی ژاپن برای مهار ریزش ارزش ین در بازارهای جهانی.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/japans-july-yen-buying-intervention-sets-fresh-daily-record-6535001",
+        "clean_url": "https://www.channelnewsasia.com/business/japans-july-yen-buying-intervention-sets-fresh-daily-record-6535001",
+        "image": "https://www.bing.com/th?id=ONUT.y1S9wWlMGFiahlQXeG3NtA",
+        "timestamp": 1794208564.1924522
+    },
+    {
         "id": "a1c2da0b13",
         "title_fa": "امارات: توافق تهران و واشنگتن به این زودی‌ها ممکن نیست",
         "title_en": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult",
@@ -5488,24 +5506,5 @@
         "clean_url": "https://www.africanews.com/2026/11/05/iranians-hold-anti-us-and-anti-israel-rallies-across-the-country",
         "image": "https://images.euronews.com/articles/stories/09/98/06/51/1024x538_cmsv2_6f8def56-ce0a-5de1-a68e-4f96b4bfba96-9980651.jpg",
         "timestamp": 1793860740.0
-    },
-    {
-        "id": "df1d9a10c1",
-        "title_fa": "تلاش قطر برای بازگرداندن ج.ا به میز مذاکرات هسته‌ای",
-        "title_en": "Report: Iran may resume nuclear negotiations",
-        "summary": [
-            "میانجی‌گری فعال قطر در تهران و دوحه برای شکستن بن‌بست هسته‌ای با واشنگتن",
-            "نقش کلیدی جی‌دی ونس در پیشبرد این دیپلماسی برای جلوگیری از درگیری نظامی مستقیم",
-            "تغییر موضع ج.ا از مقاومت به بررسی پیشنهادهای جدید پس از هفته‌ها تنش"
-        ],
-        "impact": "احتمال کاهش تنش‌های نظامی در کوتاه‌مدت از طریق بازگشت به میز مذاکره",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Israel National News",
-        "url": "https://www.israelnationalnews.com/news/435738",
-        "clean_url": "https://www.israelnationalnews.com/news/435738",
-        "image": "https://2.a7.org/files/pictures/000/1193063.jpg",
-        "timestamp": 1793860500.0
     }
 ]
