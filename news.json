@@ -1,5 +1,23 @@
 [
     {
+        "id": "e43fb112d7",
+        "title_fa": "دستور تغییر مسیر از سوی بیت رهبری برای پایان تنش با آمریکا",
+        "title_en": "US-Iran war live: Pezeshkian says Khamenei has issued directives to end standoff with Washington",
+        "summary": [
+            "مسعود پزشکیان اعلام کرد دستورات لازم برای عبور از وضعیت بلاتکلیف نه جنگ و نه صلح صادر شده است.",
+            "این موضع‌گیری در پی چراغ سبز دونالد ترامپ برای حل‌وفصل دیپلماتیک پرونده ایران مطرح شده است."
+        ],
+        "impact": "آغاز احتمالی کانال‌های پشت‌پرده برای تغییر دکترین تنش‌آفرینی جمهوری اسلامی.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "Hindustan Times",
+        "url": "https://www.msn.com/en-in/news/world/us-iran-war-live-pezeshkian-says-khamenei-has-issued-directives-to-end-standoff-with-washington/ar-AA2h1jU0",
+        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-live-pezeshkian-says-khamenei-has-issued-directives-to-end-standoff-with-washington/ar-AA2h1jU0",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h4j7e.img?w=549&h=309&m=4&q=87",
+        "timestamp": 1794237028.0
+    },
+    {
         "id": "0d14636526",
         "title_fa": "زلزله انتخابات میان‌دوره‌ای آمریکا و محاسبات جدید درباره ج.ا",
         "title_en": "Iran war: Will Trump's midterm defeat end or entrench the conflict with Tehran?",
@@ -5482,24 +5500,5 @@
         "clean_url": "https://www.iranintl.com/202611062691",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1793894400.0
-    },
-    {
-        "id": "98ed3b2626",
-        "title_fa": "دیدار پوتین و رضایی در مسکو؛ هماهنگی برای دور زدن فشارها",
-        "title_en": "Putin meets Iranian security council chief Rezaei in Moscow",
-        "summary": [
-            "سفر محسن رضایی به مسکو نشان‌دهنده تلاش ج.ا برای تقویت محور ضدغربی در اوج فشارهای بین‌المللی است.",
-            "پوتین با این دیدار عملاً پیامی به غرب فرستاده که همچنان روی کارت ایران برای موازنه قدرت حساب باز کرده است.",
-            "این ملاقات در شرایطی انجام شده که هر دو طرف به دلیل تحریم‌های سنگین، به دنبال راهکارهای مشترک برای بقای اقتصادی و نظامی هستند."
-        ],
-        "impact": "تقویت همکاری‌های امنیتی و نظامی تهران و مسکو برای مقابله با فشارهای واشنگتن.",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/putin-meets-iranian-security-council-chief-rezaei-in-moscow/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/putin-meets-iranian-security-council-chief-rezaei-in-moscow",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AFP__20261105__D6JQ2WE__v1__HighRes__RussiaIranPoliticsDiplomacy.jpg",
-        "timestamp": 1793892840.0
     }
 ]
