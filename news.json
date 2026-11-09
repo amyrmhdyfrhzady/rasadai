@@ -1,5 +1,24 @@
 [
     {
+        "id": "1fa7215420",
+        "title_fa": "پیشنهاد گام‌به‌گام آمریکا به تهران برای بازگشایی تنگه هرمز",
+        "title_en": "Report: US offering Iran partial lifting of blockade in exchange for opening Hormuz",
+        "summary": [
+            "واشنگتن از طریق میانجی‌های منطقه‌ای طرحی مرحله‌ای ارائه داده تا در قبال تضمین امنیت دریانوردی و باز ماندن تنگه هرمز، بخشی از محاصره و فشارها را تعلیق کند.",
+            "این حرکت نشان‌دهنده تلاش آمریکا برای مهار جهش قیمت جهانی انرژی و جلوگیری از کشیده شدن منطقه به یک درگیری نظامی تمام‌عیار است.",
+            "پاسخ نهایی تهران به این پیشنهاد پنهانی، مسیر تنش‌های امنیتی و اقتصادی آتی در خلیج فارس را مشخص می‌کند."
+        ],
+        "impact": "آغاز چانه‌زنی‌های امنیتی پنهان برای مهار تنش دریایی و کنترل بحران انرژی در خلیج فارس.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/report-us-offering-iran-partial-lifting-of-blockade-in-exchange-for-opening-hormuz/ar-AA2h3YI4",
+        "clean_url": "https://www.msn.com/en-us/news/other/report-us-offering-iran-partial-lifting-of-blockade-in-exchange-for-opening-hormuz/ar-AA2h3YI4",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21T7aF.img?w=1200&h=630&m=4&q=100",
+        "timestamp": 1794221503.0
+    },
+    {
         "id": "8eea1ee2ce",
         "title_fa": "تمرکز مسکو بر تحرکات نظامی اروپا و استقبال از رویکرد ترامپ",
         "title_en": "Kiev's preparations for continuing war, EU's militarization: Shoigu's statements",
@@ -5483,24 +5502,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/after-settlers-enter-jericho-area-palestinian-residents-flee-homes-say-they-are-afraid-to-return",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793877540.0
-    },
-    {
-        "id": "972102dbc8",
-        "title_fa": "زلزله سیاسی در آمریکا و سایه سنگین آن بر تهران",
-        "title_en": "\"Regime Change Came in Texas Before Tehran\"",
-        "summary": [
-            "شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا، معادلات سیاسی واشنگتن را به شدت تحت تاثیر قرار داد.",
-            "پیروزی دموکرات‌ها در تگزاس نشان داد تغییرات ساختاری پیش از تهران، در قلب ایالات متحده کلید خورده است.",
-            "از دست رفتن کرسی‌های کلیدی حامیان سرسخت فشار حداکثری، مسیر سیاست خارجی واشنگتن را وارد فاز تازه‌ای می‌کند."
-        ],
-        "impact": "تغییر موازنه‌های قدرت در کنگره آمریکا، فشار بر حکومت ایران را از مسیر سنتی خارج و وارد چالش‌های داخلی واشنگتن می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The New Yorker",
-        "url": "https://www.newyorker.com/news/global-notes/regime-change-came-in-texas-before-tehran",
-        "clean_url": "https://www.newyorker.com/news/global-notes/regime-change-came-in-texas-before-tehran",
-        "image": "https://media.newyorker.com/photos/6aeb9c038c2fdd9a2a08dae7/master/w_2560,c_limit/Tharoor-Iran-War.jpg",
-        "timestamp": 1793876400.0
     }
 ]
