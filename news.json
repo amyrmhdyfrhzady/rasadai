@@ -18,6 +18,24 @@
         "timestamp": 1794240289.0
     },
     {
+        "id": "37b304e9c7",
+        "title_fa": "دیدار پشت پرده مقامات ارشد آمریكا و ج.ا در قطر",
+        "title_en": "Vance and Rezaei to meet in Qatar next week, Turkish intelligence chief says",
+        "summary": [
+            "رئیس سازمان اطلاعات ترکیه از برنامه دیدار معاون رئیس‌جمهور آمریکا و محسن رضایی در دوحه خبر داد.",
+            "این رایزنی‌ها بخشی از تلاش‌های منطقه‌ای برای پایان دادن به درگیری‌ها با میانجیگری قطر جریان دارد."
+        ],
+        "impact": "آغاز احتمالی کانال‌های دیپلماتیک مستقیم میان واشنگتن و تهران زیر فشار تحریم‌ها و تنش‌ها.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611096528",
+        "clean_url": "https://www.iranintl.com/en/202611096528",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b9b94cbc998d6d3d38145fb73f5fbb5003f14530-992x661.jpg?rect=0,71,992,521&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794238620.0
+    },
+    {
         "id": "cb7a296c18",
         "title_fa": "مخالفت بانک مرکزی روسیه با کاهش شتاب‌زده نرخ بهره",
         "title_en": "Plans to lower key rate and rising prices: statements by Nabiullina",
@@ -5482,23 +5500,5 @@
         "clean_url": "https://www.outlookindia.com/international/iran-russia-talks-putin-mohsen-rezaei-meeting-donald-trump-tehran-war",
         "image": "http://www.bing.com/th?id=ONUT.Arl0jrH_dJoSIP5aCWwVag&pid=News",
         "timestamp": 1793897760.0
-    },
-    {
-        "id": "205a45f690",
-        "title_fa": "تأکید رسانه‌های آمریکا بر احیای سیاست فشار حداکثری ترامپ",
-        "title_en": "Trump Is a Winner and Right on Iran",
-        "summary": [
-            "تأکید چهره‌های نزدیک به ترامپ بر درست بودن رویکرد سخت‌گیرانه او، نشانه‌ای واضح از آماده‌سازی فضای رسانه‌ای برای بازگشت تحریم‌های خفه‌کننده است.",
-            "تمرکز اصلی این جریان بر قطع کامل صادرات نفت و مسدود کردن شریان‌های مالی ج.ا قرار دارد."
-        ],
-        "impact": "افزایش احتمال بسته‌تر شدن منافذ دور زدن تحریم‌ها و فشار شدید بر بازار ارز تهران.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Newsmax",
-        "url": "https://www.msn.com/en-us/news/other/trump-is-a-winner-and-right-on-iran/ar-AA2gOWQR",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-is-a-winner-and-right-on-iran/ar-AA2gOWQR",
-        "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=891ab6ab-fb22-4f14-ad59-6251e6bd7c77&SiteName=Newsmax",
-        "timestamp": 1793897580.0
     }
 ]
