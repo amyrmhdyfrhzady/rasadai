@@ -218,6 +218,25 @@
         "timestamp": 1794182793.0
     },
     {
+        "id": "ee89f4a9f3",
+        "title_fa": "شوک انتخابات آمریکا به معادلات خاورمیانه",
+        "title_en": "After Trump's Midterm Setback, Middle East on Edge for What Happens Next",
+        "summary": [
+            "شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا، محاسبات رهبران خاورمیانه درباره آینده درگیری‌ها را به هم ریخته است.",
+            "تیم ترامپ و معاونش جِی‌دی ونس، جنگ با ایران و حمایت بی‌قید و شرط از اسرائیل را از عوامل اصلی این شکست داخلی می‌دانند.",
+            "تهران و تل‌آویو با رصد این تغییرات سیاسی، رویکرد خود را برای تشدید یا کاهش تنش‌ها بازنگری می‌کنند."
+        ],
+        "impact": "تغییر موازنه قدرت در واشنگتن، بازیگران منطقه‌ای را به سمت ارزیابی مجدد راهبردهای جنگ و صلح سوق داده است.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Soufan Center",
+        "url": "https://thesoufancenter.org/intelbrief-2026-november-9/",
+        "clean_url": "https://thesoufancenter.org/intelbrief-2026-november-9",
+        "image": "https://thesoufancenter.org/wp-content/uploads/2026/11/AP26310506778982-scaled.jpg",
+        "timestamp": 1794182400.0
+    },
+    {
         "id": "46cb167055",
         "title_fa": "خطای سیستماتیک در دسترسی به اخبار منطقه ای",
         "title_en": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
@@ -5487,24 +5506,5 @@
         "clean_url": "https://parsi.euronews.com/2026/11/05/iran-irgc-two-oil-tankers-tugboat-fire-hormuz-captures-two-us-drones",
         "image": "https://www.bing.com/th?id=ONUT._0Bi3KQEyoTZd7j3L2c3uQ",
         "timestamp": 1793863267.1723754
-    },
-    {
-        "id": "e9521203c6",
-        "title_fa": "نمایش حکومتی در تهران؛ تکرار شعارهای ضدآمریکایی",
-        "title_en": "Iranians hold anti-U.S. and anti-Israel rallies across the country",
-        "summary": [
-            "حاکمیت ج.ا با سازماندهی تجمعات حکومتی سعی در بازسازی چهره ایدئولوژیک خود دارد.",
-            "علیرضا زاکانی با ادبیات تکراری، بحران‌های داخلی را به گردن فشارهای خارجی می‌اندازد.",
-            "این تجمعات بیش از آنکه بازتاب‌دهنده خواست عمومی باشد، مانوری برای نمایش قدرت در برابر فشارهای بین‌المللی است."
-        ],
-        "impact": "تداوم انزوای دیپلماتیک و تشدید شکاف میان حاکمیت و بدنه جامعه.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Africanews",
-        "url": "https://www.africanews.com/2026/11/05/iranians-hold-anti-us-and-anti-israel-rallies-across-the-country/",
-        "clean_url": "https://www.africanews.com/2026/11/05/iranians-hold-anti-us-and-anti-israel-rallies-across-the-country",
-        "image": "https://images.euronews.com/articles/stories/09/98/06/51/1024x538_cmsv2_6f8def56-ce0a-5de1-a68e-4f96b4bfba96-9980651.jpg",
-        "timestamp": 1793860740.0
     }
 ]
