@@ -1,5 +1,24 @@
 [
     {
+        "id": "8eea1ee2ce",
+        "title_fa": "تمرکز مسکو بر تحرکات نظامی اروپا و استقبال از رویکرد ترامپ",
+        "title_en": "Kiev's preparations for continuing war, EU's militarization: Shoigu's statements",
+        "summary": [
+            "دبیر شورای امنیت روسیه از روند فزاینده تسلیحاتی شدن اروپا و تداوم تنش‌زایی در مرزهای این کشور انتقاد کرد.",
+            "مسکو با اشاره به رویکرد کی‌یف و متحدان غربی‌اش، آن‌ها را به آماده‌سازی برای استمرار جنگ به جای صلح متهم نمود.",
+            "روسیه از تلاش‌های دونالد ترامپ برای حل و فصل بحران اوکراین استقبال کرد."
+        ],
+        "impact": "موضع‌گیری مسکو نشانگر تلاش برای یارگیری سیاسی در قبال سیاست‌های آتی واشنگتن در قبال جنگ اوکراین است.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2214709",
+        "clean_url": "https://tass.com/politics/2214709",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261109/1492375.jpg",
+        "timestamp": 1794216300.0
+    },
+    {
         "id": "710c4d45ef",
         "title_fa": "بازی دیپلماتیک ایران با آژانس و درخواست پایان جنگ از آمریکا",
         "title_en": "Iran says IAEA visited nuclear site recently, US should follow public sentiment and end war",
@@ -5483,23 +5502,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzBFUERIcm1wS0M2WGF0SnZIeGxqSG80RVVYUUFBUFFTMlJNUkdSQ05sazN2Q3RsTDFNMmJIRG5ZVnlfc1pHcGtJOGdsNVdSTnVHMllON181VllNaGlBVmNsOXR4ZFpaNy1RNnhtS1VuNER5Nmg5aXpjQmU5Q2ZUMVNpYlotRmdJdVVXMWhKdHM2YzJRY1E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793874403.0
-    },
-    {
-        "id": "2d1eb4cba5",
-        "title_fa": "پایان دوران رونالدو در تیم ملی پرتغال پس از ۲۳ سال",
-        "title_en": "Portuguese football genius Ronaldo decides to part ways with national team",
-        "summary": [
-            "کریستیانو رونالدو با انتشار ویدئویی رسماً پایان حضور ۲۳ ساله خود در تیم ملی پرتغال و واگذاری پیراهن شماره ۷ را اعلام کرد.",
-            "اختلافات اخیر او با ژورژه ژسوس، سرمربی تیم ملی و خلف وعده‌های کادر فنی، علت اصلی این تصمیم ناگهانی بوده است."
-        ],
-        "impact": "تغییر بزرگ در ساختار و روحیه‌ تیم ملی پرتغال با خروج برترین گلزن تاریخ این کشور.",
-        "tag": "ورزشی",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/sports/2213531",
-        "clean_url": "https://tass.com/sports/2213531",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261105/1492079.jpg",
-        "timestamp": 1793874000.0
     }
 ]
