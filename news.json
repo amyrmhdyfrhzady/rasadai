@@ -1,5 +1,23 @@
 [
     {
+        "id": "a1c2da0b13",
+        "title_fa": "امارات: توافق تهران و واشنگتن به این زودی‌ها ممکن نیست",
+        "title_en": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult",
+        "summary": [
+            "انور قرقاش نسبت به تداوم بحران و تنش در منطقه هشدار داد.",
+            "دیپلماسی میان ایران و آمریکا در بن‌بست جدی قرار گرفته است."
+        ],
+        "impact": "افزایش ریسک سرمایه‌گذاری و ماندگاری ناامنی در کل منطقه",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlI2UXNzNl84Z1ByMV9Ybm5YNjMtZkdPcDhsZ2plZk9udWViZDZ4eTRVQVNXN2x6U2hENlkxbXJ2SXVvVU0tVWFkZGlSLXBDcnBZM1pzLVBNMzA5bjdZOHlFSXd6ZzhsWWZvV3JWWXlTME1tMnJ5Q0RoWHk1ZmJzbzk5cjZFaDI4NXpTOGRaVDBTNGNxcnRZYjF0X2NzY3EwaEJZcVhMaHRRMXREdXBkeXh6OGRCdU9aaWRJdS1zNzBQSUJCZEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlI2UXNzNl84Z1ByMV9Ybm5YNjMtZkdPcDhsZ2plZk9udWViZDZ4eTRVQVNXN2x6U2hENlkxbXJ2SXVvVU0tVWFkZGlSLXBDcnBZM1pzLVBNMzA5bjdZOHlFSXd6ZzhsWWZvV3JWWXlTME1tMnJ5Q0RoWHk1ZmJzbzk5cjZFaDI4NXpTOGRaVDBTNGNxcnRZYjF0X2NzY3EwaEJZcVhMaHRRMXREdXBkeXh6OGRCdU9aaWRJdS1zNzBQSUJCZEE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794207660.0
+    },
+    {
         "id": "24cb458d1c",
         "title_fa": "اختلاف نگاه در تیم ترامپ درباره رابطه با اسـراییل",
         "title_en": "J.D. Vance Wants to ‘Change Our Relationship to Israel.’ Does His Boss Agree?",
@@ -270,6 +288,24 @@
         "clean_url": "https://www.couriermail.com.au/news/world/middle-east/us-military-launches-new-task-force-targeting-iranian-land-borders-and-weapons-routes/news-story/3bfff1cbcac92ee11658633d24f8f0b1",
         "image": "https://content.api.news/v3/images/bin/4c1249492930a791905bc26c4db02cf9",
         "timestamp": 1794171420.0
+    },
+    {
+        "id": "b9a9ba3f4e",
+        "title_fa": "اذعان ترامپ به تاثیر منفی جنگ با ایران بر انتخابات",
+        "title_en": "Trump says he doesn’t disagree with Vance that Iran war fueled GOP losses",
+        "summary": [
+            "دونالد ترامپ اعتراف کرد درگیری با ایران هزینه سیاسی سنگینی برای جمهوری‌خواهان داشته است.",
+            "گرانی و تنش‌های خاورمیانه سبد رای حزب حاکم را کوچک کرده است."
+        ],
+        "impact": "تغییر محاسبات انتخاباتی آمریکا در قبال رویکردهای مداخله‌جویانه خارجی",
+        "tag": "آمریکا",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "FOX News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-he-doesn-t-disagree-with-vance-that-iran-war-fueled-gop-losses/ar-AA2h2eaq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-he-doesn-t-disagree-with-vance-that-iran-war-fueled-gop-losses/ar-AA2h2eaq",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794165180.0
     },
     {
         "id": "09b7ddd7ea",
@@ -5471,41 +5507,5 @@
         "clean_url": "https://www.israelnationalnews.com/news/435738",
         "image": "https://2.a7.org/files/pictures/000/1193063.jpg",
         "timestamp": 1793860500.0
-    },
-    {
-        "id": "bc7b59923a",
-        "title_fa": "بازخوانی سیاست‌های جبهه فشار حداکثری در قبال ایران",
-        "title_en": "Trump’s election loss and Iran policy",
-        "summary": [
-            "بررسی رویکرد تیم دونالد ترامپ در مواجهه با جمهوری ا... و راهبردهای مهار تهران.",
-            "تلاش تحلیلگران برای پیش‌بینی فرمول‌های احتمالی دولت آینده آمریکا در پرونده اتمی و تحریم‌ها."
-        ],
-        "impact": "تعیین‌کننده جهت‌گیری بازارهای مالی و خطوط قرمز امنیتی در منطقه.",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNldVZlJRTDJydUlZczFZRDltZHVsT0tJTEM1by1EWHAwTFNjZ1N4RndPc3NxaW5kQXJuVGJRY2FjRUw3MjAybXBvd2pnbEg4TzFrRHU5bl80SHBoRWVSdl93a3dWZGNOQW9HelAxX1h3dVUyTTQ4SzVXN3dkUFBHRTZKS0RXNHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNldVZlJRTDJydUlZczFZRDltZHVsT0tJTEM1by1EWHAwTFNjZ1N4RndPc3NxaW5kQXJuVGJRY2FjRUw3MjAybXBvd2pnbEg4TzFrRHU5bl80SHBoRWVSdl93a3dWZGNOQW9HelAxX1h3dVUyTTQ4SzVXN3dkUFBHRTZKS0RXNHc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793857293.0
-    },
-    {
-        "id": "341c86cc6a",
-        "title_fa": "بررسی گزینه حملات تازه علیه ترامپ",
-        "title_en": "US Iran War Live Updates: Trump weighs fresh Iran strikes, talks after Republican midterm losses",
-        "summary": [
-            "دونالد ترامپ از اقدام نظامی جاری برای ممانعت از دستیابی تـهـران به تسلیحات اتمی دفاع کرد.",
-            "مقامات سیاسی و نظامی جـمـهـوری اسـلامـی نسبت به هرگونه حمله تازه هشدار دادند و از آمادگی برای پاسخ خبر دادند."
-        ],
-        "impact": "افزایش احتمال درگیری‌های نظامی و بالا رفتن ریسک امنیتی در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-jd-vance-saudi-houthi-tensions-strait-of-hormuz-latest-news/liveblog/135550765.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-jd-vance-saudi-houthi-tensions-strait-of-hormuz-latest-news/liveblog/135550765.cms",
-        "image": "https://www.bing.com/th?id=ONUT.PKtZkw26ePNoxVxADqTMJg",
-        "timestamp": 1793855763.862904
     }
 ]
