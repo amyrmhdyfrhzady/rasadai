@@ -457,6 +457,25 @@
         "timestamp": 1794214672.0
     },
     {
+        "id": "0b7223ff89",
+        "title_fa": "هشدار امارات نسبت به بلاتکلیفی طولانی مدت در خلیج فارس",
+        "title_en": "Senior UAE official says Gulf faces 'prolonged uncertainty' with no settlement to Iran war",
+        "summary": [
+            "مقام ارشد اماراتی اعتراف کرد هیچ چشم‌اندازی برای حل تنش‌ها و توافق سیاسی میان ایالات متحده و جـمـهـوری اسـلامـی وجود ندارد.",
+            "منطقه باید خود را برای یک دوره طولانی از بی‌ثباتی و نبود نظم پایدار امنیتی آماده کند.",
+            "این موضع‌گیری در حالی مطرح می‌شود که معادلات منطقه پس از تحولات سیاسی آمریکا وارد فاز تازه‌ای از ابهام شده است."
+        ],
+        "impact": "سایه سنگین بی‌ثباتی سیاسی بر امنیت سرمایه‌گذاری و بازارهای مالی حوزه خلیج فارس",
+        "tag": "منطقه",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/senior-uae-official-says-gulf-faces-prolonged-uncertainty-no-settlement-war-iran",
+        "clean_url": "https://www.middleeasteye.net/news/senior-uae-official-says-gulf-faces-prolonged-uncertainty-no-settlement-war-iran",
+        "image": "http://www.bing.com/th?id=ONUT.3hExnYIEBP-HZ0vAVAP1-Q&pid=News",
+        "timestamp": 1794213720.0
+    },
+    {
         "id": "90949dc4eb",
         "title_fa": "طرح توافق مالی هشت میلیارد دلاری روی میز دونالد ترامپ",
         "title_en": "$8 billion lifeline? Iranian deal set to land on Trump's desk",
@@ -5480,24 +5499,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZGdZYUJiQUU4cFNFckZkUjJEX0tGWWZmSHNRYlZoN1Fpb3hzVkY5dTdiSlRvdTI0ZnZoZmN1cHVwRzlUOGpfcVFIVm54SDFHSFRNaTFYdTc3Tk9Xa2hMNmFadzV3bkJ6Vnc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793904386.0
-    },
-    {
-        "id": "75ec104201",
-        "title_fa": "عقب‌نشینی موقت تـهـران زیر فشار جنگ و میانجی‌گری قطر",
-        "title_en": "DIPLOMATIC OPENING: Iran Studying Mediators' Nuclear Offers As Qatar Races To Head Off Renewed War",
-        "summary": [
-            "مقام‌های ارشد دیپلماتیک از بررسی پیشنهادهای جدید اتمی میانجی‌گران توسط تـهـران خبر دادند.",
-            "تـهـران پس از هفته‌ها امتناع مطلق، حالا به لطف دیپلماسی فشرده قطر تن به بررسی این پرونده داده است.",
-            "واشنگتن و تـهـران در حال ارزیابی طرح‌های جدید برای پر کردن شکاف‌های باقی‌مانده هستند."
-        ],
-        "impact": "تلاش‌های دیپلماتیک قطر موقتاً سایه جنگ تمام‌عیار را کم‌رنگ کرده است.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The Yeshiva World",
-        "url": "https://www.theyeshivaworld.com/news/israel-news/2619865/diplomatic-opening-iran-studying-mediators-nuclear-offers-as-qatar-races-to-head-off-renewed-war.html",
-        "clean_url": "https://www.theyeshivaworld.com/news/israel-news/2619865/diplomatic-opening-iran-studying-mediators-nuclear-offers-as-qatar-races-to-head-off-renewed-war.html",
-        "image": "https://www.theyeshivaworld.com/wp-content/uploads/2026/09/shutterstock_2208980365.jpg",
-        "timestamp": 1793904000.0
     }
 ]
