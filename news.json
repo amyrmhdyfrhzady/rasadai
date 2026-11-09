@@ -1,5 +1,23 @@
 [
     {
+        "id": "b8bd96cead",
+        "title_fa": "نامه سرگشاده به ترامپ برای مهار اتمی ج.ا",
+        "title_en": "Open letter to Donald Trump: Prevent Iran from acquiring nuclear weapons",
+        "summary": [
+            "نامه ای مهم به دونالد ترامپ برای جلوگیری از دستیابی حکومت ایران به سلاح اتمی منتشر شد.",
+            "این فشارها نشان می دهد که بازیگران بین المللی به دنبال اتخاذ رویکردی سخت تر در برابر برنامه هسته ای تهران هستند."
+        ],
+        "impact": "افزایش فشارهای دیپلماتیک بر واشنگتن برای اتخاذ تصمیمات بازدارنده تر علیه برنامه اتمی حکومت.",
+        "tag": "هسته ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaGotdldpaVZvb190WXZfcFBDQy1QU0ZjQ1pnWS1UZk01V2dkSm4zSnJGNTJrNVNsOV9xRDVTVmVJTXdXZWI3SmYxLVdMNkI4Z0MtX3JUMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaGotdldpaVZvb190WXZfcFBDQy1QU0ZjQ1pnWS1UZk01V2dkSm4zSnJGNTJrNVNsOV9xRDVTVmVJTXdXZWI3SmYxLVdMNkI4Z0MtX3JUMA",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794245788.0
+    },
+    {
         "id": "837fce02fa",
         "title_fa": "بازرسی آژانس از نیروگاه بوشهر به روایت تهران",
         "title_en": "Iran claims IAEA held 'recent' inspection at Bushehr plant: What to know",
@@ -5481,23 +5499,5 @@
         "clean_url": "https://www.theyeshivaworld.com/news/israel-news/2619865/diplomatic-opening-iran-studying-mediators-nuclear-offers-as-qatar-races-to-head-off-renewed-war.html",
         "image": "https://www.theyeshivaworld.com/wp-content/uploads/2026/09/shutterstock_2208980365.jpg",
         "timestamp": 1793904000.0
-    },
-    {
-        "id": "806edf9c95",
-        "title_fa": "تلاش مسکو برای بازگشت ورزشکاران روس به میادین جهانی",
-        "title_en": "'Only matter of time' before Russian athletes return to int'l arena — diplomat",
-        "summary": [
-            "ماریا زاخارووا بازگشت ورزشکاران روسیه به مسابقات بین‌المللی را اجتناب‌ناپذیر می‌داند.",
-            "روسیه با تفکیک غرب از آنچه «اکثریت جهانی» می‌نامد، به دنبال مشروعیت‌بخشی به حضور ورزشکاران خود است."
-        ],
-        "impact": "این اظهارات تلاشی برای شکستن انزوای ورزشی روسیه در مجامع بین‌المللی است.",
-        "tag": "ورزشی",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2213517",
-        "clean_url": "https://tass.com/politics/2213517",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1793900220.0
     }
 ]
