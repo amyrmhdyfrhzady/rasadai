@@ -992,6 +992,24 @@
         "timestamp": 1794213366.0
     },
     {
+        "id": "86a4664835",
+        "title_fa": "مخالفت تهران با خروج اورانیوم غنی‌شده از کشور",
+        "title_en": "Enriched uranium exit from Iran not on agenda at all: Baghaei",
+        "summary": [
+            "سخنگوی وزارت خارجه ج.ا ادعا کرد خارج کردن اورانیوم غنی‌شده از دستورکار خارج است و همکاری با آژانس ادامه دارد.",
+            "او بازرسی از تاسیسات اتمی آسیب‌دیده را به دلیل تهدیدات نظامی ایالات متحده و اسرائیل ناموجه خواند."
+        ],
+        "impact": "این موضع‌گیری بن‌بست در مذاکرات اتمی و احتمال تشقاق بیشتر با آژانس انرژی اتمی را افزایش می‌دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Mehr News Agency",
+        "url": "https://en.mehrnews.com/news/249279/Enriched-uranium-exit-from-Iran-not-on-agenda-at-all-Baghaei",
+        "clean_url": "https://en.mehrnews.com/news/249279/Enriched-uranium-exit-from-Iran-not-on-agenda-at-all-Baghaei",
+        "image": "https://media.mehrnews.com/d/2026/10/25/3/6232615.jpg?ts=1792907849043",
+        "timestamp": 1794212520.0
+    },
+    {
         "id": "78ac94d11d",
         "title_fa": "ترامپ: گفت‌وگو با ایران می‌تواند از تصاعد درگیری جلوگیری کند",
         "title_en": "Trump Says US-Iran Talks May Avert Further Conflict",
@@ -5482,23 +5500,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/some-democrats-don-t-want-to-wait-for-january-to-block-trump-s-war-in-iran/ar-AA2gT1vT",
         "image": "http://www.bing.com/th?id=ONUT.jww_TP7HIybn-pR29oZvDA&pid=News",
         "timestamp": 1793929500.0
-    },
-    {
-        "id": "dc7292c7e0",
-        "title_fa": "برنامه‌ریزی جی‌استریت برای تاثیر بر انتخابات ۲۰۲۸ آمریکا",
-        "title_en": "J Street's 2027 National Convention",
-        "summary": [
-            "گروه لابی جی‌استریت منسجم‌سازی جریان‌های پیشرو برای تاثیرگذاری بر سیاست خارجی آمریکا در آستانه انتخابات ۲۰۲۸ را آغاز کرد.",
-            "تمرکز اصلی این نشست بر رایزنی مستقیم با نمایندگان کنگره و جهت‌دهی به تصمیمات واشنگتن در قبال خاورمیانه است."
-        ],
-        "impact": "تلاش برای تشدید فشار سیاسی جریان‌های چپ بر کنگره جهت تغییر ریل دیپلماسی آمریکا در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "J Street",
-        "url": "https://jstreet.org/event/j-streets-2027-national-convention",
-        "clean_url": "https://jstreet.org/event/j-streets-2027-national-convention",
-        "image": "https://jstreet.org/sites/default/files/2026-10/new-web-headers-10.png",
-        "timestamp": 1793928060.0
     }
 ]
