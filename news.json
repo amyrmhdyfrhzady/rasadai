@@ -1,5 +1,23 @@
 [
     {
+        "id": "631115bdec",
+        "title_fa": "تلاقی تحریم و فساد ساختاری در بستر بحران",
+        "title_en": "When sanctions meet corruption: Iran and the risk of conflict — Part 1",
+        "summary": [
+            "ترکیب تحریم‌های سنگین و فساد درون ساختار جـمهوری اسـلامی، کشور را به لبه پرتگاه درگیری کشانده است.",
+            "تداوم این روند شکنندگی اقتصادی را به شدت بالا برده و ریسک تنش نظامی را بیشتر کرده است."
+        ],
+        "impact": "تشدید بحران اقتصادی و افزایش احتمال بروز تنش‌های نظامی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Devpolicy Blog from the Development Policy Centre",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGNicEh4bk5xcnBfOXhfLWJrSlpWMEZXOEFjd0lDZHM4NnZWbkF0RXBFakpncndIVW1uN1kzYVZQTlZ6SWRrVzVnR3hBTWpVVnJ4M2V5ZGN5QlhZUFhwV09pSGV3X1VKRXJ5OG50N1Z1RWNxYVdvN3I1LU50dS1DVzJ0ZWkwa1g5YWtFQTl6aVhlU3Vk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGNicEh4bk5xcnBfOXhfLWJrSlpWMEZXOEFjd0lDZHM4NnZWbkF0RXBFakpncndIVW1uN1kzYVZQTlZ6SWRrVzVnR3hBTWpVVnJ4M2V5ZGN5QlhZUFhwV09pSGV3X1VKRXJ5OG50N1Z1RWNxYVdvN3I1LU50dS1DVzJ0ZWkwa1g5YWtFQTl6aVhlU3Vk",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794251020.0
+    },
+    {
         "id": "c12208def7",
         "title_fa": "هشدار صریح ترامپ: سه ناو هواپیمابر آماده اقدام نظامی‌اند",
         "title_en": "Iran just got handed a warning from Trump: Three aircraft carriers are fully locked and loaded, and dozens of bridges are in his sights",
@@ -5483,24 +5501,5 @@
         "clean_url": "https://www.eurasiareview.com/05112026-iran-compromise-or-catastrophe-oped",
         "image": "https://www.eurasiareview.com/wp-content/uploads/2026/04/a-218.jpeg",
         "timestamp": 1793912940.0
-    },
-    {
-        "id": "a0bb11ea77",
-        "title_fa": "ادعاهای مسکو علیه غرب و دولت اوکراین",
-        "title_en": "'Anti-Russia' plan's dead end, torture in Ukraine, Pashinyan tricks: MFA comment",
-        "summary": [
-            "ماریا زاخارووا با تکرار ادعاهای همیشگی، غرب را به خستگی از حمایت مالی از کی‌یف متهم کرد.",
-            "حمله لفظی به پاشینیان نشان‌دهنده نارضایتی شدید روسیه از چرخش ارمنستان به سمت غرب است.",
-            "تهدید به اقدامات متقابل در قطب شمال، بخشی از استراتژی نظامی روسیه برای نمایش قدرت در جبهه‌های جدید است."
-        ],
-        "impact": "تلاش روسیه برای بازسازی تصویر قدرت خود در میانه فرسایش جنگ اوکراین.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2213567",
-        "clean_url": "https://tass.com/politics/2213567",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261106/1492091.jpg",
-        "timestamp": 1793912520.0
     }
 ]
