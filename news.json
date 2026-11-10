@@ -36,6 +36,24 @@
         "timestamp": 1794307961.0
     },
     {
+        "id": "04b8ef3837",
+        "title_fa": "ریزش نفت برنت زیر ۹۰ دلار با فروکش کردن تنش‌ها",
+        "title_en": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
+        "summary": [
+            "بهای نفت برنت برای نخستین بار از ماه اوت به زیر ۹۰ دلار سقوط کرد.",
+            "امیدواری بازار به کاهش تنش‌ها و دور شدن سایه جنگ از خاورمیانه عامل اصلی این افت قیمت است."
+        ],
+        "impact": "کاهش درآمدهای نفتی ج.ه.ا همزمان با فروکش کردن هیجان جنگی در بازارهای جهانی.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y2hNRTN0UVJqLWY0eVd0dWp2T3RWWC1UTXRXUUNnem9BY09QT3FfdUxDdktQX2ZVd195a3Bpd3NGV3ZmQU05Mk9uUllGZlRmYnR5NXVycGJQMmVnSnc3cVpVNGhzRmN6dlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y2hNRTN0UVJqLWY0eVd0dWp2T3RWWC1UTXRXUUNnem9BY09QT3FfdUxDdktQX2ZVd195a3Bpd3NGV3ZmQU05Mk9uUllGZlRmYnR5NXVycGJQMmVnSnc3cVpVNGhzRmN6dlE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794307129.0
+    },
+    {
         "id": "193692df55",
         "title_fa": "هشدار فرانسه به ج.ا درباره حملات سایبری سپاه به زیرساخت‌ها",
         "title_en": "France warns Iran of retaliation over IRGC hack of supermarket freezers",
@@ -5480,24 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFhGNXZMbUYyVnlhZkNtaUttSjd2d3l5a3p2SVJSdDc2NThqaTBNa0U2WHJlRnluWndDWkxNcnRJZHI5enJJNi1xVV8zRzhwX0ZvejFkZ1BoaEx6bWVZOU80TWVad3BWNWRJeGF2bHNJdmg2azVPT3FqWWhDT1A3YkktRjZLaDJkRTlHbTNKUmdNb2xqZGVWVlczYlk3akpUSlpvVzZ4bWRqbTZsdFdWaExmLUlZYjZoZ1FlN2N6OFkxR1pDaW1ycTBBN2Z4bHBsUE9J",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793967662.0
-    },
-    {
-        "id": "e8ae553f06",
-        "title_fa": "بن‌بست در واشنگتن و گزینه‌های دشوار ترامپ در قبال ج.ا",
-        "title_en": "'No Good Options' for Iran War After President Trump's Midterm Defeat",
-        "summary": [
-            "شکست میان‌دوره‌ای دموکرات‌ها و تغییر معادله قدرت در آمریکا، مسیر تصمیم‌گیری درباره ایران را پیچیده‌تر کرده است.",
-            "حملات اخیر ارتش آمریکا به جزیره قشم نشان داد که فضای شکننده کنونی می‌تواند به سرعت به درگیری نظامی منجر شود.",
-            "تهران شکست جمهوری‌خواهان را نشانه ضعف مخالفان می‌داند، اما ترامپ همچنان اهرم فشار حداکثری را در دست دارد."
-        ],
-        "impact": "افزایش ریسک تنش نظامی و بلاتکلیفی در بازارهای مالی به دلیل نبود چشم‌انداز روشن برای توافق یا درگیری.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Media Line",
-        "url": "https://themedialine.org/top-stories/no-good-options-for-iran-war-after-president-trumps-midterm-defeat/",
-        "clean_url": "https://themedialine.org/top-stories/no-good-options-for-iran-war-after-president-trumps-midterm-defeat",
-        "image": "https://themedialine.org/wp-content/uploads/2026/04/GettyImages-2269545528-e1775507889433-564x317.jpg",
-        "timestamp": 1793966820.0
     }
 ]
