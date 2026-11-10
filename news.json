@@ -440,6 +440,24 @@
         "timestamp": 1794294720.0
     },
     {
+        "id": "6c73048564",
+        "title_fa": "تکذیب دیدار محسن رضایی و معاون ترامپ",
+        "title_en": "Iran denies reports of meeting between Rezaei and Vance",
+        "summary": [
+            "عباس عراقچی خبر دیدار محسن رضایی با جی‌دی ونس را شایعه رسانه‌ای خواند.",
+            "محمد دادکان در یک مصاحبه از پوچ بودن شعارهای حکومت و هزینه سنگین مقابله با آمریکا انتقاد کرد."
+        ],
+        "impact": "تلاش دستگاه دیپلماسی برای پنهان کردن ابعاد رایزنی‌های پشت پرده با واشنگتن.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611109608",
+        "clean_url": "https://www.iranintl.com/en/202611109608",
+        "image": "http://www.bing.com/th?id=ONUT.PGxNzuAv3lMFcokUGgp0UA&pid=News",
+        "timestamp": 1794294540.0
+    },
+    {
         "id": "df9d073e99",
         "title_fa": "تـرـامـپ: درگیری با ایران به زودی تمام می‌شود و حمله جدیدی در کار نیست",
         "title_en": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
@@ -5482,24 +5500,5 @@
         "clean_url": "https://home.treasury.gov/news/press-releases/sb0685",
         "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
         "timestamp": 1793995200.0
-    },
-    {
-        "id": "90c51aa237",
-        "title_fa": "حمله محدود ارتش ترامپ به پدافند هوایی در قشم",
-        "title_en": "US military carries out new targeted strike on Iran as Tehran's leaders weigh mediator's proposals",
-        "summary": [
-            "دونالد ترامپ تایید کرد ارتش ایالات متحده روز جمعه حملات محدودی را علیه سیستم‌های پدافندی ج.ا در جزیره قشم انجام داده است.",
-            "رسانه‌های داخلی از شنیده شدن صدای دو انفجار در منطقه سوزا خبر دادند.",
-            "ترامپ این اقدام نظامی را یک عملیات کوچک و کوتاه مدت برای انهدام تجهیزات ضد هوایی توصیف کرد."
-        ],
-        "impact": "افزایش تنش‌های نظامی در آبراه استراتژیک تنگه هرمز و اثبات شکنندگی پدافند هوایی حاکمیت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Click2Houston",
-        "url": "https://www.click2houston.com/news/politics/2026/11/06/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals/",
-        "clean_url": "https://www.click2houston.com/news/politics/2026/11/06/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals",
-        "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/TLX6WYBYOFCVDOPCSYHHZ7SWIE.jpg?api_key=click2houston_85fdeb57f8cd3635",
-        "timestamp": 1793993640.0
     }
 ]
