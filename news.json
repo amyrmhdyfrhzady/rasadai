@@ -74,6 +74,25 @@
         "timestamp": 1794293912.0
     },
     {
+        "id": "3e1978b98f",
+        "title_fa": "بازگشت تحریم‌های کانادا علیه ۱۱ شریان حیاتی نفتی و بانکی ایران",
+        "title_en": "Canada Reimposes Sanctions on 11 Iranian Entities",
+        "summary": [
+            "کانادا تمام معافیت‌های برجامی سال ۲۰۱۶ را لغو کرد و غول‌های نفتی و بانکی مانند شرکت ملی نفت، شرکت ملی نفت‌کش، بانک ملت و بانک ملی را مجدداً وارد لیست سیاه کرد.",
+            "این اقدام ضربه‌ای مستقیم به کانال‌های مالی و راه‌های دور زدن تحریم‌ها توسط تهران در بازارهای بین‌المللی است.",
+            "بازگشت این تحریم‌ها توسط اوتاوا، فشار سیاسی بر کشورهای اروپایی را برای پایان دادن به ارفاق‌های برجامی افزایش می‌دهد."
+        ],
+        "impact": "تنگ‌تر شدن حلقه انزوای بانکی و اخلال در شبکه‌های مویرگی فروش نفت و انتقال ارز.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Mirage News",
+        "url": "https://www.miragenews.com/canada-reimposes-sanctions-on-11-iranian-1774803/",
+        "clean_url": "https://www.miragenews.com/canada-reimposes-sanctions-on-11-iranian-1774803",
+        "image": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg",
+        "timestamp": 1794292140.0
+    },
+    {
         "id": "90c0ca837a",
         "title_fa": "ترامپ: حمله نظامی مجدد به ای-ران بسیار بعید است",
         "title_en": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely'",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUThiN0NwU21IOGpDZzZXYjNjN0NZQXQwbnZ6NGVhdDBCeWdDOVR5RXdnamczRWRzWG8yUWZ5bDc5U0V3dkU4ZzRkMTR6Y0FSVWM2dFhNZXlmaEx2TW1ibE5KZndkc1RIWFZLWHVXOXdzTFhGZmpzV3B1dGtsbnBJSG5JaUJsdTY2amc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793960854.0
-    },
-    {
-        "id": "c817d7c23a",
-        "title_fa": "حمله به چند کشتی در خلیج فارس و نوسان نفت",
-        "title_en": "More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge",
-        "summary": [
-            "امنیت خطوط کشتیرانی در خلیج فارس بار دیگر با چالش جدی روبرو شده و چندین فروند کشتی هدف حملات ناشناس قرار گرفته‌اند.",
-            "بازار انرژی بلافاصله به این ناامنی‌ها واکنش نشان داده و قیمت نفت بخشی از افت اخیر خود را جبران کرده است."
-        ],
-        "impact": "افزایش ریسک تجارت دریایی و جهش دوباره هزینه‌های حمل‌ونقل انرژی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDROS29td1ZxNlFndnlTQnU4LVVwTXg1OW9kemVlQmx4M1pZTFlOd21RNnJhcnBVNENOSEpjT2YyWC1DMVhXcHFpNHBMUlF6Mk9NeVFmV19RVnpZTkl0RVE1YjFYVk5JRFZBVFJQbGtlaVFQS2FCazJKWWNQRUVOaDdNdzBuUU1z?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDROS29td1ZxNlFndnlTQnU4LVVwTXg1OW9kemVlQmx4M1pZTFlOd21RNnJhcnBVNENOSEpjT2YyWC1DMVhXcHFpNHBMUlF6Mk9NeVFmV19RVnpZTkl0RVE1YjFYVk5JRFZBVFJQbGtlaVFQS2FCazJKWWNQRUVOaDdNdzBuUU1z",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793960580.0
     }
 ]
