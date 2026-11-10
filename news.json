@@ -1,5 +1,23 @@
 [
     {
+        "id": "e43611b0aa",
+        "title_fa": "شکایت تهران به سازمان ملل از پاداش دلاری آمریکا برای اطلاعات هسته‌ای",
+        "title_en": "Iran urges UN, IAEA to condemn US offer of $20M for nuclear information",
+        "summary": [
+            "تهران از سازمان ملل و آژانس اتمی خواست پاداش ۲۰ میلیون دلاری آمریکا در ازای دریافت اطلاعات هسته‌ای را محکوم کنند.",
+            "این واکنش نشان‌دهنده نگرانی شدید دستگاه امنیتی از شکاف حفاظتی و لو رفتن سایت‌ها و برنامه‌های اتمی پنهانی است."
+        ],
+        "impact": "افزایش فشار اطلاعاتی و امنیتی بر برنامه اتمی و ترس از ریزش نیروهای داخلی.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkZwengyQ0hrdlpsX1lqcFA0Mklka1h2UUFWY0hMd0xMaGMyTnE2T3dxUmk1WlVBWERYRGlscW9rdFZwaDNYNkNhcFNFY0tmb2FRRlBfWjJOaHFjZjFmdkNpWG9uWkhBVmVmbU5OYnJnc0pHektpVTF0Zk1VdlIyQlpGQXZORGtlYjlXR3lEYkpBSkNzODJkLVpkeGlidzlGUkxydUo5eW9rd2JoTHBz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkZwengyQ0hrdlpsX1lqcFA0Mklka1h2UUFWY0hMd0xMaGMyTnE2T3dxUmk1WlVBWERYRGlscW9rdFZwaDNYNkNhcFNFY0tmb2FRRlBfWjJOaHFjZjFmdkNpWG9uWkhBVmVmbU5OYnJnc0pHektpVTF0Zk1VdlIyQlpGQXZORGtlYjlXR3lEYkpBSkNzODJkLVpkeGlidzlGUkxydUo5eW9rd2JoTHBz",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794350865.0
+    },
+    {
         "id": "1be2c98788",
         "title_fa": "بررسی گزینه‌های نظامی ترامپ و نتانیاهو علیه ج.ا",
         "title_en": "Trump and Netanyahu Explored all Iran Options Including Attack, Israeli Official Says",
@@ -625,6 +643,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWFtaE5ELVhSMXdxeDNTZmtmRjZCWXhpM1hnb3JfS2VmeGJSYk1TYlVob1ZxMEhydVlMMEozNzdieTZmRzdHcW40MmVBdzJ6X0tfbjgyeGZEcDM5ZkhMVWlkdUdGZ2h4ajdpN1RXMEp3cXJTZ0dRVklwWEpseTh6SHJJUjlmTTJ5QzRFeV9MQ25VLWc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794318226.0
+    },
+    {
+        "id": "40f88811aa",
+        "title_fa": "ادعای علی خامنه‌ای درباره سرعت گرفتن زوال آمریکا",
+        "title_en": "Iran's supreme leader said 'US's collapse has accelerated.' Was he talking about the midterms?",
+        "summary": [
+            "رهبر جـمهوری اسـلامی مدعی شد روند فروپاشی ایالات متحده در عرصه جهانی سرعت بیشتری به خود گرفته است.",
+            "این سخنان در ادامه فرافکنی‌های همیشگی مقامات ارشد درباره بحران‌های داخلی و فرافکنی مشکلات اقتصادی کشور به سمت غرب مطرح شد."
+        ],
+        "impact": "تلاش برای روحیه دادن به بدنه داخلی و نیروهای نیابتی با توسل به توهم فروپاشی دشمن.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Snopes on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/iran-s-supreme-leader-said-us-s-collapse-has-accelerated-was-he-talking-about-the-midterms/ar-AA2hacKM",
+        "clean_url": "https://www.msn.com/en-us/politics/government/iran-s-supreme-leader-said-us-s-collapse-has-accelerated-was-he-talking-about-the-midterms/ar-AA2hacKM",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794317940.0
     },
     {
         "id": "6a0c1d4d52",
@@ -5471,41 +5507,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4TXExMDQ5M1MwSXg4YVBNRHlOZWVKbUlDNkNsWnRGUlFxMERVYU5HS0QzTEpsOVdBY0k2M3hOTnU4amFXc2xBenNZUlZfOW9lWVlmeEdnRGI",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794025848.0
-    },
-    {
-        "id": "a51bc11822",
-        "title_fa": "شورش جمهوری‌خواهان کنگره علیه انتصاب استیون میلر",
-        "title_en": "House GOP erupts at Stephen Miller as Trump elevates him after midterm massacre: 'Megalomaniac'",
-        "summary": [
-            "نمایندگان جمهوری‌خواه از ارتقای میلر پس از شکست انتخاباتی خشمگین هستند",
-            "منتقدان او را فردی خودشیفته می‌دانند که باعث تفرقه بیشتر در حزب می‌شود"
-        ],
-        "impact": "تشدید شکاف و بی‌ثباتی در رهبری حزب جمهوری‌خواه",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/house-gop-erupts-at-stephen-miller-as-trump-elevates-him-after-midterm-massacre-megalomaniac/ar-AA2gX72J",
-        "clean_url": "https://www.msn.com/en-us/news/other/house-gop-erupts-at-stephen-miller-as-trump-elevates-him-after-midterm-massacre-megalomaniac/ar-AA2gX72J",
-        "image": "http://www.bing.com/th?id=ONUT.yQ64jVMFTPigqj4QdhGLeA&pid=News",
-        "timestamp": 1794025807.0
-    },
-    {
-        "id": "f7541b8ded",
-        "title_fa": "صدور حکم سنگین ۲۵ سال زندان برای معترض بازداشتی",
-        "title_en": "Iran sentences January protest detainee to 25 years in prison, rights group says",
-        "summary": [
-            "دادگاه انقلاب تهران حسین دارابی، از بازداشت‌شدگان اعتراضات سراسری را به اتهام واهی همکاری با دولت‌های متخاصم به ۲۵ سال زندان محکوم کرد.",
-            "این سرکوب‌های قضایی همزمان با تداوم فشارهای امنیتی بر خانواده زندانیان سیاسی و تلاش برای ایجاد فضای ارعبار در جامعه اجرا می‌شود."
-        ],
-        "impact": "تشدید روند صدور احکام طویل‌المدت برای معترضان توسط دستگاه قضایی ج.ا.",
-        "tag": "سرکوب",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611073373",
-        "clean_url": "https://www.iranintl.com/en/202611073373",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1794023820.0
     }
 ]
