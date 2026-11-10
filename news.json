@@ -36,6 +36,26 @@
         "timestamp": 1794333540.0
     },
     {
+        "id": "c1655459be",
+        "title_fa": "ادعای جنجالی سپاه درباره مین‌گذاری در تنگه هرمز",
+        "title_en": "Iran's Revolutionary Guards claim third tanker hit mine in Strait of Hormuz",
+        "summary": [
+            "سپاه با انتشار بیانیه‌ای مدعی برخورد سومین نفتکش با مین دریایی در تنگه هرمز شد.",
+            "این نهاد نظامی با ادبیاتی تهاجمی، حضور نیروهای آمریکایی در منطقه را به چالش کشید و آن‌ها را به فریب نفتکش‌ها متهم کرد.",
+            "ادعای انهدام رادارهای ساحلی آمریکا توسط سپاه، تلاشی برای تغییر موازنه قدرت و ایجاد فضای ناامنی در آب‌های بین‌المللی است.",
+            "این سناریوسازی‌ها با هدف افزایش تنش و ایجاد اختلال در مسیرهای حیاتی انرژی طراحی شده است."
+        ],
+        "impact": "افزایش شدید ریسک بیمه‌ای و ناامنی در مسیرهای ترانزیت نفت خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611100645",
+        "clean_url": "https://www.iranintl.com/en/202611100645",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1794332760.0
+    },
+    {
         "id": "e08529649a",
         "title_fa": "بازی دوگانه تهران با کارت اتمی زیر سایه تهدید ترامپ",
         "title_en": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
@@ -5480,24 +5500,5 @@
         "clean_url": "https://apnews.com/video/1-killed-and-2-others-injured-when-a-helicopter-crashes-into-bay-near-miami-officials-say-e3c1e9aced15474395e90de943c4bd68",
         "image": "http://www.bing.com/th?id=ONUT.7tttUZ4vuZg3mHfTL05uIg&pid=News",
         "timestamp": 1794010980.0
-    },
-    {
-        "id": "2413433ea8",
-        "title_fa": "هشدار صریح ترامپ هم‌زمان با تشدید درگیری‌ها در اصفهان و تنگه هرمز",
-        "title_en": "Iran-US War LIVE Updates: After Midterms, Trump Says He Prefers Not Destroying Iran But He May Have To",
-        "summary": [
-            "دونالد ترامپ با تاکید بر موضع سختگیرانه خود اعلام کرد تمایلی به نابودی ایران ندارد، اما اگر شرایط ایجاب کند در انجام آن تردید نخواهد کرد.",
-            "هم‌زمان با اعلام آتش‌سوزی چند نفتکش در تنگه هرمز و ادعای سپاه درباره تصرف پهپادهای آمریکایی، اخبار تاییدنشده‌ای از وقوع انفجار در اصفهان منتشر شده است.",
-            "پیشروی نیروهای یمنی علیه شبه‌نظامیان حوثی در الجوف نشان می‌دهد که فشار نظامی هم‌زمان در چند جبهه منطقه‌ای علیه محور تحت مدیریت تهران در حال اوج‌گیری است."
-        ],
-        "impact": "بالا رفتن بی‌سابقه خطر درگیری مستقیم نظامی و جهش فوری هزینه‌های بیمه و ترانزیت نفت در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-trump-weighs-fresh-strikes-on-iran-as-tehran-reacts-to-us-midterm-election-results-strait-of-hormuz-tensions-escalate-liveblog-156469353",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-trump-weighs-fresh-strikes-on-iran-as-tehran-reacts-to-us-midterm-election-results-strait-of-hormuz-tensions-escalate-liveblog-156469353",
-        "image": "http://www.bing.com/th?id=ONUT.FeWINM26V5AKzYvHRup_HQ&pid=News",
-        "timestamp": 1794009900.0
     }
 ]
