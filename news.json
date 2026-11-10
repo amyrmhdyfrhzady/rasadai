@@ -1,5 +1,24 @@
 [
     {
+        "id": "838bf3deda",
+        "title_fa": "ادعای جدید روسیه: موشک «فیلین» پدافند اوکراین را فلج کرده است",
+        "title_en": "Russia's Filin missile cripples Ukraine's air defense system — underground",
+        "summary": [
+            "رسانه‌های وابسته به کرملین مدعی‌اند موشک دوربرد و نقطه‌زن «فیلین» سیستم‌های پدافندی اوکراین را با چالش جدی و بن‌بست محاسباتی مواجه کرده است.",
+            "طبق این ادعا، سامانه‌های گران‌قیمتی مثل پاتریوت تنها راه مقابله با این موشک هستند که رهگیری مداوم آن برای کی‌یف از نظر اقتصادی ناممکن است.",
+            "این مانور خبری بیشتر در راستای جنگ روانی مسکو برای تضعیف روحیه پدافندی اوکراین و تخلیه ذخایر موشکی غرب ارزیابی می‌شود."
+        ],
+        "impact": "افزایش فشار روانی بر کی‌یف و تلاش مسکو برای تضعیف کارایی سامانه‌های پدافندی اهدایی غرب.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2215241",
+        "clean_url": "https://tass.com/defense/2215241",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1794296040.0
+    },
+    {
         "id": "c48cc6167e",
         "title_fa": "کاهش قیمت نفت و صعود بورس‌های آسیا با امید به کاهش تنش",
         "title_en": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGZJRGVaVkdJaDR5b1REaE5CdWQtY2ZlczBhUXFWT253Vi0tMkNoUVhSNUI0Rzlqbnc5UnVVS0lqN1kwVzZ3eTJ6ODByNlc5ck5HYmlkMEVyRzlrVDNFdk8zQ2JuRWdQLUdYc3ozNUVCc3hRSGhDc0tKNW9QY1A2ZVpMZC1PNGxqUU81QkQyZms0R1VxWUUzbTRLSmYyUTRvM0ZHVmVjdTRpZ2NxLUJkcFlQZzY",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793957926.0
-    },
-    {
-        "id": "6ecf0281b3",
-        "title_fa": "هشدار صریح ترامپ درباره نابودی ک-ام-ل ج-م-ه-و-ر-ی اس-لا-می",
-        "title_en": "Trump warns Iran could face destruction",
-        "summary": [
-            "دونالد ترامپ در موضعی بسیار تند، تهران را به نابودی کامل تهدید کرد.",
-            "این هشدار نشان‌دهنده بازگشت احتمالی سیاست فشار حداکثری و اتخاذ رویکردی سخت‌گیرانート در دوره جدید است."
-        ],
-        "impact": "افزایش شدید ریسک‌های امنیتی و تنش‌های نظامی در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Muslim Network TV",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iVVFCS1RkVTljWHdrY2pfVzBmZ191dGVnUDRjSDFHU3RMbUZzTWJYMGJDN1JrUm5ZZ3ZVODJUQkxpVGhudldsZ0c3MnR2OGFPU1c2bTRXTWYtTkg0SnlXT1lDXzhmZUtZNElUX0NUcVZiWDloRGF1Rg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iVVFCS1RkVTljWHdrY2pfVzBmZ191dGVnUDRjSDFHU3RMbUZzTWJYMGJDN1JrUm5ZZ3ZVODJUQkxpVGhudldsZ0c3MnR2OGFPU1c2bTRXTWYtTkg0SnlXT1lDXzhmZUtZNElUX0NUcVZiWDloRGF1Rg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793954450.0
     }
 ]
