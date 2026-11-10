@@ -477,6 +477,25 @@
         "timestamp": 1794301122.0
     },
     {
+        "id": "13b255bdf7",
+        "title_fa": "اعتراف ترامپ به وضعیت موجود در پرونده ایران",
+        "title_en": "Trump’s ‘Status Quo’ With Iran Is an Admission of Defeat",
+        "summary": [
+            "ترامپ اعلام کرد جنگ با ایران از نظر نظامی عملاً به پایان رسیده و آمریکا وضعیت موجود را حفظ می‌کند.",
+            "میدان انرژی خلیج فارس همچنان ناامن است و تنگه هرمز با محدودیت‌های شدیدی روبه‌روست.",
+            "حفظ ناوهای آمریکایی در منطقه نشان می‌دهد سیاست واشنگتن عملاً با بن‌بست مواجه شده است."
+        ],
+        "impact": "تداوم فضای ابهام و تنش فرسایشی بدون تعیین تکلیف نهایی بازار انرژی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-iran-status-quo-admission-defeat-12694638",
+        "clean_url": "https://www.newsweek.com/trump-iran-status-quo-admission-defeat-12694638",
+        "image": "http://www.bing.com/th?id=ONUT.OKJW8b8dRz64ONHhDJCuiw&pid=News",
+        "timestamp": 1794298620.0
+    },
+    {
         "id": "838bf3deda",
         "title_fa": "ادعای جدید روسیه: موشک «فیلین» پدافند اوکراین را فلج کرده است",
         "title_en": "Russia's Filin missile cripples Ukraine's air defense system — underground",
@@ -5481,23 +5500,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWU01Vm9TZzIzZFZjZHZoajA1cHZqOERZRG1SQzBqYmlBMEJ4RWRMMWNMOUg0UHhZSTRaa3hDTkMyQXpIN2gtTkN6WUptTmJsWkMxcl9RYklOOFhyWGJTRjNodkY0eGxSa3gwSTNXSGNSclkxWjZpaXpjSXFLVHl2NC1YZUxnd25Ed3p4U3FwTVhNdzVo",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794000296.0
-    },
-    {
-        "id": "e28066e129",
-        "title_fa": "ضربه خزانه داری آمریکا به شبکه مالی ج.م.ا در کانادا",
-        "title_en": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
-        "summary": [
-            "خزانه داری ایالات متحده شرکت های خدمات ارزی مستقر در کانادا را به دلیل همکاری در تراکنش های مالی مرتبط با ج.م.ا تحریم کرد.",
-            "این اقدام نشان دهنده مسدودسازی مسیرهای دور زدن تحریم ها و قطع شریان های پولشویی خارجی سیستم حاکم است."
-        ],
-        "impact": "بسته شدن کانال های کلیدی تبادلات ارزی خارج از کشور و تنگ تر شدن حلقه محاصره مالی ج.م.ا",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793998942.0
     }
 ]
