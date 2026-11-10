@@ -1,5 +1,41 @@
 [
     {
+        "id": "f4c02ac871",
+        "title_fa": "نوسان دلار در انتظار داده‌های تورمی آمریکا",
+        "title_en": "Dollar sellers hit pause for US inflation data",
+        "summary": [
+            "بازارها در انتظار داده‌های تورمی آمریکا برای تعیین نرخ بهره هستند",
+            "تنش‌های نظامی با ای-ران انتظارات برای افزایش نرخ بهره را تقویت کرده است"
+        ],
+        "impact": "تقویت دلار در بازارهای جهانی به دلیل نااطمینانی‌های ژئوپلیتیک",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/dollar-sellers-hit-pause-us-inflation-data-6537586",
+        "clean_url": "https://www.channelnewsasia.com/business/dollar-sellers-hit-pause-us-inflation-data-6537586",
+        "image": "https://www.bing.com/th?id=ONUT.sYg-Jk1rCMHOjfKxYSOyAg",
+        "timestamp": 1794276974.0755007
+    },
+    {
+        "id": "d78af28d1b",
+        "title_fa": "سقوط قیمت نفت با کاهش ریسک درگیری ای-ران",
+        "title_en": "Oil Falls as U.S.-Iran Conflict Risks Ease",
+        "summary": [
+            "کاهش تنش‌های نظامی منجر به عقب‌نشینی قیمت نفت شده است",
+            "بازارها به سیگنال‌های کاهش ریسک درگیری واکنش نشان دادند"
+        ],
+        "impact": "کاهش فشار بر قیمت انرژی در بازارهای جهانی",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGtQeENiZTdiN1dPVDFNWjY0SGlydGRDM0tVLWdUN1U3SzBjc3I1NWlseXhZQXRXbXNYcFJ0Y0lTSGctWUxiMXdUSDJTLVFjOEhJcU9USVhWVjlURUpaWndnRnFCYnNYdHJ6ZDlWTTFvSlNHVm1wdWJ6U2l1bDZVakdObE1yUUE1dUNLd3JWclpHTWhPRTZWSW1DWk9FTGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGtQeENiZTdiN1dPVDFNWjY0SGlydGRDM0tVLWdUN1U3SzBjc3I1NWlseXhZQXRXbXNYcFJ0Y0lTSGctWUxiMXdUSDJTLVFjOEhJcU9USVhWVjlURUpaWndnRnFCYnNYdHJ6ZDlWTTFvSlNHVm1wdWJ6U2l1bDZVakdObE1yUUE1dUNLd3JWclpHTWhPRTZWSW1DWk9FTGs",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794276240.0
+    },
+    {
         "id": "75add18325",
         "title_fa": "ضرب‌الاجل ترامپ به تهران: توافق یا نابودی زیرساخت‌ها در یک ساعت",
         "title_en": "Trump says Iran war 'effectively over' militarily, but US ready to strike again",
@@ -422,6 +458,42 @@
         "timestamp": 1794244722.0
     },
     {
+        "id": "a47eacc19d",
+        "title_fa": "ورود وزارت دادگستری به پرونده قاچاق تراشه‌های انویدیا",
+        "title_en": "Justice Department took over chip probe after Nvidia contacted federal investigators",
+        "summary": [
+            "وزارت دادگستری تحقیقات درباره انتقال غیرقانونی تراشه‌های هوش مصنوعی به چین را در دست گرفت",
+            "انویدیا مستقیماً با بازرسان فدرال برای مدیریت این بحران تماس گرفته است"
+        ],
+        "impact": "افزایش فشار نظارتی بر غول‌های تکنولوژی در حوزه امنیت ملی",
+        "tag": "تکنولوژی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/tech/tech-news/nvidia-investigation-justice-fbi-commerce-jensen-huang-alice-china-rcna608397",
+        "clean_url": "https://www.nbcnews.com/tech/tech-news/nvidia-investigation-justice-fbi-commerce-jensen-huang-alice-china-rcna608397",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241026-Nvidia-ch-1134-892cf0.jpg",
+        "timestamp": 1794243960.0
+    },
+    {
+        "id": "fbd541f677",
+        "title_fa": "کاهش موقت آلاینده‌های جهانی در پی جنگ با ای-ران",
+        "title_en": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year",
+        "summary": [
+            "تحقیقات نشان می‌دهد جنگ باعث افت ناگهانی تولید گازهای گلخانه‌ای شده است",
+            "محققان هشدار می‌دهند این کاهش به دلیل ماهیت بحران، پایدار نخواهد بود"
+        ],
+        "impact": "تغییرات اقلیمی تحت تاثیر مستقیم تنش‌های نظامی قرار گرفته است",
+        "tag": "محیط زیست",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
+        "clean_url": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
+        "image": "http://www.bing.com/th?id=ONUT.UkEIf-mZUOeZnrl_g9CbPQ&pid=News",
+        "timestamp": 1794243660.0
+    },
+    {
         "id": "6c020ce2cf",
         "title_fa": "هزینه سنگین جنگ با ایران برای جمهوری‌خواهان آمریکا",
         "title_en": "Rubio Defends Iran War As Republicans Reel From Crushing Election Losses",
@@ -457,6 +529,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794242683.0
+    },
+    {
+        "id": "e85edbbb56",
+        "title_fa": "تلاش برای استیضاح وزیر دفاع به اتهام جنگ غیرقانونی",
+        "title_en": "Massie introduces Hegseth impeachment articles, teeing up vote",
+        "summary": [
+            "توماس مسی طرح استیضاح پیت هگست را به دلیل جنگ بدون مجوز کنگره کلید زد",
+            "این اقدام نشان‌دهنده شکاف عمیق در واشنگتن بر سر مدیریت جنگ است"
+        ],
+        "impact": "ایجاد چالش حقوقی برای بدنه نظامی دولت ترامپ",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/massie-introduces-hegseth-impeachment-articles-teeing-up-vote/ar-AA2h5gWQ",
+        "clean_url": "https://www.msn.com/en-us/news/other/massie-introduces-hegseth-impeachment-articles-teeing-up-vote/ar-AA2h5gWQ",
+        "image": "http://www.bing.com/th?id=ONUT.D8CLjs_SEp_uKorqhjPr4A&pid=News",
+        "timestamp": 1794242172.0
     },
     {
         "id": "f433b9d5b4",
@@ -789,6 +879,24 @@
         "timestamp": 1794229535.0
     },
     {
+        "id": "15d4dc883f",
+        "title_fa": "دفاع تمام‌قد ترامپ از تصمیمات جنگی خود",
+        "title_en": "Trump’s 8-Word Reply To JD Vance’s Iran War Diss Called A ‘Striking Rebuke’",
+        "summary": [
+            "ترامپ جنگ با ای-ران را یکی از بهترین اقدامات تاریخی خود خواند",
+            "او با تایید مواضع جی‌دی ونس، بر درستی مسیر نظامی تاکید کرد"
+        ],
+        "impact": "تثبیت رویکرد تهاجمی ترامپ در سیاست خارجی",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trumps-8-word-reply-to-jd-vances-iran-war-diss-called-a-striking-rebuke_n_6af1e10ee4b0d2d11fa493a6",
+        "clean_url": "https://www.huffpost.com/entry/trumps-8-word-reply-to-jd-vances-iran-war-diss-called-a-striking-rebuke_n_6af1e10ee4b0d2d11fa493a6",
+        "image": "http://www.bing.com/th?id=ONUT.MvXGf-MfRyzgpQ8jm4f9iQ&pid=News",
+        "timestamp": 1794229500.0
+    },
+    {
         "id": "9636009d95",
         "title_fa": "کلید خوردن طرح استیضاح وزیر دفاع آمریکا بر سر جنگ با ایران",
         "title_en": "Hegseth impeachment effort begins in House, focused on Iran war",
@@ -916,6 +1024,24 @@
         "clean_url": "https://scanx.trade/stock-market-news/global/us-allows-3-67-uranium-enrichment-iran-iaea-talks-take-shape/55799174",
         "image": "https://news-images.dhan.co/us-allows-3-67-uranium-enrichment-iran-iaea-talks-take-shape.jpg",
         "timestamp": 1794224880.0
+    },
+    {
+        "id": "533f30e1fa",
+        "title_fa": "چرخش ترامپ در سیاست مهاجرتی پس از شکست میان‌دوره‌ای",
+        "title_en": "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
+        "summary": [
+            "دولت ترامپ احتمال معامله با دموکرات‌ها بر سر مهاجران غیرقانونی را رد نکرد",
+            "تلاش برای مدیریت بحران سیاسی پس از شکست در انتخابات کنگره"
+        ],
+        "impact": "تغییر اولویت‌های داخلی دولت برای حفظ قدرت در کنگره",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems",
+        "clean_url": "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems",
+        "image": "http://www.bing.com/th?id=ONUT.QUzGEva7XNKJB6Cmlq7GtQ&pid=News",
+        "timestamp": 1794223440.0
     },
     {
         "id": "8252f8b4f6",
@@ -5372,133 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmlmT3lPQzFLQllCZ1hQZ3Z5Wkl3ek1XeHdDVkJlcWJZZXI1eUNBdm1zMERMN3VCOGZoUTdNSXpBUVEyZWhJY00wc1liT3ZJNTJ6bTlwY183M0tJMzU0WHNiT2QxNTJLaXpBZ0hhUjkzMWtzM1hNUEtRZ3ZHQVZDeEY2dHlZV0dELTI4UWFIcUpERXM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1793944293.0
-    },
-    {
-        "id": "6ad61a16bd",
-        "title_fa": "منتفی شدن نامزدی هگست برای سنای تنسی",
-        "title_en": "Hegseth not considered for Marsha Blackburn's Senate seat in Tennessee",
-        "summary": [
-            "پیت هگست شانسی برای تصاحب کرسی سنای مارشا بلک‌برن ندارد.",
-            "این تصمیم معادلات سیاسی داخلی آمریکا را تحت تاثیر قرار می‌دهد."
-        ],
-        "impact": "تغییرات در مهره‌چینی‌های سیاسی داخلی ایالات متحده.",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/politics/2026/11/06/pete-hegseth-marsha-blackburn-senate-seat/92634868007/",
-        "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/06/pete-hegseth-marsha-blackburn-senate-seat/92634868007",
-        "image": "http://www.bing.com/th?id=ONUT.jiDG9Szhrc7Sd457xH9OeA&pid=News",
-        "timestamp": 1793942100.0
-    },
-    {
-        "id": "6ed8b57053",
-        "title_fa": "همکاری نظامی مسکو و تهران با موشک‌های پیشرفته پیش‌رفته",
-        "title_en": "Iran-linked ships go dark over Persian Gulf internet cables after threats",
-        "summary": [
-            "مدارک افشاشده نشان می‌دهد روسیه برنامه‌ای مخفی برای تجهیز ج.ه به موشک‌های پیشرفته ضدکشتی دارد.",
-            "پرتابگرهای موشک‌های هدایت‌شونده دقیق روسیه در لیست سفارش‌های تسلیحاتی تهران ثبت شده است."
-        ],
-        "impact": "افزایش جدی تهدیدات دریایی علیه نیروهای آمریکایی در خلیج فارس و تغییر موازنه نظامی منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611067103",
-        "clean_url": "https://www.iranintl.com/en/202611067103",
-        "image": "http://www.bing.com/th?id=ONUT._QAN1rIfUIe9CHQxhJsLJA&pid=News",
-        "timestamp": 1793941680.0
-    },
-    {
-        "id": "375be855f5",
-        "title_fa": "بازی دوگانه تهران همزمان با فشار میانجی‌گران",
-        "title_en": "Iran celebrates Trump's election defeat as mediators push for deal to end war",
-        "summary": [
-            "حاکمیت در ظاهر شکست ترامپ را جشن می‌گیرد اما در پشت پرده نگران بازگشت احتمالی سیاست فشار حداکثری است.",
-            "تلاش دیپلماتیک میانجی‌گران برای پایان دادن به درگیری‌ها با بن‌بست ناشی از لجاجت مقامات ر‌جـ.ـیـ.ـم روبروست."
-        ],
-        "impact": "آشفتگی در تصمیم‌گیری‌های کلان اقتصادی و امنیتی همزمان با تحولات بین‌المللی",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1",
-        "clean_url": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1",
-        "image": "https://images.ft.com/v3/image/raw/https://d1e00ek4ebabms.cloudfront.net/production/76a554bf-64a6-4c0e-a39a-2cad30cfd97c.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-        "timestamp": 1793941200.0
-    },
-    {
-        "id": "251de7d984",
-        "title_fa": "آمادگی نظامی آمریکا و تقلاهای دیپلماتیک تهران همزمان با تهدیدات ترامپ",
-        "title_en": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-        "summary": [
-            "فرماندهی مرکزی آمریکا سنتکام در حال آماده‌سازی برای از سرگیری عملیات نظامی علیه جـ.ـهـ.ـوری اسـ.ـلامـ.ـی است.",
-            "دونالد ترامپ تاکید کرده که شاید آمریکا مجبور به نابودی باقی‌مانده زیرساخت‌های این حکومت شود.",
-            "تهران هم‌زمان دست‌به‌دامن واسطه‌های منطقه‌ای از جمله قطر و امارات شده و طرحی هفت‌ماده‌ای ارائه کرده است."
-        ],
-        "impact": "افزایش شدید احتمال درگیری نظامی در صورت بی‌نتیجه ماندن رایزنی‌های پشت پرده.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/russia-uae-iran-steps-diplomacy-125733775.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/russia-uae-iran-steps-diplomacy-125733775.html",
-        "image": "http://www.bing.com/th?id=ONUT.rCVNuwY8VDpcsP4ncaBIyg&pid=News",
-        "timestamp": 1793941020.0
-    },
-    {
-        "id": "0c375fe7fa",
-        "title_fa": "توافق پنهانی واشنگتن و تهران روی پرونده اتمی",
-        "title_en": "US, Iran inch closer to peace deal as Tehran considers nuclear proposals",
-        "summary": [
-            "تهران و واشنگتن با میانج‌گری قطر به توافق احتمالی نزدیک شده‌اند و جمهوری اسلامی پذیرفته درباره برنامه هسته‌ای خود که خط قرمز بود مذاکره کند.",
-            "دونالد ترامپ برای کاهش تنش‌ها و جلوگیری از هزینه‌های سیاسی بیشتر، شخصاً با رهبر قطر گفت‌وگو کرده تا راهی برای خروج از بن‌بست پیدا کند."
-        ],
-        "impact": "عقب‌نشینی احتمالی هسته‌ای تهران می‌تواند دلار را در بازار آزاد با ریزش سنگین مواجه کند.",
-        "tag": "هسته ای",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/us-iran-inch-closer-to-peace-deal-as-tehran-considers-nuclear-proposals-article-14073524.html",
-        "clean_url": "https://www.moneycontrol.com/world/us-iran-inch-closer-to-peace-deal-as-tehran-considers-nuclear-proposals-article-14073524.html",
-        "image": "http://www.bing.com/th?id=ONUT.4njrzqhGg0K1PLkNU9ml_g&pid=News",
-        "timestamp": 1793940840.0
-    },
-    {
-        "id": "03eb616633",
-        "title_fa": "جهش نفت به بالای ۱۰۰ دلار با تنش واشنگتن و تهران",
-        "title_en": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
-        "summary": [
-            "شرکت انرژی راپیدان هشدار داد بالا گرفتن درگیری‌ها بین ایالات متحده و جمهوری اسلامی قیمت نفت را منفجر می‌کند.",
-            "بازار جهانی انرژی خود را برای شوک‌های جدید ناشی از بحران خاورمیانه آماده می‌کند."
-        ],
-        "impact": "افزایش قیمت سوخت و فشار بیشتر بر اقتصاد شکننده داخل",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZXJrYkJKMnZienpycEJReHZ6MWVUMTBlLXZQUnl2Q3FfU2NsLXNQSVcxREswWENMUVFCQnJtWjVoN3JuTUJRU1pMRVRzd2diaEdzVkxjNnZVZzU3NUJTSVc1bXphcF9aQWZ0aVpnUWkxWU5IM2JFaVFrSTJKNTjSAYQBQVVfeXFMTkhmWnBwU29Nblh1UjVhR25KS0tCbGRTZ0haWnRCZWJzeU85OUJKb3FHbGxxYnFoZzVVdkRvV0hhWjVGakR1SVBVcEhMdXJmT2M2YUpINFVkR0dQUFd3ZEg2YnNwdVBnRS1pamxQRU8zX3NTSzVxSTBIb1duZWtjanFQbzl3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZXJrYkJKMnZienpycEJReHZ6MWVUMTBlLXZQUnl2Q3FfU2NsLXNQSVcxREswWENMUVFCQnJtWjVoN3JuTUJRU1pMRVRzd2diaEdzVkxjNnZVZzU3NUJTSVc1bXphcF9aQWZ0aVpnUWkxWU5IM2JFaVFrSTJKNTjSAYQBQVVfeXFMTkhmWnBwU29Nblh1UjVhR25KS0tCbGRTZ0haWnRCZWJzeU85OUJKb3FHbGxxYnFoZzVVdkRvV0hhWjVGakR1SVBVcEhMdXJmT2M2YUpINFVkR0dQUFd3ZEg2YnNwdVBnRS1pamxQRU8zX3NTSzVxSTBIb1duZWtjanFQbzl3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793940360.0
-    },
-    {
-        "id": "278a4b5237",
-        "title_fa": "پشت پرده معامله گازوئیل روسیه و آمریکا و شوک به اروپا",
-        "title_en": "Russia-US diesel deal caused panic in Europe — NATO chief",
-        "summary": [
-            "معامله اخیر مسکو و واشنگتن برای تامین گازوئیل، زلزله سیاسی و اقتصادی در پایتخت‌های اروپایی ایجاد کرده است.",
-            "دبیرکل ناتو با وجود انتقاد از این معامله، به دلیل حفظ اتحاد غرب از ورود عمیق به جزئیات آن خودداری کرد.",
-            "تناقض رفتاری اروپا آشکار است؛ در حالی که از معامله گازوئیل وحشت‌زده شده‌اند، همچنان میلیاردها یورو گاز طبیعی از روسیه می‌خرند."
-        ],
-        "impact": "ترک خوردن دیوار تحریم‌های انرژی و افزایش بی‌اعتمادی میان اروپا و واشنگتن",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2213861",
-        "clean_url": "https://tass.com/economy/2213861",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261106/1492139.jpg",
-        "timestamp": 1793939580.0
     }
 ]
