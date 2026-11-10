@@ -237,6 +237,26 @@
         "timestamp": 1794276974.0755007
     },
     {
+        "id": "eaed65111e",
+        "title_fa": "ترامپ: توان نظامی ج.ا تمام شده و نیازی به حمله نیست",
+        "title_en": "US moves aircraft out of second British base over Iran threat",
+        "summary": [
+            "ترامپ با اعلام پایان قدرت نظامی ج.ا، اولویت فعلی را حفظ وضعیت موجود و دیپلماسی با میانجی‌گری قطر عنوان کرد.",
+            "تداوم عملیات «دروازه آهنین» و محاصره دریایی، ابزار فشار اصلی واشنگتن برای مهار تهران باقی می‌ماند.",
+            "ترامپ مدعی است حاکمیت ج.ا پذیرفته که هرگز به سلاح هسته‌ای دست نخواهد یافت.",
+            "فشار کشورهای همسایه و پیامدهای اقتصادی جنگ بر انتخابات آمریکا، عامل اصلی تغییر رویکرد کاخ سفید است."
+        ],
+        "impact": "توقف حملات مستقیم نظامی در ازای تداوم خفگی اقتصادی و محاصره دریایی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611107338",
+        "clean_url": "https://www.iranintl.com/en/202611107338",
+        "image": "http://www.bing.com/th?id=ONUT.FREbZd3MiklCEkdHLCcIVQ&pid=News",
+        "timestamp": 1794276480.0
+    },
+    {
         "id": "a5f39964ac",
         "title_fa": "ترامپ پس از دیدار با نخست‌وزیر قطر: ایران از نظر نظامی تمام شده است",
         "title_en": "Iraqi PM seeks approval to arrest Iran-backed factions after Khor Mor attacks",
@@ -5479,23 +5499,5 @@
         "clean_url": "https://themedialine.org/top-stories/no-good-options-for-iran-war-after-president-trumps-midterm-defeat",
         "image": "https://themedialine.org/wp-content/uploads/2026/04/GettyImages-2269545528-e1775507889433-564x317.jpg",
         "timestamp": 1793966820.0
-    },
-    {
-        "id": "89510c3fa3",
-        "title_fa": "تصمیم سرنوشت‌ساز ترامپ درباره ایران",
-        "title_en": "Opinion | Trump’s Legacy-Defining Decision on Iran",
-        "summary": [
-            "وال‌استریت ژورنال در یادداشتی به بررسی تصمیم تاریخی دونالد ترامپ در قبال جـ...ـهوری اسـ...ـلامی پرداخته است.",
-            "این تصمیم می‌تواند به عنوان یکی از مهم‌ترین نقاط عطف در سیاست خارجی دولت آینده آمریکا رقم بخورد."
-        ],
-        "impact": "سیاست‌های فشار حداکثری آمریکا وارد فاز تازه‌ای خواهد شد که مستقیماً اقتصاد و معادلات امنیتی را تحت تأثیر قرار می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX25DYzhuNl9MbFFzU29IWUJ6NS1CZjFvc3NYcmdlRlNVQmJNMTF2NFZydnRwcnVmTzRZSEZjSkh3QVFQclJUUkZ4QzBDeWZpUFRWUUZBaVJiSy1LLXVlWmhJaFprSFVoUFZQS2N2NmFwdG1oYW5vbzd4aGFPcEFfc0hHN01ieEt4WHhVQTRpWDJWV2VfRU9B?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX25DYzhuNl9MbFFzU29IWUJ6NS1CZjFvc3NYcmdlRlNVQmJNMTF2NFZydnRwcnVmTzRZSEZjSkh3QVFQclJUUkZ4QzBDeWZpUFRWUUZBaVJiSy1LLXVlWmhJaFprSFVoUFZQS2N2NmFwdG1oYW5vbzd4aGFPcEFfc0hHN01ieEt4WHhVQTRpWDJWV2VfRU9B",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793963760.0
     }
 ]
