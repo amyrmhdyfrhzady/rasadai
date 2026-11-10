@@ -1,5 +1,25 @@
 [
     {
+        "id": "a0bdf09165",
+        "title_fa": "طراحی حمله به پایگاه هوایی آمریکا از داخل زندان",
+        "title_en": "Iran-backed operative plotted attack on US aircraft in UK from prison",
+        "summary": [
+            "محمد الساعدی، عامل وابسته به سـپـاه، از داخل زندان آمریکا برای حمله به پایگاه هوایی بریتانیا برنامه‌ریزی کرده است.",
+            "این فرد با استفاده از تماس‌های تلفنی رمزگذاری شده با خانواده‌اش در عراق، دستورات عملیاتی را به همدستانش در ایران منتقل می‌کرده است.",
+            "شبکه مرتبط با این فرد مستقیماً با سـپـاه پاسداران در ارتباط بوده و قصد هدف قرار دادن هواپیماهای نظامی آمریکا را داشتند.",
+            "این نفوذ امنیتی نشان می‌دهد که عوامل وابسته به ج.ا حتی در حبس نیز به شبکه عملیاتی خود دسترسی دارند."
+        ],
+        "impact": "افزایش شدید نظارت‌های امنیتی بر زندانیان مرتبط با گروه‌های نیابتی و تشدید فشار بر شبکه برون‌مرزی سـپـاه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611101051",
+        "clean_url": "https://www.iranintl.com/en/202611101051",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/73da0862b29a4bbe2a787a4affb556bc70eb1337-700x402.jpg?rect=0,4,700,394&w=576&h=324&q=90&fit=max&auto=format",
+        "timestamp": 1794341700.0
+    },
+    {
         "id": "ea6b87e80c",
         "title_fa": "پاداش میلیونی آمریکا برای اطلاعات از برنامۀ اتمی تـک‌رژی",
         "title_en": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
@@ -5483,23 +5503,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-sends-nuclear-proposal-to-us-with-7-conditions-amid-trump-s-threat-to-destroy-tehran-here-s-what-they-are/ar-AA2gXdKR",
         "image": "http://www.bing.com/th?id=ONUT.xBW7WPqUY7y2CH-9apAQ4A&pid=News",
         "timestamp": 1794017463.0
-    },
-    {
-        "id": "8814d3eb99",
-        "title_fa": "شکست مهره‌های ترامپ و بالا گرفتن انتقادها درون حزب جمهوری‌خواه",
-        "title_en": "Graham, Paxton and Ramaswamy lost. Some blame Trump for choosing them",
-        "summary": [
-            "باخت چهره‌هایی مثل گراهام، پاکستون و راماسوامی باعث شده برخی انگشت اتهام را به سمت انتخاب‌های شخص ترامپ بگیرند.",
-            "شکست این افراد زنگ خطری برای نفوذ مستقیم ترامپ بر روند گزینش نامزدهای انتخاباتی است."
-        ],
-        "impact": "تشدید اختلاف‌نظرها درون اردوگاه جمهوری‌خواهان آمریکا",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/news/politics/elections/2026/11/07/graham-paxton-ramaswamy-trump-endorsed-losers/92615526007/",
-        "clean_url": "https://www.freep.com/story/news/politics/elections/2026/11/07/graham-paxton-ramaswamy-trump-endorsed-losers/92615526007",
-        "image": "http://www.bing.com/th?id=ONUT.OcKgY7j-orf6BoyXhV4INg&pid=News",
-        "timestamp": 1794017100.0
     }
 ]
