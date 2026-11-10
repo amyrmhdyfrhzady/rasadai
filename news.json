@@ -956,6 +956,24 @@
         "timestamp": 1794279360.0
     },
     {
+        "id": "6dcca24e2c",
+        "title_fa": "مارکو روبیو: فشارهای اقتصادی نیازی به اقدام نظامی علیه ای-ران نگذاشته است",
+        "title_en": "Rubio says ‘no need’ to attack Iran as diplomacy gathers pace",
+        "summary": [
+            "وزیر خارجه آمریکا اعلام کرد با توجه به شدت گرفتن تحریم‌های اقتصادی، فعلاً نیازی به عملیات نظامی بزرگ نیست.",
+            "تلاش‌های دیپلماتیک برای حل مناقشه و بازگشایی تنگه هرمز در جریان است."
+        ],
+        "impact": "کاهش تنش‌های نظامی فوری و اثرگذاری مستقیم بر ثبات نسبی بازار نفت.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/rubio-says-no-need-to-attack-iran-as-diplomacy-gathers-pace-3011001",
+        "clean_url": "https://www.arabnews.com/middle-east/rubio-says-no-need-to-attack-iran-as-diplomacy-gathers-pace-3011001",
+        "image": "http://www.bing.com/th?id=ONUT.J0SPArme689A_PFbGZJw3A&pid=News",
+        "timestamp": 1794277500.0
+    },
+    {
         "id": "f4c02ac871",
         "title_fa": "نوسان دلار در انتظار داده‌های تورمی آمریکا",
         "title_en": "Dollar sellers hit pause for US inflation data",
@@ -5481,24 +5499,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa2UzcGQ0SEZVM2hpUWg3Vm91RHFueFU2cXEyX2YwWkRLanRPT0pYSlI0aVlpcW8xQ05ucUJUZHJ1eTNFREdQRVhhS0tnTnkwMTNEblVCLVo5YmlSNWZDMzREYVRsTC1GRUZZd0tyRkJDdE5SWDZFTFB5VHlOcjE2Zl92VHZPNzZ1c1NkSlRXZDlPR2dKZHFFeVduNjNmNy1JTTJQUDlwZlBXeDdjWjAwRWdHQU5mUGwzY3pGeG1zMjRiOHdZWVRnYzV2d0dTSnNJX0VMV1I2aFJ0djZoTEQ2VE14eEQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794007400.0
-    },
-    {
-        "id": "741393bfef",
-        "title_fa": "مسدودسازی کانال‌های مالی صرافی MEXC به دلیل ارتباط با ایران",
-        "title_en": "FinCEN Bars U.S. Financial Institutions From Moving Funds for MEXC After $16.7 Billion Finding",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا صرافی مکس‌سی را به جابجایی ۱۶.۷ میلیارد دلار پول مرتبط با فعالیت‌های غیرقانونی متهم کرد.",
-            "این دستور نهاد نظارتی، بانک‌های آمریکایی را از هرگونه تراکنش مالی با این صرافی منع می‌کند.",
-            "مقام ارشد خزانه‌داری آمریکا تأکید کرد که دسترسی به سیستم مالی این کشور با حمایت مالی از ساختار حکومت ایران همخوانی ندارد."
-        ],
-        "impact": "بسته‌شدن یکی از مسیرهای کلیدی تبادل ارزهای دیجیتال و دورزدن تحریم‌ها",
-        "tag": "ارز دیجیتال",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "cryptonews",
-        "url": "https://cryptonews.net/news/market/33716754/",
-        "clean_url": "https://cryptonews.net/news/market/33716754",
-        "image": "https://cnews24.ru/uploads/a39/a3907e872e07897563dbce71639b46dbd8f80d85.jpg",
-        "timestamp": 1794006960.0
     }
 ]
