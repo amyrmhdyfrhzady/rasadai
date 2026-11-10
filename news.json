@@ -128,6 +128,24 @@
         "timestamp": 1794318226.0
     },
     {
+        "id": "6a0c1d4d52",
+        "title_fa": "هشدار بلینکن درباره بازسازی تاسیسات اتمی ای-ران",
+        "title_en": "Antony Blinken warns Iran could rebuild its nuclear programme despite US strikes as Donald Trump weighs talks",
+        "summary": [
+            "خروج ترامپ از توافق اتمی سال ۲۰۱۵، اشتباهی پرهزینه ارزیابی شد.",
+            "ای-ران حتی با وجود ضربات نظامی اخیر توانایی بازسازی برنامه اتمی خود را دارد."
+        ],
+        "impact": "افزایش ریسک امنیتی و تردید درباره کارایی حملات نظامی علیه زیرساخت‌های اتمی.",
+        "tag": "هسته ای",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "International Business Times UK",
+        "url": "https://www.msn.com/en-gb/news/other/antony-blinken-warns-iran-could-rebuild-its-nuclear-programme-despite-us-strikes-as-donald-trump-weighs-talks/ar-AA2h8ZrN",
+        "clean_url": "https://www.msn.com/en-gb/news/other/antony-blinken-warns-iran-could-rebuild-its-nuclear-programme-despite-us-strikes-as-donald-trump-weighs-talks/ar-AA2h8ZrN",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h8x2I.img?w=1200&h=800&m=4&q=99",
+        "timestamp": 1794317649.0
+    },
+    {
         "id": "0ec1a72c48",
         "title_fa": "تهران اتهام فرانسه درباره هک یخچال‌های فروشگاهی را رد کرد",
         "title_en": "Iran rejects French claims it was behind supermarket fridge hacking",
@@ -5481,24 +5499,5 @@
         "clean_url": "https://home.treasury.gov/news/press-releases/sb0686",
         "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
         "timestamp": 1793995500.0
-    },
-    {
-        "id": "38719b3821",
-        "title_fa": "مسدودسازی صرافی رمزارز مکس‌سی به جرم همکاری با تهران",
-        "title_en": "Operation Economic Outcast Severs MEXC Global's Access to the U.S. Financial System",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا دسترسی صرافی مکس‌سی را به سیستم مالی خود قطع کرد.",
-            "این صرافی بیش از ۱۶ میلیارد دلار تراکنش غیرقانونی برای دورزدن تحریم‌های ای-ران، کره شمالی و روسیه انجام داده است.",
-            "وزیر خزانه‌داری آمریکا تاکید کرد که رژیم ایران دیگر راهی برای استفاده از دارایی‌های دیجیتال جهت دورزدن تحریم‌ها نخواهد داشت."
-        ],
-        "impact": "بسته‌شدن یکی از مسیرهای اصلی مالی و ارزی برای دورزدن تحریم‌ها توسط نهادهای نظامی.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "U.S. Department of the Treasury",
-        "url": "https://home.treasury.gov/news/press-releases/sb0685/",
-        "clean_url": "https://home.treasury.gov/news/press-releases/sb0685",
-        "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
-        "timestamp": 1793995200.0
     }
 ]
