@@ -498,6 +498,24 @@
         "timestamp": 1794320700.0
     },
     {
+        "id": "aaac78dc99",
+        "title_fa": "تمرکز قدرت در بیت رهبری با حذف شرط اجتهاد وزیر اطلاعات",
+        "title_en": "Iran weighs non-cleric spy chief, greater powers for supreme leader",
+        "summary": [
+            "مجلس با بررسی طرحی به دنبال برداشتن شرط اجتهاد برای وزیر اطلاعات است تا برای نخستین بار یک فرد غیرروحانی بر مسند وزارت بنشیند.",
+            "این طرح دو سازمان جدید به نام‌های امنیت داخلی و امور عقیدتی درون وزارتخانه ایجاد می‌کند که روسای آن مستقیماً توسط مجتبی خامنه‌ای منصوب می‌شوند."
+        ],
+        "impact": "تثبیت حاکمیت امنیتی و افزایش کنترل مستقیم بیت رهبری بر ارکان اطلاعاتی کشور.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611100687",
+        "clean_url": "https://www.iranintl.com/en/202611100687",
+        "image": "http://www.bing.com/th?id=ONUT.4NagzvLgGWqLlVyQiPLRDw&pid=News",
+        "timestamp": 1794320520.0
+    },
+    {
         "id": "f363887fe6",
         "title_fa": "واکنش ترامپ به نقش لابی اسرائیل در شکست‌های انتخاباتی",
         "title_en": "Trump Says ‘a Great Dislike’ for Israel was Factor in Republican Midterm Losses",
@@ -5487,23 +5505,5 @@
         "clean_url": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
         "image": "http://www.bing.com/th?id=ONUT.sBGqzaqmjr3s2EZGYLf9hg&pid=News",
         "timestamp": 1794020340.0
-    },
-    {
-        "id": "b54a26f27c",
-        "title_fa": "حبس ابد سنگین برای رهبر فرقه مرگ در کنیا",
-        "title_en": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
-        "summary": [
-            "مغز متفکر فرقه مرگبار کنیا به جرم قتل نزدیک به دویست نفر به دویست سال زندان محکوم شد.",
-            "این پرونده یکی از هولناک‌ترین فجایع انسانی مرتبط با فرقه‌های انحرافی در سال‌های اخیر به شمار می‌رود."
-        ],
-        "impact": "بسته شدن یکی از تاریک‌ترین پرونده‌های جنایی و فرقه‌ای در قاره آفریقا",
-        "tag": "بین‌الملل",
-        "urgency": 4,
-        "sentiment": -0.8,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/video/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison-0ad9486df6b74d8ab5012bd37e4d59ad",
-        "clean_url": "https://apnews.com/video/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison-0ad9486df6b74d8ab5012bd37e4d59ad",
-        "image": "http://www.bing.com/th?id=ONUT.0d-FnsN6zv9ItQ87DgD4qA&pid=News",
-        "timestamp": 1794018120.0
     }
 ]
