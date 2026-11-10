@@ -936,6 +936,24 @@
         "timestamp": 1794223320.0
     },
     {
+        "id": "e7c8652709",
+        "title_fa": "عقب‌نشینی ترامپ از درگیری نظامی مستقیم با ایران",
+        "title_en": "Military strikes? A peace agreement? Trump opts for status quo in Iran",
+        "summary": [
+            "ترس از خشم رای‌دهندگان آمریکایی به دلیل جهش قیمت سوخت، مانع از تشدید درگیری‌ها شد.",
+            "ترامپ مسیر دیپلماسی و حفظ وضعیت موجود را به جای تنش نظامی ترجیح داد."
+        ],
+        "impact": "کاهش فوری فشار تسلیحاتی واشنگتن و تثبیت نسبی بازارهای انرژی.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Fort Worth Star-Telegram",
+        "url": "https://www.star-telegram.com/news/nation-world/world/article318005547.html",
+        "clean_url": "https://www.star-telegram.com/news/nation-world/world/article318005547.html",
+        "image": "http://www.bing.com/th?id=ONUT.5aI7mbRyeU-Sb7vj02BdfA&pid=News",
+        "timestamp": 1794223200.0
+    },
+    {
         "id": "3ed39dc4b9",
         "title_fa": "روبیو: توقع توافق دیپلماتیک با انتظارات غیرمنطقی ایران ندارم",
         "title_en": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
@@ -5482,23 +5500,5 @@
         "clean_url": "https://tass.com/economy/2213861",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261106/1492139.jpg",
         "timestamp": 1793939580.0
-    },
-    {
-        "id": "70f14970ae",
-        "title_fa": "شرط‌گذاری تهران برای واشنگتن پیش از آغاز گفتگوها",
-        "title_en": "Iran reportedly sends US nuclear proposal but demands seven conditions before talks | LIVE BLOG",
-        "summary": [
-            "حکومت ایران بسته پیشنهادی خود درباره پرونده هسته‌ای را به آمریکا فرستاده است.",
-            "تهران پیش از نشستن پشت میز مذاکره، هفت شرط سنگین تعیین کرده است."
-        ],
-        "impact": "این شروط جدید، مسیر دیپلماسی را پیچیده‌تر و توافق احتمالی را دور از دسترس‌تر می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQXQwbFFSeVBvcDdVcnRTdDJoZUFsMnRaNmx0LWd5NFgzc2Q0MjVUbktCaUZWOE1McTVqTlA3b2xGUGFjUXJCd3N4UEV3cVF0YzBBaVNxTDFGWTRNSjZObzVRMlBjLW5oN2w3ZUIwVmVGSGJvNFFDNDBMUHdXQy1kbU1kbnJYalNLNUpfdm1oaEZIS3c3MlBYVXpJbXBvSWd3elBDOW1ZdllYZ0lnMlBiSlJneW1DUmFDaXhvd0RMQXdZOEV0QkpHM1RhaVRFOW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQXQwbFFSeVBvcDdVcnRTdDJoZUFsMnRaNmx0LWd5NFgzc2Q0MjVUbktCaUZWOE1McTVqTlA3b2xGUGFjUXJCd3N4UEV3cVF0YzBBaVNxTDFGWTRNSjZObzVRMlBjLW5oN2w3ZUIwVmVGSGJvNFFDNDBMUHdXQy1kbU1kbnJYalNLNUpfdm1oaEZIS3c3MlBYVXpJbXBvSWd3elBDOW1ZdllYZ0lnMlBiSlJneW1DUmFDaXhvd0RMQXdZOEV0QkpHM1RhaVRFOW8",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793939520.0
     }
 ]
