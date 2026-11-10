@@ -480,6 +480,25 @@
         "timestamp": 1794321667.0
     },
     {
+        "id": "2ac6d77c50",
+        "title_fa": "پشت پرده رایزنی‌های هسته‌ای تهران و واشنگتن با میانجی‌گری قطر",
+        "title_en": "Iran state TV debate signals cautious openness to nuclear talks",
+        "summary": [
+            "دیدار محرمانه ترامپ و نخست‌وزیر قطر در کاخ سفید با محوریت پرونده هسته‌ای ایران انجام شد.",
+            "تهران رفع تحریم‌ها و آزادی پول‌های بلوکه‌شده را شرط اصلی توافق اعلام کرده است.",
+            "کارشناسان معتقدند ترامپ برای توجیه سیاست‌های خود به یک دستاورد اتمی واقعی نیاز دارد."
+        ],
+        "impact": "مذاکرات غیرمستقیم طرفین وارد فاز حساسی شده اما چشم‌انداز توافق مبهم است.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611109169",
+        "clean_url": "https://www.iranintl.com/en/202611109169",
+        "image": "http://www.bing.com/th?id=ONUT.sR91q1b_ajTB6GWFZFLi0A&pid=News",
+        "timestamp": 1794321420.0
+    },
+    {
         "id": "e1f452ce33",
         "title_fa": "اعترافات صریح دادکان به ناکارآمدی و فساد سیستملیک حکومت",
         "title_en": "Houthis deny attacking Saudi oil pipeline in Medina",
@@ -5487,23 +5506,5 @@
         "clean_url": "https://www.freep.com/story/opinion/contributors/2026/11/07/michigan-republicans-midterms-lost-trump-2028/92627103007",
         "image": "http://www.bing.com/th?id=ONUT.OcKgY7j-orf6BoyXhV4INg&pid=News",
         "timestamp": 1794020640.0
-    },
-    {
-        "id": "5cf35e444c",
-        "title_fa": "تنش‌های تجاری کانادا و آمریکا با تغییر دولت فروکش نمی‌کند",
-        "title_en": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
-        "summary": [
-            "رأی‌دهندگان آمریکایی مخالف جنگ تجاری با کانادا هستند اما بدنه حزب دمکرات همچنان رویکرد محافظه‌کارانه اقتصادی دارد.",
-            "روابط دو کشور همسایه حتی با وجود مخالفت عمومی با سیاست‌های ترامپ، به این زودی‌ها به آرامش کامل نمی‌رسد."
-        ],
-        "impact": "تداوم نااطمینانی در بازارهای تجاری آمریکای شمالی",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
-        "clean_url": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
-        "image": "http://www.bing.com/th?id=ONUT.sBGqzaqmjr3s2EZGYLf9hg&pid=News",
-        "timestamp": 1794020340.0
     }
 ]
