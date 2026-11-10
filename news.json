@@ -1,5 +1,23 @@
 [
     {
+        "id": "0ec1a72c48",
+        "title_fa": "تهران اتهام فرانسه درباره هک یخچال‌های فروشگاهی را رد کرد",
+        "title_en": "Iran rejects French claims it was behind supermarket fridge hacking",
+        "summary": [
+            "مقام‌های ایران دست داشتن در حمله سایبری به سیستم‌های سرمایشی فرانسه را رد کردند.",
+            "این ادعا در حالی مطرح شده که تنش‌های سایبری میان کشورهای غربی و تهران بالا گرفته است."
+        ],
+        "impact": "افزایش جنگ روانی و اتهام‌زنی‌های متقابل سایبری در سطح بین‌المللی.",
+        "tag": "سایبری",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794317474.0
+    },
+    {
         "id": "06062e6d73",
         "title_fa": "تناقض در موضع‌گیری ترامپ درباره ایران و جامعه اطلاعاتی آمریکا",
         "title_en": "Trump contradicts US intelligence on Iran, doesn't address regime change as before - ABC News",
@@ -308,6 +326,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794285660.0
+    },
+    {
+        "id": "6f7d869b65",
+        "title_fa": "سقوط ارزش حقوق معلمان به یک‌ششم طی یک دهه",
+        "title_en": "فرمانده نیروی هوافضای سپاه پاسداران: در صورت ضرورت، ظرفیت‌های دشمن را زیر آتش می‌گیریم",
+        "summary": [
+            "حقوق معلمان از ۶۳۶ دلار در گذشته به ۱۰۹ دلار سقوط کرده است.",
+            "بخش عمده‌ای از فرهنگیان برای تامین هزینه‌های زندگی ناچار به داشتن شغل دوم شده‌اند.",
+            "فشار اقتصادی شدید و فضای امنیتی بر نشست‌های صنفی معلمان سایه انداخته است."
+        ],
+        "impact": "تشدید نارضایتی‌های معیشتی و گسترش اعتراضات صنفی فرهنگیان.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611107745",
+        "clean_url": "https://www.iranintl.com/202611107745",
+        "image": "http://www.bing.com/th?id=ONUT.y_1JQgtj0sHQUMwDmkqUcw&pid=News",
+        "timestamp": 1794284700.0
     },
     {
         "id": "2370af2278",
@@ -5463,42 +5500,5 @@
         "clean_url": "https://www.iranintl.com/en/202611066232",
         "image": "http://www.bing.com/th?id=ONUT.lBFaq7dhxILhu7aVCZHtEQ&pid=News",
         "timestamp": 1793979720.0
-    },
-    {
-        "id": "41f2d05e95",
-        "title_fa": "سرنوشت مذاکرات صلح با ج--ر--ی--م--ه--ا پس از انتخابات میان‌دوره‌ای",
-        "title_en": "What’s Next for Iran Peace Talks After the Midterms",
-        "summary": [
-            "مذاکرات میان طرفین در هاله‌ای از ابهام قرار گرفته است.",
-            "تغییرات سیاسی در واشنگتن معادلات توافق را دگرگون کرده است."
-        ],
-        "impact": "بلند شدن غبار ابهام روی توافقات احتمالی پیش‌رو.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYW1zY1FmUmVFY3g2Mm9kNDdJSFZyTkV3OVMtYUNTRmRTdXI4Wm5yMHZ4eHI3LUlJWFBMS19IWG5BTS1XdEZsVlNpSTJDQUlZMjk3SWdwRzJZb2ZnVS1vMDktckppUG5tVmJwWk9UWHVKNHVxNWJMTDhvc2NzNGpNVEZZXzBhWXRPakFRRXBvYTBtU2dOay1zcEd3SjVwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYW1zY1FmUmVFY3g2Mm9kNDdJSFZyTkV3OVMtYUNTRmRTdXI4Wm5yMHZ4eHI3LUlJWFBMS19IWG5BTS1XdEZsVlNpSTJDQUlZMjk3SWdwRzJZb2ZnVS1vMDktckppUG5tVmJwWk9UWHVKNHVxNWJMTDhvc2NzNGpNVEZZXzBhWXRPakFRRXBvYTBtU2dOay1zcEd3SjVwQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793978760.0
-    },
-    {
-        "id": "142e06d4f5",
-        "title_fa": "ادعای تکراری تهران درباره کنترل تنگه هرمز و قدرت نظامی",
-        "title_en": "Iran says forces ‘stronger’ than at beginning of war",
-        "summary": [
-            "سخنگوی نیروهای مسلح در یک مانور تبلیغاتی مدعی شده توان دفاعی کشور پس از درگیری‌های اخیر افزایش یافته است.",
-            "تأکید مجدد بر مسدود ماندن تنگه هرمز، تلاش برای بستن شریان انرژی جهان و ابزار فشار علیه واشنگتن است.",
-            "این سخنان بیش از آنکه واقعیت میدانی باشد، کارکرد جنگ روانی برای ترمیم روحیه نیروهای داخلی دارد."
-        ],
-        "impact": "تداوم تهدید خطوط انتقال انرژی و بالا ماندن ریسک ناوبری تجاری در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/middle-east/iran-says-forces-stronger-than-at-beginning-of-war",
-        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-says-forces-stronger-than-at-beginning-of-war",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/fb668b0470021a86e5d0f0ff375ecda639058cfb077046246ee7684754e52c93?w=1200",
-        "timestamp": 1793978160.0
     }
 ]
