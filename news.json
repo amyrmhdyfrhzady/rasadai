@@ -18,6 +18,25 @@
         "timestamp": 1794276974.0755007
     },
     {
+        "id": "a5f39964ac",
+        "title_fa": "ترامپ پس از دیدار با نخست‌وزیر قطر: ایران از نظر نظامی تمام شده است",
+        "title_en": "Iraqi PM seeks approval to arrest Iran-backed factions after Khor Mor attacks",
+        "summary": [
+            "دونالد ترامپ در پاسخ به تلاش‌های دیپلماتیک قطر تأکید کرد قدرت نظامی جـمـهـوری اـسـلاـمـی از دست رفته و واشنگتن صرفاً در حال کنترل وضعیت موجود است.",
+            "رئیس‌جمهور آمریکا با اشاره به تداوم محاصره دریایی و آماده‌باش کامل نیروهای آمریکایی، احتمال درگیری نظامی جدید در شرایط فعلی را پایین دانست.",
+            "ترامپ ادعا کرد تهران در گفتگوها پذیرفته که هرگز به دنبال سلاح هسته‌ای نرود، هرچند این موضوع را علنی انکار می‌کند."
+        ],
+        "impact": "تثبیت محاصره دریایی و فشار حداکثری بر جـمـهـوری اـسـلاـمـی همزمان با سلب قدرت مانور اتمی و نظامی تهران.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611107012",
+        "clean_url": "https://www.iranintl.com/en/202611107012",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/a4ced09cae8ce45b31ec1134a4902a9eb5e82a71-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794276360.0
+    },
+    {
         "id": "d78af28d1b",
         "title_fa": "سقوط قیمت نفت با کاهش ریسک درگیری ای-ران",
         "title_en": "Oil Falls as U.S.-Iran Conflict Risks Ease",
@@ -5480,24 +5499,5 @@
         "clean_url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump",
         "image": "http://www.bing.com/th?id=ONUT.skEncth32eTKCZErBA3veA&pid=News",
         "timestamp": 1793947260.0
-    },
-    {
-        "id": "0670e6ba43",
-        "title_fa": "تهدید ترامپ به نابودی کامل باقی‌مانده زیرساخت‌های جـ.ـهـ.ـوری اِسـ.ـلـ.ـامـ.ـی",
-        "title_en": "Trump weighs resuming war, says if need be, he will have to destroy rest of Iran",
-        "summary": [
-            "دونالد ترامپ در دیدار با تیم امنیت ملی خود، گزینه عملیات نظامی جدید علیه اهداف حکومتی را روی میز گذاشته است.",
-            "فرماندهی مرکزی آمریکا (سنتکام) آمادگی‌های نظامی خود را بالا برده تا در صورت شکست مسیرهای دیپلماتیک، دست به اقدام بزند.",
-            "واشنگتن هرگونه پیشروی هسته‌ای بدون مجوز مستقیم ایالات متحده را خط قرمز قطعی خود می‌داند."
-        ],
-        "impact": "بازار ارز و سرمایه با دریافت سیگنال جنگی شدید، فورا وارد فاز پرتنش و صعودی می‌شود.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "India Today",
-        "url": "https://www.msn.com/en-us/news/other/trump-weighs-resuming-war-says-if-need-be-he-will-have-to-destroy-rest-of-iran/ar-AA2gRWFw",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-weighs-resuming-war-says-if-need-be-he-will-have-to-destroy-rest-of-iran/ar-AA2gRWFw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1793945360.0
     }
 ]
