@@ -699,6 +699,24 @@
         "timestamp": 1794298341.0
     },
     {
+        "id": "230c728fb1",
+        "title_fa": "ادعای پیروزی ترامپ بر جـ.ـهـ.ـوری اسـ.ـلامـ.ـی؛ پشت‌پرده چرخش واشنگتن",
+        "title_en": "Trump declares victory over Iran, but Tehran has little reason to relax",
+        "summary": [
+            "ترامپ مدعی پایان درگیری با تـ.ـهـ.ـران شده و گفته حمله‌ای دیگر نیاز نیست، اما این تغییر لحن ناشی از فشار شکست در انتخابات میان‌ددوره‌ای و نارضایتی مردم از قیمت سوخت است.",
+            "مایکل فلین، مشاور سابق امنیت ملی، ادامه جنگ را خطایی بزرگ شبیه به اشتباه فاحش در عراق دانسته و نسبت به تبعات آن هشدار داده است."
+        ],
+        "impact": "کاهش موقت احتمال درگیری نظامی مستقیم به دلیل فشارهای داخلی آمریکا، اما ساختار تحریم‌ها و تنش‌ها پابرجا می‌ماند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "PravdaReport",
+        "url": "https://english.pravda.ru/world/172349-trump-iran-war-declare-victory/",
+        "clean_url": "https://english.pravda.ru/world/172349-trump-iran-war-declare-victory",
+        "image": "https://english.pravda.ru/image/preview/article//3/4/9/172349_soc.jpeg",
+        "timestamp": 1794298140.0
+    },
+    {
         "id": "838bf3deda",
         "title_fa": "ادعای جدید روسیه: موشک «فیلین» پدافند اوکراین را فلج کرده است",
         "title_en": "Russia's Filin missile cripples Ukraine's air defense system — underground",
@@ -5482,23 +5500,5 @@
         "clean_url": "https://www.foxnews.com/live-news/iran-war-news-nuclear-proposal-hegseth-congress-budget-request-11-06-26",
         "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/11/624/351/d3c2d1f3261955c0e60f956dca94fc90.jpg?ve=1&tl=1",
         "timestamp": 1794011280.0
-    },
-    {
-        "id": "ad7203633d",
-        "title_fa": "سقوط بالگرد در خلیج میامی؛ یک کشته و دو مصدوم",
-        "title_en": "1 killed and 2 others injured when a helicopter crashes into bay near Miami, officials say",
-        "summary": [
-            "یک فروند بالگرد در خلیج بیسکین در نزدیکی میامی سقوط کرد که منجر به کشته شدن یک نفر و مصدومیت شدید دو تن دیگر شد.",
-            "تیم‌های امداد و نجات بلافاصله به محل حادثه اعزام شده و تحقیقات درباره علت سقوط آغاز شده است."
-        ],
-        "impact": "احتمال اختلال موقت در رفت‌وآمد دریایی منطقه و بررسی ایمنی پروازهای غیرنظامی.",
-        "tag": "حوادث",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/video/1-killed-and-2-others-injured-when-a-helicopter-crashes-into-bay-near-miami-officials-say-e3c1e9aced15474395e90de943c4bd68",
-        "clean_url": "https://apnews.com/video/1-killed-and-2-others-injured-when-a-helicopter-crashes-into-bay-near-miami-officials-say-e3c1e9aced15474395e90de943c4bd68",
-        "image": "http://www.bing.com/th?id=ONUT.7tttUZ4vuZg3mHfTL05uIg&pid=News",
-        "timestamp": 1794010980.0
     }
 ]
