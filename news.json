@@ -1,5 +1,23 @@
 [
     {
+        "id": "bcfe4ed553",
+        "title_fa": "بازی تکراری دیپلماسی در سایه فروپاشی اقتصادی",
+        "title_en": "Iran says diplomacy remains an option but conditions unchanged",
+        "summary": [
+            "دستگاه دیپلماسی جمهوری اسلامی بار دیگر مدعی آمادگی برای مذاکره شده اما حاضر به عقب‌نشینی از مواضع مخرب خود نیست.",
+            "اعتراف صریح یک چهره ورزشی سابق به ناکامی‌های ۴۷ ساله حاکمیت، دستمایه انتقادات شدید به غارت ثروت‌های ملی و زندگی آقازاده‌ها در خارج از کشور شده است."
+        ],
+        "impact": "تلاش‌های دیپلماتیک منطقه‌ای بدون تغییر بنیادین در سیاست‌های کلی حکومت راه به جایی نمی‌برد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611102720",
+        "clean_url": "https://www.iranintl.com/en/202611102720",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1794333540.0
+    },
+    {
         "id": "e08529649a",
         "title_fa": "بازی دوگانه تهران با کارت اتمی زیر سایه تهدید ترامپ",
         "title_en": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
@@ -5483,23 +5501,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-s-nuclear-program-was-obliterated-but-his-administration-is-now-offering-20-million-to-learn-more-send-us-a-tip/ar-AA2gWy60",
         "image": "http://www.bing.com/th?id=ONUT.p7gPvQ5yLIhlHHUg1edLgg&pid=News",
         "timestamp": 1794006131.0
-    },
-    {
-        "id": "9bc837934b",
-        "title_fa": "افزایش بحث‌ها درباره احتمال جنگ با ای-ران در رسانه‌های خارجی",
-        "title_en": "How popular is the Iran War?",
-        "summary": [
-            "افکار عمومی و رسانه‌های بین‌المللی به طور جدی سناریوی درگیری نظامی با ح-ک-و-م-ت ای-ران را بررسی می‌کنند.",
-            "سنجش محبوبیت یا عدم محبوبیت جنگ نشان‌دهنده حساسیت بالای شرایط و احتمال رخ دادن تحولات مهم است."
-        ],
-        "impact": "بالارفتن احتمال تنش نظامی، بازارهای مالی را به شدت تحت تأثیر قرار داده است.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Silver Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794005016.0
     }
 ]
