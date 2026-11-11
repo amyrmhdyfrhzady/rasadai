@@ -144,6 +144,25 @@
         "timestamp": 1794397020.0
     },
     {
+        "id": "54a542c878",
+        "title_fa": "ترامپ بر سر دوراهی؛ پایان کار ج.ا یا توافق جدید؟",
+        "title_en": "How to finish the Iran job",
+        "summary": [
+            "ترامپ با تعیین ضرب‌الاجل، استراتژی خود را بین حمله نظامی تمام‌عیار یا بازگشت به میز مذاکره تقسیم کرده است.",
+            "طرح‌های عملیاتی آمریکا و اسرائیل برای هدف قرار دادن زیرساخت‌های اتمی، موشکی و انرژی ج.ا روی میز است.",
+            "تحلیل‌گران معتقدند تصور فروپاشی سریع ج.ا با یک عملیات کوتاه، خطای محاسباتی است و باید به دنبال تغییر بنیادین بود."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی مستقیم و نوسانات احتمالی در بازار ارز و انرژی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/opinion/khosro-isfahani/how-to-finish-the-iran-job",
+        "clean_url": "https://www.jns.org/opinion/khosro-isfahani/how-to-finish-the-iran-job",
+        "image": "https://static.jns.org/dims4/default/27972c5/2147483647/strip/true/crop/5500x3094+0+518/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2Fc2%2Fed48eb5244bb9307eb83c168bf8a%2Fwomen-life-freedom-iran.jpg",
+        "timestamp": 1794396600.0
+    },
+    {
         "id": "c3a1113b89",
         "title_fa": "ادعای پیروزی نظامی ترامپ در قبال ایران",
         "title_en": "Trump claims military victory in Iran. But is the mission accomplished? ANALYSIS - ABC News",
@@ -5489,24 +5508,5 @@
         "clean_url": "https://www.newson6.com/tulsa-oklahoma-news/ice-unlikely-crackdown-stephen-miller-promotion",
         "image": "http://www.bing.com/th?id=ONUT.W30x7_WsR6PK87dCf9Fp6Q&pid=News",
         "timestamp": 1794122100.0
-    },
-    {
-        "id": "75daa0583f",
-        "title_fa": "ترامپ دست برتر را در تقابل با حاکمیت تهران دارد",
-        "title_en": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
-        "summary": [
-            "کاخ سفید و کارشناسان ارشد خاورمیانه معتقدند ترامپ در موقعیت قدرتمندی برای شکست بقایای حکومت قرار دارد.",
-            "موج جدید سیاست‌های واشنگتن می‌تواند به جارو کردن بزرگترین حامی تروریسم در منطقه منجر شود.",
-            "مقام ارشد جـمـهـورۍ ا‌سـلا‌مـۍ پس از غیبت طولانی، همچنان با اظهارات تند به دنبال فرافکنی شکست‌های داخلی است."
-        ],
-        "impact": "فشار همه‌جانبه واشنگتن می‌تواند معادلات بقای ساختار سیاسی فعلی را به هم بریزد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
-        "clean_url": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
-        "image": "http://www.bing.com/th?id=ONUT.46h6uk8a2aVuAuf1uOQqWA&pid=News",
-        "timestamp": 1794121980.0
     }
 ]
