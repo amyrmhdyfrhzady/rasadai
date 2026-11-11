@@ -607,6 +607,25 @@
         "timestamp": 1794327540.0
     },
     {
+        "id": "26741b813e",
+        "title_fa": "شکست طرح استیضاح وزیر دفاع آمریکا در مجلس نمایندگان",
+        "title_en": "House votes to effectively end the impeachment effort against Pete Hegseth",
+        "summary": [
+            "مجموعه آرای نمایندگان مجلس، پرونده استیضاح وزیر دفاع را عملاً بست و به کمیسیون ارجاع داد.",
+            "این طرح توسط یکی از نمایندگان منتقد و با ادعای اتهامات مرتبط با درگیری‌های نظامی مطرح شده بود.",
+            "با این رای‌گیری، بحران سیاسی پیرامون تیم امنیتی دونالد ترامپ فعلاً فروکش کرد."
+        ],
+        "impact": "تثبیت جایگاه وزیر دفاع دولت ترامپ و جلوگیری از یک چالش سنگین سیاسی.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+        "clean_url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+        "image": "http://www.bing.com/th?id=ONUT.VW73DKQZQ-WDj2bkIzLnAA&pid=News",
+        "timestamp": 1794327060.0
+    },
+    {
         "id": "b96a1a6e72",
         "title_fa": "چهارمین خروج از دسترس پهپاد پیشرفته ناتو بر فراز دریای سیاه",
         "title_en": "NATO reconnaissance drone loses contact with base over Black Sea, fourth time this year",
@@ -990,6 +1009,25 @@
         "clean_url": "https://zamin.uz/en/world/226817-sensational-deal-between-the-us-and-iran-uranium-restrictions-in-exchange-for-9-billion-and-the-strait-of-hormuz.html",
         "image": "https://zamin.uz/uploads/posts/2026-11/9a1e3d0747_image.webp",
         "timestamp": 1794312300.0
+    },
+    {
+        "id": "a62221b3fe",
+        "title_fa": "درگیری لفظی شدید میان نمایندگان دموکرات و رئیس مجلس",
+        "title_en": "House Democrat Hits Mike Johnson And His Voter Blame Game With A Blunt Reality Check",
+        "summary": [
+            "یکی از نمایندگان ارشد دموکرات به اظهارات رئیس مجلس درباره نتایج انتخابات تاخت.",
+            "رئیس مجلس مدعی شده بود رای‌دهندگان در انتخابات میان‌دوره اشتباه کرده‌اند.",
+            "این مشاجرات نشان‌دهنده شروع دوره‌ای از تنش و آشفتگی در ساختار قانون‌گذاری آمریکا است."
+        ],
+        "impact": "افزایش شکاف‌های سیاسی در کنگره همزمان با روی کار آمدن تیم جدید.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/jim-mcgovern-mike-johnson-voters-wrong-choice-midterms_n_6af35ff6e4b01d00eda89b95",
+        "clean_url": "https://www.huffpost.com/entry/jim-mcgovern-mike-johnson-voters-wrong-choice-midterms_n_6af35ff6e4b01d00eda89b95",
+        "image": "http://www.bing.com/th?id=ONUT.vZx8P2492wAzDOyorE9mrg&pid=News",
+        "timestamp": 1794312000.0
     },
     {
         "id": "3f16da1ff8",
@@ -5468,41 +5506,5 @@
         "clean_url": "https://www.chaincatcher.com/en/article/2302634",
         "image": "https://www.chaincatcher.com/_nuxt/img/tg-share-small.b2e7986.png",
         "timestamp": 1794050400.0
-    },
-    {
-        "id": "fc4f38ea81",
-        "title_fa": "ترامپ: هدف نهایی، پایان کار ج.ه. ا. ست",
-        "title_en": "President Trump: Forget the midterms and finish the job in Iran",
-        "summary": [
-            "دونالد ترامپ تاکید کرده که جنگ کنونی تنها با سقوط رژیم مذهبی تهران به پایان می‌رسد.",
-            "تغییر تمرکز از مسائل حاشیه‌ای به براندازی کامل ساختار حاکم، محور اصلی این موضع‌گیری است."
-        ],
-        "impact": "سیگنال روشن به بازارهای مالی و بازیگران منطقه‌ای درباره رویکرد سخت‌گیرانه واشنگتن در قبال تهران.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Hill",
-        "url": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job/",
-        "clean_url": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job",
-        "image": "http://www.bing.com/th?id=ONUT.kz-mtHdZEalqbFnIkFSRrg&pid=News",
-        "timestamp": 1794045660.0
-    },
-    {
-        "id": "ceffd932ab",
-        "title_fa": "افشای طرح محرمانه تل‌آویو علیه تهران پیش از انتخابات",
-        "title_en": "Report: PM, Mossad chief planned Iran op on eve of Israeli election; it was thwarted after US was accidentally tipped off",
-        "summary": [
-            "نخست‌وزیر و رئیس موساد قصد داشتند در آستانه انتخابات یک عملیات ویژه در داخل خاک ایـران اجرا کنند.",
-            "این نقشه محرمانه به طور تصادفی لو رفت و با مداخله و هشدار آمریکا متوقف شد."
-        ],
-        "impact": "لو رفتن این عملیات نشان‌دهنده حساسیت بالای تحرکات امنیتی و شکاف احتمالی در هماهنگی‌های اطلاعاتی است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeTFpQzVtOHlGUkp5LXpJZ0pVX0JEWGhhOEI5aWc4MnZQOEhKbDJsYTRQUjFnWURFNzRGMXJVd1FmUjZCdUotck5sNUxuU2RFUDMtVmstUWlNVUI1NkNCUGhHWWNoNGhwWVBSNHpNTlNpY0pZSXVrSlJRMGNyeGQxbzZZWjVMaHBRMzhJcEE5ZnZFTTN5a2JRS2pQdEpSVDFuVFBIWGw5dXNVWXhJUkRPSEpjeWhHSk53Z2VQWk5lVV9FeFg2OFlOVUtUSmFkcml4V2V4UHhjakRiREFlMEVMai1n0gHnAUFVX3lxTE9YOHFmN0xyOE5SVVhHNXpRVURIam92ZkN2TnVKRnlVSjlZWDRmenVLTXpRVEd4WjhLS2tuM2ZqREJSWmE0ekVCeEV5VzVGU2hFWGNScTk4SEFmampYNzBrcXdQTUR3bzFqNnhDdWdDWHNIN3dCNjVRcU13ZWZzcDY3VEl4aGU2b05iLUl6QmU2d0ZabmNTNXNtc3RxOXlvVjBOQnR3RWRuc2lETmRwNmFCM1VEMzB6dzFlSDhlemN2OGVidHBsbW1nMTVZbXBqWnA0UzJULTh3TjlaNUpjWW5RbHBkeGN4aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeTFpQzVtOHlGUkp5LXpJZ0pVX0JEWGhhOEI5aWc4MnZQOEhKbDJsYTRQUjFnWURFNzRGMXJVd1FmUjZCdUotck5sNUxuU2RFUDMtVmstUWlNVUI1NkNCUGhHWWNoNGhwWVBSNHpNTlNpY0pZSXVrSlJRMGNyeGQxbzZZWjVMaHBRMzhJcEE5ZnZFTTN5a2JRS2pQdEpSVDFuVFBIWGw5dXNVWXhJUkRPSEpjeWhHSk53Z2VQWk5lVV9FeFg2OFlOVUtUSmFkcml4V2V4UHhjakRiREFlMEVMai1n0gHnAUFVX3lxTE9YOHFmN0xyOE5SVVhHNXpRVURIam92ZkN2TnVKRnlVSjlZWDRmenVLTXpRVEd4WjhLS2tuM2ZqREJSWmE0ekVCeEV5VzVGU2hFWGNScTk4SEFmampYNzBrcXdQTUR3bzFqNnhDdWdDWHNIN3dCNjVRcU13ZWZzcDY3VEl4aGU2b05iLUl6QmU2d0ZabmNTNXNtc3RxOXlvVjBOQnR3RWRuc2lETmRwNmFCM1VEMzB6dzFlSDhlemN2OGVidHBsbW1nMTVZbXBqWnA0UzJULTh3TjlaNUpjWW5RbHBkeGN4aw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794043350.0
     }
 ]
