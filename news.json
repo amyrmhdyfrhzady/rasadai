@@ -128,6 +128,25 @@
         "timestamp": 1794360440.0
     },
     {
+        "id": "712fd11c6d",
+        "title_fa": "دور زدن تحریم‌های آمریکا؛ ارتش چین به تراشه‌های پیشرفته انویدیا رسید",
+        "title_en": "Chinese university bought Nvidia H200 chips despite US blacklist",
+        "summary": [
+            "یک دانشگاه وابسته به ارتش چین موفق شد ماه گذشته تراشه‌های قدرتمند H200 انویدیا را با دور زدن تحریم‌های صادراتی واشنگتن بخرد.",
+            "شبکه‌های مخفی خرید پکن همچنان راهکارهای موثری برای بهره‌گیری از خلاءهای نظارتی وزارت بازرگانی آمریکا دارند.",
+            "دستیابی نظامیان چین به این چیپ‌ها مستقیماً توان پردازش هوش مصنوعی ارتش این کشور را ارتقا می‌دهد و واکنش تندتر کنگره را به همراه خواهد داشت."
+        ],
+        "impact": "آمریکا ناچار به تشدید سخت‌گیری‌ها و مسدودسازی مسیرهای قاچاق قطعات پیشرفته خواهد شد.",
+        "tag": "فناوری",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+        "clean_url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11",
+        "image": "http://www.bing.com/th?id=ONUT.yqaG-Cj5eGEkw_oeWTHFFg&pid=News",
+        "timestamp": 1794360240.0
+    },
+    {
         "id": "91a0401b54",
         "title_fa": "لو رفتن طرح تروریستی عوامل ج.ا علیه پایگاه هوایی در بریتانیا",
         "title_en": "US charges three 'Iranian operatives' over UK airbase terrorist plot",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://justthenews.com/politics-policy/energy/democrats-will-control-congress-and-restoring-renewable-subsidies-tops-their",
         "image": "http://www.bing.com/th?id=ONUT.mZOH8BhfrhpPguHK9vMSjg&pid=News",
         "timestamp": 1794066240.0
-    },
-    {
-        "id": "880cc59c92",
-        "title_fa": "سپاه پاسداران از ساخت شهرهای موشکی زیرزمینی خبر داد",
-        "title_en": "Iran’s IRGC says building underground sites for weapons production, storage",
-        "summary": [
-            "سپاه پاسداران اعتراف کرد که در حال توسعه تاسیسات زیرزمینی جدید برای ساخت و انبار تسلیحات است.",
-            "این اقدام تلاشی برای مصون نگه داشتن زیرساخت های نظامی از حملات هوایی احتمالی است."
-        ],
-        "impact": "افزایش تنش‌های نظامی و تلاش برای بازدارندگی در برابر حملات پیشگیرانه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnVtZjdfQnc2S1FwTXpEWnFWRFVxMzVDblFHdFFYaHlNenEzQjlBeGlyaW5waEhQSnJYVDh6d19nRExqTzhTT0JZSzFQUnlaRDFpcHF2dmJwd2ZDNW9uc1FqajJuNXpObEY1ZE9QX05uWndIZTJhQ1JqUWVWOTFlV2gtVWR1LUVDVWhaUWtINUstNEMtdnVCbFhPblU4X2tHR0tmMzNlU0pOVHFPbUpfXzlvMkPSAboBQVVfeXFMT24yWU5kekw4SXgtbXRBMW5IUDhkejNrbEJ2YlZZNkdNdWx5V3J1NU5GWTNHdHNBNkloSXJBTFFUZnVqdWJQaVZUZDRyVGZaY0ZtOExrMS11bW5CME13MVlDUXNUcWJYeW4wRmg4aHJoTTJ1WGVIWXlJb3JSWmZkY0Z4TEFHX0FZNTg1QnM5MWlUVmpBNmllMWFaQllEd3huX2JKZzdURzRncHBUR2ZSUDRTTGJCMmplLTln?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnVtZjdfQnc2S1FwTXpEWnFWRFVxMzVDblFHdFFYaHlNenEzQjlBeGlyaW5waEhQSnJYVDh6d19nRExqTzhTT0JZSzFQUnlaRDFpcHF2dmJwd2ZDNW9uc1FqajJuNXpObEY1ZE9QX05uWndIZTJhQ1JqUWVWOTFlV2gtVWR1LUVDVWhaUWtINUstNEMtdnVCbFhPblU4X2tHR0tmMzNlU0pOVHFPbUpfXzlvMkPSAboBQVVfeXFMT24yWU5kekw4SXgtbXRBMW5IUDhkejNrbEJ2YlZZNkdNdWx5V3J1NU5GWTNHdHNBNkloSXJBTFFUZnVqdWJQaVZUZDRyVGZaY0ZtOExrMS11bW5CME13MVlDUXNUcWJYeW4wRmg4aHJoTTJ1WGVIWXlJb3JSWmZkY0Z4TEFHX0FZNTg1QnM5MWlUVmpBNmllMWFaQllEd3huX2JKZzdURzRncHBUR2ZSUDRTTGJCMmplLTln",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794065993.0
     }
 ]
