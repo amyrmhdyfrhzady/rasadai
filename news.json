@@ -295,6 +295,25 @@
         "timestamp": 1794367989.0
     },
     {
+        "id": "bc7dbf88cc",
+        "title_fa": "بحران قطعی گاز در راه است",
+        "title_en": "Iran warns of domestic gas shortages from war this winter",
+        "summary": [
+            "دولت جـ.ـمهوری اسـ.ـلامی رسماً درباره کمبود شدید گاز در زمستان پیش رو هشدار داد.",
+            "آسیب به تاسیسات فرآوری گاز در تنش‌های اخیر با آمریکا، شبکه توزیع را به آستانه فلج شدن رسانده است.",
+            "قطعی گسترده گاز در ماه‌های سرد سال می‌تواند اعتراضات عمومی را به شدت شعله‌ور کند."
+        ],
+        "impact": "فلج شدن صنایع و قطعی گسترده انرژی در زمستان پیش رو.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/energy/iran-warns-domestic-gas-shortages-war-this-winter-2026-11-11/",
+        "clean_url": "https://www.reuters.com/business/energy/iran-warns-domestic-gas-shortages-war-this-winter-2026-11-11",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794367140.0
+    },
+    {
         "id": "1df363fcfd",
         "title_fa": "خط‌ونشان تازه تل‌آویو؛ جنگ بعدی با ایران متفاوت خواهد بود",
         "title_en": "Israel prepares for another war with Iran, warns next conflict could look very different",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.iranintl.com/en/202611070633",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1794084960.0
-    },
-    {
-        "id": "4402b0dcf7",
-        "title_fa": "بن‌بست ترامپ در ماجرای ایران",
-        "title_en": "Donald Trump's Iran dilemma: Every option to end war carries a heavy cost",
-        "summary": [
-            "شکست جمهوری‌خواهان در کنگره فشار سیاسی سنگینی بر دولت د. ت. وارد کرده است.",
-            "تمام گزینه‌های پیش روی واشنگتن برای خروج از مخمصه نظامی فعلی پرهزینه است."
-        ],
-        "impact": "هزینه بالای سیاسی و نظامی، دست‌انداز جدی در مسیر تصمیم‌گیری‌های کاخ سفید ایجاد کرده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Benzinga",
-        "url": "https://www.msn.com/en-us/news/other/donald-trump-s-iran-dilemma-every-option-to-end-war-carries-a-heavy-cost/ar-AA2gYGM3",
-        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-s-iran-dilemma-every-option-to-end-war-carries-a-heavy-cost/ar-AA2gYGM3",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gYLNI.img?w=1000&h=668&m=4&q=81",
-        "timestamp": 1794084007.0
     }
 ]
