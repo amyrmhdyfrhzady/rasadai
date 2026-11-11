@@ -201,6 +201,25 @@
         "timestamp": 1794352348.0
     },
     {
+        "id": "4a54a71aa8",
+        "title_fa": "توافق اولیه واشنگتن و تهران؛ عقب‌نشینی به غنی‌سازی ۳.۶۷ درصدی",
+        "title_en": "\"US, Iran reach preliminary deal to limit uranium enrichment to 3.67%\" ... Strait of Hormuz reopening and end of war move a big step closer",
+        "summary": [
+            "با میانجی‌گری قطر و پاکستان، آمریکا و تهران به توافقی مقدماتی برای محدودسازی غنی‌سازی اورانیوم و آزادسازی دارایی‌های بلوکه‌شده نزدیک شده‌اند.",
+            "تهران تحت فشار شدید اقتصادی و خطر درگیری نظامی، با کاهش سطح غنی‌سازی به میزان برجام موافقت کرده است.",
+            "تسهیل رفت‌وآمد در تنگه هرمز و کاهش تنش‌های دریایی، شرط اصلی واشنگتن برای اعطای تنفس اقتصادی به تهران است."
+        ],
+        "impact": "کاهش موقت خطر مواجهه مستقیم نظامی و احتمال افت هیجان در بازار ارز.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "en.fnnews.com",
+        "url": "https://en.fnnews.com/news/202611102307095231",
+        "clean_url": "https://en.fnnews.com/news/202611102307095231",
+        "image": "https://image.fnnews.com/resource/media/image/2026/11/10/202611102245180111_l.jpg",
+        "timestamp": 1794352200.0
+    },
+    {
         "id": "23de5789be",
         "title_fa": "افشای اطلاعات محرمانه: علت اصلی رویکرد ضربتی ترامپ علیه ایران",
         "title_en": "Victor Davis Hanson: This changes everything about why Trump hit Iran",
@@ -5489,24 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnVtZjdfQnc2S1FwTXpEWnFWRFVxMzVDblFHdFFYaHlNenEzQjlBeGlyaW5waEhQSnJYVDh6d19nRExqTzhTT0JZSzFQUnlaRDFpcHF2dmJwd2ZDNW9uc1FqajJuNXpObEY1ZE9QX05uWndIZTJhQ1JqUWVWOTFlV2gtVWR1LUVDVWhaUWtINUstNEMtdnVCbFhPblU4X2tHR0tmMzNlU0pOVHFPbUpfXzlvMkPSAboBQVVfeXFMT24yWU5kekw4SXgtbXRBMW5IUDhkejNrbEJ2YlZZNkdNdWx5V3J1NU5GWTNHdHNBNkloSXJBTFFUZnVqdWJQaVZUZDRyVGZaY0ZtOExrMS11bW5CME13MVlDUXNUcWJYeW4wRmg4aHJoTTJ1WGVIWXlJb3JSWmZkY0Z4TEFHX0FZNTg1QnM5MWlUVmpBNmllMWFaQllEd3huX2JKZzdURzRncHBUR2ZSUDRTTGJCMmplLTln",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794065993.0
-    },
-    {
-        "id": "d7dc2df776",
-        "title_fa": "بحران بدهی آمریکا؛ چالش پنهان انتخابات میان‌دوره‌ای ۲۰۲۶",
-        "title_en": "America’s Debt Crisis Was the Biggest Loser in the 2026 Midterms",
-        "summary": [
-            "پیروزی دموکرات‌ها در انتخابات کنگره در حالی رخ داد که هیچ‌یک از طرفین طرحی برای مهار بدهی سنگین ملی ارائه ندادند.",
-            "صندوق بازنشستگی تامین اجتماعی آمریکا تا سال ۲۰۳۲ با کسری شدیدی روبه‌رو می‌شود که نیازمند استقراض ترلیونی یا کاهش خدمات است.",
-            "نمایندگان جدید مجبور به اتخاذ تصمیمات سخت مالی میان کاهش کسری بودجه یا افزایش سن بازنشستگی خواهند بود."
-        ],
-        "impact": "احتمال بروز شوک مالی و فشار بر ساختار اقتصادی آمریکا در دهه آینده.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The American Spectator",
-        "url": "https://spectator.org/americas-debt-crisis-was-the-biggest-loser-in-the-2026-midterms/",
-        "clean_url": "https://spectator.org/americas-debt-crisis-was-the-biggest-loser-in-the-2026-midterms",
-        "image": "http://www.bing.com/th?id=ONUT.Ditf3yZAMInqGGQ_rVLxSg&pid=News",
-        "timestamp": 1794061320.0
     }
 ]
