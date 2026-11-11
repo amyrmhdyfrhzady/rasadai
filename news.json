@@ -367,6 +367,24 @@
         "timestamp": 1794335742.0
     },
     {
+        "id": "fe65b16c68",
+        "title_fa": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی از ترس تهران",
+        "title_en": "US Iran War Live Updates: US treasury chief Scott Bessent flees home, moves to military base over Iran threats",
+        "summary": [
+            "اسکات بسنت به دلیل تهدیدهای امنیتی منسوب به حکومت، خانه خود را ترک کرده و در یک پایگاه نظامی مستقر شده است.",
+            "این مقام ارشد اقتصادی نقش کلیدی در اجرای سیاست فشار حداکثری و تحریم‌های فلج‌کننده علیه تهران دارد."
+        ],
+        "impact": "بالارفتن شدید سطح حفاظتی از مقام‌های اقتصادی آمریکا در سایه تنش‌های نظامی.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-marco-rubio-khamenei-irgc-warning-strait-of-hormuz-saudi-houthi-tensions-latest-news/liveblog/135718698.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-marco-rubio-khamenei-irgc-warning-strait-of-hormuz-saudi-houthi-tensions-latest-news/liveblog/135718698.cms",
+        "image": "http://www.bing.com/th?id=ONUT.dvKgaqqiclxf_c40019kRQ&pid=News",
+        "timestamp": 1794333780.0
+    },
+    {
         "id": "bcfe4ed553",
         "title_fa": "بازی تکراری دیپلماسی در سایه فروپاشی اقتصادی",
         "title_en": "Iran says diplomacy remains an option but conditions unchanged",
@@ -5488,24 +5506,5 @@
         "clean_url": "https://www.iranintl.com/en/202611074305",
         "image": "http://www.bing.com/th?id=ONUT.66yXJXXaH46Nk4kIp7fFfw&pid=News",
         "timestamp": 1794037380.0
-    },
-    {
-        "id": "9f061ab8f9",
-        "title_fa": "سقوط ۸۰ درصدی واردات پنل خورشیدی به ای...ران",
-        "title_en": "Iran's solar ambitions falter as Chinese panel imports collapse",
-        "summary": [
-            "واردات پنل خورشیدی از چین به دلیل بحران‌های مالی و ارزی به شدت سقوط کرده است.",
-            "قطعی برق گسترده و کمبود گاز طبیعی، بحران انرژی در کشور را وارد مرحله خطرناکی کرده است.",
-            "پروژه‌های انرژی خورشیدی عملاً متوقف شده‌اند و دولت هیچ راهکار پایداری برای تامین برق ندارد."
-        ],
-        "impact": "فلج شدن زیرساخت‌های انرژی و تشدید قطعی برق در بخش‌های خانگی و صنعتی.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611072745",
-        "clean_url": "https://www.iranintl.com/en/202611072745",
-        "image": "http://www.bing.com/th?id=ONUT.ZvAMmWeacjDt92Fln0PFAw&pid=News",
-        "timestamp": 1794036180.0
     }
 ]
