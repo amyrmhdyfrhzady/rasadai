@@ -458,6 +458,25 @@
         "timestamp": 1794335742.0
     },
     {
+        "id": "624539a9ce",
+        "title_fa": "ابقای هگست در پنتاگون و تکذیب مذاکره تهران با واشنگتن",
+        "title_en": "US-Iran war news: Hegseth survives impeachment bid, Iran denies talks with Washington; crude oil prices decline",
+        "summary": [
+            "تلاش برای استیضاح هگست در مجلس نمایندگان شکست خورد و او در جایگاه خود باقی ماند تا سیاست فشار حداکثری با قدرت ادامه یابد.",
+            "تهران هرگونه گفت‌وگوی مستقیم با تیم ترامپ را رد کرده که نشان‌دهنده بن‌بست کامل دیپلماتیک و افزایش تنش‌هاست.",
+            "کاهش قیمت نفت در بازارهای جهانی ناشی از فروکش کردن موقت هیجانات جنگی است، اما ریسک‌های ژئوپلیتیک همچنان پابرجاست."
+        ],
+        "impact": "تثبیت جایگاه وزیر دفاع ترامپ، مسیر تقابل نظامی با ج.ا را هموارتر کرد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "ET Now on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-hegseth-survives-impeachment-bid-iran-denies-talks-with-washington-crude-oil-prices-decline-top-developments/ar-AA2hbHo6",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-hegseth-survives-impeachment-bid-iran-denies-talks-with-washington-crude-oil-prices-decline-top-developments/ar-AA2hbHo6",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794335740.0
+    },
+    {
         "id": "fe65b16c68",
         "title_fa": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی از ترس تهران",
         "title_en": "US Iran War Live Updates: US treasury chief Scott Bessent flees home, moves to military base over Iran threats",
@@ -5488,23 +5507,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUpka2hLSkx5ODRTeUJaOGtYZ1RvNHNHR3ZsamxQTWhjaWU1RXgySkh3Q0lyWnBCMjRqMHRZeWlJOVVJVkJwa3JmM0s1N2Z5YXdGWlMtTTRzSVcwRUVoYXhPbXYwTEJXT3lHbnlmUDkyaXJUU3hRRHdyUjY5SV96Ym0zcUhMQ190MnJjS1Nra3pwbEV3NnVZbV9uam45N3JiRlowOTVUeW9GRm1mTjNfM1R3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794052235.0
-    },
-    {
-        "id": "fc7b729dd0",
-        "title_fa": "تحریم صرافی‌های کانادایی به اتهام دور زدن تحریم‌های ایران",
-        "title_en": "The United States sanctioned 8 Canadian currency exchange companies, accusing them of facilitating Iran's evasion of sanctions",
-        "summary": [
-            "آمریکا هشت شرکت صرافی در کانادا را به دلیل همکاری مالی با نهادهای تحریم‌شده ایرانی تحریم کرد.",
-            "این صرافی‌ها متهم به تسهیل تراکنش‌های ریالی و رمزارز برای دور زدن تحریم‌ها هستند."
-        ],
-        "impact": "بستن مسیرهای تنفس مالی و شبکه دور زدن تحریم‌ها در خارج از کشور",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "chaincatcher",
-        "url": "https://www.chaincatcher.com/en/article/2302634",
-        "clean_url": "https://www.chaincatcher.com/en/article/2302634",
-        "image": "https://www.chaincatcher.com/_nuxt/img/tg-share-small.b2e7986.png",
-        "timestamp": 1794050400.0
     }
 ]
