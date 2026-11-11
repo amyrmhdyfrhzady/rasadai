@@ -1,5 +1,23 @@
 [
     {
+        "id": "05aa4ecc61",
+        "title_fa": "انتقال بسنت به پایگاه نظامی از ترس تهدیدهای تروریستی ج.ا",
+        "title_en": "Bessent reportedly moved to military base over Iranian threats on his life",
+        "summary": [
+            "اسکات بسنت به دلیل تهدیدهای مستقیم ج.ا برای حفظ امنیت به یک پایگاه نظامی منتقل شد.",
+            "این اقدام نشان‌دهنده افزایش سطح تهدیدات امنیتی علیه مقام‌های ارشد اقتصادی است."
+        ],
+        "impact": "بالا رفتن حصارهای امنیتی دور مقام‌های کلیدی و تشدید فضای تنش اطلاعاتی.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajV5Qnhma05Zd0llOVU2c3JoTkpLcjJOLThqUjhoYWhob25vUHV6WEhzQW9ISTRlU3IxaTc2cUlDbFhwNHVZbTd3NVpxNjg0UEUzTENnVHd5ODI5QmpUWmUwTkQ2dzJVRmw2U21vUmdfRHJ5WW9Vdml2cERNWExrYnliQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajV5Qnhma05Zd0llOVU2c3JoTkpLcjJOLThqUjhoYWhob25vUHV6WEhzQW9ISTRlU3IxaTc2cUlDbFhwNHVZbTd3NVpxNjg0UEUzTENnVHd5ODI5QmpUWmUwTkQ2dzJVRmw2U21vUmdfRHJ5WW9Vdml2cERNWExrYnliQQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794369960.0
+    },
+    {
         "id": "8945b97520",
         "title_fa": "انزوای تل‌آویو در فشار برای درگیری نظامی با ایران",
         "title_en": "Analysis • After Trump's midterm blowout, Israel remains alone in pushing for war with Iran",
@@ -5486,24 +5504,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcy1RVE5LSS1FNGszc1pHN29NNER3M1kwcm9CcmZZNTltUFhTYTNURDE2M0pkbjN6Mnp1Uk5hZEV6U21EV0FCTVo5TU5TdmN3WFFuREphRUdQSlFwSjBacjFUYzVhY0g3c21xQ0dmVV93aUVZd2dhaGFSUWIyNm5hZ1BtbUppdWNLY2FiNTRObWRxQThqNmZBZFZOelJZT3RzZzNpclN5eDHSAa4BQVVfeXFMTm50MGZpS05TS3h2MGRCM0FxUnZ6UUpaMVlUclNQR0IxMk1UTk5RbjNjVV96TnRkUTZraDZIVlFSZjNQTWF5Wk1GQ3hwQ2ZWazhtU0pNQVpXTDg4TTNJcXNuU05jV0Y3Z2xHNl9teTRjd0lpTno0LWpZSjJIMy1XQ3NOZHE1UlRqYWxvYWZ5TVp1YnltamRfQVE5bkV3WElKMG5FcTVtRVZ4MVdUS3ZB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794042039.0
-    },
-    {
-        "id": "f6eb6c5e44",
-        "title_fa": "حمله موشکی سنگین روسیه به زیرساخت‌های کلیدی کیف",
-        "title_en": "Missile War Monitor: Russian strike closes Kyiv's North Bridge, cuts water pressure in the capital",
-        "summary": [
-            "اصابت موشک‌های روسیه به پل شمالی کیف باعث بسته شدن کامل این معبر مهم ترافیکی شد.",
-            "تأسیسات انرژی و شبکه آب‌رسانی پایتخت اوکراین به دلیل این حملات شبانه آسیب دیدند.",
-            "شهر چرنیهیف به طور کامل در تاریکی فرو رفت و برق آن قطع شد."
-        ],
-        "impact": "فلج شدن نسبی ترابری شهری و قطع خدمات حیاتی در پایتخت اوکراین.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "bne IntelliNews",
-        "url": "https://www.intellinews.com/missile-war-monitor-russian-strike-closes-kyiv-s-north-bridge-cuts-water-pressure-in-the-capital-482790/",
-        "clean_url": "https://www.intellinews.com/missile-war-monitor-russian-strike-closes-kyiv-s-north-bridge-cuts-water-pressure-in-the-capital-482790",
-        "image": "https://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneGeneric_Russia_-_military_missile_war_bneicon__Oreshnik_IRBM_54.jpg",
-        "timestamp": 1794041100.0
     }
 ]
