@@ -1,5 +1,24 @@
 [
     {
+        "id": "64dfd42b90",
+        "title_fa": "تشدید محاصره دریایی و زمینی ج.ا توسط سنتکام",
+        "title_en": "Rubio rules out broader strikes on Iran, vows to maintain economic pressure",
+        "summary": [
+            "سنتکام با تشکیل کارگروه «دروازه آهنین»، مسیرهای زمینی و دریای خزر را برای انتقال سلاح و درآمدهای غیرقانونی سپاه مسدود کرد.",
+            "مارکو روبیو بر تداوم فشار اقتصادی به جای حملات نظامی گسترده تاکید کرده است.",
+            "محسن رضایی در واکنش به این فشارها، نیروهای آمریکایی در اروپا را تهدید کرده که نشان‌دهنده استیصال در برابر محاصره است."
+        ],
+        "impact": "فلج شدن شریان‌های حیاتی قاچاق سلاح و کاهش درآمدهای ارزی برای نهادهای نظامی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26",
+        "clean_url": "https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/d082a140cd494f7e9bd2e732de98ce3b.jpg",
+        "timestamp": 1794427260.0
+    },
+    {
         "id": "bcd5278fb1",
         "title_fa": "ممنوعیت خروج مواد هسته‌ای و جهش قیمت نفت",
         "title_en": "Iran Forbids Nuclear Material to Exit the Country, Oil Prices Rise 1%",
@@ -329,6 +348,24 @@
         "clean_url": "https://www.jns.org/opinion/khosro-isfahani/how-to-finish-the-iran-job",
         "image": "https://static.jns.org/dims4/default/27972c5/2147483647/strip/true/crop/5500x3094+0+518/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2Fc2%2Fed48eb5244bb9307eb83c168bf8a%2Fwomen-life-freedom-iran.jpg",
         "timestamp": 1794396600.0
+    },
+    {
+        "id": "ea9525aca0",
+        "title_fa": "تلاش ونس برای مذاکره مستقیم با تندروهای ج.ا",
+        "title_en": "Vance considers direct talks with Iran hardliner in push to end war",
+        "summary": [
+            "جی دی ونس در حال بررسی کانال‌های مستقیم با چهره‌های تندرو برای پایان دادن به درگیری‌هاست.",
+            "این اقدام ریسک سیاسی بالایی برای معاون رئیس‌جمهور آمریکا دارد و ممکن است با مخالفت‌های داخلی روبرو شود."
+        ],
+        "impact": "تغییر احتمالی در استراتژی دیپلماتیک آمریکا و خروج از سیاست فشار حداکثری سنتی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
+        "clean_url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
+        "image": "http://www.bing.com/th?id=ONUT.l7NdieW7CNXd1ed9krjkFQ&pid=News",
+        "timestamp": 1794396300.0
     },
     {
         "id": "c3a1113b89",
@@ -5474,41 +5511,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-s-iran-strike-decision-exposes-split-between-hegseth-and-diplomacy-allies/ar-AA2h0zlO",
         "image": "http://www.bing.com/th?id=ONUT.94AeIPMOOtmlC-GiDl7eDQ&pid=News",
         "timestamp": 1794136644.0
-    },
-    {
-        "id": "9e82323b24",
-        "title_fa": "افزایش فشار نظامی آمریکا علیه ج***ری ا****می",
-        "title_en": "US steps up military pressure on Iran",
-        "summary": [
-            "ایالات متحده حضور نظامی و فشارهای خود را در منطقه علیه تهران افزایش داده است.",
-            "این اقدام در راستای مهار تحرکات منطقه‌ای و بازداشتن از اقدامات تنش‌زا صورت می‌گیرد."
-        ],
-        "impact": "بالارفتن سطح آماده‌باش نظامی و تشدید سایه جنگ در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "VOV World",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVpadUxHajRiTXp5WHFVb0pPYkRqV0xfYnMzZmhyUkVySk5UODM1QUNUcjBKNG9Eb1Ffc1dpejZrUFVqNi1qTlBuSm5tUW9lbHUxN085bFpXUVpmX2tPc3E5NnNZbUpUUHl0N1QwREdNRXFPNDNGaDM0ckgtdHo4Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVpadUxHajRiTXp5WHFVb0pPYkRqV0xfYnMzZmhyUkVySk5UODM1QUNUcjBKNG9Eb1Ffc1dpejZrUFVqNi1qTlBuSm5tUW9lbHUxN085bFpXUVpmX2tPc3E5NnNZbUpUUHl0N1QwREdNRXFPNDNGaDM0ckgtdHo4Xw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794134700.0
-    },
-    {
-        "id": "22e99b2603",
-        "title_fa": "چالش‌های ترامپ در قبال ایران پس از شکست میان‌دوره‌ای",
-        "title_en": "After Midterm Defeat, President Trump Faces Risky Choices on Iran",
-        "summary": [
-            "شکست در انتخابات میان‌دوره‌ای دست دونالد ترامپ را در اجرای سیاست‌های سخت‌گیرانه محدود کرده است.",
-            "فشار حداکثری علیه جـمـهـورـی اسـلا‌مـی وارد فاز پیچیده‌تری شده و انتخاب‌های پیش روی واشنگتن پرمخاطره است."
-        ],
-        "impact": "افزایش ریسک تصمیم‌گیری‌های کاخ سفید در مواجهه با پرونده اتمی و منطقه‌ای.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Media Line",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDg0QW4wUFZWQjVteTZRLTB6Y3VpSUx4WUJOSGFnRGdGRWV2WGozTmFwNVdnWUFKbWpBZFVUSWZxQ2p1NEE4MVcwVGNyX3lnWnFGNEp4dkJlVXhyMFhEaU85OGxjVnQyWVQ5alBQQkZ3d3BteVNtaVAwQ0JmcHlNdnFjaFVDZGlUaVQ0eTg3UTVETmx0REgwYU9xTHM1aXpXdzhZSnJHdVJFM29hb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDg0QW4wUFZWQjVteTZRLTB6Y3VpSUx4WUJOSGFnRGdGRWV2WGozTmFwNVdnWUFKbWpBZFVUSWZxQ2p1NEE4MVcwVGNyX3lnWnFGNEp4dkJlVXhyMFhEaU85OGxjVnQyWVQ5alBQQkZ3d3BteVNtaVAwQ0JmcHlNdnFjaFVDZGlUaVQ0eTg3UTVETmx0REgwYU9xTHM1aXpXdzhZSnJHdVJFM29hb2c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794134559.0
     }
 ]
