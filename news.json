@@ -425,6 +425,24 @@
         "timestamp": 1794327540.0
     },
     {
+        "id": "b96a1a6e72",
+        "title_fa": "چهارمین خروج از دسترس پهپاد پیشرفته ناتو بر فراز دریای سیاه",
+        "title_en": "NATO reconnaissance drone loses contact with base over Black Sea, fourth time this year",
+        "summary": [
+            "اختلال مجدد در ارتباط پهپاد چندمیلیون دلاری RQ-4D ناتو، از شدت‌گرفتن جنگ الکترونیک سنگین در منطقه خبر می‌دهد.",
+            "تکرار این حادثه برای چهارمین بار در ماه‌های اخیر، ناکارآمدی برخی سامانه‌های ارتباط ماهواره‌ای غرب در برابر اختلالات راداری را آشکار کرد."
+        ],
+        "impact": "تداوم جنگ الکترونیک در دریای سیاه، پروازهای شناسایی ناتو را پرهزینه‌تر و پرمخاطره‌تر کرده است.",
+        "tag": "جنگ الکترونیک",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2215797",
+        "clean_url": "https://tass.com/world/2215797",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1794326100.0
+    },
+    {
         "id": "5ce95ac9e6",
         "title_fa": "تحریم‌های جدید آمریکا علیه کوبا و شبکه مالی ارتش",
         "title_en": "US sanctions target Castro family amid regime change push",
@@ -5489,23 +5507,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/in-elevating-stephen-miller-trump-taps-anti-immigration-champion/ar-AA2gV12O",
         "image": "http://www.bing.com/th?id=ONUT.i803--UvhMr3aZpnx8RvlA&pid=News",
         "timestamp": 1794028618.0
-    },
-    {
-        "id": "d4ef1c22f8",
-        "title_fa": "برداشته شدن سقف برد موشک‌های بالستیک سپاه",
-        "title_en": "Iran’s Revolutionary Guard says self-proclaimed limit on ballistic missile range ‘has been lifted’",
-        "summary": [
-            "سپاه پاسداران رسماً اعلام کرد محدودیت خودخواسته‌ی برد ۲۰۰۰ کیلومتری موشک‌های بالستیک لغو شده است.",
-            "این اقدام نشان‌دهنده‌ی تلاش برای توسعه‌ی تسلیحات دوربرد و افزایش تهدیدات موشکی در منطقه است."
-        ],
-        "impact": "افزایش تنش‌های نظامی و نگرانی‌های امنیتی در سطح منطقه‌ای و بین‌المللی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/irans-revolutionary-guard-says-self-proclaimed-limit-on-ballistic-missile-range-has-been-lifted/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/irans-revolutionary-guard-says-self-proclaimed-limit-on-ballistic-missile-range-has-been-lifted",
-        "image": "http://www.bing.com/th?id=ONUT.bCb7qwZWfqurTlumv05A6w&pid=News",
-        "timestamp": 1794027960.0
     }
 ]
