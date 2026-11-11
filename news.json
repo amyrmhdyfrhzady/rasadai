@@ -241,6 +241,24 @@
         "timestamp": 1794358339.0
     },
     {
+        "id": "5528f2d201",
+        "title_fa": "اعتراف پزشکیان به شکست دیپلماسی تهدید آمریکا",
+        "title_en": "Iran war live: Pezeshkian says US using 'mother of all bombs' for diplomacy",
+        "summary": [
+            "مسعود پزشکیان اعلام کرد واشنگتن با تکیه بر ابزارهای نظامی پیشرفته، دیپلماسی زور را علیه تهران پیش می‌برد.",
+            "همزمان کنگره آمریکا طرح استیضاح وزیر دفاع کابینه ترامپ را به دلیل اختلافات حزبی مسدود کرد."
+        ],
+        "impact": "افزایش تنش‌های لفظی میان مقامات ارشد دو کشور همزمان با چرخش واشنگتن به سمت سیاست‌های سخت‌گیرانه‌تر.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2017-04-13T000000Z_938669184_RC127AD5C0F0_RTRMADP_3_USA-AFGHANISTAN-BOMB-1792072217.jpg?resize=1200%2C675",
+        "timestamp": 1794355260.0
+    },
+    {
         "id": "5aacca530f",
         "title_fa": "حمله سایبری بی‌سابقه به یخچال‌های هوشمند در فرانسه",
         "title_en": "What to know about 'unprecedented' cyberattacks on refrigerators in France - ABC News",
@@ -5492,23 +5510,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/election-drubbing-complicates-vance-s-calculation-on-whether-to-run-in-2028/ar-AA2gYKLc",
         "image": "http://www.bing.com/th?id=ONUT.pJxjSeYBQv69pwfbsaeGnw&pid=News",
         "timestamp": 1794074400.0
-    },
-    {
-        "id": "0b6e68ca36",
-        "title_fa": "جایزه ۱۵ میلیون پوندی آمریکا برای افشای اسرار هسته‌ای ایران",
-        "title_en": "Trump offers £15m for tips on Iran's nuclear sites despite saying they had been wiped out last year",
-        "summary": [
-            "واشنگتن با تخصیص پاداش مالی سنگین، مستقیماً شبکه اطلاعاتی و نیروهای داخلی تاسیسات هسته‌ای ایران را برای افشای سایت‌های پنهان هدف گرفته است.",
-            "نگرانی اصلی غرب، احیای مجدد غنی‌سازی و استفاده از ذخایر اورانیوم باقی‌مانده برای جهش به سمت ساخت سلاح هسته‌ای است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه جاسوسی و تشدید چشمگیر فشار امنیتی بر متخصصان و مراکز حساس هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Daily Mail on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-offers-15m-for-tips-on-iran-s-nuclear-sites-despite-saying-they-had-been-wiped-out-last-year/ar-AA2gYxkP",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-offers-15m-for-tips-on-iran-s-nuclear-sites-despite-saying-they-had-been-wiped-out-last-year/ar-AA2gYxkP",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794071453.0
     }
 ]
