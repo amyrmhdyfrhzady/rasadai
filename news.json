@@ -260,6 +260,25 @@
         "timestamp": 1794358339.0
     },
     {
+        "id": "d346ea7589",
+        "title_fa": "بحران سیاسی در تل‌آویو و لغو مذاکرات ائتلاف",
+        "title_en": "آغاز پرتنش کار کنست جدید اسرائیل؛ آیزنکوت مذاکرات با حزب نتانیاهو را لغو کرد",
+        "summary": [
+            "بنیامین نتانیاهو در نخستین نشست پارلمان جدید، با حملات تند به احزاب عربی، فضا را به سمت تنش کشاند.",
+            "گادی آیزنکوت به دنبال این سخنرانی تند، تمام برنامه‌های گفتگو با حزب لیکود را متوقف کرد.",
+            "از دست رفتن اکثریت ائتلاف حامی نتانیاهو، تشکیل دولت جدید را با چالش جدی مواجه کرده است."
+        ],
+        "impact": "تشدید بی‌ثباتی سیاسی در اسرائیل و به بن‌بست رسیدن تلاش‌ها برای تشکیل کابینه جدید.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/israel-knesset-tensions-eisenkot-cancels-likud-talks/33895163.html",
+        "clean_url": "https://www.radiofarda.com/a/israel-knesset-tensions-eisenkot-cancels-likud-talks/33895163.html",
+        "image": "https://gdb.rferl.org/978B0731-07AD-470E-A2BA-BE6A4666B23C.jpg",
+        "timestamp": 1794357840.0
+    },
+    {
         "id": "5528f2d201",
         "title_fa": "اعتراف پزشکیان به شکست دیپلماسی تهدید آمریکا",
         "title_en": "Iran war live: Pezeshkian says US using 'mother of all bombs' for diplomacy",
@@ -5492,24 +5511,5 @@
         "clean_url": "https://www.fox6now.com/news/future-astronauts-wanted-nasa-opens-recruitment-moon-missions",
         "image": "http://www.bing.com/th?id=ONUT.fNDr4dH_EarldFaqymV3Kw&pid=News",
         "timestamp": 1794079020.0
-    },
-    {
-        "id": "43876adbd0",
-        "title_fa": "محاسبه اشتباه تندروهای تهران برای امتیازگیری از آمریکا",
-        "title_en": "Why Iran believes Trump’s midterm defeat gives it the upper hand",
-        "summary": [
-            "جناح حاکم در تهران تصور می‌کند تضعیف موقعیت سیاسی ترامپ در داخل آمریکا، فرصتی تازه برای بالا بردن قیمت و باج‌خواهی در مذاکرات است.",
-            "این خط تحلیلی بر پایه یک توهم قدیمی شکل گرفته که تغییرات حزبی در واشنگتن می‌تواند استراتژی کلان فشار بر ج.ا.ا را تغییر دهد.",
-            "نتیجه این رویکرد، پافشاری بر شروط زیاده‌خواهانه و طولانی‌تر شدن بن‌بست دیپلماتیک خواهد بود."
-        ],
-        "impact": "تداوم بلاتکلیفی دیپلماتیک و تعویق هرگونه گشایش اقتصادی برای بازار ایران.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/why-iran-believes-trumps-midterm-defeat-gives-it-the-upper-hand-hormuz-shipping-updates-10955116/",
-        "clean_url": "https://indianexpress.com/article/world/why-iran-believes-trumps-midterm-defeat-gives-it-the-upper-hand-hormuz-shipping-updates-10955116",
-        "image": "http://www.bing.com/th?id=ONUT.tC1ibnraPZcag8_AmAY-4Q&pid=News",
-        "timestamp": 1794077400.0
     }
 ]
