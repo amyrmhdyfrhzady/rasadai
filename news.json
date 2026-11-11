@@ -404,6 +404,24 @@
         "timestamp": 1794386636.0
     },
     {
+        "id": "ba81b5469b",
+        "title_fa": "تهدید اروپا توسط محسن رضایی در صورت حمله به تهران",
+        "title_en": "US-Iran war live: Tehran rejects Washington’s claims of military weakness, says defence capabilities remain strong",
+        "summary": [
+            "محسن رضایی مدعی شد توان دفاعی کشور همچنان بالاست و ادعای ضعف نظامی از سوی واشنگتن را رد کرد.",
+            "تهران هشدار داد پایگاه‌های نظامی آمریکا در کشورهای اروپایی را در صورت مشارکت در حملات احتمالی هدف قرار می‌دهد."
+        ],
+        "impact": "افزایش ریسک امنیتی برای پایگاه‌های ایالات متحده در خاک اروپا و گسترش ابعاد احتمالی درگیری.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Hindustan Times on MSN",
+        "url": "https://www.msn.com/en-in/news/world/us-iran-war-live-tehran-rejects-washington-s-claims-of-military-weakness-says-defence-capabilities-remain-strong/ar-AA2hb5lH",
+        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-live-tehran-rejects-washington-s-claims-of-military-weakness-says-defence-capabilities-remain-strong/ar-AA2hb5lH",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794386381.0
+    },
+    {
         "id": "0343dfc0bd",
         "title_fa": "تکذیب مذاکره با واشنگتن و خط‌ونشان برای تنگه هرمز",
         "title_en": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
@@ -5491,23 +5509,5 @@
         "clean_url": "https://www.iranintl.com/en/202611083306",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1794127320.0
-    },
-    {
-        "id": "ab30a20602",
-        "title_fa": "تحلیل تناقض شکست سیاسی و پیروزی تاریخی",
-        "title_en": "Political defeat, historic victory",
-        "summary": [
-            "بررسی روایت‌های متناقض از تحولات اخیر خاورمیانه در رسانه‌های عبری",
-            "شکست‌های دیپلماتیک همزمان با دستاوردهای راهبردی در میدان"
-        ],
-        "impact": "بازتاب تضاد میان تصمیمات سیاسی و نتایج میدانی در رسانه‌های اسرائیل",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRVlZxamV5T0NBLWdZQU9TRmd6ZlhKbFRJM3VMRXdzdzd3ZTR4Vk5yblNFc0tWWnhLWVVkdEFOZUU4aUhFMWZ1UzN5ZFBFb2lhYTdPZGNCTzA2bThKTzRGeWctN0stSF84UFNvNG9CN01Zek41ZXZaQVE1aElqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRVlZxamV5T0NBLWdZQU9TRmd6ZlhKbFRJM3VMRXdzdzd3ZTR4Vk5yblNFc0tWWnhLWVVkdEFOZUU4aUhFMWZ1UzN5ZFBFb2lhYTdPZGNCTzA2bThKTzRGeWctN0stSF84UFNvNG9CN01Zek41ZXZaQVE1aElqQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794127292.0
     }
 ]
