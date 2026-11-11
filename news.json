@@ -238,6 +238,24 @@
         "timestamp": 1794347485.0
     },
     {
+        "id": "5ca85f7dc9",
+        "title_fa": "پاسخ جمهوری‌خواهان به شکست انتخاباتی: تندتر شدن خط ترامپ",
+        "title_en": "The GOP delivers its answer to midterms rout: It’s intensifying the fight",
+        "summary": [
+            "جمهوری‌خواهان به جای عقب‌نشینی و تغییر تاکتیک پس از شکست‌های انتخاباتی، حملات تهاجمی و لحن رادیکال خود را شدت بخشیده‌اند.",
+            "تسلط کامل دونالد ترامپ بر ساختار حزب مانع از هرگونه تمایل به اعتدال‌گرایی یا سازش با دموکرات‌ها شده است."
+        ],
+        "impact": "تشدید قطبی‌سازی در کنگره مسیر تصویب قوانین کلیدی و بودجه‌های فدرال را ناهموارتر می‌کند.",
+        "tag": "سیاست_خارجی",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-gop-delivers-its-answer-to-midterms-rout-it-s-intensifying-the-fight/ar-AA2hbMRU",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-gop-delivers-its-answer-to-midterms-rout-it-s-intensifying-the-fight/ar-AA2hbMRU",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794344475.0
+    },
+    {
         "id": "53a466033a",
         "title_fa": "بن‌بست راهبردی غرب در مواجهه با ایران",
         "title_en": "No Good Choices on Iran",
@@ -789,6 +807,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794324125.0
+    },
+    {
+        "id": "fae3195f73",
+        "title_fa": "حمله تند وزیر دفاع ترامپ به تلاش برای استیضاحش",
+        "title_en": "Hegseth decries impeachment effort as \"political spectacle\" as Massie says vote expected later today",
+        "summary": [
+            "پیت هگست تلاش برای استیضاح خود در کنگره را یک سیرک سیاسی و عقده‌گشایی شخصی علیه دونالد ترامپ نامید.",
+            "مجلس نمایندگان آمریکا قصد دارد با یک رأی‌گیری مقدماتی، این طرح استیضاح را بی‌اثر و مختومه کند.",
+            "این پرونده پرده از شدت تنش‌ها و شکاف میان حامیان وفادار ترامپ و جمهوری‌خواهان ناراضی برمی‌دارد."
+        ],
+        "impact": "تثبیت موقعیت هگست در پنتاگون به قیمت افزایش درگیری‌های داخلی میان جمهوری‌خواهان تمام می‌شود.",
+        "tag": "آمریکا",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/",
+        "clean_url": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war",
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/06bb4d78-e126-4b3b-81d7-8718ea20e9ef/thumbnail/1200x630/02a0949682f7c73da302a5756eaa2acc/ap26314474865597.jpg",
+        "timestamp": 1794323640.0
     },
     {
         "id": "90fe918eb6",
@@ -5469,42 +5506,5 @@
         "clean_url": "https://www.detroitnews.com/story/news/politics/2026/11/07/trump-orders-doj-democrats-slotkin-sending-threatening-letters/92664188007",
         "image": "http://www.bing.com/th?id=ONUT.XHUXQj3qovzS_aqvgxQWAA&pid=News",
         "timestamp": 1794057960.0
-    },
-    {
-        "id": "2b22ce8e3b",
-        "title_fa": "فشار به ترامپ برای پایان درگیری با ج.ه",
-        "title_en": "Ingraham urges Trump to cut his losses on Iran after midterm losses",
-        "summary": [
-            "مجری فاکس نیوز از ترامپ خواست قید ادامه درگیری پرهزینه با ایران را بزند",
-            "شکست‌های انتخاباتی جمهوری‌خواهان عامل اصلی این درخواست برای تغییر رویکرد است"
-        ],
-        "impact": "احتمال تعدیل فشارهای خارجی بر حکومت در صورت چرخش سیاست‌های واشنگتن",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Arkansas Public Advocate on MSN",
-        "url": "https://www.msn.com/en-us/news/other/ingraham-urges-trump-to-cut-his-losses-on-iran-after-midterm-losses/ar-AA2gYrPZ",
-        "clean_url": "https://www.msn.com/en-us/news/other/ingraham-urges-trump-to-cut-his-losses-on-iran-after-midterm-losses/ar-AA2gYrPZ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794057759.0
-    },
-    {
-        "id": "cf32995348",
-        "title_fa": "خطر درگیری نظامی با ج.ا همچنان در اوج است",
-        "title_en": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-        "summary": [
-            "تغییرات در کنگره آمریکا تأثیر چندانی بر سیاست‌های تقابلی با تهران ندارد.",
-            "ساختار قدرت در واشینگتن فارغ از جناح‌بندی‌ها، بر مهار فعالیت‌های منطقه‌ای ج.ا متمرکز است.",
-            "تنش‌های نظامی به دلیل رفتارهای بی‌ثبات‌کننده در منطقه، همچنان پتانسیل انفجار دارد."
-        ],
-        "impact": "تداوم فضای ناامنی و افزایش ریسک درگیری‌های مستقیم نظامی در خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794056592.0
     }
 ]
