@@ -331,6 +331,24 @@
         "timestamp": 1794369660.0
     },
     {
+        "id": "dd8fa44fba",
+        "title_fa": "هشدار کهنه‌سربازان آمریکایی درباره سیاست‌های ترامپ در قبال ایران",
+        "title_en": "Trump's Iran war draws 'disaster' warning from American veterans",
+        "summary": [
+            "گروهی از کهنه‌سربازان آمریکایی نسبت به رویکرد جنگ‌طلبانه در قبال ای...ران هشدار داده و آن را فاجعه‌بار خواندند.",
+            "انتقادات تندی متوجه نحوه مدیریت تنش‌ها توسط دونالد ترامپ شده است."
+        ],
+        "impact": "افزایش فشارهای سیاسی داخلی در آمریکا علیه اقدامات نظامی احتمالی.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-s-iran-war-draws-disaster-warning-from-american-veterans/ar-AA2hcTWG",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-iran-war-draws-disaster-warning-from-american-veterans/ar-AA2hcTWG",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794369600.0
+    },
+    {
         "id": "5b6cd59e84",
         "title_fa": "یار نزدیک ترامپ در مجلس نمایندگان آمریکا",
         "title_en": "Trump ally Jim Jordan takes House GOP leadership with tough record on Iran",
@@ -5492,24 +5510,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pS1o1YlpiOFAwNVktZHhvSDEySWZkRDNkM2MyVUlabjlIQWZVd3ZJWUE4a3JxVHN0eTEzUXRNMDVWR3N0bnYtclZ6WVJCdVlrbWM2VWxna3I",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794103786.0
-    },
-    {
-        "id": "819d9be391",
-        "title_fa": "اتهام اسلام‌آباد به اسرائیل درباره تخریب دیپلماسی تهران و واشنگتن",
-        "title_en": "Pakistan Accuses Israel of Threatening US-Iran Peace Efforts",
-        "summary": [
-            "پاکستان علناً اسرائیل را به تلاش برای کارشکنی در مسیر کاهش تنش میان آمریکا و حکومت ایران متهم کرد.",
-            "اسلام‌آباد با این موضع‌گیری می‌خواهد ضمن نزدیک شدن به تهران، خود را به عنوان بازیگر فعال منطقه معرفی کند.",
-            "تل‌آویو هرگونه توافق نیم‌بند میان آمریکا و تهران را که تهدیدات هسته‌ای و منطقه‌ای را مهار نکند، خط قرمز خود می‌داند."
-        ],
-        "impact": "تشدید جنگ روانی و فشارهای سیاسی منطقه‌ای علیه اقدامات رو‌به‌جلوی تل‌آویو.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Media Line",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcElyTktYMGFLQUZXSFJUVUtSaW5tWDktTlRramJON3dnQzRVOXJoVDRDM2g2bnNLSk8xX2tYM3ZJeG1oMkRyeUVRY3R1TEpVZnpxOEtoY3NGa3ZwRkJxUU1BOWU0TVVMd2l5S0luLTZ2MjljcXZrdlV5aXkwbDJFdUNLQ0R4elhPOUg3UEhWRXRIOUJpYWZJRFg5TmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcElyTktYMGFLQUZXSFJUVUtSaW5tWDktTlRramJON3dnQzRVOXJoVDRDM2g2bnNLSk8xX2tYM3ZJeG1oMkRyeUVRY3R1TEpVZnpxOEtoY3NGa3ZwRkJxUU1BOWU0TVVMd2l5S0luLTZ2MjljcXZrdlV5aXkwbDJFdUNLQ0R4elhPOUg3UEhWRXRIOUJpYWZJRFg5TmM",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794095941.0
     }
 ]
