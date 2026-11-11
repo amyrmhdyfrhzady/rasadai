@@ -347,6 +347,25 @@
         "timestamp": 1794373860.0
     },
     {
+        "id": "1dd3246e4c",
+        "title_fa": "اخطار قاطع گروه هفت به حاکمیت ایران",
+        "title_en": "G7 warns Iran of continued pressure if diplomacy fails",
+        "summary": [
+            "وزرای خارجه جی‌پشتیبانی از دیپلماسی را مشروط به توقف برنامه‌های اتمی و منطقه‌ای کردند.",
+            "فشارهای اقتصادی و سیاسی علیه ج--مهوری اس--لامی در صورت بن‌بست دیپلماتیک تشدید می‌شود.",
+            "کشورهای غربی بر مهار کامل فعالیت‌های بی‌ثبات‌کننده تهران در سطح جهان تأکید دارند."
+        ],
+        "impact": "افزایش انزوای سیاسی و تنگنای اقتصادی برای حاکمیت ایران در صورت شکست توافق.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611111088",
+        "clean_url": "https://www.iranintl.com/en/202611111088",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/6b31fa8150c05355604123bb642e8e9aa697f923-8256x5504.jpg?rect=0,585,8256,4334&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794373080.0
+    },
+    {
         "id": "2058482ab9",
         "title_fa": "بن‌بست هسته‌ای؛ تهران عقب‌نشینی نمی‌کند",
         "title_en": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues",
@@ -492,6 +511,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-war-war-choice-trump-110247797.html",
         "image": "http://www.bing.com/th?id=ONUT.Ihrj9ynUftV7cvHdy3i1vQ&pid=News",
         "timestamp": 1794366120.0
+    },
+    {
+        "id": "3d49d6d782",
+        "title_fa": "یخ‌زدگی مدارس و بحران انرژی در کشور",
+        "title_en": "Students shiver in classrooms as Iran government warns of gas cuts",
+        "summary": [
+            "دانش‌آموزان در کلاس‌های فاقد سیستم گرمایشی و با پتو سر کلاس حاضر می‌شوند.",
+            "سخنگوی دولت از احتمال قطع گاز خبر داده اما بر باز بودن اجباری مدارس اصرار دارد."
+        ],
+        "impact": "تشدید نارضایتی عمومی خانواده‌ها از ناکارآمدی دولت در مدیریت بحران انرژی.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611112981",
+        "clean_url": "https://www.iranintl.com/en/202611112981",
+        "image": "http://www.bing.com/th?id=ONUT.Vg1nBRn_A4IgwA4sU55uuw&pid=News",
+        "timestamp": 1794363660.0
     },
     {
         "id": "1df363fcfd",
@@ -5472,41 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFppYUcyaF95QUhuVW5Wd210WjhHNWp4T2ZIcVBzTHN5NUFjU3dseFJGc01TMF9IV0FTdklYUHhsLW1jcjdFTmxHRmEwcVV4bjl6ZEdxa2xXcHcydXI2Skd3aEVUZGFoWkwybEVvdmxmSVMxYVdkdFNER0ZyeWlSZXg3WUt3ZC1qcWdEamFNc3ZVM1RoS1FPLWhMZ29YYmEydUVHQUVqSm5ySnk4ZWZibkZseHFOd9IBuwFBVV95cUxPVklVY2c3aWt0dnZUdEpCZ0JzWkJJdDh4MHZjZVhqR3FSdjgzaTdEMExQS1lQZFJjMjZ0eDd5RURrb3ZYYjNpRWdmYmJHSmd6ZTZ2QW9faGNhbWQtbkpfc1M5ZmZKX1RiN0ZZa21Cb1UxdDZqcHVBR21FakNDV1BvWGFqRUIyVDk2WVpqWkpLNUU3Z2hYd19lMUlybkkwVS1xaGxvelVVV01zR3E5UTJsWjNHaVZKVVAzeUZn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794118872.0
-    },
-    {
-        "id": "c8402fce1d",
-        "title_fa": "بحران سیل و طوفان در ایران جان ۴ نفر را گرفت",
-        "title_en": "Floods and severe weather kill four, injure 11 across Iran",
-        "summary": [
-            "بارش‌های سیل‌آسا در چندین استان کشور راه ارتباطی نزدیک به ۲۰۰ روستا را قطع کرد.",
-            "عدم مدیریت بحران و فرسودگی زیرساخت‌ها بار دیگر هزینه جانی و مالی سنگینی به شهروندان تحمیل کرد."
-        ],
-        "impact": "اختلال گسترده در شبکه برق، آب و راه‌های مواصلاتی چندین استان جنوبی و غربی کشور.",
-        "tag": "حوادث",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611081460",
-        "clean_url": "https://www.iranintl.com/en/202611081460",
-        "image": "http://www.bing.com/th?id=ONUT.057GuUE33FPKLXES1cwYGQ&pid=News",
-        "timestamp": 1794118860.0
-    },
-    {
-        "id": "95dc03473e",
-        "title_fa": "جهش قیمت نفت با گمانه‌زنی‌ها درباره تنش‌های خاورمیانه",
-        "title_en": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
-        "summary": [
-            "بازار جهانی انرژی با حساسیت بالا تحولات امنیتی منطقه را دنبال می‌کند.",
-            "هرگونه سیگنال از توافق یا درگیری مستقیم، نوسانات شدیدی در بازار نفت ایجاد می‌کند."
-        ],
-        "impact": "افزایش قیمت نفت به دلیل عدم قطعیت در ثبات امنیتی منطقه.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794118807.0
     }
 ]
