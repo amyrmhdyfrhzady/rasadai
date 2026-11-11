@@ -1,5 +1,23 @@
 [
     {
+        "id": "056dccb54b",
+        "title_fa": "بازگشت تحریم‌های سنگین کانادا علیه نهادهای اتمی و بانکی ج.ا",
+        "title_en": "Canada reinstates sanctions on eleven Iranian entities linked to nuclear activities",
+        "summary": [
+            "دولت کانادا در حاشیه نشست گروه هفت، تحریم‌های جدیدی را علیه ۱۱ نهاد مرتبط با برنامه‌های اتمی و موشکی ج.ا اعمال کرد.",
+            "بانک‌های ملت و ملی نیز به دلیل نقش داشتن در تأمین مالی اقدامات مخرب در فهرست سیاه اتاوا قرار گرفتند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره مالی و افزایش فشار بر شریان‌های ارزی و اتمی حاکمیت.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "energynews",
+        "url": "https://energynews.pro/en/canada-reinstates-sanctions-on-eleven-iranian-entities-linked-to-nuclear-activities",
+        "clean_url": "https://energynews.pro/en/canada-reinstates-sanctions-on-eleven-iranian-entities-linked-to-nuclear-activities",
+        "image": "https://img.energynews.pro/articles/6d4faec9218113ad.webp",
+        "timestamp": 1794416580.0
+    },
+    {
         "id": "a5cc2e1b4a",
         "title_fa": "ادعای ترامپ درباره شکست تهران و پرسش از راز بقای حکومت",
         "title_en": "Trump Says Iran Is Defeated — So Why Is the Regime Still Standing?",
@@ -5490,24 +5508,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/democrats-plot-to-choke-off-iran-war-with-some-gop-help/ar-AA2h0LrC",
         "image": "http://www.bing.com/th?id=ONUT.wgFA6VS6HATfYsdJtvla3g&pid=News",
         "timestamp": 1794128400.0
-    },
-    {
-        "id": "e21ff2d8c2",
-        "title_fa": "شاهزاده رضا پهلوی: حکومت در شکننده‌ترین وضعیت تاریخ است",
-        "title_en": "Exiled Prince Pahlavi says Iran’s regime is more fragile than ever",
-        "summary": [
-            "جمهوری اسلامی از همیشه آسیب‌پذیرتر و دچار شکاف‌های عمیق درون‌سازه شده است.",
-            "بحران شدید اقتصادی توان مالی تهران برای حمایت از نیروهای امنیتی و بازوهای نیابتی را به شدت کاهش داده است.",
-            "کشورهای اروپایی به خطرات امنیتی جدی ناشی از همکاری‌های نظامی تهران با مسکو پی برده‌اند."
-        ],
-        "impact": "فشار اقتصادی و افزایش نارضایتی‌ها، ساختار سرکوب حکومت را زمین‌گیر کرده است.",
-        "tag": "اپوزیسیون",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611083306",
-        "clean_url": "https://www.iranintl.com/en/202611083306",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1794127320.0
     }
 ]
