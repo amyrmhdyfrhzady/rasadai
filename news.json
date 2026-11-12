@@ -329,6 +329,25 @@
         "timestamp": 1794455962.0
     },
     {
+        "id": "4d63c6a1f6",
+        "title_fa": "تهدید خانواده‌ دادخواه به برچسب تروریستی توسط ج.ا",
+        "title_en": "Slain protesters' families in Iran threatened with 'terrorist' label",
+        "summary": [
+            "نهادهای امنیتی خانواده‌های کشته‌شدگان اعتراضات را احضار کرده‌اند تا روایت حکومتی مرگ عزیزانشان را بپذیرند.",
+            "استفاده از اصطلاح جاویدنام به جای شهید، خانواده‌ها را با تهدید ثبت در لیست تروریستی مواجه کرده است.",
+            "حکومت با فشارهای امنیتی و وعده امتیاز تلاش می‌کند از برگزاری مراسم سالگرد جلوگیری کند."
+        ],
+        "impact": "سرکوب عریان خانواده‌های دادخواه برای جلوگیری از زنده ماندن یاد اعتراضات در آستانه سالگرد.",
+        "tag": "سرکوب",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611123289",
+        "clean_url": "https://www.iranintl.com/en/202611123289",
+        "image": "http://www.bing.com/th?id=ONUT.T1gzsyKVlqDAVzKKxnemZw&pid=News",
+        "timestamp": 1794454260.0
+    },
+    {
         "id": "939e8aaa77",
         "title_fa": "اتهام سایبری فرانسه به ایران و تلاش برای تحریم‌های جدید اروپایی",
         "title_en": "France blames Iran for supermarket fridge hacks, seeks EU sanctions",
@@ -5490,24 +5509,5 @@
         "clean_url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
         "image": "http://www.bing.com/th?id=ONUT.hrj9g8K716UCSyLqRiPuxA&pid=News",
         "timestamp": 1794185940.0
-    },
-    {
-        "id": "e06f2decaa",
-        "title_fa": "موضع ترامپ درباره جنگ با ایـران و بن‌بست دیپلماسی",
-        "title_en": "Trump says there is \"no reason\" to escalate war with Iran",
-        "summary": [
-            "دونالد ترامپ در مصاحبه‌ای اعلام کرد هیچ دلیلی برای تشدید درگیری نظامی با ایـران وجود ندارد.",
-            "مارکو روبیو، وزیر خارجه، مطالبات ایـران را غیرقابل قبول خواند و هرگونه توافق فوری را رد کرد.",
-            "دیدار پیش روی ترامپ با نخست‌وزیر قطر، میانجی‌گری میان واشنگتن و تهران را وارد مرحله جدیدی می‌کند."
-        ],
-        "impact": "سایه سنگین مطالبات غیرقابل قبول دو طرف بر میز مذاکرات غیرمستقیم قطر",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-says-no-reason-escalate-084226794.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-no-reason-escalate-084226794.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/c5d07e721b26a1630da3a285bcabaad4bf21751894b451d8f2fe0b76799e17fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fbede14476339826610f6fc005d65b43e.jpg",
-        "timestamp": 1794184920.0
     }
 ]
