@@ -73,6 +73,25 @@
         "timestamp": 1794476168.0
     },
     {
+        "id": "c695fdd650",
+        "title_fa": "خط و نشان ترامپ و شرط‌گذاری قالیباف برای تنگه هرمز",
+        "title_en": "Iranian commanders threaten to kill Trump, strike US targets worldwide",
+        "summary": [
+            "دونالد ترامپ با اعلام شکست نظامی تـکـراری جـمـهـوریت اسلامی، از قطعی بودن پیروزی کامل آمریکا خبر داد.",
+            "محمدباقر قالیباف مدعی شد تـهـران شرایط هفت‌گانه خود را برای بازگشایی تنگه هرمز و از سرگیری مذاکرات روی میز گذاشته است.",
+            "شکست پروژه های بازدارندگی میدانی، نظام را در بن‌بست میان جنگ و صلح گرفتار کرده است."
+        ],
+        "impact": "افزایش تنش‌های نظامی در آبراه حیاتی خلیج فارس و تشدید سایه جنگ بر اقتصاد کشور",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611111877",
+        "clean_url": "https://www.iranintl.com/en/202611111877",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/e2439bffeaf84567ad33d6d15305dca186f7f8f0-800x533.jpg?rect=0,14,635,507&w=576&h=460&q=90&fit=max&auto=format",
+        "timestamp": 1794475800.0
+    },
+    {
         "id": "c6e413dcfc",
         "title_fa": "نشست اضطراری کابینه نتانیاهو همزمان با هشدار ایزنکوت درباره جنگ با ایران",
         "title_en": "Benjamin Netanyahu to convene Israel's Security Cabinet, Gadi Eisenkot warns against Iran war",
@@ -5491,24 +5510,5 @@
         "clean_url": "https://today.lorientlejour.com/article/1553823/midday-recap-washington-and-tehran-send-mixed-signals-lebanon-on-g7-agenda-kfar-shuba-olive-groves-again-at-center-of-tensions.html",
         "image": "https://s.lorientlejour.com/storage/attachments/1554/2026-11-08T175028Z_901137303_RC2PJOADNI19_RTRMADP_3_IRAN-CRISIS_386875_418963.jpg/r/800/2026-11-08T175028Z_901137303_RC2PJOADNI19_RTRMADP_3_IRAN-CRISIS_386875_418963.jpg",
         "timestamp": 1794184200.0
-    },
-    {
-        "id": "177fe69c36",
-        "title_fa": "روبیو: اقدام نظامی ترامپ علیه ایران برای مهار تهدید هسته‌ای بود",
-        "title_en": "Rubio says Trump's war against Iran not necessarily popular but needed to stop a nuclear threat",
-        "summary": [
-            "مارکو روبیو وزیر خارجه آمریکا تصریح کرد حمله نظامی ترامپ علیه ایران، حتی بدون محبوبیت عمومی، برای مهار خطرات هسته‌ای کاملاً ضروری بوده است.",
-            "تیم ترامپ با پذیرش هزینه‌های سیاسی درگیری، پیام صریحی مبنی بر عبور از خط قرمز هسته‌ای به طرف مقابل فرستاد.",
-            "این سخنان تایید می‌کند که واشنگتن دکترین درگیری مستقیم را جایگزین صرفِ ابزارهای دیپلماتیک یا فشار اقتصادی کرده است."
-        ],
-        "impact": "تثبیت دکترین درگیری پیش‌دستانه واشنگتن و افزایش بی‌سابقه احتمال رویارویی‌های مستقیم نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Associated Press News",
-        "url": "https://www.msn.com/en-us/news/other/rubio-says-trump-s-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/ar-AA2h1FV9",
-        "clean_url": "https://www.msn.com/en-us/news/other/rubio-says-trump-s-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/ar-AA2h1FV9",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h16xn.img?w=1024&h=682&m=4&q=94",
-        "timestamp": 1794182793.0
     }
 ]
