@@ -441,6 +441,24 @@
         "timestamp": 1794465895.0
     },
     {
+        "id": "88885df9b6",
+        "title_fa": "عقب‌نشینی ترامپ از مذاکره با تهران",
+        "title_en": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+        "summary": [
+            "ترامپ اعلام کرد که جی‌دی ونس را از مذاکرات احتمالی با تهران کنار گذاشته است.",
+            "رئیس‌جمهور آمریکا تأکید کرد که نیازی به توافق با جـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی وجود ندارد."
+        ],
+        "impact": "تغییر مسیر واشنگتن و افزایش ابهام درباره راهبرد آینده در قبال پرونده ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "nytimes.com",
+        "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+        "clean_url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+        "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-facebookJumbo.jpg",
+        "timestamp": 1794465360.0
+    },
+    {
         "id": "31f63231d9",
         "title_fa": "سقوط تاریخی جمعیت ایران؛ احتمال کاهش به ۳۱ میلیون نفر",
         "title_en": "Iran's population could plunge to 31 million as birth policies fail",
@@ -5502,23 +5520,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-trump-midterms-loss-tehran-peace-talks-qatar-mediator-strikes-hegseth-israel-netanyahu-news-101794189143678.html",
         "image": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/usiran_1794236937491_n13y_1794236937924_cF1b_e7de7127-6285-41b9-b28a-6dd528277cfd_NQ3S.jpg",
         "timestamp": 1794207840.0
-    },
-    {
-        "id": "a1c2da0b13",
-        "title_fa": "امارات: توافق تهران و واشنگتن به این زودی‌ها ممکن نیست",
-        "title_en": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult",
-        "summary": [
-            "انور قرقاش نسبت به تداوم بحران و تنش در منطقه هشدار داد.",
-            "دیپلماسی میان ایران و آمریکا در بن‌بست جدی قرار گرفته است."
-        ],
-        "impact": "افزایش ریسک سرمایه‌گذاری و ماندگاری ناامنی در کل منطقه",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlI2UXNzNl84Z1ByMV9Ybm5YNjMtZkdPcDhsZ2plZk9udWViZDZ4eTRVQVNXN2x6U2hENlkxbXJ2SXVvVU0tVWFkZGlSLXBDcnBZM1pzLVBNMzA5bjdZOHlFSXd6ZzhsWWZvV3JWWXlTME1tMnJ5Q0RoWHk1ZmJzbzk5cjZFaDI4NXpTOGRaVDBTNGNxcnRZYjF0X2NzY3EwaEJZcVhMaHRRMXREdXBkeXh6OGRCdU9aaWRJdS1zNzBQSUJCZEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlI2UXNzNl84Z1ByMV9Ybm5YNjMtZkdPcDhsZ2plZk9udWViZDZ4eTRVQVNXN2x6U2hENlkxbXJ2SXVvVU0tVWFkZGlSLXBDcnBZM1pzLVBNMzA5bjdZOHlFSXd6ZzhsWWZvV3JWWXlTME1tMnJ5Q0RoWHk1ZmJzbzk5cjZFaDI4NXpTOGRaVDBTNGNxcnRZYjF0X2NzY3EwaEJZcVhMaHRRMXREdXBkeXh6OGRCdU9aaWRJdS1zNzBQSUJCZEE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794207660.0
     }
 ]
