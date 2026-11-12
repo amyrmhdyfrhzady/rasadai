@@ -1,5 +1,23 @@
 [
     {
+        "id": "32140116a9",
+        "title_fa": "اختیارات نتانیاهو برای حمله به ایران در دولت موقت",
+        "title_en": "Can Netanyahu launch another war against Iran while leading a caretaker government?",
+        "summary": [
+            "جدال حقوقی در تل‌آویو بر سر اختیارات کابینه انتقالی بالا گرفته، اما اختیارات کلیدی نتانیاهو برای تصمیم‌گیری‌های امنیتی علیه ایران همچنان پابرجاست.",
+            "تلاش رقبای سیاسی برای تشکیل حکومت جدید، مانع تصمیمات ضربتی ارتش اسرائیل علیه مواضع ایران و محور منطقه‌ای نخواهد بود."
+        ],
+        "impact": "افزایش احتمال اقدام نظامی شوک‌آور اسرائیل علیه تأسیسات ایران در فضای خلاء سیاسی تل‌آویو.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-gb/news/other/can-a-transitional-government-start-a-war-with-iran/ar-AA2hhgWU",
+        "clean_url": "https://www.msn.com/en-gb/news/other/can-a-transitional-government-start-a-war-with-iran/ar-AA2hhgWU",
+        "image": "https://s.yimg.com/lo/mysterio/api/56ed8b6902409ab8dcfb7ec8eb209f0b20235eabf1a709c5663f98f277085726/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/jerusalem_post_articles_818/00a8d522cd30304481bd0998c1135fcd.jpg",
+        "timestamp": 1794474031.0
+    },
+    {
         "id": "5036a3b5b4",
         "title_fa": "رئیس صنایع هوایی اسرائیل: جنگ بعدی با ایران حتمی است",
         "title_en": "Israel Aerospace Industries chair says another war with Iran is inevitable, urges closer U.S. ties",
@@ -5490,23 +5508,5 @@
         "clean_url": "https://www.couriermail.com.au/news/world/middle-east/us-military-launches-new-task-force-targeting-iranian-land-borders-and-weapons-routes/news-story/3bfff1cbcac92ee11658633d24f8f0b1",
         "image": "https://content.api.news/v3/images/bin/4c1249492930a791905bc26c4db02cf9",
         "timestamp": 1794171420.0
-    },
-    {
-        "id": "1d22828849",
-        "title_fa": "بازگشت بورس‌های آسیایی به مدار صعود",
-        "title_en": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
-        "summary": [
-            "سهام حوزه فناوری و هوش مصنوعی در وال‌استریت بخشی از افت‌های هفته گذشته را جبران کردند.",
-            "بازارهای مالی آسیا به این خبر واکنش مثبت نشان داده و شاخص‌ها رشد کردند."
-        ],
-        "impact": "تعدیل موقت فشار فروش در بازارهای مالی بین‌المللی پس از نوسانات شدید اخیر.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/stocks-markets-ai-trump-oil-d938f8e6ff42b3706e1d36e6245ec56b",
-        "clean_url": "https://apnews.com/article/stocks-markets-ai-trump-oil-d938f8e6ff42b3706e1d36e6245ec56b",
-        "image": "http://www.bing.com/th?id=ONUT.kVwu7o6xnhdzHqTLF1atUA&pid=News",
-        "timestamp": 1794168840.0
     }
 ]
