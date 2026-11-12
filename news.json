@@ -385,6 +385,25 @@
         "timestamp": 1794466831.0
     },
     {
+        "id": "b8f194450b",
+        "title_fa": "حمله سایبری ج-ا به فروشگاه‌های زنجیره‌ای فرانسه",
+        "title_en": "France accuses Iran of massive cyberattack on 700 supermarkets as Tehran denies responsibility and Paris threatens retaliation",
+        "summary": [
+            "فرانسه، ج-ا را مسئول مستقیم اختلال در سیستم‌های سرمایشی ۷۰۰ فروشگاه بزرگ می‌داند که منجر به آتش‌سوزی و خسارات سنگین شده است.",
+            "تهران طبق روال همیشگی دست داشتن در این عملیات را انکار کرده، اما پاریس تهدید به پاسخ متقابل کرده است.",
+            "این اقدام نشان‌دهنده تغییر فاز عملیات‌های سایبری ج-ا از جاسوسی به خرابکاری زیرساختی در خاک اروپا است."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و احتمال تحریم‌های سایبری جدید علیه نهادهای امنیتی ج-ا.",
+        "tag": "سایبری",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "BIG on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/france-accuses-iran-of-massive-cyberattack-on-700-supermarkets-as-tehran-denies-responsibility-and-paris-threatens-retaliation/ar-AA2hiZKS",
+        "clean_url": "https://www.msn.com/en-ca/news/other/france-accuses-iran-of-massive-cyberattack-on-700-supermarkets-as-tehran-denies-responsibility-and-paris-threatens-retaliation/ar-AA2hiZKS",
+        "image": "http://www.bing.com/th?id=ONUT.m-Q4MGwuU2HvmOr3dq8j_Q&pid=News",
+        "timestamp": 1794465895.0
+    },
+    {
         "id": "b0c9476ae9",
         "title_fa": "ادعای قالیباف درباره شروط هفت‌گانه در برابر بن‌بست با آمریکا",
         "title_en": "Iran says the US must ‘surrender’ to seven conditions. What are they?",
@@ -5498,23 +5517,5 @@
         "clean_url": "https://seekingalpha.com/article/4964904-weekly-commentary-earthquakes-and-chemical-reactions",
         "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1145914919/image_1145914919.jpg?io=getty-c-w630",
         "timestamp": 1794198600.0
-    },
-    {
-        "id": "53ed6d5c50",
-        "title_fa": "تغییر رژیم در ای...ران؛ هدف مطلوب اما سخت",
-        "title_en": "Regime Change in Iran: A Desirable Goal, but Not Necessarily Attainable",
-        "summary": [
-            "موسسات پژوهشی امنیتی اذعان دارند که سرنگونی ج...مهوری اس...لامی خواسته‌ای مطلوب است اما تحقق آن موانع جدی دارد.",
-            "ساختار سرکوب و ساختار بسته قدرت در داخل کشور، مسیر گذار را پیچیده کرده است."
-        ],
-        "impact": "افزایش بحث‌ها میان تحلیل‌گران درباره چالش‌های واقعی براندازی سیستم.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "www.inss.org.il",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hTld1czkzay1iLUljeElSM1ZKdnVrSk5TWFpla0I5Q2c0YWx2NU5xZkxGc05acVVzVnFKUkdleFRheFVyNXJBM0dFV3JzUWxOMERKVHBEaWE3NTFlYlRKY3E5VUVmdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hTld1czkzay1iLUljeElSM1ZKdnVrSk5TWFpla0I5Q2c0YWx2NU5xZkxGc05acVVzVnFKUkdleFRheFVyNXJBM0dFV3JzUWxOMERKVHBEaWE3NTFlYlRKY3E5VUVmdw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794194757.0
     }
 ]
