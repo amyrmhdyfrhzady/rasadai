@@ -1,5 +1,24 @@
 [
     {
+        "id": "11e143369b",
+        "title_fa": "درگیری لفظی شدید ترامپ و نتانیاهو سر حملات مجدد به ایران",
+        "title_en": "Trump and Netanyahu Blow Up at Each Other In a Screaming Phone Call Over Iran, Then Bibi Uses Trump's Favorite Comeback to Shut the Whole Thing Down",
+        "summary": [
+            "نتانیاهو در تماس تلفنی فشار آورده تا حملات نظامی علیه ایران از سر گرفته شود، اما ترامپ ترجیح می‌دهد فعلاً به دیپلماسی زمان بدهد.",
+            "دفتر نتانیاهو خبر این تنش تند کلامی را «فیک‌نیوز» خوانده، اما گزارش‌ها از شکاف جدی در استراتژی دو طرف پرده برمی‌دارد.",
+            "ترامپ با وجود چراغ‌سبز اولیه، فعلاً از ورود به یک جنگ جدید و ورود به تنش مستقیم با تهران خودداری می‌کند."
+        ],
+        "impact": "اختلاف در استراتژی واشنگتن و تل‌آویو تهاجم نظامی فوری را معلق کرده و فرصت تنفس دیپلماتیک ایجاد می‌کند.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Atlanta Black Star",
+        "url": "https://atlantablackstar.com/2026/11/12/trump-and-netanyahu-blow-up-at-each-other-in-a-screaming-phone-call/",
+        "clean_url": "https://atlantablackstar.com/2026/11/12/trump-and-netanyahu-blow-up-at-each-other-in-a-screaming-phone-call",
+        "image": "https://atlantablackstar.com/wp-content/uploads/2029/11/President-Trump-Meets-With-Israeli-PM-Netanyahu-At-His-Palm-Beach-Estate-300x200.jpg",
+        "timestamp": 1794499560.0
+    },
+    {
         "id": "694f227920",
         "title_fa": "قمار ترامپ و نتانیاهو؛ ضربه نهایی به ج.ا در راه است؟",
         "title_en": "Trump & Netanyahu's Iran Gamble: One More Strike?",
@@ -5506,23 +5525,5 @@
         "clean_url": "https://www.middleeasteye.net/news/senior-uae-official-says-gulf-faces-prolonged-uncertainty-no-settlement-war-iran",
         "image": "http://www.bing.com/th?id=ONUT.3hExnYIEBP-HZ0vAVAP1-Q&pid=News",
         "timestamp": 1794213720.0
-    },
-    {
-        "id": "90949dc4eb",
-        "title_fa": "طرح توافق مالی هشت میلیارد دلاری روی میز دونالد ترامپ",
-        "title_en": "$8 billion lifeline? Iranian deal set to land on Trump's desk",
-        "summary": [
-            "یک معامله مالی کلان هشت میلیارد دلاری مربوط به ایران آماده بررسی و تصمیم‌گیری روی میز رئیس‌جمهور آمریکا قرار گرفته است.",
-            "این طرح می‌تواند رویکرد اقتصادی دولت آمریکا در قبال تهران و پایداری تحریم‌ها را تحت تاثیر جدی قرار دهد."
-        ],
-        "impact": "احتمال ایجاد تغییرات مهم در مسیر جریان‌های مالی و فشارهای اقتصادی بر حکومت.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ZqOC1idGFhTHE5eFJsREtDa3Q3MWhfQlFOYzFWcGYyelBCN0lWQVFsUl9HenFJempWQ1lQSy1yTEFtMTM4ckhqT0JjQmhyWWhBenRBZ2o5Q0Q5b0h6N1Bzd0tVeElNUXNDZml3NFlPaWFzZENWRkE1UnFkc3lSajE0WlVwSjZqU2VFOWZnMmxhNzg2bllJeURncFdLa00?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ZqOC1idGFhTHE5eFJsREtDa3Q3MWhfQlFOYzFWcGYyelBCN0lWQVFsUl9HenFJempWQ1lQSy1yTEFtMTM4ckhqT0JjQmhyWWhBenRBZ2o5Q0Q5b0h6N1Bzd0tVeElNUXNDZml3NFlPaWFzZENWRkE1UnFkc3lSajE0WlVwSjZqU2VFOWZnMmxhNzg2bllJeURncFdLa00",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794213536.0
     }
 ]
