@@ -423,6 +423,25 @@
         "timestamp": 1794465895.0
     },
     {
+        "id": "31f63231d9",
+        "title_fa": "سقوط تاریخی جمعیت ایران؛ احتمال کاهش به ۳۱ میلیون نفر",
+        "title_en": "Iran's population could plunge to 31 million as birth policies fail",
+        "summary": [
+            "نرخ باروری در کشور به ۱.۳۴ فرزند به ازای هر زن رسیده که بسیار پایین‌تر از حد جایگزینی است.",
+            "سیاست‌های دستوری فرزندآوری و مشوق‌های مالی حاکمیت در برابر بحران معیشتی و ناامیدی اقتصادی شکست خورده‌اند.",
+            "ادامه این روند، کشور را با بحران عمیق سالمندی و ناپدید شدن نیروی مولد کار مواجه می‌کند."
+        ],
+        "impact": "تخریب ساختار نیروی کار و ورشکستگی قطعیت‌یافته صندوق‌های بازنشستگی در میان‌مدت.",
+        "tag": "اجتماعی",
+        "urgency": 5,
+        "sentiment": -0.75,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611126783",
+        "clean_url": "https://www.iranintl.com/en/202611126783",
+        "image": "http://www.bing.com/th?id=ONUT.1xufFklI1O9sgBSbru82eQ&pid=News",
+        "timestamp": 1794464280.0
+    },
+    {
         "id": "b0c9476ae9",
         "title_fa": "ادعای قالیباف درباره شروط هفت‌گانه در برابر بن‌بست با آمریکا",
         "title_en": "Iran says the US must ‘surrender’ to seven conditions. What are they?",
@@ -609,6 +628,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qdFRYZTJXSmdNZFpoZlg2enU1dmY3X083V21JRnZQWGNvYWpSZHd6eDkxT0NYOEx2aUwzaE1vYUF0QlVGSHJZc0g1NWlKeFc1UTFrelpuVjNuZEJwN0pLVWpIY1d0QS1Na2dwbDc1LUNiVTJta3NSMUlRblk",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794454234.0
+    },
+    {
+        "id": "94a7b8e01e",
+        "title_fa": "انفجار نفتکش‌ها در تنگه هرمز برای سومین روز متوالی",
+        "title_en": "Iran's Revolutionary Guards report tanker explosions for third day",
+        "summary": [
+            "نیروهای نظامی از زمین‌گیر شدن دو سوپرتانکر با بیش از ۴ میلیون بشکه نفت به ادعای تردد در مسیر غیرمجاز خبر دادند.",
+            "تکرار این انـ‌فـ‌جـ‌ارها طی چند روز گذشته، نشان‌دهنده برنامه‌ریزی هدفمند برای ناامن‌سازی خطوط دریانوردی است.",
+            "هدف اصلی این تحرکات، دست‌اندازی در بازار انرژی، بالا بردن قیمت جهانی نفت و ایجاد فشار سیاسی است."
+        ],
+        "impact": "جهش فوری در ریسک بیمه کشتی‌رانی و التهاب شدید در قیمت جهانی نفت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/irans-revolutionary-guards-report-tanker-111906024.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/irans-revolutionary-guards-report-tanker-111906024.html",
+        "image": "http://www.bing.com/th?id=ONUT.CHPXTSEv77ivT8AtfqkjBw&pid=News",
+        "timestamp": 1794453540.0
     },
     {
         "id": "5904687495",
@@ -5481,41 +5519,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794202685.0
-    },
-    {
-        "id": "15a91fa9ac",
-        "title_fa": "تشکیل کارگروه ویژه آمریکا همزمان با فروپاشی توافق هسته‌ای",
-        "title_en": "U.S. launches new task force as Iran nuclear talks collapse and war escalates",
-        "summary": [
-            "شکست کامل مذاکرات اتمی و بالا گرفتن درگیری‌ها، دولت آمریکا را ناچار به راه‌اندازی یک کارگروه تخصصی جدید کرد.",
-            "این اقدام امنیتی نشان می‌دهد محاسبات واشنگتن در قبال پرونده اتمی وارد فاز عملیاتی تازه‌ای شده است."
-        ],
-        "impact": "افزایش فشار همه‌جانبه بر جمهوری اسلامی و آمادگی برای سناریوهای سخت‌تر امنیتی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGZXZzVuVmlZbmhMV1YtUlFHNGdGQWZSek5Wa1Y2dU5KR3hEYzExYzNnNElOZTJrU2o5ZE9ob2RCOHMyX2FIaTloQnZFSmZjWDVEZ3BMdWZpd2lrdWw4SXFlclRQV09vUXlRV1doanV5T0tSeGtDaHNZOXEzeTZUb3JWMHMzRzFESjY2NV9FRkl4V0Fjbng4d1FJVUk4cVVyNW9GMmlRZG1KWnJYanRXX2pfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGZXZzVuVmlZbmhMV1YtUlFHNGdGQWZSek5Wa1Y2dU5KR3hEYzExYzNnNElOZTJrU2o5ZE9ob2RCOHMyX2FIaTloQnZFSmZjWDVEZ3BMdWZpd2lrdWw4SXFlclRQV09vUXlRV1doanV5T0tSeGtDaHNZOXEzeTZUb3JWMHMzRzFESjY2NV9FRkl4V0Fjbng4d1FJVUk4cVVyNW9GMmlRZG1KWnJYanRXX2pfQQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794201120.0
-    },
-    {
-        "id": "ec8fffba78",
-        "title_fa": "واکاوی ترامپ درباره دلایل شکست جمهوری‌خواهان و موضوع ج.ا",
-        "title_en": "War with Iran, gasoline prices, a 'great dislike' for Israel, Trump explains why GOP lost the elections | LIVE BLOG",
-        "summary": [
-            "دونالد ترامپ در تحلیل چرایی شکست حزب جمهوری‌خواه، به موضوعات کلیدی مثل جنگ با ج.ا و بهای بنزین اشاره کرد.",
-            "موضع‌گیری‌های ترامپ نشان می‌دهد که پرونده سیاست خارجی و چالش‌های اقتصادی همچنان محور اصلی تقابل‌های سیاسی در آمریکاست."
-        ],
-        "impact": "این اظهارات جهت‌گیری آینده سیاست خارجی ایالات متحده در قبال خاورمیانه را تحت تاثیر قرار می‌دهد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQamxXWl9rZkl6NFVmaUZtNUdRVm12b0d6dnE5ZXBKaWpxRDNyVDlLeHgxSnc0SlJUZm1mV1pXVlJ4ZzJjV1ZCc3Y3aW1NZnZ6ZTFkRHFleGdUcEdIWjFoTzNla1FsRjNvX2xDQ2RqVGMzUEp0VXpld28xeWN2MmFhcUFNVGx4TjRXclU0eEFrRWk3VDJRR0gwdkpwZnlDSFFJUXdlZ1NReVBqY0FTcE9kSUwwNDYxU1ZJdngyNXE4cWlWMUVabXdMUDZ2eTZPaHFpblVSOWpCc0diWW1ucDdZeU1rbDFHUWF0bjZIUzBrNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQamxXWl9rZkl6NFVmaUZtNUdRVm12b0d6dnE5ZXBKaWpxRDNyVDlLeHgxSnc0SlJUZm1mV1pXVlJ4ZzJjV1ZCc3Y3aW1NZnZ6ZTFkRHFleGdUcEdIWjFoTzNla1FsRjNvX2xDQ2RqVGMzUEp0VXpld28xeWN2MmFhcUFNVGx4TjRXclU0eEFrRWk3VDJRR0gwdkpwZnlDSFFJUXdlZ1NReVBqY0FTcE9kSUwwNDYxU1ZJdngyNXE4cWlWMUVabXdMUDZ2eTZPaHFpblVSOWpCc0diWW1ucDdZeU1rbDFHUWF0bjZIUzBrNA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794198660.0
     }
 ]
