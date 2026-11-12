@@ -514,6 +514,24 @@
         "timestamp": 1794433800.0
     },
     {
+        "id": "fbc1a748af",
+        "title_fa": "تغییر دکترین هسته‌ای جـمـهـورۍ اِسـلـامـی پس از حملات",
+        "title_en": "After the strikes, Iran rethinks the nuclear threshold",
+        "summary": [
+            "برنامه هسته‌ای جـمـهـورۍ اِسـلـامـی هنوز پابرجا مانده و از میز مذاکرات خارج است.",
+            "با حذف علی خامنه‌ای، فتوای محرومیت از تسلیحات اتمی عملاً بی‌اثر شده و بحث ساخت بمب دوباره روی میز آمده است."
+        ],
+        "impact": "افزایش فشارها برای عبور از آستانه هسته‌ای و تشدید چالش‌های امنیتی منطقه.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/532071/After-the-strikes-Iran-rethinks-the-nuclear-threshold",
+        "clean_url": "https://www.tehrantimes.com/news/532071/After-the-strikes-Iran-rethinks-the-nuclear-threshold",
+        "image": "https://media.mehrnews.com/d/2026/11/11/4/6258084.jpg?ts=1794420167974",
+        "timestamp": 1794432840.0
+    },
+    {
         "id": "58a002de21",
         "title_fa": "قالیباف: تنگه هرمز هرگز به شرایط قبل برنمی‌گردد",
         "title_en": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
@@ -5491,23 +5509,5 @@
         "clean_url": "https://apnews.com/video/in-senegal-black-surfers-want-to-reclaim-the-waves-despite-lack-of-resources-75d05aee2aa741d7a40f835a2852cb8f",
         "image": "http://www.bing.com/th?id=ONUT.7yneuHLMlX-5LBnNMWA0AA&pid=News",
         "timestamp": 1794186120.0
-    },
-    {
-        "id": "32adcfbdf1",
-        "title_fa": "مهلت سنا به صرافی‌های رمزارز و شرکت‌های مرتبط با ترامپ",
-        "title_en": "Binance, Tether and Trump crypto firms face Senate records deadline",
-        "summary": [
-            "نهادهای نظارتی سنا خواستار ارائه اسناد و شفاف‌سازی مالی از سوی بایننس، تتر و پروژه‌های کریپتویی مرتبط با ترامپ شدند.",
-            "این اقدام بخشی از فشار رو به رشد کنگره بر بازار دارایی‌های دیجیتال است."
-        ],
-        "impact": "افزایش نظارت حاکمیتی بر بازار رمزارزها و نهادهای مالی وابسته.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
-        "clean_url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
-        "image": "http://www.bing.com/th?id=ONUT.hrj9g8K716UCSyLqRiPuxA&pid=News",
-        "timestamp": 1794185940.0
     }
 ]
