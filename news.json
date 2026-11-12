@@ -54,6 +54,25 @@
         "timestamp": 1794482819.0
     },
     {
+        "id": "95da4a64ec",
+        "title_fa": "تهدید آمریکا به «روز سرنوشت اقتصادی» علیه صادرات نفت ج.ا",
+        "title_en": "US Vows ‘Economic D-Day’ as Iran Threatens to Halt All Oil Exports",
+        "summary": [
+            "واشنگتن با ادبیات تهاجمی جدید، هرگونه تلاش برای بستن شیرهای نفت را با پاسخی کوبنده و فلج‌کننده پاسخ می‌دهد.",
+            "تهدید ج.ا به توقف صادرات نفت، در واقع اعتراف به استیصال در برابر فشارهای حداکثری و تحریم‌های نفتی است.",
+            "این تقابل نشان می‌دهد که بازار انرژی به نقطه جوش رسیده و هرگونه ماجراجویی در خلیج فارس، هزینه‌ای سنگین برای تهران خواهد داشت."
+        ],
+        "impact": "افزایش شدید قیمت جهانی نفت و احتمال فروپاشی کامل درآمدهای ارزی ج.ا در صورت عملیاتی شدن تهدیدها.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR05zZW9mVXlDNVBRemVjOGpfNkRuZUlIaVNod0JjeHlCQmJUcmdhMjBCVEVweF9NTmRocjZKYi1UZkhfV2JXT1o4eUdmZ3RMU3pPY0dmVnJZbVRYdFFGUFpob2pNTUw3MHYxVTFyYThNdDNZNF9oY3lfaWZHdHd6OUFGMXhaN2dIU1A2bUhoQV8yUDN0U3JDb09qTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR05zZW9mVXlDNVBRemVjOGpfNkRuZUlIaVNod0JjeHlCQmJUcmdhMjBCVEVweF9NTmRocjZKYi1UZkhfV2JXT1o4eUdmZ3RMU3pPY0dmVnJZbVRYdFFGUFpob2pNTUw3MHYxVTFyYThNdDNZNF9oY3lfaWZHdHd6OUFGMXhaN2dIU1A2bUhoQV8yUDN0U3JDb09qTQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794482611.0
+    },
+    {
         "id": "53da47dd13",
         "title_fa": "انفجار ۲ سوپرنفتکش در تنگه هرمز؛ ادعای تازه سپاه",
         "title_en": "Shafaq News..Iran’s IRGC reports two supertankers burning in Hormuz",
@@ -5492,23 +5511,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0lJeGUybVJOd0RaOTJWMXZMakRNMzNZNnhrdS16RG4yWDc0elRhNFgtNFRvRmpYZG1IVFlnVWZtYThSdS1OMEFNR3RmbWRKWDBaR2NMQ2xSdGRqbFRLb3BBTGFKdENHS01vWWZUb0tjYWhCWVVXMDFjRUM4TzE1dWdWcFNrOW90RkNJQTk2V3Eybnd0aHRlY0dqWXlEWUY0UFBvYkZMT00zMWhrVExLc3U3RDAycTBrY0RKaTA2WWlnMEctd0JMZWZ2RmJyT00",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794189877.0
-    },
-    {
-        "id": "cb52759c4f",
-        "title_fa": "شتاب طرح‌های انرژی ترامپ در لوئیزیانا",
-        "title_en": "Trump push to build pipelines is playing out in Louisiana | Business News | nola.com",
-        "summary": [
-            "دولت ترامپ با کاهش قوانین دست‌وپاگیر، ساخت خطوط لوله گاز و پروژه‌های ال‌ان‌جی را تسریع کرده است.",
-            "گروه‌های محیط‌زیستی هشدار دادند که این رویکرد به تخریب وسیع تالاب‌ها و کاهش زمان بررسی‌های عمومی منجر شده است."
-        ],
-        "impact": "تسهیل اجرای پروژه‌های کلان انرژی علی‌رغم اعتراضات محیط‌زیستی.",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "NOLA.com",
-        "url": "https://www.nola.com/news/business/louisiana-trump-pipelines-energy-lng/article_c74dcd35-324d-5851-a83c-597409cee22f.html",
-        "clean_url": "https://www.nola.com/news/business/louisiana-trump-pipelines-energy-lng/article_c74dcd35-324d-5851-a83c-597409cee22f.html",
-        "image": "http://www.bing.com/th?id=ONUT.MP9wV09OIDs2oGLgJ0z1pg&pid=News",
-        "timestamp": 1794189660.0
     }
 ]
