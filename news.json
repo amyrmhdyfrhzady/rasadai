@@ -346,6 +346,24 @@
         "timestamp": 1794460095.0
     },
     {
+        "id": "45857e53af",
+        "title_fa": "چالش‌های ترامپ در بن‌بست تقابل با ج.ا",
+        "title_en": "Absolute victory against Iran comes at a cost",
+        "summary": [
+            "سیاست فشار حداکثری ترامپ بدون داشتن یک نقشه راه مشخص برای پایان بازی، عملاً به یک فرسایش هزینه‌بر تبدیل شده است.",
+            "محبوبیت پایین این رویکرد در داخل آمریکا و فشارهای بین‌المللی، دست ترامپ را برای پیشبرد اهدافش در برابر تـهـران بسته است."
+        ],
+        "impact": "تداوم سیاست‌های مبهم ترامپ منجر به افزایش هزینه‌های استراتژیک و کاهش حمایت‌های داخلی از دولت او می‌شود.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Hill",
+        "url": "https://thehill.com/opinion/national-security/6212551-iran-nuclear-conflict-costs/",
+        "clean_url": "https://thehill.com/opinion/national-security/6212551-iran-nuclear-conflict-costs",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794459600.0
+    },
+    {
         "id": "e583bb969e",
         "title_fa": "فشار برای قطع شریان مالی سپاه و باز نگه داشتن آبراهه‌ها",
         "title_en": "After the Midterms, the Right Strategy Against Iran",
@@ -5490,24 +5508,6 @@
         "url": "https://www.politico.com/news/2026/11/09/jd-vance-allies-launch-new-group-01155638",
         "clean_url": "https://www.politico.com/news/2026/11/09/jd-vance-allies-launch-new-group-01155638",
         "image": "http://www.bing.com/th?id=ONUT.Dm_W3pFOow8GQjgN1sumUA&pid=News",
-        "timestamp": 1794189660.0
-    },
-    {
-        "id": "cd9f34f451",
-        "title_fa": "بحران درون‌حزبی جمهوری‌خواهان پس از شکست انتخاباتی",
-        "title_en": "Georgia Republicans lost power in a rout. Now what?",
-        "summary": [
-            "شکست سنگین در انتخابات اخیر، جنگ لفظی و اختلاف نظر شدیدی میان مقام‌های ارشد جمهوری‌خواه ایجاد کرده است.",
-            "برخی چهره‌های حزب شخص ترامپ را عامل اصلی این شکست می‌دانند، در حالی که گروهی دیگر مشکلات اقتصادی را دلیل اصلی می‌خوانند."
-        ],
-        "impact": "عمیق‌تر شدن شکاف‌های داخلی در اردوگاه محافظه‌کاران آمریکایی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Atlanta Journal-Constitution",
-        "url": "https://www.ajc.com/politics/2026/11/georgia-republicans-lost-power-now-what/",
-        "clean_url": "https://www.ajc.com/politics/2026/11/georgia-republicans-lost-power-now-what",
-        "image": "http://www.bing.com/th?id=ONUT.nxz3UlexxYlGT7t8bi_xUA&pid=News",
         "timestamp": 1794189660.0
     }
 ]
