@@ -129,6 +129,25 @@
         "timestamp": 1794416580.0
     },
     {
+        "id": "6d9b4ae337",
+        "title_fa": "فشار حداکثری ترامپ با تحریم و بلوک دریایی",
+        "title_en": "Trump vows ‘total victory’ as Iran rejects concessions and threatens wider war",
+        "summary": [
+            "ترامپ از رویکرد حفظ وضعیت موجود و ادامه فشارها علیه حکومت ای-ران دفاع کرد.",
+            "مارکو روبیو تاکید کرد که تحریم‌ها و محاصره دریایی اقتصاد حکومت را به شدت تضعیف کرده است.",
+            "کشورهای حاشیه خلیج فارس نگران طولانی شدن این تنش‌ها و تهدید امنیت منطقه‌ای هستند."
+        ],
+        "impact": "افزایش فشار اقتصادی و ارزی بر ج-مهوری اس-لامی بدون نیاز به درگیری نظامی گسترده",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611122691",
+        "clean_url": "https://www.iranintl.com/en/202611122691",
+        "image": "http://www.bing.com/th?id=ONUT.mNG1b6uNTwbN8-ynANWNrQ&pid=News",
+        "timestamp": 1794415260.0
+    },
+    {
         "id": "a5cc2e1b4a",
         "title_fa": "ادعای ترامپ درباره شکست تهران و پرسش از راز بقای حکومت",
         "title_en": "Trump Says Iran Is Defeated — So Why Is the Regime Still Standing?",
@@ -5488,24 +5507,5 @@
         "clean_url": "https://www.ainvest.com/news/ofac-canadian-msb-crackdown-raises-cost-running-bank-crypto-fiat-corridors-2611",
         "image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1794143138850.jpg.png",
         "timestamp": 1794143460.0
-    },
-    {
-        "id": "850a0a96ff",
-        "title_fa": "اولتیماتوم دو روزه تهران به واشنگتن برای توافق",
-        "title_en": "Iran gives US two-day diplomacy ultimatum",
-        "summary": [
-            "عباس عراقچی از تعیین مهلت ۴۸ ساعته برای پذیرش پیشنهاد اخیر ج.م.ا خبر داد.",
-            "تهران تهدید کرده در صورت رد پیشنهاد، تنش‌های نظامی وارد فاز جدیدی می‌شود.",
-            "این هشدار همزمان با بررسی گزینه‌ها توسط دولت ترامپ مطرح شده است."
-        ],
-        "impact": "افزایش فوری ریسک درگیری نظامی و نوسان در بازارهای مالی داخل کشور.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-gives-us-two-day-diplomacy-huff/ar-AA2h1vzr",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-gives-us-two-day-diplomacy-huff/ar-AA2h1vzr",
-        "image": "http://www.bing.com/th?id=ONUT.cVI6KrMnEijrKVog_JNMOQ&pid=News",
-        "timestamp": 1794143188.0
     }
 ]
