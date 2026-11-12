@@ -1,5 +1,23 @@
 [
     {
+        "id": "f423e89450",
+        "title_fa": "افشای حملات سایبری سپاه به اروپا و پاسخ قضایی فرانسه",
+        "title_en": "Eisenkot warns Netanyahu against risky military moves amid reports of Iran strike plans",
+        "summary": [
+            "حملات سایبری واحد «شهید کاوه» سـ‌پاه به زنجیره تامین و فروشگاه‌های اروپایی، تلاش مستقیم برای انتقال هزینه تنش‌های خاورمیانه به داخل اروپا است.",
+            "احضار سفیر و درخواست حکم بازداشت بین‌المللی از سوی فرانسه، نشان‌دهنده تغییر فاز اروپا از سیاست خویشتنداری به مواجهه قضایی-امنیتی با سـ‌پاه است."
+        ],
+        "impact": "افزایش ریسک درج کامل سـ‌پاه در لیست تروریستی اتحادیه اروپا و تشدید فشارهای امنیتی بر شبکه سایبری ایران.",
+        "tag": "سایبری",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611119572",
+        "clean_url": "https://www.iranintl.com/en/202611119572",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/af7cd6fd7cbc40d34f3988cafa8bbdc44bf55e8a-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794434340.0
+    },
+    {
         "id": "58a002de21",
         "title_fa": "قالیباف: تنگه هرمز هرگز به شرایط قبل برنمی‌گردد",
         "title_en": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
@@ -5488,24 +5506,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ255d3Ayb1lvOEt4bWlQMmszY3dpUjdVWEZxbGo1clRNTGxXNnlPbmhkdXdNYWZ3SGNTLTJPZ3FoSng3RFRkblc5WElhakUwZ251b0l4eEFTT2E2b2VyUjJfN2tMaUlieUNRc2ktd3lzeTR4R2JGODZ1YzU2dWZqNG54ejc0R3c0VGxvS3B2RXRGT1RJZTBoZVZjMW4",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794143700.0
-    },
-    {
-        "id": "7dcf2b7235",
-        "title_fa": "ضربه خزانه‌داری آمریکا به کانال‌های مالی کریپتویی ج.ا",
-        "title_en": "OFAC's Canadian MSB crackdown raises the cost of running non-bank crypto-fiat corridors",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا هشت صرافی کانادایی را به دلیل تبدیل ریال ایران به ارز دیجیتال برای دور زدن تحریم‌ها مسدود کرد.",
-            "این اقدام تحت عملیات موسوم به طرد اقتصادی انجام شده و دسترسی این صرافی‌ها به دلار آمریکا قطع شد.",
-            "هزینه‌های تطبیق و نظارت بر صرافی‌های غیربانکی کریپتو به شدت بالا رفته و فعالیت صرافی‌های کوچک را زمین‌گیر کرده است."
-        ],
-        "impact": "مسدود شدن یکی از اصلی‌ترین معبرهای تبدیل ریال به ارز دیجیتال برای دور زدن تحریم‌های مالی",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ainvest",
-        "url": "https://www.ainvest.com/news/ofac-canadian-msb-crackdown-raises-cost-running-bank-crypto-fiat-corridors-2611/",
-        "clean_url": "https://www.ainvest.com/news/ofac-canadian-msb-crackdown-raises-cost-running-bank-crypto-fiat-corridors-2611",
-        "image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1794143138850.jpg.png",
-        "timestamp": 1794143460.0
     }
 ]
