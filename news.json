@@ -166,6 +166,25 @@
         "timestamp": 1794441344.0
     },
     {
+        "id": "b6e7ea6759",
+        "title_fa": "ادعای ترامپ درباره پایان جنگ و تکذیب صریح تهران",
+        "title_en": "US-Iran War: What Has Changed Since Trump's Midterm Election Loss And What's Next?",
+        "summary": [
+            "دونالد ترامپ و مارکو روبیو مدعی شده‌اند درگیری بزرگ نظامی با ایران به پایان رسیده و فشار اقتصادی جایگزین عملیات میدانی شده است.",
+            "محسن رضایی هرگونه مذاکره با واشنگتن را فوراً تکذیب کرد و این ادعاها را ابزار فشار روانی دانست.",
+            "تنظیم امنیت تنگه هرمز، پرونده هسته‌ای و نوسانات قیمت جهانی نفت همچنان چالش‌های اصلی و حل‌نشده طرفین هستند."
+        ],
+        "impact": "تداوم فضای نه جنگ نه صلح و پایداری ریسک در خطوط ترانزیت انرژی منطقه.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "ABP News",
+        "url": "https://news.abplive.com/news/world/us-iran-war-what-has-changed-since-trump-midterm-election-loss-what-s-next-tehran-1875633",
+        "clean_url": "https://news.abplive.com/news/world/us-iran-war-what-has-changed-since-trump-midterm-election-loss-what-s-next-tehran-1875633",
+        "image": "https://feeds.abplive.com/images/dw/79832271_607.jpg?impolicy=abp_cdn&imwidth=1200",
+        "timestamp": 1794440700.0
+    },
+    {
         "id": "f423e89450",
         "title_fa": "افشای حملات سایبری سپاه به اروپا و پاسخ قضایی فرانسه",
         "title_en": "Eisenkot warns Netanyahu against risky military moves amid reports of Iran strike plans",
@@ -459,6 +478,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEM0N0sxdWVLR2tod0U2NE9LZDlDNmgyYTBhLVlsUTRFaXljN3lzbkpyLURSenZGTHpienotWDFCMFlfNjc3OGQ5dEp6Um5QVGZtQ05LbzlHajNJakpLN1VCWktkU0ppNTU1ZmZBaklXVXRCOUw4WENhX1pUWW5NZUVKaTl3ejFRVG9Oa3EwTWtiYTZHRy1Ka2xTb1JIY1ZSSXpVTmF5Y0YtZ01TdV9MQjJsRDM5TDN5eU04U2ZR0gHDAUFVX3lxTE5SWDB6aEdnQTNyOVFUX0dodTY5YzA4aFR1NHFzMlZiUmpxQVlDV2xzSUFGQ2t1MUQ5LWljUHJrSlhvMjJsUjUxT3h1OEFsel9IeWtJVTJmc0M2RHY1ZXdYVXA5NmpGdXkzeEY4aVpjUE9NLUxUdTlQSGpra3JSQjc3eDFfODZmMkIwcEp3WUxLd19leXYxb1Z0ekd4TkZ4TEZRUGgxd1FidFROTHc1dzJtQXl3U1ZzUWRZWkRRWXJqa21TMA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794411349.0
+    },
+    {
+        "id": "9daaa311d4",
+        "title_fa": "ارزیابی اطلاعاتی غرب از توان موشکی و ذخایر ایران",
+        "title_en": "Iran’s Missile Factories Hit, But Production Continues At Half Pre-War Capacity",
+        "summary": [
+            "طبق گزارش‌های اطلاعاتی غرب، حملات آمریکا و اسرائیل توان تولید موشک‌های بالستیک ایران را به نصف (حدود ۵۰ فروند در ماه) کاهش داده است.",
+            "برآوردها نشان می‌دهد ایران همچنان حداقل ۱۷۰۰ فروند موشک بالستیک در انبارهای زیرزمینی خود ذخیره دارد.",
+            "آسیب به سایت‌های روی زمین جدی بوده، اما تونل‌ها و تاسیسات زیرزمینی ساخت موشک همچنان عملیاتی باقی مانده‌اند."
+        ],
+        "impact": "تداوم توان بازدارندگی موشکی ایران و ناکامی حملات هوایی در خنثی‌سازی کامل توان تسلیحاتی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Outlook India",
+        "url": "https://www.outlookindia.com/international/irans-missile-factories-hit-but-production-continues-at-half-pre-war-capacity",
+        "clean_url": "https://www.outlookindia.com/international/irans-missile-factories-hit-but-production-continues-at-half-pre-war-capacity",
+        "image": "https://cf-images.assettype.com/outlookindia/2026-11-12/9lkm9ih7/7b09146322324e1d83d92eaa2946ffb1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "timestamp": 1794410940.0
     },
     {
         "id": "36e37cecad",
@@ -5472,41 +5510,5 @@
         "clean_url": "https://www.politico.com/news/2026/11/08/trump-pushes-back-vances-iran-war-post-01155964",
         "image": "http://www.bing.com/th?id=ONUT.CWLVaSTi-0PqNOURqkdzLg&pid=News",
         "timestamp": 1794161160.0
-    },
-    {
-        "id": "492674ac22",
-        "title_fa": "ناگفته‌های ترامپ درباره مهاجرت و شکست‌های انتخاباتی",
-        "title_en": "Trump’s regrets on immigration enforcement, and other takeaways from his '60 Minutes' interview",
-        "summary": [
-            "دونالد ترامپ در یک مصاحبه مفصل به ارزیابی عملکرد دولت و چالش‌های اجرای سخت‌گیرانه قوانین مهاجرتی پرداخت.",
-            "او دلایل افت آرای حزب متبوع خود را در رقابت‌های اخیر کالبدشکافی کرد."
-        ],
-        "impact": "بازتاب مواضع صریح رییس‌جمهور سابق درباره چالش‌های کلیدی آمریکا.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/trump-s-regrets-on-immigration-enforcement-and-other-takeaways-from-his-60-minutes-interview/ar-AA2h2bsS",
-        "clean_url": "https://www.msn.com/en-us/politics/government/trump-s-regrets-on-immigration-enforcement-and-other-takeaways-from-his-60-minutes-interview/ar-AA2h2bsS",
-        "image": "http://www.bing.com/th?id=ONUT.-EHOuOflcYSOyU2w54TJtg&pid=News",
-        "timestamp": 1794161096.0
-    },
-    {
-        "id": "e6c671ba9e",
-        "title_fa": "ترامپ: در صورت پیشرفت مذاکرات، جنگ با ج****ه ا*****ی بعید است",
-        "title_en": "Trump says return to Iran war 'highly unlikely' if talks advance",
-        "summary": [
-            "دونالد ترامپ اعلام کرد اگر روند گفتگوها با تهران به جلو حرکت کند، احتمال درگیری نظامی مستقیم به شدت کاهش می یابد.",
-            "فشار حداکثری اقتصادی همچنان به عنوان اهرم اصلی در کنار مسیر دیپلماسی حفظ خواهد شد."
-        ],
-        "impact": "این موضع‌گیری می‌تواند نوسانات موقت در بازارهای مالی ایجاد کند و نشان‌دهنده تمایل به توافق از موضع قدرت است.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhfQlJBV0N4bk8tTGFDN3BiTEFYajFaRk5Tb3Zxc3FvWVZVVFEtSXYyNFctakNISlo2MlY5cTJPN2syZW9VV1JRWExORm9EQlJqSjdrXzBTZTBWX1pvUUdPMmZjOUxJUjhlbzBOd196b0FPMVVzdXIzdUZFaE43ZVVSNXNPNlViY0RiaTBjaG1weXN3TkdHaVJuWmdQNVBTM3NKZHJuTWg5b3ktZjlTaUdYemc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhfQlJBV0N4bk8tTGFDN3BiTEFYajFaRk5Tb3Zxc3FvWVZVVFEtSXYyNFctakNISlo2MlY5cTJPN2syZW9VV1JRWExORm9EQlJqSjdrXzBTZTBWX1pvUUdPMmZjOUxJUjhlbzBOd196b0FPMVVzdXIzdUZFaE43ZVVSNXNPNlViY0RiaTBjaG1weXN3TkdHaVJuWmdQNVBTM3NKZHJuTWg5b3ktZjlTaUdYemc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794160552.0
     }
 ]
