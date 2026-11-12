@@ -165,6 +165,24 @@
         "timestamp": 1794434340.0
     },
     {
+        "id": "09f9182c51",
+        "title_fa": "سوختن گزینه‌های تهران و واشنگتن در بن‌بست جنگ",
+        "title_en": "Just like the US, Iran has squandered its good options to end the war",
+        "summary": [
+            "اشتباهات محاسباتی دونالد ترامپ و جمهوری اسلامی، مسیر دیپلماسی را به بن‌بست کشانده است.",
+            "هیچ‌کدام از طرفین دیگر راه‌حل ساده‌ای برای پایان دادن به درگیری‌ها روی میز ندارند."
+        ],
+        "impact": "افزایش ریسک فرسایشی شدن تنش‌ها و بی‌نتیجه ماندن تلاش‌های سیاسی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/just-like-us-iran-has-squandered-its-good-options-end-war-2026-11-12/",
+        "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/just-like-us-iran-has-squandered-its-good-options-end-war-2026-11-12",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794433800.0
+    },
+    {
         "id": "58a002de21",
         "title_fa": "قالیباف: تنگه هرمز هرگز به شرایط قبل برنمی‌گردد",
         "title_en": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
@@ -5490,23 +5508,5 @@
         "clean_url": "https://www.iranintl.com/en/202611097873",
         "image": "http://www.bing.com/th?id=ONUT.7fIX6tQUE9hYNOntMo1G3g&pid=News",
         "timestamp": 1794158220.0
-    },
-    {
-        "id": "b155bbf2b7",
-        "title_fa": "مذاکرات پنهانی واشنگتن و تهران زیر سایه تهدید نظامی",
-        "title_en": "US and Iran are quietly negotiating as Middle East remains on edge. Here’s what to know",
-        "summary": [
-            "دونالد ترامپ از کاهش احتمال درگیری نظامی در صورت پيشرفت در پرونده اتمی و بازگشایی تنگه هرمز خبر داد.",
-            "دیپلماسی پشت پرده با میانجی‌گری قطر در جریان است اما مقام‌های ارشد آمریکایی هنوز به توافق فوری خوش‌بین نیستند."
-        ],
-        "impact": "باز شدن بارقه‌های امید برای کاهش تنش‌های نظامی و مهار بحران در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us-iran-quietly-negotiating-middle-050015322.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us-iran-quietly-negotiating-middle-050015322.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/8982539c2d6c6f33034d5e942be0cdbad41944e4d391aecb8b6e695068678dbf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F8b7decd7f6fa7673a0e014c17d771950.jpg",
-        "timestamp": 1794153600.0
     }
 ]
