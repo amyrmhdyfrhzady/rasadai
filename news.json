@@ -75,6 +75,24 @@
         "timestamp": 1794562209.0
     },
     {
+        "id": "ef29839f48",
+        "title_fa": "خشم تـهـران از کریدور ترامپ در مرز ارمنستان",
+        "title_en": "Iran threatens Armenia as US-run Trump Route clears Yerevan's parliament",
+        "summary": [
+            "تصویب کریدور ترانزیتی تحت مدیریت آمریکا در پارلمان ارمنستان، مسیر ارتباطی زمینی تـهـران با قفقاز را تهدید می‌کند.",
+            "مقام‌های حکومتی و رسانه‌های داخلی نسبت به حضور نظامی و امنیتی آمریکا در مرزهای شمالی واکنش نشان داده و ایروان را تهدید کردند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره ژئوپلیتیک جـمهـوری اسـلامی در مرزهای شمالی و قطع دسترسی استراتژیک به قفقاز.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611129472",
+        "clean_url": "https://www.iranintl.com/en/202611129472",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/9adcf029109c3fc1eb35fc0665320ea2b7c1eb0e-1920x1231.jpg?rect=0,112,1920,1008&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794561600.0
+    },
+    {
         "id": "5debb0a0c8",
         "title_fa": "تغییر تجارت جهانی LNG در پی درگیری ایران به نفع آمریکا",
         "title_en": "GlobalData: US set to benefit most as Iran conflict reshapes global LNG trade",
@@ -272,6 +290,24 @@
         "clean_url": "https://www.timesofisrael.com/un-agency-cant-confirm-iran-hasnt-diverted-nuclear-material-from-peaceful-activity",
         "image": "http://www.bing.com/th?id=ONUT.7GQmkLShfpgjymeeHCy7ew&pid=News",
         "timestamp": 1794542460.0
+    },
+    {
+        "id": "50e6651c77",
+        "title_fa": "ادامه تهدید جانی خبرنگاران خارج از کشور با وجود احکام دادگاه لندن",
+        "title_en": "Iran International spy verdicts don’t end threat to exiled Iranian journalists",
+        "summary": [
+            "کمیته حفاظت از روزنامه‌نگاران هشدار داد محکومیت دو مزدور وابسته به نهادهای امنیتی در لندن، خطرات جانی علیه روزنامه‌نگاران تبعیدی را از بین نمی‌برد.",
+            "دادگاه بریتانیا این افراد را به اتهام جاسوسی و برنامه‌ریزی برای اعمال خشونت علیه کارکنان رسانه‌ای مجرم شناخته است."
+        ],
+        "impact": "تأیید رسمی فعالیت‌های تروریستی و ترور هدفمند دستگاه‌های امنیتی در خاک اروپا.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611131705",
+        "clean_url": "https://www.iranintl.com/en/202611131705",
+        "image": "http://www.bing.com/th?id=ONUT.MLRl3B_8ZFEmudwNV8RokA&pid=News",
+        "timestamp": 1794542340.0
     },
     {
         "id": "c4cb81b84c",
@@ -5493,43 +5529,5 @@
         "clean_url": "https://www.iranintl.com/en/202611090597",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/adcf50a88fc2b1636b85244d60c8bfbc2d08b81e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794263160.0
-    },
-    {
-        "id": "ca07aa356e",
-        "title_fa": "تهدید دوباره ترامپ علیه کـ.ـشـ.ـور و ابهام در توافق",
-        "title_en": "Trump Meets Qatar PM, Keeps Iran Strike Option Open",
-        "summary": [
-            "دونالد ترامپ در دیدار با نخست‌وزیر قطر تأکید کرد که ایالات متحده در صورت نیاز آماده حملات مجدد است.",
-            "مقام‌های قطری و سعودی همچنان به دنبال راه‌حل دیپلماتیک و صلح‌آمیز هستند.",
-            "تهران شروط هفت‌گانه خود را برای هرگونه توافق مطرح کرده و گزارش‌ها درباره توافق ارزی را رد کرد.",
-            "مارکو روبیو، وزیر خارجه آمریکا، خواسته‌های جمهوری اسلامی را غیرواقعی خوانд."
-        ],
-        "impact": "افزایش ریسک‌های امنیتی و نوسان شدید در بازارهای مالی به دلیل سایه جنگ.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "hngn",
-        "url": "https://www.hngn.com/articles/273722/20261109/trump-says-iran-decision-coming-soon-advisers-split.htm",
-        "clean_url": "https://www.hngn.com/articles/273722/20261109/trump-says-iran-decision-coming-soon-advisers-split.htm",
-        "image": "https://d.hngn.com/en/full/307471/putin-greets-irans-rezaei-kremlin-ahead-talks.jpg",
-        "timestamp": 1794260940.0
-    },
-    {
-        "id": "5e3741cd9e",
-        "title_fa": "پرونده ناگفته و بازِ جمهوری اسلامی",
-        "title_en": "The unfinished business of Iran",
-        "summary": [
-            "موضوعات حل‌نشده پیرامون فعالیت‌های اتمی و منطقه‌ای حکومت همچنان در کانون توجه ناظران قرار دارد.",
-            "فشارها برای تعیین تکلیف نهایی با ساختار سیاسی فعلی در حال افزایش است."
-        ],
-        "impact": "تداوم روند تهدیدآمیز حاکمیت، فضای امنیتی را علیه آن حفظ می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRkhuMEJFSV9mX1VmdE4yMktvNmI5MTdIanVfUTQ3a09pYnZfS2ZIcklsc3hKN2V6dmEwM1kzWU9jZGtUdHY0MUpxR09JYVZDNUxTTGlOR0VlN3BNZGZtQnh3NFFaTG1GNEJFaWlUeU03SnZxUlliOVRFeUEzazBGcmZfdGFQdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRkhuMEJFSV9mX1VmdE4yMktvNmI5MTdIanVfUTQ3a09pYnZfS2ZIcklsc3hKN2V6dmEwM1kzWU9jZGtUdHY0MUpxR09JYVZDNUxTTGlOR0VlN3BNZGZtQnh3NFFaTG1GNEJFaWlUeU03SnZxUlliOVRFeUEzazBGcmZfdGFQdw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794259068.0
     }
 ]
