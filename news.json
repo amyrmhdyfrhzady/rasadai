@@ -1,5 +1,23 @@
 [
     {
+        "id": "5a0e40da6e",
+        "title_fa": "هشدار واشینگتن به تل‌آویو: برای ازسرگیری جنگ با ایران آماده شوید",
+        "title_en": "Washington asks Israel to prepare for possible resumption of war with Iran",
+        "summary": [
+            "آمریکا سیگنال‌های واضحی از احتمال دور جدید درگیری‌های مستقیم و همه‌جانبه میان اسرائیل و ج‌م‌هوری اسلامی صادر کرده است.",
+            "پیام مستقیم واشینگتن نشان می‌دهد که پرونده دیپلماسی به بن‌بست رسیده و هماهنگی‌های تدافعی و تهاجمی دو طرف وارد فاز عملیاتی شده است."
+        ],
+        "impact": "افزایش فوری ریسک جنگ مستقیم در منطقه و احتمال جهش ناگهانی قیمت ارز و طلا در بازار تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "ANHA",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbm9JbU5idzFOWHhrYXhxTDdhbzNqTjV6U3pSaW1QT3Jxb0VYR3h5TG1vSWNoWjFsUHJGMGFsT2lOMGxTTXYtbXdmZEdWZXlmSmRybmVOSmZJZW44OHF1VVBfbW9hdXVHbnJxRUx5ay1iMWxjTVlJdkRIZzhsOUl0ek95QWNDblRxSTl0cmhVN3ViMmZGSE5NRXZWdGJkd3ZU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbm9JbU5idzFOWHhrYXhxTDdhbzNqTjV6U3pSaW1QT3Jxb0VYR3h5TG1vSWNoWjFsUHJGMGFsT2lOMGxTTXYtbXdmZEdWZXlmSmRybmVOSmZJZW44OHF1VVBfbW9hdXVHbnJxRUx5ay1iMWxjTVlJdkRIZzhsOUl0ek95QWNDblRxSTl0cmhVN3ViMmZGSE5NRXZWdGJkd3ZU",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794553456.0
+    },
+    {
         "id": "fdf0d850cf",
         "title_fa": "استقرار موشک‌های با کلاهک دو تنی توسط سپاه",
         "title_en": "Iran Deploys Missiles With 2-Ton Warheads: IRGC Deputy Commander",
@@ -5510,23 +5528,5 @@
         "clean_url": "https://www.nbcnews.com/tech/tech-news/nvidia-investigation-justice-fbi-commerce-jensen-huang-alice-china-rcna608397",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241026-Nvidia-ch-1134-892cf0.jpg",
         "timestamp": 1794243960.0
-    },
-    {
-        "id": "fbd541f677",
-        "title_fa": "کاهش موقت آلاینده‌های جهانی در پی جنگ با ای-ران",
-        "title_en": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year",
-        "summary": [
-            "تحقیقات نشان می‌دهد جنگ باعث افت ناگهانی تولید گازهای گلخانه‌ای شده است",
-            "محققان هشدار می‌دهند این کاهش به دلیل ماهیت بحران، پایدار نخواهد بود"
-        ],
-        "impact": "تغییرات اقلیمی تحت تاثیر مستقیم تنش‌های نظامی قرار گرفته است",
-        "tag": "محیط زیست",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
-        "clean_url": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
-        "image": "http://www.bing.com/th?id=ONUT.UkEIf-mZUOeZnrl_g9CbPQ&pid=News",
-        "timestamp": 1794243660.0
     }
 ]
