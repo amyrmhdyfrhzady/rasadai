@@ -109,6 +109,26 @@
         "timestamp": 1794520178.0
     },
     {
+        "id": "0e788763c7",
+        "title_fa": "جهش قیمت نفت با کاهش امید به توافق آمریکا و ایران",
+        "title_en": "US Market Wrap: Stocks hit on Huang exit and crude jumps on fading US/Iran deal hopes",
+        "summary": [
+            "به گزارش نیوزکواک، قیمت نفت خام در پی کمرنگ شدن احتمال توافق میان واشنگتن و تهران صعود کرد و دونالد ترامپ، رئیس‌جمهور آمریکا، گفت ایالات متحده نیازی به توافق با ایران ندارد.",
+            "بر اساس این گزارش، ایران از اصابت یک حمله نظامی به منطقه سیریک خبر داد و حوثی‌ها نیز اعلام کردند تاسیسات آرامکو در ریاض را با پهپاد هدف قرار داده‌اند.",
+            "هم‌زمان با افزایش ارزش دلار و افت سهام آمریکا، طلا و اوراق خزانه، نیوزکواک گزارش داد مدیرعامل انویدیا در آستانه آغاز تحقیقات درباره این شرکت استعفا داده است.",
+            "آمار اداره اطلاعات انرژی آمریکا از رشد غیرمنتظره ذخایر نفت خام، بنزین و فرآورده‌های تقطیری در کنار برداشت از ذخایر راهبردی حکایت داشت."
+        ],
+        "impact": "گزارش حملات در سیریک و ریاض همراه با موضع‌گیری ترامپ، فشار صعودی بر قیمت نفت و فشار فروش بر بورس آمریکا وارد کرد.",
+        "tag": "نفت و نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "newsquawk",
+        "url": "https://www.newsquawk.com/headlines/us-market-wrap-stocks-hit-on-huang-exit-and-crude-jumps-on-fading-usiran-deal-hopes",
+        "clean_url": "https://www.newsquawk.com/headlines/us-market-wrap-stocks-hit-on-huang-exit-and-crude-jumps-on-fading-usiran-deal-hopes",
+        "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Energy/2.png",
+        "timestamp": 1794519300.0
+    },
+    {
         "id": "4a5581656b",
         "title_fa": "فروپاشی درآمدهای نفتی؛ جـ.ـهـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلاـ.ـمـ.ـی در بن‌بست زمان",
         "title_en": "Why Tehran May Lose the Clock",
@@ -5509,23 +5529,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794242683.0
-    },
-    {
-        "id": "e85edbbb56",
-        "title_fa": "تلاش برای استیضاح وزیر دفاع به اتهام جنگ غیرقانونی",
-        "title_en": "Massie introduces Hegseth impeachment articles, teeing up vote",
-        "summary": [
-            "توماس مسی طرح استیضاح پیت هگست را به دلیل جنگ بدون مجوز کنگره کلید زد",
-            "این اقدام نشان‌دهنده شکاف عمیق در واشنگتن بر سر مدیریت جنگ است"
-        ],
-        "impact": "ایجاد چالش حقوقی برای بدنه نظامی دولت ترامپ",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/massie-introduces-hegseth-impeachment-articles-teeing-up-vote/ar-AA2h5gWQ",
-        "clean_url": "https://www.msn.com/en-us/news/other/massie-introduces-hegseth-impeachment-articles-teeing-up-vote/ar-AA2h5gWQ",
-        "image": "http://www.bing.com/th?id=ONUT.D8CLjs_SEp_uKorqhjPr4A&pid=News",
-        "timestamp": 1794242172.0
     }
 ]
