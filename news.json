@@ -183,6 +183,25 @@
         "timestamp": 1794552831.0
     },
     {
+        "id": "9096f30be7",
+        "title_fa": "بازی دوگانه تهر ان روی میز ترامپ و آژانس اتمی",
+        "title_en": "What to know about the Iran war today:",
+        "summary": [
+            "آژانس اتمی نسبت به ممانعت از ورود بازرسان به تاسیسات اصفهان به شدت ابراز نگرانی کرد.",
+            "ترامپ با رد نیاز به توافق با جـ.ـهـ.ـوری اسـ.ـلا‌می، دستور تمرکز بر مسائل داخلی را صادر کرد.",
+            "ارتش آمریکا ادعای تهـ.ـران مبنی بر انهدام رادار هشدار زودهنگام در بحرین را رد کرد."
+        ],
+        "impact": "افزایش تنش‌های اتمی و بسته‌شدن مسیر دیپلماسی پنهان با میانجگری مسکو.",
+        "tag": "اتمی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+        "clean_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/24/b879ec6e-4079-4e01-abd0-f89f63ff4c01/thumbnail/1200x630/5d43f7f6c8725252539e8f52741a47f6/iran-iaea-isfahan-101916459.jpg",
+        "timestamp": 1794546120.0
+    },
+    {
         "id": "8729f47a04",
         "title_fa": "هدف‌گیری صرافی‌ها و شبکه‌های ارز دیجیتال مرتبط با ج.ا توسط آمریکا",
         "title_en": "U.S. Targets Digital Asset Providers Funding Iran - VOA",
@@ -5512,23 +5531,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRkhuMEJFSV9mX1VmdE4yMktvNmI5MTdIanVfUTQ3a09pYnZfS2ZIcklsc3hKN2V6dmEwM1kzWU9jZGtUdHY0MUpxR09JYVZDNUxTTGlOR0VlN3BNZGZtQnh3NFFaTG1GNEJFaWlUeU03SnZxUlliOVRFeUEzazBGcmZfdGFQdw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794259068.0
-    },
-    {
-        "id": "0497f8be0f",
-        "title_fa": "فشار بر جـ.ـهـ.ـو‌ری اسـ.ـلـ.ـا‌مـ.ـی؛ سیاست ثابت دو حزب آمریکا",
-        "title_en": "Aggression Against Iran Has Been Bipartisan. Will Midterm Results Change That?",
-        "summary": [
-            "رویکرد سخت‌گیرانه در برابر تـ.ـهـ.ـر‌ان فراتر از جریانات حزبی در واشنگتن دنبال می‌شود.",
-            "تحولات انتخاباتی کنگره تاثیری بر اصل راهبرد مهار و فشار نخواهد گذاشت."
-        ],
-        "impact": "سیاست خارجی آمریکا در قبال حاکمیت ایران بدون تغییر به مسیر فشار ادامه می‌دهد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Truthout",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUhSSXE4M0NVbXNxWG43RFQ3VWZvQ3A0RUtaY0U2azRSVGhacUVlQnE3TU1uaGJzc1RKUUEyQ2dackE1RG1hUGs1ZVBaY3dnQkdWMzNySmpSbFNGZWFIY2pVUmM2MG9kbkk2QVJWSnZIMWc1NThHOVN6R004YzRNUWJIaFFFRWV6QmhpVS0tTEJYbWx0emp1SjdydUlsVWQ0Z3B5ZjNzX0VDdGM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUhSSXE4M0NVbXNxWG43RFQ3VWZvQ3A0RUtaY0U2azRSVGhacUVlQnE3TU1uaGJzc1RKUUEyQ2dackE1RG1hUGs1ZVBaY3dnQkdWMzNySmpSbFNGZWFIY2pVUmM2MG9kbkk2QVJWSnZIMWc1NThHOVN6R004YzRNUWJIaFFFRWV6QmhpVS0tTEJYbWx0emp1SjdydUlsVWQ0Z3B5ZjNzX0VDdGM",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794258323.0
     }
 ]
