@@ -254,6 +254,26 @@
         "timestamp": 1794585665.0
     },
     {
+        "id": "ab0f9a833e",
+        "title_fa": "محدودیت گذرگاه‌های عراق با ایران زیر فشار واشینگتن",
+        "title_en": "GCC says Iran launched over 7,000 missiles, drones at Persian Gulf states",
+        "summary": [
+            "به گزارش ایران‌اینترنشنال، دولت فدرال عراق چند گذرگاه مرزی با ایران از جمله شیب-چذابه و مندلی-سومار را مسدود یا با محدودیت روبه‌رو کرده است.",
+            "مقامات عراقی این اقدامات را موقتی و ناشی از ملاحظات فنی، امنیتی و مبارزه با قاچاق عنوان کرده‌اند، اما فؤاد حسین، وزیر خارجه عراق، در مصاحبه با الجزیره فاش کرد که واشینگتن رسماً از بغداد خواسته تمامی گذرگاه‌های زمینی به جز دو مورد را ببندد.",
+            "وزیر خارجه عراق ضمن تاکید بر تداوم فشارهای آمریکا هشدار داد بستن تمام مسیرهای رسمی و غیررسمی دشوار است و به اقتصاد عراق ضربه می‌زند؛ پیش‌تر نیز از اواخر سپتامبر، پروازهای ایران به عراق به علت نگرانی شرکت‌های خدمات فرودگاهی از تحریم‌های ثانویه آمریکا عمدتاً تعلیق شده بود.",
+            "در سرتیتر این خبر نیز به نقل از شورای همکاری خلیج فارس آمده است که ایران بیش از ۷ هزار موشک و پهپاد به سوی کشورهای حاشیه خلیج فارس شلیک کرده است."
+        ],
+        "impact": "بسته شدن تدریجی مسیرهای زمینی و تعلیق پروازها، شریان‌های تجاری و تردد میان ایران و عراق را با تنگنای جدی روبه‌رو می‌کند.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611132805",
+        "clean_url": "https://www.iranintl.com/en/202611132805",
+        "image": "http://www.bing.com/th?id=ONUT.NmK130KpDywk4tLFYPNJdg&pid=News",
+        "timestamp": 1794581100.0
+    },
+    {
         "id": "4bde303471",
         "title_fa": "پایان تهدید اتمی در گرو سقوط حکومت",
         "title_en": "Iran’s regime must go for nuclear threat to end, Reagan Institute’s Zakheim says",
@@ -5507,23 +5527,5 @@
         "clean_url": "https://www.newsweek.com/trump-iran-status-quo-admission-defeat-12694638",
         "image": "http://www.bing.com/th?id=ONUT.OKJW8b8dRz64ONHhDJCuiw&pid=News",
         "timestamp": 1794298620.0
-    },
-    {
-        "id": "a69ebe23ba",
-        "title_fa": "تکذیب مذاکرات پنهانی تهران و واشنگتن",
-        "title_en": "Iran accuses US of manufacturing fake news about imaginary talks",
-        "summary": [
-            "دبیر شورای عالی امنیت ملی ج.ا ادعای آمریکا درباره مذاکرات ساختگی را رد کرد.",
-            "واشنگتن با این فضاسازی‌ها به دنبال اعمال فشار بیشتر و جنگ روانی است."
-        ],
-        "impact": "بسته شدن مسیر هرگونه دیپلماسی پنهان میان دو کشور در شرایط فعلی.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-accuses-us-of-manufacturing-fake-news-about-imaginary-talks/ar-AA2h9hHg",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-accuses-us-of-manufacturing-fake-news-about-imaginary-talks/ar-AA2h9hHg",
-        "image": "http://www.bing.com/th?id=ONUT.w28P1Z49Uidnoq-ep3jIhQ&pid=News",
-        "timestamp": 1794298341.0
     }
 ]
