@@ -201,6 +201,25 @@
         "timestamp": 1794513846.0
     },
     {
+        "id": "c42f02e307",
+        "title_fa": "روایت استیفن اسمیت از مصاحبه با ترامپ و هشدار به دموکرات‌ها",
+        "title_en": "Stephen A Smith debriefs interview with President Trump, warns Democrats face steep challenge",
+        "summary": [
+            "به گزارش فاکس نیوز، استیفن ای. اسمیت، مفسر شبکه ای‌اس‌پی‌ان، در برنامه هانیتی جزئیات گفت‌وگوی ۴۰ دقیقه‌ای خود با دونالد ترامپ در کاخ سفید را بازگو کرد.",
+            "اسمیت با اشاره به شکست‌های سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای گفت ترامپ حاضر به پذیرش مسئولیت این نتایج نشده و تاکید کرده که نام خودش در برگه رأی نبوده است.",
+            "این مفسر همچنین به حزب دموکرات هشدار داد که نفوذ جناح چپ افراطی، چالش دشواری را پیش روی این حزب قرار می‌دهد."
+        ],
+        "impact": "بر اساس گزارش فاکس نیوز، بحث بر سر مسئولیت شکست‌های میان‌دوره‌ای و چالش‌های جناحی، شکاف‌های سیاسی در آمریکا را برجسته کرده است.",
+        "tag": "سیاست آمریکا",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge",
+        "clean_url": "https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge",
+        "image": "http://www.bing.com/th?id=ONUT.PTClHVyKiTUcApp2wVpz-Q&pid=News",
+        "timestamp": 1794513000.0
+    },
+    {
         "id": "6516c63214",
         "title_fa": "حمله نظامی به استان هرمزگان از سوی ایران تایید شد",
         "title_en": "Southern Iranian province Hormozgan hit by 'enemy' military strike, Iran claims",
@@ -289,6 +308,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-new-cyber-playbook-create-real-world-havoc/ar-AA2hkGm8",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794502800.0
+    },
+    {
+        "id": "d565fba90b",
+        "title_fa": "گزارش واشنگتن پست از انگیزه احتمالی تیراندازی در واشنگتن",
+        "title_en": "DC gunman appeared to attribute attack to frustrations with building maintenance",
+        "summary": [
+            "روزنامه واشنگتن پست گزارش داد مت لمبرت، عامل تیراندازی در محله لوگان سرکل واشنگتن، پیش از این حمله از وضعیت نگهداری ساختمان محل سکونتش شکایت داشته است.",
+            "طبق این گزارش، مهاجم احتمالاً نارضایتی‌ها و مشکلات مربوط به شرایط واحد مسکونی خود را عامل این حمله عنوان کرده است."
+        ],
+        "impact": "تحقیقات درباره این حادثه مسلحانه در پایتخت آمریکا و ارتباط آن با اختلافات ملکی در جریان است.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/dc-gunman-appeared-to-attribute-attack-to-frustrations-with-building-maintenance/ar-AA2hkfVo",
+        "clean_url": "https://www.msn.com/en-us/news/other/dc-gunman-appeared-to-attribute-attack-to-frustrations-with-building-maintenance/ar-AA2hkfVo",
+        "image": "http://www.bing.com/th?id=ONUT.lw3Iyid-TDFN-esp9H0fVA&pid=News",
+        "timestamp": 1794500644.0
     },
     {
         "id": "fe2b042044",
@@ -5489,42 +5526,5 @@
         "clean_url": "https://tass.com/politics/2214995",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261109/1492457.jpg",
         "timestamp": 1794239520.0
-    },
-    {
-        "id": "b45f249c70",
-        "title_fa": "پافشاری ط...ه...ران بر حفظ اورانیوم غنی‌شده در داخل کشور",
-        "title_en": "Iran Won't Budge on Keeping Its Uranium in the Country as Negotiations to End the War Continue",
-        "summary": [
-            "مقام‌های وزارت خارجه ج...م...ه...و...ر...ی ا...س...ل...ا...م...ی انتقال اورانیوم غنی‌شده به خارج از خاک کشور را در هر توافقی خط قرمز دانستند.",
-            "آسیب‌دیدن تاسیسات اتمی در حملات سال گذشته بهانه‌ای شده تا حضور و بازرسی ناظران آژانس عملاً غیرممکن اعلام شود.",
-            "نمایندگان مجلس ادعا می‌کنند با وجود تخریب سازه‌های روی زمین، سانتریفیوژها و مواد غنی‌شده آسیبی ندیده‌اند."
-        ],
-        "impact": "مقاومت در برابر بازرسی‌های بین‌المللی، بن‌بست دیپلماتیک را عمیق‌تر می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-wont-budge-keeping-uranium-155122957.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-wont-budge-keeping-uranium-155122957.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/dd2096b0725f3f294811eee89ce842490861f596e8e30170a22d86c54a8b3064/lightyear_networkapi/resizefill_w976;quality_80;format_webp/https://media.zenfs.com/en/international_business_times_990/fadd02cb027827db4fbc0215f6f55729.jpg",
-        "timestamp": 1794239460.0
-    },
-    {
-        "id": "37b304e9c7",
-        "title_fa": "دیدار پشت پرده مقامات ارشد آمریكا و ج.ا در قطر",
-        "title_en": "Vance and Rezaei to meet in Qatar next week, Turkish intelligence chief says",
-        "summary": [
-            "رئیس سازمان اطلاعات ترکیه از برنامه دیدار معاون رئیس‌جمهور آمریکا و محسن رضایی در دوحه خبر داد.",
-            "این رایزنی‌ها بخشی از تلاش‌های منطقه‌ای برای پایان دادن به درگیری‌ها با میانجیگری قطر جریان دارد."
-        ],
-        "impact": "آغاز احتمالی کانال‌های دیپلماتیک مستقیم میان واشنگتن و تهران زیر فشار تحریم‌ها و تنش‌ها.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611096528",
-        "clean_url": "https://www.iranintl.com/en/202611096528",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/b9b94cbc998d6d3d38145fb73f5fbb5003f14530-992x661.jpg?rect=0,71,992,521&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794238620.0
     }
 ]
