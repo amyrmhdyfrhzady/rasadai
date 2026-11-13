@@ -200,6 +200,24 @@
         "timestamp": 1794542520.0
     },
     {
+        "id": "1574e660b0",
+        "title_fa": "آژانس اتمی: امکان تایید صلح‌آمیز بودن فعالیت‌های هسته‌ای ا… وجود ندارد",
+        "title_en": "UN agency can’t confirm Iran hasn’t diverted nuclear material from peaceful activity",
+        "summary": [
+            "گزارش محرمانه آژانس نشان می‌دهد عدم همکاری حکومت ایران نگرانی‌های جدی درباره انحراف مواد اتمی ایجاد کرده است.",
+            "بازرسان سازمان ملل خواستار بازگشت فوری به سایت‌های کلیدی بدون هیچ گونه معطلی شدند."
+        ],
+        "impact": "این گزارش فشار دیپلماتیک بر تهران را به شدت افزایش داده و مسیر را برای قطعنامه جدید هموار می‌کند.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/un-agency-cant-confirm-iran-hasnt-diverted-nuclear-material-from-peaceful-activity",
+        "clean_url": "https://www.timesofisrael.com/un-agency-cant-confirm-iran-hasnt-diverted-nuclear-material-from-peaceful-activity",
+        "image": "http://www.bing.com/th?id=ONUT.7GQmkLShfpgjymeeHCy7ew&pid=News",
+        "timestamp": 1794542460.0
+    },
+    {
         "id": "10b47cf32f",
         "title_fa": "ادعای ایران درباره حمله به رادار آمریکا در بحرین",
         "title_en": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack",
@@ -5511,23 +5529,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGNicEh4bk5xcnBfOXhfLWJrSlpWMEZXOEFjd0lDZHM4NnZWbkF0RXBFakpncndIVW1uN1kzYVZQTlZ6SWRrVzVnR3hBTWpVVnJ4M2V5ZGN5QlhZUFhwV09pSGV3X1VKRXJ5OG50N1Z1RWNxYVdvN3I1LU50dS1DVzJ0ZWkwa1g5YWtFQTl6aVhlU3Vk",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794251020.0
-    },
-    {
-        "id": "682731cb7e",
-        "title_fa": "دستورالعمل جدي براي خروج از بن‌بست با آمريکا",
-        "title_en": "US-Iran war live: US envoy Kushner speaks of lasting peace ahead of Russia-Ukraine talks in Abu Dhabi",
-        "summary": [
-            "مسعود پزشکیان اعلام کرد دستورات لازم برای پایان دادن به وضعیت نه جنگ و نه صلح صادر شده است.",
-            "دونالد ترامپ ترجیح خود را بر دستیابی به یک توافق دیپلماتیک با تهران نشان داده است."
-        ],
-        "impact": "احتمال تغییر رویکرد جمهوری اسلامی در قبال مذاکرات مستقیم تحت فشار تحریم‌ها",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Hindustan Times",
-        "url": "https://www.msn.com/en-in/news/world/us-iran-war-live-us-envoy-kushner-speaks-of-lasting-peace-ahead-of-russia-ukraine-talks-in-abu-dhabi/ar-AA2h1jU0",
-        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-live-us-envoy-kushner-speaks-of-lasting-peace-ahead-of-russia-ukraine-talks-in-abu-dhabi/ar-AA2h1jU0",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h4PkI.img?w=549&h=309&m=4&q=90",
-        "timestamp": 1794249756.0
     }
 ]
