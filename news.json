@@ -256,6 +256,25 @@
         "timestamp": 1794560678.0
     },
     {
+        "id": "0934c88e1d",
+        "title_fa": "سرنگونی پهپادهای سپاه در بحرین توسط ارتش آمریکا",
+        "title_en": "US rejects Iran's radar claim, says it shot down drones over Bahrain",
+        "summary": [
+            "ستاد فرماندهی مرکزی آمریکا رسماً تایید کرد که دو پهپاد انتحاری پرتاب شده از سوی سپاه پاسداران به سمت بحرین را پیش از اصابت سرنگون کرده است.",
+            "ادعای رسانه‌های حکومتی مبنی بر انهدام رادار هشدار زودهنگام آمریکا در بحرین کاملاً تکذیب شد و هیچ خسارتی به تاسیسات ناوگان پنجم آمریکا وارد نشده است.",
+            "این اقدام نظامی جمهوری اسلامی در راستای ادامه تنش‌آفرینی‌های منطقه‌ای نیابتی صورت گرفته که با واکنش سریع پدافندی آمریکا خنثی شد."
+        ],
+        "impact": "شکست مفتضحانه عملیات پهپادی سپاه در بحرین و اثبات عدم کارایی ادعاهای تسلیحاتی حکومت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611137770",
+        "clean_url": "https://www.iranintl.com/en/202611137770",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/d49a9e681bf48f6f2054e31ede1170a515c5efe4-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794558360.0
+    },
+    {
         "id": "d53e079302",
         "title_fa": "گزارش بلومبرگ: تمدید قطع اطلاع‌رسانی هسته‌ای ایران در بن‌بست جنگ با آمریکا",
         "title_en": "Iran Extends Blackout of Nuclear Work With US War Deadlocked",
@@ -5512,23 +5531,5 @@
         "clean_url": "https://www.newsweek.com/irans-ayatollah-pushes-the-nuclear-limits-opinion-12679333",
         "image": "http://www.bing.com/th?id=ONUT.xaiTfvJFtC8LqZmd1XwUaA&pid=News",
         "timestamp": 1794276000.0
-    },
-    {
-        "id": "4771c417f2",
-        "title_fa": "تلاش قطر برای میانجیگری میان واشنگتن و ته‌ران",
-        "title_en": "Trump’s Iran diplomacy faces a test: Can both sides claim victory?",
-        "summary": [
-            "دیدار پشت درهای بسته میان دونالد ترامپ و نخست‌وزیر قطر در محور دیپلماسی پرونده ایران انجام شد.",
-            "ته‌ران لغو تحریم‌ها و آزادی پول‌های بلوکه‌شده را شرط اصلی توافق اعلام کرده است."
-        ],
-        "impact": "مذاکرات پشت پرده قطر می‌تواند مسیر فشارهای حداکثری واشنگتن را وارد فاز جدیدی کند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611091801",
-        "clean_url": "https://www.iranintl.com/en/202611091801",
-        "image": "http://www.bing.com/th?id=ONUT.bASzZhWXa5tPl2409OtW2w&pid=News",
-        "timestamp": 1794273420.0
     }
 ]
