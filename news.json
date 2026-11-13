@@ -109,6 +109,24 @@
         "timestamp": 1794594050.0
     },
     {
+        "id": "df20fcb141",
+        "title_fa": "طیبی پیامک‌های رایزنی دستیار نتانیاهو علیه آیزنکوت را منتشر کرد",
+        "title_en": "Tibi shows text messages from Netanyahu aide seeking Arab party's cooperation against Eisenkot",
+        "summary": [
+            "به گزارش تایمز آو اسرائیل، احمد طیبی، نماینده عضو فهرست مشترک در کنست، پیامک‌هایی را که از ناتان اشل، فرد نزدیک به بنیامین نتانیاهو دریافت کرده، نشان داده است.",
+            "بر اساس این گزارش، اشل در این پیام‌ها برای جلب همکاری این حزب با اکثریت عرب جهت خنثی کردن اقدامات بلوک گادی آیزنکوت، رئیس حزب یاشار، در پارلمان ابراز تمایل کرده است."
+        ],
+        "impact": "آشکار شدن تلاش چهره نزدیک به نتانیاهو برای جلب همکاری حزب عرب علیه بلوک آیزنکوت در کنست.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/tibi-shows-text-messages-from-netanyahu-aide-seeking-arab-partys-cooperation-against-eisenkot/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/tibi-shows-text-messages-from-netanyahu-aide-seeking-arab-partys-cooperation-against-eisenkot",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/WhatsApp_Image_2026-11-12_at_10.33.52_2-640x400.jpeg",
+        "timestamp": 1794592800.0
+    },
+    {
         "id": "599abfb3d1",
         "title_fa": "تحریک جدید ج.ا در بحرین؛ سطح تنش‌ها بالا رفت",
         "title_en": "Iran Escalates Low-Level Conflict With a Shot at Bahrain",
@@ -5507,23 +5525,5 @@
         "clean_url": "https://www.iranintl.com/en/202611109608",
         "image": "http://www.bing.com/th?id=ONUT.PGxNzuAv3lMFcokUGgp0UA&pid=News",
         "timestamp": 1794294540.0
-    },
-    {
-        "id": "df9d073e99",
-        "title_fa": "تـرـامـپ: درگیری با ایران به زودی تمام می‌شود و حمله جدیدی در کار نیست",
-        "title_en": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-        "summary": [
-            "رئیس‌جمهور آمریکا پیش‌بینی کرد که تنش‌ها و درگیری‌ها با تهران در آینده‌ای نزدیک پایان می‌یابد.",
-            "این موضع ملایم نشان می‌دهد فعلاً برنامه‌ای برای ضربات نظامی جدید روی میز نیست."
-        ],
-        "impact": "کاهش موقت تنش‌های روانی در بازارهای مالی و ارزی",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SVZ4ZGc5a3Y1STlmenVpVHNaX1MxQklrdlRKOTNlekw1ZThJU3RpZDd2RzhfLVNVZG9IUDRwQng1Q19iaTNfY01DM2lFZlpEbzJqbEZDeDJObkVPRTN1ZTYzOVFULVJuOUc0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SVZ4ZGc5a3Y1STlmenVpVHNaX1MxQklrdlRKOTNlekw1ZThJU3RpZDd2RzhfLVNVZG9IUDRwQng1Q19iaTNfY01DM2lFZlpEbzJqbEZDeDJObkVPRTN1ZTYzOVFULVJuOUc0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794293912.0
     }
 ]
