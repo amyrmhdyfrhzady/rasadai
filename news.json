@@ -198,6 +198,26 @@
         "timestamp": 1794538260.0
     },
     {
+        "id": "b421b09522",
+        "title_fa": "انفجار تانکر حامل گاز در تنگه هرمز بر اثر مین دریایی",
+        "title_en": "US Iran War Live Updates: Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
+        "summary": [
+            "به گزارش رسانه‌های دولتی ایران، نیروی دریایی سپاه اعلام کرد یک تانکر حامل گاز طبیعی مایع روز جمعه در تنگه هرمز با مین دریایی برخورد کرده و منفجر شده است؛ این نیرو مدعی شد شناور مذکور از «مسیر غیرمجاز و خطرناک» عبور می‌کرده است.",
+            "رسانه‌های ایران روز پنج‌شنبه نیز گزارش دادند چهار نفتکش دیگر پس از بی‌توجهی به هشدارها و ورود به مناطق محدودشده، دچار انفجار شده‌اند.",
+            "بر اساس داده‌های مؤسسه واشنگتن برای سیاست خاور نزدیک، در ده روز نخست نوامبر دست‌کم ۱۰ کشتی هدف قرار گرفته‌اند و ماه اکتبر با ۳۷ حمله، بالاترین آمار ماهانه را از زمان آغاز جنگ آمریکا و اسرائیل با ایران در اواخر فوریه ثبت کرده است.",
+            "ادامه این حملات در شرایطی گزارش می‌شود که افزایش تردد در تنگه و گمانه‌زنی‌ها درباره کاهش تنش، پیش‌تر به افت قیمت نفت منجر شده بود."
+        ],
+        "impact": "تداوم ناامنی در گلوگاه هرمز هزینه‌های کشتیرانی را افزایش داده و ثبات بازار جهانی انرژی را تهدید می‌کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-netanyahu-israel-strikes-gaza-iran-warning-saudi-houthi-attack-latest-news/liveblog/135781341.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-netanyahu-israel-strikes-gaza-iran-warning-saudi-houthi-attack-latest-news/liveblog/135781341.cms",
+        "image": "http://www.bing.com/th?id=ONUT.OrlAqwJDszHD0CwgoSaKUg&pid=News",
+        "timestamp": 1794530520.0
+    },
+    {
         "id": "9c4a639e4f",
         "title_fa": "سنتکام شایعه حمله قریب‌الوقوع به ایران را تکذیب کرد",
         "title_en": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’",
@@ -5507,24 +5527,5 @@
         "clean_url": "https://financefeeds.com/de/usa-sanktionen-acht-kanadische-krypto-boersen-iran",
         "image": "https://financefeeds.com/wp-content/uploads/2025/09/Bank-of-Canada-and-stablecoins.webp",
         "timestamp": 1794247800.0
-    },
-    {
-        "id": "e6e0446f18",
-        "title_fa": "پيشنهاد تهران برای رفع محاصره و آزادی پول‌های بلوکه‌شده",
-        "title_en": "Trump just handed the world a giant clue he is getting ready to try and end the Iran war once and for all",
-        "summary": [
-            "دیدار نخست‌وزیر قطر با ترامپ در کاخ سفید برای بررسی پرونده جـمـهوری اسـلامی انجام شد.",
-            "تهران طرحی دو روزه شامل باز کردن تنگه هرمز و پذیرش بازرسان ارائه داده است.",
-            "آزادسازی منابع مالی مسدود شده و رفع تحریم‌های دریایی در ازای توافق روی میز است."
-        ],
-        "impact": "تلاش پشت‌پرده دیپلماتیک برای جلوگیری از فروپاشی اقتصادی کامل و مهار بحران.",
-        "tag": "دیپلماتیک",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "National Security Journal",
-        "url": "https://www.msn.com/en-us/news/other/trump-just-handed-the-world-a-giant-clue-he-is-getting-ready-to-try-and-end-the-iran-war-once-and-for-all/ar-AA2h5GYA",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-just-handed-the-world-a-giant-clue-he-is-getting-ready-to-try-and-end-the-iran-war-once-and-for-all/ar-AA2h5GYA",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1D2pER.img?w=768&h=432&m=6&x=545&y=254&s=241&d=241",
-        "timestamp": 1794246946.0
     }
 ]
