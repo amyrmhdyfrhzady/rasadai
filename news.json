@@ -219,6 +219,24 @@
         "timestamp": 1794507888.0
     },
     {
+        "id": "5536bf0754",
+        "title_fa": "گزارش وال‌استریت ژورنال: حملات سایبری ایران علیه اهداف فیزیکی",
+        "title_en": "Iran’s new cyber playbook: create real-world havoc",
+        "summary": [
+            "به گزارش وال‌استریت ژورنال، تهران تلاش‌های خود را برای ایجاد اختلال در دنیای واقعی از طریق فضای سایبری تشدید کرده است.",
+            "بر اساس این گزارش، حملات جدید بر هدف قرار دادن تانکرها و یخچال‌هایی متمرکز شده است که از حفاظت امنیتی ضعیفی برخوردارند."
+        ],
+        "impact": "به نوشته وال‌استریت ژورنال، آسیب‌پذیری تجهیزات کم‌دفاع ریسک بروز اختلال و خسارت فیزیکی مستقیم را افزایش می‌دهد.",
+        "tag": "سایبری",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-new-cyber-playbook-create-real-world-havoc/ar-AA2hkGm8",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-new-cyber-playbook-create-real-world-havoc/ar-AA2hkGm8",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794502800.0
+    },
+    {
         "id": "fe2b042044",
         "title_fa": "محکومیت دو جاسوس وابسـته به جـمهوری اسـلامی در دادگاه انگلستان",
         "title_en": "UK court finds two Iranian men guilty of spying for Iran",
@@ -5510,23 +5528,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-tehran-warns-of-dire-consequences-of-any-renewed-us-attacks/ar-AA2h3thB",
         "image": "http://www.bing.com/th?id=ONUT.sGeYivUmYHpS1GeNIaKunQ&pid=News",
         "timestamp": 1794234810.0
-    },
-    {
-        "id": "31d12e21dd",
-        "title_fa": "بن‌بست اتمی تتهران و اعتراف به ضرورت درگیری نظامی",
-        "title_en": "Iran Has a Problem: Tehran Says Its Program Is Peaceful, but It Holds a Uranium Stockpile Enriched Far Past What Any Power Plant Needs",
-        "summary": [
-            "انباشت اورانیوم با غنای بالا توسط حکومت، ادعای صلح‌آمیز بودن برنامه هسته‌ای را کاملاً زیر سوال برده است.",
-            "مقامات ارشد آمریکایی جنگ احتمالی را با وجود عدم محبوبیت عمومی، یک ضرورت امنیتی می‌دانند."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی و تنگ‌تر شدن حلقه فشار بر پروژه هسته‌ای ج.ا.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "nationalsecurityjournal",
-        "url": "https://www.msn.com/en-us/news/other/iran-has-a-problem-tehran-says-its-program-is-peaceful-but-it-holds-a-uranium-stockpile-enriched-far-past-what-any-power-plant-needs/ar-AA2h4MfA",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-problem-tehran-says-its-program-is-peaceful-but-it-holds-a-uranium-stockpile-enriched-far-past-what-any-power-plant-needs/ar-AA2h4MfA",
-        "image": "https://nationalsecurityjournal.org/wp-content/uploads/2025/04/Aircraft-Carrier-U.S.-Navy-11.jpg",
-        "timestamp": 1794234591.0
     }
 ]
