@@ -479,6 +479,24 @@
         "timestamp": 1794482611.0
     },
     {
+        "id": "c8ca6bba91",
+        "title_fa": "انتقاد نویسنده اسرائیل نشنال نیوز از راهبرد ترامپ و آمریکا",
+        "title_en": "President Trump, architect and victim of a self-inflicted wound",
+        "summary": [
+            "به نوشته مئیر جولوویتس، مدیر پیشین سازمان صهیونیستی آمریکا، در «اسرائیل نشنال نیوز»، حکومت ایران تمرکز خود را بر بقا و بهره‌برداری از خطاهای طرف مقابل گذاشته، اما به ادعای این نویسنده، ایالات متحده این موضوع را درک نکرده است.",
+            "جولوویتس در ادامه با اشاره به نتایج انتخابات میان‌دوره‌ای سوم نوامبر در آمریکا و شکست جمهوری‌خواهان، ابراز عقیده کرده که تحلیل این رویداد در آینده فراتر از توضیحات ساده‌انگارانه رسانه‌ها و شبکه‌های اجتماعی خواهد بود."
+        ],
+        "impact": "این مقاله دیدگاه یک تحلیلگر محافظه‌کار را درباره وضعیت سیاسی آمریکا پس از انتخابات میان‌دوره‌ای و رویکرد واشنگتن در قبال ایران بازتاب می‌دهد.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Israel National News",
+        "url": "https://www.israelnationalnews.com/news/436075",
+        "clean_url": "https://www.israelnationalnews.com/news/436075",
+        "image": "https://2.a7.org/files/pictures/000/1215331.jpg",
+        "timestamp": 1794482220.0
+    },
+    {
         "id": "47a03854ff",
         "title_fa": "نوسان وال‌استریت در پی بحران انویدیا و قیمت نفت",
         "title_en": "Wall Street shakes following swings for Nvidia and oil prices but recovers most of its early losses",
@@ -643,6 +661,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50X3gzWkc0d0FrTXAwa3lDeFRDQ1diaFF1cDVyaGRXMVZycDFIa3hIV0JHS05WR0hpajB4MW1tczNnQmhkek43cGZLYkFtM2JTMFEyd1VVU0tBMDZGRHZfLTBuNzRuS2ta",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794475581.0
+    },
+    {
+        "id": "b2fa714bdc",
+        "title_fa": "ارائه گزارش امنیتی دفتر نتانیاهو به گادی آیزنکوت",
+        "title_en": "Eisenkot to receive security briefing from Netanyahu's military secretary",
+        "summary": [
+            "بر اساس گزارش رسانه‌های عبری به نقل از «تایمز آو اسرائیل»، قرار است گادی آیزنکوت، رهبر حزب یاشار، یک جلسه توجیهی امنیتی با منشی نظامی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، داشته باشد.",
+            "این اقدام پس از آن صورت می‌گیرد که آیزنکوت دفتر نخست‌وزیری را متهم کرده بود با وجود درخواست‌های او، از هماهنگی این جلسات امنیتی خودداری کرده است."
+        ],
+        "impact": "تنظیم این جلسه ممکن است به اختلاف اخیر میان آیزنکوت و دفتر نتانیاهو بر سر اطلاع‌رسانی‌های امنیتی پایان دهد.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-to-receive-security-briefing-from-netanyahus-military-secretary-report/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-to-receive-security-briefing-from-netanyahus-military-secretary-report",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794475560.0
     },
     {
         "id": "32140116a9",
@@ -5492,41 +5528,5 @@
         "clean_url": "https://www.iranintl.com/en/202611093244",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/b7ba372188343fc39b974df29103b8cd9156c3bb-1024x1024.jpg?rect=146,121,732,732&w=200&h=200&q=90&fit=crop&auto=format",
         "timestamp": 1794230280.0
-    },
-    {
-        "id": "a2001e9dff",
-        "title_fa": "بن‌بست در دیدار ترامپ و نخست‌وزیر قطر درباره ایران",
-        "title_en": "Trump meeting with Qatar prime minister ends without Iran peace deal",
-        "summary": [
-            "دیدار پشت درهای بسته دونالد ترامپ و نخست‌وزیر قطر بدون هیچ توافقی برای پایان دادن به درگیری‌ها با جـمـهـوری اسـلامـی به پایان رسید.",
-            "فشارها بر بیت رهبری جـمـهـوری اسـلامـی همچنان ادامه دارد و میانجی‌گری‌ها تاکنون نتیجه‌ای نداشته است."
-        ],
-        "impact": "ادامه روند تنش و بسته ماندن پنجره دیپلماسی در برابر تهران",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-meeting-with-qatar-prime-minister-ends-without-iran-peace-deal/ar-AA2h5KwM",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-meeting-with-qatar-prime-minister-ends-without-iran-peace-deal/ar-AA2h5KwM",
-        "image": "http://www.bing.com/th?id=ONUT.Fi08yslBXUbLDZtvWNwUlg&pid=News",
-        "timestamp": 1794229535.0
-    },
-    {
-        "id": "15d4dc883f",
-        "title_fa": "دفاع تمام‌قد ترامپ از تصمیمات جنگی خود",
-        "title_en": "Trump’s 8-Word Reply To JD Vance’s Iran War Diss Called A ‘Striking Rebuke’",
-        "summary": [
-            "ترامپ جنگ با ای-ران را یکی از بهترین اقدامات تاریخی خود خواند",
-            "او با تایید مواضع جی‌دی ونس، بر درستی مسیر نظامی تاکید کرد"
-        ],
-        "impact": "تثبیت رویکرد تهاجمی ترامپ در سیاست خارجی",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trumps-8-word-reply-to-jd-vances-iran-war-diss-called-a-striking-rebuke_n_6af1e10ee4b0d2d11fa493a6",
-        "clean_url": "https://www.huffpost.com/entry/trumps-8-word-reply-to-jd-vances-iran-war-diss-called-a-striking-rebuke_n_6af1e10ee4b0d2d11fa493a6",
-        "image": "http://www.bing.com/th?id=ONUT.MvXGf-MfRyzgpQ8jm4f9iQ&pid=News",
-        "timestamp": 1794229500.0
     }
 ]
