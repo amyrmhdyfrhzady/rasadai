@@ -515,6 +515,25 @@
         "timestamp": 1794481662.0
     },
     {
+        "id": "d3ea2ad4f8",
+        "title_fa": "اعتراض رسمی تهران به سازمان ملل بر سر جایزه هسته‌ای آمریکا",
+        "title_en": "Iran War Crisis: Tehran Files UN Protest Over U.S. Nuclear Bounty as IAEA Standby Deepens — November 12, 2026",
+        "summary": [
+            "بر اساس گزارش وب‌تک ۳۶۰، عباس عراقچی، وزیر امور خارجه ایران، در نامه‌هایی به دبیرکل سازمان ملل و آژانس بین‌المللی انرژی اتمی، برنامه وزارت خارجه آمریکا برای تعیین جایزه تا ۲۰ میلیون دلار بابت اطلاعات درباره تاسیسات و پرسنل هسته‌ای ایران را محکوم کرد.",
+            "عراقچی در نامه به شورای امنیت مدعی شد که این اقدام آمریکا امنیت هسته‌ای بین‌المللی را به خطر می‌اندازد و پروتکل‌های دیپلماتیک را نقض می‌کند.",
+            "این منبع گزارش داده که تهران همزمان با تنش‌های جاری بر سر نظارت‌های هسته‌ای، یک پرونده حقوقی ۱۰ صفحه‌ای را پیش از نشست آتی به آژانس در وین تحویل داده است."
+        ],
+        "impact": "تشدید تقابل دیپلماتیک تهران و واشنگتن همزمان با تداوم بن‌بست بر سر نظارت‌های هسته‌ای آژانس بین‌المللی انرژی اتمی.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "WEBTECH 360",
+        "url": "https://www.webtech360.com/detail/iran-war-crisis-tehran-files-un-protest-over-u-s-iran-daily-live-20261108-us-hp2-99917775.html",
+        "clean_url": "https://www.webtech360.com/detail/iran-war-crisis-tehran-files-un-protest-over-u-s-iran-daily-live-20261108-us-hp2-99917775.html",
+        "image": "https://image.webtech360.com/content/img/icon/logo-webtech360.webp",
+        "timestamp": 1794481500.0
+    },
+    {
         "id": "b37570a3d6",
         "title_fa": "خشم مسکو و تـــــــــهـــــــــران از اقدام سنتکام در دریای خزر",
         "title_en": "Russia and Iran criticise US Caspian task force as study outlines joint sanction evasion",
@@ -5509,24 +5528,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ldzVjLTJoaFRLZkFxajZoMm55eHVKb0xCTVBnY01ORG9wZFJVcW8tRWF0MG1fYmU5Z2ItQ0F6eFo5dDFUdGlMa2ZmcGhYYUIzMWc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794231187.0
-    },
-    {
-        "id": "a8531cbda4",
-        "title_fa": "پزشکیان: دستور پایان وضعیت نه جنگ و نه صلح صادر شد",
-        "title_en": "Iran signals readiness for talks but demands US lift restrictions",
-        "summary": [
-            "مسعود پزشکیان اعلام کرد علی خامنه‌ای دستور داده تکلیف وضعیت معلق کشور بین جنگ و صلح روشن شود.",
-            "تهران آمادگی خود را برای مذاقره منوط به لغو تحریم‌های آمریکا کرده است.",
-            "رئیس‌جمهور وضعیت اقتصادی و فقر عمومی را پذیرفته و بر لزوم تغییر در نحوه اداره کشور تاکید کرد."
-        ],
-        "impact": "تلاش حاکمیت برای باز کردن مسیر دیپلماسی زیر سایه سنگین فشار حداکثری و بحران‌های اقتصادی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611093244",
-        "clean_url": "https://www.iranintl.com/en/202611093244",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/b7ba372188343fc39b974df29103b8cd9156c3bb-1024x1024.jpg?rect=146,121,732,732&w=200&h=200&q=90&fit=crop&auto=format",
-        "timestamp": 1794230280.0
     }
 ]
