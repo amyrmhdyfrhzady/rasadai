@@ -236,6 +236,24 @@
         "timestamp": 1794538260.0
     },
     {
+        "id": "22b3448b21",
+        "title_fa": "تعطیلی بازرسی‌های هسته‌ای؛ طفره رفتن تـکـراری جـمـهـوری اسـلامـی از نظارت بین‌المللی",
+        "title_en": "Iran tells UN nuclear agency that monitoring cannot proceed while it is under threat",
+        "summary": [
+            "مقام‌های تهران به آژانس انرژی اتمی اعلام کردند تا زمانی که سایه تهدید نظامی آمریکا و اسرائیل بالای سر تاسیسات هسته‌ای است، هیچ بازرسی و گفتگویی در کار نخواهد بود.",
+            "این بهانه جدید در حالی مطرح می‌شود که بازرسان همچنان پشت درهای تاسیسات آسیب‌دیده مانده‌اند و امکان راستی‌آزمایی برنامه اتمی وجود ندارد."
+        ],
+        "impact": "بسته‌تر شدن مسیر دیپلماسی و افزایش احتمال واکنش تند شورای حکام آژانس علیه تهران.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-tells-un-nuclear-agency-101248307.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-tells-un-nuclear-agency-101248307.html",
+        "image": "http://www.bing.com/th?id=ONUT.Ihrj9ynUftV7cvHdy3i1vQ&pid=News",
+        "timestamp": 1794535920.0
+    },
+    {
         "id": "b421b09522",
         "title_fa": "انفجار تانکر حامل گاز در تنگه هرمز بر اثر مین دریایی",
         "title_en": "US Iran War Live Updates: Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
@@ -5510,24 +5528,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-warning-from-trump-three-aircraft-carriers-are-fully-locked-and-loaded-and-dozens-of-bridges-are-in-his-sights/ar-AA2h4NRq",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h57SP.img?w=768&h=432&m=6",
         "timestamp": 1794249255.0
-    },
-    {
-        "id": "1e5d1fa6a5",
-        "title_fa": "هشدار سازمان ملل درباره س‌ر‌ک‌و‌ب وکلا در ایران",
-        "title_en": "UN experts warn Iran's crackdown on lawyers imperils fair trials",
-        "summary": [
-            "افزایش فشارهای امنیتی بر وکلا، پرونده‌های سیاسی و مدنی را رسماً به دادگاه‌های یک‌طرفه و بدون دفاع تبدیل کرده است.",
-            "احضار و بازداشت بیش از ۱۳۵ وکیل در یک سال، بخشی از پروژه حذف آخرین وکلا مستقل و جایگزینی آنان با وکلای مورد تأیید ج.ا.ا است.",
-            "شدت گرفتن روند اعترافات اجباری و بازداشت‌های خودسرانه، واکنش خنده‌دار دستگاه قضایی به هشدارهای حقوق بشری را آشکار می‌کند."
-        ],
-        "impact": "سلب کامل حق دفاع از متهمان سیاسی و تسهیل صدور احکام سنگین و فاقد وجاهت قانونی.",
-        "tag": "حقوق بشر",
-        "urgency": 5,
-        "sentiment": -0.75,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611097004",
-        "clean_url": "https://www.iranintl.com/en/202611097004",
-        "image": "http://www.bing.com/th?id=ONUT.70oNKgdIUV9xt3SZg3mOiw&pid=News",
-        "timestamp": 1794248880.0
     }
 ]
