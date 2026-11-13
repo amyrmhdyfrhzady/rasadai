@@ -36,6 +36,24 @@
         "timestamp": 1794574842.0
     },
     {
+        "id": "fb3bb28522",
+        "title_fa": "هشدار نیوسام درباره خطای فاجعه‌بار جنگ با ج.ا",
+        "title_en": "‘Colossal mistake’: Gov. Newsom tells Iranian filmmaker about Iran war",
+        "summary": [
+            "گاوین نیوسام در گفتگو با یک فیلمساز ایرانی، هرگونه درگیری نظامی مستقیم با ج.ا را اشتباهی بزرگ و ویرانگر خواند.",
+            "این موضع‌گیری نشان‌دهنده تمایل طیف دموکرات برای پرهیز از تنش نظامی مستقیم و تمرکز بر روش‌های دیگر است."
+        ],
+        "impact": "کاهش احتمال مداخله نظامی مستقیم آمریکا در کوتاه‌مدت با وجود فشارهای منطقه‌ای.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVhnX21QeG9hRlpReUxGdGhzcnltVS1JZ2tjZHkxQi0wWHA1eUVyTVBfY3lQdER2dnhiSndmd1VhUFl3REJZQXlMTGVkUFBMLXJ5N09xYmxrdGZkTl9lQ3NFTG5mdE5kbWRCTzNtRmRqdHh0eDAtcE5FUTdKSTFvVHFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVhnX21QeG9hRlpReUxGdGhzcnltVS1JZ2tjZHkxQi0wWHA1eUVyTVBfY3lQdER2dnhiSndmd1VhUFl3REJZQXlMTGVkUFBMLXJ5N09xYmxrdGZkTl9lQ3NFTG5mdE5kbWRCTzNtRmRqdHh0eDAtcE5FUTdKSTFvVHFB",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794573660.0
+    },
+    {
         "id": "4a6a45113a",
         "title_fa": "چالش‌های اسرائیل در تقابل با ج.ا و آینده جنگ",
         "title_en": "پاراگراف اول؛ اسرائیل از جنگ با ایران چه میخواهد و این تقابل به کجا میرسد؟",
@@ -5511,23 +5529,5 @@
         "clean_url": "https://finance.biggo.com/news/2ab8cbfa-2151-4e6f-b7e1-245c6d93feea",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794268500.0
-    },
-    {
-        "id": "c51b632cc4",
-        "title_fa": "ترامپ: جنگ با جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی به زودی تمام می شود",
-        "title_en": "Donald Trump says Iran war could end soon, defends Pete Hegseth, Nvidia CEO",
-        "summary": [
-            "دونالد ترامپ در اظهاراتی از پایان زودهنگام تنش‌ها و درگیری‌ها با جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی خبر داد.",
-            "او همچنین به دفاع از پیت هگست و مدیرعامل انویدیا پرداخت."
-        ],
-        "impact": "این اظهارات می‌تواند بازارهای مالی را به سمت آرامش نسبی و کاهش تنش هدایت کند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82MXVqU1JPX3RQaHdweWxrSTJkeVpUNDBEc0JlNUVLODlUXzZsUVNqSTNyUzFEMU1YUDYzNGdhcWpuNWVsQnBySVdDM2tENzlTVVZzWjhFNEptR0RHS2xn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82MXVqU1JPX3RQaHdweWxrSTJkeVpUNDBEc0JlNUVLODlUXzZsUVNqSTNyUzFEMU1YUDYzNGdhcWpuNWVsQnBySVdDM2tENzlTVVZzWjhFNEptR0RHS2xn",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794266894.0
     }
 ]
