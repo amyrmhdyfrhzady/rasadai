@@ -238,6 +238,24 @@
         "timestamp": 1794546000.0
     },
     {
+        "id": "a4c71ac512",
+        "title_fa": "ریسک ترامپ روی محاصره دریایی ایران و تردید کارشناسان",
+        "title_en": "Something strange is happening to Donald Trump: He is betting the Iran war on a blockade his own Navy cannot sustain",
+        "summary": [
+            "ترجیح ترامپ استفاده از ابزار فشار اقتصادی و محاصره به جای حملات نظامی مستقیم است.",
+            "کارشناسان نظامی معتقدند نیروی دریایی توانایی حفظ این محاصره را در بلندمدت ندارد و این تاکتیک رژیم را سرنگون نمی‌کند."
+        ],
+        "impact": "فشار اقتصادی افزایش می‌یابد اما دوام راهبرد محاصره دریایی زیر سوال است.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/something-strange-is-happening-to-donald-trump-he-is-betting-the-iran-war-on-a-blockade-his-own-navy-cannot-sustain/ar-AA2hn7sY",
+        "clean_url": "https://www.msn.com/en-us/news/other/something-strange-is-happening-to-donald-trump-he-is-betting-the-iran-war-on-a-blockade-his-own-navy-cannot-sustain/ar-AA2hn7sY",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794545764.0
+    },
+    {
         "id": "5024d34fd8",
         "title_fa": "ترامپ: بقای حاکمیت فعلی ایران تا پایان دوره‌ام شکست است",
         "title_en": "Trump on Iran war: If the crazies in Iran are still in power when I leave office, that would be a defeat | LIVE BLOG",
@@ -5511,23 +5529,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794263778.0
-    },
-    {
-        "id": "1061fe9b95",
-        "title_fa": "ترامپ: تهران تسلیم ممنوعیت اتمی شده اما اعتراف نمی‌کند",
-        "title_en": "Trump says Iran accepts nuclear weapons ban despite public denials",
-        "summary": [
-            "دونالد ترامپ تأکید کرد که جمهوری اسلامی ایران با وجود انکار رسمی، صددرصد پذیرفته که هرگز به سلاح اتمی دست پیدا نکند.",
-            "ایالات متحده آماده هرگونه اقدام نظامی است اما فعلاً نیازی به استفاده از این توانمندی دیده نمی‌شود."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و روانی بر تهران برای پذیرش توافق‌های سفت‌وسخت.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611090597",
-        "clean_url": "https://www.iranintl.com/en/202611090597",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/adcf50a88fc2b1636b85244d60c8bfbc2d08b81e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794263160.0
     }
 ]
