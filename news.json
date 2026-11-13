@@ -622,6 +622,25 @@
         "timestamp": 1794554700.0
     },
     {
+        "id": "7a02e54523",
+        "title_fa": "هشدار آژانس اتمی درباره تاسیسات اصفهان و موضع جنجالی ترامپ",
+        "title_en": "Nuclear watchdog demands answers over Iran’s uranium plant",
+        "summary": [
+            "آژانس اتمی نسبت به وجود مواد با غنای بالا در تاسیسات اصفهان هشدار داد و خواهان شفاف‌سازی فوری شد.",
+            "دونالد ترامپ با اعلام اینکه نیازی به توافق نیست، تاکید کرد که کنترل تنگه هرمز و پول‌های بلوکه شده را در اختیار دارد.",
+            "با کنار گذاشته شدن جی‌دی ونس از مذاکرات، رویکرد دولت آمریکا در قبال پرونده هسته‌ای وارد فاز مبهمی شده است."
+        ],
+        "impact": "افزایش ریسک‌های امنیتی در منطقه و سیگنال منفی به بازارهای مالی درباره احتمال توقف دیپلماسی",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/nuclear-watchdog-demands-answers-over-152512432.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/nuclear-watchdog-demands-answers-over-152512432.html",
+        "image": "http://www.bing.com/th?id=ONUT.sNuDXe73pYcdir_Ajs42-g&pid=News",
+        "timestamp": 1794554640.0
+    },
+    {
         "id": "5a0e40da6e",
         "title_fa": "هشدار واشینگتن به تل‌آویو: برای ازسرگیری جنگ با ایران آماده شوید",
         "title_en": "Washington asks Israel to prepare for possible resumption of war with Iran",
@@ -5507,24 +5526,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-donald-trump-abbas-araghchi-qatar-mediation-saudi-houthis-strait-of-hormuz-hegseth-israel-101794273223342.html",
         "image": "http://www.bing.com/th?id=ONUT.G7vXarDzIYkFDUq8b4tTZg&pid=News",
         "timestamp": 1794293460.0
-    },
-    {
-        "id": "3e1978b98f",
-        "title_fa": "بازگشت تحریم‌های کانادا علیه ۱۱ شریان حیاتی نفتی و بانکی ایران",
-        "title_en": "Canada Reimposes Sanctions on 11 Iranian Entities",
-        "summary": [
-            "کانادا تمام معافیت‌های برجامی سال ۲۰۱۶ را لغو کرد و غول‌های نفتی و بانکی مانند شرکت ملی نفت، شرکت ملی نفت‌کش، بانک ملت و بانک ملی را مجدداً وارد لیست سیاه کرد.",
-            "این اقدام ضربه‌ای مستقیم به کانال‌های مالی و راه‌های دور زدن تحریم‌ها توسط تهران در بازارهای بین‌المللی است.",
-            "بازگشت این تحریم‌ها توسط اوتاوا، فشار سیاسی بر کشورهای اروپایی را برای پایان دادن به ارفاق‌های برجامی افزایش می‌دهد."
-        ],
-        "impact": "تنگ‌تر شدن حلقه انزوای بانکی و اخلال در شبکه‌های مویرگی فروش نفت و انتقال ارز.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Mirage News",
-        "url": "https://www.miragenews.com/canada-reimposes-sanctions-on-11-iranian-1774803/",
-        "clean_url": "https://www.miragenews.com/canada-reimposes-sanctions-on-11-iranian-1774803",
-        "image": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg",
-        "timestamp": 1794292140.0
     }
 ]
