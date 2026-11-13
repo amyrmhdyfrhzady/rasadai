@@ -1,5 +1,23 @@
 [
     {
+        "id": "10b47cf32f",
+        "title_fa": "ادعای ایران درباره حمله به رادار آمریکا در بحرین",
+        "title_en": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack",
+        "summary": [
+            "به گزارش روزنامه جروزالم پست، ایران مدعی شده است که یک رادار ایالات متحده در بحرین را هدف حمله قرار داده است.",
+            "بر اساس همین گزارش، این اقدام تلافی‌جویانه در واکنش به حمله به مرکز مخابراتی سیریک عنوان شده است."
+        ],
+        "impact": "طرح این ادعا از سوی ایران به نقل از جروزالم پست، بر بالا گرفتن تنش‌های نظامی و تقابل مستقیم در منطقه دلالت دارد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZWhoaVp5V1BxSWw2MC1OU21JR0xpMVhxeHBuaWFCak9tZlFwN2ZXdHItWnQ1Mk5iRExJdWpFLTJEMklfMC15ZXFwNnNpN3hlY1laUkUxdWhKQ0FuMXVTUjZVc2RCaWEzNXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZWhoaVp5V1BxSWw2MC1OU21JR0xpMVhxeHBuaWFCak9tZlFwN2ZXdHItWnQ1Mk5iRExJdWpFLTJEMklfMC15ZXFwNnNpN3hlY1laUkUxdWhKQ0FuMXVTUjZVc2RCaWEzNXc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794539617.0
+    },
+    {
         "id": "40272dc235",
         "title_fa": "ادعای سپاه درباره هدف گرفتن رادار آمریکا در بحرین",
         "title_en": "Iran's Guards say they targeted a US early-warning radar in Bahrain",
@@ -5509,24 +5527,5 @@
         "clean_url": "https://fox11online.com/news/nation-world/trump-meets-qatars-prime-minister-as-white-house-weighs-next-steps-for-iran-conflict-marco-rubio",
         "image": "https://fox11online.com/resources/media2/16x9/7784/1320/0x407/90/4d03c346-7d16-4dcb-93e1-3f1349ee882e-GettyImages2304343966.jpg",
         "timestamp": 1794235920.0
-    },
-    {
-        "id": "0d14636526",
-        "title_fa": "زلزله انتخابات میان‌دوره‌ای آمریکا و محاسبات جدید درباره ج.ا",
-        "title_en": "Iran war: Will Trump's midterm defeat end or entrench the conflict with Tehran?",
-        "summary": [
-            "شکست سنگین حزب جمهوری‌خواه در کنگره آمریکا، دست‌انداز بزرگی برای کاخ سفید ایجاد کرده است.",
-            "محافل حکومتی در تهران این شکست را به پای مقاومت خود نوشته و آن را عقب‌نشینی واشنگتن ارزیابی می‌کنند.",
-            "مهدی رضایی و دیگر چهره‌های امنیتی این نتیجه را سیگنالی برای تغییر موازنه به نفع تهران می‌دانند."
-        ],
-        "impact": "تغییر موازنه قدرت در کنگره آمریکا دست‌انداز جدی در مسیر فشارهای حداکثری ایجاد می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/opinion/iran-war-will-trumps-midterm-defeat-end-or-entrench-conflict",
-        "clean_url": "https://www.middleeasteye.net/opinion/iran-war-will-trumps-midterm-defeat-end-or-entrench-conflict",
-        "image": "https://www.middleeasteye.net/sites/default/files/images-story/iran-demonstrator-us-trump-tehran-november-2026-atta-kenare-afp.jpg",
-        "timestamp": 1794235440.0
     }
 ]
