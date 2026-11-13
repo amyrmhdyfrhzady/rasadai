@@ -18,6 +18,25 @@
         "timestamp": 1794571320.0
     },
     {
+        "id": "5e92ed2666",
+        "title_fa": "تعویق جنگ با ایران؛ بازسازی موشکی و اتمی ادامه دارد",
+        "title_en": "War with Iran may be delayed, but the threat of renewed conflict remains",
+        "summary": [
+            "اطلاعات ارزیابی‌شده اسرائیل و آمریکا نشان می‌دهد که ج.ه. هنوز به سلاح اتمی نرسیده و ساخت آن فعلا در دستور کار عملیاتی گسترده نیست.",
+            "مجتبی خامنه‌ای به صورت اصولی با تغییر دکترین هسته‌ای موافقت کرده، اما هنوز گام ملموسی برای ساخت بمب برنداشته‌اند.",
+            "تولید ماهانه ده‌ها موشک بالستیک و مقاوم‌سازی تاسیسات هسته‌ای و موشکی با سرعت در حال انجام است."
+        ],
+        "impact": "تهدید نظامی مستقیم موقتاً عقب افتել، اما ساختار نظامی و اتمی ج.ه. در حال بازسازی و تقویت است.",
+        "tag": "هسته ای",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/bjkbbd4ame",
+        "clean_url": "https://www.ynetnews.com/article/bjkbbd4ame",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/rJQXiOQCfe/rJQXiOQCfe_0_0_850_479_0_large.jpg",
+        "timestamp": 1794570240.0
+    },
+    {
         "id": "3e6fd382ef",
         "title_fa": "محدود شدن گزینه‌های ترامپ برای مهار جمهوری اسلامی",
         "title_en": "Trump confronts dwindling options to end conflict with Iran",
@@ -5511,23 +5530,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWtPWmlRWllyd3RZZ1VmUkt3QWtSVjUyQzFaaWNabTM5a3JMZS15QUFlZEZaNVdPTFlNeGhDVk1zS1RGdlV1cVQ0eHNHYmltWjQteGhmVlpISmNOSlJYa0JLWU9MTkc2RE1weGtoZFNZdHRuaVJhNnRqcGl0bndYS05DVWw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794257768.0
-    },
-    {
-        "id": "e882dfaec1",
-        "title_fa": "خط و نشان ترامپ برای ج·م·ه·و·ر·ی ا·س·ل·ا·م·ی",
-        "title_en": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed",
-        "summary": [
-            "کشورهای عربی منطقه به دنبال راه‌حل مسالمت‌آمیز برای مهار تنش‌ها هستند.",
-            "واشنگتن روی میز مذاکره تأکید دارد اما گزینه حمله نظامی را کنار نگذاشته است."
-        ],
-        "impact": "افزایش ریسک امنیتی و روانی در بازار ارز و سرمایه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794256963.0
     }
 ]
