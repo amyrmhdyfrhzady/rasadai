@@ -493,6 +493,25 @@
         "timestamp": 1794496320.0
     },
     {
+        "id": "497cb4b653",
+        "title_fa": "خروج جنجالی جنسن هوانگ؛ آزمون بزرگ انویدیا بدون بنیان‌گذارش",
+        "title_en": "Jensen Huang's exit tests whether Nvidia can run without its founder",
+        "summary": [
+            "به گزارش لس‌آنجلس تایمز، کناره‌گیری جنسن هوانگ با انتشار گزارش‌هایی درباره رابطه او با فردی مظنون به جاسوسی برای چین مرتبط است.",
+            "این جدایی، شرکت انویدیا را در اوج دوران شکوفایی هوش مصنوعی از وجود رهبری محروم می‌کند که آن را به کانون اصلی این صنعت تبدیل کرده بود.",
+            "لس‌آنجلس تایمز اشاره می‌کند که رفتن هوانگ، توانایی این غول تراشه‌سازی را برای ادامه فعالیت بدون بنیان‌گذار خود به چالش می‌کشد."
+        ],
+        "impact": "بر اساس گزارش لس‌آنجلس تایمز، آینده هدایت انویدیا در بازار پرشتاب هوش مصنوعی با ابهام و آزمون جدی روبه‌رو شده است.",
+        "tag": "فناوری",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Los Angeles Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/nvidia-shares-tumble-after-jensen-huang-resigns-as-ceo/ar-AA2hjvOw",
+        "clean_url": "https://www.msn.com/en-us/news/other/nvidia-shares-tumble-after-jensen-huang-resigns-as-ceo/ar-AA2hjvOw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794495480.0
+    },
+    {
         "id": "0e9b983790",
         "title_fa": "بن‌بست تهران و واشنگتن؛ نه جنگ، نه صلح",
         "title_en": "‘No war, no peace’: Can Iran break the deadlock with the US?",
@@ -5507,24 +5526,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkRjNFdHMWNyejk4OW5aMkN5T3dPeEVQbW1ab0NWelZBOEVNN0tzOURfYi1HNU9HMUREMnFTR04xOXlkNDdiUkFZMENnMDJfTlZSNUJFZFlZR0JSbUM1V2taMmhBeFNReENqbTdIM2N1Qlc5di1zQzFMbkJYQ0pZRDgyYzJwQWFUalRqVEdsZGt1NWJSOVVwWVVpTmVmbTF1TmhtUjZrdk1FS0dIR3lSNlBwYTNWaVBoQ2RHY0V3",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794240289.0
-    },
-    {
-        "id": "afc3ee5e43",
-        "title_fa": "ترامپ در دو سال پایانی؛ خطرناک‌تر از همیشه برای ج.ا",
-        "title_en": "After Midterm Failure, Trump's Foreign Strategy May Be Even More Dangerous",
-        "summary": [
-            "از دست دادن اکثریت کنگره، دست ترامپ را در سیاست داخلی بسته اما در سیاست خارجی همچنان حرف اول و آخر را می‌زند.",
-            "ترامپ برای تشدید فشارهای نظامی یا تحریم‌های اقتصادی علیه ج.ا نیازی به تایید کنگره ندارد.",
-            "احتمال دارد ترامپ برای جبران شکست‌های داخلی، رویکردی تهاجمی‌تر در قبال پرونده هسته‌ای و نیابتی‌ها در پیش بگیرد."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی یا تحریم‌های فلج‌کننده یک‌جانبه در ماه‌های پیش رو.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/midterm-failure-trump-foreign-strategy-160000020.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/midterm-failure-trump-foreign-strategy-160000020.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/10463b80cc0d2f7329ad70fe25b6c8b3da8b7d92d1612caf3389cb55f2c43e5c/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/oilprice.com/d9da716c4bdd59c183cbada55f83f9d7.jpg",
-        "timestamp": 1794239940.0
     }
 ]
