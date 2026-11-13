@@ -255,6 +255,24 @@
         "timestamp": 1794507888.0
     },
     {
+        "id": "b123e46761",
+        "title_fa": "چالش درون‌حزبی برای رهبری اکثریت سنا",
+        "title_en": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
+        "summary": [
+            "کریس ون هولن نامزدی خود را برای رقابت با چاک شومر اعلام کرد.",
+            "این اقدام نخستین چالش جدی برای جایگاه رهبری دموکرات‌ها در سنا است."
+        ],
+        "impact": "تغییر معادلات قدرت درون حزب دموکرات در کنگره آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "NBC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/sen-chris-van-hollen-says-he-will-challenge-sen-chuck-schumer-for-majority-leader/ar-AA2hkeqA",
+        "clean_url": "https://www.msn.com/en-us/news/other/sen-chris-van-hollen-says-he-will-challenge-sen-chuck-schumer-for-majority-leader/ar-AA2hkeqA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794506591.0
+    },
+    {
         "id": "5536bf0754",
         "title_fa": "گزارش وال‌استریت ژورنال: حملات سایبری ایران علیه اهداف فیزیکی",
         "title_en": "Iran’s new cyber playbook: create real-world havoc",
@@ -329,6 +347,24 @@
         "timestamp": 1794499320.0
     },
     {
+        "id": "c97617e034",
+        "title_fa": "تغییرات مدیریتی در بالاترین سطح انویدیا",
+        "title_en": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
+        "summary": [
+            "کولت کرس به عنوان مدیرعامل موقت انویدیا انتخاب شد.",
+            "او پیش‌تر نقش بازدارنده در برابر سرمایه‌گذاری‌های پرخطر مدیرعامل سابق داشت."
+        ],
+        "impact": "تغییر استراتژی مالی و مدیریت ریسک در غول تراشه‌سازی جهان.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/colette-kress-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo-2026-11-13/",
+        "clean_url": "https://www.reuters.com/business/colette-kress-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo-2026-11-13",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794499200.0
+    },
+    {
         "id": "e5f73210ef",
         "title_fa": "طرح ضربتی موساد: محاصره تنگه هرمز برای توقف اتمی",
         "title_en": "Barnea: Blockade in Strait of Hormuz best current option to stop nuclear weapons",
@@ -364,6 +400,42 @@
         "clean_url": "https://tass.com/economy/2217275",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1794496560.0
+    },
+    {
+        "id": "e8fa03f032",
+        "title_fa": "هدف‌گذاری مجدد ترامپ برای کار کوبا",
+        "title_en": "Trump: 'I want to get Cuba done' before leaving office",
+        "summary": [
+            "دونالد ترامپ در مصاحبه‌ای از تمایل خود برای تعیین تکلیف پرونده کوبا خبر داد.",
+            "پاسخ ترامپ به سوالی درباره مداخله نظامی، گمانه‌زنی‌ها درباره رویکرد سخت‌گیرانه واشنگتن را افزایش داده است."
+        ],
+        "impact": "افزایش فشار سیاسی بر هاوانا در ماه‌های پایانی دولت.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/12/trump-cuban-done-before-leaving-office-01163875",
+        "clean_url": "https://www.politico.com/news/2026/11/12/trump-cuban-done-before-leaving-office-01163875",
+        "image": "http://www.bing.com/th?id=ONUT.lCB7R5cLHQI2EU8WzvLjlQ&pid=News",
+        "timestamp": 1794496500.0
+    },
+    {
+        "id": "79e93c139e",
+        "title_fa": "بحران امنیتی انویدیا و سایه سنگین جنگ با ای-ران",
+        "title_en": "Spy scandal / Hegseth’s future / Are we still at war with Iran?",
+        "summary": [
+            "پرونده جاسوسی مرتبط با چین، غول فناوری انویدیا را درگیر بحران امنیت ملی کرده است.",
+            "شکست طرح استیضاح رئیس پنتاگون، ابهام‌ها درباره وضعیت تنش‌های نظامی با حکومت تهران را بیشتر کرده است."
+        ],
+        "impact": "ترکیب چالش‌های فناوری و امنیتی، فشار بر دولت آمریکا را افزایش داده است.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6037560/spy-scandal-hegseths-future-are-we-still-at-war-with-iran",
+        "clean_url": "https://www.npr.org/2026/11/12/nx-s1-6037560/spy-scandal-hegseths-future-are-we-still-at-war-with-iran",
+        "image": "http://www.bing.com/th?id=ONUT.N2wYim4Svz8biiEPCJSXhg&pid=News",
+        "timestamp": 1794496320.0
     },
     {
         "id": "0e9b983790",
@@ -421,6 +493,24 @@
         "clean_url": "https://www.foxnews.com/opinion/crossed-rubicon-iran-cant-stop-halfway",
         "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aedc2a3d-cca9-4992-a1e2-d74ca04b2205/16238bf7-6d4e-41ec-a618-dc1fd91de2be/1280x720/match/896/500/image.jpg?ve=1&tl=1",
         "timestamp": 1794491400.0
+    },
+    {
+        "id": "2d21446759",
+        "title_fa": "تعویق شهادت دادستان آمریکا در پرونده تخلفات",
+        "title_en": "US attorney’s testimony in ‘Broadview Six’ case delayed until December",
+        "summary": [
+            "دادگاه فدرال استماع شهادت دادستان آمریکا در پرونده جنجالی را به تعویق انداخت.",
+            "این پرونده به اتهام تخلفات دادستانی و پنهان‌کاری در سیستم قضایی مربوط می‌شود."
+        ],
+        "impact": "به تأخیر افتادن بررسی ابعاد تخلفات درون‌سیستمی نهادهای قضایی.",
+        "tag": "حقوقی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/11/12/us-attorney-testimony-broadview-six/",
+        "clean_url": "https://www.chicagotribune.com/2026/11/12/us-attorney-testimony-broadview-six",
+        "image": "http://www.bing.com/th?id=ONUT.9GmnH76rgS8agjozEGQ4ew&pid=News",
+        "timestamp": 1794490440.0
     },
     {
         "id": "b69f335872",
@@ -549,6 +639,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX043czl0NUxRdy16UVhfNGFsY19ZWGtZYTRjd2ZLdUtIbFFSMmNZQTF3bVVOQzRSSnY2TUYzTHRFTWpHZ0xCM3Vib0IzMlV1YXBTZkViNEdaOFpnSVJpU25ZWlI2ZTF6YkZQSlI3RFdnZGQzeWlTRlMzT2ktMFZJampQNG9BWE1maFlxVGVGRU03OXBCLUs5aWVUVzBILTctRnRLNElNX2oydXgxRldmZGFNeFY",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794482819.0
+    },
+    {
+        "id": "aeda009de8",
+        "title_fa": "فلج شدن خدمات ابری مایکروسافت در مقیاس جهانی",
+        "title_en": "Is Outlook down? Widespread outage hits Microsoft apps",
+        "summary": [
+            "قطعی گسترده سرویس‌های ابری مایکروسافت بیش از هفت ساعت ادامه داشت.",
+            "این اختلال شدید دسترسی به اوت‌لوک، تیمز و سایر ابزارهای حیاتی دولت‌ها و شرکت‌ها را متوقف کرد."
+        ],
+        "impact": "اختلال فلج‌کننده در ارتباطات روزمره میلیون‌ها کاربر و سازمان در سراسر جهان.",
+        "tag": "فناوری",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047",
+        "clean_url": "https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047",
+        "image": "http://www.bing.com/th?id=ONUT.ianLRjqCOYHVzIEsMo9-dw&pid=News",
+        "timestamp": 1794482700.0
     },
     {
         "id": "95da4a64ec",
@@ -5418,114 +5526,5 @@
         "clean_url": "https://www.iranintl.com/en/202611096528",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/b9b94cbc998d6d3d38145fb73f5fbb5003f14530-992x661.jpg?rect=0,71,992,521&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794238620.0
-    },
-    {
-        "id": "ccb79c1dc8",
-        "title_fa": "کارگروه جدید ترامپ برای بستن مسیر تسلیحاتی تهران",
-        "title_en": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-        "summary": [
-            "دونالد ترامپ مدعی است جمهوری اسلامی کاملاً در انزوا و محاصره قرار گرفته است.",
-            "واشنگتن کارگروه تازه‌ای را برای جلوگیری از ارسال تسلیحات به کار گرفته است."
-        ],
-        "impact": "تلاش‌های تازه آمریکا می‌تواند شریان‌های قاچاق سلاح برای نیروهای نیابتی را به شدت مسدود کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObG1jOWt3clR6VGlXVUI2YVV4T2ZGLTVEVjR4Q29tTjFXRC0yYkZMNTA2b240Qk1ITGlqNUhYMi1wOWNZMFBNU0MtVk9lUS1VZlI5eTZwODVjUnZ4SS1KVkNiRERrWkZsa0k0SHE2U1RIb3dpTkdNNmM0N0s5cmN6VEh3V1BBUk1TZ0JEalp3cHpDN1JQekFLQmdoWUlCbEJzdVNsSjdRRTJuVERISGh3dnlaenZlblVvRXlIdXA1b2PSAcYBQVVfeXFMTkNXTUJPYkx5bGtFVVJJOFBtSlJoRGJOWEFPNlQ2dUMwdXJ1MVExNkkxMjd2aDI0d1hLTnJlRnNsZTlucVVhZW1jc0dtNi10c0o3LWw0SmJkTFhVTElaVmVhZGhCakoxQmhlMlBtZks2dmd2V2FpZjNUcE5GdHRob0xablpZQ2dEbXBKa1h4ZTFkSUpXS25uTGd2WENVMTBycGxZajBmMkxjNFRBalpHSHRRYVc4NnlCUlBuNVptY0JYSTB4UFdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObG1jOWt3clR6VGlXVUI2YVV4T2ZGLTVEVjR4Q29tTjFXRC0yYkZMNTA2b240Qk1ITGlqNUhYMi1wOWNZMFBNU0MtVk9lUS1VZlI5eTZwODVjUnZ4SS1KVkNiRERrWkZsa0k0SHE2U1RIb3dpTkdNNmM0N0s5cmN6VEh3V1BBUk1TZ0JEalp3cHpDN1JQekFLQmdoWUlCbEJzdVNsSjdRRTJuVERISGh3dnlaenZlblVvRXlIdXA1b2PSAcYBQVVfeXFMTkNXTUJPYkx5bGtFVVJJOFBtSlJoRGJOWEFPNlQ2dUMwdXJ1MVExNkkxMjd2aDI0d1hLTnJlRnNsZTlucVVhZW1jc0dtNi10c0o3LWw0SmJkTFhVTElaVmVhZGhCakoxQmhlMlBtZks2dmd2V2FpZjNUcE5GdHRob0xablpZQ2dEbXBKa1h4ZTFkSUpXS25uTGd2WENVMTBycGxZajBmMkxjNFRBalpHSHRRYVc4NnlCUlBuNVptY0JYSTB4UFdB",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794238506.0
-    },
-    {
-        "id": "cb7a296c18",
-        "title_fa": "مخالفت بانک مرکزی روسیه با کاهش شتاب‌زده نرخ بهره",
-        "title_en": "Plans to lower key rate and rising prices: statements by Nabiullina",
-        "summary": [
-            "رئیس بانک مرکزی روسیه در دومای دولتی تاکید کرد که کاهش شتاب‌زده نرخ بهره به اقتصاد ضربه می‌زند.",
-            "گرانی بی‌رویه کالاها به عنوان ناعادلانه‌ترین مالیات ممکن بر دوش اقشار جامعه سنگینی می‌کند.",
-            "هیچ نشانه‌ای دال بر سرد شدن بیش از حد اقتصاد روسیه دیده نمی‌شود."
-        ],
-        "impact": "تداوم سیاست‌های انقباضی پولی برای کنترل تورم لجام‌گسیخته در اقتصاد روسیه.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2214989",
-        "clean_url": "https://tass.com/economy/2214989",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261109/1492449.jpg",
-        "timestamp": 1794237840.0
-    },
-    {
-        "id": "5f1152d880",
-        "title_fa": "هدف‌گیری آرامکو؛ افزایش ناامنی در تاسیسات حیاتی منطقه",
-        "title_en": "Saudi Arabia intercepts missiles, Aramco building in Riyadh damaged, other news",
-        "summary": [
-            "سامانه‌های دفاعی عربستان چند فروند موشک را در آسمان ریاض رهگیری کردند.",
-            "سقوط ترکش‌ها به ساختمانی متعلق به شرکت نفت آرامکو خسارت وارد کرد."
-        ],
-        "impact": "بال رفتن ریسک امنیت انرژی و شوک احتمالی به بازارهای جهانی نفت",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "KRCG",
-        "url": "https://krcgtv.com/news/nation-world/saudi-arabia-intercepts-missiles-aramco-building-in-riyadh-damaged-other-news",
-        "clean_url": "https://krcgtv.com/news/nation-world/saudi-arabia-intercepts-missiles-aramco-building-in-riyadh-damaged-other-news",
-        "image": "https://krcgtv.com/resources/media2/16x9/1281/1320/0x63/90/95e9405e-8822-45c8-b080-23cc570e9df7-Screenshot20261109152201.png",
-        "timestamp": 1794237780.0
-    },
-    {
-        "id": "e43fb112d7",
-        "title_fa": "دستور تغییر مسیر از سوی بیت رهبری برای پایان تنش با آمریکا",
-        "title_en": "US-Iran war live: Pezeshkian says Khamenei has issued directives to end standoff with Washington",
-        "summary": [
-            "مسعود پزشکیان اعلام کرد دستورات لازم برای عبور از وضعیت بلاتکلیف نه جنگ و نه صلح صادر شده است.",
-            "این موضع‌گیری در پی چراغ سبز دونالد ترامپ برای حل‌وفصل دیپلماتیک پرونده ایران مطرح شده است."
-        ],
-        "impact": "آغاز احتمالی کانال‌های پشت‌پرده برای تغییر دکترین تنش‌آفرینی جمهوری اسلامی.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": 0.3,
-        "source": "Hindustan Times",
-        "url": "https://www.msn.com/en-in/news/world/us-iran-war-live-pezeshkian-says-khamenei-has-issued-directives-to-end-standoff-with-washington/ar-AA2h1jU0",
-        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-live-pezeshkian-says-khamenei-has-issued-directives-to-end-standoff-with-washington/ar-AA2h1jU0",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h4j7e.img?w=549&h=309&m=4&q=87",
-        "timestamp": 1794237028.0
-    },
-    {
-        "id": "c485c442cb",
-        "title_fa": "ترامپ: اقدام نظامی علیه جـ.هـ.وری اسلامی فعلاً روی میز نیست",
-        "title_en": "Trump says military action against Iran not necessary 'at this point'",
-        "summary": [
-            "موضوع مهار اتمی ایران خط قرمز غیرقابل مذاکره برای واشنگتن است.",
-            "فشار حداکثری بدون درگیری نظامی مستقیم همچنان رویکرد اصلی ایالات متحده محسوب می‌شود."
-        ],
-        "impact": "کاهش آنی هیجان کاذب در بازارهای مالی و ارزی با دور شدن سایه جنگ فوری",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW707209112026RP1/",
-        "clean_url": "https://www.reuters.com/video/watch/idRW707209112026RP1",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794236220.0
-    },
-    {
-        "id": "b34541ea28",
-        "title_fa": "رایزنی ترامپ با قطر برای مدیریت درگیری با تهران از موقعیت برتر",
-        "title_en": "Trump meets Qatar’s prime minister as White House weighs next steps for Iran conflict",
-        "summary": [
-            "دونالد ترامپ در کاخ سفید میزبان نخست‌وزیر قطر بود تا راهکارهای دیپلماتیک برای پایان دادن به درگیری با ایران را بررسی کند؛ همزمان وزیر دفاع آمریکا تاکید دارد که ایران در ضعیف‌ترین وضعیت چند دهه اخیر خود قرار گرفته است.",
-            "با وجود خط‌ونشان‌های لفظی وزیر خارجه ایران، واشنگتن تشدید اقدامات نظامی را دور از ذهن می‌داند و قصد دارد اهداف خود را از طریق فشار حداکثری و چانه‌زنی روی میز مذاکره پیش ببرد."
-        ],
-        "impact": "تغییر فاز واشنگتن از تهدید مستقیم به دیپلماسی فعال با میانجی‌گری دوحه، ریسک تنش آنی نظامی را کاهش داده و بازارها را در حالت انتظار قرار می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "WLUK-TV FOX 11",
-        "url": "https://fox11online.com/news/nation-world/trump-meets-qatars-prime-minister-as-white-house-weighs-next-steps-for-iran-conflict-marco-rubio",
-        "clean_url": "https://fox11online.com/news/nation-world/trump-meets-qatars-prime-minister-as-white-house-weighs-next-steps-for-iran-conflict-marco-rubio",
-        "image": "https://fox11online.com/resources/media2/16x9/7784/1320/0x407/90/4d03c346-7d16-4dcb-93e1-3f1349ee882e-GettyImages2304343966.jpg",
-        "timestamp": 1794235920.0
     }
 ]
