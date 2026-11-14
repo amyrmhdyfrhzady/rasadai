@@ -1,5 +1,23 @@
 [
     {
+        "id": "60c89f3682",
+        "title_fa": "دفاع مارکو روبیو از جنگ با جـ.ـمهوری اسـ.ـلامی",
+        "title_en": "Marco Rubio defends Donald Trump's Iran war as 'necessary' after midterm losses",
+        "summary": [
+            "مارکو روبیو به عنوان وزیر خارجه آمریکا تصمیم دونالد ترامپ برای ورود به درگیری نظامی با تهران را کاملاً ضروری خواند.",
+            "این موضع‌گیری در حالی مطرح شده که جمهوری‌خواهان در انتخابات میان‌دوره‌ای کنگره شکست خورده‌اند."
+        ],
+        "impact": "عزم جدی دولت ترامپ برای ادامه فشار نظامی علیه تهران باوجود هزینه‌های سیاسی داخلی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "International Business Times UK",
+        "url": "https://www.msn.com/en-gb/news/other/marco-rubio-defends-donald-trumps-iran-war-as-necessary-after-midterm-losses/ar-AA2hqDSs",
+        "clean_url": "https://www.msn.com/en-gb/news/other/marco-rubio-defends-donald-trumps-iran-war-as-necessary-after-midterm-losses/ar-AA2hqDSs",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hqySU.img?w=1200&h=800&m=4&q=74",
+        "timestamp": 1794660026.0
+    },
+    {
         "id": "70e315787a",
         "title_fa": "ارزیابی جامع بریتانیکا از ساختار، نفوذ و تحریم‌های سـپاه پاسداران",
         "title_en": "Islamic Revolutionary Guard Corps (IRGC) | History, Growth, Foundation, Leadership, & Sanctions",
@@ -5507,23 +5525,5 @@
         "clean_url": "https://www.foxnews.com/us/irgc-operative-lands-fbis-most-wanted-terrorists-list-alleged-plot-kill-former-trump-adviser",
         "image": "http://www.bing.com/th?id=ONUT.Vxj2vtaHY-myze-VKeju7w&pid=News",
         "timestamp": 1794329880.0
-    },
-    {
-        "id": "ea944b3e24",
-        "title_fa": "آسیب دیدن سه نفتکش در خلیج فارس",
-        "title_en": "Three Tankers Damaged in Gulf as US-Iran Conflict Escalates",
-        "summary": [
-            "تنش میان آمریکا و ج.ا در آب‌های خلیج فارس وارد فاز عملیاتی شد.",
-            "امنیت خطوط کشتیرانی و انرژی در منطقه به شدت به خطر افتاده است."
-        ],
-        "impact": "افزایش ریسک بیمه نفتکش‌ها و صعودی شدن قیمت انرژی در بازارهای جهانی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794328769.0
     }
 ]
