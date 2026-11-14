@@ -54,6 +54,24 @@
         "timestamp": 1794610920.0
     },
     {
+        "id": "9b17ad0405",
+        "title_fa": "واشنگتن پست ادعای ترامپ درباره تلفات درگیری ایران را نادرست خواند",
+        "title_en": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
+        "summary": [
+            "به گزارش روزنامه واشنگتن پست، دونالد ترامپ مدعی شده است که در پنج ماه گذشته هیچ فردی در جنگ ایران کشته نشده است.",
+            "این رسانه آمریکایی اظهارات ترامپ را ادعایی نادرست توصیف کرده، اما در متن کوتاه ارائه‌شده جزئیات بیشتری درباره آمارها یا رویدادهای مشخص ارائه نشده است."
+        ],
+        "impact": "انتشار این گزارش از سوی واشنگتن پست می‌تواند بحث‌های سیاسی و رسانه‌ای پیرامون دقت اظهارات دونالد ترامپ درباره وضعیت درگیری با ایران را تشدید کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQS1tR2VKQnFreElVRlU3T2piQUNEQmRZTER3ZV9yZlFNc2VpUlphUDNRdVJGemtZaWwtdlp5WWRLeFNyaVZsSEppQVVvM09hcTBCMXFtOWlmU0VFeUpfc0hBbGpzTmo5dGJwWmZKLXBIaUVMRmo3M0ZDNnhRUENnREVZUXpFRjJMZ09DRUc4dmplU0lUWGd0dUplUTk1YWZpVEZHXzdrMFVSNW1CMmR3X2pCQV9pRGhyNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQS1tR2VKQnFreElVRlU3T2piQUNEQmRZTER3ZV9yZlFNc2VpUlphUDNRdVJGemtZaWwtdlp5WWRLeFNyaVZsSEppQVVvM09hcTBCMXFtOWlmU0VFeUpfc0hBbGpzTmo5dGJwWmZKLXBIaUVMRmo3M0ZDNnhRUENnREVZUXpFRjJMZ09DRUc4dmplU0lUWGd0dUplUTk1YWZpVEZHXzdrMFVSNW1CMmR3X2pCQV9pRGhyNkE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794610800.0
+    },
+    {
         "id": "135d684915",
         "title_fa": "بایدن: نتانیاهو بارها درباره کاهش تلفات غیرنظامی دروغ گفت",
         "title_en": "In new memoir, Biden says Netanyahu made repeated empty promises to reduce civilian harm in Gaza",
@@ -5508,24 +5526,5 @@
         "clean_url": "https://tass.com/economy/2215403",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1794305160.0
-    },
-    {
-        "id": "c6eb8feef5",
-        "title_fa": "ترامپ: کار نظامی با ج.ا تمام است، فعلاً نیازی به حمله نیست",
-        "title_en": "Trump signals new Iran strikes are unnecessary after Qatar meeting",
-        "summary": [
-            "ترامپ با اعلام پایان توان نظامی ج.ا، استراتژی خود را از تقابل مستقیم به حفظ وضع موجود تغییر داده است.",
-            "فشار همسایگان و پیامدهای اقتصادی جنگ بر انتخابات آمریکا، عامل اصلی عقب‌نشینی واشنگتن از درگیری نظامی است.",
-            "با وجود چراغ سبز به دیپلماسی، ارتش آمریکا همچنان در حالت آماده‌باش کامل باقی مانده است."
-        ],
-        "impact": "کاهش تنش‌های نظامی مستقیم در کوتاه‌مدت و تمرکز بر فشارهای دیپلماتیک با میانجی‌گری قطر.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Print",
-        "url": "https://theprint.in/world/trump-signals-new-iran-strikes-are-unnecessary-after-qatar-meeting/3095029/",
-        "clean_url": "https://theprint.in/world/trump-signals-new-iran-strikes-are-unnecessary-after-qatar-meeting/3095029",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Donald-Trump.jpg",
-        "timestamp": 1794304080.0
     }
 ]
