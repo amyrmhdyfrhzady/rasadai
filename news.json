@@ -458,6 +458,25 @@
         "timestamp": 1794578104.0
     },
     {
+        "id": "dee891d5c4",
+        "title_fa": "پلن تهران برای اخلال در کریدورهای انرژی و ترانزیت قفقاز",
+        "title_en": "Why Iran hasn’t given up on the Caucasus",
+        "summary": [
+            "ضعف فعلی اقتصادی و نظامی، توان درگیری مستقیم را از ج.ا.ا گرفته اما تمرکز بر خرابکاری در مسیرهای ترانزیتی شمال غرب همچنان باقی است.",
+            "هدف کلیدی، جلوگیرى از شکل‌گیری مسیرهای ترانزیتی وابسته به غرب و تهدید مداوم خط لوله نفت باکو-تفلیس-جیحان است.",
+            "تغییر ژئوپلیتیک قفقاز و مسدود شدن مرزهای سنتی، شریان‌های ارزی و ترانزیتی ایران را بیش از پیش تحت فشار می‌گذارد."
+        ],
+        "impact": "تلاش برای ایجاد اختلال در مسیرهای انرژی قفقاز، خطر تصاعد تنش میان تهران و باکو را بالا می‌برد.",
+        "tag": "قفقاز",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The National Interest on MSN",
+        "url": "https://www.msn.com/en-us/news/other/why-iran-hasn-t-given-up-on-the-caucasus/ar-AA2hoto7",
+        "clean_url": "https://www.msn.com/en-us/news/other/why-iran-hasn-t-given-up-on-the-caucasus/ar-AA2hoto7",
+        "image": "http://www.bing.com/th?id=ONUT.cWZUz1fv8lQ57JZaY84Cew&pid=News",
+        "timestamp": 1794576960.0
+    },
+    {
         "id": "13e7c400c8",
         "title_fa": "فشار حداکثری ترامپ و بن‌بست اتمی ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی",
         "title_en": "Iran urges gas savings as repairs continue at damaged South Pars platform",
@@ -5508,23 +5527,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk9OX194dlU4RDNVOWNKU0tNME9BVThqb09FME14bDBYM29rdjN4V0RDZXl5aFhTZWhzZ3M0S3pQTUU3RGZULW9jY0Voa1JhbW5rQTJRRDg3dzJidzI5NkZDUVgwNktsanhNOE1NZjFGbTRwby00eTgyZXB2VkVZbzc2b0Q4UXowNnNBSGVQWnA0ZldOOUcwSWhWSF9qZHVxZWY0Wmk5OXl5WnpLOXBkSVF3",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794307961.0
-    },
-    {
-        "id": "04b8ef3837",
-        "title_fa": "ریزش نفت برنت زیر ۹۰ دلار با فروکش کردن تنش‌ها",
-        "title_en": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
-        "summary": [
-            "بهای نفت برنت برای نخستین بار از ماه اوت به زیر ۹۰ دلار سقوط کرد.",
-            "امیدواری بازار به کاهش تنش‌ها و دور شدن سایه جنگ از خاورمیانه عامل اصلی این افت قیمت است."
-        ],
-        "impact": "کاهش درآمدهای نفتی ج.ه.ا همزمان با فروکش کردن هیجان جنگی در بازارهای جهانی.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y2hNRTN0UVJqLWY0eVd0dWp2T3RWWC1UTXRXUUNnem9BY09QT3FfdUxDdktQX2ZVd195a3Bpd3NGV3ZmQU05Mk9uUllGZlRmYnR5NXVycGJQMmVnSnc3cVpVNGhzRmN6dlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y2hNRTN0UVJqLWY0eVd0dWp2T3RWWC1UTXRXUUNnem9BY09QT3FfdUxDdktQX2ZVd195a3Bpd3NGV3ZmQU05Mk9uUllGZlRmYnR5NXVycGJQMmVnSnc3cVpVNGhzRmN6dlE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794307129.0
     }
 ]
