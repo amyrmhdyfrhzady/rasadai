@@ -678,6 +678,24 @@
         "timestamp": 1794574842.0
     },
     {
+        "id": "73172663ed",
+        "title_fa": "نگرانی فزاینده آژانس بین‌المللی انرژی اتمی درباره سایت اصفهان",
+        "title_en": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
+        "summary": [
+            "بر اساس گزارش رویترز، آژانس بین‌المللی انرژی اتمی در گزارشی اعلام کرده است که نسبت به یک تأسیسات غنی‌سازی اورانیوم در اصفهان «به‌طور فزاینده‌ای نگران» است.",
+            "این نهاد ناظر هسته‌ای سازمان ملل تصریح کرده که ایران سال گذشته وجود این مرکز را اعلام کرد، اما تاکنون اجازه بازرسی از آن را نداده است."
+        ],
+        "impact": "مطابق گزارش آژانس به نقل از رویترز، بازرسی‌نشدن تأسیسات اعلام‌شده در اصفهان سطح نگرانی‌های نظارتی نهاد هسته‌ای سازمان ملل را افزایش داده است.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/other/iaea-increasingly-concerned-about-iranian-enrichment-plant-its-report-says/ar-AA2hmFCv",
+        "clean_url": "https://www.msn.com/en-us/news/other/iaea-increasingly-concerned-about-iranian-enrichment-plant-its-report-says/ar-AA2hmFCv",
+        "image": "https://www.reuters.com/resizer/v2/R5DVSJRQUFO4TFTX46COZ5VBUE.jpg?auth=5dd1be750e3bb4ec42d67f163ee4f0086f434a29a6e7408c27d5e5d465cb2c2e&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1794574030.0
+    },
+    {
         "id": "0e46f5a64e",
         "title_fa": "پنهان‌کاری پزشکیان درباره نقش حکومت در نابودی محیط‌زیست",
         "title_en": "What Iran’s President Left Out Of His COP31 Climate Speech",
@@ -5508,23 +5526,5 @@
         "clean_url": "https://www.iranintl.com/en/202611103150",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/29aa77be8f06538b51a840855802c9189d80329b-4640x3178.jpg?rect=0,371,4640,2436&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794316380.0
-    },
-    {
-        "id": "c024904363",
-        "title_fa": "باج‌خواهی ترامپ از اسرائیل و کشورهای خلیج فارس",
-        "title_en": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-        "summary": [
-            "دونالد ترامپ در موضعی آشکار اعلام کرده که اسرائیل و متحدان عربی منطقه باید هزینه درگیری‌های احتمالی با جـمـهـوری اسـلامـی را پرداخت کنند.",
-            "این رویکرد نشان می‌دهد سیاست واشنگتن در قبال تهران بر مبنای کاهش هزینه‌های مالی آمریکا و تحمیل بار مالی جنگ به متحدان منطقه‌ای بنا شده است."
-        ],
-        "impact": "افزایش فشارهای مالی و سیاسی آمریکا بر متحدان منطقه‌ای برای مشارکت در هزینه‌های مهار تهران.",
-        "tag": "سیاست خارجی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXlwbjdrUEdjam1KLW5ZU2lnaTNqdW50aWtBTkVhclZhUWpQYkpmRnlZQkZ3T0pxcUN3cnItTVBoeXNmOFMtVXFaSVBtcjZtTDZVSTZBaWR3MDltUlFpRFJqMTNRMmdQQWotVExsOW9qY01sWk1nYjZfbUlTeHgzb2pxNXV6ZkxYMnlsb1NSUUV5Q0o0Z3NfSXVUWUU3YUNBdHEtRnpvU0x3QnQtMl9QcHdMbzTSAboBQVVfeXFMTVJvNG0zczc4NEIxQndKRHZiRDFhazBsUUFWRWlMM21DR216MXN2SUc4UzhIWDBhbWZRQ1JwYnRWWnlHOGxTS01zckpyNGNzU0J2NV9JYzZ1M2hZalRSd04wX1NyZi1qRWRPdTZXdWh5UmhHU19kOGRibE9idWNsRTBIT2s1a3N4RHVfTlhiSVQ0UnQtMF9DcnMtSGpkQmd3TVE1UFhzTDhjazdUMkRlNlZWbVBIWHVEd2FB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXlwbjdrUEdjam1KLW5ZU2lnaTNqdW50aWtBTkVhclZhUWpQYkpmRnlZQkZ3T0pxcUN3cnItTVBoeXNmOFMtVXFaSVBtcjZtTDZVSTZBaWR3MDltUlFpRFJqMTNRMmdQQWotVExsOW9qY01sWk1nYjZfbUlTeHgzb2pxNXV6ZkxYMnlsb1NSUUV5Q0o0Z3NfSXVUWUU3YUNBdHEtRnpvU0x3QnQtMl9QcHdMbzTSAboBQVVfeXFMTVJvNG0zczc4NEIxQndKRHZiRDFhazBsUUFWRWlMM21DR216MXN2SUc4UzhIWDBhbWZRQ1JwYnRWWnlHOGxTS01zckpyNGNzU0J2NV9JYzZ1M2hZalRSd04wX1NyZi1qRWRPdTZXdWh5UmhHU19kOGRibE9idWNsRTBIT2s1a3N4RHVfTlhiSVQ0UnQtMF9DcnMtSGpkQmd3TVE1UFhzTDhjazdUMkRlNlZWbVBIWHVEd2FB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794312935.0
     }
 ]
