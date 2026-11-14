@@ -400,6 +400,24 @@
         "timestamp": 1794639906.0
     },
     {
+        "id": "6ded9cc0f8",
+        "title_fa": "سیگنال ترامپ برای کاهش تنش با تهران",
+        "title_en": "Trump just handed the world a giant clue the Iran war is winding down by telling advisers he may not order new strikes",
+        "summary": [
+            "دونالد ترامپ به مشاوران خود گفته تا زمانی که تهران یا نیروهای نیابتی‌اش حمله جدیدی نکنند، از دستور حملات نظامی تازه خودداری می‌کند.",
+            "فشار همپیمانان منطقه‌ای مانند عربستان و ترکیه برای خویشتن‌داری، نقش مهمی در تغییر این محاسبات داشته است."
+        ],
+        "impact": "کاهش احتمال درگیری نظامی مستقیم در کوتاه مدت و افت هیجان کاذب در بازارهای مالی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-just-handed-the-world-a-giant-clue-the-iran-war-is-winding-down-by-telling-advisers-he-may-not-order-new-strikes/ar-AA2hqYFY",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-just-handed-the-world-a-giant-clue-the-iran-war-is-winding-down-by-telling-advisers-he-may-not-order-new-strikes/ar-AA2hqYFY",
+        "image": "http://www.bing.com/th?id=ONUT.A6AVeDNanNKcKh2S4N10kA&pid=News",
+        "timestamp": 1794636389.0
+    },
+    {
         "id": "89dd76d559",
         "title_fa": "دور زدن تحریم‌ها با قاچاق و مخلوط کردن نفت عراق در ایران",
         "title_en": "Iraqi oil blended in Iran, relabeled to dodge sanctions, report says",
@@ -5506,23 +5524,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-hegseth-survives-impeachment-bid-iran-denies-talks-with-washington-crude-oil-prices-decline-top-developments/ar-AA2hbHo6",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794335740.0
-    },
-    {
-        "id": "fe65b16c68",
-        "title_fa": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی از ترس تهران",
-        "title_en": "US Iran War Live Updates: US treasury chief Scott Bessent flees home, moves to military base over Iran threats",
-        "summary": [
-            "اسکات بسنت به دلیل تهدیدهای امنیتی منسوب به حکومت، خانه خود را ترک کرده و در یک پایگاه نظامی مستقر شده است.",
-            "این مقام ارشد اقتصادی نقش کلیدی در اجرای سیاست فشار حداکثری و تحریم‌های فلج‌کننده علیه تهران دارد."
-        ],
-        "impact": "بالارفتن شدید سطح حفاظتی از مقام‌های اقتصادی آمریکا در سایه تنش‌های نظامی.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-marco-rubio-khamenei-irgc-warning-strait-of-hormuz-saudi-houthi-tensions-latest-news/liveblog/135718698.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-marco-rubio-khamenei-irgc-warning-strait-of-hormuz-saudi-houthi-tensions-latest-news/liveblog/135718698.cms",
-        "image": "http://www.bing.com/th?id=ONUT.dvKgaqqiclxf_c40019kRQ&pid=News",
-        "timestamp": 1794333780.0
     }
 ]
