@@ -599,6 +599,25 @@
         "timestamp": 1794592800.0
     },
     {
+        "id": "0317987271",
+        "title_fa": "قمار ترامپ روی فروپاشی از درون بدون توافق",
+        "title_en": "Tehran's biggest fear just came true: Donald Trump is betting Iranians will overthrow the regime before he has to make a deal",
+        "summary": [
+            "دولت ترامپ میز مذاکره با ج.ه را کاملاً جمع کرده و هیچ نیازی به توافق جدید نمی‌بیند.",
+            "فشار حداکثری اقتصادی و تحریم‌های نفتی با هدف زمین‌گیر کردن مالی حکومت تا پایان سال میلادی شدت گرفته است.",
+            "نبود بازرسان آتمی در خاک ایران، نگرانی‌ها درباره وضعیت واقعی ذخایر اورانیوم غنی‌شده را به اوج رسانده است."
+        ],
+        "impact": "قطع کامل مسیرهای دیپلماتیک و تشدید فشار اقتصادی برای تسریع اعتراضات مردمی علیه حکومت.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "National Security Journal",
+        "url": "https://www.msn.com/en-us/news/other/tehran-s-biggest-fear-just-came-true-donald-trump-is-betting-iranians-will-overthrow-the-regime-before-he-has-to-make-a-deal/ar-AA2hohxC",
+        "clean_url": "https://www.msn.com/en-us/news/other/tehran-s-biggest-fear-just-came-true-donald-trump-is-betting-iranians-will-overthrow-the-regime-before-he-has-to-make-a-deal/ar-AA2hohxC",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794591894.0
+    },
+    {
         "id": "599abfb3d1",
         "title_fa": "تحریک جدید ج.ا در بحرین؛ سطح تنش‌ها بالا رفت",
         "title_en": "Iran Escalates Low-Level Conflict With a Shot at Bahrain",
@@ -5509,23 +5528,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/defiant-hegseth-blasts-impeachment-farce-ahead-of-us-house-vote/ar-AA2haHHY",
         "image": "http://www.bing.com/th?id=ONUT.nobVoNw05cgIht2kwDVh0g&pid=News",
         "timestamp": 1794323363.0
-    },
-    {
-        "id": "f3c7f595e0",
-        "title_fa": "جنجال نفوذ اطلاعاتی چین در انویدیا و غول‌های فناوری آمریکا",
-        "title_en": "China’s spies have long been rampant in Silicon Valley",
-        "summary": [
-            "افشای ارتباط مدیرعامل انویدیا با یکی از عناصر مشکوک به جاسوسی برای پکن، پرده از نفوذ عمیق سرویس‌های اطلاعاتی چین در سیلیکون‌ولی برداشت.",
-            "نهادهای امنیتی آمریکا نگران دسترسی غیرمستقیم پکن به تراشه‌های پیشرفته و زیرساخت‌های هوش مصنوعی هستند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه نظارت‌های امنیتی واشنگتن بر شرکت‌های فناوری و تشدید جنگ سایبری با چین.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/11/10/chinas-spies-have-long-been-rampant-silicon-valley/",
-        "clean_url": "https://www.washingtonpost.com/national-security/2026/11/10/chinas-spies-have-long-been-rampant-silicon-valley",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794323280.0
     }
 ]
