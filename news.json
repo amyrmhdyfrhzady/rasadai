@@ -1,5 +1,23 @@
 [
     {
+        "id": "4e695c0922",
+        "title_fa": "محکومیت مهندس آمریکایی به جرم دور زدن تحریم‌های جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
+        "title_en": "Waialua engineer sentenced for evading Iran sanctions",
+        "summary": [
+            "دادگاهی در آمریکا یک مهندس ساکن هونولول را به دلیل نقض تحریم‌های مالی و انتقال غیرقانونی فناوری به ایـ.ـران محکوم کرد.",
+            "دستگاه قضایی آمریکا با این احکام سخت‌گیرانه نشان داد که شبکه لابی‌گری و دورزنندگان تحریم‌ها را زیر ذره‌بین دارد."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره مالی و امنیتی بر سر راه عوامل و دلالان وابسته به حـ.ـکـ.ـو‌مـ.ـت.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Honolulu Star-Advertiser",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjNmTU1JX0ZHdlZSODRybWpGRmFqU01qcVNCV1F4bzlFNndZWDYyNld3YlZUYWY2OXdsMGF2U3Nsbm9sY0NvOUkwRURhajZhQlprWFp4VnQzOEJ2a002cUZrZDFGQkozS0VLek5WNlM5UDFLblc4WjNNRVlRMEpicXdhZTVYOGk4d01PM1lrSkE3Wmo1eFQ1V3JfRG1JLUNuYjhOeUFuZThBY3E1?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjNmTU1JX0ZHdlZSODRybWpGRmFqU01qcVNCV1F4bzlFNndZWDYyNld3YlZUYWY2OXdsMGF2U3Nsbm9sY0NvOUkwRURhajZhQlprWFp4VnQzOEJ2a002cUZrZDFGQkozS0VLek5WNlM5UDFLblc4WjNNRVlRMEpicXdhZTVYOGk4d01PM1lrSkE3Wmo1eFQ1V3JfRG1JLUNuYjhOeUFuZThBY3E1",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794626805.0
+    },
+    {
         "id": "c306b285c8",
         "title_fa": "سقوط تاریخی تولید نفت ایران به زیر میزان مصرف داخلی",
         "title_en": "Iran's oil output plunges below pre-war domestic needs",
@@ -5510,23 +5528,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSkhUdGRWdWlvc3g1V0dEMm9LdDlhM0dlQ21jS0Z0NGhrRWxpVzg4Z2JaWXdFX2lNeU1DMERBbUtCWEtVLVFKMjJLclBxYklXZXBLdzUzN3V6V0pET1NuRTRaOVUzZmJzSFRYLV9MVEFUX1IzN0dIWFozX0FIbEdBaUY4SkJEVTdSTExGUkp5Z2U1VTVjbFFYWjh3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794309363.0
-    },
-    {
-        "id": "25a69f627c",
-        "title_fa": "حمایت دوما از نمایندگان اروپایی منتقد اوکراین",
-        "title_en": "State Duma pay homage to group of MEPs for protesting against torture in Ukraine",
-        "summary": [
-            "مقام ارشد پارلمان روسیه از مواضع نمایندگان اروپایی در اعتراض به وضعیت بازداشتگاه‌ها در اوکراین تجلیل کرد.",
-            "مسکو سیاست‌های کی‌یف را شدیداً زیر سوال برد و اتحادیه اروپا را به سکوت در برابر این اقدامات متهم ساخت."
-        ],
-        "impact": "تشدید جنگ تبلیغاتی مسکو علیه کی‌یف و حامیان غربی‌اش در بحران جاری.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2215753",
-        "clean_url": "https://tass.com/politics/2215753",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1794308400.0
     }
 ]
