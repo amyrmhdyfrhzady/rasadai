@@ -1,5 +1,25 @@
 [
     {
+        "id": "099e571c92",
+        "title_fa": "ادعای اصابت به رادار آمریکا در بحرین همزمان با تکذیب واشنگتن",
+        "title_en": "Iran Says It Hit a U.S. Radar in Bahrain as Washington Reports Both Drones Downed",
+        "summary": [
+            "سپاه پاسداران مدعی شد یک رادار هشدار سریع آمریکا در بحرین را هدف قرار داده است.",
+            "سنتکام این ادعا را رد کرد و از سرنگونی هر دو پهپاد مهاجم بدون خسارت خبر داد.",
+            "این درگیری پس از آن رخ داد که ترامپ اعلام کرد نیازی به توافق با تهران ندارد.",
+            "تنش‌ها در خلیج فارس پس از حمله به تاسیسات مخابراتی در سیریک به شدت بالا گرفته است."
+        ],
+        "impact": "افزایش شدید ریسک نظامی در خلیج فارس و احتمال درگیری‌های مستقیم در آبراه استراتژیک هرمز.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "southshorepress",
+        "url": "https://www.southshorepress.com/world/iran-says-it-hit-a-u-s-radar-in-bahrain-as-washington-reports-both-drones-downed-977c7e63",
+        "clean_url": "https://www.southshorepress.com/world/iran-says-it-hit-a-u-s-radar-in-bahrain-as-washington-reports-both-drones-downed-977c7e63",
+        "image": "https://pfjuqfybqkepyuuwwnnb.supabase.co/storage/v1/object/public/newspaper-images/6ffdfa13-0b9d-47d4-82a5-b7be58a858fb.jpg",
+        "timestamp": 1794667920.0
+    },
+    {
         "id": "89f6660fda",
         "title_fa": "نگاه تهران به تغییر رویکرد واشنگتن پس از تحولات جی دی ونس",
         "title_en": "How does Iran view shift in US approach after JD Vance ordered away?",
@@ -5506,23 +5526,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-backs-nuclear-treaty-even-173507838.html",
         "image": "https://media.zenfs.com/en/al_jazeera_289/da0e7efafab2151886f95498874702df.jpg",
         "timestamp": 1794332095.0
-    },
-    {
-        "id": "4f9a7a7404",
-        "title_fa": "دور زدن تحریم‌ها با قاچاق نفت عراق",
-        "title_en": "Smuggled Iraqi oil refined in Iran, sold abroad to evade US sanctions",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد نفت عراق در ج.ا پالایش و برای دور زدن تحریم‌ها صادر می‌شود.",
-            "درآمد این تاراج نفتی به جای سفره مردم، صرف هزینه‌های بقای حاکمیت می‌شود."
-        ],
-        "impact": "تداوم تنفس مصنوعی اقتصادی به ج.ا از طریق شبکه قاچاق منطقه‌ای.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611100940",
-        "clean_url": "https://www.iranintl.com/en/202611100940",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794331980.0
     }
 ]
