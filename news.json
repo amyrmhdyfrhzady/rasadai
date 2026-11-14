@@ -417,6 +417,24 @@
         "timestamp": 1794618786.0
     },
     {
+        "id": "b80b17633a",
+        "title_fa": "شرط‌گذاری تهران برای واشنگتن؛ پایان تحریم‌ها پیش از دیپلماسی",
+        "title_en": "US expected to end aggression, blockade if committed to diplomacy: Iran",
+        "summary": [
+            "نمایندگی ایران در سازمان ملل بار دیگر توپ را به زمین آمریکا انداخت و توافق را منوط به لغو کامل تحریم‌ها کرد.",
+            "این موضع‌گیری نشان می‌دهد دستگاه دیپلماسی همچنان بر لفاظی‌های همیشگی خود پافشاری می‌کند."
+        ],
+        "impact": "بن‌بست در روند دیپلماسی و تداوم تنش میان تهران و واشنگتن",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "IRNA English",
+        "url": "https://en.irna.ir/news/86320910/US-expected-to-end-aggression-blockade-if-committed-to-diplomacy",
+        "clean_url": "https://en.irna.ir/news/86320910/US-expected-to-end-aggression-blockade-if-committed-to-diplomacy",
+        "image": "http://www.bing.com/th?id=ONUT.uUoRh9Cv0OkvbPbrKTlT7w&pid=News",
+        "timestamp": 1794617940.0
+    },
+    {
         "id": "32cf7fe709",
         "title_fa": "روبیو: اقدام نظامی جدید علیه تـهـران لازم نیست",
         "title_en": "Rubio says further US military action is not needed against economically weakened Iran",
@@ -5508,24 +5526,5 @@
         "clean_url": "https://www.iranintl.com/en/202611105610",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1794327540.0
-    },
-    {
-        "id": "26741b813e",
-        "title_fa": "شکست طرح استیضاح وزیر دفاع آمریکا در مجلس نمایندگان",
-        "title_en": "House votes to effectively end the impeachment effort against Pete Hegseth",
-        "summary": [
-            "مجموعه آرای نمایندگان مجلس، پرونده استیضاح وزیر دفاع را عملاً بست و به کمیسیون ارجاع داد.",
-            "این طرح توسط یکی از نمایندگان منتقد و با ادعای اتهامات مرتبط با درگیری‌های نظامی مطرح شده بود.",
-            "با این رای‌گیری، بحران سیاسی پیرامون تیم امنیتی دونالد ترامپ فعلاً فروکش کرد."
-        ],
-        "impact": "تثبیت جایگاه وزیر دفاع دولت ترامپ و جلوگیری از یک چالش سنگین سیاسی.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
-        "clean_url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
-        "image": "http://www.bing.com/th?id=ONUT.VW73DKQZQ-WDj2bkIzLnAA&pid=News",
-        "timestamp": 1794327060.0
     }
 ]
