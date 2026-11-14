@@ -1,5 +1,23 @@
 [
     {
+        "id": "6eba62d299",
+        "title_fa": "آمادگی اسرائیل برای حمله احتمالی بدون همراهی آمریکا",
+        "title_en": "Israel sees no immediate Iran threat, but prepares for possible solo strike",
+        "summary": [
+            "نهادهای امنیتی اسرائیل در حال حاضر تهدید فوری نظامی از سوی ج.ه.ا نمی‌بینند.",
+            "ارتش برای سناریوی اقدام نظامی یک‌جانبه علیه تاسیسات اتمی آماده می‌شود."
+        ],
+        "impact": "افزایش احتمال عملیات پیشگیرانه اسرائیل حتی بدون چراغ سبز واشنگتن",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15SER6d3VVNlFLc2w0bXJSaElhaUdPOFJYQWg3TVFqekpOc2xJdk5Cdk1zcTk3ck1KVUhQZS03bUQxUmVkRU5uOXlCckJwUmczLW15M1Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15SER6d3VVNlFLc2w0bXJSaElhaUdPOFJYQWg3TVFqekpOc2xJdk5Cdk1zcTk3ck1KVUhQZS03bUQxUmVkRU5uOXlCckJwUmczLW15M1Fn",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794685511.0
+    },
+    {
         "id": "c48cc6167e",
         "title_fa": "کاهش قیمت نفت و صعود بورس‌های آسیا با امید به کاهش تنش‌ها",
         "title_en": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
@@ -5503,23 +5521,5 @@
         "clean_url": "https://www.iranintl.com/en/202611102865",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1794339840.0
-    },
-    {
-        "id": "f3fa015f33",
-        "title_fa": "حادثه آتش‌سوزی در سکوی گازی پارس جنوبی",
-        "title_en": "Fire erupts at major Iranian gas platform, prompts evacuation",
-        "summary": [
-            "وقوع آتش‌سوزی در یکی از سکوهای کلیدی میدان گازی پارس جنوبی و تخلیه کامل مهندسان برای حفظ جان آن‌ها",
-            "هشدار کارشناسان اقتصادی درباره فرسودگی زیرساخت‌ها و فشار سنگین تحریم‌ها بر اقتصاد کشور"
-        ],
-        "impact": "آسیب به زیرساخت‌های انرژی در کنار تحریم‌ها، بحران اقتصادی را عمیق‌تر می‌کند.",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611100661",
-        "clean_url": "https://www.iranintl.com/en/202611100661",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794339180.0
     }
 ]
