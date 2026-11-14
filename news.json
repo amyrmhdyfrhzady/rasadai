@@ -292,6 +292,24 @@
         "timestamp": 1794644598.0
     },
     {
+        "id": "a628cf0570",
+        "title_fa": "حملات سایبری سایه به زیرساخت‌های حیاتی",
+        "title_en": "Iran Dials Up Cyber Attack Pressure, Targets Supermarkets, Water Systems",
+        "summary": [
+            "سیستم‌های آب‌رسانی و فروشگاه‌های زنجیره‌ای هدف موج جدید حملات سایبری منتسب به ج.هـ قرار گرفته‌اند.",
+            "توسعه جنگ سایبری نشان‌دهنده تغییر دکترین درگیری به سمت فلج کردن زیرساخت‌های شهری است."
+        ],
+        "impact": "افزایش آسیب‌پذیری زیرساخت‌های حیاتی و احتمال اختلال در زندگی روزمره شهروندان.",
+        "tag": "سایبری",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521",
+        "clean_url": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521",
+        "image": "http://www.bing.com/th?id=ONUT.SjB3ckfjcx--8jv5TQMcfw&pid=News",
+        "timestamp": 1794642780.0
+    },
+    {
         "id": "74dbba7da4",
         "title_fa": "الجزیره: گزارش سازمان ملل از مرگ ۲۵ دریانورد در هرمز",
         "title_en": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
@@ -5508,23 +5526,5 @@
         "clean_url": "https://www.iranintl.com/en/202611100645",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1794332760.0
-    },
-    {
-        "id": "11d6b6662b",
-        "title_fa": "حاشیه جنجالی در NBA: بی‌محلی جیلن براون به جیسون تیتوم",
-        "title_en": "Jaylen Brown appears to blow off Jayson Tatum's greeting before Celtics-76ers",
-        "summary": [
-            "جیلن براون در اولین تقابل برابر بوستون سلتیکس، سلام و برخورد صمیمانه جیسون تیتوم را بی‌پاسخ گذاشت.",
-            "این رفتار سرد و بی‌اعتنایی پیش از آغاز بازی، گمانه‌زنی‌ها پیرامون اختلافات پنهان این دو ستاره سابق را تقویت کرد."
-        ],
-        "impact": "افزایش حواشی و فضای تنش‌آلود میان هواداران و رسانه‌های ورزشی دو تیم سلتیکس و فیلادلفیا.",
-        "tag": "ورزش",
-        "urgency": 1,
-        "sentiment": -0.2,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/sports/basketball/jaylen-brown-appears-to-blow-off-jayson-tatum-s-greeting-before-celtics-76ers/ar-AA2haVgJ",
-        "clean_url": "https://www.msn.com/en-us/sports/basketball/jaylen-brown-appears-to-blow-off-jayson-tatum-s-greeting-before-celtics-76ers/ar-AA2haVgJ",
-        "image": "http://www.bing.com/th?id=ONUT.vg8trywfuLgitxh2p_2DZw&pid=News",
-        "timestamp": 1794332394.0
     }
 ]
