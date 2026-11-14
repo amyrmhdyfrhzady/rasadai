@@ -72,6 +72,24 @@
         "timestamp": 1794654005.0
     },
     {
+        "id": "9c966eda1a",
+        "title_fa": "ترامپ: جنگ با ج.ا عملاً تمام شده است",
+        "title_en": "Trump says the Iran war ‘effectively over.’ It’s still costing the US billions",
+        "summary": [
+            "ترامپ مدعی پایان یافتن درگیری‌ها با ج.ا شده، اما هزینه‌های مالی سنگین این ماجرا همچنان روی دست آمریکا مانده است.",
+            "ادعای پایان جنگ در حالی مطرح می‌شود که ارتش آمریکا همچنان میلیاردها دلار برای مهار تهدیدهای منطقه هزینه می‌کند."
+        ],
+        "impact": "ادامه هزینه‌های کلان نظامی آمریکا علی‌رغم کاهش تنش‌های مستقیم",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVNZbjB3dnptVVYtWWVQMHBpZmZqX3lmTXVrdnloalBCZXczUTFiaEswUXN2a1o4Z2VpNVFxdVdFN3Btd3c0N2NFMHpwZ2k5bFNyWlc5elBwb0ZUaUJaemUyeDBRMmdzMC1fUTRWakFKVGY2RW9fMUd0amM0b1dlUNIBhgFBVV95cUxPVzdXcGJYNncwNXZzYWhOV29tS0dSTjNabHVBWFhaVlV6SEZhVmdVX2hXZGM0RnBxbE41RkFWXzR4QkpDMUVURGZ3VjdyeW5pRXF4VXRkdkQzZ0hsNTA0eVBEYzdGWTVyZ2c2eGZ4aWszSHRPRDJTenBzbmVJMndidDdObFVvZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVNZbjB3dnptVVYtWWVQMHBpZmZqX3lmTXVrdnloalBCZXczUTFiaEswUXN2a1o4Z2VpNVFxdVdFN3Btd3c0N2NFMHpwZ2k5bFNyWlc5elBwb0ZUaUJaemUyeDBRMmdzMC1fUTRWakFKVGY2RW9fMUd0amM0b1dlUNIBhgFBVV95cUxPVzdXcGJYNncwNXZzYWhOV29tS0dSTjNabHVBWFhaVlV6SEZhVmdVX2hXZGM0RnBxbE41RkFWXzR4QkpDMUVURGZ3VjdyeW5pRXF4VXRkdkQzZ0hsNTA0eVBEYzdGWTVyZ2c2eGZ4aWszSHRPRDJTenBzbmVJMndidDdObFVvZw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794654000.0
+    },
+    {
         "id": "84588a4f7b",
         "title_fa": "سردرگمی خاورمیانه در برابر سیاست‌های جدید ترامپ در قبال ایران",
         "title_en": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead - ABC News",
@@ -5507,24 +5525,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794328769.0
-    },
-    {
-        "id": "ff47a1a858",
-        "title_fa": "محسن رضایی: پاسخ آمریکا فریبکارانه است و مذاکرات قطر دروغ است",
-        "title_en": "Iran security chief calls US response to Tehran's demands 'deceptive'",
-        "summary": [
-            "دبیر شورای عالی امنیت ملی، پاسخ واشنگتن به مطالبات تهران را مبهم و فریبکارانه خواند.",
-            "او ادعاهای مربوط به برگزاری نشست در قطر و دیدار با معاون رئیس‌جمهور آمریکا را کاملاً دروغ و بی‌اساس دانست.",
-            "هدف آمریکا از این بازی‌های سیاسی، کاهش فشارهای اقتصادی و پایین آوردن قیمت نفت ارزیابی شد."
-        ],
-        "impact": "بسته شدن کامل مسیر دیپلماسی پنهان و تشدید بن‌بست در روابط تهران و واشنگتن.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611105610",
-        "clean_url": "https://www.iranintl.com/en/202611105610",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794327540.0
     }
 ]
