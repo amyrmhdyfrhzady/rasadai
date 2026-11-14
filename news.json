@@ -1,5 +1,23 @@
 [
     {
+        "id": "0ec3337e12",
+        "title_fa": "جهش نفت با تردید ترامپ درباره توافق با ج.ا",
+        "title_en": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
+        "summary": [
+            "دونالد ترامپ هرگونه نیاز به توافق جدید با تهران را زیر سوال برد.",
+            "بازار انرژی بلافاصله به این موضع‌گیری واکنش نشان داد و قیمت نفت صعودی شد."
+        ],
+        "impact": "بازگشت سیاست فشار حداکثری و افزایش ریسک در بازارهای انرژی",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794652311.0
+    },
+    {
         "id": "f46e9aa8ff",
         "title_fa": "پشت پرده نشست سه‌جانبه ترامپ، پوتین و شی درباره اتمی ج.ا",
         "title_en": "Trump To Discuss Iran, Nuclear Arms With Putin, Xi At Landmark Summit",
@@ -5511,22 +5529,5 @@
         "clean_url": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war",
         "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/06bb4d78-e126-4b3b-81d7-8718ea20e9ef/thumbnail/1200x630/02a0949682f7c73da302a5756eaa2acc/ap26314474865597.jpg",
         "timestamp": 1794323640.0
-    },
-    {
-        "id": "90fe918eb6",
-        "title_fa": "پیت هگست استیضاح خود را شوخی سیاسی خواند",
-        "title_en": "Defiant Hegseth blasts impeachment farce ahead of US House vote",
-        "summary": [
-            "وزیر دفاع آمریکا با لحنی تند تلاش‌های نمایندگان برای استیضاح خود را به شدت رد کرد."
-        ],
-        "impact": "تشدید چالش‌های سیاسی در کابینه ایالات متحده همزمان با رای‌گیری مجلس نمایندگان.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/other/defiant-hegseth-blasts-impeachment-farce-ahead-of-us-house-vote/ar-AA2haHHY",
-        "clean_url": "https://www.msn.com/en-us/news/other/defiant-hegseth-blasts-impeachment-farce-ahead-of-us-house-vote/ar-AA2haHHY",
-        "image": "http://www.bing.com/th?id=ONUT.nobVoNw05cgIht2kwDVh0g&pid=News",
-        "timestamp": 1794323363.0
     }
 ]
