@@ -327,6 +327,25 @@
         "timestamp": 1794743700.0
     },
     {
+        "id": "91bd7808f4",
+        "title_fa": "حمله پهپادی به بحرین و رادار آمریکا؛ آژیر خطر در منامه به صدا درآمد",
+        "title_en": "BREAKING: Iran Strikes Bahrain again; US Radar 'Hit' In Drone Attack; 'Stay Inside' Warning Issued",
+        "summary": [
+            "تأسیسات و سامانه‌های راداری آمریکا در ساحل بحرین هدف حملات پهپادی قرار گرفتند که منجر به تعلیق پروازهای فرودگاه منامه و هشدار پناهگیری شد.",
+            "این اقدام مستقیم، پدافند منطقه‌ای آمریکا را هدف گرفته تا شبکه هشدار زودهنگام را قبل از درگیری‌های بعدی شل کند.",
+            "گسترش دامنه حملات به کشورهای همسایه، پیام آشکاری برای افزایش ریسک اقتصادی و امنیتی در کل حوزه خلیج فارس است."
+        ],
+        "impact": "قفل شدن موقت خطوط هوایی منامه و جهش فوریت نظامی برای ورود مستقیم نیروهای آمریکایی به پاسخ متقابل.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "The Times of India",
+        "url": "https://www.msn.com/en-in/news/other/breaking-iran-strikes-bahrain-again-us-radar-hit-in-drone-attack-stay-inside-warning-issued/vi-AA2hsEsZ",
+        "clean_url": "https://www.msn.com/en-in/news/other/breaking-iran-strikes-bahrain-again-us-radar-hit-in-drone-attack-stay-inside-warning-issued/vi-AA2hsEsZ",
+        "image": "https://static.toiimg.com/thumb/msid-135847806,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1794739800.0
+    },
+    {
         "id": "5e26d2fade",
         "title_fa": "ارزیابی تازه آمریکا: ذخیره ۲۵۰۰ فروندی موشک‌های ج.ا.ا همچنان دست‌نخورده است",
         "title_en": "US intelligence believes Iran could still have up to 2,500 missiles – report",
@@ -5502,23 +5521,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/has-trump-lost-the-iran-war/ar-AA2hfHS1",
         "image": "http://www.bing.com/th?id=ONUT.aSpl9hZxHkBSt6SgLbJo0w&pid=News",
         "timestamp": 1794421800.0
-    },
-    {
-        "id": "bcd5278fb1",
-        "title_fa": "ممنوعیت خروج مواد هسته‌ای و جهش قیمت نفت",
-        "title_en": "Iran Forbids Nuclear Material to Exit the Country, Oil Prices Rise 1%",
-        "summary": [
-            "جـمـهـوری اسـلامـی با بستن خروجی مواد هسته‌ای، عملاً در حال آماده‌سازی برای یک تنش بزرگ یا پیشبرد برنامه غنی‌سازی در سایه است.",
-            "بازار جهانی نفت با کوچک‌ترین سیگنال از سمت ایران واکنش نشان می‌دهد که نشان‌دهنده شکنندگی شدید امنیت انرژی در خلیج فارس است."
-        ],
-        "impact": "افزایش قیمت نفت به دلیل ترس از تنش‌های هسته‌ای و احتمال مسدود شدن تنگه هرمز.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "MarineLink",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwSmxLcTRFb1hvbkxzeThxN1JoUS1JLWZONDhPVi1qMjFCOFc4T2VpNmh5SzA4M2kxYUY5c0hIWVRuVHh0d0RZamRTdnNNalBpRUxEYzFWam95clJNb3NycHM1RXRtMUxIbV9TQ1RQVnpqWHBoN1pCRFVKSlZrZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwSmxLcTRFb1hvbkxzeThxN1JoUS1JLWZONDhPVi1qMjFCOFc4T2VpNmh5SzA4M2kxYUY5c0hIWVRuVHh0d0RZamRTdnNNalBpRUxEYzFWam95clJNb3NycHM1RXRtMUxIbV9TQ1RQVnpqWHBoN1pCRFVKSlZrZw",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794421152.0
     }
 ]
