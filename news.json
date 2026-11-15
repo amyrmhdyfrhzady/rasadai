@@ -19,6 +19,25 @@
         "timestamp": 1794777900.0
     },
     {
+        "id": "f6c17540a2",
+        "title_fa": "حمله پهپادی سپـاه به رادار آمریکایی در بحرین",
+        "title_en": "Iran Drones Target US Radar in Bahrain; Trump Shuns Deal",
+        "summary": [
+            "سپـاه پاسداران از شلیک شش پهپاد به سمت پایگاه هوایی ریفا در بحرین خبر داد.",
+            "پدافند بحرین این حملات را خنثی کرد و کشورهای منطقه این اقدام را به شدت محکوم کردند.",
+            "دونالد ترامپ هرگونه توافق با حکومت ایران را رد کرده و به دنبال پیروزی کامل است."
+        ],
+        "impact": "افزایش تنش‌های نظامی در خلیج فارس و مسدود شدن مسیرهای دیپلماتیک با ایالات متحده.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "hngn",
+        "url": "https://www.hngn.com/articles/273810/20261115/trump-says-no-iran-deal-needed-pulls-vance-talks.htm",
+        "clean_url": "https://www.hngn.com/articles/273810/20261115/trump-says-no-iran-deal-needed-pulls-vance-talks.htm",
+        "image": "https://d.hngn.com/en/full/307780/file-trump-speaks-arlington-veterans-day.jpg?w=1064&amp;f=77913153bcbafef070ee48a724c3a44d",
+        "timestamp": 1794775140.0
+    },
+    {
         "id": "868a1c78c6",
         "title_fa": "هشدار درباره تکرار خطای انقلاب ۵۷ در قبال جـ.م.ا",
         "title_en": "A warning to the US: Do not repeat the mistakes of Iran's 1979 revolution - opinion",
@@ -5499,24 +5518,5 @@
         "clean_url": "https://www.iranintl.com/en/202611123289",
         "image": "http://www.bing.com/th?id=ONUT.T1gzsyKVlqDAVzKKxnemZw&pid=News",
         "timestamp": 1794454260.0
-    },
-    {
-        "id": "939e8aaa77",
-        "title_fa": "اتهام سایبری فرانسه به ایران و تلاش برای تحریم‌های جدید اروپایی",
-        "title_en": "France blames Iran for supermarket fridge hacks, seeks EU sanctions",
-        "summary": [
-            "پاریس حکومت ایران را به حملات سایبری به سیستم‌های برودتی فروشگاه‌های زنجیره‌ای متهم کرده و خواهان برخورد قاطع اروپا شده است.",
-            "فرانسوی‌ها رایزنی با اعضای اتحادیه اروپا را برای تصویب یک بسته تحریمی تازه علیه عاملان سایبری ایران آغاز کرده‌اند.",
-            "کشانده شدن تنش‌ها به زیرساخت‌های غیرنظامی نشان‌دهنده گسترش ابعاد درگیری سایبری میان تهران و پایتخت‌های اروپایی است."
-        ],
-        "impact": "افزایش فشار دیپلماتیک در اروپا برای تصویب تحریم‌های جدید علیه بخش سایبری ایران.",
-        "tag": "سایبری",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "EU Perspectives",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qdFRYZTJXSmdNZFpoZlg2enU1dmY3X083V21JRnZQWGNvYWpSZHd6eDkxT0NYOEx2aUwzaE1vYUF0QlVGSHJZc0g1NWlKeFc1UTFrelpuVjNuZEJwN0pLVWpIY1d0QS1Na2dwbDc1LUNiVTJta3NSMUlRblk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qdFRYZTJXSmdNZFpoZlg2enU1dmY3X083V21JRnZQWGNvYWpSZHd6eDkxT0NYOEx2aUwzaE1vYUF0QlVGSHJZc0g1NWlKeFc1UTFrelpuVjNuZEJwN0pLVWpIY1d0QS1Na2dwbDc1LUNiVTJta3NSMUlRblk",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794454234.0
     }
 ]
