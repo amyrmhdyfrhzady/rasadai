@@ -240,6 +240,25 @@
         "timestamp": 1794702240.0
     },
     {
+        "id": "3e492964d3",
+        "title_fa": "گزارش الجزیره از تنش نظامی در بحرین و درگیری در یمن",
+        "title_en": "Iran war live: Saudi-led coalition strikes down 3 drones",
+        "summary": [
+            "به گزارش الجزیره، ایران اعلام کرده که یک پایگاه آمریکا در بحرین را هدف قرار داده و هم‌زمان بحرین هشدارهای تهدید احتمالی صادر کرده است.",
+            "ائتلاف به رهبری عربستان سعودی می‌گوید طی سه ساعت، سه پهپاد پرتاب‌شده از سوی حوثی‌های یمن را سرنگون کرده است.",
+            "در مقابل، حوثی‌ها مدعی شده‌اند که یک هواپیمای سعودی را بر فراز استان الجوف ساقط کرده‌اند."
+        ],
+        "impact": "گسترش هم‌زمان هشدارهای امنیتی در خلیج فارس و درگیری‌های هوایی در یمن، سطح تنش نظامی در منطقه را افزایش داده است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26313685235897-1-1794303255.jpg?resize=1920%2C1440",
+        "timestamp": 1794700800.0
+    },
+    {
         "id": "ecd8dc49b5",
         "title_fa": "گزارش حمله پهپادی به بحرین و انتقاد تند بسنت",
         "title_en": "Iran live updates: Bessent blasts Iranian threats",
@@ -5502,24 +5521,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-live-tehran-rejects-washington-s-claims-of-military-weakness-says-defence-capabilities-remain-strong/ar-AA2hb5lH",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794386381.0
-    },
-    {
-        "id": "0343dfc0bd",
-        "title_fa": "تکذیب مذاکره با واشنگتن و خط‌ونشان برای تنگه هرمز",
-        "title_en": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-        "summary": [
-            "تهران هرگونه گفت‌وگوی مستقیم با آمریکا را تکذیب کرده و دیپلماتی شفاف را کنار گذاشته است.",
-            "تهدید به بستن تنگه هرمز، اهرم اصلی فشار برای باج‌گیری نفتی و تأثیر بر بازار جهانی انرژی است.",
-            "این مواضع تهاجمی بیشتر کارکرد جنگ روانی برای پوشش ضعف‌های داخلی و ایجاد بازدارندگی کلامی دارد."
-        ],
-        "impact": "جهش آنی ریسک در بازار جهانی انرژی و افزایش احتمال تنش مستقیم در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjE0dVFENk1CX2NnRnVSUEtzYzVDWlpBVlFvMnlNMnV5SjBncHJNcFI4WmRjNmdJWGtwXzJ6aUtYOUs4Ynl1bVUzVm5TWXFxNGxfSzRtaEY0czhyRTFSVU1mN3NqNW1BWm1WT1dCS2dZbEVTQ0hBcGRsM05RUWVQRGNUVHF1ZGhHOUZNVGVqR19keHFTUzJ3V0JwMnpFWF9uWDBYV2l3M01SN01ROFc2bzJHZUt1TjjSAbwBQVVfeXFMUDJtWTM5WXEtX3NDM0RkOG1ZVjE3RXVRYnRQNm5feHhKb0VJaXlLMjdPcjBCa1NzMkIySmk2a1hRMmwybS1SWG13RzNxLUtVZF9mQV9QYlB4cGxWcDVUbUFjVXdvcHo4THhtN2NIU01lUEYtUzVPdzRNcXIyWlBYM09QR0FsNzJUMUpBRGxaYUpQbl84bjNseUp6bWU1cFM2aUpvaUU5UnVJYXY0b1QybnBaX21OdWM2M3AtZ0w?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjE0dVFENk1CX2NnRnVSUEtzYzVDWlpBVlFvMnlNMnV5SjBncHJNcFI4WmRjNmdJWGtwXzJ6aUtYOUs4Ynl1bVUzVm5TWXFxNGxfSzRtaEY0czhyRTFSVU1mN3NqNW1BWm1WT1dCS2dZbEVTQ0hBcGRsM05RUWVQRGNUVHF1ZGhHOUZNVGVqR19keHFTUzJ3V0JwMnpFWF9uWDBYV2l3M01SN01ROFc2bzJHZUt1TjjSAbwBQVVfeXFMUDJtWTM5WXEtX3NDM0RkOG1ZVjE3RXVRYnRQNm5feHhKb0VJaXlLMjdPcjBCa1NzMkIySmk2a1hRMmwybS1SWG13RzNxLUtVZF9mQV9QYlB4cGxWcDVUbUFjVXdvcHo4THhtN2NIU01lUEYtUzVPdzRNcXIyWlBYM09QR0FsNzJUMUpBRGxaYUpQbl84bjNseUp6bWU1cFM2aUpvaUU5UnVJYXY0b1QybnBaX21OdWM2M3AtZ0w",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794386250.0
     }
 ]
