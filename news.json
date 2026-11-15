@@ -18,6 +18,25 @@
         "timestamp": 1794745560.0
     },
     {
+        "id": "1fb07416d4",
+        "title_fa": "حمله پهپادی مجدد ایران به بحرین در اوج تنش‌ها",
+        "title_en": "Iran Attacks Bahrain for the Second Time in Days",
+        "summary": [
+            "سپاه پاسداران پایگاه هوایی در بحرین را هدف حملات پهپادی قرار داد که این دومین بار در چند روز اخیر است.",
+            "پدافند بحرین مدعی انهدام تهدیدات هوایی شد و هشدارهای امنیتی برای شهروندان صادر کرد.",
+            "این تحرکات نظامی همزمان با بن‌بست در مذاکرات بین‌المللی رخ داده و خطر گسترش درگیری در منطقه را افزایش داده است."
+        ],
+        "impact": "افزایش ریسک امنیتی در خلیج فارس و احتمال واکنش نظامی آمریکا به تهدیدات علیه پایگاه‌هایش.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+        "clean_url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+        "timestamp": 1794744480.0
+    },
+    {
         "id": "3b521b8a7c",
         "title_fa": "فرار رو به جلوی ج.ا در برابر آژانس اتمی",
         "title_en": "Iran accuses UN nuclear watchdog of being influenced by US, European countries",
@@ -5504,23 +5523,5 @@
         "clean_url": "https://www.jns.org/opinion/khosro-isfahani/how-to-finish-the-iran-job",
         "image": "https://static.jns.org/dims4/default/27972c5/2147483647/strip/true/crop/5500x3094+0+518/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2Fc2%2Fed48eb5244bb9307eb83c168bf8a%2Fwomen-life-freedom-iran.jpg",
         "timestamp": 1794396600.0
-    },
-    {
-        "id": "ea9525aca0",
-        "title_fa": "تلاش ونس برای مذاکره مستقیم با تندروهای ج.ا",
-        "title_en": "Vance considers direct talks with Iran hardliner in push to end war",
-        "summary": [
-            "جی دی ونس در حال بررسی کانال‌های مستقیم با چهره‌های تندرو برای پایان دادن به درگیری‌هاست.",
-            "این اقدام ریسک سیاسی بالایی برای معاون رئیس‌جمهور آمریکا دارد و ممکن است با مخالفت‌های داخلی روبرو شود."
-        ],
-        "impact": "تغییر احتمالی در استراتژی دیپلماتیک آمریکا و خروج از سیاست فشار حداکثری سنتی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
-        "clean_url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
-        "image": "http://www.bing.com/th?id=ONUT.l7NdieW7CNXd1ed9krjkFQ&pid=News",
-        "timestamp": 1794396300.0
     }
 ]
