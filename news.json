@@ -550,6 +550,24 @@
         "timestamp": 1794663076.0
     },
     {
+        "id": "e50e0e3cf9",
+        "title_fa": "کوشنر از طرح ایده‌های تازه برای حل بحران اوکراین خبر داد",
+        "title_en": "Kushner says new ideas have emerged for resolving Ukrainian conflict",
+        "summary": [
+            "به گزارش خبرگزاری تاس، جرد کوشنر فرستاده آمریکا در شبکه اجتماعی ایکس اعلام کرد که در گفتگوهای اخیر با روسیه، اوکراین و اروپا، ایده‌های جدیدی برای حل مناقشه اوکراین مطرح شده است.",
+            "کوشنر تأکید کرد که این ایده‌ها هم‌اکنون در دست بررسی قرار دارند و برخی از آن‌ها می‌توانند مستقیماً به پیشرفت منجر شوند یا به پیشنهادهای تازه‌ای برای پر کردن شکاف‌های باقی‌مانده تبدیل شوند."
+        ],
+        "impact": "ادامه این رایزنی‌ها می‌تواند مسیر گفتگوهای دیپلماتیک میان واشنگتن، مسکو، کی‌یف و اروپا را برای بررسی پیشنهادهای جدید باز نگه دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2218231",
+        "clean_url": "https://tass.com/world/2218231",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261114/1493093.jpg",
+        "timestamp": 1794660840.0
+    },
+    {
         "id": "5c5215e018",
         "title_fa": "طرح دموکرات‌های آمریکا برای توقف درگیری با ایران در کنگره جدید",
         "title_en": "Democrats push to end Iran war, Republicans digs in",
@@ -5501,24 +5519,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-war-war-choice-trump-110247797.html",
         "image": "http://www.bing.com/th?id=ONUT.Ihrj9ynUftV7cvHdy3i1vQ&pid=News",
         "timestamp": 1794366120.0
-    },
-    {
-        "id": "a700aa50fe",
-        "title_fa": "عملیات خشم حماسی؛ دکترین ترامپ برای نابودی توان هسته‌ای ج.ا",
-        "title_en": "Midterms, Gas Prices and the Nuclear Threat From Iran",
-        "summary": [
-            "سناریوی عملیاتی ترامپ بر نابودی زیرساخت‌های هسته‌ای، موشکی و دریایی متمرکز است.",
-            "هدف نهایی این استراتژی، قطع بازوهای نیابتی و ایجاد فرصت برای تغییر وضعیت داخلی ایران است.",
-            "تغییر اولویت‌های آمریکا از ملاحظات اقتصادی به امنیت ملی، نشان‌دهنده پایان دوران مماشات است."
-        ],
-        "impact": "تغییر کامل موازنه قدرت در منطقه با هدف خنثی‌سازی دائمی توان نظامی ج.ا.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/midterms-gas-prices-nuclear-threat-103126447.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/midterms-gas-prices-nuclear-threat-103126447.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/33a9378c12b84f0816bedc453cd44981154d0c8ce2a5ca57eae86b3572530ecb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freal_clear_politics_947%2Fbfbe4d5603d42612f61acfee5c076371.jpg",
-        "timestamp": 1794364260.0
     }
 ]
