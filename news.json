@@ -1,5 +1,23 @@
 [
     {
+        "id": "dd90296e37",
+        "title_fa": "جروزالم پست: نهادهای دفاعی اسرائیل عجله‌ای برای حمله ندارند",
+        "title_en": "Israel's defense establishment sees no urgent need to strike Iran until new gov't formed - report",
+        "summary": [
+            "بر اساس گزارش روزنامه جروزالم پست، دستگاه دفاعی اسرائیل در شرایط فعلی ضرورتی فوری برای حمله به ایران نمی‌بیند.",
+            "این گزارش تصریح می‌کند که ارزیابی امنیتی اسرائیل بر پرهیز از اقدام نظامی فوری تا زمان تشکیل دولت جدید متمرکز است."
+        ],
+        "impact": "کاهش احتمال رویارویی نظامی مستقیم و فوری میان اسرائیل و ایران تا زمان روشن شدن وضعیت تشکیل دولت جدید.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSkdqMjRWeXlLVzV0NllGeDdnM3k0bTJRaFg5cEMyUjh2VzR1eGFzbWo1cDdpbUY1T3A1RW1Ua3NHWkhXZDdkR0k4VTRtLWU0bWRVVDBSYjBLNTVWWjBWeURfLWdoTzdhNF9FU3RR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSkdqMjRWeXlLVzV0NllGeDdnM3k0bTJRaFg5cEMyUjh2VzR1eGFzbWo1cDdpbUY1T3A1RW1Ua3NHWkhXZDdkR0k4VTRtLWU0bWRVVDBSYjBLNTVWWjBWeURfLWdoTzdhNF9FU3RR",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794722483.0
+    },
+    {
         "id": "4309d68588",
         "title_fa": "برآورد آمریکا از زرادخانه موشکی ایران و رایزنی تل‌آویو در واشنگتن",
         "title_en": "تلاش نتانیاهو برای ازسرگیری حملات به ایران؛ ارزیابی اطلاعاتی آمریکا: تهران هنوز تا دو هزار و ۵۰۰ ...",
@@ -5504,23 +5522,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGJGbXpBaU9TM2xZZXVhbFN0MFlBdVdhRGFjR1VkaHNnU2F5NXl6WmpmV01CZ2lXd1NiMlVsUDA2ZThZY3RMWHN5TmRKLTRidmdIYnRVQmdmQXBUQUc3MFNIaTJlYS0yMDNFck4xaTBIQXJ4M3RPQ3JhQzVQQUluMXJ2T1Nycm1zZWoxSkkxUTBoZi1ZWFkwQVR3bE1hRUtlWG9IdmhXUEljR2VrMElQNVVrUTJ1Z3c",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794377400.0
-    },
-    {
-        "id": "bc0b99aa26",
-        "title_fa": "چالش سخت واشنگتن در مسدودسازی خرید موشک‌های دوش‌پرتاب توسط ج…",
-        "title_en": "U.S. Moves To Disrupt Iran’s MANPADS Procurement—History Shows It’ll Have Its Work Cut Out",
-        "summary": [
-            "ایالات متحده تلاش‌های تازه‌ای را برای قطع دسترسی ج… به موشک‌های قابل حمل و ضدحریم هوایی آغاز کرده است.",
-            "سابقه تاریخی نشان می‌دهد مسدود کردن مسیرهای قاچاق این تسلیحات برای واشنگتن موفقیت‌آمیز نبوده است."
-        ],
-        "impact": "تلاش سخت‌گیرانه آمریکا برای مهار تسلیحاتی ج… با چالش‌های عملیاتی روبروست.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/pauliddon/2026/11/11/us-moves-to-disrupt-irans-manpads-procurement-history-shows-itll-have-its-work-cut-out/",
-        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/11/11/us-moves-to-disrupt-irans-manpads-procurement-history-shows-itll-have-its-work-cut-out",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794373860.0
     }
 ]
