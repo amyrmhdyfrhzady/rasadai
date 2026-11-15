@@ -1,5 +1,23 @@
 [
     {
+        "id": "6de63440b4",
+        "title_fa": "فشار غرب بر اسرائیل برای بازگشایی مسیرهای امدادی غزه",
+        "title_en": "Houthi attacks kill eight in Yemen, strike Riyadh airport and financial centre",
+        "summary": [
+            "استرالیا، بریتانیا، کانادا و ایتالیا در بیانیه‌ای مشترک خواستار پایان فوری محدودیت‌های ورود کمک‌های بشردوستانه به غزه شدند.",
+            "این کشورها وضعیت انسانی در غزه را وخیم توصیف کرده و خواستار دسترسی سریع و بدون مانع به مناطق درگیر هستند."
+        ],
+        "impact": "افزایش فشارهای دیپلماتیک متحدان غربی بر کابینه نتانیاهو برای تغییر سیاست‌های میدانی در غزه.",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/houthi-attacks-kill-eight-yemen-strike-riyadh-airport",
+        "clean_url": "https://www.newarab.com/news/houthi-attacks-kill-eight-yemen-strike-riyadh-airport",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2263465116.jpeg?itok=SSw_GEs6",
+        "timestamp": 1794772440.0
+    },
+    {
         "id": "fc1e0fd42d",
         "title_fa": "بازی خطرناک نیابتی‌ها در بحرین و اما و اگرهای ترامپ",
         "title_en": "Trump May Pause Iran Strikes as Guard Claims Bahrain Attack",
@@ -5504,23 +5522,5 @@
         "clean_url": "https://www.iranintl.com/en/202611119572",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/af7cd6fd7cbc40d34f3988cafa8bbdc44bf55e8a-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794434340.0
-    },
-    {
-        "id": "09f9182c51",
-        "title_fa": "سوختن گزینه‌های تهران و واشنگتن در بن‌بست جنگ",
-        "title_en": "Just like the US, Iran has squandered its good options to end the war",
-        "summary": [
-            "اشتباهات محاسباتی دونالد ترامپ و جمهوری اسلامی، مسیر دیپلماسی را به بن‌بست کشانده است.",
-            "هیچ‌کدام از طرفین دیگر راه‌حل ساده‌ای برای پایان دادن به درگیری‌ها روی میز ندارند."
-        ],
-        "impact": "افزایش ریسک فرسایشی شدن تنش‌ها و بی‌نتیجه ماندن تلاش‌های سیاسی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/commentary/reuters-open-interest/just-like-us-iran-has-squandered-its-good-options-end-war-2026-11-12/",
-        "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/just-like-us-iran-has-squandered-its-good-options-end-war-2026-11-12",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794433800.0
     }
 ]
