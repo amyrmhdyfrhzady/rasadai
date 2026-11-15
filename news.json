@@ -422,6 +422,25 @@
         "timestamp": 1794728394.0
     },
     {
+        "id": "03a589315d",
+        "title_fa": "حملات پهپادی به بحرین؛ باج‌خواهی منطقه‌ای تهران در برابر فشار ترامپ",
+        "title_en": "Iran raises stakes with new drone attacks as Trump signals a waiting game",
+        "summary": [
+            "شلیک پهپادهای ساخت سپاه به سمت بحرین و اهداف مرتبط با آمریکا، تلاش سراسیمه تهران برای شکستن بن‌بست اقتصادی و فشار حداکثری واشنگتن است.",
+            "هدف قرار دادن کشور میزبان ناوگان پنجم آمریکا، ابزار جدید جنگ روانی برای تهدید کشورهای حاشیه خلیج فارس و باج‌گیری نفتی است.",
+            "ترامپ با اتخاذ استراتژی انتظار، خطای محاسباتی تهران در ضربه زدن به همپیمانان منطقه‌ای را زیر نظر گرفته تا پاتک اصلی را وارد کند."
+        ],
+        "impact": "جهش آنی ریسک دریانوردی در تنگه هرمز و افزایش احتمال درگیری مستقیم نظامی در حاشیه خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl",
+        "clean_url": "https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl",
+        "image": "http://www.bing.com/th?id=ONUT.oAdV7hE61lKx-z2M0ng8Ww&pid=News",
+        "timestamp": 1794728160.0
+    },
+    {
         "id": "09c7d572dc",
         "title_fa": "واژگونی اتوبوس کارگران پالایشگاه دهلران؛ ۱۲ کشته و مجروح",
         "title_en": "Bus carrying gas refinery workers overturns in western Iran, killing 12",
@@ -5504,23 +5523,5 @@
         "clean_url": "https://www.iranintl.com/en/202611113451",
         "image": "http://www.bing.com/th?id=ONUT.ZkhN3NqrmOVLesXCcKS_9A&pid=News",
         "timestamp": 1794409260.0
-    },
-    {
-        "id": "28b809e0ed",
-        "title_fa": "ضرورت استراتژی اسرائیل برای حمایت از براندازی ج.ا",
-        "title_en": "Israel needs a strategy to help Iran’s opposition topple the regime",
-        "summary": [
-            "تغییر پارادایم در تل‌آویو از مهار نظامی به سمت حمایت فعال از نیروهای مخالف برای تغییر ساختار قدرت در تهران",
-            "این رویکرد نشان‌دهنده بن‌بست در دیپلماسی هسته‌ای و حرکت به سمت راهکارهای براندازانه است"
-        ],
-        "impact": "افزایش فشار اطلاعاتی و سیاسی بر بدنه حاکمیت برای تضعیف ثبات داخلی",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xdTZoYUFEM1ljNXlIRTE1ZzdjcXNYYVQ0OFVWTjZDaHVwRUdMMFBBSEZpbEpYY2EyTzlHSUNmXzlaUWo4YmNvNUdWZmZqZDllVjJhaHA0WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xdTZoYUFEM1ljNXlIRTE1ZzdjcXNYYVQ0OFVWTjZDaHVwRUdMMFBBSEZpbEpYY2EyTzlHSUNmXzlaUWo4YmNvNUdWZmZqZDllVjJhaHA0WQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794409200.0
     }
 ]
