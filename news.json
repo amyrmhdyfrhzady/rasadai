@@ -236,6 +236,24 @@
         "timestamp": 1794676380.0
     },
     {
+        "id": "6da6508d7c",
+        "title_fa": "تشدید حملات توپخانه‌ای به دونتسک و تلفات انسانی",
+        "title_en": "Kiev troops bombard Donetsk People's Republic 32 times over past day",
+        "summary": [
+            "ثبت ۳۲ مورد حمله خمپاره‌ای و توپی ارتش اوکراین به مناطق مسکونی دونتسک در شبانه‌روز گذشته.",
+            "کشته شدن یک غیرنظامی و زخمی شدن چهار نفر دیگر به همراه خسارت به زیرساخت‌ها و اتوبوس مسافربری."
+        ],
+        "impact": "افزایش تلفات غیرنظامیان و تداوم خسارت به زیرساخت‌های شهری در مناطق درگیری.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2218237",
+        "clean_url": "https://tass.com/defense/2218237",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1794670020.0
+    },
+    {
         "id": "b20bfc4fce",
         "title_fa": "انتقاد نیشن از ادعای ترامپ درباره ثبات در پرونده ایران",
         "title_en": "Negotiating with Iran",
@@ -5502,23 +5520,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkZwengyQ0hrdlpsX1lqcFA0Mklka1h2UUFWY0hMd0xMaGMyTnE2T3dxUmk1WlVBWERYRGlscW9rdFZwaDNYNkNhcFNFY0tmb2FRRlBfWjJOaHFjZjFmdkNpWG9uWkhBVmVmbU5OYnJnc0pHektpVTF0Zk1VdlIyQlpGQXZORGtlYjlXR3lEYkpBSkNzODJkLVpkeGlidzlGUkxydUo5eW9rd2JoTHBz",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794350865.0
-    },
-    {
-        "id": "ca62b63890",
-        "title_fa": "احتمال تمدید دو هفته‌ای آتش‌بس بین آمریکا و ایران",
-        "title_en": "US and Iran Weigh Extending Their Ceasefire by Two Weeks",
-        "summary": [
-            "مذاکرات پشت پرده برای تمدید دو هفته‌ای وضعیت آتش‌بس فعلی در جریان است.",
-            "این وقفه موقت می‌تواند فرصتی برای محک زدن تحرکات دیپلماتیک یا آماده‌سازی برای دور تازه‌ای از تنش‌ها باشد."
-        ],
-        "impact": "این توافق موقت جلوی شوک آنی به بازار انرژی را می‌گیرد اما فضا همچنان شکننده است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlB2U04tVC14V2JzSnNYZFRVVDZZWEFnd3ZhY1BrSml2SlFidU1mZjNhQmpmU0w5TmtqMzlGNUc2amQ3QlZMcVc1dUFpWldRUDZWakhBRFA5V09BTXpFUzFiajZ1UGplS3BPcWlBUE5GMDJMR1ZJSTM0eU0yckd4VnUxSlFDUzZfLUlSeGtWN1Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlB2U04tVC14V2JzSnNYZFRVVDZZWEFnd3ZhY1BrSml2SlFidU1mZjNhQmpmU0w5TmtqMzlGNUc2amQ3QlZMcVc1dUFpWldRUDZWakhBRFA5V09BTXpFUzFiajZ1UGplS3BPcWlBUE5GMDJMR1ZJSTM0eU0yckd4VnUxSlFDUzZfLUlSeGtWN1Q",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794347493.0
     }
 ]
