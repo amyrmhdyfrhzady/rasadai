@@ -1,5 +1,23 @@
 [
     {
+        "id": "5789a54395",
+        "title_fa": "جک کین در فاکس‌نیوز: تحریم به‌تنهایی باعث سـقـوط نمی‌شود",
+        "title_en": "Gen Jack Keane warns sanctions alone might not collapse Iran’s regime",
+        "summary": [
+            "به گزارش شبکه فاکس‌نیوز، جک کین، نظامی بازنشسته ارتش آمریکا، هشدار داده است که اعمال تحریم‌ها به‌تنهایی توان فـروپـاشـی حـاکـمـیـت ایران را ندارد.",
+            "طرح این دیدگاه در تریبون فاکس‌نیوز، تردید بخشی از محافل نظامی آمریکا را درباره کارآمدی ابزارهای اقتصادی به‌عنوان تنها اهرم فشار بازتاب می‌دهد."
+        ],
+        "impact": "افزایش بحث‌ها در محافل سیاسی واشنگتن درباره محدودیت‌های تحریم اقتصادی و نیاز به اهرم‌های مکمل.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wd3lxcGxvRVNGTTFHeDg1V2VzeHFCcHBmS1EtdXB4U0p4Wk9oZEZsSDRydzhmUVFKRnFkRzJJaFRsUGp6OTJVSXJmdWVxOVAwNTVtdWhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wd3lxcGxvRVNGTTFHeDg1V2VzeHFCcHBmS1EtdXB4U0p4Wk9oZEZsSDRydzhmUVFKRnFkRzJJaFRsUGp6OTJVSXJmdWVxOVAwNTVtdWhR",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794709012.0
+    },
+    {
         "id": "abad916c6e",
         "title_fa": "توقف گفت‌وگوهای بازرسی هسته‌ای ایران در سایه تهدیدهای نظامی",
         "title_en": "Iran Is Playing with Fire: It Told the UN Nuclear Watchdog It Will Not Discuss Inspections While Trump Threatens Strikes",
@@ -5502,24 +5520,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVHJvREcxTHZQdVlGeE5nU3laaV9BYkpCQVQ4UXNMcWV3VFhfTUpibVR6cXcxTk1EOVk2dHRDcFpmWEFzNzFuMm1PcTFMemVvdVVOdFFnSDllRDFxZ29wTTdZSjI0Tzl5WXpGT2ViMV9aQjFLRmJHZkkwZVpTZ3hCMzY1Qm9EQ29aWHNldExXZ3p6STk1ZUxQTGctSkl6T21yRG9fTmtmUGlvN1BhQ205VDY4MThEQUhrVjM5WkpYWXpoQVJuTWRfSDNlbllqNkw3eXB5UXlMMA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794358339.0
-    },
-    {
-        "id": "d346ea7589",
-        "title_fa": "بحران سیاسی در تل‌آویو و لغو مذاکرات ائتلاف",
-        "title_en": "آغاز پرتنش کار کنست جدید اسرائیل؛ آیزنکوت مذاکرات با حزب نتانیاهو را لغو کرد",
-        "summary": [
-            "بنیامین نتانیاهو در نخستین نشست پارلمان جدید، با حملات تند به احزاب عربی، فضا را به سمت تنش کشاند.",
-            "گادی آیزنکوت به دنبال این سخنرانی تند، تمام برنامه‌های گفتگو با حزب لیکود را متوقف کرد.",
-            "از دست رفتن اکثریت ائتلاف حامی نتانیاهو، تشکیل دولت جدید را با چالش جدی مواجه کرده است."
-        ],
-        "impact": "تشدید بی‌ثباتی سیاسی در اسرائیل و به بن‌بست رسیدن تلاش‌ها برای تشکیل کابینه جدید.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/israel-knesset-tensions-eisenkot-cancels-likud-talks/33895163.html",
-        "clean_url": "https://www.radiofarda.com/a/israel-knesset-tensions-eisenkot-cancels-likud-talks/33895163.html",
-        "image": "https://gdb.rferl.org/978B0731-07AD-470E-A2BA-BE6A4666B23C.jpg",
-        "timestamp": 1794357840.0
     }
 ]
