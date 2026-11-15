@@ -240,6 +240,24 @@
         "timestamp": 1794711565.0
     },
     {
+        "id": "70276236f1",
+        "title_fa": "ادعای حمله موشکی ج.ا به پایگاه آمریکا در بحرین",
+        "title_en": "US Iran War Live Updates: Iran claims attack on US base in Bahrain in response to 'hostile' actions",
+        "summary": [
+            "سپاه پاسداران مدعی شد به یک پایگاه هوایی آمریکا در بحرین حمله کرده است.",
+            "منابع اطلاعاتی آمریکا تخمین می‌زنند ج.ا همچنان تا ۲۵۰۰ موشک در زرادخانه‌های خود دارد."
+        ],
+        "impact": "افزایش تنش‌های نظامی در منطقه خلیج فارس و آماده‌باش پدافندهای غربی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-saudi-houthi-drone-attack-middle-east-tensions-latest-news/liveblog/135841424.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-saudi-houthi-drone-attack-middle-east-tensions-latest-news/liveblog/135841424.cms",
+        "image": "http://www.bing.com/th?id=ONUT.MO72UZVm-3kLtW1SrGnZ6w&pid=News",
+        "timestamp": 1794710460.0
+    },
+    {
         "id": "f760918053",
         "title_fa": "مانور تبلیغاتی حکومت با انتشار تصاویر آموزش نظامی زنان",
         "title_en": "Ziplining, rifle training and more… Inside Iran’s military training centre for women",
@@ -5505,23 +5523,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVW0xdGdhU3Byc3Rzam1aM1BZdVpuSGRVMzdENHY5dlg5ejJZNGF2Qy1uR0ZVUkJjQ0JjMW1vWGs3MEh0bTZjRzVJUXk1LUFyVFlpbWxJNjdYUUtxbnRMeUx2U3Z1NzZicVpyRzNodkh2bFg1R3pKZEgyZUg5X1dtVDNiQnhKN3hvQXdrbkFQMDlNRU16UmU0Wm9xVnBCTWJHeHVrNjdqcEd2c2s5eU5n",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794394958.0
-    },
-    {
-        "id": "9215c6cea5",
-        "title_fa": "تهدید اروپا توسط محسن رضایی با موشک‌های دوربرد",
-        "title_en": "Iran threatens to bomb European air bases",
-        "summary": [
-            "محسن رضایی تهدید کرد اگر آمریکا از پایگاه‌های اروپایی دست به حمله بزند، آن مناطق هدف قرار می‌گیرند.",
-            "تهران با این لفاظی‌ها به دنبال ایجاد بازدارندگی در برابر فشارهای احتمالی دولت ترامپ است."
-        ],
-        "impact": "افزایش تنش دیپلماتیک میان ایران و کشورهای اروپایی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-threatens-bomb-european-air-184231262.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-threatens-bomb-european-air-184231262.html",
-        "image": "http://www.bing.com/th?id=ONUT.m_KmYkHQFh5xR1eyYeCR9w&pid=News",
-        "timestamp": 1794393780.0
     }
 ]
