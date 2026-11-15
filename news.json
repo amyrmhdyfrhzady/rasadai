@@ -383,6 +383,25 @@
         "timestamp": 1794735419.0
     },
     {
+        "id": "4c7a2e36ae",
+        "title_fa": "سقوط آزاد اقتصادی ای-ران با بسته شدن مسیرهای زمینی",
+        "title_en": "Iran facing one of fastest economic collapses ever, Bessent says",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا اعلام کرد جی-هو-ری اس-لا-می با یکی از سریع‌ترین فروپاشی‌های اقتصادی تاریخ مواجه است.",
+            "فشار واشنگتن فراتر از محاصره دریایی رفته و مسیرهای زمینی تامین کالا و درآمد را هدف قرار داده است.",
+            "ارزش ریال در بازه زمانی سال آینده افت شدید ۲۵ درصدی را تجربه خواهد کرد که از فروپاشی اقتصاد شوروی هم سریع‌تر است."
+        ],
+        "impact": "فلج شدن کامل شریان‌های مالی و تجاری حکومت زیر ضربات سنگین تحریم‌های آمریکا.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611151817",
+        "clean_url": "https://www.iranintl.com/en/202611151817",
+        "image": "http://www.bing.com/th?id=ONUT.joJu4dG3Eh4zvu8fWvyOlg&pid=News",
+        "timestamp": 1794735240.0
+    },
+    {
         "id": "1530387f6a",
         "title_fa": "چرخه فرسایشی توافق هسته‌ای و تحریم‌ها",
         "title_en": "Iran - Nuclear Deal, Sanctions, Diplomacy",
@@ -5502,23 +5521,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGp6cWxoNG9aYUI2eWZWUlhFRDkwRUZtc2d4YmJRUzBRdGE2aWd3ZEo1VUtZTWhqbmV2c3lUMHBhWlVxVFVRUENmcUxsQXFodlJsUUc4QXZtWV9jamhuVXk4TUllT3pXZEtyWHBsbVlub2lJbklHbUdNRGQxOXljUnJpS2JFY29lcHdMQ0J2ajlkQlU1ZEFGTnFpNDFXWlJkUFRiT0hlb1FTREZBdnV1QjlGd0VLUUVfNUE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794419357.0
-    },
-    {
-        "id": "056dccb54b",
-        "title_fa": "بازگشت تحریم‌های سنگین کانادا علیه نهادهای اتمی و بانکی ج.ا",
-        "title_en": "Canada reinstates sanctions on eleven Iranian entities linked to nuclear activities",
-        "summary": [
-            "دولت کانادا در حاشیه نشست گروه هفت، تحریم‌های جدیدی را علیه ۱۱ نهاد مرتبط با برنامه‌های اتمی و موشکی ج.ا اعمال کرد.",
-            "بانک‌های ملت و ملی نیز به دلیل نقش داشتن در تأمین مالی اقدامات مخرب در فهرست سیاه اتاوا قرار گرفتند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره مالی و افزایش فشار بر شریان‌های ارزی و اتمی حاکمیت.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "energynews",
-        "url": "https://energynews.pro/en/canada-reinstates-sanctions-on-eleven-iranian-entities-linked-to-nuclear-activities",
-        "clean_url": "https://energynews.pro/en/canada-reinstates-sanctions-on-eleven-iranian-entities-linked-to-nuclear-activities",
-        "image": "https://img.energynews.pro/articles/6d4faec9218113ad.webp",
-        "timestamp": 1794416580.0
     }
 ]
