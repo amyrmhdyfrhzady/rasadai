@@ -20,6 +20,24 @@
         "timestamp": 1794717385.0332954
     },
     {
+        "id": "b63e47c518",
+        "title_fa": "رهگیری دو پهپاد ایرانی و ادعای حمله به رادار بحرین",
+        "title_en": "US intercepts two Iranian drones as IRGC claims strike on radar in Bahrain",
+        "summary": [
+            "بر اساس گزارش روزنامه جروزالم پست، ایالات متحده دو پهپاد ایرانی را رهگیری کرده است.",
+            "این گزارش می‌افزاید که هم‌زمان با این رهگیری، سپاه پاسداران مدعی هدف قرار دادن یک سامانه راداری در بحرین شده است."
+        ],
+        "impact": "بروز تنش مستقیم نظامی میان آمریکا و ایران که نگرانی‌های امنیتی در منطقه خلیج فارس و بحرین را افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uWFRmVVJGY3FWZXdNNF9LRFJMMGpIaUxsMWhIejF6MnN1QkJFVjRndHFGaEw5RXlrYWRWMWNTMkFIaHNkeURhM01ZcGRFUTlTOFlBVTA4b3Y1Y2dZX0Y1M0cxakxyM0RKbmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uWFRmVVJGY3FWZXdNNF9LRFJMMGpIaUxsMWhIejF6MnN1QkJFVjRndHFGaEw5RXlrYWRWMWNTMkFIaHNkeURhM01ZcGRFUTlTOFlBVTA4b3Y1Y2dZX0Y1M0cxakxyM0RKbmc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794717113.0
+    },
+    {
         "id": "ca5837c4fd",
         "title_fa": "کنار گذاشتن جی‌دی ونس از مذاکرات ای*را*ن توسط ترامپ",
         "title_en": "Trump removes JD Vance from Iran talks, raising conflict fears",
@@ -5503,24 +5521,5 @@
         "clean_url": "https://www.iranintl.com/en/202611111088",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/6b31fa8150c05355604123bb642e8e9aa697f923-8256x5504.jpg?rect=0,585,8256,4334&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794373080.0
-    },
-    {
-        "id": "2058482ab9",
-        "title_fa": "بن‌بست هسته‌ای؛ تهران عقب‌نشینی نمی‌کند",
-        "title_en": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues",
-        "summary": [
-            "دبیر شورای عالی امنیت ملی ج.ا با رد خروج اورانیوم غنی‌شده، عملاً پرونده دیپلماسی را بست.",
-            "وزیر دفاع آمریکا، پیت هگست، با ادبیاتی تند تأکید کرد که اجازه دستیابی به سلاح اتمی را نخواهد داد.",
-            "هزینه جنگ احتمالی برای کشورهای خلیج فارس تا ۲۰۰ میلیارد دلار برآورد شده که نشان‌دهنده ابعاد فاجعه‌بار درگیری است."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی و تشدید فشار برای توقف کامل برنامه هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/f9c8db49-c1ee-4c5b-91ae-0b896c95a089/thumbnail/1200x630/9e316495b141e26b462e3a0a7f9a36cd/gettyimages-2304010876.jpg",
-        "timestamp": 1794369960.0
     }
 ]
