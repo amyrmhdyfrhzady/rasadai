@@ -37,6 +37,25 @@
         "timestamp": 1794753840.0
     },
     {
+        "id": "4c5244bc89",
+        "title_fa": "انفجار نفت‌کش‌ها در تنگه هرمز و رهگیری حملات پهپادی در بحرین",
+        "title_en": "Iran reports tanker fires as Bahrain intercepts aerial attacks",
+        "summary": [
+            "نیروی دریایی سپاه مدعی شد دو نفت‌کش به دلیل تردد بدون مجوز و خاموش بودن سیستم‌های ناوبری با مین‌های دریایی برخورد کرده و دچار حریق شده‌اند.",
+            "ارتش بحرین از رهگیری و انهدام چندین حمله هوایی منتسب به ت-ه-ر-ا-ن در آسمان این کشور خبر داد.",
+            "این رخدادها نشان‌دهنده افزایش سطح تنش و ریسک‌های امنیتی در آب‌های راهبردی منطقه است."
+        ],
+        "impact": "افزایش فوری ریسک کشتیرانی در خلیج فارس و احتمال جهش قیمت نفت در بازارهای جهانی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Khabarwalay",
+        "url": "https://khabarwalay.com/2026/11/15/iran-reports-tanker-fires-as-bahrain-intercepts-aerial-attacks/",
+        "clean_url": "https://khabarwalay.com/2026/11/15/iran-reports-tanker-fires-as-bahrain-intercepts-aerial-attacks",
+        "image": "https://i0.wp.com/khabarwalay.com/wp-content/uploads/2026/11/Iran-reports-tanker-fires-as-Bahrain-intercepts-aerial-attacks.jpg?resize=780,470&ssl=1",
+        "timestamp": 1794752460.0
+    },
+    {
         "id": "e30f64179c",
         "title_fa": "یائیر گولان: نتانیاهو برای بقا به دنبال جنگ با ایران است",
         "title_en": "Yair Golan rules out unity with Benjamin Netanyahu, warns of Iran war for his survival",
@@ -5505,23 +5524,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCYVRxVHdXS2I0WWlWam93NzhydHhvZnRPWUN6ZEZySlF1WGp6a1JDWVNPal9hVmFYbEdNWlVyclgwN0lOZC1hZVR6Z2R1M3pUQW5LRjRZSlVYZndYaDNzbDVtNEF5UmZwbFNoNzB4NnNzSnJQdkpDM9IBfkFVX3lxTE52RGRYcHhoaW9LZFhuZHc4N2ZocFVUcGZlYXZSM21ZYmR2a25odXBneUo5ZW5tNnZ1SEFOdzZNLS1pYXhtai1kd2cxTUI4SjIyd2trTF9BWk9nVVEzak9UYmRMWHZPMmpOZWhOUnplei1yUlNEbDVrUlhTd25tZw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794406495.0
-    },
-    {
-        "id": "dbb22d1865",
-        "title_fa": "پافشاری تهران بر حفظ مواد هسته‌ای غنی‌شده",
-        "title_en": "Iran \"will not give up\" on enriched uranium, nor on a deal with the US",
-        "summary": [
-            "محسن رضایی اعلام کرد که ایران حتی یک اتم از اورانیوم غنی‌شده خود را به خارج از کشور منتقل نخواهد کرد.",
-            "تهران این تصمیم قطعی را به مسکو نیز اعلام کرده است، در حالی که روسیه پیش‌تر به عنوان مقصد احتمالی ذخایر هسته‌ای ایران مطرح شده بود."
-        ],
-        "impact": "بسته شدن مسیر هرگونه توافق موقت هسته‌ای که نیازمند خروج اورانیوم غنی‌شده از کشور باشد.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "CNA",
-        "url": "https://www.cna.al/english/kosova-bota/irani-nuk-leshon-pe-per-uraniumin-e-pasuruar-as-per-nje-marreveshje--i479731",
-        "clean_url": "https://www.cna.al/english/kosova-bota/irani-nuk-leshon-pe-per-uraniumin-e-pasuruar-as-per-nje-marreveshje--i479731",
-        "image": "https://media.cna.al/cna.al/media3/-1200-630-1794400620xcapturejpg-590.jpg",
-        "timestamp": 1794404160.0
     }
 ]
