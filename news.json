@@ -37,6 +37,24 @@
         "timestamp": 1794707947.0
     },
     {
+        "id": "7f7ca655dc",
+        "title_fa": "تداوم بن‌بست دیپلماتیک؛ عدم تماس نمایندگان اروپا با مسکو",
+        "title_en": "Europe's negotiators have not yet contacted Russia — Kremlin",
+        "summary": [
+            "کرملین اعلام کرد تیم مذاکره‌کننده اروپا شامل نمایندگان آلمان، فرانسه و بریتانیا هنوز هیچ ارتباطی با مسکو نگرفته‌اند.",
+            "عدم برقراری تماس نشان می‌دهد اروپایی‌ها هنوز به استراتژی مشخصی برای آغاز گفتگو دست نیافته‌اند."
+        ],
+        "impact": "تثبیت بن‌بست سیاسی میان غرب و روسیه و تداوم بلاتکلیفی در کانال‌های دیپلماتیک.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2218239",
+        "clean_url": "https://tass.com/politics/2218239",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261115/1493101.jpg",
+        "timestamp": 1794702780.0
+    },
+    {
         "id": "abad916c6e",
         "title_fa": "توقف گفت‌وگوهای بازرسی هسته‌ای ایران در سایه تهدیدهای نظامی",
         "title_en": "Iran Is Playing with Fire: It Told the UN Nuclear Watchdog It Will Not Discuss Inspections While Trump Threatens Strikes",
@@ -202,6 +220,25 @@
         "timestamp": 1794683100.0
     },
     {
+        "id": "68072a4dd5",
+        "title_fa": "تلاش سپاه برای بازسازی چهره بسیج زیر چتر «جانفدا»",
+        "title_en": "Iran’s Janfada campaign gives Basij recruitment a patriotic banner",
+        "summary": [
+            "سپاه پاسداران برای جبران ریزش نیرو و سرپوش نهادن بر سوابق سرکوب‌های خیابانی، پویش جدیدی با ظاهر میهن‌پرستانه راه‌اندازی کرده است.",
+            "فرمانده سپاه تهران از تشکیل و تجهیز اولین گردان این طرح برای آموزش‌های رزمی و تیراندازی خبر داده است.",
+            "حاکمیت قصد دارد با سوءاستفاده از احساسات ملی، جوانان را به بدنه نیروهای امنیتی تزریق کند."
+        ],
+        "impact": "تلاش دستگاه امنیتی برای جذب نیروی جدید سرکوب تحت پوشش شعارهای ملی‌گرایانه.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611151752",
+        "clean_url": "https://www.iranintl.com/en/202611151752",
+        "image": "http://www.bing.com/th?id=ONUT.dt7klagQuFdwYKKdXS59wQ&pid=News",
+        "timestamp": 1794682800.0
+    },
+    {
         "id": "c48cc6167e",
         "title_fa": "کاهش قیمت نفت و صعود بورس‌های آسیا با امید به کاهش تنش‌ها",
         "title_en": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
@@ -326,6 +363,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions/ar-AA2hs4Ag",
         "image": "http://www.bing.com/th?id=ONUT.rdLaepuOJfnAWX6uQgqIpA&pid=News",
         "timestamp": 1794675600.0
+    },
+    {
+        "id": "da10ef38c1",
+        "title_fa": "تحرک در کنگره برای محدودسازی اختیارات جنگی علیه ایران",
+        "title_en": "Massie offers Republicans a 'life boat from MAGA' over Iran war",
+        "summary": [
+            "توماس مسی نماینده کنگره در حال جمع‌آوری رأی برای قطعنامه‌ای است که اختیارات کاخ سفید را در درگیری نظامی با ایران محدود می‌کند.",
+            "نتایج انتخابات میان‌دوره‌ای باعث شده برخی جمهوری‌خواهان از مواضع تند نظامی فاصله بگیرند."
+        ],
+        "impact": "افزایش چالش‌های داخلی واشنگتن در صورت تصمیم به تشدید رویارویی نظامی با ایران.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/massie-offers-republicans-a-life-boat-from-maga-over-iran-war/ar-AA2hsjmb",
+        "clean_url": "https://www.msn.com/en-us/news/other/massie-offers-republicans-a-life-boat-from-maga-over-iran-war/ar-AA2hsjmb",
+        "image": "http://www.bing.com/th?id=ONUT.pwXXW1G1CBW7DKjLEeIqzw&pid=News",
+        "timestamp": 1794672705.0
     },
     {
         "id": "125db9aab1",
@@ -5465,60 +5520,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/midterms-gas-prices-nuclear-threat-103126447.html",
         "image": "https://s.yimg.com/lo/mysterio/api/33a9378c12b84f0816bedc453cd44981154d0c8ce2a5ca57eae86b3572530ecb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freal_clear_politics_947%2Fbfbe4d5603d42612f61acfee5c076371.jpg",
         "timestamp": 1794364260.0
-    },
-    {
-        "id": "3d49d6d782",
-        "title_fa": "یخ‌زدگی مدارس و بحران انرژی در کشور",
-        "title_en": "Students shiver in classrooms as Iran government warns of gas cuts",
-        "summary": [
-            "دانش‌آموزان در کلاس‌های فاقد سیستم گرمایشی و با پتو سر کلاس حاضر می‌شوند.",
-            "سخنگوی دولت از احتمال قطع گاز خبر داده اما بر باز بودن اجباری مدارس اصرار دارد."
-        ],
-        "impact": "تشدید نارضایتی عمومی خانواده‌ها از ناکارآمدی دولت در مدیریت بحران انرژی.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611112981",
-        "clean_url": "https://www.iranintl.com/en/202611112981",
-        "image": "http://www.bing.com/th?id=ONUT.Vg1nBRn_A4IgwA4sU55uuw&pid=News",
-        "timestamp": 1794363660.0
-    },
-    {
-        "id": "1df363fcfd",
-        "title_fa": "خط‌ونشان تازه تل‌آویو؛ جنگ بعدی با ایران متفاوت خواهد بود",
-        "title_en": "Israel prepares for another war with Iran, warns next conflict could look very different",
-        "summary": [
-            "نهادهای نظامی اسرائیل رسماً از آمادگی برای دور جدید تقابل با ج.ا خبر داده و هشدار دادند سناریوی درگیری بعدی هیچ شباهتی به حملات محدود قبلی ندارد.",
-            "تغییر لحن مقامات تل‌آویو نشان می‌دهد که هدف در دور جدید، ضربات شگفت‌انگیز، گسترده و متمرکز بر زیرساخت‌های حیاتی و هسته‌ای خواهد بود."
-        ],
-        "impact": "بالا رفتن بی‌سابقه احتمال درگیری مستقیم نظامی و تغییر قواعد بازی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YUndVLWVrMzlBbHpta0o4Z0s4MndjMFpHUWJ0WW9xZ1JKNHVsUWVaT1hXQldjNnBLSDlVLW1nN21mbVRxWGxUQlVocXo4cWpGTDJTMDhn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YUndVLWVrMzlBbHpta0o4Z0s4MndjMFpHUWJ0WW9xZ1JKNHVsUWVaT1hXQldjNnBLSDlVLW1nN21mbVRxWGxUQlVocXo4cWpGTDJTMDhn",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794360440.0
-    },
-    {
-        "id": "712fd11c6d",
-        "title_fa": "دور زدن تحریم‌های آمریکا؛ ارتش چین به تراشه‌های پیشرفته انویدیا رسید",
-        "title_en": "Chinese university bought Nvidia H200 chips despite US blacklist",
-        "summary": [
-            "یک دانشگاه وابسته به ارتش چین موفق شد ماه گذشته تراشه‌های قدرتمند H200 انویدیا را با دور زدن تحریم‌های صادراتی واشنگتن بخرد.",
-            "شبکه‌های مخفی خرید پکن همچنان راهکارهای موثری برای بهره‌گیری از خلاءهای نظارتی وزارت بازرگانی آمریکا دارند.",
-            "دستیابی نظامیان چین به این چیپ‌ها مستقیماً توان پردازش هوش مصنوعی ارتش این کشور را ارتقا می‌دهد و واکنش تندتر کنگره را به همراه خواهد داشت."
-        ],
-        "impact": "آمریکا ناچار به تشدید سخت‌گیری‌ها و مسدودسازی مسیرهای قاچاق قطعات پیشرفته خواهد شد.",
-        "tag": "فناوری",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
-        "clean_url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11",
-        "image": "http://www.bing.com/th?id=ONUT.yqaG-Cj5eGEkw_oeWTHFFg&pid=News",
-        "timestamp": 1794360240.0
     }
 ]
