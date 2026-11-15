@@ -382,6 +382,24 @@
         "timestamp": 1794743700.0
     },
     {
+        "id": "b9bc97a8cb",
+        "title_fa": "بازداشت جویندگان کار پس از تجمع در جنوب کشور",
+        "title_en": "Five job seekers arrested after protest at oil company in southwestern Iran",
+        "summary": [
+            "اعتراضات معیشتی کارگران و جویندگان کار در مناطق نفت‌خیز با سرکوب و بازداشت فوری نیروهای امنیتی مواجه شده است.",
+            "چرخه اعتراضات از سال نودوهشت تا موج‌های جدید، ریشه در بحران عمیق اقتصادی و ناکارآمدی ساختاری دارد."
+        ],
+        "impact": "افزایش جو امنیتی در مراکز صنعتی و نفتی برای جلوگیری از گسترش اعتراضات صنفی",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611150264",
+        "clean_url": "https://www.iranintl.com/en/202611150264",
+        "image": "http://www.bing.com/th?id=ONUT.dMBo20vhRSun8d3OVxtr2A&pid=News",
+        "timestamp": 1794741060.0
+    },
+    {
         "id": "91bd7808f4",
         "title_fa": "حمله پهپادی به بحرین و رادار آمریکا؛ آژیر خطر در منامه به صدا درآمد",
         "title_en": "BREAKING: Iran Strikes Bahrain again; US Radar 'Hit' In Drone Attack; 'Stay Inside' Warning Issued",
@@ -5504,23 +5522,5 @@
         "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/just-like-us-iran-has-squandered-its-good-options-end-war-2026-11-12",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794433800.0
-    },
-    {
-        "id": "fbc1a748af",
-        "title_fa": "تغییر دکترین هسته‌ای جـمـهـورۍ اِسـلـامـی پس از حملات",
-        "title_en": "After the strikes, Iran rethinks the nuclear threshold",
-        "summary": [
-            "برنامه هسته‌ای جـمـهـورۍ اِسـلـامـی هنوز پابرجا مانده و از میز مذاکرات خارج است.",
-            "با حذف علی خامنه‌ای، فتوای محرومیت از تسلیحات اتمی عملاً بی‌اثر شده و بحث ساخت بمب دوباره روی میز آمده است."
-        ],
-        "impact": "افزایش فشارها برای عبور از آستانه هسته‌ای و تشدید چالش‌های امنیتی منطقه.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/532071/After-the-strikes-Iran-rethinks-the-nuclear-threshold",
-        "clean_url": "https://www.tehrantimes.com/news/532071/After-the-strikes-Iran-rethinks-the-nuclear-threshold",
-        "image": "https://media.mehrnews.com/d/2026/11/11/4/6258084.jpg?ts=1794420167974",
-        "timestamp": 1794432840.0
     }
 ]
