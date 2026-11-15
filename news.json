@@ -401,6 +401,24 @@
         "timestamp": 1794734195.0
     },
     {
+        "id": "1c80c14f10",
+        "title_fa": "فشار مسکو بر آژانس برای محکومیت حملات به زاپروژیا",
+        "title_en": "Russian diplomat calls on IAEA chief to tell Kiev that attacks on ZNPP are unacceptable",
+        "summary": [
+            "نماینده روسیه در آژانس، خواستار موضع‌گیری صریح‌تر گروسی علیه حملات اوکراین به نیروگاه زاپروژیا شد.",
+            "مسکو معتقد است آژانس بین‌المللی انرژی اتمی در مهار اقدامات اوکراین ناتوان است و باید لحن تندتری اتخاذ کند."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک در آژانس اتمی و احتمال تشدید درگیری‌ها در اطراف تاسیسات هسته‌ای.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2218369",
+        "clean_url": "https://tass.com/politics/2218369",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1794732840.0
+    },
+    {
         "id": "526a8763ae",
         "title_fa": "حمله به پایگاه بحرین و سیگنال هم‌زمان تهران به واشنگتن",
         "title_en": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open",
@@ -5502,24 +5520,5 @@
         "clean_url": "https://energynews.pro/en/canada-reinstates-sanctions-on-eleven-iranian-entities-linked-to-nuclear-activities",
         "image": "https://img.energynews.pro/articles/6d4faec9218113ad.webp",
         "timestamp": 1794416580.0
-    },
-    {
-        "id": "6d9b4ae337",
-        "title_fa": "فشار حداکثری ترامپ با تحریم و بلوک دریایی",
-        "title_en": "Trump vows ‘total victory’ as Iran rejects concessions and threatens wider war",
-        "summary": [
-            "ترامپ از رویکرد حفظ وضعیت موجود و ادامه فشارها علیه حکومت ای-ران دفاع کرد.",
-            "مارکو روبیو تاکید کرد که تحریم‌ها و محاصره دریایی اقتصاد حکومت را به شدت تضعیف کرده است.",
-            "کشورهای حاشیه خلیج فارس نگران طولانی شدن این تنش‌ها و تهدید امنیت منطقه‌ای هستند."
-        ],
-        "impact": "افزایش فشار اقتصادی و ارزی بر ج-مهوری اس-لامی بدون نیاز به درگیری نظامی گسترده",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611122691",
-        "clean_url": "https://www.iranintl.com/en/202611122691",
-        "image": "http://www.bing.com/th?id=ONUT.mNG1b6uNTwbN8-ynANWNrQ&pid=News",
-        "timestamp": 1794415260.0
     }
 ]
