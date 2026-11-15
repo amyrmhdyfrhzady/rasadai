@@ -273,6 +273,24 @@
         "timestamp": 1794676380.0
     },
     {
+        "id": "244bdf3687",
+        "title_fa": "وال‌استریت ژورنال: برآورد ۲۵۰۰ موشک ایران و اختلاف با اظهارات ترامپ",
+        "title_en": "US figures Iran still has up to 2,500 missiles, countering Trump assertions",
+        "summary": [
+            "بر اساس گزارش وال‌استریت ژورنال، برآوردهای ایالات متحده حاکی از آن است که ایران همچنان تا ۲۵۰۰ موشک در اختیار دارد و این آمار با اظهارات دونالد ترامپ متفاوت است.",
+            "این رسانه گزارش داده است که روند بازسازی ذخایر موشکی تهران به یکی از عوامل مطرح در بحث‌های دولت ترامپ برای تصمیم‌گیری درباره ازسرگیری حملات تبدیل شده است."
+        ],
+        "impact": "برآوردهای جدید آمریکا از توان موشکی ایران مستقیماً بر بررسی‌های دولت ترامپ درباره احتمال ازسرگیری اقدامات نظامی اثر می‌گذارد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions/ar-AA2hs4Ag",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions/ar-AA2hs4Ag",
+        "image": "http://www.bing.com/th?id=ONUT.rdLaepuOJfnAWX6uQgqIpA&pid=News",
+        "timestamp": 1794675600.0
+    },
+    {
         "id": "125db9aab1",
         "title_fa": "ارجاع گزارش تفنگ‌های پینت‌بال به مقامات فدرال کانادا",
         "title_en": "Canadian MP to flag paintball gun findings after Iran protest blindings",
@@ -5503,23 +5521,5 @@
         "clean_url": "https://www.radiofarda.com/a/israel-knesset-tensions-eisenkot-cancels-likud-talks/33895163.html",
         "image": "https://gdb.rferl.org/978B0731-07AD-470E-A2BA-BE6A4666B23C.jpg",
         "timestamp": 1794357840.0
-    },
-    {
-        "id": "5528f2d201",
-        "title_fa": "اعتراف پزشکیان به شکست دیپلماسی تهدید آمریکا",
-        "title_en": "Iran war live: Pezeshkian says US using 'mother of all bombs' for diplomacy",
-        "summary": [
-            "مسعود پزشکیان اعلام کرد واشنگتن با تکیه بر ابزارهای نظامی پیشرفته، دیپلماسی زور را علیه تهران پیش می‌برد.",
-            "همزمان کنگره آمریکا طرح استیضاح وزیر دفاع کابینه ترامپ را به دلیل اختلافات حزبی مسدود کرد."
-        ],
-        "impact": "افزایش تنش‌های لفظی میان مقامات ارشد دو کشور همزمان با چرخش واشنگتن به سمت سیاست‌های سخت‌گیرانه‌تر.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2017-04-13T000000Z_938669184_RC127AD5C0F0_RTRMADP_3_USA-AFGHANISTAN-BOMB-1792072217.jpg?resize=1200%2C675",
-        "timestamp": 1794355260.0
     }
 ]
