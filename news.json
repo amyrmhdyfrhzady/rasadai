@@ -18,6 +18,24 @@
         "timestamp": 1794715032.0
     },
     {
+        "id": "8d43e53fc2",
+        "title_fa": "خویشتن‌داری مشروط رئیس‌جمهور آمریکا در قبال ایران به گزارش دان",
+        "title_en": "US president may hold fire on Iran unless provoked",
+        "summary": [
+            "روزنامه دان (Dawn) گزارش داده که رئیس‌جمهور آمریکا احتمالاً تا زمانی که تحریک نشود، از اقدام نظامی علیه ایران خودداری می‌کند.",
+            "طبق این گزارش، تصمیم واشنگتن برای وارد نشدن به درگیری مستقیم، به پرهیز از اقدامات تنش‌زا از سوی طرف مقابل گره خورده است."
+        ],
+        "impact": "بر اساس گزارش دان، این رویکرد احتمال درگیری فوری را به رفتارهای میدانی و تحرکات آتی طرفین وابسته می‌کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3ZmUXJkMUNoaTNyNUVOaVh0NE1iVmc4OG5mTm9mQXVuejJQU0dGTDQ1UHNsTnFHcDNqTkNrWmdPZm1GQ3MyU3lTU0xzRjFNOHdzSnBuQ0NjNGRTMGMtTUN2NVE1bHBkUUFfQjVwM2puVWVpWmdJVnh1QUZxQmFNbVRGZzhYVjlpREZCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3ZmUXJkMUNoaTNyNUVOaVh0NE1iVmc4OG5mTm9mQXVuejJQU0dGTDQ1UHNsTnFHcDNqTkNrWmdPZm1GQ3MyU3lTU0xzRjFNOHdzSnBuQ0NjNGRTMGMtTUN2NVE1bHBkUUFfQjVwM2puVWVpWmdJVnh1QUZxQmFNbVRGZzhYVjlpREZCZw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794711565.0
+    },
+    {
         "id": "5789a54395",
         "title_fa": "جک کین در فاکس‌نیوز: تحریم به‌تنهایی باعث سـقـوط نمی‌شود",
         "title_en": "Gen Jack Keane warns sanctions alone might not collapse Iran’s regime",
@@ -5500,24 +5518,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTMwLTRPRTZsZHJPR0lQTVNtNHdyWWxZNHMydXJzUjEySVZIZzJfUFlvbXZfQWJPc25aSm5kM3lzNmxFMFVMdFl3NTZLZWVjZnZPaTFyWjZtcl9peGd6ZlpDU2hnQmxDVFBLRlF1cVR3U2QwR2R4dWRRNEFDaDBzSTY2YUFWZEsyZ3dIOGQwX2tudV81a1pRRXQtVzl0TWYw",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794367989.0
-    },
-    {
-        "id": "bc7dbf88cc",
-        "title_fa": "بحران قطعی گاز در راه است",
-        "title_en": "Iran warns of domestic gas shortages from war this winter",
-        "summary": [
-            "دولت جـ.ـمهوری اسـ.ـلامی رسماً درباره کمبود شدید گاز در زمستان پیش رو هشدار داد.",
-            "آسیب به تاسیسات فرآوری گاز در تنش‌های اخیر با آمریکا، شبکه توزیع را به آستانه فلج شدن رسانده است.",
-            "قطعی گسترده گاز در ماه‌های سرد سال می‌تواند اعتراضات عمومی را به شدت شعله‌ور کند."
-        ],
-        "impact": "فلج شدن صنایع و قطعی گسترده انرژی در زمستان پیش رو.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/iran-warns-domestic-gas-shortages-war-this-winter-2026-11-11/",
-        "clean_url": "https://www.reuters.com/business/energy/iran-warns-domestic-gas-shortages-war-this-winter-2026-11-11",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794367140.0
     }
 ]
