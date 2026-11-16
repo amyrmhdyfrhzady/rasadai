@@ -1,5 +1,24 @@
 [
     {
+        "id": "2d995cf97c",
+        "title_fa": "هشدار واشنگتن درباره فروپاشی شتابان ریال و انزوای مقامات",
+        "title_en": "Iran says claims of plots against US officials are part of Israeli campaign",
+        "summary": [
+            "مقایسه شتاب سقوط ریال با فروپاشی اقتصادی شوروی سابق، ابعاد واقعی و خفه‌کننده فشار مالی علیه تهران را نشان می‌دهد.",
+            "تحریم‌های پروازی و مالی، ارتباط تشکیلات حـاکمیت را با بیرون قطع کرده و آن‌ها را در پناهگاه‌های خود محبوس ساخته است.",
+            "عدم درک مسئولان از بحران‌های کمرشکن جامعه، شکاف میان مردم و ساختار قدرت را به اوج رسانده است."
+        ],
+        "impact": "تشدید شتاب سقوط ارزش پول ملی و ایجاد هراس در بازار ارز.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.85,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202611164631",
+        "clean_url": "https://www.iranintl.com/en/202611164631",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ee79acfac4a3f03bd3f1d99e1c3f03606b83c469-553x800.jpg?rect=0,85,553,290&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794822600.0
+    },
+    {
         "id": "edd8b08ef0",
         "title_fa": "پیش‌بینی بسنت از افت ۲۵ درصدی ریال و انزوای مقامات",
         "title_en": "Shipping firm sold vessel below value to Shamkhani sons, Iranian outlet says",
@@ -5492,23 +5511,5 @@
         "clean_url": "https://www.chicagotribune.com/2026/11/12/us-attorney-testimony-broadview-six",
         "image": "http://www.bing.com/th?id=ONUT.9GmnH76rgS8agjozEGQ4ew&pid=News",
         "timestamp": 1794490440.0
-    },
-    {
-        "id": "b69f335872",
-        "title_fa": "تاوان سنگین کشورهای حوزه خلیج فارس از درگیری‌ها",
-        "title_en": "Gulf countries bore the brunt of Tehran's wrath after the United States and Israel launched attacks on Iran on February 28, triggering the war. Link to the full story in the comments section.",
-        "summary": [
-            "حملات آمریکا و اسرائیل به خاک تــران در ۲۸ فوریه، آغازگر موج جدیدی از جنگ در منطقه شد.",
-            "کشورهای حاشیه خلیج فارس بیشترین هزینه و خشم تــران را به دلیل این تحولات متحمل شدند."
-        ],
-        "impact": "افزایش شدید ناامنی و ریسک اقتصادی برای کشورهای عربی حوزه خلیج فارس همزمان با تنش‌های نظامی.",
-        "tag": "منطقه‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYTBGcVVZcTNOME5rOVhXZlZ1V2l4TnBCd28yLWhCYWc5ZDFEU2RqYW5uRThuN3hTVllfbVBKbU03ZnZKYlQweWVxVnk4dXc1Z2ZPbWVwcVNYZmhRX0cyQ2lhUmQzWHVEYnBwMm1wYnYyQTRTMGdtQzQxXzFsdk1HTDE1NEVuVjV0VWdoNkswdzg4Z1JTblBST3NTYVd6aTdmc1M4S3JhRlFkUnJ2MmxUbUF3X0FncXJIQTRnRl9XMXBFNElwbHg5SndkdnM5ZkppSUVLUXBPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYTBGcVVZcTNOME5rOVhXZlZ1V2l4TnBCd28yLWhCYWc5ZDFEU2RqYW5uRThuN3hTVllfbVBKbU03ZnZKYlQweWVxVnk4dXc1Z2ZPbWVwcVNYZmhRX0cyQ2lhUmQzWHVEYnBwMm1wYnYyQTRTMGdtQzQxXzFsdk1HTDE1NEVuVjV0VWdoNkswdzg4Z1JTblBST3NTYVd6aTdmc1M4S3JhRlFkUnJ2MmxUbUF3X0FncXJIQTRnRl9XMXBFNElwbHg5SndkdnM5ZkppSUVLUXBPdw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794488586.0
     }
 ]
