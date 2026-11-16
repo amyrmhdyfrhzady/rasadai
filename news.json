@@ -38,6 +38,25 @@
         "timestamp": 1794826680.0
     },
     {
+        "id": "a94f5d37cf",
+        "title_fa": "فروپاشی اقتصاد ا... ایران شبیه فروپاشی شوروی",
+        "title_en": "Paris to present evidence of IRGC cyberattack on supermarket fridges to EU ministers",
+        "summary": [
+            "اسکات بسنت پیش‌بینی کرد ارزش ریال تا سال ۲۰۲۷ حدود ۲۵ درصد دیگر سقوط کند.",
+            "مقام‌های ارشد حاکمیت در پناهگاه‌ها مخفی شده‌اند و از بحران خیابان بی‌خبرند.",
+            "محدودیت‌های شدید پروازی و مسافرتی، مهره‌های کلیدی حکومت را کاملاً ایزوله کرده است."
+        ],
+        "impact": "تشدید فشار اقتصادی بی‌سابقه و انسداد کامل مراودات خارجی مقامات رژیم",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611161148",
+        "clean_url": "https://www.iranintl.com/en/202611161148",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/f8a1307393f3fdcd587a1773ea226fc493174170-6880x4576.jpg?rect=0,482,6880,3612&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794824580.0
+    },
+    {
         "id": "c5f99b3dd6",
         "title_fa": "استقرار ناو روزولت در خاورمیانه؛ پرسش الجزیره درباره جنگ",
         "title_en": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
@@ -5492,23 +5511,5 @@
         "clean_url": "https://www.politico.com/news/2026/11/12/trump-cuban-done-before-leaving-office-01163875",
         "image": "http://www.bing.com/th?id=ONUT.lCB7R5cLHQI2EU8WzvLjlQ&pid=News",
         "timestamp": 1794496500.0
-    },
-    {
-        "id": "79e93c139e",
-        "title_fa": "بحران امنیتی انویدیا و سایه سنگین جنگ با ای-ران",
-        "title_en": "Spy scandal / Hegseth’s future / Are we still at war with Iran?",
-        "summary": [
-            "پرونده جاسوسی مرتبط با چین، غول فناوری انویدیا را درگیر بحران امنیت ملی کرده است.",
-            "شکست طرح استیضاح رئیس پنتاگون، ابهام‌ها درباره وضعیت تنش‌های نظامی با حکومت تهران را بیشتر کرده است."
-        ],
-        "impact": "ترکیب چالش‌های فناوری و امنیتی، فشار بر دولت آمریکا را افزایش داده است.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-6037560/spy-scandal-hegseths-future-are-we-still-at-war-with-iran",
-        "clean_url": "https://www.npr.org/2026/11/12/nx-s1-6037560/spy-scandal-hegseths-future-are-we-still-at-war-with-iran",
-        "image": "http://www.bing.com/th?id=ONUT.N2wYim4Svz8biiEPCJSXhg&pid=News",
-        "timestamp": 1794496320.0
     }
 ]
