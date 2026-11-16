@@ -220,6 +220,24 @@
         "timestamp": 1794846720.0
     },
     {
+        "id": "28eace133d",
+        "title_fa": "سردرگمی وزارت دارایی اسرائیل از زمان‌بندی قطع کمک‌های نظامی آمریکا",
+        "title_en": "Finance Ministry officials tell Knesset they still don't know when US military aid will cease, after Trump announcement",
+        "summary": [
+            "مقام‌های ارشد وزارت دارایی در کمیسیون مالی کنست اعتراف کردند که هیچ پیش‌آگاهی درباره تصمیم واشنگتن برای قطع کمک‌های نظامی نداشته‌اند.",
+            "زمان دقیق اجرای این تصمیم مبهم است و مشخص نیست که آیا کمک‌ها بلافاصله قطع می‌شود یا تا پایان توافق کنونی در سال ۲۰۲۸ ادامه خواهد داشت."
+        ],
+        "impact": "ایجاد چالش در برنامه‌ریزی‌های بلندمدت بودجه دفاعی اسرائیل هم‌زمان با فشارهای سیاسی جدید.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/finance-ministry-officials-tell-knesset-they-still-dont-know-when-us-military-aid-will-cease-after-trump-announcement/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/finance-ministry-officials-tell-knesset-they-still-dont-know-when-us-military-aid-will-cease-after-trump-announcement",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261116CG300.jpg",
+        "timestamp": 1794846480.0
+    },
+    {
         "id": "5a02c33abc",
         "title_fa": "مذاکرات تمام‌روزه واشنگتن و تهران",
         "title_en": "Trump Says US Held ‘All-Day Negotiation’ With Iran on Tuesday",
@@ -5506,23 +5524,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbm9JbU5idzFOWHhrYXhxTDdhbzNqTjV6U3pSaW1QT3Jxb0VYR3h5TG1vSWNoWjFsUHJGMGFsT2lOMGxTTXYtbXdmZEdWZXlmSmRybmVOSmZJZW44OHF1VVBfbW9hdXVHbnJxRUx5ay1iMWxjTVlJdkRIZzhsOUl0ek95QWNDblRxSTl0cmhVN3ViMmZGSE5NRXZWdGJkd3ZU",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794553456.0
-    },
-    {
-        "id": "201dd009f0",
-        "title_fa": "شوک قیمتی سیاست‌های انرژی روی میز دموکرات‌ها",
-        "title_en": "Democrats enter their 'sticker shock' moment",
-        "summary": [
-            "تمرکز دموکرات‌ها بر انرژی پاک ممکن است پیش از کاهش هزینه‌ها، تورم و قیمت‌ها را بالا ببرد.",
-            "تحلیلگران انرژی درباره ریسک نارضایتی عمومی از هزینه‌های زندگی هشدار داده‌اند."
-        ],
-        "impact": "افزایش فشار اقتصادی بر دموکرات‌ها به دلیل هزینه‌های بالای انتقال انرژی.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/11/13/the-danger-facing-democrats-energy-promises-time-01161592",
-        "clean_url": "https://www.politico.com/news/2026/11/13/the-danger-facing-democrats-energy-promises-time-01161592",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794553200.0
     }
 ]
