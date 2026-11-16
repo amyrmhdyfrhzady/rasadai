@@ -657,6 +657,24 @@
         "timestamp": 1794824219.0
     },
     {
+        "id": "ec57ef9747",
+        "title_fa": "حمله ترامپ به سی‌بی‌اس به دلیل تحریف اخبار دفاعی مقابل ای-ران",
+        "title_en": "Trump criticizes '60 Minutes' bosses as 'even worse' as he challenges Iran war report",
+        "summary": [
+            "دونالد ترامپ برنامه ۶۰ دقیقه را به حذف عمدی پیروزی‌های دفاعی ایالات متحده در برابر پهپادهای فرستاده شده از سوی ج-م-ه-و-ر-ی ا-س-لا-م-ی متهم کرد.",
+            "این انتقاد تند بار دیگر تمرکز رسانه‌ها را به سمت نبردهای پنهان و روایت‌های رسانه‌ای پیرامون توانمندی‌های پهپادی نیروهای نیابتی کشاند."
+        ],
+        "impact": "این افشاگری فشار رسانه‌ای بر سیاست‌های امنیتی دولت آمریکا در قبال تهدیدات پهپادی را افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-criticizes-60-minutes-bosses-as-even-worse-as-he-challenges-iran-war-report/ar-AA2hyPa6",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-criticizes-60-minutes-bosses-as-even-worse-as-he-challenges-iran-war-report/ar-AA2hyPa6",
+        "image": "http://www.bing.com/th?id=ONUT.6FJ3NlrC0-apNr19mi0L8Q&pid=News",
+        "timestamp": 1794823033.0
+    },
+    {
         "id": "2d995cf97c",
         "title_fa": "هشدار واشنگتن درباره فروپاشی شتابان ریال و انزوای مقامات",
         "title_en": "Iran says claims of plots against US officials are part of Israeli campaign",
@@ -5507,23 +5525,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal",
         "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/24/b879ec6e-4079-4e01-abd0-f89f63ff4c01/thumbnail/1200x630/5d43f7f6c8725252539e8f52741a47f6/iran-iaea-isfahan-101916459.jpg",
         "timestamp": 1794546120.0
-    },
-    {
-        "id": "8729f47a04",
-        "title_fa": "هدف‌گیری صرافی‌ها و شبکه‌های ارز دیجیتال مرتبط با ج.ا توسط آمریکا",
-        "title_en": "U.S. Targets Digital Asset Providers Funding Iran - VOA",
-        "summary": [
-            "آمریکا با شناسایی صرافی‌ها و فعالان ارز دیجیتال مرتبط با تهران، مسیرهای جدید دور زدن تحریم‌های بانکی را مسدود کرد.",
-            "این اقدام مستقیم، کانال‌های مالی مخفیانه برای انتقال پول به گروه‌های نیابتی در منطقه را تحت فشار شدید قرار می‌دهد."
-        ],
-        "impact": "افزایش شدید ریسک مبادلات رمزارزی برای رژیم و مسدودتر شدن شریان‌های مالی سپاه.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "VOA - Voice of America English News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG82TnFDWEhjLTlsNW9OVGJ4R1RoWkRKVVlLTTRBOGxLU1dfbWlxTEhQc3Q0WU9vamsxZjgzUldvdUlPRHprejhnMUxoU0labGoyUS1sTXlTZFY4Q1gyQzNLX3RORTlEaWJYNWw5cjBHMndGbkgyLXRZU0V4TE1ZZU52aEZMM2V0XzdNMlloY202cVAzblk40gGXAUFVX3lxTFB4bzZOcUNYSGMtOWw1b05UYnhHVGhaREpVWUtNNEE4bEtTV19taXFMSFBzdDRZT29qazFmODNSV291SU9Eemt6OGcxTGhTSVpsajJRLWxNeVNkVjhDWDJDM0tfdE5FOURpYlg1bDlyMEcyd0ZuSDItdFlTRXhMTVllTnZoRkwzZXRfN00yWWhjbTZxUDNuWTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG82TnFDWEhjLTlsNW9OVGJ4R1RoWkRKVVlLTTRBOGxLU1dfbWlxTEhQc3Q0WU9vamsxZjgzUldvdUlPRHprejhnMUxoU0labGoyUS1sTXlTZFY4Q1gyQzNLX3RORTlEaWJYNWw5cjBHMndGbkgyLXRZU0V4TE1ZZU52aEZMM2V0XzdNMlloY202cVAzblk40gGXAUFVX3lxTFB4bzZOcUNYSGMtOWw1b05UYnhHVGhaREpVWUtNNEE4bEtTV19taXFMSFBzdDRZT29qazFmODNSV291SU9Eemt6OGcxTGhTSVpsajJRLWxNeVNkVjhDWDJDM0tfdE5FOURpYlg1bDlyMEcyd0ZuSDItdFlTRXhMTVllTnZoRkwzZXRfN00yWWhjbTZxUDNuWTg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794546000.0
     }
 ]
