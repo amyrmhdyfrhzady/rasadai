@@ -505,6 +505,25 @@
         "timestamp": 1794829980.0
     },
     {
+        "id": "673548ff0e",
+        "title_fa": "سرکوب خونین در جزیره کیش و روایت یک مجروح",
+        "title_en": "Iran's foreign minister arrives in Muscat as talks with mediators continue",
+        "summary": [
+            "جزیره کیش برخلاف ظاهر تفریحی‌اش، در دی‌ماه صحنه سرکوب مرگبار نیروهای امنیتی بوده است.",
+            "یک شهروند ۲۵ ساله با ثبت بیش از ۱۰۰ ساچمه در سر و صورت، روایت‌گر خشونت عریان ماموران است.",
+            "ترس از بازداشت باعث شده مصدومان ماه‌ها بدون درمان پزشکی و در مخفیگاه زندگی کنند."
+        ],
+        "impact": "افشای ابعاد جدیدی از گستره سرکوب‌های حکومتی حتی در مناطق دور از مرکز و تفریحی.",
+        "tag": "حقوق بشر",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611166290",
+        "clean_url": "https://www.iranintl.com/en/202611166290",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1794828180.0
+    },
+    {
         "id": "ce71db80de",
         "title_fa": "تشدید درگیری‌های یمن و انفجار نفتکش‌ها در تنگه هرمز",
         "title_en": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
@@ -5505,24 +5524,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/something-strange-is-happening-to-donald-trump-he-is-betting-the-iran-war-on-a-blockade-his-own-navy-cannot-sustain/ar-AA2hn7sY",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794545764.0
-    },
-    {
-        "id": "96c0ececbb",
-        "title_fa": "زلزله درون‌حزبی دموکرات‌ها؛ ون‌هلن به جنگ شومر رفت",
-        "title_en": "Live updates: Potential 2028 Democratic contenders discuss what’s next after the party’s midterm victories",
-        "summary": [
-            "کریس ون‌هلن رسماً برای رهبری اکثریت سنا نامزد شد تا چالش بی‌سابقه‌ای را مقابل چاک شومر کلید بزند.",
-            "شکستن سنت‌های چنددهه‌ای دموکرات‌ها نشان‌دهنده فشار بدنه حزب برای تغییر چهره‌های سنتی است.",
-            "دیوان عالی آمریکا بررسی طرح ترامپ برای ممنوعیت ادعاهای پناهندگی را پذیرفت."
-        ],
-        "impact": "آغاز جنگ قدرت در سنا و تغییر احتمالی در معادلات رهبری حزب دموکرات.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-midterm-elections-nvidia-live-updates-rcna609111",
-        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-midterm-elections-nvidia-live-updates-rcna609111",
-        "image": "http://www.bing.com/th?id=ONUT.sbBkh3S8C2Yu1Rdsr1XNlQ&pid=News",
-        "timestamp": 1794544680.0
     }
 ]
