@@ -1,5 +1,23 @@
 [
     {
+        "id": "cd0f6cfb1b",
+        "title_fa": "بسته شدن پرونده دولت وحدت ملی در اسرائیل",
+        "title_en": "Report: Senior official in Eisenkot bloc says likelihood of unity government now down to zero",
+        "summary": [
+            "یک مقام ارشد نزدیک به جبهه آیزنکوت از به صفر رسیدن احتمال تشکیل دولت وحدت با لیکود خبر داد.",
+            "حوادث اخیر در ساختار سیاسی اسرائیل از سوی این جناح به شدت محکوم شده و آن را تلاش برای کودتا توصیف کرده‌اند."
+        ],
+        "impact": "افزایش بی‌ثبات سیاسی و دور شدن چشم‌انداز ائتلاف در تل‌آویو.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/report-senior-official-in-eisenkot-bloc-says-likelihood-of-unity-government-now-down-to-zero/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/report-senior-official-in-eisenkot-bloc-says-likelihood-of-unity-government-now-down-to-zero",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261110CG552-1-e1794438183957.jpg",
+        "timestamp": 1794857340.0
+    },
+    {
         "id": "750d9688d7",
         "title_fa": "فعال شدن پدافند هوایی در اصفهان به گزارش جروزالم پست",
         "title_en": "Air defenses activated in Iran's Isfahan, site of uranium-enrichment plant",
@@ -5505,23 +5523,5 @@
         "clean_url": "https://www.iranintl.com/en/202611131705",
         "image": "http://www.bing.com/th?id=ONUT.MLRl3B_8ZFEmudwNV8RokA&pid=News",
         "timestamp": 1794542340.0
-    },
-    {
-        "id": "c4cb81b84c",
-        "title_fa": "درخواست آژانس اتمی از ایران برای بازگشایی تاسیسات هسته‌ای",
-        "title_en": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-        "summary": [
-            "بر اساس گزارش الجزیره، آژانس بین‌المللی انرژی اتمی به عنوان دیده‌بان هسته‌ای سازمان ملل از ایران خواست تاسیسات هسته‌ای خود را برای انجام بازرسی‌ها بازگشایی کند.",
-            "آژانس بین‌المللی انرژی اتمی در گزارش خود اعلام کرده که نمی‌تواند وجود یا عدم وجود مواد هسته‌ای در یک تاسیسات زیرزمینی غنی‌سازی در ایران را راستی‌آزمایی کند."
-        ],
-        "impact": "طبق اعلام آژانس بین‌المللی انرژی اتمی، نبود دسترسی به این سایت زیرزمینی مانع از راستی‌آزمایی وضعیت مواد هسته‌ای در آن می‌شود.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/other/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection/ar-AA2hn1wX",
-        "clean_url": "https://www.msn.com/en-us/news/other/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection/ar-AA2hn1wX",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794541917.0
     }
 ]
