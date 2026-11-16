@@ -18,6 +18,26 @@
         "timestamp": 1794848625.0
     },
     {
+        "id": "b4b3aab41b",
+        "title_fa": "پیش‌بینی فروپاشی اقتصادی ج.ا مشابه شوروی سابق",
+        "title_en": "Iran official blames US, Israel for economic hardship and January protests",
+        "summary": [
+            "اسکات بسنت، مشاور اقتصادی، سقوط ۲۵ درصدی ارزش ریال در سال آینده را پیش‌بینی کرد.",
+            "مقایسه وضعیت فعلی اقتصاد ایران با فروپاشی شوروی نشان‌دهنده عمق بحران است.",
+            "مقامات ارشد در پناهگاه‌های زیرزمینی از واقعیت‌های تلخ جامعه بی‌خبر مانده‌اند.",
+            "انزوای بین‌المللی و محدودیت‌های مسافرتی، حلقه محاصره را برای مسئولان تنگ‌تر کرده است."
+        ],
+        "impact": "سقوط آزاد ارزش پول ملی و تشدید انزوای سیاسی، فروپاشی ساختار حاکمیت را تسریع می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611166572",
+        "clean_url": "https://www.iranintl.com/en/202611166572",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1794846720.0
+    },
+    {
         "id": "f095e52829",
         "title_fa": "هشدار مقام آمریکایی درباره سقوط آزاد ریال ایران",
         "title_en": "Iran speaker links Lebanon to Tehran talks in call with counterpart",
@@ -5505,24 +5525,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-netanyahu-israel-strikes-gaza-iran-warning-saudi-houthi-attack-latest-news/liveblog/135781341.cms",
         "image": "http://www.bing.com/th?id=ONUT.OrlAqwJDszHD0CwgoSaKUg&pid=News",
         "timestamp": 1794530520.0
-    },
-    {
-        "id": "9c4a639e4f",
-        "title_fa": "سنتکام شایعه حمله قریب‌الوقوع به ایران را تکذیب کرد",
-        "title_en": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’",
-        "summary": [
-            "فرماندهی مرکزی آمریکا (سنتکام) ادعای رسانه‌های اسرائیلی درباره احتمال آغاز دوباره جنگ با ایران را «گمانه‌زنی محض» خواند و آن را رد کرد.",
-            "واشنگتن با این تکذیب سریع نشان داد که در شرایط فعلی تمایلی به ورود به یک درگیری نظامی مستقیم و پیش‌بینی‌نشده در منطقه ندارد.",
-            "این موضع‌گیری تلاشی برای مهار جنگ روانی تل‌آویو و جلوگیری از تنش‌زایی کنترل‌نشده است."
-        ],
-        "impact": "فروکش کردن موقت هیجانات جنگی در منطقه و کنترل نوسانات روانی بازار.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUjF6LXZDY2RSWG1xT2xMQ1R6WWowNEJvcTctckR5SGxFZEFoa3RjTUMzMzRrOWJkeXQtbU5mb05oWndIT1VrUVR1dTJBQ2VfbXBVc0RvU3dxUFdOcS1RYmFRMi15OW93a3h2YWVZSm56Q2NmYS04UEVVR3J1SjRFTWs1WV9wM1pDRlFnQjcwS1VkbFFDdExoNlV0cEwxeGhYWGoyOTNZa3hibk4yN2dBMzMzOS03czdTMjk5WDVWa1V6SWtuU1dlTzUyVGw1c1hPS0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUjF6LXZDY2RSWG1xT2xMQ1R6WWowNEJvcTctckR5SGxFZEFoa3RjTUMzMzRrOWJkeXQtbU5mb05oWndIT1VrUVR1dTJBQ2VfbXBVc0RvU3dxUFdOcS1RYmFRMi15OW93a3h2YWVZSm56Q2NmYS04UEVVR3J1SjRFTWs1WV9wM1pDRlFnQjcwS1VkbFFDdExoNlV0cEwxeGhYWGoyOTNZa3hibk4yN2dBMzMzOS03czdTMjk5WDVWa1V6SWtuU1dlTzUyVGw1c1hPS0E",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794526136.0
     }
 ]
