@@ -36,6 +36,24 @@
         "timestamp": 1794785607.0
     },
     {
+        "id": "63be24690b",
+        "title_fa": "حملات سایبری به زیرساخت‌های غرب همزمان با افزایش تنش با ایران",
+        "title_en": "FAA Shutdown, European Cyberattacks Expose Infrastructure Risks as Iran Tensions Rise",
+        "summary": [
+            "اختلال در سیستم‌های هوانوردی آمریکا و حملات گسترده سایبری به اروپا، آسیب‌پذیری شدید زیرساخت‌های حیاتی غرب را آشکار کرد.",
+            "همزمانی این اختلالات با اوج‌گیری تنش‌های منطقه‌ای، احتمال پاسخ تلافی‌جویانه در حوزه سایبری و جنگ خاکستری را به شدت بالا برده است."
+        ],
+        "impact": "افزایش سطح هشدار امنیتی در زیرساخت‌های حمل‌ونقل و انرژی غربی.",
+        "tag": "سایبری",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Media Line",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGRqSVd0YUg0bi1jUUUwNW51cjlwMzIwN1V3VFJ1RUUtVkcxTWRzZXpmbFJJWExHWUpRdklERDlGdG9VVWMwQ2p0SlU4dkZVWUM0YTdDQW9hdi01Y3pwcTNUUUlVXzlkSFZNVHowZE55QjRjNVRhcDBWYTlrR2RxWHNOZjZ0TERUMVRuM1NhSVNieDRzcFVSOUF0enVnZjNGN1ZDV2NwUUtTd29DblYwb3RYSVQ3RkxFNHJsQTg4NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGRqSVd0YUg0bi1jUUUwNW51cjlwMzIwN1V3VFJ1RUUtVkcxTWRzZXpmbFJJWExHWUpRdklERDlGdG9VVWMwQ2p0SlU4dkZVWUM0YTdDQW9hdi01Y3pwcTNUUUlVXzlkSFZNVHowZE55QjRjNVRhcDBWYTlrR2RxWHNOZjZ0TERUMVRuM1NhSVNieDRzcFVSOUF0enVnZjNGN1ZDV2NwUUtTd29DblYwb3RYSVQ3RkxFNHJsQTg4NA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794783079.0
+    },
+    {
         "id": "484373ad2a",
         "title_fa": "گزارش میدل ایست آی: ربایش و قتل ژنرال ایرانی در ترکیه",
         "title_en": "Mossad abducted Iranian general in Turkey, tortured him for weeks before killing him: Report",
@@ -5493,24 +5511,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XbXc3Tmt2dC1ZMzZvQ3RuSnJZVEFRemhFbVJhYUE3cVN0OVJSZ3BxTDF0UVdGSkVKeFRiY090eXVOb1ZhODkteTJpVENXNy1oOXhBbU1ZRV9RUG5BLUJHNFBPVjFsZkNC",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794466831.0
-    },
-    {
-        "id": "92b89a7dd4",
-        "title_fa": "استعفای غافلگیرکننده جنسن هوانگ از مدیرعاملی انویدیا",
-        "title_en": "Nvidia announces change in leadership, Huang resigns",
-        "summary": [
-            "جنسن هوانگ از سمت مدیرعاملی و ریاست انویدیا کناره‌گیری کرد.",
-            "کولت کرس، مدیر مالی شرکت، به عنوان مدیرعامل موقت انتخاب شد.",
-            "این تغییر ناگهانی در غول تراشه‌سازی جهان، بازارهای تکنولوژی را در شوک فرو برد."
-        ],
-        "impact": "تزلزل در ارزش سهام انویدیا و ایجاد ابهام در آینده هوش مصنوعی.",
-        "tag": "تکنولوژی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2217263",
-        "clean_url": "https://tass.com/economy/2217263",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261112/1492877.jpg",
-        "timestamp": 1794466560.0
     }
 ]
