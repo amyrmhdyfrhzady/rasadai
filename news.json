@@ -1,5 +1,23 @@
 [
     {
+        "id": "f1e37ab6b0",
+        "title_fa": "آینده ج.ا در سایه انتخابات آمریکا و تقابل با اسرائیل",
+        "title_en": "Between Israel and US elections: Will the Iranian regime survive?",
+        "summary": [
+            "همزمانی انتخابات آمریکا و تنش‌های بی‌سابقه با اسرائیل، بقای حاکمیت را به نقطه جوش رسانده است.",
+            "فشار حداکثری احتمالی در دولت آینده آمریکا در کنار ضربات نظامی اسرائیل، توان بازسازی اقتصادی و نظامی را از تهران سلب می‌کند."
+        ],
+        "impact": "افزایش بی‌ثباتی سیاسی و فروپاشی احتمالی ساختار قدرت در صورت تداوم فشارهای خارجی.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YbGtDcVVzcW4tWXFRYWVMUlBKVkdPcjFUdV9uWC1qZWY1bi1GMXVObmQ0VlRNc2JWZzF0eEh0N3dqOE0tNjN1NDVvSjd6RWFCRGpRYkVLSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YbGtDcVVzcW4tWXFRYWVMUlBKVkdPcjFUdV9uWC1qZWY1bi1GMXVObmQ0VlRNc2JWZzF0eEh0N3dqOE0tNjN1NDVvSjd6RWFCRGpRYkVLSQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794837600.0
+    },
+    {
         "id": "1931526dd3",
         "title_fa": "بستن درهای نظارت اتمی؛ تهران در پی پنهان‌کاری نظامی",
         "title_en": "Iran rules out nuclear site inspections until war ends",
@@ -5499,23 +5517,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/sen-chris-van-hollen-says-he-will-challenge-sen-chuck-schumer-for-majority-leader/ar-AA2hkeqA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794506591.0
-    },
-    {
-        "id": "5536bf0754",
-        "title_fa": "گزارش وال‌استریت ژورنال: حملات سایبری ایران علیه اهداف فیزیکی",
-        "title_en": "Iran’s new cyber playbook: create real-world havoc",
-        "summary": [
-            "به گزارش وال‌استریت ژورنال، تهران تلاش‌های خود را برای ایجاد اختلال در دنیای واقعی از طریق فضای سایبری تشدید کرده است.",
-            "بر اساس این گزارش، حملات جدید بر هدف قرار دادن تانکرها و یخچال‌هایی متمرکز شده است که از حفاظت امنیتی ضعیفی برخوردارند."
-        ],
-        "impact": "به نوشته وال‌استریت ژورنال، آسیب‌پذیری تجهیزات کم‌دفاع ریسک بروز اختلال و خسارت فیزیکی مستقیم را افزایش می‌دهد.",
-        "tag": "سایبری",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-new-cyber-playbook-create-real-world-havoc/ar-AA2hkGm8",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-new-cyber-playbook-create-real-world-havoc/ar-AA2hkGm8",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794502800.0
     }
 ]
