@@ -351,6 +351,25 @@
         "timestamp": 1794804982.0
     },
     {
+        "id": "61aea47dfe",
+        "title_fa": "افزایش درگیری‌های نظامی میان ایالات متحده و ج.ا در منطقه",
+        "title_en": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+        "summary": [
+            "حملات هوایی متقابل میان ارتش آمریکا و نیروهای وابسته به ج.ا در منطقه وارد مرحله تازه‌ای شده است.",
+            "انفجار نفت‌کش‌ها در تنگه هرمز و حمله پهپادی به پایگاه آمریکا در بحرین، ریسک درگیری تمام‌عیار را به شدت بالا برده است.",
+            "استقرار ناوهای هواپیمابر جدید آمریکا در منطقه نشان‌دهنده آمادگی برای پاسخ نظامی سنگین است."
+        ],
+        "impact": "تشدید تنش‌ها می‌تواند امنیت آبراه حیاتی تنگه هرمز و بازار جهانی انرژی را به شدت مختل کند.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/us-iran-slide-closer-fresh-115908665.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-iran-slide-closer-fresh-115908665.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/a9dc55b697f724a14ce149c5882636e99498db85c28a0bf78efd6948aec05d02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_uk_articles_973%2F6b641a22719ddb28dc446dcd80f4e1d4.jpg",
+        "timestamp": 1794802860.0
+    },
+    {
         "id": "3715d7b9df",
         "title_fa": "حمله پهپادی جدید به پایگاه نظامی آمریكا",
         "title_en": "Iran launches new drone strikes toward U.S. base",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iLUVJYlFDMl9NVmlLc0V2QmU4VVJWZ0x2SlFuMWQ0d0gwdGNjQUY0MVZwSmdZVWEzZklZR0xTVWlicmp6VjFIbDF3eU55SlVIeTFyUUVJczNTdFY4QXdIT0NnQUpJVTk4TlE",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794498274.0
-    },
-    {
-        "id": "c68b1406b3",
-        "title_fa": "سیگنال هسته‌ای مسکو به کشورهای غربی",
-        "title_en": "Rosatom does not rule out building NPPs in unfriendly countries under certain conditions",
-        "summary": [
-            "روسیه با وجود تحریم‌ها، هنوز به دنبال معامله اتمی با اروپا است تا وابستگی انرژی آن‌ها را دائمی کند.",
-            "این چراغ سبز نشان می‌دهد کرملین برای خروج از انزوای اقتصادی، روی دیپلماسی هسته‌ای حساب ویژه‌ای باز کرده است."
-        ],
-        "impact": "تلاش برای باز کردن شکاف در جبهه متحد غرب علیه روسیه از طریق پروژه‌های بلندمدت.",
-        "tag": "انرژی",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2217275",
-        "clean_url": "https://tass.com/economy/2217275",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1794496560.0
     }
 ]
