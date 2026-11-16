@@ -38,6 +38,26 @@
         "timestamp": 1794846720.0
     },
     {
+        "id": "09340821c5",
+        "title_fa": "پیش‌بینی بسنت درباره افت ریال و واکنش مقام نظامی ایران",
+        "title_en": "Iran won't let Americans feel they have won, military official says",
+        "summary": [
+            "بر اساس گزارش ایران اینترنشنال، یک مقام نظامی ایران اعلام کرد که به آمریکایی‌ها اجازه نخواهند داد احساس پیروزی کنند.",
+            "بسنت در مصاحبه با فاکس‌نیوز پیش‌بینی کرد ارزش ریال بین مارس ۲۰۲۶ تا مارس ۲۰۲۷ حدود ۲۵ درصد کاهش یابد و سرعت این افت را از بحران اقتصادی پس از پایان اتحاد جماهیر شوروی سریع‌تر توصیف کرد.",
+            "به گفته بسنت، شرایط اقتصادی فشار بر ساختار سیاسی و نظامی ایران را افزایش داده، اما مقام‌های ارشد در پناهگاه‌های زیرزمینی از وضعیت واقعی جامعه بی‌خبرند.",
+            "او همچنین مدعی شد محدودیت‌ها و قرنطینه هوایی آمریکا، مقام‌های ایرانی را در انزوای کامل قرار داده و مانع سفر آن‌ها به شهرهایی مانند لندن و پاریس شده است."
+        ],
+        "impact": "تداوم فشارهای اقتصادی و محدودیت‌های پروازی آمریکا می‌تواند هم‌زمان بر ارزش پول ملی ایران و توان تردد بین‌المللی مقام‌های آن اثر بگذارد.",
+        "tag": "تحریم و ارز",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611163556",
+        "clean_url": "https://www.iranintl.com/en/202611163556",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/465064f834b656a8e802e655457c5f5382fa95c8-1080x839.jpg?rect=0,137,1080,567&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794845520.0
+    },
+    {
         "id": "f095e52829",
         "title_fa": "هشدار مقام آمریکایی درباره سقوط آزاد ریال ایران",
         "title_en": "Iran speaker links Lebanon to Tehran talks in call with counterpart",
@@ -5505,25 +5525,5 @@
         "clean_url": "https://www.iranintl.com/en/202611139361",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/f43c986577b37603676828798b606b969b894ad4-1280x1039.jpg?rect=0,184,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794534480.0
-    },
-    {
-        "id": "b421b09522",
-        "title_fa": "انفجار تانکر حامل گاز در تنگه هرمز بر اثر مین دریایی",
-        "title_en": "US Iran War Live Updates: Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
-        "summary": [
-            "به گزارش رسانه‌های دولتی ایران، نیروی دریایی سپاه اعلام کرد یک تانکر حامل گاز طبیعی مایع روز جمعه در تنگه هرمز با مین دریایی برخورد کرده و منفجر شده است؛ این نیرو مدعی شد شناور مذکور از «مسیر غیرمجاز و خطرناک» عبور می‌کرده است.",
-            "رسانه‌های ایران روز پنج‌شنبه نیز گزارش دادند چهار نفتکش دیگر پس از بی‌توجهی به هشدارها و ورود به مناطق محدودشده، دچار انفجار شده‌اند.",
-            "بر اساس داده‌های مؤسسه واشنگتن برای سیاست خاور نزدیک، در ده روز نخست نوامبر دست‌کم ۱۰ کشتی هدف قرار گرفته‌اند و ماه اکتبر با ۳۷ حمله، بالاترین آمار ماهانه را از زمان آغاز جنگ آمریکا و اسرائیل با ایران در اواخر فوریه ثبت کرده است.",
-            "ادامه این حملات در شرایطی گزارش می‌شود که افزایش تردد در تنگه و گمانه‌زنی‌ها درباره کاهش تنش، پیش‌تر به افت قیمت نفت منجر شده بود."
-        ],
-        "impact": "تداوم ناامنی در گلوگاه هرمز هزینه‌های کشتیرانی را افزایش داده و ثبات بازار جهانی انرژی را تهدید می‌کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-netanyahu-israel-strikes-gaza-iran-warning-saudi-houthi-attack-latest-news/liveblog/135781341.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-netanyahu-israel-strikes-gaza-iran-warning-saudi-houthi-attack-latest-news/liveblog/135781341.cms",
-        "image": "http://www.bing.com/th?id=ONUT.OrlAqwJDszHD0CwgoSaKUg&pid=News",
-        "timestamp": 1794530520.0
     }
 ]
