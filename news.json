@@ -1,5 +1,23 @@
 [
     {
+        "id": "0268eebd36",
+        "title_fa": "بازی دوگانه تهران: تهدید پایگاه بحرین و ادعای مذاکره",
+        "title_en": "Iran targets Bahrain base but says path to US deal is open",
+        "summary": [
+            "مقام‌های نظامی ج.م.ا همزمان با نشانه‌رفتن پایگاه‌های منطقه‌ای آمریکا، پیام‌های دیپلماتیک برای توافق می‌فرستند.",
+            "این تناقض در رفتار، بخشی از تقابل فرسایشی برای کاهش فشار تحریم‌هاست."
+        ],
+        "impact": "تلاش همزمان برای بازدارندگی نظامی و التماس برای لغو تحریم‌های فلج‌کننده.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "New Hampshire Union Leader",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjN6VlVnelV1QjVjbHZuVDJ6bUVrSkhBb2NLa2dDa3phLXduZWRkR1ZGMFpOQWpFblFSMExLb2RHQXkzRGo4dzJ3M2p6dFluOFRGRUZHbWpWMGNaQnphOUV2VHNqVDRjTDdvYkFPNjdQaHhEQ0xBeDV4c2YySUpMaUpsLS0zbi16LWlnMGt6eDZya0tWUDZkeTBXQlh3LWowcHlKTmRwcDZPNDNMY24xd005cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjN6VlVnelV1QjVjbHZuVDJ6bUVrSkhBb2NLa2dDa3phLXduZWRkR1ZGMFpOQWpFblFSMExLb2RHQXkzRGo4dzJ3M2p6dFluOFRGRUZHbWpWMGNaQnphOUV2VHNqVDRjTDdvYkFPNjdQaHhEQ0xBeDV4c2YySUpMaUpsLS0zbi16LWlnMGt6eDZya0tWUDZkeTBXQlh3LWowcHlKTmRwcDZPNDNMY24xd005cw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794867336.0
+    },
+    {
         "id": "c1605bd6f0",
         "title_fa": "آماده‌سازی پناهگاه‌های ارتش آمریکا در منطقه از ترس پاسخ ج.ه",
         "title_en": "US Army seeks 17 bunkers in Israel, Saudi, Lebanon amid Iran threats - report",
@@ -5505,23 +5523,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUd1cm1FVnVVVVRnNlNHVGRZZ21jejV5Umx3S3lZQTd1blRDOG5hSzBYR1J4T01OX0Q5OUZZbnp6aUg4T2VSM1ExVjdJY2dqYnpXOWl1YUxsbEo5dXdFRmp6TlhzLWpHaUx4X1pQVkhodkZBQnN2ZHNRaHZ2Tk1CMHJzQnpqTGtiYXIzMGhIanZiV1hzUUYzdGVJV3M4V0pGZkN1c2wzMElmME1fTUdmOA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794557876.0
-    },
-    {
-        "id": "f445dcf179",
-        "title_fa": "نوسان در وال‌استریت؛ تلاش بازار سهام برای ثبت هفته سبز",
-        "title_en": "Stocks sway as Wall Street heads heads for a winning week after several turbulent days",
-        "summary": [
-            "بازار سهام آمریکا پس از روزهای پرالتهاب ناشی از تحولات شرکت انویدیا، به دنبال ثبت اولین هفته صعودی از اکتبر است.",
-            "استعفای مدیرعامل انویدیا صنعت هوش مصنوعی را تکان داد، اما سهام این شرکت تا حدی تثبیت شد."
-        ],
-        "impact": "بازارهای مالی به رغم تنش‌های حوزه فناوری به سمت ثبات نسبی حرکت می‌کنند.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/11/13/stocks-sway-wall-street-winning-week/",
-        "clean_url": "https://www.chicagotribune.com/2026/11/13/stocks-sway-wall-street-winning-week",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/11/South_Korea_Financial_Markets_29795.jpg?w=2000&h=1333",
-        "timestamp": 1794555480.0
     }
 ]
