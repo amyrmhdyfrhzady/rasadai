@@ -1,5 +1,24 @@
 [
     {
+        "id": "f095e52829",
+        "title_fa": "هشدار مقام آمریکایی درباره سقوط آزاد ریال ایران",
+        "title_en": "Iran speaker links Lebanon to Tehran talks in call with counterpart",
+        "summary": [
+            "ارزش ریال در بازه زمانی مشخص با سرعتی بیشتر از فروپاشی شوروی در حال سقوط است.",
+            "مقام‌های ارشد حاکمیتی در پناهگاه‌ها مخفی شده‌اند و از وضعیت فاجعه‌بار جامعه بی‌خبرند.",
+            "محدودیت‌های شدید پروازی و مسافرتی، ارتباط مقامات ارشد با دنیای خارج را قطع کرده است."
+        ],
+        "impact": "تشدید فشار اقتصادی و انزوای کامل سیاسی مقامات حاکم بر ایران.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611164981",
+        "clean_url": "https://www.iranintl.com/en/202611164981",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1794844920.0
+    },
+    {
         "id": "a7552bd4bf",
         "title_fa": "حمله پهپادی سپاه به سایت راداری آمریکا در بحرین",
         "title_en": "Iran's Revolutionary Guard Sends 6 Drones at US Radar Site in Bahrain, Ending a Lull in Gulf Attacks",
@@ -5505,24 +5524,5 @@
         "clean_url": "https://www.newsquawk.com/headlines/us-market-wrap-stocks-hit-on-huang-exit-and-crude-jumps-on-fading-usiran-deal-hopes",
         "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Energy/2.png",
         "timestamp": 1794519300.0
-    },
-    {
-        "id": "4a5581656b",
-        "title_fa": "فروپاشی درآمدهای نفتی؛ جـ.ـهـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلاـ.ـمـ.ـی در بن‌بست زمان",
-        "title_en": "Why Tehran May Lose the Clock",
-        "summary": [
-            "محاسبه تـ.ـهـ.ـرـ.ـاـ.ـن روی تقویم سیاسی آمریکا اشتباه از آب درآمد و زمان به سرعت به ضرر حاکمیت ورق خورده است.",
-            "بلوکه شدن فروش نفت و سقوط صادرات به صفر، شریان حیاتی ارزی کشور را قطع کرده است.",
-            "بیش از ۲۵ میلیارد دلار درآمد نفتی از دست رفته و توان دولت برای حفظ ارزش پـ.ـوـ.ـل مـ.ـلـ.ـی نابود شده است."
-        ],
-        "impact": "فلج شدن ماشین مالی حکومت و ناتوانی در تأمین هزینه‌های جاری و ارزی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "National Council of Resistance of Iran",
-        "url": "https://www.ncr-iran.org/en/news/terrorism-a-fundamentalism/why-tehran-may-lose-the-clock/",
-        "clean_url": "https://www.ncr-iran.org/en/news/terrorism-a-fundamentalism/why-tehran-may-lose-the-clock",
-        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2026/08/iran-hormuz-strait-ships.jpg",
-        "timestamp": 1794519000.0
     }
 ]
