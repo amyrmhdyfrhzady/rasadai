@@ -1,5 +1,23 @@
 [
     {
+        "id": "3db7ed0b38",
+        "title_fa": "ورود سومین ناو هواپیمابر آمریکا به منطقه و سرپیچی اتمی تهران",
+        "title_en": "Third US Aircraft Carrier Arrives in Middle East; Iran Refuses Nuclear Inspections",
+        "summary": [
+            "پنتاگون با اعزام سومین ناو هواپیمابر، آرایش نظامی سنگینی را برای مهار هرگونه اقدام شتاب‌زده ج.ا در منطقه تکمیل کرد.",
+            "ممانعت تهران از ورود بازرسان آژانس، پرونده هسته‌ای را مستقیماً وارد فاز بحرانی و احتمال فعال‌سازی مکانیسم ماشه کرده است."
+        ],
+        "impact": "جهش ریسک درگیری نظامی مستقیم و احتمال شوک جدید به بازار ارز در تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Media Line",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXB2NHZCWXMyckVSNW1WZy03cTFxYnNWcEJ6azFsSzBRVFY1WlJNNE9ySDNBV01qZ29TMmhFdlpZX1ZDZkY0RThBcE9CcU5fRXNybXZnaU9WTWltS3o1OGhhZU1mTV9YV2ZhczlpS3U1SU50MDZ0TTZvTGdxc2UyT21pRHNuLXZkTGZaS01tRWJyYlZrd3pSdWxJSi1IdG9ZZDdtYmxjNVNlc2dVa1dwLURsVFpQQ1g3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXB2NHZCWXMyckVSNW1WZy03cTFxYnNWcEJ6azFsSzBRVFY1WlJNNE9ySDNBV01qZ29TMmhFdlpZX1ZDZkY0RThBcE9CcU5fRXNybXZnaU9WTWltS3o1OGhhZU1mTV9YV2ZhczlpS3U1SU50MDZ0TTZvTGdxc2UyT21pRHNuLXZkTGZaS01tRWJyYlZrd3pSdWxJSi1IdG9ZZDdtYmxjNVNlc2dVa1dwLURsVFpQQ1g3",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794816305.0
+    },
+    {
         "id": "dd7855d9cf",
         "title_fa": "تایمز آو اسرائیل: ممانعت ایران از بازدید بازرسان هسته‌ای",
         "title_en": "Iran says UN inspectors not allowed to visit damaged nuclear sites until war ends",
@@ -269,6 +287,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vaTFReTI3LXB0dllUN3JjQ2o0WU5YTkFFV3NiUnpSVXV5RmN0V2d6MDY2ZEpxMnRoVTFQbHBONUFTeGNkYUdMR1VKblREZHA3QWc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794787594.0
+    },
+    {
+        "id": "a21cbf9c3b",
+        "title_fa": "عقب‌نشینی عمق استراتژیک؛ مقابله کشورهای عربی با شبه‌نظامیان ج.ا",
+        "title_en": "From Iraq to Yemen, Arab states challenge Iran's militias and jihadist groups",
+        "summary": [
+            "دولت‌های منطقه به این نتیجه قطعی رسیده‌اند که امنیت و حاکمیت ملی آن‌ها با حضور گروه‌های مسلح و نیابتی ج.ا قابل جمع نیست.",
+            "تز قدیمی غرب مبنی بر «امکان مهار ولی عدم امکان شکست ایدئولوژی نیابتی‌ها» با اقدامات سخت‌گیرانه بغداد، صنعا و امان باطل شده است.",
+            "فشار بر شریان‌های مالی و عملیاتی نیروهای وابسته به تهران، دست ج.ا را در چانه‌زنی‌های منطقه‌ای خالی‌تر از قبل می‌کند."
+        ],
+        "impact": "تنگ‌تر شدن عرصه بر گروه‌های نیابتی و کاهش نفوذ منطقه‌ای ج.ا در عراق و یمن.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "YNET News",
+        "url": "https://www.ynetnews.com/opinions-analysis/article/hk2anqoagx",
+        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/hk2anqoagx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/11/By2sDU11Kzx/By2sDU11Kzx_0_133_3000_1689_0_large.jpg",
+        "timestamp": 1794787200.0
     },
     {
         "id": "3ea63d686c",
@@ -5469,42 +5506,5 @@
         "clean_url": "https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047",
         "image": "http://www.bing.com/th?id=ONUT.ianLRjqCOYHVzIEsMo9-dw&pid=News",
         "timestamp": 1794482700.0
-    },
-    {
-        "id": "95da4a64ec",
-        "title_fa": "تهدید آمریکا به «روز سرنوشت اقتصادی» علیه صادرات نفت ج.ا",
-        "title_en": "US Vows ‘Economic D-Day’ as Iran Threatens to Halt All Oil Exports",
-        "summary": [
-            "واشنگتن با ادبیات تهاجمی جدید، هرگونه تلاش برای بستن شیرهای نفت را با پاسخی کوبنده و فلج‌کننده پاسخ می‌دهد.",
-            "تهدید ج.ا به توقف صادرات نفت، در واقع اعتراف به استیصال در برابر فشارهای حداکثری و تحریم‌های نفتی است.",
-            "این تقابل نشان می‌دهد که بازار انرژی به نقطه جوش رسیده و هرگونه ماجراجویی در خلیج فارس، هزینه‌ای سنگین برای تهران خواهد داشت."
-        ],
-        "impact": "افزایش شدید قیمت جهانی نفت و احتمال فروپاشی کامل درآمدهای ارزی ج.ا در صورت عملیاتی شدن تهدیدها.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR05zZW9mVXlDNVBRemVjOGpfNkRuZUlIaVNod0JjeHlCQmJUcmdhMjBCVEVweF9NTmRocjZKYi1UZkhfV2JXT1o4eUdmZ3RMU3pPY0dmVnJZbVRYdFFGUFpob2pNTUw3MHYxVTFyYThNdDNZNF9oY3lfaWZHdHd6OUFGMXhaN2dIU1A2bUhoQV8yUDN0U3JDb09qTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR05zZW9mVXlDNVBRemVjOGpfNkRuZUlIaVNod0JjeHlCQmJUcmdhMjBCVEVweF9NTmRocjZKYi1UZkhfV2JXT1o4eUdmZ3RMU3pPY0dmVnJZbVRYdFFGUFpob2pNTUw3MHYxVTFyYThNdDNZNF9oY3lfaWZHdHd6OUFGMXhaN2dIU1A2bUhoQV8yUDN0U3JDb09qTQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794482611.0
-    },
-    {
-        "id": "c8ca6bba91",
-        "title_fa": "انتقاد نویسنده اسرائیل نشنال نیوز از راهبرد ترامپ و آمریکا",
-        "title_en": "President Trump, architect and victim of a self-inflicted wound",
-        "summary": [
-            "به نوشته مئیر جولوویتس، مدیر پیشین سازمان صهیونیستی آمریکا، در «اسرائیل نشنال نیوز»، حکومت ایران تمرکز خود را بر بقا و بهره‌برداری از خطاهای طرف مقابل گذاشته، اما به ادعای این نویسنده، ایالات متحده این موضوع را درک نکرده است.",
-            "جولوویتس در ادامه با اشاره به نتایج انتخابات میان‌دوره‌ای سوم نوامبر در آمریکا و شکست جمهوری‌خواهان، ابراز عقیده کرده که تحلیل این رویداد در آینده فراتر از توضیحات ساده‌انگارانه رسانه‌ها و شبکه‌های اجتماعی خواهد بود."
-        ],
-        "impact": "این مقاله دیدگاه یک تحلیلگر محافظه‌کار را درباره وضعیت سیاسی آمریکا پس از انتخابات میان‌دوره‌ای و رویکرد واشنگتن در قبال ایران بازتاب می‌دهد.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Israel National News",
-        "url": "https://www.israelnationalnews.com/news/436075",
-        "clean_url": "https://www.israelnationalnews.com/news/436075",
-        "image": "https://2.a7.org/files/pictures/000/1215331.jpg",
-        "timestamp": 1794482220.0
     }
 ]
