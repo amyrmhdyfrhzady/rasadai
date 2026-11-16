@@ -36,6 +36,25 @@
         "timestamp": 1794857340.0
     },
     {
+        "id": "cd28b56838",
+        "title_fa": "پیش‌بینی بسنت از سقوط ۲۵ درصدی ارزش ریال",
+        "title_en": "Iran lawmaker urges expanded land trade to counter blockade",
+        "summary": [
+            "اسکات بسنت در گفتگو با فاکس‌نیوز و به گزارش ایران‌اینترنشنال پیش‌بینی کرد ارزش ریال ایران از مارس ۲۰۲۶ تا مارس ۲۰۲۷ حدود ۲۵ درصد افت کند و سرعت این روند را سریع‌تر از سقوط اقتصادی پس از فروپاشی شوروی توصیف کرد.",
+            "به گفته بسنت، وخامت شرایط اقتصادی فشار فزاینده‌ای بر ساختار سیاسی و نظامی ایران وارد می‌کند، اما مقامات ارشد در پناهگاه‌های زیرزمینی به سر می‌برند و وضعیت بیرونی را از نزدیک لمس نمی‌کنند.",
+            "این مقام آمریکایی افزود محدودیت‌های واشنگتن و قرنطینه شدن یک خط هوایی، مقامات ایرانی را در انزوای کامل قرار داده و امکان سفر آن‌ها به شهرهایی مانند لندن و پاریس را گرفته است."
+        ],
+        "impact": "تداوم محدودیت‌های پروازی و پیش‌بینی افت شدید ریال، بر انزوای دیپلماتیک و شکنندگی بازار ارز ایران می‌افزاید.",
+        "tag": "ارز و تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611160594",
+        "clean_url": "https://www.iranintl.com/en/202611160594",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/d2a96702365667a22cebc56d0474263b331117c2-1261x733.jpg?rect=0,36,1261,662&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794853380.0
+    },
+    {
         "id": "750d9688d7",
         "title_fa": "فعال شدن پدافند هوایی در اصفهان به گزارش جروزالم پست",
         "title_en": "Air defenses activated in Iran's Isfahan, site of uranium-enrichment plant",
@@ -5505,23 +5524,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVTlBTmtCT2loX0RmV1M2TTR3cU5JdDRXNnhHbmVjc1prQzB3Um5vLWt0YXZaZXlWUlp3b2tkd2ZiazBQSi1uTkdsYU41aFdFWWRlMmlvY2EySDRZWk95d3E3cWhSUGY2SVg3elgwYW5SWFMzaDVFTXpmS1VfcGFaZU1tRHZDVXRpc1Npc2FMMlBwTzJ2Vm90VEFscUx4NHc4S0VwdnNLM2FyTkdmUGg0RVg0UkZCOW9vUklxU2JNMWF6TW1GdU4tOFlldkpjQWJMR3BVTGVFUDJZazRrUnNWT2Noa0FuV2JSeVd3MVZDb1lQTndYNHZkcUUtRlg1bTRMcXpWakRzZTFGd3RsejNZbVNqbGpKQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794542520.0
-    },
-    {
-        "id": "1574e660b0",
-        "title_fa": "آژانس اتمی: امکان تایید صلح‌آمیز بودن فعالیت‌های هسته‌ای ا… وجود ندارد",
-        "title_en": "UN agency can’t confirm Iran hasn’t diverted nuclear material from peaceful activity",
-        "summary": [
-            "گزارش محرمانه آژانس نشان می‌دهد عدم همکاری حکومت ایران نگرانی‌های جدی درباره انحراف مواد اتمی ایجاد کرده است.",
-            "بازرسان سازمان ملل خواستار بازگشت فوری به سایت‌های کلیدی بدون هیچ گونه معطلی شدند."
-        ],
-        "impact": "این گزارش فشار دیپلماتیک بر تهران را به شدت افزایش داده و مسیر را برای قطعنامه جدید هموار می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/un-agency-cant-confirm-iran-hasnt-diverted-nuclear-material-from-peaceful-activity",
-        "clean_url": "https://www.timesofisrael.com/un-agency-cant-confirm-iran-hasnt-diverted-nuclear-material-from-peaceful-activity",
-        "image": "http://www.bing.com/th?id=ONUT.7GQmkLShfpgjymeeHCy7ew&pid=News",
-        "timestamp": 1794542460.0
     }
 ]
