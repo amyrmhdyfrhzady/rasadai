@@ -202,6 +202,25 @@
         "timestamp": 1794773450.0
     },
     {
+        "id": "ec0cc8b06c",
+        "title_fa": "بن‌بست دیپلماتیک؛ تهران پاسخ‌های آمریکا را غیرعملی خواند",
+        "title_en": "US' responses to Iran's terms cannot be implemented — senior Iranian diplomat",
+        "summary": [
+            "کاظم غریب‌آبادی صراحتاً اعلام کرد پاسخ‌های واشنگتن به شروط ایران ضمانت اجرایی ندارد و با این روند هیچ توافقی حاصل نمی‌شود.",
+            "تهران مدعی است آمریکا از ابزار دیپلماسی صرفاً برای خرید زمان و زمینه‌سازی برای تحریم‌ها یا اقدامات بعدی استفاده می‌کند.",
+            "اصرار طرف ایرانی بر دریافت تضمین‌های قطعی نشان می‌دهد دو طرف هنوز از حداقل‌های یک توافق پایدار فرسنگ‌ها فاصله دارند."
+        ],
+        "impact": "تداوم بلاتکلیفی در فضای مذاکرات، احتمال توافق کوتاه‌مدت را صفر کرده و فشار بر بازار ارز را حفظ می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2218397",
+        "clean_url": "https://tass.com/world/2218397",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1794773340.0
+    },
+    {
         "id": "6de63440b4",
         "title_fa": "فشار غرب بر اسرائیل برای بازگشایی مسیرهای امدادی غزه",
         "title_en": "Houthi attacks kill eight in Yemen, strike Riyadh airport and financial centre",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.foxnews.com/politics/another-trump-heavyweight-revealed-living-military-base-cabinet-roster-grows",
         "image": "http://www.bing.com/th?id=ONUT.Wjj0qQXFuKUNeF0gB3JucA&pid=News",
         "timestamp": 1794470640.0
-    },
-    {
-        "id": "678476b9b7",
-        "title_fa": "تنش شدید تلفنی ترامپ و نتانیاهو سر اختلاف درباره حمله به ایران",
-        "title_en": "Trump and Netanyahu erupt in 'shouting match from hell' over Iran war: Report",
-        "summary": [
-            "رسانه‌های اسرائیلی از جدال لفظی تند ترامپ و نتانیاهو خبر دادند؛ نتانیاهو فشار برای بازگشت به گزینه نظامی را بالا برده، در حالی که ترامپ فعلاً مسیر دیپلماسی و معامله را ترجیح می‌دهد.",
-            "با وجود تکذیب دفتر نتانیاهو، افشای این درگیری تلفنی شکاف عمیق میان واشنگتن و تل‌آویو را بر سر نحوه مواجهه با تهران علنی کرد."
-        ],
-        "impact": "تفاوت دیدگاه ترامپ و نتانیاهو می‌تواند شدت حملات پیش‌دستانه اسرائیل را کُند یا یک‌جانبه کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "MEAWW News",
-        "url": "https://news.meaww.com/trump-and-netanyahu-erupt-in-shouting-match-from-hell-over-iran-war-report",
-        "clean_url": "https://news.meaww.com/trump-and-netanyahu-erupt-in-shouting-match-from-hell-over-iran-war-report",
-        "image": "https://media.pubninja.com/articles/brand-6/covers/1794463168697_505df3127488.jpg_1200_630",
-        "timestamp": 1794470340.0
     }
 ]
