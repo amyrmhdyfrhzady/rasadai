@@ -36,6 +36,26 @@
         "timestamp": 1794863160.0
     },
     {
+        "id": "6489c3913e",
+        "title_fa": "افزایش تنش در خلیج فارس؛ حمله به کشتی و پهپادهای س-پ-ا-ه",
+        "title_en": "Ship Hit Leaving Hormuz; Iran Claims Second Bahrain Attack",
+        "summary": [
+            "هدف قرار گرفتن یک کشتی در نزدیکی تنگه هرمز، امنیت کشتیرانی را به سطح بحرانی رسانده است.",
+            "ادعای س-پ-ا-ه مبنی بر حمله پهپادی به پایگاه آمریکایی در بحرین، نشان‌دهنده تغییر استراتژی از جنگ نیابتی به درگیری مستقیم است.",
+            "سکوت پنتاگون در برابر ادعاهای س-پ-ا-ه می‌تواند به معنای بررسی دقیق ابعاد نفوذ یا بی‌اعتباری این ادعاها باشد.",
+            "کشورهای حاشیه خلیج فارس با محکوم کردن این اقدامات، نگران تبدیل شدن منطقه به میدان تسویه حساب تهران و واشنگتن هستند."
+        ],
+        "impact": "افزایش ریسک بیمه کشتی‌ها و احتمال واکنش نظامی مستقیم آمریکا در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "hngn",
+        "url": "https://www.hngn.com/articles/273810/20261116/trump-says-no-iran-deal-needed-pulls-vance-talks.htm",
+        "clean_url": "https://www.hngn.com/articles/273810/20261116/trump-says-no-iran-deal-needed-pulls-vance-talks.htm",
+        "image": "https://d.hngn.com/en/full/307713/mourners-attend-funeral-sanaa-after-reported-saudi-strikes.jpg",
+        "timestamp": 1794857640.0
+    },
+    {
         "id": "61797b35db",
         "title_fa": "توافق سیاسی در تل‌آویو و دکترین جدید واشنگتن علیه ج.ا",
         "title_en": "Likud, Yashar begin unity talks; Rubio defines US victory over Iran TV7 Israel News - 16 Nov.",
@@ -5505,24 +5525,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUnpxYnQ1NmFCcEdGeVNNTGdFd0FKSERoOVNTb0V0Q1JuVEZWZDJVVkpNZ3l4clpZN0xNX25jcDB2YzNNNXRFcW10UzhPdkVKcHlPWmVfMTFhWVZIdnFLQW5UYVluZlBPSXU5OEIwY0ZYMnVSOFNsZmk0VkxCZm9MMzAyQVlybWFoZlBra08xQXVYSkJVRW5HaWhzQllKM1hYejVwckVCWnNFQmhEQmVQQkIxM2Q4RjJRWUhhci1tSUZiVWgycl82ZGpqWUpGQnpvOEl5QXlaZXZuWXlxWEpDNUNhYVFaVE54Q3FLa2tjbndzTzNSS2JUSlNLRzkxSWFJcWNhQjZhYXo",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794554700.0
-    },
-    {
-        "id": "7a02e54523",
-        "title_fa": "هشدار آژانس اتمی درباره تاسیسات اصفهان و موضع جنجالی ترامپ",
-        "title_en": "Nuclear watchdog demands answers over Iran’s uranium plant",
-        "summary": [
-            "آژانس اتمی نسبت به وجود مواد با غنای بالا در تاسیسات اصفهان هشدار داد و خواهان شفاف‌سازی فوری شد.",
-            "دونالد ترامپ با اعلام اینکه نیازی به توافق نیست، تاکید کرد که کنترل تنگه هرمز و پول‌های بلوکه شده را در اختیار دارد.",
-            "با کنار گذاشته شدن جی‌دی ونس از مذاکرات، رویکرد دولت آمریکا در قبال پرونده هسته‌ای وارد فاز مبهمی شده است."
-        ],
-        "impact": "افزایش ریسک‌های امنیتی در منطقه و سیگنال منفی به بازارهای مالی درباره احتمال توقف دیپلماسی",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/nuclear-watchdog-demands-answers-over-152512432.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/nuclear-watchdog-demands-answers-over-152512432.html",
-        "image": "http://www.bing.com/th?id=ONUT.sNuDXe73pYcdir_Ajs42-g&pid=News",
-        "timestamp": 1794554640.0
     }
 ]
