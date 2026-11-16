@@ -1,5 +1,23 @@
 [
     {
+        "id": "750d9688d7",
+        "title_fa": "فعال شدن پدافند هوایی در اصفهان به گزارش جروزالم پست",
+        "title_en": "Air defenses activated in Iran's Isfahan, site of uranium-enrichment plant",
+        "summary": [
+            "به گزارش روزنامه جروزالم پست، سامانه‌های پدافند هوایی در شهر اصفهان فعال شده‌اند.",
+            "این رسانه تاکید کرده است که اصفهان محل استقرار تاسیسات غنی‌سازی اورانیوم به شمار می‌رود، اما جزئیات بیشتری درباره علت این رخداد در متن خبر نیامده است."
+        ],
+        "impact": "گزارش فعال‌شدن پدافند در نزدیکی مراکز هسته‌ای، سطح حساسیت امنیتی و توجه رسانه‌ای به وضعیت منطقه را افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQay00cGVfdjctSEM2bGFhN0tRLXFVM1pSQ1pTbWF6UXFIZkQ5YThIZHU2X0J0Q2ROT25kZHVGT1pGLTNPLXRGbjFBT18taTZoZlJUZ2Z0cmx4TDRuczBLdkkzeUdmdjNUVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQay00cGVfdjctSEM2bGFhN0tRLXFVM1pSQ1pTbWF6UXFIZkQ5YThIZHU2X0J0Q2ROT25kZHVGT1pGLTNPLXRGbjFBT18taTZoZlJUZ2Z0cmx4TDRuczBLdkkzeUdmdjNUVUE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794852164.0
+    },
+    {
         "id": "d0868efec4",
         "title_fa": "حملات هوایی به سایت‌های مـوشـکـی جـمـهـوری اسـلامـی",
         "title_en": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
@@ -5505,23 +5523,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794538260.0
-    },
-    {
-        "id": "036d0aa0c0",
-        "title_fa": "برنامه ه*ته‌ای ایران؛ کلید اصلی پایان یا گسترش جنگ منطقه‌ای",
-        "title_en": "Iran’s nuclear programme holds the key to ending the war",
-        "summary": [
-            "پرونده ه*ته‌ای تهران دیگر یک موضوع صرفاً دیپلماتیک نیست، بلکه به محور اصلی در معادلات جنگ و صلح خاورمیانه تبدیل شده است.",
-            "هرگونه توافق یا تصادم نظامی بر سر تاسیسات ه*ته‌ای، تکلیف باقی جبهه‌های نبرد منطقه را روشن خواهد کرد."
-        ],
-        "impact": "سرنوشت پرونده ه*ته‌ای مستقیم‌ترین عامل در تعیین سطح درگیری‌های نظامی و قیمت بازار انرژی است.",
-        "tag": "ه*ته‌ای",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/irans-nuclear-programme-holds-the-key-to-ending-the-war-14059826.html",
-        "clean_url": "https://www.firstpost.com/opinion/irans-nuclear-programme-holds-the-key-to-ending-the-war-14059826.html",
-        "image": "http://www.bing.com/th?id=ONUT.L0wusl98fUrf_w6He01DAQ&pid=News",
-        "timestamp": 1794537300.0
     }
 ]
