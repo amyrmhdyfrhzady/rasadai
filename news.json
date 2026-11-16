@@ -92,6 +92,24 @@
         "timestamp": 1794846720.0
     },
     {
+        "id": "5a02c33abc",
+        "title_fa": "مذاکرات تمام‌روزه واشنگتن و تهران",
+        "title_en": "Trump Says US Held ‘All-Day Negotiation’ With Iran on Tuesday",
+        "summary": [
+            "دونالد ترامپ از انجام یک دور گفتگوی فشرده تمام‌روزه میان ایالات متحده و جمهوری اسلامی خبر داد.",
+            "این تماس‌ها در سایه تهدیدهای تحریمی و فشارهای حداکثری واشنگتن پیگیری می‌شود."
+        ],
+        "impact": "آغاز احتمالی کانال‌های دیپلماتیک پنهان برای مهار تنش‌ها و کنترل قیمت نفت.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYXZQMF9TcE93aUN3cThCemwxS25BZGRPWmFDaDZGYjlzb3pteVp0ZHhuakRmSXNxbm55YXBmTlBWVzFTYzNleGgzcEFldndiWEd3MDV2aEswcnRfYWtFUENKRmpqQ2dId2lncWFoMkNoMkFfcEdZZmxCMmxmWkl3V2ozVGRTTzF0bHRWNFcxdkY0djJY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYXZQMF9TcE93aUN3cThCemwxS25BZGRPWmFDaDZGYjlzb3pteVp0ZHhuakRmSXNxbm55YXBmTlBWVzFTYzNleGgzcEFldndiWEd3MDV2aEswcnRfYWtFUENKRmpqQ2dId2lncWFoMkNoMkFfcEdZZmxCMmxmWkl3V2ozVGRTTzF0bHRWNFcxdkY0djJY",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794845955.0
+    },
+    {
         "id": "09340821c5",
         "title_fa": "پیش‌بینی بسنت درباره افت ریال و واکنش مقام نظامی ایران",
         "title_en": "Iran won't let Americans feel they have won, military official says",
@@ -5505,23 +5523,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection/ar-AA2hn1wX",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794541917.0
-    },
-    {
-        "id": "10b47cf32f",
-        "title_fa": "ادعای ایران درباره حمله به رادار آمریکا در بحرین",
-        "title_en": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack",
-        "summary": [
-            "به گزارش روزنامه جروزالم پست، ایران مدعی شده است که یک رادار ایالات متحده در بحرین را هدف حمله قرار داده است.",
-            "بر اساس همین گزارش، این اقدام تلافی‌جویانه در واکنش به حمله به مرکز مخابراتی سیریک عنوان شده است."
-        ],
-        "impact": "طرح این ادعا از سوی ایران به نقل از جروزالم پست، بر بالا گرفتن تنش‌های نظامی و تقابل مستقیم در منطقه دلالت دارد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZWhoaVp5V1BxSWw2MC1OU21JR0xpMVhxeHBuaWFCak9tZlFwN2ZXdHItWnQ1Mk5iRExJdWpFLTJEMklfMC15ZXFwNnNpN3hlY1laUkUxdWhKQ0FuMXVTUjZVc2RCaWEzNXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZWhoaVp5V1BxSWw2MC1OU21JR0xpMVhxeHBuaWFCak9tZlFwN2ZXdHItWnQ1Mk5iRExJdWpFLTJEMklfMC15ZXFwNnNpN3hlY1laUkUxdWhKQ0FuMXVTUjZVc2RCaWEzNXc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794539617.0
     }
 ]
