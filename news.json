@@ -1,5 +1,23 @@
 [
     {
+        "id": "b58955b86d",
+        "title_fa": "سفر وزیر خارجه ج.ا به پاکستان و عمان همزمان با غرق شدن نفتکش",
+        "title_en": "Iran foreign minister to visit Pakistan, Oman as supertanker sinks in Gulf",
+        "summary": [
+            "وزیر امور خارجه ج.ا راهی پاکستان و عمان شد تا رایزنی‌های منطقه‌ای انجام دهد.",
+            "همزمانی این سفر با خبر غرق شدن یک فروند نفتکش غول‌پیکر در خلیج فارس، گمانه‌زنی‌ها درباره پیامدهای امنیتی این حادثه را افزایش داده است."
+        ],
+        "impact": "این تحولات همزمان، ضریب ناامنی مسیرهای انرژی در خلیج فارس را بالا می‌برد.",
+        "tag": "منطقه‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "China Daily",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVR2tkQ2htMlBrdk05Z3kwUTdLY3Bfak4zU1loQjM3bFVZemJUVlBHNnNodzZIbzl3V1IxVlFSZmowSHFQUDM0WkloUWV5YmhsS0lzbFFTOGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVR2tkQ2htMlBrdk05Z3kwUTdLY3Bfak4zU1loQjM3bFVZemJUVlBHNnNodzZIbzl3V1IxVlFSZmowSHFQUDM0WkloUWV5YmhsS0lzbFFTOGc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794798096.0
+    },
+    {
         "id": "17839ba00b",
         "title_fa": "بلاتکلیفی توافق واشنگتن و تهران؛ بازارهای مالی آسیا تحت فشار",
         "title_en": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed",
@@ -5493,24 +5511,5 @@
         "clean_url": "https://www.iranintl.com/en/202611121701",
         "image": "http://www.bing.com/th?id=ONUT.ZMjxvWW8ACVVTzaqr5p3HQ&pid=News",
         "timestamp": 1794471660.0
-    },
-    {
-        "id": "578f4a217c",
-        "title_fa": "استقرار مقامات ارشد دولت ترامپ در پایگاه‌های نظامی",
-        "title_en": "Another Trump heavyweight revealed to be living on military base as Cabinet roster grows",
-        "summary": [
-            "انتقال مقامات کلیدی دولت به پایگاه‌های نظامی، نشان‌دهنده سطح بالای تهدیدات امنیتی علیه کابینه ترامپ است.",
-            "تهدیدات تلافی‌جویانه از سوی ج.ا و کارتل‌های مواد مخدر، فضای امنیتی واشنگتن را به شدت نظامی کرده است.",
-            "این اقدام بی‌سابقه، نشان‌دهنده وضعیت اضطراری در ساختار حفاظتی دولت جدید آمریکا است."
-        ],
-        "impact": "افزایش تنش‌های امنیتی و احتمال واکنش‌های تند دولت ترامپ به تهدیدات خارجی.",
-        "tag": "امنیتی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/another-trump-heavyweight-revealed-living-military-base-cabinet-roster-grows",
-        "clean_url": "https://www.foxnews.com/politics/another-trump-heavyweight-revealed-living-military-base-cabinet-roster-grows",
-        "image": "http://www.bing.com/th?id=ONUT.Wjj0qQXFuKUNeF0gB3JucA&pid=News",
-        "timestamp": 1794470640.0
     }
 ]
