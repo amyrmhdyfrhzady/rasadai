@@ -54,6 +54,24 @@
         "timestamp": 1794787594.0
     },
     {
+        "id": "3ea63d686c",
+        "title_fa": "گزارش ریل‌کلیرپالیتیکس از نتایج انتخابات میان‌دوره‌ای ۲۰۲۶ آمریکا",
+        "title_en": "The Spite Election",
+        "summary": [
+            "به گزارش ریل‌کلیرپالیتیکس، رای‌دهندگان آمریکایی در انتخابات میان‌دوره‌ای ۲۰۲۶ نارضایتی آشکار خود را از رفتار دونالد ترامپ ابراز کردند.",
+            "این تحلیل تاکید می‌کند که رای‌دهندگان به عملکرد رئیس‌جمهور آمریکا در زمینه هزینه‌های زندگی و تا حدی در قبال تنش با ایران و سیاست‌های اداره مهاجرت (ICE) نمره منفی داده‌اند."
+        ],
+        "impact": "بر اساس ارزیابی ریل‌کلیرپالیتیکس، نارضایتی‌های معیشتی و انتقاد از رویکردهای داخلی و خارجی دولت، آرای انتخابات میان‌دوره‌ای ۲۰۲۶ را تحت تاثیر قرار داده است.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "RealClearPolitics",
+        "url": "https://www.realclearpolitics.com/articles/2026/11/16/the_spite_election_154686.html",
+        "clean_url": "https://www.realclearpolitics.com/articles/2026/11/16/the_spite_election_154686.html",
+        "image": "https://assets.realclear.com/images/73/730850_5_.jpeg",
+        "timestamp": 1794787200.0
+    },
+    {
         "id": "6e72cb82e9",
         "title_fa": "اعلام طرح دو روزه بازگشایی تنگه هرمز از سوی غریب‌آبادی",
         "title_en": "Gharibabadi: Iran's Two-Day Plan to Reopen Strait of Hormuz on the Table; US Must Act",
@@ -5491,25 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVVmMWg5eXhUVkMySWlSeTVRMGlBcWFJYmg3NWw4b1VQYzlTRUdBMEQ3S05HSEhzeF9ncGgzTEhtcXZIRlltMk04cE1FQ0M5a0dhRHJqMlMzNlRQS1Y1N25ZV2lVWVNhMjA0V2RmekxJNUFRWHBON1R0b3kwNS1kZHpSX3Rndw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794471879.0
-    },
-    {
-        "id": "358038b242",
-        "title_fa": "تلاش ترامپ برای توافق هسته‌ای و فشار بر ج.ا",
-        "title_en": "Iran's top clerical governing body calls for nuclear doctrine review",
-        "summary": [
-            "ترامپ در دیدار با نخست‌وزیر قطر، تمرکز اصلی خود را بر پرونده هسته‌ای ج.ا گذاشته است.",
-            "تیم ترامپ به دنبال یک دستاورد ملموس هسته‌ای است تا توجیهی برای سیاست‌های تهاجمی خود داشته باشد.",
-            "ج.ا همچنان با گروگان‌گیری پرونده هسته‌ای، به دنبال رفع تحریم‌ها و آزادسازی پول‌های بلوکه شده است.",
-            "شکاف بزرگی میان خواسته‌های ترامپ برای یک توافق بزرگ و بن‌بست فعلی در تهران وجود دارد."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و اقتصادی برای کشاندن ج.ا به میز مذاکره تحت شرایط ترامپ.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611121701",
-        "clean_url": "https://www.iranintl.com/en/202611121701",
-        "image": "http://www.bing.com/th?id=ONUT.ZMjxvWW8ACVVTzaqr5p3HQ&pid=News",
-        "timestamp": 1794471660.0
     }
 ]
