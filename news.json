@@ -1,5 +1,23 @@
 [
     {
+        "id": "0e9eb3919f",
+        "title_fa": "اعتراف رسانه‌های وابسته به سپاه به بحران‌های معیشتی",
+        "title_en": "Iran’s daily hardships find a voice in IRGC-linked media",
+        "summary": [
+            "رسانه‌های نزدیک به نهادهای نظامی ناچار شدند بخشی از فشار اقتصادی شدید بر زندگی مردم را بازتاب دهند.",
+            "شکست سیاست‌های اقتصادی دولت و گسترش نارضایتی‌ها حتی در تریبون‌های رسمی نیز غیرقابل کتمان شده است."
+        ],
+        "impact": "تشدید شکاف میان واقعیت‌های سخت زندگی جامعه و روایت‌های رسمی حکومت.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pS2J6QnJtaGpjdFluaE1rNFB2UGtuTE1EOHBaZy02OEJNR0tMdGF6WnpjNGxzSWVlOXZrTlA0V0wyaVJoVWZtcWRwRmh1ZVhrdlE?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pS2J6QnJtaGpjdFluaE1rNFB2UGtuTE1EOHBaZy02OEJNR0tMdGF6WnpjNGxzSWVlOXZrTlA0V0wyaVJoVWZtcWRwRmh1ZVhrdlE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794864480.0
+    },
+    {
         "id": "44dc33db9a",
         "title_fa": "وعده تیم ترامپ برای پایان کار جـ.ـمهوری اسـ.ـلامی تا ۲۰۲۸",
         "title_en": "JD Vance promises Iran won’t turn into ‘forever war’ — and Trump will end it by 2028",
@@ -5506,23 +5524,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/nuclear-watchdog-demands-answers-over-152512432.html",
         "image": "http://www.bing.com/th?id=ONUT.sNuDXe73pYcdir_Ajs42-g&pid=News",
         "timestamp": 1794554640.0
-    },
-    {
-        "id": "5a0e40da6e",
-        "title_fa": "هشدار واشینگتن به تل‌آویو: برای ازسرگیری جنگ با ایران آماده شوید",
-        "title_en": "Washington asks Israel to prepare for possible resumption of war with Iran",
-        "summary": [
-            "آمریکا سیگنال‌های واضحی از احتمال دور جدید درگیری‌های مستقیم و همه‌جانبه میان اسرائیل و ج‌م‌هوری اسلامی صادر کرده است.",
-            "پیام مستقیم واشینگتن نشان می‌دهد که پرونده دیپلماسی به بن‌بست رسیده و هماهنگی‌های تدافعی و تهاجمی دو طرف وارد فاز عملیاتی شده است."
-        ],
-        "impact": "افزایش فوری ریسک جنگ مستقیم در منطقه و احتمال جهش ناگهانی قیمت ارز و طلا در بازار تهران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "ANHA",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbm9JbU5idzFOWHhrYXhxTDdhbzNqTjV6U3pSaW1QT3Jxb0VYR3h5TG1vSWNoWjFsUHJGMGFsT2lOMGxTTXYtbXdmZEdWZXlmSmRybmVOSmZJZW44OHF1VVBfbW9hdXVHbnJxRUx5ay1iMWxjTVlJdkRIZzhsOUl0ek95QWNDblRxSTl0cmhVN3ViMmZGSE5NRXZWdGJkd3ZU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbm9JbU5idzFOWHhrYXhxTDdhbzNqTjV6U3pSaW1QT3Jxb0VYR3h5TG1vSWNoWjFsUHJGMGFsT2lOMGxTTXYtbXdmZEdWZXlmSmRybmVOSmZJZW44OHF1VVBfbW9hdXVHbnJxRUx5ay1iMWxjTVlJdkRIZzhsOUl0ek95QWNDblRxSTl0cmhVN3ViMmZGSE5NRXZWdGJkd3ZU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794553456.0
     }
 ]
