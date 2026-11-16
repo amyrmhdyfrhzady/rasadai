@@ -435,6 +435,25 @@
         "timestamp": 1794821400.0
     },
     {
+        "id": "fcf4299d8a",
+        "title_fa": "کاورسازی موشکی با ساخت سد؛ فاش‌شدن پشت‌پرده بحران آب",
+        "title_en": "Iran built hundreds of dams to supply secret missile bases, researchers suspect",
+        "summary": [
+            "تطبیق جغرافیایی حملات اخیر با پروژه‌های سدسازی نشان می‌دهد ساخت بسیاری از سدها و خطوط انتقال آب در مناطق پرت، نه برای تأمین نیاز مردم، بلکه جهت آبرسانی به پایگاه‌های موشکی زیرزمینی سپاه بوده است.",
+            "در حالی که میلیون‌ها ایرانی با بحران بی‌سابقه خشکسالی دست‌وپنجه نرم می‌کنند، منابع آبی کشور فدای زنده نگه‌داشتن و توسعه تاسیسات پنهان موشکی شده‌اند.",
+            "این افشاگری ثابت می‌کند سدسازی‌های بی‌رویه ده‌ها سال اخیر، قطعه‌ای از پازل توسعه زیرساخت‌های نظامی ج.ا.ا بوده است."
+        ],
+        "impact": "افشای نقش نظامی سدها، این زیرساخت‌ها را به بانک اهداف بالقوه در مواجهات بعدی تبدیل می‌کند.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/hkbo5s00afg",
+        "clean_url": "https://www.ynetnews.com/article/hkbo5s00afg",
+        "image": "http://www.bing.com/th?id=ONUT.N9HlO6zLu5QlTDASFIhkwA&pid=News",
+        "timestamp": 1794818460.0
+    },
+    {
         "id": "96eed4d6b5",
         "title_fa": "درخواست مقامات ایرانی برای تغییر سیاست هسته‌ای و ادعای برد موشکی",
         "title_en": "Iran Says Missiles Can Reach US Bases in Europe and Diego Garcia as Officials Push Nuclear Policy Shift",
@@ -5504,25 +5523,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0t4bWRRUG15cnNuS29ZYm02cVpES1FEWll3dDVtSWFKdE11a3hGVDJzVjZUWldRellYdjRLRzdRYS1HclZCYWR0SXN3cE95am9sUHR3bGl6QnpfT0Qyc3ZHT3l2dXNtMkxGLU5JVktWZnhfWkJtS214YVF4Z1VoMlRGdlA5RHZORXNNcFlBY0N5RzMwQjNEa3NydV9wSVRCMUJSYXcxcWU4cXNYSGJ4UE9Tblc4M3ZkRTdTRTRwVHhGWXhOZDRjWnQ2TURJYlYwQnc",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794520178.0
-    },
-    {
-        "id": "0e788763c7",
-        "title_fa": "جهش قیمت نفت با کاهش امید به توافق آمریکا و ایران",
-        "title_en": "US Market Wrap: Stocks hit on Huang exit and crude jumps on fading US/Iran deal hopes",
-        "summary": [
-            "به گزارش نیوزکواک، قیمت نفت خام در پی کمرنگ شدن احتمال توافق میان واشنگتن و تهران صعود کرد و دونالد ترامپ، رئیس‌جمهور آمریکا، گفت ایالات متحده نیازی به توافق با ایران ندارد.",
-            "بر اساس این گزارش، ایران از اصابت یک حمله نظامی به منطقه سیریک خبر داد و حوثی‌ها نیز اعلام کردند تاسیسات آرامکو در ریاض را با پهپاد هدف قرار داده‌اند.",
-            "هم‌زمان با افزایش ارزش دلار و افت سهام آمریکا، طلا و اوراق خزانه، نیوزکواک گزارش داد مدیرعامل انویدیا در آستانه آغاز تحقیقات درباره این شرکت استعفا داده است.",
-            "آمار اداره اطلاعات انرژی آمریکا از رشد غیرمنتظره ذخایر نفت خام، بنزین و فرآورده‌های تقطیری در کنار برداشت از ذخایر راهبردی حکایت داشت."
-        ],
-        "impact": "گزارش حملات در سیریک و ریاض همراه با موضع‌گیری ترامپ، فشار صعودی بر قیمت نفت و فشار فروش بر بورس آمریکا وارد کرد.",
-        "tag": "نفت و نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "newsquawk",
-        "url": "https://www.newsquawk.com/headlines/us-market-wrap-stocks-hit-on-huang-exit-and-crude-jumps-on-fading-usiran-deal-hopes",
-        "clean_url": "https://www.newsquawk.com/headlines/us-market-wrap-stocks-hit-on-huang-exit-and-crude-jumps-on-fading-usiran-deal-hopes",
-        "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Energy/2.png",
-        "timestamp": 1794519300.0
     }
 ]
