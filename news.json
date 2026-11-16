@@ -1,5 +1,23 @@
 [
     {
+        "id": "17839ba00b",
+        "title_fa": "بلاتکلیفی توافق واشنگتن و تهران؛ بازارهای مالی آسیا تحت فشار",
+        "title_en": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed",
+        "summary": [
+            "ابهام پیرامون سرنوشت مذاکرات یا توافق با آمریکا، پیش‌بینی بهای نفت را دشوار کرده و مستقیماً روی ارزش روپیه و اوراق قرضه هند سایه انداخته است.",
+            "اقتصادهای واردکننده انرژی در آسیا خود را برای سناریوی تداوم انسداد تحریمی و شوک‌های تورمی ناشی از تصمیمات فدرال رزرو آماده می‌کنند."
+        ],
+        "impact": "تداوم فضای تعلیق دیپلماتیک هزینه تأمین انرژی را برای اقتصادهای منطقه بالا نگه می‌دارد.",
+        "tag": "بازار مالی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVNxZjdMUWpxX0k5UFljV1NLWVhkTW5lMnE0SVVsRjlVNml3N1BCWmt2NTgwV0RGZkNYam1yQ1N3MXRjUHJLME5jZmY0dERCNGo4Rl9rZjdKZldwajhnbmlTQ25PRzE4WndhUEFoS29fZmFDWVczMUZfRFRRa21MektCU0luRGJiNllsTnZiRmZHVUN1R0kwTlJsM2dCN2hlYzJyOXk0bUZRX29XajFHRkhubzk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVNxZjdMUWpxX0k5UFljV1NLWVhkTW5lMnE0SVVsRjlVNml3N1BCWmt2NTgwV0RGZkNYam1yQ1N3MXRjUHJLME5jZmY0dERCNGo4Rl9rZjdKZldwajhnbmlTQ25PRzE4WndhUEFoS29fZmFDWVczMUZfRFRRa21MektCU0luRGJiNllsTnZiRmZHVUN1R0kwTlJsM2dCN2hlYzJyOXk0bUZRX29XajFHRkhubzk",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794792720.0
+    },
+    {
         "id": "d4555c2c0f",
         "title_fa": "ناو سوم آمریکا در راه منطقه؛ هشدار جدی درباره سقوط اقتصادی ج.ا",
         "title_en": "Third US carrier joins Iran blockade, Bessent warns of economic collapse",
@@ -5493,24 +5511,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/irans-shadow-operations-stretch-across-151049885.html",
         "image": "http://www.bing.com/th?id=ONUT.Rcjy_9iklb2zV2nJTQuffA&pid=News",
         "timestamp": 1794467340.0
-    },
-    {
-        "id": "9aa3f7ec9b",
-        "title_fa": "تغییر اولویت ترامپ: پایان مذاکره با ج.ا و تمرکز بر داخل",
-        "title_en": "Trump bluntly tells JD Vance to shift focus from Iran to targeting ‘corruption and crime’ at home",
-        "summary": [
-            "ترامپ با دستور به ونس برای توقف مذاکرات با تهران، عملاً پرونده توافق را مختومه اعلام کرد.",
-            "تأکید ترامپ بر تصاحب پول‌های بلوکه شده و کنترل تنگه هرمز، نشان‌دهنده تغییر استراتژی از دیپلماسی به فشار حداکثری است.",
-            "شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، ترامپ را به سمت بازگشت به شعارهای پوپولیستی و تمرکز بر فساد داخلی سوق داده است."
-        ],
-        "impact": "توقف هرگونه مذاکره دیپلماتیک و افزایش ریسک تنش‌های نظامی در منطقه.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/11/12/us-iran-war-trump-vance-focus/",
-        "clean_url": "https://www.bostonherald.com/2026/11/12/us-iran-war-trump-vance-focus",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2026/11/Vance_57713.jpg?w=2000&h=1333",
-        "timestamp": 1794467160.0
     }
 ]
