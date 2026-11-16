@@ -95,6 +95,25 @@
         "timestamp": 1794835320.0
     },
     {
+        "id": "48bc3b44d6",
+        "title_fa": "پیش‌بینی بسنت از سقوط ۲۵ درصدی ریال و انزوای مقامات",
+        "title_en": "Iran-backed militia earned millions from stolen Iraqi oil",
+        "summary": [
+            "به گزارش ایران اینترنشنال، بسنت در مصاحبه با فاکس‌نیوز پیش‌بینی کرد ارزش ریال ایران از مارس ۲۰۲۶ تا مارس ۲۰۲۷ حدود ۲۵ درصد کاهش یابد و سرعت این افت را با فروپاشی اقتصادی شوروی مقایسه کرد.",
+            "بسنت در این گفتگو مدعی شد بحران اقتصادی فشار بر ساختار سیاسی و نظامی ایران را افزایش داده، اما مقامات ارشد در پناهگاه‌های زیرزمینی از وضعیت واقعی جامعه فاصله گرفته‌اند.",
+            "او همچنین اظهار داشت که محدودیت‌ها و قرنطینه هوایی اعمال‌شده از سوی آمریکا، مقامات ایرانی را به‌طور کامل منزوی کرده و مانع سفر آن‌ها به شهرهایی مانند لندن و پاریس شده است."
+        ],
+        "impact": "بر اساس اظهارات بسنت، تداوم محدودیت‌های پروازی و افت سریع ارزش پول ملی، فشار اقتصادی بر ساختار حاکمیت و انزوای بین‌المللی آن را تشدید می‌کند.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611169530",
+        "clean_url": "https://www.iranintl.com/en/202611169530",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/c26c6c28005768bc8bf3ba7ebcd97624432178e7-638x481.jpg?rect=0,74,638,335&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794835140.0
+    },
+    {
         "id": "5a79ba3742",
         "title_fa": "درس‌های تاریخی ترامپ درباره حاکمیت جـمـهـوری اسـلامـی",
         "title_en": "Trump's highway of death: The 10 days that could create a Saddam 2.0",
@@ -5502,23 +5521,5 @@
         "clean_url": "https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge",
         "image": "http://www.bing.com/th?id=ONUT.PTClHVyKiTUcApp2wVpz-Q&pid=News",
         "timestamp": 1794513000.0
-    },
-    {
-        "id": "6516c63214",
-        "title_fa": "حمله نظامی به استان هرمزگان از سوی ایران تایید شد",
-        "title_en": "Southern Iranian province Hormozgan hit by 'enemy' military strike, Iran claims",
-        "summary": [
-            "منابع داخلی از وقوع یک حمله نظامی دشمن در استان جنوبی هرمزگان خبر داده‌اند.",
-            "جزئیات محدودی از این رویداد منتشر شده اما مقامات امنیتی در حال بررسی ابعاد آن هستند."
-        ],
-        "impact": "افزایش تنش‌های نظامی در مناطق جنوبی کشور و آماده‌باش واحدهای دفاعی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeUNCcU1TQ1lPOUdVbjYxeUNSbWlyYVk5aUFILXE3anZEa3E5eTZKa3dfWWllam9Gam54QUx4UHBFSGNMQWZVbDYtRFZMaWt6U0VxcFFxbF90QlJWUWNLQ2VjSEtmd3BTNlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeUNCcU1TQ1lPOUdVbjYxeUNSbWlyYVk5aUFILXE3anZEa3E5eTZKa3dfWWllam9Gam54QUx4UHBFSGNMQWZVbDYtRFZMaWt6U0VxcFFxbF90QlJWUWNLQ2VjSEtmd3BTNlE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794512428.0
     }
 ]
