@@ -1,5 +1,23 @@
 [
     {
+        "id": "f3f62fda59",
+        "title_fa": "هشدار درباره خطرات جنگ جدید اسرائیل با ج‌ام‌هوری اس‌لامی",
+        "title_en": "Third time's the charm? Israel risks another Iran war without learning from past failures",
+        "summary": [
+            "رسانه‌های صهیونیستی نسبت به تکرار اشتباهات گذشته در رویارویی با تهران هشدار دادند.",
+            "فقدان راهبرد مشخص می‌تواند تل‌آویو را وارد یک جنگ فرسایشی پرهزینه کند."
+        ],
+        "impact": "بالارفتن احتمال تنش‌های منطقه‌ای و بی‌ثباتی امنیتی در خاورمیانه.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TUEY4YkZBTENJMDVrb2dNUGxpeWphOXEyNTZaTDdNR1FYQ0FUWkQ5SGJPV2pDR3ZEV3VxWGQ5TDNsY0dTak14aTFLYjJ5QnhIUzdnbkJJYnFLc2g2dU1FYWtjendQQnM4UU9CSlhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TUEY4YkZBTENJMDVrb2dNUGxpeWphOXEyNTZaTDdNR1FYQ0FUWkQ5SGJPV2pDR3ZEV3VxWGQ5TDNsY0dTak14aTFLYjJ5QnhIUzdnbkJJYnFLc2g2dU1FYWtjendQQnM4UU9CSlhn",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794802342.0
+    },
+    {
         "id": "b58955b86d",
         "title_fa": "سفر وزیر خارجه ج.ا به پاکستان و عمان همزمان با غرق شدن نفتکش",
         "title_en": "Iran foreign minister to visit Pakistan, Oman as supertanker sinks in Gulf",
@@ -383,6 +401,24 @@
         "clean_url": "https://www.iranintl.com/en/202611166600",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1794761940.0
+    },
+    {
+        "id": "fc89fea945",
+        "title_fa": "تهدید ج‌ام‌هوری اس‌لامی به اقدام پیش دستانه علیه آمریکا",
+        "title_en": "Not Cuba or Venezuela: Iran warns it will not wait for US attack before responding",
+        "summary": [
+            "مقام‌های وزارت خارجه از آماده‌باش نظامی همزمان با مسیرهای دیپلماتیک خبر دادند.",
+            "تهران هشدار داد مانند ونزوئلا و کوبا دست‌بسته نخواهد ماند."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی و التهاب بیشتر در بازارهای مالی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/news/other/not-cuba-or-venezuela-iran-warns-it-will-not-wait-for-us-attack-before-responding/ar-AA2huTKB",
+        "clean_url": "https://www.msn.com/en-in/news/other/not-cuba-or-venezuela-iran-warns-it-will-not-wait-for-us-attack-before-responding/ar-AA2huTKB",
+        "image": "http://www.bing.com/th?id=ONUT.oKCL0ROiraif_nXoX5Cy-w&pid=News",
+        "timestamp": 1794760860.0
     },
     {
         "id": "9df112bcad",
@@ -5473,41 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFdCYWpPU3FmeHdWSDk5TW1qWEdqZFBPRF9nQXpUTXlJRFlOT3YyQlhUdVVCSXpIZnc4ZVNLcXFSY3hYYnlMV2ZUWHdBS1owSjVSZ25KN2xweTh5MmNzOUFwb3JUbUVBZzVNUWV0RUFvYVdSMDdNb01pWEZHWFV2WllhNEVmOG9KY2pweEZSckZSYnJUcV9HM0luRVFzRWozWEgzdHlXVWlFVmRiRzVoV1pXZmw2SlV4d2M3N3R5bVQzQU0",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794472982.0
-    },
-    {
-        "id": "e70d063fc8",
-        "title_fa": "نشست اضطراری کابینه اسرائیل با محوریت احتمال حمله به ایران",
-        "title_en": "Israeli cabinet to meet Sunday amid opposition fears of strike on Iran",
-        "summary": [
-            "نشست روز یکشنبه کابینه تل‌آویو فراتر از یک رایزنی عادی است و نشان می‌دهد طرح‌های ضربتی وارد مرحله تصمیم‌گیری نهایی شده‌اند.",
-            "هشدار و نگرانی اپوزیسیون اسرائیل از ابعاد این حمله، ناشی از آگاهی آنها از پیامدهای سنگین و پاسخ متقابل تهران است."
-        ],
-        "impact": "افزایش آنی احتمال درگیری مستقیم نظامی و آماده‌باش حداکثری پدافندی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEZTMlZJTEd4OWhVdHVVUXhYZjgycDEtNC1FMXpfRTBQYjNOdnhjXzN4Z0Q2Q3FTZUk0N0tzbHRnaGM2VEZqd25IMG1GZVoycGw5RThUUVA2dEI0U2dYSVpXeWd5MENmTFFkNUdIem1iYnRGN0JwYllYUmozZ0FEeHJDRnNpRWwzdlJIUkdJVTMwVHRLOFphd2YtRk1zZnEwS0N0eTJPS0NpOW9tQ01PSkRRZkFGQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEZTMlZJTEd4OWhVdHVVUXhYZjgycDEtNC1FMXpfRTBQYjNOdnhjXzN4Z0Q2Q3FTZUk0N0tzbHRnaGM2VEZqd25IMG1GZVoycGw5RThUUVA2dEI0U2dYSVpXeWd5MENmTFFkNUdIem1iYnRGN0JwYllYUmozZ0FEeHJDRnNpRWwzdlJIUkdJVTMwVHRLOFphd2YtRk1zZnEwS0N0eTJPS0NpOW9tQ01PSkRRZkFGQQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794472673.0
-    },
-    {
-        "id": "3efc253cf4",
-        "title_fa": "افت ظرفیت صنایع نظامی ج.ا؛ تولید ماهانه ۵۰ موشک بالستیک",
-        "title_en": "Iran military industrial capacity at 50%, produces 50 ballistic missiles a month",
-        "summary": [
-            "ظرفیت تولید صنایع نظامی ج.ا به دلیل فشارهای خارجی و کمبودها به نیمه رسیده است.",
-            "تولید ماهانه ۵۰ موشک بالستیک نشان‌دهنده تلاش برای حفظ بازدارندگی با وجود محدودیت‌هاست."
-        ],
-        "impact": "کاهش توان تولید تسلیحاتی، دست برتر را در معادلات نظامی به مخاطبان منطقه‌ای می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fb2Nta0NnYU9oS3dnTkc3a2VPNVRSVXdUcS1wNFNlcXo3eG9kS0lZbWlFRy0wQ1pzSmUwZTNMZWVUbmFFT09MYXYzLS1JandqVWtTdnlyVWthRmo4Wm5xTmJOREwwU1pmMnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fb2Nta0NnYU9oS3dnTkc3a2VPNVRSVXdUcS1wNFNlcXo3eG9kS0lZbWlFRy0wQ1pzSmUwZTNMZWVUbmFFT09MYXYzLS1JandqVWtTdnlyVWthRmo4Wm5xTmJOREwwU1pmMnc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794472608.0
     }
 ]
