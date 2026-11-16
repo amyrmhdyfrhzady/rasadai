@@ -1,5 +1,24 @@
 [
     {
+        "id": "520bbdc246",
+        "title_fa": "اجماع منطقه‌ای علیه تهدیدات ج.ا در نشست منامه",
+        "title_en": "Beneath the bravado, the Iranian regime is crumbling. The West must keep up the pressure",
+        "summary": [
+            "نشست منامه بر مقابله با تهدیدات پهپادی و موشکی ج.ا متمرکز شد.",
+            "امنیت تنگه هرمز و فعالیت‌های نیابتی در منطقه به چالش اصلی امنیتی تبدیل شده است.",
+            "حتی با وجود احتیاط در نام بردن از ج.ا، تمام محورهای امنیتی علیه رفتارهای این رژیم تنظیم شده است."
+        ],
+        "impact": "شکل‌گیری یک ائتلاف امنیتی غیررسمی برای مهار نفوذ منطقه‌ای ج.ا در خلیج فارس.",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Yahoo News UK",
+        "url": "https://uk.news.yahoo.com/beneath-bravado-iranian-regime-crumbling-140920074.html",
+        "clean_url": "https://uk.news.yahoo.com/beneath-bravado-iranian-regime-crumbling-140920074.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/a1793e3cc33f5ee52b702db14fba25ed9978abd7592780c5709e202f6a1ff0db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_818%2F1c4ff5a76b20002c6d141009c033ab30.jpg",
+        "timestamp": 1794838140.0
+    },
+    {
         "id": "f1e37ab6b0",
         "title_fa": "آینده ج.ا در سایه انتخابات آمریکا و تقابل با اسرائیل",
         "title_en": "Between Israel and US elections: Will the Iranian regime survive?",
@@ -54,6 +73,26 @@
         "clean_url": "https://www.newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines",
         "image": "https://www.newarab.com/sites/default/files/styles/image_345x195/public/2304700697.jpeg?h=a5f2f23a&itok=SnnfXBiX",
         "timestamp": 1794836460.0
+    },
+    {
+        "id": "aac9e8dea6",
+        "title_fa": "پیش‌بینی فروپاشی اقتصادی ج.ا مشابه شوروی سابق",
+        "title_en": "Iran lawmaker says assassinations and airborne raids could resume",
+        "summary": [
+            "بیسنت پیش‌بینی کرده ارزش ریال تا سال ۲۰۲۷ حدود ۲۵ درصد دیگر سقوط می‌کند.",
+            "سرعت فروپاشی اقتصادی ج.ا با دوران سقوط شوروی مقایسه شده است.",
+            "مقامات ارشد در پناهگاه‌های زیرزمینی از واقعیت‌های کف خیابان بی‌خبرند.",
+            "انزوای بین‌المللی و قرنطینه خطوط هوایی، حلقه محاصره را برای مسئولان تنگ‌تر کرده است."
+        ],
+        "impact": "سقوط آزاد ارزش پول ملی و انزوای کامل دیپلماتیک، ساختار حاکمیت را به مرز فروپاشی رسانده است.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611161923",
+        "clean_url": "https://www.iranintl.com/en/202611161923",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ccd482139b884b972ae53dd9b67c255b9a65fc4e-1445x1088.png?rect=0,16,1445,963&w=576&h=384&q=90&fit=max&auto=format",
+        "timestamp": 1794835320.0
     },
     {
         "id": "5a79ba3742",
@@ -5481,41 +5520,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeUNCcU1TQ1lPOUdVbjYxeUNSbWlyYVk5aUFILXE3anZEa3E5eTZKa3dfWWllam9Gam54QUx4UHBFSGNMQWZVbDYtRFZMaWt6U0VxcFFxbF90QlJWUWNLQ2VjSEtmd3BTNlE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794512428.0
-    },
-    {
-        "id": "5d7853b43e",
-        "title_fa": "فشار اتاق فکر واشنگتن برای اقدام نظامی علیه ج.ا",
-        "title_en": "U.S. must resume military operations against Iran",
-        "summary": [
-            "بنیاد دفاع از دموکراسی‌ها با انتشار گزارشی خواستار بازگشت به عملیات نظامی مستقیم علیه تهران شد.",
-            "این موضع‌گیری نشان‌دهنده تغییر جهت جریان‌های تندرو در واشنگتن برای عبور از سیاست‌های بازدارندگی غیرمستقیم است."
-        ],
-        "impact": "افزایش ریسک درگیری مستقیم نظامی و فشار بر دولت آمریکا برای تغییر استراتژی در قبال خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkFPdWRnbmllNEVWUnlOd1BtRjMyWHFfUVdjNjNSOS03VU1DemNNQWZHa2dzYjh4X2hYdXlSNzFCdzJoQlljaTh6bDZXLTVLODIyYnpGWHJIb2pNVHppN0VtaGp4RzlqZWNuS25RbWlLazZ5YldTemJKOV9WcnNyNzdDUjRaRnVp?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkFPdWRnbmllNEVWUnlOd1BtRjMyWHFfUVdjNjNSOS03VU1DemNNQWZHa2dzYjh4X2hYdXlSNzFCdzJoQlljaTh6bDZXLTVLODIyYnpGWHJIb2pNVHppN0VtaGp4RzlqZWNuS25RbWlLazZ5YldTemJKOV9WcnNyNzdDUjRaRnVp",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794508679.0
-    },
-    {
-        "id": "95dc03473e",
-        "title_fa": "جهش قیمت نفت با سیگنال‌های تنش در خاورمیانه",
-        "title_en": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
-        "summary": [
-            "بازار جهانی انرژی رویترز و وال‌استریت ژورنال را رصد می‌کند تا اثر تحولات منطقه را بر عرضه نفت بسنجد.",
-            "هرگونه سایه جنگ بر خاورمیانه بلافاصله خود را در قالب افزایش بهای نفت نشان می‌دهد."
-        ],
-        "impact": "افزایش نااطمینانی در بازار انرژی و رشد قیمت هر بشکه نفت.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794507888.0
     }
 ]
