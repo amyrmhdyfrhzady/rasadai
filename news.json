@@ -91,6 +91,24 @@
         "timestamp": 1794852164.0
     },
     {
+        "id": "f353979ac5",
+        "title_fa": "گزارش ارتش اسرائیل از برداشت زیتون در کرانه باختری",
+        "title_en": "IDF says settler attacks on Palestinians only affected a small minority of West Bank olive harvests, as season ends",
+        "summary": [
+            "به گزارش روزنامه تایمز آو اسرائیل، ارتش اسرائیل اعلام کرده است هم‌زمان با پایان فصل برداشت زیتون در کرانه باختری، حدود ۱۷ هزار تن زیتون برداشت شده است.",
+            "بر اساس اعلام ارتش اسرائیل، حملات شهرک‌نشینان اسرائیلی علیه فلسطینی‌ها تنها بخش کوچکی از کل محصول زیتون در این منطقه را تحت تأثیر قرار داده است."
+        ],
+        "impact": "طبق گزارش منتشرشده، فصل برداشت زیتون در کرانه باختری در حالی به پایان رسیده که هم‌زمان گزارش‌هایی از حملات شهرک‌نشینان علیه فلسطینی‌ها مطرح بوده است.",
+        "tag": "کرانه باختری",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-settler-attacks-on-palestinians-only-affected-a-small-minority-of-west-bank-olive-harvests-as-season-ends/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-says-settler-attacks-on-palestinians-only-affected-a-small-minority-of-west-bank-olive-harvests-as-season-ends",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/WhatsApp_Image_2026-10-22_at_18.07.36_4.jpeg",
+        "timestamp": 1794850320.0
+    },
+    {
         "id": "d0868efec4",
         "title_fa": "حملات هوایی به سایت‌های مـوشـکـی جـمـهـوری اسـلامـی",
         "title_en": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
@@ -5506,23 +5524,5 @@
         "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-midterm-elections-nvidia-live-updates-rcna609111",
         "image": "http://www.bing.com/th?id=ONUT.sbBkh3S8C2Yu1Rdsr1XNlQ&pid=News",
         "timestamp": 1794544680.0
-    },
-    {
-        "id": "5024d34fd8",
-        "title_fa": "ترامپ: بقای حاکمیت فعلی ایران تا پایان دوره‌ام شکست است",
-        "title_en": "Trump on Iran war: If the crazies in Iran are still in power when I leave office, that would be a defeat | LIVE BLOG",
-        "summary": [
-            "به گزارش شبکه i24NEWS، دونالد ترامپ در اظهاراتی درباره درگیری با ایران اعلام کرد که اگر حاکمان فعلی این کشور هنگام ترک کاخ سفید همچنان در قدرت بمانند، این وضعیت یک شکست محسوب می‌شود.",
-            "ترامپ با این موضع‌گیری صریح، معیار موفقیت واشنگتن در تقابل با تهران را فراتر از مهار نظامی و معطوف به تغییر ساختار قدرت در ایران تعریف کرده است."
-        ],
-        "impact": "افزایش تنش‌های سیاسی میان واشنگتن و تهران و بالا گرفتن گمانه‌زنی‌ها درباره تغییر راهبرد آمریکا در قبال آینده قدرت در ایران.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjl3QnFwUFZMVWtuNjFhSS1Gd1dBbzdNWDhBRFp0cE4tRUVOTWhKdWV0a25kOC1QQjU3TlZkQU1Nd0dWYWlRd1EzaTNER1BobHRhcVZhclVPdE4tZDV2WHRKb1VVRXVYV2t1R0FOSUJJeWFlUDVWbldPVVdmZ2hORTcyeFE4Rkk4WkZ4LWt5Z3ZBRWpmR253MUF2RlR3YVdscjk2TUg5ekNUalF2NVhhTHY0MTJWS1VCVDNUdVh1c0t5MWFYSEpYWml0MXRsdFYtOEVRM2s4Q1Jmb1IzNjVHMHlUQnJmT0FZRldpeHBVWUZsUE1L?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjl3QnFwUFZMVWtuNjFhSS1Gd1dBbzdNWDhBRFp0cE4tRUVOTWhKdWV0a25kOC1QQjU3TlZkQU1Nd0dWYWlRd1EzaTNER1BobHRhcVZhclVPdE4tZDV2WHRKb1VVRXVYV2t1R0FOSUJJeWFlUDVWbldPVVdmZ2hORTcyeFE4Rkk4WkZ4LWt5Z3ZBRWpmR253MUF2RlR3YVdscjk2TUg5ekNUalF2NVhhTHY0MTJWS1VCVDNUdVh1c0t5MWFYSEpYWml0MXRsdFYtOEVRM2s4Q1Jmb1IzNjVHMHlUQnJmT0FZRldpeHBVWUZsUE1L",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794543960.0
     }
 ]
