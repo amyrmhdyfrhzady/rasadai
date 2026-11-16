@@ -454,6 +454,25 @@
         "timestamp": 1794816688.0
     },
     {
+        "id": "97b6c018fe",
+        "title_fa": "موج فرار نخبگان و ناامیدی جوانان از آینده در ایران",
+        "title_en": "Iran's growing exodus of young talent",
+        "summary": [
+            "ترکیب ناامنی، فشارهای سیاسی و بن‌بست اقتصادی، انگیزه ماندن را در نسل تحصیل‌کرده از بین برده است.",
+            "خروج سرمایه‌های انسانی به معنای تخلیه توان مدیریتی و علمی کشور در میان‌مدت است.",
+            "حاکمیت با سرکوب مطالبات، عملاً راهی جز مهاجرت برای جوانان باقی نگذاشته است."
+        ],
+        "impact": "تضعیف شدید ساختار تخصصی کشور و فروپاشی تدریجی نیروی کار ماهر.",
+        "tag": "اجتماعی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "DW on MSN",
+        "url": "https://www.msn.com/en-au/news/other/irans-growing-exodus-of-young-talent/ar-AA2hywDS",
+        "clean_url": "https://www.msn.com/en-au/news/other/irans-growing-exodus-of-young-talent/ar-AA2hywDS",
+        "image": "http://www.bing.com/th?id=ONUT.los9Wy1pr6zQyFIHNHfZzQ&pid=News",
+        "timestamp": 1794816480.0
+    },
+    {
         "id": "3db7ed0b38",
         "title_fa": "ورود سومین ناو هواپیمابر آمریکا به منطقه و سرپیچی اتمی تهران",
         "title_en": "Third US Aircraft Carrier Arrives in Middle East; Iran Refuses Nuclear Inspections",
@@ -5505,23 +5524,5 @@
         "clean_url": "https://www.ncr-iran.org/en/news/terrorism-a-fundamentalism/why-tehran-may-lose-the-clock",
         "image": "https://www.ncr-iran.org/en/wp-content/uploads/2026/08/iran-hormuz-strait-ships.jpg",
         "timestamp": 1794519000.0
-    },
-    {
-        "id": "3d12517a4a",
-        "title_fa": "قمار ترامپ روی بقای وضعیت شکننده ج.م.ا",
-        "title_en": "Trump Bets Shaky Iran Status Quo Will Hold After Midterm Loss",
-        "summary": [
-            "دونالد ترامپ روی تداوم وضعیت موجود و شکننده ج.م.ا حساب باز کرده است.",
-            "شکست در انتخابات میان‌دوره‌ای تغییری در عزم واشنگتن برای مهار تهران ایجاد نکرده است."
-        ],
-        "impact": "فشارها علیه ساختار سیاسی و اقتصادی ایران بدون تغییر ادامه می‌یابد.",
-        "tag": "آمریکا",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE8zbG1nOS1wbW9jblRMemdVSHZsbkFteVloZWxhZWJJS3pSTWc0VjlFTXd5YVRsSFJmV1JBTW8zRUVReWdzWlBjMzdyRTdvWkNmd2RWcWY5SFVMbFhKeUNpM1pOUlNUR25lZzNQX3EzWVUtZF9rajBuV0dxYkdsQS00N2xLaFJWTE5SY0dNdDV5V0dZRldUZ1NrM3JiRkYwalZFcnVraWgzU2hCWHc5NkpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE8zbG1nOS1wbW9jblRMemdVSHZsbkFteVloZWxhZWJJS3pSTWc0VjlFTXd5YVRsSFJmV1JBTW8zRUVReWdzWlBjMzdyRTdvWkNmd2RWcWY5SFVMbFhKeUNpM1pOUlNUR25lZzNQX3EzWVUtZF9rajBuV0dxYkdsQS00N2xLaFJWTE5SY0dNdDV5V0dZRldUZ1NrM3JiRkYwalZFcnVraWgzU2hCWHc5NkpB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794518471.0
     }
 ]
