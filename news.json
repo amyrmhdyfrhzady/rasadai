@@ -348,6 +348,24 @@
         "timestamp": 1794798096.0
     },
     {
+        "id": "a5fc3cd5df",
+        "title_fa": "اعتراف مقام ارشد ج. ا. به وضعیت جنگی در کشور",
+        "title_en": "IRGC strike on US radar installations at Bahrain base foiled by air defenses",
+        "summary": [
+            "کاظم غریب‌آبادی وضعیت کشور را نه صلح و نه جنگ، بلکه به طور رسمی یک وضعیت جنگی تمام‌عیار اعلام کرد.",
+            "تهران تحریم‌های تازه واشنگتن را ادامه همان سیاست‌های شکست‌خورده گذشته خواند و آن را بی‌اثر دانست."
+        ],
+        "impact": "تأیید رسمی شرایط جنگی توسط مقامات ارشد، نشان‌دهنده عمق بحران و شکست دیپلماسی است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-strikes-donald-trump-strait-hormuz-irgc-november-15",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-strikes-donald-trump-strait-hormuz-irgc-november-15",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/1193bfa4e8f0af124e28284424ca137d.jpg",
+        "timestamp": 1794796140.0
+    },
+    {
         "id": "7124b437e7",
         "title_fa": "گزارش تحولات میدانی و نظامی ایران",
         "title_en": "Iran Update, November 15, 2026",
@@ -5492,23 +5510,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXQ5Y3BkZ2ViQ1NSQ3MtWXRteVg3ZFNBTFRWWXJ0eHhWUWY0OThCNHl4c2VJaTQ3X05UTjU5WTBRYTZJUkVld1VrZTQ3TDFSUHYyOV9YckpyN2dDOFJfSF93M0g0RHJqV1MweUkwOHdCaWlSVHJvdm9jYm95d1pxM1lCUG5Ibk5lbDduclpmUUhWZ1JjUGlrVmdxSHNBUdIBowFBVV95cUxPa0dyY3drVndxNWVSczdJdmd5T1hCY19iNVViRmZVdlllMEdXUDZxbGtzRjF5T3lySXRYTjdmR01xOUFoNks2RXZtTi12YVBlOExkSWRsLTNLSlMxVWlHUnhyRnpYbEFUUnJOMHpzak9YVm44UGQ4THduVnFqbnF4c292bEF5OHdaSVhTb1Y5NmZXREN3NjBtWlhKUmRDQnpTVHB3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794493686.0
-    },
-    {
-        "id": "10d9a8b2fc",
-        "title_fa": "حمله به بیمارستان در غزه و ممنوعیت ورود رهبر شهرک‌نشینان به فرانسه",
-        "title_en": "Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news",
-        "summary": [
-            "ارتش اسرائیل بیمارستانی را در غزه هدف قرار داد که موجی از واکنش‌های بین‌المللی را به همراه داشت.",
-            "دولت فرانسه از ورود یک رهبر ارشد شهرک‌نشینان به خاک این کشور ممانعت کرد."
-        ],
-        "impact": "تشدید تنش‌های دیپلماتیک میان اروپا و جریان‌های افراطی اسرائیل همزمان با تداوم درگیری‌ها در غزه.",
-        "tag": "منطقه‌ای",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Boston Herald",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUE0ybVNiOFZyMm1YMFlSWlJoQ0gybnBoUTV4V1cxVV8tbHYxX2lDUGJwdFdpREhZb0x1TE9NY1hzZHBQby1SRGV3SnhQblFTNEVsbzRuOHhEb0FJdS1uSzdJQVZtNjVVdXNrdXpuaHNPOW9STmJjSWE5YkJwcEROdnNSUmNaajk1?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUE0ybVNiOFZyMm1YMFlSWlJoQ0gybnBoUTV4V1cxVV8tbHYxX2lDUGJwdFdpREhZb0x1TE9NY1hzZHBQby1SRGV3SnhQblFTNEVsbzRuOHhEb0FJdS1uSzdJQVZtNjVVdXNrdXpuaHNPOW9STmJjSWE5YkJwcEROdnNSUmNaajk1",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794491809.0
     }
 ]
