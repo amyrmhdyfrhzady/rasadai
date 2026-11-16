@@ -1,5 +1,24 @@
 [
     {
+        "id": "ce71db80de",
+        "title_fa": "تشدید درگیری‌های یمن و انفجار نفتکش‌ها در تنگه هرمز",
+        "title_en": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
+        "summary": [
+            "گروه حوثی تحت حمایت جـ.ـهـ.ـوری اسـ.ـلامـ.ـی عربستان را به انجام حملات پهپادی در صنعا متهم کرد که به کشته شدن سه غیرنظامی از جمله یک کودک انجامید.",
+            "تهران هم‌زمان تایید کرد که سه نفتکش در تنگه هرمز با مین‌های دریایی برخورد کرده و دچار حریق شده‌اند.",
+            "ارتش اسـ.ـراییـ.ـل کاروانی از تسلیحات ارسالی از سوریه را که مقصد آن حزب‌الله در لبنان بود، هدف قرار داد."
+        ],
+        "impact": "افزایش ریسک امنیتی در آبراه حیاتی تنگه هرمز و گسترش درگیری‌های منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "fox21online",
+        "url": "https://www.fox21online.com/news/us-world/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast/article_e149e7b2-8b91-5332-b0a3-2d94d4aa25a0.html",
+        "clean_url": "https://www.fox21online.com/news/us-world/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast/article_e149e7b2-8b91-5332-b0a3-2d94d4aa25a0.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/fox21online.com/content/tncms/custom/image/4f2040be-d6aa-4b9f-9a7b-87c8d2f67f6d.jpg?resize=600,315",
+        "timestamp": 1794826800.0
+    },
+    {
         "id": "9458666939",
         "title_fa": "پیش‌بینی فروپاشی سریع اقتصادی و انزوای مطلق مقامات",
         "title_en": "Iran trusts Pakistan, Araghchi says during Islamabad visit",
@@ -5491,24 +5510,5 @@
         "clean_url": "https://www.npr.org/2026/11/12/nx-s1-6037560/spy-scandal-hegseths-future-are-we-still-at-war-with-iran",
         "image": "http://www.bing.com/th?id=ONUT.N2wYim4Svz8biiEPCJSXhg&pid=News",
         "timestamp": 1794496320.0
-    },
-    {
-        "id": "497cb4b653",
-        "title_fa": "خروج جنجالی جنسن هوانگ؛ آزمون بزرگ انویدیا بدون بنیان‌گذارش",
-        "title_en": "Jensen Huang's exit tests whether Nvidia can run without its founder",
-        "summary": [
-            "به گزارش لس‌آنجلس تایمز، کناره‌گیری جنسن هوانگ با انتشار گزارش‌هایی درباره رابطه او با فردی مظنون به جاسوسی برای چین مرتبط است.",
-            "این جدایی، شرکت انویدیا را در اوج دوران شکوفایی هوش مصنوعی از وجود رهبری محروم می‌کند که آن را به کانون اصلی این صنعت تبدیل کرده بود.",
-            "لس‌آنجلس تایمز اشاره می‌کند که رفتن هوانگ، توانایی این غول تراشه‌سازی را برای ادامه فعالیت بدون بنیان‌گذار خود به چالش می‌کشد."
-        ],
-        "impact": "بر اساس گزارش لس‌آنجلس تایمز، آینده هدایت انویدیا در بازار پرشتاب هوش مصنوعی با ابهام و آزمون جدی روبه‌رو شده است.",
-        "tag": "فناوری",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Los Angeles Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/nvidia-shares-tumble-after-jensen-huang-resigns-as-ceo/ar-AA2hjvOw",
-        "clean_url": "https://www.msn.com/en-us/news/other/nvidia-shares-tumble-after-jensen-huang-resigns-as-ceo/ar-AA2hjvOw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794495480.0
     }
 ]
