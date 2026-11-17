@@ -1,5 +1,23 @@
 [
     {
+        "id": "7414f55ddc",
+        "title_fa": "کشته شدن یک کودک در غزه بر اثر تیراندازی ارتش",
+        "title_en": "Reports: 6-year-old boy shot dead by IDF in Gaza, man killed in drone strike in Strip's north",
+        "summary": [
+            "رسانه‌های وابسته به حماس از کشته شدن یک پسربچه شش ساله در شرق دیرالبلح خبر دادند.",
+            "یک حمله پهپادی دیگر در منطقه جبالیا در شمال غزه نیز تلفات جانی برجای گذاشت."
+        ],
+        "impact": "تشدید تنش‌ها و تلفات غیرنظامیان در مناطق مختلف باریکه غزه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/reports-6-year-old-boy-shot-dead-by-idf-in-gaza-man-killed-in-drone-strike-in-strips-north/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/reports-6-year-old-boy-shot-dead-by-idf-in-gaza-man-killed-in-drone-strike-in-strips-north",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26183211837293-200x200.jpg",
+        "timestamp": 1794922680.0
+    },
+    {
         "id": "6509b911ed",
         "title_fa": "اختلاف شدید نتانیاهو و فرماندهان ارتش درباره زمان حمله به اهداف اِسـ.ـلـ.ـا‌مـ.ـی",
         "title_en": "Netanyahu, Israeli military chiefs at odds over timing, urgency of Iran strikes",
@@ -5504,23 +5522,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794627985.0
-    },
-    {
-        "id": "4e695c0922",
-        "title_fa": "محکومیت مهندس آمریکایی به جرم دور زدن تحریم‌های جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
-        "title_en": "Waialua engineer sentenced for evading Iran sanctions",
-        "summary": [
-            "دادگاهی در آمریکا یک مهندس ساکن هونولول را به دلیل نقض تحریم‌های مالی و انتقال غیرقانونی فناوری به ایـ.ـران محکوم کرد.",
-            "دستگاه قضایی آمریکا با این احکام سخت‌گیرانه نشان داد که شبکه لابی‌گری و دورزنندگان تحریم‌ها را زیر ذره‌بین دارد."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره مالی و امنیتی بر سر راه عوامل و دلالان وابسته به حـ.ـکـ.ـو‌مـ.ـت.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Honolulu Star-Advertiser",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjNmTU1JX0ZHdlZSODRybWpGRmFqU01qcVNCV1F4bzlFNndZWDYyNld3YlZUYWY2OXdsMGF2U3Nsbm9sY0NvOUkwRURhajZhQlprWFp4VnQzOEJ2a002cUZrZDFGQkozS0VLek5WNlM5UDFLblc4WjNNRVlRMEpicXdhZTVYOGk4d01PM1lrSkE3Wmo1eFQ1V3JfRG1JLUNuYjhOeUFuZThBY3E1?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjNmTU1JX0ZHdlZSODRybWpGRmFqU01qcVNCV1F4bzlFNndZWDYyNld3YlZUYWY2OXdsMGF2U3Nsbm9sY0NvOUkwRURhajZhQlprWFp4VnQzOEJ2a002cUZrZDFGQkozS0VLek5WNlM5UDFLblc4WjNNRVlRMEpicXdhZTVYOGk4d01PM1lrSkE3Wmo1eFQ1V3JfRG1JLUNuYjhOeUFuZThBY3E1",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794626805.0
     }
 ]
