@@ -461,6 +461,96 @@
         "timestamp": 1794902723.0
     },
     {
+        "id": "5e793a90a7",
+        "title_fa": "رقابت ایالت‌های آمریکا برای میزبانی آکادمی فضایی ترامپ",
+        "title_en": "Map Shows States Battling to Host Trump’s Space Academy",
+        "summary": [
+            "ترامپ با هدف تقویت سلطه فضایی آمریکا، دستور ایجاد آکادمی ملی فضا را صادر کرد.",
+            "ایالت‌ها برای جذب بودجه و زیرساخت‌های این پروژه نظامی-علمی در حال لابی‌گری هستند."
+        ],
+        "impact": "تقویت توانمندی‌های نظامی و تکنولوژیک آمریکا در رقابت فضایی با رقبا.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/states-compete-to-host-trumps-us-space-academy-12727581",
+        "clean_url": "https://www.newsweek.com/states-compete-to-host-trumps-us-space-academy-12727581",
+        "image": "http://www.bing.com/th?id=ONUT.TujFegjHZLQGCRmDfOq6dw&pid=News",
+        "timestamp": 1794901320.0
+    },
+    {
+        "id": "536a30b01a",
+        "title_fa": "خیز قزاقستان برای بومی‌سازی تجهیزات نفت و گاز",
+        "title_en": "Kazakhstan Unveils $85 Million Oil and Gas Manufacturing Push",
+        "summary": [
+            "قزاقستان با سرمایه‌گذاری ۸۵ میلیون دلاری به دنبال کاهش وابستگی به واردات تجهیزات نفتی است.",
+            "این اقدام بخشی از استراتژی این کشور برای تبدیل شدن به قطب صنعتی انرژی در آسیای مرکزی است."
+        ],
+        "impact": "تغییر در زنجیره تأمین انرژی منطقه و کاهش نفوذ تامین‌کنندگان خارجی.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Unveils-85-Million-Oil-and-Gas-Manufacturing-Push.html",
+        "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Unveils-85-Million-Oil-and-Gas-Manufacturing-Push.html",
+        "image": "http://www.bing.com/th?id=ONUT.jlhUkmmZhXC-qMtivI77OQ&pid=News",
+        "timestamp": 1794900600.0
+    },
+    {
+        "id": "d2c4b8753a",
+        "title_fa": "تایوان؛ قربانی احتمالی دیدار ترامپ و شی در اجلاس اپک",
+        "title_en": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit",
+        "summary": [
+            "در دیدار پیش‌رو، رقابت‌های تکنولوژیک و تجاری بر مسئله تایوان سایه انداخته است.",
+            "ترامپ تایوان را اولویت اصلی در مذاکرات با چین نمی‌بیند که این موضوع زنگ خطری برای تایپه است."
+        ],
+        "impact": "افزایش ناامنی استراتژیک برای تایوان در سایه معامله‌گری‌های کلان واشنگتن و پکن.",
+        "tag": "بین‌الملل",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/11/17/taiwan-trump-xi-meeting-apec/",
+        "clean_url": "https://www.bostonherald.com/2026/11/17/taiwan-trump-xi-meeting-apec",
+        "image": "http://www.bing.com/th?id=ONUT.O_h6av-CmXwZsSJZKDPhwA&pid=News",
+        "timestamp": 1794899940.0
+    },
+    {
+        "id": "e0c3624c12",
+        "title_fa": "بی‌توجهی ترامپ به اختلالات زیرساختی در آمریکا",
+        "title_en": "Trump shrugs off spate of US outages, says 'things like that happen'",
+        "summary": [
+            "ترامپ با کوچک‌نمایی قطعی‌های اخیر در شرکت‌های بزرگ، آن را اتفاقی عادی جلوه داد.",
+            "این رویکرد نشان‌دهنده تلاش برای کاهش فشار افکار عمومی نسبت به ضعف‌های زیرساختی است."
+        ],
+        "impact": "کاهش حساسیت عمومی نسبت به ناپایداری‌های فنی و امنیتی در شبکه زیرساخت آمریکا.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-shrugs-off-spate-of-us-outages-says-things-like-that-happen/ar-AA2hDjcC",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-shrugs-off-spate-of-us-outages-says-things-like-that-happen/ar-AA2hDjcC",
+        "image": "http://www.bing.com/th?id=ONUT.FnBmWit-84OAao1p4oWf2Q&pid=News",
+        "timestamp": 1794898792.0
+    },
+    {
+        "id": "c0cda8cb18",
+        "title_fa": "سقوط محبوبیت ترامپ به کف تاریخی ۳۲ درصد",
+        "title_en": "Trump approval holds near career low at 32%, poll finds",
+        "summary": [
+            "نظرسنجی‌ها نشان می‌دهد پایگاه رای ترامپ همچنان در حال فرسایش است.",
+            "این عدد پایین‌ترین سطح محبوبیت دوران کاری او محسوب می‌شود که فشار سیاسی را افزایش می‌دهد."
+        ],
+        "impact": "تضعیف قدرت چانه‌زنی ترامپ در پیشبرد دستورکارهای داخلی و تقابل با کنگره.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/11/17/trump-approval-holds-near-career-low-at-32-poll-finds/92823537007/",
+        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/11/17/trump-approval-holds-near-career-low-at-32-poll-finds/92823537007",
+        "image": "http://www.bing.com/th?id=ONUT.x01lh5UuKYVHk274i7Cteg&pid=News",
+        "timestamp": 1794894240.0
+    },
+    {
         "id": "8132fc5ed2",
         "title_fa": "هشدار قالیباف به آمریکا و اسرائیل درباره زیرساخت‌ها",
         "title_en": "Ghalibaf Warns US and Israel Over Threats to Iran’s Civilian Infrastructure",
@@ -586,6 +676,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-keeps-weighing-iran-options-110417701.html",
         "image": "https://s.yimg.com/lo/mysterio/api/feedfd37c8874999e97cb72f69f7bf1f0cb0e1a8c8bfb43a5090df82cd81c942/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_opinion_532%2Fd934682f20f6c8892b40bdb60280bcb0.jpg",
         "timestamp": 1794884640.0
+    },
+    {
+        "id": "5f08b7a9a1",
+        "title_fa": "شکاف‌های عمیق در بدنه حزب دموکرات",
+        "title_en": "Embrace the Democratic Infighting. It’s Good and Necessary.",
+        "summary": [
+            "جنگ قدرت برای رهبری سنا نشان می‌دهد دموکرات‌ها فاقد یک استراتژی واحد هستند.",
+            "تنوع جناح‌های داخلی دموکرات‌ها مانع از شکل‌گیری یک جبهه متحد علیه ترامپ شده است."
+        ],
+        "impact": "فلج شدن تصمیم‌گیری‌های کلان در حزب دموکرات به دلیل درگیری‌های درون‌حزبی.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/article/218053/embrace-democratic-infighting-2026-midterms",
+        "clean_url": "https://newrepublic.com/article/218053/embrace-democratic-infighting-2026-midterms",
+        "image": "http://www.bing.com/th?id=ONUT.GULotg0J7ImQpy-gnhxilQ&pid=News",
+        "timestamp": 1794884400.0
     },
     {
         "id": "8f8b614fde",
@@ -5418,113 +5526,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmlKVU9zY1V4UW93WE13VXpwU0RjamJoR2JLekFKSUR4dDlBbzFGMTRmYm0xYWtzSWlVQm9QLXZzTUJSLTgxREFFX2ZoTEgxaldoeWZfOVhQdEpnbnFNQmhwWEJ0WWpwYVozMEhOOHJmQ2VnR19WYUdndUhxYzJRbEZfa2h0VHpHZE14RHRzMG9oQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794646202.0
-    },
-    {
-        "id": "c32cef5eb8",
-        "title_fa": "ترامپ، پوتین و شی؛ محوریت سلاح هسته‌ای و جنگ ایران",
-        "title_en": "Nuclear arms but also Iran war on agenda of Trump’s meeting with Putin, Xi",
-        "summary": [
-            "بر اساس گزارش نشریه «عرب‌ویکلی»، دونالد ترامپ موضوع تسلیحات هسته‌ای و جنگ ایران را در دستور کار دیدار خود با ولادیمیر پوتین و شی جین‌پینگ قرار داده است.",
-            "طرح هم‌زمان پرونده تسلیحات اتمی و مناقشه ایران، جایگاه این دو موضوع را در رایزنی‌های میان سران آمریکا، روسیه و چین برجسته می‌کند."
-        ],
-        "impact": "بنا بر گزارش عرب‌ویکلی، طرح این مسائل در نشست سران سه کشور می‌تواند بر معادلات دیپلماتیک و امنیتی پیرامون ایران اثرگذار باشد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Arab Weekly",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkNHd2N4UHc5S0xUTW13ckMxekktZDRHZEV1MzNERGItS1NySVk3c055dDhGNzhFNWlNTmtiLU5XMmN3TExZdlRYN0dudVF6QUptTFBiX1dBaUdrMjM1TU1ZUkowN1E3cUttWXdqYjN4VGFUMXpCTzdsVzZTaW5EMXgyUndCVTQwU0Nj?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkNHd2N4UHc5S0xUTW13ckMxekktZDRHZEV1MzNERGItS1NySVk3c055dDhGNzhFNWlNTmtiLU5XMmN3TExZdlRYN0dudVF6QUptTFBiX1dBaUdrMjM1TU1ZUkowN1E3cUttWXdqYjN4VGFUMXpCTzdsVzZTaW5EMXgyUndCVTQwU0Nj",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794645757.0
-    },
-    {
-        "id": "99b7fa8cc5",
-        "title_fa": "i24NEWS: هشدار روبیو درباره تهدید ایران هسته‌ای برای منطقه",
-        "title_en": "Rubio Warns Nuclear-armed Iran Could Hold US, Middle East Hostage | LIVE BLOG",
-        "summary": [
-            "بر اساس گزارش خبرگزاری i24NEWS، مارکو روبیو هشدار داد که یک ایران مجهز به سلاح هسته‌ای می‌تواند ایالات متحده و خاورمیانه را به گروگان بگیرد.",
-            "این موضع‌گیری که در پوشش زنده خبری i24NEWS بازتاب یافته، نگرانی مطرح‌شده از سوی روبیو درباره پیامدهای امنیتی هسته‌ای شدن ایران برای آمریکا و کشورهای منطقه را برجسته می‌کند."
-        ],
-        "impact": "بازتاب این هشدار در رسانه i24NEWS، جایگاه برنامه هسته‌ای ایران را در کانون بحث‌های امنیتی و سیاست‌گذاری آمریکا نسبت به خاورمیانه نگه می‌دارد.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQclVhZ19DZTR2Z1k4YzRMOVRBdXJyMWRjemM2dEx0VW1acml3WHpkUHB3VjBHOERnZnMxdzhSY1hxRld4MzJjbVoyNk5zamVaQ29CalZsbElfcU9BSFFMa1BPQmJuN01SanRMM2d2eUN1QlZsSmxXT1NJZWtCbC13bDR4V1JCd3R6Tk84Q2RSbU9PcG5jNTk2azVsMnE0c0R2N2YzZE1raWFveW80QTI5eS00eEtjWFlIWnRkTVhvVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQclVhZ19DZTR2Z1k4YzRMOVRBdXJyMWRjemM2dEx0VW1acml3WHpkUHB3VjBHOERnZnMxdzhSY1hxRld4MzJjbVoyNk5zamVaQ29CalZsbElfcU9BSFFMa1BPQmJuN01SanRMM2d2eUN1QlZsSmxXT1NJZWtCbC13bDR4V1JCd3R6Tk84Q2RSbU9PcG5jNTk2azVsMnE0c0R2N2YzZE1raWFveW80QTI5eS00eEtjWFlIWnRkTVhvVQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794645322.0
-    },
-    {
-        "id": "f172498649",
-        "title_fa": "فعال عرب-اسرائیلی: اتحاد مردم ایران و اسرائیل کلید شکست س‌پاه است",
-        "title_en": "Iranians and Israelis can defeat the IRGC together, says Arab-Israeli activist",
-        "summary": [
-            "تاکید بر توانایی هم‌افزایی مردم ایران و اسرائیل برای عبور از ج‌مهوری اس‌لامی و تضعیف بازوی نظامی آن.",
-            "تغییر الگوی مبارزه به سمت تفکیک کامل حساب مردم ایران از سیاست‌های سرکوبگرانه و منطقه‌ای حاکمیت."
-        ],
-        "impact": "تقویت فشار روانی بین‌المللی و شکل‌گیری جبهه مشترک مدنی-رسانه‌ای علیه س‌پاه.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFQkdiQ09xLURfVWhlbVM4TFR1WWV2S3BiNG5fVmpYbnpfdWZXOUJCSzhYdmVWNXl5WnJvb0EzcGVLLXlPRFYtc21SMXh6NDlFWGc?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFQkdiQ09xLURfVWhlbVM4TFR1WWV2S3BiNG5fVmpYbnpfdWZXOUJCSzhYdmVWNXl5WnJvb0EzcGVLLXlPRFYtc21SMXh6NDlFWGc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794644598.0
-    },
-    {
-        "id": "a628cf0570",
-        "title_fa": "حملات سایبری سایه به زیرساخت‌های حیاتی",
-        "title_en": "Iran Dials Up Cyber Attack Pressure, Targets Supermarkets, Water Systems",
-        "summary": [
-            "سیستم‌های آب‌رسانی و فروشگاه‌های زنجیره‌ای هدف موج جدید حملات سایبری منتسب به ج.هـ قرار گرفته‌اند.",
-            "توسعه جنگ سایبری نشان‌دهنده تغییر دکترین درگیری به سمت فلج کردن زیرساخت‌های شهری است."
-        ],
-        "impact": "افزایش آسیب‌پذیری زیرساخت‌های حیاتی و احتمال اختلال در زندگی روزمره شهروندان.",
-        "tag": "سایبری",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521",
-        "clean_url": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521",
-        "image": "http://www.bing.com/th?id=ONUT.SjB3ckfjcx--8jv5TQMcfw&pid=News",
-        "timestamp": 1794642780.0
-    },
-    {
-        "id": "74dbba7da4",
-        "title_fa": "الجزیره: گزارش سازمان ملل از مرگ ۲۵ دریانورد در هرمز",
-        "title_en": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-        "summary": [
-            "شبکه الجزیره به نقل از سازمان ملل متحد گزارش داد که از زمان آغاز جنگ آمریکا و اسرائیل با ایران، ۲۵ دریانورد در تنگه هرمز و مناطق اطراف آن کشته شده‌اند.",
-            "این گزارش که تنها به آمار تلفات جانی دریانوردان در محدوده تنگه هرمز اشاره دارد، وضعیت امنیتی آب‌های منطقه را در جریان این درگیری نظامی بازتاب می‌دهد."
-        ],
-        "impact": "طبق گزارش الجزیره به نقل از سازمان ملل، تداوم درگیری‌ها در محدوده تنگه هرمز با تلفات مستقیم میان دریانوردان همراه بوده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794642750.0
-    },
-    {
-        "id": "82d9eaa71f",
-        "title_fa": "دگرگونی دکترین اتمی در دوران پس از رهبری فعلی",
-        "title_en": "How war with US is reshaping nuclear doctrine of post-Khamenei Iran",
-        "summary": [
-            "سایه جنگ با ایالات متحده روند تصمیم‌گیری‌های هسته‌ای در تهران را تغییر داده است.",
-            "فشارهای نظامی و امنیتی، ساختار تصمیم‌گیری کلان در جمهوری اسلامی را وارد فاز جدیدی از محاسبه ریسک کرده است."
-        ],
-        "impact": "افزایش ریسک امنیتی و نزدیک‌تر شدن پرونده اتمی به نقاط بحرانی و غیرقابل بازگشت.",
-        "tag": "هسته ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYk52VWEwcmJ0VGU0ZGJfWEZaUHFodGo3RjFYclpUR1JPWHRGcFE3SHY2MWFkT3ZpLUJ1V292aFkwN2xOdmo3MDQxRDRKYnVoVFBFakR5T3JhbTd0eUlzTU5NRXpfLVhlZFY5NVdtQkdJRGM3RFJodG5jN1cySHk4VUNWY1dTUFhfbnBsemRScDZITlBDN2tUN2hJOTZHVENsRlVB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYk52VWEwcmJ0VGU0ZGJfWEZaUHFodGo3RjFYclpUR1JPWHRGcFE3SHY2MWFkT3ZpLUJ1V292aFkwN2xOdmo3MDQxRDRKYnVoVFBFakR5T3JhbTd0eUlzTU5NRXpfLVhlZFY5NVdtQkdJRGM3RFJodG5jN1cySHk4VUNWY1dTUFhfbnBsemRScDZITlBDN2tUN2hJOTZHVENsRlVB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794642229.0
     }
 ]
