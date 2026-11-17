@@ -37,6 +37,24 @@
         "timestamp": 1794909960.0
     },
     {
+        "id": "6da7551416",
+        "title_fa": "افزایش فعالیت‌های تروریستی و جاسوسی ج.ا در خاک اروپا",
+        "title_en": "Iran's growing aggression reaches European soil",
+        "summary": [
+            "گزارش‌ها از گسترش دامنه عملیات‌های برون‌مرزی و تهدیدات امنیتی توسط عوامل وابسته به ج.ا در کشورهای اروپایی حکایت دارد.",
+            "اروپا در حال تغییر رویکرد از دیپلماسی نرم به سمت اقدامات سختگیرانه امنیتی برای مقابله با نفوذ و خرابکاری‌های این رژیم است."
+        ],
+        "impact": "افزایش فشارهای دیپلماتیک و احتمال قرارگیری نهادهای امنیتی ج.ا در لیست‌های تروریستی اتحادیه اروپا.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Le Monde",
+        "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-s-growing-aggression-reaches-european-soil_6782800_4.html",
+        "clean_url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-s-growing-aggression-reaches-european-soil_6782800_4.html",
+        "image": "https://img.lemde.fr/2026/11/10/0/0/6000/4000/1440/960/60/0/7b6a857_ftp-1-be0pn54uoul0-2026-11-10t140653z-2045082271-rc20loaniehe-rtrmadp-3-iran-crisis-usa-britain.JPG",
+        "timestamp": 1794909600.0
+    },
+    {
         "id": "ab8799b685",
         "title_fa": "هشدار ترامپ درباره خطر بمب کثیف و پرونده اتمی ای-ران",
         "title_en": "'Dirty Bomb' Threat? Trump Departs for Asia, Says Leaders will Discuss Iran Nukes; Unity Talks Falter in Israel",
@@ -5500,23 +5518,5 @@
         "clean_url": "https://www.nation.com.pk/14-Nov-2026/mossad-chief-visits-washington-iran-talks-trump-officials",
         "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
         "timestamp": 1794609720.0
-    },
-    {
-        "id": "4d6eeced8d",
-        "title_fa": "خط و نشان ترامپ برای جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
-        "title_en": "Trump says US could devastate Iran in three days as diplomatic efforts stall",
-        "summary": [
-            "دونالد ترامپ با اشاره به بن‌بست در تلاش‌های دیپلماتیک، ادعا کرد ارتش آمریکا می‌تواند جـ.ـهـ.ـوری اسـ.ـلامـ.ـی را ظرف سه روز نابود کند.",
-            "این اظهارات تند نشان‌دهنده احتمال بازگشت واشنگتن به سیاست فشار حداکثری و چماق تهدید نظامی است."
-        ],
-        "impact": "افزایش فوری تنش‌های سیاسی و روانی در بازارهای مالی داخل.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "WBFF",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalo0R1YxLVBkVWRDUElfNVhXUkgzaXRWUi13cmt6M3h6bXFIeXB6eGVDWVNIU2RKR2IzZVdvX3NKcWFLZDc2SUlZbW1pd1U1bTg0RUN1TVQxdkt1YXo0V1ktQUZUVlZVUDV2Q3o2M29WTmNlSUVrT3JyREt5N2NHSXpiY3ZYbTJpbXZJSEEyUkNTTlU4Njktem10Um9ZSXRWMzg5RWRBWlRnY1RuMVVWa2NGeXFUaDJWYzZ0eGtmUjJocXdPRXZZMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalo0R1YxLVBkVWRDUElfNVhXUkgzaXRWUi13cmt6M3h6bXFIeXB6eGVDWVNIU2RKR2IzZVdvX3NKcWFLZDc2SUlZbW1pd1U1bTg0RUN1TVQxdkt1YXo0V1ktQUZUVlZVUDV2Q3o2M29WTmNlSUVrT3JyREt5N2NHSXpiY3ZYbTJpbXZJSEEyUkNTTlU4Njktem10Um9ZSXRWMzg5RWRBWlRnY1RuMVVWa2NGeXFUaDJWYzZ0eGtmUjJocXdPRXZZMQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794606572.0
     }
 ]
