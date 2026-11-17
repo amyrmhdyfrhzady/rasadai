@@ -291,6 +291,25 @@
         "timestamp": 1794887936.0
     },
     {
+        "id": "8f8b614fde",
+        "title_fa": "طرح شوم ج.ه برای بمب کثیف در خاک آمریکا",
+        "title_en": "Congressman Says U.S. Gets Threats ‘Quite Often’ Amid Reports of Iran Plotting ‘Dirty Bomb’",
+        "summary": [
+            "منابع اطلاعاتی آمریکا از برنامه‌ریزی عوامل وابسته به حکومت برای اقدام تروریستی با بمب کثیف در پایتخت خبر دادند.",
+            "هدف این طرح، ترور مقام‌های دولت ترامپ و ایجاد وحشت در داخل خاک ایالات متحده اعلام شده است.",
+            "با وجود تردید برخی مقام‌ها درباره صحت این ادعاها، سطح هشدار امنیتی در واشنگتن به شدت افزایش یافته است."
+        ],
+        "impact": "این سناریو در صورت تایید، به واکنش سنگین و بی‌سابقه نظامی آمریکا در خاک ایران منجر خواهد شد.",
+        "tag": "امنیتی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/11/17/iran-dirty-bomb-plot-radiological-chemical-weapon-washington-dc-intelligence/",
+        "clean_url": "https://time.com/article/2026/11/17/iran-dirty-bomb-plot-radiological-chemical-weapon-washington-dc-intelligence",
+        "image": "http://www.bing.com/th?id=ONUT.Y3GuetbuaPxhEjSlyqtogw&pid=News",
+        "timestamp": 1794884400.0
+    },
+    {
         "id": "bf02182621",
         "title_fa": "خطای دسترسی به منبع خبری الحرة",
         "title_en": "What Would End the Iran War?",
@@ -5499,24 +5518,6 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQS1tR2VKQnFreElVRlU3T2piQUNEQmRZTER3ZV9yZlFNc2VpUlphUDNRdVJGemtZaWwtdlp5WWRLeFNyaVZsSEppQVVvM09hcTBCMXFtOWlmU0VFeUpfc0hBbGpzTmo5dGJwWmZKLXBIaUVMRmo3M0ZDNnhRUENnREVZUXpFRjJMZ09DRUc4dmplU0lUWGd0dUplUTk1YWZpVEZHXzdrMFVSNW1CMmR3X2pCQV9pRGhyNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQS1tR2VKQnFreElVRlU3T2piQUNEQmRZTER3ZV9yZlFNc2VpUlphUDNRdVJGemtZaWwtdlp5WWRLeFNyaVZsSEppQVVvM09hcTBCMXFtOWlmU0VFeUpfc0hBbGpzTmo5dGJwWmZKLXBIaUVMRmo3M0ZDNnhRUENnREVZUXpFRjJMZ09DRUc4dmplU0lUWGd0dUplUTk1YWZpVEZHXzdrMFVSNW1CMmR3X2pCQV9pRGhyNkE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794610800.0
-    },
-    {
-        "id": "135d684915",
-        "title_fa": "بایدن: نتانیاهو بارها درباره کاهش تلفات غیرنظامی دروغ گفت",
-        "title_en": "In new memoir, Biden says Netanyahu made repeated empty promises to reduce civilian harm in Gaza",
-        "summary": [
-            "افشای ناامیدی بایدن از وعده‌های توخالی نتانیاهو در جریان جنگ غزه",
-            "تنش پنهان در روابط واشنگتن و تل‌آویو بر سر مدیریت بحران انسانی"
-        ],
-        "impact": "افزایش فشار سیاسی بر کابینه نتانیاهو در محافل بین‌المللی و داخلی آمریکا",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/in-new-memoir-biden-says-netanyahu-made-repeated-empty-promises-to-reduce-civilian-harm-in-gaza/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/in-new-memoir-biden-says-netanyahu-made-repeated-empty-promises-to-reduce-civilian-harm-in-gaza",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2024/08/AP24207646127351-e1758650940838.jpg",
         "timestamp": 1794610800.0
     }
 ]
