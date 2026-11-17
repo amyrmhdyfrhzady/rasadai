@@ -54,6 +54,25 @@
         "timestamp": 1794875694.0
     },
     {
+        "id": "d2b93cd89c",
+        "title_fa": "افشای طرح ادعایی بمب کثیف رژیم ایران در واشنگتن",
+        "title_en": "US intelligence points to possible Iranian dirty bomb plot in Washington – CNN",
+        "summary": [
+            "جامعه اطلاعاتی آمریکا از احتمال طرح‌ریزی رژیم ایران برای استفاده از «بمب کثیف» در خاک واشنگتن پرده برداشت.",
+            "طرح سناریوی حمله رادیولوژیک در داخل آمریکا، خط قرمز مستقیم واشنگتن است و تقابل طرفین را از نبرد نیابتی به تهدید مستقیم امنیت ملی آمریکا ارتقا می‌دهد.",
+            "افشای این گزارش در رسانه‌های اصلی، فضا را برای تصمیمات بی‌سابقه امنیتی و تشدید فشارهای حقوقی و نظامی علیه نهادهای اطلاعاتی ایران آماده می‌کند."
+        ],
+        "impact": "احتمال تغییر فاز برخورد آمریکا از تحریم‌های اقتصادی به اقدامات تلافی‌جویانه امنیتی و مستقیم.",
+        "tag": "امنیتی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUSjRVOGw4SDczZEdWbmxYUHdJdUxnSVFJbFYwTXZtRnVZcVVSZi1IR1lvSEp3blhkZXp6Z2xpWE1YMExvMTBwT3E0TWFacFBuZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUSjRVOGw4SDczZEdWbmxYUHdJdUxnSVFJbFYwTXZtRnVZcVVSZi1IR1lvSEp3blhkZXp6Z2xpWE1YMExvMTBwT3E0TWFacFBuZUE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794872833.0
+    },
+    {
         "id": "91cdc80dd7",
         "title_fa": "واکنش مقتدرانه مقامات ج.ا به تحریم‌های جدید آمریکا",
         "title_en": "Iran Says New Sanctions Threatened by ‘Desperate’ US Will Fail",
@@ -5502,23 +5521,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0IzVVlNeWUwUkhrcmwtcW81VjFzTUVHaV9RNWJhdkY1SW05c2ozRG1rTzVoS0dOZW9zUmdMU19WTGpkUEFncHV2S094eUpSV085c09uOG8wY1BqODc1dng2RlRXUkNNZkFubDNxRjZUSTlaWEt0ZWZJenBtOF9XQmhrdm9qZTQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794574842.0
-    },
-    {
-        "id": "73172663ed",
-        "title_fa": "نگرانی فزاینده آژانس بین‌المللی انرژی اتمی درباره سایت اصفهان",
-        "title_en": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
-        "summary": [
-            "بر اساس گزارش رویترز، آژانس بین‌المللی انرژی اتمی در گزارشی اعلام کرده است که نسبت به یک تأسیسات غنی‌سازی اورانیوم در اصفهان «به‌طور فزاینده‌ای نگران» است.",
-            "این نهاد ناظر هسته‌ای سازمان ملل تصریح کرده که ایران سال گذشته وجود این مرکز را اعلام کرد، اما تاکنون اجازه بازرسی از آن را نداده است."
-        ],
-        "impact": "مطابق گزارش آژانس به نقل از رویترز، بازرسی‌نشدن تأسیسات اعلام‌شده در اصفهان سطح نگرانی‌های نظارتی نهاد هسته‌ای سازمان ملل را افزایش داده است.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/other/iaea-increasingly-concerned-about-iranian-enrichment-plant-its-report-says/ar-AA2hmFCv",
-        "clean_url": "https://www.msn.com/en-us/news/other/iaea-increasingly-concerned-about-iranian-enrichment-plant-its-report-says/ar-AA2hmFCv",
-        "image": "https://www.reuters.com/resizer/v2/R5DVSJRQUFO4TFTX46COZ5VBUE.jpg?auth=5dd1be750e3bb4ec42d67f163ee4f0086f434a29a6e7408c27d5e5d465cb2c2e&height=1005&width=1920&quality=80&smart=true",
-        "timestamp": 1794574030.0
     }
 ]
