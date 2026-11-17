@@ -380,6 +380,24 @@
         "timestamp": 1794857340.0
     },
     {
+        "id": "3902762af9",
+        "title_fa": "شکایت رسانه‌های حکومتی از وضعیت معیشتی مردم",
+        "title_en": "Iran demands compensation from Persian Gulf states over US-Israeli attacks – State media",
+        "summary": [
+            "خبرگزاری فارس در گزارشی نادر به مشکلات معیشتی شدید مردم و ترک تحصیل کودکان پرداخته است.",
+            "این گزارش‌ها اعتراف به فاصله عمیق میان وعده‌های حکومتی و واقعیت تلخ زندگی روزمره است."
+        ],
+        "impact": "اذعان رسانه‌های وابسته به نهادهای قدرت به بحران‌های عمیق اجتماعی و اقتصادی.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611173913",
+        "clean_url": "https://www.iranintl.com/en/202611173913",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1794853800.0
+    },
+    {
         "id": "cd28b56838",
         "title_fa": "پیش‌بینی بسنت از سقوط ۲۵ درصدی ارزش ریال",
         "title_en": "Iran lawmaker urges expanded land trade to counter blockade",
@@ -1072,6 +1090,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2tpYnc1ejdPQ0lpUUpMXzltbEJqcndLb3pmNG90RW1UTHZkcjdSLTdpelg4NzI0YVZzcm40UmFEa3U1WHNlRkNDZFlCMy11RjBLa3FLYll3aWM4TUVyNnlkVUlLV1hYWEUtM01FeWxfWDFfRjNuTEJTdXVMb2JYSVI1WUJPOEJXWDdYZ0s0MDNndDYyTVHSAZYBQVVfeXFMTl9raWJ3NXo3T0NJaVFKTF85bWxCanJ3S296ZjRvdEVtVEx2ZHI3Ui03aXpYODcyNGFWc3JuNFJhRGt1NVhzZUZDQ2RZQjMtdUYwS2txS2JZd2ljOE1FcjZ5ZFVJS1dYWFhFLTNNRXlsX1gxX0YzbkxCU3V1TG9iWElSNVlCTzhCV1g3WGdLNDAzZ3Q2Mk1R",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794826072.0
+    },
+    {
+        "id": "f08a1d060d",
+        "title_fa": "طرح تهدید مقام‌های ارشد آمریکایی با بمب کثیف",
+        "title_en": "Iran May Be Plotting Attacks On Senior Trump Officials Using Dirty Bombs: Report",
+        "summary": [
+            "نهادهای اطلاعاتی آمریکا از گفت‌وگوهای درون ج.ه.ا درباره حمله به مقام‌های ارشد دولت دونالد ترامپ خبر دادند.",
+            "این سناریوها شامل استفاده از تسلیحات شیمیایی و بمب کثیف در خاک واشنگتن است.",
+            "مقام‌های امنیتی آمریکا می‌گویند این طرح‌ها هنوز در حد بررسی گزینه است و دستور اجرایی صادر نشده."
+        ],
+        "impact": "افزایش شدید حفاظتی از مقام‌های دولت ترامپ و تشدید تنش‌های امنیتی میان واشنگتن و تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Oneindia",
+        "url": "https://www.oneindia.com/international/iran-may-be-plotting-attacks-on-senior-trump-officials-using-dirty-bombs-report-8261621.html",
+        "clean_url": "https://www.oneindia.com/international/iran-may-be-plotting-attacks-on-senior-trump-officials-using-dirty-bombs-report-8261621.html",
+        "image": "http://www.bing.com/th?id=ONUT.9rSgrLsZaFxkmn3vw5S0ow&pid=News",
+        "timestamp": 1794824880.0
     },
     {
         "id": "a94f5d37cf",
@@ -5483,41 +5520,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iaea-increasingly-concerned-about-iranian-enrichment-plant-its-report-says/ar-AA2hmFCv",
         "image": "https://www.reuters.com/resizer/v2/R5DVSJRQUFO4TFTX46COZ5VBUE.jpg?auth=5dd1be750e3bb4ec42d67f163ee4f0086f434a29a6e7408c27d5e5d465cb2c2e&height=1005&width=1920&quality=80&smart=true",
         "timestamp": 1794574030.0
-    },
-    {
-        "id": "0e46f5a64e",
-        "title_fa": "پنهان‌کاری پزشکیان درباره نقش حکومت در نابودی محیط‌زیست",
-        "title_en": "What Iran’s President Left Out Of His COP31 Climate Speech",
-        "summary": [
-            "مسعود پزشکیان در اجلاس اقلیمی، نقش تخریبی نهادهای حاکمیتی و ساخت‌وسازهای سپاه را در بحران آب و تصرف زیستگاه‌ها کتمان کرد.",
-            "تخریب تالاب‌ها و بحران زیست‌محیطی ایران نتیجه غارتگری ده‌ها ساله و سوءمدیریت ساختاری است، نه فقط تغییرات آب‌وهوایی جهانی."
-        ],
-        "impact": "رسوایی ژست‌های دیپلماتیک تهران در جوامع بین‌المللی و افشای بیشتر بحران‌های داخلی.",
-        "tag": "محیط زیست",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/shookabidarian/2026/11/13/what-irans-president-left-out-of-his-cop31-climate-speech/",
-        "clean_url": "https://www.forbes.com/sites/shookabidarian/2026/11/13/what-irans-president-left-out-of-his-cop31-climate-speech",
-        "image": "http://www.bing.com/th?id=ONUT.LohL7rrCbazXd53ivsQ1hw&pid=News",
-        "timestamp": 1794573720.0
-    },
-    {
-        "id": "fb3bb28522",
-        "title_fa": "هشدار نیوسام درباره خطای فاجعه‌بار جنگ با ج.ا",
-        "title_en": "‘Colossal mistake’: Gov. Newsom tells Iranian filmmaker about Iran war",
-        "summary": [
-            "گاوین نیوسام در گفتگو با یک فیلمساز ایرانی، هرگونه درگیری نظامی مستقیم با ج.ا را اشتباهی بزرگ و ویرانگر خواند.",
-            "این موضع‌گیری نشان‌دهنده تمایل طیف دموکرات برای پرهیز از تنش نظامی مستقیم و تمرکز بر روش‌های دیگر است."
-        ],
-        "impact": "کاهش احتمال مداخله نظامی مستقیم آمریکا در کوتاه‌مدت با وجود فشارهای منطقه‌ای.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVhnX21QeG9hRlpReUxGdGhzcnltVS1JZ2tjZHkxQi0wWHA1eUVyTVBfY3lQdER2dnhiSndmd1VhUFl3REJZQXlMTGVkUFBMLXJ5N09xYmxrdGZkTl9lQ3NFTG5mdE5kbWRCTzNtRmRqdHh0eDAtcE5FUTdKSTFvVHFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVhnX21QeG9hRlpReUxGdGhzcnltVS1JZ2tjZHkxQi0wWHA1eUVyTVBfY3lQdER2dnhiSndmd1VhUFl3REJZQXlMTGVkUFBMLXJ5N09xYmxrdGZkTl9lQ3NFTG5mdE5kbWRCTzNtRmRqdHh0eDAtcE5FUTdKSTFvVHFB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794573660.0
     }
 ]
