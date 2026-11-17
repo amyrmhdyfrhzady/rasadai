@@ -18,6 +18,25 @@
         "timestamp": 1794935024.0
     },
     {
+        "id": "1dc73d4d06",
+        "title_fa": "چرخش واشنگتن از توافق اتمی به تغییر ر-ژ-ی-م",
+        "title_en": "Iran warns of possible gas shortages in northern provinces",
+        "summary": [
+            "کارشناسان رسانه دولتی اعتراف کردند که شانس توافق سیاسی با آمریکا به شدت افت کرده است.",
+            "استراتژی جدید دونالد ترامپ روی فشار حداکثری اقتصادی، عملیات امنیتی و زیرساختی متمرکز شده است.",
+            "هدف نهایی از این فشارها کنترل منابع کشور از طریق براندازی حکومت ارزیابی می‌شود."
+        ],
+        "impact": "افزایش ریسک امنیتی و فروپاشی اقتصادی زیر فشار تحریم‌های هدفمند",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611171950",
+        "clean_url": "https://www.iranintl.com/en/202611171950",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1794933540.0
+    },
+    {
         "id": "5af9540b6a",
         "title_fa": "تغییر راهبرد واشنگتن؛ تمرکز ترامپ بر فروپاشی حكومت",
         "title_en": "Iran's FM, parliament speaker accuse US media of 'false flag' campaign",
@@ -5510,23 +5529,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzRBanFEdWdrdmpDNDU3UXMzLWlCZHkxa0o3QkRDYWd3N0pMdnF6NExRaUhGbnhPVzhTQ2p3LWVCVVY1R09FTjRnTGtpZ2dQcjU0STRodW5yOHloVGJPWTlOLVBXOGVLSGg0dWI3aG9qcGFWMHU2XzRFSERGQjNmc3A2aEhSV1JXaFNVQjhPeURmR1Q1cFJiZ0xXWEVka3Yz0gGmAUFVX3lxTE9GLWJmOFBqMEppajNoZXM1QjdsbExOMEc0ODVwZGpvZGpvVzFaRjREV05XS1ZsaXRQQWcxSlpnR3pzOGwzSjlwV016MGtvNENUVHVfWTQ2OGxIdHliZ0dya2FMdFdMeHpuOF9VTUhoOXEweTl0c2RXNW11LU1aTm9UNUtlZkZXbGRBQkpWcnlTTVB1OE9VLXdwRms3WExaanJjaDNoWlE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794652853.0
-    },
-    {
-        "id": "0ec3337e12",
-        "title_fa": "جهش نفت با تردید ترامپ درباره توافق با ج.ا",
-        "title_en": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
-        "summary": [
-            "دونالد ترامپ هرگونه نیاز به توافق جدید با تهران را زیر سوال برد.",
-            "بازار انرژی بلافاصله به این موضع‌گیری واکنش نشان داد و قیمت نفت صعودی شد."
-        ],
-        "impact": "بازگشت سیاست فشار حداکثری و افزایش ریسک در بازارهای انرژی",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794652311.0
     }
 ]
