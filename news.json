@@ -481,6 +481,24 @@
         "timestamp": 1794925740.0
     },
     {
+        "id": "8f30c2f140",
+        "title_fa": "سرسختی ج.ا در مذاکرات پس از انتخابات آمریکا",
+        "title_en": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
+        "summary": [
+            "تغییر موازنه قدرت در واشنگتن باعث شده تا تهران با اعتماد به نفس بیشتری در برابر غرب موضع بگیرد.",
+            "مقامات غربی معتقدند ج.ا با احساس قدرت استراتژیک، از انعطاف در مذاکرات فاصله گرفته است."
+        ],
+        "impact": "توقف هرگونه پیشرفت دیپلماتیک و افزایش تنش‌های هسته‌ای در ماه‌های پیش رو.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "nytimes.com",
+        "url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
+        "clean_url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794923580.0
+    },
+    {
         "id": "5593bf7ff6",
         "title_fa": "بسته شدن درهای تاسیسات اتمی به روی بازرسان آژانس",
         "title_en": "Iran: No UN inspectors allowed at nuclear sites until war with US is over",
@@ -5515,24 +5533,5 @@
         "clean_url": "https://www.iranintl.com/en/202611147170",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1794683100.0
-    },
-    {
-        "id": "68072a4dd5",
-        "title_fa": "تلاش سپاه برای بازسازی چهره بسیج زیر چتر «جانفدا»",
-        "title_en": "Iran’s Janfada campaign gives Basij recruitment a patriotic banner",
-        "summary": [
-            "سپاه پاسداران برای جبران ریزش نیرو و سرپوش نهادن بر سوابق سرکوب‌های خیابانی، پویش جدیدی با ظاهر میهن‌پرستانه راه‌اندازی کرده است.",
-            "فرمانده سپاه تهران از تشکیل و تجهیز اولین گردان این طرح برای آموزش‌های رزمی و تیراندازی خبر داده است.",
-            "حاکمیت قصد دارد با سوءاستفاده از احساسات ملی، جوانان را به بدنه نیروهای امنیتی تزریق کند."
-        ],
-        "impact": "تلاش دستگاه امنیتی برای جذب نیروی جدید سرکوب تحت پوشش شعارهای ملی‌گرایانه.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611151752",
-        "clean_url": "https://www.iranintl.com/en/202611151752",
-        "image": "http://www.bing.com/th?id=ONUT.dt7klagQuFdwYKKdXS59wQ&pid=News",
-        "timestamp": 1794682800.0
     }
 ]
