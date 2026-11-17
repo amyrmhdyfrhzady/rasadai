@@ -573,6 +573,25 @@
         "timestamp": 1794902723.0
     },
     {
+        "id": "c79be4cad5",
+        "title_fa": "ادعای ترامپ درباره توطئه بمب کثیف ج.ا در واشنگتن",
+        "title_en": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+        "summary": [
+            "دونالد ترامپ مدعی شده که دولت او گزارش‌های مربوط به تلاش ج.ا برای استفاده از بمب کثیف یا سلاح شیمیایی در خاک آمریکا را بررسی می‌کند.",
+            "کاخ سفید در حالی این موضوع را جدی خوانده که نهادهای امنیتی تایید کرده‌اند هیچ تهدید معتبر و فوری در این زمینه وجود ندارد.",
+            "این ادعاها در شرایطی مطرح می‌شود که سیاست‌های تهاجمی واشنگتن علیه تهران با انتقادات شدید داخلی روبه‌رو است."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و تشدید فشار روانی بر حاکمیت ج.ا در عرصه بین‌المللی",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+        "clean_url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+        "image": "https://i.guim.co.uk/img/media/76a2d0f3872a6feca8f7460199488dda0d73ed4e/695_0_4160_3327/master/4160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69c7c44244008650587da89519a48e0c",
+        "timestamp": 1794902580.0
+    },
+    {
         "id": "5e793a90a7",
         "title_fa": "رقابت ایالت‌های آمریکا برای میزبانی آکادمی فضایی ترامپ",
         "title_en": "Map Shows States Battling to Host Trump’s Space Academy",
@@ -5512,23 +5531,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVDFQREl3VERRVDc2TTEtMEFpRkNGcU5YWEE2S1gwN194STk0aTVHcW53QkhhTnd3aU9zdnB1RThzLWZPYjdscFVQaHJ3UEVYTlJDWWRJdHoyZEdXMm84Y1l5RmFHLVNxcmdWcE5KTklWMEtL",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794654840.0
-    },
-    {
-        "id": "ece26df5c6",
-        "title_fa": "آماده‌باش تیم ترامپ زیر سایه تهدیدهای ج--وری اسلامی",
-        "title_en": "Iran's threats push Bessent, other Trump officials onto military bases",
-        "summary": [
-            "مقام‌های ارشد تیم دونالد ترامپ از جمله اسکات بسنت به دلیل تهدیدهای مستقیم ایران به پایگاه‌های نظامی منتقل شده‌اند.",
-            "واشنگتن سطح حفاظت از چهره‌های کلیدی دولت آینده را به شکل بی‌سابقه‌ای افزایش داده است."
-        ],
-        "impact": "افزایش شدید سطح تنش‌های امنیتی و حفاظتی پیرامون مقامات ارشد آمریکایی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTU2OExfdTJRWDRLejFsUG8yZ0xiOGNsaXo3aDd4TmpJUTJOWnJ3OTQyWk52UW1mXzhTX20wQjFuX2g1LUtYcUJBZldzU3Jsc2F1b28wNVJaY3pMS1IwSXp6SS1jVWdLWnc2dUYyMVZZYTg2ejhHSGlySFdSX1pBclBfb3NXZEk4RGF2U0RTU0hCb1g1YnE2WFFiYzBVLWYx?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTU2OExfdTJRWDRLejFsUG8yZ0xiOGNsaXo3aDd4TmpJUTJOWnJ3OTQyWk52UW1mXzhTX20wQjFuX2g1LUtYcUJBZldzU3Jsc2F1b28wNVJaY3pMS1IwSXp6SS1jVWdLWnc2dUYyMVZZYTg2ejhHSGlySFdSX1pBclBfb3NXZEk4RGF2U0RTU0hCb1g1YnE2WFFiYzBVLWYx",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794654395.0
     }
 ]
