@@ -757,6 +757,25 @@
         "timestamp": 1794900600.0
     },
     {
+        "id": "1d9dfe1ac4",
+        "title_fa": "اعتراف تلویزیون ج.ا به شکست برجام و تغییر استراتژی ترامپ",
+        "title_en": "Iran has no supply problem for medicine, essential goods, central bank chief says",
+        "summary": [
+            "کارشناسان نزدیک به حاکمیت تایید کردند که امید به توافق با واشنگتن به صفر رسیده است.",
+            "استراتژی جدید ترامپ از تمرکز بر پرونده هسته‌ای به سمت فروپاشی ساختار قدرت تغییر جهت داده است.",
+            "فشار اقتصادی و ضربه به زیرساخت‌ها جایگزین درگیری نظامی مستقیم شده تا منابع کشور تحت کنترل قرار گیرد."
+        ],
+        "impact": "تغییر پارادایم واشنگتن از مهار به براندازی، ریسک‌های امنیتی و اقتصادی ج.ا را به شدت افزایش داده است.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611170788",
+        "clean_url": "https://www.iranintl.com/en/202611170788",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/cddec14c25f38a8f111e5755df591c3a5d14777b-969x632.jpg?rect=0,62,969,509&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794899940.0
+    },
+    {
         "id": "d2c4b8753a",
         "title_fa": "تایوان؛ قربانی احتمالی دیدار ترامپ و شی در اجلاس اپک",
         "title_en": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit",
@@ -5513,24 +5532,5 @@
         "clean_url": "https://tass.com/world/2218199",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1794666600.0
-    },
-    {
-        "id": "a88076c5f6",
-        "title_fa": "آمریکا ادعای حاکمیت درباره حمله به رادار بحرین را تکذیب کرد",
-        "title_en": "US Military Denies Iran's Radar Attack Claim Amid Escalating Gulf Tensions",
-        "summary": [
-            "ارتش ایالات متحده ادعای رسانه‌های حکومتی ایران درباره انهدام سیستم راداری در بحرین را کاملاً رد کرد.",
-            "پدافند آمریکا دو فروند پهپاد انتحاری اعزامی از سوی سـپـاه را پیش از اصابت به هدف در آسمان بحرین سرنگون کرد.",
-            "این تنش پس از ادعای تهران مبنی بر حمله هوایی به زیرساخت مخابراتی در استان هرمزگان رخ داد."
-        ],
-        "impact": "بالارفتن ضریب هوشیاری نظامی آمریکا در خلیج فارس و خنثی‌سازی فوری تهدیدات پهپادی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "jewishpostandnews",
-        "url": "https://jewishpostandnews.ca/world-views/us-denies-iran-radar-attack-claim-gulf-tensions/",
-        "clean_url": "https://jewishpostandnews.ca/world-views/us-denies-iran-radar-attack-claim-gulf-tensions",
-        "image": "https://jewishpostandnews.ca/wp-content/uploads/2026/11/Anti-IR_Iran_demonstration_Sofia_2026-02-15_-_12-4-1000x600.jpg",
-        "timestamp": 1794665580.0
     }
 ]
