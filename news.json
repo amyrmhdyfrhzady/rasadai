@@ -128,6 +128,24 @@
         "timestamp": 1794935024.0
     },
     {
+        "id": "9bc837934b",
+        "title_fa": "سنجش افکار عمومی درباره جنگ احتمالی با ج.ا",
+        "title_en": "How popular is the Iran War?",
+        "summary": [
+            "بررسی‌های آماری جدید میزان استقبال جامعه از درگیری نظامی با حاکمیت تهران را زیر ذره‌بین برده است.",
+            "این نوع نظرسنجی‌ها نشان‌دهنده میزان آمادگی ذهنی برای تغییرات بنیادین در معادلات امنیتی منطقه است."
+        ],
+        "impact": "سنجش میزان حمایت مردمی از گزینه نظامی علیه سیستم حکومتی.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Silver Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794933840.0
+    },
+    {
         "id": "1dc73d4d06",
         "title_fa": "چرخش واشنگتن از توافق اتمی به تغییر ر-ژ-ی-م",
         "title_en": "Iran warns of possible gas shortages in northern provinces",
@@ -5513,24 +5531,5 @@
         "clean_url": "https://www.southshorepress.com/world/iran-says-it-hit-a-u-s-radar-in-bahrain-as-washington-reports-both-drones-downed-977c7e63",
         "image": "https://pfjuqfybqkepyuuwwnnb.supabase.co/storage/v1/object/public/newspaper-images/6ffdfa13-0b9d-47d4-82a5-b7be58a858fb.jpg",
         "timestamp": 1794667920.0
-    },
-    {
-        "id": "f062478a71",
-        "title_fa": "ادعای سپاه درباره سرنگونی هفدهمین پهپاد آمریکایی بر فراز قشم",
-        "title_en": "Iran shoots down 17th US MQ-1 drone over Qeshm Island in country's south — IRGC",
-        "summary": [
-            "خبرگزاری تاس به نقل از روابط عمومی سپاه پاسداران گزارش داد یک فروند پهپاد شناسایی و رزمی ام‌کیو-۱ آمریکا ساعت ۱۴:۳۰ به وقت محلی بر فراز جزیره قشم هدف قرار گرفته است.",
-            "بر اساس بیانیه سپاه، این هفدهمین پهپاد ام‌کیو-۱ آمریکاست که توسط یک سامانه پدافند هوایی جدید متعلق به نیروی هوافضای سپاه منهدم می‌شود.",
-            "در این بیانیه ادعا شده است که انهدام این پهپاد، شکست دیگری در ماموریت‌های اطلاعاتی ایالات متحده در منطقه محسوب می‌شود."
-        ],
-        "impact": "گزارش سپاه درباره ساقط‌کردن پهپاد آمریکایی بر فراز تنگه هرمز و جزیره قشم، سطح تنش‌های نظامی میان تهران و واشنگتن را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2218199",
-        "clean_url": "https://tass.com/world/2218199",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1794666600.0
     }
 ]
