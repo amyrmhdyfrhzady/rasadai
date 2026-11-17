@@ -56,6 +56,25 @@
         "timestamp": 1794931500.0
     },
     {
+        "id": "b7d7e9f757",
+        "title_fa": "افزایش تنش‌های نظامی میان تهران و واشنگتن در خلیج‌فارس",
+        "title_en": "Iran-US tensions climb amid tanker attacks, strike on Qeshm",
+        "summary": [
+            "گزارش‌ها از وقوع انفجار در جزیره قشم و حملات تازه به نفتکش‌ها در تنگه هرمز حکایت دارد.",
+            "نیروهای نیابتی یمن در حال پیشروی به سمت عدن هستند و درگیری‌ها در مریب شدت گرفته است.",
+            "حملات اسرائیل به غزه و جنوب لبنان همچنان ادامه دارد."
+        ],
+        "impact": "بالارفتن ریسک امنیتی در آب‌های جنوبی و تشدید فضای جنگی در منطقه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/iran-us-tensions-climb-amid-tanker-attacks-strike-qeshm",
+        "clean_url": "https://www.newarab.com/news/iran-us-tensions-climb-amid-tanker-attacks-strike-qeshm",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2304985544.jpeg?itok=dlHNMMmR",
+        "timestamp": 1794929880.0
+    },
+    {
         "id": "70d37af734",
         "title_fa": "تغییر رویکرد واشنگتن به فشار اقتصادی و براندازی",
         "title_en": "Iran deputy FM says nuclear doctrine unchanged despite Khamenei's killing",
@@ -5513,23 +5532,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/marco-rubio-defends-donald-trumps-iran-war-as-necessary-after-midterm-losses/ar-AA2hqDSs",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hqySU.img?w=1200&h=800&m=4&q=74",
         "timestamp": 1794660026.0
-    },
-    {
-        "id": "70e315787a",
-        "title_fa": "ارزیابی جامع بریتانیکا از ساختار، نفوذ و تحریم‌های سـپاه پاسداران",
-        "title_en": "Islamic Revolutionary Guard Corps (IRGC) | History, Growth, Foundation, Leadership, & Sanctions",
-        "summary": [
-            "سـپاه پاسداران از یک نیروی نظامی نوپا در سال ۱۳۵۷ به شریان اصلی قدرت نظامی، سیاسی و امپراتوری اقتصادی جمهوری اسلامی تبدیل شده است.",
-            "توسعه نفوذ منطقه‌ای و برنامه‌های موشکی، این نهاد را در صدر فهرست تحریم‌های سنگین غرب و فشارهای بین‌المللی قرار داده است."
-        ],
-        "impact": "افزایش تمرکز نهادهای بین‌المللی بر رصد شریان‌های مالی و شبکه‌های دور زدن تحریم توسط سـپاه.",
-        "tag": "سپاه",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVDFQREl3VERRVDc2TTEtMEFpRkNGcU5YWEE2S1gwN194STk0aTVHcW53QkhhTnd3aU9zdnB1RThzLWZPYjdscFVQaHJ3UEVYTlJDWWRJdHoyZEdXMm84Y1l5RmFHLVNxcmdWcE5KTklWMEtL?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVDFQREl3VERRVDc2TTEtMEFpRkNGcU5YWEE2S1gwN194STk0aTVHcW53QkhhTnd3aU9zdnB1RThzLWZPYjdscFVQaHJ3UEVYTlJDWWRJdHoyZEdXMm84Y1l5RmFHLVNxcmdWcE5KTklWMEtL",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794654840.0
     }
 ]
