@@ -1,5 +1,23 @@
 [
     {
+        "id": "263f65f9ed",
+        "title_fa": "تغییر راهبرد واشنگتن؛ تمرکز ترامپ بر تغییر سیستم و فشار اقتصادی",
+        "title_en": "European officials warn Iran nuclear threat growing as Arab states fear strikes",
+        "summary": [
+            "مقام‌های اروپایی و تحلیلگران داخلی اذعان دارند که شانس توافق سیاسی با واشنگتن عملاً به صفر رسیده است.",
+            "راهبرد اصلی ایالات متحده از درگیری نظامی مستقیم به فشار اقتصادی حداکثری و هدف قرار دادن زیرساخت‌ها تغییر کرده است."
+        ],
+        "impact": "افزایش فشارهای اقتصادی و امنیتی، اقتصاد ج.ه. را بیش از پیش به پرتگاه می‌کشد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611179577",
+        "clean_url": "https://www.iranintl.com/en/202611179577",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/8cbe544d40156658353cbe8a92e58fc2967de047-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794936300.0
+    },
+    {
         "id": "da44e291bc",
         "title_fa": "جهش اعدام‌ها در عربستان همزمان با تنش‌های منطقه‌ای",
         "title_en": "Saudi Arabia's executions surge amid regional conflict",
@@ -5514,23 +5532,5 @@
         "clean_url": "https://www.iranintl.com/en/202611142466",
         "image": "http://www.bing.com/th?id=ONUT.shCfhG_X5isM3tmLfDY6zg&pid=News",
         "timestamp": 1794660120.0
-    },
-    {
-        "id": "60c89f3682",
-        "title_fa": "دفاع مارکو روبیو از جنگ با جـ.ـمهوری اسـ.ـلامی",
-        "title_en": "Marco Rubio defends Donald Trump's Iran war as 'necessary' after midterm losses",
-        "summary": [
-            "مارکو روبیو به عنوان وزیر خارجه آمریکا تصمیم دونالد ترامپ برای ورود به درگیری نظامی با تهران را کاملاً ضروری خواند.",
-            "این موضع‌گیری در حالی مطرح شده که جمهوری‌خواهان در انتخابات میان‌دوره‌ای کنگره شکست خورده‌اند."
-        ],
-        "impact": "عزم جدی دولت ترامپ برای ادامه فشار نظامی علیه تهران باوجود هزینه‌های سیاسی داخلی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "International Business Times UK",
-        "url": "https://www.msn.com/en-gb/news/other/marco-rubio-defends-donald-trumps-iran-war-as-necessary-after-midterm-losses/ar-AA2hqDSs",
-        "clean_url": "https://www.msn.com/en-gb/news/other/marco-rubio-defends-donald-trumps-iran-war-as-necessary-after-midterm-losses/ar-AA2hqDSs",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hqySU.img?w=1200&h=800&m=4&q=74",
-        "timestamp": 1794660026.0
     }
 ]
