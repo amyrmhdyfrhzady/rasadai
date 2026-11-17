@@ -932,6 +932,25 @@
         "timestamp": 1794857340.0
     },
     {
+        "id": "70c93536aa",
+        "title_fa": "فروپاشی اقتصادی ج.ا؛ مقایسه سقوط ریال با فروپاشی شوروی",
+        "title_en": "Netanyahu says Iran's missiles threaten Europe as well as Israel",
+        "summary": [
+            "اسکات بسنت در مصاحبه‌ای پیش‌بینی کرد ارزش ریال ایران تا سال آینده افت شدیدی خواهد داشت و این سقوط را با فروپاشی اقتصادی شوروی مقایسه کرد.",
+            "مقام‌های ارشد ج.ا در پناهگاه‌های زیرزمینی مخفی شده‌اند و درک درستی از شرایط وخیم معیشتی مردم ندارند.",
+            "تحریم‌های ایالات متحده دسترسی مسئولان حکومتی به سفرهای خارجی و امکانات غرب را کاملاً قطع کرده است."
+        ],
+        "impact": "فشار حداکثری اقتصادی مهلک، ساختار سیاسی و نظامی حاکمیت را به نقطه فروپاشی نزدیک‌تر می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611167218",
+        "clean_url": "https://www.iranintl.com/en/202611167218",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1794854220.0
+    },
+    {
         "id": "3902762af9",
         "title_fa": "شکایت رسانه‌های حکومتی از وضعیت معیشتی مردم",
         "title_en": "Iran demands compensation from Persian Gulf states over US-Israeli attacks – State media",
@@ -5499,24 +5518,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/in-new-memoir-biden-says-netanyahu-made-repeated-empty-promises-to-reduce-civilian-harm-in-gaza",
         "image": "https://static-cdn.toi-media.com/www/uploads/2024/08/AP24207646127351-e1758650940838.jpg",
         "timestamp": 1794610800.0
-    },
-    {
-        "id": "17d109ef05",
-        "title_fa": "سفر محرمانه رئیس موساد به واشنگتن برای هماهنگی با ترامپ",
-        "title_en": "Mossad chief visits Washington for Iran talks with Trump officials",
-        "summary": [
-            "رئیس موساد برای رایزنی درباره پرونده ج.ا.ا با تیم ترامپ به واشنگتن رفته است.",
-            "نتانیاهو به دنبال متقاعد کردن ترامپ برای اقدام نظامی مستقیم است.",
-            "ترامپ فعلاً اولویت را به محاصره بندری و فشار اقتصادی حداکثری داده، اما گزینه نظامی را روی میز نگه داشته است."
-        ],
-        "impact": "افزایش فشار برای بستن شریان‌های حیاتی صادرات نفت و تشدید محاصره دریایی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Nation",
-        "url": "https://www.nation.com.pk/14-Nov-2026/mossad-chief-visits-washington-iran-talks-trump-officials",
-        "clean_url": "https://www.nation.com.pk/14-Nov-2026/mossad-chief-visits-washington-iran-talks-trump-officials",
-        "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-        "timestamp": 1794609720.0
     }
 ]
