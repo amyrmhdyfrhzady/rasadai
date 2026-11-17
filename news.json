@@ -733,6 +733,25 @@
         "timestamp": 1794844920.0
     },
     {
+        "id": "2cce7256b7",
+        "title_fa": "استقرار سومین ناو هواپیمابر آمریکا در خلیج فارس",
+        "title_en": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+        "summary": [
+            "نیروی دریایی سپاه تهدید کرد که مسیر جنوبی تنگه هرمز کاملاً بسته و مین‌گذاری شده است.",
+            "مقامات نظامی ج. ا اعلام کردند تنگه هرمز تا زمان پذیرش شرایط تهران باز نخواهد شد.",
+            "گزارش‌های اطلاعاتی آمریکا نشان می‌دهد که نهادهای امنیتی حاکمیت در حال بررسی گزینه‌های ترور مقامات ارشد دولت ترامپ هستند."
+        ],
+        "impact": "افزایش شدید ریسک در مسیرهای کشتیرانی خلیج فارس و بالا رفتن احتمال درگیری نظامی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+        "clean_url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+        "image": "http://www.bing.com/th?id=ONUT.V2NmiSdQLYKgrq2xU0n3DA&pid=News",
+        "timestamp": 1794844800.0
+    },
+    {
         "id": "fb625342fc",
         "title_fa": "پیش‌بینی فروپاشی اقتصادی ج.ا مشابه سقوط شوروی",
         "title_en": "Pakistan awaiting US response to Iran's proposal, foreign minister says",
@@ -5502,24 +5521,5 @@
         "clean_url": "https://nationalinterest.org/feature/why-us-and-china-need-ai-hotline",
         "image": "http://www.bing.com/th?id=ONUT.PdA9E8qlq0FaW-pRqD5raQ&pid=News",
         "timestamp": 1794577680.0
-    },
-    {
-        "id": "dee891d5c4",
-        "title_fa": "پلن تهران برای اخلال در کریدورهای انرژی و ترانزیت قفقاز",
-        "title_en": "Why Iran hasn’t given up on the Caucasus",
-        "summary": [
-            "ضعف فعلی اقتصادی و نظامی، توان درگیری مستقیم را از ج.ا.ا گرفته اما تمرکز بر خرابکاری در مسیرهای ترانزیتی شمال غرب همچنان باقی است.",
-            "هدف کلیدی، جلوگیرى از شکل‌گیری مسیرهای ترانزیتی وابسته به غرب و تهدید مداوم خط لوله نفت باکو-تفلیس-جیحان است.",
-            "تغییر ژئوپلیتیک قفقاز و مسدود شدن مرزهای سنتی، شریان‌های ارزی و ترانزیتی ایران را بیش از پیش تحت فشار می‌گذارد."
-        ],
-        "impact": "تلاش برای ایجاد اختلال در مسیرهای انرژی قفقاز، خطر تصاعد تنش میان تهران و باکو را بالا می‌برد.",
-        "tag": "قفقاز",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The National Interest on MSN",
-        "url": "https://www.msn.com/en-us/news/other/why-iran-hasn-t-given-up-on-the-caucasus/ar-AA2hoto7",
-        "clean_url": "https://www.msn.com/en-us/news/other/why-iran-hasn-t-given-up-on-the-caucasus/ar-AA2hoto7",
-        "image": "http://www.bing.com/th?id=ONUT.cWZUz1fv8lQ57JZaY84Cew&pid=News",
-        "timestamp": 1794576960.0
     }
 ]
