@@ -217,6 +217,25 @@
         "timestamp": 1794878780.0
     },
     {
+        "id": "b464737abc",
+        "title_fa": "عملیات‌های پنهان مسکو و تهران در خاک انگلیس",
+        "title_en": "Spies, attacks and sabotage: Russia and Iran’s obsession with the British ‘old fox’",
+        "summary": [
+            "سرویس امنیتی انگلیس نسبت به افزایش فعالیت‌های تروریستی و جاسوسی جمهوری اسلامی و روسیه هشدار داد.",
+            "حکومت ایران با تمام توان تلاش می‌کند مخالفان خود را در لندن و سایر شهرهای جهان خفه کند.",
+            "بازداشت عوامل وابسته به تهران و مسکو در هفته‌های اخیر، ابعاد جدیدی از جنگ سایه‌ها را آشکار کرده است."
+        ],
+        "impact": "تشدید اقدامات امنیتی و ضداطلاعاتی دولت انگلیس علیه شبکه عوامل وابسته به حکومت ایران.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "EL PAÍS English",
+        "url": "https://english.elpais.com/international/2026-11-17/spies-attacks-and-sabotage-russia-and-irans-obsession-with-the-british-old-fox.html",
+        "clean_url": "https://english.elpais.com/international/2026-11-17/spies-attacks-and-sabotage-russia-and-irans-obsession-with-the-british-old-fox.html",
+        "image": "http://www.bing.com/th?id=ONUT.PuvZFoA3KZGDrc0tB9PSNw&pid=News",
+        "timestamp": 1794876840.0
+    },
+    {
         "id": "b5499e6a81",
         "title_fa": "گزارش ای‌بی‌سی۷ از اظهارات ترامپ درباره لس‌آنجلس و سن‌دیگو",
         "title_en": "Trump suggests letting Iran ‘take out’ Los Angeles and San Diego at campaign event",
@@ -5495,24 +5514,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/tibi-shows-text-messages-from-netanyahu-aide-seeking-arab-partys-cooperation-against-eisenkot",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/WhatsApp_Image_2026-11-12_at_10.33.52_2-640x400.jpeg",
         "timestamp": 1794592800.0
-    },
-    {
-        "id": "0317987271",
-        "title_fa": "قمار ترامپ روی فروپاشی از درون بدون توافق",
-        "title_en": "Tehran's biggest fear just came true: Donald Trump is betting Iranians will overthrow the regime before he has to make a deal",
-        "summary": [
-            "دولت ترامپ میز مذاکره با ج.ه را کاملاً جمع کرده و هیچ نیازی به توافق جدید نمی‌بیند.",
-            "فشار حداکثری اقتصادی و تحریم‌های نفتی با هدف زمین‌گیر کردن مالی حکومت تا پایان سال میلادی شدت گرفته است.",
-            "نبود بازرسان آتمی در خاک ایران، نگرانی‌ها درباره وضعیت واقعی ذخایر اورانیوم غنی‌شده را به اوج رسانده است."
-        ],
-        "impact": "قطع کامل مسیرهای دیپلماتیک و تشدید فشار اقتصادی برای تسریع اعتراضات مردمی علیه حکومت.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "National Security Journal",
-        "url": "https://www.msn.com/en-us/news/other/tehran-s-biggest-fear-just-came-true-donald-trump-is-betting-iranians-will-overthrow-the-regime-before-he-has-to-make-a-deal/ar-AA2hohxC",
-        "clean_url": "https://www.msn.com/en-us/news/other/tehran-s-biggest-fear-just-came-true-donald-trump-is-betting-iranians-will-overthrow-the-regime-before-he-has-to-make-a-deal/ar-AA2hohxC",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794591894.0
     }
 ]
