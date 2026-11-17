@@ -1030,6 +1030,25 @@
         "timestamp": 1794873600.0
     },
     {
+        "id": "35526effff",
+        "title_fa": "تنش در تنگه هرمز؛ هدف قرار گرفتن ۵ نفتکش",
+        "title_en": "Iran war live: 5 tankers reported hit around Hormuz; blasts heard on Qeshm",
+        "summary": [
+            "نیروهای نظامی ج.ا به کشتی‌ها درباره استفاده از مسیرهای ساختگی هشدار دادند و از سرنگونی دو پهپاد آمریکایی خبر دادند.",
+            "گزارش‌ها حاکی از اصابت موشک یا پهپاد به دست‌کم پنج شناور در آب‌های پیرامون تنگه هرمز است.",
+            "مقام‌های محلی از وقوع چند انفجار و حمله در جزیره قشم خبر دادند که به گفته آن‌ها آسیب جدی به زیرساخت‌ها نزده است."
+        ],
+        "impact": "اختلال جدی در امنیت تردد نفتکش‌ها و افزایش فوری ریسک حمل and نقل انرژی در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260504__A9RN2PU__v3__HighRes__IranUsIsraelWarTransportHormuz-1793267430.jpg?resize=1920%2C1440",
+        "timestamp": 1794873420.0
+    },
+    {
         "id": "d2b93cd89c",
         "title_fa": "افشای طرح ادعایی بمب کثیف رژیم ایران در واشنگتن",
         "title_en": "US intelligence points to possible Iranian dirty bomb plot in Washington – CNN",
@@ -5509,24 +5528,5 @@
         "clean_url": "https://tass.com/defense/2218213",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1794649440.0
-    },
-    {
-        "id": "34ce2f7f4e",
-        "title_fa": "حذف شرط اجتهاد برای وزیر اطلاعات در مجلس ج.ا",
-        "title_en": "Iran parliament to debate dropping clerical requirement for spy chief",
-        "summary": [
-            "مجلس برای پر کردن خلاء امنیتی پس از حذف اسماعیل خطیب، به دنبال تغییر قانون و انتصاب غیرمعمم‌ها در راس وزارت اطلاعات است.",
-            "خامنه‌ای با ایجاد دو نهاد موازی تحت نظر مستقیم خود، عملاً کنترل امنیتی و ایدئولوژیک را از بدنه وزارتخانه سلب و در دفتر خود متمرکز می‌کند.",
-            "این تغییر نشان‌دهنده بن‌بست در کادرسازی سنتی و تلاش برای بقای ساختار امنیتی با مهره‌های جدید است."
-        ],
-        "impact": "تغییر ساختار امنیتی به نفع تمرکز قدرت در دفتر خامنه‌ای و کاهش نفوذ روحانیون در دستگاه‌های اطلاعاتی.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611144540",
-        "clean_url": "https://www.iranintl.com/en/202611144540",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1794648540.0
     }
 ]
