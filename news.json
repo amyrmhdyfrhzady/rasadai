@@ -181,6 +181,25 @@
         "timestamp": 1794979730.0
     },
     {
+        "id": "c15dafc1a9",
+        "title_fa": "رهگیری موشک کروز حوثی‌ها به سمت ریاض",
+        "title_en": "Saudi coalition says it intercepted Houthi cruise missile",
+        "summary": [
+            "ائتلاف تحت رهبری عربستان از سرنگونی یک موشک کروز شلیک شده به سمت ریاض خبر داد.",
+            "این حمله نشان‌دهنده استمرار خط‌دهی نظامی سپاه به گروه‌های نیابتی در یمن است.",
+            "تنش‌ها در مرزهای جنوبی عربستان با وجود آتش‌بس‌های مقطعی همچنان بالا مانده است."
+        ],
+        "impact": "افزایش سطح هوشیاری پدافندی عربستان و بالرفتن ریسک امنیتی در پایتخت این کشور",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-intercepted-houthi-cruise-missile/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-intercepted-houthi-cruise-missile",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794979080.0
+    },
+    {
         "id": "502ac2d53b",
         "title_fa": "واکنش مارکو روبیو به گزارش بمب کثیف ایـران",
         "title_en": "Rubio on Iran dirty bomb report: “I am not [worried], but we’re concerned every day about threats | LIVE BLOG",
@@ -5503,23 +5522,5 @@
         "clean_url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
         "image": "http://www.bing.com/th?id=ONUT.dKCk2D2lpG3Bb_2NJoF_9w&pid=News",
         "timestamp": 1794734940.0
-    },
-    {
-        "id": "1530387f6a",
-        "title_fa": "چرخه فرسایشی توافق هسته‌ای و تحریم‌ها",
-        "title_en": "Iran - Nuclear Deal, Sanctions, Diplomacy",
-        "summary": [
-            "پرونده توافق اتمی همچنان در بن‌بست کامل قرار دارد.",
-            "فشار تحریم‌ها بر اقتصاد کشور بدون هیچ چشم‌انداز مثبتی برای دیپلماسی ادامه دارد."
-        ],
-        "impact": "تداوم بحران اقتصادی و انسداد مسیرهای دیپلماتیک.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMlM1QWlIb2V3MGVoSll6Mm5yaXA0RERMZjNjNWpJNldUTF9CNDZzUFVQMlI5Nl9BRlVTSzd5X1NsUmtVVkoyQTE4bzFoWXQ4TzZlNUxwaHAtd1E2bmQ4SkNvTVJpMzZtU3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMlM1QWlIb2V3MGVoSll6Mm5yaXA0RERMZjNjNWpJNldUTF9CNDZzUFVQMlI5Nl9BRlVTSzd5X1NsUmtVVkoyQTE4bzFoWXQ4TzZlNUxwaHAtd1E2bmQ4SkNvTVJpMzZtU3c",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794734195.0
     }
 ]
