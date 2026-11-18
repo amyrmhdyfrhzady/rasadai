@@ -255,6 +255,25 @@
         "timestamp": 1794979080.0
     },
     {
+        "id": "b2563e20e0",
+        "title_fa": "انتقاد بانک جهانی از کندی بازسازی مناطق جنگی لبنان",
+        "title_en": "World Bank official says Lebanon slow to act on reconstruction",
+        "summary": [
+            "به گزارش خبرگزاری آسوشیتدپرس، آنا بیرده، مدیر عملیات بانک جهانی، در سفر به لبنان اعلام کرد این کشور در استفاده از کمک‌های بین‌المللی برای بازسازی مناطق آسیب‌دیده از جنگ‌های اخیر بسیار کند عمل کرده است.",
+            "طبق گزارش پیشرفت ماه سپتامبر، از ۲۵۰ میلیون دلار اعتبار مصوب بانک جهانی در ژوئن ۲۰۲۵ برای آواربرداری و ترمیم زیرساخت‌های حیاتی، تنها ۴.۲ میلیون دلار پرداخت شده؛ در حالی که پیش‌بینی اولیه پرداخت ۱۰۰ میلیون دلار تا ژوئیه ۲۰۲۶ بود.",
+            "این مقام بانک جهانی مسائل امنیتی را از عوامل تاخیر دانست و تصریح کرد که حتی کل مبلغ ۲۵۰ میلیون دلار نیز تنها بخش کوچکی از نیازهای بازسازی لبنان پس از درگیری سال ۲۰۲۴ میان اسرائیل و حزب‌الله را پوشش می‌دهد."
+        ],
+        "impact": "بر اساس ارزیابی بانک جهانی، تداوم مشکلات امنیتی و اجرایی مانع استفاده بهینه از کمک‌های بین‌المللی شده و روند ترمیم زیرساخت‌های عمومی لبنان را به تعویق انداخته است.",
+        "tag": "اقتصادی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Bastille Post",
+        "url": "https://www.bastillepost.com/global/article/6373470-world-bank-official-says-lebanon-slow-to-act-on-reconstruction",
+        "clean_url": "https://www.bastillepost.com/global/article/6373470-world-bank-official-says-lebanon-slow-to-act-on-reconstruction",
+        "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/11/9c4456bac478a64c9aeff6f2fc6c84ae_Lebanon_World_Bank_Reconstruction_65_82_FB.jpg",
+        "timestamp": 1794978900.0
+    },
+    {
         "id": "502ac2d53b",
         "title_fa": "واکنش مارکو روبیو به گزارش بمب کثیف ایـران",
         "title_en": "Rubio on Iran dirty bomb report: “I am not [worried], but we’re concerned every day about threats | LIVE BLOG",
@@ -5502,24 +5521,5 @@
         "clean_url": "https://wanaen.com/countries-that-cooperated-with-aggressors-must-be-held-accountable-iran-seeks-compensation",
         "image": "https://wanaen.com/wp-content/uploads/2025/05/WANA-FM-spokesman-12.jpg?v=1746445543",
         "timestamp": 1794743700.0
-    },
-    {
-        "id": "248c015f7d",
-        "title_fa": "بحران در انویدیا و آزمون سخت بازار هوش مصنوعی",
-        "title_en": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
-        "summary": [
-            "کناره‌گیری ناگهانی جن‌سون هوانگ پس از افشای رسوایی اخلاقی و ارتباط با فرد مظنون به جاسوسی، سهام انویدیا را تحت فشار سنگین قرار داد.",
-            "هم‌زمانی گزارش مالی انویدیا با عرضه اولیه شرکت آنتروپیک، بازار پررونق فناوری را وارد مرحله حساسی کرده است.",
-            "وال‌استریت ریسک‌های کلان از جمله تنش‌های بین‌المللی و تورم را نادیده گرفته و اکنون با شکنندگی این حباب مواجه است."
-        ],
-        "impact": "احتمال توقف رالی صعودی سهام فناوری و افزایش خروج سرمایه از بازارهای ریسکی.",
-        "tag": "اقتصاد جهانی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Star",
-        "url": "https://www.thestar.com.my/business/business-news/2026/11/16/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade",
-        "clean_url": "https://www.thestar.com.my/business/business-news/2026/11/16/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/11/16/4214228.jpg",
-        "timestamp": 1794742320.0
     }
 ]
