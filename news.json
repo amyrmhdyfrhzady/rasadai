@@ -306,6 +306,25 @@
         "timestamp": 1794953700.0
     },
     {
+        "id": "6e062ed696",
+        "title_fa": "محکومیت تبعه پاکستانی در آمریکا به اتهام توطئه برای ترور ترامپ",
+        "title_en": "عامل سپاه پاسداران در پرونده توطئه ترور ترامپ به بیش از ۲۷ سال زندان محکوم شد",
+        "summary": [
+            "به گزارش وزارت دادگستری آمریکا، آصف مرچنت، تبعه ۴۸ ساله پاکستانی، به اتهام تلاش برای ارتکاب اقدام تروریستی فرامرزی و توطئه قتل سفارشی به ۲۷ سال و نیم زندان محکوم شد.",
+            "بر اساس اسناد دادگاه فدرال نیویورک، وی متهم است که با پرداخت پیش‌پرداخت قصد استخدام افرادی را برای سوءقصد به دونالد ترامپ و دیگر مقام‌های آمریکایی داشته است.",
+            "طبق بیانیه دادستانی، مرچنت از سال ۲۰۲۲ با افرادی در سپاه پاسداران ارتباط داشته و برای پیشبرد این طرح آموزش دیده بود."
+        ],
+        "impact": "صدور این حکم فشارهای قضایی و امنیتی دولت ایالات متحده علیه فعالیت‌های برون‌مرزی منتسب به تهران را افزایش می‌دهد.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/33900852.html",
+        "clean_url": "https://www.radiofarda.com/a/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/33900852.html",
+        "image": "http://www.bing.com/th?id=ONUT.kziQmcEh75Vcz1LVUptIaQ&pid=News",
+        "timestamp": 1794952440.0
+    },
+    {
         "id": "07c0e37699",
         "title_fa": "هشدار نتانیاهو به اروپا درباره تهدید موشکی و هسته‌ای ایران",
         "title_en": "Netanyahu says Europe can no longer view Iran's missile and nuclear threat as a distant Middle East problem",
@@ -5505,24 +5524,5 @@
         "clean_url": "https://www.iranintl.com/en/202611157272",
         "image": "http://www.bing.com/th?id=ONUT.CS3jvftnb-1lbIl38c_4SQ&pid=News",
         "timestamp": 1794727380.0
-    },
-    {
-        "id": "cf828014d7",
-        "title_fa": "تکرار چرخه اعتراضات؛ از آبان ۹۸ تا خیزش‌های اخیر",
-        "title_en": "Iran-backed Iraqi militia calls government probe a plot to seize its weapons",
-        "summary": [
-            "سرکوب خونین و قطع اینترنت در آبان ۹۸، شکاف میان حاکمیت و جامعه را به نقطه بی‌بازگشت رساند.",
-            "سیاست‌های اقتصادی ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی، از گرانی بنزین تا تورم افسارگسیخته، موتور محرک اعتراضات ادواری در ایران است.",
-            "تداوم سرکوب‌ها نه تنها معترضان را خاموش نکرده، بلکه خشم عمومی را در هر موج جدید، عمیق‌تر و گسترده‌تر کرده است."
-        ],
-        "impact": "افزایش پتانسیل انفجار اجتماعی به دلیل انباشت مطالبات بی‌پاسخ و فشارهای معیشتی.",
-        "tag": "اجتماعی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611155294",
-        "clean_url": "https://www.iranintl.com/en/202611155294",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1794726180.0
     }
 ]
