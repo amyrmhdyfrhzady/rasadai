@@ -18,6 +18,24 @@
         "timestamp": 1794956788.0
     },
     {
+        "id": "07c0e37699",
+        "title_fa": "هشدار نتانیاهو به اروپا درباره تهدید موشکی و هسته‌ای ایران",
+        "title_en": "Netanyahu says Europe can no longer view Iran's missile and nuclear threat as a distant Middle East problem",
+        "summary": [
+            "به گزارش لاتین تایمز، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، اعلام کرد اروپا دیگر نمی‌تواند تهدید موشکی و هسته‌ای ایران را یک مسئله دور از دسترس در خاورمیانه بداند.",
+            "نخست‌وزیر اسرائیل با این موضع‌گیری تلاش می‌کند نگاه امنیتی پایتخت‌های اروپایی را تغییر دهد و حمایت آنان را برای افزایش فشار بر برنامه‌های اتمی و موشکی تهران جلب کند."
+        ],
+        "impact": "تشدید فشارهای دیپلماتیک اسرائیل بر اتحادیه اروپا برای اتخاذ مواضع سخت‌گیرانه‌تر علیه برنامه‌های موشکی و هسته‌ای ایران.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Latin Times",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlYySE5kNkI0NUM0QzN1LVAtX2hrWHpCYmc3TVBYb29uNE9NNWotdDdZR2RHNC1LRjc2X1N5TjlGNUhfODNITUlNRXF5aVNjWV82aU4ydjZtRnlOclQzbnNrTDRTaDFDa3p6aUlaeXY2RHE5bVlHYXhMeWZmVTZJdFNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlYySE5kNkI0NUM0QzN1LVAtX2hrWHpCYmc3TVBYb29uNE9NNWotdDdZR2RHNC1LRjc2X1N5TjlGNUhfODNITUlNRXF5aVNjWV82aU4ydjZtRnlOclQzbnNrTDRTaDFDa3p6aUlaeXY2RHE5bVlHYXhMeWZmVTZJdFNn",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794949739.0
+    },
+    {
         "id": "7c25dd182b",
         "title_fa": "اعتراف فرمانده نیروی دریایی آمریکا به فشار جنگ با ای-ران",
         "title_en": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
@@ -5511,24 +5529,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-bahrain-reports-iranian-attack-irgc-says-air-base-targeted/ar-AA2h3thB",
         "image": "http://www.bing.com/th?id=ONUT.L3fmQvyxCMu4E5-a6VfZIQ&pid=News",
         "timestamp": 1794701066.0
-    },
-    {
-        "id": "3e492964d3",
-        "title_fa": "گزارش الجزیره از تنش نظامی در بحرین و درگیری در یمن",
-        "title_en": "Iran war live: Saudi-led coalition strikes down 3 drones",
-        "summary": [
-            "به گزارش الجزیره، ایران اعلام کرده که یک پایگاه آمریکا در بحرین را هدف قرار داده و هم‌زمان بحرین هشدارهای تهدید احتمالی صادر کرده است.",
-            "ائتلاف به رهبری عربستان سعودی می‌گوید طی سه ساعت، سه پهپاد پرتاب‌شده از سوی حوثی‌های یمن را سرنگون کرده است.",
-            "در مقابل، حوثی‌ها مدعی شده‌اند که یک هواپیمای سعودی را بر فراز استان الجوف ساقط کرده‌اند."
-        ],
-        "impact": "گسترش هم‌زمان هشدارهای امنیتی در خلیج فارس و درگیری‌های هوایی در یمن، سطح تنش نظامی در منطقه را افزایش داده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26313685235897-1-1794303255.jpg?resize=1920%2C1440",
-        "timestamp": 1794700800.0
     }
 ]
