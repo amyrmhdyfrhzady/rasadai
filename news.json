@@ -548,6 +548,25 @@
         "timestamp": 1794992011.0
     },
     {
+        "id": "07731fc50d",
+        "title_fa": "جرقه معیشتی و خشم سیاسی؛ سرایت اعتراضات ساختارشکن به آبدانان",
+        "title_en": "Protesters call for regime change in Iran following deadly crash that killed 13 oil and gas workers",
+        "summary": [
+            "جان‌باختن ۱۳ کارگر نفت در تصادف اتوبوس، معترضین در آبدانان ایلام را سریعاً از مطالبات صنفی به سمت شعارهای تند علیه کل بدنه حاکمیت و بازگشت پهلوی کشاند.",
+            "این رخداد نشان می‌دهد گسل‌های اجتماعی ایران چقدر فعال است؛ جایی که یک حادثه محلی ظرف چند ساعت به یک بحران سیاسی و امنیتی تبدیل می‌شود.",
+            "پیوند خشم طبقه کارگر با مطالبات سرنگونی، شکنندگی کنترل امنیتی تهران را در استان‌های مرزی و مستعد خیزش برملا کرد."
+        ],
+        "impact": "بالا رفتن پتانسیل شعله‌ور شدن مجدد اعتراضات سراسری از دل مطالبات کارگری و معیشتی.",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/protesters-call-regime-change-iran-161758017.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/protesters-call-regime-change-iran-161758017.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/2977d1712ba36aa1625a14eae8ac3a782fb3967948444cd4b807a07b1387b5f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F246c3e6afe788e947b3eea6bae3f1dc6.jpg",
+        "timestamp": 1794989820.0
+    },
+    {
         "id": "d0d2263c56",
         "title_fa": "گزارش اسرائیل هیوم از رهگیری موشک‌های ایرانی در خلیج فارس",
         "title_en": "Gulf states intercept Iranian missiles after US Qeshm strike",
@@ -5501,23 +5520,5 @@
         "clean_url": "https://english.dainikjagranmpcg.com/international/how-close-is-iran-to-building-a-nuclear-bomb-slain/article-44392",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794777000.0
-    },
-    {
-        "id": "057d9a8f04",
-        "title_fa": "تردید ترامپ در حمله به ایران به دلیل ارزیابی موشکی",
-        "title_en": "Trump may hold off on Iran attacks amid estimate of up to 2,500 missiles",
-        "summary": [
-            "برآوردهای اطلاعاتی آمریکا نشان می‌دهد که ذخیره موشکی جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی همچنان بین ۱۵۰۰ تا ۲۵۰۰ فروند است.",
-            "این حجم از تسلیحات باعث شده تا تصمیم‌گیرندگان کاخ سفید درباره هزینه و پیامدهای هرگونه اقدام نظامی مستقیم تجدیدنظر کنند."
-        ],
-        "impact": "قدرت بازدارندگی موشکی موقتاً هزینه گزینه نظامی را برای واشنگتن بالا برده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Arkansas Public Advocate on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-may-hold-off-on-iran-attacks-amid-estimate-of-up-to-2-500-missiles/ar-AA2hvz3q",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-may-hold-off-on-iran-attacks-amid-estimate-of-up-to-2-500-missiles/ar-AA2hvz3q",
-        "image": "http://www.bing.com/th?id=ONUT.0DXpXm_zXmNXJZCuCpqv5w&pid=News",
-        "timestamp": 1794775425.0
     }
 ]
