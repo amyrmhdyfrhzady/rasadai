@@ -1,5 +1,23 @@
 [
     {
+        "id": "c48cc6167e",
+        "title_fa": "کاهش قیمت نفت با امید به فروکش تنش‌ها",
+        "title_en": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
+        "summary": [
+            "بازارهای آسیایی به سیگنال‌های کاهش تنش بین ج.ا و اسرائیل واکنش مثبت نشان دادند.",
+            "سرمایه‌گذاران با فرض دور شدن از درگیری مستقیم، فشار خرید بر بازار نفت را کاهش دادند."
+        ],
+        "impact": "کاهش موقت قیمت نفت و آرامش نسبی در بازارهای مالی منطقه.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTl4RFBiVmtuZ2J2V1pkS3I0QlRTbWl2NF9aSnBDMG93anZFVEhpU0FHTEJiVGVUYnJzM1RibGZ6cEdja3NVZ1czeUtGeG5oMDV5X2o0bnVaQTAtZTNqQWtITG9kS2pXTy1zMnJXdTF0UFlKc2lCLUhmdW5DY3puWFN2dEVuNDNZcFBzTGdTY0tDNnJ3bzk2MkcyOWNXLVFkVVJTNks2bnhtMmNOUHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTl4RFBiVmtuZ2J2V1pkS3I0QlRTbWl2NF9aSnBDMG93anZFVEhpU0FHTEJiVGVUYnJzM1RibGZ6cEdja3NVZ1czeUtGeG5oMDV5X2o0bnVaQTAtZTNqQWtITG9kS2pXTy1zMnJXdTF0UFlKc2lCLUhmdW5DY3puWFN2dEVuNDNZcFBzTGdTY0tDNnJ3bzk2MkcyOWNXLVFkVVJTNks2bnhtMmNOUHc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795020541.0
+    },
+    {
         "id": "f90b575901",
         "title_fa": "تهدید امنیت کشتیرانی توسط ج.ا در خلیج فارس و سرخ",
         "title_en": "From Hormuz to the Red Sea: Is Iran Putting Global Trade at Risk?",
@@ -5500,24 +5518,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOEdsaGtMQ1l5VUQ2dDVZem9uYmotWkdwY08walpDOW5ONUlHNjgxUWE2eWNYNllDMDVKVVBUR3NYeVVDYnlTYXRHSGN1X1ZnTjRJdnpVMA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794773450.0
-    },
-    {
-        "id": "ec0cc8b06c",
-        "title_fa": "بن‌بست دیپلماتیک؛ تهران پاسخ‌های آمریکا را غیرعملی خواند",
-        "title_en": "US' responses to Iran's terms cannot be implemented — senior Iranian diplomat",
-        "summary": [
-            "کاظم غریب‌آبادی صراحتاً اعلام کرد پاسخ‌های واشنگتن به شروط ایران ضمانت اجرایی ندارد و با این روند هیچ توافقی حاصل نمی‌شود.",
-            "تهران مدعی است آمریکا از ابزار دیپلماسی صرفاً برای خرید زمان و زمینه‌سازی برای تحریم‌ها یا اقدامات بعدی استفاده می‌کند.",
-            "اصرار طرف ایرانی بر دریافت تضمین‌های قطعی نشان می‌دهد دو طرف هنوز از حداقل‌های یک توافق پایدار فرسنگ‌ها فاصله دارند."
-        ],
-        "impact": "تداوم بلاتکلیفی در فضای مذاکرات، احتمال توافق کوتاه‌مدت را صفر کرده و فشار بر بازار ارز را حفظ می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2218397",
-        "clean_url": "https://tass.com/world/2218397",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1794773340.0
     }
 ]
