@@ -328,6 +328,25 @@
         "timestamp": 1794976560.0
     },
     {
+        "id": "64569662c6",
+        "title_fa": "اعتراضات مردمی در آبدانان پس از مرگ کارگران پالایشگاه",
+        "title_en": "Iran town erupts in protest after accident kills 13 workers",
+        "summary": [
+            "جان باختن ۱۳ کارگر پالایشگاه در تصادف جاده‌ای، موجی از خشم عمومی و تجمع اعتراضی در آبدانان به راه انداخت.",
+            "معترضان در این تجمع با سر دادن شعارهای تند علیه دیکتاتور، خواستار استعفای مدیران مسئول شدند.",
+            "نهادهای حقوق بشری از فضای امنیتی شدید و سرکوب اعتراضات در سایه بحران‌های اخیر خبر می‌دهند."
+        ],
+        "impact": "بالا گرفتن خشم عمومی و گسترش اعتراضات کارگری بهانه‌ای برای چالش جدی امنیتی برای حکومت است.",
+        "tag": "اعتراضات",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Siasat Daily",
+        "url": "https://www.siasat.com/iran-town-erupts-in-protest-after-accident-kills-13-workers-3580618/",
+        "clean_url": "https://www.siasat.com/iran-town-erupts-in-protest-after-accident-kills-13-workers-3580618",
+        "image": "http://www.bing.com/th?id=ONUT.vzV0Q5ov8r32p30tylT-Mg&pid=News",
+        "timestamp": 1794974400.0
+    },
+    {
         "id": "c926125a3b",
         "title_fa": "ادعای موشکی نماینده مجلس و پشت‌پرده تهدیدات ترامپ",
         "title_en": "Iran lawmaker says enemy does not know which continent its missiles will hit",
@@ -5502,24 +5521,5 @@
         "clean_url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
         "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
         "timestamp": 1794744480.0
-    },
-    {
-        "id": "5ad33dc610",
-        "title_fa": "افت قیمت گازوئیل در آمریکا به کمتر از ۶ دلار به دلیل کاهش تنش‌ها",
-        "title_en": "US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand",
-        "summary": [
-            "میانگین قیمت گازوئیل در ایالات متحده پس از دو ماه، به زیر ۶ دلار در هر گالون سقوط کرد.",
-            "کاهش تنش‌های ژئوپلیتیک و افت تقاضای فصلی عامل اصلی این عقب‌نشینی قیمتی بوده است.",
-            "هزینه‌های بالای سوخت نقش کلیدی در شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای کنگره داشت."
-        ],
-        "impact": "کاهش فشار تورمی بر هزینه حمل‌ونقل و زنجیره تامین کالا در بازار آمریکا.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": 0.3,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/15/business/us-diesel-below-6-a-gallon-at-2-month-low-on-easing-tensions-weaker-demand/",
-        "clean_url": "https://nypost.com/2026/11/15/business/us-diesel-below-6-a-gallon-at-2-month-low-on-easing-tensions-weaker-demand",
-        "image": "http://www.bing.com/th?id=ONUT.rpfo9lfKqWZj368jrw8hPQ&pid=News",
-        "timestamp": 1794744420.0
     }
 ]
