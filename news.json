@@ -713,6 +713,25 @@
         "timestamp": 1794929460.0
     },
     {
+        "id": "5519168458",
+        "title_fa": "درگیری نظامی مستقیم میان ارتش آمریکا و اواسط مذاکرات",
+        "title_en": "US, Iran exchange fire despite talks with mediators",
+        "summary": [
+            "ارتش آمریکا پایگاه پرتاب موشک وابسته به ای-ران را بمباران کرد.",
+            "این حمله متقابل پس از آن انجام شد که اهدافی در بحرین هدف قرار گرفت.",
+            "مذاکرات پشت پرده با میانجی‌ها نت مانع از درگیری میدانی نشد."
+        ],
+        "impact": "افزایش تنش‌های نظامی و به خطر افتادن توافقات دیپلماتیک پنهانی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/nation-world/world/article318113111.html",
+        "clean_url": "https://www.newsobserver.com/news/nation-world/world/article318113111.html",
+        "image": "http://www.bing.com/th?id=ONUT.MnjvlGS8sGtxwbnZJX4GKg&pid=News",
+        "timestamp": 1794929220.0
+    },
+    {
         "id": "eb4af5aeb2",
         "title_fa": "تأکید دموکرات‌های کنگره بر پایان دادن به درگیری با ایران",
         "title_en": "Hakeem Jeffries vows to end 'reckless and costly' Iran war",
@@ -5506,25 +5525,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWFZVVhzUDVtSFIwNTY3QjZWN2NIRzJXVmdMWEc4ZEtKQlpQb1NBZ2VnUGxtaFZtc1IyLUZ0ZGFXZUtaUEVsd1lSNG1vSmF0Sy1KRndMcDdSYTdYaWI0ZXowSEwzLUhRN0ZKTVlhZ2ZiT2M1RTRwMEF4dEJQVGY4aExtUnF5T1RQLTlOMHdsLTVUblN2QUN1SXhmZ3hjZWV1",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794718286.0
-    },
-    {
-        "id": "4309d68588",
-        "title_fa": "برآورد آمریکا از زرادخانه موشکی ایران و رایزنی تل‌آویو در واشنگتن",
-        "title_en": "تلاش نتانیاهو برای ازسرگیری حملات به ایران؛ ارزیابی اطلاعاتی آمریکا: تهران هنوز تا دو هزار و ۵۰۰ ...",
-        "summary": [
-            "بر اساس گزارش وال‌استریت ژورنال به نقل از مقامات آمریکایی، نهادهای اطلاعاتی ایالات متحده برآورد می‌کنند ایران همچنان بین ۱۵۰۰ تا ۲۵۰۰ موشک بالستیک در اختیار دارد.",
-            "یورونیوز به نقل از همین منابع گزارش داد با وجود آسیب به تاسیسات تولید موشک در حملات آمریکا و اسرائیل، تهران با سرعتی کمتر از گذشته و با استفاده از قطعات انبارشده در حال بازسازی زرادخانه خود است.",
-            "مقامات آمریکایی تاکید کرده‌اند تعیین شمار دقیق موشک‌ها دشوار است و قطعیت این برآورد پایین ارزیابی می‌شود، اما این گزارش با اظهارات دونالد ترامپ مبنی بر درهم‌کوبیده‌شدن کامل توان نظامی ایران تفاوت دارد.",
-            "طبق این گزارش، هم‌زمان با تلاش بنیامین نتانیاهو برای ازسرگیری حملات علیه ایران، رئیس موساد برای گفتگو درباره ادامه جنگ به واشنگتن سفر کرده است."
-        ],
-        "impact": "برآوردهای اطلاعاتی از حفظ توان موشکی تهران و سفر رئیس موساد به واشنگتن، احتمال ازسرگیری درگیری‌های نظامی را در کانون توجه قرار داده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "یورونیوز",
-        "url": "https://parsi.euronews.com/2026/11/15/netanyahu-presses-trump-renew-iran-strikes-us-intel-2500-missiles",
-        "clean_url": "https://parsi.euronews.com/2026/11/15/netanyahu-presses-trump-renew-iran-strikes-us-intel-2500-missiles",
-        "image": "https://www.bing.com/th?id=ONUT.gvuVSFjLP1QhoOg1GuFSjg",
-        "timestamp": 1794717385.0332954
     }
 ]
