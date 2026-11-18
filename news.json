@@ -547,6 +547,25 @@
         "timestamp": 1794984439.0
     },
     {
+        "id": "d85c36fbf3",
+        "title_fa": "بازی فشار همیشگی با بهانه پرونده اتمی ایــران",
+        "title_en": "The nuclear pretext and the politics of perpetual pressure",
+        "summary": [
+            "توانایی فنی و غنی‌سازی اورانیوم لزوماً به معنای تلاش برای ساخت بمب نیست اما غرب از آن به عنوان ابزار فشار استفاده می‌کند.",
+            "تهران سال‌هاست با تهدید، تحریم و عملیات امنیتی دست‌به‌گریبان است تا منزوی بماند.",
+            "مرز بین واقعیت‌های برنامه اتمی ایــران و ادعای دشمنانش در فضای بین‌الملل مخدوش شده است."
+        ],
+        "impact": "ادامه این روند به تشدید انزوای اقتصادی و افزایش تنش‌های منطقه‌ای منجر می‌شود.",
+        "tag": "اتمی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/532302/The-nuclear-pretext-and-the-politics-of-perpetual-pressure",
+        "clean_url": "https://www.tehrantimes.com/news/532302/The-nuclear-pretext-and-the-politics-of-perpetual-pressure",
+        "image": "https://media.mehrnews.com/d/2026/11/18/4/6268443.jpg?ts=1795021614719",
+        "timestamp": 1794983820.0
+    },
+    {
         "id": "8012c8c59b",
         "title_fa": "احتمال شعله‌ور شدن جنگ تمام‌عیار میان ای-الت م-ت-ح-ده و ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی",
         "title_en": "‘Status quo’ between US and Iran could break out into war, analysts warn",
@@ -5499,25 +5518,5 @@
         "clean_url": "https://www.newarab.com/news/houthi-attacks-kill-eight-yemen-strike-riyadh-airport",
         "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2263465116.jpeg?itok=SSw_GEs6",
         "timestamp": 1794772440.0
-    },
-    {
-        "id": "da6b577c9a",
-        "title_fa": "ورود سومین ناو آمریکا؛ هشدار کازنیک درباره فاجعه هسته‌ای",
-        "title_en": "World closer than ever to nuclear disaster, Kuznick warns",
-        "summary": [
-            "بر اساس گزارش خبرگزاری مهر، ورود ناو هواپیمابر تئودور روزولت به غرب آسیا شمار ناوهای هواپیمابر آمریکا در منطقه را هم‌زمان با تداوم تنش‌ها به سه فروند رسانده است.",
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، به مشاوران خود گفته در صورت پرهیز ایران و انصارالله یمن از اقدامات تحریک‌آمیز جدید، ممکن است حملات بعدی را متوقف کند.",
-            "تهران هشدار داده که برای واکنش نشان دادن، لزوماً منتظر حمله دیگری از سوی واشنگتن نخواهد ماند.",
-            "پیتر کازنیک، مورخ و استاد دانشگاه آمریکایی، در مصاحبه با خبرگزاری مهر هشدار داده که تشدید این بحران جهان را بیش از هر زمان دیگری به فاجعه هسته‌ای نزدیک کرده است."
-        ],
-        "impact": "افزایش آرایش نظامی آمریکا در کنار سیگنال‌های متناقض واشنگتن و تهدید متقابل تهران، ابهام درباره احتمال کاهش تنش را بیشتر کرده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/249440/World-closer-than-ever-to-nuclear-disaster-Kuznick-warns",
-        "clean_url": "https://en.mehrnews.com/news/249440/World-closer-than-ever-to-nuclear-disaster-Kuznick-warns",
-        "image": "https://media.mehrnews.com/d/2026/11/16/4/6264488.jpg?ts=1794808475406",
-        "timestamp": 1794770940.0
     }
 ]
