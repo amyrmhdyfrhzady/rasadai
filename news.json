@@ -309,6 +309,25 @@
         "timestamp": 1794971021.0
     },
     {
+        "id": "6f98883951",
+        "title_fa": "جنجال گزارش نیویورک تایمز درباره سدهای ای-ران",
+        "title_en": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+        "summary": [
+            "گزارش نیویورک تایمز مدعی شده سدها و زیرساخت‌های آبی ای-ران ممکن است برای برنامه‌های موشکی استفاده شوند.",
+            "کارشناسان هشدار داده‌اند این روایت‌سازی‌ها بهانه‌تراشی برای حملات نظامی جدید به تاسیسات غیرنظامی است.",
+            "دستگاه دیپلماسی حکومت این ادعاها را جنگ روانی و کاملاً بی‌اساس خوانده است."
+        ],
+        "impact": "هموار شدن مسیر رسانه‌ای برای توجیه حملات نظامی احتمالی به زیرساخت‌های حیاتی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback",
+        "clean_url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback",
+        "image": "http://www.bing.com/th?id=ONUT.l-o3-ZFeT7iGYjaO_k_Qew&pid=News",
+        "timestamp": 1794969540.0
+    },
+    {
         "id": "9000ffeae4",
         "title_fa": "آماده‌باش کشورهای خلیج فارس پس از حمله آمریکا",
         "title_en": "Gulf nations on alert after US strikes Iranian island",
@@ -5501,24 +5520,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/planes-collide-at-miami-runwayoutuny-crossing-a-day-after-national-grounding/ar-AA2hsfxC",
         "image": "http://www.bing.com/th?id=ONUT.urzoIGOpEvYy1n3hWl8eAA&pid=News",
         "timestamp": 1794740493.0
-    },
-    {
-        "id": "91bd7808f4",
-        "title_fa": "حمله پهپادی به بحرین و رادار آمریکا؛ آژیر خطر در منامه به صدا درآمد",
-        "title_en": "BREAKING: Iran Strikes Bahrain again; US Radar 'Hit' In Drone Attack; 'Stay Inside' Warning Issued",
-        "summary": [
-            "تأسیسات و سامانه‌های راداری آمریکا در ساحل بحرین هدف حملات پهپادی قرار گرفتند که منجر به تعلیق پروازهای فرودگاه منامه و هشدار پناهگیری شد.",
-            "این اقدام مستقیم، پدافند منطقه‌ای آمریکا را هدف گرفته تا شبکه هشدار زودهنگام را قبل از درگیری‌های بعدی شل کند.",
-            "گسترش دامنه حملات به کشورهای همسایه، پیام آشکاری برای افزایش ریسک اقتصادی و امنیتی در کل حوزه خلیج فارس است."
-        ],
-        "impact": "قفل شدن موقت خطوط هوایی منامه و جهش فوریت نظامی برای ورود مستقیم نیروهای آمریکایی به پاسخ متقابل.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "The Times of India",
-        "url": "https://www.msn.com/en-in/news/other/breaking-iran-strikes-bahrain-again-us-radar-hit-in-drone-attack-stay-inside-warning-issued/vi-AA2hsEsZ",
-        "clean_url": "https://www.msn.com/en-in/news/other/breaking-iran-strikes-bahrain-again-us-radar-hit-in-drone-attack-stay-inside-warning-issued/vi-AA2hsEsZ",
-        "image": "https://static.toiimg.com/thumb/msid-135847806,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1794739800.0
     }
 ]
