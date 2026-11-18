@@ -291,6 +291,25 @@
         "timestamp": 1794976560.0
     },
     {
+        "id": "3bf7fc339b",
+        "title_fa": "ارزیابی احتمال حمله بمب کثیف جمهوری اسلامی در آمریکا",
+        "title_en": "Iran could launch dirty-bomb attack, but risks make it unlikely – experts",
+        "summary": [
+            "گزارش‌های اطلاعاتی آمریکا از بررسی سناریوهای استفاده از سلاح شیمیایی یا بمب کثیف توسط تهران علیه مقامات دولت ترامپ پرده برداشته است.",
+            "کارشناسان برجسته نظامی تاکید می‌کنند موانع پیچیده فنی و ترس از انتقام سخت واشنگتن، شانس اجرای چنین عملیاتی را بسیار کم می‌کند.",
+            "طرح این‌گونه سناریوهای پرریسک نشان‌دهنده بن‌بست در راه‌کارهای متعارف ترور و ریسک‌پذیری خطرناک دستگاه‌های اطلاعاتی است."
+        ],
+        "impact": "افشای این سناریوها فشار امنیتی بر شبکه نیابتی و دیپلماتیک تهران را در آمریکا شدیداً افزایش می‌دهد.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611180265",
+        "clean_url": "https://www.iranintl.com/en/202611180265",
+        "image": "http://www.bing.com/th?id=ONUT.56jNAgPFyqoSBwJq3iaxKg&pid=News",
+        "timestamp": 1794972000.0
+    },
+    {
         "id": "f7006633fb",
         "title_fa": "فراخوان شاهزاده رضا پهلوی برای پایان دادن به کار ج.ه",
         "title_en": "Speaking with Herzog, Iran’s exiled crown prince calls ‘to finish the job’ against Islamic Republic",
@@ -5502,23 +5521,5 @@
         "clean_url": "https://www.thestar.com.my/business/business-news/2026/11/16/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade",
         "image": "https://apicms.thestar.com.my/uploads/images/2026/11/16/4214228.jpg",
         "timestamp": 1794742320.0
-    },
-    {
-        "id": "b9bc97a8cb",
-        "title_fa": "بازداشت جویندگان کار پس از تجمع در جنوب کشور",
-        "title_en": "Five job seekers arrested after protest at oil company in southwestern Iran",
-        "summary": [
-            "اعتراضات معیشتی کارگران و جویندگان کار در مناطق نفت‌خیز با سرکوب و بازداشت فوری نیروهای امنیتی مواجه شده است.",
-            "چرخه اعتراضات از سال نودوهشت تا موج‌های جدید، ریشه در بحران عمیق اقتصادی و ناکارآمدی ساختاری دارد."
-        ],
-        "impact": "افزایش جو امنیتی در مراکز صنعتی و نفتی برای جلوگیری از گسترش اعتراضات صنفی",
-        "tag": "اعتراضات",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611150264",
-        "clean_url": "https://www.iranintl.com/en/202611150264",
-        "image": "http://www.bing.com/th?id=ONUT.dMBo20vhRSun8d3OVxtr2A&pid=News",
-        "timestamp": 1794741060.0
     }
 ]
