@@ -19,6 +19,24 @@
         "timestamp": 1795011351.0
     },
     {
+        "id": "1e075f527f",
+        "title_fa": "جهش سهام انویدیا و امیدواری به بازگشت وال‌استریت",
+        "title_en": "Upbeat Nvidia Results, Guidance May Lead To Initial Rebound On Wall Street",
+        "summary": [
+            "گزارش مالی فراتر از انتظار انویدیا و افزایش پیش‌بینی درآمد، نگرانی‌های بازار را کاهش داد.",
+            "رشد سهام این شرکت در معاملات پیش از بازار، موج مثبتی در بورس آمریکا ایجاد کرده است."
+        ],
+        "impact": "گزارش مالی انویدیا ورق را به نفع بازار سهام برگشت داد و اعتماد سرمایه‌گذاران را احیا کرد.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": 0.8,
+        "source": "RTTNews",
+        "url": "https://www.rttnews.com/3715953/upbeat-nvidia-results-guidance-may-lead-to-initial-rebound-on-wall-street.aspx",
+        "clean_url": "https://www.rttnews.com/3715953/upbeat-nvidia-results-guidance-may-lead-to-initial-rebound-on-wall-street.aspx",
+        "image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
+        "timestamp": 1795010280.0
+    },
+    {
         "id": "73fc5651f5",
         "title_fa": "آژانس اتمی: بازگشت به میز مذاکره درباره پرونده اتمی ایران ضروری است",
         "title_en": "Return to diplomacy, negotiations on Iran’s nuclear program imperative: UN nuclear watchdog",
@@ -5503,23 +5521,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/5-killed-in-houthi-missile-attack-on-checkpoint-near-yemens-aden",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794747840.0
-    },
-    {
-        "id": "128e6ff055",
-        "title_fa": "مرندی: برد موشکی جدید ایران اروپا را نگران کرده است",
-        "title_en": "Seyed M. Marandi: Iran's New Missile Range Puts Europe on Alert - YouTube",
-        "summary": [
-            "محمد مرندی از چهره‌های نزدیک به حکومت ادعا کرد توان موشکی جدید ایران موازنه‌سازی کرده است.",
-            "این اظهارات در راستای جنگ روانی پیرامون توانمندی‌های نظامی بازدارنده مطرح شده است."
-        ],
-        "impact": "تشدید لفاظی‌های نظامی و افزایش حساسیت غربی‌ها روی برنامه موشکی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Howl.Link",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0xWk9Wa0d2YUFzbVNCbGl6QVJOdnFTUUpXSVZ3ZGY1V2NJQTZRR3hsS2RfMXlmNkV5alJF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0xWk9Wa0d2YUFzbVNCbGl6QVJOdnFTUUpXSVZ3ZGY1V2NJQTZRR3hsS2RfMXlmNkV5alJF",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794747626.0
     }
 ]
