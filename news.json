@@ -18,6 +18,24 @@
         "timestamp": 1795012559.0
     },
     {
+        "id": "8e8d0b6df7",
+        "title_fa": "پیشروی یاران حوثی در یمن و تهدید عدن",
+        "title_en": "Explainer",
+        "summary": [
+            "نیروهای حوثی پیشروی‌های تازه‌ای علیه دولت رسمی یمن به دست آورده‌اند.",
+            "نگرانی‌ها از حمله قریب‌الوقوع به عدن، پایتخت موقت دولت یمن، به شدت افزایش یافته است."
+        ],
+        "impact": "تغییر موازنه قوا در یمن به نفع نیابتی‌های جمهوری اسلامی و تهدید امنیت دریایی.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/other/explainer-untangling-yemen-s-complex-civil-war/ar-AA2hHz2Z",
+        "clean_url": "https://www.msn.com/en-us/news/other/explainer-untangling-yemen-s-complex-civil-war/ar-AA2hHz2Z",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hHQzk.img?w=800&h=453&m=4&q=79",
+        "timestamp": 1795012531.0
+    },
+    {
         "id": "268c44eb74",
         "title_fa": "آیا وضعیت جنگ سرد بین تهران و واشنگتن پایدار است؟",
         "title_en": "Can the US and Iran sustain a ‘frozen war’?",
@@ -53,6 +71,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGZqQ0NFdGRVbm5STVpMTElfekpHdGx4WHZ2RDMxSnhGTHlJZ0FrNmJjay0zNGtGWEd4a0RtNmEzWmo3bHhhRFRZV1lQWER4alVBSVcxdFlPaTNZVFBtMUZCaEs1NWZoMlFlZ1NCM3BMdmkwRXlod29pY2ppcjlrV0Z0WTFIU042NWJjMkg0N3ZPRVNvMTY4QkdrMVp2UHoyalJ6cW42M0g5ejcyR3NzV0pxYkh1N0c1U0p3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795010758.0
+    },
+    {
+        "id": "314af4dca8",
+        "title_fa": "حمله موشکی و پهپادی به کشورهای خلیج فارس",
+        "title_en": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+        "summary": [
+            "کویت و بحرین هدف حملات پهپادی و موشکی قرار گرفتند که نشان‌دهنده شکست مذاکرات صلح است.",
+            "منطقه در وضعیت خطرناکی میان صلح شکننده و جنگ تمام‌عیار گیر افتاده است."
+        ],
+        "impact": "افزایش شدید ریسک امنیتی در خلیج فارس و ناامن شدن مسیرهای انرژی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+        "clean_url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795010460.0
     },
     {
         "id": "1e075f527f",
@@ -5481,41 +5517,5 @@
         "clean_url": "https://www.iranintl.com/202611161491",
         "image": "http://www.bing.com/th?id=ONUT.lM1zaEfFEQ4c9af7HoMW1g&pid=News",
         "timestamp": 1794758400.0
-    },
-    {
-        "id": "2b727c2d24",
-        "title_fa": "برآورد اطلاعاتی آمریکا از زرادخانه موشکی ایران و احتیاط ترامپ",
-        "title_en": "The real reason Donald Trump isn’t attacking Iran: Tehran might have 2,500 missiles to strike back and cause major damage",
-        "summary": [
-            "به گزارش نشریه نشنال سکیوریتی ژورنال، دلیل خودداری دونالد ترامپ از حمله به ایران، احتمال واکنش موشکی تهران و ایجاد خسارات سنگین است.",
-            "در حالی که رئیس‌جمهور آمریکا مدعی شده ارتش ایران «نابود» شده، نهادهای اطلاعاتی ایالات متحده برآورد می‌کنند تهران همچنان بین ۱۵۰۰ تا ۲۵۰۰ موشک در اختیار دارد.",
-            "بر اساس همین برآوردهای اطلاعاتی، ایران توانایی تولید حدود ۵۰ موشک جدید در هر ماه را حفظ کرده است."
-        ],
-        "impact": "برآورد نهادهای اطلاعاتی آمریکا از توان تولید و ذخیره موشکی ایران، ریسک خسارات متقابل در هرگونه اقدام نظامی احتمالی را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/the-real-reason-donald-trump-isn-t-attacking-iran-tehran-might-have-2-500-missiles-to-strike-back-and-cause-major-damage/ar-AA2hvn93",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-real-reason-donald-trump-isn-t-attacking-iran-tehran-might-have-2-500-missiles-to-strike-back-and-cause-major-damage/ar-AA2hvn93",
-        "image": "http://www.bing.com/th?id=ONUT.79pugDD6RXYHZ_eM-0lu-Q&pid=News",
-        "timestamp": 1794758088.0
-    },
-    {
-        "id": "a4c27237b0",
-        "title_fa": "مشخص شدن جوایز نقدی گلف قهرمانی چارلز شواب",
-        "title_en": "2026 Charles Schwab Cup Championship prize money payouts at PGA Tour Champions season finale",
-        "summary": [
-            "جایزه قهرمان فینال فصل پی‌جی‌ای در باشگاه گلف فینیکس رقمی معادل ۵۲۸ هزار دلار تعیین شد."
-        ],
-        "impact": "رویدادی صرفاً ورزشی فاقد اثرگذاری بر متغیرهای اقتصادی یا سیاسی.",
-        "tag": "ورزش",
-        "urgency": 1,
-        "sentiment": 0.1,
-        "source": "Golfweek on MSN",
-        "url": "https://www.msn.com/en-us/sports/golf/2026-charles-schwab-cup-championship-prize-money-payouts-at-pga-tour-champions-season-finale/ar-AA2hvaoy",
-        "clean_url": "https://www.msn.com/en-us/sports/golf/2026-charles-schwab-cup-championship-prize-money-payouts-at-pga-tour-champions-season-finale/ar-AA2hvaoy",
-        "image": "http://www.bing.com/th?id=ONUT.IOtOY7xa6wf3l7OaOYl5LQ&pid=News",
-        "timestamp": 1794757830.0
     }
 ]
