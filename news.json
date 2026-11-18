@@ -897,6 +897,25 @@
         "timestamp": 1794975600.0
     },
     {
+        "id": "30d8f75c17",
+        "title_fa": "ادعای ارتش ج.ا درباره حمله پهپادی به پایگاه آمریکا در کویت",
+        "title_en": "Iranian army claims attack on Kuwait, says it targeted US military installations",
+        "summary": [
+            "رسانه‌های حکومتی مدعی شدند پایگاه هوایی علی السالم در کویت هدف حمله قرار گرفته است.",
+            "ارتش کویت پیش‌تر فعال شدن پدافند هوایی خود را در برابر پرنده‌های متخاصم تایید کرده بود.",
+            "این اقدام تنش‌های نظامی در منطقه خلیج فارس را به طور خطرناکی افزایش می‌دهد."
+        ],
+        "impact": "افزایش شدید ریسک امنیتی برای کشورهای میزبان پایگاه‌های آمریکایی و احتمال واکنش متقابل.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/iranian-army-claims-attack-on-kuwait-says-it-targeted-us-military-installations/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iranian-army-claims-attack-on-kuwait-says-it-targeted-us-military-installations",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1794975240.0
+    },
+    {
         "id": "64569662c6",
         "title_fa": "اعتراضات مردمی در آبدانان پس از مرگ کارگران پالایشگاه",
         "title_en": "Iran town erupts in protest after accident kills 13 workers",
@@ -5501,24 +5520,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3c2ZkeUI0bkl5S2tERGVlbjN4cEVvNTg3bUVLNTlKc3ZrSVM5MG94NUN4LUM3a2NpNDMxTTlKeUtudFMtckgzTWlfVk1YWVVSWDNpV2lR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794779419.0
-    },
-    {
-        "id": "5bc8d93d41",
-        "title_fa": "اعلام آمادگی غریب‌آبادی برای دیپلماسی، محاصره اقتصادی و تقابل نظامی",
-        "title_en": "Gharibabadi: Iran fully prepared for diplomacy, economic siege, and military confrontation",
-        "summary": [
-            "کاظم غریب‌آبادی، معاون وزیر خارجه، در گفتگو با خبرگزاری ایرنا اعلام کرد که نهادهای داخلی برای سه سناریوی مذاکره، فشار اقتصادی و درگیری نظامی با آمریکا آماده هستند.",
-            "بر اساس گزارش پرس‌تی‌وی، وی آمادگی برای مقابله با سیاست‌های تحریمی شدید واشنگتن از جمله محاصره‌های دریایی، زمینی و هوایی و همچنین ازسرگیری احتمالی جنگ را مورد تاکید قرار داد.",
-            "به گفته غریب‌آبادی، تهران از موضع بی‌اعتمادی با آمریکا گفتگو کرده است و هر توافق احتمالی آینده باید دارای تضمین‌های مشخص و متکی بر توان نظامی باشد."
-        ],
-        "impact": "این موضع‌گیری شروط تهران برای هرگونه توافق آینده با واشنگتن را همزمان با تداوم آمادگی برای سناریوهای تحریمی و نظامی ترسیم می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/11/15/780820/gharibabadi-iran-fully-prepared-for-diplomacy-economic-siege-and-military-confrontation",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/11/15/780820/gharibabadi-iran-fully-prepared-for-diplomacy-economic-siege-and-military-confrontation",
-        "image": "https://cdn.presstv.co.uk/Photo/2026/11/15/597b6fe5-2f98-47a2-a564-d2c0e7379fe2.jpeg",
-        "timestamp": 1794777900.0
     }
 ]
