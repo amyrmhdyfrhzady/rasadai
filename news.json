@@ -493,6 +493,25 @@
         "timestamp": 1794989630.0
     },
     {
+        "id": "9eeefa715b",
+        "title_fa": "تهدید جدید مجلس ج.ا علیه زیرساخت‌های منطقه",
+        "title_en": "Iran just threatened the unthinkable: A 'new rule' makes any dam, port or power plant near a US or Israeli base a target",
+        "summary": [
+            "رئیس مجلس ج.ا سدها، بندرها و نیروگاه‌های نزدیک به پایگاه‌های آمریکا یا اسرائیل را اهداف مشروع اعلام کرد.",
+            "این موضع‌گیری تهاجمی پس از انتشار گزارشی در نیویورک‌تایمز درباره سدهای ایران اتخاذ شده است.",
+            "تهدید زیرساخت‌های غیرنظامی به عنوان اهداف نظامی، تاکتیک جدید جنگ روانی و فشار منطقه‌ای است."
+        ],
+        "impact": "افزایش شدید ریسک امنیتی پیرامون زیرساخت‌های حیاتی در کشورهای حاشیه خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-just-threatened-the-unthinkable-a-new-rule-makes-any-dam-port-or-power-plant-near-a-us-or-israeli-base-a-target/ar-AA2hI3Af",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-threatened-the-unthinkable-a-new-rule-makes-any-dam-port-or-power-plant-near-a-us-or-israeli-base-a-target/ar-AA2hI3Af",
+        "image": "http://www.bing.com/th?id=ONUT.qy83K9zDvb3GUBb0Rqct3w&pid=News",
+        "timestamp": 1794987290.0
+    },
+    {
         "id": "e9995c45d4",
         "title_fa": "فشار سناتورهای آمریکایی درباره هزینه جنگ ایران و سلامت ملوانان",
         "title_en": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
@@ -5500,23 +5519,5 @@
         "clean_url": "https://tass.com/world/2218397",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1794773340.0
-    },
-    {
-        "id": "6de63440b4",
-        "title_fa": "فشار غرب بر اسرائیل برای بازگشایی مسیرهای امدادی غزه",
-        "title_en": "Houthi attacks kill eight in Yemen, strike Riyadh airport and financial centre",
-        "summary": [
-            "استرالیا، بریتانیا، کانادا و ایتالیا در بیانیه‌ای مشترک خواستار پایان فوری محدودیت‌های ورود کمک‌های بشردوستانه به غزه شدند.",
-            "این کشورها وضعیت انسانی در غزه را وخیم توصیف کرده و خواستار دسترسی سریع و بدون مانع به مناطق درگیر هستند."
-        ],
-        "impact": "افزایش فشارهای دیپلماتیک متحدان غربی بر کابینه نتانیاهو برای تغییر سیاست‌های میدانی در غزه.",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/houthi-attacks-kill-eight-yemen-strike-riyadh-airport",
-        "clean_url": "https://www.newarab.com/news/houthi-attacks-kill-eight-yemen-strike-riyadh-airport",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2263465116.jpeg?itok=SSw_GEs6",
-        "timestamp": 1794772440.0
     }
 ]
