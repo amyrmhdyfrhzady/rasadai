@@ -1,5 +1,23 @@
 [
     {
+        "id": "f2e5417040",
+        "title_fa": "هشدار نهادهای امنیتی آمریکا درباره تشدید تهدیدات ج.ا",
+        "title_en": "Live - US intelligence, security chiefs warn of rising Iran threats",
+        "summary": [
+            "رؤسای اطلاعاتی آمریکا نسبت به افزایش فعالیت‌های مخرب ج.ا در منطقه و جهان هشدار دادند",
+            "این هشدارها نشان می‌دهد که نهادهای امنیتی غرب، ج.ا را به عنوان یک تهدید مستقیم و فعال در اولویت کاری خود قرار داده‌اند"
+        ],
+        "impact": "افزایش فشارهای اطلاعاتی و دیپلماتیک برای مهار فعالیت‌های برون‌مرزی ج.ا",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYTFVTTdXUzNYNUhDSlpNS2VjV1VVTUs2MU43Z1lfamE5MkhlMFdtMVdReUVjTjNZZVpNSmZVUmJ6Ry1IWm9CTk1JUS1ONW1VTkVEX2tJdWJiNUMxZHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYTFVTTdXUzNYNUhDSlpNS2VjV1VVTUs2MU43Z1lfamE5MkhlMFdtMVdReUVjTjNZZVpNSmZVUmJ6Ry1IWm9CTk1JUS1ONW1VTkVEX2tJdWJiNUMxZHc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795027101.0
+    },
+    {
         "id": "c48cc6167e",
         "title_fa": "کاهش قیمت نفت با امید به فروکش تنش‌ها",
         "title_en": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
@@ -362,6 +380,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3N3QWRxSWRObVZaQ1JBQWxYOUxwQU9DNl9IdWJ5Yk5jelc4aEpPMnZkblhGRXRLckpxWmNISmg4WUVBZ2o1RWxsQmdsSE1LMmF6V0ZOQW1wNjQtejVHYlJRZVNwalVOSndIZkZFLWNCNi00Tm1qM3BMMGlxdzlFUTRqOG1XWl9OZE5nSmZkN1PSAZYBQVVfeXFMTUt0b2FHckFRN2sxb2VLZUU4UnhCSjNiVnpyczRmdW42RkVPRzZxMzluTFM2clNQb0c4WWppNEFtb0xNQ2Z3TkN4Nm93ZWFOWnJKQ0xBbHd0QWlHYXpDSkczekhhUWR0dTA4SGRQXzh6ajlrbmtnMHNEdlkyX2NPUFdJc3RZR0ZtdEQ3VERlMHdsRGVHRHpB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795000713.0
+    },
+    {
+        "id": "e37691eeac",
+        "title_fa": "انفجارهای مشکوک در سواحل موشکی ج.ا در بندر لنگه و سیریک",
+        "title_en": "Iran's missile coast erupts as IRGC goes into full panic",
+        "summary": [
+            "وقوع انفجارها در مراکز حساس موشکی بلافاصله پس از حملات پهپادی به پایگاه آمریکا در بحرین، نشان‌دهنده پاسخ احتمالی به ماجراجویی‌های اخیر است",
+            "سپاه پاسداران در وضعیت آماده‌باش کامل و آشفتگی عملیاتی قرار گرفته است",
+            "تکرار حملات پهپادی به پایگاه‌های آمریکا، صبر واشنگتن را به پایان رسانده و احتمال واکنش مستقیم نظامی افزایش یافته است"
+        ],
+        "impact": "افزایش تنش نظامی در خلیج فارس و احتمال هدف قرار گرفتن زیرساخت‌های موشکی ج.ا",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "YouTube on MSN",
+        "url": "https://www.msn.com/en-us/news/other/irans-missile-coast-erupts-as-irgc-goes-into-full-panic/vi-AA2hIwVj",
+        "clean_url": "https://www.msn.com/en-us/news/other/irans-missile-coast-erupts-as-irgc-goes-into-full-panic/vi-AA2hIwVj",
+        "image": "http://www.bing.com/th?id=ONUT.4A9Gj64-g-_6DtadbRjvrQ&pid=News",
+        "timestamp": 1794999600.0
     },
     {
         "id": "648d09e4d6",
@@ -5482,41 +5519,5 @@
         "clean_url": "https://www.hngn.com/articles/273810/20261115/trump-says-no-iran-deal-needed-pulls-vance-talks.htm",
         "image": "https://d.hngn.com/en/full/307780/file-trump-speaks-arlington-veterans-day.jpg?w=1064&amp;f=77913153bcbafef070ee48a724c3a44d",
         "timestamp": 1794775140.0
-    },
-    {
-        "id": "70266f3991",
-        "title_fa": "فشار ترامپ برای پیروزی کامل بر جـ.ـمـ.ـهـ.ـوری اِسـ.ـلامـ.ـی",
-        "title_en": "Watch Trump pushes for 'total victory' in Iran conflict - FNC",
-        "summary": [
-            "دونالد ترامپ خواستار دستیابی به پیروزی قطعی در چالش با تـ.ـهـ.ـران شده است.",
-            "این موضع نشان‌دهنده احتمال بازگشت به سیاست فشار حداکثری و رویکرد تهاجمی‌تر در دوره جدید است."
-        ],
-        "impact": "افزایش شدید ریسک‌های سیاسی و نظامی برای تـ.ـهـ.ـران در معادلات پیش‌رو.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "FOX One",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOC0yeGpSVzlZNjg4OEp5MzV1VzBRdkQyd0FCazhnWjFzNXJwYjZrOTZLLUgyamZtcUhXNWlja0ZTM0xnUVd5WmRteF9YajBnT0ctSE5OZTNVZ0did1oxalc4dm1hYU5QN1NLSmExSExZNGsxM0VFRWNocUV4ektoaDZNWHk4VkJhWDdzaGg1bVRaOS1aSExB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOC0yeGpSVzlZNjg4OEp5MzV1VzBRdkQyd0FCazhnWjFzNXJwYjZrOTZLLUgyamZtcUhXNWlja0ZTM0xnUVd5WmRteF9YajBnT0ctSE5OZTNVZ0did1oxalc4dm1hYU5QN1NLSmExSExZNGsxM0VFRWNocUV4ektoaDZNWHk4VkJhWDdzaGg1bVRaOS1aSExB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794774634.0
-    },
-    {
-        "id": "868a1c78c6",
-        "title_fa": "هشدار درباره تکرار خطای انقلاب ۵۷ در قبال جـ.م.ا",
-        "title_en": "A warning to the US: Do not repeat the mistakes of Iran's 1979 revolution - opinion",
-        "summary": [
-            "اورشلیم پست در مطلبی به ایالات متحده هشدار داد که مبادا اشتباهات سال ۱۳۵۷ و چشم‌پوشی از واقعیت‌های مـ.ح.ر.و.م.یـ.ت‌های سیاسی را تکرار کند.",
-            "این تحلیل بر لزوم هوشیاری در برابر سیاست‌های جـ.م.هـ.و.رسی اسلامی و عدم اعتماد به جریان‌های حاکم تأکید دارد."
-        ],
-        "impact": "افزایش فشار بر سیاست‌گذاران غربی جهت بازنگری در رویکرد نرم در برابر تهران.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOEdsaGtMQ1l5VUQ2dDVZem9uYmotWkdwY08walpDOW5ONUlHNjgxUWE2eWNYNllDMDVKVVBUR3NYeVVDYnlTYXRHSGN1X1ZnTjRJdnpVMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOEdsaGtMQ1l5VUQ2dDVZem9uYmotWkdwY08walpDOW5ONUlHNjgxUWE2eWNYNllDMDVKVVBUR3NYeVVDYnlTYXRHSGN1X1ZnTjRJdnpVMA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794773450.0
     }
 ]
