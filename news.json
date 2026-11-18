@@ -1,5 +1,23 @@
 [
     {
+        "id": "68c4235f85",
+        "title_fa": "هشدار آژانس درباره توسعه هسته‌ای کره شمالی در آستانه نشست‌ها",
+        "title_en": "Kim Jong Un's nuclear buildup sparks 'serious concern' ahead of Trump-Xi-Putin summit",
+        "summary": [
+            "رئیس آژانس بین‌المللی انرژی اتمی از تکمیل توسعه تأسیسات غنی‌سازی اورانیوم در یونگبیون خبر داد.",
+            "این تحول اتمی هم‌زمان با آماده‌سازی برای نشست‌های کلیدی بین قدرت‌های جهانی، نگرانی‌های امنیتی را افزایش داده است."
+        ],
+        "impact": "پیشروی تسلیحاتی پیョン‌یانگ، موازنه قوا و پرونده‌های امنیتی روی میز مذاکرات رهبران جهان را پیچیده‌تر می‌کند.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.msn.com/en-us/news/other/kim-jong-uns-nuclear-buildup-sparks-serious-concern-ahead-of-trump-xi-putin-summit/ar-AA2hJbtb",
+        "clean_url": "https://www.msn.com/en-us/news/other/kim-jong-uns-nuclear-buildup-sparks-serious-concern-ahead-of-trump-xi-putin-summit/ar-AA2hJbtb",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/kim-jong-un-nuclear.jpg",
+        "timestamp": 1795036054.0
+    },
+    {
         "id": "c60aae85ea",
         "title_fa": "بررسی گزینه حمله به م***رم***ان ج***مه***وری اس***لامی روی میز ت***ر***ام***پ",
         "title_en": "Trump weighs Iran strike options, including attacks on regime leadership",
@@ -5502,23 +5520,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc29YelRiQ092dnhMREpZdTk1U0VNVzh2cmpmQTQtSkQzMUdrMjh2Zm1mYWpUS1VFaVQ1cldDU1ZZLWJ0RUxwMDJwVzlTQUJOanZNVE5kcTFKcDdDZG9mNmVWdDRkVW5KQnZHNVBPckpxTk1lamNVTHdUV0Z0OUExSlBRcmZ0SHI2MkpERlpnR3BrLS0wbnBlS0RnMzY5X1pwSWFreXlhRQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794785607.0
-    },
-    {
-        "id": "63be24690b",
-        "title_fa": "حملات سایبری به زیرساخت‌های غرب همزمان با افزایش تنش با ایران",
-        "title_en": "FAA Shutdown, European Cyberattacks Expose Infrastructure Risks as Iran Tensions Rise",
-        "summary": [
-            "اختلال در سیستم‌های هوانوردی آمریکا و حملات گسترده سایبری به اروپا، آسیب‌پذیری شدید زیرساخت‌های حیاتی غرب را آشکار کرد.",
-            "همزمانی این اختلالات با اوج‌گیری تنش‌های منطقه‌ای، احتمال پاسخ تلافی‌جویانه در حوزه سایبری و جنگ خاکستری را به شدت بالا برده است."
-        ],
-        "impact": "افزایش سطح هشدار امنیتی در زیرساخت‌های حمل‌ونقل و انرژی غربی.",
-        "tag": "سایبری",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Media Line",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGRqSVd0YUg0bi1jUUUwNW51cjlwMzIwN1V3VFJ1RUUtVkcxTWRzZXpmbFJJWExHWUpRdklERDlGdG9VVWMwQ2p0SlU4dkZVWUM0YTdDQW9hdi01Y3pwcTNUUUlVXzlkSFZNVHowZE55QjRjNVRhcDBWYTlrR2RxWHNOZjZ0TERUMVRuM1NhSVNieDRzcFVSOUF0enVnZjNGN1ZDV2NwUUtTd29DblYwb3RYSVQ3RkxFNHJsQTg4NA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGRqSVd0YUg0bi1jUUUwNW51cjlwMzIwN1V3VFJ1RUUtVkcxTWRzZXpmbFJJWExHWUpRdklERDlGdG9VVWMwQ2p0SlU4dkZVWUM0YTdDQW9hdi01Y3pwcTNUUUlVXzlkSFZNVHowZE55QjRjNVRhcDBWYTlrR2RxWHNOZjZ0TERUMVRuM1NhSVNieDRzcFVSOUF0enVnZjNGN1ZDV2NwUUtTd29DblYwb3RYSVQ3RkxFNHJsQTg4NA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794783079.0
     }
 ]
