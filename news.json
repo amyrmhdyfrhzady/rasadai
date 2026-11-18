@@ -1,5 +1,23 @@
 [
     {
+        "id": "a6b7e78daf",
+        "title_fa": "تغییر مسیر تجارت جهانی گاز با سایه جنگ در ایران",
+        "title_en": "Iran Conflict Reshapes Global LNG Trade",
+        "summary": [
+            "بحران ایجاد شده در اطراف ایران، بازارهای انرژی دنیا را وارد فاز جدیدی از ناوبری و تغییر قراردادها کرده است.",
+            "شرکت‌های بزرگ انرژی مجبورند مسیرهای انتقال گاز مایع را برای دوری از منطقه بحران‌زده بازطراحی کنند."
+        ],
+        "impact": "افزایش بهای انرژی در بازارهای جهانی به دلیل ریسک بالای ترانزیت در منطقه.",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Rigzone",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalJKWTU3ZWVLZlVXRDNzUWpaNDkzMHZtbFVxRnNYbE9qV1VwVkFpUXNtcFNrRjhjT0lnbVJjV3hzTk42Y3NaaDFlWHU4cVNMd0Ixck9remhVZXJmcFpwUV90RkJFN1hiNm5ESWlHbEdPVEt0MkRIY3pmaUJ0d0RjUVNzZzRtVlZ2RWxvaVlvemxQc1hyMmFnTDRRZjB2WWtqUFNF?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalJKWTU3ZWVLZlVXRDNzUWpaNDkzMHZtbFVxRnNYbE9qV1VwVkFpUXNtcFNrRjhjT0lnbVJjV3hzTk42Y3NaaDFlWHU4cVNMd0Ixck9remhVZXJmcFpwUV90RkJFN1hiNm5ESWlHbEdPVEt0MkRIY3pmaUJ0d0RjUVNzZzRtVlZ2RWxvaVlvemxQc1hyMmFnTDRRZjB2WWtqUFNF",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795006800.0
+    },
+    {
         "id": "c2d107443b",
         "title_fa": "وضعیت مبهم درگیری‌هـای جـمهوری اسـلامی و آمـریکا",
         "title_en": "Latest Status of Iran-US Conflict",
@@ -5502,24 +5520,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRjhaLVIxd1pHX1E4UkNkVUFSNGRudDlyV1hyZGhYTDk1ZWNuY1l1WkVwQ2FVNGFvUjBra0V0aTBDMklSR1ZSMHRabGlNZXBTSldYNWtrakp2a0Rra25USXNSSVhvR0pPUjZTRHRZRndVcWJwcmVGVWxmVkFCRHV6eE0td1RYbDRjVXVkb2dRTTZMemY1T0NoNkU0cjFISDEzazM5bTdLVGQ1TXpUbVE0bThaSXJBOUQ1UklxUVRPY20wM3pDaHd5dUhKeVBkd3I1LU0xcDM0dDVvNFgyUE9rdUNMVG5zeExCUnhIa0dORHpDWWJwTHdoWUgwb2VOUjhCVVBnSzlBdkNPQUU",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794745560.0
-    },
-    {
-        "id": "1fb07416d4",
-        "title_fa": "حمله پهپادی مجدد ایران به بحرین در اوج تنش‌ها",
-        "title_en": "Iran Attacks Bahrain for the Second Time in Days",
-        "summary": [
-            "سپاه پاسداران پایگاه هوایی در بحرین را هدف حملات پهپادی قرار داد که این دومین بار در چند روز اخیر است.",
-            "پدافند بحرین مدعی انهدام تهدیدات هوایی شد و هشدارهای امنیتی برای شهروندان صادر کرد.",
-            "این تحرکات نظامی همزمان با بن‌بست در مذاکرات بین‌المللی رخ داده و خطر گسترش درگیری در منطقه را افزایش داده است."
-        ],
-        "impact": "افزایش ریسک امنیتی در خلیج فارس و احتمال واکنش نظامی آمریکا به تهدیدات علیه پایگاه‌هایش.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-        "clean_url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-        "timestamp": 1794744480.0
     }
 ]
