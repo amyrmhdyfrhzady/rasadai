@@ -362,6 +362,25 @@
         "timestamp": 1794952440.0
     },
     {
+        "id": "a0d65d0779",
+        "title_fa": "حملات پهپادی ج--مهوری اس--لامی به مواضع آمریکا در کویت و بحرین",
+        "title_en": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+        "summary": [
+            "نیروهای نظامی ایران پایگاه هوایی علی السالم در کویت که محل استقرار تجهیزات آمریکایی است را هدف حمله پهپادی و موشکی قرار دادند.",
+            "بحرین نیز پس از رهگیری چند تهدید هوایی وضعیت خود را عادی اعلام کرد.",
+            "دونالد ترامپ تهدیدات احتمالی بمب کثیف را کم‌اهمیت جلوه داد اما تنش‌ها در منطقه به شدت بالا گرفته است."
+        ],
+        "impact": "گسترش درگیری‌های نظامی مستقیم به کشورهای حوزه خلیج فارس و ناامنی شدید در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+        "clean_url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108553819-1794975036384-gettyimages-136049704-67744493.jpeg?v=1794975054&w=1920&h=1080",
+        "timestamp": 1794950640.0
+    },
+    {
         "id": "07c0e37699",
         "title_fa": "هشدار نتانیاهو به اروپا درباره تهدید موشکی و هسته‌ای ایران",
         "title_en": "Netanyahu says Europe can no longer view Iran's missile and nuclear threat as a distant Middle East problem",
@@ -5506,23 +5525,5 @@
         "clean_url": "https://www.iranintl.com/en/202611159544",
         "image": "http://www.bing.com/th?id=ONUT.hZeTGCMfBEvMTOPgpWTZmw&pid=News",
         "timestamp": 1794729300.0
-    },
-    {
-        "id": "d8e15343ed",
-        "title_fa": "گزارش الشرق‌الاوسط درباره ادعای ساخت موشک با برد آمریکا",
-        "title_en": "IRGC Media: Technical Modifications to Allow Iran Develop Missiles that Reach US",
-        "summary": [
-            "بر اساس گزارش الشرق‌الاوسط انگلیسی، رسانه‌های وابسته به سپاه پاسداران مدعی شده‌اند که تغییرات فنی جدید به ایران امکان می‌دهد موشک‌هایی با برد خاک آمریکا توسعه دهد.",
-            "در متن منتشرشده از سوی این رسانه، جزئیات فنی، شواهد مستقل یا زمان‌بندی مشخصی درباره این قابلیت ادعایی ارائه نشده است."
-        ],
-        "impact": "بازتاب این ادعا از سوی رسانه‌های سپاه، سطح تنش‌های لفظی و تقابل تبلیغاتی میان تهران و واشنگتن را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "ASHARQ AL-AWSAT English",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEZ0UUVobTlmaUtsSDlFckVKRVdReklXbGN2NVcxalQ5WEdaLWZWZWl5dVJLTWFnd0ZDcnBIa2FRMVBWWjV4MTduNjFvUVRoYTBCMG96VHJhOTR1Ykl4MjJCYU05V3NxWmtwRDVOaldBZmN1dkxocGdWYWFqdEFOWFRfcGZ2V3pKOUhfb0F1VVU1QmNHWTJGRE1BMG9nV1plRDBxM2ZtZ0VCRy1VZFZtdXRn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEZ0UUVobTlmaUtsSDlFckVKRVdReklXbGN2NVcxalQ5WEdaLWZWZWl5dVJLTWFnd0ZDcnBIa2FRMVBWWjV4MTduNjFvUVRoYTBCMG96VHJhOTR1Ykl4MjJCYU05V3NxWmtwRDVOaldBZmN1dkxocGdWYWFqdEFOWFRfcGZ2V3pKOUhfb0F1VVU1QmNHWTJGRE1BMG9nV1plRDBxM2ZtZ0VCRy1VZFZtdXRn",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794728394.0
     }
 ]
