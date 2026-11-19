@@ -1,5 +1,24 @@
 [
     {
+        "id": "83bc83d789",
+        "title_fa": "مخالفت صریح ترامپ با مقررات بین‌المللی هوش مصنوعی",
+        "title_en": "US opposes global regulations on artificial intelligence, Trump says",
+        "summary": [
+            "ترامپ در اجلاس اپک تاکید کرد واشنگتن با هرگونه مقررات جهان‌گرایانه که باعث محدودیت هوش مصنوعی شود مخالفت می‌کند.",
+            "کاخ سفید قصد دارد به جای تن دادن به قوانین بین‌المللی، کنترل خطرات هوش مصنوعی را به صورت مستقل مدیریت کند.",
+            "این موضع‌گیری نشان‌دهنده خط‌مشی آمریکا برای حفظ سرعت در رقابت سنگین تکنولوژیک با چین است."
+        ],
+        "impact": "توسعه هوش مصنوعی در آمریکا بدون محدودیت‌های بین‌المللی شتاب می‌گیرد و نهادهای جهانی از مسیر مقررات‌گذاری حذف می‌شوند.",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2221045",
+        "clean_url": "https://tass.com/world/2221045",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795074060.0
+    },
+    {
         "id": "1b29a3fda6",
         "title_fa": "الجزیره: ارزیابی اثر محاصره آمریکا بر ایران زود است",
         "title_en": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
@@ -5491,24 +5510,5 @@
         "clean_url": "https://www.fox21online.com/news/us-world/houthis-accuse-saudi-arabia-of-strikes-that-killed-3-including-a-child-and-other-mideast/article_e149e7b2-8b91-5332-b0a3-2d94d4aa25a0.html",
         "image": "https://bloximages.chicago2.vip.townnews.com/fox21online.com/content/tncms/custom/image/4f2040be-d6aa-4b9f-9a7b-87c8d2f67f6d.jpg?resize=600,315",
         "timestamp": 1794826800.0
-    },
-    {
-        "id": "9458666939",
-        "title_fa": "پیش‌بینی فروپاشی سریع اقتصادی و انزوای مطلق مقامات",
-        "title_en": "Iran trusts Pakistan, Araghchi says during Islamabad visit",
-        "summary": [
-            "پیش‌بینی افت ۲۵ درصدی ارزش ریال و شبیه‌سازی آن با فروپاشی اتحاد جماهیر شوروی به عنوان یکی از شتابان‌ترین سقوط‌های اقتصادی تاریخ.",
-            "انزوای شدید سیاسی؛ پنهان شدن مسئولان ارشد در پناهگاه‌های زیرزمینی و بی‌اطلاعی آن‌ها از عمق بحران اقتصادی در سطح جامعه.",
-            "اعمال محدودیت‌های پروازی و قطع دسترسی مقامات و خانواده‌هایشان به پایتخت‌های غربی از طریق قرنطینه خطوط هوایی."
-        ],
-        "impact": "تشدید فشار خفه‌کننده مالی و سلب امکان مانور و رفت‌وآمد خارجی برای بدنه حکومتی.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.85,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611169963",
-        "clean_url": "https://www.iranintl.com/en/202611169963",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794826680.0
     }
 ]
