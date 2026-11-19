@@ -403,6 +403,24 @@
         "timestamp": 1795088925.0
     },
     {
+        "id": "eee1d9b4eb",
+        "title_fa": "حمله هوایی اسرائیل به انبار تسلیحاتی حزب‌الله در شرق لبنان",
+        "title_en": "Israel says struck Hezbollah weapons site in east Lebanon",
+        "summary": [
+            "جنگنده‌های اسرائیل مواضع نظامی حزب‌الله را در عمق خاک لبنان هدف قرار دادند.",
+            "این حملات در پاسخ به تحرکات اخیر نیابتی‌ها در منطقه انجام شده است."
+        ],
+        "impact": "افزایش تنش‌های نظامی و آمادگی برای درگیری‌های گسترده‌تر در مرزهای شمالی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/11/20/israel-says-struck-hezbollah-weapons-site-in-east-lebanon",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/20/israel-says-struck-hezbollah-weapons-site-in-east-lebanon",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795088400.0
+    },
+    {
         "id": "92ae5621c3",
         "title_fa": "اختلال ادامه‌دار شبکه طبقه‌بندی‌شده آژانس امنیت ملی آمریکا",
         "title_en": "Classified NSA network is still down, leaving some staff working from home",
@@ -5478,23 +5496,5 @@
         "clean_url": "https://www.ibtimes.co.uk/iranian-scientist-son-scientific-deterrence-nuclear-bomb-1832786",
         "image": "https://d.ibtimes.co.uk/en/full/1825443/islamic-republic-iran-navy-missile-command-qader-missile.png",
         "timestamp": 1794880500.0
-    },
-    {
-        "id": "511fc00e72",
-        "title_fa": "هشدار صریح ترامپ درباره خطرات پهپادهای جـ.ـمـ.ـهـ.ـوری اِسـ.ـلـ.ـا‌مـ.ـی",
-        "title_en": "Donald Trump Tells Reporter ‘If They Get Me, You’re Gone Too’ Over Iran Drones",
-        "summary": [
-            "ترامپ در واکنش به احتمال حملات پهپادی به خودش، به خبرنگاران هشدار داد که خطرات امنیتی جدی وجود دارد.",
-            "این اظهارات همزمان با افزایش تنش‌ها پس از حمله پهپادی به پایگاه نظامی در بحرین مطرح شد."
-        ],
-        "impact": "بال رفتن سطح هشدارهای امنیتی مقامات آمریکایی در برابر تهدیدات پهپادی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/donald-trump-tells-reporter-gone-094736081.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/donald-trump-tells-reporter-gone-094736081.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/46abbd0654e7f65bf8d4017d7a2452647bfd6528a123d8520fbbc7daf34ac490/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F960754bc62ea4a98c55fd012b7b8885c.jpg",
-        "timestamp": 1794880020.0
     }
 ]
