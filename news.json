@@ -674,6 +674,25 @@
         "timestamp": 1795013640.0
     },
     {
+        "id": "5cf83e4b84",
+        "title_fa": "تنش مقابل مرکز جامعه یهودیان منچستر در اعتراض به رویداد املاک",
+        "title_en": "Tensions Flare in Manchester as Pro-Palestinian Demonstrators Target Jewish Community Facility",
+        "summary": [
+            "بر اساس گزارش جویش‌پست‌اندنیوز، معترضان حامی فلسطین شامگاه یکشنبه در مقابل باشگاه اجتماعی و ورزشی مکابی در منطقه پرستویچ منچستر تجمع کردند.",
+            "این رسانه گزارش داد تجمع در واکنش به یک رویداد تجاری خصوصی از سوی شرکت اسرائیلی پاراگون گروپ شکل گرفت که مشاوره رایگان سرمایه‌گذاری املاک و مهاجرت ارائه می‌داد.",
+            "به نوشته این منبع، حضور کودکان یهودی در برنامه‌های تفریحی داخل مجموعه هم‌زمان با اعتراضات، نگرانی ساکنان محلی و گروه‌های امنیتی جامعه یهودی را برانگیخت."
+        ],
+        "impact": "این تنش حساسیت‌های امنیتی پیرامون مراکز اجتماعی یهودیان در بریتانیا و اختلافات بر سر رویدادهای تجاری مرتبط با اسرائیل را افزایش داد.",
+        "tag": "امنیتی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "jewishpostandnews",
+        "url": "https://jewishpostandnews.ca/world-views/manchester-protest-targets-jewish-community-safety/",
+        "clean_url": "https://jewishpostandnews.ca/world-views/manchester-protest-targets-jewish-community-safety",
+        "image": "https://jewishpostandnews.ca/wp-content/uploads/2026/11/Philip_James_Partnership__293_Deansgate__Manchester__Lancashire_-_geograph.org_.uk_-_2014517.jpg",
+        "timestamp": 1795012740.0
+    },
+    {
         "id": "4ff74e91f0",
         "title_fa": "پیشروی حوثی‌ها در یمن و تهدید امنیت دریای سرخ",
         "title_en": "Explainer-Untangling Yemen's complex civil war",
@@ -854,6 +873,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdDROSGhreVRtS2hjdlN6SmZiU1U3NG5Yb0pzaW8tZFI0WWdIRFpsNHEwaHJQX3hrNlQtOHF6VEpZLWhuengwRDZCb0xIMGxIX3lka0Q3NmNlZk5kNHFiRlYwT2IwcHUyU3ZXMktEX2t4TUFiSERGbFdMSHRKNWk0eVJmUUFhaXlXREE1YVpYUTdoMUdUc01EVHNWbjFzajdXOHA5NEsxRWZVNTZTQThfTU5KMXlGLXhXWnAyTDZPX1FJS1FPVVF4NVh5NA",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795008005.0
+    },
+    {
+        "id": "a49a9c95b8",
+        "title_fa": "ادعای حمله موشکی حوثی‌ها به فرودگاه و مرکز مالی ریاض",
+        "title_en": "Houthis claim cruise missile strike on airport and financial center in Riyadh",
+        "summary": [
+            "به گزارش خبرگزاری تاس به نقل از رسانه سبا، یحیی سریع سخنگوی نظامی حوثی‌های یمن مدعی شلیک شمار زیادی موشک کروز به فرودگاه ملک خالد و یک مرکز مالی در ریاض شد.",
+            "سخنگوی این جنبش در ادعای خود گفت موشک‌ها با دقت به اهداف مورد نظر در پایتخت عربستان سعودی اصابت کرده‌اند.",
+            "تاس همچنین به نقل از پیام تلگرامی یحیی سریع گزارش داد که این گروه دو روز پیش‌تر مدعی حمله پهپادی و آتش‌سوزی در ایستگاه‌های پمپاژ نفت ۸ و ۹ در غرب ریاض شده بود."
+        ],
+        "impact": "تکرار ادعاهای حمله به زیرساخت‌های هوانوردی، مالی و نفتی عربستان سعودی، سطح ریسک امنیتی و تنش در منطقه را بالا نگه می‌دارد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2220811",
+        "clean_url": "https://tass.com/world/2220811",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261119/1493555.jpg",
+        "timestamp": 1795007400.0
     },
     {
         "id": "a6b7e78daf",
@@ -5475,43 +5513,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbU1sTzZ5QnFPQWlpWVUxY2dGUGlCazdGZnlPblI1ZlNCZUtUZElBNkRrdWxzeU1oVjQ1Q1g2MWVMUU51enpzcGxwN2l2ZHlWRzZELVRYNFgzcjRBdVFfMndIVUdjU3lvczNPdjFQYVJ0a2l6SXdMMjRzNTAyNlduczFxMFZKYjhraUZPU0RDUGFxTGI1bkVGZzAwOHlzZEx5UHJ0LU1vMjBiSVB6Nklidk9IU1ZaZw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794821400.0
-    },
-    {
-        "id": "fcf4299d8a",
-        "title_fa": "کاورسازی موشکی با ساخت سد؛ فاش‌شدن پشت‌پرده بحران آب",
-        "title_en": "Iran built hundreds of dams to supply secret missile bases, researchers suspect",
-        "summary": [
-            "تطبیق جغرافیایی حملات اخیر با پروژه‌های سدسازی نشان می‌دهد ساخت بسیاری از سدها و خطوط انتقال آب در مناطق پرت، نه برای تأمین نیاز مردم، بلکه جهت آبرسانی به پایگاه‌های موشکی زیرزمینی سپاه بوده است.",
-            "در حالی که میلیون‌ها ایرانی با بحران بی‌سابقه خشکسالی دست‌وپنجه نرم می‌کنند، منابع آبی کشور فدای زنده نگه‌داشتن و توسعه تاسیسات پنهان موشکی شده‌اند.",
-            "این افشاگری ثابت می‌کند سدسازی‌های بی‌رویه ده‌ها سال اخیر، قطعه‌ای از پازل توسعه زیرساخت‌های نظامی ج.ا.ا بوده است."
-        ],
-        "impact": "افشای نقش نظامی سدها، این زیرساخت‌ها را به بانک اهداف بالقوه در مواجهات بعدی تبدیل می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "ynetnews",
-        "url": "https://www.ynetnews.com/article/hkbo5s00afg",
-        "clean_url": "https://www.ynetnews.com/article/hkbo5s00afg",
-        "image": "http://www.bing.com/th?id=ONUT.N9HlO6zLu5QlTDASFIhkwA&pid=News",
-        "timestamp": 1794818460.0
-    },
-    {
-        "id": "96eed4d6b5",
-        "title_fa": "درخواست مقامات ایرانی برای تغییر سیاست هسته‌ای و ادعای برد موشکی",
-        "title_en": "Iran Says Missiles Can Reach US Bases in Europe and Diego Garcia as Officials Push Nuclear Policy Shift",
-        "summary": [
-            "به گزارش رسانه Wake Up Singapore، شماری از مقامات ارشد ایرانی در همایش «عقلانیت هسته‌ای» در دانشگاه صنعتی شریف خواستار گسترش توان هسته‌ای، رد محدودیت‌های غنی‌سازی و توقف همکاری با بازرسان بین‌المللی شدند.",
-            "بر اساس این گزارش، هم‌زمان با طرح این مواضع، ادعا شده است که موشک‌های ایران توانایی رسیدن به پایگاه‌های آمریکا در اروپا و جزیره دیه‌گو گارسیا را دارند.",
-            "محمدجواد لاریجانی، رئیس پژوهشگاه دانش‌های بنیادی، ضمن مخالفت با تحویل ذخایر اورانیوم ۶۰ درصدی، از کاربردهای مشروع آن دفاع کرد و به احتمال رسیدن سطح غنی‌سازی به ۹۰ درصد برای پیشران‌های هسته‌ای اشاره داشت."
-        ],
-        "impact": "طرح مواضع تند درباره غنی‌سازی ۹۰ درصدی و برد موشکی علیه پایگاه‌های آمریکا، سطح تنش‌های هسته‌ای و امنیتی میان تهران و واشنگتن را افزایش می‌دهد.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Wake Up Singapore",
-        "url": "https://wakeup.sg/iran-nuclear-policy-missiles/",
-        "clean_url": "https://wakeup.sg/iran-nuclear-policy-missiles",
-        "image": "https://sgp1.digitaloceanspaces.com/wakeupsg/uploads/2026/11/119004c4-33d7-482e-a1e3-f885cd1d7abd-large.webp",
-        "timestamp": 1794817140.0
     }
 ]
