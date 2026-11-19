@@ -495,6 +495,24 @@
         "timestamp": 1795062660.0
     },
     {
+        "id": "3e7fe7d94d",
+        "title_fa": "حملات هوایی ائتلاف تحت رهبری عربستان به صنعا",
+        "title_en": "Houthis say Saudi-led coalition struck Sanaa, two Yemeni governorates",
+        "summary": [
+            "جنگنده‌های ائتلاف به پایتخت یمن و استان‌های صعده و تعز حمله کردند.",
+            "این حملات پس از رهگیری یک حمله موشکی منتسب به حوثی‌ها به ریاض صورت گرفت."
+        ],
+        "impact": "تشدید درگیری‌های هوایی در یمن و افزایش تنش در مرزهای عربستان.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2220919",
+        "clean_url": "https://tass.com/world/2220919",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795061940.0
+    },
+    {
         "id": "ae7f23634c",
         "title_fa": "تصمیم حساس ترامپ درباره بن‌بست هسته‌ای ایران در گزارش رسانه‌ها",
         "title_en": "Trump Faces Critical Decision on Iran Nuclear Standoff",
@@ -879,6 +897,24 @@
         "clean_url": "https://en.apa.az/asia/mossad-chief-urged-joint-us-israeli-strikes-on-iran-during-washington-visit-reuters-537011",
         "image": "https://en.apa.az/storage/news/2026/november/19/big/6afe0e85a42d66afe0e85a42d717950347576afe0e85a42d16afe0e85a42d4.jpeg",
         "timestamp": 1795049160.0
+    },
+    {
+        "id": "032b2147ab",
+        "title_fa": "رزمایش موشکی ناو روسی در فاصله ۳۰۰ کیلومتری",
+        "title_en": "Combat crew of Admiral Kasatonov frigate conducts precision missile strike drills",
+        "summary": [
+            "ناو ناوچه آدمیرال کاساتونوف تمرین شلیک موشک‌های دقیق به اهداف دریایی را انجام داد.",
+            "این تمرینات با استفاده از شبیه‌سازی رایانه‌ای برای ارزیابی آمادگی رزمی انجام شد."
+        ],
+        "impact": "افزایش آمادگی رزمی ناوگان شمال روسیه در قالب تمرینات شبیه‌سازی‌شده.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2221081",
+        "clean_url": "https://tass.com/defense/2221081",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795048140.0
     },
     {
         "id": "48af98f45a",
@@ -5464,43 +5500,5 @@
         "clean_url": "https://www.iranintl.com/en/202611173913",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1794853800.0
-    },
-    {
-        "id": "cd28b56838",
-        "title_fa": "پیش‌بینی بسنت از سقوط ۲۵ درصدی ارزش ریال",
-        "title_en": "Iran lawmaker urges expanded land trade to counter blockade",
-        "summary": [
-            "اسکات بسنت در گفتگو با فاکس‌نیوز و به گزارش ایران‌اینترنشنال پیش‌بینی کرد ارزش ریال ایران از مارس ۲۰۲۶ تا مارس ۲۰۲۷ حدود ۲۵ درصد افت کند و سرعت این روند را سریع‌تر از سقوط اقتصادی پس از فروپاشی شوروی توصیف کرد.",
-            "به گفته بسنت، وخامت شرایط اقتصادی فشار فزاینده‌ای بر ساختار سیاسی و نظامی ایران وارد می‌کند، اما مقامات ارشد در پناهگاه‌های زیرزمینی به سر می‌برند و وضعیت بیرونی را از نزدیک لمس نمی‌کنند.",
-            "این مقام آمریکایی افزود محدودیت‌های واشنگتن و قرنطینه شدن یک خط هوایی، مقامات ایرانی را در انزوای کامل قرار داده و امکان سفر آن‌ها به شهرهایی مانند لندن و پاریس را گرفته است."
-        ],
-        "impact": "تداوم محدودیت‌های پروازی و پیش‌بینی افت شدید ریال، بر انزوای دیپلماتیک و شکنندگی بازار ارز ایران می‌افزاید.",
-        "tag": "ارز و تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611160594",
-        "clean_url": "https://www.iranintl.com/en/202611160594",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/d2a96702365667a22cebc56d0474263b331117c2-1261x733.jpg?rect=0,36,1261,662&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794853380.0
-    },
-    {
-        "id": "28d8715a04",
-        "title_fa": "انتقاد ونس از نومحافظه‌کاران بر سر تداوم جنگ با ایران",
-        "title_en": "JD Vance Slams ‘Neoconservatives’ Over Iran ‘Forever War’",
-        "summary": [
-            "به گزارش نیوزویک، جی‌دی ونس معاون رئیس‌جمهور آمریکا در گفت‌وگو با فاکس‌نیوز از «نومحافظه‌کاران» به دلیل تمایل به طولانی شدن نامحدود جنگ با ایران انتقاد کرد.",
-            "ونس تصریح کرد دونالد ترامپ اجازه نمی‌دهد این درگیری به یک «جنگ همیشگی» یا حتی یک تعهد نظامی دوساله تبدیل شود و دولت بر وعده پرهیز از جنگ‌های فرسایشی پایبند است.",
-            "بر اساس اظهارات ونس، ترامپ نابودی برنامه هسته‌ای ایران را به دلیل تهدید علیه آمریکا لازم می‌دانست، اما این اقدام به معنای درگیری چندساله واشنگتن نخواهد بود."
-        ],
-        "impact": "آشکار شدن اختلاف داخلی در واشنگتن بر سر محدودیت زمانی عملیات نظامی علیه ایران.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/jd-vance-slams-neoconservatives-over-iran-forever-war-12724399",
-        "clean_url": "https://www.newsweek.com/jd-vance-slams-neoconservatives-over-iran-forever-war-12724399",
-        "image": "http://www.bing.com/th?id=ONUT.VOZdyCGc0qPnRTiCJlnI3Q&pid=News",
-        "timestamp": 1794853140.0
     }
 ]
