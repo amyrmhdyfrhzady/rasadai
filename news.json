@@ -309,6 +309,25 @@
         "timestamp": 1795059570.0
     },
     {
+        "id": "93b084e33c",
+        "title_fa": "انفجار دو نفتکش غول‌پیکر در تنگه هرمز",
+        "title_en": "Iran's Guards say two supertankers carrying 4mn barrels hit mines in Hormuz",
+        "summary": [
+            "نیروی دریایی سپاه از برخورد دو نفتکش حامل ۴ میلیون بشکه نفت به مین‌های دریایی در تنگه هرمز خبر داد.",
+            "این نفتکش‌ها در مسیر غیرمجاز و با نظارت پهپادها و جنگنده‌های آمریکایی در حال حرکت بودند.",
+            "رسانه‌های وابسته به سپاه ادعا می‌کنند روزانه به طور میانگین سه نفتکش در این منطقه از کار می‌افتند."
+        ],
+        "impact": "بحران امنیتی در تنگه هرمز به اوج رسیده و صادرات نفت منطقه عملاً فلج شده است.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/irans-guards-two-supertankers-carrying-103634239.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/irans-guards-two-supertankers-carrying-103634239.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/5dd5171471d3950b42aaaf68b4def890ce7fbb60b12030cf599812211bf0ffab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fintellinews_516%2F9b02f2030e818334045bceae7f93f2ce.jpg",
+        "timestamp": 1795055820.0
+    },
+    {
         "id": "cf3e12c161",
         "title_fa": "بررسی احتمال حملات مشترک ترامپ علیه جـ.ـه.ا.د ا.س.ل.ا.م.ی",
         "title_en": "Trump weighs joint strikes on Iran as Israel raises chemical weapons concerns",
@@ -436,6 +455,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUmtmTEFXRkhQaTlEVjV1RFBiZmVtVEYzVmdPbWFqbDdSTEhzaHdiejhJanZIU0VTNEJWN2U5c0w1eS1NOElPc1hnWUMzR180VE9aOWx4YU9vZjk4WDZ1aVZKaktibEh2SnA3TjktZmhSdFIxUTV3bml2X2hyTnFId05jaGdhRTlodlpMSkRsSjdjTENEdkdpRUYybm5Na2xveFJNaVhyY2p1SGhqT09RMkxIWVJwVm12eDEzYkxOM1FQSVYxRVAyNXV4elVxN19C",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795051914.0
+    },
+    {
+        "id": "dcbee85f21",
+        "title_fa": "ترامپ: کنترل کامل تنگه هرمز را در دست داریم",
+        "title_en": "ترامپ در نشست با شی و پوتین: نمی‌گذاریم حکومت ایران به سلاح هسته‌ای دست یابد",
+        "summary": [
+            "دونالد ترامپ بر موضع قاطع ایالات متحده در قبال جلوگیری از دستیابی ج.مهور ی ا.سلامی به سلاح هسته‌ای تاکید کرد.",
+            "ایالات متحده کنترل کامل تنگه هرمز را در اختیار گرفته و جریان نفت با اختلال جدی روبه‌روست.",
+            "توان نظامی سپاه و ارتش شامل نیروی دریایی، هوایی و پدافند به طور کامل در هم شکسته شده است."
+        ],
+        "impact": "آمریکا کنترل کامل آبراه حیاتی هرمز را به دست گرفته و دسترسی حکومت به درآمدهای نفتی قطع شده است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611194479",
+        "clean_url": "https://www.iranintl.com/202611194479",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1795051260.0
     },
     {
         "id": "a24dfd1b23",
@@ -5468,41 +5506,5 @@
         "clean_url": "https://uk.news.yahoo.com/beneath-bravado-iranian-regime-crumbling-140920074.html",
         "image": "https://s.yimg.com/lo/mysterio/api/a1793e3cc33f5ee52b702db14fba25ed9978abd7592780c5709e202f6a1ff0db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_818%2F1c4ff5a76b20002c6d141009c033ab30.jpg",
         "timestamp": 1794838140.0
-    },
-    {
-        "id": "f1e37ab6b0",
-        "title_fa": "آینده ج.ا در سایه انتخابات آمریکا و تقابل با اسرائیل",
-        "title_en": "Between Israel and US elections: Will the Iranian regime survive?",
-        "summary": [
-            "همزمانی انتخابات آمریکا و تنش‌های بی‌سابقه با اسرائیل، بقای حاکمیت را به نقطه جوش رسانده است.",
-            "فشار حداکثری احتمالی در دولت آینده آمریکا در کنار ضربات نظامی اسرائیل، توان بازسازی اقتصادی و نظامی را از تهران سلب می‌کند."
-        ],
-        "impact": "افزایش بی‌ثباتی سیاسی و فروپاشی احتمالی ساختار قدرت در صورت تداوم فشارهای خارجی.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YbGtDcVVzcW4tWXFRYWVMUlBKVkdPcjFUdV9uWC1qZWY1bi1GMXVObmQ0VlRNc2JWZzF0eEh0N3dqOE0tNjN1NDVvSjd6RWFCRGpRYkVLSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YbGtDcVVzcW4tWXFRYWVMUlBKVkdPcjFUdV9uWC1qZWY1bi1GMXVObmQ0VlRNc2JWZzF0eEh0N3dqOE0tNjN1NDVvSjd6RWFCRGpRYkVLSQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794837600.0
-    },
-    {
-        "id": "2e2bdd321a",
-        "title_fa": "بحران گاز و ترس ج.ه از شعله‌ور شدن اعتراضات",
-        "title_en": "Iran faces worsening gas shortages as US war strains economy, fuels unrest fears",
-        "summary": [
-            "کمبود شدید گاز در زمستان پیش‌رو فشار اقتصادی روی مردم را به شدت بالا می‌برد.",
-            "مقامات حکومتی نگرانند این فشارها خشم عمومی و نارضایتی‌ها را به نقطه انفجار برساند."
-        ],
-        "impact": "تشدید بحران انرژی زمینه‌ساز اعتراضات خیابانی جدید علیه سیاست‌های داخلی و منطقه‌ای خواهد شد.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-faces-worsening-gas-shortages-as-us-war-strains-economy-fuels-unrest-fears/ar-AA2hzhPW",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-faces-worsening-gas-shortages-as-us-war-strains-economy-fuels-unrest-fears/ar-AA2hzhPW",
-        "image": "http://www.bing.com/th?id=ONUT.RH2MbNrJlRXmrfRDJ_553A&pid=News",
-        "timestamp": 1794837526.0
     }
 ]
