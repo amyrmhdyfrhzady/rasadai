@@ -1,5 +1,24 @@
 [
     {
+        "id": "3c9640d3c0",
+        "title_fa": "سقوط آزاد طلا و فلزات گرانبها در بازارهای جهانی",
+        "title_en": "Gold hits 14-month low: Why are silver and copper prices falling too? Experts explain what investors should do now",
+        "summary": [
+            "قیمت طلا به پایین‌ترین سطح ۱۴ ماه اخیر سقوط کرد و از کانال ۳۸۰۰ دلار عقب نشست.",
+            "تقویت دلار آمریکا و افزایش سود اوراق قرضه خزانه داری، فشار سنگینی بر فلزات گرانبها وارد کرده است.",
+            "انتظار افزایش بیشتر نرخ بهره توسط فدرال رزرو، سرمایه‌گذاران را به سمت فروش دارایی‌ها سوق داده است."
+        ],
+        "impact": "تشدید خروج سرمایه از بازار طلا و نقره و افزایش جذابیت دلار برای سرمایه‌گذاران خرد.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Mint",
+        "url": "https://www.livemint.com/money/personal-finance/gold-hits-14-month-low-why-are-silver-and-copper-prices-falling-too-experts-explain-what-investors-should-do-now-11795063390311.html",
+        "clean_url": "https://www.livemint.com/money/personal-finance/gold-hits-14-month-low-why-are-silver-and-copper-prices-falling-too-experts-explain-what-investors-should-do-now-11795063390311.html",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/19/382x214/gold_falls_1795070158264_9vtG_1795070169623_1G5c_a9098d23-cb8b-4a8e-83b8-663d209eed44_1erY.png",
+        "timestamp": 1795071240.0
+    },
+    {
         "id": "525a615278",
         "title_fa": "افت سهام فناوری هند زیر سایه رشد روپیه",
         "title_en": "Sensex today | Stock Market Live: Sensex, Nifty muted in early trade as IT stocks drag",
@@ -5494,23 +5513,5 @@
         "clean_url": "https://news24online.com/world/iran-secret-missile-cities-near-533-dams-us-israel-airstrikes-raise-fresh-questions-about-tehrans-military-plans/954083",
         "image": "http://www.bing.com/th?id=ONUT.77Gybb0-UzKecU8ZhgXCHA&pid=News",
         "timestamp": 1794823200.0
-    },
-    {
-        "id": "ec57ef9747",
-        "title_fa": "حمله ترامپ به سی‌بی‌اس به دلیل تحریف اخبار دفاعی مقابل ای-ران",
-        "title_en": "Trump criticizes '60 Minutes' bosses as 'even worse' as he challenges Iran war report",
-        "summary": [
-            "دونالد ترامپ برنامه ۶۰ دقیقه را به حذف عمدی پیروزی‌های دفاعی ایالات متحده در برابر پهپادهای فرستاده شده از سوی ج-م-ه-و-ر-ی ا-س-لا-م-ی متهم کرد.",
-            "این انتقاد تند بار دیگر تمرکز رسانه‌ها را به سمت نبردهای پنهان و روایت‌های رسانه‌ای پیرامون توانمندی‌های پهپادی نیروهای نیابتی کشاند."
-        ],
-        "impact": "این افشاگری فشار رسانه‌ای بر سیاست‌های امنیتی دولت آمریکا در قبال تهدیدات پهپادی را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-criticizes-60-minutes-bosses-as-even-worse-as-he-challenges-iran-war-report/ar-AA2hyPa6",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-criticizes-60-minutes-bosses-as-even-worse-as-he-challenges-iran-war-report/ar-AA2hyPa6",
-        "image": "http://www.bing.com/th?id=ONUT.6FJ3NlrC0-apNr19mi0L8Q&pid=News",
-        "timestamp": 1794823033.0
     }
 ]
