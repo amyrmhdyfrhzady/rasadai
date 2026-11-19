@@ -1,5 +1,24 @@
 [
     {
+        "id": "40a445c134",
+        "title_fa": "التیماتوم ترامپ و آغاز درگیری نظامی با ایران",
+        "title_en": "The Paradox of American Credibility",
+        "summary": [
+            "دونالد ترامپ پس از شکست مذاکرات هسته‌ای، التیماتوم سختی به تهران داد.",
+            "فشارهای واشنگتن و رد درخواست‌ها به جنگی ختم شد که همچنان ادامه دارد.",
+            "استفاده از نیروی نظامی به ابزاری برای بازدارندگی و تحمیل خواسته‌های آمریکا تبدیل شده است."
+        ],
+        "impact": "هزینه مقاومت در برابر خواسته‌های آمریکا به یک درگیری تمام‌عیار نظامی کشیده شد.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/united-states/paradox-american-credibility",
+        "clean_url": "https://www.foreignaffairs.com/united-states/paradox-american-credibility",
+        "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/11/18/2026-09-14T191619Z_1748388090_RC2AHNABI3T2_RTRMADP_3_IRAN-CRISIS-USS-GEORGE-WASHINGTON.JPG?itok=o0VANFfW",
+        "timestamp": 1795078800.0
+    },
+    {
         "id": "5148e6e7d7",
         "title_fa": "تاثیر تغییرات کنگره بر پرونده جـ.ـهـ.ـوری اسـ.ـلامـ.ـی و اسـ.ـراییـ.ـل",
         "title_en": "Commentary: What a Democratic Congress means for Iran, Israel and Ukraine",
@@ -546,6 +565,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS253NTBHWk90QldjR3QzcXdkbXBNaXljeHB5bU9FVHZfNTcxalZha2lWVmIwSGttMmhfSXljdEt3a2V4dEVfVFlFTGdLTXlqZHZoZmZYNzlSVnF3cHdPa3pPTnVzWWJ2aEktWU5kUFFaY1JaTG41WVlMZFBEUG4zNU5nNU9PNVMzZzJvYzBQUzFSeFNmbjNMVmJRRFpxamVaZjdaZw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795035719.0
+    },
+    {
+        "id": "096551268c",
+        "title_fa": "شوک نفتی جنگ و تغییر نقشه انرژی جهان",
+        "title_en": "How the War in Iran Will Remake the Global Energy Order",
+        "summary": [
+            "آژانس بین‌المللی انرژی در بررسی خود پیامدهای جنگ را تحلیل کرد.",
+            "شوک نفتی حاصل از درگیری‌ها سرعت حرکت به سمت انرژی‌های جایگزین را بیشتر می‌کند."
+        ],
+        "impact": "بازار جهانی انرژی به سمت فاصله گرفتن از سوخت‌های فسیلی حرکت می‌کند.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+        "clean_url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+        "image": "http://www.bing.com/th?id=ONUT.o8wxAID_YHFm6HZ1oFY2UA&pid=News",
+        "timestamp": 1795035600.0
     },
     {
         "id": "c60aae85ea",
@@ -5469,44 +5506,5 @@
         "clean_url": "https://www.middleeasteye.net/news/iran-still-retains-2500-ballistic-missiles-report",
         "image": "http://www.bing.com/th?id=ONUT.Mle5eyHjZTuvIzWwfXsbQw&pid=News",
         "timestamp": 1794833400.0
-    },
-    {
-        "id": "f6c2b75332",
-        "title_fa": "پیش‌بینی بسنت از سقوط ۲۵ درصدی ریال و انزوای مقامات",
-        "title_en": "Barrot says France was targeted for backing Iranians facing IRGC repression",
-        "summary": [
-            "به گزارش ایران اینترنشنال، اسکات بسنت در گفت‌وگو با فاکس‌نیوز پیش‌بینی کرد ارزش ریال بین مارس ۲۰۲۶ تا مارس ۲۰۲۷ حدود ۲۵ درصد کاهش یابد و سرعت این افت را از رکود ۲۲ درصدی اقتصاد روسیه پس از فروپاشی شوروی بیشتر دانست.",
-            "بسنت مدعی شد وخامت شرایط اقتصادی فشار بر ساختار سیاسی و نظامی ایران را تشدید کرده و مقامات ارشد در پناهگاه‌های زیرزمینی از وضعیت واقعی جامعه بی‌اطلاع هستند.",
-            "محدودیت‌های آمریکا و قرنطینه هوایی به گفته بسنت، مقامات ایرانی را کاملاً منزوی کرده و مانع سفر آن‌ها به شهرهایی مانند لندن و پاریس شده است.",
-            "در تیتر این گزارش همچنین به نقل از بارو اشاره شده که فرانسه به دلیل حمایت از ایرانیان در برابر س.ر.ک.و.ب س.پ.ا.ه هدف قرار گرفته است."
-        ],
-        "impact": "بر اساس اظهارات بسنت، هم‌زمانی افت شدید پیش‌بینی‌شده ریال با محدودیت‌های پروازی، فشار مالی و دیپلماتیک بر مقامات ایران را افزایش می‌دهد.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611168561",
-        "clean_url": "https://www.iranintl.com/en/202611168561",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/d40b406d52685d05c5c60b66baddf6a40630150b-3869x2580.jpg?rect=0,275,3869,2031&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794832980.0
-    },
-    {
-        "id": "fa2f4c7e91",
-        "title_fa": "گفتگوی لاوروف و عراقچی همزمان با ابهام فروش کشتی شهراز",
-        "title_en": "Russian, Iranian foreign ministers hold phone call",
-        "summary": [
-            "بر اساس اعلام وزارت خارجه روسیه، سرگئی لاوروف و عباس عراقچی روز دوشنبه درباره مسائل دوجانبه تلفنی گفتگو کردند.",
-            "ایران‌اینترنشنال به نقل از وب‌سایت رویداد۲۴ گزارش داد کشتی «شهراز» پس از تعمیرات چند میلیون دلاری به شرکت «آدمیرال» متعلق به پسران علی شمخانی فروخته و به چرخه تجاری بازگشته است.",
-            "رویداد۲۴ با اشاره به ابهام در قیمت‌گذاری و نحوه انتخاب خریدار، خواستار انتشار اسناد معاملاتی و ارزیابی‌های مالی برای بررسی حفظ منافع سهامداران شد."
-        ],
-        "impact": "بر اساس گزارش رویداد۲۴، نبود شفافیت در نحوه واگذاری و ثبت مالی این معامله پرسش‌هایی جدی درباره مسئولیت مدیران و حقوق سهامداران ایجاد کرده است.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611160819",
-        "clean_url": "https://www.iranintl.com/en/202611160819",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794829980.0
     }
 ]
