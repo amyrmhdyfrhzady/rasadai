@@ -18,6 +18,25 @@
         "timestamp": 1795112866.0
     },
     {
+        "id": "2586337380",
+        "title_fa": "بحران ناترازی گاز؛ فلج شدن صنایع سیمان و فولاد جـ.ـهـ.ـمـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلـ.ـاـ.ـمـ.ـی",
+        "title_en": "Tanker loads Iranian crude in Persian Gulf as Tehran weighs resuming exports",
+        "summary": [
+            "کمبود روزانه گاز در جـ.ـهـ.ـمـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلـ.ـاـ.ـمـ.ـی به رقم بی‌سابقه ۴۳۰ میلیون متر مکعب رسید.",
+            "آسیب به زیرساخت‌های انرژی در کنار ناترازی شدید، تولید فولاد و سیمان را به آستانه تعطیلی کشانده است.",
+            "کارخانجات سیمان به سوخت مازوت روی آورده‌اند اما واحدهای فولادسازی وابستگی شدیدی به گاز طبیعی دارند و با توقف کامل مواجه‌اند."
+        ],
+        "impact": "فلج شدن بخش عمده‌ای از تولید صنعتی و تشدید بحران اقتصادی.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611192862",
+        "clean_url": "https://www.iranintl.com/en/202611192862",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ff24505305f1ce5468e3a73e5cbcf1fa04ea4627-1280x853.png?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795112400.0
+    },
+    {
         "id": "941f9ecaf2",
         "title_fa": "ترامپ و دور جدید تقابل با ج.ا.ا",
         "title_en": "OPINION: Trump’s ‘Little War’ With Iran Just Got a Lot Bigger",
@@ -5479,23 +5498,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjR0ZFVMb1g5NXJ2UmVzVVQtSEs5R1o1bFlCb2F1QXVEbUdBUUhZRDhmZTk4c2l0azF4NTV5N1MwdWQ4bVFjeUlIb1pEWk1pdnlYU0VjNmdqY0ctM2dhWTRLa3NkdXlaM203eDk5OGdfSG81dUxCNXBWVENQRHViOWlYRXl5azhzanFHbzVaYlp0d2NfdWc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794869196.0
-    },
-    {
-        "id": "cabd142262",
-        "title_fa": "تلاش سناتورهای آمریکایی برای حذف همکاری دفاعی با اسرائیل",
-        "title_en": "Washington Policy Weekly: Senators Push to Remove US-Israel Defense Cooperation Provisions from NDAA",
-        "summary": [
-            "سناتورهای آمریکایی به دنبال حذف بندهای مربوط به همکاری دفاعی ایالات متحده و اسرائیل از لایحه بودجه دفاعی هستند.",
-            "این اقدام می‌تواند نشان‌دهنده تغییراتی در رویکرد حمایتی واشنگتن از تل‌آویو در شرایط حساس منطقه‌ای باشد."
-        ],
-        "impact": "تضعیف احتمالی هماهنگی‌های نظامی واشنگتن و تل‌آویو در برابر تهدیدات مشترک.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Arab Center Washington DC",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUwwcDJoZ01fbkZQT3A1UVJ2LUZFUS1aQzU2SGJoaURUbzBNLWhMLXdDVjFQaGJ3YTNQUkJJZzdWNHdLeVdpU0taMU1oOFlBd3pUbjJHeHFQVFRMSlVENEhfS2MyZndUdlloRnA1T0lGdC1sRDNMX1BkQ0R6UmZGNWRGT0NsQkVCaGdYMVVuOEJDYk1za1h1UHVWTjRUWEc1NWdqaElxa245TlhXQXQyX2l1UE1fS0h2T09ncS02RlZMVk9tc1ZSU1hzTWtoNG8?oc=5",
-        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUwwcDJoZ01fbkZQT3A1UVJ2LUZFUS1aQzU2SGJoaURUbzBNLWhMLXdDVjFQaGJ3YTNQUkJJZzdWNHdLeVdpU0taMU1oOFlBd3pUbjJHeHFQVFRMSlVENEhfS2MyZndUdlloRnA1T0lGdC1sRDNMX1BkQ0R6UmZGNWRGT0NsQkVCaGdYMVVuOEJDYk1za1h1UHVWTjRUWEc1NWdqaElxa245TlhXQXQyX2l1UE1fS0h2T09ncS02RlZMVk9tc1ZSU1hzTWtoNG8",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794868401.0
     }
 ]
