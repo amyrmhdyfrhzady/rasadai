@@ -1,5 +1,23 @@
 [
     {
+        "id": "4bfc4e0c92",
+        "title_fa": "گسترش تاسیسات اتمی یونگ‌بیون توسط کره شمالی",
+        "title_en": "'Heart of its nuclear program': North Korea expands Yongbyon facility as Trump seeks talks with Kim",
+        "summary": [
+            "کره شمالی همزمان با چراغ سبز برای مذاکره با ترامپ، سایت غنی‌سازی اورانیوم خود را توسعه داده است.",
+            "آژانس بین‌المللی انرژی اتمی تکمیل این پروژه را تایید کرده است."
+        ],
+        "impact": "افزایش چالش‌های اتمی در عرصه بین‌المللی همزمان با تغییرات در سیاست خارجی آمریکا",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Times of India",
+        "url": "https://www.msn.com/en-in/news/world/heart-of-its-nuclear-program-north-korea-expands-yongbyon-facility-as-trump-seeks-talks-with-kim/ar-AA2hLZkP",
+        "clean_url": "https://www.msn.com/en-in/news/world/heart-of-its-nuclear-program-north-korea-expands-yongbyon-facility-as-trump-seeks-talks-with-kim/ar-AA2hLZkP",
+        "image": "https://static.toiimg.com/thumb/msid-135985108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1795081020.0
+    },
+    {
         "id": "40a445c134",
         "title_fa": "التیماتوم ترامپ و آغاز درگیری نظامی با ایران",
         "title_en": "The Paradox of American Credibility",
@@ -290,6 +308,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2o3OTMyUy1pa2xpSFN1S1ZLdlJHREVCdVJ3MEhxSkFlU182MTZ5a2RrWG94bnRRbEp4SUtTWTU5VDQ5UGRvRkZIcXhvaFV1TVZMRFZwYThweFhaYkZGWXo3azdoVWNfdS1ja29SUXJoZnpWY3UtQm9XUkQteFNMRWxXRQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795055301.0
+    },
+    {
+        "id": "636d5f6dbc",
+        "title_fa": "بحران گاز و فلج شدن صنایع کلیدی ج.ا",
+        "title_en": "Iran lawmaker says Israeli desalination plants are within missile range",
+        "summary": [
+            "کمبود روزانه گاز در ج.ا به رقم کم‌سابقه بیش از چهارصد میلیون مترمکعب رسیده است.",
+            "صنایع فولاد به دلیل وابستگی مستقیم به گاز بیشترین آسیب را می‌بینند و عملا متوقف خواهند شد."
+        ],
+        "impact": "فلج شدن کامل بخش تولید فولاد و سیمان به دلیل ناترازی شدید انرژی",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611196024",
+        "clean_url": "https://www.iranintl.com/en/202611196024",
+        "image": "http://www.bing.com/th?id=ONUT.Py7f7a_Bhjhx_fguh1piHw&pid=News",
+        "timestamp": 1795054260.0
     },
     {
         "id": "b0904f4166",
@@ -5469,44 +5505,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZTTXM1eEI1WWI3c2UwSUo0Y3VzOWFaMG5hWk1CQ2RWc1RSYUdHNkxJeFZMVHQ4VWJic2pHeHJkNWMtcF9BaXVQY2JzYnZpTlZDQ1I0OXRXR19ZU2hNNG9vTnRJc2Vjc2dJSENPYTFwZGE5aURkdWRua2FMWGhIbTFQUnN1eks2LTVhazdUTjcxWEpyMUVuT1JqQUdlMlRFcTh2dg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794835367.0
-    },
-    {
-        "id": "aac9e8dea6",
-        "title_fa": "پیش‌بینی فروپاشی اقتصادی ج.ا مشابه شوروی سابق",
-        "title_en": "Iran lawmaker says assassinations and airborne raids could resume",
-        "summary": [
-            "بیسنت پیش‌بینی کرده ارزش ریال تا سال ۲۰۲۷ حدود ۲۵ درصد دیگر سقوط می‌کند.",
-            "سرعت فروپاشی اقتصادی ج.ا با دوران سقوط شوروی مقایسه شده است.",
-            "مقامات ارشد در پناهگاه‌های زیرزمینی از واقعیت‌های کف خیابان بی‌خبرند.",
-            "انزوای بین‌المللی و قرنطینه خطوط هوایی، حلقه محاصره را برای مسئولان تنگ‌تر کرده است."
-        ],
-        "impact": "سقوط آزاد ارزش پول ملی و انزوای کامل دیپلماتیک، ساختار حاکمیت را به مرز فروپاشی رسانده است.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611161923",
-        "clean_url": "https://www.iranintl.com/en/202611161923",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/ccd482139b884b972ae53dd9b67c255b9a65fc4e-1445x1088.png?rect=0,16,1445,963&w=576&h=384&q=90&fit=max&auto=format",
-        "timestamp": 1794835320.0
-    },
-    {
-        "id": "48bc3b44d6",
-        "title_fa": "پیش‌بینی بسنت از سقوط ۲۵ درصدی ریال و انزوای مقامات",
-        "title_en": "Iran-backed militia earned millions from stolen Iraqi oil",
-        "summary": [
-            "به گزارش ایران اینترنشنال، بسنت در مصاحبه با فاکس‌نیوز پیش‌بینی کرد ارزش ریال ایران از مارس ۲۰۲۶ تا مارس ۲۰۲۷ حدود ۲۵ درصد کاهش یابد و سرعت این افت را با فروپاشی اقتصادی شوروی مقایسه کرد.",
-            "بسنت در این گفتگو مدعی شد بحران اقتصادی فشار بر ساختار سیاسی و نظامی ایران را افزایش داده، اما مقامات ارشد در پناهگاه‌های زیرزمینی از وضعیت واقعی جامعه فاصله گرفته‌اند.",
-            "او همچنین اظهار داشت که محدودیت‌ها و قرنطینه هوایی اعمال‌شده از سوی آمریکا، مقامات ایرانی را به‌طور کامل منزوی کرده و مانع سفر آن‌ها به شهرهایی مانند لندن و پاریس شده است."
-        ],
-        "impact": "بر اساس اظهارات بسنت، تداوم محدودیت‌های پروازی و افت سریع ارزش پول ملی، فشار اقتصادی بر ساختار حاکمیت و انزوای بین‌المللی آن را تشدید می‌کند.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611169530",
-        "clean_url": "https://www.iranintl.com/en/202611169530",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/c26c6c28005768bc8bf3ba7ebcd97624432178e7-638x481.jpg?rect=0,74,638,335&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794835140.0
     }
 ]
