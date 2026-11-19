@@ -329,6 +329,25 @@
         "timestamp": 1795053180.0
     },
     {
+        "id": "11aaad2fa6",
+        "title_fa": "فلج‌شدن صنایع با بحران کمبود گاز",
+        "title_en": "Workers at soda ash plant in southern Iran strike for fourth day",
+        "summary": [
+            "ناتزی ج.ه.و.ری در مدیریت انرژی، صنعت فولاد و سیمان را به لبه پرتگاه کشانده است.",
+            "تولید فولاد به دلیل وابستگی مستقیم به گاز متوقف می‌شود.",
+            "کارگران کارخانه‌ها در اعتراض به شرایط موجود دست به اعتصاب زده‌اند."
+        ],
+        "impact": "فلج کامل صنایع مادر و بیکاری گسترده به دلیل بی‌کفایتی در تامین انرژی",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611196912",
+        "clean_url": "https://www.iranintl.com/en/202611196912",
+        "image": "http://www.bing.com/th?id=ONUT.tYXZdgHMELgtjYU4TH1wAA&pid=News",
+        "timestamp": 1795052700.0
+    },
+    {
         "id": "38477b3eed",
         "title_fa": "تلاش منطقه‌ای برای مهار جنگ؛ فشار تل‌آویو برای حمله به تهران",
         "title_en": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say",
@@ -5489,23 +5508,5 @@
         "clean_url": "https://www.iranintl.com/en/202611169530",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/c26c6c28005768bc8bf3ba7ebcd97624432178e7-638x481.jpg?rect=0,74,638,335&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794835140.0
-    },
-    {
-        "id": "5a79ba3742",
-        "title_fa": "درس‌های تاریخی ترامپ درباره حاکمیت جـمـهـوری اسـلامـی",
-        "title_en": "Trump's highway of death: The 10 days that could create a Saddam 2.0",
-        "summary": [
-            "بررسی اشتباهات گذشته آمریکا در قبال بغداد و درس گرفتن از آن برای پرونده تهران",
-            "تاکید بر تفاوت میان سیاست مهار و تغییر ساختار سیاسی حاکمیت"
-        ],
-        "impact": "بازنگری در استراتژی‌های کلان واشنگتن برای برخورد قاطع با تهران.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Washington Examiner",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-highway-of-death-the-10-days-that-could-create-a-saddam-2-0/ar-AA2hxkXZ",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-highway-of-death-the-10-days-that-could-create-a-saddam-2-0/ar-AA2hxkXZ",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h4mH0.img?w=1024&h=682&m=4&q=100",
-        "timestamp": 1794834000.0
     }
 ]
