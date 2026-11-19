@@ -18,6 +18,24 @@
         "timestamp": 1795122964.9929247
     },
     {
+        "id": "58f1471665",
+        "title_fa": "جنگ قدرت بر سر کنترل رسانه حکومتی",
+        "title_en": "'Iran no longer wants to stand by, may take military action against US blockade'",
+        "summary": [
+            "پایان دوره ریاست سازمان صداوسیما و بحران تشدید نفوذ طیف تندرو جبهه پایداری در این رسانه",
+            "نقش کلیدی سعید جلیلی و برادرش در هدایت محتوایی تلویزیون و تلاش جناح حاکم برای مهار یا حفظ این سلطه رسانه‌ای"
+        ],
+        "impact": "تعیین تکلیف ریاست صداوسیما عیار واقعی قدرت‌گیری یا عقب‌نشینی تندروهای حاکم را روشن می‌کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611198367",
+        "clean_url": "https://www.iranintl.com/en/202611198367",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795121520.0
+    },
+    {
         "id": "94afe2a4a6",
         "title_fa": "رویترز: نگاه ترامپ به سال ۲۰۲۷ برای وضعیت ایران",
         "title_en": "Trump eyes 2027 to 'see what happens' with Iran",
@@ -5477,24 +5495,5 @@
         "clean_url": "https://www.newsweek.com/houthi-gains-in-yemen-could-deliver-major-win-for-iran-12721199",
         "image": "http://www.bing.com/th?id=ONUT.nrK0Bjo5BTTnTtAeHUSCow&pid=News",
         "timestamp": 1794880800.0
-    },
-    {
-        "id": "237eac6a6c",
-        "title_fa": "ادعای عجیب فرزند فخری‌زاده درباره توانمندی‌های پنهان هسته‌ای",
-        "title_en": "Iran Has Technology That Makes a Nuclear Bomb Look Like 'a Joke,' Assassinated Scientist's Son Says",
-        "summary": [
-            "فرزند محسن فخری‌زاده با ادعای دستیابی به سطحی از دانش که بمب اتم در برابر آن شوخی است، سعی در ایجاد بازدارندگی روانی دارد.",
-            "این اظهارات بخشی از پروژه تبلیغاتی برای بزرگ‌نمایی توانمندی‌های علمی ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی جهت مرعوب کردن غرب است.",
-            "تأکید بر دانش فراتر از بمب اتم، نشان‌دهنده تغییر استراتژی تبلیغاتی برای توجیه هزینه‌های کلان نظامی در شرایط بحران اقتصادی است."
-        ],
-        "impact": "افزایش تنش‌های لفظی و تلاش برای خرید زمان در مذاکرات از طریق ایجاد ابهام در توانمندی‌های نظامی.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "International Business Times UK",
-        "url": "https://www.ibtimes.co.uk/iranian-scientist-son-scientific-deterrence-nuclear-bomb-1832786",
-        "clean_url": "https://www.ibtimes.co.uk/iranian-scientist-son-scientific-deterrence-nuclear-bomb-1832786",
-        "image": "https://d.ibtimes.co.uk/en/full/1825443/islamic-republic-iran-navy-missile-command-qader-missile.png",
-        "timestamp": 1794880500.0
     }
 ]
