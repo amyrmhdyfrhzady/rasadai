@@ -73,6 +73,25 @@
         "timestamp": 1795112866.0
     },
     {
+        "id": "e06d426052",
+        "title_fa": "هشدار نتانیاهو درباره جنگ با ایران؛ پنتاگون گزینه‌ها را می‌سنجد",
+        "title_en": "Netanyahu reportedly tells aides renewed war with Iran 'unavoidable' as Trump weighs options",
+        "summary": [
+            "بر اساس گزارش تایمز آو اسرائیل، بنیامین نتانیاهو به دستیاران خود گفته که وقوع جنگ دوباره با ایران «اجتناب‌ناپذیر» است.",
+            "به نوشته این رسانه، دونالد ترامپ از پنتاگون و نهادهای اطلاعاتی آمریکا خواسته بررسی کنند آیا امکان حمله به ایران بدون ایجاد خطر برای زیرساخت‌های انرژی خلیج فارس وجود دارد.",
+            "درخواست این ارزیابی اطلاعاتی، نگرانی واشنگتن از واکنش احتمالی تهران به تاسیسات نفتی و گازی منطقه را در محاسبات نظامی برجسته می‌کند."
+        ],
+        "impact": "طرح سناریوهای حمله نظامی و حفاظت از تاسیسات انرژی، سطح تنش‌های امنیتی در خلیج فارس و نگرانی بازارهای نفت را بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/netanyahu-reportedly-tells-aides-renewed-war-with-iran-unavoidable-as-trump-weighs-options/",
+        "clean_url": "https://www.timesofisrael.com/netanyahu-reportedly-tells-aides-renewed-war-with-iran-unavoidable-as-trump-weighs-options",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261118YS48-e1795108705841.jpg",
+        "timestamp": 1795112820.0
+    },
+    {
         "id": "2586337380",
         "title_fa": "بحران ناترازی گاز؛ فلج شدن صنایع سیمان و فولاد جـ.ـهـ.ـمـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلـ.ـاـ.ـمـ.ـی",
         "title_en": "Tanker loads Iranian crude in Persian Gulf as Tehran weighs resuming exports",
@@ -5480,23 +5499,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQODdxQjhLQ0dKMU1wUUV2VVFkcnVrTjY4NVB6elJHTndsOC1kZ1NnX3pqbnQ2NzFGOWh0SmstVXdPOTYxQXFLb1JRQnJTSWdWZDU2VVFZd0wzRWFtNWlSc0RySlM1b3gwZ2p5TmF0dmpjWFA0ZS1jWTVYcGlNZzlOUnpIMlJRTUdHTWJYNkFPODJHUU83aGxV",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794870726.0
-    },
-    {
-        "id": "2188c12943",
-        "title_fa": "طرح ادعایی انـ.ـفـ.ـجـ.ـار بـ.ـمـ.ـب کـ.ـثـ.ـیـ.ـف در واشنگتن",
-        "title_en": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
-        "summary": [
-            "منابع اطلاعاتی آمریکا ادعا کرده‌اند که جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی به دنبال برنامه‌ریزی برای اقدام تروریستی در خاک ایالات متحده است.",
-            "این گزارش امنیتی فشارها را بر روی تهران به شدت افزایش می‌دهد و زنگ خطر را برای نهادهای امنیتی غرب به صدا درآورده است."
-        ],
-        "impact": "تشدید فوری سایه جنگ و افزایش اقدامات امنیتی علیه منافع ایران در سطح بین‌المللی.",
-        "tag": "امنیت ملی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ?oc=5",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794869968.0
     }
 ]
