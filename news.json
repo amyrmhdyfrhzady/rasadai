@@ -676,6 +676,25 @@
         "timestamp": 1795047420.0
     },
     {
+        "id": "89b81039f9",
+        "title_fa": "شنیده شدن صدای انفجار در ریاض همزمان با تشدید تنش‌ها",
+        "title_en": "Loud boom heard in Riyadh amid escalating hostilities between Saudi Arabia and Houthis",
+        "summary": [
+            "به گزارش تایمز آو اسرائیل به نقل از شاهد عینی رویترز، صدای انفجار مهیبی در ریاض، پایتخت عربستان سعودی، شنیده شده است.",
+            "نهاد دفاع مدنی عربستان پیش از شنیده شدن این صدا هشدار خطر احتمالی در شهر صادر کرده بود، اما پس از مدتی اعلام کرد که خطر برطرف شده است.",
+            "این حادثه همزمان با بالا گرفتن درگیری‌ها میان عربستان سعودی و گروه حوثی‌ها گزارش شده است."
+        ],
+        "impact": "بروز تنش امنیتی در پایتخت عربستان سطح آماده‌باش دفاعی در منطقه و حساسیت‌ها بر سر امنیت خاورمیانه را بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/loud-boom-heard-in-riyadh-amid-escalating-hostilities-between-saudi-arabia-and-houthis/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/loud-boom-heard-in-riyadh-amid-escalating-hostilities-between-saudi-arabia-and-houthis",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795046460.0
+    },
+    {
         "id": "419855e1ce",
         "title_fa": "تشدید درگیری‌های نظامی ایران و آمریکا در خلیج فارس",
         "title_en": "Renewed Iranian escalation exposes limits of managed conflict",
@@ -5482,24 +5501,5 @@
         "clean_url": "https://www.iranintl.com/en/202611164981",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1794844920.0
-    },
-    {
-        "id": "2cce7256b7",
-        "title_fa": "استقرار سومین ناو هواپیمابر آمریکا در خلیج فارس",
-        "title_en": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
-        "summary": [
-            "نیروی دریایی سپاه تهدید کرد که مسیر جنوبی تنگه هرمز کاملاً بسته و مین‌گذاری شده است.",
-            "مقامات نظامی ج. ا اعلام کردند تنگه هرمز تا زمان پذیرش شرایط تهران باز نخواهد شد.",
-            "گزارش‌های اطلاعاتی آمریکا نشان می‌دهد که نهادهای امنیتی حاکمیت در حال بررسی گزینه‌های ترور مقامات ارشد دولت ترامپ هستند."
-        ],
-        "impact": "افزایش شدید ریسک در مسیرهای کشتیرانی خلیج فارس و بالا رفتن احتمال درگیری نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-        "clean_url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-        "image": "http://www.bing.com/th?id=ONUT.V2NmiSdQLYKgrq2xU0n3DA&pid=News",
-        "timestamp": 1794844800.0
     }
 ]
