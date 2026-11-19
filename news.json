@@ -165,6 +165,24 @@
         "timestamp": 1795081020.0
     },
     {
+        "id": "ca38c86953",
+        "title_fa": "عقب‌نشینی از حذف سوخت‌های فسیلی در نشست اقلیمی",
+        "title_en": "Fossil fuels score 2 wins 5,000 miles apart",
+        "summary": [
+            "کشورهای بزرگ تولیدکننده انرژی با توافق‌های جدید، عملاً برنامه‌های حذف سوخت‌های فسیلی را به حاشیه راندند",
+            "اولویت‌های اقتصادی و توافق‌های پشت‌پرده بر تعهدات زیست‌محیطی پیشی گرفته است"
+        ],
+        "impact": "تداوم سلطه انرژی‌های فسیلی و شکست اهداف اقلیمی جهانی",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/19/fossil-fuels-score-2-wins-5000-miles-apart-01175305",
+        "clean_url": "https://www.politico.com/news/2026/11/19/fossil-fuels-score-2-wins-5000-miles-apart-01175305",
+        "image": "http://www.bing.com/th?id=ONUT.qhjkeDzD3F9Zl299JwXGow&pid=News",
+        "timestamp": 1795080780.0
+    },
+    {
         "id": "2fed0c05e5",
         "title_fa": "سقوط کم‌سابقه تردد نفتکش‌های ال‌ان‌جی در تنگه هرمز",
         "title_en": "LNG transportation in Hormuz dropped to minimum amid new attacks — Bloomberg",
@@ -181,6 +199,42 @@
         "clean_url": "https://tass.com/world/2221191",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261119/1493685.jpg",
         "timestamp": 1795079640.0
+    },
+    {
+        "id": "3314c6c1ab",
+        "title_fa": "نشست سه‌جانبه ترامپ، پوتین و شی در چین",
+        "title_en": "Live updates: Trump wraps up historic summit with Xi and Putin",
+        "summary": [
+            "ترامپ در حاشیه نشست آسیا-پاسیفیک با رهبران روسیه و چین درباره کنترل تسلیحات هسته‌ای و جنگ اوکراین گفتگو کرد",
+            "توافق بر سر اصلاح ساختار سازمان ملل و نهادهای بین‌المللی از خروجی‌های این نشست اعلام شده است"
+        ],
+        "impact": "تغییر موازنه قدرت جهانی با محوریت ترامپ و کاهش انزوای روسیه و چین",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-nuclear-ukraine-congress-2026-live-updates-rcna610150",
+        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-nuclear-ukraine-congress-2026-live-updates-rcna610150",
+        "image": "http://www.bing.com/th?id=ONUT.xA6qJIvxtZJ2RCk2Qu2a2Q&pid=News",
+        "timestamp": 1795079400.0
+    },
+    {
+        "id": "ff28ff726a",
+        "title_fa": "اختلاف واشنگتن و تل‌آویو بر سر تهدیدات اتمی ایران",
+        "title_en": "Iran's chemical weapons threat may not justify a strike yet",
+        "summary": [
+            "نتانیاهو با استناد به اطلاعات موساد، خواستار اقدام فوری علیه برنامه‌های تسلیحاتی غیرمتعارف ایران است",
+            "دولت ترامپ همچنان در حال ارزیابی زمان‌بندی ایران برای دستیابی به توان عملیاتی است و فعلاً با حمله نظامی مخالف است"
+        ],
+        "impact": "تنش دیپلماتیک بین اسرائیل و آمریکا بر سر نحوه مواجهه با ایران",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/opinions-analysis/article/h1t7zj3rfl",
+        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/h1t7zj3rfl",
+        "image": "http://www.bing.com/th?id=ONUT.F6rX0eFNJpb50UKwCfHHKw&pid=News",
+        "timestamp": 1795079220.0
     },
     {
         "id": "40a445c134",
@@ -220,6 +274,42 @@
         "timestamp": 1795077316.0
     },
     {
+        "id": "c7d79bf381",
+        "title_fa": "فاصله‌گیری ایلان ماسک از جریان ماگا و ترامپ",
+        "title_en": "‘I’m not MAGA’: Elon Musk’s craven political turn",
+        "summary": [
+            "ماسک با اعلام اینکه ایدئولوژی میانه‌رو دارد، از جنبش ماگا و حمایت مالی از جمهوری‌خواهان ابراز پشیمانی کرد",
+            "این چرخش سیاسی نشان‌دهنده تردید حامیان بزرگ مالی در مورد آینده سیاسی ترامپ است"
+        ],
+        "impact": "تضعیف پایگاه حمایتی ترامپ در میان نخبگان اقتصادی سیلیکون‌ولی",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/19/politics/elon-musk-not-maga-trump",
+        "clean_url": "https://www.cnn.com/2026/11/19/politics/elon-musk-not-maga-trump",
+        "image": "http://www.bing.com/th?id=ONUT.mjHfDWknO2Y8fHq2neB_ow&pid=News",
+        "timestamp": 1795074960.0
+    },
+    {
+        "id": "70a39f9aee",
+        "title_fa": "پیشتازی روبیو در نظرسنجی‌های انتخاباتی ۲۰۲۸",
+        "title_en": "Rubio leads Vance, Ossoff surges to top for Democrats, in 2028 poll",
+        "summary": [
+            "مارکو روبیو در نظرسنجی‌های اولیه برای انتخابات آینده از ونس پیشی گرفته است",
+            "خیزش دموکرات‌ها با محوریت آساف در میان رای‌دهندگان، رقابت‌های آتی را پیچیده‌تر کرده است"
+        ],
+        "impact": "تغییر آرایش نیروها در رقابت‌های درون‌حزبی برای انتخابات آینده",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/11/19/rubio-ossoff-lead-presidential-polls/92858122007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/19/rubio-ossoff-lead-presidential-polls/92858122007",
+        "image": "http://www.bing.com/th?id=ONUT._a983PbJ59FdXf76ZQlLmA&pid=News",
+        "timestamp": 1795074900.0
+    },
+    {
         "id": "83bc83d789",
         "title_fa": "مخالفت صریح ترامپ با مقررات بین‌المللی هوش مصنوعی",
         "title_en": "US opposes global regulations on artificial intelligence, Trump says",
@@ -237,6 +327,24 @@
         "clean_url": "https://tass.com/world/2221045",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1795074060.0
+    },
+    {
+        "id": "723bdc2050",
+        "title_fa": "شکاف در حزب دموکرات بر سر بودجه جنگ با ایران",
+        "title_en": "Is playing hardball on Iran worth a shutdown? Democrats can't decide",
+        "summary": [
+            "دموکرات‌ها برای جلوگیری از تخصیص بودجه جدید برای درگیری نظامی با ایران، تهدید به تعطیلی دولت در ماه دسامبر کرده‌اند",
+            "اختلاف نظر داخلی در حزب دموکرات مانع از اتخاذ یک موضع واحد در برابر سیاست‌های جنگ‌طلبانه احتمالی شده است"
+        ],
+        "impact": "ایجاد بن‌بست سیاسی در واشنگتن برای تامین مالی عملیات‌های نظامی",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/is-playing-hardball-on-iran-worth-a-shutdown-democrats-cant-decide/ar-AA2hLlkf",
+        "clean_url": "https://www.msn.com/en-us/news/other/is-playing-hardball-on-iran-worth-a-shutdown-democrats-cant-decide/ar-AA2hLlkf",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795073966.0
     },
     {
         "id": "1b29a3fda6",
@@ -495,6 +603,24 @@
         "timestamp": 1795062660.0
     },
     {
+        "id": "06cf6a22e2",
+        "title_fa": "نامزدی حکیم جفریس برای ریاست مجلس نمایندگان",
+        "title_en": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+        "summary": [
+            "دموکرات‌ها با رای قاطع، جفریس را به عنوان گزینه اصلی ریاست مجلس در صورت پیروزی در انتخابات آینده معرفی کردند",
+            "تمرکز جفریس بر کاهش هزینه‌های معیشتی و مسکن، محور اصلی کمپین دموکرات‌ها خواهد بود"
+        ],
+        "impact": "سازماندهی مجدد دموکرات‌ها برای بازپس‌گیری اکثریت مجلس",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+        "clean_url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+        "image": "http://www.bing.com/th?id=ONUT.TgSzLeaTj_5h6d2nXliEKw&pid=News",
+        "timestamp": 1795062360.0
+    },
+    {
         "id": "3e7fe7d94d",
         "title_fa": "حملات هوایی ائتلاف تحت رهبری عربستان به صنعا",
         "title_en": "Houthis say Saudi-led coalition struck Sanaa, two Yemeni governorates",
@@ -547,6 +673,24 @@
         "clean_url": "https://www.iranintl.com/en/202611197704",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/c4c722a885a676cd5ac793e3bffdbabfa3c5c921-1024x768.jpg?rect=0,115,1024,538&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1795061640.0
+    },
+    {
+        "id": "faefbdb2dc",
+        "title_fa": "هشدار درباره تلاش ایران برای دستیابی به بمب کثیف",
+        "title_en": "MICHAEL RUIZ: What is a dirty bomb? Explosive terror threat explained",
+        "summary": [
+            "گزارش‌ها از تلاش‌های رژیم ایران برای توسعه بمب کثیف (رادیولوژیک) پرده برداشته است",
+            "کارشناسان امنیتی معتقدند هدف این سلاح ایجاد وحشت و اختلال گسترده است، نه لزوماً کشتار انبوه"
+        ],
+        "impact": "افزایش فشارهای امنیتی و احتمال تشدید تحریم‌های هسته‌ای علیه ایران",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
+        "clean_url": "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
+        "image": "http://www.bing.com/th?id=ONUT.UXZE-MYdvw3UVfr-m7JJ5Q&pid=News",
+        "timestamp": 1795060800.0
     },
     {
         "id": "6fad9a1f82",
@@ -657,6 +801,42 @@
         "clean_url": "https://www.iranintl.com/202611196455",
         "image": "http://www.bing.com/th?id=ONUT.Jmis0Nh05ptlZDLZrP0JIg&pid=News",
         "timestamp": 1795059000.0
+    },
+    {
+        "id": "9c4f03cd46",
+        "title_fa": "نارضایتی ترامپ از جی‌دی ونس",
+        "title_en": "Trump getting annoyed at JD Vance — all because VP didn’t say these 16 words",
+        "summary": [
+            "ترامپ از ونس به دلیل عدم تکرار مواضع قاطعانه در پاسخ به سوالات رسانه‌ای انتقاد کرده است",
+            "این تنش نشان‌دهنده حساسیت بالای ترامپ بر روی وفاداری کلامی و مواضع صریح معاون خود است"
+        ],
+        "impact": "ایجاد تنش در حلقه نزدیکان و تیم اجرایی ترامپ",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/11/trump-getting-annoyed-at-jd-vance-all-because-vp-didnt-say-these-16-words.html",
+        "clean_url": "https://www.masslive.com/politics/2026/11/trump-getting-annoyed-at-jd-vance-all-because-vp-didnt-say-these-16-words.html",
+        "image": "http://www.bing.com/th?id=ONUT.SaMFUZMqtu2YkghItbvYHw&pid=News",
+        "timestamp": 1795058220.0
+    },
+    {
+        "id": "6725eacbbf",
+        "title_fa": "فشار سنا برای شفاف‌سازی معاملات نفتی ترامپ با روسیه",
+        "title_en": "Sen. Tim Kaine says he will force votes on human rights consequences of US policies in Russia",
+        "summary": [
+            "تیم کین با استفاده از اختیارات قانونی، خواستار گزارش شفاف دولت درباره پیامدهای حقوق بشری معامله سوخت با روسیه شد",
+            "این اقدام در واکنش به لغو تحریم‌های نفتی مسکو و تاخیر در ارسال تسلیحات پدافندی به اوکراین صورت گرفته است"
+        ],
+        "impact": "افزایش نظارت کنگره بر سیاست‌های انرژی و نظامی دولت ترامپ در قبال روسیه",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/11/19/tim-kaine-senate-vote-russia/",
+        "clean_url": "https://www.bostonherald.com/2026/11/19/tim-kaine-senate-vote-russia",
+        "image": "http://www.bing.com/th?id=ONUT.4csg2rYdhGQCZ-u8KNV3RA&pid=News",
+        "timestamp": 1795057920.0
     },
     {
         "id": "a91ee31c24",
@@ -5317,188 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkJ0cnFZSVdBVndNX19EMWg1TV9FZzNveGt2clJ4WXJuRjg1NDdmWWxMM2JZXzl6UkxmbG4xLWtiSXFZRVNXU056Qko2MnNqdnNJQ3JjclNVWk1NWWt4cDZQVU1wVzBmQ3FRVzFrMk9rLU9jWHI3THNtdnc3eW40ekhuc0JFdGJZRUQwbkl4ejhLMVFzU2s3ZXFTOGd3aWlVTzhMUjFNRHlrZ0V6RWNyZllNangxRHJYZDBTekRmRkk3RXVDTk1vTndSRmdsYjJCS2c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794864757.0
-    },
-    {
-        "id": "0e9eb3919f",
-        "title_fa": "اعتراف رسانه‌های وابسته به سپاه به بحران‌های معیشتی",
-        "title_en": "Iran’s daily hardships find a voice in IRGC-linked media",
-        "summary": [
-            "رسانه‌های نزدیک به نهادهای نظامی ناچار شدند بخشی از فشار اقتصادی شدید بر زندگی مردم را بازتاب دهند.",
-            "شکست سیاست‌های اقتصادی دولت و گسترش نارضایتی‌ها حتی در تریبون‌های رسمی نیز غیرقابل کتمان شده است."
-        ],
-        "impact": "تشدید شکاف میان واقعیت‌های سخت زندگی جامعه و روایت‌های رسمی حکومت.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pS2J6QnJtaGpjdFluaE1rNFB2UGtuTE1EOHBaZy02OEJNR0tMdGF6WnpjNGxzSWVlOXZrTlA0V0wyaVJoVWZtcWRwRmh1ZVhrdlE?oc=5",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pS2J6QnJtaGpjdFluaE1rNFB2UGtuTE1EOHBaZy02OEJNR0tMdGF6WnpjNGxzSWVlOXZrTlA0V0wyaVJoVWZtcWRwRmh1ZVhrdlE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794864480.0
-    },
-    {
-        "id": "44dc33db9a",
-        "title_fa": "وعده تیم ترامپ برای پایان کار جـ.ـمهوری اسـ.ـلامی تا ۲۰۲۸",
-        "title_en": "JD Vance promises Iran won’t turn into ‘forever war’ — and Trump will end it by 2028",
-        "summary": [
-            "جی‌دی ونس تاکید کرد واشنگتن اجازه نمی‌دهد درگیری با ایران به یک جنگ فرسایشی و بی‌پایان تبدیل شود.",
-            "تیم سیاسی ترامپ به دنبال جمع کردن پرونده ایران و بستن بساط تنش‌آفرینی‌های منطقه‌ای تا سال ۲۰۲۸ است."
-        ],
-        "impact": "این موضع‌گیری نشانگر عزم جدی دولت آینده آمریکا برای مهار قطعی تهران بدون ورود به باتلاق نظامی است.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSlA3Ny0yZnZZd2IwanlsbHdhTkpOSjBIUVg2Wlo3YUxucmNHbEtKMzFVRUtkV05FZTAtSm5yNjE4WFRLLTlVemhrRmVLNlcxamdEUkhybV8tWjh5YmE2T25vRW93N2Z3aXpmc2RHSy1JTGk0MEp0MFc2STJOdGFsTHMyUjU5b01YeS1HLVNYUDYzX1p0bmVERTVObGljM0xwMmdHM1F6MGo3WlFhREM1U0FRd201a1JNeUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSlA3Ny0yZnZZd2IwanlsbHdhTkpOSjBIUVg2Wlo3YUxucmNHbEtKMzFVRUtkV05FZTAtSm5yNjE4WFRLLTlVemhrRmVLNlcxamdEUkhybV8tWjh5YmE2T25vRW93N2Z3aXpmc2RHSy1JTGk0MEp0MFc2STJOdGFsTHMyUjU5b01YeS1HLVNYUDYzX1p0bmVERTVObGljM0xwMmdHM1F6MGo3WlFhREM1U0FRd201a1JNeUE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794863160.0
-    },
-    {
-        "id": "d01870203f",
-        "title_fa": "تندروهای حکومتی خواستار تشدید درگیری با آمریکا شدند",
-        "title_en": "'Our turn to play': Iran hardliners call for breaking US blockade",
-        "summary": [
-            "محافل تندرو در تلویزیون حکومتی بر افزایش هزینه‌های اقتصادی و نظامی برای آمریکا تاکید کردند.",
-            "کارشناسان حکومتی معتقدند راهکار توافق سیاسی با واشنگتن دیگر کارایی ندارد و باید به سمت تقابل رفت."
-        ],
-        "impact": "افزایش ریسک تنش‌های منطقه‌ای با اصرار جریان تندرو بر سیاست لبه پرتگاه.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611166820",
-        "clean_url": "https://www.iranintl.com/en/202611166820",
-        "image": "http://www.bing.com/th?id=ONUT.D2RUlPGbbL7XqdRhQcUwpQ&pid=News",
-        "timestamp": 1794860940.0
-    },
-    {
-        "id": "49b2d2434b",
-        "title_fa": "مارکو روبیو: جنگ با ج.ا برای امنیت جهان ضروری بود",
-        "title_en": "Rubio says Iran war not 'necessarily popular' but needed",
-        "summary": [
-            "روبیو تاکید کرد که ترامپ برای جلوگیری از دستیابی ج.ا به سلاح هسته‌ای، حتی با وجود هزینه‌های سیاسی و اقتصادی، وارد تقابل شد.",
-            "دولت ترامپ معتقد است مقابله با تهدید اتمی ج.ا یک ضرورت امنیتی برای آمریکا بوده، فارغ از اینکه چقدر در افکار عمومی محبوبیت داشته باشد.",
-            "تایید غیرمستقیم اینکه فشارهای اقتصادی و افزایش قیمت سوخت ناشی از این تقابل، به پایگاه رای جمهوری‌خواهان ضربه زده است."
-        ],
-        "impact": "تداوم سیاست فشار حداکثری به عنوان اولویت امنیتی آمریکا حتی به قیمت هزینه‌های سنگین داخلی.",
-        "tag": "سیاست خارجی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The North State Journal",
-        "url": "https://nsjonline.com/article/2026/11/rubio-iran-war/",
-        "clean_url": "https://nsjonline.com/article/2026/11/rubio-iran-war",
-        "image": "https://nsjonline.com/wp-content/uploads/2026/11/rubio-iran-war-1200x675-2-1116m.jpg",
-        "timestamp": 1794860700.0
-    },
-    {
-        "id": "6dfa96a62c",
-        "title_fa": "هشدار مقام نیویورکی نسبت به عادی‌سازی حمایت از تروریسم",
-        "title_en": "NYC Council Speaker Menin: Normalization of terror support in our city is 'shocking and abhorrent'",
-        "summary": [
-            "رئیس شورای شهر نیویورک به شدت از عادی‌سازی حمایت از جریان‌های تروریستی در این شهر انتقاد کرد.",
-            "این مقام آمریکایی این روند را تکان‌دهنده و غیرقابل پذیرش خواند."
-        ],
-        "impact": "افزایش فشارهای سیاسی و امنیتی بر حامیان گروه‌های تندرو در شهرهای غربی",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/nyc-council-speaker-menin-normalization-of-terror-support-in-our-city-is-shocking-and-abhorrent/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/nyc-council-speaker-menin-normalization-of-terror-support-in-our-city-is-shocking-and-abhorrent",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AFP__20170115__K00ZY__v1__HighRes__PalestinianIsraelConflict-640x400.jpg",
-        "timestamp": 1794859080.0
-    },
-    {
-        "id": "66b5fce326",
-        "title_fa": "پشت پرده نشست‌های محرمانه نتانیاهو و آیزنکوت",
-        "title_en": "Netanyahu and Eisenkot: What Did They Hear Behind Closed Doors?",
-        "summary": [
-            "جزئیات تازه ای از رایزنی های پشت درهای بسته میان مقامات ارشد اسرائیل بیرون آمده است.",
-            "این دیدارها روی سناریوهای امنیتی مقابله با تپش های جبهه مقاومت متمرکز بوده است."
-        ],
-        "impact": "این هماهنگی ها نشان دهنده آمادگی بالاتر تل آویو برای تصمیمات سخت نظامی است.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mempjMlk2VWotUHUxY1FTeC1nOGI0dW4yLUdJVURZWjV3akFXSkhEdFNuYWJnYlgzYjIxME1maVp4dUFxM0NBZ3dTZ2hSLWhDN3djVmlfbDM4b19vN3ExU2pVbzktTzFyYmhQZDRsRTc3dnlwZFU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mempjMlk2VWotUHUxY1FTeC1nOGI0dW4yLUdJVURZWjV3akFXSkhEdFNuYWJnYlgzYjIxME1maVp4dUFxM0NBZ3dTZ2hSLWhDN3djVmlfbDM4b19vN3ExU2pVbzktTzFyYmhQZDRsRTc3dnlwZFU0",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794859049.0
-    },
-    {
-        "id": "6489c3913e",
-        "title_fa": "افزایش تنش در خلیج فارس؛ حمله به کشتی و پهپادهای س-پ-ا-ه",
-        "title_en": "Ship Hit Leaving Hormuz; Iran Claims Second Bahrain Attack",
-        "summary": [
-            "هدف قرار گرفتن یک کشتی در نزدیکی تنگه هرمز، امنیت کشتیرانی را به سطح بحرانی رسانده است.",
-            "ادعای س-پ-ا-ه مبنی بر حمله پهپادی به پایگاه آمریکایی در بحرین، نشان‌دهنده تغییر استراتژی از جنگ نیابتی به درگیری مستقیم است.",
-            "سکوت پنتاگون در برابر ادعاهای س-پ-ا-ه می‌تواند به معنای بررسی دقیق ابعاد نفوذ یا بی‌اعتباری این ادعاها باشد.",
-            "کشورهای حاشیه خلیج فارس با محکوم کردن این اقدامات، نگران تبدیل شدن منطقه به میدان تسویه حساب تهران و واشنگتن هستند."
-        ],
-        "impact": "افزایش ریسک بیمه کشتی‌ها و احتمال واکنش نظامی مستقیم آمریکا در منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "hngn",
-        "url": "https://www.hngn.com/articles/273810/20261116/trump-says-no-iran-deal-needed-pulls-vance-talks.htm",
-        "clean_url": "https://www.hngn.com/articles/273810/20261116/trump-says-no-iran-deal-needed-pulls-vance-talks.htm",
-        "image": "https://d.hngn.com/en/full/307713/mourners-attend-funeral-sanaa-after-reported-saudi-strikes.jpg",
-        "timestamp": 1794857640.0
-    },
-    {
-        "id": "61797b35db",
-        "title_fa": "توافق سیاسی در تل‌آویو و دکترین جدید واشنگتن علیه ج.ا",
-        "title_en": "Likud, Yashar begin unity talks; Rubio defines US victory over Iran TV7 Israel News - 16 Nov.",
-        "summary": [
-            "حزب لیکود و یشار رایزنی‌ها برای تشکیل دولت ائتلافی و انسجام بیشتر سیاسی را کلید زدند.",
-            "مارکو روبیو وزیر خارجه احتمالی آمریکا، پیروزی قطعی بر تهران را به عنوان یک راهبرد کلان امنیتی تعریف کرد."
-        ],
-        "impact": "همگرایی سیاسی در اسرائیل و تغییر رویکرد سخت‌گیرانه آمریکا، فشار همه‌جانبه بر سیستم را تشدید می‌کند.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWnA2R01yMjRJOXZ5OWhPSktTTUVKR09QSmVuNGdGZXY2dlY3V2l3QnZscVVmdHRjSEJ5RWZqLUVPQnB2WHVyRHNmOVJfRzlaTHpJd3VjdXdTQ0dmb0syWm5KZm9yc3VFOEwyVk9iRUMxVHdHaHVj?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWnA2R01yMjRJOXZ5OWhPSktTTUVKR09QSmVuNGdGZXY2dlY3V2l3QnZscVVmdHRjSEJ5RWZqLUVPQnB2WHVyRHNmOVJfRzlaTHpJd3VjdXdTQ0dmb0syWm5KZm9yc3VFOEwyVk9iRUMxVHdHaHVj",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794857549.0
-    },
-    {
-        "id": "db0af0ebfc",
-        "title_fa": "تنگ‌تر شدن پنجره فرصت‌ها در پرونده ج. ا. ا",
-        "title_en": "The window of opportunity on Iran is getting narrower",
-        "summary": [
-            "زمان برای مهار برنامه‌های اتمی و منطقه‌ای حکومت به سرعت در حال از دست رفتن است.",
-            "فشارها برای اتخاذ تصمیمات جدی‌تر از سوی بازیگران بین‌المللی وارد فاز تازه‌ای شده است."
-        ],
-        "impact": "افزایش احتمال تحرکات پیشگیرانه علیه ساختار حاکم",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlh0OEdVYWxFb3dsdS1kRFJsWUstYmxpVlczZE92bS1iMkhvVFotT1RCXzBYWE0wYUZHOTZvb3FYSlB1UldLYks3Nl9BQ2p4c0tTSDFmdzFxYUhNY2FtS2RKZ1ZINW8wMGoxWTA4SkhqNnM0RVRDRTB2b2lrWDduQWtLeFZMc2cwNHZNVUFnckhIZGhfY0RLQ242dXBhMW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlh0OEdVYWxFb3dsdS1kRFJsWUstYmxpVlczZE92bS1iMkhvVFotT1RCXzBYWE0wYUZHOTZvb3FYSlB1UldLYks3Nl9BQ2p4c0tTSDFmdzFxYUhNY2FtS2RKZ1ZINW8wMGoxWTA4SkhqNnM0RVRDRTB2b2lrWDduQWtLeFZMc2cwNHZNVUFnckhIZGhfY0RLQ242dXBhMW8",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794857447.0
-    },
-    {
-        "id": "cd0f6cfb1b",
-        "title_fa": "بسته شدن پرونده دولت وحدت ملی در اسرائیل",
-        "title_en": "Report: Senior official in Eisenkot bloc says likelihood of unity government now down to zero",
-        "summary": [
-            "یک مقام ارشد نزدیک به جبهه آیزنکوت از به صفر رسیدن احتمال تشکیل دولت وحدت با لیکود خبر داد.",
-            "حوادث اخیر در ساختار سیاسی اسرائیل از سوی این جناح به شدت محکوم شده و آن را تلاش برای کودتا توصیف کرده‌اند."
-        ],
-        "impact": "افزایش بی‌ثبات سیاسی و دور شدن چشم‌انداز ائتلاف در تل‌آویو.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/report-senior-official-in-eisenkot-bloc-says-likelihood-of-unity-government-now-down-to-zero/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/report-senior-official-in-eisenkot-bloc-says-likelihood-of-unity-government-now-down-to-zero",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261110CG552-1-e1794438183957.jpg",
-        "timestamp": 1794857340.0
     }
 ]
