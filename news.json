@@ -18,6 +18,24 @@
         "timestamp": 1795081020.0
     },
     {
+        "id": "2fed0c05e5",
+        "title_fa": "سقوط کم‌سابقه تردد نفتکش‌های ال‌ان‌جی در تنگه هرمز",
+        "title_en": "LNG transportation in Hormuz dropped to minimum amid new attacks — Bloomberg",
+        "summary": [
+            "تردد کشتی‌های حامل گاز طبیعی مایع از تنگه هرمز به دلیل حملات جدید به کف رسیده است.",
+            "طی هفته گذشته تنها دو فروند کشتی از این آبراه عبور کرده‌اند، در حالی که میانگین قبلی هشت فروند بوده است."
+        ],
+        "impact": "افزایش تنش‌های دریایی و اختلال شدید در صادرات انرژی منطقه.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2221191",
+        "clean_url": "https://tass.com/world/2221191",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261119/1493685.jpg",
+        "timestamp": 1795079640.0
+    },
+    {
         "id": "40a445c134",
         "title_fa": "التیماتوم ترامپ و آغاز درگیری نظامی با ایران",
         "title_en": "The Paradox of American Credibility",
@@ -5487,23 +5505,5 @@
         "clean_url": "https://www.newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines",
         "image": "https://www.newarab.com/sites/default/files/styles/image_345x195/public/2304700697.jpeg?h=a5f2f23a&itok=SnnfXBiX",
         "timestamp": 1794836460.0
-    },
-    {
-        "id": "285f65be4d",
-        "title_fa": "توسعه تحریم‌های ثانویه آمریکا علیه ج.ا",
-        "title_en": "US Treasury to Broaden Scope of Secondary Sanctions on Iran, Source Says",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا حلقه تحریم‌های ثانویه را تنگ‌تر می‌کند.",
-            "هدف این اقدام، بستن مسیرهای دور زدن تحریم‌ها و قطع کامل درآمدهای ارزی است."
-        ],
-        "impact": "فشار سنگین‌تر بر اقتصاد بیمار و کاهش بیشتر ارزش پول ملی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZTTXM1eEI1WWI3c2UwSUo0Y3VzOWFaMG5hWk1CQ2RWc1RSYUdHNkxJeFZMVHQ4VWJic2pHeHJkNWMtcF9BaXVQY2JzYnZpTlZDQ1I0OXRXR19ZU2hNNG9vTnRJc2Vjc2dJSENPYTFwZGE5aURkdWRua2FMWGhIbTFQUnN1eks2LTVhazdUTjcxWEpyMUVuT1JqQUdlMlRFcTh2dg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZTTXM1eEI1WWI3c2UwSUo0Y3VzOWFaMG5hWk1CQ2RWc1RSYUdHNkxJeFZMVHQ4VWJic2pHeHJkNWMtcF9BaXVQY2JzYnZpTlZDQ1I0OXRXR19ZU2hNNG9vTnRJc2Vjc2dJSENPYTFwZGE5aURkdWRua2FMWGhIbTFQUnN1eks2LTVhazdUTjcxWEpyMUVuT1JqQUdlMlRFcTh2dg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794835367.0
     }
 ]
