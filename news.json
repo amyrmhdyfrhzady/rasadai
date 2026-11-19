@@ -240,6 +240,24 @@
         "timestamp": 1795093380.0
     },
     {
+        "id": "57bd87fe89",
+        "title_fa": "شکاف در سنا: وتوی دموکرات‌ها توسط سناتور حامی اسرائیل",
+        "title_en": "John Fetterman Breaks Ranks With Democrats in Bid To End Iran War",
+        "summary": [
+            "جان فترمن، سناتور دموکرات، برخلاف هم‌حزبی‌های خود به طرح توقف عملیات نظامی ترامپ علیه ایـران رای منفی داد.",
+            "این طرح با اختلاف نزدیک ۵۱ به ۴۸ در سنا رد شد تا رویکرد متناقض دموکرات‌ها در سیاست خارجی بیشتر نمایان شود."
+        ],
+        "impact": "تقویت مواضع سخت‌گیرانه در واشنگتن و شکست تلاش دموکرات‌ها برای مهار اقدامات نظامی علیه جمهوری اسلامی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/john-fetterman-iran-war-powers-resolution-democrats-12742994",
+        "clean_url": "https://www.newsweek.com/john-fetterman-iran-war-powers-resolution-democrats-12742994",
+        "image": "http://www.bing.com/th?id=ONUT.tIQjpZF9t0oaWKR2HWkeOg&pid=News",
+        "timestamp": 1795090680.0
+    },
+    {
         "id": "285f65be4d",
         "title_fa": "تنگنای مالی جدید واشنگتن علیه تهران",
         "title_en": "US Treasury to Broaden Scope of Secondary Sanctions on Iran, Source Says",
@@ -5480,24 +5498,5 @@
         "clean_url": "https://english.aawsat.com/business/5342169-dar-global-expands-saudi-portfolio-new-jeddah-development-valued-267-million",
         "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1881860.jpeg.webp?VersionId=F27KUcEvhyhcOg0L9TzNbNLNstujFqEu",
         "timestamp": 1794873600.0
-    },
-    {
-        "id": "35526effff",
-        "title_fa": "تنش در تنگه هرمز؛ هدف قرار گرفتن ۵ نفتکش",
-        "title_en": "Iran war live: 5 tankers reported hit around Hormuz; blasts heard on Qeshm",
-        "summary": [
-            "نیروهای نظامی ج.ا به کشتی‌ها درباره استفاده از مسیرهای ساختگی هشدار دادند و از سرنگونی دو پهپاد آمریکایی خبر دادند.",
-            "گزارش‌ها حاکی از اصابت موشک یا پهپاد به دست‌کم پنج شناور در آب‌های پیرامون تنگه هرمز است.",
-            "مقام‌های محلی از وقوع چند انفجار و حمله در جزیره قشم خبر دادند که به گفته آن‌ها آسیب جدی به زیرساخت‌ها نزده است."
-        ],
-        "impact": "اختلال جدی در امنیت تردد نفتکش‌ها و افزایش فوری ریسک حمل and نقل انرژی در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260504__A9RN2PU__v3__HighRes__IranUsIsraelWarTransportHormuz-1793267430.jpg?resize=1920%2C1440",
-        "timestamp": 1794873420.0
     }
 ]
