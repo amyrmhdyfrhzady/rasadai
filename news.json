@@ -1,5 +1,24 @@
 [
     {
+        "id": "365bec902c",
+        "title_fa": "ترامپ: پس از تعطیلات تکلیف تقابل با ج.ا مشخص می‌شود",
+        "title_en": "Donald Trump says US will reconsider conflict with Iran after holidays",
+        "summary": [
+            "ترامپ با ادبیاتی که نشان از تغییر فاز در سیاست خارجی دارد، پرونده ایران را به بعد از تعطیلات موکول کرد.",
+            "این اظهارنظر سیگنالی به تهران است که دوران مماشات تمام شده و باید منتظر بازگشت سیاست فشار حداکثری باشند.",
+            "تیم ترامپ در حال چیدن مهره‌ها برای یک رویارویی جدی‌تر در حوزه‌های اقتصادی و امنیتی است."
+        ],
+        "impact": "بازارهای مالی ایران با شنیدن این هشدار، خود را برای نوسانات شدید ارزی در ماه‌های آینده آماده می‌کنند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jel8zbzJnV3hEX19NRm5wUGd0X185U2dBcUJFRzcta3N6LTUxREVQbWI4ck1XTF9TNzJZZVRMa1gzTzZRbU10bGhSeHhYVWNNSTNTMmdDV2VuSzll?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jel8zbzJnV3hEX19NRm5wUGd0X185U2dBcUJFRzcta3N6LTUxREVQbWI4ck1XTF9TNzJZZVRMa1gzTzZRbU10bGhSeHhYVWNNSTNTMmdDV2VuSzll",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795094220.0
+    },
+    {
         "id": "34f452daaf",
         "title_fa": "تقابل آمریکا با پکن و مسکو بر سر بن‌بست هسته‌ای ایران",
         "title_en": "US Clashes With China and Russia Over Iran Nuclear Stalemate",
@@ -5483,23 +5502,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQay00cGVfdjctSEM2bGFhN0tRLXFVM1pSQ1pTbWF6UXFIZkQ5YThIZHU2X0J0Q2ROT25kZHVGT1pGLTNPLXRGbjFBT18taTZoZlJUZ2Z0cmx4TDRuczBLdkkzeUdmdjNUVUE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794852164.0
-    },
-    {
-        "id": "f353979ac5",
-        "title_fa": "گزارش ارتش اسرائیل از برداشت زیتون در کرانه باختری",
-        "title_en": "IDF says settler attacks on Palestinians only affected a small minority of West Bank olive harvests, as season ends",
-        "summary": [
-            "به گزارش روزنامه تایمز آو اسرائیل، ارتش اسرائیل اعلام کرده است هم‌زمان با پایان فصل برداشت زیتون در کرانه باختری، حدود ۱۷ هزار تن زیتون برداشت شده است.",
-            "بر اساس اعلام ارتش اسرائیل، حملات شهرک‌نشینان اسرائیلی علیه فلسطینی‌ها تنها بخش کوچکی از کل محصول زیتون در این منطقه را تحت تأثیر قرار داده است."
-        ],
-        "impact": "طبق گزارش منتشرشده، فصل برداشت زیتون در کرانه باختری در حالی به پایان رسیده که هم‌زمان گزارش‌هایی از حملات شهرک‌نشینان علیه فلسطینی‌ها مطرح بوده است.",
-        "tag": "کرانه باختری",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-settler-attacks-on-palestinians-only-affected-a-small-minority-of-west-bank-olive-harvests-as-season-ends/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-says-settler-attacks-on-palestinians-only-affected-a-small-minority-of-west-bank-olive-harvests-as-season-ends",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/WhatsApp_Image_2026-10-22_at_18.07.36_4.jpeg",
-        "timestamp": 1794850320.0
     }
 ]
