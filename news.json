@@ -328,6 +328,24 @@
         "timestamp": 1795055301.0
     },
     {
+        "id": "43e16d0d97",
+        "title_fa": "حمله پهپادی و موشکی به کورسک و زخمی شدن غیرنظامیان",
+        "title_en": "Eleven people, including child, injured in Ukrainian attack on Kursk",
+        "summary": [
+            "اصابت حملات به کورسک روسیه باعث زخمی شدن ۱۱ غیرنظامی از جمله یک کودک ۱۲ ساله شد.",
+            "فرماندار منطقه از تلاش برای حفظ آرامش عمومی و آماده‌باش مراکز آموزشی خبر داد."
+        ],
+        "impact": "گسترش درگیری‌ها به داخل خاک روسیه فشار روانی و نظامی بر مسکو را افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/emergencies/2221325",
+        "clean_url": "https://tass.com/emergencies/2221325",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795054440.0
+    },
+    {
         "id": "636d5f6dbc",
         "title_fa": "بحران گاز و فلج شدن صنایع کلیدی ج.ا",
         "title_en": "Iran lawmaker says Israeli desalination plants are within missile range",
@@ -584,6 +602,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3Y5YjlvaG5ycGVCQVR2aXpMbGwySnh4YTVGbk9RcDB6TWZZWXQzdnVzVmhkVVFwcXZwbmtVU1NDOGRCdThSTHJ2cG50RldEeWpsT2ZyMHc1cWV1U1FfLURmQUJFSkFENm5jZG1qRU42RlFhTXRQckpVSk9YLTZaSkxiUS1vNDUxdXJGS1dKZU9ZZEtBTDlmWW80VV9SbGdUZW5j",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795041323.0
+    },
+    {
+        "id": "1ff4f643d1",
+        "title_fa": "خیز ریاض برای جنگ طولانی با حوثی‌ها در یمن",
+        "title_en": "Saudis preparing for Yemen campaign to last months, pushing off global events as Houthis advance",
+        "summary": [
+            "تشدید درگیری‌ها با حوثی‌ها به فعال‌ترین جبهه در جنگ نیابتی منطقه تبدیل شده است.",
+            "تلفات هزاران نفری و آوارگی صدها هزار شهروند یمنی، بحران انسانی را به اوج رسانده است.",
+            "عربستان خود را برای یک کارزار نظامی طولانی‌مدت آماده می‌کند و رویدادهای بین‌المللی را به تعویق انداخته است."
+        ],
+        "impact": "تداوم جنگ در یمن ثبات امنیتی شبه‌جزیره عربستان را بیش از پیش به مخاطره می‌اندازد.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-us/news/other/saudis-preparing-for-yemen-campaign-to-last-months-pushing-off-global-events-as-houthis-advance/ar-AA2hHyBK",
+        "clean_url": "https://www.msn.com/en-us/news/other/saudis-preparing-for-yemen-campaign-to-last-months-pushing-off-global-events-as-houthis-advance/ar-AA2hHyBK",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26321506786387.jpg",
+        "timestamp": 1795039500.0
     },
     {
         "id": "ae3ee70458",
@@ -5467,43 +5504,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-faces-worsening-gas-shortages-as-us-war-strains-economy-fuels-unrest-fears/ar-AA2hzhPW",
         "image": "http://www.bing.com/th?id=ONUT.RH2MbNrJlRXmrfRDJ_553A&pid=News",
         "timestamp": 1794837526.0
-    },
-    {
-        "id": "1931526dd3",
-        "title_fa": "بستن درهای نظارت اتمی؛ تهران در پی پنهان‌کاری نظامی",
-        "title_en": "Iran rules out nuclear site inspections until war ends",
-        "summary": [
-            "ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی با گروگان گرفتن بازرسی‌های آژانس، عملاً پروتکل‌های نظارتی را تا پایان درگیری‌ها تعلیق کرد.",
-            "تلاش برای پنهان‌سازی وضعیت تاسیسات آسیب‌دیده، نشان‌دهنده هراس از افشای خسارات واقعی در حملات اخیر است.",
-            "حوثی‌ها با فشار در باب‌المندب، عملاً به دنبال ایجاد اهرم فشار برای امنیت انرژی عربستان هستند.",
-            "ادعای حمله به رادار آمریکا در بحرین، بخشی از جنگ روانی برای سرپوش گذاشتن بر شکست‌های میدانی است."
-        ],
-        "impact": "افزایش تنش‌های هسته‌ای و ناامنی در مسیرهای حیاتی انرژی، ریسک درگیری مستقیم را به شدت بالا برده است.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.yahoo.com/news/world/articles/iran-rules-inspections-damaged-nuclear-084932815.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-rules-inspections-damaged-nuclear-084932815.html",
-        "image": "https://media.zenfs.com/en/cbs_news_897/2642b73c2e78668938ac2ac62e7ec02e.jpg",
-        "timestamp": 1794837070.0
-    },
-    {
-        "id": "928636ab2f",
-        "title_fa": "آمادگی تهران برای بازگشایی تنگه هرمز در دو روز",
-        "title_en": "Third US aircraft carrier arrives to region, Iran claims another tanker hit in Hormuz",
-        "summary": [
-            "عباس عراقچی از حمایت یک ائتلاف منطقه‌ای از طرح ایران برای باز کردن تنگه هرمز خبر داد.",
-            "تهران مشروط به توافق با واشنگتن، زمان بازگشایی آبراه را به دو روز کاهش داده است."
-        ],
-        "impact": "کاهش تنش‌های دریایی در صورت پذیرش توافق از سوی ایالات متحده",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines",
-        "clean_url": "https://www.newarab.com/news/third-us-aircraft-carrier-arrives-iran-says-tankers-hit-mines",
-        "image": "https://www.newarab.com/sites/default/files/styles/image_345x195/public/2304700697.jpeg?h=a5f2f23a&itok=SnnfXBiX",
-        "timestamp": 1794836460.0
     }
 ]
