@@ -1,5 +1,23 @@
 [
     {
+        "id": "ae7f23634c",
+        "title_fa": "تصمیم حساس ترامپ درباره بن‌بست هسته‌ای ایران در گزارش رسانه‌ها",
+        "title_en": "Trump Faces Critical Decision on Iran Nuclear Standoff",
+        "summary": [
+            "نشریه «جویش ایندیپندنت» گزارش داده است که دونالد ترامپ در قبال بن‌بست هسته‌ای ایران با یک تصمیم سرنوشت‌ساز روبه‌رو شده است.",
+            "این گزارش بر حساسیت مقطع کنونی در پرونده هسته‌ای ایران و گزینه‌های پیش روی رئیس‌جمهور آمریکا برای مدیریت این تنش تمرکز دارد."
+        ],
+        "impact": "تصمیم آتی دولت آمریکا درباره این پرونده، مسیر تنش یا دیپلماسی میان واشنگتن و تهران را تعیین خواهد کرد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Jewish Independent",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yY0F0MXoxSEkyaWxEQjR2Ukp3VGlZczRrRzJ2M1FhMnBuZThUM3BoNDJMbG96WU81V0g5Uzg5T2FHLUs5ajJXdXZOY0ZWbG14b0RtemFleVN4U1ptcjh6Mm1GMVdudDFUMERVU3p1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yY0F0MXoxSEkyaWxEQjR2Ukp3VGlZczRrRzJ2M1FhMnBuZThUM3BoNDJMbG96WU81V0g5Uzg5T2FHLUs5ajJXdXZOY0ZWbG14b0RtemFleVN4U1ptcjh6Mm1GMVdudDFUMERVU3p1Zw",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795061723.0
+    },
+    {
         "id": "08b8d3aaec",
         "title_fa": "فشار تل‌آویو به واشنگتن برای حمله نظامی به جـ.ـهـ.ـوری اِسـ.ـلامی",
         "title_en": "Trump said weighing another Iran offensive, as Netanyahu pushes a 4- to 7-day campaign",
@@ -5498,24 +5516,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXB2NHZCWXMyckVSNW1WZy03cTFxYnNWcEJ6azFsSzBRVFY1WlJNNE9ySDNBV01qZ29TMmhFdlpZX1ZDZkY0RThBcE9CcU5fRXNybXZnaU9WTWltS3o1OGhhZU1mTV9YV2ZhczlpS3U1SU50MDZ0TTZvTGdxc2UyT21pRHNuLXZkTGZaS01tRWJyYlZrd3pSdWxJSi1IdG9ZZDdtYmxjNVNlc2dVa1dwLURsVFpQQ1g3",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794816305.0
-    },
-    {
-        "id": "6963168e4e",
-        "title_fa": "استقرار سومین ناوگروه تهاجمی آمریکا در نزدیکی ایران",
-        "title_en": "Map Shows US Military Buildup Around Iran as Third Carrier Arrives",
-        "summary": [
-            "ورود ناو هواپیمابر تئودور روزولت به منطقه، توان آتش آمریکا را در خلیج فارس به شدت افزایش داد",
-            "حضور همزمان سه ناوگروه تهاجمی، پیامی صریح برای بازدارندگی در برابر هرگونه ماجراجویی نظامی است",
-            "تضاد میان لفاظی‌های ترامپ و تقویت نظامی در میدان، نشان‌دهنده آمادگی برای واکنش سریع در صورت بروز تنش است"
-        ],
-        "impact": "تغییر موازنه قوا به نفع آمریکا و محدود شدن فضای عملیاتی سپاه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/map-shows-us-military-buildup-iran-third-carrier-arrives-12719335",
-        "clean_url": "https://www.newsweek.com/map-shows-us-military-buildup-iran-third-carrier-arrives-12719335",
-        "image": "http://www.bing.com/th?id=ONUT.jAt25w837oaLxzqAaNZTCg&pid=News",
-        "timestamp": 1794813060.0
     }
 ]
