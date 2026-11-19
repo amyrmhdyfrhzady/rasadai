@@ -492,6 +492,24 @@
         "timestamp": 1795059570.0
     },
     {
+        "id": "6df7799a2d",
+        "title_fa": "بحران خلیج فارس و تهدید کم‌سابقه امنیت انرژی",
+        "title_en": "Middle East war: Riyadh skyscraper damaged, tanker hit near Oman as Trump weighs fresh Iran strikes",
+        "summary": [
+            "آژانس بین‌المللی انرژی بحران تنگه هرمز را بزرگ‌ترین تهدید تاریخ برای امنیت انرژی جهان اعلام کرد.",
+            "هم‌زمان با بررسی حملات تازه علیه حکومت ایران توسط ترامپ، یک نفتکش در نزدیکی عمان هدف قرار گرفت و به ساختمانی در ریاض خسارت وارد شد."
+        ],
+        "impact": "جهش احتمالی قیمت انرژی و تشدید نااطمینانی در بازارهای جهانی نفت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Gulf News",
+        "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996",
+        "clean_url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996",
+        "image": "https://media.assettype.com/gulfnews/2026-11-19/64yap8i7/trump_plan.gif?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "timestamp": 1795059540.0
+    },
+    {
         "id": "97e3382a06",
         "title_fa": "ترامپ: کنترل تنگه هرمز در دست آمریکاست؛ نیروی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی شکست خورده است",
         "title_en": "سخنگوی سپاه پاسداران: کشورهای منطقه بدانند اسرائیل سراغ آن‌ها هم خواهد رفت",
@@ -5482,23 +5500,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794849844.0
-    },
-    {
-        "id": "0931c26b76",
-        "title_fa": "سایه سنگین جنگ با ای-ران بر کنگره آمریکا",
-        "title_en": "Washington Letter: Iran war looms over the upcoming Congress and potential 2028 contenders",
-        "summary": [
-            "موضوع جنگ احتمالی با ای-ران به یکی از بحث‌های اصلی در راهروهای کنگره جدید آمریکا تبدیل شده است.",
-            "نامزدهای احتمالی انتخابات ریاست‌جمهوری ۲۰۲۸ آمریکا موضع‌گیری‌های خود را در قبال پرونده ای-ران تنظیم می‌کنند."
-        ],
-        "impact": "تحولات مرتبط با ای-ران به محور اصلی رقابت‌های سیاسی آینده در واشنگتن تبدیل می‌شود.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "OSV News",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVVCRnl5SnFfTHByN3Z6WTFyOWRrd0xDbVVzbWdfYnZKZ3dhWURoR0tUMlBvQVVNMGFhbVo2eXpJU3QwdVRaOVhLVEpZQXMzSTljdk1QU1BfamwtbGxkd0NpdnpMaUt4UDRMSDR4WFBoU2c2UHJjOE50SmhQTUtJWGs1NTNQSFkwcjF5RkNkbG1kWmxNRmozWDZ2TmtDVlVwVDh2TDNBY3E4ZGhsT2pDeW9nWks?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVVCRnl5SnFfTHByN3Z6WTFyOWRrd0xDbVVzbWdfYnZKZ3dhWURoR0tUMlBvQVVNMGFhbVo2eXpJU3QwdVRaOVhLVEpZQXMzSTljdk1QU1BfamwtbGxkd0NpdnpMaUt4UDRMSDR4WFBoU2c2UHJjOE50SmhQTUtJWGs1NTNQSFkwcjF5RkNkbG1kWmxNRmozWDZ2TmtDVlVwVDh2TDNBY3E4ZGhsT2pDeW9nWks",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794849503.0
     }
 ]
