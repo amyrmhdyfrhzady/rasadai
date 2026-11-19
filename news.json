@@ -621,6 +621,25 @@
         "timestamp": 1795059540.0
     },
     {
+        "id": "4d9e5acffd",
+        "title_fa": "پوتین: اقتصاد روسیه زیر فشار تحریم‌ها جراحی شد",
+        "title_en": "Russia carries out fundamental reforms in its economy — Putin",
+        "summary": [
+            "مسکو ساختار اقتصادی خود را برای خنثی کردن اثر تحریم‌های غرب کاملاً تغییر داده است.",
+            "تمرکز اصلی کرملین روی صنایع پیشرفته مانند هوش مصنوعی و فناوری هسته‌ای قرار دارد.",
+            "روسیه همزمان با تقویت توان داخلی، ادعا می‌کند که همچنان آماده همکاری با بازارهای جهانی است."
+        ],
+        "impact": "تلاش مسکو برای تثبیت پایه‌های اقتصادی در سایه انزوای بین‌المللی.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2220899",
+        "clean_url": "https://tass.com/politics/2220899",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795059300.0
+    },
+    {
         "id": "97e3382a06",
         "title_fa": "ترامپ: کنترل تنگه هرمز در دست آمریکاست؛ نیروی جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی شکست خورده است",
         "title_en": "سخنگوی سپاه پاسداران: کشورهای منطقه بدانند اسرائیل سراغ آن‌ها هم خواهد رفت",
@@ -5481,24 +5500,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/report-senior-official-in-eisenkot-bloc-says-likelihood-of-unity-government-now-down-to-zero",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261110CG552-1-e1794438183957.jpg",
         "timestamp": 1794857340.0
-    },
-    {
-        "id": "70c93536aa",
-        "title_fa": "فروپاشی اقتصادی ج.ا؛ مقایسه سقوط ریال با فروپاشی شوروی",
-        "title_en": "Netanyahu says Iran's missiles threaten Europe as well as Israel",
-        "summary": [
-            "اسکات بسنت در مصاحبه‌ای پیش‌بینی کرد ارزش ریال ایران تا سال آینده افت شدیدی خواهد داشت و این سقوط را با فروپاشی اقتصادی شوروی مقایسه کرد.",
-            "مقام‌های ارشد ج.ا در پناهگاه‌های زیرزمینی مخفی شده‌اند و درک درستی از شرایط وخیم معیشتی مردم ندارند.",
-            "تحریم‌های ایالات متحده دسترسی مسئولان حکومتی به سفرهای خارجی و امکانات غرب را کاملاً قطع کرده است."
-        ],
-        "impact": "فشار حداکثری اقتصادی مهلک، ساختار سیاسی و نظامی حاکمیت را به نقطه فروپاشی نزدیک‌تر می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611167218",
-        "clean_url": "https://www.iranintl.com/en/202611167218",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794854220.0
     }
 ]
