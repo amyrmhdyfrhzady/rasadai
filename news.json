@@ -1,5 +1,23 @@
 [
     {
+        "id": "a3843dda0d",
+        "title_fa": "ادعای ترامپ درباره برنامه تسلیحات بیولوژیک ج.ا",
+        "title_en": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+        "summary": [
+            "دونالد ترامپ مدعی شده که حکومت ایران در حال توسعه تسلیحات بیولوژیک است.",
+            "این ادعا می‌تواند بهانه‌ای برای تشدید فشارهای همه‌جانبه و بازگرداندن سیاست فشار حداکثری باشد."
+        ],
+        "impact": "افزایش فشار سیاسی و احتمال وضع تحریم‌های جدید با پوشش تهدیدات تسلیحاتی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVwVkxCTGFrV1g3UXk0R0xScDhlZWk4LU9HWWkxazNZLVFVRnAwbWdaWmRHUDR2aUxOQlN6dnZjek1CWkhFZG9ST2t3R1I2WVVpU3YwVUtHYWFMWnlDQS1GLU1iM3pmNWt0eTlQQXYyblJhZFZKUGZRZ1c1VG5jRUtRMVB5YlB5Nnc3dzBFNGJ2RW12MXU5b0VCOFhOV3ppdjFTT3FzbzI0QdIBrwFBVV95cUxPOUtWUVFBVEJRNmQxWjRLaENMZUM0aXpSY1JBM1ZyckFPSWlsc3liODdLOTEyNWhwZUVUVUtSd3A4eEVqMHN4WG16R0JLNjZ2cm5mWjd2bTVTOTQ3NS1Pd2pHSnRFOVF0X2xsM0l5Tl9nRG9sM0wwOEp3TzJfVVNVSmpqd0dYNXdpWkN6WFltVG5LSTl3VVdxbTR6c1dmNk5STWpBVEZyZjc4ZjhBc2xZ?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVwVkxCTGFrV1g3UXk0R0xScDhlZWk4LU9HWWkxazNZLVFVRnAwbWdaWmRHUDR2aUxOQlN6dnZjek1CWkhFZG9ST2t3R1I2WVVpU3YwVUtHYWFMWnlDQS1GLU1iM3pmNWt0eTlQQXYyblJhZFZKUGZRZ1c1VG5jRUtRMVB5YlB5Nnc3dzBFNGJ2RW12MXU5b0VCOFhOV3ppdjFTT3FzbzI0QdIBrwFBVV95cUxPOUtWUVFBVEJRNmQxWjRLaENMZUM0aXpSY1JBM1ZyckFPSWlsc3liODdLOTEyNWhwZUVUVUtSd3A4eEVqMHN4WG16R0JLNjZ2cm5mWjd2bTVTOTQ3NS1Pd2pHSnRFOVF0X2xsM0l5Tl9nRG9sM0wwOEp3TzJfVVNVSmpqd0dYNXdpWkN6WFltVG5LSTl3VVdxbTR6c1dmNk5STWpBVEZyZjc4ZjhBc2xZ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795088925.0
+    },
+    {
         "id": "f652c45f53",
         "title_fa": "فشار تل‌آویو به ترامپ برای حمله به جـ.ـهـ.ـوری اِسـ.ـلامی",
         "title_en": "Trump considers fresh strikes on Iran amid pressure from Israel: Report",
@@ -5483,24 +5501,5 @@
         "clean_url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
         "image": "http://www.bing.com/th?id=ONUT.V2NmiSdQLYKgrq2xU0n3DA&pid=News",
         "timestamp": 1794844800.0
-    },
-    {
-        "id": "fb625342fc",
-        "title_fa": "پیش‌بینی فروپاشی اقتصادی ج.ا مشابه سقوط شوروی",
-        "title_en": "Pakistan awaiting US response to Iran's proposal, foreign minister says",
-        "summary": [
-            "ریال ج.ا تا سال آینده یک چهارم ارزش خود را از دست می‌دهد.",
-            "مقام‌های ارشد در پناهگاه‌ها از واقعیت ویرانی جامعه بی‌خبرند.",
-            "محدودیتی شدید هواپیمایی، سران حکومت را در انزوای کامل گذاشته است."
-        ],
-        "impact": "فشار اقتصادی خردکننده، ارکان حاکمیت را به نقطه فروپاشی می‌رساند.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611162593",
-        "clean_url": "https://www.iranintl.com/en/202611162593",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/71d4ba4f1bd2906af3e63512fc866b35baf55e07-4096x3219.png?rect=52,700,3468,1821&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794844080.0
     }
 ]
