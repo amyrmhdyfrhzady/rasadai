@@ -1,5 +1,23 @@
 [
     {
+        "id": "90fc9e9016",
+        "title_fa": "استفاده جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی از جنگ غزه برای عملیات روانی آنلاین",
+        "title_en": "Gaza is the bait for Iran’s online information campaign",
+        "summary": [
+            "موضوع غزه به عنوان طعمه‌ای برای پیشبرد اهداف پروپاگاندای سایبری تهران استفاده می‌شود.",
+            "شبکه‌های سایبری وابسته به حکومت از بحران‌های انسانی برای انحراف افکار عمومی بهره‌برداری می‌کنند."
+        ],
+        "impact": "تشدید جنگ روانی دیجیتال برای تاثیرگذاری بر روایت‌های منطقه‌ای و بین‌المللی",
+        "tag": "سایبری",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "JNS.org",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZkRqdFg0LWZfMHdGeXZuQ3J5dkswU2s5ajBGQTAyU1k2VHkyNThZeFhEeHNlbUdqNEpWWnZHQmg2blNKVnlQUjRIeXdLd0ZvWjdFWjFGT18yLU1RSlN4Qnc2M3JSOFhxMGJrRTNYc1lfcG5oM1RKVGhlTWVvWVVHT18xdFMtT1RoOFFJYmg4YlJZSEc1cFBxdDFPenFremxj?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZkRqdFg0LWZfMHdGeXZuQ3J5dkswU2s5ajBGQTAyU1k2VHkyNThZeFhEeHNlbUdqNEpWWnZHQmg2blNKVnlQUjRIeXdLd0ZvWjdFWjFGT18yLU1RSlN4Qnc2M3JSOFhxMGJrRTNYc1lfcG5oM1RKVGhlTWVvWVVHT18xdFMtT1RoOFFJYmg4YlJZSEc1cFBxdDFPenFremxj",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795081022.0
+    },
+    {
         "id": "4bfc4e0c92",
         "title_fa": "گسترش تاسیسات اتمی یونگ‌بیون توسط کره شمالی",
         "title_en": "'Heart of its nuclear program': North Korea expands Yongbyon facility as Trump seeks talks with Kim",
@@ -5486,25 +5504,5 @@
         "clean_url": "https://www.algemeiner.com/2026/11/16/iranians-express-anger-disappointment-trump-signals-reluctance-resume-strikes-iran",
         "image": "https://www.algemeiner.com/wp-content/uploads/2026/08/2026-08-12T133529Z_1_LYNXMPEM7B11J_RTROPTP_4_IRAN-CRISIS-1.jpg",
         "timestamp": 1794839820.0
-    },
-    {
-        "id": "4b09c700dd",
-        "title_fa": "پیش‌بینی فروپاشی سریع ریال و انزوای کامل مقامات ج.ا",
-        "title_en": "Pakistan PM meets Iran's Araghchi at regional economic summit",
-        "summary": [
-            "بیسنت مشاور اقتصادی ترامپ، سقوط ۲۵ درصدی ارزش ریال را در بازه یک‌ساله پیش‌بینی کرد",
-            "مقایسه وضعیت اقتصادی فعلی با فروپاشی شوروی، نشان‌دهنده عمق بحران در ساختار مالی حکومت است",
-            "توصیف مقامات به موش‌های فاضلاب در پناهگاه‌ها، نشان‌دهنده قطع ارتباط کامل بدنه حاکمیت با واقعیت‌های کف جامعه است",
-            "قرنطینه کامل خطوط هوایی و محدودیت‌های شدید سفر، حلقه محاصره دیپلماتیک را تنگ‌تر کرده است"
-        ],
-        "impact": "فشار خردکننده اقتصادی و انزوای بین‌المللی، توان مانور حکومت را به حداقل رسانده است.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611164939",
-        "clean_url": "https://www.iranintl.com/en/202611164939",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/2ce0b183b90d5891907f35e4d69eabffdb1e761c-4096x3422.jpg?rect=0,636,4096,2150&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794839040.0
     }
 ]
