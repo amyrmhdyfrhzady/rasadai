@@ -18,6 +18,25 @@
         "timestamp": 1795134623.0
     },
     {
+        "id": "6d9f99e6a0",
+        "title_fa": "بحران گاز و فلج شدن صنعت فولاد و سیمان در جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی",
+        "title_en": "Iran war could cut global oil demand by over 4% by 2035",
+        "summary": [
+            "ناترازی روزانه گاز در جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی به رقم بی‌سابقه ۴۳۰ میلیون متر مکعب رسیده است.",
+            "صنایع فولاد بیشترین ضربه را از قطع گاز می‌خورند چون برخلاف سیمان نمی‌توانند از سوخت جایگزین استفاده کنند.",
+            "آسیب به زیرساخت‌های انرژی در حملات، تولید صنعتی را به سمت فروپاشی کامل برده است."
+        ],
+        "impact": "توقف زنجیره تولید فولاد و سیمان، تیر خلاص به اقتصاد رو به مرگ جـ.ـمـ.ـهـ.ـوری اسـ.ـلـ.ـامـ.ـی است.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611197152",
+        "clean_url": "https://www.iranintl.com/en/202611197152",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/3dd6d20f32d9ffa90e7ff10945ddeefbfbf53aac-7092x4730.jpg?rect=0,1,7092,4728&w=576&h=384&q=90&fit=max&auto=format",
+        "timestamp": 1795132980.0
+    },
+    {
         "id": "0fb49b490d",
         "title_fa": "تصمیم نهایی درباره حمله به ج.م.ا دست ترامپ است",
         "title_en": "Israel’s ambassador to US says the decision to strike Iran lies with Trump",
@@ -5478,25 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDVaMW1WRVFXYXdkSGk1T0ZCSC1ZM2h4bzViODhRZmdCQUZaV0JOQzNBUnVUS3BRV05ZNVhEV0lQS1VTMU8yaElRYWNFRmZ4V0tlTUVDTUJINFVDYXhLcS10NjdKMFFQN2RqMWhkcWoyZ1BPellEUnBxQmdxQzVCQldwNVpITVRtd3dBcE9JY216SnA3V3ZQWkJB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794893683.0
-    },
-    {
-        "id": "ea371d143a",
-        "title_fa": "حمله پهپادی سـپاه به رادار آمریکا در بحرین",
-        "title_en": "Iran's Revolutionary Guard Drone Attack on U.S. Radar in Bahrain, Bahrain Says It Intercepted Strikes",
-        "summary": [
-            "سـپاه با حمله پهپادی به پایگاه راداری آمریکا در بحرین، ریسک درگیری مستقیم را به بالاترین سطح رساند.",
-            "بحرین مدعی رهگیری و دفع این حملات شده اما حضور سه ناو هواپیمابر آمریکا در منطقه نشان‌دهنده آمادگی برای پاسخ سخت است.",
-            "ادعای سـپاه درباره انفجار نفت‌کش‌ها در تنگه هرمز، تلاشی برای ایجاد ناامنی در شریان حیاتی انرژی جهان است.",
-            "اسماعیل بقایی این تحرکات را انکار کرده که بخشی از استراتژی همیشگی انکار و فریب برای فرار از تبعات نظامی است."
-        ],
-        "impact": "افزایش شدید احتمال تقابل نظامی مستقیم میان آمریکا و سـپاه در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "newscord",
-        "url": "https://newscord.org/article/irans-revolutionary-guard-drone-attack-on-us-radar-in-bahrain-bahrain-says-it-in--Story_20261117_39becd4d",
-        "clean_url": "https://newscord.org/article/irans-revolutionary-guard-drone-attack-on-us-radar-in-bahrain-bahrain-says-it-in--Story_20261117_39becd4d",
-        "image": "https://newscord.org/api/coverage-image/Story_20261117_39becd4d?format=landscape",
-        "timestamp": 1794892980.0
     }
 ]
