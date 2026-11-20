@@ -1,5 +1,24 @@
 [
     {
+        "id": "75e22097a6",
+        "title_fa": "تهدید مستقیم ایران اینترنشنال توسط سپاه؛ گام جدید در جنگ روانی",
+        "title_en": "IRGC says Iran International is among military targets",
+        "summary": [
+            "سپاه پاسداران رسماً رسانه ایران اینترنشنال را در بانک اهداف نظامی خود قرار داد.",
+            "این موضع‌گیری، اعتراف صریح به شکست دستگاه تبلیغاتی حکومت در مقابله با افشاگری‌های رسانه‌ای است.",
+            "هدف اصلی این تهدید علنی، ایجاد رعب میان روزنامه‌نگاران و جابه‌جایی مرزهای خط قرمز اطلاع‌رسانی است."
+        ],
+        "impact": "افزایش سطح تهدیدات امنیتی علیه خبرنگاران خارج از کشور و تشدید تدابیر حفاظتی.",
+        "tag": "جنگ روانی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdi03LWNSVGlsOVBoYUNRQVdqZml4TWRkRU9WLWU4NG9FWGxxMUhEbHZaSURyZWFhZ0JEV2N2cHJFVzU0V00wMnBtUFBobGZYd1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdi03LWNSVGlsOVBoYUNRQVdqZml4TWRkRU9WLWU4NG9FWGxxMUhEbHZaSURyZWFhZ0JEV2N2cHJFVzU0V00wMnBtUFBobGZYd1E",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795138658.0
+    },
+    {
         "id": "2485b8a5fc",
         "title_fa": "احتمال از سرگیری درگیری‌ها بین ایالات متحده و اسرائیل با تهران",
         "title_en": "Will the US and Israel restart the war on Iran?",
@@ -5479,23 +5498,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-shrugs-off-spate-of-us-outages-says-things-like-that-happen/ar-AA2hDjcC",
         "image": "http://www.bing.com/th?id=ONUT.FnBmWit-84OAao1p4oWf2Q&pid=News",
         "timestamp": 1794898792.0
-    },
-    {
-        "id": "c0cda8cb18",
-        "title_fa": "سقوط محبوبیت ترامپ به کف تاریخی ۳۲ درصد",
-        "title_en": "Trump approval holds near career low at 32%, poll finds",
-        "summary": [
-            "نظرسنجی‌ها نشان می‌دهد پایگاه رای ترامپ همچنان در حال فرسایش است.",
-            "این عدد پایین‌ترین سطح محبوبیت دوران کاری او محسوب می‌شود که فشار سیاسی را افزایش می‌دهد."
-        ],
-        "impact": "تضعیف قدرت چانه‌زنی ترامپ در پیشبرد دستورکارهای داخلی و تقابل با کنگره.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/politics/2026/11/17/trump-approval-holds-near-career-low-at-32-poll-finds/92823537007/",
-        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/11/17/trump-approval-holds-near-career-low-at-32-poll-finds/92823537007",
-        "image": "http://www.bing.com/th?id=ONUT.x01lh5UuKYVHk274i7Cteg&pid=News",
-        "timestamp": 1794894240.0
     }
 ]
