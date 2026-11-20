@@ -809,6 +809,25 @@
         "timestamp": 1795128540.0
     },
     {
+        "id": "869bbeb2c6",
+        "title_fa": "ترامپ: فعلاً تصمیمی برای حمله به ایـران ندارم",
+        "title_en": "ترامپ: برای حمله دوباره به ایران عجله ندارم، بعد از سال نو میلادی خواهیم دید چه می‌شود",
+        "summary": [
+            "رئیس‌جمهور آمریکا در مصاحبه‌های متعدد تأکید کرد که برای هرگونه اقدام نظامی جدید عجله‌ای ندارد.",
+            "اسرائیل به شدت به دنبال کشاندن واشینگتن به درگیری نظامی گسترده است.",
+            "تعیین تکلیف نهایی درباره پرونده ایـران به بعد از آغاز سال میلادی جدید موکول شد."
+        ],
+        "impact": "سایه سنگین ابهام نظامی بر بازارهای مالی و معادلات منطقه تا سال آینده",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/trump-iran-new-strikes-decision-next-year/33902379.html",
+        "clean_url": "https://www.radiofarda.com/a/trump-iran-new-strikes-decision-next-year/33902379.html",
+        "image": "http://www.bing.com/th?id=ONUT.mHRvvHcdelJNvV1RC66KeQ&pid=News",
+        "timestamp": 1795128180.0
+    },
+    {
         "id": "e447e7d45f",
         "title_fa": "تهدید آشکار رسانه‌های آزاد توسط مجلس جهوری اسلامی",
         "title_en": "Iran lawmaker calls IAEA chief a spy, opposes his entry into Iran",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://www.iranintl.com/en/202611170557",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1794929460.0
-    },
-    {
-        "id": "5519168458",
-        "title_fa": "درگیری نظامی مستقیم میان ارتش آمریکا و اواسط مذاکرات",
-        "title_en": "US, Iran exchange fire despite talks with mediators",
-        "summary": [
-            "ارتش آمریکا پایگاه پرتاب موشک وابسته به ای-ران را بمباران کرد.",
-            "این حمله متقابل پس از آن انجام شد که اهدافی در بحرین هدف قرار گرفت.",
-            "مذاکرات پشت پرده با میانجی‌ها نت مانع از درگیری میدانی نشد."
-        ],
-        "impact": "افزایش تنش‌های نظامی و به خطر افتادن توافقات دیپلماتیک پنهانی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The News & Observer",
-        "url": "https://www.newsobserver.com/news/nation-world/world/article318113111.html",
-        "clean_url": "https://www.newsobserver.com/news/nation-world/world/article318113111.html",
-        "image": "http://www.bing.com/th?id=ONUT.MnjvlGS8sGtxwbnZJX4GKg&pid=News",
-        "timestamp": 1794929220.0
     }
 ]
