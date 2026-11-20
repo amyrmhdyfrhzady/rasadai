@@ -441,6 +441,25 @@
         "timestamp": 1795092956.0
     },
     {
+        "id": "ec0bf828ee",
+        "title_fa": "حمله مستقیم آمریکا به سایت موشکی س‌پاه در قشم",
+        "title_en": "Iran Widens Attacks to Kuwait After US Strike on Qeshm",
+        "summary": [
+            "جنگنده‌های آمریکایی در مواجهه مستقیم، مواضع و سایت‌های پرتاب موشک س‌پاه در جزیره قشم را هدف حملات دقیق قرار دادند.",
+            "این عملیات واکنش مستقیم به حملات پهپادی پیاپی به سامانه‌های راداری آمریکا در بحرین بود.",
+            "پدافند بحرین و سنتکام پهپادها را رهگیری کردند، اما گسترش دامنه درگیری‌ها نشان از فروپاشی خطوط قرمز طرفین دارد."
+        ],
+        "impact": "بالا رفتن بی‌سابقه خطر درگیری همه‌جانبه در خلیج فارس و جهش فوری قیمت انرژی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "hngn",
+        "url": "https://www.hngn.com/articles/273877/20261119/iran-widens-attacks-kuwait-after-us-strike-qeshm.htm",
+        "clean_url": "https://www.hngn.com/articles/273877/20261119/iran-widens-attacks-kuwait-after-us-strike-qeshm.htm",
+        "image": "https://d.hngn.com/en/full/307937/file-c-130j-kuwaits-ali-al-salem-air-base.jpg",
+        "timestamp": 1795092840.0
+    },
+    {
         "id": "57bd87fe89",
         "title_fa": "شکاف در سنا: وتوی دموکرات‌ها توسط سناتور حامی اسرائیل",
         "title_en": "John Fetterman Breaks Ranks With Democrats in Bid To End Iran War",
@@ -5478,23 +5497,5 @@
         "clean_url": "https://www.iranintl.com/en/202611160295",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/d7a6536c80da78cb209a2aeffbeb25136bcaec46-869x566.png?rect=0,55,869,456&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794891060.0
-    },
-    {
-        "id": "425115134b",
-        "title_fa": "اتحاد اسرائیل و ونزوئلا برای مهار نفوذ ج.ا در آمریکای لاتین",
-        "title_en": "How an Israel-Venezuela Pact Can Curb Iran’s Reach",
-        "summary": [
-            "نزدیکی تل‌آویو به کاراکاس می‌تواند شبکه لجستیکی و دور زدن تحریم‌های ج.ا در حیاط خلوت آمریکا را مختل کند.",
-            "تغییر موازنه در ونزوئلا، دسترسی ج.ا به منابع ارزی و پایگاه‌های نفوذ در نیم‌کره غربی را به شدت محدود می‌کند."
-        ],
-        "impact": "قطع یکی از مسیرهای تنفس اقتصادی و امنیتی ج.ا در آمریکای لاتین.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3hMdjNkV25XUkpIN3N5WjRhNHFUVU5UNEdpalpxS0JtZ0JBSmVMczE1UTloTGUwbVJ0a1p6dEd2QldIZU5PWkVDUWQ2MHh5QVg4eTdtOU5SOFQ3cWVEd2x3MTljQUktNkVyR2pEZ1QydVlvRmJsVlhja0Rna3ZYdGxFdkdRRE1sT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3hMdjNkV25XUkpIN3N5WjRhNHFUVU5UNEdpalpxS0JtZ0JBSmVMczE1UTloTGUwbVJ0a1p6dEd2QldIZU5PWkVDUWQ2MHh5QVg4eTdtOU5SOFQ3cWVEd2x3MTljQUktNkVyR2pEZ1QydVlvRmJsVlhja0Rna3ZYdGxFdkdRRE1sT3c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794890940.0
     }
 ]
