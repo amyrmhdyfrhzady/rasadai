@@ -1,5 +1,23 @@
 [
     {
+        "id": "38d4f1ad3d",
+        "title_fa": "تهدید سپاه پاسداران به حملات زیرساختی فراتر از منطقه",
+        "title_en": "Iran’s IRGC threatens infrastructure attacks beyond Middle East amid US-Israel escalation",
+        "summary": [
+            "سپاه پاسداران در اوج تنش‌ها با آمریکا و اسرائیل، تهدید به حمله به زیرساخت‌های خارج از خاورمیانه کرده است.",
+            "این لفاظی‌ها نشان‌دهنده تلاش برای گسترش میدان جنگ روانی و ایجاد ترس در سطح بین‌المللی است."
+        ],
+        "impact": "افزایش سطح هشدار امنیتی در کشورهای غربی و شرکای منطقه‌ای.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjhFbTdrQXpweGl0T2UzY3E4Slh5REd2SU5WQjhYN2JoaXBQWk9BQWdNR1k3U080SVpfY3RHWC1YTGRKSXBxRi03d2RnaTh2a1RBaFFBT3R6aHZDekEyOU5USUprREx6aU9CNUl5UGQzb25ReUNsX1ROcmFsa1dCSDlHejh6SEptNU14UzYyWkdWWGVCbTByWEI2cTUtODE5eWVleE1HYXl3YnVISjJjbnYyMWZOa0RMNzF1TEdQNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjhFbTdrQXpweGl0T2UzY3E4Slh5REd2SU5WQjhYN2JoaXBQWk9BQWdNR1k3U080SVpfY3RHWC1YTGRKSXBxRi03d2RnaTh2a1RBaFFBT3R6aHZDekEyOU5USUprREx6aU9CNUl5UGQzb25ReUNsX1ROcmFsa1dCSDlHejh6SEptNU14UzYyWkdWWGVCbTByWEI2cTUtODE5eWVleE1HYXl3YnVISjJjbnYyMWZOa0RMNzF1TEdQNA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795182813.0
+    },
+    {
         "id": "dccaa44a97",
         "title_fa": "خط و نشان حوثی‌ها و سپاه برای عربستان؛ تهدید مراکز مالی ریاض",
         "title_en": "Houthis threaten Saudi targets after coalition port warning",
@@ -74,6 +92,24 @@
         "clean_url": "https://www.realcleardefense.com/iran/articles/the-need-to-remove-all-fissile-material-from-iran-2026-11-20",
         "image": "https://www.realcleardefense.com/api/media/file/9707cbb2-a23f-4eac-8df1-33a06bc7eddc/Italy-US-Iran-Talks-1200x630.jpg",
         "timestamp": 1795176000.0
+    },
+    {
+        "id": "ea944b3e24",
+        "title_fa": "آسیب دیدن سه نفتکش در خلیج فارس همزمان با تنش‌ها",
+        "title_en": "Three Tankers Damaged in Gulf as US-Iran Conflict Escalates",
+        "summary": [
+            "سه فروند نفتکش در آب‌های خلیج فارس به دلیل تشدید درگیری‌ها بین ایالات متحده و حکومت ایران آسیب دیدند.",
+            "امنیت خطوط کشتیرانی و انرژی در خلیج فارس به‌شدت به خطر افتاده است."
+        ],
+        "impact": "جهش آنی قیمت نفت و بالا رفتن ریسک ترانزیت دریایی در آبراه حیاتی منطقه.",
+        "tag": "انرژی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795175180.0
     },
     {
         "id": "3e098097eb",
@@ -5461,43 +5497,5 @@
         "clean_url": "https://www.iranintl.com/en/202611174956",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/942636ebe379c140c656d8530d07a6e91967bc37-639x800.jpg?rect=0,394,639,335&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794926880.0
-    },
-    {
-        "id": "bbea097def",
-        "title_fa": "مرگ مشکوک دانش‌آموز کرمانشاهی و خشم عمومی",
-        "title_en": "Video: Protesters take to streets in western Iran, chant pro-Pahlavi slogans",
-        "summary": [
-            "جان باختن سوگند صیادی پس از هشدار درباره خطر جانی، موجی از مطالبات حقوق بشری را ایجاد کرد.",
-            "پدر و مدیر مدرسه بازداشت شده‌اند و نهاد قضایی پرونده را بین فرضیه قتل یا خودکشی بررسی می‌کند.",
-            "تصاویر تشییع جنازه نشان‌دهنده حضور معترضان و سرد دادن شعارهای ضدحکومتی است."
-        ],
-        "impact": "افزایش ناآرامی‌های اجتماعی و بالا گرفتن بی‌اعتمادی عمومی به نهادهای قضایی و انتظامی.",
-        "tag": "اعتراضات",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611179068",
-        "clean_url": "https://www.iranintl.com/en/202611179068",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794925740.0
-    },
-    {
-        "id": "78f7cc6a3c",
-        "title_fa": "دستور بغداد برای اخراج کتائب ح-ز-ب-ا-ل-ل-ه از جرف‌الصخر",
-        "title_en": "How Thai clerics in Iran were recruited to attack Israeli embassy in Bangkok",
-        "summary": [
-            "دولت عراق تحت فشار آمریکا برای مهار شبه‌نظامیان وابسته به ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی، ضرب‌الاجل خروج برای کتائب صادر کرد.",
-            "کتائب سال‌هاست با قاچاق نفت از این منطقه، صدها میلیون دلار برای تامین مالی عملیات‌های تروریستی خود درآمد کسب کرده است.",
-            "کارشناسان معتقدند این اقدام صرفاً یک نمایش سیاسی است و ساختار قدرت و شبکه‌های مالی این گروه را از بین نمی‌برد."
-        ],
-        "impact": "تلاش محدود دولت عراق برای کاهش نفوذ شبه‌نظامیان در مناطق استراتژیک و قطع شریان‌های مالی آنان.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611173617",
-        "clean_url": "https://www.iranintl.com/en/202611173617",
-        "image": "http://www.bing.com/th?id=ONUT.lGLyh_5k0crPGgblP8whOA&pid=News",
-        "timestamp": 1794924180.0
     }
 ]
