@@ -534,6 +534,24 @@
         "timestamp": 1795165588.0
     },
     {
+        "id": "c27c149639",
+        "title_fa": "هشدار درباره خطر تنش اتمی با حضور ناوهای آمریکایی",
+        "title_en": "World closer than ever to nuclear disaster, Kuznick warns",
+        "summary": [
+            "استقرار ناوهای هواپیمابر آمریکا در منطقه، ریسک درگیری نظامی را به بالاترین حد رسانده است.",
+            "موضع دوگانه دولت ترامپ، آینده تنش‌ها و احتمال حملات جدید را در هاله‌ای از ابهام قرار داده است."
+        ],
+        "impact": "افزایش حضور نظامی آمریکا بازارها را وارد فاز احتیاط و التهاب شدید کرده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/532357/World-closer-than-ever-to-nuclear-disaster-Kuznick-warns",
+        "clean_url": "https://www.tehrantimes.com/news/532357/World-closer-than-ever-to-nuclear-disaster-Kuznick-warns",
+        "image": "https://media.mehrnews.com/d/2026/11/16/4/6264488.jpg?ts=1794808475406",
+        "timestamp": 1795161960.0
+    },
+    {
         "id": "cbe38621e0",
         "title_fa": "انحراف توجه جهانی از ایران؛ تشدید بی‌صدای درگیری و تغییر معادلات نفت",
         "title_en": "As attention spans move on from Iran and oil, the world is forever changed and the conflict is escalating again",
@@ -5477,23 +5495,5 @@
         "clean_url": "https://www.iranintl.com/en/202611179577",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/8cbe544d40156658353cbe8a92e58fc2967de047-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794936300.0
-    },
-    {
-        "id": "579b8b6da6",
-        "title_fa": "جنگ ایران و اسرائیل در وضعیت بلاتکلیفی خطرناک",
-        "title_en": "The Iran War Has Slipped Into a Dangerous Limbo",
-        "summary": [
-            "درگیری‌های نیابتی و حملات سایبری در یک فضای خاکستری و بدون قاعده رها شده است",
-            "فقدان یک استراتژی بازدارنده مشخص، ریسک اشتباه محاسباتی و انفجار ناگهانی منطقه را بالا برده است"
-        ],
-        "impact": "وضعیت فعلی، منطقه را در آستانه یک درگیری کنترل‌نشده و ناگهانی قرار داده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Atlantic",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamxuVzdNRmg1c2ZZQlpnR2FUUnI1Q3RqQ2pVT2tiUlBiTkpWeGdhazZLS1NyazZvQXZKODZ0YkE0UW9oZWU1Yk5TX01zemNQRWZmR2pQVy1aVzVsb09Lc0pTYWY3X1VfNDl5OEpVSmljNTNtajFUcHViTmN3MENPczliZnV6eWtxWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamxuVzdNRmg1c2ZZQlpnR2FUUnI1Q3RqQ2pVT2tiUlBiTkpWeGdhazZLS1NyazZvQXZKODZ0YkE0UW9oZWU1Yk5TX01zemNQRWZmR2pQVy1aVzVsb09Lc0pTYWY3X1VfNDl5OEpVSmljNTNtajFUcHViTmN3MENPczliZnV6eWtxWUE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794935656.0
     }
 ]
