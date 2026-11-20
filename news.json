@@ -183,6 +183,25 @@
         "timestamp": 1795136820.0
     },
     {
+        "id": "8e9d4265c0",
+        "title_fa": "عملیات سایبری تهاجمی بریتانیا علیه ج.ا، روسیه و چین",
+        "title_en": "UK running offensive cyber operations against Iran, Russia and China",
+        "summary": [
+            "فرمانده نیروی سایبری نظامی بریتانیا اعتراف کرد که این کشور عملیات سایبری تهاجمی علیه ج.ا و متحدانش انجام می‌دهد.",
+            "لندن تهدیدهای سایبری تهران، مسکو و پکن را خطری مستقیم برای امنیت ملی خود می‌داند.",
+            "این اعتراف کم‌سابقه نشان‌دهنده افزایش تقابل اطلاعاتی و هزینه‌تراشی برای فعالیت‌های سایبری جمهوری اسلامی است."
+        ],
+        "impact": "افزایش فشارهای امنیتی و سایبری علیه زیرساخت‌های مرتبط با حکومت ایران.",
+        "tag": "سایبری",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611206064",
+        "clean_url": "https://www.iranintl.com/en/202611206064",
+        "image": "http://www.bing.com/th?id=ONUT.8Yp2_REFv8RYt7SEVqeeTg&pid=News",
+        "timestamp": 1795136340.0
+    },
+    {
         "id": "dbb277ddf5",
         "title_fa": "روایت خلبانان بمب‌افکن ب-۲ از حمله به تاسیسات اتمی",
         "title_en": "'Oh my God, it’s Tehran': B-2 pilots reveal dramatic moments of attack on nuclear facilities",
@@ -5476,24 +5495,6 @@
         "url": "https://www.kansascity.com/news/nation-world/world/article318127924.html",
         "clean_url": "https://www.kansascity.com/news/nation-world/world/article318127924.html",
         "image": "http://www.bing.com/th?id=ONUT.Qvt3eCHPq4j7ZD4y94-42A&pid=News",
-        "timestamp": 1794910020.0
-    },
-    {
-        "id": "59f8ff0ff6",
-        "title_fa": "پایان سکوت؛ حمله جدید به مواضع آمریکا در بحرین",
-        "title_en": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain",
-        "summary": [
-            "حمله به اهداف آمریکایی در بحرین پس از دو ماه وقفه، نشان‌دهنده تغییر فاز در تنش‌های منطقه‌ای است.",
-            "این سومین ضربه مستقیم به منافع آمریکا در بحرین است که نشان می‌دهد بازدارندگی واشنگتن در خلیج فارس رنگ باخته است."
-        ],
-        "impact": "افزایش تنش نظامی مستقیم میان ج.ا.ا و آمریکا در یکی از حساس‌ترین پایگاه‌های استراتژیک منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Audacy",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlpydDhEQkFWWlRBSW4wVGZ4VkZKZzRFOFpCMlZxMXdSZ0FVdmx0U0RDWjBoVGh0NS1Id2Mtc24zMGVyUmNEdnk4ME5SazgwNzJ4eDVrSnNZS0FfNmR1TXRCaDEyUkhzT0EzNENaUE5yMktEVUJpVWFuNjNoQ09zQUlTMkhVYzA1T0tncnRUUThOTl9ZcjlWak9CVGQtMTN4eWtOZjRJTGNxTkVJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlpydDhEQkFWWlRBSW4wVGZ4VkZKZzRFOFpCMlZxMXdSZ0FVdmx0U0RDWjBoVGh0NS1Id2Mtc24zMGVyUmNEdnk4ME5SazgwNzJ4eDVrSnNZS0FfNmR1TXRCaDEyUkhzT0EzNENaUE5yMktEVUJpVWFuNjNoQ09zQUlTMkhVYzA1T0tncnRUUThOTl9ZcjlWak9CVGQtMTN4eWtOZjRJTGNxTkVJ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794910020.0
     }
 ]
