@@ -310,6 +310,25 @@
         "timestamp": 1795152180.0
     },
     {
+        "id": "b641b43f65",
+        "title_fa": "تشدید محاصره دریایی ایران؛ هشدار صریح ارتش آمریکا به نفتکش‌ها",
+        "title_en": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+        "summary": [
+            "ارتش آمریکا انتقال کشتی‌به‌کشتی محموله‌های ایرانی را دور زدن تحریم‌ها اعلام کرد و به شناورهای متخلف هشدار نظامی داد.",
+            "این اقدام برای بستن راه‌های تنفسی صادرات نفت و محصولات پتروشیمی حکومت طراحی شده است.",
+            "سپاه پاسداران به دنبال راهکارهایی برای دور زدن این فشارهاست اما هزینه‌های بیمه و انتقال در خلیج فارس به شدت بالا رفته است."
+        ],
+        "impact": "فلج شدن کامل شریان‌های صادرات نفت و تنگ‌تر شدن حلقه فشار اقتصادی بر سیستم.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade",
+        "clean_url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0023dc-1795171292.jpg?resize=1920%2C1440",
+        "timestamp": 1795148400.0
+    },
+    {
         "id": "46a550a3fc",
         "title_fa": "حمله پهپادی حوثی‌ها به برج صندوق سرمایه‌گذاری عربستان",
         "title_en": "Middle East latest: Saudi Arabia confirms strike on PIF tower and condemns Houthi attacks",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://www.msn.com/en-my/news/other/iran-says-us-struck-qeshm-island-in-hormuz-after-guards-target-bahrain/ar-AA2hDX3X",
         "image": "http://www.bing.com/th?id=ONUT.68xkcEfPNKKyweeNZbddTw&pid=News",
         "timestamp": 1794921431.0
-    },
-    {
-        "id": "eb5199a380",
-        "title_fa": "هراس مردم از هدف‌گیری زیرساخت‌های حیاتی در جنگ احتمالی",
-        "title_en": "Iranians fear more civilian infrastructure could be targeted in new US war",
-        "summary": [
-            "نگرانی عمومی در ایران نسبت به تکرار سناریوی هدف قرار گرفتن تاسیسات غیرنظامی توسط آمریکا در صورت بروز درگیری نظامی بالا گرفته است.",
-            "افکار عمومی با نگاه به تجربیات منطقه‌ای، زیرساخت‌های انرژی و حمل‌ونقل را در تیررس حملات احتمالی می‌بیند."
-        ],
-        "impact": "افزایش اضطراب اجتماعی و بی‌ثباتی روانی در بازارها به دلیل ترس از فروپاشی خدمات عمومی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794921223.0
     }
 ]
