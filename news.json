@@ -1,5 +1,24 @@
 [
     {
+        "id": "0951168661",
+        "title_fa": "بحران قطعی گاز و بن‌بست انرژی در زمستان",
+        "title_en": "War damage leaves Iran with few options to avert winter gas crunch",
+        "summary": [
+            "خسارت‌های زیرساختی باعث کاهش شدید ظرفیت تولید گاز شده و ۱۱ استان کشور در آستانه کمبود شدید قرار دارند.",
+            "کسری روزانه گاز از ۳۰۰ میلیون مترمکعب در زمستان گذشته، امسال به ۴۳۰ میلیون مترمکعب می‌رسد.",
+            "مقامات دولتی به دنبال ذخیره‌سازی نفت سفید، گاز مایع و مازوت برای جبران این کمبود هستند."
+        ],
+        "impact": "فلج شدن صنایع و قطعی گسترده گاز خانگی در روزهای سرد پیش‌رو.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611205855",
+        "clean_url": "https://www.iranintl.com/en/202611205855",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/a4311d29c20c7be5dad64b0258534aa8fba5cf27-1280x853.jpg?rect=106,154,1092,573&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795205640.0
+    },
+    {
         "id": "4fbbba1cc0",
         "title_fa": "شکاف در حزب دموکرات؛ موضع تند سناتور فترمن علیه حکومت ایران",
         "title_en": "Iran War: Among Democrats, Is Fetterman the Only Sign of Int...",
@@ -5476,23 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy04aVlmWEc4cksxcmFWZTdRek9UOGtuZXRQT3VCYUZuNDZwYjFjTEhDRzNDSEM3LTY5dUF3YlpKOExncVR1aFZ3Z2dlM0c1ajN2ZHJUSFdNOW1mZmZiNXc4V0Jqa1BQc3ItYmxOamIxX3FieWc4QldOTFUxRER6bnc1YnVESzhnUXV2VUcwVkstcmdGNkhGRDYtcTNGX29maFV3MmZZR3piZmxDVm9DSVd5M3FoQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794944980.0
-    },
-    {
-        "id": "0f0d4cfa3b",
-        "title_fa": "سفر فرمانده سنتکام به تل‌آویو همزمان با درگیری‌ها",
-        "title_en": "CENTCOM chief visits Israel for talks with military leaders",
-        "summary": [
-            "فرمانده سنتکام برای هماهنگی نظامی با مقام‌های ارشد اسرائیل وارد تل‌آویو شد.",
-            "آمریکا هدف قرار دادن مواضع سپاه در جزیره قشم را پاسخی به تحرکات علیه نیروهای خود دانست."
-        ],
-        "impact": "افزایش هماهنگی‌های نظامی واشنگتن و تل‌آویو برای مقابله با تهدیدهای منطقه‌ای.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611174449",
-        "clean_url": "https://www.iranintl.com/en/202611174449",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794942780.0
     }
 ]
