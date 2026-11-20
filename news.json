@@ -274,6 +274,25 @@
         "timestamp": 1795128540.0
     },
     {
+        "id": "e447e7d45f",
+        "title_fa": "تهدید آشکار رسانه‌های آزاد توسط مجلس جهوری اسلامی",
+        "title_en": "Iran lawmaker calls IAEA chief a spy, opposes his entry into Iran",
+        "summary": [
+            "یک نماینده مجلس در دانشگاه تهران رسماً شبکه ایران اینتلیجنس و دیگر رسانه‌های مستقل را هدف نظامی خواند.",
+            "این موضع‌گیری تکرار تهدیدهای قبلی ستاد کل نیروهای مسلح است که بدون ارائه سند، این رسانه‌ها را به جاسوسی متهم می‌کنند.",
+            "تهدیدهای امنیتی علیه روزنامه‌نگاران در حالی مطرح می‌شود که دادگاهی در لندن اخیراً عوامل وابسته به ج.ه را به جرم عملیات تروریستی علیه خبرنگاران محکوم کرده است."
+        ],
+        "impact": "افزایش ریسک امنیتی برای خبرنگاران و تشدید فشار روانی بر رسانه‌های برون‌مرزی",
+        "tag": "رسانه",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611201677",
+        "clean_url": "https://www.iranintl.com/en/202611201677",
+        "image": "http://www.bing.com/th?id=ONUT.3YhjsJF30DEf-Wl1KkSYMw&pid=News",
+        "timestamp": 1795128060.0
+    },
+    {
         "id": "bb1aeec433",
         "title_fa": "خطای دسترسی در گزارش همکاری‌های مسکو و تهران",
         "title_en": "Russia and Iran Seek Closer Cooperation",
@@ -5476,24 +5495,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/ex-hostage-recounts-captivity-in-iran-backed-militia-stronghold-now-targeted-by-iraqi-prime-minister/ar-AA2hE8Ow",
         "image": "http://www.bing.com/th?id=ONUT.3Pr9s1WRvau0X0rD3TWNQA&pid=News",
         "timestamp": 1794909840.0
-    },
-    {
-        "id": "04df6f2545",
-        "title_fa": "کاهش سوخت‌های فسیلی؛ نتیجه تنش‌های منطقه‌ای و انرژی پاک",
-        "title_en": "Solar, wind and Iran conflict push fossil emissions down",
-        "summary": [
-            "تنش‌های اخیر در منطقه و ریسک‌های امنیتی، زنجیره تامین انرژی را مختل کرده است.",
-            "سرمایه‌گذاری جهانی روی انرژی‌های تجدیدپذیر برای فرار از وابستگی به نفت خاورمیانه شتاب گرفته است.",
-            "بی‌ثباتی در مسیرهای صادراتی ج.ا، بازار جهانی را به سمت جایگزین‌های پایدارتر سوق داده است."
-        ],
-        "impact": "تضعیف جایگاه نفت ایران در بازار جهانی به دلیل افزایش ریسک‌های ژئوپلیتیک و گذار به انرژی‌های نو.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Oceanographic Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2JYb0VXZUNianQ5V003VUZCVFFRS0tSbkJER3N5WnZtc3RmOG9SbGFtdThqYTYtRlV1blpKcmh6T2tERVktQTQxal9DbnVQMF9zYXAtME5LekZaNkFpTmVUU1dZSmlPaGlLUUZRMjhNX0UzRGxEbE5pTWVNMV9yR19LcmtDM3dzQ05GcmpkR2w2c25sclNCNnNWQQ?oc=5",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2JYb0VXZUNianQ5V003VUZCVFFRS0tSbkJER3N5WnZtc3RmOG9SbGFtdThqYTYtRlV1blpKcmh6T2tERVktQTQxal9DbnVQMF9zYXAtME5LekZaNkFpTmVUU1dZSmlPaGlLUUZRMjhNX0UzRGxEbE5pTWVNMV9yR19LcmtDM3dzQ05GcmpkR2w2c25sclNCNnNWQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794909737.0
     }
 ]
