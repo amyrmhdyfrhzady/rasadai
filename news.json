@@ -254,6 +254,24 @@
         "timestamp": 1795147427.0
     },
     {
+        "id": "8405141675",
+        "title_fa": "خیز دموکرات‌ها برای بستن بودجه جنگ با ایران",
+        "title_en": "Can Democrats force an end to the Iran war when they take Congress?",
+        "summary": [
+            "دموکرات‌های کنگره قصد دارند با ابزار قطع بودجه، دولت ترامپ را برای پایان دادن به درگیری‌ها تحت فشار بگذارند.",
+            "رئیس احتمالی کمیته تخصیص بودجه مجلس نمایندگان صراحتاً از قطع منابع مالی این جنگ حمایت کرده است."
+        ],
+        "impact": "فشار کنگره می‌تواند دست دولت را برای ادامه عملیات نظامی محدود کند.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/democrats-force-end-iran-war-110000490.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/democrats-force-end-iran-war-110000490.html",
+        "image": "http://www.bing.com/th?id=ONUT.r-69Qf0YwHnmGuEk4AGDew&pid=News",
+        "timestamp": 1795143600.0
+    },
+    {
         "id": "75e22097a6",
         "title_fa": "تهدید مستقیم ایران اینترنشنال توسط سپاه؛ گام جدید در جنگ روانی",
         "title_en": "IRGC says Iran International is among military targets",
@@ -5474,23 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202611179150",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1794916620.0
-    },
-    {
-        "id": "df96804b35",
-        "title_fa": "موج قطعی‌های زنجیره‌ای فناوری و نگرانی از حملات سایبری",
-        "title_en": "The Breaking News About Breaking Tech: Live Updates",
-        "summary": [
-            "وقوع قطعی‌های پی در پی در سیستم‌های کلیدی تکنولوژی، موجی از نگرانی و گمانه‌زنی درباره حملات سایبری پنهان ایجاد کرده است.",
-            "کارشناسان هشدار می‌دهند برخی حملات سایبری به گونه‌ای طراحی شده‌اند که مانند نقص فنی عادی به نظر برسند."
-        ],
-        "impact": "آسیب‌پذیری زیرساخت‌های حیاتی آمریکا و آماده‌باش نهادهای سایبری.",
-        "tag": "فناوری",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "New York Magazine",
-        "url": "https://nymag.com/intelligencer/article/is-this-the-end-of-the-world-tech-outages-live-updates.html",
-        "clean_url": "https://nymag.com/intelligencer/article/is-this-the-end-of-the-world-tech-outages-live-updates.html",
-        "image": "http://www.bing.com/th?id=ONUT.yn-C2lTFxRWFxPpy0Pi-7w&pid=News",
-        "timestamp": 1794916020.0
     }
 ]
