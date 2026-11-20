@@ -627,6 +627,24 @@
         "timestamp": 1795168575.0
     },
     {
+        "id": "f9e95ec84e",
+        "title_fa": "ترامپ: تهران توافق می‌خواهد اما نه توافق مورد نظر من",
+        "title_en": "Trump says Iran wants a deal, Saudi Arabia and Yemen's Houthis exchange fire and...",
+        "summary": [
+            "دونالد ترامپ تأکید کرد که فشارها ادامه دارد و تهران هنوز نتوانسته به توافقی قابل قبول برای واشنگتن دست پیدا کند.",
+            "همزمان با این موضع‌گیری، درگیری‌ها در یمن، عراق و مرزهای عربستان با شدت ادامه دارد که نشان‌دهنده افزایش تنش‌های منطقه‌ای است."
+        ],
+        "impact": "افزایش ریسک امنیتی و حفظ فشار حداکثری اقتصادی بر جـ.هـ.وـ.رـ.ی اـ.سـ.لاـ.مـ.ی",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Associated Press",
+        "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-intercepts-more-yemen-094838252.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/saudi-arabia-intercepts-more-yemen-094838252.html",
+        "image": "https://media.zenfs.com/en/ap.org/af270bad786ce9a44898de91e6d5b7b5.jpg",
+        "timestamp": 1795168558.0
+    },
+    {
         "id": "37a6cc6bdc",
         "title_fa": "ترامپ: جنگ با جـ.ـمهوری اسـ.ـلامی تا سال ۲۰۲۷ کشیده می‌شود",
         "title_en": "‘We’ve Got Time’: Trump Suggests Iran War Will Continue Into 2027",
@@ -5477,23 +5495,5 @@
         "clean_url": "https://www.moroccoworldnews.com/2026/11/346865/iranian-drone-attacks-on-bahrain-test-gulf-mediation-efforts",
         "image": "https://www.moroccoworldnews.com/wp-content/uploads/2025/02/Site-Featured-Image-.png",
         "timestamp": 1794946140.0
-    },
-    {
-        "id": "d5e0daec94",
-        "title_fa": "تنشی دیگر در جنوب؛ ادعای حمله آمریکا به جزیره قشم",
-        "title_en": "Iran Says US Attacked Qeshm Island in Latest Exchange of Strikes",
-        "summary": [
-            "تهران مدعی شد ارتش آمریکا به جزیره قشم حمله کرده است.",
-            "این رخداد نشان‌دهنده بالا گرفتن درگیری‌های پنهان و تبادل آتش در آب‌های جنوبی است."
-        ],
-        "impact": "افزایش شدید ریسک نظامی و ناامنی در منطقه خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy04aVlmWEc4cksxcmFWZTdRek9UOGtuZXRQT3VCYUZuNDZwYjFjTEhDRzNDSEM3LTY5dUF3YlpKOExncVR1aFZ3Z2dlM0c1ajN2ZHJUSFdNOW1mZmZiNXc4V0Jqa1BQc3ItYmxOamIxX3FieWc4QldOTFUxRER6bnc1YnVESzhnUXV2VUcwVkstcmdGNkhGRDYtcTNGX29maFV3MmZZR3piZmxDVm9DSVd5M3FoQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy04aVlmWEc4cksxcmFWZTdRek9UOGtuZXRQT3VCYUZuNDZwYjFjTEhDRzNDSEM3LTY5dUF3YlpKOExncVR1aFZ3Z2dlM0c1ajN2ZHJUSFdNOW1mZmZiNXc4V0Jqa1BQc3ItYmxOamIxX3FieWc4QldOTFUxRER6bnc1YnVESzhnUXV2VUcwVkstcmdGNkhGRDYtcTNGX29maFV3MmZZR3piZmxDVm9DSVd5M3FoQQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794944980.0
     }
 ]
