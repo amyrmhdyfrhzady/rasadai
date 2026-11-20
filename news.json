@@ -1,5 +1,23 @@
 [
     {
+        "id": "c3c67df213",
+        "title_fa": "سفیر اسرائیل: نیروهای آمریکایی پس از شکست ایران بازمی‌گردند",
+        "title_en": "US troops will return home once Iran is defeated, Israeli ambassador says",
+        "summary": [
+            "به گزارش روزنامه جروزالم پست، سفیر اسرائیل اظهار داشت که نیروهای آمریکایی پس از شکست ایران به کشورشان بازخواهند گشت.",
+            "این مقام دیپلماتیک اسرائیل با بیان چنین موضعی، زمان خروج نظامیان ایالات متحده را به سرانجام تقابل با تهران مرتبط دانست."
+        ],
+        "impact": "طرح این موضع از سوی سفیر اسرائیل، بحث‌ها درباره اهداف حضور نظامی آمریکا در منطقه و سطح تنش‌ها با ایران را برجسته‌تر می‌کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBseEhmcS1sZWpIb2lGc2k0TjBxYUJOcVRKMDZTLXhNaW11QUNZTjhUdGhEZHY2WlQ0ektzQTlHLWdaUzJTR1ZSOFFWbnRQSEFLb1c1Tlp5dGhPaEVzOG4tSHd1WnB0NXNscGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBseEhmcS1sZWpIb2lGc2k0TjBxYUJOcVRKMDZTLXhNaW11QUNZTjhUdGhEZHY2WlQ0ektzQTlHLWdaUzJTR1ZSOFFWbnRQSEFLb1c1Tlp5dGhPaEVzOG4tSHd1WnB0NXNscGc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795158824.0
+    },
+    {
         "id": "88b6cd142d",
         "title_fa": "افزایش قیمت نفت در پی تهدید ایران برای چالش محاصره دریایی آمریکا",
         "title_en": "Oil futures: Crude edges higher as Iran says will test US port blockade",
@@ -5477,23 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2JYb0VXZUNianQ5V003VUZCVFFRS0tSbkJER3N5WnZtc3RmOG9SbGFtdThqYTYtRlV1blpKcmh6T2tERVktQTQxal9DbnVQMF9zYXAtME5LekZaNkFpTmVUU1dZSmlPaGlLUUZRMjhNX0UzRGxEbE5pTWVNMV9yR19LcmtDM3dzQ05GcmpkR2w2c25sclNCNnNWQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794909737.0
-    },
-    {
-        "id": "6da7551416",
-        "title_fa": "افزایش فعالیت‌های تروریستی و جاسوسی ج.ا در خاک اروپا",
-        "title_en": "Iran's growing aggression reaches European soil",
-        "summary": [
-            "گزارش‌ها از گسترش دامنه عملیات‌های برون‌مرزی و تهدیدات امنیتی توسط عوامل وابسته به ج.ا در کشورهای اروپایی حکایت دارد.",
-            "اروپا در حال تغییر رویکرد از دیپلماسی نرم به سمت اقدامات سختگیرانه امنیتی برای مقابله با نفوذ و خرابکاری‌های این رژیم است."
-        ],
-        "impact": "افزایش فشارهای دیپلماتیک و احتمال قرارگیری نهادهای امنیتی ج.ا در لیست‌های تروریستی اتحادیه اروپا.",
-        "tag": "امنیتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Le Monde",
-        "url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-s-growing-aggression-reaches-european-soil_6782800_4.html",
-        "clean_url": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-s-growing-aggression-reaches-european-soil_6782800_4.html",
-        "image": "https://img.lemde.fr/2026/11/10/0/0/6000/4000/1440/960/60/0/7b6a857_ftp-1-be0pn54uoul0-2026-11-10t140653z-2045082271-rc20loaniehe-rtrmadp-3-iran-crisis-usa-britain.JPG",
-        "timestamp": 1794909600.0
     }
 ]
