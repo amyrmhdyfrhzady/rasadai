@@ -1,5 +1,24 @@
 [
     {
+        "id": "403fa59fee",
+        "title_fa": "تشدید درگیری‌های نظامی در یمن و عراق",
+        "title_en": "Saudi Arabia attacks Yemen's Houthis and intercepts more missiles and drones, and other Mideast news",
+        "summary": [
+            "ائتلاف سعودی با هدف قرار دادن بندر حدیده، شریان اصلی قاچاق سلاح برای حوثی‌ها را هدف گرفت.",
+            "حوثی‌های وابسته به ج.ا با حملات پهپادی و موشکی به خاک عربستان، پاسخ دادند.",
+            "دولت عراق برای جلوگیری از قاچاق نفت توسط شبه‌نظامیان وابسته به ج.ا، نیروهای نظامی را به مناطق انرژی‌خیز اعزام کرد."
+        ],
+        "impact": "افزایش تنش‌های نظامی در یمن و تلاش بغداد برای مهار نفوذ شبه‌نظامیان در صنعت نفت عراق.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Dayton Daily News",
+        "url": "https://www.daytondailynews.com/nation-world/saudi-arabia-attacks-yemens-houthis-and-intercepts-more-missiles-and-drones-and-other-mideast-news/article_823f8655-7929-54a9-9110-d1e57b2f45bd.html",
+        "clean_url": "https://www.daytondailynews.com/nation-world/saudi-arabia-attacks-yemens-houthis-and-intercepts-more-missiles-and-drones-and-other-mideast-news/article_823f8655-7929-54a9-9110-d1e57b2f45bd.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/daytondailynews.com/content/tncms/assets/v3/editorial/4/ff/4ff90e0d-c88a-5cb7-9685-0c96c620c3fc/6afe27c3c6b38.image.jpg?crop=7054,3703,0,499&resize=1200,630&order=crop,resize",
+        "timestamp": 1795187280.0
+    },
+    {
         "id": "2584d9f3c1",
         "title_fa": "فشار سنگین واشنگتن بر سنگاپور و مالزی برای تحریم ج.ه.ا",
         "title_en": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/likuds-knesset-speaker-candidate-instructs-arab-mks-do-not-vote-for-me",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794929640.0
-    },
-    {
-        "id": "70d37af734",
-        "title_fa": "تغییر رویکرد واشنگتن به فشار اقتصادی و براندازی",
-        "title_en": "Iran deputy FM says nuclear doctrine unchanged despite Khamenei's killing",
-        "summary": [
-            "تهران اذعان کرد که احتمال توافق سیاسی با آمریکا بسیار کم شده است.",
-            "استراتژی دولت ترامپ از پرونده هسته‌ای به سمت فشار حداکثری اقتصادی و ضربه به زیرساخت‌ها تغییر کرده است.",
-            "کارشناسان حکومتی هشدار دادند که هدف نهایی واشنگتن، تغییر ساختار سیاسی و کنترل منابع کشور است."
-        ],
-        "impact": "تشدید فشارهای اقتصادی و امنیتی آمریکا، حاکمیت را در تنگنای شدید مالی و چالش بقا قرار داده است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611170557",
-        "clean_url": "https://www.iranintl.com/en/202611170557",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794929460.0
     }
 ]
