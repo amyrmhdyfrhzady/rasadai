@@ -219,6 +219,25 @@
         "timestamp": 1795136820.0
     },
     {
+        "id": "b48b927431",
+        "title_fa": "تهدید آشکار رسانه‌های آزاد توسط مقام ارشد نظامی",
+        "title_en": "Iran may review military doctrine in response to enemy actions, IRGC chief says",
+        "summary": [
+            "مقام ارشد سپاه رسانه‌های فارسی‌زبان خارج از کشور را اهداف نظامی نامید.",
+            "این تهدیدات پس از محکومیت عوامل ترور و جاسوسی وابسته به جـ.هـ در لندن مطرح شد.",
+            "تهدید خبرنگاران نشان‌دهنده هراس دستگاه امنیتی از آگاهی‌رسانی آزاد است."
+        ],
+        "impact": "افزایش ریسک امنیتی برای خبرنگاران و تلاش برای ایجاد ارعاب در رسانه‌های خارج از کشور",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611207188",
+        "clean_url": "https://www.iranintl.com/en/202611207188",
+        "image": "http://www.bing.com/th?id=ONUT.BQTJYZW-h6-lhSjKbcp4dQ&pid=News",
+        "timestamp": 1795136580.0
+    },
+    {
         "id": "8e9d4265c0",
         "title_fa": "عملیات سایبری تهاجمی بریتانیا علیه ج.ا، روسیه و چین",
         "title_en": "UK running offensive cyber operations against Iran, Russia and China",
@@ -5476,24 +5495,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-takes-threat-dirty-185945604.html",
         "image": "http://www.bing.com/th?id=ONUT.7BWqUAObmWjnW0TFFWx84g&pid=News",
         "timestamp": 1794913140.0
-    },
-    {
-        "id": "ed67c275d0",
-        "title_fa": "ترامپ: هزینه تهدید آمریکا برای ایران بی‌سابقه خواهد بود",
-        "title_en": "Trump says Iran would pay 'like no country ever' for threat to Washington",
-        "summary": [
-            "استراتژی واشینگتن از تمرکز صرف بر پرونده هسته‌ای به سمت فشار اقتصادی حداکثری و تغییر ساختار سیاسی ج.ا.ا تغییر جهت داده است.",
-            "تحلیل‌گران داخلی ج.ا.ا اعتراف می‌کنند که ترامپ به دنبال کنترل منابع ایران از طریق تغییر رژیم است.",
-            "آمریکا در حال ترکیب فشارهای اقتصادی با عملیات‌های امنیتی علیه زیرساخت‌های حیاتی برای تضعیف توان مالی ج.ا.ا در منطقه است."
-        ],
-        "impact": "افزایش انزوای بین‌المللی و تشدید بحران ارزی در پی تهدیدات مستقیم ترامپ.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611171873",
-        "clean_url": "https://www.iranintl.com/en/202611171873",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1794912780.0
     }
 ]
