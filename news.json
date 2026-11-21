@@ -637,6 +637,24 @@
         "timestamp": 1795253518.0
     },
     {
+        "id": "31158833c5",
+        "title_fa": "کشته شدن یک نوجوان در اردوگاه شعفات",
+        "title_en": "Teen shot dead in East Jerusalem's Shuafat refugee camp",
+        "summary": [
+            "یک نوجوان ۱۵ ساله به نام قصعی الجولانی در اردوگاه آوارگان شعفات در شرق اورشلیم با تیراندازی یک موتورسیکلت‌سوار هدف گلوله قرار گرفت و جان باخت.",
+            "تصاویر منتشر شده پیکر این نوجوان را در مقابل یک مدرسه در اردوگاه نشان می‌دهد و پلیس و نیروهای امدادی در محل حضور یافته‌اند."
+        ],
+        "impact": "افزایش تنش‌های امنیتی و درگیری‌ها در مناطق شرقی اورشلیم.",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/boy-shot-dead-in-east-jerusalems-shuafat-refugee-camp/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/boy-shot-dead-in-east-jerusalems-shuafat-refugee-camp",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795253460.0
+    },
+    {
         "id": "eefab3172c",
         "title_fa": "سقوط آزاد قیمت بنزین در آمریکا هم‌زمان با افت نفت",
         "title_en": "Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://tass.com/defense/2221081",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1795048140.0
-    },
-    {
-        "id": "48af98f45a",
-        "title_fa": "آمریکا: ایـران به زیرساخت‌های کلیدی ضربه زد",
-        "title_en": "Iran Hit Key Infrastructure, Isn’t Behind Tech Outages, US Says",
-        "summary": [
-            "مقام‌های آمریکایی تایید کردند که حملات سایبری یا ضربات به زیرساخت‌های حیاتی از سوی ایـران انجام شده است.",
-            "واشنگتن همزمان اعلام کرده که قطعی اخیر تکنولوژی ارتباطی مستقیماً به اقدامات ایـران مربوط نمی‌شود."
-        ],
-        "impact": "افزایش تنش‌های سایبری و امنیتی میان واشنگتن و تهران در حوزه زیرساخت‌های حیاتی.",
-        "tag": "سایبری",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmlCcUxqYWp0dE5fbDNLSk5CakswN2ZwSUd4LU93aEhBeWI4ZXlrY2dQLVJkZERhQTIxYW1ueDFOWWFXOWcxTmtLSk84OU1XcXdEWWtjc2NEdmlfTHpxYS1iX2g2S2ZxODNIbXhZUGcwUEVOSmdlYWM4a0Zlb1NNSWdXaFJPTmlteUpiV05KMlMtdUJfT1F4Z2I5QVN4MHB5Z3duUlo3dkNFUjhsM1pacg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmlCcUxqYWp0dE5fbDNLSk5CakswN2ZwSUd4LU93aEhBeWI4ZXlrY2dQLVJkZERhQTIxYW1ueDFOWWFXOWcxTmtLSk84OU1XcXdEWWtjc2NEdmlfTHpxYS1iX2g2S2ZxODNIbXhZUGcwUEVOSmdlYWM4a0Zlb1NNSWdXaFJPTmlteUpiV05KMlMtdUJfT1F4Z2I5QVN4MHB5Z3duUlo3dkNFUjhsM1pacg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795047420.0
     }
 ]
