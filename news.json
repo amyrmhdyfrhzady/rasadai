@@ -128,6 +128,24 @@
         "timestamp": 1795256252.0
     },
     {
+        "id": "35830aa587",
+        "title_fa": "خط و نشان فرمانده ارشد سپاه برای آمریکا",
+        "title_en": "Breaking News LIVE: PM Modi Inaugurates 'Nitish Setu' In Bihar; Meets Nitish Kumar At Patna Airport",
+        "summary": [
+            "احمد وحیدی در بازدید از شهر موشکی سپاه، اقدام نظامی اخیر علیه آمریکا را تنها آغاز کار دانست.",
+            "تهدیدهای فرماندهان نظامی با هدف مصرف داخلی و تلاش برای بازسازی روحیه نیروهای نیابتی انجام می‌شود."
+        ],
+        "impact": "افزایش تنش‌های نظامی در منطقه و بالا رفتن احتمال درگیری‌های نیابتی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Outlook India",
+        "url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026",
+        "clean_url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026",
+        "image": "https://cf-images.assettype.com/outlookindia/2026-11-21/5ex0ld1m/Pollution_in_Delhi.jpg?w=801&auto=format,compress&fit=max",
+        "timestamp": 1795253580.0
+    },
+    {
         "id": "27887d5724",
         "title_fa": "سرنگونی پهپاد آمریکایی در تنگه هرمز توسط سپاه",
         "title_en": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGZqQ0NFdGRVbm5STVpMTElfekpHdGx4WHZ2RDMxSnhGTHlJZ0FrNmJjay0zNGtGWEd4a0RtNmEzWmo3bHhhRFRZV1lQWER4alVBSVcxdFlPaTNZVFBtMUZCaEs1NWZoMlFlZ1NCM3BMdmkwRXlod29pY2ppcjlrV0Z0WTFIU042NWJjMkg0N3ZPRVNvMTY4QkdrMVp2UHoyalJ6cW42M0g5ejcyR3NzV0pxYkh1N0c1U0p3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795010758.0
-    },
-    {
-        "id": "314af4dca8",
-        "title_fa": "حمله موشکی و پهپادی به کشورهای خلیج فارس",
-        "title_en": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
-        "summary": [
-            "کویت و بحرین هدف حملات پهپادی و موشکی قرار گرفتند که نشان‌دهنده شکست مذاکرات صلح است.",
-            "منطقه در وضعیت خطرناکی میان صلح شکننده و جنگ تمام‌عیار گیر افتاده است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی در خلیج فارس و ناامن شدن مسیرهای انرژی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
-        "clean_url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795010460.0
     }
 ]
