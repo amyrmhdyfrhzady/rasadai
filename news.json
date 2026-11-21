@@ -36,6 +36,25 @@
         "timestamp": 1795245600.0
     },
     {
+        "id": "94324bdcb5",
+        "title_fa": "بحران شدید گاز و تقلای حکومت برای ذخیره‌سازی سوخت",
+        "title_en": "Iran warns citizens abroad their assets could be frozen over online posts",
+        "summary": [
+            "ناترازی روزانه گاز زمستان امسال به رقم بی‌سابقه ۴۳۰ میلیون مترمکعب می‌رسد.",
+            "مقام‌های وزارت نفت از ذخیره‌سازی گسترده نفت سفید و گازوئیل برای جبران قطعی گاز نیروگاه‌ها خبر دادند.",
+            "تأسیسات پارس جنوبی در عسلویه آسیب دیده و تولید گاز کشور همچنان بسیار پایین‌تر از سطح پیش از درگیری‌هاست."
+        ],
+        "impact": "فلج شدن صنایع و قطعی گسترده برق و گاز در زمستان پیش رو قطعی است.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611210347",
+        "clean_url": "https://www.iranintl.com/en/202611210347",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/f10928cf674b347d5b1de017f3be862082834f4c-1280x853.jpg?rect=114,49,1013,760&w=576&h=432&q=90&fit=max&auto=format",
+        "timestamp": 1795245060.0
+    },
+    {
         "id": "1bf7fea037",
         "title_fa": "ادعای عراقچی درباره مصرف ذخایر اورانیوم",
         "title_en": "Araqchi: Iran’s Uranium Reserves to Be Used in Line with National Needs",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/attorneys-in-alaska-election-lawsuit-should-be-sanctioned-court-told/ar-AA2hH6Jx",
         "image": "http://www.bing.com/th?id=ONUT.4PHWRHZhKcYysGclAw3Q9Q&pid=News",
         "timestamp": 1794978947.0
-    },
-    {
-        "id": "b2563e20e0",
-        "title_fa": "انتقاد بانک جهانی از کندی بازسازی مناطق جنگی لبنان",
-        "title_en": "World Bank official says Lebanon slow to act on reconstruction",
-        "summary": [
-            "به گزارش خبرگزاری آسوشیتدپرس، آنا بیرده، مدیر عملیات بانک جهانی، در سفر به لبنان اعلام کرد این کشور در استفاده از کمک‌های بین‌المللی برای بازسازی مناطق آسیب‌دیده از جنگ‌های اخیر بسیار کند عمل کرده است.",
-            "طبق گزارش پیشرفت ماه سپتامبر، از ۲۵۰ میلیون دلار اعتبار مصوب بانک جهانی در ژوئن ۲۰۲۵ برای آواربرداری و ترمیم زیرساخت‌های حیاتی، تنها ۴.۲ میلیون دلار پرداخت شده؛ در حالی که پیش‌بینی اولیه پرداخت ۱۰۰ میلیون دلار تا ژوئیه ۲۰۲۶ بود.",
-            "این مقام بانک جهانی مسائل امنیتی را از عوامل تاخیر دانست و تصریح کرد که حتی کل مبلغ ۲۵۰ میلیون دلار نیز تنها بخش کوچکی از نیازهای بازسازی لبنان پس از درگیری سال ۲۰۲۴ میان اسرائیل و حزب‌الله را پوشش می‌دهد."
-        ],
-        "impact": "بر اساس ارزیابی بانک جهانی، تداوم مشکلات امنیتی و اجرایی مانع استفاده بهینه از کمک‌های بین‌المللی شده و روند ترمیم زیرساخت‌های عمومی لبنان را به تعویق انداخته است.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Bastille Post",
-        "url": "https://www.bastillepost.com/global/article/6373470-world-bank-official-says-lebanon-slow-to-act-on-reconstruction",
-        "clean_url": "https://www.bastillepost.com/global/article/6373470-world-bank-official-says-lebanon-slow-to-act-on-reconstruction",
-        "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/11/9c4456bac478a64c9aeff6f2fc6c84ae_Lebanon_World_Bank_Reconstruction_65_82_FB.jpg",
-        "timestamp": 1794978900.0
     }
 ]
