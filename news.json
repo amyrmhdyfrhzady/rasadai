@@ -403,6 +403,25 @@
         "timestamp": 1795226940.0
     },
     {
+        "id": "fc887d44e4",
+        "title_fa": "فشار حداکثری واشنگتن و شکاف عمیق در ساختار قدرت",
+        "title_en": "نایب‌رییس مجلس: راهی جز شکستن حصر اقتصادی آمریکا وجود ندارد",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا کارزار طرد اقتصادی را بزرگترین پروژه انزوای حکومتی در جهان می‌داند.",
+            "مقام‌های آمریکایی از احتمال درگیری داخلی میان مهره‌های سپاه به دلیل بن‌بست موجود خبر می‌دهند.",
+            "غیبت‌های مکرر در سطوح عالی تصمیم‌گیری، بحران مشروعیت و چنددستگی را تشدید کرده است."
+        ],
+        "impact": "تداوم این روند سیستم را به لبه پرتگاه فروپاشی اقتصادی و جنگ قدرت درونی می‌کاند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611218166",
+        "clean_url": "https://www.iranintl.com/202611218166",
+        "image": "http://www.bing.com/th?id=ONUT.1-fuQSnSUa-2ugkN-MYwig&pid=News",
+        "timestamp": 1795225560.0
+    },
+    {
         "id": "e38579590b",
         "title_fa": "بن‌بست در مذاکرات هسته‌ای و سایه سنگین جنگ",
         "title_en": "‘Risk of Renewed Conflict’: US-Iran Nuclear Talks Stall Over Uranium Enrichment Dispute, Mediators Warn: Report",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://tass.com/world/2220789",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1795000320.0
-    },
-    {
-        "id": "e37691eeac",
-        "title_fa": "انفجارهای مشکوک در سواحل موشکی ج.ا در بندر لنگه و سیریک",
-        "title_en": "Iran's missile coast erupts as IRGC goes into full panic",
-        "summary": [
-            "وقوع انفجارها در مراکز حساس موشکی بلافاصله پس از حملات پهپادی به پایگاه آمریکا در بحرین، نشان‌دهنده پاسخ احتمالی به ماجراجویی‌های اخیر است",
-            "سپاه پاسداران در وضعیت آماده‌باش کامل و آشفتگی عملیاتی قرار گرفته است",
-            "تکرار حملات پهپادی به پایگاه‌های آمریکا، صبر واشنگتن را به پایان رسانده و احتمال واکنش مستقیم نظامی افزایش یافته است"
-        ],
-        "impact": "افزایش تنش نظامی در خلیج فارس و احتمال هدف قرار گرفتن زیرساخت‌های موشکی ج.ا",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "YouTube on MSN",
-        "url": "https://www.msn.com/en-us/news/other/irans-missile-coast-erupts-as-irgc-goes-into-full-panic/vi-AA2hIwVj",
-        "clean_url": "https://www.msn.com/en-us/news/other/irans-missile-coast-erupts-as-irgc-goes-into-full-panic/vi-AA2hIwVj",
-        "image": "http://www.bing.com/th?id=ONUT.4A9Gj64-g-_6DtadbRjvrQ&pid=News",
-        "timestamp": 1794999600.0
     }
 ]
