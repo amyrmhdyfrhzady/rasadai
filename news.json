@@ -293,6 +293,25 @@
         "timestamp": 1795229492.0
     },
     {
+        "id": "e38579590b",
+        "title_fa": "بن‌بست در مذاکرات هسته‌ای و سایه سنگین جنگ",
+        "title_en": "‘Risk of Renewed Conflict’: US-Iran Nuclear Talks Stall Over Uranium Enrichment Dispute, Mediators Warn: Report",
+        "summary": [
+            "مذاکرات میان واشنگتن و تهران بر سر حجم اورانیوم غنی‌شده به بن‌بست رسیده است.",
+            "آمریکا خواستار تعهد کتبی برای حذف ذخایر هسته‌ای است اما تهران مقاومت می‌کند.",
+            "میانجی‌گران بین‌المللی درباره خطر بازگشت درگیری‌های نظامی هشدار جدی داده‌اند."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی با توقف کامل دیپلماسی هسته‌ای",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Republic World",
+        "url": "https://www.republicworld.com/global-news/risk-of-renewed-conflict-us-iran-nuclear-talks-stall-over-uranium-enrichment-dispute-mediators-warn-2026-11-21-141536",
+        "clean_url": "https://www.republicworld.com/global-news/risk-of-renewed-conflict-us-iran-nuclear-talks-stall-over-uranium-enrichment-dispute-mediators-warn-2026-11-21-141536",
+        "image": "http://www.bing.com/th?id=ONUT.y_amb73c0eyQIVB8Uh_agA&pid=News",
+        "timestamp": 1795224660.0
+    },
+    {
         "id": "adabc19586",
         "title_fa": "تحلیل بنیاد قرن آینده درباره نقش جنگ با ایران و اسرائیل در انتخابات آمریکا",
         "title_en": "The USA Midterm Elections: The Iran War and Israel on the Ballot",
@@ -5474,24 +5493,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/protesters-call-regime-change-iran-161758017.html",
         "image": "https://s.yimg.com/lo/mysterio/api/2977d1712ba36aa1625a14eae8ac3a782fb3967948444cd4b807a07b1387b5f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F246c3e6afe788e947b3eea6bae3f1dc6.jpg",
         "timestamp": 1794989820.0
-    },
-    {
-        "id": "d0d2263c56",
-        "title_fa": "گزارش اسرائیل هیوم از رهگیری موشک‌های ایرانی در خلیج فارس",
-        "title_en": "Gulf states intercept Iranian missiles after US Qeshm strike",
-        "summary": [
-            "روزنامه اسرائیل هیوم گزارش داده است که کشورهای عربی حاشیه خلیج فارس موشک‌های شلیک‌شده از سوی ایران را رهگیری کرده‌اند.",
-            "بر اساس این گزارش، پرتاب موشک‌های ایرانی در پی حمله نیروهای آمریکایی به قشم انجام شده است.",
-            "درگیر شدن پدافند کشورهای خلیج فارس، دامنه تقابل نظامی میان واشنگتن و تهران را به حریم هوایی همسایگان جنوبی کشانده است."
-        ],
-        "impact": "تداوم حملات متقابل در محدوده قشم و خلیج فارس، خطر گسترش درگیری نظامی به سایر کشورهای منطقه را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Israel Hayom",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVU5YjNibkhycGlZZGMxOHRmd3dfdFVqb3RGVXdxYzdoclNOMjgxa1Q0Tnd5a0R5ejg5R3dzOXBBNVF4OGZVc2hZTVZ0SzRwTnQ2MS1JdVFDLW85dGVfUF9keFdTV0p4VmFrTW45STE3ck84NUFHMkRjTEFnY2IyMmhGVzNOeFN6Y0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVU5YjNibkhycGlZZGMxOHRmd3dfdFVqb3RGVXdxYzdoclNOMjgxa1Q0Tnd5a0R5ejg5R3dzOXBBNVF4OGZVc2hZTVZ0SzRwTnQ2MS1JdVFDLW85dGVfUF9keFdTV0p4VmFrTW45STE3ck84NUFHMkRjTEFnY2IyMmhGVzNOeFN6Y0E",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1794989630.0
     }
 ]
