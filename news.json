@@ -1,5 +1,23 @@
 [
     {
+        "id": "345de28ed9",
+        "title_fa": "ادعای جدید نهادهای نظامی درباره سرنگونی پهپاد آمریکایی",
+        "title_en": "Iran’s IRGC Claims to Have Shot Down US Drone",
+        "summary": [
+            "منابع نظامی وابسته به حکومت از ادعای سرنگونی یک فروند پهپاد آمریکایی خبر دادند.",
+            "این‌گونه ادعاها معمولاً با اهداف جنگ روانی و مصرف داخلی مطرح می‌شوند."
+        ],
+        "impact": "بال رفتن موقت تنش‌های لفظی و روانی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "8AM Media",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN1VDUzl1dVBTYnV3X21FTmh5SzZlUTlNSzhLTHhQUUNnSUFrRENTOFBUOWpJdDN6S3hBLXBXNzBGMjFIZzMyOFlncVp5RTZwSzVDaXVEcEdHeWh1Y01rVGh0c2NiOGV6Unc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN1VDUzl1dVBTYnV3X21FTmh5SzZlUTlNSzhLTHhQUUNnSUFrRENTOFBUOWpJdDN6S3hBLXBXNzBGMjFIZzMyOFlncVp5RTZwSzVDaXVEcEdHeWh1Y01rVGh0c2NiOGV6Unc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795239014.0
+    },
+    {
         "id": "ffafe61a5c",
         "title_fa": "رد ادعای نیویورک‌تایمز درباره ریشه‌های بحران آب در ایران",
         "title_en": "NYT dam theory ignores history and politics of water in Iran",
@@ -458,6 +476,24 @@
         "timestamp": 1795196839.0
     },
     {
+        "id": "103abe303f",
+        "title_fa": "نوسان تصنعی نرخ ارز در آمارهای بانک مرکزی",
+        "title_en": "Iranian rial gains against dollar, Saudi riyal and Pakistani rupee",
+        "summary": [
+            "بانک مرکزی مدعی تقویت ارزش ریال در برابر دلار و ارزهای منطقه‌ای شد.",
+            "این نرخ‌های رسمی فاصله زیادی با بازار آزاد و واقعیت تورم فلج‌کننده دارد."
+        ],
+        "impact": "تلاش نافرجام دولت برای دستکاری روانی بازار ارز.",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Daily Times",
+        "url": "https://dailytimes.com.pk/1584466/iranian-rial-gains-against-dollar-saudi-riyal-and-pakistani-rupee/",
+        "clean_url": "https://dailytimes.com.pk/1584466/iranian-rial-gains-against-dollar-saudi-riyal-and-pakistani-rupee",
+        "image": "https://dailytimes.com.pk/assets/uploads/2026/11/20/Iranian-rial-gains-against-dollar-Saudi-riyal-and-Pakistani-rupee.webp",
+        "timestamp": 1795195320.0
+    },
+    {
         "id": "3b915fca3f",
         "title_fa": "دست‌آوردهای سفر ترامپ به آسیا و پیام‌ها به پکن و مسکو",
         "title_en": "Takeaways From Trump’s Post-Asia Trip News Conference",
@@ -531,6 +567,24 @@
         "clean_url": "https://www.iranintl.com/en/202611207005",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1795193160.0
+    },
+    {
+        "id": "fc31902ae2",
+        "title_fa": "خیزش دوباره فرماندهان س - پ - ا - ه برای قاچاق نفت",
+        "title_en": "Iran MP sees US military expulsion as way to end 'neither war nor peace'",
+        "summary": [
+            "عباس عراقچی از تلاش تهران برای شکستن محاصره صادرات نفت خبر داد.",
+            "رسانه‌های وابسته به نهادهای نظامی ایده اعزام کاروان نفتکش‌ها را با چاشنی تهدید انرژی منطقه کلید زده‌اند."
+        ],
+        "impact": "افزایش ریسک درگیری نظامی و ناامنی در خلیج فارس به دلیل تحرکات نفتی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611200812",
+        "clean_url": "https://www.iranintl.com/en/202611200812",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/d4b4dbaa8c473fee5039f3e8558059dc69fc4716-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795192320.0
     },
     {
         "id": "0249fdeb17",
@@ -5440,60 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjFCcURGWkV2eHlJZG1jNE9mQk5UandtcU03RVR1WDZkZm5CTVByVkhTZ01oNDZXSE5nS3NpU3kzbkRyRFlnel9UamVOREFfNG9qYVFIdmt3WFRXR0dONWNXRkRjMkgtQVFvQ3E4cWM0cVFmUTE4TV9RRllTMkVDdFNDWkVLTEhlS0hnY1RTWUE1ZnRHY2k2ejlPbHdZUGktS1U0eEdLTE5YUVdramxESWJoUVdHS19rSmhMWkg4cUNJbERT0gHKAUFVX3lxTE56YnBZeU0yZDdiQnc4NFo4OVBrQURPT1VNWDBTaUhJQnRKdE9Sb1dxMjh5QmVHdmRTM0VZNTVoa3pIZXFiNTV2LU1ocjJib1FxUmRDMmVFUllCY3k4U0NzN1FiWWEzQzE3RTZJdUhXcU84Ukp2YU5ielNRTGNETi1uVGNEMHJYelVIQnVaTm04T3lYR3JMOWJNclpYVlp6dEtqZEs5cTgzc0x4bDAtVXc4WFM4blpOYm1IY1lfdG5xUzItZzJBSUczaEE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794971021.0
-    },
-    {
-        "id": "5425af4612",
-        "title_fa": "چالش بزرگ ترامپ و شی در مذاکرات تجاری پکن",
-        "title_en": "Trump set for economic showdown with Xi as unfulfilled promises leave billions hanging in balance",
-        "summary": [
-            "مذاکرات تجاری آمریکا و چین به دلیل عدم اجرای تعهدات قبلی پکن در خرید محصولات کشاورزی به بن‌بست رسیده است.",
-            "ترامپ به دنبال فشار حداکثری برای تغییر تراز تجاری و کاهش وابستگی به مواد معدنی چین است."
-        ],
-        "impact": "احتمال تشدید جنگ تعرفه‌ای و بی‌ثباتی در بازارهای کالاهای اساسی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/trump-set-economic-showdown-xi-unfulfilled-promises-leave-billions-hanging-balance",
-        "clean_url": "https://www.foxnews.com/politics/trump-set-economic-showdown-xi-unfulfilled-promises-leave-billions-hanging-balance",
-        "image": "http://www.bing.com/th?id=ONUT.mVBVjTJSUhfHyz2anyXdKA&pid=News",
-        "timestamp": 1794970860.0
-    },
-    {
-        "id": "86cc31a1c5",
-        "title_fa": "نفوذ مشکوک یک شرکت رمزارزی به حلقه نزدیکان ترامپ",
-        "title_en": "Mystery firm spending millions to attend Trump crypto gala, seeks to build \"Chinese $TRUMP coin community\"",
-        "summary": [
-            "یک شرکت با هویت نامشخص و ارتباطات سنگاپوری، با خرید انبوه توکن‌های ترامپ به دنبال دسترسی به حلقه قدرت است.",
-            "این اقدام سوالات امنیتی جدی درباره نحوه نفوذ لابی‌های خارجی به محافل خصوصی رئیس‌جمهور ایجاد کرده است."
-        ],
-        "impact": "افزایش نگرانی‌ها پیرامون فساد مالی و نفوذ خارجی در ساختار تصمیم‌گیری دولت.",
-        "tag": "ارز",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-crypto-gala-fastx-meme-coin/",
-        "clean_url": "https://www.cbsnews.com/news/trump-crypto-gala-fastx-meme-coin",
-        "image": "http://www.bing.com/th?id=ONUT.I-h3RN9oB_MOKFadoFkQiQ&pid=News",
-        "timestamp": 1794970860.0
-    },
-    {
-        "id": "6f98883951",
-        "title_fa": "جنجال گزارش نیویورک تایمز درباره سدهای ای-ران",
-        "title_en": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
-        "summary": [
-            "گزارش نیویورک تایمز مدعی شده سدها و زیرساخت‌های آبی ای-ران ممکن است برای برنامه‌های موشکی استفاده شوند.",
-            "کارشناسان هشدار داده‌اند این روایت‌سازی‌ها بهانه‌تراشی برای حملات نظامی جدید به تاسیسات غیرنظامی است.",
-            "دستگاه دیپلماسی حکومت این ادعاها را جنگ روانی و کاملاً بی‌اساس خوانده است."
-        ],
-        "impact": "هموار شدن مسیر رسانه‌ای برای توجیه حملات نظامی احتمالی به زیرساخت‌های حیاتی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback",
-        "clean_url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback",
-        "image": "http://www.bing.com/th?id=ONUT.l-o3-ZFeT7iGYjaO_k_Qew&pid=News",
-        "timestamp": 1794969540.0
     }
 ]
