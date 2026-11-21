@@ -36,6 +36,25 @@
         "timestamp": 1795249800.0
     },
     {
+        "id": "2eb7c77998",
+        "title_fa": "هدف قرار گرفتن نفتکش در خلیج عمان و اصرار تهران بر پایان بن‌بست",
+        "title_en": "Hormuz tanker hit off Oman as Iran's Araghchi says standoff must end",
+        "summary": [
+            "یک نفتکش در نزدیکی تنگه هرمز با شی ناشناس هدف حمله قرار گرفت.",
+            "عباس عراقچی اذعان کرد وضعیت نه جنگ و نه صلح با واشنگتن باید پایان یابد.",
+            "این اتفاق همزمان با اعمال تحریم‌های جدید خزانه‌داری آمریکا علیه شبکه مالی نفت ج.ا رخ داد."
+        ],
+        "impact": "افزایش ریسک امنیتی در آبراه حیاتی تنگه هرمز و فشار بیشتر بر صادرات نفت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "africa.dailynewsegypt",
+        "url": "https://africa.dailynewsegypt.com/hormuz-tanker-khasab/",
+        "clean_url": "https://africa.dailynewsegypt.com/hormuz-tanker-khasab",
+        "image": "https://africa.dailynewsegypt.com/wp-content/uploads/2026/11/hormuz-tanker-strait-nasa.jpg",
+        "timestamp": 1795248240.0
+    },
+    {
         "id": "b606455dcc",
         "title_fa": "تحریم چهار تبعه ایرانی به جرم انتقال درآمدهای نفتی",
         "title_en": "US Sanctions Four Iranian Nationals Over Oil Revenue Transfers",
@@ -5473,24 +5492,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGxaRFgtQW01WjB6MUhoa1VxbkVhdVF2cUJUSnFDMFNKMFRlZUp4NkY4bEJ4XzBNQkFOb3RnOTh1eHVSSXVnVkJfZHZDLWJ2RWhfNmdyRnQzTS1Oc3F2R0wyVWlDZWYzVzV4ZGhxeGotWFBsaXNJQnBDVEc4Mld4UlFBNlM2UkNYdWFMNUgxbkl1NGo3OXZGZUxVWHJJSFgx",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794984439.0
-    },
-    {
-        "id": "d85c36fbf3",
-        "title_fa": "بازی فشار همیشگی با بهانه پرونده اتمی ایــران",
-        "title_en": "The nuclear pretext and the politics of perpetual pressure",
-        "summary": [
-            "توانایی فنی و غنی‌سازی اورانیوم لزوماً به معنای تلاش برای ساخت بمب نیست اما غرب از آن به عنوان ابزار فشار استفاده می‌کند.",
-            "تهران سال‌هاست با تهدید، تحریم و عملیات امنیتی دست‌به‌گریبان است تا منزوی بماند.",
-            "مرز بین واقعیت‌های برنامه اتمی ایــران و ادعای دشمنانش در فضای بین‌الملل مخدوش شده است."
-        ],
-        "impact": "ادامه این روند به تشدید انزوای اقتصادی و افزایش تنش‌های منطقه‌ای منجر می‌شود.",
-        "tag": "اتمی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/532302/The-nuclear-pretext-and-the-politics-of-perpetual-pressure",
-        "clean_url": "https://www.tehrantimes.com/news/532302/The-nuclear-pretext-and-the-politics-of-perpetual-pressure",
-        "image": "https://media.mehrnews.com/d/2026/11/18/4/6268443.jpg?ts=1795021614719",
-        "timestamp": 1794983820.0
     }
 ]
