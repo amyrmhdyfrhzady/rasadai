@@ -162,6 +162,24 @@
         "timestamp": 1795284300.0
     },
     {
+        "id": "3de8695411",
+        "title_fa": "احتمال ارائه طرح جدید معافیت سربازی یهودیان حریدی",
+        "title_en": "UTJ expects new Haredi enlistment proposal from Eisenkot amid coalition talks — report",
+        "summary": [
+            "حزب یهودیت توراتی متحد منتظر دریافت پیشنهاد جدیدی از سوی گادی آیزنکوت درباره معافیت طلاب حریدی از خدمت نظامی است.",
+            "این تحولات در جریان رایزنی‌های ائتلافی و برای حل مناقشات قدیمی بر سر خدمت اجباری این جریان مذهبی مطرح شده است."
+        ],
+        "impact": "این توافق می‌تواند ثبات ائتلاف حاکم را تحت تاثیر قرار دهد.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/utj-expects-new-haredi-enlistment-proposal-from-eisenkot-amid-coalition-talks-report/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/utj-expects-new-haredi-enlistment-proposal-from-eisenkot-amid-coalition-talks-report",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795282620.0
+    },
+    {
         "id": "4e7cf9d723",
         "title_fa": "اختلاف روایت در تیم ترامپ درباره برنامه هسته ای ج.ا",
         "title_en": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
@@ -5473,24 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3Y5YjlvaG5ycGVCQVR2aXpMbGwySnh4YTVGbk9RcDB6TWZZWXQzdnVzVmhkVVFwcXZwbmtVU1NDOGRCdThSTHJ2cG50RldEeWpsT2ZyMHc1cWV1U1FfLURmQUJFSkFENm5jZG1qRU42RlFhTXRQckpVSk9YLTZaSkxiUS1vNDUxdXJGS1dKZU9ZZEtBTDlmWW80VV9SbGdUZW5j",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795041323.0
-    },
-    {
-        "id": "1ff4f643d1",
-        "title_fa": "خیز ریاض برای جنگ طولانی با حوثی‌ها در یمن",
-        "title_en": "Saudis preparing for Yemen campaign to last months, pushing off global events as Houthis advance",
-        "summary": [
-            "تشدید درگیری‌ها با حوثی‌ها به فعال‌ترین جبهه در جنگ نیابتی منطقه تبدیل شده است.",
-            "تلفات هزاران نفری و آوارگی صدها هزار شهروند یمنی، بحران انسانی را به اوج رسانده است.",
-            "عربستان خود را برای یک کارزار نظامی طولانی‌مدت آماده می‌کند و رویدادهای بین‌المللی را به تعویق انداخته است."
-        ],
-        "impact": "تداوم جنگ در یمن ثبات امنیتی شبه‌جزیره عربستان را بیش از پیش به مخاطره می‌اندازد.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-us/news/other/saudis-preparing-for-yemen-campaign-to-last-months-pushing-off-global-events-as-houthis-advance/ar-AA2hHyBK",
-        "clean_url": "https://www.msn.com/en-us/news/other/saudis-preparing-for-yemen-campaign-to-last-months-pushing-off-global-events-as-houthis-advance/ar-AA2hHyBK",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26321506786387.jpg",
-        "timestamp": 1795039500.0
     }
 ]
