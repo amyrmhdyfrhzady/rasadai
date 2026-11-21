@@ -361,6 +361,24 @@
         "timestamp": 1795270056.0
     },
     {
+        "id": "0c7c0863a6",
+        "title_fa": "عبور از وضعیت نه جنگ و نه صلح در خلیج فارس",
+        "title_en": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
+        "summary": [
+            "افزایش تحركات نظامی در خلیج فارس و تنگه هرمز نقطه عطف جدیدی در تنش‌های میان ایالات متحده و جـمـهـور ی اسـلامـی ایجاد کرده است.",
+            "آمادگی برای شکستن تحریم‌های نفتی و اقدامات نظامی همزمان، معادلات امنیتی منطقه را به شدت پیچیده کرده است."
+        ],
+        "impact": "بالارفتن ریسک امنیتی در آب‌های جنوبی و احتمال بروز درگیری‌های نظامی مستقیم.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade/ar-AA2hWmzO",
+        "clean_url": "https://www.msn.com/en-xl/news/other/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade/ar-AA2hWmzO",
+        "image": "http://www.bing.com/th?id=ONUT.WLFNDmvw1yX_DUeH3dogcw&pid=News",
+        "timestamp": 1795267971.0
+    },
+    {
         "id": "6cdb6ef26a",
         "title_fa": "خط و نشان ترامپ برای اتمی شدن جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
         "title_en": "Trump vows permanent agreement to block Iran's nuclear weapons",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://thejewishindependent.com.au/trump-iran-nuclear-legacy",
         "image": "https://thejewishindependent.com.au/_next/image/?url=https://jewishindependent.yourcreativeagency.com.au/wp-content/uploads/2026/03/GettyImages-2220072381.jpg&w=3840&q=75",
         "timestamp": 1795046460.0
-    },
-    {
-        "id": "6c11a6f474",
-        "title_fa": "اولتیماتوم غرب به تـ.ـهـ.ـران درباره سایت‌های اتمی و اورانیوم غنی‌شده گم‌شده",
-        "title_en": "US Iran War Live Updates: Riyadh skyscraper housing Saudi sovereign wealth fund HQ damaged in Houthi attack",
-        "summary": [
-            "آمریکا، انگلیس، فرانسه و آلمان خواستار بازگشت فوری بازرسان آژانس به تاسیسات اتمی بمب‌باران‌شده شدند.",
-            "آژانس اتمی بیش از یک سال است که هیچ اطلاعی از سرنوشت ذخایر اورانیوم با غنای بالا و نزدیک به سطح تسلیحاتی ندارد.",
-            "قدرت‌های غربی تـ.ـهـ.ـران را به پنهان‌کاری و مانع‌تراشی تعمدی در مسیر نظارت‌های بین‌المللی متهم کردند."
-        ],
-        "impact": "افزایش شدید فشار دیپلماتیک و اتمی غرب علیه برنامه‌های اتمی مـ.ـقـ.ـامـ.ـات ایـ.ـران.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-us-drone-attack-irgc-qeshm-island-middle-east-conflict-strait-of-hormuz-latest-news/liveblog/135969571.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-us-drone-attack-irgc-qeshm-island-middle-east-conflict-strait-of-hormuz-latest-news/liveblog/135969571.cms",
-        "image": "https://static.toiimg.com/thumb/135969571.jpg?photoid=135969571&imgsize=124056&width=400&resizemode=4",
-        "timestamp": 1795045800.0
     }
 ]
