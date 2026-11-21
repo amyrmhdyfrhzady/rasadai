@@ -660,6 +660,25 @@
         "timestamp": 1795192320.0
     },
     {
+        "id": "74bb79daf0",
+        "title_fa": "تهدید ناوگان نفتی و برخورد موشکی در قشم",
+        "title_en": "Missile hits outskirts of Iran's Qeshm island shortly after Hormuz ship attack",
+        "summary": [
+            "عباس عراقچی از تلاش تهران برای شکستن حصار صادرات نفت و ادامه مذاکرات خبر داد.",
+            "رسانه‌های وابسته به سپاه و امامان جمعه طرح اعزام کاروان نفتکش‌ها را به عنوان خط خبری جدید مطرح کرده‌اند.",
+            "تهدید به حمله به زیرساخت‌های انرژی امارات در صورت ممانعت از عبور نفتکش‌ها از سوی منابع نزدیک به سپاه مطرح شده است."
+        ],
+        "impact": "افزایش تنش‌های نظامی در آبراه حیاتی تنگه هرمز و ریسک بالا برای امنیت انرژی منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611208917",
+        "clean_url": "https://www.iranintl.com/en/202611208917",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795191660.0
+    },
+    {
         "id": "0249fdeb17",
         "title_fa": "نگرانی آسیا از بازگشت سیاست‌های فشار حداکثری ترامپ",
         "title_en": "Asia Hopes Democrats Can Provide Relief From Trump’s Iran War, Tariffs: Russell",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/iranian-army-claims-attack-on-kuwait-says-it-targeted-us-military-installations",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1794975240.0
-    },
-    {
-        "id": "64569662c6",
-        "title_fa": "اعتراضات مردمی در آبدانان پس از مرگ کارگران پالایشگاه",
-        "title_en": "Iran town erupts in protest after accident kills 13 workers",
-        "summary": [
-            "جان باختن ۱۳ کارگر پالایشگاه در تصادف جاده‌ای، موجی از خشم عمومی و تجمع اعتراضی در آبدانان به راه انداخت.",
-            "معترضان در این تجمع با سر دادن شعارهای تند علیه دیکتاتور، خواستار استعفای مدیران مسئول شدند.",
-            "نهادهای حقوق بشری از فضای امنیتی شدید و سرکوب اعتراضات در سایه بحران‌های اخیر خبر می‌دهند."
-        ],
-        "impact": "بالا گرفتن خشم عمومی و گسترش اعتراضات کارگری بهانه‌ای برای چالش جدی امنیتی برای حکومت است.",
-        "tag": "اعتراضات",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Siasat Daily",
-        "url": "https://www.siasat.com/iran-town-erupts-in-protest-after-accident-kills-13-workers-3580618/",
-        "clean_url": "https://www.siasat.com/iran-town-erupts-in-protest-after-accident-kills-13-workers-3580618",
-        "image": "http://www.bing.com/th?id=ONUT.vzV0Q5ov8r32p30tylT-Mg&pid=News",
-        "timestamp": 1794974400.0
     }
 ]
