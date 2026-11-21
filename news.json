@@ -309,6 +309,25 @@
         "timestamp": 1795248240.0
     },
     {
+        "id": "903dcae6ec",
+        "title_fa": "روایت شاهد عینی از سرکوب خونین اعتراضات رشت",
+        "title_en": "‘The city smelled of blood’: Witness recalls Iran protest crackdown",
+        "summary": [
+            "شلیک مستقیم و هدفمند نیروهای امنیتی به معترضان غیرمسلح در خیابان‌ها و کوچه‌های رشت.",
+            "استفاده از ترفند شلیک از خودروهای در حال حرکت برای ایجاد رعب و وحشت در میان مردم.",
+            "بازتاب گسترده فراخوان شاهزاده ر‌ضا پـهلوی و موج جدید همبستگی خیابانی در شمال کشور."
+        ],
+        "impact": "افشای ابعاد سرکوب خیابانی موجب واکنش شدید جوامع حقوق بشری و ریزش بیشتر مشروعیت حکومت می‌شود.",
+        "tag": "اعتراضات",
+        "urgency": 7,
+        "sentiment": -0.85,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611214728",
+        "clean_url": "https://www.iranintl.com/en/202611214728",
+        "image": "http://www.bing.com/th?id=ONUT.Qe7tZkhxG_zCL7BFAahc3A&pid=News",
+        "timestamp": 1795246680.0
+    },
+    {
         "id": "b606455dcc",
         "title_fa": "تحریم چهار تبعه ایرانی به جرم انتقال درآمدهای نفتی",
         "title_en": "US Sanctions Four Iranian Nationals Over Oil Revenue Transfers",
@@ -5477,23 +5496,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/ar-AA2hHGSn",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hHOOY.img?w=940&h=529&m=4&q=75",
         "timestamp": 1795014900.0
-    },
-    {
-        "id": "f9549a42c4",
-        "title_fa": "حمله مجدد نیروهای اوکراینی به پل کریمه",
-        "title_en": "Crimean Bridge comes under another attack by Ukrainian troops",
-        "summary": [
-            "نیروهای اوکراینی بار دیگر پل حیاتی کریمه را هدف حملات خود قرار دادند.",
-            "مقام‌های محلی مسکو توقف موقت ترافیک روی این پل را تایید کردند."
-        ],
-        "impact": "اختلال در ترابری و افزایش تنش‌های نظامی در جبهه مسکو و کی‌یف.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/emergencies/2220833",
-        "clean_url": "https://tass.com/emergencies/2220833",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261119/1493579.jpg",
-        "timestamp": 1795013640.0
     }
 ]
