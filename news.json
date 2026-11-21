@@ -421,6 +421,24 @@
         "timestamp": 1795233726.0
     },
     {
+        "id": "cd9114796e",
+        "title_fa": "هدف قرار گرفتن خودروی توزیع کمک در غزه توسط اسرائیل",
+        "title_en": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+        "summary": [
+            "حمله هوایی اسرائیل به خودروی حامل کمک‌های بشردوستانه منجر به کشته شدن سه نفر شد.",
+            "تکرار حوادث هدف‌گیری کاروان‌های امدادی، فشار بین‌المللی بر تل‌آویو را برای رعایت پروتکل‌های جنگی افزایش می‌دهد."
+        ],
+        "impact": "تشدید بحران انسانی و افزایش فشارهای دیپلماتیک بر اسرائیل برای توقف عملیات در مناطق غیرنظامی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/11/21/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/21/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say",
+        "image": "https://vid.alarabiya.net/images/2024/04/03/5b6b3f56-04d7-482c-b1f8-a8a003d7280a/5b6b3f56-04d7-482c-b1f8-a8a003d7280a_16x9_600x338.JPG",
+        "timestamp": 1795233480.0
+    },
+    {
         "id": "8117a56bed",
         "title_fa": "تاکید وزیر خزانه‌داری آمریکا بر تداوم فشار اقتصادی بر ایران",
         "title_en": "Treasury Secretary Bessent insists US will continue squeezing Iran’s economy",
@@ -5479,23 +5497,5 @@
         "clean_url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795010460.0
-    },
-    {
-        "id": "1e075f527f",
-        "title_fa": "جهش سهام انویدیا و امیدواری به بازگشت وال‌استریت",
-        "title_en": "Upbeat Nvidia Results, Guidance May Lead To Initial Rebound On Wall Street",
-        "summary": [
-            "گزارش مالی فراتر از انتظار انویدیا و افزایش پیش‌بینی درآمد، نگرانی‌های بازار را کاهش داد.",
-            "رشد سهام این شرکت در معاملات پیش از بازار، موج مثبتی در بورس آمریکا ایجاد کرده است."
-        ],
-        "impact": "گزارش مالی انویدیا ورق را به نفع بازار سهام برگشت داد و اعتماد سرمایه‌گذاران را احیا کرد.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": 0.8,
-        "source": "RTTNews",
-        "url": "https://www.rttnews.com/3715953/upbeat-nvidia-results-guidance-may-lead-to-initial-rebound-on-wall-street.aspx",
-        "clean_url": "https://www.rttnews.com/3715953/upbeat-nvidia-results-guidance-may-lead-to-initial-rebound-on-wall-street.aspx",
-        "image": "https://cdn.rttnews.com/images/v4/RTTNews-logo-512x512.png",
-        "timestamp": 1795010280.0
     }
 ]
