@@ -564,6 +564,24 @@
         "timestamp": 1795237536.0
     },
     {
+        "id": "a92372495a",
+        "title_fa": "ترس از خاموشی مطلق؛ هجوم آمریکایی‌ها برای خرید اقلام اضطراری",
+        "title_en": "Tech outages are fueling a new doomsday economy",
+        "summary": [
+            "اختلالات مکرر فناوری و قطعی‌های اخیر، موجی از نگرانی عمومی درباره حملات سایبری و ناپایداری شبکه برق ایجاد کرده است.",
+            "مردم با وجود تکذیب مقامات، به خرید و انبار کردن سوخت، غذای خشک و تجهیزات بقا روی آورده‌اند تا برای بحران احتمالی آماده باشند."
+        ],
+        "impact": "افزایش تقاضا برای کالاهای اضطراری و رشد نااطمینانی اقتصادی در میان شهروندان آمریکایی.",
+        "tag": "اقتصادی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+        "clean_url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+        "image": "http://www.bing.com/th?id=ONUT.R4kvvfpFDcVAgXoWaBAKYg&pid=News",
+        "timestamp": 1795237200.0
+    },
+    {
         "id": "7cc5f267f3",
         "title_fa": "آینده صنعت نفت تگزاس در سایه تحولات سیاسی",
         "title_en": "Texas oil has relied on Republicans. What does a blue wave mean for the industry?",
@@ -5475,24 +5493,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aZ0t6WHp1N19QdUZ3QU9YRkUyUFM2UXNzYURyYlVYZnhhMUxzNEJJQU5DbjF2U05ZX1hCRnFtb2tVSEt0RXB5bXlWUmxUSm1TTk9UUGR5SGlDSzIyUXNXbUlYOTg5Tk14TjRjX2p1SXNQSFVtVXVCRHR3",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795017851.0
-    },
-    {
-        "id": "0e68558a97",
-        "title_fa": "بازی دو سر باخت مسکو؛ چرا کرملین مخالف پایان درگیری است؟",
-        "title_en": "DW News. . Vladimir Putin's Russia and Iran have strengthened their alliance in recent years. Despite their close ties, the Kremlin has little incentive to push for a rapid end to the conflict, especially as instability in the Strait of Hormuz creates new opportunities f",
-        "summary": [
-            "مسکو و تهران در سال‌های اخیر روابط نظامی و سیاسی خود را عمیق‌تر کرده‌اند.",
-            "ناامنی در تنگه هرمز و بحران‌های خاورمیانه منافع اقتصادی و راهبردی کلانی برای کرملین ایجاد کرده است.",
-            "کرملین تمایلی به پایان سریع تنش‌ها ندارد زیرا از بحران موجود برای کاهش فشار غرب بهره می‌برد."
-        ],
-        "impact": "تداوم تنش منطقه‌ای به نتمام منافع ژئوپلیتیک مسکو تمام می‌شود.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkxyOTViRENaQklyTUh0dVA0MWFKZTFWX0VYNnNPaU5PUEh3cko0TEc0NWoyZFd2SWo2NEk5VERMdWxNV09ieV9QcUNpbC1aNGpFUWIyTHZGRlgtWk9TZ1BsWFMxSzB0cHhZN1pUWWVYVEZ2bEFxUFAzR0RwTDU4a0dIX2ZxekxxelVYSnVpb05RcVRqWTVoS2gyamFZMFZleGpJUjlVc1JMQndWSWRGXzE2emJlUGo0dm1uVWNjN05NUlphaE1WVFM2VkYydkpTVGI5alhLUGZGY1gzNmh3cXdB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkxyOTViRENaQklyTUh0dVA0MWFKZTFWX0VYNnNPaU5PUEh3cko0TEc0NWoyZFd2SWo2NEk5VERMdWxNV09ieV9QcUNpbC1aNGpFUWIyTHZGRlgtWk9TZ1BsWFMxSzB0cHhZN1pUWWVYVEZ2bEFxUFAzR0RwTDU4a0dIX2ZxekxxelVYSnVpb05RcVRqWTVoS2gyamFZMFZleGpJUjlVc1JMQndWSWRGXzE2emJlUGo0dm1uVWNjN05NUlphaE1WVFM2VkYydkpTVGI5alhLUGZGY1gzNmh3cXdB",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795017757.0
     }
 ]
