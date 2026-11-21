@@ -1,5 +1,24 @@
 [
     {
+        "id": "58fd774d23",
+        "title_fa": "حمله موشکی و پهپادی س-پ-ا-ه به پایگاه‌های آمریکایی در بحرین",
+        "title_en": "Bahrain reports 2nd Iranian attack tonight; IRGC says it launched combined missile-and-drone attack on US bases",
+        "summary": [
+            "بحرین از دفع دومین موج حملات هوایی منسوب به ای-را-ن در یک شب خبر داد.",
+            "پدافند هوایی بحرین موفق به رهگیری بخشی از این پرنده‌ها شد اما سقوط ترکش‌ها خسارت به بار آورد.",
+            "فرماندهی نظامی س-پ-ا-ه رسماً مسئولیت این تهاجم ترکیبی به مواضع آمریکا را بر عهده گرفت."
+        ],
+        "impact": "تشدید تنش‌های نظامی در خلیج فارس و بالا رفتن احتمال درگیری مستقیم منطقه‌ای.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/bahrain-reports-2nd-iranian-attack-tonight-irgc-says-it-launched-combined-missile-and-drone-attack-on-us-bases/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/bahrain-reports-2nd-iranian-attack-tonight-irgc-says-it-launched-combined-missile-and-drone-attack-on-us-bases",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AFP__20261121__D8887T4__v1__HighRes__UkraineRussiaConflictWar-640x400.jpg",
+        "timestamp": 1795296780.0
+    },
+    {
         "id": "2b7284a723",
         "title_fa": "دست‌پاچگی تـورکـمـن‌سـرا در برابر واشنگتن از مسیر دوحه",
         "title_en": "Iran says held talks with Qatari mediators, urges US to accept conditions",
@@ -5473,24 +5492,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/saudis-preparing-for-yemen-campaign-to-last-months-pushing-off-global-events-as-houthis-advance/ar-AA2hHyBK",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26321506786387.jpg",
         "timestamp": 1795039500.0
-    },
-    {
-        "id": "ae3ee70458",
-        "title_fa": "هماهنگی نظامی آمریکا و اسرائیل برای ضربه جدید به ج.ا",
-        "title_en": "US Military Chief Meets IDF, Mossad Heads as Israel Considers Renewed Iran Strikes",
-        "summary": [
-            "سفر رئیس ستاد مشترک ارتش آمریکا به تل‌آویو نشان‌دهنده چراغ سبز واشنگتن برای دور جدید عملیات علیه اهداف نظامی در ایران است.",
-            "دیدار با روسای ارتش و موساد یعنی طرح‌های عملیاتی برای هدف قرار دادن زیرساخت‌های کلیدی ج.ا از مرحله حرف عبور کرده است.",
-            "تداوم این رایزنی‌ها ثابت می‌کند که بازدارندگی ج.ا در برابر حملات مستقیم اسرائیل به شدت فروپاشیده است."
-        ],
-        "impact": "افزایش احتمال حملات دقیق و گسترده به مراکز حساس نظامی و اتمی در خاک ایران.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Media Line",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVIxVkNVbGhMQnRER0FKeERLcXU5bVFRLXVIQzhHTWRDQW9hWnpodEdyaTBjaERhTl9FQWdrYzFUNUlNNXF6MzBjTGhBTnMydUdmODl5cjRybjNqNXpIUXFxaExXRVF3N2FYT2ZLYWJwd2kwSzI1RUlJUzV3OGpUZEhKdjduNVhoUUhiaF9jNlRfQm1reUdpampNWUtwaVA4ZGxJNkJZMk9BTExoVldVZU9JcFVMY3oz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVIxVkNVbGhMQnRER0FKeERLcXU5bVFRLXVIQzhHTWRDQW9hWnpodEdyaTBjaERhTl9FQWdrYzFUNUlNNXF6MzBjTGhBTnMydUdmODl5cjRybjNqNXpIUXFxaExXRVF3N2FYT2ZLYWJwd2kwSzI1RUlJUzV3OGpUZEhKdjduNVhoUUhiaF9jNlRfQm1reUdpampNWUtwaVA4ZGxJNkJZMk9BTExoVldVZU9JcFVMY3oz",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795038297.0
     }
 ]
