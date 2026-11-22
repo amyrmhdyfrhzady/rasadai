@@ -330,6 +330,25 @@
         "timestamp": 1795352772.0
     },
     {
+        "id": "7686a6d697",
+        "title_fa": "خیز جان آساف برای انتخابات ۲۰۲۸ آمریکا",
+        "title_en": "Ossoff's expanding coalition in Georgia fuels 2028 presidential buzz — even if he says he's not running",
+        "summary": [
+            "پیروزی قاطع آساف در جورجیا، او را به گزینه اصلی دموکرات‌ها برای رقابت‌های ریاست‌جمهوری آینده تبدیل کرده است.",
+            "نظرسنجی‌ها نشان می‌دهد آساف توانسته با جذب طیف‌های مختلف، از چهره‌های شناخته‌شده‌ای مثل هریس و نیوسام پیشی بگیرد.",
+            "با وجود تکذیب‌های فعلی، ساختار ائتلاف انتخاباتی او نشان‌دهنده برنامه‌ریزی دقیق برای ورود به کاخ سفید است."
+        ],
+        "impact": "تغییر در آرایش سیاسی حزب دموکرات و ظهور نسل جدیدی از رهبران میانه‌رو.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/",
+        "clean_url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win",
+        "image": "http://www.bing.com/th?id=ONUT.QwAldqNgoVpWI5rkgyOYgw&pid=News",
+        "timestamp": 1795352760.0
+    },
+    {
         "id": "10940a5359",
         "title_fa": "چالش حقوقی میان کاخ سفید و کنگره بر سر تحقیقات",
         "title_en": "Column: It’s not a crime for Congress to investigate the president",
@@ -436,6 +455,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLcl9PN01Nc25wUDluZGJEd1FOckFRdlJSSk40Q2hlZGFjdFU2YklKUThSSlpPUUVVdDR0LTBBbU5lSTFPMWpYczZ4d2RELTFHdUFDZlcyem9mcXRfcHprWWhXcC1FUk13WUpLakpvWE9OS3F6YU1XeklB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795349490.0
+    },
+    {
+        "id": "ccb0fef5fa",
+        "title_fa": "چرخش استراتژیک ترامپ؛ نشست سه‌جانبه با پوتین و شی",
+        "title_en": "CNN Puts Intelligence Director In The Hot Seat After Trump’s Putin Comment",
+        "summary": [
+            "ترامپ با انتشار تصاویر دوستانه با پوتین و شی، عملاً ساختار سنتی تقابل با روسیه و چین را به چالش کشید.",
+            "مدیر اطلاعات ملی آمریکا در پاسخ به سوالات صریح درباره ماهیت رابطه با پوتین، از موضع‌گیری مستقیم طفره رفت.",
+            "توافق برای عدم تشدید تنش میان سه قدرت هسته‌ای، اولویت اصلی تیم ترامپ در سیاست خارجی جدید است."
+        ],
+        "impact": "تغییر موازنه قدرت جهانی و تضعیف اتحادهای سنتی واشنگتن علیه مسکو و پکن.",
+        "tag": "سیاست خارجی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/cnn-dana-bash-grills-jay-clayton-trump-friends-putin_n_6b0318c8e4b0edd18edf5238",
+        "clean_url": "https://www.huffpost.com/entry/cnn-dana-bash-grills-jay-clayton-trump-friends-putin_n_6b0318c8e4b0edd18edf5238",
+        "image": "http://www.bing.com/th?id=ONUT.JX449qJwCg_1Y_8qnWlI5A&pid=News",
+        "timestamp": 1795349100.0
     },
     {
         "id": "837a92d96e",
@@ -620,6 +658,24 @@
         "clean_url": "https://www.newsweek.com/doomsday-fears-outages-bunkers-for-sale-12737466",
         "image": "http://www.bing.com/th?id=ONUT.4H_aYSTwMIrrX33NX0HKzA&pid=News",
         "timestamp": 1795340700.0
+    },
+    {
+        "id": "2857fb95f3",
+        "title_fa": "شکست مذاکرات جهانی اقلیم زیر فشار تقاضای انرژی",
+        "title_en": "Global climate talks have collapsed. Here’s what just happened.",
+        "summary": [
+            "گسترش مراکز داده و افزایش خودروهای برقی، تقاضای جهانی برای برق را به سطحی غیرقابل کنترل رسانده است.",
+            "تضاد میان اهداف زیست‌محیطی و نیازهای زیرساختی اقتصادهای مدرن، مذاکرات اقلیمی را به بن‌بست کشانده است."
+        ],
+        "impact": "توقف پروژه‌های سبز جهانی به دلیل اولویت یافتن تامین انرژی برای صنایع دیجیتال.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/22/global-climate-talks-have-collapsed-heres-what-just-happened-01179721",
+        "clean_url": "https://www.politico.com/news/2026/11/22/global-climate-talks-have-collapsed-heres-what-just-happened-01179721",
+        "image": "http://www.bing.com/th?id=ONUT.LU86qjNpTF3SqJAgQmHYtQ&pid=News",
+        "timestamp": 1795339620.0
     },
     {
         "id": "4383ca7f76",
@@ -5429,62 +5485,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795129208.0
-    },
-    {
-        "id": "f32f91deee",
-        "title_fa": "جنگ قدرت در صداوسیما؛ پایان دوره جبلی و سهم‌خواهی جبهه پایداری",
-        "title_en": "Video: Free Iran would benefit Britain and democratic world, UK lawmaker says",
-        "summary": [
-            "پایان دوره رئیس صداوسیما، کشمکش‌های پنهان میان جناح‌های حاکمیت بر سر کنترل تک‌رسانه دولتی را آشکارتر کرده است.",
-            "تسلط جریان تندروی موسوم به جبهه پایداری و برادران جلیلی، این سازمان را به ابزار اختصاصی «دولت سایه» و تبلیغات یک‌طرفه تبدیل کرده است.",
-            "تصمیم نهایی درباره مدیریت جدید، میزان تمایل هسته مرکزی قدرت برای حفظ یا محدود کردن نفوذ تندروها را روشن خواهد کرد."
-        ],
-        "impact": "تداوم ریزش شدید مخاطبان رسانه ملی و تعمیق شکاف در ساختار تبلیغاتی ج.ا.ا.",
-        "tag": "جنگ قدرت",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611196229",
-        "clean_url": "https://www.iranintl.com/en/202611196229",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1795128540.0
-    },
-    {
-        "id": "869bbeb2c6",
-        "title_fa": "ترامپ: فعلاً تصمیمی برای حمله به ایـران ندارم",
-        "title_en": "ترامپ: برای حمله دوباره به ایران عجله ندارم، بعد از سال نو میلادی خواهیم دید چه می‌شود",
-        "summary": [
-            "رئیس‌جمهور آمریکا در مصاحبه‌های متعدد تأکید کرد که برای هرگونه اقدام نظامی جدید عجله‌ای ندارد.",
-            "اسرائیل به شدت به دنبال کشاندن واشینگتن به درگیری نظامی گسترده است.",
-            "تعیین تکلیف نهایی درباره پرونده ایـران به بعد از آغاز سال میلادی جدید موکول شد."
-        ],
-        "impact": "سایه سنگین ابهام نظامی بر بازارهای مالی و معادلات منطقه تا سال آینده",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/trump-iran-new-strikes-decision-next-year/33902379.html",
-        "clean_url": "https://www.radiofarda.com/a/trump-iran-new-strikes-decision-next-year/33902379.html",
-        "image": "http://www.bing.com/th?id=ONUT.mHRvvHcdelJNvV1RC66KeQ&pid=News",
-        "timestamp": 1795128180.0
-    },
-    {
-        "id": "e447e7d45f",
-        "title_fa": "تهدید آشکار رسانه‌های آزاد توسط مجلس جهوری اسلامی",
-        "title_en": "Iran lawmaker calls IAEA chief a spy, opposes his entry into Iran",
-        "summary": [
-            "یک نماینده مجلس در دانشگاه تهران رسماً شبکه ایران اینتلیجنس و دیگر رسانه‌های مستقل را هدف نظامی خواند.",
-            "این موضع‌گیری تکرار تهدیدهای قبلی ستاد کل نیروهای مسلح است که بدون ارائه سند، این رسانه‌ها را به جاسوسی متهم می‌کنند.",
-            "تهدیدهای امنیتی علیه روزنامه‌نگاران در حالی مطرح می‌شود که دادگاهی در لندن اخیراً عوامل وابسته به ج.ه را به جرم عملیات تروریستی علیه خبرنگاران محکوم کرده است."
-        ],
-        "impact": "افزایش ریسک امنیتی برای خبرنگاران و تشدید فشار روانی بر رسانه‌های برون‌مرزی",
-        "tag": "رسانه",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611201677",
-        "clean_url": "https://www.iranintl.com/en/202611201677",
-        "image": "http://www.bing.com/th?id=ONUT.3YhjsJF30DEf-Wl1KkSYMw&pid=News",
-        "timestamp": 1795128060.0
     }
 ]
