@@ -220,6 +220,24 @@
         "timestamp": 1795365780.0
     },
     {
+        "id": "c4392deac8",
+        "title_fa": "رفع نقص فنی دلتا ایرلاینز؛ تکرار اختلالات زیرساختی در آمریکا",
+        "title_en": "Delta Airlines fixes equipment glitch causing US flight delays — CNN",
+        "summary": [
+            "به گزارش تاس به نقل از سی‌ان‌ان، خطوط هوایی دلتا اعلام کرد نقص فنی سیستم توزین و تعادل هواپیماها را برطرف کرده و عملیات پروازی به حالت عادی بازگشته است.",
+            "اختلال در این سیستم در کنار سایر مشکلات فنی باعث تأخیر یا لغو حدود ۶ هزار پرواز در آمریکا شد و در ادامه حوادث اخیر در اداره هوانوردی فدرال، مایکروسافت، یونایتد ایرلاینز و جی‌پی مورگان رخ داد."
+        ],
+        "impact": "بر اساس این گزارش، تکرار نقص‌های فنی پس از توقف چهار ساعته پروازهای هفته گذشته در آمریکا، عملکرد زیرساخت‌های هوانوردی این کشور را با اختلال روبه‌رو کرده است.",
+        "tag": "هوانوردی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/society/2223103",
+        "clean_url": "https://tass.com/society/2223103",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261123/1494019.jpg",
+        "timestamp": 1795361160.0
+    },
+    {
         "id": "da460ac02d",
         "title_fa": "رکوردشکنی حملات در تنگه هرمز",
         "title_en": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://www.iranintl.com/en/202611206064",
         "image": "http://www.bing.com/th?id=ONUT.8Yp2_REFv8RYt7SEVqeeTg&pid=News",
         "timestamp": 1795136340.0
-    },
-    {
-        "id": "dbb277ddf5",
-        "title_fa": "روایت خلبانان بمب‌افکن ب-۲ از حمله به تاسیسات اتمی",
-        "title_en": "'Oh my God, it’s Tehran': B-2 pilots reveal dramatic moments of attack on nuclear facilities",
-        "summary": [
-            "خلبانان آمریکایی جزئیات لحظات حساس حمله به تاسیسات اتمی ت... را فاش کردند.",
-            "عملیات با استفاده از بمب‌افکن‌های استراتژیک و تجهیزات پیشرفته انجام شده است."
-        ],
-        "impact": "افزایش جنگ روانی پیرامون آمادگی نظامی برای مقابله با برنامه اتمی ج... ا...",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yRUNyQjlNbWxtM0loWFhFX21NNHBUN0pjSmhnNWxXbXZpLXZzNTNmdmNaUHJlTHBnYW02dlc2aDlqZnpubE5fY0tEdS1tWUo5YTNFeVJKVXV0UmV6?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yRUNyQjlNbWxtM0loWFhFX21NNHBUN0pjSmhnNWxXbXZpLXZzNTNmdmNaUHJlTHBnYW02dlc2aDlqZnpubE5fY0tEdS1tWUo5YTNFeVJKVXV0UmV6",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795134623.0
     }
 ]
