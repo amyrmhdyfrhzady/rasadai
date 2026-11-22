@@ -351,6 +351,25 @@
         "timestamp": 1795333680.0
     },
     {
+        "id": "a47d9ac32a",
+        "title_fa": "بازار سیاه اسلحه در ایران؛ از فقر تا ناامنی",
+        "title_en": "Iran's former IRGC Khatam al-Anbiya deputy says nuclear fatwa can change",
+        "summary": [
+            "فروش گسترده سلاح در شبکه‌های اجتماعی نشان‌دهنده فروپاشی نظم امنیتی و افزایش بی‌اعتمادی عمومی است.",
+            "بسیاری از فروشندگان به دلیل فشارهای اقتصادی شدید، سلاح‌های قدیمی یا نظامی خود را برای تامین هزینه‌های زندگی می‌فروشند.",
+            "دسترسی آسان به سلاح در سراسر کشور، پتانسیل درگیری‌های مسلحانه داخلی و خشونت‌های خیابانی را به شدت بالا برده است."
+        ],
+        "impact": "گسترش سلاح‌های غیرمجاز در جامعه، امنیت داخلی را به سمت بی‌ثباتی و هرج‌ومرج سوق می‌دهد.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611224130",
+        "clean_url": "https://www.iranintl.com/en/202611224130",
+        "image": "http://www.bing.com/th?id=ONUT.h6TKBof1ZJsWkCS3FpeKBQ&pid=News",
+        "timestamp": 1795332480.0
+    },
+    {
         "id": "e542ed330b",
         "title_fa": "نمایش شهر موشکی زیرزمینی جـ.ـمهوری اسـ.ـلامی با پرتابگر دوگانه",
         "title_en": "Iran taunts Trump, shows off underground ‘missile city’ with new double launcher",
@@ -5472,23 +5491,5 @@
         "clean_url": "https://www.newsweek.com/john-fetterman-iran-war-powers-resolution-democrats-12742994",
         "image": "http://www.bing.com/th?id=ONUT.tIQjpZF9t0oaWKR2HWkeOg&pid=News",
         "timestamp": 1795090680.0
-    },
-    {
-        "id": "285f65be4d",
-        "title_fa": "تنگنای مالی جدید واشنگتن علیه تهران",
-        "title_en": "US Treasury to Broaden Scope of Secondary Sanctions on Iran, Source Says",
-        "summary": [
-            "خزانه‌داری آمریکا دامنه تحریم‌های ثانویه را گسترش می‌دهد.",
-            "هدف، بستن راه‌های دور زدن محدودیت‌های مالی و فروش نفت است."
-        ],
-        "impact": "فشار بر منابع ارزی ج-م-ه-و-ر-ی ا-س-لا-م-ی و تشدید بحران اقتصادی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZTTXM1eEI1WWI3c2UwSUo0Y3VzOWFaMG5hWk1CQ2RWc1RSYUdHNkxJeFZMVHQ4VWJic2pHeHJkNWMtcF9BaXVQY2JzYnZpTlZDQ1I0OXRXR19ZU2hNNG9vTnRJc2Vjc2dJSENPYTFwZGE5aURkdWRua2FMWGhIbTFQUnN1eks2LTVhazdUTjcxWEpyMUVuT1JqQUdlMlRFcTh2dg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZTTXM1eEI1WWI3c2UwSUo0Y3VzOWFaMG5hWk1CQ2RWc1RSYUdHNkxJeFZMVHQ4VWJic2pHeHJkNWMtcF9BaXVQY2JzYnZpTlZDQ1I0OXRXR19ZU2hNNG9vTnRJc2Vjc2dJSENPYTFwZGE5aURkdWRua2FMWGhIbTFQUnN1eks2LTVhazdUTjcxWEpyMUVuT1JqQUdlMlRFcTh2dg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795090278.0
     }
 ]
