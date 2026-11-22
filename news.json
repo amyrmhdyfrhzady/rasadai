@@ -460,6 +460,26 @@
         "timestamp": 1795326700.0
     },
     {
+        "id": "f99a1d07ef",
+        "title_fa": "بازی دوگانه ج.ا: حمله پهپادی همزمان با ادعای مذاکره",
+        "title_en": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+        "summary": [
+            "حوثی‌های تحت حمایت ج.ا با موشک و پهپاد زیرساخت‌های انرژی عربستان را هدف گرفتند.",
+            "بحرین از حمله مستقیم ج.ا به تاسیسات صنعتی خود خبر داد که منجر به تلفات انسانی شد.",
+            "وزیر خارجه ج.ا در حالی دم از توافق با آمریکا می‌زند که بازوهای نیابتی‌اش منطقه را به آتش کشیده‌اند.",
+            "این حملات نشان می‌دهد ج.ا برای امتیازگیری در مذاکرات احتمالی، از استراتژی فشار نظامی استفاده می‌کند."
+        ],
+        "impact": "افزایش تنش‌های امنیتی در خلیج فارس و پیچیده‌تر شدن مسیر هرگونه توافق دیپلماتیک با غرب.",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+        "clean_url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+        "image": "http://www.bing.com/th?id=ONUT.FxoF9u8753tw0r4aDzwBbA&pid=News",
+        "timestamp": 1795325100.0
+    },
+    {
         "id": "4f5f5e337d",
         "title_fa": "درخواست شفاف‌سازی درباره کاربرد هوش مصنوعی در جنگ با ایران",
         "title_en": "US senator wants clarity on AI role in US-Israel war on Iran",
@@ -5470,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTDZQOW0xT3NiQlFvbzRsQ0U3SHd1MHZZa0JUbmZvVnRoblF4WE8zX0VqbHNnSlRHUExKNkliQnl4VkdNMWk0VlJ4WnA3RGwtcm5wc01jbTNpYW8ydXc0YXdjVkFOd2NFNzN0WFB3SGZLTFFHcmp5c19Hbm1MUFVHQmZtZXRrSmtEVGlrWW9ERVhLQWZtQ2hUOFdfMWFUTEFfeUdUQy0wbEVwQjA2Z1dQMw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795089923.0
-    },
-    {
-        "id": "92b98d0ff2",
-        "title_fa": "واشنگتن پست: پرونده انویدیا و تشدید کنترل صادرات به چین",
-        "title_en": "Nvidia scandal could be tipping point toward tougher export control enforcement",
-        "summary": [
-            "روزنامه واشنگتن پست گزارش داد جنجال اخیر پیرامون شرکت انویدیا می‌تواند به نقطه عطفی برای اجرای سخت‌گیرانه‌تر قوانین کنترل صادرات آمریکا تبدیل شود.",
-            "به نوشته این روزنامه، ایالات متحده دهه‌هاست در ایجاد تعادل میان تمایل شرکت‌های آمریکایی برای سودآوری در بازار بزرگ چین و الزامات امنیت ملی خود با دشواری روبه‌رو است."
-        ],
-        "impact": "سخت‌گیری بیشتر در اجرای کنترل‌های صادراتی می‌تواند دسترسی غول‌های فناوری آمریکا به بازار چین و حاشیه سود آن‌ها را محدودتر کند.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement/",
-        "clean_url": "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement",
-        "image": "http://www.bing.com/th?id=ONUT.rZltRBpc90ylCw6GJ9-K8w&pid=News",
-        "timestamp": 1795089660.0
     }
 ]
