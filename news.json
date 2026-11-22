@@ -349,6 +349,24 @@
         "timestamp": 1795341480.0
     },
     {
+        "id": "ff69574ab5",
+        "title_fa": "هراس از جنگ و فروپاشی؛ هجوم مردم به پناهگاه‌سازی",
+        "title_en": "As Doomsday Fears Grow Amid Outages: Demand Spikes for Homes With Bunkers",
+        "summary": [
+            "افزایش تقاضا برای خرید خانه‌های امن و پناهگاه در پی تنش‌های نظامی با ج.ا",
+            "تلاش دولت برای آرام کردن فضای روانی جامعه و رد احتمال فروپاشی شبکه برق"
+        ],
+        "impact": "تغییر رفتار مصرف‌کننده و افزایش اضطراب اجتماعی نسبت به درگیری‌های منطقه‌ای.",
+        "tag": "اجتماعی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/doomsday-fears-outages-bunkers-for-sale-12737466",
+        "clean_url": "https://www.newsweek.com/doomsday-fears-outages-bunkers-for-sale-12737466",
+        "image": "http://www.bing.com/th?id=ONUT.4H_aYSTwMIrrX33NX0HKzA&pid=News",
+        "timestamp": 1795340700.0
+    },
+    {
         "id": "4383ca7f76",
         "title_fa": "ادعای سرنگونی پهپاد جاسوسی آمریکا توسط ایران در تنگه هرمز",
         "title_en": "Iran claims it downed US MQ-1 drone near Hormuz",
@@ -365,6 +383,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFE2R3RRMVNwZGd3U1dxdnV4eTNLQ1gwaGZtbHZoQ3ZKMHQ2UkNEX2p4bEI5VXhoRGNWTURpeVBjRFpKdTlpTlZCeVdFVGNhR25zaEhJU2V4MDBZZjRVZ0tFbWRJRHZBX1FtOG1ObDVUTVBvWm5yc3FVbmVXQXJzRGlNWGRRbGhLYndqSC1QTmsxSlhWM2Fn",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795339252.0
+    },
+    {
+        "id": "acace6dda4",
+        "title_fa": "تلاش جمهوری اسلامی برای دور زدن محاصره دریایی با نفتکش‌ها",
+        "title_en": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report",
+        "summary": [
+            "استقرار ۱۴ نفتکش در پایانه اصلی صادراتی برای خروج از بن‌بست فروش نفت",
+            "تلاش برای احیای درآمدهای نفتی در سایه فشارهای حداکثری و محاصره دریایی آمریکا"
+        ],
+        "impact": "تلاش برای شکستن تحریم‌های نفتی که می‌تواند منجر به تقابل مستقیم در خلیج فارس شود.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "New York Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-amasses-14-oil-tankers-at-key-export-hub-as-tehran-weighs-challenge-to-us-blockade-report/ar-AA2hYQxU",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-amasses-14-oil-tankers-at-key-export-hub-as-tehran-weighs-challenge-to-us-blockade-report/ar-AA2hYQxU",
+        "image": "http://www.bing.com/th?id=ONUT.mIFx2WwRxSMF5mBi4jxzBg&pid=News",
+        "timestamp": 1795338661.0
     },
     {
         "id": "b0b13584e7",
@@ -808,6 +844,24 @@
         "clean_url": "https://www.iranintl.com/en/202611223193",
         "image": "http://www.bing.com/th?id=ONUT.F1l92M-M-vWBsVABk64JBQ&pid=News",
         "timestamp": 1795324620.0
+    },
+    {
+        "id": "85222b88c6",
+        "title_fa": "افزایش وحشت عمومی از حملات سایبری به زیرساخت‌های آمریکا",
+        "title_en": "What a Doomsday Cyberattack Could Look Like",
+        "summary": [
+            "وقوع قطعی‌های زنجیره‌ای در سیستم‌های مایکروسافت، هوانوردی و بانک‌ها",
+            "ترس از آسیب‌پذیری زیرساخت‌های حیاتی در برابر حملات سایبری گسترده"
+        ],
+        "impact": "ایجاد ناامنی روانی و فشار بر دولت برای تقویت امنیت سایبری زیرساخت‌ها.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/cyber-attack-doomsday-tech-outages-possible-scenarios-12749962",
+        "clean_url": "https://www.newsweek.com/cyber-attack-doomsday-tech-outages-possible-scenarios-12749962",
+        "image": "http://www.bing.com/th?id=ONUT.3YXs8qHfGcV_cSWDhXyUbA&pid=News",
+        "timestamp": 1795323540.0
     },
     {
         "id": "88b6b66481",
@@ -5432,61 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Gd2FpZU1SWG5nOEdoTGVEcFVIeVZJQ0V3cTkwS3RrYks1QlBmblFrd0UxTEhYS0JIMXJnRXE0YjJHQXlIcUZ5Z2lJVC1UeEFoZ1hZamU1WUJ4T1pDSkcxeVhtOEN4ZlQxOGVnREQwbGczTE5lUF8w",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795113080.0
-    },
-    {
-        "id": "6d1199bccb",
-        "title_fa": "ترامپ: برای تصمیم‌گیری درباره ج.ا عجله‌ای ندارم",
-        "title_en": "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
-        "summary": [
-            "ترامپ با اتخاذ رویکردی حساب‌شده، از پاسخ‌های هیجانی فاصله گرفته تا کارت‌های بازی خود را در برابر تهران حفظ کند.",
-            "این موضع‌گیری نشان می‌دهد که تیم ترامپ در حال بررسی گزینه‌های فشار حداکثری است و نمی‌خواهد پیش از استقرار کامل، دستش را برای نظام رو کند."
-        ],
-        "impact": "ایجاد فضای ابهام و انتظار در بازارهای مالی و محاسبات امنیتی تهران.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQ3JETnMxanJVS0VoTV9QamhmVjROY05FNGpONW1lcXUxSGRFWld5c2JhMWdaa180WUdWWFpKWGFiSmIzNzZseUw4MGJTczRVOGFLaVRVNUxmTXRSLW03MF8yUUZDQnJzdGp5VElXMVhrNC1SNGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQ3JETnMxanJVS0VoTV9QamhmVjROY05FNGpONW1lcXUxSGRFWld5c2JhMWdaa180WUdWWFpKWGFiSmIzNzZseUw4MGJTczRVOGFLaVRVNUxmTXRSLW03MF8yUUZDQnJzdGp5VElXMVhrNC1SNGc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795112866.0
-    },
-    {
-        "id": "e06d426052",
-        "title_fa": "هشدار نتانیاهو درباره جنگ با ایران؛ پنتاگون گزینه‌ها را می‌سنجد",
-        "title_en": "Netanyahu reportedly tells aides renewed war with Iran 'unavoidable' as Trump weighs options",
-        "summary": [
-            "بر اساس گزارش تایمز آو اسرائیل، بنیامین نتانیاهو به دستیاران خود گفته که وقوع جنگ دوباره با ایران «اجتناب‌ناپذیر» است.",
-            "به نوشته این رسانه، دونالد ترامپ از پنتاگون و نهادهای اطلاعاتی آمریکا خواسته بررسی کنند آیا امکان حمله به ایران بدون ایجاد خطر برای زیرساخت‌های انرژی خلیج فارس وجود دارد.",
-            "درخواست این ارزیابی اطلاعاتی، نگرانی واشنگتن از واکنش احتمالی تهران به تاسیسات نفتی و گازی منطقه را در محاسبات نظامی برجسته می‌کند."
-        ],
-        "impact": "طرح سناریوهای حمله نظامی و حفاظت از تاسیسات انرژی، سطح تنش‌های امنیتی در خلیج فارس و نگرانی بازارهای نفت را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/netanyahu-reportedly-tells-aides-renewed-war-with-iran-unavoidable-as-trump-weighs-options/",
-        "clean_url": "https://www.timesofisrael.com/netanyahu-reportedly-tells-aides-renewed-war-with-iran-unavoidable-as-trump-weighs-options",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261118YS48-e1795108705841.jpg",
-        "timestamp": 1795112820.0
-    },
-    {
-        "id": "2586337380",
-        "title_fa": "بحران ناترازی گاز؛ فلج شدن صنایع سیمان و فولاد جـ.ـهـ.ـمـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلـ.ـاـ.ـمـ.ـی",
-        "title_en": "Tanker loads Iranian crude in Persian Gulf as Tehran weighs resuming exports",
-        "summary": [
-            "کمبود روزانه گاز در جـ.ـهـ.ـمـ.ـوـ.ـرـ.ـی اـ.ـسـ.ـلـ.ـاـ.ـمـ.ـی به رقم بی‌سابقه ۴۳۰ میلیون متر مکعب رسید.",
-            "آسیب به زیرساخت‌های انرژی در کنار ناترازی شدید، تولید فولاد و سیمان را به آستانه تعطیلی کشانده است.",
-            "کارخانجات سیمان به سوخت مازوت روی آورده‌اند اما واحدهای فولادسازی وابستگی شدیدی به گاز طبیعی دارند و با توقف کامل مواجه‌اند."
-        ],
-        "impact": "فلج شدن بخش عمده‌ای از تولید صنعتی و تشدید بحران اقتصادی.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611192862",
-        "clean_url": "https://www.iranintl.com/en/202611192862",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/ff24505305f1ce5468e3a73e5cbcf1fa04ea4627-1280x853.png?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1795112400.0
     }
 ]
