@@ -343,6 +343,25 @@
         "timestamp": 1795276445.0
     },
     {
+        "id": "a9b3c6481b",
+        "title_fa": "ادعای ارتش ایران درباره هدف‌گیری جنگنده اف-۱۶ و تکذیب آمریکا",
+        "title_en": "Iran's army claims it damaged US F-16 over Gulf, forcing emergency landing; US military denies",
+        "summary": [
+            "به گزارش تایمز آو اسرائیل، ارتش ایران و رسانه‌های دولتی این کشور مدعی شدند پدافند هوایی ایران یک جنگنده اف-۱۶ آمریکا را بر فراز خلیج فارس با موشک هدف قرار داده و باعث فرود اضطراری آن در فرودگاهی نزدیک شده است.",
+            "ارتش ایالات متحده این ادعا را به‌طور رسمی تکذیب کرده و گزارش‌های منتشرشده درباره آسیب دیدن جنگنده خود را رد می‌کند.",
+            "رسانه‌های رسمی ایران هم‌زمان با طرح این ادعا، ویدیویی را منتشر کرده‌اند که مدعی‌اند لحظه این حادثه را نشان می‌دهد."
+        ],
+        "impact": "طرح این ادعا از سوی ایران و تکذیب فوری ارتش آمریکا، فضای تنش نظامی و جنگ روایت‌ها در خلیج فارس را افزایش داده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/irans-army-claims-it-damaged-us-f-16-over-gulf-forcing-emergency-landing-no-immediate-comment-from-us-military/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/irans-army-claims-it-damaged-us-f-16-over-gulf-forcing-emergency-landing-no-immediate-comment-from-us-military",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795276140.0
+    },
+    {
         "id": "79f85268cd",
         "title_fa": "پایداری تنش‌های خاورمیانه فراتر از معادلات سیاسی",
         "title_en": "A Tale of Two Ballots: Why the Iran War Will Outlast Both",
@@ -5464,23 +5483,5 @@
         "clean_url": "https://www.iranintl.com/202611194944",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1795057920.0
-    },
-    {
-        "id": "364554d984",
-        "title_fa": "کنترل کامل تنگه هرمز در دستان ارتش آمریکا",
-        "title_en": "ترامپ پس از پایان نشست سه‌جانبه، شنژن را ترک کرد",
-        "summary": [
-            "دونالد ترامپ تاکید کرد که ایالات متحده بدون نیاز به کمک پکن و مسکو، توان نظامی جـمهوری اسـلامی شامل نیروی دریایی، هوایی و پدافند را کاملاً در هم شکسته است.",
-            "با وجود اختلال در انتقال نفت از تنگه هرمز بر اثر درگیری‌ها، واشینگتن کنترل کامل این آبراه حیاتی را حفظ کرده است."
-        ],
-        "impact": "تثبیت تسلط نظامی آمریکا بر آب‌های خلیج فارس و ناامیدی تهران از حمایت موثر چین و روسیه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": 0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611198453",
-        "clean_url": "https://www.iranintl.com/202611198453",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1795055820.0
     }
 ]
