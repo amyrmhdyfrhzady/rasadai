@@ -333,6 +333,25 @@
         "timestamp": 1795325100.0
     },
     {
+        "id": "88b6b66481",
+        "title_fa": "اعتصاب سراسری رانندگان کامیون در اعتراض به وضعیت معیشتی",
+        "title_en": "Truck drivers strike across Iran over economic hardship",
+        "summary": [
+            "رانندگان در شهرهای مختلف از جمله شیراز، چابهار و دزفول در اعتراض به هزینه‌های کمرشکن و نرخ‌های ناعادلانه باربری دست از کار کشیدند.",
+            "این اعتراضات نشان‌دهنده خشم عمومی از ناکارآمدی مسئولان ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی در مدیریت بحران‌های اقتصادی است.",
+            "تداوم این اعتصابات می‌تواند زنجیره تأمین کالا در کشور را با اختلال جدی مواجه کند."
+        ],
+        "impact": "اختلال در شبکه توزیع کالا و افزایش فشار بر بدنه اقتصادی حاکمیت.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611222553",
+        "clean_url": "https://www.iranintl.com/en/202611222553",
+        "image": "http://www.bing.com/th?id=ONUT._zFljF2yhje4eiUTO73E0Q&pid=News",
+        "timestamp": 1795322820.0
+    },
+    {
         "id": "00c2e865b1",
         "title_fa": "لغو رویداد دانشجویی به دلیل حضور گروه یهودی در نیویورک",
         "title_en": "NYC college put on notice after Jewish campus group shunned by student government: 'rude awakening'",
@@ -5466,23 +5485,5 @@
         "clean_url": "https://www.politico.com/news/2026/11/19/fossil-fuels-score-2-wins-5000-miles-apart-01175305",
         "image": "http://www.bing.com/th?id=ONUT.qhjkeDzD3F9Zl299JwXGow&pid=News",
         "timestamp": 1795080780.0
-    },
-    {
-        "id": "1c7a9cadb4",
-        "title_fa": "تعویق تصمیم‌گیری ترامپ درباره ایران به سال آینده",
-        "title_en": "Trump says no rush on Iran decision, looks to next year",
-        "summary": [
-            "دونالد ترامپ اعلام کرد برای تصمیم‌گیری درباره حملات جدید علیه ج.ا عجله‌ای ندارد.",
-            "زمان‌بندی اقدامات واشنگتن به سال آینده موکول شد."
-        ],
-        "impact": "این تعویق زمانی، فضا را برای چانه‌زنی‌های دیپلماتیک و فشارهای اقتصادی بیشتر باز نگه می‌دارد.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "The News & Observer",
-        "url": "https://www.newsobserver.com/news/nation-world/world/article318154083.html",
-        "clean_url": "https://www.newsobserver.com/news/nation-world/world/article318154083.html",
-        "image": "http://www.bing.com/th?id=ONUT.1j5OR6vTGgAPq_HpQIIE6w&pid=News",
-        "timestamp": 1795080540.0
     }
 ]
