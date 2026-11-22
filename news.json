@@ -333,6 +333,24 @@
         "timestamp": 1795325100.0
     },
     {
+        "id": "00c2e865b1",
+        "title_fa": "لغو رویداد دانشجویی به دلیل حضور گروه یهودی در نیویورک",
+        "title_en": "NYC college put on notice after Jewish campus group shunned by student government: 'rude awakening'",
+        "summary": [
+            "شورای دانشجویی یکی از دانشگاه‌های نیویورک برنامه فرهنگی را پس از اعتراض گروه‌های تندرو لغو کرد.",
+            "گروه‌های حامی فلسطین در این اقدام و فشار برای حذف تشکل یهودی نقش داشتند."
+        ],
+        "impact": "افزایش تنش‌های هویت‌محور و اعتراضات علیه تبعیض در محیط‌های دانشگاهی آمریکا.",
+        "tag": "اجتماعی",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/nyc-college-put-notice-jewish-campus-group-shunned-student-government-rude-awakening",
+        "clean_url": "https://www.foxnews.com/politics/nyc-college-put-notice-jewish-campus-group-shunned-student-government-rude-awakening",
+        "image": "http://www.bing.com/th?id=ONUT.pBNK6tD5mb13KiVModvGxg&pid=News",
+        "timestamp": 1795320000.0
+    },
+    {
         "id": "2c328a377b",
         "title_fa": "ریزش بازارهای مالی آمریکا و شعله‌ور شدن بحران‌های جهانی",
         "title_en": "Sunday, November 22, 2026｜大谷昇治",
@@ -513,6 +531,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRcXlYS3RlcVdiMlVieDYxTWlNYk9Kb3BMV1pzdW1qVDlWdEluRTh5cFljbFVMWTMyWnpnX3pQWmo3akt6Q0NqOWVuME43SGNmNnZmZm5ldw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795313936.0
+    },
+    {
+        "id": "afbce8ed54",
+        "title_fa": "هشدار مقام‌های آمریکایی درباره امنیت سایبری پس از قطعی‌های اخیر",
+        "title_en": "After flurry of tech outages, CT officials say vigilance needed",
+        "summary": [
+            "مقام‌های ایالتی و فدرال آمریکا نسبت به تکرار اختلالات گسترده در بخش فناوری ابراز نگرانی کردند.",
+            "شرکت‌های بزرگ و خطوط هوایی در ماه‌های گذشته هدف قطعی‌های فنی و مشکلات نرم‌افزاری قرار گرفته‌اند."
+        ],
+        "impact": "افزایش نظارت امنیتی بر زیرساخت‌های حیاتی و سیستم‌های مالی و حمایتی.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Hartford Courant",
+        "url": "https://www.courant.com/2026/11/22/after-flurry-of-tech-outages-ct-officials-say-vigilance-needed/",
+        "clean_url": "https://www.courant.com/2026/11/22/after-flurry-of-tech-outages-ct-officials-say-vigilance-needed",
+        "image": "http://www.bing.com/th?id=ONUT.K8pkmhQOXdO8DDrj1JZkDQ&pid=News",
+        "timestamp": 1795313820.0
     },
     {
         "id": "c6caad9b53",
@@ -5447,41 +5483,5 @@
         "clean_url": "https://tass.com/world/2221191",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261119/1493685.jpg",
         "timestamp": 1795079640.0
-    },
-    {
-        "id": "3314c6c1ab",
-        "title_fa": "نشست سه‌جانبه ترامپ، پوتین و شی در چین",
-        "title_en": "Live updates: Trump wraps up historic summit with Xi and Putin",
-        "summary": [
-            "ترامپ در حاشیه نشست آسیا-پاسیفیک با رهبران روسیه و چین درباره کنترل تسلیحات هسته‌ای و جنگ اوکراین گفتگو کرد",
-            "توافق بر سر اصلاح ساختار سازمان ملل و نهادهای بین‌المللی از خروجی‌های این نشست اعلام شده است"
-        ],
-        "impact": "تغییر موازنه قدرت جهانی با محوریت ترامپ و کاهش انزوای روسیه و چین",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-nuclear-ukraine-congress-2026-live-updates-rcna610150",
-        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-nuclear-ukraine-congress-2026-live-updates-rcna610150",
-        "image": "http://www.bing.com/th?id=ONUT.xA6qJIvxtZJ2RCk2Qu2a2Q&pid=News",
-        "timestamp": 1795079400.0
-    },
-    {
-        "id": "ff28ff726a",
-        "title_fa": "اختلاف واشنگتن و تل‌آویو بر سر تهدیدات اتمی ایران",
-        "title_en": "Iran's chemical weapons threat may not justify a strike yet",
-        "summary": [
-            "نتانیاهو با استناد به اطلاعات موساد، خواستار اقدام فوری علیه برنامه‌های تسلیحاتی غیرمتعارف ایران است",
-            "دولت ترامپ همچنان در حال ارزیابی زمان‌بندی ایران برای دستیابی به توان عملیاتی است و فعلاً با حمله نظامی مخالف است"
-        ],
-        "impact": "تنش دیپلماتیک بین اسرائیل و آمریکا بر سر نحوه مواجهه با ایران",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "ynetnews",
-        "url": "https://www.ynetnews.com/opinions-analysis/article/h1t7zj3rfl",
-        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/h1t7zj3rfl",
-        "image": "http://www.bing.com/th?id=ONUT.F6rX0eFNJpb50UKwCfHHKw&pid=News",
-        "timestamp": 1795079220.0
     }
 ]
