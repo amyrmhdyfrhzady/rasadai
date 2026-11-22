@@ -1,5 +1,24 @@
 [
     {
+        "id": "94a54945d5",
+        "title_fa": "موروثی شدن قدرت در جمهوری صربسکا با انتصاب پسر دودیک",
+        "title_en": "Republika Srpska's president nominates Dodik's son as prime minister",
+        "summary": [
+            "رئیس‌جمهور صربسکا با انتصاب پسر میلوراد دودیک به عنوان نخست‌وزیر، عملاً قدرت را در این منطقه در اختیار یک خانواده قرار داد.",
+            "این اقدام نشان‌دهنده تثبیت نفوذ روسیه و جریان‌های نزدیک به مسکو در بالکان از طریق مهره‌های وفادار است.",
+            "سابقه تحریم‌های آمریکا علیه ایگور دودیک، چالش‌های دیپلماتیک جدیدی را برای این منطقه در تعامل با غرب ایجاد خواهد کرد."
+        ],
+        "impact": "افزایش تنش‌های سیاسی در بوسنی و احتمال انزوای بیشتر این منطقه از سوی نهادهای اروپایی.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2223037",
+        "clean_url": "https://tass.com/world/2223037",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795357500.0
+    },
+    {
         "id": "09dc432c28",
         "title_fa": "تسریع افول پترودلار با تشدید تنش‌های نظامی خاورمیانه",
         "title_en": "The ‘petrodollar’ has been weakening for years, economists warn. The Iran war put a spotlight on it",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.washingtonpost.com/business/2026/11/19/nvidia-scandal-drives-push-tougher-export-control-enforcement",
         "image": "http://www.bing.com/th?id=ONUT.rZltRBpc90ylCw6GJ9-K8w&pid=News",
         "timestamp": 1795089660.0
-    },
-    {
-        "id": "3a559c60e2",
-        "title_fa": "انتقاد بن شاپیرو از عملکرد دوره دوم ترامپ و ونس",
-        "title_en": "Ben Shapiro disappointed in Trump's second-term performance, doubts Vance",
-        "summary": [
-            "به گزارش یواس‌ای تودی، بن شاپیرو، مفسر محافظه‌کار آمریکایی، از عملکرد دوره دوم ریاست‌جمهوری دونالد ترامپ ابراز ناامیدی و انتقاد کرده است.",
-            "شاپیرو همچنین نسبت به توانمندی و جایگاه جی‌دی ونس برای نامزدی احتمالی در انتخابات ریاست‌جمهوری سال ۲۰۲۸ تردیدهایی را مطرح کرد."
-        ],
-        "impact": "طرح این انتقادها از بروز اختلاف دیدگاه در میان برخی چهره‌های رسانه‌ای محافظه‌کار آمریکا خبر می‌دهد.",
-        "tag": "سیاست آمریکا",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/other/ben-shapiro-disappointed-in-trump-s-second-term-performance-doubts-vance/ar-AA2hNGlt",
-        "clean_url": "https://www.msn.com/en-us/news/other/ben-shapiro-disappointed-in-trump-s-second-term-performance-doubts-vance/ar-AA2hNGlt",
-        "image": "http://www.bing.com/th?id=ONUT.FidG5c2SpVg3eSP8RQ2O3w&pid=News",
-        "timestamp": 1795089321.0
     }
 ]
