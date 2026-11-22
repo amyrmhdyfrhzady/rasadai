@@ -333,6 +333,25 @@
         "timestamp": 1795325100.0
     },
     {
+        "id": "9e7e6cbc82",
+        "title_fa": "بازگشت قطعی برق سراسری و خطر نابودی یک میلیون شغل",
+        "title_en": "Power cuts return across Iran, threatening over one million jobs",
+        "summary": [
+            "کمبود سوخت در نیروگاه‌ها باعث بازگشت قطعی‌های برنامه‌ریزی‌شده برق در کلان‌شهرهای مختلف شد.",
+            "مقام‌های توانیر صراحتاً محدودیت‌های جدید برای بخش خانگی و تجاری را تایید کردند.",
+            "فلج شدن مدارس، سیستم آب‌رسانی و اینترنت، موج جدیدی از نارضایتی‌ها را ایجاد کرده است."
+        ],
+        "impact": "بحران انرژی زیرساخت‌های اقتصادی را به آستانه فروپاشی رسانده و میلیون‌ها شغل را نابود می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611223193",
+        "clean_url": "https://www.iranintl.com/en/202611223193",
+        "image": "http://www.bing.com/th?id=ONUT.F1l92M-M-vWBsVABk64JBQ&pid=News",
+        "timestamp": 1795324620.0
+    },
+    {
         "id": "88b6b66481",
         "title_fa": "اعتصاب سراسری رانندگان کامیون در اعتراض به وضعیت معیشتی",
         "title_en": "Truck drivers strike across Iran over economic hardship",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/heart-of-its-nuclear-program-north-korea-expands-yongbyon-facility-as-trump-seeks-talks-with-kim/ar-AA2hLZkP",
         "image": "https://static.toiimg.com/thumb/msid-135985108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1795081020.0
-    },
-    {
-        "id": "ca38c86953",
-        "title_fa": "عقب‌نشینی از حذف سوخت‌های فسیلی در نشست اقلیمی",
-        "title_en": "Fossil fuels score 2 wins 5,000 miles apart",
-        "summary": [
-            "کشورهای بزرگ تولیدکننده انرژی با توافق‌های جدید، عملاً برنامه‌های حذف سوخت‌های فسیلی را به حاشیه راندند",
-            "اولویت‌های اقتصادی و توافق‌های پشت‌پرده بر تعهدات زیست‌محیطی پیشی گرفته است"
-        ],
-        "impact": "تداوم سلطه انرژی‌های فسیلی و شکست اهداف اقلیمی جهانی",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/11/19/fossil-fuels-score-2-wins-5000-miles-apart-01175305",
-        "clean_url": "https://www.politico.com/news/2026/11/19/fossil-fuels-score-2-wins-5000-miles-apart-01175305",
-        "image": "http://www.bing.com/th?id=ONUT.qhjkeDzD3F9Zl299JwXGow&pid=News",
-        "timestamp": 1795080780.0
     }
 ]
