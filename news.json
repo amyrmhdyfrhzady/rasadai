@@ -307,6 +307,24 @@
         "timestamp": 1795281960.0
     },
     {
+        "id": "7ace5c36ac",
+        "title_fa": "واکنش ترامپ به طرح بیمه درمانی ترامپ‌کر",
+        "title_en": "Abdul El-Sayed catches president’s attention with pitch for 'Trumpcare'",
+        "summary": [
+            "عبدالفتاح السید پیشنهاد بیمه سلامت همگانی با نام ترامپ‌کر را مطرح کرد.",
+            "ترامپ شخصاً به این پیشنهاد از سوی دموکرات اهل میشیگان واکنش نشان داد."
+        ],
+        "impact": "ورود نام ترامپ به ادبیات سیاست‌های بهداشتی رقبا",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "NBC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-catches-president-s-attention-with-pitch-for-trumpcare/ar-AA2hW5VI",
+        "clean_url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-catches-president-s-attention-with-pitch-for-trumpcare/ar-AA2hW5VI",
+        "image": "http://www.bing.com/th?id=ONUT.dt_qOhGsJVDb-As7DjAwUg&pid=News",
+        "timestamp": 1795279041.0
+    },
+    {
         "id": "399fc9019a",
         "title_fa": "خیز ترامپ برای توافق دائمی و مهار اتمی ج.ا",
         "title_en": "Trump vows to make ‘permanent’ deal with Iran, prevent future nuclear ambitions",
@@ -397,6 +415,24 @@
         "timestamp": 1795272059.0
     },
     {
+        "id": "dacbd3f1d2",
+        "title_fa": "ریزش سهام دفاعی و چشم‌انداز بودجه نظامی آمریکا",
+        "title_en": "Defense Stocks Fell After the Midterms. Here’s the 1 Defense Name I’d Buy Anyway -- and Why It Isn’t Lockheed Martin.",
+        "summary": [
+            "بودجه دفاعی ۱.۵ تریلیون دلاری پیشنهادی ترامپ با چالش کنگره مواجه شد.",
+            "سهام شرکت‌های دفاعی بزرگ پس از انتخابات میان‌دفره‌ای افت کرد."
+        ],
+        "impact": "فشار بر صنایع نظامی و تغییر احتمالی در اولویت‌های بودجه‌ای",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/defense-stocks-fell-midterms-1-222502815.html",
+        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/defense-stocks-fell-midterms-1-222502815.html",
+        "image": "http://www.bing.com/th?id=ONUT.sIhAGU1JTDexel9m-oAR5Q&pid=News",
+        "timestamp": 1795271100.0
+    },
+    {
         "id": "aac3a7a4ce",
         "title_fa": "سپاه پاسداران ادعای آمریکا درباره حمله شیمیایی را تکذیب کرد",
         "title_en": "IRGC Rejects US Claims of Planned Chemical Attack in Washington",
@@ -433,6 +469,24 @@
         "timestamp": 1795268349.0
     },
     {
+        "id": "c4e7403c63",
+        "title_fa": "دستور ترامپ به پیمانکاران فدرال برای هماهنگی با کاخ سفید",
+        "title_en": "Trump directs federal contractors to coordinate with White House on congressional requests for information",
+        "summary": [
+            "پیمانکاران فدرال ملزم به اطلاع‌رسانی درباره درخواست‌های کنگره شدند.",
+            "تمام پاسخ‌ها به استعلام‌های کنگره باید با کاخ سفید هماهنگ شود."
+        ],
+        "impact": "افزایش کنترل دولت بر جریان اطلاعات و ارتباطات کنگره",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-directs-federal-contractors-to-coordinate-with-white-house-on-congressional-requests-for-information/ar-AA2hVsOC",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-directs-federal-contractors-to-coordinate-with-white-house-on-congressional-requests-for-information/ar-AA2hVsOC",
+        "image": "http://www.bing.com/th?id=ONUT.QHTlD5f3EItGqD9Gc5wtgw&pid=News",
+        "timestamp": 1795268175.0
+    },
+    {
         "id": "0c7c0863a6",
         "title_fa": "عبور از وضعیت نه جنگ و نه صلح در خلیج فارس",
         "title_en": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
@@ -449,6 +503,42 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade/ar-AA2hWmzO",
         "image": "http://www.bing.com/th?id=ONUT.WLFNDmvw1yX_DUeH3dogcw&pid=News",
         "timestamp": 1795267971.0
+    },
+    {
+        "id": "edbe69514f",
+        "title_fa": "جنجال توافق اتمی ایران در رقابت رهبری سنا",
+        "title_en": "Schumer’s opposition to 2018 Iran nuke deal weaponized in Senate leadership race",
+        "summary": [
+            "کریس ون هولین مواضع گذشته چاک شومر درباره توافق برجام را اهرم فشار کرد.",
+            "بحث داغ درباره مهار برنامه اتمی ایران در مرکز توجه رهبران سنا قرار گرفت."
+        ],
+        "impact": "تغییر موازنه‌های سیاسی درون حزب دموکرات در کنگره جدید",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/21/us-news/schumers-iran-nuke-deal-stance-used-in-leadership-challenge/",
+        "clean_url": "https://nypost.com/2026/11/21/us-news/schumers-iran-nuke-deal-stance-used-in-leadership-challenge",
+        "image": "http://www.bing.com/th?id=ONUT.ww0DBrfpWPW8AfT9DQCJOg&pid=News",
+        "timestamp": 1795267740.0
+    },
+    {
+        "id": "5d2a6b853d",
+        "title_fa": "بازداشت دانشجوی دکترای پرینستون توسط پلیس مهاجرت",
+        "title_en": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+        "summary": [
+            "ایوا یی شی، دانشجوی چینی، در فرودگاه واشنگتن بازداشت شد.",
+            "پرونده پناهندگی و وضعیت اقامت وی محل مناقشه حقوقی است."
+        ],
+        "impact": "تشدید سخت‌گیری‌های امنیتی علیه دانشجویان خارجی در فرودگاه‌ها",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+        "clean_url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250401-princeton-university-cs-6a0257.jpg",
+        "timestamp": 1795267320.0
     },
     {
         "id": "6cdb6ef26a",
@@ -505,6 +595,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd0JPSEZnZ2Y3cGh6eTZ1U1k3d3A2RFEtS2stWG1OZTRTM2EwRmVsN3UwVFJ1Mjc5SEtpVExmZDZRdURXdkdDNkw0aTN1M05UbzZlQ0VPYWpXMG9rY0pYd1NfWDNrdkkwbDJjendUazhpNk92MUNaUUdzWDNTTzVTTDBDdkpEXzlqNjR0aXZpSE42QnVlZFFNNmgycE9TNjVGSGdLanR3SEpvQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795264500.0
+    },
+    {
+        "id": "c8506a1ee3",
+        "title_fa": "گوشه‌نشینی ونس پس از شکست میان‌دفره‌ای جمهوری‌خواهان",
+        "title_en": "Republicans’ midterm defeat corners Vance as 2028 field widens",
+        "summary": [
+            "شکست حزب در انتخابات میان‌دفره‌ای موقعیت جی‌دی ونس را چالش‌برانگیز کرد.",
+            "رقابت درون‌حزبی برای انتخابات ریاست‌جمهوری ۲۰۲۸ وارد فاز تازه‌ای شد."
+        ],
+        "impact": "تضعیف موضع چهره‌های نزدیک به ترامپ برای آینده سیاسی",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/11/21/republican-midterm-defeat-vance-defensive-field-president/92900729007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/21/republican-midterm-defeat-vance-defensive-field-president/92900729007",
+        "image": "http://www.bing.com/th?id=ONUT.nik89wMz8D3y6IUd_hO8rw&pid=News",
+        "timestamp": 1795263060.0
+    },
+    {
+        "id": "0d6216c8ee",
+        "title_fa": "مرگ یک کودک بر اثر سرخک در ویرجینیا",
+        "title_en": "Virginia reports young child has died of measles, first since 1978",
+        "summary": [
+            "ویرجینیا نخستین مرگ ناشی از سرخک را از سال ۱۹۷۸ ثبت کرد.",
+            "کودک فوت شده زیر پنج سال سن داشت."
+        ],
+        "impact": "هشدار جدی بهداشتی درباره شیوع مجدد بیماری‌های قابل پیشگیری",
+        "tag": "اجتماعی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/health/2026/11/21/virginia-reports-young-child-has-died-measles-first-since-1978/",
+        "clean_url": "https://www.washingtonpost.com/health/2026/11/21/virginia-reports-young-child-has-died-measles-first-since-1978",
+        "image": "http://www.bing.com/th?id=ONUT.dnWex2qb3Q65UdQi5y9uvg&pid=News",
+        "timestamp": 1795261920.0
     },
     {
         "id": "2c807f8ef0",
@@ -619,6 +745,24 @@
         "timestamp": 1795258860.0
     },
     {
+        "id": "125a9ccd7b",
+        "title_fa": "شکست میان‌دفره‌ای جمهوری‌خواهان و انتقاد از سبک ترامپ",
+        "title_en": "Voters want to 'move on' from the president, former Trump official claims as reason for GOP's midterm defeat",
+        "summary": [
+            "سام براون‌بک شکست حزب در انتخابات را ناشی از سبک شخصی ترامپ دانست.",
+            "پیروزی دموکرات‌ها در پایگاه‌های سنتی جمهوری‌خواهان معادلات را به هم ریخت."
+        ],
+        "impact": "بالارفتن تنش‌های درون‌حزبی میان جمهوری‌خواهان پس از انتخابات",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/voters-want-move-president-former-trump-official-claims-reason-gop-midterm-defeat",
+        "clean_url": "https://www.foxnews.com/politics/voters-want-move-president-former-trump-official-claims-reason-gop-midterm-defeat",
+        "image": "http://www.bing.com/th?id=ONUT.cBW9IFD2Qi2DPPesn7Rs5w&pid=News",
+        "timestamp": 1795258800.0
+    },
+    {
         "id": "92335ec03b",
         "title_fa": "پشتیبانی پکن و مسکو از مواضع اتمی جـ.ـهـ.ـو،ر،ی ا،س،ل،ا،م،ی",
         "title_en": "Iran’s FM says China, Russia oppose changing Tehran’s professed rejection of nuclear arms",
@@ -671,6 +815,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jd3EtdUxMUXByT091RzltbFMwNlNJdDZsN1NLeGRmZnA2MHJMblAzRWdEMDZHNXB4bFNzSFRmYlRSWXhNZGw0VkYtNHJaUXpidldUUzk3aDlpeWtyLWFPVWN4R1NkT1pOSE9CdWNFOWtIWGVvTHN6WUFSd9IBfkFVX3lxTFBYMlc3MHRVUm9yMWVYZ0tpTm9najB2TWpFRFZ2Nmo4aG1oUnRQUDVzU0xaMTdsN0tmcGhfRW03eWVqVU1uWVJIaUcyMWFsSTE1M1VPbDFWcWhMeDh6ZzlwZHB2YmN0cmRiUXcyeUhFZ1NZWlYtNW5KLXRGUlpfUQ",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795256252.0
+    },
+    {
+        "id": "8ceeb6c6ff",
+        "title_fa": "هشدار والز درباره تلفات مرگبار روسیه در جنگ اوکراین",
+        "title_en": "Mike Waltz warns Kremlin faces 'unsustainable' losses approaching WWII scale as Trump seeks deal",
+        "summary": [
+            "مایک والز تلفات ماهانه روسیه را فراتر از توان بازسازی ارتش خواند.",
+            "تلفات انسانی جنگ به سطحی رسیده که ادامه آن از نظر نظامی ناممکن است."
+        ],
+        "impact": "افزایش فشار دیپلماتیک بر مسکو برای تن دادن به مذاکره",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/mike-waltz-warns-kremlin-faces-unsustainable-losses-approaching-wwii-scale-trump-seeks-deal",
+        "clean_url": "https://www.foxnews.com/media/mike-waltz-warns-kremlin-faces-unsustainable-losses-approaching-wwii-scale-trump-seeks-deal",
+        "image": "http://www.bing.com/th?id=ONUT.DBbRRVjCST-7ml659IhktA&pid=News",
+        "timestamp": 1795255020.0
     },
     {
         "id": "35830aa587",
@@ -779,6 +941,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/opinion-why-is-mike-finish-the-job-in-iran-pence-attacking-america-first-jp-vance/ar-AA2hW3CU",
         "image": "http://www.bing.com/th?id=ONUT.ST29Myye8Y9EpZQbkTcEVg&pid=News",
         "timestamp": 1795251600.0
+    },
+    {
+        "id": "8f83c3b989",
+        "title_fa": "جنجال تصاویر ترامپ با پوتین و شی جین‌پینگ",
+        "title_en": "Trump Posts Three Dozen Pictures from His Trip, Mistakenly Likens His Meeting Putin and Xi to FDR with Churchill and Stalin",
+        "summary": [
+            "ترامپ نشست خود با رهبران روسیه و چین را با روزولت مقایسه کرد.",
+            "منتقدان رفتار ترامپ با این رهبران را نشانه ساده‌لوحی او دانستند."
+        ],
+        "impact": "حواشی سیاسی شدید پیرامون سیاست خارجی دولت آمریکا",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Showbiz411",
+        "url": "https://www.showbiz411.com/2026/11/21/trump-posts-three-dozen-pictures-from-his-trip-mistakenly-likens-his-meeting-putin-and-xi-to-fdr-with-churchill-and-stalin",
+        "clean_url": "https://www.showbiz411.com/2026/11/21/trump-posts-three-dozen-pictures-from-his-trip-mistakenly-likens-his-meeting-putin-and-xi-to-fdr-with-churchill-and-stalin",
+        "image": "http://www.bing.com/th?id=ONUT.MsK4Bzzsm2QzxueGyHaaLA&pid=News",
+        "timestamp": 1795250400.0
     },
     {
         "id": "85850e87fd",
@@ -5302,191 +5482,5 @@
         "clean_url": "https://www.iranintl.com/202611198453",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1795055820.0
-    },
-    {
-        "id": "93b084e33c",
-        "title_fa": "انفجار دو نفتکش غول‌پیکر در تنگه هرمز",
-        "title_en": "Iran's Guards say two supertankers carrying 4mn barrels hit mines in Hormuz",
-        "summary": [
-            "نیروی دریایی سپاه از برخورد دو نفتکش حامل ۴ میلیون بشکه نفت به مین‌های دریایی در تنگه هرمز خبر داد.",
-            "این نفتکش‌ها در مسیر غیرمجاز و با نظارت پهپادها و جنگنده‌های آمریکایی در حال حرکت بودند.",
-            "رسانه‌های وابسته به سپاه ادعا می‌کنند روزانه به طور میانگین سه نفتکش در این منطقه از کار می‌افتند."
-        ],
-        "impact": "بحران امنیتی در تنگه هرمز به اوج رسیده و صادرات نفت منطقه عملاً فلج شده است.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/irans-guards-two-supertankers-carrying-103634239.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/irans-guards-two-supertankers-carrying-103634239.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/5dd5171471d3950b42aaaf68b4def890ce7fbb60b12030cf599812211bf0ffab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fintellinews_516%2F9b02f2030e818334045bceae7f93f2ce.jpg",
-        "timestamp": 1795055820.0
-    },
-    {
-        "id": "cf3e12c161",
-        "title_fa": "بررسی احتمال حملات مشترک ترامپ علیه جـ.ـه.ا.د ا.س.ل.ا.م.ی",
-        "title_en": "Trump weighs joint strikes on Iran as Israel raises chemical weapons concerns",
-        "summary": [
-            "دونالد ترامپ در حال سنجش گزینه حملات نظامی مشترک با اسرائیل است.",
-            "اسرائیل نگرانی‌های جدی خود را درباره تهدیدات تسلیحاتی جـ.ـه.ا.ر.ی مطرح کرده است.",
-            "فشارها بر ساختار نظامی تهران وارد فاز تازه‌ای از تصمیم‌گیری شده است."
-        ],
-        "impact": "افزایش شدید احتمال درگیری نظامی مستقیم و سایه جنگ بر سر ساختار سیاسی ایران.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Mezha.net",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2o3OTMyUy1pa2xpSFN1S1ZLdlJHREVCdVJ3MEhxSkFlU182MTZ5a2RrWG94bnRRbEp4SUtTWTU5VDQ5UGRvRkZIcXhvaFV1TVZMRFZwYThweFhaYkZGWXo3azdoVWNfdS1ja29SUXJoZnpWY3UtQm9XUkQteFNMRWxXRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc2o3OTMyUy1pa2xpSFN1S1ZLdlJHREVCdVJ3MEhxSkFlU182MTZ5a2RrWG94bnRRbEp4SUtTWTU5VDQ5UGRvRkZIcXhvaFV1TVZMRFZwYThweFhaYkZGWXo3azdoVWNfdS1ja29SUXJoZnpWY3UtQm9XUkQteFNMRWxXRQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795055301.0
-    },
-    {
-        "id": "43e16d0d97",
-        "title_fa": "حمله پهپادی و موشکی به کورسک و زخمی شدن غیرنظامیان",
-        "title_en": "Eleven people, including child, injured in Ukrainian attack on Kursk",
-        "summary": [
-            "اصابت حملات به کورسک روسیه باعث زخمی شدن ۱۱ غیرنظامی از جمله یک کودک ۱۲ ساله شد.",
-            "فرماندار منطقه از تلاش برای حفظ آرامش عمومی و آماده‌باش مراکز آموزشی خبر داد."
-        ],
-        "impact": "گسترش درگیری‌ها به داخل خاک روسیه فشار روانی و نظامی بر مسکو را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/emergencies/2221325",
-        "clean_url": "https://tass.com/emergencies/2221325",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1795054440.0
-    },
-    {
-        "id": "636d5f6dbc",
-        "title_fa": "بحران گاز و فلج شدن صنایع کلیدی ج.ا",
-        "title_en": "Iran lawmaker says Israeli desalination plants are within missile range",
-        "summary": [
-            "کمبود روزانه گاز در ج.ا به رقم کم‌سابقه بیش از چهارصد میلیون مترمکعب رسیده است.",
-            "صنایع فولاد به دلیل وابستگی مستقیم به گاز بیشترین آسیب را می‌بینند و عملا متوقف خواهند شد."
-        ],
-        "impact": "فلج شدن کامل بخش تولید فولاد و سیمان به دلیل ناترازی شدید انرژی",
-        "tag": "اقتصادی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611196024",
-        "clean_url": "https://www.iranintl.com/en/202611196024",
-        "image": "http://www.bing.com/th?id=ONUT.Py7f7a_Bhjhx_fguh1piHw&pid=News",
-        "timestamp": 1795054260.0
-    },
-    {
-        "id": "b0904f4166",
-        "title_fa": "فشار نتانیاهو برای جنگ کوتاه‌مدت با ایران",
-        "title_en": "Netanyahu pushes for 4-7 day Iran war as Trump hesitates, NYT reports",
-        "summary": [
-            "نخست‌وزیر اسرائیل در تلاش است ترامپ را برای یک درگیری نظامی چهار تا هفت روزه ترغیب کند.",
-            "رئیس‌جمهور آمریکا هنوز با این سناریوی پرخطر موافقت نکرده و مردد است."
-        ],
-        "impact": "احتمال تغییر محاسبات نظامی در منطقه و افزایش تنش‌های امنیتی در صورت چراغ سبز واشنگتن.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13MGJlaEZyM3daZlJoUkdER0t3bHhlVEZISDY2S1Vodnl0bVhvZk02WFp4RjluQlBEelVvQ3hfbUQ4bXpOQ3NwT1cyTHdTWXlVTk43S3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13MGJlaEZyM3daZlJoUkdER0t3bHhlVEZISDY2S1Vodnl0bVhvZk02WFp4RjluQlBEelVvQ3hfbUQ4bXpOQ3NwT1cyTHdTWXlVTk43S3NR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795053593.0
-    },
-    {
-        "id": "6ad76e0fb7",
-        "title_fa": "کنترل کامل تنگه هرمز در دستان ارتش آمریکا",
-        "title_en": "روابط عمومی نیروی دریایی سپاه پاسداران از انفجار دو نفتکش در تنگه هرمز خبر داد",
-        "summary": [
-            "دونالد ترامپ با تاکید بر نابودی توان دریایی، هوایی و پدافندی ج.م، کنترل تنگه هرمز را در دست گرفت.",
-            "اختلال در انتقال نفت از این آبراه حیاتی، فشار اقتصادی شدیدی بر حکومت وارد کرده است.",
-            "واشنگتن بدون نیاز به کمک چین و روسیه، موضع قاطعی در قبال پرونده ایران اتخاذ کرده است."
-        ],
-        "impact": "فلج شدن صادرات نفت و تسلط کامل نظامی آمریکا بر یکی از حیاتی‌ترین شاهراه‌های انرژی جهان.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611195596",
-        "clean_url": "https://www.iranintl.com/202611195596",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1795053420.0
-    },
-    {
-        "id": "19111105fe",
-        "title_fa": "کاهش اهرم نفتی ته‌ران در تنگه هرمز و ریسک تنش جدید",
-        "title_en": "Iran’s oil leverage is weakening. That could push it toward escalation",
-        "summary": [
-            "کنترل ته‌ران بر تنگه هرمز در حال رنگ باختن است و نفت با وجود حملات مداوم همچنان جریان دارد.",
-            "فشار حداکثری اقتصادی د-و-ل-ت ترامپ، جی-م-ه-و-ر-ی اس-لا-م-ی را در بن‌بست سختی قرار داده است.",
-            "تجربه نشان داده مقامات ا-ی-ر-ا-ن در زمان به بن‌بست رسیدن، تشدید تنش را به عقب‌نشینی ترجیح می‌دهند."
-        ],
-        "impact": "تضعیف درآمد نفتی، ج-ه-م-و-ر-ی اس-لا-م-ی را به سمت اقدامات تلافی‌جویانه نظامی هُل می‌دهد.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/19/middleeast/iran-war-oil-flow-escalation-intl",
-        "clean_url": "https://www.cnn.com/2026/11/19/middleeast/iran-war-oil-flow-escalation-intl",
-        "image": "http://www.bing.com/th?id=ONUT.UBVmEgl6iHFjwqUwrm2dvw&pid=News",
-        "timestamp": 1795053180.0
-    },
-    {
-        "id": "11aaad2fa6",
-        "title_fa": "فلج‌شدن صنایع با بحران کمبود گاز",
-        "title_en": "Workers at soda ash plant in southern Iran strike for fourth day",
-        "summary": [
-            "ناتزی ج.ه.و.ری در مدیریت انرژی، صنعت فولاد و سیمان را به لبه پرتگاه کشانده است.",
-            "تولید فولاد به دلیل وابستگی مستقیم به گاز متوقف می‌شود.",
-            "کارگران کارخانه‌ها در اعتراض به شرایط موجود دست به اعتصاب زده‌اند."
-        ],
-        "impact": "فلج کامل صنایع مادر و بیکاری گسترده به دلیل بی‌کفایتی در تامین انرژی",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611196912",
-        "clean_url": "https://www.iranintl.com/en/202611196912",
-        "image": "http://www.bing.com/th?id=ONUT.tYXZdgHMELgtjYU4TH1wAA&pid=News",
-        "timestamp": 1795052700.0
-    },
-    {
-        "id": "38477b3eed",
-        "title_fa": "تلاش منطقه‌ای برای مهار جنگ؛ فشار تل‌آویو برای حمله به تهران",
-        "title_en": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say",
-        "summary": [
-            "کشورهای منطقه به شدت فعال شده‌اند تا از تبدیل شدن تنش‌ها به یک جنگ تمام‌عیار جلوگیری کنند.",
-            "اسرائیل به طور جدی به دنبال ترغیب به حملات نظامی مستقیم به اهدافی در داخل ایران است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی در خاورمیانه و واکنش پناهگاه‌های امن سرمایه به اخبار جنگ.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "OPB",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUmtmTEFXRkhQaTlEVjV1RFBiZmVtVEYzVmdPbWFqbDdSTEhzaHdiejhJanZIU0VTNEJWN2U5c0w1eS1NOElPc1hnWUMzR180VE9aOWx4YU9vZjk4WDZ1aVZKaktibEh2SnA3TjktZmhSdFIxUTV3bml2X2hyTnFId05jaGdhRTlodlpMSkRsSjdjTENEdkdpRUYybm5Na2xveFJNaVhyY2p1SGhqT09RMkxIWVJwVm12eDEzYkxOM1FQSVYxRVAyNXV4elVxN19C?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUmtmTEFXRkhQaTlEVjV1RFBiZmVtVEYzVmdPbWFqbDdSTEhzaHdiejhJanZIU0VTNEJWN2U5c0w1eS1NOElPc1hnWUMzR180VE9aOWx4YU9vZjk4WDZ1aVZKaktibEh2SnA3TjktZmhSdFIxUTV3bml2X2hyTnFId05jaGdhRTlodlpMSkRsSjdjTENEdkdpRUYybm5Na2xveFJNaVhyY2p1SGhqT09RMkxIWVJwVm12eDEzYkxOM1FQSVYxRVAyNXV4elVxN19C",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795051914.0
-    },
-    {
-        "id": "dcbee85f21",
-        "title_fa": "ترامپ: کنترل کامل تنگه هرمز را در دست داریم",
-        "title_en": "ترامپ در نشست با شی و پوتین: نمی‌گذاریم حکومت ایران به سلاح هسته‌ای دست یابد",
-        "summary": [
-            "دونالد ترامپ بر موضع قاطع ایالات متحده در قبال جلوگیری از دستیابی ج.مهور ی ا.سلامی به سلاح هسته‌ای تاکید کرد.",
-            "ایالات متحده کنترل کامل تنگه هرمز را در اختیار گرفته و جریان نفت با اختلال جدی روبه‌روست.",
-            "توان نظامی سپاه و ارتش شامل نیروی دریایی، هوایی و پدافند به طور کامل در هم شکسته شده است."
-        ],
-        "impact": "آمریکا کنترل کامل آبراه حیاتی هرمز را به دست گرفته و دسترسی حکومت به درآمدهای نفتی قطع شده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611194479",
-        "clean_url": "https://www.iranintl.com/202611194479",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1795051260.0
     }
 ]
