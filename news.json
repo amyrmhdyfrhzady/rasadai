@@ -1,5 +1,23 @@
 [
     {
+        "id": "471308c427",
+        "title_fa": "نشست سه‌جانبه شنژن؛ پایان نظم یک‌جانبه آمریکا",
+        "title_en": "Shenzhen was not Yalta, but a clear sign of a massive geopolitical shift",
+        "summary": [
+            "دیدار ترامپ، شی جین‌پینگ و پوتین در چین نشان داد دوران تسلط بی‌چون‌وچرا بر جهان به پایان رسیده است.",
+            "قدرت‌های هسته‌ای بر اصل جلوگیری از جنگ اتمی تأکید کردند اما توافق مکتوبی برای تقسیم جهان حاصل نشد."
+        ],
+        "impact": "تغییر موازنه‌های قدرت جهانی و شکل‌گیری ساختار چندقطبی به ضرر منافع غرب",
+        "tag": "ژئوپلیتیک",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "The Vibes",
+        "url": "https://www.thevibes.com/articles/opinion/129793/shenzhen-was-not-yalta-but-a-clear-sign-of-a-massive-geopolitical-shift",
+        "clean_url": "https://www.thevibes.com/articles/opinion/129793/shenzhen-was-not-yalta-but-a-clear-sign-of-a-massive-geopolitical-shift",
+        "image": "https://media.thevibes.com/images/uploads/covers/_large/putin2a.jpg",
+        "timestamp": 1795306567.675194
+    },
+    {
         "id": "2ebb573616",
         "title_fa": "آمادگی افکار عمومی اسرائیل برای جنگی دیگر",
         "title_en": "Opinion | Another pointless war? Israelis are happy to oblige",
@@ -5470,23 +5488,5 @@
         "clean_url": "https://en.apa.az/asia/mossad-chief-urged-joint-us-israeli-strikes-on-iran-during-washington-visit-reuters-537011",
         "image": "https://en.apa.az/storage/news/2026/november/19/big/6afe0e85a42d66afe0e85a42d717950347576afe0e85a42d16afe0e85a42d4.jpeg",
         "timestamp": 1795049160.0
-    },
-    {
-        "id": "032b2147ab",
-        "title_fa": "رزمایش موشکی ناو روسی در فاصله ۳۰۰ کیلومتری",
-        "title_en": "Combat crew of Admiral Kasatonov frigate conducts precision missile strike drills",
-        "summary": [
-            "ناو ناوچه آدمیرال کاساتونوف تمرین شلیک موشک‌های دقیق به اهداف دریایی را انجام داد.",
-            "این تمرینات با استفاده از شبیه‌سازی رایانه‌ای برای ارزیابی آمادگی رزمی انجام شد."
-        ],
-        "impact": "افزایش آمادگی رزمی ناوگان شمال روسیه در قالب تمرینات شبیه‌سازی‌شده.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/defense/2221081",
-        "clean_url": "https://tass.com/defense/2221081",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1795048140.0
     }
 ]
