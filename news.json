@@ -406,6 +406,24 @@
         "timestamp": 1795318069.0
     },
     {
+        "id": "cb140d9412",
+        "title_fa": "کنایه سنگین به پزشکیان درباره بحران بی‌برقی و گرما",
+        "title_en": "کنایه روزبه سینکی به پزشکیان:آیا برای خوابیدن با کاپشن و بی‌برقی نیاز به رییس جمهور داریم؟",
+        "summary": [
+            "روزبه سینکی با انتقاد صریح از وضعیت بحرانی انرژی، ناکارآمدی دولت را زیر سوال برد.",
+            "قطعی مکرر برق و مشکلات معیشتی، فشار روی بدنه اجرایی کشور را به شدت افزایش داده است."
+        ],
+        "impact": "نارضایتی عمومی از بحران‌های زیرساختی به سطح چهره‌های ورزشی و عمومی کشیده شده است.",
+        "tag": "اجتماعی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611221001",
+        "clean_url": "https://www.iranintl.com/202611221001",
+        "image": "http://www.bing.com/th?id=ONUT.kknQWdI8r1j3uIEG1jJI9g&pid=News",
+        "timestamp": 1795317420.0
+    },
+    {
         "id": "9bd3bd0ac4",
         "title_fa": "لغو ماموریت فضایی ژاپن و ناکامی در کشف راز شیء ناشناخته",
         "title_en": "Harvard scientist may never prove mysterious space object’s origin after mission scrapped",
@@ -5465,23 +5483,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/iran-war-energy-shock-to-permanently-reshape-global-energy-sector-says-iea-101795108193410.html",
         "image": "http://www.bing.com/th?id=ONUT.VO9Kkj_HiLuanp99GD3mFg&pid=News",
         "timestamp": 1795080060.0
-    },
-    {
-        "id": "2fed0c05e5",
-        "title_fa": "سقوط کم‌سابقه تردد نفتکش‌های ال‌ان‌جی در تنگه هرمز",
-        "title_en": "LNG transportation in Hormuz dropped to minimum amid new attacks — Bloomberg",
-        "summary": [
-            "تردد کشتی‌های حامل گاز طبیعی مایع از تنگه هرمز به دلیل حملات جدید به کف رسیده است.",
-            "طی هفته گذشته تنها دو فروند کشتی از این آبراه عبور کرده‌اند، در حالی که میانگین قبلی هشت فروند بوده است."
-        ],
-        "impact": "افزایش تنش‌های دریایی و اختلال شدید در صادرات انرژی منطقه.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2221191",
-        "clean_url": "https://tass.com/world/2221191",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261119/1493685.jpg",
-        "timestamp": 1795079640.0
     }
 ]
