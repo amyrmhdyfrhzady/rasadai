@@ -623,6 +623,25 @@
         "timestamp": 1795310760.0
     },
     {
+        "id": "ca93fd96b0",
+        "title_fa": "ادعای جنجالی سـپاه درباره حمله به پایگاه‌های پاتریوت در بحرین",
+        "title_en": "Iran live updates: IRGC says Bahrain attacks targeted US Patriot sites",
+        "summary": [
+            "سـپاه مدعی شده حملات اخیر در بحرین، سایت‌های پدافندی پاتریوت آمریکا را هدف قرار داده است.",
+            "مقامات بحرینی برخلاف روایت سـپاه، اعلام کردند این حمله منجر به آتش‌سوزی در یک مرکز صنعتی غیرنظامی شده است.",
+            "این تناقض در روایت‌ها نشان‌دهنده تلاش سـپاه برای بزرگ‌نمایی توان عملیاتی خود در برابر تجهیزات آمریکایی است."
+        ],
+        "impact": "افزایش تنش‌های نظامی در خلیج فارس و احتمال واکنش تلافی‌جویانه آمریکا به این ادعای سـپاه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-denies-iranian-claim-it-struck-damaged-f-16-jet-over-gulf/ar-AA2hx5G8",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-denies-iranian-claim-it-struck-damaged-f-16-jet-over-gulf/ar-AA2hx5G8",
+        "image": "http://www.bing.com/th?id=ONUT.Q_M2c63WdGXkkbFoZQicuw&pid=News",
+        "timestamp": 1795310717.0
+    },
+    {
         "id": "920a8f9e55",
         "title_fa": "مرگ مرموز سوگند صیادی در کرمانشاه و بازداشت پدر",
         "title_en": "Iran war dominates UK government's concerns",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://www.newsobserver.com/news/nation-world/world/article318154083.html",
         "image": "http://www.bing.com/th?id=ONUT.1j5OR6vTGgAPq_HpQIIE6w&pid=News",
         "timestamp": 1795080540.0
-    },
-    {
-        "id": "c1e2f7ea4b",
-        "title_fa": "شوک انرژی جنگ با ای-ران و دگرگونی بنیادین بازار جهانی",
-        "title_en": "Iran war energy shock to permanently reshape global energy sector, says IEA",
-        "summary": [
-            "آژانس بین‌المللی انرژی اعلام کرد تنش‌های نظامی با ای-ران بزرگ‌ترین شوک تاریخ انرژی را رقم زده و ساختار تأمین سوخت جهان را برای همیشه تغییر داده است.",
-            "کشورهای وابسته به انرژی به سمت امنیت عرضه، انرژی خورشیدی و هسته‌ای حرکت می‌کنند اما زغال‌سنگ را همچنان به عنوان پشتیبان بحران نگه می‌دارند."
-        ],
-        "impact": "آسیب‌پذیری شدید بازارهای جهانی و شتاب گرفتن حرکت به سمت انرژی‌های جایگزین به دلیل بحران‌های خاورمیانه.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/iran-war-energy-shock-to-permanently-reshape-global-energy-sector-says-iea-101795108193410.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/iran-war-energy-shock-to-permanently-reshape-global-energy-sector-says-iea-101795108193410.html",
-        "image": "http://www.bing.com/th?id=ONUT.VO9Kkj_HiLuanp99GD3mFg&pid=News",
-        "timestamp": 1795080060.0
     }
 ]
