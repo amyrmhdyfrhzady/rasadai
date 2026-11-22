@@ -1,5 +1,25 @@
 [
     {
+        "id": "c7d0b552e4",
+        "title_fa": "تهدید ترامپ به غرق کردن نفت‌کش‌های ج-ا در سال جدید",
+        "title_en": "Trump threatens Iran strikes in new year, says blockade runners will be sunk",
+        "summary": [
+            "ترامپ با خط و نشان کشیدن برای نفت‌کش‌های ج-ا، هشدار داده که هرگونه تلاش برای شکستن تحریم‌ها با پاسخ نظامی و غرق کردن شناورها مواجه می‌شود.",
+            "عباس عراقچی در حالی از تلاش برای صادرات نفت می‌گوید که رسانه‌های وابسته به س-پ-ا-ه با دمیدن در شیپور اعزام کاروان نفت‌کش، عملاً به دنبال تنش‌زایی هستند.",
+            "تهدیدهای متقابل س-پ-ا-ه مبنی بر هدف قرار دادن زیرساخت‌های انرژی امارات در صورت حمله به نفت‌کش‌ها، نشان‌دهنده استراتژی جدید آن‌ها برای گروگان‌گیری امنیت انرژی منطقه است.",
+            "این مانور رسانه‌ای که از تریبون‌های نماز جمعه و مجلس کلید خورده، نشان می‌دهد تصمیم‌گیران اصلی در تهران به دنبال قمار بزرگی در آستانه تغییر دولت در آمریکا هستند."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی در خلیج فارس و احتمال جهش قیمت جهانی نفت در صورت تقابل مستقیم.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611226299",
+        "clean_url": "https://www.iranintl.com/en/202611226299",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/e96214300e32c0e92d1d57ec2cd9c5e09d2af600-747x498.jpg?w=300&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795381080.0
+    },
+    {
         "id": "059dd06bc5",
         "title_fa": "هشدار آژانس درباره کور شدن نظارت‌ها بر برنامه اتمی ج.ا",
         "title_en": "IAEA Warns of Iran Verification Gap, North Korea’s Nuclear Expansion",
@@ -5467,23 +5487,5 @@
         "clean_url": "https://www.iranintl.com/en/202611198367",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1795121520.0
-    },
-    {
-        "id": "94afe2a4a6",
-        "title_fa": "رویترز: نگاه ترامپ به سال ۲۰۲۷ برای وضعیت ایران",
-        "title_en": "Trump eyes 2027 to 'see what happens' with Iran",
-        "summary": [
-            "خبرگزاری رویترز گزارش داد دونالد ترامپ، رئیس‌جمهور آمریکا، سال ۲۰۲۷ را به‌عنوان مقطعی برای ارزیابی وضعیت در قبال ایران مدنظر قرار داده است.",
-            "در گزارش کوتاه رویترز جزئیات بیشتری درباره اقدامات احتمالی یا چارچوب مشخص واشنگتن در این بازه زمانی ارائه نشده است."
-        ],
-        "impact": "این اظهارنظر از تداوم ابهام در چشم‌انداز میان‌مدت سیاست دولت آمریکا در قبال ایران حکایت دارد.",
-        "tag": "سیاست خارجی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795121406.0
     }
 ]
