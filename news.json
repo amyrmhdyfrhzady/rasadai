@@ -18,6 +18,24 @@
         "timestamp": 1795326700.0
     },
     {
+        "id": "4f5f5e337d",
+        "title_fa": "درخواست شفاف‌سازی درباره کاربرد هوش مصنوعی در جنگ با ایران",
+        "title_en": "US senator wants clarity on AI role in US-Israel war on Iran",
+        "summary": [
+            "یک سناتور آمریکایی خواستار شفاف‌سازی درباره ابعاد ورود هوش مصنوعی به درگیری‌های احتمالی با تهران شد.",
+            "این موضع‌گیری نشان‌دهنده نگرانی واشنگتن از ابعاد ناشناخته و فناوری‌های نوین در تقابل با ج.ا است."
+        ],
+        "impact": "افزایش فشارهای سیاسی در آمریکا برای کنترل و نظارت بر جنگ‌افزارهای نوین.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Mehr News Agency",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObENuVk96RlR5ODdjYkpfZ1VXYTF3ZFY4cEtWbXBsWXZrcldqYWNsRTZWM0Y0bFlNbVk1cTlPS0dYX05seW13aHZfRkZMN3FqUFBybDRvbzdIWTQ0QzY4NEU4cXpGTHpoTzdEdy1sRTlaOXpkWkFaMERvY3hFZDNhRWJkZnBhZTE0aG0yS3AtZTVlMHJXN3VhOU1uOFc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObENuVk96RlR5ODdjYkpfZ1VXYTF3ZFY4cEtWbXBsWXZrcldqYWNsRTZWM0Y0bFlNbVk1cTlPS0dYX05seW13aHZfRkZMN3FqUFBybDRvbzdIWTQ0QzY4NEU4cXpGTHpoTzdEdy1sRTlaOXpkWkFaMERvY3hFZDNhRWJkZnBhZTE0aG0yS3AtZTVlMHJXN3VhOU1uOFc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795325100.0
+    },
+    {
         "id": "2c328a377b",
         "title_fa": "ریزش بازارهای مالی آمریکا و شعله‌ور شدن بحران‌های جهانی",
         "title_en": "Sunday, November 22, 2026｜大谷昇治",
@@ -323,6 +341,24 @@
         "clean_url": "https://www.ncr-iran.org/en/news/iran-protests/irans-bread-restrictions-and-fuel-shortages-fuel-unrest-as-regime-warns-of-deeper-crises",
         "image": "https://www.ncr-iran.org/en/wp-content/uploads/2026/09/iran-tehran-currency-exchange-crowd.jpg",
         "timestamp": 1795289880.0
+    },
+    {
+        "id": "2dd332de50",
+        "title_fa": "انتقاد شدید مقام لبنانی از دخالت‌های ج.ا",
+        "title_en": "Lebanon's Aoun tells Iran to stop 'interfering' in its affairs, insists that Israeli withdrawal is only path to peace",
+        "summary": [
+            "مقام ارشد لبنان صراحتاً از تهران خواست دست از دخالت در امور داخلی این کشور بردارد.",
+            "عقب‌نشینی کامل اسرائیل و پایان حملات، تنها مسیر رسیدن به صلح عنوان شد."
+        ],
+        "impact": "تضعیف بیش از پیش نفوذ منطقه‌ای نیابتی‌های تهران در لبنان.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/lebanons-aoun-tells-iran-to-stop-interfering-in-its-affairs-insists-that-israeli-withdrawal-is-only-path-to-peace/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/lebanons-aoun-tells-iran-to-stop-interfering-in-its-affairs-insists-that-israeli-withdrawal-is-only-path-to-peace",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/2025-03-10T090440Z_1761225347_RC2Q7DAF1U3Q_RTRMADP_3_DENMARK-OLDEST-640x400.jpg",
+        "timestamp": 1795288620.0
     },
     {
         "id": "dfac29f708",
@@ -5444,41 +5480,5 @@
         "clean_url": "https://www.masslive.com/politics/2026/11/donald-trump-has-2-word-reaction-to-iran-dirty-bomb-plot.html",
         "image": "http://www.bing.com/th?id=ONUT.zcEv1z2XSdYS5dOKbCZsRA&pid=News",
         "timestamp": 1795060920.0
-    },
-    {
-        "id": "faefbdb2dc",
-        "title_fa": "هشدار درباره تلاش ایران برای دستیابی به بمب کثیف",
-        "title_en": "MICHAEL RUIZ: What is a dirty bomb? Explosive terror threat explained",
-        "summary": [
-            "گزارش‌ها از تلاش‌های رژیم ایران برای توسعه بمب کثیف (رادیولوژیک) پرده برداشته است",
-            "کارشناسان امنیتی معتقدند هدف این سلاح ایجاد وحشت و اختلال گسترده است، نه لزوماً کشتار انبوه"
-        ],
-        "impact": "افزایش فشارهای امنیتی و احتمال تشدید تحریم‌های هسته‌ای علیه ایران",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
-        "clean_url": "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
-        "image": "http://www.bing.com/th?id=ONUT.UXZE-MYdvw3UVfr-m7JJ5Q&pid=News",
-        "timestamp": 1795060800.0
-    },
-    {
-        "id": "6fad9a1f82",
-        "title_fa": "شوک انرژی جنگ با ای-ران و دگرگونی بازارهای جهانی",
-        "title_en": "There is no going back 'to the way it was before' the Iran war's energy shock, IEA says",
-        "summary": [
-            "آژانس بین‌المللی انرژی اعلام کرد بحران ناشی از جنگ ای-ران ساختار تأمین انرژی جهان را برای همیشه تغییر داده و راه بازگشتی به گذشته وجود ندارد.",
-            "مسدود شدن تنگه هرمز و قطع جریان نفت، کشورهای وابسته را به سمت امنیت انرژی، توسعه انرژی‌های تجدیدپذیر و حتی استفاده از زغال‌سنگ به عنوان پشتیبان سوق داده است."
-        ],
-        "impact": "تسریع گذار جهانی از سوخت‌های فسیلی سنتی به سمت انرژی‌های پاک و منابع جایگزین به دلیل ناامنی‌های منطقه.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "BNN Bloomberg",
-        "url": "https://www.bnnbloomberg.ca/markets/oil/2026/11/19/there-is-no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says/",
-        "clean_url": "https://www.bnnbloomberg.ca/markets/oil/2026/11/19/there-is-no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says",
-        "image": "http://www.bing.com/th?id=ONUT.b2W5yEk8UYSagOCCrC81Lw&pid=News",
-        "timestamp": 1795059900.0
     }
 ]
