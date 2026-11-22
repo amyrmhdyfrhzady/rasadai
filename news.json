@@ -1,5 +1,23 @@
 [
     {
+        "id": "b272571011",
+        "title_fa": "خطای امنیتی در دریافت خبر",
+        "title_en": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+        "summary": [
+            "منبع خبری مورد نظر در دسترس نبوده و درخواست توسط سیستم امنیتی مسدود شده است.",
+            "محتوای این خبر فاقد ارزش تحلیلی به دلیل عدم دسترسی به متن اصلی است."
+        ],
+        "impact": "این خبر فاقد تاثیرگذاری عملیاتی یا سیاسی است.",
+        "tag": "خطای سیستمی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/11/22/israel-s-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/22/israel-s-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank",
+        "image": "https://vid.alarabiya.net/images/2026/11/22/f5ab4f81-894a-46ad-b6b7-d21b9528e23c/f5ab4f81-894a-46ad-b6b7-d21b9528e23c_16x9_600x338.JPG",
+        "timestamp": 1795372920.0
+    },
+    {
         "id": "0299760ec6",
         "title_fa": "هشدار اطلاعات ارتش اسرائیل درباره جنگ چندجبهه‌ای",
         "title_en": "IDF intelligence said to warn unilateral Iran strike could spark multi-front war",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0lwWVdqMlEzMDB1SGhlNjZ6cWNDejdBOWtyLVZtalRBcEp4REZEQVdBN0lTVmd1RThCVnFtUzM4OER6SDhGcWNmOEpqdlQ4SDlBZFkzYUR2ZkZBNThQZDNVRkU0U0J0TG9GdUFaZWk0TGFwTGlta1JrbzY5dDNaeGwybjR4c3M",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795117619.0
-    },
-    {
-        "id": "239eb592c8",
-        "title_fa": "شوک انرژی جنگ با ای‌ران و روی آوردن به انرژی خورشیدی و هسته‌ای",
-        "title_en": "Iran war energy shock boosts solar and nuclear power",
-        "summary": [
-            "بحران و ناامنی در منطقه خلیج فارس بازارهای جهانی انرژی را به شدت تحت تأثیر قرار داده است.",
-            "کشورها برای کاهش وابستگی به سوخت‌های فسیلی منطقه، سرمایه‌گذاری روی انرژی خورشیدی و هسته‌ای را تسریع کرده‌اند."
-        ],
-        "impact": "تنش‌های نظامی ساختار تأمین انرژی جهان را به سمت منابع جایگزین هل می‌دهد.",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Business Journal",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aM3YydmR1TkJJcS1lNUtacXZKbzJsc2JDd0lXUlBDU0tMNUlSUnpyd1lYbzFWS1dHak9nTWRTblBLdlptMnY5Wm9DczlUTVJ5UTlCdXV2dW9TVDcyRWVpa3lhUlBuekRIMVFIUmJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aM3YydmR1TkJJcS1lNUtacXZKbzJsc2JDd0lXUlBDU0tMNUlSUnpyd1lYbzFWS1dHak9nTWRTblBLdlptMnY5Wm9DczlUTVJ5UTlCdXV2dW9TVDcyRWVpa3lhUlBuekRIMVFIUmJ3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795116549.0
     }
 ]
