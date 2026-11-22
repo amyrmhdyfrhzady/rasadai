@@ -438,6 +438,24 @@
         "timestamp": 1795304805.0
     },
     {
+        "id": "7d954b5985",
+        "title_fa": "خطای امنیتی در منبع خبری العربیه",
+        "title_en": "Saudi-led coalition intercepts Houthi ballistic missile, three drones",
+        "summary": [
+            "متن دریافتی حاوی پیام مسدودسازی امنیتی است و خبر واقعی را شامل نمی‌شود.",
+            "هیچ اطلاعات مفیدی برای تحلیل ژئوپلیتیک از این منبع قابل استخراج نیست."
+        ],
+        "impact": "عدم دسترسی به اطلاعات به دلیل خطای سرور منبع.",
+        "tag": "خطای سیستمی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/11/22/saudiled-coalition-intercepts-houthi-ballistic-missile-three-drones",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/22/saudiled-coalition-intercepts-houthi-ballistic-missile-three-drones",
+        "image": "https://vid.alarabiya.net/images/2026/11/02/3695f2e3-570c-444d-960e-1552357668b1/3695f2e3-570c-444d-960e-1552357668b1_16x9_1200x676.jpg?width=555",
+        "timestamp": 1795299180.0
+    },
+    {
         "id": "ed33a79a25",
         "title_fa": "ادعای مقام دفتر خامنه‌ای درباره ترمیم انبارهای موشکی",
         "title_en": "Khamenei office official says Iran restored strategic missile stocks",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://today.lorientlejour.com/article/1555076/evening-recap-trump-points-to-2027-for-possible-resumption-of-strikes-on-iran-baghdad-and-kataeb-hezbollah-reach-deal-riyadh-tower-hit.html",
         "image": "https://s.lorientlejour.com/storage/attachments/1556/medias_982640_792539.jpeg/r/800/medias_982640_792539.jpeg",
         "timestamp": 1795070940.0
-    },
-    {
-        "id": "e0dd48b367",
-        "title_fa": "عبور هزینه‌های جنگ ایران از ۴۸ میلیارد دلار در آمریکا",
-        "title_en": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
-        "summary": [
-            "روزنامه بوستون هرالد گزارش داد هزینه‌های جنگ مرتبط با ایران از ۴۸ میلیارد دلار فراتر رفته و قانون‌گذاران آمریکایی خواستار دریافت برآوردهای منتشرنشده درباره خسارت به پایگاه‌ها شده‌اند.",
-            "بر اساس این گزارش، سناتور دموکرات ریچارد بلومنتال از آرتور میلر، مقام بودجه‌ای پنتاگون، میزان خسارت واردشده به تاسیسات آمریکا را جویا شد که میلر اعلام کرد چنین برآوردی در اختیار ندارد."
-        ],
-        "impact": "رشد هزینه‌های نظامی و نبود آمار دقیق از خسارت پایگاه‌ها، فشار کنگره بر پنتاگون برای شفاف‌سازی مالی و عملیاتی را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/11/19/iran-war-costs-billions/",
-        "clean_url": "https://www.bostonherald.com/2026/11/19/iran-war-costs-billions",
-        "image": "http://www.bing.com/th?id=ONUT.KoSOIo2QODyiMcCMZBfU6w&pid=News",
-        "timestamp": 1795070280.0
     }
 ]
