@@ -351,6 +351,25 @@
         "timestamp": 1795319514.4184
     },
     {
+        "id": "5f3a8da3af",
+        "title_fa": "تنش حاد در خلیج فارس؛ حملات س*پ*ا*ه به مواضع آمریکا در بحرین",
+        "title_en": "What’s behind Iran’s escalation of attacks in the Gulf?",
+        "summary": [
+            "نیروهای نظامی ایران با هدف قرار دادن رادارهای پایگاه آمریکا در بحرین و حمله به ۲۵ نفت‌کش در تنگه هرمز، فشار را برای شکستن محاصره دریایی بالا برده‌اند.",
+            "اذعان مسعود پزشکیان به وجود «جنگ خاموش اقتصادی»، نشان‌دهنده بن‌بست شدید مالی و تلاش حکومت برای باج‌گیری موشکی در منطقه است.",
+            "اختلال مستقیم در عبور یک‌پنجم نفت جهان، سیگنالی خطرناک به واشنگتن برای تحمیل هزینه‌های سنگین‌تر انرژی است."
+        ],
+        "impact": "جهش ناگهانی قیمت جهانی نفت و افزایش احتمال درگیری مستقیم نیروهای سنتکام با واحدهای دریایی ایران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
+        "clean_url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T054830Z_561340037_RC2TSOAVQ66D_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1-1795348266.jpg?resize=1758%2C1080",
+        "timestamp": 1795319160.0
+    },
+    {
         "id": "9885136890",
         "title_fa": "نمایش شهر موشکی سپاه همزمان با تلاش‌های دیپلماتیک",
         "title_en": "Middle East latest: Iran releases video of 'missile city' as diplomatic efforts to end war continue",
@@ -367,6 +386,96 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSEtqWUdwVW9rejFyUGR6YVdGNnU2QUxCMUk4QjdRMXJqLUJBR1FKMUlPbG8yY3FUYk9tV3l3b2tOYlF6MDkxUjBOOHZtSmFSTUduVU9oTGNoUlVQTUhWd0k3ZEloV0xERXVKN1NMWmxzRjJ0RUtkY0FpNnNJWDI0V1lCV2xpVEhtcl8zTFppdktPZw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795318069.0
+    },
+    {
+        "id": "9bd3bd0ac4",
+        "title_fa": "لغو ماموریت فضایی ژاپن و ناکامی در کشف راز شیء ناشناخته",
+        "title_en": "Harvard scientist may never prove mysterious space object’s origin after mission scrapped",
+        "summary": [
+            "تصمیم آژانس فضایی ژاپن برای لغو فرود روی سیارک ۱۹۹۸ KY26، شانس اثبات فرضیه دانشمند هاروارد را از بین برد.",
+            "این شیء فضایی می‌توانست باقی‌مانده کاوشگر گمشده فوبوس-۱ شوروی باشد که اکنون راز آن برای همیشه مکتوم می‌ماند."
+        ],
+        "impact": "توقف تحقیقات پرهزینه درباره تاریخچه کاوش‌های فضایی جنگ سرد.",
+        "tag": "فناوری",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/science/general/harvard-scientist-may-never-prove-mysterious-space-object-s-origin-after-mission-scrapped/ar-AA2hXN9w",
+        "clean_url": "https://www.msn.com/en-us/science/general/harvard-scientist-may-never-prove-mysterious-space-object-s-origin-after-mission-scrapped/ar-AA2hXN9w",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795316427.0
+    },
+    {
+        "id": "f3bb17c83a",
+        "title_fa": "نفوذ سرویس اطلاعاتی چین به رده‌های بالای فناوری آمریکا",
+        "title_en": "Would You Buy a Used Civilization From This Man?",
+        "summary": [
+            "ارتباط افشا شده رهبران فناوری با عوامل نفوذی پکن، امنیت داده‌های راهبردی غرب را با چالش جدی مواجه کرده است.",
+            "فروش میلیاردی تکنولوژی‌های کلیدی به چین، ضعف شدید ردیابی امنیتی در قبال جاسوسی صنعتی پکن را برملا کرد."
+        ],
+        "impact": "تشدید نظارت‌های امنیتی فدرال و سخت‌تر شدن قوانین انتقال فناوری به شرکت‌های مرتبط با چین.",
+        "tag": "جاسوسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
+        "clean_url": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
+        "image": "http://www.bing.com/th?id=ONUT.ib102sYABQql24LROo6kxA&pid=News",
+        "timestamp": 1795316400.0
+    },
+    {
+        "id": "2bcc0ff3fe",
+        "title_fa": "دور زدن آرای دادگاه‌ها توسط ترامپ برای پیشبرد اهداف فدرال",
+        "title_en": "Trump keeps losing in court. Here's how he gets what he wants anyway.",
+        "summary": [
+            "دونالد ترامپ با استفاده از اختیارات ویژه اجرایی، احکام دادگاه‌های فدرال را بی‌اثر کرده و پروژه‌های کلیدی خود را جلو می‌برد.",
+            "این رفتار از تقابل بی‌پریه قوه مجریه با ساختار قضایی آمریکا در دوره جدید خبر می‌دهد."
+        ],
+        "impact": "تضعیف استقلال سیستم قضایی آمریکا در برابر تصمیمات مستقیم کاخ سفید.",
+        "tag": "سیاست آمریکا",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-keeps-losing-in-court-here-s-how-he-gets-what-he-wants-anyway/ar-AA2hY52A",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-keeps-losing-in-court-here-s-how-he-gets-what-he-wants-anyway/ar-AA2hY52A",
+        "image": "http://www.bing.com/th?id=ONUT.ItgWuUv2D8EhGUKF38IjAw&pid=News",
+        "timestamp": 1795316400.0
+    },
+    {
+        "id": "c284f3bd3d",
+        "title_fa": "فلج شدن زیرساخت‌های فناوری آمریکا و انتقاد از سیاست‌های ترامپ",
+        "title_en": "How Trump decimated America’s cybersecurity",
+        "summary": [
+            "اختلال وسیع در مایکروسافت، خطوط هوایی و آژانس‌های فدرال، هشدار خطرات سایبری در سطح ملی را صادر کرد.",
+            "منتقدان، دستکاری و تعدیل بودجه نهاد امنیت سایبری (CISA) در دولت ترامپ را دلیل اصلی این حجم از آسیب‌پذیری می‌دانند."
+        ],
+        "impact": "افزایش فشارهای سناتورها برای بازنگری فوری در بودجه دفاع سایبری ایالات متحده.",
+        "tag": "سایبر",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ms",
+        "url": "https://www.ms.now/opinion/trump-cybersecurity-cuts-cyberattack-tech",
+        "clean_url": "https://www.ms.now/opinion/trump-cybersecurity-cuts-cyberattack-tech",
+        "image": "http://www.bing.com/th?id=ONUT.RWlkEpB6_3CzYFyB9gjpTQ&pid=News",
+        "timestamp": 1795316400.0
+    },
+    {
+        "id": "110cbd98cd",
+        "title_fa": "هشدار متخصصان درباره خطرات پنهان سندرم PMOS در زنان",
+        "title_en": "Doctors thought this was just a uterus problem. It’s so much more than that",
+        "summary": [
+            "تحقیقات جدید ثابت می‌کند بی‌نظمی در قاعدگی خطرات سلامتی طولانی‌مدتی بسیار فراتر از چالش‌های باروری دارد.",
+            "پزشکان بر لزوم تغییر پروتکل‌های درمانی و عدم تقلیل این بیماری به یک مشکل ساده زنانه تاکید دارند."
+        ],
+        "impact": "تغییر روش‌های تشخیص زودهنگام و افزایش آگاهی در سیستم‌های بهداشتی.",
+        "tag": "پزشکی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/22/health/video/pmos-misdiagnosis-more-than-uterus-problem-pamela-brown-body-language-vod",
+        "clean_url": "https://www.cnn.com/2026/11/22/health/video/pmos-misdiagnosis-more-than-uterus-problem-pamela-brown-body-language-vod",
+        "image": "http://www.bing.com/th?id=ONUT.X3Z0y2ikco7Rg0KHYJbJmQ&pid=News",
+        "timestamp": 1795316400.0
     },
     {
         "id": "e19408918f",
@@ -550,6 +659,24 @@
         "timestamp": 1795299180.0
     },
     {
+        "id": "b6428ae9b3",
+        "title_fa": "تشدید شکاف سیاسی میان جمهوری‌خواهان و دمکرات‌ها در کنگره",
+        "title_en": "Republicans just gave Democrats, and voters, the middle finger | Opinion",
+        "summary": [
+            "بی‌توجهی ترامپ و جناح محافظه‌کار به نتایج انتخابات، فضای تقابل شدیدی را در دوره جدید کنگره رقم زده است.",
+            "جمهوری‌خواهان در حال بستن تمامی مسیرهای مصالحه با حزب مقابل پیش از تحویل قدرت هستند."
+        ],
+        "impact": "قفل شدن لایحه‌های بودجه و مصوبات کلیدی در کنگره آمریکا.",
+        "tag": "سیاست آمریکا",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The News & Observer",
+        "url": "https://www.newsobserver.com/opinion/article318198958.html",
+        "clean_url": "https://www.newsobserver.com/opinion/article318198958.html",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795299120.0
+    },
+    {
         "id": "ed33a79a25",
         "title_fa": "ادعای مقام دفتر خامنه‌ای درباره ترمیم انبارهای موشکی",
         "title_en": "Khamenei office official says Iran restored strategic missile stocks",
@@ -729,6 +856,24 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/lebanons-aoun-tells-iran-to-stop-interfering-in-its-affairs-insists-that-israeli-withdrawal-is-only-path-to-peace",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/2025-03-10T090440Z_1761225347_RC2Q7DAF1U3Q_RTRMADP_3_DENMARK-OLDEST-640x400.jpg",
         "timestamp": 1795288620.0
+    },
+    {
+        "id": "c37b513f50",
+        "title_fa": "چرخش دیپلماتیک ترامپ به سمت رهبران چین و روسیه",
+        "title_en": "Littwin: After a midterm fiasco, Trump needed a hug from Putin and Xi — a trilateral axis of evil",
+        "summary": [
+            "دیدار ترامپ با پوتین و شی جین‌پینگ پس از فشارهای داخلی انتخابات، نشان‌دهنده تلاش او برای بازتعریف موازنه قدرت جهانی است.",
+            "این رویکرد موجی از انتقادات شدید را درباره تضعیف موقعیت تاریخی واشنگتن در برابر بلوک شرق ایجاد کرده است."
+        ],
+        "impact": "برهم خوردن اتحادهای سنتی غرب و تغییر معادلات در پرونده‌های کلیدی بین‌المللی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Colorado Sun",
+        "url": "https://coloradosun.com/2026/11/22/littwin-after-midterms-trump-needed-hug-putin-xi/",
+        "clean_url": "https://coloradosun.com/2026/11/22/littwin-after-midterms-trump-needed-hug-putin-xi",
+        "image": "http://www.bing.com/th?id=ONUT.d-qAuEHiu1dELuDfKeMOEQ&pid=News",
+        "timestamp": 1795286700.0
     },
     {
         "id": "dfac29f708",
@@ -5338,153 +5483,5 @@
         "clean_url": "https://www.ynetnews.com/opinions-analysis/article/h1t7zj3rfl",
         "image": "http://www.bing.com/th?id=ONUT.F6rX0eFNJpb50UKwCfHHKw&pid=News",
         "timestamp": 1795079220.0
-    },
-    {
-        "id": "40a445c134",
-        "title_fa": "التیماتوم ترامپ و آغاز درگیری نظامی با ایران",
-        "title_en": "The Paradox of American Credibility",
-        "summary": [
-            "دونالد ترامپ پس از شکست مذاکرات هسته‌ای، التیماتوم سختی به تهران داد.",
-            "فشارهای واشنگتن و رد درخواست‌ها به جنگی ختم شد که همچنان ادامه دارد.",
-            "استفاده از نیروی نظامی به ابزاری برای بازدارندگی و تحمیل خواسته‌های آمریکا تبدیل شده است."
-        ],
-        "impact": "هزینه مقاومت در برابر خواسته‌های آمریکا به یک درگیری تمام‌عیار نظامی کشیده شد.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/united-states/paradox-american-credibility",
-        "clean_url": "https://www.foreignaffairs.com/united-states/paradox-american-credibility",
-        "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/11/18/2026-09-14T191619Z_1748388090_RC2AHNABI3T2_RTRMADP_3_IRAN-CRISIS-USS-GEORGE-WASHINGTON.JPG?itok=o0VANFfW",
-        "timestamp": 1795078800.0
-    },
-    {
-        "id": "5148e6e7d7",
-        "title_fa": "تاثیر تغییرات کنگره بر پرونده جـ.ـهـ.ـوری اسـ.ـلامـ.ـی و اسـ.ـراییـ.ـل",
-        "title_en": "Commentary: What a Democratic Congress means for Iran, Israel and Ukraine",
-        "summary": [
-            "موازنه قدرت در کنگره آمریکا به طور مستقیم سیاست خارجی این کشور در قبال خاورمیانه را شکل می‌دهد.",
-            "تغییرات در ترکیب نمایندگان می‌تواند حمایت‌ها از اسـ.ـراییـ.ـل و فشارها بر جـ.ـهـ.ـوری اسـ.ـلامـ.ـی را دستخوش تحول کند."
-        ],
-        "impact": "جهت‌گیری واشنگتن در پرونده هسته‌ای و حمایت از متحدانش تغییر خواهد کرد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Yakima Herald-Republic",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHVCT0dPR29LQzFFYk00dFpaLVBDc1pPQXdwYUZYNGNPY0xkblpmbkFTRms1dlhpSjNHbHo5UTlRdjBRdl85VEg1XzAxd3p6NTdnelVRZmFHQm9SMzJDVGhiSkczUkJYdTdTWHBCTlp0N1ZVUXZmMURlX0xaUHRkR19JM21qOWhGRTBGOG5QWVBaRV9lV2xsX3h0UVVCNkhiY3BXVEx1U2c3elhNOUY2SUh1YUJrWDZVeHpRZUdyaTdsZ2Rtb2ZDaTNZcGY2TTRiVjlCQXQxODlsa3BERURCeExqX09ONUpldFdYblpZZ9IB9AFBVV95cUxOOTVGLW1IWEREX1VnZy1zSjJsNHJzcFRLT1hza21OaEhzZHJKMHI1WUJQMDFNWWVwcGp5Y1RlUzR2eWhrYmxPSkZYd3p1NzR1RmdRYmdpRXVtX2F3ei1hMFh6TXRCWE9oMU1BMEYyX1NnenljWUt5WVpfdWh2TWtSc2dkRHBITXpPaXUxNmUxeWNtZkFMX3VRdUI5RlJFMERabTY2bGFPS2ZEc2w0V1QtSHRxOG1RX1BMS0RjQlVKWTdIX0o0QjlMUEtxU2JOdm9uRjFvVWRhanZfRFBma2tHRjBUZl82Z083VFlGMDBmN1RCbHdX?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHVCT0dPR29LQzFFYk00dFpaLVBDc1pPQXdwYUZYNGNPY0xkblpmbkFTRms1dlhpSjNHbHo5UTlRdjBRdl85VEg1XzAxd3p6NTdnelVRZmFHQm9SMzJDVGhiSkczUkJYdTdTWHBCTlp0N1ZVUXZmMURlX0xaUHRkR19JM21qOWhGRTBGOG5QWVBaRV9lV2xsX3h0UVVCNkhiY3BXVEx1U2c3elhNOUY2SUh1YUJrWDZVeHpRZUdyaTdsZ2Rtb2ZDaTNZcGY2TTRiVjlCQXQxODlsa3BERURCeExqX09ONUpldFdYblpZZ9IB9AFBVV95cUxOOTVGLW1IWEREX1VnZy1zSjJsNHJzcFRLT1hza21OaEhzZHJKMHI1WUJQMDFNWWVwcGp5Y1RlUzR2eWhrYmxPSkZYd3p1NzR1RmdRYmdpRXVtX2F3ei1hMFh6TXRCWE9oMU1BMEYyX1NnenljWUt5WVpfdWh2TWtSc2dkRHBITXpPaXUxNmUxeWNtZkFMX3VRdUI5RlJFMERabTY2bGFPS2ZEc2w0V1QtSHRxOG1RX1BMS0RjQlVKWTdIX0o0QjlMUEtxU2JOdm9uRjFvVWRhanZfRFBma2tHRjBUZl82Z083VFlGMDBmN1RCbHdX",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795077316.0
-    },
-    {
-        "id": "8677849250",
-        "title_fa": "خشم اروپا از «دوست» خواندن پوتین توسط ترامپ در چین",
-        "title_en": "Trump Draws Ire Over Calling Putin His 'Friend' as Europe Rallies to Support Ukraine",
-        "summary": [
-            "مجله تایم گزارش داد استقبال گرم دونالد ترامپ از ولادیمیر پوتین در حاشیه نشست اپک در چین و «دوست من» خطاب کردن او، خشم و نگرانی شماری از قانون‌گذاران اروپایی را برانگیخت.",
-            "دونالد توسک، نخست‌وزیر لهستان، پیش از عزیمت به نشست برلین با کنایه به این موضع در شبکه‌های اجتماعی نوشت: «خدایا ما را از دست چنین دوستانی حفظ کن.»",
-            "در نشست «ائتلاف داوطلبان» در برلین با حضور رهبران آلمان، فرانسه، بریتانیا، ایتالیا، دبیرکل ناتو و ولودیمیر زلنسکی، اروپا جایگاهی در میز دور بعدی مذاکرات روسیه با میانجی‌گری آمریکا کسب کرد.",
-            "به نوشته تایم، استیو ویتکاف و جرد کوشنر، فرستادگان آمریکا، در این جلسه گزارشی از دیدارهای ترامپ و پوتین در چین را به طرف‌های اروپایی ارائه دادند."
-        ],
-        "impact": "تضمین حضور اروپا در میز مذاکرات آینده اوکراین پس از دیدار ترامپ و پوتین، معادلات دیپلماتیک میان واشنگتن و متحدان اروپایی را وارد مرحله تازه‌ای می‌کند.",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/11/19/trump-calls-putin-friend-european-response-tusk-ukraine-war/",
-        "clean_url": "https://time.com/article/2026/11/19/trump-calls-putin-friend-european-response-tusk-ukraine-war",
-        "image": "http://www.bing.com/th?id=ONUT.JQ5UBDYZhREtVt4sfsuOjg&pid=News",
-        "timestamp": 1795076940.0
-    },
-    {
-        "id": "c7d79bf381",
-        "title_fa": "فاصله‌گیری ایلان ماسک از جریان ماگا و ترامپ",
-        "title_en": "‘I’m not MAGA’: Elon Musk’s craven political turn",
-        "summary": [
-            "ماسک با اعلام اینکه ایدئولوژی میانه‌رو دارد، از جنبش ماگا و حمایت مالی از جمهوری‌خواهان ابراز پشیمانی کرد",
-            "این چرخش سیاسی نشان‌دهنده تردید حامیان بزرگ مالی در مورد آینده سیاسی ترامپ است"
-        ],
-        "impact": "تضعیف پایگاه حمایتی ترامپ در میان نخبگان اقتصادی سیلیکون‌ولی",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/19/politics/elon-musk-not-maga-trump",
-        "clean_url": "https://www.cnn.com/2026/11/19/politics/elon-musk-not-maga-trump",
-        "image": "http://www.bing.com/th?id=ONUT.mjHfDWknO2Y8fHq2neB_ow&pid=News",
-        "timestamp": 1795074960.0
-    },
-    {
-        "id": "70a39f9aee",
-        "title_fa": "پیشتازی روبیو در نظرسنجی‌های انتخاباتی ۲۰۲۸",
-        "title_en": "Rubio leads Vance, Ossoff surges to top for Democrats, in 2028 poll",
-        "summary": [
-            "مارکو روبیو در نظرسنجی‌های اولیه برای انتخابات آینده از ونس پیشی گرفته است",
-            "خیزش دموکرات‌ها با محوریت آساف در میان رای‌دهندگان، رقابت‌های آتی را پیچیده‌تر کرده است"
-        ],
-        "impact": "تغییر آرایش نیروها در رقابت‌های درون‌حزبی برای انتخابات آینده",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/politics/2026/11/19/rubio-ossoff-lead-presidential-polls/92858122007/",
-        "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/19/rubio-ossoff-lead-presidential-polls/92858122007",
-        "image": "http://www.bing.com/th?id=ONUT._a983PbJ59FdXf76ZQlLmA&pid=News",
-        "timestamp": 1795074900.0
-    },
-    {
-        "id": "83bc83d789",
-        "title_fa": "مخالفت صریح ترامپ با مقررات بین‌المللی هوش مصنوعی",
-        "title_en": "US opposes global regulations on artificial intelligence, Trump says",
-        "summary": [
-            "ترامپ در اجلاس اپک تاکید کرد واشنگتن با هرگونه مقررات جهان‌گرایانه که باعث محدودیت هوش مصنوعی شود مخالفت می‌کند.",
-            "کاخ سفید قصد دارد به جای تن دادن به قوانین بین‌المللی، کنترل خطرات هوش مصنوعی را به صورت مستقل مدیریت کند.",
-            "این موضع‌گیری نشان‌دهنده خط‌مشی آمریکا برای حفظ سرعت در رقابت سنگین تکنولوژیک با چین است."
-        ],
-        "impact": "توسعه هوش مصنوعی در آمریکا بدون محدودیت‌های بین‌المللی شتاب می‌گیرد و نهادهای جهانی از مسیر مقررات‌گذاری حذف می‌شوند.",
-        "tag": "فناوری",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2221045",
-        "clean_url": "https://tass.com/world/2221045",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1795074060.0
-    },
-    {
-        "id": "723bdc2050",
-        "title_fa": "شکاف در حزب دموکرات بر سر بودجه جنگ با ایران",
-        "title_en": "Is playing hardball on Iran worth a shutdown? Democrats can't decide",
-        "summary": [
-            "دموکرات‌ها برای جلوگیری از تخصیص بودجه جدید برای درگیری نظامی با ایران، تهدید به تعطیلی دولت در ماه دسامبر کرده‌اند",
-            "اختلاف نظر داخلی در حزب دموکرات مانع از اتخاذ یک موضع واحد در برابر سیاست‌های جنگ‌طلبانه احتمالی شده است"
-        ],
-        "impact": "ایجاد بن‌بست سیاسی در واشنگتن برای تامین مالی عملیات‌های نظامی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/other/is-playing-hardball-on-iran-worth-a-shutdown-democrats-cant-decide/ar-AA2hLlkf",
-        "clean_url": "https://www.msn.com/en-us/news/other/is-playing-hardball-on-iran-worth-a-shutdown-democrats-cant-decide/ar-AA2hLlkf",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795073966.0
-    },
-    {
-        "id": "d86880efc4",
-        "title_fa": "فشار غرب به تهران برای بازگشت بازرسان آژانس",
-        "title_en": "West Presses Iran at IAEA to Let Inspections Resume at Bombed Nuclear Sites",
-        "summary": [
-            "آمریکا و سه کشور اروپایی قطعنامه مشترکی علیه برنامه اتمی جـ.ـمـ.ـهـ.ـو‌ر‌ی ا‌سـ.ـلا‌مـ.ـی صادر کردند.",
-            "تهران متهم به پنهان‌کاری و مانع‌تراشی در مسیر بازرسی تاسیسات آسیب‌دیده از حملات گذشته شده است."
-        ],
-        "impact": "تشدید تنش‌ها در شورای حکام و فراهم شدن مسیر برای صدور قطعنامه رسمی علیه تهران",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "U.S. News & World Report",
-        "url": "https://www.usnews.com/news/world/articles/2026-11-19/west-presses-iran-at-iaea-to-let-inspections-resume-at-bombed-nuclear-sites",
-        "clean_url": "https://www.usnews.com/news/world/articles/2026-11-19/west-presses-iran-at-iaea-to-let-inspections-resume-at-bombed-nuclear-sites",
-        "image": "https://www.usnews.com/dims4/USNEWS/d3ab6ca/2147483647/thumbnail/970x647/quality/85/?url=https://www.usnews.com/cmsmedia/e0/3cd55e75a885b10516f7b4e9cbb18c/tag:reuters.com,2026:newsml_LYNXNPEMAI1E8:12026-11-19T123557Z_1_LYNXNPEMAI1E8_RTROPTP_3_IRAN-CRISIS-NUCLEAR-IAEA.JPG",
-        "timestamp": 1795073700.0
     }
 ]
