@@ -57,6 +57,24 @@
         "timestamp": 1795377860.0
     },
     {
+        "id": "43309b319b",
+        "title_fa": "تکذیب ادعای ج.ا درباره آسیب به جنگنده آمریکایی",
+        "title_en": "'All jets safe': CENTCOM denies Iran's claim that it damaged F-16 fighter jet",
+        "summary": [
+            "سنتکام ادعای رسانه‌های حکومتی درباره آسیب دیدن جنگنده اف-۱۶ آمریکا را کاملاً رد کرد.",
+            "تمام جنگنده‌های ارتش آمریکا در منطقه در سلامت کامل به سر می‌برند و این ادعاها صرفاً مصرف داخلی دارد."
+        ],
+        "impact": "بی‌اعتبار شدن جنگ روانی و ادعاهای دروغین نهادهای نظامی ج.ا در سطح بین‌المللی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uVFlCZGMwaS1KWDVNSnpUYldMQ1pEdmVoQlBwLUdSbzVTU1ZnYmVsa29ickdMQzh5ZG83N3FiaHRDSndSRDJWT3pEM3pNQTVQQWFCT1NIczRQQzZGOE5lRDUtSHRJOUtlNmc?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uVFlCZGMwaS1KWDVNSnpUYldMQ1pEdmVoQlBwLUdSbzVTU1ZnYmVsa29ickdMQzh5ZG83N3FiaHRDSndSRDJWT3pEM3pNQTVQQWFCT1NIczRQQzZGOE5lRDUtSHRJOUtlNmc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795375704.0
+    },
+    {
         "id": "b272571011",
         "title_fa": "خطای امنیتی در دریافت خبر",
         "title_en": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
@@ -5466,24 +5484,5 @@
         "clean_url": "https://alhurra.com/en/56173",
         "image": "https://i0.wp.com/alhurra.com/wp-content/uploads/2026/11/2026-11-18T122814Z_490638214_RC2AQOAPC31T_RTRMADP_3_IRAN-CRISIS-NUCLEAR-IAEA.jpg?fit=1200,798&ssl=1",
         "timestamp": 1795132800.0
-    },
-    {
-        "id": "f3c884694e",
-        "title_fa": "تهدید حوثی‌ها به حمله موشکی علیه زیرساخت‌های عربستان",
-        "title_en": "Iran war live: Houthis demand evacuation at Saudi ports after Hodeidah hit",
-        "summary": [
-            "حوثی‌ها در واکنش به حملات ائتلاف سعودی، بنادر و مراکز مالی ریاض را تهدید به هدف‌گیری کردند",
-            "علی بلالی مشاور سپاه با ادبیات تکراری، تهدید به حملات موشکی مستقیم از سوی ج.ا.ا کرد",
-            "این تهدیدها نشان‌دهنده تلاش برای گسترش دامنه درگیری به خارج از مرزهای یمن است"
-        ],
-        "impact": "افزایش ریسک امنیتی در مسیرهای کشتیرانی دریای سرخ و تاسیسات نفتی منطقه",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2024/08/2024-08-21T095704Z_2007844093_RC2969A1HNRM_RTRMADP_3_ISRAEL-PALESTINIANS-SHIPPING-YEMEN-1724307412.jpg?resize=1920%2C1440",
-        "timestamp": 1795132740.0
     }
 ]
