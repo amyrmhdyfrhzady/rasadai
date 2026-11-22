@@ -1,5 +1,24 @@
 [
     {
+        "id": "8eb2a63737",
+        "title_fa": "هدف‌گیری بانک‌های جدید؛ آغاز دور تازه فشار بر ج.ا",
+        "title_en": "New US target bank points to wider campaign against Iran",
+        "summary": [
+            "آمریکا با شناسایی شبکه بانکی جدید، عملاً مسیرهای تنفس مالی ج.ا را مسدود می‌کند.",
+            "این اقدام نشان‌دهنده تغییر استراتژی از تحریم‌های کلی به سمت فلج کردن دقیق شریان‌های ارزی است.",
+            "تلاش واشنگتن برای بستن حفره‌های دور زدن تحریم‌ها، فشار بر سیستم بانکی را به نقطه جوش می‌رساند."
+        ],
+        "impact": "کاهش شدید توانایی ج.ا در تامین ارز و افزایش فشار بر نرخ دلار در بازار داخلی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdU9KTkhOTkhrVjdnUlZJYjBpdWpxRkV0cWtrN09YSlloeDFvTzl3WlpBb203MGpLSWU4dzBRcDZBSnVMWU4yTW5ETktoV25WMk5SWFZRWVUxNHRUTlAwUU9iZzlZZDZtMGdRNTFzUmw0N0YxTWdENTl3R1Bza0tENHFHVzJ4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdU9KTkhOTkhrVjdnUlZJYjBpdWpxRkV0cWtrN09YSlloeDFvTzl3WlpBb203MGpLSWU4dzBRcDZBSnVMWU4yTW5ETktoV25WMk5SWFZRWVUxNHRUTlAwUU9iZzlZZDZtMGdRNTFzUmw0N0YxTWdENTl3R1Bza0tENHFHVzJ4UQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795344142.0
+    },
+    {
         "id": "5594b1326e",
         "title_fa": "قمار سنگین ایران برای شکستن محاصره دریایی آمریکا",
         "title_en": "Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame",
@@ -5466,24 +5485,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VeWxTd2pabVozVnNRbk9IbDE1bWlhNnczellxWDNveUZydWw2NFlyQkM5azRwenpaZTF1Y05PdldhOGJVV3hxbDVCTl9XYWJFaUI0YTZhVDVXZw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795071544.0
-    },
-    {
-        "id": "3c9640d3c0",
-        "title_fa": "سقوط آزاد طلا و فلزات گرانبها در بازارهای جهانی",
-        "title_en": "Gold hits 14-month low: Why are silver and copper prices falling too? Experts explain what investors should do now",
-        "summary": [
-            "قیمت طلا به پایین‌ترین سطح ۱۴ ماه اخیر سقوط کرد و از کانال ۳۸۰۰ دلار عقب نشست.",
-            "تقویت دلار آمریکا و افزایش سود اوراق قرضه خزانه داری، فشار سنگینی بر فلزات گرانبها وارد کرده است.",
-            "انتظار افزایش بیشتر نرخ بهره توسط فدرال رزرو، سرمایه‌گذاران را به سمت فروش دارایی‌ها سوق داده است."
-        ],
-        "impact": "تشدید خروج سرمایه از بازار طلا و نقره و افزایش جذابیت دلار برای سرمایه‌گذاران خرد.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Mint",
-        "url": "https://www.livemint.com/money/personal-finance/gold-hits-14-month-low-why-are-silver-and-copper-prices-falling-too-experts-explain-what-investors-should-do-now-11795063390311.html",
-        "clean_url": "https://www.livemint.com/money/personal-finance/gold-hits-14-month-low-why-are-silver-and-copper-prices-falling-too-experts-explain-what-investors-should-do-now-11795063390311.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/11/19/382x214/gold_falls_1795070158264_9vtG_1795070169623_1G5c_a9098d23-cb8b-4a8e-83b8-663d209eed44_1erY.png",
-        "timestamp": 1795071240.0
     }
 ]
