@@ -1,5 +1,23 @@
 [
     {
+        "id": "0b04f0aa7d",
+        "title_fa": "تهدید آتشین ترامپ علیه ناوگان ج.ا در صورت شکست مذاکرات",
+        "title_en": "'Bottom of the sea': Trump threatens Iranian navy, weighs new attacks by New Year if talks fail",
+        "summary": [
+            "دونالد ترامپ با لحنی بی‌پرده و به شدت هشداردهنده، ارتش ایران را تهدید به نابودی و فرستادن به ته دریا کرده است.",
+            "واشنگتن برنامه‌ریزی برای دور جدیدی از حملات را تا پیش از سال نو میلادی در دستور کار دارد اگر تهران تسلیم خواسته‌های مهارکننده نشود."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی و به هم خوردن بازارهای مالی و ارزی به دلیل سایه جنگ.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5R1d3NnpMQnptb3pLTTllV21oWmJIRE8zeHJxNkNFYjVma2VYMTQwZ3hyVzgyRE5MS092bEo1elJGSzB2SEhqM0tzRXZRR3ZWckQyV3pRcDRwdVIzUURz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5R1d3NnpMQnptb3pLTTllV21oWmJIRE8zeHJxNkNFYjVma2VYMTQwZ3hyVzgyRE5MS092bEo1elJGSzB2SEhqM0tzRXZRR3ZWckQyV3pRcDRwdVIzUURz",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795370335.0
+    },
+    {
         "id": "f41660a054",
         "title_fa": "ترامپ در دوراهی تصمیم‌گیری درباره جـ.ـهـ.ـوری اسـ.ـلامـ.ـی",
         "title_en": "Trump is still weighing his options, but Iran may leave him no choice",
@@ -5470,25 +5488,5 @@
         "clean_url": "https://www.iranintl.com/en/202611192862",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/ff24505305f1ce5468e3a73e5cbcf1fa04ea4627-1280x853.png?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1795112400.0
-    },
-    {
-        "id": "882ba3599e",
-        "title_fa": "ادعای سلاح بیولوژیکی ترامپ و تشدید درگیری‌ها در تنگه هرمز",
-        "title_en": "Iran may be working on biological weapons, Trump says",
-        "summary": [
-            "به گزارش فاکس‌نیوز، دونالد ترامپ، رئیس‌جمهور آمریکا، مدعی شد نشانه‌هایی وجود دارد که ایران به دلیل آسیب‌های واردشده به برنامه هسته‌ای خود، در حال کار بر روی توسعه سلاح‌های بیولوژیکی یا شیمیایی است.",
-            "وزارت امور خارجه ایران این اتهامات را رد کرد و سخنان رئیس‌جمهور آمریکا را پیروی از «همان سناریوی جعلی» توصیف نمود.",
-            "بر اساس گزارش خبرگزاری یاهو، پس از حملات آمریکا به جزیره قشم در تنگه هرمز، بحرین و کویت از رهگیری سلاح‌های پرتاب‌شده از سوی ایران خبر دادند و شرکت ملی نفت امارات نیز مفقود شدن یک خدمه خود پس از اصابت پرتابه به یکی از کشتی‌هایش را تأیید کرد.",
-            "ایران همچنین ادعا کرد دو نفتکش دیگر در تنگه هرمز با مین دریایی برخورد کرده و دچار آتش‌سوزی شده‌اند؛ ادعایی که هنوز از سوی منابع دیگر تأیید نشده است."
-        ],
-        "impact": "گسترش درگیری‌های نظامی به جزیره قشم، اصابت پرتابه به شناورها و ادعاهای مین‌گذاری، امنیت کشتیرانی و ترانزیت انرژی در تنگه هرمز را با اختلال و خطر جدی مواجه کرده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-ramps-retaliation-gulf-countries-083254158.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-ramps-retaliation-gulf-countries-083254158.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/cfd44cbf972e6fa78fe5f8db86593dde3257e21145ac4c05d92f7969f6e8eb09/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/f080644bc45f8ea360ea987967cdc4aa.jpg",
-        "timestamp": 1795111560.0
     }
 ]
