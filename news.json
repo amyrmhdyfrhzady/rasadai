@@ -1,5 +1,23 @@
 [
     {
+        "id": "2c328a377b",
+        "title_fa": "ریزش بازارهای مالی آمریکا و شعله‌ور شدن بحران‌های جهانی",
+        "title_en": "Sunday, November 22, 2026｜大谷昇治",
+        "summary": [
+            "سقوط سهام حوزه هوش مصنوعی شاخص‌های اصلی بورس آمریکا را به فاز اصلاحی کشاند و بازارها وارد وضعیت قرمز شدند.",
+            "هم‌زمان با اعلام بیانیه صلح میان قدرت‌های بزرگ، روسیه حملات سنگین موشکی به زیرساخت‌های اوکراین را کلید زد و تنش‌ها به مرزهای لهستان رسید."
+        ],
+        "impact": "افت شدید بازارهای مالی جهانی و تشدید نااطمینانی‌های امنیتی در شرق اروپا.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "note",
+        "url": "https://note.com/otanishoji/n/n5a6fefc1b7c7?hl=en",
+        "clean_url": "https://note.com/otanishoji/n/n5a6fefc1b7c7",
+        "image": "https://www.bing.com/th?id=ONUT.ulmAzpYQRncxC2pLbI_8PQ",
+        "timestamp": 1795319514.4184
+    },
+    {
         "id": "ac3a37af8c",
         "title_fa": "تهدید اتمی جMهوری اسلامی فراتر از چالش‌های داخلی آمریکا",
         "title_en": "Why a nuclear Iran poses a greater threat to the US than socialist Democrats",
@@ -5462,23 +5480,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWFJd1dJdWhQd01FYWQwT0hsREFkSXJfZXcyNnV1OVdUVlhILVc1R0xwQ2w1MG9uZFI2M0ZGTTkzMmRmZ01JOU45NWNHeHFwVmQzdGoxUWJoQTN1NmhRbUxJMFF3UlRTTDFudXhldGRHYzVSRGNuY05HVDczQmMxaTh2bTUzREhrcHRJakNJS3U0V092cDh4bUViV05CT0hseEpkcFRSRjNPZ3ByaEhISFFlaEltQ0t0U3F5bkFGUFpMbHJ6a0Jjek9n",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795059570.0
-    },
-    {
-        "id": "6df7799a2d",
-        "title_fa": "بحران خلیج فارس و تهدید کم‌سابقه امنیت انرژی",
-        "title_en": "Middle East war: Riyadh skyscraper damaged, tanker hit near Oman as Trump weighs fresh Iran strikes",
-        "summary": [
-            "آژانس بین‌المللی انرژی بحران تنگه هرمز را بزرگ‌ترین تهدید تاریخ برای امنیت انرژی جهان اعلام کرد.",
-            "هم‌زمان با بررسی حملات تازه علیه حکومت ایران توسط ترامپ، یک نفتکش در نزدیکی عمان هدف قرار گرفت و به ساختمانی در ریاض خسارت وارد شد."
-        ],
-        "impact": "جهش احتمالی قیمت انرژی و تشدید نااطمینانی در بازارهای جهانی نفت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Gulf News",
-        "url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996",
-        "clean_url": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996",
-        "image": "https://media.assettype.com/gulfnews/2026-11-19/64yap8i7/trump_plan.gif?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "timestamp": 1795059540.0
     }
 ]
