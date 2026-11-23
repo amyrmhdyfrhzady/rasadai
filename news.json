@@ -515,6 +515,24 @@
         "timestamp": 1795419900.0
     },
     {
+        "id": "f8dcee196d",
+        "title_fa": "موج جدید تحریم‌های آمریکا علیه شبکه‌های مالی و تجاری ایران",
+        "title_en": "US issues new Iran-related sanctions",
+        "summary": [
+            "واشنگتن دور تازه‌ای از فشارهای هدفمند را با تمرکز بر شریان‌های ارزی و شبکه‌های دور زدن تحریم‌ها کلید زده است.",
+            "این اقدامات عمدتاً شرکت‌های پوششی، شبکه‌های صرافی منطقه‌ای و ناوگان انتقال نفت را در تنگنا قرار می‌دهند."
+        ],
+        "impact": "شدت یافتن نوسانات در بازار آزاد ارز و افزایش هزینه مبادلات تجاری خارجی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/11/23/us-issues-new-iranrelated-sanctions-",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/23/us-issues-new-iranrelated-sanctions-",
+        "image": "https://vid.alarabiya.net/images/2026/10/29/4e1847f3-b32f-40fa-a49f-560830e5170d/4e1847f3-b32f-40fa-a49f-560830e5170d_16x9_600x338.jpg",
+        "timestamp": 1795419840.0
+    },
+    {
         "id": "fdc725e144",
         "title_fa": "هشدار صریح درباره خطرات توافق احتمالی با تـهـران",
         "title_en": "Iran deal could be worse for Israel than war, Middle East expert warns",
@@ -5469,23 +5487,5 @@
         "clean_url": "https://nypost.com/2026/11/21/world-news/two-tankers-hit-in-strait-of-hormuz-as-hawks-press-trump-to-resume-iran-strikes",
         "image": "http://www.bing.com/th?id=ONUT.WLsTuhBa6dQs-18mh1aw8g&pid=News",
         "timestamp": 1795212360.0
-    },
-    {
-        "id": "19ae7e80be",
-        "title_fa": "ضربه خزانه داری آمریکا به شبکه امنای نفتی ج.ا",
-        "title_en": "US Treasury sanctions Iranian 'trustees' collecting oil revenues",
-        "summary": [
-            "خزانه داری آمریکا مهره های کلیدی و افراد امین ج.ا که در زمینه جمع آوری درآمدهای نفتی فعالیت دارند را هدف تحریم قرار داد.",
-            "این اقدام مسیرهای دور زدن تحریم ها و تامین مالی بخش های امنیتی را بیش از پیش مسدود می کند."
-        ],
-        "impact": "تنگی بیشتر حلقه مالی و کاهش توان ج.ا در جذب درآمدهای صادرات نفت خام.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795211587.0
     }
 ]
