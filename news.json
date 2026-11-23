@@ -75,6 +75,25 @@
         "timestamp": 1795457329.0
     },
     {
+        "id": "9996266f9e",
+        "title_fa": "استقبال نتانیاهو از بازگشت مدیرعامل انویدیا و اهمیت استراتژیک غول تراشه‌سازی",
+        "title_en": "Netanyahu: Huang's return to Nvidia is 'good news'",
+        "summary": [
+            "واکنش مستقیم نتانیاهو به بازگشت جنسن هوانگ، از وابستگی شدید اقتصاد و بخش فناوری تل‌آویو به غول‌های تراشه‌سازی سیلیکون‌ولی حکایت دارد.",
+            "مراکز تحقیق و توسعه انویدیا در اسرائیل با اشتغال هزاران مهندس، نه‌تنها شریان اقتصادی بلکه بخشی از زیرساخت‌های فناوری و امنیتی این کشور محسوب می‌شوند.",
+            "مطرح شدن حواشی نفوذ و جاسوسی مرتبط با چین در راس این شرکت، حساسیت‌های اطلاعاتی میان آمریکا، اسرائیل و پکن را پررنگ‌تر می‌کند."
+        ],
+        "impact": "تثبیت حضور و سرمایه‌گذاری‌های سنگین انویدیا در زیرساخت‌های فناوری اسرائیل در اوج رقابت‌های حوزه‌ های‌تک.",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-huangs-return-to-nvidia-is-good-news/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-huangs-return-to-nvidia-is-good-news",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/montage-2up-20261123-a48c2d.jpg",
+        "timestamp": 1795456080.0
+    },
+    {
         "id": "a2def10391",
         "title_fa": "شکاف در بدنه اطلاعاتی اسرائیل درباره حمله به ایران",
         "title_en": "Mossad Analysts Object to Immediate Strike on Iran as Chief Pushes for Netanyahu-Backed Attack",
@@ -5471,24 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202611219832",
         "image": "http://www.bing.com/th?id=ONUT.tsh0ETKWxK9807R1iIEoyg&pid=News",
         "timestamp": 1795224000.0
-    },
-    {
-        "id": "72693006a3",
-        "title_fa": "ریزش سهام هوش مصنوعی؛ ترس بازار یا حباب؟",
-        "title_en": "Gene Munster Says AI Sell-Off Is About Fear, Not Fundamentals — ‘The Window For Investment Gains Remains Open’",
-        "summary": [
-            "افت اخیر سهام شرکت‌های هوش مصنوعی ناشی از ترس سرمایه‌گذاران است نه ضعف بنیادین این صنعت.",
-            "اصلاح قیمت‌ها و افت ۳۰ تا ۵۰ درصدی شرکت‌ها نباید به معنی ترکیدن حباب تلقی شود.",
-            "دلیل اصلی افت بازار، نگرانی درباره سودآوری آینده و هزینه‌های سنگین زیرساختی است."
-        ],
-        "impact": "فرصت‌های طلایی سرمایه‌گذاری با وجود ناآرامی‌های مقطعی بازار همچنان پابرجا مانده است.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gene-munster-says-ai-sell-085621405.html",
-        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/gene-munster-says-ai-sell-085621405.html",
-        "image": "http://www.bing.com/th?id=ONUT.c5bBe9ZxAK3uNFLWmT8Gyg&pid=News",
-        "timestamp": 1795222560.0
     }
 ]
