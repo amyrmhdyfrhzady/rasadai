@@ -1,5 +1,24 @@
 [
     {
+        "id": "14b607b153",
+        "title_fa": "هشدار اطلاعات ارتش اسرائیل به نتانیاهو درباره جنگ منطقه‌ای",
+        "title_en": "IDF's Shock Warning to Bibi: Iran Strike Could Trigger a Multi-Front War Across West Asia",
+        "summary": [
+            "بنیامین نتانیاهو با هشدار جدی بخش اطلاعات ارتش درباره خطر جنگ همزمان در چند جبهه روبروست.",
+            "حمله مستقیم به ایران می‌تواند واکنش زنجیره‌ای در لبنان، سوریه و غزه به راه بیندازد.",
+            "گمانه‌زنی‌ها درباره عملیات مشترک آمریکا و اسرائیل فشارها را به شدت بالا برده است."
+        ],
+        "impact": "احتمال وقوع درگیری تمام‌عیار در منطقه، بازارها و معادلات امنیتی را به شدت به هم می‌ریزد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Times of India",
+        "url": "https://www.msn.com/en-in/news/other/idfs-shock-warning-to-bibi-iran-strike-could-trigger-a-multi-front-war-across-west-asia/vi-AA2i1D6N",
+        "clean_url": "https://www.msn.com/en-in/news/other/idfs-shock-warning-to-bibi-iran-strike-could-trigger-a-multi-front-war-across-west-asia/vi-AA2i1D6N",
+        "image": "https://static.toiimg.com/thumb/msid-136097524,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1795447588.0
+    },
+    {
         "id": "b0654fa155",
         "title_fa": "تحریم جدید آمریکا علیه شبکه‌های انتقال پول مرتبط با ایران",
         "title_en": "OFAC sanctions Iran-linked money services businesses",
@@ -5467,23 +5486,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDgyTWpjcGJvZzNIU1o5eTE0Z1dKTTdDWlFVMDBtNHhLNnBmVUl4MGRYOGpYYXV0ZkdSNG5VU0JpUklNTkNNMGE5Sy1saUJ4MWM1MEhyc0dTb0Z4U3dwdWE0WlRacTFULWRudF9EeUJPQkJmZGNYOFpPbzdWbnVDVDIzbFk3ZGU0d0VfUkEwNHlsdHc3c00teGx4UmlYdHlVTmV5N1RoWUplVGNidzVMY202a29ZQQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795210778.0
-    },
-    {
-        "id": "f34a5c9ab8",
-        "title_fa": "آماده‌باش کامل در تل‌آویو؛ سایه جنگ سنگین روی منطقه",
-        "title_en": "Israel braces for surprise Iran attack as US weighs strikes",
-        "summary": [
-            "اسرائیل خود را برای یک اقدام نظامی ناگهانی از طرف ج.هوری ا.سلامی آماده می‌کند.",
-            "واشنگتن همزمان در حال بررسی گزینه حمله نظامی مستقیم است تا معادلات را تغییر دهد."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی و تنش نظامی در پهنه خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMEI0ZHEyNW04NnhCVVNRbE1KRE9FWVFOZ01UWWgyYnFMRXBaSGhsNU4wMEpOQzdYZnhQUGZmRnVyN21fUExuZHhJMFQ0T2JaNUM0M0FR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMEI0ZHEyNW04NnhCVVNRbE1KRE9FWVFOZ01UWWgyYnFMRXBaSGhsNU4wMEpOQzdYZnhQUGZmRnVyN21fUExuZHhJMFQ0T2JaNUM0M0FR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795210469.0
     }
 ]
