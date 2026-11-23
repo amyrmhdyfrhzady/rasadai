@@ -54,6 +54,25 @@
         "timestamp": 1795473840.0
     },
     {
+        "id": "5a46c9473b",
+        "title_fa": "ادعای تکراری تجزیه ایران توسط عضو هیئت رئیسه مجلس",
+        "title_en": "US wants to partition Saudi Arabia, Iran and Turkey, Iranian MP says",
+        "summary": [
+            "علیرضا سلیمی با تکرار تئوری‌های توطئه، هدف آمریکا را تجزیه کشورهای منطقه از جمله ایران و ترکیه دانست.",
+            "این اظهارات در حالی مطرح می‌شود که حاکمیت برای سرپوش گذاشتن بر بحران‌های داخلی، به فرافکنی و دشمن‌تراشی روی آورده است.",
+            "تلاش برای ایجاد همبستگی کاذب با کشورهای همسایه از طریق ترساندن آن‌ها از سیاست‌های واشینگتن، بخشی از استراتژی بقای ج.ا است."
+        ],
+        "impact": "این لفاظی‌ها تغییری در واقعیت‌های ژئوپلیتیک ایجاد نمی‌کند و صرفاً مصرف داخلی برای توجیه سرکوب دارد.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611232213",
+        "clean_url": "https://www.iranintl.com/en/202611232213",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b4609a028dfafa6bb6b42a953dd29ea59103cd9e-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795473240.0
+    },
+    {
         "id": "b4a8e9c219",
         "title_fa": "تهدید اروپا با موشک‌های دوربرد سپاه",
         "title_en": "IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbkVnMmhKV2NfLUlzcDVBUmVzMWVzY1hUbV8yaHV4SVRTaDcta0pLZ0VOdlJyNG9mRFZBVmgzd21xVS1CZjNUQTlhdEtBMWFMazF4bHUwcTlTTUxEekFLbl9NZUZzUXZKUXoxYWtYVlpIaG9jcGM3Z1pFZ1lZS01vblh1X281VlZ3bzhwcWRpWjc",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795245667.0
-    },
-    {
-        "id": "a55eb144e3",
-        "title_fa": "نماینده مجلس: جـمـهـوری اسـلامـی عملاً دیگر عضو ان‌پی‌تی نیست",
-        "title_en": "Iran actually no longer NPT member after strikes on its nuclear facilities — MP",
-        "summary": [
-            "ابوالفضل ظهره‌وند، عضو کمیسیون امنیت ملی مجلس اعلام کرد پس از ضربات به تاسیسات اتمی و ترور دانشمندان، کشور عملاً از ان‌پی‌تی و آژانس خارج شده است.",
-            "این مقام حکومتی تاکید کرد که افکار عمومی از خروج رسمی از این معاهده کاملاً حمایت می‌کند و نیاز به اعلام رسمی جدیدی نیست."
-        ],
-        "impact": "فروپاشی کامل توافقات پادمانی و ورود پرونده اتمی به فاز بحرانی و گریز هسته‌ای.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "TASS",
-        "url": "https://tass.com/world/2222845",
-        "clean_url": "https://tass.com/world/2222845",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261121/1493917.jpg",
-        "timestamp": 1795245600.0
     }
 ]
