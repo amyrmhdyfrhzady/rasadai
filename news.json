@@ -386,6 +386,25 @@
         "timestamp": 1795407840.0
     },
     {
+        "id": "f5c63f7076",
+        "title_fa": "ترامپ: حملات ایـران به شدت افزایش یافته است",
+        "title_en": "Iran live updates: Iranian attacks spike over past week, Trump says",
+        "summary": [
+            "مذاکرات میان واشنگتن و تهران پس از امضای تفاهم‌نامه ژوئن همچنان متوقف مانده است.",
+            "آمریکا در حال اجرای محاصره دریایی بنادر خلیج فارس است و ایـران مدعی کنترل تنگه هرمز می‌باشد.",
+            "درگیری‌ها در یمن میان نیروهای نیابتی و ائتلاف سعودی شدت گرفته و زیرساخت‌های نفتی هدف قرار گرفته‌اند."
+        ],
+        "impact": "تشدید تنش‌های دریایی و نظامی فشار اقتصادی بر تهران را به شدت افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-live-updates-tehran-says-093556957.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-live-updates-tehran-says-093556957.html",
+        "image": "http://www.bing.com/th?id=ONUT.cbitC43hdPUdbprhdkLpwQ&pid=News",
+        "timestamp": 1795405920.0
+    },
+    {
         "id": "ad9d6df2ba",
         "title_fa": "شرط تهران برای امنیت تنگه هرمز و واکنش واشنگتن",
         "title_en": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met",
@@ -5468,24 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlYWx1cXhOZXI5ZFRPTEI5RjBjZmtDNnFUcVk5dDlXN2VkbGxsQzhZSmhrVWNVV0IxanpsSUtnMnZRbnRnWVhHV2lxbEp6TDNETEItVzI3UVVoYzQ5Y2sxODdZWUhwOUhUNTRJUHZqQ1JNeTVsUUs4",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795194047.0
-    },
-    {
-        "id": "4329048ba8",
-        "title_fa": "خیز ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی برای شکستن محاصره نفتی با تهدید همسایگان",
-        "title_en": "Iran official says Qeshm explosion caused by disposal of unexploded US munitions",
-        "summary": [
-            "عباس عراقچی با تاکید بر لزوم شکستن محاصره، از تلاش برای صادرات نفت به هر قیمت خبر داد.",
-            "رسانه‌های وابسته به س-پ-ا-ه با طرح ایده اعزام کاروان نفتکش، امارات را به هدف قرار دادن زیرساخت‌های انرژی تهدید کردند.",
-            "هماهنگی خطبه‌های نماز جمعه با این تهدیدها نشان‌دهنده تصمیم‌گیری در سطوح بالای حاکمیت برای یک ماجراجویی جدید است."
-        ],
-        "impact": "افزایش تنش‌های نظامی در خلیج فارس و احتمال هدف قرار گرفتن تاسیسات نفتی منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611201816",
-        "clean_url": "https://www.iranintl.com/en/202611201816",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/cd2a02da4a9e3a064465fa7082a070ca04e0f9d7-1280x853.jpg?w=576&h=384&q=90&fit=max&auto=format",
-        "timestamp": 1795193460.0
     }
 ]
