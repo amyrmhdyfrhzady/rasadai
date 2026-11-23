@@ -331,6 +331,25 @@
         "timestamp": 1795445140.0
     },
     {
+        "id": "3a30d84c91",
+        "title_fa": "تلاش جمهوری‌خواهان برای قطع بودجه نظامی علیه ایران",
+        "title_en": "Senate Republicans open to cutting Iran war funding",
+        "summary": [
+            "سناتورهای جمهوری‌خواه در حال مذاکره برای جدا کردن بودجه دفاعی پنتاگون از بودجه عملیات نظامی مستقیم علیه ایران هستند.",
+            "دموکرات‌ها نیز بر محدود کردن اقدامات تهاجمی و الزام به مجوز کنگست برای هرگونه جنگ تاکید دارند.",
+            "این تصمیم می‌تواند فشار نظامی مستقیم آمریکا بر ایران را در بازه زمانی کوتاه کاهش دهد."
+        ],
+        "impact": "تغییر در استراتژی بودجه‌ای واشینگتن می‌تواند مسیر اقدامات نظامی احتمالی علیه ایران را پیچیده کند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611234658",
+        "clean_url": "https://www.iranintl.com/en/202611234658",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1795441680.0
+    },
+    {
         "id": "a2a7e93a93",
         "title_fa": "افشای محل جلسه انتخاب مجتبی خامنه‌ای به عنوان رهبر",
         "title_en": "New video reveals where Iran clerics chose Mojtaba Khamenei as supreme leader",
@@ -862,6 +881,25 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/26-mile-queue-shows-crushing-173522489.html",
         "image": "https://s.yimg.com/lo/mysterio/api/72e83e8d3205b61ec5e6136fbfeb2877d55ce06c185fc77475c364204b5f6ea9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Ffa6acb6f64633554700732bec36b0449.jpg",
         "timestamp": 1795426500.0
+    },
+    {
+        "id": "7e9ac144a0",
+        "title_fa": "شبکه جاسوسی هوشمند برای سرکوب گسترده‌تر اعتراضات",
+        "title_en": "Iran’s New AI Surveillance Network Raises Fears of Crackdown as Anti-Regime Protests Gain Momentum",
+        "summary": [
+            "رژیم با راه‌اندازی شبکه نظارتی مبتنی بر هوش مصنوعی، قصد دارد شناسایی مخالفان را به سطح محله‌ها بکشاند.",
+            "استفاده از بسیج و مساجد برای پیاده‌سازی این سیستم، نشان‌دهنده تلاش برای کنترل دقیق‌تر جامعه در برابر موج اعتراضات است.",
+            "این تکنولوژی ابزاری جدید برای شناسایی چهره‌های تاثیرگذار و محدود کردن فضای آزادی در ایران است."
+        ],
+        "impact": "افزایش خطر شناسایی و بازداشت فعالان و معترضان توسط سیستم‌های امنیتی هوشمند.",
+        "tag": "امنیت داخلی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Algemeiner.com",
+        "url": "https://www.algemeiner.com/2026/11/23/irans-new-ai-surveillance-network-raises-fears-crackdown-anti-regime-protests-gain-momentum/",
+        "clean_url": "https://www.algemeiner.com/2026/11/23/irans-new-ai-surveillance-network-raises-fears-crackdown-anti-regime-protests-gain-momentum",
+        "image": "https://www.algemeiner.com/wp-content/uploads/2026/01/2026-01-21T145640Z_2_LYNXMPEM0K12C_RTROPTP_4_IRAN-ECONOMY-PROTESTS-VICTIMS-1.jpg",
+        "timestamp": 1795424880.0
     },
     {
         "id": "4777c94c6d",
@@ -5449,42 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN1VDUzl1dVBTYnV3X21FTmh5SzZlUTlNSzhLTHhQUUNnSUFrRENTOFBUOWpJdDN6S3hBLXBXNzBGMjFIZzMyOFlncVp5RTZwSzVDaXVEcEdHeWh1Y01rVGh0c2NiOGV6Unc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795239014.0
-    },
-    {
-        "id": "ffafe61a5c",
-        "title_fa": "رد ادعای نیویورک‌تایمز درباره ریشه‌های بحران آب در ایران",
-        "title_en": "NYT dam theory ignores history and politics of water in Iran",
-        "summary": [
-            "روایت‌های سطحی رسانه‌های غربی، نقش مستقیم فساد ساختاری و مافیای سدسازی را در نابودی منابع آبی ایران نادیده می‌گیرند.",
-            "بحران فاجعه‌بار کنونی، حاصل دهه‌ها پروژه‌سازی سودآور برای نهادهای خاص و سدسازی‌های کارشناسی‌نشده است، نه فقط تغییرات اقلیمی.",
-            "تطهیر یا تقلیل ناکارآمدی حاکمیت در مدیریت آب به مسائل ساده تاریخی، انحراف از ریشه اصلی تنش‌های اجتماعی پیش‌رو است."
-        ],
-        "impact": "تداوم نگاه اشتباه به بحران آب، عمق خطر انفجار اجتماعی و مهاجرت‌های زیست‌محیطی در ایران را پنهان می‌سازد.",
-        "tag": "بحران آب",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBORVZaLV9sSldoaW9PaHNXZXlZNmUtVnZlbUlHZkJzVlRwcjhHeVFfaElUOHExNW1zNU9qSy1yZ0FjWVh5SWJpZUNKTlhPT2FZbUVsMnFZcl9sQ0hseW1vUkFHaTJJRmhwT0stMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBORVZaLV9sSldoaW9PaHNXZXlZNmUtVnZlbUlHZkJzVlRwcjhHeVFfaElUOHExNW1zNU9qSy1yZ0FjWVh5SWJpZUNKTlhPT2FZbUVsMnFZcl9sQ0hseW1vUkFHaTJJRmhwT0stMw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795237536.0
-    },
-    {
-        "id": "a92372495a",
-        "title_fa": "ترس از خاموشی مطلق؛ هجوم آمریکایی‌ها برای خرید اقلام اضطراری",
-        "title_en": "Tech outages are fueling a new doomsday economy",
-        "summary": [
-            "اختلالات مکرر فناوری و قطعی‌های اخیر، موجی از نگرانی عمومی درباره حملات سایبری و ناپایداری شبکه برق ایجاد کرده است.",
-            "مردم با وجود تکذیب مقامات، به خرید و انبار کردن سوخت، غذای خشک و تجهیزات بقا روی آورده‌اند تا برای بحران احتمالی آماده باشند."
-        ],
-        "impact": "افزایش تقاضا برای کالاهای اضطراری و رشد نااطمینانی اقتصادی در میان شهروندان آمریکایی.",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-        "clean_url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-        "image": "http://www.bing.com/th?id=ONUT.R4kvvfpFDcVAgXoWaBAKYg&pid=News",
-        "timestamp": 1795237200.0
     }
 ]
