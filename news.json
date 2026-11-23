@@ -1,5 +1,23 @@
 [
     {
+        "id": "ea73652a7f",
+        "title_fa": "تهدید موشکی جدید جـ.‌هـ.‌ا علیه پایگاه‌های نظامی اروپا",
+        "title_en": "Iran threatens European bases with missiles it says can reach 4,500 km",
+        "summary": [
+            "یک عضو کمیسیون امنیت ملی مجلس مدعی شد برد موشک‌های ایران به ۴۵۰۰ کیلومتر رسیده است.",
+            "این ادعا بدون ارائه مستندات فنی مطرح شده و بیشتر مصرف داخلی و جنگ روانی دارد."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و امنیتی میان ایران و کشورهای اروپایی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611238210",
+        "clean_url": "https://www.iranintl.com/en/202611238210",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/87e6472ac0ad284b4e48cae6ab5c2b705142636c-1152x768.png?rect=0,82,1152,605&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795430280.0
+    },
+    {
         "id": "35763efd42",
         "title_fa": "خط و نشان تهران برای دور زدن تحریم‌ها و محاصره دریایی",
         "title_en": "Iran vows to use all capabilities to defy US naval blockade, sanctions",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVTRVLUVFNEhIa0VDeURtQ2szR09DaFJZV0NjazF6UWROODU0REhZOUFhYnV4OWdqMFNoaTdvMXUwOE9WbFNNeEhEQjlXUndGaFFidm5kRUtrMVk5bUJ6WmhPcTZNREZwYXlSZTgzQWpiTzV6YWtuTWlFOEZFMVgtOFVKWU1kNWVVWWRMdjVIM05tTHgtb0hRLTZvWVY1aEhvLTluWGE0c20wNnlQY1BYcFp0OTBKemNEUE9WNGlB0gHDAUFVX3lxTFBDYnpNc3BTZnRWXzR4TXhheDFEYWg3QWkyM0hCendVVmZfamx4enZvVUxMNFZLbnNDM2VjYks4Sjh4bDE3Z080dDhaY0VYT2x2ZTRSSHlSN3dETDRCS0k4V3Vmelo5aHlxcTZkcXRaYU9KeGxNTnl2bE9wQnhRLXpoSURCQTZjekEzLU1FU1BocDNVMWZWTjI2UHZjQThvd1p2Nml1MkhLc05udzV4TWdEY3RWUmg3eExQekpjQmFHdks3VQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795186774.0
-    },
-    {
-        "id": "3933c7b783",
-        "title_fa": "سقوط آزاد بورس‌های جهانی و تبخیر ۹ تریلیون دلار سرمایه",
-        "title_en": "Snowballing Sell-Off Sweeps Across Global Markets",
-        "summary": [
-            "موج سنگین فروش سهام در آسیا، اروپا و وال‌استریت نزدیک به ۹ تریلیون دلار از ارزش بازارهای مالی جهانی را محو کرد.",
-            "تردید شدید درباره سوددهی غول‌های هوش مصنوعی و شوک استعفای مدیرعامل انویدیا، بازارها را به سمت یک بحران مالی گسترده سوق داده است."
-        ],
-        "impact": "خطر سرایت ریزش بازار تکنولوژی به کل اقتصاد بین‌الملل و ریزش شدید دارایی‌های ریسکی.",
-        "tag": "بحران مالی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/articles/snowballing-sell-off-sweeps-across-224955900.html",
-        "clean_url": "https://finance.yahoo.com/markets/articles/snowballing-sell-off-sweeps-across-224955900.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/a6beeb3a57f90d3ce6da1ba927079143a1fe35431e76430272c22d22a62a787c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2Fc299c72ee68abd3b899617c69f95fb05.png_up.jpg",
-        "timestamp": 1795186140.0
     }
 ]
