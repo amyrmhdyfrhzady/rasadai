@@ -1,5 +1,41 @@
 [
     {
+        "id": "d628d53065",
+        "title_fa": "شکست حملات اخیر و بحران قطعی برق در داخل",
+        "title_en": "Middle East latest: New attacks have failed, claims Trump, as Iran imposes power cuts",
+        "summary": [
+            "دونالد ترامپ از شکست حملات اخیر علیه منافع آمریکا خبر داده است.",
+            "همزمان با تشدید فشارهای خارجی، بحران فرسودگی شبکه انرژی باعث اعمال قطعی گسترده برق در شهرهای مختلف شده است."
+        ],
+        "impact": "فلج شدن بخش‌هایی از اقتصاد داخلی همزمان با بالا گرفتن فشارهای نظامی و امنیتی.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795419927.0
+    },
+    {
+        "id": "fdc725e144",
+        "title_fa": "هشدار صریح درباره خطرات توافق احتمالی با تـهـران",
+        "title_en": "Iran deal could be worse for Israel than war, Middle East expert warns",
+        "summary": [
+            "کارشناسان ارشد امنیت بین‌الملل معتقدند توافق هسته‌ای جدید با جـمـهـورۍ اسـلامۍ برای تل‌آویو فاجعه‌بارتر از جنگ خواهد بود.",
+            "امتیازدهی به حکومت ایران دست‌باز تری به این رژیم برای توسعه نیابتی‌ها می‌دهد."
+        ],
+        "impact": "افزایش فشار دیپلماتیک اسرائیل بر کشورهای غربی برای توقف مذاکرات سازشکارانه.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12X1FtTFZ0aFZQY21vY2ZvaEpKemFQNnZ4cEU3ZXNWVWlpWlhYSGZBU3VLM2E0MGt5b2dBSXNsNkdEdFlDNU1uUFU0WmU0T01hZjl2UFVUVlZCaDFoU3VUeXZtQ3RHVjZfQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12X1FtTFZ0aFZQY21vY2ZvaEpKemFQNnZ4cEU3ZXNWVWlpWlhYSGZBU3VLM2E0MGt5b2dBSXNsNkdEdFlDNU1uUFU0WmU0T01hZjl2UFVUVlZCaDFoU3VUeXZtQ3RHVjZfQ0E",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795419432.0
+    },
+    {
         "id": "feb17e667b",
         "title_fa": "ادعای مقام سپاه درباره جنگ شناختی دشمن",
         "title_en": "IRGC Official Warns of Enemy’s Cognitive War against Iran",
@@ -202,6 +238,25 @@
         "clean_url": "https://www.iranintl.com/202611239776",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1795392000.0
+    },
+    {
+        "id": "3193d62661",
+        "title_fa": "تهدید مرزی تـهـران علیه کریدور حمایت‌شده آمریکا",
+        "title_en": "Iran issues 'break their legs' threat over planned Trump route",
+        "summary": [
+            "ارمنستان قصد دارد برنامه ارتباطی ترامپ را نزدیک مرزهای جـمـهـورۍ اسـلامۍ اجرا کند.",
+            "مقام‌های حاکمیتی با تهدید تند از شکستن پا در صورت اجرای این طرح سخن گفته‌اند.",
+            "تنش‌های ژئوپلیتیک در قفقاز جنوبی وارد فاز جدیدی از چالش‌های امنیتی شده است."
+        ],
+        "impact": "افزایش ریسک درگیری‌های مرزی و تنش دیپلماتیک بین تهران و ایروان.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Idaho Public Press on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-issues-break-their-legs-threat-over-planned-trump-route/ar-AA2i1hwh",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-issues-break-their-legs-threat-over-planned-trump-route/ar-AA2i1hwh",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795389536.0
     },
     {
         "id": "8746ac511e",
@@ -5430,61 +5485,5 @@
         "clean_url": "https://www.politico.com/news/2026/11/20/dem-govs-huddle-to-address-living-costs-01178905",
         "image": "http://www.bing.com/th?id=ONUT.v7liiRNhO1kw9hystES9XA&pid=News",
         "timestamp": 1795172340.0
-    },
-    {
-        "id": "4098528b2d",
-        "title_fa": "احتمال قطع کمک‌های نظامی آمریکا به اسرائیل تا پایان سال",
-        "title_en": "OPINION",
-        "summary": [
-            "محافل واشنگتن بحث قطع زودهنگام کمک‌های نظامی به اسرائیل را جدی‌تر دنبال می‌کنند.",
-            "قرارداد ده ساله فعلی قرار بود تا پایان سال ۲۰۲۸ اعتبار داشته باشد."
-        ],
-        "impact": "تغییر در معادلات تامین مالی نظامی اسرائیل می‌تواند توان بازدارندگی این کشور را با چالش جدی روبه‌رو کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Media Line",
-        "url": "https://themedialine.org/news/opinion/ending-us-military-aid-to-israel-the-right-question/",
-        "clean_url": "https://themedialine.org/news/opinion/ending-us-military-aid-to-israel-the-right-question",
-        "image": "https://themedialine.org/wp-content/uploads/2025/11/F-35s_van_322_Squadron_2025-e1763415199413-170819-liteimage-1140x640.webp",
-        "timestamp": 1795172040.0
-    },
-    {
-        "id": "3654d691bb",
-        "title_fa": "تهدیدات جدید تهران و عقب‌نشینی تدریجی شبه‌نظامیان در عراق",
-        "title_en": "Iranian cleric says forces are ordered to act without limits",
-        "summary": [
-            "امام جمعه موقت تهران از صدور دستور اقدام بدون محدودیت برای نیروهای مسلح در سناریوهای احتمالی خبر داد.",
-            "حضور ناوهای آمریکایی در منطقه به عنوان ابزار فشار فرسایشی توصیف شد.",
-            "نهایتاً هم‌زمان با این لفاظی‌ها، ارتش عراق در شهر استراتژیک جرف الصخر مستقر شد که نشان‌دهنده عقب‌نشینی تدریجی عوامل وابسته به تـحـریـکـات خارجی در عراق است."
-        ],
-        "impact": "افزایش تنش‌های لفظی هم‌زمان با عقب‌نشینی محدود نیابتی‌ها در خاک عراق",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611201688",
-        "clean_url": "https://www.iranintl.com/en/202611201688",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1795171560.0
-    },
-    {
-        "id": "69f9a86dfd",
-        "title_fa": "خط و نشان فرماندهان سپاه برای انتقام‌جویی در سایه تحولات عراق",
-        "title_en": "IRGC chief vows revenge for recent killings",
-        "summary": [
-            "فرمانده سپاه پاسداران از انتقام قطعی برای ترورهای اخیر سخن گفت و مدعی شد عاملان آرامش نخواهند داشت.",
-            "ادعای دور ماندن ناوهای دشمن به فاصله پانصد کیلومتری به عنوان بخشی از جنگ روانی رسانه‌ای مطرح شد.",
-            "این تهدیدات در حالی بیان می‌شود که نیروهای عراقی کنترل شهر جرف الصخر را از چنگ گروه کتائب حزب‌الله خارج کرده‌اند."
-        ],
-        "impact": "تشدید جنگ روانی مقام‌های ارشد نظامی هم‌زمان با تضعیف موقعیت منطقه‌ای نیابتی‌ها",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611203895",
-        "clean_url": "https://www.iranintl.com/en/202611203895",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/a70cb29fe388c0ddf76aaadb28cb428d9987e1b9-1050x700.jpg?rect=0,75,1050,551&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1795170960.0
     }
 ]
