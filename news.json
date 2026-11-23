@@ -1,5 +1,24 @@
 [
     {
+        "id": "b4a8e9c219",
+        "title_fa": "تهدید اروپا با موشک‌های دوربرد سپاه",
+        "title_en": "IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz",
+        "summary": [
+            "یک مقام مـجـلـس مدعی شد برد موشک‌ها به ۴۵۰۰ کیلومتر رسیده و پایگاه‌های اروپا هدف قرار می‌گیرند.",
+            "روزنامه همشهری با انتشار تصویری مدعی شد تمام اروپا در تیررس مـوشـکـی جـمـهـوری اسـلامـی قرار دارد.",
+            "این ادعاها بدون ارائه مستندات فنی مطرح شده و بیشتر رنگ و بوی جنگ روانی دارد."
+        ],
+        "impact": "افزایش تنش‌های لـبـرزه‌ای میان تهران و غرب بر سر توان موشکی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611232940",
+        "clean_url": "https://www.iranintl.com/en/202611232940",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795468740.0
+    },
+    {
         "id": "cfdaa218ef",
         "title_fa": "بازی نتانیاهو با کارت تسلیحات شیمیایی برای جنگ",
         "title_en": "Analysis • Netanyahu points to Iran's chemical weapons to push for war and stay in power",
@@ -5469,23 +5488,5 @@
         "clean_url": "https://www.cna.al/english/kosova-bota/perendimi-syte-nga-irani-kim-jong-un-forcon-arsenalin-e-tij-berthamo-i480773",
         "image": "https://media.cna.al/cna.al/media3/-1200-630-1795286070xryjpg-293.jpg",
         "timestamp": 1795239120.0
-    },
-    {
-        "id": "345de28ed9",
-        "title_fa": "ادعای جدید نهادهای نظامی درباره سرنگونی پهپاد آمریکایی",
-        "title_en": "Iran’s IRGC Claims to Have Shot Down US Drone",
-        "summary": [
-            "منابع نظامی وابسته به حکومت از ادعای سرنگونی یک فروند پهپاد آمریکایی خبر دادند.",
-            "این‌گونه ادعاها معمولاً با اهداف جنگ روانی و مصرف داخلی مطرح می‌شوند."
-        ],
-        "impact": "بال رفتن موقت تنش‌های لفظی و روانی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "8AM Media",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN1VDUzl1dVBTYnV3X21FTmh5SzZlUTlNSzhLTHhQUUNnSUFrRENTOFBUOWpJdDN6S3hBLXBXNzBGMjFIZzMyOFlncVp5RTZwSzVDaXVEcEdHeWh1Y01rVGh0c2NiOGV6Unc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN1VDUzl1dVBTYnV3X21FTmh5SzZlUTlNSzhLTHhQUUNnSUFrRENTOFBUOWpJdDN6S3hBLXBXNzBGMjFIZzMyOFlncVp5RTZwSzVDaXVEcEdHeWh1Y01rVGh0c2NiOGV6Unc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795239014.0
     }
 ]
