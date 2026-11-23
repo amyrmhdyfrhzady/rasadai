@@ -55,6 +55,24 @@
         "timestamp": 1795468740.0
     },
     {
+        "id": "1ae412eae0",
+        "title_fa": "ضربه واشنگتن به بانک‌های در سایه ج.ا",
+        "title_en": "US government sanctions more than two dozen people, entities aiding Iran’s ‘shadow banks’",
+        "summary": [
+            "دولت آمریکا بیش از بیست شخص و نهاد مرتبط با شبکه مالی پنهان ج.ا را تحریم کرد.",
+            "این اقدام با هدف مسدود کردن مسیرهای دور زدن تحریم‌ها و قطع دسترسی نهادهای نظامی به منابع ارزی انجام شده است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره مالی و افزایش فشار بر سیستم بانکی پنهان ج.ا",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "JNS",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTB3d2JKcndQMU90eGVKczFLb1VSMkxWOWQ1NVJqejF4dlBpbEZzZ0lqY2lJMUxrcjF6ZVFoWWgyektNVGF0RzN6X1EtSHF2ek43MGdZbWpSaVVZM0pubWc4S3FwRUhsZ21HX3FyQnRXcVFVWmFpWHkxUkhDWlpmS2d5QVV2OWZZRnllYmxPU2kxdlJXOFlOTEtaR1J4aXhyWjZTLS1xZnMxNGM1YUhZTks0XzRHYkxZSU9r?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTB3d2JKcndQMU90eGVKczFLb1VSMkxWOWQ1NVJqejF4dlBpbEZzZ0lqY2lJMUxrcjF6ZVFoWWgyektNVGF0RzN6X1EtSHF2ek43MGdZbWpSaVVZM0pubWc4S3FwRUhsZ21HX3FyQnRXcVFVWmFpWHkxUkhDWlpmS2d5QVV2OWZZRnllYmxPU2kxdlJXOFlOTEtaR1J4aXhyWjZTLS1xZnMxNGM1YUhZTks0XzRHYkxZSU9r",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795468275.0
+    },
+    {
         "id": "cfdaa218ef",
         "title_fa": "بازی نتانیاهو با کارت تسلیحات شیمیایی برای جنگ",
         "title_en": "Analysis • Netanyahu points to Iran's chemical weapons to push for war and stay in power",
@@ -5473,24 +5491,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOHhIU3dWNU1nSEhwQk04Yy1kaHlWOXJSTmkyLVRGNkRkNWJicHZ3MjE0YWJOWkVJdkFZei1Mei1XNkdzYnFzT3M5NHdWSzBhSEsyWXlOdW0zZG5ENUFlTVc0SU9jLUZLRkpUUm81WjRYRVBVUDZGaWhwNnZEWEZkZ1dGTGFmU1JNV0tCRFNOc1hDX3QyMGQwRUVBc0hmWmFxRi0yVkRlMkpmRGM",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795245283.0
-    },
-    {
-        "id": "94324bdcb5",
-        "title_fa": "بحران شدید گاز و تقلای حکومت برای ذخیره‌سازی سوخت",
-        "title_en": "Iran warns citizens abroad their assets could be frozen over online posts",
-        "summary": [
-            "ناترازی روزانه گاز زمستان امسال به رقم بی‌سابقه ۴۳۰ میلیون مترمکعب می‌رسد.",
-            "مقام‌های وزارت نفت از ذخیره‌سازی گسترده نفت سفید و گازوئیل برای جبران قطعی گاز نیروگاه‌ها خبر دادند.",
-            "تأسیسات پارس جنوبی در عسلویه آسیب دیده و تولید گاز کشور همچنان بسیار پایین‌تر از سطح پیش از درگیری‌هاست."
-        ],
-        "impact": "فلج شدن صنایع و قطعی گسترده برق و گاز در زمستان پیش رو قطعی است.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611210347",
-        "clean_url": "https://www.iranintl.com/en/202611210347",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/f10928cf674b347d5b1de017f3be862082834f4c-1280x853.jpg?rect=114,49,1013,760&w=576&h=432&q=90&fit=max&auto=format",
-        "timestamp": 1795245060.0
     }
 ]
