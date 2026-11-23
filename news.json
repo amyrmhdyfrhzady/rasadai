@@ -55,6 +55,24 @@
         "timestamp": 1795428000.0
     },
     {
+        "id": "08d1fe53b0",
+        "title_fa": "عقب‌نشینی کنست از طرح جنجالی تغییرات رسانه‌ای",
+        "title_en": "Knesset committee elects Yashar's Ben Ari to lead repeal of Karhi's media overhaul",
+        "summary": [
+            "کمیته موقت کنست با رای قاطع، کنترل روند لغو طرح جنجالی وزیر ارتباطات را به مِراو بن آری سپرد.",
+            "این تصمیم پس از بحث‌های نفس‌گیر و تنش‌زا در پارلمان اسرائیل نهایی شد."
+        ],
+        "impact": "تلاش دولت برای اعمال کنترل بیشتر بر رسانه‌ها با موانع جدی قانونی مواجه شده است.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/knesset-committee-elects-yashars-ben-ari-to-lead-repeal-of-karhis-media-overhaul/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/knesset-committee-elects-yashars-ben-ari-to-lead-repeal-of-karhis-media-overhaul",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261111CG316-640x400.jpg",
+        "timestamp": 1795427460.0
+    },
+    {
         "id": "c0b0d6943f",
         "title_fa": "عزیزی: ایران در پاسخ به تهدیدها محدودیت جغرافیایی ندارد",
         "title_en": "Iranian Parliament's National Security and Foreign Policy Committee Chairman Azizi says Iran will have no geographical restrictions in responding to threats in any future conflict, Tasnim reports",
@@ -5472,23 +5490,5 @@
         "clean_url": "https://finance.yahoo.com/markets/articles/snowballing-sell-off-sweeps-across-224955900.html",
         "image": "https://s.yimg.com/lo/mysterio/api/a6beeb3a57f90d3ce6da1ba927079143a1fe35431e76430272c22d22a62a787c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2Fc299c72ee68abd3b899617c69f95fb05.png_up.jpg",
         "timestamp": 1795186140.0
-    },
-    {
-        "id": "06a9d032fb",
-        "title_fa": "تلاش ج.ا برای دور زدن تحریم نفتی در اوج کسری بودجه",
-        "title_en": "With Oil Revenue Running Out, Iran Teases Breaking US Blockade",
-        "summary": [
-            "خزانه خالی و کاهش شدید درآمدهای نفتی، حاکمیت را به سمت ماجراجویی‌های پرخطر برای شکستن محاصره دریایی کشانده است.",
-            "تهدیدهای لفظی برای صادرات نفت، بیش از آنکه یک استراتژی نظامی باشد، تلاشی برای فرار از فروپاشی اقتصادی است."
-        ],
-        "impact": "تشدید تنش‌های دریایی در خلیج فارس برای بازاریابی نفت تحریمی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnS0VmRlE3ekV3ZHk0YzY3QjVhVkJJQUd1WWQ2NXVPQmpsN1pqWWg2MVpxajZYQnJIRVNOakJPU0FaUHVJYkVJQ2xScnNrcy15X2ZkLVpsTE42bXdYQ1VrVzJ0X2ZrdDFJalNWbnNJRUJBWEt6amc3V2N30gF8QVVfeXFMTUllRVc4WjBtR0x5QzBEcWE5TDBtQUVnOVRCSDRPUWlfU0ZUdldBd3pFbXZackNOR0xtNmE2el9MRWxmSmtXdkhlNGVJVWlfbDVsczFwem9DMmx2UU1nb0QtZFpwUjN5N0R4Vkh4SjdhY0w4WEIzWmFWcE5Wcg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnS0VmRlE3ekV3ZHk0YzY3QjVhVkJJQUd1WWQ2NXVPQmpsN1pqWWg2MVpxajZYQnJIRVNOakJPU0FaUHVJYkVJQ2xScnNrcy15X2ZkLVpsTE42bXdYQ1VrVzJ0X2ZrdDFJalNWbnNJRUJBWEt6amc3V2N30gF8QVVfeXFMTUllRVc4WjBtR0x5QzBEcWE5TDBtQUVnOVRCSDRPUWlfU0ZUdldBd3pFbXZackNOR0xtNmE2el9MRWxmSmtXdkhlNGVJVWlfbDVsczFwem9DMmx2UU1nb0QtZFpwUjN5N0R4Vkh4SjdhY0w4WEIzWmFWcE5Wcg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795185536.0
     }
 ]
