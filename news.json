@@ -73,6 +73,24 @@
         "timestamp": 1795429092.0
     },
     {
+        "id": "8170b269ba",
+        "title_fa": "مرز باریک دیپلماسی و تجارت در رویکرد داماد ترامپ",
+        "title_en": "Jared Kushner's wars",
+        "summary": [
+            "جرد کوشنر با ترکیب منافع تجاری و فعالیت‌های دیپلماتیک، انتقاد شدید دموکرات‌ها را برانگیخته است.",
+            "او معتقد به تحقق پروژه‌های غیرممکن در معادلات خاورمیانه است."
+        ],
+        "impact": "تأثیر منافع شخصی و تجاری بر تصمیم‌سازی‌های کلان دیپلماتیک در واشنگتن.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "New York Magazine",
+        "url": "https://www.msn.com/en-us/news/other/jared-kushner-s-wars/ar-AA2i26Tm",
+        "clean_url": "https://www.msn.com/en-us/news/other/jared-kushner-s-wars/ar-AA2i26Tm",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2i2c4l.img?w=768&h=404&m=6&x=474&y=70&s=96&d=96",
+        "timestamp": 1795428025.0
+    },
+    {
         "id": "a68329675f",
         "title_fa": "جرد کوشنر؛ مهره پنهان ترامپ در دیپلماسی جهانی",
         "title_en": "'I Sleep Well at Night'",
@@ -312,6 +330,24 @@
         "timestamp": 1795403580.0
     },
     {
+        "id": "d24a3a876a",
+        "title_fa": "تهدیدهای موشکی سپاه و جنگ روانی علیه اروپا",
+        "title_en": "Video: Man rides donkey in Iran over fuel shortages and rising car costs",
+        "summary": [
+            "یک نماینده مجلس از افزایش برد موشک‌های بالستیک به ۴۵۰۰ کیلومتر و ورود پایگاه‌های اروپایی به محدوده آتش خبر داد.",
+            "رسانه‌های حکومتی با انتشار پوسترهای تهدیدآمیز تلاش می‌کنند دکترین تهاجمی جدیدی را به نمایش بگذارند."
+        ],
+        "impact": "تشدید تنش‌های امنیتی میان ایران و کشورهای اروپایی با ابزار تهدید موشکی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611233352",
+        "clean_url": "https://www.iranintl.com/en/202611233352",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1795401720.0
+    },
+    {
         "id": "548152bd63",
         "title_fa": "نگرانی شدید آسیای مرکزی از پیامدهای جنگ احتمالی علیه ایران",
         "title_en": "Why Central Asia Fears A Renewed Iran War – Analysis",
@@ -328,6 +364,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1MyNnI4Ylc1bzgwbjU5d25lZk9mNDhiaHhWNnFWM3lFMzZJNkhMX2R6MHRWRk9Dd2FTdVFXdVRBWXpSUEFPS3Rla2NqdV9kUnZwSXBHMUpPYkNBRjI3LVFKcnQwN2tDd1Z4WkRVRkhQRjluVjdZMkEtRGlGbURtSjhQTEFDSGRYOUc2SHlDWlY0enhr",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795400338.0
+    },
+    {
+        "id": "b60ef0adef",
+        "title_fa": "بحران مسکن در ایران؛ طلاق‌های اجباری زیر یک سقف",
+        "title_en": "IRGC deputy chief says Iran has expanded missile, drone capabilities",
+        "summary": [
+            "قیمت مسکن در تهران به سطحی رسیده که زوج‌های جدا شده توانایی اجاره یا خرید خانه مستقل را ندارند.",
+            "تورم شدید بازار مسکن و افت قدرت خرید مردم، بحران‌های اجتماعی تازه‌ای را رقم زده است."
+        ],
+        "impact": "فروپاشی استانداردهای زندگی و ماندگاری اجباری زوج‌های طلاق‌گرفته در یک خانه.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611233797",
+        "clean_url": "https://www.iranintl.com/en/202611233797",
+        "image": "http://www.bing.com/th?id=ONUT.9PAvOQXUbamNt87Gc44xgA&pid=News",
+        "timestamp": 1795398180.0
     },
     {
         "id": "00b24707be",
@@ -5434,61 +5488,5 @@
         "clean_url": "https://www.cnn.com/2026/11/20/politics/melania-trump-amazon-series",
         "image": "http://www.bing.com/th?id=ONUT.5Zvovdqz5-kAxFaics2Svg&pid=News",
         "timestamp": 1795188900.0
-    },
-    {
-        "id": "384d70a466",
-        "title_fa": "طرح سناریوی خطرناک سپاه برای شکستن محاصره نفتی",
-        "title_en": "Bessent says he remains on military base, vows to keep squeezing IRGC",
-        "summary": [
-            "تلاش همزمان دستگاه دیپلماسی و رسانه‌های وابسته به سپاه برای زمینه‌سازی خروج نفتکش‌ها از محاصره به اوج رسیده است.",
-            "طرح تهدید علنی تاسیسات نفتی امارات و منطقه در صورت برخورد با نفتکش‌های ایرانی، واکنش انفعالی به خفه‌شدن شریان‌های مالی است.",
-            "هماهنگی سریع خطبه‌های نماز جمعه نشان می‌دهد تصمیم برای این ریسک بزرگ در بالاترین سطوح حاکمیت جمع‌بندی شده است."
-        ],
-        "impact": "افزایش آنی احتمال درگیری نظامی در خلیج فارس و بالا رفتن ریسک امنیت انرژی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.75,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611208972",
-        "clean_url": "https://www.iranintl.com/en/202611208972",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/bfd6d4e6039d050ca7fc7f744700828d2ed2fffc-8009x5342.jpg?rect=1334,0,5342,5342&w=200&h=200&q=90&fit=crop&auto=format",
-        "timestamp": 1795188720.0
-    },
-    {
-        "id": "5e193d3b23",
-        "title_fa": "عقب‌نشینی واشنگتن از تشدید تحریم‌های تراشه‌ای علیه چین",
-        "title_en": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا اعلام کرد محدودیت‌های فعلی بر صادرات تراشه‌های قدیمی انویدیا به چین کافی است و نیازی به تحریم جدید نیست.",
-            "مسدود شدن دسترسی از راه دور شرکت‌های چینی به زیرساخت‌های پردازشی آمریکا، شرط واشنگتن برای متوقف کردن تحریم‌های بیشتر بوده است."
-        ],
-        "impact": "کاهش موقت تنش‌های فناوری میان واشنگتن و پکن و ایجاد ثبات نسبی در زنجیره تامین تراشه‌ها.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Orange County Register",
-        "url": "https://www.ocregister.com/2026/11/20/nvidia-chip-exports/",
-        "clean_url": "https://www.ocregister.com/2026/11/20/nvidia-chip-exports",
-        "image": "http://www.bing.com/th?id=ONUT.eD3c-mvZDUnu_yVX4--SQw&pid=News",
-        "timestamp": 1795187580.0
-    },
-    {
-        "id": "403fa59fee",
-        "title_fa": "تشدید درگیری‌های نظامی در یمن و عراق",
-        "title_en": "Saudi Arabia attacks Yemen's Houthis and intercepts more missiles and drones, and other Mideast news",
-        "summary": [
-            "ائتلاف سعودی با هدف قرار دادن بندر حدیده، شریان اصلی قاچاق سلاح برای حوثی‌ها را هدف گرفت.",
-            "حوثی‌های وابسته به ج.ا با حملات پهپادی و موشکی به خاک عربستان، پاسخ دادند.",
-            "دولت عراق برای جلوگیری از قاچاق نفت توسط شبه‌نظامیان وابسته به ج.ا، نیروهای نظامی را به مناطق انرژی‌خیز اعزام کرد."
-        ],
-        "impact": "افزایش تنش‌های نظامی در یمن و تلاش بغداد برای مهار نفوذ شبه‌نظامیان در صنعت نفت عراق.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Dayton Daily News",
-        "url": "https://www.daytondailynews.com/nation-world/saudi-arabia-attacks-yemens-houthis-and-intercepts-more-missiles-and-drones-and-other-mideast-news/article_823f8655-7929-54a9-9110-d1e57b2f45bd.html",
-        "clean_url": "https://www.daytondailynews.com/nation-world/saudi-arabia-attacks-yemens-houthis-and-intercepts-more-missiles-and-drones-and-other-mideast-news/article_823f8655-7929-54a9-9110-d1e57b2f45bd.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/daytondailynews.com/content/tncms/assets/v3/editorial/4/ff/4ff90e0d-c88a-5cb7-9685-0c96c620c3fc/6afe27c3c6b38.image.jpg?crop=7054,3703,0,499&resize=1200,630&order=crop,resize",
-        "timestamp": 1795187280.0
     }
 ]
