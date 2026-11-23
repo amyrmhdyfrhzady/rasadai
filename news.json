@@ -275,6 +275,25 @@
         "timestamp": 1795372920.0
     },
     {
+        "id": "5a42db1316",
+        "title_fa": "تعویق حمله نظامی آمریکا به ایران با وجود فشارهای شدید نتانیاهو",
+        "title_en": "US Iran War Live Updates: Trump claims Iran escalated drone, missile attacks after Democrats' midterm wins",
+        "summary": [
+            "ترامپ دستور تعویق حداقل یک‌هفته‌ای هرگونه اقدام نظامی علیه ایران را صادر کرده و تصمیم‌گیری نهایی را به بعد از سال جدید میلادی موکول کرده است.",
+            "نتانیاهو همچنان برای اجرای یک عملیات فشرده چندروزه با هدف فلج کردن ساختار حاکمیت در تهران فشار می‌آورد.",
+            "واشنگتن با دستکاری در زمان‌بندی حمله، به دنبال ارزیابی دقیق‌تر تبعات منطقه‌ای و مدیریت ریسک‌های یک درگیری مستقیم است."
+        ],
+        "impact": "تداوم فضای نوسانی در بازار ارز تهران و حفظ حالت آماده‌باش کامل نیروهای نظامی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-hormuz-oil-tankers-fire-saudi-houthi-tensions-latest-news/liveblog/136082229.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-hormuz-oil-tankers-fire-saudi-houthi-tensions-latest-news/liveblog/136082229.cms",
+        "image": "http://www.bing.com/th?id=ONUT.xrhz8k3jX40oi-AQ-PVCWA&pid=News",
+        "timestamp": 1795372440.0
+    },
+    {
         "id": "0299760ec6",
         "title_fa": "هشدار اطلاعات ارتش اسرائیل درباره جنگ چندجبهه‌ای",
         "title_en": "IDF intelligence said to warn unilateral Iran strike could spark multi-front war",
@@ -5462,23 +5481,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFdMZ216bVRyOTUybjluVnIwbkt0TThDZmJtVEJoMGN2M3czQ0gxcEFFTFR5TUhicWZSWGZBU20xc3lUTHhCRDhkN2ZPLS1CSGYyY3cyai14YXU2ZnE1bWJwaUFFZlhhNUdBMGhoQWFpR3ItNU5vbnRYajV0QVk1bDBERDZfbDQtWGZEcjlMQ3NrODJoOEtN",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795156260.0
-    },
-    {
-        "id": "62d7f151ce",
-        "title_fa": "بازی خطرناک نفت و محاصره دریایی",
-        "title_en": "Iran readies tankers to run US blockade, threatens Persian Gulf oil if fired on",
-        "summary": [
-            "سپاه و مقامات ارشد جـمـهـوری اسـلامـی برای شکستن محاصره نفتی آمریکا آماده می‌شوند.",
-            "تهران تهدید کرده در صورت حمله به نفتکش‌ها، تاسیسات نفتی منطقه هدف قرار می‌گیرد."
-        ],
-        "impact": "افزایش شدید ریسک درگیری نظامی در خلیج فارس و جهش احتمالی قیمت نفت",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611204873",
-        "clean_url": "https://www.iranintl.com/en/202611204873",
-        "image": "http://www.bing.com/th?id=ONUT.JLxwY1ko1mzyYvYJVyiQqg&pid=News",
-        "timestamp": 1795155180.0
     }
 ]
