@@ -1,5 +1,23 @@
 [
     {
+        "id": "b09f32bd37",
+        "title_fa": "تقابل نتانیاهو و آیزنکوت؛ چانه‌زنی دو ساعته برای پایان بحران قضایی",
+        "title_en": "Yashar-Likud meeting ends after two hours; teams to meet again",
+        "summary": [
+            "تیم‌های مذاکره‌کننده لیکود و حزب یشار برای مهار شکاف‌های داخلی ناشی از اصلاحات قضایی پشت میز نشستند.",
+            "آیزنکوت به دنبال عقب‌نشینی کامل از طرح‌هایی است که انسجام ارتش و جامعه اسرائیل را هدف قرار داده بود."
+        ],
+        "impact": "کاهش تنش داخلی در اسرائیل، دست نتانیاهو را برای تمرکز بر تهدیدات منطقه‌ای و ج.ا.ا بازتر می‌کند.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/yashar-likud-meeting-ends-after-two-hours-teams-to-meet-again/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/yashar-likud-meeting-ends-after-two-hours-teams-to-meet-again",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795464360.0
+    },
+    {
         "id": "fa03e74f71",
         "title_fa": "هدف‌گیری شبکه‌های مالی پنهان ج.ه. توسط ایالات متحده",
         "title_en": "US targets Iranian 'shadow banking' financial institutes with sanctions",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX3ZGVkt0WUZ6V1d5MERteHVxaEhLT2RBR0F2UUpubHh4dDdxR2FQZ3V6Z3RNbjNRY3F0T0xWQWdrUnlRb09PNUU0TWl2TVdodkRCaVhNQ3VKc3VIektyc3g1QlRWNm5pVUNOcUthQm14NXZCUGZSclU4UFN3U1dabnE0N2FpX0xUalRYbjQ5ZzhBMHZGRDctdFh6aV9DV1lONV9GT1JfSjdSQ2I1a3gyOTBGNHhzNHl1R0U4Y0JYMA",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795233298.0
-    },
-    {
-        "id": "0b49864c2e",
-        "title_fa": "خفقان جدید اینترنت؛ هویت‌سازی اجباری برای کاربران",
-        "title_en": "Iran’s internet bill targets anonymity by tying accounts to real identities",
-        "summary": [
-            "طرح جنجالی مجلس برای اتصال حساب‌های کاربری به هویت واقعی و حذف کامل گمنامی در شبکه.",
-            "احیای طرح قدیمی کنترل رسانه‌ها و الزام خبرنگاران به دریافت مجوزهای حکومتی برای فعالیت."
-        ],
-        "impact": "تکمیل چرخه سرکوب اطلاعاتی و کنترل شدید بر جریان آزاد اخبار در فضای مجازی.",
-        "tag": "اینترنت",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611213916",
-        "clean_url": "https://www.iranintl.com/en/202611213916",
-        "image": "http://www.bing.com/th?id=ONUT.Gn0-XkO4-QJzfPBT-uBSdQ&pid=News",
-        "timestamp": 1795230960.0
     }
 ]
