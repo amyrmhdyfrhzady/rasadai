@@ -314,6 +314,42 @@
         "timestamp": 1795434878.0
     },
     {
+        "id": "ceff599cee",
+        "title_fa": "شکست استراتژی ترامپ در برابر محور روسیه-چین-ایران",
+        "title_en": "Trump should take a page from Reagan on facing adversaries | GUEST COMMENTARY",
+        "summary": [
+            "دیپلماسی ترامپ برخلاف ریگان، به جای مهار رقبا، باعث تقویت همکاری‌های نظامی آن‌ها شده است.",
+            "حمایت‌های فنی چین و روسیه از پهپادها و موشک‌های ج.ا، امنیت نیروهای آمریکایی را هدف گرفته است."
+        ],
+        "impact": "سیاست خارجی فعلی، تهدیدات علیه پایگاه‌های آمریکا را به دلیل اتحاد استراتژیک رقبا افزایش داده است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/11/23/trump-reagan-russia-china/",
+        "clean_url": "https://www.baltimoresun.com/2026/11/23/trump-reagan-russia-china",
+        "image": "http://www.bing.com/th?id=ONUT.aZ385uHOB7dVn_M1d8fLBQ&pid=News",
+        "timestamp": 1795434600.0
+    },
+    {
+        "id": "38dce76678",
+        "title_fa": "خرید جایگاه در کابینه ترامپ با ۲۵ میلیون دلار",
+        "title_en": "How Howard Lutnick bought his way back into Trump’s good graces",
+        "summary": [
+            "هاوارد لاتنیک با تزریق نقدی کلان به ستاد ترامپ، موقعیت شغلی خود را تثبیت کرد.",
+            "این اقدام نشان‌دهنده نفوذ پول در تصمیمات کلیدی دولت ترامپ است."
+        ],
+        "impact": "فساد مالی و معامله‌گری در سطوح عالی دولت ترامپ، مشروعیت انتصابات را زیر سوال برده است.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The New Republic on MSN",
+        "url": "https://www.msn.com/en-us/news/other/how-howard-lutnick-bought-his-way-back-into-trump-s-good-graces/ar-AA2i44cq",
+        "clean_url": "https://www.msn.com/en-us/news/other/how-howard-lutnick-bought-his-way-back-into-trump-s-good-graces/ar-AA2i44cq",
+        "image": "http://www.bing.com/th?id=ONUT.q_OI1Q1e8_nG81BqGM_Yow&pid=News",
+        "timestamp": 1795434387.0
+    },
+    {
         "id": "6ecf63bf6f",
         "title_fa": "انسداد راه‌های دورزدن تحریم؛ ضربه جدید آمریکا به شبکه‌های مالی ایران",
         "title_en": "Closing the Back Door: America Targets Iran’s Sanctions-Evasion Network",
@@ -386,6 +422,60 @@
         "clean_url": "https://www.newarab.com/news/iran-and-us-trade-threats-tankers-burn-hormuz",
         "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2305821469.jpeg?itok=SQiipTqo",
         "timestamp": 1795433400.0
+    },
+    {
+        "id": "36a23b9028",
+        "title_fa": "تلاش مذبوحانه ونس برای بازگشت به دایره قدرت ترامپ",
+        "title_en": "Vance Wants Credit for Reinstating Huang, Too",
+        "summary": [
+            "ونس پس از ریزش محبوبیت، در حال عقب‌نشینی از مواضع قبلی خود درباره جنگ ایران است.",
+            "ترامپ به دنبال جایگزین‌های کارآمدتر مانند مارکو روبیو برای آینده سیاسی خود است."
+        ],
+        "impact": "تزلزل در جایگاه ونس نشان‌دهنده بی‌ثباتی در حلقه نزدیکان ترامپ است.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "New York Magazine",
+        "url": "https://nymag.com/intelligencer/article/jd-vance-wants-credit-for-reinstating-huang-too.html",
+        "clean_url": "https://nymag.com/intelligencer/article/jd-vance-wants-credit-for-reinstating-huang-too.html",
+        "image": "http://www.bing.com/th?id=ONUT.54XB0uttLYo7xN3SrfF1sg&pid=News",
+        "timestamp": 1795432260.0
+    },
+    {
+        "id": "a6628ed009",
+        "title_fa": "استعفای رئیس حزب جمهوری‌خواه در پی شکست‌های انتخاباتی",
+        "title_en": "DuPage County GOP Chair Kevin Coyne stepping down",
+        "summary": [
+            "کوین کاین در پی ناکامی‌های گسترده جمهوری‌خواهان در انتخابات، از سمت خود کناره‌گیری کرد.",
+            "این استعفا نشان‌دهنده بحران در بدنه حزبی و نیاز به تغییرات ساختاری است."
+        ],
+        "impact": "تضعیف سازماندهی محلی حزب جمهوری‌خواه در مناطق کلیدی پس از شکست‌های اخیر.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/11/23/citing-election-losses-coyne-stepping-down-as-dupage-gop-chair/",
+        "clean_url": "https://www.chicagotribune.com/2026/11/23/citing-election-losses-coyne-stepping-down-as-dupage-gop-chair",
+        "image": "http://www.bing.com/th?id=ONUT.vN3Tbj-Ubi38ivHrjq7SFw&pid=News",
+        "timestamp": 1795432020.0
+    },
+    {
+        "id": "f2313ea82c",
+        "title_fa": "تداوم بحران غذایی در ایران پس از حذف خامنه‌ای",
+        "title_en": "Iran faces growing food shortages, but regime collapse unlikely during war, expert warns",
+        "summary": [
+            "ساختار قدرت در ج.ا پس از حذف رهبر پیشین همچنان در هاله‌ای از ابهام است.",
+            "کمبود مواد غذایی فشار بر بدنه جامعه را افزایش داده اما فروپاشی فوری دور از انتظار است."
+        ],
+        "impact": "تنش‌های معیشتی در کنار بی‌ثباتی سیاسی، توان مدیریت بحران را در ج.ا به حداقل رسانده است.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-faces-growing-food-shortages-but-regime-collapse-unlikely-during-war-expert-warns/ar-AA2i3qoo",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-faces-growing-food-shortages-but-regime-collapse-unlikely-during-war-expert-warns/ar-AA2i3qoo",
+        "image": "http://www.bing.com/th?id=ONUT.qwOmj-1HIUuH8BOXCEg61Q&pid=News",
+        "timestamp": 1795431383.0
     },
     {
         "id": "0e9e74bcaf",
@@ -590,6 +680,42 @@
         "timestamp": 1795426620.0
     },
     {
+        "id": "18d878bc00",
+        "title_fa": "فلج شدن اقتصاد ج.ا با محاصره دریایی و صف‌های طولانی کامیون‌ها",
+        "title_en": "The 26-mile queue that shows crushing pressure building on Iran",
+        "summary": [
+            "محاصره بنادر توسط نیروی دریایی آمریکا، تجارت دریایی ج.ا را به بن‌بست کشانده است.",
+            "تلاش برای جایگزینی مسیرهای دریایی با جاده‌های زمینی به دلیل حجم بالای کالا شکست خورده است."
+        ],
+        "impact": "محاصره دریایی عملاً شریان‌های حیاتی اقتصاد ج.ا را قطع کرده و باعث ایجاد ترافیک‌های سنگین در مرزهای زمینی شده است.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/26-mile-queue-shows-crushing-173522489.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/26-mile-queue-shows-crushing-173522489.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/72e83e8d3205b61ec5e6136fbfeb2877d55ce06c185fc77475c364204b5f6ea9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Ffa6acb6f64633554700732bec36b0449.jpg",
+        "timestamp": 1795426500.0
+    },
+    {
+        "id": "4777c94c6d",
+        "title_fa": "فشار هزینه‌های سوخت بر شرکت‌های حمل‌ونقل آمریکا",
+        "title_en": "Small US trucking firms scramble to survive mounting diesel costs",
+        "summary": [
+            "جنگ با ج.ا باعث جهش قیمت گازوئیل و فشار به کسب‌وکارهای کوچک شده است.",
+            "شرکت‌های حمل‌ونقل برای بقا مجبور به اعمال هزینه‌های اضافی بر مشتریان هستند."
+        ],
+        "impact": "افزایش هزینه‌های لجستیک به دلیل تنش‌های نظامی، تورم داخلی آمریکا را تشدید کرده است.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/11/23/diesel-prices-trucking-firms/",
+        "clean_url": "https://www.baltimoresun.com/2026/11/23/diesel-prices-trucking-firms",
+        "image": "http://www.bing.com/th?id=ONUT.WFF6WXT9u7Z3lhqCvcJYlQ&pid=News",
+        "timestamp": 1795422600.0
+    },
+    {
         "id": "c0b0d6943f",
         "title_fa": "عزیزی: ایران در پاسخ به تهدیدها محدودیت جغرافیایی ندارد",
         "title_en": "Iranian Parliament's National Security and Foreign Policy Committee Chairman Azizi says Iran will have no geographical restrictions in responding to threats in any future conflict, Tasnim reports",
@@ -645,6 +771,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5RLWt6Unk4SkNYOXIySEZqOF8tTUs3NWNZWTRWaUEzVW5MVmNqSTJqTnY5UTZZc09EY0RlLTc3UWcyTWlFcnlLdFdQSG9WSm1RcUFwNENpcGIxQkxmZU53VkFRM3o3aWtQZDRsQ0NHR0ZsejFVdHhyR09Jb1gweU1BLVFCSE1yVnBYQmV3VDRxcEJHVGMzNXh4QTlQbmQzaUJRaVBxM2FRQ3dCX0Rz",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795421295.0
+    },
+    {
+        "id": "3ec25c1a99",
+        "title_fa": "گرانی سفره شکرگزاری به دلیل افزایش هزینه‌های سوخت",
+        "title_en": "Thanksgiving Dinner Is Set to Cost Americans More This Year, Says Farm Bureau. Here’s Why",
+        "summary": [
+            "هزینه شام شکرگزاری نسبت به سال قبل ۶ درصد افزایش یافته است.",
+            "قیمت بالای سوخت و بوقلمون عامل اصلی فشار بر سبد خانوار آمریکایی است."
+        ],
+        "impact": "کاهش قدرت خرید مردم به دلیل تورم ناشی از سیاست‌های انرژی و تنش‌های نظامی.",
+        "tag": "اقتصادی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/11/23/thanksgiving-set-to-cost-americans-more-this-year-farm-bureau/",
+        "clean_url": "https://time.com/article/2026/11/23/thanksgiving-set-to-cost-americans-more-this-year-farm-bureau",
+        "image": "http://www.bing.com/th?id=ONUT.xc_2yzwT9jZnyT44e8IkRA&pid=News",
+        "timestamp": 1795420260.0
     },
     {
         "id": "d628d53065",
@@ -719,6 +863,24 @@
         "timestamp": 1795419432.0
     },
     {
+        "id": "f01dc9b822",
+        "title_fa": "ترامپ و لیست خودساخته پیروزی‌ها در میان شکست‌های سیاسی",
+        "title_en": "Trump Lists His 'Wins,' But It Looks More Like A Victory For Self-Delusion",
+        "summary": [
+            "ترامپ در تلاش برای بازسازی چهره خود پس از شکست‌های انتخاباتی و انتقادات گسترده است.",
+            "سیاست‌های جنگ‌طلبانه در قبال ایران و اوکراین به پاشنه آشیل دولت او تبدیل شده است."
+        ],
+        "impact": "تلاش برای فرار از واقعیت‌های شکست سیاسی، شکاف میان حامیان ترامپ و منتقدان او را عمیق‌تر کرده است.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/donald-trump-truth-social-list-of-his-wins_n_6b041119e4b0da866ee131f0",
+        "clean_url": "https://www.huffpost.com/entry/donald-trump-truth-social-list-of-his-wins_n_6b041119e4b0da866ee131f0",
+        "image": "http://www.bing.com/th?id=ONUT.wt47FoL3z1MbTGnYhi_Z9A&pid=News",
+        "timestamp": 1795418340.0
+    },
+    {
         "id": "feb17e667b",
         "title_fa": "ادعای مقام سپاه درباره جنگ شناختی دشمن",
         "title_en": "IRGC Official Warns of Enemy’s Cognitive War against Iran",
@@ -772,6 +934,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hSlJ6bVlFVWFIYlAxRWpFLU1DU2piQnRPTzJsanRuaFpDQTNLamFjYndZYU56UVFiZFNTenEtbnZNQTk5WVAtUEZkMmRDOWF2eGE1aFdhSXEzVEpST1lFZ3FkWWdyZG8",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795415557.0
+    },
+    {
+        "id": "be83b7cd64",
+        "title_fa": "رقابت سنگین تبلیغاتی در تعطیلات شکرگزاری",
+        "title_en": "NBCUniversal, Amazon in Holiday-Ad Showdown Over Thanksgiving Week",
+        "summary": [
+            "آمازون و ان‌بی‌سی برای جذب خریداران در تعطیلات، میلیون‌ها دلار هزینه می‌کنند.",
+            "این بازه زمانی برای بازاریابان جهت تبدیل مخاطب به خریدار حیاتی است."
+        ],
+        "impact": "تمرکز بر تبلیغات مصرف‌گرایانه در شرایطی که اقتصاد تحت فشار تنش‌های جهانی است.",
+        "tag": "اقتصادی",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/media-advertising/articles/nbcuniversal-amazon-holiday-ad-showdown-140000504.html",
+        "clean_url": "https://finance.yahoo.com/media-advertising/articles/nbcuniversal-amazon-holiday-ad-showdown-140000504.html",
+        "image": "http://www.bing.com/th?id=ONUT.EtqjQ-LUP6vihoy8ZJEAFg&pid=News",
+        "timestamp": 1795413600.0
     },
     {
         "id": "e9bc6dd370",
@@ -5304,191 +5484,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/democrats-won-big-in-the-midterms-so-now-what/ar-AA2hTS2e",
         "image": "http://www.bing.com/th?id=ONUT.Ri64uYVRhyROPsG6LwkDeg&pid=News",
         "timestamp": 1795230435.0
-    },
-    {
-        "id": "d465d708d7",
-        "title_fa": "فشار تورم بر اقتصاد آمریکا در آستانه تصمیمات فدرال رزرو",
-        "title_en": "Inflation, economic growth and the mood of US consumers in focus this week",
-        "summary": [
-            "تورم بالا همچنان قدرت خرید مصرف‌کنندگان آمریکایی را تحت فشار شدید قرار داده است.",
-            "گزارش‌های جدید قیمت‌ها در حالی منتشر می‌شود که بازار منتظر تصمیمات تازه بانک مرکزی آمریکا است."
-        ],
-        "impact": "گرانی هزینه‌های زندگی رفتار مصرف‌کننده آمریکایی را تغییر داده و بانک مرکزی را در تنگنای تصمیم‌گیری قرار داده است.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "WTOP",
-        "url": "https://wtop.com/national/2026/11/inflation-economic-growth-and-the-mood-of-us-consumers-in-focus-this-week/",
-        "clean_url": "https://wtop.com/national/2026/11/inflation-economic-growth-and-the-mood-of-us-consumers-in-focus-this-week",
-        "image": "http://www.bing.com/th?id=ONUT.obyTilO_EfLlPIi26T-rrg&pid=News",
-        "timestamp": 1795230180.0
-    },
-    {
-        "id": "8936626c7a",
-        "title_fa": "اختلاف نظر ترامپ و ونس درباره مداخله نظامی در ای-ران",
-        "title_en": "Trump Wanted Stronger Iran War Backing From JD Vance, But Vice President Stops Short of Fully Endorsing S",
-        "summary": [
-            "ترامپ به دنبال حمایت قاطع‌تر ونس برای اقدامات نظامی علیه ج-مهوری اس-لامی است.",
-            "ونس با وجود وفاداری به ترامپ، همچنان در تایید کامل یک جنگ تمام‌عیار تردید دارد.",
-            "این شکاف نشان می‌دهد که تیم ترامپ در مورد هزینه‌های درگیری مستقیم با ت-هران به اجماع نرسیده است."
-        ],
-        "impact": "تزلزل در استراتژی نظامی احتمالی دولت آینده آمریکا علیه ت-هران.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanpxNjBLNzBtRDE1cGd1RGFWQVZFX2dYLW5yQ2U0Y3NDVnZjUndqZXpLR24wQ0hKa0dKcjVtWEtCUzM4Tm5EWGNodU5ROFBJZjZvQ0FhcTNtY0NnNWhCekFvSDV6SHZ1OWtMbzlQcmpPQktoeVYxd2JkRnZFQWNUam5nZGhOc3FXQmc?oc=5",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanpxNjBLNzBtRDE1cGd1RGFWQVZFX2dYLW5yQ2U0Y3NDVnZjUndqZXpLR24wQ0hKa0dKcjVtWEtCUzM4Tm5EWGNodU5ROFBJZjZvQ0FhcTNtY0NnNWhCekFvSDV6SHZ1OWtMbzlQcmpPQktoeVYxd2JkRnZFQWNUam5nZGhOc3FXQmc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795229492.0
-    },
-    {
-        "id": "752dea2b91",
-        "title_fa": "تلاش برای تغییر رهبری دموکرات‌ها در سنا",
-        "title_en": "Michigan Sen. Slotkin backs Schumer challenger in push for new Democratic leadership",
-        "summary": [
-            "سناتور اسلاتکین با حمایت از ون‌هولن، به دنبال کنار زدن چاک شومر از رهبری دموکرات‌های سنا است.",
-            "این جابجایی نشان‌دهنده شکاف و تلاش برای بازسازی استراتژی حزب دموکرات پس از شکست‌های اخیر است."
-        ],
-        "impact": "تغییر در اولویت‌های سیاسی و نحوه تعامل دموکرات‌ها با دولت ترامپ در کنگره.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/11/michigan-sen-slotkin-backs-schumer-challenger-in-push-for-new-democratic-leadership.html",
-        "clean_url": "https://www.mlive.com/politics/2026/11/michigan-sen-slotkin-backs-schumer-challenger-in-push-for-new-democratic-leadership.html",
-        "image": "http://www.bing.com/th?id=ONUT.uUXqqmbhKAQVdZggEwTVeA&pid=News",
-        "timestamp": 1795229160.0
-    },
-    {
-        "id": "2082b9368d",
-        "title_fa": "بن‌بست دیپلماسی؛ عراقچی به دنبال توافق، ترامپ رد کرد",
-        "title_en": "Iran's Araghchi seeks diplomatic end to war; Trump deems proposed terms unacceptable",
-        "summary": [
-            "عباس عراقچی از تمایل تـهـران برای پایان دادن به درگیری‌ها از طریق دیپلماسی صحبت کرده است.",
-            "دونالد ترامپ شرایط پیشنهادی جمهوری اسلامی را غیرقابل قبول دانسته و رد کرده است."
-        ],
-        "impact": "شکست تلاش‌های دیپلماتیک اولیه و احتمال بازگشت به سیاست فشار حداکثری علیه جـمـهـوری اسـلامـی",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Khaleej Times on MSN",
-        "url": "https://www.msn.com/en-ae/news/middleeast/irans-araghchi-seeks-diplomatic-end-to-war-trump-deems-proposed-terms-unacceptable/ar-AA2hUxaX",
-        "clean_url": "https://www.msn.com/en-ae/news/middleeast/irans-araghchi-seeks-diplomatic-end-to-war-trump-deems-proposed-terms-unacceptable/ar-AA2hUxaX",
-        "image": "http://www.bing.com/th?id=ONUT._2WDJOzXO-UeuvpDNrdJPg&pid=News",
-        "timestamp": 1795229040.0
-    },
-    {
-        "id": "3b89c40be6",
-        "title_fa": "پزشکیان: جنگ اقتصادی خیلی سخت‌تر از جنگ موشکی است",
-        "title_en": "Pezeshkian says Iran facing ‘silent economic war’ tougher than war with missiles",
-        "summary": [
-            "رئیس‌جمهور ایران اعتراف کرد کشور درگیر یک نبرد اقتصادی نابرابر و خاموش شده است.",
-            "کمبود شدید انرژی و آسیب به تاسیسات گازی، تولید و اقتصاد داخلی را به لبه پرتگاه رسانده است.",
-            "حاکمیت برای حفظ وضعیت موجود به فعالان اقتصادی و نهادهای امنیتی تکیه کرده است."
-        ],
-        "impact": "فشار شدید تحریم‌ها و بحران انرژی ساختار اقتصادی کشور را به شدت زمین‌گیر کرده است.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "moneycontrol.com",
-        "url": "https://www.moneycontrol.com/world/pezeshkian-says-iran-facing-silent-economic-war-tougher-than-war-with-missiles-article-14086172.html",
-        "clean_url": "https://www.moneycontrol.com/world/pezeshkian-says-iran-facing-silent-economic-war-tougher-than-war-with-missiles-article-14086172.html",
-        "image": "http://www.bing.com/th?id=ONUT.ILsTgqTxT2RFhoxkt76mng&pid=News",
-        "timestamp": 1795228740.0
-    },
-    {
-        "id": "a84139a21c",
-        "title_fa": "ادعای انهدام پهپاد آمریکایی و تشدید فشار اقتصادی",
-        "title_en": "خبرگزاری فارس: سپاه یک پهپاد ارتش آمریکا را در آسمان جزیره قشم منهدم کرد",
-        "summary": [
-            "خبرگزاری وابسته به سـپـاه مدعی انهدام یک پهپاد آمریکایی در آسمان قشم شد.",
-            "مقام آمریکایی وضعیت داخلی جـمـهـوری اسـلامـی را به حیوانات زخمی تشبیه کرد که احتمال اقدامات کور را بالا می برد.",
-            "کارزار طرد اقتصادی به عنوان بزرگترین پروژه انزوا، مقام های حکومتی را تحت فشار شدید قرار داده است."
-        ],
-        "impact": "تر ترکیب تهدیدهای نظامی و فشار فلج کننده اقتصادی، حاکمیت را در تنگنای شدید قرار داده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611212942",
-        "clean_url": "https://www.iranintl.com/202611212942",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1795227720.0
-    },
-    {
-        "id": "062fad44a5",
-        "title_fa": "فشار بی‌سابقه اقتصادی آمریکا و شکاف در بدنه حاکمیت",
-        "title_en": "عراق استقرار نیروهای ارتش و پلیس را در پایگاه کتائب حزب‌الله در جرف‌النصر تکمیل می‌کند",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا کارزار طرد اقتصادی را بزرگترین برنامه منزوی‌سازی جهان خواند.",
-            "گزارش‌ها از تشدید درگیری‌های درونی میان مقام‌های حکومتی و فروپاشی انسجام درون‌گروهی حکایت دارد."
-        ],
-        "impact": "فلج شدن ساختار مالی حکومت و افزایش احتمال تنش‌های داخلی میان فرماندهان.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611216182",
-        "clean_url": "https://www.iranintl.com/202611216182",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1795226940.0
-    },
-    {
-        "id": "fc887d44e4",
-        "title_fa": "فشار حداکثری واشنگتن و شکاف عمیق در ساختار قدرت",
-        "title_en": "نایب‌رییس مجلس: راهی جز شکستن حصر اقتصادی آمریکا وجود ندارد",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا کارزار طرد اقتصادی را بزرگترین پروژه انزوای حکومتی در جهان می‌داند.",
-            "مقام‌های آمریکایی از احتمال درگیری داخلی میان مهره‌های سپاه به دلیل بن‌بست موجود خبر می‌دهند.",
-            "غیبت‌های مکرر در سطوح عالی تصمیم‌گیری، بحران مشروعیت و چنددستگی را تشدید کرده است."
-        ],
-        "impact": "تداوم این روند سیستم را به لبه پرتگاه فروپاشی اقتصادی و جنگ قدرت درونی می‌کاند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611218166",
-        "clean_url": "https://www.iranintl.com/202611218166",
-        "image": "http://www.bing.com/th?id=ONUT.1-fuQSnSUa-2ugkN-MYwig&pid=News",
-        "timestamp": 1795225560.0
-    },
-    {
-        "id": "e38579590b",
-        "title_fa": "بن‌بست در مذاکرات هسته‌ای و سایه سنگین جنگ",
-        "title_en": "‘Risk of Renewed Conflict’: US-Iran Nuclear Talks Stall Over Uranium Enrichment Dispute, Mediators Warn: Report",
-        "summary": [
-            "مذاکرات میان واشنگتن و تهران بر سر حجم اورانیوم غنی‌شده به بن‌بست رسیده است.",
-            "آمریکا خواستار تعهد کتبی برای حذف ذخایر هسته‌ای است اما تهران مقاومت می‌کند.",
-            "میانجی‌گران بین‌المللی درباره خطر بازگشت درگیری‌های نظامی هشدار جدی داده‌اند."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی با توقف کامل دیپلماسی هسته‌ای",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Republic World",
-        "url": "https://www.republicworld.com/global-news/risk-of-renewed-conflict-us-iran-nuclear-talks-stall-over-uranium-enrichment-dispute-mediators-warn-2026-11-21-141536",
-        "clean_url": "https://www.republicworld.com/global-news/risk-of-renewed-conflict-us-iran-nuclear-talks-stall-over-uranium-enrichment-dispute-mediators-warn-2026-11-21-141536",
-        "image": "http://www.bing.com/th?id=ONUT.y_amb73c0eyQIVB8Uh_agA&pid=News",
-        "timestamp": 1795224660.0
-    },
-    {
-        "id": "3c418aa49c",
-        "title_fa": "تقلا برای شکستن تحریم نفت و هشدار زمستان سخت",
-        "title_en": "Bessent says Iran’s rulers will turn on each other, Pezeshkian warns of hard winter",
-        "summary": [
-            "عباس عراقچی از تلاش تهران برای دور زدن تحریم‌ها و صادر کردن نفت خبر داده است.",
-            "رسانه‌های وابسته به سپاه و امامان جمعه در حال آماده کردن افکار عمومی برای فرستادن کاروان نفتکش هستند.",
-            "تهران تهدید کرده است که اگر به این نفتکش‌ها حمله شود، تاسیسات انرژی امارات را می‌زند."
-        ],
-        "impact": "افزایش تنش‌های خلیج فارس با تهدید مستقیم زیرساخت‌های انرژی منطقه.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611219832",
-        "clean_url": "https://www.iranintl.com/en/202611219832",
-        "image": "http://www.bing.com/th?id=ONUT.tsh0ETKWxK9807R1iIEoyg&pid=News",
-        "timestamp": 1795224000.0
     }
 ]
