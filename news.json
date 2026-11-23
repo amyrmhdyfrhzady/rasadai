@@ -111,6 +111,24 @@
         "timestamp": 1795375704.0
     },
     {
+        "id": "972c85d18e",
+        "title_fa": "طرح کنست برای زمین‌گیر کردن سیاسی نتانیاهو و محدودیت نخست‌وزیری",
+        "title_en": "Eisenkot's bloc set to advance bill limiting PMs to 8 years in office, barring indicted politician from forming government",
+        "summary": [
+            "جناح اپوزیسیون اسرائیل پیش‌نویس قانونی را به کنست می‌برد که سقف دوران نخست‌وزیری را به ۸ سال محدود کرده و ورود افراد دارای پرونده قضایی به کابینه را ممنوع می‌کند.",
+            "هدف مستقیم این طرح، شخص بنیامین نتانیاهو و مسدود کردن راه بازگشت یا بقای او در قدرت از طریق ابزارهای قانونی است."
+        ],
+        "impact": "تنگ‌تر شدن عرصه سیاسی بر نتانیاهو و تشدید شکاف‌های داخلی در بدنه حاکمیت اسرائیل.",
+        "tag": "اسرائیل",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/eisenkots-bloc-set-to-advance-bill-limiting-pms-to-8-years-in-office-barring-indicted-politician-from-forming-government/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/eisenkots-bloc-set-to-advance-bill-limiting-pms-to-8-years-in-office-barring-indicted-politician-from-forming-government",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795374540.0
+    },
+    {
         "id": "b272571011",
         "title_fa": "خطای امنیتی در دریافت خبر",
         "title_en": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
@@ -5464,24 +5482,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/democrats-force-end-iran-war-110000490.html",
         "image": "http://www.bing.com/th?id=ONUT.r-69Qf0YwHnmGuEk4AGDew&pid=News",
         "timestamp": 1795143600.0
-    },
-    {
-        "id": "75e22097a6",
-        "title_fa": "تهدید مستقیم ایران اینترنشنال توسط سپاه؛ گام جدید در جنگ روانی",
-        "title_en": "IRGC says Iran International is among military targets",
-        "summary": [
-            "سپاه پاسداران رسماً رسانه ایران اینترنشنال را در بانک اهداف نظامی خود قرار داد.",
-            "این موضع‌گیری، اعتراف صریح به شکست دستگاه تبلیغاتی حکومت در مقابله با افشاگری‌های رسانه‌ای است.",
-            "هدف اصلی این تهدید علنی، ایجاد رعب میان روزنامه‌نگاران و جابه‌جایی مرزهای خط قرمز اطلاع‌رسانی است."
-        ],
-        "impact": "افزایش سطح تهدیدات امنیتی علیه خبرنگاران خارج از کشور و تشدید تدابیر حفاظتی.",
-        "tag": "جنگ روانی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdi03LWNSVGlsOVBoYUNRQVdqZml4TWRkRU9WLWU4NG9FWGxxMUhEbHZaSURyZWFhZ0JEV2N2cHJFVzU0V00wMnBtUFBobGZYd1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdi03LWNSVGlsOVBoYUNRQVdqZml4TWRkRU9WLWU4NG9FWGxxMUhEbHZaSURyZWFhZ0JEV2N2cHJFVzU0V00wMnBtUFBobGZYd1E",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795138658.0
     }
 ]
