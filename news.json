@@ -1,5 +1,23 @@
 [
     {
+        "id": "b0654fa155",
+        "title_fa": "تحریم جدید آمریکا علیه شبکه‌های انتقال پول مرتبط با ایران",
+        "title_en": "OFAC sanctions Iran-linked money services businesses",
+        "summary": [
+            "دفتر کنترل دارایی‌های خارجی (OFAC) شبکه‌های مالی وابسته به ایران را هدف قرار داد.",
+            "این اقدام با هدف قطع شریان‌های مالی و محدود کردن توانایی جابه‌جایی ارز برای پروژه‌های حساس انجام شده است."
+        ],
+        "impact": "افزایش فشار بر کانال‌های غیررسمی انتقال پول و دشوارتر شدن جابه‌جایی ارز برای نهادهای تحت تحریم.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNSejlibGVIeXhyMENOdDk0MjFnM05tVGh2OUtwS2JQNFBXalpZUURleWxIVFJJTl85dEY4YzR1SmxpbnhncVZGb1pMMVJkUUlTOGlNb0RXSXlSMndIUUg0LVRxbVFCSmhzQjdvVTR1ZV9qYUY0R1phSzZwazUyVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNSejlibGVIeXhyMENOdDk0MjFnM05tVGh2OUtwS2JQNFBXalpZUURleWxIVFJJTl85dEY4YzR1SmxpbnhncVZGb1pMMVJkUUlTOGlNb0RXSXlSMndIUUg0LVRxbVFCSmhzQjdvVTR1ZV9qYUY0R1phSzZwazUyVg",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795446793.0
+    },
+    {
         "id": "f4626be380",
         "title_fa": "درخواست رئیس پیشین موساد برای براندازی حکومت ایران",
         "title_en": "Iran: Former Mossad Chief Calls For Overthrowing The Regime, “even At The Cost Of War”",
@@ -5466,23 +5484,5 @@
         "clean_url": "https://en.irna.ir/news/86327955/Araghchi-Iran-seeks-a-good-honorable-and-dignified-agreement",
         "image": "https://img9.irna.ir/d/r2/2026/11/03/4/173214133.jpg?ts=1793686810959",
         "timestamp": 1795209060.0
-    },
-    {
-        "id": "2352c3f727",
-        "title_fa": "پروپوزال ۴۸ ساعته تهران برای هرمز و واشنگتن",
-        "title_en": "What Was Tehran's 48-Hour Proposal?",
-        "summary": [
-            "عباس عراقچی از طرح ۴۸ ساعته تهران برای بازگشایی تنگه هرمز و احیای مذاکرات با آمریکا خبر داد.",
-            "تفاهم‌نامه اسلام‌آباد رسماً از دستور کار حکومت خارج شده است."
-        ],
-        "impact": "تغییر محاسبات دیپلماتیک در منطقه تحت فشار نظامی و اقتصادی.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "en.isna",
-        "url": "https://en.isna.ir/news/1405083020608/What-Was-Tehran-s-48-Hour-Proposal",
-        "clean_url": "https://en.isna.ir/news/1405083020608/What-Was-Tehran-s-48-Hour-Proposal",
-        "image": "https://cdn.isna.ir/d/2026/11/21/4/64063580.jpg?ts=1795246383768",
-        "timestamp": 1795208760.0
     }
 ]
