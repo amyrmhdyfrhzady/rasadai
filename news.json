@@ -444,6 +444,25 @@
         "timestamp": 1795389473.0
     },
     {
+        "id": "5a4f90d1eb",
+        "title_fa": "انتقاد پزشکیان از تمرکز ثروت و فشار سپاه بر او",
+        "title_en": "IRGC puts Pezeshkian under pressure over Reza Shah",
+        "summary": [
+            "مسعود پزشکیان با مقایسه سیاست‌های دستمزدی دوره پهلوی با وضعیت فعلی، به ناکارآمدی سیستم در توزیع عادلانه ثروت و جذب نیرو در مناطق محروم اعتراف کرد.",
+            "تأکید رئیس‌جمهور بر مشوق‌های مالی دوران گذشته برای جذب متخصصان به استان‌های مرزی، موجی از فشار و حساسیت را از سوی نهادهای امنیتی ایجاد کرده است.",
+            "تمرکز بودجه و اختیارات در مرکز، استان‌های حاشیه‌ای نظیر سیستان و بلوچستان را با بحران کمبود نیروی متخصص و رکود اقتصادی عمیق مواجه کرده است."
+        ],
+        "impact": "تشدید اختلافات درون حاکمیت بر سر اعتراف به ناکارآمدی ساختاری در توزیع منابع کشوری.",
+        "tag": "سیاست داخلی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "todaypress",
+        "url": "https://todaypress.tv/en/world/irgc-puts-pezeshkian-under-pressure-over-reza-shah",
+        "clean_url": "https://todaypress.tv/en/world/irgc-puts-pezeshkian-under-pressure-over-reza-shah",
+        "image": "https://todaypress.tv/uploads/news/6b040cb30668a.webp",
+        "timestamp": 1795389060.0
+    },
+    {
         "id": "5a92005e72",
         "title_fa": "دور جدید فشار واشنگتن بر مسیرهای تجاری جـ.م.ا",
         "title_en": "US-Iran Conflict: New US campaign expands pressure on Iran's trade routes",
@@ -5469,24 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVFYRkE3OVRydi1pcHlSMXZaakZ5Yjh4Mjh2NUNUd1VTa3hkMlZMeGp4OXNRUjlhWVdVS2huSTJPcUNMblBvT3NNdm5QYVd6ZzJRUUl6NEJ4dVV6UDEwS2Z6bGVDamZNWkxVNWxHR2tSZUxlZ09Va1JJQjkyNktEclBHanlvTEk",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795182645.0
-    },
-    {
-        "id": "dccaa44a97",
-        "title_fa": "خط و نشان حوثی‌ها و سپاه برای عربستان؛ تهدید مراکز مالی ریاض",
-        "title_en": "Houthis threaten Saudi targets after coalition port warning",
-        "summary": [
-            "حوثی‌ها پس از هشدار ائتلاف برای تخلیه بندر حدیده، مراکز مالی ریاض و بنادر کلیدی عربستان را هدف نظامی اعلام کردند.",
-            "علی بلالی از مشاوران سـ‌پاه هم‌زمان مدعی شد هرگونه اقدام علیه ایران با پاسخ موشکی در هر نقطه‌ای مواجه می‌شود.",
-            "این تهدیدات هم‌زمان، شلیک تیر آخر برای ایجاد بازدارندگی روانی و جلوگیری از سقوط بنادر استراتژیک یمن است."
-        ],
-        "impact": "افزایش ریسک صدمه به خطوط انرژی و بنادر تجاری در البحرالاحمر و خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "WINNFM 98.9",
-        "url": "https://www.winnmediaskn.com/houthis-threaten-saudi-targets-after-coalition-port-warning/",
-        "clean_url": "https://www.winnmediaskn.com/houthis-threaten-saudi-targets-after-coalition-port-warning",
-        "image": "https://www.winnmediaskn.com/wp-content/uploads/2026/11/2024-08-21T095704Z_2007844093_RC2969A1HNRM_RTRMADP_3_ISRAEL-PALESTINIANS-SHIPPING-YEMEN-1724307412-1-696x391.webp",
-        "timestamp": 1795182300.0
     }
 ]
