@@ -457,6 +457,25 @@
         "timestamp": 1795415557.0
     },
     {
+        "id": "e9bc6dd370",
+        "title_fa": "ادعای افزایش برد موشک‌های ایران به ۴۵۰۰ کیلومتر و تهدید اروپا",
+        "title_en": "Netanyahu warns Iran threats are real, disputes Eisenkot assessment",
+        "summary": [
+            "احمد بخشایش اردستانی، عضو کمیسیون امنیت ملی مجلس مدعی افزایش برد موشک‌های ج.م.ا به ۴۵۰۰ کیلومتر و امکان هدف قرار دادن پایگاه‌های اروپایی شد.",
+            "رسانه‌های وابسته به حاکمیت نظیر روزنامه همشهری با تبلیغ روی این ادعا، خط جنگ روانی جدیدی را برای فشار بر دولت‌های اروپایی کلید زده‌اند.",
+            "این ادعاها فاقد شواهد فنی مستقل بوده و بیشتر ابزاری برای باج‌گیری سیاسی و بازدارندگی روانی در برابر فشارهای بین‌المللی است."
+        ],
+        "impact": "افزایش تنش‌های کلامی با غرب که می‌تواند روند تحریم‌های تسلیحاتی و موشکی اروپا علیه تهران را شتاب بخشد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611238666",
+        "clean_url": "https://www.iranintl.com/en/202611238666",
+        "image": "http://www.bing.com/th?id=ONUT.58Y7CYjbbNjGkenoM-DtLA&pid=News",
+        "timestamp": 1795412820.0
+    },
+    {
         "id": "6ee8c3c477",
         "title_fa": "نزدیک شدن به مهلت حیاتی در بحران ایران و آمریکا",
         "title_en": "Pivotal US-Iran war deadline approaches with no end in sight for conflict",
@@ -5465,23 +5484,5 @@
         "clean_url": "https://en.isna.ir/news/1405083020608/What-Was-Tehran-s-48-Hour-Proposal",
         "image": "https://cdn.isna.ir/d/2026/11/21/4/64063580.jpg?ts=1795246383768",
         "timestamp": 1795208760.0
-    },
-    {
-        "id": "c741cad8a5",
-        "title_fa": "ضربه سنگین خزانه داری آمریکا به شبکه پولشویی نفتی",
-        "title_en": "Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran's Oil Sector for Personal Gain",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا با اجرای عملیات جدید، مهره‌های کلیدی و فاسد داخلی را که درآمدهای نفتی را برای منافع شخصی بلوکه کرده بودند، هدف تحریم قرار داد.",
-            "مقامات آمریکایی تاکید کردند که با مسدود شدن فروش نفت، منابع مالی حکومتی کاملاً خشک شده و رژیم دسترسی به پول‌های بلوکه شده خود ندارد."
-        ],
-        "impact": "فلج شدن کامل شریان‌های مالی و قطع دسترسی عوامل داخلی به دلارهای نفتی.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "U.S. Department of the Treasury",
-        "url": "https://home.treasury.gov/news/press-releases/sb0697/",
-        "clean_url": "https://home.treasury.gov/news/press-releases/sb0697",
-        "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
-        "timestamp": 1795208400.0
     }
 ]
