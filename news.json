@@ -183,6 +183,24 @@
         "timestamp": 1795430820.0
     },
     {
+        "id": "d5793aa80d",
+        "title_fa": "برنامه جدید اسرائیل برای پاکسازی شهرهای عرب‌نشین از سلاح و تبهکاران",
+        "title_en": "Knesset panel approves committees on Arab crime, socioeconomic equality, attorney general law",
+        "summary": [
+            "منصور عباس حالا مسئول مستقیم جمع‌کردن بساط مافیای اسلحه و باج‌گیرها در شهرهای عرب‌نشین شده است.",
+            "دولت اسرائیل با این حرکت می‌خواهد شکاف امنیتی در مناطق حاشیه‌ای را پر کند و کنترل پلیس را بر محله‌های بحرانی برگرداند."
+        ],
+        "impact": "تلاش برای بستن حفره‌های امنیتی داخلی و کاهش نفوذ گروه‌های مسلح غیرقانونی.",
+        "tag": "سیاست داخلی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-approves-committees-on-arab-crime-socioeconomic-equality-attorney-general-law/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-approves-committees-on-arab-crime-socioeconomic-equality-attorney-general-law",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261123YS13.jpg",
+        "timestamp": 1795430580.0
+    },
+    {
         "id": "ea73652a7f",
         "title_fa": "تهدید موشکی جدید جـ.‌هـ.‌ا علیه پایگاه‌های نظامی اروپا",
         "title_en": "Iran threatens European bases with missiles it says can reach 4,500 km",
@@ -5465,24 +5483,5 @@
         "clean_url": "https://home.treasury.gov/news/press-releases/sb0697",
         "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
         "timestamp": 1795208400.0
-    },
-    {
-        "id": "12fe26c145",
-        "title_fa": "بن‌بست دیپلماتیک؛ ترامپ شروط تهران را رد کرد",
-        "title_en": "Iran hopes for deal to end war as Trump rejects Tehran's terms",
-        "summary": [
-            "عباس عراقچی در حالی از امید به دیپلماسی حرف می‌زند که ترامپ صراحتاً شروط جمهوری اسلامی را غیرقابل قبول خوانده است.",
-            "تهران به دنبال تضمین‌های امنیتی برای پایان درگیری‌هاست، اما واشینگتن همچنان بر مواضع سخت‌گیرانه خود پافشاری می‌کند.",
-            "تبادل پیام از طریق واسطه‌ها نشان می‌دهد که رژیم برای خروج از فشار فعلی به شدت تحت فشار است."
-        ],
-        "impact": "تداوم بن‌بست در مذاکرات، احتمال افزایش فشارهای اقتصادی و نظامی را در کوتاه‌مدت تشدید می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "anewz",
-        "url": "https://anewz.tv/region/middle-east/27032/iran-hopes-for-deal-to-end-war-araghchi-says/news",
-        "clean_url": "https://anewz.tv/region/middle-east/27032/iran-hopes-for-deal-to-end-war-araghchi-says/news",
-        "image": "https://anewz.tv/data/images/2026-11-21/39783_2026-11-11t152042z-1578778227-rc2rloa9xe25-rtrmadp-3-climate-cop31-magicstudio-qv7ebfqv0gg_gd.png?t=1795250334",
-        "timestamp": 1795206900.0
     }
 ]
