@@ -19,6 +19,25 @@
         "timestamp": 1795462783.0
     },
     {
+        "id": "df04d4de19",
+        "title_fa": "بحران ایران و تقابل بر سر معماری جدید منطقه",
+        "title_en": "US, Israel and Iran: A Conflict Deferred, Not Resolved (Part I)",
+        "summary": [
+            "پرونده ایران دیگر تنها به غنی‌سازی اتمی محدود نیست و بر سر کنترل راهبردی منطقه است.",
+            "تلاش‌های سخت‌گیرانه نتانیاهو برای جلوگیری از اتمی شدن رهاسازی نشده و دیپلماسی در کنار آمادگی نظامی پیش می‌رود.",
+            "تنگه هرمز و امنیت خلیج فارس به نقطه آسیب‌پذیری بزرگی در تقابل آمریکا و رژیم تبدیل شده‌اند."
+        ],
+        "impact": "افزایش ریسک امنیتی در خلیج فارس و آماده‌باش مستمر نظامی آمریکا و اسرائیل",
+        "tag": "راهبردی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Daily Times",
+        "url": "https://dailytimes.com.pk/1585880/us-israel-and-iran-a-conflict-deferred-not-resolved-part-i/",
+        "clean_url": "https://dailytimes.com.pk/1585880/us-israel-and-iran-a-conflict-deferred-not-resolved-part-i",
+        "image": "https://dailytimes.com.pk/assets/uploads/2025/09/Ahmed-S-Cheema-150x150-1.jpg",
+        "timestamp": 1795461600.0
+    },
+    {
         "id": "c2091e0e52",
         "title_fa": "شکاف در تل‌آویو؛ اختلاف نظر درباره حمله به تهران",
         "title_en": "Eisenkot clashes with Netanyahu over Iran strikes, sees no 'immediate threat'",
@@ -5470,24 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOci1pNHNRYWtmSlB2RlE4VkpwcVY1ejRxcnU5bUVJbmZ1aE92aWRfc016SFA1dUV5b2llcnlfMW1qLVNNcHhraWV5bVA4aHpiYVFlTng5eldWYXBMYmp3ZWlhcF90ZENtVVpTV1k4V3BHcGd4Z2tGOC1DaVlrcEtRRkdLV0h0bEgzQm85TEZjMThrY2t6Z01FeFZncE5XXzFDbXZjTw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795222504.0
-    },
-    {
-        "id": "02430dc02d",
-        "title_fa": "رایزنی محرمانه کوشنر و ویتکاف با قطر پیرامون پرونده ایران",
-        "title_en": "Scoop: Witkoff and Kushner meet Qatari mediators to discuss Iran negotiations",
-        "summary": [
-            "بر اساس گزارش آکسیوس، استیو ویتکاف و جرد کوشنر با میانجی‌های قطری برای بحث درباره احتمال مذاکره با ایران دیدار کرده‌اند.",
-            "ورود مهره‌های کلیدی نزدیک به دونالد ترامپ نشان‌دهنده آغاز تلاش‌ها برای باز کردن خطوط ارتباطی موازی و غیررسمی پیش از آغاز کار رسمی است.",
-            "دوحه بار دیگر در نقش واسطه اصلی میان واشنگتن و تهران، محور رایزنی‌ها برای ارزیابی انعطاف‌پذیری طرفین قرار گرفته است."
-        ],
-        "impact": "فعال شدن خطوط غیررسمی تماس دیپلماتیک جهت محک زدن شرایط پیش‌رو میان تهران و واشنگتن.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUJNYkNiQm5OX0tYbUNBcTR4VUZTRm1ZYlF0ajJHM2JudHNwSEJ3dGxCNDhVdUE5QWVoMk1mSjRxc2pkVUxaV1p6dXRpUTVZcE9VWDFvMW5JbDBDRmtPVk01enNSQi10ZVFYYWUzd2lRRHh3clhKQXIyQkZQTzcySw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUJNYkNiQm5OX0tYbUNBcTR4VUZTRm1ZYlF0ajJHM2JudHNwSEJ3dGxCNDhVdUE5QWVoMk1mSjRxc2pkVUxaV1p6dXRpUTVZcE9VWDFvMW5JbDBDRmtPVk01enNSQi10ZVFYYWUzd2lRRHh3clhKQXIyQkZQTzcySw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795220704.0
     }
 ]
