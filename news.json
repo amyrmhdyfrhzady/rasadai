@@ -404,6 +404,25 @@
         "timestamp": 1795429176.0
     },
     {
+        "id": "ce7df74b88",
+        "title_fa": "بحران خاموشی در ایران؛ دعوت پـزشـکـیـان به زندگی در اتاق‌های کوچک‌تر",
+        "title_en": "Iran just began cutting power to homes and businesses: its president says 'If it gets colder, we will move to a smaller room'",
+        "summary": [
+            "رژیم که مدعی قدرت منطقه‌ای است، در تامین برق و گاز خانگی درمانده شده و حالا رسماً جیره‌بندی برق را آغاز کرده است.",
+            "اعتراف پـزشـکـیـان به نقل مکان به اتاق‌های کوچک‌تر، اوج استیصال سیستمی در مدیریت زیرساخت‌های فرسوده انرژی را نشان می‌دهد.",
+            "اولویت دادن به بودجه‌های نـظـامـی و نـیـابـتـی باعث شده نیروگاه‌ها با کمبود شدید سوخت مواجه شوند و مردم هزینه آن را با تاریکی بدهند."
+        ],
+        "impact": "تعطیلی صنایع و افزایش خشم عمومی که می‌تواند جرقه‌ اعـتـراضـات جدید باشد.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-just-began-cutting-power-to-homes-and-businesses-its-president-says-if-it-gets-colder-we-will-move-to-a-smaller-room/ar-AA2i4clH",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-began-cutting-power-to-homes-and-businesses-its-president-says-if-it-gets-colder-we-will-move-to-a-smaller-room/ar-AA2i4clH",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795429101.0
+    },
+    {
         "id": "b80a301091",
         "title_fa": "ریسک‌های خط مشی سخت‌گیرانه د-و-ن-ا-ل-د ت-ر-ا-م-پ علیه ای-را-ن",
         "title_en": "Lucas: Trump’s hard line on Iran at risk",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260504__A9RN2PU__v3__HighRes__IranUsIsraelWarTransportHormuz-1793267430.jpg?resize=1920%2C1440",
         "timestamp": 1795219200.0
-    },
-    {
-        "id": "ea58a94695",
-        "title_fa": "موضع مبهم معاون ترامپ درباره گزینه نظامی علیه ایـران",
-        "title_en": "US Vice President Vance declines to say he would have ordered Iran strikes",
-        "summary": [
-            "جی دی ونس از پاسخ روشن به این پرسش که آیا دستور حمله نظامی به اهداف جـمهوری اسـلامی را صادر می‌کرد یا خیر، خودداری کرد.",
-            "این رویکرد نشان می‌دهد تیم جدید کاخ سفید ترجیح می‌دهد کارت‌های خود را در قبال تهران فعلاً پنهان نگه دارد و روی فشار حداکثری تمرکز کند."
-        ],
-        "impact": "افزایش ابهام در محاسبات استراتژیک تهـران درباره احتمال درگیری نظامی مستقیم.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795218319.0
     }
 ]
