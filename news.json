@@ -330,6 +330,25 @@
         "timestamp": 1795403580.0
     },
     {
+        "id": "d6ef1af063",
+        "title_fa": "گزارش نیوزویک: ایران همچنان توان تولید موشک را حفظ کرده است",
+        "title_en": "How Iran Can Still Build Missiles",
+        "summary": [
+            "به گزارش نیوزویک، پیت هگست، وزیر دفاع آمریکا، در ماه آوریل اعلام کرده بود حملات سنگین این کشور زیرساخت‌های صنایع دفاعی ایران و توان ساخت موشک، راکت، پرتابگر و پهپاد را به‌طور کامل نابود کرده است.",
+            "با وجود محاصره آمریکا و گذشت بیش از هشت ماه از آغاز بمباران صنایع موشکی ایران توسط آمریکا و اسرائیل، سپاه پاسداران در ۱۰ نوامبر تصاویری را منتشر کرد که به ادعای این نهاد، یک «شهر موشکی» زیرزمینی جدید پر از موشک‌های بالستیک، کروز و پرتابگرهاست.",
+            "نیوزویک اشاره می‌کند هنوز مشخص نیست این پایگاه واقعاً جدید است یا بازپخش تبلیغات قبلی، اما انتشار این تصاویر پیام روشنی از تداوم فعالیت موشکی تهران مخابره می‌کند."
+        ],
+        "impact": "ابهام درباره میزان تخریب واقعی صنایع موشکی ایران، بر ارزیابی‌های امنیتی و راهبرد بازدارندگی آمریکا و اسرائیل در قبال تهران اثر می‌گذارد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/how-iran-can-still-build-missiles-12755488",
+        "clean_url": "https://www.newsweek.com/how-iran-can-still-build-missiles-12755488",
+        "image": "http://www.bing.com/th?id=ONUT.ddiV22TEKIIJiGfkzxNWKw&pid=News",
+        "timestamp": 1795403340.0
+    },
+    {
         "id": "d24a3a876a",
         "title_fa": "تهدیدهای موشکی سپاه و جنگ روانی علیه اروپا",
         "title_en": "Video: Man rides donkey in Iran over fuel shortages and rising car costs",
@@ -5470,23 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41V0xjZWVhMTlwRjU2VGQ5ME10dGV0WjZrRWpnNW1JN29vMGp6M1RZNGliTUFJd1NmeUQtazYzYUQ3T3hUNTZxNllJNnpLVDJWemlTU0twSnZFSkhCS09CY28tYkJqNElyY1E",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795189050.0
-    },
-    {
-        "id": "82a2b7ccbb",
-        "title_fa": "افشای نقش ملانیا ترامپ در آتش‌بس روسیه و اوکراین",
-        "title_en": "Melania Trump seeks ‘solitude’ in new docuseries",
-        "summary": [
-            "مستند جدید ملانیا ترامپ فاش کرد که او در سایه درگیری‌های نظامی همسرش با تهران، نقش میانجی را برای برقراری آتش‌بس در اوکراین ایفا کرده است.",
-            "این گزارش نشان‌دهنده شکاف عمیق بین اولویت‌های کاخ سفید و واقعیت‌های میدانی در دوران پرالتهاب دوم ترامپ است."
-        ],
-        "impact": "نمایش نفوذ غیررسمی خانواده ترامپ در تغییر معادلات جهانی و کاهش فشار در جبهه شرق اروپا.",
-        "tag": "بین‌الملل",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/20/politics/melania-trump-amazon-series",
-        "clean_url": "https://www.cnn.com/2026/11/20/politics/melania-trump-amazon-series",
-        "image": "http://www.bing.com/th?id=ONUT.5Zvovdqz5-kAxFaics2Svg&pid=News",
-        "timestamp": 1795188900.0
     }
 ]
