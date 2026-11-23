@@ -36,6 +36,25 @@
         "timestamp": 1795429092.0
     },
     {
+        "id": "a68329675f",
+        "title_fa": "جرد کوشنر؛ مهره پنهان ترامپ در دیپلماسی جهانی",
+        "title_en": "'I Sleep Well at Night'",
+        "summary": [
+            "کوشنر بدون داشتن پست رسمی، همچنان بازوی اجرایی ترامپ در پرونده‌های حساس بین‌المللی است.",
+            "تمرکز او بر مدیریت همزمان بحران‌های جهانی نشان می‌دهد تیم ترامپ برای دور دوم احتمالی، ساختار غیررسمی و چابکی را چیده است.",
+            "میامی به مرکز ثقل سیاست خارجی ترامپ تبدیل شده و از کانال‌های خصوصی برای پیشبرد اهداف استفاده می‌شود."
+        ],
+        "impact": "تغییر احتمالی در نحوه تعاملات دیپلماتیک آمریکا با تکیه بر دیپلماسی شخصی و غیررسمی.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "New York Magazine",
+        "url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html",
+        "clean_url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html",
+        "image": "https://pyxis.nymag.com/v1/imgs/d52/80e/5f19ea5ff9d4b0280d3888dcde00e18ff4-JK-NYM-E-01-FF.1x.rsocial.w1200.jpg",
+        "timestamp": 1795428000.0
+    },
+    {
         "id": "c0b0d6943f",
         "title_fa": "عزیزی: ایران در پاسخ به تهدیدها محدودیت جغرافیایی ندارد",
         "title_en": "Iranian Parliament's National Security and Foreign Policy Committee Chairman Azizi says Iran will have no geographical restrictions in responding to threats in any future conflict, Tasnim reports",
@@ -53,6 +72,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPZFQ1RkJaTUZmTjlCSE5SWmxsY1V6UUItYjg5blB0cEYzcU0tZ2hsbVoyM0d0M0ZDVFcxODE2NDVFSHZnODhBbXExZGhHcFRwcVdibVpsQzA3OFpmNmhYVlkwUzZIZlRxNmJyc1VHMDlpbDBYYVE1aWU1MnY5MVZ2ZXZ2MWE0Rmp4STNyT0tfTEhZaVZaT21fTm45RmVoeEhLN3BqOHEyRU1iVnJMT21nYkMwSnFPWWVpUTBLRDVrRHo5T3AzN0s4cXpvQmlLd0RLTDdTWlJoM1pnNnRNbkpwTzhidDBELXpCRGZQR09vT3Y0Y1VaSm04cG1FRXNPUEtLaWpPUmhaODMwaFM0OHZZTVczWUluakF4U3piWWVCTURGSlV0TkxTYnBnU1Q1eElsZzZtRFJFTlc4TU1rTVF3ZmNNZ0cwLXFmVzNqUTVB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795422483.0
+    },
+    {
+        "id": "eee38f5887",
+        "title_fa": "خطر جهش قیمت نفت با کاهش ذخایر استراتژیک جهان",
+        "title_en": "World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks",
+        "summary": [
+            "بازار جهانی توانسته شوک ناشی از قطع عرضه نفت ج.ا را جذب کند اما ذخایر رو به اتمام است.",
+            "کاهش ذخایر استراتژیک، جهان را در برابر هرگونه تنش جدید در خاورمیانه آسیب‌پذیر کرده است.",
+            "تداوم وضعیت فعلی می‌تواند به نوسانات شدید قیمتی در بازار انرژی منجر شود."
+        ],
+        "impact": "افزایش ریسک تورم جهانی و فشار بر اقتصادهای وابسته به انرژی در صورت تداوم تنش‌ها.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5RLWt6Unk4SkNYOXIySEZqOF8tTUs3NWNZWTRWaUEzVW5MVmNqSTJqTnY5UTZZc09EY0RlLTc3UWcyTWlFcnlLdFdQSG9WSm1RcUFwNENpcGIxQkxmZU53VkFRM3o3aWtQZDRsQ0NHR0ZsejFVdHhyR09Jb1gweU1BLVFCSE1yVnBYQmV3VDRxcEJHVGMzNXh4QTlQbmQzaUJRaVBxM2FRQ3dCX0Rz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5RLWt6Unk4SkNYOXIySEZqOF8tTUs3NWNZWTRWaUEzVW5MVmNqSTJqTnY5UTZZc09EY0RlLTc3UWcyTWlFcnlLdFdQSG9WSm1RcUFwNENpcGIxQkxmZU53VkFRM3o3aWtQZDRsQ0NHR0ZsejFVdHhyR09Jb1gweU1BLVFCSE1yVnBYQmV3VDRxcEJHVGMzNXh4QTlQbmQzaUJRaVBxM2FRQ3dCX0Rz",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795421295.0
     },
     {
         "id": "d628d53065",
@@ -5452,41 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnS0VmRlE3ekV3ZHk0YzY3QjVhVkJJQUd1WWQ2NXVPQmpsN1pqWWg2MVpxajZYQnJIRVNOakJPU0FaUHVJYkVJQ2xScnNrcy15X2ZkLVpsTE42bXdYQ1VrVzJ0X2ZrdDFJalNWbnNJRUJBWEt6amc3V2N30gF8QVVfeXFMTUllRVc4WjBtR0x5QzBEcWE5TDBtQUVnOVRCSDRPUWlfU0ZUdldBd3pFbXZackNOR0xtNmE2el9MRWxmSmtXdkhlNGVJVWlfbDVsczFwem9DMmx2UU1nb0QtZFpwUjN5N0R4Vkh4SjdhY0w4WEIzWmFWcE5Wcg",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795185536.0
-    },
-    {
-        "id": "e7af67cc96",
-        "title_fa": "ادعاهای جنجالی ترامپ پس از بازگشت از آسیا",
-        "title_en": "FACT FOCUS: A look at false and misleading claims Trump made at news conference after his Asia trip",
-        "summary": [
-            "نشست خبری دونالد ترامپ با حاشیه‌ها و ادعاهای نادرست متعددی همراه شد.",
-            "سخنان ترامپ درباره دستاوردهای سفر آسیایی با تردیدهای جدی روبرو شده است."
-        ],
-        "impact": "این اظهارات فضای سیاسی ایالات متحده را پیرامون روابط آسیا متشنج کرده است.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/fact-check-trump-news-conference-white-house-40161bd1f52182498102889abd61eec6",
-        "clean_url": "https://apnews.com/article/fact-check-trump-news-conference-white-house-40161bd1f52182498102889abd61eec6",
-        "image": "http://www.bing.com/th?id=ONUT.8hQO3tXymCiH6dPmjgTU0g&pid=News",
-        "timestamp": 1795185420.0
-    },
-    {
-        "id": "2584d9f3c1",
-        "title_fa": "فشار سنگین واشنگتن بر سنگاپور و مالزی برای تحریم ج.ه.ا",
-        "title_en": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance",
-        "summary": [
-            "خزانه‌داری آمریکا مچ‌گیری از کشورهای جنوب شرق آسیا را برای دور زدن تحریم‌های نفتی توسط حاکمیت شدت بخشیده است.",
-            "سنگاپور و مالزی به عنوان مسیرهای اصلی ترانزیت انرژی زیر ذره‌بین شدید نهادهای مالی آمریکا قرار گرفته‌اند."
-        ],
-        "impact": "بسته شدن مسیرهای تنفس مالی و فروش غیررسمی نفت ج.ه.ا در آسیا",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795184864.0
     }
 ]
