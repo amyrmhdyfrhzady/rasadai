@@ -1,5 +1,42 @@
 [
     {
+        "id": "5c4cbe6972",
+        "title_fa": "اولتیماتوم ۴ روزه آمریکا به ت-ه-ر-ا-ن؛ معامله هرمز در برابر نفت",
+        "title_en": "US gives Iran four days to accept new deal on Hormuz, nuclear programme",
+        "summary": [
+            "واشینگتن با رد پیشنهاد عراقچی، طرحی جایگزین و سخت‌گیرانه را روی میز گذاشته که هدف آن پایان دادن به باج‌خواهی دریایی س-پ-ا-ه در تنگه هرمز است.",
+            "این پیشنهاد ت-ه-ر-ا-ن را مجبور می‌کند بین توقف غنی‌سازی و بازگشت به پروتکل‌های نظارتی، یا ادامه محاصره دریایی و تحریم‌های خردکننده یکی را انتخاب کند.",
+            "آمریکا شرط کاهش تدریجی تحریم‌های نفتی را به عقب‌نشینی کامل نظامی از تهدید کشتیرانی بین‌المللی گره زده است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و نظامی بر ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی در صورت رد این ضرب‌الاجل.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "timeskuwait",
+        "url": "https://timeskuwait.com/us-gives-iran-four-days-to-accept-new-deal-on-hormuz-nuclear-programme/",
+        "clean_url": "https://timeskuwait.com/us-gives-iran-four-days-to-accept-new-deal-on-hormuz-nuclear-programme",
+        "image": "https://timeskuwait.com/wp-content/uploads/2026/11/1108855_0.jpeg-e1795438319715.webp",
+        "timestamp": 1795438380.0
+    },
+    {
+        "id": "089fb31301",
+        "title_fa": "بنگلادش به دنبال سرِ شیخ حسینه؛ استرداد یا اعدام در انتظار نخست‌وزیر",
+        "title_en": "Bangladesh vows to arrest Hasina if she returns from India",
+        "summary": [
+            "دولت جدید داکا با فشار به هند برای استرداد شیخ حسینه، به دنبال بستن کامل پرونده حزب عوامی لیگ و تثبیت قدرت پس از خیزش خونین ۲۰۲۴ است.",
+            "بازگشت حسینه به کشور با توجه به حکم اعدام غیابی، می‌تواند جرقه‌ای برای دور جدید جنگ‌های خیابانی و انتقام‌جویی‌های سیاسی باشد."
+        ],
+        "impact": "افزایش تنش دیپلماتیک میان هند و بنگلادش و احتمال بروز ناآرامی‌های گسترده در منطقه.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Ariana News",
+        "url": "https://www.ariananews.af/bangladesh-vows-to-arrest-hasina-if-she-returns-from-india/",
+        "clean_url": "https://www.ariananews.af/bangladesh-vows-to-arrest-hasina-if-she-returns-from-india",
+        "image": "https://www.ariananews.af/wp-content/uploads/2026/11/Hasina.jpg",
+        "timestamp": 1795435740.0
+    },
+    {
         "id": "5d5c529415",
         "title_fa": "درخواست رئیس سابق موساد برای درگیری نظامی با ایران",
         "title_en": "Ex-Mossad chief calls for war on Iran, reveals agency's role in foiling Taylor Swift concert plot",
@@ -530,6 +567,24 @@
         "clean_url": "https://www.iranintl.com/en/202611233352",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1795401720.0
+    },
+    {
+        "id": "1aed071556",
+        "title_fa": "فلج شدن پلتفرم آموزشی اتحادیه اروپا در پی حمله سایبری",
+        "title_en": "EU academy platform disabled after cyberattack on Commission",
+        "summary": [
+            "هکرهای ناشناس با هدف قرار دادن زیرساخت‌های کمیسیون اروپا، دسترسی به سامانه‌های آموزشی این نهاد را به طور کامل قطع کردند.",
+            "این حمله نشان‌دهنده ضعف جدی در لایه‌های امنیتی بروکسل در برابر جنگ‌های نوین سایبری است که احتمالاً با اهداف جاسوسی انجام شده است."
+        ],
+        "impact": "اختلال در عملیات اداری اتحادیه اروپا و آماده‌باش امنیتی برای مقابله با نفوذهای بعدی.",
+        "tag": "سایبری",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/world/2026/11/23/eu-academy-platform-disabled-after-cyberattack-on-commission",
+        "clean_url": "https://english.alarabiya.net/News/world/2026/11/23/eu-academy-platform-disabled-after-cyberattack-on-commission",
+        "image": "https://vid.alarabiya.net/images/2025/07/21/1c17e197-4120-49aa-9894-56b83512c88a/1c17e197-4120-49aa-9894-56b83512c88a_16x9_600x338.JPG",
+        "timestamp": 1795400460.0
     },
     {
         "id": "548152bd63",
@@ -5432,59 +5487,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVFBjRjZpYjFscjVqemFad0FLdmt0WTBoQzRuRHFLMWV1aXZ3dGJjblZVdUg3eWlCa1Y3RFpaSXh6czVSUXFHNW5kNVlqYVdaUXliMjRFM3BiemI1SGVQYjhTUjEybEtZbk80MWhnYk9QWVo3NlJDcG9sZlVCRThZMDltS2hEanBiS1VHcmFHdld6NG43YkRlRWxCS2lmVThPc3oweHNNclRad1ZjVlRsLXc5QUNRTHZZY2liRlhaN0Zva1Rz0gHKAUFVX3lxTE4wVk9WNmQxb291ZHdJYzV6NlFsYnNHc2JZdk1nOVB3bklyRGhfZVhwUGs0VUJkZm9RcFVtZm9tMkY0MmVBT0FmOE9Ma2oyajg3TnEzRXJYUmZvckVjMkUyR0pKc2FwUFhGemRoRGxaVzZMdnhzbjNBQzg0YlVqaThpY2NxSDFuYXVzTzFwQXBSQkExMlNUTEV2d2RrS1FKNnI2bFoweElrYjBzTGU5dlVqUWVKN3dRU29xV20yYUNacmNHVmdXWWdqd3c",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795196839.0
-    },
-    {
-        "id": "103abe303f",
-        "title_fa": "نوسان تصنعی نرخ ارز در آمارهای بانک مرکزی",
-        "title_en": "Iranian rial gains against dollar, Saudi riyal and Pakistani rupee",
-        "summary": [
-            "بانک مرکزی مدعی تقویت ارزش ریال در برابر دلار و ارزهای منطقه‌ای شد.",
-            "این نرخ‌های رسمی فاصله زیادی با بازار آزاد و واقعیت تورم فلج‌کننده دارد."
-        ],
-        "impact": "تلاش نافرجام دولت برای دستکاری روانی بازار ارز.",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Daily Times",
-        "url": "https://dailytimes.com.pk/1584466/iranian-rial-gains-against-dollar-saudi-riyal-and-pakistani-rupee/",
-        "clean_url": "https://dailytimes.com.pk/1584466/iranian-rial-gains-against-dollar-saudi-riyal-and-pakistani-rupee",
-        "image": "https://dailytimes.com.pk/assets/uploads/2026/11/20/Iranian-rial-gains-against-dollar-Saudi-riyal-and-Pakistani-rupee.webp",
-        "timestamp": 1795195320.0
-    },
-    {
-        "id": "3b915fca3f",
-        "title_fa": "دست‌آوردهای سفر ترامپ به آسیا و پیام‌ها به پکن و مسکو",
-        "title_en": "Takeaways From Trump’s Post-Asia Trip News Conference",
-        "summary": [
-            "ترامپ نشست سه‌جانبه با رهبران چین و روسیه را رویدادی فوق‌العاده خواند و از تلاش برای بالانس قدرت با دو رقیب اصلی واشنگتن خبر داد.",
-            "او همزمان سیگنال‌هایی برای همکاری با دمکرات‌ها در کنگره فرستاد تا در داخل آمریکا نیز کنترل اوضاع را حفظ کند."
-        ],
-        "impact": "تلاش ترامپ برای مدیریت توازن قدرت جهانی همزمان با پیش‌بردن اجماع داخلی در آمریکا.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/20/us/politics/takeaways-from-trumps-post-asia-trip-news-conference.html",
-        "clean_url": "https://www.nytimes.com/2026/11/20/us/politics/takeaways-from-trumps-post-asia-trip-news-conference.html",
-        "image": "http://www.bing.com/th?id=ONUT.SGn664u0zbjpqy141KP3yQ&pid=News",
-        "timestamp": 1795194720.0
-    },
-    {
-        "id": "5cfc5eafe4",
-        "title_fa": "سقوط کم‌سابقه بازار سهام آمریکا و دلایل آن",
-        "title_en": "6 reasons stocks are falling, and what you should do about it",
-        "summary": [
-            "شاخص اس اند پی ۵۰۰ برای هفتمین روز متوالی دچار ریزش شد.",
-            "این طولانی‌ترین روند نزولی بازار سهام از فوریه ۲۰۲۰ تاکنون به شمار می‌رود."
-        ],
-        "impact": "نگران‌کننده شدن وضعیت بازارهای مالی و افزایش فشار روی سرمایه‌گذاران.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/6-reasons-stocks-are-falling-and-what-you-should-do-about-it/ar-AA2hShKg",
-        "clean_url": "https://www.msn.com/en-us/news/other/6-reasons-stocks-are-falling-and-what-you-should-do-about-it/ar-AA2hShKg",
-        "image": "http://www.bing.com/th?id=ONUT.KbArvqetlsVD3CvksYp1Ag&pid=News",
-        "timestamp": 1795194245.0
     }
 ]
