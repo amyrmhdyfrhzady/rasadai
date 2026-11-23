@@ -274,6 +274,25 @@
         "timestamp": 1795359850.0
     },
     {
+        "id": "5bcd57215e",
+        "title_fa": "ژست صلح‌طلبی رهبر کره شمالی؛ تاکتیک جدید پیونگ‌یانگ برای تضعیف تحریم‌ها",
+        "title_en": "Kim Jong Un says North Korea does not seek hegemony and expansion — KCNA",
+        "summary": [
+            "ادعای کیم جونگ اون درباره «عدم سلطه‌طلبی» صرفاً یک مانور دیپلماتیک برای عادی‌سازی تصویر کره شمالی به عنوان یک قدرت هسته‌ای تثبیت‌شده است.",
+            "پیونگ‌یانگ با مشروط کردن روابط به «احترام متقابل»، قصد دارد مسئولیت تنش‌های منطقه‌ای را کاملاً به دوش تحریم‌ها و فشارهای نظامی آمریکا بیندازد.",
+            "این مواضع نرم در برابر سفرای خارجی، نشان‌دهنده تلاش کره شمالی برای شکاف در اجماع تحریمی غرب و جذب متحدان غیرغربی است."
+        ],
+        "impact": "تلاش پیونگ‌یانگ برای بازسازی چهره بین‌المللی خود بدون عقب‌نشینی از برنامه‌های موشکی و هسته‌ای.",
+        "tag": "دیپلماسی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2223099",
+        "clean_url": "https://tass.com/world/2223099",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795359300.0
+    },
+    {
         "id": "c58f9d48e6",
         "title_fa": "جستجوی مسیر خروج از بحران جنگ با ایران",
         "title_en": "Iran War Exit: ‘Path Where No One Loses’",
@@ -5464,24 +5483,5 @@
         "clean_url": "https://www.iranintl.com/en/202611207188",
         "image": "http://www.bing.com/th?id=ONUT.BQTJYZW-h6-lhSjKbcp4dQ&pid=News",
         "timestamp": 1795136580.0
-    },
-    {
-        "id": "8e9d4265c0",
-        "title_fa": "عملیات سایبری تهاجمی بریتانیا علیه ج.ا، روسیه و چین",
-        "title_en": "UK running offensive cyber operations against Iran, Russia and China",
-        "summary": [
-            "فرمانده نیروی سایبری نظامی بریتانیا اعتراف کرد که این کشور عملیات سایبری تهاجمی علیه ج.ا و متحدانش انجام می‌دهد.",
-            "لندن تهدیدهای سایبری تهران، مسکو و پکن را خطری مستقیم برای امنیت ملی خود می‌داند.",
-            "این اعتراف کم‌سابقه نشان‌دهنده افزایش تقابل اطلاعاتی و هزینه‌تراشی برای فعالیت‌های سایبری جمهوری اسلامی است."
-        ],
-        "impact": "افزایش فشارهای امنیتی و سایبری علیه زیرساخت‌های مرتبط با حکومت ایران.",
-        "tag": "سایبری",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611206064",
-        "clean_url": "https://www.iranintl.com/en/202611206064",
-        "image": "http://www.bing.com/th?id=ONUT.8Yp2_REFv8RYt7SEVqeeTg&pid=News",
-        "timestamp": 1795136340.0
     }
 ]
