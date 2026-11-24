@@ -1,5 +1,24 @@
 [
     {
+        "id": "b2a3af7eed",
+        "title_fa": "ردپای سایبری ج.ا در حملات به نفت‌کش‌های بین‌المللی",
+        "title_en": "US suspects Iran may be behind cyberattacks on dozens of ships",
+        "summary": [
+            "آمریکا در حال بررسی نقش مستقیم ج.ا در حملات سایبری به ۵۰ نفت‌کش و کشتی حامل مواد شیمیایی است.",
+            "هدف این حملات، ایجاد اختلال در مسیرهای دریایی و تهدید امنیت بنادر دور از خاورمیانه است.",
+            "نفوذ به سیستم‌های ناوبری کشتی‌ها می‌تواند منجر به فجایع زیست‌محیطی یا انفجارهای مهیب شود."
+        ],
+        "impact": "افزایش ریسک بیمه دریایی و احتمال واکنش سخت نظامی آمریکا به تهدیدات سایبری ج.ا.",
+        "tag": "سایبری",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611243672",
+        "clean_url": "https://www.iranintl.com/en/202611243672",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/cb9557cc0ffed5fdf164b3dedd1299230a4ee7ed-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795480680.0
+    },
+    {
         "id": "4c95e8a07c",
         "title_fa": "فلج اقتصادی جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با فشار حداکثری آمریکا",
         "title_en": "Bessent says Iran's leaders are panicking as US tightens financial sanctions",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://indianexpress.com/article/world/us-iran-war-live-updates-strikes-netanyahu-trump-yemen-houthis-10972341",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795249800.0
-    },
-    {
-        "id": "13c72a0882",
-        "title_fa": "پیش‌بینی تداوم درگیری با ج.ا تا سال ۲۰۲۹",
-        "title_en": "Ex-Pentagon chief sees Iran war stretching to 2029",
-        "summary": [
-            "رئیس سابق پنتاگون معتقد است تنش‌های نظامی با ج.ا به یک فرسایش بلندمدت تبدیل شده و تا سال ۲۰۲۹ ادامه خواهد یافت.",
-            "این ارزیابی نشان می‌دهد که استراتژی فشار بر ج.ا از یک تقابل مقطعی به یک درگیری استراتژیک و طولانی‌مدت تغییر ماهیت داده است."
-        ],
-        "impact": "تداوم بی‌ثباتی در منطقه و افزایش هزینه‌های نظامی برای طرفین درگیر.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Newsmax on MSN",
-        "url": "https://www.msn.com/en-us/news/other/ex-pentagon-chief-sees-iran-war-stretching-to-2029/ar-AA2hVIZj",
-        "clean_url": "https://www.msn.com/en-us/news/other/ex-pentagon-chief-sees-iran-war-stretching-to-2029/ar-AA2hVIZj",
-        "image": "http://www.bing.com/th?id=ONUT.vGozptS-5FyoQCSvqk_PKQ&pid=News",
-        "timestamp": 1795248950.0
     }
 ]
