@@ -772,6 +772,24 @@
         "timestamp": 1795479360.0
     },
     {
+        "id": "0bca7d5f6e",
+        "title_fa": "خفه‌کننده جدید آمریکا بر شبکه بانکی سایه ایران",
+        "title_en": "US squeezing Iran",
+        "summary": [
+            "تحریم‌های جدید آمریکا مستقیماً لایه‌های پنهان مالی تهران را هدف گرفته تا جریان نقدینگی را قطع کند.",
+            "این اقدام فراتر از یک فشار دیپلماتیک، مستقیماً زندگی روزمره و فعالیت‌های اقتصادی عادی را در کشور تحت فشار قرار می‌دهد."
+        ],
+        "impact": "اختلال جدی در تبادلات ارزی و افزایش هزینه‌های کالاهای اساسی به دلیل محدودیت‌های بانکی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Ahram Online",
+        "url": "https://english.ahram.org.eg/NewsContent/50/1203/583304/AlAhram-Weekly/World/US-squeezing-Iran-.aspx",
+        "clean_url": "https://english.ahram.org.eg/NewsContent/50/1203/583304/AlAhram-Weekly/World/US-squeezing-Iran-.aspx",
+        "image": "https://english.ahram.org.eg/Media/News/2026/11/24/41_2026-639311453255904013-590.jpg",
+        "timestamp": 1795478400.0
+    },
+    {
         "id": "5e372cc53b",
         "title_fa": "هشدار آیزنکوت درباره اورانیوم ایران و موضع ترامپ برای توافق",
         "title_en": "#ISRAELIRANWAR. Iran: Cells in West Azerbaijan that were transporting weapons and Starlink to use against the government have been dismantled. Netanyahu plans to attack Iran ...",
@@ -5488,23 +5506,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRcXlYS3RlcVdiMlVieDYxTWlNYk9Kb3BMV1pzdW1qVDlWdEluRTh5cFljbFVMWTMyWnpnX3pQWmo3akt6Q0NqOWVuME43SGNmNnZmZm5ldw",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795313936.0
-    },
-    {
-        "id": "afbce8ed54",
-        "title_fa": "هشدار مقام‌های آمریکایی درباره امنیت سایبری پس از قطعی‌های اخیر",
-        "title_en": "After flurry of tech outages, CT officials say vigilance needed",
-        "summary": [
-            "مقام‌های ایالتی و فدرال آمریکا نسبت به تکرار اختلالات گسترده در بخش فناوری ابراز نگرانی کردند.",
-            "شرکت‌های بزرگ و خطوط هوایی در ماه‌های گذشته هدف قطعی‌های فنی و مشکلات نرم‌افزاری قرار گرفته‌اند."
-        ],
-        "impact": "افزایش نظارت امنیتی بر زیرساخت‌های حیاتی و سیستم‌های مالی و حمایتی.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Hartford Courant",
-        "url": "https://www.courant.com/2026/11/22/after-flurry-of-tech-outages-ct-officials-say-vigilance-needed/",
-        "clean_url": "https://www.courant.com/2026/11/22/after-flurry-of-tech-outages-ct-officials-say-vigilance-needed",
-        "image": "http://www.bing.com/th?id=ONUT.K8pkmhQOXdO8DDrj1JZkDQ&pid=News",
-        "timestamp": 1795313820.0
     }
 ]
