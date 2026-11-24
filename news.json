@@ -1,5 +1,25 @@
 [
     {
+        "id": "fc68d3b2df",
+        "title_fa": "بحران‌های جهانی: از جهش قیمت سهام تا تنش‌های نظامی",
+        "title_en": "Tuesday, November 24, 2026",
+        "summary": [
+            "بازگشت مدیرعامل انویدیا باعث جهش ۴.۷ درصدی شاخص اس‌اندپی ۵۰۰ شد",
+            "افزایش حملات در تنگه هرمز و سقوط قیمت نفت به زیر ۸۰ دلار، بازارهای انرژی را ناپایدار کرده است",
+            "حمله موشکی روسیه به لهستان، ناتو را در وضعیت آماده‌باش قرار داده است",
+            "بحران ابولا در کنگو با عبور از ۱۱ هزار مبتلا، وضعیت بهداشتی منطقه را بحرانی کرد"
+        ],
+        "impact": "بی‌ثباتی در بازارهای مالی جهانی همزمان با افزایش ریسک درگیری‌های نظامی در اروپا و خاورمیانه",
+        "tag": "اقتصاد و امنیت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "note",
+        "url": "https://note.com/otanishoji/n/n9fcb0ae0c8e2?hl=en",
+        "clean_url": "https://note.com/otanishoji/n/n9fcb0ae0c8e2",
+        "image": "https://www.bing.com/th?id=ONUT.RaRM73P7iJsXX1To7F4QMQ",
+        "timestamp": 1795486905.0753407
+    },
+    {
         "id": "b2a3af7eed",
         "title_fa": "ردپای سایبری ج.ا در حملات به نفت‌کش‌های بین‌المللی",
         "title_en": "US suspects Iran may be behind cyberattacks on dozens of ships",
@@ -533,6 +553,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0lUNkoyOXRBQWxPcGY3SGpqcnNlYW1BamtqZHdqRzBvTEYyTU5veFpCdEJzSWhpRnF3a1ItOHFzcEttUkktVmU1SzFEd1d5Zmprdm5ZZUl5STh1RUtNVDlQUzdrM21FUXp4OUtpaktZd1Z3Tks4VVpwTzZhUE1EdlVSRktUbDczNjRka1l1VnhPSTVaYnpQNHYyNmtrTjJpeV9vbWREMXpiek9oczJ3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795445140.0
+    },
+    {
+        "id": "6c51d7c640",
+        "title_fa": "عقب‌نشینی پارلمان اسرائیل از طرح جنجالی اصلاح رسانه‌ها",
+        "title_en": "Knesset panel to vote tomorrow on bill to repeal Netanyahu ally's media overhaul",
+        "summary": [
+            "کمیته کنست برای لغو طرح وزیر ارتباطات نزدیک به نتانیاهو رای‌گیری می‌کند",
+            "این اقدام نشان‌دهنده شکست تلاش‌های دولت برای کنترل مستقیم بر نهادهای رسانه‌ای است"
+        ],
+        "impact": "کاهش تنش‌های داخلی در کابینه نتانیاهو و بازگشت به وضعیت پیشین در ساختار رسانه‌ای اسرائیل",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-to-vote-tomorrow-on-bill-to-repeal-netanyahu-allys-media-overhaul/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-to-vote-tomorrow-on-bill-to-repeal-netanyahu-allys-media-overhaul",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261123YS48.jpg",
+        "timestamp": 1795443900.0
     },
     {
         "id": "650f7f705d",
@@ -5458,41 +5496,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2hJN281YTdLYktQZ2cwZGFPRzRqZ1BBUURnQmpTNkhTcnJPYTZoMjgtSVY5ZUlBbEkwNXVrVGVUZzlybVpEbFRqM1RLcjY3YUU5dTM0NF8zZHp0eGhqMElITVZZcE1nWnI0T2loNDUxell4d2VublFMdF9STG51ZmJrdExOb09aUzZEUEtUWm51Q20xUWVR",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795250304.0
-    },
-    {
-        "id": "72969b2efc",
-        "title_fa": "تهدید ترامپ: مالیات سنگین برای دیتاسنترهای هوش مصنوعی خارج از آمریکا",
-        "title_en": "Trump Threatens 'Tremendous Tax' on U.S. Companies Building AI Data Centers Overseas",
-        "summary": [
-            "ترامپ با هدف بازگرداندن زیرساخت‌های حیاتی هوش مصنوعی، شرکت‌های آمریکایی را به وضع مالیات‌های کمرشکن در صورت فعالیت خارج از مرزها تهدید کرد.",
-            "این اظهارات ناگهانی باعث ریزش ارزش سهام غول‌های تکنولوژی شد و نشان‌دهنده رویکرد تهاجمی دولت جدید در حوزه امنیت داده و استقلال صنعتی است."
-        ],
-        "impact": "افزایش ریسک سرمایه‌گذاری در بخش تکنولوژی و فشار بر شرکت‌ها برای انتقال زیرساخت‌ها به داخل خاک آمریکا.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Latin Times",
-        "url": "https://www.latintimes.com/trump-ai-data-centers-overseas-tax-threat-601669",
-        "clean_url": "https://www.latintimes.com/trump-ai-data-centers-overseas-tax-threat-601669",
-        "image": "http://www.bing.com/th?id=ONUT.GJC_sEaN_Zj-Shuq2AiVOg&pid=News",
-        "timestamp": 1795249980.0
-    },
-    {
-        "id": "5c64a6f8a6",
-        "title_fa": "ادعای سرنگونی پهپاد آمریکایی و حملات هوایی در یمن",
-        "title_en": "US-Iran War Live Updates: Iran claims downing 58th US drone; air strikes reported in Yemen",
-        "summary": [
-            "رسانه‌های وابسته به ج.ا مدعی انهدام تعداد زیادی پرنده بدون سرنشین آمریکایی شدند.",
-            "همزمان جنگنده‌های ائتلاف مواضع نیروهای نیابتی حوثی را در چند شهر یمن بمباران کردند."
-        ],
-        "impact": "تشدید درگیری‌های نیابتی در منطقه و افزایش تنش نظامی میان واشنگتن و تهران.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/us-iran-war-live-updates-strikes-netanyahu-trump-yemen-houthis-10972341/",
-        "clean_url": "https://indianexpress.com/article/world/us-iran-war-live-updates-strikes-netanyahu-trump-yemen-houthis-10972341",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795249800.0
     }
 ]
