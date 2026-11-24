@@ -371,6 +371,61 @@
         "timestamp": 1795532880.0
     },
     {
+        "id": "c796b135bf",
+        "title_fa": "وحشت ساکنان آیووا از انفجار مواد سمی ارتش آمریکا",
+        "title_en": "Iowans brace for the Army’s detonation of toxic lead",
+        "summary": [
+            "ارتش آمریکا قصد دارد محموله‌ای از مواد شیمیایی سمی را در یک کارخانه مهمات‌سازی در آیووا منهدم کند",
+            "ساکنان محلی به دلیل خطرات زیست‌محیطی و سلامت عمومی به شدت نسبت به این اقدام معترض هستند"
+        ],
+        "impact": "ایجاد تنش اجتماعی و نگرانی‌های بهداشتی در مناطق اطراف سایت‌های نظامی",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/iowans-brace-armys-detonation-toxic-lead-rcna611177",
+        "clean_url": "https://www.nbcnews.com/news/us-news/iowans-brace-armys-detonation-toxic-lead-rcna611177",
+        "image": "http://www.bing.com/th?id=ONUT._W0IO6mPY3532eUvCYBJLQ&pid=News",
+        "timestamp": 1795532400.0
+    },
+    {
+        "id": "a4c9e41a6d",
+        "title_fa": "محکومیت هوآوی در دادگاه آمریکا به اتهام دور زدن تحریم‌های ایران",
+        "title_en": "Huawei Convicted in US as Chinese Tech Giant Emerges as Nvidia Rival",
+        "summary": [
+            "دادگاه فدرال بروکلین، هوآوی را به دلیل فریب بانک‌ها و نقض تحریم‌های ج.ا.ا مجرم شناخت",
+            "این حکم ضربه‌ای سنگین به تلاش‌های پکن برای نفوذ تکنولوژیک و دور زدن محدودیت‌های واشنگتن است",
+            "اتهامات شامل کلاهبرداری بانکی و سرقت اسرار تجاری است که نشان‌دهنده جدیت آمریکا در برخورد با شرکای تجاری غیرقانونی تهران است"
+        ],
+        "impact": "افزایش فشار حقوقی بر شرکت‌های چینی برای قطع همکاری‌های مالی با ایران",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
+        "clean_url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
+        "image": "http://www.bing.com/th?id=ONUT.Jaky3rdcs2O1jLYItAb_3g&pid=News",
+        "timestamp": 1795530960.0
+    },
+    {
+        "id": "675a94c47d",
+        "title_fa": "همسویی دموکرات‌ها با دستور کار جمهوری‌خواهان در کنگره",
+        "title_en": "Democrats are helping push through GOP agenda despite historic blue wave",
+        "summary": [
+            "برخی دموکرات‌ها در دوره گذار با جمهوری‌خواهان همراه شده‌اند که خشم جریان‌های پیشرو را برانگیخته است",
+            "این چرخش سیاسی نشان‌دهنده شکاف عمیق در بدنه حزب دموکرات پس از شکست‌های اخیر است"
+        ],
+        "impact": "تضعیف انسجام حزبی دموکرات‌ها و تغییر در اولویت‌های قانون‌گذاری آمریکا",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/democrats-are-helping-push-through-gop-agenda-despite-historic-blue-wave/ar-AA2i9D4r",
+        "clean_url": "https://www.msn.com/en-us/news/other/democrats-are-helping-push-through-gop-agenda-despite-historic-blue-wave/ar-AA2i9D4r",
+        "image": "http://www.bing.com/th?id=ONUT.vCPZJILXvVpZP9VLiES0BQ&pid=News",
+        "timestamp": 1795529704.0
+    },
+    {
         "id": "a430352aba",
         "title_fa": "خیز اتمی تهران برای ظرفیت ۲۰ هزار مگاواتی",
         "title_en": "Iran's Regime Expands Nuclear Program With 20,000-Megawatt Target Amid IAEA Concerns",
@@ -610,6 +665,43 @@
         "timestamp": 1795514603.0
     },
     {
+        "id": "50f498061b",
+        "title_fa": "وام ۱۵ میلیارد دلاری پنتاگون به استارتاپ مرتبط با پسر ترامپ",
+        "title_en": "A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon",
+        "summary": [
+            "پنتاگون در حال بررسی اعطای یکی از بزرگترین وام‌های تاریخ آمریکا به استارتاپ هادریان اتومیشن است",
+            "ارتباط مالی این شرکت با دونالد ترامپ جونیور، شائبه رانت و استفاده از نفوذ سیاسی را تقویت کرده است",
+            "این شرکت که در حوزه هوش مصنوعی دفاعی فعالیت می‌کند، سابقه اجرایی چندانی ندارد و این وام فراتر از ارزش واقعی شرکت است"
+        ],
+        "impact": "تغییر در اولویت‌های بودجه دفاعی آمریکا به نفع شرکت‌های نزدیک به حلقه قدرت ترامپ",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "ProPublica",
+        "url": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan",
+        "clean_url": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan",
+        "image": "http://www.bing.com/th?id=ONUT.pgH06iM6aezkeXyTFtkKdA&pid=News",
+        "timestamp": 1795514460.0
+    },
+    {
+        "id": "c668ad0a6e",
+        "title_fa": "نفوذ سایبری به سیستم‌های غیرمحرمانه سازمان سیا",
+        "title_en": "An unclassified CIA system was breached in a cyberattack, AP source says",
+        "summary": [
+            "گزارش‌ها از رخنه امنیتی در زیرساخت‌های سایبری سیا خبر می‌دهند",
+            "این حادثه نشان‌دهنده آسیب‌پذیری نهادهای اطلاعاتی آمریکا در برابر حملات سایبری است"
+        ],
+        "impact": "افزایش سطح هشدار امنیتی در نهادهای اطلاعاتی آمریکا",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Times Union",
+        "url": "https://www.timesunion.com/news/article/unclassified-cia-system-breached-cyberattack-ap-22548399.php",
+        "clean_url": "https://www.timesunion.com/news/article/unclassified-cia-system-breached-cyberattack-ap-22548399.php",
+        "image": "http://www.bing.com/th?id=ONUT.QPlR_uDd2Jj9k_VGVz-hWw&pid=News",
+        "timestamp": 1795514220.0
+    },
+    {
         "id": "7a837b18a0",
         "title_fa": "چالش ویزای ورزشکاران روس در آستانه رویدادهای المپیک",
         "title_en": "خرسندی ترامپ از میزبانی آمریکا در جام جهانی فوتبال زنان ۲۰۳۱",
@@ -790,6 +882,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/insane-video-shows-1200-trucks-in-26-mile-traffic-jam-in-iran-as-war-strangles-economy/ar-AA2i8I0d",
         "image": "http://www.bing.com/th?id=ONUT.NSUhiB54tqACVjC6Y_B27w&pid=News",
         "timestamp": 1795508160.0
+    },
+    {
+        "id": "4770501fa6",
+        "title_fa": "سقوط سهام هوش مصنوعی و تلاطم در بازار بورس آمریکا",
+        "title_en": "Nvidia and other AI stocks get back to tumbling and drag the US market lower",
+        "summary": [
+            "حباب سهام شرکت‌های هوش مصنوعی در حال ترکیدن است و شاخص نزدک را به شدت پایین کشیده",
+            "سرمایه‌گذاران نگرانند که رشد غیرواقعی این سهام، کل بازار سرمایه و پس‌اندازهای بازنشستگی را تهدید کند"
+        ],
+        "impact": "تزلزل در اعتماد بازار به غول‌های تکنولوژی و احتمال رکود در بخش‌های وابسته به هوش مصنوعی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Press Democrat",
+        "url": "https://www.pressdemocrat.com/2026/11/24/tech-stocks-wall-street-huang/",
+        "clean_url": "https://www.pressdemocrat.com/2026/11/24/tech-stocks-wall-street-huang",
+        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/11/AP26321630822632-1-16x9-1.jpg?w=1999&h=1123",
+        "timestamp": 1795507860.0
     },
     {
         "id": "9083695204",
@@ -5400,115 +5510,5 @@
         "clean_url": "https://thegrio.com/2026/11/22/trump-defends-stephen-miller-hakeem-jeffries-racist-claims",
         "image": "http://www.bing.com/th?id=ONUT.bqFid8ICqej-lvSDBhbHXQ&pid=News",
         "timestamp": 1795336260.0
-    },
-    {
-        "id": "4195b599a6",
-        "title_fa": "گسترش بازار سیاه اسلحه در ایران تحت فشار اقتصادی و ناامنی",
-        "title_en": "Iran lawmaker urges building nuclear bomb 'once and for all'",
-        "summary": [
-            "رشد چشمگیر معامله سلاح در شبکه‌های اجتماعی نشان‌دهنده سقوط حس امنیت و افزایش گرایش مردم به خوددفایی است.",
-            "بحران معیشتی حتی روستاییان و عشایر را مجبور به فروش سلاح‌های قدیمی کرده و بازار زیرزمینی جدیدی ایجاد کرده است.",
-            "ضعف ج.ا.ا در کنترل بازار سیاه اسلحه، پتانسیل درگیری‌های مسلحانه در موج‌های بعدی اعتراضات را به شدت بالا برده است."
-        ],
-        "impact": "تسلیح غیررسمی جامعه، موازنه سرکوب و معادلات امنیتی در ناآرامی‌های آتی را دگرگون می‌سازد.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.75,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611229421",
-        "clean_url": "https://www.iranintl.com/en/202611229421",
-        "image": "http://www.bing.com/th?id=ONUT.EmomhBZkMOcont38_dKv6g&pid=News",
-        "timestamp": 1795335300.0
-    },
-    {
-        "id": "e878e47c11",
-        "title_fa": "مقایسه رهبران چین و روسیه با چهره‌های سینمایی در واشنگتن",
-        "title_en": "Sen. John Kennedy compares Xi and Putin to Hannibal Lecter",
-        "summary": [
-            "سناتور جان کندی در اظهاراتی تند، شی جین پینگ و ولادیمیر پوتین را با هانیبال لکتر مقایسه کرد.",
-            "این موضع‌گیری‌ها در حاشیه نشست‌های سه جانبه مرتبط با دولت ترامپ مطرح شده است."
-        ],
-        "impact": "افزایش تنش‌های لفظی و لحن تهاجمی سیاستمداران آمریکایی علیه پکن و مسکو",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/11/22/ohn-kennedy-compares-xi-putin-hannibal-lecter-01179661",
-        "clean_url": "https://www.politico.com/news/2026/11/22/ohn-kennedy-compares-xi-putin-hannibal-lecter-01179661",
-        "image": "http://www.bing.com/th?id=ONUT.vTlwqqry7J2ff3m4Bc6JSw&pid=News",
-        "timestamp": 1795335240.0
-    },
-    {
-        "id": "bceebcd2f6",
-        "title_fa": "عملکرد فراتر از انتظار اقتصاد ایندیانا با وجود تورم",
-        "title_en": "‘I like being wrong’: Economist offers 2027 predictions for Northwest Indiana",
-        "summary": [
-            "اقتصاد منطقه شمال غرب ایندیانا برخلاف پیش‌بینی‌ها رشد ۳.۵ درصدی را ثبت کرد.",
-            "نرخ تورم همچنان مانع از رسیدن اقتصاد محلی به حداکثر ظرفیت واقعی خود می‌شود."
-        ],
-        "impact": "رشد تولید ناخالص محلی به میزان ۵۵.۶ میلیارد دلار با وجود فشارهای تورمی",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/11/22/economist-offers-2027-predictions-northwest-indiana/",
-        "clean_url": "https://www.chicagotribune.com/2026/11/22/economist-offers-2027-predictions-northwest-indiana",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/11/PTB-L-ECONOMIC-OUTLOOK-1123-01.jpg?w=4032&h=3024",
-        "timestamp": 1795334940.0
-    },
-    {
-        "id": "a78d0d467a",
-        "title_fa": "خط و نشان ترامپ: طرح حمله ۴ ساعته و تخریب کامل در صورت نرسیدن به توافق",
-        "title_en": "'Complete demolition': Trump outlines 4-hour attack plan if Iran deal isn't reached by 8 p.m. ET Tuesday - ABC News",
-        "summary": [
-            "دونالد ترامپ با تعیین ضرب‌الاجل زمانی صریح، تهدید کرده در صورت عدم توافق تا ساعت ۸ شب، طرح حمله ۴ ساعته با هدف تخریب کامل را به اجرا می‌گذارد.",
-            "این تهدید مستقیم، تغییر فاز علنی کاخ سفید از فشار اقتصادی به ضرب‌الاجل مستقیم نظامی را صادر می‌کند.",
-            "هدف اصلی از رو ساختن این کارت نظامی، ایجاد شوک امنیتی و فرستادن طرف مقابل به پای میز مذاکره تحت تنش حداکثری است."
-        ],
-        "impact": "افزایش آنی ریسک درگیری مستقیم و احتمال جهش سنگین قیمت دلار و طلا در بازار تهران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGltUFRuUS1BMURfRS03WmV4dkprcE5rOER0YVozRERrYWVkYlJwZThQSVRHMVlFdlB0NUtfVC1ZQVk1Zm5JZllHb2hBUzhOMFJqMkl5LXBwRmxKMnRIY0s5c184VmVLRVVzYkIxMF9PSlBKLWpBWmhDTXJwaTEzelZfeEM4MUd6ODU1WXFMbnRIT1NaMWU2Wmc0LUhTSVgtbW42ctIBqgFBVV95cUxQOUZNOFlWUHFaRVlmRVBMS3FldGU0ci14NjEzS2hNT1dsbnp6YlJNX2ZyR1Iyck1hTlRYQW5UdVlJWlppMXpRNG9Fd296dXNod3dYdkFGOEpKT0lVTElQaWVveXZKLWFnSUt1Qmt1QjZIRUhfRERqNFpLZ1lnWjhVTi1VbjhRY0k3Und3ZHN5S0xXS3FKUjlkMmxiYU1BUFRrbjdXUHVMaVdyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGltUFRuUS1BMURfRS03WmV4dkprcE5rOER0YVozRERrYWVkYlJwZThQSVRHMVlFdlB0NUtfVC1ZQVk1Zm5JZllHb2hBUzhOMFJqMkl5LXBwRmxKMnRIY0s5c184VmVLRVVzYkIxMF9PSlBKLWpBWmhDTXJwaTEzelZfeEM4MUd6ODU1WXFMbnRIT1NaMWU2Wmc0LUhTSVgtbW42ctIBqgFBVV95cUxQOUZNOFlWUHFaRVlmRVBMS3FldGU0ci14NjEzS2hNT1dsbnp6YlJNX2ZyR1Iyck1hTlRYQW5UdVlJWlppMXpRNG9Fd296dXNod3dYdkFGOEpKT0lVTElQaWVveXZKLWFnSUt1Qmt1QjZIRUhfRERqNFpLZ1lnWjhVTi1VbjhRY0k3Und3ZHN5S0xXS3FKUjlkMmxiYU1BUFRrbjdXUHVMaVdyUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795334615.0
-    },
-    {
-        "id": "9eaafadb2f",
-        "title_fa": "دفاع اطلاعات ملی آمریکا از اظهارات جنجالی ترامپ درباره پوتین",
-        "title_en": "Director of National Intelligence defends Trump saying Putin is his ‘friend’",
-        "summary": [
-            "رئیس اطلاعات ملی از موضع دونالد ترامپ پس از انتشار عکس مشترک با ولادیمیر پوتین حمایت کرد.",
-            "ترامپ در این تصویر از پوتین با عنوان دوست یاد کرده بود که واکنش‌های زیادی به همراه داشت."
-        ],
-        "impact": "تلاش مقامات دولت ترامپ برای توجیه روابط نزدیک با مسکو در برابر هجمه منتقدان",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/11/22/clayton-defends-trump-calling-putin-friend-01179677",
-        "clean_url": "https://www.politico.com/news/2026/11/22/clayton-defends-trump-calling-putin-friend-01179677",
-        "image": "http://www.bing.com/th?id=ONUT.CuOrO3xjcd5LKMngytOGpg&pid=News",
-        "timestamp": 1795334340.0
-    },
-    {
-        "id": "9fa729d6cd",
-        "title_fa": "تمرکز دموکرات‌های کنگره روی کاهش هزینه‌های زندگی و حسابرسی",
-        "title_en": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-        "summary": [
-            "حکیم جفریز در مصاحبه‌ای بر تمرکز رهبری جدید دموکرات‌ها روی تورم و معیشت مردم تأکید کرد.",
-            "افزایش هزینه‌های زندگی و مسئله فساد از دغدغه‌های اصلی رای‌دهندگان آمریکایی اعلام شده است."
-        ],
-        "impact": "جهت‌گیری برنامه‌های قانون‌گذاری کنگره آینده آمریکا به سمت مسائل اقتصادی روزمره",
-        "tag": "اقتصادی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/",
-        "clean_url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026",
-        "image": "http://www.bing.com/th?id=ONUT.osQaEipQqTafB8hJzxsgGQ&pid=News",
-        "timestamp": 1795334340.0
     }
 ]
