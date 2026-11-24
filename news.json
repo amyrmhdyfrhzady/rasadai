@@ -258,6 +258,25 @@
         "timestamp": 1795480680.0
     },
     {
+        "id": "7ea5387159",
+        "title_fa": "سقوط آزاد ریال؛ عبور دلار از مرز ۲.۸ میلیون تومان",
+        "title_en": "Iran’s rial falls past 2.8 million to the dollar",
+        "summary": [
+            "فروپاشی ارزش پول ملی در پی تحریم‌های جدید آمریکا علیه شبکه‌های مالی برون‌مرزی ج.ا.ا شتاب گرفته است.",
+            "انسداد مسیرهای صادرات نفت و فشار حداکثری بر سیستم بانکی سایه، عملاً شریان‌های حیاتی رژیم را قطع کرده است.",
+            "اظهارات اسکات بسنت نشان می‌دهد واشینگتن با هدف قرار دادن آخرین خطوط تنفسی مالی، به دنبال فلج کردن کامل ماشین اقتصادی حاکمیت است."
+        ],
+        "impact": "افزایش جهشی قیمت کالاهای اساسی و تشدید بحران معیشتی در روزهای آینده.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611246967",
+        "clean_url": "https://www.iranintl.com/en/202611246967",
+        "image": "http://www.bing.com/th?id=ONUT.xiTK70O3EhMstUdztxHtuQ&pid=News",
+        "timestamp": 1795480620.0
+    },
+    {
         "id": "c6ec67795a",
         "title_fa": "عقب‌نشینی پرونده‌های اقلیمی زیر سایه بحران‌های نظامی جهان",
         "title_en": "Climate change must not slip any further down the global agenda",
@@ -5480,23 +5499,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-invites-likud-to-marathon-coalition-talks-in-bid-to-form-broad-government",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795283400.0
-    },
-    {
-        "id": "3de8695411",
-        "title_fa": "احتمال ارائه طرح جدید معافیت سربازی یهودیان حریدی",
-        "title_en": "UTJ expects new Haredi enlistment proposal from Eisenkot amid coalition talks — report",
-        "summary": [
-            "حزب یهودیت توراتی متحد منتظر دریافت پیشنهاد جدیدی از سوی گادی آیزنکوت درباره معافیت طلاب حریدی از خدمت نظامی است.",
-            "این تحولات در جریان رایزنی‌های ائتلافی و برای حل مناقشات قدیمی بر سر خدمت اجباری این جریان مذهبی مطرح شده است."
-        ],
-        "impact": "این توافق می‌تواند ثبات ائتلاف حاکم را تحت تاثیر قرار دهد.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/utj-expects-new-haredi-enlistment-proposal-from-eisenkot-amid-coalition-talks-report/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/utj-expects-new-haredi-enlistment-proposal-from-eisenkot-amid-coalition-talks-report",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795282620.0
     }
 ]
