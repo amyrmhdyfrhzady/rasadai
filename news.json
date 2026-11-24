@@ -181,6 +181,25 @@
         "timestamp": 1795511580.0
     },
     {
+        "id": "da3c4a3428",
+        "title_fa": "بحران جمعیت و بن‌بست اقتصادی در حاکمیت ج-ه-م-و-ر-ی ا-س-ل-ا-م-ی",
+        "title_en": "Iran’s leaders want a baby boom. A struggling economy stands in the way",
+        "summary": [
+            "مجتبی خامنه‌ای بحران کاهش زاد و ولد را یک اولویت راهبردی خوانده اما راهکاری برای فقر مطلق جوانان ارائه نداده است.",
+            "گرانی مسکن و تورم فلج‌کننده باعث شده تا سیاست‌های حکومتی برای افزایش جمعیت با شکست مواجه شود.",
+            "جامعه ایران درگیر بحران سالمندی است و نسل جوان توان مالی تشکیل خانواده را ندارد."
+        ],
+        "impact": "شکست طرح‌های جمعیتی حکومت به دلیل فروپاشی اقتصاد و بی‌توجهی به سفره مردم.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/24/middleeast/iran-population-supreme-leader-baby-boom-intl",
+        "clean_url": "https://www.cnn.com/2026/11/24/middleeast/iran-population-supreme-leader-baby-boom-intl",
+        "image": "http://www.bing.com/th?id=ONUT.bXlQockTqDkNqFkQeF-08Q&pid=News",
+        "timestamp": 1795502760.0
+    },
+    {
         "id": "780ed1c5b7",
         "title_fa": "درخواست رو کانا برای توقف بودجه نظامی جنگ ایران و قطع کمک به اسرائیل",
         "title_en": "Ro Khanna Calls for Ending U.S. Military Funding for Iran War, Cutting Aid to Israel",
@@ -5484,23 +5503,5 @@
         "clean_url": "https://note.com/minami_nihonkabu/n/nae0a1de09e75",
         "image": "http://www.bing.com/th?id=ONUT.4lky4mxotivfsdPsUfqp5Q&pid=News",
         "timestamp": 1795305120.0
-    },
-    {
-        "id": "8db13df597",
-        "title_fa": "موضع قاطع بیروت: خروج اسرائیل و پایان مداخلات حکومت ایران",
-        "title_en": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-        "summary": [
-            "رئیس‌جمهور لبنان هم‌زمان با مطالباتی صریح برای خروج نیروهای اسرائیلی، خط قرمزی پررنگ در برابر مداخلات سیاسی و منطقه‌ای حکومت ایران کشید.",
-            "این موضع‌گیری بی‌سابقه، تلاش بیروت برای بازپس‌گیری استقلال ملی و کاهش نفوذ تخریبی گروه‌های نیابتی در ساختار حاکمیتی لبنان را تایید می‌کند."
-        ],
-        "impact": "افزایش انزوای سیاسی حزب‌الله و چالش جدی برای ادامه نفوذ منطقه‌ای سپاه در لبنان.",
-        "tag": "خاورمیانه",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUktQTUxGTEtDQWIxNUhINTFnRFNKUVFXcVpCRzFfTkZyOGsxMTd6SGZIUFRDemJTTnZMZUgzcHRzbEdRelk3NDU0ZjJaS1BZSW9PTXdkcFZKcDh2c0hLWUdMUFRHdnlkcGpyNEx5YzFGaGpfNkFNMGhnREhzOHg5NkNjd1h0dVdJMlpzNDF6VDRmbndFOFFwYmFwclhrXzRmUDZEUlh4SnZnNXl6NmtiVVE5RdIBuAFBVV95cUxQVU10eVZfaUYzZ1pUdjc5WWU0YVZoZGdvUFlwY3pRallKQ1JXSFhUZlRVUjVURzM2ZXoyTjJPT2ZqR2RYX0FXSG1iMXk1SzI4Tkx1UFFxU3VLN1VLSkliaDd0UnotS2hoZVVPcUQtd2hYN3FXZzFtdnVtWkd2RUwyS1U2ZUVyMC1tYjJTaGtUTFphNWxqNlgzY2VDSW1EVlFrNFhuVnY3R1AwUXU2VFVRUmhsRTNxVk1C?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUktQTUxGTEtDQWIxNUhINTFnRFNKUVFXcVpCRzFfTkZyOGsxMTd6SGZIUFRDemJTTnZMZUgzcHRzbEdRelk3NDU0ZjJaS1BZSW9PTXdkcFZKcDh2c0hLWUdMUFRHdnlkcGpyNEx5YzFGaGpfNkFNMGhnREhzOHg5NkNjd1h0dVdJMlpzNDF6VDRmbndFOFFwYmFwclhrXzRmUDZEUlh4SnZnNXl6NmtiVVE5RdIBuAFBVV95cUxQVU10eVZfaUYzZ1pUdjc5WWU0YVZoZGdvUFlwY3pRallKQ1JXSFhUZlRVUjVURzM2ZXoyTjJPT2ZqR2RYX0FXSG1iMXk1SzI4Tkx1UFFxU3VLN1VLSkliaDd0UnotS2hoZVVPcUQtd2hYN3FXZzFtdnVtWkd2RUwyS1U2ZUVyMC1tYjJTaGtUTFphNWxqNlgzY2VDSW1EVlFrNFhuVnY3R1AwUXU2VFVRUmhsRTNxVk1C",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795304805.0
     }
 ]
