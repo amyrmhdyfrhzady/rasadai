@@ -18,6 +18,25 @@
         "timestamp": 1795494881.0
     },
     {
+        "id": "924f194d15",
+        "title_fa": "تلاش دولت عراق برای بازپس‌گیری جرف‌الصخر از شبه‌نظامیان وابسته",
+        "title_en": "Iran rules out transferring enriched uranium abroad, diplomat says",
+        "summary": [
+            "ورود ارتش عراق به جرف‌الصخر پس از ۱۲ سال سیطره کامل نیروهای نیابتی ج.ا، تلاشی برای احیای حاکمیت ملی است.",
+            "کارشناسان امنیتی معتقدند خروج تاکتیکی کتائب حزب‌الله به معنای پایان نفوذ تهران نیست و احتمال جابجایی نیروها به مناطق استراتژیک دیگر وجود دارد.",
+            "این اقدام نخست‌وزیر عراق ریسک سیاسی بالایی دارد و آزمونی برای سنجش قدرت دولت در برابر گروه‌های مسلح است."
+        ],
+        "impact": "تضعیف کنترل مستقیم نیروهای نیابتی بر مناطق استراتژیک جنوب بغداد و افزایش تنش‌های پنهان در ساختار امنیتی عراق.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611246322",
+        "clean_url": "https://www.iranintl.com/en/202611246322",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795492860.0
+    },
+    {
         "id": "4cc9355b47",
         "title_fa": "خیز ترامپ برای ضربه نظامی و محاصره دریایی ج.ا",
         "title_en": "Trump Leans Toward New Year Iran Strikes, Dares Tehran to Test U.S. Naval Blockade",
@@ -5477,23 +5496,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-directs-federal-contractors-to-coordinate-with-white-house-on-congressional-requests-for-information/ar-AA2hVsOC",
         "image": "http://www.bing.com/th?id=ONUT.QHTlD5f3EItGqD9Gc5wtgw&pid=News",
         "timestamp": 1795268175.0
-    },
-    {
-        "id": "0c7c0863a6",
-        "title_fa": "عبور از وضعیت نه جنگ و نه صلح در خلیج فارس",
-        "title_en": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
-        "summary": [
-            "افزایش تحركات نظامی در خلیج فارس و تنگه هرمز نقطه عطف جدیدی در تنش‌های میان ایالات متحده و جـمـهـور ی اسـلامـی ایجاد کرده است.",
-            "آمادگی برای شکستن تحریم‌های نفتی و اقدامات نظامی همزمان، معادلات امنیتی منطقه را به شدت پیچیده کرده است."
-        ],
-        "impact": "بالارفتن ریسک امنیتی در آب‌های جنوبی و احتمال بروز درگیری‌های نظامی مستقیم.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade/ar-AA2hWmzO",
-        "clean_url": "https://www.msn.com/en-xl/news/other/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade/ar-AA2hWmzO",
-        "image": "http://www.bing.com/th?id=ONUT.WLFNDmvw1yX_DUeH3dogcw&pid=News",
-        "timestamp": 1795267971.0
     }
 ]
