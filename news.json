@@ -369,6 +369,25 @@
         "timestamp": 1795453560.0
     },
     {
+        "id": "185873580f",
+        "title_fa": "عملیات سایبری ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی با خبرنگاران هوش مصنوعی",
+        "title_en": "Iran-based operation used AI to create fake journalists, sway public opinion on US-Iran war",
+        "summary": [
+            "استفاده از هوش مصنوعی برای ساخت هویت‌های جعلی و انتشار اخبار دروغین درباره جنگ احتمالی آمریکا و ایران",
+            "تلاش برای جهت‌دهی به افکار عمومی استرالیا و ایجاد فشار رسانه‌ای علیه مشارکت این کشور در ائتلاف‌های ضد ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی",
+            "تغییر تاکتیک‌های جنگ روانی از اکانت‌های انسانی به تولید محتوای خودکار و پیچیده برای فرار از شناسایی"
+        ],
+        "impact": "افزایش حساسیت نهادهای امنیتی غرب نسبت به نفوذ دیجیتال و پروپاگاندای ماشینی تهران.",
+        "tag": "سایبری",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "ABC (Australian Broadcasting Corporation) on MSN",
+        "url": "https://www.msn.com/en-au/news/australia/iran-based-operation-used-ai-to-create-fake-journalists-sway-public-opinion-on-us-iran-war/ar-AA2i4Z60",
+        "clean_url": "https://www.msn.com/en-au/news/australia/iran-based-operation-used-ai-to-create-fake-journalists-sway-public-opinion-on-us-iran-war/ar-AA2i4Z60",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795452983.0
+    },
+    {
         "id": "8ebef1aaee",
         "title_fa": "ریشه‌های ۴۷ ساله شبکه ترور جـ.هـ.ـوری اسلامی",
         "title_en": "Iran's 47-year global terror network origins",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://africa.dailynewsegypt.com/hormuz-tanker-khasab",
         "image": "https://africa.dailynewsegypt.com/wp-content/uploads/2026/11/hormuz-tanker-strait-nasa.jpg",
         "timestamp": 1795248240.0
-    },
-    {
-        "id": "903dcae6ec",
-        "title_fa": "روایت شاهد عینی از سرکوب خونین اعتراضات رشت",
-        "title_en": "‘The city smelled of blood’: Witness recalls Iran protest crackdown",
-        "summary": [
-            "شلیک مستقیم و هدفمند نیروهای امنیتی به معترضان غیرمسلح در خیابان‌ها و کوچه‌های رشت.",
-            "استفاده از ترفند شلیک از خودروهای در حال حرکت برای ایجاد رعب و وحشت در میان مردم.",
-            "بازتاب گسترده فراخوان شاهزاده ر‌ضا پـهلوی و موج جدید همبستگی خیابانی در شمال کشور."
-        ],
-        "impact": "افشای ابعاد سرکوب خیابانی موجب واکنش شدید جوامع حقوق بشری و ریزش بیشتر مشروعیت حکومت می‌شود.",
-        "tag": "اعتراضات",
-        "urgency": 7,
-        "sentiment": -0.85,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611214728",
-        "clean_url": "https://www.iranintl.com/en/202611214728",
-        "image": "http://www.bing.com/th?id=ONUT.Qe7tZkhxG_zCL7BFAahc3A&pid=News",
-        "timestamp": 1795246680.0
     }
 ]
