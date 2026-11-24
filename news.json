@@ -444,6 +444,25 @@
         "timestamp": 1795461419.0
     },
     {
+        "id": "43eea5f75c",
+        "title_fa": "تلاش بغداد برای بازپس‌گیری جرف‌الصخر از چنگ کتائب ح-ز-ب-ا-ل-ل-ه",
+        "title_en": "Qatar urges US and Iran to de-escalate, says efforts to revive talks continue",
+        "summary": [
+            "ورود ارتش عراق به منطقه جرف‌الصخر پس از ۱۲ سال سیطره شبه‌نظامیان، تلاشی برای احیای اقتدار دولت مرکزی است.",
+            "کارشناسان معتقدند خروج تاکتیکی نیروهای وابسته به ت-ه-ر-ا-ن از یک منطقه، لزوماً به معنای پایان نفوذ آن‌ها نیست و احتمال جابجایی نیروها به مناطق استراتژیک دیگر وجود دارد.",
+            "قطر در حال میانجی‌گری برای کاهش تنش میان واشنگتن و ت-ه-ر-ا-ن است تا مسیر مذاکرات احتمالی باز بماند."
+        ],
+        "impact": "تضعیف ظاهری بازوهای نیابتی در عراق، بدون تغییر در استراتژی نفوذ منطقه‌ای ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611244147",
+        "clean_url": "https://www.iranintl.com/en/202611244147",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1795461240.0
+    },
+    {
         "id": "284e3e7b0b",
         "title_fa": "بازگشت هوانگ به انویدیا و جهش وال‌استریت",
         "title_en": "Wall Street sube tras el regreso de Huang a Nvidia",
@@ -5480,23 +5499,5 @@
         "clean_url": "https://www.iranintl.com/en/202611215462",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/586db403a372efcb07d8169e9334eb10960438e3-862x531.png?rect=0,40,862,453&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1795260000.0
-    },
-    {
-        "id": "229a08c1ca",
-        "title_fa": "جهش کم‌سابقه حملات در تنگه هرمز",
-        "title_en": "Strait of Hormuz attacks have increased to highest level since Iran war began - ABC News",
-        "summary": [
-            "آمارها نشان می‌دهد امنیت تردد نفتکش‌ها در این آبراه حیاتی به پایین‌ترین حد خود رسیده است.",
-            "اقدامات نظامی و ایذایی در این منطقه کلیدی به بالاترین سطح از زمان آغاز تنش‌ها صعود کرده است."
-        ],
-        "impact": "فلج شدن نسبی ترانزیت انرژی و جهش آنی قیمت نفت در بازارهای جهانی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHRGNHdBbkpIa3IyWTlmV2l5aDVwZ0pLUE1WRzhIVjRqM3p4c3ZsSWNtaVo4YnU4WHBwbUREbzJoX1VzeENVb0xFclVKaW9HY2lVb2lxRnFzWUhNb3RvTDlPYjRfUTVWOUU1dHJ4b2lfZGNPV3h0SGZfdEJLX3NacWxLam1QV1pnb08xRVFDei1OaFZIQXduTmJjbkNqYXFuaGk4a3p4OE5YR0HSAbABQVVfeXFMT3JyZk0yRTFISFBvWF9WMnZrUnp2NHBtMG9pRHo2OUlfaHd0QkZOWmEwWjJLMHJMdlMxal9WQ0lfU1pyd0RLejdCaEtWS2tGUGoyN0ZDVFJOWUZoR3RBQjBsUS1RV2xWcGlVSWNsd3c5aTR5a0dMWkUtMWtVeV95ajVhMkJBc0FrdVo3OWlmVUlPY2tLRU5VWmwtQzRKTXktQnBYVHpSN2k1U2xwUDJVdHU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHRGNHdBbkpIa3IyWTlmV2l5aDVwZ0pLUE1WRzhIVjRqM3p4c3ZsSWNtaVo4YnU4WHBwbUREbzJoX1VzeENVb0xFclVKaW9HY2lVb2lxRnFzWUhNb3RvTDlPYjRfUTVWOUU1dHJ4b2lfZGNPV3h0SGZfdEJLX3NacWxLam1QV1pnb08xRVFDei1OaFZIQXduTmJjbkNqYXFuaGk4a3p4OE5YR0HSAbABQVVfeXFMT3JyZk0yRTFISFBvWF9WMnZrUnp2NHBtMG9pRHo2OUlfaHd0QkZOWmEwWjJLMHJMdlMxal9WQ0lfU1pyd0RLejdCaEtWS2tGUGoyN0ZDVFJOWUZoR3RBQjBsUS1RV2xWcGlVSWNsd3c5aTR5a0dMWkUtMWtVeV95ajVhMkJBc0FrdVo3OWlmVUlPY2tLRU5VWmwtQzRKTXktQnBYVHpSN2k1U2xwUDJVdHU",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795259924.0
     }
 ]
