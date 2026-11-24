@@ -1,5 +1,25 @@
 [
     {
+        "id": "90073a476c",
+        "title_fa": "فشار حداکثری واشنگتن روی شبکه مالی جـــــــــمهوری اســـــــــلامی",
+        "title_en": "Iran's economy is 'underwater' and the Trump administration vows to keep going 'until we have buried the head of the snake'",
+        "summary": [
+            "خزانه‌داری آمریکا ۲۲ نهاد و ۸ فرد وابسته به شبکه بانکداری پنهان ایران را تحریم کرد.",
+            "این شبکه از ژانویه ۲۰۲۵ نزدیک به ۱۵ میلیارد دلار پول جابجا کرده بود.",
+            "ارزش ریال در بازار آزاد به کف تاریخی جدیدی سقوط کرد.",
+            "دولت ترامپ مصمم است تا قطع کامل منابع مالی این حکومت به فشارها ادامه دهد."
+        ],
+        "impact": "فلج شدن بیشتر شریان‌های مالی حکومت و سقوط آزاد ارزش پول ملی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "National Security Journal",
+        "url": "https://www.msn.com/en-us/money/economy/iran-s-economy-is-underwater-and-the-trump-administration-vows-to-keep-going-until-we-have-buried-the-head-of-the-snake/ar-AA2i9EFt",
+        "clean_url": "https://www.msn.com/en-us/money/economy/iran-s-economy-is-underwater-and-the-trump-administration-vows-to-keep-going-until-we-have-buried-the-head-of-the-snake/ar-AA2i9EFt",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Q4qc7.img?w=1280&h=720&m=4&q=87",
+        "timestamp": 1795550653.0
+    },
+    {
         "id": "a53e43af77",
         "title_fa": "سقوط تاریخی ارزش ریال همزمان با ادعای کاهش تهدید نظامی",
         "title_en": "Eisenkot: Iran threat not imminent; Iran's currency hits historic low TV7 Israel News - 24 Nov.",
@@ -5487,25 +5507,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IOUZGb0xSWlk0REdpWWF3ZmRmUW54cjlMbXZTYlJqcDBNd3N2V0NCNEIxS19pYzBPTVhDMTg3Y0wzWnB1d3RwcU1IU2JKb1FZZ3M0VWVVNW1kaHk2N1ZHa19DS2ZJNGVXci15bllHV2d0N19UZDlxLXlXQmk",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795326700.0
-    },
-    {
-        "id": "f99a1d07ef",
-        "title_fa": "بازی دوگانه ج.ا: حمله پهپادی همزمان با ادعای مذاکره",
-        "title_en": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-        "summary": [
-            "حوثی‌های تحت حمایت ج.ا با موشک و پهپاد زیرساخت‌های انرژی عربستان را هدف گرفتند.",
-            "بحرین از حمله مستقیم ج.ا به تاسیسات صنعتی خود خبر داد که منجر به تلفات انسانی شد.",
-            "وزیر خارجه ج.ا در حالی دم از توافق با آمریکا می‌زند که بازوهای نیابتی‌اش منطقه را به آتش کشیده‌اند.",
-            "این حملات نشان می‌دهد ج.ا برای امتیازگیری در مذاکرات احتمالی، از استراتژی فشار نظامی استفاده می‌کند."
-        ],
-        "impact": "افزایش تنش‌های امنیتی در خلیج فارس و پیچیده‌تر شدن مسیر هرگونه توافق دیپلماتیک با غرب.",
-        "tag": "نیابتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-        "clean_url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-        "image": "http://www.bing.com/th?id=ONUT.FxoF9u8753tw0r4aDzwBbA&pid=News",
-        "timestamp": 1795325100.0
     }
 ]
