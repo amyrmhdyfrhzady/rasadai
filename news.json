@@ -425,6 +425,24 @@
         "timestamp": 1795461419.0
     },
     {
+        "id": "284e3e7b0b",
+        "title_fa": "بازگشت هوانگ به انویدیا و جهش وال‌استریت",
+        "title_en": "Wall Street sube tras el regreso de Huang a Nvidia",
+        "summary": [
+            "بازگشت غیرمنتظره جنسن هوانگ به مدیریت انویدیا، بازار سهام آمریکا را پس از یک هفته سقوط سنگین، دوباره سبز کرد.",
+            "وابستگی شدید بازار به صنعت هوش مصنوعی و دخالت‌های مستقیم ترامپ در این حوزه، ریسک‌های جدیدی ایجاد کرده است."
+        ],
+        "impact": "بازگشت اعتماد موقت به بازار سرمایه آمریکا با تکیه بر غول‌های تکنولوژی.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/11/23/wall-street-sube-tras-el-regreso-de-huang-a-nvidia/",
+        "clean_url": "https://www.chicagotribune.com/2026/11/23/wall-street-sube-tras-el-regreso-de-huang-a-nvidia",
+        "image": "http://www.bing.com/th?id=ONUT.QoXdz1_TPbZd13PFj8cxyA&pid=News",
+        "timestamp": 1795460580.0
+    },
+    {
         "id": "c2091e0e52",
         "title_fa": "شکاف در تل‌آویو؛ اختلاف نظر درباره حمله به تهران",
         "title_en": "Eisenkot clashes with Netanyahu over Iran strikes, sees no 'immediate threat'",
@@ -441,6 +459,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHVhNVp2eVhpSk0xcmk3QTEtbW0wX0g2T0xTemFpcF9ESzFRQkRZZEd2Mzhvc0thaDI5enozQVkzTVZHUXBvZlktTmRqZDl5aTBCeGRJQ19GaDJ0T0tJN1VPT3Z5Ul80LThwSjdpVXBkSFkzSmlKSFRTZGZBX3F3emhBcEF3N2xHQnFOTlpUMUsxTkVWYjhvS3BiN0V3SXdvQm9ybFFUUEdzXzV1aUs3dHB3VUs",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795459570.0
+    },
+    {
+        "id": "2ec8aa333d",
+        "title_fa": "توقف عملیات انفجار مواد منفجره در آیووا با دستور ترامپ",
+        "title_en": "Trump blocks Army’s plan to blow up toxic explosives in Iowa until court rules",
+        "summary": [
+            "ترامپ دستور داد ارتش تا زمان صدور حکم دادگاه، از انفجار پنج تن مواد منفجره سمی در آیووا خودداری کند.",
+            "این اقدام نشان‌دهنده دخالت مستقیم رئیس‌جمهور در تصمیمات اجرایی ارتش برای جلوگیری از چالش‌های حقوقی است."
+        ],
+        "impact": "تعلیق موقت فعالیت‌های لجستیکی ارتش در مناطق داخلی آمریکا.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-blocks-army-s-plan-to-blow-up-toxic-explosives-in-iowa-until-court-rules/ar-AA2i4WHG",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-blocks-army-s-plan-to-blow-up-toxic-explosives-in-iowa-until-court-rules/ar-AA2i4WHG",
+        "image": "http://www.bing.com/th?id=ONUT.bF4xAzDqm-P7Vy8Spf99kA&pid=News",
+        "timestamp": 1795459148.0
     },
     {
         "id": "8a74c72821",
@@ -665,6 +701,24 @@
         "timestamp": 1795445140.0
     },
     {
+        "id": "7dfb0bc730",
+        "title_fa": "خشم وارن از دخالت ترامپ در مدیریت انویدیا",
+        "title_en": "‘Deeply reckless’: Elizabeth Warren wants congressional action on Nvidia",
+        "summary": [
+            "الیزابت وارن دخالت ترامپ در بازگرداندن مدیرعامل انویدیا را بی‌پروا خواند و خواستار تحقیقات مستقل شد.",
+            "این ماجرا با پرونده جاسوسی احتمالی مرتبط است و وارن به دنبال محدود کردن فروش تکنولوژی هوش مصنوعی به چین است."
+        ],
+        "impact": "تشدید تقابل کنگره با دولت ترامپ بر سر کنترل شرکت‌های بزرگ تکنولوژی.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/23/nation/nvidia-elizabeth-warren-senate-jensen-huang/",
+        "clean_url": "https://www.bostonglobe.com/2026/11/23/nation/nvidia-elizabeth-warren-senate-jensen-huang",
+        "image": "http://www.bing.com/th?id=ONUT.pZAyXZabgXxYBYin4mUJxQ&pid=News",
+        "timestamp": 1795444860.0
+    },
+    {
         "id": "6c51d7c640",
         "title_fa": "عقب‌نشینی پارلمان اسرائیل از طرح جنجالی اصلاح رسانه‌ها",
         "title_en": "Knesset panel to vote tomorrow on bill to repeal Netanyahu ally's media overhaul",
@@ -701,6 +755,24 @@
         "clean_url": "https://www.hngn.com/articles/273933/20261123/trump-threatens-sink-iranian-ships-tehran-vows-response.htm",
         "image": "https://d.hngn.com/en/full/308106/file-iranian-foreign-ministry-spokesman-baghaei-tehran-briefing.jpg",
         "timestamp": 1795443600.0
+    },
+    {
+        "id": "4c75ee95c3",
+        "title_fa": "هشدار نسبت به محدودیت آزادی بیان در لایحه جدید نیوجرسی",
+        "title_en": "Former Navy SEAL says New Jersey’s Islamophobia bill puts protected speech in the crosshairs",
+        "summary": [
+            "یک وکیل و عضو سابق یگان ویژه هشدار داد لایحه مقابله با اسلام‌هراسی در نیوجرسی، آزادی نقد مذهبی را هدف قرار می‌دهد.",
+            "منتقدان معتقدند تعریف مبهم از این لایحه می‌تواند به ابزاری برای سرکوب بحث‌های عمومی تبدیل شود."
+        ],
+        "impact": "ایجاد چالش حقوقی بر سر مرزهای آزادی بیان و نقد ایدئولوژی‌ها.",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/former-navy-seal-says-new-jerseys-islamophobia-bill-puts-protected-speech-crosshairs",
+        "clean_url": "https://www.foxnews.com/politics/former-navy-seal-says-new-jerseys-islamophobia-bill-puts-protected-speech-crosshairs",
+        "image": "http://www.bing.com/th?id=ONUT.EkU4Xnpupaw1ccFfNKkeWA&pid=News",
+        "timestamp": 1795443240.0
     },
     {
         "id": "3a30d84c91",
@@ -760,6 +832,24 @@
         "timestamp": 1795439040.0
     },
     {
+        "id": "2f01f21c8b",
+        "title_fa": "نیاز ترامپ به استراتژی پیروزی در ایران",
+        "title_en": "Trump needs a victory strategy in Iran, not an exit strategy",
+        "summary": [
+            "پس از شکست در انتخابات میان‌دوره‌ای، برخی فشارها برای پایان دادن به جنگ با ایران افزایش یافته است.",
+            "تحلیل‌گران معتقدند ترامپ به جای خروج، نیازمند یک استراتژی مشخص برای پیروزی نهایی است."
+        ],
+        "impact": "تداوم فشارها بر دولت ترامپ برای تعیین تکلیف وضعیت جنگی با ایران.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-needs-a-victory-strategy-in-iran-not-an-exit-strategy/ar-AA2i4AIL",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-needs-a-victory-strategy-in-iran-not-an-exit-strategy/ar-AA2i4AIL",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795438800.0
+    },
+    {
         "id": "5c4cbe6972",
         "title_fa": "اولتیماتوم ۴ روزه آمریکا به ت-ه-ر-ا-ن؛ معامله هرمز در برابر نفت",
         "title_en": "US gives Iran four days to accept new deal on Hormuz, nuclear programme",
@@ -796,6 +886,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-dangles-fast-hormuz-fix-as-trump-says-attacks-have-spiked/ar-AA2i4Akb",
         "image": "http://www.bing.com/th?id=ONUT.khI5yo428LHhi-Q2dcHj3g&pid=News",
         "timestamp": 1795436925.0
+    },
+    {
+        "id": "c7e7a9dd7b",
+        "title_fa": "جان کندی و احتمال نامزدی در انتخابات ۲۰۲۸",
+        "title_en": "John Kennedy Says He ‘Could Run’ For President In 2028 If This 1 Thing Happens",
+        "summary": [
+            "سناتور جان کندی اعلام کرد اگر از وضعیت موجود به شدت خسته شود، ممکن است در انتخابات ۲۰۲۸ نامزد شود.",
+            "با خروج احتمالی ترامپ از رقابت‌ها، چهره‌های جمهوری‌خواه در حال سنجش فضای سیاسی برای آینده هستند."
+        ],
+        "impact": "آغاز گمانه‌زنی‌ها برای جانشینی ترامپ در حزب جمهوری‌خواه.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/john-kennedy-talks-potential-2028-presidential-run_n_6b045678e4b0cf294a123354",
+        "clean_url": "https://www.huffpost.com/entry/john-kennedy-talks-potential-2028-presidential-run_n_6b045678e4b0cf294a123354",
+        "image": "http://www.bing.com/th?id=ONUT.B09Uqm3kOsoaCbYG_cUdPg&pid=News",
+        "timestamp": 1795436820.0
     },
     {
         "id": "089fb31301",
@@ -960,6 +1068,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmZFWmc5YXF6STNWM3VCUWlPOF8xbC1BOWZPTTM1Q20wY3BvRmdQdE5kNW1Idy03OUpDV1JCNGRLS2Ywblc0MGI1QWZWaGx5RW5LTzdkUFBtRjdvVUUzdjRyeVZvUnh3d0RzdTVnU0VBdDF2RlhmWmdFNDVoWjFFRS1NWWE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795433581.0
+    },
+    {
+        "id": "94695e0da4",
+        "title_fa": "انتقاد تند از عملکرد هگست در وزارت دفاع",
+        "title_en": "Former Hegseth chief of staff says ‘it’s time for Pete to call it quits’",
+        "summary": [
+            "رئیس دفتر سابق هگست، او را به دلیل اخراج بی‌رویه فرماندهان ارشد و سوءمدیریت در جنگ با ایران به باد انتقاد گرفت.",
+            "این فشارها نشان‌دهنده شکاف در تیم امنیتی ترامپ و نارضایتی از رویکردهای تهاجمی در وزارت دفاع است."
+        ],
+        "impact": "افزایش فشار سیاسی بر هگست برای کناره‌گیری از سمت خود.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/11/23/former-hegseth-chief-of-staff-says-its-time-for-pete-to-call-it-quits/",
+        "clean_url": "https://www.baltimoresun.com/2026/11/23/former-hegseth-chief-of-staff-says-its-time-for-pete-to-call-it-quits",
+        "image": "http://www.bing.com/th?id=ONUT.X675xhkj5mjMFvy6Wr674g&pid=News",
+        "timestamp": 1795433520.0
     },
     {
         "id": "9854fcea47",
@@ -5372,131 +5498,5 @@
         "clean_url": "https://wanaen.com/araghchi-irans-enriched-uranium-will-remain-in-the-country",
         "image": "https://wanaen.com/wp-content/uploads/2026/10/MJ_W5350.jpg?v=1792422652",
         "timestamp": 1795258860.0
-    },
-    {
-        "id": "125a9ccd7b",
-        "title_fa": "شکست میان‌دفره‌ای جمهوری‌خواهان و انتقاد از سبک ترامپ",
-        "title_en": "Voters want to 'move on' from the president, former Trump official claims as reason for GOP's midterm defeat",
-        "summary": [
-            "سام براون‌بک شکست حزب در انتخابات را ناشی از سبک شخصی ترامپ دانست.",
-            "پیروزی دموکرات‌ها در پایگاه‌های سنتی جمهوری‌خواهان معادلات را به هم ریخت."
-        ],
-        "impact": "بالارفتن تنش‌های درون‌حزبی میان جمهوری‌خواهان پس از انتخابات",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/voters-want-move-president-former-trump-official-claims-reason-gop-midterm-defeat",
-        "clean_url": "https://www.foxnews.com/politics/voters-want-move-president-former-trump-official-claims-reason-gop-midterm-defeat",
-        "image": "http://www.bing.com/th?id=ONUT.cBW9IFD2Qi2DPPesn7Rs5w&pid=News",
-        "timestamp": 1795258800.0
-    },
-    {
-        "id": "92335ec03b",
-        "title_fa": "پشتیبانی پکن و مسکو از مواضع اتمی جـ.ـهـ.ـو،ر،ی ا،س،ل،ا،م،ی",
-        "title_en": "Iran’s FM says China, Russia oppose changing Tehran’s professed rejection of nuclear arms",
-        "summary": [
-            "وزیر خارجه دولت سـ,ـی,ـا,,س,ـی تهران مدعی شد چین و روسیه مخالف تغییر رویکرد ادعایی این کشور درباره سلاح اتمی هستند.",
-            "پکن و مسکو در مجامع بین‌المللی همچنان به عنوان حامیان دیپلماتیک پرونده هسته‌ای تهران عمل می‌کنند."
-        ],
-        "impact": "حفظ اتحاد راهبردی ایران با قدرت‌های شرق در برابر فشارهای غرب.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaU82bWRSMGxXd3NBMG41R2xmMEV0cVVJWjFCOFNFbTRyY2pZUXNLVV9fa0NkX0VfTl9QS2I2RVdxSmN6RUk2N1BodFI4NnlIbHlnb2xDeFpXWG1xZnhDS19vdENGZG9YVjgzQWUySU1kU3NBS1ctZ0xxcXRtZjNDa1VseFZmbUZ6alNiV0xZYWwtRFh4WDVSRmhzaWJXZjlNWWxjemhWY3F1cXdJd0I4ckRqUnhRankxazQ4d1FBZmJJSnZBX29rSzZ2cmo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaU82bWRSMGxXd3NBMG41R2xmMEV0cVVJWjFCOFNFbTRyY2pZUXNLVV9fa0NkX0VfTl9QS2I2RVdxSmN6RUk2N1BodFI4NnlIbHlnb2xDeFpXWG1xZnhDS19vdENGZG9YVjgzQWUySU1kU3NBS1ctZ0xxcXRtZjNDa1VseFZmbUZ6alNiV0xZYWwtRFh4WDVSRmhzaWJXZjlNWWxjemhWY3F1cXdJd0I4ckRqUnhRankxazQ4d1FBZmJJSnZBX29rSzZ2cmo",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795258389.0
-    },
-    {
-        "id": "899ee56e13",
-        "title_fa": "احتمال شکست فاجعه‌بار برنامه تـ.ـحریم‌گریزی حـ.ـکومت",
-        "title_en": "Iran’s plan to defy Trump could backfire catastrophically",
-        "summary": [
-            "دونالد ترامپ با رویکرد فشار حداکثری بازگشته و راهکار‌های تهران برای دور زدن مـ.ـوانع اقتصادی به بن‌بست خورده است.",
-            "مقامات ارشد جـ.ـمهوری اسـ.ـلامی دست کم‌گرفتن سیاست‌های کاخ سفید را ادامه می‌دهند که خطری جدی برای بقای اقتصادی آن‌هاست."
-        ],
-        "impact": "بازگشت ترامپ و تشدید فشارها می‌تواند شریان‌های حیاتی مالی را بیش از پیش مسدود کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "worldisraelnews",
-        "url": "https://worldisraelnews.com/irans-plan-to-defy-trump-could-backfire-catastrophically/",
-        "clean_url": "https://worldisraelnews.com/irans-plan-to-defy-trump-could-backfire-catastrophically",
-        "image": "http://www.bing.com/th?id=ONUT.kPbWG7t3-kJWWyCY3DkbHg&pid=News",
-        "timestamp": 1795257720.0
-    },
-    {
-        "id": "f115848fc3",
-        "title_fa": "سیگنال اتمی تهران؛ تغییر دکترین هسته‌ای منطقی است",
-        "title_en": "Iranian Foreign Minister Says Case For Changing Country's Nuclear Doctrine Has 'Strong Logic'",
-        "summary": [
-            "وزیر خارجه ج.مهوری ا.سلامی تغییر دکترین هسته‌ای را دارای منطق قوی توصیف کرد.",
-            "این اظهارات چراغ سبزی آشکار برای افزایش فشار هسته‌ای و عبور از خط قرمزهای پیشین است."
-        ],
-        "impact": "افزایش ریسک امنیتی و تنش با غرب بر سر پرونده اتمی",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jd3EtdUxMUXByT091RzltbFMwNlNJdDZsN1NLeGRmZnA2MHJMblAzRWdEMDZHNXB4bFNzSFRmYlRSWXhNZGw0VkYtNHJaUXpidldUUzk3aDlpeWtyLWFPVWN4R1NkT1pOSE9CdWNFOWtIWGVvTHN6WUFSd9IBfkFVX3lxTFBYMlc3MHRVUm9yMWVYZ0tpTm9najB2TWpFRFZ2Nmo4aG1oUnRQUDVzU0xaMTdsN0tmcGhfRW03eWVqVU1uWVJIaUcyMWFsSTE1M1VPbDFWcWhMeDh6ZzlwZHB2YmN0cmRiUXcyeUhFZ1NZWlYtNW5KLXRGUlpfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jd3EtdUxMUXByT091RzltbFMwNlNJdDZsN1NLeGRmZnA2MHJMblAzRWdEMDZHNXB4bFNzSFRmYlRSWXhNZGw0VkYtNHJaUXpidldUUzk3aDlpeWtyLWFPVWN4R1NkT1pOSE9CdWNFOWtIWGVvTHN6WUFSd9IBfkFVX3lxTFBYMlc3MHRVUm9yMWVYZ0tpTm9najB2TWpFRFZ2Nmo4aG1oUnRQUDVzU0xaMTdsN0tmcGhfRW03eWVqVU1uWVJIaUcyMWFsSTE1M1VPbDFWcWhMeDh6ZzlwZHB2YmN0cmRiUXcyeUhFZ1NZWlYtNW5KLXRGUlpfUQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795256252.0
-    },
-    {
-        "id": "8ceeb6c6ff",
-        "title_fa": "هشدار والز درباره تلفات مرگبار روسیه در جنگ اوکراین",
-        "title_en": "Mike Waltz warns Kremlin faces 'unsustainable' losses approaching WWII scale as Trump seeks deal",
-        "summary": [
-            "مایک والز تلفات ماهانه روسیه را فراتر از توان بازسازی ارتش خواند.",
-            "تلفات انسانی جنگ به سطحی رسیده که ادامه آن از نظر نظامی ناممکن است."
-        ],
-        "impact": "افزایش فشار دیپلماتیک بر مسکو برای تن دادن به مذاکره",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/media/mike-waltz-warns-kremlin-faces-unsustainable-losses-approaching-wwii-scale-trump-seeks-deal",
-        "clean_url": "https://www.foxnews.com/media/mike-waltz-warns-kremlin-faces-unsustainable-losses-approaching-wwii-scale-trump-seeks-deal",
-        "image": "http://www.bing.com/th?id=ONUT.DBbRRVjCST-7ml659IhktA&pid=News",
-        "timestamp": 1795255020.0
-    },
-    {
-        "id": "35830aa587",
-        "title_fa": "خط و نشان فرمانده ارشد سپاه برای آمریکا",
-        "title_en": "Breaking News LIVE: PM Modi Inaugurates 'Nitish Setu' In Bihar; Meets Nitish Kumar At Patna Airport",
-        "summary": [
-            "احمد وحیدی در بازدید از شهر موشکی سپاه، اقدام نظامی اخیر علیه آمریکا را تنها آغاز کار دانست.",
-            "تهدیدهای فرماندهان نظامی با هدف مصرف داخلی و تلاش برای بازسازی روحیه نیروهای نیابتی انجام می‌شود."
-        ],
-        "impact": "افزایش تنش‌های نظامی در منطقه و بالا رفتن احتمال درگیری‌های نیابتی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Outlook India",
-        "url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026",
-        "clean_url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026",
-        "image": "https://cf-images.assettype.com/outlookindia/2026-11-21/5ex0ld1m/Pollution_in_Delhi.jpg?w=801&auto=format,compress&fit=max",
-        "timestamp": 1795253580.0
-    },
-    {
-        "id": "27887d5724",
-        "title_fa": "سرنگونی پهپاد آمریکایی در تنگه هرمز توسط سپاه",
-        "title_en": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
-        "summary": [
-            "سپاه پاسداران یک فروند پهپاد ارتش آمریکا را در آسمان تنگه هرمز هدف قرار داد.",
-            "این اقدام نظامی در شرایطی رخ داد که تلاش‌های دیپلماتیک برای پایان دادن به درگیری‌ها کاملاً متوقف شده است."
-        ],
-        "impact": "افزایش شدید تنش‌های نظامی در آب‌های خلیج فارس و بالا رفتن احتمال درگیری مستقیم.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795253518.0
     }
 ]
