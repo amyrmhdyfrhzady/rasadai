@@ -1,5 +1,24 @@
 [
     {
+        "id": "64cce7c59a",
+        "title_fa": "انفجار نفت‌کش‌ها در تنگه هرمز و حمله به پالایشگاه سعودی",
+        "title_en": "Houthis Claim Strike on Saudi Refinery as Iran Reports More Tanker Blasts",
+        "summary": [
+            "نیروهای حوثی مدعی حمله پهپادی یا موشکی به بزرگ‌ترین پالایشگاه نفت عربستان در راس تنوره شده‌اند.",
+            "نیروی دریایی سپاه پاسداران تایید کرد که دو نفت‌کش به دلیل ورود به مسیرهای غیرمجاز با مین‌های دریایی برخورد کرده و دچار آتش‌سوزی شده‌اند.",
+            "گسترش درگیری‌ها به شریان‌های حیاتی انرژی در خلیج فارس، زنگ خطر را برای بازار جهانی نفت به صدا درآورده است."
+        ],
+        "impact": "افزایش شدید ریسک امنیت انرژی در خلیج فارس و جهش احتمالی قیمت نفت در بازارهای جهانی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "International Business Times",
+        "url": "https://mx.ibtimes.com/houthis-claim-saudi-refinery-strike-4734",
+        "clean_url": "https://mx.ibtimes.com/houthis-claim-saudi-refinery-strike-4734",
+        "image": "https://d.mx.ibtimes.com/en/full/1006742/file-us-navy-destroyer-operates-strait-hormuz.jpg",
+        "timestamp": 1795640400.0
+    },
+    {
         "id": "d2b8090537",
         "title_fa": "خطرات حذف رهبران جـ-ـمـ-ـهـ-ـورئ اِسـ-ـلـ-ـا مـ-ـی",
         "title_en": "Targeting Iran’s leaders will create a more dangerous regime",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.gunaz.tv/en/post/146375",
         "image": "https://www.gunaz.tv/storage/posts/5e1221203ed8a382f098.webp",
         "timestamp": 1795398000.0
-    },
-    {
-        "id": "00b24707be",
-        "title_fa": "آمریکا به دنبال توافق پایدار برای پایان جنگ با ایران",
-        "title_en": "US eyes lasting agreement to end Iran war",
-        "summary": [
-            "واشنگتن تلاش‌های دیپلماتیک خود را برای رسیدن به یک توافق بلندمدت جهت مهار تنش‌ها متمرکز کرده است.",
-            "این تحول نشان‌دهنده تغییر احتمالی در رویکرد آمریکا از درگیری نظامی مداوم به سمت راه‌حل‌های سیاسی است."
-        ],
-        "impact": "کاهش احتمالی تنش‌های نظامی و ایجاد فضا برای مذاکرات پشت پرده",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "China Daily Global Edition",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWJmOE9OMTNFR2s4QmZtZWtfLXpuSVJGbTJXOGNla3VhaHAxTVZTZ05Sd1hOZW5wZHFYM2NxSDFUd3dsX3dEbUtiWFBCS2VWWmJjTHZKSE1sSHhLSjllZXlOOXdDMzBqZzNQaWZOdmhaa1dmaXc3c1JkU2R4YkdFLUhB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWJmOE9OMTNFR2s4QmZtZWtfLXpuSVJGbTJXOGNla3VhaHAxTVZTZ05Sd1hOZW5wZHFYM2NxSDFUd3dsX3dEbUtiWFBCS2VWWmJjTHZKSE1sSHhLSjllZXlOOXdDMzBqZzNQaWZOdmhaa1dmaXc3c1JkU2R4YkdFLUhB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795396389.0
     }
 ]
