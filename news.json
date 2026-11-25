@@ -19,6 +19,25 @@
         "timestamp": 1795594914.0
     },
     {
+        "id": "43f412722c",
+        "title_fa": "فلج شدن صادرات نفت ایران زیر فشار محاصره دریایی آمریکا",
+        "title_en": "Iran deputy speaker warns of prolonged response if war resumes",
+        "summary": [
+            "محاصره دریایی ایالات متحده شریان اصلی فروش نفت خام ایران به چین را به حالت تعلیق درآورده است.",
+            "در حالی که سایر کشورهای حوزه خلیج فارس توانسته‌اند حجم صادرات خود را بازسازی کنند، درآمدهای نفتی ایران دچار افت شدیدی شده است.",
+            "تمرکز بازار نفت اکنون از تحرکات کلامی به سمت آمارهای واقعی صادرات و انزوای اقتصادی تهران معطوف شده است."
+        ],
+        "impact": "تنگنای شدید ارزی برای اقتصاد ایران و کاهش توان مالی حکومت در پشتیبانی از اقدامات منطقه ای",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611258155",
+        "clean_url": "https://www.iranintl.com/en/202611258155",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/3991ec07d11989bc9a50b6be5237d365f8c18149-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795592520.0
+    },
+    {
         "id": "5133cbd912",
         "title_fa": "ادعای توخالی ج.ا درباره بی‌اثر بودن محاصره دریایی نفت",
         "title_en": "Iran has no concern over naval blockade, VP says",
@@ -5495,24 +5514,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/trump-pushes-ukraine-peace-before-2027-delays-iran-military-action/ar-AA2hYjn0",
         "image": "http://www.bing.com/th?id=ONUT.Vgvf3rNsgRxcdDZMPBMAig&pid=News",
         "timestamp": 1795359850.0
-    },
-    {
-        "id": "5bcd57215e",
-        "title_fa": "ژست صلح‌طلبی رهبر کره شمالی؛ تاکتیک جدید پیونگ‌یانگ برای تضعیف تحریم‌ها",
-        "title_en": "Kim Jong Un says North Korea does not seek hegemony and expansion — KCNA",
-        "summary": [
-            "ادعای کیم جونگ اون درباره «عدم سلطه‌طلبی» صرفاً یک مانور دیپلماتیک برای عادی‌سازی تصویر کره شمالی به عنوان یک قدرت هسته‌ای تثبیت‌شده است.",
-            "پیونگ‌یانگ با مشروط کردن روابط به «احترام متقابل»، قصد دارد مسئولیت تنش‌های منطقه‌ای را کاملاً به دوش تحریم‌ها و فشارهای نظامی آمریکا بیندازد.",
-            "این مواضع نرم در برابر سفرای خارجی، نشان‌دهنده تلاش کره شمالی برای شکاف در اجماع تحریمی غرب و جذب متحدان غیرغربی است."
-        ],
-        "impact": "تلاش پیونگ‌یانگ برای بازسازی چهره بین‌المللی خود بدون عقب‌نشینی از برنامه‌های موشکی و هسته‌ای.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2223099",
-        "clean_url": "https://tass.com/world/2223099",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1795359300.0
     }
 ]
