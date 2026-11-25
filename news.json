@@ -18,6 +18,25 @@
         "timestamp": 1795601147.0
     },
     {
+        "id": "f4c10160bb",
+        "title_fa": "استفاده تهران از مهندسان کره‌شمالی برای احیای شهرهای موشکی",
+        "title_en": "Report: North Korea helping Iran develop launch systems inside underground missile cities",
+        "summary": [
+            "تخریب ۸۰ درصدی سکوهای پرتاب در درگیری‌های اخیر، رژیم را مجبور به استمداد از متخصصان پیونگ‌یانگ برای بازسازی زیرزمین‌ها کرده است.",
+            "همکاری از راه دور مهندسان کره‌شمالی جهت طراحی سکوهای پنهان زیرزمینی، تلاشی برای ترمیم توان موشکی ضربه‌خورده است.",
+            "فشار تحریمی واشنگتن و اروپا مانع اصلی دسترسی به قطعات کلیدی شده و توان موشکی را حداکثر در سطح ۴۰ درصد سابق قفل کرده است."
+        ],
+        "impact": "تضعیف عمیق توان بازدارندگی و کندی شدید در بازسازی تسلیحاتی به دلیل خفگی تحریمی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/hky1k4ek7x",
+        "clean_url": "https://www.ynetnews.com/article/hky1k4ek7x",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/S1fUtdmCGg/S1fUtdmCGg_89_0_1116_629_0_large.jpg",
+        "timestamp": 1795600380.0
+    },
+    {
         "id": "7dbfca859f",
         "title_fa": "احیای صادرات نفت خلیج فارس و افت شدید فروش ایران",
         "title_en": "Iran chemical weapons allegations do not justify immediate Israeli strike, Liberman says",
@@ -5498,23 +5517,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/likud-yashar-meeting-did-not-touch-on-pm-rotation-deal-focused-on-draft-law-judicial-overhaul-and-oct-7-probe-reports",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/483d891f-7a29-42c9-987a-de9bf34e0ae6-e1795014887331-640x400.jpg",
         "timestamp": 1795364400.0
-    },
-    {
-        "id": "5f55ff6e57",
-        "title_fa": "تله جاسوسی چین برای جذب مقامات آمریکایی",
-        "title_en": "How suspected Chinese agents tried to recruit US government employees",
-        "summary": [
-            "سرویس‌های اطلاعاتی چین با ساخت شبکه‌ای گسترده از شرکت‌های جعلی و پیشنهادات کاری، مقامات آمریکایی را هدف قرار داده‌اند.",
-            "هدف اصلی این عملیات پیچیده، نفوذ به لایه‌های تصمیم‌گیری و سرقت اسناد محرمانه دولتی واشنگتن است."
-        ],
-        "impact": "تشدید سخت‌گیری‌های امنیتی در ساختار اداری آمریکا و افزایش تنش‌های اطلاعاتی با پکن.",
-        "tag": "جاسوسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/23/us/video/how-suspected-chinese-agents-tried-to-recruit-us-government-employees",
-        "clean_url": "https://www.cnn.com/2026/11/23/us/video/how-suspected-chinese-agents-tried-to-recruit-us-government-employees",
-        "image": "http://www.bing.com/th?id=ONUT.4YRqpgkUWufUvMr6_An-rA&pid=News",
-        "timestamp": 1795363200.0
     }
 ]
