@@ -221,6 +221,25 @@
         "timestamp": 1795561596.0
     },
     {
+        "id": "c8ae4b9ef7",
+        "title_fa": "افزایش تورم مکزیک؛ میوه‌ها عامل اصلی گرانی",
+        "title_en": "Mexico Inflation Ticks up in mid-November as Core Cools",
+        "summary": [
+            "تورم سالانه مکزیک در نیمه اول نوامبر به ۳.۹۶ درصد رسید که از پیش‌بینی‌ها فراتر رفت.",
+            "کاهش تورم هسته به ۳.۶۸ درصد نشان می‌دهد که فشار اصلی قیمت‌ها از بخش‌های بی‌ثبات مثل مواد غذایی می‌آید.",
+            "جهش ۲۰ درصدی قیمت میوه و سبزیجات، موتور محرک اصلی افزایش تورم در این بازه زمانی بوده است."
+        ],
+        "impact": "تداوم فشارهای تورمی در بخش خدمات و مواد غذایی، دست بانک مرکزی مکزیک را برای کاهش بیشتر نرخ بهره می‌بندد.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/mexico-inflation-ticks-up-in-mid-november-as-core-cools/",
+        "clean_url": "https://www.briefs.co/news/mexico-inflation-ticks-up-in-mid-november-as-core-cools",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/11/mexico-inflation-ticks-up-in-mid-november-as-core-cools.png",
+        "timestamp": 1795558200.0
+    },
+    {
         "id": "e4c0df6197",
         "title_fa": "انفجار مین‌های زیرآبی زیر پای نفت‌کش‌ها در سایه اسکورت آمریکا",
         "title_en": "Iran says 3 oil tankers hit underwater mines despite US naval escort",
@@ -5491,23 +5510,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/cop31-collapse-shows-net-zero-200506511.html",
         "image": "https://s.yimg.com/lo/mysterio/api/1b9912b9967ba5440b98af625b7f9025e1d8686a52d87266419661b24f064b39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9a9a643c1c3297ae8389f526315a3ade.jpg",
         "timestamp": 1795349100.0
-    },
-    {
-        "id": "eff31b5f66",
-        "title_fa": "ابهامات خطرناک در سناریوی جنگ با ج.ا",
-        "title_en": "What We Don’t Know About the Iran War",
-        "summary": [
-            "تحلیل‌ها نشان می‌دهد که لایه‌های پنهان درگیری نظامی با ج.ا همچنان برای ناظران بین‌المللی ناشناخته باقی مانده است.",
-            "فقدان اطلاعات دقیق از توانمندی‌های واقعی و واکنش‌های احتمالی در صورت بروز جنگ، ریسک محاسبات غلط را به شدت بالا برده است."
-        ],
-        "impact": "افزایش بی‌ثباتی در بازارهای مالی و تشدید گمانه‌زنی‌ها درباره احتمال درگیری نظامی مستقیم.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Atlantic",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0RCaVNESHIyME5LaU1tX3F0NjNKdDhKX2xmNVhXRWxWOF80U3J0Wm1YNmNSdmFlNEh4YlJ2NFVfaEJVVHEwWnBveFdyekJHVDI5N0VHWGZTaGtxdFA5OUJ0WFFmMVV3ajltU01OamstbFNhMHNFSm5jWGQ2MTlQa3FsM0pFdGZLaEJ5NnJRNXZXU0FkS251WnF2NkRwb2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0RCaVNESHIyME5LaU1tX3F0NjNKdDhKX2xmNVhXRWxWOF80U3J0Wm1YNmNSdmFlNEh4YlJ2NFVfaEJVVHEwWnBveFdyekJHVDI5N0VHWGZTaGtxdFA5OUJ0WFFmMVV3ajltU01OamstbFNhMHNFSm5jWGQ2MTlQa3FsM0pFdGZLaEJ5NnJRNXZXU0FkS251WnF2NkRwb2s",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795348800.0
     }
 ]
