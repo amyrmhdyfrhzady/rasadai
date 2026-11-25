@@ -1,5 +1,24 @@
 [
     {
+        "id": "7dbfca859f",
+        "title_fa": "احیای صادرات نفت خلیج فارس و افت شدید فروش ایران",
+        "title_en": "Iran chemical weapons allegations do not justify immediate Israeli strike, Liberman says",
+        "summary": [
+            "همایون فلکشاهی، مدیر تحلیل نفت خام در مؤسسه کپلر، به ایران اینترنشنال گفت صادرکنندگان خلیج فارس به جز ایران با تغییر مسیر از طریق خطوط لوله، صادرات سپتامبر و اکتبر را به نزدیک ۱۴ میلیون بشکه در روز بازگردانده‌اند، هرچند کویت و قطر هنوز زیر سطح پیش از جنگ هستند.",
+            "چارلی براون، کارشناس تحریم‌های دریایی، اعلام کرد محاصره دریایی آمریکا عملاً تجارت اصلی نفت خام ایران با چین را متوقف کرده و صادرات ایران را با کاهش تند روبه‌رو ساخته است.",
+            "فلکشاهی افزود کاهش برآورد اولیه نوامبر به ۱۲ میلیون بشکه در روز ناشی از کم‌شماری داده‌های رهگیری هفت تا ده روز اخیر است و این رقم احتمالاً بازنگری افزایشی خواهد داشت؛ در تیتر خبر نیز به نقل از لیبرمن آمده است که ادعاهای سلاح شیمیایی توجیهی برای حمله فوری اسرائیل نیست."
+        ],
+        "impact": "جایگزینی عرضه نفت رقبای منطقه‌ای در بازار جهانی هم‌زمان با محدود شدن صادرات نفتی ایران به چین بر اثر محاصره دریایی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611257263",
+        "clean_url": "https://www.iranintl.com/en/202611257263",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795599000.0
+    },
+    {
         "id": "f9fb2c3cba",
         "title_fa": "محکومیت هواوی در آمریکا به‌خاطر دور زدن تحریم‌های ایران",
         "title_en": "Why Did a US Jury Convict China’s Huawei? Iran Sanctions Case Deals Blow to Beijing",
@@ -255,6 +274,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795572313.0
+    },
+    {
+        "id": "bd0b0e4e6e",
+        "title_fa": "ادعای شکست‌ناپذیری بسیج هم‌زمان با چهل‌وهفتمین سالگرد تأسیس آن",
+        "title_en": "The militia Iran says its enemies can't defeat, and the protests it has crushed",
+        "summary": [
+            "به گزارش ایران اینترنشنال، ابوالفضل شکارچی، سخنگوی ارشد نیروهای مسلح، در آستانه چهل‌وهفتمین سالگرد تأسیس بسیج گفت راهبردهای آمریکا و اسرائیل توان پیش‌بینی یا خنثی‌سازی این نیرو را ندارند.",
+            "این رسانه گزارش داد که مواضع فرماندهان نظامی چند ماه پس از تعیین هدف «بسیجی کردن هر ایرانی» از سوی مجتبی خامنه‌ای برای فرمانده جدید و با پیشینه نقش این نیرو در س‌ر‌ک‌و‌ب ا‌ع‌ت‌ر‌ا‌ض‌ا‌ت مطرح شده است."
+        ],
+        "impact": "برجسته‌سازی توان بسیج از سوی مقام‌های نظامی با تمرکز هم‌زمان بر بازدارندگی خارجی و کنترل داخلی.",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611240170",
+        "clean_url": "https://www.iranintl.com/en/202611240170",
+        "image": "http://www.bing.com/th?id=ONUT.vsZ4PatIcFO__9K2YIZM6A&pid=News",
+        "timestamp": 1795571040.0
     },
     {
         "id": "15b7edec5c",
@@ -5478,41 +5515,5 @@
         "clean_url": "https://www.usnews.com/news/business/articles/2026-11-22/asian-shares-mostly-fall-after-s-p-500-drops-3-7-into-a-correction",
         "image": "http://www.bing.com/th?id=ONUT.HhVjhTHP1JJmX-3lr1Yjnw&pid=News",
         "timestamp": 1795360980.0
-    },
-    {
-        "id": "da460ac02d",
-        "title_fa": "رکوردشکنی حملات در تنگه هرمز",
-        "title_en": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
-        "summary": [
-            "امنیت کشتیرانی در خلیج فارس به نقطه بحرانی رسیده است.",
-            "اقداماتی که عبور و مرور نفت‌کش‌ها را هدف قرار داده، به بالاترین حد خود از زمان شروع درگیری‌ها رسیده‌اند."
-        ],
-        "impact": "افزایش شدید هزینه‌های بیمه دریایی و اختلال جدی در ترانزیت انرژی منطقه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795360408.0
-    },
-    {
-        "id": "097c95db4c",
-        "title_fa": "اولویت ترامپ: توافق اوکراین قبل از ۲۰۲۷ و تعویق اقدام نظامی علیه ایران",
-        "title_en": "Trump pushes Ukraine peace before 2027, delays Iran military action",
-        "summary": [
-            "دونالد ترامپ پس از نشست مشترک با چین و روسیه، تمرکز اصلی خود را روی بستن پرونده جنگ اوکراین تا پیش از سال ۲۰۲۷ گذاشته است.",
-            "اقدام نظامی مستقیم علیه جـمـهـوریاسـلامی موقتاً در دستور کار فوری کاخ سفید قرار ندارد و زمان‌بندی متفاوتی برای پرونده ایران اعمال شده است."
-        ],
-        "impact": "تغییر تقویم مهار منطقه‌ای از سوی واشنگتن و فرصت‌تراشی موقت برای تنفس سیستم.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/trump-pushes-ukraine-peace-before-2027-delays-iran-military-action/ar-AA2hYjn0",
-        "clean_url": "https://www.msn.com/en-xl/news/other/trump-pushes-ukraine-peace-before-2027-delays-iran-military-action/ar-AA2hYjn0",
-        "image": "http://www.bing.com/th?id=ONUT.Vgvf3rNsgRxcdDZMPBMAig&pid=News",
-        "timestamp": 1795359850.0
     }
 ]
