@@ -37,6 +37,24 @@
         "timestamp": 1795588264.6523955
     },
     {
+        "id": "45b15c8ddf",
+        "title_fa": "افت شدید صادرات نفت ایران در برابر ادعاهای تبلیغاتی س‌پ‌اه",
+        "title_en": "IRGC chief says adversaries feel defeat, Iran's forces are more prepared",
+        "summary": [
+            "در شرایطی که فرماندهان س‌پ‌اه ادعای شکست دشمنان و آمادگی کامل را مطرح می‌کنند، محاصره غیررسمی دریایی آمریکا تجارت اصلی نفت ایران با چین را عملاً متوقف کرده است.",
+            "بر خلاف ایران، رقبای منطقه‌ای در خلیج فارس توانسته‌اند حجم صادرات نفت خود را به سطوح پیش از بحران نزدیک کنند."
+        ],
+        "impact": "خفه‌شدن شریان‌های درآمد ارزی ایران و بی‌اثر شدن تبلیغات روانی داخلی",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611251857",
+        "clean_url": "https://www.iranintl.com/en/202611251857",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795587060.0
+    },
+    {
         "id": "f9471b318c",
         "title_fa": "جنگ رژیم با ملت و جهان",
         "title_en": "Iran’s war against its own people—and the world",
@@ -71,6 +89,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWI4bDNONFcxcGZJcFZ6cmRndXFiSWQ1cVFqTjUxQVlBLU5qVGc2ZlpmeERkYV8talIzTHczSXEzOEhmN2ZablZ0bC02TXZ3b3lOYjdCd0laRkpPcDViMDN4cGVUaUZGLXdXU1E0MlJtRko4UVVDY2xHbllwMTF0UkJCUmc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795585953.0
+    },
+    {
+        "id": "e2da1220f8",
+        "title_fa": "هشدار ترامپ درباره مهلت کوتاه برای اقدام نظامی علیه ایران",
+        "title_en": "Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’",
+        "summary": [
+            "دونالد ترامپ با اشاره به محدودیت بودجه اختصاص‌یافته تا پایان ژانویه، از تنگ‌تر شدن پنجره زمانی برای حملات احتمالی علیه ایران خبر داد.",
+            "این سخنان نشان‌دهنده تعیین ضرب‌الأجل زمانی فشرده برای تشدید فشارها و احتمال اجرای عملیات مستقیم پیش از پایان ژانویه است."
+        ],
+        "impact": "جهش ناگهانی احتمال درگیری مستقیم نظامی و هشدار به محاسبات دفاعی تهران",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McGtUQ3Bqb1NQTExDWHY3V3BYTnBhWWVNRmh0Q3hqLVhLRkROVXVnQ3NRZUZOang1a2xubk9rc1dMWUhLSmE4UnZGLXJ1VUdSc3BmQ053?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McGtUQ3Bqb1NQTExDWHY3V3BYTnBhWWVNRmh0Q3hqLVhLRkROVXVnQ3NRZUZOang1a2xubk9rc1dMWUhLSmE4UnZGLXJ1VUdSc3BmQ053",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795584043.0
     },
     {
         "id": "6ea9f71c96",
@@ -476,6 +512,24 @@
         "clean_url": "https://www.briefs.co/news/nigeria-holds-rate-at-23-as-inflation-cools-and-fx-jitters-s",
         "image": "https://www.briefs.co/wp-content/uploads/2026/11/nigeria-holds-rate-at-23-as-inflation-cools-and-fx-jitters-s.png",
         "timestamp": 1795561320.0
+    },
+    {
+        "id": "16c381f9f7",
+        "title_fa": "سقوط ۸ درصدی شیلینگ اوگاندا و مداخله اضطراری بانک مرکزی",
+        "title_en": "$21 Billion Manager Adds Ugandan Local Debt After 8% Shilling Slide",
+        "summary": [
+            "کاهش شدید ارزش ارز ملی اوگاندا بانک مرکزی این کشور را به تزریق ۶۸ میلیون دلار به بازار و افزایش ۲۲۵ واحدی نرخ بهره وا داشت.",
+            "با وجود نوسانات شدید، یک موسسه مدیریت سرمایه ۲۱ میلیارد دلاری خریدهای بدهی محلی اوگاندا را افزایش داده است."
+        ],
+        "impact": "فشار بر بازارهای نوظهور و تلاش برای مهار تورم ارزی با ابزار نرخ بهره",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/21-billion-manager-adds-ugandan-local-debt-after-8-shilling/",
+        "clean_url": "https://www.briefs.co/news/21-billion-manager-adds-ugandan-local-debt-after-8-shilling",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/11/21-billion-manager-adds-ugandan-local-debt-after-8-shilling-.png",
+        "timestamp": 1795561200.0
     },
     {
         "id": "c8ae4b9ef7",
@@ -5459,61 +5513,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFUzWk5ZczVycmhHYkJrcVMxWjNEMDJnTUppRWxzaEIzY05JWC0zeldkWVlETW9OckZ3S25qZjFVcDdGVldVV2lvMURXcWhZWmtsNDFYOHBwZl9kVUlCMDlWYmdxeXd1di01alRSQTJvMjF0b0ZPS1doYnlsX0txQy1vQ1lqcDA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795358728.0
-    },
-    {
-        "id": "94a54945d5",
-        "title_fa": "موروثی شدن قدرت در جمهوری صربسکا با انتصاب پسر دودیک",
-        "title_en": "Republika Srpska's president nominates Dodik's son as prime minister",
-        "summary": [
-            "رئیس‌جمهور صربسکا با انتصاب پسر میلوراد دودیک به عنوان نخست‌وزیر، عملاً قدرت را در این منطقه در اختیار یک خانواده قرار داد.",
-            "این اقدام نشان‌دهنده تثبیت نفوذ روسیه و جریان‌های نزدیک به مسکو در بالکان از طریق مهره‌های وفادار است.",
-            "سابقه تحریم‌های آمریکا علیه ایگور دودیک، چالش‌های دیپلماتیک جدیدی را برای این منطقه در تعامل با غرب ایجاد خواهد کرد."
-        ],
-        "impact": "افزایش تنش‌های سیاسی در بوسنی و احتمال انزوای بیشتر این منطقه از سوی نهادهای اروپایی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2223037",
-        "clean_url": "https://tass.com/world/2223037",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1795357500.0
-    },
-    {
-        "id": "09dc432c28",
-        "title_fa": "تسریع افول پترودلار با تشدید تنش‌های نظامی خاورمیانه",
-        "title_en": "The ‘petrodollar’ has been weakening for years, economists warn. The Iran war put a spotlight on it",
-        "summary": [
-            "تضعیف ساختار پترودلار که از سال‌ها پیش آغاز شده بود، با گسترش درگیری‌های منطقه‌ای و جنگ ایران وارد فاز جدیدی شده است.",
-            "افزایش ریسک‌های سیاسی و فشارهای تحریمی، کشورهای خریدار انرژی را بیش از گذشته به سمت تسویه مبادلات نفتی با ارزهای ملی سوق داده است."
-        ],
-        "impact": "کاهش تدریجی سلطه دلار بر بازار جهانی انرژی و افت کارایی ابزارهای تحریم مالی آمریکا.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhuT3BBQzlvUFBEQjNDam1wcHc0Mkc0dWFTMHFlUjhvVG13M1BVYzBQZkpSQWFPUU10eVJGT1RJTkhvZU5yeGUzTUxZVWJnRjZzeVpLRWJHOFFHUlRidkpzMzdCZUItT1hDVElXMFdkd1d3OEFDRzRtbWM5NTQtTG0wbUFuYTRNXzZ4UmlxTlI0cGVKb0NhdFViQmdTZDNUN0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhuT3BBQzlvUFBEQjNDam1wcHc0Mkc0dWFTMHFlUjhvVG13M1BVYzBQZkpSQWFPUU10eVJGT1RJTkhvZU5yeGUzTUxZVWJnRjZzeVpLRWJHOFFHUlRidkpzMzdCZUItT1hDVElXMFdkd1d3OEFDRzRtbWM5NTQtTG0wbUFuYTRNXzZ4UmlxTlI0cGVKb0NhdFViQmdTZDNUN0E",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795357500.0
-    },
-    {
-        "id": "dd002fdf1f",
-        "title_fa": "حمله موشکی ایران به بحرین؛ گسترش خطرناک دامنه جنگ منطقه",
-        "title_en": "Iran War Day 268: Iran Strikes Bahrain as Tensions Soar",
-        "summary": [
-            "هدف قرار گرفتن بحرین نشان می‌دهد تهران خط قرمز درگیری مستقیم با متحدان منطقه‌ای واشنگتن را رد کرده است.",
-            "این اقدام مستقیم، پایگاه‌های ناوگان پنجم نیروی دریایی آمریکا را در کانون تهدید قرار داده و پاسخ متقابل را حتمی می‌کند.",
-            "کشیده شدن پای همسایگان حاشیه خلیج فارس به درگیری، آخرین مرحله پیش از رویارویی کامل و همه‌جانبه نظامی است."
-        ],
-        "impact": "جهش آنی قیمت نفت و خروج سریع سرمایه از بازارهای مالی حاشیه خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "The American Conservative",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnhzaERlanMtaTdoeHR2NmdoUjBwdUE5dVVVTm1GNHE5Zi1iNXdwUFBsZmtwT2tBeEF4ZHlZdzlBV1JSMVBqYXVxSkxCMFNsNEdSLWFjNVB2S2ZraTItQTFlRTk1TEJvbnNNazFwN0ZORmtCMUEtUFlGS0IzZ2o0XzRkV0djM3RtVnc2QnE5Z29GeUlhMnhRS0NScw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnhzaERlanMtaTdoeHR2NmdoUjBwdUE5dVVVTm1GNHE5Zi1iNXdwUFBsZmtwT2tBeEF4ZHlZdzlBV1JSMVBqYXVxSkxCMFNsNEdSLWFjNVB2S2ZraTItQTFlRTk1TEJvbnNNazFwN0ZORmtCMUEtUFlGS0IzZ2o0XzRkV0djM3RtVnc2QnE5Z29GeUlhMnhRS0NScw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795357020.0
     }
 ]
