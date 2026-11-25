@@ -406,6 +406,25 @@
         "timestamp": 1795584043.0
     },
     {
+        "id": "d422b06c5a",
+        "title_fa": "اخراج دانشجویان معترض؛ شرط بازگشت، ابراز ندامت اجباری",
+        "title_en": "Iran keeps student protesters off campus, with no clear path back",
+        "summary": [
+            "وزارت علوم با نادیده گرفتن وعده پزشکیان، بازگشت دانشجویان معترض را مشروط به ابراز ندامت کرده است.",
+            "کمیته‌های انضباطی و حراست با همکاری نهادهای امنیتی، عملاً راه بازگشت دانشجویان مخالف ج.ا را بسته‌اند.",
+            "تضاد در اظهارات رئیس‌جمهور و وزارت علوم نشان‌دهنده بی‌اختیاری دولت در برابر نهادهای امنیتی است."
+        ],
+        "impact": "تداوم سرکوب سیستماتیک در دانشگاه‌ها و حذف نخبگان منتقد از فضای آموزشی.",
+        "tag": "سرکوب",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611259185",
+        "clean_url": "https://www.iranintl.com/en/202611259185",
+        "image": "http://www.bing.com/th?id=ONUT.f6ZQ8L-g7DjNtv7eGCgnAA&pid=News",
+        "timestamp": 1795581060.0
+    },
+    {
         "id": "6ea9f71c96",
         "title_fa": "معمای حمله اسرائیل به تاسیسات شیمیایی ج.ا",
         "title_en": "Days, weeks or months? Iran's chemical weapons threat and Israel's dilemma over when to strike",
@@ -5501,23 +5520,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/ar-AA2hZmEd",
         "image": "http://www.bing.com/th?id=ONUT.SL1YNhD6oB6KTW_bjB-k3w&pid=News",
         "timestamp": 1795373710.0
-    },
-    {
-        "id": "b272571011",
-        "title_fa": "خطای امنیتی در دریافت خبر",
-        "title_en": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
-        "summary": [
-            "منبع خبری مورد نظر در دسترس نبوده و درخواست توسط سیستم امنیتی مسدود شده است.",
-            "محتوای این خبر فاقد ارزش تحلیلی به دلیل عدم دسترسی به متن اصلی است."
-        ],
-        "impact": "این خبر فاقد تاثیرگذاری عملیاتی یا سیاسی است.",
-        "tag": "خطای سیستمی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/News/middle-east/2026/11/22/israel-s-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank",
-        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/22/israel-s-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank",
-        "image": "https://vid.alarabiya.net/images/2026/11/22/f5ab4f81-894a-46ad-b6b7-d21b9528e23c/f5ab4f81-894a-46ad-b6b7-d21b9528e23c_16x9_600x338.JPG",
-        "timestamp": 1795372920.0
     }
 ]
