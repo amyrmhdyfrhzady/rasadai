@@ -663,6 +663,25 @@
         "timestamp": 1795547898.0
     },
     {
+        "id": "e0f96e4ec9",
+        "title_fa": "خفقان و فقر؛ روایت پرستو فروهر از تهرانِ امروز",
+        "title_en": "\"Society is being oppressed\"/ Iranian artist talks about life in Tehran",
+        "summary": [
+            "جامعه تحت فشار خردکننده جنگ، تحریم و بحران اقتصادی به زانو درآمده است.",
+            "تلاش برای بقای روزمره و حفظ کرامت انسانی به دغدغه اصلی مردم تبدیل شده است.",
+            "فضای امنیتی و سنگین تهران، یادآور دوران قتل‌های زنجیره‌ای است که خانواده فروهر قربانی آن شدند."
+        ],
+        "impact": "افزایش ناامیدی عمومی و فرسایش توان اقتصادی مردم، بستر را برای ناآرامی‌های اجتماعی مهیا می‌کند.",
+        "tag": "اجتماعی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "CNA",
+        "url": "https://www.cna.al/english/kosova-bota/shoqeria-po-shtypet-artistja-iraniane-rrefen-per-jeten-ne-teheran-i481073",
+        "clean_url": "https://www.cna.al/english/kosova-bota/shoqeria-po-shtypet-artistja-iraniane-rrefen-per-jeten-ne-teheran-i481073",
+        "image": "https://media.cna.al/cna.al/media3/-1200-630-1795589798xcapturejpg-401.jpg",
+        "timestamp": 1795542840.0
+    },
+    {
         "id": "47840e42bd",
         "title_fa": "نزدیک شدن حوثی‌ها به عدن و آرایش دفاعی سنگین در یمن",
         "title_en": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
@@ -5494,23 +5513,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/ossoffs-broad-and-decisive-senate-win-fuels-2028-speculation/ar-AA2hZaXx",
         "image": "http://www.bing.com/th?id=ONUT.F1oLuucX_A0--crgjx_FNg&pid=News",
         "timestamp": 1795352772.0
-    },
-    {
-        "id": "0f21289244",
-        "title_fa": "بحران مسکن؛ طلاق‌هایی که زیر یک سقف ادامه دارند",
-        "title_en": "CENTCOM chief meets regional leaders, honors US troops involved in Iran operations",
-        "summary": [
-            "جهش قیمت مسکن در تهران باعث شده زوج‌های طلاق‌گرفته توانایی اجاره یا خرید خانه مستقل را نداشته باشند.",
-            "میانگین قیمت هر متر مربع آپارتمان در تهران به رقم نجومی ۳ میلیارد ریال رسیده که معادل ۱۸ ماه دستمزد پایه است."
-        ],
-        "impact": "فروپاشی استانداردهای زندگی و ناتوانی مردم در تامین ابتدایی‌ترین نیازهای سرپناه.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611229176",
-        "clean_url": "https://www.iranintl.com/en/202611229176",
-        "image": "http://www.bing.com/th?id=ONUT.ZVMLoJrYVTQo01KfmyF_wg&pid=News",
-        "timestamp": 1795352760.0
     }
 ]
