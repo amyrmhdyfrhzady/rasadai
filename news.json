@@ -54,6 +54,25 @@
         "timestamp": 1795643768.0
     },
     {
+        "id": "67a225aa81",
+        "title_fa": "اعتراف رسانه اصلاح‌طلب به فشار داخلی حکومت بر مردم",
+        "title_en": "Reformist editor says Iran's own leaders are making life harder during war",
+        "summary": [
+            "سردبیر وب‌سایت جماران از عملکرد سه قوه در بحران جنگ و فشار اقتصادی انتقاد کرد.",
+            "اقدامات سرکوبگرانه مانند شلاق زدن هنرمندان و تنش‌های مجلس، زندگی را برای مردم سخت‌تر کرده است.",
+            "مسئولان حکومتی به جای کاهش آلام عمومی، بارهای جدیدی بر دوش شهروندان می‌گذارند."
+        ],
+        "impact": "افزایش نارضایتی عمومی و شکاف بیشتر میان ملت و حاکمیت در بحران‌های جاری.",
+        "tag": "اجتماعی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611253220",
+        "clean_url": "https://www.iranintl.com/en/202611253220",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/5b1aab0ad31b4683d1679999ff6cea4691b90fba-629x422.png?rect=0,46,629,330&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795643160.0
+    },
+    {
         "id": "64cce7c59a",
         "title_fa": "انفجار نفت‌کش‌ها در تنگه هرمز و حمله به پالایشگاه سعودی",
         "title_en": "Houthis Claim Strike on Saudi Refinery as Iran Reports More Tanker Blasts",
@@ -5495,23 +5514,5 @@
         "clean_url": "https://www.iranintl.com/en/202611233352",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1795401720.0
-    },
-    {
-        "id": "1aed071556",
-        "title_fa": "فلج شدن پلتفرم آموزشی اتحادیه اروپا در پی حمله سایبری",
-        "title_en": "EU academy platform disabled after cyberattack on Commission",
-        "summary": [
-            "هکرهای ناشناس با هدف قرار دادن زیرساخت‌های کمیسیون اروپا، دسترسی به سامانه‌های آموزشی این نهاد را به طور کامل قطع کردند.",
-            "این حمله نشان‌دهنده ضعف جدی در لایه‌های امنیتی بروکسل در برابر جنگ‌های نوین سایبری است که احتمالاً با اهداف جاسوسی انجام شده است."
-        ],
-        "impact": "اختلال در عملیات اداری اتحادیه اروپا و آماده‌باش امنیتی برای مقابله با نفوذهای بعدی.",
-        "tag": "سایبری",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/News/world/2026/11/23/eu-academy-platform-disabled-after-cyberattack-on-commission",
-        "clean_url": "https://english.alarabiya.net/News/world/2026/11/23/eu-academy-platform-disabled-after-cyberattack-on-commission",
-        "image": "https://vid.alarabiya.net/images/2025/07/21/1c17e197-4120-49aa-9894-56b83512c88a/1c17e197-4120-49aa-9894-56b83512c88a_16x9_600x338.JPG",
-        "timestamp": 1795400460.0
     }
 ]
