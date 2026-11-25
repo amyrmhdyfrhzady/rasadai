@@ -220,6 +220,25 @@
         "timestamp": 1795566840.0
     },
     {
+        "id": "702707131e",
+        "title_fa": "حمله ائتلاف سعودی به بندر حدیده در یمن",
+        "title_en": "Iran war live: Saudi-led coalition strikes Yemen's Hodeidah port",
+        "summary": [
+            "حملات هوایی ائتلاف به بندر استراتژیک حدیده، پاسخ مستقیم به تهدیدات حوثی‌ها برای ناامن‌سازی بنادر عربستان است.",
+            "گروه حوثی پیش‌تر تهدید کرده بود در صورت حمله به حدیده، تمام بنادر دریای سرخ عربستان از جمله جده را هدف قرار می‌دهد.",
+            "این تنش‌ها نشان‌دهنده خروج وضعیت از حالت مهار شده و حرکت به سمت درگیری مستقیم در آب‌های استراتژیک منطقه است."
+        ],
+        "impact": "افزایش ریسک در مسیرهای کشتیرانی دریای سرخ و احتمال گسترش حملات پهپادی به زیرساخت‌های نفتی عربستان.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-08-01T040525Z_1121831232_RC2969AVOE7S_RTRMADP_3_ISRAEL-PALESTINIANS-YEMEN-PORT-1795209810.jpg?resize=1920%2C1440",
+        "timestamp": 1795564740.0
+    },
+    {
         "id": "bf80b13850",
         "title_fa": "هشدار کوشنر به اسرائیل و تشدید تهدیدهای ترکیبی ایران",
         "title_en": "Live: Eleven hurt in second Houthi strike within days on Riyadh's tallest tower",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/democrats-win-largest-house-majority-since-1992-after-flipping-north-carolina-seat/ar-AA2hYRAr",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795350384.0
-    },
-    {
-        "id": "ee3b592c34",
-        "title_fa": "روزنامه حامی حكومت خواستار حمله پیشگیرانه به آمریکا شد",
-        "title_en": "Iranian Newspaper Calls For First Strike On US And Its Allies",
-        "summary": [
-            "رسانه‌های تندرو در تهران بار دیگر با زبان تهدید و جنگ‌طلبی ظاهر شدند.",
-            "این دعوت به اقدام نظامی نشان‌دهنده بن‌بست ذهنی تصمیم‌گیرندگان ج.ه. ا در برابر تحولات منطقه است."
-        ],
-        "impact": "افزایش ریسک امنیتی و تحریک بازیگران منطقه‌ای و غربی علیه منافع ج.ه. ا",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQazl3dTJuYlVXTVNHRWU3YlRvZjRuVmQwWVNnbWxJR01JRHUtakwwREEwM09pWGpOLVFPbmdPbFdTNXI5V1FDdnBjeTFrbmZjREZkTTEyY1p0Xzl0dmpfc3YzWVB0TnZBYVBlcEhiOHVOR0ZudzVLWlpvc25UZGJMWm5mdXpxVmMtTVdXOW82cy1lOExIUzNWVmk4QnpiVmlhLUh5clJDc0dtMTMxdlhtT01KN3NDZVZpMGYwN2NDenpjUTVjQURDUw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQazl3dTJuYlVXTVNHRWU3YlRvZjRuVmQwWVNnbWxJR01JRHUtakwwREEwM09pWGpOLVFPbmdPbFdTNXI5V1FDdnBjeTFrbmZjREZkTTEyY1p0Xzl0dmpfc3YzWVB0TnZBYVBlcEhiOHVOR0ZudzVLWlpvc25UZGJMWm5mdXpxVmMtTVdXOW82cy1lOExIUzNWVmk4QnpiVmlhLUh5clJDc0dtMTMxdlhtT01KN3NDZVZpMGYwN2NDenpjUTVjQURDUw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795350300.0
     }
 ]
