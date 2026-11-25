@@ -36,6 +36,25 @@
         "timestamp": 1795606750.0
     },
     {
+        "id": "bcbc10213e",
+        "title_fa": "هزینه‌های پنهان و آشکار تقابل نظامی با ج.ا",
+        "title_en": "How much is the war with Iran costing the US? - ABC News",
+        "summary": [
+            "بحث‌ها در واشینگتن درباره هزینه‌های مالی درگیری احتمالی با ج.ا بالا گرفته است.",
+            "تنش‌های منطقه‌ای نه تنها امنیت، بلکه بار مالی سنگینی را بر دوش بودجه نظامی آمریکا می‌گذارد.",
+            "سیاست‌مداران آمریکایی در حال ارزیابی دقیق‌تر قیمت تمام‌شده تقابل مستقیم در خاورمیانه هستند."
+        ],
+        "impact": "افزایش فشار بر تصمیم‌گیران آمریکایی برای محاسبه دقیق هزینه‌های استراتژیک در برابر ج.ا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795604920.0
+    },
+    {
         "id": "2fd172de74",
         "title_fa": "درس‌های تاریخی برچیده شدن تسلیحات اتمی در آفریقای جنوبی",
         "title_en": "The black & white of why South Africa took unique step to destroy its nuclear weapons",
@@ -258,6 +277,24 @@
         "clean_url": "https://www.iranintl.com/en/202611258155",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/3991ec07d11989bc9a50b6be5237d365f8c18149-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1795592520.0
+    },
+    {
+        "id": "9a1b481b24",
+        "title_fa": "تلاش لولا برای مهار هزینه‌ها و تقویت پول ملی برزیل",
+        "title_en": "Brazil's Real Perks up as Lula Backs Curbs on Mandatory Spending",
+        "summary": [
+            "دولت برزیل با هدف کاهش کسری بودجه، اصلاحات قانون اساسی برای کنترل هزینه‌های اجباری را در دستور کار قرار داده است.",
+            "بازارها به سیگنال‌های انضباط مالی لولا واکنش مثبت نشان دادند، هرچند تردیدها نسبت به ثبات اقتصادی همچنان پابرجاست."
+        ],
+        "impact": "تغییر رویکرد مالی دولت برزیل باعث نوسان مثبت در ارزش رئال و بازارهای سهام این کشور شد.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/brazil-s-real-perks-up-as-lula-backs-curbs-on-mandatory-spen/",
+        "clean_url": "https://www.briefs.co/news/brazil-s-real-perks-up-as-lula-backs-curbs-on-mandatory-spen",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/11/brazil-s-real-perks-up-as-lula-backs-curbs-on-mandatory-spen.png",
+        "timestamp": 1795589940.0
     },
     {
         "id": "5133cbd912",
@@ -5482,43 +5519,5 @@
         "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/22/israel-s-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank",
         "image": "https://vid.alarabiya.net/images/2026/11/22/f5ab4f81-894a-46ad-b6b7-d21b9528e23c/f5ab4f81-894a-46ad-b6b7-d21b9528e23c_16x9_600x338.JPG",
         "timestamp": 1795372920.0
-    },
-    {
-        "id": "c416cdf77f",
-        "title_fa": "هشدار تاکر کارلسون به دموکرات‌ها درباره عواقب همراهی با جنگ ایران",
-        "title_en": "Tucker Carlson says Hakeem Jeffries will hurt his own party over Iran",
-        "summary": [
-            "تاکر کارلسون هشدار داد عدم مخالفت صریح رهبران دموکرات با درگیری نظامی با ایران، پایگاه رای آن‌ها را ریزش خواهد داد.",
-            "به باور کارلسون، افکار عمومی آمریکا تمایلی به ورود به یک جنگ خانمان‌سوز و جدید در خاورمیانه ندارد.",
-            "فشار جناح‌های رسانه‌ای بر دموکرات‌ها نشان می‌دهد درگیری با ایران به یک گسل شدید سیاسی داخل آمریکا تبدیل شده است."
-        ],
-        "impact": "تشدید شکاف‌های داخلی در آمریکا بر سر هزینه و تبعات هرگونه درگیری نظامی مستقیم با ایران.",
-        "tag": "ایران",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/news/other/tucker-carlson-says-hakeem-jeffries-will-hurt-his-own-party-over-iran/ar-AA2i06g8",
-        "clean_url": "https://www.msn.com/en-us/news/other/tucker-carlson-says-hakeem-jeffries-will-hurt-his-own-party-over-iran/ar-AA2i06g8",
-        "image": "http://www.bing.com/th?id=ONUT.69WOvGDKoIN2SoDnGm6qeA&pid=News",
-        "timestamp": 1795372860.0
-    },
-    {
-        "id": "5a42db1316",
-        "title_fa": "تعویق حمله نظامی آمریکا به ایران با وجود فشارهای شدید نتانیاهو",
-        "title_en": "US Iran War Live Updates: Trump claims Iran escalated drone, missile attacks after Democrats' midterm wins",
-        "summary": [
-            "ترامپ دستور تعویق حداقل یک‌هفته‌ای هرگونه اقدام نظامی علیه ایران را صادر کرده و تصمیم‌گیری نهایی را به بعد از سال جدید میلادی موکول کرده است.",
-            "نتانیاهو همچنان برای اجرای یک عملیات فشرده چندروزه با هدف فلج کردن ساختار حاکمیت در تهران فشار می‌آورد.",
-            "واشنگتن با دستکاری در زمان‌بندی حمله، به دنبال ارزیابی دقیق‌تر تبعات منطقه‌ای و مدیریت ریسک‌های یک درگیری مستقیم است."
-        ],
-        "impact": "تداوم فضای نوسانی در بازار ارز تهران و حفظ حالت آماده‌باش کامل نیروهای نظامی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-hormuz-oil-tankers-fire-saudi-houthi-tensions-latest-news/liveblog/136082229.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-hormuz-oil-tankers-fire-saudi-houthi-tensions-latest-news/liveblog/136082229.cms",
-        "image": "http://www.bing.com/th?id=ONUT.xrhz8k3jX40oi-AQ-PVCWA&pid=News",
-        "timestamp": 1795372440.0
     }
 ]
