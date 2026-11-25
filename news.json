@@ -1,5 +1,24 @@
 [
     {
+        "id": "2fd172de74",
+        "title_fa": "درس‌های تاریخی برچیده شدن تسلیحات اتمی در آفریقای جنوبی",
+        "title_en": "The black & white of why South Africa took unique step to destroy its nuclear weapons",
+        "summary": [
+            "آمریکا، روسیه و چین اخیراً در نشستی مشترک تأکید کردند که جنگ هسته‌ای برنده ندارد و نباید رخ دهد.",
+            "آفریقای جنوبی تنها کشوری است که تسلیحات اتمی خود را پیش از انتقال قدرت به حکومت اکثریت برچید.",
+            "این تصمیم نه برای صلح جهانی، بلکه ناشی از نگرانی حکومت وقت از افتادن بمب‌ها به دست دولت جدید بود."
+        ],
+        "impact": "بازخوانی این تجربه تاریخی نشان می‌دهد تغییرات ساختاری قدرت چه تاثیری بر زرادخانه‌های اتمی دارد.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-black-white-of-why-south-africa-took-unique-step-to-destroy-its-nuclear-weapons/articleshow/136157303.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-black-white-of-why-south-africa-took-unique-step-to-destroy-its-nuclear-weapons/articleshow/136157303.cms",
+        "image": "https://static.toiimg.com/thumb/msid-136158706,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1795604220.0
+    },
+    {
         "id": "6e505325e5",
         "title_fa": "تصمیم نهایی درباره حمله به ج.م در دست ترامپ",
         "title_en": "Israeli Defense Minister Says Final Decision on Iran Attack Rests With Trump",
@@ -5500,23 +5519,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHBpT2JwZTRLdTZzQlp6VGxKQTNHeDdFUEV1ai1JdGowZm5xQmpFQ2duWjQ4NTZ6WTJWR1ZQOUh3SUNCd3B4X0QyN1Q1REFEdUJHYUtmZGtva3NSRDRBOGZRSVdCZGR0bFNKNTFqNGEwOXlOYVRIOXUxYzd3Q3M5aXV1eVgwYnVJRzdXZFQ3cFR0SXJPRU1aS1VjcmZCSjBYVTRDZ1dLZDNvbFRz",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795368263.0
-    },
-    {
-        "id": "394611acf3",
-        "title_fa": "آرامش نسبی در بازارهای مالی پس از یک هفته طوفانی",
-        "title_en": "S&P 500 Futures Rise After Tough Week",
-        "summary": [
-            "قراردادهای آتی شاخص اس اند پی ۵۰۰ پس از افول سنگین هفته گذشته رو به رشد گذاشت.",
-            "سرمایه‌گذاران با احتیاط در انتظار بازگشایی بازارهای مالی در روز دوشنبه هستند."
-        ],
-        "impact": "کاهش نسبی هیجان در بازارهای مالی و بازگشت شکننده ثبات به معاملات.",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
-        "clean_url": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
-        "image": "http://www.bing.com/th?id=ONUT.5LJyZzI_HBbKZhxzXCPGPA&pid=News",
-        "timestamp": 1795367820.0
     }
 ]
