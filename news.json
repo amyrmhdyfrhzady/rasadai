@@ -275,6 +275,25 @@
         "timestamp": 1795608921.0
     },
     {
+        "id": "40decd2485",
+        "title_fa": "شکاف در اردوگاه حامیان تـرآمـپ بر سر جنگ با ایران",
+        "title_en": "Fox News Hosts Clash Live on TV Over Donald Trump’s Iran War",
+        "summary": [
+            "مجریان شبکه فاکس نیوز در برنامه زنده بر سر رویکرد جنگ‌طلبانه در قبال تـهـرآن به شدت با یکدیگر درگیر شدند.",
+            "مخالفان این سیاست درون طیف راست تأکید دارند که رأی‌دهندگان آمریکایی جنگ جدید را رد کرده‌اند.",
+            "هزینه‌ها و پیامدهای درگیری با ایـرآن به نقطه‌ای بحرانی در معادلات سیاسی داخلی آمـریـکـا تبدیل شده است."
+        ],
+        "impact": "تشدید اختلاف‌نظرها میان جریان‌های سیاسی آمـریـکـا درباره تداوم فشارها و جنگ احتمالی با ایـرآن.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/fox-news-hosts-clash-trump-iran-war-12767819",
+        "clean_url": "https://www.newsweek.com/fox-news-hosts-clash-trump-iran-war-12767819",
+        "image": "http://www.bing.com/th?id=ONUT.E8wdgy8PAOQcewh79mc3lw&pid=News",
+        "timestamp": 1795608120.0
+    },
+    {
         "id": "6c38f5254f",
         "title_fa": "خط‌ونشان اسرائیل برای تـ‌هـ‌ران؛ ادعای تلاش برای سلاح شیمیایی",
         "title_en": "Israel alleges Iran pursuing chemical weapons, threatens action",
@@ -5494,24 +5513,5 @@
         "clean_url": "https://www.ibtimes.co.uk/trump-stephen-miller-vance-rubio-2028-race-1833995",
         "image": "https://d.ibtimes.co.uk/en/full/1845850/donald-trump-stephen-miller-jd-vance-marco-rubio.png",
         "timestamp": 1795393980.0
-    },
-    {
-        "id": "1b7157716a",
-        "title_fa": "جنجال انتشار تصویر پوتین توسط ترامپ با عنوان «دوست من»",
-        "title_en": "Donald Trump’s Cozy New Post About Vladimir Putin Sparks Outrage",
-        "summary": [
-            "انتشار عکس مشترک ترامپ با پوتین و نامیدن او به عنوان دوست، موجی از انتقاد شدید در آمریکا ایجاد کرده است.",
-            "این صمیمیت علنی در شرایطی رخ می‌دهد که روسیه متحد کلیدی ج.ا.ا است و واشنگتن همزمان سیاست‌های تندی علیه تهران دنبال می‌کند.",
-            "منتقدان، این اقدام ترامپ را تناقضی آشکار در سیاست خارجی و رویکرد ادعایی او علیه محور شرق می‌دانند."
-        ],
-        "impact": "ایجاد سردرگمی سیاسی در واشنگتن درباره میزان جدی بودن ترامپ در تقابل با متحدان اصلی ج.ا.ا.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/donald-trump-putin-friend-post_n_6b03e5c0e4b0da866ee11649",
-        "clean_url": "https://www.huffpost.com/entry/donald-trump-putin-friend-post_n_6b03e5c0e4b0da866ee11649",
-        "image": "http://www.bing.com/th?id=ONUT.sBf3aJljcqTmfDDBV3scTQ&pid=News",
-        "timestamp": 1795393020.0
     }
 ]
