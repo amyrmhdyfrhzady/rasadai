@@ -1,5 +1,24 @@
 [
     {
+        "id": "c4faf7c261",
+        "title_fa": "فلج شدن صادرات نـفـت ایـران زیر سنگین‌ترین محاصره دریایی",
+        "title_en": "15% of Americans say US is winning Iran war, 13% say Iran is",
+        "summary": [
+            "بلاکید دریایی آمریکا عملاً شریان اصلی صادرات نـفـت جـمـهـوری اسـلامـی به چین را قطع کرد.",
+            "کشورهای حاشیه خلیج فارس به سرعت حجم صادرات خود را به سطح پیش از درگیری‌ها بازگرداندند.",
+            "بازار جهانی نـفـت اکنون بیشتر به سمت عوامل بنیادین متمایل است تا هیاهوهای رسانه‌ای."
+        ],
+        "impact": "سقوط آزاد درآمدهای نـفـتی و تنگنای شدید مالی برای حاکمیت.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611251177",
+        "clean_url": "https://www.iranintl.com/en/202611251177",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795573200.0
+    },
+    {
         "id": "c37d0eb11b",
         "title_fa": "تهدید جدید سپاه: جنگ آینده محدود به منطقه نیست",
         "title_en": "Iran's IRGC chief: Next war not necessarily limited to West Asia",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0RCaVNESHIyME5LaU1tX3F0NjNKdDhKX2xmNVhXRWxWOF80U3J0Wm1YNmNSdmFlNEh4YlJ2NFVfaEJVVHEwWnBveFdyekJHVDI5N0VHWGZTaGtxdFA5OUJ0WFFmMVV3ajltU01OamstbFNhMHNFSm5jWGQ2MTlQa3FsM0pFdGZLaEJ5NnJRNXZXU0FkS251WnF2NkRwb2s",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795348800.0
-    },
-    {
-        "id": "130adf91e5",
-        "title_fa": "تلاش نتانیاهو برای تشکیل دولت وحدت با آیزنکوت",
-        "title_en": "Eisenkot's Yashar and Netanyahu's Likud set to resume unity talks; PM reportedly met Ben Gvir, Smotrich ahead of discussions",
-        "summary": [
-            "نتانیاهو در تکاپوی تشکیل دولت وحدت با حزب یشار است تا از بن‌بست سیاسی خارج شود.",
-            "دیدارهای پشت‌پرده نتانیاهو با بن‌گویر و اسموتریچ نشان‌دهنده تلاش او برای حفظ توازن در ائتلاف راست‌گراست."
-        ],
-        "impact": "تغییر در ترکیب کابینه می‌تواند سیاست‌های امنیتی اسرائیل در قبال ج.ا را دستخوش تغییرات جدی کند.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/eisenkots-yashar-and-netanyahus-likud-set-to-resume-unity-talks-pm-reportedly-met-ben-gvir-smotrich-ahead-of-discussions/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/eisenkots-yashar-and-netanyahus-likud-set-to-resume-unity-talks-pm-reportedly-met-ben-gvir-smotrich-ahead-of-discussions",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261110CG551-e1794680320263.jpg",
-        "timestamp": 1795346880.0
     }
 ]
