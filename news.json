@@ -1,5 +1,24 @@
 [
     {
+        "id": "5133cbd912",
+        "title_fa": "ادعای توخالی ج.ا درباره بی‌اثر بودن محاصره دریایی نفت",
+        "title_en": "Iran has no concern over naval blockade, VP says",
+        "summary": [
+            "معاون رئیس‌جمهور ج.ا در حالی از بی‌اهمیت بودن محاصره دریایی می‌گوید که آمارها سقوط شدید صادرات نفت ایران را تایید می‌کنند.",
+            "برخلاف ایران، سایر تولیدکنندگان منطقه با استفاده از خطوط لوله، صادرات خود را به سطح پیش از جنگ بازگردانده‌اند.",
+            "تحریم‌های دریایی آمریکا عملاً مسیر اصلی فروش نفت به چین را مسدود کرده و بازار دیگر به بلوف‌های سیاسی توجهی ندارد."
+        ],
+        "impact": "تداوم فشار بر درآمدهای نفتی و تنگ‌تر شدن حلقه محاصره اقتصادی علیه ج.ا.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611254996",
+        "clean_url": "https://www.iranintl.com/en/202611254996",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/fa56e1e2f2d0b253956e8c9492d0ae7eee68abc6-1000x667.jpg?rect=0,72,1000,525&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795589520.0
+    },
+    {
         "id": "81f114b478",
         "title_fa": "محکومیت سنگین هواوی در دادگاه آمریکا به جرم دور زدن تحریم‌های ایران",
         "title_en": "هواوی به نقض تحریمهای آمریکا علیه ایران و سرقت اسرار تجاری محکوم شد",
@@ -5495,23 +5514,5 @@
         "clean_url": "https://nypost.com/2026/11/22/us-news/hakeem-jeffries-refuses-to-rule-out-future-impeachment-attempts",
         "image": "http://www.bing.com/th?id=ONUT.FAFHnhgJsT1z5PNOd514DQ&pid=News",
         "timestamp": 1795354680.0
-    },
-    {
-        "id": "e44ef027ff",
-        "title_fa": "پیروزی قاطع جان اوسوف و گمانه‌زنی‌ها برای انتخابات ۲۰۲۸",
-        "title_en": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
-        "summary": [
-            "پیروزی قاطع این سناتور دموکرات در ایالت کلیدی جورجیا با ائتلافی گسترده رقم خورد.",
-            "این موفقیت انتخاباتی بلافاصله گمانه‌زنی‌ها درباره حضور او در رقابت‌های ریاست‌جمهوری ۲۰۲۸ را کلید زد."
-        ],
-        "impact": "برجسته‌سازی چهره‌های جدید در اردوگاه دموکرات‌ها برای انتخابات آینده",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/ossoffs-broad-and-decisive-senate-win-fuels-2028-speculation/ar-AA2hZaXx",
-        "clean_url": "https://www.msn.com/en-us/news/other/ossoffs-broad-and-decisive-senate-win-fuels-2028-speculation/ar-AA2hZaXx",
-        "image": "http://www.bing.com/th?id=ONUT.F1oLuucX_A0--crgjx_FNg&pid=News",
-        "timestamp": 1795352772.0
     }
 ]
