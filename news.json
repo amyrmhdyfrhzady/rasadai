@@ -1,5 +1,23 @@
 [
     {
+        "id": "fab6311d97",
+        "title_fa": "ساخت‌وساز شتابان تأسیسات زیرزمینی در ایران",
+        "title_en": "Satellite imagery reveals fast construction of new underground facility in Iran, purpose unclear",
+        "summary": [
+            "تصاویر ماهواره‌ای نشان می‌دهد روند ساخت یک مجموعه زیرزمینی جدید در نقاط نامعلومی از ایران با سرعت بالایی در جریان است.",
+            "هدف دقیق این پروژه هنوز شفاف نیست، اما حساسیت محافل امنیتی و رسانه‌های بین‌المللی را به دنبال داشته است."
+        ],
+        "impact": "این تحکات حفاظتی می‌تواند واکنش تند اسرائیل و آمریکا را در پی داشته باشد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTbHdsMHUwMk94aFdMX2ozZ0hsMk1yTFhoZk1nd0t1Ym9TVjJBT1hSeUN2YzNFb3dEbTVkRnd1MHJmOFJCZ1lMYUVXNFpDdC1XM29rbHpLWXZrZFc4TGotenZYY0dXMktqbUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTbHdsMHUwMk94aFdMX2ozZ0hsMk1yTFhoZk1nd0t1Ym9TVjJBT1hSeUN2YzNFb3dEbTVkRnd1MHJmOFJCZ1lMYUVXNFpDdC1XM29rbHpLWXZrZFc4TGotenZYY0dXMktqbUE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795644067.0
+    },
+    {
         "id": "029a8ff47e",
         "title_fa": "مسیر پیش روی ترامپ در قبال ج.ا",
         "title_en": "What Trump should do next about Iran",
@@ -5495,23 +5513,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1MyNnI4Ylc1bzgwbjU5d25lZk9mNDhiaHhWNnFWM3lFMzZJNkhMX2R6MHRWRk9Dd2FTdVFXdVRBWXpSUEFPS3Rla2NqdV9kUnZwSXBHMUpPYkNBRjI3LVFKcnQwN2tDd1Z4WkRVRkhQRjluVjdZMkEtRGlGbURtSjhQTEFDSGRYOUc2SHlDWlY0enhr",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795400338.0
-    },
-    {
-        "id": "d9169ac21d",
-        "title_fa": "هراس در وال‌استریت؛ آیا حباب هوش مصنوعی در حال ترکیدن است؟",
-        "title_en": "Stocks are tumbling. Has the AI bubble finally burst?",
-        "summary": [
-            "ریزش سنگین سهام شرکت‌های تکنولوژی، زنگ خطر را برای سرمایه‌گذاران حوزه AI به صدا درآورده است.",
-            "بازار نگران است که وعده‌های بزرگ هوش مصنوعی با واقعیت‌های سودآوری فاصله داشته باشد."
-        ],
-        "impact": "خروج احتمالی سرمایه از بازارهای پرریسک و رکود موقت در بخش فناوری‌های نوین.",
-        "tag": "بورس",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/11/23/ai-bubble-stock-market-selloff/92915438007/",
-        "clean_url": "https://www.usatoday.com/story/money/personal-finance/2026/11/23/ai-bubble-stock-market-selloff/92915438007",
-        "image": "http://www.bing.com/th?id=ONUT.Nana0iSCP4l_q_ldd47tyQ&pid=News",
-        "timestamp": 1795399800.0
     }
 ]
