@@ -19,6 +19,24 @@
         "timestamp": 1795567830.0
     },
     {
+        "id": "1869aaa5d2",
+        "title_fa": "مهاجرت یهودیان به اسرائیل و پناه گرفتن در سایه بحران‌ها",
+        "title_en": "Fleeing Persecution and Finding Home in Israel",
+        "summary": [
+            "مهاجرت افراد در حال فرار از آزار و اذیت به سمت اسرائیل ادامه دارد.",
+            "چالش‌های امنیتی و روانی این افراد برای یافتن خانه و ثبات در سرزمین‌های اشغالی برجسته شده است."
+        ],
+        "impact": "تغییرات جمعیتی و فشارهای انسانی ناشی از جریان‌های مهاجرتی جدید به سمت اسرائیل.",
+        "tag": "منطقه",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "cbn.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkpaTm1NbllSNUhNbm1UVzVYY1NhMW1pXy1NaWtET1BZS08tTnZjb0diVVYxYnU1eFJpRWVSaXlXQmxKUkRfNEtSRmtrc0Q3Qm5VMVBsWDNveS1McllQNlFUQlpvODhpaXhOY0kwRjhOUmoxdm1tWFBBM1hadjBEZlFEaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkpaTm1NbllSNUhNbm1UVzVYY1NhMW1pXy1NaWtET1BZS08tTnZjb0diVVYxYnU1eFJpRWVSaXlXQmxKUkRfNEtSRmtrc0Q3Qm5VMVBsWDNveS1McllQNlFUQlpvODhpaXhOY0kwRjhOUmoxdm1tWFBBM1hadjBEZlFEaw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795567499.0
+    },
+    {
         "id": "3639d4a9a4",
         "title_fa": "ترامپ: جنگ با ای-ران تا ژانویه تامین مالی شده است",
         "title_en": "Exclusive | Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change",
@@ -182,6 +200,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2poV3JYSVEtZHRZTmlXWXNpcUR6VEVZUnZEY01xeTB0WlhhMUVvTngyM1YwMHRieTY0R0lnMjhsWEJwa2lsY1RvNkluUXlKQ0dlZXlwR2VSdV9OSGE0RVZsNUJSTkRheno5NGJnbG1TRk9waG1CMFhCV3FadzgtbmlsQzAwd0dfZHRRMkZMWkpXcmVmMG9neVhtZUxkMUlka2tVdTdNbjRhcm5TZmY2dWw4SUs",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795553249.0
+    },
+    {
+        "id": "df4a55512a",
+        "title_fa": "افت پیش‌بینی رشد اقتصادی بوتسوانا توسط صندوق بین‌المللی پول",
+        "title_en": "IMF Sees Botswana Back to Growth in 2026, but with a Smaller Bounce",
+        "summary": [
+            "صندوق بین‌المللی پول رشد اقتصادی بوتسوانا برای سال ۲۰۲۶ را به ۳ درصد کاهش داد.",
+            "افت شدید قیمت جهانی الماس و کاهش تقاضا، فشار سنگینی بر ذخایر ارزی این کشور وارد کرده است.",
+            "بدون انجام اصلاحات ساختاری عمیق، بخش غیرمعدنی اقتصاد این کشور بسیار کند رشد خواهد کرد."
+        ],
+        "impact": "سقوط قیمت الماس زنگ خطر را برای ثبات اقتصادی و ذخایر ارزی بوتسوانا به صدا درآورده است.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/imf-sees-botswana-back-to-growth-in-2026-but-with-a-smaller/",
+        "clean_url": "https://www.briefs.co/news/imf-sees-botswana-back-to-growth-in-2026-but-with-a-smaller",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/11/imf-sees-botswana-back-to-growth-in-2026-but-with-a-smaller-.png",
+        "timestamp": 1795551600.0
     },
     {
         "id": "90073a476c",
@@ -5473,42 +5510,5 @@
         "clean_url": "https://www.ndtv.com/world-news/irans-new-missile-launcher-can-fire-2-liquid-propellant-missiles-at-once-12363376",
         "image": "http://www.bing.com/th?id=ONUT.JQ71PaOu9zNehAfOMXrtgg&pid=News",
         "timestamp": 1795344120.0
-    },
-    {
-        "id": "a4a7abc7bc",
-        "title_fa": "جنگ روانی کاخ سفید با ویدیوهای سینمایی از ایران",
-        "title_en": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips - ABC News",
-        "summary": [
-            "کاخ سفید در اقدامی غیرمعمول از ویدیوهایی ترکیبی استفاده کرده که تصاویر واقعی درگیری با ج م ه و ر ی ا س ل ا م ی را با صحنه های فیلم و بازی های ویدیویی به هم آمیخته است.",
-            "این ویدیوها با هدف بالا بردن فشار روانی و به نمایش گذاشتن آمادگی نظامی منتشر شده اند."
-        ],
-        "impact": "تشدید جنگ روانی ایالات متحده علیه ساختار نظامی حاکم بر ایران.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795341991.0
-    },
-    {
-        "id": "5594b1326e",
-        "title_fa": "قمار سنگین ایران برای شکستن محاصره دریایی آمریکا",
-        "title_en": "Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame",
-        "summary": [
-            "تهران با ریسک‌پذیری حداکثری دست به اقدام زده تا محاصره دریایی آمریکا را بشکند و معادله را به یک پایان سریع بکشاند.",
-            "فشار سنگین ناشی از انسداد خطوط مواصلاتی، گزینه تقابل مستقیم را برای خروج از بن‌بست روی میز قرار داده است.",
-            "این تحرک خطر درگیری مستقیم نظامی در آب‌های بین‌المللی را به اوج می‌رساند."
-        ],
-        "impact": "جهش آنی خطر درگیری مستقیم نظامی و افزایش شدید ریسک ترانزیت انرژی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JOVRoYUNVZVJDcERjLXExdHcyQ2x1bXVycWs5Zl9ZUTAteXZDNEFfbU02LUVHN0Fyb0VqSFVvM1RiSzlocnE1eE8xMUJWWm5yNEFmWkdiQzRBRzhGdml1Qk5UVEhBS2RjUFJONi1R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JOVRoYUNVZVJDcERjLXExdHcyQ2x1bXVycWs5Zl9ZUTAteXZDNEFfbU02LUVHN0Fyb0VqSFVvM1RiSzlocnE1eE8xMUJWWm5yNEFmWkdiQzRBRzhGdml1Qk5UVEhBS2RjUFJONi1R",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795341873.0
     }
 ]
