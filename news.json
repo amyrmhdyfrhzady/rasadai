@@ -129,6 +129,25 @@
         "timestamp": 1795567830.0
     },
     {
+        "id": "6ec754844a",
+        "title_fa": "استراتژی ترامپ: بازگشت به انرژی ارزان و فشار بر متحدان",
+        "title_en": "Trump and his friend Vladimir",
+        "summary": [
+            "ترامپ با اولویت دادن به سوخت‌های فسیلی و حذف یارانه‌های انرژی‌های تجدیدپذیر، به دنبال کاهش هزینه‌های تولید در آمریکا است.",
+            "فشار بر کشورهای دموکراتیک برای افزایش بودجه نظامی، نشان‌دهنده تغییر رویکرد واشینگتن از تامین امنیت جهانی به سمت مسئولیت‌پذیری متحدان است.",
+            "بدهی ۱۲۵ درصدی آمریکا به تولید ناخالص داخلی، پاشنه آشیل سیاست‌های مالی ترامپ است که می‌تواند در بلندمدت ثبات اقتصادی را به چالش بکشد."
+        ],
+        "impact": "تغییر اولویت‌های انرژی و نظامی آمریکا، بازارهای جهانی و تعهدات امنیتی ناتو را دگرگون می‌کند.",
+        "tag": "اقتصاد و سیاست خارجی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "The Spectator Australia",
+        "url": "https://www.spectator.com.au/2026/11/trump-and-his-friend-vladimir/",
+        "clean_url": "https://www.spectator.com.au/2026/11/trump-and-his-friend-vladimir",
+        "image": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2305167096_e1795005372244.jpg",
+        "timestamp": 1795567800.0
+    },
+    {
         "id": "1869aaa5d2",
         "title_fa": "مهاجرت یهودیان به اسرائیل و پناه گرفتن در سایه بحران‌ها",
         "title_en": "Fleeing Persecution and Finding Home in Israel",
@@ -5492,23 +5511,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLcl9PN01Nc25wUDluZGJEd1FOckFRdlJSSk40Q2hlZGFjdFU2YklKUThSSlpPUUVVdDR0LTBBbU5lSTFPMWpYczZ4d2RELTFHdUFDZlcyem9mcXRfcHprWWhXcC1FUk13WUpLakpvWE9OS3F6YU1XeklB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795349490.0
-    },
-    {
-        "id": "15d3eb235a",
-        "title_fa": "شکست مذاکرات ائتلافی نتانیاهو و آیزنکوت در اسرائیل",
-        "title_en": "Netanyahu, Eisenkot parties end talks without deal on forming Israel govt",
-        "summary": [
-            "بن‌بست سیاسی در تل‌آویو با ناکامی در تشکیل کابینه وحدت ملی تشدید شد.",
-            "اختلافات داخلی در ساختار قدرت اسرائیل، تمرکز بر پرونده‌های امنیتی و منطقه‌ای را با چالش مواجه کرده است."
-        ],
-        "impact": "بی‌ثباتی سیاسی در اسرائیل می‌تواند قدرت مانور این کشور در برابر تهدیدات منطقه‌ای را کاهش دهد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/News/middle-east/2026/11/23/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-govt",
-        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/11/23/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-govt",
-        "image": "https://vid.alarabiya.net/images/2026/11/12/aef6c151-acd3-49a6-baa0-1b7b4d671e93/aef6c151-acd3-49a6-baa0-1b7b4d671e93_16x9_600x338.jpg",
-        "timestamp": 1795349100.0
     }
 ]
