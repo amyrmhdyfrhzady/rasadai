@@ -441,6 +441,25 @@
         "timestamp": 1795558200.0
     },
     {
+        "id": "9da518f1bd",
+        "title_fa": "سقوط صادرات نفت ج.ا با تشدید محاصره دریایی آمریکا",
+        "title_en": "Iran judiciary says death sentences for two protesters were not overturned",
+        "summary": [
+            "محاصره دریایی آمریکا عملاً مسیر اصلی فروش نفت به چین را مسدود کرده است.",
+            "برخلاف سایر تولیدکنندگان منطقه که به سطح صادرات پیش از جنگ بازگشته‌اند، صادرات نفت ج.ا با افت شدید مواجه شده است.",
+            "داده‌های ردیابی نفتکش‌ها نشان می‌دهد بازار نفت اکنون به جای هیاهوی سیاسی، بر واقعیت‌های عرضه و تقاضا تمرکز کرده است."
+        ],
+        "impact": "کاهش شدید درآمدهای ارزی و فلج شدن شریان حیاتی تامین بودجه حکومت.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611253267",
+        "clean_url": "https://www.iranintl.com/en/202611253267",
+        "image": "http://www.bing.com/th?id=ONUT.f6ZQ8L-g7DjNtv7eGCgnAA&pid=News",
+        "timestamp": 1795556100.0
+    },
+    {
         "id": "e4c0df6197",
         "title_fa": "انفجار مین‌های زیرآبی زیر پای نفت‌کش‌ها در سایه اسکورت آمریکا",
         "title_en": "Iran says 3 oil tankers hit underwater mines despite US naval escort",
@@ -5492,25 +5511,6 @@
         "url": "https://www.iranintl.com/en/202611229176",
         "clean_url": "https://www.iranintl.com/en/202611229176",
         "image": "http://www.bing.com/th?id=ONUT.ZVMLoJrYVTQo01KfmyF_wg&pid=News",
-        "timestamp": 1795352760.0
-    },
-    {
-        "id": "7686a6d697",
-        "title_fa": "خیز جان آساف برای انتخابات ۲۰۲۸ آمریکا",
-        "title_en": "Ossoff's expanding coalition in Georgia fuels 2028 presidential buzz — even if he says he's not running",
-        "summary": [
-            "پیروزی قاطع آساف در جورجیا، او را به گزینه اصلی دموکرات‌ها برای رقابت‌های ریاست‌جمهوری آینده تبدیل کرده است.",
-            "نظرسنجی‌ها نشان می‌دهد آساف توانسته با جذب طیف‌های مختلف، از چهره‌های شناخته‌شده‌ای مثل هریس و نیوسام پیشی بگیرد.",
-            "با وجود تکذیب‌های فعلی، ساختار ائتلاف انتخاباتی او نشان‌دهنده برنامه‌ریزی دقیق برای ورود به کاخ سفید است."
-        ],
-        "impact": "تغییر در آرایش سیاسی حزب دموکرات و ظهور نسل جدیدی از رهبران میانه‌رو.",
-        "tag": "انتخابات",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/",
-        "clean_url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win",
-        "image": "http://www.bing.com/th?id=ONUT.QwAldqNgoVpWI5rkgyOYgw&pid=News",
         "timestamp": 1795352760.0
     }
 ]
