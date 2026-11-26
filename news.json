@@ -1,5 +1,24 @@
 [
     {
+        "id": "eda12e142a",
+        "title_fa": "عراقچی: هم آماده جنگیم، هم دیپلماسی",
+        "title_en": "Iran ready to defend itself while pursuing diplomacy, Araghchi says",
+        "summary": [
+            "عباس عراقچی مدعی شد جمهوری اسلامی همزمان برای دفاع نظامی و مذاکره آمادگی کامل دارد.",
+            "او اسرائیل را متهم کرد که با ادعای دروغین به دنبال کشودن پای آمریکا به درگیری‌های منطقه است.",
+            "تهران مدعی شد سیاست‌های واشنگتن و تل‌آویو تفاوت چندانی با یکدیگر ندارد."
+        ],
+        "impact": "تلاش مقامات ج.ا. برای ارسال سیگنال همزمان از موضع تهدید و التماس به مذاکره.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611266305",
+        "clean_url": "https://www.iranintl.com/en/202611266305",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4cd35cc8eef649282f8926a2135b8c34fbc28019-5500x3773.jpg?rect=864,0,3773,3773&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795717680.0
+    },
+    {
         "id": "142931ba78",
         "title_fa": "اعتراف پزشکیان به درماندگی در جنگ ایران و اسرائیل",
         "title_en": "Pezeshkian says he wished for death during 2025 Iran-Israel war",
@@ -5491,23 +5510,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/idfs-shock-warning-to-bibi-iran-strike-could-trigger-a-multi-front-war-across-west-asia/vi-AA2i1D6N",
         "image": "https://static.toiimg.com/thumb/msid-136097524,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1795447588.0
-    },
-    {
-        "id": "b0654fa155",
-        "title_fa": "تحریم جدید آمریکا علیه شبکه‌های انتقال پول مرتبط با ایران",
-        "title_en": "OFAC sanctions Iran-linked money services businesses",
-        "summary": [
-            "دفتر کنترل دارایی‌های خارجی (OFAC) شبکه‌های مالی وابسته به ایران را هدف قرار داد.",
-            "این اقدام با هدف قطع شریان‌های مالی و محدود کردن توانایی جابه‌جایی ارز برای پروژه‌های حساس انجام شده است."
-        ],
-        "impact": "افزایش فشار بر کانال‌های غیررسمی انتقال پول و دشوارتر شدن جابه‌جایی ارز برای نهادهای تحت تحریم.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNSejlibGVIeXhyMENOdDk0MjFnM05tVGh2OUtwS2JQNFBXalpZUURleWxIVFJJTl85dEY4YzR1SmxpbnhncVZGb1pMMVJkUUlTOGlNb0RXSXlSMndIUUg0LVRxbVFCSmhzQjdvVTR1ZV9qYUY0R1phSzZwazUyVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNSejlibGVIeXhyMENOdDk0MjFnM05tVGh2OUtwS2JQNFBXalpZUURleWxIVFJJTl85dEY4YzR1SmxpbnhncVZGb1pMMVJkUUlTOGlNb0RXSXlSMndIUUg0LVRxbVFCSmhzQjdvVTR1ZV9qYUY0R1phSzZwazUyVg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795446793.0
     }
 ]
