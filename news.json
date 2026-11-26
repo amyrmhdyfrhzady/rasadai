@@ -696,6 +696,25 @@
         "timestamp": 1795658400.0
     },
     {
+        "id": "edf453207e",
+        "title_fa": "تشدید حملات مرگبار اسرائیل در غزه و ترور معاون وزیر آموزش",
+        "title_en": "Afternoon recap: Israel kills 9 in Gaza, threatens to displace 1 million; Lebanese Army seizes captagon at Syrian border; deadly shooting in Beirut's southern suburbs",
+        "summary": [
+            "ارتش اسرائیل از ترور خالد ابو ندا، معاون وزیر آموزش غزه، در ادامه سلسله عملیات حذف چهره‌های ارشد حماس خبر داد.",
+            "تهدیدات تل‌آویو برای جابجایی یک میلیون فلسطینی نشان‌دهنده تداوم سیاست کوچ اجباری در بار بار باریکه غزه است.",
+            "ارتش لبنان نیز محموله مواد مخدر کاپتاگون را در مرز سوریه ضبط کرد که نشان‌دهنده تداوم فعالیت‌های قاچاق در مرزهای ناامن است."
+        ],
+        "impact": "گسترش ابعاد انسانی بحران غزه و تشدید فشارهای امنیتی بر مرزهای لبنان و سوریه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "L'Orient Today",
+        "url": "https://today.lorientlejour.com/article/1555743/afternoon-recap-israel-kills-9-in-gaza-threatens-to-displace-1-million-lebanese-army-seizes-captagon-at-syrian-border-deadly-shooting-in-beiruts-southern-suburbs.html",
+        "clean_url": "https://today.lorientlejour.com/article/1555743/afternoon-recap-israel-kills-9-in-gaza-threatens-to-displace-1-million-lebanese-army-seizes-captagon-at-syrian-border-deadly-shooting-in-beiruts-southern-suburbs.html",
+        "image": "https://s.lorientlejour.com/storage/attachments/1556/2026-11-24T091015Z_274299522_RC26UOA2EID2_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA_971649_564728.jpg/r/800/2026-11-24T091015Z_274299522_RC26UOA2EID2_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA_971649_564728.jpg",
+        "timestamp": 1795657080.0
+    },
+    {
         "id": "af99bcd89a",
         "title_fa": "بال گرفتن تنش‌ها میان آمریکا و سپاه در هرمز",
         "title_en": "Hormuz tensions rise as US-Iran standoff deepens",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-dangles-fast-hormuz-fix-as-trump-says-attacks-have-spiked/ar-AA2i4Akb",
         "image": "http://www.bing.com/th?id=ONUT.khI5yo428LHhi-Q2dcHj3g&pid=News",
         "timestamp": 1795436925.0
-    },
-    {
-        "id": "c7e7a9dd7b",
-        "title_fa": "جان کندی و احتمال نامزدی در انتخابات ۲۰۲۸",
-        "title_en": "John Kennedy Says He ‘Could Run’ For President In 2028 If This 1 Thing Happens",
-        "summary": [
-            "سناتور جان کندی اعلام کرد اگر از وضعیت موجود به شدت خسته شود، ممکن است در انتخابات ۲۰۲۸ نامزد شود.",
-            "با خروج احتمالی ترامپ از رقابت‌ها، چهره‌های جمهوری‌خواه در حال سنجش فضای سیاسی برای آینده هستند."
-        ],
-        "impact": "آغاز گمانه‌زنی‌ها برای جانشینی ترامپ در حزب جمهوری‌خواه.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/john-kennedy-talks-potential-2028-presidential-run_n_6b045678e4b0cf294a123354",
-        "clean_url": "https://www.huffpost.com/entry/john-kennedy-talks-potential-2028-presidential-run_n_6b045678e4b0cf294a123354",
-        "image": "http://www.bing.com/th?id=ONUT.B09Uqm3kOsoaCbYG_cUdPg&pid=News",
-        "timestamp": 1795436820.0
     }
 ]
