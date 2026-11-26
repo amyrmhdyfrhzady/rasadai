@@ -347,6 +347,25 @@
         "timestamp": 1795652573.0
     },
     {
+        "id": "7389b9bf85",
+        "title_fa": "خفه‌سازی صادرات نفت ایران؛ محاصره اقتصادی ترامپ به جای حمله نظامی",
+        "title_en": "Iran’s Basij chief calls for spreading force’s ideology worldwide",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا از خالی شدن کامل ذخایر نفتی روی آب ایران و توقف بارگیری نفتکش‌ها در راستای عملیات «مطرود اقتصادی» خبر داد.",
+            "مارکو روبیو تاکید کرد فلج شدن شریان نفتی ایران به قدری شدید بوده که ترامپ فعلاً نیازی به اجرای عملیات گسترده نظامی نمی‌بیند.",
+            "تهران پس از قطع صادرات ۱.۵ میلیون بشکه‌ای به چین، برای تامین حداقل ارز به قاچاق جاده‌ای سوخت به پاکستان و افغانستان متوسل شده است."
+        ],
+        "impact": "خشک شدن منابع درآمد ارزی رژیم و تشدید بحران تامین بودجه نیروهای نظامی و ساختار سرکوب.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611261744",
+        "clean_url": "https://www.iranintl.com/en/202611261744",
+        "image": "http://www.bing.com/th?id=ONUT.YiD3ivdQFJ9ivkR_oKklIg&pid=News",
+        "timestamp": 1795652160.0
+    },
+    {
         "id": "a21c4fa382",
         "title_fa": "پایان نفت شناور جـمـهـورۍ اسـلا‌مـی در دریا",
         "title_en": "Video: Bessent says Iran has no oil left at sea to sell",
@@ -5489,24 +5508,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/jared-kushner-s-wars/ar-AA2i26Tm",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2i2c4l.img?w=768&h=404&m=6&x=474&y=70&s=96&d=96",
         "timestamp": 1795428025.0
-    },
-    {
-        "id": "a68329675f",
-        "title_fa": "جرد کوشنر؛ مهره پنهان ترامپ در دیپلماسی جهانی",
-        "title_en": "'I Sleep Well at Night'",
-        "summary": [
-            "کوشنر بدون داشتن پست رسمی، همچنان بازوی اجرایی ترامپ در پرونده‌های حساس بین‌المللی است.",
-            "تمرکز او بر مدیریت همزمان بحران‌های جهانی نشان می‌دهد تیم ترامپ برای دور دوم احتمالی، ساختار غیررسمی و چابکی را چیده است.",
-            "میامی به مرکز ثقل سیاست خارجی ترامپ تبدیل شده و از کانال‌های خصوصی برای پیشبرد اهداف استفاده می‌شود."
-        ],
-        "impact": "تغییر احتمالی در نحوه تعاملات دیپلماتیک آمریکا با تکیه بر دیپلماسی شخصی و غیررسمی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "New York Magazine",
-        "url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html",
-        "clean_url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html",
-        "image": "https://pyxis.nymag.com/v1/imgs/d52/80e/5f19ea5ff9d4b0280d3888dcde00e18ff4-JK-NYM-E-01-FF.1x.rsocial.w1200.jpg",
-        "timestamp": 1795428000.0
     }
 ]
