@@ -1,5 +1,23 @@
 [
     {
+        "id": "6d9d65408f",
+        "title_fa": "لزوم حفظ بی‌طرفی رسانه‌ای در پوشش مناقشات بین‌المللی",
+        "title_en": "Report Allegations as Allegations, Whether the Accused Is Iran, Israel, or the US",
+        "summary": [
+            "رسانه‌ها باید ادعاهای مطرح شده علیه دولت‌ها را با احتیاط و به عنوان ادعا بازنشر کنند.",
+            "پرهیز از جهت‌گیری‌های رسانه‌ای در بحران‌های مرتبط با ایران، اسرائیل و ایالات متحده ضروری است."
+        ],
+        "impact": "کاهش اثرات منفی جنگ روانی و انتشار اخبار جعلی در فضای رسانه‌ای.",
+        "tag": "رسانه",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Jurist.org",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1N4WVNFSXRiQ3NNNHJjWVlQUGRlaU9DajZpc1JJVGYwVThfNGtzVUtMOWpuYkdIa3FzZk50a3dNTFAzVTdjMksxc1Fkb1J3dVJONmlKUTIwUk5vTUVJOHhZNlh2RFE4TEZPbkVFUFVuTm9iZ1RxTWJKR3JRRDdEdmtHT25pYjJyVXB5Q28yNEk0aVI5LTJEMzZZamJCejBxQVp5WGZmaEFRU1NXZFk3aXd3MlVGVlh2aWlJeERn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1N4WVNFSXRiQ3NNNHJjWVlQUGRlaU9DajZpc1JJVGYwVThfNGtzVUtMOWpuYkdIa3FzZk50a3dNTFAzVTdjMksxc1Fkb1J3dVJONmlKUTIwUk5vTUVJOHhZNlh2RFE4TEZPbkVFUFVuTm9iZ1RxTWJKR3JRRDdEdmtHT25pYjJyVXB5Q28yNEk0aVI5LTJEMzZZamJCejBxQVp5WGZmaEFRU1NXZFk3aXd3MlVGVlh2aWlJeERn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795659399.0
+    },
+    {
         "id": "da3a401c8a",
         "title_fa": "تهدید مقام مجلس به ناامن‌سازی صادرات نفت منطقه",
         "title_en": "Iran deputy speaker threatens regional oil exports to break US blockade",
@@ -5494,23 +5512,5 @@
         "clean_url": "https://www.iranintl.com/en/202611238666",
         "image": "http://www.bing.com/th?id=ONUT.58Y7CYjbbNjGkenoM-DtLA&pid=News",
         "timestamp": 1795412820.0
-    },
-    {
-        "id": "0b698b71d0",
-        "title_fa": "ادعای بازگشت ظرفیت تولید گاز و بحران مسمومیت در ایران",
-        "title_en": "Iran restores over half of gas output lost during war, acting oil minister says",
-        "summary": [
-            "وزیر موقت نفت مدعی بازگشت بخشی از ظرفیت تولید گاز شده است که با توجه به وضعیت زیرساخت‌ها، بیشتر یک تلاش برای آرام کردن افکار عمومی است",
-            "بحران مسمومیت با الکل تقلبی در شهرهای نیشابور، شیراز و مرودشت، نشان‌دهنده فروپاشی شدید کنترل‌های بهداشتی و اقتصادی است"
-        ],
-        "impact": "تلاش رژیم برای پوشش دادن بحران‌های داخلی با اخبار اقتصادی و مقابله با بحران‌های اجتماعی ناشی از فقر",
-        "tag": "اقتصادی/اجتماعی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611237923",
-        "clean_url": "https://www.iranintl.com/en/202611237923",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1795409820.0
     }
 ]
