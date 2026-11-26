@@ -75,6 +75,24 @@
         "timestamp": 1795717680.0
     },
     {
+        "id": "9c16cbf32d",
+        "title_fa": "پیشنهاد کمیته مشترک توسط تهران درباره حمله پهپادی",
+        "title_en": "Iran offers joint probe with Kuwait into drone strike that killed two Italians",
+        "summary": [
+            "عباس عراقچی طی تماس‌های جداگانه با همتاهای کویتی و ایتالیایی خود، استفاده از پهپاد ایرانی در این حمله را رد کرد.",
+            "تهران خواستار تشکیل تیم تحقیق مشترک برای روشن شدن منشا حمله و شناسایی عاملان آن شد."
+        ],
+        "impact": "تلاش دستگاه دیپلماسی برای کاهش فشارهای بین‌المللی پس از کشته شدن شهروندان خارجی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611269880",
+        "clean_url": "https://www.iranintl.com/en/202611269880",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4cd35cc8eef649282f8926a2135b8c34fbc28019-5500x3773.jpg?rect=864,0,3773,3773&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795716300.0
+    },
+    {
         "id": "142931ba78",
         "title_fa": "اعتراف پزشکیان به درماندگی در جنگ ایران و اسرائیل",
         "title_en": "Pezeshkian says he wished for death during 2025 Iran-Israel war",
@@ -5493,23 +5511,5 @@
         "clean_url": "https://www.msn.com/en-au/news/australia/iran-based-operation-used-ai-to-create-fake-journalists-sway-public-opinion-on-us-iran-war/ar-AA2i4Z60",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795452983.0
-    },
-    {
-        "id": "0cbac9bd7c",
-        "title_fa": "تلاش مجدد ترامپ برای انتقال پرونده قضایی به دادگاه فدرال",
-        "title_en": "Trump gets another shot in his quest to overturn hush money conviction",
-        "summary": [
-            "دونالد ترامپ فرصت جدیدی پیدا کرده تا استیناف محکومیت خود در پرونده پرداخت حق‌السکوت را به دادگاه فدرال منتقل کند.",
-            "انتقال پرونده به دادگاه فدرال می‌تواند روند بررسی را تسریع کرده و فشار قوانین ایالتی نیویورک را کاهش دهد."
-        ],
-        "impact": "تغییر مسیر حقوقی پرونده ترامپ و احتمال بی‌اثر شدن حکم ایالتی نیویورک.",
-        "tag": "آمریکا",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-gets-another-shot-in-his-quest-to-overturn-hush-money-conviction/ar-AA2i4rkE",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-gets-another-shot-in-his-quest-to-overturn-hush-money-conviction/ar-AA2i4rkE",
-        "image": "http://www.bing.com/th?id=ONUT.YU1VlxDkiymHSnIZYWnFYQ&pid=News",
-        "timestamp": 1795451695.0
     }
 ]
