@@ -1,5 +1,23 @@
 [
     {
+        "id": "69e28d03e1",
+        "title_fa": "لبنان در گرداب تشدید تنش‌های منطقه‌ای و بلاتکلیفی",
+        "title_en": "Lebanon faces growing uncertainty as regional conflict deepens",
+        "summary": [
+            "لبنان با افزایش بحران‌های امنیتی و سیاسی ناشی از درگیری‌های مرزی دست‌وپنجه نرم می‌کند.",
+            "سایه جنگ همه‌جانبه بر فراز این کشور، آینده سیاسی و اقتصادی آن را تیره‌وتار کرده است."
+        ],
+        "impact": "افزایش ریسک امنیتی و تعمیق فروپاشی اقتصادی در سراسر لبنان.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Mission Network News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEp5Y3d1bi1VZzFBM2NGcG4wal96TG9mcUwxRGxhdVFvZ0hZVjVQc1RiRWpGcG80QVUtdG5XQnVVbjR0WlJZNWxPc2V0QWxCdHFMd0l3YUw0WmpCVVB4VjFpbzVWdTF2LU5DSi11MDhXWk52Smc5WFQ0ZDh1RXNuYWNnZGNVd2R3dHpwYkJjaW9qZnUtSkNJRmFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEp5Y3d1bi1VZzFBM2NGcG4wal96TG9mcUwxRGxhdVFvZ0hZVjVQc1RiRWpGcG80QVUtdG5XQnVVbjR0WlJZNWxPc2V0QWxCdHFMd0l3YUw0WmpCVVB4VjFpbzVWdTF2LU5DSi11MDhXWk52Smc5WFQ0ZDh1RXNuYWNnZGNVd2R3dHpwYkJjaW9qZnUtSkNJRmFn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795669989.0
+    },
+    {
         "id": "ad0729b48d",
         "title_fa": "استراتژی فرسایشی ج.ا در مذاکرات برای خرید زمان",
         "title_en": "Iran Wants Negotiations Never To End",
@@ -5492,24 +5510,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-pulled-off-what-sounds-impossible-tehran-just-showed-they-have-a-missile-city-that-is-underground-building-weapons/ar-AA2i2TlW",
         "image": "http://www.bing.com/th?id=ONUT.pRYA5IYBu5hfsd7_o9x8qg&pid=News",
         "timestamp": 1795422015.0
-    },
-    {
-        "id": "eee38f5887",
-        "title_fa": "خطر جهش قیمت نفت با کاهش ذخایر استراتژیک جهان",
-        "title_en": "World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks",
-        "summary": [
-            "بازار جهانی توانسته شوک ناشی از قطع عرضه نفت ج.ا را جذب کند اما ذخایر رو به اتمام است.",
-            "کاهش ذخایر استراتژیک، جهان را در برابر هرگونه تنش جدید در خاورمیانه آسیب‌پذیر کرده است.",
-            "تداوم وضعیت فعلی می‌تواند به نوسانات شدید قیمتی در بازار انرژی منجر شود."
-        ],
-        "impact": "افزایش ریسک تورم جهانی و فشار بر اقتصادهای وابسته به انرژی در صورت تداوم تنش‌ها.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5RLWt6Unk4SkNYOXIySEZqOF8tTUs3NWNZWTRWaUEzVW5MVmNqSTJqTnY5UTZZc09EY0RlLTc3UWcyTWlFcnlLdFdQSG9WSm1RcUFwNENpcGIxQkxmZU53VkFRM3o3aWtQZDRsQ0NHR0ZsejFVdHhyR09Jb1gweU1BLVFCSE1yVnBYQmV3VDRxcEJHVGMzNXh4QTlQbmQzaUJRaVBxM2FRQ3dCX0Rz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5RLWt6Unk4SkNYOXIySEZqOF8tTUs3NWNZWTRWaUEzVW5MVmNqSTJqTnY5UTZZc09EY0RlLTc3UWcyTWlFcnlLdFdQSG9WSm1RcUFwNENpcGIxQkxmZU53VkFRM3o3aWtQZDRsQ0NHR0ZsejFVdHhyR09Jb1gweU1BLVFCSE1yVnBYQmV3VDRxcEJHVGMzNXh4QTlQbmQzaUJRaVBxM2FRQ3dCX0Rz",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795421295.0
     }
 ]
