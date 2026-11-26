@@ -19,6 +19,24 @@
         "timestamp": 1795678578.0
     },
     {
+        "id": "deb35297bb",
+        "title_fa": "اتحادیه اروپا به دنبال اقدام سخت‌تر علیه هکرهای ایرانی",
+        "title_en": "From Russian athletes to Iranian hackers: EU weighs tougher action",
+        "summary": [
+            "بروکلین و کشورهای عضو اتحادیه اروپا بررسی تحریم‌ها و مجازات‌های جدید علیه عوامل سایبری وابسته به ج.ه. را در دستور کار قرار داده‌اند.",
+            "این فشارها در راستای مقابله با عملیات‌های نفوذ و حملات دیجیتالی منتسب به نهادهای امنیتی داخلی تشدید می‌شود."
+        ],
+        "impact": "افزایش انزوای دیجیتالی و اعمال محدودیت‌های سنگین‌تر بر ضد افراد و نهادهای سایبری مرتبط با حکومت.",
+        "tag": "سایبری",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "EU Perspectives",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZXBGNHM5Q3VDd2JNYVhxRWZtbFJFV3hHRDdMRTVSaTExT19GQUYtS2drY0daTXdnRlJ6d1Y0Z0tKa182blRJNmppbUZQdG9ZdHNJekdwenAwMURIQldPSmIxWjRJMDJyTDhwTmR5UEdGTTZrdGowd3ZVdnF4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZXBGNHM5Q3VDd2JNYVhxRWZtbFJFV3hHRDdMRTVSaTExT19GQUYtS2drY0daTXdnRlJ6d1Y0Z0tKa182blRJNmppbUZQdG9ZdHNJekdwenAwMURIQldPSmIxWjRJMDJyTDhwTmR5UEdGTTZrdGowd3ZVdnF4dw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795677415.0
+    },
+    {
         "id": "6bb3a90c42",
         "title_fa": "عراقچی: اسرائیل به دنبال کشاندن آمریکا به جنگ است",
         "title_en": "Araghchi: Israel’s chemical weapons claims aim to drag US into another war",
@@ -5490,23 +5508,5 @@
         "clean_url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html",
         "image": "https://pyxis.nymag.com/v1/imgs/d52/80e/5f19ea5ff9d4b0280d3888dcde00e18ff4-JK-NYM-E-01-FF.1x.rsocial.w1200.jpg",
         "timestamp": 1795428000.0
-    },
-    {
-        "id": "08d1fe53b0",
-        "title_fa": "عقب‌نشینی کنست از طرح جنجالی تغییرات رسانه‌ای",
-        "title_en": "Knesset committee elects Yashar's Ben Ari to lead repeal of Karhi's media overhaul",
-        "summary": [
-            "کمیته موقت کنست با رای قاطع، کنترل روند لغو طرح جنجالی وزیر ارتباطات را به مِراو بن آری سپرد.",
-            "این تصمیم پس از بحث‌های نفس‌گیر و تنش‌زا در پارلمان اسرائیل نهایی شد."
-        ],
-        "impact": "تلاش دولت برای اعمال کنترل بیشتر بر رسانه‌ها با موانع جدی قانونی مواجه شده است.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/knesset-committee-elects-yashars-ben-ari-to-lead-repeal-of-karhis-media-overhaul/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/knesset-committee-elects-yashars-ben-ari-to-lead-repeal-of-karhis-media-overhaul",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261111CG316-640x400.jpg",
-        "timestamp": 1795427460.0
     }
 ]
