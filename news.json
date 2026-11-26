@@ -364,6 +364,25 @@
         "timestamp": 1795660706.0
     },
     {
+        "id": "3e897ec077",
+        "title_fa": "فلج شدن صادرات نفت ایران با فشار حداکثری واشنگتن",
+        "title_en": "Belgian defense minister condemns Iran’s flogging sentences and executions",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا اعلام کرد مخازن شناور نفت جـمهوری اسـلامی کاملاً تخلیه شده و صادرات دریایی متوقف شده است.",
+            "مقام‌های آمریکایی تأثیر تحریم‌های نفتی را به قدری سنگین دانستند که نیاز به اقدام نظامی مستقیم را منتفی کرده است.",
+            "فروش محدود فرآورده‌های نفتی به کشورهای همسایه از طریق زمینی به دلیل مسدود شدن مسیرهای اصلی در دستور کار قرار گرفته است."
+        ],
+        "impact": "قطع شریان‌های درآمدی نفت، اقتصاد حاکمیت را در آستانه فروپاشی کامل و کمبود شدید منابع ارزی قرار داده است.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611262069",
+        "clean_url": "https://www.iranintl.com/en/202611262069",
+        "image": "http://www.bing.com/th?id=ONUT.nTgheWsIvw9iIpaSFuNE4Q&pid=News",
+        "timestamp": 1795659660.0
+    },
+    {
         "id": "2df2bc3be7",
         "title_fa": "محاصره مالی شبکه‌های وابـسـتـه بـه جـمـهـوری اسـلامـی در خلیج فارس",
         "title_en": "Gulf States Launch Financial Crackdown on Iran and Hizbullah Networks",
@@ -417,6 +436,25 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-strait-of-hormuz-crisis-donald-trump-iran-tensions-oil-tanker-fires-saudi-houthi-threats-scott-bessent-global-oil-supply-fears-liveblog-156558802",
         "image": "http://www.bing.com/th?id=ONUT.1C9vea50r6hXE4M06jvyvA&pid=News",
         "timestamp": 1795658880.0
+    },
+    {
+        "id": "b6162a84eb",
+        "title_fa": "افشای مسیرهای قاچاق تسلیحات و مواد مخدر سـپاه در سوریه",
+        "title_en": "نیروی دریایی سپاه پاسداران از انفجار ۲ نفتکش در شمال بندر خصب خبر داد",
+        "summary": [
+            "سنتکام از توقیف محموله تسلیحاتی ارسالی سـپاه به مقصد لبنان در خاک سوریه خبر داد.",
+            "با سقوط حکومت اسد، تهران به دنبال یافتن مسیرهای دریایی و زمینی جایگزین برای تجهیز نیابتی‌هاست.",
+            "گزارش‌ها حاکی از نقش داشتن نهادهای نظامی در قاچاق گسترده مواد مخدر نظیر کپتاگون به مرزهای لبنان است."
+        ],
+        "impact": "بسته شدن مسیرهای سنتی انتقال سلاح، شبکه نیابتی جـمهوری اسـلامی را در تنگنای شدید لجستیکی قرار داده است.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611262624",
+        "clean_url": "https://www.iranintl.com/202611262624",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795658520.0
     },
     {
         "id": "0ac8187748",
@@ -5472,41 +5510,5 @@
         "clean_url": "https://www.businessinsider.com/jensen-huang-return-reactions-2026-11",
         "image": "http://www.bing.com/th?id=ONUT.n4slFxH0i-ovc0Ppw5KMkA&pid=News",
         "timestamp": 1795432680.0
-    },
-    {
-        "id": "36a23b9028",
-        "title_fa": "تلاش مذبوحانه ونس برای بازگشت به دایره قدرت ترامپ",
-        "title_en": "Vance Wants Credit for Reinstating Huang, Too",
-        "summary": [
-            "ونس پس از ریزش محبوبیت، در حال عقب‌نشینی از مواضع قبلی خود درباره جنگ ایران است.",
-            "ترامپ به دنبال جایگزین‌های کارآمدتر مانند مارکو روبیو برای آینده سیاسی خود است."
-        ],
-        "impact": "تزلزل در جایگاه ونس نشان‌دهنده بی‌ثباتی در حلقه نزدیکان ترامپ است.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "New York Magazine",
-        "url": "https://nymag.com/intelligencer/article/jd-vance-wants-credit-for-reinstating-huang-too.html",
-        "clean_url": "https://nymag.com/intelligencer/article/jd-vance-wants-credit-for-reinstating-huang-too.html",
-        "image": "http://www.bing.com/th?id=ONUT.54XB0uttLYo7xN3SrfF1sg&pid=News",
-        "timestamp": 1795432260.0
-    },
-    {
-        "id": "a6628ed009",
-        "title_fa": "استعفای رئیس حزب جمهوری‌خواه در پی شکست‌های انتخاباتی",
-        "title_en": "DuPage County GOP Chair Kevin Coyne stepping down",
-        "summary": [
-            "کوین کاین در پی ناکامی‌های گسترده جمهوری‌خواهان در انتخابات، از سمت خود کناره‌گیری کرد.",
-            "این استعفا نشان‌دهنده بحران در بدنه حزبی و نیاز به تغییرات ساختاری است."
-        ],
-        "impact": "تضعیف سازماندهی محلی حزب جمهوری‌خواه در مناطق کلیدی پس از شکست‌های اخیر.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/11/23/citing-election-losses-coyne-stepping-down-as-dupage-gop-chair/",
-        "clean_url": "https://www.chicagotribune.com/2026/11/23/citing-election-losses-coyne-stepping-down-as-dupage-gop-chair",
-        "image": "http://www.bing.com/th?id=ONUT.vN3Tbj-Ubi38ivHrjq7SFw&pid=News",
-        "timestamp": 1795432020.0
     }
 ]
