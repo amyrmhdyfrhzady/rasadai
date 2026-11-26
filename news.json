@@ -1,5 +1,23 @@
 [
     {
+        "id": "da3a401c8a",
+        "title_fa": "تهدید مقام مجلس به ناامن‌سازی صادرات نفت منطقه",
+        "title_en": "Iran deputy speaker threatens regional oil exports to break US blockade",
+        "summary": [
+            "حمیدرضا حاجی‌بابایی اعتراف کرد که راه شکستن تحریم‌ها، ناامن کردن صادرات نفت دیگر کشورهای منطقه است.",
+            "مقامات حکومت جنگ اقتصادی آمریکا را شکست‌ناپذیری در حوزه نظامی می‌دانند."
+        ],
+        "impact": "افزایش تنش‌های منطقه‌ای با تهدید مستقیم امنیت انرژی همسایگان.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611262658",
+        "clean_url": "https://www.iranintl.com/en/202611262658",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ef68c34646655ae11b31c871126d35117b7b8c1a-800x533.jpg?w=576&h=384&q=90&fit=max&auto=format",
+        "timestamp": 1795655760.0
+    },
+    {
         "id": "e1110006c8",
         "title_fa": "گزارش ایران‌اینترنشنال از آمادگی شبه‌نظامیان عراقی برای درگیری احتمالی",
         "title_en": "Iran-backed Iraqi militia prepares for renewed US-Iran war, report says",
@@ -328,6 +346,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xc1NWR1YwcE4zRFRxaG1SWUZBOGZ2RHRBbGdnaW1PM2xCUFZURGdHTVJUajJEU1Q4cG5iN2ltNHlORGw5RWp0UTdVOFN0V0VvUDEzLUFn",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795632767.0
+    },
+    {
+        "id": "d188cc4543",
+        "title_fa": "نفوذ بیشتر کتائب حزب‌الله در ساختار نظامی عراق",
+        "title_en": "Iran-backed Kataib Hezbollah integrates 2,000 fighters into Iraqi state forces – ISW",
+        "summary": [
+            "دو هزار نیروی شبه‌نظامی وابسته به کتائب حزب‌الله وارد تیپ‌های رسمی الحشد الشعبی شدند.",
+            "انتقال تجهیزات نظامی به الانبار و کربلا نشان‌دهنده آماده‌باش این گروه برای درگیری‌های احتمالی است.",
+            "دولت عراق عملاً کنترلی بر مناطق تحت نفوذ این شبه‌نظامیان ندارد."
+        ],
+        "impact": "تثبیت جایگاه گروه‌های نیابتی در بدنه رسمی دولت عراق برای مقابله با خطرات احتمالی.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611264437",
+        "clean_url": "https://www.iranintl.com/en/202611264437",
+        "image": "http://www.bing.com/th?id=ONUT.GscCqkTvn7mYl091vsP8jg&pid=News",
+        "timestamp": 1795626000.0
     },
     {
         "id": "cce7aab8d5",
@@ -5475,43 +5512,5 @@
         "clean_url": "https://www.iranintl.com/en/202611237923",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1795409820.0
-    },
-    {
-        "id": "6ee8c3c477",
-        "title_fa": "نزدیک شدن به مهلت حیاتی در بحران ایران و آمریکا",
-        "title_en": "Pivotal US-Iran war deadline approaches with no end in sight for conflict",
-        "summary": [
-            "نزدیک شدن به ضرب‌الاجل‌های تعیین‌شده میان واشنگتن و تهران، احتمال درگیری را بیش از هر زمان دیگری بالا برده است.",
-            "هیچ سیگنالی مبنی بر کاهش تنش یا تمایل طرفین به عقب‌نشینی دیده نمی‌شود و افق دیپلماسی تاریک است.",
-            "پایان مهلت‌های فعلی می‌تواند کلید آغاز فاز جدیدی از فشارهای حداکثری یا تحرکات نظامی مستقیم باشد."
-        ],
-        "impact": "جهش مجدد ریسک جنگ، بازار ارز تهران را متلاطم کرده و نیروهای منطقه‌ای را به حالت آماده‌باش کامل برده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "DD News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2JTc1RHY1J2eUpqS1liM05mWDJuQXVlU1pBTm9aaXZhZlBPaURvaTkwNkprdGhYMWNXbUlxTkNjWmtXcG5YZzQ3cHhrczJ2a21BcEhVLUtEa0otZ0JHcGw0ckQwZlFpanBGeTdMd3VzamdJbFBOcHJsVjBRUzRyV2JiSmJRdXFhYUxPTnJwNG1oRFlmNURWWFlPVENfd00y?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2JTc1RHY1J2eUpqS1liM05mWDJuQXVlU1pBTm9aaXZhZlBPaURvaTkwNkprdGhYMWNXbUlxTkNjWmtXcG5YZzQ3cHhrczJ2a21BcEhVLUtEa0otZ0JHcGw0ckQwZlFpanBGeTdMd3VzamdJbFBOcHJsVjBRUzRyV2JiSmJRdXFhYUxPTnJwNG1oRFlmNURWWFlPVENfd00y",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795408009.0
-    },
-    {
-        "id": "d3b1cc5a87",
-        "title_fa": "تعویق احتمالی حملات ترامپ به ایران زیر فشار دیپلماسی",
-        "title_en": "Trump weighs postponing Iran strikes amid Israeli pressure and diplomatic push",
-        "summary": [
-            "دونالد ترامپ با وجود اصرار بنیامین نتانیاهو برای اقدام نظامی مشترک، حمله به ایران را فعلا دستکم یک هفته به تعویق انداخت.",
-            "اختلاف‌نظر در واشنگتن و تلاش میانجی‌گران منطقه‌ای برای احیای مذاکرات، عامل اصلی مکث موقت کاخ سفید است.",
-            "نتانیاهو به دنبال یک عملیات سریع و سنگین برای فروپاشی ساختار سیاسی جـمهوری اسـلامی است."
-        ],
-        "impact": "سایه سنگین دیپلماسی موقتاً سایه جنگ را کمرنگ کرده اما تنش‌ها همچنان بالاست.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611231814",
-        "clean_url": "https://www.iranintl.com/en/202611231814",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/f10928cf674b347d5b1de017f3be862082834f4c-1280x853.jpg?rect=240,49,760,760&w=200&h=200&q=90&fit=crop&auto=format",
-        "timestamp": 1795407840.0
     }
 ]
