@@ -437,6 +437,25 @@
         "timestamp": 1795655760.0
     },
     {
+        "id": "73b2a4f108",
+        "title_fa": "افشای مسیرهای قاچاق سلاح س--پ--ا--ه پس از سقوط سوریه",
+        "title_en": "فرمانده نیروی دریایی سپاه:شرق و غرب تنگه هرمز تحت «کنترل کامل» سپاه قرار دارد",
+        "summary": [
+            "سنتکام از توقیف محموله تسلیحاتی ارسالی س--پ--ا--ه به مقصد لبنان خبر داد.",
+            "با سقوط حکومت بشار اسد، مسیرهای انتقال سلاح برای نیابتی‌ها دچار اختلال جدی شده است.",
+            "گزارش‌ها از تلاش تهران برای یافتن راه‌های جایگزین دریایی و زمینی برای تجهیز نیروهای خود حکایت دارند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره تسلیحاتی و قطع شریان‌های حیاتی گروه‌های نیابتی در منطقه.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611267696",
+        "clean_url": "https://www.iranintl.com/202611267696",
+        "image": "http://www.bing.com/th?id=ONUT.juX1Z8shyUN3mR2bCmCBQA&pid=News",
+        "timestamp": 1795653540.0
+    },
+    {
         "id": "e1110006c8",
         "title_fa": "گزارش ایران‌اینترنشنال از آمادگی شبه‌نظامیان عراقی برای درگیری احتمالی",
         "title_en": "Iran-backed Iraqi militia prepares for renewed US-Iran war, report says",
@@ -5488,23 +5507,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-to-make-rare-statement-to-press-at-knesset-ahead-of-likud-party-meeting",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261118YS51.jpg",
         "timestamp": 1795430820.0
-    },
-    {
-        "id": "d5793aa80d",
-        "title_fa": "برنامه جدید اسرائیل برای پاکسازی شهرهای عرب‌نشین از سلاح و تبهکاران",
-        "title_en": "Knesset panel approves committees on Arab crime, socioeconomic equality, attorney general law",
-        "summary": [
-            "منصور عباس حالا مسئول مستقیم جمع‌کردن بساط مافیای اسلحه و باج‌گیرها در شهرهای عرب‌نشین شده است.",
-            "دولت اسرائیل با این حرکت می‌خواهد شکاف امنیتی در مناطق حاشیه‌ای را پر کند و کنترل پلیس را بر محله‌های بحرانی برگرداند."
-        ],
-        "impact": "تلاش برای بستن حفره‌های امنیتی داخلی و کاهش نفوذ گروه‌های مسلح غیرقانونی.",
-        "tag": "سیاست داخلی",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-approves-committees-on-arab-crime-socioeconomic-equality-attorney-general-law/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-approves-committees-on-arab-crime-socioeconomic-equality-attorney-general-law",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261123YS13.jpg",
-        "timestamp": 1795430580.0
     }
 ]
