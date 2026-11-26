@@ -496,6 +496,24 @@
         "timestamp": 1795658460.0
     },
     {
+        "id": "1de4b01c7a",
+        "title_fa": "شکست هوش مصنوعی در جنگ با جـ.ـمهوری اسـ.ـلامی",
+        "title_en": "How Trump’s Iran War Was Betrayed by AI",
+        "summary": [
+            "استفاده از سیستم‌های خودکار و هوش مصنوعی پیشرفته در حملات اولیه علیه جـ.ـمهوری اسـ.ـلامی نتوانست به نتیجه نهایی و قطعی منجر شود.",
+            "با وجود ضربات سنگین روزهای اول و از بین رفتن مقامات ارشد، ساختار قدرت باقی‌مانده همچنان به مقابله و ضربه زدن به منافع آمریکا ادامه می‌دهد."
+        ],
+        "impact": "تکنولوژی بالا و سیستم‌های هوشمند نیز نتوانستند پرونده جـ.ـمهوری اسـ.ـلامی را به سرعت ببندند.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/how-trumps-iran-war-was-betrayed-by-ai-12765338",
+        "clean_url": "https://www.newsweek.com/how-trumps-iran-war-was-betrayed-by-ai-12765338",
+        "image": "http://www.bing.com/th?id=ONUT.JDNy7c-F_6OgOoBLSiScWg&pid=News",
+        "timestamp": 1795658400.0
+    },
+    {
         "id": "af99bcd89a",
         "title_fa": "بال گرفتن تنش‌ها میان آمریکا و سپاه در هرمز",
         "title_en": "Hormuz tensions rise as US-Iran standoff deepens",
@@ -5493,24 +5511,5 @@
         "clean_url": "https://www.baltimoresun.com/2026/11/23/former-hegseth-chief-of-staff-says-its-time-for-pete-to-call-it-quits",
         "image": "http://www.bing.com/th?id=ONUT.X675xhkj5mjMFvy6Wr674g&pid=News",
         "timestamp": 1795433520.0
-    },
-    {
-        "id": "9854fcea47",
-        "title_fa": "افزایش تنش‌ها و درگیری‌ها در تنگه هرمز و یمن",
-        "title_en": "Iran and US trade threats to return to all-out war as tankers burn in Hormuz",
-        "summary": [
-            "حملات هوایی به بندر الحدیده یمن تلفات سنگینی برجای گذاشت و گروه های حوثی وابسته به تـهرآن را هدف قرار داد.",
-            "همزمان با این درگیری‌ها، موشک بالستیک شلیک شده به سمت سواحل دریای سرخ توسط ائتلاف سعودی رهگیری شد.",
-            "منطقه نفتی و تاسیسات حیاتی عربستان بار دیگر هدف حملات پهپادی و موشک‌های نیابتی قرار گرفت."
-        ],
-        "impact": "تشدید حملات در یمن و خلیج فارس امنیت مسیرهای انرژی و نفتکش‌ها را به‌شدت به خطر انداخته است.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-and-us-trade-threats-tankers-burn-hormuz",
-        "clean_url": "https://www.newarab.com/news/iran-and-us-trade-threats-tankers-burn-hormuz",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2305821469.jpeg?itok=SQiipTqo",
-        "timestamp": 1795433400.0
     }
 ]
