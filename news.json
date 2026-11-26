@@ -18,6 +18,25 @@
         "timestamp": 1795667431.0
     },
     {
+        "id": "360dfa9b5c",
+        "title_fa": "فلج شدن صادرات نفت جـ.ا. با فشار حداکثری واشنگتن",
+        "title_en": "Oil prices rise as Houthis claim refinery attack, Iran reports mine strikes in Hormuz",
+        "summary": [
+            "خزانه‌داری آمریکا اعلام کرد مخازن نفت شناور جـ.ا. کاملاً تخلیه شده و هیچ نفت‌کشی بارگیری نشده است.",
+            "مارکو روبیو تاکید کرد خسارت اقتصادی بلوکه کردن فروش نفت آن‌قدر سنگین بوده که ترامپ فعلاً نیازی به اقدام نظامی بزرگ نمی‌بیند.",
+            "صادرات نفت به چین کاملاً متوقف شده و جـ.ا. ناچار به فروش قطره‌چکانی فرآورده‌ها از طریق مرز زمینی به پاکستان و افغانستان شده است."
+        ],
+        "impact": "قطع کامل شریان‌های اصلی درآمد ارزی و زمین‌گیر شدن اقتصاد نفتی حکومت.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611261840",
+        "clean_url": "https://www.iranintl.com/en/202611261840",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795666500.0
+    },
+    {
         "id": "82e50bd2d6",
         "title_fa": "اختلاف در تل‌آویو درباره زمان‌بندی اقدام نظامی علیه تهران",
         "title_en": "Eisenkot sees no urgency to strike Iran, Netanyahu pushes for renewed war",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://time.com/article/2026/11/23/thanksgiving-set-to-cost-americans-more-this-year-farm-bureau",
         "image": "http://www.bing.com/th?id=ONUT.xc_2yzwT9jZnyT44e8IkRA&pid=News",
         "timestamp": 1795420260.0
-    },
-    {
-        "id": "d628d53065",
-        "title_fa": "شکست حملات اخیر و بحران قطعی برق در داخل",
-        "title_en": "Middle East latest: New attacks have failed, claims Trump, as Iran imposes power cuts",
-        "summary": [
-            "دونالد ترامپ از شکست حملات اخیر علیه منافع آمریکا خبر داده است.",
-            "همزمان با تشدید فشارهای خارجی، بحران فرسودگی شبکه انرژی باعث اعمال قطعی گسترده برق در شهرهای مختلف شده است."
-        ],
-        "impact": "فلج شدن بخش‌هایی از اقتصاد داخلی همزمان با بالا گرفتن فشارهای نظامی و امنیتی.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The National",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795419927.0
     }
 ]
