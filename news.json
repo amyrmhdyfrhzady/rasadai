@@ -1,5 +1,24 @@
 [
     {
+        "id": "4377bba72a",
+        "title_fa": "خودتحریمی‌های داخلی، اقتصاد ج.ا را به لبه پرتگاه رساند",
+        "title_en": "Iran-backed Houthi attack on Saudi oil refinery kills one worker, injures several",
+        "summary": [
+            "سیاست‌های سخت‌گیرانه ارزی، بانکی و گمرکی، فعالیت کسب‌وکارها را فلج کرده است.",
+            "مقامات داخلی اعتراف می‌کنند که مشکل اصلی کشور کمبود منابع نیست، بلکه مدیریت ضعیف است.",
+            "تولیدکنندگان داخلی در جنگ بقا برای دسترسی به ارز و مواد اولیه قرار دارند."
+        ],
+        "impact": "فشار هم‌زمان تحریم‌های خارجی و خودتحریمی‌های داخلی، زنجیره تأمین و تولید را به سمت ورشکستگی کامل می‌برد.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611266242",
+        "clean_url": "https://www.iranintl.com/en/202611266242",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/2f40c877463496aad550c9a1f82e0663cdcecd08-993x666.png?rect=0,3,993,661&w=320&h=213&q=90&fit=max&auto=format",
+        "timestamp": 1795728900.0
+    },
+    {
         "id": "c5037e7df5",
         "title_fa": "گسترش تاسیسات غنی‌سازی اورانیوم در کره شمالی",
         "title_en": "North Korea has finished the shell of a bigger uranium enrichment hall at Yongbyon",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcl92Y29hNERhYVpFcUpMTzVwQllhZ3lIZHFWdVlpY2ZxWkhuWHl3QlhNMUtpRkdPRDk4cVMyaDlMcG5WaFp0STNyalpHeEFPSmVQbmpNYVNSM1JFYzBUWTVGX1RSWnplMzduWHdTclZSeG12MldZTGJGVlYyUElZbmdoRlpncVhkU2RSWTBXX0t6SnUzUlk5dTZSTUt4SkVVTXhuMTFQU0lzZkZNM09DcXdhazJWMW1zZG1yeGw2b1E2YVhMaExqcU9LeWxtRzBVY1FjQnhoclI4T2k4YXVXdTNQSldndUpsRmJIZy1WQUx1VWRVSU1HTUpiMVFBWW91M2xMMVRteXBjNkxjdjdYUzdzWDhyYTcxNS02Ulk0SG0wYUN2RzdB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795453980.0
-    },
-    {
-        "id": "9bc837934b",
-        "title_fa": "سنجش افکار عمومی درباره احتمال درگیری با ایران",
-        "title_en": "How popular is the Iran War?",
-        "summary": [
-            "بحث‌ها پیرامون هزینه‌ها و پیامدهای یک جنگ احتمالی در فضای تحلیلی غرب بالا گرفته است.",
-            "افکار عمومی در آمریکا نسبت به درگیری نظامی مستقیم با ج.ا به دلیل ترس از بی‌ثباتی منطقه و قیمت انرژی، دوپاره است."
-        ],
-        "impact": "فشار بر تصمیم‌گیرندگان کاخ سفید برای انتخاب بین دیپلماسی یا اقدام نظامی مستقیم.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Silver Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795453560.0
     }
 ]
