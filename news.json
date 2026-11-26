@@ -218,6 +218,25 @@
         "timestamp": 1795659399.0
     },
     {
+        "id": "0ac8187748",
+        "title_fa": "اعتراف رئیس‌جمهور به بحران مالی و قطع یارانه نان",
+        "title_en": "Iranian President Admits Economic Hardship: \"We Have No Money\" and Cuts Bread Subsidies",
+        "summary": [
+            "مسعود پزشکیان در تلویزیون دولتی صراحتاً اعلام کرد که کشور با خزانه‌ای خالی و بدون پول روبه‌رو است.",
+            "فشار تحریم‌های دریایی آمریکا و بن‌بست در مذاکرات، حاکمیت را به اعتراف رسمی وادار کرده است.",
+            "رئیس‌جمهور وضعیت کنونی را جنگی خاموش و بسیار سخت‌تر از درگیری نظامی توصیف کرد."
+        ],
+        "impact": "تشدید فشارهای معیشتی بر مردم و افزایش خطر فروپاشی اقتصادی به دلیل اتمام منابع مالی حاکمیت.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "SBS News",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008865300",
+        "clean_url": "https://news.sbs.co.kr/english/article.do",
+        "image": "https://img.sbs.co.kr/newimg/news/20260830/202217234_1280.jpg",
+        "timestamp": 1795658460.0
+    },
+    {
         "id": "af99bcd89a",
         "title_fa": "بال گرفتن تنش‌ها میان آمریکا و سپاه در هرمز",
         "title_en": "Hormuz tensions rise as US-Iran standoff deepens",
@@ -5488,25 +5507,5 @@
         "clean_url": "https://www.algemeiner.com/2026/11/23/irans-new-ai-surveillance-network-raises-fears-crackdown-anti-regime-protests-gain-momentum",
         "image": "https://www.algemeiner.com/wp-content/uploads/2026/01/2026-01-21T145640Z_2_LYNXMPEM0K12C_RTROPTP_4_IRAN-ECONOMY-PROTESTS-VICTIMS-1.jpg",
         "timestamp": 1795424880.0
-    },
-    {
-        "id": "43c9a620d2",
-        "title_fa": "گزارش گیت‌وی پاندیت از حمله به ریاض و هشدار ترامپ",
-        "title_en": "Iran Is ‘More Aggressive Now Than Before the Election,’ Trump Says, as Houthis Hit Riyadh’s Tallest Skyscraper",
-        "summary": [
-            "به گزارش وب‌سایت گیت‌وی پاندیت، نیروهای حوثی یمن که این رسانه آن‌ها را مورد حمایت ایران معرفی می‌کند، در ۱۹ نوامبر برج صندوق سرمایه‌گذاری عمومی در ریاض را هدف قرار دادند که به گفته عربستان سعودی خسارات مالی بدون تلفات جانی بر جای گذاشت.",
-            "وزارت امور خارجه عربستان سعودی اعلام کرد که این کشور بر حق کامل و قانونی خود برای اتخاذ تمامی اقدامات لازم جهت دفاع از حاکمیتش تأکید دارد.",
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، در ۲۲ نوامبر به شبکه فاکس‌نیوز گفت در صورت نرسیدن به توافق با تهران، مایل به صدور دستور حمله نظامی علیه ایران پس از سال نو است و مذاکره‌کنندگان ایرانی را به وقت‌کشی متهم کرد.",
-            "در سوی دیگر، کاظم غریب‌آبادی، معاون وزیر امور خارجه ایران، در ۲۱ نوامبر و پس از دیدار با میانجی‌های قطری اظهار داشت که تهران همچنان آماده گفتگو است و رایزنی‌های لازم را انجام می‌دهد."
-        ],
-        "impact": "بر اساس گزارش گیت‌وی پاندیت، حمله به پایتخت عربستان و هشدار نظامی رئیس‌جمهور آمریکا در کنار ادامه رایزنی‌های قطر، تنش‌های دیپلماتیک و امنیتی منطقه را تشدید کرده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Gateway Pundit",
-        "url": "https://www.thegatewaypundit.com/2026/11/iran-is-more-aggressive-now-than-before-election/",
-        "clean_url": "https://www.thegatewaypundit.com/2026/11/iran-is-more-aggressive-now-than-before-election",
-        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/11/screenshot-2026-11-23-211647-1200x630.png",
-        "timestamp": 1795423200.0
     }
 ]
