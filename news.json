@@ -18,6 +18,25 @@
         "timestamp": 1795698443.0
     },
     {
+        "id": "c5974ad621",
+        "title_fa": "فشار حداکثری واشنگتن صادرات نفت تدریجی ج.ا را به صفر رساند",
+        "title_en": "Germany arrests two members of pro-Iranian group over synagogue plot",
+        "summary": [
+            "مخازن شناور نفت ج.ا کاملاً تخلیه شده و هیچ نفتکشی از زمان شروع عملیات جدید آمریکا بارگیری نشده است.",
+            "آمریکا اعلام کرد خسارت اقتصادی تحریم‌ها به قدری سنگین بوده که نیاز به اقدام نظامی بزرگ نیست.",
+            "صادرات نفت به چین پیش از بلوکه‌سازی دریایی حدود یک میلیون و پانصد هزار بشکه در روز بود که اکنون به شدت محدود شده است."
+        ],
+        "impact": "فلج شدن کامل شریان‌های اصلی صادرات انرژی و قطع درآمدهای ارزی کلیدی ج.ا",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611265163",
+        "clean_url": "https://www.iranintl.com/en/202611265163",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4cd35cc8eef649282f8926a2135b8c34fbc28019-5500x3773.jpg?rect=864,0,3773,3773&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795696800.0
+    },
+    {
         "id": "3a9523c8ec",
         "title_fa": "پمپاژ کیسه‌های دلار به بازار برای مهار سقوط ریال",
         "title_en": "Unknown forces send Iran dollars in sacks",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdUx1TDlHVFhUajVkd3VLN2YxLU9pVXNNRFV2WTVfazlwTW9EcU1iN29wVUcwcFcySkJ6WVdndVU1ZWZrNHJFdWZ4ckYtN0RVaU1XYnlJdWF2NGg2OHZqdk50eWRBVEhMa0hnc3N2SHRyQ0hTNmRVZWU4Nmp5ajhpSklrQlc5cGt3UUR4N2lOSm9PMWxUb1RuX0I4TmRjbFRUcHpWb3RhcmRRbV9qZmR5c2FmMW1BZ2U3UkwxODVaNGUtQTJZdjJqRVpYV0lDdw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795434878.0
-    },
-    {
-        "id": "ceff599cee",
-        "title_fa": "شکست استراتژی ترامپ در برابر محور روسیه-چین-ایران",
-        "title_en": "Trump should take a page from Reagan on facing adversaries | GUEST COMMENTARY",
-        "summary": [
-            "دیپلماسی ترامپ برخلاف ریگان، به جای مهار رقبا، باعث تقویت همکاری‌های نظامی آن‌ها شده است.",
-            "حمایت‌های فنی چین و روسیه از پهپادها و موشک‌های ج.ا، امنیت نیروهای آمریکایی را هدف گرفته است."
-        ],
-        "impact": "سیاست خارجی فعلی، تهدیدات علیه پایگاه‌های آمریکا را به دلیل اتحاد استراتژیک رقبا افزایش داده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/11/23/trump-reagan-russia-china/",
-        "clean_url": "https://www.baltimoresun.com/2026/11/23/trump-reagan-russia-china",
-        "image": "http://www.bing.com/th?id=ONUT.aZ385uHOB7dVn_M1d8fLBQ&pid=News",
-        "timestamp": 1795434600.0
     }
 ]
