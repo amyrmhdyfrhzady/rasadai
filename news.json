@@ -18,6 +18,25 @@
         "timestamp": 1795669524.0
     },
     {
+        "id": "96e99c55b2",
+        "title_fa": "فشار تحریم‌ها؛ قطع کامل صادرات نفت ای-ر-ا-ن",
+        "title_en": "EasyJet annual profit plunges 89% as Iran war drives up fuel costs",
+        "summary": [
+            "موج سنگین تحریم‌های نفتی آمریکا، درآمدهای انرژی حکومت را به شدت فلج کرده است.",
+            "واشنگتن با اجرای عملیات اقتصادی جدید، ذخایر شناور نفت را تخلیه و مسیرهای صادراتی را مسدود کرد.",
+            "مقام‌های آمریکایی تاکید دارند که فشار حداکثری اقتصادی، نیاز به اقدام نظامی گسترده را از بین برده است."
+        ],
+        "impact": "فلج شدن کامل شریان‌های صادرات نفت و فروپاشی درآمد ارزی حکومت",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611265418",
+        "clean_url": "https://www.iranintl.com/en/202611265418",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b11066beccd0e3e2c12e9ef9c5351093dc4cf4b6-6000x4000.jpg?w=576&h=384&q=90&fit=max&auto=format",
+        "timestamp": 1795667700.0
+    },
+    {
         "id": "19a24083a3",
         "title_fa": "تاثیر انتخابات آمریکا بر سناریوی جنگ با ایران",
         "title_en": "What U.S. Elections Mean for the War on Iran: 5 Key Questions with Sina Toossi",
@@ -5493,24 +5512,5 @@
         "clean_url": "https://mezha.net/eng/news/mezha-fd8d1ea60c01ddabedd0579c_eisenkot_and_netanyahu",
         "image": "https://mezha.net/eng/wp-content/mezha-og-r205/kd_image_generate/eng/3752730-ef24e5354a12.jpg",
         "timestamp": 1795420980.0
-    },
-    {
-        "id": "dde9c227ba",
-        "title_fa": "ضرب‌شست نظامی ترامپ در قشم و بن‌بست دیپلماتیک ت*ه*ر*ا*ن",
-        "title_en": "What Is Trump Up To Bombing Iran’s Qeshm Island?",
-        "summary": [
-            "حملات هوایی به جزیره قشم نشان داد ترامپ از مرحله تهدید عبور کرده و مستقیماً شریان‌های لجستیکی س*پ*ا*ه در خلیج فارس را هدف گرفته است.",
-            "ترامپ با «رقاص» خواندن مذاکره‌کنندگان ج*م*ه*و*ر*ی ا*س*ل*ا*م*ی، عملاً بازی زمان‌خریدن ر*ژ*ی*م را تمام شده اعلام کرد.",
-            "فرمان غرق کردن هر شناوری که محاصره دریایی را بشکند، یعنی آمادگی کامل واشینگتن برای درگیری مستقیم و نابودی نیروی دریایی ن*ظ*ا*م."
-        ],
-        "impact": "فلج شدن کامل صادرات نفت و تغییر موازنه قدرت از فشار اقتصادی به درگیری مستقیم نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Geopolitics/Middle-East/What-Is-Trump-Up-To-Bombing-Irans-Qeshm-Island.html",
-        "clean_url": "https://oilprice.com/Geopolitics/Middle-East/What-Is-Trump-Up-To-Bombing-Irans-Qeshm-Island.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-23_cusf8dint9.jpg",
-        "timestamp": 1795420860.0
     }
 ]
