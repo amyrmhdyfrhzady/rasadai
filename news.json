@@ -384,6 +384,24 @@
         "timestamp": 1795678578.0
     },
     {
+        "id": "140e1aa216",
+        "title_fa": "فشار گاز انبری ترامپ با بستن مرزهای زمینی و دریایی",
+        "title_en": "Iran just got handed a second squeeze from Trump: A new operation aims to close its land borders on top of the naval blockade",
+        "summary": [
+            "دولت ترامپ به دنبال اجرای یک عملیات تازه برای بستن مرزهای زمینی در کنار بلوکه کردن مسیرهای دریایی است.",
+            "برخی مشاوران ترامپ معتقدند حملات جدید به مقام‌های ارشد ج.م به این کشور اجازه می‌دهد ادعای پیروزی کند، اما بقیه از ضربه متقابل نگرانند."
+        ],
+        "impact": "تکمیل محاصره اقتصادی و امنیتی، اقتصاد بیمار حکومت را بیش از پیش فلج می‌کند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-second-squeeze-from-trump-a-new-operation-aims-to-close-its-land-borders-on-top-of-the-naval-blockade/ar-AA2iiQob",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-second-squeeze-from-trump-a-new-operation-aims-to-close-its-land-borders-on-top-of-the-naval-blockade/ar-AA2iiQob",
+        "image": "http://www.bing.com/th?id=ONUT.NW9LLQu4WqBL2ZjyL985ZQ&pid=News",
+        "timestamp": 1795678415.0
+    },
+    {
         "id": "deb35297bb",
         "title_fa": "اتحادیه اروپا به دنبال اقدام سخت‌تر علیه هکرهای ایرانی",
         "title_en": "From Russian athletes to Iranian hackers: EU weighs tougher action",
@@ -5490,25 +5508,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-to-vote-tomorrow-on-bill-to-repeal-netanyahu-allys-media-overhaul",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261123YS48.jpg",
         "timestamp": 1795443900.0
-    },
-    {
-        "id": "650f7f705d",
-        "title_fa": "گزارش اچ‌ان‌جی‌ان از تهدید ترامپ به غرق کشتی‌ها و واکنش تهران",
-        "title_en": "Trump Threatens to Sink Iranian Ships as Tehran Vows Response",
-        "summary": [
-            "به نوشته پایگاه خبری اچ‌ان‌جی‌ان، دونالد ترامپ روز یکشنبه هشدار داد که هر کشتی ایرانی برای شکستن محاصره دریایی آمریکا بر بنادر این کشور تلاش کند، به کف دریا فرستاده خواهد شد.",
-            "وزارت امور خارجه ایران روز دوشنبه این محاصره دریایی را تجاوز نظامی توصیف کرد و متعهد شد تهران از تمام ابزارهای خود برای مقابله با آن استفاده کند.",
-            "این موضع‌گیری‌ها پس از وقایع نظامی آخر هفته شامل حمله ایران به بحرین، هدف قرار گرفتن دو نفتکش در نزدیکی تنگه هرمز و حادثه‌ای برای یک نفتکش دیگر در دریای عمان رخ داد.",
-            "رئیس‌جمهور آمریکا با بی‌اعتبار خواندن تفاهم‌نامه ژوئن اسلام‌آباد و بی‌نتیجه دانستن مذاکرات، بار دیگر تمایل خود را به ازسرگیری حملات علیه ایران پس از سال نو در صورت نبود توافق بیان کرد."
-        ],
-        "impact": "طبق گزارش اچ‌ان‌جی‌ان، تقابل درباره محاصره بنادر ایران و حوادث دریایی اخیر در تنگه هرمز و دریای عمان، خطر درگیری مستقیم دریایی را افزایش داده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "hngn",
-        "url": "https://www.hngn.com/articles/273933/20261123/trump-threatens-sink-iranian-ships-tehran-vows-response.htm",
-        "clean_url": "https://www.hngn.com/articles/273933/20261123/trump-threatens-sink-iranian-ships-tehran-vows-response.htm",
-        "image": "https://d.hngn.com/en/full/308106/file-iranian-foreign-ministry-spokesman-baghaei-tehran-briefing.jpg",
-        "timestamp": 1795443600.0
     }
 ]
