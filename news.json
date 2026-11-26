@@ -971,6 +971,24 @@
         "timestamp": 1795655760.0
     },
     {
+        "id": "7ab96de5af",
+        "title_fa": "هشدار ترامپ به جمهوری‌خواهان درباره شکست پیروزی",
+        "title_en": "Trump menace : « Les démocrates vont transformer notre victoire totale en défaite »",
+        "summary": [
+            "ترامپ در مصاحبه‌ای صریح به دموکرات‌ها و وضعیت سیاسی آمریکا تاخته است.",
+            "او نسبت به تبدیل شدن پیروزی‌های سیاسی به شکست هشدار داده است."
+        ],
+        "impact": "این اظهارات می‌تواند معادلات سیاسی داخلی ایالات متحده و سیاست خارجی این کشور را تحت تأثیر قرار دهد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Cameroun24.net",
+        "url": "https://www.msn.com/fr-xl/actualite/other/trump-menace-les-démocrates-vont-transformer-notre-victoire-totale-en-défaite-l-iran-le-détroit-d-ormuz-et-la-guerre-qui-ne-veut-pas-mourir/ar-AA2ifawq",
+        "clean_url": "https://www.msn.com/fr-xl/actualite/other/trump-menace-les-démocrates-vont-transformer-notre-victoire-totale-en-défaite-l-iran-le-détroit-d-ormuz-et-la-guerre-qui-ne-veut-pas-mourir/ar-AA2ifawq",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795654894.0
+    },
+    {
         "id": "73b2a4f108",
         "title_fa": "افشای مسیرهای قاچاق سلاح س--پ--ا--ه پس از سقوط سوریه",
         "title_en": "فرمانده نیروی دریایی سپاه:شرق و غرب تنگه هرمز تحت «کنترل کامل» سپاه قرار دارد",
@@ -5491,23 +5509,5 @@
         "clean_url": "https://www.twincities.com/2026/11/23/congress-house-ethics-jimmy-gomez",
         "image": "http://www.bing.com/th?id=ONUT.y3n1d8teepK4DRNf_k0KeA&pid=News",
         "timestamp": 1795445760.0
-    },
-    {
-        "id": "f4626be380",
-        "title_fa": "درخواست رئیس پیشین موساد برای براندازی حکومت ایران",
-        "title_en": "Iran: Former Mossad Chief Calls For Overthrowing The Regime, “even At The Cost Of War”",
-        "summary": [
-            "مقام امنیتی سابق اسرائیل صراحتاً اعلام کرد که تغییر ساختار سیاسی در تهران حتی با پذیرش هزینه جنگ یک ضرورت است.",
-            "این موضع‌گیری نشان‌دهنده تغییر سطح بازی تل‌آویو از مهار به سمت تلاش برای فروپاشی سیستم حاکم است."
-        ],
-        "impact": "افزایش ریسک امنیتی و نزدیک‌تر شدن سایه درگیری نظامی به مرزهای ایران.",
-        "tag": "امنیتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWVyamQ3c3pxZFd2bVptUWJzVV90am1LM2ppYlBlYmlYMkVTQThKTVdKZXBJd1k1X3AweFcyRUtfOE4yaFNuY0luSFdjNkh5NVpCamhHa0kySHBIVzNQTGttSE9sQ3RrU0V5QVh1T2hpQnFQdWVMM3NXS2pwYUthLUIwZkxOSUJ2dTljZnFDcDljblphdTRNZ3hySHpyWnZrYnN2ZU8xNXd5cXhYLXQ3dVYzVFpvNlp0emVCelVPc19Ba0pJMkhxWjM5WFU3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWVyamQ3c3pxZFd2bVptUWJzVV90am1LM2ppYlBlYmlYMkVTQThKTVdKZXBJd1k1X3AweFcyRUtfOE4yaFNuY0luSFdjNkh5NVpCamhHa0kySHBIVzNQTGttSE9sQ3RrU0V5QVh1T2hpQnFQdWVMM3NXS2pwYUthLUIwZkxOSUJ2dTljZnFDcDljblphdTRNZ3hySHpyWnZrYnN2ZU8xNXd5cXhYLXQ3dVYzVFpvNlp0emVCelVPc19Ba0pJMkhxWjM5WFU3dw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795445400.0
     }
 ]
