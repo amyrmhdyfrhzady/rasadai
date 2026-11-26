@@ -36,6 +36,25 @@
         "timestamp": 1795708800.0
     },
     {
+        "id": "c743800239",
+        "title_fa": "فشار اروپا بر تهران پس از مرگ دو تبعه ایتالیایی",
+        "title_en": "Von der Leyen urges more pressure on Iran after drone strike kills two Italians",
+        "summary": [
+            "رئیس کمیسیون اروپا خواستار افزایش شدید فشارها بر جـمهوری اسـلامی شد.",
+            "این موضع‌گیری پس از حمله پهپادی منتسب به تهران که به مرگ دو شهروند ایتالیایی در کویت منجر شد، صورت گرفت.",
+            "امنیت خلیج فارس به عنوان یک خط قرمز جدی برای متحدان غربی مطرح شده است."
+        ],
+        "impact": "تشدید انزوای دیپلماتیک و احتمال اعمال تحریم‌های سنگین‌تر اتحادیه اروپا علیه تهران.",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202611263467",
+        "clean_url": "https://www.iranintl.com/en/202611263467",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b9dd88c6fe2de8bc0ffbc517d44aad8f0ff9b52c-1535x1024.png?rect=0,1,1535,1023&w=576&h=384&q=90&fit=max&auto=format",
+        "timestamp": 1795708320.0
+    },
+    {
         "id": "3ded8665d5",
         "title_fa": "میانجی‌گری قطر و پاکستان برای ارسال پیام میان تهران و واشنگتن",
         "title_en": "Iran’s FM: Qatari and Pakistani mediators still transmitting messages between Iran and US",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWVyamQ3c3pxZFd2bVptUWJzVV90am1LM2ppYlBlYmlYMkVTQThKTVdKZXBJd1k1X3AweFcyRUtfOE4yaFNuY0luSFdjNkh5NVpCamhHa0kySHBIVzNQTGttSE9sQ3RrU0V5QVh1T2hpQnFQdWVMM3NXS2pwYUthLUIwZkxOSUJ2dTljZnFDcDljblphdTRNZ3hySHpyWnZrYnN2ZU8xNXd5cXhYLXQ3dVYzVFpvNlp0emVCelVPc19Ba0pJMkhxWjM5WFU3dw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795445400.0
-    },
-    {
-        "id": "72731d23ac",
-        "title_fa": "افزایش بدبینی و سردی بی‌سابقه در روابط آمریکا و آلمان",
-        "title_en": "Americans Increasingly See Strains in U.S.-Germany Ties as Germans Remain Pessimistic",
-        "summary": [
-            "نظرسنجی مرکز تحقیقاتی پیو نشان می‌دهد یک‌سوم آمریکایی‌ها روابط واشنگتن و برلین را بد می‌دانند که بالاترین میزان در یک دهه گذشته است.",
-            "افت میزان رضایت عمدتاً از سوی طرفداران حزب دموکرات رخ داده و بدبینی آلمانی‌ها نسبت به سیاست‌های آمریکا همچنان عمیق است."
-        ],
-        "impact": "تضعیف هماهنگی‌های استراتژیک واشنگتن و اروپا در مواجهه با بحران‌های منطقه‌ای.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Pew Research Center",
-        "url": "https://www.pewresearch.org/global/2026/11/23/americans-increasingly-see-strains-in-us-germany-ties/",
-        "clean_url": "https://www.pewresearch.org/global/2026/11/23/americans-increasingly-see-strains-in-us-germany-ties",
-        "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/11/pg_2026.11.23_us-germany-relations-feature.png?w=1200&h=628&crop=1",
-        "timestamp": 1795445220.0
     }
 ]
