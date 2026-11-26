@@ -1,5 +1,25 @@
 [
     {
+        "id": "3a081658eb",
+        "title_fa": "فلج شدن صادرات نفت و گسترش اعتصاب کامیون‌داران در ایران",
+        "title_en": "Iranian truckers' strike spreads to more cities on fifth day, union says",
+        "summary": [
+            "خزانه داری آمریکا تایید کرد که ذخایر نفت شناور ج.ا تمام شده و هیچ نفت‌کشی از ماه اوت بارگیری نشده است.",
+            "ترامپ به دلیل اثربخشی حداکثری محاصره دریایی، فعلاً نیازی به عملیات نظامی گسترده نمی‌بیند.",
+            "اعتصاب کامیون‌داران در شهرهای مختلف، مسیرهای زمینی صادرات سوخت به همسایگان را نیز مسدود کرده است.",
+            "صادرات نفت که پیش‌تر ۱.۵ میلیون بشکه در روز بود، اکنون به مقادیر ناچیز زمینی محدود شده است."
+        ],
+        "impact": "فروپاشی درآمدهای ارزی و تشدید بحران معیشتی ناشی از قطع کامل شریان‌های نفتی.",
+        "tag": "اقتصاد",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611260197",
+        "clean_url": "https://www.iranintl.com/en/202611260197",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4cd35cc8eef649282f8926a2135b8c34fbc28019-5500x3773.jpg?rect=864,0,3773,3773&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795689600.0
+    },
+    {
         "id": "ad19d0ceeb",
         "title_fa": "ساخت تاسیسات زیرزمینی جدید در نزدیکی سایت‌های هسته‌ای ایران",
         "title_en": "Iran rapidly builds underground complex near nuclear sites – US institute",
@@ -5492,23 +5512,5 @@
         "clean_url": "https://www.newarab.com/news/iran-and-us-trade-threats-tankers-burn-hormuz",
         "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2305821469.jpeg?itok=SQiipTqo",
         "timestamp": 1795433400.0
-    },
-    {
-        "id": "a516862806",
-        "title_fa": "واکنش‌های متضاد به بازگشت جنجالی مدیرعامل انویدیا",
-        "title_en": "What smart people are saying about Jensen's resurrection",
-        "summary": [
-            "ایلان ماسک بازگشت هوانگ را اصلاح یک اشتباه بزرگ می‌داند، در حالی که منتقدان آن را نشانه ضعف ساختاری انویدیا می‌بینند",
-            "مخالفان هوانگ خواستار ورود نهادهای نظارتی برای بررسی عملکرد مدیریتی او در انویدیا شده‌اند"
-        ],
-        "impact": "ایجاد دوقطبی در میان تحلیل‌گران بازار سرمایه درباره آینده انویدیا",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "Insider",
-        "url": "https://www.businessinsider.com/jensen-huang-return-reactions-2026-11",
-        "clean_url": "https://www.businessinsider.com/jensen-huang-return-reactions-2026-11",
-        "image": "http://www.bing.com/th?id=ONUT.n4slFxH0i-ovc0Ppw5KMkA&pid=News",
-        "timestamp": 1795432680.0
     }
 ]
