@@ -1,5 +1,23 @@
 [
     {
+        "id": "b22f651022",
+        "title_fa": "تداوم حملات هوایی اسرائیل در غزه با ۸ کشته",
+        "title_en": "Israeli strikes kill 8 in Gaza, and other Mideast news",
+        "summary": [
+            "افزایش تلفات غیرنظامی در مراکز درمانی غزه نشان‌دهنده تداوم درگیری‌های شدید است",
+            "وضعیت بحرانی بیمارستان‌های شفا و الاقصی در پذیرش مجروحان حملات اخیر"
+        ],
+        "impact": "تشدید تنش‌های میدانی و افزایش فشار بر زیرساخت‌های درمانی غزه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/gaza-iran-israel-uae-hormuz-november-26-2026-522676f17532b878878ff7a4347d0e31",
+        "clean_url": "https://apnews.com/article/gaza-iran-israel-uae-hormuz-november-26-2026-522676f17532b878878ff7a4347d0e31",
+        "image": "https://dims.apnews.com/dims4/default/5d87be6/2147483647/strip/true/crop/8640x5760+0+0/resize/1200x800!/quality/90/?url=https://assets.apnews.com/55/9e/07a21b4bbcfe4a2207d8cc97c13a/b07886151f664e53b76636a47aa414d7",
+        "timestamp": 1795679460.0
+    },
+    {
         "id": "b123271c15",
         "title_fa": "کشف مجتمع زیرزمینی جدید در ایران توسط نهادهای آمریکایی",
         "title_en": "US think tank uncovers new underground complex in Iran",
@@ -35,6 +53,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZXBGNHM5Q3VDd2JNYVhxRWZtbFJFV3hHRDdMRTVSaTExT19GQUYtS2drY0daTXdnRlJ6d1Y0Z0tKa182blRJNmppbUZQdG9ZdHNJekdwenAwMURIQldPSmIxWjRJMDJyTDhwTmR5UEdGTTZrdGowd3ZVdnF4dw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795677415.0
+    },
+    {
+        "id": "8e0af17c67",
+        "title_fa": "سایه جنگ بر دبی؛ هراس از تخلیه پایتخت اقتصادی",
+        "title_en": "Iran war turns Dubai into a ghost city",
+        "summary": [
+            "گزارش‌ها از خروج سرمایه و کاهش فعالیت‌های تجاری در دبی به دلیل ترس از گسترش درگیری‌ها",
+            "تبدیل شدن دبی به شهر ارواح نشان‌دهنده وحشت بازارها از پیامدهای جنگ احتمالی ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی است"
+        ],
+        "impact": "سقوط اعتماد سرمایه‌گذاران و فلج شدن قطب اقتصادی منطقه",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795677074.0
     },
     {
         "id": "6bb3a90c42",
@@ -5472,41 +5508,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-just-began-cutting-power-to-homes-and-businesses-its-president-says-if-it-gets-colder-we-will-move-to-a-smaller-room/ar-AA2i4clH",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795429101.0
-    },
-    {
-        "id": "b80a301091",
-        "title_fa": "ریسک‌های خط مشی سخت‌گیرانه د-و-ن-ا-ل-د ت-ر-ا-م-پ علیه ای-را-ن",
-        "title_en": "Lucas: Trump’s hard line on Iran at risk",
-        "summary": [
-            "مواضع سخت‌گیرانه ت-ر-ا-م-پ در برابر ج-م-ه-و-ر-ی ا-س-لا-می با چالش‌ها و ریسک‌های جدیدی روبه‌رو شده است.",
-            "فشار حداکثری و رویکرد قاطع واشنگتن نیازمند پایش دقیق تحولات میدانی است."
-        ],
-        "impact": "تغییرات احتمالی در معادله فشار اقتصادی و سیاسی بر ت-ه-ر-ا-ن.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Boston Herald",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0tra3c0b0g4VlN0d29yVzNRNkxiam1ldm1vcGctRzFtbXVFOGV2ckl3VUQ2OE9adlV2eDJLX0N0M1RXV05EZlBZSWRXT2dHMkwzVmZPUHVlVGFNcGtWbEhJdWlxTDJ1azNfeXJIOWpZZmdMVzhYWGQ5azExQVBRQ1lsNXJfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0tra3c0b0g4VlN0d29yVzNRNkxiam1ldm1vcGctRzFtbXVFOGV2ckl3VUQ2OE9adlV2eDJLX0N0M1RXV05EZlBZSWRXT2dHMkwzVmZPUHVlVGFNcGtWbEhJdWlxTDJ1azNfeXJIOWpZZmdMVzhYWGQ5azExQVBRQ1lsNXJfQQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795429092.0
-    },
-    {
-        "id": "8170b269ba",
-        "title_fa": "مرز باریک دیپلماسی و تجارت در رویکرد داماد ترامپ",
-        "title_en": "Jared Kushner's wars",
-        "summary": [
-            "جرد کوشنر با ترکیب منافع تجاری و فعالیت‌های دیپلماتیک، انتقاد شدید دموکرات‌ها را برانگیخته است.",
-            "او معتقد به تحقق پروژه‌های غیرممکن در معادلات خاورمیانه است."
-        ],
-        "impact": "تأثیر منافع شخصی و تجاری بر تصمیم‌سازی‌های کلان دیپلماتیک در واشنگتن.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "New York Magazine",
-        "url": "https://www.msn.com/en-us/news/other/jared-kushner-s-wars/ar-AA2i26Tm",
-        "clean_url": "https://www.msn.com/en-us/news/other/jared-kushner-s-wars/ar-AA2i26Tm",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2i2c4l.img?w=768&h=404&m=6&x=474&y=70&s=96&d=96",
-        "timestamp": 1795428025.0
     }
 ]
