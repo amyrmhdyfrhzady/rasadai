@@ -348,6 +348,25 @@
         "timestamp": 1795663895.0
     },
     {
+        "id": "625d59e065",
+        "title_fa": "فلج شدن صادرات نفت ایران زیر فشار تحریم‌های آمریکا",
+        "title_en": "Iran’s supreme leader urges Basij to mobilize supporters beyond its ranks",
+        "summary": [
+            "مقام‌های ارشد آمریکایی از تخلیه کامل ذخایر شناور نفت ایران و توقف بارگیری نفتکش‌ها در پی اجرای عملیات طرد اقتصادی خبر دادند.",
+            "مارکو روبیو اعلام کرد که خسارت‌های سنگین اقتصادی ناشی از این محاصره، نیاز به اقدام نظامی گسترده را از بین برده است.",
+            "جمهوری اسلامی برای جبران کسری درآمد، به فروش محدود فرآورده‌های سوختی از طریق مرزهای زمینی به پاکستان و افغانستان روی آورده است."
+        ],
+        "impact": "قطع شریان‌های اصلی درآمد نفتی، اقتصاد حکومت را در آستانه فروپاشی کامل قرار داده است.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611264452",
+        "clean_url": "https://www.iranintl.com/en/202611264452",
+        "image": "http://www.bing.com/th?id=ONUT.BP64HhKXvXSics6wA8PNlA&pid=News",
+        "timestamp": 1795662480.0
+    },
+    {
         "id": "24f43b4d47",
         "title_fa": "جنگ خاموش آمریکا و فلج شدن اقتصاد ای-ران",
         "title_en": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
@@ -5493,23 +5512,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmZFWmc5YXF6STNWM3VCUWlPOF8xbC1BOWZPTTM1Q20wY3BvRmdQdE5kNW1Idy03OUpDV1JCNGRLS2Ywblc0MGI1QWZWaGx5RW5LTzdkUFBtRjdvVUUzdjRyeVZvUnh3d0RzdTVnU0VBdDF2RlhmWmdFNDVoWjFFRS1NWWE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795433581.0
-    },
-    {
-        "id": "94695e0da4",
-        "title_fa": "انتقاد تند از عملکرد هگست در وزارت دفاع",
-        "title_en": "Former Hegseth chief of staff says ‘it’s time for Pete to call it quits’",
-        "summary": [
-            "رئیس دفتر سابق هگست، او را به دلیل اخراج بی‌رویه فرماندهان ارشد و سوءمدیریت در جنگ با ایران به باد انتقاد گرفت.",
-            "این فشارها نشان‌دهنده شکاف در تیم امنیتی ترامپ و نارضایتی از رویکردهای تهاجمی در وزارت دفاع است."
-        ],
-        "impact": "افزایش فشار سیاسی بر هگست برای کناره‌گیری از سمت خود.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/11/23/former-hegseth-chief-of-staff-says-its-time-for-pete-to-call-it-quits/",
-        "clean_url": "https://www.baltimoresun.com/2026/11/23/former-hegseth-chief-of-staff-says-its-time-for-pete-to-call-it-quits",
-        "image": "http://www.bing.com/th?id=ONUT.X675xhkj5mjMFvy6Wr674g&pid=News",
-        "timestamp": 1795433520.0
     }
 ]
