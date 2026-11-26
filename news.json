@@ -1,5 +1,24 @@
 [
     {
+        "id": "c1641e88b7",
+        "title_fa": "دلیل اصلی عدم تمایل ترامپ به جنگ مستقیم با تـوکـر",
+        "title_en": "The real reason Donald Trump isn't restarting the Iran war: It was reportedly rejected over risks to Gulf states and an uncertain outcome",
+        "summary": [
+            "دونالد ترامپ به جای درگیری نظامی تمام‌عیار، تمرکز خود را روی تشدید تحریم‌ها و محاصره دریایی گذاشته است.",
+            "خطر آسیب به کشورهای حوزه خلیج فارس و نامعلوم بودن نتیجه جنگ، مانع اصلی حملات نظامی آمریکا شده است.",
+            "بحران انرژی در داخل ایران و درخواست از مردم برای صرفه‌جویی در مصرف برق، فشارها بر سیستم حکمرانی را بیشتر کرده است."
+        ],
+        "impact": "تشدید فشار اقتصادی و تحریم‌ها بدون ورود به جنگ نظامی مستقیم، راهبرد اصلی واشنگتن خواهد بود.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "National Security Journal",
+        "url": "https://www.msn.com/en-us/news/other/the-real-reason-donald-trump-isn-t-restarting-the-iran-war-it-was-reportedly-rejected-over-risks-to-gulf-states-and-an-uncertain-outcome/ar-AA2ihkar",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-real-reason-donald-trump-isn-t-restarting-the-iran-war-it-was-reportedly-rejected-over-risks-to-gulf-states-and-an-uncertain-outcome/ar-AA2ihkar",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2iibje.img?w=1344&h=756&m=4&q=97",
+        "timestamp": 1795700696.0
+    },
+    {
         "id": "798d120595",
         "title_fa": "دور زدن تحریم‌ها برای تقویت توان موشکی",
         "title_en": "Iran reportedly developing new missiles despite US economic pressure",
@@ -5493,24 +5512,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-needs-a-victory-strategy-in-iran-not-an-exit-strategy/ar-AA2i4AIL",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795438800.0
-    },
-    {
-        "id": "5c4cbe6972",
-        "title_fa": "اولتیماتوم ۴ روزه آمریکا به ت-ه-ر-ا-ن؛ معامله هرمز در برابر نفت",
-        "title_en": "US gives Iran four days to accept new deal on Hormuz, nuclear programme",
-        "summary": [
-            "واشینگتن با رد پیشنهاد عراقچی، طرحی جایگزین و سخت‌گیرانه را روی میز گذاشته که هدف آن پایان دادن به باج‌خواهی دریایی س-پ-ا-ه در تنگه هرمز است.",
-            "این پیشنهاد ت-ه-ر-ا-ن را مجبور می‌کند بین توقف غنی‌سازی و بازگشت به پروتکل‌های نظارتی، یا ادامه محاصره دریایی و تحریم‌های خردکننده یکی را انتخاب کند.",
-            "آمریکا شرط کاهش تدریجی تحریم‌های نفتی را به عقب‌نشینی کامل نظامی از تهدید کشتیرانی بین‌المللی گره زده است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و نظامی بر ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی در صورت رد این ضرب‌الاجل.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "timeskuwait",
-        "url": "https://timeskuwait.com/us-gives-iran-four-days-to-accept-new-deal-on-hormuz-nuclear-programme/",
-        "clean_url": "https://timeskuwait.com/us-gives-iran-four-days-to-accept-new-deal-on-hormuz-nuclear-programme",
-        "image": "https://timeskuwait.com/wp-content/uploads/2026/11/1108855_0.jpeg-e1795438319715.webp",
-        "timestamp": 1795438380.0
     }
 ]
