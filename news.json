@@ -382,6 +382,25 @@
         "timestamp": 1795659399.0
     },
     {
+        "id": "a1111ba839",
+        "title_fa": "تشدید بحران در تنگه هرمز و تهدیدهای جدید منطقه‌ای",
+        "title_en": "US-Iran War Live Updates: Houthis Threaten Saudi Ports As Coalition Orders Hodeidah Evacuation, Attack Reported",
+        "summary": [
+            "تهران شرط مذاکراتی را پذیرش هفت مطالبه خود از سوی واشنگتن عنوان کرد و هرگونه گفت‌وگوی بی‌پیش‌شرط را رد کرد.",
+            "نیروهای وابسته به حکومت از آتش گرفتن سه نفتکش در تنگه هرمز خبر دادند که زنگ خطر را برای امنیت انرژی به صدا درآورده است.",
+            "مقامات نظامی ج. ا مدعی افزایش روزافزون دقت و قدرت تخریب موشک‌های خود شدند و ادعای کمبود تسلیحاتی آمریکا را مطرح کردند."
+        ],
+        "impact": "افزایش شدید ریسک امنیت کشتیرانی در خلیج فارس و بالا رفتن احتمال درگیری نظامی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-strait-of-hormuz-crisis-donald-trump-iran-tensions-oil-tanker-fires-saudi-houthi-threats-scott-bessent-global-oil-supply-fears-liveblog-156558802",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-strait-of-hormuz-crisis-donald-trump-iran-tensions-oil-tanker-fires-saudi-houthi-threats-scott-bessent-global-oil-supply-fears-liveblog-156558802",
+        "image": "http://www.bing.com/th?id=ONUT.1C9vea50r6hXE4M06jvyvA&pid=News",
+        "timestamp": 1795658880.0
+    },
+    {
         "id": "0ac8187748",
         "title_fa": "اعتراف رئیس‌جمهور به بحران مالی و قطع یارانه نان",
         "title_en": "Iranian President Admits Economic Hardship: \"We Have No Money\" and Cuts Bread Subsidies",
@@ -5489,23 +5508,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-faces-growing-food-shortages-but-regime-collapse-unlikely-during-war-expert-warns/ar-AA2i3qoo",
         "image": "http://www.bing.com/th?id=ONUT.qwOmj-1HIUuH8BOXCEg61Q&pid=News",
         "timestamp": 1795431383.0
-    },
-    {
-        "id": "0e9e74bcaf",
-        "title_fa": "نشست خبری اضطراری نتانیاهو در کنست درباره کابینه ائتلافی",
-        "title_en": "Netanyahu to make rare statement to press at Knesset ahead of Likud party meeting",
-        "summary": [
-            "بنیامین نتانیاهو در یک اقدام غیرمعمول پیش از نشست هفتگی لیکود با خبرنگاران گفتگو می‌کند.",
-            "مذاکرات فشرده‌ای با گادی آیزنکوت برای تشکیل دولت وحدت ملی در جریان است."
-        ],
-        "impact": "تغییرات احتمالی در ترکیب دولت و رویکردهای سیاسی تل‌آویو.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-to-make-rare-statement-to-press-at-knesset-ahead-of-likud-party-meeting/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-to-make-rare-statement-to-press-at-knesset-ahead-of-likud-party-meeting",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261118YS51.jpg",
-        "timestamp": 1795430820.0
     }
 ]
