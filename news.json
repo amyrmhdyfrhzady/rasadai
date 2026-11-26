@@ -347,6 +347,25 @@
         "timestamp": 1795698759.0
     },
     {
+        "id": "95441d37c1",
+        "title_fa": "خودتحریمی داخلی؛ مانع اصلی اقتصاد جـمـهـورۍ اسـلا‌مـۍ",
+        "title_en": "Araghchi says Iran’s demands must be met before Strait of Hormuz reopens",
+        "summary": [
+            "موانع ارزی، بانکی و گمرکی دست‌وپاگیر، کاسبی‌ها را در تنگنای شدید قرار داده است.",
+            "مقامات پارلمانی اذعان کردند که مشکل اصلی کشور کمبود منابع نیست بلکه سوءمدیریت است.",
+            "تولیدکنندگان داخلی در جنگ بقا نیازمند دسترسی به ارز و مواد اولیه هستند."
+        ],
+        "impact": "فلج شدن تولید داخلی به دلیل سیاست‌های خودتحریمی حکومت.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611264384",
+        "clean_url": "https://www.iranintl.com/en/202611264384",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795698720.0
+    },
+    {
         "id": "3e8bdb4f13",
         "title_fa": "زنگ خطر ناامنی برای کشورهای حاشیه خلیج فارس",
         "title_en": "Regional Security Spillover: The Impact of the US-Israeli-Iran Conflict on the GCC States",
@@ -5492,24 +5511,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795453560.0
-    },
-    {
-        "id": "185873580f",
-        "title_fa": "عملیات سایبری ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی با خبرنگاران هوش مصنوعی",
-        "title_en": "Iran-based operation used AI to create fake journalists, sway public opinion on US-Iran war",
-        "summary": [
-            "استفاده از هوش مصنوعی برای ساخت هویت‌های جعلی و انتشار اخبار دروغین درباره جنگ احتمالی آمریکا و ایران",
-            "تلاش برای جهت‌دهی به افکار عمومی استرالیا و ایجاد فشار رسانه‌ای علیه مشارکت این کشور در ائتلاف‌های ضد ج-م-ه-و-ر-ی ا-س-ل-ا-م-ی",
-            "تغییر تاکتیک‌های جنگ روانی از اکانت‌های انسانی به تولید محتوای خودکار و پیچیده برای فرار از شناسایی"
-        ],
-        "impact": "افزایش حساسیت نهادهای امنیتی غرب نسبت به نفوذ دیجیتال و پروپاگاندای ماشینی تهران.",
-        "tag": "سایبری",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "ABC (Australian Broadcasting Corporation) on MSN",
-        "url": "https://www.msn.com/en-au/news/australia/iran-based-operation-used-ai-to-create-fake-journalists-sway-public-opinion-on-us-iran-war/ar-AA2i4Z60",
-        "clean_url": "https://www.msn.com/en-au/news/australia/iran-based-operation-used-ai-to-create-fake-journalists-sway-public-opinion-on-us-iran-war/ar-AA2i4Z60",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795452983.0
     }
 ]
