@@ -388,6 +388,24 @@
         "timestamp": 1795751600.0
     },
     {
+        "id": "0ec69ef4d7",
+        "title_fa": "مسکو تقویت زیرساخت‌های بازدارندگی هسته‌ای را در اولویت گذاشت",
+        "title_en": "Russian Defense Ministry makes nuclear deterrence sites priority in construction program",
+        "summary": [
+            "معاون وزیر دفاع روسیه از تمرکز ویژه این کشور بر ساخت و توسعه تأسیسات نیروهای بازدارندگی هسته‌ای خبر داد.",
+            "توسعه مناطق استقرار سامانه‌های موشکی راهبردی جدید در دستور کار دائمی وزارت دفاع روسیه قرار گرفته است."
+        ],
+        "impact": "آماده‌سازی زیرساخت‌های استراتژیک مسکو همزمان با اوج‌گیری تنش‌های جهانی.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "TASS",
+        "url": "https://tass.com/defense/2225911",
+        "clean_url": "https://tass.com/defense/2225911",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795751340.0
+    },
+    {
         "id": "28d8419fc6",
         "title_fa": "تلاش کرملین برای شکستن انزوای فرهنگی با ابزار سینما",
         "title_en": "About 120 Russian film festivals held abroad in past three years, culture minister says",
@@ -404,6 +422,25 @@
         "clean_url": "https://tass.com/society/2225913",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1795751340.0
+    },
+    {
+        "id": "736591983a",
+        "title_fa": "ترامپ: پیروزی بر جمهوری اسلامی هر زمان که بخواهم ممکن است",
+        "title_en": "Trump says he's giving Iran \"a chance to be smart\"",
+        "summary": [
+            "دونالد ترامپ اعلام کرد که به حکومت ت-ران فرصت داده تا تصمیمی عاقلانه بگیرد، هرچند به پذیرش آن امیدی ندارد.",
+            "رئیس‌جمهور آمریکا اشتراک‌گذاری اطلاعاتی روسیه و چین با ت-ران را کم‌اهمیت توصیف کرد.",
+            "فرمانده نیروی دریایی ارتش ج-هوری اس-لامی مدعی شد تکاوران این نیرو دو تانکر نفت‌کش توقیف‌شده توسط آمریکا را پس گرفته‌اند."
+        ],
+        "impact": "افزایش سایه جنگ و سنگین‌تر شدن فشارهای نظامی و سیاسی بر حکام تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-says-hes-giving-iran-113730762.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-hes-giving-iran-113730762.html",
+        "image": "http://www.bing.com/th?id=ONUT.LZTuMqfaNcnSo6j96rFkDQ&pid=News",
+        "timestamp": 1795750620.0
     },
     {
         "id": "3e1ecd7f02",
@@ -477,6 +514,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVU91cG15TUFaWkp0VjBQOWhqX2tPRVFLWk5MQ2hNWlhvNUlIajFaN3U4ZG05bktyTjJpUmxiWXhvTzFJdmlsUkVHTTl1Z1owZHNjaWpoTWpEOGRDaHlIcFdUaVJocjN0TGNBb0ZRT2ZhY3FqbkNSQmxnVnhEWTlkN2xxRlFaQnpuZG5QNnJiWmdRRWZ1aDk5bXRpOTdPNjZKRjJZREtYYV9pWXE0SXAzYkhMRjBzZEh6WjBPMw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795749159.0
+    },
+    {
+        "id": "48140925f7",
+        "title_fa": "بسته شدن مرزهای عراق به دستور واشنگتن و ضربه به تجارت منطقه‌ای",
+        "title_en": "Iran’s control of Hormuz has left US at a loss, cleric says",
+        "summary": [
+            "نیروهای عراقی چندین گذرگاه مرزی با استان کرمانشاه را به دستور دولت مرکزی و درخواست خزانه داری آمریکا مسدود کردند.",
+            "صدها کامیون حامل کالا و مصالح ساختمانی در مرز سرگردان مانده و ناچار به تغییر مسیر شده‌اند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره اقتصادی و قطع شریان‌های مالی غیررسمی وابسته به سپاه.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611275301",
+        "clean_url": "https://www.iranintl.com/en/202611275301",
+        "image": "http://www.bing.com/th?id=ONUT.XwoyZ1jcg-WlY24OuCprdA&pid=News",
+        "timestamp": 1795747920.0
     },
     {
         "id": "36ae424e07",
@@ -5452,62 +5507,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0tmZk8zbjBPeHY2UFFLREhFU1hZeFR1NUFWbUZEN3lDMFhteGJHRjlSX1hXUWdzX3pZYXlmamVkdTlOSlR3VFc0QjVwUW5lQU9Qc1Zjelp0M3JWUGFfRHE1Zl9JNWRfTkFLOUh4XzlWWFpZZ1dsWXVCMS11aEhiS0JZMXZuUmRrR3Y1SVphMjdLRVgydk1jR19tZU96eEd1RkxQRA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795492544.0
-    },
-    {
-        "id": "333844dce9",
-        "title_fa": "ورود ارتش عراق به پایگاه شبه‌نظامیان وابسته به ایران",
-        "title_en": "Iraqi forces enter Iran-backed militia stronghold, but who holds power?",
-        "summary": [
-            "ورود نیروهای دولتی عراق به مقر گروه‌های نـیابتی، مانوری برای به چالش کشیدن نفوذ منطقه‌ای سپاه در بغداد است.",
-            "با وجود این تحرکات، گروه‌های مسلح وابسته به تهران همچنان نفوذ عمیقی در ساختار سیاسی و امنیتی عراق دارند و موازنه قدرت به نفع دولت تغییر نکرده است.",
-            "این اقدام ارتش، نتیجه فشارهای آمریکا و تحرکات داخلی برای مهار شبه‌نظامیان و کاهش مداخله ج.ا.ا در عراق است."
-        ],
-        "impact": "تشدید رقابت پنهان میان دولت بغداد و گروه‌های نیابتی، نفوذ عملیاتی تهران در عراق را با چالش جدی روبرو می‌کند.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcnBrS2wxY2NSVHpUMV9KT3lKV2ZFTkgtaFloT0xNRGxncmpnZXp1eTJPdUVhdm8zWXBoRmsxSEhzeERPRkFFb3BUMS1pYnR3Z3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OcnBrS2wxY2NSVHpUMV9KT3lKV2ZFTkgtaFloT0xNRGxncmpnZXp1eTJPdUVhdm8zWXBoRmsxSEhzeERPRkFFb3BUMS1pYnR3Z3c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795489243.0
-    },
-    {
-        "id": "7cf9678d13",
-        "title_fa": "بازداشت معلم متخلف به اتهام شکستن پای دانش‌آموز",
-        "title_en": "نیروی دریایی سپاه: یک نفتکش در شرق تنگه هرمز بر اثر برخورد با «مین دریایی» منفجر شد",
-        "summary": [
-            "دادستانی لرستان از بازداشت معلمی خبر داد که متهم است دانش‌آموز کلاس دوم را به دلیل ننوشتن مشق کتک زده است.",
-            "این دانش‌آموز با پای شکسته در بیمارستان بستری است و تهدید معلم مانع از افشای سریع ماجرا به خانواده شده بود."
-        ],
-        "impact": "افزایش مطالبه عمومی برای امنیت مدارس و برخورد قاطع با خشونت علیه کودکان.",
-        "tag": "اجتماعی",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611243387",
-        "clean_url": "https://www.iranintl.com/202611243387",
-        "image": "http://www.bing.com/th?id=ONUT.1V56GuFoqloCPj5uRZA1uA&pid=News",
-        "timestamp": 1795489140.0
-    },
-    {
-        "id": "fc68d3b2df",
-        "title_fa": "بحران‌های جهانی: از جهش قیمت سهام تا تنش‌های نظامی",
-        "title_en": "Tuesday, November 24, 2026",
-        "summary": [
-            "بازگشت مدیرعامل انویدیا باعث جهش ۴.۷ درصدی شاخص اس‌اندپی ۵۰۰ شد",
-            "افزایش حملات در تنگه هرمز و سقوط قیمت نفت به زیر ۸۰ دلار، بازارهای انرژی را ناپایدار کرده است",
-            "حمله موشکی روسیه به لهستان، ناتو را در وضعیت آماده‌باش قرار داده است",
-            "بحران ابولا در کنگو با عبور از ۱۱ هزار مبتلا، وضعیت بهداشتی منطقه را بحرانی کرد"
-        ],
-        "impact": "بی‌ثباتی در بازارهای مالی جهانی همزمان با افزایش ریسک درگیری‌های نظامی در اروپا و خاورمیانه",
-        "tag": "اقتصاد و امنیت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "note",
-        "url": "https://note.com/otanishoji/n/n9fcb0ae0c8e2?hl=en",
-        "clean_url": "https://note.com/otanishoji/n/n9fcb0ae0c8e2",
-        "image": "https://www.bing.com/th?id=ONUT.RaRM73P7iJsXX1To7F4QMQ",
-        "timestamp": 1795486905.0753407
     }
 ]
