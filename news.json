@@ -1,5 +1,23 @@
 [
     {
+        "id": "ae6c41d880",
+        "title_fa": "آماده‌باش کامل اسرائیل پس از تهدیدهای جدید تهران",
+        "title_en": "Israel on high alert after latest Iranian threat",
+        "summary": [
+            "ارتش اسرائیل پس از انتشار تازه‌ترین تهدیدهای مقامات ج·ه·و·ر·ی ا·س·ل·ا·م·ی به حالت آماده‌باش درآمده است.",
+            "سطح هشدارها در مرزها و بخش‌های نظامی به بالاترین حد خود رسیده تا هرگونه سناریوی احتمالی خنثی شود."
+        ],
+        "impact": "افزایش فوری ضریب امنیتی و احتمال واکنش پیشگیرانه از سوی تل‌آویو.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80X2J1YzBnbFZqRXdhc2xndXMyMTlHQnhjZFVwWU1xZGdzTlFNR3pOVnVLdWhXZ05uNnRENkp4eG5Cbk9kUlNzQXhoSHZpQ3pTcTJmZkF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80X2J1YzBnbFZqRXdhc2xndXMyMTlHQnhjZFVwWU1xZGdzTlFNR3pOVnVLdWhXZ05uNnRENkp4eG5Cbk9kUlNzQXhoSHZpQ3pTcTJmZkF3",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795736828.0
+    },
+    {
         "id": "ff7ba4e09a",
         "title_fa": "ترمیناتور در جستجوی توافق؛ فرصت واشنگتن به تهران",
         "title_en": "Donald Trump: Washington giving Iran opportunity to make deal, doubts they will accept",
@@ -5492,23 +5510,5 @@
         "clean_url": "https://www.chicagotribune.com/2026/11/23/wall-street-sube-tras-el-regreso-de-huang-a-nvidia",
         "image": "http://www.bing.com/th?id=ONUT.QoXdz1_TPbZd13PFj8cxyA&pid=News",
         "timestamp": 1795460580.0
-    },
-    {
-        "id": "1eef6be99f",
-        "title_fa": "انتقاد وارن از دخالت ترامپ در سهام انویدیا",
-        "title_en": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia",
-        "summary": [
-            "الیزابت وارن دخالت مستقیم ترامپ در ابقای مدیران انویدیا را با توجه به مالکیت میلیون‌ها دلار سهام این شرکت توسط او، مشکوک دانست.",
-            "مواضع ترامپ درباره شرکت‌های حوزه فناوری بار دیگر بحث رانت و تعارض منافع شخصی در تصمیمات سیاسی را داغ کرده است."
-        ],
-        "impact": "تشدید نظارت‌های کنگره بر دارایی‌های شخصی و تصمیمات اقتصادی مقامات اجرایی.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/23/politics/video/donald-trump-nvidia-jensen-huang-insider-trading-ceo-elizabeth-warren-congress-senate-midterm-elections-kaitlan-collins",
-        "clean_url": "https://www.cnn.com/2026/11/23/politics/video/donald-trump-nvidia-jensen-huang-insider-trading-ceo-elizabeth-warren-congress-senate-midterm-elections-kaitlan-collins",
-        "image": "http://www.bing.com/th?id=ONUT.QI-NJo-0gYKq6VM_fyTaug&pid=News",
-        "timestamp": 1795460040.0
     }
 ]
