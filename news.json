@@ -1,5 +1,23 @@
 [
     {
+        "id": "f68356a32d",
+        "title_fa": "اشتباه کلامی ترامپ درباره توان نظامی ایران و اسرائیل",
+        "title_en": "Trump Appears to Mix Up Israel and Iran, Claims ‘Their Military Is Decimated’ in November Remarks",
+        "summary": [
+            "دونالد ترامپ در سخنرانی اخیر خود نام ایران و اسرائیل را جابه‌جا گفت و ادعا کرد توان نظامی آن‌ها نابود شده است.",
+            "این‌گونه خطاهای کلامی بیشتر کارکرد تبلیغاتی در فضای داخلی آمریکا دارد، اما خط کلی فشار بر توان روانی و نظامی تهران را نشان می‌دهد."
+        ],
+        "impact": "ایجاد موج خبری و حواشی رسانه‌ای بدون تأثیر مستقیم بر خط‌مشی عملیاتی میدان.",
+        "tag": "سیاست خارجی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Kyiv Post",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GN0ZzM2o2QXBkMy1XR1VvSERGUVRFaldaWkNpVFpIN0dveVkwd2pwaHpQdmFXcGtnWllSSGpHRVR2XzNSY0QxRTZTNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GN0ZzM2o2QXBkMy1XR1VvSERGUVRFaldaWkNpVFpIN0dveVkwd2pwaHpQdmFXcGtnWllSSGpHRVR2XzNSY0QxRTZTNA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795767331.0
+    },
+    {
         "id": "89b84d7220",
         "title_fa": "ادعای دفع جنگنده آمریکایی توسط پدافند جـ.مـ.הـ.اوری",
         "title_en": "Iran claims air defenses forced US F-16 jet to withdraw near Hengam Island",
@@ -5491,24 +5509,5 @@
         "clean_url": "https://www.agcnews.eu/israeliranwar-iran-cells-in-west-azerbaijan-that-were-transporting-weapons-and-starlink-to-use-against-the-government-have-been-dismantled-netanyahu-plans-to-attack-iran-without-us-consent",
         "image": "https://www.agcnews.eu/wp-content/uploads/05frontiiariirn2411202605.jpg",
         "timestamp": 1795478400.0
-    },
-    {
-        "id": "4c95e8a07c",
-        "title_fa": "فلج اقتصادی جـ.ـهـ.ـوری اسـ.ـلامـ.ـی با فشار حداکثری آمریکا",
-        "title_en": "Bessent says Iran's leaders are panicking as US tightens financial sanctions",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا تأکید کرد که مقامات تهران از فروپاشی اقتصادی به شدت مستاصل شده‌اند.",
-            "شبکه بانکی پنهان و غیرقانونی جـ.ـهـ.ـوری اسـ.ـلامـ.ـی هدف اصلی ضربات بعدی واشنگتن است.",
-            "آمریکا ۲۲ شرکت و ۸ فرد مرتبط با این شبکه را تحریم کرد تا آخرین راه‌های تنفس مالی بسته شود."
-        ],
-        "impact": "فلج شدن کامل شریان‌های مالی و ارزی حکومت با انهدام شبکه‌های پولشویی و دور زدن تحریم‌ها.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611238906",
-        "clean_url": "https://www.iranintl.com/en/202611238906",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1795477680.0
     }
 ]
