@@ -1,5 +1,24 @@
 [
     {
+        "id": "08fdb6bae5",
+        "title_fa": "هشدار مستقیم ترامپ درباره حمله به تاسیسات زیرزمینی نطنز",
+        "title_en": "Iran's navy chief says orders are to keep Strait of Hormuz closed",
+        "summary": [
+            "ترامپ با تاکید بر ارسال یک ناو هواپیمابر جدید به منطقه، اعلام کرد اختیار زمان و حجم حمله نظامی کاملاً دست آمریکا است.",
+            "رئیس‌جمهور آمریکا از هماهنگی کامل با نتانیاهو خبر داده و هشدار داد در صورت به نتیجه نرسیدن توافق، تاسیسات زیرزمینی نطنز (کوه کلنگ) هدف قرار می‌گیرد.",
+            "واشنگتن آخرین فرصت‌ها را برای پذیرش شروط خود داده و همزمان آرایش تهاجمی بی‌سابقه‌ای در خلیج فارس گرفته است."
+        ],
+        "impact": "افزایش احتمال درگیری مستقیم نظامی و هدف‌گیری تاسیسات کلیدی هسته‌ای در صورت رد توافق.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611270564",
+        "clean_url": "https://www.iranintl.com/en/202611270564",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/fffb6c7ada396a2cc7b63583d4943e9746d7a975-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795767600.0
+    },
+    {
         "id": "f68356a32d",
         "title_fa": "اشتباه کلامی ترامپ درباره توان نظامی ایران و اسرائیل",
         "title_en": "Trump Appears to Mix Up Israel and Iran, Claims ‘Their Military Is Decimated’ in November Remarks",
@@ -5489,25 +5508,6 @@
         "url": "https://english.ahram.org.eg/NewsContent/50/1203/583304/AlAhram-Weekly/World/US-squeezing-Iran-.aspx",
         "clean_url": "https://english.ahram.org.eg/NewsContent/50/1203/583304/AlAhram-Weekly/World/US-squeezing-Iran-.aspx",
         "image": "https://english.ahram.org.eg/Media/News/2026/11/24/41_2026-639311453255904013-590.jpg",
-        "timestamp": 1795478400.0
-    },
-    {
-        "id": "5e372cc53b",
-        "title_fa": "هشدار آیزنکوت درباره اورانیوم ایران و موضع ترامپ برای توافق",
-        "title_en": "#ISRAELIRANWAR. Iran: Cells in West Azerbaijan that were transporting weapons and Starlink to use against the government have been dismantled. Netanyahu plans to attack Iran ...",
-        "summary": [
-            "گادی آیزنکوت اقدام نظامی فوری علیه تهران پیش از تشکیل کابینه جدید را رد کرد، اما ۴۴۰ کیلوگرم اورانیوم غنی‌شده را خط قرمز و تهدید اصلی خواند.",
-            "دونالد ترامپ با اشاره به گزارش‌های بمب کثیف اعلام کرد هدف نهایی او دستیابی به توافقی بلندمدت برای جلوگیری قطعی از دستیابی ایران به سلاح هسته‌ای است.",
-            "چالش‌های داخلی اسرائیل برای تشکیل دولت ائتلافی، تصمیم‌گیری پیرامون هرگونه اقدام ضربتی علیه اهداف هسته‌ای را موقتاً به تعویق انداخته است."
-        ],
-        "impact": "توقف مقطعی خطر درگیری نظامی مستقیم تا زمان استقرار دولت جدید در تل‌آویو، همراه با افزایش فشارهای نظارتی بر ذخایر غنی‌سازی.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "AGC Communication",
-        "url": "https://www.agcnews.eu/israeliranwar-iran-cells-in-west-azerbaijan-that-were-transporting-weapons-and-starlink-to-use-against-the-government-have-been-dismantled-netanyahu-plans-to-attack-iran-without-us-consent/",
-        "clean_url": "https://www.agcnews.eu/israeliranwar-iran-cells-in-west-azerbaijan-that-were-transporting-weapons-and-starlink-to-use-against-the-government-have-been-dismantled-netanyahu-plans-to-attack-iran-without-us-consent",
-        "image": "https://www.agcnews.eu/wp-content/uploads/05frontiiariirn2411202605.jpg",
         "timestamp": 1795478400.0
     }
 ]
