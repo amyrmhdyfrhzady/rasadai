@@ -18,6 +18,24 @@
         "timestamp": 1795796509.966664
     },
     {
+        "id": "bd2e6e3fe1",
+        "title_fa": "قدرت‌نمایی پوتین با موشک‌های مافوق صوت زیردریایی اتمی",
+        "title_en": "Tsirkon missile has confirmed its strike power, high accuracy — Putin",
+        "summary": [
+            "ولادیمیر پوتین در مراسم الحاق یک زیردریایی اتمی جدید به ناوگان جنگی روسیه، از عملکرد موشک‌های مافوق صوت زیرکون دفاع کرد.",
+            "زیردریایی‌های کلاس یاسن-ام توانایی شلیک انواع موشک‌های کروز و مافوق صوت را به دست آورده‌اند."
+        ],
+        "impact": "تکمیل پازل بازدارندگی اتمی و دریایی مسکو در برابر غرب.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2226119",
+        "clean_url": "https://tass.com/politics/2226119",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795796040.0
+    },
+    {
         "id": "61bf2215b4",
         "title_fa": "نگا ه اپوزیسیون اسرائیل به سوءاستفاده ن ت ا ن ی ا ه و از تهدید ا ی ر ا ن",
         "title_en": "Opposition fears Netanyahu exploiting Iran threat to derail govt",
@@ -5488,23 +5506,5 @@
         "clean_url": "https://www.iranintl.com/202611247060",
         "image": "http://www.bing.com/th?id=ONUT.x2pRs7DYWH-HUw0aOhqW0Q&pid=News",
         "timestamp": 1795514160.0
-    },
-    {
-        "id": "2c11eb6f2f",
-        "title_fa": "هشدار درباره بازسازی توان جـ.ـمـ.ـهـ.ـوری اسـ.ـلامـ.ـی حین تعلل آمریکا",
-        "title_en": "As Donald Trump stalls, Iran rebuilds and Israel faces growing threats",
-        "summary": [
-            "اورژانس امنیتی اسرائیل نسبت به سوءاستفاده تهران از انفعال واشنگتن برای بازسازی زیرساخت‌های آسیب‌دیده هشدار داد.",
-            "تهدیدات روزافزون علیه اسرائیل در سایه عدم تصمیم‌گیری قاطع دونالد ترامپ ابعاد تازه‌ای به خود گرفته است."
-        ],
-        "impact": "افزایش ریسک درگیری نظامی پیش از تغییر معادلات در کاخ سفید.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SVGRITkxYLXNYS3pqck1RenExaC0zWkNLMFA0LWJ6S2ViRVQ2U1kzdkM2eG9QbkNvX2pLbjhyZF9jaXl3RXhDd0daaXp4b2JqMEFWRmRsVDRsZGQ3VGRkRDZNSE9aMF95bVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SVGRITkxYLXNYS3pqck1RenExaC0zWkNLMFA0LWJ6S2ViRVQ2U1kzdkM2eG9QbkNvX2pLbjhyZF9jaXl3RXhDd0daaXp4b2JqMEFWRmRsVDRsZGQ3VGRkRDZNSE9aMF95bVE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795513468.0
     }
 ]
