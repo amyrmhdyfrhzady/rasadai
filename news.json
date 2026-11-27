@@ -1,5 +1,23 @@
 [
     {
+        "id": "e47d02e68a",
+        "title_fa": "وضعیت سلامت و ظاهر دونالد ترامپ زیر ذره‌بین رسانه‌ها",
+        "title_en": "08 Ianuarie 2026",
+        "summary": [
+            "بررسی‌های جدید رسانه‌ای روی وضعیت ظاهری و سلامت دونالد ترامپ تمرکز کرده است.",
+            "تغییرات رنگ پوست و برنامه‌های رئیس‌جمهور آمریکا گمانه‌زنی‌های سیاسی تازه‌ای را رقم زده است."
+        ],
+        "impact": "این حواشی تاثیری بر معادلات کلان سیاسی ندارد اما بازتاب رسانه‌ای گسترده‌ای داشته است.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/vârstă-pag209",
+        "clean_url": "https://ziare.com/cautare/vârstă-pag209",
+        "image": "https://ziareromania.ro/img/header/ziarecom.svg",
+        "timestamp": 1795796509.966664
+    },
+    {
         "id": "61bf2215b4",
         "title_fa": "نگا ه اپوزیسیون اسرائیل به سوءاستفاده ن ت ا ن ی ا ه و از تهدید ا ی ر ا ن",
         "title_en": "Opposition fears Netanyahu exploiting Iran threat to derail govt",
@@ -5488,23 +5506,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/how-the-senate-gop-plans-to-keep-carrying-out-trump-s-agenda/ar-AA2i8IHI",
         "image": "http://www.bing.com/th?id=ONUT.EPS9Uz4k5k2sNF07L5KScg&pid=News",
         "timestamp": 1795511866.0
-    },
-    {
-        "id": "7f77077bb7",
-        "title_fa": "پافشاری تهران بر حفظ اورانیوم غنی‌شده در داخل",
-        "title_en": "Iran will keep enriched uranium on its territory",
-        "summary": [
-            "مقام ارشد دیپلماتیک ایران در قاهره اعلام کرد که اورانیوم غنی‌شده از کشور خارج نخواهد شد و تحت نظارت آژانس باقی می‌ماند.",
-            "تهران در حال بررسی طرح قطر و پاکستان برای غنی‌سازی ۳.۶۷ درصدی در ازای لغو تحریم‌ها و آزادسازی پول‌های بلوکه شده است."
-        ],
-        "impact": "تلاش برای امتیازگیری اتمی هم‌زمان با حفظ مواد هسته‌ای در خاک ایران.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "1news.az",
-        "url": "https://1news.az/en/news/20261124131007153-Iran-will-keep-enriched-uranium-on-its-territory",
-        "clean_url": "https://1news.az/en/news/20261124131007153-Iran-will-keep-enriched-uranium-on-its-territory",
-        "image": "https://1news.az/images/2026/11/24/20261124131007153/thumb.jpg?2026-11-24+13:15:10",
-        "timestamp": 1795511580.0
     }
 ]
