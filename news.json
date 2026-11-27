@@ -437,6 +437,24 @@
         "timestamp": 1795772382.0
     },
     {
+        "id": "f7eee124b9",
+        "title_fa": "تهدید ترامپ و سایه بمب‌های آمریکایی بر سایت‌های زیرزمینی",
+        "title_en": "Images show mystery site near Pickaxe Mountain as Trump makes Iran threat",
+        "summary": [
+            "تصاویر ماهواره‌ای از منطقه پیک‌اكس مائونتن نشان‌دهنده فعالیت‌های جدید در تاسیسات نظامی ایران است.",
+            "تاسیسات عمیق زیرزمینی جمهوری اسلامی چالش بزرگی برای بمب‌های سنگین آمریکایی ایجاد کرده است."
+        ],
+        "impact": "افزایش فشار نظامی واشنگتن بر حکومت و احتمال هدف‌گیری مراکز اتمی و نظامی مخفی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/images-show-mystery-site-near-pickaxe-mountain-as-trump-makes-iran-threat/ar-AA2inNa0",
+        "clean_url": "https://www.msn.com/en-us/news/other/images-show-mystery-site-near-pickaxe-mountain-as-trump-makes-iran-threat/ar-AA2inNa0",
+        "image": "http://www.bing.com/th?id=ONUT.bh8b8loeWHhJsaxKjDrnAg&pid=News",
+        "timestamp": 1795770716.0
+    },
+    {
         "id": "48ef85a9be",
         "title_fa": "سردرگمی در سیاست تحریمی کاخ سفید",
         "title_en": "A Guide to Major U.S. Sanctions Imposed During Trump's Second Term",
@@ -5488,23 +5506,5 @@
         "clean_url": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan",
         "image": "http://www.bing.com/th?id=ONUT.pgH06iM6aezkeXyTFtkKdA&pid=News",
         "timestamp": 1795514460.0
-    },
-    {
-        "id": "c668ad0a6e",
-        "title_fa": "نفوذ سایبری به سیستم‌های غیرمحرمانه سازمان سیا",
-        "title_en": "An unclassified CIA system was breached in a cyberattack, AP source says",
-        "summary": [
-            "گزارش‌ها از رخنه امنیتی در زیرساخت‌های سایبری سیا خبر می‌دهند",
-            "این حادثه نشان‌دهنده آسیب‌پذیری نهادهای اطلاعاتی آمریکا در برابر حملات سایبری است"
-        ],
-        "impact": "افزایش سطح هشدار امنیتی در نهادهای اطلاعاتی آمریکا",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Times Union",
-        "url": "https://www.timesunion.com/news/article/unclassified-cia-system-breached-cyberattack-ap-22548399.php",
-        "clean_url": "https://www.timesunion.com/news/article/unclassified-cia-system-breached-cyberattack-ap-22548399.php",
-        "image": "http://www.bing.com/th?id=ONUT.QPlR_uDd2Jj9k_VGVz-hWw&pid=News",
-        "timestamp": 1795514220.0
     }
 ]
