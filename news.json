@@ -424,6 +424,25 @@
         "timestamp": 1795751340.0
     },
     {
+        "id": "fa0d029daf",
+        "title_fa": "بسته شدن چند گذرگاه مرزی عراق با ایران و سوریه",
+        "title_en": "Iran MP warns Qatar against overstepping its role as mediator",
+        "summary": [
+            "بر اساس گزارش ایران اینترنشنال به نقل از خبرگزاری مهر، نیروهای عراقی روز پنج‌شنبه گذرگاه شیخ‌صله در استان کرمانشاه را بر اساس دستور دولت مرکزی بغداد برای بستن گذرگاه‌های غیررسمی مسدود کردند.",
+            "رئیس گمرک کرمانشاه اعلام کرد حدود ۳۰۰ کامیون حامل کالا و مصالح ساختمانی متوقف شده‌اند و به دیگر گذرگاه‌ها هدایت می‌شوند؛ وی همچنین گفت درباره گزارش‌های تاییدنشده بسته شدن گذرگاه شوشمی ابلاغیه رسمی دریافت نکرده است.",
+            "به گزارش رویترز به نقل از رسانه‌های دولتی عراق، گذرگاه‌های باشته در مرز ایران و الولید در مرز سوریه که تاکنون تحت اداره اقلیم کردستان بودند نیز بسته شدند و فؤاد حسین، وزیر خارجه عراق، پیش‌تر گفته بود خزانه‌داری آمریکا رسماً درخواست بستن این مسیرها را مطرح کرده است."
+        ],
+        "impact": "بسته شدن این گذرگاه‌ها باعث توقف موقت صدها کامیون تجاری و تغییر مسیر تردد کالا در مرزهای غربی ایران شده است.",
+        "tag": "مرزی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611277796",
+        "clean_url": "https://www.iranintl.com/en/202611277796",
+        "image": "http://www.bing.com/th?id=ONUT.nTgheWsIvw9iIpaSFuNE4Q&pid=News",
+        "timestamp": 1795750980.0
+    },
+    {
         "id": "736591983a",
         "title_fa": "ترامپ: پیروزی بر جمهوری اسلامی هر زمان که بخواهم ممکن است",
         "title_en": "Trump says he's giving Iran \"a chance to be smart\"",
@@ -5488,24 +5507,5 @@
         "clean_url": "https://www.iranintl.com/en/202611246322",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1795492860.0
-    },
-    {
-        "id": "4cc9355b47",
-        "title_fa": "خیز ترامپ برای ضربه نظامی و محاصره دریایی ج.ا",
-        "title_en": "Trump Leans Toward New Year Iran Strikes, Dares Tehran to Test U.S. Naval Blockade",
-        "summary": [
-            "ترامپ با تغییر استراتژی، گزینه حملات نظامی مستقیم در سال جدید را روی میز گذاشته است.",
-            "تهدید به ایجاد محاصره دریایی، پیامی صریح برای به چالش کشیدن توان عملیاتی نیروی دریایی س.پ.ا.ه است.",
-            "این رویکرد نشان‌دهنده پایان دوران مماشات و ورود به فاز تقابل مستقیم در خلیج فارس است."
-        ],
-        "impact": "افزایش شدید ریسک درگیری نظامی و احتمال اختلال کامل در صادرات نفت ج.ا.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The SOFX Report",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0tmZk8zbjBPeHY2UFFLREhFU1hZeFR1NUFWbUZEN3lDMFhteGJHRjlSX1hXUWdzX3pZYXlmamVkdTlOSlR3VFc0QjVwUW5lQU9Qc1Zjelp0M3JWUGFfRHE1Zl9JNWRfTkFLOUh4XzlWWFpZZ1dsWXVCMS11aEhiS0JZMXZuUmRrR3Y1SVphMjdLRVgydk1jR19tZU96eEd1RkxQRA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0tmZk8zbjBPeHY2UFFLREhFU1hZeFR1NUFWbUZEN3lDMFhteGJHRjlSX1hXUWdzX3pZYXlmamVkdTlOSlR3VFc0QjVwUW5lQU9Qc1Zjelp0M3JWUGFfRHE1Zl9JNWRfTkFLOUh4XzlWWFpZZ1dsWXVCMS11aEhiS0JZMXZuUmRrR3Y1SVphMjdLRVgydk1jR19tZU96eEd1RkxQRA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795492544.0
     }
 ]
