@@ -36,6 +36,25 @@
         "timestamp": 1795793100.0
     },
     {
+        "id": "0628c2582e",
+        "title_fa": "بسته شدن مرزهای غربی ایران با دستور بغداد",
+        "title_en": "Iran's Basij militia reports 174,000 checkpoints this year",
+        "summary": [
+            "نیروهای عراقی چند گذرگاه مرزی غیررسمی با کرمانشاه را به دستور دولت مرکزی بستند.",
+            "صدها کامیون حامل بار در مرز معطل مانده و کار ساختار تجاری منطقه مختل شد.",
+            "این اقدام به دنبال فشار وزارت خزانه‌داری آمریکا برای بستن مرزهای تجاری صورت گرفته است."
+        ],
+        "impact": "فلج شدن مبادلات تجاری مرزی و فشار اقتصادی بیشتر روی ج.ا.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611273556",
+        "clean_url": "https://www.iranintl.com/en/202611273556",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/707e5e358ec472be9f9e5839b5c866e8cb592ca5-1156x745.png?rect=19,0,1118,745&w=576&h=384&q=90&fit=max&auto=format",
+        "timestamp": 1795792500.0
+    },
+    {
         "id": "0ad1c670d7",
         "title_fa": "حذف ۵۳ هزار ایرانی از سفر حج به دلیل جنگ و تحریم",
         "title_en": "War, Sanctions Leave 53,000 Iranian Applicants Out of This Year's Hajj",
@@ -5487,22 +5506,5 @@
         "clean_url": "https://1news.az/en/news/20261124131007153-Iran-will-keep-enriched-uranium-on-its-territory",
         "image": "https://1news.az/images/2026/11/24/20261124131007153/thumb.jpg?2026-11-24+13:15:10",
         "timestamp": 1795511580.0
-    },
-    {
-        "id": "3ae7b634ff",
-        "title_fa": "خسارت ۱۷ میلیون دلاری دانشگاه میشیگان پس از لغو یک قرارداد",
-        "title_en": "Reports: Michigan president reversed course on hiring Trev Alberts",
-        "summary": [
-            "تصمیم ناگهانی رئیس دانشگاه میشیگان برای منتفی کردن استخدام ترو آلبرتس، خسارتی سنگین روی دست این نهاد گذاشت."
-        ],
-        "impact": "ایجاد بحران مدیریتی و چالش مالی جدی برای مسئولان دانشگاه میشیگان.",
-        "tag": "اخبار",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "WolverinesWire on MSN",
-        "url": "https://www.msn.com/en-us/news/other/reports-michigan-president-reversed-course-on-hiring-trev-alberts/ar-AA2i8Mup",
-        "clean_url": "https://www.msn.com/en-us/news/other/reports-michigan-president-reversed-course-on-hiring-trev-alberts/ar-AA2i8Mup",
-        "image": "http://www.bing.com/th?id=ONUT.afOaPma977D01BdJP73cfQ&pid=News",
-        "timestamp": 1795510656.0
     }
 ]
