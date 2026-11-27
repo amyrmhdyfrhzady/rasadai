@@ -494,6 +494,24 @@
         "timestamp": 1795767331.0
     },
     {
+        "id": "35b281d668",
+        "title_fa": "تقویت ناوگان زیردریایی اتمی روسیه تا سال ۲۰۳۰",
+        "title_en": "Russian Navy to receive five missile-carrying submarines by 2030 — Putin",
+        "summary": [
+            "ولادیمیر پوتین از تحویل پنج زیردریایی موشک‌انداز جدید به نیروی دریایی روسیه تا سال ۲۰۳۰ خبر داد.",
+            "سه فروند از این زیردریایی‌ها از کلاس پیشرفته یاسن-ام خواهند بود و ساخت آن‌ها در کارخانه‌های سوماش ادامه دارد."
+        ],
+        "impact": "توسعه توان بازدارندگی اتمی و دریایی مسکو در رقابت‌های راهبردی با غرب.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "TASS",
+        "url": "https://tass.com/politics/2226113",
+        "clean_url": "https://tass.com/politics/2226113",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795766820.0
+    },
+    {
         "id": "6a3e9297f5",
         "title_fa": "خط و نشان ترامپ برای حمله به تأسیسات زیرزمینی نطنز",
         "title_en": "Iran will target US bases in Europe and region in next war, MP says",
@@ -5488,24 +5506,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SVGRITkxYLXNYS3pqck1RenExaC0zWkNLMFA0LWJ6S2ViRVQ2U1kzdkM2eG9QbkNvX2pLbjhyZF9jaXl3RXhDd0daaXp4b2JqMEFWRmRsVDRsZGQ3VGRkRDZNSE9aMF95bVE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795513468.0
-    },
-    {
-        "id": "b90306dc2b",
-        "title_fa": "بحران زیرساختی AI؛ شبکه برق آمریکا کشش ندارد",
-        "title_en": "The Inconvenient Truth About the Electricity AI Requires",
-        "summary": [
-            "توسعه سریع مراکز داده هوش مصنوعی با بن‌بست جدی در تامین انرژی و شبکه برق فرسوده آمریکا مواجه شده است.",
-            "سرمایه‌گذاری تریلیون دلاری در حوزه فناوری بدون توسعه زیرساخت‌های شبکه‌ای عملاً قفل خواهد شد.",
-            "این کمبود انرژی توان رقابت تکنولوژیک ایالات متحده را در برابر رقبای شرقی کند می‌کند."
-        ],
-        "impact": "کند شدن روند توسعه زیرساخت‌های هوش مصنوعی آمریکا و افزایش هزینه‌های انرژی.",
-        "tag": "فناوری",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Esquire",
-        "url": "https://www.esquire.com/news-politics/a74457759/data-centers-electricity-explained/",
-        "clean_url": "https://www.esquire.com/news-politics/a74457759/data-centers-electricity-explained",
-        "image": "http://www.bing.com/th?id=ONUT.MY9_WQ3Ofbgw2Z5KbfYsEA&pid=News",
-        "timestamp": 1795512120.0
     }
 ]
