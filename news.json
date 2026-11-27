@@ -18,6 +18,26 @@
         "timestamp": 1795765138.0
     },
     {
+        "id": "b2b255b549",
+        "title_fa": "شلیک هشدار نزدیک جزیره هنگام و هشدار نظامی ترامپ",
+        "title_en": "IRGC says US F-16 turns away after warning fire near Iran's Hengam Island",
+        "summary": [
+            "بر اساس گزارش ایران اینترنشنال، سپاه پاسداران اعلام کرده است یک جنگنده اف-۱۶ آمریکا پس از شلیک هشدار در نزدیکی جزیره هنگام تغییر مسیر داده است.",
+            "در همین حال، دونالد ترامپ در تماس روز شکرگزاری با نظامیان آمریکایی از اقامتگاه مارالاگو گفت واشنگتن زمان هرگونه اقدام نظامی احتمالی را تعیین می‌کند و یک ناو هواپیمابر دیگر به منطقه اعزام شده است.",
+            "ترامپ با متهم کردن ایران به اشتباهات بزرگ گفت برای توافق و حفظ جان افراد فرصت داده می‌شود، اما از بهره‌برداری تهران از این فرصت مطمئن نیست.",
+            "رئیس‌جمهور آمریکا همچنین از گفت‌وگوی اخیر خود با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، خبر داد و هشدار داد در صورت ازسرگیری درگیری نظامی، تاسیسات زیرزمینی کوه کلنگ در نزدیکی نطنز هدف قرار می‌گیرد."
+        ],
+        "impact": "اعزام ناو هواپیمابر اضافی و طرح نام تاسیسات نزدیک نطنز، سطح تنش نظامی میان واشنگتن و تهران را بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611278101",
+        "clean_url": "https://www.iranintl.com/en/202611278101",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4cd35cc8eef649282f8926a2135b8c34fbc28019-5500x3773.jpg?rect=864,0,3773,3773&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795763280.0
+    },
+    {
         "id": "a4b61d4818",
         "title_fa": "گاف ترامپ در اشتباه گرفتن اسرائیل و ایران",
         "title_en": "Trump confused Israel with Iran: a curious incident at Mar-a-Lago",
@@ -34,6 +54,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2JuSXF3ZWxtTzBXRzM5aWdzcGJfTGItS3dEbV96MEpJYUpKX1ZvVjl2XzN6R0tzQkY0Y1FrbFNDcElrSFg5SjM1Q29JOUoyUjZLYzN0cHh5NE5ZY0hEam1oUzJJUUdDajMyOFR1UHJSTnE4eURJUmN0ODBzMHZtOXRYNng3bDdSOVE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795762886.0
+    },
+    {
+        "id": "0cf45f3ddb",
+        "title_fa": "اعلام آمادگی رزمی ارتش ایران همزمان با تهدید ترامپ",
+        "title_en": "Iran's armed forces at highest level of combat readiness, army official says",
+        "summary": [
+            "به گزارش ایران اینترنشنال، یک مقام ارتش ایران اعلام کرده است نیروهای مسلح این کشور در بالاترین سطح آمادگی رزمی قرار دارند.",
+            "دونالد ترامپ در گفت‌وگو با نیروهای آمریکایی از اقامتگاه مارالاگو تاکید کرد آمریکا توان نظامی خود در منطقه را با اعزام یک ناو هواپیمابر اضافه تقویت کرده است.",
+            "ترامپ با اشاره به تماس‌های اخیرش با بنیامین نتانیاهو تصریح کرد اگر اقدام نظامی از سر گرفته شود، تاسیسات زیرزمینی نزدیک مجتمع غنی‌سازی نطنز هدف قرار خواهد گرفت.",
+            "رئیس‌جمهور آمریکا همزمان مدعی شد واشنگتن برای رسیدن به توافق فرصت داده است، اما زمان هرگونه اقدام بعدی را خودش مشخص می‌کند."
+        ],
+        "impact": "موضع‌گیری متقابل فرماندهان نظامی ایران و تهدید مستقیم تاسیسات زیرزمینی، ریسک درگیری در منطقه را افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611270045",
+        "clean_url": "https://www.iranintl.com/en/202611270045",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4cd35cc8eef649282f8926a2135b8c34fbc28019-5500x3773.jpg?rect=864,0,3773,3773&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795762740.0
     },
     {
         "id": "bc1ae6c658",
@@ -5470,41 +5510,5 @@
         "clean_url": "https://www.iranintl.com/en/202611238906",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1795477680.0
-    },
-    {
-        "id": "d97bc0c2a8",
-        "title_fa": "عباس عراقچی؛ مهره کلیدی در بن‌بست دیپلماسی هسته‌ای",
-        "title_en": "Abbas Araghchi | Iran, Education, Life, Biography, War, & Nuclear Diplomacy",
-        "summary": [
-            "سوابق عراقچی نشان می‌دهد او همواره بازوی اجرایی ج.ا در مذاکرات فرسایشی برای خرید زمان بوده است.",
-            "تخصص او در دیپلماسی هسته‌ای، ابزاری برای مدیریت فشارهای بین‌المللی بدون تغییر در استراتژی کلان نظامی است."
-        ],
-        "impact": "تداوم سیاست‌های فعلی در پرونده هسته‌ای با تکیه بر چهره‌های آشنای مذاکراتی.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Wa0M3c0FyUzhwZklhaEJ3bWRfaE4xcFdtcXJCTzR5QmwxemVkUDFpUXVqRmJRZkNWS0EtNkZRX01hNWNHdXMwLXQzTFREUUhzejZndFd5Ykc1YkF1czBkaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Wa0M3c0FyUzhwZklhaEJ3bWRfaE4xcFdtcXJCTzR5QmwxemVkUDFpUXVqRmJRZkNWS0EtNkZRX01hNWNHdXMwLXQzTFREUUhzejZndFd5Ykc1YkF1czBkaQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795476539.0
-    },
-    {
-        "id": "7ce667af22",
-        "title_fa": "مخالفت‌ها با طرح نتانیاهو برای حمله به جـ.ـهـ.ـو،ر،ی ا،سـ.ـلا،م،ی",
-        "title_en": "Netanyahu's Iran strike push faces resistance at home and in US",
-        "summary": [
-            "فشارها برای اقدام نظامی علیه تاسیسات هسته‌ای در داخل اسرائیل و آمریکا با موانع جدی روبه‌رو شده است.",
-            "اختلاف‌نظر میان مقام‌های ارشد امنیتی و سیاسی بر سر زمان‌بندی و هزینه این اقدام شدت گرفته است."
-        ],
-        "impact": "سایه تردید بر سر تصمیمات ضربتی تل‌آویو علیه تهران سنگینی می‌کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4X2c1bEczMDZZdloxbk44ZDlFdGQtaUlLejV1c05RQkRBb3ZNeDI4X3RlOTdyQW4xbkE0MDd4MnJ6ck00bS13Q2lYQlBqN3RhazdXMkFR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4X2c1bEczMDZZdloxbk44ZDlFdGQtaUlLejV1c05RQkRBb3ZNeDI4X3RlOTdyQW4xbkE0MDd4MnJ6ck00bS13Q2lYQlBqN3RhazdXMkFR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795475721.0
     }
 ]
