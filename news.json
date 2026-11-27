@@ -1,5 +1,43 @@
 [
     {
+        "id": "1f25f7400c",
+        "title_fa": "گسترش جنگ منطقه‌ای به خلیج فارس",
+        "title_en": "The Iran war is spreading beyond Israel. The Gulf is becoming a global front",
+        "summary": [
+            "تنش‌های نظامی فراتر از مرزهای اسرائیل رفته و منطقه خلیج فارس به جبهه اصلی درگیری تبدیل شده است.",
+            "خطوط کشتیرانی، انرژی و امنیت منطقه تحت تأثیر مستقیم این رویارویی قرار گرفته‌اند."
+        ],
+        "impact": "تبدیل شدن خلیج فارس به کانون بحران امنیتی و ژئوپلیتیک.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03dXpma1ptMmNGYVhwcGpSRVZ3eE4tc3pwYS1WTFl1SEE4RlZVdmZ0SGRYRGxiS0VZNnU3UXZrVkJRQW84U3dxNjVyeWxvRTZXTDRUdElodlBRLUQzUzFGbUc4OW1sb09MX0Z0cEJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03dXpma1ptMmNGYVhwcGpSRVZ3eE4tc3pwYS1WTFl1SEE4RlZVdmZ0SGRYRGxiS0VZNnU3UXZrVkJRQW84U3dxNjVyeWxvRTZXTDRUdElodlBRLUQzUzFGbUc4OW1sb09MX0Z0cEJ3",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795802757.0
+    },
+    {
+        "id": "c109686e16",
+        "title_fa": "اعتراف مسعود پزشکیان به فروپاشی اقتصاد زیر فشار تحریم‌ها",
+        "title_en": "'We Have No Money': Iran Admits Its Economy Is Crumbling as Donald Trump's Blockade Creates Massive Inflation",
+        "summary": [
+            "فشار حداکثری دولت دونالد ترامپ روی صادرات نفت و مسیرهای تجاری، منبع درآمد حکومت را به شدت قفل کرده است.",
+            "مسعود پزشکیان در تلویزیون رسمی صراحتاً اعلام کرد که پول تمام شده و کشور درگیر جنگ خاموش اقتصادی است.",
+            "سقوط ارزش ریال تا کانال ۲.۹ میلیون تومانی در برابر دلار، تورم مواد غذایی و قطع یارانه‌ها را به همراه داشته است.",
+            "اعتصابات کارگران برای مطالبات معوقه و بحران نقدینگی، سیستم حکمرانی را در نقطه‌ای حساس قرار داده است."
+        ],
+        "impact": "فلج شدن کامل منابع مالی ج.ا و خروج کنترل ارز از دست بانک مرکزی.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "nationalsecurityjournal",
+        "url": "https://nationalsecurityjournal.org/we-have-no-money-iran-admits-its-economy-is-crumbling-as-donald-trumps-blockade-creates-massive-inflation/",
+        "clean_url": "https://nationalsecurityjournal.org/we-have-no-money-iran-admits-its-economy-is-crumbling-as-donald-trumps-blockade-creates-massive-inflation",
+        "image": "https://nationalsecurityjournal.org/wp-content/uploads/2026/11/Donald-Trump-in-Ukraine-Meeting.jpg",
+        "timestamp": 1795800360.0
+    },
+    {
         "id": "8ea28c90de",
         "title_fa": "ترامپ: پایان جنگ با ایـران در دستان من است",
         "title_en": "Donald Trump Just Answered the Question the World Wants Solved: When He Thinks the Iran War Will End",
@@ -5466,42 +5504,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcElvR0llczRoNWNXRllLc0ZocllneEY1M3hiaW1yNGk4bVpQN2NYRXpGM0JwOGx4U0RNdm9xSndaNkNVSi0tTUlYNGZLaDlRU2xPdkYzX1dpUF85VTlBV1pCdkVOYkVqRFNiVUNXd1FlcnpFWWxnb1pCdDlQOG9xeDdKendpd3ZDLXI4RndqMzVHZmR4Yjg0ZlRIaHpLeVpGVkVqUUVDakFtUHdUMWlmVlJ1bG5pZjRtS2tr",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795521717.0
-    },
-    {
-        "id": "7ffdb5adbe",
-        "title_fa": "اولتیماتوم چهار روزه ترامپ به ج.ا و تهدید به حمله نظامی",
-        "title_en": "US gives Iran four days, Trump warns of strikes",
-        "summary": [
-            "دونالد ترامپ مذاکرات با تهران را بی‌معنی خواند و مقامات حکومت را به وقت‌کشی متهم کرد.",
-            "یک طرح جدید با مهلت چهار روزه برای حل بحران اتمی و تنگه هرمز روی میز تهران قرار گرفته است.",
-            "ترامپ از اعتراضات مردمی علیه حکومت حمایت کرد و به ادامه فشارها رأی مثبت داد."
-        ],
-        "impact": "افزایش شدید ریسک درگیری نظامی و بسته شدن پرونده دیپلماسی در صورت عدم پذیرش خواسته‌های واشنگتن.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Ahmedabad Mirror",
-        "url": "https://www.ahmedabadmirror.com/us-gives-iran-four-days-trump-warns-of-strikes/81926627.html",
-        "clean_url": "https://www.ahmedabadmirror.com/us-gives-iran-four-days-trump-warns-of-strikes/81926627.html",
-        "image": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1795469867338.jpg-org",
-        "timestamp": 1795521600.0
-    },
-    {
-        "id": "fdd359b63c",
-        "title_fa": "شکست لابی‌گری اسرائیل در آمریکا و جبهه هشتم",
-        "title_en": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
-        "summary": [
-            "تلاش‌های تبلیغاتی و نفوذ اسرائیل در ایالات متحده با چالش جدی مواجه شده است.",
-            "شکست این سیاست‌ها افکار عمومی آمریکا را نسبت به تحولات منطقه حساس‌تر کرده است."
-        ],
-        "impact": "کاهش اثرگذاری فشارهای دیپلماتیک بر روی معادلات سیاسی واشنگتن",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEhVQnRkbmtLRFFmMGVLdTFxbjRRQ08zcXdnRnpSUzVNVTR3cVJUYXpVNF91c3B6ZXJpZnEyT0s1WndYbWlhMENQMEVJcXhnQWdQQ2pnUkczYmRRRE5VQVRpeF80eTh6TjJud1FrVTloRzVzTXBIdFRXMDZjcTJpZkh2QzF2amRkT0hQejlOdDI2UWZzYXlkQ3NKSDVHWU5RVkJPM0JGaE7SAa4BQVVfeXFMTzVPN3JNRm5fSVlDaEp5WkxWZWIyQXgtb01LeTZtV001OFFwWkx0dGJDV0tsby1zVUpucWxNc3c0YkhmdVBPVGNZMFhrcDVoUWdFdVI3Y0FHcEFtSHdiUHdFbkpnT0FXLVc2Z2dRNWo3UUJBdVJVMENScVlWYWRJdER4TXQ4X0dLT1RzX3d4TUctNk80VGdIdTZZeXV5dTE4YlEwdGt1TDh0MDRQUVdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEhVQnRkbmtLRFFmMGVLdTFxbjRRQ08zcXdnRnpSUzVNVTR3cVJUYXpVNF91c3B6ZXJpZnEyT0s1WndYbWlhMENQMEVJcXhnQWdQQ2pnUkczYmRRRE5VQVRpeF80eTh6TjJud1FrVTloRzVzTXBIdFRXMDZjcTJpZkh2QzF2amRkT0hQejlOdDI2UWZzYXlkQ3NKSDVHWU5RVkJPM0JGaE7SAa4BQVVfeXFMTzVPN3JNRm5fSVlDaEp5WkxWZWIyQXgtb01LeTZtV001OFFwWkx0dGJDV0tsby1zVUpucWxNc3c0YkhmdVBPVGNZMFhrcDVoUWdFdVI3Y0FHcEFtSHdiUHdFbkpnT0FXLVc2Z2dRNWo3UUJBdVJVMENScVlWYWRJdER4TXQ4X0dLT1RzX3d4TUctNk80VGdIdTZZeXV5dTE4YlEwdGt1TDh0MDRQUVdR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795520232.0
     }
 ]
