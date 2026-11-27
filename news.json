@@ -36,6 +36,25 @@
         "timestamp": 1795805030.0
     },
     {
+        "id": "c3890c49de",
+        "title_fa": "بسته شدن مرزهای غربی ایران با دستور مستقیم واشنگتن",
+        "title_en": "Iran defense minister says army and IRGC navies strengthening cooperation",
+        "summary": [
+            "دولت عراق با فشار وزارت خزانه‌داری آمریکا اقدام به بستن گذرگاه‌های مرزی غیررسمی با ایران کرده است.",
+            "صدها کامیون حامل مصالح ساختمانی و کالا در مرز کرمانشاه معطل مانده و بلاتکلیف هستند.",
+            "این اقدام در راستای مهار مبادلات مرزی و تنگ‌تر کردن حلقه فشارهای اقتصادی بر جمهوری اسلامی صورت گرفته است."
+        ],
+        "impact": "انسداد مسیرهای تجاری مرزی، ضربه تازه‌ای به صادرات غیرنفتی و اقتصاد بحران‌زده ایران وارد می‌کند.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611271032",
+        "clean_url": "https://www.iranintl.com/en/202611271032",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4cd35cc8eef649282f8926a2135b8c34fbc28019-5500x3773.jpg?rect=864,0,3773,3773&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795803660.0
+    },
+    {
         "id": "1f25f7400c",
         "title_fa": "گسترش جنگ منطقه‌ای به خلیج فارس",
         "title_en": "The Iran war is spreading beyond Israel. The Gulf is becoming a global front",
@@ -5485,24 +5504,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1lWbk8tVk1NdEplNmRSV2VFb1RGampOZmZQVy00VUUyRHZsYURmWFF6N3ZpRUI5MW45Y01oUUFxeW1vVkNEaXo3c1dqU0JuYmZEOXlVOXlZSlV6S200OEJZQXZTV1RHZ1RQRi1FcGROTTc5cFNkV084VHFfTWJ4dUhCbzgwSlZzUnZiVUYwVDZ3R3hHYVZ3b0F2Y3J1NDVSdmhMQWdfQTYwREE5UXFpeFZGd2J6d9IBuwFBVV95cUxPRzF3TWtNM1BFSFdlbV9wb1dyUjBPak0wUFlVYU1NSHRlVHhJNTRUT0x2bWhYT0g1NUlhTXRCMTM3aG9SLWZsd0FyMWxLRllNWnlXejZVYV9VY3pndkk3am1TaHRlNTFEdGhUM1FzR0k1RmZHc2FhemN2a3lJZHdnUUdrOVpvTGJkRmpVRzlMc2tMWWhuWjJPemJXc1RMaFFJYllzUTR0QXJHMi13aWkxeDJIb0JjMndreExr",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795533273.0
-    },
-    {
-        "id": "8a5ac079f6",
-        "title_fa": "تشدید محاصره دریایی و حملات سایبری در خلیج فارس",
-        "title_en": "U.S.- Iran Blockade & Cyberattacks: Latest Peace Talks and How the Maritime Crisis Can Be Resolved",
-        "summary": [
-            "تهران با ادعای شکستن محاصره دریایی، تهدید به استفاده از تمام ابزارهای نظامی کرده است.",
-            "ترامپ در حالی حملات فیزیکی را کم‌اهمیت جلوه می‌دهد که همزمان تهدید به اقدام نظامی در سال ۲۰۲۷ می‌کند.",
-            "ردپای احتمالی مسکو در حملات سایبری به ۵۰ کشتی تجاری، ابعاد درگیری را فراتر از تقابل مستقیم برده است."
-        ],
-        "impact": "اختلال جدی در امنیت کشتیرانی و افزایش ریسک درگیری نظامی مستقیم در آب‌های خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "News Talk Florida",
-        "url": "https://www.newstalkflorida.com/featured/latest-us-iran-blockade-and-cyberattacks-update/",
-        "clean_url": "https://www.newstalkflorida.com/featured/latest-us-iran-blockade-and-cyberattacks-update",
-        "image": "https://www.newstalkflorida.com/wp-content/uploads/2026/11/Iran-Blockade-Driver.jpg",
-        "timestamp": 1795532880.0
     }
 ]
