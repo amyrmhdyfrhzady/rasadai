@@ -407,6 +407,24 @@
         "timestamp": 1795762393.0
     },
     {
+        "id": "777bcd8338",
+        "title_fa": "بحران گاز و زمستان سخت در پیش روی جـمـهـوری اسـلامـی",
+        "title_en": "Iran just got handed a grim winter warning by its own president: Iranians should expect difficulties after the attack on its gas network",
+        "summary": [
+            "رئیس‌جمهور در دفتر تاریک به بحران کمبود شدید گاز و مشکلات سنگین زمستان اعتراف کرد.",
+            "فشار اقتصادی پس از حملات به زیرساخت‌ها، وضعیت معیشتی را وارد مرحله بحرانی‌تری کرده است."
+        ],
+        "impact": "فلج شدن بخش انرژی و افزایش نارضایتی‌های عمومی از ناتوانی حاکمیت در تأمین گرمایش",
+        "tag": "بحران انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-grim-winter-warning-by-its-own-president-iranians-should-expect-difficulties-after-the-attack-on-its-gas-network/ar-AA2imoH4",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-grim-winter-warning-by-its-own-president-iranians-should-expect-difficulties-after-the-attack-on-its-gas-network/ar-AA2imoH4",
+        "image": "http://www.bing.com/th?id=ONUT.4JMqqFAqKBISAiVzMB4tQA&pid=News",
+        "timestamp": 1795757879.0
+    },
+    {
         "id": "20c6ecf2d0",
         "title_fa": "تهدید مستقیم اتمی؛ ترامپ از حمله به تاسیسات کلیدی خبر داد",
         "title_en": "Iran using fabricated 'espionage' laws to silence critics abroad, US State Department says",
@@ -5488,23 +5506,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oelFway15TGtiT2hGdl9Ua1dKWk1FRGJEaE1XcTZNbHI1RElPTHRXWVM3cExTeUZ0MWVHNlhtZ21oZHkya0VzTlA1TmZnLXVmQzZ2RTFGTDY",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795497565.0
-    },
-    {
-        "id": "d566de8453",
-        "title_fa": "اعزام نیروهای گارد ملی ایالت یوتای آمریکا به منطقه درگیری با ایران",
-        "title_en": "Utah National Guard sending soldiers to Iran conflict, general says",
-        "summary": [
-            "فرماندهان نظامی آمریکا دستور اعزام بخشی از نیروهای گارد ملی ایالت یوتا را به منطقه خاورمیانه صادر کردند.",
-            "این اقدام بخشی از طرح واشنگتن برای تقویت نیروهای خود در برابر تهدیدات منطقه‌ای و افزایش حضور بازدارنده در برابر جمهوری اسلامی است."
-        ],
-        "impact": "افزایش تمرکز نیروهای نظامی آمریکا در خاورمیانه، پیام واشنگتن برای پاسخ سریع به هرگونه تحرک نظامی را تقویت می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "kjzz.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUNjeEFuTjZRWFpTSkU4S1pCMm0xRDg5TUNNYWxSYVNid203clpwLTZrWHB2bDc3OVNlSWRPQ0hvbXZhVGcxcGtVNEoxVGg1VUlLSHY2UzBFWUg1WjZGRTFmcWtXVVlITm1NbFBSdDNBR1NveDd2bTFja0ZUNjFldVpPeUNCZnNiZEkxUVYtWEhSRDF0WmN5U1pB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUNjeEFuTjZRWFpTSkU4S1pCMm0xRDg5TUNNYWxSYVNid203clpwLTZrWHB2bDc3OVNlSWRPQ0hvbXZhVGcxcGtVNEoxVGg1VUlLSHY2UzBFWUg1WjZGRTFmcWtXVVlITm1NbFBSdDNBR1NveDd2bTFja0ZUNjFldVpPeUNCZnNiZEkxUVYtWEhSRDF0WmN5U1pB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795497303.0
     }
 ]
