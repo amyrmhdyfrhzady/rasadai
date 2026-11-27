@@ -1,5 +1,23 @@
 [
     {
+        "id": "43b1a0d1ec",
+        "title_fa": "بسته شدن مرزهای غربی به دستور واشنگتن",
+        "title_en": "Iran truckers' strike enters sixth day amid fuel shortages and rising costs",
+        "summary": [
+            "دولت عراق مرزهای کلیدی با ای-ران را به دستور رسمی وزارت خزانه‌داری آمریکا مسدود کرد.",
+            "صدها کامیون تجاری در مرز کرمانشاه سرگردان شدند."
+        ],
+        "impact": "فشار اقتصادی و تجاری بر ج-ه-م-ه-و-ر-ی ا-س-ل-ا-م-ی از سوی مرزهای غربی افزایش یافت.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611270967",
+        "clean_url": "https://www.iranintl.com/en/202611270967",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/16418531e9835eaf56bea66d66a5b24dd0f90502-1448x1086.png?rect=0,163,1448,760&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795780920.0
+    },
+    {
         "id": "b35f1016b0",
         "title_fa": "چالش‌های راهبردی ارتش آمریکا در جنگ‌های فرسایشی",
         "title_en": "Winning in Iran: A demarcation line",
@@ -5490,23 +5508,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-just-handed-donald-trump-a-giant-clue-it-will-not-reopen-hormuz-soon-its-foreign-minister-called-that-discussion-pointless/ar-AA2i7EMa",
         "image": "http://www.bing.com/th?id=ONUT.g3eBKIKwSN52qnYxOrCi2A&pid=News",
         "timestamp": 1795495522.0
-    },
-    {
-        "id": "1e690e6b16",
-        "title_fa": "مانور تبلیغاتی تهران با نمادهای اساطیری برای پوشش ضعف موشکی",
-        "title_en": "Iran enlists epic heroes as missile claims grow",
-        "summary": [
-            "جمهوری اسلامی برای جبران ضربات منطقه‌ای و بازسازی توان بازدارندگی آسیب‌دیده، به نام‌گذاری اساطیری موشک‌ها و بزرگ‌نمایی رسانه‌ای متوسل شده است.",
-            "این خط تبلیغاتی بیش از آنکه نشان‌دهنده جهش عملیاتی واقعی باشد، یک جنگ روانی هدفمند برای تقویت روحیه بدنه داخلی است."
-        ],
-        "impact": "تلاش برای بازسازی توان بازدارندگی از دست‌رفته از طریق جنگ روانی و ابزارهای تبلیغاتی.",
-        "tag": "جنگ روانی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Amwaj.media",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT19kWDBMVGRnamhmdEpRRXE1dGpDTGJ3R2t2TzFvVW9pNWdmNFBJTloteTFTRmw4TFV4MExIVU9YY0hQa1VYNjlmTWZFd2loMXMzLVVQQWVBVTRvX2lfT0p6Z3NnbU5JejNJUmdZY2NDYzRnSzBlaXM0Ul9SbEdZVk5yaTZvYXNyeG5idg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT19kWDBMVGRnamhmdEpRRXE1dGpDTGJ3R2t2TzFvVW9pNWdmNFBJTloteTFTRmw4TFV4MExIVU9YY0hQa1VYNjlmTWZFd2loMXMzLVVQQWVBVTRvX2lfT0p6Z3NnbU5JejNJUmdZY2NDYzRnSzBlaXM0Ul9SbEdZVk5yaTZvYXNyeG5idg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795494881.0
     }
 ]
