@@ -1,5 +1,24 @@
 [
     {
+        "id": "051bec28e0",
+        "title_fa": "ارتش آمریکا کشتی حامل بار از بندرعباس را هدف قرار داد",
+        "title_en": "US disables first ship since Iran vowed to break blockade",
+        "summary": [
+            "ستاد فرماندهی مرکزی ایالات متحده (سنتکام) ویدئویی از حمله به یک کشتی تجاری در دریای عمان منتشر کرد.",
+            "این کشتی با وجود هشدارهای مکرر نظامی، تلاش کرده بود محاصره دریایی را بشکند.",
+            "نیروهای آمریکایی با هدف قرار دادن سیستم پیشرانش کشتی، آن را از کار انداختند اما خدمه آسیبی ندیدند."
+        ],
+        "impact": "تشدید تنش‌های دریایی و نشانه‌ای از عزم جدی ایالات متحده برای اجرای کامل محاصره دریایی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202611274132",
+        "clean_url": "https://www.iranintl.com/en/202611274132",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/da90dcd9bd2f3a4560fbf99b0b2a9968589745e4-800x450.jpg?rect=0,15,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795808940.0
+    },
+    {
         "id": "d34cb2669b",
         "title_fa": "پانزده عملیات واحدهای مقاومت علیه سپاه و بسیج",
         "title_en": "Iran: Resistance Units Conduct 15 Operations Against IRGC and Basij - National Council of Resistance of Iran",
@@ -5484,24 +5503,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObnRvWmtRUG1ocVlwLWNKNy1DZXd5LV9ldHdqMEdhZXVsVktfYml1RUZOSGpEcFAxS2QzYm4yZjlUY3N0b1EtUG9ZRGtLRWxvSjJvSmlVM2xhZ0NLaURlbGZMZzM5M1ZLMWYxMWloRXZVLTNWUDFmQjZoQy1JYW5iSktBRVB0TDhxZGh3MTlZeC0ybEF2MnF1Z0F2dkN6cVpmSVBvS3lEa3RsZjhwaFVwYTMzcFNwb09Fa3lQd2lCMktPa21NMUtjNl9Td0M",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795536000.0
-    },
-    {
-        "id": "f608bbcaee",
-        "title_fa": "حمله پهپادی سپاه به مقرهای احزاب کرد در اقلیم کردستان عراق",
-        "title_en": "Iran Targets Kurdish Opposition Camp In Northern Iraq With Drone Strikes | Watch",
-        "summary": [
-            "سپاه با پهپادهای انتحاری دو کمپ «آزادی» در کویه و «ژژنیکان» در شمال اربیل متعلق به حزب دمکرات کردستان ایران را هدف قرار داد.",
-            "این حملات ضربتی برای اعمال فشار مستقیم به حکومت اقلیم کردستان جهت محدود کردن و خلع سلاح گروه‌های مخالـف صورت گرفته است.",
-            "تکرار این حملات نشان‌دهنده تداوم استراتژی برون‌مرزی تهران برای صادر کردن تنش به شمال عراق است."
-        ],
-        "impact": "تشدید ناامنی در اقلیم کردستان عراق و احتمال پاسخ متقابل گروه‌های مخالف در مناطق مرزی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of India",
-        "url": "https://www.msn.com/en-in/news/other/iran-targets-kurdish-opposition-camp-in-northern-iraq-with-drone-strikes-watch/vi-AA2i9orn",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-targets-kurdish-opposition-camp-in-northern-iraq-with-drone-strikes-watch/vi-AA2i9orn",
-        "image": "https://static.toiimg.com/thumb/msid-136144682,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1795535160.0
     }
 ]
