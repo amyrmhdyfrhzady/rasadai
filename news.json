@@ -530,6 +530,42 @@
         "timestamp": 1795784029.0
     },
     {
+        "id": "15ba7ccc4a",
+        "title_fa": "رکوردهای جی‌دی‌اس هولدینگز در سایه ریسک‌های ژئوپلیتیک",
+        "title_en": "GDS Holdings Boasts Record Bookings but Faces Geopolitical Pressure",
+        "summary": [
+            "بخش زیرساخت‌های هوش مصنوعی و مراکز داده با نوسانات شدید اعتباری و سیاسی مواجه است.",
+            "پیشنهاد فریز مجوزهای جدید در تگزاس، سرمایه‌گذاران این حوزه را نگران کرده است."
+        ],
+        "impact": "افزایش ریسک سرمایه‌گذاری روی پروژه‌های کلان فناوری.",
+        "tag": "تکنولوژی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/gds-holdings-boasts-record-bookings-203038515.html",
+        "clean_url": "https://finance.yahoo.com/technology/ai/articles/gds-holdings-boasts-record-bookings-203038515.html",
+        "image": "http://www.bing.com/th?id=ONUT.E9eTmmgxQ589hn9EJrP9GA&pid=News",
+        "timestamp": 1795782600.0
+    },
+    {
+        "id": "4ae58e7bb4",
+        "title_fa": "عقب‌نشینی ان‌بی‌سی از پخش آگهی ضدکمک‌های نظامی به اسرائیل",
+        "title_en": "NBC Won’t Air Ad Opposing US Military Aid to Israel Again After Backlash",
+        "summary": [
+            "شبکه ان‌بی‌سی پس از موجی از انتقادات گروه‌های حامی اسرائیل، از پخش مجدد این آگهی خودداری کرد.",
+            "مدیریت ارشد این شبکه اعلام کرد از پخش اولیه این تبلیغ بی‌خبر بوده است."
+        ],
+        "impact": "تغییر سیاست‌های نظارتی رسانه‌های بزرگ در قبال تبلیغات سیاسی حساس.",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/nbc-won-t-air-ad-201200756.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/nbc-won-t-air-ad-201200756.html",
+        "image": "http://www.bing.com/th?id=ONUT.lLnxwvbdc-2xeZahEckCMA&pid=News",
+        "timestamp": 1795781520.0
+    },
+    {
         "id": "43b1a0d1ec",
         "title_fa": "بسته شدن مرزهای غربی به دستور واشنگتن",
         "title_en": "Iran truckers' strike enters sixth day amid fuel shortages and rising costs",
@@ -564,6 +600,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/winning-in-iran-a-demarcation-line/ar-AA2im0Gj",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ilQME.img?w=1024&h=658&m=4&q=100",
         "timestamp": 1795780800.0
+    },
+    {
+        "id": "ad9fe2de96",
+        "title_fa": "واکنش‌ها به دخالت ترامپ در پرونده مدیرعامل انویدیا",
+        "title_en": "Trump's moves on Nvidia and Jensen Huang",
+        "summary": [
+            "تحولات مربوط به بازگشت جنسن هوانگ به عنوان مدیرعامل انویدیا با واکنش‌های سیاسی مواجه شده است.",
+            "استراتژیست‌های سیاسی ابعاد مختلف این مداخله را زیر ذره‌بین برده‌اند."
+        ],
+        "impact": "گره‌خوردن سیاست کلان با مدیریت غول‌های فناوری.",
+        "tag": "تکنولوژی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/video/can-trumps-moves-on-nvidia-and-jensen-huang-come-back-to-bite-him/",
+        "clean_url": "https://www.cbsnews.com/video/can-trumps-moves-on-nvidia-and-jensen-huang-come-back-to-bite-him",
+        "image": "http://www.bing.com/th?id=ONUT.LQjjLkswp8vilobUmdkMWw&pid=News",
+        "timestamp": 1795779360.0
     },
     {
         "id": "c58ce5d302",
@@ -602,6 +656,24 @@
         "clean_url": "https://www.iranintl.com/en/202611270114",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/31c8152ee908af40e8f122b7eee1fe9037d7ede6-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1795777560.0
+    },
+    {
+        "id": "21f7e0d9c4",
+        "title_fa": "ماه عسل زودهنگام دموکرات‌های تگزاس با صاحبان کسب‌وکار",
+        "title_en": "Texas Democrats and business leaders are in their honeymoon phase",
+        "summary": [
+            "شرکت‌ها و قانون‌گذاران در حال آماده‌سازی برای همکاری با فرماندار منتخب جدید هستند.",
+            "فضای تعاملی مثبتی پیش از آغاز نشست قانون‌گذاری تگزاس شکل گرفته است."
+        ],
+        "impact": "ثبات نسبی در فضای اقتصادی ایالتی.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/27/texas-democrats-business-leaders-hinojosa-01180682",
+        "clean_url": "https://www.politico.com/news/2026/11/27/texas-democrats-business-leaders-hinojosa-01180682",
+        "image": "http://www.bing.com/th?id=ONUT._qEJz2loQmbd3MN-b0WSMg&pid=News",
+        "timestamp": 1795777200.0
     },
     {
         "id": "5c02ddfc05",
@@ -674,6 +746,24 @@
         "clean_url": "https://tass.com/world/2226247",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1795776240.0
+    },
+    {
+        "id": "dfc3c49568",
+        "title_fa": "جهش بازارهای سهام پس از یک هفته پرنوسان در وال‌استریت",
+        "title_en": "Stocks jump to close out an erratic week that was also Wall Street's best in more than a year",
+        "summary": [
+            "شاخص‌های بورسی آمریکا پس از روزهای متلاطم، بهترین هفته خود در بیش از یک سال گذشته را ثبت کردند.",
+            "سهام بخش فناوری بار دیگر پیشران اصلی رشد بازار شد."
+        ],
+        "impact": "بازگشت اعتماد موقت به بازارهای مالی پس از موج نزولی.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/money/top-stocks/stocks-jump-to-close-out-an-erratic-week-that-was-also-wall-street-s-best-in-more-than-a-year/ar-AA2ik9Zi",
+        "clean_url": "https://www.msn.com/en-us/money/top-stocks/stocks-jump-to-close-out-an-erratic-week-that-was-also-wall-street-s-best-in-more-than-a-year/ar-AA2ik9Zi",
+        "image": "http://www.bing.com/th?id=ONUT.H-PGvRWR3_PCHrcTJ0_Xhg&pid=News",
+        "timestamp": 1795776195.0
     },
     {
         "id": "7b8cbbd18a",
@@ -1157,6 +1247,42 @@
         "timestamp": 1795757879.0
     },
     {
+        "id": "566734b69e",
+        "title_fa": "طومار اخراج سفیر آمریکا به پارلمان کانادا رسید",
+        "title_en": "Petition to expel U.S. ambassador to Canada reaches Parliament",
+        "summary": [
+            "نزدیک به ۲۸۶ هزار شهروند کانادایی خواستار اخراج سفیر آمریکا از این کشور شدند.",
+            "این مطالبه عمومی اکنون وارد روند بررسی در پارلمان کانادا شده است."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک پنهان میان دو همسایه شمالی.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "UPI",
+        "url": "https://www.upi.com/Top_News/World-News/2026/11/27/canada-parliament-hoekstra/7271795803871/",
+        "clean_url": "https://www.upi.com/Top_News/World-News/2026/11/27/canada-parliament-hoekstra/7271795803871",
+        "image": "http://www.bing.com/th?id=ONUT.BBJ9TaVn5Zlp_0Hwps1dyQ&pid=News",
+        "timestamp": 1795757520.0
+    },
+    {
+        "id": "40a6cae03b",
+        "title_fa": "درگذشت استراب تالبوت، دیپلمات و مفسر ارشد آمریکایی",
+        "title_en": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+        "summary": [
+            "معاون اسبق وزیر خارجه آمریکا و رئیس پیشین موسسه بروکینگز در سن ۸۰ سالگی درگذشت.",
+            "او نقش مهمی در روابط مسکو و واشنگتن در دوران کلینتون داشت."
+        ],
+        "impact": "از دست رفتن یکی از چهره‌های کلیدی دیپلماسی دوران جنگ سرد.",
+        "tag": "بین‌الملل",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Mercury News",
+        "url": "https://www.mercurynews.com/2026/11/27/strobe-talbott-obituary/",
+        "clean_url": "https://www.mercurynews.com/2026/11/27/strobe-talbott-obituary",
+        "image": "http://www.bing.com/th?id=ONUT.HA-zscgT0B2rnGtARtKvqA&pid=News",
+        "timestamp": 1795756380.0
+    },
+    {
         "id": "20c6ecf2d0",
         "title_fa": "تهدید مستقیم اتمی؛ ترامپ از حمله به تاسیسات کلیدی خبر داد",
         "title_en": "Iran using fabricated 'espionage' laws to silence critics abroad, US State Department says",
@@ -1174,6 +1300,42 @@
         "clean_url": "https://www.iranintl.com/en/202611277696",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1795756200.0
+    },
+    {
+        "id": "952117a53d",
+        "title_fa": "فرار زندانی باردار با خودروی انتقال در توقف فست‌فود",
+        "title_en": "Pregnant Inmate Drives Away in Prison Transport Vehicle While Officers Stop at Whataburger",
+        "summary": [
+            "یک زندانی در نیومکزیکو حین توقف مأموران برای خرید غذا توانست با خودروی زندان فرار کند.",
+            "این حادثه عجیب پرسش‌هایی را درباره پروتکل‌های امنیتی انتقال زندانیان ایجاد کرده است."
+        ],
+        "impact": "تشدید نظارت‌ها بر عملکرد مأموران انتقال زندانی.",
+        "tag": "اجتماعی",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "The Western Journal",
+        "url": "https://www.westernjournal.com/pregnant-inmate-drives-away-prison-transport-vehicle-officers-stop-whataburger/",
+        "clean_url": "https://www.westernjournal.com/pregnant-inmate-drives-away-prison-transport-vehicle-officers-stop-whataburger",
+        "image": "http://www.bing.com/th?id=ONUT.7gn1JxNF66K1fLlzzjdmYg&pid=News",
+        "timestamp": 1795755480.0
+    },
+    {
+        "id": "3001d62c69",
+        "title_fa": "حکم دادگاه علیه تلاش دولت ترامپ برای محدود کردن ای‌بی‌سی",
+        "title_en": "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
+        "summary": [
+            "قاضی فدرال دستور موقتی صادر کرد تا مانع بازبینی زودهنگام مجوزهای شبکه ای‌بی‌سی شود.",
+            "این شبکه دولت ترامپ را به انتقام‌جویی به دلیل تصمیمات برنامه‌سازی متهم کرده است."
+        ],
+        "impact": "حفظ آزادی بیان رسانه‌ها در برابر فشارهای دولتی.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Orange County Register",
+        "url": "https://www.ocregister.com/2026/11/27/judge-blocks-fcc-early-license-review-abc/",
+        "clean_url": "https://www.ocregister.com/2026/11/27/judge-blocks-fcc-early-license-review-abc",
+        "image": "http://www.bing.com/th?id=ONUT.b2737pKtZKyEWZZNYYDpyw&pid=News",
+        "timestamp": 1795755060.0
     },
     {
         "id": "15e1a68ce1",
@@ -1228,6 +1390,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOF8yNzVZWmxiUktMMVhudHZCQ0NLYVBxSW96WTR3dGdoYm1mSTQtVDEwTDdqNmJ3UEZSbkN5ZXBfUXdQLXA3MmtqSktoQWlQR3B2MkJsMWowaDY2SElJeUItdE9QVmk5WXR6eld5djk4TU9YdjVsWXRROFpjbFhtQ2hmLUpsOW9YMGNqQVc0UXJBeUl5clZaOGxjSlFDT1NQQkFwTGJRRnFOM3BfRGF2MFVmS2prV05XTzEwTUl0ZlY3SVhJdGNIRTMtaXFZOGdCQnlteQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795753200.0
+    },
+    {
+        "id": "8bc3bb754c",
+        "title_fa": "هشدار اطلاعاتی غرب درباره برنامه اتمی روسیه در فضا",
+        "title_en": "Western intelligence agencies warn that Russia could launch nuclear weapon into space",
+        "summary": [
+            "مقام‌های ارشد غربی از احتمال استقرار تسلیحات هسته‌ای روسیه در فضا ابراز نگرانی کردند.",
+            "این اقدام به عنوان نشانه جدیدی از تمایل مسکو به تشدید تنش‌ها ارزیابی می‌شود."
+        ],
+        "impact": "بالارفتن سطح ریسک نظامی در عرصه فضایی و بین‌المللی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/11/27/western-intelligence-agencies-warn-that-russia-could-launch-nuclear-weapon-into-space/",
+        "clean_url": "https://www.baltimoresun.com/2026/11/27/western-intelligence-agencies-warn-that-russia-could-launch-nuclear-weapon-into-space",
+        "image": "http://www.bing.com/th?id=ONUT.rfBIqlS81c_4Jp6C5OJhvw&pid=News",
+        "timestamp": 1795752720.0
+    },
+    {
+        "id": "9e966a6b38",
+        "title_fa": "چالش دشوار دموکرات‌ها پس از پیروزی بر سر تورم",
+        "title_en": "Democrats won midterm elections on affordability; now comes the hard part",
+        "summary": [
+            "با وجود تمرکز دموکرات‌ها بر هزینه‌های زندگی، مهار کامل عوامل اصلی تورم همچنان دشوار است.",
+            "قدرت خرید مصرف‌کنندگان همچنان زیر فشار قیمت‌های بالای دوران پس از همه‌گیری قرار دارد."
+        ],
+        "impact": "فشار اقتصادی پایدار بر بدنه رای‌دهندگان آمریکایی.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/11/27/democrats-won-midterm-elections-on-affordability-now-comes-the-hard-part/",
+        "clean_url": "https://www.baltimoresun.com/2026/11/27/democrats-won-midterm-elections-on-affordability-now-comes-the-hard-part",
+        "image": "http://www.bing.com/th?id=ONUT.Em5Pe9XAJwmTmdQuVHCjGg&pid=News",
+        "timestamp": 1795752600.0
     },
     {
         "id": "385dea7a2b",
@@ -5300,207 +5498,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/iran-s-economy-is-underwater-and-the-trump-administration-vows-to-keep-going-until-we-have-buried-the-head-of-the-snake/ar-AA2i9EFt",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Q4qc7.img?w=1280&h=720&m=4&q=87",
         "timestamp": 1795550653.0
-    },
-    {
-        "id": "4b3a13ae3e",
-        "title_fa": "آیا اسرائیل بدون چراغ سبز ترامپ به ج.ا حمله می‌کند؟",
-        "title_en": "Can Israel Strike Iran Alone, Without A \"Green Light\" From Trump? - Analysis",
-        "summary": [
-            "توان عملیاتی اسرائیل برای هدف قرار دادن تاسیسات اتمی بدون حمایت مستقیم آمریکا، چالش اصلی استراتژیک تل‌آویو است.",
-            "تغییر در کاخ سفید و رویکرد ترامپ، محاسبات امنیتی اسرائیل را در قبال تهران پیچیده‌تر کرده است.",
-            "اسرائیل به دنبال حفظ بازدارندگی است، اما محدودیت‌های لجستیکی و سیاسی بدون همراهی واشینگتن، ریسک عملیات را بالا می‌برد."
-        ],
-        "impact": "تداوم ابهام در استراتژی نظامی اسرائیل، بازارهای مالی و نرخ ارز را در وضعیت تعلیق نگه می‌دارد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFlBNjd3aW9mR19mUWVJT1Zjb2xRcnF3MjdXVmlVSHZMUGtCUUdEM1FpOW9pdEFYNGN2THlQLVJBWWtRLXRIa3d0UFB0U3p4QnlHMmk2YzZwWXh0eWZCNG1xSDBKODdJQXJ6UENEdktOU1FndTdjckNBLWFYRW1nLTYxQmZvaHNCWUd0cW5XWGRpQzNUVUlRaW40NUpSbXZlQV85ZTNreUI4djZTOGptM1dJdGdySW94ZmpSZkJQS0s?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFlBNjd3aW9mR19mUWVJT1Zjb2xRcnF3MjdXVmlVSHZMUGtCUUdEM1FpOW9pdEFYNGN2THlQLVJBWWtRLXRIa3d0UFB0U3p4QnlHMmk2YzZwWXh0eWZCNG1xSDBKODdJQXJ6UENEdktOU1FndTdjckNBLWFYRW1nLTYxQmZvaHNCWUd0cW5XWGRpQzNUVUlRaW40NUpSbXZlQV85ZTNreUI4djZTOGptM1dJdGdySW94ZmpSZkJQS0s",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795550625.0
-    },
-    {
-        "id": "29ed470304",
-        "title_fa": "سقوط آزاد ریال و هراس از خیزش دوباره مردم",
-        "title_en": "Iran’s Rial Hits Record Low as Protesters Reject War and Regime Insiders Warn of New Uprising - National Council of Resistance of Iran",
-        "summary": [
-            "سقوط بی‌سابقه ارزش پول ملی، قدرت خرید مردم را به مرز نابودی کشانده است.",
-            "نارضایتی عمومی از سیاست‌های جنگ‌طلبانه ج.ا.ا به اوج رسیده و بدنه حاکمیت نیز از وقوع اعتراضات سراسری جدید وحشت‌زده است."
-        ],
-        "impact": "فروپاشی اقتصادی و تشدید شکاف میان مردم و حاکمیت، بستر را برای دور جدیدی از ناآرامی‌ها فراهم کرده است.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFhXOGlaY25CQTBUeVR5aENjejRpRG1saXBqa3VDUDhESkJEMHlTejhjdlpTZTNxN280ajdTMkxyMWVKZDJZaUI2enFJLW43ZWxnQnBETXhOTkRlSDZaejdPZnBKQ1E0VFo0MjJ3TlZHbUt3U0p4N3dPeElxQXZXWXhXLWo0cnA5WjBnTnNRZzFnQnktMzRyMXdsSXBiMUJZbEZXSDBxMkF4a1VZb1pGNXJrMmM5QWRuWFd0UnpuVGU2Mi02aU1HcUxlWGkzZnB5d1I1dTgtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFhXOGlaY25CQTBUeVR5aENjejRpRG1saXBqa3VDUDhESkJEMHlTejhjdlpTZTNxN280ajdTMkxyMWVKZDJZaUI2enFJLW43ZWxnQnBETXhOTkRlSDZaejdPZnBKQ1E0VFo0MjJ3TlZHbUt3U0p4N3dPeElxQXZXWXhXLWo0cnA5WjBnTnNRZzFnQnktMzRyMXdsSXBiMUJZbEZXSDBxMkF4a1VZb1pGNXJrMmM5QWRuWFd0UnpuVGU2Mi02aU1HcUxlWGkzZnB5d1I1dTgtdw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795550427.0
-    },
-    {
-        "id": "38be37c941",
-        "title_fa": "گزینه‌های کنگره برای پایان دادن به درگیری با ای-ران",
-        "title_en": "Congress’s Options for Ending the Iran War",
-        "summary": [
-            "بررسی ابزارهای قانونی کنگره برای توقف درگیری‌ها و مهار تصمیمات جنگ‌طلبانه.",
-            "نقش کلیدی قانون‌گذاران در محدود کردن اختیارات نظامی دولت."
-        ],
-        "impact": "افزایش فشارهای سیاسی داخلی در آمریکا برای جلوگیری از گسترش تنش‌های نظامی.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Lawfare",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3Z1VUlpamdTQlAwN2RDc2RjeTROMUtReDQ1RndLeEktVEZIRHVodFQxaFN0YVZZMHRlb19UNFNIZjFsUzBEbTI0Q1lpY2R4N0pocmdFVlJqc2Y3SFZLODZDUDUyRldUemk1dHp4S0Q0S1JtZUdlZVR2VE5uMDdsclRfRDhnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3Z1VUlpamdTQlAwN2RDc2RjeTROMUtReDQ1RndLeEktVEZIRHVodFQxaFN0YVZZMHRlb19UNFNIZjFsUzBEbTI0Q1lpY2R4N0pocmdFVlJqc2Y3SFZLODZDUDUyRldUemk1dHp4S0Q0S1JtZUdlZVR2VE5uMDdsclRfRDhnUQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795549214.0
-    },
-    {
-        "id": "a53e43af77",
-        "title_fa": "سقوط تاریخی ارزش ریال همزمان با ادعای کاهش تهدید نظامی",
-        "title_en": "Eisenkot: Iran threat not imminent; Iran's currency hits historic low TV7 Israel News - 24 Nov.",
-        "summary": [
-            "آیزنکوت مدعی شده تهدید فوری از سوی ج.ا وجود ندارد، اما این اظهارات بیشتر مصرف داخلی برای آرام کردن فضای روانی است.",
-            "سقوط آزاد ارزش پول ملی نشان می‌دهد که بازار، برخلاف تحلیل‌های امنیتی، فروپاشی اقتصادی را بسیار نزدیک‌تر از جنگ می‌بیند."
-        ],
-        "impact": "فشار خردکننده اقتصادی بر معیشت مردم، مشروعیت حاکمیت را بیش از هر تهدید خارجی به چالش کشیده است.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVUZ3dkVlZ2NsWV9Ua1V3VlJ1cmtxSFVGODZSbmNfTmdTM0Z5RmpIbXVsc2hkNnpFc1ZaYnZyM3ZoRzM2Z01raTNTS2tucGFLYy1iOENVRE1PeVZzQlVEdFd2TUwydGhGZGVVOXB0Y0IzdlhsV0JV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVUZ3dkVlZ2NsWV9Ua1V3VlJ1cmtxSFVGODZSbmNfTmdTM0Z5RmpIbXVsc2hkNnpFc1ZaYnZyM3ZoRzM2Z01raTNTS2tucGFLYy1iOENVRE1PeVZzQlVEdFd2TUwydGhGZGVVOXB0Y0IzdlhsV0JV",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795548768.0
-    },
-    {
-        "id": "3a5d0b97c9",
-        "title_fa": "طرح ترامپ برای حذف فیزیکی سران ج.ا جهت پایان جنگ",
-        "title_en": "Trump administration mulls targeted killings of Iranian leaders to end war – report",
-        "summary": [
-            "تیم ترامپ به دنبال راهکارهای ضربتی برای پایان دادن به درگیری‌های منطقه‌ای از طریق هدف قرار دادن مستقیم مهره‌های کلیدی است.",
-            "این استراتژی نشان‌دهنده تغییر فاز از فشارهای اقتصادی به حذف مستقیم برای فروپاشی زنجیره فرماندهی است."
-        ],
-        "impact": "افزایش شدید ریسک امنیتی برای مقامات ارشد و احتمال تغییر ناگهانی در ساختار قدرت.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2JEU3NBWjdVWUM1enlFd2I4elMzN0p5ZHAyd3pnczFBcmdVeUxCSVM4QTd2VTk2eDZmWXhaQjRyeVBQc21INEJsUmlkS2hlQW9xMUQzZlJKaXVMT2t3aU5UclJaMGNaS1RFTnlSd2VyZ0RVNElvb2ZQXzlsbmYyWUR5SEl0MXM5bWU0ZEJUWUFaRWlmNE1vWEsyNGFHUUp6ZUVxRk5VNWM5VF9RcHlkU19R0gG3AUFVX3lxTE9rdXlZNTd1X3MzeWRDbk9HMUlIV21JdExyNWFJbExDVEwyeTBBU3pQQU16NGZ0RGVveHNaSWNSSFhKQ19mZ0JQY1VTX2RUQXJESktHUWloSkFKTXpBOUd3ZEdxQ015N3JNUnYtTEN1YjlPNG05aWlmVVYtZlp5YzE2aVIyMHd0Ykh5YU8zemV5NmpqOTJaNEl3OXBlM2syMkRxM29CcFdzUHBFSWhwZnB3LUc5aHNGOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2JEU3NBWjdVWUM1enlFd2I4elMzN0p5ZHAyd3pnczFBcmdVeUxCSVM4QTd2VTk2eDZmWXhaQjRyeVBQc21INEJsUmlkS2hlQW9xMUQzZlJKaXVMT2t3aU5UclJaMGNaS1RFTnlSd2VyZ0RVNElvb2ZQXzlsbmYyWUR5SEl0MXM5bWU0ZEJUWUFaRWlmNE1vWEsyNGFHUUp6ZUVxRk5VNWM5VF9RcHlkU19R0gG3AUFVX3lxTE9rdXlZNTd1X3MzeWRDbk9HMUlIV21JdExyNWFJbExDVEwyeTBBU3pQQU16NGZ0RGVveHNaSWNSSFhKQ19mZ0JQY1VTX2RUQXJESktHUWloSkFKTXpBOUd3ZEdxQ015N3JNUnYtTEN1YjlPNG05aWlmVVYtZlp5YzE2aVIyMHd0Ykh5YU8zemV5NmpqOTJaNEl3OXBlM2syMkRxM29CcFdzUHBFSWhwZnB3LUc5aHNGOA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795548495.0
-    },
-    {
-        "id": "260c121bdf",
-        "title_fa": "هشدار اسرائیل درباره توسعه سلاح‌های شیمیایی توسط ج.ا",
-        "title_en": "Israel's defense minister accuses Iran of developing chemical weapons: What to know",
-        "summary": [
-            "وزیر دفاع اسرائیل با افشای اطلاعات جدید، ج.ا را به تلاش برای دستیابی به تسلیحات شیمیایی متهم کرد",
-            "این ادعا نشان‌دهنده تغییر فاز تقابل از جنگ نیابتی به تهدیدات وجودی است",
-            "اسرائیل با این افشاگری در حال زمینه‌سازی برای مشروعیت‌بخشی به حملات احتمالی علیه زیرساخت‌های حساس است"
-        ],
-        "impact": "افزایش تنش‌های امنیتی و احتمال حملات پیش‌دستانه اسرائیل به مراکز حساس",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDh5eUsyVG9JZnB6RXZhbjZydDVuejNCRXBVd3pNQmx4UjdfenZXN1lNRXZlWVZHRlByODI0WU5zWkNuWEJjU05qTkU5OUNJZTFCR1ZwLVNZUlBhUDZkWTllXzh2M1p2bHdNZWhueTRhR0ZyejFOSU1PRnRWUUhJNmI5UUU2SGhlT0Z3WDVVajBsODhCZHdyRkg2VklWMVM5WkVXeEFobzExbkd5bVR6NmwxYTYwd3NULW9lbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDh5eUsyVG9JZnB6RXZhbjZydDVuejNCRXBVd3pNQmx4UjdfenZXN1lNRXZlWVZHRlByODI0WU5zWkNuWEJjU05qTkU5OUNJZTFCR1ZwLVNZUlBhUDZkWTllXzh2M1p2bHdNZWhueTRhR0ZyejFOSU1PRnRWUUhJNmI5UUU2SGhlT0Z3WDVVajBsODhCZHdyRkg2VklWMVM5WkVXeEFobzExbkd5bVR6NmwxYTYwd3NULW9lbQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795547898.0
-    },
-    {
-        "id": "e0f96e4ec9",
-        "title_fa": "خفقان و فقر؛ روایت پرستو فروهر از تهرانِ امروز",
-        "title_en": "\"Society is being oppressed\"/ Iranian artist talks about life in Tehran",
-        "summary": [
-            "جامعه تحت فشار خردکننده جنگ، تحریم و بحران اقتصادی به زانو درآمده است.",
-            "تلاش برای بقای روزمره و حفظ کرامت انسانی به دغدغه اصلی مردم تبدیل شده است.",
-            "فضای امنیتی و سنگین تهران، یادآور دوران قتل‌های زنجیره‌ای است که خانواده فروهر قربانی آن شدند."
-        ],
-        "impact": "افزایش ناامیدی عمومی و فرسایش توان اقتصادی مردم، بستر را برای ناآرامی‌های اجتماعی مهیا می‌کند.",
-        "tag": "اجتماعی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "CNA",
-        "url": "https://www.cna.al/english/kosova-bota/shoqeria-po-shtypet-artistja-iraniane-rrefen-per-jeten-ne-teheran-i481073",
-        "clean_url": "https://www.cna.al/english/kosova-bota/shoqeria-po-shtypet-artistja-iraniane-rrefen-per-jeten-ne-teheran-i481073",
-        "image": "https://media.cna.al/cna.al/media3/-1200-630-1795589798xcapturejpg-401.jpg",
-        "timestamp": 1795542840.0
-    },
-    {
-        "id": "47840e42bd",
-        "title_fa": "نزدیک شدن حوثی‌ها به عدن و آرایش دفاعی سنگین در یمن",
-        "title_en": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
-        "summary": [
-            "نیروهای حوثی حلقه محاصره شهر استراتژیک عدن را تنگ‌تر کرده و نیروهای دولتی خطوط دفاعی جدید ایجاد کرده‌اند.",
-            "سقوط احتمالی عدن، موازنه قدرت در جنوب یمن را تماماً به نفع محور نیابتی تغییر می‌دهد.",
-            "این تحرکات خطری مستقیم برای کنترل کامل بر آبراه حساس باب‌المندب محسوب می‌شود."
-        ],
-        "impact": "افزایش شدید تهدیدات علیه خطوط کشتیرانی بین‌المللی و احتمال سقوط آخرین پایگاه اصلی جنوب یمن.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.65,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVEzelRwd2pzaWFoRmhiVTIwb2JRem9VRFgyTkFlUVRNOHh1bVJLRnNoTm90SnhscmpVcW56STVUaTBZS3ZsSUJZZUpDSTBidHp1Wl9DbEt4WlhuZjV1RFZGUnRkTFAwMVpEcGdJZDZXYkNncGFwZUp6SEpGRjZ1bXN2aHJmNTZaazJRdDhPdHFZUHltbXVySjIxMTlocDVSc1FVNmEyNXZNbnhGLTN5Zlhwc0RRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVEzelRwd2pzaWFoRmhiVTIwb2JRem9VRFgyTkFlUVRNOHh1bVJLRnNoTm90SnhscmpVcW56STVUaTBZS3ZsSUJZZUpDSTBidHp1Wl9DbEt4WlhuZjV1RFZGUnRkTFAwMVpEcGdJZDZXYkNncGFwZUp6SEpGRjZ1bXN2aHJmNTZaazJRdDhPdHFZUHltbXVySjIxMTlocDVSc1FVNmEyNXZNbnhGLTN5Zlhwc0RRUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795542000.0
-    },
-    {
-        "id": "bdf337ce83",
-        "title_fa": "هشدار درباره برنامه تسلیحات شیمیایی جـ.هـ.",
-        "title_en": "Amid politicized debate in US and Israel, Katz warns Iran developing chemical weapons",
-        "summary": [
-            "اسرائیل نسبت به تلاش‌های پنهانی حکومت برای دستیابی به تسلیحات شیمیایی هشدار داد.",
-            "این هشدار در حالی مطرح می‌شود که بحث‌های سیاسی سنگینی میان واشینگتن و تل‌آویو جریان دارد."
-        ],
-        "impact": "بالارفتن احتمال اقدامات پیش دستانه نظامی علیه زیرساخت‌های حساس حاکمیت.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0lITlFRa1hhYzBfVHFLZTljR1ZKZ1N4eHRXbm05V3Q3b0VVTWtBcXBKZnEzcDJqckJyVG9LdVJrQmxVVVVudERwYk9kamotMUJqTklsSEstWHBTUHRYWVc4R2xoMWhSNWJEQnRvMm1QOV9zd25JWWtPRGlOeWFmQkR4X19OcUJLcno2MENscUtxcUJiMXFKM0ltdHAxV1NwQnpEV1NNSFFqMVVRc1ZXR2E2bjdLUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0lITlFRa1hhYzBfVHFLZTljR1ZKZ1N4eHRXbm05V3Q3b0VVTWtBcXBKZnEzcDJqckJyVG9LdVJrQmxVVVVudERwYk9kamotMUJqTklsSEstWHBTUHRYWVc4R2xoMWhSNWJEQnRvMm1QOV9zd25JWWtPRGlOeWFmQkR4X19OcUJLcno2MENscUtxcUJiMXFKM0ltdHAxV1NwQnpEV1NNSFFqMVVRc1ZXR2E2bjdLUQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795540320.0
-    },
-    {
-        "id": "32f7c4269a",
-        "title_fa": "فروپاشی دکترین امنیتی اسرائیل و چشم‌انداز آینده",
-        "title_en": "Israel's Security Doctrine Collapsed. What Comes Next?",
-        "summary": [
-            "دکترین امنیتی سنتی اسرائیل زیر سوال رفته و نیاز به بازنگری اساسی دارد.",
-            "تغییرات راهبردی در منطقه، تل‌آویو را وادار به اتخاذ رویکردهای جدید نظامی و امنیتی کرده است."
-        ],
-        "impact": "تغییر معادلات بازدارندگی نظامی در خاورمیانه در پی ناکارآمدی ساختارهای امنیتی پیشین.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Qdkg3Q0tiSDRxSUJLX1VBMGh2blRhM1c5eHoydTItSDIxOFBRZERRbEp4RjNHQjZjaVYyLW5zdUJoNDFFbEF0SjJYZ1F0NXdwWlZYaVF1OWF3S3VQODZFWmFqRHhHdXFKNzJZZGo3MHhLc1FuSVR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Qdkg3Q0tiSDRxSUJLX1VBMGh2blRhM1c5eHoydTItSDIxOFBRZERRbEp4RjNHQjZjaVYyLW5zdUJoNDFFbEF0SjJYZ1F0NXdwWlZYaVF1OWF3S3VQODZFWmFqRHhHdXFKNzJZZGo3MHhLc1FuSVR3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795537945.0
-    },
-    {
-        "id": "1b557b295e",
-        "title_fa": "ماداران داغدار؛ ایستادگی در برابر س ستم",
-        "title_en": "‘I Couldn’t Stay Silent’: How an Iranian Mother Defied Iran’s Regime After Her Daughter Was Killed While Protesting",
-        "summary": [
-            "روایت مقاومت یک مادر داغدار ایرانی که پس از کشته شدن دخترش در اعتراضات، سکوت را شکست.",
-            "هزینه سنگین خانواده‌های دادخواه برای دادخواهی در برابر حاکمیت."
-        ],
-        "impact": "افزایش فشار روانی بر ج مهوری اسل ام و زنده نگه داشتن یاد جان‌باختگان اعتراضات.",
-        "tag": "اعتراضات",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHlXSFFwTzNIRUlmQjloOXh3aTVucmdsSXJlODJvclV1VnJPck8zWksyVzBNeU9TbXF6UHpZdTZFdFdGTFpyTHNXekZiN3ROcDFTbThmS2lwbWlPa3VlTVhmdnZwRS1SWU5yWWdwaVV0Q1N4eE9MU3owR0V2S1FlTU9MZXFrVkhaREM1LXRBYks0RnNMcWx3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHlXSFFwTzNIRUlmQjloOXh3aTVucmdsSXJlODJvclV1VnJPck8zWksyVzBNeU9TbXF6UHpZdTZFdFdGTFpyTHNXekZiN3ROcDFTbThmS2lwbWlPa3VlTVhmdnZwRS1SWU5yWWdwaVV0Q1N4eE9MU3owR0V2S1FlTU9MZXFrVkhaREM1LXRBYks0RnNMcWx3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795536746.0
     }
 ]
