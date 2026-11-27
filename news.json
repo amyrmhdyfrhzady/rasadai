@@ -313,6 +313,24 @@
         "timestamp": 1795715718.0
     },
     {
+        "id": "c8338a4647",
+        "title_fa": "لوازم جنگ با ایـران دست من است؛ پایانش هر زمان بخواهم",
+        "title_en": "Trump: Iran war will be over 'sort of whenever I want it to be'",
+        "summary": [
+            "دونالد ترامپ مدعی شد پایان درگیری با جـمهوری اسـلامی کاملاً در اختیار اوست و هر زمان بخواهد می‌تواند آن را تمام کند.",
+            "این اظهارات در حالی مطرح می‌شود که انتقادها و فشارها علیه سیاست‌های جنگ‌طلبانه در ماه نهم این درگیری‌ها رو به افزایش است."
+        ],
+        "impact": "افزایش فشارهای روانی بر تهران و سیگنال صریح واشنگتن درباره کنترل کامل میدان نبرد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Hill on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-iran-war-will-be-over-sort-of-whenever-i-want-it-to-be/ar-AA2ik72M",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-iran-war-will-be-over-sort-of-whenever-i-want-it-to-be/ar-AA2ik72M",
+        "image": "http://www.bing.com/th?id=ONUT.pmrCGiRY-NHv9rPTSLrF6g&pid=News",
+        "timestamp": 1795714900.0
+    },
+    {
         "id": "d161fc22fe",
         "title_fa": "توافق احتمالی با صندوق ۳۰۰ میلیارد دلاری برای جﻤﻬﻮری اﺳﻼﻣﯽ",
         "title_en": "Iran Deal Includes $300 Billion Fund, More Than Half of Which Already Committed, Source Says",
@@ -5490,24 +5508,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/jared-kushner-warns-that-israel-is-heading-toward-global-pariah-status",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26249594666233-1.jpg",
         "timestamp": 1795462980.0
-    },
-    {
-        "id": "f980daee9c",
-        "title_fa": "ضربه واشنگتن به شبکه مالی پنهان ج.ا",
-        "title_en": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
-        "summary": [
-            "آمریکا با تحریم ده‌ها نهاد و فرد، شریان‌های حیاتی دور زدن تحریم‌ها را هدف گرفته است.",
-            "این اقدام نشان‌دهنده عزم جدی برای مسدود کردن مسیرهای تامین مالی غیرقانونی در خارج از مرزهاست.",
-            "شبکه‌های سایه که وظیفه انتقال پول نفت را داشتند، حالا با انزوای شدید بانکی روبرو هستند."
-        ],
-        "impact": "کاهش توانایی رژیم در دسترسی به ارزهای خارجی و فلج شدن بخشی از تجارت غیررسمی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795462783.0
     }
 ]
