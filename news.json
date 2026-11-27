@@ -548,6 +548,24 @@
         "timestamp": 1795782600.0
     },
     {
+        "id": "a019919304",
+        "title_fa": "بحران مسمومیت الکلی در سراسر کشور و ناکارآمدی مدیریت دولتی",
+        "title_en": "Iran MP accuses state TV of promoting Black Friday as 'cultural infiltration'",
+        "summary": [
+            "رئیس انجمن روانپزشکی ایران از گسترش موج مسمومیت‌های الکلی و نبود نظارت بر بازار سیاه خبر داد.",
+            "گسترش سراسری مسمومیت‌ها از شمال‌شرق تا خلیج فارس، شائبه سازمان‌یافته بودن این فاجعه را در شبکه‌های اجتماعی تقویت کرده است."
+        ],
+        "impact": "افزایش مرگ‌ومیر ناشی از مصرف مشروبات تقلبی به دلیل سیاست‌های قهری حکومت.",
+        "tag": "اجتماعی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611273356",
+        "clean_url": "https://www.iranintl.com/en/202611273356",
+        "image": "http://www.bing.com/th?id=ONUT.u5_JMUBepehXPNAp-EHd0A&pid=News",
+        "timestamp": 1795781820.0
+    },
+    {
         "id": "4ae58e7bb4",
         "title_fa": "عقب‌نشینی ان‌بی‌سی از پخش آگهی ضدکمک‌های نظامی به اسرائیل",
         "title_en": "NBC Won’t Air Ad Opposing US Military Aid to Israel Again After Backlash",
@@ -5478,25 +5496,5 @@
         "clean_url": "https://www.briefs.co/news/imf-sees-botswana-back-to-growth-in-2026-but-with-a-smaller",
         "image": "https://www.briefs.co/wp-content/uploads/2026/11/imf-sees-botswana-back-to-growth-in-2026-but-with-a-smaller-.png",
         "timestamp": 1795551600.0
-    },
-    {
-        "id": "90073a476c",
-        "title_fa": "فشار حداکثری واشنگتن روی شبکه مالی جـــــــــمهوری اســـــــــلامی",
-        "title_en": "Iran's economy is 'underwater' and the Trump administration vows to keep going 'until we have buried the head of the snake'",
-        "summary": [
-            "خزانه‌داری آمریکا ۲۲ نهاد و ۸ فرد وابسته به شبکه بانکداری پنهان ایران را تحریم کرد.",
-            "این شبکه از ژانویه ۲۰۲۵ نزدیک به ۱۵ میلیارد دلار پول جابجا کرده بود.",
-            "ارزش ریال در بازار آزاد به کف تاریخی جدیدی سقوط کرد.",
-            "دولت ترامپ مصمم است تا قطع کامل منابع مالی این حکومت به فشارها ادامه دهد."
-        ],
-        "impact": "فلج شدن بیشتر شریان‌های مالی حکومت و سقوط آزاد ارزش پول ملی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "National Security Journal",
-        "url": "https://www.msn.com/en-us/money/economy/iran-s-economy-is-underwater-and-the-trump-administration-vows-to-keep-going-until-we-have-buried-the-head-of-the-snake/ar-AA2i9EFt",
-        "clean_url": "https://www.msn.com/en-us/money/economy/iran-s-economy-is-underwater-and-the-trump-administration-vows-to-keep-going-until-we-have-buried-the-head-of-the-snake/ar-AA2i9EFt",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Q4qc7.img?w=1280&h=720&m=4&q=87",
-        "timestamp": 1795550653.0
     }
 ]
