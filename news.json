@@ -512,6 +512,24 @@
         "timestamp": 1795776300.0
     },
     {
+        "id": "0eb8419697",
+        "title_fa": "فشار لبنان برای توقف درگیری‌ها و اجرای توافق مرزی",
+        "title_en": "Lebanon wants hostilities with Israel to end — president",
+        "summary": [
+            "رئیس‌جمهور لبنان خواستار پایان فوری درگیری‌ها با اسرائیل و اجرای توافق‌نامه خروج نظامیان صهیونیست از مناطق اشغالی شد.",
+            "بیروت چشم‌انتظار روی کار آمدن کابینه جدید در تل‌آویو برای پایبندی به تعهدات توافق‌شده با میانجی‌گری ایالات متحده است."
+        ],
+        "impact": "تلاش‌های دیپلماتیک برای تثبیت مرزهای جنوبی لبنان وارد فاز تازه‌ای شده است.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2226247",
+        "clean_url": "https://tass.com/world/2226247",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795776240.0
+    },
+    {
         "id": "7b8cbbd18a",
         "title_fa": "حمله متحدان نتانیاهو به منصور عباس درباره حماس",
         "title_en": "After report that Abbas plans to call Hamas a terror org, PM's allies slam him as a 'destructive' liar",
@@ -5487,23 +5505,5 @@
         "clean_url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
         "image": "http://www.bing.com/th?id=ONUT.Jaky3rdcs2O1jLYItAb_3g&pid=News",
         "timestamp": 1795530960.0
-    },
-    {
-        "id": "675a94c47d",
-        "title_fa": "همسویی دموکرات‌ها با دستور کار جمهوری‌خواهان در کنگره",
-        "title_en": "Democrats are helping push through GOP agenda despite historic blue wave",
-        "summary": [
-            "برخی دموکرات‌ها در دوره گذار با جمهوری‌خواهان همراه شده‌اند که خشم جریان‌های پیشرو را برانگیخته است",
-            "این چرخش سیاسی نشان‌دهنده شکاف عمیق در بدنه حزب دموکرات پس از شکست‌های اخیر است"
-        ],
-        "impact": "تضعیف انسجام حزبی دموکرات‌ها و تغییر در اولویت‌های قانون‌گذاری آمریکا",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/news/other/democrats-are-helping-push-through-gop-agenda-despite-historic-blue-wave/ar-AA2i9D4r",
-        "clean_url": "https://www.msn.com/en-us/news/other/democrats-are-helping-push-through-gop-agenda-despite-historic-blue-wave/ar-AA2i9D4r",
-        "image": "http://www.bing.com/th?id=ONUT.vCPZJILXvVpZP9VLiES0BQ&pid=News",
-        "timestamp": 1795529704.0
     }
 ]
