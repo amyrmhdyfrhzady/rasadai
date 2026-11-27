@@ -1,5 +1,24 @@
 [
     {
+        "id": "20c6ecf2d0",
+        "title_fa": "تهدید مستقیم اتمی؛ ترامپ از حمله به تاسیسات کلیدی خبر داد",
+        "title_en": "Iran using fabricated 'espionage' laws to silence critics abroad, US State Department says",
+        "summary": [
+            "دونالد ترامپ اعلام کرد واشنگتن زمان‌بندی اقدام نظامی بعدی را تعیین می‌کند و پیروزی در دسترس است.",
+            "آمریکا یک ناو هواپیمابر دیگر به منطقه اعزام کرده و تجهیزات نظامی خود را افزایش داده است.",
+            "ترامپ هشدار داد در صورت از سرگیری درگیری‌ها، تاسیسات زیرزمینی پیک‌اکس در نزدیکی نطنز هدف قرار خواهد گرفت."
+        ],
+        "impact": "افزایش شدید ریسک نظامی در منطقه و فشار همه‌جانبه بر تهران",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611277696",
+        "clean_url": "https://www.iranintl.com/en/202611277696",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795756200.0
+    },
+    {
         "id": "de91166767",
         "title_fa": "خط و نشان ترامپ برای ج·ه·م·و·ر·ی ا·س·لا·م·ی و تهدید تاسیسات اتمی",
         "title_en": "South Korea tells Iran it has no plans to deploy troops to region",
@@ -345,6 +364,24 @@
         "timestamp": 1795733274.0
     },
     {
+        "id": "980448fde2",
+        "title_fa": "افشای کاخ شیشه‌ای؛ جنجال فساد مالی در دهلی نو",
+        "title_en": "Delhi govt opens Kejriwal's former residence Sheesh Mahal to media",
+        "summary": [
+            "دولت جدید دهلی درهای اقامتگاه جنجالی سروزیر سابق را به روی رسانه‌ها باز کرد.",
+            "مقامات محلی مدعی شدند این اقدام ابعاد تازه‌ای از هزینه‌های نجومی و فساد مالی را عیان می‌کند."
+        ],
+        "impact": "تشدید جنگ سیاسی و افشاگری‌های جناح‌های حاکم در هند",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Asianet Newsable on MSN",
+        "url": "https://www.msn.com/en-in/news/news/delhi-govt-opens-kejriwal-s-former-residence-sheesh-mahal-to-media/ar-AA2ikU5l",
+        "clean_url": "https://www.msn.com/en-in/news/news/delhi-govt-opens-kejriwal-s-former-residence-sheesh-mahal-to-media/ar-AA2ikU5l",
+        "image": "http://www.bing.com/th?id=ONUT.AKGLw3r1x4xJUdhmNiBEtQ&pid=News",
+        "timestamp": 1795730403.0
+    },
+    {
         "id": "4377bba72a",
         "title_fa": "خودتحریمی‌های داخلی، اقتصاد ج.ا را به لبه پرتگاه رساند",
         "title_en": "Iran-backed Houthi attack on Saudi oil refinery kills one worker, injures several",
@@ -658,6 +695,24 @@
         "timestamp": 1795706100.0
     },
     {
+        "id": "bc25c0c65f",
+        "title_fa": "بحران بودجه در کنگره؛ سایه پرونده ایران روی دولت آمریکا",
+        "title_en": "Congress now has just days to avert 4th government shutdown of second Trump term, Iran war at issue",
+        "summary": [
+            "کنگره تنها چند روز فرصت دارد تا از تعطیلی احتمالی دولت جلوگیری کند.",
+            "اختلافات داخلی میان قانون‌گذاران بر سر لایحه‌های مالی و موضوعات مرتبط با سیاست خارجی بالا گرفته است."
+        ],
+        "impact": "فلج شدن احتمالی بخش‌هایی از دولت آمریکا همزمان با تنش‌های خاورمیانه",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Just The News",
+        "url": "https://justthenews.com/government/congress/lame-duck",
+        "clean_url": "https://justthenews.com/government/congress/lame-duck",
+        "image": "http://www.bing.com/th?id=ONUT.sfpVCybv4hlSm6igz8PCCA&pid=News",
+        "timestamp": 1795705920.0
+    },
+    {
         "id": "f256954a57",
         "title_fa": "تحولات جدید در ائتلاف‌های سیاسی اسرائیل",
         "title_en": "Israel's Eisenkot reaches deal with left-wing faction as coalition talks gain steam",
@@ -728,6 +783,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/democrats-plan-to-end-funding-for-iran-war-leaves-open-what-comes-next/ar-AA2ijpkW",
         "image": "http://www.bing.com/th?id=ONUT.RwRejeMdJCjrz_0G0eJdRg&pid=News",
         "timestamp": 1795701600.0
+    },
+    {
+        "id": "814ce19fb9",
+        "title_fa": "پشت صحنه دیپلماسی؛ کوشنر از خویشتن‌داری پوتین گفت",
+        "title_en": "Jared Kushner Says Putin Has Shown “Restraint” by Not Using Nuclear Weapons in Ukraine — Reveals Russian Leader Assured U.S. He Has No Intention of Going Nuclear",
+        "summary": [
+            "جرد کوشنر فاش کرد پوتین تضمین داده قصد استفاده از تسلیحات هسته‌ای در اوکراین را ندارد.",
+            "مذاکرات پشت پرده برای پایان دادن به جنگ و تغییر روابط مسکو با واشنگتن در جریان است."
+        ],
+        "impact": "تغییر معادلات پشت پرده دیپلماسی جهانی میان قدرت‌های بزرگ",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Gateway Pundit",
+        "url": "https://www.thegatewaypundit.com/2026/11/jared-kushner-says-putin-has-shown-restraint-not/",
+        "clean_url": "https://www.thegatewaypundit.com/2026/11/jared-kushner-says-putin-has-shown-restraint-not",
+        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/11/screenshot-2026-11-26-at-8.59.29pm-1200x630.jpg",
+        "timestamp": 1795701540.0
     },
     {
         "id": "c1641e88b7",
@@ -5432,78 +5505,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRjZicmtPeG9nUzk1bG9iLVhUS2ppUllzcGhEVDdGWUV5UkZtWUEwUUQyYmttTl81SFNxa3BOM09KaFpIU1VkcG84N0NhUW5oOTFNSkdHUHhka0drVDl6czUzdjRMd3F0djJhRWNNS3F2UEtrUDJNc3I2Z0dzWC1MS2g0Vk1kS0xoc2pQTHVQZ1pUTUl0dWw4",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795474811.0
-    },
-    {
-        "id": "029d76053c",
-        "title_fa": "تغییر راهبرد اسرائیل؛ از تضعیف تا نابودی کامل تهدید ن*ظ*ا*م",
-        "title_en": "Israel Must Decide What Victory in Iran Means",
-        "summary": [
-            "تل‌آویو در حال بازتعریف مفهوم پیروزی است؛ هدف دیگر صرفاً ضربه به نیروهای نیابتی نیست، بلکه سر مار در ت*ه*ر*ا*ن هدف قرار گرفته است.",
-            "بحث‌های جدی در اسرائیل برای تعیین تکلیف نهایی با پروژه‌های هسته‌ای و موشکی ج*م*ه*و*ر*ی ا*س*ل*ا*م*ی به اوج رسیده است."
-        ],
-        "impact": "افزایش احتمال حملات گسترده به تاسیسات زیربنایی و هسته‌ای در آینده نزدیک.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME9Id2JLdmVYMUxxWWlNTEZYNjU4cUlabmMtS0UxVUpoVkZPWkM0VHZ0RU5tVXhKNXJrWHhRS0pNTzFmc194dUV1VGRMNWtRR2lkcEF4cG5WbHlfREY5UFpyUmd2Y19Bc3kxblNMYnRJcU9QSE5lV3ZxOFFObXE2WTRzdUg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME9Id2JLdmVYMUxxWWlNTEZYNjU4cUlabmMtS0UxVUpoVkZPWkM0VHZ0RU5tVXhKNXJrWHhRS0pNTzFmc194dUV1VGRMNWtRR2lkcEF4cG5WbHlfREY5UFpyUmd2Y19Bc3kxblNMYnRJcU9QSE5lV3ZxOFFObXE2WTRzdUg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795474800.0
-    },
-    {
-        "id": "aac40abce6",
-        "title_fa": "مانور جدید ترامپ روی ارزش‌های محافظه‌کارانه و کارنامه کاری",
-        "title_en": "Trump says he 'ended transgender insanity' as he lists administration's biggest achievements, drawing attention to controversial claim",
-        "summary": [
-            "دونالد ترامپ با انتشار پیامی صریح، پایان دادن به دستورالعمل‌های جنسیتی را از موفقیت‌های کلیدی خود برشمرد.",
-            "این موضع‌گیری در راستای انسجام‌بخشی به پایگاه رأی رای‌دهندگان محافظه‌کار و تقابل با جناح چپ صورت می‌گیرد."
-        ],
-        "impact": "تعمیق قطب‌بندی‌های اجتماعی و سیاسی در فضای داخلی ایالات متحده.",
-        "tag": "آمریکا",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "PRIMETIMER",
-        "url": "https://www.primetimer.com/news/ended-transgender-insanity-trump-lists-his-administrations-biggest-achievements-as-controversial-claim-draws-attention",
-        "clean_url": "https://www.primetimer.com/news/ended-transgender-insanity-trump-lists-his-administrations-biggest-achievements-as-controversial-claim-draws-attention",
-        "image": "http://www.bing.com/th?id=ONUT.UB27bjMTFUdRXJyOTBgsQQ&pid=News",
-        "timestamp": 1795474080.0
-    },
-    {
-        "id": "eb775f80a3",
-        "title_fa": "خط و نشان تهران برای ارمنستان بر سر کریدورهای ترانزیتی",
-        "title_en": "Iran Warns Armenia: \"Don't Try to Bypass Us\"",
-        "summary": [
-            "مخبر با تهدید ضمنی ایروان، تلاش برای حذف ایران از مسیرهای ترانزیتی منطقه را خط قرمز جمهوری اسلامی دانست.",
-            "این واکنش ناشی از ترس تهران از کاهش نفوذ ژئوپلیتیک و از دست دادن اهرم فشار اقتصادی در قفقاز است."
-        ],
-        "impact": "تنش دیپلماتیک شدید در قفقاز و احتمال کارشکنی در پروژه‌های زیرساختی ارمنستان.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "gunaz.tv",
-        "url": "https://www.gunaz.tv/en/post/146408",
-        "clean_url": "https://www.gunaz.tv/en/post/146408",
-        "image": "https://www.gunaz.tv/storage/posts/84b631b144fa53043624.webp",
-        "timestamp": 1795474020.0
-    },
-    {
-        "id": "54c2cfa0bf",
-        "title_fa": "موانع اصلی توافق احتمالی بین واشنگتن و تـهـران",
-        "title_en": "What Issues Do The US And Iran Need to Resolve for Any Peace Deal?",
-        "summary": [
-            "پرونده هسته‌ای و محدودیت‌های غنی‌سازی همچنان بزرگترین سد در مسیر هرگونه تفاهم است.",
-            "حمایت از گروه‌های نیابتی در منطقه، مانع اصلی برای عادی‌سازی روابط با غرب محسوب می‌شود.",
-            "تحریم‌های فلج‌کننده اقتصادی، اهرم فشار اصلی آمریکا برای تغییر رفتار جـمـهـوری اسـلامـی است."
-        ],
-        "impact": "هرگونه توافق بدون تغییر در سیاست‌های منطقه‌ای و هسته‌ای، عملاً غیرممکن است.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795473862.0
     }
 ]
