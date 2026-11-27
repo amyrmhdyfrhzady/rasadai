@@ -1,5 +1,23 @@
 [
     {
+        "id": "0ad1c670d7",
+        "title_fa": "حذف ۵۳ هزار ایرانی از سفر حج به دلیل جنگ و تحریم",
+        "title_en": "War, Sanctions Leave 53,000 Iranian Applicants Out of This Year's Hajj",
+        "summary": [
+            "بحران‌های اقتصادی ناشی از تحریم‌ها و تنش‌های منطقه‌ای، دسترسی شهروندان به آیین‌های مذهبی را به شدت محدود کرده است.",
+            "ناتوانی مالی و موانع ساختاری سیستم، هزاران متقاضی را از لیست اعزام حذف کرد."
+        ],
+        "impact": "افزایش نارضایتی عمومی از ناکارشناختی سیستم در مدیریت هزینه‌ها و بحران‌های مالی",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "IranWire",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSVZISVo1TTBVUnRkMm4zczU5VVJPSVNYME9rdWRlTTQxdkRCTGdCNHUweVUzT29VbndURk9rNmhkbGVrR0o5a1BPbzVJYnFDWnhSdGZBU1RTWkFVamFvWTM3c1lLVF9jbUxIWDZTM1NMUGcwZzVwdzNDeC1JNmdMaXl1bVROYjA0ZnhYOWpfOW9BNzZjbHhXaW9BREx1cHUya2NfREtvSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSVZISVo1TTBVUnRkMm4zczU5VVJPSVNYME9rdWRlTTQxdkRCTGdCNHUweVUzT29VbndURk9rNmhkbGVrR0o5a1BPbzVJYnFDWnhSdGZBU1RTWkFVamFvWTM3c1lLVF9jbUxIWDZTM1NMUGcwZzVwdzNDeC1JNmdMaXl1bVROYjA0ZnhYOWpfOW9BNzZjbHhXaW9BREx1cHUya2NfREtvSQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795792439.0
+    },
+    {
         "id": "85fa077a3d",
         "title_fa": "هشدار تل‌آویو درباره سلاح شیمیایی و بودجه جنگی ترامپ",
         "title_en": "Trump says Iran war funded through January as Israel warns of chemical weapons development",
@@ -5488,23 +5506,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/insane-video-shows-1200-trucks-in-26-mile-traffic-jam-in-iran-as-war-strangles-economy/ar-AA2i8I0d",
         "image": "http://www.bing.com/th?id=ONUT.NSUhiB54tqACVjC6Y_B27w&pid=News",
         "timestamp": 1795508160.0
-    },
-    {
-        "id": "4770501fa6",
-        "title_fa": "سقوط سهام هوش مصنوعی و تلاطم در بازار بورس آمریکا",
-        "title_en": "Nvidia and other AI stocks get back to tumbling and drag the US market lower",
-        "summary": [
-            "حباب سهام شرکت‌های هوش مصنوعی در حال ترکیدن است و شاخص نزدک را به شدت پایین کشیده",
-            "سرمایه‌گذاران نگرانند که رشد غیرواقعی این سهام، کل بازار سرمایه و پس‌اندازهای بازنشستگی را تهدید کند"
-        ],
-        "impact": "تزلزل در اعتماد بازار به غول‌های تکنولوژی و احتمال رکود در بخش‌های وابسته به هوش مصنوعی",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Press Democrat",
-        "url": "https://www.pressdemocrat.com/2026/11/24/tech-stocks-wall-street-huang/",
-        "clean_url": "https://www.pressdemocrat.com/2026/11/24/tech-stocks-wall-street-huang",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/11/AP26321630822632-1-16x9-1.jpg?w=1999&h=1123",
-        "timestamp": 1795507860.0
     }
 ]
