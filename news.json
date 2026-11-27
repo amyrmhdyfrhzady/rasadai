@@ -1,5 +1,23 @@
 [
     {
+        "id": "b35f1016b0",
+        "title_fa": "چالش‌های راهبردی ارتش آمریکا در جنگ‌های فرسایشی",
+        "title_en": "Winning in Iran: A demarcation line",
+        "summary": [
+            "ایالات متحده در دهه‌های اخیر کارنامه مشخصی در پیروزی قاطع در جنگ‌های طولانی نداشته است.",
+            "تکنولوژی پیشرفته نظامی و نیروهای ویژه بدون داشتن دکترین پیروزی بلندمدت کارایی کامل ندارند."
+        ],
+        "impact": "تغییر محاسبات پنتاگون در درگیری‌های فرسایشی خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Washington Examiner",
+        "url": "https://www.msn.com/en-us/news/other/winning-in-iran-a-demarcation-line/ar-AA2im0Gj",
+        "clean_url": "https://www.msn.com/en-us/news/other/winning-in-iran-a-demarcation-line/ar-AA2im0Gj",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ilQME.img?w=1024&h=658&m=4&q=100",
+        "timestamp": 1795780800.0
+    },
+    {
         "id": "c58ce5d302",
         "title_fa": "بسته شدن گذرگاه‌های مرزی عراق و ایران به درخواست واشنگتن",
         "title_en": "Video: Trump says US will never let Iran acquire a nuclear",
@@ -145,6 +163,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkU1NUdhRXJTMl9OakZ5TFlTYXpGTWhVeV9zZmU0aXNFeTBmYkVRbjRGQXNrZmxBeGFoTmhlTkZMZWpSbVB2Y2dVNWJ3bGxJeDdhaURKckY5ZTJvdGRENDZXSmxUT29qZEgwT3NMS1FMd3hsb0RLaFZud0ZCTUlNTTY1Vy1KdU4xRnVLdWNNRmM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795773600.0
+    },
+    {
+        "id": "2029dff2fb",
+        "title_fa": "شرط‌گذاری تهران برای آتش‌بس در ازای اقدام آمریکا",
+        "title_en": "Iran says it will return to ceasefire if US does",
+        "summary": [
+            "تهران اعلام کرده است در صورت بازگشت ایالات متحده به آتش‌بس، این روند را اجرا خواهد کرد.",
+            "این موضع‌نشانی نشان‌دهنده تلاش برای توازن در میدان دیپلماسی تحت فشار است."
+        ],
+        "impact": "باز شدن بارقه‌های ضعیف برای مذاکرات پشت پرده یا کاهش تنش‌های مرزی.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2hHU2czOGRUamdRUjFwNks5M3E4M3pPNFFsSDU1Z3oyUFZ3R3VndXZ6QkRLaldGU0tMeEhvcS1WV000MUZkQ3lidzE0MndtZWV6Z0I2Zl9nazJqdnFqc2hEb0RkOTZyWkNvWF82OWczOUR1UnBJdHJZZWJhZWhfWlp4eFBXNHNP0gGIAUFVX3lxTE1XLWY0XzNCS044aWJ1UmpfZXpMQU13OUV1bGljb2lvQ1dTLWFJT0RRbkNVYjFTS0dwWnV3Mnl5WXRDaTFzWjdvTFRjOTg1azhicmZVWDN3bmRaVUtwTHJ1M1BLaUZiV0t3eUtrSUN4RkVlSV9FTTI4dTZmcFp6NWFsTzF1NnpvZ2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2hHU2czOGRUamdRUjFwNks5M3E4M3pPNFFsSDU1Z3oyUFZ3R3VndXZ6QkRLaldGU0tMeEhvcS1WV000MUZkQ3lidzE0MndtZWV6Z0I2Zl9nazJqdnFqc2hEb0RkOTZyWkNvWF82OWczOUR1UnBJdHJZZWJhZWhfWlp4eFBXNHNP0gGIAUFVX3lxTE1XLWY0XzNCS044aWJ1UmpfZXpMQU13OUV1bGljb2lvQ1dTLWFJT0RRbkNVYjFTS0dwWnV3Mnl5WXRDaTFzWjdvTFRjOTg1azhicmZVWDN3bmRaVUtwTHJ1M1BLaUZiV0t3eUtrSUN4RkVlSV9FTTI4dTZmcFp6NWFsTzF1NnpvZ2M",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795772382.0
     },
     {
         "id": "041aa99767",
@@ -5472,41 +5508,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT19kWDBMVGRnamhmdEpRRXE1dGpDTGJ3R2t2TzFvVW9pNWdmNFBJTloteTFTRmw4TFV4MExIVU9YY0hQa1VYNjlmTWZFd2loMXMzLVVQQWVBVTRvX2lfT0p6Z3NnbU5JejNJUmdZY2NDYzRnSzBlaXM0Ul9SbEdZVk5yaTZvYXNyeG5idg",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795494881.0
-    },
-    {
-        "id": "ae16282430",
-        "title_fa": "جنجال مداخله ترامپ در انویدیا و فشار کنگره علیه چین",
-        "title_en": "Live updates: Nvidia scandal draws bipartisan concerns in Congress",
-        "summary": [
-            "مداخله مستقیم ترامپ برای بازگرداندن مدیرعامل انویدیا، موجی از انتقادات دوحزبی را در کنگره به راه انداخته است.",
-            "سناتورهای آمریکایی خواستار تصویب فوری قوانین سخت‌گیرانه‌تر برای منع کامل صادرات تراشه‌های هوش مصنوعی به چین شدند."
-        ],
-        "impact": "احتمال تشدید تحریم‌های فناوری علیه پکن و چالش‌های حقوقی جدید برای تصمیمات اقتصادی ترامپ.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-white-house-congress-2026-live-updates-rcna611009",
-        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-white-house-congress-2026-live-updates-rcna611009",
-        "image": "http://www.bing.com/th?id=ONUT.2H0mMJZc5k0SRLbl7E3QSA&pid=News",
-        "timestamp": 1795494540.0
-    },
-    {
-        "id": "0f620532a1",
-        "title_fa": "حملات تازه ایالات متحده به مواضع وابسته به تهران",
-        "title_en": "Iran: US launches fresh strikes as hostilities flare again",
-        "summary": [
-            "تشدید دوباره درگیری‌ها در منطقه با ورود ارتش آمریکا به فاز عملیاتی جدید.",
-            "پاسخ نظامی واشنگتن به تنش‌های اخیر و تحرکات گروه‌های نیابتی."
-        ],
-        "impact": "بالارفتن ریسک امنیتی در منطقه و آمادگی نیروهای نظامی برای دور جدیدی از درگیری‌ها.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWNFQTNYTzU5VkMwWjJocU5TQ3JwYzd4ZEFFV01sU21xREt6R19pZ0Z0YVdoV3ZyQWZ3aEptRFM3aVozMVU1U1g0OXFYWkdGZTBqUzUwdEtjMkhfZmkydk9VSGtBMzFzUUloM1BNVjl4NWJoeDhrOW1XbW04VDAxSldJVHY2empRQlMzQzdySWtRNlBZ0gGUAUFVX3lxTE45R2NyMUYtdVBUdFhQVk9YeTVqdWxZR0lDNXpIOE9YSVJrY254V1MxYTZud1E4VDFTazlROVZKd1BxcUNPdHpZQUx3X0xwajNnZ3lYN09McFNkeEY1SE9kM1VrU2cxaV8yR09McjlvcEN4V1ZpZnhZOTU1NVZiN2N4eUN3cDl2M1ZxaFhDZmFWR0ZqdGE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWNFQTNYTzU5VkMwWjJocU5TQ3JwYzd4ZEFFV01sU21xREt6R19pZ0Z0YVdoV3ZyQWZ3aEptRFM3aVozMVU1U1g0OXFYWkdGZTBqUzUwdEtjMkhfZmkydk9VSGtBMzFzUUloM1BNVjl4NWJoeDhrOW1XbW04VDAxSldJVHY2empRQlMzQzdySWtRNlBZ0gGUAUFVX3lxTE45R2NyMUYtdVBUdFhQVk9YeTVqdWxZR0lDNXpIOE9YSVJrY254V1MxYTZud1E4VDFTazlROVZKd1BxcUNPdHpZQUx3X0xwajNnZ3lYN09McFNkeEY1SE9kM1VrU2cxaV8yR09McjlvcEN4V1ZpZnhZOTU1NVZiN2N4eUN3cDl2M1ZxaFhDZmFWR0ZqdGE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795492925.0
     }
 ]
