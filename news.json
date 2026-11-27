@@ -219,6 +219,25 @@
         "timestamp": 1795772382.0
     },
     {
+        "id": "48ef85a9be",
+        "title_fa": "سردرگمی در سیاست تحریمی کاخ سفید",
+        "title_en": "A Guide to Major U.S. Sanctions Imposed During Trump's Second Term",
+        "summary": [
+            "دونالد ترامپ بسته تحریمی جدیدی برای مجازات خریداران نفت و گاز روسیه امضا کرد.",
+            "چند هفته بعد از امضا، ترامپ با یک فرمان اجرایی تحریم‌ها و تعرفه‌های مرتبط با روسیه را لغو کرد.",
+            "کارشناسان ارشد سیاست خارجی این رفتار را نشانه رویکرد متناقض و غیرقابل پیش‌بینی ترامپ در دوره دوم ریاست‌جمهوری می‌دانند."
+        ],
+        "impact": "تناقض در تصمیمات تحریمی واشنگتن، کارایی ابزارهای اقتصادی علیه کشورهای هدف را کاهش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Council",
+        "url": "https://www.cfr.org/articles/a-guide-to-major-u-s-sanctions-imposed-during-trumps-second-term",
+        "clean_url": "https://www.cfr.org/articles/a-guide-to-major-u-s-sanctions-imposed-during-trumps-second-term",
+        "image": "https://assets.cfr.org/images/t_og_image_landscape/v1794499497/Sanctions/Sanctions.jpg",
+        "timestamp": 1795770000.0
+    },
+    {
         "id": "041aa99767",
         "title_fa": "هشدار ترامپ درباره هدف قرار دادن تاسیسات زیرزمینی نزدیک نطنز",
         "title_en": "Iran will not pursue chemical weapons, lawmaker says",
@@ -5489,23 +5508,5 @@
         "clean_url": "https://www.usatoday.com/story/news/politics/2026/11/24/us-envoy-not-certain-military-aid-to-israel-will-end-this-year-as-trump-promised/92939419007",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795500720.0
-    },
-    {
-        "id": "780ed1c5b7",
-        "title_fa": "درخواست رو کانا برای توقف بودجه نظامی جنگ ایران و قطع کمک به اسرائیل",
-        "title_en": "Ro Khanna Calls for Ending U.S. Military Funding for Iran War, Cutting Aid to Israel",
-        "summary": [
-            "بر اساس گزارش ایندیا نیو انگلند نیوز، رو کانا خواستار پایان دادن به تأمین مالی نظامی ایالات متحده برای جنگ ایران شده است.",
-            "طبق همین گزارش، او همچنین بر قطع کمک‌ها به اسرائیل تأکید کرده است."
-        ],
-        "impact": "بر اساس گزارش ایندیا نیو انگلند نیوز، این درخواست بر بحث‌های مربوط به بودجه نظامی آمریکا در قبال ایران و کمک‌ها به اسرائیل تمرکز دارد.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "INDIA New England News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXJHQjRHLVBhUTI4N0pzLXA2NlplT0dCTGJiUDhRYUtqQVppTGp6bXh5V1lfd2JJRHU3MmhBVUZIRVlSeTJhWHpRbVRwczRHNDk3UnFacWh3Ylp0RTF3WUI0Y2xxVW9OOC1GUElOUHBjaHBLMHllYW5nSWxzcDNTT0pkS045UkNtVWhvcEt0ODhvaVhnMDR1aXNNblNBVFE0SVctLTdnQlg2S1BuN0Nzaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXJHQjRHLVBhUTI4N0pzLXA2NlplT0dCTGJiUDhRYUtqQVppTGp6bXh5V1lfd2JJRHU3MmhBVUZIRVlSeTJhWHpRbVRwczRHNDk3UnFacWh3Ylp0RTF3WUI0Y2xxVW9OOC1GUElOUHBjaHBLMHllYW5nSWxzcDNTT0pkS045UkNtVWhvcEt0ODhvaVhnMDR1aXNNblNBVFE0SVctLTdnQlg2S1BuN0Nzaw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795499778.0
     }
 ]
