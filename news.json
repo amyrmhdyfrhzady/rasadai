@@ -54,6 +54,24 @@
         "timestamp": 1795792439.0
     },
     {
+        "id": "098dd8fc30",
+        "title_fa": "جهش بی‌سابقه هزینه حمل نفتکش‌ها همزمان با درگیری‌های دریایی",
+        "title_en": "Oil Tanker Rates Hit Record Highs Following Iran, US Shipping Attacks",
+        "summary": [
+            "کرایه حمل نفتکش‌ها به بالاترین حد تاریخی خود رسید.",
+            "تنش‌های نظامی در آب‌های منطقه و حملات به کشتی‌ها بازار انرژی را شوکه کرده است."
+        ],
+        "impact": "افزایش هزینه صادرات نفت و فشار مضاعف بر شریان‌های اقتصادی کشور.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT201NUtENmNmeVh1X1lYa01nWDR5TjZzd2t1ZGQwRVRlZ0RPamdVdDBydlp6U2pVX0FBOVRfQUd2aXdtUFB3eVVFUVFyMjhXTy02blNRVDdkRERoTk96RVNEZWNhZTBnNHFSTkhLWjZoZlhKOTlZWERLXzVyNFpoVG5tZ3pTT3BwY2V2c2tKNnlSeVpGdy1SRE9VQkI2Nmlm?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT201NUtENmNmeVh1X1lYa01nWDR5TjZzd2t1ZGQwRVRlZ0RPamdVdDBydlp6U2pVX0FBOVRfQUd2aXdtUFB3eVVFUVFyMjhXTy02blNRVDdkRERoTk96RVNEZWNhZTBnNHFSTkhLWjZoZlhKOTlZWERLXzVyNFpoVG5tZ3pTT3BwY2V2c2tKNnlSeVpGdy1SRE9VQkI2Nmlm",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795787085.0
+    },
+    {
         "id": "85fa077a3d",
         "title_fa": "هشدار تل‌آویو درباره سلاح شیمیایی و بودجه جنگی ترامپ",
         "title_en": "Trump says Iran war funded through January as Israel warns of chemical weapons development",
@@ -5486,23 +5504,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/reports-michigan-president-reversed-course-on-hiring-trev-alberts/ar-AA2i8Mup",
         "image": "http://www.bing.com/th?id=ONUT.afOaPma977D01BdJP73cfQ&pid=News",
         "timestamp": 1795510656.0
-    },
-    {
-        "id": "988597cd02",
-        "title_fa": "جنجال انتشار ویدئوی ساختگی هوش مصنوعی توسط ترامپ",
-        "title_en": "Rachel Maddow calls out Trump for posting fake ‘AI slop’ video using her voice: ‘Gross’",
-        "summary": [
-            "ترامپ ویدئویی دستکاری‌شده با صدای شبیه‌سازی‌شده مجری معروف آمریکایی درباره استقبال از او در چین منتشر کرد.",
-            "این اقدام موج جدیدی از انتقادات را درباره سوءاستفاده سیاسی از فناوری هوش مصنوعی و عمیق‌تر شدن جنگ روانی رسانه‌ای برانگیخته است."
-        ],
-        "impact": "تشدید فشارهای حقوقی و رسانه‌ای برای قانون‌گذاری روی استفاده از هوش مصنوعی در تبلیغات سیاسی.",
-        "tag": "رسانه",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/rachel-maddow-calls-trump-posting-165746319.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/rachel-maddow-calls-trump-posting-165746319.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/929239ed4445a45bda648a41db489ece50c9d1db43b8ed8d6b86bbf855c61bf9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_advocate_articles_932%2F1683e5cbf51b3514664a1f4bcb267f75.jpg_up.jpg",
-        "timestamp": 1795510620.0
     }
 ]
