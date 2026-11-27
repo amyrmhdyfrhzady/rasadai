@@ -549,6 +549,24 @@
         "timestamp": 1795777560.0
     },
     {
+        "id": "5c02ddfc05",
+        "title_fa": "پروژه فضایی ج.ا؛ پوششی برای تحقیقات اتمی",
+        "title_en": "Report: Inside Iran's secret space program",
+        "summary": [
+            "تحقیقات تازه نشان می‌دهد برنامه فضایی ج.ا سال‌هاست به عنوان پوششی برای پنهان کردن فعالیت‌های اتمی مخفیانه استفاده می‌شود.",
+            "گزارش‌های تصویری مستند اثبات می‌کند که ادعای صلح‌آمیز بودن این برنامه تنها یک سرپوش است."
+        ],
+        "impact": "افزایش فشار جهانی و تشدید تردیدها نسبت به اهداف واقعی برنامه‌های موشکی و فضایی.",
+        "tag": "اتمی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Daily Mail on MSN",
+        "url": "https://www.msn.com/en-au/news/other/report-inside-irans-secret-space-program/ar-AA2infgX",
+        "clean_url": "https://www.msn.com/en-au/news/other/report-inside-irans-secret-space-program/ar-AA2infgX",
+        "image": "http://www.bing.com/th?id=ONUT.cn7qUtqdhFaNZTRl-beo7g&pid=News",
+        "timestamp": 1795777092.0
+    },
+    {
         "id": "a3679fc7d9",
         "title_fa": "فشار اقتصادی و تقلا برای بقا در ج.ا",
         "title_en": "As Iran’s Economy Creaks Along, Millions Hang On",
@@ -5485,23 +5503,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-targets-kurdish-opposition-camp-in-northern-iraq-with-drone-strikes-watch/vi-AA2i9orn",
         "image": "https://static.toiimg.com/thumb/msid-136144682,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1795535160.0
-    },
-    {
-        "id": "59a6a4367e",
-        "title_fa": "پافشاری ج.ا بر هفت شرط و هدف‌گیری نفتکش‌ها توسط س.پ.ا.ه",
-        "title_en": "Iran insists on 7 demands as Hormuz crisis deepens, IRGC targets tankers",
-        "summary": [
-            "س.پ.ا.ه با هدف قرار دادن نفتکش‌ها، استراتژی فشار حداکثری بر بازارهای انرژی را دنبال می‌کند.",
-            "ارائه هفت شرط از سوی تهران نشان‌دهنده بن‌بست دیپلماتیک و تلاش برای امتیازگیری در میانه بحران هرمز است."
-        ],
-        "impact": "افزایش قیمت جهانی نفت و تشدید تنش‌های دریایی که مسیرهای صادراتی را ناامن کرده است.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQek9DWWZxblNxTnNiOVU0MHV1dzZiMmtqYmozWjNFQlNjQTR2eE1KdEVobUhEbjNSTzlKbXpSdTRtMy1vZXZBcTZBb3F4TjRCMVhpa1BIdEViREsyM0FBbTRldS11YzNtclBPdzFCa1N5RUp1MzBRb0NPUWlvZmxfR01zcGFIYVNjdlp6bVg0UDAyeGpSMXpueEh2QndhNEVZUmRlRmtRU3N4cHVYVWI4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQek9DWWZxblNxTnNiOVU0MHV1dzZiMmtqYmozWjNFQlNjQTR2eE1KdEVobUhEbjNSTzlKbXpSdTRtMy1vZXZBcTZBb3F4TjRCMVhpa1BIdEViREsyM0FBbTRldS11YzNtclBPdzFCa1N5RUp1MzBRb0NPUWlvZmxfR01zcGFIYVNjdlp6bVg0UDAyeGpSMXpueEh2QndhNEVZUmRlRmtRU3N4cHVYVWI4",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795534057.0
     }
 ]
