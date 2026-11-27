@@ -36,6 +36,25 @@
         "timestamp": 1795751600.0
     },
     {
+        "id": "3e1ecd7f02",
+        "title_fa": "خط و نشان ترامپ برای جـ.ـهـ.ـوری اسـ.ـلامـ.ـی و تهدید تاسیسات هسته‌ای",
+        "title_en": "Trump says China, Russia providing little support to Iran",
+        "summary": [
+            "دونالد ترامپ در سخنرانی اخیر خود تاکید کرد که ایالات متحده برای هرگونه اقدام نظامی کاملاً آماده است و زمان‌بندی آن را خودش تعیین می‌کند.",
+            "او از اعزام یک ناو هواپیمابر اضافی به منطقه خبر داد و هشدار داد که جـ.ـهـ.ـوری اسـ.ـلامـ.ـی مرتکب اشتباهات بزرگی شده است.",
+            "ترامپ همچنین به گفتگو با بنیامین نتانیاهو اشاره کرد و صراحتاً گفت که در صورت از سرگیری درگیری‌ها، تاسیسات زیرزمینی کلک‌چال یا همان کوه کلنگ در نزدیکی نطنز هدف قرار خواهد گرفت."
+        ],
+        "impact": "افزایش شدید تنش‌های نظامی و سایه سنگین جنگ بر فراز تاسیسات هسته‌ای.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611272992",
+        "clean_url": "https://www.iranintl.com/en/202611272992",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4cd35cc8eef649282f8926a2135b8c34fbc28019-5500x3773.jpg?rect=864,0,3773,3773&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795750560.0
+    },
+    {
         "id": "b54f243055",
         "title_fa": "خط و نشان ترامپ برای جـ...ـهوری اسـ...ـلامی",
         "title_en": "Bahrain condemns Iran-backed Houthi attacks on Saudi Arabia",
@@ -5487,24 +5506,5 @@
         "clean_url": "https://www.iranintl.com/en/202611232213",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/b4609a028dfafa6bb6b42a953dd29ea59103cd9e-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1795473240.0
-    },
-    {
-        "id": "a3d3570dc0",
-        "title_fa": "سقوط قیمت نفت در سایه رایزنی‌های واشنگتن و قطر",
-        "title_en": "Brent Crude Prices Slip Below $90 A Barrel: Patrick De Haan Says Oil, Refined Products Are ‘Oversold,’ While Hanke Sees Prices Staying Elevated",
-        "summary": [
-            "هم‌زمان با دیدارهای دیپلماتیک مقامات آمریکایی در قطر برای کنترل تنش‌ها، قیمت نفت برنت به زیر ۹۰ دلار عقب‌نشینی کرد.",
-            "افزایش عرضه و فروکش کردن ریسک درگیری فوری، بازار انرژی را به سمت ریزش قیمتی سوق داده است.",
-            "کاهش درآمد نفتی، شریان ارزی ج.م.ا را تضعیف کرده و فشار مالی بر شبکه نیابتی در منطقه را دوچندان می‌کند."
-        ],
-        "impact": "تنگ‌تر شدن چرخه مالی ج.م.ا و افت درآمدهای ارزی حاصل از فروش نفت.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/brent-crude-prices-slip-below-060232831.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/brent-crude-prices-slip-below-060232831.html",
-        "image": "http://www.bing.com/th?id=ONUT.bH3z7DhK_eqw8YhujwoM0Q&pid=News",
-        "timestamp": 1795471320.0
     }
 ]
