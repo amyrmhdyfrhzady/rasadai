@@ -1,5 +1,23 @@
 [
     {
+        "id": "0160eb7c81",
+        "title_fa": "مسدودسازی مرزهای تجاری ایران و عراق به دستور آمریکا",
+        "title_en": "Iran central bank chief vows to shield livelihoods as rial plunges",
+        "summary": [
+            "حکومت عراق تحت فشار مستقیم خزانه‌داری آمریکا، گذرگاه‌های مرزی غیررسمی با ایران در استان کرمانشاه را تعطیل کرد.",
+            "این اقدام شریان خروج دلار و قاچاق کالا به داخل ایران را هدف گرفته و خناق ارزی را بر گردن تهران تنگ‌تر می‌کند."
+        ],
+        "impact": "قطع کانال‌های دور زدن تحریم در مرز عراق و جهش دوباره نرخ ارز در بازار داخلی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611270114",
+        "clean_url": "https://www.iranintl.com/en/202611270114",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/31c8152ee908af40e8f122b7eee1fe9037d7ede6-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795777560.0
+    },
+    {
         "id": "a3679fc7d9",
         "title_fa": "فشار اقتصادی و تقلا برای بقا در ج.ا",
         "title_en": "As Iran’s Economy Creaks Along, Millions Hang On",
@@ -368,6 +386,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLVRkYjJ0Y1gxN0ctNldtdUtfWjJQbmFFVzdIQzRZM1ZZZ3oyWXc4d2V0dGl0a1VoaW10a29CZ0lfeUFfZUlkbmgwUUVnQzM1eEhWNld3N2dqVTk0M2hBSXlvcDZvVHV5czlWUkdxQ0RTalNyTUZwQ2dtRERsZnZmMVFnak9rSlB2QVBVNkd6Z1dBSW1tWV9xU29hcmJxWEZpWS1ScjNObjJxcW8",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795751600.0
+    },
+    {
+        "id": "28d8419fc6",
+        "title_fa": "تلاش کرملین برای شکستن انزوای فرهنگی با ابزار سینما",
+        "title_en": "About 120 Russian film festivals held abroad in past three years, culture minister says",
+        "summary": [
+            "مسکو با برگزاری جشنواره‌های فیلم در برخی کشورهای همسو، در تلاش برای حفظ نفوذ نرم خود پس از تحریم‌های همه‌جانبه غرب است.",
+            "تمرکز اصلی روسیه روی بازارهای جایگزین مانند کشورهای عضو بریکس و آسیای مرکزی قرار دارد تا انزوای رسانه‌ای خود را ترمیم کند."
+        ],
+        "impact": "مانور تبلیغاتی محدود مسکو بدون ایجاد تغییر ملموس در موازنه ژئوپلیتیک.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/society/2225913",
+        "clean_url": "https://tass.com/society/2225913",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1795751340.0
     },
     {
         "id": "3e1ecd7f02",
@@ -5473,41 +5509,5 @@
         "clean_url": "https://note.com/otanishoji/n/n9fcb0ae0c8e2",
         "image": "https://www.bing.com/th?id=ONUT.RaRM73P7iJsXX1To7F4QMQ",
         "timestamp": 1795486905.0753407
-    },
-    {
-        "id": "d01edcdb0a",
-        "title_fa": "بازداشت معلم متخلف به اتهام شکستن پای دانش‌آموز",
-        "title_en": "رییس کل بانک مرکزی: تیری در ترکش تحریم‌کنندگان نمانده است",
-        "summary": [
-            "معلم روستایی در لرستان به دلیل تنبیه بدنی شدید و شکستن پای یک دانش‌آموز کلاس دوم بازداشت شد.",
-            "این حادثه بار دیگر مسئله امنیت مدارس و رواج تنبیه بدنی در سیستم آموزشی را برجسته کرد."
-        ],
-        "impact": "افزایش خشم عمومی نسبت به وضعیت ایمنی و خشونت در مدارس کشور",
-        "tag": "اجتماعی",
-        "urgency": 4,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611246091",
-        "clean_url": "https://www.iranintl.com/202611246091",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1795486680.0
-    },
-    {
-        "id": "4058cbbcd4",
-        "title_fa": "مخالفت یائیر لاپید با حمله فوری به تاسیسات اتمی ج.ا",
-        "title_en": "Israeli opposition leader: No immediate threat justifies attack on Iran",
-        "summary": [
-            "لاپید معتقد است در شرایط فعلی هیچ تهدید فوری که توجیه‌کننده حمله نظامی به ج.ا باشد وجود ندارد.",
-            "این موضع‌گیری نشان‌دهنده شکاف در بدنه سیاسی اسرائیل درباره اولویت‌بندی تقابل با ج.ا است."
-        ],
-        "impact": "کاهش فشار روانی برای اقدام نظامی فوری در کوتاه‌مدت.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "chinadailyhk",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNDdrZ0VfcGRVd2ZScTNhZ0VBWjVZeG9HWWNGWXhtN1pCQ0YyYVd2dkZlQlVFYkRYTzhHRld6UzlzOTFDUEhuUzlrbGJjZ2dvZzVQZjBZSXE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNDdrZ0VfcGRVd2ZScTNhZ0VBWjVZeG9HWWNGWXhtN1pCQ0YyYVd2dkZlQlVFYkRYTzhHRld6UzlzOTFDUEhuUzlrbGJjZ2dvZzVQZjBZSXE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795486113.0
     }
 ]
