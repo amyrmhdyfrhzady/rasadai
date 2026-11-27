@@ -752,6 +752,25 @@
         "timestamp": 1795688885.0
     },
     {
+        "id": "a2fd5045cf",
+        "title_fa": "فشار حداکثری واشنگتن صادرات نفت ای---ران را متوقف کرد",
+        "title_en": "IRGC has full control over Strait of Hormuz, naval commander says",
+        "summary": [
+            "فرمانده نیروی دریایی سپ---اه مدعی تسلط کامل بر تنگه هرمز شد اما آمارها روایت دیگری دارند.",
+            "وزارت خزانه‌داری آمریکا اعلام کرد مخازن شناور نفت تخلیه شده و هیچ نفت‌کشی بارگیری نشده است.",
+            "مارکو روبیو تأکید کرد خسارت اقتصادی محاصره دریایی چنان سنگین است که ترامپ نیازی به اقدام نظامی بزرگ نمی‌بیند."
+        ],
+        "impact": "قطع کامل صادرات نفت به چین و روی آوردن به فروش محدود زمینی به کشورهای همسایه.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611263445",
+        "clean_url": "https://www.iranintl.com/en/202611263445",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/a0939a80b91cf2b99da12436c0722e976e72c5c0-1000x667.jpg?rect=167,0,667,667&w=200&h=200&q=90&fit=crop&auto=format",
+        "timestamp": 1795688520.0
+    },
+    {
         "id": "7665e8167c",
         "title_fa": "پرونده‌سازی مالی؛ ردیابی تراکنش‌های مشکوک شرکت‌های ترامپ",
         "title_en": "Trump’s Financial Skeletons Come Tumbling Out as Massive Bank Leak Exposes Suspicious Transactions Involving His Companies and Epstein",
@@ -5489,24 +5508,5 @@
         "clean_url": "https://apnews.com/article/stock-markets-ai-earnings-oil-feec0e25b9994b1c86b16329cf770192",
         "image": "http://www.bing.com/th?id=ONUT.w2QePBOWyEdmd-Xohwadlg&pid=News",
         "timestamp": 1795462260.0
-    },
-    {
-        "id": "df04d4de19",
-        "title_fa": "بحران ایران و تقابل بر سر معماری جدید منطقه",
-        "title_en": "US, Israel and Iran: A Conflict Deferred, Not Resolved (Part I)",
-        "summary": [
-            "پرونده ایران دیگر تنها به غنی‌سازی اتمی محدود نیست و بر سر کنترل راهبردی منطقه است.",
-            "تلاش‌های سخت‌گیرانه نتانیاهو برای جلوگیری از اتمی شدن رهاسازی نشده و دیپلماسی در کنار آمادگی نظامی پیش می‌رود.",
-            "تنگه هرمز و امنیت خلیج فارس به نقطه آسیب‌پذیری بزرگی در تقابل آمریکا و رژیم تبدیل شده‌اند."
-        ],
-        "impact": "افزایش ریسک امنیتی در خلیج فارس و آماده‌باش مستمر نظامی آمریکا و اسرائیل",
-        "tag": "راهبردی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Daily Times",
-        "url": "https://dailytimes.com.pk/1585880/us-israel-and-iran-a-conflict-deferred-not-resolved-part-i/",
-        "clean_url": "https://dailytimes.com.pk/1585880/us-israel-and-iran-a-conflict-deferred-not-resolved-part-i",
-        "image": "https://dailytimes.com.pk/assets/uploads/2025/09/Ahmed-S-Cheema-150x150-1.jpg",
-        "timestamp": 1795461600.0
     }
 ]
