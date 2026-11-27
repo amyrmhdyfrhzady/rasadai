@@ -1,5 +1,24 @@
 [
     {
+        "id": "b30fec68e2",
+        "title_fa": "فشار حداکثری ترامپ با ناو هواپیمابر و محاصره نفتی",
+        "title_en": "Trump deploys extra aircraft carrier, says Iran is making 'big mistakes'",
+        "summary": [
+            "دولت ترامپ با اعزام ناو هواپیمابر جدید و اجرای عملیات منزوی‌سازی اقتصادی، شریان صادرات نفت حکومت را کاملاً قطع کرده است.",
+            "مقام‌های ارشد آمریکایی تاکید کردند که خسارت سنگین اقتصادی به ج.ا باعث شده فعلاً نیازی به عملیات نظامی گسترده نباشد.",
+            "صادرات نفت خام به چین به صفر رسیده و حکومت تنها مقادیر ناچیزی فرآورده را به صورت قاچاق زمینی به پاکستان و افغانستان می‌فرستد."
+        ],
+        "impact": "فلج شدن کامل درآمدهای نفتی ج.ا و افزایش شدید فشار اقتصادی بر ساختار حاکمیت.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/202611270476",
+        "clean_url": "https://www.iranintl.com/en/202611270476",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/302743c9fd53ee6db129bf981e46840ea8eb358d-6500x4335.jpg?rect=0,462,6500,3413&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795744020.0
+    },
+    {
         "id": "d2b90eb992",
         "title_fa": "فشار حداکثری ترامپ به ط-ر-ح-ق-ل",
         "title_en": "Trump says ‘victory at hand’ in Iran, urges Tehran to reach deal",
@@ -5490,23 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795462783.0
-    },
-    {
-        "id": "8402e90194",
-        "title_fa": "جهش بورس‌های آسیا با صعود دوباره بازارهای مالی غرب",
-        "title_en": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
-        "summary": [
-            "بازگشت مدیرعامل ان‌ویدیا به بدنه مدیریتی، شوک مثبتی به شاخص‌های مالی جهان وارد کرد و بازارهای آسیا را صعودی کرد.",
-            "تداوم سلطه شرکت‌های غربی بر بازار هوش مصنوعی، نبض اقتصادی را در اختصارهای نوین تکنولوژی نگه داشته است."
-        ],
-        "impact": "تثبیت جریان سرمایه‌گذاری در بخش فناوری و تقویت شاخص‌های مالی غرب.",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-feec0e25b9994b1c86b16329cf770192",
-        "clean_url": "https://apnews.com/article/stock-markets-ai-earnings-oil-feec0e25b9994b1c86b16329cf770192",
-        "image": "http://www.bing.com/th?id=ONUT.w2QePBOWyEdmd-Xohwadlg&pid=News",
-        "timestamp": 1795462260.0
     }
 ]
