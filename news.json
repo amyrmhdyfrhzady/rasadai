@@ -457,6 +457,24 @@
         "timestamp": 1795796040.0
     },
     {
+        "id": "0e7f1a12fd",
+        "title_fa": "احتمال عقب نشینی راینمتال از ساخت کارخانه مهمات سازی در اوکراین",
+        "title_en": "Rheinmetall could abandon plans to build an ammunition factory in Ukraine",
+        "summary": [
+            "شرکت تسلیحاتی راینمتال آلمان ساخت کارخانه تولید مهمات در خاک اوکراین را بازبینی می کند.",
+            "هنوز تصمیم قطعی برای لغو این پروژه اتخاذ نشده اما تردیدها جدی است."
+        ],
+        "impact": "کاهش سرعت پشتیبانی تسلیحاتی مستقیم از اوکراین در صورت توقف پروژه.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "RBC Ukraine on MSN",
+        "url": "https://www.msn.com/en-us/money/general/rheinmetall-could-abandon-plans-to-build-an-ammunition-factory-in-ukraine/ar-AA2iojXq",
+        "clean_url": "https://www.msn.com/en-us/money/general/rheinmetall-could-abandon-plans-to-build-an-ammunition-factory-in-ukraine/ar-AA2iojXq",
+        "image": "http://www.bing.com/th?id=ONUT.Zt7Men_5FFdTwvPISo8JhA&pid=News",
+        "timestamp": 1795794917.0
+    },
+    {
         "id": "61bf2215b4",
         "title_fa": "نگا ه اپوزیسیون اسرائیل به سوءاستفاده ن ت ا ن ی ا ه و از تهدید ا ی ر ا ن",
         "title_en": "Opposition fears Netanyahu exploiting Iran threat to derail govt",
@@ -836,6 +854,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/winning-in-iran-a-demarcation-line/ar-AA2im0Gj",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ilQME.img?w=1024&h=658&m=4&q=100",
         "timestamp": 1795780800.0
+    },
+    {
+        "id": "ea0420a765",
+        "title_fa": "ترامپ و ارزیابی عملیاتی جنگنده ها با خلبان آمریکایی در منطقه",
+        "title_en": "‘Be Careful’: Trump Leaves Viewers Stunned After Tempting Pilot at War With Melania and His Penthouse",
+        "summary": [
+            "دونالد ترامپ در ارتباط تلفنی با یک خلبان مستقر در پایگاه شاهزاده سلطان عربستان، درباره عملکرد جنگنده های اف ۱۶ در عملیات علیه ج م ه و ر ی ا س ل ا م ی گفتگو کرد.",
+            "این مکالمه حین تبریک روز شکرگزاری انجام شد و تمرکز اصلی آن روی توان عملیاتی اسکادران هوایی آمریکا در منطقه بود."
+        ],
+        "impact": "بررسی مستقیم وضعیت آمادگی رزمی نیروی هوایی آمریکا در ماموریت های منطقه ای.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Atlanta Black Star",
+        "url": "https://atlantablackstar.com/2026/11/27/trump-leaves-viewers-stunned-after-tempting-pilot-at-war-with-melania-and-his-penthouse/",
+        "clean_url": "https://atlantablackstar.com/2026/11/27/trump-leaves-viewers-stunned-after-tempting-pilot-at-war-with-melania-and-his-penthouse",
+        "image": "http://www.bing.com/th?id=ONUT.VHFjecOq-VeuYsNNej5VCQ&pid=News",
+        "timestamp": 1795779780.0
     },
     {
         "id": "ad9fe2de96",
@@ -5456,43 +5492,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/liberman-confident-that-eisenkot-can-present-jewish-majority-coalition-by-end-of-week",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795564740.0
-    },
-    {
-        "id": "702707131e",
-        "title_fa": "حمله ائتلاف سعودی به بندر حدیده در یمن",
-        "title_en": "Iran war live: Saudi-led coalition strikes Yemen's Hodeidah port",
-        "summary": [
-            "حملات هوایی ائتلاف به بندر استراتژیک حدیده، پاسخ مستقیم به تهدیدات حوثی‌ها برای ناامن‌سازی بنادر عربستان است.",
-            "گروه حوثی پیش‌تر تهدید کرده بود در صورت حمله به حدیده، تمام بنادر دریای سرخ عربستان از جمله جده را هدف قرار می‌دهد.",
-            "این تنش‌ها نشان‌دهنده خروج وضعیت از حالت مهار شده و حرکت به سمت درگیری مستقیم در آب‌های استراتژیک منطقه است."
-        ],
-        "impact": "افزایش ریسک در مسیرهای کشتیرانی دریای سرخ و احتمال گسترش حملات پهپادی به زیرساخت‌های نفتی عربستان.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-08-01T040525Z_1121831232_RC2969AVOE7S_RTRMADP_3_ISRAEL-PALESTINIANS-YEMEN-PORT-1795209810.jpg?resize=1920%2C1440",
-        "timestamp": 1795564740.0
-    },
-    {
-        "id": "bf80b13850",
-        "title_fa": "هشدار کوشنر به اسرائیل و تشدید تهدیدهای ترکیبی ایران",
-        "title_en": "Live: Eleven hurt in second Houthi strike within days on Riyadh's tallest tower",
-        "summary": [
-            "جرد کوشنر، داماد ترامپ، هشدار داد ادامه تهاجم به غزه، اسرائیل را به یک کشور مطرود و منزوی در سطح بین‌المللی تبدیل خواهد کرد.",
-            "هم‌زمان با حملات موشکی حوثی‌ها به ریاض، سرویس‌های امنیتی اروپا درباره حملات سایبری و تهدیدات ایران علیه پایگاه‌های آمریکا در خاک اروپا آماده‌باش داده‌اند.",
-            "تهران مدعی است در صورت هرگونه حمله مستقیم واشنگتن، پایگاه‌های نظامی آمریکا در اروپا را زیر آتش می‌گیرد."
-        ],
-        "impact": "افزایش فشار سیاسی بر تل‌آویو و بالا رفتن سطح هشدار امنیتی در پایگاه‌های آمریکایی مستقر در اروپا.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/live/live-israelis-head-polls-netanyahu-fights-political-life",
-        "clean_url": "https://www.middleeasteye.net/live/live-israelis-head-polls-netanyahu-fights-political-life",
-        "image": "https://www.middleeasteye.net/sites/default/files/2026-11/000_D8D693J.jpg",
-        "timestamp": 1795564260.0
     }
 ]
