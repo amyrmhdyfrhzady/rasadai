@@ -529,6 +529,24 @@
         "timestamp": 1795799640.0
     },
     {
+        "id": "a0364fdcb1",
+        "title_fa": "ساخت تاسیسات اتمی جدید در دل کوههای مرکزی",
+        "title_en": "Iran Building New Site 40 Miles From Pickaxe Mountain: US Think Tank",
+        "summary": [
+            "تصاویر ماهواره‌ای از شروع ساخت یک سایت زیرزمینی جدید در حدفاصل نطنز و اصفهان خبر می‌دهند.",
+            "حکومت با دور زدن نظارت‌ها، به دنبال مقاوم‌سازی زیرساخت‌های اتمی خود در برابر حملات است."
+        ],
+        "impact": "افزایش ریسک درگیری‌های نظامی و تسریع پروژه اتمی تهران",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-building-new-site-40-miles-from-pickaxe-mountain-us-think-tank-12772630",
+        "clean_url": "https://www.newsweek.com/iran-building-new-site-40-miles-from-pickaxe-mountain-us-think-tank-12772630",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/HX-uYlcWgAAWZ06-1.jpg?w=1200&crop=1",
+        "timestamp": 1795799460.0
+    },
+    {
         "id": "08baee63e5",
         "title_fa": "تشدید تحرکات ج-م-ه-و-ر-ی ا-س-لا-م-ی در تنگه هرمز و آزمایش صبر کاخ سفید",
         "title_en": "Iran ramps up Hormuz attacks, testing White House patience",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoQVN6aEFhdGNqazRUNmRBbnpTc0Z5Q3Y2Y2NYZGJQLXBqYjl0SGNwbE9xQWJnUGhkekItQ0xjcUpKRXotbFlicnNNUW50RFdpZzNtQl9TWnM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795572452.0
-    },
-    {
-        "id": "791a369757",
-        "title_fa": "هشدار ترامپ درباره اتمام بودجه جنگی تهران تا ژانویه",
-        "title_en": "Donald Trump says Iran war funding lasts through January as Democratic Congress nears",
-        "summary": [
-            "ترامپ تاکید کرده که منابع مالی جی‌ش‌هست اسلامی برای درگیری‌ها تنها تا ماه ژانویه دوام می‌آورد.",
-            "نزدیک شدن کنگره دموکرات می‌تواند متغیر تازه‌ای در معادلات بودجه‌ای و فشارهای واشنگتن ایجاد کند."
-        ],
-        "impact": "تغییر موازنه قوا در واشنگتن مستقیماً روی توان مالی تهران برای ادامه جنگ‌های نیابتی اثر می‌گذارد.",
-        "tag": "آمریکا",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1795572313.0
     }
 ]
