@@ -1,5 +1,23 @@
 [
     {
+        "id": "09ccf69196",
+        "title_fa": "کشیده شدن تنش اسرائیل و ترکیه به درگیری هواداران در فرودگاه باتومی",
+        "title_en": "Israeli and Turkish soccer fans clash at Batumi airport, days after game between sides halted",
+        "summary": [
+            "انتقال مسابقه به کشور ثالث (گرجستان) هم نتوانست مانع اصطکاک و درگیری میان هواداران دو طرف شود.",
+            "امتناع آنکارا از میزبانی تیم‌های اسرائیلی، عمق تیرگی روابط دیپلماتیک و خروج کنترل شرایط از دست مسئولان را نشان می‌دهد."
+        ],
+        "impact": "تشدید محدودیت‌های امنیتی برای ورزشکاران و تماشاگران دو کشور در رویدادهای آتی بین‌المللی.",
+        "tag": "منطقه‌ای",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/israeli-and-turkish-soccer-fans-clash-at-batumi-airport-days-after-game-between-sides-halted/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/israeli-and-turkish-soccer-fans-clash-at-batumi-airport-days-after-game-between-sides-halted",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795866360.0
+    },
+    {
         "id": "e69507330b",
         "title_fa": "حمایت ترامپ از خشکاندن شریان‌های دلاری ایران در عراق",
         "title_en": "Why is Trump backing Iraq’s anti-smuggling campaign?",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://www.iranintl.com/en/202611257867",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1795595940.0
-    },
-    {
-        "id": "ea922a7f88",
-        "title_fa": "تورم مواد غذایی در ایـران و ادعای بی‌تفاویتی تـهـران",
-        "title_en": "Iran just got hit with a new problem: Food prices are up 112.6 percent in a year and Tehran insists the US blockade does not worry it",
-        "summary": [
-            "قیمت مواد غذایی در یک سال گذشته بیش از ۱۱۲ درصد جهش کرده است.",
-            "مقام‌های کـومـور اسلامی مدعی شده‌اند که محاصره دریایی آمریکا هیچ نگرانی ایجاد نکرده است.",
-            "فشار حداکثری دولت ترامپ اقتصاد داخلی را به شدت تحت فشار گذاشته است."
-        ],
-        "impact": "فشار سنگین تورم بر سفره مردم همزمان با تداوم تحریم‌های دریایی آمریکا",
-        "tag": "اقتصادی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-just-got-hit-with-a-new-problem-food-prices-are-up-112-6-percent-in-a-year-and-tehran-insists-the-us-blockade-does-not-worry-it/ar-AA2ie3Gj",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-hit-with-a-new-problem-food-prices-are-up-112-6-percent-in-a-year-and-tehran-insists-the-us-blockade-does-not-worry-it/ar-AA2ie3Gj",
-        "image": "http://www.bing.com/th?id=ONUT.WWlU5pc3TB0RuxTWjb1mFA&pid=News",
-        "timestamp": 1795595121.0
     }
 ]
