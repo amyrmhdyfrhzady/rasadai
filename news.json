@@ -291,6 +291,25 @@
         "timestamp": 1795825994.0
     },
     {
+        "id": "9f7e1f0d9c",
+        "title_fa": "گزارش ایران اینترنشنال از بازداشت و فشار بر محمودیان",
+        "title_en": "Iran flogged singer to intimidate dissidents and appease hardliners",
+        "summary": [
+            "به گزارش ایران اینترنشنال و کانال خبرانه‌ها، ماموران امنیتی یک روز پس از انتشار خبر ا.ع.د.ا.م میلاد آرمون و نوید نجاران، دو ز.ن.د.ا.ن.ی اعتراضات ۱۴۰۱، به خانه محمودیان یورش برده و او را بازداشت کردند.",
+            "کانال خبرانه‌ها اعلام کرده که نیروهای امنیتی گوشی و لپ‌تاپ این هم‌نویسنده فیلم برنده نخل طلای کن ۲۰۲۵ را ضبط کرده و در بازداشتگاه با ضربات شدید و کشیدن کیسه پلاستیکی بر سر، او را برای ا.ع.ت.ر.ا.ف اجباری تحت ش.ک.ن.ج.ه قرار داده‌اند.",
+            "در تیتر گزارش ایران اینترنشنال همچنین آمده است که برخوردهای تند قضایی و امنیتی با هنرمندان و منتقدان با هدف ترساندن مخالفان و جلب رضایت جریان‌های تندرو انجام می‌شود."
+        ],
+        "impact": "بر اساس گزارش ایران اینترنشنال، فشار امنیتی بر فعالان رسانه‌ای و چهره‌های هنری برای مهار اطلاع‌رسانی درباره وضعیت ز.ن.د.ا.ن.ی.ا.ن س.ی.ا.س.ی تشدید شده است.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611288427",
+        "clean_url": "https://www.iranintl.com/en/202611288427",
+        "image": "http://www.bing.com/th?id=ONUT.PzD96WDkIdT5Lgh5dxspow&pid=News",
+        "timestamp": 1795825980.0
+    },
+    {
         "id": "cd0ec07c19",
         "title_fa": "گزارش تایمز آو اسرائیل از غزه و تنگه هرمز",
         "title_en": "IDF says Gaza strike killed two terrorists working for Doctors Without Borders",
@@ -5473,23 +5492,5 @@
         "clean_url": "https://www.iranintl.com/en/202611258155",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/3991ec07d11989bc9a50b6be5237d365f8c18149-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1795592520.0
-    },
-    {
-        "id": "375516f995",
-        "title_fa": "تغییرات درون‌حزبی: برنامه ون‌هولن برای رهبری دموکرات‌های سنا",
-        "title_en": "Chris Van Hollen Has a Very Different Vision for Senate Democrats",
-        "summary": [
-            "سناتور ارشد مریلند به دنبال پایان دادن به دوران طولانی ریاست چاک شومر بر فراکسیون دموکرات‌های سنا است.",
-            "این رقابت داخلی نشان‌دهنده تلاش برای تغییر رویکرد رهبری دموکرات‌ها در کنگره است."
-        ],
-        "impact": "تغییر در پویایی سیاسی و تصمیم‌گیری‌های حزب دموکرات در سنا",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "U.S. News & World Report",
-        "url": "https://www.usnews.com/news/politics/articles/2026-11-25/how-chris-van-hollen-would-lead-senate-democrats",
-        "clean_url": "https://www.usnews.com/news/politics/articles/2026-11-25/how-chris-van-hollen-would-lead-senate-democrats",
-        "image": "http://www.bing.com/th?id=ONUT.VJafOelcbi40qvVzJDxZ-w&pid=News",
-        "timestamp": 1795590000.0
     }
 ]
