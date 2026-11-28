@@ -255,6 +255,24 @@
         "timestamp": 1795807408.0
     },
     {
+        "id": "95db2c16e4",
+        "title_fa": "سرکوب وحشیانه فعالان رسانه‌ای و هنرمندان در داخل",
+        "title_en": "Future of US naval base in Bahrain uncertain after Iran’s strikes – Washington Post",
+        "summary": [
+            "ماموران امنیتی با یورش به منزل یک روزنامه‌نگار و فعال رسانه‌ای، او را به اتهام اطلاع‌رسانی درباره زندانیان سیاسی بازداشت کردند.",
+            "گزارش‌ها حاکی از اعمال شکنجه‌های شدید فیزیکی از جمله خفگی با کیسه پلاستیکی برای گرفتن اعتراف اجباری است."
+        ],
+        "impact": "تشدید ارعاب و سرکوب فعالان رسانه‌ای برای جلوگیری از انتشار اخبار اعدام‌ها و اعتراضات",
+        "tag": "سرکوب",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611288794",
+        "clean_url": "https://www.iranintl.com/en/202611288794",
+        "image": "http://www.bing.com/th?id=ONUT.vOU-CsRibbQ9b9A3dPmNaA&pid=News",
+        "timestamp": 1795807200.0
+    },
+    {
         "id": "bfd0567d96",
         "title_fa": "احتمال حمله مجدد ترامپ به ج.ا از نگاه کارشناسان",
         "title_en": "Will Trump Strike Iran Again? Israeli Intel Veterans Weigh In",
@@ -5472,24 +5490,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk5DYkZWNVFNMXZvVTNQOVQzb2NjckRRcGs4dXRON3hoeWZLZTZCbFQtVTRtN1ZWNllQcno3TUpaeXJUUWpzQXM0eUg1VU9GYnBEVlNLd0syMG1EUGpWWVVaVXpzbng1bkNaRW5Ja254MXdZTVMzSjhxN1VYMFZmVE9fSEp4UFBHMTFBMFVpejdBa3NHRDNSN1hGTUNvNUQxd0VVUC1pNEJtSDVuYTNfSVlWdlZDWENrLVFvM0g4Y0lrZw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795567830.0
-    },
-    {
-        "id": "6ec754844a",
-        "title_fa": "استراتژی ترامپ: بازگشت به انرژی ارزان و فشار بر متحدان",
-        "title_en": "Trump and his friend Vladimir",
-        "summary": [
-            "ترامپ با اولویت دادن به سوخت‌های فسیلی و حذف یارانه‌های انرژی‌های تجدیدپذیر، به دنبال کاهش هزینه‌های تولید در آمریکا است.",
-            "فشار بر کشورهای دموکراتیک برای افزایش بودجه نظامی، نشان‌دهنده تغییر رویکرد واشینگتن از تامین امنیت جهانی به سمت مسئولیت‌پذیری متحدان است.",
-            "بدهی ۱۲۵ درصدی آمریکا به تولید ناخالص داخلی، پاشنه آشیل سیاست‌های مالی ترامپ است که می‌تواند در بلندمدت ثبات اقتصادی را به چالش بکشد."
-        ],
-        "impact": "تغییر اولویت‌های انرژی و نظامی آمریکا، بازارهای جهانی و تعهدات امنیتی ناتو را دگرگون می‌کند.",
-        "tag": "اقتصاد و سیاست خارجی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Spectator Australia",
-        "url": "https://www.spectator.com.au/2026/11/trump-and-his-friend-vladimir/",
-        "clean_url": "https://www.spectator.com.au/2026/11/trump-and-his-friend-vladimir",
-        "image": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2305167096_e1795005372244.jpg",
-        "timestamp": 1795567800.0
     }
 ]
