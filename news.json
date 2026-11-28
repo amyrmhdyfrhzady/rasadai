@@ -90,6 +90,24 @@
         "timestamp": 1795825994.0
     },
     {
+        "id": "eec0a4c5e6",
+        "title_fa": "رهگیری موشک کروز یمنی در آسمان ریاض",
+        "title_en": "Saudis shoot down cruise missile targeting Riyadh",
+        "summary": [
+            "پدافند عربستان یک فروند موشک کروز شلیک شده به سمت ریاض را منهدم کرد.",
+            "این حمله پس از گزارش حملات هوایی عربستان به یمن انجام شد و تنش‌ها را دوباره بالا برد."
+        ],
+        "impact": "بال رفتن ریسک امنیتی در منطقه و جدی‌تر شدن تهدیدات موشک‌های نیابتی علیه زیرساخت‌های عربستان.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/saudis-shoot-down-cruise-missile-targeting-riyadh/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudis-shoot-down-cruise-missile-targeting-riyadh",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795824000.0
+    },
+    {
         "id": "6b3903ebaf",
         "title_fa": "تهدیدهای جدید تهران همزمان با بن‌بست جنگی",
         "title_en": "Iran issues new threats as war stalemate drags on",
@@ -5471,23 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMGJNQzhRMS1Vb0xuUzF3aUNOV1llZzlqdUxyaUp0RFZtRWNBNVdtci0xWmtwTHhqS1NNZ0R0dnE3Q1QtUFA0VmJ4YnFCWGZHRWR6TUZNcnVkZ2RIYmd0aDFTaXVGTllQdUE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1795572313.0
-    },
-    {
-        "id": "5d77445437",
-        "title_fa": "توسعه موشک‌های بالستیک جدید توسط س-پ-ا-ه برای عبور از پدافند",
-        "title_en": "Iran develops new ballistic missile variants, US think tanks say",
-        "summary": [
-            "گزارش اندیشکده‌های آمریکایی نشان می‌دهد س-پ-ا-ه با ترکیب قطعات موشک‌های موجود، مدل‌های هیبریدی جدیدی برای دور زدن سیستم‌های دفاعی ساخته است.",
-            "نمایش تاسیسات زیرزمینی توسط س-پ-ا-ه، تلاشی برای قدرت‌نمایی و اثبات تداوم تولید علیرغم فشارهای بین‌المللی است."
-        ],
-        "impact": "افزایش ریسک درگیری‌های منطقه‌ای و پیچیده‌تر شدن ماموریت‌های پدافندی اسرائیل و آمریکا.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611258774",
-        "clean_url": "https://www.iranintl.com/en/202611258774",
-        "image": "http://www.bing.com/th?id=ONUT.1fA3QpP6OyTQt4oTqHZLnw&pid=News",
-        "timestamp": 1795572240.0
     }
 ]
