@@ -1,5 +1,23 @@
 [
     {
+        "id": "2e75095140",
+        "title_fa": "طرح گسترده اسرائیل برای حمله به زیرساخت‌های آب و انرژی ایران",
+        "title_en": "Israel considers large-scale plan to target Iran’s water and energy facilities",
+        "summary": [
+            "تل‌آویو بانک اهداف خود را گسترش داده و دست روی شریان‌های حیاتی کشور یعنی تاسیسات آب و انرژی گذاشته است.",
+            "هدف قرار دادن زیرساخت‌های غیرنظامی، نشانه‌ای از تغییر استراتژی برای ایجاد فلج کامل اقتصادی و افزایش فشار بر بدنه جامعه است."
+        ],
+        "impact": "احتمال وقوع بحران شدید در تامین برق و آب در صورت آغاز فاز جدید درگیری‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "AzerNews",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16UUxmQjJhZjY4aGVsc2txWlVJVVJXdi1pZWhnUWZwcGFKVGNQZXBKQ2Z5YjE5eXFabmprRDBpVDZWR2pJcnNid2hFWnhpeWFINlhONg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16UUxmQjJhZjY4aGVsc2txWlVJVVJXdi1pZWhnUWZwcGFKVGNQZXBKQ2Z5YjE5eXFabmprRDBpVDZWR2pJcnNid2hFWnhpeWFINlhONg",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1795857480.0
+    },
+    {
         "id": "795907b903",
         "title_fa": "حملات هوایی به صنعا و بندر دریای سرخ در یمن",
         "title_en": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.jns.org/opinion/column/mitchell-bard/iran-literacy-why-the-west-refuses-to-believe-its-enemy",
         "image": "http://www.bing.com/th?id=ONUT.xoLWt_gT2jZ26hXv2-pkDw&pid=News",
         "timestamp": 1795588200.0
-    },
-    {
-        "id": "45b15c8ddf",
-        "title_fa": "افت شدید صادرات نفت ایران در برابر ادعاهای تبلیغاتی س‌پ‌اه",
-        "title_en": "IRGC chief says adversaries feel defeat, Iran's forces are more prepared",
-        "summary": [
-            "در شرایطی که فرماندهان س‌پ‌اه ادعای شکست دشمنان و آمادگی کامل را مطرح می‌کنند، محاصره غیررسمی دریایی آمریکا تجارت اصلی نفت ایران با چین را عملاً متوقف کرده است.",
-            "بر خلاف ایران، رقبای منطقه‌ای در خلیج فارس توانسته‌اند حجم صادرات نفت خود را به سطوح پیش از بحران نزدیک کنند."
-        ],
-        "impact": "خفه‌شدن شریان‌های درآمد ارزی ایران و بی‌اثر شدن تبلیغات روانی داخلی",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611251857",
-        "clean_url": "https://www.iranintl.com/en/202611251857",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1795587060.0
     }
 ]
